@@ -1,6 +1,6 @@
 {
   "startTime": 1662136351891,
-  "endTime": 1662139504905,
+  "endTime": 1662140479440,
   "band_list": [
     {
       "raw_hot": 2585830,
@@ -51,8 +51,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 923234,
-      "num": 923234,
+      "raw_hot": 931001,
+      "num": 931001,
       "word": "杭州一列车长初筛阳性",
       "onboard_time": 1662135207,
       "rank": 16,
@@ -123,6 +123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 430600,
+      "num": 430600,
+      "word": "网传甜美的咬痕将影视化",
+      "onboard_time": 1662138799,
+      "rank": 13,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 429964,
       "num": 429964,
       "word": "大学生暑假送外卖赚1万7妈妈发声",
@@ -145,6 +153,14 @@
       "onboard_time": 1662130950,
       "rank": 17,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 375519,
+      "num": 375519,
+      "word": "妈妈打开电视发现看啥都要VIP",
+      "onboard_time": 1662137065,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 358046,
@@ -195,14 +211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 295654,
-      "num": 295654,
-      "word": "网传甜美的咬痕将影视化",
-      "onboard_time": 1662138799,
-      "rank": 13,
-      "category": "影视,动漫"
-    },
-    {
       "raw_hot": 290611,
       "num": 290611,
       "word": "9岁女孩得糖尿病血液似冻猪油",
@@ -211,12 +219,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 289195,
-      "num": 289195,
-      "word": "妈妈打开电视发现看啥都要VIP",
-      "onboard_time": 1662137065,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 284329,
+      "num": 284329,
+      "word": "误杀",
+      "onboard_time": 1662136761,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 275509,
@@ -299,11 +307,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 214826,
-      "num": 158913,
-      "word": "误杀",
-      "onboard_time": 1662136761,
-      "rank": 25,
+      "raw_hot": 201373,
+      "num": 92484,
+      "word": "邢菲无实物打戏花絮",
+      "onboard_time": 1662139518,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -433,6 +441,14 @@
       "onboard_time": 1662121408,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 46651,
+      "num": 46651,
+      "word": "怎么当了老师还逃不过社死",
+      "onboard_time": 1662139758,
+      "rank": 49,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [

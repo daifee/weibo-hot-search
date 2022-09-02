@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662139504905,
+  "endTime": 1662140479440,
   "band_list": [
     {
       "raw_hot": 6261105,
@@ -779,6 +779,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 931001,
+      "num": 931001,
+      "word": "杭州一列车长初筛阳性",
+      "onboard_time": 1662135207,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 927812,
       "num": 927812,
       "word": "中国人寿原董事长王滨被双开",
@@ -809,14 +817,6 @@
       "onboard_time": 1662041190,
       "rank": 24,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 923234,
-      "num": 923234,
-      "word": "杭州一列车长初筛阳性",
-      "onboard_time": 1662135207,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 922766,
@@ -2003,6 +2003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 430600,
+      "num": 430600,
+      "word": "网传甜美的咬痕将影视化",
+      "onboard_time": 1662138799,
+      "rank": 13,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 427229,
       "num": 427229,
       "word": "ive新歌获一位",
@@ -2337,6 +2345,14 @@
       "onboard_time": 1662106525,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 375519,
+      "num": 375519,
+      "word": "妈妈打开电视发现看啥都要VIP",
+      "onboard_time": 1662137065,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 374665,
@@ -3027,14 +3043,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 295654,
-      "num": 295654,
-      "word": "网传甜美的咬痕将影视化",
-      "onboard_time": 1662138799,
-      "rank": 13,
-      "category": "影视,动漫"
-    },
-    {
       "raw_hot": 295640,
       "num": 295640,
       "word": "成毅听到粉丝要做帝后的反应",
@@ -3107,14 +3115,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 289195,
-      "num": 289195,
-      "word": "妈妈打开电视发现看啥都要VIP",
-      "onboard_time": 1662137065,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 288913,
       "num": 243399,
       "word": "再也忘不了颜淡应渊了",
@@ -3153,6 +3153,14 @@
       "onboard_time": 1661996187,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284329,
+      "num": 284329,
+      "word": "误杀",
+      "onboard_time": 1662136761,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 282487,
@@ -3899,14 +3907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 214826,
-      "num": 158913,
-      "word": "误杀",
-      "onboard_time": 1662136761,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 214342,
       "num": 214342,
       "word": "jiejie上场",
@@ -4072,6 +4072,14 @@
       "word": "沉香重华",
       "onboard_time": 1662085225,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 201373,
+      "num": 92484,
+      "word": "邢菲无实物打戏花絮",
+      "onboard_time": 1662139518,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -5105,6 +5113,14 @@
       "onboard_time": 1661988022,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 46651,
+      "num": 46651,
+      "word": "怎么当了老师还逃不过社死",
+      "onboard_time": 1662139758,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 27800,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1662140479440,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1035709,
+        "num": 1035709,
+        "word": "zzr",
+        "onboard_time": 1662132569,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 931001,
+        "num": 931001,
+        "word": "杭州一列车长初筛阳性",
+        "onboard_time": 1662135207,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29632,
+        "num": 659924,
+        "word": "打卡2022服贸会",
+        "onboard_time": 1662121408,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 623926,
+        "num": 623926,
+        "word": "女子连吃数顿火锅血成牛奶色",
+        "onboard_time": 1662132865,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522555,
+        "num": 522555,
+        "word": "我国1400万人忍受极端通勤",
+        "onboard_time": 1662112765,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 558233,
+        "num": 486077,
+        "word": "东软",
+        "onboard_time": 1662131249,
+        "rank": 5,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 430600,
+        "num": 430600,
+        "word": "网传甜美的咬痕将影视化",
+        "onboard_time": 1662138799,
+        "rank": 6,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 375519,
+        "num": 375519,
+        "word": "妈妈打开电视发现看啥都要VIP",
+        "onboard_time": 1662137065,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371576,
+        "num": 371576,
+        "word": "沉香重华be",
+        "onboard_time": 1662127289,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 300685,
+        "num": 300685,
+        "word": "处处不提爱处处都是爱",
+        "onboard_time": 1662124707,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 340669,
+        "num": 296381,
+        "word": "34岁独子住院1个月花费54万病亡",
+        "onboard_time": 1662131071,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 306584,
+        "num": 296199,
+        "word": "出道战",
+        "onboard_time": 1662134188,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284329,
+        "num": 284329,
+        "word": "误杀",
+        "onboard_time": 1662136761,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 279503,
+        "num": 279503,
+        "word": "赵露思直播",
+        "onboard_time": 1662133229,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253946,
+        "num": 253946,
+        "word": "胆小鬼",
+        "onboard_time": 1662125788,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245097,
+        "num": 245097,
+        "word": "海大教师不配合核酸威胁他人被撤教师资格",
+        "onboard_time": 1662133588,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237774,
+        "num": 237774,
+        "word": "男子酒驾进了自己建的拘留所",
+        "onboard_time": 1662135266,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167465,
+        "num": 167465,
+        "word": "大学生暑假送外卖赚1万7妈妈发声",
+        "onboard_time": 1662125788,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144340,
+        "num": 144340,
+        "word": "扁头的痛只有扁头懂",
+        "onboard_time": 1662133888,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141271,
+        "num": 141271,
+        "word": "9月9日前重庆将分区分批开展核酸筛查",
+        "onboard_time": 1662130168,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234412,
+        "num": 140689,
+        "word": "管泽元采访周杰伦",
+        "onboard_time": 1662135207,
+        "rank": 20,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 213394,
+        "num": 135693,
+        "word": "王俊凯 塞拉斯",
+        "onboard_time": 1662130769,
+        "rank": 21,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 211790,
+        "num": 134523,
+        "word": "杨幂叫自己幂姐",
+        "onboard_time": 1662135987,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173518,
+        "num": 128541,
+        "word": "乘客衣着暴露在地铁上劈叉摆拍",
+        "onboard_time": 1662113187,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128309,
+        "num": 128309,
+        "word": "四川17市州1万余人驰援成都",
+        "onboard_time": 1662128669,
+        "rank": 24,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 106434,
+        "num": 106434,
+        "word": "白发老人穿衬衫西裤削土豆火了",
+        "onboard_time": 1662132330,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98165,
+        "num": 98165,
+        "word": "9岁女孩得糖尿病血液似冻猪油",
+        "onboard_time": 1662124049,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96963,
+        "num": 96963,
+        "word": "男子家中被盗2只小狗被杀害",
+        "onboard_time": 1662115886,
+        "rank": 27,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 93911,
+        "num": 93911,
+        "word": "gala状态",
+        "onboard_time": 1662126509,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 92506,
+        "num": 92506,
+        "word": "北京海淀增高中风险区各1个",
+        "onboard_time": 1662133288,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201373,
+        "num": 92484,
+        "word": "邢菲无实物打戏花絮",
+        "onboard_time": 1662139518,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192695,
+        "num": 92404,
+        "word": "沉香如屑番外",
+        "onboard_time": 1662131009,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154302,
+        "num": 92324,
+        "word": "陈立农中餐厅卖烧烤爆单了",
+        "onboard_time": 1662135567,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126711,
+        "num": 92259,
+        "word": "黑话律师",
+        "onboard_time": 1662131908,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126239,
+        "num": 92183,
+        "word": "沉香如屑大结局你满意吗",
+        "onboard_time": 1662130410,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 92118,
+        "num": 92118,
+        "word": "深圳中级",
+        "onboard_time": 1662130950,
+        "rank": 35,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 89519,
+        "num": 89519,
+        "word": "幼儿园小朋友跳皮筋馋哭80后",
+        "onboard_time": 1662122125,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87878,
+        "num": 87878,
+        "word": "广州疫情防控",
+        "onboard_time": 1662113244,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87325,
+        "num": 87325,
+        "word": "教练你怎么不喝茶啊",
+        "onboard_time": 1662129209,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81643,
+        "num": 81643,
+        "word": "EDG让二追三RNG",
+        "onboard_time": 1662124170,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105379,
+        "num": 81402,
+        "word": "刘芸听到郑钧穿私服上台的反应",
+        "onboard_time": 1662137480,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81135,
+        "num": 81135,
+        "word": "Uzi厂长同框",
+        "onboard_time": 1662130352,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 77069,
+        "num": 77069,
+        "word": "没有一个人能拒绝周五",
+        "onboard_time": 1662119187,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 69551,
+        "num": 69551,
+        "word": "北京天通苑一小区出现刺猬",
+        "onboard_time": 1662123809,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66956,
+        "num": 66956,
+        "word": "孟晚舟回母校都匀一中演讲",
+        "onboard_time": 1662116604,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63451,
+        "num": 63451,
+        "word": "员工因想报销50元话费被辞退",
+        "onboard_time": 1662112167,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61273,
+        "num": 61273,
+        "word": "日本曾将台湾和大连纳入日本领土",
+        "onboard_time": 1662107906,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60990,
+        "num": 60990,
+        "word": "深圳多区开展全员核酸检测",
+        "onboard_time": 1662128311,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49315,
+        "num": 49315,
+        "word": "小羊肖恩杯子",
+        "onboard_time": 1662130232,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 46651,
+        "num": 46651,
+        "word": "怎么当了老师还逃不过社死",
+        "onboard_time": 1662139758,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记看中国#"
+    }
+  }
+}
