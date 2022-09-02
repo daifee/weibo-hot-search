@@ -1,7 +1,23 @@
 {
   "startTime": 1662049902600,
-  "endTime": 1662088311193,
+  "endTime": 1662093997589,
   "band_list": [
+    {
+      "raw_hot": 2383437,
+      "num": 2383437,
+      "word": "姜广涛",
+      "onboard_time": 1662088765,
+      "rank": 0,
+      "category": "动漫,网红"
+    },
+    {
+      "raw_hot": 2134094,
+      "num": 2134094,
+      "word": "防窥膜 伤眼睛",
+      "onboard_time": 1662091829,
+      "rank": 1,
+      "category": "其它"
+    },
     {
       "raw_hot": 1876187,
       "num": 1876187,
@@ -24,6 +40,14 @@
       "word": "国外网友或发现南京大屠杀彩照",
       "onboard_time": 1662020008,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1340458,
+      "num": 1340458,
+      "word": "女子小店吃面挑出80多只蚂蚁",
+      "onboard_time": 1662091167,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -51,6 +75,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1110726,
+      "num": 1110726,
+      "word": "更多疑似南京大屠杀照片披露",
+      "onboard_time": 1662086847,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1072985,
+      "num": 1072985,
+      "word": "男生网购117卷卫生纸25元包邮",
+      "onboard_time": 1662087085,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1026793,
       "num": 1026793,
       "word": "张艺凡等比例长大",
@@ -67,6 +107,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 874061,
+      "num": 684847,
+      "word": "赵露思陈哲远偷偷藏不住配音代入感",
+      "onboard_time": 1662089608,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 869016,
       "num": 869016,
       "word": "宠物店主回应离开半月猫狗被饿死",
@@ -81,6 +129,14 @@
       "onboard_time": 1662081867,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 831072,
+      "num": 831072,
+      "word": "俄暂停向法德等国供气",
+      "onboard_time": 1662087923,
+      "rank": 39,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 738416,
@@ -139,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 582999,
+      "num": 582999,
+      "word": "医务人员对他人吸毒知情不报违法吗",
+      "onboard_time": 1662090387,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 581762,
       "num": 581762,
       "word": "移动公厕一次收费10元还倒计时",
@@ -179,6 +243,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 527760,
+      "num": 527760,
+      "word": "金世佳吻戏捏手好苏",
+      "onboard_time": 1662093087,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 523473,
+      "num": 523473,
+      "word": "西安地铁",
+      "onboard_time": 1662089727,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 509292,
       "num": 509292,
       "word": "长春疫情防控",
@@ -203,12 +283,20 @@
       "category": "军事,国外要闻"
     },
     {
-      "raw_hot": 485883,
-      "num": 485883,
-      "word": "更多疑似南京大屠杀照片披露",
-      "onboard_time": 1662086847,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 491460,
+      "num": 491460,
+      "word": "德国拒绝波兰巨额二战索赔",
+      "onboard_time": 1662088107,
+      "rank": 46,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 488182,
+      "num": 488182,
+      "word": "乐华娱乐撤回IPO计划",
+      "onboard_time": 1662092788,
+      "rank": 16,
+      "category": "财经,艺人"
     },
     {
       "raw_hot": 477853,
@@ -227,20 +315,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 470521,
-      "num": 470521,
-      "word": "男生网购117卷卫生纸25元包邮",
-      "onboard_time": 1662087085,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 461287,
       "num": 461287,
       "word": "当代年轻人离婚成本有多高",
       "onboard_time": 1662040472,
       "rank": 7,
       "category": "情感,社会议题"
+    },
+    {
+      "raw_hot": 440478,
+      "num": 440478,
+      "word": "余承东爆料全新通信技术",
+      "onboard_time": 1662090926,
+      "rank": 17,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 430307,
+      "num": 430307,
+      "word": "高架生猪掉落撞上奔驰",
+      "onboard_time": 1662091948,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 423975,
@@ -275,12 +371,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 392481,
+      "num": 375683,
+      "word": "鹿晗在劫难逃开播2周年",
+      "onboard_time": 1662091227,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 385798,
       "num": 385798,
       "word": "曾舜晞恋综首秀",
       "onboard_time": 1662049404,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 379495,
+      "num": 379495,
+      "word": "四川一职校新生需自带床板",
+      "onboard_time": 1662087385,
+      "rank": 34,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 374665,
@@ -307,12 +419,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 359661,
+      "num": 359661,
+      "word": "考教资有什么用",
+      "onboard_time": 1662088765,
+      "rank": 21,
+      "category": "教育"
+    },
+    {
       "raw_hot": 352757,
       "num": 352757,
       "word": "张艺兴续约街舞大使",
       "onboard_time": 1662087803,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 349791,
+      "num": 349791,
+      "word": "金莎一句我是蓝菲琳爷青回",
+      "onboard_time": 1662092909,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 349464,
@@ -347,6 +475,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 339323,
+      "num": 339323,
+      "word": "女子用扶梯传送行李砸伤路人",
+      "onboard_time": 1662091588,
+      "rank": 24,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 338520,
+      "num": 338520,
+      "word": "15岁中国飞车女孩将冲世界纪录",
+      "onboard_time": 1662090146,
+      "rank": 25,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 334968,
       "num": 334968,
       "word": "主播应聘被要求对口型卖产品",
@@ -379,6 +523,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 319759,
+      "num": 319759,
+      "word": "Junjia首发",
+      "onboard_time": 1662090506,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 316419,
+      "num": 316419,
+      "word": "教体局回应学校要求学生自带床板",
+      "onboard_time": 1662089426,
+      "rank": 27,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 309394,
       "num": 309394,
       "word": "广东教资",
@@ -393,6 +553,14 @@
       "onboard_time": 1662041190,
       "rank": 13,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 304651,
+      "num": 304651,
+      "word": "吴克群组四个男人一个包",
+      "onboard_time": 1662088403,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 303042,
@@ -459,11 +627,43 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 276456,
+      "num": 276456,
+      "word": "龙族的开学第一天有多离谱",
+      "onboard_time": 1662091348,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 275416,
+      "num": 275416,
+      "word": "教资笔试报名系统崩了",
+      "onboard_time": 1662087324,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 274319,
       "num": 274319,
       "word": "吉林疫情防控",
       "onboard_time": 1662082166,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271016,
+      "num": 271016,
+      "word": "如何用手机拍摄证件照",
+      "onboard_time": 1662093389,
+      "rank": 31,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 270889,
+      "num": 270889,
+      "word": "阿里女员工案二审维持原判",
+      "onboard_time": 1662091707,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -488,14 +688,6 @@
       "word": "教资报名",
       "onboard_time": 1662040589,
       "rank": 19,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 255036,
-      "num": 255036,
-      "word": "教资笔试报名系统崩了",
-      "onboard_time": 1662087324,
-      "rank": 27,
       "category": "教育"
     },
     {
@@ -531,6 +723,22 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 239653,
+      "num": 239653,
+      "word": "消防从客厅摘除半人高的巨型蜂窝",
+      "onboard_time": 1662087564,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236176,
+      "num": 236176,
+      "word": "计算机专业很容易单身吗",
+      "onboard_time": 1662093210,
+      "rank": 36,
+      "category": "教育,情感"
+    },
+    {
       "raw_hot": 235026,
       "num": 235026,
       "word": "杨戬续集预告",
@@ -547,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229099,
+      "num": 229099,
+      "word": "杨洋演的井启第",
+      "onboard_time": 1662089847,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 229024,
       "num": 229024,
       "word": "你心中的校园剧TOP1",
@@ -561,6 +777,22 @@
       "onboard_time": 1662073998,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216760,
+      "num": 216760,
+      "word": "冰雨火和广播剧的适配度",
+      "onboard_time": 1662090387,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 215665,
+      "num": 215665,
+      "word": "梁洁演的袁紫衣好飒一女的",
+      "onboard_time": 1662090807,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 215061,
@@ -603,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202904,
+      "num": 202904,
+      "word": "典当店老板称不会将照片交给日本政府",
+      "onboard_time": 1662093748,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202185,
       "num": 202185,
       "word": "河南增本土确诊4例无症状46例",
@@ -617,6 +857,14 @@
       "onboard_time": 1662085225,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 199771,
+      "num": 199771,
+      "word": "未定事件簿",
+      "onboard_time": 1662089064,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 199442,
@@ -649,14 +897,6 @@
       "onboard_time": 1662075502,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 192097,
-      "num": 192097,
-      "word": "四川一职校新生需自带床板",
-      "onboard_time": 1662087385,
-      "rank": 34,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 191601,
@@ -715,27 +955,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 175493,
-      "num": 175493,
-      "word": "俄暂停向法德等国供气",
-      "onboard_time": 1662087923,
-      "rank": 39,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 166840,
       "num": 166840,
       "word": "通州俩小区临时封控",
       "onboard_time": 1662045450,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 165886,
-      "num": 165886,
-      "word": "消防从客厅摘除半人高的巨型蜂窝",
-      "onboard_time": 1662087564,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -795,20 +1019,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 156552,
+      "num": 156552,
+      "word": "纳达尔",
+      "onboard_time": 1662092788,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154953,
       "num": 154953,
       "word": "浙江龙港试点农民住房公积金制度",
       "onboard_time": 1662080547,
       "rank": 45,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 154284,
-      "num": 154284,
-      "word": "德国拒绝波兰巨额二战索赔",
-      "onboard_time": 1662088107,
-      "rank": 46,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 145839,
@@ -972,7 +1196,7 @@
     },
     {
       "raw_hot": 40546,
-      "num": 1266004,
+      "num": 1631092,
       "word": "开学第一课",
       "onboard_time": 1661942188,
       "rank": 2,
