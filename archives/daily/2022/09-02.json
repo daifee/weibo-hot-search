@@ -1,6 +1,6 @@
 {
   "startTime": 1662049902600,
-  "endTime": 1662110514948,
+  "endTime": 1662111527858,
   "band_list": [
     {
       "raw_hot": 2737304,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1471500,
+      "num": 1471500,
+      "word": "日本曾将台湾和大连纳入日本领土",
+      "onboard_time": 1662107906,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1313804,
       "num": 459079,
       "word": "台湾是中国的一个省没有什么国防部",
@@ -123,20 +131,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1168562,
-      "num": 1168562,
-      "word": "日本曾将台湾和大连纳入日本领土",
-      "onboard_time": 1662107906,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1149954,
       "num": 1149954,
       "word": "苏有朋第一",
       "onboard_time": 1662098547,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1149310,
+      "num": 1149310,
+      "word": "姜sir变成姜siri",
+      "onboard_time": 1662108867,
+      "rank": 3,
+      "category": "动漫,网红"
     },
     {
       "raw_hot": 1110726,
@@ -153,14 +161,6 @@
       "onboard_time": 1662087085,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1059298,
-      "num": 1059298,
-      "word": "姜sir变成姜siri",
-      "onboard_time": 1662108867,
-      "rank": 3,
-      "category": "动漫,网红"
     },
     {
       "raw_hot": 1054796,
@@ -283,6 +283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 767612,
+      "num": 767612,
+      "word": "张智霖说差一点袁咏仪就不嫁我了",
+      "onboard_time": 1662108327,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 760302,
       "num": 760302,
       "word": "阳澄湖大闸蟹再努力也将缺席中秋",
@@ -403,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 575499,
+      "num": 575499,
+      "word": "减肥狗子出走狂炫10根火腿肠",
+      "onboard_time": 1662107605,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 572249,
       "num": 572249,
       "word": "高架生猪掉落撞上奔驰",
@@ -483,14 +499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 518606,
-      "num": 518606,
-      "word": "减肥狗子出走狂炫10根火腿肠",
-      "onboard_time": 1662107605,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 509292,
       "num": 509292,
       "word": "长春疫情防控",
@@ -507,12 +515,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 496154,
-      "num": 496154,
-      "word": "张智霖说差一点袁咏仪就不嫁我了",
-      "onboard_time": 1662108327,
-      "rank": 10,
-      "category": "综艺"
+      "raw_hot": 500205,
+      "num": 500205,
+      "word": "4500岁的打工人如何挣到1万个亿",
+      "onboard_time": 1662109885,
+      "rank": 39,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 491995,
@@ -771,6 +779,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 354386,
+      "num": 354386,
+      "word": "核酸采样机器人亮相世界人工智能大会",
+      "onboard_time": 1662106405,
+      "rank": 43,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 353383,
       "num": 353383,
       "word": "15岁中国飞车女孩将冲世界纪录",
@@ -881,14 +897,6 @@
       "onboard_time": 1662042812,
       "rank": 12,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 326282,
-      "num": 326282,
-      "word": "核酸采样机器人亮相世界人工智能大会",
-      "onboard_time": 1662106405,
-      "rank": 43,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 323777,
@@ -1107,6 +1115,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 263507,
+      "num": 263507,
+      "word": "医院每个规定都是教训换来的",
+      "onboard_time": 1662110486,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 257585,
       "num": 257585,
       "word": "哪些事是你上了大学后才知道的",
@@ -1115,8 +1131,8 @@
       "category": "情感,教育"
     },
     {
-      "raw_hot": 255877,
-      "num": 255877,
+      "raw_hot": 257140,
+      "num": 257140,
       "word": "应勇任最高检副检察长",
       "onboard_time": 1662108266,
       "rank": 49,
@@ -1177,6 +1193,14 @@
       "onboard_time": 1662087564,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238286,
+      "num": 238286,
+      "word": "狼星夏决纪录片",
+      "onboard_time": 1662111207,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 235026,
@@ -1241,6 +1265,14 @@
       "onboard_time": 1662096086,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 217277,
+      "num": 217277,
+      "word": "外交部称应警惕美方坐收渔利行为",
+      "onboard_time": 1662110006,
+      "rank": 43,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 216760,
@@ -1451,14 +1483,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 185996,
-      "num": 112220,
-      "word": "医院每个规定都是教训换来的",
-      "onboard_time": 1662110486,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 182698,
       "num": 182698,
       "word": "吉林省新增本地确诊1例无症状40例",
@@ -1473,6 +1497,14 @@
       "onboard_time": 1662073639,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 181012,
+      "num": 181012,
+      "word": "CPA延期",
+      "onboard_time": 1662110547,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 179027,
@@ -1497,14 +1529,6 @@
       "onboard_time": 1662108807,
       "rank": 38,
       "category": "艺人,美食"
-    },
-    {
-      "raw_hot": 168296,
-      "num": 168296,
-      "word": "4500岁的打工人如何挣到1万个亿",
-      "onboard_time": 1662109885,
-      "rank": 39,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 166840,
@@ -1595,12 +1619,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 156923,
+      "num": 156923,
+      "word": "陈晓时装金九封面",
+      "onboard_time": 1662110605,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 156552,
       "num": 156552,
       "word": "纳达尔",
       "onboard_time": 1662092788,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155068,
+      "num": 155068,
+      "word": "研究发现大脑能与脂肪直接对话",
+      "onboard_time": 1662110787,
+      "rank": 43,
+      "category": "其它"
     },
     {
       "raw_hot": 154953,
@@ -1619,12 +1659,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 148297,
-      "num": 148297,
-      "word": "外交部称应警惕美方坐收渔利行为",
-      "onboard_time": 1662110006,
-      "rank": 43,
-      "category": "国内要闻"
+      "raw_hot": 151145,
+      "num": 151145,
+      "word": "这是为狗狗设计的陷阱吧",
+      "onboard_time": 1662110128,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 145839,
@@ -1689,14 +1729,6 @@
       "onboard_time": 1662101724,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 121851,
-      "num": 121851,
-      "word": "这是为狗狗设计的陷阱吧",
-      "onboard_time": 1662110128,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 118695,

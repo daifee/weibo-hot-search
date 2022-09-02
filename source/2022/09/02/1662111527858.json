@@ -1,0 +1,410 @@
+{
+  "runTime": 1662111527858,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1471500,
+        "num": 1471500,
+        "word": "日本曾将台湾和大连纳入日本领土",
+        "onboard_time": 1662107906,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1355656,
+        "num": 1355656,
+        "word": "女子切开西瓜发现黄豆芽",
+        "onboard_time": 1662103346,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31103,
+        "num": 1223378,
+        "word": "开学第一课",
+        "onboard_time": 1661942188,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1149310,
+        "num": 1149310,
+        "word": "姜sir变成姜siri",
+        "onboard_time": 1662108867,
+        "rank": 3,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 799175,
+        "num": 799175,
+        "word": "央视中秋晚会第二波阵容官宣",
+        "onboard_time": 1662106166,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 774809,
+        "num": 774809,
+        "word": "女生极限通勤每天来回6.5小时",
+        "onboard_time": 1662099567,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 767612,
+        "num": 767612,
+        "word": "张智霖说差一点袁咏仪就不嫁我了",
+        "onboard_time": 1662108327,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 720228,
+        "num": 720228,
+        "word": "印度首艘国产航母正式服役",
+        "onboard_time": 1662106464,
+        "rank": 7,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 685996,
+        "num": 685996,
+        "word": "阳澄湖大闸蟹再努力也将缺席中秋",
+        "onboard_time": 1662105628,
+        "rank": 8,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 575499,
+        "num": 575499,
+        "word": "减肥狗子出走狂炫10根火腿肠",
+        "onboard_time": 1662107605,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500205,
+        "num": 500205,
+        "word": "4500岁的打工人如何挣到1万个亿",
+        "onboard_time": 1662109885,
+        "rank": 10,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 386235,
+        "num": 386235,
+        "word": "虞书欣小兰花rap",
+        "onboard_time": 1662107967,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 379867,
+        "num": 379867,
+        "word": "官方回应浙江省运会女足0比44",
+        "onboard_time": 1662105986,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 377611,
+        "num": 377611,
+        "word": "杨紫成毅新剧吻11次虐11次",
+        "onboard_time": 1662105986,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 357295,
+        "num": 357295,
+        "word": "孕妇突然流血地铁人员教科书式救助",
+        "onboard_time": 1662096028,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354386,
+        "num": 354386,
+        "word": "核酸采样机器人亮相世界人工智能大会",
+        "onboard_time": 1662106405,
+        "rank": 15,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 346354,
+        "num": 346354,
+        "word": "RNG对战EDG",
+        "onboard_time": 1662104906,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 342913,
+        "num": 342913,
+        "word": "山东新增本土确诊3例本土无症状53例",
+        "onboard_time": 1662107305,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331217,
+        "num": 331217,
+        "word": "日军曾登报比赛杀满100名中国人",
+        "onboard_time": 1662101306,
+        "rank": 18,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 303974,
+        "num": 303974,
+        "word": "披荆斩棘一公个人喜爱度排名",
+        "onboard_time": 1662104127,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308290,
+        "num": 302227,
+        "word": "吴磊健身侧颜照",
+        "onboard_time": 1662102086,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297182,
+        "num": 297182,
+        "word": "防窥膜 伤眼睛",
+        "onboard_time": 1662091829,
+        "rank": 21,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 263507,
+        "num": 263507,
+        "word": "医院每个规定都是教训换来的",
+        "onboard_time": 1662110486,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 257140,
+        "num": 257140,
+        "word": "应勇任最高检副检察长",
+        "onboard_time": 1662108266,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238286,
+        "num": 238286,
+        "word": "狼星夏决纪录片",
+        "onboard_time": 1662111207,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 231102,
+        "num": 231102,
+        "word": "父亲认出退伍儿子一把搂住",
+        "onboard_time": 1662100167,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229222,
+        "num": 229222,
+        "word": "北京正式跨入中度老龄化社会",
+        "onboard_time": 1662099866,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225663,
+        "num": 225663,
+        "word": "贾浅浅未入选作协新会员名单",
+        "onboard_time": 1662105685,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224178,
+        "num": 224178,
+        "word": "更多疑似南京大屠杀照片披露",
+        "onboard_time": 1662086847,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217277,
+        "num": 217277,
+        "word": "外交部称应警惕美方坐收渔利行为",
+        "onboard_time": 1662110006,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 215177,
+        "num": 215177,
+        "word": "丁程鑫和小学班主任合影",
+        "onboard_time": 1662106525,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214035,
+        "num": 214035,
+        "word": "苏有朋第一",
+        "onboard_time": 1662098547,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211303,
+        "num": 211303,
+        "word": "网传全员加速中3阵容",
+        "onboard_time": 1662100405,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184499,
+        "num": 184499,
+        "word": "Twins互相说下辈子约定你",
+        "onboard_time": 1662103586,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181012,
+        "num": 181012,
+        "word": "CPA延期",
+        "onboard_time": 1662110547,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 685011,
+        "num": 180981,
+        "word": "河南一医院院长当街用皮带抽打女子",
+        "onboard_time": 1662103046,
+        "rank": 35,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 178584,
+        "num": 178584,
+        "word": "这猫咪有点不太聪明的样子",
+        "onboard_time": 1662106947,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166014,
+        "num": 166014,
+        "word": "解放军战士一枪迫降无人机",
+        "onboard_time": 1662096626,
+        "rank": 37,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 164222,
+        "num": 164222,
+        "word": "女子小店吃面挑出80多只蚂蚁",
+        "onboard_time": 1662091167,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164071,
+        "num": 164071,
+        "word": "狼星总决赛应援有多卷",
+        "onboard_time": 1662110308,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161606,
+        "num": 161606,
+        "word": "西安公交地铁二孩政策开始实施",
+        "onboard_time": 1662100586,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159736,
+        "num": 159736,
+        "word": "费启鸣花35块钱追了108集土剧",
+        "onboard_time": 1662095069,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156923,
+        "num": 156923,
+        "word": "陈晓时装金九封面",
+        "onboard_time": 1662110605,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 155068,
+        "num": 155068,
+        "word": "研究发现大脑能与脂肪直接对话",
+        "onboard_time": 1662110787,
+        "rank": 43,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 151145,
+        "num": 151145,
+        "word": "这是为狗狗设计的陷阱吧",
+        "onboard_time": 1662110128,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150137,
+        "num": 150137,
+        "word": "张杰东北菜vlog",
+        "onboard_time": 1662108807,
+        "rank": 45,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 148488,
+        "num": 148488,
+        "word": "哪些事是你上了大学后才知道的",
+        "onboard_time": 1662104428,
+        "rank": 46,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 136776,
+        "num": 136776,
+        "word": "沉香如屑把睫毛许愿玩明白了",
+        "onboard_time": 1662108507,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127696,
+        "num": 127696,
+        "word": "未定事件簿莫弈启用AI语音",
+        "onboard_time": 1662110308,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117826,
+        "num": 117826,
+        "word": "当你决定以后不学英语",
+        "onboard_time": 1662097346,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#北交所设立一周年#"
+    }
+  }
+}
