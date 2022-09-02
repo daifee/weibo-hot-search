@@ -1,0 +1,410 @@
+{
+  "runTime": 1662103626408,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1797775,
+        "num": 1797775,
+        "word": "女生极限通勤每天来回6.5小时",
+        "onboard_time": 1662099567,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1054796,
+        "num": 1054796,
+        "word": "网传全员加速中3阵容",
+        "onboard_time": 1662100405,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30239,
+        "num": 952911,
+        "word": "开学第一课",
+        "onboard_time": 1661942188,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1823793,
+        "num": 923132,
+        "word": "硕士男火车卧铺摸女孩脚被拘",
+        "onboard_time": 1662100706,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 885506,
+        "num": 885506,
+        "word": "孕妇突然流血地铁人员教科书式救助",
+        "onboard_time": 1662096028,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 844426,
+        "num": 844426,
+        "word": "网传王鹤棣将客串狐妖月红篇",
+        "onboard_time": 1662099567,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 790604,
+        "num": 790604,
+        "word": "防窥膜 伤眼睛",
+        "onboard_time": 1662091829,
+        "rank": 6,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 780032,
+        "num": 780032,
+        "word": "北京正式跨入中度老龄化社会",
+        "onboard_time": 1662099866,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 709607,
+        "num": 709607,
+        "word": "解放军战士一枪迫降无人机",
+        "onboard_time": 1662096626,
+        "rank": 8,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 460189,
+        "num": 550366,
+        "word": "阿根廷副总统遭遇持枪威胁",
+        "onboard_time": 1662099505,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1047891,
+        "num": 542949,
+        "word": "苏有朋第一",
+        "onboard_time": 1662098547,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 525612,
+        "num": 525612,
+        "word": "更多疑似南京大屠杀照片披露",
+        "onboard_time": 1662086847,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479138,
+        "num": 479138,
+        "word": "费启鸣花35块钱追了108集土剧",
+        "onboard_time": 1662095069,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 455645,
+        "num": 455645,
+        "word": "女子小店吃面挑出80多只蚂蚁",
+        "onboard_time": 1662091167,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427056,
+        "num": 427056,
+        "word": "父亲认出退伍儿子一把搂住",
+        "onboard_time": 1662100167,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425587,
+        "num": 425587,
+        "word": "日军曾登报比赛杀满100名中国人",
+        "onboard_time": 1662101306,
+        "rank": 15,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 316410,
+        "num": 316410,
+        "word": "如何看待非师范专业扎堆考教资",
+        "onboard_time": 1662096504,
+        "rank": 16,
+        "category": "教育,社会议题"
+      },
+      {
+        "raw_hot": 313825,
+        "num": 313825,
+        "word": "金世佳吻戏捏手好苏",
+        "onboard_time": 1662093087,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 305781,
+        "num": 305781,
+        "word": "西安公交地铁二孩政策开始实施",
+        "onboard_time": 1662100586,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285949,
+        "num": 285949,
+        "word": "当你决定以后不学英语",
+        "onboard_time": 1662097346,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 612874,
+        "num": 277455,
+        "word": "吴磊健身侧颜照",
+        "onboard_time": 1662102086,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 522650,
+        "num": 273440,
+        "word": "许光汉韩国电台上班路透",
+        "onboard_time": 1662099687,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 414828,
+        "num": 271906,
+        "word": "张元英上班新闻图",
+        "onboard_time": 1662102326,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 263643,
+        "num": 263643,
+        "word": "典当店老板称不会将照片交给日本政府",
+        "onboard_time": 1662093748,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252125,
+        "num": 252125,
+        "word": "特斯拉两侧无人却识别出人像",
+        "onboard_time": 1662100948,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 250366,
+        "num": 250366,
+        "word": "河南一医院院长当街用皮带抽打女子",
+        "onboard_time": 1662103046,
+        "rank": 25,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 248533,
+        "num": 248533,
+        "word": "姜广涛",
+        "onboard_time": 1662088765,
+        "rank": 26,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 224097,
+        "num": 224097,
+        "word": "黑龙江新增本土确诊11例无症状207例",
+        "onboard_time": 1662098967,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202750,
+        "num": 202750,
+        "word": "快说谢谢教师资格证",
+        "onboard_time": 1662076948,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 197646,
+        "num": 197646,
+        "word": "女子用扶梯传送行李砸伤路人",
+        "onboard_time": 1662091588,
+        "rank": 29,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 245393,
+        "num": 197448,
+        "word": "被忽然之间唱哭了",
+        "onboard_time": 1662096028,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225101,
+        "num": 195373,
+        "word": "医务人员对他人吸毒知情不报违法吗",
+        "onboard_time": 1662090387,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215476,
+        "num": 193069,
+        "word": "王源海风吹胶片风随拍",
+        "onboard_time": 1662103168,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 213735,
+        "num": 190776,
+        "word": "苍兰诀宇宙",
+        "onboard_time": 1662094830,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190157,
+        "num": 190157,
+        "word": "高架生猪掉落撞上奔驰",
+        "onboard_time": 1662091948,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182594,
+        "num": 182594,
+        "word": "男生网购117卷卫生纸25元包邮",
+        "onboard_time": 1662087085,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150208,
+        "num": 150208,
+        "word": "吉林省新增本地确诊1例无症状40例",
+        "onboard_time": 1662102266,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143130,
+        "num": 143130,
+        "word": "LGD解约辰安",
+        "onboard_time": 1662096328,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142940,
+        "num": 142940,
+        "word": "女子切开西瓜发现黄豆芽",
+        "onboard_time": 1662103346,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139729,
+        "num": 139729,
+        "word": "成都新增本土确诊103例",
+        "onboard_time": 1662086247,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191122,
+        "num": 138328,
+        "word": "虞书欣的cp感",
+        "onboard_time": 1662101787,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127949,
+        "num": 127949,
+        "word": "湖南青少年篮球决赛两队互殴",
+        "onboard_time": 1662097585,
+        "rank": 41,
+        "category": "体育,社会负面"
+      },
+      {
+        "raw_hot": 120190,
+        "num": 120190,
+        "word": "龙族的开学第一天有多离谱",
+        "onboard_time": 1662091348,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 112899,
+        "num": 112899,
+        "word": "大庆疫情防控",
+        "onboard_time": 1662101724,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105399,
+        "num": 105399,
+        "word": "15岁中国飞车女孩将冲世界纪录",
+        "onboard_time": 1662090146,
+        "rank": 44,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 97183,
+        "num": 97183,
+        "word": "Junjia首发",
+        "onboard_time": 1662090506,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 95098,
+        "num": 95098,
+        "word": "计算机专业很容易单身吗",
+        "onboard_time": 1662093210,
+        "rank": 46,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 245641,
+        "num": 94034,
+        "word": "Twins互相说下辈子约定你",
+        "onboard_time": 1662103586,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 92948,
+        "num": 92948,
+        "word": "大学要参加社团吗",
+        "onboard_time": 1662103528,
+        "rank": 48,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 88475,
+        "num": 88475,
+        "word": "西安地铁",
+        "onboard_time": 1662089727,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#抗战胜利77周年#"
+    }
+  }
+}
