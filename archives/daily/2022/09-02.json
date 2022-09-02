@@ -1,6 +1,6 @@
 {
   "startTime": 1662049902600,
-  "endTime": 1662128390208,
+  "endTime": 1662129404418,
   "band_list": [
     {
       "raw_hot": 2737304,
@@ -9,6 +9,14 @@
       "onboard_time": 1662091829,
       "rank": 1,
       "category": "其它"
+    },
+    {
+      "raw_hot": 2629328,
+      "num": 2629328,
+      "word": "沉香重华be",
+      "onboard_time": 1662127289,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 2462614,
@@ -89,14 +97,6 @@
       "onboard_time": 1662112167,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1675433,
-      "num": 1675433,
-      "word": "沉香重华be",
-      "onboard_time": 1662127289,
-      "rank": 0,
-      "category": "影视"
     },
     {
       "raw_hot": 1627039,
@@ -315,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 975903,
+      "num": 975903,
+      "word": "处处不提爱处处都是爱",
+      "onboard_time": 1662124707,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 971951,
       "num": 971951,
       "word": "0713男团合体录制密逃4",
@@ -361,14 +369,6 @@
       "onboard_time": 1662121467,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 894304,
-      "num": 894304,
-      "word": "处处不提爱处处都是爱",
-      "onboard_time": 1662124707,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 885288,
@@ -491,6 +491,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 718611,
+      "num": 718611,
+      "word": "大学生暑假送外卖赚1万7妈妈发声",
+      "onboard_time": 1662125788,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 703351,
       "num": 703351,
       "word": "24名工科专业女生23个被分到一个班",
@@ -561,6 +569,14 @@
       "onboard_time": 1662124588,
       "rank": 10,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 637194,
+      "num": 637194,
+      "word": "胆小鬼",
+      "onboard_time": 1662125788,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 629884,
@@ -739,14 +755,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 532655,
-      "num": 532655,
-      "word": "大学生暑假送外卖赚1万7妈妈发声",
-      "onboard_time": 1662125788,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 528802,
       "num": 528802,
       "word": "医院每个规定都是教训换来的",
@@ -768,14 +776,6 @@
       "word": "常斌 w两个世界",
       "onboard_time": 1662120207,
       "rank": 13,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 509588,
-      "num": 509588,
-      "word": "胆小鬼",
-      "onboard_time": 1662125788,
-      "rank": 24,
       "category": "影视"
     },
     {
@@ -937,6 +937,14 @@
       "onboard_time": 1662107967,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 439468,
+      "num": 439468,
+      "word": "四川17市州1万余人驰援成都",
+      "onboard_time": 1662128669,
+      "rank": 13,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 427229,
@@ -1128,6 +1136,14 @@
       "word": "网传专家铺地毯下地为不实消息",
       "onboard_time": 1662045628,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 365150,
+      "num": 365150,
+      "word": "深圳多区开展全员核酸检测",
+      "onboard_time": 1662128311,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -1339,6 +1355,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 318272,
+      "num": 234786,
+      "word": "英雄联盟明星表演赛",
+      "onboard_time": 1662128910,
+      "rank": 31,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 316419,
       "num": 316419,
       "word": "教体局回应学校要求学生自带床板",
@@ -1377,6 +1401,14 @@
       "onboard_time": 1662126150,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305031,
+      "num": 234487,
+      "word": "指环王",
+      "onboard_time": 1662128788,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 304651,
@@ -1475,12 +1507,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 292476,
+      "num": 292476,
+      "word": "东莞一废弃厂房发生火灾致7死",
+      "onboard_time": 1662126032,
+      "rank": 44,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 290664,
       "num": 290664,
       "word": "汪涵保剑锋70后的共鸣",
       "onboard_time": 1662043893,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 288913,
+      "num": 243399,
+      "word": "再也忘不了颜淡应渊了",
+      "onboard_time": 1662126690,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 288200,
@@ -1571,6 +1619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274690,
+      "num": 205686,
+      "word": "颜淡应渊最后一次看星空",
+      "onboard_time": 1662129028,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 274319,
       "num": 274319,
       "word": "吉林疫情防控",
@@ -1585,14 +1641,6 @@
       "onboard_time": 1662093389,
       "rank": 31,
       "category": "科技"
-    },
-    {
-      "raw_hot": 270510,
-      "num": 243399,
-      "word": "再也忘不了颜淡应渊了",
-      "onboard_time": 1662126690,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 268949,
@@ -1768,6 +1816,22 @@
       "word": "武汉新增本土无症状15例",
       "onboard_time": 1662083725,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233855,
+      "num": 233855,
+      "word": "教练你怎么不喝茶啊",
+      "onboard_time": 1662129209,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 230508,
+      "num": 230508,
+      "word": "长春暂不采取静默管理",
+      "onboard_time": 1662127589,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -2011,6 +2075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195813,
+      "num": 195813,
+      "word": "Viper 稳",
+      "onboard_time": 1662128433,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 192356,
       "num": 192356,
       "word": "湖南青少年篮球决赛两队互殴",
@@ -2107,14 +2179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 172768,
-      "num": 172768,
-      "word": "深圳多区开展全员核酸检测",
-      "onboard_time": 1662128311,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171610,
       "num": 171610,
       "word": "那些被退换的衣服都去哪儿了",
@@ -2145,14 +2209,6 @@
       "onboard_time": 1662045450,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 166219,
-      "num": 166219,
-      "word": "东莞一废弃厂房发生火灾致7死",
-      "onboard_time": 1662126032,
-      "rank": 44,
-      "category": "社会负面"
     },
     {
       "raw_hot": 165742,
@@ -2273,14 +2329,6 @@
       "onboard_time": 1662080547,
       "rank": 45,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 154095,
-      "num": 154095,
-      "word": "长春暂不采取静默管理",
-      "onboard_time": 1662127589,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152620,
