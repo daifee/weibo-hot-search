@@ -1,6 +1,6 @@
 {
   "startTime": 1662049902600,
-  "endTime": 1662094969848,
+  "endTime": 1662098572034,
   "band_list": [
     {
       "raw_hot": 2737304,
@@ -59,6 +59,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1310747,
+      "num": 1310747,
+      "word": "孕妇突然流血地铁人员教科书式救助",
+      "onboard_time": 1662096028,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1272654,
       "num": 1272654,
       "word": "三星嘲讽苹果iPhone14缺乏创新",
@@ -73,6 +81,14 @@
       "onboard_time": 1662076766,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1214081,
+      "num": 590863,
+      "word": "费启鸣花35块钱追了108集土剧",
+      "onboard_time": 1662095069,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1110726,
@@ -139,6 +155,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 802795,
+      "num": 278241,
+      "word": "王鹤棣机车造型",
+      "onboard_time": 1662098310,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 787499,
       "num": 787499,
       "word": "金世佳吻戏捏手好苏",
@@ -153,6 +177,14 @@
       "onboard_time": 1662032248,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 700533,
+      "num": 700533,
+      "word": "杜华情商",
+      "onboard_time": 1662096749,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 655495,
@@ -208,6 +240,14 @@
       "word": "男子抓155只壁虎后自己被抓了",
       "onboard_time": 1662049703,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 589324,
+      "num": 589324,
+      "word": "典当店老板称不会将照片交给日本政府",
+      "onboard_time": 1662093748,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -283,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 544863,
+      "num": 544863,
+      "word": "解放军战士一枪迫降无人机",
+      "onboard_time": 1662096626,
+      "rank": 12,
+      "category": "军事"
+    },
+    {
       "raw_hot": 523473,
       "num": 523473,
       "word": "西安地铁",
@@ -347,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 467224,
+      "num": 467224,
+      "word": "披荆斩棘的哥哥",
+      "onboard_time": 1662094950,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 461287,
       "num": 461287,
       "word": "当代年轻人离婚成本有多高",
@@ -371,12 +427,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 404521,
-      "num": 404521,
+      "raw_hot": 411843,
+      "num": 591222,
       "word": "女子用扶梯传送行李砸伤路人",
       "onboard_time": 1662091588,
       "rank": 24,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 406100,
+      "num": 277976,
+      "word": "被忽然之间唱哭了",
+      "onboard_time": 1662096028,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 402483,
@@ -515,6 +579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 336511,
+      "num": 336511,
+      "word": "LGD解约辰安",
+      "onboard_time": 1662096328,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 334968,
       "num": 334968,
       "word": "主播应聘被要求对口型卖产品",
@@ -545,6 +617,14 @@
       "onboard_time": 1662042812,
       "rank": 12,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 323777,
+      "num": 261032,
+      "word": "导演说陈晓王一博有天赋",
+      "onboard_time": 1662095607,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 320879,
@@ -627,20 +707,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 290814,
+      "num": 290814,
+      "word": "当你决定以后不学英语",
+      "onboard_time": 1662097346,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 290664,
       "num": 290664,
       "word": "汪涵保剑锋70后的共鸣",
       "onboard_time": 1662043893,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 284600,
-      "num": 284600,
-      "word": "典当店老板称不会将照片交给日本政府",
-      "onboard_time": 1662093748,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 282205,
@@ -723,6 +803,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 261763,
+      "num": 261763,
+      "word": "美国典当行老板最新回应",
+      "onboard_time": 1662094230,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252664,
       "num": 252664,
       "word": "成都疫情传入链条超过20条",
@@ -803,6 +891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224969,
+      "num": 155513,
+      "word": "玄夜骗爱把自己搭进去了",
+      "onboard_time": 1662096086,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 216760,
       "num": 216760,
       "word": "冰雨火和广播剧的适配度",
@@ -843,6 +939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 209684,
+      "num": 155208,
+      "word": "杨紫成毅陕西话版沉香如屑",
+      "onboard_time": 1662097228,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 208188,
       "num": 192756,
       "word": "刘诗诗一念关山造型路透",
@@ -875,6 +979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 200683,
+      "num": 123750,
+      "word": "苏有朋第一",
+      "onboard_time": 1662098547,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199771,
       "num": 199771,
       "word": "未定事件簿",
@@ -896,14 +1008,6 @@
       "word": "9月1日新增确诊373例",
       "onboard_time": 1662084627,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 198935,
-      "num": 198935,
-      "word": "美国典当行老板最新回应",
-      "onboard_time": 1662094230,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -979,6 +1083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177637,
+      "num": 177637,
+      "word": "如何看待非师范专业扎堆考教资",
+      "onboard_time": 1662096504,
+      "rank": 34,
+      "category": "教育,社会议题"
+    },
+    {
       "raw_hot": 166840,
       "num": 166840,
       "word": "通州俩小区临时封控",
@@ -1009,6 +1121,14 @@
       "onboard_time": 1662045210,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 161062,
+      "num": 161062,
+      "word": "湖南青少年篮球决赛两队互殴",
+      "onboard_time": 1662097585,
+      "rank": 37,
+      "category": "体育,社会负面"
     },
     {
       "raw_hot": 160913,
@@ -1059,20 +1179,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 156454,
-      "num": 156454,
-      "word": "披荆斩棘的哥哥",
-      "onboard_time": 1662094950,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 154953,
       "num": 154953,
       "word": "浙江龙港试点农民住房公积金制度",
       "onboard_time": 1662080547,
       "rank": 45,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 152620,
+      "num": 152620,
+      "word": "00后如何看待一键美颜",
+      "onboard_time": 1662095727,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 145839,

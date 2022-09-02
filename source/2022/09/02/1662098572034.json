@@ -1,0 +1,410 @@
+{
+  "runTime": 1662098572034,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2070697,
+        "num": 2070697,
+        "word": "防窥膜 伤眼睛",
+        "onboard_time": 1662091829,
+        "rank": 0,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 1310747,
+        "num": 1310747,
+        "word": "孕妇突然流血地铁人员教科书式救助",
+        "onboard_time": 1662096028,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32571,
+        "num": 1114078,
+        "word": "开学第一课",
+        "onboard_time": 1661942188,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1046420,
+        "num": 1046420,
+        "word": "更多疑似南京大屠杀照片披露",
+        "onboard_time": 1662086847,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 886454,
+        "num": 886454,
+        "word": "女子小店吃面挑出80多只蚂蚁",
+        "onboard_time": 1662091167,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 769374,
+        "num": 769374,
+        "word": "快说谢谢教师资格证",
+        "onboard_time": 1662076948,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 767731,
+        "num": 767731,
+        "word": "金世佳吻戏捏手好苏",
+        "onboard_time": 1662093087,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 739996,
+        "num": 739996,
+        "word": "姜广涛",
+        "onboard_time": 1662088765,
+        "rank": 7,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 700533,
+        "num": 700533,
+        "word": "杜华情商",
+        "onboard_time": 1662096749,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 411843,
+        "num": 591222,
+        "word": "女子用扶梯传送行李砸伤路人",
+        "onboard_time": 1662091588,
+        "rank": 9,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1214081,
+        "num": 590863,
+        "word": "费启鸣花35块钱追了108集土剧",
+        "onboard_time": 1662095069,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 589324,
+        "num": 589324,
+        "word": "典当店老板称不会将照片交给日本政府",
+        "onboard_time": 1662093748,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544863,
+        "num": 544863,
+        "word": "解放军战士一枪迫降无人机",
+        "onboard_time": 1662096626,
+        "rank": 12,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 496777,
+        "num": 496777,
+        "word": "男生网购117卷卫生纸25元包邮",
+        "onboard_time": 1662087085,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479480,
+        "num": 479480,
+        "word": "苍兰诀宇宙",
+        "onboard_time": 1662094830,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 467224,
+        "num": 467224,
+        "word": "披荆斩棘的哥哥",
+        "onboard_time": 1662094950,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 408351,
+        "num": 408351,
+        "word": "高架生猪掉落撞上奔驰",
+        "onboard_time": 1662091948,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336511,
+        "num": 336511,
+        "word": "LGD解约辰安",
+        "onboard_time": 1662096328,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 290814,
+        "num": 290814,
+        "word": "当你决定以后不学英语",
+        "onboard_time": 1662097346,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 278886,
+        "num": 278886,
+        "word": "房车情侣回应被叫停车场乞丐",
+        "onboard_time": 1662073819,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 802795,
+        "num": 278241,
+        "word": "王鹤棣机车造型",
+        "onboard_time": 1662098310,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 459005,
+        "num": 278029,
+        "word": "乐华娱乐撤回IPO计划",
+        "onboard_time": 1662092788,
+        "rank": 21,
+        "category": "财经,艺人"
+      },
+      {
+        "raw_hot": 406100,
+        "num": 277976,
+        "word": "被忽然之间唱哭了",
+        "onboard_time": 1662096028,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276966,
+        "num": 276966,
+        "word": "计算机专业很容易单身吗",
+        "onboard_time": 1662093210,
+        "rank": 23,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 261763,
+        "num": 261763,
+        "word": "美国典当行老板最新回应",
+        "onboard_time": 1662094230,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323777,
+        "num": 261032,
+        "word": "导演说陈晓王一博有天赋",
+        "onboard_time": 1662095607,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253458,
+        "num": 253458,
+        "word": "阿里女员工案二审维持原判",
+        "onboard_time": 1662091707,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247590,
+        "num": 247590,
+        "word": "西安地铁",
+        "onboard_time": 1662089727,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218498,
+        "num": 218498,
+        "word": "15岁中国飞车女孩将冲世界纪录",
+        "onboard_time": 1662090146,
+        "rank": 28,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 217205,
+        "num": 217205,
+        "word": "余承东爆料全新通信技术",
+        "onboard_time": 1662090926,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 291438,
+        "num": 215387,
+        "word": "金莎一句我是蓝菲琳爷青回",
+        "onboard_time": 1662092909,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282491,
+        "num": 214650,
+        "word": "赵露思陈哲远偷偷藏不住配音代入感",
+        "onboard_time": 1662089608,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 271440,
+        "num": 213589,
+        "word": "医务人员对他人吸毒知情不报违法吗",
+        "onboard_time": 1662090387,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210298,
+        "num": 210298,
+        "word": "成都疫情防控",
+        "onboard_time": 1662076766,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177637,
+        "num": 177637,
+        "word": "如何看待非师范专业扎堆考教资",
+        "onboard_time": 1662096504,
+        "rank": 34,
+        "category": "教育,社会议题"
+      },
+      {
+        "raw_hot": 173630,
+        "num": 173630,
+        "word": "成都新增本土确诊103例",
+        "onboard_time": 1662086247,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166408,
+        "num": 166408,
+        "word": "龙族的开学第一天有多离谱",
+        "onboard_time": 1662091348,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 161062,
+        "num": 161062,
+        "word": "湖南青少年篮球决赛两队互殴",
+        "onboard_time": 1662097585,
+        "rank": 37,
+        "category": "体育,社会负面"
+      },
+      {
+        "raw_hot": 158131,
+        "num": 158131,
+        "word": "俄暂停向法德等国供气",
+        "onboard_time": 1662087923,
+        "rank": 38,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 157391,
+        "num": 157391,
+        "word": "Junjia首发",
+        "onboard_time": 1662090506,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 224969,
+        "num": 155513,
+        "word": "玄夜骗爱把自己搭进去了",
+        "onboard_time": 1662096086,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209684,
+        "num": 155208,
+        "word": "杨紫成毅陕西话版沉香如屑",
+        "onboard_time": 1662097228,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152620,
+        "num": 152620,
+        "word": "00后如何看待一键美颜",
+        "onboard_time": 1662095727,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147838,
+        "num": 147838,
+        "word": "德国拒绝波兰巨额二战索赔",
+        "onboard_time": 1662088107,
+        "rank": 43,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 138271,
+        "num": 138271,
+        "word": "考教资有什么用",
+        "onboard_time": 1662088765,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 127120,
+        "num": 127120,
+        "word": "这猫怎么做到又瘦又胖的",
+        "onboard_time": 1662077846,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125841,
+        "num": 125841,
+        "word": "教资笔试报名系统崩了",
+        "onboard_time": 1662087324,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 200683,
+        "num": 123750,
+        "word": "苏有朋第一",
+        "onboard_time": 1662098547,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121194,
+        "num": 121194,
+        "word": "教体局回应学校要求学生自带床板",
+        "onboard_time": 1662089426,
+        "rank": 48,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 117509,
+        "num": 117509,
+        "word": "吉林卫健委",
+        "onboard_time": 1662086067,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#直击中国国际服贸会#"
+    }
+  }
+}
