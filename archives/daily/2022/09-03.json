@@ -1,6 +1,6 @@
 {
   "startTime": 1662136351891,
-  "endTime": 1662153473600,
+  "endTime": 1662154605134,
   "band_list": [
     {
       "raw_hot": 2585830,
@@ -467,6 +467,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 25130,
+      "num": 25130,
+      "word": "济宁疫情防控",
+      "onboard_time": 1662154391,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24752,
+      "num": 24752,
+      "word": "3胞胎中2人考同所大学笑成复制粘贴",
+      "onboard_time": 1662152650,
+      "rank": 44,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 22157,
       "num": 22157,
       "word": "沉香夫妇情感立意高级",
@@ -483,20 +499,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 13004,
-      "num": 13004,
-      "word": "3胞胎中2人考同所大学笑成复制粘贴",
-      "onboard_time": 1662152650,
-      "rank": 44,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 12621,
       "num": 12621,
       "word": "林峯吴卓羲早期唱跳舞台",
       "onboard_time": 1662151092,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 11386,
+      "num": 11386,
+      "word": "狗子头顶杀马特造型为理发店看门",
+      "onboard_time": 1662153490,
+      "rank": 48,
+      "category": "社会新闻,幽默"
     }
   ],
   "hotgov_list": [

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/08/29 00:29:13 ~ 2022/09/03 05:17:53
+本榜单时间：2022/08/29 00:29:13 ~ 2022/09/03 05:36:45
 </p>
 </blockquote>
 <p>
@@ -8523,6 +8523,12 @@ K甲（热度：38124）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%233%E8%83%9E%E8%83%8E%E4%B8%AD2%E4%BA%BA%E8%80%83%E5%90%8C%E6%89%80%E5%A4%A7%E5%AD%A6%E7%AC%91%E6%88%90%E5%A4%8D%E5%88%B6%E7%B2%98%E8%B4%B4%23" target="weibo">
+3胞胎中2人考同所大学笑成复制粘贴（热度：24752）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%BF%99%E5%B0%B1%E6%98%AF%E7%8E%B0%E5%AE%9E%E7%89%88%E9%BE%9F%E5%85%94%E8%B5%9B%E8%B7%91%23" target="weibo">
 原来这就是现实版龟兔赛跑（热度：23014）
 </a>
@@ -8571,12 +8577,6 @@ K甲（热度：38124）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%233%E8%83%9E%E8%83%8E%E4%B8%AD2%E4%BA%BA%E8%80%83%E5%90%8C%E6%89%80%E5%A4%A7%E5%AD%A6%E7%AC%91%E6%88%90%E5%A4%8D%E5%88%B6%E7%B2%98%E8%B4%B4%23" target="weibo">
-3胞胎中2人考同所大学笑成复制粘贴（热度：13004）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%95%BF%E6%9C%89%E6%80%81%E5%BA%A6%23" target="weibo">
 成长有态度（热度：12757）
 </a>
@@ -8585,6 +8585,12 @@ K甲（热度：38124）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%B3%AF%E5%90%B4%E5%8D%93%E7%BE%B2%E6%97%A9%E6%9C%9F%E5%94%B1%E8%B7%B3%E8%88%9E%E5%8F%B0%23" target="weibo">
 林峯吴卓羲早期唱跳舞台（热度：12621）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E5%AD%90%E5%A4%B4%E9%A1%B6%E6%9D%80%E9%A9%AC%E7%89%B9%E9%80%A0%E5%9E%8B%E4%B8%BA%E7%90%86%E5%8F%91%E5%BA%97%E7%9C%8B%E9%97%A8%23" target="weibo">
+狗子头顶杀马特造型为理发店看门（热度：11386）
 </a>
 </li>
 
