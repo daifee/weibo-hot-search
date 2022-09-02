@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662114302850,
+  "endTime": 1662115291434,
   "band_list": [
     {
       "raw_hot": 6261105,
@@ -345,6 +345,14 @@
       "onboard_time": 1662052395,
       "rank": 30,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1282048,
+      "num": 1282048,
+      "word": "员工因想报销50元话费被辞退",
+      "onboard_time": 1662112167,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1272654,
@@ -795,11 +803,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 794562,
-      "num": 794562,
-      "word": "员工因想报销50元话费被辞退",
-      "onboard_time": 1662112167,
-      "rank": 7,
+      "raw_hot": 790336,
+      "num": 790336,
+      "word": "广州疫情防控",
+      "onboard_time": 1662113244,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -840,6 +848,14 @@
       "word": "深圳非中高风险区人员到广州赋红码",
       "onboard_time": 1661959469,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 768671,
+      "num": 768671,
+      "word": "乘客衣着暴露在地铁上劈叉摆拍",
+      "onboard_time": 1662113187,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -907,6 +923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 693839,
+      "num": 693839,
+      "word": "我国1400万人忍受极端通勤",
+      "onboard_time": 1662112765,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 675640,
       "num": 675640,
       "word": "亲爹报警男孩吃瓜吃到自己家",
@@ -940,7 +964,7 @@
     },
     {
       "raw_hot": 657511,
-      "num": 590027,
+      "num": 613844,
       "word": "虞书欣王鹤棣苍兰诀逆光吻",
       "onboard_time": 1662112585,
       "rank": 10,
@@ -964,7 +988,7 @@
     },
     {
       "raw_hot": 653458,
-      "num": 582851,
+      "num": 594556,
       "word": "迪丽热巴龚俊互问互答",
       "onboard_time": 1662111566,
       "rank": 11,
@@ -1056,14 +1080,6 @@
       "word": "成都地铁",
       "onboard_time": 1662020188,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 609138,
-      "num": 609138,
-      "word": "广州疫情防控",
-      "onboard_time": 1662113244,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -1236,7 +1252,7 @@
     },
     {
       "raw_hot": 545912,
-      "num": 647953,
+      "num": 1080325,
       "word": "父亲认出退伍儿子一把搂住",
       "onboard_time": 1662100167,
       "rank": 26,
@@ -1539,6 +1555,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 440951,
+      "num": 440951,
+      "word": "成毅扫楼唱沉香如屑主题曲",
+      "onboard_time": 1662114984,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 439693,
       "num": 439693,
       "word": "宋轶晒于曼丽背影照问你好吗",
@@ -1697,6 +1721,14 @@
       "onboard_time": 1661988382,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 408374,
+      "num": 408374,
+      "word": "研究发现大脑能与脂肪直接对话",
+      "onboard_time": 1662110787,
+      "rank": 43,
+      "category": "其它"
     },
     {
       "raw_hot": 406100,
@@ -1859,20 +1891,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 375637,
-      "num": 375637,
-      "word": "我国1400万人忍受极端通勤",
-      "onboard_time": 1662112765,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 374665,
       "num": 374665,
       "word": "MINNIE一千零一个愿望",
       "onboard_time": 1662087985,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 370760,
+      "num": 370760,
+      "word": "上海台风",
+      "onboard_time": 1662112285,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 370434,
@@ -1937,14 +1969,6 @@
       "onboard_time": 1662019228,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 358705,
-      "num": 358705,
-      "word": "研究发现大脑能与脂肪直接对话",
-      "onboard_time": 1662110787,
-      "rank": 43,
-      "category": "其它"
     },
     {
       "raw_hot": 354386,
@@ -2075,14 +2099,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 338012,
-      "num": 338012,
-      "word": "上海台风",
-      "onboard_time": 1662112285,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 337322,
       "num": 337322,
       "word": "沉香如屑超45万人豆瓣打分",
@@ -2153,6 +2169,14 @@
       "onboard_time": 1661959112,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 332779,
+      "num": 332779,
+      "word": "四川将启动政府猪肉储备投放",
+      "onboard_time": 1662111926,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 332474,
@@ -2227,14 +2251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 324653,
-      "num": 324653,
-      "word": "四川将启动政府猪肉储备投放",
-      "onboard_time": 1662111926,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 323777,
       "num": 261032,
       "word": "导演说陈晓王一博有天赋",
@@ -2257,14 +2273,6 @@
       "onboard_time": 1662073941,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 320112,
-      "num": 320112,
-      "word": "乘客衣着暴露在地铁上劈叉摆拍",
-      "onboard_time": 1662113187,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 319759,
@@ -2635,6 +2643,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 274838,
+      "num": 274838,
+      "word": "台风",
+      "onboard_time": 1662114686,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274319,
       "num": 274319,
       "word": "吉林疫情防控",
@@ -2711,6 +2727,14 @@
       "num": 265320,
       "word": "沉香重华红尘版海报",
       "onboard_time": 1662087564,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 265029,
+      "num": 265029,
+      "word": "杨紫颜淡地崖茅屋剧照",
+      "onboard_time": 1662112827,
       "rank": 25,
       "category": "影视"
     },
@@ -2848,14 +2872,6 @@
       "word": "张翰王晓晨和解太费杜淳",
       "onboard_time": 1662049404,
       "rank": 22,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 251155,
-      "num": 251155,
-      "word": "杨紫颜淡地崖茅屋剧照",
-      "onboard_time": 1662112827,
-      "rank": 25,
       "category": "影视"
     },
     {
@@ -3267,6 +3283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205737,
+      "num": 205737,
+      "word": "覆流年",
+      "onboard_time": 1662032488,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 205065,
       "num": 205065,
       "word": "恋爱前后的区别可以有多大",
@@ -3603,12 +3627,12 @@
       "category": "艺人,美食"
     },
     {
-      "raw_hot": 169794,
-      "num": 169794,
-      "word": "覆流年",
-      "onboard_time": 1662032488,
-      "rank": 43,
-      "category": "影视"
+      "raw_hot": 169865,
+      "num": 169865,
+      "word": "军哥哥变菌哥哥带村民4年挣1亿",
+      "onboard_time": 1662114448,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167615,
@@ -3793,6 +3817,14 @@
       "onboard_time": 1662045032,
       "rank": 40,
       "category": "其它"
+    },
+    {
+      "raw_hot": 152735,
+      "num": 152735,
+      "word": "国内首例婚内监护权案胜诉",
+      "onboard_time": 1662114448,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152620,
@@ -4009,6 +4041,14 @@
       "onboard_time": 1662044790,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 119230,
+      "num": 119230,
+      "word": "驰援重庆推迟结婚的云南消防员领证了",
+      "onboard_time": 1662115105,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119119,
