@@ -1,6 +1,6 @@
 {
   "startTime": 1662136351891,
-  "endTime": 1662146226909,
+  "endTime": 1662147225709,
   "band_list": [
     {
       "raw_hot": 2585830,
@@ -347,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177929,
+      "num": 177929,
+      "word": "眼球突出并非因为长期戴眼镜",
+      "onboard_time": 1662143893,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177661,
       "num": 177661,
       "word": "EDG让二追三RNG",
@@ -401,14 +409,6 @@
       "onboard_time": 1662126509,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 128719,
-      "num": 91084,
-      "word": "眼球突出并非因为长期戴眼镜",
-      "onboard_time": 1662143893,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 128605,
