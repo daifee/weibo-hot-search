@@ -1,6 +1,6 @@
 {
   "startTime": 1662049902600,
-  "endTime": 1662118564604,
+  "endTime": 1662122642484,
   "band_list": [
     {
       "raw_hot": 2737304,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1793158,
-      "num": 993787,
+      "num": 1123886,
       "word": "w两个世界翻拍版开机照",
       "onboard_time": 1662115768,
       "rank": 3,
@@ -113,6 +113,14 @@
       "onboard_time": 1662091167,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1475150,
+      "num": 1475150,
+      "word": "为什么不上jiejie",
+      "onboard_time": 1662117685,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 1471500,
@@ -243,6 +251,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 971951,
+      "num": 971951,
+      "word": "0713男团合体录制密逃4",
+      "onboard_time": 1662119487,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 925131,
+      "num": 925131,
+      "word": "孟晚舟回母校都匀一中演讲",
+      "onboard_time": 1662116604,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 922449,
       "num": 922449,
       "word": "解放军战士一枪迫降无人机",
@@ -283,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 863539,
+      "num": 863539,
+      "word": "杨幂晒羊幂表情包告别花少",
+      "onboard_time": 1662121047,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 854742,
       "num": 854742,
       "word": "四川增本土确诊128例",
@@ -299,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 836028,
+      "num": 836028,
+      "word": "男子家中被盗2只小狗被杀害",
+      "onboard_time": 1662115886,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 831072,
       "num": 831072,
       "word": "俄暂停向法德等国供气",
@@ -313,14 +353,6 @@
       "onboard_time": 1662106464,
       "rank": 25,
       "category": "军事,国外要闻"
-    },
-    {
-      "raw_hot": 803271,
-      "num": 803271,
-      "word": "男子家中被盗2只小狗被杀害",
-      "onboard_time": 1662115886,
-      "rank": 10,
-      "category": "社会负面"
     },
     {
       "raw_hot": 802795,
@@ -369,6 +401,14 @@
       "onboard_time": 1662101306,
       "rank": 35,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 703351,
+      "num": 703351,
+      "word": "24名工科专业女生23个被分到一个班",
+      "onboard_time": 1662117685,
+      "rank": 26,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 700533,
@@ -435,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 621443,
+      "num": 562891,
+      "word": "沉香如屑直播",
+      "onboard_time": 1662119305,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 619822,
       "num": 619822,
       "word": "乐华娱乐撤回IPO计划",
@@ -448,14 +496,6 @@
       "word": "儿子上幼儿园爸爸躲房间偷偷抹泪",
       "onboard_time": 1662047188,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 612970,
-      "num": 612970,
-      "word": "孟晚舟回母校都匀一中演讲",
-      "onboard_time": 1662116604,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -579,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 529354,
+      "num": 529354,
+      "word": "徐福记卷心酥食用时发现活虫",
+      "onboard_time": 1662118765,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 528802,
       "num": 528802,
       "word": "医院每个规定都是教训换来的",
@@ -603,12 +651,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 508612,
+      "num": 508612,
+      "word": "华为回应将发布向上捅破天技术",
+      "onboard_time": 1662120867,
+      "rank": 12,
+      "category": "科技"
+    },
+    {
       "raw_hot": 500654,
       "num": 377671,
       "word": "谁是你心中的Bking天花板",
       "onboard_time": 1662048685,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 494760,
+      "num": 494760,
+      "word": "常斌 w两个世界",
+      "onboard_time": 1662120207,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 491995,
@@ -915,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 362331,
+      "num": 362331,
+      "word": "没有一个人能拒绝周五",
+      "onboard_time": 1662119187,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 359661,
       "num": 359661,
       "word": "考教资有什么用",
@@ -937,6 +1009,14 @@
       "onboard_time": 1662106405,
       "rank": 43,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 354018,
+      "num": 284856,
+      "word": "李健线上演唱会",
+      "onboard_time": 1662121587,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 353383,
@@ -1195,6 +1275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 295216,
+      "num": 295216,
+      "word": "RNG与EDG决胜局",
+      "onboard_time": 1662122066,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 290664,
       "num": 290664,
       "word": "汪涵保剑锋70后的共鸣",
@@ -1251,6 +1339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 278649,
+      "num": 278649,
+      "word": "成都快递可接单正常配送",
+      "onboard_time": 1662117926,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276456,
       "num": 276456,
       "word": "龙族的开学第一天有多离谱",
@@ -1291,12 +1387,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 266405,
+      "num": 214751,
+      "word": "覆流年",
+      "onboard_time": 1662032488,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 265889,
       "num": 265889,
       "word": "萍乡第一中单",
       "onboard_time": 1662046889,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 265420,
+      "num": 213428,
+      "word": "成毅听到粉丝要做帝后的反应",
+      "onboard_time": 1662118828,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 265320,
@@ -1427,14 +1539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 231735,
-      "num": 231735,
-      "word": "24名工科专业女生23个被分到一个班",
-      "onboard_time": 1662117685,
-      "rank": 26,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 230407,
       "num": 148170,
       "word": "花儿与少年收官夜",
@@ -1448,14 +1552,6 @@
       "word": "杨洋演的井启第",
       "onboard_time": 1662089847,
       "rank": 37,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 229030,
-      "num": 205737,
-      "word": "覆流年",
-      "onboard_time": 1662032488,
-      "rank": 49,
       "category": "影视"
     },
     {
@@ -1491,6 +1587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 223438,
+      "num": 212074,
+      "word": "常远被马丽魏翔喂狗粮",
+      "onboard_time": 1662120926,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 216760,
       "num": 216760,
       "word": "冰雨火和广播剧的适配度",
@@ -1505,6 +1609,14 @@
       "onboard_time": 1662101787,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 216208,
+      "num": 216208,
+      "word": "其实猪也会有烦恼吧",
+      "onboard_time": 1662120988,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 215665,
@@ -1547,6 +1659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211319,
+      "num": 211319,
+      "word": "2022年第二批涉嫌非法社会组织名单",
+      "onboard_time": 1662120207,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211275,
       "num": 215545,
       "word": "S12资格赛",
@@ -1579,12 +1699,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 209258,
+      "num": 209258,
+      "word": "EDG让二追二",
+      "onboard_time": 1662121467,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 208188,
       "num": 192756,
       "word": "刘诗诗一念关山造型路透",
       "onboard_time": 1662048565,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 207475,
+      "num": 207475,
+      "word": "原来英雄联盟是一款音游",
+      "onboard_time": 1662120027,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 207105,
@@ -1707,14 +1843,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 187257,
-      "num": 187257,
-      "word": "为什么不上jiejie",
-      "onboard_time": 1662117685,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 182698,
       "num": 182698,
       "word": "吉林省新增本地确诊1例无症状40例",
@@ -1760,14 +1888,6 @@
       "word": "贵阳疫情防控",
       "onboard_time": 1662074359,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 178171,
-      "num": 178171,
-      "word": "成都快递可接单正常配送",
-      "onboard_time": 1662117926,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -1953,6 +2073,14 @@
       "onboard_time": 1662087445,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 144828,
+      "num": 144828,
+      "word": "幼儿园小朋友跳皮筋馋哭80后",
+      "onboard_time": 1662122125,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144785,
@@ -2163,6 +2291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42584,
+      "num": 1200806,
+      "word": "打卡2022服贸会",
+      "onboard_time": 1662121408,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 22357,
       "num": 22357,
       "word": "世界人工智能大会",
@@ -2199,6 +2335,9 @@
     },
     {
       "word": "#北交所设立一周年#"
+    },
+    {
+      "word": "#跟着总书记看中国#"
     }
   ]
 }
