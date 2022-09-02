@@ -1,6 +1,6 @@
 {
   "startTime": 1662049902600,
-  "endTime": 1662126778337,
+  "endTime": 1662128390208,
   "band_list": [
     {
       "raw_hot": 2737304,
@@ -91,12 +91,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1675433,
+      "num": 1675433,
+      "word": "沉香重华be",
+      "onboard_time": 1662127289,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1627039,
+      "num": 1627039,
+      "word": "9岁女孩得糖尿病血液似冻猪油",
+      "onboard_time": 1662124049,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1619991,
       "num": 1619991,
       "word": "为什么不上jiejie",
       "onboard_time": 1662117685,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1578096,
+      "num": 1578096,
+      "word": "网传向涵之将出演骄阳伴我女二",
+      "onboard_time": 1662126389,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 1557130,
@@ -139,20 +163,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1360472,
+      "num": 1360472,
+      "word": "沉香如屑大结局",
+      "onboard_time": 1662126269,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1313804,
       "num": 459079,
       "word": "台湾是中国的一个省没有什么国防部",
       "onboard_time": 1662052395,
       "rank": 30,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 1274892,
-      "num": 1274892,
-      "word": "9岁女孩得糖尿病血液似冻猪油",
-      "onboard_time": 1662124049,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1272654,
@@ -168,6 +192,14 @@
       "word": "成都疫情防控",
       "onboard_time": 1662076766,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1245009,
+      "num": 1245009,
+      "word": "北京天通苑一小区出现刺猬",
+      "onboard_time": 1662123809,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -216,14 +248,6 @@
       "word": "更多疑似南京大屠杀照片披露",
       "onboard_time": 1662086847,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1093753,
-      "num": 1093753,
-      "word": "北京天通苑一小区出现刺猬",
-      "onboard_time": 1662123809,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -283,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 976533,
+      "num": 976533,
+      "word": "三只松鼠采万吨新疆核桃",
+      "onboard_time": 1662123326,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 971951,
       "num": 971951,
       "word": "0713男团合体录制密逃4",
@@ -329,6 +361,14 @@
       "onboard_time": 1662121467,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 894304,
+      "num": 894304,
+      "word": "处处不提爱处处都是爱",
+      "onboard_time": 1662124707,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 885288,
@@ -435,28 +475,12 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 746028,
-      "num": 746028,
-      "word": "网传向涵之将出演骄阳伴我女二",
-      "onboard_time": 1662126389,
-      "rank": 7,
-      "category": "影视"
-    },
-    {
       "raw_hot": 738416,
       "num": 738416,
       "word": "EXO将2023年完整体回归",
       "onboard_time": 1662032248,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 737500,
-      "num": 737500,
-      "word": "三只松鼠采万吨新疆核桃",
-      "onboard_time": 1662123326,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 724433,
@@ -571,14 +595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 616025,
-      "num": 616025,
-      "word": "沉香如屑大结局",
-      "onboard_time": 1662126269,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 603770,
       "num": 603770,
       "word": "林雨申捡孩子专业户",
@@ -593,14 +609,6 @@
       "onboard_time": 1662049703,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 591287,
-      "num": 591287,
-      "word": "处处不提爱处处都是爱",
-      "onboard_time": 1662124707,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 589324,
@@ -715,12 +723,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 543262,
+      "num": 421510,
+      "word": "迪丽热巴龚俊设计的月饼",
+      "onboard_time": 1662125788,
+      "rank": 21,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 536244,
       "num": 536244,
       "word": "李健线上演唱会",
       "onboard_time": 1662121587,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 532655,
+      "num": 532655,
+      "word": "大学生暑假送外卖赚1万7妈妈发声",
+      "onboard_time": 1662125788,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 528802,
@@ -747,6 +771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 509588,
+      "num": 509588,
+      "word": "胆小鬼",
+      "onboard_time": 1662125788,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 509513,
       "num": 509513,
       "word": "RNG与EDG决胜局",
@@ -763,20 +795,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 505454,
+      "num": 505454,
+      "word": "丁程鑫下一季想去北极看极光",
+      "onboard_time": 1662127769,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 500654,
       "num": 377671,
       "word": "谁是你心中的Bking天花板",
       "onboard_time": 1662048685,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 499430,
-      "num": 421510,
-      "word": "迪丽热巴龚俊设计的月饼",
-      "onboard_time": 1662125788,
-      "rank": 21,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 494190,
@@ -955,6 +987,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 413356,
+      "num": 413356,
+      "word": "gala状态",
+      "onboard_time": 1662126509,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 408374,
       "num": 408374,
       "word": "研究发现大脑能与脂肪直接对话",
@@ -969,14 +1009,6 @@
       "onboard_time": 1662096028,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 405725,
-      "num": 360712,
-      "word": "胆小鬼",
-      "onboard_time": 1662125788,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 402483,
@@ -1339,6 +1371,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 306982,
+      "num": 306982,
+      "word": "杭州上城部分区域所有人员赋黄码",
+      "onboard_time": 1662126150,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304651,
       "num": 304651,
       "word": "吴克群组四个男人一个包",
@@ -1401,6 +1441,14 @@
       "onboard_time": 1662110308,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 298176,
+      "num": 235138,
+      "word": "中国好声音",
+      "onboard_time": 1662127169,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 297929,
@@ -1539,6 +1587,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 270510,
+      "num": 243399,
+      "word": "再也忘不了颜淡应渊了",
+      "onboard_time": 1662126690,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 268949,
       "num": 268949,
       "word": "覆流年",
@@ -1635,6 +1691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 250956,
+      "num": 250956,
+      "word": "非农",
+      "onboard_time": 1662126633,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 249091,
       "num": 249091,
       "word": "成都快递",
@@ -1659,10 +1723,10 @@
       "category": "影视"
     },
     {
-      "raw_hot": 243399,
-      "num": 243399,
-      "word": "再也忘不了颜淡应渊了",
-      "onboard_time": 1662126690,
+      "raw_hot": 246449,
+      "num": 226386,
+      "word": "应渊不负苍生不负颜淡",
+      "onboard_time": 1662127709,
       "rank": 35,
       "category": "影视"
     },
@@ -1859,14 +1923,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 208314,
-      "num": 208314,
-      "word": "大学生暑假送外卖赚1万7妈妈发声",
-      "onboard_time": 1662125788,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 208188,
       "num": 192756,
       "word": "刘诗诗一念关山造型路透",
@@ -1995,14 +2051,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 186376,
-      "num": 186376,
-      "word": "杭州上城部分区域所有人员赋黄码",
-      "onboard_time": 1662126150,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 182698,
       "num": 182698,
       "word": "吉林省新增本地确诊1例无症状40例",
@@ -2059,6 +2107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172768,
+      "num": 172768,
+      "word": "深圳多区开展全员核酸检测",
+      "onboard_time": 1662128311,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171610,
       "num": 171610,
       "word": "那些被退换的衣服都去哪儿了",
@@ -2089,6 +2145,14 @@
       "onboard_time": 1662045450,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166219,
+      "num": 166219,
+      "word": "东莞一废弃厂房发生火灾致7死",
+      "onboard_time": 1662126032,
+      "rank": 44,
+      "category": "社会负面"
     },
     {
       "raw_hot": 165742,
@@ -2211,12 +2275,12 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 154712,
-      "num": 154712,
-      "word": "gala状态",
-      "onboard_time": 1662126509,
-      "rank": 47,
-      "category": "游戏"
+      "raw_hot": 154095,
+      "num": 154095,
+      "word": "长春暂不采取静默管理",
+      "onboard_time": 1662127589,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152620,
@@ -2452,7 +2516,7 @@
     },
     {
       "raw_hot": 63430,
-      "num": 1298512,
+      "num": 1597635,
       "word": "打卡2022服贸会",
       "onboard_time": 1662121408,
       "rank": 2,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1662128390208,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1675433,
+        "num": 1675433,
+        "word": "沉香重华be",
+        "onboard_time": 1662127289,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1627039,
+        "num": 1627039,
+        "word": "9岁女孩得糖尿病血液似冻猪油",
+        "onboard_time": 1662124049,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57661,
+        "num": 1597635,
+        "word": "打卡2022服贸会",
+        "onboard_time": 1662121408,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1578096,
+        "num": 1578096,
+        "word": "网传向涵之将出演骄阳伴我女二",
+        "onboard_time": 1662126389,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1431423,
+        "num": 1431423,
+        "word": "我国1400万人忍受极端通勤",
+        "onboard_time": 1662112765,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1360472,
+        "num": 1360472,
+        "word": "沉香如屑大结局",
+        "onboard_time": 1662126269,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1245009,
+        "num": 1245009,
+        "word": "北京天通苑一小区出现刺猬",
+        "onboard_time": 1662123809,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 976533,
+        "num": 976533,
+        "word": "三只松鼠采万吨新疆核桃",
+        "onboard_time": 1662123326,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 916179,
+        "num": 916179,
+        "word": "EDG让二追三RNG",
+        "onboard_time": 1662124170,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 894304,
+        "num": 894304,
+        "word": "处处不提爱处处都是爱",
+        "onboard_time": 1662124707,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 532655,
+        "num": 532655,
+        "word": "大学生暑假送外卖赚1万7妈妈发声",
+        "onboard_time": 1662125788,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519284,
+        "num": 519284,
+        "word": "李健线上演唱会",
+        "onboard_time": 1662121587,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 509588,
+        "num": 509588,
+        "word": "胆小鬼",
+        "onboard_time": 1662125788,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 505454,
+        "num": 505454,
+        "word": "丁程鑫下一季想去北极看极光",
+        "onboard_time": 1662127769,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 446716,
+        "num": 446716,
+        "word": "为什么不上jiejie",
+        "onboard_time": 1662117685,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 504031,
+        "num": 445414,
+        "word": "杨幂晒羊幂表情包告别花少",
+        "onboard_time": 1662121047,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 441380,
+        "num": 441380,
+        "word": "幼儿园小朋友跳皮筋馋哭80后",
+        "onboard_time": 1662122125,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413356,
+        "num": 413356,
+        "word": "gala状态",
+        "onboard_time": 1662126509,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 409505,
+        "num": 409505,
+        "word": "男子家中被盗2只小狗被杀害",
+        "onboard_time": 1662115886,
+        "rank": 18,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 361993,
+        "num": 361993,
+        "word": "管泽元",
+        "onboard_time": 1662124588,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 543262,
+        "num": 339758,
+        "word": "迪丽热巴龚俊设计的月饼",
+        "onboard_time": 1662125788,
+        "rank": 20,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 511974,
+        "num": 334308,
+        "word": "乘客衣着暴露在地铁上劈叉摆拍",
+        "onboard_time": 1662113187,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462331,
+        "num": 333363,
+        "word": "w两个世界翻拍版开机照",
+        "onboard_time": 1662115768,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 315588,
+        "num": 315588,
+        "word": "LPL三号种子EDG",
+        "onboard_time": 1662124170,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 306982,
+        "num": 306982,
+        "word": "杭州上城部分区域所有人员赋黄码",
+        "onboard_time": 1662126150,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262551,
+        "num": 262551,
+        "word": "孟晚舟回母校都匀一中演讲",
+        "onboard_time": 1662116604,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250956,
+        "num": 250956,
+        "word": "非农",
+        "onboard_time": 1662126633,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 249793,
+        "num": 249793,
+        "word": "没有一个人能拒绝周五",
+        "onboard_time": 1662119187,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 244983,
+        "num": 244983,
+        "word": "广州疫情防控",
+        "onboard_time": 1662113244,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243589,
+        "num": 243589,
+        "word": "员工因想报销50元话费被辞退",
+        "onboard_time": 1662112167,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436152,
+        "num": 242472,
+        "word": "胆小鬼大结局",
+        "onboard_time": 1662125009,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 354007,
+        "num": 239852,
+        "word": "林雨申腰围是70",
+        "onboard_time": 1662126633,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 298176,
+        "num": 235138,
+        "word": "中国好声音",
+        "onboard_time": 1662127169,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270872,
+        "num": 231303,
+        "word": "常斌 w两个世界",
+        "onboard_time": 1662120207,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229177,
+        "num": 229177,
+        "word": "日本曾将台湾和大连纳入日本领土",
+        "onboard_time": 1662107906,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246449,
+        "num": 226386,
+        "word": "应渊不负苍生不负颜淡",
+        "onboard_time": 1662127709,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216752,
+        "num": 216752,
+        "word": "24名工科专业女生23个被分到一个班",
+        "onboard_time": 1662117685,
+        "rank": 36,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 212253,
+        "num": 212253,
+        "word": "台风",
+        "onboard_time": 1662114686,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203156,
+        "num": 203156,
+        "word": "2022年第二批涉嫌非法社会组织名单",
+        "onboard_time": 1662120207,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198517,
+        "num": 198517,
+        "word": "医院每个规定都是教训换来的",
+        "onboard_time": 1662110486,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 270510,
+        "num": 194003,
+        "word": "再也忘不了颜淡应渊了",
+        "onboard_time": 1662126690,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186450,
+        "num": 186450,
+        "word": "徐福记卷心酥食用时发现活虫",
+        "onboard_time": 1662118765,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172768,
+        "num": 172768,
+        "word": "深圳多区开展全员核酸检测",
+        "onboard_time": 1662128311,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168587,
+        "num": 168587,
+        "word": "后羿与三星堆有什么关系",
+        "onboard_time": 1662124950,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166219,
+        "num": 166219,
+        "word": "东莞一废弃厂房发生火灾致7死",
+        "onboard_time": 1662126032,
+        "rank": 44,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 164989,
+        "num": 164989,
+        "word": "其实猪也会有烦恼吧",
+        "onboard_time": 1662120988,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154095,
+        "num": 154095,
+        "word": "长春暂不采取静默管理",
+        "onboard_time": 1662127589,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145012,
+        "num": 145012,
+        "word": "研究发现大脑能与脂肪直接对话",
+        "onboard_time": 1662110787,
+        "rank": 47,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 144562,
+        "num": 144562,
+        "word": "原来英雄联盟是一款音游",
+        "onboard_time": 1662120027,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127530,
+        "num": 127530,
+        "word": "女子切开西瓜发现黄豆芽",
+        "onboard_time": 1662103346,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记看中国#"
+    }
+  }
+}
