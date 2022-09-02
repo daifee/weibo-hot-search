@@ -1,0 +1,410 @@
+{
+  "runTime": 1662088311193,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1876187,
+        "num": 1876187,
+        "word": "快说谢谢教师资格证",
+        "onboard_time": 1662076948,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1507674,
+        "num": 1507674,
+        "word": "房车情侣回应被叫停车场乞丐",
+        "onboard_time": 1662073819,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36963,
+        "num": 1128394,
+        "word": "开学第一课",
+        "onboard_time": 1661942188,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1046122,
+        "num": 1046122,
+        "word": "成都疫情防控",
+        "onboard_time": 1662076766,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1026793,
+        "num": 1026793,
+        "word": "张艺凡等比例长大",
+        "onboard_time": 1662083845,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 845514,
+        "num": 845514,
+        "word": "三星嘲讽苹果iPhone14缺乏创新",
+        "onboard_time": 1662081028,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 655495,
+        "num": 655495,
+        "word": "苹果多款iPod将过时",
+        "onboard_time": 1662083247,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 603770,
+        "num": 603770,
+        "word": "林雨申捡孩子专业户",
+        "onboard_time": 1662085645,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 584429,
+        "num": 584429,
+        "word": "宠物店主回应离开半月猫狗被饿死",
+        "onboard_time": 1662080247,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444701,
+        "num": 575887,
+        "word": "四川增本土确诊128例",
+        "onboard_time": 1662081867,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569527,
+        "num": 569527,
+        "word": "吉林卫健委",
+        "onboard_time": 1662086067,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494727,
+        "num": 494727,
+        "word": "小兰花的衣服破了",
+        "onboard_time": 1662078147,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 485883,
+        "num": 485883,
+        "word": "更多疑似南京大屠杀照片披露",
+        "onboard_time": 1662086847,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470521,
+        "num": 470521,
+        "word": "男生网购117卷卫生纸25元包邮",
+        "onboard_time": 1662087085,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444880,
+        "num": 444880,
+        "word": "这猫怎么做到又瘦又胖的",
+        "onboard_time": 1662077846,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 402483,
+        "num": 402483,
+        "word": "密逃4小镇怪谈分上中下播出",
+        "onboard_time": 1662086547,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400335,
+        "num": 400335,
+        "word": "杭州疫情防控",
+        "onboard_time": 1662084264,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374665,
+        "num": 374665,
+        "word": "MINNIE一千零一个愿望",
+        "onboard_time": 1662087985,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 352757,
+        "num": 352757,
+        "word": "张艺兴续约街舞大使",
+        "onboard_time": 1662087803,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322220,
+        "num": 322220,
+        "word": "浙江的生腌有多鲜",
+        "onboard_time": 1662081087,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 349464,
+        "num": 314840,
+        "word": "杨洋援军明日到达开机仪式路透",
+        "onboard_time": 1662083906,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 300589,
+        "num": 300589,
+        "word": "台湾是中国的一个省没有什么国防部",
+        "onboard_time": 1662052395,
+        "rank": 21,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 299116,
+        "num": 299116,
+        "word": "成都新增本土确诊103例",
+        "onboard_time": 1662086247,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298702,
+        "num": 298702,
+        "word": "饿了么免单",
+        "onboard_time": 1662086305,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 297118,
+        "num": 297118,
+        "word": "长春疫情防控",
+        "onboard_time": 1662081448,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265320,
+        "num": 265320,
+        "word": "沉香重华红尘版海报",
+        "onboard_time": 1662087564,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259867,
+        "num": 259867,
+        "word": "广东教资",
+        "onboard_time": 1662083367,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 255036,
+        "num": 255036,
+        "word": "教资笔试报名系统崩了",
+        "onboard_time": 1662087324,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 234438,
+        "num": 234438,
+        "word": "武汉新增本土无症状15例",
+        "onboard_time": 1662083725,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216476,
+        "num": 216476,
+        "word": "重庆消防辟谣龙麻子被特招入伍",
+        "onboard_time": 1662079888,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215061,
+        "num": 215061,
+        "word": "推进健康码互通互认",
+        "onboard_time": 1662088163,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210450,
+        "num": 210450,
+        "word": "中国人在海外的安全感来自他们",
+        "onboard_time": 1662086604,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203396,
+        "num": 203396,
+        "word": "网瘾娃房顶闹脾气消防用手机哄回",
+        "onboard_time": 1662078748,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200233,
+        "num": 200233,
+        "word": "儿子上幼儿园爸爸躲房间偷偷抹泪",
+        "onboard_time": 1662047188,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192097,
+        "num": 192097,
+        "word": "四川一职校新生需自带床板",
+        "onboard_time": 1662087385,
+        "rank": 34,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 191923,
+        "num": 191923,
+        "word": "北京9月1日新增1例本土确诊",
+        "onboard_time": 1662080125,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189956,
+        "num": 189956,
+        "word": "电影援军明日到达开机",
+        "onboard_time": 1662082286,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187094,
+        "num": 187094,
+        "word": "空巢大学生",
+        "onboard_time": 1662066790,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 177049,
+        "num": 177049,
+        "word": "34岁老马去世2匹小马将送葬车拦停",
+        "onboard_time": 1662060491,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175493,
+        "num": 175493,
+        "word": "俄暂停向法德等国供气",
+        "onboard_time": 1662087923,
+        "rank": 39,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 173519,
+        "num": 173519,
+        "word": "杨戬续集预告",
+        "onboard_time": 1662083005,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173369,
+        "num": 173369,
+        "word": "移动公厕一次收费10元还倒计时",
+        "onboard_time": 1662042934,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170698,
+        "num": 170698,
+        "word": "河南增本土确诊4例无症状46例",
+        "onboard_time": 1662084325,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165886,
+        "num": 165886,
+        "word": "消防从客厅摘除半人高的巨型蜂窝",
+        "onboard_time": 1662087564,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163024,
+        "num": 163024,
+        "word": "谁是你心中的Bking天花板",
+        "onboard_time": 1662048685,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159533,
+        "num": 159533,
+        "word": "男子抓155只壁虎后自己被抓了",
+        "onboard_time": 1662049703,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154284,
+        "num": 154284,
+        "word": "德国拒绝波兰巨额二战索赔",
+        "onboard_time": 1662088107,
+        "rank": 46,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 199442,
+        "num": 150937,
+        "word": "电影深海首发角色预告",
+        "onboard_time": 1662088286,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146246,
+        "num": 146246,
+        "word": "吉林疫情防控",
+        "onboard_time": 1662082166,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145839,
+        "num": 145839,
+        "word": "陈伟霆爆裂点造型",
+        "onboard_time": 1662087445,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#直击中国国际服贸会#"
+    }
+  }
+}

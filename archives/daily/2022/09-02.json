@@ -1,7 +1,15 @@
 {
   "startTime": 1662049902600,
-  "endTime": 1662085590050,
+  "endTime": 1662088311193,
   "band_list": [
+    {
+      "raw_hot": 1876187,
+      "num": 1876187,
+      "word": "快说谢谢教师资格证",
+      "onboard_time": 1662076948,
+      "rank": 7,
+      "category": "教育"
+    },
     {
       "raw_hot": 1828497,
       "num": 1828497,
@@ -43,20 +51,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1026793,
+      "num": 1026793,
+      "word": "张艺凡等比例长大",
+      "onboard_time": 1662083845,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1001819,
       "num": 1001819,
       "word": "jkl",
       "onboard_time": 1662042273,
       "rank": 1,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 989082,
-      "num": 989082,
-      "word": "张艺凡等比例长大",
-      "onboard_time": 1662083845,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 869016,
@@ -75,20 +83,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 846560,
-      "num": 846560,
-      "word": "快说谢谢教师资格证",
-      "onboard_time": 1662076948,
-      "rank": 7,
-      "category": "教育"
-    },
-    {
       "raw_hot": 738416,
       "num": 738416,
       "word": "EXO将2023年完整体回归",
       "onboard_time": 1662032248,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 655495,
+      "num": 655495,
+      "word": "苹果多款iPod将过时",
+      "onboard_time": 1662083247,
+      "rank": 10,
+      "category": "科技"
     },
     {
       "raw_hot": 648200,
@@ -115,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 603770,
+      "num": 603770,
+      "word": "林雨申捡孩子专业户",
+      "onboard_time": 1662085645,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 593252,
       "num": 593252,
       "word": "男子抓155只壁虎后自己被抓了",
@@ -128,6 +144,14 @@
       "word": "移动公厕一次收费10元还倒计时",
       "onboard_time": 1662042934,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 569527,
+      "num": 569527,
+      "word": "吉林卫健委",
+      "onboard_time": 1662086067,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -155,14 +179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 523370,
-      "num": 523370,
-      "word": "苹果多款iPod将过时",
-      "onboard_time": 1662083247,
-      "rank": 10,
-      "category": "科技"
-    },
-    {
       "raw_hot": 509292,
       "num": 509292,
       "word": "长春疫情防控",
@@ -187,6 +203,14 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 485883,
+      "num": 485883,
+      "word": "更多疑似南京大屠杀照片披露",
+      "onboard_time": 1662086847,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 477853,
       "num": 477853,
       "word": "空巢大学生",
@@ -200,6 +224,14 @@
       "word": "加菲被主人遗弃瘦骨嶙峋成纸片猫",
       "onboard_time": 1662043112,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 470521,
+      "num": 470521,
+      "word": "男生网购117卷卫生纸25元包邮",
+      "onboard_time": 1662087085,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -219,6 +251,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 402483,
+      "num": 402483,
+      "word": "密逃4小镇怪谈分上中下播出",
+      "onboard_time": 1662086547,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 400335,
+      "num": 400335,
+      "word": "杭州疫情防控",
+      "onboard_time": 1662084264,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 399808,
       "num": 399808,
       "word": "北京9月1日新增1例本土确诊",
@@ -235,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 374665,
+      "num": 374665,
+      "word": "MINNIE一千零一个愿望",
+      "onboard_time": 1662087985,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 365616,
       "num": 365616,
       "word": "网传专家铺地毯下地为不实消息",
@@ -249,6 +305,22 @@
       "onboard_time": 1662046409,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 352757,
+      "num": 352757,
+      "word": "张艺兴续约街舞大使",
+      "onboard_time": 1662087803,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 349464,
+      "num": 314840,
+      "word": "杨洋援军明日到达开机仪式路透",
+      "onboard_time": 1662083906,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 345217,
@@ -315,14 +387,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 308496,
-      "num": 281261,
-      "word": "杨洋援军明日到达开机仪式路透",
-      "onboard_time": 1662083906,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 307189,
       "num": 307189,
       "word": "多国感谢中国在安理会主席月出色工作",
@@ -339,20 +403,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 299627,
-      "num": 299627,
-      "word": "杭州疫情防控",
-      "onboard_time": 1662084264,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 299460,
       "num": 299460,
       "word": "姜小果承认喜欢齐颂",
       "onboard_time": 1662041793,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 299116,
+      "num": 299116,
+      "word": "成都新增本土确诊103例",
+      "onboard_time": 1662086247,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 298702,
+      "num": 298702,
+      "word": "饿了么免单",
+      "onboard_time": 1662086305,
+      "rank": 23,
+      "category": "科技"
     },
     {
       "raw_hot": 290664,
@@ -403,11 +475,27 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 265320,
+      "num": 265320,
+      "word": "沉香重华红尘版海报",
+      "onboard_time": 1662087564,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 264642,
       "num": 264642,
       "word": "教资报名",
       "onboard_time": 1662040589,
       "rank": 19,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 255036,
+      "num": 255036,
+      "word": "教资笔试报名系统崩了",
+      "onboard_time": 1662087324,
+      "rank": 27,
       "category": "教育"
     },
     {
@@ -451,20 +539,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 234438,
+      "num": 234438,
+      "word": "武汉新增本土无症状15例",
+      "onboard_time": 1662083725,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229024,
       "num": 229024,
       "word": "你心中的校园剧TOP1",
       "onboard_time": 1662035909,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 227827,
-      "num": 227827,
-      "word": "武汉新增本土无症状15例",
-      "onboard_time": 1662083725,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 226815,
@@ -475,12 +563,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 215061,
+      "num": 215061,
+      "word": "推进健康码互通互认",
+      "onboard_time": 1662088163,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214011,
       "num": 214011,
       "word": "开国少将杨永松逝世",
       "onboard_time": 1662043770,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210450,
+      "num": 210450,
+      "word": "中国人在海外的安全感来自他们",
+      "onboard_time": 1662086604,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 208188,
@@ -515,6 +619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199442,
+      "num": 150937,
+      "word": "电影深海首发角色预告",
+      "onboard_time": 1662088286,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 198994,
       "num": 198994,
       "word": "9月1日新增确诊373例",
@@ -539,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192097,
+      "num": 192097,
+      "word": "四川一职校新生需自带床板",
+      "onboard_time": 1662087385,
+      "rank": 34,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 191601,
       "num": 191601,
       "word": "青藏高原万年冰芯里有什么",
@@ -551,6 +671,14 @@
       "num": 191190,
       "word": "张家辉陈伟霆新片官宣",
       "onboard_time": 1662084143,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 189956,
+      "num": 189956,
+      "word": "电影援军明日到达开机",
+      "onboard_time": 1662082286,
       "rank": 36,
       "category": "影视"
     },
@@ -587,11 +715,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175493,
+      "num": 175493,
+      "word": "俄暂停向法德等国供气",
+      "onboard_time": 1662087923,
+      "rank": 39,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 166840,
       "num": 166840,
       "word": "通州俩小区临时封控",
       "onboard_time": 1662045450,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165886,
+      "num": 165886,
+      "word": "消防从客厅摘除半人高的巨型蜂窝",
+      "onboard_time": 1662087564,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -657,6 +801,22 @@
       "onboard_time": 1662080547,
       "rank": 45,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 154284,
+      "num": 154284,
+      "word": "德国拒绝波兰巨额二战索赔",
+      "onboard_time": 1662088107,
+      "rank": 46,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 145839,
+      "num": 145839,
+      "word": "陈伟霆爆裂点造型",
+      "onboard_time": 1662087445,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 144785,
@@ -846,6 +1006,9 @@
   "hotgov_list": [
     {
       "word": "#关注2022服贸会#"
+    },
+    {
+      "word": "#直击中国国际服贸会#"
     }
   ]
 }
