@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662075685292,
+  "endTime": 1662085590050,
   "band_list": [
     {
       "raw_hot": 6261105,
@@ -107,6 +107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1828497,
+      "num": 1828497,
+      "word": "房车情侣回应被叫停车场乞丐",
+      "onboard_time": 1662073819,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1811553,
       "num": 1811553,
       "word": "生孩子后痛经能缓解吗",
@@ -177,14 +185,6 @@
       "onboard_time": 1662003688,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1645916,
-      "num": 1645916,
-      "word": "房车情侣回应被叫停车场乞丐",
-      "onboard_time": 1662073819,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1616060,
@@ -260,11 +260,27 @@
     },
     {
       "raw_hot": 1313804,
-      "num": 440128,
+      "num": 459079,
       "word": "台湾是中国的一个省没有什么国防部",
       "onboard_time": 1662052395,
       "rank": 30,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1272654,
+      "num": 1272654,
+      "word": "三星嘲讽苹果iPhone14缺乏创新",
+      "onboard_time": 1662081028,
+      "rank": 1,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 1263852,
+      "num": 1263852,
+      "word": "成都疫情防控",
+      "onboard_time": 1662004169,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1260006,
@@ -304,14 +320,6 @@
       "word": "长春市传染病医院发现5例阳性",
       "onboard_time": 1662008495,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1115336,
-      "num": 1115336,
-      "word": "成都疫情防控",
-      "onboard_time": 1662004169,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -369,6 +377,14 @@
       "onboard_time": 1662023850,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 989082,
+      "num": 989082,
+      "word": "张艺凡等比例长大",
+      "onboard_time": 1662083845,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 985589,
@@ -499,6 +515,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 869016,
+      "num": 869016,
+      "word": "宠物店主回应离开半月猫狗被饿死",
+      "onboard_time": 1662080247,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 858161,
       "num": 858161,
       "word": "英伟达",
@@ -507,12 +531,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 854742,
+      "num": 854742,
+      "word": "四川增本土确诊128例",
+      "onboard_time": 1662081867,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 846972,
       "num": 846972,
       "word": "有妖气漫画关停",
       "onboard_time": 1662017309,
       "rank": 28,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 846560,
+      "num": 846560,
+      "word": "快说谢谢教师资格证",
+      "onboard_time": 1662076948,
+      "rank": 7,
+      "category": "教育"
     },
     {
       "raw_hot": 832820,
@@ -675,6 +715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 645157,
+      "num": 645157,
+      "word": "小兰花的衣服破了",
+      "onboard_time": 1662078147,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 638868,
       "num": 638868,
       "word": "3岁女孩弄坏电视屏幕用黑笔补救",
@@ -761,6 +809,14 @@
       "onboard_time": 1661992890,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 565851,
+      "num": 565851,
+      "word": "这猫怎么做到又瘦又胖的",
+      "onboard_time": 1662077846,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 562577,
@@ -851,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 523370,
+      "num": 523370,
+      "word": "苹果多款iPod将过时",
+      "onboard_time": 1662083247,
+      "rank": 10,
+      "category": "科技"
+    },
+    {
       "raw_hot": 522674,
       "num": 229161,
       "word": "鹿晗赖冠霖王楚然直播截图状态",
@@ -864,6 +928,14 @@
       "word": "女子抽中5899元手机福袋被寄模型机",
       "onboard_time": 1661960249,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 509292,
+      "num": 509292,
+      "word": "长春疫情防控",
+      "onboard_time": 1661997207,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1163,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 399808,
+      "num": 399808,
+      "word": "北京9月1日新增1例本土确诊",
+      "onboard_time": 1662080125,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 397348,
       "num": 397348,
       "word": "周杰伦王俊凯Uzi厂长",
@@ -1299,14 +1379,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 346625,
-      "num": 346625,
-      "word": "长春疫情防控",
-      "onboard_time": 1661997207,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 346014,
       "num": 346014,
       "word": "成都官方说不必盲目囤积生活物资",
@@ -1315,11 +1387,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 345217,
+      "num": 345217,
+      "word": "浙江的生腌有多鲜",
+      "onboard_time": 1662081087,
+      "rank": 14,
+      "category": "美食"
+    },
+    {
       "raw_hot": 342888,
       "num": 342888,
       "word": "成都发布",
       "onboard_time": 1662005192,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 340377,
+      "num": 340377,
+      "word": "重庆消防辟谣龙麻子被特招入伍",
+      "onboard_time": 1662079888,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -1384,6 +1472,14 @@
       "word": "主播应聘被要求对口型卖产品",
       "onboard_time": 1662063071,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 333975,
+      "num": 333975,
+      "word": "网瘾娃房顶闹脾气消防用手机哄回",
+      "onboard_time": 1662078748,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -1539,6 +1635,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 309394,
+      "num": 309394,
+      "word": "广东教资",
+      "onboard_time": 1662083367,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 308496,
+      "num": 281261,
+      "word": "杨洋援军明日到达开机仪式路透",
+      "onboard_time": 1662083906,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 308272,
       "num": 303199,
       "word": "武林外传官微否认翻拍",
@@ -1569,6 +1681,14 @@
       "onboard_time": 1662023367,
       "rank": 33,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 299627,
+      "num": 299627,
+      "word": "杭州疫情防控",
+      "onboard_time": 1662084264,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 293561,
@@ -1659,6 +1779,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 282205,
+      "num": 282205,
+      "word": "大连增112例本土无症状",
+      "onboard_time": 1662079348,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281711,
       "num": 281711,
       "word": "东方青苍导航语音包",
@@ -1713,6 +1841,14 @@
       "onboard_time": 1662011188,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 274319,
+      "num": 274319,
+      "word": "吉林疫情防控",
+      "onboard_time": 1662082166,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 272657,
@@ -1923,6 +2059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 235026,
+      "num": 235026,
+      "word": "杨戬续集预告",
+      "onboard_time": 1662083005,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 231311,
       "num": 231311,
       "word": "邢菲覆流年演技",
@@ -1944,6 +2088,14 @@
       "word": "开学第一课观后感",
       "onboard_time": 1662039687,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227827,
+      "num": 227827,
+      "word": "武汉新增本土无症状15例",
+      "onboard_time": 1662083725,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -2123,6 +2275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207105,
+      "num": 207105,
+      "word": "关于HPV这些一定要知道",
+      "onboard_time": 1662075986,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207085,
       "num": 207085,
       "word": "相遇的夏天开播",
@@ -2139,6 +2299,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 202185,
+      "num": 202185,
+      "word": "河南增本土确诊4例无症状46例",
+      "onboard_time": 1662084325,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201622,
+      "num": 201622,
+      "word": "沉香重华",
+      "onboard_time": 1662085225,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 201174,
       "num": 201174,
       "word": "2022LPL夏决",
@@ -2153,6 +2329,22 @@
       "onboard_time": 1662029067,
       "rank": 37,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 198994,
+      "num": 198994,
+      "word": "9月1日新增确诊373例",
+      "onboard_time": 1662084627,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195881,
+      "num": 195881,
+      "word": "安徽警方通报六安女子失踪案告破",
+      "onboard_time": 1662075502,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194085,
@@ -2179,12 +2371,28 @@
       "category": "情感,社会议题"
     },
     {
+      "raw_hot": 191601,
+      "num": 191601,
+      "word": "青藏高原万年冰芯里有什么",
+      "onboard_time": 1662078506,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191581,
       "num": 191581,
       "word": "TES扳回一城",
       "onboard_time": 1662031709,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 191190,
+      "num": 191190,
+      "word": "张家辉陈伟霆新片官宣",
+      "onboard_time": 1662084143,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 190087,
@@ -2379,6 +2587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163822,
+      "num": 163822,
+      "word": "辽宁新增本土确诊5例无症状114例",
+      "onboard_time": 1662080188,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163471,
       "num": 163471,
       "word": "黄大妈",
@@ -2411,6 +2627,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 160913,
+      "num": 160913,
+      "word": "教资笔试开始报名",
+      "onboard_time": 1662081687,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 160817,
       "num": 160817,
       "word": "丁程鑫说每一刻都是大家的高光时刻",
@@ -2435,6 +2659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 158590,
+      "num": 158590,
+      "word": "369摇骰子式发博",
+      "onboard_time": 1662076349,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 157904,
       "num": 157904,
       "word": "大熊猫宝宝突然汪了一声",
@@ -2449,6 +2681,14 @@
       "onboard_time": 1662045267,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 154953,
+      "num": 154953,
+      "word": "浙江龙港试点农民住房公积金制度",
+      "onboard_time": 1662080547,
+      "rank": 45,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 154753,
@@ -2745,14 +2985,6 @@
       "onboard_time": 1662062891,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 86930,
-      "num": 86930,
-      "word": "安徽警方通报六安女子失踪案告破",
-      "onboard_time": 1662075502,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 86361,

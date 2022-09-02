@@ -1,0 +1,410 @@
+{
+  "runTime": 1662085590050,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1828497,
+        "num": 1828497,
+        "word": "房车情侣回应被叫停车场乞丐",
+        "onboard_time": 1662073819,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1272654,
+        "num": 1272654,
+        "word": "三星嘲讽苹果iPhone14缺乏创新",
+        "onboard_time": 1662081028,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 37789,
+        "num": 1266004,
+        "word": "开学第一课",
+        "onboard_time": 1661942188,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1263852,
+        "num": 1263852,
+        "word": "成都疫情防控",
+        "onboard_time": 1662076766,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 989082,
+        "num": 989082,
+        "word": "张艺凡等比例长大",
+        "onboard_time": 1662083845,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 869016,
+        "num": 869016,
+        "word": "宠物店主回应离开半月猫狗被饿死",
+        "onboard_time": 1662080247,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 854742,
+        "num": 854742,
+        "word": "四川增本土确诊128例",
+        "onboard_time": 1662081867,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 846560,
+        "num": 846560,
+        "word": "快说谢谢教师资格证",
+        "onboard_time": 1662076948,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 645157,
+        "num": 645157,
+        "word": "小兰花的衣服破了",
+        "onboard_time": 1662078147,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 565851,
+        "num": 565851,
+        "word": "这猫怎么做到又瘦又胖的",
+        "onboard_time": 1662077846,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 523370,
+        "num": 523370,
+        "word": "苹果多款iPod将过时",
+        "onboard_time": 1662083247,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 509292,
+        "num": 509292,
+        "word": "长春疫情防控",
+        "onboard_time": 1662081448,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459079,
+        "num": 459079,
+        "word": "台湾是中国的一个省没有什么国防部",
+        "onboard_time": 1662052395,
+        "rank": 12,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 399808,
+        "num": 399808,
+        "word": "北京9月1日新增1例本土确诊",
+        "onboard_time": 1662080125,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345217,
+        "num": 345217,
+        "word": "浙江的生腌有多鲜",
+        "onboard_time": 1662081087,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 340377,
+        "num": 340377,
+        "word": "重庆消防辟谣龙麻子被特招入伍",
+        "onboard_time": 1662079888,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333975,
+        "num": 333975,
+        "word": "网瘾娃房顶闹脾气消防用手机哄回",
+        "onboard_time": 1662078748,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309394,
+        "num": 309394,
+        "word": "广东教资",
+        "onboard_time": 1662083367,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 299627,
+        "num": 299627,
+        "word": "杭州疫情防控",
+        "onboard_time": 1662084264,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282205,
+        "num": 282205,
+        "word": "大连增112例本土无症状",
+        "onboard_time": 1662079348,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308496,
+        "num": 281261,
+        "word": "杨洋援军明日到达开机仪式路透",
+        "onboard_time": 1662083906,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274319,
+        "num": 274319,
+        "word": "吉林疫情防控",
+        "onboard_time": 1662082166,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267057,
+        "num": 267057,
+        "word": "34岁老马去世2匹小马将送葬车拦停",
+        "onboard_time": 1662060491,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258414,
+        "num": 258414,
+        "word": "空巢大学生",
+        "onboard_time": 1662066790,
+        "rank": 23,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 256435,
+        "num": 256435,
+        "word": "儿子上幼儿园爸爸躲房间偷偷抹泪",
+        "onboard_time": 1662047188,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247033,
+        "num": 247033,
+        "word": "男子抓155只壁虎后自己被抓了",
+        "onboard_time": 1662049703,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246322,
+        "num": 246322,
+        "word": "移动公厕一次收费10元还倒计时",
+        "onboard_time": 1662042934,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235026,
+        "num": 235026,
+        "word": "杨戬续集预告",
+        "onboard_time": 1662083005,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227827,
+        "num": 227827,
+        "word": "武汉新增本土无症状15例",
+        "onboard_time": 1662083725,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207105,
+        "num": 207105,
+        "word": "关于HPV这些一定要知道",
+        "onboard_time": 1662075986,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203993,
+        "num": 203993,
+        "word": "谁是你心中的Bking天花板",
+        "onboard_time": 1662048685,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 202185,
+        "num": 202185,
+        "word": "河南增本土确诊4例无症状46例",
+        "onboard_time": 1662084325,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201622,
+        "num": 201622,
+        "word": "沉香重华",
+        "onboard_time": 1662085225,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198994,
+        "num": 198994,
+        "word": "9月1日新增确诊373例",
+        "onboard_time": 1662084627,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195881,
+        "num": 195881,
+        "word": "安徽警方通报六安女子失踪案告破",
+        "onboard_time": 1662075502,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191601,
+        "num": 191601,
+        "word": "青藏高原万年冰芯里有什么",
+        "onboard_time": 1662078506,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191190,
+        "num": 191190,
+        "word": "张家辉陈伟霆新片官宣",
+        "onboard_time": 1662084143,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183945,
+        "num": 183945,
+        "word": "赵晓卉发文回应退赛",
+        "onboard_time": 1662073699,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179409,
+        "num": 179409,
+        "word": "覆流年 上头",
+        "onboard_time": 1662073639,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166034,
+        "num": 166034,
+        "word": "国外网友或发现南京大屠杀彩照",
+        "onboard_time": 1662020008,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163822,
+        "num": 163822,
+        "word": "辽宁新增本土确诊5例无症状114例",
+        "onboard_time": 1662080188,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162069,
+        "num": 162069,
+        "word": "波兰要求德国赔偿二战损失",
+        "onboard_time": 1662043173,
+        "rank": 41,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 160913,
+        "num": 160913,
+        "word": "教资笔试开始报名",
+        "onboard_time": 1662081687,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 158590,
+        "num": 158590,
+        "word": "369摇骰子式发博",
+        "onboard_time": 1662076349,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158280,
+        "num": 158280,
+        "word": "jkl",
+        "onboard_time": 1662042273,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154953,
+        "num": 154953,
+        "word": "浙江龙港试点农民住房公积金制度",
+        "onboard_time": 1662080547,
+        "rank": 45,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 149794,
+        "num": 149794,
+        "word": "张翰王晓晨和解太费杜淳",
+        "onboard_time": 1662049404,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143016,
+        "num": 143016,
+        "word": "EXO将2023年完整体回归",
+        "onboard_time": 1662032248,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140477,
+        "num": 140477,
+        "word": "米切尔加盟骑士",
+        "onboard_time": 1662073941,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139559,
+        "num": 139559,
+        "word": "福建渔民用泥巴击落无人机",
+        "onboard_time": 1662067931,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#关注2022服贸会#"
+    }
+  }
+}
