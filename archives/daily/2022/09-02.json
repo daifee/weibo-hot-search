@@ -1,6 +1,6 @@
 {
   "startTime": 1662049902600,
-  "endTime": 1662104479684,
+  "endTime": 1662107301770,
   "band_list": [
     {
       "raw_hot": 2737304,
@@ -9,6 +9,14 @@
       "onboard_time": 1662091829,
       "rank": 1,
       "category": "其它"
+    },
+    {
+      "raw_hot": 2434569,
+      "num": 2434569,
+      "word": "女子切开西瓜发现黄豆芽",
+      "onboard_time": 1662103346,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2383437,
@@ -49,6 +57,14 @@
       "onboard_time": 1662073819,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1557130,
+      "num": 958378,
+      "word": "河南一医院院长当街用皮带抽打女子",
+      "onboard_time": 1662103046,
+      "rank": 25,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1549571,
@@ -171,6 +187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 885288,
+      "num": 885288,
+      "word": "杨紫成毅新剧吻11次虐11次",
+      "onboard_time": 1662105986,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 874061,
       "num": 684847,
       "word": "赵露思陈哲远偷偷藏不住配音代入感",
@@ -227,6 +251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 752046,
+      "num": 752046,
+      "word": "央视中秋晚会第二波阵容官宣",
+      "onboard_time": 1662106166,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 738416,
       "num": 738416,
       "word": "EXO将2023年完整体回归",
@@ -235,12 +267,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 728288,
-      "num": 728288,
-      "word": "河南一医院院长当街用皮带抽打女子",
-      "onboard_time": 1662103046,
-      "rank": 25,
-      "category": "社会负面"
+      "raw_hot": 724433,
+      "num": 724433,
+      "word": "日军曾登报比赛杀满100名中国人",
+      "onboard_time": 1662101306,
+      "rank": 35,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 700533,
@@ -276,7 +308,7 @@
     },
     {
       "raw_hot": 629884,
-      "num": 318317,
+      "num": 333622,
       "word": "吴磊健身侧颜照",
       "onboard_time": 1662102086,
       "rank": 20,
@@ -411,14 +443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 526462,
-      "num": 526462,
-      "word": "女子切开西瓜发现黄豆芽",
-      "onboard_time": 1662103346,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 523473,
       "num": 523473,
       "word": "西安地铁",
@@ -433,14 +457,6 @@
       "onboard_time": 1662081448,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 503479,
-      "num": 503479,
-      "word": "日军曾登报比赛杀满100名中国人",
-      "onboard_time": 1662101306,
-      "rank": 35,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 500654,
@@ -497,6 +513,14 @@
       "onboard_time": 1662094950,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 463753,
+      "num": 463753,
+      "word": "阳澄湖大闸蟹再努力也将缺席中秋",
+      "onboard_time": 1662105628,
+      "rank": 12,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 461287,
@@ -595,12 +619,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 388894,
+      "num": 388894,
+      "word": "RNG对战EDG",
+      "onboard_time": 1662104906,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 385798,
       "num": 385798,
       "word": "曾舜晞恋综首秀",
       "onboard_time": 1662049404,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 380338,
+      "num": 380338,
+      "word": "Twins互相说下辈子约定你",
+      "onboard_time": 1662103586,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 379495,
@@ -611,12 +651,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 376493,
+      "num": 333467,
+      "word": "丁程鑫和小学班主任合影",
+      "onboard_time": 1662106525,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 374665,
       "num": 374665,
       "word": "MINNIE一千零一个愿望",
       "onboard_time": 1662087985,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 368045,
+      "num": 368045,
+      "word": "西安公交地铁二孩政策开始实施",
+      "onboard_time": 1662100586,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 365616,
@@ -683,12 +739,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 341800,
-      "num": 341800,
-      "word": "西安公交地铁二孩政策开始实施",
-      "onboard_time": 1662100586,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 342147,
+      "num": 327908,
+      "word": "披荆斩棘一公个人喜爱度排名",
+      "onboard_time": 1662104127,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 340377,
@@ -705,6 +761,14 @@
       "onboard_time": 1662035190,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 339621,
+      "num": 339621,
+      "word": "贾浅浅未入选作协新会员名单",
+      "onboard_time": 1662105685,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 338048,
@@ -753,14 +817,6 @@
       "onboard_time": 1662042812,
       "rank": 12,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 327064,
-      "num": 327064,
-      "word": "Twins互相说下辈子约定你",
-      "onboard_time": 1662103586,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 323777,
@@ -843,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 298907,
+      "num": 298907,
+      "word": "印度首艘国产航母正式服役",
+      "onboard_time": 1662106464,
+      "rank": 25,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 298702,
       "num": 298702,
       "word": "饿了么免单",
@@ -851,16 +915,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 296875,
-      "num": 296875,
-      "word": "披荆斩棘一公个人喜爱度排名",
-      "onboard_time": 1662104127,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 293628,
-      "num": 293628,
+      "raw_hot": 297929,
+      "num": 297929,
       "word": "特斯拉两侧无人却识别出人像",
       "onboard_time": 1662100948,
       "rank": 34,
@@ -971,6 +1027,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 257585,
+      "num": 257585,
+      "word": "哪些事是你上了大学后才知道的",
+      "onboard_time": 1662104428,
+      "rank": 47,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 255658,
       "num": 145948,
       "word": "冰雨火",
@@ -1011,12 +1075,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 246539,
+      "num": 190335,
+      "word": "两个人的小森林最新双人海报",
+      "onboard_time": 1662104605,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 239653,
       "num": 239653,
       "word": "消防从客厅摘除半人高的巨型蜂窝",
       "onboard_time": 1662087564,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235822,
+      "num": 235822,
+      "word": "官方回应浙江省运会女足0比44",
+      "onboard_time": 1662105986,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 235026,
@@ -1033,6 +1113,14 @@
       "onboard_time": 1662083725,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230407,
+      "num": 148170,
+      "word": "花儿与少年收官夜",
+      "onboard_time": 1662106829,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 229099,
@@ -1251,6 +1339,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 182698,
+      "num": 182698,
+      "word": "吉林省新增本地确诊1例无症状40例",
+      "onboard_time": 1662102266,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181114,
       "num": 181114,
       "word": "覆流年 上头",
@@ -1323,14 +1419,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 160437,
-      "num": 160437,
-      "word": "吉林省新增本地确诊1例无症状40例",
-      "onboard_time": 1662102266,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160396,
       "num": 160396,
       "word": "原来熊猫宝宝也爱八卦呀",
@@ -1369,6 +1457,14 @@
       "onboard_time": 1662092788,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155229,
+      "num": 155229,
+      "word": "中级会计",
+      "onboard_time": 1662103946,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 154953,
@@ -1419,6 +1515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 131970,
+      "num": 131970,
+      "word": "核酸采样机器人亮相世界人工智能大会",
+      "onboard_time": 1662106405,
+      "rank": 43,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 131450,
       "num": 131450,
       "word": "莱斯特城0比1曼联",
@@ -1451,28 +1555,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 121814,
-      "num": 121814,
-      "word": "中级会计",
-      "onboard_time": 1662103946,
-      "rank": 42,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 121143,
-      "num": 89847,
-      "word": "哪些事是你上了大学后才知道的",
-      "onboard_time": 1662104428,
-      "rank": 47,
-      "category": "情感,教育"
-    },
-    {
       "raw_hot": 118695,
       "num": 118695,
       "word": "男孩得知延迟开学忍不住嘴角上扬",
       "onboard_time": 1662036689,
       "rank": 41,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 117704,
+      "num": 117704,
+      "word": "这猫咪有点不太聪明的样子",
+      "onboard_time": 1662106947,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 113011,
@@ -1515,6 +1611,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 100913,
+      "num": 100913,
+      "word": "狼队总决赛加油",
+      "onboard_time": 1662106646,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 100027,
       "num": 100027,
       "word": "这石头挺有素质",
@@ -1529,6 +1633,14 @@
       "onboard_time": 1662075262,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99128,
+      "num": 99128,
+      "word": "坐姿伸展操缓解腰部不适",
+      "onboard_time": 1662106829,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 96544,
