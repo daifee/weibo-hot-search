@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1662150219507,
+  "endTime": 1662151153317,
   "band_list": [
     {
       "raw_hot": 12749994,
@@ -11403,6 +11403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 14109,
+      "num": 14109,
+      "word": "为了口吃的它真的好努力",
+      "onboard_time": 1662147550,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 12757,
       "num": 12757,
       "word": "成长有态度",
@@ -11411,12 +11419,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 10851,
-      "num": 13302,
-      "word": "为了口吃的它真的好努力",
-      "onboard_time": 1662147550,
-      "rank": 49,
-      "category": "幽默"
+      "raw_hot": 12621,
+      "num": 12621,
+      "word": "林峯吴卓羲早期唱跳舞台",
+      "onboard_time": 1662151092,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 9963,
