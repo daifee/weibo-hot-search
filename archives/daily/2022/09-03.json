@@ -1,6 +1,6 @@
 {
   "startTime": 1662136351891,
-  "endTime": 1662136351891,
+  "endTime": 1662137750608,
   "band_list": [
     {
       "raw_hot": 2585830,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 828859,
+      "num": 828859,
+      "word": "杭州一列车长初筛阳性",
+      "onboard_time": 1662135207,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 784099,
       "num": 495605,
       "word": "赵露思直播",
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 434358,
-      "num": 289544,
+      "num": 364318,
       "word": "胆小鬼",
       "onboard_time": 1662125788,
       "rank": 20,
@@ -123,19 +131,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 414382,
-      "num": 414382,
+      "raw_hot": 415747,
+      "num": 415747,
       "word": "海大教师不配合核酸威胁他人被撤教师资格",
       "onboard_time": 1662133588,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 398449,
-      "num": 398449,
-      "word": "杭州一列车长初筛阳性",
-      "onboard_time": 1662135207,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -145,6 +145,14 @@
       "onboard_time": 1662130950,
       "rank": 17,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 358046,
+      "num": 358046,
+      "word": "杨幂叫自己幂姐",
+      "onboard_time": 1662135987,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 356647,
@@ -171,20 +179,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 332311,
-      "num": 193357,
+      "raw_hot": 338993,
+      "num": 228305,
       "word": "管泽元采访周杰伦",
       "onboard_time": 1662135207,
       "rank": 31,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 329186,
-      "num": 200633,
-      "word": "杨幂叫自己幂姐",
-      "onboard_time": 1662135987,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 326040,
@@ -251,6 +251,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 228554,
+      "num": 228554,
+      "word": "扁头的痛只有扁头懂",
+      "onboard_time": 1662133888,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 221671,
+      "num": 221671,
+      "word": "男子酒驾进了自己建的拘留所",
+      "onboard_time": 1662135266,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219548,
       "num": 219548,
       "word": "Uzi厂长同框",
@@ -267,19 +283,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 201391,
-      "num": 201391,
-      "word": "扁头的痛只有扁头懂",
-      "onboard_time": 1662133888,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 201008,
       "num": 163344,
       "word": "蒲熠星逆风翻盘好燃",
       "onboard_time": 1662134609,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 200943,
+      "num": 150416,
+      "word": "刘芸听到郑钧穿私服上台的反应",
+      "onboard_time": 1662137480,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -355,19 +371,19 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 135665,
-      "num": 135665,
-      "word": "男子酒驾进了自己建的拘留所",
-      "onboard_time": 1662135266,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 128605,
       "num": 128605,
       "word": "员工因想报销50元话费被辞退",
       "onboard_time": 1662112167,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116234,
+      "num": 116234,
+      "word": "妈妈打开电视发现看啥都要VIP",
+      "onboard_time": 1662137065,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -406,6 +422,9 @@
   "hotgov_list": [
     {
       "word": "#北交所设立一周年#"
+    },
+    {
+      "word": "#跟着总书记看中国#"
     }
   ]
 }
