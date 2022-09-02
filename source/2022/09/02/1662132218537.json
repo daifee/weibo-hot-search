@@ -1,0 +1,410 @@
+{
+  "runTime": 1662132218537,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2155308,
+        "num": 2155308,
+        "word": "沉香重华be",
+        "onboard_time": 1662127289,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2095384,
+        "num": 2095384,
+        "word": "东软",
+        "onboard_time": 1662131249,
+        "rank": 1,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 62197,
+        "num": 2083550,
+        "word": "打卡2022服贸会",
+        "onboard_time": 1662121408,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2075737,
+        "num": 2075737,
+        "word": "我国1400万人忍受极端通勤",
+        "onboard_time": 1662112765,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1206912,
+        "num": 1206912,
+        "word": "四川17市州1万余人驰援成都",
+        "onboard_time": 1662128669,
+        "rank": 4,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1134699,
+        "num": 1134699,
+        "word": "网传向涵之将出演骄阳伴我女二",
+        "onboard_time": 1662126389,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 986954,
+        "num": 986954,
+        "word": "处处不提爱处处都是爱",
+        "onboard_time": 1662124707,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 889059,
+        "num": 889059,
+        "word": "王俊凯 塞拉斯",
+        "onboard_time": 1662130769,
+        "rank": 7,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 755570,
+        "num": 755570,
+        "word": "大学生暑假送外卖赚1万7妈妈发声",
+        "onboard_time": 1662125788,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 684179,
+        "num": 684179,
+        "word": "9岁女孩得糖尿病血液似冻猪油",
+        "onboard_time": 1662124049,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 889054,
+        "num": 682965,
+        "word": "李莎旻子文科生的高光时刻",
+        "onboard_time": 1662130470,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 735828,
+        "num": 681609,
+        "word": "胆小鬼",
+        "onboard_time": 1662125788,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 723060,
+        "num": 681401,
+        "word": "沉香如屑番外",
+        "onboard_time": 1662131009,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 680201,
+        "num": 680201,
+        "word": "王俊凯连线周杰伦",
+        "onboard_time": 1662129632,
+        "rank": 13,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 666175,
+        "num": 666175,
+        "word": "北京天通苑一小区出现刺猬",
+        "onboard_time": 1662123809,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 626413,
+        "num": 626413,
+        "word": "34岁独子住院1个月花费54万病亡",
+        "onboard_time": 1662131071,
+        "rank": 15,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 470341,
+        "num": 470341,
+        "word": "Uzi厂长同框",
+        "onboard_time": 1662130352,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 464147,
+        "num": 464147,
+        "word": "教练你怎么不喝茶啊",
+        "onboard_time": 1662129209,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 447037,
+        "num": 447037,
+        "word": "深圳多区开展全员核酸检测",
+        "onboard_time": 1662128311,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424177,
+        "num": 424177,
+        "word": "9月9日前重庆将分区分批开展核酸筛查",
+        "onboard_time": 1662130168,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1277076,
+        "num": 419401,
+        "word": "世间有她易烊千玺杀青图",
+        "onboard_time": 1662129687,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 527613,
+        "num": 413338,
+        "word": "黄晓明杨幂沈腾为狼队打call",
+        "onboard_time": 1662129871,
+        "rank": 21,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 482924,
+        "num": 396178,
+        "word": "沉香如屑大结局",
+        "onboard_time": 1662126269,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 453975,
+        "num": 389319,
+        "word": "乘客衣着暴露在地铁上劈叉摆拍",
+        "onboard_time": 1662113187,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382695,
+        "num": 382695,
+        "word": "幼儿园小朋友跳皮筋馋哭80后",
+        "onboard_time": 1662122125,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335671,
+        "num": 335671,
+        "word": "EDG让二追三RNG",
+        "onboard_time": 1662124170,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 324514,
+        "num": 324514,
+        "word": "gala状态",
+        "onboard_time": 1662126509,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 321033,
+        "num": 321033,
+        "word": "东莞一废弃厂房发生火灾致7死",
+        "onboard_time": 1662126032,
+        "rank": 27,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 296549,
+        "num": 296549,
+        "word": "男子家中被盗2只小狗被杀害",
+        "onboard_time": 1662115886,
+        "rank": 28,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 245774,
+        "num": 245774,
+        "word": "长春暂不采取静默管理",
+        "onboard_time": 1662127589,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363622,
+        "num": 243698,
+        "word": "w两个世界翻拍版开机照",
+        "onboard_time": 1662115768,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 321450,
+        "num": 239903,
+        "word": "沉香如屑大结局你满意吗",
+        "onboard_time": 1662130410,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 307952,
+        "num": 229145,
+        "word": "迪丽热巴龚俊设计的月饼",
+        "onboard_time": 1662125788,
+        "rank": 32,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 320405,
+        "num": 226211,
+        "word": "成毅新剧一人演两个人对打",
+        "onboard_time": 1662131790,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222850,
+        "num": 222850,
+        "word": "孟晚舟回母校都匀一中演讲",
+        "onboard_time": 1662116604,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217169,
+        "num": 217169,
+        "word": "没有一个人能拒绝周五",
+        "onboard_time": 1662119187,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214651,
+        "num": 214651,
+        "word": "小羊肖恩杯子",
+        "onboard_time": 1662130232,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191996,
+        "num": 191996,
+        "word": "员工因想报销50元话费被辞退",
+        "onboard_time": 1662112167,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187377,
+        "num": 187377,
+        "word": "广州疫情防控",
+        "onboard_time": 1662113244,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186528,
+        "num": 186528,
+        "word": "非农",
+        "onboard_time": 1662126633,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 281072,
+        "num": 184864,
+        "word": "黑话律师",
+        "onboard_time": 1662131908,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268065,
+        "num": 184447,
+        "word": "沉香夫妇情感立意高级",
+        "onboard_time": 1662132088,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182672,
+        "num": 182672,
+        "word": "深圳中级",
+        "onboard_time": 1662130950,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 181605,
+        "num": 181605,
+        "word": "为什么不上jiejie",
+        "onboard_time": 1662117685,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175293,
+        "num": 175293,
+        "word": "杭州上城部分区域所有人员赋黄码",
+        "onboard_time": 1662126150,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173239,
+        "num": 173239,
+        "word": "台风",
+        "onboard_time": 1662114686,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169916,
+        "num": 169916,
+        "word": "日本曾将台湾和大连纳入日本领土",
+        "onboard_time": 1662107906,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167000,
+        "num": 167000,
+        "word": "Viper 稳",
+        "onboard_time": 1662128433,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162611,
+        "num": 162611,
+        "word": "LPL三号种子EDG",
+        "onboard_time": 1662124170,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148168,
+        "num": 148168,
+        "word": "2022年第二批涉嫌非法社会组织名单",
+        "onboard_time": 1662120207,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#北交所设立一周年#"
+    }
+  }
+}

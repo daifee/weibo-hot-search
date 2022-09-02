@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1662129404418,
+  "endTime": 1662132218537,
   "band_list": [
     {
       "raw_hot": 12749994,
@@ -459,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2095384,
+      "num": 2095384,
+      "word": "东软",
+      "onboard_time": 1662131249,
+      "rank": 1,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 2082083,
       "num": 2082083,
       "word": "EDG让二追三RNG",
@@ -473,6 +481,14 @@
       "onboard_time": 1661843068,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2075737,
+      "num": 2075737,
+      "word": "我国1400万人忍受极端通勤",
+      "onboard_time": 1662112765,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2054192,
@@ -585,14 +601,6 @@
       "onboard_time": 1661777193,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1880288,
-      "num": 1880288,
-      "word": "我国1400万人忍受极端通勤",
-      "onboard_time": 1662112765,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1876187,
@@ -1291,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1277076,
+      "num": 419401,
+      "word": "世间有她易烊千玺杀青图",
+      "onboard_time": 1662129687,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1272654,
       "num": 1272654,
       "word": "三星嘲讽苹果iPhone14缺乏创新",
@@ -1433,6 +1449,14 @@
       "onboard_time": 1661922391,
       "rank": 44,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 1206912,
+      "num": 1206912,
+      "word": "四川17市州1万余人驰援成都",
+      "onboard_time": 1662128669,
+      "rank": 13,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 1204980,
@@ -1891,6 +1915,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 986954,
+      "num": 986954,
+      "word": "处处不提爱处处都是爱",
+      "onboard_time": 1662124707,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 986426,
       "num": 986426,
       "word": "陕西回应卖20元芹菜被罚6万6",
@@ -1945,14 +1977,6 @@
       "onboard_time": 1662123326,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 975903,
-      "num": 975903,
-      "word": "处处不提爱处处都是爱",
-      "onboard_time": 1662124707,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 971951,
@@ -2217,6 +2241,22 @@
       "onboard_time": 1661924728,
       "rank": 6,
       "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 889059,
+      "num": 889059,
+      "word": "王俊凯 塞拉斯",
+      "onboard_time": 1662130769,
+      "rank": 7,
+      "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 889054,
+      "num": 682965,
+      "word": "李莎旻子文科生的高光时刻",
+      "onboard_time": 1662130470,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 886644,
@@ -2723,6 +2763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 755570,
+      "num": 755570,
+      "word": "大学生暑假送外卖赚1万7妈妈发声",
+      "onboard_time": 1662125788,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 755247,
       "num": 755247,
       "word": "成都疫情处于快速上升阶段",
@@ -2753,6 +2801,14 @@
       "onboard_time": 1661765251,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 735828,
+      "num": 681609,
+      "word": "胆小鬼",
+      "onboard_time": 1662125788,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 733960,
@@ -2811,6 +2867,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 723060,
+      "num": 681401,
+      "word": "沉香如屑番外",
+      "onboard_time": 1662131009,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 722492,
       "num": 722492,
       "word": "东方青苍配音念尊上告别信",
@@ -2824,14 +2888,6 @@
       "word": "官方回应涉疫理发店消杀被收1.6万元",
       "onboard_time": 1661932709,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 718611,
-      "num": 718611,
-      "word": "大学生暑假送外卖赚1万7妈妈发声",
-      "onboard_time": 1662125788,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -2913,6 +2969,14 @@
       "onboard_time": 1661732367,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 680201,
+      "num": 680201,
+      "word": "王俊凯连线周杰伦",
+      "onboard_time": 1662129632,
+      "rank": 13,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 679617,
@@ -3243,14 +3307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 637194,
-      "num": 637194,
-      "word": "胆小鬼",
-      "onboard_time": 1662125788,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 636943,
       "num": 636943,
       "word": "人民网评二十不惑2",
@@ -3297,6 +3353,14 @@
       "onboard_time": 1661939971,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 626413,
+      "num": 626413,
+      "word": "34岁独子住院1个月花费54万病亡",
+      "onboard_time": 1662131071,
+      "rank": 15,
+      "category": "社会负面"
     },
     {
       "raw_hot": 625949,
@@ -3963,6 +4027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 527613,
+      "num": 413338,
+      "word": "黄晓明杨幂沈腾为狼队打call",
+      "onboard_time": 1662129871,
+      "rank": 21,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 526649,
       "num": 526649,
       "word": "乐华新男团官宣",
@@ -4387,6 +4459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 470341,
+      "num": 470341,
+      "word": "Uzi厂长同框",
+      "onboard_time": 1662130352,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 469906,
       "num": 362727,
       "word": "INTO1组合回应",
@@ -4425,6 +4505,14 @@
       "onboard_time": 1662094950,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 464147,
+      "num": 464147,
+      "word": "教练你怎么不喝茶啊",
+      "onboard_time": 1662129209,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 464040,
@@ -4667,6 +4755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 447037,
+      "num": 447037,
+      "word": "深圳多区开展全员核酸检测",
+      "onboard_time": 1662128311,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 446873,
       "num": 446873,
       "word": "男孩得知延迟开学忍不住嘴角上扬",
@@ -4745,14 +4841,6 @@
       "onboard_time": 1662107967,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 439468,
-      "num": 439468,
-      "word": "四川17市州1万余人驰援成都",
-      "onboard_time": 1662128669,
-      "rank": 13,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 437606,
@@ -4857,6 +4945,14 @@
       "onboard_time": 1662030326,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 424177,
+      "num": 424177,
+      "word": "9月9日前重庆将分区分批开展核酸筛查",
+      "onboard_time": 1662130168,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 423975,
@@ -5699,14 +5795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 365150,
-      "num": 365150,
-      "word": "深圳多区开展全员核酸检测",
-      "onboard_time": 1662128311,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 364998,
       "num": 364998,
       "word": "王源南京演唱会三周年",
@@ -6491,12 +6579,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 321450,
+      "num": 239903,
+      "word": "沉香如屑大结局你满意吗",
+      "onboard_time": 1662130410,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 321033,
+      "num": 321033,
+      "word": "东莞一废弃厂房发生火灾致7死",
+      "onboard_time": 1662126032,
+      "rank": 44,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 320879,
       "num": 320879,
       "word": "米切尔加盟骑士",
       "onboard_time": 1662073941,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 320405,
+      "num": 226211,
+      "word": "成毅新剧一人演两个人对打",
+      "onboard_time": 1662131790,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 319759,
@@ -7027,14 +7139,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 292476,
-      "num": 292476,
-      "word": "东莞一废弃厂房发生火灾致7死",
-      "onboard_time": 1662126032,
-      "rank": 44,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 292433,
       "num": 292433,
       "word": "深圳疫情防控",
@@ -7201,6 +7305,14 @@
       "onboard_time": 1661999784,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281072,
+      "num": 184864,
+      "word": "黑话律师",
+      "onboard_time": 1662131908,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 281070,
@@ -7577,6 +7689,14 @@
       "onboard_time": 1661740052,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268065,
+      "num": 184447,
+      "word": "沉香夫妇情感立意高级",
+      "onboard_time": 1662132088,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 268036,
@@ -8099,6 +8219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245774,
+      "num": 245774,
+      "word": "长春暂不采取静默管理",
+      "onboard_time": 1662127589,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245040,
       "num": 245040,
       "word": "赵睿暗示留队",
@@ -8251,14 +8379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 233855,
-      "num": 233855,
-      "word": "教练你怎么不喝茶啊",
-      "onboard_time": 1662129209,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 233214,
       "num": 233214,
       "word": "开学",
@@ -8329,14 +8449,6 @@
       "onboard_time": 1661828848,
       "rank": 31,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 230508,
-      "num": 230508,
-      "word": "长春暂不采取静默管理",
-      "onboard_time": 1662127589,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 230407,
@@ -8705,6 +8817,14 @@
       "onboard_time": 1661847931,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 214651,
+      "num": 214651,
+      "word": "小羊肖恩杯子",
+      "onboard_time": 1662130232,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 214342,
@@ -9473,6 +9593,14 @@
       "onboard_time": 1662102266,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182672,
+      "num": 182672,
+      "word": "深圳中级",
+      "onboard_time": 1662130950,
+      "rank": 42,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 182425,
@@ -10940,7 +11068,7 @@
     },
     {
       "raw_hot": 63430,
-      "num": 1597635,
+      "num": 2083550,
       "word": "打卡2022服贸会",
       "onboard_time": 1662121408,
       "rank": 2,
