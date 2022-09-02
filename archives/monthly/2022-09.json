@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662137750608,
+  "endTime": 1662139504905,
   "band_list": [
     {
       "raw_hot": 6261105,
@@ -811,6 +811,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 923234,
+      "num": 923234,
+      "word": "杭州一列车长初筛阳性",
+      "onboard_time": 1662135207,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 922766,
       "num": 922766,
       "word": "舍不得赵露思演的程少商",
@@ -977,14 +985,6 @@
       "onboard_time": 1662087923,
       "rank": 39,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 828859,
-      "num": 828859,
-      "word": "杭州一列车长初筛阳性",
-      "onboard_time": 1662135207,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 815327,
@@ -2564,7 +2564,7 @@
     },
     {
       "raw_hot": 338993,
-      "num": 228305,
+      "num": 292448,
       "word": "管泽元采访周杰伦",
       "onboard_time": 1662135207,
       "rank": 31,
@@ -3027,6 +3027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 295654,
+      "num": 295654,
+      "word": "网传甜美的咬痕将影视化",
+      "onboard_time": 1662138799,
+      "rank": 13,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 295640,
       "num": 295640,
       "word": "成毅听到粉丝要做帝后的反应",
@@ -3097,6 +3105,14 @@
       "onboard_time": 1662017908,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 289195,
+      "num": 289195,
+      "word": "妈妈打开电视发现看啥都要VIP",
+      "onboard_time": 1662137065,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 288913,
@@ -3571,6 +3587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 246299,
+      "num": 246299,
+      "word": "男子酒驾进了自己建的拘留所",
+      "onboard_time": 1662135266,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245774,
       "num": 245774,
       "word": "长春暂不采取静默管理",
@@ -3803,14 +3827,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 221671,
-      "num": 221671,
-      "word": "男子酒驾进了自己建的拘留所",
-      "onboard_time": 1662135266,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 221207,
       "num": 221207,
       "word": "闪耀暖暖",
@@ -3881,6 +3897,14 @@
       "onboard_time": 1662088163,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214826,
+      "num": 158913,
+      "word": "误杀",
+      "onboard_time": 1662136761,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 214342,
@@ -4857,14 +4881,6 @@
       "onboard_time": 1662034889,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 116234,
-      "num": 116234,
-      "word": "妈妈打开电视发现看啥都要VIP",
-      "onboard_time": 1662137065,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 115235,

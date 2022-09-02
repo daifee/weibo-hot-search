@@ -1,6 +1,6 @@
 {
   "startTime": 1662136351891,
-  "endTime": 1662137750608,
+  "endTime": 1662139504905,
   "band_list": [
     {
       "raw_hot": 2585830,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 923234,
+      "num": 923234,
+      "word": "杭州一列车长初筛阳性",
+      "onboard_time": 1662135207,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 895950,
       "num": 895950,
       "word": "王俊凯 塞拉斯",
@@ -65,14 +73,6 @@
       "onboard_time": 1662134188,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 828859,
-      "num": 828859,
-      "word": "杭州一列车长初筛阳性",
-      "onboard_time": 1662135207,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 784099,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 338993,
-      "num": 228305,
+      "num": 292448,
       "word": "管泽元采访周杰伦",
       "onboard_time": 1662135207,
       "rank": 31,
@@ -195,11 +195,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 295654,
+      "num": 295654,
+      "word": "网传甜美的咬痕将影视化",
+      "onboard_time": 1662138799,
+      "rank": 13,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 290611,
       "num": 290611,
       "word": "9岁女孩得糖尿病血液似冻猪油",
       "onboard_time": 1662124049,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289195,
+      "num": 289195,
+      "word": "妈妈打开电视发现看啥都要VIP",
+      "onboard_time": 1662137065,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -243,6 +259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 246299,
+      "num": 246299,
+      "word": "男子酒驾进了自己建的拘留所",
+      "onboard_time": 1662135266,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231548,
       "num": 183142,
       "word": "沉香如屑大结局你满意吗",
@@ -259,14 +283,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 221671,
-      "num": 221671,
-      "word": "男子酒驾进了自己建的拘留所",
-      "onboard_time": 1662135266,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 219548,
       "num": 219548,
       "word": "Uzi厂长同框",
@@ -281,6 +297,14 @@
       "onboard_time": 1662122125,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214826,
+      "num": 158913,
+      "word": "误杀",
+      "onboard_time": 1662136761,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 201008,
@@ -376,14 +400,6 @@
       "word": "员工因想报销50元话费被辞退",
       "onboard_time": 1662112167,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 116234,
-      "num": 116234,
-      "word": "妈妈打开电视发现看啥都要VIP",
-      "onboard_time": 1662137065,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
