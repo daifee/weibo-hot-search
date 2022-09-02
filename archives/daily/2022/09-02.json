@@ -1,6 +1,6 @@
 {
   "startTime": 1662049902600,
-  "endTime": 1662117591144,
+  "endTime": 1662118564604,
   "band_list": [
     {
       "raw_hot": 2737304,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1880288,
+      "num": 1880288,
+      "word": "我国1400万人忍受极端通勤",
+      "onboard_time": 1662112765,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1876187,
       "num": 1876187,
       "word": "快说谢谢教师资格证",
@@ -59,7 +67,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1757781,
+      "raw_hot": 1793158,
       "num": 993787,
       "word": "w两个世界翻拍版开机照",
       "onboard_time": 1662115768,
@@ -72,14 +80,6 @@
       "word": "员工因想报销50元话费被辞退",
       "onboard_time": 1662112167,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1655327,
-      "num": 1655327,
-      "word": "我国1400万人忍受极端通勤",
-      "onboard_time": 1662112765,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -315,6 +315,14 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 803271,
+      "num": 803271,
+      "word": "男子家中被盗2只小狗被杀害",
+      "onboard_time": 1662115886,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 802795,
       "num": 278241,
       "word": "王鹤棣机车造型",
@@ -379,6 +387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 656191,
+      "num": 656191,
+      "word": "李易峰直播",
+      "onboard_time": 1662115948,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 655495,
       "num": 655495,
       "word": "苹果多款iPod将过时",
@@ -435,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 612970,
+      "num": 612970,
+      "word": "孟晚舟回母校都匀一中演讲",
+      "onboard_time": 1662116604,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 603770,
       "num": 603770,
       "word": "林雨申捡孩子专业户",
@@ -457,14 +481,6 @@
       "onboard_time": 1662093748,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 587082,
-      "num": 587082,
-      "word": "李易峰直播",
-      "onboard_time": 1662115948,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 582999,
@@ -587,14 +603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 507155,
-      "num": 507155,
-      "word": "男子家中被盗2只小狗被杀害",
-      "onboard_time": 1662115886,
-      "rank": 10,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 500654,
       "num": 377671,
       "word": "谁是你心中的Bking天花板",
@@ -673,6 +681,22 @@
       "onboard_time": 1662099505,
       "rank": 14,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 455246,
+      "num": 455246,
+      "word": "国内首例婚内监护权案胜诉",
+      "onboard_time": 1662114448,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 452308,
+      "num": 284272,
+      "word": "宋亚轩教贺峻霖说山东话",
+      "onboard_time": 1662118347,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 449105,
@@ -761,14 +785,6 @@
       "onboard_time": 1662096028,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 404566,
-      "num": 404566,
-      "word": "国内首例婚内监护权案胜诉",
-      "onboard_time": 1662114448,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 402483,
@@ -1083,6 +1099,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 309081,
+      "num": 283748,
+      "word": "苍兰诀弹幕互动量突破4亿",
+      "onboard_time": 1662118407,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 307189,
       "num": 307189,
       "word": "多国感谢中国在安理会主席月出色工作",
@@ -1371,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239577,
+      "num": 199697,
+      "word": "沉香重华成毅玄夜喂桃花絮",
+      "onboard_time": 1662117386,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 238286,
       "num": 238286,
       "word": "狼星夏决纪录片",
@@ -1387,20 +1419,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 234948,
-      "num": 234948,
-      "word": "孟晚舟回母校都匀一中演讲",
-      "onboard_time": 1662116604,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 234438,
       "num": 234438,
       "word": "武汉新增本土无症状15例",
       "onboard_time": 1662083725,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231735,
+      "num": 231735,
+      "word": "24名工科专业女生23个被分到一个班",
+      "onboard_time": 1662117685,
+      "rank": 26,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 230407,
@@ -1416,6 +1448,14 @@
       "word": "杨洋演的井启第",
       "onboard_time": 1662089847,
       "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 229030,
+      "num": 205737,
+      "word": "覆流年",
+      "onboard_time": 1662032488,
+      "rank": 49,
       "category": "影视"
     },
     {
@@ -1448,14 +1488,6 @@
       "word": "玄夜骗爱把自己搭进去了",
       "onboard_time": 1662096086,
       "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 223099,
-      "num": 194918,
-      "word": "沉香重华成毅玄夜喂桃花絮",
-      "onboard_time": 1662117386,
-      "rank": 32,
       "category": "影视"
     },
     {
@@ -1571,14 +1603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 205737,
-      "num": 205737,
-      "word": "覆流年",
-      "onboard_time": 1662032488,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
       "raw_hot": 202185,
       "num": 202185,
       "word": "河南增本土确诊4例无症状46例",
@@ -1683,6 +1707,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 187257,
+      "num": 187257,
+      "word": "为什么不上jiejie",
+      "onboard_time": 1662117685,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 182698,
       "num": 182698,
       "word": "吉林省新增本地确诊1例无症状40例",
@@ -1728,6 +1760,14 @@
       "word": "贵阳疫情防控",
       "onboard_time": 1662074359,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178171,
+      "num": 178171,
+      "word": "成都快递可接单正常配送",
+      "onboard_time": 1662117926,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
