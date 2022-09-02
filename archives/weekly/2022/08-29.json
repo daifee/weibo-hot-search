@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1662147225709,
+  "endTime": 1662150219507,
   "band_list": [
     {
       "raw_hot": 12749994,
@@ -11409,6 +11409,14 @@
       "onboard_time": 1662060791,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 10851,
+      "num": 13302,
+      "word": "为了口吃的它真的好努力",
+      "onboard_time": 1662147550,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 9963,
