@@ -1,6 +1,6 @@
 {
   "startTime": 1662136351891,
-  "endTime": 1662143284255,
+  "endTime": 1662144313749,
   "band_list": [
     {
       "raw_hot": 2585830,
@@ -427,6 +427,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 101681,
+      "num": 101681,
+      "word": "怎么当了老师还逃不过社死",
+      "onboard_time": 1662139758,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 98494,
       "num": 98494,
       "word": "为什么不上jiejie",
@@ -435,20 +443,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 97426,
-      "num": 97426,
-      "word": "怎么当了老师还逃不过社死",
-      "onboard_time": 1662139758,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 62728,
       "num": 1299608,
       "word": "打卡2022服贸会",
       "onboard_time": 1662121408,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 28018,
+      "num": 28018,
+      "word": "眼球突出并非因为长期戴眼镜",
+      "onboard_time": 1662143893,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
