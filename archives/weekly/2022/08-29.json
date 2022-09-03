@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1662180099703,
+  "endTime": 1662183270467,
   "band_list": [
     {
       "raw_hot": 12749994,
@@ -577,6 +577,14 @@
       "onboard_time": 1662039451,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1961921,
+      "num": 1961921,
+      "word": "老人做核酸不愿插队众人谎称按年龄",
+      "onboard_time": 1662180805,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1940857,
@@ -2403,6 +2411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 880656,
+      "num": 534319,
+      "word": "女子发现男子深夜卧室窗外疑偷窥",
+      "onboard_time": 1662177926,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 877227,
       "num": 364421,
       "word": "吴磊出发星汉灿烂庆功宴",
@@ -2608,14 +2624,6 @@
       "word": "北京海淀新增一本土确诊",
       "onboard_time": 1661936431,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 817978,
-      "num": 534319,
-      "word": "女子发现男子深夜卧室窗外疑偷窥",
-      "onboard_time": 1662177926,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -3089,6 +3097,14 @@
       "onboard_time": 1661736755,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 707805,
+      "num": 286414,
+      "word": "刘诗诗一念关山嘟嘴饭拍路透",
+      "onboard_time": 1662181166,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 703351,
@@ -3723,6 +3739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 595206,
+      "num": 595206,
+      "word": "与君初相识恰似故人归登华策2022半年报",
+      "onboard_time": 1662180267,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 594127,
       "num": 594127,
       "word": "王俊凯游戏ID地表最强Karry",
@@ -4057,6 +4081,14 @@
       "onboard_time": 1661746293,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 555180,
+      "num": 435044,
+      "word": "王嘉尔Tablo合作舞台Imagine",
+      "onboard_time": 1662183025,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 554483,
@@ -5137,6 +5169,14 @@
       "onboard_time": 1662114984,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 440166,
+      "num": 440166,
+      "word": "河北一学校摆桌放锤子免费碎手机",
+      "onboard_time": 1662181947,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 439693,
@@ -6803,6 +6843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 331274,
+      "num": 331274,
+      "word": "阳光信用",
+      "onboard_time": 1662178587,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
       "raw_hot": 330619,
       "num": 330619,
       "word": "被HR追问试用期离职原因",
@@ -6833,6 +6881,14 @@
       "onboard_time": 1661783497,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 330269,
+      "num": 330269,
+      "word": "超负荷用眼危害有多大",
+      "onboard_time": 1662179666,
+      "rank": 48,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 329725,
@@ -7129,14 +7185,6 @@
       "onboard_time": 1661940030,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 315863,
-      "num": 315863,
-      "word": "阳光信用",
-      "onboard_time": 1662178587,
-      "rank": 45,
-      "category": "科技"
     },
     {
       "raw_hot": 315457,
@@ -7683,6 +7731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 288323,
+      "num": 288323,
+      "word": "成都新增本土确诊病例105例",
+      "onboard_time": 1662181225,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288200,
       "num": 288200,
       "word": "黑龙江新增本土确诊11例无症状207例",
@@ -7761,6 +7817,14 @@
       "onboard_time": 1662136761,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 284234,
+      "num": 284234,
+      "word": "九三胜利日大阅兵77秒高燃瞬间",
+      "onboard_time": 1662178765,
+      "rank": 49,
+      "category": "军事"
     },
     {
       "raw_hot": 282393,
@@ -8235,6 +8299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 267048,
+      "num": 267048,
+      "word": "赵露思直播造型",
+      "onboard_time": 1662177926,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 266726,
       "num": 266726,
       "word": "河南三支一扶",
@@ -8457,6 +8529,14 @@
       "onboard_time": 1661992232,
       "rank": 23,
       "category": "美妆,社会新闻"
+    },
+    {
+      "raw_hot": 257997,
+      "num": 257997,
+      "word": "王鹤棣你好星期六开学送寄语",
+      "onboard_time": 1662180564,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 257682,
@@ -9153,14 +9233,6 @@
       "onboard_time": 1662034170,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 225933,
-      "num": 225933,
-      "word": "赵露思直播造型",
-      "onboard_time": 1662177926,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 224969,
@@ -10579,14 +10651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 161562,
-      "num": 161562,
-      "word": "九三胜利日大阅兵77秒高燃瞬间",
-      "onboard_time": 1662178765,
-      "rank": 49,
-      "category": "军事"
-    },
-    {
       "raw_hot": 161458,
       "num": 161458,
       "word": "大哥拍下300场日出日落鼓励陌生人",
@@ -11059,14 +11123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 139188,
-      "num": 139188,
-      "word": "超负荷用眼危害有多大",
-      "onboard_time": 1662179666,
-      "rank": 48,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 138827,
       "num": 138827,
       "word": "无锡疫情防控",
@@ -11145,6 +11201,14 @@
       "onboard_time": 1661850689,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 135147,
+      "num": 135147,
+      "word": "吴易昺无缘美网16强",
+      "onboard_time": 1662182246,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 134830,
@@ -11257,6 +11321,14 @@
       "onboard_time": 1661864073,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 128075,
+      "num": 128075,
+      "word": "2398元礼盒里没有月饼",
+      "onboard_time": 1662183145,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125963,

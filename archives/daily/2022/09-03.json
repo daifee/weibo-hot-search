@@ -1,6 +1,6 @@
 {
   "startTime": 1662136351891,
-  "endTime": 1662180099703,
+  "endTime": 1662183270467,
   "band_list": [
     {
       "raw_hot": 2900821,
@@ -25,6 +25,14 @@
       "onboard_time": 1662171142,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1961921,
+      "num": 1961921,
+      "word": "老人做核酸不愿插队众人谎称按年龄",
+      "onboard_time": 1662180805,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1946385,
@@ -163,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 880656,
+      "num": 534319,
+      "word": "女子发现男子深夜卧室窗外疑偷窥",
+      "onboard_time": 1662177926,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 858922,
       "num": 858922,
       "word": "深圳新增87例阳性病例",
@@ -177,14 +193,6 @@
       "onboard_time": 1662173425,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 817978,
-      "num": 534319,
-      "word": "女子发现男子深夜卧室窗外疑偷窥",
-      "onboard_time": 1662177926,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 784099,
@@ -209,6 +217,14 @@
       "onboard_time": 1662162202,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 707805,
+      "num": 286414,
+      "word": "刘诗诗一念关山嘟嘴饭拍路透",
+      "onboard_time": 1662181166,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 700254,
@@ -259,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 595206,
+      "num": 595206,
+      "word": "与君初相识恰似故人归登华策2022半年报",
+      "onboard_time": 1662180267,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 594127,
       "num": 594127,
       "word": "王俊凯游戏ID地表最强Karry",
@@ -281,6 +305,14 @@
       "onboard_time": 1662168807,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 555180,
+      "num": 435044,
+      "word": "王嘉尔Tablo合作舞台Imagine",
+      "onboard_time": 1662183025,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 548372,
@@ -369,6 +401,14 @@
       "onboard_time": 1662176423,
       "rank": 14,
       "category": "教育"
+    },
+    {
+      "raw_hot": 440166,
+      "num": 440166,
+      "word": "河北一学校摆桌放锤子免费碎手机",
+      "onboard_time": 1662181947,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 434358,
@@ -507,12 +547,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 331274,
+      "num": 331274,
+      "word": "阳光信用",
+      "onboard_time": 1662178587,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
       "raw_hot": 330311,
       "num": 330311,
       "word": "檀健次魏晨默契度",
       "onboard_time": 1662178464,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 330269,
+      "num": 330269,
+      "word": "超负荷用眼危害有多大",
+      "onboard_time": 1662179666,
+      "rank": 48,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 328884,
@@ -537,14 +593,6 @@
       "onboard_time": 1662177206,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 315863,
-      "num": 315863,
-      "word": "阳光信用",
-      "onboard_time": 1662178587,
-      "rank": 45,
-      "category": "科技"
     },
     {
       "raw_hot": 313739,
@@ -595,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 288323,
+      "num": 288323,
+      "word": "成都新增本土确诊病例105例",
+      "onboard_time": 1662181225,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 287197,
       "num": 287197,
       "word": "刘芸听到郑钧穿私服上台的反应",
@@ -609,6 +665,14 @@
       "onboard_time": 1662136761,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 284234,
+      "num": 284234,
+      "word": "九三胜利日大阅兵77秒高燃瞬间",
+      "onboard_time": 1662178765,
+      "rank": 49,
+      "category": "军事"
     },
     {
       "raw_hot": 280647,
@@ -659,12 +723,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 267048,
+      "num": 267048,
+      "word": "赵露思直播造型",
+      "onboard_time": 1662177926,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 265839,
       "num": 265839,
       "word": "2022KPL夏季赛总决赛",
       "onboard_time": 1662180027,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 257997,
+      "num": 257997,
+      "word": "王鹤棣你好星期六开学送寄语",
+      "onboard_time": 1662180564,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 257010,
@@ -745,14 +825,6 @@
       "onboard_time": 1662161300,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 225933,
-      "num": 225933,
-      "word": "赵露思直播造型",
-      "onboard_time": 1662177926,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 224837,
@@ -875,14 +947,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 161562,
-      "num": 161562,
-      "word": "九三胜利日大阅兵77秒高燃瞬间",
-      "onboard_time": 1662178765,
-      "rank": 49,
-      "category": "军事"
-    },
-    {
       "raw_hot": 156578,
       "num": 156578,
       "word": "广州疫情防控",
@@ -931,20 +995,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 139188,
-      "num": 139188,
-      "word": "超负荷用眼危害有多大",
-      "onboard_time": 1662179666,
-      "rank": 48,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 137993,
       "num": 137993,
       "word": "狗子头顶杀马特造型为理发店看门",
       "onboard_time": 1662153490,
       "rank": 48,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 135147,
+      "num": 135147,
+      "word": "吴易昺无缘美网16强",
+      "onboard_time": 1662182246,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 131595,
@@ -960,6 +1024,14 @@
       "word": "员工因想报销50元话费被辞退",
       "onboard_time": 1662112167,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128075,
+      "num": 128075,
+      "word": "2398元礼盒里没有月饼",
+      "onboard_time": 1662183145,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
