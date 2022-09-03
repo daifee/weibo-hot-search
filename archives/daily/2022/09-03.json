@@ -1,6 +1,6 @@
 {
   "startTime": 1662136351891,
-  "endTime": 1662194602065,
+  "endTime": 1662196867151,
   "band_list": [
     {
       "raw_hot": 2900821,
@@ -33,6 +33,14 @@
       "onboard_time": 1662189263,
       "rank": 0,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 2426678,
+      "num": 779589,
+      "word": "BLACKPINK成员照片遭黑客泄露",
+      "onboard_time": 1662194368,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2416374,
@@ -89,6 +97,14 @@
       "onboard_time": 1662190286,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1421225,
+      "num": 1421225,
+      "word": "特朗普庄园搜出18份最高机密文件",
+      "onboard_time": 1662190586,
+      "rank": 8,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1419010,
@@ -171,14 +187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1144708,
-      "num": 1144708,
-      "word": "特朗普庄园搜出18份最高机密文件",
-      "onboard_time": 1662190586,
-      "rank": 8,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 1122406,
       "num": 1122406,
       "word": "再爱就不礼貌了",
@@ -219,12 +227,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 1001020,
-      "num": 779589,
-      "word": "BLACKPINK成员照片遭黑客泄露",
-      "onboard_time": 1662194368,
-      "rank": 10,
-      "category": "艺人"
+      "raw_hot": 961777,
+      "num": 961777,
+      "word": "东软回应成都核酸系统异常",
+      "onboard_time": 1662191608,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 952389,
@@ -323,20 +331,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 818864,
-      "num": 818864,
-      "word": "东软回应成都核酸系统异常",
-      "onboard_time": 1662191608,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 784099,
       "num": 495605,
       "word": "赵露思直播",
       "onboard_time": 1662133229,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 740011,
+      "num": 740011,
+      "word": "阿根廷不明原因肺炎增至10例",
+      "onboard_time": 1662193290,
+      "rank": 46,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 722810,
@@ -627,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 417741,
+      "num": 417741,
+      "word": "重庆公积金最高可贷120万元",
+      "onboard_time": 1662194548,
+      "rank": 47,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 417443,
       "num": 417443,
       "word": "山西朔州右玉县3.8级地震",
@@ -664,6 +680,14 @@
       "word": "深圳中级",
       "onboard_time": 1662130950,
       "rank": 17,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 373350,
+      "num": 373350,
+      "word": "山东一小学迎来13对双胞胎",
+      "onboard_time": 1662193768,
+      "rank": 40,
       "category": "社会新闻,教育"
     },
     {
@@ -763,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 335538,
+      "num": 335538,
+      "word": "刘德华说任贤齐是世界第一等",
+      "onboard_time": 1662195627,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 335177,
       "num": 335177,
       "word": "吴易昺",
@@ -811,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 323150,
+      "num": 323150,
+      "word": "财务管理",
+      "onboard_time": 1662194007,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 316639,
       "num": 316639,
       "word": "苍兰夫妇亲头发花絮",
@@ -857,6 +897,14 @@
       "onboard_time": 1662171506,
       "rank": 44,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 296225,
+      "num": 296225,
+      "word": "古偶大婚名场面",
+      "onboard_time": 1662195328,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 291707,
@@ -937,6 +985,14 @@
       "onboard_time": 1662178765,
       "rank": 49,
       "category": "军事"
+    },
+    {
+      "raw_hot": 281290,
+      "num": 281290,
+      "word": "ive新歌获音中一位",
+      "onboard_time": 1662196409,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 280647,
@@ -1043,20 +1099,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 250009,
-      "num": 250009,
-      "word": "阿根廷不明原因肺炎增至10例",
-      "onboard_time": 1662193290,
-      "rank": 46,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 249945,
       "num": 186566,
       "word": "w两个世界翻拍版开机照",
       "onboard_time": 1662115768,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 249075,
+      "num": 249075,
+      "word": "北京疫情发布会",
+      "onboard_time": 1662196105,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246299,
@@ -1139,6 +1195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 222149,
+      "num": 222149,
+      "word": "人民网评街舞5的传承与创新",
+      "onboard_time": 1662194846,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219548,
       "num": 219548,
       "word": "Uzi厂长同框",
@@ -1195,12 +1259,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 196511,
+      "num": 196511,
+      "word": "小男孩狂补作业笔都快写飞了",
+      "onboard_time": 1662195569,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193040,
       "num": 182235,
       "word": "登录圆鱼洲收官",
       "onboard_time": 1662178224,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191730,
+      "num": 191730,
+      "word": "爱吃葡萄的小熊猫",
+      "onboard_time": 1662194127,
+      "rank": 46,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 191473,
@@ -1243,14 +1323,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 178463,
-      "num": 178463,
-      "word": "山东一小学迎来13对双胞胎",
-      "onboard_time": 1662193768,
-      "rank": 40,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 177661,
       "num": 177661,
       "word": "EDG让二追三RNG",
@@ -1289,6 +1361,22 @@
       "onboard_time": 1662130232,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 163374,
+      "num": 163374,
+      "word": "狼队对战eStar",
+      "onboard_time": 1662196528,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 156717,
+      "num": 156717,
+      "word": "尚雯婕花木兰扮相",
+      "onboard_time": 1662195627,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 156578,
@@ -1331,20 +1419,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 141104,
-      "num": 141104,
-      "word": "财务管理",
-      "onboard_time": 1662194007,
-      "rank": 43,
-      "category": "教育"
-    },
-    {
       "raw_hot": 140257,
       "num": 140257,
       "word": "雅思",
       "onboard_time": 1662188304,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 140054,
+      "num": 140054,
+      "word": "未来AI提供理财服务会普遍吗",
+      "onboard_time": 1662196647,
+      "rank": 45,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 139828,
@@ -1427,28 +1515,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 120439,
-      "num": 120439,
-      "word": "爱吃葡萄的小熊猫",
-      "onboard_time": 1662194127,
-      "rank": 46,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 114230,
       "num": 114230,
       "word": "日本曾将台湾和大连纳入日本领土",
       "onboard_time": 1662107906,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 111586,
-      "num": 111586,
-      "word": "重庆公积金最高可贷120万元",
-      "onboard_time": 1662194548,
-      "rank": 47,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 111331,
@@ -1489,6 +1561,14 @@
       "onboard_time": 1662188184,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 83110,
+      "num": 83110,
+      "word": "中级经济法",
+      "onboard_time": 1662195986,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 81687,

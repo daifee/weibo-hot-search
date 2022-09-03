@@ -1,0 +1,410 @@
+{
+  "runTime": 1662196867151,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1421225,
+        "num": 1421225,
+        "word": "特朗普庄园搜出18份最高机密文件",
+        "onboard_time": 1662190586,
+        "rank": 0,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1093138,
+        "num": 1093138,
+        "word": "产妇凌晨在家晕倒呼吸停止",
+        "onboard_time": 1662186087,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12434,
+        "num": 1060877,
+        "word": "打卡2022服贸会",
+        "onboard_time": 1662121408,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1054400,
+        "num": 1054400,
+        "word": "东航一航班因旅客吐血紧急备降",
+        "onboard_time": 1662189505,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 961777,
+        "num": 961777,
+        "word": "东软回应成都核酸系统异常",
+        "onboard_time": 1662191608,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1396439,
+        "num": 898889,
+        "word": "东软",
+        "onboard_time": 1662131249,
+        "rank": 5,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 740011,
+        "num": 740011,
+        "word": "阿根廷不明原因肺炎增至10例",
+        "onboard_time": 1662193290,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 516569,
+        "num": 516569,
+        "word": "印度成为第五大经济体",
+        "onboard_time": 1662188490,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479554,
+        "num": 479554,
+        "word": "成都女子3套房放11台冰箱囤货",
+        "onboard_time": 1662174505,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429617,
+        "num": 429617,
+        "word": "女生保健品当饭吃致子宫长满肌瘤",
+        "onboard_time": 1662187767,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2426678,
+        "num": 427824,
+        "word": "BLACKPINK成员照片遭黑客泄露",
+        "onboard_time": 1662194368,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1141047,
+        "num": 426061,
+        "word": "江西抚州发生命案已致一人死亡",
+        "onboard_time": 1662191608,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 866831,
+        "num": 425847,
+        "word": "王鹤棣叫李一桐丈母娘",
+        "onboard_time": 1662190286,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 422962,
+        "num": 422962,
+        "word": "招行平均月薪下降仍有5.5万元",
+        "onboard_time": 1662186565,
+        "rank": 13,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 417741,
+        "num": 417741,
+        "word": "重庆公积金最高可贷120万元",
+        "onboard_time": 1662194548,
+        "rank": 14,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 373350,
+        "num": 373350,
+        "word": "山东一小学迎来13对双胞胎",
+        "onboard_time": 1662193768,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 335538,
+        "num": 335538,
+        "word": "刘德华说任贤齐是世界第一等",
+        "onboard_time": 1662195627,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323150,
+        "num": 323150,
+        "word": "财务管理",
+        "onboard_time": 1662194007,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 302632,
+        "num": 302632,
+        "word": "老人做核酸不愿插队众人谎称按年龄",
+        "onboard_time": 1662180805,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296225,
+        "num": 296225,
+        "word": "古偶大婚名场面",
+        "onboard_time": 1662195328,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 286784,
+        "num": 286784,
+        "word": "杭州一医院7天接240名开学焦虑娃",
+        "onboard_time": 1662183688,
+        "rank": 20,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 281290,
+        "num": 281290,
+        "word": "ive新歌获音中一位",
+        "onboard_time": 1662196409,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 270777,
+        "num": 270777,
+        "word": "2398元礼盒里没有月饼",
+        "onboard_time": 1662183145,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249075,
+        "num": 249075,
+        "word": "北京疫情发布会",
+        "onboard_time": 1662196105,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248424,
+        "num": 248424,
+        "word": "张彬彬给虞书欣拨刘海",
+        "onboard_time": 1662187287,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243442,
+        "num": 243442,
+        "word": "艾热王以太婚庆歌手接单了",
+        "onboard_time": 1662194489,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243013,
+        "num": 243013,
+        "word": "小学生坐公交写1元欠条",
+        "onboard_time": 1662188184,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224908,
+        "num": 224908,
+        "word": "陈雨菲",
+        "onboard_time": 1662190888,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222149,
+        "num": 222149,
+        "word": "人民网评街舞5的传承与创新",
+        "onboard_time": 1662194846,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214484,
+        "num": 214484,
+        "word": "王鹤棣听课演我",
+        "onboard_time": 1662189924,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210383,
+        "num": 210383,
+        "word": "女子发现男子深夜卧室窗外疑偷窥",
+        "onboard_time": 1662177926,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208338,
+        "num": 208338,
+        "word": "中级财管",
+        "onboard_time": 1662189688,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 200722,
+        "num": 200722,
+        "word": "沉香夫妇双双下线",
+        "onboard_time": 1662188428,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196511,
+        "num": 196511,
+        "word": "小男孩狂补作业笔都快写飞了",
+        "onboard_time": 1662195569,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191730,
+        "num": 191730,
+        "word": "爱吃葡萄的小熊猫",
+        "onboard_time": 1662194127,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 180174,
+        "num": 180174,
+        "word": "范世錡台上台下反差感",
+        "onboard_time": 1662192507,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180118,
+        "num": 180118,
+        "word": "王一博陈宇杀青还带着伤",
+        "onboard_time": 1662193290,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168492,
+        "num": 168492,
+        "word": "河北一学校摆桌放锤子免费碎手机",
+        "onboard_time": 1662181947,
+        "rank": 37,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 163374,
+        "num": 163374,
+        "word": "狼队对战eStar",
+        "onboard_time": 1662196528,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160664,
+        "num": 160664,
+        "word": "山东新增本土确诊8例无症状75例",
+        "onboard_time": 1662190227,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159115,
+        "num": 159115,
+        "word": "没想到这小狗竟然这么厉害",
+        "onboard_time": 1662186205,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157382,
+        "num": 157382,
+        "word": "为什么大学生的行李越来越少了",
+        "onboard_time": 1662176545,
+        "rank": 41,
+        "category": "社会议题,教育"
+      },
+      {
+        "raw_hot": 528379,
+        "num": 157176,
+        "word": "湖南娄底",
+        "onboard_time": 1662190826,
+        "rank": 42,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 156717,
+        "num": 156717,
+        "word": "尚雯婕花木兰扮相",
+        "onboard_time": 1662195627,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156679,
+        "num": 156679,
+        "word": "王俊凯真的好杰伦脑",
+        "onboard_time": 1662184465,
+        "rank": 44,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 140054,
+        "num": 140054,
+        "word": "未来AI提供理财服务会普遍吗",
+        "onboard_time": 1662196647,
+        "rank": 45,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 137777,
+        "num": 137777,
+        "word": "成都核酸",
+        "onboard_time": 1662186266,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132005,
+        "num": 132005,
+        "word": "苍兰诀大婚花絮照",
+        "onboard_time": 1662189148,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 99045,
+        "num": 99045,
+        "word": "超负荷用眼危害有多大",
+        "onboard_time": 1662179666,
+        "rank": 48,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 83110,
+        "num": 83110,
+        "word": "中级经济法",
+        "onboard_time": 1662195986,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#直击2022年服贸会#"
+    }
+  }
+}
