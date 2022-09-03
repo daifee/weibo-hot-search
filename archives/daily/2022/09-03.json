@@ -1,10 +1,10 @@
 {
   "startTime": 1662136351891,
-  "endTime": 1662178831015,
+  "endTime": 1662180099703,
   "band_list": [
     {
-      "raw_hot": 2864562,
-      "num": 2864562,
+      "raw_hot": 2900821,
+      "num": 2900821,
       "word": "成都女子3套房放11台冰箱囤货",
       "onboard_time": 1662174505,
       "rank": 0,
@@ -49,6 +49,14 @@
       "onboard_time": 1662170546,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1383355,
+      "num": 1383355,
+      "word": "为什么大学生的行李越来越少了",
+      "onboard_time": 1662176545,
+      "rank": 3,
+      "category": "社会议题,教育"
     },
     {
       "raw_hot": 1343092,
@@ -107,14 +115,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1027919,
-      "num": 1027919,
-      "word": "为什么大学生的行李越来越少了",
-      "onboard_time": 1662176545,
-      "rank": 3,
-      "category": "社会议题,教育"
-    },
-    {
       "raw_hot": 1026119,
       "num": 1026119,
       "word": "中国军队国际形象网宣片发布",
@@ -171,6 +171,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 823420,
+      "num": 823420,
+      "word": "最不想弟弟开学的是姐姐",
+      "onboard_time": 1662173425,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 817978,
+      "num": 534319,
+      "word": "女子发现男子深夜卧室窗外疑偷窥",
+      "onboard_time": 1662177926,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 784099,
       "num": 495605,
       "word": "赵露思直播",
@@ -217,14 +233,6 @@
       "onboard_time": 1662172045,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 681695,
-      "num": 681695,
-      "word": "最不想弟弟开学的是姐姐",
-      "onboard_time": 1662173425,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 677807,
@@ -323,6 +331,22 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 476728,
+      "num": 325972,
+      "word": "肖战林修崖4周年",
+      "onboard_time": 1662179845,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 460794,
+      "num": 460794,
+      "word": "沉香如屑 编剧",
+      "onboard_time": 1662177384,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 453476,
       "num": 453476,
       "word": "沉香如屑番外",
@@ -379,12 +403,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 388304,
-      "num": 388304,
-      "word": "沉香如屑 编剧",
-      "onboard_time": 1662177384,
-      "rank": 17,
-      "category": "影视"
+      "raw_hot": 393179,
+      "num": 393179,
+      "word": "袁隆平爷爷的禾下乘凉不再是梦",
+      "onboard_time": 1662174265,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 383646,
@@ -483,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 330311,
+      "num": 330311,
+      "word": "檀健次魏晨默契度",
+      "onboard_time": 1662178464,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 328884,
       "num": 328884,
       "word": "沉香我再给你一次机会",
@@ -507,20 +539,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 315863,
+      "num": 315863,
+      "word": "阳光信用",
+      "onboard_time": 1662178587,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
       "raw_hot": 313739,
       "num": 313739,
       "word": "美网",
       "onboard_time": 1662165865,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 312246,
-      "num": 312246,
-      "word": "女子发现男子深夜卧室窗外疑偷窥",
-      "onboard_time": 1662177926,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 311387,
@@ -532,7 +564,7 @@
     },
     {
       "raw_hot": 309466,
-      "num": 256316,
+      "num": 271768,
       "word": "王一博这就是街舞5第四期海报",
       "onboard_time": 1662175405,
       "rank": 30,
@@ -579,12 +611,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 279577,
-      "num": 252223,
-      "word": "檀健次魏晨默契度",
-      "onboard_time": 1662178464,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 280647,
+      "num": 280647,
+      "word": "1945年民众得知日本投降后冲上街欢呼",
+      "onboard_time": 1662174207,
+      "rank": 49,
+      "category": "军事"
     },
     {
       "raw_hot": 276322,
@@ -603,11 +635,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 273926,
-      "num": 273926,
-      "word": "袁隆平爷爷的禾下乘凉不再是梦",
-      "onboard_time": 1662174265,
-      "rank": 28,
+      "raw_hot": 273858,
+      "num": 273858,
+      "word": "贵阳疫情防控",
+      "onboard_time": 1662177863,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -627,12 +659,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 263555,
-      "num": 263555,
-      "word": "1945年民众得知日本投降后冲上街欢呼",
-      "onboard_time": 1662174207,
-      "rank": 49,
-      "category": "军事"
+      "raw_hot": 265839,
+      "num": 265839,
+      "word": "2022KPL夏季赛总决赛",
+      "onboard_time": 1662180027,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 257010,
@@ -715,6 +747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 225933,
+      "num": 225933,
+      "word": "赵露思直播造型",
+      "onboard_time": 1662177926,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 224837,
       "num": 224837,
       "word": "欧豪胆小鬼16集眼神变化",
@@ -787,14 +827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 185060,
-      "num": 185060,
-      "word": "贵阳疫情防控",
-      "onboard_time": 1662177863,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181346,
       "num": 181346,
       "word": "怎么当了老师还逃不过社死",
@@ -835,20 +867,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 166175,
-      "num": 166175,
-      "word": "赵露思直播造型",
-      "onboard_time": 1662177926,
-      "rank": 44,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 163729,
       "num": 163729,
       "word": "小羊肖恩杯子",
       "onboard_time": 1662130232,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 161562,
+      "num": 161562,
+      "word": "九三胜利日大阅兵77秒高燃瞬间",
+      "onboard_time": 1662178765,
+      "rank": 49,
+      "category": "军事"
     },
     {
       "raw_hot": 156578,
@@ -865,14 +897,6 @@
       "onboard_time": 1662119187,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 155693,
-      "num": 155693,
-      "word": "阳光信用",
-      "onboard_time": 1662178587,
-      "rank": 45,
-      "category": "科技"
     },
     {
       "raw_hot": 154052,
@@ -907,6 +931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139188,
+      "num": 139188,
+      "word": "超负荷用眼危害有多大",
+      "onboard_time": 1662179666,
+      "rank": 48,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 137993,
       "num": 137993,
       "word": "狗子头顶杀马特造型为理发店看门",
@@ -921,14 +953,6 @@
       "onboard_time": 1662160878,
       "rank": 35,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 128870,
-      "num": 128870,
-      "word": "九三胜利日大阅兵77秒高燃瞬间",
-      "onboard_time": 1662178765,
-      "rank": 49,
-      "category": "军事"
     },
     {
       "raw_hot": 128605,
@@ -996,7 +1020,7 @@
     },
     {
       "raw_hot": 62728,
-      "num": 1299608,
+      "num": 1444525,
       "word": "打卡2022服贸会",
       "onboard_time": 1662121408,
       "rank": 2,
