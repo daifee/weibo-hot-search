@@ -1,6 +1,6 @@
 {
   "startTime": 1662136351891,
-  "endTime": 1662197869653,
+  "endTime": 1662200646583,
   "band_list": [
     {
       "raw_hot": 2900821,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1462819,
+      "num": 1462819,
+      "word": "东航一航班因旅客吐血紧急备降",
+      "onboard_time": 1662189505,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1430704,
       "num": 1430704,
       "word": "王鹤棣叫李一桐丈母娘",
@@ -121,6 +129,14 @@
       "onboard_time": 1662176545,
       "rank": 3,
       "category": "社会议题,教育"
+    },
+    {
+      "raw_hot": 1378169,
+      "num": 444143,
+      "word": "王一博三年间为乐华带来10.83亿收入",
+      "onboard_time": 1662198926,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1346428,
@@ -179,20 +195,20 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 1171161,
-      "num": 1171161,
-      "word": "东航一航班因旅客吐血紧急备降",
-      "onboard_time": 1662189505,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1122406,
       "num": 1122406,
       "word": "再爱就不礼貌了",
       "onboard_time": 1662168267,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1115308,
+      "num": 1115308,
+      "word": "阿根廷不明原因肺炎增至10例",
+      "onboard_time": 1662193290,
+      "rank": 46,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1098236,
@@ -209,14 +225,6 @@
       "onboard_time": 1662183145,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1059614,
-      "num": 1059614,
-      "word": "阿根廷不明原因肺炎增至10例",
-      "onboard_time": 1662193290,
-      "rank": 46,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1046740,
@@ -273,6 +281,14 @@
       "onboard_time": 1662186266,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 916082,
+      "num": 916082,
+      "word": "Light身体不适",
+      "onboard_time": 1662197968,
+      "rank": 3,
+      "category": "游戏"
     },
     {
       "raw_hot": 895950,
@@ -371,6 +387,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 702413,
+      "num": 313381,
+      "word": "还以为蔡徐坤镶了牙",
+      "onboard_time": 1662197608,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 700254,
       "num": 700254,
       "word": "四川新增本土确诊128例无症状74例",
@@ -417,14 +441,6 @@
       "onboard_time": 1662143893,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 677390,
-      "num": 285354,
-      "word": "还以为蔡徐坤镶了牙",
-      "onboard_time": 1662197608,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 668209,
@@ -595,6 +611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 466788,
+      "num": 466788,
+      "word": "古偶大婚名场面",
+      "onboard_time": 1662195328,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 460794,
       "num": 460794,
       "word": "沉香如屑 编剧",
@@ -608,6 +632,14 @@
       "word": "沉香如屑番外",
       "onboard_time": 1662131009,
       "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 447761,
+      "num": 447761,
+      "word": "虞书欣苍兰诀大结局配音vlog",
+      "onboard_time": 1662198146,
+      "rank": 9,
       "category": "影视"
     },
     {
@@ -651,6 +683,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 436062,
+      "num": 436062,
+      "word": "男子多次尾随女子回家偷配钥匙开门",
+      "onboard_time": 1662198387,
+      "rank": 13,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 434358,
       "num": 364318,
       "word": "胆小鬼",
@@ -675,14 +715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 414279,
-      "num": 414279,
-      "word": "古偶大婚名场面",
-      "onboard_time": 1662195328,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 394675,
       "num": 394675,
       "word": "朱志鑫学校宣传片独舞视频",
@@ -705,6 +737,14 @@
       "onboard_time": 1662193768,
       "rank": 40,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 387553,
+      "num": 387553,
+      "word": "成都疫情防控指挥部相关负责同志致歉",
+      "onboard_time": 1662196889,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 383646,
@@ -883,12 +923,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 313563,
+      "num": 313563,
+      "word": "男子车流密集闯红灯被撞死亡负全责",
+      "onboard_time": 1662197126,
+      "rank": 38,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 311387,
       "num": 311387,
       "word": "9月2日新增本土确诊440例",
       "onboard_time": 1662170605,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310090,
+      "num": 310090,
+      "word": "周末一个人能干嘛",
+      "onboard_time": 1662199289,
+      "rank": 21,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 309996,
@@ -929,6 +985,14 @@
       "onboard_time": 1662194489,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 290901,
+      "num": 290901,
+      "word": "关晓彤董思怡徐梦洁直播",
+      "onboard_time": 1662198869,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 290611,
@@ -984,6 +1048,14 @@
       "word": "刘芸听到郑钧穿私服上台的反应",
       "onboard_time": 1662137480,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 285085,
+      "num": 285085,
+      "word": "你好星期六",
+      "onboard_time": 1662200187,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -1075,6 +1147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270214,
+      "num": 270214,
+      "word": "女子喜提四胞胎取名为花好月圆",
+      "onboard_time": 1662200246,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267048,
       "num": 267048,
       "word": "赵露思直播造型",
@@ -1091,12 +1171,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 262751,
+      "num": 241426,
+      "word": "你看懂沉香重华结局了吗",
+      "onboard_time": 1662198027,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 260326,
       "num": 260326,
       "word": "花少节目组眼里的丁程鑫",
       "onboard_time": 1662185726,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 258519,
+      "num": 241377,
+      "word": "胡斐袁紫衣背对背战斗好燃",
+      "onboard_time": 1662200125,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 257997,
@@ -1153,6 +1249,14 @@
       "onboard_time": 1662190227,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241486,
+      "num": 241486,
+      "word": "V5对战LNG",
+      "onboard_time": 1662198087,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 240126,
@@ -1227,6 +1331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 223871,
+      "num": 223871,
+      "word": "目前成都全市通信网络运行平稳",
+      "onboard_time": 1662199945,
+      "rank": 35,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 219548,
       "num": 219548,
       "word": "Uzi厂长同框",
@@ -1243,14 +1355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 211290,
-      "num": 211290,
-      "word": "成都疫情防控指挥部相关负责同志致歉",
-      "onboard_time": 1662196889,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 206964,
       "num": 206964,
       "word": "石宇奇",
@@ -1264,6 +1368,14 @@
       "word": "北京天通苑一小区出现刺猬",
       "onboard_time": 1662123809,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202024,
+      "num": 202024,
+      "word": "18岁的大孩子卡头社死又好笑",
+      "onboard_time": 1662199406,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1331,6 +1443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 181769,
+      "num": 181769,
+      "word": "我贴膏药和王嘉尔贴膏药",
+      "onboard_time": 1662200489,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181346,
       "num": 181346,
       "word": "怎么当了老师还逃不过社死",
@@ -1353,6 +1473,14 @@
       "onboard_time": 1662124170,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 175490,
+      "num": 175490,
+      "word": "小说烂尾的原因找到了",
+      "onboard_time": 1662200067,
+      "rank": 42,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 174391,
@@ -1409,14 +1537,6 @@
       "onboard_time": 1662196528,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 162827,
-      "num": 162827,
-      "word": "男子车流密集闯红灯被撞死亡负全责",
-      "onboard_time": 1662197126,
-      "rank": 38,
-      "category": "社会负面"
     },
     {
       "raw_hot": 156717,
@@ -1585,6 +1705,14 @@
       "onboard_time": 1662154391,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110842,
+      "num": 110842,
+      "word": "LPL",
+      "onboard_time": 1662198687,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 98494,
