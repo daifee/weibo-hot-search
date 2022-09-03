@@ -1,0 +1,410 @@
+{
+  "runTime": 1662214799553,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2609708,
+        "num": 2609708,
+        "word": "刘德华线上演唱会",
+        "onboard_time": 1662212790,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 2479982,
+        "num": 2479982,
+        "word": "婆婆没空伺候儿媳月子送上4斤金条",
+        "onboard_time": 1662211349,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72665,
+        "num": 2380669,
+        "word": "神十四首次出舱任务全回顾",
+        "onboard_time": 1662207448,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2289079,
+        "num": 2289079,
+        "word": "警方介入调查娄底撞人拖行事件",
+        "onboard_time": 1662208166,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1592419,
+        "num": 1592419,
+        "word": "王鹤棣好像中了祟气",
+        "onboard_time": 1662214712,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1345777,
+        "num": 1345777,
+        "word": "Rookie泪目",
+        "onboard_time": 1662210509,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1193905,
+        "num": 1193905,
+        "word": "清融",
+        "onboard_time": 1662208111,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1070135,
+        "num": 1070135,
+        "word": "重庆狼队",
+        "onboard_time": 1662203787,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1539853,
+        "num": 1001651,
+        "word": "巴黎贝甜",
+        "onboard_time": 1662210929,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 654281,
+        "num": 957941,
+        "word": "上海市监局回应巴黎贝甜被罚",
+        "onboard_time": 1662208527,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1089537,
+        "num": 947463,
+        "word": "李好主持",
+        "onboard_time": 1662214110,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 922486,
+        "num": 922486,
+        "word": "范丞丞进密室被吓到连说51个OK",
+        "onboard_time": 1662213091,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 807335,
+        "num": 807335,
+        "word": "林志颖后援会送救命恩人礼物",
+        "onboard_time": 1662202529,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 722534,
+        "num": 722534,
+        "word": "Rookie连续三年无缘世界赛",
+        "onboard_time": 1662213276,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 712846,
+        "num": 712846,
+        "word": "重庆狼队总冠军",
+        "onboard_time": 1662214053,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 639734,
+        "num": 639734,
+        "word": "警方回应女司机酒驾撞人拖行事件",
+        "onboard_time": 1662211230,
+        "rank": 15,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 550470,
+        "num": 550470,
+        "word": "经超回应发腮",
+        "onboard_time": 1662207567,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 519129,
+        "num": 519129,
+        "word": "女子喜提四胞胎取名为花好月圆",
+        "onboard_time": 1662200246,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476365,
+        "num": 476365,
+        "word": "久诚自刀为Fly加油",
+        "onboard_time": 1662209549,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 379584,
+        "num": 475224,
+        "word": "男生军训7天捡4麻袋瓶子送奶奶",
+        "onboard_time": 1662202107,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 474226,
+        "num": 474226,
+        "word": "玉骨遥",
+        "onboard_time": 1662209788,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 451826,
+        "num": 451826,
+        "word": "被HR追问离职可以这样回答",
+        "onboard_time": 1662211708,
+        "rank": 21,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 431832,
+        "num": 431832,
+        "word": "BLACKPINK成员照片遭黑客泄露",
+        "onboard_time": 1662194368,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429904,
+        "num": 429904,
+        "word": "eStar",
+        "onboard_time": 1662205227,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 369159,
+        "num": 369159,
+        "word": "杭州核酸",
+        "onboard_time": 1662210209,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365188,
+        "num": 365188,
+        "word": "成都15岁少年踩风火轮送物资",
+        "onboard_time": 1662210988,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351978,
+        "num": 351978,
+        "word": "覆流年",
+        "onboard_time": 1662203787,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 348611,
+        "num": 348611,
+        "word": "周末一个人能干嘛",
+        "onboard_time": 1662199289,
+        "rank": 27,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 344749,
+        "num": 344749,
+        "word": "小说烂尾的原因找到了",
+        "onboard_time": 1662200067,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 328073,
+        "num": 328073,
+        "word": "官方回应大庆孕妇就医流产事件",
+        "onboard_time": 1662213573,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334314,
+        "num": 325266,
+        "word": "一个韩庚拉快整个开会节奏",
+        "onboard_time": 1662211650,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320294,
+        "num": 320294,
+        "word": "少女时代",
+        "onboard_time": 1662202408,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 312008,
+        "num": 312008,
+        "word": "王一博街舞5黑色棒球服造型",
+        "onboard_time": 1662211771,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283167,
+        "num": 283167,
+        "word": "Deft晋级世界赛",
+        "onboard_time": 1662209549,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 271119,
+        "num": 271119,
+        "word": "杭州常态化核酸频次从7天调整为72小时",
+        "onboard_time": 1662213032,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257055,
+        "num": 257055,
+        "word": "rich状态",
+        "onboard_time": 1662208111,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 254257,
+        "num": 254257,
+        "word": "你好星期六",
+        "onboard_time": 1662200187,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253078,
+        "num": 253078,
+        "word": "沈阳疫情防控",
+        "onboard_time": 1662208770,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247275,
+        "num": 247275,
+        "word": "利物浦",
+        "onboard_time": 1662213633,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239420,
+        "num": 239420,
+        "word": "中俄海军舰艇炮击演练",
+        "onboard_time": 1662207509,
+        "rank": 39,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 238877,
+        "num": 238877,
+        "word": "刘宇宁一念关山黑衣造型",
+        "onboard_time": 1662211109,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 235398,
+        "num": 235398,
+        "word": "LNG战胜V5",
+        "onboard_time": 1662212431,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 229312,
+        "num": 229312,
+        "word": "国家启动海洋灾害Ⅱ级应急响应",
+        "onboard_time": 1662207808,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224165,
+        "num": 224165,
+        "word": "许光汉翻唱Beautiful",
+        "onboard_time": 1662209729,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 215222,
+        "num": 215222,
+        "word": "eStar状态回来了",
+        "onboard_time": 1662213753,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 214149,
+        "num": 214149,
+        "word": "百米长龙抢购网红月饼或成历史",
+        "onboard_time": 1662214233,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209783,
+        "num": 209783,
+        "word": "成都疫情防控指挥部相关负责同志致歉",
+        "onboard_time": 1662196889,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206284,
+        "num": 206284,
+        "word": "18岁的大孩子卡头社死又好笑",
+        "onboard_time": 1662199406,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189800,
+        "num": 189800,
+        "word": "你好星期六全员演我吃瓜",
+        "onboard_time": 1662214775,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165937,
+        "num": 165937,
+        "word": "男子多次尾随女子回家偷配钥匙开门",
+        "onboard_time": 1662198387,
+        "rank": 49,
+        "category": "社会负面"
+      }
+    ],
+    "hotgov": {
+      "word": "#功勋闪耀新时代#"
+    }
+  }
+}
