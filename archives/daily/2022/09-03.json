@@ -1,6 +1,6 @@
 {
   "startTime": 1662136351891,
-  "endTime": 1662200646583,
+  "endTime": 1662201625688,
   "band_list": [
     {
       "raw_hot": 2900821,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 1378169,
-      "num": 444143,
+      "num": 477461,
       "word": "王一博三年间为乐华带来10.83亿收入",
       "onboard_time": 1662198926,
       "rank": 11,
@@ -219,6 +219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1095817,
+      "num": 1095817,
+      "word": "Light身体不适",
+      "onboard_time": 1662197968,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1070086,
       "num": 1070086,
       "word": "2398元礼盒里没有月饼",
@@ -281,14 +289,6 @@
       "onboard_time": 1662186266,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 916082,
-      "num": 916082,
-      "word": "Light身体不适",
-      "onboard_time": 1662197968,
-      "rank": 3,
-      "category": "游戏"
     },
     {
       "raw_hot": 895950,
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 702413,
-      "num": 313381,
+      "num": 362160,
       "word": "还以为蔡徐坤镶了牙",
       "onboard_time": 1662197608,
       "rank": 20,
@@ -451,12 +451,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 652647,
+      "num": 652647,
+      "word": "男子多次尾随女子回家偷配钥匙开门",
+      "onboard_time": 1662198387,
+      "rank": 13,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 607086,
       "num": 607086,
       "word": "妈妈打开电视发现看啥都要VIP",
       "onboard_time": 1662137065,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 606452,
+      "num": 606452,
+      "word": "网传张彬彬将补拍青簪行",
+      "onboard_time": 1662201507,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 595206,
@@ -481,6 +497,14 @@
       "onboard_time": 1662165865,
       "rank": 13,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 592188,
+      "num": 592188,
+      "word": "目前成都全市通信网络运行平稳",
+      "onboard_time": 1662199945,
+      "rank": 35,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 571494,
@@ -611,6 +635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 471359,
+      "num": 471359,
+      "word": "周末一个人能干嘛",
+      "onboard_time": 1662199289,
+      "rank": 21,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 466788,
       "num": 466788,
       "word": "古偶大婚名场面",
@@ -683,14 +715,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 436062,
-      "num": 436062,
-      "word": "男子多次尾随女子回家偷配钥匙开门",
-      "onboard_time": 1662198387,
-      "rank": 13,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 434358,
       "num": 364318,
       "word": "胆小鬼",
@@ -712,6 +736,30 @@
       "word": "山西朔州右玉县3.8级地震",
       "onboard_time": 1662174146,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 410088,
+      "num": 410088,
+      "word": "小说烂尾的原因找到了",
+      "onboard_time": 1662200067,
+      "rank": 42,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 405502,
+      "num": 405502,
+      "word": "女子喜提四胞胎取名为花好月圆",
+      "onboard_time": 1662200246,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 400410,
+      "num": 400410,
+      "word": "成都疫情防控指挥部相关负责同志致歉",
+      "onboard_time": 1662196889,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -737,14 +785,6 @@
       "onboard_time": 1662193768,
       "rank": 40,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 387553,
-      "num": 387553,
-      "word": "成都疫情防控指挥部相关负责同志致歉",
-      "onboard_time": 1662196889,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 383646,
@@ -907,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 316690,
+      "num": 316690,
+      "word": "男子车流密集闯红灯被撞死亡负全责",
+      "onboard_time": 1662197126,
+      "rank": 38,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 316639,
       "num": 316639,
       "word": "苍兰夫妇亲头发花絮",
@@ -923,28 +971,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 313563,
-      "num": 313563,
-      "word": "男子车流密集闯红灯被撞死亡负全责",
-      "onboard_time": 1662197126,
-      "rank": 38,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 311387,
       "num": 311387,
       "word": "9月2日新增本土确诊440例",
       "onboard_time": 1662170605,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 310090,
-      "num": 310090,
-      "word": "周末一个人能干嘛",
-      "onboard_time": 1662199289,
-      "rank": 21,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 309996,
@@ -1147,12 +1179,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 270214,
-      "num": 270214,
-      "word": "女子喜提四胞胎取名为花好月圆",
-      "onboard_time": 1662200246,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 268222,
+      "num": 268222,
+      "word": "KPL夏决我来聊",
+      "onboard_time": 1662200968,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 267048,
@@ -1227,6 +1259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 249387,
+      "num": 249387,
+      "word": "18岁的大孩子卡头社死又好笑",
+      "onboard_time": 1662199406,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249075,
       "num": 249075,
       "word": "北京疫情发布会",
@@ -1273,6 +1313,14 @@
       "onboard_time": 1662194846,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 235029,
+      "num": 235029,
+      "word": "飞狐外传",
+      "onboard_time": 1662201207,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 232478,
@@ -1331,14 +1379,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 223871,
-      "num": 223871,
-      "word": "目前成都全市通信网络运行平稳",
-      "onboard_time": 1662199945,
-      "rank": 35,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 219548,
       "num": 219548,
       "word": "Uzi厂长同框",
@@ -1371,11 +1411,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 202024,
-      "num": 202024,
-      "word": "18岁的大孩子卡头社死又好笑",
-      "onboard_time": 1662199406,
-      "rank": 38,
+      "raw_hot": 202562,
+      "num": 202562,
+      "word": "深圳新增33例阳性病例",
+      "onboard_time": 1662200907,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1401,6 +1441,14 @@
       "onboard_time": 1662168807,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 196657,
+      "num": 196657,
+      "word": "杨幂的嘴没人赢过",
+      "onboard_time": 1662201207,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 193413,
@@ -1475,12 +1523,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 175490,
-      "num": 175490,
-      "word": "小说烂尾的原因找到了",
-      "onboard_time": 1662200067,
+      "raw_hot": 176318,
+      "num": 176318,
+      "word": "河南新增本土确诊13例无症状40例",
+      "onboard_time": 1662200907,
       "rank": 42,
-      "category": "幽默,情感"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174391,
@@ -1585,6 +1633,14 @@
       "onboard_time": 1662126509,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 143191,
+      "num": 143191,
+      "word": "戈尔巴乔夫葬礼",
+      "onboard_time": 1662201446,
+      "rank": 48,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 140257,

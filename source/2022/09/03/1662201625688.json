@@ -1,0 +1,410 @@
+{
+  "runTime": 1662201625688,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1383359,
+        "num": 1383359,
+        "word": "东航一航班因旅客吐血紧急备降",
+        "onboard_time": 1662189505,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1095817,
+        "num": 1095817,
+        "word": "Light身体不适",
+        "onboard_time": 1662197968,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 14038,
+        "num": 998983,
+        "word": "打卡2022服贸会",
+        "onboard_time": 1662121408,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 915214,
+        "num": 915214,
+        "word": "阿根廷不明原因肺炎增至10例",
+        "onboard_time": 1662193290,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 652647,
+        "num": 652647,
+        "word": "男子多次尾随女子回家偷配钥匙开门",
+        "onboard_time": 1662198387,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 613117,
+        "num": 613117,
+        "word": "产妇凌晨在家晕倒呼吸停止",
+        "onboard_time": 1662186087,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606452,
+        "num": 606452,
+        "word": "网传张彬彬将补拍青簪行",
+        "onboard_time": 1662201507,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 592188,
+        "num": 592188,
+        "word": "目前成都全市通信网络运行平稳",
+        "onboard_time": 1662199945,
+        "rank": 7,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 590286,
+        "num": 590286,
+        "word": "特朗普庄园搜出18份最高机密文件",
+        "onboard_time": 1662190586,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 480739,
+        "num": 480739,
+        "word": "东软",
+        "onboard_time": 1662131249,
+        "rank": 9,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 1436311,
+        "num": 477559,
+        "word": "BLACKPINK成员照片遭黑客泄露",
+        "onboard_time": 1662194368,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1310539,
+        "num": 477461,
+        "word": "王一博三年间为乐华带来10.83亿收入",
+        "onboard_time": 1662198926,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 641277,
+        "num": 475497,
+        "word": "江西抚州发生命案已致一人死亡",
+        "onboard_time": 1662191608,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471359,
+        "num": 471359,
+        "word": "周末一个人能干嘛",
+        "onboard_time": 1662199289,
+        "rank": 13,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 410088,
+        "num": 410088,
+        "word": "小说烂尾的原因找到了",
+        "onboard_time": 1662200067,
+        "rank": 14,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 405502,
+        "num": 405502,
+        "word": "女子喜提四胞胎取名为花好月圆",
+        "onboard_time": 1662200246,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400410,
+        "num": 400410,
+        "word": "成都疫情防控指挥部相关负责同志致歉",
+        "onboard_time": 1662196889,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391515,
+        "num": 391515,
+        "word": "古偶大婚名场面",
+        "onboard_time": 1662195328,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 366275,
+        "num": 366275,
+        "word": "虞书欣苍兰诀大结局配音vlog",
+        "onboard_time": 1662198146,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 365553,
+        "num": 365553,
+        "word": "王鹤棣叫李一桐丈母娘",
+        "onboard_time": 1662190286,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 681586,
+        "num": 362160,
+        "word": "还以为蔡徐坤镶了牙",
+        "onboard_time": 1662197608,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 356019,
+        "num": 356019,
+        "word": "财务管理",
+        "onboard_time": 1662194007,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 316690,
+        "num": 316690,
+        "word": "男子车流密集闯红灯被撞死亡负全责",
+        "onboard_time": 1662197126,
+        "rank": 22,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 310556,
+        "num": 310556,
+        "word": "重庆公积金最高可贷120万元",
+        "onboard_time": 1662194548,
+        "rank": 23,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 299472,
+        "num": 299472,
+        "word": "印度成为第五大经济体",
+        "onboard_time": 1662188490,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268222,
+        "num": 268222,
+        "word": "KPL夏决我来聊",
+        "onboard_time": 1662200968,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 250796,
+        "num": 250796,
+        "word": "你好星期六",
+        "onboard_time": 1662200187,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249387,
+        "num": 249387,
+        "word": "18岁的大孩子卡头社死又好笑",
+        "onboard_time": 1662199406,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246690,
+        "num": 246690,
+        "word": "东软回应成都核酸系统异常",
+        "onboard_time": 1662191608,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245066,
+        "num": 245066,
+        "word": "女生保健品当饭吃致子宫长满肌瘤",
+        "onboard_time": 1662187767,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237954,
+        "num": 237954,
+        "word": "杨紫颜淡九宫格剧照",
+        "onboard_time": 1662197608,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235813,
+        "num": 235813,
+        "word": "刘德华说任贤齐是世界第一等",
+        "onboard_time": 1662195627,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235571,
+        "num": 235571,
+        "word": "小男孩狂补作业笔都快写飞了",
+        "onboard_time": 1662195569,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235047,
+        "num": 235047,
+        "word": "招行平均月薪下降仍有5.5万元",
+        "onboard_time": 1662186565,
+        "rank": 33,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 235029,
+        "num": 235029,
+        "word": "飞狐外传",
+        "onboard_time": 1662201207,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229739,
+        "num": 229739,
+        "word": "关晓彤董思怡徐梦洁直播",
+        "onboard_time": 1662198869,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214037,
+        "num": 214037,
+        "word": "你看懂沉香重华结局了吗",
+        "onboard_time": 1662198027,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209167,
+        "num": 209167,
+        "word": "杭州一医院7天接240名开学焦虑娃",
+        "onboard_time": 1662183688,
+        "rank": 37,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 205421,
+        "num": 205421,
+        "word": "V5对战LNG",
+        "onboard_time": 1662198087,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 202562,
+        "num": 202562,
+        "word": "深圳新增33例阳性病例",
+        "onboard_time": 1662200907,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196657,
+        "num": 196657,
+        "word": "杨幂的嘴没人赢过",
+        "onboard_time": 1662201207,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180069,
+        "num": 180069,
+        "word": "山东一小学迎来13对双胞胎",
+        "onboard_time": 1662193768,
+        "rank": 41,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 176318,
+        "num": 176318,
+        "word": "河南新增本土确诊13例无症状40例",
+        "onboard_time": 1662200907,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175445,
+        "num": 175445,
+        "word": "我贴膏药和王嘉尔贴膏药",
+        "onboard_time": 1662200489,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161662,
+        "num": 161662,
+        "word": "2398元礼盒里没有月饼",
+        "onboard_time": 1662183145,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159388,
+        "num": 159388,
+        "word": "北京疫情发布会",
+        "onboard_time": 1662196105,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155756,
+        "num": 155756,
+        "word": "艾热王以太婚庆歌手接单了",
+        "onboard_time": 1662194489,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154137,
+        "num": 154137,
+        "word": "成都女子3套房放11台冰箱囤货",
+        "onboard_time": 1662174505,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143191,
+        "num": 143191,
+        "word": "戈尔巴乔夫葬礼",
+        "onboard_time": 1662201446,
+        "rank": 48,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 141339,
+        "num": 141339,
+        "word": "小学生坐公交写1元欠条",
+        "onboard_time": 1662188184,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#直击2022年服贸会#"
+    }
+  }
+}
