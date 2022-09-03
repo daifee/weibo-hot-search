@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662233615001,
+  "endTime": 1662236554242,
   "band_list": [
     {
       "raw_hot": 6261105,
@@ -7283,6 +7283,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 33741,
+      "num": 33741,
+      "word": "3个动作有效缓解眼部疲劳",
+      "onboard_time": 1662232332,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27800,
       "num": 553073,
       "word": "如何看待餐饮界的巴奴现象",
@@ -7313,14 +7321,6 @@
       "onboard_time": 1662147550,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 17150,
-      "num": 17150,
-      "word": "3个动作有效缓解眼部疲劳",
-      "onboard_time": 1662232332,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 14785,
