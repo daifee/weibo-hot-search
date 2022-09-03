@@ -1,6 +1,6 @@
 {
   "startTime": 1662136351891,
-  "endTime": 1662214799553,
+  "endTime": 1662215788407,
   "band_list": [
     {
       "raw_hot": 2949797,
@@ -43,6 +43,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 2584075,
+      "num": 2584075,
+      "word": "婆婆没空伺候儿媳月子送上4斤金条",
+      "onboard_time": 1662211349,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2490648,
       "num": 2490648,
       "word": "老人做核酸不愿插队众人谎称按年龄",
@@ -57,14 +65,6 @@
       "onboard_time": 1662189263,
       "rank": 0,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 2479982,
-      "num": 2479982,
-      "word": "婆婆没空伺候儿媳月子送上4斤金条",
-      "onboard_time": 1662211349,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2426678,
@@ -89,6 +89,14 @@
       "onboard_time": 1662185246,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2211390,
+      "num": 2211390,
+      "word": "王鹤棣好像中了祟气",
+      "onboard_time": 1662214712,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 2149536,
@@ -131,20 +139,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1692468,
+      "num": 947463,
+      "word": "李好主持",
+      "onboard_time": 1662214110,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1613934,
       "num": 1613934,
       "word": "林志颖后援会送救命恩人礼物",
       "onboard_time": 1662202529,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1592419,
-      "num": 1592419,
-      "word": "王鹤棣好像中了祟气",
-      "onboard_time": 1662214712,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 1541088,
@@ -299,6 +307,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1161602,
+      "num": 1161602,
+      "word": "重庆狼队",
+      "onboard_time": 1662203787,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1122406,
       "num": 1122406,
       "word": "再爱就不礼貌了",
@@ -328,22 +344,6 @@
       "word": "Light身体不适",
       "onboard_time": 1662197968,
       "rank": 3,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 1089537,
-      "num": 947463,
-      "word": "李好主持",
-      "onboard_time": 1662214110,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1070135,
-      "num": 1070135,
-      "word": "重庆狼队",
-      "onboard_time": 1662203787,
-      "rank": 32,
       "category": "游戏"
     },
     {
@@ -523,6 +523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 821085,
+      "num": 821085,
+      "word": "Rookie连续三年无缘世界赛",
+      "onboard_time": 1662213276,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 784099,
       "num": 495605,
       "word": "赵露思直播",
@@ -539,20 +547,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 741913,
+      "num": 754072,
+      "word": "官方回应大庆孕妇就医流产事件",
+      "onboard_time": 1662213573,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 725908,
+      "num": 725908,
+      "word": "警方回应女司机酒驾撞人拖行事件",
+      "onboard_time": 1662211230,
+      "rank": 35,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 722810,
       "num": 722810,
       "word": "你好星期六全员送开学寄语",
       "onboard_time": 1662174745,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 722534,
-      "num": 722534,
-      "word": "Rookie连续三年无缘世界赛",
-      "onboard_time": 1662213276,
-      "rank": 13,
-      "category": "游戏"
     },
     {
       "raw_hot": 716883,
@@ -667,14 +683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 639734,
-      "num": 639734,
-      "word": "警方回应女司机酒驾撞人拖行事件",
-      "onboard_time": 1662211230,
-      "rank": 35,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 607086,
       "num": 607086,
       "word": "妈妈打开电视发现看啥都要VIP",
@@ -787,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 547601,
+      "num": 547601,
+      "word": "被HR追问离职可以这样回答",
+      "onboard_time": 1662211708,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 542320,
       "num": 542320,
       "word": "拖行",
@@ -825,6 +841,14 @@
       "onboard_time": 1662194007,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 494876,
+      "num": 494876,
+      "word": "刘浩存传媒荣誉之夜生图",
+      "onboard_time": 1662215013,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 489351,
@@ -915,20 +939,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 455854,
+      "num": 455854,
+      "word": "小胖总决赛MVP",
+      "onboard_time": 1662214953,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 453476,
       "num": 453476,
       "word": "沉香如屑番外",
       "onboard_time": 1662131009,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 451826,
-      "num": 451826,
-      "word": "被HR追问离职可以这样回答",
-      "onboard_time": 1662211708,
-      "rank": 49,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 450223,
@@ -1235,6 +1259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 334740,
+      "num": 334740,
+      "word": "杭州常态化核酸频次从7天调整为72小时",
+      "onboard_time": 1662213032,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 334314,
       "num": 325266,
       "word": "一个韩庚拉快整个开会节奏",
@@ -1273,14 +1305,6 @@
       "onboard_time": 1662174505,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 328073,
-      "num": 328073,
-      "word": "官方回应大庆孕妇就医流产事件",
-      "onboard_time": 1662213573,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 326040,
@@ -1323,12 +1347,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 316308,
+      "num": 316308,
+      "word": "贾玲",
+      "onboard_time": 1662215433,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 313739,
       "num": 313739,
       "word": "美网",
       "onboard_time": 1662165865,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 312301,
+      "num": 312301,
+      "word": "敖子逸荣梓杉傅菁魏允熙青春同框",
+      "onboard_time": 1662214834,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 311387,
@@ -1619,14 +1659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 271119,
-      "num": 271119,
-      "word": "杭州常态化核酸频次从7天调整为72小时",
-      "onboard_time": 1662213032,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 268222,
       "num": 268222,
       "word": "KPL夏决我来聊",
@@ -1883,6 +1915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209589,
+      "num": 209589,
+      "word": "Gemini线下直播总决赛",
+      "onboard_time": 1662215433,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 207654,
       "num": 207654,
       "word": "王者荣耀",
@@ -2099,6 +2139,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 157236,
+      "num": 157236,
+      "word": "成都人个个都是时间管理高手",
+      "onboard_time": 1662215613,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156717,
       "num": 156717,
       "word": "尚雯婕花木兰扮相",
@@ -2137,6 +2185,14 @@
       "onboard_time": 1662128311,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147112,
+      "num": 147112,
+      "word": "2022LPL全球总决赛资格赛",
+      "onboard_time": 1662215734,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 144812,
