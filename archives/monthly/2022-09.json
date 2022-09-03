@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662230606869,
+  "endTime": 1662232723184,
   "band_list": [
     {
       "raw_hot": 6261105,
@@ -6251,6 +6251,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 176059,
+      "num": 176059,
+      "word": "真的好想回到疫情前",
+      "onboard_time": 1662226458,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 175164,
       "num": 175164,
       "word": "黄景瑜打戏自带柔术外挂",
@@ -6931,14 +6939,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 119188,
-      "num": 119188,
-      "word": "真的好想回到疫情前",
-      "onboard_time": 1662226458,
-      "rank": 13,
-      "category": "情感"
-    },
-    {
       "raw_hot": 119119,
       "num": 119119,
       "word": "JDG拿到赛点",
@@ -7001,6 +7001,14 @@
       "onboard_time": 1662198687,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 110507,
+      "num": 110507,
+      "word": "男生摘眼镜视力听力一起下降",
+      "onboard_time": 1662229035,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108288,
@@ -7219,14 +7227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 71921,
-      "num": 71921,
-      "word": "男生摘眼镜视力听力一起下降",
-      "onboard_time": 1662229035,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 67728,
       "num": 67728,
       "word": "有理有据的单身原因",
@@ -7313,6 +7313,14 @@
       "onboard_time": 1662147550,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 15243,
+      "num": 15243,
+      "word": "3个动作有效缓解眼部疲劳",
+      "onboard_time": 1662232332,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14785,
