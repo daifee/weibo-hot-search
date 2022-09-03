@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662172150016,
+  "endTime": 1662174217103,
   "band_list": [
     {
       "raw_hot": 6261105,
@@ -89,6 +89,14 @@
       "onboard_time": 1662103346,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2416374,
+      "num": 2416374,
+      "word": "审美降级",
+      "onboard_time": 1662171142,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 2394767,
@@ -395,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1464771,
+      "num": 1464771,
+      "word": "司机礼让校车遭后方多车鸣笛超行",
+      "onboard_time": 1662170546,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1463605,
       "num": 278758,
       "word": "热带雨林",
@@ -457,6 +473,14 @@
       "onboard_time": 1662052395,
       "rank": 30,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1306777,
+      "num": 1106117,
+      "word": "Karry王 Carry王",
+      "onboard_time": 1662169466,
+      "rank": 8,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 1277076,
@@ -587,6 +611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1122406,
+      "num": 1122406,
+      "word": "再爱就不礼貌了",
+      "onboard_time": 1662168267,
+      "rank": 3,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1115775,
       "num": 1115775,
       "word": "长春市传染病医院发现5例阳性",
@@ -625,14 +657,6 @@
       "onboard_time": 1662087085,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1060758,
-      "num": 1060758,
-      "word": "再爱就不礼貌了",
-      "onboard_time": 1662168267,
-      "rank": 3,
-      "category": "幽默"
     },
     {
       "raw_hot": 1054796,
@@ -681,6 +705,14 @@
       "onboard_time": 1662083845,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1026119,
+      "num": 1026119,
+      "word": "中国军队国际形象网宣片发布",
+      "onboard_time": 1662169165,
+      "rank": 12,
+      "category": "军事"
     },
     {
       "raw_hot": 1019774,
@@ -1051,14 +1083,6 @@
       "category": "情感,教育"
     },
     {
-      "raw_hot": 802876,
-      "num": 802876,
-      "word": "Karry王 Carry王",
-      "onboard_time": 1662169466,
-      "rank": 8,
-      "category": "游戏,艺人"
-    },
-    {
       "raw_hot": 802795,
       "num": 278241,
       "word": "王鹤棣机车造型",
@@ -1163,14 +1187,6 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 758253,
-      "num": 710771,
-      "word": "审美降级",
-      "onboard_time": 1662171142,
-      "rank": 10,
-      "category": "影视"
-    },
-    {
       "raw_hot": 756869,
       "num": 756869,
       "word": "姜小果承认喜欢齐颂",
@@ -1251,11 +1267,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 700254,
+      "num": 700254,
+      "word": "四川新增本土确诊128例无症状74例",
+      "onboard_time": 1662171924,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 696839,
       "num": 696839,
       "word": "深圳一公司要求加班不满30小时捐300",
       "onboard_time": 1662161960,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 690125,
+      "num": 690125,
+      "word": "四川致社会各界的一封信",
+      "onboard_time": 1662172045,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1305,14 +1337,6 @@
       "onboard_time": 1662008255,
       "rank": 13,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 661936,
-      "num": 661936,
-      "word": "中国军队国际形象网宣片发布",
-      "onboard_time": 1662169165,
-      "rank": 12,
-      "category": "军事"
     },
     {
       "raw_hot": 657511,
@@ -1619,14 +1643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 559741,
-      "num": 559741,
-      "word": "司机礼让校车遭后方多车鸣笛超行",
-      "onboard_time": 1662170546,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 559597,
       "num": 559597,
       "word": "向前冲抢冰箱的人又增加了",
@@ -1769,6 +1785,14 @@
       "onboard_time": 1661954612,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 518649,
+      "num": 518649,
+      "word": "小威",
+      "onboard_time": 1662171924,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 511107,
@@ -2219,6 +2243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 417443,
+      "num": 417443,
+      "word": "山西朔州右玉县3.8级地震",
+      "onboard_time": 1662174146,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 415357,
       "num": 415357,
       "word": "沉香如屑优酷首个灯塔破百万剧集",
@@ -2449,6 +2481,14 @@
       "onboard_time": 1662023007,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 383646,
+      "num": 383646,
+      "word": "西安疫情防控",
+      "onboard_time": 1661999784,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 382552,
@@ -2819,6 +2859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 335177,
+      "num": 335177,
+      "word": "吴易昺",
+      "onboard_time": 1661989883,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 334968,
       "num": 334968,
       "word": "主播应聘被要求对口型卖产品",
@@ -3139,6 +3187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300513,
+      "num": 300513,
+      "word": "以为失传的跳皮筋小朋友学会了",
+      "onboard_time": 1662171506,
+      "rank": 44,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 299630,
       "num": 299630,
       "word": "美方做法是典型科技霸权主义",
@@ -3217,6 +3273,14 @@
       "onboard_time": 1662118828,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 293816,
+      "num": 293816,
+      "word": "长沙2米巨型稻将进入成熟期",
+      "onboard_time": 1662172704,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 293561,
@@ -3379,14 +3443,6 @@
       "category": "作品衍生,科技"
     },
     {
-      "raw_hot": 281679,
-      "num": 281679,
-      "word": "西安疫情防控",
-      "onboard_time": 1661999784,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 281462,
       "num": 281462,
       "word": "台风",
@@ -3441,6 +3497,14 @@
       "onboard_time": 1662091348,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 276322,
+      "num": 276322,
+      "word": "林峯看吴卓羲仁科握手的眼神",
+      "onboard_time": 1662171746,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 275814,
@@ -3763,6 +3827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 247825,
+      "num": 247825,
+      "word": "最不想弟弟开学的是姐姐",
+      "onboard_time": 1662173425,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 246539,
       "num": 190335,
       "word": "两个人的小森林最新双人海报",
@@ -3955,6 +4027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 227376,
+      "num": 227376,
+      "word": "深圳新增87例阳性病例",
+      "onboard_time": 1662173003,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227218,
       "num": 227218,
       "word": "神十四2名航天员已成功出舱",
@@ -3995,20 +4075,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 224837,
+      "num": 224837,
+      "word": "欧豪胆小鬼16集眼神变化",
+      "onboard_time": 1662171205,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 224713,
       "num": 224713,
       "word": "河南增本土确诊1例无症状59例",
       "onboard_time": 1661996426,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 223742,
-      "num": 223742,
-      "word": "吴易昺",
-      "onboard_time": 1661989883,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 223599,
@@ -4097,14 +4177,6 @@
       "onboard_time": 1662120988,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 216163,
-      "num": 216163,
-      "word": "林峯看吴卓羲仁科握手的眼神",
-      "onboard_time": 1662171746,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 215665,
@@ -4507,14 +4579,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 186005,
-      "num": 186005,
-      "word": "小威",
-      "onboard_time": 1662171924,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 185405,
       "num": 169972,
       "word": "赵露思分享庆功宴合照四宫格",
@@ -4683,28 +4747,12 @@
       "category": "艺人,美食"
     },
     {
-      "raw_hot": 171012,
-      "num": 171012,
-      "word": "四川新增本土确诊128例无症状74例",
-      "onboard_time": 1662171924,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169609,
       "num": 169609,
       "word": "南昌疫情防控",
       "onboard_time": 1662161706,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 168460,
-      "num": 168460,
-      "word": "以为失传的跳皮筋小朋友学会了",
-      "onboard_time": 1662171506,
-      "rank": 44,
-      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 168119,
@@ -4761,14 +4809,6 @@
       "onboard_time": 1661953592,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 162251,
-      "num": 162251,
-      "word": "欧豪胆小鬼16集眼神变化",
-      "onboard_time": 1662171205,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 161916,
@@ -4832,14 +4872,6 @@
       "word": "人事回应不聘用手机号倒数第五位是5的人",
       "onboard_time": 1661954550,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 160094,
-      "num": 160094,
-      "word": "四川致社会各界的一封信",
-      "onboard_time": 1662172045,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -5051,12 +5083,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 139828,
+      "num": 139828,
+      "word": "小威无缘美网16强",
+      "onboard_time": 1662173665,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138812,
       "num": 138812,
       "word": "Yagao获得FMVP",
       "onboard_time": 1662043893,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 138790,
+      "num": 138790,
+      "word": "1945年民众得知日本投降后冲上街欢呼",
+      "onboard_time": 1662174207,
+      "rank": 49,
+      "category": "军事"
     },
     {
       "raw_hot": 137993,
@@ -5547,6 +5595,9 @@
     },
     {
       "word": "#跟着总书记看中国#"
+    },
+    {
+      "word": "#功勋闪耀新时代#"
     }
   ]
 }

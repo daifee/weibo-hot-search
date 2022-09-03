@@ -1,6 +1,6 @@
 {
   "startTime": 1662136351891,
-  "endTime": 1662172150016,
+  "endTime": 1662174217103,
   "band_list": [
     {
       "raw_hot": 2585830,
@@ -9,6 +9,14 @@
       "onboard_time": 1662132569,
       "rank": 0,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 2416374,
+      "num": 2416374,
+      "word": "审美降级",
+      "onboard_time": 1662171142,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 1946385,
@@ -27,12 +35,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1464771,
+      "num": 1464771,
+      "word": "司机礼让校车遭后方多车鸣笛超行",
+      "onboard_time": 1662170546,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1343092,
       "num": 1343092,
       "word": "4岁男孩17楼坠落奇迹生还",
       "onboard_time": 1662165145,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1306777,
+      "num": 1106117,
+      "word": "Karry王 Carry王",
+      "onboard_time": 1662169466,
+      "rank": 8,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 1244647,
@@ -59,6 +83,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1122406,
+      "num": 1122406,
+      "word": "再爱就不礼貌了",
+      "onboard_time": 1662168267,
+      "rank": 3,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1098236,
       "num": 1098236,
       "word": "沉香重华be",
@@ -67,12 +99,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1060758,
-      "num": 1060758,
-      "word": "再爱就不礼貌了",
-      "onboard_time": 1662168267,
-      "rank": 3,
-      "category": "幽默"
+      "raw_hot": 1026119,
+      "num": 1026119,
+      "word": "中国军队国际形象网宣片发布",
+      "onboard_time": 1662169165,
+      "rank": 12,
+      "category": "军事"
     },
     {
       "raw_hot": 947290,
@@ -115,28 +147,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 802876,
-      "num": 802876,
-      "word": "Karry王 Carry王",
-      "onboard_time": 1662169466,
-      "rank": 8,
-      "category": "游戏,艺人"
-    },
-    {
       "raw_hot": 784099,
       "num": 495605,
       "word": "赵露思直播",
       "onboard_time": 1662133229,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 758253,
-      "num": 710771,
-      "word": "审美降级",
-      "onboard_time": 1662171142,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 716883,
@@ -147,11 +163,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 700254,
+      "num": 700254,
+      "word": "四川新增本土确诊128例无症状74例",
+      "onboard_time": 1662171924,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 696839,
       "num": 696839,
       "word": "深圳一公司要求加班不满30小时捐300",
       "onboard_time": 1662161960,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 690125,
+      "num": 690125,
+      "word": "四川致社会各界的一封信",
+      "onboard_time": 1662172045,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -169,14 +201,6 @@
       "onboard_time": 1662124707,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 661936,
-      "num": 661936,
-      "word": "中国军队国际形象网宣片发布",
-      "onboard_time": 1662169165,
-      "rank": 12,
-      "category": "军事"
     },
     {
       "raw_hot": 607086,
@@ -211,20 +235,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 559741,
-      "num": 559741,
-      "word": "司机礼让校车遭后方多车鸣笛超行",
-      "onboard_time": 1662170546,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 548372,
       "num": 548372,
       "word": "海大教师不配合核酸威胁他人被撤教师资格",
       "onboard_time": 1662133588,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 518649,
+      "num": 518649,
+      "word": "小威",
+      "onboard_time": 1662171924,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 488084,
@@ -288,6 +312,22 @@
       "word": "大学生暑假送外卖赚1万7妈妈发声",
       "onboard_time": 1662125788,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 417443,
+      "num": 417443,
+      "word": "山西朔州右玉县3.8级地震",
+      "onboard_time": 1662174146,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 383646,
+      "num": 383646,
+      "word": "西安疫情防控",
+      "onboard_time": 1662172400,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -355,6 +395,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 335177,
+      "num": 335177,
+      "word": "吴易昺",
+      "onboard_time": 1662172764,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 326040,
       "num": 278445,
       "word": "乘客衣着暴露在地铁上劈叉摆拍",
@@ -376,6 +424,22 @@
       "word": "9月2日新增本土确诊440例",
       "onboard_time": 1662170605,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300513,
+      "num": 300513,
+      "word": "以为失传的跳皮筋小朋友学会了",
+      "onboard_time": 1662171506,
+      "rank": 44,
+      "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 293816,
+      "num": 293816,
+      "word": "长沙2米巨型稻将进入成熟期",
+      "onboard_time": 1662172704,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -411,6 +475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 276322,
+      "num": 276322,
+      "word": "林峯看吴卓羲仁科握手的眼神",
+      "onboard_time": 1662171746,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 275509,
       "num": 275509,
       "word": "教练你怎么不喝茶啊",
@@ -419,20 +491,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 272849,
+      "num": 272849,
+      "word": "玉骨遥",
+      "onboard_time": 1662161599,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 272531,
       "num": 272531,
       "word": "白发老人穿衬衫西裤削土豆火了",
       "onboard_time": 1662132330,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 263676,
-      "num": 263676,
-      "word": "玉骨遥",
-      "onboard_time": 1662161599,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 257010,
@@ -457,6 +529,14 @@
       "onboard_time": 1662115768,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 247825,
+      "num": 247825,
+      "word": "最不想弟弟开学的是姐姐",
+      "onboard_time": 1662173425,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 246299,
@@ -515,6 +595,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 227376,
+      "num": 227376,
+      "word": "深圳新增87例阳性病例",
+      "onboard_time": 1662173003,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224837,
+      "num": 224837,
+      "word": "欧豪胆小鬼16集眼神变化",
+      "onboard_time": 1662171205,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 219548,
       "num": 219548,
       "word": "Uzi厂长同框",
@@ -529,14 +625,6 @@
       "onboard_time": 1662122125,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 216163,
-      "num": 216163,
-      "word": "林峯看吴卓羲仁科握手的眼神",
-      "onboard_time": 1662171746,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 203965,
@@ -579,14 +667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 186005,
-      "num": 186005,
-      "word": "小威",
-      "onboard_time": 1662171924,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 181346,
       "num": 181346,
       "word": "怎么当了老师还逃不过社死",
@@ -619,14 +699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 171012,
-      "num": 171012,
-      "word": "四川新增本土确诊128例无症状74例",
-      "onboard_time": 1662171924,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169609,
       "num": 169609,
       "word": "南昌疫情防控",
@@ -635,36 +707,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 168460,
-      "num": 168460,
-      "word": "以为失传的跳皮筋小朋友学会了",
-      "onboard_time": 1662171506,
-      "rank": 44,
-      "category": "幽默,社会新闻"
-    },
-    {
       "raw_hot": 163729,
       "num": 163729,
       "word": "小羊肖恩杯子",
       "onboard_time": 1662130232,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 162251,
-      "num": 162251,
-      "word": "欧豪胆小鬼16集眼神变化",
-      "onboard_time": 1662171205,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 160094,
-      "num": 160094,
-      "word": "四川致社会各界的一封信",
-      "onboard_time": 1662172045,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156578,
@@ -705,6 +753,22 @@
       "onboard_time": 1662126509,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 139828,
+      "num": 139828,
+      "word": "小威无缘美网16强",
+      "onboard_time": 1662173665,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 138790,
+      "num": 138790,
+      "word": "1945年民众得知日本投降后冲上街欢呼",
+      "onboard_time": 1662174207,
+      "rank": 49,
+      "category": "军事"
     },
     {
       "raw_hot": 137993,
@@ -833,6 +897,9 @@
     },
     {
       "word": "#跟着总书记看中国#"
+    },
+    {
+      "word": "#功勋闪耀新时代#"
     }
   ]
 }
