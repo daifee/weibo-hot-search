@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/04 03:18:43
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/04 03:33:35
 </p>
 </blockquote>
 <p>
@@ -5241,6 +5241,12 @@ JDG拿到赛点（热度：119119）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E6%91%98%E7%9C%BC%E9%95%9C%E8%A7%86%E5%8A%9B%E5%90%AC%E5%8A%9B%E4%B8%80%E8%B5%B7%E4%B8%8B%E9%99%8D%23" target="weibo">
+男生摘眼镜视力听力一起下降（热度：113196）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%96%B0%E7%9A%93%E4%B8%AD%E8%80%83%23" target="weibo">
 苏新皓中考（热度：112484）
 </a>
@@ -5261,12 +5267,6 @@ JDG拿到赛点（热度：119119）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23LPL%23" target="weibo">
 LPL（热度：110842）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E6%91%98%E7%9C%BC%E9%95%9C%E8%A7%86%E5%8A%9B%E5%90%AC%E5%8A%9B%E4%B8%80%E8%B5%B7%E4%B8%8B%E9%99%8D%23" target="weibo">
-男生摘眼镜视力听力一起下降（热度：110507）
 </a>
 </li>
 
@@ -5500,7 +5500,7 @@ LPL（热度：110842）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%233%E4%B8%AA%E5%8A%A8%E4%BD%9C%E6%9C%89%E6%95%88%E7%BC%93%E8%A7%A3%E7%9C%BC%E9%83%A8%E7%96%B2%E5%8A%B3%23" target="weibo">
-3个动作有效缓解眼部疲劳（热度：15243）
+3个动作有效缓解眼部疲劳（热度：17150）
 </a>
 </li>
 
