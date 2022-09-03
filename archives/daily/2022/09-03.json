@@ -1,6 +1,6 @@
 {
   "startTime": 1662136351891,
-  "endTime": 1662189603401,
+  "endTime": 1662190553405,
   "band_list": [
     {
       "raw_hot": 2900821,
@@ -43,8 +43,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 2047235,
-      "num": 2047235,
+      "raw_hot": 2149536,
+      "num": 2149536,
       "word": "产妇凌晨在家晕倒呼吸停止",
       "onboard_time": 1662186087,
       "rank": 26,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1419010,
+      "num": 1289401,
+      "word": "招行平均月薪下降仍有5.5万元",
+      "onboard_time": 1662186565,
+      "rank": 12,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1383355,
       "num": 1383355,
       "word": "为什么大学生的行李越来越少了",
@@ -99,12 +107,12 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 1289401,
-      "num": 1289401,
-      "word": "招行平均月薪下降仍有5.5万元",
-      "onboard_time": 1662186565,
-      "rank": 12,
-      "category": "财经,社会新闻"
+      "raw_hot": 1265393,
+      "num": 1053289,
+      "word": "达辉律所",
+      "onboard_time": 1662187227,
+      "rank": 25,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1244647,
@@ -153,14 +161,6 @@
       "onboard_time": 1662183145,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1053289,
-      "num": 1053289,
-      "word": "达辉律所",
-      "onboard_time": 1662187227,
-      "rank": 25,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1026119,
@@ -259,6 +259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 812017,
+      "num": 812017,
+      "word": "印度成为第五大经济体",
+      "onboard_time": 1662188490,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 784099,
       "num": 495605,
       "word": "赵露思直播",
@@ -315,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 683221,
+      "num": 683221,
+      "word": "张彬彬给虞书欣拨刘海",
+      "onboard_time": 1662187287,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 677807,
       "num": 677807,
       "word": "眼球突出并非因为长期戴眼镜",
@@ -329,14 +345,6 @@
       "onboard_time": 1662124707,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 619878,
-      "num": 619878,
-      "word": "张彬彬给虞书欣拨刘海",
-      "onboard_time": 1662187287,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 607086,
@@ -361,6 +369,22 @@
       "onboard_time": 1662165865,
       "rank": 13,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 590946,
+      "num": 590946,
+      "word": "女生保健品当饭吃致子宫长满肌瘤",
+      "onboard_time": 1662187767,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 571494,
+      "num": 571494,
+      "word": "王鹤棣听课演我",
+      "onboard_time": 1662189924,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 571002,
@@ -411,28 +435,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 542320,
+      "num": 542320,
+      "word": "拖行",
+      "onboard_time": 1662189263,
+      "rank": 24,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 519930,
+      "num": 519930,
+      "word": "王鹤棣叫李一桐丈母娘",
+      "onboard_time": 1662190286,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 518649,
       "num": 518649,
       "word": "小威",
       "onboard_time": 1662171924,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 517361,
-      "num": 517361,
-      "word": "女生保健品当饭吃致子宫长满肌瘤",
-      "onboard_time": 1662187767,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 495597,
-      "num": 495597,
-      "word": "印度成为第五大经济体",
-      "onboard_time": 1662188490,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 488084,
@@ -507,8 +531,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 436398,
-      "num": 436398,
+      "raw_hot": 436972,
+      "num": 436972,
       "word": "泰勒斯威夫特Midnights",
       "onboard_time": 1662188068,
       "rank": 15,
@@ -627,6 +651,22 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 352641,
+      "num": 352641,
+      "word": "东航一航班因旅客吐血紧急备降",
+      "onboard_time": 1662189505,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348943,
+      "num": 348943,
+      "word": "苍兰诀大婚花絮照",
+      "onboard_time": 1662189148,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 344389,
       "num": 283021,
       "word": "陈立农中餐厅卖烧烤爆单了",
@@ -739,14 +779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 304002,
-      "num": 304002,
-      "word": "苍兰诀大婚花絮照",
-      "onboard_time": 1662189148,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 300513,
       "num": 300513,
       "word": "以为失传的跳皮筋小朋友学会了",
@@ -784,6 +816,14 @@
       "word": "覆流年稻田抠图",
       "onboard_time": 1662187346,
       "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 288277,
+      "num": 288277,
+      "word": "沉香夫妇双双下线",
+      "onboard_time": 1662188428,
+      "rank": 23,
       "category": "影视"
     },
     {
@@ -915,22 +955,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 249552,
-      "num": 249552,
-      "word": "沉香夫妇双双下线",
-      "onboard_time": 1662188428,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 246508,
-      "num": 246508,
-      "word": "拖行",
-      "onboard_time": 1662189263,
-      "rank": 24,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 246299,
       "num": 246299,
       "word": "男子酒驾进了自己建的拘留所",
@@ -1051,6 +1075,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 196579,
+      "num": 196579,
+      "word": "小学生坐公交写1元欠条",
+      "onboard_time": 1662188184,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193040,
       "num": 182235,
       "word": "登录圆鱼洲收官",
@@ -1097,6 +1129,14 @@
       "onboard_time": 1662116604,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171797,
+      "num": 171797,
+      "word": "中级财管",
+      "onboard_time": 1662189688,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 169609,
@@ -1152,14 +1192,6 @@
       "word": "深圳多区开展全员核酸检测",
       "onboard_time": 1662128311,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147500,
-      "num": 147500,
-      "word": "小学生坐公交写1元欠条",
-      "onboard_time": 1662188184,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -1275,20 +1307,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104604,
+      "num": 104604,
+      "word": "山东新增本土确诊8例无症状75例",
+      "onboard_time": 1662190227,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98494,
       "num": 98494,
       "word": "为什么不上jiejie",
       "onboard_time": 1662117685,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 98458,
-      "num": 98458,
-      "word": "东航一航班因旅客吐血紧急备降",
-      "onboard_time": 1662189505,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 93815,
