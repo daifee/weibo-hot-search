@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1662229589042,
+  "endTime": 1662230606869,
   "band_list": [
     {
       "raw_hot": 12749994,
@@ -12859,6 +12859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 119188,
+      "num": 119188,
+      "word": "真的好想回到疫情前",
+      "onboard_time": 1662226458,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 119119,
       "num": 119119,
       "word": "JDG拿到赛点",
@@ -13057,14 +13065,6 @@
       "onboard_time": 1661695054,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 96691,
-      "num": 96691,
-      "word": "真的好想回到疫情前",
-      "onboard_time": 1662226458,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 96546,
@@ -13299,6 +13299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 71921,
+      "num": 71921,
+      "word": "男生摘眼镜视力听力一起下降",
+      "onboard_time": 1662229035,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69622,
       "num": 69622,
       "word": "JDG锁定S12名额",
@@ -13363,6 +13371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45501,
+      "num": 40114,
+      "word": "魏晨穿了六年前同款西装",
+      "onboard_time": 1662228194,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 44137,
       "num": 43049,
       "word": "王鹤棣密逃4路透",
@@ -13409,14 +13425,6 @@
       "onboard_time": 1661711413,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 32071,
-      "num": 32071,
-      "word": "男生摘眼镜视力听力一起下降",
-      "onboard_time": 1662229035,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27800,

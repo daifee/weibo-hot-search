@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662229589042,
+  "endTime": 1662230606869,
   "band_list": [
     {
       "raw_hot": 6261105,
@@ -6931,6 +6931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 119188,
+      "num": 119188,
+      "word": "真的好想回到疫情前",
+      "onboard_time": 1662226458,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 119119,
       "num": 119119,
       "word": "JDG拿到赛点",
@@ -7057,14 +7065,6 @@
       "onboard_time": 1661960668,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 96691,
-      "num": 96691,
-      "word": "真的好想回到疫情前",
-      "onboard_time": 1662226458,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 95580,
@@ -7219,6 +7219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71921,
+      "num": 71921,
+      "word": "男生摘眼镜视力听力一起下降",
+      "onboard_time": 1662229035,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67728,
       "num": 67728,
       "word": "有理有据的单身原因",
@@ -7251,6 +7259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45501,
+      "num": 40114,
+      "word": "魏晨穿了六年前同款西装",
+      "onboard_time": 1662228194,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 40941,
       "num": 40941,
       "word": "林峯吴卓羲早期唱跳舞台",
@@ -7265,14 +7281,6 @@
       "onboard_time": 1662220470,
       "rank": 49,
       "category": "科技"
-    },
-    {
-      "raw_hot": 32071,
-      "num": 32071,
-      "word": "男生摘眼镜视力听力一起下降",
-      "onboard_time": 1662229035,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27800,
