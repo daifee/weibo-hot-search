@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1662223895641,
+  "endTime": 1662225714852,
   "band_list": [
     {
       "raw_hot": 12749994,
@@ -13361,6 +13361,14 @@
       "onboard_time": 1662151092,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 40673,
+      "num": 40673,
+      "word": "虚拟陪伴是否能代替真人需求",
+      "onboard_time": 1662220470,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 38124,
