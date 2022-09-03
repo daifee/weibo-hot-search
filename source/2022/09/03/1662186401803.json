@@ -1,0 +1,410 @@
+{
+  "runTime": 1662186401803,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2490648,
+        "num": 2490648,
+        "word": "老人做核酸不愿插队众人谎称按年龄",
+        "onboard_time": 1662180805,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2233361,
+        "num": 2233361,
+        "word": "网传谭松韵赵露思白鹿金鹰女神候选人",
+        "onboard_time": 1662185246,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 13168,
+        "num": 1692864,
+        "word": "打卡2022服贸会",
+        "onboard_time": 1662121408,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1307711,
+        "num": 1307711,
+        "word": "成都女子3套房放11台冰箱囤货",
+        "onboard_time": 1662174505,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1070086,
+        "num": 1070086,
+        "word": "2398元礼盒里没有月饼",
+        "onboard_time": 1662183145,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 983892,
+        "num": 983892,
+        "word": "东软",
+        "onboard_time": 1662131249,
+        "rank": 5,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 861920,
+        "num": 861920,
+        "word": "杭州一医院7天接240名开学焦虑娃",
+        "onboard_time": 1662183688,
+        "rank": 6,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 833089,
+        "num": 833089,
+        "word": "河北一学校摆桌放锤子免费碎手机",
+        "onboard_time": 1662181947,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 718833,
+        "num": 718833,
+        "word": "审美降级",
+        "onboard_time": 1662171142,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 613615,
+        "num": 613615,
+        "word": "为什么大学生的行李越来越少了",
+        "onboard_time": 1662176545,
+        "rank": 9,
+        "category": "社会议题,教育"
+      },
+      {
+        "raw_hot": 597900,
+        "num": 597900,
+        "word": "成都核酸",
+        "onboard_time": 1662186266,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537058,
+        "num": 537058,
+        "word": "王俊凯真的好杰伦脑",
+        "onboard_time": 1662184465,
+        "rank": 11,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 520330,
+        "num": 520330,
+        "word": "女子发现男子深夜卧室窗外疑偷窥",
+        "onboard_time": 1662177926,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418756,
+        "num": 418756,
+        "word": "Karry王 Carry王",
+        "onboard_time": 1662169466,
+        "rank": 13,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 354776,
+        "num": 354776,
+        "word": "最不想弟弟开学的是姐姐",
+        "onboard_time": 1662173425,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 306663,
+        "num": 306663,
+        "word": "与君初相识恰似故人归登华策2022半年报",
+        "onboard_time": 1662180267,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 300415,
+        "num": 300415,
+        "word": "成都新增本土确诊病例105例",
+        "onboard_time": 1662181225,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296000,
+        "num": 296000,
+        "word": "袁隆平爷爷的禾下乘凉不再是梦",
+        "onboard_time": 1662174265,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274142,
+        "num": 274142,
+        "word": "超负荷用眼危害有多大",
+        "onboard_time": 1662179666,
+        "rank": 18,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 260326,
+        "num": 260326,
+        "word": "花少节目组眼里的丁程鑫",
+        "onboard_time": 1662185726,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 558348,
+        "num": 259295,
+        "word": "王鹤棣100道光芒西装造型路透",
+        "onboard_time": 1662184765,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 488049,
+        "num": 249612,
+        "word": "刘诗诗一念关山嘟嘴饭拍路透",
+        "onboard_time": 1662181166,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 234356,
+        "num": 234356,
+        "word": "网友晒出300多人的学校男生宿舍",
+        "onboard_time": 1662171746,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229787,
+        "num": 229787,
+        "word": "王嘉尔Tablo合作舞台Imagine",
+        "onboard_time": 1662183025,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218090,
+        "num": 218090,
+        "word": "第一次见有中铺的宿舍",
+        "onboard_time": 1662163824,
+        "rank": 24,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 207168,
+        "num": 207168,
+        "word": "九三胜利日大阅兵77秒高燃瞬间",
+        "onboard_time": 1662178765,
+        "rank": 25,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 203185,
+        "num": 203185,
+        "word": "产妇凌晨在家晕倒呼吸停止",
+        "onboard_time": 1662186087,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200938,
+        "num": 200938,
+        "word": "石宇奇",
+        "onboard_time": 1662184287,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198005,
+        "num": 198005,
+        "word": "深圳新增87例阳性病例",
+        "onboard_time": 1662173003,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177474,
+        "num": 177474,
+        "word": "司机礼让校车遭后方多车鸣笛超行",
+        "onboard_time": 1662170546,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222497,
+        "num": 175062,
+        "word": "沉香如屑 编剧",
+        "onboard_time": 1662177384,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204371,
+        "num": 174504,
+        "word": "肖战林修崖4周年",
+        "onboard_time": 1662179845,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172246,
+        "num": 172246,
+        "word": "沉香我再给你一次机会",
+        "onboard_time": 1662174505,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169519,
+        "num": 169519,
+        "word": "再爱就不礼貌了",
+        "onboard_time": 1662168267,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169159,
+        "num": 169159,
+        "word": "杨幂是花少大哥",
+        "onboard_time": 1662184287,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156544,
+        "num": 156544,
+        "word": "中国军队国际形象网宣片发布",
+        "onboard_time": 1662169165,
+        "rank": 35,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 133179,
+        "num": 133179,
+        "word": "1945年民众得知日本投降后冲上街欢呼",
+        "onboard_time": 1662174207,
+        "rank": 36,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 131294,
+        "num": 131294,
+        "word": "4岁男孩17楼坠落奇迹生还",
+        "onboard_time": 1662165145,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129573,
+        "num": 129573,
+        "word": "长沙2米巨型稻将进入成熟期",
+        "onboard_time": 1662172704,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123542,
+        "num": 123542,
+        "word": "女子连吃数顿火锅血成牛奶色",
+        "onboard_time": 1662132865,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141296,
+        "num": 123523,
+        "word": "王一博这就是街舞5第四期海报",
+        "onboard_time": 1662175405,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125991,
+        "num": 123520,
+        "word": "一张图看完沉香如屑",
+        "onboard_time": 1662178706,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123335,
+        "num": 123335,
+        "word": "以为失传的跳皮筋小朋友学会了",
+        "onboard_time": 1662171506,
+        "rank": 42,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 118863,
+        "num": 118863,
+        "word": "阳光信用",
+        "onboard_time": 1662178587,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 117313,
+        "num": 117313,
+        "word": "2022KPL夏季赛总决赛",
+        "onboard_time": 1662180027,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111421,
+        "num": 111421,
+        "word": "四川新增本土确诊128例无症状74例",
+        "onboard_time": 1662171924,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110794,
+        "num": 110794,
+        "word": "四川致社会各界的一封信",
+        "onboard_time": 1662172045,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110016,
+        "num": 110016,
+        "word": "中级会计",
+        "onboard_time": 1662176423,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 106333,
+        "num": 106333,
+        "word": "贵阳疫情防控",
+        "onboard_time": 1662177863,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101932,
+        "num": 101932,
+        "word": "西安疫情防控",
+        "onboard_time": 1662172400,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#直击2022年服贸会#"
+    }
+  }
+}
