@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662203872070,
+  "endTime": 1662204878152,
   "band_list": [
     {
       "raw_hot": 6261105,
@@ -195,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2028915,
+      "num": 2028915,
+      "word": "女子喜提四胞胎取名为花好月圆",
+      "onboard_time": 1662200246,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2024041,
       "num": 923132,
       "word": "硕士男火车卧铺摸女孩脚被拘",
@@ -379,14 +387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1611548,
-      "num": 1611548,
-      "word": "女子喜提四胞胎取名为花好月圆",
-      "onboard_time": 1662200246,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1609615,
       "num": 1609615,
       "word": "爸爸将一年级女儿送错学校",
@@ -540,7 +540,7 @@
     },
     {
       "raw_hot": 1378169,
-      "num": 535652,
+      "num": 551070,
       "word": "王一博三年间为乐华带来10.83亿收入",
       "onboard_time": 1662198926,
       "rank": 11,
@@ -811,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1066307,
+      "num": 1066307,
+      "word": "林志颖后援会送救命恩人礼物",
+      "onboard_time": 1662202529,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1054796,
       "num": 1054796,
       "word": "网传全员加速中3阵容",
@@ -1019,6 +1027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 934052,
+      "num": 934052,
+      "word": "少女时代",
+      "onboard_time": 1662202408,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 932859,
       "num": 932859,
       "word": "iPhone14涨价或低于预期",
@@ -1201,6 +1217,14 @@
       "onboard_time": 1662080247,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 863465,
+      "num": 863465,
+      "word": "小说烂尾的原因找到了",
+      "onboard_time": 1662200067,
+      "rank": 42,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 858922,
@@ -1411,14 +1435,6 @@
       "category": "作品衍生,幽默"
     },
     {
-      "raw_hot": 767614,
-      "num": 767614,
-      "word": "小说烂尾的原因找到了",
-      "onboard_time": 1662200067,
-      "rank": 42,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 760302,
       "num": 760302,
       "word": "阳澄湖大闸蟹再努力也将缺席中秋",
@@ -1443,14 +1459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 742502,
-      "num": 514600,
-      "word": "林志颖后援会送救命恩人礼物",
-      "onboard_time": 1662202529,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 735828,
       "num": 681609,
       "word": "胆小鬼",
@@ -1473,14 +1481,6 @@
       "onboard_time": 1662101306,
       "rank": 35,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 724199,
-      "num": 724199,
-      "word": "少女时代",
-      "onboard_time": 1662202408,
-      "rank": 6,
-      "category": "音乐"
     },
     {
       "raw_hot": 723060,
@@ -2003,6 +2003,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 556053,
+      "num": 556053,
+      "word": "男生军训7天捡4麻袋瓶子送奶奶",
+      "onboard_time": 1662202107,
+      "rank": 17,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 555979,
       "num": 555979,
       "word": "纪念馆正在核实网传南京大屠杀照片",
@@ -2017,6 +2025,14 @@
       "onboard_time": 1662183025,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 554932,
+      "num": 554932,
+      "word": "周末一个人能干嘛",
+      "onboard_time": 1662199289,
+      "rank": 21,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 554351,
@@ -2179,14 +2195,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 506802,
-      "num": 506802,
-      "word": "周末一个人能干嘛",
-      "onboard_time": 1662199289,
-      "rank": 21,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 505454,
       "num": 505454,
       "word": "丁程鑫下一季想去北极看极光",
@@ -2267,6 +2275,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 489351,
+      "num": 489351,
+      "word": "九尾带驴上班",
+      "onboard_time": 1662203909,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 488873,
       "num": 478063,
       "word": "陆安然妹妹陆欣然替嫁",
@@ -2281,6 +2297,14 @@
       "onboard_time": 1662138799,
       "rank": 13,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 486450,
+      "num": 486450,
+      "word": "Angelababy白西装半马尾造型",
+      "onboard_time": 1662203608,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 484931,
@@ -2400,6 +2424,14 @@
       "word": "Uzi厂长同框",
       "onboard_time": 1662130352,
       "rank": 16,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 469152,
+      "num": 469152,
+      "word": "重庆狼队",
+      "onboard_time": 1662203787,
+      "rank": 32,
       "category": "游戏"
     },
     {
@@ -3355,14 +3387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 335762,
-      "num": 335762,
-      "word": "男生军训7天捡4麻袋瓶子送奶奶",
-      "onboard_time": 1662202107,
-      "rank": 17,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 335671,
       "num": 335671,
       "word": "iPhone14手机壳或与上一代通用",
@@ -3787,6 +3811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300984,
+      "num": 300984,
+      "word": "贵阳核酸检测系统",
+      "onboard_time": 1662201627,
+      "rank": 27,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 300513,
       "num": 300513,
       "word": "以为失传的跳皮筋小朋友学会了",
@@ -3835,6 +3867,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 298794,
+      "num": 298794,
+      "word": "久哲挑染",
+      "onboard_time": 1662204269,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 298702,
       "num": 298702,
       "word": "饿了么免单",
@@ -3880,6 +3920,14 @@
       "word": "成毅听到粉丝要做帝后的反应",
       "onboard_time": 1662118828,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 295628,
+      "num": 295628,
+      "word": "孔雪儿传媒荣誉之夜红毯生图",
+      "onboard_time": 1662203909,
+      "rank": 24,
       "category": "影视"
     },
     {
@@ -4025,6 +4073,14 @@
       "onboard_time": 1662098967,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 288170,
+      "num": 288170,
+      "word": "覆流年",
+      "onboard_time": 1662032488,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 287913,
@@ -4227,6 +4283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 275673,
+      "num": 275673,
+      "word": "小胖抢龙",
+      "onboard_time": 1662203366,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 275416,
       "num": 275416,
       "word": "教资笔试报名系统崩了",
@@ -4337,14 +4401,6 @@
       "onboard_time": 1662014064,
       "rank": 47,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 268949,
-      "num": 268949,
-      "word": "覆流年",
-      "onboard_time": 1662032488,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 268222,
@@ -4524,19 +4580,11 @@
     },
     {
       "raw_hot": 255658,
-      "num": 145948,
+      "num": 176377,
       "word": "冰雨火",
       "onboard_time": 1662098967,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 254943,
-      "num": 254943,
-      "word": "贵阳核酸检测系统",
-      "onboard_time": 1662201627,
-      "rank": 27,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 254514,
@@ -4609,14 +4657,6 @@
       "onboard_time": 1662126633,
       "rank": 26,
       "category": "财经"
-    },
-    {
-      "raw_hot": 250589,
-      "num": 250589,
-      "word": "小胖抢龙",
-      "onboard_time": 1662203366,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 249075,
@@ -4963,14 +5003,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 221736,
-      "num": 221736,
-      "word": "重庆狼队",
-      "onboard_time": 1662203787,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 221207,
       "num": 221207,
       "word": "闪耀暖暖",
@@ -5033,6 +5065,14 @@
       "onboard_time": 1662103168,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 215385,
+      "num": 215385,
+      "word": "九尾专业评论席",
+      "onboard_time": 1662204449,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 215061,
@@ -5187,6 +5227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206717,
+      "num": 206717,
+      "word": "河南新增本土确诊13例无症状40例",
+      "onboard_time": 1662200907,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205797,
       "num": 132692,
       "word": "仁科 喜剧人",
@@ -5201,14 +5249,6 @@
       "onboard_time": 1661958574,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 202387,
-      "num": 169753,
-      "word": "Angelababy白西装半马尾造型",
-      "onboard_time": 1662203608,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 202185,
@@ -5395,11 +5435,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 190781,
-      "num": 190781,
-      "word": "河南新增本土确诊13例无症状40例",
-      "onboard_time": 1662200907,
-      "rank": 42,
+      "raw_hot": 190212,
+      "num": 190212,
+      "word": "一封匿名感谢信编号0402033095",
+      "onboard_time": 1662203308,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -5497,6 +5537,14 @@
       "onboard_time": 1661999366,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184918,
+      "num": 184918,
+      "word": "没有什么会一直糟糕下去吧",
+      "onboard_time": 1662204328,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 184658,
@@ -6208,14 +6256,6 @@
       "word": "大庆疫情防控",
       "onboard_time": 1662101724,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 124550,
-      "num": 124550,
-      "word": "一封匿名感谢信编号0402033095",
-      "onboard_time": 1662203308,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
