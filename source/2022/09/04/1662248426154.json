@@ -1,0 +1,410 @@
+{
+  "runTime": 1662248426154,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2105350,
+        "num": 2105350,
+        "word": "双胞胎在肚里打架出生后浑身淤青",
+        "onboard_time": 1662246256,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1368733,
+        "num": 1368733,
+        "word": "刘德华 2亿多人",
+        "onboard_time": 1662217053,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 40088,
+        "num": 891854,
+        "word": "神十四首次出舱任务全回顾",
+        "onboard_time": 1662207448,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 806939,
+        "num": 806939,
+        "word": "贾玲 华仔",
+        "onboard_time": 1662215433,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 620718,
+        "num": 620718,
+        "word": "马苏哭了",
+        "onboard_time": 1662221068,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 556705,
+        "num": 556705,
+        "word": "婆婆没空伺候儿媳月子送上4斤金条",
+        "onboard_time": 1662211349,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454088,
+        "num": 454088,
+        "word": "男生摘眼镜视力听力一起下降",
+        "onboard_time": 1662229035,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287373,
+        "num": 287373,
+        "word": "北京海淀判定密接1177人",
+        "onboard_time": 1662218671,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284283,
+        "num": 284283,
+        "word": "奶奶带的狗胖如猪",
+        "onboard_time": 1662220050,
+        "rank": 8,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 217074,
+        "num": 217074,
+        "word": "成都人个个都是时间管理高手",
+        "onboard_time": 1662215613,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665122,
+        "num": 216730,
+        "word": "娄底警方通报撞人拖行事件",
+        "onboard_time": 1662246977,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390254,
+        "num": 215408,
+        "word": "北京个别感染者未严格遵守防疫规定",
+        "onboard_time": 1662247159,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253388,
+        "num": 214968,
+        "word": "娄底被撞伤者生命体征平稳",
+        "onboard_time": 1662247880,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356799,
+        "num": 213448,
+        "word": "成都黄码",
+        "onboard_time": 1662220588,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213331,
+        "num": 213331,
+        "word": "真的好想回到疫情前",
+        "onboard_time": 1662226458,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 235377,
+        "num": 210001,
+        "word": "王鹤棣好像中了祟气",
+        "onboard_time": 1662214712,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204279,
+        "num": 204279,
+        "word": "朱一龙获金鹿奖连说12个感谢",
+        "onboard_time": 1662242591,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191367,
+        "num": 191367,
+        "word": "17岁",
+        "onboard_time": 1662219691,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 171707,
+        "num": 171707,
+        "word": "男子学做菜老婆急得咬牙切齿",
+        "onboard_time": 1662218609,
+        "rank": 18,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 156815,
+        "num": 156815,
+        "word": "女子喜提四胞胎取名为花好月圆",
+        "onboard_time": 1662200246,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218380,
+        "num": 152416,
+        "word": "警方介入调查娄底撞人拖行事件",
+        "onboard_time": 1662208166,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 196381,
+        "num": 151767,
+        "word": "刘诗诗刘宇宁比耶合影",
+        "onboard_time": 1662247698,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185333,
+        "num": 141944,
+        "word": "潘玮柏唱快乐崇拜爷青回",
+        "onboard_time": 1662246256,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180101,
+        "num": 140679,
+        "word": "警方回应女司机酒驾撞人拖行事件",
+        "onboard_time": 1662211230,
+        "rank": 23,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 171510,
+        "num": 134827,
+        "word": "李好主持",
+        "onboard_time": 1662214110,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 132001,
+        "num": 132001,
+        "word": "男生军训7天捡4麻袋瓶子送奶奶",
+        "onboard_time": 1662202107,
+        "rank": 25,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 130504,
+        "num": 130504,
+        "word": "上海市监局回应巴黎贝甜被罚",
+        "onboard_time": 1662208527,
+        "rank": 26,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 128040,
+        "num": 128040,
+        "word": "娄底撞人拖行事件司机系醉驾",
+        "onboard_time": 1662248058,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112181,
+        "num": 112181,
+        "word": "国产大型太阳能无人机首飞成功",
+        "onboard_time": 1662241092,
+        "rank": 28,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 107840,
+        "num": 107840,
+        "word": "被HR追问离职可以这样回答",
+        "onboard_time": 1662211708,
+        "rank": 29,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 136278,
+        "num": 106351,
+        "word": "关晓彤演我吃瓜",
+        "onboard_time": 1662217595,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135398,
+        "num": 104204,
+        "word": "王一博被kyoka吓怕了",
+        "onboard_time": 1662218792,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132998,
+        "num": 102835,
+        "word": "林志颖后援会送救命恩人礼物",
+        "onboard_time": 1662202529,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128224,
+        "num": 100544,
+        "word": "张翰杜淳吵架像分手现场",
+        "onboard_time": 1662225979,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 98786,
+        "num": 98786,
+        "word": "3个动作有效缓解眼部疲劳",
+        "onboard_time": 1662232332,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81675,
+        "num": 81675,
+        "word": "小胖总决赛MVP",
+        "onboard_time": 1662214953,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 80994,
+        "num": 80994,
+        "word": "杭州常态化核酸频次从7天调整为72小时",
+        "onboard_time": 1662213032,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78989,
+        "num": 78989,
+        "word": "NASA",
+        "onboard_time": 1662217714,
+        "rank": 37,
+        "category": "科技,国外要闻"
+      },
+      {
+        "raw_hot": 78757,
+        "num": 78757,
+        "word": "这电动车挺丢人的",
+        "onboard_time": 1662219868,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75387,
+        "num": 75387,
+        "word": "国家启动海洋灾害Ⅱ级应急响应",
+        "onboard_time": 1662207808,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106684,
+        "num": 75218,
+        "word": "邢菲眼神戏对比",
+        "onboard_time": 1662226576,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 105887,
+        "num": 73256,
+        "word": "刘浩存传媒荣誉之夜生图",
+        "onboard_time": 1662215013,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 71051,
+        "num": 71051,
+        "word": "Rookie泪目",
+        "onboard_time": 1662210509,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 66389,
+        "num": 66389,
+        "word": "米兰德比",
+        "onboard_time": 1662248058,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62284,
+        "num": 62284,
+        "word": "小说烂尾的原因找到了",
+        "onboard_time": 1662200067,
+        "rank": 44,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 62247,
+        "num": 62247,
+        "word": "成都15岁少年踩风火轮送物资",
+        "onboard_time": 1662210988,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58403,
+        "num": 58403,
+        "word": "清融",
+        "onboard_time": 1662208111,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 58050,
+        "num": 58050,
+        "word": "Rookie连续三年无缘世界赛",
+        "onboard_time": 1662213276,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 53116,
+        "num": 53116,
+        "word": "成都人居家有多自律",
+        "onboard_time": 1662248422,
+        "rank": 48,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 51913,
+        "num": 51913,
+        "word": "中俄海军舰艇炮击演练",
+        "onboard_time": 1662207509,
+        "rank": 49,
+        "category": "军事,国内要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#勿忘往昔峥嵘铭记伟大胜利#"
+    }
+  }
+}
