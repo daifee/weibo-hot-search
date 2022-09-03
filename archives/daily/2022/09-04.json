@@ -1,6 +1,6 @@
 {
   "startTime": 1662222576733,
-  "endTime": 1662243667950,
+  "endTime": 1662244691923,
   "band_list": [
     {
       "raw_hot": 2498918,
@@ -275,6 +275,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 210114,
+      "num": 210114,
+      "word": "男生摘眼镜视力听力一起下降",
+      "onboard_time": 1662229035,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209448,
       "num": 173073,
       "word": "黄明昊全程跟唱怎样",
@@ -355,14 +363,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 155238,
-      "num": 155238,
-      "word": "男生摘眼镜视力听力一起下降",
-      "onboard_time": 1662229035,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 140809,
       "num": 140809,
       "word": "快乐的时候我是活着的",
@@ -403,6 +403,14 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 75791,
+      "num": 75791,
+      "word": "国产大型太阳能无人机首飞成功",
+      "onboard_time": 1662241092,
+      "rank": 17,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 72551,
       "num": 72551,
       "word": "BLACKPINK成员照片遭黑客泄露",
@@ -427,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70980,
+      "num": 50691,
+      "word": "朱一龙获金鹿奖连说12个感谢",
+      "onboard_time": 1662242591,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 67871,
       "num": 67871,
       "word": "重庆狼队冠军签名",
@@ -435,12 +451,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 49307,
-      "num": 49307,
-      "word": "国产大型太阳能无人机首飞成功",
-      "onboard_time": 1662241092,
-      "rank": 17,
-      "category": "科技,社会新闻"
+      "raw_hot": 50154,
+      "num": 50154,
+      "word": "3个动作有效缓解眼部疲劳",
+      "onboard_time": 1662232332,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 48671,
@@ -459,36 +475,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 42706,
+      "num": 32891,
+      "word": "余墨好惨",
+      "onboard_time": 1662233892,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 40673,
       "num": 40673,
       "word": "虚拟陪伴是否能代替真人需求",
       "onboard_time": 1662220470,
       "rank": 49,
       "category": "科技"
-    },
-    {
-      "raw_hot": 38753,
-      "num": 27800,
-      "word": "朱一龙获金鹿奖连说12个感谢",
-      "onboard_time": 1662242591,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 36378,
-      "num": 36378,
-      "word": "3个动作有效缓解眼部疲劳",
-      "onboard_time": 1662232332,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31506,
-      "num": 27499,
-      "word": "余墨好惨",
-      "onboard_time": 1662233892,
-      "rank": 31,
-      "category": "影视"
     }
   ],
   "hotgov_list": [
