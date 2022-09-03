@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1662218560305,
+  "endTime": 1662219604871,
   "band_list": [
     {
       "raw_hot": 12749994,
@@ -259,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2834133,
+      "num": 2834133,
+      "word": "警方介入调查娄底撞人拖行事件",
+      "onboard_time": 1662208166,
+      "rank": 17,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 2816586,
       "num": 2816586,
       "word": "稻盛和夫去世",
@@ -273,14 +281,6 @@
       "onboard_time": 1661766993,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2798784,
-      "num": 2798784,
-      "word": "警方介入调查娄底撞人拖行事件",
-      "onboard_time": 1662208166,
-      "rank": 17,
-      "category": "社会负面"
     },
     {
       "raw_hot": 2740378,
@@ -569,6 +569,14 @@
       "onboard_time": 1661851771,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 2113305,
+      "num": 2113305,
+      "word": "贾玲 华仔",
+      "onboard_time": 1662215433,
+      "rank": 4,
+      "category": "音乐"
     },
     {
       "raw_hot": 2097199,
@@ -881,14 +889,6 @@
       "onboard_time": 1661780313,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1763092,
-      "num": 1763092,
-      "word": "贾玲 华仔",
-      "onboard_time": 1662215433,
-      "rank": 4,
-      "category": "音乐"
     },
     {
       "raw_hot": 1756514,
@@ -3035,6 +3035,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 814178,
+      "num": 814178,
+      "word": "成都人个个都是时间管理高手",
+      "onboard_time": 1662215613,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 812189,
       "num": 649668,
       "word": "北京地铁站内男子向女乘客小便被刑拘",
@@ -3611,14 +3619,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 682163,
-      "num": 682163,
-      "word": "成都人个个都是时间管理高手",
-      "onboard_time": 1662215613,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 680201,
       "num": 680201,
       "word": "王俊凯连线周杰伦",
@@ -3913,6 +3913,14 @@
       "onboard_time": 1661781634,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 642764,
+      "num": 497371,
+      "word": "隐入尘烟",
+      "onboard_time": 1662216094,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 642688,
@@ -4353,14 +4361,6 @@
       "onboard_time": 1661992890,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 571809,
-      "num": 320802,
-      "word": "隐入尘烟",
-      "onboard_time": 1662216094,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 571494,
@@ -5555,6 +5555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 453860,
+      "num": 307709,
+      "word": "王一博被kyoka吓怕了",
+      "onboard_time": 1662218792,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 453597,
       "num": 453597,
       "word": "九月",
@@ -6540,7 +6548,7 @@
     },
     {
       "raw_hot": 386194,
-      "num": 202483,
+      "num": 203514,
       "word": "刘雨昕错付了王濛",
       "onboard_time": 1662218313,
       "rank": 31,
@@ -6721,6 +6729,14 @@
       "onboard_time": 1661765070,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 377898,
+      "num": 377898,
+      "word": "北京海淀判定密接1177人",
+      "onboard_time": 1662218671,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 377865,
@@ -8939,6 +8955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275950,
+      "num": 275950,
+      "word": "今屿",
+      "onboard_time": 1662218491,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 275814,
       "num": 275814,
       "word": "樊振东上海交大报到",
@@ -9827,6 +9851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246730,
+      "num": 130010,
+      "word": "嗨放派",
+      "onboard_time": 1662218912,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246539,
       "num": 190335,
       "word": "两个人的小森林最新双人海报",
@@ -10409,6 +10441,14 @@
       "onboard_time": 1661856687,
       "rank": 42,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 221790,
+      "num": 108013,
+      "word": "Fly成功回到梦开始的地方",
+      "onboard_time": 1662219568,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 221780,
@@ -11539,6 +11579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179649,
+      "num": 107415,
+      "word": "重庆狼队冠军签名",
+      "onboard_time": 1662219568,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 179396,
       "num": 179396,
       "word": "中国男排vs加拿大男排",
@@ -11553,6 +11601,14 @@
       "onboard_time": 1661977091,
       "rank": 49,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 178384,
+      "num": 178384,
+      "word": "Doinb再次打拳庆祝",
+      "onboard_time": 1662218252,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 177984,
@@ -11601,6 +11657,14 @@
       "onboard_time": 1661902467,
       "rank": 32,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 176062,
+      "num": 176062,
+      "word": "男子学做菜老婆急得咬牙切齿",
+      "onboard_time": 1662218609,
+      "rank": 37,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 175164,
@@ -12113,6 +12177,14 @@
       "onboard_time": 1661928327,
       "rank": 44,
       "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 151473,
+      "num": 151473,
+      "word": "快乐的时候我是活着的",
+      "onboard_time": 1662218491,
+      "rank": 46,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 151201,
@@ -12731,14 +12803,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 116482,
-      "num": 116482,
-      "word": "今屿",
-      "onboard_time": 1662218491,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 115235,
       "num": 115235,
       "word": "父亲送女儿上大学后转身抹泪",
@@ -12753,6 +12817,14 @@
       "onboard_time": 1662040108,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111304,
+      "num": 111304,
+      "word": "切尔西vs西汉姆联",
+      "onboard_time": 1662219272,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 110842,
@@ -12785,14 +12857,6 @@
       "onboard_time": 1661987959,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 108126,
-      "num": 108126,
-      "word": "快乐的时候我是活着的",
-      "onboard_time": 1662218491,
-      "rank": 46,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 106881,
@@ -12913,14 +12977,6 @@
       "onboard_time": 1661695054,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 98123,
-      "num": 98123,
-      "word": "Doinb再次打拳庆祝",
-      "onboard_time": 1662218252,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 96546,

@@ -1,6 +1,6 @@
 {
   "startTime": 1662136351891,
-  "endTime": 1662218560305,
+  "endTime": 1662219604871,
   "band_list": [
     {
       "raw_hot": 3083466,
@@ -27,8 +27,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2798784,
-      "num": 2798784,
+      "raw_hot": 2834133,
+      "num": 2834133,
       "word": "警方介入调查娄底撞人拖行事件",
       "onboard_time": 1662208166,
       "rank": 17,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2113305,
+      "num": 2113305,
+      "word": "贾玲 华仔",
+      "onboard_time": 1662215433,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 2097199,
       "num": 2097199,
       "word": "王鹤棣虞书欣张彬彬同框",
@@ -153,14 +161,6 @@
       "onboard_time": 1662213573,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1763092,
-      "num": 1763092,
-      "word": "贾玲 华仔",
-      "onboard_time": 1662215433,
-      "rank": 4,
-      "category": "音乐"
     },
     {
       "raw_hot": 1692468,
@@ -563,6 +563,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 814178,
+      "num": 814178,
+      "word": "成都人个个都是时间管理高手",
+      "onboard_time": 1662215613,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 784099,
       "num": 495605,
       "word": "赵露思直播",
@@ -683,14 +691,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 682163,
-      "num": 682163,
-      "word": "成都人个个都是时间管理高手",
-      "onboard_time": 1662215613,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 677807,
       "num": 677807,
       "word": "眼球突出并非因为长期戴眼镜",
@@ -713,6 +713,14 @@
       "onboard_time": 1662205227,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 642764,
+      "num": 497371,
+      "word": "隐入尘烟",
+      "onboard_time": 1662216094,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 641520,
@@ -753,14 +761,6 @@
       "onboard_time": 1662165865,
       "rank": 13,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 571809,
-      "num": 320802,
-      "word": "隐入尘烟",
-      "onboard_time": 1662216094,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 571494,
@@ -995,6 +995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 453860,
+      "num": 307709,
+      "word": "王一博被kyoka吓怕了",
+      "onboard_time": 1662218792,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 453476,
       "num": 453476,
       "word": "沉香如屑番外",
@@ -1148,7 +1156,7 @@
     },
     {
       "raw_hot": 386194,
-      "num": 202483,
+      "num": 203514,
       "word": "刘雨昕错付了王濛",
       "onboard_time": 1662218313,
       "rank": 31,
@@ -1177,6 +1185,14 @@
       "onboard_time": 1662130950,
       "rank": 17,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 377898,
+      "num": 377898,
+      "word": "北京海淀判定密接1177人",
+      "onboard_time": 1662218671,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 372871,
@@ -1233,6 +1249,14 @@
       "onboard_time": 1662179666,
       "rank": 48,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 358596,
+      "num": 358596,
+      "word": "NASA",
+      "onboard_time": 1662217714,
+      "rank": 29,
+      "category": "科技,国外要闻"
     },
     {
       "raw_hot": 358046,
@@ -1675,6 +1699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 275950,
+      "num": 275950,
+      "word": "今屿",
+      "onboard_time": 1662218491,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 275673,
       "num": 275673,
       "word": "小胖抢龙",
@@ -1827,6 +1859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246730,
+      "num": 130010,
+      "word": "嗨放派",
+      "onboard_time": 1662218912,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246299,
       "num": 246299,
       "word": "男子酒驾进了自己建的拘留所",
@@ -1939,6 +1979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 221790,
+      "num": 108013,
+      "word": "Fly成功回到梦开始的地方",
+      "onboard_time": 1662219568,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 219548,
       "num": 219548,
       "word": "Uzi厂长同框",
@@ -1977,14 +2025,6 @@
       "onboard_time": 1662213753,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 214443,
-      "num": 214443,
-      "word": "NASA",
-      "onboard_time": 1662217714,
-      "rank": 29,
-      "category": "科技,国外要闻"
     },
     {
       "raw_hot": 207654,
@@ -2123,6 +2163,22 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 179649,
+      "num": 107415,
+      "word": "重庆狼队冠军签名",
+      "onboard_time": 1662219568,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 178384,
+      "num": 178384,
+      "word": "Doinb再次打拳庆祝",
+      "onboard_time": 1662218252,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 177661,
       "num": 177661,
       "word": "EDG让二追三RNG",
@@ -2137,6 +2193,14 @@
       "onboard_time": 1662204449,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 176062,
+      "num": 176062,
+      "word": "男子学做菜老婆急得咬牙切齿",
+      "onboard_time": 1662218609,
+      "rank": 37,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 174391,
@@ -2241,6 +2305,14 @@
       "onboard_time": 1662128311,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151473,
+      "num": 151473,
+      "word": "快乐的时候我是活着的",
+      "onboard_time": 1662218491,
+      "rank": 46,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 147112,
@@ -2371,14 +2443,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 116482,
-      "num": 116482,
-      "word": "今屿",
-      "onboard_time": 1662218491,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 114230,
       "num": 114230,
       "word": "日本曾将台湾和大连纳入日本领土",
@@ -2393,6 +2457,14 @@
       "onboard_time": 1662126032,
       "rank": 48,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 111304,
+      "num": 111304,
+      "word": "切尔西vs西汉姆联",
+      "onboard_time": 1662219272,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 111005,
@@ -2411,26 +2483,10 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 108126,
-      "num": 108126,
-      "word": "快乐的时候我是活着的",
-      "onboard_time": 1662218491,
-      "rank": 46,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 98494,
       "num": 98494,
       "word": "为什么不上jiejie",
       "onboard_time": 1662117685,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 98123,
-      "num": 98123,
-      "word": "Doinb再次打拳庆祝",
-      "onboard_time": 1662218252,
       "rank": 49,
       "category": "游戏"
     },
