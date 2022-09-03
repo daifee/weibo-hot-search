@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662209992314,
+  "endTime": 1662211976231,
   "band_list": [
     {
       "raw_hot": 6261105,
@@ -155,6 +155,14 @@
       "category": "动漫,网红"
     },
     {
+      "raw_hot": 2310678,
+      "num": 2310678,
+      "word": "警方介入调查娄底撞人拖行事件",
+      "onboard_time": 1662208166,
+      "rank": 17,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 2233361,
       "num": 2233361,
       "word": "网传谭松韵赵露思白鹿金鹰女神候选人",
@@ -169,6 +177,14 @@
       "onboard_time": 1662186087,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2097199,
+      "num": 2097199,
+      "word": "王鹤棣虞书欣张彬彬同框",
+      "onboard_time": 1662209010,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 2082083,
@@ -419,14 +435,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 1588405,
-      "num": 1588405,
-      "word": "王鹤棣虞书欣张彬彬同框",
-      "onboard_time": 1662209010,
-      "rank": 0,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1578096,
       "num": 1578096,
       "word": "网传向涵之将出演骄阳伴我女二",
@@ -449,6 +457,14 @@
       "onboard_time": 1662103046,
       "rank": 25,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1541088,
+      "num": 546778,
+      "word": "东软撤热搜",
+      "onboard_time": 1662209128,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1531932,
@@ -771,6 +787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1122349,
+      "num": 1122349,
+      "word": "清融",
+      "onboard_time": 1662208111,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1115775,
       "num": 1115775,
       "word": "长春市传染病医院发现5例阳性",
@@ -793,14 +817,6 @@
       "onboard_time": 1662086847,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1110449,
-      "num": 1110449,
-      "word": "警方介入调查娄底撞人拖行事件",
-      "onboard_time": 1662208166,
-      "rank": 17,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1095817,
@@ -1001,6 +1017,14 @@
       "onboard_time": 1662183688,
       "rank": 49,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 950146,
+      "num": 950146,
+      "word": "上海市监局回应巴黎贝甜被罚",
+      "onboard_time": 1662208527,
+      "rank": 48,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 948976,
@@ -1347,14 +1371,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 817420,
-      "num": 817420,
-      "word": "清融",
-      "onboard_time": 1662208111,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 815327,
       "num": 815327,
       "word": "icon登顶",
@@ -1459,6 +1475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 769449,
+      "num": 769449,
+      "word": "经超回应发腮",
+      "onboard_time": 1662207567,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 768368,
       "num": 768368,
       "word": "公司不聘用手机号倒数第五位是5的人",
@@ -1473,14 +1497,6 @@
       "onboard_time": 1662014129,
       "rank": 12,
       "category": "作品衍生,幽默"
-    },
-    {
-      "raw_hot": 764677,
-      "num": 764677,
-      "word": "经超回应发腮",
-      "onboard_time": 1662207567,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 760302,
@@ -1859,6 +1875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 605261,
+      "num": 605261,
+      "word": "巴黎贝甜",
+      "onboard_time": 1662210929,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 603770,
       "num": 603770,
       "word": "林雨申捡孩子专业户",
@@ -2019,6 +2043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 561878,
+      "num": 544366,
+      "word": "王一博街舞5黑色棒球服造型",
+      "onboard_time": 1662211771,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 561602,
       "num": 561602,
       "word": "黑龙江增67例确诊168例无症状",
@@ -2147,20 +2179,20 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 541736,
+      "num": 541736,
+      "word": "杭州核酸",
+      "onboard_time": 1662210209,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 540474,
       "num": 540474,
       "word": "三体",
       "onboard_time": 1661989524,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 537868,
-      "num": 537868,
-      "word": "上海市监局回应巴黎贝甜被罚",
-      "onboard_time": 1662208527,
-      "rank": 48,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 536244,
@@ -2273,14 +2305,6 @@
       "onboard_time": 1662011308,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 507516,
-      "num": 507516,
-      "word": "东软撤热搜",
-      "onboard_time": 1662209128,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 505454,
@@ -2923,6 +2947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 401220,
+      "num": 401220,
+      "word": "中俄海军舰艇炮击演练",
+      "onboard_time": 1662207509,
+      "rank": 23,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 401184,
       "num": 401184,
       "word": "南山疫情防控",
@@ -2963,20 +2995,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 398651,
-      "num": 398651,
-      "word": "中俄海军舰艇炮击演练",
-      "onboard_time": 1662207509,
-      "rank": 23,
-      "category": "军事,国内要闻"
-    },
-    {
       "raw_hot": 397348,
       "num": 397348,
       "word": "周杰伦王俊凯Uzi厂长",
       "onboard_time": 1661965160,
       "rank": 4,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 395523,
+      "num": 395523,
+      "word": "久诚自刀为Fly加油",
+      "onboard_time": 1662209549,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 395354,
@@ -3155,6 +3187,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 371607,
+      "num": 371607,
+      "word": "许光汉翻唱Beautiful",
+      "onboard_time": 1662209729,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 370760,
       "num": 370760,
       "word": "上海台风",
@@ -3201,6 +3241,14 @@
       "onboard_time": 1662100586,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 367567,
+      "num": 367567,
+      "word": "覆流年",
+      "onboard_time": 1662032488,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 365616,
@@ -3297,6 +3345,14 @@
       "onboard_time": 1662208230,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 356542,
+      "num": 259718,
+      "word": "刘宇宁一念关山黑衣造型",
+      "onboard_time": 1662211109,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 354386,
@@ -3465,6 +3521,14 @@
       "onboard_time": 1662010410,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 337785,
+      "num": 337785,
+      "word": "婆婆没空伺候儿媳月子送上4斤金条",
+      "onboard_time": 1662211349,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 337322,
@@ -3979,14 +4043,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 299254,
-      "num": 258448,
-      "word": "许光汉翻唱Beautiful",
-      "onboard_time": 1662209729,
-      "rank": 30,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 299116,
       "num": 299116,
       "word": "成都新增本土确诊103例",
@@ -4219,14 +4275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 288170,
-      "num": 288170,
-      "word": "覆流年",
-      "onboard_time": 1662032488,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 287913,
       "num": 127523,
       "word": "花儿与少年",
@@ -4387,6 +4435,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 279790,
+      "num": 279790,
+      "word": "国家启动海洋灾害Ⅱ级应急响应",
+      "onboard_time": 1662207808,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278758,
       "num": 278758,
       "word": "95后铁路姑娘帮接生后激动大哭",
@@ -4401,14 +4457,6 @@
       "onboard_time": 1662117926,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 278031,
-      "num": 278031,
-      "word": "久诚自刀为Fly加油",
-      "onboard_time": 1662209549,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 276456,
@@ -4571,6 +4619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 268040,
+      "num": 268040,
+      "word": "沈阳疫情防控",
+      "onboard_time": 1662208770,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267351,
       "num": 267351,
       "word": "秦理黄姝哭死我了",
@@ -4691,6 +4747,14 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 257409,
+      "num": 257409,
+      "word": "Rookie泪目",
+      "onboard_time": 1662210509,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 257149,
       "num": 257149,
       "word": "胆小鬼15集意难平",
@@ -4793,14 +4857,6 @@
       "onboard_time": 1661951490,
       "rank": 16,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 252627,
-      "num": 252627,
-      "word": "国家启动海洋灾害Ⅱ级应急响应",
-      "onboard_time": 1662207808,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 251493,
@@ -4947,14 +5003,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 236020,
-      "num": 236020,
-      "word": "沈阳疫情防控",
-      "onboard_time": 1662208770,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 235592,
       "num": 235592,
       "word": "吴易昺晋级美网32强",
@@ -4993,6 +5041,14 @@
       "onboard_time": 1662083725,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234252,
+      "num": 234252,
+      "word": "警方回应女司机酒驾撞人拖行事件",
+      "onboard_time": 1662211230,
+      "rank": 35,
+      "category": "社会负面"
     },
     {
       "raw_hot": 232492,
@@ -5531,6 +5587,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 198160,
+      "num": 198160,
+      "word": "一个韩庚拉快整个开会节奏",
+      "onboard_time": 1662211650,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 197059,
+      "num": 197059,
+      "word": "成都15岁少年踩风火轮送物资",
+      "onboard_time": 1662210988,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195881,
       "num": 195881,
       "word": "安徽警方通报六安女子失踪案告破",
@@ -5681,6 +5753,14 @@
       "onboard_time": 1662001045,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186383,
+      "num": 186383,
+      "word": "Angelababy听说很好吃白西装造型",
+      "onboard_time": 1662203608,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 186334,
@@ -6081,6 +6161,14 @@
       "onboard_time": 1662092788,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155776,
+      "num": 155776,
+      "word": "被HR追问离职可以这样回答",
+      "onboard_time": 1662211708,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 155420,
@@ -6691,8 +6779,8 @@
       "category": "军事,国内要闻"
     },
     {
-      "raw_hot": 79575,
-      "num": 1225655,
+      "raw_hot": 79620,
+      "num": 1335476,
       "word": "神十四首次出舱任务全回顾",
       "onboard_time": 1662207448,
       "rank": 2,
