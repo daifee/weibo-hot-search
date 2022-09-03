@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662187486828,
+  "endTime": 1662189603401,
   "band_list": [
     {
       "raw_hot": 6261105,
@@ -168,6 +168,14 @@
       "word": "阿根廷出现不明原因肺炎已致2人死亡",
       "onboard_time": 1661993728,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2047235,
+      "num": 2047235,
+      "word": "产妇凌晨在家晕倒呼吸停止",
+      "onboard_time": 1662186087,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -515,6 +523,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 1289401,
+      "num": 1289401,
+      "word": "招行平均月薪下降仍有5.5万元",
+      "onboard_time": 1662186565,
+      "rank": 12,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1277076,
       "num": 419401,
       "word": "世间有她易烊千玺杀青图",
@@ -600,14 +616,6 @@
       "word": "乘客衣着暴露在地铁上劈叉摆拍",
       "onboard_time": 1662113187,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1179312,
-      "num": 1179312,
-      "word": "产妇凌晨在家晕倒呼吸停止",
-      "onboard_time": 1662186087,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -713,6 +721,14 @@
       "onboard_time": 1662100405,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1053289,
+      "num": 1053289,
+      "word": "达辉律所",
+      "onboard_time": 1662187227,
+      "rank": 25,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1040151,
@@ -1563,6 +1579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 619878,
+      "num": 619878,
+      "word": "张彬彬给虞书欣拨刘海",
+      "onboard_time": 1662187287,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 619822,
       "num": 619822,
       "word": "乐华娱乐撤回IPO计划",
@@ -1755,6 +1779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 560129,
+      "num": 560129,
+      "word": "王俊凯真的好杰伦脑",
+      "onboard_time": 1662184465,
+      "rank": 11,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 559597,
       "num": 559597,
       "word": "向前冲抢冰箱的人又增加了",
@@ -1780,7 +1812,7 @@
     },
     {
       "raw_hot": 558348,
-      "num": 259295,
+      "num": 299457,
       "word": "王鹤棣100道光芒西装造型路透",
       "onboard_time": 1662184765,
       "rank": 20,
@@ -1817,14 +1849,6 @@
       "onboard_time": 1662133588,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 546573,
-      "num": 546573,
-      "word": "王俊凯真的好杰伦脑",
-      "onboard_time": 1662184465,
-      "rank": 11,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 545912,
@@ -1883,14 +1907,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 528656,
-      "num": 528656,
-      "word": "招行平均月薪下降仍有5.5万元",
-      "onboard_time": 1662186565,
-      "rank": 12,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 527613,
       "num": 413338,
       "word": "黄晓明杨幂沈腾为狼队打call",
@@ -1937,6 +1953,14 @@
       "onboard_time": 1662171924,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 517361,
+      "num": 517361,
+      "word": "女生保健品当饭吃致子宫长满肌瘤",
+      "onboard_time": 1662187767,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 511107,
@@ -2008,6 +2032,14 @@
       "word": "长沙人每7天要做一次核酸",
       "onboard_time": 1661955930,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 495597,
+      "num": 495597,
+      "word": "印度成为第五大经济体",
+      "onboard_time": 1662188490,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -2345,6 +2377,14 @@
       "onboard_time": 1662042573,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 436398,
+      "num": 436398,
+      "word": "泰勒斯威夫特Midnights",
+      "onboard_time": 1662188068,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 435607,
@@ -3363,6 +3403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 309996,
+      "num": 309996,
+      "word": "没想到这小狗竟然这么厉害",
+      "onboard_time": 1662186205,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 309556,
       "num": 309556,
       "word": "时代少年团夏令营预告08",
@@ -3433,6 +3481,14 @@
       "onboard_time": 1661999546,
       "rank": 24,
       "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 304002,
+      "num": 304002,
+      "word": "苍兰诀大婚花絮照",
+      "onboard_time": 1662189148,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 302650,
@@ -4139,6 +4195,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 249552,
+      "num": 249552,
+      "word": "沉香夫妇双双下线",
+      "onboard_time": 1662188428,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 248931,
       "num": 248931,
       "word": "苍兰诀角色号还在更新",
@@ -4153,6 +4217,14 @@
       "onboard_time": 1662104605,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 246508,
+      "num": 246508,
+      "word": "拖行",
+      "onboard_time": 1662189263,
+      "rank": 24,
+      "category": "社会负面"
     },
     {
       "raw_hot": 246449,
@@ -4233,14 +4305,6 @@
       "onboard_time": 1662039809,
       "rank": 29,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 235946,
-      "num": 235946,
-      "word": "没想到这小狗竟然这么厉害",
-      "onboard_time": 1662186205,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 235592,
@@ -4625,14 +4689,6 @@
       "onboard_time": 1662048565,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 207855,
-      "num": 207855,
-      "word": "达辉律所",
-      "onboard_time": 1662187227,
-      "rank": 25,
-      "category": "社会负面"
     },
     {
       "raw_hot": 207127,
@@ -5347,6 +5403,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 147500,
+      "num": 147500,
+      "word": "小学生坐公交写1元欠条",
+      "onboard_time": 1662188184,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146848,
       "num": 146848,
       "word": "LV回应乒乓球拍售价1.8万",
@@ -5409,6 +5473,14 @@
       "onboard_time": 1662045931,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 140257,
+      "num": 140257,
+      "word": "雅思",
+      "onboard_time": 1662188304,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 139828,
@@ -5475,14 +5547,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 136094,
-      "num": 129405,
-      "word": "张彬彬给虞书欣拨刘海",
-      "onboard_time": 1662187287,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 135147,
       "num": 135147,
       "word": "吴易昺无缘美网16强",
@@ -5521,6 +5585,14 @@
       "onboard_time": 1662074541,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131426,
+      "num": 131426,
+      "word": "余姚疫情防控",
+      "onboard_time": 1662188245,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130968,
@@ -5715,6 +5787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98458,
+      "num": 98458,
+      "word": "东航一航班因旅客吐血紧急备降",
+      "onboard_time": 1662189505,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95580,
       "num": 95580,
       "word": "这就是小兰花口中的东方青苍吧",
@@ -5729,6 +5809,14 @@
       "onboard_time": 1662103528,
       "rank": 48,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 92847,
+      "num": 92847,
+      "word": "房屋着火阿婆被困2楼百余街坊出手",
+      "onboard_time": 1662188184,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 91921,
