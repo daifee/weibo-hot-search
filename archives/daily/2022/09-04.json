@@ -1,6 +1,6 @@
 {
   "startTime": 1662222576733,
-  "endTime": 1662241005492,
+  "endTime": 1662243667950,
   "band_list": [
     {
       "raw_hot": 2498918,
@@ -355,6 +355,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 155238,
+      "num": 155238,
+      "word": "男生摘眼镜视力听力一起下降",
+      "onboard_time": 1662229035,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140809,
       "num": 140809,
       "word": "快乐的时候我是活着的",
@@ -369,14 +377,6 @@
       "onboard_time": 1662225979,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 113196,
-      "num": 113196,
-      "word": "男生摘眼镜视力听力一起下降",
-      "onboard_time": 1662229035,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108594,
@@ -435,6 +435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 49307,
+      "num": 49307,
+      "word": "国产大型太阳能无人机首飞成功",
+      "onboard_time": 1662241092,
+      "rank": 17,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 48671,
       "num": 1649168,
       "word": "神十四首次出舱任务全回顾",
@@ -459,16 +467,24 @@
       "category": "科技"
     },
     {
-      "raw_hot": 33741,
-      "num": 33741,
+      "raw_hot": 38753,
+      "num": 27800,
+      "word": "朱一龙获金鹿奖连说12个感谢",
+      "onboard_time": 1662242591,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 36378,
+      "num": 36378,
       "word": "3个动作有效缓解眼部疲劳",
       "onboard_time": 1662232332,
       "rank": 49,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26670,
-      "num": 22815,
+      "raw_hot": 31506,
+      "num": 27499,
       "word": "余墨好惨",
       "onboard_time": 1662233892,
       "rank": 31,
