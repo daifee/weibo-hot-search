@@ -1,0 +1,410 @@
+{
+  "runTime": 1662178831015,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2864562,
+        "num": 2864562,
+        "word": "成都女子3套房放11台冰箱囤货",
+        "onboard_time": 1662174505,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1923423,
+        "num": 1923423,
+        "word": "审美降级",
+        "onboard_time": 1662171142,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 14631,
+        "num": 1186746,
+        "word": "打卡2022服贸会",
+        "onboard_time": 1662121408,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1027919,
+        "num": 1027919,
+        "word": "为什么大学生的行李越来越少了",
+        "onboard_time": 1662176545,
+        "rank": 3,
+        "category": "社会议题,教育"
+      },
+      {
+        "raw_hot": 1016438,
+        "num": 1016438,
+        "word": "Karry王 Carry王",
+        "onboard_time": 1662169466,
+        "rank": 4,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 858922,
+        "num": 858922,
+        "word": "深圳新增87例阳性病例",
+        "onboard_time": 1662173003,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 820081,
+        "num": 820081,
+        "word": "东软",
+        "onboard_time": 1662131249,
+        "rank": 6,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 771597,
+        "num": 771597,
+        "word": "司机礼让校车遭后方多车鸣笛超行",
+        "onboard_time": 1662170546,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 722810,
+        "num": 722810,
+        "word": "你好星期六全员送开学寄语",
+        "onboard_time": 1662174745,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 681695,
+        "num": 681695,
+        "word": "最不想弟弟开学的是姐姐",
+        "onboard_time": 1662173425,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 667333,
+        "num": 667333,
+        "word": "四川新增本土确诊128例无症状74例",
+        "onboard_time": 1662171924,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 609121,
+        "num": 609121,
+        "word": "女子连吃数顿火锅血成牛奶色",
+        "onboard_time": 1662132865,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507910,
+        "num": 507910,
+        "word": "中国军队国际形象网宣片发布",
+        "onboard_time": 1662169165,
+        "rank": 12,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 484687,
+        "num": 484687,
+        "word": "第一次见有中铺的宿舍",
+        "onboard_time": 1662163824,
+        "rank": 13,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 441764,
+        "num": 441764,
+        "word": "中级会计",
+        "onboard_time": 1662176423,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 419148,
+        "num": 419148,
+        "word": "周杰伦五杀",
+        "onboard_time": 1662164965,
+        "rank": 15,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 394675,
+        "num": 394675,
+        "word": "朱志鑫学校宣传片独舞视频",
+        "onboard_time": 1662177564,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 388304,
+        "num": 388304,
+        "word": "沉香如屑 编剧",
+        "onboard_time": 1662177384,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 362651,
+        "num": 362651,
+        "word": "网友晒出300多人的学校男生宿舍",
+        "onboard_time": 1662171746,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335639,
+        "num": 335639,
+        "word": "长沙2米巨型稻将进入成熟期",
+        "onboard_time": 1662172704,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345499,
+        "num": 335447,
+        "word": "孟美岐橘洲音乐节舞台",
+        "onboard_time": 1662167845,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 334444,
+        "num": 334444,
+        "word": "吴易昺",
+        "onboard_time": 1662172764,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 328884,
+        "num": 328884,
+        "word": "沉香我再给你一次机会",
+        "onboard_time": 1662174505,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 322419,
+        "num": 322419,
+        "word": "4岁男孩17楼坠落奇迹生还",
+        "onboard_time": 1662165145,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316639,
+        "num": 316639,
+        "word": "苍兰夫妇亲头发花絮",
+        "onboard_time": 1662177206,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 312246,
+        "num": 312246,
+        "word": "女子发现男子深夜卧室窗外疑偷窥",
+        "onboard_time": 1662177926,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277751,
+        "num": 277751,
+        "word": "再爱就不礼貌了",
+        "onboard_time": 1662168267,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 275122,
+        "num": 275122,
+        "word": "四川致社会各界的一封信",
+        "onboard_time": 1662172045,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273926,
+        "num": 273926,
+        "word": "袁隆平爷爷的禾下乘凉不再是梦",
+        "onboard_time": 1662174265,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263555,
+        "num": 263555,
+        "word": "1945年民众得知日本投降后冲上街欢呼",
+        "onboard_time": 1662174207,
+        "rank": 29,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 309466,
+        "num": 256316,
+        "word": "王一博这就是街舞5第四期海报",
+        "onboard_time": 1662175405,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279577,
+        "num": 252223,
+        "word": "檀健次魏晨默契度",
+        "onboard_time": 1662178464,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240167,
+        "num": 240167,
+        "word": "以为失传的跳皮筋小朋友学会了",
+        "onboard_time": 1662171506,
+        "rank": 32,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 226617,
+        "num": 226617,
+        "word": "西安疫情防控",
+        "onboard_time": 1662172400,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216727,
+        "num": 216727,
+        "word": "小威",
+        "onboard_time": 1662171924,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211834,
+        "num": 211834,
+        "word": "黑龙江增67例确诊168例无症状",
+        "onboard_time": 1662168807,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208060,
+        "num": 208060,
+        "word": "星汉笑烂 月升麻花",
+        "onboard_time": 1662163404,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197998,
+        "num": 197998,
+        "word": "TF家族三代出道战",
+        "onboard_time": 1662162563,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195246,
+        "num": 195246,
+        "word": "深圳一公司要求加班不满30小时捐300",
+        "onboard_time": 1662161960,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185060,
+        "num": 185060,
+        "word": "贵阳疫情防控",
+        "onboard_time": 1662177863,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193040,
+        "num": 182235,
+        "word": "登录圆鱼洲收官",
+        "onboard_time": 1662178224,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175024,
+        "num": 175024,
+        "word": "山西朔州右玉县3.8级地震",
+        "onboard_time": 1662174146,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168585,
+        "num": 168585,
+        "word": "眼球突出并非因为长期戴眼镜",
+        "onboard_time": 1662143893,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166189,
+        "num": 166189,
+        "word": "包书皮",
+        "onboard_time": 1662162202,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166175,
+        "num": 166175,
+        "word": "赵露思直播造型",
+        "onboard_time": 1662177926,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155693,
+        "num": 155693,
+        "word": "阳光信用",
+        "onboard_time": 1662178587,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 149234,
+        "num": 149234,
+        "word": "日本签署投降书历史画面",
+        "onboard_time": 1662166525,
+        "rank": 46,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 138266,
+        "num": 138266,
+        "word": "34岁独子住院1个月花费54万病亡",
+        "onboard_time": 1662131071,
+        "rank": 47,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 134446,
+        "num": 134446,
+        "word": "马克龙称法国不做任何大国的附庸",
+        "onboard_time": 1662160517,
+        "rank": 48,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 128870,
+        "num": 128870,
+        "word": "九三胜利日大阅兵77秒高燃瞬间",
+        "onboard_time": 1662178765,
+        "rank": 49,
+        "category": "军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#直击2022年服贸会#"
+    }
+  }
+}
