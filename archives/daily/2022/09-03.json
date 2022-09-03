@@ -1,7 +1,15 @@
 {
   "startTime": 1662136351891,
-  "endTime": 1662215788407,
+  "endTime": 1662218560305,
   "band_list": [
+    {
+      "raw_hot": 3083466,
+      "num": 3083466,
+      "word": "刘德华 2亿多人",
+      "onboard_time": 1662217053,
+      "rank": 0,
+      "category": "音乐"
+    },
     {
       "raw_hot": 2949797,
       "num": 1412052,
@@ -139,8 +147,24 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1816387,
+      "num": 754072,
+      "word": "官方回应大庆孕妇就医流产事件",
+      "onboard_time": 1662213573,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1763092,
+      "num": 1763092,
+      "word": "贾玲 华仔",
+      "onboard_time": 1662215433,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1692468,
-      "num": 947463,
+      "num": 1561194,
       "word": "李好主持",
       "onboard_time": 1662214110,
       "rank": 10,
@@ -265,6 +289,14 @@
       "onboard_time": 1662169466,
       "rank": 8,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 1281510,
+      "num": 664710,
+      "word": "刘浩存传媒荣誉之夜生图",
+      "onboard_time": 1662215013,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 1265393,
@@ -547,12 +579,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 741913,
-      "num": 754072,
-      "word": "官方回应大庆孕妇就医流产事件",
-      "onboard_time": 1662213573,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 734091,
+      "num": 656802,
+      "word": "关晓彤演我吃瓜",
+      "onboard_time": 1662217595,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 725908,
@@ -651,6 +683,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 682163,
+      "num": 682163,
+      "word": "成都人个个都是时间管理高手",
+      "onboard_time": 1662215613,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 677807,
       "num": 677807,
       "word": "眼球突出并非因为长期戴眼镜",
@@ -713,6 +753,14 @@
       "onboard_time": 1662165865,
       "rank": 13,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 571809,
+      "num": 320802,
+      "word": "隐入尘烟",
+      "onboard_time": 1662216094,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 571494,
@@ -835,6 +883,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 497060,
+      "num": 497060,
+      "word": "小胖总决赛MVP",
+      "onboard_time": 1662214953,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 495056,
       "num": 495056,
       "word": "财务管理",
@@ -843,12 +899,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 494876,
-      "num": 494876,
-      "word": "刘浩存传媒荣誉之夜生图",
-      "onboard_time": 1662215013,
-      "rank": 17,
-      "category": "影视"
+      "raw_hot": 490829,
+      "num": 316572,
+      "word": "被任嘉伦密室反应笑哭了",
+      "onboard_time": 1662216633,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 489351,
@@ -939,20 +995,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 455854,
-      "num": 455854,
-      "word": "小胖总决赛MVP",
-      "onboard_time": 1662214953,
-      "rank": 18,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 453476,
       "num": 453476,
       "word": "沉香如屑番外",
       "onboard_time": 1662131009,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 453208,
+      "num": 453208,
+      "word": "杭州常态化核酸频次从7天调整为72小时",
+      "onboard_time": 1662213032,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 450223,
@@ -1089,6 +1145,14 @@
       "onboard_time": 1662193768,
       "rank": 40,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 386194,
+      "num": 202483,
+      "word": "刘雨昕错付了王濛",
+      "onboard_time": 1662218313,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 383646,
@@ -1257,14 +1321,6 @@
       "onboard_time": 1662172764,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 334740,
-      "num": 334740,
-      "word": "杭州常态化核酸频次从7天调整为72小时",
-      "onboard_time": 1662213032,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 334314,
@@ -1723,6 +1779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 254741,
+      "num": 254741,
+      "word": "Gemini线下直播总决赛",
+      "onboard_time": 1662215433,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 254371,
       "num": 254371,
       "word": "eStar状态",
@@ -1883,6 +1947,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 219280,
+      "num": 219280,
+      "word": "百米长龙抢购网红月饼或成历史",
+      "onboard_time": 1662214233,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217104,
       "num": 217104,
       "word": "幼儿园小朋友跳皮筋馋哭80后",
@@ -1907,20 +1979,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 214149,
-      "num": 214149,
-      "word": "百米长龙抢购网红月饼或成历史",
-      "onboard_time": 1662214233,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 209589,
-      "num": 209589,
-      "word": "Gemini线下直播总决赛",
-      "onboard_time": 1662215433,
-      "rank": 38,
-      "category": "游戏"
+      "raw_hot": 214443,
+      "num": 214443,
+      "word": "NASA",
+      "onboard_time": 1662217714,
+      "rank": 29,
+      "category": "科技,国外要闻"
     },
     {
       "raw_hot": 207654,
@@ -2139,14 +2203,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 157236,
-      "num": 157236,
-      "word": "成都人个个都是时间管理高手",
-      "onboard_time": 1662215613,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156717,
       "num": 156717,
       "word": "尚雯婕花木兰扮相",
@@ -2225,6 +2281,14 @@
       "onboard_time": 1662173665,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138528,
+      "num": 138528,
+      "word": "妖刀说我们也太强了吧",
+      "onboard_time": 1662215914,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 137993,
@@ -2307,6 +2371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 116482,
+      "num": 116482,
+      "word": "今屿",
+      "onboard_time": 1662218491,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 114230,
       "num": 114230,
       "word": "日本曾将台湾和大连纳入日本领土",
@@ -2339,10 +2411,26 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 108126,
+      "num": 108126,
+      "word": "快乐的时候我是活着的",
+      "onboard_time": 1662218491,
+      "rank": 46,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 98494,
       "num": 98494,
       "word": "为什么不上jiejie",
       "onboard_time": 1662117685,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 98123,
+      "num": 98123,
+      "word": "Doinb再次打拳庆祝",
+      "onboard_time": 1662218252,
       "rank": 49,
       "category": "游戏"
     },

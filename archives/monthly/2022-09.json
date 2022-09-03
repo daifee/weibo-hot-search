@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662215788407,
+  "endTime": 1662218560305,
   "band_list": [
     {
       "raw_hot": 6261105,
@@ -41,6 +41,14 @@
       "onboard_time": 1662042273,
       "rank": 0,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 3083466,
+      "num": 3083466,
+      "word": "刘德华 2亿多人",
+      "onboard_time": 1662217053,
+      "rank": 0,
+      "category": "音乐"
     },
     {
       "raw_hot": 2949797,
@@ -323,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1816387,
+      "num": 754072,
+      "word": "官方回应大庆孕妇就医流产事件",
+      "onboard_time": 1662213573,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1811553,
       "num": 1811553,
       "word": "生孩子后痛经能缓解吗",
@@ -345,6 +361,14 @@
       "onboard_time": 1662115768,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1763092,
+      "num": 1763092,
+      "word": "贾玲 华仔",
+      "onboard_time": 1662215433,
+      "rank": 4,
+      "category": "音乐"
     },
     {
       "raw_hot": 1720401,
@@ -388,7 +412,7 @@
     },
     {
       "raw_hot": 1692468,
-      "num": 947463,
+      "num": 1561194,
       "word": "李好主持",
       "onboard_time": 1662214110,
       "rank": 10,
@@ -689,6 +713,14 @@
       "onboard_time": 1662169466,
       "rank": 8,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 1281510,
+      "num": 664710,
+      "word": "刘浩存传媒荣誉之夜生图",
+      "onboard_time": 1662215013,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 1277076,
@@ -1595,20 +1627,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 741913,
-      "num": 754072,
-      "word": "官方回应大庆孕妇就医流产事件",
-      "onboard_time": 1662213573,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 735828,
       "num": 681609,
       "word": "胆小鬼",
       "onboard_time": 1662125788,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 734091,
+      "num": 656802,
+      "word": "关晓彤演我吃瓜",
+      "onboard_time": 1662217595,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 733960,
@@ -1753,6 +1785,14 @@
       "onboard_time": 1662190826,
       "rank": 13,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 682163,
+      "num": 682163,
+      "word": "成都人个个都是时间管理高手",
+      "onboard_time": 1662215613,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 680201,
@@ -2081,6 +2121,14 @@
       "onboard_time": 1661992890,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 571809,
+      "num": 320802,
+      "word": "隐入尘烟",
+      "onboard_time": 1662216094,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 571494,
@@ -2443,20 +2491,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 497060,
+      "num": 497060,
+      "word": "小胖总决赛MVP",
+      "onboard_time": 1662214953,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 495056,
       "num": 495056,
       "word": "财务管理",
       "onboard_time": 1662194007,
       "rank": 43,
       "category": "教育"
-    },
-    {
-      "raw_hot": 494876,
-      "num": 494876,
-      "word": "刘浩存传媒荣誉之夜生图",
-      "onboard_time": 1662215013,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 494726,
@@ -2481,6 +2529,14 @@
       "onboard_time": 1662088107,
       "rank": 46,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 490829,
+      "num": 316572,
+      "word": "被任嘉伦密室反应笑哭了",
+      "onboard_time": 1662216633,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 490448,
@@ -2699,14 +2755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 455854,
-      "num": 455854,
-      "word": "小胖总决赛MVP",
-      "onboard_time": 1662214953,
-      "rank": 18,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 455246,
       "num": 455246,
       "word": "国内首例婚内监护权案胜诉",
@@ -2720,6 +2768,14 @@
       "word": "九月",
       "onboard_time": 1661987600,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 453208,
+      "num": 453208,
+      "word": "杭州常态化核酸频次从7天调整为72小时",
+      "onboard_time": 1662213032,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -3209,6 +3265,14 @@
       "onboard_time": 1662014064,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 386194,
+      "num": 202483,
+      "word": "刘雨昕错付了王濛",
+      "onboard_time": 1662218313,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 385798,
@@ -3712,14 +3776,6 @@
       "word": "主播应聘被要求对口型卖产品",
       "onboard_time": 1662063071,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 334740,
-      "num": 334740,
-      "word": "杭州常态化核酸频次从7天调整为72小时",
-      "onboard_time": 1662213032,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -4939,6 +4995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 254741,
+      "num": 254741,
+      "word": "Gemini线下直播总决赛",
+      "onboard_time": 1662215433,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 254514,
       "num": 247648,
       "word": "摆渡人",
@@ -5403,6 +5467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 219280,
+      "num": 219280,
+      "word": "百米长龙抢购网红月饼或成历史",
+      "onboard_time": 1662214233,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216760,
       "num": 216760,
       "word": "冰雨火和广播剧的适配度",
@@ -5467,20 +5539,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214443,
+      "num": 214443,
+      "word": "NASA",
+      "onboard_time": 1662217714,
+      "rank": 29,
+      "category": "科技,国外要闻"
+    },
+    {
       "raw_hot": 214342,
       "num": 214342,
       "word": "jiejie上场",
       "onboard_time": 1662116487,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 214149,
-      "num": 214149,
-      "word": "百米长龙抢购网红月饼或成历史",
-      "onboard_time": 1662214233,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 213968,
@@ -5561,14 +5633,6 @@
       "onboard_time": 1662097228,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 209589,
-      "num": 209589,
-      "word": "Gemini线下直播总决赛",
-      "onboard_time": 1662215433,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 209583,
@@ -6291,14 +6355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 157236,
-      "num": 157236,
-      "word": "成都人个个都是时间管理高手",
-      "onboard_time": 1662215613,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156923,
       "num": 156923,
       "word": "陈晓时装金九封面",
@@ -6523,6 +6579,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 138528,
+      "num": 138528,
+      "word": "妖刀说我们也太强了吧",
+      "onboard_time": 1662215914,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 137993,
       "num": 137993,
       "word": "狗子头顶杀马特造型为理发店看门",
@@ -6723,6 +6787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 116482,
+      "num": 116482,
+      "word": "今屿",
+      "onboard_time": 1662218491,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 115235,
       "num": 115235,
       "word": "父亲送女儿上大学后转身抹泪",
@@ -6787,6 +6859,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108126,
+      "num": 108126,
+      "word": "快乐的时候我是活着的",
+      "onboard_time": 1662218491,
+      "rank": 46,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 106833,
       "num": 106833,
       "word": "82岁育种院士让人泪目的手",
@@ -6833,6 +6913,14 @@
       "onboard_time": 1661960668,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98123,
+      "num": 98123,
+      "word": "Doinb再次打拳庆祝",
+      "onboard_time": 1662218252,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 95580,
