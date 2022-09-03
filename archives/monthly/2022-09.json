@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662186401803,
+  "endTime": 1662187486828,
   "band_list": [
     {
       "raw_hot": 6261105,
@@ -603,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1179312,
+      "num": 1179312,
+      "word": "产妇凌晨在家晕倒呼吸停止",
+      "onboard_time": 1662186087,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1149954,
       "num": 1149954,
       "word": "苏有朋第一",
@@ -835,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 952389,
+      "num": 952389,
+      "word": "杭州一医院7天接240名开学焦虑娃",
+      "onboard_time": 1662183688,
+      "rank": 49,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 948976,
       "num": 948976,
       "word": "杜德伟第八号当铺造型",
@@ -912,6 +928,14 @@
       "word": "孟晚舟回母校都匀一中演讲",
       "onboard_time": 1662116604,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 924876,
+      "num": 924876,
+      "word": "成都核酸",
+      "onboard_time": 1662002428,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -1049,14 +1073,6 @@
       "onboard_time": 1662080247,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 861920,
-      "num": 861920,
-      "word": "杭州一医院7天接240名开学焦虑娃",
-      "onboard_time": 1662183688,
-      "rank": 49,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 858922,
@@ -1531,14 +1547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 626518,
-      "num": 626518,
-      "word": "成都核酸",
-      "onboard_time": 1662002428,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 621443,
       "num": 565753,
       "word": "沉香如屑直播",
@@ -1811,6 +1819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 546573,
+      "num": 546573,
+      "word": "王俊凯真的好杰伦脑",
+      "onboard_time": 1662184465,
+      "rank": 11,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 545912,
       "num": 1137379,
       "word": "父亲认出退伍儿子一把搂住",
@@ -1843,14 +1859,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 537058,
-      "num": 537058,
-      "word": "王俊凯真的好杰伦脑",
-      "onboard_time": 1662184465,
-      "rank": 11,
-      "category": "游戏,艺人"
-    },
-    {
       "raw_hot": 536244,
       "num": 536244,
       "word": "李健线上演唱会",
@@ -1873,6 +1881,14 @@
       "onboard_time": 1662110486,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 528656,
+      "num": 528656,
+      "word": "招行平均月薪下降仍有5.5万元",
+      "onboard_time": 1662186565,
+      "rank": 12,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 527613,
@@ -3571,6 +3587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 289437,
+      "num": 289437,
+      "word": "boystory新歌WWMV",
+      "onboard_time": 1662187346,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 289432,
       "num": 289432,
       "word": "开国少将杨永松逝世",
@@ -3592,6 +3616,14 @@
       "word": "再也忘不了颜淡应渊了",
       "onboard_time": 1662126690,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 288411,
+      "num": 288411,
+      "word": "覆流年稻田抠图",
+      "onboard_time": 1662187346,
+      "rank": 16,
       "category": "影视"
     },
     {
@@ -4203,6 +4235,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 235946,
+      "num": 235946,
+      "word": "没想到这小狗竟然这么厉害",
+      "onboard_time": 1662186205,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 235592,
       "num": 235592,
       "word": "吴易昺晋级美网32强",
@@ -4587,6 +4627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207855,
+      "num": 207855,
+      "word": "达辉律所",
+      "onboard_time": 1662187227,
+      "rank": 25,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 207127,
       "num": 207127,
       "word": "范世錡红云袍戏腔",
@@ -4611,6 +4659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206964,
+      "num": 206964,
+      "word": "石宇奇",
+      "onboard_time": 1662184287,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205797,
       "num": 132692,
       "word": "仁科 喜剧人",
@@ -4625,14 +4681,6 @@
       "onboard_time": 1661958574,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 203185,
-      "num": 203185,
-      "word": "产妇凌晨在家晕倒呼吸停止",
-      "onboard_time": 1662186087,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202185,
@@ -4673,14 +4721,6 @@
       "onboard_time": 1662134609,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 200938,
-      "num": 200938,
-      "word": "石宇奇",
-      "onboard_time": 1662184287,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 200704,
@@ -5435,6 +5475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136094,
+      "num": 129405,
+      "word": "张彬彬给虞书欣拨刘海",
+      "onboard_time": 1662187287,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 135147,
       "num": 135147,
       "word": "吴易昺无缘美网16强",
@@ -5505,6 +5553,22 @@
       "onboard_time": 1662043052,
       "rank": 49,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 129364,
+      "num": 129364,
+      "word": "冰雨火一场不寻常的雨",
+      "onboard_time": 1662186985,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128192,
+      "num": 128192,
+      "word": "饲养员如何让熊猫宝宝乖乖睡觉",
+      "onboard_time": 1662186747,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125991,

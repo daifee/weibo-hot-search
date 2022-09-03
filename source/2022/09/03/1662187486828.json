@@ -1,0 +1,410 @@
+{
+  "runTime": 1662187486828,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2166951,
+        "num": 2166951,
+        "word": "老人做核酸不愿插队众人谎称按年龄",
+        "onboard_time": 1662180805,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1220486,
+        "num": 1220486,
+        "word": "成都女子3套房放11台冰箱囤货",
+        "onboard_time": 1662174505,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11341,
+        "num": 1179846,
+        "word": "打卡2022服贸会",
+        "onboard_time": 1662121408,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1179312,
+        "num": 1179312,
+        "word": "产妇凌晨在家晕倒呼吸停止",
+        "onboard_time": 1662186087,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1016389,
+        "num": 1016389,
+        "word": "2398元礼盒里没有月饼",
+        "onboard_time": 1662183145,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1902875,
+        "num": 1009924,
+        "word": "东软",
+        "onboard_time": 1662131249,
+        "rank": 5,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 952389,
+        "num": 952389,
+        "word": "杭州一医院7天接240名开学焦虑娃",
+        "onboard_time": 1662183688,
+        "rank": 6,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 924876,
+        "num": 924876,
+        "word": "成都核酸",
+        "onboard_time": 1662186266,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 823813,
+        "num": 823813,
+        "word": "河北一学校摆桌放锤子免费碎手机",
+        "onboard_time": 1662181947,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 613759,
+        "num": 613759,
+        "word": "审美降级",
+        "onboard_time": 1662171142,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 556205,
+        "num": 556205,
+        "word": "为什么大学生的行李越来越少了",
+        "onboard_time": 1662176545,
+        "rank": 10,
+        "category": "社会议题,教育"
+      },
+      {
+        "raw_hot": 546573,
+        "num": 546573,
+        "word": "王俊凯真的好杰伦脑",
+        "onboard_time": 1662184465,
+        "rank": 11,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 528656,
+        "num": 528656,
+        "word": "招行平均月薪下降仍有5.5万元",
+        "onboard_time": 1662186565,
+        "rank": 12,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 403103,
+        "num": 403103,
+        "word": "女子发现男子深夜卧室窗外疑偷窥",
+        "onboard_time": 1662177926,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372211,
+        "num": 372211,
+        "word": "Karry王 Carry王",
+        "onboard_time": 1662169466,
+        "rank": 14,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 289437,
+        "num": 289437,
+        "word": "boystory新歌WWMV",
+        "onboard_time": 1662187346,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 288411,
+        "num": 288411,
+        "word": "覆流年稻田抠图",
+        "onboard_time": 1662187346,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 287193,
+        "num": 287193,
+        "word": "最不想弟弟开学的是姐姐",
+        "onboard_time": 1662173425,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 261843,
+        "num": 261843,
+        "word": "袁隆平爷爷的禾下乘凉不再是梦",
+        "onboard_time": 1662174265,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235946,
+        "num": 235946,
+        "word": "没想到这小狗竟然这么厉害",
+        "onboard_time": 1662186205,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 431693,
+        "num": 235669,
+        "word": "王鹤棣100道光芒西装造型路透",
+        "onboard_time": 1662184765,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 402842,
+        "num": 235287,
+        "word": "刘诗诗一念关山嘟嘴饭拍路透",
+        "onboard_time": 1662181166,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 233728,
+        "num": 233728,
+        "word": "超负荷用眼危害有多大",
+        "onboard_time": 1662179666,
+        "rank": 22,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 231274,
+        "num": 231274,
+        "word": "与君初相识恰似故人归登华策2022半年报",
+        "onboard_time": 1662180267,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228601,
+        "num": 228601,
+        "word": "成都新增本土确诊病例105例",
+        "onboard_time": 1662181225,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207855,
+        "num": 207855,
+        "word": "达辉律所",
+        "onboard_time": 1662187227,
+        "rank": 25,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 206964,
+        "num": 206964,
+        "word": "石宇奇",
+        "onboard_time": 1662184287,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205181,
+        "num": 205181,
+        "word": "网友晒出300多人的学校男生宿舍",
+        "onboard_time": 1662171746,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201321,
+        "num": 201321,
+        "word": "肖战林修崖4周年",
+        "onboard_time": 1662179845,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173683,
+        "num": 173683,
+        "word": "深圳新增87例阳性病例",
+        "onboard_time": 1662173003,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198333,
+        "num": 173678,
+        "word": "沉香如屑 编剧",
+        "onboard_time": 1662177384,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2154519,
+        "num": 173669,
+        "word": "网传谭松韵赵露思白鹿金鹰女神候选人",
+        "onboard_time": 1662185246,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196499,
+        "num": 173669,
+        "word": "花少节目组眼里的丁程鑫",
+        "onboard_time": 1662185726,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183954,
+        "num": 173658,
+        "word": "沉香我再给你一次机会",
+        "onboard_time": 1662174505,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173654,
+        "num": 173654,
+        "word": "第一次见有中铺的宿舍",
+        "onboard_time": 1662163824,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 172945,
+        "num": 172945,
+        "word": "王嘉尔Tablo合作舞台Imagine",
+        "onboard_time": 1662183025,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162017,
+        "num": 162017,
+        "word": "九三胜利日大阅兵77秒高燃瞬间",
+        "onboard_time": 1662178765,
+        "rank": 36,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 139319,
+        "num": 139319,
+        "word": "再爱就不礼貌了",
+        "onboard_time": 1662168267,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132840,
+        "num": 132840,
+        "word": "司机礼让校车遭后方多车鸣笛超行",
+        "onboard_time": 1662170546,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129466,
+        "num": 129466,
+        "word": "中国军队国际形象网宣片发布",
+        "onboard_time": 1662169165,
+        "rank": 39,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 150552,
+        "num": 129431,
+        "word": "杨幂是花少大哥",
+        "onboard_time": 1662184287,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136094,
+        "num": 129405,
+        "word": "张彬彬给虞书欣拨刘海",
+        "onboard_time": 1662187287,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129364,
+        "num": 129364,
+        "word": "冰雨火一场不寻常的雨",
+        "onboard_time": 1662186985,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128192,
+        "num": 128192,
+        "word": "饲养员如何让熊猫宝宝乖乖睡觉",
+        "onboard_time": 1662186747,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118975,
+        "num": 118975,
+        "word": "1945年民众得知日本投降后冲上街欢呼",
+        "onboard_time": 1662174207,
+        "rank": 44,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 110831,
+        "num": 110831,
+        "word": "长沙2米巨型稻将进入成熟期",
+        "onboard_time": 1662172704,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107382,
+        "num": 107382,
+        "word": "中级会计",
+        "onboard_time": 1662176423,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 105474,
+        "num": 105474,
+        "word": "贵阳疫情防控",
+        "onboard_time": 1662177863,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103527,
+        "num": 103527,
+        "word": "以为失传的跳皮筋小朋友学会了",
+        "onboard_time": 1662171506,
+        "rank": 48,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 103520,
+        "num": 103520,
+        "word": "4岁男孩17楼坠落奇迹生还",
+        "onboard_time": 1662165145,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#功勋闪耀新时代#"
+    }
+  }
+}
