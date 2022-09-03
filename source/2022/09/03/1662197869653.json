@@ -1,0 +1,410 @@
+{
+  "runTime": 1662197869653,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1424006,
+        "num": 1424006,
+        "word": "特朗普庄园搜出18份最高机密文件",
+        "onboard_time": 1662190586,
+        "rank": 0,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1116534,
+        "num": 1116534,
+        "word": "东航一航班因旅客吐血紧急备降",
+        "onboard_time": 1662189505,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10933,
+        "num": 1070185,
+        "word": "打卡2022服贸会",
+        "onboard_time": 1662121408,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1059614,
+        "num": 1059614,
+        "word": "阿根廷不明原因肺炎增至10例",
+        "onboard_time": 1662193290,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 942234,
+        "num": 942234,
+        "word": "东软回应成都核酸系统异常",
+        "onboard_time": 1662191608,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1347384,
+        "num": 909808,
+        "word": "东软",
+        "onboard_time": 1662131249,
+        "rank": 5,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 875711,
+        "num": 875711,
+        "word": "产妇凌晨在家晕倒呼吸停止",
+        "onboard_time": 1662186087,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495157,
+        "num": 495157,
+        "word": "印度成为第五大经济体",
+        "onboard_time": 1662188490,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495056,
+        "num": 495056,
+        "word": "财务管理",
+        "onboard_time": 1662194007,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 478080,
+        "num": 478080,
+        "word": "重庆公积金最高可贷120万元",
+        "onboard_time": 1662194548,
+        "rank": 9,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 2381665,
+        "num": 465168,
+        "word": "BLACKPINK成员照片遭黑客泄露",
+        "onboard_time": 1662194368,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 913440,
+        "num": 464990,
+        "word": "江西抚州发生命案已致一人死亡",
+        "onboard_time": 1662191608,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 714322,
+        "num": 459187,
+        "word": "王鹤棣叫李一桐丈母娘",
+        "onboard_time": 1662190286,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 450774,
+        "num": 450774,
+        "word": "成都女子3套房放11台冰箱囤货",
+        "onboard_time": 1662174505,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442901,
+        "num": 442901,
+        "word": "刘德华说任贤齐是世界第一等",
+        "onboard_time": 1662195627,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 414279,
+        "num": 414279,
+        "word": "古偶大婚名场面",
+        "onboard_time": 1662195328,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 408154,
+        "num": 408154,
+        "word": "女生保健品当饭吃致子宫长满肌瘤",
+        "onboard_time": 1662187767,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391708,
+        "num": 391708,
+        "word": "山东一小学迎来13对双胞胎",
+        "onboard_time": 1662193768,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 371153,
+        "num": 371153,
+        "word": "招行平均月薪下降仍有5.5万元",
+        "onboard_time": 1662186565,
+        "rank": 18,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 288493,
+        "num": 288493,
+        "word": "小男孩狂补作业笔都快写飞了",
+        "onboard_time": 1662195569,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 677390,
+        "num": 285354,
+        "word": "还以为蔡徐坤镶了牙",
+        "onboard_time": 1662197608,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 280694,
+        "num": 280694,
+        "word": "杨紫颜淡九宫格剧照",
+        "onboard_time": 1662197608,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263637,
+        "num": 263637,
+        "word": "杭州一医院7天接240名开学焦虑娃",
+        "onboard_time": 1662183688,
+        "rank": 22,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 258027,
+        "num": 258027,
+        "word": "老人做核酸不愿插队众人谎称按年龄",
+        "onboard_time": 1662180805,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254341,
+        "num": 254341,
+        "word": "2398元礼盒里没有月饼",
+        "onboard_time": 1662183145,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244296,
+        "num": 244296,
+        "word": "北京疫情发布会",
+        "onboard_time": 1662196105,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235394,
+        "num": 235394,
+        "word": "人民网评街舞5的传承与创新",
+        "onboard_time": 1662194846,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232891,
+        "num": 232891,
+        "word": "小学生坐公交写1元欠条",
+        "onboard_time": 1662188184,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230954,
+        "num": 230954,
+        "word": "张彬彬给虞书欣拨刘海",
+        "onboard_time": 1662187287,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230203,
+        "num": 230203,
+        "word": "艾热王以太婚庆歌手接单了",
+        "onboard_time": 1662194489,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211290,
+        "num": 211290,
+        "word": "成都疫情防控指挥部相关负责同志致歉",
+        "onboard_time": 1662196889,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193923,
+        "num": 193923,
+        "word": "王鹤棣听课演我",
+        "onboard_time": 1662189924,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193413,
+        "num": 193413,
+        "word": "爱吃葡萄的小熊猫",
+        "onboard_time": 1662194127,
+        "rank": 32,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 178443,
+        "num": 178443,
+        "word": "ive新歌获音中一位",
+        "onboard_time": 1662196409,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 175112,
+        "num": 175112,
+        "word": "沉香夫妇双双下线",
+        "onboard_time": 1662188428,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171357,
+        "num": 171357,
+        "word": "女子发现男子深夜卧室窗外疑偷窥",
+        "onboard_time": 1662177926,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169237,
+        "num": 169237,
+        "word": "电影妈妈",
+        "onboard_time": 1662196947,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167470,
+        "num": 167470,
+        "word": "没想到这小狗竟然这么厉害",
+        "onboard_time": 1662186205,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162827,
+        "num": 162827,
+        "word": "男子车流密集闯红灯被撞死亡负全责",
+        "onboard_time": 1662197126,
+        "rank": 38,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 161749,
+        "num": 161749,
+        "word": "中级财管",
+        "onboard_time": 1662189688,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 166560,
+        "num": 161085,
+        "word": "王一博陈宇杀青还带着伤",
+        "onboard_time": 1662193290,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165933,
+        "num": 160486,
+        "word": "吴希泽说和王俊凯对线有压力",
+        "onboard_time": 1662197548,
+        "rank": 41,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 158914,
+        "num": 158914,
+        "word": "河北一学校摆桌放锤子免费碎手机",
+        "onboard_time": 1662181947,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 149696,
+        "num": 149696,
+        "word": "狼队对战eStar",
+        "onboard_time": 1662196528,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146298,
+        "num": 146298,
+        "word": "为什么大学生的行李越来越少了",
+        "onboard_time": 1662176545,
+        "rank": 44,
+        "category": "社会议题,教育"
+      },
+      {
+        "raw_hot": 133578,
+        "num": 133578,
+        "word": "陈雨菲",
+        "onboard_time": 1662190888,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131245,
+        "num": 131245,
+        "word": "山东新增本土确诊8例无症状75例",
+        "onboard_time": 1662190227,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115723,
+        "num": 115723,
+        "word": "成都核酸",
+        "onboard_time": 1662186266,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91718,
+        "num": 91718,
+        "word": "3人组织业主聚集庆解封被拘10日",
+        "onboard_time": 1662197548,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84591,
+        "num": 84591,
+        "word": "女孩开学前补作业到崩溃",
+        "onboard_time": 1662197788,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#功勋闪耀新时代#"
+    }
+  }
+}

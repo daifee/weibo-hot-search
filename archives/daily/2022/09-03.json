@@ -1,6 +1,6 @@
 {
   "startTime": 1662136351891,
-  "endTime": 1662196867151,
+  "endTime": 1662197869653,
   "band_list": [
     {
       "raw_hot": 2900821,
@@ -99,8 +99,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1421225,
-      "num": 1421225,
+      "raw_hot": 1424006,
+      "num": 1424006,
       "word": "特朗普庄园搜出18份最高机密文件",
       "onboard_time": 1662190586,
       "rank": 8,
@@ -209,6 +209,14 @@
       "onboard_time": 1662183145,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1059614,
+      "num": 1059614,
+      "word": "阿根廷不明原因肺炎增至10例",
+      "onboard_time": 1662193290,
+      "rank": 46,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1046740,
@@ -339,14 +347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 740011,
-      "num": 740011,
-      "word": "阿根廷不明原因肺炎增至10例",
-      "onboard_time": 1662193290,
-      "rank": 46,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 722810,
       "num": 722810,
       "word": "你好星期六全员送开学寄语",
@@ -417,6 +417,14 @@
       "onboard_time": 1662143893,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 677390,
+      "num": 285354,
+      "word": "还以为蔡徐坤镶了牙",
+      "onboard_time": 1662197608,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 668209,
@@ -531,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 495056,
+      "num": 495056,
+      "word": "财务管理",
+      "onboard_time": 1662194007,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 488084,
       "num": 488084,
       "word": "网传甜美的咬痕将影视化",
@@ -563,6 +579,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 478080,
+      "num": 478080,
+      "word": "重庆公积金最高可贷120万元",
+      "onboard_time": 1662194548,
+      "rank": 47,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 476728,
       "num": 325972,
       "word": "肖战林修崖4周年",
@@ -593,6 +617,14 @@
       "onboard_time": 1662128669,
       "rank": 13,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 442901,
+      "num": 442901,
+      "word": "刘德华说任贤齐是世界第一等",
+      "onboard_time": 1662195627,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 441764,
@@ -635,20 +667,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 417741,
-      "num": 417741,
-      "word": "重庆公积金最高可贷120万元",
-      "onboard_time": 1662194548,
-      "rank": 47,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 417443,
       "num": 417443,
       "word": "山西朔州右玉县3.8级地震",
       "onboard_time": 1662174146,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 414279,
+      "num": 414279,
+      "word": "古偶大婚名场面",
+      "onboard_time": 1662195328,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 394675,
@@ -667,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 391708,
+      "num": 391708,
+      "word": "山东一小学迎来13对双胞胎",
+      "onboard_time": 1662193768,
+      "rank": 40,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 383646,
       "num": 383646,
       "word": "西安疫情防控",
@@ -680,14 +720,6 @@
       "word": "深圳中级",
       "onboard_time": 1662130950,
       "rank": 17,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 373350,
-      "num": 373350,
-      "word": "山东一小学迎来13对双胞胎",
-      "onboard_time": 1662193768,
-      "rank": 40,
       "category": "社会新闻,教育"
     },
     {
@@ -787,14 +819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 335538,
-      "num": 335538,
-      "word": "刘德华说任贤齐是世界第一等",
-      "onboard_time": 1662195627,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 335177,
       "num": 335177,
       "word": "吴易昺",
@@ -841,14 +865,6 @@
       "onboard_time": 1662113187,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 323150,
-      "num": 323150,
-      "word": "财务管理",
-      "onboard_time": 1662194007,
-      "rank": 43,
-      "category": "教育"
     },
     {
       "raw_hot": 316639,
@@ -899,14 +915,6 @@
       "category": "幽默,社会新闻"
     },
     {
-      "raw_hot": 296225,
-      "num": 296225,
-      "word": "古偶大婚名场面",
-      "onboard_time": 1662195328,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 291707,
       "num": 291707,
       "word": "TF家族三代出道战",
@@ -937,6 +945,14 @@
       "onboard_time": 1662187346,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 288493,
+      "num": 288493,
+      "word": "小男孩狂补作业笔都快写飞了",
+      "onboard_time": 1662195569,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 288411,
@@ -993,6 +1009,14 @@
       "onboard_time": 1662196409,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 280694,
+      "num": 280694,
+      "word": "杨紫颜淡九宫格剧照",
+      "onboard_time": 1662197608,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 280647,
@@ -1139,6 +1163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235394,
+      "num": 235394,
+      "word": "人民网评街舞5的传承与创新",
+      "onboard_time": 1662194846,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232478,
       "num": 232478,
       "word": "9月2日广西疫情最新通报",
@@ -1195,14 +1227,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 222149,
-      "num": 222149,
-      "word": "人民网评街舞5的传承与创新",
-      "onboard_time": 1662194846,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 219548,
       "num": 219548,
       "word": "Uzi厂长同框",
@@ -1216,6 +1240,14 @@
       "word": "幼儿园小朋友跳皮筋馋哭80后",
       "onboard_time": 1662122125,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211290,
+      "num": 211290,
+      "word": "成都疫情防控指挥部相关负责同志致歉",
+      "onboard_time": 1662196889,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -1259,12 +1291,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 196511,
-      "num": 196511,
-      "word": "小男孩狂补作业笔都快写飞了",
-      "onboard_time": 1662195569,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 193413,
+      "num": 193413,
+      "word": "爱吃葡萄的小熊猫",
+      "onboard_time": 1662194127,
+      "rank": 46,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 193040,
@@ -1273,14 +1305,6 @@
       "onboard_time": 1662178224,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 191730,
-      "num": 191730,
-      "word": "爱吃葡萄的小熊猫",
-      "onboard_time": 1662194127,
-      "rank": 46,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 191473,
@@ -1347,12 +1371,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169237,
+      "num": 169237,
+      "word": "电影妈妈",
+      "onboard_time": 1662196947,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 169159,
       "num": 169159,
       "word": "杨幂是花少大哥",
       "onboard_time": 1662184287,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165933,
+      "num": 160486,
+      "word": "吴希泽说和王俊凯对线有压力",
+      "onboard_time": 1662197548,
+      "rank": 41,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 163729,
@@ -1369,6 +1409,14 @@
       "onboard_time": 1662196528,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 162827,
+      "num": 162827,
+      "word": "男子车流密集闯红灯被撞死亡负全责",
+      "onboard_time": 1662197126,
+      "rank": 38,
+      "category": "社会负面"
     },
     {
       "raw_hot": 156717,
@@ -1561,6 +1609,22 @@
       "onboard_time": 1662188184,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 91718,
+      "num": 91718,
+      "word": "3人组织业主聚集庆解封被拘10日",
+      "onboard_time": 1662197548,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84591,
+      "num": 84591,
+      "word": "女孩开学前补作业到崩溃",
+      "onboard_time": 1662197788,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 83110,
