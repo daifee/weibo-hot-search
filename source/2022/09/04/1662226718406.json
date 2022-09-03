@@ -1,0 +1,410 @@
+{
+  "runTime": 1662226718406,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 962436,
+        "num": 962436,
+        "word": "刘德华 2亿多人",
+        "onboard_time": 1662217053,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 856834,
+        "num": 856834,
+        "word": "17岁",
+        "onboard_time": 1662219691,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 28350,
+        "num": 473740,
+        "word": "神十四首次出舱任务全回顾",
+        "onboard_time": 1662207448,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1153244,
+        "num": 468191,
+        "word": "马苏哭了",
+        "onboard_time": 1662221068,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 415924,
+        "num": 415924,
+        "word": "成都黄码",
+        "onboard_time": 1662220588,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331830,
+        "num": 331830,
+        "word": "婆婆没空伺候儿媳月子送上4斤金条",
+        "onboard_time": 1662211349,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276094,
+        "num": 276094,
+        "word": "北京海淀判定密接1177人",
+        "onboard_time": 1662218671,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234881,
+        "num": 234881,
+        "word": "成都人个个都是时间管理高手",
+        "onboard_time": 1662215613,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206078,
+        "num": 206078,
+        "word": "怎么熬过失恋低谷期",
+        "onboard_time": 1662220828,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199600,
+        "num": 199600,
+        "word": "这电动车挺丢人的",
+        "onboard_time": 1662219868,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 376851,
+        "num": 186890,
+        "word": "王鹤棣好像中了祟气",
+        "onboard_time": 1662214712,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372731,
+        "num": 185824,
+        "word": "贾玲 华仔",
+        "onboard_time": 1662215433,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 293499,
+        "num": 180971,
+        "word": "邢菲眼神戏对比",
+        "onboard_time": 1662226576,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162182,
+        "num": 162182,
+        "word": "奶奶带的狗胖如猪",
+        "onboard_time": 1662220050,
+        "rank": 13,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 156548,
+        "num": 156548,
+        "word": "清融",
+        "onboard_time": 1662208111,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 240446,
+        "num": 155317,
+        "word": "刘浩存传媒荣誉之夜生图",
+        "onboard_time": 1662215013,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135335,
+        "num": 135335,
+        "word": "Rookie泪目",
+        "onboard_time": 1662210509,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123623,
+        "num": 123623,
+        "word": "被HR追问离职可以这样回答",
+        "onboard_time": 1662211708,
+        "rank": 17,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 114490,
+        "num": 114490,
+        "word": "重庆狼队",
+        "onboard_time": 1662203787,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110510,
+        "num": 110510,
+        "word": "男子学做菜老婆急得咬牙切齿",
+        "onboard_time": 1662218609,
+        "rank": 19,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 968600,
+        "num": 110095,
+        "word": "警方介入调查娄底撞人拖行事件",
+        "onboard_time": 1662208166,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 309562,
+        "num": 109944,
+        "word": "警方回应女司机酒驾撞人拖行事件",
+        "onboard_time": 1662211230,
+        "rank": 21,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 173482,
+        "num": 109278,
+        "word": "隐入尘烟",
+        "onboard_time": 1662216094,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140650,
+        "num": 108820,
+        "word": "林志颖后援会送救命恩人礼物",
+        "onboard_time": 1662202529,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108729,
+        "num": 108729,
+        "word": "小胖总决赛MVP",
+        "onboard_time": 1662214953,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125545,
+        "num": 108138,
+        "word": "张翰杜淳吵架像分手现场",
+        "onboard_time": 1662225979,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 107088,
+        "num": 107088,
+        "word": "NASA",
+        "onboard_time": 1662217714,
+        "rank": 26,
+        "category": "科技,国外要闻"
+      },
+      {
+        "raw_hot": 104195,
+        "num": 104195,
+        "word": "上海市监局回应巴黎贝甜被罚",
+        "onboard_time": 1662208527,
+        "rank": 27,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 96285,
+        "num": 96285,
+        "word": "小说烂尾的原因找到了",
+        "onboard_time": 1662200067,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 84430,
+        "num": 95382,
+        "word": "男生军训7天捡4麻袋瓶子送奶奶",
+        "onboard_time": 1662202107,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 129097,
+        "num": 94224,
+        "word": "关晓彤演我吃瓜",
+        "onboard_time": 1662217595,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127917,
+        "num": 93524,
+        "word": "李好主持",
+        "onboard_time": 1662214110,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 118759,
+        "num": 91601,
+        "word": "覆流年",
+        "onboard_time": 1662203787,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91580,
+        "num": 91580,
+        "word": "杭州常态化核酸频次从7天调整为72小时",
+        "onboard_time": 1662213032,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89207,
+        "num": 89207,
+        "word": "Rookie连续三年无缘世界赛",
+        "onboard_time": 1662213276,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 103291,
+        "num": 89133,
+        "word": "王一博被kyoka吓怕了",
+        "onboard_time": 1662218792,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88477,
+        "num": 88477,
+        "word": "女子喜提四胞胎取名为花好月圆",
+        "onboard_time": 1662200246,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87107,
+        "num": 87107,
+        "word": "Doinb再次打拳庆祝",
+        "onboard_time": 1662218252,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 83145,
+        "num": 83145,
+        "word": "周末一个人能干嘛",
+        "onboard_time": 1662199289,
+        "rank": 38,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 81009,
+        "num": 81009,
+        "word": "Fly成功回到梦开始的地方",
+        "onboard_time": 1662219568,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 89234,
+        "num": 79689,
+        "word": "黄明昊全程跟唱怎样",
+        "onboard_time": 1662220170,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 77258,
+        "num": 77258,
+        "word": "挑战者杯",
+        "onboard_time": 1662220111,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 76384,
+        "num": 76384,
+        "word": "国家启动海洋灾害Ⅱ级应急响应",
+        "onboard_time": 1662207808,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72551,
+        "num": 72551,
+        "word": "BLACKPINK成员照片遭黑客泄露",
+        "onboard_time": 1662194368,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60869,
+        "num": 60869,
+        "word": "今屿",
+        "onboard_time": 1662218491,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 57810,
+        "num": 57810,
+        "word": "快乐的时候我是活着的",
+        "onboard_time": 1662218491,
+        "rank": 45,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 51242,
+        "num": 51242,
+        "word": "成都15岁少年踩风火轮送物资",
+        "onboard_time": 1662210988,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42966,
+        "num": 42966,
+        "word": "中俄海军舰艇炮击演练",
+        "onboard_time": 1662207509,
+        "rank": 47,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 37647,
+        "num": 37647,
+        "word": "重庆狼队冠军签名",
+        "onboard_time": 1662219568,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 36081,
+        "num": 36081,
+        "word": "百米长龙抢购网红月饼或成历史",
+        "onboard_time": 1662214233,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#功勋闪耀新时代#"
+    }
+  }
+}
