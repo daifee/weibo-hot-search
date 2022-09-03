@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662190553405,
+  "endTime": 1662193612265,
   "band_list": [
     {
       "raw_hot": 6261105,
@@ -129,6 +129,14 @@
       "onboard_time": 1662088765,
       "rank": 0,
       "category": "动漫,网红"
+    },
+    {
+      "raw_hot": 2251993,
+      "num": 2251993,
+      "word": "宝马女司机酒驾撞人后拖行伤者",
+      "onboard_time": 1662189263,
+      "rank": 0,
+      "category": "社会负面"
     },
     {
       "raw_hot": 2233361,
@@ -467,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1430704,
+      "num": 1430704,
+      "word": "王鹤棣叫李一桐丈母娘",
+      "onboard_time": 1662190286,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1419010,
       "num": 1289401,
       "word": "招行平均月薪下降仍有5.5万元",
@@ -627,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1171161,
+      "num": 1171161,
+      "word": "东航一航班因旅客吐血紧急备降",
+      "onboard_time": 1662189505,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1149954,
       "num": 1149954,
       "word": "苏有朋第一",
@@ -731,6 +755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1046740,
+      "num": 1046740,
+      "word": "印度成为第五大经济体",
+      "onboard_time": 1662188490,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1040151,
       "num": 1040151,
       "word": "央视中秋晚会第二波阵容官宣",
@@ -795,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1011556,
+      "num": 680448,
+      "word": "江西抚州发生命案已致一人死亡",
+      "onboard_time": 1662191608,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1005786,
       "num": 1005786,
       "word": "张智霖说差一点袁咏仪就不嫁我了",
@@ -849,6 +889,14 @@
       "onboard_time": 1662035190,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 963261,
+      "num": 963261,
+      "word": "特朗普庄园搜出18份最高机密文件",
+      "onboard_time": 1662190586,
+      "rank": 8,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 956639,
@@ -1179,14 +1227,6 @@
       "category": "游戏,综艺"
     },
     {
-      "raw_hot": 812017,
-      "num": 812017,
-      "word": "印度成为第五大经济体",
-      "onboard_time": 1662188490,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 806674,
       "num": 806674,
       "word": "印度首艘国产航母正式服役",
@@ -1369,6 +1409,14 @@
       "onboard_time": 1662162202,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 714651,
+      "num": 714651,
+      "word": "东软回应成都核酸系统异常",
+      "onboard_time": 1662191608,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 707805,
@@ -1579,6 +1627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 625219,
+      "num": 625219,
+      "word": "湖南娄底",
+      "onboard_time": 1662190826,
+      "rank": 13,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 621443,
       "num": 565753,
       "word": "沉香如屑直播",
@@ -1659,6 +1715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 594172,
+      "num": 594172,
+      "word": "女生保健品当饭吃致子宫长满肌瘤",
+      "onboard_time": 1662187767,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 594127,
       "num": 594127,
       "word": "王俊凯游戏ID地表最强Karry",
@@ -1672,14 +1736,6 @@
       "word": "男子抓155只壁虎后自己被抓了",
       "onboard_time": 1662049703,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 590946,
-      "num": 590946,
-      "word": "女生保健品当饭吃致子宫长满肌瘤",
-      "onboard_time": 1662187767,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -1977,14 +2033,6 @@
       "onboard_time": 1661954612,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 519930,
-      "num": 519930,
-      "word": "王鹤棣叫李一桐丈母娘",
-      "onboard_time": 1662190286,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 518649,
@@ -2395,6 +2443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 438826,
+      "num": 438826,
+      "word": "陈雨菲",
+      "onboard_time": 1662190888,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 437606,
       "num": 437606,
       "word": "JackeyLove泽丽",
@@ -2409,6 +2465,14 @@
       "onboard_time": 1662188068,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 435760,
+      "num": 435760,
+      "word": "湘ka229s",
+      "onboard_time": 1662191249,
+      "rank": 17,
+      "category": "社会负面"
     },
     {
       "raw_hot": 435607,
@@ -2787,6 +2851,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 372871,
+      "num": 372871,
+      "word": "中级财管",
+      "onboard_time": 1662189688,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 370760,
       "num": 370760,
       "word": "上海台风",
@@ -2961,14 +3033,6 @@
       "onboard_time": 1662087803,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 352641,
-      "num": 352641,
-      "word": "东航一航班因旅客吐血紧急备降",
-      "onboard_time": 1662189505,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 349464,
@@ -3739,6 +3803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 287365,
+      "num": 287365,
+      "word": "小学生坐公交写1元欠条",
+      "onboard_time": 1662188184,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 287197,
       "num": 287197,
       "word": "刘芸听到郑钧穿私服上台的反应",
@@ -3905,6 +3977,14 @@
       "onboard_time": 1662120207,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274976,
+      "num": 274976,
+      "word": "拿手好戏",
+      "onboard_time": 1662193349,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 274690,
@@ -4331,6 +4411,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 235857,
+      "num": 235857,
+      "word": "山东新增本土确诊8例无症状75例",
+      "onboard_time": 1662190227,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235592,
       "num": 235592,
       "word": "吴易昺晋级美网32强",
@@ -4457,6 +4545,14 @@
       "onboard_time": 1662106947,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 226362,
+      "num": 226362,
+      "word": "当花木兰遇上穆桂英",
+      "onboard_time": 1662192387,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 225992,
@@ -4851,14 +4947,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 196579,
-      "num": 196579,
-      "word": "小学生坐公交写1元欠条",
-      "onboard_time": 1662188184,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 195881,
       "num": 195881,
       "word": "安徽警方通报六安女子失踪案告破",
@@ -5131,14 +5219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 171797,
-      "num": 171797,
-      "word": "中级财管",
-      "onboard_time": 1662189688,
-      "rank": 29,
-      "category": "教育"
-    },
-    {
       "raw_hot": 171770,
       "num": 171770,
       "word": "Kanavi 猴子",
@@ -5232,6 +5312,14 @@
       "word": "黄大妈",
       "onboard_time": 1661956175,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 163165,
+      "num": 163165,
+      "word": "范世錡台上台下反差感",
+      "onboard_time": 1662192507,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -5507,6 +5595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140366,
+      "num": 140366,
+      "word": "王一博陈宇杀青还带着伤",
+      "onboard_time": 1662193290,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 140257,
       "num": 140257,
       "word": "雅思",
@@ -5739,6 +5835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 113179,
+      "num": 113179,
+      "word": "阿根廷不明原因肺炎增至10例",
+      "onboard_time": 1662193290,
+      "rank": 46,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 112484,
       "num": 112484,
       "word": "苏新皓中考",
@@ -5784,14 +5888,6 @@
       "word": "成都静下来齐心抗疫",
       "onboard_time": 1662057674,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 104604,
-      "num": 104604,
-      "word": "山东新增本土确诊8例无症状75例",
-      "onboard_time": 1662190227,
-      "rank": 43,
       "category": "社会新闻"
     },
     {

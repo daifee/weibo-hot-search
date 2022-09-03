@@ -1,0 +1,410 @@
+{
+  "runTime": 1662193612265,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2251993,
+        "num": 2251993,
+        "word": "宝马女司机酒驾撞人后拖行伤者",
+        "onboard_time": 1662189263,
+        "rank": 0,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1549499,
+        "num": 1549499,
+        "word": "产妇凌晨在家晕倒呼吸停止",
+        "onboard_time": 1662186087,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11850,
+        "num": 1462123,
+        "word": "打卡2022服贸会",
+        "onboard_time": 1662121408,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1430704,
+        "num": 1430704,
+        "word": "王鹤棣叫李一桐丈母娘",
+        "onboard_time": 1662190286,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1171161,
+        "num": 1171161,
+        "word": "东航一航班因旅客吐血紧急备降",
+        "onboard_time": 1662189505,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1769564,
+        "num": 1150139,
+        "word": "东软",
+        "onboard_time": 1662131249,
+        "rank": 5,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 1046740,
+        "num": 1046740,
+        "word": "印度成为第五大经济体",
+        "onboard_time": 1662188490,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 976136,
+        "num": 976136,
+        "word": "达辉律所",
+        "onboard_time": 1662187227,
+        "rank": 7,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 963261,
+        "num": 963261,
+        "word": "特朗普庄园搜出18份最高机密文件",
+        "onboard_time": 1662190586,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 714651,
+        "num": 714651,
+        "word": "东软回应成都核酸系统异常",
+        "onboard_time": 1662191608,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1011556,
+        "num": 680448,
+        "word": "江西抚州发生命案已致一人死亡",
+        "onboard_time": 1662191608,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 729747,
+        "num": 662703,
+        "word": "招行平均月薪下降仍有5.5万元",
+        "onboard_time": 1662186565,
+        "rank": 11,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 633353,
+        "num": 633353,
+        "word": "成都女子3套房放11台冰箱囤货",
+        "onboard_time": 1662174505,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 625219,
+        "num": 625219,
+        "word": "湖南娄底",
+        "onboard_time": 1662190826,
+        "rank": 13,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 594172,
+        "num": 594172,
+        "word": "女生保健品当饭吃致子宫长满肌瘤",
+        "onboard_time": 1662187767,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553098,
+        "num": 553098,
+        "word": "老人做核酸不愿插队众人谎称按年龄",
+        "onboard_time": 1662180805,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438826,
+        "num": 438826,
+        "word": "陈雨菲",
+        "onboard_time": 1662190888,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 435760,
+        "num": 435760,
+        "word": "湘ka229s",
+        "onboard_time": 1662191249,
+        "rank": 17,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 416903,
+        "num": 416903,
+        "word": "张彬彬给虞书欣拨刘海",
+        "onboard_time": 1662187287,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 377243,
+        "num": 377243,
+        "word": "杭州一医院7天接240名开学焦虑娃",
+        "onboard_time": 1662183688,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 372871,
+        "num": 372871,
+        "word": "中级财管",
+        "onboard_time": 1662189688,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 328997,
+        "num": 328997,
+        "word": "王鹤棣听课演我",
+        "onboard_time": 1662189924,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325510,
+        "num": 325510,
+        "word": "2398元礼盒里没有月饼",
+        "onboard_time": 1662183145,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301286,
+        "num": 301286,
+        "word": "泰勒斯威夫特Midnights",
+        "onboard_time": 1662188068,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 291650,
+        "num": 291650,
+        "word": "王俊凯真的好杰伦脑",
+        "onboard_time": 1662184465,
+        "rank": 24,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 287365,
+        "num": 287365,
+        "word": "小学生坐公交写1元欠条",
+        "onboard_time": 1662188184,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276775,
+        "num": 276775,
+        "word": "沉香夫妇双双下线",
+        "onboard_time": 1662188428,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274976,
+        "num": 274976,
+        "word": "拿手好戏",
+        "onboard_time": 1662193349,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264318,
+        "num": 264318,
+        "word": "成都核酸",
+        "onboard_time": 1662186266,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241840,
+        "num": 241840,
+        "word": "女子发现男子深夜卧室窗外疑偷窥",
+        "onboard_time": 1662177926,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235857,
+        "num": 235857,
+        "word": "山东新增本土确诊8例无症状75例",
+        "onboard_time": 1662190227,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230725,
+        "num": 230725,
+        "word": "河北一学校摆桌放锤子免费碎手机",
+        "onboard_time": 1662181947,
+        "rank": 31,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 226835,
+        "num": 226835,
+        "word": "为什么大学生的行李越来越少了",
+        "onboard_time": 1662176545,
+        "rank": 32,
+        "category": "社会议题,教育"
+      },
+      {
+        "raw_hot": 226362,
+        "num": 226362,
+        "word": "当花木兰遇上穆桂英",
+        "onboard_time": 1662192387,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224857,
+        "num": 224857,
+        "word": "没想到这小狗竟然这么厉害",
+        "onboard_time": 1662186205,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217994,
+        "num": 217994,
+        "word": "苍兰诀大婚花絮照",
+        "onboard_time": 1662189148,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206807,
+        "num": 206807,
+        "word": "刘诗诗一念关山嘟嘴饭拍路透",
+        "onboard_time": 1662181166,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167707,
+        "num": 167707,
+        "word": "审美降级",
+        "onboard_time": 1662171142,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163165,
+        "num": 163165,
+        "word": "范世錡台上台下反差感",
+        "onboard_time": 1662192507,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140366,
+        "num": 140366,
+        "word": "王一博陈宇杀青还带着伤",
+        "onboard_time": 1662193290,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137798,
+        "num": 137798,
+        "word": "超负荷用眼危害有多大",
+        "onboard_time": 1662179666,
+        "rank": 40,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 127101,
+        "num": 127101,
+        "word": "Karry王 Carry王",
+        "onboard_time": 1662169466,
+        "rank": 41,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 126867,
+        "num": 126867,
+        "word": "肖战林修崖4周年",
+        "onboard_time": 1662179845,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126208,
+        "num": 126208,
+        "word": "中级会计",
+        "onboard_time": 1662176423,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 121471,
+        "num": 121471,
+        "word": "袁隆平爷爷的禾下乘凉不再是梦",
+        "onboard_time": 1662174265,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117587,
+        "num": 117587,
+        "word": "余姚疫情防控",
+        "onboard_time": 1662188245,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113179,
+        "num": 113179,
+        "word": "阿根廷不明原因肺炎增至10例",
+        "onboard_time": 1662193290,
+        "rank": 46,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 110198,
+        "num": 110198,
+        "word": "最不想弟弟开学的是姐姐",
+        "onboard_time": 1662173425,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96084,
+        "num": 96084,
+        "word": "成都新增本土确诊病例105例",
+        "onboard_time": 1662181225,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88378,
+        "num": 88378,
+        "word": "深圳新增87例阳性病例",
+        "onboard_time": 1662173003,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#功勋闪耀新时代#"
+    }
+  }
+}
