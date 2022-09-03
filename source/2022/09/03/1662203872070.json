@@ -1,0 +1,410 @@
+{
+  "runTime": 1662203872070,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1928051,
+        "num": 1928051,
+        "word": "网传张彬彬将补拍青簪行",
+        "onboard_time": 1662201507,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1611548,
+        "num": 1611548,
+        "word": "女子喜提四胞胎取名为花好月圆",
+        "onboard_time": 1662200246,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10465,
+        "num": 1293397,
+        "word": "打卡2022服贸会",
+        "onboard_time": 1662121408,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 977119,
+        "num": 977119,
+        "word": "东航一航班因旅客吐血紧急备降",
+        "onboard_time": 1662189505,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 948649,
+        "num": 948649,
+        "word": "目前成都全市通信网络运行平稳",
+        "onboard_time": 1662199945,
+        "rank": 4,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 767614,
+        "num": 767614,
+        "word": "小说烂尾的原因找到了",
+        "onboard_time": 1662200067,
+        "rank": 5,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 724199,
+        "num": 724199,
+        "word": "少女时代",
+        "onboard_time": 1662202408,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 683406,
+        "num": 683406,
+        "word": "男子多次尾随女子回家偷配钥匙开门",
+        "onboard_time": 1662198387,
+        "rank": 7,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 598059,
+        "num": 598059,
+        "word": "阿根廷不明原因肺炎增至10例",
+        "onboard_time": 1662193290,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 540659,
+        "num": 540659,
+        "word": "Light身体不适",
+        "onboard_time": 1662197968,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1169345,
+        "num": 535652,
+        "word": "王一博三年间为乐华带来10.83亿收入",
+        "onboard_time": 1662198926,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 881511,
+        "num": 521287,
+        "word": "BLACKPINK成员照片遭黑客泄露",
+        "onboard_time": 1662194368,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 742502,
+        "num": 514600,
+        "word": "林志颖后援会送救命恩人礼物",
+        "onboard_time": 1662202529,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 506802,
+        "num": 506802,
+        "word": "周末一个人能干嘛",
+        "onboard_time": 1662199289,
+        "rank": 13,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 485104,
+        "num": 485104,
+        "word": "江西抚州发生命案已致一人死亡",
+        "onboard_time": 1662191608,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389263,
+        "num": 389263,
+        "word": "产妇凌晨在家晕倒呼吸停止",
+        "onboard_time": 1662186087,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382633,
+        "num": 382633,
+        "word": "18岁的大孩子卡头社死又好笑",
+        "onboard_time": 1662199406,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335762,
+        "num": 335762,
+        "word": "男生军训7天捡4麻袋瓶子送奶奶",
+        "onboard_time": 1662202107,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 320038,
+        "num": 320038,
+        "word": "虞书欣苍兰诀大结局配音vlog",
+        "onboard_time": 1662198146,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 312226,
+        "num": 312226,
+        "word": "特朗普庄园搜出18份最高机密文件",
+        "onboard_time": 1662190586,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 506148,
+        "num": 311969,
+        "word": "还以为蔡徐坤镶了牙",
+        "onboard_time": 1662197608,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 310911,
+        "num": 310911,
+        "word": "深圳新增33例阳性病例",
+        "onboard_time": 1662200907,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300252,
+        "num": 300252,
+        "word": "时代少年团哪吒练习室版",
+        "onboard_time": 1662202349,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 292778,
+        "num": 292778,
+        "word": "杨幂的嘴没人赢过",
+        "onboard_time": 1662201207,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286435,
+        "num": 286435,
+        "word": "成都疫情防控指挥部相关负责同志致歉",
+        "onboard_time": 1662196889,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274163,
+        "num": 274163,
+        "word": "王鹤棣叫李一桐丈母娘",
+        "onboard_time": 1662190286,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265971,
+        "num": 265971,
+        "word": "男子车流密集闯红灯被撞死亡负全责",
+        "onboard_time": 1662197126,
+        "rank": 26,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 254943,
+        "num": 254943,
+        "word": "贵阳核酸检测系统",
+        "onboard_time": 1662201627,
+        "rank": 27,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 250589,
+        "num": 250589,
+        "word": "小胖抢龙",
+        "onboard_time": 1662203366,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 229227,
+        "num": 229227,
+        "word": "印度成为第五大经济体",
+        "onboard_time": 1662188490,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257913,
+        "num": 228874,
+        "word": "覆流年",
+        "onboard_time": 1662203787,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225170,
+        "num": 225170,
+        "word": "古偶大婚名场面",
+        "onboard_time": 1662195328,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221736,
+        "num": 221736,
+        "word": "重庆狼队",
+        "onboard_time": 1662203787,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 220607,
+        "num": 220607,
+        "word": "你好星期六",
+        "onboard_time": 1662200187,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188793,
+        "num": 202836,
+        "word": "财务管理",
+        "onboard_time": 1662194007,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 202563,
+        "num": 202563,
+        "word": "你看懂沉香重华结局了吗",
+        "onboard_time": 1662198027,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 284877,
+        "num": 198626,
+        "word": "戈尔巴乔夫葬礼",
+        "onboard_time": 1662201446,
+        "rank": 36,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 190781,
+        "num": 190781,
+        "word": "河南新增本土确诊13例无症状40例",
+        "onboard_time": 1662200907,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185616,
+        "num": 185616,
+        "word": "重庆公积金最高可贷120万元",
+        "onboard_time": 1662194548,
+        "rank": 38,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 173163,
+        "num": 173163,
+        "word": "女生保健品当饭吃致子宫长满肌瘤",
+        "onboard_time": 1662187767,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202387,
+        "num": 169753,
+        "word": "Angelababy白西装半马尾造型",
+        "onboard_time": 1662203608,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165255,
+        "num": 165255,
+        "word": "小男孩狂补作业笔都快写飞了",
+        "onboard_time": 1662195569,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164017,
+        "num": 164017,
+        "word": "招行平均月薪下降仍有5.5万元",
+        "onboard_time": 1662186565,
+        "rank": 42,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 161662,
+        "num": 161662,
+        "word": "杭州一医院7天接240名开学焦虑娃",
+        "onboard_time": 1662183688,
+        "rank": 43,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 153655,
+        "num": 153655,
+        "word": "东软回应成都核酸系统异常",
+        "onboard_time": 1662191608,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139195,
+        "num": 139195,
+        "word": "V5对战LNG",
+        "onboard_time": 1662198087,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138958,
+        "num": 138958,
+        "word": "东软",
+        "onboard_time": 1662131249,
+        "rank": 46,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 124550,
+        "num": 124550,
+        "word": "一封匿名感谢信编号0402033095",
+        "onboard_time": 1662203308,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110005,
+        "num": 110005,
+        "word": "山东一小学迎来13对双胞胎",
+        "onboard_time": 1662193768,
+        "rank": 48,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 109145,
+        "num": 109145,
+        "word": "2398元礼盒里没有月饼",
+        "onboard_time": 1662183145,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#直击2022年服贸会#"
+    }
+  }
+}
