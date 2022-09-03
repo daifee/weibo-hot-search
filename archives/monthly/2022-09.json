@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662208689358,
+  "endTime": 1662209992314,
   "band_list": [
     {
       "raw_hot": 6261105,
@@ -59,7 +59,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2857663,
+      "raw_hot": 2881563,
       "num": 1412052,
       "word": "女子酒驾撞人拖行1公里",
       "onboard_time": 1662205949,
@@ -417,6 +417,14 @@
       "onboard_time": 1662025169,
       "rank": 47,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 1588405,
+      "num": 1588405,
+      "word": "王鹤棣虞书欣张彬彬同框",
+      "onboard_time": 1662209010,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1578096,
@@ -785,6 +793,14 @@
       "onboard_time": 1662086847,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1110449,
+      "num": 1110449,
+      "word": "警方介入调查娄底撞人拖行事件",
+      "onboard_time": 1662208166,
+      "rank": 17,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1095817,
@@ -1331,6 +1347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 817420,
+      "num": 817420,
+      "word": "清融",
+      "onboard_time": 1662208111,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 815327,
       "num": 815327,
       "word": "icon登顶",
@@ -1449,6 +1473,14 @@
       "onboard_time": 1662014129,
       "rank": 12,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 764677,
+      "num": 764677,
+      "word": "经超回应发腮",
+      "onboard_time": 1662207567,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 760302,
@@ -1761,14 +1793,6 @@
       "onboard_time": 1662014970,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 631336,
-      "num": 450911,
-      "word": "经超回应发腮",
-      "onboard_time": 1662207567,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 629884,
@@ -2131,6 +2155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 537868,
+      "num": 537868,
+      "word": "上海市监局回应巴黎贝甜被罚",
+      "onboard_time": 1662208527,
+      "rank": 48,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 536244,
       "num": 536244,
       "word": "李健线上演唱会",
@@ -2241,6 +2273,14 @@
       "onboard_time": 1662011308,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 507516,
+      "num": 507516,
+      "word": "东软撤热搜",
+      "onboard_time": 1662209128,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 505454,
@@ -2708,7 +2748,7 @@
     },
     {
       "raw_hot": 426946,
-      "num": 301789,
+      "num": 343795,
       "word": "转发这个于正",
       "onboard_time": 1662206310,
       "rank": 20,
@@ -2923,6 +2963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 398651,
+      "num": 398651,
+      "word": "中俄海军舰艇炮击演练",
+      "onboard_time": 1662207509,
+      "rank": 23,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 397348,
       "num": 397348,
       "word": "周杰伦王俊凯Uzi厂长",
@@ -3123,6 +3171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 369441,
+      "num": 369441,
+      "word": "rich状态",
+      "onboard_time": 1662208111,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 369044,
       "num": 343328,
       "word": "迟来的道歉值得被原谅吗",
@@ -3236,7 +3292,7 @@
     },
     {
       "raw_hot": 357544,
-      "num": 301559,
+      "num": 316957,
       "word": "左航正确的人生观",
       "onboard_time": 1662208230,
       "rank": 21,
@@ -3475,14 +3531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 335000,
-      "num": 335000,
-      "word": "警方介入调查娄底撞人拖行事件",
-      "onboard_time": 1662208166,
-      "rank": 17,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 334968,
       "num": 334968,
       "word": "主播应聘被要求对口型卖产品",
@@ -3699,6 +3747,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 317946,
+      "num": 317946,
+      "word": "面诊主播想提前解约需赔一千万",
+      "onboard_time": 1662205708,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 316690,
       "num": 316690,
       "word": "男子车流密集闯红灯被撞死亡负全责",
@@ -3875,14 +3931,6 @@
       "category": "幽默,教育"
     },
     {
-      "raw_hot": 303553,
-      "num": 303553,
-      "word": "面诊主播想提前解约需赔一千万",
-      "onboard_time": 1662205708,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 302650,
       "num": 302650,
       "word": "成都商超农贸市场正常营业",
@@ -3931,6 +3979,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 299254,
+      "num": 258448,
+      "word": "许光汉翻唱Beautiful",
+      "onboard_time": 1662209729,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 299116,
       "num": 299116,
       "word": "成都新增本土确诊103例",
@@ -3945,14 +4001,6 @@
       "onboard_time": 1662113666,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 299016,
-      "num": 299016,
-      "word": "中俄海军舰艇炮击演练",
-      "onboard_time": 1662207509,
-      "rank": 23,
-      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 298702,
@@ -4025,6 +4073,14 @@
       "onboard_time": 1662026490,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 293225,
+      "num": 293225,
+      "word": "Deft晋级世界赛",
+      "onboard_time": 1662209549,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 292799,
@@ -4347,6 +4403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 278031,
+      "num": 278031,
+      "word": "久诚自刀为Fly加油",
+      "onboard_time": 1662209549,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 276456,
       "num": 276456,
       "word": "龙族的开学第一天有多离谱",
@@ -4369,14 +4433,6 @@
       "onboard_time": 1662011188,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 275715,
-      "num": 275715,
-      "word": "rich状态",
-      "onboard_time": 1662208111,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 275673,
@@ -4739,6 +4795,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 252627,
+      "num": 252627,
+      "word": "国家启动海洋灾害Ⅱ级应急响应",
+      "onboard_time": 1662207808,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251493,
       "num": 251493,
       "word": "张翰王晓晨和解太费杜淳",
@@ -4881,6 +4945,14 @@
       "onboard_time": 1662039809,
       "rank": 29,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 236020,
+      "num": 236020,
+      "word": "沈阳疫情防控",
+      "onboard_time": 1662208770,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235592,
@@ -5195,14 +5267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 214972,
-      "num": 214972,
-      "word": "清融",
-      "onboard_time": 1662208111,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 214342,
       "num": 214342,
       "word": "jiejie上场",
@@ -5313,6 +5377,14 @@
       "onboard_time": 1662048565,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 207654,
+      "num": 207654,
+      "word": "王者荣耀",
+      "onboard_time": 1662208951,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 207127,
@@ -5763,6 +5835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172995,
+      "num": 172995,
+      "word": "Rookie阿卡丽",
+      "onboard_time": 1662209490,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 171770,
       "num": 171770,
       "word": "Kanavi 猴子",
@@ -5793,14 +5873,6 @@
       "onboard_time": 1662108807,
       "rank": 38,
       "category": "艺人,美食"
-    },
-    {
-      "raw_hot": 170008,
-      "num": 170008,
-      "word": "国家启动海洋灾害Ⅱ级应急响应",
-      "onboard_time": 1662207808,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 169609,
@@ -6009,14 +6081,6 @@
       "onboard_time": 1662092788,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 155805,
-      "num": 155805,
-      "word": "上海市监局回应巴黎贝甜被罚",
-      "onboard_time": 1662208527,
-      "rank": 48,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 155420,
@@ -6627,6 +6691,14 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 79575,
+      "num": 1225655,
+      "word": "神十四首次出舱任务全回顾",
+      "onboard_time": 1662207448,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 79164,
       "num": 79164,
       "word": "王一博八月份八种身份",
@@ -6697,14 +6769,6 @@
       "onboard_time": 1661988022,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 50270,
-      "num": 1114475,
-      "word": "神十四首次出舱任务全回顾",
-      "onboard_time": 1662207448,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 40941,
