@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662193612265,
+  "endTime": 1662194602065,
   "band_list": [
     {
       "raw_hot": 6261105,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2489488,
+      "num": 2251993,
+      "word": "宝马女司机酒驾撞人后拖行伤者",
+      "onboard_time": 1662189263,
+      "rank": 0,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 2462614,
       "num": 2462614,
       "word": "女子切开西瓜发现黄豆芽",
@@ -129,14 +137,6 @@
       "onboard_time": 1662088765,
       "rank": 0,
       "category": "动漫,网红"
-    },
-    {
-      "raw_hot": 2251993,
-      "num": 2251993,
-      "word": "宝马女司机酒驾撞人后拖行伤者",
-      "onboard_time": 1662189263,
-      "rank": 0,
-      "category": "社会负面"
     },
     {
       "raw_hot": 2233361,
@@ -523,6 +523,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 1346428,
+      "num": 1346428,
+      "word": "江西抚州发生命案已致一人死亡",
+      "onboard_time": 1662191608,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1343092,
       "num": 1343092,
       "word": "4岁男孩17楼坠落奇迹生还",
@@ -673,6 +681,14 @@
       "onboard_time": 1662014669,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1144708,
+      "num": 1144708,
+      "word": "特朗普庄园搜出18份最高机密文件",
+      "onboard_time": 1662190586,
+      "rank": 8,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1132921,
@@ -827,20 +843,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1011556,
-      "num": 680448,
-      "word": "江西抚州发生命案已致一人死亡",
-      "onboard_time": 1662191608,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1005786,
       "num": 1005786,
       "word": "张智霖说差一点袁咏仪就不嫁我了",
       "onboard_time": 1662108327,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1001020,
+      "num": 779589,
+      "word": "BLACKPINK成员照片遭黑客泄露",
+      "onboard_time": 1662194368,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 986954,
@@ -889,14 +905,6 @@
       "onboard_time": 1662035190,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 963261,
-      "num": 963261,
-      "word": "特朗普庄园搜出18份最高机密文件",
-      "onboard_time": 1662190586,
-      "rank": 8,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 956639,
@@ -1211,12 +1219,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 830660,
+      "num": 732803,
+      "word": "湘ka229s",
+      "onboard_time": 1662191249,
+      "rank": 17,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 823420,
       "num": 823420,
       "word": "最不想弟弟开学的是姐姐",
       "onboard_time": 1662173425,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 818864,
+      "num": 818864,
+      "word": "东软回应成都核酸系统异常",
+      "onboard_time": 1662191608,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 815327,
@@ -1411,14 +1435,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 714651,
-      "num": 714651,
-      "word": "东软回应成都核酸系统异常",
-      "onboard_time": 1662191608,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 707805,
       "num": 286414,
       "word": "刘诗诗一念关山嘟嘴饭拍路透",
@@ -1481,6 +1497,14 @@
       "onboard_time": 1662187287,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 682774,
+      "num": 682774,
+      "word": "湖南娄底",
+      "onboard_time": 1662190826,
+      "rank": 13,
+      "category": "社会负面"
     },
     {
       "raw_hot": 680201,
@@ -1625,14 +1649,6 @@
       "onboard_time": 1662102086,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 625219,
-      "num": 625219,
-      "word": "湖南娄底",
-      "onboard_time": 1662190826,
-      "rank": 13,
-      "category": "社会负面"
     },
     {
       "raw_hot": 621443,
@@ -2465,14 +2481,6 @@
       "onboard_time": 1662188068,
       "rank": 15,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 435760,
-      "num": 435760,
-      "word": "湘ka229s",
-      "onboard_time": 1662191249,
-      "rank": 17,
-      "category": "社会负面"
     },
     {
       "raw_hot": 435607,
@@ -3723,6 +3731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 291403,
+      "num": 291403,
+      "word": "艾热王以太婚庆歌手接单了",
+      "onboard_time": 1662194489,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 291276,
       "num": 291276,
       "word": "看见千万种生活",
@@ -4315,6 +4331,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 250009,
+      "num": 250009,
+      "word": "阿根廷不明原因肺炎增至10例",
+      "onboard_time": 1662193290,
+      "rank": 46,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 248931,
       "num": 248931,
       "word": "苍兰诀角色号还在更新",
@@ -4363,6 +4387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 242994,
+      "num": 242994,
+      "word": "山东新增本土确诊8例无症状75例",
+      "onboard_time": 1662190227,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242199,
       "num": 242199,
       "word": "内蒙古住建厅回应取消公摊",
@@ -4409,14 +4441,6 @@
       "onboard_time": 1662039809,
       "rank": 29,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 235857,
-      "num": 235857,
-      "word": "山东新增本土确诊8例无症状75例",
-      "onboard_time": 1662190227,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 235592,
@@ -5019,6 +5043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 191473,
+      "num": 191473,
+      "word": "范世錡台上台下反差感",
+      "onboard_time": 1662192507,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191190,
       "num": 191190,
       "word": "张家辉陈伟霆新片官宣",
@@ -5105,6 +5137,14 @@
       "onboard_time": 1661947527,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185234,
+      "num": 185234,
+      "word": "王一博陈宇杀青还带着伤",
+      "onboard_time": 1662193290,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 185074,
@@ -5200,6 +5240,14 @@
       "word": "湖南女子学院迎来首届男生",
       "onboard_time": 1661977091,
       "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 178463,
+      "num": 178463,
+      "word": "山东一小学迎来13对双胞胎",
+      "onboard_time": 1662193768,
+      "rank": 40,
       "category": "社会新闻,教育"
     },
     {
@@ -5312,14 +5360,6 @@
       "word": "黄大妈",
       "onboard_time": 1661956175,
       "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 163165,
-      "num": 163165,
-      "word": "范世錡台上台下反差感",
-      "onboard_time": 1662192507,
-      "rank": 38,
       "category": "综艺"
     },
     {
@@ -5587,20 +5627,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141104,
+      "num": 141104,
+      "word": "财务管理",
+      "onboard_time": 1662194007,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 140705,
       "num": 140705,
       "word": "这石头挺有素质",
       "onboard_time": 1662045931,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 140366,
-      "num": 140366,
-      "word": "王一博陈宇杀青还带着伤",
-      "onboard_time": 1662193290,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 140257,
@@ -5723,6 +5763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131244,
+      "num": 131244,
+      "word": "一起来听狼星语",
+      "onboard_time": 1662194247,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 130968,
       "num": 2462986,
       "word": "开学第一课",
@@ -5795,6 +5843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120439,
+      "num": 120439,
+      "word": "爱吃葡萄的小熊猫",
+      "onboard_time": 1662194127,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 119374,
       "num": 119374,
       "word": "能拼着吃的饼干",
@@ -5835,20 +5891,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 113179,
-      "num": 113179,
-      "word": "阿根廷不明原因肺炎增至10例",
-      "onboard_time": 1662193290,
-      "rank": 46,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 112484,
       "num": 112484,
       "word": "苏新皓中考",
       "onboard_time": 1661947468,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111586,
+      "num": 111586,
+      "word": "重庆公积金最高可贷120万元",
+      "onboard_time": 1662194548,
+      "rank": 47,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 111005,

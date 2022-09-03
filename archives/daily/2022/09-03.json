@@ -1,6 +1,6 @@
 {
   "startTime": 1662136351891,
-  "endTime": 1662193612265,
+  "endTime": 1662194602065,
   "band_list": [
     {
       "raw_hot": 2900821,
@@ -27,20 +27,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2489488,
+      "num": 2251993,
+      "word": "宝马女司机酒驾撞人后拖行伤者",
+      "onboard_time": 1662189263,
+      "rank": 0,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 2416374,
       "num": 2416374,
       "word": "审美降级",
       "onboard_time": 1662171142,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2251993,
-      "num": 2251993,
-      "word": "宝马女司机酒驾撞人后拖行伤者",
-      "onboard_time": 1662189263,
-      "rank": 0,
-      "category": "社会负面"
     },
     {
       "raw_hot": 2233361,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1946385,
-      "num": 1150139,
+      "num": 1160733,
       "word": "东软",
       "onboard_time": 1662131249,
       "rank": 5,
@@ -105,6 +105,14 @@
       "onboard_time": 1662176545,
       "rank": 3,
       "category": "社会议题,教育"
+    },
+    {
+      "raw_hot": 1346428,
+      "num": 1346428,
+      "word": "江西抚州发生命案已致一人死亡",
+      "onboard_time": 1662191608,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1343092,
@@ -163,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1144708,
+      "num": 1144708,
+      "word": "特朗普庄园搜出18份最高机密文件",
+      "onboard_time": 1662190586,
+      "rank": 8,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1122406,
       "num": 1122406,
       "word": "再爱就不礼貌了",
@@ -203,20 +219,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 1011556,
-      "num": 680448,
-      "word": "江西抚州发生命案已致一人死亡",
-      "onboard_time": 1662191608,
+      "raw_hot": 1001020,
+      "num": 779589,
+      "word": "BLACKPINK成员照片遭黑客泄露",
+      "onboard_time": 1662194368,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 963261,
-      "num": 963261,
-      "word": "特朗普庄园搜出18份最高机密文件",
-      "onboard_time": 1662190586,
-      "rank": 8,
-      "category": "国外要闻"
+      "category": "艺人"
     },
     {
       "raw_hot": 952389,
@@ -299,12 +307,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 830660,
+      "num": 732803,
+      "word": "湘ka229s",
+      "onboard_time": 1662191249,
+      "rank": 17,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 823420,
       "num": 823420,
       "word": "最不想弟弟开学的是姐姐",
       "onboard_time": 1662173425,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 818864,
+      "num": 818864,
+      "word": "东软回应成都核酸系统异常",
+      "onboard_time": 1662191608,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 784099,
@@ -329,14 +353,6 @@
       "onboard_time": 1662162202,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 714651,
-      "num": 714651,
-      "word": "东软回应成都核酸系统异常",
-      "onboard_time": 1662191608,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 707805,
@@ -379,6 +395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 682774,
+      "num": 682774,
+      "word": "湖南娄底",
+      "onboard_time": 1662190826,
+      "rank": 13,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 677807,
       "num": 677807,
       "word": "眼球突出并非因为长期戴眼镜",
@@ -393,14 +417,6 @@
       "onboard_time": 1662124707,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 625219,
-      "num": 625219,
-      "word": "湖南娄底",
-      "onboard_time": 1662190826,
-      "rank": 13,
-      "category": "社会负面"
     },
     {
       "raw_hot": 607086,
@@ -593,14 +609,6 @@
       "onboard_time": 1662188068,
       "rank": 15,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 435760,
-      "num": 435760,
-      "word": "湘ka229s",
-      "onboard_time": 1662191249,
-      "rank": 17,
-      "category": "社会负面"
     },
     {
       "raw_hot": 434358,
@@ -859,6 +867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 291403,
+      "num": 291403,
+      "word": "艾热王以太婚庆歌手接单了",
+      "onboard_time": 1662194489,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 290611,
       "num": 290611,
       "word": "9岁女孩得糖尿病血液似冻猪油",
@@ -1027,6 +1043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250009,
+      "num": 250009,
+      "word": "阿根廷不明原因肺炎增至10例",
+      "onboard_time": 1662193290,
+      "rank": 46,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 249945,
       "num": 186566,
       "word": "w两个世界翻拍版开机照",
@@ -1043,19 +1067,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242994,
+      "num": 242994,
+      "word": "山东新增本土确诊8例无症状75例",
+      "onboard_time": 1662190227,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240126,
       "num": 240126,
       "word": "9月2日北京新增2例本土感染者",
       "onboard_time": 1662166224,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 235857,
-      "num": 235857,
-      "word": "山东新增本土确诊8例无症状75例",
-      "onboard_time": 1662190227,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -1179,12 +1203,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191473,
+      "num": 191473,
+      "word": "范世錡台上台下反差感",
+      "onboard_time": 1662192507,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187986,
       "num": 187986,
       "word": "武汉新增确诊2例无症状9例",
       "onboard_time": 1662172045,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185234,
+      "num": 185234,
+      "word": "王一博陈宇杀青还带着伤",
+      "onboard_time": 1662193290,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 181346,
@@ -1201,6 +1241,14 @@
       "onboard_time": 1662115886,
       "rank": 35,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 178463,
+      "num": 178463,
+      "word": "山东一小学迎来13对双胞胎",
+      "onboard_time": 1662193768,
+      "rank": 40,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 177661,
@@ -1243,14 +1291,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 163165,
-      "num": 163165,
-      "word": "范世錡台上台下反差感",
-      "onboard_time": 1662192507,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 156578,
       "num": 156578,
       "word": "广州疫情防控",
@@ -1291,12 +1331,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 140366,
-      "num": 140366,
-      "word": "王一博陈宇杀青还带着伤",
-      "onboard_time": 1662193290,
-      "rank": 39,
-      "category": "影视"
+      "raw_hot": 141104,
+      "num": 141104,
+      "word": "财务管理",
+      "onboard_time": 1662194007,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 140257,
@@ -1347,6 +1387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131244,
+      "num": 131244,
+      "word": "一起来听狼星语",
+      "onboard_time": 1662194247,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 129364,
       "num": 129364,
       "word": "冰雨火一场不寻常的雨",
@@ -1379,6 +1427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 120439,
+      "num": 120439,
+      "word": "爱吃葡萄的小熊猫",
+      "onboard_time": 1662194127,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 114230,
       "num": 114230,
       "word": "日本曾将台湾和大连纳入日本领土",
@@ -1387,12 +1443,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 113179,
-      "num": 113179,
-      "word": "阿根廷不明原因肺炎增至10例",
-      "onboard_time": 1662193290,
-      "rank": 46,
-      "category": "国外要闻"
+      "raw_hot": 111586,
+      "num": 111586,
+      "word": "重庆公积金最高可贷120万元",
+      "onboard_time": 1662194548,
+      "rank": 47,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 111331,
