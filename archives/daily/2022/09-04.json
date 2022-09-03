@@ -1,6 +1,6 @@
 {
   "startTime": 1662222576733,
-  "endTime": 1662244691923,
+  "endTime": 1662247292010,
   "band_list": [
     {
       "raw_hot": 2498918,
@@ -36,11 +36,19 @@
     },
     {
       "raw_hot": 1374291,
-      "num": 370695,
+      "num": 673772,
       "word": "贾玲 华仔",
       "onboard_time": 1662215433,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1064362,
+      "num": 1064362,
+      "word": "双胞胎在肚里打架出生后浑身淤青",
+      "onboard_time": 1662246256,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 886866,
@@ -121,6 +129,14 @@
       "onboard_time": 1662203787,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 390440,
+      "num": 390440,
+      "word": "男生摘眼镜视力听力一起下降",
+      "onboard_time": 1662229035,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 378262,
@@ -259,6 +275,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 223633,
+      "num": 223633,
+      "word": "真的好想回到疫情前",
+      "onboard_time": 1662226458,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 218489,
       "num": 165017,
       "word": "玉骨遥",
@@ -273,14 +297,6 @@
       "onboard_time": 1662219568,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 210114,
-      "num": 210114,
-      "word": "男生摘眼镜视力听力一起下降",
-      "onboard_time": 1662229035,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 209448,
@@ -323,14 +339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 176059,
-      "num": 176059,
-      "word": "真的好想回到疫情前",
-      "onboard_time": 1662226458,
-      "rank": 13,
-      "category": "情感"
-    },
-    {
       "raw_hot": 168088,
       "num": 168088,
       "word": "周末一个人能干嘛",
@@ -347,12 +355,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 166201,
+      "num": 166201,
+      "word": "朱一龙获金鹿奖连说12个感谢",
+      "onboard_time": 1662242591,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 164725,
       "num": 205966,
       "word": "男生军训7天捡4麻袋瓶子送奶奶",
       "onboard_time": 1662202107,
       "rank": 29,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 163868,
+      "num": 163868,
+      "word": "娄底警方通报撞人拖行事件",
+      "onboard_time": 1662246977,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157187,
@@ -379,12 +403,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 123080,
+      "num": 105676,
+      "word": "潘玮柏唱快乐崇拜爷青回",
+      "onboard_time": 1662246256,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108594,
       "num": 108594,
       "word": "国家启动海洋灾害Ⅱ级应急响应",
       "onboard_time": 1662207808,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107279,
+      "num": 107279,
+      "word": "国产大型太阳能无人机首飞成功",
+      "onboard_time": 1662241092,
+      "rank": 17,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 91948,
@@ -395,20 +435,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91004,
+      "num": 91004,
+      "word": "3个动作有效缓解眼部疲劳",
+      "onboard_time": 1662232332,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84596,
       "num": 84596,
       "word": "中俄海军舰艇炮击演练",
       "onboard_time": 1662207509,
       "rank": 46,
       "category": "军事,国内要闻"
-    },
-    {
-      "raw_hot": 75791,
-      "num": 75791,
-      "word": "国产大型太阳能无人机首飞成功",
-      "onboard_time": 1662241092,
-      "rank": 17,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 72551,
@@ -435,14 +475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 70980,
-      "num": 50691,
-      "word": "朱一龙获金鹿奖连说12个感谢",
-      "onboard_time": 1662242591,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 67871,
       "num": 67871,
       "word": "重庆狼队冠军签名",
@@ -451,11 +483,19 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 50154,
-      "num": 50154,
-      "word": "3个动作有效缓解眼部疲劳",
-      "onboard_time": 1662232332,
-      "rank": 49,
+      "raw_hot": 62283,
+      "num": 56534,
+      "word": "余墨好惨",
+      "onboard_time": 1662233892,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 58619,
+      "num": 58619,
+      "word": "北京个别感染者未严格遵守防疫规定",
+      "onboard_time": 1662247159,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -473,14 +513,6 @@
       "onboard_time": 1662228194,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 42706,
-      "num": 32891,
-      "word": "余墨好惨",
-      "onboard_time": 1662233892,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 40673,
