@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662226718406,
+  "endTime": 1662229589042,
   "band_list": [
     {
       "raw_hot": 6261105,
@@ -7059,6 +7059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 96691,
+      "num": 96691,
+      "word": "真的好想回到疫情前",
+      "onboard_time": 1662226458,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 95580,
       "num": 95580,
       "word": "这就是小兰花口中的东方青苍吧",
@@ -7257,6 +7265,14 @@
       "onboard_time": 1662220470,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 32071,
+      "num": 32071,
+      "word": "男生摘眼镜视力听力一起下降",
+      "onboard_time": 1662229035,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27800,
