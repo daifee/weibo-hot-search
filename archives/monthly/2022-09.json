@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662296579365,
+  "endTime": 1662298423273,
   "band_list": [
     {
       "raw_hot": 6261105,
@@ -49,6 +49,14 @@
       "onboard_time": 1662042273,
       "rank": 0,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 3227611,
+      "num": 3227611,
+      "word": "90%学生被取消学籍系因游戏",
+      "onboard_time": 1662294747,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3083466,
@@ -395,6 +403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1836395,
+      "num": 1836395,
+      "word": "成都车祸",
+      "onboard_time": 1662295288,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1828497,
       "num": 1828497,
       "word": "房车情侣回应被叫停车场乞丐",
@@ -723,14 +739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1433624,
-      "num": 1433624,
-      "word": "90%学生被取消学籍系因游戏",
-      "onboard_time": 1662294747,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1430704,
       "num": 1430704,
       "word": "王鹤棣叫李一桐丈母娘",
@@ -852,7 +860,7 @@
     },
     {
       "raw_hot": 1328202,
-      "num": 530389,
+      "num": 594515,
       "word": "赵丽颖直播",
       "onboard_time": 1662295288,
       "rank": 47,
@@ -1019,6 +1027,22 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1179843,
+      "num": 1179843,
+      "word": "RNG与LNG决胜局",
+      "onboard_time": 1662297934,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 1174745,
+      "num": 1174745,
+      "word": "世界游泳冠军遭酒店救生员暴力威胁",
+      "onboard_time": 1662294089,
+      "rank": 13,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 1161602,
       "num": 1161602,
       "word": "重庆狼队",
@@ -1171,6 +1195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1050116,
+      "num": 583334,
+      "word": "白鹿直播",
+      "onboard_time": 1662293548,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1046740,
       "num": 1046740,
       "word": "印度成为第五大经济体",
@@ -1249,14 +1281,6 @@
       "onboard_time": 1662108327,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1000889,
-      "num": 1000889,
-      "word": "世界游泳冠军遭酒店救生员暴力威胁",
-      "onboard_time": 1662294089,
-      "rank": 13,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 1000206,
@@ -1827,6 +1851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 789084,
+      "num": 789084,
+      "word": "中国新闻周刊说梦华录是今年唯一爆款古偶",
+      "onboard_time": 1662294507,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 787499,
       "num": 787499,
       "word": "金世佳吻戏捏手好苏",
@@ -1857,14 +1889,6 @@
       "onboard_time": 1662133229,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 779161,
-      "num": 507987,
-      "word": "白鹿直播",
-      "onboard_time": 1662293548,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 778764,
@@ -1921,14 +1945,6 @@
       "onboard_time": 1662105628,
       "rank": 12,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 757720,
-      "num": 757720,
-      "word": "中国新闻周刊说梦华录是今年唯一爆款古偶",
-      "onboard_time": 1662294507,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 756869,
@@ -2339,14 +2355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 640936,
-      "num": 440940,
-      "word": "成都车祸",
-      "onboard_time": 1662295288,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 638868,
       "num": 638868,
       "word": "3岁女孩弄坏电视屏幕用黑笔补救",
@@ -2433,6 +2441,14 @@
       "onboard_time": 1662137065,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 606794,
+      "num": 606794,
+      "word": "苍兰夫妇闪现吻花絮",
+      "onboard_time": 1662296188,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 606234,
@@ -3107,6 +3123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 484198,
+      "num": 484198,
+      "word": "河南变身全球最大人造钻石生产地",
+      "onboard_time": 1662295107,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 482874,
       "num": 482874,
       "word": "教资报名",
@@ -3747,6 +3771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 406480,
+      "num": 406480,
+      "word": "突然就缓解了我的焦虑",
+      "onboard_time": 1662295529,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 406300,
       "num": 406300,
       "word": "广东新增79例确诊24例无症状",
@@ -4139,6 +4171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 370836,
+      "num": 367567,
+      "word": "覆流年",
+      "onboard_time": 1662032488,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 370434,
       "num": 370434,
       "word": "张角离开AG",
@@ -4177,14 +4217,6 @@
       "onboard_time": 1662100586,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 367567,
-      "num": 367567,
-      "word": "覆流年",
-      "onboard_time": 1662032488,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 365616,
@@ -4659,6 +4691,14 @@
       "category": "教育,情感"
     },
     {
+      "raw_hot": 332441,
+      "num": 322175,
+      "word": "那英撒贝宁50分钟做了3桌菜",
+      "onboard_time": 1662293427,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 331274,
       "num": 331274,
       "word": "阳光信用",
@@ -4851,6 +4891,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 318136,
+      "num": 251843,
+      "word": "李现后援会辟谣出演玫瑰的故事",
+      "onboard_time": 1662296970,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 318095,
       "num": 318095,
       "word": "北京冰雹雷电大风三预警齐发",
@@ -4915,6 +4963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 314747,
+      "num": 314747,
+      "word": "Ale",
+      "onboard_time": 1662290066,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 313739,
       "num": 313739,
       "word": "美网",
@@ -4961,14 +5017,6 @@
       "onboard_time": 1662220050,
       "rank": 17,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 311679,
-      "num": 311679,
-      "word": "Ale",
-      "onboard_time": 1662290066,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 311387,
@@ -5515,6 +5563,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 282540,
+      "num": 249329,
+      "word": "罚罪",
+      "onboard_time": 1662298234,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 282487,
       "num": 282487,
       "word": "北京43岁女子冻龄般颜值",
@@ -5529,6 +5585,14 @@
       "onboard_time": 1662079348,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281930,
+      "num": 281930,
+      "word": "林高远3比0向鹏",
+      "onboard_time": 1662297992,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 281815,
@@ -6057,14 +6121,6 @@
       "onboard_time": 1662248422,
       "rank": 48,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 255027,
-      "num": 255027,
-      "word": "突然就缓解了我的焦虑",
-      "onboard_time": 1662295529,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 254741,
@@ -6779,6 +6835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211996,
+      "num": 211996,
+      "word": "恒力石化董事长成中国女首富",
+      "onboard_time": 1662297273,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 211966,
       "num": 211966,
       "word": "一个人在外打拼有多难",
@@ -7041,14 +7105,6 @@
       "onboard_time": 1662029067,
       "rank": 37,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 200434,
-      "num": 200434,
-      "word": "河南变身全球最大人造钻石生产地",
-      "onboard_time": 1662295107,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 200014,
@@ -7371,6 +7427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184337,
+      "num": 184337,
+      "word": "是怎么忍住不跟猫玩的",
+      "onboard_time": 1662296611,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 183288,
       "num": 183288,
       "word": "张翰杜淳吵架像分手现场",
@@ -7627,6 +7691,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 166108,
+      "num": 166108,
+      "word": "陈晓吴振峰颅内过山车",
+      "onboard_time": 1662298053,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 165949,
       "num": 157699,
       "word": "向前冲整活没有瓶颈期吗",
@@ -7777,14 +7849,6 @@
       "onboard_time": 1662076349,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 158136,
-      "num": 158136,
-      "word": "苍兰夫妇闪现吻花絮",
-      "onboard_time": 1662296188,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 158076,
@@ -7979,12 +8043,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 148275,
-      "num": 148275,
-      "word": "那英撒贝宁50分钟做了3桌菜",
-      "onboard_time": 1662293427,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 147903,
+      "num": 147903,
+      "word": "林高远获世乒赛资格",
+      "onboard_time": 1662298110,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 147112,
@@ -8849,6 +8913,14 @@
       "onboard_time": 1662147550,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 15405,
+      "num": 1885962,
+      "word": "2022服贸会观展指北",
+      "onboard_time": 1662298053,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14785,
