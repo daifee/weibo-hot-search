@@ -1,6 +1,6 @@
 {
   "startTime": 1662222576733,
-  "endTime": 1662258270595,
+  "endTime": 1662260985840,
   "band_list": [
     {
       "raw_hot": 3032807,
@@ -35,6 +35,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1890323,
+      "num": 1890323,
+      "word": "律师称宝马女司机或涉故意杀人罪",
+      "onboard_time": 1662256044,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1745897,
       "num": 1745897,
       "word": "17岁",
@@ -51,7 +59,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1066044,
+      "raw_hot": 1321239,
       "num": 613334,
       "word": "欧阳娜娜发长文谈跨界艺术展",
       "onboard_time": 1662256644,
@@ -67,6 +75,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 895423,
+      "num": 895423,
+      "word": "娄底警方通报撞人拖行事件",
+      "onboard_time": 1662246977,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 886866,
       "num": 362135,
       "word": "王鹤棣好像中了祟气",
@@ -75,27 +91,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 831835,
-      "num": 831835,
-      "word": "娄底警方通报撞人拖行事件",
-      "onboard_time": 1662246977,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 743832,
       "num": 743832,
       "word": "婆婆没空伺候儿媳月子送上4斤金条",
       "onboard_time": 1662211349,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 737879,
-      "num": 737879,
-      "word": "律师称宝马女司机或涉故意杀人罪",
-      "onboard_time": 1662256044,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -129,6 +129,14 @@
       "onboard_time": 1662215013,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 662074,
+      "num": 662074,
+      "word": "男子悬崖边拍照突然抽筋坠崖",
+      "onboard_time": 1662258148,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 644539,
@@ -251,12 +259,28 @@
       "category": "科技,国外要闻"
     },
     {
+      "raw_hot": 372385,
+      "num": 372385,
+      "word": "张彬彬两个人的小森林集齐9个木",
+      "onboard_time": 1662257848,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 371591,
       "num": 371591,
       "word": "王一博大张伟街舞5同框",
       "onboard_time": 1662252084,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 370784,
+      "num": 370784,
+      "word": "医生提醒长时间用防窥膜会视疲劳",
+      "onboard_time": 1662254485,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 362168,
@@ -283,20 +307,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 342589,
-      "num": 342589,
-      "word": "医生提醒长时间用防窥膜会视疲劳",
-      "onboard_time": 1662254485,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 338091,
       "num": 338091,
       "word": "清融",
       "onboard_time": 1662208111,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 335507,
+      "num": 335507,
+      "word": "校长回应摆桌放锤子免费碎手机",
+      "onboard_time": 1662258205,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 334862,
+      "num": 334862,
+      "word": "成都新增72例确诊52例无症状",
+      "onboard_time": 1662256825,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 328762,
@@ -411,27 +443,11 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 234655,
-      "num": 234655,
-      "word": "成都新增72例确诊52例无症状",
-      "onboard_time": 1662256825,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 233438,
       "num": 233438,
       "word": "黑话律师",
       "onboard_time": 1662249744,
       "rank": 28,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 228003,
-      "num": 220828,
-      "word": "张彬彬两个人的小森林集齐9个木",
-      "onboard_time": 1662257848,
-      "rank": 30,
       "category": "影视"
     },
     {
@@ -449,6 +465,14 @@
       "onboard_time": 1662253405,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 218839,
+      "num": 218839,
+      "word": "没想到荷包蛋也能速冻",
+      "onboard_time": 1662259524,
+      "rank": 24,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 218489,
@@ -473,6 +497,14 @@
       "onboard_time": 1662247698,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 214470,
+      "num": 214470,
+      "word": "何泓姗恭喜Fly拿到冠军",
+      "onboard_time": 1662257426,
+      "rank": 25,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 210187,
@@ -531,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189594,
+      "num": 175814,
+      "word": "少女时代Gee舞台",
+      "onboard_time": 1662259467,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 185333,
       "num": 141944,
       "word": "潘玮柏唱快乐崇拜爷青回",
@@ -545,6 +585,14 @@
       "onboard_time": 1662225979,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 173144,
+      "num": 173144,
+      "word": "成都巨响",
+      "onboard_time": 1662260066,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168088,
@@ -635,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130151,
+      "num": 130151,
+      "word": "昆仑山下不冻温泉好像蓝宝石",
+      "onboard_time": 1662259348,
+      "rank": 37,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 124766,
       "num": 124766,
       "word": "滁州疫情防控",
@@ -667,12 +723,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 103679,
-      "num": 103679,
-      "word": "男子悬崖边拍照突然抽筋坠崖",
-      "onboard_time": 1662258148,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 100272,
+      "num": 100272,
+      "word": "郑钦文",
+      "onboard_time": 1662247638,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 98786,
@@ -681,14 +737,6 @@
       "onboard_time": 1662232332,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 93563,
-      "num": 93563,
-      "word": "校长回应摆桌放锤子免费碎手机",
-      "onboard_time": 1662258205,
-      "rank": 47,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 93416,
@@ -713,6 +761,14 @@
       "onboard_time": 1662207509,
       "rank": 46,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 82142,
+      "num": 82142,
+      "word": "山东新增本土确诊1例无症状78例",
+      "onboard_time": 1662259886,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72551,
@@ -787,8 +843,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 20212,
-      "num": 979224,
+      "raw_hot": 40145,
+      "num": 1375065,
       "word": "爱国主义是我们民族精神的核心",
       "onboard_time": 1662207089,
       "rank": 2,
