@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662333731199,
+  "endTime": 1662334847818,
   "band_list": [
     {
       "raw_hot": 1739706,
@@ -9,6 +9,22 @@
       "onboard_time": 1662294747,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1167359,
+      "num": 1167359,
+      "word": "4个月宝宝被爸爸鼾声吵到空气挥拳",
+      "onboard_time": 1662305731,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1080219,
+      "num": 1080219,
+      "word": "世界游泳冠军遭酒店救生员暴力威胁",
+      "onboard_time": 1662294089,
+      "rank": 27,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 992497,
@@ -27,14 +43,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 947477,
-      "num": 947477,
-      "word": "4个月宝宝被爸爸鼾声吵到空气挥拳",
-      "onboard_time": 1662305731,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 946214,
       "num": 946214,
       "word": "呼吸哥哭了",
@@ -51,12 +59,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 854377,
-      "num": 854377,
-      "word": "世界游泳冠军遭酒店救生员暴力威胁",
-      "onboard_time": 1662294089,
-      "rank": 27,
-      "category": "社会新闻,体育"
+      "raw_hot": 695382,
+      "num": 695382,
+      "word": "浙江一干部落马前沉迷当榜一大哥",
+      "onboard_time": 1662304232,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 694608,
+      "num": 694608,
+      "word": "全校536名学生视力全部5.0或以上",
+      "onboard_time": 1662326771,
+      "rank": 42,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 687530,
@@ -72,22 +88,6 @@
       "word": "女子在永辉超市买2斤猪肉花103元",
       "onboard_time": 1662290906,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 648579,
-      "num": 648579,
-      "word": "全校536名学生视力全部5.0或以上",
-      "onboard_time": 1662326771,
-      "rank": 42,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 564029,
-      "num": 564029,
-      "word": "浙江一干部落马前沉迷当榜一大哥",
-      "onboard_time": 1662304232,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -195,6 +195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 298766,
+      "num": 298766,
+      "word": "覆流年里女主的爹是箫剑",
+      "onboard_time": 1662319872,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 298652,
       "num": 298652,
       "word": "老人在小区用牵引绳抽狗疑泄愤",
@@ -235,8 +243,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 248319,
-      "num": 248319,
+      "raw_hot": 263024,
+      "num": 263024,
       "word": "那英撒贝宁50分钟做了3桌菜",
       "onboard_time": 1662293427,
       "rank": 41,
@@ -259,12 +267,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243050,
+      "num": 243050,
+      "word": "上海台风",
+      "onboard_time": 1662284364,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240119,
       "num": 240119,
       "word": "Ale",
       "onboard_time": 1662290066,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 231456,
+      "num": 231456,
+      "word": "布拉格爆发抗议反对欧盟和北约",
+      "onboard_time": 1662322212,
+      "rank": 46,
+      "category": "国外要闻,社会新闻"
+    },
+    {
+      "raw_hot": 228402,
+      "num": 228402,
+      "word": "我国已进入台风核心影响时段",
+      "onboard_time": 1662300332,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227622,
+      "num": 227622,
+      "word": "西出玉门剧组否认演员轧戏",
+      "onboard_time": 1662334221,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 226081,
@@ -291,11 +331,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 212768,
-      "num": 212768,
-      "word": "上海台风",
-      "onboard_time": 1662284364,
-      "rank": 48,
+      "raw_hot": 205109,
+      "num": 205109,
+      "word": "男子骑摩托被女友开车撞翻",
+      "onboard_time": 1662302371,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -307,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192523,
+      "num": 192523,
+      "word": "外婆首次用平板画画惊呆孙子",
+      "onboard_time": 1662292046,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190335,
       "num": 190335,
       "word": "深圳疫情防控",
@@ -315,12 +363,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 190018,
-      "num": 190018,
-      "word": "我国已进入台风核心影响时段",
-      "onboard_time": 1662300332,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 189789,
+      "num": 189789,
+      "word": "曼联3比1阿森纳",
+      "onboard_time": 1662333200,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 187530,
@@ -339,20 +387,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 184733,
-      "num": 184733,
-      "word": "布拉格爆发抗议反对欧盟和北约",
-      "onboard_time": 1662322212,
-      "rank": 46,
-      "category": "国外要闻,社会新闻"
-    },
-    {
       "raw_hot": 183951,
       "num": 183951,
       "word": "覆流年",
       "onboard_time": 1662297992,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 181665,
+      "num": 181665,
+      "word": "102岁姐姐给86岁弟弟塞红包",
+      "onboard_time": 1662333138,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180105,
@@ -363,11 +411,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 176550,
-      "num": 176550,
-      "word": "男子骑摩托被女友开车撞翻",
-      "onboard_time": 1662302371,
-      "rank": 35,
+      "raw_hot": 175934,
+      "num": 175934,
+      "word": "女子称自己复活成仙骗男网友486万",
+      "onboard_time": 1662288147,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -411,27 +459,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 149965,
-      "num": 149965,
-      "word": "外婆首次用平板画画惊呆孙子",
-      "onboard_time": 1662292046,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 149849,
-      "num": 149849,
-      "word": "曼联3比1阿森纳",
-      "onboard_time": 1662333200,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 137732,
-      "num": 137732,
-      "word": "女子称自己复活成仙骗男网友486万",
-      "onboard_time": 1662288147,
-      "rank": 46,
+      "raw_hot": 148487,
+      "num": 148487,
+      "word": "福州现巨型乌云",
+      "onboard_time": 1662315615,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -459,14 +491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 116906,
-      "num": 116906,
-      "word": "福州现巨型乌云",
-      "onboard_time": 1662315615,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 113796,
       "num": 113796,
       "word": "RNG战胜LNG",
@@ -489,6 +513,22 @@
       "onboard_time": 1662324731,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 80096,
+      "num": 80096,
+      "word": "深圳采取分级分类管控措施",
+      "onboard_time": 1662334042,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77775,
+      "num": 77775,
+      "word": "安东尼首秀破门",
+      "onboard_time": 1662333858,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 74636,
@@ -515,6 +555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 70875,
+      "num": 70875,
+      "word": "张帅无缘美网女单八强",
+      "onboard_time": 1662334762,
+      "rank": 48,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 47232,
       "num": 47232,
       "word": "新疆盐湖美如天空之镜",
@@ -523,15 +571,7 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 41538,
-      "num": 41538,
-      "word": "102岁姐姐给86岁弟弟塞红包",
-      "onboard_time": 1662333138,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30103,
+      "raw_hot": 39686,
       "num": 882344,
       "word": "2022服贸会观展指北",
       "onboard_time": 1662298053,
