@@ -1,6 +1,6 @@
 {
   "startTime": 1662222576733,
-  "endTime": 1662284274488,
+  "endTime": 1662287012291,
   "band_list": [
     {
       "raw_hot": 4005002,
@@ -91,20 +91,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1592294,
+      "num": 1592294,
+      "word": "陈奕迅孤勇者",
+      "onboard_time": 1662281246,
+      "rank": 1,
+      "category": "游戏,音乐"
+    },
+    {
       "raw_hot": 1389710,
       "num": 1389710,
       "word": "第一次见带前女友相亲的",
       "onboard_time": 1662262645,
       "rank": 3,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 1377965,
-      "num": 1377965,
-      "word": "陈奕迅孤勇者",
-      "onboard_time": 1662281246,
-      "rank": 1,
-      "category": "游戏,音乐"
     },
     {
       "raw_hot": 1376792,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1223927,
+      "num": 1223927,
+      "word": "产科医生辟谣双胞胎肚内打架",
+      "onboard_time": 1662282270,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1187430,
       "num": 1187430,
       "word": "男子在楼房腰线处浇花失足坠亡",
@@ -176,6 +184,22 @@
       "word": "贵阳新冠阳性病例累计达104例",
       "onboard_time": 1662267867,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1064880,
+      "num": 1064880,
+      "word": "陈若仪回应儿子车祸后第一句话",
+      "onboard_time": 1662285749,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 991650,
+      "num": 991650,
+      "word": "男子回农村花12万买下1200平大院",
+      "onboard_time": 1662283587,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -307,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 680175,
+      "num": 680175,
+      "word": "央视中秋晚会第三波阵容官宣",
+      "onboard_time": 1662282328,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 677890,
       "num": 677890,
       "word": "成都人个个都是时间管理高手",
@@ -321,14 +353,6 @@
       "onboard_time": 1662215013,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 653709,
-      "num": 653709,
-      "word": "产科医生辟谣双胞胎肚内打架",
-      "onboard_time": 1662282270,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 645171,
@@ -347,6 +371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 609582,
+      "num": 609582,
+      "word": "12岁男孩玩游戏花掉17万妈妈卖房",
+      "onboard_time": 1662283526,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 603157,
       "num": 603157,
       "word": "RNG",
@@ -361,14 +393,6 @@
       "onboard_time": 1662254305,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 575431,
-      "num": 575431,
-      "word": "央视中秋晚会第三波阵容官宣",
-      "onboard_time": 1662282328,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 571365,
@@ -423,6 +447,14 @@
       "num": 527108,
       "word": "娄底被撞伤者生命体征平稳",
       "onboard_time": 1662247880,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 508506,
+      "num": 508506,
+      "word": "上海台风",
+      "onboard_time": 1662284364,
       "rank": 12,
       "category": "社会新闻"
     },
@@ -505,6 +537,14 @@
       "onboard_time": 1662253349,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 423682,
+      "num": 423682,
+      "word": "张凌赫宁安如梦雪景路透",
+      "onboard_time": 1662286766,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 423282,
@@ -667,6 +707,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 360965,
+      "num": 360965,
+      "word": "网红表演生吃活蜜蜂惨变香肠嘴",
+      "onboard_time": 1662281729,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 355657,
       "num": 355657,
       "word": "没想到荷包蛋也能速冻",
@@ -691,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 349004,
+      "num": 349004,
+      "word": "退伍军人高铁伸脚挡行李箱1小时",
+      "onboard_time": 1662283228,
+      "rank": 49,
+      "category": "社会正能量,军事"
+    },
+    {
       "raw_hot": 345866,
       "num": 242027,
       "word": "关晓彤演我吃瓜",
@@ -704,6 +760,14 @@
       "word": "人体24小时血糖这样变化",
       "onboard_time": 1662276026,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 339625,
+      "num": 339625,
+      "word": "广州地铁",
+      "onboard_time": 1662285749,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -721,6 +785,22 @@
       "onboard_time": 1662256825,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 334511,
+      "num": 334511,
+      "word": "脱轨网传主演暂定刘浩存林一",
+      "onboard_time": 1662286166,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 330694,
+      "num": 330694,
+      "word": "蔡徐坤沸腾校园花絮照",
+      "onboard_time": 1662285987,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 328762,
@@ -795,14 +875,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 299297,
-      "num": 299297,
-      "word": "网红表演生吃活蜜蜂惨变香肠嘴",
-      "onboard_time": 1662281729,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 293499,
       "num": 180971,
       "word": "邢菲眼神戏对比",
@@ -827,6 +899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 279670,
+      "num": 279670,
+      "word": "小学生食堂相互模仿端餐盘走碎步慢行",
+      "onboard_time": 1662282270,
+      "rank": 43,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 279384,
       "num": 279384,
       "word": "今年中秋你想和谁一起过",
@@ -849,6 +929,14 @@
       "onboard_time": 1662210509,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 275263,
+      "num": 275263,
+      "word": "站点取消大妈逼停公交致路堵20分钟",
+      "onboard_time": 1662285928,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 270402,
@@ -955,6 +1043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 241054,
+      "num": 241054,
+      "word": "古偶最虐心名场面",
+      "onboard_time": 1662282208,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 240172,
       "num": 240172,
       "word": "小胖总决赛MVP",
@@ -1003,6 +1099,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 230740,
+      "num": 227016,
+      "word": "恋爱的夏天",
+      "onboard_time": 1662286588,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 229531,
       "num": 229531,
       "word": "海狮表演现场逃跑致商场场面失控",
@@ -1041,14 +1145,6 @@
       "onboard_time": 1662253405,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 220524,
-      "num": 220524,
-      "word": "古偶最虐心名场面",
-      "onboard_time": 1662282208,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 218489,
@@ -1123,14 +1219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 206540,
-      "num": 206540,
-      "word": "12岁男孩玩游戏花掉17万妈妈卖房",
-      "onboard_time": 1662283526,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 206361,
       "num": 206361,
       "word": "宁波教育",
@@ -1195,12 +1283,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 196536,
-      "num": 196536,
-      "word": "男子回农村花12万买下1200平大院",
-      "onboard_time": 1662283587,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 197032,
+      "num": 197032,
+      "word": "RNG先下一城",
+      "onboard_time": 1662286527,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 196262,
@@ -1209,6 +1297,14 @@
       "onboard_time": 1662270327,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193182,
+      "num": 193182,
+      "word": "管泽元",
+      "onboard_time": 1662286286,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 191543,
@@ -1355,14 +1451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156723,
-      "num": 156723,
-      "word": "小学生食堂相互模仿端餐盘走碎步慢行",
-      "onboard_time": 1662282270,
-      "rank": 43,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 154897,
       "num": 154897,
       "word": "这是用魔法拼乐高吧",
@@ -1371,20 +1459,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 154247,
-      "num": 154247,
-      "word": "退伍军人高铁伸脚挡行李箱1小时",
-      "onboard_time": 1662283228,
-      "rank": 49,
-      "category": "社会正能量,军事"
-    },
-    {
       "raw_hot": 149899,
       "num": 149899,
       "word": "辽宁新增本土确诊11例无症状113例",
       "onboard_time": 1662252626,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149358,
+      "num": 149358,
+      "word": "当人类试图和猫咪讲道理",
+      "onboard_time": 1662285447,
+      "rank": 41,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 149307,
@@ -1489,6 +1577,14 @@
       "onboard_time": 1662253168,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120461,
+      "num": 120461,
+      "word": "大一和大四立flag的区别",
+      "onboard_time": 1662286886,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 119364,
