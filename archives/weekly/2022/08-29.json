@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1662266593863,
+  "endTime": 1662269822583,
   "band_list": [
     {
       "raw_hot": 12749994,
@@ -2299,6 +2299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1012992,
+      "num": 1012992,
+      "word": "王一博没少跳本草纲目吧",
+      "onboard_time": 1662269606,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1008596,
       "num": 1008596,
       "word": "思文 程璐",
@@ -3563,6 +3571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 715954,
+      "num": 715954,
+      "word": "贵阳新冠阳性病例累计达104例",
+      "onboard_time": 1662267867,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 713850,
       "num": 713850,
       "word": "赵露思星汉灿烂收官vlog",
@@ -3993,6 +4009,14 @@
       "onboard_time": 1662040350,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 645171,
+      "num": 645171,
+      "word": "猫猫给自己染了个颜色",
+      "onboard_time": 1662264264,
+      "rank": 37,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 645157,
@@ -4779,6 +4803,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 547157,
+      "num": 521948,
+      "word": "荡平小森林",
+      "onboard_time": 1662265829,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 545912,
       "num": 1137379,
       "word": "父亲认出退伍儿子一把搂住",
@@ -4889,6 +4921,14 @@
       "onboard_time": 1662121587,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 535752,
+      "num": 535752,
+      "word": "特朗普指责拜登是国家的敌人",
+      "onboard_time": 1662263066,
+      "rank": 17,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 534544,
@@ -5353,14 +5393,6 @@
       "onboard_time": 1662034889,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 488517,
-      "num": 488517,
-      "word": "特朗普指责拜登是国家的敌人",
-      "onboard_time": 1662263066,
-      "rank": 17,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 488084,
@@ -5971,6 +6003,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 441248,
+      "num": 441248,
+      "word": "十大年度国家IP评选",
+      "onboard_time": 1662264748,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 441051,
       "num": 441051,
       "word": "奶茶店员受伤顾客跑去买药帮止血",
@@ -6168,6 +6208,14 @@
       "word": "小兰花可爱图鉴",
       "onboard_time": 1661867015,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 423282,
+      "num": 423282,
+      "word": "姜小果齐颂在一起了",
+      "onboard_time": 1662265227,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -6513,14 +6561,6 @@
       "onboard_time": 1661747613,
       "rank": 32,
       "category": "网红"
-    },
-    {
-      "raw_hot": 399909,
-      "num": 399909,
-      "word": "姜小果齐颂在一起了",
-      "onboard_time": 1662265227,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 399808,
@@ -6929,14 +6969,6 @@
       "onboard_time": 1661763631,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 378973,
-      "num": 378973,
-      "word": "荡平小森林",
-      "onboard_time": 1662265829,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 378456,
@@ -7505,6 +7537,14 @@
       "onboard_time": 1662091707,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 349354,
+      "num": 349354,
+      "word": "两个人的小森林",
+      "onboard_time": 1662267748,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 349293,
@@ -8409,14 +8449,6 @@
       "onboard_time": 1662200907,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 310772,
-      "num": 310772,
-      "word": "猫猫给自己染了个颜色",
-      "onboard_time": 1662264264,
-      "rank": 37,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 310463,
@@ -10387,6 +10419,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 238810,
+      "num": 238810,
+      "word": "老人两天没出门邻居翻墙救人",
+      "onboard_time": 1662267268,
+      "rank": 19,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 238286,
       "num": 238286,
       "word": "狼星夏决纪录片",
@@ -10412,7 +10452,7 @@
     },
     {
       "raw_hot": 237216,
-      "num": 194046,
+      "num": 229382,
       "word": "张含韵cos紫霞仙子",
       "onboard_time": 1662265525,
       "rank": 47,
@@ -10464,6 +10504,14 @@
       "word": "武汉新增本土无症状15例",
       "onboard_time": 1662083725,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234219,
+      "num": 234219,
+      "word": "北大数学天才还俗后称必须面对加班",
+      "onboard_time": 1662269245,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -10529,6 +10577,14 @@
       "onboard_time": 1661927907,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 231180,
+      "num": 231180,
+      "word": "光与夜之恋",
+      "onboard_time": 1662266428,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 230705,
@@ -11091,14 +11147,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 210995,
-      "num": 210995,
-      "word": "光与夜之恋",
-      "onboard_time": 1662266428,
-      "rank": 27,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 210873,
       "num": 210873,
       "word": "沉香如屑把睫毛许愿玩明白了",
@@ -11233,6 +11281,14 @@
       "onboard_time": 1662048565,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 208150,
+      "num": 185360,
+      "word": "江湖流",
+      "onboard_time": 1662267449,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 207868,
@@ -11859,6 +11915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 187369,
+      "num": 187369,
+      "word": "海狮表演现场逃跑致商场场面失控",
+      "onboard_time": 1662268345,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186818,
       "num": 186818,
       "word": "重庆增11例本土确诊",
@@ -11889,14 +11953,6 @@
       "onboard_time": 1662010293,
       "rank": 44,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 186283,
-      "num": 186283,
-      "word": "十大年度国家IP评选",
-      "onboard_time": 1662264748,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 185858,
@@ -12851,6 +12907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142572,
+      "num": 136873,
+      "word": "网友千字长文评沉香如屑",
+      "onboard_time": 1662263125,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 142498,
       "num": 139703,
       "word": "隐入尘烟 真实",
@@ -13419,6 +13483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110611,
+      "num": 110611,
+      "word": "左右NG生死战",
+      "onboard_time": 1662269425,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 110421,
       "num": 110421,
       "word": "这麻婆豆腐也太费米饭了",
@@ -13665,6 +13737,22 @@
       "onboard_time": 1661824889,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88269,
+      "num": 88269,
+      "word": "查理苏新卡",
+      "onboard_time": 1662267810,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 88235,
+      "num": 88235,
+      "word": "林高远3比1袁励岑",
+      "onboard_time": 1662268648,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 87920,
@@ -14156,6 +14244,9 @@
     },
     {
       "word": "#闪耀吧中华文明#"
+    },
+    {
+      "word": "#国之功勋国礼崇之#"
     }
   ]
 }

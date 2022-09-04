@@ -1,0 +1,410 @@
+{
+  "runTime": 1662269822583,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1928694,
+        "num": 1928694,
+        "word": "成都巨响",
+        "onboard_time": 1662260066,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1161992,
+        "num": 1161992,
+        "word": "双胞胎在肚里打架出生后浑身淤青",
+        "onboard_time": 1662246256,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9538,
+        "num": 1081317,
+        "word": "神十四首次出舱任务全回顾",
+        "onboard_time": 1662207448,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1012992,
+        "num": 1012992,
+        "word": "王一博没少跳本草纲目吧",
+        "onboard_time": 1662269606,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 864682,
+        "num": 864682,
+        "word": "第一次见带前女友相亲的",
+        "onboard_time": 1662262645,
+        "rank": 4,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 715954,
+        "num": 715954,
+        "word": "贵阳新冠阳性病例累计达104例",
+        "onboard_time": 1662267867,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 697342,
+        "num": 697342,
+        "word": "虞书欣前有小兰花后有虞美人",
+        "onboard_time": 1662264867,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 645171,
+        "num": 645171,
+        "word": "猫猫给自己染了个颜色",
+        "onboard_time": 1662264264,
+        "rank": 7,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 551677,
+        "num": 551677,
+        "word": "深圳黄码",
+        "onboard_time": 1662262043,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 535752,
+        "num": 535752,
+        "word": "特朗普指责拜登是国家的敌人",
+        "onboard_time": 1662263066,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 547157,
+        "num": 521948,
+        "word": "荡平小森林",
+        "onboard_time": 1662265829,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 488116,
+        "num": 488116,
+        "word": "律师称宝马女司机或涉故意杀人罪",
+        "onboard_time": 1662256044,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460575,
+        "num": 460575,
+        "word": "成都疫情防控",
+        "onboard_time": 1662255504,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441248,
+        "num": 441248,
+        "word": "十大年度国家IP评选",
+        "onboard_time": 1662264748,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423282,
+        "num": 423282,
+        "word": "姜小果齐颂在一起了",
+        "onboard_time": 1662265227,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 406599,
+        "num": 406599,
+        "word": "男子悬崖边拍照突然抽筋坠崖",
+        "onboard_time": 1662258148,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387624,
+        "num": 387624,
+        "word": "欧阳娜娜发长文谈跨界艺术展",
+        "onboard_time": 1662256644,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349354,
+        "num": 349354,
+        "word": "两个人的小森林",
+        "onboard_time": 1662267748,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 324494,
+        "num": 324494,
+        "word": "医生提醒长时间用防窥膜会视疲劳",
+        "onboard_time": 1662254485,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238810,
+        "num": 238810,
+        "word": "老人两天没出门邻居翻墙救人",
+        "onboard_time": 1662267268,
+        "rank": 19,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 515828,
+        "num": 237834,
+        "word": "马伯庸偷偷藏不住最大受害者",
+        "onboard_time": 1662262705,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 234219,
+        "num": 234219,
+        "word": "北大数学天才还俗后称必须面对加班",
+        "onboard_time": 1662269245,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232285,
+        "num": 232285,
+        "word": "爱情发生在三天后大结局",
+        "onboard_time": 1662263368,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231180,
+        "num": 231180,
+        "word": "光与夜之恋",
+        "onboard_time": 1662266428,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 229382,
+        "num": 229382,
+        "word": "张含韵cos紫霞仙子",
+        "onboard_time": 1662265525,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223856,
+        "num": 223856,
+        "word": "娄底警方通报撞人拖行事件",
+        "onboard_time": 1662246977,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210925,
+        "num": 210925,
+        "word": "校长回应摆桌放锤子免费碎手机",
+        "onboard_time": 1662258205,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 188454,
+        "num": 188454,
+        "word": "小偷入室盗窃从屋主怀中拿包",
+        "onboard_time": 1662261387,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187447,
+        "num": 187447,
+        "word": "清融哭了",
+        "onboard_time": 1662263907,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 187369,
+        "num": 187369,
+        "word": "海狮表演现场逃跑致商场场面失控",
+        "onboard_time": 1662268345,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208150,
+        "num": 185360,
+        "word": "江湖流",
+        "onboard_time": 1662267449,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178426,
+        "num": 178426,
+        "word": "午休时间小学教室1秒变身",
+        "onboard_time": 1662261626,
+        "rank": 31,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 174937,
+        "num": 174937,
+        "word": "TF家族新歌写给他们的歌",
+        "onboard_time": 1662264088,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 168600,
+        "num": 168600,
+        "word": "成都新增72例确诊52例无症状",
+        "onboard_time": 1662256825,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168457,
+        "num": 168457,
+        "word": "金世佳新剧谈恋爱好被动",
+        "onboard_time": 1662264985,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154819,
+        "num": 154819,
+        "word": "娄底被撞伤者生命体征平稳",
+        "onboard_time": 1662247880,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147551,
+        "num": 147551,
+        "word": "刘德华 2亿多人",
+        "onboard_time": 1662217053,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 145875,
+        "num": 145875,
+        "word": "没想到荷包蛋也能速冻",
+        "onboard_time": 1662259524,
+        "rank": 37,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 138783,
+        "num": 138783,
+        "word": "两名退伍兵57秒狂奔11节车厢救人",
+        "onboard_time": 1662251907,
+        "rank": 38,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 138697,
+        "num": 138697,
+        "word": "老人赶2条狗拉车撞上宝马",
+        "onboard_time": 1662253349,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142572,
+        "num": 136873,
+        "word": "网友千字长文评沉香如屑",
+        "onboard_time": 1662263125,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140039,
+        "num": 136392,
+        "word": "蔡徐坤说热爱你热爱的就够了",
+        "onboard_time": 1662262163,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133798,
+        "num": 133798,
+        "word": "山东新增本土确诊1例无症状78例",
+        "onboard_time": 1662259886,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125173,
+        "num": 125173,
+        "word": "阴阳师",
+        "onboard_time": 1662267986,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111914,
+        "num": 111914,
+        "word": "广东新增79例确诊24例无症状",
+        "onboard_time": 1662255564,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110611,
+        "num": 110611,
+        "word": "左右NG生死战",
+        "onboard_time": 1662269425,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 97727,
+        "num": 97727,
+        "word": "很需要这种朝九晚五的友情",
+        "onboard_time": 1662251063,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 90625,
+        "num": 90625,
+        "word": "北大数学天才柳智宇下山还俗",
+        "onboard_time": 1662254305,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88269,
+        "num": 88269,
+        "word": "查理苏新卡",
+        "onboard_time": 1662267810,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 88235,
+        "num": 88235,
+        "word": "林高远3比1袁励岑",
+        "onboard_time": 1662268648,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#国之功勋国礼崇之#"
+    }
+  }
+}
