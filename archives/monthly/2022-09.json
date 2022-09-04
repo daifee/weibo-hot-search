@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662316989430,
+  "endTime": 1662319064975,
   "band_list": [
     {
       "raw_hot": 6261105,
@@ -9195,6 +9195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56590,
+      "num": 56590,
+      "word": "福州现巨型乌云",
+      "onboard_time": 1662315615,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47444,
       "num": 2813227,
       "word": "2022服贸会观展指北",
@@ -9233,14 +9241,6 @@
       "onboard_time": 1662207089,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 30109,
-      "num": 30109,
-      "word": "福州现巨型乌云",
-      "onboard_time": 1662315615,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27800,
