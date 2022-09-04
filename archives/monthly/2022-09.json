@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662260985840,
+  "endTime": 1662265571699,
   "band_list": [
     {
       "raw_hot": 6261105,
@@ -97,6 +97,14 @@
       "onboard_time": 1662091829,
       "rank": 1,
       "category": "其它"
+    },
+    {
+      "raw_hot": 2719923,
+      "num": 2719923,
+      "word": "成都巨响",
+      "onboard_time": 1662260066,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2629328,
@@ -899,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1139434,
+      "num": 258376,
+      "word": "马伯庸偷偷藏不住最大受害者",
+      "onboard_time": 1662262705,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1132921,
       "num": 1132921,
       "word": "4500岁的打工人如何挣到1万个亿",
@@ -913,6 +929,14 @@
       "onboard_time": 1662020729,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1122925,
+      "num": 1122925,
+      "word": "第一次见带前女友相亲的",
+      "onboard_time": 1662262645,
+      "rank": 3,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 1122406,
@@ -1747,6 +1771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 718297,
+      "num": 718297,
+      "word": "虞书欣前有小兰花后有虞美人",
+      "onboard_time": 1662264867,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 716883,
       "num": 716883,
       "word": "包书皮",
@@ -1824,6 +1856,14 @@
       "word": "四川新增本土确诊128例无症状74例",
       "onboard_time": 1662171924,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 698896,
+      "num": 698896,
+      "word": "男子悬崖边拍照突然抽筋坠崖",
+      "onboard_time": 1662258148,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1913,14 +1953,6 @@
       "onboard_time": 1662008255,
       "rank": 13,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 662074,
-      "num": 662074,
-      "word": "男子悬崖边拍照突然抽筋坠崖",
-      "onboard_time": 1662258148,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 657511,
@@ -2121,6 +2153,14 @@
       "onboard_time": 1662037769,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 597095,
+      "num": 597095,
+      "word": "深圳黄码",
+      "onboard_time": 1662262043,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 595206,
@@ -2657,6 +2697,14 @@
       "onboard_time": 1662090926,
       "rank": 17,
       "category": "科技"
+    },
+    {
+      "raw_hot": 490138,
+      "num": 490138,
+      "word": "校长回应摆桌放锤子免费碎手机",
+      "onboard_time": 1662258205,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 489351,
@@ -3411,6 +3459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 387992,
+      "num": 387992,
+      "word": "金世佳新剧谈恋爱好被动",
+      "onboard_time": 1662264985,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 387544,
       "num": 387544,
       "word": "北京市租房需进行合同网签",
@@ -3507,6 +3563,14 @@
       "category": "科技,国外要闻"
     },
     {
+      "raw_hot": 377595,
+      "num": 377595,
+      "word": "TF家族新歌写给他们的歌",
+      "onboard_time": 1662264088,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 376493,
       "num": 342073,
       "word": "丁程鑫和小学班主任合影",
@@ -3555,8 +3619,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 370784,
-      "num": 370784,
+      "raw_hot": 371194,
+      "num": 371194,
       "word": "医生提醒长时间用防窥膜会视疲劳",
       "onboard_time": 1662254485,
       "rank": 20,
@@ -3731,6 +3795,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 355657,
+      "num": 355657,
+      "word": "没想到荷包蛋也能速冻",
+      "onboard_time": 1662259524,
+      "rank": 24,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 354386,
       "num": 354386,
       "word": "核酸采样机器人亮相世界人工智能大会",
@@ -3777,6 +3849,14 @@
       "onboard_time": 1662166525,
       "rank": 21,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 352789,
+      "num": 352789,
+      "word": "特朗普指责拜登是国家的敌人",
+      "onboard_time": 1662263066,
+      "rank": 17,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 352757,
@@ -3953,14 +4033,6 @@
       "onboard_time": 1662172704,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 335507,
-      "num": 335507,
-      "word": "校长回应摆桌放锤子免费碎手机",
-      "onboard_time": 1662258205,
-      "rank": 47,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 335369,
@@ -4459,6 +4531,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 300752,
+      "num": 300752,
+      "word": "爱情发生在三天后大结局",
+      "onboard_time": 1662263368,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 300513,
       "num": 300513,
       "word": "以为失传的跳皮筋小朋友学会了",
@@ -4568,6 +4648,14 @@
       "word": "成毅听到粉丝要做帝后的反应",
       "onboard_time": 1662118828,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 294317,
+      "num": 256801,
+      "word": "姜小果齐颂在一起了",
+      "onboard_time": 1662265227,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -5121,6 +5209,14 @@
       "onboard_time": 1662087564,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 265178,
+      "num": 256215,
+      "word": "蔡徐坤说热爱你热爱的就够了",
+      "onboard_time": 1662262163,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 265029,
@@ -5683,6 +5779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224202,
+      "num": 224202,
+      "word": "小偷入室盗窃从屋主怀中拿包",
+      "onboard_time": 1662261387,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223633,
       "num": 223633,
       "word": "真的好想回到疫情前",
@@ -5779,14 +5883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 218839,
-      "num": 218839,
-      "word": "没想到荷包蛋也能速冻",
-      "onboard_time": 1662259524,
-      "rank": 24,
-      "category": "美食,幽默"
-    },
-    {
       "raw_hot": 216980,
       "num": 216980,
       "word": "刘诗诗刘宇宁比耶合影",
@@ -5833,6 +5929,14 @@
       "onboard_time": 1662103168,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 215467,
+      "num": 184463,
+      "word": "少女时代Gee舞台",
+      "onboard_time": 1662259467,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 215385,
@@ -5993,6 +6097,14 @@
       "onboard_time": 1662048565,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 208016,
+      "num": 208016,
+      "word": "清融哭了",
+      "onboard_time": 1662263907,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 207654,
@@ -6291,14 +6403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 189594,
-      "num": 175814,
-      "word": "少女时代Gee舞台",
-      "onboard_time": 1662259467,
-      "rank": 30,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 189555,
       "num": 189555,
       "word": "西南联大百岁大师集体送开学寄语",
@@ -6345,6 +6449,14 @@
       "onboard_time": 1662010293,
       "rank": 44,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 185829,
+      "num": 185829,
+      "word": "午休时间小学教室1秒变身",
+      "onboard_time": 1662261626,
+      "rank": 29,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 185405,
@@ -6515,14 +6627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173144,
-      "num": 173144,
-      "word": "成都巨响",
-      "onboard_time": 1662260066,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 172995,
       "num": 172995,
       "word": "Rookie阿卡丽",
@@ -6555,12 +6659,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 171068,
+      "num": 171068,
+      "word": "山东新增本土确诊1例无症状78例",
+      "onboard_time": 1662259886,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171061,
       "num": 171061,
       "word": "张杰东北菜vlog",
       "onboard_time": 1662108807,
       "rank": 38,
       "category": "艺人,美食"
+    },
+    {
+      "raw_hot": 169891,
+      "num": 101605,
+      "word": "张含韵cos紫霞仙子",
+      "onboard_time": 1662265525,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 169609,
@@ -6609,6 +6729,14 @@
       "onboard_time": 1661949867,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 166604,
+      "num": 166604,
+      "word": "猫猫给自己染了个颜色",
+      "onboard_time": 1662264264,
+      "rank": 37,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 165933,
@@ -6883,6 +7011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149790,
+      "num": 149790,
+      "word": "武汉新增12例本土无症状",
+      "onboard_time": 1662261807,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148790,
       "num": 148790,
       "word": "火星制氧实验成功",
@@ -7075,6 +7211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135380,
+      "num": 135380,
+      "word": "熊猫宝宝连尾巴都这么可爱",
+      "onboard_time": 1662262288,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135147,
       "num": 135147,
       "word": "吴易昺无缘美网16强",
@@ -7136,6 +7280,14 @@
       "word": "余姚疫情防控",
       "onboard_time": 1662188245,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131401,
+      "num": 131401,
+      "word": "十大年度国家IP评选",
+      "onboard_time": 1662264748,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -7451,6 +7603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 89074,
+      "num": 89074,
+      "word": "研究揭示快波睡眠间眼动之谜",
+      "onboard_time": 1662265347,
+      "rank": 48,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 86361,
       "num": 86361,
       "word": "男子凌晨偷出租车拉活赚钱早上归还",
@@ -7497,14 +7657,6 @@
       "onboard_time": 1662195986,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 82142,
-      "num": 82142,
-      "word": "山东新增本土确诊1例无症状78例",
-      "onboard_time": 1662259886,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 81687,
