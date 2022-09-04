@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662290272062,
+  "endTime": 1662291280284,
   "band_list": [
     {
       "raw_hot": 6261105,
@@ -667,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1470571,
+      "num": 1470571,
+      "word": "站点取消大妈逼停公交致路堵20分钟",
+      "onboard_time": 1662285928,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1464771,
       "num": 1464771,
       "word": "司机礼让校车遭后方多车鸣笛超行",
@@ -787,6 +795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1352979,
+      "num": 1352979,
+      "word": "北京冰雹",
+      "onboard_time": 1662289643,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1347179,
       "num": 1347179,
       "word": "王俊凯 塞拉斯",
@@ -816,14 +832,6 @@
       "word": "4岁男孩17楼坠落奇迹生还",
       "onboard_time": 1662165145,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1341667,
-      "num": 1341667,
-      "word": "站点取消大妈逼停公交致路堵20分钟",
-      "onboard_time": 1662285928,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -1353,6 +1361,14 @@
       "onboard_time": 1662001108,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 944432,
+      "num": 944432,
+      "word": "女子称自己复活成仙骗男网友486万",
+      "onboard_time": 1662288147,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 936174,
@@ -1891,6 +1907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 737107,
+      "num": 737107,
+      "word": "贺峻霖主持大学生电影节",
+      "onboard_time": 1662289107,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 735828,
       "num": 681609,
       "word": "胆小鬼",
@@ -2065,14 +2089,6 @@
       "onboard_time": 1662172045,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 688104,
-      "num": 688104,
-      "word": "贺峻霖主持大学生电影节",
-      "onboard_time": 1662289107,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 683406,
@@ -2691,14 +2707,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 542491,
-      "num": 542491,
-      "word": "女子称自己复活成仙骗男网友486万",
-      "onboard_time": 1662288147,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 542320,
       "num": 542320,
       "word": "拖行",
@@ -3171,6 +3179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 461792,
+      "num": 461792,
+      "word": "锦江区疫情防控",
+      "onboard_time": 1662287425,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 460794,
       "num": 460794,
       "word": "沉香如屑 编剧",
@@ -3207,14 +3223,6 @@
       "num": 455246,
       "word": "国内首例婚内监护权案胜诉",
       "onboard_time": 1662114448,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 454732,
-      "num": 454732,
-      "word": "锦江区疫情防控",
-      "onboard_time": 1662287425,
       "rank": 37,
       "category": "社会新闻"
     },
@@ -3456,14 +3464,6 @@
       "word": "留学生为种好一颗梨花光800万积蓄",
       "onboard_time": 1662008015,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 424754,
-      "num": 424754,
-      "word": "北京冰雹",
-      "onboard_time": 1662289643,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -3747,6 +3747,14 @@
       "category": "教育,社会议题"
     },
     {
+      "raw_hot": 400065,
+      "num": 400065,
+      "word": "求恋爱的夏天改名",
+      "onboard_time": 1662287904,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 399808,
       "num": 399808,
       "word": "北京9月1日新增1例本土确诊",
@@ -4003,6 +4011,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 374619,
+      "num": 374619,
+      "word": "女子和男友吵架吃60粒褪黑素进ICU",
+      "onboard_time": 1662289107,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 372871,
       "num": 372871,
       "word": "中级财管",
@@ -4105,6 +4121,14 @@
       "onboard_time": 1662210988,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 364717,
+      "num": 364717,
+      "word": "西出玉门",
+      "onboard_time": 1662290966,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 364338,
@@ -4393,14 +4417,6 @@
       "onboard_time": 1662004948,
       "rank": 27,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 338363,
-      "num": 338363,
-      "word": "求恋爱的夏天改名",
-      "onboard_time": 1662287904,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 338347,
@@ -4785,6 +4801,14 @@
       "onboard_time": 1662203909,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 316593,
+      "num": 122671,
+      "word": "北京大雨",
+      "onboard_time": 1662291266,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 316419,
@@ -6187,14 +6211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 236786,
-      "num": 236786,
-      "word": "女子和男友吵架吃60粒褪黑素进ICU",
-      "onboard_time": 1662289107,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 235592,
       "num": 235592,
       "word": "吴易昺晋级美网32强",
@@ -6635,6 +6651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213426,
+      "num": 213426,
+      "word": "Ale",
+      "onboard_time": 1662290066,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 212580,
       "num": 212580,
       "word": "河南残疾夫妻靠线上卖菜撑起全家",
@@ -6755,14 +6779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207672,
-      "num": 207672,
-      "word": "Ale",
-      "onboard_time": 1662290066,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 207654,
       "num": 207654,
       "word": "王者荣耀",
@@ -6876,7 +6892,7 @@
     },
     {
       "raw_hot": 201427,
-      "num": 1360739,
+      "num": 1370715,
       "word": "我国首条跨海高铁这样跨海",
       "onboard_time": 1662277048,
       "rank": 2,
@@ -7081,6 +7097,14 @@
       "onboard_time": 1662282509,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 190190,
+      "num": 190190,
+      "word": "女子在永辉超市买2斤猪肉花103元",
+      "onboard_time": 1662290906,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190087,
@@ -7337,6 +7361,14 @@
       "onboard_time": 1662021207,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 175071,
+      "num": 175071,
+      "word": "扭扭车男孩今天开学报到了",
+      "onboard_time": 1662290726,
+      "rank": 37,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 174265,
@@ -8297,6 +8329,14 @@
       "onboard_time": 1661943687,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 107494,
+      "num": 107494,
+      "word": "客服回应理想ONE将停产",
+      "onboard_time": 1662290665,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106833,

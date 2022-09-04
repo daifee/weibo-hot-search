@@ -1,0 +1,410 @@
+{
+  "runTime": 1662291280284,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2535866,
+        "num": 2535866,
+        "word": "陈若仪回应儿子车祸后第一句话",
+        "onboard_time": 1662285749,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1470571,
+        "num": 1470571,
+        "word": "站点取消大妈逼停公交致路堵20分钟",
+        "onboard_time": 1662285928,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177544,
+        "num": 1370715,
+        "word": "我国首条跨海高铁这样跨海",
+        "onboard_time": 1662277048,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1352979,
+        "num": 1352979,
+        "word": "北京冰雹",
+        "onboard_time": 1662289643,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 977111,
+        "num": 977111,
+        "word": "成都疫情防控",
+        "onboard_time": 1662286766,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 944432,
+        "num": 944432,
+        "word": "女子称自己复活成仙骗男网友486万",
+        "onboard_time": 1662288147,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 737107,
+        "num": 737107,
+        "word": "贺峻霖主持大学生电影节",
+        "onboard_time": 1662289107,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 700638,
+        "num": 700638,
+        "word": "男子回农村花12万买下1200平大院",
+        "onboard_time": 1662283587,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560748,
+        "num": 560748,
+        "word": "产科医生辟谣双胞胎肚内打架",
+        "onboard_time": 1662282270,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 555578,
+        "num": 555578,
+        "word": "约1.2亿老人逐渐失去了听力",
+        "onboard_time": 1662275188,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1518767,
+        "num": 536381,
+        "word": "赵露思孟美岐对手戏",
+        "onboard_time": 1662287245,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 515052,
+        "num": 515052,
+        "word": "上海台风",
+        "onboard_time": 1662284364,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461792,
+        "num": 461792,
+        "word": "锦江区疫情防控",
+        "onboard_time": 1662287425,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438164,
+        "num": 438164,
+        "word": "12岁男孩玩游戏花掉17万妈妈卖房",
+        "onboard_time": 1662283526,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400065,
+        "num": 400065,
+        "word": "求恋爱的夏天改名",
+        "onboard_time": 1662287904,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 392950,
+        "num": 392950,
+        "word": "男子在楼房腰线处浇花失足坠亡",
+        "onboard_time": 1662277829,
+        "rank": 15,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 376687,
+        "num": 376687,
+        "word": "陈奕迅孤勇者",
+        "onboard_time": 1662281246,
+        "rank": 16,
+        "category": "游戏,音乐"
+      },
+      {
+        "raw_hot": 374619,
+        "num": 374619,
+        "word": "女子和男友吵架吃60粒褪黑素进ICU",
+        "onboard_time": 1662289107,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366962,
+        "num": 366962,
+        "word": "君合",
+        "onboard_time": 1662275246,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364717,
+        "num": 364717,
+        "word": "西出玉门",
+        "onboard_time": 1662290966,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 350405,
+        "num": 350405,
+        "word": "退伍军人高铁伸脚挡行李箱1小时",
+        "onboard_time": 1662283228,
+        "rank": 20,
+        "category": "社会正能量,军事"
+      },
+      {
+        "raw_hot": 336016,
+        "num": 336016,
+        "word": "女孩现场怒斥酒驾母亲不要影响我考大学",
+        "onboard_time": 1662275487,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325547,
+        "num": 325547,
+        "word": "广州地铁",
+        "onboard_time": 1662285749,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298917,
+        "num": 298917,
+        "word": "姜涩琪solo",
+        "onboard_time": 1662277469,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282920,
+        "num": 282920,
+        "word": "男子殴打猥亵女儿者检察院不起诉",
+        "onboard_time": 1662275427,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281134,
+        "num": 281134,
+        "word": "央视中秋晚会第三波阵容官宣",
+        "onboard_time": 1662282328,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273109,
+        "num": 273109,
+        "word": "成毅沉香如屑3个角色无人生还",
+        "onboard_time": 1662280707,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233066,
+        "num": 233066,
+        "word": "RNG拿到赛点",
+        "onboard_time": 1662289347,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 222587,
+        "num": 222587,
+        "word": "核酸",
+        "onboard_time": 1662272245,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213426,
+        "num": 213426,
+        "word": "Ale",
+        "onboard_time": 1662290066,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 243499,
+        "num": 204058,
+        "word": "张凌赫宁安如梦雪景路透",
+        "onboard_time": 1662286766,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 223181,
+        "num": 200753,
+        "word": "脱轨网传主演暂定刘浩存林一",
+        "onboard_time": 1662286166,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221601,
+        "num": 197736,
+        "word": "宋亚轩的叛逆都用来选歌了",
+        "onboard_time": 1662287366,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190190,
+        "num": 190190,
+        "word": "女子在永辉超市买2斤猪肉花103元",
+        "onboard_time": 1662290906,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188874,
+        "num": 188874,
+        "word": "网红表演生吃活蜜蜂惨变香肠嘴",
+        "onboard_time": 1662281729,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187164,
+        "num": 187164,
+        "word": "陈宇一通电话盘清24集",
+        "onboard_time": 1662288386,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179366,
+        "num": 179366,
+        "word": "小学生食堂相互模仿端餐盘走碎步慢行",
+        "onboard_time": 1662282270,
+        "rank": 36,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 175071,
+        "num": 175071,
+        "word": "扭扭车男孩今天开学报到了",
+        "onboard_time": 1662290726,
+        "rank": 37,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 170576,
+        "num": 170576,
+        "word": "人体24小时血糖这样变化",
+        "onboard_time": 1662276026,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156620,
+        "num": 156620,
+        "word": "瘫痪女子自学36年办个人画展",
+        "onboard_time": 1662274945,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155380,
+        "num": 155380,
+        "word": "RNG对战LNG",
+        "onboard_time": 1662282749,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153101,
+        "num": 153101,
+        "word": "大一和大四立flag的区别",
+        "onboard_time": 1662286886,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 150648,
+        "num": 150648,
+        "word": "上海9月4日晚暂停开放景观照明",
+        "onboard_time": 1662276687,
+        "rank": 42,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 150275,
+        "num": 150275,
+        "word": "安徽滁州发现12例核酸异常",
+        "onboard_time": 1662278549,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139466,
+        "num": 139466,
+        "word": "古偶最虐心名场面",
+        "onboard_time": 1662282208,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131067,
+        "num": 131067,
+        "word": "当人类试图和猫咪讲道理",
+        "onboard_time": 1662285447,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 132212,
+        "num": 128308,
+        "word": "苍兰诀",
+        "onboard_time": 1662291146,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 316593,
+        "num": 122671,
+        "word": "北京大雨",
+        "onboard_time": 1662291266,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107494,
+        "num": 107494,
+        "word": "客服回应理想ONE将停产",
+        "onboard_time": 1662290665,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104820,
+        "num": 104820,
+        "word": "宁波停课",
+        "onboard_time": 1662273327,
+        "rank": 49,
+        "category": "教育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#国之功勋国礼崇之#"
+    }
+  }
+}
