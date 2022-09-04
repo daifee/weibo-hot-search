@@ -1,0 +1,410 @@
+{
+  "runTime": 1662295304797,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2986588,
+        "num": 2986588,
+        "word": "女子在永辉超市买2斤猪肉花103元",
+        "onboard_time": 1662290906,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1432904,
+        "num": 1432904,
+        "word": "陈若仪回应儿子车祸后第一句话",
+        "onboard_time": 1662285749,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141051,
+        "num": 1320950,
+        "word": "我国首条跨海高铁这样跨海",
+        "onboard_time": 1662277048,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1273145,
+        "num": 1273145,
+        "word": "成都疫情防控",
+        "onboard_time": 1662286766,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 887608,
+        "num": 887608,
+        "word": "女子称自己复活成仙骗男网友486万",
+        "onboard_time": 1662288147,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 689957,
+        "num": 689957,
+        "word": "女子和男友吵架吃60粒褪黑素进ICU",
+        "onboard_time": 1662289107,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 590373,
+        "num": 590373,
+        "word": "中国新闻周刊说梦华录是今年唯一爆款古偶",
+        "onboard_time": 1662294507,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 576367,
+        "num": 576367,
+        "word": "北京冰雹",
+        "onboard_time": 1662289643,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553055,
+        "num": 553055,
+        "word": "男子回农村花12万买下1200平大院",
+        "onboard_time": 1662283587,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512048,
+        "num": 512048,
+        "word": "外婆首次用平板画画惊呆孙子",
+        "onboard_time": 1662292046,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 883706,
+        "num": 499652,
+        "word": "赵露思孟美岐对手戏",
+        "onboard_time": 1662287245,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 759880,
+        "num": 476296,
+        "word": "白鹿直播",
+        "onboard_time": 1662293548,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 451955,
+        "num": 451955,
+        "word": "邢菲宣传覆流年好拼",
+        "onboard_time": 1662293669,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 433577,
+        "num": 433577,
+        "word": "世界游泳冠军遭酒店救生员暴力威胁",
+        "onboard_time": 1662294089,
+        "rank": 13,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 403010,
+        "num": 403010,
+        "word": "何卓佳",
+        "onboard_time": 1662292166,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 379971,
+        "num": 379971,
+        "word": "站点取消大妈逼停公交致路堵20分钟",
+        "onboard_time": 1662285928,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363496,
+        "num": 363496,
+        "word": "产科医生辟谣双胞胎肚内打架",
+        "onboard_time": 1662282270,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341511,
+        "num": 341511,
+        "word": "贺峻霖主持大学生电影节",
+        "onboard_time": 1662289107,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 332167,
+        "num": 332167,
+        "word": "12岁男孩玩游戏花掉17万妈妈卖房",
+        "onboard_time": 1662283526,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318095,
+        "num": 318095,
+        "word": "北京冰雹雷电大风三预警齐发",
+        "onboard_time": 1662292888,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311679,
+        "num": 311679,
+        "word": "Ale",
+        "onboard_time": 1662290066,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 310497,
+        "num": 310497,
+        "word": "上海台风",
+        "onboard_time": 1662284364,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303652,
+        "num": 303652,
+        "word": "男子在楼房腰线处浇花失足坠亡",
+        "onboard_time": 1662277829,
+        "rank": 22,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 297040,
+        "num": 297040,
+        "word": "客服回应理想ONE将停产",
+        "onboard_time": 1662290665,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294033,
+        "num": 294033,
+        "word": "许嵩方文山神仙组合再现王维诗中雪",
+        "onboard_time": 1662293788,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289500,
+        "num": 289500,
+        "word": "君合",
+        "onboard_time": 1662275246,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289254,
+        "num": 289254,
+        "word": "求恋爱的夏天改名",
+        "onboard_time": 1662287904,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 285398,
+        "num": 285398,
+        "word": "90%学生被取消学籍系因游戏",
+        "onboard_time": 1662294747,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271645,
+        "num": 271645,
+        "word": "男子殴打猥亵女儿者检察院不起诉",
+        "onboard_time": 1662275427,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258720,
+        "num": 258720,
+        "word": "约1.2亿老人逐渐失去了听力",
+        "onboard_time": 1662275188,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245865,
+        "num": 245865,
+        "word": "网红表演生吃活蜜蜂惨变香肠嘴",
+        "onboard_time": 1662281729,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245502,
+        "num": 245502,
+        "word": "锦江区疫情防控",
+        "onboard_time": 1662287425,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208397,
+        "num": 208397,
+        "word": "姜涩琪solo",
+        "onboard_time": 1662277469,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206260,
+        "num": 206260,
+        "word": "成毅沉香如屑3个角色无人生还",
+        "onboard_time": 1662280707,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190191,
+        "num": 190191,
+        "word": "西出玉门",
+        "onboard_time": 1662290966,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184378,
+        "num": 184378,
+        "word": "退伍军人高铁伸脚挡行李箱1小时",
+        "onboard_time": 1662283228,
+        "rank": 35,
+        "category": "社会正能量,军事"
+      },
+      {
+        "raw_hot": 180711,
+        "num": 180711,
+        "word": "陈奕迅孤勇者",
+        "onboard_time": 1662281246,
+        "rank": 36,
+        "category": "游戏,音乐"
+      },
+      {
+        "raw_hot": 177102,
+        "num": 177102,
+        "word": "女孩现场怒斥酒驾母亲不要影响我考大学",
+        "onboard_time": 1662275487,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168744,
+        "num": 168744,
+        "word": "男子拍摄上海每半小时晴雨交替",
+        "onboard_time": 1662294149,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193960,
+        "num": 168604,
+        "word": "现在的校服到底有多好看",
+        "onboard_time": 1662292827,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168386,
+        "num": 168386,
+        "word": "冰雨火双王组合走心局",
+        "onboard_time": 1662292637,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153960,
+        "num": 153960,
+        "word": "央视中秋晚会第三波阵容官宣",
+        "onboard_time": 1662282328,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151734,
+        "num": 151734,
+        "word": "核酸",
+        "onboard_time": 1662272245,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149818,
+        "num": 149818,
+        "word": "上海9月4日晚暂停开放景观照明",
+        "onboard_time": 1662276687,
+        "rank": 43,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 144712,
+        "num": 144712,
+        "word": "扭扭车男孩今天开学报到了",
+        "onboard_time": 1662290726,
+        "rank": 44,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 140988,
+        "num": 140988,
+        "word": "广州地铁",
+        "onboard_time": 1662285749,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131968,
+        "num": 131968,
+        "word": "小学生食堂相互模仿端餐盘走碎步慢行",
+        "onboard_time": 1662282270,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 842147,
+        "num": 131223,
+        "word": "赵丽颖直播",
+        "onboard_time": 1662295288,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128405,
+        "num": 128405,
+        "word": "河南变身全球最大人造钻石生产地",
+        "onboard_time": 1662295107,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126060,
+        "num": 126060,
+        "word": "成都车祸",
+        "onboard_time": 1662295288,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#国之功勋国礼崇之#"
+    }
+  }
+}

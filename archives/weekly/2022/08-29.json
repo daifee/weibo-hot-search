@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1662291280284,
+  "endTime": 1662295304797,
   "band_list": [
     {
       "raw_hot": 12749994,
@@ -225,6 +225,14 @@
       "onboard_time": 1661873072,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2986588,
+      "num": 2986588,
+      "word": "女子在永辉超市买2斤猪肉花103元",
+      "onboard_time": 1662290906,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2949797,
@@ -3147,6 +3155,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 842147,
+      "num": 131223,
+      "word": "赵丽颖直播",
+      "onboard_time": 1662295288,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 842062,
       "num": 842062,
       "word": "iPhone14Pro或支持30W充电器",
@@ -3555,6 +3571,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 759880,
+      "num": 476296,
+      "word": "白鹿直播",
+      "onboard_time": 1662293548,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 757064,
       "num": 415690,
       "word": "原来宋亚轩早就玩过一枚梗",
@@ -3904,6 +3928,14 @@
       "word": "四川致社会各界的一封信",
       "onboard_time": 1662172045,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 689957,
+      "num": 689957,
+      "word": "女子和男友吵架吃60粒褪黑素进ICU",
+      "onboard_time": 1662289107,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -4617,6 +4649,14 @@
       "onboard_time": 1661828848,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 590373,
+      "num": 590373,
+      "word": "中国新闻周刊说梦华录是今年唯一爆款古偶",
+      "onboard_time": 1662294507,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 590114,
@@ -5387,6 +5427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 512048,
+      "num": 512048,
+      "word": "外婆首次用平板画画惊呆孙子",
+      "onboard_time": 1662292046,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 511594,
       "num": 511594,
       "word": "经济法",
@@ -6075,6 +6123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 451955,
+      "num": 451955,
+      "word": "邢菲宣传覆流年好拼",
+      "onboard_time": 1662293669,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 451954,
       "num": 451954,
       "word": "四川高校是否再次延期开学",
@@ -6369,6 +6425,14 @@
       "onboard_time": 1662002908,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 433577,
+      "num": 433577,
+      "word": "世界游泳冠军遭酒店救生员暴力威胁",
+      "onboard_time": 1662294089,
+      "rank": 13,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 432475,
@@ -6793,6 +6857,14 @@
       "onboard_time": 1661908829,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 403010,
+      "num": 403010,
+      "word": "何卓佳",
+      "onboard_time": 1662292166,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 402786,
@@ -7385,14 +7457,6 @@
       "onboard_time": 1662087985,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 374619,
-      "num": 374619,
-      "word": "女子和男友吵架吃60粒褪黑素进ICU",
-      "onboard_time": 1662289107,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 373108,
@@ -8683,6 +8747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 318095,
+      "num": 318095,
+      "word": "北京冰雹雷电大风三预警齐发",
+      "onboard_time": 1662292888,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317946,
       "num": 317946,
       "word": "面诊主播想提前解约需赔一千万",
@@ -8849,6 +8921,14 @@
       "onboard_time": 1662220050,
       "rank": 17,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 311679,
+      "num": 311679,
+      "word": "Ale",
+      "onboard_time": 1662290066,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 311447,
@@ -9251,6 +9331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 297040,
+      "num": 297040,
+      "word": "客服回应理想ONE将停产",
+      "onboard_time": 1662290665,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296917,
       "num": 130556,
       "word": "林雨申打戏",
@@ -9321,6 +9409,14 @@
       "onboard_time": 1661958932,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 294033,
+      "num": 294033,
+      "word": "许嵩方文山神仙组合再现王维诗中雪",
+      "onboard_time": 1662293788,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 293499,
@@ -9561,6 +9657,14 @@
       "onboard_time": 1661965578,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 285398,
+      "num": 285398,
+      "word": "90%学生被取消学籍系因游戏",
+      "onboard_time": 1662294747,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 284877,
@@ -11691,14 +11795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213426,
-      "num": 213426,
-      "word": "Ale",
-      "onboard_time": 1662290066,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 213411,
       "num": 213411,
       "word": "申花",
@@ -12339,6 +12435,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 193960,
+      "num": 168604,
+      "word": "现在的校服到底有多好看",
+      "onboard_time": 1662292827,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193413,
       "num": 193413,
       "word": "爱吃葡萄的小熊猫",
@@ -12473,14 +12577,6 @@
       "onboard_time": 1662282509,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 190190,
-      "num": 190190,
-      "word": "女子在永辉超市买2斤猪肉花103元",
-      "onboard_time": 1662290906,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 190087,
@@ -13043,6 +13139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 168744,
+      "num": 168744,
+      "word": "男子拍摄上海每半小时晴雨交替",
+      "onboard_time": 1662294149,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168660,
       "num": 168660,
       "word": "RNG2比0领先",
@@ -13057,6 +13161,14 @@
       "onboard_time": 1661691331,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168386,
+      "num": 168386,
+      "word": "冰雨火双王组合走心局",
+      "onboard_time": 1662292637,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 168119,
@@ -14019,6 +14131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128405,
+      "num": 128405,
+      "word": "河南变身全球最大人造钻石生产地",
+      "onboard_time": 1662295107,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128393,
       "num": 2632691,
       "word": "我国太阳探测卫星科学数据全球共享",
@@ -14249,14 +14369,6 @@
       "onboard_time": 1661987959,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107494,
-      "num": 107494,
-      "word": "客服回应理想ONE将停产",
-      "onboard_time": 1662290665,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106881,
