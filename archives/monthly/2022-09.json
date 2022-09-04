@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662327403432,
+  "endTime": 1662330090184,
   "band_list": [
     {
       "raw_hot": 6261105,
@@ -8779,6 +8779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115743,
+      "num": 115743,
+      "word": "老人在小区用牵引绳抽狗疑泄愤",
+      "onboard_time": 1662322631,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115235,
       "num": 115235,
       "word": "父亲送女儿上大学后转身抹泪",
@@ -8913,6 +8921,14 @@
       "onboard_time": 1662106646,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 100510,
+      "num": 100510,
+      "word": "布拉格爆发抗议反对欧盟和北约",
+      "onboard_time": 1662322212,
+      "rank": 46,
+      "category": "国外要闻,社会新闻"
     },
     {
       "raw_hot": 99181,
@@ -9083,6 +9099,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 83013,
+      "num": 83013,
+      "word": "覆流年里女主的爹是萧剑",
+      "onboard_time": 1662319872,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 81687,
       "num": 81687,
       "word": "铭记77年前的伟大胜利",
@@ -9123,6 +9147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 76871,
+      "num": 76871,
+      "word": "一个更容易打到蚊子的方法",
+      "onboard_time": 1662324431,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 76225,
       "num": 76225,
       "word": "女子点外卖式报警接警员秒懂",
@@ -9137,14 +9169,6 @@
       "onboard_time": 1662161840,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 73837,
-      "num": 38137,
-      "word": "布拉格爆发抗议反对欧盟和北约",
-      "onboard_time": 1662322212,
-      "rank": 46,
-      "category": "国外要闻,社会新闻"
     },
     {
       "raw_hot": 72062,
@@ -9195,6 +9219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 61086,
+      "num": 61086,
+      "word": "今夏为1961年来最热夏天",
+      "onboard_time": 1662324850,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60802,
       "num": 60802,
       "word": "张帅重返美网32强",
@@ -9203,19 +9235,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 56590,
-      "num": 56590,
+      "raw_hot": 58737,
+      "num": 58737,
       "word": "福州现巨型乌云",
       "onboard_time": 1662315615,
       "rank": 49,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 51143,
-      "num": 37776,
-      "word": "老人在小区用牵引绳抽狗疑泄愤",
-      "onboard_time": 1662322631,
-      "rank": 49,
+      "raw_hot": 49242,
+      "num": 49242,
+      "word": "胰岛素含片或将问世",
+      "onboard_time": 1662327852,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -9233,6 +9265,14 @@
       "onboard_time": 1662228194,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 41824,
+      "num": 39119,
+      "word": "舒淇是珠光宝气代名词吧",
+      "onboard_time": 1662324731,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 40941,
@@ -9259,12 +9299,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 38848,
-      "num": 38848,
-      "word": "覆流年里女主的爹是萧剑",
-      "onboard_time": 1662319872,
+      "raw_hot": 27947,
+      "num": 27947,
+      "word": "全校536名学生视力全部5.0或以上",
+      "onboard_time": 1662326771,
       "rank": 42,
-      "category": "影视"
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 27800,
@@ -9305,22 +9345,6 @@
       "onboard_time": 1662147550,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 19664,
-      "num": 19664,
-      "word": "一个更容易打到蚊子的方法",
-      "onboard_time": 1662324431,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 15390,
-      "num": 15390,
-      "word": "今夏为1961年来最热夏天",
-      "onboard_time": 1662324850,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 14785,
