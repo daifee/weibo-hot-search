@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662302175725,
+  "endTime": 1662304936027,
   "band_list": [
     {
       "raw_hot": 6261105,
@@ -41,6 +41,14 @@
       "onboard_time": 1662294747,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3407718,
+      "num": 3407718,
+      "word": "呼吸哥哭了",
+      "onboard_time": 1662302972,
+      "rank": 0,
+      "category": "游戏"
     },
     {
       "raw_hot": 3270726,
@@ -699,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1474125,
+      "num": 1474125,
+      "word": "浙江三地已宣布停课一天",
+      "onboard_time": 1662299732,
+      "rank": 9,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1471500,
       "num": 1471500,
       "word": "日本曾将台湾和大连纳入日本领土",
@@ -859,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1352151,
+      "num": 1352151,
+      "word": "三问宝马女撞人拖行事件",
+      "onboard_time": 1662301534,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1347179,
       "num": 1347179,
       "word": "王俊凯 塞拉斯",
@@ -945,14 +969,6 @@
       "onboard_time": 1662300393,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1298156,
-      "num": 1298156,
-      "word": "浙江三地已宣布停课一天",
-      "onboard_time": 1662299732,
-      "rank": 9,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1281510,
@@ -1363,6 +1379,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 978334,
+      "num": 978334,
+      "word": "法拉利",
+      "onboard_time": 1662301957,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 977749,
       "num": 977749,
       "word": "杨幂晒羊幂表情包告别花少",
@@ -1433,6 +1457,14 @@
       "onboard_time": 1662183688,
       "rank": 49,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 952197,
+      "num": 952197,
+      "word": "张凌赫跳舞",
+      "onboard_time": 1662303571,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 948976,
@@ -2467,6 +2499,14 @@
       "category": "财经,艺人"
     },
     {
+      "raw_hot": 617433,
+      "num": 617433,
+      "word": "深圳疫情防控",
+      "onboard_time": 1661988682,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 616671,
       "num": 616671,
       "word": "儿子上幼儿园爸爸躲房间偷偷抹泪",
@@ -3003,6 +3043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 514459,
+      "num": 514459,
+      "word": "宋仲基客串新剧状态",
+      "onboard_time": 1662303452,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 511594,
       "num": 511594,
       "word": "经济法",
@@ -3129,6 +3177,14 @@
       "onboard_time": 1662216633,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 490741,
+      "num": 490741,
+      "word": "我国已进入台风核心影响时段",
+      "onboard_time": 1662300332,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 490448,
@@ -3667,6 +3723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 423703,
+      "num": 423703,
+      "word": "深圳地铁",
+      "onboard_time": 1662303152,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 423682,
       "num": 423682,
       "word": "张凌赫宁安如梦雪景路透",
@@ -3713,6 +3777,14 @@
       "onboard_time": 1662174146,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 417217,
+      "num": 417217,
+      "word": "LPL出征S12队伍",
+      "onboard_time": 1662302674,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 415357,
@@ -3875,6 +3947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 402766,
+      "num": 402766,
+      "word": "92岁老人不愿添麻烦婉拒志愿者上门导尿",
+      "onboard_time": 1662299914,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 402702,
       "num": 402702,
       "word": "没有郑钧不敢回答的问题",
@@ -3953,6 +4033,14 @@
       "onboard_time": 1662080125,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 397514,
+      "num": 397514,
+      "word": "林柏叡走秀",
+      "onboard_time": 1662304771,
+      "rank": 25,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 397348,
@@ -4073,14 +4161,6 @@
       "onboard_time": 1662283228,
       "rank": 49,
       "category": "社会正能量,军事"
-    },
-    {
-      "raw_hot": 387237,
-      "num": 387237,
-      "word": "法拉利",
-      "onboard_time": 1662301957,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 386194,
@@ -4395,6 +4475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360632,
+      "num": 360632,
+      "word": "乌鲁木齐疫情防控动态",
+      "onboard_time": 1662301415,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 360509,
       "num": 347374,
       "word": "宁安如梦",
@@ -4595,6 +4683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 343636,
+      "num": 343636,
+      "word": "小小姐们",
+      "onboard_time": 1662304232,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 342888,
       "num": 342888,
       "word": "成都发布",
@@ -4755,6 +4851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 334310,
+      "num": 334310,
+      "word": "呼吸哥不想卖票",
+      "onboard_time": 1662302554,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 333975,
       "num": 333975,
       "word": "网瘾娃房顶闹脾气消防用手机哄回",
@@ -4817,6 +4921,14 @@
       "onboard_time": 1662178464,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 330016,
+      "num": 330016,
+      "word": "成都将继续开展全员核酸检测",
+      "onboard_time": 1662304171,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 329725,
@@ -5459,14 +5571,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 292433,
-      "num": 292433,
-      "word": "深圳疫情防控",
-      "onboard_time": 1661988682,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 291707,
       "num": 291707,
       "word": "TF家族三代出道战",
@@ -5601,6 +5705,14 @@
       "onboard_time": 1662137480,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 285958,
+      "num": 285958,
+      "word": "男子骑摩托被女友开车撞翻",
+      "onboard_time": 1662302371,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 285524,
@@ -5987,6 +6099,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 266610,
+      "num": 266610,
+      "word": "S12出征仪式",
+      "onboard_time": 1662303511,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 265889,
       "num": 265889,
       "word": "萍乡第一中单",
@@ -6081,6 +6201,14 @@
       "onboard_time": 1662198027,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 261368,
+      "num": 261368,
+      "word": "上海地铁",
+      "onboard_time": 1662303031,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 260326,
@@ -6249,14 +6377,6 @@
       "onboard_time": 1662016889,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 253598,
-      "num": 253598,
-      "word": "92岁老人不愿添麻烦婉拒志愿者上门导尿",
-      "onboard_time": 1662299914,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 253345,
@@ -6531,6 +6651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232029,
+      "num": 232029,
+      "word": "男子深夜持刀狂砍邻居家门3分钟",
+      "onboard_time": 1662304415,
+      "rank": 43,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 231311,
       "num": 231311,
       "word": "邢菲覆流年演技",
@@ -6771,28 +6899,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 221832,
-      "num": 221832,
-      "word": "乌鲁木齐疫情防控动态",
-      "onboard_time": 1662301415,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 221790,
       "num": 217035,
       "word": "Fly成功回到梦开始的地方",
       "onboard_time": 1662219568,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 221439,
-      "num": 221439,
-      "word": "我国已进入台风核心影响时段",
-      "onboard_time": 1662300332,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 221207,
@@ -7009,6 +7121,14 @@
       "onboard_time": 1661961987,
       "rank": 25,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 209842,
+      "num": 209842,
+      "word": "浙江一干部落马前沉迷当榜一大哥",
+      "onboard_time": 1662304232,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209684,
@@ -7289,14 +7409,6 @@
       "onboard_time": 1662128433,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 194114,
-      "num": 194114,
-      "word": "三问宝马女撞人拖行事件",
-      "onboard_time": 1662301534,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 194085,

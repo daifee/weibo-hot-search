@@ -1,6 +1,6 @@
 {
   "startTime": 1662222576733,
-  "endTime": 1662302175725,
+  "endTime": 1662304936027,
   "band_list": [
     {
       "raw_hot": 4005002,
@@ -17,6 +17,14 @@
       "onboard_time": 1662294747,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3407718,
+      "num": 3407718,
+      "word": "呼吸哥哭了",
+      "onboard_time": 1662302972,
+      "rank": 0,
+      "category": "游戏"
     },
     {
       "raw_hot": 3079936,
@@ -155,6 +163,14 @@
       "category": "游戏,音乐"
     },
     {
+      "raw_hot": 1474125,
+      "num": 1474125,
+      "word": "浙江三地已宣布停课一天",
+      "onboard_time": 1662299732,
+      "rank": 9,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1470571,
       "num": 1470571,
       "word": "站点取消大妈逼停公交致路堵20分钟",
@@ -219,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1352151,
+      "num": 1352151,
+      "word": "三问宝马女撞人拖行事件",
+      "onboard_time": 1662301534,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1328202,
       "num": 994581,
       "word": "赵丽颖直播",
@@ -257,14 +281,6 @@
       "onboard_time": 1662300393,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1298156,
-      "num": 1298156,
-      "word": "浙江三地已宣布停课一天",
-      "onboard_time": 1662299732,
-      "rank": 9,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1223927,
@@ -339,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 978334,
+      "num": 978334,
+      "word": "法拉利",
+      "onboard_time": 1662301957,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 954052,
       "num": 954052,
       "word": "偷偷藏不住官微呼吁抵制代拍",
@@ -352,6 +376,14 @@
       "word": "虞书欣前有小兰花后有虞美人",
       "onboard_time": 1662264867,
       "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 952197,
+      "num": 952197,
+      "word": "张凌赫跳舞",
+      "onboard_time": 1662303571,
+      "rank": 8,
       "category": "影视"
     },
     {
@@ -547,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 617433,
+      "num": 617433,
+      "word": "深圳疫情防控",
+      "onboard_time": 1662302238,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 609582,
       "num": 609582,
       "word": "12岁男孩玩游戏花掉17万妈妈卖房",
@@ -667,6 +707,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 514459,
+      "num": 514459,
+      "word": "宋仲基客串新剧状态",
+      "onboard_time": 1662303452,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 490741,
+      "num": 490741,
+      "word": "我国已进入台风核心影响时段",
+      "onboard_time": 1662300332,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 490138,
       "num": 490138,
       "word": "校长回应摆桌放锤子免费碎手机",
@@ -763,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 423703,
+      "num": 423703,
+      "word": "深圳地铁",
+      "onboard_time": 1662303152,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 423682,
       "num": 423682,
       "word": "张凌赫宁安如梦雪景路透",
@@ -793,6 +857,14 @@
       "onboard_time": 1662279806,
       "rank": 49,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 417217,
+      "num": 417217,
+      "word": "LPL出征S12队伍",
+      "onboard_time": 1662302674,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 412328,
@@ -851,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 402766,
+      "num": 402766,
+      "word": "92岁老人不愿添麻烦婉拒志愿者上门导尿",
+      "onboard_time": 1662299914,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 402702,
       "num": 402702,
       "word": "没有郑钧不敢回答的问题",
@@ -873,6 +953,14 @@
       "onboard_time": 1662287904,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 397514,
+      "num": 397514,
+      "word": "林柏叡走秀",
+      "onboard_time": 1662304771,
+      "rank": 25,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 396716,
@@ -905,14 +993,6 @@
       "onboard_time": 1662283228,
       "rank": 49,
       "category": "社会正能量,军事"
-    },
-    {
-      "raw_hot": 387237,
-      "num": 387237,
-      "word": "法拉利",
-      "onboard_time": 1662301957,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 385760,
@@ -1019,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360632,
+      "num": 360632,
+      "word": "乌鲁木齐疫情防控动态",
+      "onboard_time": 1662301415,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 360509,
       "num": 347374,
       "word": "宁安如梦",
@@ -1067,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 343636,
+      "num": 343636,
+      "word": "小小姐们",
+      "onboard_time": 1662304232,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 340827,
       "num": 250791,
       "word": "罚罪",
@@ -1099,12 +1195,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 334310,
+      "num": 334310,
+      "word": "呼吸哥不想卖票",
+      "onboard_time": 1662302554,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 330694,
       "num": 330694,
       "word": "蔡徐坤沸腾校园花絮照",
       "onboard_time": 1662285987,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 330016,
+      "num": 330016,
+      "word": "成都将继续开展全员核酸检测",
+      "onboard_time": 1662304171,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 328762,
@@ -1235,6 +1347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 285958,
+      "num": 285958,
+      "word": "男子骑摩托被女友开车撞翻",
+      "onboard_time": 1662302371,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284589,
       "num": 284589,
       "word": "小学生食堂相互模仿端餐盘走碎步慢行",
@@ -1299,6 +1419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 266610,
+      "num": 266610,
+      "word": "S12出征仪式",
+      "onboard_time": 1662303511,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 265178,
       "num": 256215,
       "word": "蔡徐坤说热爱你热爱的就够了",
@@ -1355,6 +1483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 261368,
+      "num": 261368,
+      "word": "上海地铁",
+      "onboard_time": 1662303031,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258834,
       "num": 258834,
       "word": "Doinb再次打拳庆祝",
@@ -1377,14 +1513,6 @@
       "onboard_time": 1662248422,
       "rank": 48,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 253598,
-      "num": 253598,
-      "word": "92岁老人不愿添麻烦婉拒志愿者上门导尿",
-      "onboard_time": 1662299914,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 252417,
@@ -1459,6 +1587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 232029,
+      "num": 232029,
+      "word": "男子深夜持刀狂砍邻居家门3分钟",
+      "onboard_time": 1662304415,
+      "rank": 43,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 231180,
       "num": 231180,
       "word": "光与夜之恋",
@@ -1523,22 +1659,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 221832,
-      "num": 221832,
-      "word": "乌鲁木齐疫情防控动态",
-      "onboard_time": 1662301415,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 221439,
-      "num": 221439,
-      "word": "我国已进入台风核心影响时段",
-      "onboard_time": 1662300332,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 218489,
       "num": 165017,
       "word": "玉骨遥",
@@ -1593,6 +1713,14 @@
       "onboard_time": 1662253168,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 209842,
+      "num": 209842,
+      "word": "浙江一干部落马前沉迷当榜一大哥",
+      "onboard_time": 1662304232,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209448,
@@ -1689,14 +1817,6 @@
       "onboard_time": 1662270327,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 194114,
-      "num": 194114,
-      "word": "三问宝马女撞人拖行事件",
-      "onboard_time": 1662301534,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 193960,
