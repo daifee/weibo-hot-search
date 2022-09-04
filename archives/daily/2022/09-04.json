@@ -1,6 +1,6 @@
 {
   "startTime": 1662222576733,
-  "endTime": 1662270575817,
+  "endTime": 1662272777174,
   "band_list": [
     {
       "raw_hot": 3032807,
@@ -67,6 +67,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 1375009,
+      "num": 1375009,
+      "word": "王一博没少跳本草纲目吧",
+      "onboard_time": 1662269606,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1374291,
       "num": 806939,
       "word": "贾玲 华仔",
@@ -83,14 +91,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1257827,
-      "num": 1257827,
-      "word": "王一博没少跳本草纲目吧",
-      "onboard_time": 1662269606,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1139434,
       "num": 314111,
       "word": "马伯庸偷偷藏不住最大受害者",
@@ -99,20 +99,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1077038,
+      "num": 1077038,
+      "word": "贵阳新冠阳性病例累计达104例",
+      "onboard_time": 1662267867,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 953221,
       "num": 953221,
       "word": "虞书欣前有小兰花后有虞美人",
       "onboard_time": 1662264867,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 928668,
-      "num": 928668,
-      "word": "贵阳新冠阳性病例累计达104例",
-      "onboard_time": 1662267867,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 907572,
@@ -195,12 +195,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 667561,
+      "num": 667561,
+      "word": "北大数学天才还俗后称必须面对加班",
+      "onboard_time": 1662269245,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 664543,
       "num": 350751,
       "word": "刘浩存传媒荣誉之夜生图",
       "onboard_time": 1662215013,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 649568,
+      "num": 649568,
+      "word": "贵阳全员核酸猴子也不掉队",
+      "onboard_time": 1662271048,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 645171,
@@ -299,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 451248,
+      "num": 451248,
+      "word": "老人两天没出门邻居翻墙救人",
+      "onboard_time": 1662267268,
+      "rank": 19,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 441248,
       "num": 441248,
       "word": "十大年度国家IP评选",
@@ -347,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 401834,
+      "num": 401834,
+      "word": "王一栩欢迎大家推荐新生代演员给我",
+      "onboard_time": 1662271227,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 390254,
       "num": 297948,
       "word": "北京个别感染者未严格遵守防疫规定",
@@ -355,19 +387,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 389822,
-      "num": 389822,
-      "word": "北大数学天才还俗后称必须面对加班",
-      "onboard_time": 1662269245,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 387992,
       "num": 387992,
       "word": "金世佳新剧谈恋爱好被动",
       "onboard_time": 1662264985,
       "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 385760,
+      "num": 385760,
+      "word": "两个人的小森林",
+      "onboard_time": 1662267748,
+      "rank": 17,
       "category": "影视"
     },
     {
@@ -433,14 +465,6 @@
       "onboard_time": 1662219868,
       "rank": 19,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 349354,
-      "num": 349354,
-      "word": "两个人的小森林",
-      "onboard_time": 1662267748,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 345866,
@@ -515,12 +539,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 280966,
-      "num": 280966,
-      "word": "老人两天没出门邻居翻墙救人",
-      "onboard_time": 1662267268,
-      "rank": 19,
-      "category": "社会正能量"
+      "raw_hot": 283604,
+      "num": 283604,
+      "word": "复读13年唐尚珺回应放弃就读上海交大",
+      "onboard_time": 1662270687,
+      "rank": 18,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 275283,
@@ -571,6 +595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 255785,
+      "num": 255785,
+      "word": "没有郑钧不敢回答的问题",
+      "onboard_time": 1662272307,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 255057,
       "num": 255057,
       "word": "成都人居家有多自律",
@@ -583,6 +615,14 @@
       "num": 252417,
       "word": "小偷入室盗窃从屋主怀中拿包",
       "onboard_time": 1662261387,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248945,
+      "num": 248945,
+      "word": "宝妈怕娃闹给同飞机乘客备100份礼袋",
+      "onboard_time": 1662271944,
       "rank": 24,
       "category": "社会新闻"
     },
@@ -667,6 +707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 219277,
+      "num": 219277,
+      "word": "核酸",
+      "onboard_time": 1662272245,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218489,
       "num": 165017,
       "word": "玉骨遥",
@@ -729,6 +777,14 @@
       "onboard_time": 1662267449,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207066,
+      "num": 207066,
+      "word": "新人被拦车讨喜发十几条烟都不够",
+      "onboard_time": 1662271346,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206131,
@@ -835,6 +891,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 165949,
+      "num": 157699,
+      "word": "向前冲整活没有瓶颈期吗",
+      "onboard_time": 1662270985,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164725,
       "num": 205966,
       "word": "男生军训7天捡4麻袋瓶子送奶奶",
@@ -875,12 +939,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 152558,
+      "num": 152558,
+      "word": "左右NG生死战",
+      "onboard_time": 1662269425,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 149899,
       "num": 149899,
       "word": "辽宁新增本土确诊11例无症状113例",
       "onboard_time": 1662252626,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149307,
+      "num": 149307,
+      "word": "网友千字长文评沉香如屑",
+      "onboard_time": 1662263125,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 145098,
@@ -891,20 +971,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145003,
-      "num": 136873,
-      "word": "网友千字长文评沉香如屑",
-      "onboard_time": 1662263125,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 140809,
       "num": 140809,
       "word": "快乐的时候我是活着的",
       "onboard_time": 1662218491,
       "rank": 43,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 139784,
+      "num": 139784,
+      "word": "吉林新增11例确诊81例无症状",
+      "onboard_time": 1662270146,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137258,
@@ -971,12 +1051,12 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 110611,
-      "num": 110611,
-      "word": "左右NG生死战",
-      "onboard_time": 1662269425,
-      "rank": 45,
-      "category": "游戏"
+      "raw_hot": 111745,
+      "num": 111745,
+      "word": "周鸿祎说别给00后贴标签",
+      "onboard_time": 1662271827,
+      "rank": 42,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 108594,
@@ -987,20 +1067,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105733,
+      "num": 105733,
+      "word": "香港首个抗日战争纪念馆揭幕",
+      "onboard_time": 1662272425,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100272,
       "num": 100272,
       "word": "郑钦文",
       "onboard_time": 1662247638,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100268,
-      "num": 100268,
-      "word": "吉林新增11例确诊81例无症状",
-      "onboard_time": 1662270146,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 98786,

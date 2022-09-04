@@ -1,0 +1,410 @@
+{
+  "runTime": 1662272777174,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1375009,
+        "num": 1375009,
+        "word": "王一博没少跳本草纲目吧",
+        "onboard_time": 1662269606,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1249188,
+        "num": 1249188,
+        "word": "成都巨响",
+        "onboard_time": 1662260066,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8764,
+        "num": 1158092,
+        "word": "神十四首次出舱任务全回顾",
+        "onboard_time": 1662207448,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1077038,
+        "num": 1077038,
+        "word": "贵阳新冠阳性病例累计达104例",
+        "onboard_time": 1662267867,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 709616,
+        "num": 709616,
+        "word": "双胞胎在肚里打架出生后浑身淤青",
+        "onboard_time": 1662246256,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 667561,
+        "num": 667561,
+        "word": "北大数学天才还俗后称必须面对加班",
+        "onboard_time": 1662269245,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 649568,
+        "num": 649568,
+        "word": "贵阳全员核酸猴子也不掉队",
+        "onboard_time": 1662271048,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482106,
+        "num": 482106,
+        "word": "虞书欣前有小兰花后有虞美人",
+        "onboard_time": 1662264867,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 451248,
+        "num": 451248,
+        "word": "老人两天没出门邻居翻墙救人",
+        "onboard_time": 1662267268,
+        "rank": 8,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 420120,
+        "num": 420120,
+        "word": "第一次见带前女友相亲的",
+        "onboard_time": 1662262645,
+        "rank": 9,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 401834,
+        "num": 401834,
+        "word": "王一栩欢迎大家推荐新生代演员给我",
+        "onboard_time": 1662271227,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385760,
+        "num": 385760,
+        "word": "两个人的小森林",
+        "onboard_time": 1662267748,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 349181,
+        "num": 349181,
+        "word": "猫猫给自己染了个颜色",
+        "onboard_time": 1662264264,
+        "rank": 12,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 330574,
+        "num": 330574,
+        "word": "荡平小森林",
+        "onboard_time": 1662265829,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 311671,
+        "num": 311671,
+        "word": "律师称宝马女司机或涉故意杀人罪",
+        "onboard_time": 1662256044,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311489,
+        "num": 311489,
+        "word": "深圳黄码",
+        "onboard_time": 1662262043,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299050,
+        "num": 299050,
+        "word": "欧阳娜娜发长文谈跨界艺术展",
+        "onboard_time": 1662256644,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288330,
+        "num": 288330,
+        "word": "医生提醒长时间用防窥膜会视疲劳",
+        "onboard_time": 1662254485,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283604,
+        "num": 283604,
+        "word": "复读13年唐尚珺回应放弃就读上海交大",
+        "onboard_time": 1662270687,
+        "rank": 18,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 277584,
+        "num": 277584,
+        "word": "特朗普指责拜登是国家的敌人",
+        "onboard_time": 1662263066,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 390828,
+        "num": 270855,
+        "word": "马伯庸偷偷藏不住最大受害者",
+        "onboard_time": 1662262705,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 279947,
+        "num": 269853,
+        "word": "姜小果齐颂在一起了",
+        "onboard_time": 1662265227,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 255785,
+        "num": 255785,
+        "word": "没有郑钧不敢回答的问题",
+        "onboard_time": 1662272307,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 249080,
+        "num": 249080,
+        "word": "男子悬崖边拍照突然抽筋坠崖",
+        "onboard_time": 1662258148,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248945,
+        "num": 248945,
+        "word": "宝妈怕娃闹给同飞机乘客备100份礼袋",
+        "onboard_time": 1662271944,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222307,
+        "num": 222307,
+        "word": "十大年度国家IP评选",
+        "onboard_time": 1662264748,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219277,
+        "num": 219277,
+        "word": "核酸",
+        "onboard_time": 1662272245,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211331,
+        "num": 211331,
+        "word": "海狮表演现场逃跑致商场场面失控",
+        "onboard_time": 1662268345,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207066,
+        "num": 207066,
+        "word": "新人被拦车讨喜发十几条烟都不够",
+        "onboard_time": 1662271346,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158157,
+        "num": 158157,
+        "word": "成都疫情防控",
+        "onboard_time": 1662255504,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189823,
+        "num": 157813,
+        "word": "张含韵cos紫霞仙子",
+        "onboard_time": 1662265525,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165949,
+        "num": 157699,
+        "word": "向前冲整活没有瓶颈期吗",
+        "onboard_time": 1662270985,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158210,
+        "num": 157530,
+        "word": "爱情发生在三天后大结局",
+        "onboard_time": 1662263368,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156961,
+        "num": 156961,
+        "word": "光与夜之恋",
+        "onboard_time": 1662266428,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155081,
+        "num": 155081,
+        "word": "午休时间小学教室1秒变身",
+        "onboard_time": 1662261626,
+        "rank": 34,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 152558,
+        "num": 152558,
+        "word": "左右NG生死战",
+        "onboard_time": 1662269425,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149307,
+        "num": 149307,
+        "word": "网友千字长文评沉香如屑",
+        "onboard_time": 1662263125,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143162,
+        "num": 143162,
+        "word": "小偷入室盗窃从屋主怀中拿包",
+        "onboard_time": 1662261387,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139784,
+        "num": 139784,
+        "word": "吉林新增11例确诊81例无症状",
+        "onboard_time": 1662270146,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134375,
+        "num": 134375,
+        "word": "山东新增本土确诊1例无症状78例",
+        "onboard_time": 1662259886,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140147,
+        "num": 131367,
+        "word": "江湖流",
+        "onboard_time": 1662267449,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113577,
+        "num": 113577,
+        "word": "成都新增72例确诊52例无症状",
+        "onboard_time": 1662256825,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111745,
+        "num": 111745,
+        "word": "周鸿祎说别给00后贴标签",
+        "onboard_time": 1662271827,
+        "rank": 42,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 109448,
+        "num": 109448,
+        "word": "广东新增79例确诊24例无症状",
+        "onboard_time": 1662255564,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108386,
+        "num": 108386,
+        "word": "两名退伍兵57秒狂奔11节车厢救人",
+        "onboard_time": 1662251907,
+        "rank": 44,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 105733,
+        "num": 105733,
+        "word": "香港首个抗日战争纪念馆揭幕",
+        "onboard_time": 1662272425,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103951,
+        "num": 103951,
+        "word": "娄底警方通报撞人拖行事件",
+        "onboard_time": 1662246977,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102376,
+        "num": 102376,
+        "word": "贾玲 华仔",
+        "onboard_time": 1662215433,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 98727,
+        "num": 98727,
+        "word": "清融哭了",
+        "onboard_time": 1662263907,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 89757,
+        "num": 89757,
+        "word": "校长回应摆桌放锤子免费碎手机",
+        "onboard_time": 1662258205,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#勿忘往昔峥嵘铭记伟大胜利#"
+    }
+  }
+}
