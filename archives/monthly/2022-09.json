@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662304936027,
+  "endTime": 1662306015048,
   "band_list": [
     {
       "raw_hot": 6261105,
@@ -651,6 +651,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 1557274,
+      "num": 1352151,
+      "word": "三问宝马女撞人拖行事件",
+      "onboard_time": 1662301534,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1557130,
       "num": 1058681,
       "word": "河南一医院院长当街用皮带抽打女子",
@@ -872,14 +880,6 @@
       "word": "北京冰雹",
       "onboard_time": 1662289643,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1352151,
-      "num": 1352151,
-      "word": "三问宝马女撞人拖行事件",
-      "onboard_time": 1662301534,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -3043,11 +3043,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 514459,
-      "num": 514459,
+      "raw_hot": 516562,
+      "num": 516562,
       "word": "宋仲基客串新剧状态",
       "onboard_time": 1662303452,
       "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 513464,
+      "num": 488945,
+      "word": "小小姐们",
+      "onboard_time": 1662304232,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -3395,6 +3403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 463734,
+      "num": 463734,
+      "word": "LPL出征S12队伍",
+      "onboard_time": 1662302674,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 461792,
       "num": 461792,
       "word": "锦江区疫情防控",
@@ -3480,6 +3496,14 @@
       "word": "外卖员偷餐被举报连续2天报复顾客",
       "onboard_time": 1661990124,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 452711,
+      "num": 452711,
+      "word": "深圳地铁",
+      "onboard_time": 1662303152,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -3611,6 +3635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 440705,
+      "num": 440705,
+      "word": "林柏叡走秀",
+      "onboard_time": 1662304771,
+      "rank": 25,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 439693,
       "num": 439693,
       "word": "宋轶晒于曼丽背影照问你好吗",
@@ -3657,6 +3689,14 @@
       "onboard_time": 1662002908,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 427745,
+      "num": 427745,
+      "word": "成都将继续开展全员核酸检测",
+      "onboard_time": 1662304171,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 427229,
@@ -3723,14 +3763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 423703,
-      "num": 423703,
-      "word": "深圳地铁",
-      "onboard_time": 1662303152,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 423682,
       "num": 423682,
       "word": "张凌赫宁安如梦雪景路透",
@@ -3777,14 +3809,6 @@
       "onboard_time": 1662174146,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 417217,
-      "num": 417217,
-      "word": "LPL出征S12队伍",
-      "onboard_time": 1662302674,
-      "rank": 22,
-      "category": "游戏"
     },
     {
       "raw_hot": 415357,
@@ -3857,6 +3881,14 @@
       "onboard_time": 1662295529,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 412103,
+      "num": 412103,
+      "word": "上海地铁",
+      "onboard_time": 1662303031,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 410877,
@@ -4033,14 +4065,6 @@
       "onboard_time": 1662080125,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 397514,
-      "num": 397514,
-      "word": "林柏叡走秀",
-      "onboard_time": 1662304771,
-      "rank": 25,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 397348,
@@ -4411,6 +4435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 364675,
+      "num": 364675,
+      "word": "男子深夜持刀狂砍邻居家门3分钟",
+      "onboard_time": 1662304415,
+      "rank": 43,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 364338,
       "num": 364338,
       "word": "LPL第三个春夏双冠JDG",
@@ -4683,14 +4715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 343636,
-      "num": 343636,
-      "word": "小小姐们",
-      "onboard_time": 1662304232,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 342888,
       "num": 342888,
       "word": "成都发布",
@@ -4923,14 +4947,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 330016,
-      "num": 330016,
-      "word": "成都将继续开展全员核酸检测",
-      "onboard_time": 1662304171,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 329725,
       "num": 329725,
       "word": "范丞丞的嘴从不让人失望",
@@ -4993,6 +5009,14 @@
       "onboard_time": 1661998525,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 327561,
+      "num": 327561,
+      "word": "浙江一干部落马前沉迷当榜一大哥",
+      "onboard_time": 1662304232,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 326514,
@@ -5971,6 +5995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 274867,
+      "num": 274867,
+      "word": "NH金色的雨",
+      "onboard_time": 1662305788,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 274690,
       "num": 205686,
       "word": "颜淡应渊最后一次看星空",
@@ -6201,14 +6233,6 @@
       "onboard_time": 1662198027,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 261368,
-      "num": 261368,
-      "word": "上海地铁",
-      "onboard_time": 1662303031,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 260326,
@@ -6649,14 +6673,6 @@
       "onboard_time": 1662171804,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 232029,
-      "num": 232029,
-      "word": "男子深夜持刀狂砍邻居家门3分钟",
-      "onboard_time": 1662304415,
-      "rank": 43,
-      "category": "社会负面"
     },
     {
       "raw_hot": 231311,
@@ -7123,14 +7139,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 209842,
-      "num": 209842,
-      "word": "浙江一干部落马前沉迷当榜一大哥",
-      "onboard_time": 1662304232,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 209684,
       "num": 155208,
       "word": "杨紫成毅陕西话版沉香如屑",
@@ -7243,6 +7251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205668,
+      "num": 205668,
+      "word": "4个月宝宝被爸爸鼾声吵到空气挥拳",
+      "onboard_time": 1662305731,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205396,
       "num": 205396,
       "word": "沈梦瑶重力直拍",
@@ -7337,6 +7353,14 @@
       "onboard_time": 1662110308,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 199813,
+      "num": 199813,
+      "word": "金莎演的太平公主",
+      "onboard_time": 1662305909,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 199771,

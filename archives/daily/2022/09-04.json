@@ -1,6 +1,6 @@
 {
   "startTime": 1662222576733,
-  "endTime": 1662304936027,
+  "endTime": 1662306015048,
   "band_list": [
     {
       "raw_hot": 4005002,
@@ -163,6 +163,14 @@
       "category": "游戏,音乐"
     },
     {
+      "raw_hot": 1557274,
+      "num": 1352151,
+      "word": "三问宝马女撞人拖行事件",
+      "onboard_time": 1662301534,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1474125,
       "num": 1474125,
       "word": "浙江三地已宣布停课一天",
@@ -232,14 +240,6 @@
       "word": "北京冰雹",
       "onboard_time": 1662289643,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1352151,
-      "num": 1352151,
-      "word": "三问宝马女撞人拖行事件",
-      "onboard_time": 1662301534,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -707,11 +707,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 514459,
-      "num": 514459,
+      "raw_hot": 516562,
+      "num": 516562,
       "word": "宋仲基客串新剧状态",
       "onboard_time": 1662303452,
       "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 513464,
+      "num": 488945,
+      "word": "小小姐们",
+      "onboard_time": 1662304232,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -755,6 +763,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 463734,
+      "num": 463734,
+      "word": "LPL出征S12队伍",
+      "onboard_time": 1662302674,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 462339,
       "num": 248932,
       "word": "隐入尘烟",
@@ -776,6 +792,14 @@
       "word": "男生摘眼镜视力听力一起下降",
       "onboard_time": 1662229035,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 452711,
+      "num": 452711,
+      "word": "深圳地铁",
+      "onboard_time": 1662303152,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -803,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 440705,
+      "num": 440705,
+      "word": "林柏叡走秀",
+      "onboard_time": 1662304771,
+      "rank": 25,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 428961,
       "num": 245084,
       "word": "警方回应女司机酒驾撞人拖行事件",
@@ -811,19 +843,19 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 427745,
+      "num": 427745,
+      "word": "成都将继续开展全员核酸检测",
+      "onboard_time": 1662304171,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 423796,
       "num": 423796,
       "word": "老人赶2条狗拉车撞上宝马",
       "onboard_time": 1662253349,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 423703,
-      "num": 423703,
-      "word": "深圳地铁",
-      "onboard_time": 1662303152,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -859,20 +891,20 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 417217,
-      "num": 417217,
-      "word": "LPL出征S12队伍",
-      "onboard_time": 1662302674,
-      "rank": 22,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 412328,
       "num": 412328,
       "word": "突然就缓解了我的焦虑",
       "onboard_time": 1662295529,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 412103,
+      "num": 412103,
+      "word": "上海地铁",
+      "onboard_time": 1662303031,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 410861,
@@ -953,14 +985,6 @@
       "onboard_time": 1662287904,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 397514,
-      "num": 397514,
-      "word": "林柏叡走秀",
-      "onboard_time": 1662304771,
-      "rank": 25,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 396716,
@@ -1083,6 +1107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 364675,
+      "num": 364675,
+      "word": "男子深夜持刀狂砍邻居家门3分钟",
+      "onboard_time": 1662304415,
+      "rank": 43,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 362168,
       "num": 362168,
       "word": "很需要这种朝九晚五的友情",
@@ -1155,14 +1187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 343636,
-      "num": 343636,
-      "word": "小小姐们",
-      "onboard_time": 1662304232,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 340827,
       "num": 250791,
       "word": "罚罪",
@@ -1211,14 +1235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 330016,
-      "num": 330016,
-      "word": "成都将继续开展全员核酸检测",
-      "onboard_time": 1662304171,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 328762,
       "num": 328762,
       "word": "男子学做菜老婆急得咬牙切齿",
@@ -1233,6 +1249,14 @@
       "onboard_time": 1662218792,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 327561,
+      "num": 327561,
+      "word": "浙江一干部落马前沉迷当榜一大哥",
+      "onboard_time": 1662304232,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 324929,
@@ -1411,6 +1435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 274867,
+      "num": 274867,
+      "word": "NH金色的雨",
+      "onboard_time": 1662305788,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 270402,
       "num": 270402,
       "word": "怎么熬过失恋低谷期",
@@ -1481,14 +1513,6 @@
       "onboard_time": 1662289347,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 261368,
-      "num": 261368,
-      "word": "上海地铁",
-      "onboard_time": 1662303031,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 258834,
@@ -1585,14 +1609,6 @@
       "onboard_time": 1662249744,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 232029,
-      "num": 232029,
-      "word": "男子深夜持刀狂砍邻居家门3分钟",
-      "onboard_time": 1662304415,
-      "rank": 43,
-      "category": "社会负面"
     },
     {
       "raw_hot": 231180,
@@ -1715,14 +1731,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 209842,
-      "num": 209842,
-      "word": "浙江一干部落马前沉迷当榜一大哥",
-      "onboard_time": 1662304232,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 209448,
       "num": 173073,
       "word": "黄明昊全程跟唱怎样",
@@ -1753,6 +1761,14 @@
       "onboard_time": 1662208527,
       "rank": 28,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 205668,
+      "num": 205668,
+      "word": "4个月宝宝被爸爸鼾声吵到空气挥拳",
+      "onboard_time": 1662305731,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205396,
@@ -1793,6 +1809,14 @@
       "onboard_time": 1662200246,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199813,
+      "num": 199813,
+      "word": "金莎演的太平公主",
+      "onboard_time": 1662305909,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 198366,
