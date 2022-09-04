@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662308985389,
+  "endTime": 1662310308306,
   "band_list": [
     {
       "raw_hot": 6261105,
@@ -1475,6 +1475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 949347,
+      "num": 949347,
+      "word": "Light哭了",
+      "onboard_time": 1662306748,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 948976,
       "num": 948976,
       "word": "杜德伟第八号当铺造型",
@@ -1771,20 +1779,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 867823,
-      "num": 867823,
-      "word": "Light哭了",
-      "onboard_time": 1662306748,
-      "rank": 3,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 863465,
       "num": 863465,
       "word": "小说烂尾的原因找到了",
       "onboard_time": 1662200067,
       "rank": 42,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 859467,
+      "num": 859467,
+      "word": "全开麦真的是对歌手的夸奖吗",
+      "onboard_time": 1662306628,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 858922,
@@ -2633,14 +2641,6 @@
       "onboard_time": 1662049703,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 591505,
-      "num": 591505,
-      "word": "全开麦真的是对歌手的夸奖吗",
-      "onboard_time": 1662306628,
-      "rank": 6,
-      "category": "音乐"
     },
     {
       "raw_hot": 589324,
@@ -5827,6 +5827,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 282699,
+      "num": 282699,
+      "word": "朱正廷霸王别姬舞台",
+      "onboard_time": 1662309741,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 282487,
       "num": 282487,
       "word": "北京43岁女子冻龄般颜值",
@@ -8147,6 +8155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157502,
+      "num": 157502,
+      "word": "广州地铁全线网所有车站恢复正常运营",
+      "onboard_time": 1662308007,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157240,
       "num": 157240,
       "word": "武汉新增12例本土无症状",
@@ -8881,14 +8897,6 @@
       "onboard_time": 1662279569,
       "rank": 47,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 102297,
-      "num": 102297,
-      "word": "广州地铁全线网所有车站恢复正常运营",
-      "onboard_time": 1662308007,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 100913,

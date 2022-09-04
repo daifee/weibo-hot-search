@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662308985389,
+  "endTime": 1662310308306,
   "band_list": [
     {
       "raw_hot": 1739706,
@@ -19,6 +19,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 949347,
+      "num": 949347,
+      "word": "Light哭了",
+      "onboard_time": 1662306748,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 946214,
       "num": 946214,
       "word": "呼吸哥哭了",
@@ -27,12 +35,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 867823,
-      "num": 867823,
-      "word": "Light哭了",
-      "onboard_time": 1662306748,
-      "rank": 3,
-      "category": "游戏"
+      "raw_hot": 859467,
+      "num": 859467,
+      "word": "全开麦真的是对歌手的夸奖吗",
+      "onboard_time": 1662306628,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 855528,
@@ -57,14 +65,6 @@
       "onboard_time": 1662290906,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 591505,
-      "num": 591505,
-      "word": "全开麦真的是对歌手的夸奖吗",
-      "onboard_time": 1662306628,
-      "rank": 6,
-      "category": "音乐"
     },
     {
       "raw_hot": 532390,
@@ -177,6 +177,14 @@
       "onboard_time": 1662303452,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 282699,
+      "num": 282699,
+      "word": "朱正廷霸王别姬舞台",
+      "onboard_time": 1662309741,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 280768,
@@ -315,6 +323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 157502,
+      "num": 157502,
+      "word": "广州地铁全线网所有车站恢复正常运营",
+      "onboard_time": 1662308007,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154638,
       "num": 154638,
       "word": "突然就缓解了我的焦虑",
@@ -371,14 +387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 102297,
-      "num": 102297,
-      "word": "广州地铁全线网所有车站恢复正常运营",
-      "onboard_time": 1662308007,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 97614,
       "num": 97614,
       "word": "上海台风",
@@ -395,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74151,
+      "num": 74151,
+      "word": "NH金色的雨",
+      "onboard_time": 1662305788,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 22265,
       "num": 882344,
       "word": "2022服贸会观展指北",
@@ -406,6 +422,9 @@
   "hotgov_list": [
     {
       "word": "#国之功勋国礼崇之#"
+    },
+    {
+      "word": "#网络安全为人民网络安全靠人民#"
     }
   ]
 }
