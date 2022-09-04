@@ -1,0 +1,410 @@
+{
+  "runTime": 1662284274488,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1460826,
+        "num": 1460826,
+        "word": "女孩现场怒斥酒驾母亲不要影响我考大学",
+        "onboard_time": 1662275487,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1318462,
+        "num": 1318462,
+        "word": "陈奕迅孤勇者",
+        "onboard_time": 1662281246,
+        "rank": 1,
+        "category": "游戏,音乐"
+      },
+      {
+        "raw_hot": 192521,
+        "num": 1065951,
+        "word": "我国首条跨海高铁这样跨海",
+        "onboard_time": 1662277048,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 968686,
+        "num": 968686,
+        "word": "男子在楼房腰线处浇花失足坠亡",
+        "onboard_time": 1662277829,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 792939,
+        "num": 792939,
+        "word": "男子殴打猥亵女儿者检察院不起诉",
+        "onboard_time": 1662275427,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 774063,
+        "num": 774063,
+        "word": "上海9月4日晚暂停开放景观照明",
+        "onboard_time": 1662276687,
+        "rank": 5,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 720314,
+        "num": 720314,
+        "word": "君合",
+        "onboard_time": 1662275246,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 680499,
+        "num": 680499,
+        "word": "约1.2亿老人逐渐失去了听力",
+        "onboard_time": 1662275188,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 653709,
+        "num": 653709,
+        "word": "产科医生辟谣双胞胎肚内打架",
+        "onboard_time": 1662282270,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575431,
+        "num": 575431,
+        "word": "央视中秋晚会第三波阵容官宣",
+        "onboard_time": 1662282328,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 715624,
+        "num": 574793,
+        "word": "赵露思陈哲远摸头路透",
+        "onboard_time": 1662281669,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 612860,
+        "num": 573522,
+        "word": "核酸",
+        "onboard_time": 1662272245,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 571365,
+        "num": 571365,
+        "word": "成毅沉香如屑3个角色无人生还",
+        "onboard_time": 1662280707,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 571248,
+        "num": 571248,
+        "word": "姜涩琪solo",
+        "onboard_time": 1662277469,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 467421,
+        "num": 467421,
+        "word": "安徽滁州发现12例核酸异常",
+        "onboard_time": 1662278549,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352098,
+        "num": 352098,
+        "word": "弟弟退伍第二天在家包揽家务",
+        "onboard_time": 1662280649,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324929,
+        "num": 324929,
+        "word": "四川多所高校发暂缓返校通知",
+        "onboard_time": 1662280828,
+        "rank": 16,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 299297,
+        "num": 299297,
+        "word": "网红表演生吃活蜜蜂惨变香肠嘴",
+        "onboard_time": 1662281729,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277929,
+        "num": 277929,
+        "word": "宝妈怕娃闹给同飞机乘客备100份礼袋",
+        "onboard_time": 1662271944,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264867,
+        "num": 264867,
+        "word": "宁波停课",
+        "onboard_time": 1662273327,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 252824,
+        "num": 252824,
+        "word": "被黄明昊的反向发誓整笑了",
+        "onboard_time": 1662281848,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240104,
+        "num": 240104,
+        "word": "财管",
+        "onboard_time": 1662281669,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 223416,
+        "num": 223416,
+        "word": "杨紫颜淡剜心剧照",
+        "onboard_time": 1662278728,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220728,
+        "num": 220728,
+        "word": "你也患上热度排斥症了吗",
+        "onboard_time": 1662274764,
+        "rank": 23,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 220524,
+        "num": 220524,
+        "word": "古偶最虐心名场面",
+        "onboard_time": 1662282208,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211712,
+        "num": 211712,
+        "word": "RNG",
+        "onboard_time": 1662275847,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 206540,
+        "num": 206540,
+        "word": "12岁男孩玩游戏花掉17万妈妈卖房",
+        "onboard_time": 1662283526,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196536,
+        "num": 196536,
+        "word": "男子回农村花12万买下1200平大院",
+        "onboard_time": 1662283587,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194201,
+        "num": 194201,
+        "word": "人体24小时血糖这样变化",
+        "onboard_time": 1662276026,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186973,
+        "num": 186973,
+        "word": "买礼物被评论教育到",
+        "onboard_time": 1662282509,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186354,
+        "num": 186354,
+        "word": "瘫痪女子自学36年办个人画展",
+        "onboard_time": 1662274945,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181793,
+        "num": 181793,
+        "word": "成都巨响",
+        "onboard_time": 1662260066,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178530,
+        "num": 178530,
+        "word": "成都疫情防控",
+        "onboard_time": 1662255504,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165060,
+        "num": 165060,
+        "word": "GAI说缺那一句你们唱我们听",
+        "onboard_time": 1662274407,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164018,
+        "num": 164018,
+        "word": "王一博没少跳本草纲目吧",
+        "onboard_time": 1662269606,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159656,
+        "num": 159656,
+        "word": "沉香重华",
+        "onboard_time": 1662283766,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156723,
+        "num": 156723,
+        "word": "小学生食堂相互模仿端餐盘走碎步慢行",
+        "onboard_time": 1662282270,
+        "rank": 36,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 154247,
+        "num": 154247,
+        "word": "退伍军人高铁伸脚挡行李箱1小时",
+        "onboard_time": 1662283228,
+        "rank": 37,
+        "category": "社会正能量,军事"
+      },
+      {
+        "raw_hot": 153272,
+        "num": 153272,
+        "word": "一个人在外打拼有多难",
+        "onboard_time": 1662279869,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150068,
+        "num": 150068,
+        "word": "新人放礼花满地狼藉环卫工拦婚车",
+        "onboard_time": 1662279327,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148488,
+        "num": 148488,
+        "word": "RNG对战LNG",
+        "onboard_time": 1662282749,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146426,
+        "num": 146426,
+        "word": "老人两天没出门邻居翻墙救人",
+        "onboard_time": 1662267268,
+        "rank": 41,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1063061,
+        "num": 141872,
+        "word": "重庆一小区有人抢孩子",
+        "onboard_time": 1662279869,
+        "rank": 42,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 134938,
+        "num": 134938,
+        "word": "冰雨火",
+        "onboard_time": 1662284129,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134189,
+        "num": 134189,
+        "word": "贵阳新冠阳性病例累计达104例",
+        "onboard_time": 1662267867,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131964,
+        "num": 131964,
+        "word": "范丞丞一眼认出皮卡丘黄",
+        "onboard_time": 1662277108,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131294,
+        "num": 131294,
+        "word": "撞人拖行伤者司机最高或面临7年徒刑",
+        "onboard_time": 1662273566,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128727,
+        "num": 128727,
+        "word": "虞书欣张彬彬推拉文学",
+        "onboard_time": 1662275127,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 112857,
+        "num": 112857,
+        "word": "西双版纳调皮小象滑滑梯下坡",
+        "onboard_time": 1662281908,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111404,
+        "num": 111404,
+        "word": "姜小果齐颂在一起了",
+        "onboard_time": 1662265227,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#在服贸会遇见未来生活#"
+    }
+  }
+}
