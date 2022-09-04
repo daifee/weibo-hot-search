@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662323047436,
+  "endTime": 1662323959619,
   "band_list": [
     {
       "raw_hot": 1739706,
@@ -443,8 +443,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 37486,
-      "num": 37486,
+      "raw_hot": 38848,
+      "num": 38848,
       "word": "覆流年里女主的爹是萧剑",
       "onboard_time": 1662319872,
       "rank": 42,
@@ -467,20 +467,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 10088,
-      "num": 10088,
+      "raw_hot": 16766,
+      "num": 16766,
       "word": "布拉格爆发抗议反对欧盟和北约",
       "onboard_time": 1662322212,
       "rank": 46,
       "category": "国外要闻,社会新闻"
     },
     {
-      "raw_hot": 7479,
-      "num": 7930,
+      "raw_hot": 13593,
+      "num": 13593,
       "word": "老人在小区用牵引绳抽狗疑泄愤",
       "onboard_time": 1662322631,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7324,
+      "num": 10314,
+      "word": "江浙沪一大半地区在下雨",
+      "onboard_time": 1662323591,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7064,
+      "num": 10139,
+      "word": "老人被困火场青年爬楼破墙救人",
+      "onboard_time": 1662323950,
+      "rank": 49,
+      "category": "社会正能量"
     }
   ],
   "hotgov_list": [
