@@ -1,7 +1,15 @@
 {
   "startTime": 1662222576733,
-  "endTime": 1662273865401,
+  "endTime": 1662276026879,
   "band_list": [
+    {
+      "raw_hot": 4005002,
+      "num": 4005002,
+      "word": "核酸",
+      "onboard_time": 1662272245,
+      "rank": 26,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 3032807,
       "num": 3032807,
@@ -27,6 +35,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 2179078,
+      "num": 2179078,
+      "word": "宁波停课",
+      "onboard_time": 1662273327,
+      "rank": 29,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1926434,
       "num": 1615998,
       "word": "马苏哭了",
@@ -41,14 +57,6 @@
       "onboard_time": 1662217053,
       "rank": 0,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1904798,
-      "num": 1904798,
-      "word": "核酸",
-      "onboard_time": 1662272245,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1890323,
@@ -120,6 +128,14 @@
       "word": "贵阳新冠阳性病例累计达104例",
       "onboard_time": 1662267867,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 989949,
+      "num": 989949,
+      "word": "宝妈怕娃闹给同飞机乘客备100份礼袋",
+      "onboard_time": 1662271944,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -251,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 554963,
+      "num": 554963,
+      "word": "虞书欣张彬彬推拉文学",
+      "onboard_time": 1662275127,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 547157,
       "num": 521948,
       "word": "荡平小森林",
@@ -280,14 +304,6 @@
       "word": "阿根廷不明原因肺炎系军团菌感染",
       "onboard_time": 1662251303,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 529201,
-      "num": 529201,
-      "word": "宝妈怕娃闹给同飞机乘客备100份礼袋",
-      "onboard_time": 1662271944,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -339,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 451722,
+      "num": 451722,
+      "word": "GAI说缺那一句你们唱我们听",
+      "onboard_time": 1662274407,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 441248,
       "num": 441248,
       "word": "十大年度国家IP评选",
@@ -379,12 +403,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 409104,
+      "num": 409104,
+      "word": "新人被拦车讨喜发十几条烟都不够",
+      "onboard_time": 1662271346,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 406300,
       "num": 406300,
       "word": "广东新增79例确诊24例无症状",
       "onboard_time": 1662255564,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 402702,
+      "num": 402702,
+      "word": "没有郑钧不敢回答的问题",
+      "onboard_time": 1662272307,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 401834,
@@ -499,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 339029,
+      "num": 339029,
+      "word": "君合",
+      "onboard_time": 1662275246,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 338091,
       "num": 338091,
       "word": "清融",
@@ -539,6 +587,22 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 306664,
+      "num": 306664,
+      "word": "四川阿坝州实施全域静态管理",
+      "onboard_time": 1662273383,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305336,
+      "num": 305336,
+      "word": "黄景瑜黄明昊杨超越苟到最后就是赢",
+      "onboard_time": 1662275547,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 300752,
       "num": 300752,
       "word": "爱情发生在三天后大结局",
@@ -555,20 +619,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 295541,
-      "num": 295541,
-      "word": "新人被拦车讨喜发十几条烟都不够",
-      "onboard_time": 1662271346,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 293499,
       "num": 180971,
       "word": "邢菲眼神戏对比",
       "onboard_time": 1662226576,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 290499,
+      "num": 290499,
+      "word": "成都交警回应救护车与出租车相撞",
+      "onboard_time": 1662274945,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277291,
+      "num": 277291,
+      "word": "约1.2亿老人逐渐失去了听力",
+      "onboard_time": 1662275188,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 275283,
@@ -587,14 +659,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 268741,
-      "num": 268741,
-      "word": "没有郑钧不敢回答的问题",
-      "onboard_time": 1662272307,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 265178,
       "num": 256215,
       "word": "蔡徐坤说热爱你热爱的就够了",
@@ -608,6 +672,30 @@
       "word": "清融哭了",
       "onboard_time": 1662263907,
       "rank": 27,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 264807,
+      "num": 264807,
+      "word": "男子殴打猥亵女儿者检察院不起诉",
+      "onboard_time": 1662275427,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264434,
+      "num": 264434,
+      "word": "爱的二八定律角色号",
+      "onboard_time": 1662274407,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 264099,
+      "num": 264099,
+      "word": "RC无畏牧野逐风大片",
+      "onboard_time": 1662275666,
+      "rank": 23,
       "category": "游戏"
     },
     {
@@ -639,6 +727,14 @@
       "num": 252417,
       "word": "小偷入室盗窃从屋主怀中拿包",
       "onboard_time": 1662261387,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250010,
+      "num": 250010,
+      "word": "女孩现场怒斥酒驾母亲不要影响我考大学",
+      "onboard_time": 1662275487,
       "rank": 24,
       "category": "社会新闻"
     },
@@ -681,6 +777,14 @@
       "onboard_time": 1662265525,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 235088,
+      "num": 235088,
+      "word": "RNG",
+      "onboard_time": 1662275847,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 233438,
@@ -819,6 +923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 203076,
+      "num": 203076,
+      "word": "宁波教育",
+      "onboard_time": 1662275246,
+      "rank": 28,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 202166,
       "num": 202166,
       "word": "挑战者杯",
@@ -859,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188667,
+      "num": 188667,
+      "word": "撞人拖行伤者司机最高或面临7年徒刑",
+      "onboard_time": 1662273566,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185333,
       "num": 141944,
       "word": "潘玮柏唱快乐崇拜爷青回",
@@ -875,12 +995,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 179148,
-      "num": 179148,
-      "word": "宁波停课",
-      "onboard_time": 1662273327,
-      "rank": 29,
-      "category": "教育,社会新闻"
+      "raw_hot": 178734,
+      "num": 178734,
+      "word": "吉林新增11例确诊81例无症状",
+      "onboard_time": 1662270146,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171068,
@@ -889,6 +1009,14 @@
       "onboard_time": 1662259886,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170176,
+      "num": 170176,
+      "word": "你也患上热度排斥症了吗",
+      "onboard_time": 1662274764,
+      "rank": 37,
+      "category": "社会议题"
     },
     {
       "raw_hot": 168088,
@@ -995,14 +1123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 143257,
-      "num": 143257,
-      "word": "四川阿坝州实施全域静态管理",
-      "onboard_time": 1662273383,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 141599,
       "num": 141599,
       "word": "丁禹兮演的金针菇",
@@ -1017,14 +1137,6 @@
       "onboard_time": 1662218491,
       "rank": 43,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 140544,
-      "num": 140544,
-      "word": "吉林新增11例确诊81例无症状",
-      "onboard_time": 1662270146,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 137258,
@@ -1083,11 +1195,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119364,
+      "num": 119364,
+      "word": "宝妈登机后带娃发糖减少哭闹影响",
+      "onboard_time": 1662275007,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116028,
       "num": 116028,
       "word": "9月3日新增本土确诊314例",
       "onboard_time": 1662256948,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113998,
+      "num": 113290,
+      "word": "人体24小时血糖这样变化",
+      "onboard_time": 1662276026,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113784,
+      "num": 113784,
+      "word": "瘫痪女子自学36年办个人画展",
+      "onboard_time": 1662274945,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1105,14 +1241,6 @@
       "onboard_time": 1662271827,
       "rank": 42,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 110080,
-      "num": 110080,
-      "word": "撞人拖行伤者司机最高或面临7年徒刑",
-      "onboard_time": 1662273566,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108594,

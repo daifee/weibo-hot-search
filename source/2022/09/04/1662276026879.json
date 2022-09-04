@@ -1,0 +1,410 @@
+{
+  "runTime": 1662276026879,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4005002,
+        "num": 4005002,
+        "word": "核酸",
+        "onboard_time": 1662272245,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2179078,
+        "num": 2179078,
+        "word": "宁波停课",
+        "onboard_time": 1662273327,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 9969,
+        "num": 999271,
+        "word": "神十四首次出舱任务全回顾",
+        "onboard_time": 1662207448,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 989949,
+        "num": 989949,
+        "word": "宝妈怕娃闹给同飞机乘客备100份礼袋",
+        "onboard_time": 1662271944,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 803719,
+        "num": 803719,
+        "word": "王一博没少跳本草纲目吧",
+        "onboard_time": 1662269606,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 599489,
+        "num": 599489,
+        "word": "成都巨响",
+        "onboard_time": 1662260066,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554963,
+        "num": 554963,
+        "word": "虞书欣张彬彬推拉文学",
+        "onboard_time": 1662275127,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 543607,
+        "num": 543607,
+        "word": "双胞胎在肚里打架出生后浑身淤青",
+        "onboard_time": 1662246256,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495379,
+        "num": 495379,
+        "word": "贵阳新冠阳性病例累计达104例",
+        "onboard_time": 1662267867,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485159,
+        "num": 485159,
+        "word": "北大数学天才还俗后称必须面对加班",
+        "onboard_time": 1662269245,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451722,
+        "num": 451722,
+        "word": "GAI说缺那一句你们唱我们听",
+        "onboard_time": 1662274407,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 430800,
+        "num": 430800,
+        "word": "老人两天没出门邻居翻墙救人",
+        "onboard_time": 1662267268,
+        "rank": 11,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 409104,
+        "num": 409104,
+        "word": "新人被拦车讨喜发十几条烟都不够",
+        "onboard_time": 1662271346,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402702,
+        "num": 402702,
+        "word": "没有郑钧不敢回答的问题",
+        "onboard_time": 1662272307,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 349623,
+        "num": 349623,
+        "word": "复读13年唐尚珺回应放弃就读上海交大",
+        "onboard_time": 1662270687,
+        "rank": 14,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 339029,
+        "num": 339029,
+        "word": "君合",
+        "onboard_time": 1662275246,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306664,
+        "num": 306664,
+        "word": "四川阿坝州实施全域静态管理",
+        "onboard_time": 1662273383,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305336,
+        "num": 305336,
+        "word": "黄景瑜黄明昊杨超越苟到最后就是赢",
+        "onboard_time": 1662275547,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290499,
+        "num": 290499,
+        "word": "成都交警回应救护车与出租车相撞",
+        "onboard_time": 1662274945,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277291,
+        "num": 277291,
+        "word": "约1.2亿老人逐渐失去了听力",
+        "onboard_time": 1662275188,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308956,
+        "num": 275382,
+        "word": "马伯庸偷偷藏不住最大受害者",
+        "onboard_time": 1662262705,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 264807,
+        "num": 264807,
+        "word": "男子殴打猥亵女儿者检察院不起诉",
+        "onboard_time": 1662275427,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264434,
+        "num": 264434,
+        "word": "爱的二八定律角色号",
+        "onboard_time": 1662274407,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264099,
+        "num": 264099,
+        "word": "RC无畏牧野逐风大片",
+        "onboard_time": 1662275666,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 250010,
+        "num": 250010,
+        "word": "女孩现场怒斥酒驾母亲不要影响我考大学",
+        "onboard_time": 1662275487,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241158,
+        "num": 241158,
+        "word": "姜小果齐颂在一起了",
+        "onboard_time": 1662265227,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235088,
+        "num": 235088,
+        "word": "RNG",
+        "onboard_time": 1662275847,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 231682,
+        "num": 231682,
+        "word": "王一栩欢迎大家推荐新生代演员给我",
+        "onboard_time": 1662271227,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203076,
+        "num": 203076,
+        "word": "宁波教育",
+        "onboard_time": 1662275246,
+        "rank": 28,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 188667,
+        "num": 188667,
+        "word": "撞人拖行伤者司机最高或面临7年徒刑",
+        "onboard_time": 1662273566,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204685,
+        "num": 187886,
+        "word": "两个人的小森林",
+        "onboard_time": 1662267748,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184503,
+        "num": 184503,
+        "word": "猫猫给自己染了个颜色",
+        "onboard_time": 1662264264,
+        "rank": 31,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 183508,
+        "num": 183508,
+        "word": "第一次见带前女友相亲的",
+        "onboard_time": 1662262645,
+        "rank": 32,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 180958,
+        "num": 180958,
+        "word": "医生提醒长时间用防窥膜会视疲劳",
+        "onboard_time": 1662254485,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180422,
+        "num": 180422,
+        "word": "深圳黄码",
+        "onboard_time": 1662262043,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178734,
+        "num": 178734,
+        "word": "吉林新增11例确诊81例无症状",
+        "onboard_time": 1662270146,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173587,
+        "num": 173587,
+        "word": "律师称宝马女司机或涉故意杀人罪",
+        "onboard_time": 1662256044,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170176,
+        "num": 170176,
+        "word": "你也患上热度排斥症了吗",
+        "onboard_time": 1662274764,
+        "rank": 37,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 169343,
+        "num": 169343,
+        "word": "欧阳娜娜发长文谈跨界艺术展",
+        "onboard_time": 1662256644,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168162,
+        "num": 168162,
+        "word": "特朗普指责拜登是国家的敌人",
+        "onboard_time": 1662263066,
+        "rank": 39,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 167833,
+        "num": 167833,
+        "word": "荡平小森林",
+        "onboard_time": 1662265829,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144150,
+        "num": 144150,
+        "word": "男子悬崖边拍照突然抽筋坠崖",
+        "onboard_time": 1662258148,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140470,
+        "num": 140470,
+        "word": "成都疫情防控",
+        "onboard_time": 1662255504,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127327,
+        "num": 127327,
+        "word": "丁禹兮演的金针菇",
+        "onboard_time": 1662272787,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121889,
+        "num": 121889,
+        "word": "海狮表演现场逃跑致商场场面失控",
+        "onboard_time": 1662268345,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119364,
+        "num": 119364,
+        "word": "宝妈登机后带娃发糖减少哭闹影响",
+        "onboard_time": 1662275007,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113784,
+        "num": 113784,
+        "word": "瘫痪女子自学36年办个人画展",
+        "onboard_time": 1662274945,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113998,
+        "num": 113290,
+        "word": "人体24小时血糖这样变化",
+        "onboard_time": 1662276026,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112672,
+        "num": 112672,
+        "word": "光与夜之恋",
+        "onboard_time": 1662266428,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110605,
+        "num": 110605,
+        "word": "张含韵cos紫霞仙子",
+        "onboard_time": 1662265525,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#国之功勋国礼崇之#"
+    }
+  }
+}
