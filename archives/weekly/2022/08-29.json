@@ -1,6 +1,6 @@
 {
   "startTime": 1661704153671,
-  "endTime": 1662287989610,
+  "endTime": 1662290272062,
   "band_list": [
     {
       "raw_hot": 12749994,
@@ -299,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2740950,
+      "num": 2740950,
+      "word": "陈若仪回应儿子车祸后第一句话",
+      "onboard_time": 1662285749,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2740378,
       "num": 2740378,
       "word": "感觉大四的学费交得好亏",
@@ -417,14 +425,6 @@
       "onboard_time": 1662189263,
       "rank": 0,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 2476773,
-      "num": 2476773,
-      "word": "陈若仪回应儿子车祸后第一句话",
-      "onboard_time": 1662285749,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 2462614,
@@ -1600,6 +1600,14 @@
       "word": "4岁男孩17楼坠落奇迹生还",
       "onboard_time": 1662165145,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1341667,
+      "num": 1341667,
+      "word": "站点取消大妈逼停公交致路堵20分钟",
+      "onboard_time": 1662285928,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -3875,6 +3883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 688104,
+      "num": 688104,
+      "word": "贺峻霖主持大学生电影节",
+      "onboard_time": 1662289107,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 683554,
       "num": 683554,
       "word": "海清 隐入尘烟",
@@ -4376,6 +4392,14 @@
       "word": "4岁血癌女孩肝脾肿大腹胀如球",
       "onboard_time": 1661772510,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 621493,
+      "num": 621493,
+      "word": "上海台风",
+      "onboard_time": 1662112285,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -5035,6 +5059,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 542491,
+      "num": 542491,
+      "word": "女子称自己复活成仙骗男网友486万",
+      "onboard_time": 1662288147,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 542320,
       "num": 542320,
       "word": "拖行",
@@ -5211,14 +5243,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 527628,
-      "num": 527628,
-      "word": "上海台风",
-      "onboard_time": 1662112285,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 527613,
       "num": 413338,
       "word": "黄晓明杨幂沈腾为狼队打call",
@@ -5313,14 +5337,6 @@
       "onboard_time": 1661758167,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 516678,
-      "num": 516678,
-      "word": "站点取消大妈逼停公交致路堵20分钟",
-      "onboard_time": 1662285928,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 516565,
@@ -5971,6 +5987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 454732,
+      "num": 454732,
+      "word": "锦江区疫情防控",
+      "onboard_time": 1662287425,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 454506,
       "num": 454506,
       "word": "高圆圆上班路透",
@@ -6400,6 +6424,14 @@
       "word": "留学生为种好一颗梨花光800万积蓄",
       "onboard_time": 1662008015,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 424754,
+      "num": 424754,
+      "word": "北京冰雹",
+      "onboard_time": 1662289643,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -8089,6 +8121,14 @@
       "onboard_time": 1662004948,
       "rank": 27,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 338363,
+      "num": 338363,
+      "word": "求恋爱的夏天改名",
+      "onboard_time": 1662287904,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 338347,
@@ -10851,6 +10891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 240762,
+      "num": 228398,
+      "word": "陈宇一通电话盘清24集",
+      "onboard_time": 1662288386,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 240181,
       "num": 240181,
       "word": "范世錡海芋恋完整版上线",
@@ -10929,6 +10977,14 @@
       "onboard_time": 1662265525,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 236786,
+      "num": 236786,
+      "word": "女子和男友吵架吃60粒褪黑素进ICU",
+      "onboard_time": 1662289107,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 236033,
@@ -11801,6 +11857,14 @@
       "onboard_time": 1661722631,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207672,
+      "num": 207672,
+      "word": "Ale",
+      "onboard_time": 1662290066,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 207654,
@@ -12947,6 +13011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 168660,
+      "num": 168660,
+      "word": "RNG2比0领先",
+      "onboard_time": 1662289825,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 168394,
       "num": 168394,
       "word": "平台回应通缉犯的抓捕赏金仅4元",
@@ -12985,14 +13057,6 @@
       "onboard_time": 1661842770,
       "rank": 36,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 166810,
-      "num": 166810,
-      "word": "锦江区疫情防控",
-      "onboard_time": 1662287425,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165949,
@@ -13505,14 +13569,6 @@
       "onboard_time": 1662248058,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144439,
-      "num": 144439,
-      "word": "求恋爱的夏天改名",
-      "onboard_time": 1662287904,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 143275,

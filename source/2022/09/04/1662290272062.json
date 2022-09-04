@@ -1,0 +1,410 @@
+{
+  "runTime": 1662290272062,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2740950,
+        "num": 2740950,
+        "word": "陈若仪回应儿子车祸后第一句话",
+        "onboard_time": 1662285749,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1341667,
+        "num": 1341667,
+        "word": "站点取消大妈逼停公交致路堵20分钟",
+        "onboard_time": 1662285928,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186233,
+        "num": 1188928,
+        "word": "我国首条跨海高铁这样跨海",
+        "onboard_time": 1662277048,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1664991,
+        "num": 1130393,
+        "word": "赵露思孟美岐对手戏",
+        "onboard_time": 1662287245,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1066049,
+        "num": 1066049,
+        "word": "成都疫情防控",
+        "onboard_time": 1662286766,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 823977,
+        "num": 823977,
+        "word": "男子回农村花12万买下1200平大院",
+        "onboard_time": 1662283587,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 688104,
+        "num": 688104,
+        "word": "贺峻霖主持大学生电影节",
+        "onboard_time": 1662289107,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 681689,
+        "num": 681689,
+        "word": "产科医生辟谣双胞胎肚内打架",
+        "onboard_time": 1662282270,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 621493,
+        "num": 621493,
+        "word": "上海台风",
+        "onboard_time": 1662284364,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 573398,
+        "num": 573398,
+        "word": "约1.2亿老人逐渐失去了听力",
+        "onboard_time": 1662275188,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542491,
+        "num": 542491,
+        "word": "女子称自己复活成仙骗男网友486万",
+        "onboard_time": 1662288147,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514426,
+        "num": 514426,
+        "word": "陈奕迅孤勇者",
+        "onboard_time": 1662281246,
+        "rank": 11,
+        "category": "游戏,音乐"
+      },
+      {
+        "raw_hot": 460647,
+        "num": 460647,
+        "word": "女孩现场怒斥酒驾母亲不要影响我考大学",
+        "onboard_time": 1662275487,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454732,
+        "num": 454732,
+        "word": "锦江区疫情防控",
+        "onboard_time": 1662287425,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451844,
+        "num": 451844,
+        "word": "12岁男孩玩游戏花掉17万妈妈卖房",
+        "onboard_time": 1662283526,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446191,
+        "num": 446191,
+        "word": "君合",
+        "onboard_time": 1662275246,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432478,
+        "num": 432478,
+        "word": "男子在楼房腰线处浇花失足坠亡",
+        "onboard_time": 1662277829,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 424754,
+        "num": 424754,
+        "word": "北京冰雹",
+        "onboard_time": 1662289643,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396028,
+        "num": 396028,
+        "word": "广州地铁",
+        "onboard_time": 1662285749,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368291,
+        "num": 368291,
+        "word": "退伍军人高铁伸脚挡行李箱1小时",
+        "onboard_time": 1662283228,
+        "rank": 19,
+        "category": "社会正能量,军事"
+      },
+      {
+        "raw_hot": 346649,
+        "num": 346649,
+        "word": "央视中秋晚会第三波阵容官宣",
+        "onboard_time": 1662282328,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338363,
+        "num": 338363,
+        "word": "求恋爱的夏天改名",
+        "onboard_time": 1662287904,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 327760,
+        "num": 327760,
+        "word": "姜涩琪solo",
+        "onboard_time": 1662277469,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317677,
+        "num": 317677,
+        "word": "男子殴打猥亵女儿者检察院不起诉",
+        "onboard_time": 1662275427,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293767,
+        "num": 293767,
+        "word": "成毅沉香如屑3个角色无人生还",
+        "onboard_time": 1662280707,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262185,
+        "num": 262185,
+        "word": "RNG拿到赛点",
+        "onboard_time": 1662289347,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 257166,
+        "num": 257166,
+        "word": "张凌赫宁安如梦雪景路透",
+        "onboard_time": 1662286766,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 249134,
+        "num": 249134,
+        "word": "RNG对战LNG",
+        "onboard_time": 1662282749,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 236786,
+        "num": 236786,
+        "word": "女子和男友吵架吃60粒褪黑素进ICU",
+        "onboard_time": 1662289107,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233252,
+        "num": 233252,
+        "word": "核酸",
+        "onboard_time": 1662272245,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241845,
+        "num": 232804,
+        "word": "宋亚轩的叛逆都用来选歌了",
+        "onboard_time": 1662287366,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 240762,
+        "num": 228398,
+        "word": "陈宇一通电话盘清24集",
+        "onboard_time": 1662288386,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238706,
+        "num": 226876,
+        "word": "脱轨网传主演暂定刘浩存林一",
+        "onboard_time": 1662286166,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213071,
+        "num": 213071,
+        "word": "网红表演生吃活蜜蜂惨变香肠嘴",
+        "onboard_time": 1662281729,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209990,
+        "num": 209990,
+        "word": "人体24小时血糖这样变化",
+        "onboard_time": 1662276026,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207672,
+        "num": 207672,
+        "word": "Ale",
+        "onboard_time": 1662290066,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 187675,
+        "num": 187675,
+        "word": "上海9月4日晚暂停开放景观照明",
+        "onboard_time": 1662276687,
+        "rank": 36,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 181316,
+        "num": 181316,
+        "word": "小学生食堂相互模仿端餐盘走碎步慢行",
+        "onboard_time": 1662282270,
+        "rank": 37,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 168660,
+        "num": 168660,
+        "word": "RNG2比0领先",
+        "onboard_time": 1662289825,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168073,
+        "num": 168073,
+        "word": "古偶最虐心名场面",
+        "onboard_time": 1662282208,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159145,
+        "num": 159145,
+        "word": "安徽滁州发现12例核酸异常",
+        "onboard_time": 1662278549,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159135,
+        "num": 159135,
+        "word": "大一和大四立flag的区别",
+        "onboard_time": 1662286886,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 153211,
+        "num": 153211,
+        "word": "蔡徐坤沸腾校园花絮照",
+        "onboard_time": 1662285987,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152787,
+        "num": 152787,
+        "word": "瘫痪女子自学36年办个人画展",
+        "onboard_time": 1662274945,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146310,
+        "num": 146310,
+        "word": "当人类试图和猫咪讲道理",
+        "onboard_time": 1662285447,
+        "rank": 44,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 123900,
+        "num": 123900,
+        "word": "宁波停课",
+        "onboard_time": 1662273327,
+        "rank": 45,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 114982,
+        "num": 114982,
+        "word": "买礼物被评论教育到",
+        "onboard_time": 1662282509,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109695,
+        "num": 109695,
+        "word": "杨紫颜淡剜心剧照",
+        "onboard_time": 1662278728,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109345,
+        "num": 109345,
+        "word": "宝妈怕娃闹给同飞机乘客备100份礼袋",
+        "onboard_time": 1662271944,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107777,
+        "num": 107777,
+        "word": "弟弟退伍第二天在家包揽家务",
+        "onboard_time": 1662280649,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#我在服贸会等你#"
+    }
+  }
+}

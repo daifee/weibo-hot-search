@@ -1,6 +1,6 @@
 {
   "startTime": 1662222576733,
-  "endTime": 1662287989610,
+  "endTime": 1662290272062,
   "band_list": [
     {
       "raw_hot": 4005002,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2740950,
+      "num": 2740950,
+      "word": "陈若仪回应儿子车祸后第一句话",
+      "onboard_time": 1662285749,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2719923,
       "num": 2719923,
       "word": "成都巨响",
@@ -33,14 +41,6 @@
       "onboard_time": 1662208166,
       "rank": 21,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 2476773,
-      "num": 2476773,
-      "word": "陈若仪回应儿子车祸后第一句话",
-      "onboard_time": 1662285749,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 2211659,
@@ -145,6 +145,14 @@
       "onboard_time": 1662215433,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1341667,
+      "num": 1341667,
+      "word": "站点取消大妈逼停公交致路堵20分钟",
+      "onboard_time": 1662285928,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1321239,
@@ -339,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 688104,
+      "num": 688104,
+      "word": "贺峻霖主持大学生电影节",
+      "onboard_time": 1662289107,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 680175,
       "num": 680175,
       "word": "央视中秋晚会第三波阵容官宣",
@@ -377,6 +393,14 @@
       "onboard_time": 1662256706,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 621493,
+      "num": 621493,
+      "word": "上海台风",
+      "onboard_time": 1662284364,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 609582,
@@ -427,6 +451,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 542491,
+      "num": 542491,
+      "word": "女子称自己复活成仙骗男网友486万",
+      "onboard_time": 1662288147,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 540949,
       "num": 540949,
       "word": "成都黄码",
@@ -459,27 +491,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 527628,
-      "num": 527628,
-      "word": "上海台风",
-      "onboard_time": 1662284364,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 527108,
       "num": 527108,
       "word": "娄底被撞伤者生命体征平稳",
       "onboard_time": 1662247880,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 516678,
-      "num": 516678,
-      "word": "站点取消大妈逼停公交致路堵20分钟",
-      "onboard_time": 1662285928,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -523,6 +539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 454732,
+      "num": 454732,
+      "word": "锦江区疫情防控",
+      "onboard_time": 1662287425,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 454088,
       "num": 454088,
       "word": "男生摘眼镜视力听力一起下降",
@@ -553,6 +577,14 @@
       "onboard_time": 1662211230,
       "rank": 23,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 424754,
+      "num": 424754,
+      "word": "北京冰雹",
+      "onboard_time": 1662289643,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 423796,
@@ -795,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 338363,
+      "num": 338363,
+      "word": "求恋爱的夏天改名",
+      "onboard_time": 1662287904,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 338091,
       "num": 338091,
       "word": "清融",
@@ -1011,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 262185,
+      "num": 262185,
+      "word": "RNG拿到赛点",
+      "onboard_time": 1662289347,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 258834,
       "num": 258834,
       "word": "Doinb再次打拳庆祝",
@@ -1067,6 +1115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 240762,
+      "num": 228398,
+      "word": "陈宇一通电话盘清24集",
+      "onboard_time": 1662288386,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 240172,
       "num": 240172,
       "word": "小胖总决赛MVP",
@@ -1097,6 +1153,14 @@
       "onboard_time": 1662265525,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 236786,
+      "num": 236786,
+      "word": "女子和男友吵架吃60粒褪黑素进ICU",
+      "onboard_time": 1662289107,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233438,
@@ -1233,6 +1297,14 @@
       "onboard_time": 1662267449,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207672,
+      "num": 207672,
+      "word": "Ale",
+      "onboard_time": 1662290066,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 206361,
@@ -1387,6 +1459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168660,
+      "num": 168660,
+      "word": "RNG2比0领先",
+      "onboard_time": 1662289825,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 168088,
       "num": 168088,
       "word": "周末一个人能干嘛",
@@ -1401,14 +1481,6 @@
       "onboard_time": 1662213276,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 166810,
-      "num": 166810,
-      "word": "锦江区疫情防控",
-      "onboard_time": 1662287425,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165949,
@@ -1521,14 +1593,6 @@
       "onboard_time": 1662248058,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144439,
-      "num": 144439,
-      "word": "求恋爱的夏天改名",
-      "onboard_time": 1662287904,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 141599,
