@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662330090184,
+  "endTime": 1662331110007,
   "band_list": [
     {
       "raw_hot": 1739706,
@@ -123,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 390283,
+      "num": 390283,
+      "word": "世界游泳冠军遭酒店救生员暴力威胁",
+      "onboard_time": 1662294089,
+      "rank": 27,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 389393,
       "num": 389393,
       "word": "张凌赫跳舞",
@@ -201,14 +209,6 @@
       "onboard_time": 1662295288,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 256986,
-      "num": 256986,
-      "word": "世界游泳冠军遭酒店救生员暴力威胁",
-      "onboard_time": 1662294089,
-      "rank": 27,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 243764,
@@ -315,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167723,
+      "num": 167723,
+      "word": "老人在小区用牵引绳抽狗疑泄愤",
+      "onboard_time": 1662322631,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165511,
       "num": 165511,
       "word": "Uzi解说",
@@ -347,6 +355,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 145624,
+      "num": 145624,
+      "word": "上海台风",
+      "onboard_time": 1662284364,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144880,
+      "num": 144880,
+      "word": "全校536名学生视力全部5.0或以上",
+      "onboard_time": 1662326771,
+      "rank": 42,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 132846,
       "num": 132846,
       "word": "外婆首次用平板画画惊呆孙子",
@@ -371,12 +395,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 120859,
-      "num": 120859,
-      "word": "上海台风",
-      "onboard_time": 1662284364,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 120927,
+      "num": 120927,
+      "word": "覆流年里女主的爹是萧剑",
+      "onboard_time": 1662319872,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 118839,
@@ -384,14 +408,6 @@
       "word": "乌鲁木齐疫情防控动态",
       "onboard_time": 1662301415,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 115743,
-      "num": 115743,
-      "word": "老人在小区用牵引绳抽狗疑泄愤",
-      "onboard_time": 1662322631,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -403,6 +419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 112701,
+      "num": 112701,
+      "word": "布拉格爆发抗议反对欧盟和北约",
+      "onboard_time": 1662322212,
+      "rank": 46,
+      "category": "国外要闻,社会新闻"
+    },
+    {
       "raw_hot": 110703,
       "num": 110703,
       "word": "女子称自己复活成仙骗男网友486万",
@@ -411,12 +435,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 100510,
-      "num": 100510,
-      "word": "布拉格爆发抗议反对欧盟和北约",
-      "onboard_time": 1662322212,
-      "rank": 46,
-      "category": "国外要闻,社会新闻"
+      "raw_hot": 98930,
+      "num": 98930,
+      "word": "一个更容易打到蚊子的方法",
+      "onboard_time": 1662324431,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 91148,
@@ -427,20 +451,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 83013,
-      "num": 83013,
-      "word": "覆流年里女主的爹是萧剑",
-      "onboard_time": 1662319872,
-      "rank": 42,
-      "category": "影视"
+      "raw_hot": 90364,
+      "num": 90364,
+      "word": "那英撒贝宁50分钟做了3桌菜",
+      "onboard_time": 1662293427,
+      "rank": 41,
+      "category": "综艺"
     },
     {
-      "raw_hot": 76871,
-      "num": 76871,
-      "word": "一个更容易打到蚊子的方法",
-      "onboard_time": 1662324431,
+      "raw_hot": 87584,
+      "num": 87584,
+      "word": "福州现巨型乌云",
+      "onboard_time": 1662315615,
       "rank": 49,
-      "category": "情感"
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78674,
+      "num": 78674,
+      "word": "胰岛素含片或将问世",
+      "onboard_time": 1662327852,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74636,
+      "num": 74636,
+      "word": "今夏为1961年来最热夏天",
+      "onboard_time": 1662324850,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74151,
@@ -459,52 +499,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 70206,
-      "num": 70206,
-      "word": "那英撒贝宁50分钟做了3桌菜",
-      "onboard_time": 1662293427,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 61086,
-      "num": 61086,
-      "word": "今夏为1961年来最热夏天",
-      "onboard_time": 1662324850,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 58737,
-      "num": 58737,
-      "word": "福州现巨型乌云",
-      "onboard_time": 1662315615,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 49242,
-      "num": 49242,
-      "word": "胰岛素含片或将问世",
-      "onboard_time": 1662327852,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41824,
-      "num": 39119,
+      "raw_hot": 61549,
+      "num": 61549,
       "word": "舒淇是珠光宝气代名词吧",
       "onboard_time": 1662324731,
       "rank": 31,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 27947,
-      "num": 27947,
-      "word": "全校536名学生视力全部5.0或以上",
-      "onboard_time": 1662326771,
-      "rank": 42,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 24483,

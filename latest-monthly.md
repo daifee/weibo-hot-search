@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/05 06:21:30
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/05 06:38:30
 </p>
 </blockquote>
 <p>
@@ -5985,6 +5985,12 @@ RNG2比0领先（热度：168660）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%9C%A8%E5%B0%8F%E5%8C%BA%E7%94%A8%E7%89%B5%E5%BC%95%E7%BB%B3%E6%8A%BD%E7%8B%97%E7%96%91%E6%B3%84%E6%84%A4%23" target="weibo">
+老人在小区用牵引绳抽狗疑泄愤（热度：167723）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC8%E6%9C%8831%E6%97%A5%E6%96%B0%E5%A2%9E3%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23" target="weibo">
 北京8月31日新增3例本土确诊（热度：167615）
 </a>
@@ -6005,12 +6011,6 @@ RNG2比0领先（热度：168660）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E5%89%8D%E5%86%B2%E6%95%B4%E6%B4%BB%E6%B2%A1%E6%9C%89%E7%93%B6%E9%A2%88%E6%9C%9F%E5%90%97%23" target="weibo">
 向前冲整活没有瓶颈期吗（热度：165949）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%B8%8C%E6%B3%BD%E8%AF%B4%E5%92%8C%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%AF%B9%E7%BA%BF%E6%9C%89%E5%8E%8B%E5%8A%9B%23" target="weibo">
-吴希泽说和王俊凯对线有压力（热度：165933）
 </a>
 </li>
 
