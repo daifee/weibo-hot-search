@@ -1,6 +1,6 @@
 {
   "startTime": 1662222576733,
-  "endTime": 1662265571699,
+  "endTime": 1662266593863,
   "band_list": [
     {
       "raw_hot": 3032807,
@@ -59,6 +59,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1389710,
+      "num": 1389710,
+      "word": "第一次见带前女友相亲的",
+      "onboard_time": 1662262645,
+      "rank": 3,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 1374291,
       "num": 806939,
       "word": "贾玲 华仔",
@@ -76,19 +84,19 @@
     },
     {
       "raw_hot": 1139434,
-      "num": 258376,
+      "num": 279874,
       "word": "马伯庸偷偷藏不住最大受害者",
       "onboard_time": 1662262705,
       "rank": 20,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1122925,
-      "num": 1122925,
-      "word": "第一次见带前女友相亲的",
-      "onboard_time": 1662262645,
-      "rank": 3,
-      "category": "情感,幽默"
+      "raw_hot": 953221,
+      "num": 953221,
+      "word": "虞书欣前有小兰花后有虞美人",
+      "onboard_time": 1662264867,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 907572,
@@ -123,20 +131,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 754083,
+      "num": 754083,
+      "word": "深圳黄码",
+      "onboard_time": 1662262043,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 743832,
       "num": 743832,
       "word": "婆婆没空伺候儿媳月子送上4斤金条",
       "onboard_time": 1662211349,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 718297,
-      "num": 718297,
-      "word": "虞书欣前有小兰花后有虞美人",
-      "onboard_time": 1662264867,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 704904,
@@ -187,14 +195,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 597095,
-      "num": 597095,
-      "word": "深圳黄码",
-      "onboard_time": 1662262043,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 582036,
       "num": 582036,
       "word": "北大数学天才柳智宇下山还俗",
@@ -233,6 +233,14 @@
       "onboard_time": 1662258205,
       "rank": 47,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 488517,
+      "num": 488517,
+      "word": "特朗普指责拜登是国家的敌人",
+      "onboard_time": 1662263066,
+      "rank": 17,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 464985,
@@ -291,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 399909,
+      "num": 399909,
+      "word": "姜小果齐颂在一起了",
+      "onboard_time": 1662265227,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 390254,
       "num": 297948,
       "word": "北京个别感染者未严格遵守防疫规定",
@@ -305,6 +321,14 @@
       "onboard_time": 1662264985,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 378973,
+      "num": 378973,
+      "word": "荡平小森林",
+      "onboard_time": 1662265829,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 378262,
@@ -371,14 +395,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 352789,
-      "num": 352789,
-      "word": "特朗普指责拜登是国家的敌人",
-      "onboard_time": 1662263066,
-      "rank": 17,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 345866,
       "num": 242027,
       "word": "关晓彤演我吃瓜",
@@ -427,6 +443,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 310772,
+      "num": 310772,
+      "word": "猫猫给自己染了个颜色",
+      "onboard_time": 1662264264,
+      "rank": 37,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 300752,
       "num": 300752,
       "word": "爱情发生在三天后大结局",
@@ -441,14 +465,6 @@
       "onboard_time": 1662218491,
       "rank": 15,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 294317,
-      "num": 256801,
-      "word": "姜小果齐颂在一起了",
-      "onboard_time": 1662265227,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 293499,
@@ -483,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264941,
+      "num": 264941,
+      "word": "清融哭了",
+      "onboard_time": 1662263907,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 263689,
       "num": 203991,
       "word": "林志颖后援会送救命恩人礼物",
@@ -505,6 +529,14 @@
       "onboard_time": 1662248422,
       "rank": 48,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 252417,
+      "num": 252417,
+      "word": "小偷入室盗窃从屋主怀中拿包",
+      "onboard_time": 1662261387,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247816,
@@ -539,20 +571,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 237216,
+      "num": 194046,
+      "word": "张含韵cos紫霞仙子",
+      "onboard_time": 1662265525,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 233438,
       "num": 233438,
       "word": "黑话律师",
       "onboard_time": 1662249744,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 224202,
-      "num": 224202,
-      "word": "小偷入室盗窃从屋主怀中拿包",
-      "onboard_time": 1662261387,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 223633,
@@ -611,6 +643,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 210995,
+      "num": 210995,
+      "word": "光与夜之恋",
+      "onboard_time": 1662266428,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 210187,
       "num": 210187,
       "word": "林娜琏脸链造型",
@@ -625,14 +665,6 @@
       "onboard_time": 1662220170,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 208016,
-      "num": 208016,
-      "word": "清融哭了",
-      "onboard_time": 1662263907,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 206131,
@@ -667,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198366,
+      "num": 198366,
+      "word": "午休时间小学教室1秒变身",
+      "onboard_time": 1662261626,
+      "rank": 29,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 191543,
       "num": 191543,
       "word": "杭州常态化核酸频次从7天调整为72小时",
@@ -675,12 +715,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 185829,
-      "num": 185829,
-      "word": "午休时间小学教室1秒变身",
-      "onboard_time": 1662261626,
-      "rank": 29,
-      "category": "教育,社会新闻"
+      "raw_hot": 186283,
+      "num": 186283,
+      "word": "十大年度国家IP评选",
+      "onboard_time": 1662264748,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185333,
@@ -707,14 +747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 169891,
-      "num": 101605,
-      "word": "张含韵cos紫霞仙子",
-      "onboard_time": 1662265525,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 168088,
       "num": 168088,
       "word": "周末一个人能干嘛",
@@ -729,14 +761,6 @@
       "onboard_time": 1662213276,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 166604,
-      "num": 166604,
-      "word": "猫猫给自己染了个颜色",
-      "onboard_time": 1662264264,
-      "rank": 37,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 164725,
@@ -763,6 +787,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 157240,
+      "num": 157240,
+      "word": "武汉新增12例本土无症状",
+      "onboard_time": 1662261807,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157187,
       "num": 157187,
       "word": "小说烂尾的原因找到了",
@@ -776,14 +808,6 @@
       "word": "辽宁新增本土确诊11例无症状113例",
       "onboard_time": 1662252626,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 149790,
-      "num": 149790,
-      "word": "武汉新增12例本土无症状",
-      "onboard_time": 1662261807,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -824,14 +848,6 @@
       "word": "9月3日北京新增1例本土确诊",
       "onboard_time": 1662251425,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131401,
-      "num": 131401,
-      "word": "十大年度国家IP评选",
-      "onboard_time": 1662264748,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -907,8 +923,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 89074,
-      "num": 89074,
+      "raw_hot": 89764,
+      "num": 89764,
       "word": "研究揭示快波睡眠间眼动之谜",
       "onboard_time": 1662265347,
       "rank": 48,
@@ -1012,6 +1028,9 @@
     },
     {
       "word": "#勿忘往昔峥嵘铭记伟大胜利#"
+    },
+    {
+      "word": "#闪耀吧中华文明#"
     }
   ]
 }
