@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662319064975,
+  "endTime": 1662320005708,
   "band_list": [
     {
       "raw_hot": 1739706,
@@ -457,6 +457,14 @@
       "onboard_time": 1662298053,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18297,
+      "num": 18297,
+      "word": "覆流年里女主的爹是萧剑",
+      "onboard_time": 1662319872,
+      "rank": 42,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
