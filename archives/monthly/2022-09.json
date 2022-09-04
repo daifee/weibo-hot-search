@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662299137438,
+  "endTime": 1662301155335,
   "band_list": [
     {
       "raw_hot": 6261105,
@@ -763,6 +763,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1390152,
+      "num": 1390152,
+      "word": "成都疫情防控",
+      "onboard_time": 1662004169,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1389710,
       "num": 1389710,
       "word": "第一次见带前女友相亲的",
@@ -860,7 +868,7 @@
     },
     {
       "raw_hot": 1328202,
-      "num": 594515,
+      "num": 725396,
       "word": "赵丽颖直播",
       "onboard_time": 1662295288,
       "rank": 47,
@@ -897,14 +905,6 @@
       "onboard_time": 1662169466,
       "rank": 8,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 1301728,
-      "num": 1301728,
-      "word": "成都疫情防控",
-      "onboard_time": 1662004169,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1281510,
@@ -1025,6 +1025,14 @@
       "onboard_time": 1662277829,
       "rank": 4,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1181530,
+      "num": 1181530,
+      "word": "不会又让二追三吧",
+      "onboard_time": 1662298891,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 1179843,
@@ -1196,7 +1204,7 @@
     },
     {
       "raw_hot": 1050116,
-      "num": 583334,
+      "num": 605226,
       "word": "白鹿直播",
       "onboard_time": 1662293548,
       "rank": 11,
@@ -1369,6 +1377,14 @@
       "onboard_time": 1662042934,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 954052,
+      "num": 954052,
+      "word": "偷偷藏不住官微呼吁抵制代拍",
+      "onboard_time": 1662299429,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 953221,
@@ -2001,6 +2017,14 @@
       "onboard_time": 1662043173,
       "rank": 9,
       "category": "军事,国外要闻"
+    },
+    {
+      "raw_hot": 730286,
+      "num": 730286,
+      "word": "浙江三地已宣布停课一天",
+      "onboard_time": 1662299732,
+      "rank": 9,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 725908,
@@ -3315,6 +3339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 455508,
+      "num": 455508,
+      "word": "恒力石化董事长成中国女首富",
+      "onboard_time": 1662297273,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 455246,
       "num": 455246,
       "word": "国内首例婚内监护权案胜诉",
@@ -4315,6 +4347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360509,
+      "num": 333629,
+      "word": "宁安如梦",
+      "onboard_time": 1661959112,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 359661,
       "num": 359661,
       "word": "考教资有什么用",
@@ -4681,14 +4721,6 @@
       "onboard_time": 1662024988,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 333629,
-      "num": 333629,
-      "word": "宁安如梦",
-      "onboard_time": 1661959112,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 333048,
@@ -5097,14 +5129,6 @@
       "onboard_time": 1662118407,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 308800,
-      "num": 308800,
-      "word": "恒力石化董事长成中国女首富",
-      "onboard_time": 1662297273,
-      "rank": 37,
-      "category": "财经"
     },
     {
       "raw_hot": 308272,
@@ -6299,6 +6323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 243218,
+      "num": 189222,
+      "word": "极限挑战",
+      "onboard_time": 1662298833,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242994,
       "num": 242994,
       "word": "山东新增本土确诊8例无症状75例",
@@ -6489,6 +6521,14 @@
       "onboard_time": 1662106829,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 230049,
+      "num": 230049,
+      "word": "是怎么忍住不跟猫玩的",
+      "onboard_time": 1662296611,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 229833,
@@ -7163,14 +7203,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 196534,
-      "num": 196534,
-      "word": "不会又让二追三吧",
-      "onboard_time": 1662298891,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 196262,
       "num": 164506,
       "word": "极限挑战龙虾争霸赛",
@@ -7283,14 +7315,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 191130,
-      "num": 191130,
-      "word": "是怎么忍住不跟猫玩的",
-      "onboard_time": 1662296611,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 190754,
       "num": 190754,
       "word": "买礼物被评论教育到",
@@ -7337,14 +7361,6 @@
       "onboard_time": 1662000927,
       "rank": 37,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 189222,
-      "num": 189222,
-      "word": "极限挑战",
-      "onboard_time": 1662298833,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 187986,
@@ -7547,6 +7563,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 178881,
+      "num": 178881,
+      "word": "92岁老人不愿添麻烦婉拒志愿者上门导尿",
+      "onboard_time": 1662299914,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178734,
       "num": 178734,
       "word": "吉林新增11例确诊81例无症状",
@@ -7577,6 +7601,14 @@
       "onboard_time": 1662045450,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173932,
+      "num": 173932,
+      "word": "Uzi解说",
+      "onboard_time": 1662300393,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 173412,
@@ -7939,6 +7971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 154967,
+      "num": 154967,
+      "word": "阿云嘎廖昌永古装演绎元代名画",
+      "onboard_time": 1662300269,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154953,
       "num": 154953,
       "word": "浙江龙港试点农民住房公积金制度",
@@ -8057,6 +8097,14 @@
       "onboard_time": 1662020607,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 148673,
+      "num": 148673,
+      "word": "车祸现场救人快递小哥找到了",
+      "onboard_time": 1662300751,
+      "rank": 41,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 148376,
@@ -8251,6 +8299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135657,
+      "num": 135657,
+      "word": "我国已进入台风核心影响时段",
+      "onboard_time": 1662300332,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135380,
       "num": 135380,
       "word": "熊猫宝宝连尾巴都这么可爱",
@@ -8289,6 +8345,14 @@
       "onboard_time": 1662251425,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131610,
+      "num": 131610,
+      "word": "3个拉伸动作防腰肌劳损",
+      "onboard_time": 1662300692,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 131595,
@@ -8425,6 +8489,14 @@
       "onboard_time": 1662253168,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123681,
+      "num": 123681,
+      "word": "梦想对一个农村孩子来说有多重要",
+      "onboard_time": 1662300931,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 121129,
@@ -8875,6 +8947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 41471,
+      "num": 1885962,
+      "word": "2022服贸会观展指北",
+      "onboard_time": 1662298053,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40941,
       "num": 40941,
       "word": "林峯吴卓羲早期唱跳舞台",
@@ -8929,14 +9009,6 @@
       "onboard_time": 1662147550,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 15405,
-      "num": 1885962,
-      "word": "2022服贸会观展指北",
-      "onboard_time": 1662298053,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 14785,

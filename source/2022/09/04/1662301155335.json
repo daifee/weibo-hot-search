@@ -1,0 +1,410 @@
+{
+  "runTime": 1662301155335,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3180364,
+        "num": 3180364,
+        "word": "90%学生被取消学籍系因游戏",
+        "onboard_time": 1662294747,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1390152,
+        "num": 1390152,
+        "word": "成都疫情防控",
+        "onboard_time": 1662286766,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41471,
+        "num": 1186034,
+        "word": "2022服贸会观展指北",
+        "onboard_time": 1662298053,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1181530,
+        "num": 1181530,
+        "word": "不会又让二追三吧",
+        "onboard_time": 1662298891,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1096987,
+        "num": 1096987,
+        "word": "女子在永辉超市买2斤猪肉花103元",
+        "onboard_time": 1662290906,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1009148,
+        "num": 1009148,
+        "word": "陈若仪回应儿子车祸后第一句话",
+        "onboard_time": 1662285749,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 960126,
+        "num": 960126,
+        "word": "RNG与LNG决胜局",
+        "onboard_time": 1662297934,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 954052,
+        "num": 954052,
+        "word": "偷偷藏不住官微呼吁抵制代拍",
+        "onboard_time": 1662299429,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 734413,
+        "num": 734413,
+        "word": "世界游泳冠军遭酒店救生员暴力威胁",
+        "onboard_time": 1662294089,
+        "rank": 8,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 730286,
+        "num": 730286,
+        "word": "浙江三地已宣布停课一天",
+        "onboard_time": 1662299732,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1137360,
+        "num": 725396,
+        "word": "赵丽颖直播",
+        "onboard_time": 1662295288,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 605226,
+        "num": 605226,
+        "word": "白鹿直播",
+        "onboard_time": 1662293548,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 585678,
+        "num": 585678,
+        "word": "苍兰夫妇闪现吻花絮",
+        "onboard_time": 1662296188,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 571155,
+        "num": 571155,
+        "word": "中国新闻周刊说梦华录是今年唯一爆款古偶",
+        "onboard_time": 1662294507,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 472230,
+        "num": 472230,
+        "word": "女子和男友吵架吃60粒褪黑素进ICU",
+        "onboard_time": 1662289107,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455508,
+        "num": 455508,
+        "word": "恒力石化董事长成中国女首富",
+        "onboard_time": 1662297273,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 415916,
+        "num": 415916,
+        "word": "河南变身全球最大人造钻石生产地",
+        "onboard_time": 1662295107,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403239,
+        "num": 403239,
+        "word": "突然就缓解了我的焦虑",
+        "onboard_time": 1662295529,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 396711,
+        "num": 396711,
+        "word": "外婆首次用平板画画惊呆孙子",
+        "onboard_time": 1662292046,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339846,
+        "num": 339846,
+        "word": "上海台风",
+        "onboard_time": 1662284364,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1962252,
+        "num": 331287,
+        "word": "成都车祸",
+        "onboard_time": 1662295288,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409876,
+        "num": 322519,
+        "word": "赵露思孟美岐对手戏",
+        "onboard_time": 1662287245,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 360509,
+        "num": 311808,
+        "word": "宁安如梦",
+        "onboard_time": 1662299011,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291581,
+        "num": 291581,
+        "word": "女子称自己复活成仙骗男网友486万",
+        "onboard_time": 1662288147,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286138,
+        "num": 286138,
+        "word": "那英撒贝宁50分钟做了3桌菜",
+        "onboard_time": 1662293427,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280064,
+        "num": 280064,
+        "word": "男子回农村花12万买下1200平大院",
+        "onboard_time": 1662283587,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230049,
+        "num": 230049,
+        "word": "是怎么忍住不跟猫玩的",
+        "onboard_time": 1662296611,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211858,
+        "num": 211858,
+        "word": "12岁男孩玩游戏花掉17万妈妈卖房",
+        "onboard_time": 1662283526,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203948,
+        "num": 203948,
+        "word": "产科医生辟谣双胞胎肚内打架",
+        "onboard_time": 1662282270,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201587,
+        "num": 201587,
+        "word": "网红表演生吃活蜜蜂惨变香肠嘴",
+        "onboard_time": 1662281729,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278453,
+        "num": 197065,
+        "word": "邢菲宣传覆流年好拼",
+        "onboard_time": 1662293669,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 272630,
+        "num": 195776,
+        "word": "罚罪",
+        "onboard_time": 1662298234,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 272450,
+        "num": 187562,
+        "word": "覆流年",
+        "onboard_time": 1662297992,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246976,
+        "num": 182965,
+        "word": "李现后援会辟谣出演玫瑰的故事",
+        "onboard_time": 1662296970,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178881,
+        "num": 178881,
+        "word": "92岁老人不愿添麻烦婉拒志愿者上门导尿",
+        "onboard_time": 1662299914,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243218,
+        "num": 177161,
+        "word": "极限挑战",
+        "onboard_time": 1662298833,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173932,
+        "num": 173932,
+        "word": "Uzi解说",
+        "onboard_time": 1662300393,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170215,
+        "num": 170215,
+        "word": "北京冰雹雷电大风三预警齐发",
+        "onboard_time": 1662292888,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167527,
+        "num": 167527,
+        "word": "男子在楼房腰线处浇花失足坠亡",
+        "onboard_time": 1662277829,
+        "rank": 38,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 159359,
+        "num": 159359,
+        "word": "男子殴打猥亵女儿者检察院不起诉",
+        "onboard_time": 1662275427,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154967,
+        "num": 154967,
+        "word": "阿云嘎廖昌永古装演绎元代名画",
+        "onboard_time": 1662300269,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148673,
+        "num": 148673,
+        "word": "车祸现场救人快递小哥找到了",
+        "onboard_time": 1662300751,
+        "rank": 41,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 136013,
+        "num": 136013,
+        "word": "约1.2亿老人逐渐失去了听力",
+        "onboard_time": 1662275188,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135657,
+        "num": 135657,
+        "word": "我国已进入台风核心影响时段",
+        "onboard_time": 1662300332,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131724,
+        "num": 131724,
+        "word": "君合",
+        "onboard_time": 1662275246,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131610,
+        "num": 131610,
+        "word": "3个拉伸动作防腰肌劳损",
+        "onboard_time": 1662300692,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123681,
+        "num": 123681,
+        "word": "梦想对一个农村孩子来说有多重要",
+        "onboard_time": 1662300931,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115493,
+        "num": 115493,
+        "word": "客服回应理想ONE将停产",
+        "onboard_time": 1662290665,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110735,
+        "num": 110735,
+        "word": "北京冰雹",
+        "onboard_time": 1662289643,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109368,
+        "num": 109368,
+        "word": "林高远获世乒赛资格",
+        "onboard_time": 1662298110,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#我在服贸会等你#"
+    }
+  }
+}
