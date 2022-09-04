@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662272777174,
+  "endTime": 1662273865401,
   "band_list": [
     {
       "raw_hot": 6261105,
@@ -329,6 +329,14 @@
       "onboard_time": 1662001885,
       "rank": 1,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1904798,
+      "num": 1904798,
+      "word": "核酸",
+      "onboard_time": 1662272245,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1890323,
@@ -761,6 +769,14 @@
       "onboard_time": 1662256644,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1317743,
+      "num": 1317743,
+      "word": "贵阳全员核酸猴子也不掉队",
+      "onboard_time": 1662271048,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1313804,
@@ -1803,6 +1819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 717905,
+      "num": 717905,
+      "word": "北大数学天才还俗后称必须面对加班",
+      "onboard_time": 1662269245,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 716883,
       "num": 716883,
       "word": "包书皮",
@@ -1963,14 +1987,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 667561,
-      "num": 667561,
-      "word": "北大数学天才还俗后称必须面对加班",
-      "onboard_time": 1662269245,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 666188,
       "num": 666188,
       "word": "迪丽热巴谈安乐传",
@@ -2033,14 +2049,6 @@
       "onboard_time": 1662205227,
       "rank": 6,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 649568,
-      "num": 649568,
-      "word": "贵阳全员核酸猴子也不掉队",
-      "onboard_time": 1662271048,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 648200,
@@ -2555,6 +2563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 529201,
+      "num": 529201,
+      "word": "宝妈怕娃闹给同飞机乘客备100份礼袋",
+      "onboard_time": 1662271944,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 528802,
       "num": 528802,
       "word": "医院每个规定都是教训换来的",
@@ -2931,6 +2947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 466905,
+      "num": 466905,
+      "word": "老人两天没出门邻居翻墙救人",
+      "onboard_time": 1662267268,
+      "rank": 19,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 466788,
       "num": 466788,
       "word": "古偶大婚名场面",
@@ -3025,14 +3049,6 @@
       "onboard_time": 1662118347,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 451248,
-      "num": 451248,
-      "word": "老人两天没出门邻居翻墙救人",
-      "onboard_time": 1662267268,
-      "rank": 19,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 450608,
@@ -3745,6 +3761,14 @@
       "onboard_time": 1662004587,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 368207,
+      "num": 368207,
+      "word": "复读13年唐尚珺回应放弃就读上海交大",
+      "onboard_time": 1662270687,
+      "rank": 18,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 368206,
@@ -4739,6 +4763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 295541,
+      "num": 295541,
+      "word": "新人被拦车讨喜发十几条烟都不够",
+      "onboard_time": 1662271346,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293561,
       "num": 293561,
       "word": "顾客吐槽海底捞光锅底料碗就上百元",
@@ -4969,14 +5001,6 @@
       "onboard_time": 1662178765,
       "rank": 49,
       "category": "军事"
-    },
-    {
-      "raw_hot": 283604,
-      "num": 283604,
-      "word": "复读13年唐尚珺回应放弃就读上海交大",
-      "onboard_time": 1662270687,
-      "rank": 18,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 282487,
@@ -5243,6 +5267,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 268741,
+      "num": 268741,
+      "word": "没有郑钧不敢回答的问题",
+      "onboard_time": 1662272307,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 268222,
       "num": 268222,
       "word": "KPL夏决我来聊",
@@ -5443,14 +5475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 255785,
-      "num": 255785,
-      "word": "没有郑钧不敢回答的问题",
-      "onboard_time": 1662272307,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 255658,
       "num": 176377,
       "word": "冰雨火",
@@ -5568,14 +5592,6 @@
       "word": "北京疫情发布会",
       "onboard_time": 1662196105,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 248945,
-      "num": 248945,
-      "word": "宝妈怕娃闹给同飞机乘客备100份礼袋",
-      "onboard_time": 1662271944,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -5923,6 +5939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224548,
+      "num": 224548,
+      "word": "共同守护烟火贵阳",
+      "onboard_time": 1662273627,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223633,
       "num": 223633,
       "word": "真的好想回到疫情前",
@@ -6016,14 +6040,6 @@
       "word": "百米长龙抢购网红月饼或成历史",
       "onboard_time": 1662214233,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 219277,
-      "num": 219277,
-      "word": "核酸",
-      "onboard_time": 1662272245,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -6281,14 +6297,6 @@
       "onboard_time": 1662022169,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 207066,
-      "num": 207066,
-      "word": "新人被拦车讨喜发十几条烟都不够",
-      "onboard_time": 1662271346,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 206964,
@@ -6771,6 +6779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 179148,
+      "num": 179148,
+      "word": "宁波停课",
+      "onboard_time": 1662273327,
+      "rank": 29,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 179072,
       "num": 179072,
       "word": "湖南女子学院迎来首届男生",
@@ -6979,6 +6995,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 160840,
+      "num": 160840,
+      "word": "左右NG生死战",
+      "onboard_time": 1662269425,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 160817,
       "num": 160817,
       "word": "丁程鑫说每一刻都是大家的高光时刻",
@@ -7107,6 +7131,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 154897,
+      "num": 154897,
+      "word": "这是用魔法拼乐高吧",
+      "onboard_time": 1662273686,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 154753,
       "num": 154753,
       "word": "JDG团灭TES",
@@ -7137,14 +7169,6 @@
       "onboard_time": 1662095727,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 152558,
-      "num": 152558,
-      "word": "左右NG生死战",
-      "onboard_time": 1662269425,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 152136,
@@ -7267,12 +7291,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 143257,
+      "num": 143257,
+      "word": "四川阿坝州实施全域静态管理",
+      "onboard_time": 1662273383,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142498,
       "num": 139703,
       "word": "隐入尘烟 真实",
       "onboard_time": 1661962644,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 141599,
+      "num": 141599,
+      "word": "丁禹兮演的金针菇",
+      "onboard_time": 1662272787,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 141500,
@@ -7289,6 +7329,14 @@
       "onboard_time": 1662045931,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 140544,
+      "num": 140544,
+      "word": "吉林新增11例确诊81例无症状",
+      "onboard_time": 1662270146,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140257,
@@ -7313,14 +7361,6 @@
       "onboard_time": 1662173665,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139784,
-      "num": 139784,
-      "word": "吉林新增11例确诊81例无症状",
-      "onboard_time": 1662270146,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138812,
@@ -7499,6 +7539,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 129886,
+      "num": 129886,
+      "word": "冰雨火反派好吵啊",
+      "onboard_time": 1662273147,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 129840,
       "num": 173727,
       "word": "机票燃油附加费年内第二次下调",
@@ -7657,6 +7705,14 @@
       "onboard_time": 1662198687,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 110080,
+      "num": 110080,
+      "word": "撞人拖行伤者司机最高或面临7年徒刑",
+      "onboard_time": 1662273566,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108288,
