@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662331110007,
+  "endTime": 1662333731199,
   "band_list": [
     {
       "raw_hot": 1739706,
@@ -27,6 +27,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 947477,
+      "num": 947477,
+      "word": "4个月宝宝被爸爸鼾声吵到空气挥拳",
+      "onboard_time": 1662305731,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 946214,
       "num": 946214,
       "word": "呼吸哥哭了",
@@ -43,12 +51,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 855528,
-      "num": 855528,
-      "word": "4个月宝宝被爸爸鼾声吵到空气挥拳",
-      "onboard_time": 1662305731,
-      "rank": 4,
-      "category": "社会新闻"
+      "raw_hot": 854377,
+      "num": 854377,
+      "word": "世界游泳冠军遭酒店救生员暴力威胁",
+      "onboard_time": 1662294089,
+      "rank": 27,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 687530,
@@ -64,6 +72,22 @@
       "word": "女子在永辉超市买2斤猪肉花103元",
       "onboard_time": 1662290906,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 648579,
+      "num": 648579,
+      "word": "全校536名学生视力全部5.0或以上",
+      "onboard_time": 1662326771,
+      "rank": 42,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 564029,
+      "num": 564029,
+      "word": "浙江一干部落马前沉迷当榜一大哥",
+      "onboard_time": 1662304232,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -99,14 +123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 444593,
-      "num": 444593,
-      "word": "浙江一干部落马前沉迷当榜一大哥",
-      "onboard_time": 1662304232,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 420047,
       "num": 420047,
       "word": "深圳地铁",
@@ -121,14 +137,6 @@
       "onboard_time": 1662285749,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 390283,
-      "num": 390283,
-      "word": "世界游泳冠军遭酒店救生员暴力威胁",
-      "onboard_time": 1662294089,
-      "rank": 27,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 389393,
@@ -187,6 +195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 298652,
+      "num": 298652,
+      "word": "老人在小区用牵引绳抽狗疑泄愤",
+      "onboard_time": 1662322631,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282699,
       "num": 282699,
       "word": "朱正廷霸王别姬舞台",
@@ -209,6 +225,22 @@
       "onboard_time": 1662295288,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 265503,
+      "num": 265503,
+      "word": "覆流年里女主的爹是萧剑",
+      "onboard_time": 1662319872,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 248319,
+      "num": 248319,
+      "word": "那英撒贝宁50分钟做了3桌菜",
+      "onboard_time": 1662293427,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 243764,
@@ -259,11 +291,35 @@
       "category": "影视"
     },
     {
+      "raw_hot": 212768,
+      "num": 212768,
+      "word": "上海台风",
+      "onboard_time": 1662284364,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203559,
+      "num": 203559,
+      "word": "胰岛素含片或将问世",
+      "onboard_time": 1662327852,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190335,
       "num": 190335,
       "word": "深圳疫情防控",
       "onboard_time": 1662302238,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190018,
+      "num": 190018,
+      "word": "我国已进入台风核心影响时段",
+      "onboard_time": 1662300332,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -273,6 +329,22 @@
       "onboard_time": 1662301352,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 186448,
+      "num": 186448,
+      "word": "一个更容易打到蚊子的方法",
+      "onboard_time": 1662324431,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 184733,
+      "num": 184733,
+      "word": "布拉格爆发抗议反对欧盟和北约",
+      "onboard_time": 1662322212,
+      "rank": 46,
+      "category": "国外要闻,社会新闻"
     },
     {
       "raw_hot": 183951,
@@ -299,27 +371,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 175057,
-      "num": 175057,
-      "word": "我国已进入台风核心影响时段",
-      "onboard_time": 1662300332,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 168471,
       "num": 168471,
       "word": "河南变身全球最大人造钻石生产地",
       "onboard_time": 1662295107,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 167723,
-      "num": 167723,
-      "word": "老人在小区用牵引绳抽狗疑泄愤",
-      "onboard_time": 1662322631,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -355,32 +411,32 @@
       "category": "情感"
     },
     {
-      "raw_hot": 145624,
-      "num": 145624,
-      "word": "上海台风",
-      "onboard_time": 1662284364,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144880,
-      "num": 144880,
-      "word": "全校536名学生视力全部5.0或以上",
-      "onboard_time": 1662326771,
-      "rank": 42,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 132846,
-      "num": 132846,
+      "raw_hot": 149965,
+      "num": 149965,
       "word": "外婆首次用平板画画惊呆孙子",
       "onboard_time": 1662292046,
       "rank": 41,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 128909,
-      "num": 128909,
+      "raw_hot": 149849,
+      "num": 149849,
+      "word": "曼联3比1阿森纳",
+      "onboard_time": 1662333200,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 137732,
+      "num": 137732,
+      "word": "女子称自己复活成仙骗男网友486万",
+      "onboard_time": 1662288147,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136015,
+      "num": 136015,
       "word": "男子回农村花12万买下1200平大院",
       "onboard_time": 1662283587,
       "rank": 42,
@@ -395,19 +451,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 120927,
-      "num": 120927,
-      "word": "覆流年里女主的爹是萧剑",
-      "onboard_time": 1662319872,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 118839,
       "num": 118839,
       "word": "乌鲁木齐疫情防控动态",
       "onboard_time": 1662301415,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116906,
+      "num": 116906,
+      "word": "福州现巨型乌云",
+      "onboard_time": 1662315615,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -419,30 +475,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 112701,
-      "num": 112701,
-      "word": "布拉格爆发抗议反对欧盟和北约",
-      "onboard_time": 1662322212,
-      "rank": 46,
-      "category": "国外要闻,社会新闻"
-    },
-    {
-      "raw_hot": 110703,
-      "num": 110703,
-      "word": "女子称自己复活成仙骗男网友486万",
-      "onboard_time": 1662288147,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 98930,
-      "num": 98930,
-      "word": "一个更容易打到蚊子的方法",
-      "onboard_time": 1662324431,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 91148,
       "num": 91148,
       "word": "7条定律助你提升自我",
@@ -451,28 +483,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 90364,
-      "num": 90364,
-      "word": "那英撒贝宁50分钟做了3桌菜",
-      "onboard_time": 1662293427,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 87584,
-      "num": 87584,
-      "word": "福州现巨型乌云",
-      "onboard_time": 1662315615,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 78674,
-      "num": 78674,
-      "word": "胰岛素含片或将问世",
-      "onboard_time": 1662327852,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 85780,
+      "num": 74150,
+      "word": "舒淇是珠光宝气代名词吧",
+      "onboard_time": 1662324731,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 74636,
@@ -499,12 +515,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 61549,
-      "num": 61549,
-      "word": "舒淇是珠光宝气代名词吧",
-      "onboard_time": 1662324731,
-      "rank": 31,
-      "category": "作品衍生,时尚"
+      "raw_hot": 47232,
+      "num": 47232,
+      "word": "新疆盐湖美如天空之镜",
+      "onboard_time": 1662332658,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 41538,
+      "num": 41538,
+      "word": "102岁姐姐给86岁弟弟塞红包",
+      "onboard_time": 1662333138,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30103,
+      "num": 882344,
+      "word": "2022服贸会观展指北",
+      "onboard_time": 1662298053,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24483,
@@ -513,14 +545,6 @@
       "onboard_time": 1662306748,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 22265,
-      "num": 882344,
-      "word": "2022服贸会观展指北",
-      "onboard_time": 1662298053,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 11564,

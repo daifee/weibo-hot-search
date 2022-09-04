@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662331110007,
+  "endTime": 1662333731199,
   "band_list": [
     {
       "raw_hot": 6261105,
@@ -1499,6 +1499,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 947477,
+      "num": 947477,
+      "word": "4个月宝宝被爸爸鼾声吵到空气挥拳",
+      "onboard_time": 1662305731,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 947290,
       "num": 947290,
       "word": "第一次见有中铺的宿舍",
@@ -1809,14 +1817,6 @@
       "onboard_time": 1662003028,
       "rank": 8,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 855528,
-      "num": 855528,
-      "word": "4个月宝宝被爸爸鼾声吵到空气挥拳",
-      "onboard_time": 1662305731,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 854742,
@@ -2411,6 +2411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 648579,
+      "num": 648579,
+      "word": "全校536名学生视力全部5.0或以上",
+      "onboard_time": 1662326771,
+      "rank": 42,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 648200,
       "num": 648200,
       "word": "34岁老马去世2匹小马将送葬车拦停",
@@ -2761,6 +2769,14 @@
       "onboard_time": 1662077846,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 564029,
+      "num": 564029,
+      "word": "浙江一干部落马前沉迷当榜一大哥",
+      "onboard_time": 1662304232,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 562577,
@@ -3633,14 +3649,6 @@
       "onboard_time": 1662036689,
       "rank": 37,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 444593,
-      "num": 444593,
-      "word": "浙江一干部落马前沉迷当榜一大哥",
-      "onboard_time": 1662304232,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 443716,
@@ -5523,6 +5531,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 298652,
+      "num": 298652,
+      "word": "老人在小区用牵引绳抽狗疑泄愤",
+      "onboard_time": 1662322631,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298410,
       "num": 298410,
       "word": "未定事件簿莫弈启用AI语音",
@@ -6201,6 +6217,14 @@
       "onboard_time": 1662180027,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 265503,
+      "num": 265503,
+      "word": "覆流年里女主的爹是萧剑",
+      "onboard_time": 1662319872,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 265320,
@@ -7331,6 +7355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 203559,
+      "num": 203559,
+      "word": "胰岛素含片或将问世",
+      "onboard_time": 1662327852,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202185,
       "num": 202185,
       "word": "河南增本土确诊4例无症状46例",
@@ -7635,6 +7667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186448,
+      "num": 186448,
+      "word": "一个更容易打到蚊子的方法",
+      "onboard_time": 1662324431,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 186383,
       "num": 186383,
       "word": "Angelababy听说很好吃白西装造型",
@@ -7697,6 +7737,14 @@
       "onboard_time": 1661999366,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184733,
+      "num": 184733,
+      "word": "布拉格爆发抗议反对欧盟和北约",
+      "onboard_time": 1662322212,
+      "rank": 46,
+      "category": "国外要闻,社会新闻"
     },
     {
       "raw_hot": 184658,
@@ -7961,14 +8009,6 @@
       "onboard_time": 1662116005,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 167723,
-      "num": 167723,
-      "word": "老人在小区用牵引绳抽狗疑泄愤",
-      "onboard_time": 1662322631,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167615,
@@ -8339,6 +8379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149849,
+      "num": 149849,
+      "word": "曼联3比1阿森纳",
+      "onboard_time": 1662333200,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149358,
       "num": 149358,
       "word": "当人类试图和猫咪讲道理",
@@ -8417,14 +8465,6 @@
       "onboard_time": 1662248058,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144880,
-      "num": 144880,
-      "word": "全校536名学生视力全部5.0或以上",
-      "onboard_time": 1662326771,
-      "rank": 42,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 143275,
@@ -8763,14 +8803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 120927,
-      "num": 120927,
-      "word": "覆流年里女主的爹是萧剑",
-      "onboard_time": 1662319872,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 119374,
       "num": 119374,
       "word": "能拼着吃的饼干",
@@ -8793,6 +8825,14 @@
       "onboard_time": 1662034889,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 116906,
+      "num": 116906,
+      "word": "福州现巨型乌云",
+      "onboard_time": 1662315615,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116028,
@@ -8825,14 +8865,6 @@
       "onboard_time": 1661944648,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 112701,
-      "num": 112701,
-      "word": "布拉格爆发抗议反对欧盟和北约",
-      "onboard_time": 1662322212,
-      "rank": 46,
-      "category": "国外要闻,社会新闻"
     },
     {
       "raw_hot": 112484,
@@ -8971,14 +9003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 98930,
-      "num": 98930,
-      "word": "一个更容易打到蚊子的方法",
-      "onboard_time": 1662324431,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 98786,
       "num": 98786,
       "word": "3个动作有效缓解眼部疲劳",
@@ -9075,20 +9099,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 87584,
-      "num": 87584,
-      "word": "福州现巨型乌云",
-      "onboard_time": 1662315615,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 86361,
       "num": 86361,
       "word": "男子凌晨偷出租车拉活赚钱早上归还",
       "onboard_time": 1661942367,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85780,
+      "num": 74150,
+      "word": "舒淇是珠光宝气代名词吧",
+      "onboard_time": 1662324731,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 85671,
@@ -9161,14 +9185,6 @@
       "onboard_time": 1661942608,
       "rank": 45,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 78674,
-      "num": 78674,
-      "word": "胰岛素含片或将问世",
-      "onboard_time": 1662327852,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 77227,
@@ -9251,14 +9267,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 61549,
-      "num": 61549,
-      "word": "舒淇是珠光宝气代名词吧",
-      "onboard_time": 1662324731,
-      "rank": 31,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 60802,
       "num": 60802,
       "word": "张帅重返美网32强",
@@ -9275,12 +9283,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47232,
+      "num": 47232,
+      "word": "新疆盐湖美如天空之镜",
+      "onboard_time": 1662332658,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 45501,
       "num": 40114,
       "word": "魏晨穿了六年前同款西装",
       "onboard_time": 1662228194,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 41538,
+      "num": 41538,
+      "word": "102岁姐姐给86岁弟弟塞红包",
+      "onboard_time": 1662333138,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40941,
