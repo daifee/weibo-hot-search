@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662326338464,
+  "endTime": 1662327403432,
   "band_list": [
     {
       "raw_hot": 1739706,
@@ -419,6 +419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 73837,
+      "num": 38137,
+      "word": "布拉格爆发抗议反对欧盟和北约",
+      "onboard_time": 1662322212,
+      "rank": 46,
+      "category": "国外要闻,社会新闻"
+    },
+    {
       "raw_hot": 72062,
       "num": 72062,
       "word": "实现躺平午休有多舒服",
@@ -443,12 +451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 54393,
-      "num": 31361,
-      "word": "布拉格爆发抗议反对欧盟和北约",
-      "onboard_time": 1662322212,
-      "rank": 46,
-      "category": "国外要闻,社会新闻"
+      "raw_hot": 51143,
+      "num": 37776,
+      "word": "老人在小区用牵引绳抽狗疑泄愤",
+      "onboard_time": 1662322631,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38848,
@@ -457,14 +465,6 @@
       "onboard_time": 1662319872,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 34673,
-      "num": 30687,
-      "word": "老人在小区用牵引绳抽狗疑泄愤",
-      "onboard_time": 1662322631,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24483,
@@ -483,28 +483,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 11420,
-      "num": 11420,
-      "word": "苍兰夫妇闪现吻花絮",
-      "onboard_time": 1662296188,
-      "rank": 43,
-      "category": "影视"
+      "raw_hot": 19664,
+      "num": 19664,
+      "word": "一个更容易打到蚊子的方法",
+      "onboard_time": 1662324431,
+      "rank": 49,
+      "category": "情感"
     },
     {
-      "raw_hot": 10930,
-      "num": 10930,
+      "raw_hot": 15390,
+      "num": 15390,
       "word": "今夏为1961年来最热夏天",
       "onboard_time": 1662324850,
       "rank": 45,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 9547,
-      "num": 9547,
-      "word": "一个更容易打到蚊子的方法",
-      "onboard_time": 1662324431,
-      "rank": 49,
-      "category": "情感"
+      "raw_hot": 11564,
+      "num": 11564,
+      "word": "苍兰夫妇闪现吻花絮",
+      "onboard_time": 1662296188,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 7324,
