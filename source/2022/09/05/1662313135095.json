@@ -1,0 +1,410 @@
+{
+  "runTime": 1662313135095,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 611339,
+        "num": 611339,
+        "word": "全开麦真的是对歌手的夸奖吗",
+        "onboard_time": 1662306628,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 373564,
+        "num": 373564,
+        "word": "Light哭了",
+        "onboard_time": 1662306748,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 13959,
+        "num": 350988,
+        "word": "2022服贸会观展指北",
+        "onboard_time": 1662298053,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347899,
+        "num": 347899,
+        "word": "Doinb无缘世界赛",
+        "onboard_time": 1662307285,
+        "rank": 3,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 347468,
+        "num": 347468,
+        "word": "4个月宝宝被爸爸鼾声吵到空气挥拳",
+        "onboard_time": 1662305731,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314833,
+        "num": 314833,
+        "word": "女子在永辉超市买2斤猪肉花103元",
+        "onboard_time": 1662290906,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226027,
+        "num": 226027,
+        "word": "浙江一干部落马前沉迷当榜一大哥",
+        "onboard_time": 1662304232,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181949,
+        "num": 181949,
+        "word": "呼吸哥哭了",
+        "onboard_time": 1662302972,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168649,
+        "num": 168649,
+        "word": "陈若仪回应儿子车祸后第一句话",
+        "onboard_time": 1662285749,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150735,
+        "num": 150735,
+        "word": "Ale",
+        "onboard_time": 1662290066,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 598302,
+        "num": 150397,
+        "word": "90%学生被取消学籍系因游戏",
+        "onboard_time": 1662294747,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148119,
+        "num": 148119,
+        "word": "世界游泳冠军遭酒店救生员暴力威胁",
+        "onboard_time": 1662294089,
+        "rank": 11,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 142016,
+        "num": 142016,
+        "word": "广州地铁全线网所有车站恢复正常运营",
+        "onboard_time": 1662308007,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128493,
+        "num": 128493,
+        "word": "成都将继续开展全员核酸检测",
+        "onboard_time": 1662304171,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127614,
+        "num": 127614,
+        "word": "偷偷藏不住官微呼吁抵制代拍",
+        "onboard_time": 1662299429,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120760,
+        "num": 120760,
+        "word": "LPL出征S12队伍",
+        "onboard_time": 1662302674,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110001,
+        "num": 110001,
+        "word": "玉骨遥",
+        "onboard_time": 1662306090,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 108824,
+        "num": 108824,
+        "word": "赵露思孟美岐对手戏",
+        "onboard_time": 1662287245,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 101180,
+        "num": 101180,
+        "word": "女子和男友吵架吃60粒褪黑素进ICU",
+        "onboard_time": 1662289107,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91923,
+        "num": 91923,
+        "word": "法拉利",
+        "onboard_time": 1662301957,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126238,
+        "num": 91838,
+        "word": "成都车祸",
+        "onboard_time": 1662295288,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101250,
+        "num": 91678,
+        "word": "金莎演的太平公主",
+        "onboard_time": 1662305909,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94447,
+        "num": 91570,
+        "word": "中国新闻周刊说梦华录是今年唯一爆款古偶",
+        "onboard_time": 1662294507,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91424,
+        "num": 91424,
+        "word": "突然就缓解了我的焦虑",
+        "onboard_time": 1662295529,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90974,
+        "num": 90974,
+        "word": "小小姐们",
+        "onboard_time": 1662304232,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 90456,
+        "num": 90456,
+        "word": "男子骑摩托被女友开车撞翻",
+        "onboard_time": 1662302371,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84797,
+        "num": 84797,
+        "word": "浙江三地已宣布停课一天",
+        "onboard_time": 1662299732,
+        "rank": 26,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 80732,
+        "num": 80732,
+        "word": "深圳地铁",
+        "onboard_time": 1662303152,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80167,
+        "num": 80167,
+        "word": "92岁老人不愿添麻烦婉拒志愿者上门导尿",
+        "onboard_time": 1662299914,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79821,
+        "num": 79821,
+        "word": "男子回农村花12万买下1200平大院",
+        "onboard_time": 1662283587,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86365,
+        "num": 79357,
+        "word": "张凌赫跳舞",
+        "onboard_time": 1662303571,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 83259,
+        "num": 77131,
+        "word": "赵丽颖直播",
+        "onboard_time": 1662295288,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81923,
+        "num": 76831,
+        "word": "林柏叡走秀",
+        "onboard_time": 1662304771,
+        "rank": 32,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 73684,
+        "num": 73684,
+        "word": "宋仲基客串新剧状态",
+        "onboard_time": 1662303452,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 71027,
+        "num": 71027,
+        "word": "我国已进入台风核心影响时段",
+        "onboard_time": 1662300332,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67381,
+        "num": 67381,
+        "word": "乌鲁木齐疫情防控动态",
+        "onboard_time": 1662301415,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67349,
+        "num": 67349,
+        "word": "Uzi解说",
+        "onboard_time": 1662300393,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 66059,
+        "num": 66059,
+        "word": "外婆首次用平板画画惊呆孙子",
+        "onboard_time": 1662292046,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58579,
+        "num": 58579,
+        "word": "深圳疫情防控",
+        "onboard_time": 1662302238,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55851,
+        "num": 55851,
+        "word": "女子称自己复活成仙骗男网友486万",
+        "onboard_time": 1662288147,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72497,
+        "num": 54690,
+        "word": "覆流年",
+        "onboard_time": 1662297992,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 65011,
+        "num": 54398,
+        "word": "那英撒贝宁50分钟做了3桌菜",
+        "onboard_time": 1662293427,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52918,
+        "num": 52918,
+        "word": "上海台风",
+        "onboard_time": 1662284364,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52402,
+        "num": 52402,
+        "word": "河南变身全球最大人造钻石生产地",
+        "onboard_time": 1662295107,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48827,
+        "num": 48827,
+        "word": "上海地铁",
+        "onboard_time": 1662303031,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47335,
+        "num": 47335,
+        "word": "7条定律助你提升自我",
+        "onboard_time": 1662307348,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46706,
+        "num": 46706,
+        "word": "NH金色的雨",
+        "onboard_time": 1662305788,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 42717,
+        "num": 42717,
+        "word": "LPL四号种子RNG",
+        "onboard_time": 1662301352,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 24483,
+        "num": 24483,
+        "word": "F1荷兰大奖赛",
+        "onboard_time": 1662306748,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23335,
+        "num": 23335,
+        "word": "实现躺平午休有多舒服",
+        "onboard_time": 1662311838,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#网络安全为人民网络安全靠人民#"
+    }
+  }
+}
