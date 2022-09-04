@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662323959619,
+  "endTime": 1662326338464,
   "band_list": [
     {
       "raw_hot": 1739706,
@@ -443,12 +443,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54393,
+      "num": 31361,
+      "word": "布拉格爆发抗议反对欧盟和北约",
+      "onboard_time": 1662322212,
+      "rank": 46,
+      "category": "国外要闻,社会新闻"
+    },
+    {
       "raw_hot": 38848,
       "num": 38848,
       "word": "覆流年里女主的爹是萧剑",
       "onboard_time": 1662319872,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 34673,
+      "num": 30687,
+      "word": "老人在小区用牵引绳抽狗疑泄愤",
+      "onboard_time": 1662322631,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24483,
@@ -467,20 +483,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16766,
-      "num": 16766,
-      "word": "布拉格爆发抗议反对欧盟和北约",
-      "onboard_time": 1662322212,
-      "rank": 46,
-      "category": "国外要闻,社会新闻"
+      "raw_hot": 11420,
+      "num": 11420,
+      "word": "苍兰夫妇闪现吻花絮",
+      "onboard_time": 1662296188,
+      "rank": 43,
+      "category": "影视"
     },
     {
-      "raw_hot": 13593,
-      "num": 13593,
-      "word": "老人在小区用牵引绳抽狗疑泄愤",
-      "onboard_time": 1662322631,
-      "rank": 49,
+      "raw_hot": 10930,
+      "num": 10930,
+      "word": "今夏为1961年来最热夏天",
+      "onboard_time": 1662324850,
+      "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9547,
+      "num": 9547,
+      "word": "一个更容易打到蚊子的方法",
+      "onboard_time": 1662324431,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 7324,
