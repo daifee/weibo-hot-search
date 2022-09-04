@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662315975671,
+  "endTime": 1662316989430,
   "band_list": [
     {
       "raw_hot": 1739706,
@@ -435,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 30109,
+      "num": 30109,
+      "word": "福州现巨型乌云",
+      "onboard_time": 1662315615,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24483,
       "num": 24483,
       "word": "F1荷兰大奖赛",
@@ -448,14 +456,6 @@
       "word": "2022服贸会观展指北",
       "onboard_time": 1662298053,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16718,
-      "num": 20083,
-      "word": "福州现巨型乌云",
-      "onboard_time": 1662315615,
-      "rank": 49,
       "category": "社会新闻"
     }
   ],
