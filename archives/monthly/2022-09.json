@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662301155335,
+  "endTime": 1662302175725,
   "band_list": [
     {
       "raw_hot": 6261105,
@@ -65,6 +65,14 @@
       "onboard_time": 1662217053,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 3079936,
+      "num": 3079936,
+      "word": "LPL四号种子RNG",
+      "onboard_time": 1662301352,
+      "rank": 1,
+      "category": "游戏"
     },
     {
       "raw_hot": 3032807,
@@ -145,6 +153,14 @@
       "onboard_time": 1662127289,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2624934,
+      "num": 2624934,
+      "word": "RNG与LNG决胜局",
+      "onboard_time": 1662297934,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 2609708,
@@ -699,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1465121,
+      "num": 1465121,
+      "word": "不会又让二追三吧",
+      "onboard_time": 1662298891,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1464771,
       "num": 1464771,
       "word": "司机礼让校车遭后方多车鸣笛超行",
@@ -868,7 +892,7 @@
     },
     {
       "raw_hot": 1328202,
-      "num": 725396,
+      "num": 994581,
       "word": "赵丽颖直播",
       "onboard_time": 1662295288,
       "rank": 47,
@@ -881,6 +905,14 @@
       "onboard_time": 1662256644,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1320456,
+      "num": 1320456,
+      "word": "RNG战胜LNG",
+      "onboard_time": 1662301893,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 1317743,
@@ -905,6 +937,22 @@
       "onboard_time": 1662169466,
       "rank": 8,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 1300820,
+      "num": 1300820,
+      "word": "Uzi解说",
+      "onboard_time": 1662300393,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 1298156,
+      "num": 1298156,
+      "word": "浙江三地已宣布停课一天",
+      "onboard_time": 1662299732,
+      "rank": 9,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1281510,
@@ -1025,22 +1073,6 @@
       "onboard_time": 1662277829,
       "rank": 4,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 1181530,
-      "num": 1181530,
-      "word": "不会又让二追三吧",
-      "onboard_time": 1662298891,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 1179843,
-      "num": 1179843,
-      "word": "RNG与LNG决胜局",
-      "onboard_time": 1662297934,
-      "rank": 4,
-      "category": "游戏"
     },
     {
       "raw_hot": 1174745,
@@ -1867,6 +1899,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 793817,
+      "num": 793817,
+      "word": "Ale",
+      "onboard_time": 1662290066,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 790336,
       "num": 790336,
       "word": "广州疫情防控",
@@ -2017,14 +2057,6 @@
       "onboard_time": 1662043173,
       "rank": 9,
       "category": "军事,国外要闻"
-    },
-    {
-      "raw_hot": 730286,
-      "num": 730286,
-      "word": "浙江三地已宣布停课一天",
-      "onboard_time": 1662299732,
-      "rank": 9,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 725908,
@@ -2891,6 +2923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 532778,
+      "num": 532778,
+      "word": "恒力石化董事长成中国女首富",
+      "onboard_time": 1662297273,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 529738,
       "num": 529738,
       "word": "河南变身全球最大人造钻石生产地",
@@ -3337,14 +3377,6 @@
       "onboard_time": 1662007472,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 455508,
-      "num": 455508,
-      "word": "恒力石化董事长成中国女首富",
-      "onboard_time": 1662297273,
-      "rank": 37,
-      "category": "财经"
     },
     {
       "raw_hot": 455246,
@@ -3827,6 +3859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 405064,
+      "num": 405064,
+      "word": "阿乐",
+      "onboard_time": 1662301893,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 403010,
       "num": 403010,
       "word": "何卓佳",
@@ -4033,6 +4073,14 @@
       "onboard_time": 1662283228,
       "rank": 49,
       "category": "社会正能量,军事"
+    },
+    {
+      "raw_hot": 387237,
+      "num": 387237,
+      "word": "法拉利",
+      "onboard_time": 1662301957,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 386194,
@@ -4348,7 +4396,7 @@
     },
     {
       "raw_hot": 360509,
-      "num": 333629,
+      "num": 347374,
       "word": "宁安如梦",
       "onboard_time": 1661959112,
       "rank": 12,
@@ -4556,7 +4604,7 @@
     },
     {
       "raw_hot": 340827,
-      "num": 249329,
+      "num": 250791,
       "word": "罚罪",
       "onboard_time": 1662298234,
       "rank": 32,
@@ -4932,7 +4980,7 @@
     },
     {
       "raw_hot": 318136,
-      "num": 251843,
+      "num": 276939,
       "word": "李现后援会辟谣出演玫瑰的故事",
       "onboard_time": 1662296970,
       "rank": 30,
@@ -5001,14 +5049,6 @@
       "onboard_time": 1662215433,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 314747,
-      "num": 314747,
-      "word": "Ale",
-      "onboard_time": 1662290066,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 313739,
@@ -5353,6 +5393,14 @@
       "onboard_time": 1662212431,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 295703,
+      "num": 295703,
+      "word": "极限挑战",
+      "onboard_time": 1662298833,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 295640,
@@ -6203,6 +6251,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 253598,
+      "num": 253598,
+      "word": "92岁老人不愿添麻烦婉拒志愿者上门导尿",
+      "onboard_time": 1662299914,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253345,
       "num": 253345,
       "word": "陈冬说已出舱感觉良好",
@@ -6321,14 +6377,6 @@
       "onboard_time": 1662029488,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 243218,
-      "num": 189222,
-      "word": "极限挑战",
-      "onboard_time": 1662298833,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 242994,
@@ -6723,12 +6771,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 221832,
+      "num": 221832,
+      "word": "乌鲁木齐疫情防控动态",
+      "onboard_time": 1662301415,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221790,
       "num": 217035,
       "word": "Fly成功回到梦开始的地方",
       "onboard_time": 1662219568,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 221439,
+      "num": 221439,
+      "word": "我国已进入台风核心影响时段",
+      "onboard_time": 1662300332,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221207,
@@ -7227,6 +7291,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 194114,
+      "num": 194114,
+      "word": "三问宝马女撞人拖行事件",
+      "onboard_time": 1662301534,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194085,
       "num": 194085,
       "word": "藏在村里的广州烧味有多绝",
@@ -7467,6 +7539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184320,
+      "num": 184320,
+      "word": "NH三连冠",
+      "onboard_time": 1662301893,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 183288,
       "num": 183288,
       "word": "张翰杜淳吵架像分手现场",
@@ -7563,14 +7643,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 178881,
-      "num": 178881,
-      "word": "92岁老人不愿添麻烦婉拒志愿者上门导尿",
-      "onboard_time": 1662299914,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178734,
       "num": 178734,
       "word": "吉林新增11例确诊81例无症状",
@@ -7601,14 +7673,6 @@
       "onboard_time": 1662045450,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 173932,
-      "num": 173932,
-      "word": "Uzi解说",
-      "onboard_time": 1662300393,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 173412,
@@ -7875,6 +7939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160072,
+      "num": 160072,
+      "word": "车祸现场救人快递小哥找到了",
+      "onboard_time": 1662300751,
+      "rank": 41,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 159030,
       "num": 159030,
       "word": "邢菲新剧红衣造型",
@@ -8099,14 +8171,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 148673,
-      "num": 148673,
-      "word": "车祸现场救人快递小哥找到了",
-      "onboard_time": 1662300751,
-      "rank": 41,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 148376,
       "num": 148376,
       "word": "开学第一天",
@@ -8297,14 +8361,6 @@
       "onboard_time": 1661952867,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 135657,
-      "num": 135657,
-      "word": "我国已进入台风核心影响时段",
-      "onboard_time": 1662300332,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135380,
@@ -8939,20 +8995,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47444,
+      "num": 2813227,
+      "word": "2022服贸会观展指北",
+      "onboard_time": 1662298053,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45501,
       "num": 40114,
       "word": "魏晨穿了六年前同款西装",
       "onboard_time": 1662228194,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 41471,
-      "num": 1885962,
-      "word": "2022服贸会观展指北",
-      "onboard_time": 1662298053,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 40941,
