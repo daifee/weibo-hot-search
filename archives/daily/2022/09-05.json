@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662320005708,
+  "endTime": 1662323047436,
   "band_list": [
     {
       "raw_hot": 1739706,
@@ -443,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37486,
+      "num": 37486,
+      "word": "覆流年里女主的爹是萧剑",
+      "onboard_time": 1662319872,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 24483,
       "num": 24483,
       "word": "F1荷兰大奖赛",
@@ -459,12 +467,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18297,
-      "num": 18297,
-      "word": "覆流年里女主的爹是萧剑",
-      "onboard_time": 1662319872,
-      "rank": 42,
-      "category": "影视"
+      "raw_hot": 10088,
+      "num": 10088,
+      "word": "布拉格爆发抗议反对欧盟和北约",
+      "onboard_time": 1662322212,
+      "rank": 46,
+      "category": "国外要闻,社会新闻"
+    },
+    {
+      "raw_hot": 7479,
+      "num": 7930,
+      "word": "老人在小区用牵引绳抽狗疑泄愤",
+      "onboard_time": 1662322631,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
