@@ -1,6 +1,6 @@
 {
   "startTime": 1662222576733,
-  "endTime": 1662276026879,
+  "endTime": 1662276957808,
   "band_list": [
     {
       "raw_hot": 4005002,
@@ -35,8 +35,8 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 2179078,
-      "num": 2179078,
+      "raw_hot": 2211659,
+      "num": 2211659,
       "word": "宁波停课",
       "onboard_time": 1662273327,
       "rank": 29,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1045717,
+      "num": 1045717,
+      "word": "男子殴打猥亵女儿者检察院不起诉",
+      "onboard_time": 1662275427,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 989949,
       "num": 989949,
       "word": "宝妈怕娃闹给同飞机乘客备100份礼袋",
@@ -184,6 +192,14 @@
       "word": "深圳黄码",
       "onboard_time": 1662262043,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 745543,
+      "num": 745543,
+      "word": "女孩现场怒斥酒驾母亲不要影响我考大学",
+      "onboard_time": 1662275487,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -283,6 +299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 542250,
+      "num": 542250,
+      "word": "约1.2亿老人逐渐失去了听力",
+      "onboard_time": 1662275188,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 540949,
       "num": 540949,
       "word": "成都黄码",
@@ -368,6 +392,14 @@
       "word": "十大年度国家IP评选",
       "onboard_time": 1662264748,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 433183,
+      "num": 433183,
+      "word": "君合",
+      "onboard_time": 1662275246,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -475,6 +507,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 375766,
+      "num": 375766,
+      "word": "成都交警回应救护车与出租车相撞",
+      "onboard_time": 1662274945,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 372385,
       "num": 372385,
       "word": "张彬彬两个人的小森林集齐9个木",
@@ -537,14 +577,6 @@
       "onboard_time": 1662217595,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 339029,
-      "num": 339029,
-      "word": "君合",
-      "onboard_time": 1662275246,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 338091,
@@ -627,20 +659,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 290499,
-      "num": 290499,
-      "word": "成都交警回应救护车与出租车相撞",
-      "onboard_time": 1662274945,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 291216,
+      "num": 291216,
+      "word": "RNG",
+      "onboard_time": 1662275847,
+      "rank": 26,
+      "category": "游戏"
     },
     {
-      "raw_hot": 277291,
-      "num": 277291,
-      "word": "约1.2亿老人逐渐失去了听力",
-      "onboard_time": 1662275188,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 275899,
+      "num": 275899,
+      "word": "梁伟铿王昶首夺750赛冠军",
+      "onboard_time": 1662276327,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 275283,
@@ -673,14 +705,6 @@
       "onboard_time": 1662263907,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 264807,
-      "num": 264807,
-      "word": "男子殴打猥亵女儿者检察院不起诉",
-      "onboard_time": 1662275427,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 264434,
@@ -731,14 +755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 250010,
-      "num": 250010,
-      "word": "女孩现场怒斥酒驾母亲不要影响我考大学",
-      "onboard_time": 1662275487,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 247816,
       "num": 202784,
       "word": "被任嘉伦密室反应笑哭了",
@@ -779,12 +795,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 235088,
-      "num": 235088,
-      "word": "RNG",
-      "onboard_time": 1662275847,
-      "rank": 26,
-      "category": "游戏"
+      "raw_hot": 236299,
+      "num": 236299,
+      "word": "你也患上热度排斥症了吗",
+      "onboard_time": 1662274764,
+      "rank": 37,
+      "category": "社会议题"
     },
     {
       "raw_hot": 233438,
@@ -843,6 +859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 218418,
+      "num": 218418,
+      "word": "撞人拖行伤者司机最高或面临7年徒刑",
+      "onboard_time": 1662273566,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217035,
       "num": 217035,
       "word": "Fly成功回到梦开始的地方",
@@ -899,6 +923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206361,
+      "num": 206361,
+      "word": "宁波教育",
+      "onboard_time": 1662275246,
+      "rank": 28,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 206131,
       "num": 206131,
       "word": "上海市监局回应巴黎贝甜被罚",
@@ -921,14 +953,6 @@
       "onboard_time": 1662242591,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 203076,
-      "num": 203076,
-      "word": "宁波教育",
-      "onboard_time": 1662275246,
-      "rank": 28,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 202166,
@@ -971,12 +995,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 188667,
-      "num": 188667,
-      "word": "撞人拖行伤者司机最高或面临7年徒刑",
-      "onboard_time": 1662273566,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 189480,
+      "num": 189480,
+      "word": "上海9月4日晚暂停开放景观照明",
+      "onboard_time": 1662276687,
+      "rank": 30,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 185333,
@@ -1003,20 +1027,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175986,
+      "num": 175986,
+      "word": "人体24小时血糖这样变化",
+      "onboard_time": 1662276026,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171068,
       "num": 171068,
       "word": "山东新增本土确诊1例无症状78例",
       "onboard_time": 1662259886,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 170176,
-      "num": 170176,
-      "word": "你也患上热度排斥症了吗",
-      "onboard_time": 1662274764,
-      "rank": 37,
-      "category": "社会议题"
     },
     {
       "raw_hot": 168088,
@@ -1208,14 +1232,6 @@
       "word": "9月3日新增本土确诊314例",
       "onboard_time": 1662256948,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 113998,
-      "num": 113290,
-      "word": "人体24小时血糖这样变化",
-      "onboard_time": 1662276026,
-      "rank": 47,
       "category": "社会新闻"
     },
     {

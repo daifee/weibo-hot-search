@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/04 00:29:36 ~ 2022/09/04 15:20:26
+本榜单时间：2022/09/04 00:29:36 ~ 2022/09/04 15:35:57
 </p>
 </blockquote>
 <p>
@@ -40,7 +40,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E6%B3%A2%E5%81%9C%E8%AF%BE%23" target="weibo">
-宁波停课（热度：2179078）
+宁波停课（热度：2211659）
 </a>
 </li>
 
@@ -111,6 +111,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AE%B4%E6%89%93%E7%8C%A5%E4%BA%B5%E5%A5%B3%E5%84%BF%E8%80%85%E6%A3%80%E5%AF%9F%E9%99%A2%E4%B8%8D%E8%B5%B7%E8%AF%89%23" target="weibo">
+男子殴打猥亵女儿者检察院不起诉（热度：1045717）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%A6%88%E6%80%95%E5%A8%83%E9%97%B9%E7%BB%99%E5%90%8C%E9%A3%9E%E6%9C%BA%E4%B9%98%E5%AE%A2%E5%A4%87100%E4%BB%BD%E7%A4%BC%E8%A2%8B%23" target="weibo">
 宝妈怕娃闹给同飞机乘客备100份礼袋（热度：989949）
 </a>
@@ -149,6 +155,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E9%BB%84%E7%A0%81%23" target="weibo">
 深圳黄码（热度：754083）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E7%8E%B0%E5%9C%BA%E6%80%92%E6%96%A5%E9%85%92%E9%A9%BE%E6%AF%8D%E4%BA%B2%E4%B8%8D%E8%A6%81%E5%BD%B1%E5%93%8D%E6%88%91%E8%80%83%E5%A4%A7%E5%AD%A6%23" target="weibo">
+女孩现场怒斥酒驾母亲不要影响我考大学（热度：745543）
 </a>
 </li>
 
@@ -225,6 +237,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A61.2%E4%BA%BF%E8%80%81%E4%BA%BA%E9%80%90%E6%B8%90%E5%A4%B1%E5%8E%BB%E4%BA%86%E5%90%AC%E5%8A%9B%23" target="weibo">
+约1.2亿老人逐渐失去了听力（热度：542250）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E9%BB%84%E7%A0%81%23" target="weibo">
 成都黄码（热度：540949）
 </a>
@@ -287,6 +305,12 @@ GAI说缺那一句你们唱我们听（热度：451722）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%A4%A7%E5%B9%B4%E5%BA%A6%E5%9B%BD%E5%AE%B6IP%E8%AF%84%E9%80%89%23" target="weibo">
 十大年度国家IP评选（热度：441248）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%9B%E5%90%88%23" target="weibo">
+君合（热度：433183）
 </a>
 </li>
 
@@ -369,6 +393,12 @@ TF家族新歌写给他们的歌（热度：377595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E6%95%91%E6%8A%A4%E8%BD%A6%E4%B8%8E%E5%87%BA%E7%A7%9F%E8%BD%A6%E7%9B%B8%E6%92%9E%23" target="weibo">
+成都交警回应救护车与出租车相撞（热度：375766）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%BD%AC%E5%BD%AC%E4%B8%A4%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%B0%8F%E6%A3%AE%E6%9E%97%E9%9B%86%E9%BD%909%E4%B8%AA%E6%9C%A8%23" target="weibo">
 张彬彬两个人的小森林集齐9个木（热度：372385）
 </a>
@@ -413,12 +443,6 @@ TF家族新歌写给他们的歌（热度：377595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E6%BC%94%E6%88%91%E5%90%83%E7%93%9C%23" target="weibo">
 关晓彤演我吃瓜（热度：345866）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%9B%E5%90%88%23" target="weibo">
-君合（热度：339029）
 </a>
 </li>
 
@@ -483,14 +507,14 @@ TF家族新歌写给他们的歌（热度：377595）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E6%95%91%E6%8A%A4%E8%BD%A6%E4%B8%8E%E5%87%BA%E7%A7%9F%E8%BD%A6%E7%9B%B8%E6%92%9E%23" target="weibo">
-成都交警回应救护车与出租车相撞（热度：290499）
+<a href="https://s.weibo.com/weibo?q=%23RNG%23" target="weibo">
+RNG（热度：291216）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A61.2%E4%BA%BF%E8%80%81%E4%BA%BA%E9%80%90%E6%B8%90%E5%A4%B1%E5%8E%BB%E4%BA%86%E5%90%AC%E5%8A%9B%23" target="weibo">
-约1.2亿老人逐渐失去了听力（热度：277291）
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E4%BC%9F%E9%93%BF%E7%8E%8B%E6%98%B6%E9%A6%96%E5%A4%BA750%E8%B5%9B%E5%86%A0%E5%86%9B%23" target="weibo">
+梁伟铿王昶首夺750赛冠军（热度：275899）
 </a>
 </li>
 
@@ -515,12 +539,6 @@ Rookie泪目（热度：275283）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%85%E8%9E%8D%E5%93%AD%E4%BA%86%23" target="weibo">
 清融哭了（热度：264941）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AE%B4%E6%89%93%E7%8C%A5%E4%BA%B5%E5%A5%B3%E5%84%BF%E8%80%85%E6%A3%80%E5%AF%9F%E9%99%A2%E4%B8%8D%E8%B5%B7%E8%AF%89%23" target="weibo">
-男子殴打猥亵女儿者检察院不起诉（热度：264807）
 </a>
 </li>
 
@@ -561,12 +579,6 @@ Doinb再次打拳庆祝（热度：258834）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E7%8E%B0%E5%9C%BA%E6%80%92%E6%96%A5%E9%85%92%E9%A9%BE%E6%AF%8D%E4%BA%B2%E4%B8%8D%E8%A6%81%E5%BD%B1%E5%93%8D%E6%88%91%E8%80%83%E5%A4%A7%E5%AD%A6%23" target="weibo">
-女孩现场怒斥酒驾母亲不要影响我考大学（热度：250010）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%BB%BB%E5%98%89%E4%BC%A6%E5%AF%86%E5%AE%A4%E5%8F%8D%E5%BA%94%E7%AC%91%E5%93%AD%E4%BA%86%23" target="weibo">
 被任嘉伦密室反应笑哭了（热度：247816）
 </a>
@@ -597,8 +609,8 @@ Doinb再次打拳庆祝（热度：258834）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23RNG%23" target="weibo">
-RNG（热度：235088）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%B9%9F%E6%82%A3%E4%B8%8A%E7%83%AD%E5%BA%A6%E6%8E%92%E6%96%A5%E7%97%87%E4%BA%86%E5%90%97%23" target="weibo">
+你也患上热度排斥症了吗（热度：236299）
 </a>
 </li>
 
@@ -645,6 +657,12 @@ RNG（热度：235088）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%92%9E%E4%BA%BA%E6%8B%96%E8%A1%8C%E4%BC%A4%E8%80%85%E5%8F%B8%E6%9C%BA%E6%9C%80%E9%AB%98%E6%88%96%E9%9D%A2%E4%B8%B47%E5%B9%B4%E5%BE%92%E5%88%91%23" target="weibo">
+撞人拖行伤者司机最高或面临7年徒刑（热度：218418）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Fly%E6%88%90%E5%8A%9F%E5%9B%9E%E5%88%B0%E6%A2%A6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%9C%B0%E6%96%B9%23" target="weibo">
 Fly成功回到梦开始的地方（热度：217035）
 </a>
@@ -687,6 +705,12 @@ Fly成功回到梦开始的地方（热度：217035）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E6%B3%A2%E6%95%99%E8%82%B2%23" target="weibo">
+宁波教育（热度：206361）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%B8%82%E7%9B%91%E5%B1%80%E5%9B%9E%E5%BA%94%E5%B7%B4%E9%BB%8E%E8%B4%9D%E7%94%9C%E8%A2%AB%E7%BD%9A%23" target="weibo">
 上海市监局回应巴黎贝甜被罚（热度：206131）
 </a>
@@ -701,12 +725,6 @@ Fly成功回到梦开始的地方（热度：217035）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E8%8E%B7%E9%87%91%E9%B9%BF%E5%A5%96%E8%BF%9E%E8%AF%B412%E4%B8%AA%E6%84%9F%E8%B0%A2%23" target="weibo">
 朱一龙获金鹿奖连说12个感谢（热度：204279）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E6%B3%A2%E6%95%99%E8%82%B2%23" target="weibo">
-宁波教育（热度：203076）
 </a>
 </li>
 
@@ -741,8 +759,8 @@ Fly成功回到梦开始的地方（热度：217035）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%92%9E%E4%BA%BA%E6%8B%96%E8%A1%8C%E4%BC%A4%E8%80%85%E5%8F%B8%E6%9C%BA%E6%9C%80%E9%AB%98%E6%88%96%E9%9D%A2%E4%B8%B47%E5%B9%B4%E5%BE%92%E5%88%91%23" target="weibo">
-撞人拖行伤者司机最高或面临7年徒刑（热度：188667）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B79%E6%9C%884%E6%97%A5%E6%99%9A%E6%9A%82%E5%81%9C%E5%BC%80%E6%94%BE%E6%99%AF%E8%A7%82%E7%85%A7%E6%98%8E%23" target="weibo">
+上海9月4日晚暂停开放景观照明（热度：189480）
 </a>
 </li>
 
@@ -765,14 +783,14 @@ Fly成功回到梦开始的地方（热度：217035）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A1%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B678%E4%BE%8B%23" target="weibo">
-山东新增本土确诊1例无症状78例（热度：171068）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%BD%9324%E5%B0%8F%E6%97%B6%E8%A1%80%E7%B3%96%E8%BF%99%E6%A0%B7%E5%8F%98%E5%8C%96%23" target="weibo">
+人体24小时血糖这样变化（热度：175986）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%B9%9F%E6%82%A3%E4%B8%8A%E7%83%AD%E5%BA%A6%E6%8E%92%E6%96%A5%E7%97%87%E4%BA%86%E5%90%97%23" target="weibo">
-你也患上热度排斥症了吗（热度：170176）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A1%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B678%E4%BE%8B%23" target="weibo">
+山东新增本土确诊1例无症状78例（热度：171068）
 </a>
 </li>
 
@@ -917,12 +935,6 @@ Rookie连续三年无缘世界赛（热度：167089）
 <li>
 <a href="https://s.weibo.com/weibo?q=%239%E6%9C%883%E6%97%A5%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A314%E4%BE%8B%23" target="weibo">
 9月3日新增本土确诊314例（热度：116028）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%BD%9324%E5%B0%8F%E6%97%B6%E8%A1%80%E7%B3%96%E8%BF%99%E6%A0%B7%E5%8F%98%E5%8C%96%23" target="weibo">
-人体24小时血糖这样变化（热度：113998）
 </a>
 </li>
 
