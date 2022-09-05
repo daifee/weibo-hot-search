@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662347794510,
+  "endTime": 1662353354538,
   "band_list": [
     {
       "raw_hot": 3457492,
@@ -19,11 +19,27 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 1844283,
+      "num": 1402650,
+      "word": "开始推理吧 张若昀唐艺昕结婚照",
+      "onboard_time": 1662352650,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1739706,
       "num": 1739706,
       "word": "90%学生被取消学籍系因游戏",
       "onboard_time": 1662294747,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1401124,
+      "num": 1401124,
+      "word": "女租客退房房东挑刺马桶不退押金",
+      "onboard_time": 1662349229,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -57,6 +73,22 @@
       "onboard_time": 1662294089,
       "rank": 27,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 1076316,
+      "num": 1076316,
+      "word": "美国安局窃取中国网络数据超140G",
+      "onboard_time": 1662347966,
+      "rank": 5,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 1043255,
+      "num": 1043255,
+      "word": "接亲时新娘发脾气新郎教科书式求和",
+      "onboard_time": 1662347245,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1039104,
@@ -107,6 +139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 842380,
+      "num": 842380,
+      "word": "喜茶原神",
+      "onboard_time": 1662346766,
+      "rank": 5,
+      "category": "美食,游戏"
+    },
+    {
       "raw_hot": 801857,
       "num": 801857,
       "word": "原来真的有洗羊羊",
@@ -115,12 +155,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 767070,
-      "num": 767070,
-      "word": "喜茶原神",
-      "onboard_time": 1662346766,
-      "rank": 5,
-      "category": "美食,游戏"
+      "raw_hot": 796809,
+      "num": 796809,
+      "word": "警方回应工人坐氢气球飘走",
+      "onboard_time": 1662347604,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 746252,
+      "num": 746252,
+      "word": "华为Mate50价格曝光",
+      "onboard_time": 1662351570,
+      "rank": 10,
+      "category": "科技"
     },
     {
       "raw_hot": 709866,
@@ -163,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 664417,
+      "num": 664417,
+      "word": "陈奕迅演唱会",
+      "onboard_time": 1662348147,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 657785,
       "num": 657785,
       "word": "女子在永辉超市买2斤猪肉花103元",
@@ -185,6 +241,14 @@
       "onboard_time": 1662343465,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 596396,
+      "num": 596396,
+      "word": "微信输入法要占内存524MB",
+      "onboard_time": 1662350490,
+      "rank": 12,
+      "category": "科技"
     },
     {
       "raw_hot": 570043,
@@ -211,6 +275,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 521609,
+      "num": 521609,
+      "word": "曝乔丹儿子约会皮蓬前妻",
+      "onboard_time": 1662352290,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 507073,
       "num": 507073,
       "word": "她们的名字定档今晚",
@@ -227,12 +299,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 485431,
+      "num": 485431,
+      "word": "虞书欣王鹤棣合拍视频",
+      "onboard_time": 1662347546,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 471198,
       "num": 471198,
       "word": "偷菜也可以做成一门生意",
       "onboard_time": 1662342086,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 468831,
+      "num": 468831,
+      "word": "何润东又拿了步惊云的剧本",
+      "onboard_time": 1662349468,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 459400,
@@ -249,6 +337,30 @@
       "onboard_time": 1662341784,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 446156,
+      "num": 446156,
+      "word": "360",
+      "onboard_time": 1662351872,
+      "rank": 17,
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 436319,
+      "num": 436319,
+      "word": "陪你吃苦的女孩还在身边吗",
+      "onboard_time": 1662350307,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 430104,
+      "num": 293643,
+      "word": "抖音让我证明鲍勃迪伦拿过诺贝尔文学奖",
+      "onboard_time": 1662347908,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 420047,
@@ -275,14 +387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 397907,
-      "num": 397907,
-      "word": "虞书欣王鹤棣合拍视频",
-      "onboard_time": 1662347546,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 397043,
       "num": 397043,
       "word": "美国NSA网络攻击中国上万次",
@@ -307,6 +411,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 376119,
+      "num": 376119,
+      "word": "坐氢气球飘走工人已找到",
+      "onboard_time": 1662350129,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 373684,
       "num": 361725,
       "word": "部分iPhone14机型或移除SIM卡槽",
@@ -320,6 +432,14 @@
       "word": "电影无名",
       "onboard_time": 1662345805,
       "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 354461,
+      "num": 354461,
+      "word": "谢娜探访中国最聪明的工厂",
+      "onboard_time": 1662350909,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -347,6 +467,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 340300,
+      "num": 340300,
+      "word": "南京江宁警方回应190万诈骗案拒不立案",
+      "onboard_time": 1662348268,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 337435,
+      "num": 337435,
+      "word": "男子醉酒爬上天台横梁睡了一宿",
+      "onboard_time": 1662348446,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332984,
       "num": 305173,
       "word": "金莎演的太平公主",
@@ -369,6 +505,14 @@
       "onboard_time": 1662338006,
       "rank": 20,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 319704,
+      "num": 319704,
+      "word": "国内油价五连跌或终结",
+      "onboard_time": 1662346825,
+      "rank": 31,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 314293,
@@ -411,6 +555,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 297517,
+      "num": 297517,
+      "word": "亲爱的生命央视定档",
+      "onboard_time": 1662351089,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 296475,
+      "num": 296475,
+      "word": "王一博无名黑西装造型",
+      "onboard_time": 1662348025,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 294662,
+      "num": 294662,
+      "word": "徐璐音乐节vlog",
+      "onboard_time": 1662350970,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 286374,
       "num": 286374,
       "word": "胡一天向秦羽今晚见",
@@ -433,6 +601,14 @@
       "onboard_time": 1662309741,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 282449,
+      "num": 282449,
+      "word": "冰雨火英文名是吴振峰陈宇的成长线",
+      "onboard_time": 1662351930,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 280768,
@@ -467,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 272030,
+      "num": 272030,
+      "word": "张杰新歌",
+      "onboard_time": 1662351509,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 265503,
       "num": 265503,
       "word": "覆流年里女主的爹是萧剑",
@@ -481,6 +665,14 @@
       "onboard_time": 1662293427,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 252687,
+      "num": 252687,
+      "word": "共享单车扣车变成产业链",
+      "onboard_time": 1662351692,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 244143,
@@ -595,6 +787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 224689,
+      "num": 224689,
+      "word": "国内油价或迎大幅度上涨",
+      "onboard_time": 1662350909,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220304,
       "num": 185614,
       "word": "赵露思孟美岐对手戏",
@@ -627,20 +827,44 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 204475,
-      "num": 204475,
-      "word": "国内油价五连跌或终结",
-      "onboard_time": 1662346825,
-      "rank": 31,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 203559,
       "num": 203559,
       "word": "胰岛素含片或将问世",
       "onboard_time": 1662327852,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202362,
+      "num": 202362,
+      "word": "刘诗诗红衣侧颜饭拍路透",
+      "onboard_time": 1662350007,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 199436,
+      "num": 199436,
+      "word": "车银优将出演新剧今天也很可爱",
+      "onboard_time": 1662351150,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 197059,
+      "num": 197059,
+      "word": "欧阳娜娜新专辑MV是手写的",
+      "onboard_time": 1662350669,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 196190,
+      "num": 196190,
+      "word": "特朗普可能已卖掉白宫机密文件",
+      "onboard_time": 1662353130,
+      "rank": 43,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 192523,
@@ -787,14 +1011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146421,
-      "num": 146421,
-      "word": "接亲时新娘发脾气新郎教科书式求和",
-      "onboard_time": 1662347245,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145199,
       "num": 145199,
       "word": "LPL选手",
@@ -833,14 +1049,6 @@
       "onboard_time": 1662340349,
       "rank": 41,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 131576,
-      "num": 131576,
-      "word": "警方回应工人坐氢气球飘走",
-      "onboard_time": 1662347604,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125176,
@@ -923,6 +1131,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 85506,
+      "num": 1403719,
+      "word": "航拍看长城美如画卷",
+      "onboard_time": 1662346047,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80096,
       "num": 80096,
       "word": "深圳采取分级分类管控措施",
@@ -969,14 +1185,6 @@
       "onboard_time": 1662334762,
       "rank": 48,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 62059,
-      "num": 1214812,
-      "word": "航拍看长城美如画卷",
-      "onboard_time": 1662346047,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 47232,
