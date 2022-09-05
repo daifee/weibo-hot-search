@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662361576399,
+  "endTime": 1662363234694,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -963,6 +963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1355953,
+      "num": 1355953,
+      "word": "女生宿舍辣酱爆炸似案发现场",
+      "onboard_time": 1662357873,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1352979,
       "num": 1352979,
       "word": "北京冰雹",
@@ -1275,6 +1283,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1123731,
+      "num": 717635,
+      "word": "众星为四川成都祈福",
+      "onboard_time": 1662361588,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1122975,
       "num": 654044,
       "word": "赵露思偷偷藏不住上班饭拍",
@@ -1475,11 +1491,11 @@
       "category": "军事"
     },
     {
-      "raw_hot": 1021932,
-      "num": 1021932,
-      "word": "女生宿舍辣酱爆炸似案发现场",
-      "onboard_time": 1662357873,
-      "rank": 21,
+      "raw_hot": 1025161,
+      "num": 1025161,
+      "word": "泸定地震震中在海螺沟",
+      "onboard_time": 1662358772,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -1489,14 +1505,6 @@
       "onboard_time": 1662034109,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1019111,
-      "num": 1019111,
-      "word": "泸定地震震中在海螺沟",
-      "onboard_time": 1662358772,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1016545,
@@ -1616,6 +1624,14 @@
       "word": "东软回应成都核酸系统异常",
       "onboard_time": 1662191608,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 959094,
+      "num": 959094,
+      "word": "泸定县城震后画面",
+      "onboard_time": 1662360032,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -3451,6 +3467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 510484,
+      "num": 510484,
+      "word": "为什么自己和父母的缺点越来越像",
+      "onboard_time": 1662359132,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 509513,
       "num": 509513,
       "word": "RNG与EDG决胜局",
@@ -3843,6 +3867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 460756,
+      "num": 460756,
+      "word": "7成网民失去用眼自由",
+      "onboard_time": 1662359973,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 460189,
       "num": 550366,
       "word": "阿根廷副总统遭遇持枪威胁",
@@ -4072,6 +4104,14 @@
       "word": "十大年度国家IP评选",
       "onboard_time": 1662264748,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 441066,
+      "num": 441066,
+      "word": "网友家中的火锅告诉你成都震感有多凶",
+      "onboard_time": 1662359791,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -4539,14 +4579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 398226,
-      "num": 398226,
-      "word": "网友家中的火锅告诉你成都震感有多凶",
-      "onboard_time": 1662359791,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 397348,
       "num": 397348,
       "word": "周杰伦王俊凯Uzi厂长",
@@ -4803,6 +4835,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 377341,
+      "num": 377341,
+      "word": "T1官宣Bengi暂代主教练",
+      "onboard_time": 1662360631,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 376493,
       "num": 342073,
       "word": "丁程鑫和小学班主任合影",
@@ -4913,14 +4953,6 @@
       "onboard_time": 1662004587,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 368251,
-      "num": 368251,
-      "word": "为什么自己和父母的缺点越来越像",
-      "onboard_time": 1662359132,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 368207,
@@ -5267,6 +5299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 343698,
+      "num": 343698,
+      "word": "淄博市发现2例阳性感染者",
+      "onboard_time": 1662361410,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 342888,
       "num": 342888,
       "word": "成都发布",
@@ -5280,6 +5320,14 @@
       "word": "102岁姐姐给86岁弟弟塞红包",
       "onboard_time": 1662333138,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 342246,
+      "num": 342246,
+      "word": "00后毕业养猪因不想内耗",
+      "onboard_time": 1662360271,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -5377,14 +5425,6 @@
       "onboard_time": 1662026008,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 336220,
-      "num": 336220,
-      "word": "泸定县城震后画面",
-      "onboard_time": 1662360032,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 335891,
@@ -5635,14 +5675,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 323424,
-      "num": 323424,
-      "word": "7成网民失去用眼自由",
-      "onboard_time": 1662359973,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 323259,
       "num": 323259,
       "word": "LPL开幕式选手pose",
@@ -5809,14 +5841,6 @@
       "onboard_time": 1662165865,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 313669,
-      "num": 313669,
-      "word": "00后毕业养猪因不想内耗",
-      "onboard_time": 1662360271,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 313255,
@@ -6403,12 +6427,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 286726,
-      "num": 286726,
-      "word": "T1官宣Bengi暂代主教练",
-      "onboard_time": 1662360631,
-      "rank": 27,
-      "category": "游戏"
+      "raw_hot": 287118,
+      "num": 287118,
+      "word": "基金",
+      "onboard_time": 1662361289,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 286374,
@@ -6827,6 +6851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270408,
+      "num": 270408,
+      "word": "新学期要读的第一本书",
+      "onboard_time": 1662362552,
+      "rank": 26,
+      "category": "教育,情感"
+    },
+    {
       "raw_hot": 270402,
       "num": 270402,
       "word": "怎么熬过失恋低谷期",
@@ -6931,6 +6963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 265009,
+      "num": 265009,
+      "word": "四川地震局2级地震应急响应",
+      "onboard_time": 1662363028,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 264941,
       "num": 264941,
       "word": "清融哭了",
@@ -7009,6 +7049,14 @@
       "onboard_time": 1662036209,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 259531,
+      "num": 259531,
+      "word": "张云雷新歌误以为你以为",
+      "onboard_time": 1662362788,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 258834,
@@ -7763,14 +7811,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 221449,
-      "num": 221449,
-      "word": "基金",
-      "onboard_time": 1662361289,
-      "rank": 37,
-      "category": "财经"
-    },
-    {
       "raw_hot": 221207,
       "num": 221207,
       "word": "闪耀暖暖",
@@ -8144,6 +8184,14 @@
       "word": "胰岛素含片或将问世",
       "onboard_time": 1662327852,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202450,
+      "num": 202450,
+      "word": "河南多地有震感",
+      "onboard_time": 1662361710,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -8915,14 +8963,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165942,
-      "num": 165942,
-      "word": "淄博市发现2例阳性感染者",
-      "onboard_time": 1662361410,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 165933,
       "num": 160486,
       "word": "吴希泽说和王俊凯对线有压力",
@@ -9315,6 +9355,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 147609,
+      "num": 147609,
+      "word": "7旬爷爷凌晨4点捡废品为孙筹医疗费",
+      "onboard_time": 1662362967,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147112,
       "num": 147112,
       "word": "2022LPL全球总决赛资格赛",
@@ -9337,6 +9385,14 @@
       "onboard_time": 1662117029,
       "rank": 42,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 146692,
+      "num": 146692,
+      "word": "乐山一小学地震预警期全部疏散",
+      "onboard_time": 1662363150,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146469,
