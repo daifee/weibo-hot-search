@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662370783014,
+  "endTime": 1662373496444,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1980728,
+      "num": 1980728,
+      "word": "美方长期对中国手机用户无差别监听",
+      "onboard_time": 1662369748,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1941222,
       "num": 1941222,
       "word": "泸定县城震后画面",
@@ -120,6 +128,14 @@
       "word": "庆怜官宣签约王嘉尔公司",
       "onboard_time": 1662363868,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1721835,
+      "num": 1721835,
+      "word": "张若昀唐艺昕方希望不再传播相关图片",
+      "onboard_time": 1662372688,
+      "rank": 3,
       "category": "艺人"
     },
     {
@@ -379,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 744755,
+      "num": 744755,
+      "word": "黄之锋等5人认罪",
+      "onboard_time": 1662369448,
+      "rank": 39,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 720567,
       "num": 720567,
       "word": "侦侦日上向张若昀唐艺昕道歉",
@@ -491,12 +515,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 639113,
+      "num": 639113,
+      "word": "宋雨琦的镂空裤子",
+      "onboard_time": 1662371729,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 598120,
       "num": 598120,
       "word": "王菲王家卫新片预告",
       "onboard_time": 1662343465,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 582494,
+      "num": 582494,
+      "word": "苏醒说两周内要做出两首歌",
+      "onboard_time": 1662372449,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 579619,
@@ -513,6 +553,14 @@
       "onboard_time": 1662339808,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 541000,
+      "num": 541000,
+      "word": "小猫的腿都吓软了",
+      "onboard_time": 1662371248,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 539418,
@@ -555,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 496468,
+      "num": 496468,
+      "word": "青岛即墨发现2例感染者",
+      "onboard_time": 1662370347,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 491821,
       "num": 491821,
       "word": "浙江三地已宣布停课一天",
@@ -569,14 +625,6 @@
       "onboard_time": 1662347546,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 481916,
-      "num": 481916,
-      "word": "黄之锋等5人认罪",
-      "onboard_time": 1662369448,
-      "rank": 39,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 481529,
@@ -617,6 +665,14 @@
       "onboard_time": 1662349468,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 466662,
+      "num": 466662,
+      "word": "苹果汽车受欢迎度超特斯拉",
+      "onboard_time": 1662371248,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 459400,
@@ -811,14 +867,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 355772,
-      "num": 355772,
-      "word": "美方长期对中国手机用户无差别监听",
-      "onboard_time": 1662369748,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 354461,
       "num": 354461,
       "word": "谢娜探访中国最聪明的工厂",
@@ -913,6 +961,14 @@
       "onboard_time": 1662338006,
       "rank": 20,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 323347,
+      "num": 323347,
+      "word": "石家庄疫情防控",
+      "onboard_time": 1662371008,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 322182,
@@ -1035,12 +1091,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 287026,
+      "num": 287026,
+      "word": "四川速度",
+      "onboard_time": 1662371490,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286374,
       "num": 286374,
       "word": "胡一天向秦羽今晚见",
       "onboard_time": 1662347365,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 285199,
+      "num": 285199,
+      "word": "市民住35楼称地震时像坐大摆锤",
+      "onboard_time": 1662372208,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 283830,
@@ -1203,6 +1275,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 259236,
+      "num": 259236,
+      "word": "湘雅二院取消两主任医生医疗资质",
+      "onboard_time": 1662373170,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245491,
       "num": 245491,
       "word": "恋爱的夏天关系乱",
@@ -1259,6 +1339,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 240624,
+      "num": 240624,
+      "word": "青年大学习",
+      "onboard_time": 1662369989,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 240119,
       "num": 240119,
       "word": "Ale",
@@ -1289,6 +1377,14 @@
       "onboard_time": 1662322212,
       "rank": 46,
       "category": "国外要闻,社会新闻"
+    },
+    {
+      "raw_hot": 230311,
+      "num": 230311,
+      "word": "地震致石棉县13人遇难",
+      "onboard_time": 1662373409,
+      "rank": 30,
+      "category": "社会负面"
     },
     {
       "raw_hot": 229146,
@@ -1379,6 +1475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209353,
+      "num": 209353,
+      "word": "印度旋转塔从高空直线坠落",
+      "onboard_time": 1662371430,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205109,
       "num": 205109,
       "word": "男子骑摩托被女友开车撞翻",
@@ -1451,19 +1555,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192392,
+      "num": 192392,
+      "word": "官方辟谣地震男子高楼跳伞逃生",
+      "onboard_time": 1662372149,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190335,
       "num": 190335,
       "word": "深圳疫情防控",
       "onboard_time": 1662302238,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 189891,
-      "num": 189891,
-      "word": "青岛即墨发现2例感染者",
-      "onboard_time": 1662370347,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -1555,14 +1659,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 177357,
-      "num": 177357,
-      "word": "青年大学习",
-      "onboard_time": 1662369989,
-      "rank": 38,
-      "category": "教育"
-    },
-    {
       "raw_hot": 175934,
       "num": 175934,
       "word": "女子称自己复活成仙骗男网友486万",
@@ -1585,6 +1681,14 @@
       "onboard_time": 1662347187,
       "rank": 37,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 173465,
+      "num": 173465,
+      "word": "中方要求美方立即停止不法行为",
+      "onboard_time": 1662372508,
+      "rank": 43,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 168471,
@@ -1619,6 +1723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 162239,
+      "num": 162239,
+      "word": "官方回应群猴窜入小区觅食",
+      "onboard_time": 1662369928,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157502,
       "num": 157502,
       "word": "广州地铁全线网所有车站恢复正常运营",
@@ -1651,19 +1763,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149730,
+      "num": 149730,
+      "word": "10岁男孩8个月学会6种字体",
+      "onboard_time": 1662373352,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148487,
       "num": 148487,
       "word": "福州现巨型乌云",
       "onboard_time": 1662315615,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 148368,
-      "num": 148368,
-      "word": "官方回应群猴窜入小区觅食",
-      "onboard_time": 1662369928,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1896,6 +2008,14 @@
       "word": "2022服贸会观展指北",
       "onboard_time": 1662298053,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38223,
+      "num": 543184,
+      "word": "救火英雄驰援泸定",
+      "onboard_time": 1662372028,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
