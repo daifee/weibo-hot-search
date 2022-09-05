@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662357836529,
+  "endTime": 1662359276949,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -59,6 +59,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2130387,
+      "num": 2130387,
+      "word": "四川绵竹上空疑现大量蝙蝠群",
+      "onboard_time": 1662355604,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1915007,
       "num": 1915007,
       "word": "地震局",
@@ -67,12 +75,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1814026,
-      "num": 1814026,
-      "word": "四川绵竹上空疑现大量蝙蝠群",
-      "onboard_time": 1662355604,
-      "rank": 6,
-      "category": "社会新闻"
+      "raw_hot": 1847025,
+      "num": 1847025,
+      "word": "特朗普可能已卖掉白宫机密文件",
+      "onboard_time": 1662353130,
+      "rank": 43,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1739706,
@@ -81,14 +89,6 @@
       "onboard_time": 1662294747,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1711941,
-      "num": 1711941,
-      "word": "特朗普可能已卖掉白宫机密文件",
-      "onboard_time": 1662353130,
-      "rank": 43,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1401124,
@@ -179,6 +179,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 963241,
+      "num": 963241,
+      "word": "秋瓷炫新剧开播就下线",
+      "onboard_time": 1662355248,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 949347,
       "num": 949347,
       "word": "Light哭了",
@@ -259,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 719301,
+      "num": 719301,
+      "word": "大连一社区抗原检测阳性奖励2000元",
+      "onboard_time": 1662354351,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 711410,
       "num": 711410,
       "word": "微信输入法要占内存524MB",
@@ -281,14 +297,6 @@
       "onboard_time": 1662340225,
       "rank": 9,
       "category": "科技"
-    },
-    {
-      "raw_hot": 700877,
-      "num": 700877,
-      "word": "秋瓷炫新剧开播就下线",
-      "onboard_time": 1662355248,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 695382,
@@ -331,6 +339,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 685270,
+      "num": 685270,
+      "word": "王鹤棣尼龙自成一格大片",
+      "onboard_time": 1662358294,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 657785,
       "num": 657785,
       "word": "女子在永辉超市买2斤猪肉花103元",
@@ -355,20 +371,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 643472,
-      "num": 643472,
-      "word": "大连一社区抗原检测阳性奖励2000元",
-      "onboard_time": 1662354351,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 598120,
       "num": 598120,
       "word": "王菲王家卫新片预告",
       "onboard_time": 1662343465,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 579619,
+      "num": 579619,
+      "word": "直击泸定地震救援",
+      "onboard_time": 1662356918,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 570043,
@@ -467,11 +483,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 442257,
-      "num": 442257,
-      "word": "直击泸定地震救援",
-      "onboard_time": 1662356918,
-      "rank": 21,
+      "raw_hot": 444448,
+      "num": 444448,
+      "word": "郑州震感",
+      "onboard_time": 1662357994,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -507,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 409629,
+      "num": 409629,
+      "word": "女生宿舍辣酱爆炸似案发现场",
+      "onboard_time": 1662357873,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 401387,
       "num": 401387,
       "word": "西安地铁",
@@ -521,6 +545,22 @@
       "onboard_time": 1662345685,
       "rank": 12,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 394042,
+      "num": 394042,
+      "word": "泸定地震震中在海螺沟",
+      "onboard_time": 1662358772,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 393985,
+      "num": 393985,
+      "word": "四川居民提前收到地震预警",
+      "onboard_time": 1662357636,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 392260,
@@ -835,12 +875,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 245788,
-      "num": 245788,
-      "word": "四川居民提前收到地震预警",
-      "onboard_time": 1662357636,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 249729,
+      "num": 249729,
+      "word": "比亚迪",
+      "onboard_time": 1662358595,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 244143,
@@ -881,6 +921,14 @@
       "onboard_time": 1662284364,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242346,
+      "num": 242346,
+      "word": "第一视角下的小狗有多可爱",
+      "onboard_time": 1662357514,
+      "rank": 41,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 240119,
@@ -1059,20 +1107,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 187401,
-      "num": 187401,
-      "word": "第一视角下的小狗有多可爱",
-      "onboard_time": 1662357514,
-      "rank": 41,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 186448,
       "num": 186448,
       "word": "一个更容易打到蚊子的方法",
       "onboard_time": 1662324431,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 184137,
+      "num": 171295,
+      "word": "四川地震多地震感强烈",
+      "onboard_time": 1662359251,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184043,
@@ -1137,6 +1185,14 @@
       "onboard_time": 1662347187,
       "rank": 37,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 169838,
+      "num": 169838,
+      "word": "泸定地震最新消息汇总",
+      "onboard_time": 1662357994,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168471,
@@ -1447,6 +1503,9 @@
     },
     {
       "word": "#共同构建和平安全开放合作有序的网络空间#"
+    },
+    {
+      "word": "#2022年国家网络安全宣传周#"
     }
   ]
 }
