@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662413838852,
+  "endTime": 1662416580423,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -8099,6 +8099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 245365,
+      "num": 245365,
+      "word": "网传王一博国庆档三部电影同时上映",
+      "onboard_time": 1662415212,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 244824,
       "num": 244824,
       "word": "无畏晒黑了",
@@ -10331,6 +10339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 147077,
+      "num": 128398,
+      "word": "郑州震感来源于此次四川地震",
+      "onboard_time": 1662411131,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146848,
       "num": 146848,
       "word": "LV回应乒乓球拍售价1.8万",
@@ -11403,6 +11419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49329,
+      "num": 49329,
+      "word": "成都世乒赛国乒无直板参赛",
+      "onboard_time": 1662409151,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 47444,
       "num": 2813227,
       "word": "2022服贸会观展指北",
@@ -11425,14 +11449,6 @@
       "onboard_time": 1662228194,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 42640,
-      "num": 42640,
-      "word": "郑州震感来源于此次四川地震",
-      "onboard_time": 1662411131,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 40941,
@@ -11459,12 +11475,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 32727,
-      "num": 32727,
-      "word": "成都世乒赛国乒无直板参赛",
-      "onboard_time": 1662409151,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 30503,
+      "num": 30503,
+      "word": "这只猫怎么还会外语",
+      "onboard_time": 1662411971,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 27800,
@@ -11537,14 +11553,6 @@
       "onboard_time": 1662413110,
       "rank": 33,
       "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 15033,
-      "num": 15033,
-      "word": "这只猫怎么还会外语",
-      "onboard_time": 1662411971,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 14785,

@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662413838852,
+  "endTime": 1662416580423,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -1771,6 +1771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 245365,
+      "num": 245365,
+      "word": "网传王一博国庆档三部电影同时上映",
+      "onboard_time": 1662415212,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 244143,
       "num": 244143,
       "word": "原来瀑布还可以这么拍",
@@ -2355,6 +2363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147077,
+      "num": 128398,
+      "word": "郑州震感来源于此次四川地震",
+      "onboard_time": 1662411131,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145199,
       "num": 145199,
       "word": "LPL选手",
@@ -2659,20 +2675,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49329,
+      "num": 49329,
+      "word": "成都世乒赛国乒无直板参赛",
+      "onboard_time": 1662409151,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 47232,
       "num": 47232,
       "word": "新疆盐湖美如天空之镜",
       "onboard_time": 1662332658,
       "rank": 48,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 42640,
-      "num": 42640,
-      "word": "郑州震感来源于此次四川地震",
-      "onboard_time": 1662411131,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 39686,
@@ -2683,12 +2699,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32727,
-      "num": 32727,
-      "word": "成都世乒赛国乒无直板参赛",
-      "onboard_time": 1662409151,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 30503,
+      "num": 30503,
+      "word": "这只猫怎么还会外语",
+      "onboard_time": 1662411971,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 26395,
@@ -2729,14 +2745,6 @@
       "onboard_time": 1662413110,
       "rank": 33,
       "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 15033,
-      "num": 15033,
-      "word": "这只猫怎么还会外语",
-      "onboard_time": 1662411971,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 11564,
