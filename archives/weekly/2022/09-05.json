@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662399788922,
+  "endTime": 1662402534027,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -1713,6 +1713,14 @@
       "onboard_time": 1662319872,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 265038,
+      "num": 265038,
+      "word": "泸定地震愿平安",
+      "onboard_time": 1662402252,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 263024,

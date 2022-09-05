@@ -1,6 +1,6 @@
 {
   "startTime": 1662395471045,
-  "endTime": 1662399788922,
+  "endTime": 1662402534027,
   "band_list": [
     {
       "raw_hot": 2547294,
@@ -107,8 +107,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 287816,
-      "num": 287816,
+      "raw_hot": 296470,
+      "num": 296470,
       "word": "四川1小时内连发7次地震",
       "onboard_time": 1662365728,
       "rank": 14,
@@ -129,6 +129,14 @@
       "onboard_time": 1662382350,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 265038,
+      "num": 265038,
+      "word": "泸定地震愿平安",
+      "onboard_time": 1662402252,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 262128,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/06 00:31:11 ~ 2022/09/06 01:43:08
+本榜单时间：2022/09/06 00:31:11 ~ 2022/09/06 02:28:54
 </p>
 </blockquote>
 <p>
@@ -94,7 +94,7 @@ QQ推出QQ学生卡（热度：614502）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D1%E5%B0%8F%E6%97%B6%E5%86%85%E8%BF%9E%E5%8F%917%E6%AC%A1%E5%9C%B0%E9%9C%87%23" target="weibo">
-四川1小时内连发7次地震（热度：287816）
+四川1小时内连发7次地震（热度：296470）
 </a>
 </li>
 
@@ -107,6 +107,12 @@ QQ推出QQ学生卡（热度：614502）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC31%E5%B1%8A%E9%87%91%E9%B9%B0%E5%A5%96%E9%A6%96%E8%BD%AE%E7%BB%93%E6%9E%9C%E5%8F%91%E5%B8%83%23" target="weibo">
 第31届金鹰奖首轮结果发布（热度：285243）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%B8%E5%AE%9A%E5%9C%B0%E9%9C%87%E6%84%BF%E5%B9%B3%E5%AE%89%23" target="weibo">
+泸定地震愿平安（热度：265038）
 </a>
 </li>
 
