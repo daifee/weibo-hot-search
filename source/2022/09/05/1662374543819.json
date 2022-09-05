@@ -1,0 +1,410 @@
+{
+  "runTime": 1662374543819,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2620546,
+        "num": 2620546,
+        "word": "张若昀唐艺昕方希望不再传播相关图片",
+        "onboard_time": 1662372688,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2006676,
+        "num": 2006676,
+        "word": "泸定地震7人遇难",
+        "onboard_time": 1662364830,
+        "rank": 1,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 469736,
+        "num": 1893632,
+        "word": "泸定地震最新消息汇总",
+        "onboard_time": 1662357994,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1799285,
+        "num": 1799285,
+        "word": "美方长期对中国手机用户无差别监听",
+        "onboard_time": 1662369748,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1150614,
+        "num": 1150614,
+        "word": "四川1小时内连发7次地震",
+        "onboard_time": 1662365728,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 803611,
+        "num": 803611,
+        "word": "外交部新任发言人毛宁亮相",
+        "onboard_time": 1662365008,
+        "rank": 5,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 798870,
+        "num": 798870,
+        "word": "特朗普可能已卖掉白宫机密文件",
+        "onboard_time": 1662353130,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 760456,
+        "num": 760456,
+        "word": "黄之锋等5人认罪",
+        "onboard_time": 1662369448,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 682213,
+        "num": 682213,
+        "word": "8800元网购的猫不到一周就离世",
+        "onboard_time": 1662364229,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 648751,
+        "num": 648751,
+        "word": "地震致石棉县13人遇难",
+        "onboard_time": 1662373409,
+        "rank": 9,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 618628,
+        "num": 618628,
+        "word": "宋雨琦的镂空裤子",
+        "onboard_time": 1662371729,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 575863,
+        "num": 575863,
+        "word": "小猫的腿都吓软了",
+        "onboard_time": 1662371248,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 526485,
+        "num": 526485,
+        "word": "BLACKPINK新歌未通过KBS审议",
+        "onboard_time": 1662367170,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 501813,
+        "num": 501813,
+        "word": "错撩小说作者关注白鹿",
+        "onboard_time": 1662366810,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 49895,
+        "num": 492976,
+        "word": "救火英雄驰援泸定",
+        "onboard_time": 1662372028,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489443,
+        "num": 489443,
+        "word": "青岛即墨发现2例感染者",
+        "onboard_time": 1662370347,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475831,
+        "num": 475831,
+        "word": "苏醒说两周内要做出两首歌",
+        "onboard_time": 1662372449,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 474279,
+        "num": 474279,
+        "word": "地震瞬间熊猫妈妈携幼崽室外避险",
+        "onboard_time": 1662364947,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462807,
+        "num": 462807,
+        "word": "苹果汽车受欢迎度超特斯拉",
+        "onboard_time": 1662371248,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 456593,
+        "num": 456593,
+        "word": "湘雅二院取消两主任医生医疗资质",
+        "onboard_time": 1662373170,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449308,
+        "num": 449308,
+        "word": "市民住35楼称地震时像坐大摆锤",
+        "onboard_time": 1662372208,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388988,
+        "num": 388988,
+        "word": "贺峻霖墨绿色西装造型",
+        "onboard_time": 1662373591,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 387194,
+        "num": 387194,
+        "word": "中方要求美方立即停止不法行为",
+        "onboard_time": 1662372508,
+        "rank": 22,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 362203,
+        "num": 362203,
+        "word": "泸定县城震后画面",
+        "onboard_time": 1662360032,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355754,
+        "num": 355754,
+        "word": "王一博冰雨火制服剧照",
+        "onboard_time": 1662374428,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 339149,
+        "num": 339149,
+        "word": "庆怜官宣签约王嘉尔公司",
+        "onboard_time": 1662363868,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293786,
+        "num": 293786,
+        "word": "四川疫情防控",
+        "onboard_time": 1662374372,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281018,
+        "num": 281018,
+        "word": "大学生未来结婚意愿高于预期",
+        "onboard_time": 1662340706,
+        "rank": 27,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 280447,
+        "num": 280447,
+        "word": "石家庄疫情防控",
+        "onboard_time": 1662371008,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268929,
+        "num": 268929,
+        "word": "地震致石棉县14人遇难",
+        "onboard_time": 1662374252,
+        "rank": 29,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 265907,
+        "num": 265907,
+        "word": "六版道明寺",
+        "onboard_time": 1662365668,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241681,
+        "num": 241681,
+        "word": "印度旋转塔从高空直线坠落",
+        "onboard_time": 1662371430,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239435,
+        "num": 239435,
+        "word": "秋瓷炫新剧开播就下线",
+        "onboard_time": 1662355248,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236947,
+        "num": 236947,
+        "word": "四川速度",
+        "onboard_time": 1662371490,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215300,
+        "num": 215300,
+        "word": "江西新增4例确诊72例无症状",
+        "onboard_time": 1662368429,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211290,
+        "num": 211290,
+        "word": "青年大学习",
+        "onboard_time": 1662369989,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 201777,
+        "num": 201777,
+        "word": "官方辟谣地震男子高楼跳伞逃生",
+        "onboard_time": 1662372149,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201085,
+        "num": 201085,
+        "word": "为什么自己和父母的缺点越来越像",
+        "onboard_time": 1662359132,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184316,
+        "num": 184316,
+        "word": "林书豪官宣加盟广州男篮",
+        "onboard_time": 1662364589,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182101,
+        "num": 182101,
+        "word": "女生宿舍辣酱爆炸似案发现场",
+        "onboard_time": 1662357873,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180600,
+        "num": 180600,
+        "word": "当狗狗偷偷学会了站立",
+        "onboard_time": 1662373832,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170520,
+        "num": 170520,
+        "word": "外交部回应西工大遭网络攻击事件",
+        "onboard_time": 1662365249,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167151,
+        "num": 167151,
+        "word": "四川海螺沟景区附近商户发声",
+        "onboard_time": 1662365430,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167073,
+        "num": 167073,
+        "word": "四川多家医院前往泸定救援",
+        "onboard_time": 1662369327,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164891,
+        "num": 164891,
+        "word": "陈晓说中二帮自己走出难关",
+        "onboard_time": 1662368788,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157653,
+        "num": 157653,
+        "word": "泸定地震现场",
+        "onboard_time": 1662374428,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154409,
+        "num": 154409,
+        "word": "如何对待喊男友哥哥的女生",
+        "onboard_time": 1662363689,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153896,
+        "num": 153896,
+        "word": "官方回应群猴窜入小区觅食",
+        "onboard_time": 1662369928,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152150,
+        "num": 152150,
+        "word": "真电驴",
+        "onboard_time": 1662374310,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146403,
+        "num": 146403,
+        "word": "坐氢气球飘走工人已找到",
+        "onboard_time": 1662350129,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#网络安全为人民网络安全靠人民#"
+    }
+  }
+}

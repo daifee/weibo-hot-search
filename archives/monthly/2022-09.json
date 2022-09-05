@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662373496444,
+  "endTime": 1662374543819,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -241,6 +241,14 @@
       "onboard_time": 1662297934,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 2620546,
+      "num": 2620546,
+      "word": "张若昀唐艺昕方希望不再传播相关图片",
+      "onboard_time": 1662372688,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 2609708,
@@ -616,14 +624,6 @@
       "word": "庆怜官宣签约王嘉尔公司",
       "onboard_time": 1662363868,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1721835,
-      "num": 1721835,
-      "word": "张若昀唐艺昕方希望不再传播相关图片",
-      "onboard_time": 1662372688,
-      "rank": 3,
       "category": "艺人"
     },
     {
@@ -2395,6 +2395,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 760456,
+      "num": 760456,
+      "word": "黄之锋等5人认罪",
+      "onboard_time": 1662369448,
+      "rank": 39,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 760302,
       "num": 760302,
       "word": "阳澄湖大闸蟹再努力也将缺席中秋",
@@ -2425,14 +2433,6 @@
       "onboard_time": 1662262043,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 744755,
-      "num": 744755,
-      "word": "黄之锋等5人认罪",
-      "onboard_time": 1662369448,
-      "rank": 39,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 737107,
@@ -2835,6 +2835,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 648751,
+      "num": 648751,
+      "word": "地震致石棉县13人遇难",
+      "onboard_time": 1662373409,
+      "rank": 30,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 648354,
       "num": 648354,
       "word": "fX组合出道十三周年",
@@ -3147,6 +3155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 575863,
+      "num": 575863,
+      "word": "小猫的腿都吓软了",
+      "onboard_time": 1662371248,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 575499,
       "num": 575499,
       "word": "减肥狗子出走狂炫10根火腿肠",
@@ -3417,14 +3433,6 @@
       "onboard_time": 1662210209,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 541000,
-      "num": 541000,
-      "word": "小猫的腿都吓软了",
-      "onboard_time": 1662371248,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 540949,
@@ -3971,6 +3979,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 469736,
+      "num": 1926357,
+      "word": "泸定地震最新消息汇总",
+      "onboard_time": 1662357994,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 468831,
       "num": 468831,
       "word": "何润东又拿了步惊云的剧本",
@@ -4065,6 +4081,14 @@
       "onboard_time": 1662007472,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 456593,
+      "num": 456593,
+      "word": "湘雅二院取消两主任医生医疗资质",
+      "onboard_time": 1662373170,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 455246,
@@ -4169,6 +4193,14 @@
       "onboard_time": 1662209549,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 449308,
+      "num": 449308,
+      "word": "市民住35楼称地震时像坐大摆锤",
+      "onboard_time": 1662372208,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 449105,
@@ -4345,14 +4377,6 @@
       "onboard_time": 1662002908,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 432645,
-      "num": 1926357,
-      "word": "泸定地震最新消息汇总",
-      "onboard_time": 1662357994,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 430280,
@@ -4867,6 +4891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 388988,
+      "num": 388988,
+      "word": "贺峻霖墨绿色西装造型",
+      "onboard_time": 1662373591,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 388566,
       "num": 369820,
       "word": "今晚就做玄夜的帝后",
@@ -4897,6 +4929,14 @@
       "onboard_time": 1662283228,
       "rank": 49,
       "category": "社会正能量,军事"
+    },
+    {
+      "raw_hot": 387194,
+      "num": 387194,
+      "word": "中方要求美方立即停止不法行为",
+      "onboard_time": 1662372508,
+      "rank": 43,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 386194,
@@ -5329,6 +5369,14 @@
       "onboard_time": 1662211109,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 355754,
+      "num": 355754,
+      "word": "王一博冰雨火制服剧照",
+      "onboard_time": 1662374428,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 355657,
@@ -6475,6 +6523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 293786,
+      "num": 293786,
+      "word": "四川疫情防控",
+      "onboard_time": 1662374372,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293561,
       "num": 293561,
       "word": "顾客吐槽海底捞光锅底料碗就上百元",
@@ -6697,14 +6753,6 @@
       "onboard_time": 1661965578,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 285199,
-      "num": 285199,
-      "word": "市民住35楼称地震时像坐大摆锤",
-      "onboard_time": 1662372208,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 284877,
@@ -7171,6 +7219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 268929,
+      "num": 268929,
+      "word": "地震致石棉县14人遇难",
+      "onboard_time": 1662374252,
+      "rank": 29,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 268222,
       "num": 268222,
       "word": "KPL夏决我来聊",
@@ -7345,14 +7401,6 @@
       "onboard_time": 1662362788,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 259236,
-      "num": 259236,
-      "word": "湘雅二院取消两主任医生医疗资质",
-      "onboard_time": 1662373170,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 258834,
@@ -7683,6 +7731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241681,
+      "num": 241681,
+      "word": "印度旋转塔从高空直线坠落",
+      "onboard_time": 1662371430,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241486,
       "num": 241486,
       "word": "V5对战LNG",
@@ -7889,14 +7945,6 @@
       "onboard_time": 1662106829,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 230311,
-      "num": 230311,
-      "word": "地震致石棉县13人遇难",
-      "onboard_time": 1662373409,
-      "rank": 30,
-      "category": "社会负面"
     },
     {
       "raw_hot": 230049,
@@ -8403,14 +8451,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 209353,
-      "num": 209353,
-      "word": "印度旋转塔从高空直线坠落",
-      "onboard_time": 1662371430,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 209254,
       "num": 209254,
       "word": "宋亚轩吃瓜演我",
@@ -8561,6 +8601,14 @@
       "onboard_time": 1662220111,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 201777,
+      "num": 201777,
+      "word": "官方辟谣地震男子高楼跳伞逃生",
+      "onboard_time": 1662372149,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201638,
@@ -8753,14 +8801,6 @@
       "onboard_time": 1662178224,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 192392,
-      "num": 192392,
-      "word": "官方辟谣地震男子高楼跳伞逃生",
-      "onboard_time": 1662372149,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 192356,
@@ -9107,6 +9147,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 180600,
+      "num": 180600,
+      "word": "当狗狗偷偷学会了站立",
+      "onboard_time": 1662373832,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 179667,
       "num": 179667,
       "word": "后羿与三星堆有什么关系",
@@ -9185,14 +9233,6 @@
       "onboard_time": 1662045450,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 173465,
-      "num": 173465,
-      "word": "中方要求美方立即停止不法行为",
-      "onboard_time": 1662372508,
-      "rank": 43,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 173412,
@@ -9523,6 +9563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157653,
+      "num": 157653,
+      "word": "泸定地震现场",
+      "onboard_time": 1662374428,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157502,
       "num": 157502,
       "word": "广州地铁全线网所有车站恢复正常运营",
@@ -9657,6 +9705,14 @@
       "onboard_time": 1662095727,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 152150,
+      "num": 152150,
+      "word": "真电驴",
+      "onboard_time": 1662374310,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 152136,
@@ -10739,6 +10795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49895,
+      "num": 543184,
+      "word": "救火英雄驰援泸定",
+      "onboard_time": 1662372028,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47444,
       "num": 2813227,
       "word": "2022服贸会观展指北",
@@ -10785,14 +10849,6 @@
       "onboard_time": 1662207089,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 38223,
-      "num": 543184,
-      "word": "救火英雄驰援泸定",
-      "onboard_time": 1662372028,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27800,
