@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662367457392,
+  "endTime": 1662369790103,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2650424,
+      "num": 2650424,
+      "word": "外交部新任发言人毛宁亮相",
+      "onboard_time": 1662365008,
+      "rank": 6,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 2629328,
       "num": 2629328,
       "word": "沉香重华be",
@@ -393,14 +401,6 @@
       "onboard_time": 1662124170,
       "rank": 0,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 2080960,
-      "num": 2080960,
-      "word": "外交部新任发言人毛宁亮相",
-      "onboard_time": 1662365008,
-      "rank": 6,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 2075737,
@@ -1027,6 +1027,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 1347091,
+      "num": 1347091,
+      "word": "四川1小时内连发7次地震",
+      "onboard_time": 1662365728,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1346428,
       "num": 1346428,
       "word": "江西抚州发生命案已致一人死亡",
@@ -1315,6 +1323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1134105,
+      "num": 1134105,
+      "word": "错撩小说作者关注白鹿",
+      "onboard_time": 1662366810,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1132921,
       "num": 1132921,
       "word": "4500岁的打工人如何挣到1万个亿",
@@ -1433,14 +1449,6 @@
       "onboard_time": 1662183145,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1060608,
-      "num": 1060608,
-      "word": "错撩小说作者关注白鹿",
-      "onboard_time": 1662366810,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 1054796,
@@ -1579,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 999636,
+      "num": 999636,
+      "word": "BLACKPINK新歌未通过KBS审议",
+      "onboard_time": 1662367170,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 992497,
       "num": 491006,
       "word": "男子深夜持刀狂砍邻居家门3分钟",
@@ -1713,6 +1729,14 @@
       "onboard_time": 1662303571,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 950942,
+      "num": 950942,
+      "word": "地震瞬间熊猫妈妈携幼崽室外避险",
+      "onboard_time": 1662364947,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 949347,
@@ -2523,14 +2547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 704085,
-      "num": 704085,
-      "word": "四川1小时内连发7次地震",
-      "onboard_time": 1662365728,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 703351,
       "num": 703351,
       "word": "24名工科专业女生23个被分到一个班",
@@ -2624,14 +2640,6 @@
       "word": "女子和男友吵架吃60粒褪黑素进ICU",
       "onboard_time": 1662289107,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 689777,
-      "num": 689777,
-      "word": "地震瞬间熊猫妈妈携幼崽室外避险",
-      "onboard_time": 1662364947,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -3025,6 +3033,14 @@
       "onboard_time": 1662180267,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 594483,
+      "num": 594483,
+      "word": "侦侦日上向张若昀唐艺昕道歉",
+      "onboard_time": 1662368012,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 594172,
@@ -3867,14 +3883,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 472846,
-      "num": 472846,
-      "word": "BLACKPINK新歌未通过KBS审议",
-      "onboard_time": 1662367170,
-      "rank": 17,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 471198,
       "num": 471198,
       "word": "偷菜也可以做成一门生意",
@@ -3985,6 +3993,14 @@
       "onboard_time": 1662007472,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 457898,
+      "num": 457898,
+      "word": "外交部回应西工大遭网络攻击事件",
+      "onboard_time": 1662365249,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 455246,
@@ -4267,6 +4283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 432645,
+      "num": 1926357,
+      "word": "泸定地震最新消息汇总",
+      "onboard_time": 1662357994,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 430280,
       "num": 430280,
       "word": "马嘉祺我们的歌",
@@ -4281,6 +4305,14 @@
       "onboard_time": 1662347908,
       "rank": 30,
       "category": "科技"
+    },
+    {
+      "raw_hot": 429917,
+      "num": 429917,
+      "word": "四川海螺沟景区附近商户发声",
+      "onboard_time": 1662365430,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 427745,
@@ -5177,14 +5209,6 @@
       "onboard_time": 1661959112,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 359693,
-      "num": 359693,
-      "word": "四川海螺沟景区附近商户发声",
-      "onboard_time": 1662365430,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 359661,
@@ -6995,6 +7019,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 270741,
+      "num": 270741,
+      "word": "四川多家医院前往泸定救援",
+      "onboard_time": 1662369327,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 270717,
       "num": 270717,
       "word": "刘彦平被双开",
@@ -7161,6 +7193,14 @@
       "onboard_time": 1662275666,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 263750,
+      "num": 263750,
+      "word": "江西新增4例确诊72例无症状",
+      "onboard_time": 1662368429,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 262802,
@@ -7473,6 +7513,14 @@
       "onboard_time": 1662127589,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245563,
+      "num": 245563,
+      "word": "陈晓说中二帮自己走出难关",
+      "onboard_time": 1662368788,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 245491,
@@ -8139,6 +8187,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 212068,
+      "num": 212068,
+      "word": "泸定原震区发生更大地震可能性不大",
+      "onboard_time": 1662368368,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211966,
       "num": 211966,
       "word": "一个人在外打拼有多难",
@@ -8443,6 +8499,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 200282,
+      "num": 200282,
+      "word": "四川男孩教科书式带领弟弟避震",
+      "onboard_time": 1662368968,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200014,
       "num": 200014,
       "word": "狼星总决赛应援有多卷",
@@ -8699,6 +8763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 187186,
+      "num": 139927,
+      "word": "美方长期对中国手机用户无差别监听",
+      "onboard_time": 1662369748,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186614,
       "num": 186614,
       "word": "济南新增感染者详情",
@@ -8875,14 +8947,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 181400,
-      "num": 181400,
-      "word": "外交部回应西工大遭网络攻击事件",
-      "onboard_time": 1662365249,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181346,
       "num": 181346,
       "word": "怎么当了老师还逃不过社死",
@@ -8913,6 +8977,14 @@
       "onboard_time": 1662110547,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 181008,
+      "num": 181008,
+      "word": "黄之锋等5人认罪",
+      "onboard_time": 1662369448,
+      "rank": 39,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 179667,
@@ -9049,14 +9121,6 @@
       "onboard_time": 1662108807,
       "rank": 38,
       "category": "艺人,美食"
-    },
-    {
-      "raw_hot": 169838,
-      "num": 1926357,
-      "word": "泸定地震最新消息汇总",
-      "onboard_time": 1662357994,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 169609,
@@ -9673,6 +9737,14 @@
       "onboard_time": 1662173665,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138990,
+      "num": 138990,
+      "word": "四川泸定地震当地房屋受损",
+      "onboard_time": 1662369508,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138875,
@@ -10529,6 +10601,14 @@
       "onboard_time": 1662228194,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 43937,
+      "num": 511599,
+      "word": "出发救援泸定我可以",
+      "onboard_time": 1662368429,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40941,

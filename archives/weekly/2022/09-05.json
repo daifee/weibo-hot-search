@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662367457392,
+  "endTime": 1662369790103,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -67,20 +67,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2650424,
+      "num": 2650424,
+      "word": "外交部新任发言人毛宁亮相",
+      "onboard_time": 1662365008,
+      "rank": 6,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 2190098,
       "num": 2190098,
       "word": "四川绵竹上空疑现大量蝙蝠群",
       "onboard_time": 1662355604,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2080960,
-      "num": 2080960,
-      "word": "外交部新任发言人毛宁亮相",
-      "onboard_time": 1662365008,
-      "rank": 6,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 1941222,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1347091,
+      "num": 1347091,
+      "word": "四川1小时内连发7次地震",
+      "onboard_time": 1662365728,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1328167,
       "num": 719566,
       "word": "iPhone14预售价现身",
@@ -187,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1134105,
+      "num": 1134105,
+      "word": "错撩小说作者关注白鹿",
+      "onboard_time": 1662366810,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1123731,
       "num": 717635,
       "word": "众星为四川成都祈福",
@@ -209,14 +225,6 @@
       "onboard_time": 1662347966,
       "rank": 5,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 1060608,
-      "num": 1060608,
-      "word": "错撩小说作者关注白鹿",
-      "onboard_time": 1662366810,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 1054503,
@@ -251,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 999636,
+      "num": 999636,
+      "word": "BLACKPINK新歌未通过KBS审议",
+      "onboard_time": 1662367170,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 992497,
       "num": 491006,
       "word": "男子深夜持刀狂砍邻居家门3分钟",
@@ -264,6 +280,14 @@
       "word": "大连一社区抗原检测阳性奖励2000元",
       "onboard_time": 1662354351,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 950942,
+      "num": 950942,
+      "word": "地震瞬间熊猫妈妈携幼崽室外避险",
+      "onboard_time": 1662364947,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -379,14 +403,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 704085,
-      "num": 704085,
-      "word": "四川1小时内连发7次地震",
-      "onboard_time": 1662365728,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 695382,
       "num": 695382,
       "word": "浙江一干部落马前沉迷当榜一大哥",
@@ -401,14 +417,6 @@
       "onboard_time": 1662326771,
       "rank": 42,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 689777,
-      "num": 689777,
-      "word": "地震瞬间熊猫妈妈携幼崽室外避险",
-      "onboard_time": 1662364947,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 688548,
@@ -481,6 +489,14 @@
       "onboard_time": 1662343465,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 594483,
+      "num": 594483,
+      "word": "侦侦日上向张若昀唐艺昕道歉",
+      "onboard_time": 1662368012,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 579619,
@@ -571,14 +587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 472846,
-      "num": 472846,
-      "word": "BLACKPINK新歌未通过KBS审议",
-      "onboard_time": 1662367170,
-      "rank": 17,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 471198,
       "num": 471198,
       "word": "偷菜也可以做成一门生意",
@@ -601,6 +609,14 @@
       "onboard_time": 1662301957,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 457898,
+      "num": 457898,
+      "word": "外交部回应西工大遭网络攻击事件",
+      "onboard_time": 1662365249,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 450624,
@@ -643,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 432645,
+      "num": 1926357,
+      "word": "泸定地震最新消息汇总",
+      "onboard_time": 1662357994,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 430280,
       "num": 430280,
       "word": "马嘉祺我们的歌",
@@ -657,6 +681,14 @@
       "onboard_time": 1662347908,
       "rank": 30,
       "category": "科技"
+    },
+    {
+      "raw_hot": 429917,
+      "num": 429917,
+      "word": "四川海螺沟景区附近商户发声",
+      "onboard_time": 1662365430,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 420047,
@@ -760,14 +792,6 @@
       "word": "00后毕业养猪因不想内耗",
       "onboard_time": 1662360271,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 359693,
-      "num": 359693,
-      "word": "四川海螺沟景区附近商户发声",
-      "onboard_time": 1662365430,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -1091,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 270741,
+      "num": 270741,
+      "word": "四川多家医院前往泸定救援",
+      "onboard_time": 1662369327,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 270408,
       "num": 270408,
       "word": "新学期要读的第一本书",
@@ -1115,6 +1147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 263750,
+      "num": 263750,
+      "word": "江西新增4例确诊72例无症状",
+      "onboard_time": 1662368429,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263024,
       "num": 263024,
       "word": "那英撒贝宁50分钟做了3桌菜",
@@ -1137,6 +1177,14 @@
       "onboard_time": 1662362788,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 245563,
+      "num": 245563,
+      "word": "陈晓说中二帮自己走出难关",
+      "onboard_time": 1662368788,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 245491,
@@ -1299,6 +1347,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 212068,
+      "num": 212068,
+      "word": "泸定原震区发生更大地震可能性不大",
+      "onboard_time": 1662368368,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210318,
       "num": 210318,
       "word": "这次的秋老虎是干热型",
@@ -1345,6 +1401,14 @@
       "onboard_time": 1662351150,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 200282,
+      "num": 200282,
+      "word": "四川男孩教科书式带领弟弟避震",
+      "onboard_time": 1662368968,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199771,
@@ -1395,6 +1459,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 187186,
+      "num": 139927,
+      "word": "美方长期对中国手机用户无差别监听",
+      "onboard_time": 1662369748,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186448,
       "num": 186448,
       "word": "一个更容易打到蚊子的方法",
@@ -1443,12 +1515,12 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 181400,
-      "num": 181400,
-      "word": "外交部回应西工大遭网络攻击事件",
-      "onboard_time": 1662365249,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 181008,
+      "num": 181008,
+      "word": "黄之锋等5人认罪",
+      "onboard_time": 1662369448,
+      "rank": 39,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 180105,
@@ -1489,14 +1561,6 @@
       "onboard_time": 1662347187,
       "rank": 37,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 169838,
-      "num": 1926357,
-      "word": "泸定地震最新消息汇总",
-      "onboard_time": 1662357994,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168471,
@@ -1585,6 +1649,14 @@
       "onboard_time": 1662335184,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 138990,
+      "num": 138990,
+      "word": "四川泸定地震当地房屋受损",
+      "onboard_time": 1662369508,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138875,
@@ -1769,6 +1841,14 @@
       "onboard_time": 1662332658,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 43937,
+      "num": 511599,
+      "word": "出发救援泸定我可以",
+      "onboard_time": 1662368429,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39686,
