@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662359276949,
+  "endTime": 1662361576399,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -59,8 +59,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2130387,
-      "num": 2130387,
+      "raw_hot": 2190098,
+      "num": 2190098,
       "word": "四川绵竹上空疑现大量蝙蝠群",
       "onboard_time": 1662355604,
       "rank": 6,
@@ -113,6 +113,14 @@
       "onboard_time": 1662352290,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1233195,
+      "num": 1233195,
+      "word": "秋瓷炫新剧开播就下线",
+      "onboard_time": 1662355248,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 1174969,
@@ -171,6 +179,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1021932,
+      "num": 1021932,
+      "word": "女生宿舍辣酱爆炸似案发现场",
+      "onboard_time": 1662357873,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1019111,
+      "num": 1019111,
+      "word": "泸定地震震中在海螺沟",
+      "onboard_time": 1662358772,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 992497,
       "num": 491006,
       "word": "男子深夜持刀狂砍邻居家门3分钟",
@@ -179,12 +203,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 963241,
-      "num": 963241,
-      "word": "秋瓷炫新剧开播就下线",
-      "onboard_time": 1662355248,
-      "rank": 14,
-      "category": "影视"
+      "raw_hot": 988062,
+      "num": 988062,
+      "word": "大连一社区抗原检测阳性奖励2000元",
+      "onboard_time": 1662354351,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 949347,
@@ -264,14 +288,6 @@
       "word": "警方回应工人坐氢气球飘走",
       "onboard_time": 1662347604,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 719301,
-      "num": 719301,
-      "word": "大连一社区抗原检测阳性奖励2000元",
-      "onboard_time": 1662354351,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -475,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 447945,
+      "num": 447945,
+      "word": "四川居民提前收到地震预警",
+      "onboard_time": 1662357636,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 445532,
       "num": 445532,
       "word": "地震预警",
@@ -523,19 +547,27 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 409629,
-      "num": 409629,
-      "word": "女生宿舍辣酱爆炸似案发现场",
-      "onboard_time": 1662357873,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 401387,
       "num": 401387,
       "word": "西安地铁",
       "onboard_time": 1662340166,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 400808,
+      "num": 400808,
+      "word": "比亚迪",
+      "onboard_time": 1662358595,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 398226,
+      "num": 398226,
+      "word": "网友家中的火锅告诉你成都震感有多凶",
+      "onboard_time": 1662359791,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -545,22 +577,6 @@
       "onboard_time": 1662345685,
       "rank": 12,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 394042,
-      "num": 394042,
-      "word": "泸定地震震中在海螺沟",
-      "onboard_time": 1662358772,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 393985,
-      "num": 393985,
-      "word": "四川居民提前收到地震预警",
-      "onboard_time": 1662357636,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 392260,
@@ -609,6 +625,14 @@
       "onboard_time": 1662337888,
       "rank": 16,
       "category": "科技"
+    },
+    {
+      "raw_hot": 368251,
+      "num": 368251,
+      "word": "为什么自己和父母的缺点越来越像",
+      "onboard_time": 1662359132,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 357589,
@@ -667,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 336220,
+      "num": 336220,
+      "word": "泸定县城震后画面",
+      "onboard_time": 1662360032,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332984,
       "num": 305173,
       "word": "金莎演的太平公主",
@@ -691,6 +723,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 323424,
+      "num": 323424,
+      "word": "7成网民失去用眼自由",
+      "onboard_time": 1662359973,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319704,
       "num": 319704,
       "word": "国内油价五连跌或终结",
@@ -705,6 +745,22 @@
       "onboard_time": 1662302674,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 313921,
+      "num": 313921,
+      "word": "浪姐团综乐队的海边路透",
+      "onboard_time": 1662360570,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 313669,
+      "num": 313669,
+      "word": "00后毕业养猪因不想内耗",
+      "onboard_time": 1662360271,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 305774,
@@ -769,6 +825,14 @@
       "onboard_time": 1662356022,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286726,
+      "num": 286726,
+      "word": "T1官宣Bengi暂代主教练",
+      "onboard_time": 1662360631,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 286374,
@@ -873,14 +937,6 @@
       "onboard_time": 1662351692,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 249729,
-      "num": 249729,
-      "word": "比亚迪",
-      "onboard_time": 1662358595,
-      "rank": 35,
-      "category": "财经"
     },
     {
       "raw_hot": 244143,
@@ -1009,6 +1065,14 @@
       "onboard_time": 1662306090,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 221449,
+      "num": 221449,
+      "word": "基金",
+      "onboard_time": 1662361289,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 220304,
@@ -1211,6 +1275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 165942,
+      "num": 165942,
+      "word": "淄博市发现2例阳性感染者",
+      "onboard_time": 1662361410,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165511,
       "num": 165511,
       "word": "Uzi解说",
@@ -1387,7 +1459,7 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 85506,
+      "raw_hot": 85688,
       "num": 3345919,
       "word": "航拍看长城美如画卷",
       "onboard_time": 1662346047,

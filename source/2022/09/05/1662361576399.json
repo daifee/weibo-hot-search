@@ -1,0 +1,410 @@
+{
+  "runTime": 1662361576399,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7772357,
+        "num": 7772357,
+        "word": "四川泸定6.8级地震",
+        "onboard_time": 1662354720,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2190098,
+        "num": 2190098,
+        "word": "四川绵竹上空疑现大量蝙蝠群",
+        "onboard_time": 1662355604,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85688,
+        "num": 1682823,
+        "word": "航拍看长城美如画卷",
+        "onboard_time": 1662346047,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1618847,
+        "num": 1618847,
+        "word": "特朗普可能已卖掉白宫机密文件",
+        "onboard_time": 1662353130,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1245672,
+        "num": 1245672,
+        "word": "开始推理吧 张若昀唐艺昕结婚照",
+        "onboard_time": 1662352650,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1233195,
+        "num": 1233195,
+        "word": "秋瓷炫新剧开播就下线",
+        "onboard_time": 1662355248,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1021932,
+        "num": 1021932,
+        "word": "女生宿舍辣酱爆炸似案发现场",
+        "onboard_time": 1662357873,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1019111,
+        "num": 1019111,
+        "word": "泸定地震震中在海螺沟",
+        "onboard_time": 1662358772,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 988062,
+        "num": 988062,
+        "word": "大连一社区抗原检测阳性奖励2000元",
+        "onboard_time": 1662354351,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 615561,
+        "num": 615561,
+        "word": "曝乔丹儿子约会皮蓬前妻",
+        "onboard_time": 1662352290,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 534731,
+        "num": 534731,
+        "word": "大学生未来结婚意愿高于预期",
+        "onboard_time": 1662340706,
+        "rank": 10,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 486818,
+        "num": 486818,
+        "word": "王鹤棣尼龙自成一格大片",
+        "onboard_time": 1662358294,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 475517,
+        "num": 475517,
+        "word": "地震局",
+        "onboard_time": 1662354474,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466353,
+        "num": 466353,
+        "word": "成都震感",
+        "onboard_time": 1662354044,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447945,
+        "num": 447945,
+        "word": "四川居民提前收到地震预警",
+        "onboard_time": 1662357636,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427243,
+        "num": 427243,
+        "word": "华为Mate50价格曝光",
+        "onboard_time": 1662351570,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 403808,
+        "num": 403808,
+        "word": "女租客退房房东挑刺马桶不退押金",
+        "onboard_time": 1662349229,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400808,
+        "num": 400808,
+        "word": "比亚迪",
+        "onboard_time": 1662358595,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 398226,
+        "num": 398226,
+        "word": "网友家中的火锅告诉你成都震感有多凶",
+        "onboard_time": 1662359791,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368251,
+        "num": 368251,
+        "word": "为什么自己和父母的缺点越来越像",
+        "onboard_time": 1662359132,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 336220,
+        "num": 336220,
+        "word": "泸定县城震后画面",
+        "onboard_time": 1662360032,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323424,
+        "num": 323424,
+        "word": "7成网民失去用眼自由",
+        "onboard_time": 1662359973,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313921,
+        "num": 313921,
+        "word": "浪姐团综乐队的海边路透",
+        "onboard_time": 1662360570,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313669,
+        "num": 313669,
+        "word": "00后毕业养猪因不想内耗",
+        "onboard_time": 1662360271,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312733,
+        "num": 312733,
+        "word": "fX组合出道十三周年",
+        "onboard_time": 1662357156,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295640,
+        "num": 295640,
+        "word": "直击泸定地震救援",
+        "onboard_time": 1662356918,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288280,
+        "num": 288280,
+        "word": "iPhone14已产逾3400万部",
+        "onboard_time": 1662343287,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 286726,
+        "num": 286726,
+        "word": "T1官宣Bengi暂代主教练",
+        "onboard_time": 1662360631,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 283292,
+        "num": 283292,
+        "word": "郑州震感",
+        "onboard_time": 1662357994,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267647,
+        "num": 267647,
+        "word": "国内油价或迎大幅度上涨",
+        "onboard_time": 1662350909,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260113,
+        "num": 260113,
+        "word": "西安震感",
+        "onboard_time": 1662355372,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253656,
+        "num": 253656,
+        "word": "西北工业大学遭美国NSA网络攻击",
+        "onboard_time": 1662345203,
+        "rank": 31,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 243283,
+        "num": 243283,
+        "word": "余震",
+        "onboard_time": 1662356202,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242587,
+        "num": 242587,
+        "word": "喜茶原神",
+        "onboard_time": 1662346766,
+        "rank": 33,
+        "category": "美食,游戏"
+      },
+      {
+        "raw_hot": 227013,
+        "num": 227013,
+        "word": "马嘉祺我们的歌",
+        "onboard_time": 1662356679,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226230,
+        "num": 226230,
+        "word": "美国安局窃取中国网络数据超140G",
+        "onboard_time": 1662347966,
+        "rank": 35,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 224941,
+        "num": 224941,
+        "word": "年轻人等车时最怕什么",
+        "onboard_time": 1662356022,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221449,
+        "num": 221449,
+        "word": "基金",
+        "onboard_time": 1662361289,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 216880,
+        "num": 216880,
+        "word": "山东一小学为患病学生装电梯",
+        "onboard_time": 1662353430,
+        "rank": 38,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 206481,
+        "num": 206481,
+        "word": "杨超越晒照告别登录圆鱼洲",
+        "onboard_time": 1662356622,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195554,
+        "num": 195554,
+        "word": "坐氢气球飘走工人已找到",
+        "onboard_time": 1662350129,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178893,
+        "num": 178893,
+        "word": "接亲时新娘发脾气新郎教科书式求和",
+        "onboard_time": 1662347245,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176670,
+        "num": 176670,
+        "word": "第一视角下的小狗有多可爱",
+        "onboard_time": 1662357514,
+        "rank": 42,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 173124,
+        "num": 173124,
+        "word": "原来真的有洗羊羊",
+        "onboard_time": 1662344482,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169425,
+        "num": 169425,
+        "word": "iPhone14预售价现身",
+        "onboard_time": 1662338488,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 165942,
+        "num": 165942,
+        "word": "淄博市发现2例阳性感染者",
+        "onboard_time": 1662361410,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161823,
+        "num": 161823,
+        "word": "何润东又拿了步惊云的剧本",
+        "onboard_time": 1662349468,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159062,
+        "num": 159062,
+        "word": "微信输入法要占内存524MB",
+        "onboard_time": 1662350490,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 156629,
+        "num": 156629,
+        "word": "陈奕迅演唱会",
+        "onboard_time": 1662348147,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 148467,
+        "num": 148467,
+        "word": "雅安4.2级地震",
+        "onboard_time": 1662355071,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#在服贸会遇见未来生活#"
+    }
+  }
+}
