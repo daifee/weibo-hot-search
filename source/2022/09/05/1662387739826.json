@@ -1,0 +1,410 @@
+{
+  "runTime": 1662387739826,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2040791,
+        "num": 2040791,
+        "word": "第31届金鹰奖首轮结果发布",
+        "onboard_time": 1662382350,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1705245,
+        "num": 1705245,
+        "word": "泸定地震已致超30人遇难",
+        "onboard_time": 1662385952,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382397,
+        "num": 1634211,
+        "word": "泸定地震最新动态",
+        "onboard_time": 1662382469,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1582910,
+        "num": 1582910,
+        "word": "特拉斯当选英国首相",
+        "onboard_time": 1662378990,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 936559,
+        "num": 936559,
+        "word": "女子上网学做生腌虾食物中毒",
+        "onboard_time": 1662377431,
+        "rank": 4,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 818334,
+        "num": 818334,
+        "word": "易烊千玺世间有她定妆照拍摄花絮",
+        "onboard_time": 1662382411,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 783834,
+        "num": 783834,
+        "word": "四川幼儿园小朋友地震中有序撤离",
+        "onboard_time": 1662385532,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 727128,
+        "num": 727128,
+        "word": "四川1小时内连发7次地震",
+        "onboard_time": 1662365728,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568905,
+        "num": 568905,
+        "word": "市民住35楼称地震时像坐大摆锤",
+        "onboard_time": 1662372208,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458468,
+        "num": 458468,
+        "word": "奥迪闯红灯追尾又撞飞行人致2死2伤",
+        "onboard_time": 1662385832,
+        "rank": 9,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1890121,
+        "num": 452718,
+        "word": "李沁赵露思直播截图",
+        "onboard_time": 1662384273,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1598834,
+        "num": 450247,
+        "word": "张若昀唐艺昕方希望不再传播相关图片",
+        "onboard_time": 1662372688,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 613273,
+        "num": 447732,
+        "word": "陈宇杨玲分手了",
+        "onboard_time": 1662379229,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 437223,
+        "num": 437223,
+        "word": "和偶像同居是种什么体验",
+        "onboard_time": 1662378150,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24362,
+        "num": 401020,
+        "word": "特步发布会",
+        "onboard_time": 1662386430,
+        "rank": 14,
+        "category": "体育,财经"
+      },
+      {
+        "raw_hot": 395818,
+        "num": 395818,
+        "word": "被公司发的月饼气到了",
+        "onboard_time": 1662386730,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 392604,
+        "num": 392604,
+        "word": "特警徒手刨土救出被埋男子",
+        "onboard_time": 1662382289,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373030,
+        "num": 373030,
+        "word": "美方长期对中国手机用户无差别监听",
+        "onboard_time": 1662369748,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372451,
+        "num": 372451,
+        "word": "住户连续一年高空抛物还扔剪刀",
+        "onboard_time": 1662383008,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365273,
+        "num": 365273,
+        "word": "原来每个人都有收集癖",
+        "onboard_time": 1662381630,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 387332,
+        "num": 360786,
+        "word": "成毅长沙录制你好星期六",
+        "onboard_time": 1662386730,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 334779,
+        "num": 334779,
+        "word": "中方要求美方立即停止不法行为",
+        "onboard_time": 1662372508,
+        "rank": 21,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 318940,
+        "num": 318940,
+        "word": "女子和狗子拉扯宛如情侣吵架翻版",
+        "onboard_time": 1662384328,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306222,
+        "num": 306222,
+        "word": "罚罪",
+        "onboard_time": 1662382709,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301624,
+        "num": 301624,
+        "word": "航拍泸定地震震中磨西镇",
+        "onboard_time": 1662381270,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290228,
+        "num": 290228,
+        "word": "地震瞬间父亲把孩子紧紧护在怀里",
+        "onboard_time": 1662376589,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312839,
+        "num": 284748,
+        "word": "四川太难了",
+        "onboard_time": 1662375272,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279024,
+        "num": 279024,
+        "word": "湖南益阳现大量蜉蝣铺天盖地",
+        "onboard_time": 1662374792,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257843,
+        "num": 257843,
+        "word": "湘雅二院取消两主任医生医疗资质",
+        "onboard_time": 1662373170,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242502,
+        "num": 242502,
+        "word": "王鹤棣尼龙杂志9月销量",
+        "onboard_time": 1662374848,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 240459,
+        "num": 240459,
+        "word": "朱正廷说不想给自己设限",
+        "onboard_time": 1662382108,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 221711,
+        "num": 221711,
+        "word": "小猫的腿都吓软了",
+        "onboard_time": 1662371248,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 213081,
+        "num": 213081,
+        "word": "卜冠今演的姜小果好让人共情",
+        "onboard_time": 1662385952,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195116,
+        "num": 195116,
+        "word": "消失的孩子",
+        "onboard_time": 1662380309,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194981,
+        "num": 194981,
+        "word": "国产跑鞋为何越发受宠",
+        "onboard_time": 1662379291,
+        "rank": 34,
+        "category": "体育,财经"
+      },
+      {
+        "raw_hot": 178886,
+        "num": 178886,
+        "word": "杨兴权骗了林德赞20年",
+        "onboard_time": 1662383071,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 3302123,
+        "num": 178095,
+        "word": "泸定地震已致21人遇难",
+        "onboard_time": 1662376893,
+        "rank": 36,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 175830,
+        "num": 175830,
+        "word": "泸定地震多人被救出",
+        "onboard_time": 1662385892,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163690,
+        "num": 163690,
+        "word": "石家庄疫情防控",
+        "onboard_time": 1662371008,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153601,
+        "num": 153601,
+        "word": "官方辟谣地震男子高楼跳伞逃生",
+        "onboard_time": 1662372149,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153902,
+        "num": 151687,
+        "word": "BLACKPINK新歌未通过KBS审议",
+        "onboard_time": 1662367170,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 144077,
+        "num": 144077,
+        "word": "青岛即墨发现2例感染者",
+        "onboard_time": 1662370347,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139611,
+        "num": 139611,
+        "word": "二十不惑2",
+        "onboard_time": 1662387392,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132940,
+        "num": 132940,
+        "word": "原来猫咪也会脚麻",
+        "onboard_time": 1662386910,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119367,
+        "num": 119367,
+        "word": "江西新增4例确诊72例无症状",
+        "onboard_time": 1662368429,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108832,
+        "num": 108832,
+        "word": "中国男篮线上公开采访",
+        "onboard_time": 1662380731,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105244,
+        "num": 105244,
+        "word": "BLG官宣Chashao离队",
+        "onboard_time": 1662375632,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 234273,
+        "num": 105211,
+        "word": "头皮问题会影响年轻人社交",
+        "onboard_time": 1662387693,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105149,
+        "num": 105149,
+        "word": "苹果汽车受欢迎度超特斯拉",
+        "onboard_time": 1662371248,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 98579,
+        "num": 98579,
+        "word": "地震致石棉县14人遇难",
+        "onboard_time": 1662374252,
+        "rank": 49,
+        "category": "社会负面"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把抢救生命作为首要任务#"
+    }
+  }
+}
