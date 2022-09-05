@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662363234694,
+  "endTime": 1662364045098,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -795,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1481088,
+      "num": 1481088,
+      "word": "泸定县城震后画面",
+      "onboard_time": 1662360032,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1474125,
       "num": 1474125,
       "word": "浙江三地已宣布停课一天",
@@ -1081,6 +1089,14 @@
       "onboard_time": 1662352290,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1282704,
+      "num": 633630,
+      "word": "庆怜官宣签约王嘉尔公司",
+      "onboard_time": 1662363868,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1281510,
@@ -1624,14 +1640,6 @@
       "word": "东软回应成都核酸系统异常",
       "onboard_time": 1662191608,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 959094,
-      "num": 959094,
-      "word": "泸定县城震后画面",
-      "onboard_time": 1662360032,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -3307,6 +3315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 539418,
+      "num": 539418,
+      "word": "为什么自己和父母的缺点越来越像",
+      "onboard_time": 1662359132,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 536244,
       "num": 536244,
       "word": "李健线上演唱会",
@@ -3467,14 +3483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 510484,
-      "num": 510484,
-      "word": "为什么自己和父母的缺点越来越像",
-      "onboard_time": 1662359132,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
       "raw_hot": 509513,
       "num": 509513,
       "word": "RNG与EDG决胜局",
@@ -3521,6 +3529,14 @@
       "onboard_time": 1662031106,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 501633,
+      "num": 501633,
+      "word": "7成网民失去用眼自由",
+      "onboard_time": 1662359973,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 500654,
@@ -3865,14 +3881,6 @@
       "onboard_time": 1662177384,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 460756,
-      "num": 460756,
-      "word": "7成网民失去用眼自由",
-      "onboard_time": 1662359973,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 460189,
@@ -4931,6 +4939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 371134,
+      "num": 371134,
+      "word": "00后毕业养猪因不想内耗",
+      "onboard_time": 1662360271,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 370836,
       "num": 367567,
       "word": "覆流年",
@@ -5323,14 +5339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 342246,
-      "num": 342246,
-      "word": "00后毕业养猪因不想内耗",
-      "onboard_time": 1662360271,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 340827,
       "num": 250791,
       "word": "罚罪",
@@ -5681,6 +5689,14 @@
       "onboard_time": 1662026310,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 322182,
+      "num": 322182,
+      "word": "基金",
+      "onboard_time": 1662361289,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 321450,
@@ -6427,12 +6443,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 287118,
-      "num": 287118,
-      "word": "基金",
-      "onboard_time": 1662361289,
-      "rank": 37,
-      "category": "财经"
+      "raw_hot": 286397,
+      "num": 286397,
+      "word": "如何对待喊男友哥哥的女生",
+      "onboard_time": 1662363689,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 286374,
@@ -7705,6 +7721,14 @@
       "onboard_time": 1662034170,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 225042,
+      "num": 225042,
+      "word": "乐山一小学地震预警期全部疏散",
+      "onboard_time": 1662363150,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 224969,
@@ -9387,14 +9411,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 146692,
-      "num": 146692,
-      "word": "乐山一小学地震预警期全部疏散",
-      "onboard_time": 1662363150,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146469,
       "num": 146469,
       "word": "林俊杰翻唱那女孩对我说",
@@ -9667,6 +9683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131335,
+      "num": 131335,
+      "word": "妈妈把饼烙出了史前文明既视感",
+      "onboard_time": 1662363808,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131244,
       "num": 131244,
       "word": "一起来听狼星语",
@@ -9753,6 +9777,14 @@
       "onboard_time": 1662178706,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 125575,
+      "num": 125575,
+      "word": "陈奕迅演唱会暂定18场",
+      "onboard_time": 1662362191,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 125176,
