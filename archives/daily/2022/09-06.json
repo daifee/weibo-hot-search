@@ -1,6 +1,6 @@
 {
   "startTime": 1662395471045,
-  "endTime": 1662412794007,
+  "endTime": 1662413838852,
   "band_list": [
     {
       "raw_hot": 2547294,
@@ -443,24 +443,32 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 23017,
-      "num": 23017,
-      "word": "成都世乒赛国乒无直板参赛",
-      "onboard_time": 1662409151,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 22160,
-      "num": 22160,
+      "raw_hot": 42640,
+      "num": 42640,
       "word": "郑州震感来源于此次四川地震",
       "onboard_time": 1662411131,
       "rank": 19,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 7474,
-      "num": 7474,
+      "raw_hot": 32727,
+      "num": 32727,
+      "word": "成都世乒赛国乒无直板参赛",
+      "onboard_time": 1662409151,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 16608,
+      "num": 16608,
+      "word": "我眼中的团圆",
+      "onboard_time": 1662413110,
+      "rank": 33,
+      "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 15033,
+      "num": 15033,
       "word": "这只猫怎么还会外语",
       "onboard_time": 1662411971,
       "rank": 48,

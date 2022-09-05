@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662412794007,
+  "endTime": 1662413838852,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -11427,6 +11427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 42640,
+      "num": 42640,
+      "word": "郑州震感来源于此次四川地震",
+      "onboard_time": 1662411131,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40941,
       "num": 40941,
       "word": "林峯吴卓羲早期唱跳舞台",
@@ -11449,6 +11457,14 @@
       "onboard_time": 1662207089,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 32727,
+      "num": 32727,
+      "word": "成都世乒赛国乒无直板参赛",
+      "onboard_time": 1662409151,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 27800,
@@ -11499,14 +11515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23017,
-      "num": 23017,
-      "word": "成都世乒赛国乒无直板参赛",
-      "onboard_time": 1662409151,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 22357,
       "num": 22357,
       "word": "世界人工智能大会",
@@ -11515,19 +11523,27 @@
       "category": "科技"
     },
     {
-      "raw_hot": 22160,
-      "num": 22160,
-      "word": "郑州震感来源于此次四川地震",
-      "onboard_time": 1662411131,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 19784,
       "num": 19784,
       "word": "为了口吃的它真的好努力",
       "onboard_time": 1662147550,
       "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 16608,
+      "num": 16608,
+      "word": "我眼中的团圆",
+      "onboard_time": 1662413110,
+      "rank": 33,
+      "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 15033,
+      "num": 15033,
+      "word": "这只猫怎么还会外语",
+      "onboard_time": 1662411971,
+      "rank": 48,
       "category": "幽默"
     },
     {
@@ -11553,14 +11569,6 @@
       "onboard_time": 1662123628,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 7474,
-      "num": 7474,
-      "word": "这只猫怎么还会外语",
-      "onboard_time": 1662411971,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 7324,
