@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662409426716,
+  "endTime": 1662410363505,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -11555,8 +11555,8 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 7221,
-      "num": 7221,
+      "raw_hot": 7234,
+      "num": 7234,
       "word": "成都世乒赛国乒无直板参赛",
       "onboard_time": 1662409151,
       "rank": 49,
@@ -11569,6 +11569,14 @@
       "onboard_time": 1662323950,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 6445,
+      "num": 6445,
+      "word": "泸定震中山体大面积滑坡",
+      "onboard_time": 1662410230,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/05 00:29:45 ~ 2022/09/06 04:23:46
+本榜单时间：2022/09/05 00:29:45 ~ 2022/09/06 04:39:23
 </p>
 </blockquote>
 <p>
@@ -2056,13 +2056,19 @@ F1荷兰大奖赛（热度：24483）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E4%B8%96%E4%B9%92%E8%B5%9B%E5%9B%BD%E4%B9%92%E6%97%A0%E7%9B%B4%E6%9D%BF%E5%8F%82%E8%B5%9B%23" target="weibo">
-成都世乒赛国乒无直板参赛（热度：7221）
+成都世乒赛国乒无直板参赛（热度：7234）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E8%A2%AB%E5%9B%B0%E7%81%AB%E5%9C%BA%E9%9D%92%E5%B9%B4%E7%88%AC%E6%A5%BC%E7%A0%B4%E5%A2%99%E6%95%91%E4%BA%BA%23" target="weibo">
 老人被困火场青年爬楼破墙救人（热度：7064）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%B8%E5%AE%9A%E9%9C%87%E4%B8%AD%E5%B1%B1%E4%BD%93%E5%A4%A7%E9%9D%A2%E7%A7%AF%E6%BB%91%E5%9D%A1%23" target="weibo">
+泸定震中山体大面积滑坡（热度：6445）
 </a>
 </li>
 
