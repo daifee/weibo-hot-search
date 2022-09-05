@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662334847818,
+  "endTime": 1662344928403,
   "band_list": [
     {
       "raw_hot": 6261105,
@@ -49,6 +49,14 @@
       "onboard_time": 1662302972,
       "rank": 0,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 3318706,
+      "num": 3318706,
+      "word": "大学生未来结婚意愿高于预期",
+      "onboard_time": 1662340706,
+      "rank": 0,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 3270726,
@@ -923,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1328167,
+      "num": 719566,
+      "word": "iPhone14预售价现身",
+      "onboard_time": 1662338488,
+      "rank": 3,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1321239,
       "num": 613334,
       "word": "欧阳娜娜发长文谈跨界艺术展",
@@ -1707,6 +1723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 886862,
+      "num": 886862,
+      "word": "货车高速散落6000颗钉子30辆车被扎",
+      "onboard_time": 1662341186,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 885288,
       "num": 885288,
       "word": "杨紫成毅新剧吻11次虐11次",
@@ -1945,6 +1969,14 @@
       "onboard_time": 1662007415,
       "rank": 36,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 803675,
+      "num": 607546,
+      "word": "iPhone14已产逾3400万部",
+      "onboard_time": 1662343287,
+      "rank": 6,
+      "category": "科技"
     },
     {
       "raw_hot": 802795,
@@ -2187,12 +2219,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 709866,
+      "num": 709866,
+      "word": "黄瓜等多首网传诗歌非贾浅浅创作",
+      "onboard_time": 1662337468,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 707805,
       "num": 286414,
       "word": "刘诗诗一念关山嘟嘴饭拍路透",
       "onboard_time": 1662181166,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 706062,
+      "num": 492157,
+      "word": "AirPodsPro2将随iPhone14一起发布",
+      "onboard_time": 1662340225,
+      "rank": 9,
+      "category": "科技"
     },
     {
       "raw_hot": 704904,
@@ -2475,6 +2523,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 643975,
+      "num": 643975,
+      "word": "四川新增本土确诊105例",
+      "onboard_time": 1662341427,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 642764,
       "num": 497371,
       "word": "隐入尘烟",
@@ -2736,6 +2792,14 @@
       "word": "成毅沉香如屑3个角色无人生还",
       "onboard_time": 1662280707,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 570043,
+      "num": 570043,
+      "word": "周峻纬甩主持流程卡",
+      "onboard_time": 1662339808,
+      "rank": 7,
       "category": "影视"
     },
     {
@@ -3411,6 +3475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 471198,
+      "num": 471198,
+      "word": "偷菜也可以做成一门生意",
+      "onboard_time": 1662342086,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 471195,
       "num": 355268,
       "word": "黑话律师",
@@ -3587,6 +3659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 450624,
+      "num": 450624,
+      "word": "16岁中国女孩国际霹雳舞再夺冠",
+      "onboard_time": 1662341784,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 450608,
       "num": 375604,
       "word": "披荆斩棘",
@@ -3641,6 +3721,14 @@
       "onboard_time": 1662128311,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 446918,
+      "num": 446918,
+      "word": "如何看待华为mate50硬刚苹果",
+      "onboard_time": 1662343886,
+      "rank": 13,
+      "category": "科技"
     },
     {
       "raw_hot": 446873,
@@ -4379,6 +4467,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 373684,
+      "num": 361725,
+      "word": "部分iPhone14机型或移除SIM卡槽",
+      "onboard_time": 1662337888,
+      "rank": 16,
+      "category": "科技"
+    },
+    {
       "raw_hot": 372871,
       "num": 372871,
       "word": "中级财管",
@@ -4497,6 +4593,14 @@
       "onboard_time": 1662046409,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 364154,
+      "num": 364154,
+      "word": "王菲王家卫新片预告",
+      "onboard_time": 1662343465,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 363868,
@@ -4739,6 +4843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 345554,
+      "num": 345554,
+      "word": "余霜",
+      "onboard_time": 1662336506,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 345374,
       "num": 345374,
       "word": "人体24小时血糖这样变化",
@@ -4768,6 +4880,14 @@
       "word": "成都发布",
       "onboard_time": 1662005192,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 342844,
+      "num": 342844,
+      "word": "102岁姐姐给86岁弟弟塞红包",
+      "onboard_time": 1662333138,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -5089,6 +5209,14 @@
       "onboard_time": 1662095607,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 323664,
+      "num": 323664,
+      "word": "午休神器让人幸福感爆棚",
+      "onboard_time": 1662338006,
+      "rank": 20,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 323259,
@@ -5851,6 +5979,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 283830,
+      "num": 283830,
+      "word": "8旬老太3连问问懵骗子称不过瘾",
+      "onboard_time": 1662337526,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282699,
       "num": 282699,
       "word": "朱正廷霸王别姬舞台",
@@ -6003,6 +6139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 278474,
+      "num": 278474,
+      "word": "无名新预告",
+      "onboard_time": 1662344666,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 276456,
       "num": 276456,
       "word": "龙族的开学第一天有多离谱",
@@ -6056,6 +6200,14 @@
       "word": "2022年第二批涉嫌非法社会组织名单",
       "onboard_time": 1662120207,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 275344,
+      "num": 275344,
+      "word": "江苏省451人医疗队驰援成都",
+      "onboard_time": 1662340947,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -6603,6 +6755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 243884,
+      "num": 243884,
+      "word": "9月4日新增确诊349例",
+      "onboard_time": 1662341487,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243764,
       "num": 243764,
       "word": "世界赛",
@@ -6745,6 +6905,14 @@
       "onboard_time": 1662083725,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232604,
+      "num": 232604,
+      "word": "林雨申眼神故事感",
+      "onboard_time": 1662344607,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 232492,
@@ -6913,6 +7081,14 @@
       "onboard_time": 1662192387,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 226151,
+      "num": 226151,
+      "word": "加拿大多个地点发生持刀刺人事件",
+      "onboard_time": 1662338848,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225992,
@@ -7219,6 +7395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 210318,
+      "num": 210318,
+      "word": "这次的秋老虎是干热型",
+      "onboard_time": 1662336865,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210290,
       "num": 210290,
       "word": "民警百米冲刺为突发哮喘男子买药",
@@ -7249,6 +7433,14 @@
       "onboard_time": 1662097228,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 209632,
+      "num": 209632,
+      "word": "油价",
+      "onboard_time": 1662343227,
+      "rank": 28,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 209583,
@@ -7835,14 +8027,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 181665,
-      "num": 181665,
-      "word": "102岁姐姐给86岁弟弟塞红包",
-      "onboard_time": 1662333138,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181346,
       "num": 181346,
       "word": "怎么当了老师还逃不过社死",
@@ -8131,6 +8315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162402,
+      "num": 162402,
+      "word": "原来真的有洗羊羊",
+      "onboard_time": 1662344482,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161458,
       "num": 161458,
       "word": "大哥拍下300场日出日落鼓励陌生人",
@@ -8291,6 +8483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155687,
+      "num": 155687,
+      "word": "陈楚生放映室",
+      "onboard_time": 1662341126,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 155420,
       "num": 155420,
       "word": "阴阳师",
@@ -8352,6 +8552,14 @@
       "word": "9月2日新增确诊502例",
       "onboard_time": 1662171026,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152905,
+      "num": 152905,
+      "word": "辽宁新增13例确诊93例无症状",
+      "onboard_time": 1662339087,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -8489,6 +8697,14 @@
       "onboard_time": 1662087445,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 145199,
+      "num": 145199,
+      "word": "LPL选手",
+      "onboard_time": 1662335184,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 145098,
@@ -8635,6 +8851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135648,
+      "num": 135648,
+      "word": "金珉锡将9月26日solo出道",
+      "onboard_time": 1662336747,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135380,
       "num": 135380,
       "word": "熊猫宝宝连尾巴都这么可爱",
@@ -8657,6 +8881,14 @@
       "onboard_time": 1661980390,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132598,
+      "num": 132598,
+      "word": "2022秋季学期考试日历",
+      "onboard_time": 1662340349,
+      "rank": 41,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 132033,
@@ -8867,6 +9099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115894,
+      "num": 115894,
+      "word": "刘些宁直播安利刮痧",
+      "onboard_time": 1662339986,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 115235,
       "num": 115235,
       "word": "父亲送女儿上大学后转身抹泪",
@@ -8995,6 +9235,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 101445,
+      "num": 101445,
+      "word": "中国巅峰说唱对决下期有张艺兴陈立农",
+      "onboard_time": 1662336387,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100913,
       "num": 100913,
       "word": "狼队总决赛加油",
@@ -9033,6 +9281,14 @@
       "onboard_time": 1662232332,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95844,
+      "num": 95844,
+      "word": "原来瀑布还可以这么拍",
+      "onboard_time": 1662344846,
+      "rank": 48,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 95580,
