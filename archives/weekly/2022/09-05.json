@@ -1,7 +1,15 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662344928403,
+  "endTime": 1662347794510,
   "band_list": [
+    {
+      "raw_hot": 3457492,
+      "num": 3457492,
+      "word": "西北工业大学遭美国NSA网络攻击",
+      "onboard_time": 1662345203,
+      "rank": 0,
+      "category": "社会新闻,科技"
+    },
     {
       "raw_hot": 3318706,
       "num": 3318706,
@@ -27,6 +35,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1174969,
+      "num": 1174969,
+      "word": "iPhone14已产逾3400万部",
+      "onboard_time": 1662343287,
+      "rank": 6,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1167359,
       "num": 1167359,
       "word": "4个月宝宝被爸爸鼾声吵到空气挥拳",
@@ -41,6 +57,14 @@
       "onboard_time": 1662294089,
       "rank": 27,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 1039104,
+      "num": 446918,
+      "word": "如何看待华为mate50硬刚苹果",
+      "onboard_time": 1662343886,
+      "rank": 13,
+      "category": "科技"
     },
     {
       "raw_hot": 992497,
@@ -83,12 +107,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 803675,
-      "num": 607546,
-      "word": "iPhone14已产逾3400万部",
-      "onboard_time": 1662343287,
-      "rank": 6,
-      "category": "科技"
+      "raw_hot": 801857,
+      "num": 801857,
+      "word": "原来真的有洗羊羊",
+      "onboard_time": 1662344482,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 767070,
+      "num": 767070,
+      "word": "喜茶原神",
+      "onboard_time": 1662346766,
+      "rank": 5,
+      "category": "美食,游戏"
     },
     {
       "raw_hot": 709866,
@@ -147,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 598120,
+      "num": 598120,
+      "word": "王菲王家卫新片预告",
+      "onboard_time": 1662343465,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 570043,
       "num": 570043,
       "word": "周峻纬甩主持流程卡",
@@ -169,6 +209,14 @@
       "onboard_time": 1662307285,
       "rank": 8,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 507073,
+      "num": 507073,
+      "word": "她们的名字定档今晚",
+      "onboard_time": 1662346585,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 491821,
@@ -203,14 +251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 446918,
-      "num": 446918,
-      "word": "如何看待华为mate50硬刚苹果",
-      "onboard_time": 1662343886,
-      "rank": 13,
-      "category": "科技"
-    },
-    {
       "raw_hot": 420047,
       "num": 420047,
       "word": "深圳地铁",
@@ -235,12 +275,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 397907,
+      "num": 397907,
+      "word": "虞书欣王鹤棣合拍视频",
+      "onboard_time": 1662347546,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 397043,
+      "num": 397043,
+      "word": "美国NSA网络攻击中国上万次",
+      "onboard_time": 1662345685,
+      "rank": 12,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 389393,
       "num": 389393,
       "word": "张凌赫跳舞",
       "onboard_time": 1662303571,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 384364,
+      "num": 384364,
+      "word": "护士考前把猫咪当患者练习护理",
+      "onboard_time": 1662345867,
+      "rank": 15,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 373684,
@@ -251,11 +315,11 @@
       "category": "科技"
     },
     {
-      "raw_hot": 364154,
-      "num": 364154,
-      "word": "王菲王家卫新片预告",
-      "onboard_time": 1662343465,
-      "rank": 15,
+      "raw_hot": 357589,
+      "num": 357589,
+      "word": "电影无名",
+      "onboard_time": 1662345805,
+      "rank": 18,
       "category": "影视"
     },
     {
@@ -347,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286374,
+      "num": 286374,
+      "word": "胡一天向秦羽今晚见",
+      "onboard_time": 1662347365,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 283830,
       "num": 283830,
       "word": "8旬老太3连问问懵骗子称不过瘾",
@@ -411,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244143,
+      "num": 244143,
+      "word": "原来瀑布还可以这么拍",
+      "onboard_time": 1662344846,
+      "rank": 48,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 243884,
       "num": 243884,
       "word": "9月4日新增确诊349例",
@@ -467,6 +547,14 @@
       "category": "国外要闻,社会新闻"
     },
     {
+      "raw_hot": 229146,
+      "num": 229146,
+      "word": "深圳新增",
+      "onboard_time": 1662346166,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228402,
       "num": 228402,
       "word": "我国已进入台风核心影响时段",
@@ -515,6 +603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 212576,
+      "num": 212576,
+      "word": "油价",
+      "onboard_time": 1662343227,
+      "rank": 28,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 210318,
       "num": 210318,
       "word": "这次的秋老虎是干热型",
@@ -523,20 +619,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 209632,
-      "num": 209632,
-      "word": "油价",
-      "onboard_time": 1662343227,
-      "rank": 28,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 205109,
       "num": 205109,
       "word": "男子骑摩托被女友开车撞翻",
       "onboard_time": 1662302371,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204475,
+      "num": 204475,
+      "word": "国内油价五连跌或终结",
+      "onboard_time": 1662346825,
+      "rank": 31,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 203559,
@@ -595,6 +691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 182066,
+      "num": 182066,
+      "word": "00后孙女为爷爷奶奶拍青春大片",
+      "onboard_time": 1662345027,
+      "rank": 36,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 180105,
       "num": 180105,
       "word": "92岁老人不愿添麻烦婉拒志愿者上门导尿",
@@ -609,6 +713,14 @@
       "onboard_time": 1662288147,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175704,
+      "num": 175704,
+      "word": "数字人民币硬钱包可线上申领",
+      "onboard_time": 1662347187,
+      "rank": 37,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 168471,
@@ -633,14 +745,6 @@
       "onboard_time": 1662294507,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 162402,
-      "num": 162402,
-      "word": "原来真的有洗羊羊",
-      "onboard_time": 1662344482,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 157502,
@@ -683,12 +787,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146421,
+      "num": 146421,
+      "word": "接亲时新娘发脾气新郎教科书式求和",
+      "onboard_time": 1662347245,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145199,
       "num": 145199,
       "word": "LPL选手",
       "onboard_time": 1662335184,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 138875,
+      "num": 138875,
+      "word": "我们为什么需要狼群精神",
+      "onboard_time": 1662345386,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 136015,
@@ -715,6 +835,22 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 131576,
+      "num": 131576,
+      "word": "警方回应工人坐氢气球飘走",
+      "onboard_time": 1662347604,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125176,
+      "num": 125176,
+      "word": "河南入秋失败了",
+      "onboard_time": 1662347065,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121706,
       "num": 121706,
       "word": "罚罪",
@@ -729,6 +865,14 @@
       "onboard_time": 1662301415,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116084,
+      "num": 116084,
+      "word": "北漂为了团圆有多拼",
+      "onboard_time": 1662347427,
+      "rank": 47,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 115894,
@@ -747,20 +891,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 106694,
+      "num": 106694,
+      "word": "冰雨火",
+      "onboard_time": 1662346347,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 101445,
       "num": 101445,
       "word": "中国巅峰说唱对决下期有张艺兴陈立农",
       "onboard_time": 1662336387,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 95844,
-      "num": 95844,
-      "word": "原来瀑布还可以这么拍",
-      "onboard_time": 1662344846,
-      "rank": 48,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 91148,
@@ -825,6 +969,14 @@
       "onboard_time": 1662334762,
       "rank": 48,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 62059,
+      "num": 1214812,
+      "word": "航拍看长城美如画卷",
+      "onboard_time": 1662346047,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 47232,

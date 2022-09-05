@@ -1,0 +1,410 @@
+{
+  "runTime": 1662347794510,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3457492,
+        "num": 3457492,
+        "word": "西北工业大学遭美国NSA网络攻击",
+        "onboard_time": 1662345203,
+        "rank": 0,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 2076754,
+        "num": 2076754,
+        "word": "大学生未来结婚意愿高于预期",
+        "onboard_time": 1662340706,
+        "rank": 1,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 62059,
+        "num": 1214812,
+        "word": "航拍看长城美如画卷",
+        "onboard_time": 1662346047,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1174969,
+        "num": 1174969,
+        "word": "iPhone14已产逾3400万部",
+        "onboard_time": 1662343287,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 801857,
+        "num": 801857,
+        "word": "原来真的有洗羊羊",
+        "onboard_time": 1662344482,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 767070,
+        "num": 767070,
+        "word": "喜茶原神",
+        "onboard_time": 1662346766,
+        "rank": 5,
+        "category": "美食,游戏"
+      },
+      {
+        "raw_hot": 742136,
+        "num": 742136,
+        "word": "货车高速散落6000颗钉子30辆车被扎",
+        "onboard_time": 1662341186,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 598120,
+        "num": 598120,
+        "word": "王菲王家卫新片预告",
+        "onboard_time": 1662343465,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 507073,
+        "num": 507073,
+        "word": "她们的名字定档今晚",
+        "onboard_time": 1662346585,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 411204,
+        "num": 411204,
+        "word": "四川新增本土确诊105例",
+        "onboard_time": 1662341427,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523134,
+        "num": 408060,
+        "word": "90%学生被取消学籍系因游戏",
+        "onboard_time": 1662294747,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397907,
+        "num": 397907,
+        "word": "虞书欣王鹤棣合拍视频",
+        "onboard_time": 1662347546,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 397043,
+        "num": 397043,
+        "word": "美国NSA网络攻击中国上万次",
+        "onboard_time": 1662345685,
+        "rank": 12,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 1039104,
+        "num": 396095,
+        "word": "如何看待华为mate50硬刚苹果",
+        "onboard_time": 1662343886,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 385147,
+        "num": 385147,
+        "word": "16岁中国女孩国际霹雳舞再夺冠",
+        "onboard_time": 1662341784,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384364,
+        "num": 384364,
+        "word": "护士考前把猫咪当患者练习护理",
+        "onboard_time": 1662345867,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 370918,
+        "num": 370918,
+        "word": "AirPodsPro2将随iPhone14一起发布",
+        "onboard_time": 1662340225,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 367481,
+        "num": 367481,
+        "word": "偷菜也可以做成一门生意",
+        "onboard_time": 1662342086,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 357589,
+        "num": 357589,
+        "word": "电影无名",
+        "onboard_time": 1662345805,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 315430,
+        "num": 315430,
+        "word": "周峻纬甩主持流程卡",
+        "onboard_time": 1662339808,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 307522,
+        "num": 307522,
+        "word": "4个月宝宝被爸爸鼾声吵到空气挥拳",
+        "onboard_time": 1662305731,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286374,
+        "num": 286374,
+        "word": "胡一天向秦羽今晚见",
+        "onboard_time": 1662347365,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 284758,
+        "num": 284758,
+        "word": "余霜",
+        "onboard_time": 1662336506,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 247283,
+        "num": 247283,
+        "word": "西安地铁",
+        "onboard_time": 1662340166,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244636,
+        "num": 244636,
+        "word": "黄瓜等多首网传诗歌非贾浅浅创作",
+        "onboard_time": 1662337468,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244143,
+        "num": 244143,
+        "word": "原来瀑布还可以这么拍",
+        "onboard_time": 1662344846,
+        "rank": 25,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 229146,
+        "num": 229146,
+        "word": "深圳新增",
+        "onboard_time": 1662346166,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212828,
+        "num": 212828,
+        "word": "全开麦真的是对歌手的夸奖吗",
+        "onboard_time": 1662306628,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 212576,
+        "num": 212576,
+        "word": "油价",
+        "onboard_time": 1662343227,
+        "rank": 28,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 208319,
+        "num": 208319,
+        "word": "9月4日新增确诊349例",
+        "onboard_time": 1662341487,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 638076,
+        "num": 206578,
+        "word": "iPhone14预售价现身",
+        "onboard_time": 1662338488,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 204475,
+        "num": 204475,
+        "word": "国内油价五连跌或终结",
+        "onboard_time": 1662346825,
+        "rank": 31,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 203199,
+        "num": 203199,
+        "word": "8旬老太3连问问懵骗子称不过瘾",
+        "onboard_time": 1662337526,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199749,
+        "num": 199749,
+        "word": "102岁姐姐给86岁弟弟塞红包",
+        "onboard_time": 1662333138,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187527,
+        "num": 187527,
+        "word": "江苏省451人医疗队驰援成都",
+        "onboard_time": 1662340947,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187385,
+        "num": 187385,
+        "word": "午休神器让人幸福感爆棚",
+        "onboard_time": 1662338006,
+        "rank": 35,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 182066,
+        "num": 182066,
+        "word": "00后孙女为爷爷奶奶拍青春大片",
+        "onboard_time": 1662345027,
+        "rank": 36,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 175704,
+        "num": 175704,
+        "word": "数字人民币硬钱包可线上申领",
+        "onboard_time": 1662347187,
+        "rank": 37,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 171496,
+        "num": 171496,
+        "word": "部分iPhone14机型或移除SIM卡槽",
+        "onboard_time": 1662337888,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 150628,
+        "num": 150628,
+        "word": "加拿大多个地点发生持刀刺人事件",
+        "onboard_time": 1662338848,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146421,
+        "num": 146421,
+        "word": "接亲时新娘发脾气新郎教科书式求和",
+        "onboard_time": 1662347245,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145508,
+        "num": 145508,
+        "word": "无名新预告",
+        "onboard_time": 1662344666,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141359,
+        "num": 141359,
+        "word": "LPL选手",
+        "onboard_time": 1662335184,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138875,
+        "num": 138875,
+        "word": "我们为什么需要狼群精神",
+        "onboard_time": 1662345386,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131576,
+        "num": 131576,
+        "word": "警方回应工人坐氢气球飘走",
+        "onboard_time": 1662347604,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125176,
+        "num": 125176,
+        "word": "河南入秋失败了",
+        "onboard_time": 1662347065,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119893,
+        "num": 119893,
+        "word": "浙江一干部落马前沉迷当榜一大哥",
+        "onboard_time": 1662304232,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116084,
+        "num": 116084,
+        "word": "北漂为了团圆有多拼",
+        "onboard_time": 1662347427,
+        "rank": 47,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 107696,
+        "num": 107696,
+        "word": "女子在永辉超市买2斤猪肉花103元",
+        "onboard_time": 1662290906,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106694,
+        "num": 106694,
+        "word": "冰雨火",
+        "onboard_time": 1662346347,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#网络安全为人民网络安全靠人民#"
+    }
+  }
+}
