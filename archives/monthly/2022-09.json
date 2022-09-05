@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662364045098,
+  "endTime": 1662366441935,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -435,12 +435,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1980377,
+      "num": 1980377,
+      "word": "泸定地震7人遇难",
+      "onboard_time": 1662364830,
+      "rank": 1,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1974695,
       "num": 518235,
       "word": "韩素希新闻图",
       "onboard_time": 1662039451,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1941222,
+      "num": 1941222,
+      "word": "泸定县城震后画面",
+      "onboard_time": 1662360032,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1928051,
@@ -577,6 +593,14 @@
       "onboard_time": 1662219691,
       "rank": 1,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1724581,
+      "num": 852901,
+      "word": "庆怜官宣签约王嘉尔公司",
+      "onboard_time": 1662363868,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1720401,
@@ -795,14 +819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1481088,
-      "num": 1481088,
-      "word": "泸定县城震后画面",
-      "onboard_time": 1662360032,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1474125,
       "num": 1474125,
       "word": "浙江三地已宣布停课一天",
@@ -856,6 +872,14 @@
       "word": "东航一航班因旅客吐血紧急备降",
       "onboard_time": 1662189505,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1458120,
+      "num": 1458120,
+      "word": "8800元网购的猫不到一周就离世",
+      "onboard_time": 1662364229,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -1089,14 +1113,6 @@
       "onboard_time": 1662352290,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1282704,
-      "num": 633630,
-      "word": "庆怜官宣签约王嘉尔公司",
-      "onboard_time": 1662363868,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1281510,
@@ -1401,6 +1417,14 @@
       "onboard_time": 1662087085,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1071794,
+      "num": 1071794,
+      "word": "外交部新任发言人毛宁亮相",
+      "onboard_time": 1662365008,
+      "rank": 6,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1070086,
@@ -1897,6 +1921,14 @@
       "onboard_time": 1662121467,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 899130,
+      "num": 899130,
+      "word": "六版道明寺",
+      "onboard_time": 1662365668,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 895423,
@@ -2681,6 +2713,14 @@
       "onboard_time": 1662008255,
       "rank": 13,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 660983,
+      "num": 660983,
+      "word": "林书豪官宣加盟广州男篮",
+      "onboard_time": 1662364589,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 657511,
@@ -3771,6 +3811,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 476968,
+      "num": 476968,
+      "word": "肖战为四川祈福平安",
+      "onboard_time": 1662364168,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 476846,
       "num": 476846,
       "word": "教练你怎么不喝茶啊",
@@ -3825,6 +3873,14 @@
       "onboard_time": 1662349468,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 468296,
+      "num": 468296,
+      "word": "地震瞬间熊猫妈妈携幼崽室外避险",
+      "onboard_time": 1662364947,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 467893,
@@ -5363,6 +5419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 339282,
+      "num": 339282,
+      "word": "众星为四川泸定祈福",
+      "onboard_time": 1662361588,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 338993,
       "num": 292448,
       "word": "管泽元采访周杰伦",
@@ -5657,6 +5721,14 @@
       "onboard_time": 1662035668,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 326344,
+      "num": 326344,
+      "word": "如何对待喊男友哥哥的女生",
+      "onboard_time": 1662363689,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 324929,
@@ -5971,6 +6043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 308469,
+      "num": 308469,
+      "word": "四川1小时内连发7次地震",
+      "onboard_time": 1662365728,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308272,
       "num": 303199,
       "word": "武林外传官微否认翻拍",
@@ -6251,6 +6331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 294582,
+      "num": 294582,
+      "word": "乐山一小学地震预警期全部疏散",
+      "onboard_time": 1662363150,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293561,
       "num": 293561,
       "word": "顾客吐槽海底捞光锅底料碗就上百元",
@@ -6443,14 +6531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 286397,
-      "num": 286397,
-      "word": "如何对待喊男友哥哥的女生",
-      "onboard_time": 1662363689,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 286374,
       "num": 286374,
       "word": "胡一天向秦羽今晚见",
@@ -6619,6 +6699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 280662,
+      "num": 166045,
+      "word": "OPPO回应官方视频翻车",
+      "onboard_time": 1662364708,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 280647,
       "num": 280647,
       "word": "1945年民众得知日本投降后冲上街欢呼",
@@ -6689,6 +6777,14 @@
       "onboard_time": 1662344666,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 278195,
+      "num": 278195,
+      "word": "四川地震局2级地震应急响应",
+      "onboard_time": 1662363028,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 276456,
@@ -6891,6 +6987,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 269009,
+      "num": 269009,
+      "word": "KPL夏季赛最佳阵容候选人",
+      "onboard_time": 1662365189,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 268222,
       "num": 268222,
       "word": "KPL夏决我来聊",
@@ -6977,14 +7081,6 @@
       "onboard_time": 1662112827,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 265009,
-      "num": 265009,
-      "word": "四川地震局2级地震应急响应",
-      "onboard_time": 1662363028,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 264941,
@@ -7339,6 +7435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245491,
+      "num": 245491,
+      "word": "恋爱的夏天关系乱",
+      "onboard_time": 1662365130,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 244824,
       "num": 244824,
       "word": "无畏晒黑了",
@@ -7465,6 +7569,14 @@
       "onboard_time": 1662039809,
       "rank": 29,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 237567,
+      "num": 237567,
+      "word": "明日方舟",
+      "onboard_time": 1662366329,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 237216,
@@ -7723,14 +7835,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 225042,
-      "num": 225042,
-      "word": "乐山一小学地震预警期全部疏散",
-      "onboard_time": 1662363150,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 224969,
       "num": 155513,
       "word": "玄夜骗爱把自己搭进去了",
@@ -7752,6 +7856,14 @@
       "word": "河南增本土确诊1例无症状59例",
       "onboard_time": 1661996426,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224630,
+      "num": 224630,
+      "word": "四川海螺沟景区附近商户发声",
+      "onboard_time": 1662365430,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -8315,6 +8427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 199771,
+      "num": 548768,
+      "word": "泸定地震救援现场",
+      "onboard_time": 1662364830,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199442,
       "num": 150937,
       "word": "电影深海首发角色预告",
@@ -8683,6 +8803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182520,
+      "num": 182520,
+      "word": "被萌娃2分钟手绘的画惊艳到了",
+      "onboard_time": 1662366087,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182425,
       "num": 182425,
       "word": "吴易昺创中国大陆男网历史",
@@ -8841,6 +8969,14 @@
       "onboard_time": 1662209490,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 172440,
+      "num": 172440,
+      "word": "陈奕迅演唱会暂定18场",
+      "onboard_time": 1662362191,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 171770,
@@ -9777,14 +9913,6 @@
       "onboard_time": 1662178706,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 125575,
-      "num": 125575,
-      "word": "陈奕迅演唱会暂定18场",
-      "onboard_time": 1662362191,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 125176,
