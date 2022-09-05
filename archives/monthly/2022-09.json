@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662406417364,
+  "endTime": 1662409426716,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -11323,6 +11323,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 68017,
+      "num": 68017,
+      "word": "iPhone14Pro将配备更大电池",
+      "onboard_time": 1662405311,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 67728,
       "num": 67728,
       "word": "有理有据的单身原因",
@@ -11499,14 +11507,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 21489,
-      "num": 21489,
-      "word": "iPhone14Pro将配备更大电池",
-      "onboard_time": 1662405311,
-      "rank": 49,
-      "category": "科技"
-    },
-    {
       "raw_hot": 19784,
       "num": 19784,
       "word": "为了口吃的它真的好努力",
@@ -11553,6 +11553,14 @@
       "onboard_time": 1661973492,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 7221,
+      "num": 7221,
+      "word": "成都世乒赛国乒无直板参赛",
+      "onboard_time": 1662409151,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 7064,

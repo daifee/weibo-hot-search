@@ -1,6 +1,6 @@
 {
   "startTime": 1662395471045,
-  "endTime": 1662406417364,
+  "endTime": 1662409426716,
   "band_list": [
     {
       "raw_hot": 2547294,
@@ -411,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 68017,
+      "num": 68017,
+      "word": "iPhone14Pro将配备更大电池",
+      "onboard_time": 1662405311,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 66496,
       "num": 66496,
       "word": "原来猫咪也会脚麻",
@@ -435,12 +443,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 21489,
-      "num": 21489,
-      "word": "iPhone14Pro将配备更大电池",
-      "onboard_time": 1662405311,
+      "raw_hot": 7221,
+      "num": 7221,
+      "word": "成都世乒赛国乒无直板参赛",
+      "onboard_time": 1662409151,
       "rank": 49,
-      "category": "科技"
+      "category": "体育"
     }
   ],
   "hotgov_list": [
