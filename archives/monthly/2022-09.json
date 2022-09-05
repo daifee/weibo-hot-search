@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662417593214,
+  "endTime": 1662420265385,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -1595,6 +1595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1047025,
+      "num": 1047025,
+      "word": "地震造成中科院观测站垮塌1人遇难",
+      "onboard_time": 1662418339,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1046740,
       "num": 1046740,
       "word": "印度成为第五大经济体",
@@ -2369,6 +2377,14 @@
       "onboard_time": 1662173425,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 823069,
+      "num": 481207,
+      "word": "网传王一博国庆档三部电影同时上映",
+      "onboard_time": 1662415212,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 821085,
@@ -3699,6 +3715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 533612,
+      "num": 533612,
+      "word": "校长门口制止家长给孩子背书包",
+      "onboard_time": 1662394347,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 532790,
       "num": 532790,
       "word": "泰坦尼克号残骸8K画面公布",
@@ -4939,14 +4963,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 405383,
-      "num": 405383,
-      "word": "网传王一博国庆档三部电影同时上映",
-      "onboard_time": 1662415212,
-      "rank": 4,
-      "category": "影视"
-    },
-    {
       "raw_hot": 405064,
       "num": 405064,
       "word": "阿乐",
@@ -6113,6 +6129,14 @@
       "onboard_time": 1662093210,
       "rank": 36,
       "category": "教育,情感"
+    },
+    {
+      "raw_hot": 331833,
+      "num": 331833,
+      "word": "浙江一孩平均生育年龄27.33岁",
+      "onboard_time": 1662395782,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 331274,
@@ -8371,14 +8395,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 230508,
-      "num": 230508,
-      "word": "浙江一孩平均生育年龄27.33岁",
-      "onboard_time": 1662395782,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 230407,
       "num": 148170,
       "word": "花儿与少年收官夜",
@@ -8529,14 +8545,6 @@
       "onboard_time": 1662380608,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 225172,
-      "num": 225172,
-      "word": "校长门口制止家长给孩子背书包",
-      "onboard_time": 1662394347,
-      "rank": 38,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 224969,
@@ -8939,6 +8947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208842,
+      "num": 208842,
+      "word": "建议全国普及厦大图书馆标语",
+      "onboard_time": 1662418398,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 208680,
       "num": 208680,
       "word": "中国男篮线上公开采访",
@@ -9008,6 +9024,14 @@
       "word": "河南新增本土确诊13例无症状40例",
       "onboard_time": 1662200907,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206527,
+      "num": 206527,
+      "word": "郑州震感来源于此次四川地震",
+      "onboard_time": 1662411131,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -9209,6 +9233,14 @@
       "onboard_time": 1662261626,
       "rank": 29,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 198184,
+      "num": 198184,
+      "word": "iPhone14Pro将配备更大电池",
+      "onboard_time": 1662405311,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 197059,
@@ -9753,14 +9785,6 @@
       "onboard_time": 1662209490,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 172842,
-      "num": 172842,
-      "word": "郑州震感来源于此次四川地震",
-      "onboard_time": 1662411131,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171770,
@@ -10483,6 +10507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 139038,
+      "num": 139038,
+      "word": "3.2万余件救灾物资支援震区",
+      "onboard_time": 1662420082,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138990,
       "num": 138990,
       "word": "四川泸定地震当地房屋受损",
@@ -11027,6 +11059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 100513,
+      "num": 100513,
+      "word": "成都世乒赛国乒无直板参赛",
+      "onboard_time": 1662409151,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99181,
       "num": 99181,
       "word": "贵阳花溪区新增1例无症状感染者",
@@ -11097,6 +11137,14 @@
       "onboard_time": 1662188184,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 92620,
+      "num": 92620,
+      "word": "网传两个人的小森林定档9月15",
+      "onboard_time": 1662418339,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 91921,
@@ -11209,14 +11257,6 @@
       "onboard_time": 1661977930,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 83323,
-      "num": 83323,
-      "word": "iPhone14Pro将配备更大电池",
-      "onboard_time": 1662405311,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 83203,
@@ -11411,12 +11451,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 54469,
-      "num": 54469,
-      "word": "成都世乒赛国乒无直板参赛",
-      "onboard_time": 1662409151,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 53181,
+      "num": 53181,
+      "word": "李欣泽是沉香重华最大boss",
+      "onboard_time": 1662419601,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 49895,
@@ -11443,20 +11483,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 46687,
+      "num": 46687,
+      "word": "这只猫怎么还会外语",
+      "onboard_time": 1662411971,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 46322,
+      "num": 46322,
+      "word": "于文文说林楚萍的秘密要来了",
+      "onboard_time": 1662419901,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 45501,
       "num": 40114,
       "word": "魏晨穿了六年前同款西装",
       "onboard_time": 1662228194,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 43804,
-      "num": 43804,
-      "word": "这只猫怎么还会外语",
-      "onboard_time": 1662411971,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 40941,

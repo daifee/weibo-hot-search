@@ -1,0 +1,410 @@
+{
+  "runTime": 1662420265385,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2013670,
+        "num": 2013670,
+        "word": "泸定地震46人遇难",
+        "onboard_time": 1662392968,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1047025,
+        "num": 1047025,
+        "word": "地震造成中科院观测站垮塌1人遇难",
+        "onboard_time": 1662418339,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157018,
+        "num": 753242,
+        "word": "泸定地震最新动态",
+        "onboard_time": 1662382469,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 742389,
+        "num": 742389,
+        "word": "上海一商业广场雕塑被指性暗示",
+        "onboard_time": 1662388540,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 710696,
+        "num": 710696,
+        "word": "四川1小时内连发7次地震",
+        "onboard_time": 1662365728,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629110,
+        "num": 629110,
+        "word": "被公司发的月饼气到了",
+        "onboard_time": 1662386730,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 533612,
+        "num": 533612,
+        "word": "校长门口制止家长给孩子背书包",
+        "onboard_time": 1662394347,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 823069,
+        "num": 481207,
+        "word": "网传王一博国庆档三部电影同时上映",
+        "onboard_time": 1662415212,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 417556,
+        "num": 417556,
+        "word": "特拉斯当选英国首相",
+        "onboard_time": 1662378990,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 331833,
+        "num": 331833,
+        "word": "浙江一孩平均生育年龄27.33岁",
+        "onboard_time": 1662395782,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330992,
+        "num": 330992,
+        "word": "四川幼儿园小朋友地震中有序撤离",
+        "onboard_time": 1662385532,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296033,
+        "num": 296033,
+        "word": "爸爸给女儿买新笔袋炫耀一路",
+        "onboard_time": 1662390814,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286241,
+        "num": 286241,
+        "word": "网传韩剧鬼怪将翻拍中国版",
+        "onboard_time": 1662389317,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 285340,
+        "num": 285340,
+        "word": "财政紧急调拨1.5亿元支持四川抗震救灾",
+        "onboard_time": 1662388902,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250360,
+        "num": 250360,
+        "word": "QQ推出QQ学生卡",
+        "onboard_time": 1662387996,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 233633,
+        "num": 233633,
+        "word": "第31届金鹰奖首轮结果发布",
+        "onboard_time": 1662382350,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208842,
+        "num": 208842,
+        "word": "建议全国普及厦大图书馆标语",
+        "onboard_time": 1662418398,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 206527,
+        "num": 206527,
+        "word": "郑州震感来源于此次四川地震",
+        "onboard_time": 1662411131,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198184,
+        "num": 198184,
+        "word": "iPhone14Pro将配备更大电池",
+        "onboard_time": 1662405311,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 175120,
+        "num": 175120,
+        "word": "张子枫出席电影妈妈首映",
+        "onboard_time": 1662393448,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152134,
+        "num": 152134,
+        "word": "易烊千玺世间有她定妆照拍摄花絮",
+        "onboard_time": 1662382411,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139536,
+        "num": 139536,
+        "word": "好老师真的能改变一个人吗",
+        "onboard_time": 1662388839,
+        "rank": 21,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 139038,
+        "num": 139038,
+        "word": "3.2万余件救灾物资支援震区",
+        "onboard_time": 1662420082,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136116,
+        "num": 136116,
+        "word": "女子和狗子拉扯宛如情侣吵架翻版",
+        "onboard_time": 1662384328,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131518,
+        "num": 131518,
+        "word": "北京丰台新增1例感染者轨迹",
+        "onboard_time": 1662390395,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130319,
+        "num": 130319,
+        "word": "遇到彩色牛肉不要慌",
+        "onboard_time": 1662390452,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 115574,
+        "num": 115574,
+        "word": "梦华录 TVB",
+        "onboard_time": 1662389259,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113609,
+        "num": 113609,
+        "word": "中方要求美方立即停止不法行为",
+        "onboard_time": 1662372508,
+        "rank": 27,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 111738,
+        "num": 111738,
+        "word": "金世佳周寻什么时候上线",
+        "onboard_time": 1662389616,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 100513,
+        "num": 100513,
+        "word": "成都世乒赛国乒无直板参赛",
+        "onboard_time": 1662409151,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92747,
+        "num": 92747,
+        "word": "女子上网学做生腌虾食物中毒",
+        "onboard_time": 1662377431,
+        "rank": 30,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 92620,
+        "num": 92620,
+        "word": "网传两个人的小森林定档9月15",
+        "onboard_time": 1662418339,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 90754,
+        "num": 90754,
+        "word": "中国重型火箭发动机整机试车成功",
+        "onboard_time": 1662392250,
+        "rank": 32,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 86936,
+        "num": 86936,
+        "word": "湖南益阳现大量蜉蝣铺天盖地",
+        "onboard_time": 1662374792,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85399,
+        "num": 85399,
+        "word": "美方长期对中国手机用户无差别监听",
+        "onboard_time": 1662369748,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85256,
+        "num": 85256,
+        "word": "特警徒手刨土救出被埋男子",
+        "onboard_time": 1662382289,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82451,
+        "num": 82451,
+        "word": "住户连续一年高空抛物还扔剪刀",
+        "onboard_time": 1662383008,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80750,
+        "num": 80750,
+        "word": "车载监控拍下泸定地震瞬间",
+        "onboard_time": 1662395004,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73953,
+        "num": 73953,
+        "word": "航拍泸定地震震中磨西镇",
+        "onboard_time": 1662381270,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73839,
+        "num": 73839,
+        "word": "地震瞬间父亲把孩子紧紧护在怀里",
+        "onboard_time": 1662376589,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68832,
+        "num": 68832,
+        "word": "48家券商合计降薪超百亿",
+        "onboard_time": 1662389376,
+        "rank": 40,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 66558,
+        "num": 66558,
+        "word": "成毅长沙录制你好星期六",
+        "onboard_time": 1662386730,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 64407,
+        "num": 64407,
+        "word": "石家庄疫情防控",
+        "onboard_time": 1662371008,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61281,
+        "num": 61281,
+        "word": "妈妈也有她的烦恼吧",
+        "onboard_time": 1662391652,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 53181,
+        "num": 53181,
+        "word": "李欣泽是沉香重华最大boss",
+        "onboard_time": 1662419601,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 52368,
+        "num": 52368,
+        "word": "原来每个人都有收集癖",
+        "onboard_time": 1662381630,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 46687,
+        "num": 46687,
+        "word": "这只猫怎么还会外语",
+        "onboard_time": 1662411971,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 46322,
+        "num": 46322,
+        "word": "于文文说林楚萍的秘密要来了",
+        "onboard_time": 1662419901,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 41351,
+        "num": 41351,
+        "word": "四川疫情防控",
+        "onboard_time": 1662374372,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39903,
+        "num": 39903,
+        "word": "每个人都有穿搭自由",
+        "onboard_time": 1662388598,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把抢救生命作为首要任务#"
+    }
+  }
+}
