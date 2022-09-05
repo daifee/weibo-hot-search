@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662391444221,
+  "endTime": 1662392518046,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -848,6 +848,14 @@
       "word": "陈宇杨玲分手了",
       "onboard_time": 1662379229,
       "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1559908,
+      "num": 1559908,
+      "word": "网传今年金鹰女神赵今麦",
+      "onboard_time": 1662391473,
+      "rank": 3,
       "category": "影视"
     },
     {
@@ -1811,6 +1819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 970607,
+      "num": 970607,
+      "word": "上海一商业广场雕塑被指性暗示",
+      "onboard_time": 1662388540,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 968391,
       "num": 968391,
       "word": "终于有一部优质东方玄幻了",
@@ -2099,14 +2115,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 902335,
-      "num": 902335,
-      "word": "上海一商业广场雕塑被指性暗示",
-      "onboard_time": 1662388540,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 895423,
       "num": 895423,
       "word": "娄底警方通报撞人拖行事件",
@@ -2353,6 +2361,14 @@
       "onboard_time": 1662213276,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 821034,
+      "num": 821034,
+      "word": "财政紧急调拨1.5亿元支持四川抗震救灾",
+      "onboard_time": 1662388902,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 815327,
@@ -2617,14 +2633,6 @@
       "onboard_time": 1662043173,
       "rank": 9,
       "category": "军事,国外要闻"
-    },
-    {
-      "raw_hot": 726541,
-      "num": 726541,
-      "word": "财政紧急调拨1.5亿元支持四川抗震救灾",
-      "onboard_time": 1662388902,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 725908,
@@ -6467,6 +6475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311234,
+      "num": 311234,
+      "word": "遇到彩色牛肉不要慌",
+      "onboard_time": 1662390452,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 310944,
       "num": 310944,
       "word": "幸福到万家暑期档剧王",
@@ -6585,6 +6601,14 @@
       "onboard_time": 1662275547,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 305307,
+      "num": 305307,
+      "word": "爸爸给女儿买新笔袋炫耀一路",
+      "onboard_time": 1662390814,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 305192,
@@ -7211,6 +7235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 280831,
+      "num": 280831,
+      "word": "金世佳周寻什么时候上线",
+      "onboard_time": 1662389616,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 280811,
       "num": 280811,
       "word": "新规明确处方药可通过网络销售",
@@ -7553,14 +7585,6 @@
       "onboard_time": 1662365189,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 268854,
-      "num": 248075,
-      "word": "金世佳周寻什么时候上线",
-      "onboard_time": 1662389616,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 268222,
@@ -7961,6 +7985,14 @@
       "onboard_time": 1662126633,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 250528,
+      "num": 250528,
+      "word": "48家券商合计降薪超百亿",
+      "onboard_time": 1662389376,
+      "rank": 32,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 249075,
@@ -9035,14 +9067,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 201187,
-      "num": 201187,
-      "word": "48家券商合计降薪超百亿",
-      "onboard_time": 1662389376,
-      "rank": 32,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 201174,
       "num": 201174,
       "word": "2022LPL夏决",
@@ -9169,14 +9193,6 @@
       "onboard_time": 1662128433,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 194177,
-      "num": 194177,
-      "word": "遇到彩色牛肉不要慌",
-      "onboard_time": 1662390452,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 194085,
@@ -9761,14 +9777,6 @@
       "onboard_time": 1662292637,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 168200,
-      "num": 168200,
-      "word": "爸爸给女儿买新笔袋炫耀一路",
-      "onboard_time": 1662390814,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168119,
@@ -10723,6 +10731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124432,
+      "num": 124432,
+      "word": "妈妈也有她的烦恼吧",
+      "onboard_time": 1662391652,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 123681,
       "num": 123681,
       "word": "梦想对一个农村孩子来说有多重要",
@@ -11123,12 +11139,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 82927,
+      "num": 82927,
+      "word": "中国重型火箭发动机整机试车成功",
+      "onboard_time": 1662392250,
+      "rank": 48,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 81687,
       "num": 81687,
       "word": "铭记77年前的伟大胜利",
       "onboard_time": 1662160459,
       "rank": 40,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 80425,
+      "num": 419536,
+      "word": "老师地震时轮流背学生撤离",
+      "onboard_time": 1662390035,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 80096,
@@ -11305,14 +11337,6 @@
       "onboard_time": 1662228194,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 44511,
-      "num": 419536,
-      "word": "老师地震时轮流背学生撤离",
-      "onboard_time": 1662390035,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 40941,
