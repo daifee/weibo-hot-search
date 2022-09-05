@@ -1,6 +1,6 @@
 {
   "startTime": 1662395471045,
-  "endTime": 1662396942049,
+  "endTime": 1662398743626,
   "band_list": [
     {
       "raw_hot": 2547294,
@@ -107,6 +107,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 286985,
+      "num": 286985,
+      "word": "望泸定平安",
+      "onboard_time": 1662398596,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285243,
       "num": 285243,
       "word": "第31届金鹰奖首轮结果发布",
@@ -193,6 +201,14 @@
       "onboard_time": 1662378150,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 170735,
+      "num": 170735,
+      "word": "浙江一孩平均生育年龄27.33岁",
+      "onboard_time": 1662395782,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161888,
@@ -331,14 +347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 89270,
-      "num": 89270,
-      "word": "浙江一孩平均生育年龄27.33岁",
-      "onboard_time": 1662395782,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 87310,
       "num": 87310,
       "word": "卜冠今演的姜小果好让人共情",
@@ -355,19 +363,19 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 84113,
+      "num": 84113,
+      "word": "车载监控拍下泸定地震瞬间",
+      "onboard_time": 1662395004,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83344,
       "num": 83344,
       "word": "泸定地震多人被救出",
       "onboard_time": 1662385892,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 78298,
-      "num": 78298,
-      "word": "车载监控拍下泸定地震瞬间",
-      "onboard_time": 1662395004,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -409,6 +417,14 @@
       "onboard_time": 1662367170,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 43398,
+      "num": 43398,
+      "word": "电影我要和你在一起",
+      "onboard_time": 1662397997,
+      "rank": 42,
+      "category": "影视"
     }
   ],
   "hotgov_list": [

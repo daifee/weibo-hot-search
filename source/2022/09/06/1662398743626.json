@@ -1,0 +1,410 @@
+{
+  "runTime": 1662398743626,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1379934,
+        "num": 1379934,
+        "word": "泸定地震46人遇难",
+        "onboard_time": 1662392968,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591690,
+        "num": 591690,
+        "word": "特拉斯当选英国首相",
+        "onboard_time": 1662378990,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 127703,
+        "num": 486924,
+        "word": "泸定地震最新动态",
+        "onboard_time": 1662382469,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 482509,
+        "num": 482509,
+        "word": "财政紧急调拨1.5亿元支持四川抗震救灾",
+        "onboard_time": 1662388902,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362385,
+        "num": 362385,
+        "word": "被公司发的月饼气到了",
+        "onboard_time": 1662386730,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 323560,
+        "num": 323560,
+        "word": "上海一商业广场雕塑被指性暗示",
+        "onboard_time": 1662388540,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293395,
+        "num": 293395,
+        "word": "QQ推出QQ学生卡",
+        "onboard_time": 1662387996,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 286985,
+        "num": 286985,
+        "word": "望泸定平安",
+        "onboard_time": 1662398596,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237965,
+        "num": 237965,
+        "word": "张子枫出席电影妈妈首映",
+        "onboard_time": 1662393448,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229348,
+        "num": 229348,
+        "word": "四川1小时内连发7次地震",
+        "onboard_time": 1662365728,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178608,
+        "num": 178608,
+        "word": "爸爸给女儿买新笔袋炫耀一路",
+        "onboard_time": 1662390814,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177163,
+        "num": 177163,
+        "word": "校长门口制止家长给孩子背书包",
+        "onboard_time": 1662394347,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 173310,
+        "num": 173310,
+        "word": "网传韩剧鬼怪将翻拍中国版",
+        "onboard_time": 1662389317,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170735,
+        "num": 170735,
+        "word": "浙江一孩平均生育年龄27.33岁",
+        "onboard_time": 1662395782,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135805,
+        "num": 135805,
+        "word": "梦华录 TVB",
+        "onboard_time": 1662389259,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135191,
+        "num": 135191,
+        "word": "四川幼儿园小朋友地震中有序撤离",
+        "onboard_time": 1662385532,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132190,
+        "num": 132190,
+        "word": "第31届金鹰奖首轮结果发布",
+        "onboard_time": 1662382350,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128071,
+        "num": 128071,
+        "word": "遇到彩色牛肉不要慌",
+        "onboard_time": 1662390452,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 126153,
+        "num": 126153,
+        "word": "女子上网学做生腌虾食物中毒",
+        "onboard_time": 1662377431,
+        "rank": 18,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 111820,
+        "num": 111820,
+        "word": "和偶像同居是种什么体验",
+        "onboard_time": 1662378150,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110206,
+        "num": 110206,
+        "word": "原来每个人都有收集癖",
+        "onboard_time": 1662381630,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102038,
+        "num": 102038,
+        "word": "易烊千玺世间有她定妆照拍摄花絮",
+        "onboard_time": 1662382411,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 94840,
+        "num": 94840,
+        "word": "王鹤棣尼龙杂志9月销量",
+        "onboard_time": 1662374848,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 92379,
+        "num": 92379,
+        "word": "地震瞬间父亲把孩子紧紧护在怀里",
+        "onboard_time": 1662376589,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86937,
+        "num": 86937,
+        "word": "中国重型火箭发动机整机试车成功",
+        "onboard_time": 1662392250,
+        "rank": 24,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 84113,
+        "num": 84113,
+        "word": "车载监控拍下泸定地震瞬间",
+        "onboard_time": 1662395004,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82134,
+        "num": 82134,
+        "word": "航拍泸定地震震中磨西镇",
+        "onboard_time": 1662381270,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79965,
+        "num": 79965,
+        "word": "美方长期对中国手机用户无差别监听",
+        "onboard_time": 1662369748,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79224,
+        "num": 79224,
+        "word": "金世佳周寻什么时候上线",
+        "onboard_time": 1662389616,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 77811,
+        "num": 77811,
+        "word": "你可以永远相信许嵩的中国风",
+        "onboard_time": 1662394468,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 77504,
+        "num": 77504,
+        "word": "中方要求美方立即停止不法行为",
+        "onboard_time": 1662372508,
+        "rank": 30,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 74434,
+        "num": 74434,
+        "word": "罚罪",
+        "onboard_time": 1662382709,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 67408,
+        "num": 67408,
+        "word": "妈妈也有她的烦恼吧",
+        "onboard_time": 1662391652,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 57712,
+        "num": 57712,
+        "word": "48家券商合计降薪超百亿",
+        "onboard_time": 1662389376,
+        "rank": 33,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 56432,
+        "num": 56432,
+        "word": "苍兰诀英文字幕",
+        "onboard_time": 1662389973,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 56088,
+        "num": 56088,
+        "word": "住户连续一年高空抛物还扔剪刀",
+        "onboard_time": 1662383008,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54695,
+        "num": 54695,
+        "word": "湖南益阳现大量蜉蝣铺天盖地",
+        "onboard_time": 1662374792,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53889,
+        "num": 53889,
+        "word": "好老师真的能改变一个人吗",
+        "onboard_time": 1662388839,
+        "rank": 37,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 52276,
+        "num": 52276,
+        "word": "北京丰台新增1例感染者轨迹",
+        "onboard_time": 1662390395,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48843,
+        "num": 48843,
+        "word": "消失的孩子",
+        "onboard_time": 1662380309,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 47330,
+        "num": 47330,
+        "word": "女子和狗子拉扯宛如情侣吵架翻版",
+        "onboard_time": 1662384328,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44837,
+        "num": 44837,
+        "word": "成毅长沙录制你好星期六",
+        "onboard_time": 1662386730,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 43398,
+        "num": 43398,
+        "word": "电影我要和你在一起",
+        "onboard_time": 1662397997,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 42927,
+        "num": 42927,
+        "word": "卜冠今演的姜小果好让人共情",
+        "onboard_time": 1662385952,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 42477,
+        "num": 42477,
+        "word": "原来猫咪也会脚麻",
+        "onboard_time": 1662386910,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 42114,
+        "num": 42114,
+        "word": "泸定地震多人被救出",
+        "onboard_time": 1662385892,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41911,
+        "num": 41911,
+        "word": "特警徒手刨土救出被埋男子",
+        "onboard_time": 1662382289,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39794,
+        "num": 39794,
+        "word": "石家庄疫情防控",
+        "onboard_time": 1662371008,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39707,
+        "num": 39707,
+        "word": "每个人都有穿搭自由",
+        "onboard_time": 1662388598,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 38525,
+        "num": 38525,
+        "word": "今年中秋夜十五的月亮十五圆",
+        "onboard_time": 1662393088,
+        "rank": 49,
+        "category": "自然,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把抢救生命作为首要任务#"
+    }
+  }
+}
