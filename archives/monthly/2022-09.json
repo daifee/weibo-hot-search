@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662405468222,
+  "endTime": 1662406417364,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -11499,6 +11499,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 21489,
+      "num": 21489,
+      "word": "iPhone14Pro将配备更大电池",
+      "onboard_time": 1662405311,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 19784,
       "num": 19784,
       "word": "为了口吃的它真的好努力",
@@ -11521,14 +11529,6 @@
       "onboard_time": 1662060791,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 10649,
-      "num": 10649,
-      "word": "iPhone14Pro将配备更大电池",
-      "onboard_time": 1662405311,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 9963,
