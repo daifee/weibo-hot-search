@@ -1,6 +1,6 @@
 {
   "startTime": 1662395471045,
-  "endTime": 1662416580423,
+  "endTime": 1662417593214,
   "band_list": [
     {
       "raw_hot": 2547294,
@@ -75,6 +75,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 426409,
+      "num": 426409,
+      "word": "四川1小时内连发7次地震",
+      "onboard_time": 1662365728,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 405383,
+      "num": 405383,
+      "word": "网传王一博国庆档三部电影同时上映",
+      "onboard_time": 1662415212,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 351847,
       "num": 351847,
       "word": "梦华录 TVB",
@@ -105,14 +121,6 @@
       "onboard_time": 1662390452,
       "rank": 12,
       "category": "美食"
-    },
-    {
-      "raw_hot": 296470,
-      "num": 296470,
-      "word": "四川1小时内连发7次地震",
-      "onboard_time": 1662365728,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 286985,
@@ -155,12 +163,20 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 245365,
-      "num": 245365,
-      "word": "网传王一博国庆档三部电影同时上映",
-      "onboard_time": 1662415212,
-      "rank": 4,
-      "category": "影视"
+      "raw_hot": 230508,
+      "num": 230508,
+      "word": "浙江一孩平均生育年龄27.33岁",
+      "onboard_time": 1662395782,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225172,
+      "num": 225172,
+      "word": "校长门口制止家长给孩子背书包",
+      "onboard_time": 1662394347,
+      "rank": 38,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 218474,
@@ -195,14 +211,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 190369,
-      "num": 190369,
-      "word": "浙江一孩平均生育年龄27.33岁",
-      "onboard_time": 1662395782,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 183740,
       "num": 183740,
       "word": "地震瞬间父亲把孩子紧紧护在怀里",
@@ -211,20 +219,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 181329,
-      "num": 181329,
-      "word": "校长门口制止家长给孩子背书包",
-      "onboard_time": 1662394347,
-      "rank": 38,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 175397,
       "num": 175397,
       "word": "和偶像同居是种什么体验",
       "onboard_time": 1662378150,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 172842,
+      "num": 172842,
+      "word": "郑州震感来源于此次四川地震",
+      "onboard_time": 1662411131,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161888,
@@ -264,14 +272,6 @@
       "word": "航拍泸定地震震中磨西镇",
       "onboard_time": 1662381270,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147077,
-      "num": 128398,
-      "word": "郑州震感来源于此次四川地震",
-      "onboard_time": 1662411131,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -403,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83323,
+      "num": 83323,
+      "word": "iPhone14Pro将配备更大电池",
+      "onboard_time": 1662405311,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 73830,
       "num": 73830,
       "word": "特警徒手刨土救出被埋男子",
@@ -425,14 +433,6 @@
       "onboard_time": 1662373170,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 68017,
-      "num": 68017,
-      "word": "iPhone14Pro将配备更大电池",
-      "onboard_time": 1662405311,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 66496,
@@ -459,24 +459,24 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 49329,
-      "num": 49329,
+      "raw_hot": 54469,
+      "num": 54469,
       "word": "成都世乒赛国乒无直板参赛",
       "onboard_time": 1662409151,
       "rank": 49,
       "category": "体育"
     },
     {
-      "raw_hot": 30503,
-      "num": 30503,
+      "raw_hot": 43804,
+      "num": 43804,
       "word": "这只猫怎么还会外语",
       "onboard_time": 1662411971,
       "rank": 48,
       "category": "幽默"
     },
     {
-      "raw_hot": 16608,
-      "num": 16608,
+      "raw_hot": 18125,
+      "num": 18125,
       "word": "我眼中的团圆",
       "onboard_time": 1662413110,
       "rank": 33,

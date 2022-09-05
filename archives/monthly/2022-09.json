@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662416580423,
+  "endTime": 1662417593214,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -4939,6 +4939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 405383,
+      "num": 405383,
+      "word": "网传王一博国庆档三部电影同时上映",
+      "onboard_time": 1662415212,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 405064,
       "num": 405064,
       "word": "阿乐",
@@ -8099,14 +8107,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 245365,
-      "num": 245365,
-      "word": "网传王一博国庆档三部电影同时上映",
-      "onboard_time": 1662415212,
-      "rank": 4,
-      "category": "影视"
-    },
-    {
       "raw_hot": 244824,
       "num": 244824,
       "word": "无畏晒黑了",
@@ -8371,6 +8371,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 230508,
+      "num": 230508,
+      "word": "浙江一孩平均生育年龄27.33岁",
+      "onboard_time": 1662395782,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230407,
       "num": 148170,
       "word": "花儿与少年收官夜",
@@ -8521,6 +8529,14 @@
       "onboard_time": 1662380608,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 225172,
+      "num": 225172,
+      "word": "校长门口制止家长给孩子背书包",
+      "onboard_time": 1662394347,
+      "rank": 38,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 224969,
@@ -9347,14 +9363,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 190369,
-      "num": 190369,
-      "word": "浙江一孩平均生育年龄27.33岁",
-      "onboard_time": 1662395782,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190087,
       "num": 132989,
       "word": "小威晋级美网女单32强",
@@ -9627,14 +9635,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 181329,
-      "num": 181329,
-      "word": "校长门口制止家长给孩子背书包",
-      "onboard_time": 1662394347,
-      "rank": 38,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 181219,
       "num": 181219,
       "word": "军哥哥变菌哥哥带村民4年挣1亿",
@@ -9753,6 +9753,14 @@
       "onboard_time": 1662209490,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 172842,
+      "num": 172842,
+      "word": "郑州震感来源于此次四川地震",
+      "onboard_time": 1662411131,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171770,
@@ -10337,14 +10345,6 @@
       "onboard_time": 1662215734,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 147077,
-      "num": 128398,
-      "word": "郑州震感来源于此次四川地震",
-      "onboard_time": 1662411131,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146848,
@@ -11211,6 +11211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83323,
+      "num": 83323,
+      "word": "iPhone14Pro将配备更大电池",
+      "onboard_time": 1662405311,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 83203,
       "num": 83203,
       "word": "跳不出手掌心的小猫一枚",
@@ -11339,14 +11347,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 68017,
-      "num": 68017,
-      "word": "iPhone14Pro将配备更大电池",
-      "onboard_time": 1662405311,
-      "rank": 49,
-      "category": "科技"
-    },
-    {
       "raw_hot": 67728,
       "num": 67728,
       "word": "有理有据的单身原因",
@@ -11411,20 +11411,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 54469,
+      "num": 54469,
+      "word": "成都世乒赛国乒无直板参赛",
+      "onboard_time": 1662409151,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 49895,
       "num": 543184,
       "word": "救火英雄驰援泸定",
       "onboard_time": 1662372028,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 49329,
-      "num": 49329,
-      "word": "成都世乒赛国乒无直板参赛",
-      "onboard_time": 1662409151,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 47444,
@@ -11451,6 +11451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43804,
+      "num": 43804,
+      "word": "这只猫怎么还会外语",
+      "onboard_time": 1662411971,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 40941,
       "num": 40941,
       "word": "林峯吴卓羲早期唱跳舞台",
@@ -11473,14 +11481,6 @@
       "onboard_time": 1662207089,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 30503,
-      "num": 30503,
-      "word": "这只猫怎么还会外语",
-      "onboard_time": 1662411971,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 27800,
@@ -11547,8 +11547,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 16608,
-      "num": 16608,
+      "raw_hot": 18125,
+      "num": 18125,
       "word": "我眼中的团圆",
       "onboard_time": 1662413110,
       "rank": 33,
