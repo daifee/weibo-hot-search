@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662388721443,
+  "endTime": 1662391444221,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -51,8 +51,8 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 3506592,
-      "num": 3506592,
+      "raw_hot": 3521439,
+      "num": 3521439,
       "word": "泸定地震已致超30人遇难",
       "onboard_time": 1662385952,
       "rank": 32,
@@ -105,6 +105,14 @@
       "onboard_time": 1662365008,
       "rank": 6,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 2236954,
+      "num": 2236954,
+      "word": "网传韩剧鬼怪将翻拍中国版",
+      "onboard_time": 1662389317,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 2190098,
@@ -177,6 +185,14 @@
       "onboard_time": 1662363868,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1710538,
+      "num": 1710538,
+      "word": "被公司发的月饼气到了",
+      "onboard_time": 1662386730,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 1587890,
@@ -283,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1084298,
+      "num": 1084298,
+      "word": "QQ推出QQ学生卡",
+      "onboard_time": 1662387996,
+      "rank": 10,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1080219,
       "num": 1080219,
       "word": "世界游泳冠军遭酒店救生员暴力威胁",
@@ -347,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1017812,
+      "num": 1017812,
+      "word": "奥迪闯红灯追尾又撞飞行人致2死2伤",
+      "onboard_time": 1662385832,
+      "rank": 47,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1008742,
       "num": 1008742,
       "word": "市民住35楼称地震时像坐大摆锤",
@@ -387,14 +419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 955643,
-      "num": 955643,
-      "word": "被公司发的月饼气到了",
-      "onboard_time": 1662386730,
-      "rank": 15,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 949347,
       "num": 949347,
       "word": "Light哭了",
@@ -427,20 +451,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 926453,
-      "num": 926453,
-      "word": "奥迪闯红灯追尾又撞飞行人致2死2伤",
-      "onboard_time": 1662385832,
-      "rank": 47,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 917848,
       "num": 917848,
       "word": "易烊千玺世间有她定妆照拍摄花絮",
       "onboard_time": 1662382411,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 902335,
+      "num": 902335,
+      "word": "上海一商业广场雕塑被指性暗示",
+      "onboard_time": 1662388540,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 886862,
@@ -521,6 +545,22 @@
       "onboard_time": 1662369448,
       "rank": 39,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 750606,
+      "num": 750606,
+      "word": "梦华录 TVB",
+      "onboard_time": 1662389259,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 726541,
+      "num": 726541,
+      "word": "财政紧急调拨1.5亿元支持四川抗震救灾",
+      "onboard_time": 1662388902,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 720567,
@@ -745,14 +785,6 @@
       "onboard_time": 1662307285,
       "rank": 8,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 518180,
-      "num": 518180,
-      "word": "QQ推出QQ学生卡",
-      "onboard_time": 1662387996,
-      "rank": 10,
-      "category": "科技"
     },
     {
       "raw_hot": 517766,
@@ -1163,6 +1195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 351655,
+      "num": 351655,
+      "word": "北京丰台新增1例感染者轨迹",
+      "onboard_time": 1662390395,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 346473,
       "num": 346473,
       "word": "小小姐们",
@@ -1563,6 +1603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 270995,
+      "num": 270995,
+      "word": "苍兰诀英文字幕",
+      "onboard_time": 1662389973,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 270741,
       "num": 270741,
       "word": "四川多家医院前往泸定救援",
@@ -1585,6 +1633,14 @@
       "onboard_time": 1662365189,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 268854,
+      "num": 248075,
+      "word": "金世佳周寻什么时候上线",
+      "onboard_time": 1662389616,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 267672,
@@ -1673,6 +1729,14 @@
       "onboard_time": 1662315254,
       "rank": 1,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 243712,
+      "num": 243712,
+      "word": "好老师真的能改变一个人吗",
+      "onboard_time": 1662388839,
+      "rank": 26,
+      "category": "教育,情感"
     },
     {
       "raw_hot": 243553,
@@ -1827,6 +1891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215319,
+      "num": 215319,
+      "word": "泸定地震多人被救出",
+      "onboard_time": 1662385892,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212576,
       "num": 212576,
       "word": "油价",
@@ -1899,6 +1971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 201187,
+      "num": 201187,
+      "word": "48家券商合计降薪超百亿",
+      "onboard_time": 1662389376,
+      "rank": 32,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 200282,
       "num": 200282,
       "word": "四川男孩教科书式带领弟弟避震",
@@ -1923,12 +2003,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 193724,
-      "num": 193724,
-      "word": "泸定地震多人被救出",
-      "onboard_time": 1662385892,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 194177,
+      "num": 194177,
+      "word": "遇到彩色牛肉不要慌",
+      "onboard_time": 1662390452,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 192523,
@@ -2091,12 +2171,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168200,
+      "num": 168200,
+      "word": "爸爸给女儿买新笔袋炫耀一路",
+      "onboard_time": 1662390814,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166941,
       "num": 166941,
       "word": "明媒善娶获得网剧发行许可证",
       "onboard_time": 1662355604,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 166800,
+      "num": 166800,
+      "word": "每个人都有穿搭自由",
+      "onboard_time": 1662388598,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 165511,
@@ -2355,28 +2451,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 95540,
-      "num": 95540,
-      "word": "上海一商业广场雕塑被指性暗示",
-      "onboard_time": 1662388540,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 91148,
       "num": 91148,
       "word": "7条定律助你提升自我",
       "onboard_time": 1662307348,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 86879,
-      "num": 86879,
-      "word": "每个人都有穿搭自由",
-      "onboard_time": 1662388598,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 85780,
@@ -2467,6 +2547,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 44511,
+      "num": 419536,
+      "word": "老师地震时轮流背学生撤离",
+      "onboard_time": 1662390035,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39686,
       "num": 882344,
       "word": "2022服贸会观展指北",
@@ -2497,6 +2585,14 @@
       "onboard_time": 1662386430,
       "rank": 14,
       "category": "体育,财经"
+    },
+    {
+      "raw_hot": 23158,
+      "num": 167147,
+      "word": "媒体评9个普通人登上19个app头条",
+      "onboard_time": 1662390035,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11564,
