@@ -1,10 +1,26 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662353354538,
+  "endTime": 1662354191726,
   "band_list": [
     {
-      "raw_hot": 3457492,
-      "num": 3457492,
+      "raw_hot": 7163991,
+      "num": 8413991,
+      "word": "成都地震",
+      "onboard_time": 1662354044,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4644891,
+      "num": 194409,
+      "word": "四川地震",
+      "onboard_time": 1662354166,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3617586,
+      "num": 3617586,
       "word": "西北工业大学遭美国NSA网络攻击",
       "onboard_time": 1662345203,
       "rank": 0,
@@ -19,8 +35,8 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 1844283,
-      "num": 1402650,
+      "raw_hot": 2830122,
+      "num": 2830122,
       "word": "开始推理吧 张若昀唐艺昕结婚照",
       "onboard_time": 1662352650,
       "rank": 3,
@@ -83,6 +99,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 1054503,
+      "num": 1054503,
+      "word": "华为Mate50价格曝光",
+      "onboard_time": 1662351570,
+      "rank": 10,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1043255,
       "num": 1043255,
       "word": "接亲时新娘发脾气新郎教科书式求和",
@@ -97,6 +121,14 @@
       "onboard_time": 1662343886,
       "rank": 13,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1020346,
+      "num": 1020346,
+      "word": "曝乔丹儿子约会皮蓬前妻",
+      "onboard_time": 1662352290,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 992497,
@@ -163,11 +195,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 746252,
-      "num": 746252,
-      "word": "华为Mate50价格曝光",
-      "onboard_time": 1662351570,
-      "rank": 10,
+      "raw_hot": 711410,
+      "num": 711410,
+      "word": "微信输入法要占内存524MB",
+      "onboard_time": 1662350490,
+      "rank": 12,
       "category": "科技"
     },
     {
@@ -203,6 +235,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 688548,
+      "num": 688548,
+      "word": "陈奕迅演唱会",
+      "onboard_time": 1662348147,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 687530,
       "num": 305382,
       "word": "三问宝马女撞人拖行事件",
@@ -211,12 +251,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 664417,
-      "num": 664417,
-      "word": "陈奕迅演唱会",
-      "onboard_time": 1662348147,
-      "rank": 11,
-      "category": "音乐"
+      "raw_hot": 685354,
+      "num": 685354,
+      "word": "360",
+      "onboard_time": 1662351872,
+      "rank": 17,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 657785,
@@ -243,14 +283,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 596396,
-      "num": 596396,
-      "word": "微信输入法要占内存524MB",
-      "onboard_time": 1662350490,
-      "rank": 12,
-      "category": "科技"
-    },
-    {
       "raw_hot": 570043,
       "num": 570043,
       "word": "周峻纬甩主持流程卡",
@@ -275,12 +307,12 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 521609,
-      "num": 521609,
-      "word": "曝乔丹儿子约会皮蓬前妻",
-      "onboard_time": 1662352290,
-      "rank": 14,
-      "category": "体育"
+      "raw_hot": 525986,
+      "num": 525986,
+      "word": "特朗普可能已卖掉白宫机密文件",
+      "onboard_time": 1662353130,
+      "rank": 43,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 507073,
@@ -305,6 +337,14 @@
       "onboard_time": 1662347546,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 481529,
+      "num": 481529,
+      "word": "陪你吃苦的女孩还在身边吗",
+      "onboard_time": 1662350307,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 471198,
@@ -337,22 +377,6 @@
       "onboard_time": 1662341784,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 446156,
-      "num": 446156,
-      "word": "360",
-      "onboard_time": 1662351872,
-      "rank": 17,
-      "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 436319,
-      "num": 436319,
-      "word": "陪你吃苦的女孩还在身边吗",
-      "onboard_time": 1662350307,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 430104,
@@ -667,12 +691,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 252687,
-      "num": 252687,
+      "raw_hot": 262768,
+      "num": 262768,
       "word": "共享单车扣车变成产业链",
       "onboard_time": 1662351692,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257800,
+      "num": 257800,
+      "word": "国内油价或迎大幅度上涨",
+      "onboard_time": 1662350909,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251550,
+      "num": 251550,
+      "word": "山东一小学为患病学生装电梯",
+      "onboard_time": 1662353430,
+      "rank": 37,
+      "category": "社会正能量,教育"
     },
     {
       "raw_hot": 244143,
@@ -787,14 +827,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 224689,
-      "num": 224689,
-      "word": "国内油价或迎大幅度上涨",
-      "onboard_time": 1662350909,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 220304,
       "num": 185614,
       "word": "赵露思孟美岐对手戏",
@@ -843,8 +875,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 199436,
-      "num": 199436,
+      "raw_hot": 201638,
+      "num": 201638,
       "word": "车银优将出演新剧今天也很可爱",
       "onboard_time": 1662351150,
       "rank": 40,
@@ -857,14 +889,6 @@
       "onboard_time": 1662350669,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 196190,
-      "num": 196190,
-      "word": "特朗普可能已卖掉白宫机密文件",
-      "onboard_time": 1662353130,
-      "rank": 43,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 192523,
@@ -1132,7 +1156,7 @@
     },
     {
       "raw_hot": 85506,
-      "num": 1403719,
+      "num": 2924244,
       "word": "航拍看长城美如画卷",
       "onboard_time": 1662346047,
       "rank": 2,

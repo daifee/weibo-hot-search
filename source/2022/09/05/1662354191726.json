@@ -1,0 +1,410 @@
+{
+  "runTime": 1662354191726,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7163991,
+        "num": 8413991,
+        "word": "成都地震",
+        "onboard_time": 1662354044,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3617586,
+        "num": 3617586,
+        "word": "西北工业大学遭美国NSA网络攻击",
+        "onboard_time": 1662345203,
+        "rank": 1,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 83601,
+        "num": 2924244,
+        "word": "航拍看长城美如画卷",
+        "onboard_time": 1662346047,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2830122,
+        "num": 2830122,
+        "word": "开始推理吧 张若昀唐艺昕结婚照",
+        "onboard_time": 1662352650,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2161110,
+        "num": 2161110,
+        "word": "大学生未来结婚意愿高于预期",
+        "onboard_time": 1662340706,
+        "rank": 4,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 1398395,
+        "num": 1398395,
+        "word": "女租客退房房东挑刺马桶不退押金",
+        "onboard_time": 1662349229,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1071160,
+        "num": 1071160,
+        "word": "美国安局窃取中国网络数据超140G",
+        "onboard_time": 1662347966,
+        "rank": 6,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 1054503,
+        "num": 1054503,
+        "word": "华为Mate50价格曝光",
+        "onboard_time": 1662351570,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1020346,
+        "num": 1020346,
+        "word": "曝乔丹儿子约会皮蓬前妻",
+        "onboard_time": 1662352290,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1000440,
+        "num": 1000440,
+        "word": "接亲时新娘发脾气新郎教科书式求和",
+        "onboard_time": 1662347245,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 993657,
+        "num": 993657,
+        "word": "iPhone14已产逾3400万部",
+        "onboard_time": 1662343287,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 783898,
+        "num": 783898,
+        "word": "喜茶原神",
+        "onboard_time": 1662346766,
+        "rank": 11,
+        "category": "美食,游戏"
+      },
+      {
+        "raw_hot": 711410,
+        "num": 711410,
+        "word": "微信输入法要占内存524MB",
+        "onboard_time": 1662350490,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 695512,
+        "num": 695512,
+        "word": "警方回应工人坐氢气球飘走",
+        "onboard_time": 1662347604,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 688548,
+        "num": 688548,
+        "word": "陈奕迅演唱会",
+        "onboard_time": 1662348147,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 685354,
+        "num": 685354,
+        "word": "360",
+        "onboard_time": 1662351872,
+        "rank": 15,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 525986,
+        "num": 525986,
+        "word": "特朗普可能已卖掉白宫机密文件",
+        "onboard_time": 1662353130,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 485933,
+        "num": 485933,
+        "word": "原来真的有洗羊羊",
+        "onboard_time": 1662344482,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481529,
+        "num": 481529,
+        "word": "陪你吃苦的女孩还在身边吗",
+        "onboard_time": 1662350307,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 463921,
+        "num": 463921,
+        "word": "何润东又拿了步惊云的剧本",
+        "onboard_time": 1662349468,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 384519,
+        "num": 384519,
+        "word": "虞书欣王鹤棣合拍视频",
+        "onboard_time": 1662347546,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 369620,
+        "num": 369620,
+        "word": "护士考前把猫咪当患者练习护理",
+        "onboard_time": 1662345867,
+        "rank": 21,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 368071,
+        "num": 368071,
+        "word": "坐氢气球飘走工人已找到",
+        "onboard_time": 1662350129,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330347,
+        "num": 330347,
+        "word": "如何看待华为mate50硬刚苹果",
+        "onboard_time": 1662343886,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 319889,
+        "num": 319889,
+        "word": "南京江宁警方回应190万诈骗案拒不立案",
+        "onboard_time": 1662348268,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313008,
+        "num": 313008,
+        "word": "谢娜探访中国最聪明的工厂",
+        "onboard_time": 1662350909,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 312811,
+        "num": 312811,
+        "word": "男子醉酒爬上天台横梁睡了一宿",
+        "onboard_time": 1662348446,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293381,
+        "num": 293381,
+        "word": "徐璐音乐节vlog",
+        "onboard_time": 1662350970,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 276639,
+        "num": 276639,
+        "word": "王一博无名黑西装造型",
+        "onboard_time": 1662348025,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271116,
+        "num": 271116,
+        "word": "四川新增本土确诊105例",
+        "onboard_time": 1662341427,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390881,
+        "num": 269281,
+        "word": "iPhone14预售价现身",
+        "onboard_time": 1662338488,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 346925,
+        "num": 268020,
+        "word": "抖音让我证明鲍勃迪伦拿过诺贝尔文学奖",
+        "onboard_time": 1662347908,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 266084,
+        "num": 266084,
+        "word": "国内油价五连跌或终结",
+        "onboard_time": 1662346825,
+        "rank": 32,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 262768,
+        "num": 262768,
+        "word": "共享单车扣车变成产业链",
+        "onboard_time": 1662351692,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257800,
+        "num": 257800,
+        "word": "国内油价或迎大幅度上涨",
+        "onboard_time": 1662350909,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257544,
+        "num": 257544,
+        "word": "亲爱的生命央视定档",
+        "onboard_time": 1662351089,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257411,
+        "num": 257411,
+        "word": "冰雨火英文名是吴振峰陈宇的成长线",
+        "onboard_time": 1662351930,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251550,
+        "num": 251550,
+        "word": "山东一小学为患病学生装电梯",
+        "onboard_time": 1662353430,
+        "rank": 37,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 250899,
+        "num": 250899,
+        "word": "美国NSA网络攻击中国上万次",
+        "onboard_time": 1662345685,
+        "rank": 38,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 248886,
+        "num": 248886,
+        "word": "余霜",
+        "onboard_time": 1662336506,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 238313,
+        "num": 238313,
+        "word": "原来瀑布还可以这么拍",
+        "onboard_time": 1662344846,
+        "rank": 40,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 236425,
+        "num": 236425,
+        "word": "张杰新歌",
+        "onboard_time": 1662351509,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 211700,
+        "num": 211700,
+        "word": "AirPodsPro2将随iPhone14一起发布",
+        "onboard_time": 1662340225,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 204392,
+        "num": 204392,
+        "word": "货车高速散落6000颗钉子30辆车被扎",
+        "onboard_time": 1662341186,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201638,
+        "num": 201638,
+        "word": "车银优将出演新剧今天也很可爱",
+        "onboard_time": 1662351150,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200880,
+        "num": 200880,
+        "word": "油价",
+        "onboard_time": 1662343227,
+        "rank": 45,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 195463,
+        "num": 195463,
+        "word": "欧阳娜娜新专辑MV是手写的",
+        "onboard_time": 1662350669,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 4644891,
+        "num": 194409,
+        "word": "四川地震",
+        "onboard_time": 1662354166,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187969,
+        "num": 187969,
+        "word": "16岁中国女孩国际霹雳舞再夺冠",
+        "onboard_time": 1662341784,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180897,
+        "num": 180897,
+        "word": "王菲王家卫新片预告",
+        "onboard_time": 1662343465,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#网络安全为人民网络安全靠人民#"
+    }
+  }
+}
