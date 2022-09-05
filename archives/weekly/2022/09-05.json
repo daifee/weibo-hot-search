@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662376809795,
+  "endTime": 1662377784645,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -267,6 +267,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1031695,
+      "num": 1031695,
+      "word": "湘雅二院取消两主任医生医疗资质",
+      "onboard_time": 1662373170,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1025161,
       "num": 1025161,
       "word": "泸定地震震中在海螺沟",
@@ -275,11 +283,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1005306,
-      "num": 1005306,
-      "word": "湘雅二院取消两主任医生医疗资质",
-      "onboard_time": 1662373170,
-      "rank": 26,
+      "raw_hot": 1008742,
+      "num": 1008742,
+      "word": "市民住35楼称地震时像坐大摆锤",
+      "onboard_time": 1662372208,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -347,14 +355,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 940630,
-      "num": 940630,
-      "word": "市民住35楼称地震时像坐大摆锤",
-      "onboard_time": 1662372208,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 886862,
       "num": 886862,
       "word": "货车高速散落6000颗钉子30辆车被扎",
@@ -369,6 +369,14 @@
       "onboard_time": 1662306628,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 851041,
+      "num": 851041,
+      "word": "中方要求美方立即停止不法行为",
+      "onboard_time": 1662372508,
+      "rank": 43,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 842380,
@@ -419,6 +427,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 730937,
+      "num": 730937,
+      "word": "泸定地震已致21人遇难",
+      "onboard_time": 1662376893,
+      "rank": 7,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 720567,
       "num": 720567,
       "word": "侦侦日上向张若昀唐艺昕道歉",
@@ -451,12 +467,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 704150,
-      "num": 704150,
-      "word": "中方要求美方立即停止不法行为",
-      "onboard_time": 1662372508,
-      "rank": 43,
-      "category": "国内要闻"
+      "raw_hot": 705309,
+      "num": 1926357,
+      "word": "泸定地震最新消息汇总",
+      "onboard_time": 1662357994,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 695382,
@@ -505,14 +521,6 @@
       "onboard_time": 1662358294,
       "rank": 11,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 672625,
-      "num": 1926357,
-      "word": "泸定地震最新消息汇总",
-      "onboard_time": 1662357994,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 660983,
@@ -707,12 +715,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 467514,
+      "num": 467514,
+      "word": "湖南益阳现大量蜉蝣铺天盖地",
+      "onboard_time": 1662374792,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 466662,
       "num": 466662,
       "word": "苹果汽车受欢迎度超特斯拉",
       "onboard_time": 1662371248,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 460619,
+      "num": 460619,
+      "word": "王鹤棣尼龙杂志9月销量",
+      "onboard_time": 1662374848,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 459400,
@@ -763,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 431436,
+      "num": 431436,
+      "word": "四川太难了",
+      "onboard_time": 1662375272,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 430280,
       "num": 430280,
       "word": "马嘉祺我们的歌",
@@ -787,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 425749,
+      "num": 425749,
+      "word": "地震致石棉县14人遇难",
+      "onboard_time": 1662374252,
+      "rank": 29,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 420047,
       "num": 420047,
       "word": "深圳地铁",
@@ -801,14 +841,6 @@
       "onboard_time": 1662285749,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 401768,
-      "num": 401768,
-      "word": "王鹤棣尼龙杂志9月销量",
-      "onboard_time": 1662374848,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 401387,
@@ -875,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 380969,
+      "num": 380969,
+      "word": "石明",
+      "onboard_time": 1662376472,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 377341,
       "num": 377341,
       "word": "T1官宣Bengi暂代主教练",
@@ -907,12 +947,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 367091,
-      "num": 367091,
-      "word": "湖南益阳现大量蜉蝣铺天盖地",
-      "onboard_time": 1662374792,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 360198,
+      "num": 360198,
+      "word": "BLG官宣Chashao离队",
+      "onboard_time": 1662375632,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 357589,
@@ -987,14 +1027,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 337991,
-      "num": 337991,
-      "word": "地震致石棉县14人遇难",
-      "onboard_time": 1662374252,
-      "rank": 29,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 337435,
       "num": 337435,
       "word": "男子醉酒爬上天台横梁睡了一宿",
@@ -1025,6 +1057,14 @@
       "onboard_time": 1662304171,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 326652,
+      "num": 326652,
+      "word": "姜小果齐颂海边吻",
+      "onboard_time": 1662375091,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 323664,
@@ -1059,6 +1099,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 317853,
+      "num": 317853,
+      "word": "官方辟谣地震男子高楼跳伞逃生",
+      "onboard_time": 1662372149,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 314293,
       "num": 314293,
       "word": "LPL出征S12队伍",
@@ -1073,14 +1121,6 @@
       "onboard_time": 1662360570,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 312787,
-      "num": 312787,
-      "word": "四川太难了",
-      "onboard_time": 1662375272,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 305774,
@@ -1104,30 +1144,6 @@
       "word": "宋仲基客串新剧状态",
       "onboard_time": 1662303452,
       "rank": 22,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 304580,
-      "num": 304580,
-      "word": "BLG官宣Chashao离队",
-      "onboard_time": 1662375632,
-      "rank": 22,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 304236,
-      "num": 304236,
-      "word": "官方辟谣地震男子高楼跳伞逃生",
-      "onboard_time": 1662372149,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 304031,
-      "num": 304031,
-      "word": "姜小果齐颂海边吻",
-      "onboard_time": 1662375091,
-      "rank": 24,
       "category": "影视"
     },
     {
@@ -1395,6 +1411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249279,
+      "num": 249279,
+      "word": "网曝达辉律所员工被辞退后离世",
+      "onboard_time": 1662376292,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245491,
       "num": 245491,
       "word": "恋爱的夏天关系乱",
@@ -1547,6 +1571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 221501,
+      "num": 221501,
+      "word": "当狗狗偷偷学会了站立",
+      "onboard_time": 1662373832,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 220304,
       "num": 185614,
       "word": "赵露思孟美岐对手戏",
@@ -1577,14 +1609,6 @@
       "onboard_time": 1662336865,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 205595,
-      "num": 205595,
-      "word": "石明",
-      "onboard_time": 1662376472,
-      "rank": 33,
-      "category": "网红"
     },
     {
       "raw_hot": 205109,
@@ -1649,14 +1673,6 @@
       "onboard_time": 1662350669,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 195630,
-      "num": 195630,
-      "word": "当狗狗偷偷学会了站立",
-      "onboard_time": 1662373832,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 192523,
@@ -1819,6 +1835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 165912,
+      "num": 165912,
+      "word": "地震瞬间父亲把孩子紧紧护在怀里",
+      "onboard_time": 1662376589,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165511,
       "num": 165511,
       "word": "Uzi解说",
@@ -1899,6 +1923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147913,
+      "num": 147913,
+      "word": "女子上网学做生腌虾食物中毒",
+      "onboard_time": 1662377431,
+      "rank": 43,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 147609,
       "num": 147609,
       "word": "7旬爷爷凌晨4点捡废品为孙筹医疗费",
@@ -1913,14 +1945,6 @@
       "onboard_time": 1662335184,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 144981,
-      "num": 144981,
-      "word": "网曝达辉律所员工被辞退后离世",
-      "onboard_time": 1662376292,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 143148,
@@ -1992,14 +2016,6 @@
       "word": "河南入秋失败了",
       "onboard_time": 1662347065,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 122985,
-      "num": 122985,
-      "word": "地震瞬间父亲把孩子紧紧护在怀里",
-      "onboard_time": 1662376589,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
