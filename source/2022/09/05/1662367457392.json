@@ -1,0 +1,410 @@
+{
+  "runTime": 1662367457392,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3314612,
+        "num": 3314612,
+        "word": "泸定地震7人遇难",
+        "onboard_time": 1662364830,
+        "rank": 0,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 2080960,
+        "num": 2080960,
+        "word": "外交部新任发言人毛宁亮相",
+        "onboard_time": 1662365008,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 142654,
+        "num": 1926357,
+        "word": "泸定地震最新消息汇总",
+        "onboard_time": 1662357994,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1788860,
+        "num": 1788860,
+        "word": "四川泸定6.8级地震",
+        "onboard_time": 1662354720,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1587890,
+        "num": 1587890,
+        "word": "8800元网购的猫不到一周就离世",
+        "onboard_time": 1662364229,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1402057,
+        "num": 1402057,
+        "word": "泸定县城震后画面",
+        "onboard_time": 1662360032,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1145954,
+        "num": 1145954,
+        "word": "特朗普可能已卖掉白宫机密文件",
+        "onboard_time": 1662353130,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1060608,
+        "num": 1060608,
+        "word": "错撩小说作者关注白鹿",
+        "onboard_time": 1662366810,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 940936,
+        "num": 940936,
+        "word": "六版道明寺",
+        "onboard_time": 1662365668,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 765729,
+        "num": 765729,
+        "word": "秋瓷炫新剧开播就下线",
+        "onboard_time": 1662355248,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1347161,
+        "num": 735994,
+        "word": "庆怜官宣签约王嘉尔公司",
+        "onboard_time": 1662363868,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 704085,
+        "num": 704085,
+        "word": "四川1小时内连发7次地震",
+        "onboard_time": 1662365728,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 689777,
+        "num": 689777,
+        "word": "地震瞬间熊猫妈妈携幼崽室外避险",
+        "onboard_time": 1662364947,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 642943,
+        "num": 642943,
+        "word": "林书豪官宣加盟广州男篮",
+        "onboard_time": 1662364589,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174303,
+        "num": 638538,
+        "word": "泸定地震救援现场",
+        "onboard_time": 1662364830,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634314,
+        "num": 634314,
+        "word": "四川绵竹上空疑现大量蝙蝠群",
+        "onboard_time": 1662355604,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572964,
+        "num": 572964,
+        "word": "女生宿舍辣酱爆炸似案发现场",
+        "onboard_time": 1662357873,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472846,
+        "num": 472846,
+        "word": "BLACKPINK新歌未通过KBS审议",
+        "onboard_time": 1662367170,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 444070,
+        "num": 444070,
+        "word": "开始推理吧 张若昀唐艺昕结婚照",
+        "onboard_time": 1662352650,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 414372,
+        "num": 414372,
+        "word": "大连一社区抗原检测阳性奖励2000元",
+        "onboard_time": 1662354351,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403207,
+        "num": 403207,
+        "word": "肖战为四川祈福平安",
+        "onboard_time": 1662364168,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400672,
+        "num": 400672,
+        "word": "泸定地震震中在海螺沟",
+        "onboard_time": 1662358772,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382757,
+        "num": 382757,
+        "word": "大学生未来结婚意愿高于预期",
+        "onboard_time": 1662340706,
+        "rank": 22,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 369978,
+        "num": 369978,
+        "word": "为什么自己和父母的缺点越来越像",
+        "onboard_time": 1662359132,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 359693,
+        "num": 359693,
+        "word": "四川海螺沟景区附近商户发声",
+        "onboard_time": 1662365430,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332800,
+        "num": 332800,
+        "word": "如何对待喊男友哥哥的女生",
+        "onboard_time": 1662363689,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 302401,
+        "num": 302401,
+        "word": "7成网民失去用眼自由",
+        "onboard_time": 1662359973,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300588,
+        "num": 300588,
+        "word": "乐山一小学地震预警期全部疏散",
+        "onboard_time": 1662363150,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294626,
+        "num": 294626,
+        "word": "华为Mate50价格曝光",
+        "onboard_time": 1662351570,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 284076,
+        "num": 284076,
+        "word": "00后毕业养猪因不想内耗",
+        "onboard_time": 1662360271,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276769,
+        "num": 276769,
+        "word": "陈奕迅演唱会暂定18场",
+        "onboard_time": 1662362191,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 274237,
+        "num": 274237,
+        "word": "泸定地震余震仍将持续一段时间",
+        "onboard_time": 1662367289,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249189,
+        "num": 249189,
+        "word": "KPL夏季赛最佳阵容候选人",
+        "onboard_time": 1662365189,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 246528,
+        "num": 246528,
+        "word": "淄博市发现2例阳性感染者",
+        "onboard_time": 1662361410,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244061,
+        "num": 244061,
+        "word": "基金",
+        "onboard_time": 1662361289,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 241054,
+        "num": 241054,
+        "word": "网友家中的火锅告诉你成都震感有多凶",
+        "onboard_time": 1662359791,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233957,
+        "num": 233957,
+        "word": "张云雷新歌误以为你以为",
+        "onboard_time": 1662362788,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 224637,
+        "num": 224637,
+        "word": "T1官宣Bengi暂代主教练",
+        "onboard_time": 1662360631,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 218088,
+        "num": 218088,
+        "word": "坐氢气球飘走工人已找到",
+        "onboard_time": 1662350129,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210340,
+        "num": 210340,
+        "word": "四川地震局2级地震应急响应",
+        "onboard_time": 1662363028,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203883,
+        "num": 203883,
+        "word": "众星为四川泸定祈福",
+        "onboard_time": 1662361588,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196549,
+        "num": 196549,
+        "word": "明日方舟",
+        "onboard_time": 1662366329,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 195118,
+        "num": 195118,
+        "word": "王鹤棣尼龙自成一格大片",
+        "onboard_time": 1662358294,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 183263,
+        "num": 183263,
+        "word": "女租客退房房东挑刺马桶不退押金",
+        "onboard_time": 1662349229,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181400,
+        "num": 181400,
+        "word": "外交部回应西工大遭网络攻击事件",
+        "onboard_time": 1662365249,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168864,
+        "num": 168864,
+        "word": "iPhone14已产逾3400万部",
+        "onboard_time": 1662343287,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 166039,
+        "num": 166039,
+        "word": "被萌娃2分钟手绘的画惊艳到了",
+        "onboard_time": 1662366087,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160354,
+        "num": 160354,
+        "word": "马嘉祺我们的歌",
+        "onboard_time": 1662356679,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158581,
+        "num": 158581,
+        "word": "国内油价或迎大幅度上涨",
+        "onboard_time": 1662350909,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150045,
+        "num": 150045,
+        "word": "恋爱的夏天关系乱",
+        "onboard_time": 1662365130,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#网络安全为人民网络安全靠人民#"
+    }
+  }
+}
