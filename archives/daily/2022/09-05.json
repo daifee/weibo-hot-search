@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662383384299,
+  "endTime": 1662385535508,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -35,20 +35,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3680912,
+      "num": 3680912,
+      "word": "泸定地震已致21人遇难",
+      "onboard_time": 1662376893,
+      "rank": 7,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 3617586,
       "num": 3617586,
       "word": "西北工业大学遭美国NSA网络攻击",
       "onboard_time": 1662345203,
       "rank": 0,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 3513132,
-      "num": 3513132,
-      "word": "泸定地震已致21人遇难",
-      "onboard_time": 1662376893,
-      "rank": 7,
-      "category": "社会负面"
     },
     {
       "raw_hot": 3501565,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1953754,
+      "num": 1953754,
+      "word": "第31届金鹰奖首轮结果发布",
+      "onboard_time": 1662382350,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1941222,
       "num": 1941222,
       "word": "泸定县城震后画面",
@@ -129,6 +137,14 @@
       "onboard_time": 1662354474,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1904616,
+      "num": 438872,
+      "word": "李沁赵露思直播截图",
+      "onboard_time": 1662384273,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1847025,
@@ -217,14 +233,6 @@
       "onboard_time": 1662377431,
       "rank": 43,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 1264690,
-      "num": 1264690,
-      "word": "第31届金鹰奖首轮结果发布",
-      "onboard_time": 1662382350,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 1233195,
@@ -684,7 +692,7 @@
     },
     {
       "raw_hot": 536353,
-      "num": 301681,
+      "num": 328471,
       "word": "朱正廷说不想给自己设限",
       "onboard_time": 1662382108,
       "rank": 20,
@@ -883,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 439225,
+      "num": 439225,
+      "word": "特警徒手刨土救出被埋男子",
+      "onboard_time": 1662382289,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 430280,
       "num": 430280,
       "word": "马嘉祺我们的歌",
@@ -921,6 +937,14 @@
       "onboard_time": 1662303152,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 415623,
+      "num": 415623,
+      "word": "原来每个人都有收集癖",
+      "onboard_time": 1662381630,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 412326,
@@ -1065,6 +1089,14 @@
       "onboard_time": 1662350909,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 348191,
+      "num": 348191,
+      "word": "航拍泸定地震震中磨西镇",
+      "onboard_time": 1662381270,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 346473,
@@ -1243,14 +1275,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 301934,
-      "num": 301934,
-      "word": "原来每个人都有收集癖",
-      "onboard_time": 1662381630,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 300588,
       "num": 300588,
       "word": "乐山一小学地震预警期全部疏散",
@@ -1396,7 +1420,7 @@
     },
     {
       "raw_hot": 277051,
-      "num": 190256,
+      "num": 276372,
       "word": "罚罪",
       "onboard_time": 1662298234,
       "rank": 43,
@@ -1523,19 +1547,19 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 257768,
+      "num": 1970824,
+      "word": "泸定地震最新动态",
+      "onboard_time": 1662382469,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 256060,
       "num": 256060,
       "word": "印度旋转塔从高空直线坠落",
       "onboard_time": 1662371430,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 251373,
-      "num": 251373,
-      "word": "航拍泸定地震震中磨西镇",
-      "onboard_time": 1662381270,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1715,14 +1739,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 217447,
-      "num": 217447,
-      "word": "特警徒手刨土救出被埋男子",
-      "onboard_time": 1662382289,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 216269,
       "num": 216269,
       "word": "地震救援消防员背伤者踩木桥渡河",
@@ -1747,6 +1763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210773,
+      "num": 210773,
+      "word": "女子和狗子拉扯宛如情侣吵架翻版",
+      "onboard_time": 1662384328,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210318,
       "num": 210318,
       "word": "这次的秋老虎是干热型",
@@ -1761,6 +1785,14 @@
       "onboard_time": 1662380731,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205374,
+      "num": 205374,
+      "word": "住户连续一年高空抛物还扔剪刀",
+      "onboard_time": 1662383008,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205109,
@@ -2083,6 +2115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 143191,
+      "num": 133265,
+      "word": "张予曦白色泡泡袖礼服",
+      "onboard_time": 1662385169,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 143148,
       "num": 143148,
       "word": "冬瓜的神奇吃法",
@@ -2105,14 +2145,6 @@
       "onboard_time": 1662345386,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 137623,
-      "num": 1964603,
-      "word": "泸定地震最新动态",
-      "onboard_time": 1662382469,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 136015,
@@ -2179,6 +2211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118028,
+      "num": 113923,
+      "word": "四川幼儿园小朋友地震中有序撤离",
+      "onboard_time": 1662385532,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116084,
       "num": 116084,
       "word": "北漂为了团圆有多拼",
@@ -2201,6 +2241,14 @@
       "onboard_time": 1662301893,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 110737,
+      "num": 141788,
+      "word": "长期跑步会有哪些变化",
+      "onboard_time": 1662383370,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 106694,
@@ -2345,14 +2393,6 @@
       "onboard_time": 1662296188,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 7992,
-      "num": 141788,
-      "word": "长期跑步会有哪些变化",
-      "onboard_time": 1662383370,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 7324,
