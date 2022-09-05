@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662398743626,
+  "endTime": 1662399788922,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -2075,6 +2075,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 190369,
+      "num": 190369,
+      "word": "浙江一孩平均生育年龄27.33岁",
+      "onboard_time": 1662395782,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190335,
       "num": 190335,
       "word": "深圳疫情防控",
@@ -2217,14 +2225,6 @@
       "onboard_time": 1662347187,
       "rank": 37,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 170735,
-      "num": 170735,
-      "word": "浙江一孩平均生育年龄27.33岁",
-      "onboard_time": 1662395782,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168471,
@@ -2515,6 +2515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97730,
+      "num": 97730,
+      "word": "车载监控拍下泸定地震瞬间",
+      "onboard_time": 1662395004,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91148,
       "num": 91148,
       "word": "7条定律助你提升自我",
@@ -2545,14 +2553,6 @@
       "onboard_time": 1662394468,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 84113,
-      "num": 84113,
-      "word": "车载监控拍下泸定地震瞬间",
-      "onboard_time": 1662395004,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 80425,
@@ -2627,6 +2627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57565,
+      "num": 57565,
+      "word": "电影我要和你在一起",
+      "onboard_time": 1662397997,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 49895,
       "num": 543184,
       "word": "救火英雄驰援泸定",
@@ -2641,14 +2649,6 @@
       "onboard_time": 1662332658,
       "rank": 48,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 43398,
-      "num": 43398,
-      "word": "电影我要和你在一起",
-      "onboard_time": 1662397997,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 39686,
