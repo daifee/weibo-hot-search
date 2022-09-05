@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662377784645,
+  "endTime": 1662381835808,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3513132,
+      "num": 3513132,
+      "word": "泸定地震已致21人遇难",
+      "onboard_time": 1662376893,
+      "rank": 7,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 3501565,
       "num": 3501565,
       "word": "张若昀唐艺昕方希望不再传播相关图片",
@@ -129,6 +137,14 @@
       "onboard_time": 1662042273,
       "rank": 0,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 3197418,
+      "num": 3197418,
+      "word": "特拉斯当选英国首相",
+      "onboard_time": 1662378990,
+      "rank": 1,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 3083466,
@@ -787,6 +803,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 1562634,
+      "num": 622867,
+      "word": "陈宇杨玲分手了",
+      "onboard_time": 1662379229,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1557274,
       "num": 1352151,
       "word": "三问宝马女撞人拖行事件",
@@ -1169,6 +1193,14 @@
       "onboard_time": 1662081028,
       "rank": 1,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1265828,
+      "num": 1265828,
+      "word": "女子上网学做生腌虾食物中毒",
+      "onboard_time": 1662377431,
+      "rank": 43,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 1265393,
@@ -2171,6 +2203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 843215,
+      "num": 843215,
+      "word": "和偶像同居是种什么体验",
+      "onboard_time": 1662378150,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 842380,
       "num": 842380,
       "word": "喜茶原神",
@@ -2489,14 +2529,6 @@
       "onboard_time": 1662043173,
       "rank": 9,
       "category": "军事,国外要闻"
-    },
-    {
-      "raw_hot": 730937,
-      "num": 730937,
-      "word": "泸定地震已致21人遇难",
-      "onboard_time": 1662376893,
-      "rank": 7,
-      "category": "社会负面"
     },
     {
       "raw_hot": 725908,
@@ -2944,6 +2976,14 @@
       "word": "四川新增本土确诊105例",
       "onboard_time": 1662341427,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 642977,
+      "num": 642977,
+      "word": "湖南益阳现大量蜉蝣铺天盖地",
+      "onboard_time": 1662374792,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -3627,6 +3667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 517766,
+      "num": 517766,
+      "word": "网曝达辉律所员工被辞退后离世",
+      "onboard_time": 1662376292,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 516562,
       "num": 516562,
       "word": "宋仲基客串新剧状态",
@@ -3739,6 +3787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 499079,
+      "num": 499079,
+      "word": "地震瞬间父亲把孩子紧紧护在怀里",
+      "onboard_time": 1662376589,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 497060,
       "num": 497060,
       "word": "小胖总决赛MVP",
@@ -3785,6 +3841,14 @@
       "onboard_time": 1662088107,
       "rank": 46,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 491440,
+      "num": 491440,
+      "word": "国产跑鞋为何越发受宠",
+      "onboard_time": 1662379291,
+      "rank": 13,
+      "category": "体育,财经"
     },
     {
       "raw_hot": 490829,
@@ -4011,6 +4075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 470937,
+      "num": 470937,
+      "word": "四川太难了",
+      "onboard_time": 1662375272,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 470341,
       "num": 470341,
       "word": "Uzi厂长同框",
@@ -4033,14 +4105,6 @@
       "onboard_time": 1662021569,
       "rank": 15,
       "category": "游戏,综艺"
-    },
-    {
-      "raw_hot": 467514,
-      "num": 467514,
-      "word": "湖南益阳现大量蜉蝣铺天盖地",
-      "onboard_time": 1662374792,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 467224,
@@ -4411,14 +4475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 431436,
-      "num": 431436,
-      "word": "四川太难了",
-      "onboard_time": 1662375272,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 430280,
       "num": 430280,
       "word": "马嘉祺我们的歌",
@@ -4649,6 +4705,14 @@
       "onboard_time": 1662303031,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 411332,
+      "num": 411332,
+      "word": "石明",
+      "onboard_time": 1662376472,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 410877,
@@ -5057,14 +5121,6 @@
       "onboard_time": 1662350909,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 380969,
-      "num": 380969,
-      "word": "石明",
-      "onboard_time": 1662376472,
-      "rank": 33,
-      "category": "网红"
     },
     {
       "raw_hot": 380338,
@@ -7331,6 +7387,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 266695,
+      "num": 266695,
+      "word": "消失的孩子",
+      "onboard_time": 1662380309,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 266610,
       "num": 266610,
       "word": "S12出征仪式",
@@ -7681,14 +7745,6 @@
       "onboard_time": 1662126633,
       "rank": 26,
       "category": "财经"
-    },
-    {
-      "raw_hot": 249279,
-      "num": 249279,
-      "word": "网曝达辉律所员工被辞退后离世",
-      "onboard_time": 1662376292,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 249075,
@@ -8163,6 +8219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 225425,
+      "num": 225425,
+      "word": "GALI亚特兰蒂斯虚拟演出开播",
+      "onboard_time": 1662380608,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 224969,
       "num": 155513,
       "word": "玄夜骗爱把自己搭进去了",
@@ -8329,6 +8393,14 @@
       "onboard_time": 1662101787,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 216269,
+      "num": 216269,
+      "word": "地震救援消防员背伤者踩木桥渡河",
+      "onboard_time": 1662381692,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216208,
@@ -9027,6 +9099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 187032,
+      "num": 186111,
+      "word": "笨蛋帅哥有多好笑",
+      "onboard_time": 1662374973,
+      "rank": 40,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 186614,
       "num": 186614,
       "word": "济南新增感染者详情",
@@ -9145,14 +9225,6 @@
       "onboard_time": 1662357577,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 183963,
-      "num": 183963,
-      "word": "笨蛋帅哥有多好笑",
-      "onboard_time": 1662374973,
-      "rank": 40,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 183288,
@@ -9483,19 +9555,19 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 165912,
-      "num": 165912,
-      "word": "地震瞬间父亲把孩子紧紧护在怀里",
-      "onboard_time": 1662376589,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 165742,
       "num": 165742,
       "word": "袁悦晋级美网32强",
       "onboard_time": 1662074121,
       "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 165506,
+      "num": 165506,
+      "word": "中国男篮线上公开采访",
+      "onboard_time": 1662380731,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -9899,14 +9971,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 147913,
-      "num": 147913,
-      "word": "女子上网学做生腌虾食物中毒",
-      "onboard_time": 1662377431,
-      "rank": 43,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 147609,
       "num": 147609,
       "word": "7旬爷爷凌晨4点捡废品为孙筹医疗费",
@@ -9985,6 +10049,14 @@
       "onboard_time": 1662375690,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 142989,
+      "num": 142989,
+      "word": "原来每个人都有收集癖",
+      "onboard_time": 1662381630,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 142498,
@@ -10153,6 +10225,22 @@
       "onboard_time": 1662182246,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133221,
+      "num": 133221,
+      "word": "魏晨新剧复制粘贴式相亲",
+      "onboard_time": 1662381450,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 133206,
+      "num": 133206,
+      "word": "航拍泸定地震震中磨西镇",
+      "onboard_time": 1662381270,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132613,
@@ -11097,6 +11185,9 @@
     },
     {
       "word": "#2022年国家网络安全宣传周#"
+    },
+    {
+      "word": "#要把抢救生命作为首要任务#"
     }
   ]
 }
