@@ -1,0 +1,410 @@
+{
+  "runTime": 1662477897415,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3163203,
+        "num": 3163203,
+        "word": "猴痘",
+        "onboard_time": 1662467728,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1269167,
+        "num": 1269167,
+        "word": "32岁总裁辞掉百万年薪返乡种辣椒",
+        "onboard_time": 1662471991,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166850,
+        "num": 1081294,
+        "word": "渡难关泸定安",
+        "onboard_time": 1662473673,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 998529,
+        "num": 998529,
+        "word": "网传白鹿王鹤棣出演仙剑五前传",
+        "onboard_time": 1662474391,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 677482,
+        "num": 677482,
+        "word": "南风知我意优酷预约破百万",
+        "onboard_time": 1662471630,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 676650,
+        "num": 676650,
+        "word": "迪丽热巴吴磊加盟青春环游记",
+        "onboard_time": 1662460711,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 660553,
+        "num": 660553,
+        "word": "原来懂礼貌真的很加分",
+        "onboard_time": 1662462630,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 604581,
+        "num": 604581,
+        "word": "将博士后人员作为补充师资重要来源",
+        "onboard_time": 1662470968,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 479666,
+        "num": 479666,
+        "word": "中科院试验站遇难女研究生家属发声",
+        "onboard_time": 1662476671,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458730,
+        "num": 458730,
+        "word": "官方通报老人当街向学生下跪",
+        "onboard_time": 1662465450,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1242864,
+        "num": 457533,
+        "word": "胡枫确诊新冠",
+        "onboard_time": 1662475292,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 724011,
+        "num": 454100,
+        "word": "在棣欣引力的作用下白越光你将吴露可逃",
+        "onboard_time": 1662472710,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 448518,
+        "num": 448518,
+        "word": "成都上空现大片七彩云",
+        "onboard_time": 1662477091,
+        "rank": 12,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 440773,
+        "num": 440773,
+        "word": "方便面一定要试试这样吃",
+        "onboard_time": 1662465988,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 437626,
+        "num": 437626,
+        "word": "沈腾出席马丽新片首映礼",
+        "onboard_time": 1662475593,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 418635,
+        "num": 418635,
+        "word": "驴友在鄱阳湖湖滩发现江豚尸体",
+        "onboard_time": 1662465088,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367136,
+        "num": 367136,
+        "word": "980元的水壶长啥样",
+        "onboard_time": 1662475530,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 358462,
+        "num": 358462,
+        "word": "北京昌平新增4例确诊1例阳性",
+        "onboard_time": 1662476612,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357906,
+        "num": 357906,
+        "word": "学校安排80个学生住一间宿舍",
+        "onboard_time": 1662459148,
+        "rank": 18,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 350668,
+        "num": 350668,
+        "word": "华为Mate50没电也能打电话",
+        "onboard_time": 1662458431,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 739379,
+        "num": 349740,
+        "word": "网曝58同城惊现招聘卖淫信息",
+        "onboard_time": 1662475772,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401247,
+        "num": 347938,
+        "word": "何洛洛北电开学被六公主采访",
+        "onboard_time": 1662468866,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351526,
+        "num": 346856,
+        "word": "家长反对凑钱送礼给老师被逼退群",
+        "onboard_time": 1662460470,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 337571,
+        "num": 337571,
+        "word": "当人类幼崽开始假装上班",
+        "onboard_time": 1662467907,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 332765,
+        "num": 332765,
+        "word": "仙剑奇侠传里的仙指的是赵灵儿",
+        "onboard_time": 1662467189,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 332408,
+        "num": 332408,
+        "word": "张艺兴你好星期六路透",
+        "onboard_time": 1662473489,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 312149,
+        "num": 312149,
+        "word": "克制含胸驼背的方法找到了",
+        "onboard_time": 1662461911,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292522,
+        "num": 292522,
+        "word": "哪句话成了你低谷期的救赎",
+        "onboard_time": 1662474933,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 269052,
+        "num": 269052,
+        "word": "第一次吃火鸡面的感受",
+        "onboard_time": 1662475113,
+        "rank": 28,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 178679,
+        "num": 261702,
+        "word": "你换手机最看重什么",
+        "onboard_time": 1662467608,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 311599,
+        "num": 261541,
+        "word": "胡一天陈钰琪新剧太好笑了",
+        "onboard_time": 1662475530,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261230,
+        "num": 261230,
+        "word": "有点孝心但不多的狗子",
+        "onboard_time": 1662472950,
+        "rank": 31,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 260092,
+        "num": 260092,
+        "word": "翟潇闻罗一舟直播截图",
+        "onboard_time": 1662476491,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 258728,
+        "num": 258728,
+        "word": "长春市副市长赵显等多名官员被问责",
+        "onboard_time": 1662465507,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255532,
+        "num": 255532,
+        "word": "魏晨新剧把父亲藏鱼缸",
+        "onboard_time": 1662473673,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247627,
+        "num": 247627,
+        "word": "江苏一村庄为空巢老人提供3元餐",
+        "onboard_time": 1662475472,
+        "rank": 35,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 246637,
+        "num": 246637,
+        "word": "玉骨遥",
+        "onboard_time": 1662476912,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214691,
+        "num": 214691,
+        "word": "华为mate50",
+        "onboard_time": 1662474152,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 179802,
+        "num": 179802,
+        "word": "相互喜欢也会分手吗",
+        "onboard_time": 1662447688,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164518,
+        "num": 164518,
+        "word": "网友劝阻大爷大妈们河边放生矿泉水",
+        "onboard_time": 1662459990,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198678,
+        "num": 163219,
+        "word": "罚罪",
+        "onboard_time": 1662473850,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185801,
+        "num": 161881,
+        "word": "杨洋宋亚轩加盟隐秘的高手",
+        "onboard_time": 1662471390,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160080,
+        "num": 160080,
+        "word": "世界最大女神仰阿莎",
+        "onboard_time": 1662476433,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 147603,
+        "num": 147603,
+        "word": "王者荣耀",
+        "onboard_time": 1662477751,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136385,
+        "num": 136385,
+        "word": "警方证实韩第一夫人履历造假",
+        "onboard_time": 1662449489,
+        "rank": 44,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 129463,
+        "num": 129463,
+        "word": "平板支撑的正确动作示范",
+        "onboard_time": 1662477153,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125237,
+        "num": 125237,
+        "word": "95后女孩送父亲30万新车",
+        "onboard_time": 1662477811,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124048,
+        "num": 124048,
+        "word": "男朋友的视力是个谜",
+        "onboard_time": 1662477692,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122514,
+        "num": 122514,
+        "word": "泸定地震后首个宝宝平安降生",
+        "onboard_time": 1662469346,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117963,
+        "num": 117963,
+        "word": "长沙县一快递分拨中心爆炸",
+        "onboard_time": 1662458731,
+        "rank": 49,
+        "category": "社会负面"
+      }
+    ],
+    "hotgov": {
+      "word": "#尽最大努力确保人民群众生命财产安全#"
+    }
+  }
+}
