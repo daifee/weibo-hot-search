@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662452983592,
+  "endTime": 1662454037449,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -243,7 +243,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1597699,
+      "raw_hot": 1633031,
       "num": 638061,
       "word": "警方证实韩第一夫人履历造假",
       "onboard_time": 1662449489,
@@ -419,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1108972,
+      "num": 1108972,
+      "word": "男孩意外发现同学妈妈是自己老师",
+      "onboard_time": 1662449548,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1084298,
       "num": 1084298,
       "word": "QQ推出QQ学生卡",
@@ -539,14 +547,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 999784,
-      "num": 999784,
-      "word": "男孩意外发现同学妈妈是自己老师",
-      "onboard_time": 1662449548,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 999636,
       "num": 999636,
       "word": "BLACKPINK新歌未通过KBS审议",
@@ -596,7 +596,7 @@
     },
     {
       "raw_hot": 964962,
-      "num": 246809,
+      "num": 263792,
       "word": "网课入侵",
       "onboard_time": 1662448407,
       "rank": 30,
@@ -995,12 +995,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 627570,
+      "num": 627570,
+      "word": "男子被恶狗咬伤后徒手将狗掐死",
+      "onboard_time": 1662450628,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 627372,
       "num": 627372,
       "word": "校长门口制止家长给孩子背书包",
       "onboard_time": 1662394347,
       "rank": 38,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 621480,
+      "num": 337954,
+      "word": "乔欣晒欧阳娜娜艺术展plog",
+      "onboard_time": 1662453868,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 618846,
@@ -1067,11 +1083,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 572949,
-      "num": 572949,
-      "word": "男子被恶狗咬伤后徒手将狗掐死",
-      "onboard_time": 1662450628,
-      "rank": 46,
+      "raw_hot": 571652,
+      "num": 571652,
+      "word": "老人卖关东煮遭醉酒男掀锅殴打",
+      "onboard_time": 1662452848,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1129,6 +1145,14 @@
       "onboard_time": 1662382108,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 534560,
+      "num": 534560,
+      "word": "孙女地震时公主抱瘫痪奶奶逃生",
+      "onboard_time": 1662450327,
+      "rank": 40,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 532390,
@@ -1201,6 +1225,14 @@
       "onboard_time": 1662376589,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 498166,
+      "num": 337619,
+      "word": "李栋旭41岁状态",
+      "onboard_time": 1662453148,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 496468,
@@ -1321,14 +1353,6 @@
       "onboard_time": 1662371248,
       "rank": 17,
       "category": "财经"
-    },
-    {
-      "raw_hot": 463967,
-      "num": 463967,
-      "word": "孙女地震时公主抱瘫痪奶奶逃生",
-      "onboard_time": 1662450327,
-      "rank": 40,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 460619,
@@ -1795,6 +1819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 338335,
+      "num": 338335,
+      "word": "沈腾说期待沙漏",
+      "onboard_time": 1662453508,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 337435,
       "num": 337435,
       "word": "男子醉酒爬上天台横梁睡了一宿",
@@ -1912,6 +1944,14 @@
       "word": "官方辟谣地震男子高楼跳伞逃生",
       "onboard_time": 1662372149,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317181,
+      "num": 317181,
+      "word": "成都大邑一男子持刀砍伤两人",
+      "onboard_time": 1662451947,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -2081,6 +2121,14 @@
       "onboard_time": 1662374372,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290382,
+      "num": 290382,
+      "word": "华为Mate50配置",
+      "onboard_time": 1662451408,
+      "rank": 36,
+      "category": "科技"
     },
     {
       "raw_hot": 288097,
@@ -2395,6 +2443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264136,
+      "num": 264136,
+      "word": "泸定地震致66人遇难",
+      "onboard_time": 1662452848,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 264094,
       "num": 264094,
       "word": "四川海螺沟景区200余人被困",
@@ -2611,20 +2667,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 232252,
-      "num": 232252,
-      "word": "成都大邑一男子持刀砍伤两人",
-      "onboard_time": 1662451947,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 231456,
       "num": 231456,
       "word": "布拉格爆发抗议反对欧盟和北约",
       "onboard_time": 1662322212,
       "rank": 46,
       "category": "国外要闻,社会新闻"
+    },
+    {
+      "raw_hot": 231275,
+      "num": 231275,
+      "word": "章子怡赵丽颖加盟隐秘的高手",
+      "onboard_time": 1662453868,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 229992,
@@ -2755,6 +2811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214839,
+      "num": 214839,
+      "word": "你手机地震预警功能开了吗",
+      "onboard_time": 1662451167,
+      "rank": 39,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 214099,
       "num": 214099,
       "word": "9月5日新增确诊310例",
@@ -2817,14 +2881,6 @@
       "onboard_time": 1662380731,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 208557,
-      "num": 208557,
-      "word": "华为Mate50配置",
-      "onboard_time": 1662451408,
-      "rank": 36,
-      "category": "科技"
     },
     {
       "raw_hot": 208345,
@@ -2953,14 +3009,6 @@
       "onboard_time": 1662448228,
       "rank": 42,
       "category": "科技"
-    },
-    {
-      "raw_hot": 194933,
-      "num": 194933,
-      "word": "你手机地震预警功能开了吗",
-      "onboard_time": 1662451167,
-      "rank": 39,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 192523,
@@ -3129,14 +3177,6 @@
       "onboard_time": 1662433588,
       "rank": 40,
       "category": "社会新闻,军事"
-    },
-    {
-      "raw_hot": 181884,
-      "num": 181884,
-      "word": "泸定地震致66人遇难",
-      "onboard_time": 1662452848,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 180796,
@@ -3347,14 +3387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 151936,
-      "num": 151936,
-      "word": "老人卖关东煮遭醉酒男掀锅殴打",
-      "onboard_time": 1662452848,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 149730,
       "num": 149730,
       "word": "10岁男孩8个月学会6种字体",
@@ -3393,6 +3425,14 @@
       "onboard_time": 1662420805,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146183,
+      "num": 146183,
+      "word": "年轻人消费态度大赏",
+      "onboard_time": 1662452189,
+      "rank": 48,
+      "category": "科技,幽默"
     },
     {
       "raw_hot": 145244,
@@ -3451,6 +3491,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 140556,
+      "num": 140556,
+      "word": "沙漏",
+      "onboard_time": 1662453330,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 139824,
       "num": 139824,
       "word": "她们的名字一口气发999条金句",
@@ -3465,14 +3513,6 @@
       "onboard_time": 1662387392,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 139125,
-      "num": 139125,
-      "word": "年轻人消费态度大赏",
-      "onboard_time": 1662452189,
-      "rank": 48,
-      "category": "科技,幽默"
     },
     {
       "raw_hot": 139038,
