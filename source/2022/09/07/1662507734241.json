@@ -1,0 +1,410 @@
+{
+  "runTime": 1662507734241,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1157817,
+        "num": 1157817,
+        "word": "公交女司机从腰肌劳损到练出马甲线",
+        "onboard_time": 1662498551,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1107770,
+        "num": 1107770,
+        "word": "猴痘",
+        "onboard_time": 1662467728,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132936,
+        "num": 979469,
+        "word": "渡难关泸定安",
+        "onboard_time": 1662473673,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 923425,
+        "num": 923425,
+        "word": "中科院试验站遇难女研究生家属发声",
+        "onboard_time": 1662476671,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 651991,
+        "num": 651991,
+        "word": "95后女孩送父亲30万新车",
+        "onboard_time": 1662477811,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 620440,
+        "num": 620440,
+        "word": "专家称四川6.8级地震与干旱无关",
+        "onboard_time": 1662492791,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 601667,
+        "num": 601667,
+        "word": "白露",
+        "onboard_time": 1662506181,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546611,
+        "num": 546611,
+        "word": "32岁总裁辞掉百万年薪返乡种辣椒",
+        "onboard_time": 1662471991,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453772,
+        "num": 453772,
+        "word": "当人类幼崽开始假装上班",
+        "onboard_time": 1662467907,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 413438,
+        "num": 413438,
+        "word": "原来大学才是努力的开始",
+        "onboard_time": 1662481825,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 893242,
+        "num": 404382,
+        "word": "我都替井柏然尴尬的睡不着",
+        "onboard_time": 1662506422,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 579031,
+        "num": 401418,
+        "word": "网曝58同城惊现招聘卖淫信息",
+        "onboard_time": 1662475772,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393072,
+        "num": 393072,
+        "word": "胡枫确诊新冠",
+        "onboard_time": 1662475292,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313473,
+        "num": 313473,
+        "word": "上海将处罚后排乘客不系安全带行为",
+        "onboard_time": 1662479727,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290503,
+        "num": 290503,
+        "word": "迪丽热巴吴磊加盟青春环游记",
+        "onboard_time": 1662460711,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264107,
+        "num": 264107,
+        "word": "成都上空现大片七彩云",
+        "onboard_time": 1662477091,
+        "rank": 15,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 254124,
+        "num": 254124,
+        "word": "欧冠",
+        "onboard_time": 1662506481,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236486,
+        "num": 236486,
+        "word": "郭晓婷今年第四部剧开播",
+        "onboard_time": 1662486015,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223418,
+        "num": 223418,
+        "word": "经销商证实河北格力售后服务平台突遭关闭",
+        "onboard_time": 1662496871,
+        "rank": 18,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 219260,
+        "num": 219260,
+        "word": "外交部回应俄驻阿富汗使馆附近爆炸",
+        "onboard_time": 1662494830,
+        "rank": 19,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 371797,
+        "num": 219120,
+        "word": "家长反对凑钱送礼给老师被逼退群",
+        "onboard_time": 1662460470,
+        "rank": 20,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 218906,
+        "num": 218906,
+        "word": "980元的水壶长啥样",
+        "onboard_time": 1662475530,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218734,
+        "num": 218734,
+        "word": "富力地产亏损出售北京万达嘉华酒店全部股权",
+        "onboard_time": 1662483740,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 210214,
+        "num": 210214,
+        "word": "可爱小警犬是王牌缉毒犬",
+        "onboard_time": 1662503056,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197313,
+        "num": 197313,
+        "word": "仙剑奇侠传里的仙指的是赵灵儿",
+        "onboard_time": 1662467189,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185650,
+        "num": 185650,
+        "word": "男子连玩441小时游戏被封号",
+        "onboard_time": 1662507203,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179898,
+        "num": 179898,
+        "word": "华为mate50",
+        "onboard_time": 1662474152,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 170003,
+        "num": 170003,
+        "word": "为什么形容露水是白的",
+        "onboard_time": 1662507145,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168029,
+        "num": 168029,
+        "word": "网友劝阻大爷大妈们河边放生矿泉水",
+        "onboard_time": 1662459990,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166143,
+        "num": 166143,
+        "word": "沈腾出席马丽新片首映礼",
+        "onboard_time": 1662475593,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162425,
+        "num": 162425,
+        "word": "距考研开考还有109天",
+        "onboard_time": 1662504678,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 159085,
+        "num": 159085,
+        "word": "官方通报老人当街向学生下跪",
+        "onboard_time": 1662465450,
+        "rank": 31,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 156330,
+        "num": 156330,
+        "word": "北京昌平新增4例确诊1例阳性",
+        "onboard_time": 1662476612,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150163,
+        "num": 150163,
+        "word": "快说谢谢一战成硕",
+        "onboard_time": 1662499150,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 150153,
+        "num": 150153,
+        "word": "吴彤终于要邀请到刘德华了",
+        "onboard_time": 1662460530,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132288,
+        "num": 132288,
+        "word": "学校安排80个学生住一间宿舍",
+        "onboard_time": 1662459148,
+        "rank": 35,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 128531,
+        "num": 128531,
+        "word": "驴友在鄱阳湖湖滩发现江豚尸体",
+        "onboard_time": 1662465088,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120939,
+        "num": 120939,
+        "word": "江苏一村庄为空巢老人提供3元餐",
+        "onboard_time": 1662475472,
+        "rank": 37,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 116417,
+        "num": 116417,
+        "word": "法考准考证",
+        "onboard_time": 1662506242,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 116132,
+        "num": 116132,
+        "word": "巴西禁售不带充电器iPhone",
+        "onboard_time": 1662507444,
+        "rank": 39,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 111662,
+        "num": 111662,
+        "word": "原来懂礼貌真的很加分",
+        "onboard_time": 1662462630,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104518,
+        "num": 104518,
+        "word": "何洛洛北电开学被六公主采访",
+        "onboard_time": 1662468866,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97688,
+        "num": 97688,
+        "word": "手机可以开通地震预警",
+        "onboard_time": 1662478950,
+        "rank": 42,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 97452,
+        "num": 97452,
+        "word": "巴黎2比1尤文",
+        "onboard_time": 1662506422,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96682,
+        "num": 96682,
+        "word": "杨洋宋亚轩加盟隐秘的高手",
+        "onboard_time": 1662471390,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92604,
+        "num": 92604,
+        "word": "南风知我意优酷预约破百万",
+        "onboard_time": 1662471630,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 92039,
+        "num": 92039,
+        "word": "克制含胸驼背的方法找到了",
+        "onboard_time": 1662461911,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91643,
+        "num": 91643,
+        "word": "成都疫情防控",
+        "onboard_time": 1662507684,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90766,
+        "num": 90766,
+        "word": "为什么那么多人选择考研",
+        "onboard_time": 1662478531,
+        "rank": 48,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 91636,
+        "num": 90716,
+        "word": "赛博朋克2077往日之影",
+        "onboard_time": 1662507564,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#尽最大努力确保人民群众生命财产安全#"
+    }
+  }
+}
