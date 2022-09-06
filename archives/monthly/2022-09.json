@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662456174393,
+  "endTime": 1662457184984,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -2187,6 +2187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 925860,
+      "num": 524018,
+      "word": "王鹤棣成毅你好星期六上班路透",
+      "onboard_time": 1662456089,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 925131,
       "num": 925131,
       "word": "孟晚舟回母校都匀一中演讲",
@@ -2265,6 +2273,14 @@
       "onboard_time": 1662099567,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 913584,
+      "num": 913584,
+      "word": "章子怡赵丽颖加盟隐秘的高手",
+      "onboard_time": 1662453868,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 909206,
@@ -2395,14 +2411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 871245,
-      "num": 498223,
-      "word": "王鹤棣成毅你好星期六上班路透",
-      "onboard_time": 1662456089,
-      "rank": 13,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 870844,
       "num": 870844,
       "word": "山寨iPhone14ProMax已上市",
@@ -2465,14 +2473,6 @@
       "onboard_time": 1662081867,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 854149,
-      "num": 854149,
-      "word": "章子怡赵丽颖加盟隐秘的高手",
-      "onboard_time": 1662453868,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 852456,
@@ -3225,6 +3225,14 @@
       "onboard_time": 1662020069,
       "rank": 23,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 667732,
+      "num": 667732,
+      "word": "香港现首例猴痘输入病例",
+      "onboard_time": 1662455849,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 666188,
@@ -6411,14 +6419,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 344608,
-      "num": 344608,
-      "word": "香港现首例猴痘输入病例",
-      "onboard_time": 1662455849,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 344389,
       "num": 283021,
       "word": "陈立农中餐厅卖烧烤爆单了",
@@ -6883,6 +6883,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 322806,
+      "num": 322806,
+      "word": "2023考研时间确定",
+      "onboard_time": 1662456030,
+      "rank": 39,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 322182,
       "num": 322182,
       "word": "基金",
@@ -7041,6 +7049,14 @@
       "onboard_time": 1662089426,
       "rank": 27,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 316389,
+      "num": 316389,
+      "word": "我国万亿级企业首次破10家",
+      "onboard_time": 1662455427,
+      "rank": 42,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 316308,
@@ -9067,6 +9083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239646,
+      "num": 223762,
+      "word": "钉钉",
+      "onboard_time": 1662456451,
+      "rank": 31,
+      "category": "科技"
+    },
+    {
       "raw_hot": 239577,
       "num": 199697,
       "word": "沉香重华成毅玄夜喂桃花絮",
@@ -9731,6 +9755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 210887,
+      "num": 210887,
+      "word": "谁是你心中的旗袍美人",
+      "onboard_time": 1662456631,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 210873,
       "num": 210873,
       "word": "沉香如屑把睫毛许愿玩明白了",
@@ -9987,6 +10019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202905,
+      "num": 202905,
+      "word": "顺丰涉数百个运输合同纠纷",
+      "onboard_time": 1662456872,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202450,
       "num": 202450,
       "word": "河南多地有震感",
@@ -10217,14 +10257,6 @@
       "onboard_time": 1662448228,
       "rank": 42,
       "category": "科技"
-    },
-    {
-      "raw_hot": 195044,
-      "num": 195044,
-      "word": "2023考研时间确定",
-      "onboard_time": 1662456030,
-      "rank": 39,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 194085,
@@ -10771,12 +10803,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173581,
-      "num": 173581,
-      "word": "我国万亿级企业首次破10家",
-      "onboard_time": 1662455427,
-      "rank": 42,
-      "category": "财经,社会新闻"
+      "raw_hot": 173470,
+      "num": 173470,
+      "word": "华为汽车",
+      "onboard_time": 1662456389,
+      "rank": 43,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 173429,
+      "num": 173429,
+      "word": "青岛即墨新增多个中高风险区",
+      "onboard_time": 1662456808,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173412,
@@ -10833,6 +10873,14 @@
       "onboard_time": 1662108807,
       "rank": 38,
       "category": "艺人,美食"
+    },
+    {
+      "raw_hot": 170382,
+      "num": 170382,
+      "word": "华为手机首创内存空间压缩",
+      "onboard_time": 1662454529,
+      "rank": 43,
+      "category": "科技"
     },
     {
       "raw_hot": 169610,
@@ -10937,14 +10985,6 @@
       "onboard_time": 1662388598,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 166272,
-      "num": 166272,
-      "word": "华为手机首创内存空间压缩",
-      "onboard_time": 1662454529,
-      "rank": 43,
-      "category": "科技"
     },
     {
       "raw_hot": 166108,
@@ -12833,6 +12873,14 @@
       "onboard_time": 1662413110,
       "rank": 33,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 14889,
+      "num": 197489,
+      "word": "跑鞋你可能没选对",
+      "onboard_time": 1662456691,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 14785,
