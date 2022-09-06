@@ -1,6 +1,6 @@
 {
   "startTime": 1662395471045,
-  "endTime": 1662421312907,
+  "endTime": 1662431662600,
   "band_list": [
     {
       "raw_hot": 2547294,
@@ -27,12 +27,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1127618,
+      "num": 435423,
+      "word": "林彦俊文案抄袭",
+      "onboard_time": 1662428307,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 967578,
+      "num": 967578,
+      "word": "2017年九寨沟地震后四川最大地震",
+      "onboard_time": 1662424472,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 940871,
       "num": 940871,
       "word": "被公司发的月饼气到了",
       "onboard_time": 1662386730,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 902699,
+      "num": 902699,
+      "word": "震中海螺沟2个酒店楼体全塌了",
+      "onboard_time": 1662423449,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 846467,
@@ -59,6 +83,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 805077,
+      "num": 805077,
+      "word": "面试被问空窗期久怎么回答",
+      "onboard_time": 1662424830,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 798447,
       "num": 798447,
       "word": "四川1小时内连发7次地震",
@@ -67,12 +99,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 797977,
+      "num": 797977,
+      "word": "近视12000度是种什么体验",
+      "onboard_time": 1662424230,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 783049,
       "num": 783049,
       "word": "特拉斯当选英国首相",
       "onboard_time": 1662378990,
       "rank": 4,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 656452,
+      "num": 656452,
+      "word": "新生是大长腿杭师大把床加长到2米4",
+      "onboard_time": 1662425731,
+      "rank": 5,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 627372,
@@ -99,6 +147,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 596951,
+      "num": 596951,
+      "word": "四川增68例确诊70例无症状",
+      "onboard_time": 1662429627,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 483078,
       "num": 483078,
       "word": "爸爸给女儿买新笔袋炫耀一路",
@@ -107,12 +163,52 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 471395,
+      "num": 434686,
+      "word": "多的是现在大学生不知道的事",
+      "onboard_time": 1662422608,
+      "rank": 11,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 467261,
       "num": 467261,
       "word": "建议全国普及厦大图书馆标语",
       "onboard_time": 1662418398,
       "rank": 16,
       "category": "教育"
+    },
+    {
+      "raw_hot": 441071,
+      "num": 441071,
+      "word": "AI画作拿一等奖惹怒人类艺术家",
+      "onboard_time": 1662428546,
+      "rank": 9,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 429122,
+      "num": 429122,
+      "word": "mate50",
+      "onboard_time": 1662426332,
+      "rank": 12,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 409900,
+      "num": 409900,
+      "word": "长大以后更羡慕夏雪了",
+      "onboard_time": 1662424530,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 404463,
+      "num": 404463,
+      "word": "BLACKPINK新专单人预告海报",
+      "onboard_time": 1662427169,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 375458,
@@ -147,6 +243,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 315951,
+      "num": 315951,
+      "word": "北京疫情防控",
+      "onboard_time": 1662426033,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 308934,
+      "num": 308934,
+      "word": "鄱阳湖正式进入极枯水位",
+      "onboard_time": 1662429627,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297411,
       "num": 297411,
       "word": "遇到彩色牛肉不要慌",
@@ -155,11 +267,27 @@
       "category": "美食"
     },
     {
+      "raw_hot": 287715,
+      "num": 1103206,
+      "word": "泸定地震最新动态",
+      "onboard_time": 1662382469,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 286985,
       "num": 286985,
       "word": "望泸定平安",
       "onboard_time": 1662398596,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285969,
+      "num": 285969,
+      "word": "黑龙江大庆市疾控中心主任被免职",
+      "onboard_time": 1662425973,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -195,20 +323,28 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 259995,
-      "num": 1103206,
-      "word": "泸定地震最新动态",
-      "onboard_time": 1662382469,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 246139,
       "num": 216721,
       "word": "国家地震应急响应级别提升至二级",
       "onboard_time": 1662421224,
       "rank": 20,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 239505,
+      "num": 239505,
+      "word": "国产大型通信无人机飞赴震中",
+      "onboard_time": 1662430226,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239226,
+      "num": 239226,
+      "word": "永远不要忽略身边的快乐",
+      "onboard_time": 1662428788,
+      "rank": 22,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 227191,
@@ -227,11 +363,43 @@
       "category": "影视"
     },
     {
+      "raw_hot": 216547,
+      "num": 216547,
+      "word": "飞夺泸定桥的泸定",
+      "onboard_time": 1662423087,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215582,
+      "num": 215582,
+      "word": "蔡徐坤蒙着眼发行三周年",
+      "onboard_time": 1662427288,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 214099,
+      "num": 214099,
+      "word": "9月5日新增确诊310例",
+      "onboard_time": 1662431367,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210727,
       "num": 210727,
       "word": "泸定震后第一夜",
       "onboard_time": 1662420443,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202937,
+      "num": 202937,
+      "word": "山东新增2例本土确诊63例本土无症状",
+      "onboard_time": 1662427829,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -251,6 +419,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 194530,
+      "num": 194530,
+      "word": "玉骨遥",
+      "onboard_time": 1662427887,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192837,
       "num": 192837,
       "word": "48家券商合计降薪超百亿",
@@ -259,11 +435,35 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 189457,
+      "num": 189457,
+      "word": "苹果或发布儿童手表",
+      "onboard_time": 1662426631,
+      "rank": 29,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 186445,
+      "num": 186445,
+      "word": "异地恋该有的样子",
+      "onboard_time": 1662420745,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 183740,
       "num": 183740,
       "word": "地震瞬间父亲把孩子紧紧护在怀里",
       "onboard_time": 1662376589,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182778,
+      "num": 182778,
+      "word": "震后这群孩子主动加入搬运物资长龙",
+      "onboard_time": 1662430167,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -289,6 +489,22 @@
       "onboard_time": 1662420985,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164223,
+      "num": 164223,
+      "word": "消防员席地而睡村民默默盖被添柴",
+      "onboard_time": 1662431126,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162637,
+      "num": 162637,
+      "word": "95后穿汉服露营赏月引围观",
+      "onboard_time": 1662431546,
+      "rank": 38,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 161888,
@@ -363,12 +579,36 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 145244,
+      "num": 145244,
+      "word": "辽宁新增本土确诊2例本土无症状89例",
+      "onboard_time": 1662427588,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144821,
       "num": 144821,
       "word": "原来每个人都有收集癖",
       "onboard_time": 1662381630,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 143444,
+      "num": 143444,
+      "word": "消防员带搜救犬手脚并用赶往震中",
+      "onboard_time": 1662427109,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143093,
+      "num": 143093,
+      "word": "大渡河一级支流湾东河已断流",
+      "onboard_time": 1662429687,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139038,
@@ -387,6 +627,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 135970,
+      "num": 135970,
+      "word": "95后大学生回到大山建起云朵操场",
+      "onboard_time": 1662430586,
+      "rank": 45,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 135954,
+      "num": 135954,
+      "word": "光遇",
+      "onboard_time": 1662428369,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 134060,
       "num": 134060,
       "word": "网传两个人的小森林定档9月15",
@@ -401,6 +657,22 @@
       "onboard_time": 1662374848,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 128937,
+      "num": 128937,
+      "word": "这就是广东人的中秋技能吧",
+      "onboard_time": 1662431306,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 110721,
+      "num": 110721,
+      "word": "9月5日新增本土无症状1235例",
+      "onboard_time": 1662428307,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108814,

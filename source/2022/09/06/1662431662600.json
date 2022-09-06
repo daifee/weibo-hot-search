@@ -1,0 +1,410 @@
+{
+  "runTime": 1662431662600,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 967578,
+        "num": 967578,
+        "word": "2017年九寨沟地震后四川最大地震",
+        "onboard_time": 1662424472,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 902699,
+        "num": 902699,
+        "word": "震中海螺沟2个酒店楼体全塌了",
+        "onboard_time": 1662423449,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287715,
+        "num": 822461,
+        "word": "泸定地震最新动态",
+        "onboard_time": 1662382469,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 805077,
+        "num": 805077,
+        "word": "面试被问空窗期久怎么回答",
+        "onboard_time": 1662424830,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 797977,
+        "num": 797977,
+        "word": "近视12000度是种什么体验",
+        "onboard_time": 1662424230,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 656452,
+        "num": 656452,
+        "word": "新生是大长腿杭师大把床加长到2米4",
+        "onboard_time": 1662425731,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 618990,
+        "num": 618990,
+        "word": "被公司发的月饼气到了",
+        "onboard_time": 1662386730,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 616109,
+        "num": 616109,
+        "word": "特拉斯当选英国首相",
+        "onboard_time": 1662378990,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 596951,
+        "num": 596951,
+        "word": "四川增68例确诊70例无症状",
+        "onboard_time": 1662429627,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441071,
+        "num": 441071,
+        "word": "AI画作拿一等奖惹怒人类艺术家",
+        "onboard_time": 1662428546,
+        "rank": 9,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 1127618,
+        "num": 435423,
+        "word": "林彦俊文案抄袭",
+        "onboard_time": 1662428307,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 471395,
+        "num": 434686,
+        "word": "多的是现在大学生不知道的事",
+        "onboard_time": 1662422608,
+        "rank": 11,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 429122,
+        "num": 429122,
+        "word": "mate50",
+        "onboard_time": 1662426332,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 420544,
+        "num": 420544,
+        "word": "地震造成中科院观测站垮塌1人遇难",
+        "onboard_time": 1662418339,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409900,
+        "num": 409900,
+        "word": "长大以后更羡慕夏雪了",
+        "onboard_time": 1662424530,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 404463,
+        "num": 404463,
+        "word": "BLACKPINK新专单人预告海报",
+        "onboard_time": 1662427169,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 364924,
+        "num": 364924,
+        "word": "泸定地震46人遇难",
+        "onboard_time": 1662392968,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315951,
+        "num": 315951,
+        "word": "北京疫情防控",
+        "onboard_time": 1662426033,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308934,
+        "num": 308934,
+        "word": "鄱阳湖正式进入极枯水位",
+        "onboard_time": 1662429627,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285969,
+        "num": 285969,
+        "word": "黑龙江大庆市疾控中心主任被免职",
+        "onboard_time": 1662425973,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250879,
+        "num": 250879,
+        "word": "QQ推出QQ学生卡",
+        "onboard_time": 1662387996,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 239505,
+        "num": 239505,
+        "word": "国产大型通信无人机飞赴震中",
+        "onboard_time": 1662430226,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239226,
+        "num": 239226,
+        "word": "永远不要忽略身边的快乐",
+        "onboard_time": 1662428788,
+        "rank": 22,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 216547,
+        "num": 216547,
+        "word": "飞夺泸定桥的泸定",
+        "onboard_time": 1662423087,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215582,
+        "num": 215582,
+        "word": "蔡徐坤蒙着眼发行三周年",
+        "onboard_time": 1662427288,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 214099,
+        "num": 214099,
+        "word": "9月5日新增确诊310例",
+        "onboard_time": 1662431367,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202937,
+        "num": 202937,
+        "word": "山东新增2例本土确诊63例本土无症状",
+        "onboard_time": 1662427829,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201391,
+        "num": 201391,
+        "word": "iPhone14Pro将配备更大电池",
+        "onboard_time": 1662405311,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 194530,
+        "num": 194530,
+        "word": "玉骨遥",
+        "onboard_time": 1662427887,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189457,
+        "num": 189457,
+        "word": "苹果或发布儿童手表",
+        "onboard_time": 1662426631,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 186445,
+        "num": 186445,
+        "word": "异地恋该有的样子",
+        "onboard_time": 1662420745,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184599,
+        "num": 184599,
+        "word": "网传韩剧鬼怪将翻拍中国版",
+        "onboard_time": 1662389317,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184595,
+        "num": 184595,
+        "word": "校长门口制止家长给孩子背书包",
+        "onboard_time": 1662394347,
+        "rank": 32,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 182778,
+        "num": 182778,
+        "word": "震后这群孩子主动加入搬运物资长龙",
+        "onboard_time": 1662430167,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177871,
+        "num": 177871,
+        "word": "浙江一孩平均生育年龄27.33岁",
+        "onboard_time": 1662395782,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165241,
+        "num": 165241,
+        "word": "上海一商业广场雕塑被指性暗示",
+        "onboard_time": 1662388540,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164223,
+        "num": 164223,
+        "word": "消防员席地而睡村民默默盖被添柴",
+        "onboard_time": 1662431126,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163430,
+        "num": 163430,
+        "word": "爸爸给女儿买新笔袋炫耀一路",
+        "onboard_time": 1662390814,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162637,
+        "num": 162637,
+        "word": "95后穿汉服露营赏月引围观",
+        "onboard_time": 1662431546,
+        "rank": 38,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 154323,
+        "num": 154323,
+        "word": "四川1小时内连发7次地震",
+        "onboard_time": 1662365728,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148181,
+        "num": 148181,
+        "word": "张子枫出席电影妈妈首映",
+        "onboard_time": 1662393448,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147033,
+        "num": 147033,
+        "word": "网传王一博国庆档三部电影同时上映",
+        "onboard_time": 1662415212,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145244,
+        "num": 145244,
+        "word": "辽宁新增本土确诊2例本土无症状89例",
+        "onboard_time": 1662427588,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143444,
+        "num": 143444,
+        "word": "消防员带搜救犬手脚并用赶往震中",
+        "onboard_time": 1662427109,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143093,
+        "num": 143093,
+        "word": "大渡河一级支流湾东河已断流",
+        "onboard_time": 1662429687,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135970,
+        "num": 135970,
+        "word": "95后大学生回到大山建起云朵操场",
+        "onboard_time": 1662430586,
+        "rank": 45,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 135954,
+        "num": 135954,
+        "word": "光遇",
+        "onboard_time": 1662428369,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132771,
+        "num": 132771,
+        "word": "遇到彩色牛肉不要慌",
+        "onboard_time": 1662390452,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 128937,
+        "num": 128937,
+        "word": "这就是广东人的中秋技能吧",
+        "onboard_time": 1662431306,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110721,
+        "num": 110721,
+        "word": "9月5日新增本土无症状1235例",
+        "onboard_time": 1662428307,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把抢救生命作为首要任务#"
+    }
+  }
+}
