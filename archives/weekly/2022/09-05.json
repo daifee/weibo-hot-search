@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662496786098,
+  "endTime": 1662499209346,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -4651,6 +4651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 54953,
+      "num": 43452,
+      "word": "外交部回应俄驻阿富汗使馆附近爆炸",
+      "onboard_time": 1662494830,
+      "rank": 49,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 53181,
       "num": 53181,
       "word": "李欣泽是沉香重华最大boss",
@@ -4707,12 +4715,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28883,
-      "num": 22767,
-      "word": "外交部回应俄驻阿富汗使馆附近爆炸",
-      "onboard_time": 1662494830,
-      "rank": 49,
-      "category": "国内要闻"
+      "raw_hot": 28612,
+      "num": 23572,
+      "word": "经销商证实河北格力售后服务平台突遭关闭",
+      "onboard_time": 1662496871,
+      "rank": 22,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 26395,
@@ -4771,12 +4779,36 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 11981,
+      "num": 11981,
+      "word": "公交女司机从腰肌劳损到练出马甲线",
+      "onboard_time": 1662498551,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 11564,
       "num": 11564,
       "word": "苍兰夫妇闪现吻花絮",
       "onboard_time": 1662296188,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 11162,
+      "num": 18119,
+      "word": "他们在绝壁上打通生命通道",
+      "onboard_time": 1662496930,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7866,
+      "num": 7866,
+      "word": "快说谢谢一战成硕",
+      "onboard_time": 1662499150,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 7324,
