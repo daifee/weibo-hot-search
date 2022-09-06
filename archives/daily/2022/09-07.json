@@ -1,6 +1,6 @@
 {
   "startTime": 1662481978498,
-  "endTime": 1662481978498,
+  "endTime": 1662483462455,
   "band_list": [
     {
       "raw_hot": 1704496,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 609311,
+      "num": 609311,
+      "word": "上海将处罚后排乘客不系安全带行为",
+      "onboard_time": 1662479727,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 608468,
       "num": 203100,
       "word": "网曝58同城惊现招聘卖淫信息",
@@ -49,14 +57,6 @@
       "onboard_time": 1662475292,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 463261,
-      "num": 463261,
-      "word": "上海将处罚后排乘客不系安全带行为",
-      "onboard_time": 1662479727,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 431675,
@@ -105,6 +105,14 @@
       "onboard_time": 1662477751,
       "rank": 12,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 361411,
+      "num": 361411,
+      "word": "原来大学才是努力的开始",
+      "onboard_time": 1662481825,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 291597,
@@ -387,25 +395,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 94658,
-      "num": 94658,
-      "word": "原来大学才是努力的开始",
-      "onboard_time": 1662481825,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 88529,
       "num": 88529,
       "word": "罚罪",
       "onboard_time": 1662473850,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 86585,
+      "num": 86585,
+      "word": "吴彤终于要邀请到刘德华了",
+      "onboard_time": 1662460530,
+      "rank": 41,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
     {
       "word": "#健全关键核心技术攻关新型举国体制#"
+    },
+    {
+      "word": "#尽最大努力确保人民群众生命财产安全#"
     }
   ]
 }
