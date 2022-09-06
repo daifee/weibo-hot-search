@@ -1,10 +1,10 @@
 {
   "startTime": 1662395471045,
-  "endTime": 1662474231483,
+  "endTime": 1662475221401,
   "band_list": [
     {
-      "raw_hot": 3932250,
-      "num": 3932250,
+      "raw_hot": 4134109,
+      "num": 4134109,
       "word": "猴痘",
       "onboard_time": 1662467728,
       "rank": 18,
@@ -152,6 +152,14 @@
       "word": "UR成本91元连衣裙翻4倍卖369元",
       "onboard_time": 1662435089,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1300347,
+      "num": 1300347,
+      "word": "32岁总裁辞掉百万年薪返乡种辣椒",
+      "onboard_time": 1662471991,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -331,14 +339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 907526,
-      "num": 907526,
-      "word": "32岁总裁辞掉百万年薪返乡种辣椒",
-      "onboard_time": 1662471991,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 902699,
       "num": 902699,
       "word": "震中海螺沟2个酒店楼体全塌了",
@@ -475,6 +475,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 722983,
+      "num": 722983,
+      "word": "将博士后人员作为补充师资重要来源",
+      "onboard_time": 1662470968,
+      "rank": 35,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 722602,
       "num": 722602,
       "word": "警方回应老人当街向学生下跪",
@@ -497,6 +505,14 @@
       "onboard_time": 1662443187,
       "rank": 13,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 696839,
+      "num": 696839,
+      "word": "南风知我意优酷预约破百万",
+      "onboard_time": 1662471630,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 677635,
@@ -531,11 +547,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 641273,
-      "num": 641273,
-      "word": "南风知我意优酷预约破百万",
-      "onboard_time": 1662471630,
-      "rank": 13,
+      "raw_hot": 647755,
+      "num": 647755,
+      "word": "网传白鹿王鹤棣出演仙剑五前传",
+      "onboard_time": 1662474391,
+      "rank": 7,
       "category": "影视"
     },
     {
@@ -673,14 +689,6 @@
       "onboard_time": 1662432806,
       "rank": 9,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 527409,
-      "num": 527409,
-      "word": "将博士后人员作为补充师资重要来源",
-      "onboard_time": 1662470968,
-      "rank": 35,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 524683,
@@ -1060,7 +1068,7 @@
     },
     {
       "raw_hot": 305305,
-      "num": 277454,
+      "num": 288586,
       "word": "罚罪",
       "onboard_time": 1662382709,
       "rank": 30,
@@ -1243,6 +1251,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 266973,
+      "num": 266973,
+      "word": "有点孝心但不多的狗子",
+      "onboard_time": 1662472950,
+      "rank": 34,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 266415,
       "num": 266415,
       "word": "综艺隐秘的高手网传阵容",
@@ -1339,20 +1355,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 251000,
+      "num": 251000,
+      "word": "华为mate50",
+      "onboard_time": 1662474152,
+      "rank": 35,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 248777,
+      "num": 186081,
+      "word": "姚晨沙溢加盟我们的客栈",
+      "onboard_time": 1662471270,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248619,
       "num": 248619,
       "word": "顺丰涉数百个运输合同纠纷",
       "onboard_time": 1662456872,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 246715,
-      "num": 180980,
-      "word": "姚晨沙溢加盟我们的客栈",
-      "onboard_time": 1662471270,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 246139,
@@ -1619,6 +1643,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 194208,
+      "num": 181522,
+      "word": "魏晨新剧把父亲藏鱼缸",
+      "onboard_time": 1662473673,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192837,
       "num": 192837,
       "word": "48家券商合计降薪超百亿",
@@ -1715,14 +1747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 178407,
-      "num": 178407,
-      "word": "魏晨新剧把父亲藏鱼缸",
-      "onboard_time": 1662473673,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 176446,
       "num": 176446,
       "word": "成毅长沙录制你好星期六",
@@ -1763,14 +1787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 166986,
-      "num": 166986,
-      "word": "有点孝心但不多的狗子",
-      "onboard_time": 1662472950,
-      "rank": 34,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 166504,
       "num": 166504,
       "word": "鸿蒙3今日开放升级",
@@ -1793,14 +1809,6 @@
       "onboard_time": 1662431126,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 163737,
-      "num": 163737,
-      "word": "华为mate50",
-      "onboard_time": 1662474152,
-      "rank": 35,
-      "category": "科技"
     },
     {
       "raw_hot": 163435,
@@ -2091,12 +2099,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 122475,
+      "num": 995763,
+      "word": "渡难关泸定安",
+      "onboard_time": 1662473673,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110752,
+      "num": 110752,
+      "word": "哪句话成了你低谷期的救赎",
+      "onboard_time": 1662474933,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 110721,
       "num": 110721,
       "word": "9月5日新增本土无症状1235例",
       "onboard_time": 1662428307,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110652,
+      "num": 117806,
+      "word": "新疆杨树林落叶织成金色地毯",
+      "onboard_time": 1662473550,
+      "rank": 49,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 108814,
@@ -2113,6 +2145,14 @@
       "onboard_time": 1662382289,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108252,
+      "num": 108252,
+      "word": "第一次吃火鸡面的感受",
+      "onboard_time": 1662475113,
+      "rank": 49,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 106614,
@@ -2169,14 +2209,6 @@
       "onboard_time": 1662395004,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 90363,
-      "num": 117806,
-      "word": "新疆杨树林落叶织成金色地毯",
-      "onboard_time": 1662473550,
-      "rank": 49,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 87310,
@@ -2257,14 +2289,6 @@
       "onboard_time": 1662419601,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 52971,
-      "num": 931796,
-      "word": "渡难关泸定安",
-      "onboard_time": 1662473673,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 46687,
