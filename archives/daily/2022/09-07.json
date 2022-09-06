@@ -1,6 +1,6 @@
 {
   "startTime": 1662481978498,
-  "endTime": 1662491895814,
+  "endTime": 1662492846278,
   "band_list": [
     {
       "raw_hot": 1704496,
@@ -433,6 +433,14 @@
       "onboard_time": 1662487872,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 9429,
+      "num": 9429,
+      "word": "专家称四川6.8级地震与干旱无关",
+      "onboard_time": 1662492791,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

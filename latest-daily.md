@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/07 00:32:58 ~ 2022/09/07 03:18:15
+本榜单时间：2022/09/07 00:32:58 ~ 2022/09/07 03:34:06
 </p>
 </blockquote>
 <p>
@@ -335,6 +335,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%9F%E6%B4%BB%E8%AE%A9%E4%BD%A0%E6%87%82%E4%BA%86%E4%BA%9B%E4%BB%80%E4%B9%88%23" target="weibo">
 生活让你懂了些什么（热度：14004）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%9B%9B%E5%B7%9D6.8%E7%BA%A7%E5%9C%B0%E9%9C%87%E4%B8%8E%E5%B9%B2%E6%97%B1%E6%97%A0%E5%85%B3%23" target="weibo">
+专家称四川6.8级地震与干旱无关（热度：9429）
 </a>
 </li>
 
