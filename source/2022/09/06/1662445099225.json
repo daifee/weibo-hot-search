@@ -1,0 +1,410 @@
+{
+  "runTime": 1662445099225,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3285170,
+        "num": 3285170,
+        "word": "顺丰寄丢11000元手机仅赔1000",
+        "onboard_time": 1662438513,
+        "rank": 0,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 1326602,
+        "num": 1326602,
+        "word": "泸定地震已致65人遇难",
+        "onboard_time": 1662437189,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 103161,
+        "num": 1156784,
+        "word": "泸定地震最新动态",
+        "onboard_time": 1662382469,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1062150,
+        "num": 1062150,
+        "word": "冰雨火全员塌房陈宇幸免",
+        "onboard_time": 1662440791,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 935312,
+        "num": 935312,
+        "word": "地震瞬间老师扔下碗筷冲向午休孩子",
+        "onboard_time": 1662433468,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 792277,
+        "num": 792277,
+        "word": "UR成本91元连衣裙翻4倍卖369元",
+        "onboard_time": 1662435089,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610689,
+        "num": 610689,
+        "word": "面试被问空窗期久怎么回答",
+        "onboard_time": 1662424830,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 591067,
+        "num": 591067,
+        "word": "网传杨紫主演电影照明商店",
+        "onboard_time": 1662442646,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 587248,
+        "num": 587248,
+        "word": "为何月饼越来越便宜",
+        "onboard_time": 1662441271,
+        "rank": 8,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 500600,
+        "num": 500600,
+        "word": "女子超市偷2榴莲监控死角装包带走",
+        "onboard_time": 1662436828,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 918243,
+        "num": 500251,
+        "word": "网传赵露思丁程鑫演沙漏",
+        "onboard_time": 1662437669,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 885277,
+        "num": 496341,
+        "word": "龚俊王鹤棣陈飞宇封面",
+        "onboard_time": 1662440134,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 488917,
+        "num": 488917,
+        "word": "上海疫情防控",
+        "onboard_time": 1662443130,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454340,
+        "num": 454340,
+        "word": "教资考试报名人数升至1144.2万",
+        "onboard_time": 1662443187,
+        "rank": 13,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 434596,
+        "num": 434596,
+        "word": "宝宝被骂扒猫笼哭诉获猫咪摸头安慰",
+        "onboard_time": 1662438815,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423530,
+        "num": 423530,
+        "word": "华为Mate50有哪些黑科技",
+        "onboard_time": 1662439772,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 394393,
+        "num": 394393,
+        "word": "偶遇耄耋老人收水稻女子网上求助",
+        "onboard_time": 1662440012,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389778,
+        "num": 389778,
+        "word": "西安一小学回应每学期收2千午托费",
+        "onboard_time": 1662442045,
+        "rank": 17,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 367766,
+        "num": 367766,
+        "word": "国家将开始投放中央猪肉储备",
+        "onboard_time": 1662433167,
+        "rank": 18,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 293468,
+        "num": 293468,
+        "word": "林彦俊文案抄袭",
+        "onboard_time": 1662428307,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374217,
+        "num": 290956,
+        "word": "张凌赫的初中毕业旧照",
+        "onboard_time": 1662439413,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256319,
+        "num": 256319,
+        "word": "阿汤哥挂在飞机上录碟中谍7花絮",
+        "onboard_time": 1662436409,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239083,
+        "num": 239083,
+        "word": "冬天真的很需要这个被子",
+        "onboard_time": 1662439891,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233727,
+        "num": 233727,
+        "word": "是否家暴成酒泉干部选拔任用参考依据",
+        "onboard_time": 1662443846,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221222,
+        "num": 221222,
+        "word": "北京化工大学昌平校区新增5例初筛阳性",
+        "onboard_time": 1662433705,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 208685,
+        "num": 208685,
+        "word": "mate50",
+        "onboard_time": 1662426332,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 205414,
+        "num": 205414,
+        "word": "四川海螺沟景区200余人被困",
+        "onboard_time": 1662443966,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196454,
+        "num": 196454,
+        "word": "女子还共享电车撞倒一排直接离开",
+        "onboard_time": 1662432507,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192795,
+        "num": 192795,
+        "word": "徐梦洁翻唱彩虹的微笑",
+        "onboard_time": 1662442467,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182066,
+        "num": 182066,
+        "word": "地震瞬间女子抱住女儿也被妈妈抱住",
+        "onboard_time": 1662442888,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180126,
+        "num": 180126,
+        "word": "四川业主辟谣网传地震时不准下楼",
+        "onboard_time": 1662435389,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179001,
+        "num": 179001,
+        "word": "iPhone14系列价格或上涨15%",
+        "onboard_time": 1662433528,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 175892,
+        "num": 175892,
+        "word": "霍格沃茨也开学了",
+        "onboard_time": 1662435327,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173425,
+        "num": 173425,
+        "word": "孙子呼吸机续命爷爷扛木头赚药费",
+        "onboard_time": 1662444327,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161642,
+        "num": 161642,
+        "word": "斗鱼部分主播涉嫌低俗表演被罚3万",
+        "onboard_time": 1662444806,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160974,
+        "num": 160974,
+        "word": "地震瞬间母亲用身体护住患病宝宝",
+        "onboard_time": 1662438333,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157644,
+        "num": 157644,
+        "word": "马嘉祺我们的歌4现场repo",
+        "onboard_time": 1662442825,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153940,
+        "num": 153940,
+        "word": "AI画作拿一等奖惹怒人类艺术家",
+        "onboard_time": 1662428546,
+        "rank": 37,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 147931,
+        "num": 147931,
+        "word": "2017年九寨沟地震后四川最大地震",
+        "onboard_time": 1662424472,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144007,
+        "num": 144007,
+        "word": "秦海璐郭晓婷眼神戏打起来了",
+        "onboard_time": 1662436106,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139042,
+        "num": 139042,
+        "word": "多的是现在大学生不知道的事",
+        "onboard_time": 1662422608,
+        "rank": 40,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 136151,
+        "num": 136151,
+        "word": "心动的信号5第一次大约会",
+        "onboard_time": 1662444626,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132869,
+        "num": 132869,
+        "word": "长大以后更羡慕夏雪了",
+        "onboard_time": 1662424530,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130754,
+        "num": 130754,
+        "word": "2022中国企业500强",
+        "onboard_time": 1662434126,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 126590,
+        "num": 126590,
+        "word": "严浩翔参加北电开学典礼",
+        "onboard_time": 1662436770,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121741,
+        "num": 121741,
+        "word": "被公司发的月饼气到了",
+        "onboard_time": 1662386730,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119028,
+        "num": 119028,
+        "word": "有被这个求婚感动到",
+        "onboard_time": 1662438992,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 110948,
+        "num": 110948,
+        "word": "退伍男生车站求婚等待5年女友",
+        "onboard_time": 1662434847,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105462,
+        "num": 105462,
+        "word": "职场中遇到好领导有多重要",
+        "onboard_time": 1662444985,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104946,
+        "num": 104946,
+        "word": "近视12000度是种什么体验",
+        "onboard_time": 1662424230,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把抢救生命作为首要任务#"
+    }
+  }
+}

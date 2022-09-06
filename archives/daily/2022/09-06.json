@@ -1,6 +1,6 @@
 {
   "startTime": 1662395471045,
-  "endTime": 1662441071093,
+  "endTime": 1662445099225,
   "band_list": [
     {
       "raw_hot": 3524515,
@@ -83,6 +83,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1062150,
+      "num": 1062150,
+      "word": "冰雨火全员塌房陈宇幸免",
+      "onboard_time": 1662440791,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1018808,
       "num": 1018808,
       "word": "鄱阳湖正式进入极枯水位",
@@ -121,6 +129,14 @@
       "onboard_time": 1662423449,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 885277,
+      "num": 602682,
+      "word": "龚俊王鹤棣陈飞宇封面",
+      "onboard_time": 1662440134,
+      "rank": 10,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 846467,
@@ -187,14 +203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 737420,
-      "num": 602682,
-      "word": "龚俊王鹤棣陈飞宇封面",
-      "onboard_time": 1662440134,
-      "rank": 10,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 656452,
       "num": 656452,
       "word": "新生是大长腿杭师大把床加长到2米4",
@@ -243,6 +251,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 591067,
+      "num": 591067,
+      "word": "网传杨紫主演电影照明商店",
+      "onboard_time": 1662442646,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 587248,
+      "num": 587248,
+      "word": "为何月饼越来越便宜",
+      "onboard_time": 1662441271,
+      "rank": 8,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 563352,
       "num": 563352,
       "word": "女子还共享电车撞倒一排直接离开",
@@ -257,6 +281,14 @@
       "onboard_time": 1662432806,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 488917,
+      "num": 488917,
+      "word": "上海疫情防控",
+      "onboard_time": 1662443130,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 488570,
@@ -291,11 +323,35 @@
       "category": "教育"
     },
     {
+      "raw_hot": 454340,
+      "num": 454340,
+      "word": "教资考试报名人数升至1144.2万",
+      "onboard_time": 1662443187,
+      "rank": 13,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 434596,
+      "num": 434596,
+      "word": "宝宝被骂扒猫笼哭诉获猫咪摸头安慰",
+      "onboard_time": 1662438815,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 429122,
       "num": 429122,
       "word": "mate50",
       "onboard_time": 1662426332,
       "rank": 12,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 423530,
+      "num": 423530,
+      "word": "华为Mate50有哪些黑科技",
+      "onboard_time": 1662439772,
+      "rank": 39,
       "category": "科技"
     },
     {
@@ -323,12 +379,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 398629,
-      "num": 398629,
-      "word": "宝宝被骂扒猫笼哭诉获猫咪摸头安慰",
-      "onboard_time": 1662438815,
-      "rank": 21,
+      "raw_hot": 394393,
+      "num": 394393,
+      "word": "偶遇耄耋老人收水稻女子网上求助",
+      "onboard_time": 1662440012,
+      "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 389778,
+      "num": 389778,
+      "word": "西安一小学回应每学期收2千午托费",
+      "onboard_time": 1662442045,
+      "rank": 17,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 375458,
@@ -571,6 +635,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239083,
+      "num": 239083,
+      "word": "冬天真的很需要这个被子",
+      "onboard_time": 1662439891,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 233727,
+      "num": 233727,
+      "word": "是否家暴成酒泉干部选拔任用参考依据",
+      "onboard_time": 1662443846,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227191,
       "num": 227191,
       "word": "郑州震感来源于此次四川地震",
@@ -584,14 +664,6 @@
       "word": "玉骨遥",
       "onboard_time": 1662427887,
       "rank": 28,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 218503,
-      "num": 218503,
-      "word": "冰雨火全员塌房陈宇幸免",
-      "onboard_time": 1662440791,
-      "rank": 32,
       "category": "影视"
     },
     {
@@ -609,14 +681,6 @@
       "onboard_time": 1662427288,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 214715,
-      "num": 214715,
-      "word": "华为Mate50有哪些黑科技",
-      "onboard_time": 1662439772,
-      "rank": 39,
-      "category": "科技"
     },
     {
       "raw_hot": 214099,
@@ -651,6 +715,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 205414,
+      "num": 205414,
+      "word": "四川海螺沟景区200余人被困",
+      "onboard_time": 1662443966,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204528,
       "num": 204528,
       "word": "有被这个求婚感动到",
@@ -675,14 +747,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 200820,
-      "num": 200820,
-      "word": "偶遇耄耋老人收水稻女子网上求助",
-      "onboard_time": 1662440012,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 196225,
       "num": 196225,
       "word": "中国重型火箭发动机整机试车成功",
@@ -697,6 +761,14 @@
       "onboard_time": 1662389376,
       "rank": 19,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 192795,
+      "num": 192795,
+      "word": "徐梦洁翻唱彩虹的微笑",
+      "onboard_time": 1662442467,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 189457,
@@ -728,6 +800,14 @@
       "word": "震后这群孩子主动加入搬运物资长龙",
       "onboard_time": 1662430167,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182066,
+      "num": 182066,
+      "word": "地震瞬间女子抱住女儿也被妈妈抱住",
+      "onboard_time": 1662442888,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -763,12 +843,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 170226,
-      "num": 170226,
-      "word": "冬天真的很需要这个被子",
-      "onboard_time": 1662439891,
-      "rank": 47,
-      "category": "情感"
+      "raw_hot": 173425,
+      "num": 173425,
+      "word": "孙子呼吸机续命爷爷扛木头赚药费",
+      "onboard_time": 1662444327,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169610,
@@ -819,12 +899,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161642,
+      "num": 161642,
+      "word": "斗鱼部分主播涉嫌低俗表演被罚3万",
+      "onboard_time": 1662444806,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158388,
       "num": 158388,
       "word": "好老师真的能改变一个人吗",
       "onboard_time": 1662388839,
       "rank": 29,
       "category": "教育,情感"
+    },
+    {
+      "raw_hot": 157644,
+      "num": 157644,
+      "word": "马嘉祺我们的歌4现场repo",
+      "onboard_time": 1662442825,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 156752,
@@ -963,6 +1059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 136151,
+      "num": 136151,
+      "word": "心动的信号5第一次大约会",
+      "onboard_time": 1662444626,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135970,
       "num": 135970,
       "word": "95后大学生回到大山建起云朵操场",
@@ -1041,6 +1145,14 @@
       "onboard_time": 1662383008,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105462,
+      "num": 105462,
+      "word": "职场中遇到好领导有多重要",
+      "onboard_time": 1662444985,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 105385,
