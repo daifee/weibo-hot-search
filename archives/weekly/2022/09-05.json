@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662483462455,
+  "endTime": 1662485289318,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -769,6 +769,14 @@
       "onboard_time": 1662444806,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 958792,
+      "num": 958792,
+      "word": "原来大学才是努力的开始",
+      "onboard_time": 1662481825,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 949347,
@@ -2105,14 +2113,6 @@
       "onboard_time": 1662436106,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 361411,
-      "num": 361411,
-      "word": "原来大学才是努力的开始",
-      "onboard_time": 1662481825,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 360198,
@@ -4473,6 +4473,14 @@
       "onboard_time": 1662473550,
       "rank": 49,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 107918,
+      "num": 107918,
+      "word": "富力地产亏损出售北京万达嘉华酒店全部股权",
+      "onboard_time": 1662483740,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 106694,

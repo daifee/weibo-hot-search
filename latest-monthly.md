@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/07 00:57:42
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/07 01:28:09
 </p>
 </blockquote>
 <p>
@@ -1643,6 +1643,12 @@ BLACKPINK新歌未通过KBS审议（热度：999636）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%97%E9%B1%BC%E9%83%A8%E5%88%86%E4%B8%BB%E6%92%AD%E6%B6%89%E5%AB%8C%E4%BD%8E%E4%BF%97%E8%A1%A8%E6%BC%94%E8%A2%AB%E7%BD%9A3%E4%B8%87%23" target="weibo">
 斗鱼部分主播涉嫌低俗表演被罚3万（热度：959338）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%A4%A7%E5%AD%A6%E6%89%8D%E6%98%AF%E5%8A%AA%E5%8A%9B%E7%9A%84%E5%BC%80%E5%A7%8B%23" target="weibo">
+原来大学才是努力的开始（热度：958792）
 </a>
 </li>
 
@@ -4877,12 +4883,6 @@ LPL第三个春夏双冠JDG（热度：364338）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%88%E9%9C%80%E8%A6%81%E8%BF%99%E7%A7%8D%E6%9C%9D%E4%B9%9D%E6%99%9A%E4%BA%94%E7%9A%84%E5%8F%8B%E6%83%85%23" target="weibo">
 很需要这种朝九晚五的友情（热度：362168）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%A4%A7%E5%AD%A6%E6%89%8D%E6%98%AF%E5%8A%AA%E5%8A%9B%E7%9A%84%E5%BC%80%E5%A7%8B%23" target="weibo">
-原来大学才是努力的开始（热度：361411）
 </a>
 </li>
 
