@@ -1,6 +1,6 @@
 {
   "startTime": 1662395471045,
-  "endTime": 1662468527233,
+  "endTime": 1662469969720,
   "band_list": [
     {
       "raw_hot": 3524515,
@@ -81,6 +81,14 @@
       "onboard_time": 1662449489,
       "rank": 27,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1613227,
+      "num": 1613227,
+      "word": "长春市副市长赵显等多名官员被问责",
+      "onboard_time": 1662465507,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1597242,
@@ -171,14 +179,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 1132313,
-      "num": 1132313,
-      "word": "长春市副市长赵显等多名官员被问责",
-      "onboard_time": 1662465507,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1128572,
       "num": 1128572,
       "word": "申请3年才领到的导盲犬被顺走",
@@ -219,12 +219,28 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1062410,
+      "num": 532071,
+      "word": "何洛洛北电开学被六公主采访",
+      "onboard_time": 1662468866,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1059303,
       "num": 1059303,
       "word": "北电22级表演系本科班合照",
       "onboard_time": 1662446667,
       "rank": 6,
       "category": "艺人,教育"
+    },
+    {
+      "raw_hot": 1055827,
+      "num": 1055827,
+      "word": "猴痘",
+      "onboard_time": 1662467728,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1018808,
@@ -323,11 +339,27 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 855082,
+      "num": 855082,
+      "word": "仙剑奇侠传里的仙指的是赵灵儿",
+      "onboard_time": 1662467189,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 846467,
       "num": 846467,
       "word": "财政紧急调拨1.5亿元支持四川抗震救灾",
       "onboard_time": 1662388902,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 845587,
+      "num": 845587,
+      "word": "驴友在鄱阳湖湖滩发现江豚尸体",
+      "onboard_time": 1662465088,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -352,14 +384,6 @@
       "word": "网传王一博国庆档三部电影同时上映",
       "onboard_time": 1662415212,
       "rank": 4,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 815353,
-      "num": 815353,
-      "word": "仙剑奇侠传里的仙指的是赵灵儿",
-      "onboard_time": 1662467189,
-      "rank": 5,
       "category": "影视"
     },
     {
@@ -409,6 +433,14 @@
       "onboard_time": 1662428546,
       "rank": 9,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 757888,
+      "num": 518371,
+      "word": "王鹤棣的笑料没有重复的",
+      "onboard_time": 1662468568,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 741626,
@@ -579,12 +611,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 545257,
-      "num": 481615,
-      "word": "驴友在鄱阳湖湖滩发现江豚尸体",
-      "onboard_time": 1662465088,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 548058,
+      "num": 548058,
+      "word": "方便面一定要试试这样吃",
+      "onboard_time": 1662465988,
+      "rank": 12,
+      "category": "美食"
     },
     {
       "raw_hot": 537553,
@@ -635,6 +667,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 488026,
+      "num": 488026,
+      "word": "官方通报老人当街向学生下跪",
+      "onboard_time": 1662465450,
+      "rank": 17,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 483078,
       "num": 483078,
       "word": "爸爸给女儿买新笔袋炫耀一路",
@@ -675,20 +715,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 448824,
-      "num": 448824,
-      "word": "方便面一定要试试这样吃",
-      "onboard_time": 1662465988,
-      "rank": 12,
-      "category": "美食"
-    },
-    {
       "raw_hot": 434596,
       "num": 434596,
       "word": "宝宝被骂扒猫笼哭诉获猫咪摸头安慰",
       "onboard_time": 1662438815,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 433044,
+      "num": 433044,
+      "word": "当人类幼崽开始假装上班",
+      "onboard_time": 1662467907,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 432709,
@@ -907,14 +947,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 329386,
-      "num": 329386,
-      "word": "官方通报老人当街向学生下跪",
-      "onboard_time": 1662465450,
-      "rank": 17,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 326600,
       "num": 326600,
       "word": "退伍男生车站求婚等待5年女友",
@@ -929,14 +961,6 @@
       "onboard_time": 1662456030,
       "rank": 39,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 319738,
-      "num": 319738,
-      "word": "猴痘",
-      "onboard_time": 1662467728,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 319252,
@@ -1115,14 +1139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 269362,
-      "num": 269362,
-      "word": "当人类幼崽开始假装上班",
-      "onboard_time": 1662467907,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 269333,
       "num": 269333,
       "word": "iPhone14Pro将配备更大电池",
@@ -1203,6 +1219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 257995,
+      "num": 219720,
+      "word": "公诉精英",
+      "onboard_time": 1662468810,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 257872,
       "num": 257872,
       "word": "山西老醋月饼销售火爆",
@@ -1225,6 +1249,14 @@
       "onboard_time": 1662434246,
       "rank": 25,
       "category": "科技,国内要闻"
+    },
+    {
+      "raw_hot": 254381,
+      "num": 237100,
+      "word": "杨紫小仙侍颜淡剧照",
+      "onboard_time": 1662466527,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 251527,
@@ -1275,14 +1307,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 237100,
-      "num": 237100,
-      "word": "杨紫小仙侍颜淡剧照",
-      "onboard_time": 1662466527,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 235018,
       "num": 235018,
       "word": "雷霆杯",
@@ -1305,6 +1329,14 @@
       "onboard_time": 1662411131,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226535,
+      "num": 226535,
+      "word": "特拉斯正式就任英国首相",
+      "onboard_time": 1662467249,
+      "rank": 32,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 225597,
@@ -1363,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213020,
+      "num": 213020,
+      "word": "覆流年",
+      "onboard_time": 1662468327,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 212938,
       "num": 212938,
       "word": "民警将玩具球留在缉毒犬墓前",
@@ -1411,14 +1451,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 205621,
-      "num": 205621,
-      "word": "特拉斯正式就任英国首相",
-      "onboard_time": 1662467249,
-      "rank": 32,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 204528,
       "num": 204528,
       "word": "有被这个求婚感动到",
@@ -1459,6 +1491,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 197056,
+      "num": 197056,
+      "word": "你换手机最看重什么",
+      "onboard_time": 1662467608,
+      "rank": 42,
+      "category": "科技"
+    },
+    {
       "raw_hot": 196225,
       "num": 196225,
       "word": "中国重型火箭发动机整机试车成功",
@@ -1497,14 +1537,6 @@
       "onboard_time": 1662456808,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 191719,
-      "num": 191719,
-      "word": "覆流年",
-      "onboard_time": 1662468327,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 189457,
@@ -1835,14 +1867,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 141636,
-      "num": 141636,
-      "word": "你换手机最看重什么",
-      "onboard_time": 1662467608,
-      "rank": 42,
-      "category": "科技"
-    },
-    {
       "raw_hot": 141123,
       "num": 141123,
       "word": "平板能成为生产力工具吗",
@@ -1899,6 +1923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 136937,
+      "num": 136937,
+      "word": "泸定地震后首个宝宝平安降生",
+      "onboard_time": 1662469346,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136709,
       "num": 136709,
       "word": "时间可以磨平遗憾吗",
@@ -1921,6 +1953,14 @@
       "onboard_time": 1662418339,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 132630,
+      "num": 132630,
+      "word": "心动的信号",
+      "onboard_time": 1662469769,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 131432,
