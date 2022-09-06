@@ -1,0 +1,410 @@
+{
+  "runTime": 1662468527233,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1809089,
+        "num": 1809089,
+        "word": "家长反对凑钱送礼给老师被逼退群",
+        "onboard_time": 1662460470,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1360509,
+        "num": 1360509,
+        "word": "成都市民核酸遇3天后生产采样棉签",
+        "onboard_time": 1662463349,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23222,
+        "num": 1188175,
+        "word": "聚焦2022年国家网络安全宣传周",
+        "onboard_time": 1662447567,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1132313,
+        "num": 1132313,
+        "word": "长春市副市长赵显等多名官员被问责",
+        "onboard_time": 1662465507,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1013035,
+        "num": 1013035,
+        "word": "迪丽热巴吴磊加盟青春环游记",
+        "onboard_time": 1662460711,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 815353,
+        "num": 815353,
+        "word": "仙剑奇侠传里的仙指的是赵灵儿",
+        "onboard_time": 1662467189,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 793564,
+        "num": 793564,
+        "word": "原来懂礼貌真的很加分",
+        "onboard_time": 1662462630,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 713022,
+        "num": 713022,
+        "word": "宋亚轩考上中戏后首个综艺官宣",
+        "onboard_time": 1662462031,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 497307,
+        "num": 497307,
+        "word": "华为Mate50没电也能打电话",
+        "onboard_time": 1662458431,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 491821,
+        "num": 491821,
+        "word": "学校安排80个学生住一间宿舍",
+        "onboard_time": 1662459148,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 556011,
+        "num": 481894,
+        "word": "吴彤终于要邀请到刘德华了",
+        "onboard_time": 1662460530,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 545257,
+        "num": 481615,
+        "word": "驴友在鄱阳湖湖滩发现江豚尸体",
+        "onboard_time": 1662465088,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448824,
+        "num": 448824,
+        "word": "方便面一定要试试这样吃",
+        "onboard_time": 1662465988,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 404201,
+        "num": 404201,
+        "word": "黄明昊看苍兰诀吻戏reaction",
+        "onboard_time": 1662460111,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 378395,
+        "num": 378395,
+        "word": "被人顺走的导盲犬已寻回",
+        "onboard_time": 1662461731,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358595,
+        "num": 358595,
+        "word": "泸定地震捐款",
+        "onboard_time": 1662462989,
+        "rank": 15,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 347722,
+        "num": 347722,
+        "word": "胡歌吴越县委大院预告片",
+        "onboard_time": 1662463531,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 329386,
+        "num": 329386,
+        "word": "官方通报老人当街向学生下跪",
+        "onboard_time": 1662465450,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 319738,
+        "num": 319738,
+        "word": "猴痘",
+        "onboard_time": 1662467728,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319252,
+        "num": 319252,
+        "word": "克制含胸驼背的方法找到了",
+        "onboard_time": 1662461911,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 296326,
+        "num": 296326,
+        "word": "香港现首例猴痘输入病例",
+        "onboard_time": 1662455849,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283200,
+        "num": 283200,
+        "word": "网友劝阻大爷大妈们河边放生矿泉水",
+        "onboard_time": 1662459990,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277446,
+        "num": 277446,
+        "word": "脱口秀大会5将延播",
+        "onboard_time": 1662466588,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269362,
+        "num": 269362,
+        "word": "当人类幼崽开始假装上班",
+        "onboard_time": 1662467907,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 269219,
+        "num": 269219,
+        "word": "长沙县一快递分拨中心爆炸",
+        "onboard_time": 1662458731,
+        "rank": 24,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 248964,
+        "num": 248964,
+        "word": "孙女地震时公主抱瘫痪奶奶逃生",
+        "onboard_time": 1662450327,
+        "rank": 25,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 243114,
+        "num": 243114,
+        "word": "相互喜欢也会分手吗",
+        "onboard_time": 1662447688,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 237100,
+        "num": 237100,
+        "word": "杨紫小仙侍颜淡剧照",
+        "onboard_time": 1662466527,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233208,
+        "num": 233208,
+        "word": "张真源王源闪光的乐队2",
+        "onboard_time": 1662462031,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215844,
+        "num": 215844,
+        "word": "男子被恶狗咬伤后徒手将狗掐死",
+        "onboard_time": 1662450628,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212938,
+        "num": 212938,
+        "word": "民警将玩具球留在缉毒犬墓前",
+        "onboard_time": 1662463710,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210840,
+        "num": 210840,
+        "word": "警方证实韩第一夫人履历造假",
+        "onboard_time": 1662449489,
+        "rank": 31,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 205621,
+        "num": 205621,
+        "word": "特拉斯正式就任英国首相",
+        "onboard_time": 1662467249,
+        "rank": 32,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 205122,
+        "num": 205122,
+        "word": "梦泪",
+        "onboard_time": 1662459751,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 195887,
+        "num": 195887,
+        "word": "警方回应老人当街向学生下跪",
+        "onboard_time": 1662457470,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194562,
+        "num": 194562,
+        "word": "章子怡赵丽颖加盟隐秘的高手",
+        "onboard_time": 1662453868,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191719,
+        "num": 191719,
+        "word": "覆流年",
+        "onboard_time": 1662468327,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176639,
+        "num": 176639,
+        "word": "华为mate50芯片",
+        "onboard_time": 1662450565,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 172588,
+        "num": 172588,
+        "word": "男孩意外发现同学妈妈是自己老师",
+        "onboard_time": 1662449548,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162895,
+        "num": 162895,
+        "word": "网课入侵",
+        "onboard_time": 1662448407,
+        "rank": 39,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 158009,
+        "num": 158009,
+        "word": "脱口秀大会",
+        "onboard_time": 1662467787,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156550,
+        "num": 156550,
+        "word": "顺丰寄丢11000元手机仅赔1000",
+        "onboard_time": 1662438513,
+        "rank": 41,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 141636,
+        "num": 141636,
+        "word": "你换手机最看重什么",
+        "onboard_time": 1662467608,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 139277,
+        "num": 139277,
+        "word": "青春环游记推理季2023年上线",
+        "onboard_time": 1662464608,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139110,
+        "num": 139110,
+        "word": "我国万亿级企业首次破10家",
+        "onboard_time": 1662455427,
+        "rank": 44,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 138617,
+        "num": 138617,
+        "word": "2023考研时间确定",
+        "onboard_time": 1662456030,
+        "rank": 45,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 119659,
+        "num": 119659,
+        "word": "EDG9周年",
+        "onboard_time": 1662462510,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115132,
+        "num": 115132,
+        "word": "李栋旭41岁状态",
+        "onboard_time": 1662453148,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 107800,
+        "num": 107800,
+        "word": "沉香重华番外be",
+        "onboard_time": 1662446126,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 94116,
+        "num": 94116,
+        "word": "雷霆杯",
+        "onboard_time": 1662462389,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把抢救生命作为首要任务#"
+    }
+  }
+}

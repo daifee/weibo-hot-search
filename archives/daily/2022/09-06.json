@@ -1,6 +1,6 @@
 {
   "startTime": 1662395471045,
-  "endTime": 1662464183589,
+  "endTime": 1662468527233,
   "band_list": [
     {
       "raw_hot": 3524515,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1809089,
+      "num": 1809089,
+      "word": "家长反对凑钱送礼给老师被逼退群",
+      "onboard_time": 1662460470,
+      "rank": 42,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1675065,
       "num": 1675065,
       "word": "地震造成中科院观测站垮塌1人遇难",
@@ -107,6 +115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1360509,
+      "num": 1360509,
+      "word": "成都市民核酸遇3天后生产采样棉签",
+      "onboard_time": 1662463349,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1330858,
       "num": 1330858,
       "word": "华为发布会",
@@ -121,14 +137,6 @@
       "onboard_time": 1662435089,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1299249,
-      "num": 1299249,
-      "word": "家长反对凑钱送礼给老师被逼退群",
-      "onboard_time": 1662460470,
-      "rank": 42,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1260802,
@@ -161,6 +169,14 @@
       "onboard_time": 1662458731,
       "rank": 14,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1132313,
+      "num": 1132313,
+      "word": "长春市副市长赵显等多名官员被问责",
+      "onboard_time": 1662465507,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1128572,
@@ -339,6 +355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 815353,
+      "num": 815353,
+      "word": "仙剑奇侠传里的仙指的是赵灵儿",
+      "onboard_time": 1662467189,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 798447,
       "num": 798447,
       "word": "四川1小时内连发7次地震",
@@ -352,6 +376,14 @@
       "word": "近视12000度是种什么体验",
       "onboard_time": 1662424230,
       "rank": 4,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 793564,
+      "num": 793564,
+      "word": "原来懂礼貌真的很加分",
+      "onboard_time": 1662462630,
+      "rank": 32,
       "category": "情感"
     },
     {
@@ -547,6 +579,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 545257,
+      "num": 481615,
+      "word": "驴友在鄱阳湖湖滩发现江豚尸体",
+      "onboard_time": 1662465088,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 537553,
       "num": 537553,
       "word": "LESSERAFIM确定10月中旬回归",
@@ -569,14 +609,6 @@
       "onboard_time": 1662451827,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 510520,
-      "num": 467828,
-      "word": "成都市民核酸遇3天后生产采样棉签",
-      "onboard_time": 1662463349,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 498166,
@@ -641,6 +673,14 @@
       "onboard_time": 1662462031,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 448824,
+      "num": 448824,
+      "word": "方便面一定要试试这样吃",
+      "onboard_time": 1662465988,
+      "rank": 12,
+      "category": "美食"
     },
     {
       "raw_hot": 434596,
@@ -755,6 +795,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 378395,
+      "num": 378395,
+      "word": "被人顺走的导盲犬已寻回",
+      "onboard_time": 1662461731,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 375458,
       "num": 375458,
       "word": "浙江一孩平均生育年龄27.33岁",
@@ -787,12 +835,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 359102,
-      "num": 359102,
-      "word": "原来懂礼貌真的很加分",
-      "onboard_time": 1662462630,
-      "rank": 32,
-      "category": "情感"
+      "raw_hot": 358595,
+      "num": 358595,
+      "word": "泸定地震捐款",
+      "onboard_time": 1662462989,
+      "rank": 43,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 354686,
@@ -808,6 +856,14 @@
       "word": "梦华录 TVB",
       "onboard_time": 1662389259,
       "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 347722,
+      "num": 347722,
+      "word": "胡歌吴越县委大院预告片",
+      "onboard_time": 1662463531,
+      "rank": 20,
       "category": "影视"
     },
     {
@@ -851,6 +907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 329386,
+      "num": 329386,
+      "word": "官方通报老人当街向学生下跪",
+      "onboard_time": 1662465450,
+      "rank": 17,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 326600,
       "num": 326600,
       "word": "退伍男生车站求婚等待5年女友",
@@ -865,6 +929,22 @@
       "onboard_time": 1662456030,
       "rank": 39,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 319738,
+      "num": 319738,
+      "word": "猴痘",
+      "onboard_time": 1662467728,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 319252,
+      "num": 319252,
+      "word": "克制含胸驼背的方法找到了",
+      "onboard_time": 1662461911,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 315951,
@@ -923,14 +1003,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 296661,
-      "num": 296661,
-      "word": "胡歌吴越县委大院预告片",
-      "onboard_time": 1662463531,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 290382,
       "num": 290382,
       "word": "华为Mate50配置",
@@ -971,14 +1043,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 285569,
-      "num": 285569,
-      "word": "克制含胸驼背的方法找到了",
-      "onboard_time": 1662461911,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 285243,
       "num": 285243,
       "word": "第31届金鹰奖首轮结果发布",
@@ -1011,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 277446,
+      "num": 277446,
+      "word": "脱口秀大会5将延播",
+      "onboard_time": 1662466588,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 275456,
       "num": 275456,
       "word": "成都新增本土确诊59例",
@@ -1027,14 +1099,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 273778,
-      "num": 273778,
-      "word": "被人顺走的导盲犬已寻回",
-      "onboard_time": 1662461731,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 271263,
       "num": 271263,
       "word": "丁程鑫杀青不舍马正元",
@@ -1049,6 +1113,14 @@
       "onboard_time": 1662432321,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269362,
+      "num": 269362,
+      "word": "当人类幼崽开始假装上班",
+      "onboard_time": 1662467907,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 269333,
@@ -1203,6 +1275,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 237100,
+      "num": 237100,
+      "word": "杨紫小仙侍颜淡剧照",
+      "onboard_time": 1662466527,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 235018,
       "num": 235018,
       "word": "雷霆杯",
@@ -1241,14 +1321,6 @@
       "onboard_time": 1662452487,
       "rank": 35,
       "category": "科技"
-    },
-    {
-      "raw_hot": 222069,
-      "num": 222069,
-      "word": "泸定地震捐款",
-      "onboard_time": 1662462989,
-      "rank": 43,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 222013,
@@ -1291,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212938,
+      "num": 212938,
+      "word": "民警将玩具球留在缉毒犬墓前",
+      "onboard_time": 1662463710,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211595,
       "num": 211595,
       "word": "华为手机首创内存空间压缩",
@@ -1329,6 +1409,14 @@
       "onboard_time": 1662431546,
       "rank": 38,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 205621,
+      "num": 205621,
+      "word": "特拉斯正式就任英国首相",
+      "onboard_time": 1662467249,
+      "rank": 32,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 204528,
@@ -1409,6 +1497,14 @@
       "onboard_time": 1662456808,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191719,
+      "num": 191719,
+      "word": "覆流年",
+      "onboard_time": 1662468327,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 189457,
@@ -1587,6 +1683,14 @@
       "category": "教育,情感"
     },
     {
+      "raw_hot": 158009,
+      "num": 158009,
+      "word": "脱口秀大会",
+      "onboard_time": 1662467787,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157644,
       "num": 157644,
       "word": "马嘉祺我们的歌4现场repo",
@@ -1731,6 +1835,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 141636,
+      "num": 141636,
+      "word": "你换手机最看重什么",
+      "onboard_time": 1662467608,
+      "rank": 42,
+      "category": "科技"
+    },
+    {
       "raw_hot": 141123,
       "num": 141123,
       "word": "平板能成为生产力工具吗",
@@ -1753,6 +1865,14 @@
       "onboard_time": 1662433766,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 139277,
+      "num": 139277,
+      "word": "青春环游记推理季2023年上线",
+      "onboard_time": 1662464608,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 139038,
@@ -1817,14 +1937,6 @@
       "onboard_time": 1662452130,
       "rank": 49,
       "category": "科技"
-    },
-    {
-      "raw_hot": 131314,
-      "num": 131314,
-      "word": "民警将玩具球留在缉毒犬墓前",
-      "onboard_time": 1662463710,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 128937,
