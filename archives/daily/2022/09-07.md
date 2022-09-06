@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/07 00:32:58 ~ 2022/09/07 04:24:09
+本榜单时间：2022/09/07 00:32:58 ~ 2022/09/07 04:39:46
 </p>
 </blockquote>
 <p>
@@ -339,14 +339,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%9F%E6%B4%BB%E8%AE%A9%E4%BD%A0%E6%87%82%E4%BA%86%E4%BA%9B%E4%BB%80%E4%B9%88%23" target="weibo">
-生活让你懂了些什么（热度：14004）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%BF%84%E9%A9%BB%E9%98%BF%E5%AF%8C%E6%B1%97%E4%BD%BF%E9%A6%86%E9%99%84%E8%BF%91%E7%88%86%E7%82%B8%23" target="weibo">
+外交部回应俄驻阿富汗使馆附近爆炸（热度：28883）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%BF%84%E9%A9%BB%E9%98%BF%E5%AF%8C%E6%B1%97%E4%BD%BF%E9%A6%86%E9%99%84%E8%BF%91%E7%88%86%E7%82%B8%23" target="weibo">
-外交部回应俄驻阿富汗使馆附近爆炸（热度：7421）
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%9F%E6%B4%BB%E8%AE%A9%E4%BD%A0%E6%87%82%E4%BA%86%E4%BA%9B%E4%BB%80%E4%B9%88%23" target="weibo">
+生活让你懂了些什么（热度：14004）
 </a>
 </li>
 

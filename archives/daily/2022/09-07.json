@@ -1,6 +1,6 @@
 {
   "startTime": 1662481978498,
-  "endTime": 1662495849782,
+  "endTime": 1662496786098,
   "band_list": [
     {
       "raw_hot": 1704496,
@@ -435,20 +435,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 28883,
+      "num": 22767,
+      "word": "外交部回应俄驻阿富汗使馆附近爆炸",
+      "onboard_time": 1662494830,
+      "rank": 49,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 14004,
       "num": 14004,
       "word": "生活让你懂了些什么",
       "onboard_time": 1662487872,
       "rank": 49,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 7421,
-      "num": 10774,
-      "word": "外交部回应俄驻阿富汗使馆附近爆炸",
-      "onboard_time": 1662494830,
-      "rank": 49,
-      "category": "国内要闻"
     }
   ],
   "hotgov_list": [

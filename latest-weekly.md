@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/05 00:29:45 ~ 2022/09/07 04:24:09
+本榜单时间：2022/09/05 00:29:45 ~ 2022/09/07 04:39:46
 </p>
 </blockquote>
 <p>
@@ -3543,6 +3543,12 @@ NH金色的雨（热度：74151）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%BF%84%E9%A9%BB%E9%98%BF%E5%AF%8C%E6%B1%97%E4%BD%BF%E9%A6%86%E9%99%84%E8%BF%91%E7%88%86%E7%82%B8%23" target="weibo">
+外交部回应俄驻阿富汗使馆附近爆炸（热度：28883）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B4%A7%E5%A6%82%E4%BD%95%E6%8F%90%E9%AB%98%E5%9B%BD%E9%99%85%E5%BD%B1%E5%93%8D%E5%8A%9B%23" target="weibo">
 国货如何提高国际影响力（热度：26395）
 </a>
@@ -3587,12 +3593,6 @@ F1荷兰大奖赛（热度：24483）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8D%E5%85%B0%E5%A4%AB%E5%A6%87%E9%97%AA%E7%8E%B0%E5%90%BB%E8%8A%B1%E7%B5%AE%23" target="weibo">
 苍兰夫妇闪现吻花絮（热度：11564）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%BF%84%E9%A9%BB%E9%98%BF%E5%AF%8C%E6%B1%97%E4%BD%BF%E9%A6%86%E9%99%84%E8%BF%91%E7%88%86%E7%82%B8%23" target="weibo">
-外交部回应俄驻阿富汗使馆附近爆炸（热度：7421）
 </a>
 </li>
 
