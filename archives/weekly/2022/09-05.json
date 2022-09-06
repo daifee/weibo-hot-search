@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662489995688,
+  "endTime": 1662491895814,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -2193,6 +2193,14 @@
       "onboard_time": 1662304232,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 346005,
+      "num": 346005,
+      "word": "手机可以开通地震预警",
+      "onboard_time": 1662478950,
+      "rank": 49,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 345554,
@@ -4417,14 +4425,6 @@
       "onboard_time": 1662383370,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127073,
-      "num": 127073,
-      "word": "手机可以开通地震预警",
-      "onboard_time": 1662478950,
-      "rank": 49,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 125176,
