@@ -1,6 +1,6 @@
 {
   "startTime": 1662481978498,
-  "endTime": 1662485289318,
+  "endTime": 1662486245279,
   "band_list": [
     {
       "raw_hot": 1704496,
@@ -121,6 +121,14 @@
       "onboard_time": 1662462630,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 278360,
+      "num": 278360,
+      "word": "郭晓婷今年第四部剧开播",
+      "onboard_time": 1662486015,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 277157,
@@ -283,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130015,
+      "num": 130015,
+      "word": "富力地产亏损出售北京万达嘉华酒店全部股权",
+      "onboard_time": 1662483740,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 127073,
       "num": 127073,
       "word": "手机可以开通地震预警",
@@ -337,14 +353,6 @@
       "onboard_time": 1662465507,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 107918,
-      "num": 107918,
-      "word": "富力地产亏损出售北京万达嘉华酒店全部股权",
-      "onboard_time": 1662483740,
-      "rank": 19,
-      "category": "财经"
     },
     {
       "raw_hot": 106217,

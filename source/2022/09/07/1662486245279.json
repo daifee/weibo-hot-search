@@ -1,0 +1,410 @@
+{
+  "runTime": 1662486245279,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 945029,
+        "num": 945029,
+        "word": "原来大学才是努力的开始",
+        "onboard_time": 1662481825,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 602783,
+        "num": 602783,
+        "word": "猴痘",
+        "onboard_time": 1662467728,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45435,
+        "num": 386787,
+        "word": "渡难关泸定安",
+        "onboard_time": 1662473673,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313171,
+        "num": 313171,
+        "word": "上海将处罚后排乘客不系安全带行为",
+        "onboard_time": 1662479727,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278360,
+        "num": 278360,
+        "word": "郭晓婷今年第四部剧开播",
+        "onboard_time": 1662486015,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275812,
+        "num": 275812,
+        "word": "中科院试验站遇难女研究生家属发声",
+        "onboard_time": 1662476671,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241148,
+        "num": 241148,
+        "word": "95后女孩送父亲30万新车",
+        "onboard_time": 1662477811,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211236,
+        "num": 211236,
+        "word": "成都上空现大片七彩云",
+        "onboard_time": 1662477091,
+        "rank": 7,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 210025,
+        "num": 210025,
+        "word": "仙剑奇侠传五",
+        "onboard_time": 1662479308,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165457,
+        "num": 165457,
+        "word": "官方通报老人当街向学生下跪",
+        "onboard_time": 1662465450,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 156470,
+        "num": 156470,
+        "word": "迪丽热巴吴磊加盟青春环游记",
+        "onboard_time": 1662460711,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136447,
+        "num": 136447,
+        "word": "胡枫确诊新冠",
+        "onboard_time": 1662475292,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135047,
+        "num": 135047,
+        "word": "在棣欣引力的作用下白越光你将吴露可逃",
+        "onboard_time": 1662472710,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130015,
+        "num": 130015,
+        "word": "富力地产亏损出售北京万达嘉华酒店全部股权",
+        "onboard_time": 1662483740,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 121674,
+        "num": 121674,
+        "word": "原来懂礼貌真的很加分",
+        "onboard_time": 1662462630,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120806,
+        "num": 120806,
+        "word": "32岁总裁辞掉百万年薪返乡种辣椒",
+        "onboard_time": 1662471991,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118352,
+        "num": 118352,
+        "word": "王者荣耀",
+        "onboard_time": 1662477751,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117152,
+        "num": 117152,
+        "word": "为什么那么多人选择考研",
+        "onboard_time": 1662478531,
+        "rank": 17,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 95664,
+        "num": 95664,
+        "word": "手机可以开通地震预警",
+        "onboard_time": 1662478950,
+        "rank": 18,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 88309,
+        "num": 88309,
+        "word": "南风知我意优酷预约破百万",
+        "onboard_time": 1662471630,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176147,
+        "num": 88041,
+        "word": "网曝58同城惊现招聘卖淫信息",
+        "onboard_time": 1662475772,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92010,
+        "num": 87553,
+        "word": "家长反对凑钱送礼给老师被逼退群",
+        "onboard_time": 1662460470,
+        "rank": 21,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 84744,
+        "num": 84744,
+        "word": "980元的水壶长啥样",
+        "onboard_time": 1662475530,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79540,
+        "num": 79540,
+        "word": "当人类幼崽开始假装上班",
+        "onboard_time": 1662467907,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 68540,
+        "num": 68540,
+        "word": "相互喜欢也会分手吗",
+        "onboard_time": 1662447688,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 67182,
+        "num": 67182,
+        "word": "学校安排80个学生住一间宿舍",
+        "onboard_time": 1662459148,
+        "rank": 25,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 67160,
+        "num": 67160,
+        "word": "华为Mate50没电也能打电话",
+        "onboard_time": 1662458431,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 62165,
+        "num": 62165,
+        "word": "网传白鹿王鹤棣出演仙剑五前传",
+        "onboard_time": 1662474391,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 61006,
+        "num": 61006,
+        "word": "克制含胸驼背的方法找到了",
+        "onboard_time": 1662461911,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46964,
+        "num": 60122,
+        "word": "你换手机最看重什么",
+        "onboard_time": 1662467608,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 60118,
+        "num": 60118,
+        "word": "方便面一定要试试这样吃",
+        "onboard_time": 1662465988,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 57163,
+        "num": 57163,
+        "word": "仙剑奇侠传里的仙指的是赵灵儿",
+        "onboard_time": 1662467189,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 53521,
+        "num": 53521,
+        "word": "哪句话成了你低谷期的救赎",
+        "onboard_time": 1662474933,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 52547,
+        "num": 52547,
+        "word": "驴友在鄱阳湖湖滩发现江豚尸体",
+        "onboard_time": 1662465088,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50880,
+        "num": 50880,
+        "word": "华为mate50",
+        "onboard_time": 1662474152,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 50355,
+        "num": 50355,
+        "word": "何洛洛北电开学被六公主采访",
+        "onboard_time": 1662468866,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50032,
+        "num": 50032,
+        "word": "胡一天陈钰琪新剧太好笑了",
+        "onboard_time": 1662475530,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 46781,
+        "num": 46781,
+        "word": "网友劝阻大爷大妈们河边放生矿泉水",
+        "onboard_time": 1662459990,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46206,
+        "num": 46206,
+        "word": "吴彤终于要邀请到刘德华了",
+        "onboard_time": 1662460530,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45231,
+        "num": 45231,
+        "word": "北京昌平新增4例确诊1例阳性",
+        "onboard_time": 1662476612,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45158,
+        "num": 45158,
+        "word": "江苏一村庄为空巢老人提供3元餐",
+        "onboard_time": 1662475472,
+        "rank": 40,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 44348,
+        "num": 44348,
+        "word": "沈腾出席马丽新片首映礼",
+        "onboard_time": 1662475593,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 42140,
+        "num": 42140,
+        "word": "长春市副市长赵显等多名官员被问责",
+        "onboard_time": 1662465507,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41593,
+        "num": 41593,
+        "word": "张艺兴你好星期六路透",
+        "onboard_time": 1662473489,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 41549,
+        "num": 41549,
+        "word": "魏晨新剧把父亲藏鱼缸",
+        "onboard_time": 1662473673,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 40698,
+        "num": 40698,
+        "word": "将博士后人员作为补充师资重要来源",
+        "onboard_time": 1662470968,
+        "rank": 45,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 38493,
+        "num": 38493,
+        "word": "有点孝心但不多的狗子",
+        "onboard_time": 1662472950,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 38187,
+        "num": 38187,
+        "word": "第一次吃火鸡面的感受",
+        "onboard_time": 1662475113,
+        "rank": 47,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 36511,
+        "num": 36511,
+        "word": "男朋友的视力是个谜",
+        "onboard_time": 1662477692,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35824,
+        "num": 35824,
+        "word": "翟潇闻罗一舟直播截图",
+        "onboard_time": 1662476491,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#尽最大努力确保人民群众生命财产安全#"
+    }
+  }
+}
