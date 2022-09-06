@@ -1,7 +1,23 @@
 {
   "startTime": 1662395471045,
-  "endTime": 1662434395196,
+  "endTime": 1662440116785,
   "band_list": [
+    {
+      "raw_hot": 3131085,
+      "num": 3131085,
+      "word": "顺丰寄丢11000元手机仅赔1000",
+      "onboard_time": 1662438513,
+      "rank": 0,
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 2754431,
+      "num": 2754431,
+      "word": "网传赵露思丁程鑫演沙漏",
+      "onboard_time": 1662437669,
+      "rank": 1,
+      "category": "影视"
+    },
     {
       "raw_hot": 2547294,
       "num": 2547294,
@@ -27,12 +43,44 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1548196,
+      "num": 1548196,
+      "word": "泸定地震已致65人遇难",
+      "onboard_time": 1662437189,
+      "rank": 3,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1327788,
+      "num": 1327788,
+      "word": "UR成本91元连衣裙翻4倍卖369元",
+      "onboard_time": 1662435089,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1260802,
+      "num": 1260802,
+      "word": "地震瞬间老师扔下碗筷冲向午休孩子",
+      "onboard_time": 1662433468,
+      "rank": 28,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1127618,
-      "num": 529636,
+      "num": 609735,
       "word": "林彦俊文案抄袭",
       "onboard_time": 1662428307,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1064990,
+      "num": 1064990,
+      "word": "国家将开始投放中央猪肉储备",
+      "onboard_time": 1662433167,
+      "rank": 24,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1018808,
@@ -41,6 +89,14 @@
       "onboard_time": 1662429627,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1004829,
+      "num": 1004829,
+      "word": "面试被问空窗期久怎么回答",
+      "onboard_time": 1662424830,
+      "rank": 3,
+      "category": "情感"
     },
     {
       "raw_hot": 967578,
@@ -91,14 +147,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 805077,
-      "num": 805077,
-      "word": "面试被问空窗期久怎么回答",
-      "onboard_time": 1662424830,
-      "rank": 3,
-      "category": "情感"
-    },
-    {
       "raw_hot": 798447,
       "num": 798447,
       "word": "四川1小时内连发7次地震",
@@ -129,6 +177,14 @@
       "onboard_time": 1662428546,
       "rank": 9,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 741626,
+      "num": 741626,
+      "word": "女子超市偷2榴莲监控死角装包带走",
+      "onboard_time": 1662436828,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 656452,
@@ -171,6 +227,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 606725,
+      "num": 354710,
+      "word": "张凌赫的初中毕业旧照",
+      "onboard_time": 1662439413,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 563352,
+      "num": 563352,
+      "word": "女子还共享电车撞倒一排直接离开",
+      "onboard_time": 1662432507,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 537553,
       "num": 537553,
       "word": "LESSERAFIM确定10月中旬回归",
@@ -179,12 +251,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 504111,
-      "num": 504111,
-      "word": "女子还共享电车撞倒一排直接离开",
-      "onboard_time": 1662432507,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 488570,
+      "num": 488570,
+      "word": "北京化工大学昌平校区新增5例初筛阳性",
+      "onboard_time": 1662433705,
+      "rank": 22,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 483078,
@@ -219,6 +291,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 414280,
+      "num": 414280,
+      "word": "四川业主辟谣网传地震时不准下楼",
+      "onboard_time": 1662435389,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 409900,
       "num": 409900,
       "word": "长大以后更羡慕夏雪了",
@@ -240,6 +320,38 @@
       "word": "浙江一孩平均生育年龄27.33岁",
       "onboard_time": 1662395782,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 374958,
+      "num": 374958,
+      "word": "严浩翔参加北电开学典礼",
+      "onboard_time": 1662436770,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 373713,
+      "num": 373713,
+      "word": "iPhone14系列价格或上涨15%",
+      "onboard_time": 1662433528,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 365634,
+      "num": 365634,
+      "word": "秦海璐郭晓婷眼神戏打起来了",
+      "onboard_time": 1662436106,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 354391,
+      "num": 354391,
+      "word": "宝宝被骂扒猫笼哭诉获猫咪摸头安慰",
+      "onboard_time": 1662438815,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -267,12 +379,44 @@
       "category": "影视"
     },
     {
+      "raw_hot": 330527,
+      "num": 330527,
+      "word": "霍格沃茨也开学了",
+      "onboard_time": 1662435327,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 326600,
+      "num": 326600,
+      "word": "退伍男生车站求婚等待5年女友",
+      "onboard_time": 1662434847,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315951,
       "num": 315951,
       "word": "北京疫情防控",
       "onboard_time": 1662426033,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 306488,
+      "num": 306488,
+      "word": "2022中国企业500强",
+      "onboard_time": 1662434126,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 302576,
+      "num": 302576,
+      "word": "见面吧就现在定档",
+      "onboard_time": 1662438033,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 297411,
@@ -284,7 +428,7 @@
     },
     {
       "raw_hot": 287715,
-      "num": 1103206,
+      "num": 1997140,
       "word": "泸定地震最新动态",
       "onboard_time": 1662382469,
       "rank": 2,
@@ -323,14 +467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 275078,
-      "num": 275078,
-      "word": "iPhone14系列价格或上涨15%",
-      "onboard_time": 1662433528,
-      "rank": 19,
-      "category": "科技"
-    },
-    {
       "raw_hot": 274230,
       "num": 274230,
       "word": "永远不要忽略身边的快乐",
@@ -355,28 +491,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 268998,
-      "num": 268998,
-      "word": "北京化工大学昌平校区新增5例初筛阳性",
-      "onboard_time": 1662433705,
-      "rank": 22,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 268250,
       "num": 268250,
       "word": "北京化工大学昌平校区报告新增1例",
       "onboard_time": 1662433225,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 265095,
-      "num": 265095,
-      "word": "国家将开始投放中央猪肉储备",
-      "onboard_time": 1662433167,
-      "rank": 24,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 265038,
@@ -393,6 +513,14 @@
       "onboard_time": 1662377431,
       "rank": 15,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 256359,
+      "num": 256359,
+      "word": "飞夺泸定桥的泸定",
+      "onboard_time": 1662423087,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 255877,
@@ -419,12 +547,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 235235,
-      "num": 235235,
-      "word": "地震瞬间老师扔下碗筷冲向午休孩子",
-      "onboard_time": 1662433468,
-      "rank": 28,
-      "category": "社会新闻,教育"
+      "raw_hot": 232111,
+      "num": 232111,
+      "word": "阿汤哥挂在飞机上录碟中谍7花絮",
+      "onboard_time": 1662436409,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 227191,
@@ -451,14 +579,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 216547,
-      "num": 216547,
-      "word": "飞夺泸定桥的泸定",
-      "onboard_time": 1662423087,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 215582,
       "num": 215582,
       "word": "蔡徐坤蒙着眼发行三周年",
@@ -481,6 +601,14 @@
       "onboard_time": 1662420443,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210327,
+      "num": 210327,
+      "word": "光遇",
+      "onboard_time": 1662428369,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 208345,
@@ -523,6 +651,22 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 190681,
+      "num": 190681,
+      "word": "华为Mate50有哪些黑科技",
+      "onboard_time": 1662439772,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 189660,
+      "num": 189660,
+      "word": "有被这个求婚感动到",
+      "onboard_time": 1662438992,
+      "rank": 40,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 189457,
       "num": 189457,
       "word": "苹果或发布儿童手表",
@@ -555,6 +699,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181914,
+      "num": 181914,
+      "word": "特战女兵退役后上大学带新生军训",
+      "onboard_time": 1662433588,
+      "rank": 40,
+      "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 180796,
+      "num": 180796,
+      "word": "地震瞬间母亲用身体护住患病宝宝",
+      "onboard_time": 1662438333,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178580,
       "num": 178580,
       "word": "女子和狗子拉扯宛如情侣吵架翻版",
@@ -569,6 +729,14 @@
       "onboard_time": 1662378150,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 169610,
+      "num": 169610,
+      "word": "大一新生独自骑行千里入学报到",
+      "onboard_time": 1662439474,
+      "rank": 44,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 167546,
@@ -635,12 +803,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 154631,
-      "num": 154631,
-      "word": "特战女兵退役后上大学带新生军训",
-      "onboard_time": 1662433588,
-      "rank": 40,
-      "category": "社会新闻,军事"
+      "raw_hot": 154207,
+      "num": 154207,
+      "word": "偶遇耄耋老人收水稻女子网上求助",
+      "onboard_time": 1662440012,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154145,
@@ -648,6 +816,14 @@
       "word": "妈妈也有她的烦恼吧",
       "onboard_time": 1662391652,
       "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 153090,
+      "num": 153090,
+      "word": "冬天真的很需要这个被子",
+      "onboard_time": 1662439891,
+      "rank": 47,
       "category": "情感"
     },
     {
@@ -681,14 +857,6 @@
       "onboard_time": 1662381270,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147678,
-      "num": 147678,
-      "word": "光遇",
-      "onboard_time": 1662428369,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 146643,
@@ -769,14 +937,6 @@
       "onboard_time": 1662382709,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 136818,
-      "num": 136818,
-      "word": "2022中国企业500强",
-      "onboard_time": 1662434126,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 135970,
