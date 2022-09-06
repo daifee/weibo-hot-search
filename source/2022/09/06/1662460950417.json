@@ -1,0 +1,410 @@
+{
+  "runTime": 1662460950417,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2000794,
+        "num": 2000794,
+        "word": "迪丽热巴吴磊加盟青春环游记",
+        "onboard_time": 1662460711,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1406403,
+        "num": 1406403,
+        "word": "香港现首例猴痘输入病例",
+        "onboard_time": 1662455849,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33516,
+        "num": 1258224,
+        "word": "聚焦2022年国家网络安全宣传周",
+        "onboard_time": 1662447567,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1216167,
+        "num": 1216167,
+        "word": "黄明昊看苍兰诀吻戏reaction",
+        "onboard_time": 1662460111,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 821481,
+        "num": 821481,
+        "word": "华为Mate50发布",
+        "onboard_time": 1662447505,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 716880,
+        "num": 716880,
+        "word": "警方回应老人当街向学生下跪",
+        "onboard_time": 1662457470,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 590512,
+        "num": 590512,
+        "word": "长沙县一快递分拨中心爆炸",
+        "onboard_time": 1662458731,
+        "rank": 6,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 539673,
+        "num": 539673,
+        "word": "相互喜欢也会分手吗",
+        "onboard_time": 1662447688,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 498101,
+        "num": 498101,
+        "word": "章子怡赵丽颖加盟隐秘的高手",
+        "onboard_time": 1662453868,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 493271,
+        "num": 493271,
+        "word": "我国万亿级企业首次破10家",
+        "onboard_time": 1662455427,
+        "rank": 9,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 995279,
+        "num": 492657,
+        "word": "顺丰宣布不送货上门就赔钱",
+        "onboard_time": 1662447146,
+        "rank": 10,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 557511,
+        "num": 492249,
+        "word": "警方证实韩第一夫人履历造假",
+        "onboard_time": 1662449489,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 489817,
+        "num": 489817,
+        "word": "王鹤棣成毅你好星期六上班路透",
+        "onboard_time": 1662456089,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 479903,
+        "num": 479903,
+        "word": "男孩意外发现同学妈妈是自己老师",
+        "onboard_time": 1662449548,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449328,
+        "num": 449328,
+        "word": "顺丰寄丢11000元手机仅赔1000",
+        "onboard_time": 1662438513,
+        "rank": 14,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 407512,
+        "num": 407512,
+        "word": "男子被恶狗咬伤后徒手将狗掐死",
+        "onboard_time": 1662450628,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401743,
+        "num": 401743,
+        "word": "学校安排80个学生住一间宿舍",
+        "onboard_time": 1662459148,
+        "rank": 16,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 360357,
+        "num": 360357,
+        "word": "华为Mate50没电也能打电话",
+        "onboard_time": 1662458431,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 352848,
+        "num": 352848,
+        "word": "吴彤终于要邀请到刘德华了",
+        "onboard_time": 1662460530,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344706,
+        "num": 344706,
+        "word": "冰雨火全员塌房陈宇幸免",
+        "onboard_time": 1662440791,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 816518,
+        "num": 341708,
+        "word": "环球影城偶遇宋亚轩张真源",
+        "onboard_time": 1662459630,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337633,
+        "num": 337633,
+        "word": "梦泪",
+        "onboard_time": 1662459751,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 313541,
+        "num": 313541,
+        "word": "孙女地震时公主抱瘫痪奶奶逃生",
+        "onboard_time": 1662450327,
+        "rank": 22,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 294500,
+        "num": 294500,
+        "word": "华为mate50芯片",
+        "onboard_time": 1662450565,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 290570,
+        "num": 290570,
+        "word": "2023考研时间确定",
+        "onboard_time": 1662456030,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 287642,
+        "num": 287642,
+        "word": "李栋旭41岁状态",
+        "onboard_time": 1662453148,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 240009,
+        "num": 240009,
+        "word": "奔跑吧特别季将9月下旬录制",
+        "onboard_time": 1662454766,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219901,
+        "num": 219901,
+        "word": "顺丰涉数百个运输合同纠纷",
+        "onboard_time": 1662456872,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212242,
+        "num": 212242,
+        "word": "申请3年才领到的导盲犬被顺走",
+        "onboard_time": 1662446489,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202286,
+        "num": 202286,
+        "word": "新华为平板可以使用专业电脑软件",
+        "onboard_time": 1662454227,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 377067,
+        "num": 201277,
+        "word": "钉钉",
+        "onboard_time": 1662456451,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 332551,
+        "num": 200048,
+        "word": "网课入侵",
+        "onboard_time": 1662448407,
+        "rank": 31,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 225386,
+        "num": 198813,
+        "word": "北电22级表演系本科班合照",
+        "onboard_time": 1662446667,
+        "rank": 32,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 219944,
+        "num": 197651,
+        "word": "沉香重华番外be",
+        "onboard_time": 1662446126,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197365,
+        "num": 197365,
+        "word": "成都大邑一男子持刀砍伤两人",
+        "onboard_time": 1662451947,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194786,
+        "num": 194786,
+        "word": "沙漏小说作者饶雪漫关注赵今麦",
+        "onboard_time": 1662451827,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194108,
+        "num": 194108,
+        "word": "谁是你心中的旗袍美人",
+        "onboard_time": 1662456631,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 191738,
+        "num": 191738,
+        "word": "网友劝阻大爷大妈们河边放生矿泉水",
+        "onboard_time": 1662459990,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184099,
+        "num": 184099,
+        "word": "青岛即墨新增多个中高风险区",
+        "onboard_time": 1662456808,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60404,
+        "num": 175109,
+        "word": "年轻人消费态度大赏",
+        "onboard_time": 1662452189,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189076,
+        "num": 175015,
+        "word": "乔欣晒欧阳娜娜艺术展plog",
+        "onboard_time": 1662453868,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174865,
+        "num": 174865,
+        "word": "上海疫情防控",
+        "onboard_time": 1662443130,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169832,
+        "num": 169832,
+        "word": "家长反对凑钱送礼给老师被逼退群",
+        "onboard_time": 1662460470,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 165677,
+        "num": 165677,
+        "word": "华为手机首创内存空间压缩",
+        "onboard_time": 1662454529,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 163156,
+        "num": 163156,
+        "word": "孙子呼吸机续命爷爷扛木头赚药费",
+        "onboard_time": 1662444327,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162256,
+        "num": 162256,
+        "word": "地震致雅安石棉县28人遇难",
+        "onboard_time": 1662455550,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155788,
+        "num": 155788,
+        "word": "昆仑玻璃",
+        "onboard_time": 1662450446,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 151114,
+        "num": 151114,
+        "word": "斗鱼部分主播涉嫌低俗表演被罚3万",
+        "onboard_time": 1662444806,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142322,
+        "num": 142322,
+        "word": "你手机地震预警功能开了吗",
+        "onboard_time": 1662451167,
+        "rank": 48,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 131484,
+        "num": 131484,
+        "word": "教资考试报名人数升至1144.2万",
+        "onboard_time": 1662443187,
+        "rank": 49,
+        "category": "教育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把抢救生命作为首要任务#"
+    }
+  }
+}

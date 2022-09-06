@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662459975400,
+  "endTime": 1662460950417,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -161,6 +161,14 @@
       "onboard_time": 1662382350,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2000794,
+      "num": 2000794,
+      "word": "迪丽热巴吴磊加盟青春环游记",
+      "onboard_time": 1662460711,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1980728,
@@ -387,6 +395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1216167,
+      "num": 1216167,
+      "word": "黄明昊看苍兰诀吻戏reaction",
+      "onboard_time": 1662460111,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1174969,
       "num": 1174969,
       "word": "iPhone14已产逾3400万部",
@@ -476,7 +492,7 @@
     },
     {
       "raw_hot": 1065488,
-      "num": 293855,
+      "num": 341708,
       "word": "环球影城偶遇宋亚轩张真源",
       "onboard_time": 1662459630,
       "rank": 20,
@@ -867,6 +883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 716880,
+      "num": 716880,
+      "word": "警方回应老人当街向学生下跪",
+      "onboard_time": 1662457470,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 711410,
       "num": 711410,
       "word": "微信输入法要占内存524MB",
@@ -1115,6 +1139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 590512,
+      "num": 590512,
+      "word": "长沙县一快递分拨中心爆炸",
+      "onboard_time": 1662458731,
+      "rank": 14,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 582494,
       "num": 582494,
       "word": "苏醒说两周内要做出两首歌",
@@ -1283,12 +1315,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 494896,
-      "num": 494896,
-      "word": "警方回应老人当街向学生下跪",
-      "onboard_time": 1662457470,
-      "rank": 7,
-      "category": "社会新闻"
+      "raw_hot": 493271,
+      "num": 493271,
+      "word": "我国万亿级企业首次破10家",
+      "onboard_time": 1662455427,
+      "rank": 42,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 491821,
@@ -1305,14 +1337,6 @@
       "onboard_time": 1662433705,
       "rank": 22,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 485594,
-      "num": 485594,
-      "word": "我国万亿级企业首次破10家",
-      "onboard_time": 1662455427,
-      "rank": 42,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 485431,
@@ -1611,6 +1635,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 401743,
+      "num": 401743,
+      "word": "学校安排80个学生住一间宿舍",
+      "onboard_time": 1662459148,
+      "rank": 28,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 401387,
       "num": 401387,
       "word": "西安地铁",
@@ -1795,6 +1827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 360357,
+      "num": 360357,
+      "word": "华为Mate50没电也能打电话",
+      "onboard_time": 1662458431,
+      "rank": 18,
+      "category": "科技"
+    },
+    {
       "raw_hot": 360198,
       "num": 360198,
       "word": "BLG官宣Chashao离队",
@@ -1835,12 +1875,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 354220,
-      "num": 354220,
-      "word": "长沙县一快递分拨中心爆炸",
-      "onboard_time": 1662458731,
-      "rank": 14,
-      "category": "社会负面"
+      "raw_hot": 352848,
+      "num": 352848,
+      "word": "吴彤终于要邀请到刘德华了",
+      "onboard_time": 1662460530,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 351655,
@@ -1921,6 +1961,14 @@
       "onboard_time": 1662453508,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 337633,
+      "num": 337633,
+      "word": "梦泪",
+      "onboard_time": 1662459751,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 337435,
@@ -2041,14 +2089,6 @@
       "onboard_time": 1662384328,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 318217,
-      "num": 318217,
-      "word": "华为Mate50没电也能打电话",
-      "onboard_time": 1662458431,
-      "rank": 18,
-      "category": "科技"
     },
     {
       "raw_hot": 317853,
@@ -2891,6 +2931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 219901,
+      "num": 219901,
+      "word": "顺丰涉数百个运输合同纠纷",
+      "onboard_time": 1662456872,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216269,
       "num": 216269,
       "word": "地震救援消防员背伤者踩木桥渡河",
@@ -2945,14 +2993,6 @@
       "onboard_time": 1662368368,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 211713,
-      "num": 211713,
-      "word": "学校安排80个学生住一间宿舍",
-      "onboard_time": 1662459148,
-      "rank": 28,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 211595,
@@ -3040,14 +3080,6 @@
       "word": "山东新增2例本土确诊63例本土无症状",
       "onboard_time": 1662427829,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 202905,
-      "num": 202905,
-      "word": "顺丰涉数百个运输合同纠纷",
-      "onboard_time": 1662456872,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -3152,6 +3184,14 @@
       "word": "外婆首次用平板画画惊呆孙子",
       "onboard_time": 1662292046,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191738,
+      "num": 191738,
+      "word": "网友劝阻大爷大妈们河边放生矿泉水",
+      "onboard_time": 1662459990,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -3371,6 +3411,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 169832,
+      "num": 169832,
+      "word": "家长反对凑钱送礼给老师被逼退群",
+      "onboard_time": 1662460470,
+      "rank": 42,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 169610,
       "num": 169610,
       "word": "大一新生独自骑行千里入学报到",
@@ -3451,19 +3499,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 162256,
+      "num": 162256,
+      "word": "地震致雅安石棉县28人遇难",
+      "onboard_time": 1662455550,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162239,
       "num": 162239,
       "word": "官方回应群猴窜入小区觅食",
       "onboard_time": 1662369928,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159964,
-      "num": 159964,
-      "word": "地震致雅安石棉县28人遇难",
-      "onboard_time": 1662455550,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -3497,14 +3545,6 @@
       "onboard_time": 1662341126,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 155341,
-      "num": 155341,
-      "word": "梦泪",
-      "onboard_time": 1662459751,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 154926,
@@ -3596,7 +3636,7 @@
     },
     {
       "raw_hot": 146183,
-      "num": 169286,
+      "num": 175109,
       "word": "年轻人消费态度大赏",
       "onboard_time": 1662452189,
       "rank": 48,
