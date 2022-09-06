@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/05 00:29:45 ~ 2022/09/07 03:34:06
+本榜单时间：2022/09/05 00:29:45 ~ 2022/09/07 04:24:09
 </p>
 </blockquote>
 <p>
@@ -3369,6 +3369,12 @@ RNG战胜LNG（热度：113796）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%9B%9B%E5%B7%9D6.8%E7%BA%A7%E5%9C%B0%E9%9C%87%E4%B8%8E%E5%B9%B2%E6%97%B1%E6%97%A0%E5%85%B3%23" target="weibo">
+专家称四川6.8级地震与干旱无关（热度：112707）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%239%E6%9C%885%E6%97%A5%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E6%97%A0%E7%97%87%E7%8A%B61235%E4%BE%8B%23" target="weibo">
 9月5日新增本土无症状1235例（热度：110721）
 </a>
@@ -3585,8 +3591,8 @@ F1荷兰大奖赛（热度：24483）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%9B%9B%E5%B7%9D6.8%E7%BA%A7%E5%9C%B0%E9%9C%87%E4%B8%8E%E5%B9%B2%E6%97%B1%E6%97%A0%E5%85%B3%23" target="weibo">
-专家称四川6.8级地震与干旱无关（热度：9429）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%BF%84%E9%A9%BB%E9%98%BF%E5%AF%8C%E6%B1%97%E4%BD%BF%E9%A6%86%E9%99%84%E8%BF%91%E7%88%86%E7%82%B8%23" target="weibo">
+外交部回应俄驻阿富汗使馆附近爆炸（热度：7421）
 </a>
 </li>
 
