@@ -1,6 +1,6 @@
 {
   "startTime": 1662395471045,
-  "endTime": 1662454037449,
+  "endTime": 1662456174393,
   "band_list": [
     {
       "raw_hot": 3524515,
@@ -41,6 +41,14 @@
       "onboard_time": 1662447505,
       "rank": 3,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1887534,
+      "num": 575724,
+      "word": "老人卖关东煮遭醉酒男掀锅殴打",
+      "onboard_time": 1662452848,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1675065,
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 964962,
-      "num": 263792,
+      "num": 269587,
       "word": "网课入侵",
       "onboard_time": 1662448407,
       "rank": 30,
@@ -211,6 +219,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 871245,
+      "num": 498223,
+      "word": "王鹤棣成毅你好星期六上班路透",
+      "onboard_time": 1662456089,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 854149,
+      "num": 854149,
+      "word": "章子怡赵丽颖加盟隐秘的高手",
+      "onboard_time": 1662453868,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 846467,
       "num": 846467,
       "word": "财政紧急调拨1.5亿元支持四川抗震救灾",
@@ -225,6 +249,14 @@
       "onboard_time": 1662388540,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 829502,
+      "num": 829502,
+      "word": "奔跑吧特别季将9月下旬录制",
+      "onboard_time": 1662454766,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 823069,
@@ -291,12 +323,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 708119,
+      "num": 708119,
+      "word": "相互喜欢也会分手吗",
+      "onboard_time": 1662447688,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 705726,
       "num": 705726,
       "word": "教资考试报名人数升至1144.2万",
       "onboard_time": 1662443187,
       "rank": 13,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 664605,
+      "num": 365820,
+      "word": "乔欣晒欧阳娜娜艺术展plog",
+      "onboard_time": 1662453868,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 656452,
@@ -323,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 637646,
+      "num": 637646,
+      "word": "孙女地震时公主抱瘫痪奶奶逃生",
+      "onboard_time": 1662450327,
+      "rank": 40,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 627570,
       "num": 627570,
       "word": "男子被恶狗咬伤后徒手将狗掐死",
@@ -337,14 +393,6 @@
       "onboard_time": 1662394347,
       "rank": 38,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 621480,
-      "num": 337954,
-      "word": "乔欣晒欧阳娜娜艺术展plog",
-      "onboard_time": 1662453868,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 618846,
@@ -395,28 +443,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 571652,
-      "num": 571652,
-      "word": "老人卖关东煮遭醉酒男掀锅殴打",
-      "onboard_time": 1662452848,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 563352,
       "num": 563352,
       "word": "女子还共享电车撞倒一排直接离开",
       "onboard_time": 1662432507,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 550368,
-      "num": 550368,
-      "word": "相互喜欢也会分手吗",
-      "onboard_time": 1662447688,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 548660,
@@ -433,14 +465,6 @@
       "onboard_time": 1662432806,
       "rank": 9,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 534560,
-      "num": 534560,
-      "word": "孙女地震时公主抱瘫痪奶奶逃生",
-      "onboard_time": 1662450327,
-      "rank": 40,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 524683,
@@ -460,7 +484,7 @@
     },
     {
       "raw_hot": 498166,
-      "num": 337619,
+      "num": 363719,
       "word": "李栋旭41岁状态",
       "onboard_time": 1662453148,
       "rank": 21,
@@ -547,6 +571,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 406049,
+      "num": 406049,
+      "word": "昆仑玻璃",
+      "onboard_time": 1662450446,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 405526,
       "num": 405526,
       "word": "是否家暴成酒泉干部选拔任用参考依据",
@@ -563,12 +595,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 394398,
+      "num": 394398,
+      "word": "成都大邑一男子持刀砍伤两人",
+      "onboard_time": 1662451947,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 394393,
       "num": 394393,
       "word": "偶遇耄耋老人收水稻女子网上求助",
       "onboard_time": 1662440012,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 382197,
+      "num": 382197,
+      "word": "苹果14",
+      "onboard_time": 1662451226,
+      "rank": 33,
+      "category": "科技"
     },
     {
       "raw_hot": 375458,
@@ -627,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 344608,
+      "num": 344608,
+      "word": "香港现首例猴痘输入病例",
+      "onboard_time": 1662455849,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 343233,
       "num": 343233,
       "word": "张子枫出席电影妈妈首映",
@@ -664,14 +720,6 @@
       "word": "退伍男生车站求婚等待5年女友",
       "onboard_time": 1662434847,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 317181,
-      "num": 317181,
-      "word": "成都大邑一男子持刀砍伤两人",
-      "onboard_time": 1662451947,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -763,14 +811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 286577,
-      "num": 286577,
-      "word": "昆仑玻璃",
-      "onboard_time": 1662450446,
-      "rank": 48,
-      "category": "科技"
-    },
-    {
       "raw_hot": 285969,
       "num": 285969,
       "word": "黑龙江大庆市疾控中心主任被免职",
@@ -857,6 +897,22 @@
       "onboard_time": 1662450688,
       "rank": 47,
       "category": "科技"
+    },
+    {
+      "raw_hot": 268016,
+      "num": 268016,
+      "word": "新华为平板可以使用专业电脑软件",
+      "onboard_time": 1662454227,
+      "rank": 31,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 266415,
+      "num": 266415,
+      "word": "综艺隐秘的高手网传阵容",
+      "onboard_time": 1662455969,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 265038,
@@ -961,22 +1017,6 @@
       "onboard_time": 1662442888,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 231275,
-      "num": 231275,
-      "word": "章子怡赵丽颖加盟隐秘的高手",
-      "onboard_time": 1662453868,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 229992,
-      "num": 229992,
-      "word": "苹果14",
-      "onboard_time": 1662451226,
-      "rank": 33,
-      "category": "科技"
     },
     {
       "raw_hot": 227191,
@@ -1131,6 +1171,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 195044,
+      "num": 195044,
+      "word": "2023考研时间确定",
+      "onboard_time": 1662456030,
+      "rank": 39,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 192837,
       "num": 192837,
       "word": "48家券商合计降薪超百亿",
@@ -1235,6 +1283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 173581,
+      "num": 173581,
+      "word": "我国万亿级企业首次破10家",
+      "onboard_time": 1662455427,
+      "rank": 42,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 169610,
       "num": 169610,
       "word": "大一新生独自骑行千里入学报到",
@@ -1249,6 +1305,14 @@
       "onboard_time": 1662420985,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166272,
+      "num": 166272,
+      "word": "华为手机首创内存空间压缩",
+      "onboard_time": 1662454529,
+      "rank": 43,
+      "category": "科技"
     },
     {
       "raw_hot": 165253,
@@ -1280,6 +1344,14 @@
       "word": "北京丰台新增1例感染者轨迹",
       "onboard_time": 1662390395,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159964,
+      "num": 159964,
+      "word": "地震致雅安石棉县28人遇难",
+      "onboard_time": 1662455550,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1416,6 +1488,14 @@
       "word": "华为终端",
       "onboard_time": 1662449308,
       "rank": 45,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 141123,
+      "num": 141123,
+      "word": "平板能成为生产力工具吗",
+      "onboard_time": 1662455306,
+      "rank": 48,
       "category": "科技"
     },
     {
