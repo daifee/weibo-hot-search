@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662446472438,
+  "endTime": 1662449981717,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -387,6 +387,14 @@
       "category": "动漫,网红"
     },
     {
+      "raw_hot": 2273669,
+      "num": 2273669,
+      "word": "顺丰宣布不送货上门就赔钱",
+      "onboard_time": 1662447146,
+      "rank": 0,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 2236954,
       "num": 2236954,
       "word": "网传韩剧鬼怪将翻拍中国版",
@@ -561,6 +569,14 @@
       "onboard_time": 1662201507,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1926529,
+      "num": 1926529,
+      "word": "华为Mate50发布",
+      "onboard_time": 1662447505,
+      "rank": 3,
+      "category": "科技"
     },
     {
       "raw_hot": 1926434,
@@ -1043,6 +1059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1436012,
+      "num": 1436012,
+      "word": "冰雨火全员塌房陈宇幸免",
+      "onboard_time": 1662440791,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1430704,
       "num": 1430704,
       "word": "王鹤棣叫李一桐丈母娘",
@@ -1065,14 +1089,6 @@
       "onboard_time": 1662186565,
       "rank": 12,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 1409803,
-      "num": 1409803,
-      "word": "冰雨火全员塌房陈宇幸免",
-      "onboard_time": 1662440791,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 1401124,
@@ -1193,6 +1209,14 @@
       "onboard_time": 1662165145,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1330858,
+      "num": 1330858,
+      "word": "华为发布会",
+      "onboard_time": 1662445167,
+      "rank": 5,
+      "category": "科技"
     },
     {
       "raw_hot": 1328202,
@@ -1643,6 +1667,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1059303,
+      "num": 1059303,
+      "word": "北电22级表演系本科班合照",
+      "onboard_time": 1662446667,
+      "rank": 6,
+      "category": "艺人,教育"
+    },
+    {
       "raw_hot": 1054796,
       "num": 1054796,
       "word": "网传全员加速中3阵容",
@@ -1696,14 +1728,6 @@
       "word": "如何看待华为mate50硬刚苹果",
       "onboard_time": 1662343886,
       "rank": 13,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 1038948,
-      "num": 1038948,
-      "word": "华为发布会",
-      "onboard_time": 1662445167,
-      "rank": 5,
       "category": "科技"
     },
     {
@@ -1841,6 +1865,14 @@
       "onboard_time": 1662304415,
       "rank": 43,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 989990,
+      "num": 989990,
+      "word": "申请3年才领到的导盲犬被顺走",
+      "onboard_time": 1662446489,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 989949,
@@ -3131,6 +3163,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 664057,
+      "num": 224844,
+      "word": "网课入侵",
+      "onboard_time": 1662448407,
+      "rank": 30,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 661446,
       "num": 661446,
       "word": "教资考试报名人数升至1144.2万",
@@ -3451,6 +3491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 606292,
+      "num": 606292,
+      "word": "吴磊赵露思月升沧海淋雨剧照",
+      "onboard_time": 1662449069,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 606234,
       "num": 606234,
       "word": "成都两机场航班大面积取消",
@@ -3593,6 +3641,14 @@
       "onboard_time": 1662107605,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 573194,
+      "num": 573194,
+      "word": "沉香重华番外be",
+      "onboard_time": 1662446126,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 572249,
@@ -3803,6 +3859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 548660,
+      "num": 548660,
+      "word": "mate50",
+      "onboard_time": 1662426332,
+      "rank": 12,
+      "category": "科技"
+    },
+    {
       "raw_hot": 548372,
       "num": 548372,
       "word": "海大教师不配合核酸威胁他人被撤教师资格",
@@ -4001,6 +4065,14 @@
       "onboard_time": 1662014547,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 524683,
+      "num": 524683,
+      "word": "孙子呼吸机续命爷爷扛木头赚药费",
+      "onboard_time": 1662444327,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 523473,
@@ -4915,14 +4987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 429122,
-      "num": 429122,
-      "word": "mate50",
-      "onboard_time": 1662426332,
-      "rank": 12,
-      "category": "科技"
-    },
-    {
       "raw_hot": 427745,
       "num": 427745,
       "word": "成都将继续开展全员核酸检测",
@@ -5520,14 +5584,6 @@
       "word": "金世佳新剧谈恋爱好被动",
       "onboard_time": 1662264985,
       "rank": 12,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 387971,
-      "num": 387971,
-      "word": "沉香重华番外be",
-      "onboard_time": 1662446126,
-      "rank": 17,
       "category": "影视"
     },
     {
@@ -6179,6 +6235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 348492,
+      "num": 348492,
+      "word": "相互喜欢也会分手吗",
+      "onboard_time": 1662447688,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 346014,
       "num": 346014,
       "word": "成都官方说不必盲目囤积生活物资",
@@ -6249,6 +6313,14 @@
       "onboard_time": 1662333138,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 341057,
+      "num": 341057,
+      "word": "金钟仁黄铉辰felix生图",
+      "onboard_time": 1662447987,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 340827,
@@ -6921,6 +6993,14 @@
       "onboard_time": 1662200907,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310754,
+      "num": 310754,
+      "word": "NCT日本队2023年出道",
+      "onboard_time": 1662449128,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 310463,
@@ -7643,6 +7723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281964,
+      "num": 281964,
+      "word": "女大师称神仙要穿香奈儿LV骗200万",
+      "onboard_time": 1662447207,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281930,
       "num": 281930,
       "word": "林高远3比0向鹏",
@@ -7755,6 +7843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 280295,
+      "num": 280295,
+      "word": "泸定加油",
+      "onboard_time": 1662449668,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280208,
       "num": 280208,
       "word": "RNG对战LNG",
@@ -7800,14 +7896,6 @@
       "word": "四川地震局2级地震应急响应",
       "onboard_time": 1662363028,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 276999,
-      "num": 276999,
-      "word": "孙子呼吸机续命爷爷扛木头赚药费",
-      "onboard_time": 1662444327,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -8507,6 +8595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251527,
+      "num": 251527,
+      "word": "何洛洛参加北电开学典礼路透",
+      "onboard_time": 1662449668,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 251493,
       "num": 251493,
       "word": "张翰王晓晨和解太费杜淳",
@@ -8537,6 +8633,14 @@
       "onboard_time": 1662389376,
       "rank": 32,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 250357,
+      "num": 250357,
+      "word": "警方证实韩第一夫人履历造假",
+      "onboard_time": 1662449489,
+      "rank": 27,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 249075,
@@ -9395,6 +9499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 211035,
+      "num": 211035,
+      "word": "华为Mate50配色",
+      "onboard_time": 1662449128,
+      "rank": 31,
+      "category": "科技"
+    },
+    {
       "raw_hot": 210873,
       "num": 210873,
       "word": "沉香如屑把睫毛许愿玩明白了",
@@ -9457,6 +9569,14 @@
       "onboard_time": 1662253168,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 210044,
+      "num": 210044,
+      "word": "华为Mate系列时隔2年回归",
+      "onboard_time": 1662449668,
+      "rank": 32,
+      "category": "科技"
     },
     {
       "raw_hot": 209980,
@@ -9779,12 +9899,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198992,
+      "num": 198992,
+      "word": "孟子义说不能消耗别人的喜欢",
+      "onboard_time": 1662447327,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198830,
       "num": 198830,
       "word": "赵露思初秋光影写真",
       "onboard_time": 1662168807,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 198662,
+      "num": 198662,
+      "word": "困到差点爬不进窝的小狗",
+      "onboard_time": 1662448947,
+      "rank": 34,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 198366,
@@ -9849,6 +9985,14 @@
       "onboard_time": 1662128433,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 195293,
+      "num": 195293,
+      "word": "2022浙江卫视秋季招商会片单",
+      "onboard_time": 1662449008,
+      "rank": 35,
+      "category": "综艺,影视"
     },
     {
       "raw_hot": 194085,
@@ -10643,6 +10787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161546,
+      "num": 161546,
+      "word": "晒豪车显示该图片曾在站内出现过",
+      "onboard_time": 1662448228,
+      "rank": 42,
+      "category": "科技"
+    },
+    {
       "raw_hot": 161458,
       "num": 161458,
       "word": "大哥拍下300场日出日落鼓励陌生人",
@@ -10915,6 +11067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152732,
+      "num": 152732,
+      "word": "男孩意外发现同学妈妈是自己老师",
+      "onboard_time": 1662449548,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152620,
       "num": 152620,
       "word": "00后如何看待一键美颜",
@@ -11161,6 +11321,14 @@
       "onboard_time": 1661962644,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 142220,
+      "num": 142220,
+      "word": "华为终端",
+      "onboard_time": 1662449308,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 141599,
@@ -11545,6 +11713,14 @@
       "onboard_time": 1662431306,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 128631,
+      "num": 128631,
+      "word": "山西老醋月饼销售火爆",
+      "onboard_time": 1662449909,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 128622,
@@ -12297,6 +12473,14 @@
       "onboard_time": 1662207089,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 36686,
+      "num": 1929835,
+      "word": "聚焦2022年国家网络安全宣传周",
+      "onboard_time": 1662447567,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27800,
