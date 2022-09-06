@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662450718399,
+  "endTime": 1662452983592,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -849,6 +849,14 @@
       "onboard_time": 1662037351,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1597699,
+      "num": 638061,
+      "word": "警方证实韩第一夫人履历造假",
+      "onboard_time": 1662449489,
+      "rank": 27,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1597242,
@@ -1859,6 +1867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 999784,
+      "num": 999784,
+      "word": "男孩意外发现同学妈妈是自己老师",
+      "onboard_time": 1662449548,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 999636,
       "num": 999636,
       "word": "BLACKPINK新歌未通过KBS审议",
@@ -1980,7 +1996,7 @@
     },
     {
       "raw_hot": 964962,
-      "num": 237373,
+      "num": 246809,
       "word": "网课入侵",
       "onboard_time": 1662448407,
       "rank": 30,
@@ -2835,6 +2851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 735728,
+      "num": 735728,
+      "word": "华为mate50芯片",
+      "onboard_time": 1662450565,
+      "rank": 31,
+      "category": "科技"
+    },
+    {
       "raw_hot": 734091,
       "num": 656802,
       "word": "关晓彤演我吃瓜",
@@ -3531,14 +3555,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 599024,
-      "num": 335621,
-      "word": "警方证实韩第一夫人履历造假",
-      "onboard_time": 1662449489,
-      "rank": 27,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 598120,
       "num": 598120,
       "word": "王菲王家卫新片预告",
@@ -3657,6 +3673,14 @@
       "onboard_time": 1662446126,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 572949,
+      "num": 572949,
+      "word": "男子被恶狗咬伤后徒手将狗掐死",
+      "onboard_time": 1662450628,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 572249,
@@ -3865,6 +3889,14 @@
       "onboard_time": 1662073699,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 550368,
+      "num": 550368,
+      "word": "相互喜欢也会分手吗",
+      "onboard_time": 1662447688,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 548660,
@@ -4113,6 +4145,14 @@
       "onboard_time": 1662171924,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 518557,
+      "num": 518557,
+      "word": "沙漏小说作者饶雪漫关注赵今麦",
+      "onboard_time": 1662451827,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 517766,
@@ -4627,6 +4667,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 463967,
+      "num": 463967,
+      "word": "孙女地震时公主抱瘫痪奶奶逃生",
+      "onboard_time": 1662450327,
+      "rank": 40,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 463734,
       "num": 463734,
       "word": "LPL出征S12队伍",
@@ -5107,14 +5155,6 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 422122,
-      "num": 422122,
-      "word": "相互喜欢也会分手吗",
-      "onboard_time": 1662447688,
-      "rank": 18,
-      "category": "情感"
-    },
-    {
       "raw_hot": 421300,
       "num": 421300,
       "word": "捷克首都七万人抗议",
@@ -5313,6 +5353,14 @@
       "onboard_time": 1662208111,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 407150,
+      "num": 407150,
+      "word": "华为Mate50十倍抗摔",
+      "onboard_time": 1662450087,
+      "rank": 27,
+      "category": "科技"
     },
     {
       "raw_hot": 406300,
@@ -6531,14 +6579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 333857,
-      "num": 333857,
-      "word": "男孩意外发现同学妈妈是自己老师",
-      "onboard_time": 1662449548,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 333677,
       "num": 333677,
       "word": "男生补作业过度紧张进急救室",
@@ -7179,6 +7219,14 @@
       "category": "幽默,教育"
     },
     {
+      "raw_hot": 303736,
+      "num": 303736,
+      "word": "困到差点爬不进窝的小狗",
+      "onboard_time": 1662448947,
+      "rank": 34,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 302650,
       "num": 302650,
       "word": "成都商超农贸市场正常营业",
@@ -7641,6 +7689,14 @@
       "onboard_time": 1662385952,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 286577,
+      "num": 286577,
+      "word": "昆仑玻璃",
+      "onboard_time": 1662450446,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 286374,
@@ -8123,6 +8179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 271263,
+      "num": 271263,
+      "word": "丁程鑫杀青不舍马正元",
+      "onboard_time": 1662451529,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 271016,
       "num": 271016,
       "word": "如何用手机拍摄证件照",
@@ -8467,6 +8531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257872,
+      "num": 257872,
+      "word": "山西老醋月饼销售火爆",
+      "onboard_time": 1662449909,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 257585,
       "num": 257585,
       "word": "哪些事是你上了大学后才知道的",
@@ -8609,14 +8681,6 @@
       "onboard_time": 1662016889,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 253789,
-      "num": 253789,
-      "word": "困到差点爬不进窝的小狗",
-      "onboard_time": 1662448947,
-      "rank": 34,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 253345,
@@ -8803,14 +8867,6 @@
       "category": "教育,情感"
     },
     {
-      "raw_hot": 243585,
-      "num": 243585,
-      "word": "华为Mate50十倍抗摔",
-      "onboard_time": 1662450087,
-      "rank": 27,
-      "category": "科技"
-    },
-    {
       "raw_hot": 242994,
       "num": 242994,
       "word": "山东新增本土确诊8例无症状75例",
@@ -8947,14 +9003,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 235755,
-      "num": 235755,
-      "word": "华为mate50芯片",
-      "onboard_time": 1662450565,
-      "rank": 31,
-      "category": "科技"
-    },
-    {
       "raw_hot": 235592,
       "num": 235592,
       "word": "吴易昺晋级美网32强",
@@ -9027,6 +9075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232252,
+      "num": 232252,
+      "word": "成都大邑一男子持刀砍伤两人",
+      "onboard_time": 1662451947,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231456,
       "num": 231456,
       "word": "布拉格爆发抗议反对欧盟和北约",
@@ -9081,6 +9137,14 @@
       "onboard_time": 1662296611,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 229992,
+      "num": 229992,
+      "word": "苹果14",
+      "onboard_time": 1662451226,
+      "rank": 33,
+      "category": "科技"
     },
     {
       "raw_hot": 229833,
@@ -9257,6 +9321,14 @@
       "onboard_time": 1662273627,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223959,
+      "num": 223959,
+      "word": "如何评价华为新款二合一笔记本",
+      "onboard_time": 1662452487,
+      "rank": 35,
+      "category": "科技"
     },
     {
       "raw_hot": 223633,
@@ -9675,6 +9747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208557,
+      "num": 208557,
+      "word": "华为Mate50配置",
+      "onboard_time": 1662451408,
+      "rank": 36,
+      "category": "科技"
+    },
+    {
       "raw_hot": 208345,
       "num": 208345,
       "word": "95后穿汉服露营赏月引围观",
@@ -9979,14 +10059,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 197153,
-      "num": 197153,
-      "word": "山西老醋月饼销售火爆",
-      "onboard_time": 1662449909,
-      "rank": 49,
-      "category": "美食"
-    },
-    {
       "raw_hot": 197059,
       "num": 197059,
       "word": "欧阳娜娜新专辑MV是手写的",
@@ -10043,12 +10115,20 @@
       "category": "综艺,影视"
     },
     {
-      "raw_hot": 194582,
-      "num": 194582,
+      "raw_hot": 195144,
+      "num": 195144,
       "word": "晒豪车显示该图片曾在站内出现过",
       "onboard_time": 1662448228,
       "rank": 42,
       "category": "科技"
+    },
+    {
+      "raw_hot": 194933,
+      "num": 194933,
+      "word": "你手机地震预警功能开了吗",
+      "onboard_time": 1662451167,
+      "rank": 39,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 194085,
@@ -10363,6 +10443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184532,
+      "num": 184532,
+      "word": "华为发布首款鸿蒙家庭存储",
+      "onboard_time": 1662452729,
+      "rank": 42,
+      "category": "科技"
+    },
+    {
       "raw_hot": 184320,
       "num": 184320,
       "word": "NH三连冠",
@@ -10459,6 +10547,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 181884,
+      "num": 181884,
+      "word": "泸定地震致66人遇难",
+      "onboard_time": 1662452848,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181769,
       "num": 181769,
       "word": "我贴膏药和王嘉尔贴膏药",
@@ -10545,14 +10641,6 @@
       "onboard_time": 1662270146,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 177161,
-      "num": 177161,
-      "word": "孙女地震时公主抱瘫痪奶奶逃生",
-      "onboard_time": 1662450327,
-      "rank": 40,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 175712,
@@ -11155,6 +11243,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 151936,
+      "num": 151936,
+      "word": "老人卖关东煮遭醉酒男掀锅殴打",
+      "onboard_time": 1662452848,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151473,
       "num": 151473,
       "word": "快乐的时候我是活着的",
@@ -11227,28 +11323,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 148702,
-      "num": 148702,
-      "word": "男子被恶狗咬伤后徒手将狗掐死",
-      "onboard_time": 1662450628,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148487,
       "num": 148487,
       "word": "福州现巨型乌云",
       "onboard_time": 1662315615,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 148472,
-      "num": 148472,
-      "word": "昆仑玻璃",
-      "onboard_time": 1662450446,
-      "rank": 48,
-      "category": "科技"
     },
     {
       "raw_hot": 148376,
@@ -11465,6 +11545,14 @@
       "onboard_time": 1662387392,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 139125,
+      "num": 139125,
+      "word": "年轻人消费态度大赏",
+      "onboard_time": 1662452189,
+      "rank": 48,
+      "category": "科技,幽默"
     },
     {
       "raw_hot": 139038,
@@ -11697,6 +11785,14 @@
       "onboard_time": 1662188245,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131357,
+      "num": 131357,
+      "word": "能超越mate的只有mate",
+      "onboard_time": 1662452130,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 131335,

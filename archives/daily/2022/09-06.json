@@ -1,6 +1,6 @@
 {
   "startTime": 1662395471045,
-  "endTime": 1662450718399,
+  "endTime": 1662452983592,
   "band_list": [
     {
       "raw_hot": 3524515,
@@ -49,6 +49,14 @@
       "onboard_time": 1662418339,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1597699,
+      "num": 638061,
+      "word": "警方证实韩第一夫人履历造假",
+      "onboard_time": 1662449489,
+      "rank": 27,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1597242,
@@ -147,6 +155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 999784,
+      "num": 999784,
+      "word": "男孩意外发现同学妈妈是自己老师",
+      "onboard_time": 1662449548,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 967578,
       "num": 967578,
       "word": "2017年九寨沟地震后四川最大地震",
@@ -156,7 +172,7 @@
     },
     {
       "raw_hot": 964962,
-      "num": 237373,
+      "num": 246809,
       "word": "网课入侵",
       "onboard_time": 1662448407,
       "rank": 30,
@@ -267,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 735728,
+      "num": 735728,
+      "word": "华为mate50芯片",
+      "onboard_time": 1662450565,
+      "rank": 31,
+      "category": "科技"
+    },
+    {
       "raw_hot": 705726,
       "num": 705726,
       "word": "教资考试报名人数升至1144.2万",
@@ -339,14 +363,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 599024,
-      "num": 335621,
-      "word": "警方证实韩第一夫人履历造假",
-      "onboard_time": 1662449489,
-      "rank": 27,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 591067,
       "num": 591067,
       "word": "网传杨紫主演电影照明商店",
@@ -363,12 +379,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 572949,
+      "num": 572949,
+      "word": "男子被恶狗咬伤后徒手将狗掐死",
+      "onboard_time": 1662450628,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 563352,
       "num": 563352,
       "word": "女子还共享电车撞倒一排直接离开",
       "onboard_time": 1662432507,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 550368,
+      "num": 550368,
+      "word": "相互喜欢也会分手吗",
+      "onboard_time": 1662447688,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 548660,
@@ -393,6 +425,14 @@
       "onboard_time": 1662444327,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 518557,
+      "num": 518557,
+      "word": "沙漏小说作者饶雪漫关注赵今麦",
+      "onboard_time": 1662451827,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 488570,
@@ -427,6 +467,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 463967,
+      "num": 463967,
+      "word": "孙女地震时公主抱瘫痪奶奶逃生",
+      "onboard_time": 1662450327,
+      "rank": 40,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 434596,
       "num": 434596,
       "word": "宝宝被骂扒猫笼哭诉获猫咪摸头安慰",
@@ -441,14 +489,6 @@
       "onboard_time": 1662439772,
       "rank": 39,
       "category": "科技"
-    },
-    {
-      "raw_hot": 422122,
-      "num": 422122,
-      "word": "相互喜欢也会分手吗",
-      "onboard_time": 1662447688,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 414280,
@@ -473,6 +513,14 @@
       "onboard_time": 1662424530,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 407150,
+      "num": 407150,
+      "word": "华为Mate50十倍抗摔",
+      "onboard_time": 1662450087,
+      "rank": 27,
+      "category": "科技"
     },
     {
       "raw_hot": 405526,
@@ -571,14 +619,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 333857,
-      "num": 333857,
-      "word": "男孩意外发现同学妈妈是自己老师",
-      "onboard_time": 1662449548,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 330527,
       "num": 330527,
       "word": "霍格沃茨也开学了",
@@ -617,6 +657,14 @@
       "onboard_time": 1662434126,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 303736,
+      "num": 303736,
+      "word": "困到差点爬不进窝的小狗",
+      "onboard_time": 1662448947,
+      "rank": 34,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 302576,
@@ -667,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286577,
+      "num": 286577,
+      "word": "昆仑玻璃",
+      "onboard_time": 1662450446,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 285969,
       "num": 285969,
       "word": "黑龙江大庆市疾控中心主任被免职",
@@ -713,6 +769,14 @@
       "onboard_time": 1662428788,
       "rank": 22,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 271263,
+      "num": 271263,
+      "word": "丁程鑫杀青不舍马正元",
+      "onboard_time": 1662451529,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 271008,
@@ -779,6 +843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 257872,
+      "num": 257872,
+      "word": "山西老醋月饼销售火爆",
+      "onboard_time": 1662449909,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 256359,
       "num": 256359,
       "word": "飞夺泸定桥的泸定",
@@ -793,14 +865,6 @@
       "onboard_time": 1662434246,
       "rank": 25,
       "category": "科技,国内要闻"
-    },
-    {
-      "raw_hot": 253789,
-      "num": 253789,
-      "word": "困到差点爬不进窝的小狗",
-      "onboard_time": 1662448947,
-      "rank": 34,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 251527,
@@ -819,14 +883,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 243585,
-      "num": 243585,
-      "word": "华为Mate50十倍抗摔",
-      "onboard_time": 1662450087,
-      "rank": 27,
-      "category": "科技"
-    },
-    {
       "raw_hot": 241551,
       "num": 241551,
       "word": "国产大型通信无人机飞赴震中",
@@ -843,20 +899,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 235755,
-      "num": 235755,
-      "word": "华为mate50芯片",
-      "onboard_time": 1662450565,
-      "rank": 31,
-      "category": "科技"
-    },
-    {
       "raw_hot": 232481,
       "num": 232481,
       "word": "地震瞬间女子抱住女儿也被妈妈抱住",
       "onboard_time": 1662442888,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232252,
+      "num": 232252,
+      "word": "成都大邑一男子持刀砍伤两人",
+      "onboard_time": 1662451947,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229992,
+      "num": 229992,
+      "word": "苹果14",
+      "onboard_time": 1662451226,
+      "rank": 33,
+      "category": "科技"
     },
     {
       "raw_hot": 227191,
@@ -873,6 +937,14 @@
       "onboard_time": 1662427887,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 223959,
+      "num": 223959,
+      "word": "如何评价华为新款二合一笔记本",
+      "onboard_time": 1662452487,
+      "rank": 35,
+      "category": "科技"
     },
     {
       "raw_hot": 218474,
@@ -920,6 +992,14 @@
       "word": "华为Mate系列时隔2年回归",
       "onboard_time": 1662449668,
       "rank": 32,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 208557,
+      "num": 208557,
+      "word": "华为Mate50配置",
+      "onboard_time": 1662451408,
+      "rank": 36,
       "category": "科技"
     },
     {
@@ -971,14 +1051,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 197153,
-      "num": 197153,
-      "word": "山西老醋月饼销售火爆",
-      "onboard_time": 1662449909,
-      "rank": 49,
-      "category": "美食"
-    },
-    {
       "raw_hot": 196225,
       "num": 196225,
       "word": "中国重型火箭发动机整机试车成功",
@@ -995,12 +1067,20 @@
       "category": "综艺,影视"
     },
     {
-      "raw_hot": 194582,
-      "num": 194582,
+      "raw_hot": 195144,
+      "num": 195144,
       "word": "晒豪车显示该图片曾在站内出现过",
       "onboard_time": 1662448228,
       "rank": 42,
       "category": "科技"
+    },
+    {
+      "raw_hot": 194933,
+      "num": 194933,
+      "word": "你手机地震预警功能开了吗",
+      "onboard_time": 1662451167,
+      "rank": 39,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 192837,
@@ -1035,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184532,
+      "num": 184532,
+      "word": "华为发布首款鸿蒙家庭存储",
+      "onboard_time": 1662452729,
+      "rank": 42,
+      "category": "科技"
+    },
+    {
       "raw_hot": 183740,
       "num": 183740,
       "word": "地震瞬间父亲把孩子紧紧护在怀里",
@@ -1067,6 +1155,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 181884,
+      "num": 181884,
+      "word": "泸定地震致66人遇难",
+      "onboard_time": 1662452848,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180796,
       "num": 180796,
       "word": "地震瞬间母亲用身体护住患病宝宝",
@@ -1081,14 +1177,6 @@
       "onboard_time": 1662384328,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 177161,
-      "num": 177161,
-      "word": "孙女地震时公主抱瘫痪奶奶逃生",
-      "onboard_time": 1662450327,
-      "rank": 40,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 176446,
@@ -1203,28 +1291,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151936,
+      "num": 151936,
+      "word": "老人卖关东煮遭醉酒男掀锅殴打",
+      "onboard_time": 1662452848,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149828,
       "num": 149828,
       "word": "美方长期对中国手机用户无差别监听",
       "onboard_time": 1662369748,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 148702,
-      "num": 148702,
-      "word": "男子被恶狗咬伤后徒手将狗掐死",
-      "onboard_time": 1662450628,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 148472,
-      "num": 148472,
-      "word": "昆仑玻璃",
-      "onboard_time": 1662450446,
-      "rank": 48,
-      "category": "科技"
     },
     {
       "raw_hot": 148228,
@@ -1307,6 +1387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 139125,
+      "num": 139125,
+      "word": "年轻人消费态度大赏",
+      "onboard_time": 1662452189,
+      "rank": 48,
+      "category": "科技,幽默"
+    },
+    {
       "raw_hot": 139038,
       "num": 139038,
       "word": "3.2万余件救灾物资支援震区",
@@ -1361,6 +1449,14 @@
       "onboard_time": 1662374848,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 131357,
+      "num": 131357,
+      "word": "能超越mate的只有mate",
+      "onboard_time": 1662452130,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 128937,
