@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662449981717,
+  "endTime": 1662450718399,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -115,6 +115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2669957,
+      "num": 2669957,
+      "word": "顺丰宣布不送货上门就赔钱",
+      "onboard_time": 1662447146,
+      "rank": 0,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 2650424,
       "num": 2650424,
       "word": "外交部新任发言人毛宁亮相",
@@ -129,14 +137,6 @@
       "onboard_time": 1662392968,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2273669,
-      "num": 2273669,
-      "word": "顺丰宣布不送货上门就赔钱",
-      "onboard_time": 1662447146,
-      "rank": 0,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 2236954,
@@ -387,6 +387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1128572,
+      "num": 1128572,
+      "word": "申请3年才领到的导盲犬被顺走",
+      "onboard_time": 1662446489,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1127618,
       "num": 609735,
       "word": "林彦俊文案抄袭",
@@ -539,14 +547,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 989990,
-      "num": 989990,
-      "word": "申请3年才领到的导盲犬被顺走",
-      "onboard_time": 1662446489,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 988062,
       "num": 988062,
       "word": "大连一社区抗原检测阳性奖励2000元",
@@ -577,6 +577,14 @@
       "onboard_time": 1662424472,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 964962,
+      "num": 237373,
+      "word": "网课入侵",
+      "onboard_time": 1662448407,
+      "rank": 30,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 959338,
@@ -811,6 +819,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 705726,
+      "num": 705726,
+      "word": "教资考试报名人数升至1144.2万",
+      "onboard_time": 1662443187,
+      "rank": 13,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 705309,
       "num": 1926357,
       "word": "泸定地震最新消息汇总",
@@ -865,22 +881,6 @@
       "onboard_time": 1662358294,
       "rank": 11,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 664057,
-      "num": 224844,
-      "word": "网课入侵",
-      "onboard_time": 1662448407,
-      "rank": 30,
-      "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 661446,
-      "num": 661446,
-      "word": "教资考试报名人数升至1144.2万",
-      "onboard_time": 1662443187,
-      "rank": 13,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 660983,
@@ -987,12 +987,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 606292,
-      "num": 606292,
+      "raw_hot": 617097,
+      "num": 617097,
       "word": "吴磊赵露思月升沧海淋雨剧照",
       "onboard_time": 1662449069,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 599024,
+      "num": 335621,
+      "word": "警方证实韩第一夫人履历造假",
+      "onboard_time": 1662449489,
+      "rank": 27,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 598120,
@@ -1379,6 +1387,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 422122,
+      "num": 422122,
+      "word": "相互喜欢也会分手吗",
+      "onboard_time": 1662447688,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 420047,
       "num": 420047,
       "word": "深圳地铁",
@@ -1643,6 +1659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 354686,
+      "num": 354686,
+      "word": "华为Mate50配色",
+      "onboard_time": 1662449128,
+      "rank": 31,
+      "category": "科技"
+    },
+    {
       "raw_hot": 354461,
       "num": 354461,
       "word": "谢娜探访中国最聪明的工厂",
@@ -1657,14 +1681,6 @@
       "onboard_time": 1662390395,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 348492,
-      "num": 348492,
-      "word": "相互喜欢也会分手吗",
-      "onboard_time": 1662447688,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 346473,
@@ -1736,6 +1752,14 @@
       "word": "男子醉酒爬上天台横梁睡了一宿",
       "onboard_time": 1662348446,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 333857,
+      "num": 333857,
+      "word": "男孩意外发现同学妈妈是自己老师",
+      "onboard_time": 1662449548,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1939,6 +1963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 302372,
+      "num": 302372,
+      "word": "女大师称神仙要穿香奈儿LV骗200万",
+      "onboard_time": 1662447207,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300588,
       "num": 300588,
       "word": "乐山一小学地震预警期全部疏散",
@@ -2011,6 +2043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 288021,
+      "num": 288021,
+      "word": "华为mate50价格",
+      "onboard_time": 1662450087,
+      "rank": 25,
+      "category": "科技"
+    },
+    {
       "raw_hot": 287026,
       "num": 287026,
       "word": "四川速度",
@@ -2081,14 +2121,6 @@
       "onboard_time": 1662351930,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 281964,
-      "num": 281964,
-      "word": "女大师称神仙要穿香奈儿LV骗200万",
-      "onboard_time": 1662447207,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 280831,
@@ -2259,6 +2291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268082,
+      "num": 148675,
+      "word": "华为Mate50起售价4999元",
+      "onboard_time": 1662450688,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
       "raw_hot": 267672,
       "num": 267672,
       "word": "真电驴",
@@ -2355,6 +2395,14 @@
       "category": "科技,国内要闻"
     },
     {
+      "raw_hot": 253789,
+      "num": 253789,
+      "word": "困到差点爬不进窝的小狗",
+      "onboard_time": 1662448947,
+      "rank": 34,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 251527,
       "num": 251527,
       "word": "何洛洛参加北电开学典礼路透",
@@ -2369,14 +2417,6 @@
       "onboard_time": 1662389376,
       "rank": 32,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 250357,
-      "num": 250357,
-      "word": "警方证实韩第一夫人履历造假",
-      "onboard_time": 1662449489,
-      "rank": 27,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 246139,
@@ -2425,6 +2465,14 @@
       "onboard_time": 1662388839,
       "rank": 26,
       "category": "教育,情感"
+    },
+    {
+      "raw_hot": 243585,
+      "num": 243585,
+      "word": "华为Mate50十倍抗摔",
+      "onboard_time": 1662450087,
+      "rank": 27,
+      "category": "科技"
     },
     {
       "raw_hot": 243553,
@@ -2489,6 +2537,14 @@
       "onboard_time": 1662366329,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 235755,
+      "num": 235755,
+      "word": "华为mate50芯片",
+      "onboard_time": 1662450565,
+      "rank": 31,
+      "category": "科技"
     },
     {
       "raw_hot": 232604,
@@ -2651,14 +2707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 211035,
-      "num": 211035,
-      "word": "华为Mate50配色",
-      "onboard_time": 1662449128,
-      "rank": 31,
-      "category": "科技"
-    },
-    {
       "raw_hot": 210727,
       "num": 210727,
       "word": "泸定震后第一夜",
@@ -2771,6 +2819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199974,
+      "num": 199974,
+      "word": "孟子义说不能消耗别人的喜欢",
+      "onboard_time": 1662447327,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199771,
       "num": 638538,
       "word": "泸定地震救援现场",
@@ -2779,28 +2835,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 198992,
-      "num": 198992,
-      "word": "孟子义说不能消耗别人的喜欢",
-      "onboard_time": 1662447327,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 198662,
-      "num": 198662,
-      "word": "困到差点爬不进窝的小狗",
-      "onboard_time": 1662448947,
-      "rank": 34,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 197248,
       "num": 197248,
       "word": "徐梦洁翻唱彩虹的微笑",
       "onboard_time": 1662442467,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 197153,
+      "num": 197153,
+      "word": "山西老醋月饼销售火爆",
+      "onboard_time": 1662449909,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 197059,
@@ -2825,6 +2873,14 @@
       "onboard_time": 1662449008,
       "rank": 35,
       "category": "综艺,影视"
+    },
+    {
+      "raw_hot": 194582,
+      "num": 194582,
+      "word": "晒豪车显示该图片曾在站内出现过",
+      "onboard_time": 1662448228,
+      "rank": 42,
+      "category": "科技"
     },
     {
       "raw_hot": 192523,
@@ -2947,6 +3003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 183096,
+      "num": 183096,
+      "word": "华为mate50应急模式",
+      "onboard_time": 1662450508,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 182778,
       "num": 182778,
       "word": "震后这群孩子主动加入搬运物资长龙",
@@ -3001,6 +3065,14 @@
       "onboard_time": 1662356918,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 177161,
+      "num": 177161,
+      "word": "孙女地震时公主抱瘫痪奶奶逃生",
+      "onboard_time": 1662450327,
+      "rank": 40,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 175934,
@@ -3115,14 +3187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161546,
-      "num": 161546,
-      "word": "晒豪车显示该图片曾在站内出现过",
-      "onboard_time": 1662448228,
-      "rank": 42,
-      "category": "科技"
-    },
-    {
       "raw_hot": 157653,
       "num": 157653,
       "word": "泸定地震现场",
@@ -3187,14 +3251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 152732,
-      "num": 152732,
-      "word": "男孩意外发现同学妈妈是自己老师",
-      "onboard_time": 1662449548,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 152309,
       "num": 152309,
       "word": "北化工昌平校区新增5例初筛阳性",
@@ -3211,12 +3267,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148702,
+      "num": 148702,
+      "word": "男子被恶狗咬伤后徒手将狗掐死",
+      "onboard_time": 1662450628,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148487,
       "num": 148487,
       "word": "福州现巨型乌云",
       "onboard_time": 1662315615,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148472,
+      "num": 148472,
+      "word": "昆仑玻璃",
+      "onboard_time": 1662450446,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 148228,
@@ -3417,14 +3489,6 @@
       "onboard_time": 1662431306,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 128631,
-      "num": 128631,
-      "word": "山西老醋月饼销售火爆",
-      "onboard_time": 1662449909,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 128622,
