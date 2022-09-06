@@ -1,6 +1,6 @@
 {
   "startTime": 1662395471045,
-  "endTime": 1662463173782,
+  "endTime": 1662464183589,
   "band_list": [
     {
       "raw_hot": 3524515,
@@ -123,12 +123,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1299249,
+      "num": 1299249,
+      "word": "家长反对凑钱送礼给老师被逼退群",
+      "onboard_time": 1662460470,
+      "rank": 42,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1260802,
       "num": 1260802,
       "word": "地震瞬间老师扔下碗筷冲向午休孩子",
       "onboard_time": 1662433468,
       "rank": 28,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1255177,
+      "num": 1255177,
+      "word": "宋亚轩考上中戏后首个综艺官宣",
+      "onboard_time": 1662462031,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1216167,
@@ -145,14 +161,6 @@
       "onboard_time": 1662458731,
       "rank": 14,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 1194976,
-      "num": 1194976,
-      "word": "宋亚轩考上中戏后首个综艺官宣",
-      "onboard_time": 1662462031,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1128572,
@@ -217,6 +225,14 @@
       "onboard_time": 1662424830,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 977109,
+      "num": 977109,
+      "word": "吴彤终于要邀请到刘德华了",
+      "onboard_time": 1662460530,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 967578,
@@ -315,28 +331,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 826614,
-      "num": 826614,
-      "word": "家长反对凑钱送礼给老师被逼退群",
-      "onboard_time": 1662460470,
-      "rank": 42,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 823069,
       "num": 481207,
       "word": "网传王一博国庆档三部电影同时上映",
       "onboard_time": 1662415212,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 816603,
-      "num": 499880,
-      "word": "吴彤终于要邀请到刘德华了",
-      "onboard_time": 1662460530,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 798447,
@@ -475,6 +475,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 620002,
+      "num": 620002,
+      "word": "华为Mate50没电也能打电话",
+      "onboard_time": 1662458431,
+      "rank": 18,
+      "category": "科技"
+    },
+    {
       "raw_hot": 618846,
       "num": 618846,
       "word": "四川增68例确诊70例无症状",
@@ -563,12 +571,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 503648,
-      "num": 503648,
-      "word": "华为Mate50没电也能打电话",
-      "onboard_time": 1662458431,
-      "rank": 18,
-      "category": "科技"
+      "raw_hot": 510520,
+      "num": 467828,
+      "word": "成都市民核酸遇3天后生产采样棉签",
+      "onboard_time": 1662463349,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 498166,
@@ -731,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 383131,
+      "num": 383131,
+      "word": "网友劝阻大爷大妈们河边放生矿泉水",
+      "onboard_time": 1662459990,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 382197,
       "num": 382197,
       "word": "苹果14",
@@ -771,12 +787,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 357551,
-      "num": 357551,
-      "word": "网友劝阻大爷大妈们河边放生矿泉水",
-      "onboard_time": 1662459990,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 359102,
+      "num": 359102,
+      "word": "原来懂礼貌真的很加分",
+      "onboard_time": 1662462630,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 354686,
@@ -907,6 +923,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 296661,
+      "num": 296661,
+      "word": "胡歌吴越县委大院预告片",
+      "onboard_time": 1662463531,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 290382,
       "num": 290382,
       "word": "华为Mate50配置",
@@ -947,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 285569,
+      "num": 285569,
+      "word": "克制含胸驼背的方法找到了",
+      "onboard_time": 1662461911,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 285243,
       "num": 285243,
       "word": "第31届金鹰奖首轮结果发布",
@@ -961,6 +993,14 @@
       "onboard_time": 1662436409,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 281702,
+      "num": 281702,
+      "word": "无限超越班",
+      "onboard_time": 1662463890,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 280295,
@@ -985,6 +1025,14 @@
       "onboard_time": 1662428788,
       "rank": 22,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 273778,
+      "num": 273778,
+      "word": "被人顺走的导盲犬已寻回",
+      "onboard_time": 1662461731,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 271263,
@@ -1155,6 +1203,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 235018,
+      "num": 235018,
+      "word": "雷霆杯",
+      "onboard_time": 1662462389,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 232481,
       "num": 232481,
       "word": "地震瞬间女子抱住女儿也被妈妈抱住",
@@ -1187,12 +1243,20 @@
       "category": "科技"
     },
     {
-      "raw_hot": 220213,
-      "num": 220213,
-      "word": "克制含胸驼背的方法找到了",
-      "onboard_time": 1662461911,
-      "rank": 29,
-      "category": "体育"
+      "raw_hot": 222069,
+      "num": 222069,
+      "word": "泸定地震捐款",
+      "onboard_time": 1662462989,
+      "rank": 43,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 222013,
+      "num": 222013,
+      "word": "EDG9周年",
+      "onboard_time": 1662462510,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 218474,
@@ -1291,14 +1355,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 202573,
-      "num": 202573,
-      "word": "原来懂礼貌真的很加分",
-      "onboard_time": 1662462630,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 199974,
       "num": 199974,
       "word": "孟子义说不能消耗别人的喜欢",
@@ -1395,14 +1451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 183402,
-      "num": 183402,
-      "word": "被人顺走的导盲犬已寻回",
-      "onboard_time": 1662461731,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 183096,
       "num": 183096,
       "word": "华为mate50应急模式",
@@ -1433,14 +1481,6 @@
       "onboard_time": 1662438333,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 179424,
-      "num": 179424,
-      "word": "雷霆杯",
-      "onboard_time": 1662462389,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 178580,
@@ -1489,6 +1529,14 @@
       "onboard_time": 1662420985,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166504,
+      "num": 166504,
+      "word": "鸿蒙3今日开放升级",
+      "onboard_time": 1662462210,
+      "rank": 38,
+      "category": "科技"
     },
     {
       "raw_hot": 165253,
@@ -1553,22 +1601,6 @@
       "onboard_time": 1662389973,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 156621,
-      "num": 156621,
-      "word": "鸿蒙3今日开放升级",
-      "onboard_time": 1662462210,
-      "rank": 38,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 155552,
-      "num": 155552,
-      "word": "EDG9周年",
-      "onboard_time": 1662462510,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 154926,
@@ -1683,14 +1715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 143363,
-      "num": 143363,
-      "word": "泸定地震捐款",
-      "onboard_time": 1662462989,
-      "rank": 43,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 143093,
       "num": 143093,
       "word": "大渡河一级支流湾东河已断流",
@@ -1795,11 +1819,27 @@
       "category": "科技"
     },
     {
+      "raw_hot": 131314,
+      "num": 131314,
+      "word": "民警将玩具球留在缉毒犬墓前",
+      "onboard_time": 1662463710,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128937,
       "num": 128937,
       "word": "这就是广东人的中秋技能吧",
       "onboard_time": 1662431306,
       "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 128472,
+      "num": 128472,
+      "word": "原来简历还能这样做加法",
+      "onboard_time": 1662463948,
+      "rank": 45,
       "category": "幽默"
     },
     {
