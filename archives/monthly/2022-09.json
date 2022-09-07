@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662565456864,
+  "endTime": 1662568440215,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -937,6 +937,14 @@
       "onboard_time": 1662214110,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1684786,
+      "num": 653234,
+      "word": "苹果发布会",
+      "onboard_time": 1662563253,
+      "rank": 26,
+      "category": "科技"
     },
     {
       "raw_hot": 1679317,
@@ -3971,6 +3979,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 677008,
+      "num": 548212,
+      "word": "苹果新品",
+      "onboard_time": 1662552811,
+      "rank": 18,
+      "category": "科技"
+    },
+    {
       "raw_hot": 675640,
       "num": 675640,
       "word": "亲爹报警男孩吃瓜吃到自己家",
@@ -4081,14 +4097,6 @@
       "onboard_time": 1662111566,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 653234,
-      "num": 653234,
-      "word": "苹果发布会",
-      "onboard_time": 1662563253,
-      "rank": 26,
-      "category": "科技"
     },
     {
       "raw_hot": 651105,
@@ -4883,14 +4891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 548212,
-      "num": 548212,
-      "word": "苹果新品",
-      "onboard_time": 1662552811,
-      "rank": 18,
-      "category": "科技"
-    },
-    {
       "raw_hot": 547601,
       "num": 547601,
       "word": "被HR追问离职可以这样回答",
@@ -5025,6 +5025,14 @@
       "onboard_time": 1662561571,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 534044,
+      "num": 534044,
+      "word": "醉酒男子在电梯里殴打女邻居",
+      "onboard_time": 1662561691,
+      "rank": 48,
+      "category": "社会负面"
     },
     {
       "raw_hot": 533978,
@@ -5867,14 +5875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 455099,
-      "num": 455099,
-      "word": "醉酒男子在电梯里殴打女邻居",
-      "onboard_time": 1662561691,
-      "rank": 48,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 454088,
       "num": 454088,
       "word": "男生摘眼镜视力听力一起下降",
@@ -6177,6 +6177,14 @@
       "onboard_time": 1662190888,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 438824,
+      "num": 252153,
+      "word": "王鹤棣冷帽造型饭拍",
+      "onboard_time": 1662566126,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 437626,
@@ -9011,6 +9019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302066,
+      "num": 302066,
+      "word": "宜宾疫情防控",
+      "onboard_time": 1662564333,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300984,
       "num": 300984,
       "word": "贵阳核酸检测系统",
@@ -9299,6 +9315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 293196,
+      "num": 293196,
+      "word": "库克称期待闪耀的苹果发布会",
+      "onboard_time": 1662562113,
+      "rank": 29,
+      "category": "科技"
+    },
+    {
       "raw_hot": 292799,
       "num": 292799,
       "word": "杨紫成毅原声台词爆发力",
@@ -9441,14 +9465,6 @@
       "onboard_time": 1662017908,
       "rank": 48,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 289297,
-      "num": 289297,
-      "word": "库克称期待闪耀的苹果发布会",
-      "onboard_time": 1662562113,
-      "rank": 29,
-      "category": "科技"
     },
     {
       "raw_hot": 288913,
@@ -10707,6 +10723,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 254949,
+      "num": 254949,
+      "word": "14年前他被救14年后他救人",
+      "onboard_time": 1662565107,
+      "rank": 46,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 254741,
       "num": 254741,
       "word": "Gemini线下直播总决赛",
@@ -11347,6 +11371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 231174,
+      "num": 231174,
+      "word": "为什么要少玩手机多看书",
+      "onboard_time": 1662567385,
+      "rank": 22,
+      "category": "科技,情感"
+    },
+    {
       "raw_hot": 230740,
       "num": 227016,
       "word": "恋爱的夏天",
@@ -11369,6 +11401,14 @@
       "onboard_time": 1662106829,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 230352,
+      "num": 230352,
+      "word": "事业和爱情你会选哪个",
+      "onboard_time": 1662566845,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 230049,
@@ -13099,14 +13139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 180260,
-      "num": 180260,
-      "word": "宜宾疫情防控",
-      "onboard_time": 1662564333,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179667,
       "num": 179667,
       "word": "后羿与三星堆有什么关系",
@@ -13737,14 +13769,6 @@
       "onboard_time": 1662308007,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157382,
-      "num": 157382,
-      "word": "14年前他被救14年后他救人",
-      "onboard_time": 1662565107,
-      "rank": 46,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 157240,

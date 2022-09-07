@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662565456864,
+  "endTime": 1662568440215,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -401,6 +401,14 @@
       "onboard_time": 1662386730,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1684786,
+      "num": 653234,
+      "word": "苹果发布会",
+      "onboard_time": 1662563253,
+      "rank": 26,
+      "category": "科技"
     },
     {
       "raw_hot": 1675065,
@@ -1715,6 +1723,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 677008,
+      "num": 548212,
+      "word": "苹果新品",
+      "onboard_time": 1662552811,
+      "rank": 18,
+      "category": "科技"
+    },
+    {
       "raw_hot": 672478,
       "num": 672478,
       "word": "沉香重华番外",
@@ -1761,14 +1777,6 @@
       "onboard_time": 1662439413,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 653234,
-      "num": 653234,
-      "word": "苹果发布会",
-      "onboard_time": 1662563253,
-      "rank": 26,
-      "category": "科技"
     },
     {
       "raw_hot": 648751,
@@ -2083,14 +2091,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 548212,
-      "num": 548212,
-      "word": "苹果新品",
-      "onboard_time": 1662552811,
-      "rank": 18,
-      "category": "科技"
-    },
-    {
       "raw_hot": 539418,
       "num": 539418,
       "word": "为什么自己和父母的缺点越来越像",
@@ -2137,6 +2137,14 @@
       "onboard_time": 1662561571,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 534044,
+      "num": 534044,
+      "word": "醉酒男子在电梯里殴打女邻居",
+      "onboard_time": 1662561691,
+      "rank": 48,
+      "category": "社会负面"
     },
     {
       "raw_hot": 532390,
@@ -2483,14 +2491,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 455099,
-      "num": 455099,
-      "word": "醉酒男子在电梯里殴打女邻居",
-      "onboard_time": 1662561691,
-      "rank": 48,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 453480,
       "num": 453480,
       "word": "宛平南路600号月饼被炒至599元",
@@ -2585,6 +2585,14 @@
       "onboard_time": 1662526110,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 438824,
+      "num": 252153,
+      "word": "王鹤棣冷帽造型饭拍",
+      "onboard_time": 1662566126,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 437626,
@@ -3787,6 +3795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302066,
+      "num": 302066,
+      "word": "宜宾疫情防控",
+      "onboard_time": 1662564333,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300912,
       "num": 223847,
       "word": "杨紫沉香重华告别vlog",
@@ -3899,6 +3915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 293196,
+      "num": 293196,
+      "word": "库克称期待闪耀的苹果发布会",
+      "onboard_time": 1662562113,
+      "rank": 29,
+      "category": "科技"
+    },
+    {
       "raw_hot": 292663,
       "num": 292663,
       "word": "美国男女足国家队正式实现同工同酬",
@@ -3961,14 +3985,6 @@
       "onboard_time": 1662540146,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 289297,
-      "num": 289297,
-      "word": "库克称期待闪耀的苹果发布会",
-      "onboard_time": 1662562113,
-      "rank": 29,
-      "category": "科技"
     },
     {
       "raw_hot": 288870,
@@ -4563,6 +4579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 254949,
+      "num": 254949,
+      "word": "14年前他被救14年后他救人",
+      "onboard_time": 1662565107,
+      "rank": 46,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 254381,
       "num": 237100,
       "word": "杨紫小仙侍颜淡剧照",
@@ -4905,6 +4929,22 @@
       "onboard_time": 1662322212,
       "rank": 46,
       "category": "国外要闻,社会新闻"
+    },
+    {
+      "raw_hot": 231174,
+      "num": 231174,
+      "word": "为什么要少玩手机多看书",
+      "onboard_time": 1662567385,
+      "rank": 22,
+      "category": "科技,情感"
+    },
+    {
+      "raw_hot": 230352,
+      "num": 230352,
+      "word": "事业和爱情你会选哪个",
+      "onboard_time": 1662566845,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 229619,
@@ -5699,14 +5739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 180260,
-      "num": 180260,
-      "word": "宜宾疫情防控",
-      "onboard_time": 1662564333,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 180105,
       "num": 180105,
       "word": "92岁老人不愿添麻烦婉拒志愿者上门导尿",
@@ -6009,14 +6041,6 @@
       "onboard_time": 1662308007,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157382,
-      "num": 157382,
-      "word": "14年前他被救14年后他救人",
-      "onboard_time": 1662565107,
-      "rank": 46,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 156775,
@@ -6643,6 +6667,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 91160,
+      "num": 91160,
+      "word": "苍兰诀",
+      "onboard_time": 1662504018,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 91148,
       "num": 91148,
       "word": "7条定律助你提升自我",
@@ -6905,14 +6937,6 @@
       "onboard_time": 1662487872,
       "rank": 49,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 16486,
-      "num": 16486,
-      "word": "苍兰诀",
-      "onboard_time": 1662504018,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 14889,
