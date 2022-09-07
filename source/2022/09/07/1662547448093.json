@@ -1,0 +1,410 @@
+{
+  "runTime": 1662547448093,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1979765,
+        "num": 1979765,
+        "word": "贵阳筛查到301例阳性感染者",
+        "onboard_time": 1662540268,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1677857,
+        "num": 1677857,
+        "word": "印医生剖腹产时见胎儿不成熟又缝上",
+        "onboard_time": 1662541344,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100659,
+        "num": 1214768,
+        "word": "他们全力以赴只为泸定早日安定",
+        "onboard_time": 1662539846,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1152417,
+        "num": 1152417,
+        "word": "俄罗斯正在放弃使用美元和英镑",
+        "onboard_time": 1662543807,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 894019,
+        "num": 894019,
+        "word": "周寻姜小果好久不见",
+        "onboard_time": 1662542906,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 879018,
+        "num": 879018,
+        "word": "林墨登顶",
+        "onboard_time": 1662540325,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 672478,
+        "num": 672478,
+        "word": "沉香重华番外",
+        "onboard_time": 1662546090,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 672158,
+        "num": 672158,
+        "word": "小红书用户疑盗用女性照片编故事",
+        "onboard_time": 1662539607,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 636657,
+        "num": 636657,
+        "word": "上海一女子去优衣库给全家偷衣服",
+        "onboard_time": 1662532227,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606391,
+        "num": 606391,
+        "word": "男子拒付212元餐费求民警抓自己",
+        "onboard_time": 1662542549,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1772560,
+        "num": 604105,
+        "word": "林志玲和木村拓哉走秀",
+        "onboard_time": 1662544290,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 595065,
+        "num": 595065,
+        "word": "台湾省一阿公为四川泸定捐款",
+        "onboard_time": 1662541047,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502928,
+        "num": 502928,
+        "word": "成都青羊区严控线上非生活必需品外卖",
+        "onboard_time": 1662545369,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483657,
+        "num": 483657,
+        "word": "请把西装焊死在身上",
+        "onboard_time": 1662545728,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 5473,
+        "num": 470641,
+        "word": "华为Mate50稳了",
+        "onboard_time": 1662544830,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 464286,
+        "num": 464286,
+        "word": "午休趴桌子睡觉危害有多大",
+        "onboard_time": 1662536188,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449358,
+        "num": 449358,
+        "word": "三亚00后老板中秋扣员工50%工资代尽孝",
+        "onboard_time": 1662535586,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410434,
+        "num": 410434,
+        "word": "女子震中被埋4小时成功脱险",
+        "onboard_time": 1662542787,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389914,
+        "num": 389914,
+        "word": "虞书欣对张彬彬比心动作是王鹤棣教的吗",
+        "onboard_time": 1662539307,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 373248,
+        "num": 373248,
+        "word": "北京新增一起中学聚集性疫情",
+        "onboard_time": 1662541708,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 720590,
+        "num": 366288,
+        "word": "网友统计近五年最爆艺人",
+        "onboard_time": 1662533424,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 437712,
+        "num": 366199,
+        "word": "王嘉尔把头发吹成猫耳",
+        "onboard_time": 1662537387,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 332575,
+        "num": 332575,
+        "word": "北京海淀判定校内密接570人",
+        "onboard_time": 1662544527,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326491,
+        "num": 326491,
+        "word": "上海新增社会面1例本土无症状",
+        "onboard_time": 1662543387,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314365,
+        "num": 314365,
+        "word": "湖南涉外车祸2人受伤无生命危险",
+        "onboard_time": 1662535224,
+        "rank": 24,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 310193,
+        "num": 310193,
+        "word": "Fly落水",
+        "onboard_time": 1662538349,
+        "rank": 25,
+        "category": "游戏,综艺"
+      },
+      {
+        "raw_hot": 255949,
+        "num": 255949,
+        "word": "重庆摩托车队又来震区了",
+        "onboard_time": 1662543567,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253531,
+        "num": 253531,
+        "word": "青岛疫情防控",
+        "onboard_time": 1662545971,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249728,
+        "num": 249728,
+        "word": "教育局回应家长拒绝送礼被逼退群",
+        "onboard_time": 1662530303,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 241927,
+        "num": 241927,
+        "word": "李新元受贿1.7亿一审被判死缓",
+        "onboard_time": 1662546808,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303001,
+        "num": 239148,
+        "word": "陈钰琪祝绪丹初秋营业照",
+        "onboard_time": 1662542728,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274601,
+        "num": 238161,
+        "word": "沉香重华",
+        "onboard_time": 1662545369,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232832,
+        "num": 232832,
+        "word": "多人在网红店吃同款餐品患肠胃炎",
+        "onboard_time": 1662541104,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229493,
+        "num": 229493,
+        "word": "暑期档最受关注的男女艺人",
+        "onboard_time": 1662539667,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228453,
+        "num": 228453,
+        "word": "沉香重华今日会员收官",
+        "onboard_time": 1662546808,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218006,
+        "num": 218006,
+        "word": "狐妖小红娘",
+        "onboard_time": 1662546331,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 201909,
+        "num": 201909,
+        "word": "北京新增本土感染者7例",
+        "onboard_time": 1662541947,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201719,
+        "num": 201719,
+        "word": "上海疫情防控",
+        "onboard_time": 1662546689,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174560,
+        "num": 174560,
+        "word": "切尔西官宣图赫尔下课",
+        "onboard_time": 1662543087,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22694,
+        "num": 169971,
+        "word": "人人参与才是大公益",
+        "onboard_time": 1662544830,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215766,
+        "num": 169910,
+        "word": "只有小森林能把我从苍兰诀里面救出来",
+        "onboard_time": 1662540146,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213826,
+        "num": 169896,
+        "word": "刘诗诗一念关山正脸饭拍路透",
+        "onboard_time": 1662544349,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169101,
+        "num": 169101,
+        "word": "中秋节与教师节同天本世纪仅有三次",
+        "onboard_time": 1662539426,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163793,
+        "num": 163793,
+        "word": "谈恋爱就跟吃泡面一样",
+        "onboard_time": 1662533605,
+        "rank": 43,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 149852,
+        "num": 149852,
+        "word": "残疾老人打封闭针搬货救重病外孙",
+        "onboard_time": 1662527009,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141003,
+        "num": 141003,
+        "word": "美国男女足国家队正式实现同工同酬",
+        "onboard_time": 1662538947,
+        "rank": 45,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 136645,
+        "num": 136645,
+        "word": "相亲男女推诿不买单老板报警",
+        "onboard_time": 1662534505,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125058,
+        "num": 125058,
+        "word": "动物园回应男子跳进熊猫园舍拍照",
+        "onboard_time": 1662539607,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124295,
+        "num": 124295,
+        "word": "原来神明也会坐公共交通",
+        "onboard_time": 1662536307,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110670,
+        "num": 110670,
+        "word": "河南一店铺推出胡辣汤月饼",
+        "onboard_time": 1662540568,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#健全关键核心技术攻关新型举国体制#"
+    }
+  }
+}
