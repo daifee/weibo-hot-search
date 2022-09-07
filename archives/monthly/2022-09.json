@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662564337504,
+  "endTime": 1662565456864,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -401,6 +401,14 @@
       "onboard_time": 1662392968,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2519802,
+      "num": 485523,
+      "word": "张翰新剧 争议动作",
+      "onboard_time": 1662562712,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 2490648,
@@ -4075,6 +4083,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 653234,
+      "num": 653234,
+      "word": "苹果发布会",
+      "onboard_time": 1662563253,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
       "raw_hot": 651105,
       "num": 651105,
       "word": "eStar",
@@ -5483,6 +5499,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 487382,
+      "num": 487382,
+      "word": "冰雨火大结局好虐",
+      "onboard_time": 1662565229,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 486161,
       "num": 445649,
       "word": "王一博周冬雨央视秋晚幕后故事",
@@ -5841,6 +5865,14 @@
       "onboard_time": 1662114448,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 455099,
+      "num": 455099,
+      "word": "醉酒男子在电梯里殴打女邻居",
+      "onboard_time": 1662561691,
+      "rank": 48,
+      "category": "社会负面"
     },
     {
       "raw_hot": 454088,
@@ -6793,14 +6825,6 @@
       "onboard_time": 1662080125,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 398913,
-      "num": 398913,
-      "word": "醉酒男子在电梯里殴打女邻居",
-      "onboard_time": 1662561691,
-      "rank": 48,
-      "category": "社会负面"
     },
     {
       "raw_hot": 397348,
@@ -8403,6 +8427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 323143,
+      "num": 323143,
+      "word": "贵阳花果园疫情防控",
+      "onboard_time": 1662560731,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 322806,
       "num": 322806,
       "word": "2023考研时间确定",
@@ -9203,14 +9235,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 295599,
-      "num": 295599,
-      "word": "贵阳花果园疫情防控",
-      "onboard_time": 1662560731,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 294981,
       "num": 294981,
       "word": "向前冲",
@@ -9417,6 +9441,14 @@
       "onboard_time": 1662017908,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 289297,
+      "num": 289297,
+      "word": "库克称期待闪耀的苹果发布会",
+      "onboard_time": 1662562113,
+      "rank": 29,
+      "category": "科技"
     },
     {
       "raw_hot": 288913,
@@ -9633,6 +9665,14 @@
       "onboard_time": 1662436409,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 283229,
+      "num": 283229,
+      "word": "这个弟弟是来报恩的吧",
+      "onboard_time": 1662563193,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 282699,
@@ -10155,14 +10195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 270643,
-      "num": 270643,
-      "word": "苹果发布会",
-      "onboard_time": 1662563253,
-      "rank": 26,
-      "category": "科技"
-    },
-    {
       "raw_hot": 270408,
       "num": 270408,
       "word": "新学期要读的第一本书",
@@ -10192,14 +10224,6 @@
       "word": "iPhone14Pro将配备更大电池",
       "onboard_time": 1662405311,
       "rank": 49,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 269058,
-      "num": 263979,
-      "word": "库克称期待闪耀的苹果发布会",
-      "onboard_time": 1662562113,
-      "rank": 29,
       "category": "科技"
     },
     {
@@ -10843,6 +10867,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 249147,
+      "num": 245808,
+      "word": "你选周寻还是齐颂",
+      "onboard_time": 1662563313,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 248980,
       "num": 222932,
       "word": "刘诗诗一念关山正脸饭拍路透",
@@ -11044,7 +11076,7 @@
     },
     {
       "raw_hot": 242058,
-      "num": 226448,
+      "num": 239613,
       "word": "二刷沉香重华",
       "onboard_time": 1662564271,
       "rank": 35,
@@ -12187,14 +12219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 205643,
-      "num": 205643,
-      "word": "这个弟弟是来报恩的吧",
-      "onboard_time": 1662563193,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 205396,
       "num": 205396,
       "word": "沈梦瑶重力直拍",
@@ -13075,6 +13099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180260,
+      "num": 180260,
+      "word": "宜宾疫情防控",
+      "onboard_time": 1662564333,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179667,
       "num": 179667,
       "word": "后羿与三星堆有什么关系",
@@ -13161,6 +13193,14 @@
       "onboard_time": 1662045450,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174056,
+      "num": 174056,
+      "word": "宋茜新剧说医生不是上帝",
+      "onboard_time": 1662564691,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 174027,
@@ -13699,19 +13739,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157382,
+      "num": 157382,
+      "word": "14年前他被救14年后他救人",
+      "onboard_time": 1662565107,
+      "rank": 46,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 157240,
       "num": 157240,
       "word": "武汉新增12例本土无症状",
       "onboard_time": 1662261807,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156980,
-      "num": 156980,
-      "word": "宜宾疫情防控",
-      "onboard_time": 1662564333,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -15507,18 +15547,18 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 35283,
-      "num": 553195,
-      "word": "震区群众向救援人员竖起大拇指",
-      "onboard_time": 1662559290,
+      "raw_hot": 36035,
+      "num": 455780,
+      "word": "消防员连续救援后席地而睡",
+      "onboard_time": 1662562894,
       "rank": 14,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28530,
-      "num": 440303,
-      "word": "消防员连续救援后席地而睡",
-      "onboard_time": 1662562894,
+      "raw_hot": 35283,
+      "num": 553195,
+      "word": "震区群众向救援人员竖起大拇指",
+      "onboard_time": 1662559290,
       "rank": 14,
       "category": "社会新闻"
     },

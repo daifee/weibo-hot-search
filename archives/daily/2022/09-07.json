@@ -1,6 +1,6 @@
 {
   "startTime": 1662481978498,
-  "endTime": 1662564337504,
+  "endTime": 1662565456864,
   "band_list": [
     {
       "raw_hot": 4035864,
@@ -57,6 +57,14 @@
       "onboard_time": 1662549028,
       "rank": 26,
       "category": "科技"
+    },
+    {
+      "raw_hot": 2519802,
+      "num": 485523,
+      "word": "张翰新剧 争议动作",
+      "onboard_time": 1662562712,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 2155388,
@@ -571,6 +579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 653234,
+      "num": 653234,
+      "word": "苹果发布会",
+      "onboard_time": 1662563253,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
       "raw_hot": 642100,
       "num": 642100,
       "word": "郑州不配合烂尾楼复工房企要查税",
@@ -811,6 +827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 487382,
+      "num": 487382,
+      "word": "冰雨火大结局好虐",
+      "onboard_time": 1662565229,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 486161,
       "num": 445649,
       "word": "王一博周冬雨央视秋晚幕后故事",
@@ -825,6 +849,14 @@
       "onboard_time": 1662537808,
       "rank": 15,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 455099,
+      "num": 455099,
+      "word": "醉酒男子在电梯里殴打女邻居",
+      "onboard_time": 1662561691,
+      "rank": 48,
+      "category": "社会负面"
     },
     {
       "raw_hot": 453772,
@@ -1017,14 +1049,6 @@
       "onboard_time": 1662532467,
       "rank": 45,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 398913,
-      "num": 398913,
-      "word": "醉酒男子在电梯里殴打女邻居",
-      "onboard_time": 1662561691,
-      "rank": 48,
-      "category": "社会负面"
     },
     {
       "raw_hot": 388726,
@@ -1291,6 +1315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 323143,
+      "num": 323143,
+      "word": "贵阳花果园疫情防控",
+      "onboard_time": 1662560731,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319102,
       "num": 220683,
       "word": "哔哩哔哩向前冲",
@@ -1403,14 +1435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 295599,
-      "num": 295599,
-      "word": "贵阳花果园疫情防控",
-      "onboard_time": 1662560731,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 294981,
       "num": 294981,
       "word": "向前冲",
@@ -1483,6 +1507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 289297,
+      "num": 289297,
+      "word": "库克称期待闪耀的苹果发布会",
+      "onboard_time": 1662562113,
+      "rank": 29,
+      "category": "科技"
+    },
+    {
       "raw_hot": 288870,
       "num": 288870,
       "word": "北京疫情发布会",
@@ -1497,6 +1529,14 @@
       "onboard_time": 1662555030,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 283229,
+      "num": 283229,
+      "word": "这个弟弟是来报恩的吧",
+      "onboard_time": 1662563193,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 282030,
@@ -1569,22 +1609,6 @@
       "onboard_time": 1662510930,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 270643,
-      "num": 270643,
-      "word": "苹果发布会",
-      "onboard_time": 1662563253,
-      "rank": 26,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 269058,
-      "num": 263979,
-      "word": "库克称期待闪耀的苹果发布会",
-      "onboard_time": 1662562113,
-      "rank": 29,
-      "category": "科技"
     },
     {
       "raw_hot": 265489,
@@ -1683,6 +1707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249147,
+      "num": 245808,
+      "word": "你选周寻还是齐颂",
+      "onboard_time": 1662563313,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 248980,
       "num": 222932,
       "word": "刘诗诗一念关山正脸饭拍路透",
@@ -1724,7 +1756,7 @@
     },
     {
       "raw_hot": 242058,
-      "num": 226448,
+      "num": 239613,
       "word": "二刷沉香重华",
       "onboard_time": 1662564271,
       "rank": 35,
@@ -1931,14 +1963,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 205643,
-      "num": 205643,
-      "word": "这个弟弟是来报恩的吧",
-      "onboard_time": 1662563193,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 204684,
       "num": 204684,
       "word": "今年中秋不仅有圆月还有木星伴月",
@@ -2075,6 +2099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180260,
+      "num": 180260,
+      "word": "宜宾疫情防控",
+      "onboard_time": 1662564333,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179898,
       "num": 179898,
       "word": "华为mate50",
@@ -2097,6 +2129,14 @@
       "onboard_time": 1662508353,
       "rank": 37,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 174056,
+      "num": 174056,
+      "word": "宋茜新剧说医生不是上帝",
+      "onboard_time": 1662564691,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 174027,
@@ -2203,20 +2243,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157382,
+      "num": 157382,
+      "word": "14年前他被救14年后他救人",
+      "onboard_time": 1662565107,
+      "rank": 46,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 157089,
       "num": 157089,
       "word": "覆流年",
       "onboard_time": 1662536366,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 156980,
-      "num": 156980,
-      "word": "宜宾疫情防控",
-      "onboard_time": 1662564333,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156775,
@@ -2571,18 +2611,18 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 35283,
-      "num": 553195,
-      "word": "震区群众向救援人员竖起大拇指",
-      "onboard_time": 1662559290,
+      "raw_hot": 36035,
+      "num": 455780,
+      "word": "消防员连续救援后席地而睡",
+      "onboard_time": 1662562894,
       "rank": 14,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28530,
-      "num": 440303,
-      "word": "消防员连续救援后席地而睡",
-      "onboard_time": 1662562894,
+      "raw_hot": 35283,
+      "num": 553195,
+      "word": "震区群众向救援人员竖起大拇指",
+      "onboard_time": 1662559290,
       "rank": 14,
       "category": "社会新闻"
     },
