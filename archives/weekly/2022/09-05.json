@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662539440113,
+  "endTime": 1662540479040,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -371,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1565702,
+      "num": 1540404,
+      "word": "三亚00后老板中秋扣员工50%工资代尽孝",
+      "onboard_time": 1662535586,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1562634,
       "num": 622867,
       "word": "陈宇杨玲分手了",
@@ -385,14 +393,6 @@
       "onboard_time": 1662437189,
       "rank": 3,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 1540404,
-      "num": 1540404,
-      "word": "三亚00后老板中秋扣员工50%工资代尽孝",
-      "onboard_time": 1662535586,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1522421,
@@ -416,6 +416,14 @@
       "word": "冰雨火全员塌房陈宇幸免",
       "onboard_time": 1662440791,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1435808,
+      "num": 1435808,
+      "word": "林心如入围金钟奖最佳女主角",
+      "onboard_time": 1662537986,
+      "rank": 5,
       "category": "影视"
     },
     {
@@ -707,14 +715,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 1070011,
-      "num": 1070011,
-      "word": "林心如入围金钟奖最佳女主角",
-      "onboard_time": 1662537986,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1067903,
       "num": 1067903,
       "word": "四川幼儿园小朋友地震中有序撤离",
@@ -833,6 +833,14 @@
       "onboard_time": 1662385832,
       "rank": 47,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1014731,
+      "num": 1014731,
+      "word": "午休趴桌子睡觉危害有多大",
+      "onboard_time": 1662536188,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1013890,
@@ -1051,6 +1059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 893469,
+      "num": 893469,
+      "word": "虞书欣对张彬彬比心动作是王鹤棣教的吗",
+      "onboard_time": 1662539307,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 893242,
       "num": 583143,
       "word": "我都替井柏然尴尬的睡不着",
@@ -1081,6 +1097,14 @@
       "onboard_time": 1662440134,
       "rank": 10,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 862955,
+      "num": 335028,
+      "word": "王嘉尔把头发吹成猫耳",
+      "onboard_time": 1662537387,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 859467,
@@ -1211,14 +1235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 799912,
-      "num": 335028,
-      "word": "王嘉尔把头发吹成猫耳",
-      "onboard_time": 1662537387,
-      "rank": 21,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 797977,
       "num": 797977,
       "word": "近视12000度是种什么体验",
@@ -1291,14 +1307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 741148,
-      "num": 741148,
-      "word": "午休趴桌子睡觉危害有多大",
-      "onboard_time": 1662536188,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 735728,
       "num": 735728,
       "word": "华为mate50芯片",
@@ -1337,6 +1345,14 @@
       "onboard_time": 1662525509,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 713443,
+      "num": 713443,
+      "word": "Fly落水",
+      "onboard_time": 1662538349,
+      "rank": 12,
+      "category": "游戏,综艺"
     },
     {
       "raw_hot": 713169,
@@ -1699,6 +1715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 593957,
+      "num": 593957,
+      "word": "暑期档最受关注的男女艺人",
+      "onboard_time": 1662539667,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 591067,
       "num": 591067,
       "word": "网传杨紫主演电影照明商店",
@@ -1713,14 +1737,6 @@
       "onboard_time": 1662372449,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 581492,
-      "num": 581492,
-      "word": "虞书欣对张彬彬比心动作是王鹤棣教的吗",
-      "onboard_time": 1662539307,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 579619,
@@ -1769,14 +1785,6 @@
       "onboard_time": 1662432507,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 557721,
-      "num": 557721,
-      "word": "Fly落水",
-      "onboard_time": 1662538349,
-      "rank": 12,
-      "category": "游戏,综艺"
     },
     {
       "raw_hot": 549755,
@@ -1969,6 +1977,14 @@
       "onboard_time": 1662382289,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 483400,
+      "num": 483400,
+      "word": "库克",
+      "onboard_time": 1662537808,
+      "rank": 15,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 483078,
@@ -2347,14 +2363,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 406767,
-      "num": 406767,
-      "word": "库克",
-      "onboard_time": 1662537808,
-      "rank": 15,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 406049,
       "num": 406049,
       "word": "昆仑玻璃",
@@ -2627,6 +2635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 368642,
+      "num": 208880,
+      "word": "冰雨火杨熠下线",
+      "onboard_time": 1662539667,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 366367,
       "num": 366367,
       "word": "王者荣耀",
@@ -2697,6 +2713,14 @@
       "onboard_time": 1662523588,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 354968,
+      "num": 354968,
+      "word": "汶川地震被救的孩子在保护泸定了",
+      "onboard_time": 1662536666,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 354686,
@@ -3203,14 +3227,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 296482,
-      "num": 296482,
-      "word": "汶川地震被救的孩子在保护泸定了",
-      "onboard_time": 1662536666,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 296475,
       "num": 296475,
       "word": "王一博无名黑西装造型",
@@ -3507,6 +3523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274980,
+      "num": 228912,
+      "word": "Fly疯狂挑衅喊话",
+      "onboard_time": 1662539126,
+      "rank": 30,
+      "category": "游戏,综艺"
+    },
+    {
       "raw_hot": 274237,
       "num": 274237,
       "word": "泸定地震余震仍将持续一段时间",
@@ -3683,6 +3707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 265489,
+      "num": 265489,
+      "word": "贵阳贵安疫情防控发布会",
+      "onboard_time": 1662540387,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265038,
       "num": 265038,
       "word": "泸定地震愿平安",
@@ -3849,14 +3881,6 @@
       "onboard_time": 1662449668,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 251197,
-      "num": 228912,
-      "word": "Fly疯狂挑衅喊话",
-      "onboard_time": 1662539126,
-      "rank": 30,
-      "category": "游戏,综艺"
     },
     {
       "raw_hot": 251000,
@@ -4105,6 +4129,14 @@
       "onboard_time": 1662322212,
       "rank": 46,
       "category": "国外要闻,社会新闻"
+    },
+    {
+      "raw_hot": 229619,
+      "num": 229619,
+      "word": "安阳新增本土无症状14例",
+      "onboard_time": 1662537567,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229146,
@@ -4395,11 +4427,11 @@
       "category": "科技"
     },
     {
-      "raw_hot": 208892,
-      "num": 208892,
-      "word": "安阳新增本土无症状14例",
-      "onboard_time": 1662537567,
-      "rank": 32,
+      "raw_hot": 209955,
+      "num": 209955,
+      "word": "贵阳筛查到301例阳性感染者",
+      "onboard_time": 1662540268,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -4432,6 +4464,14 @@
       "word": "男子骑摩托被女友开车撞翻",
       "onboard_time": 1662302371,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204684,
+      "num": 204684,
+      "word": "今年中秋不仅有圆月还有木星伴月",
+      "onboard_time": 1662540206,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -4641,6 +4681,14 @@
       "onboard_time": 1662292046,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191964,
+      "num": 168309,
+      "word": "林墨登顶",
+      "onboard_time": 1662540325,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 190484,
@@ -4907,6 +4955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 170241,
+      "num": 170241,
+      "word": "中秋节与教师节同天本世纪仅有三次",
+      "onboard_time": 1662539426,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170003,
       "num": 170003,
       "word": "为什么形容露水是白的",
@@ -4977,6 +5033,14 @@
       "onboard_time": 1662462210,
       "rank": 38,
       "category": "科技"
+    },
+    {
+      "raw_hot": 165854,
+      "num": 165854,
+      "word": "小红书用户疑盗用女性照片编故事",
+      "onboard_time": 1662539607,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165511,
@@ -5057,6 +5121,14 @@
       "onboard_time": 1662476433,
       "rank": 42,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 160000,
+      "num": 160000,
+      "word": "美国男女足国家队正式实现同工同酬",
+      "onboard_time": 1662538947,
+      "rank": 45,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 159953,
@@ -5323,6 +5395,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 140836,
+      "num": 140836,
+      "word": "赣州疫情防控",
+      "onboard_time": 1662536607,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140556,
       "num": 140556,
       "word": "沙漏",
@@ -5451,20 +5531,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 132900,
-      "num": 132900,
-      "word": "赣州疫情防控",
-      "onboard_time": 1662536607,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132598,
       "num": 132598,
       "word": "2022秋季学期考试日历",
       "onboard_time": 1662340349,
       "rank": 41,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 131907,
+      "num": 131907,
+      "word": "动物园回应男子跳进熊猫园舍拍照",
+      "onboard_time": 1662539607,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131357,
@@ -5611,14 +5691,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 110373,
-      "num": 110373,
-      "word": "美国男女足国家队正式实现同工同酬",
-      "onboard_time": 1662538947,
-      "rank": 45,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 106694,
       "num": 106694,
       "word": "冰雨火",
@@ -5641,14 +5713,6 @@
       "onboard_time": 1662409151,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 101715,
-      "num": 101715,
-      "word": "中秋节与教师节同天本世纪仅有三次",
-      "onboard_time": 1662539426,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 101445,
@@ -5873,6 +5937,14 @@
       "onboard_time": 1662447567,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27951,
+      "num": 1184234,
+      "word": "他们全力以赴只为泸定早日安定",
+      "onboard_time": 1662539846,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 26395,

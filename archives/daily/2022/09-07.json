@@ -1,6 +1,6 @@
 {
   "startTime": 1662481978498,
-  "endTime": 1662539440113,
+  "endTime": 1662540479040,
   "band_list": [
     {
       "raw_hot": 4035864,
@@ -75,12 +75,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1540404,
+      "raw_hot": 1565702,
       "num": 1540404,
       "word": "三亚00后老板中秋扣员工50%工资代尽孝",
       "onboard_time": 1662535586,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1435808,
+      "num": 1435808,
+      "word": "林心如入围金钟奖最佳女主角",
+      "onboard_time": 1662537986,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 1338443,
@@ -171,14 +179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1070011,
-      "num": 1070011,
-      "word": "林心如入围金钟奖最佳女主角",
-      "onboard_time": 1662537986,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1061929,
       "num": 799867,
       "word": "中国采购俄天然气将改用人民币和卢布支付",
@@ -193,6 +193,14 @@
       "onboard_time": 1662477091,
       "rank": 3,
       "category": "自然,社会新闻"
+    },
+    {
+      "raw_hot": 1014731,
+      "num": 1014731,
+      "word": "午休趴桌子睡觉危害有多大",
+      "onboard_time": 1662536188,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1013890,
@@ -235,6 +243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 893469,
+      "num": 893469,
+      "word": "虞书欣对张彬彬比心动作是王鹤棣教的吗",
+      "onboard_time": 1662539307,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 893242,
       "num": 583143,
       "word": "我都替井柏然尴尬的睡不着",
@@ -249,6 +265,14 @@
       "onboard_time": 1662527009,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 862955,
+      "num": 335028,
+      "word": "王嘉尔把头发吹成猫耳",
+      "onboard_time": 1662537387,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 858990,
@@ -275,27 +299,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 799912,
-      "num": 335028,
-      "word": "王嘉尔把头发吹成猫耳",
-      "onboard_time": 1662537387,
-      "rank": 21,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 762433,
       "num": 762433,
       "word": "95后女孩送父亲30万新车",
       "onboard_time": 1662477811,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 741148,
-      "num": 741148,
-      "word": "午休趴桌子睡觉危害有多大",
-      "onboard_time": 1662536188,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -305,6 +313,14 @@
       "onboard_time": 1662525509,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 713443,
+      "num": 713443,
+      "word": "Fly落水",
+      "onboard_time": 1662538349,
+      "rank": 12,
+      "category": "游戏,综艺"
     },
     {
       "raw_hot": 713169,
@@ -387,12 +403,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 581492,
-      "num": 581492,
-      "word": "虞书欣对张彬彬比心动作是王鹤棣教的吗",
-      "onboard_time": 1662539307,
-      "rank": 10,
-      "category": "影视"
+      "raw_hot": 593957,
+      "num": 593957,
+      "word": "暑期档最受关注的男女艺人",
+      "onboard_time": 1662539667,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 570142,
@@ -409,14 +425,6 @@
       "onboard_time": 1662475292,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 557721,
-      "num": 557721,
-      "word": "Fly落水",
-      "onboard_time": 1662538349,
-      "rank": 12,
-      "category": "游戏,综艺"
     },
     {
       "raw_hot": 549755,
@@ -449,6 +457,14 @@
       "onboard_time": 1662514225,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 483400,
+      "num": 483400,
+      "word": "库克",
+      "onboard_time": 1662537808,
+      "rank": 15,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 453772,
@@ -555,14 +571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 406767,
-      "num": 406767,
-      "word": "库克",
-      "onboard_time": 1662537808,
-      "rank": 15,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 405911,
       "num": 374338,
       "word": "在棣欣引力的作用下白越光你将吴露可逃",
@@ -651,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 368642,
+      "num": 208880,
+      "word": "冰雨火杨熠下线",
+      "onboard_time": 1662539667,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 366367,
       "num": 366367,
       "word": "王者荣耀",
@@ -673,6 +689,14 @@
       "onboard_time": 1662523588,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 354968,
+      "num": 354968,
+      "word": "汶川地震被救的孩子在保护泸定了",
+      "onboard_time": 1662536666,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 350116,
@@ -747,6 +771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 313446,
+      "num": 313446,
+      "word": "北京疫情防控",
+      "onboard_time": 1662533726,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 312005,
       "num": 312005,
       "word": "妈妈网购作业被孩子反劝别乱花钱",
@@ -769,14 +801,6 @@
       "onboard_time": 1662527966,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 296482,
-      "num": 296482,
-      "word": "汶川地震被救的孩子在保护泸定了",
-      "onboard_time": 1662536666,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 294981,
@@ -867,6 +891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 274980,
+      "num": 228912,
+      "word": "Fly疯狂挑衅喊话",
+      "onboard_time": 1662539126,
+      "rank": 30,
+      "category": "游戏,综艺"
+    },
+    {
       "raw_hot": 272785,
       "num": 272785,
       "word": "蒋兰州 喜欢我是早晚的事",
@@ -875,10 +907,10 @@
       "category": "影视"
     },
     {
-      "raw_hot": 261671,
-      "num": 261671,
-      "word": "北京疫情防控",
-      "onboard_time": 1662533726,
+      "raw_hot": 265489,
+      "num": 265489,
+      "word": "贵阳贵安疫情防控发布会",
+      "onboard_time": 1662540387,
       "rank": 25,
       "category": "社会新闻"
     },
@@ -931,14 +963,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 251197,
-      "num": 228912,
-      "word": "Fly疯狂挑衅喊话",
-      "onboard_time": 1662539126,
-      "rank": 30,
-      "category": "游戏,综艺"
-    },
-    {
       "raw_hot": 246304,
       "num": 246304,
       "word": "益阳公交总公司回应乘客被踹下车",
@@ -977,6 +1001,14 @@
       "onboard_time": 1662532107,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 229619,
+      "num": 229619,
+      "word": "安阳新增本土无症状14例",
+      "onboard_time": 1662537567,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226905,
@@ -1075,11 +1107,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 208892,
-      "num": 208892,
-      "word": "安阳新增本土无症状14例",
-      "onboard_time": 1662537567,
-      "rank": 32,
+      "raw_hot": 209955,
+      "num": 209955,
+      "word": "贵阳筛查到301例阳性感染者",
+      "onboard_time": 1662540268,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1097,6 +1129,14 @@
       "onboard_time": 1662475472,
       "rank": 18,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 204684,
+      "num": 204684,
+      "word": "今年中秋不仅有圆月还有木星伴月",
+      "onboard_time": 1662540206,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203793,
@@ -1179,6 +1219,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 191964,
+      "num": 168309,
+      "word": "林墨登顶",
+      "onboard_time": 1662540325,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189404,
       "num": 189404,
       "word": "泸定地震中的猪坚强",
@@ -1251,6 +1299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 170241,
+      "num": 170241,
+      "word": "中秋节与教师节同天本世纪仅有三次",
+      "onboard_time": 1662539426,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170003,
       "num": 170003,
       "word": "为什么形容露水是白的",
@@ -1272,6 +1328,14 @@
       "word": "网友劝阻大爷大妈们河边放生矿泉水",
       "onboard_time": 1662459990,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165854,
+      "num": 165854,
+      "word": "小红书用户疑盗用女性照片编故事",
+      "onboard_time": 1662539607,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1297,6 +1361,14 @@
       "onboard_time": 1662475530,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 160000,
+      "num": 160000,
+      "word": "美国男女足国家队正式实现同工同酬",
+      "onboard_time": 1662538947,
+      "rank": 45,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 159953,
@@ -1395,6 +1467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140836,
+      "num": 140836,
+      "word": "赣州疫情防控",
+      "onboard_time": 1662536607,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136184,
       "num": 136184,
       "word": "男朋友的视力是个谜",
@@ -1451,10 +1531,10 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132900,
-      "num": 132900,
-      "word": "赣州疫情防控",
-      "onboard_time": 1662536607,
+      "raw_hot": 131907,
+      "num": 131907,
+      "word": "动物园回应男子跳进熊猫园舍拍照",
+      "onboard_time": 1662539607,
       "rank": 49,
       "category": "社会新闻"
     },
@@ -1507,14 +1587,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 110373,
-      "num": 110373,
-      "word": "美国男女足国家队正式实现同工同酬",
-      "onboard_time": 1662538947,
-      "rank": 45,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 110243,
       "num": 110243,
       "word": "将博士后人员作为补充师资重要来源",
@@ -1561,14 +1633,6 @@
       "onboard_time": 1662475113,
       "rank": 45,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 101715,
-      "num": 101715,
-      "word": "中秋节与教师节同天本世纪仅有三次",
-      "onboard_time": 1662539426,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 99034,
@@ -1633,6 +1697,14 @@
       "onboard_time": 1662519627,
       "rank": 39,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 27951,
+      "num": 1184234,
+      "word": "他们全力以赴只为泸定早日安定",
+      "onboard_time": 1662539846,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 21355,
