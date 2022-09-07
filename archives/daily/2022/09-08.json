@@ -1,10 +1,10 @@
 {
   "startTime": 1662568440215,
-  "endTime": 1662572060944,
+  "endTime": 1662573033945,
   "band_list": [
     {
-      "raw_hot": 1823062,
-      "num": 1823062,
+      "raw_hot": 2294898,
+      "num": 2294898,
       "word": "iPhone14",
       "onboard_time": 1662549028,
       "rank": 0,
@@ -435,8 +435,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 49186,
-      "num": 49186,
+      "raw_hot": 72449,
+      "num": 72449,
       "word": "贵阳将从7方面完善物资配送",
       "onboard_time": 1662570920,
       "rank": 48,
