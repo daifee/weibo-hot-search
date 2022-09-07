@@ -1,6 +1,6 @@
 {
   "startTime": 1662481978498,
-  "endTime": 1662558928165,
+  "endTime": 1662559551076,
   "band_list": [
     {
       "raw_hot": 4035864,
@@ -27,12 +27,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2671091,
-      "num": 2671091,
+      "raw_hot": 2920253,
+      "num": 2920253,
       "word": "搂腰喝水",
       "onboard_time": 1662555153,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2760284,
+      "num": 2760284,
+      "word": "苍兰诀 番外",
+      "onboard_time": 1662558274,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 2159270,
+      "num": 2159270,
+      "word": "iPhone14",
+      "onboard_time": 1662549028,
+      "rank": 26,
+      "category": "科技"
     },
     {
       "raw_hot": 2155388,
@@ -49,22 +65,6 @@
       "onboard_time": 1662533786,
       "rank": 3,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 2085840,
-      "num": 2085840,
-      "word": "苍兰诀 番外",
-      "onboard_time": 1662558274,
-      "rank": 1,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 2007851,
-      "num": 1773254,
-      "word": "iPhone14",
-      "onboard_time": 1662549028,
-      "rank": 26,
-      "category": "科技"
     },
     {
       "raw_hot": 1962060,
@@ -316,7 +316,7 @@
     },
     {
       "raw_hot": 1108930,
-      "num": 688959,
+      "num": 692415,
       "word": "请把西装焊死在身上",
       "onboard_time": 1662545728,
       "rank": 30,
@@ -539,6 +539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 642100,
+      "num": 642100,
+      "word": "郑州不配合烂尾楼复工房企要查税",
+      "onboard_time": 1662554551,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 630201,
       "num": 535165,
       "word": "冰雨火唯一的吻戏来了",
@@ -568,14 +576,6 @@
       "word": "专家称四川6.8级地震与干旱无关",
       "onboard_time": 1662492791,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 615921,
-      "num": 615921,
-      "word": "郑州不配合烂尾楼复工房企要查税",
-      "onboard_time": 1662554551,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -691,8 +691,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 518353,
-      "num": 518353,
+      "raw_hot": 536443,
+      "num": 536443,
       "word": "小鸟吞下比自己脸还大的蝴蝶",
       "onboard_time": 1662555390,
       "rank": 24,
@@ -763,20 +763,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 490759,
+      "num": 386159,
+      "word": "丁程鑫在剧组放饭时拿到高考分数",
+      "onboard_time": 1662558274,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 486161,
+      "num": 445649,
+      "word": "王一博周冬雨央视秋晚幕后故事",
+      "onboard_time": 1662554551,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 483400,
       "num": 483400,
       "word": "库克",
       "onboard_time": 1662537808,
       "rank": 15,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 469836,
-      "num": 445649,
-      "word": "王一博周冬雨央视秋晚幕后故事",
-      "onboard_time": 1662554551,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 453772,
@@ -819,20 +827,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 441400,
+      "num": 441400,
+      "word": "一年级女孩入学不适应找老师抱抱",
+      "onboard_time": 1662556954,
+      "rank": 27,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 440455,
       "num": 440455,
       "word": "湖南卫视中秋之夜拍月亮官宣",
       "onboard_time": 1662526110,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 433678,
-      "num": 231139,
-      "word": "丁程鑫在剧组放饭时拿到高考分数",
-      "onboard_time": 1662558274,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 430694,
@@ -964,7 +972,7 @@
     },
     {
       "raw_hot": 388726,
-      "num": 229428,
+      "num": 252913,
       "word": "饿了么崩了",
       "onboard_time": 1662557010,
       "rank": 47,
@@ -1147,6 +1155,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 345386,
+      "num": 345386,
+      "word": "她怎么把月亮穿在身上",
+      "onboard_time": 1662557432,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 343859,
       "num": 343859,
       "word": "蔡徐坤智族GQ金九封面",
@@ -1168,6 +1184,14 @@
       "word": "3岁萌娃刚进幼儿园就直奔午休室",
       "onboard_time": 1662524729,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 336167,
+      "num": 336167,
+      "word": "大哥微笑接受采访一开口泪崩了",
+      "onboard_time": 1662555090,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -1203,12 +1227,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 318937,
-      "num": 318937,
-      "word": "大哥微笑接受采访一开口泪崩了",
-      "onboard_time": 1662555090,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 318031,
+      "num": 267398,
+      "word": "成毅沉香重华红衣收官剧照",
+      "onboard_time": 1662554432,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 315793,
@@ -1235,14 +1259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 313352,
-      "num": 250807,
-      "word": "成毅沉香重华红衣收官剧照",
-      "onboard_time": 1662554432,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 312005,
       "num": 312005,
       "word": "妈妈网购作业被孩子反劝别乱花钱",
@@ -1257,14 +1273,6 @@
       "onboard_time": 1662551488,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 306789,
-      "num": 306789,
-      "word": "一年级女孩入学不适应找老师抱抱",
-      "onboard_time": 1662556954,
-      "rank": 27,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 304913,
@@ -1297,6 +1305,14 @@
       "onboard_time": 1662527966,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 295018,
+      "num": 295018,
+      "word": "静待烟火成都早日归来",
+      "onboard_time": 1662558632,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 294981,
@@ -1467,6 +1483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 268509,
+      "num": 204947,
+      "word": "谭维维演的张桂梅",
+      "onboard_time": 1662559114,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 265489,
       "num": 265489,
       "word": "贵阳贵安疫情防控发布会",
@@ -1555,20 +1579,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250877,
+      "num": 250877,
+      "word": "今年养活一只大闸蟹有多难",
+      "onboard_time": 1662557613,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248980,
       "num": 222932,
       "word": "刘诗诗一念关山正脸饭拍路透",
       "onboard_time": 1662544349,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 248439,
-      "num": 248439,
-      "word": "她怎么把月亮穿在身上",
-      "onboard_time": 1662557432,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 247457,
@@ -1683,6 +1707,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 221564,
+      "num": 221564,
+      "word": "从没见过这么难卖的鹅",
+      "onboard_time": 1662558033,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 221323,
       "num": 221323,
       "word": "动物园回应男子跳进熊猫园舍拍照",
@@ -1768,14 +1800,6 @@
       "word": "可爱小警犬是王牌缉毒犬",
       "onboard_time": 1662503056,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 209127,
-      "num": 209127,
-      "word": "今年养活一只大闸蟹有多难",
-      "onboard_time": 1662557613,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1923,14 +1947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 185043,
-      "num": 185043,
-      "word": "静待烟火成都早日归来",
-      "onboard_time": 1662558632,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 183721,
       "num": 183721,
       "word": "袁隆平纪念邮票发行",
@@ -1961,14 +1977,6 @@
       "onboard_time": 1662508353,
       "rank": 37,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 174622,
-      "num": 174622,
-      "word": "从没见过这么难卖的鹅",
-      "onboard_time": 1662558033,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 174027,
@@ -2129,6 +2137,14 @@
       "onboard_time": 1662513866,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153161,
+      "num": 153161,
+      "word": "女孩全部现金留给卖草鞋患病老人",
+      "onboard_time": 1662559171,
+      "rank": 47,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 151661,
@@ -2316,7 +2332,7 @@
     },
     {
       "raw_hot": 110193,
-      "num": 1965275,
+      "num": 2180210,
       "word": "他们全力以赴只为泸定早日安定",
       "onboard_time": 1662539846,
       "rank": 2,
@@ -2457,6 +2473,14 @@
       "onboard_time": 1662544830,
       "rank": 14,
       "category": "科技"
+    },
+    {
+      "raw_hot": 7276,
+      "num": 553195,
+      "word": "震区群众向救援人员竖起大拇指",
+      "onboard_time": 1662559290,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 5926,

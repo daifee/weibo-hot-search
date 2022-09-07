@@ -1,0 +1,410 @@
+{
+  "runTime": 1662559551076,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2920253,
+        "num": 2920253,
+        "word": "搂腰喝水",
+        "onboard_time": 1662555153,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2760284,
+        "num": 2760284,
+        "word": "苍兰诀 番外",
+        "onboard_time": 1662558274,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 90005,
+        "num": 2180210,
+        "word": "他们全力以赴只为泸定早日安定",
+        "onboard_time": 1662539846,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2159270,
+        "num": 2159270,
+        "word": "iPhone14",
+        "onboard_time": 1662549028,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1761231,
+        "num": 1761231,
+        "word": "爱马仕被阿姨压坏",
+        "onboard_time": 1662554012,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1555826,
+        "num": 1555826,
+        "word": "台铃",
+        "onboard_time": 1662557370,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1206158,
+        "num": 1206158,
+        "word": "杭州一男子地铁内跪地学狗叫",
+        "onboard_time": 1662553653,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 962120,
+        "num": 962120,
+        "word": "大S感谢小S",
+        "onboard_time": 1662551668,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 721346,
+        "num": 721346,
+        "word": "印医生剖腹产时见胎儿不成熟又缝上",
+        "onboard_time": 1662541344,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 693798,
+        "num": 693798,
+        "word": "泸定一大桥发现3人生命迹象",
+        "onboard_time": 1662550468,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 719809,
+        "num": 692415,
+        "word": "请把西装焊死在身上",
+        "onboard_time": 1662545728,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 642100,
+        "num": 642100,
+        "word": "郑州不配合烂尾楼复工房企要查税",
+        "onboard_time": 1662554551,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572074,
+        "num": 572074,
+        "word": "twice登顶美国billboard艺人榜",
+        "onboard_time": 1662556469,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 564030,
+        "num": 564030,
+        "word": "林志玲和木村拓哉走秀",
+        "onboard_time": 1662544290,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 7276,
+        "num": 553195,
+        "word": "震区群众向救援人员竖起大拇指",
+        "onboard_time": 1662559290,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550875,
+        "num": 550875,
+        "word": "贵阳筛查到301例阳性感染者",
+        "onboard_time": 1662540268,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536443,
+        "num": 536443,
+        "word": "小鸟吞下比自己脸还大的蝴蝶",
+        "onboard_time": 1662555390,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471874,
+        "num": 471874,
+        "word": "广州地铁",
+        "onboard_time": 1662553349,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441400,
+        "num": 441400,
+        "word": "一年级女孩入学不适应找老师抱抱",
+        "onboard_time": 1662556954,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 387141,
+        "num": 387141,
+        "word": "女孩酒驾被查称刚亲了一个喝酒的人",
+        "onboard_time": 1662547708,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490759,
+        "num": 386159,
+        "word": "丁程鑫在剧组放饭时拿到高考分数",
+        "onboard_time": 1662558274,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 486161,
+        "num": 385090,
+        "word": "王一博周冬雨央视秋晚幕后故事",
+        "onboard_time": 1662554551,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 469837,
+        "num": 384014,
+        "word": "蓝羽贺峻霖暴雨摸黑对台本",
+        "onboard_time": 1662557790,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 381832,
+        "num": 381832,
+        "word": "985研究生做10个山村孩子的全科老师",
+        "onboard_time": 1662550707,
+        "rank": 23,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 369173,
+        "num": 369173,
+        "word": "苹果新品",
+        "onboard_time": 1662552811,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 347666,
+        "num": 347666,
+        "word": "7岁儿子圈养妈妈买来吃的羊",
+        "onboard_time": 1662552270,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345386,
+        "num": 345386,
+        "word": "她怎么把月亮穿在身上",
+        "onboard_time": 1662557432,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 336167,
+        "num": 336167,
+        "word": "大哥微笑接受采访一开口泪崩了",
+        "onboard_time": 1662555090,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331643,
+        "num": 331643,
+        "word": "建议全国普及躺平午休",
+        "onboard_time": 1662552092,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295018,
+        "num": 295018,
+        "word": "静待烟火成都早日归来",
+        "onboard_time": 1662558632,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382593,
+        "num": 288145,
+        "word": "非正式会檀",
+        "onboard_time": 1662557853,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370883,
+        "num": 280298,
+        "word": "周寻姜小果好久不见",
+        "onboard_time": 1662542906,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 356958,
+        "num": 268710,
+        "word": "王鹤棣东方青苍收官战报",
+        "onboard_time": 1662552632,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 318031,
+        "num": 267398,
+        "word": "成毅沉香重华红衣收官剧照",
+        "onboard_time": 1662554432,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 311874,
+        "num": 252913,
+        "word": "饿了么崩了",
+        "onboard_time": 1662557010,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 250877,
+        "num": 250877,
+        "word": "今年养活一只大闸蟹有多难",
+        "onboard_time": 1662557613,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221564,
+        "num": 221564,
+        "word": "从没见过这么难卖的鹅",
+        "onboard_time": 1662558033,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 221269,
+        "num": 221269,
+        "word": "男子查古籍找到古墓群后盗墓",
+        "onboard_time": 1662549207,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207134,
+        "num": 207134,
+        "word": "李新元受贿1.7亿一审被判死缓",
+        "onboard_time": 1662546808,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205537,
+        "num": 205537,
+        "word": "俄罗斯正在放弃使用美元和英镑",
+        "onboard_time": 1662543807,
+        "rank": 39,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 268509,
+        "num": 204947,
+        "word": "谭维维演的张桂梅",
+        "onboard_time": 1662559114,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 250726,
+        "num": 204641,
+        "word": "罚罪",
+        "onboard_time": 1662558393,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204336,
+        "num": 204336,
+        "word": "武汉原副市长袁善腊被开除党籍",
+        "onboard_time": 1662550587,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194966,
+        "num": 194966,
+        "word": "北京新增一起中学聚集性疫情",
+        "onboard_time": 1662541708,
+        "rank": 43,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 109892,
+        "num": 180935,
+        "word": "消防员救出了消防员的母亲和孩子",
+        "onboard_time": 1662555632,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179715,
+        "num": 179715,
+        "word": "上海疫情防控",
+        "onboard_time": 1662546689,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173760,
+        "num": 173760,
+        "word": "北京海淀判定校内密接570人",
+        "onboard_time": 1662544527,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153161,
+        "num": 153161,
+        "word": "女孩全部现金留给卖草鞋患病老人",
+        "onboard_time": 1662559171,
+        "rank": 47,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 144967,
+        "num": 144967,
+        "word": "成都青羊区严控线上非生活必需品外卖",
+        "onboard_time": 1662545369,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131364,
+        "num": 131364,
+        "word": "女子震中被埋4小时成功脱险",
+        "onboard_time": 1662542787,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#打卡中国#"
+    }
+  }
+}
