@@ -1,6 +1,6 @@
 {
   "startTime": 1662481978498,
-  "endTime": 1662526773401,
+  "endTime": 1662527699734,
   "band_list": [
     {
       "raw_hot": 3253736,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1140364,
+      "num": 1140364,
+      "word": "周杰伦最伟大的作品豆瓣7.0分",
+      "onboard_time": 1662525810,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1113762,
       "num": 1113762,
       "word": "女孩脱鞋掉出蟑螂吓得大哭",
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 1061929,
-      "num": 318385,
+      "num": 799867,
       "word": "中国采购俄天然气将改用人民币和卢布支付",
       "onboard_time": 1662521005,
       "rank": 20,
@@ -123,14 +131,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 928366,
-      "num": 928366,
-      "word": "周杰伦最伟大的作品豆瓣7.0分",
-      "onboard_time": 1662525810,
-      "rank": 5,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 922019,
       "num": 922019,
       "word": "长期缺爱是如何毁掉一个人的",
@@ -147,12 +147,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 892182,
+      "num": 892182,
+      "word": "虞书欣又被捂嘴",
+      "onboard_time": 1662527009,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 828693,
+      "num": 828693,
+      "word": "离岸人民币对美元汇率跌破6.99元",
+      "onboard_time": 1662524667,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 762433,
       "num": 762433,
       "word": "95后女孩送父亲30万新车",
       "onboard_time": 1662477811,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 715519,
+      "num": 686025,
+      "word": "于文文王紫璇我也曾是你",
+      "onboard_time": 1662525509,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 713169,
@@ -169,22 +193,6 @@
       "onboard_time": 1662512610,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 686025,
-      "num": 686025,
-      "word": "于文文王紫璇我也曾是你",
-      "onboard_time": 1662525509,
-      "rank": 7,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 623156,
-      "num": 623156,
-      "word": "离岸人民币对美元汇率跌破6.99元",
-      "onboard_time": 1662524667,
-      "rank": 8,
-      "category": "财经"
     },
     {
       "raw_hot": 620440,
@@ -307,6 +315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 440455,
+      "num": 440455,
+      "word": "湖南卫视中秋之夜拍月亮官宣",
+      "onboard_time": 1662526110,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 425151,
       "num": 425151,
       "word": "特拉斯将出访乌克兰",
@@ -355,12 +371,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 385346,
+      "num": 385346,
+      "word": "流心奶黄月饼增速是五仁月饼7倍",
+      "onboard_time": 1662525448,
+      "rank": 18,
+      "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 385081,
+      "num": 385081,
+      "word": "头像能影响第一印象吗",
+      "onboard_time": 1662525331,
+      "rank": 19,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 378296,
       "num": 378296,
       "word": "官方通报老人当街向学生下跪",
       "onboard_time": 1662465450,
       "rank": 9,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 378206,
+      "num": 378206,
+      "word": "20岁小伙网恋2年不知女友是男的",
+      "onboard_time": 1662525269,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 371797,
@@ -377,14 +417,6 @@
       "onboard_time": 1662477751,
       "rank": 12,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 359196,
-      "num": 359196,
-      "word": "湖南卫视中秋之夜拍月亮官宣",
-      "onboard_time": 1662526110,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 357473,
@@ -419,14 +451,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 346905,
-      "num": 346905,
-      "word": "流心奶黄月饼增速是五仁月饼7倍",
-      "onboard_time": 1662525448,
-      "rank": 18,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 346005,
       "num": 346005,
       "word": "手机可以开通地震预警",
@@ -435,12 +459,20 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 318387,
-      "num": 318387,
-      "word": "头像能影响第一印象吗",
-      "onboard_time": 1662525331,
-      "rank": 19,
-      "category": "情感,幽默"
+      "raw_hot": 343859,
+      "num": 343859,
+      "word": "蔡徐坤智族GQ金九封面",
+      "onboard_time": 1662527369,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 339578,
+      "num": 339578,
+      "word": "3岁萌娃刚进幼儿园就直奔午休室",
+      "onboard_time": 1662524729,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 315793,
@@ -459,28 +491,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 301545,
-      "num": 301545,
-      "word": "3岁萌娃刚进幼儿园就直奔午休室",
-      "onboard_time": 1662524729,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 291597,
       "num": 291597,
       "word": "原来懂礼貌真的很加分",
       "onboard_time": 1662462630,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 290908,
-      "num": 290908,
-      "word": "20岁小伙网恋2年不知女友是男的",
-      "onboard_time": 1662525269,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 290163,
@@ -587,6 +603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 248519,
+      "num": 248519,
+      "word": "槐店王婆大虾回收剩菜再上餐桌",
+      "onboard_time": 1662526407,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245248,
       "num": 245248,
       "word": "鞠婧祎清唱无与伦比的美丽",
@@ -601,6 +625,14 @@
       "onboard_time": 1662507444,
       "rank": 39,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 232324,
+      "num": 232324,
+      "word": "谢谢你汶川哥哥",
+      "onboard_time": 1662526707,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226905,
@@ -625,6 +657,14 @@
       "onboard_time": 1662496871,
       "rank": 22,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 221886,
+      "num": 221886,
+      "word": "苹果将捐款支持四川救援和重建",
+      "onboard_time": 1662527187,
+      "rank": 31,
+      "category": "科技"
     },
     {
       "raw_hot": 219260,
@@ -707,14 +747,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 202223,
-      "num": 202223,
-      "word": "谢谢你汶川哥哥",
-      "onboard_time": 1662526707,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 201017,
       "num": 201017,
       "word": "胡说八道真的会上瘾",
@@ -747,8 +779,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 196086,
-      "num": 196086,
+      "raw_hot": 196680,
+      "num": 196680,
       "word": "陕西8校合体送限量校徽月饼",
       "onboard_time": 1662523888,
       "rank": 41,
@@ -769,6 +801,14 @@
       "onboard_time": 1662478531,
       "rank": 24,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 189648,
+      "num": 189648,
+      "word": "白冰新剧三分钟打消老公出轨念头",
+      "onboard_time": 1662527428,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 189404,
@@ -811,6 +851,22 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 175857,
+      "num": 175857,
+      "word": "大妈带泡泡杆乘车被踹下车",
+      "onboard_time": 1662527306,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173313,
+      "num": 173313,
+      "word": "美网2022",
+      "onboard_time": 1662527488,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170003,
       "num": 170003,
       "word": "为什么形容露水是白的",
@@ -849,6 +905,14 @@
       "onboard_time": 1662475530,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 157009,
+      "num": 157009,
+      "word": "残疾老人打封闭针搬货救重病外孙",
+      "onboard_time": 1662527009,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156391,
@@ -913,14 +977,6 @@
       "onboard_time": 1662514647,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 148244,
-      "num": 148244,
-      "word": "槐店王婆大虾回收剩菜再上餐桌",
-      "onboard_time": 1662526407,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136184,

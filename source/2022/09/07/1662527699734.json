@@ -1,0 +1,410 @@
+{
+  "runTime": 1662527699734,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2428920,
+        "num": 2428920,
+        "word": "国庆10月1日至7日放假调休",
+        "onboard_time": 1662508353,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1140364,
+        "num": 1140364,
+        "word": "周杰伦最伟大的作品豆瓣7.0分",
+        "onboard_time": 1662525810,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 51756,
+        "num": 969412,
+        "word": "渡难关泸定安",
+        "onboard_time": 1662473673,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 911384,
+        "num": 911384,
+        "word": "女孩脱鞋掉出蟑螂吓得大哭",
+        "onboard_time": 1662518605,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 892182,
+        "num": 892182,
+        "word": "虞书欣又被捂嘴",
+        "onboard_time": 1662527009,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 854996,
+        "num": 854996,
+        "word": "五仁月饼再成广东人最爱口味",
+        "onboard_time": 1662520768,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 828693,
+        "num": 828693,
+        "word": "离岸人民币对美元汇率跌破6.99元",
+        "onboard_time": 1662524667,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 805564,
+        "num": 805564,
+        "word": "张译王俊凯殷桃新片带同胞回家",
+        "onboard_time": 1662518363,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 799867,
+        "num": 799867,
+        "word": "中国采购俄天然气将改用人民币和卢布支付",
+        "onboard_time": 1662521005,
+        "rank": 8,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 621877,
+        "num": 621877,
+        "word": "被氢气球带走男子飘了300多公里",
+        "onboard_time": 1662514528,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1026400,
+        "num": 548908,
+        "word": "母亲抱住儿子阻止好友婚闹泼酱醋",
+        "onboard_time": 1662522689,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 715519,
+        "num": 544843,
+        "word": "于文文王紫璇我也曾是你",
+        "onboard_time": 1662525509,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 463825,
+        "num": 463825,
+        "word": "姆巴佩想取代梅西C罗成世界足球先生",
+        "onboard_time": 1662521426,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 447374,
+        "num": 447374,
+        "word": "猫咪在夸奖中逐渐迷失自我",
+        "onboard_time": 1662523466,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 440455,
+        "num": 440455,
+        "word": "湖南卫视中秋之夜拍月亮官宣",
+        "onboard_time": 1662526110,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 429423,
+        "num": 429423,
+        "word": "长期缺爱是如何毁掉一个人的",
+        "onboard_time": 1662515605,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 385346,
+        "num": 385346,
+        "word": "流心奶黄月饼增速是五仁月饼7倍",
+        "onboard_time": 1662525448,
+        "rank": 16,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 385081,
+        "num": 385081,
+        "word": "头像能影响第一印象吗",
+        "onboard_time": 1662525331,
+        "rank": 17,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 378206,
+        "num": 378206,
+        "word": "20岁小伙网恋2年不知女友是男的",
+        "onboard_time": 1662525269,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366472,
+        "num": 366472,
+        "word": "宛平南路600号月饼被炒至599元",
+        "onboard_time": 1662521426,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343859,
+        "num": 343859,
+        "word": "蔡徐坤智族GQ金九封面",
+        "onboard_time": 1662527369,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 342834,
+        "num": 342834,
+        "word": "一个人可以节俭到什么程度",
+        "onboard_time": 1662511050,
+        "rank": 21,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 339578,
+        "num": 339578,
+        "word": "3岁萌娃刚进幼儿园就直奔午休室",
+        "onboard_time": 1662524729,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320592,
+        "num": 320592,
+        "word": "2022暑期档连续剧有效播放榜",
+        "onboard_time": 1662523588,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268736,
+        "num": 268736,
+        "word": "成都全市餐饮外卖停业消息不实",
+        "onboard_time": 1662518785,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256259,
+        "num": 256259,
+        "word": "美国典当行老板称收到很多死亡威胁",
+        "onboard_time": 1662519147,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252641,
+        "num": 252641,
+        "word": "袁隆平曾拒5千美元月薪留在国内",
+        "onboard_time": 1662510449,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250890,
+        "num": 250890,
+        "word": "苹果回应巴西禁售不带充电器iPhone",
+        "onboard_time": 1662516804,
+        "rank": 27,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 248519,
+        "num": 248519,
+        "word": "槐店王婆大虾回收剩菜再上餐桌",
+        "onboard_time": 1662526407,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234989,
+        "num": 234989,
+        "word": "云南女子吃蘑菇遇地震头晕以为中毒",
+        "onboard_time": 1662512610,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232324,
+        "num": 232324,
+        "word": "谢谢你汶川哥哥",
+        "onboard_time": 1662526707,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221886,
+        "num": 221886,
+        "word": "苹果将捐款支持四川救援和重建",
+        "onboard_time": 1662527187,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 213704,
+        "num": 213704,
+        "word": "白鹿讲白露",
+        "onboard_time": 1662520586,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212281,
+        "num": 212281,
+        "word": "鞠婧祎清唱无与伦比的美丽",
+        "onboard_time": 1662522387,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 210507,
+        "num": 210507,
+        "word": "王栎鑫给宠物猪取名allen",
+        "onboard_time": 1662514827,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204946,
+        "num": 204946,
+        "word": "王嘉尔直播",
+        "onboard_time": 1662524189,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200692,
+        "num": 200692,
+        "word": "男子连玩441小时游戏被封号",
+        "onboard_time": 1662507203,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196680,
+        "num": 196680,
+        "word": "陕西8校合体送限量校徽月饼",
+        "onboard_time": 1662523888,
+        "rank": 37,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 192020,
+        "num": 192020,
+        "word": "青岛新增本土确诊12例无症状26例",
+        "onboard_time": 1662519448,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189648,
+        "num": 189648,
+        "word": "白冰新剧三分钟打消老公出轨念头",
+        "onboard_time": 1662527428,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184651,
+        "num": 184651,
+        "word": "北京新增社会面病例现住民大附中",
+        "onboard_time": 1662515068,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182266,
+        "num": 182266,
+        "word": "深圳90后房车情侣希望住进大房子",
+        "onboard_time": 1662516145,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176902,
+        "num": 176902,
+        "word": "泸定地震已造成74人遇难",
+        "onboard_time": 1662519627,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175857,
+        "num": 175857,
+        "word": "大妈带泡泡杆乘车被踹下车",
+        "onboard_time": 1662527306,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173313,
+        "num": 173313,
+        "word": "美网2022",
+        "onboard_time": 1662527488,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170523,
+        "num": 170523,
+        "word": "宝宝小心翼翼用手指摸猫惨遭嫌弃",
+        "onboard_time": 1662508468,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161718,
+        "num": 161718,
+        "word": "雅安石棉县发生4.5级地震",
+        "onboard_time": 1662519567,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160998,
+        "num": 160998,
+        "word": "张艺兴助阵说唱巅峰总决赛",
+        "onboard_time": 1662522927,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160804,
+        "num": 160804,
+        "word": "我都替井柏然尴尬的睡不着",
+        "onboard_time": 1662506422,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157009,
+        "num": 157009,
+        "word": "残疾老人打封闭针搬货救重病外孙",
+        "onboard_time": 1662527009,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#健全关键核心技术攻关新型举国体制#"
+    }
+  }
+}
