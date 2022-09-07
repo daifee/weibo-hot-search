@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/08 02:29:00
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/08 02:47:36
 </p>
 </blockquote>
 <p>
@@ -731,6 +731,12 @@ JDG与TES决胜局（热度：1719216）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E9%80%A0%E6%88%90%E4%B8%AD%E7%A7%91%E9%99%A2%E8%A7%82%E6%B5%8B%E7%AB%99%E5%9E%AE%E5%A1%8C1%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
 地震造成中科院观测站垮塌1人遇难（热度：1675065）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23iPhone14%20Plus%23" target="weibo">
+iPhone14 Plus（热度：1672968）
 </a>
 </li>
 
@@ -1559,12 +1565,6 @@ Light身体不适（热度：1095817）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23369%23" target="weibo">
 369（热度：1091241）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23iPhone14%20Plus%23" target="weibo">
-iPhone14 Plus（热度：1089895）
 </a>
 </li>
 

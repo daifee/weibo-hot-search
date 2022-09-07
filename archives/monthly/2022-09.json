@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662575340571,
+  "endTime": 1662576456208,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -961,6 +961,14 @@
       "onboard_time": 1662418339,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1672968,
+      "num": 1672968,
+      "word": "iPhone14 Plus",
+      "onboard_time": 1662574094,
+      "rank": 1,
+      "category": "科技"
     },
     {
       "raw_hot": 1666638,
@@ -2065,14 +2073,6 @@
       "onboard_time": 1662033327,
       "rank": 4,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1089895,
-      "num": 1089895,
-      "word": "iPhone14 Plus",
-      "onboard_time": 1662574094,
-      "rank": 1,
-      "category": "科技"
     },
     {
       "raw_hot": 1084298,
@@ -14923,6 +14923,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 114988,
+      "num": 114988,
+      "word": "苹果发布会有哪些亮点",
+      "onboard_time": 1662563730,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
       "raw_hot": 113250,
       "num": 113250,
       "word": "王亚平说恢复地球人模式很开心",
@@ -15161,14 +15169,6 @@
       "onboard_time": 1662506422,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 95721,
-      "num": 95721,
-      "word": "苹果发布会有哪些亮点",
-      "onboard_time": 1662563730,
-      "rank": 26,
-      "category": "科技"
     },
     {
       "raw_hot": 95580,

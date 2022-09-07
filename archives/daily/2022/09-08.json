@@ -1,6 +1,6 @@
 {
   "startTime": 1662568440215,
-  "endTime": 1662575340571,
+  "endTime": 1662576456208,
   "band_list": [
     {
       "raw_hot": 2294898,
@@ -16,6 +16,14 @@
       "word": "苹果发布会",
       "onboard_time": 1662563253,
       "rank": 3,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 1672968,
+      "num": 1672968,
+      "word": "iPhone14 Plus",
+      "onboard_time": 1662574094,
+      "rank": 1,
       "category": "科技"
     },
     {
@@ -40,14 +48,6 @@
       "word": "苹果新品",
       "onboard_time": 1662552811,
       "rank": 6,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 1089895,
-      "num": 1089895,
-      "word": "iPhone14 Plus",
-      "onboard_time": 1662574094,
-      "rank": 1,
       "category": "科技"
     },
     {
@@ -371,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114988,
+      "num": 114988,
+      "word": "苹果发布会有哪些亮点",
+      "onboard_time": 1662563730,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
       "raw_hot": 113681,
       "num": 113681,
       "word": "罚罪",
@@ -427,14 +435,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 95721,
-      "num": 95721,
-      "word": "苹果发布会有哪些亮点",
-      "onboard_time": 1662563730,
-      "rank": 26,
-      "category": "科技"
-    },
-    {
       "raw_hot": 91160,
       "num": 91160,
       "word": "苍兰诀",
@@ -459,8 +459,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 35506,
-      "num": 35506,
+      "raw_hot": 42522,
+      "num": 39076,
       "word": "金珉锡将9月26日solo出道",
       "onboard_time": 1662574994,
       "rank": 41,
