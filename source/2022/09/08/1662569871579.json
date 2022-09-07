@@ -1,0 +1,410 @@
+{
+  "runTime": 1662569871579,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 911210,
+        "num": 911210,
+        "word": "成都疫情防控",
+        "onboard_time": 1662559715,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495215,
+        "num": 495215,
+        "word": "为什么要少玩手机多看书",
+        "onboard_time": 1662567385,
+        "rank": 1,
+        "category": "科技,情感"
+      },
+      {
+        "raw_hot": 12134,
+        "num": 424140,
+        "word": "他们全力以赴只为泸定早日安定",
+        "onboard_time": 1662539846,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1722666,
+        "num": 420035,
+        "word": "苹果发布会",
+        "onboard_time": 1662563253,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 505391,
+        "num": 416058,
+        "word": "爱马仕被阿姨压坏",
+        "onboard_time": 1662554012,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 411470,
+        "num": 411470,
+        "word": "贵阳筛查到301例阳性感染者",
+        "onboard_time": 1662540268,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 857331,
+        "num": 405705,
+        "word": "苹果新品",
+        "onboard_time": 1662552811,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 366357,
+        "num": 366357,
+        "word": "杭州一男子地铁内跪地学狗叫",
+        "onboard_time": 1662553653,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340184,
+        "num": 340184,
+        "word": "醉酒男子在电梯里殴打女邻居",
+        "onboard_time": 1662561691,
+        "rank": 8,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 267448,
+        "num": 267448,
+        "word": "宜宾疫情防控",
+        "onboard_time": 1662564333,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315406,
+        "num": 267037,
+        "word": "张翰新剧 争议动作",
+        "onboard_time": 1662562712,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252874,
+        "num": 252874,
+        "word": "冰雨火大结局好虐",
+        "onboard_time": 1662565229,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251704,
+        "num": 251704,
+        "word": "库克称期待闪耀的苹果发布会",
+        "onboard_time": 1662562113,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 240259,
+        "num": 240259,
+        "word": "一年级女孩入学不适应找老师抱抱",
+        "onboard_time": 1662556954,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 239294,
+        "num": 239294,
+        "word": "广州地铁",
+        "onboard_time": 1662553349,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237528,
+        "num": 237528,
+        "word": "大S感谢小S",
+        "onboard_time": 1662551668,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235014,
+        "num": 235014,
+        "word": "14年前他被救14年后他救人",
+        "onboard_time": 1662565107,
+        "rank": 16,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 207480,
+        "num": 207480,
+        "word": "雷神4",
+        "onboard_time": 1662560253,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195724,
+        "num": 195724,
+        "word": "0713男团天天向上路透",
+        "onboard_time": 1662568762,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177561,
+        "num": 177561,
+        "word": "事业和爱情你会选哪个",
+        "onboard_time": 1662566845,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 333900,
+        "num": 177287,
+        "word": "王鹤棣冷帽造型饭拍",
+        "onboard_time": 1662566126,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 166670,
+        "num": 166670,
+        "word": "搂腰喝水",
+        "onboard_time": 1662555153,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163305,
+        "num": 163305,
+        "word": "泸定一大桥发现3人生命迹象",
+        "onboard_time": 1662550468,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163268,
+        "num": 163268,
+        "word": "这个弟弟是来报恩的吧",
+        "onboard_time": 1662563193,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161968,
+        "num": 161968,
+        "word": "林志玲和木村拓哉走秀",
+        "onboard_time": 1662544290,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 158129,
+        "num": 158129,
+        "word": "苹果2022秋季发布会同声传译",
+        "onboard_time": 1662569421,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 155472,
+        "num": 155472,
+        "word": "twice登顶美国billboard艺人榜",
+        "onboard_time": 1662556469,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 154605,
+        "num": 154605,
+        "word": "印医生剖腹产时见胎儿不成熟又缝上",
+        "onboard_time": 1662541344,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152159,
+        "num": 152159,
+        "word": "你选周寻还是齐颂",
+        "onboard_time": 1662563313,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140848,
+        "num": 140848,
+        "word": "小鸟吞下比自己脸还大的蝴蝶",
+        "onboard_time": 1662555390,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149327,
+        "num": 133042,
+        "word": "王晓晨新剧刚怀孕就流产",
+        "onboard_time": 1662561571,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142449,
+        "num": 131601,
+        "word": "请把西装焊死在身上",
+        "onboard_time": 1662545728,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122009,
+        "num": 122009,
+        "word": "建议全国普及躺平午休",
+        "onboard_time": 1662552092,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118557,
+        "num": 118557,
+        "word": "女孩全部现金留给卖草鞋患病老人",
+        "onboard_time": 1662559171,
+        "rank": 33,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 109774,
+        "num": 109774,
+        "word": "上海疫情防控",
+        "onboard_time": 1662546689,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108397,
+        "num": 108397,
+        "word": "7岁儿子圈养妈妈买来吃的羊",
+        "onboard_time": 1662552270,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108041,
+        "num": 108041,
+        "word": "罚罪",
+        "onboard_time": 1662558393,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104188,
+        "num": 104188,
+        "word": "郑州不配合烂尾楼复工房企要查税",
+        "onboard_time": 1662554551,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103723,
+        "num": 103723,
+        "word": "二刷沉香重华",
+        "onboard_time": 1662564271,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103720,
+        "num": 103720,
+        "word": "她怎么把月亮穿在身上",
+        "onboard_time": 1662557432,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102743,
+        "num": 102743,
+        "word": "985研究生做10个山村孩子的全科老师",
+        "onboard_time": 1662550707,
+        "rank": 40,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 96693,
+        "num": 96693,
+        "word": "这月饼是我没想到的口味",
+        "onboard_time": 1662561631,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 94914,
+        "num": 94914,
+        "word": "谭维维演的张桂梅",
+        "onboard_time": 1662559114,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 93758,
+        "num": 93758,
+        "word": "从没见过这么难卖的鹅",
+        "onboard_time": 1662558033,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86874,
+        "num": 86874,
+        "word": "贵阳花果园疫情防控",
+        "onboard_time": 1662560731,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82509,
+        "num": 82509,
+        "word": "俄罗斯正在放弃使用美元和英镑",
+        "onboard_time": 1662543807,
+        "rank": 45,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 81126,
+        "num": 81126,
+        "word": "今年养活一只大闸蟹有多难",
+        "onboard_time": 1662557613,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76751,
+        "num": 76751,
+        "word": "丁程鑫在剧组放饭时拿到高考分数",
+        "onboard_time": 1662558274,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 75550,
+        "num": 75550,
+        "word": "大哥微笑接受采访一开口泪崩了",
+        "onboard_time": 1662555090,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73212,
+        "num": 73212,
+        "word": "武汉原副市长袁善腊被开除党籍",
+        "onboard_time": 1662550587,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让共建一带一路成果更好惠及全体人民#"
+    }
+  }
+}
