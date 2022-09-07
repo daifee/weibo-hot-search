@@ -1,6 +1,6 @@
 {
   "startTime": 1662481978498,
-  "endTime": 1662549613346,
+  "endTime": 1662550622457,
   "band_list": [
     {
       "raw_hot": 4035864,
@@ -139,12 +139,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1357476,
+      "num": 1357476,
+      "word": "iPhone14",
+      "onboard_time": 1662549028,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1338443,
       "num": 366288,
       "word": "网友统计近五年最爆艺人",
       "onboard_time": 1662533424,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1311670,
+      "num": 1311670,
+      "word": "李新元受贿1.7亿一审被判死缓",
+      "onboard_time": 1662546808,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1273017,
@@ -176,14 +192,6 @@
       "word": "中科院试验站遇难女研究生家属发声",
       "onboard_time": 1662476671,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1169932,
-      "num": 1169932,
-      "word": "李新元受贿1.7亿一审被判死缓",
-      "onboard_time": 1662546808,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -235,12 +243,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1134406,
+      "num": 292080,
+      "word": "张艺兴ins新图",
+      "onboard_time": 1662549869,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1113762,
       "num": 1113762,
       "word": "女孩脱鞋掉出蟑螂吓得大哭",
       "onboard_time": 1662518605,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1108930,
+      "num": 484857,
+      "word": "请把西装焊死在身上",
+      "onboard_time": 1662545728,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1061929,
@@ -275,14 +299,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 996016,
-      "num": 483657,
-      "word": "请把西装焊死在身上",
-      "onboard_time": 1662545728,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 992289,
       "num": 992289,
       "word": "小红书用户疑盗用女性照片编故事",
@@ -312,6 +328,14 @@
       "word": "虞书欣对张彬彬比心动作是王鹤棣教的吗",
       "onboard_time": 1662539307,
       "rank": 10,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 930158,
+      "num": 930158,
+      "word": "陈晓用一年走出吴振峰",
+      "onboard_time": 1662547529,
+      "rank": 6,
       "category": "影视"
     },
     {
@@ -387,20 +411,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 759331,
+      "num": 759331,
+      "word": "女孩酒驾被查称刚亲了一个喝酒的人",
+      "onboard_time": 1662547708,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 748429,
       "num": 748429,
       "word": "台湾省一阿公为四川泸定捐款",
       "onboard_time": 1662541047,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 733820,
-      "num": 733820,
-      "word": "陈晓用一年走出吴振峰",
-      "onboard_time": 1662547529,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 715519,
@@ -587,8 +611,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 488680,
-      "num": 488680,
+      "raw_hot": 493314,
+      "num": 493314,
       "word": "北京海淀判定校内密接570人",
       "onboard_time": 1662544527,
       "rank": 27,
@@ -627,14 +651,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 449587,
-      "num": 449587,
-      "word": "女孩酒驾被查称刚亲了一个喝酒的人",
-      "onboard_time": 1662547708,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 440455,
       "num": 440455,
       "word": "湖南卫视中秋之夜拍月亮官宣",
@@ -648,6 +664,14 @@
       "word": "董思怡段家宝哭得好真实",
       "onboard_time": 1662534925,
       "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 430593,
+      "num": 430593,
+      "word": "杨紫成毅沉香重华番外吻戏",
+      "onboard_time": 1662549869,
+      "rank": 15,
       "category": "影视"
     },
     {
@@ -1011,6 +1035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 304913,
+      "num": 223301,
+      "word": "沉香重华全员情难断",
+      "onboard_time": 1662550468,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 300912,
       "num": 223847,
       "word": "杨紫沉香重华告别vlog",
@@ -1107,14 +1139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 282873,
-      "num": 282873,
-      "word": "iPhone14",
-      "onboard_time": 1662549028,
-      "rank": 26,
-      "category": "科技"
-    },
-    {
       "raw_hot": 282720,
       "num": 282720,
       "word": "成都疫情防控",
@@ -1187,11 +1211,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 272523,
+      "num": 272523,
+      "word": "男子查古籍找到古墓群后盗墓",
+      "onboard_time": 1662549207,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265489,
       "num": 265489,
       "word": "贵阳贵安疫情防控发布会",
       "onboard_time": 1662540387,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260889,
+      "num": 260889,
+      "word": "上海疫情防控",
+      "onboard_time": 1662546689,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -1267,6 +1307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 247457,
+      "num": 247457,
+      "word": "钓鱼达人3分钟钓1条鳄雀鳝",
+      "onboard_time": 1662548008,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246304,
       "num": 246304,
       "word": "益阳公交总公司回应乘客被踹下车",
@@ -1297,6 +1345,14 @@
       "onboard_time": 1662536307,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 237703,
+      "num": 218006,
+      "word": "狐妖小红娘",
+      "onboard_time": 1662546331,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 237630,
@@ -1379,14 +1435,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 218006,
-      "num": 218006,
-      "word": "狐妖小红娘",
-      "onboard_time": 1662546331,
-      "rank": 47,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 217486,
       "num": 217486,
       "word": "更多00后选择反季节买羽绒服",
@@ -1449,14 +1497,6 @@
       "onboard_time": 1662514225,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 208124,
-      "num": 208124,
-      "word": "上海疫情防控",
-      "onboard_time": 1662546689,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207362,
@@ -1563,6 +1603,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 189714,
+      "num": 189714,
+      "word": "泸定一大桥发现3人生命迹象",
+      "onboard_time": 1662550468,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189404,
       "num": 189404,
       "word": "泸定地震中的猪坚强",
@@ -1585,14 +1633,6 @@
       "onboard_time": 1662514885,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 185492,
-      "num": 185492,
-      "word": "钓鱼达人3分钟钓1条鳄雀鳝",
-      "onboard_time": 1662548008,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 183721,
@@ -1625,6 +1665,14 @@
       "onboard_time": 1662508353,
       "rank": 37,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 174027,
+      "num": 174027,
+      "word": "葛兰离职为不实信息",
+      "onboard_time": 1662548787,
+      "rank": 46,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 173638,
@@ -1723,6 +1771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 156775,
+      "num": 156775,
+      "word": "老年人用手机行为图鉴",
+      "onboard_time": 1662548489,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 156391,
       "num": 156391,
       "word": "哪句话成了你低谷期的救赎",
@@ -1803,14 +1859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 146248,
-      "num": 146248,
-      "word": "老年人用手机行为图鉴",
-      "onboard_time": 1662548489,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 140836,
       "num": 140836,
       "word": "赣州疫情防控",
@@ -1867,12 +1915,12 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 133246,
-      "num": 133246,
-      "word": "男子查古籍找到古墓群后盗墓",
-      "onboard_time": 1662549207,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 133206,
+      "num": 133206,
+      "word": "俄对美元欧元和英镑已丧失信心",
+      "onboard_time": 1662549808,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 132936,
@@ -1881,14 +1929,6 @@
       "onboard_time": 1662473673,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 132728,
-      "num": 132728,
-      "word": "葛兰离职为不实信息",
-      "onboard_time": 1662548787,
-      "rank": 46,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 128151,
@@ -1913,6 +1953,22 @@
       "onboard_time": 1662447688,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 122602,
+      "num": 122602,
+      "word": "武汉原副市长袁善腊被开除党籍",
+      "onboard_time": 1662550587,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121063,
+      "num": 121063,
+      "word": "兵哥哥教你8个高效锻炼动作",
+      "onboard_time": 1662549566,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 117882,
@@ -1977,14 +2033,6 @@
       "onboard_time": 1662473489,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 103613,
-      "num": 103613,
-      "word": "兵哥哥教你8个高效锻炼动作",
-      "onboard_time": 1662549566,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 103112,
@@ -2116,7 +2164,7 @@
     },
     {
       "raw_hot": 5926,
-      "num": 433842,
+      "num": 434123,
       "word": "十二时辰佩刀寻秦记",
       "onboard_time": 1662548429,
       "rank": 14,
