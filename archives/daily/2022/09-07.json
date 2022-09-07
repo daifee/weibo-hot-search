@@ -1,6 +1,6 @@
 {
   "startTime": 1662481978498,
-  "endTime": 1662560966149,
+  "endTime": 1662561879789,
   "band_list": [
     {
       "raw_hot": 4035864,
@@ -57,6 +57,14 @@
       "onboard_time": 1662530303,
       "rank": 9,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 2142705,
+      "num": 2142705,
+      "word": "成都疫情防控",
+      "onboard_time": 1662507684,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2140262,
@@ -152,14 +160,6 @@
       "word": "三亚00后老板中秋扣员工50%工资代尽孝",
       "onboard_time": 1662535586,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1476336,
-      "num": 1476336,
-      "word": "成都疫情防控",
-      "onboard_time": 1662507684,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -539,11 +539,27 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 693690,
+      "num": 693690,
+      "word": "一年级女孩入学不适应找老师抱抱",
+      "onboard_time": 1662556954,
+      "rank": 27,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 672478,
       "num": 672478,
       "word": "沉香重华番外",
       "onboard_time": 1662546090,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 666756,
+      "num": 666756,
+      "word": "雷神4",
+      "onboard_time": 1662560253,
+      "rank": 23,
       "category": "影视"
     },
     {
@@ -553,14 +569,6 @@
       "onboard_time": 1662554551,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 637397,
-      "num": 637397,
-      "word": "一年级女孩入学不适应找老师抱抱",
-      "onboard_time": 1662556954,
-      "rank": 27,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 630201,
@@ -780,7 +788,7 @@
     },
     {
       "raw_hot": 490759,
-      "num": 423649,
+      "num": 424923,
       "word": "丁程鑫在剧组放饭时拿到高考分数",
       "onboard_time": 1662558274,
       "rank": 30,
@@ -851,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 435336,
+      "num": 435336,
+      "word": "她怎么把月亮穿在身上",
+      "onboard_time": 1662557432,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 430694,
       "num": 430694,
       "word": "董思怡段家宝哭得好真实",
@@ -865,14 +881,6 @@
       "onboard_time": 1662549869,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 430552,
-      "num": 430552,
-      "word": "她怎么把月亮穿在身上",
-      "onboard_time": 1662557432,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 425151,
@@ -1067,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 373320,
+      "num": 373320,
+      "word": "舍不得沉香重华",
+      "onboard_time": 1662561332,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 372008,
       "num": 372008,
       "word": "北京新增本土感染者7例",
@@ -1104,14 +1120,6 @@
       "word": "冰雨火杨熠下线",
       "onboard_time": 1662539667,
       "rank": 30,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 368059,
-      "num": 368059,
-      "word": "雷神4",
-      "onboard_time": 1662560253,
-      "rank": 23,
       "category": "影视"
     },
     {
@@ -1235,12 +1243,28 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 326893,
+      "num": 326893,
+      "word": "女孩全部现金留给卖草鞋患病老人",
+      "onboard_time": 1662559171,
+      "rank": 47,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 325641,
       "num": 226895,
       "word": "罚罪",
       "onboard_time": 1662473850,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 324118,
+      "num": 300232,
+      "word": "谭维维演的张桂梅",
+      "onboard_time": 1662559114,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 319102,
@@ -1257,14 +1281,6 @@
       "onboard_time": 1662542188,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 318832,
-      "num": 300232,
-      "word": "谭维维演的张桂梅",
-      "onboard_time": 1662559114,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 318031,
@@ -1315,12 +1331,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 305799,
-      "num": 305799,
+      "raw_hot": 309224,
+      "num": 309224,
       "word": "今年养活一只大闸蟹有多难",
       "onboard_time": 1662557613,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 307150,
+      "num": 269909,
+      "word": "王晓晨新剧刚怀孕就流产",
+      "onboard_time": 1662561571,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 304913,
@@ -1635,14 +1659,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 245112,
-      "num": 245112,
-      "word": "女孩全部现金留给卖草鞋患病老人",
-      "onboard_time": 1662559171,
-      "rank": 47,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 244473,
       "num": 244473,
       "word": "巴西禁售不带充电器iPhone",
@@ -1675,6 +1691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 235559,
+      "num": 235559,
+      "word": "从没见过这么难卖的鹅",
+      "onboard_time": 1662558033,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 229619,
       "num": 229619,
       "word": "安阳新增本土无症状14例",
@@ -1697,14 +1721,6 @@
       "onboard_time": 1662560731,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 227872,
-      "num": 227872,
-      "word": "从没见过这么难卖的鹅",
-      "onboard_time": 1662558033,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 227091,
@@ -2075,6 +2091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167502,
+      "num": 167502,
+      "word": "这月饼是我没想到的口味",
+      "onboard_time": 1662561631,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 162425,
       "num": 162425,
       "word": "距考研开考还有109天",
@@ -2211,10 +2235,26 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145657,
+      "num": 145657,
+      "word": "醉酒男子在电梯里殴打女邻居",
+      "onboard_time": 1662561691,
+      "rank": 48,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 140836,
       "num": 140836,
       "word": "赣州疫情防控",
       "onboard_time": 1662536607,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137933,
+      "num": 137933,
+      "word": "恩施疫情防控",
+      "onboard_time": 1662561870,
       "rank": 49,
       "category": "社会新闻"
     },
@@ -2467,7 +2507,7 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 27298,
+      "raw_hot": 35283,
       "num": 553195,
       "word": "震区群众向救援人员竖起大拇指",
       "onboard_time": 1662559290,

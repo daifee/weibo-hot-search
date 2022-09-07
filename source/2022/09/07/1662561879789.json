@@ -1,0 +1,410 @@
+{
+  "runTime": 1662561879789,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2142705,
+        "num": 2142705,
+        "word": "成都疫情防控",
+        "onboard_time": 1662559715,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 848735,
+        "num": 848735,
+        "word": "印医生剖腹产时见胎儿不成熟又缝上",
+        "onboard_time": 1662541344,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57331,
+        "num": 791063,
+        "word": "他们全力以赴只为泸定早日安定",
+        "onboard_time": 1662539846,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1162816,
+        "num": 782592,
+        "word": "爱马仕被阿姨压坏",
+        "onboard_time": 1662554012,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 961955,
+        "num": 764761,
+        "word": "杭州一男子地铁内跪地学狗叫",
+        "onboard_time": 1662553653,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 745140,
+        "num": 745140,
+        "word": "大S感谢小S",
+        "onboard_time": 1662551668,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 693690,
+        "num": 693690,
+        "word": "一年级女孩入学不适应找老师抱抱",
+        "onboard_time": 1662556954,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 666756,
+        "num": 666756,
+        "word": "雷神4",
+        "onboard_time": 1662560253,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 560675,
+        "num": 560675,
+        "word": "贵阳筛查到301例阳性感染者",
+        "onboard_time": 1662540268,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551799,
+        "num": 551799,
+        "word": "泸定一大桥发现3人生命迹象",
+        "onboard_time": 1662550468,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2218677,
+        "num": 515535,
+        "word": "iPhone14",
+        "onboard_time": 1662549028,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1280564,
+        "num": 508457,
+        "word": "搂腰喝水",
+        "onboard_time": 1662555153,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 698675,
+        "num": 496871,
+        "word": "请把西装焊死在身上",
+        "onboard_time": 1662545728,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 475472,
+        "num": 475472,
+        "word": "twice登顶美国billboard艺人榜",
+        "onboard_time": 1662556469,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 35283,
+        "num": 469234,
+        "word": "震区群众向救援人员竖起大拇指",
+        "onboard_time": 1662559290,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467237,
+        "num": 467237,
+        "word": "林志玲和木村拓哉走秀",
+        "onboard_time": 1662544290,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 443545,
+        "num": 443545,
+        "word": "郑州不配合烂尾楼复工房企要查税",
+        "onboard_time": 1662554551,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439148,
+        "num": 439148,
+        "word": "小鸟吞下比自己脸还大的蝴蝶",
+        "onboard_time": 1662555390,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435336,
+        "num": 435336,
+        "word": "她怎么把月亮穿在身上",
+        "onboard_time": 1662557432,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 424923,
+        "num": 424923,
+        "word": "丁程鑫在剧组放饭时拿到高考分数",
+        "onboard_time": 1662558274,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 373320,
+        "num": 373320,
+        "word": "舍不得沉香重华",
+        "onboard_time": 1662561332,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 358910,
+        "num": 358910,
+        "word": "蓝羽贺峻霖暴雨摸黑对台本",
+        "onboard_time": 1662557790,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 358396,
+        "num": 358396,
+        "word": "7岁儿子圈养妈妈买来吃的羊",
+        "onboard_time": 1662552270,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347910,
+        "num": 347910,
+        "word": "广州地铁",
+        "onboard_time": 1662553349,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326893,
+        "num": 326893,
+        "word": "女孩全部现金留给卖草鞋患病老人",
+        "onboard_time": 1662559171,
+        "rank": 24,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 325507,
+        "num": 325507,
+        "word": "周寻姜小果好久不见",
+        "onboard_time": 1662542906,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309224,
+        "num": 309224,
+        "word": "今年养活一只大闸蟹有多难",
+        "onboard_time": 1662557613,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308658,
+        "num": 308658,
+        "word": "苹果新品",
+        "onboard_time": 1662552811,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 307999,
+        "num": 307999,
+        "word": "静待烟火成都早日归来",
+        "onboard_time": 1662558632,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288204,
+        "num": 288204,
+        "word": "女孩酒驾被查称刚亲了一个喝酒的人",
+        "onboard_time": 1662547708,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324118,
+        "num": 283799,
+        "word": "谭维维演的张桂梅",
+        "onboard_time": 1662559114,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 308190,
+        "num": 273158,
+        "word": "非正式会檀",
+        "onboard_time": 1662557853,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307150,
+        "num": 269909,
+        "word": "王晓晨新剧刚怀孕就流产",
+        "onboard_time": 1662561571,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 300190,
+        "num": 254255,
+        "word": "杨紫沉香重华红衣战损妆",
+        "onboard_time": 1662559290,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252979,
+        "num": 252979,
+        "word": "985研究生做10个山村孩子的全科老师",
+        "onboard_time": 1662550707,
+        "rank": 34,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 265490,
+        "num": 252624,
+        "word": "王一博周冬雨央视秋晚幕后故事",
+        "onboard_time": 1662554551,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251864,
+        "num": 251864,
+        "word": "大哥微笑接受采访一开口泪崩了",
+        "onboard_time": 1662555090,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245515,
+        "num": 245515,
+        "word": "建议全国普及躺平午休",
+        "onboard_time": 1662552092,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235559,
+        "num": 235559,
+        "word": "从没见过这么难卖的鹅",
+        "onboard_time": 1662558033,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 231303,
+        "num": 231303,
+        "word": "武汉原副市长袁善腊被开除党籍",
+        "onboard_time": 1662550587,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239007,
+        "num": 224291,
+        "word": "王鹤棣东方青苍收官战报",
+        "onboard_time": 1662552632,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202805,
+        "num": 202805,
+        "word": "上海疫情防控",
+        "onboard_time": 1662546689,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199912,
+        "num": 199912,
+        "word": "俄罗斯正在放弃使用美元和英镑",
+        "onboard_time": 1662543807,
+        "rank": 42,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 188130,
+        "num": 188130,
+        "word": "男子查古籍找到古墓群后盗墓",
+        "onboard_time": 1662549207,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187295,
+        "num": 187295,
+        "word": "北京新增一起中学聚集性疫情",
+        "onboard_time": 1662541708,
+        "rank": 44,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 169859,
+        "num": 169859,
+        "word": "贵阳花果园疫情防控",
+        "onboard_time": 1662560731,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167502,
+        "num": 167502,
+        "word": "这月饼是我没想到的口味",
+        "onboard_time": 1662561631,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 148156,
+        "num": 148156,
+        "word": "饿了么崩了",
+        "onboard_time": 1662557010,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 145657,
+        "num": 145657,
+        "word": "醉酒男子在电梯里殴打女邻居",
+        "onboard_time": 1662561691,
+        "rank": 48,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 137933,
+        "num": 137933,
+        "word": "恩施疫情防控",
+        "onboard_time": 1662561870,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#打卡中国#"
+    }
+  }
+}
