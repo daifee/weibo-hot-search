@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662593302480,
+  "endTime": 1662594244686,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -163,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2774665,
+      "num": 404678,
+      "word": "iPhone14价格",
+      "onboard_time": 1662592343,
+      "rank": 20,
+      "category": "科技"
+    },
+    {
       "raw_hot": 2760284,
       "num": 2760284,
       "word": "苍兰诀 番外",
@@ -177,6 +185,14 @@
       "onboard_time": 1662437669,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2732824,
+      "num": 425779,
+      "word": "iPhone14pro",
+      "onboard_time": 1662592161,
+      "rank": 6,
+      "category": "科技"
     },
     {
       "raw_hot": 2669957,
@@ -523,14 +539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1472165,
-      "num": 202937,
-      "word": "iPhone14价格",
-      "onboard_time": 1662592343,
-      "rank": 20,
-      "category": "科技"
-    },
-    {
       "raw_hot": 1438442,
       "num": 333091,
       "word": "丁程鑫同大学室友草原自驾游",
@@ -561,6 +569,14 @@
       "onboard_time": 1662536188,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1411935,
+      "num": 298357,
+      "word": "iPhone14Pro灵动岛",
+      "onboard_time": 1662592343,
+      "rank": 10,
+      "category": "科技"
     },
     {
       "raw_hot": 1404170,
@@ -745,14 +761,6 @@
       "onboard_time": 1662458731,
       "rank": 14,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 1195867,
-      "num": 425779,
-      "word": "iPhone14pro",
-      "onboard_time": 1662592161,
-      "rank": 6,
-      "category": "科技"
     },
     {
       "raw_hot": 1185369,
@@ -1227,6 +1235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 936870,
+      "num": 1458283,
+      "word": "上海五年级小学生指出数学教材错误",
+      "onboard_time": 1662588553,
+      "rank": 41,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 934698,
       "num": 934698,
       "word": "虞书欣对张彬彬比心动作是王鹤棣教的吗",
@@ -1289,14 +1305,6 @@
       "onboard_time": 1662475772,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 910269,
-      "num": 910269,
-      "word": "上海五年级小学生指出数学教材错误",
-      "onboard_time": 1662588553,
-      "rank": 41,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 902699,
@@ -1561,6 +1569,14 @@
       "onboard_time": 1662541047,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 743476,
+      "num": 234183,
+      "word": "iPhone14Pro灭霸紫",
+      "onboard_time": 1662592402,
+      "rank": 23,
+      "category": "科技"
     },
     {
       "raw_hot": 741626,
@@ -1947,14 +1963,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 622644,
-      "num": 290561,
-      "word": "iPhone14Pro灵动岛",
-      "onboard_time": 1662592343,
-      "rank": 10,
-      "category": "科技"
-    },
-    {
       "raw_hot": 620440,
       "num": 620440,
       "word": "专家称四川6.8级地震与干旱无关",
@@ -2051,20 +2059,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 592620,
+      "num": 592620,
+      "word": "为什么要少玩手机多看书",
+      "onboard_time": 1662567385,
+      "rank": 22,
+      "category": "科技,情感"
+    },
+    {
       "raw_hot": 591067,
       "num": 591067,
       "word": "网传杨紫主演电影照明商店",
       "onboard_time": 1662442646,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 586851,
-      "num": 586851,
-      "word": "为什么要少玩手机多看书",
-      "onboard_time": 1662567385,
-      "rank": 22,
-      "category": "科技,情感"
     },
     {
       "raw_hot": 582494,
@@ -3291,14 +3299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 357364,
-      "num": 181339,
-      "word": "iPhone14Pro灭霸紫",
-      "onboard_time": 1662592402,
-      "rank": 23,
-      "category": "科技"
-    },
-    {
       "raw_hot": 355754,
       "num": 355754,
       "word": "王一博冰雨火制服剧照",
@@ -3899,6 +3899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 298633,
+      "num": 298633,
+      "word": "你选周寻还是齐颂",
+      "onboard_time": 1662563313,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 297825,
       "num": 297825,
       "word": "民警用无人机发现两名震区幸存者",
@@ -3937,6 +3945,14 @@
       "onboard_time": 1662348025,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 296237,
+      "num": 192653,
+      "word": "a16",
+      "onboard_time": 1662592222,
+      "rank": 26,
+      "category": "科技"
     },
     {
       "raw_hot": 295872,
@@ -4475,6 +4491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 266208,
+      "num": 266208,
+      "word": "原来这种情况不属于驼背",
+      "onboard_time": 1662592040,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 265503,
       "num": 265503,
       "word": "覆流年里女主的爹是萧剑",
@@ -4713,14 +4737,6 @@
       "onboard_time": 1662389376,
       "rank": 32,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 249147,
-      "num": 245808,
-      "word": "你选周寻还是齐颂",
-      "onboard_time": 1662563313,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 248980,
@@ -5011,14 +5027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 229409,
-      "num": 150849,
-      "word": "a16",
-      "onboard_time": 1662592222,
-      "rank": 26,
-      "category": "科技"
-    },
-    {
       "raw_hot": 229146,
       "num": 229146,
       "word": "深圳新增",
@@ -5097,6 +5105,14 @@
       "onboard_time": 1662289107,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225671,
+      "num": 82985,
+      "word": "iPhone14值不值得买",
+      "onboard_time": 1662593304,
+      "rank": 47,
+      "category": "科技"
     },
     {
       "raw_hot": 225425,
@@ -5185,6 +5201,14 @@
       "onboard_time": 1662494830,
       "rank": 49,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 219032,
+      "num": 219032,
+      "word": "杭州一小学推出午睡帐篷",
+      "onboard_time": 1662578233,
+      "rank": 48,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 218734,
@@ -5371,14 +5395,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 207667,
-      "num": 207667,
-      "word": "杭州一小学推出午睡帐篷",
-      "onboard_time": 1662578233,
-      "rank": 48,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 205109,
       "num": 205109,
       "word": "男子骑摩托被女友开车撞翻",
@@ -5521,6 +5537,14 @@
       "onboard_time": 1662442467,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 197133,
+      "num": 180703,
+      "word": "iPhone14配置",
+      "onboard_time": 1662593966,
+      "rank": 27,
+      "category": "科技"
     },
     {
       "raw_hot": 197059,
@@ -6163,6 +6187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155801,
+      "num": 155801,
+      "word": "大学生算是把美妆玩明白了",
+      "onboard_time": 1662592040,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 155687,
       "num": 155687,
       "word": "陈楚生放映室",
@@ -6339,12 +6371,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 145175,
-      "num": 145175,
-      "word": "原来这种情况不属于驼背",
-      "onboard_time": 1662592040,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 144053,
+      "num": 144053,
+      "word": "覆流年豆瓣6.6",
+      "onboard_time": 1662570560,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 143456,
@@ -6456,14 +6488,6 @@
       "word": "我们为什么需要狼群精神",
       "onboard_time": 1662345386,
       "rank": 43,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 138552,
-      "num": 138552,
-      "word": "覆流年豆瓣6.6",
-      "onboard_time": 1662570560,
-      "rank": 16,
       "category": "影视"
     },
     {
@@ -6587,6 +6611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129956,
+      "num": 129956,
+      "word": "那不勒斯4比1利物浦",
+      "onboard_time": 1662593425,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129463,
       "num": 129463,
       "word": "平板支撑的正确动作示范",
@@ -6633,6 +6665,14 @@
       "onboard_time": 1662383370,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126413,
+      "num": 126413,
+      "word": "美版iPhone14没有SIM卡槽",
+      "onboard_time": 1662593724,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 125176,
@@ -6707,6 +6747,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 113913,
+      "num": 113913,
+      "word": "东契奇欧洲杯47分7篮板",
+      "onboard_time": 1662593544,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 113845,
+      "num": 113845,
+      "word": "焦俊艳说新时代女性都是春笋姑娘",
+      "onboard_time": 1662573495,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 113796,
       "num": 113796,
       "word": "RNG战胜LNG",
@@ -6745,14 +6801,6 @@
       "onboard_time": 1662539846,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 106721,
-      "num": 106721,
-      "word": "焦俊艳说新时代女性都是春笋姑娘",
-      "onboard_time": 1662573495,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 105462,
@@ -6809,14 +6857,6 @@
       "onboard_time": 1662507564,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 91403,
-      "num": 91403,
-      "word": "大学生算是把美妆玩明白了",
-      "onboard_time": 1662592040,
-      "rank": 46,
-      "category": "美妆"
     },
     {
       "raw_hot": 91160,
@@ -6880,6 +6920,14 @@
       "word": "深圳采取分级分类管控措施",
       "onboard_time": 1662334042,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78407,
+      "num": 78407,
+      "word": "两位奶奶直升机上紧握消防员的手",
+      "onboard_time": 1662593966,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
