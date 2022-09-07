@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662550622457,
+  "endTime": 1662554944156,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -585,6 +585,14 @@
       "onboard_time": 1662018507,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2007851,
+      "num": 1357476,
+      "word": "iPhone14",
+      "onboard_time": 1662549028,
+      "rank": 26,
+      "category": "科技"
     },
     {
       "raw_hot": 1980728,
@@ -1212,7 +1220,7 @@
     },
     {
       "raw_hot": 1438442,
-      "num": 323398,
+      "num": 333091,
       "word": "丁程鑫同大学室友草原自驾游",
       "onboard_time": 1662548729,
       "rank": 20,
@@ -1355,14 +1363,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1357476,
-      "num": 1357476,
-      "word": "iPhone14",
-      "onboard_time": 1662549028,
-      "rank": 26,
-      "category": "科技"
-    },
-    {
       "raw_hot": 1355953,
       "num": 1355953,
       "word": "女生宿舍辣酱爆炸似案发现场",
@@ -1377,6 +1377,14 @@
       "onboard_time": 1662289643,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1352453,
+      "num": 953483,
+      "word": "大S感谢小S",
+      "onboard_time": 1662551668,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1347179,
@@ -1843,6 +1851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1137786,
+      "num": 1137786,
+      "word": "泸定一大桥发现3人生命迹象",
+      "onboard_time": 1662550468,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1134406,
       "num": 292080,
       "word": "张艺兴ins新图",
@@ -1948,7 +1964,7 @@
     },
     {
       "raw_hot": 1108930,
-      "num": 484857,
+      "num": 498094,
       "word": "请把西装焊死在身上",
       "onboard_time": 1662545728,
       "rank": 30,
@@ -2681,6 +2697,14 @@
       "onboard_time": 1662041190,
       "rank": 24,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 922872,
+      "num": 922872,
+      "word": "985研究生做10个山村孩子的全科老师",
+      "onboard_time": 1662550707,
+      "rank": 6,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 922766,
@@ -4843,6 +4867,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 536527,
+      "num": 493228,
+      "word": "张艺兴新图",
+      "onboard_time": 1662549869,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 536353,
       "num": 328471,
       "word": "朱正廷说不想给自己设限",
@@ -5129,6 +5161,14 @@
       "onboard_time": 1662379291,
       "rank": 13,
       "category": "体育,财经"
+    },
+    {
+      "raw_hot": 500413,
+      "num": 500413,
+      "word": "武汉原副市长袁善腊被开除党籍",
+      "onboard_time": 1662550587,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 499749,
@@ -5419,6 +5459,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 478146,
+      "num": 478146,
+      "word": "7岁儿子圈养妈妈买来吃的羊",
+      "onboard_time": 1662552270,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 478080,
       "num": 478080,
       "word": "重庆公积金最高可贷120万元",
@@ -5521,6 +5569,14 @@
       "onboard_time": 1662130352,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 469164,
+      "num": 469164,
+      "word": "广州地铁",
+      "onboard_time": 1662285749,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 468831,
@@ -5640,6 +5696,14 @@
       "word": "姐姐这是可以说的吗",
       "onboard_time": 1662007472,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 458141,
+      "num": 350583,
+      "word": "王一博周冬雨央视秋晚幕后故事",
+      "onboard_time": 1662554551,
+      "rank": 20,
       "category": "综艺"
     },
     {
@@ -5865,6 +5929,14 @@
       "onboard_time": 1662103946,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 441520,
+      "num": 441520,
+      "word": "男子查古籍找到古墓群后盗墓",
+      "onboard_time": 1662549207,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 441248,
@@ -6379,14 +6451,6 @@
       "category": "其它"
     },
     {
-      "raw_hot": 407661,
-      "num": 407661,
-      "word": "广州地铁",
-      "onboard_time": 1662285749,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 407272,
       "num": 407272,
       "word": "槐店王婆大虾回收剩菜再上餐桌",
@@ -6675,6 +6739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 390088,
+      "num": 390088,
+      "word": "苹果新品",
+      "onboard_time": 1662552811,
+      "rank": 18,
+      "category": "科技"
+    },
+    {
       "raw_hot": 389978,
       "num": 389978,
       "word": "甜美的咬痕动画开播",
@@ -6689,6 +6761,14 @@
       "onboard_time": 1662119187,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 389473,
+      "num": 306342,
+      "word": "王鹤棣东方青苍收官战报",
+      "onboard_time": 1662552632,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 388988,
@@ -7512,6 +7592,14 @@
       "word": "北京丰台新增1例感染者轨迹",
       "onboard_time": 1662390395,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351326,
+      "num": 351326,
+      "word": "建议全国普及躺平午休",
+      "onboard_time": 1662552092,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -8475,6 +8563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 309934,
+      "num": 309934,
+      "word": "杭州地铁",
+      "onboard_time": 1662551488,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 309556,
       "num": 309556,
       "word": "时代少年团夏令营预告08",
@@ -9379,6 +9475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 281487,
+      "num": 281487,
+      "word": "爱马仕被阿姨压坏",
+      "onboard_time": 1662554012,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 281462,
       "num": 281462,
       "word": "台风",
@@ -9481,6 +9585,14 @@
       "onboard_time": 1662282749,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 279965,
+      "num": 279965,
+      "word": "杭州一男子地铁内跪地学狗叫",
+      "onboard_time": 1662553653,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 279384,
@@ -9720,14 +9832,6 @@
       "word": "白发老人穿衬衫西裤削土豆火了",
       "onboard_time": 1662132330,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 272523,
-      "num": 272523,
-      "word": "男子查古籍找到古墓群后盗墓",
-      "onboard_time": 1662549207,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -10103,6 +10207,14 @@
       "num": 241426,
       "word": "你看懂沉香重华结局了吗",
       "onboard_time": 1662198027,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 262674,
+      "num": 229855,
+      "word": "杨紫发文告别颜淡",
+      "onboard_time": 1662554070,
       "rank": 30,
       "category": "影视"
     },
@@ -10635,6 +10747,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 243956,
+      "num": 228418,
+      "word": "成毅沉香重华红衣收官剧照",
+      "onboard_time": 1662554432,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 243884,
       "num": 243884,
       "word": "9月4日新增确诊349例",
@@ -10657,6 +10777,14 @@
       "onboard_time": 1662388839,
       "rank": 26,
       "category": "教育,情感"
+    },
+    {
+      "raw_hot": 243561,
+      "num": 227290,
+      "word": "直男吃醋有多不自然",
+      "onboard_time": 1662553349,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 242994,
@@ -11161,6 +11289,14 @@
       "onboard_time": 1662171205,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 224837,
+      "num": 224837,
+      "word": "立体月亮兔折纸教程",
+      "onboard_time": 1662554733,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 224713,
@@ -12315,14 +12451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 189714,
-      "num": 189714,
-      "word": "泸定一大桥发现3人生命迹象",
-      "onboard_time": 1662550468,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 189555,
       "num": 189555,
       "word": "西南联大百岁大师集体送开学寄语",
@@ -12689,6 +12817,14 @@
       "onboard_time": 1662219568,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 179559,
+      "num": 179559,
+      "word": "毕业后悟出的生活真相",
+      "onboard_time": 1662551968,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 179175,
@@ -14299,14 +14435,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 122602,
-      "num": 122602,
-      "word": "武汉原副市长袁善腊被开除党籍",
-      "onboard_time": 1662550587,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121129,
       "num": 121129,
       "word": "驰援重庆推迟结婚的云南消防员领证了",
@@ -14345,6 +14473,14 @@
       "onboard_time": 1662034889,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 118418,
+      "num": 118418,
+      "word": "郑州不配合烂尾楼复工房企要查税",
+      "onboard_time": 1662554551,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117829,
