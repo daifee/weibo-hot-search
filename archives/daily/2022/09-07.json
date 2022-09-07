@@ -1,6 +1,6 @@
 {
   "startTime": 1662481978498,
-  "endTime": 1662520726548,
+  "endTime": 1662526773401,
   "band_list": [
     {
       "raw_hot": 3253736,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1161915,
+      "num": 578159,
+      "word": "母亲抱住儿子阻止好友婚闹泼酱醋",
+      "onboard_time": 1662522689,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1157817,
       "num": 1157817,
       "word": "公交女司机从腰肌劳损到练出马甲线",
@@ -57,6 +65,22 @@
       "onboard_time": 1662514528,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1113762,
+      "num": 1113762,
+      "word": "女孩脱鞋掉出蟑螂吓得大哭",
+      "onboard_time": 1662518605,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1061929,
+      "num": 318385,
+      "word": "中国采购俄天然气将改用人民币和卢布支付",
+      "onboard_time": 1662521005,
+      "rank": 20,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1031823,
@@ -75,12 +99,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1010107,
+      "num": 1010107,
+      "word": "张译王俊凯殷桃新片带同胞回家",
+      "onboard_time": 1662518363,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 987199,
+      "num": 987199,
+      "word": "五仁月饼再成广东人最爱口味",
+      "onboard_time": 1662520768,
+      "rank": 4,
+      "category": "美食"
+    },
+    {
       "raw_hot": 958792,
       "num": 958792,
       "word": "原来大学才是努力的开始",
       "onboard_time": 1662481825,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 928366,
+      "num": 928366,
+      "word": "周杰伦最伟大的作品豆瓣7.0分",
+      "onboard_time": 1662525810,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 922019,
@@ -97,14 +145,6 @@
       "onboard_time": 1662506422,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 812809,
-      "num": 812809,
-      "word": "女孩脱鞋掉出蟑螂吓得大哭",
-      "onboard_time": 1662518605,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 762433,
@@ -131,6 +171,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 686025,
+      "num": 686025,
+      "word": "于文文王紫璇我也曾是你",
+      "onboard_time": 1662525509,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 623156,
+      "num": 623156,
+      "word": "离岸人民币对美元汇率跌破6.99元",
+      "onboard_time": 1662524667,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 620440,
       "num": 620440,
       "word": "专家称四川6.8级地震与干旱无关",
@@ -153,6 +209,14 @@
       "onboard_time": 1662475772,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 608212,
+      "num": 608212,
+      "word": "姆巴佩想取代梅西C罗成世界足球先生",
+      "onboard_time": 1662521426,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 603161,
@@ -227,12 +291,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 433617,
-      "num": 433617,
-      "word": "张译王俊凯殷桃新片带同胞回家",
-      "onboard_time": 1662518363,
+      "raw_hot": 453480,
+      "num": 453480,
+      "word": "宛平南路600号月饼被炒至599元",
+      "onboard_time": 1662521426,
       "rank": 12,
-      "category": "影视"
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 452419,
+      "num": 452419,
+      "word": "猫咪在夸奖中逐渐迷失自我",
+      "onboard_time": 1662523466,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 425151,
@@ -307,6 +379,30 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 359196,
+      "num": 359196,
+      "word": "湖南卫视中秋之夜拍月亮官宣",
+      "onboard_time": 1662526110,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 357473,
+      "num": 357473,
+      "word": "美国典当行老板称收到很多死亡威胁",
+      "onboard_time": 1662519147,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355514,
+      "num": 355514,
+      "word": "2022暑期档连续剧有效播放榜",
+      "onboard_time": 1662523588,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 350116,
       "num": 350116,
       "word": "北京新增社会面病例现住民大附中",
@@ -323,12 +419,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 346905,
+      "num": 346905,
+      "word": "流心奶黄月饼增速是五仁月饼7倍",
+      "onboard_time": 1662525448,
+      "rank": 18,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 346005,
       "num": 346005,
       "word": "手机可以开通地震预警",
       "onboard_time": 1662478950,
       "rank": 36,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 318387,
+      "num": 318387,
+      "word": "头像能影响第一印象吗",
+      "onboard_time": 1662525331,
+      "rank": 19,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 315793,
@@ -347,11 +459,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 302878,
-      "num": 302878,
-      "word": "美国典当行老板称收到很多死亡威胁",
-      "onboard_time": 1662519147,
-      "rank": 16,
+      "raw_hot": 301545,
+      "num": 301545,
+      "word": "3岁萌娃刚进幼儿园就直奔午休室",
+      "onboard_time": 1662524729,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -361,6 +473,14 @@
       "onboard_time": 1662462630,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 290908,
+      "num": 290908,
+      "word": "20岁小伙网恋2年不知女友是男的",
+      "onboard_time": 1662525269,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 290163,
@@ -385,6 +505,14 @@
       "onboard_time": 1662516266,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281924,
+      "num": 281924,
+      "word": "白鹿讲白露",
+      "onboard_time": 1662520586,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 278360,
@@ -427,6 +555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 257591,
+      "num": 257591,
+      "word": "王嘉尔直播",
+      "onboard_time": 1662524189,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 257304,
       "num": 257304,
       "word": "山东新增本土确诊12例无症状80例",
@@ -451,12 +587,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 245248,
+      "num": 245248,
+      "word": "鞠婧祎清唱无与伦比的美丽",
+      "onboard_time": 1662522387,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 244473,
       "num": 244473,
       "word": "巴西禁售不带充电器iPhone",
       "onboard_time": 1662507444,
       "rank": 39,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 226905,
+      "num": 226905,
+      "word": "青岛新增本土确诊12例无症状26例",
+      "onboard_time": 1662519448,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225321,
@@ -547,14 +699,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 205915,
-      "num": 205915,
-      "word": "白鹿讲白露",
-      "onboard_time": 1662520586,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 203793,
       "num": 203793,
       "word": "方便面一定要试试这样吃",
@@ -563,12 +707,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 202223,
+      "num": 202223,
+      "word": "谢谢你汶川哥哥",
+      "onboard_time": 1662526707,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201017,
       "num": 201017,
       "word": "胡说八道真的会上瘾",
       "onboard_time": 1662510328,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 200798,
+      "num": 200798,
+      "word": "张艺兴助阵说唱巅峰总决赛",
+      "onboard_time": 1662522927,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 200373,
@@ -585,6 +745,22 @@
       "onboard_time": 1662467189,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 196086,
+      "num": 196086,
+      "word": "陕西8校合体送限量校徽月饼",
+      "onboard_time": 1662523888,
+      "rank": 41,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 192912,
+      "num": 192912,
+      "word": "雅安石棉县发生4.5级地震",
+      "onboard_time": 1662519567,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192573,
@@ -635,14 +811,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 172088,
-      "num": 172088,
-      "word": "雅安石棉县发生4.5级地震",
-      "onboard_time": 1662519567,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 170003,
       "num": 170003,
       "word": "为什么形容露水是白的",
@@ -681,14 +849,6 @@
       "onboard_time": 1662475530,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 157395,
-      "num": 157395,
-      "word": "青岛新增本土确诊12例无症状26例",
-      "onboard_time": 1662519448,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156391,
@@ -753,6 +913,14 @@
       "onboard_time": 1662514647,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148244,
+      "num": 148244,
+      "word": "槐店王婆大虾回收剩菜再上餐桌",
+      "onboard_time": 1662526407,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136184,
