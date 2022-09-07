@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662585681134,
+  "endTime": 1662586759853,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -15611,20 +15611,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 40378,
+      "num": 40378,
+      "word": "杭州一小学推出午睡帐篷",
+      "onboard_time": 1662578233,
+      "rank": 48,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 40145,
       "num": 1375065,
       "word": "爱国主义是我们民族精神的核心",
       "onboard_time": 1662207089,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 38523,
-      "num": 38523,
-      "word": "杭州一小学推出午睡帐篷",
-      "onboard_time": 1662578233,
-      "rank": 48,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 36686,
@@ -15747,8 +15747,8 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 16902,
-      "num": 16902,
+      "raw_hot": 17312,
+      "num": 17312,
       "word": "感觉这杯子会飞走",
       "onboard_time": 1662584410,
       "rank": 36,
@@ -15787,27 +15787,35 @@
       "category": "情感"
     },
     {
-      "raw_hot": 9963,
-      "num": 555796,
-      "word": "原来1500年前就有交响乐",
-      "onboard_time": 1662123628,
-      "rank": 14,
+      "raw_hot": 10815,
+      "num": 10815,
+      "word": "对话怀抱泸定婴儿的汶川消防员",
+      "onboard_time": 1662585431,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 8241,
-      "num": 8241,
+      "raw_hot": 10699,
+      "num": 10699,
       "word": "研究揭示破碎的心如何复原",
       "onboard_time": 1662585491,
       "rank": 48,
       "category": "科技"
     },
     {
-      "raw_hot": 7877,
-      "num": 7877,
-      "word": "对话怀抱泸定婴儿的汶川消防员",
-      "onboard_time": 1662585431,
+      "raw_hot": 10658,
+      "num": 10658,
+      "word": "周柯宇直拍Fly落水",
+      "onboard_time": 1662585851,
       "rank": 49,
+      "category": "游戏,综艺"
+    },
+    {
+      "raw_hot": 9963,
+      "num": 555796,
+      "word": "原来1500年前就有交响乐",
+      "onboard_time": 1662123628,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
