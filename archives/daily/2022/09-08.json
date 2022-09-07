@@ -1,6 +1,6 @@
 {
   "startTime": 1662568440215,
-  "endTime": 1662586759853,
+  "endTime": 1662589349082,
   "band_list": [
     {
       "raw_hot": 2294898,
@@ -443,6 +443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 87897,
+      "num": 87897,
+      "word": "杭州一小学推出午睡帐篷",
+      "onboard_time": 1662578233,
+      "rank": 48,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 74116,
       "num": 74116,
       "word": "贵阳将从7方面完善物资配送",
@@ -467,16 +475,32 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 40378,
-      "num": 40378,
-      "word": "杭州一小学推出午睡帐篷",
-      "onboard_time": 1662578233,
+      "raw_hot": 28863,
+      "num": 28863,
+      "word": "研究揭示破碎的心如何复原",
+      "onboard_time": 1662585491,
       "rank": 48,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 28174,
+      "num": 28174,
+      "word": "上海五年级小学生指出数学教材错误",
+      "onboard_time": 1662588553,
+      "rank": 41,
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 17312,
-      "num": 17312,
+      "raw_hot": 23907,
+      "num": 23907,
+      "word": "对话怀抱泸定婴儿的汶川消防员",
+      "onboard_time": 1662585431,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22281,
+      "num": 22281,
       "word": "感觉这杯子会飞走",
       "onboard_time": 1662584410,
       "rank": 36,
@@ -489,22 +513,6 @@
       "onboard_time": 1662539846,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 10815,
-      "num": 10815,
-      "word": "对话怀抱泸定婴儿的汶川消防员",
-      "onboard_time": 1662585431,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10699,
-      "num": 10699,
-      "word": "研究揭示破碎的心如何复原",
-      "onboard_time": 1662585491,
-      "rank": 48,
-      "category": "科技"
     },
     {
       "raw_hot": 10658,
