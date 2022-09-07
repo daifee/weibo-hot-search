@@ -1,6 +1,6 @@
 {
   "startTime": 1662481978498,
-  "endTime": 1662527699734,
+  "endTime": 1662531582839,
   "band_list": [
     {
       "raw_hot": 3253736,
@@ -9,6 +9,22 @@
       "onboard_time": 1662508353,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1962060,
+      "num": 1962060,
+      "word": "李小冉说庆余年2剧本还没出来",
+      "onboard_time": 1662529405,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1718627,
+      "num": 1718627,
+      "word": "吉村真晴出轨",
+      "onboard_time": 1662530246,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1704496,
@@ -25,6 +41,14 @@
       "onboard_time": 1662514827,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1185369,
+      "num": 1185369,
+      "word": "苹果将捐款支持四川救援和重建",
+      "onboard_time": 1662527187,
+      "rank": 31,
+      "category": "科技"
     },
     {
       "raw_hot": 1171145,
@@ -81,6 +105,14 @@
       "onboard_time": 1662518605,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1112549,
+      "num": 1112549,
+      "word": "张翰东八区的先生们开分2.4",
+      "onboard_time": 1662529405,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 1061929,
@@ -195,6 +227,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 700072,
+      "num": 700072,
+      "word": "大妈带泡泡杆乘车被踹下车",
+      "onboard_time": 1662527306,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 630201,
+      "num": 535165,
+      "word": "冰雨火唯一的吻戏来了",
+      "onboard_time": 1662530424,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 620440,
       "num": 620440,
       "word": "专家称四川6.8级地震与干旱无关",
@@ -259,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 560084,
+      "num": 560084,
+      "word": "教育局回应家长拒绝送礼被逼退群",
+      "onboard_time": 1662530303,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 549755,
       "num": 549755,
       "word": "黑龙江增179例本土无症状",
@@ -273,6 +329,14 @@
       "onboard_time": 1662471991,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 514198,
+      "num": 316853,
+      "word": "张凌赫演我上班",
+      "onboard_time": 1662530725,
+      "rank": 20,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 506976,
@@ -331,6 +395,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 421760,
+      "num": 421760,
+      "word": "金世佳周寻今晚见",
+      "onboard_time": 1662529165,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 412078,
       "num": 412078,
       "word": "网传白鹿王鹤棣出演仙剑五前传",
@@ -339,11 +411,35 @@
       "category": "影视"
     },
     {
+      "raw_hot": 412037,
+      "num": 307335,
+      "word": "白冰新剧三分钟打消老公出轨念头",
+      "onboard_time": 1662527428,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 409696,
       "num": 409696,
       "word": "泸定地震已致72人遇难",
       "onboard_time": 1662516445,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 408748,
+      "num": 305176,
+      "word": "严浩翔北电开学vlog",
+      "onboard_time": 1662530847,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 407272,
+      "num": 407272,
+      "word": "槐店王婆大虾回收剩菜再上餐桌",
+      "onboard_time": 1662526407,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -387,6 +483,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 378977,
+      "num": 378977,
+      "word": "20岁小伙网恋2年不知女友是男的",
+      "onboard_time": 1662525269,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 378296,
       "num": 378296,
       "word": "官方通报老人当街向学生下跪",
@@ -395,11 +499,11 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 378206,
-      "num": 378206,
-      "word": "20岁小伙网恋2年不知女友是男的",
-      "onboard_time": 1662525269,
-      "rank": 24,
+      "raw_hot": 374068,
+      "num": 374068,
+      "word": "残疾老人打封闭针搬货救重病外孙",
+      "onboard_time": 1662527009,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -491,12 +595,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 297008,
+      "num": 206154,
+      "word": "吴磊夏日晚霞库存视频",
+      "onboard_time": 1662527966,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 291597,
       "num": 291597,
       "word": "原来懂礼貌真的很加分",
       "onboard_time": 1662462630,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 290886,
+      "num": 290886,
+      "word": "谢谢你汶川哥哥",
+      "onboard_time": 1662526707,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 290163,
@@ -603,14 +723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 248519,
-      "num": 248519,
-      "word": "槐店王婆大虾回收剩菜再上餐桌",
-      "onboard_time": 1662526407,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 245248,
       "num": 245248,
       "word": "鞠婧祎清唱无与伦比的美丽",
@@ -625,14 +737,6 @@
       "onboard_time": 1662507444,
       "rank": 39,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 232324,
-      "num": 232324,
-      "word": "谢谢你汶川哥哥",
-      "onboard_time": 1662526707,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 226905,
@@ -659,14 +763,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 221886,
-      "num": 221886,
-      "word": "苹果将捐款支持四川救援和重建",
-      "onboard_time": 1662527187,
-      "rank": 31,
-      "category": "科技"
-    },
-    {
       "raw_hot": 219260,
       "num": 219260,
       "word": "外交部回应俄驻阿富汗使馆附近爆炸",
@@ -681,6 +777,14 @@
       "onboard_time": 1662483740,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 217486,
+      "num": 217486,
+      "word": "更多00后选择反季节买羽绒服",
+      "onboard_time": 1662528628,
+      "rank": 27,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 215272,
@@ -787,6 +891,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 194183,
+      "num": 194183,
+      "word": "消防员臂章上汶川二字让人泪目",
+      "onboard_time": 1662531266,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192912,
       "num": 192912,
       "word": "雅安石棉县发生4.5级地震",
@@ -803,14 +915,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 189648,
-      "num": 189648,
-      "word": "白冰新剧三分钟打消老公出轨念头",
-      "onboard_time": 1662527428,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 189404,
       "num": 189404,
       "word": "泸定地震中的猪坚强",
@@ -825,6 +929,14 @@
       "onboard_time": 1662514885,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183721,
+      "num": 183721,
+      "word": "袁隆平纪念邮票发行",
+      "onboard_time": 1662531385,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179898,
@@ -851,20 +963,20 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 175857,
-      "num": 175857,
-      "word": "大妈带泡泡杆乘车被踹下车",
-      "onboard_time": 1662527306,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 173313,
       "num": 173313,
       "word": "美网2022",
       "onboard_time": 1662527488,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172403,
+      "num": 172403,
+      "word": "王俊凯演的外交新人成朗",
+      "onboard_time": 1662530905,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 170003,
@@ -907,14 +1019,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 157009,
-      "num": 157009,
-      "word": "残疾老人打封闭针搬货救重病外孙",
-      "onboard_time": 1662527009,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156391,
       "num": 156391,
       "word": "哪句话成了你低谷期的救赎",
@@ -947,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153502,
+      "num": 119174,
+      "word": "赖美云塑普好可爱",
+      "onboard_time": 1662531566,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153480,
       "num": 153480,
       "word": "河南新增本土无症状14例",
@@ -977,6 +1089,22 @@
       "onboard_time": 1662514647,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145929,
+      "num": 144829,
+      "word": "消失的孩子",
+      "onboard_time": 1662531266,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 142747,
+      "num": 142747,
+      "word": "河南科学家破解一项世界性难题",
+      "onboard_time": 1662531086,
+      "rank": 41,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 136184,
@@ -1028,10 +1156,18 @@
     },
     {
       "raw_hot": 132936,
-      "num": 1166437,
+      "num": 1415475,
       "word": "渡难关泸定安",
       "onboard_time": 1662473673,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127855,
+      "num": 127855,
+      "word": "贵阳物资",
+      "onboard_time": 1662531385,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -1043,12 +1179,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 118283,
+      "num": 118283,
+      "word": "如何整治不退押金的房东",
+      "onboard_time": 1662526887,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 117882,
       "num": 117882,
       "word": "翟潇闻罗一舟直播截图",
       "onboard_time": 1662476491,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 117829,
+      "num": 117829,
+      "word": "2022中国民营企业500强",
+      "onboard_time": 1662530905,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 116417,

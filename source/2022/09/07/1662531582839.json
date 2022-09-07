@@ -1,0 +1,410 @@
+{
+  "runTime": 1662531582839,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1962060,
+        "num": 1962060,
+        "word": "李小冉说庆余年2剧本还没出来",
+        "onboard_time": 1662529405,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1718627,
+        "num": 1718627,
+        "word": "吉村真晴出轨",
+        "onboard_time": 1662530246,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24262,
+        "num": 1415475,
+        "word": "渡难关泸定安",
+        "onboard_time": 1662473673,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1315042,
+        "num": 1315042,
+        "word": "国庆10月1日至7日放假调休",
+        "onboard_time": 1662508353,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1185369,
+        "num": 1185369,
+        "word": "苹果将捐款支持四川救援和重建",
+        "onboard_time": 1662527187,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1112549,
+        "num": 1112549,
+        "word": "张翰东八区的先生们开分2.4",
+        "onboard_time": 1662529405,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 732887,
+        "num": 732887,
+        "word": "虞书欣又被捂嘴",
+        "onboard_time": 1662527009,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 700072,
+        "num": 700072,
+        "word": "大妈带泡泡杆乘车被踹下车",
+        "onboard_time": 1662527306,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 657163,
+        "num": 657163,
+        "word": "离岸人民币对美元汇率跌破6.99元",
+        "onboard_time": 1662524667,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 560084,
+        "num": 560084,
+        "word": "教育局回应家长拒绝送礼被逼退群",
+        "onboard_time": 1662530303,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 699060,
+        "num": 548532,
+        "word": "周杰伦最伟大的作品豆瓣7.0分",
+        "onboard_time": 1662525810,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 630201,
+        "num": 535165,
+        "word": "冰雨火唯一的吻戏来了",
+        "onboard_time": 1662530424,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 498391,
+        "num": 498391,
+        "word": "母亲抱住儿子阻止好友婚闹泼酱醋",
+        "onboard_time": 1662522689,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 444562,
+        "num": 444562,
+        "word": "五仁月饼再成广东人最爱口味",
+        "onboard_time": 1662520768,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 421760,
+        "num": 421760,
+        "word": "金世佳周寻今晚见",
+        "onboard_time": 1662529165,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 407272,
+        "num": 407272,
+        "word": "槐店王婆大虾回收剩菜再上餐桌",
+        "onboard_time": 1662526407,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378977,
+        "num": 378977,
+        "word": "20岁小伙网恋2年不知女友是男的",
+        "onboard_time": 1662525269,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374068,
+        "num": 374068,
+        "word": "残疾老人打封闭针搬货救重病外孙",
+        "onboard_time": 1662527009,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366375,
+        "num": 366375,
+        "word": "中国采购俄天然气将改用人民币和卢布支付",
+        "onboard_time": 1662521005,
+        "rank": 18,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 323506,
+        "num": 323506,
+        "word": "女孩脱鞋掉出蟑螂吓得大哭",
+        "onboard_time": 1662518605,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514198,
+        "num": 316853,
+        "word": "张凌赫演我上班",
+        "onboard_time": 1662530725,
+        "rank": 20,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 412037,
+        "num": 307335,
+        "word": "白冰新剧三分钟打消老公出轨念头",
+        "onboard_time": 1662527428,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 408748,
+        "num": 305176,
+        "word": "严浩翔北电开学vlog",
+        "onboard_time": 1662530847,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290886,
+        "num": 290886,
+        "word": "谢谢你汶川哥哥",
+        "onboard_time": 1662526707,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281690,
+        "num": 281690,
+        "word": "流心奶黄月饼增速是五仁月饼7倍",
+        "onboard_time": 1662525448,
+        "rank": 24,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 264487,
+        "num": 264487,
+        "word": "被氢气球带走男子飘了300多公里",
+        "onboard_time": 1662514528,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238046,
+        "num": 238046,
+        "word": "头像能影响第一印象吗",
+        "onboard_time": 1662525331,
+        "rank": 26,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 217486,
+        "num": 217486,
+        "word": "更多00后选择反季节买羽绒服",
+        "onboard_time": 1662528628,
+        "rank": 27,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 216792,
+        "num": 216792,
+        "word": "猫咪在夸奖中逐渐迷失自我",
+        "onboard_time": 1662523466,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215851,
+        "num": 215851,
+        "word": "3岁萌娃刚进幼儿园就直奔午休室",
+        "onboard_time": 1662524729,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315912,
+        "num": 207120,
+        "word": "于文文王紫璇我也曾是你",
+        "onboard_time": 1662525509,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 297008,
+        "num": 206154,
+        "word": "吴磊夏日晚霞库存视频",
+        "onboard_time": 1662527966,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253331,
+        "num": 204188,
+        "word": "湖南卫视中秋之夜拍月亮官宣",
+        "onboard_time": 1662526110,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196242,
+        "num": 196242,
+        "word": "姆巴佩想取代梅西C罗成世界足球先生",
+        "onboard_time": 1662521426,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194183,
+        "num": 194183,
+        "word": "消防员臂章上汶川二字让人泪目",
+        "onboard_time": 1662531266,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191676,
+        "num": 191676,
+        "word": "成都全市餐饮外卖停业消息不实",
+        "onboard_time": 1662518785,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183721,
+        "num": 183721,
+        "word": "袁隆平纪念邮票发行",
+        "onboard_time": 1662531385,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172403,
+        "num": 172403,
+        "word": "王俊凯演的外交新人成朗",
+        "onboard_time": 1662530905,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153776,
+        "num": 153776,
+        "word": "长期缺爱是如何毁掉一个人的",
+        "onboard_time": 1662515605,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145029,
+        "num": 145029,
+        "word": "宛平南路600号月饼被炒至599元",
+        "onboard_time": 1662521426,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145929,
+        "num": 144829,
+        "word": "消失的孩子",
+        "onboard_time": 1662531266,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142747,
+        "num": 142747,
+        "word": "河南科学家破解一项世界性难题",
+        "onboard_time": 1662531086,
+        "rank": 41,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 133546,
+        "num": 133546,
+        "word": "苹果回应巴西禁售不带充电器iPhone",
+        "onboard_time": 1662516804,
+        "rank": 42,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 127855,
+        "num": 127855,
+        "word": "贵阳物资",
+        "onboard_time": 1662531385,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126230,
+        "num": 126230,
+        "word": "袁隆平曾拒5千美元月薪留在国内",
+        "onboard_time": 1662510449,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125105,
+        "num": 125105,
+        "word": "青岛新增本土确诊12例无症状26例",
+        "onboard_time": 1662519448,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119290,
+        "num": 119290,
+        "word": "一个人可以节俭到什么程度",
+        "onboard_time": 1662511050,
+        "rank": 46,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 153502,
+        "num": 119174,
+        "word": "赖美云塑普好可爱",
+        "onboard_time": 1662531566,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118283,
+        "num": 118283,
+        "word": "如何整治不退押金的房东",
+        "onboard_time": 1662526887,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117829,
+        "num": 117829,
+        "word": "2022中国民营企业500强",
+        "onboard_time": 1662530905,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#健全关键核心技术攻关新型举国体制#"
+    }
+  }
+}
