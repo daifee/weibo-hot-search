@@ -1,0 +1,410 @@
+{
+  "runTime": 1662593302480,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4450676,
+        "num": 4450676,
+        "word": "iPhone14",
+        "onboard_time": 1662549028,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 910269,
+        "num": 910269,
+        "word": "上海五年级小学生指出数学教材错误",
+        "onboard_time": 1662588553,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 17574,
+        "num": 657213,
+        "word": "他们全力以赴只为泸定早日安定",
+        "onboard_time": 1662539846,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1500082,
+        "num": 624676,
+        "word": "iPhone14 Plus",
+        "onboard_time": 1662574094,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 586851,
+        "num": 586851,
+        "word": "为什么要少玩手机多看书",
+        "onboard_time": 1662567385,
+        "rank": 4,
+        "category": "科技,情感"
+      },
+      {
+        "raw_hot": 426640,
+        "num": 426640,
+        "word": "泸定一大桥发现3人生命迹象",
+        "onboard_time": 1662550468,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1195867,
+        "num": 425779,
+        "word": "iPhone14pro",
+        "onboard_time": 1662592161,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 424650,
+        "num": 424650,
+        "word": "醉酒男子在电梯里殴打女邻居",
+        "onboard_time": 1662561691,
+        "rank": 7,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 351360,
+        "num": 351360,
+        "word": "爱马仕被阿姨压坏",
+        "onboard_time": 1662554012,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 294440,
+        "num": 294440,
+        "word": "一年级女孩入学不适应找老师抱抱",
+        "onboard_time": 1662556954,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 622644,
+        "num": 290561,
+        "word": "iPhone14Pro灵动岛",
+        "onboard_time": 1662592343,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 473881,
+        "num": 286453,
+        "word": "张翰新剧 争议动作",
+        "onboard_time": 1662562712,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 282343,
+        "num": 282343,
+        "word": "建议全国普及躺平午休",
+        "onboard_time": 1662552092,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 595597,
+        "num": 267175,
+        "word": "苹果发布会",
+        "onboard_time": 1662563253,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 246175,
+        "num": 246175,
+        "word": "王晓晨新剧刚怀孕就流产",
+        "onboard_time": 1662561571,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212991,
+        "num": 212991,
+        "word": "大S感谢小S",
+        "onboard_time": 1662551668,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 421601,
+        "num": 212032,
+        "word": "苹果2022秋季发布会同声传译",
+        "onboard_time": 1662569421,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 207667,
+        "num": 207667,
+        "word": "杭州一小学推出午睡帐篷",
+        "onboard_time": 1662578233,
+        "rank": 17,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 206355,
+        "num": 206355,
+        "word": "冰雨火大结局好虐",
+        "onboard_time": 1662565229,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206049,
+        "num": 206049,
+        "word": "你选周寻还是齐颂",
+        "onboard_time": 1662563313,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1472165,
+        "num": 202937,
+        "word": "iPhone14价格",
+        "onboard_time": 1662592343,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 199114,
+        "num": 199114,
+        "word": "贵阳筛查到301例阳性感染者",
+        "onboard_time": 1662540268,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181672,
+        "num": 181672,
+        "word": "林志玲和木村拓哉走秀",
+        "onboard_time": 1662544290,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 357364,
+        "num": 181339,
+        "word": "iPhone14Pro灭霸紫",
+        "onboard_time": 1662592402,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 178895,
+        "num": 178895,
+        "word": "女孩全部现金留给卖草鞋患病老人",
+        "onboard_time": 1662559171,
+        "rank": 24,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 151405,
+        "num": 151405,
+        "word": "郑州不配合烂尾楼复工房企要查税",
+        "onboard_time": 1662554551,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229409,
+        "num": 150849,
+        "word": "a16",
+        "onboard_time": 1662592222,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 149901,
+        "num": 149901,
+        "word": "印医生剖腹产时见胎儿不成熟又缝上",
+        "onboard_time": 1662541344,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145916,
+        "num": 145916,
+        "word": "杭州一男子地铁内跪地学狗叫",
+        "onboard_time": 1662553653,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185493,
+        "num": 145851,
+        "word": "iPhone14颜色",
+        "onboard_time": 1662592822,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 145175,
+        "num": 145175,
+        "word": "原来这种情况不属于驼背",
+        "onboard_time": 1662592040,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143505,
+        "num": 143505,
+        "word": "搂腰喝水",
+        "onboard_time": 1662555153,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142832,
+        "num": 142832,
+        "word": "14年前他被救14年后他救人",
+        "onboard_time": 1662565107,
+        "rank": 32,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 176831,
+        "num": 141802,
+        "word": "iPhone14 Pro Max",
+        "onboard_time": 1662592762,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 134563,
+        "num": 134563,
+        "word": "7岁儿子圈养妈妈买来吃的羊",
+        "onboard_time": 1662552270,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121873,
+        "num": 121873,
+        "word": "覆流年豆瓣6.6",
+        "onboard_time": 1662570560,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173137,
+        "num": 121620,
+        "word": "苹果称iPhone电力足够从早用到晚",
+        "onboard_time": 1662592881,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 120779,
+        "num": 120779,
+        "word": "小鸟吞下比自己脸还大的蝴蝶",
+        "onboard_time": 1662555390,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106721,
+        "num": 106721,
+        "word": "焦俊艳说新时代女性都是春笋姑娘",
+        "onboard_time": 1662573495,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132299,
+        "num": 106397,
+        "word": "苹果新品",
+        "onboard_time": 1662552811,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 104803,
+        "num": 104803,
+        "word": "王鹤棣冷帽造型饭拍",
+        "onboard_time": 1662566126,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 104738,
+        "num": 104738,
+        "word": "今年养活一只大闸蟹有多难",
+        "onboard_time": 1662557613,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99270,
+        "num": 99270,
+        "word": "事业和爱情你会选哪个",
+        "onboard_time": 1662566845,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96863,
+        "num": 96863,
+        "word": "上海疫情防控",
+        "onboard_time": 1662546689,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96386,
+        "num": 96386,
+        "word": "请把西装焊死在身上",
+        "onboard_time": 1662545728,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 92733,
+        "num": 92733,
+        "word": "俄罗斯正在放弃使用美元和英镑",
+        "onboard_time": 1662543807,
+        "rank": 45,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 91403,
+        "num": 91403,
+        "word": "大学生算是把美妆玩明白了",
+        "onboard_time": 1662592040,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 134784,
+        "num": 88685,
+        "word": "Apple Watch",
+        "onboard_time": 1662592943,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 71701,
+        "num": 71701,
+        "word": "二刷沉香重华",
+        "onboard_time": 1662564271,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 71307,
+        "num": 71307,
+        "word": "从没见过这么难卖的鹅",
+        "onboard_time": 1662558033,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#打卡中国#"
+    }
+  }
+}

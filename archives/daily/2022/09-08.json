@@ -1,10 +1,10 @@
 {
   "startTime": 1662568440215,
-  "endTime": 1662590451133,
+  "endTime": 1662593302480,
   "band_list": [
     {
-      "raw_hot": 2352817,
-      "num": 2352817,
+      "raw_hot": 4450676,
+      "num": 4450676,
       "word": "iPhone14",
       "onboard_time": 1662549028,
       "rank": 0,
@@ -27,6 +27,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1472165,
+      "num": 202937,
+      "word": "iPhone14价格",
+      "onboard_time": 1662592343,
+      "rank": 20,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1404170,
       "num": 1404170,
       "word": "苹果2022秋季发布会同声传译",
@@ -43,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1195867,
+      "num": 425779,
+      "word": "iPhone14pro",
+      "onboard_time": 1662592161,
+      "rank": 6,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1115122,
       "num": 1115122,
       "word": "苹果新品",
@@ -51,12 +67,36 @@
       "category": "科技"
     },
     {
+      "raw_hot": 910269,
+      "num": 910269,
+      "word": "上海五年级小学生指出数学教材错误",
+      "onboard_time": 1662588553,
+      "rank": 41,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 629651,
       "num": 535854,
       "word": "爱马仕被阿姨压坏",
       "onboard_time": 1662554012,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 622644,
+      "num": 290561,
+      "word": "iPhone14Pro灵动岛",
+      "onboard_time": 1662592343,
+      "rank": 10,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 586851,
+      "num": 586851,
+      "word": "为什么要少玩手机多看书",
+      "onboard_time": 1662567385,
+      "rank": 22,
+      "category": "科技,情感"
     },
     {
       "raw_hot": 541664,
@@ -83,15 +123,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 495215,
-      "num": 495215,
-      "word": "为什么要少玩手机多看书",
-      "onboard_time": 1662567385,
-      "rank": 22,
-      "category": "科技,情感"
-    },
-    {
-      "raw_hot": 454189,
+      "raw_hot": 473881,
       "num": 325983,
       "word": "张翰新剧 争议动作",
       "onboard_time": 1662562712,
@@ -107,12 +139,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 426640,
+      "num": 426640,
+      "word": "泸定一大桥发现3人生命迹象",
+      "onboard_time": 1662550468,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 368209,
       "num": 368209,
       "word": "一年级女孩入学不适应找老师抱抱",
       "onboard_time": 1662556954,
       "rank": 8,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 357364,
+      "num": 181339,
+      "word": "iPhone14Pro灭霸紫",
+      "onboard_time": 1662592402,
+      "rank": 23,
+      "category": "科技"
     },
     {
       "raw_hot": 331889,
@@ -163,6 +211,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 282343,
+      "num": 282343,
+      "word": "建议全国普及躺平午休",
+      "onboard_time": 1662552092,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271171,
       "num": 271171,
       "word": "这个弟弟是来报恩的吧",
@@ -203,14 +259,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 230983,
-      "num": 230983,
-      "word": "泸定一大桥发现3人生命迹象",
-      "onboard_time": 1662550468,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 230352,
       "num": 230352,
       "word": "事业和爱情你会选哪个",
@@ -225,6 +273,14 @@
       "onboard_time": 1662541344,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229409,
+      "num": 150849,
+      "word": "a16",
+      "onboard_time": 1662592222,
+      "rank": 26,
+      "category": "科技"
     },
     {
       "raw_hot": 218670,
@@ -243,6 +299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 207667,
+      "num": 207667,
+      "word": "杭州一小学推出午睡帐篷",
+      "onboard_time": 1662578233,
+      "rank": 48,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 196190,
       "num": 163449,
       "word": "twice登顶美国billboard艺人榜",
@@ -259,12 +323,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 182442,
-      "num": 182442,
-      "word": "上海五年级小学生指出数学教材错误",
-      "onboard_time": 1662588553,
-      "rank": 41,
-      "category": "教育,社会新闻"
+      "raw_hot": 185493,
+      "num": 145851,
+      "word": "iPhone14颜色",
+      "onboard_time": 1662592822,
+      "rank": 29,
+      "category": "科技"
     },
     {
       "raw_hot": 179279,
@@ -275,20 +339,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 167208,
-      "num": 167208,
-      "word": "建议全国普及躺平午休",
-      "onboard_time": 1662552092,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155090,
-      "num": 155090,
+      "raw_hot": 178895,
+      "num": 178895,
       "word": "女孩全部现金留给卖草鞋患病老人",
       "onboard_time": 1662559171,
       "rank": 31,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 176831,
+      "num": 141802,
+      "word": "iPhone14 Pro Max",
+      "onboard_time": 1662592762,
+      "rank": 33,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 173137,
+      "num": 121620,
+      "word": "苹果称iPhone电力足够从早用到晚",
+      "onboard_time": 1662592881,
+      "rank": 36,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 151405,
+      "num": 151405,
+      "word": "郑州不配合烂尾楼复工房企要查税",
+      "onboard_time": 1662554551,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148762,
@@ -305,6 +385,14 @@
       "onboard_time": 1662563730,
       "rank": 26,
       "category": "科技"
+    },
+    {
+      "raw_hot": 145175,
+      "num": 145175,
+      "word": "原来这种情况不属于驼背",
+      "onboard_time": 1662592040,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 144354,
@@ -347,6 +435,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 134784,
+      "num": 88685,
+      "word": "Apple Watch",
+      "onboard_time": 1662592943,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
       "raw_hot": 129575,
       "num": 129575,
       "word": "她怎么把月亮穿在身上",
@@ -379,22 +475,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 117248,
-      "num": 117248,
-      "word": "杭州一小学推出午睡帐篷",
-      "onboard_time": 1662578233,
-      "rank": 48,
-      "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 116129,
-      "num": 116129,
-      "word": "郑州不配合烂尾楼复工房企要查税",
-      "onboard_time": 1662554551,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 113681,
       "num": 113681,
       "word": "罚罪",
@@ -417,6 +497,14 @@
       "onboard_time": 1662555090,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106721,
+      "num": 106721,
+      "word": "焦俊艳说新时代女性都是春笋姑娘",
+      "onboard_time": 1662573495,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 103714,
@@ -451,6 +539,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 91403,
+      "num": 91403,
+      "word": "大学生算是把美妆玩明白了",
+      "onboard_time": 1662592040,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 91160,
       "num": 91160,
       "word": "苍兰诀",
@@ -465,14 +561,6 @@
       "onboard_time": 1662570920,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 71971,
-      "num": 71971,
-      "word": "焦俊艳说新时代女性都是春笋姑娘",
-      "onboard_time": 1662573495,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 44464,
@@ -515,7 +603,7 @@
       "category": "游戏,综艺"
     },
     {
-      "raw_hot": 16245,
+      "raw_hot": 17574,
       "num": 1476335,
       "word": "他们全力以赴只为泸定早日安定",
       "onboard_time": 1662539846,
