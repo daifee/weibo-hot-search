@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662561879789,
+  "endTime": 1662564337504,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -137,6 +137,14 @@
       "onboard_time": 1662555153,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2845882,
+      "num": 343845,
+      "word": "张翰新剧 扯内衣带",
+      "onboard_time": 1662562712,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 2830122,
@@ -1571,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 709797,
+      "num": 709797,
+      "word": "雷神4",
+      "onboard_time": 1662560253,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 708119,
       "num": 708119,
       "word": "相互喜欢也会分手吗",
@@ -1696,14 +1712,6 @@
       "word": "沉香重华番外",
       "onboard_time": 1662546090,
       "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 666756,
-      "num": 666756,
-      "word": "雷神4",
-      "onboard_time": 1662560253,
-      "rank": 23,
       "category": "影视"
     },
     {
@@ -2107,6 +2115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 535734,
+      "num": 535734,
+      "word": "王晓晨新剧刚怀孕就流产",
+      "onboard_time": 1662561571,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 532390,
       "num": 532390,
       "word": "偷偷藏不住官微呼吁抵制代拍",
@@ -2475,6 +2491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 447457,
+      "num": 447457,
+      "word": "女孩全部现金留给卖草鞋患病老人",
+      "onboard_time": 1662559171,
+      "rank": 47,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 445532,
       "num": 445532,
       "word": "地震预警",
@@ -2809,6 +2833,14 @@
       "onboard_time": 1662358595,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 398913,
+      "num": 398913,
+      "word": "醉酒男子在电梯里殴打女邻居",
+      "onboard_time": 1662561691,
+      "rank": 48,
+      "category": "社会负面"
     },
     {
       "raw_hot": 397043,
@@ -3299,6 +3331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 343104,
+      "num": 343104,
+      "word": "谭维维演的张桂梅",
+      "onboard_time": 1662559114,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 343011,
       "num": 343011,
       "word": "英雄联盟破败之咒小说",
@@ -3427,14 +3467,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 326893,
-      "num": 326893,
-      "word": "女孩全部现金留给卖草鞋患病老人",
-      "onboard_time": 1662559171,
-      "rank": 47,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 326652,
       "num": 326652,
       "word": "姜小果齐颂海边吻",
@@ -3457,14 +3489,6 @@
       "onboard_time": 1662298234,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 324118,
-      "num": 300232,
-      "word": "谭维维演的张桂梅",
-      "onboard_time": 1662559114,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 323664,
@@ -3537,6 +3561,14 @@
       "onboard_time": 1662384328,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318531,
+      "num": 318531,
+      "word": "冰雨火",
+      "onboard_time": 1662346347,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 318031,
@@ -3649,14 +3681,6 @@
       "onboard_time": 1662469346,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 307150,
-      "num": 269909,
-      "word": "王晓晨新剧刚怀孕就流产",
-      "onboard_time": 1662561571,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 306931,
@@ -3808,6 +3832,14 @@
       "word": "江西新增4例确诊72例无症状",
       "onboard_time": 1662368429,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295599,
+      "num": 295599,
+      "word": "贵阳花果园疫情防控",
+      "onboard_time": 1662560731,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -4235,6 +4267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270643,
+      "num": 270643,
+      "word": "苹果发布会",
+      "onboard_time": 1662563253,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
       "raw_hot": 270408,
       "num": 270408,
       "word": "新学期要读的第一本书",
@@ -4248,6 +4288,14 @@
       "word": "iPhone14Pro将配备更大电池",
       "onboard_time": 1662405311,
       "rank": 49,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 269058,
+      "num": 263979,
+      "word": "库克称期待闪耀的苹果发布会",
+      "onboard_time": 1662562113,
+      "rank": 29,
       "category": "科技"
     },
     {
@@ -4361,6 +4409,14 @@
       "onboard_time": 1662443966,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263617,
+      "num": 263617,
+      "word": "这月饼是我没想到的口味",
+      "onboard_time": 1662561631,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 263024,
@@ -4691,6 +4747,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 242058,
+      "num": 226448,
+      "word": "二刷沉香重华",
+      "onboard_time": 1662564271,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 241834,
       "num": 241834,
       "word": "原来神明也会坐公共交通",
@@ -4848,14 +4912,6 @@
       "word": "我国已进入台风核心影响时段",
       "onboard_time": 1662300332,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 227990,
-      "num": 227990,
-      "word": "贵阳花果园疫情防控",
-      "onboard_time": 1662560731,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -5177,6 +5233,14 @@
       "onboard_time": 1662431546,
       "rank": 38,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 205643,
+      "num": 205643,
+      "word": "这个弟弟是来报恩的吧",
+      "onboard_time": 1662563193,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 205109,
@@ -5747,14 +5811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 167502,
-      "num": 167502,
-      "word": "这月饼是我没想到的口味",
-      "onboard_time": 1662561631,
-      "rank": 46,
-      "category": "美食"
-    },
-    {
       "raw_hot": 166941,
       "num": 166941,
       "word": "明媒善娶获得网剧发行许可证",
@@ -5859,6 +5915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161557,
+      "num": 161557,
+      "word": "科技春晚",
+      "onboard_time": 1662563792,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
       "raw_hot": 161096,
       "num": 161096,
       "word": "世界最大女神仰阿莎",
@@ -5904,6 +5968,14 @@
       "word": "广州地铁全线网所有车站恢复正常运营",
       "onboard_time": 1662308007,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156980,
+      "num": 156980,
+      "word": "宜宾疫情防控",
+      "onboard_time": 1662564333,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -6073,14 +6145,6 @@
       "onboard_time": 1662452189,
       "rank": 48,
       "category": "科技,幽默"
-    },
-    {
-      "raw_hot": 145657,
-      "num": 145657,
-      "word": "醉酒男子在电梯里殴打女邻居",
-      "onboard_time": 1662561691,
-      "rank": 48,
-      "category": "社会负面"
     },
     {
       "raw_hot": 145244,
@@ -6483,14 +6547,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 106694,
-      "num": 106694,
-      "word": "冰雨火",
-      "onboard_time": 1662346347,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
       "raw_hot": 105462,
       "num": 105462,
       "word": "职场中遇到好领导有多重要",
@@ -6735,6 +6791,14 @@
       "num": 553195,
       "word": "震区群众向救援人员竖起大拇指",
       "onboard_time": 1662559290,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28530,
+      "num": 440303,
+      "word": "消防员连续救援后席地而睡",
+      "onboard_time": 1662562894,
       "rank": 14,
       "category": "社会新闻"
     },

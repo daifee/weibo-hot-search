@@ -1,6 +1,6 @@
 {
   "startTime": 1662481978498,
-  "endTime": 1662561879789,
+  "endTime": 1662564337504,
   "band_list": [
     {
       "raw_hot": 4035864,
@@ -33,6 +33,14 @@
       "onboard_time": 1662555153,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2845882,
+      "num": 343845,
+      "word": "张翰新剧 扯内衣带",
+      "onboard_time": 1662562712,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 2760284,
@@ -523,6 +531,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 709797,
+      "num": 709797,
+      "word": "雷神4",
+      "onboard_time": 1662560253,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 708078,
       "num": 708078,
       "word": "云南女子吃蘑菇遇地震头晕以为中毒",
@@ -552,14 +568,6 @@
       "word": "沉香重华番外",
       "onboard_time": 1662546090,
       "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 666756,
-      "num": 666756,
-      "word": "雷神4",
-      "onboard_time": 1662560253,
-      "rank": 23,
       "category": "影视"
     },
     {
@@ -723,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 535734,
+      "num": 535734,
+      "word": "王晓晨新剧刚怀孕就流产",
+      "onboard_time": 1662561571,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 511215,
       "num": 511215,
       "word": "7岁儿子圈养妈妈买来吃的羊",
@@ -833,6 +849,14 @@
       "onboard_time": 1662523466,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 447457,
+      "num": 447457,
+      "word": "女孩全部现金留给卖草鞋患病老人",
+      "onboard_time": 1662559171,
+      "rank": 47,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 444085,
@@ -993,6 +1017,14 @@
       "onboard_time": 1662532467,
       "rank": 45,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 398913,
+      "num": 398913,
+      "word": "醉酒男子在电梯里殴打女邻居",
+      "onboard_time": 1662561691,
+      "rank": 48,
+      "category": "社会负面"
     },
     {
       "raw_hot": 388726,
@@ -1211,6 +1243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 343104,
+      "num": 343104,
+      "word": "谭维维演的张桂梅",
+      "onboard_time": 1662559114,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 343011,
       "num": 343011,
       "word": "英雄联盟破败之咒小说",
@@ -1243,28 +1283,12 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 326893,
-      "num": 326893,
-      "word": "女孩全部现金留给卖草鞋患病老人",
-      "onboard_time": 1662559171,
-      "rank": 47,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 325641,
       "num": 226895,
       "word": "罚罪",
       "onboard_time": 1662473850,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 324118,
-      "num": 300232,
-      "word": "谭维维演的张桂梅",
-      "onboard_time": 1662559114,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 319102,
@@ -1280,6 +1304,14 @@
       "word": "网传侯明昊将出演狐妖小红娘王权篇",
       "onboard_time": 1662542188,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 318531,
+      "num": 318531,
+      "word": "冰雨火",
+      "onboard_time": 1662564152,
+      "rank": 23,
       "category": "影视"
     },
     {
@@ -1339,14 +1371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 307150,
-      "num": 269909,
-      "word": "王晓晨新剧刚怀孕就流产",
-      "onboard_time": 1662561571,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 304913,
       "num": 223301,
       "word": "沉香重华全员情难断",
@@ -1377,6 +1401,14 @@
       "onboard_time": 1662527966,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 295599,
+      "num": 295599,
+      "word": "贵阳花果园疫情防控",
+      "onboard_time": 1662560731,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 294981,
@@ -1539,12 +1571,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 270643,
+      "num": 270643,
+      "word": "苹果发布会",
+      "onboard_time": 1662563253,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 269058,
+      "num": 263979,
+      "word": "库克称期待闪耀的苹果发布会",
+      "onboard_time": 1662562113,
+      "rank": 29,
+      "category": "科技"
+    },
+    {
       "raw_hot": 265489,
       "num": 265489,
       "word": "贵阳贵安疫情防控发布会",
       "onboard_time": 1662540387,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263617,
+      "num": 263617,
+      "word": "这月饼是我没想到的口味",
+      "onboard_time": 1662561631,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 262674,
@@ -1667,6 +1723,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 242058,
+      "num": 226448,
+      "word": "二刷沉香重华",
+      "onboard_time": 1662564271,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 241834,
       "num": 241834,
       "word": "原来神明也会坐公共交通",
@@ -1715,12 +1779,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 227990,
-      "num": 227990,
-      "word": "贵阳花果园疫情防控",
-      "onboard_time": 1662560731,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 228034,
+      "num": 225761,
+      "word": "玉骨遥",
+      "onboard_time": 1662476912,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 227091,
@@ -1865,6 +1929,14 @@
       "onboard_time": 1662475472,
       "rank": 18,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 205643,
+      "num": 205643,
+      "word": "这个弟弟是来报恩的吧",
+      "onboard_time": 1662563193,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 204684,
@@ -2091,14 +2163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 167502,
-      "num": 167502,
-      "word": "这月饼是我没想到的口味",
-      "onboard_time": 1662561631,
-      "rank": 46,
-      "category": "美食"
-    },
-    {
       "raw_hot": 162425,
       "num": 162425,
       "word": "距考研开考还有109天",
@@ -2113,6 +2177,14 @@
       "onboard_time": 1662519747,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161557,
+      "num": 161557,
+      "word": "科技春晚",
+      "onboard_time": 1662563792,
+      "rank": 47,
+      "category": "科技"
     },
     {
       "raw_hot": 160482,
@@ -2137,6 +2209,14 @@
       "onboard_time": 1662536366,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 156980,
+      "num": 156980,
+      "word": "宜宾疫情防控",
+      "onboard_time": 1662564333,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156775,
@@ -2233,14 +2313,6 @@
       "onboard_time": 1662514647,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 145657,
-      "num": 145657,
-      "word": "醉酒男子在电梯里殴打女邻居",
-      "onboard_time": 1662561691,
-      "rank": 48,
-      "category": "社会负面"
     },
     {
       "raw_hot": 140836,
@@ -2427,14 +2499,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 103112,
-      "num": 103112,
-      "word": "玉骨遥",
-      "onboard_time": 1662476912,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 102934,
       "num": 155832,
       "word": "你换手机最看重什么",
@@ -2511,6 +2575,14 @@
       "num": 553195,
       "word": "震区群众向救援人员竖起大拇指",
       "onboard_time": 1662559290,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28530,
+      "num": 440303,
+      "word": "消防员连续救援后席地而睡",
+      "onboard_time": 1662562894,
       "rank": 14,
       "category": "社会新闻"
     },
