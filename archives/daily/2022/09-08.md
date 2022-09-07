@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/08 00:34:00 ~ 2022/09/08 06:22:29
+本榜单时间：2022/09/08 00:34:00 ~ 2022/09/08 06:40:51
 </p>
 </blockquote>
 <p>
@@ -16,7 +16,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone14%23" target="weibo">
-iPhone14（热度：2294898）
+iPhone14（热度：2352817）
 </a>
 </li>
 
@@ -207,6 +207,12 @@ twice登顶美国billboard艺人榜（热度：196190）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%BA%94%E5%B9%B4%E7%BA%A7%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%8C%87%E5%87%BA%E6%95%B0%E5%AD%A6%E6%95%99%E6%9D%90%E9%94%99%E8%AF%AF%23" target="weibo">
+上海五年级小学生指出数学教材错误（热度：182442）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B8%9F%E5%90%9E%E4%B8%8B%E6%AF%94%E8%87%AA%E5%B7%B1%E8%84%B8%E8%BF%98%E5%A4%A7%E7%9A%84%E8%9D%B4%E8%9D%B6%23" target="weibo">
 小鸟吞下比自己脸还大的蝴蝶（热度：179279）
 </a>
@@ -291,6 +297,12 @@ twice登顶美国billboard艺人榜（热度：196190）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%B8%80%E5%B0%8F%E5%AD%A6%E6%8E%A8%E5%87%BA%E5%8D%88%E7%9D%A1%E5%B8%90%E7%AF%B7%23" target="weibo">
+杭州一小学推出午睡帐篷（热度：117248）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E4%B8%8D%E9%85%8D%E5%90%88%E7%83%82%E5%B0%BE%E6%A5%BC%E5%A4%8D%E5%B7%A5%E6%88%BF%E4%BC%81%E8%A6%81%E6%9F%A5%E7%A8%8E%23" target="weibo">
 郑州不配合烂尾楼复工房企要查税（热度：116129）
 </a>
@@ -345,12 +357,6 @@ twice登顶美国billboard艺人榜（热度：196190）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%B8%80%E5%B0%8F%E5%AD%A6%E6%8E%A8%E5%87%BA%E5%8D%88%E7%9D%A1%E5%B8%90%E7%AF%B7%23" target="weibo">
-杭州一小学推出午睡帐篷（热度：87897）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%B5%E9%98%B3%E5%B0%86%E4%BB%8E7%E6%96%B9%E9%9D%A2%E5%AE%8C%E5%96%84%E7%89%A9%E8%B5%84%E9%85%8D%E9%80%81%23" target="weibo">
 贵阳将从7方面完善物资配送（热度：74116）
 </a>
@@ -363,44 +369,38 @@ twice登顶美国billboard艺人榜（热度：196190）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E6%8F%AD%E7%A4%BA%E7%A0%B4%E7%A2%8E%E7%9A%84%E5%BF%83%E5%A6%82%E4%BD%95%E5%A4%8D%E5%8E%9F%23" target="weibo">
+研究揭示破碎的心如何复原（热度：44464）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E7%8F%89%E9%94%A1%E5%B0%869%E6%9C%8826%E6%97%A5solo%E5%87%BA%E9%81%93%23" target="weibo">
 金珉锡将9月26日solo出道（热度：42522）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E6%8F%AD%E7%A4%BA%E7%A0%B4%E7%A2%8E%E7%9A%84%E5%BF%83%E5%A6%82%E4%BD%95%E5%A4%8D%E5%8E%9F%23" target="weibo">
-研究揭示破碎的心如何复原（热度：28863）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%BA%94%E5%B9%B4%E7%BA%A7%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%8C%87%E5%87%BA%E6%95%B0%E5%AD%A6%E6%95%99%E6%9D%90%E9%94%99%E8%AF%AF%23" target="weibo">
-上海五年级小学生指出数学教材错误（热度：28174）
+<a href="https://s.weibo.com/weibo?q=%23%E6%84%9F%E8%A7%89%E8%BF%99%E6%9D%AF%E5%AD%90%E4%BC%9A%E9%A3%9E%E8%B5%B0%23" target="weibo">
+感觉这杯子会飞走（热度：31791）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AF%B9%E8%AF%9D%E6%80%80%E6%8A%B1%E6%B3%B8%E5%AE%9A%E5%A9%B4%E5%84%BF%E7%9A%84%E6%B1%B6%E5%B7%9D%E6%B6%88%E9%98%B2%E5%91%98%23" target="weibo">
-对话怀抱泸定婴儿的汶川消防员（热度：23907）
+对话怀抱泸定婴儿的汶川消防员（热度：31595）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%84%9F%E8%A7%89%E8%BF%99%E6%9D%AF%E5%AD%90%E4%BC%9A%E9%A3%9E%E8%B5%B0%23" target="weibo">
-感觉这杯子会飞走（热度：22281）
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9F%AF%E5%AE%87%E7%9B%B4%E6%8B%8DFly%E8%90%BD%E6%B0%B4%23" target="weibo">
+周柯宇直拍Fly落水（热度：22887）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BB%AC%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4%E5%8F%AA%E4%B8%BA%E6%B3%B8%E5%AE%9A%E6%97%A9%E6%97%A5%E5%AE%89%E5%AE%9A%23" target="weibo">
 他们全力以赴只为泸定早日安定（热度：16245）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9F%AF%E5%AE%87%E7%9B%B4%E6%8B%8DFly%E8%90%BD%E6%B0%B4%23" target="weibo">
-周柯宇直拍Fly落水（热度：10658）
 </a>
 </li>
 

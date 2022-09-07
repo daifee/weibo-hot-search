@@ -1,10 +1,10 @@
 {
   "startTime": 1662568440215,
-  "endTime": 1662589349082,
+  "endTime": 1662590451133,
   "band_list": [
     {
-      "raw_hot": 2294898,
-      "num": 2294898,
+      "raw_hot": 2352817,
+      "num": 2352817,
       "word": "iPhone14",
       "onboard_time": 1662549028,
       "rank": 0,
@@ -259,6 +259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 182442,
+      "num": 182442,
+      "word": "上海五年级小学生指出数学教材错误",
+      "onboard_time": 1662588553,
+      "rank": 41,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 179279,
       "num": 179279,
       "word": "小鸟吞下比自己脸还大的蝴蝶",
@@ -371,6 +379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 117248,
+      "num": 117248,
+      "word": "杭州一小学推出午睡帐篷",
+      "onboard_time": 1662578233,
+      "rank": 48,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 116129,
       "num": 116129,
       "word": "郑州不配合烂尾楼复工房企要查税",
@@ -443,14 +459,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 87897,
-      "num": 87897,
-      "word": "杭州一小学推出午睡帐篷",
-      "onboard_time": 1662578233,
-      "rank": 48,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 74116,
       "num": 74116,
       "word": "贵阳将从7方面完善物资配送",
@@ -467,6 +475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 44464,
+      "num": 44464,
+      "word": "研究揭示破碎的心如何复原",
+      "onboard_time": 1662585491,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 42522,
       "num": 39076,
       "word": "金珉锡将9月26日solo出道",
@@ -475,36 +491,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 28863,
-      "num": 28863,
-      "word": "研究揭示破碎的心如何复原",
-      "onboard_time": 1662585491,
-      "rank": 48,
-      "category": "科技"
+      "raw_hot": 31791,
+      "num": 31791,
+      "word": "感觉这杯子会飞走",
+      "onboard_time": 1662584410,
+      "rank": 36,
+      "category": "情感"
     },
     {
-      "raw_hot": 28174,
-      "num": 28174,
-      "word": "上海五年级小学生指出数学教材错误",
-      "onboard_time": 1662588553,
-      "rank": 41,
-      "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 23907,
-      "num": 23907,
+      "raw_hot": 31595,
+      "num": 31595,
       "word": "对话怀抱泸定婴儿的汶川消防员",
       "onboard_time": 1662585431,
       "rank": 49,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22281,
-      "num": 22281,
-      "word": "感觉这杯子会飞走",
-      "onboard_time": 1662584410,
-      "rank": 36,
-      "category": "情感"
+      "raw_hot": 22887,
+      "num": 22887,
+      "word": "周柯宇直拍Fly落水",
+      "onboard_time": 1662585851,
+      "rank": 49,
+      "category": "游戏,综艺"
     },
     {
       "raw_hot": 16245,
@@ -513,14 +521,6 @@
       "onboard_time": 1662539846,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 10658,
-      "num": 10658,
-      "word": "周柯宇直拍Fly落水",
-      "onboard_time": 1662585851,
-      "rank": 49,
-      "category": "游戏,综艺"
     }
   ],
   "hotgov_list": [
