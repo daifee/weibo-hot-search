@@ -1,6 +1,6 @@
 {
   "startTime": 1662481978498,
-  "endTime": 1662559551076,
+  "endTime": 1662560966149,
   "band_list": [
     {
       "raw_hot": 4035864,
@@ -43,7 +43,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 2159270,
+      "raw_hot": 2582510,
       "num": 2159270,
       "word": "iPhone14",
       "onboard_time": 1662549028,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1666638,
+      "num": 1566109,
+      "word": "台铃",
+      "onboard_time": 1662557370,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1599583,
       "num": 1599583,
       "word": "林墨登顶",
@@ -139,19 +147,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1566109,
-      "num": 1566109,
-      "word": "台铃",
-      "onboard_time": 1662557370,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1565702,
       "num": 1540404,
       "word": "三亚00后老板中秋扣员工50%工资代尽孝",
       "onboard_time": 1662535586,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1476336,
+      "num": 1476336,
+      "word": "成都疫情防控",
+      "onboard_time": 1662507684,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -547,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 637397,
+      "num": 637397,
+      "word": "一年级女孩入学不适应找老师抱抱",
+      "onboard_time": 1662556954,
+      "rank": 27,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 630201,
       "num": 535165,
       "word": "冰雨火唯一的吻戏来了",
@@ -764,7 +780,7 @@
     },
     {
       "raw_hot": 490759,
-      "num": 386159,
+      "num": 423649,
       "word": "丁程鑫在剧组放饭时拿到高考分数",
       "onboard_time": 1662558274,
       "rank": 30,
@@ -827,14 +843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 441400,
-      "num": 441400,
-      "word": "一年级女孩入学不适应找老师抱抱",
-      "onboard_time": 1662556954,
-      "rank": 27,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 440455,
       "num": 440455,
       "word": "湖南卫视中秋之夜拍月亮官宣",
@@ -857,6 +865,14 @@
       "onboard_time": 1662549869,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 430552,
+      "num": 430552,
+      "word": "她怎么把月亮穿在身上",
+      "onboard_time": 1662557432,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 425151,
@@ -1075,11 +1091,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 370501,
+      "num": 370501,
+      "word": "静待烟火成都早日归来",
+      "onboard_time": 1662558632,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 368642,
       "num": 208880,
       "word": "冰雨火杨熠下线",
       "onboard_time": 1662539667,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 368059,
+      "num": 368059,
+      "word": "雷神4",
+      "onboard_time": 1662560253,
+      "rank": 23,
       "category": "影视"
     },
     {
@@ -1089,6 +1121,14 @@
       "onboard_time": 1662477751,
       "rank": 12,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 365073,
+      "num": 365073,
+      "word": "杨紫沉香重华红衣战损妆",
+      "onboard_time": 1662559290,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 362718,
@@ -1155,14 +1195,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 345386,
-      "num": 345386,
-      "word": "她怎么把月亮穿在身上",
-      "onboard_time": 1662557432,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 343859,
       "num": 343859,
       "word": "蔡徐坤智族GQ金九封面",
@@ -1227,6 +1259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 318832,
+      "num": 300232,
+      "word": "谭维维演的张桂梅",
+      "onboard_time": 1662559114,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 318031,
       "num": 267398,
       "word": "成毅沉香重华红衣收官剧照",
@@ -1275,6 +1315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 305799,
+      "num": 305799,
+      "word": "今年养活一只大闸蟹有多难",
+      "onboard_time": 1662557613,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304913,
       "num": 223301,
       "word": "沉香重华全员情难断",
@@ -1305,14 +1353,6 @@
       "onboard_time": 1662527966,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 295018,
-      "num": 295018,
-      "word": "静待烟火成都早日归来",
-      "onboard_time": 1662558632,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 294981,
@@ -1403,14 +1443,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 282720,
-      "num": 282720,
-      "word": "成都疫情防控",
-      "onboard_time": 1662507684,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 282030,
       "num": 282030,
       "word": "四川增本土确诊85例无症状72例",
@@ -1481,14 +1513,6 @@
       "onboard_time": 1662510930,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 268509,
-      "num": 204947,
-      "word": "谭维维演的张桂梅",
-      "onboard_time": 1662559114,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 265489,
@@ -1579,14 +1603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 250877,
-      "num": 250877,
-      "word": "今年养活一只大闸蟹有多难",
-      "onboard_time": 1662557613,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 248980,
       "num": 222932,
       "word": "刘诗诗一念关山正脸饭拍路透",
@@ -1617,6 +1633,14 @@
       "onboard_time": 1662522387,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 245112,
+      "num": 245112,
+      "word": "女孩全部现金留给卖草鞋患病老人",
+      "onboard_time": 1662559171,
+      "rank": 47,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 244473,
@@ -1667,6 +1691,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 227990,
+      "num": 227990,
+      "word": "贵阳花果园疫情防控",
+      "onboard_time": 1662560731,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227872,
+      "num": 227872,
+      "word": "从没见过这么难卖的鹅",
+      "onboard_time": 1662558033,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 227091,
       "num": 194207,
       "word": "熙娣想聊",
@@ -1705,14 +1745,6 @@
       "onboard_time": 1662496871,
       "rank": 22,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 221564,
-      "num": 221564,
-      "word": "从没见过这么难卖的鹅",
-      "onboard_time": 1662558033,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 221323,
@@ -2139,12 +2171,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 153161,
-      "num": 153161,
-      "word": "女孩全部现金留给卖草鞋患病老人",
-      "onboard_time": 1662559171,
-      "rank": 47,
-      "category": "社会正能量"
+      "raw_hot": 152101,
+      "num": 152101,
+      "word": "年轻的老师也有大大的烦恼",
+      "onboard_time": 1662560612,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 151661,
@@ -2435,6 +2467,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 27298,
+      "num": 553195,
+      "word": "震区群众向救援人员竖起大拇指",
+      "onboard_time": 1662559290,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22694,
       "num": 169971,
       "word": "人人参与才是大公益",
@@ -2473,14 +2513,6 @@
       "onboard_time": 1662544830,
       "rank": 14,
       "category": "科技"
-    },
-    {
-      "raw_hot": 7276,
-      "num": 553195,
-      "word": "震区群众向救援人员竖起大拇指",
-      "onboard_time": 1662559290,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 5926,
