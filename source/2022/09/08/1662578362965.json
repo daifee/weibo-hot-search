@@ -1,0 +1,410 @@
+{
+  "runTime": 1662578362965,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1313776,
+        "num": 1313776,
+        "word": "iPhone14",
+        "onboard_time": 1662549028,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1145915,
+        "num": 1145915,
+        "word": "iPhone14 Plus",
+        "onboard_time": 1662574094,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 4021,
+        "num": 542923,
+        "word": "他们全力以赴只为泸定早日安定",
+        "onboard_time": 1662539846,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 288732,
+        "num": 288732,
+        "word": "苹果发布会",
+        "onboard_time": 1662563253,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 261408,
+        "num": 261408,
+        "word": "苹果2022秋季发布会同声传译",
+        "onboard_time": 1662569421,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 196159,
+        "num": 196159,
+        "word": "苹果新品",
+        "onboard_time": 1662552811,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 147775,
+        "num": 147775,
+        "word": "苹果发布会有哪些亮点",
+        "onboard_time": 1662563730,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 104317,
+        "num": 104317,
+        "word": "爱马仕被阿姨压坏",
+        "onboard_time": 1662554012,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76153,
+        "num": 76153,
+        "word": "为什么要少玩手机多看书",
+        "onboard_time": 1662567385,
+        "rank": 8,
+        "category": "科技,情感"
+      },
+      {
+        "raw_hot": 63665,
+        "num": 63665,
+        "word": "贵阳筛查到301例阳性感染者",
+        "onboard_time": 1662540268,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56401,
+        "num": 56401,
+        "word": "张翰新剧 争议动作",
+        "onboard_time": 1662562712,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 51776,
+        "num": 51776,
+        "word": "覆流年豆瓣6.6",
+        "onboard_time": 1662570560,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 51160,
+        "num": 51160,
+        "word": "杭州一男子地铁内跪地学狗叫",
+        "onboard_time": 1662553653,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51110,
+        "num": 51110,
+        "word": "库克称期待闪耀的苹果发布会",
+        "onboard_time": 1662562113,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 49760,
+        "num": 49760,
+        "word": "广州地铁",
+        "onboard_time": 1662553349,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46116,
+        "num": 46116,
+        "word": "大S感谢小S",
+        "onboard_time": 1662551668,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41262,
+        "num": 41262,
+        "word": "雷神4",
+        "onboard_time": 1662560253,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 37169,
+        "num": 37169,
+        "word": "醉酒男子在电梯里殴打女邻居",
+        "onboard_time": 1662561691,
+        "rank": 17,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 36060,
+        "num": 36060,
+        "word": "冰雨火大结局好虐",
+        "onboard_time": 1662565229,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 36008,
+        "num": 36008,
+        "word": "贵阳将从7方面完善物资配送",
+        "onboard_time": 1662570920,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37476,
+        "num": 35893,
+        "word": "王鹤棣冷帽造型饭拍",
+        "onboard_time": 1662566126,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 35742,
+        "num": 35742,
+        "word": "焦俊艳说新时代女性都是春笋姑娘",
+        "onboard_time": 1662573495,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33931,
+        "num": 33931,
+        "word": "上海疫情防控",
+        "onboard_time": 1662546689,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33452,
+        "num": 33452,
+        "word": "twice登顶美国billboard艺人榜",
+        "onboard_time": 1662556469,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 32642,
+        "num": 32642,
+        "word": "搂腰喝水",
+        "onboard_time": 1662555153,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31469,
+        "num": 31469,
+        "word": "你选周寻还是齐颂",
+        "onboard_time": 1662563313,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31096,
+        "num": 31096,
+        "word": "14年前他被救14年后他救人",
+        "onboard_time": 1662565107,
+        "rank": 26,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 30180,
+        "num": 30180,
+        "word": "事业和爱情你会选哪个",
+        "onboard_time": 1662566845,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30133,
+        "num": 30133,
+        "word": "泸定一大桥发现3人生命迹象",
+        "onboard_time": 1662550468,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28886,
+        "num": 28886,
+        "word": "印医生剖腹产时见胎儿不成熟又缝上",
+        "onboard_time": 1662541344,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31414,
+        "num": 28528,
+        "word": "金珉锡将9月26日solo出道",
+        "onboard_time": 1662574994,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27416,
+        "num": 27416,
+        "word": "林志玲和木村拓哉走秀",
+        "onboard_time": 1662544290,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 26760,
+        "num": 26760,
+        "word": "宜宾疫情防控",
+        "onboard_time": 1662564333,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25961,
+        "num": 25961,
+        "word": "一年级女孩入学不适应找老师抱抱",
+        "onboard_time": 1662556954,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 25282,
+        "num": 25282,
+        "word": "小鸟吞下比自己脸还大的蝴蝶",
+        "onboard_time": 1662555390,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25090,
+        "num": 25090,
+        "word": "王晓晨新剧刚怀孕就流产",
+        "onboard_time": 1662561571,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24889,
+        "num": 24889,
+        "word": "郑州不配合烂尾楼复工房企要查税",
+        "onboard_time": 1662554551,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23881,
+        "num": 23881,
+        "word": "建议全国普及躺平午休",
+        "onboard_time": 1662552092,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23220,
+        "num": 23220,
+        "word": "请把西装焊死在身上",
+        "onboard_time": 1662545728,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23095,
+        "num": 23095,
+        "word": "俄罗斯正在放弃使用美元和英镑",
+        "onboard_time": 1662543807,
+        "rank": 39,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 21526,
+        "num": 21526,
+        "word": "贵阳花果园疫情防控",
+        "onboard_time": 1662560731,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21345,
+        "num": 21345,
+        "word": "从没见过这么难卖的鹅",
+        "onboard_time": 1662558033,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19861,
+        "num": 19861,
+        "word": "二刷沉香重华",
+        "onboard_time": 1662564271,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19611,
+        "num": 19611,
+        "word": "0713男团天天向上路透",
+        "onboard_time": 1662568762,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 19189,
+        "num": 19189,
+        "word": "她怎么把月亮穿在身上",
+        "onboard_time": 1662557432,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18805,
+        "num": 18805,
+        "word": "女孩全部现金留给卖草鞋患病老人",
+        "onboard_time": 1662559171,
+        "rank": 45,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 14744,
+        "num": 14744,
+        "word": "7岁儿子圈养妈妈买来吃的羊",
+        "onboard_time": 1662552270,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14685,
+        "num": 14685,
+        "word": "今年养活一只大闸蟹有多难",
+        "onboard_time": 1662557613,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12173,
+        "num": 12173,
+        "word": "杭州一小学推出午睡帐篷",
+        "onboard_time": 1662578233,
+        "rank": 48,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 11066,
+        "num": 11066,
+        "word": "这个弟弟是来报恩的吧",
+        "onboard_time": 1662563193,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#让共建一带一路成果更好惠及全体人民#"
+    }
+  }
+}

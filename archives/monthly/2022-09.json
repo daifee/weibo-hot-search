@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662576456208,
+  "endTime": 1662578362965,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -14115,6 +14115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147775,
+      "num": 147775,
+      "word": "苹果发布会有哪些亮点",
+      "onboard_time": 1662563730,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
       "raw_hot": 147609,
       "num": 147609,
       "word": "7旬爷爷凌晨4点捡废品为孙筹医疗费",
@@ -14921,14 +14929,6 @@
       "onboard_time": 1662107427,
       "rank": 48,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 114988,
-      "num": 114988,
-      "word": "苹果发布会有哪些亮点",
-      "onboard_time": 1662563730,
-      "rank": 26,
-      "category": "科技"
     },
     {
       "raw_hot": 113250,
@@ -15769,6 +15769,14 @@
       "onboard_time": 1662060791,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 12173,
+      "num": 12173,
+      "word": "杭州一小学推出午睡帐篷",
+      "onboard_time": 1662578233,
+      "rank": 48,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 9963,

@@ -1,6 +1,6 @@
 {
   "startTime": 1662568440215,
-  "endTime": 1662576456208,
+  "endTime": 1662578362965,
   "band_list": [
     {
       "raw_hot": 2294898,
@@ -291,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147775,
+      "num": 147775,
+      "word": "苹果发布会有哪些亮点",
+      "onboard_time": 1662563730,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
       "raw_hot": 144354,
       "num": 144354,
       "word": "7岁儿子圈养妈妈买来吃的羊",
@@ -369,14 +377,6 @@
       "onboard_time": 1662554551,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 114988,
-      "num": 114988,
-      "word": "苹果发布会有哪些亮点",
-      "onboard_time": 1662563730,
-      "rank": 26,
-      "category": "科技"
     },
     {
       "raw_hot": 113681,
@@ -473,6 +473,14 @@
       "onboard_time": 1662539846,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 12173,
+      "num": 12173,
+      "word": "杭州一小学推出午睡帐篷",
+      "onboard_time": 1662578233,
+      "rank": 48,
+      "category": "教育,社会新闻"
     }
   ],
   "hotgov_list": [
