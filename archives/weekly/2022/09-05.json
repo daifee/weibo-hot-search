@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662573033945,
+  "endTime": 1662575340571,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -881,6 +881,14 @@
       "onboard_time": 1662545728,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1089895,
+      "num": 1089895,
+      "word": "iPhone14 Plus",
+      "onboard_time": 1662574094,
+      "rank": 1,
+      "category": "科技"
     },
     {
       "raw_hot": 1084298,
@@ -6795,6 +6803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 74116,
+      "num": 74116,
+      "word": "贵阳将从7方面完善物资配送",
+      "onboard_time": 1662570920,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72651,
       "num": 72651,
       "word": "今年中秋夜十五的月亮十五圆",
@@ -6803,20 +6819,20 @@
       "category": "自然,社会新闻"
     },
     {
-      "raw_hot": 72449,
-      "num": 72449,
-      "word": "贵阳将从7方面完善物资配送",
-      "onboard_time": 1662570920,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 72062,
       "num": 72062,
       "word": "实现躺平午休有多舒服",
       "onboard_time": 1662311838,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 71971,
+      "num": 71971,
+      "word": "焦俊艳说新时代女性都是春笋姑娘",
+      "onboard_time": 1662573495,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 70875,
