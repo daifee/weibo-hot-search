@@ -1,0 +1,410 @@
+{
+  "runTime": 1662536649415,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2433754,
+        "num": 2433754,
+        "word": "湖南涉外 车祸",
+        "onboard_time": 1662535224,
+        "rank": 0,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 2155388,
+        "num": 2155388,
+        "word": "教育局回应家长拒绝送礼被逼退群",
+        "onboard_time": 1662530303,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 23358,
+        "num": 2091187,
+        "word": "渡难关泸定安",
+        "onboard_time": 1662473673,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2088157,
+        "num": 2088157,
+        "word": "芜湖一中致歉",
+        "onboard_time": 1662533786,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1581246,
+        "num": 1581246,
+        "word": "上海一女子去优衣库给全家偷衣服",
+        "onboard_time": 1662532227,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 816689,
+        "num": 816689,
+        "word": "李小冉说庆余年2剧本还没出来",
+        "onboard_time": 1662529405,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 814174,
+        "num": 814174,
+        "word": "张翰东八区的先生们开分2.4",
+        "onboard_time": 1662529405,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 772165,
+        "num": 772165,
+        "word": "国庆10月1日至7日放假调休",
+        "onboard_time": 1662508353,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582117,
+        "num": 582117,
+        "word": "苹果将捐款支持四川救援和重建",
+        "onboard_time": 1662527187,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 509478,
+        "num": 509478,
+        "word": "大妈带泡泡杆乘车被踹下车",
+        "onboard_time": 1662527306,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445272,
+        "num": 445272,
+        "word": "相亲男女推诿不买单老板报警",
+        "onboard_time": 1662534505,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411482,
+        "num": 411482,
+        "word": "河南科学家破解一项世界性难题",
+        "onboard_time": 1662531086,
+        "rank": 11,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 382788,
+        "num": 382788,
+        "word": "买手机不送充电器合理吗",
+        "onboard_time": 1662532467,
+        "rank": 12,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 342333,
+        "num": 342333,
+        "word": "冰雨火唯一的吻戏来了",
+        "onboard_time": 1662530424,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 321693,
+        "num": 321693,
+        "word": "金世佳周寻今晚见",
+        "onboard_time": 1662529165,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 298643,
+        "num": 298643,
+        "word": "谈恋爱就跟吃泡面一样",
+        "onboard_time": 1662533605,
+        "rank": 15,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 293494,
+        "num": 293494,
+        "word": "贵阳物资",
+        "onboard_time": 1662531385,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292933,
+        "num": 292933,
+        "word": "三亚00后老板中秋扣员工50%工资代尽孝",
+        "onboard_time": 1662535586,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283377,
+        "num": 283377,
+        "word": "虞书欣又被捂嘴",
+        "onboard_time": 1662527009,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278838,
+        "num": 278838,
+        "word": "20岁小伙网恋2年不知女友是男的",
+        "onboard_time": 1662525269,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1260908,
+        "num": 278235,
+        "word": "网友统计近五年最爆艺人",
+        "onboard_time": 1662533424,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 550068,
+        "num": 277895,
+        "word": "张凌赫演我上班",
+        "onboard_time": 1662530725,
+        "rank": 21,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 277168,
+        "num": 277168,
+        "word": "母亲抱住儿子阻止好友婚闹泼酱醋",
+        "onboard_time": 1662522689,
+        "rank": 22,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 269153,
+        "num": 269153,
+        "word": "董思怡段家宝哭得好真实",
+        "onboard_time": 1662534925,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259832,
+        "num": 259832,
+        "word": "离岸人民币对美元汇率跌破6.99元",
+        "onboard_time": 1662524667,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 252695,
+        "num": 252695,
+        "word": "北京疫情防控",
+        "onboard_time": 1662533726,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252061,
+        "num": 252061,
+        "word": "民警用无人机发现两名震区幸存者",
+        "onboard_time": 1662532823,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247871,
+        "num": 247871,
+        "word": "白冰新剧三分钟打消老公出轨念头",
+        "onboard_time": 1662527428,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217009,
+        "num": 217009,
+        "word": "饿了么免单",
+        "onboard_time": 1662534986,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 204170,
+        "num": 204170,
+        "word": "残疾老人打封闭针搬货救重病外孙",
+        "onboard_time": 1662527009,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217995,
+        "num": 197721,
+        "word": "苍兰诀仙剑梦幻联动",
+        "onboard_time": 1662532107,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210638,
+        "num": 196003,
+        "word": "周杰伦最伟大的作品豆瓣7.0分",
+        "onboard_time": 1662525810,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188332,
+        "num": 188332,
+        "word": "槐店王婆大虾回收剩菜再上餐桌",
+        "onboard_time": 1662526407,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170110,
+        "num": 170110,
+        "word": "吴磊夏日晚霞库存视频",
+        "onboard_time": 1662527966,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168145,
+        "num": 168145,
+        "word": "一人一山一狗守护石刻34年",
+        "onboard_time": 1662531505,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159731,
+        "num": 159731,
+        "word": "午休趴桌子睡觉危害有多大",
+        "onboard_time": 1662536188,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158375,
+        "num": 158375,
+        "word": "五仁月饼再成广东人最爱口味",
+        "onboard_time": 1662520768,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 156947,
+        "num": 156947,
+        "word": "你有没有为冰箱拼过命",
+        "onboard_time": 1662535887,
+        "rank": 37,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 153700,
+        "num": 153700,
+        "word": "猫咪在夸奖中逐渐迷失自我",
+        "onboard_time": 1662523466,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142239,
+        "num": 142239,
+        "word": "益阳公交总公司回应乘客被踹下车",
+        "onboard_time": 1662532405,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149833,
+        "num": 141674,
+        "word": "覆流年",
+        "onboard_time": 1662536366,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139312,
+        "num": 139312,
+        "word": "青岛请救援负压救护车的市民就地静止",
+        "onboard_time": 1662536486,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137607,
+        "num": 137607,
+        "word": "严浩翔北电开学vlog",
+        "onboard_time": 1662530847,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134239,
+        "num": 134239,
+        "word": "流心奶黄月饼增速是五仁月饼7倍",
+        "onboard_time": 1662525448,
+        "rank": 43,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 128356,
+        "num": 128356,
+        "word": "原来神明也会坐公共交通",
+        "onboard_time": 1662536307,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128144,
+        "num": 128144,
+        "word": "谢谢你汶川哥哥",
+        "onboard_time": 1662526707,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122034,
+        "num": 122034,
+        "word": "女孩脱鞋掉出蟑螂吓得大哭",
+        "onboard_time": 1662518605,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120476,
+        "num": 120476,
+        "word": "更多00后选择反季节买羽绒服",
+        "onboard_time": 1662528628,
+        "rank": 47,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 119658,
+        "num": 119658,
+        "word": "姆巴佩想取代梅西C罗成世界足球先生",
+        "onboard_time": 1662521426,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116757,
+        "num": 116757,
+        "word": "赣州疫情防控",
+        "onboard_time": 1662536607,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#尽最大努力确保人民群众生命财产安全#"
+    }
+  }
+}
