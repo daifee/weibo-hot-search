@@ -1,0 +1,410 @@
+{
+  "runTime": 1662520726548,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2844245,
+        "num": 2844245,
+        "word": "国庆10月1日至7日放假调休",
+        "onboard_time": 1662508353,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1144800,
+        "num": 1144800,
+        "word": "被氢气球带走男子飘了300多公里",
+        "onboard_time": 1662514528,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83143,
+        "num": 1065997,
+        "word": "渡难关泸定安",
+        "onboard_time": 1662473673,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1013890,
+        "num": 1013890,
+        "word": "虞书欣新剧直球撩张彬彬",
+        "onboard_time": 1662516626,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 922019,
+        "num": 922019,
+        "word": "长期缺爱是如何毁掉一个人的",
+        "onboard_time": 1662515605,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 812809,
+        "num": 812809,
+        "word": "女孩脱鞋掉出蟑螂吓得大哭",
+        "onboard_time": 1662518605,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 784677,
+        "num": 784677,
+        "word": "王栎鑫给宠物猪取名allen",
+        "onboard_time": 1662514827,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 521098,
+        "num": 521098,
+        "word": "云南女子吃蘑菇遇地震头晕以为中毒",
+        "onboard_time": 1662512610,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491708,
+        "num": 491708,
+        "word": "男子连玩441小时游戏被封号",
+        "onboard_time": 1662507203,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438880,
+        "num": 438880,
+        "word": "一个人可以节俭到什么程度",
+        "onboard_time": 1662511050,
+        "rank": 9,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 506976,
+        "num": 437046,
+        "word": "苹果回应巴西禁售不带充电器iPhone",
+        "onboard_time": 1662516804,
+        "rank": 10,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 442283,
+        "num": 436295,
+        "word": "我都替井柏然尴尬的睡不着",
+        "onboard_time": 1662506422,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433617,
+        "num": 433617,
+        "word": "张译王俊凯殷桃新片带同胞回家",
+        "onboard_time": 1662518363,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 338374,
+        "num": 338374,
+        "word": "袁隆平曾拒5千美元月薪留在国内",
+        "onboard_time": 1662510449,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321994,
+        "num": 321994,
+        "word": "北京新增社会面病例现住民大附中",
+        "onboard_time": 1662515068,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315793,
+        "num": 315793,
+        "word": "成都全市餐饮外卖停业消息不实",
+        "onboard_time": 1662518785,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302878,
+        "num": 302878,
+        "word": "美国典当行老板称收到很多死亡威胁",
+        "onboard_time": 1662519147,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290163,
+        "num": 290163,
+        "word": "深圳90后房车情侣希望住进大房子",
+        "onboard_time": 1662516145,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288297,
+        "num": 288297,
+        "word": "宝宝小心翼翼用手指摸猫惨遭嫌弃",
+        "onboard_time": 1662508468,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270587,
+        "num": 270587,
+        "word": "黑龙江增179例本土无症状",
+        "onboard_time": 1662513567,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262650,
+        "num": 262650,
+        "word": "四川增本土确诊85例无症状72例",
+        "onboard_time": 1662516266,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257304,
+        "num": 257304,
+        "word": "山东新增本土确诊12例无症状80例",
+        "onboard_time": 1662518486,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253733,
+        "num": 253733,
+        "word": "特拉斯将出访乌克兰",
+        "onboard_time": 1662514049,
+        "rank": 22,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 248431,
+        "num": 248431,
+        "word": "猴痘",
+        "onboard_time": 1662467728,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247393,
+        "num": 247393,
+        "word": "百里守约碎云新皮肤",
+        "onboard_time": 1662512849,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 218452,
+        "num": 218452,
+        "word": "原来大学才是努力的开始",
+        "onboard_time": 1662481825,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217823,
+        "num": 217823,
+        "word": "华为Mate50系列预约量达245万",
+        "onboard_time": 1662511830,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 217059,
+        "num": 217059,
+        "word": "两个人的小森林首支预告",
+        "onboard_time": 1662516745,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215272,
+        "num": 215272,
+        "word": "成都市商务局辟谣全市餐饮外卖停业",
+        "onboard_time": 1662514225,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212353,
+        "num": 212353,
+        "word": "泸定地震已造成74人遇难",
+        "onboard_time": 1662519627,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205915,
+        "num": 205915,
+        "word": "白鹿讲白露",
+        "onboard_time": 1662520586,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189404,
+        "num": 189404,
+        "word": "泸定地震中的猪坚强",
+        "onboard_time": 1662515966,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185465,
+        "num": 185465,
+        "word": "妈妈网购作业被孩子反劝别乱花钱",
+        "onboard_time": 1662511349,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172088,
+        "num": 172088,
+        "word": "雅安石棉县发生4.5级地震",
+        "onboard_time": 1662519567,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162422,
+        "num": 162422,
+        "word": "美国猴痘病例超2万",
+        "onboard_time": 1662519747,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157395,
+        "num": 157395,
+        "word": "青岛新增本土确诊12例无症状26例",
+        "onboard_time": 1662519448,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154191,
+        "num": 154191,
+        "word": "蒋兰州 喜欢我是早晚的事",
+        "onboard_time": 1662510930,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149128,
+        "num": 149128,
+        "word": "AG韩信燎原一梦星元",
+        "onboard_time": 1662514225,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146698,
+        "num": 146698,
+        "word": "胡说八道真的会上瘾",
+        "onboard_time": 1662510328,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75939,
+        "num": 145392,
+        "word": "合成生物有多神奇",
+        "onboard_time": 1662519627,
+        "rank": 39,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 144274,
+        "num": 144274,
+        "word": "公交女司机从腰肌劳损到练出马甲线",
+        "onboard_time": 1662498551,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143039,
+        "num": 143039,
+        "word": "郭晓婷今年第四部剧开播",
+        "onboard_time": 1662486015,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139237,
+        "num": 139237,
+        "word": "白露",
+        "onboard_time": 1662506181,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138259,
+        "num": 138259,
+        "word": "腰肌劳损两大症状",
+        "onboard_time": 1662514885,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133427,
+        "num": 133427,
+        "word": "腾讯增持育碧股份",
+        "onboard_time": 1662520347,
+        "rank": 44,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 131531,
+        "num": 131531,
+        "word": "为什么秋天叫金秋",
+        "onboard_time": 1662511951,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131195,
+        "num": 131195,
+        "word": "网曝58同城惊现招聘卖淫信息",
+        "onboard_time": 1662475772,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127159,
+        "num": 127159,
+        "word": "成都疫情防控",
+        "onboard_time": 1662507684,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109261,
+        "num": 109261,
+        "word": "贝弗利与威少拥抱",
+        "onboard_time": 1662514647,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 780520,
+        "num": 108920,
+        "word": "90后二胎母亲未离婚与00后男友同居生子",
+        "onboard_time": 1662509129,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#尽最大努力确保人民群众生命财产安全#"
+    }
+  }
+}

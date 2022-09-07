@@ -1,6 +1,6 @@
 {
   "startTime": 1662481978498,
-  "endTime": 1662518047773,
+  "endTime": 1662520726548,
   "band_list": [
     {
       "raw_hot": 3253736,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1144800,
+      "num": 1144800,
+      "word": "被氢气球带走男子飘了300多公里",
+      "onboard_time": 1662514528,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1031823,
       "num": 1031823,
       "word": "成都上空现大片七彩云",
@@ -59,8 +67,8 @@
       "category": "自然,社会新闻"
     },
     {
-      "raw_hot": 965467,
-      "num": 965467,
+      "raw_hot": 1013890,
+      "num": 1013890,
       "word": "虞书欣新剧直球撩张彬彬",
       "onboard_time": 1662516626,
       "rank": 4,
@@ -75,6 +83,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 922019,
+      "num": 922019,
+      "word": "长期缺爱是如何毁掉一个人的",
+      "onboard_time": 1662515605,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 893242,
       "num": 583143,
       "word": "我都替井柏然尴尬的睡不着",
@@ -83,10 +99,10 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 843314,
-      "num": 843314,
-      "word": "被氢气球带走男子飘了300多公里",
-      "onboard_time": 1662514528,
+      "raw_hot": 812809,
+      "num": 812809,
+      "word": "女孩脱鞋掉出蟑螂吓得大哭",
+      "onboard_time": 1662518605,
       "rank": 5,
       "category": "社会新闻"
     },
@@ -155,14 +171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 591883,
-      "num": 591883,
-      "word": "长期缺爱是如何毁掉一个人的",
-      "onboard_time": 1662515605,
-      "rank": 9,
-      "category": "情感"
-    },
-    {
       "raw_hot": 570142,
       "num": 570142,
       "word": "袁隆平曾拒5千美元月薪留在国内",
@@ -195,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 506976,
+      "num": 437046,
+      "word": "苹果回应巴西禁售不带充电器iPhone",
+      "onboard_time": 1662516804,
+      "rank": 39,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 500898,
       "num": 500898,
       "word": "成都疫情外卖",
@@ -209,6 +225,14 @@
       "onboard_time": 1662467907,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 433617,
+      "num": 433617,
+      "word": "张译王俊凯殷桃新片带同胞回家",
+      "onboard_time": 1662518363,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 425151,
@@ -307,11 +331,27 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 315793,
+      "num": 315793,
+      "word": "成都全市餐饮外卖停业消息不实",
+      "onboard_time": 1662518785,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 312005,
       "num": 312005,
       "word": "妈妈网购作业被孩子反劝别乱花钱",
       "onboard_time": 1662511349,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302878,
+      "num": 302878,
+      "word": "美国典当行老板称收到很多死亡威胁",
+      "onboard_time": 1662519147,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -321,6 +361,14 @@
       "onboard_time": 1662462630,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 290163,
+      "num": 290163,
+      "word": "深圳90后房车情侣希望住进大房子",
+      "onboard_time": 1662516145,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 282720,
@@ -371,20 +419,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 270921,
-      "num": 270921,
-      "word": "深圳90后房车情侣希望住进大房子",
-      "onboard_time": 1662516145,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 257945,
       "num": 257945,
       "word": "南风知我意优酷预约破百万",
       "onboard_time": 1662471630,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 257304,
+      "num": 257304,
+      "word": "山东新增本土确诊12例无症状80例",
+      "onboard_time": 1662518486,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 256067,
@@ -443,6 +491,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 215272,
+      "num": 215272,
+      "word": "成都市商务局辟谣全市餐饮外卖停业",
+      "onboard_time": 1662514225,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215042,
       "num": 215042,
       "word": "北京昌平新增4例确诊1例阳性",
@@ -457,6 +513,14 @@
       "onboard_time": 1662475593,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 212353,
+      "num": 212353,
+      "word": "泸定地震已造成74人遇难",
+      "onboard_time": 1662519627,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210214,
@@ -481,6 +545,14 @@
       "onboard_time": 1662475472,
       "rank": 18,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 205915,
+      "num": 205915,
+      "word": "白鹿讲白露",
+      "onboard_time": 1662520586,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 203793,
@@ -523,20 +595,20 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 189404,
+      "num": 189404,
+      "word": "泸定地震中的猪坚强",
+      "onboard_time": 1662515966,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186467,
       "num": 186467,
       "word": "腰肌劳损两大症状",
       "onboard_time": 1662514885,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 186074,
-      "num": 186074,
-      "word": "泸定地震中的猪坚强",
-      "onboard_time": 1662515966,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 179898,
@@ -563,6 +635,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 172088,
+      "num": 172088,
+      "word": "雅安石棉县发生4.5级地震",
+      "onboard_time": 1662519567,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170003,
       "num": 170003,
       "word": "为什么形容露水是白的",
@@ -587,6 +667,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 162422,
+      "num": 162422,
+      "word": "美国猴痘病例超2万",
+      "onboard_time": 1662519747,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160482,
       "num": 160482,
       "word": "胡一天陈钰琪新剧太好笑了",
@@ -595,12 +683,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 157654,
-      "num": 157654,
-      "word": "苹果回应巴西禁售不带充电器iPhone",
-      "onboard_time": 1662516804,
-      "rank": 39,
-      "category": "科技,社会新闻"
+      "raw_hot": 157395,
+      "num": 157395,
+      "word": "青岛新增本土确诊12例无症状26例",
+      "onboard_time": 1662519448,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156391,
@@ -705,6 +793,14 @@
       "onboard_time": 1662465088,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133427,
+      "num": 133427,
+      "word": "腾讯增持育碧股份",
+      "onboard_time": 1662520347,
+      "rank": 44,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 132936,
@@ -849,6 +945,14 @@
       "onboard_time": 1662505760,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 75939,
+      "num": 145392,
+      "word": "合成生物有多神奇",
+      "onboard_time": 1662519627,
+      "rank": 39,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 21355,
