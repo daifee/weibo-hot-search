@@ -1,7 +1,15 @@
 {
   "startTime": 1662481978498,
-  "endTime": 1662507734241,
+  "endTime": 1662518047773,
   "band_list": [
+    {
+      "raw_hot": 3253736,
+      "num": 3253736,
+      "word": "国庆10月1日至7日放假调休",
+      "onboard_time": 1662508353,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1704496,
       "num": 1704496,
@@ -11,11 +19,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1227386,
+      "num": 1227386,
+      "word": "王栎鑫给宠物猪取名allen",
+      "onboard_time": 1662514827,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1171145,
       "num": 1171145,
       "word": "中科院试验站遇难女研究生家属发声",
       "onboard_time": 1662476671,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1164066,
+      "num": 1164066,
+      "word": "90后二胎母亲未离婚与00后男友同居生子",
+      "onboard_time": 1662509129,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -35,6 +59,14 @@
       "category": "自然,社会新闻"
     },
     {
+      "raw_hot": 965467,
+      "num": 965467,
+      "word": "虞书欣新剧直球撩张彬彬",
+      "onboard_time": 1662516626,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 958792,
       "num": 958792,
       "word": "原来大学才是努力的开始",
@@ -44,11 +76,19 @@
     },
     {
       "raw_hot": 893242,
-      "num": 404382,
+      "num": 583143,
       "word": "我都替井柏然尴尬的睡不着",
       "onboard_time": 1662506422,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 843314,
+      "num": 843314,
+      "word": "被氢气球带走男子飘了300多公里",
+      "onboard_time": 1662514528,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 762433,
@@ -56,6 +96,22 @@
       "word": "95后女孩送父亲30万新车",
       "onboard_time": 1662477811,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 713169,
+      "num": 713169,
+      "word": "一个人可以节俭到什么程度",
+      "onboard_time": 1662511050,
+      "rank": 6,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 708078,
+      "num": 708078,
+      "word": "云南女子吃蘑菇遇地震头晕以为中毒",
+      "onboard_time": 1662512610,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -83,11 +139,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 603161,
+      "num": 603161,
+      "word": "男子连玩441小时游戏被封号",
+      "onboard_time": 1662507203,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 601667,
       "num": 601667,
       "word": "白露",
       "onboard_time": 1662506181,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 591883,
+      "num": 591883,
+      "word": "长期缺爱是如何毁掉一个人的",
+      "onboard_time": 1662515605,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 570142,
+      "num": 570142,
+      "word": "袁隆平曾拒5千美元月薪留在国内",
+      "onboard_time": 1662510449,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -99,11 +179,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 549755,
+      "num": 549755,
+      "word": "黑龙江增179例本土无症状",
+      "onboard_time": 1662513567,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 546611,
       "num": 546611,
       "word": "32岁总裁辞掉百万年薪返乡种辣椒",
       "onboard_time": 1662471991,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 500898,
+      "num": 500898,
+      "word": "成都疫情外卖",
+      "onboard_time": 1662514225,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -115,12 +211,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 425151,
+      "num": 425151,
+      "word": "特拉斯将出访乌克兰",
+      "onboard_time": 1662514049,
+      "rank": 15,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 412078,
       "num": 412078,
       "word": "网传白鹿王鹤棣出演仙剑五前传",
       "onboard_time": 1662474391,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 409696,
+      "num": 409696,
+      "word": "泸定地震已致72人遇难",
+      "onboard_time": 1662516445,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 405911,
@@ -137,6 +249,14 @@
       "onboard_time": 1662460711,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 388014,
+      "num": 388014,
+      "word": "宝宝小心翼翼用手指摸猫惨遭嫌弃",
+      "onboard_time": 1662508468,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 378296,
@@ -163,6 +283,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 350116,
+      "num": 350116,
+      "word": "北京新增社会面病例现住民大附中",
+      "onboard_time": 1662515068,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348113,
+      "num": 348113,
+      "word": "百里守约碎云新皮肤",
+      "onboard_time": 1662512849,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 346005,
       "num": 346005,
       "word": "手机可以开通地震预警",
@@ -171,12 +307,36 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 312005,
+      "num": 312005,
+      "word": "妈妈网购作业被孩子反劝别乱花钱",
+      "onboard_time": 1662511349,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291597,
       "num": 291597,
       "word": "原来懂礼貌真的很加分",
       "onboard_time": 1662462630,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 282720,
+      "num": 282720,
+      "word": "成都疫情防控",
+      "onboard_time": 1662507684,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 282030,
+      "num": 282030,
+      "word": "四川增本土确诊85例无症状72例",
+      "onboard_time": 1662516266,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 278360,
@@ -203,6 +363,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 272785,
+      "num": 272785,
+      "word": "蒋兰州 喜欢我是早晚的事",
+      "onboard_time": 1662510930,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 270921,
+      "num": 270921,
+      "word": "深圳90后房车情侣希望住进大房子",
+      "onboard_time": 1662516145,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257945,
       "num": 257945,
       "word": "南风知我意优酷预约破百万",
@@ -211,12 +387,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 256067,
+      "num": 256067,
+      "word": "华为Mate50系列预约量达245万",
+      "onboard_time": 1662511830,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
       "raw_hot": 254124,
       "num": 254124,
       "word": "欧冠",
       "onboard_time": 1662506481,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 244473,
+      "num": 244473,
+      "word": "巴西禁售不带充电器iPhone",
+      "onboard_time": 1662507444,
+      "rank": 39,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 225321,
+      "num": 225321,
+      "word": "两个人的小森林首支预告",
+      "onboard_time": 1662516745,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 223418,
@@ -267,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208460,
+      "num": 208460,
+      "word": "AG韩信燎原一梦星元",
+      "onboard_time": 1662514225,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 207362,
       "num": 207362,
       "word": "江苏一村庄为空巢老人提供3元餐",
@@ -281,6 +489,14 @@
       "onboard_time": 1662465988,
       "rank": 19,
       "category": "美食"
+    },
+    {
+      "raw_hot": 201017,
+      "num": 201017,
+      "word": "胡说八道真的会上瘾",
+      "onboard_time": 1662510328,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 200373,
@@ -307,11 +523,19 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 185650,
-      "num": 185650,
-      "word": "男子连玩441小时游戏被封号",
-      "onboard_time": 1662507203,
-      "rank": 25,
+      "raw_hot": 186467,
+      "num": 186467,
+      "word": "腰肌劳损两大症状",
+      "onboard_time": 1662514885,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 186074,
+      "num": 186074,
+      "word": "泸定地震中的猪坚强",
+      "onboard_time": 1662515966,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -329,6 +553,14 @@
       "onboard_time": 1662468866,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179175,
+      "num": 179175,
+      "word": "柳州教育局呼吁抵制向老师变相行贿",
+      "onboard_time": 1662508353,
+      "rank": 37,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 170003,
@@ -363,6 +595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 157654,
+      "num": 157654,
+      "word": "苹果回应巴西禁售不带充电器iPhone",
+      "onboard_time": 1662516804,
+      "rank": 39,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 156391,
       "num": 156391,
       "word": "哪句话成了你低谷期的救赎",
@@ -371,12 +611,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 155865,
+      "num": 155865,
+      "word": "为什么秋天叫金秋",
+      "onboard_time": 1662511951,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155574,
       "num": 155574,
       "word": "华为Mate50没电也能打电话",
       "onboard_time": 1662458431,
       "rank": 30,
       "category": "科技"
+    },
+    {
+      "raw_hot": 155053,
+      "num": 155053,
+      "word": "北京9月6日新增14例本土确诊",
+      "onboard_time": 1662509908,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153480,
+      "num": 153480,
+      "word": "河南新增本土无症状14例",
+      "onboard_time": 1662513866,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150163,
@@ -395,12 +659,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149888,
+      "num": 149888,
+      "word": "贝弗利与威少拥抱",
+      "onboard_time": 1662514647,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136184,
       "num": 136184,
       "word": "男朋友的视力是个谜",
       "onboard_time": 1662477692,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135739,
+      "num": 135739,
+      "word": "大江大河3预告",
+      "onboard_time": 1662509671,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 135598,
@@ -428,7 +708,7 @@
     },
     {
       "raw_hot": 132936,
-      "num": 1078977,
+      "num": 1166437,
       "word": "渡难关泸定安",
       "onboard_time": 1662473673,
       "rank": 2,
@@ -457,14 +737,6 @@
       "onboard_time": 1662506242,
       "rank": 36,
       "category": "教育"
-    },
-    {
-      "raw_hot": 116132,
-      "num": 116132,
-      "word": "巴西禁售不带充电器iPhone",
-      "onboard_time": 1662507444,
-      "rank": 39,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 115984,
@@ -523,6 +795,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 99034,
+      "num": 99034,
+      "word": "趣店将削减预制菜项目投入",
+      "onboard_time": 1662518004,
+      "rank": 49,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 98242,
       "num": 98242,
       "word": "有点孝心但不多的狗子",
@@ -545,14 +825,6 @@
       "onboard_time": 1662471390,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 91643,
-      "num": 91643,
-      "word": "成都疫情防控",
-      "onboard_time": 1662507684,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 91636,

@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662507734241,
+  "endTime": 1662518047773,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -97,6 +97,14 @@
       "onboard_time": 1662364830,
       "rank": 1,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 3253736,
+      "num": 3253736,
+      "word": "国庆10月1日至7日放假调休",
+      "onboard_time": 1662508353,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3197418,
@@ -451,6 +459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1227386,
+      "num": 1227386,
+      "word": "王栎鑫给宠物猪取名allen",
+      "onboard_time": 1662514827,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1216167,
       "num": 1216167,
       "word": "黄明昊看苍兰诀吻戏reaction",
@@ -488,6 +504,14 @@
       "word": "4个月宝宝被爸爸鼾声吵到空气挥拳",
       "onboard_time": 1662305731,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1164066,
+      "num": 1164066,
+      "word": "90后二胎母亲未离婚与00后男友同居生子",
+      "onboard_time": 1662509129,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -763,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 965467,
+      "num": 965467,
+      "word": "虞书欣新剧直球撩张彬彬",
+      "onboard_time": 1662516626,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 964962,
       "num": 269587,
       "word": "网课入侵",
@@ -860,7 +892,7 @@
     },
     {
       "raw_hot": 893242,
-      "num": 404382,
+      "num": 583143,
       "word": "我都替井柏然尴尬的睡不着",
       "onboard_time": 1662506422,
       "rank": 10,
@@ -928,6 +960,14 @@
       "word": "驴友在鄱阳湖湖滩发现江豚尸体",
       "onboard_time": 1662465088,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 843314,
+      "num": 843314,
+      "word": "被氢气球带走男子飘了300多公里",
+      "onboard_time": 1662514528,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -1091,6 +1131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 713169,
+      "num": 713169,
+      "word": "一个人可以节俭到什么程度",
+      "onboard_time": 1662511050,
+      "rank": 6,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 711410,
       "num": 711410,
       "word": "微信输入法要占内存524MB",
@@ -1113,6 +1161,14 @@
       "onboard_time": 1662447688,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 708078,
+      "num": 708078,
+      "word": "云南女子吃蘑菇遇地震头晕以为中毒",
+      "onboard_time": 1662512610,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 706062,
@@ -1387,6 +1443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 603161,
+      "num": 603161,
+      "word": "男子连玩441小时游戏被封号",
+      "onboard_time": 1662507203,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 601667,
       "num": 601667,
       "word": "白露",
@@ -1401,6 +1465,14 @@
       "onboard_time": 1662343465,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 591883,
+      "num": 591883,
+      "word": "长期缺爱是如何毁掉一个人的",
+      "onboard_time": 1662515605,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 591067,
@@ -1443,6 +1515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 570142,
+      "num": 570142,
+      "word": "袁隆平曾拒5千美元月薪留在国内",
+      "onboard_time": 1662510449,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 570043,
       "num": 570043,
       "word": "周峻纬甩主持流程卡",
@@ -1456,6 +1536,14 @@
       "word": "女子还共享电车撞倒一排直接离开",
       "onboard_time": 1662432507,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 549755,
+      "num": 549755,
+      "word": "黑龙江增179例本土无症状",
+      "onboard_time": 1662513567,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -1544,6 +1632,14 @@
       "word": "7成网民失去用眼自由",
       "onboard_time": 1662359973,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 500898,
+      "num": 500898,
+      "word": "成都疫情外卖",
+      "onboard_time": 1662514225,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -1843,6 +1939,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 425151,
+      "num": 425151,
+      "word": "特拉斯将出访乌克兰",
+      "onboard_time": 1662514049,
+      "rank": 15,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 423530,
       "num": 423530,
       "word": "华为Mate50有哪些黑科技",
@@ -1905,6 +2009,14 @@
       "onboard_time": 1662424530,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 409696,
+      "num": 409696,
+      "word": "泸定地震已致72人遇难",
+      "onboard_time": 1662516445,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 407150,
@@ -2009,6 +2121,14 @@
       "onboard_time": 1662386730,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 388014,
+      "num": 388014,
+      "word": "宝宝小心翼翼用手指摸猫惨遭嫌弃",
+      "onboard_time": 1662508468,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 385532,
@@ -2209,6 +2329,22 @@
       "onboard_time": 1662390395,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 350116,
+      "num": 350116,
+      "word": "北京新增社会面病例现住民大附中",
+      "onboard_time": 1662515068,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348113,
+      "num": 348113,
+      "word": "百里守约碎云新皮肤",
+      "onboard_time": 1662512849,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 347722,
@@ -2467,6 +2603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 312005,
+      "num": 312005,
+      "word": "妈妈网购作业被孩子反劝别乱花钱",
+      "onboard_time": 1662511349,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311599,
       "num": 273407,
       "word": "胡一天陈钰琪新剧太好笑了",
@@ -2723,6 +2867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 282720,
+      "num": 282720,
+      "word": "成都疫情防控",
+      "onboard_time": 1662507684,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282699,
       "num": 282699,
       "word": "朱正廷霸王别姬舞台",
@@ -2737,6 +2889,14 @@
       "onboard_time": 1662351930,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 282030,
+      "num": 282030,
+      "word": "四川增本土确诊85例无症状72例",
+      "onboard_time": 1662516266,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 281702,
@@ -2867,6 +3027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 272785,
+      "num": 272785,
+      "word": "蒋兰州 喜欢我是早晚的事",
+      "onboard_time": 1662510930,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 272030,
       "num": 272030,
       "word": "张杰新歌",
@@ -2905,6 +3073,14 @@
       "onboard_time": 1662389973,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 270921,
+      "num": 270921,
+      "word": "深圳90后房车情侣希望住进大房子",
+      "onboard_time": 1662516145,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 270741,
@@ -3099,6 +3275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256067,
+      "num": 256067,
+      "word": "华为Mate50系列预约量达245万",
+      "onboard_time": 1662511830,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
       "raw_hot": 256060,
       "num": 256060,
       "word": "印度旋转塔从高空直线坠落",
@@ -3209,6 +3393,14 @@
       "onboard_time": 1662472291,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 244473,
+      "num": 244473,
+      "word": "巴西禁售不带充电器iPhone",
+      "onboard_time": 1662507444,
+      "rank": 39,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 244143,
@@ -3419,6 +3611,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 225321,
+      "num": 225321,
+      "word": "两个人的小森林首支预告",
+      "onboard_time": 1662516745,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 223959,
       "num": 223959,
       "word": "如何评价华为新款二合一笔记本",
@@ -3603,6 +3803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208460,
+      "num": 208460,
+      "word": "AG韩信燎原一梦星元",
+      "onboard_time": 1662514225,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 208345,
       "num": 208345,
       "word": "95后穿汉服露营赏月引围观",
@@ -3673,6 +3881,14 @@
       "onboard_time": 1662351150,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 201017,
+      "num": 201017,
+      "word": "胡说八道真的会上瘾",
+      "onboard_time": 1662510328,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 200282,
@@ -3843,6 +4059,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 186467,
+      "num": 186467,
+      "word": "腰肌劳损两大症状",
+      "onboard_time": 1662514885,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186448,
       "num": 186448,
       "word": "一个更容易打到蚊子的方法",
@@ -3859,20 +4083,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 186074,
+      "num": 186074,
+      "word": "泸定地震中的猪坚强",
+      "onboard_time": 1662515966,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186053,
       "num": 186053,
       "word": "心动的信号5第一次大约会",
       "onboard_time": 1662444626,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 185650,
-      "num": 185650,
-      "word": "男子连玩441小时游戏被封号",
-      "onboard_time": 1662507203,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 184532,
@@ -3953,6 +4177,14 @@
       "onboard_time": 1662299914,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179175,
+      "num": 179175,
+      "word": "柳州教育局呼吁抵制向老师变相行贿",
+      "onboard_time": 1662508353,
+      "rank": 37,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 178840,
@@ -4036,7 +4268,7 @@
     },
     {
       "raw_hot": 166850,
-      "num": 1081294,
+      "num": 1166437,
       "word": "渡难关泸定安",
       "onboard_time": 1662473673,
       "rank": 2,
@@ -4139,6 +4371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157654,
+      "num": 157654,
+      "word": "苹果回应巴西禁售不带充电器iPhone",
+      "onboard_time": 1662516804,
+      "rank": 39,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 157653,
       "num": 157653,
       "word": "泸定地震现场",
@@ -4163,12 +4403,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155865,
+      "num": 155865,
+      "word": "为什么秋天叫金秋",
+      "onboard_time": 1662511951,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155687,
       "num": 155687,
       "word": "陈楚生放映室",
       "onboard_time": 1662341126,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 155053,
+      "num": 155053,
+      "word": "北京9月6日新增14例本土确诊",
+      "onboard_time": 1662509908,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154926,
@@ -4195,6 +4451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 153480,
+      "num": 153480,
+      "word": "河南新增本土无症状14例",
+      "onboard_time": 1662513866,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152905,
       "num": 152905,
       "word": "辽宁新增13例确诊93例无症状",
@@ -4217,6 +4481,14 @@
       "onboard_time": 1662499150,
       "rank": 49,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 149888,
+      "num": 149888,
+      "word": "贝弗利与威少拥抱",
+      "onboard_time": 1662514647,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 149730,
@@ -4435,6 +4707,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 135739,
+      "num": 135739,
+      "word": "大江大河3预告",
+      "onboard_time": 1662509671,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 135648,
       "num": 135648,
       "word": "金珉锡将9月26日solo出道",
@@ -4555,14 +4835,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 116132,
-      "num": 116132,
-      "word": "巴西禁售不带充电器iPhone",
-      "onboard_time": 1662507444,
-      "rank": 39,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 116084,
       "num": 116084,
       "word": "北漂为了团圆有多拼",
@@ -4635,6 +4907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99034,
+      "num": 99034,
+      "word": "趣店将削减预制菜项目投入",
+      "onboard_time": 1662518004,
+      "rank": 49,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 97730,
       "num": 97730,
       "word": "车载监控拍下泸定地震瞬间",
@@ -4649,14 +4929,6 @@
       "onboard_time": 1662506422,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 91643,
-      "num": 91643,
-      "word": "成都疫情防控",
-      "onboard_time": 1662507684,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 91636,
