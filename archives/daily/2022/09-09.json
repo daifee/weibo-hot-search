@@ -1,6 +1,6 @@
 {
   "startTime": 1662654904784,
-  "endTime": 1662673175981,
+  "endTime": 1662675846471,
   "band_list": [
     {
       "raw_hot": 8812909,
@@ -27,19 +27,19 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 3069339,
+      "num": 2504917,
+      "word": "伦敦桥塌了",
+      "onboard_time": 1662661156,
+      "rank": 5,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 2977405,
       "num": 2977405,
       "word": "英媒称严重程度前所未见",
       "onboard_time": 1662644070,
       "rank": 1,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 2504917,
-      "num": 2504917,
-      "word": "伦敦桥塌了",
-      "onboard_time": 1662661156,
-      "rank": 5,
       "category": "国外要闻"
     },
     {
@@ -83,6 +83,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 970680,
+      "num": 970680,
+      "word": "英国国王声明",
+      "onboard_time": 1662661635,
+      "rank": 25,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 872998,
       "num": 872998,
       "word": "胡歌霍建华 鬼怪",
@@ -121,14 +129,6 @@
       "onboard_time": 1662640228,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 786211,
-      "num": 786211,
-      "word": "英国国王声明",
-      "onboard_time": 1662661635,
-      "rank": 25,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 753507,
@@ -467,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114012,
+      "num": 114012,
+      "word": "欧洲央行宣布加息75个基点",
+      "onboard_time": 1662671232,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 108839,
       "num": 2592799,
       "word": "泸定抗震救灾72小时",
@@ -499,6 +507,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 64477,
+      "num": 64477,
+      "word": "白冰说姐讲的不是人话是神话",
+      "onboard_time": 1662663673,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 56826,
       "num": 56826,
       "word": "卫丞金燕子确定不单纯关系",
@@ -513,22 +529,6 @@
       "onboard_time": 1662663254,
       "rank": 33,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 38575,
-      "num": 38575,
-      "word": "白冰说姐讲的不是人话是神话",
-      "onboard_time": 1662663673,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 35590,
-      "num": 35590,
-      "word": "欧洲央行宣布加息75个基点",
-      "onboard_time": 1662671232,
-      "rank": 49,
-      "category": "财经"
     }
   ],
   "hotgov_list": [
