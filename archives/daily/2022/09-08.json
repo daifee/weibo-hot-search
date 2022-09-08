@@ -1,6 +1,6 @@
 {
   "startTime": 1662568440215,
-  "endTime": 1662604247685,
+  "endTime": 1662606978597,
   "band_list": [
     {
       "raw_hot": 4450676,
@@ -32,6 +32,22 @@
       "word": "iPhone14pro",
       "onboard_time": 1662592161,
       "rank": 6,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 2280605,
+      "num": 1242429,
+      "word": "谢可寅违章停车",
+      "onboard_time": 1662603385,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2116247,
+      "num": 810276,
+      "word": "苹果发布史上最贵iPhone",
+      "onboard_time": 1662601886,
+      "rank": 9,
       "category": "科技"
     },
     {
@@ -83,28 +99,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1281729,
-      "num": 514729,
-      "word": "苹果发布史上最贵iPhone",
-      "onboard_time": 1662601886,
-      "rank": 9,
-      "category": "科技"
-    },
-    {
       "raw_hot": 1244734,
       "num": 1244734,
       "word": "成都疫情防控",
       "onboard_time": 1662559715,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1242429,
-      "num": 1242429,
-      "word": "谢可寅违章停车",
-      "onboard_time": 1662603385,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1115122,
@@ -123,12 +123,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 954644,
+      "num": 954644,
+      "word": "王守义已注册十四香商标",
+      "onboard_time": 1662603085,
+      "rank": 20,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 936870,
       "num": 1458283,
       "word": "上海五年级小学生指出数学教材错误",
       "onboard_time": 1662588553,
       "rank": 41,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 918647,
+      "num": 370937,
+      "word": "苹果一根挂绳售价98元",
+      "onboard_time": 1662604766,
+      "rank": 13,
+      "category": "科技"
     },
     {
       "raw_hot": 892829,
@@ -139,12 +155,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 891151,
+      "num": 891151,
+      "word": "7旬孤寡老人拍遗照笑得像孩子",
+      "onboard_time": 1662602788,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 743476,
       "num": 234183,
       "word": "iPhone14Pro灭霸紫",
       "onboard_time": 1662592402,
       "rank": 23,
       "category": "科技"
+    },
+    {
+      "raw_hot": 644365,
+      "num": 644365,
+      "word": "把大妈踹下公交男子被抓获",
+      "onboard_time": 1662603806,
+      "rank": 40,
+      "category": "社会负面"
     },
     {
       "raw_hot": 636905,
@@ -291,20 +323,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 368418,
-      "num": 368418,
-      "word": "7旬孤寡老人拍遗照笑得像孩子",
-      "onboard_time": 1662602788,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 368209,
       "num": 368209,
       "word": "一年级女孩入学不适应找老师抱抱",
       "onboard_time": 1662556954,
       "rank": 8,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 365623,
+      "num": 365623,
+      "word": "寻果cp",
+      "onboard_time": 1662603266,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 362854,
+      "num": 362854,
+      "word": "邱涛是卧底",
+      "onboard_time": 1662603205,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 348065,
@@ -331,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334853,
+      "num": 334853,
+      "word": "福建女生以为在兰州上学会有骆驼接",
+      "onboard_time": 1662603685,
+      "rank": 41,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 331889,
       "num": 331889,
       "word": "冰雨火大结局好虐",
@@ -339,12 +387,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 319198,
+      "num": 319198,
+      "word": "当代年轻人为什么爱养鱼",
+      "onboard_time": 1662604766,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 314827,
       "num": 314827,
       "word": "雷神4",
       "onboard_time": 1662560253,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 309100,
+      "num": 309100,
+      "word": "iPhone14比13更香吗",
+      "onboard_time": 1662605727,
+      "rank": 20,
+      "category": "科技"
     },
     {
       "raw_hot": 302066,
@@ -387,6 +451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 298007,
+      "num": 298007,
+      "word": "TWICE小分队MISAMO",
+      "onboard_time": 1662606685,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 296237,
       "num": 192653,
       "word": "a16",
@@ -403,12 +475,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 291069,
+      "num": 291069,
+      "word": "十三香",
+      "onboard_time": 1662606383,
+      "rank": 23,
+      "category": "科技"
+    },
+    {
       "raw_hot": 288123,
-      "num": 132399,
+      "num": 263187,
       "word": "iPhone14Pro正式推出息屏显示",
       "onboard_time": 1662602967,
       "rank": 45,
       "category": "科技"
+    },
+    {
+      "raw_hot": 285997,
+      "num": 285997,
+      "word": "济南一国企要买3000套房",
+      "onboard_time": 1662606327,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 271171,
@@ -417,6 +505,14 @@
       "onboard_time": 1662563193,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 270801,
+      "num": 270801,
+      "word": "两个人的小森林虞书欣特辑",
+      "onboard_time": 1662604106,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 266208,
@@ -443,14 +539,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 251965,
-      "num": 251965,
-      "word": "王守义已注册十四香商标",
-      "onboard_time": 1662603085,
-      "rank": 20,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 230352,
       "num": 230352,
       "word": "事业和爱情你会选哪个",
@@ -459,20 +547,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 229713,
+      "num": 229713,
+      "word": "槐店王婆大虾剩菜重上桌致歉",
+      "onboard_time": 1662605367,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229608,
       "num": 229608,
       "word": "印医生剖腹产时见胎儿不成熟又缝上",
       "onboard_time": 1662541344,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 229542,
-      "num": 229542,
-      "word": "邱涛是卧底",
-      "onboard_time": 1662603205,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 228980,
@@ -489,6 +577,14 @@
       "onboard_time": 1662546689,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224420,
+      "num": 224420,
+      "word": "长空之王首支正式预告",
+      "onboard_time": 1662604826,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 220750,
@@ -523,22 +619,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 202049,
-      "num": 202049,
-      "word": "两个人的小森林虞书欣特辑",
-      "onboard_time": 1662604106,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 199510,
-      "num": 199510,
-      "word": "寻果cp",
-      "onboard_time": 1662603266,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 197133,
       "num": 180703,
       "word": "iPhone14配置",
@@ -568,6 +648,30 @@
       "word": "郑州不配合烂尾楼复工房企要查税",
       "onboard_time": 1662554551,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188860,
+      "num": 188860,
+      "word": "东八区的先生们 油腻",
+      "onboard_time": 1662603566,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 185970,
+      "num": 185970,
+      "word": "你安全吗网安在线版预告",
+      "onboard_time": 1662605906,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 184336,
+      "num": 184336,
+      "word": "成都82岁咸菜婆婆捐10380元抗疫",
+      "onboard_time": 1662606086,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -651,12 +755,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 144883,
-      "num": 144883,
-      "word": "东八区的先生们 油腻",
-      "onboard_time": 1662603566,
-      "rank": 39,
-      "category": "影视"
+      "raw_hot": 146399,
+      "num": 146399,
+      "word": "当妈妈第一次看到女儿做饭",
+      "onboard_time": 1662606566,
+      "rank": 40,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 144354,
@@ -675,20 +779,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 142968,
-      "num": 142968,
-      "word": "把大妈踹下公交男子被抓获",
-      "onboard_time": 1662603806,
-      "rank": 40,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 141793,
       "num": 141793,
       "word": "贵阳花果园疫情防控",
       "onboard_time": 1662560731,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141424,
+      "num": 141424,
+      "word": "中国乒乓首发预告",
+      "onboard_time": 1662604347,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 139354,
@@ -699,12 +803,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 135515,
-      "num": 135515,
-      "word": "福建女生以为在兰州上学会有骆驼接",
-      "onboard_time": 1662603685,
-      "rank": 41,
-      "category": "教育,社会新闻"
+      "raw_hot": 139164,
+      "num": 139164,
+      "word": "张杰新歌福",
+      "onboard_time": 1662605425,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 134784,
@@ -721,6 +825,14 @@
       "onboard_time": 1662603145,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131381,
+      "num": 131381,
+      "word": "多支军队救援力量深入震区",
+      "onboard_time": 1662605007,
+      "rank": 45,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 129956,
