@@ -1,7 +1,15 @@
 {
   "startTime": 1662654904784,
-  "endTime": 1662659328613,
+  "endTime": 1662661713977,
   "band_list": [
+    {
+      "raw_hot": 8812909,
+      "num": 8812909,
+      "word": "英国女王去世",
+      "onboard_time": 1662659122,
+      "rank": 0,
+      "category": "国外要闻"
+    },
     {
       "raw_hot": 6739234,
       "num": 6739234,
@@ -11,11 +19,11 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 4157942,
-      "num": 4157942,
-      "word": "英国女王去世",
-      "onboard_time": 1662659122,
-      "rank": 0,
+      "raw_hot": 5258095,
+      "num": 5258095,
+      "word": "查尔斯成为英国国王",
+      "onboard_time": 1662659305,
+      "rank": 47,
       "category": "国外要闻"
     },
     {
@@ -48,6 +56,14 @@
       "word": "英国王室证实女王身体状况堪忧",
       "onboard_time": 1662642751,
       "rank": 7,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1104425,
+      "num": 299144,
+      "word": "英国全国哀悼期已经开始",
+      "onboard_time": 1662659962,
+      "rank": 10,
       "category": "国外要闻"
     },
     {
@@ -107,6 +123,22 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 679074,
+      "num": 679074,
+      "word": "英国女王所有子女在其身边陪伴",
+      "onboard_time": 1662644192,
+      "rank": 37,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 662543,
+      "num": 662543,
+      "word": "伦敦桥塌了",
+      "onboard_time": 1662661156,
+      "rank": 5,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 625844,
       "num": 625844,
       "word": "查尔斯王子已到女王身边",
@@ -121,14 +153,6 @@
       "onboard_time": 1662645332,
       "rank": 13,
       "category": "财经,科技"
-    },
-    {
-      "raw_hot": 486557,
-      "num": 486557,
-      "word": "英国女王所有子女在其身边陪伴",
-      "onboard_time": 1662644192,
-      "rank": 37,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 484012,
@@ -227,20 +251,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 301172,
+      "num": 301172,
+      "word": "英国首相对白金汉宫消息深感关切",
+      "onboard_time": 1662646235,
+      "rank": 47,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 295782,
       "num": 295782,
       "word": "男子送月饼十天后又回到自己手里",
       "onboard_time": 1662643049,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 276592,
-      "num": 276592,
-      "word": "英国首相对白金汉宫消息深感关切",
-      "onboard_time": 1662646235,
-      "rank": 47,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 259025,
@@ -323,6 +347,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 182295,
+      "num": 182295,
+      "word": "伊丽莎白二世在位时间最长",
+      "onboard_time": 1662660622,
+      "rank": 16,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 178306,
       "num": 178306,
       "word": "他从火光中走来",
@@ -345,14 +377,6 @@
       "onboard_time": 1662644791,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 166571,
-      "num": 64575,
-      "word": "查尔斯成为英国国王",
-      "onboard_time": 1662659305,
-      "rank": 47,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 162730,
@@ -419,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119507,
+      "num": 119507,
+      "word": "英国国王声明",
+      "onboard_time": 1662661635,
+      "rank": 25,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 116483,
       "num": 116483,
       "word": "广州暴雨",
@@ -449,6 +481,14 @@
       "onboard_time": 1662646717,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 41147,
+      "num": 41147,
+      "word": "英女王生平",
+      "onboard_time": 1662661456,
+      "rank": 48,
+      "category": "国外要闻"
     }
   ],
   "hotgov_list": [

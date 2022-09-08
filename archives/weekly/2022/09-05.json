@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662659328613,
+  "endTime": 1662661713977,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -16,6 +16,14 @@
       "word": "英国女王正处于医疗监护状态",
       "onboard_time": 1662639751,
       "rank": 4,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 8812909,
+      "num": 8812909,
+      "word": "英国女王去世",
+      "onboard_time": 1662659122,
+      "rank": 0,
       "category": "国外要闻"
     },
     {
@@ -35,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 5258095,
+      "num": 5258095,
+      "word": "查尔斯成为英国国王",
+      "onboard_time": 1662659305,
+      "rank": 47,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 4644891,
       "num": 2577959,
       "word": "四川地震",
@@ -49,14 +65,6 @@
       "onboard_time": 1662549028,
       "rank": 26,
       "category": "科技"
-    },
-    {
-      "raw_hot": 4157942,
-      "num": 4157942,
-      "word": "英国女王去世",
-      "onboard_time": 1662659122,
-      "rank": 0,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 4134109,
@@ -1243,6 +1251,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1104425,
+      "num": 299144,
+      "word": "英国全国哀悼期已经开始",
+      "onboard_time": 1662659962,
+      "rank": 10,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1099721,
       "num": 1099721,
       "word": "女孩海底捞吃火锅意外身亡",
@@ -2411,6 +2427,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 679074,
+      "num": 679074,
+      "word": "英国女王所有子女在其身边陪伴",
+      "onboard_time": 1662644192,
+      "rank": 47,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 677635,
       "num": 677635,
       "word": "方便面一定要试试这样吃",
@@ -2441,6 +2465,14 @@
       "onboard_time": 1662453868,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 662543,
+      "num": 662543,
+      "word": "伦敦桥塌了",
+      "onboard_time": 1662661156,
+      "rank": 5,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 662065,
@@ -3241,14 +3273,6 @@
       "onboard_time": 1662565229,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 486557,
-      "num": 486557,
-      "word": "英国女王所有子女在其身边陪伴",
-      "onboard_time": 1662644192,
-      "rank": 47,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 486161,
@@ -7571,6 +7595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182295,
+      "num": 182295,
+      "word": "伊丽莎白二世在位时间最长",
+      "onboard_time": 1662660622,
+      "rank": 16,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 182066,
       "num": 182066,
       "word": "00后孙女为爷爷奶奶拍青春大片",
@@ -7833,14 +7865,6 @@
       "onboard_time": 1662388598,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 166571,
-      "num": 64575,
-      "word": "查尔斯成为英国国王",
-      "onboard_time": 1662659305,
-      "rank": 47,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 166504,
@@ -8723,6 +8747,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 119507,
+      "num": 119507,
+      "word": "英国国王声明",
+      "onboard_time": 1662661635,
+      "rank": 25,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 119341,
       "num": 119341,
       "word": "扒拉熊猫是啥体验",
@@ -9105,6 +9137,14 @@
       "onboard_time": 1662585491,
       "rank": 48,
       "category": "科技"
+    },
+    {
+      "raw_hot": 41147,
+      "num": 41147,
+      "word": "英女王生平",
+      "onboard_time": 1662661456,
+      "rank": 48,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 39686,

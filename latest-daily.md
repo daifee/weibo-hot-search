@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/09 00:35:04 ~ 2022/09/09 01:48:48
+本榜单时间：2022/09/09 00:35:04 ~ 2022/09/09 02:28:33
 </p>
 </blockquote>
 <p>
@@ -15,14 +15,20 @@
 <ol>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%A5%B3%E7%8E%8B%E5%8E%BB%E4%B8%96%23" target="weibo">
+英国女王去世（热度：8812909）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%A5%B3%E7%8E%8B%E6%AD%A3%E5%A4%84%E4%BA%8E%E5%8C%BB%E7%96%97%E7%9B%91%E6%8A%A4%E7%8A%B6%E6%80%81%23" target="weibo">
 英国女王正处于医疗监护状态（热度：6739234）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%A5%B3%E7%8E%8B%E5%8E%BB%E4%B8%96%23" target="weibo">
-英国女王去世（热度：4157942）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9F%A5%E5%B0%94%E6%96%AF%E6%88%90%E4%B8%BA%E8%8B%B1%E5%9B%BD%E5%9B%BD%E7%8E%8B%23" target="weibo">
+查尔斯成为英国国王（热度：5258095）
 </a>
 </li>
 
@@ -47,6 +53,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E7%8E%8B%E5%AE%A4%E8%AF%81%E5%AE%9E%E5%A5%B3%E7%8E%8B%E8%BA%AB%E4%BD%93%E7%8A%B6%E5%86%B5%E5%A0%AA%E5%BF%A7%23" target="weibo">
 英国王室证实女王身体状况堪忧（热度：1287292）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%85%A8%E5%9B%BD%E5%93%80%E6%82%BC%E6%9C%9F%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%23" target="weibo">
+英国全国哀悼期已经开始（热度：1104425）
 </a>
 </li>
 
@@ -93,6 +105,18 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%A5%B3%E7%8E%8B%E6%89%80%E6%9C%89%E5%AD%90%E5%A5%B3%E5%9C%A8%E5%85%B6%E8%BA%AB%E8%BE%B9%E9%99%AA%E4%BC%B4%23" target="weibo">
+英国女王所有子女在其身边陪伴（热度：679074）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%A6%E6%95%A6%E6%A1%A5%E5%A1%8C%E4%BA%86%23" target="weibo">
+伦敦桥塌了（热度：662543）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%A5%E5%B0%94%E6%96%AF%E7%8E%8B%E5%AD%90%E5%B7%B2%E5%88%B0%E5%A5%B3%E7%8E%8B%E8%BA%AB%E8%BE%B9%23" target="weibo">
 查尔斯王子已到女王身边（热度：625844）
 </a>
@@ -101,12 +125,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23B%E7%AB%99%E4%BA%8C%E5%AD%A3%E5%BA%A6%E5%87%80%E4%BA%8F%E6%8D%9F20%E4%BA%BF%23" target="weibo">
 B站二季度净亏损20亿（热度：521498）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%A5%B3%E7%8E%8B%E6%89%80%E6%9C%89%E5%AD%90%E5%A5%B3%E5%9C%A8%E5%85%B6%E8%BA%AB%E8%BE%B9%E9%99%AA%E4%BC%B4%23" target="weibo">
-英国女王所有子女在其身边陪伴（热度：486557）
 </a>
 </li>
 
@@ -183,14 +201,14 @@ B站二季度净亏损20亿（热度：521498）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%80%81%E6%9C%88%E9%A5%BC%E5%8D%81%E5%A4%A9%E5%90%8E%E5%8F%88%E5%9B%9E%E5%88%B0%E8%87%AA%E5%B7%B1%E6%89%8B%E9%87%8C%23" target="weibo">
-男子送月饼十天后又回到自己手里（热度：295782）
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E5%AF%B9%E7%99%BD%E9%87%91%E6%B1%89%E5%AE%AB%E6%B6%88%E6%81%AF%E6%B7%B1%E6%84%9F%E5%85%B3%E5%88%87%23" target="weibo">
+英国首相对白金汉宫消息深感关切（热度：301172）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E5%AF%B9%E7%99%BD%E9%87%91%E6%B1%89%E5%AE%AB%E6%B6%88%E6%81%AF%E6%B7%B1%E6%84%9F%E5%85%B3%E5%88%87%23" target="weibo">
-英国首相对白金汉宫消息深感关切（热度：276592）
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%80%81%E6%9C%88%E9%A5%BC%E5%8D%81%E5%A4%A9%E5%90%8E%E5%8F%88%E5%9B%9E%E5%88%B0%E8%87%AA%E5%B7%B1%E6%89%8B%E9%87%8C%23" target="weibo">
+男子送月饼十天后又回到自己手里（热度：295782）
 </a>
 </li>
 
@@ -255,6 +273,12 @@ BBC（热度：187645）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E4%B8%BD%E8%8E%8E%E7%99%BD%E4%BA%8C%E4%B8%96%E5%9C%A8%E4%BD%8D%E6%97%B6%E9%97%B4%E6%9C%80%E9%95%BF%23" target="weibo">
+伊丽莎白二世在位时间最长（热度：182295）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BB%8E%E7%81%AB%E5%85%89%E4%B8%AD%E8%B5%B0%E6%9D%A5%23" target="weibo">
 他从火光中走来（热度：178306）
 </a>
@@ -269,12 +293,6 @@ BBC（热度：187645）
 <li>
 <a href="https://s.weibo.com/weibo?q=%233%E5%B2%81%E5%A8%83%E6%A8%A1%E4%BB%BF%E5%A4%A7%E7%99%BD%E7%BB%996%E5%8F%AA%E7%8C%AB%E5%81%9A%E6%A0%B8%E9%85%B8%23" target="weibo">
 3岁娃模仿大白给6只猫做核酸（热度：171505）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9F%A5%E5%B0%94%E6%96%AF%E6%88%90%E4%B8%BA%E8%8B%B1%E5%9B%BD%E5%9B%BD%E7%8E%8B%23" target="weibo">
-查尔斯成为英国国王（热度：166571）
 </a>
 </li>
 
@@ -327,6 +345,12 @@ BBC（热度：187645）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%9B%BD%E7%8E%8B%E5%A3%B0%E6%98%8E%23" target="weibo">
+英国国王声明（热度：119507）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%9A%B4%E9%9B%A8%23" target="weibo">
 广州暴雨（热度：116483）
 </a>
@@ -347,6 +371,12 @@ BBC（热度：187645）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B4%E5%BF%97%E6%99%9F%E5%93%AD%E4%BA%86%23" target="weibo">
 朴志晟哭了（热度：72666）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%A5%B3%E7%8E%8B%E7%94%9F%E5%B9%B3%23" target="weibo">
+英女王生平（热度：41147）
 </a>
 </li>
 
