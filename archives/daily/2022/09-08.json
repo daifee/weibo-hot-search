@@ -1,6 +1,6 @@
 {
   "startTime": 1662568440215,
-  "endTime": 1662612050465,
+  "endTime": 1662612958675,
   "band_list": [
     {
       "raw_hot": 4450676,
@@ -49,6 +49,14 @@
       "onboard_time": 1662601886,
       "rank": 9,
       "category": "科技"
+    },
+    {
+      "raw_hot": 2008327,
+      "num": 2008327,
+      "word": "Doinb升级当爸爸",
+      "onboard_time": 1662611493,
+      "rank": 11,
+      "category": "游戏"
     },
     {
       "raw_hot": 1842563,
@@ -100,11 +108,19 @@
     },
     {
       "raw_hot": 1444417,
-      "num": 794744,
+      "num": 1285199,
       "word": "谢可寅方道歉",
       "onboard_time": 1662611311,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1409520,
+      "num": 1409520,
+      "word": "四川特警救出3人得知爸爸妹妹遇难",
+      "onboard_time": 1662608127,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1404170,
@@ -115,11 +131,11 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1373564,
-      "num": 1373564,
-      "word": "四川特警救出3人得知爸爸妹妹遇难",
-      "onboard_time": 1662608127,
-      "rank": 1,
+      "raw_hot": 1382678,
+      "num": 1382678,
+      "word": "贵阳一公职人员开公车给朋友送菜",
+      "onboard_time": 1662610409,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -155,12 +171,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 971116,
+      "num": 971116,
+      "word": "密室大逃脱",
+      "onboard_time": 1662611251,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 954644,
       "num": 954644,
       "word": "王守义已注册十四香商标",
       "onboard_time": 1662603085,
       "rank": 20,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 946721,
+      "num": 372615,
+      "word": "贺峻霖中传宿舍见面会自我介绍",
+      "onboard_time": 1662612393,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 936870,
@@ -203,22 +235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 811651,
-      "num": 504446,
-      "word": "Doinb升级当爸爸",
-      "onboard_time": 1662611493,
-      "rank": 11,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 803239,
-      "num": 803239,
-      "word": "贵阳一公职人员开公车给朋友送菜",
-      "onboard_time": 1662610409,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 768451,
       "num": 768451,
       "word": "把大妈踹下公交男子被抓获",
@@ -241,6 +257,14 @@
       "onboard_time": 1662609269,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 662065,
+      "num": 346886,
+      "word": "天才小熊猫",
+      "onboard_time": 1662611072,
+      "rank": 28,
+      "category": "科技"
     },
     {
       "raw_hot": 636905,
@@ -283,6 +307,14 @@
       "category": "科技,情感"
     },
     {
+      "raw_hot": 587673,
+      "num": 331890,
+      "word": "玲娜贝儿被指中秋穿左衽丧服",
+      "onboard_time": 1662612032,
+      "rank": 49,
+      "category": "动漫,社会新闻"
+    },
+    {
       "raw_hot": 574445,
       "num": 339614,
       "word": "苹果称iPhone电力足够从早用到晚",
@@ -323,12 +355,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 519904,
-      "num": 519904,
-      "word": "密室大逃脱",
-      "onboard_time": 1662611251,
-      "rank": 8,
-      "category": "综艺"
+      "raw_hot": 520258,
+      "num": 520258,
+      "word": "当地放生协会回应大爷大妈放生矿泉水",
+      "onboard_time": 1662609210,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 510378,
@@ -363,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 468287,
+      "num": 348188,
+      "word": "iPhone14Pro正式推出息屏显示",
+      "onboard_time": 1662602967,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
       "raw_hot": 464357,
       "num": 464357,
       "word": "北京师范大学120周年校庆",
@@ -387,12 +427,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 446285,
-      "num": 348188,
-      "word": "iPhone14Pro正式推出息屏显示",
-      "onboard_time": 1662602967,
-      "rank": 45,
-      "category": "科技"
+      "raw_hot": 452780,
+      "num": 452780,
+      "word": "金泰亨韩版VOGUE10月刊封面",
+      "onboard_time": 1662612873,
+      "rank": 12,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 444125,
@@ -411,28 +451,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 427152,
-      "num": 314935,
-      "word": "天才小熊猫",
-      "onboard_time": 1662611072,
-      "rank": 28,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 425725,
-      "num": 425725,
-      "word": "当地放生协会回应大爷大妈放生矿泉水",
-      "onboard_time": 1662609210,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 414705,
-      "num": 295802,
+      "num": 305482,
       "word": "十三香",
       "onboard_time": 1662606383,
       "rank": 23,
       "category": "科技"
+    },
+    {
+      "raw_hot": 412474,
+      "num": 412474,
+      "word": "乡村小学奖给学生的猪长到300斤",
+      "onboard_time": 1662607707,
+      "rank": 23,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 401403,
+      "num": 401403,
+      "word": "管晨辰回应退役",
+      "onboard_time": 1662610049,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 400277,
@@ -441,14 +481,6 @@
       "onboard_time": 1662601228,
       "rank": 14,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 391910,
-      "num": 391910,
-      "word": "管晨辰回应退役",
-      "onboard_time": 1662610049,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 381093,
@@ -483,14 +515,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 363318,
-      "num": 363318,
-      "word": "乡村小学奖给学生的猪长到300斤",
-      "onboard_time": 1662607707,
-      "rank": 23,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 362854,
       "num": 362854,
       "word": "邱涛是卧底",
@@ -523,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 345627,
+      "num": 330328,
+      "word": "异地恋超过3年你接受吗",
+      "onboard_time": 1662610587,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 341395,
       "num": 341395,
       "word": "王晓晨新剧刚怀孕就流产",
@@ -552,14 +584,6 @@
       "word": "冰雨火大结局好虐",
       "onboard_time": 1662565229,
       "rank": 9,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 324007,
-      "num": 324007,
-      "word": "异地恋超过3年你接受吗",
-      "onboard_time": 1662610587,
-      "rank": 27,
       "category": "影视"
     },
     {
@@ -635,6 +659,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 272053,
+      "num": 272053,
+      "word": "东八区的先生们 油腻",
+      "onboard_time": 1662603566,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 271171,
       "num": 271171,
       "word": "这个弟弟是来报恩的吧",
@@ -657,6 +689,14 @@
       "onboard_time": 1662592040,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 258385,
+      "num": 258385,
+      "word": "黄景瑜说非常想进城拍戏",
+      "onboard_time": 1662611852,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 257864,
@@ -688,14 +728,6 @@
       "word": "杨戬在逃神仙",
       "onboard_time": 1662608668,
       "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 244647,
-      "num": 244647,
-      "word": "东八区的先生们 油腻",
-      "onboard_time": 1662603566,
-      "rank": 39,
       "category": "影视"
     },
     {
@@ -795,6 +827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 209196,
+      "num": 209196,
+      "word": "管晨辰获得浙江体坛最佳突破奖",
+      "onboard_time": 1662612689,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197133,
       "num": 180703,
       "word": "iPhone14配置",
@@ -809,6 +849,14 @@
       "onboard_time": 1662556469,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 195748,
+      "num": 195748,
+      "word": "高校定制月饼有多卷",
+      "onboard_time": 1662611007,
+      "rank": 46,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 195724,
@@ -859,14 +907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 177056,
-      "num": 177056,
-      "word": "黄景瑜说非常想进城拍戏",
-      "onboard_time": 1662611852,
-      "rank": 44,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 176831,
       "num": 141802,
       "word": "iPhone14 Pro Max",
@@ -875,12 +915,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 171719,
-      "num": 171719,
-      "word": "高校定制月饼有多卷",
-      "onboard_time": 1662611007,
-      "rank": 46,
-      "category": "社会新闻,教育"
+      "raw_hot": 167773,
+      "num": 167773,
+      "word": "国行版iPhone14继续使用实体SIM卡",
+      "onboard_time": 1662612873,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 165496,
@@ -993,14 +1033,6 @@
       "onboard_time": 1662605425,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 134969,
-      "num": 134969,
-      "word": "玲娜贝儿被指中秋穿左衽丧服",
-      "onboard_time": 1662612032,
-      "rank": 49,
-      "category": "动漫,社会新闻"
     },
     {
       "raw_hot": 134784,
@@ -1195,7 +1227,7 @@
       "category": "游戏,综艺"
     },
     {
-      "raw_hot": 19819,
+      "raw_hot": 22641,
       "num": 1476335,
       "word": "他们全力以赴只为泸定早日安定",
       "onboard_time": 1662539846,
