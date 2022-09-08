@@ -1,0 +1,410 @@
+{
+  "runTime": 1662644876345,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3228120,
+        "num": 3228120,
+        "word": "英国女王正处于医疗监护状态",
+        "onboard_time": 1662639751,
+        "rank": 0,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1901820,
+        "num": 1901820,
+        "word": "金世佳 鬼怪",
+        "onboard_time": 1662636090,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 86975,
+        "num": 1534071,
+        "word": "泸定抗震救灾72小时",
+        "onboard_time": 1662643169,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1380064,
+        "num": 1380064,
+        "word": "王阳 鬼怪",
+        "onboard_time": 1662643111,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1241107,
+        "num": 1241107,
+        "word": "网友建议中秋节放长假",
+        "onboard_time": 1662636269,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 973049,
+        "num": 973049,
+        "word": "英国王室成员赶赴女王住所",
+        "onboard_time": 1662641189,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 787984,
+        "num": 787984,
+        "word": "手术摘除1个肾十年后查出2个肾",
+        "onboard_time": 1662623007,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 747716,
+        "num": 747716,
+        "word": "女孩海底捞吃火锅意外身亡",
+        "onboard_time": 1662640228,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 730303,
+        "num": 730303,
+        "word": "央视网沉香如屑成毅专访",
+        "onboard_time": 1662639151,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 573231,
+        "num": 573231,
+        "word": "海底捞回应女顾客就餐时身亡",
+        "onboard_time": 1662623249,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 932566,
+        "num": 554172,
+        "word": "男子割伤狗舌头称其吓到自己小孩",
+        "onboard_time": 1662637113,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 775780,
+        "num": 549008,
+        "word": "中国运营商不支持美版iPhone14",
+        "onboard_time": 1662637169,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 474684,
+        "num": 474684,
+        "word": "湘雅医院回应专家将莲子壳诊断为肿瘤",
+        "onboard_time": 1662633991,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467585,
+        "num": 467585,
+        "word": "中国版鬼怪选角提名",
+        "onboard_time": 1662639930,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 465869,
+        "num": 465869,
+        "word": "周寻出场3分钟 齐颂30集白演",
+        "onboard_time": 1662643169,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 429905,
+        "num": 429905,
+        "word": "英国王室证实女王身体状况堪忧",
+        "onboard_time": 1662642751,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 428851,
+        "num": 428851,
+        "word": "周寻姜小果翻旧账",
+        "onboard_time": 1662643111,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 425729,
+        "num": 425729,
+        "word": "枪杀安倍嫌犯在拘留所中收到超百万日元",
+        "onboard_time": 1662630389,
+        "rank": 17,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 361977,
+        "num": 361977,
+        "word": "当代年轻人为何不想生孩子",
+        "onboard_time": 1662642270,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 350380,
+        "num": 350380,
+        "word": "男子送月饼十天后又回到自己手里",
+        "onboard_time": 1662643049,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 685526,
+        "num": 349888,
+        "word": "白鹿写的字好好看",
+        "onboard_time": 1662643350,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377679,
+        "num": 349166,
+        "word": "钟辰乐易碎感",
+        "onboard_time": 1662644369,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 348324,
+        "num": 348324,
+        "word": "好像突然就想通了",
+        "onboard_time": 1662641971,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 336641,
+        "num": 336641,
+        "word": "曝中国篮协有意归化球员",
+        "onboard_time": 1662639451,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 323125,
+        "num": 323125,
+        "word": "虞书欣带了300套衣服去小森林剧组",
+        "onboard_time": 1662619767,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 308969,
+        "num": 308969,
+        "word": "杨幂为嘉行传媒第三大股东",
+        "onboard_time": 1662626308,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301112,
+        "num": 301112,
+        "word": "英媒称严重程度前所未见",
+        "onboard_time": 1662644070,
+        "rank": 26,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 293647,
+        "num": 293647,
+        "word": "美军暂停接收F35战机",
+        "onboard_time": 1662638911,
+        "rank": 27,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 251168,
+        "num": 251168,
+        "word": "法考延期",
+        "onboard_time": 1662639028,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 244598,
+        "num": 244598,
+        "word": "没发生疫情地区要开展常态化核酸检测",
+        "onboard_time": 1662627328,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289483,
+        "num": 243964,
+        "word": "张真源的高情商发言",
+        "onboard_time": 1662643590,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 260012,
+        "num": 243365,
+        "word": "张大大是复旦研究生",
+        "onboard_time": 1662617429,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240761,
+        "num": 240761,
+        "word": "英国女王所有子女在其身边陪伴",
+        "onboard_time": 1662644192,
+        "rank": 32,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 232786,
+        "num": 232786,
+        "word": "郑州要求房企砸锅卖铁保交付",
+        "onboard_time": 1662638370,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224635,
+        "num": 224635,
+        "word": "梁爽不想当主播了",
+        "onboard_time": 1662638131,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221460,
+        "num": 221460,
+        "word": "苹果为何执着于Pro机型",
+        "onboard_time": 1662630928,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 219102,
+        "num": 219102,
+        "word": "四川1岁女童地震中颅骨凹陷被修复",
+        "onboard_time": 1662636512,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214645,
+        "num": 214645,
+        "word": "我国已婚育女性超3成存在漏尿问题",
+        "onboard_time": 1662614790,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211750,
+        "num": 211750,
+        "word": "造谣孕妇流产者被采取刑事强制措施",
+        "onboard_time": 1662641911,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208553,
+        "num": 208553,
+        "word": "HR竟疑惑应届生刚毕业在意工资",
+        "onboard_time": 1662626430,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206485,
+        "num": 206485,
+        "word": "女子偷走邻居月饼拒接电话拒归还",
+        "onboard_time": 1662643291,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206050,
+        "num": 206050,
+        "word": "101岁父亲鼓励66岁教授儿子去支教",
+        "onboard_time": 1662632009,
+        "rank": 41,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 179797,
+        "num": 179797,
+        "word": "曝知乎在用户截图中嵌入盲水印",
+        "onboard_time": 1662637590,
+        "rank": 42,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 174359,
+        "num": 174359,
+        "word": "网传赵丽颖任嘉伦主演三棵树",
+        "onboard_time": 1662631168,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173099,
+        "num": 173099,
+        "word": "居民被高空坠狗砸中不幸身亡",
+        "onboard_time": 1662626009,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171073,
+        "num": 171073,
+        "word": "死去的回忆突然袭击我",
+        "onboard_time": 1662644369,
+        "rank": 45,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 157504,
+        "num": 157504,
+        "word": "张凌赫发文告别谢危",
+        "onboard_time": 1662637891,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129980,
+        "num": 129980,
+        "word": "首批领证电竞人",
+        "onboard_time": 1662634049,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117983,
+        "num": 117983,
+        "word": "贵阳解封",
+        "onboard_time": 1662644853,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110224,
+        "num": 110224,
+        "word": "北京海淀新增4例本土感染者",
+        "onboard_time": 1662634530,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央军委举行晋升上将军衔仪式#"
+    }
+  }
+}
