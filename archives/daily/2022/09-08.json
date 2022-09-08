@@ -1,6 +1,6 @@
 {
   "startTime": 1662568440215,
-  "endTime": 1662622509858,
+  "endTime": 1662623368922,
   "band_list": [
     {
       "raw_hot": 4450676,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2410671,
+      "num": 2410671,
+      "word": "虞书欣带了300套衣服去小森林剧组",
+      "onboard_time": 1662619767,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2312452,
       "num": 485285,
       "word": "张大大是复旦研究生",
@@ -65,14 +73,6 @@
       "onboard_time": 1662603385,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2266669,
-      "num": 2266669,
-      "word": "虞书欣带了300套衣服去小森林剧组",
-      "onboard_time": 1662619767,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 2116247,
@@ -195,8 +195,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1125122,
-      "num": 1125122,
+      "raw_hot": 1218341,
+      "num": 1218341,
       "word": "大庆通报网传孕妇就医被拒流产",
       "onboard_time": 1662619225,
       "rank": 6,
@@ -291,6 +291,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 926809,
+      "num": 926809,
+      "word": "女子因闺蜜不识字扮陌生人骗她钱",
+      "onboard_time": 1662618449,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 918647,
       "num": 380818,
       "word": "苹果一根挂绳售价98元",
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 815034,
-      "num": 344223,
+      "num": 372933,
       "word": "赵露思灰色背心随拍",
       "onboard_time": 1662620788,
       "rank": 20,
@@ -353,14 +361,6 @@
       "onboard_time": 1662603806,
       "rank": 40,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 762188,
-      "num": 762188,
-      "word": "女子因闺蜜不识字扮陌生人骗她钱",
-      "onboard_time": 1662618449,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 743476,
@@ -515,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 496142,
+      "num": 496142,
+      "word": "郑州游泳馆较大坍塌事故18人被问责",
+      "onboard_time": 1662619345,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 492991,
       "num": 492991,
       "word": "TWICE小分队MISAMO",
@@ -528,14 +536,6 @@
       "word": "四川增本土确诊69例",
       "onboard_time": 1662600866,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 474792,
-      "num": 474792,
-      "word": "郑州游泳馆较大坍塌事故18人被问责",
-      "onboard_time": 1662619345,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -611,6 +611,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 417466,
+      "num": 364096,
+      "word": "如何看待iPhone14Pro灵动岛设计",
+      "onboard_time": 1662620547,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 415607,
+      "num": 415607,
+      "word": "女性不应该为漏尿感到羞耻",
+      "onboard_time": 1662619108,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 414705,
       "num": 305482,
       "word": "十三香",
@@ -625,6 +641,14 @@
       "onboard_time": 1662607707,
       "rank": 23,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 412419,
+      "num": 412419,
+      "word": "请君",
+      "onboard_time": 1662622288,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 411248,
@@ -659,20 +683,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 388477,
+      "num": 388477,
+      "word": "代放生一只甲鱼18888元",
+      "onboard_time": 1662618866,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381093,
       "num": 381093,
       "word": "当妈妈第一次看到女儿做饭",
       "onboard_time": 1662606566,
       "rank": 40,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 374444,
-      "num": 336121,
-      "word": "如何看待iPhone14Pro灵动岛设计",
-      "onboard_time": 1662620547,
-      "rank": 47,
-      "category": "科技"
     },
     {
       "raw_hot": 368939,
@@ -713,14 +737,6 @@
       "onboard_time": 1662621327,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 349860,
-      "num": 349860,
-      "word": "代放生一只甲鱼18888元",
-      "onboard_time": 1662618866,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 349100,
@@ -811,14 +827,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 306842,
-      "num": 306842,
-      "word": "女性不应该为漏尿感到羞耻",
-      "onboard_time": 1662619108,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 303954,
       "num": 303954,
       "word": "五条人唱出了哥你好里的父母爱情",
@@ -883,6 +891,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 285726,
+      "num": 285726,
+      "word": "海底捞回应女顾客就餐时身亡",
+      "onboard_time": 1662623249,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 278887,
+      "num": 278887,
+      "word": "舅舅用花生壳为外甥制灯笼",
+      "onboard_time": 1662621628,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272053,
       "num": 272053,
       "word": "东八区的先生们 油腻",
@@ -915,6 +939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 265821,
+      "num": 265821,
+      "word": "家里突然有蟑螂的原因",
+      "onboard_time": 1662620606,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 264284,
       "num": 264284,
       "word": "黄景瑜说非常想进城拍戏",
@@ -937,6 +969,14 @@
       "onboard_time": 1662615030,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 261157,
+      "num": 261157,
+      "word": "手术摘除1个肾十年后查出2个肾",
+      "onboard_time": 1662623007,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257864,
@@ -971,12 +1011,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 246277,
+      "num": 246277,
+      "word": "男孩坐飞机脚踹前座椅家长不制止",
+      "onboard_time": 1662617968,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243724,
       "num": 243724,
       "word": "勿扰飞升杀青",
       "onboard_time": 1662609867,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 242647,
+      "num": 242647,
+      "word": "华强北",
+      "onboard_time": 1662622889,
+      "rank": 33,
+      "category": "科技"
     },
     {
       "raw_hot": 242031,
@@ -987,20 +1043,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 241523,
-      "num": 241523,
-      "word": "家里突然有蟑螂的原因",
-      "onboard_time": 1662620606,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 235223,
-      "num": 235223,
-      "word": "男孩坐飞机脚踹前座椅家长不制止",
-      "onboard_time": 1662617968,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 238580,
+      "num": 238580,
+      "word": "辛纳",
+      "onboard_time": 1662621149,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 230352,
@@ -1115,14 +1163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 198634,
-      "num": 198634,
-      "word": "请君",
-      "onboard_time": 1662622288,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 197133,
       "num": 180703,
       "word": "iPhone14配置",
@@ -1163,11 +1203,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188559,
+      "num": 188559,
+      "word": "这就是古装清冷感吧",
+      "onboard_time": 1662620967,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 187453,
       "num": 187453,
       "word": "妈妈因病致残坐轮椅陪5岁儿子抗癌",
       "onboard_time": 1662617487,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186420,
+      "num": 186420,
+      "word": "服务员上菜手滑热汤洒向小孩",
+      "onboard_time": 1662622527,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -1185,22 +1241,6 @@
       "onboard_time": 1662619947,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 181159,
-      "num": 181159,
-      "word": "辛纳",
-      "onboard_time": 1662621149,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 181145,
-      "num": 181145,
-      "word": "舅舅用花生壳为外甥制灯笼",
-      "onboard_time": 1662621628,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 181078,
@@ -1225,14 +1265,6 @@
       "onboard_time": 1662555390,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176070,
-      "num": 176070,
-      "word": "这就是古装清冷感吧",
-      "onboard_time": 1662620967,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 169754,
@@ -1329,6 +1361,14 @@
       "onboard_time": 1662563730,
       "rank": 26,
       "category": "科技"
+    },
+    {
+      "raw_hot": 147729,
+      "num": 147729,
+      "word": "光遇炸服",
+      "onboard_time": 1662622827,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 146688,
@@ -1620,6 +1660,9 @@
     },
     {
       "word": "#打卡中国#"
+    },
+    {
+      "word": "#向全国广大教师致以节日的祝福#"
     }
   ]
 }
