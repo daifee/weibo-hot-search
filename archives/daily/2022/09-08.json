@@ -1,6 +1,6 @@
 {
   "startTime": 1662568440215,
-  "endTime": 1662623368922,
+  "endTime": 1662625715879,
   "band_list": [
     {
       "raw_hot": 4450676,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2168275,
+      "num": 2168275,
+      "word": "海底捞回应女顾客就餐时身亡",
+      "onboard_time": 1662623249,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2116247,
       "num": 810276,
       "word": "苹果发布史上最贵iPhone",
@@ -105,6 +113,14 @@
       "onboard_time": 1662563253,
       "rank": 3,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1710372,
+      "num": 1710372,
+      "word": "手术摘除1个肾十年后查出2个肾",
+      "onboard_time": 1662623007,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1695904,
@@ -363,6 +379,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 746240,
+      "num": 372860,
+      "word": "华强北",
+      "onboard_time": 1662622889,
+      "rank": 33,
+      "category": "科技"
+    },
+    {
       "raw_hot": 743476,
       "num": 234183,
       "word": "iPhone14Pro灭霸紫",
@@ -507,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 506262,
+      "num": 506262,
+      "word": "如果鬼怪让黄渤来演",
+      "onboard_time": 1662624987,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 498988,
       "num": 498988,
       "word": "杭州一男子地铁内跪地学狗叫",
@@ -544,6 +576,14 @@
       "word": "iPhone14Pro正式推出息屏显示",
       "onboard_time": 1662602967,
       "rank": 45,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 465615,
+      "num": 367061,
+      "word": "如何看待iPhone14Pro灵动岛设计",
+      "onboard_time": 1662620547,
+      "rank": 47,
       "category": "科技"
     },
     {
@@ -611,14 +651,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 417466,
-      "num": 364096,
-      "word": "如何看待iPhone14Pro灵动岛设计",
-      "onboard_time": 1662620547,
-      "rank": 47,
-      "category": "科技"
-    },
-    {
       "raw_hot": 415607,
       "num": 415607,
       "word": "女性不应该为漏尿感到羞耻",
@@ -667,12 +699,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 408206,
+      "num": 145859,
+      "word": "时代少年团内卷方式是pk俯卧撑",
+      "onboard_time": 1662625707,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 401403,
       "num": 401403,
       "word": "管晨辰回应退役",
       "onboard_time": 1662610049,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 401186,
+      "num": 366459,
+      "word": "明天下午北京预计15时开堵",
+      "onboard_time": 1662624028,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 400277,
@@ -697,6 +745,14 @@
       "onboard_time": 1662606566,
       "rank": 40,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 377347,
+      "num": 377347,
+      "word": "舅舅用花生壳为外甥制灯笼",
+      "onboard_time": 1662621628,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 368939,
@@ -755,6 +811,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 346705,
+      "num": 329665,
+      "word": "王鹤棣浮图缘打戏路透",
+      "onboard_time": 1662623787,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 345723,
       "num": 345723,
       "word": "当代年轻人为什么爱养鱼",
@@ -793,6 +857,22 @@
       "onboard_time": 1662565229,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 330673,
+      "num": 330673,
+      "word": "服务员上菜手滑热汤洒向小孩",
+      "onboard_time": 1662622527,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 325125,
+      "num": 325125,
+      "word": "苹果学生优惠无法加钱买AirPodsPro",
+      "onboard_time": 1662624688,
+      "rank": 23,
+      "category": "科技"
     },
     {
       "raw_hot": 318542,
@@ -891,22 +971,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 285726,
-      "num": 285726,
-      "word": "海底捞回应女顾客就餐时身亡",
-      "onboard_time": 1662623249,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 278887,
-      "num": 278887,
-      "word": "舅舅用花生壳为外甥制灯笼",
-      "onboard_time": 1662621628,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 272053,
       "num": 272053,
       "word": "东八区的先生们 油腻",
@@ -929,6 +993,14 @@
       "onboard_time": 1662604106,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 270178,
+      "num": 238821,
+      "word": "罗永浩硬赞苹果灵动岛",
+      "onboard_time": 1662624390,
+      "rank": 31,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 266208,
@@ -969,14 +1041,6 @@
       "onboard_time": 1662615030,
       "rank": 26,
       "category": "教育"
-    },
-    {
-      "raw_hot": 261157,
-      "num": 261157,
-      "word": "手术摘除1个肾十年后查出2个肾",
-      "onboard_time": 1662623007,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 257864,
@@ -1027,14 +1091,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 242647,
-      "num": 242647,
-      "word": "华强北",
-      "onboard_time": 1662622889,
-      "rank": 33,
-      "category": "科技"
-    },
-    {
       "raw_hot": 242031,
       "num": 242031,
       "word": "NCTDREAM蚕室单独演唱会",
@@ -1049,6 +1105,14 @@
       "onboard_time": 1662621149,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 233291,
+      "num": 233291,
+      "word": "周寻 白月光",
+      "onboard_time": 1662624806,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 230352,
@@ -1219,11 +1283,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 186420,
-      "num": 186420,
-      "word": "服务员上菜手滑热汤洒向小孩",
-      "onboard_time": 1662622527,
-      "rank": 42,
+      "raw_hot": 186090,
+      "num": 186090,
+      "word": "中秋国庆飞机高铁需48小时核酸证明",
+      "onboard_time": 1662624626,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1307,6 +1371,22 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 162774,
+      "num": 162774,
+      "word": "中秋节出行防疫新规定",
+      "onboard_time": 1662624688,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162330,
+      "num": 162330,
+      "word": "张彬彬把金丝眼镜焊在脸上吧",
+      "onboard_time": 1662624987,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 154541,
       "num": 154541,
       "word": "多支军队救援力量深入震区",
@@ -1321,6 +1401,14 @@
       "onboard_time": 1662595767,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152851,
+      "num": 152851,
+      "word": "杭州95后外国小伙吃螺蛳粉成专家",
+      "onboard_time": 1662625528,
+      "rank": 44,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 152588,
@@ -1433,6 +1521,14 @@
       "onboard_time": 1662605425,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 136704,
+      "num": 136704,
+      "word": "这是最值得信赖的肩膀",
+      "onboard_time": 1662625047,
+      "rank": 48,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 134784,
@@ -1593,6 +1689,14 @@
       "onboard_time": 1662551366,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 83150,
+      "num": 1770417,
+      "word": "泸定生生不息的12个瞬间",
+      "onboard_time": 1662623428,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74116,
