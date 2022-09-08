@@ -1,6 +1,6 @@
 {
   "startTime": 1662654904784,
-  "endTime": 1662662890760,
+  "endTime": 1662664828063,
   "band_list": [
     {
       "raw_hot": 8812909,
@@ -35,8 +35,8 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 2306011,
-      "num": 2306011,
+      "raw_hot": 2504917,
+      "num": 2504917,
       "word": "伦敦桥塌了",
       "onboard_time": 1662661156,
       "rank": 5,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 786211,
+      "num": 786211,
+      "word": "英国国王声明",
+      "onboard_time": 1662661635,
+      "rank": 25,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 753507,
       "num": 753507,
       "word": "特拉斯",
@@ -144,14 +152,6 @@
       "word": "查尔斯王子已到女王身边",
       "onboard_time": 1662649598,
       "rank": 10,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 529642,
-      "num": 220809,
-      "word": "英国国王声明",
-      "onboard_time": 1662661635,
-      "rank": 25,
       "category": "国外要闻"
     },
     {
@@ -395,6 +395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 160006,
+      "num": 160006,
+      "word": "见证历史",
+      "onboard_time": 1662662476,
+      "rank": 23,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 156288,
       "num": 156288,
       "word": "昆明乘坐地铁公交等须持48小时核酸报告",
@@ -467,6 +475,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 107345,
+      "num": 95553,
+      "word": "英女王生平",
+      "onboard_time": 1662661456,
+      "rank": 48,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 104835,
       "num": 104835,
       "word": "网友建议中秋节放长假",
@@ -475,28 +491,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 100257,
-      "num": 100257,
-      "word": "见证历史",
-      "onboard_time": 1662662476,
-      "rank": 23,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 95553,
-      "num": 95553,
-      "word": "英女王生平",
-      "onboard_time": 1662661456,
-      "rank": 48,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 72666,
       "num": 72666,
       "word": "朴志晟哭了",
       "onboard_time": 1662646717,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 41314,
+      "num": 41314,
+      "word": "联合国秘书长致哀",
+      "onboard_time": 1662663254,
+      "rank": 33,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 32941,
+      "num": 32941,
+      "word": "白冰说姐讲的不是人话是神话",
+      "onboard_time": 1662663673,
+      "rank": 44,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
