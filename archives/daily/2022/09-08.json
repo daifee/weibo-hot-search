@@ -1,6 +1,6 @@
 {
   "startTime": 1662568440215,
-  "endTime": 1662625715879,
+  "endTime": 1662626788551,
   "band_list": [
     {
       "raw_hot": 4450676,
@@ -43,6 +43,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 2566713,
+      "num": 2566713,
+      "word": "海底捞回应女顾客就餐时身亡",
+      "onboard_time": 1662623249,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2553346,
       "num": 498948,
       "word": "网传杨幂即将离开嘉行",
@@ -75,20 +83,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2168275,
-      "num": 2168275,
-      "word": "海底捞回应女顾客就餐时身亡",
-      "onboard_time": 1662623249,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 2116247,
       "num": 810276,
       "word": "苹果发布史上最贵iPhone",
       "onboard_time": 1662601886,
       "rank": 9,
       "category": "科技"
+    },
+    {
+      "raw_hot": 2033616,
+      "num": 2033616,
+      "word": "手术摘除1个肾十年后查出2个肾",
+      "onboard_time": 1662623007,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2008327,
@@ -115,14 +123,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1710372,
-      "num": 1710372,
-      "word": "手术摘除1个肾十年后查出2个肾",
-      "onboard_time": 1662623007,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1695904,
       "num": 1695904,
       "word": "济南一国企要买3000套房",
@@ -137,6 +137,14 @@
       "onboard_time": 1662574094,
       "rank": 1,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1618038,
+      "num": 454534,
+      "word": "杨幂为嘉行传媒第三大股东",
+      "onboard_time": 1662626308,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1565414,
@@ -380,7 +388,7 @@
     },
     {
       "raw_hot": 746240,
-      "num": 372860,
+      "num": 442534,
       "word": "华强北",
       "onboard_time": 1662622889,
       "rank": 33,
@@ -401,6 +409,14 @@
       "onboard_time": 1662609269,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 722407,
+      "num": 722407,
+      "word": "如果鬼怪让黄渤来演",
+      "onboard_time": 1662624987,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 662065,
@@ -443,6 +459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 599307,
+      "num": 410856,
+      "word": "苹果学生优惠无法加钱买AirPodsPro",
+      "onboard_time": 1662624688,
+      "rank": 23,
+      "category": "科技"
+    },
+    {
       "raw_hot": 597754,
       "num": 597754,
       "word": "刘畊宏vivi中餐厅好甜",
@@ -481,6 +505,14 @@
       "onboard_time": 1662616587,
       "rank": 38,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 560715,
+      "num": 433051,
+      "word": "任嘉伦李沁请君红衣婚服造型",
+      "onboard_time": 1662626366,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 541664,
@@ -531,12 +563,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 506262,
-      "num": 506262,
-      "word": "如果鬼怪让黄渤来演",
-      "onboard_time": 1662624987,
-      "rank": 8,
-      "category": "影视"
+      "raw_hot": 500290,
+      "num": 500290,
+      "word": "明天下午北京预计15时开堵",
+      "onboard_time": 1662624028,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 498988,
@@ -700,11 +732,19 @@
     },
     {
       "raw_hot": 408206,
-      "num": 145859,
+      "num": 297618,
       "word": "时代少年团内卷方式是pk俯卧撑",
       "onboard_time": 1662625707,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 406520,
+      "num": 406520,
+      "word": "舅舅用花生壳为外甥制灯笼",
+      "onboard_time": 1662621628,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 401403,
@@ -713,14 +753,6 @@
       "onboard_time": 1662610049,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 401186,
-      "num": 366459,
-      "word": "明天下午北京预计15时开堵",
-      "onboard_time": 1662624028,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 400277,
@@ -747,11 +779,11 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 377347,
-      "num": 377347,
-      "word": "舅舅用花生壳为外甥制灯笼",
-      "onboard_time": 1662621628,
-      "rank": 39,
+      "raw_hot": 379397,
+      "num": 379397,
+      "word": "服务员上菜手滑热汤洒向小孩",
+      "onboard_time": 1662622527,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -859,20 +891,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 330673,
-      "num": 330673,
-      "word": "服务员上菜手滑热汤洒向小孩",
-      "onboard_time": 1662622527,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 325125,
-      "num": 325125,
-      "word": "苹果学生优惠无法加钱买AirPodsPro",
-      "onboard_time": 1662624688,
-      "rank": 23,
-      "category": "科技"
+      "raw_hot": 327490,
+      "num": 295926,
+      "word": "罗永浩硬赞苹果灵动岛",
+      "onboard_time": 1662624390,
+      "rank": 31,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 318542,
@@ -907,6 +931,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 311463,
+      "num": 233291,
+      "word": "周寻 白月光",
+      "onboard_time": 1662624806,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 309544,
+      "num": 232891,
+      "word": "宁安如梦",
+      "onboard_time": 1662625948,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 303954,
       "num": 303954,
       "word": "五条人唱出了哥你好里的父母爱情",
@@ -920,6 +960,14 @@
       "word": "宜宾疫情防控",
       "onboard_time": 1662564333,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301471,
+      "num": 301471,
+      "word": "中秋国庆飞机高铁需48小时核酸证明",
+      "onboard_time": 1662624626,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -963,6 +1011,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 294677,
+      "num": 294677,
+      "word": "居民被高空坠狗砸中不幸身亡",
+      "onboard_time": 1662626009,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293196,
       "num": 293196,
       "word": "库克称期待闪耀的苹果发布会",
@@ -993,14 +1049,6 @@
       "onboard_time": 1662604106,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 270178,
-      "num": 238821,
-      "word": "罗永浩硬赞苹果灵动岛",
-      "onboard_time": 1662624390,
-      "rank": 31,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 266208,
@@ -1107,14 +1155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 233291,
-      "num": 233291,
-      "word": "周寻 白月光",
-      "onboard_time": 1662624806,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 230352,
       "num": 230352,
       "word": "事业和爱情你会选哪个",
@@ -1211,6 +1251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206700,
+      "num": 206700,
+      "word": "HR竟疑惑应届生刚毕业在意工资",
+      "onboard_time": 1662626430,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203881,
       "num": 203881,
       "word": "中国乒乓如何重回巅峰",
@@ -1241,6 +1289,14 @@
       "onboard_time": 1662556469,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 195767,
+      "num": 195767,
+      "word": "杭州95后外国小伙吃螺蛳粉成专家",
+      "onboard_time": 1662625528,
+      "rank": 44,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 195724,
@@ -1280,14 +1336,6 @@
       "word": "妈妈因病致残坐轮椅陪5岁儿子抗癌",
       "onboard_time": 1662617487,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 186090,
-      "num": 186090,
-      "word": "中秋国庆飞机高铁需48小时核酸证明",
-      "onboard_time": 1662624626,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1403,14 +1451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 152851,
-      "num": 152851,
-      "word": "杭州95后外国小伙吃螺蛳粉成专家",
-      "onboard_time": 1662625528,
-      "rank": 44,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 152588,
       "num": 152588,
       "word": "两位奶奶直升机上紧握消防员的手",
@@ -1499,6 +1539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141571,
+      "num": 141571,
+      "word": "如何从头像看出一个人性格",
+      "onboard_time": 1662626550,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 141424,
       "num": 141424,
       "word": "中国乒乓首发预告",
@@ -1521,6 +1569,14 @@
       "onboard_time": 1662605425,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 139127,
+      "num": 139127,
+      "word": "明日方舟",
+      "onboard_time": 1662626186,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 136704,
@@ -1585,6 +1641,14 @@
       "onboard_time": 1662593724,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 126383,
+      "num": 126383,
+      "word": "倡导广大群众国庆假期在本地过节",
+      "onboard_time": 1662625770,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125830,
