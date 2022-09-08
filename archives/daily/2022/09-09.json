@@ -1,6 +1,6 @@
 {
   "startTime": 1662654904784,
-  "endTime": 1662664828063,
+  "endTime": 1662665756658,
   "band_list": [
     {
       "raw_hot": 8812909,
@@ -387,20 +387,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165717,
+      "num": 160006,
+      "word": "见证历史",
+      "onboard_time": 1662662476,
+      "rank": 23,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 162730,
       "num": 137397,
       "word": "邢菲回复网友好真诚",
       "onboard_time": 1662646291,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 160006,
-      "num": 160006,
-      "word": "见证历史",
-      "onboard_time": 1662662476,
-      "rank": 23,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 156288,
@@ -476,7 +476,7 @@
     },
     {
       "raw_hot": 107345,
-      "num": 95553,
+      "num": 96298,
       "word": "英女王生平",
       "onboard_time": 1662661456,
       "rank": 48,
@@ -499,8 +499,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 41314,
-      "num": 41314,
+      "raw_hot": 50225,
+      "num": 50225,
       "word": "联合国秘书长致哀",
       "onboard_time": 1662663254,
       "rank": 33,

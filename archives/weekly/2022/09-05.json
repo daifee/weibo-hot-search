@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662664828063,
+  "endTime": 1662665756658,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -7883,6 +7883,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 165717,
+      "num": 160006,
+      "word": "见证历史",
+      "onboard_time": 1662662476,
+      "rank": 23,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 165511,
       "num": 165511,
       "word": "Uzi解说",
@@ -8009,14 +8017,6 @@
       "onboard_time": 1662637410,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 160006,
-      "num": 160006,
-      "word": "见证历史",
-      "onboard_time": 1662662476,
-      "rank": 23,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 159953,
@@ -8884,7 +8884,7 @@
     },
     {
       "raw_hot": 107345,
-      "num": 95553,
+      "num": 96298,
       "word": "英女王生平",
       "onboard_time": 1662661456,
       "rank": 48,
@@ -9115,6 +9115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 50225,
+      "num": 50225,
+      "word": "联合国秘书长致哀",
+      "onboard_time": 1662663254,
+      "rank": 33,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 49895,
       "num": 543184,
       "word": "救火英雄驰援泸定",
@@ -9153,14 +9161,6 @@
       "onboard_time": 1662585491,
       "rank": 48,
       "category": "科技"
-    },
-    {
-      "raw_hot": 41314,
-      "num": 41314,
-      "word": "联合国秘书长致哀",
-      "onboard_time": 1662663254,
-      "rank": 33,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 39686,

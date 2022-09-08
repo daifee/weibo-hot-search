@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/05 00:29:45 ~ 2022/09/09 03:20:28
+本榜单时间：2022/09/05 00:29:45 ~ 2022/09/09 03:35:56
 </p>
 </blockquote>
 <p>
@@ -5925,6 +5925,12 @@ LOL手游新版本预告（热度：178840）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A7%81%E8%AF%81%E5%8E%86%E5%8F%B2%23" target="weibo">
+见证历史（热度：165717）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Uzi%E8%A7%A3%E8%AF%B4%23" target="weibo">
 Uzi解说（热度：165511）
 </a>
@@ -6017,12 +6023,6 @@ Uzi解说（热度：165511）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%88%B7%E6%B3%A1%E8%84%9A%E6%B2%BB%E7%96%97%E9%9D%99%E8%84%89%E6%9B%B2%E5%BC%A0%E8%87%B4%E5%8F%8C%E8%85%BF%E4%B9%8C%E9%BB%91%23" target="weibo">
 大爷泡脚治疗静脉曲张致双腿乌黑（热度：160731）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A7%81%E8%AF%81%E5%8E%86%E5%8F%B2%23" target="weibo">
-见证历史（热度：160006）
 </a>
 </li>
 
@@ -6849,6 +6849,12 @@ NH金色的雨（热度：74151）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%98%E4%B9%A6%E9%95%BF%E8%87%B4%E5%93%80%23" target="weibo">
+联合国秘书长致哀（热度：50225）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%91%E7%81%AB%E8%8B%B1%E9%9B%84%E9%A9%B0%E6%8F%B4%E6%B3%B8%E5%AE%9A%23" target="weibo">
 救火英雄驰援泸定（热度：49895）
 </a>
@@ -6875,12 +6881,6 @@ NH金色的雨（热度：74151）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E6%8F%AD%E7%A4%BA%E7%A0%B4%E7%A2%8E%E7%9A%84%E5%BF%83%E5%A6%82%E4%BD%95%E5%A4%8D%E5%8E%9F%23" target="weibo">
 研究揭示破碎的心如何复原（热度：44464）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%98%E4%B9%A6%E9%95%BF%E8%87%B4%E5%93%80%23" target="weibo">
-联合国秘书长致哀（热度：41314）
 </a>
 </li>
 
