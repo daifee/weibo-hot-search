@@ -1,10 +1,10 @@
 {
   "startTime": 1662568440215,
-  "endTime": 1662647781638,
+  "endTime": 1662650740567,
   "band_list": [
     {
-      "raw_hot": 4814265,
-      "num": 5628531,
+      "raw_hot": 12853423,
+      "num": 13767357,
       "word": "英国女王正处于医疗监护状态",
       "onboard_time": 1662639751,
       "rank": 4,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2550101,
+      "num": 2550101,
+      "word": "英媒称严重程度前所未见",
+      "onboard_time": 1662644070,
+      "rank": 38,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 2410671,
       "num": 2410671,
       "word": "虞书欣带了300套衣服去小森林剧组",
@@ -147,20 +155,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1882110,
+      "num": 1882110,
+      "word": "胡歌霍建华 鬼怪",
+      "onboard_time": 1662645515,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1842563,
       "num": 298357,
       "word": "iPhone14Pro灵动岛",
       "onboard_time": 1662592343,
       "rank": 10,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1737072,
-      "num": 1737072,
-      "word": "胡歌霍建华 鬼怪",
-      "onboard_time": 1662645515,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 1722666,
@@ -219,14 +227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1555239,
-      "num": 1555239,
-      "word": "英媒称严重程度前所未见",
-      "onboard_time": 1662644070,
-      "rank": 38,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 1551585,
       "num": 1551585,
       "word": "黄渤回应如果鬼怪让黄渤来演",
@@ -257,6 +257,14 @@
       "onboard_time": 1662600686,
       "rank": 0,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1454079,
+      "num": 1454079,
+      "word": "英国BBC主播穿全黑西装带黑领带",
+      "onboard_time": 1662649001,
+      "rank": 4,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1444417,
@@ -304,6 +312,14 @@
       "word": "贵阳一公职人员开公车给朋友送菜",
       "onboard_time": 1662610409,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1337012,
+      "num": 927298,
+      "word": "乌鲁木齐疫情防控",
+      "onboard_time": 1662647436,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -355,6 +371,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1099721,
+      "num": 1099721,
+      "word": "女孩海底捞吃火锅意外身亡",
+      "onboard_time": 1662640228,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1094390,
       "num": 1094390,
       "word": "湘雅医院回应专家将莲子壳诊断为肿瘤",
@@ -377,14 +401,6 @@
       "onboard_time": 1662610227,
       "rank": 10,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1071395,
-      "num": 1071395,
-      "word": "女孩海底捞吃火锅意外身亡",
-      "onboard_time": 1662640228,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1070956,
@@ -488,6 +504,14 @@
       "word": "如果鬼怪让黄渤来演",
       "onboard_time": 1662624987,
       "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 940334,
+      "num": 940334,
+      "word": "邓家佳华鼎奖最佳女主角",
+      "onboard_time": 1662648881,
+      "rank": 9,
       "category": "影视"
     },
     {
@@ -595,8 +619,16 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 764299,
+      "num": 764299,
+      "word": "英国BBC中断原本节目",
+      "onboard_time": 1662648701,
+      "rank": 13,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 761676,
-      "num": 425826,
+      "num": 434778,
       "word": "白鹿写的字好好看",
       "onboard_time": 1662643350,
       "rank": 20,
@@ -683,6 +715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 627179,
+      "num": 627179,
+      "word": "特拉斯",
+      "onboard_time": 1662649363,
+      "rank": 15,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 615240,
       "num": 615240,
       "word": "妹妹哭泣大班哥哥跑教室喂饭",
@@ -763,6 +803,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 545799,
+      "num": 545799,
+      "word": "BBC",
+      "onboard_time": 1662649540,
+      "rank": 16,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 541664,
       "num": 541664,
       "word": "贵阳筛查到301例阳性感染者",
@@ -809,6 +857,14 @@
       "onboard_time": 1662607346,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 500639,
+      "num": 433090,
+      "word": "易烊千玺期待昭华跟大家见面",
+      "onboard_time": 1662650200,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 498988,
@@ -947,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 443633,
+      "num": 443633,
+      "word": "英国女王所有子女在其身边陪伴",
+      "onboard_time": 1662644192,
+      "rank": 47,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 438824,
       "num": 252153,
       "word": "王鹤棣冷帽造型饭拍",
@@ -955,12 +1019,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 438062,
+      "num": 438062,
+      "word": "英国首相对白金汉宫消息深感关切",
+      "onboard_time": 1662646235,
+      "rank": 45,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 431866,
       "num": 431866,
       "word": "异地恋超过3年你接受吗",
       "onboard_time": 1662610587,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 426793,
+      "num": 426793,
+      "word": "成都抗疫蔬菜包发火锅底料",
+      "onboard_time": 1662647676,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 426258,
@@ -993,14 +1073,6 @@
       "onboard_time": 1662627388,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 417928,
-      "num": 417928,
-      "word": "乌鲁木齐疫情防控",
-      "onboard_time": 1662647436,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 415607,
@@ -1099,6 +1171,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 399274,
+      "num": 399274,
+      "word": "查尔斯王子已到女王身边",
+      "onboard_time": 1662649598,
+      "rank": 25,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 392774,
       "num": 380726,
       "word": "苹果为何执着于Pro机型",
@@ -1113,6 +1193,14 @@
       "onboard_time": 1662618866,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 387279,
+      "num": 291645,
+      "word": "邢菲回复网友好真诚",
+      "onboard_time": 1662646291,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 385192,
@@ -1177,6 +1265,14 @@
       "onboard_time": 1662556954,
       "rank": 8,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 367390,
+      "num": 289238,
+      "word": "他从火光中走来",
+      "onboard_time": 1662646535,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 367107,
@@ -1291,14 +1387,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 340604,
-      "num": 286069,
-      "word": "他从火光中走来",
-      "onboard_time": 1662646535,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 339322,
       "num": 339322,
       "word": "狗狗每天迎接主人回家精准找车位",
@@ -1331,12 +1419,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 330904,
-      "num": 281591,
-      "word": "邢菲回复网友好真诚",
-      "onboard_time": 1662646291,
-      "rank": 31,
-      "category": "影视"
+      "raw_hot": 321116,
+      "num": 321116,
+      "word": "3岁娃模仿大白给6只猫做核酸",
+      "onboard_time": 1662644791,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 318542,
@@ -1369,14 +1457,6 @@
       "onboard_time": 1662616468,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 312824,
-      "num": 312824,
-      "word": "英国女王所有子女在其身边陪伴",
-      "onboard_time": 1662644192,
-      "rank": 47,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 311463,
@@ -1515,14 +1595,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 271920,
-      "num": 271920,
-      "word": "3岁娃模仿大白给6只猫做核酸",
-      "onboard_time": 1662644791,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 271171,
       "num": 271171,
       "word": "这个弟弟是来报恩的吧",
@@ -1561,6 +1633,14 @@
       "onboard_time": 1662620606,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 265743,
+      "num": 265743,
+      "word": "远嫁闺女送礼被母亲退回",
+      "onboard_time": 1662647373,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 264284,
@@ -1635,6 +1715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 247135,
+      "num": 241917,
+      "word": "李莎旻子说和0713一起就业了",
+      "onboard_time": 1662648458,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246277,
       "num": 246277,
       "word": "男孩坐飞机脚踹前座椅家长不制止",
@@ -1667,12 +1755,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 242400,
+      "num": 242400,
+      "word": "苏格兰和威尔士第一部长表态",
+      "onboard_time": 1662649418,
+      "rank": 39,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 242031,
       "num": 242031,
       "word": "NCTDREAM蚕室单独演唱会",
       "onboard_time": 1662611311,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 240983,
+      "num": 240983,
+      "word": "广州暴雨",
+      "onboard_time": 1662647553,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238580,
@@ -2003,6 +2107,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 166820,
+      "num": 2058521,
+      "word": "泸定抗震救灾72小时",
+      "onboard_time": 1662643169,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 165496,
       "num": 165496,
       "word": "武警赶路背上宝宝淡定喝奶",
@@ -2051,6 +2163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160644,
+      "num": 160644,
+      "word": "特朗普前政治顾问班农自首",
+      "onboard_time": 1662650440,
+      "rank": 45,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 158093,
       "num": 140865,
       "word": "冰雨火",
@@ -2067,6 +2187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155698,
+      "num": 155698,
+      "word": "一个人能成事的5种迹象",
+      "onboard_time": 1662650499,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 154541,
       "num": 154541,
       "word": "多支军队救援力量深入震区",
@@ -2081,14 +2209,6 @@
       "onboard_time": 1662631946,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 153306,
-      "num": 153306,
-      "word": "英国首相对白金汉宫消息深感关切",
-      "onboard_time": 1662646235,
-      "rank": 45,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 153000,
@@ -2121,6 +2241,14 @@
       "onboard_time": 1662559114,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 149369,
+      "num": 149369,
+      "word": "上班第一天被同事欺负要怎么办",
+      "onboard_time": 1662650679,
+      "rank": 49,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 149308,
@@ -2243,14 +2371,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 137275,
-      "num": 137275,
-      "word": "广州暴雨",
-      "onboard_time": 1662647553,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 136704,
       "num": 136704,
       "word": "这是最值得信赖的肩膀",
@@ -2275,28 +2395,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 134074,
-      "num": 1752675,
-      "word": "泸定抗震救灾72小时",
-      "onboard_time": 1662643169,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 133802,
       "num": 133802,
       "word": "刻在DNA里的吃瓜体质",
       "onboard_time": 1662635669,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 131511,
-      "num": 131511,
-      "word": "远嫁闺女送礼被母亲退回",
-      "onboard_time": 1662647373,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129956,
@@ -2368,14 +2472,6 @@
       "word": "男子买烟不给钱女孩追出索要遭凶斥",
       "onboard_time": 1662620128,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125175,
-      "num": 125175,
-      "word": "成都抗疫蔬菜包发火锅底料",
-      "onboard_time": 1662647676,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
