@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662656514903,
+  "endTime": 1662658371339,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -4419,6 +4419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 362745,
+      "num": 362745,
+      "word": "易烊千玺还没看世间有她",
+      "onboard_time": 1662655703,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 362718,
       "num": 362718,
       "word": "杨紫成毅地涯吻又甜又虐",
@@ -5643,6 +5651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 277755,
+      "num": 277755,
+      "word": "河南小伙求职因户籍被拒",
+      "onboard_time": 1662655463,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277446,
       "num": 277446,
       "word": "脱口秀大会5将延播",
@@ -6505,14 +6521,6 @@
       "onboard_time": 1662650440,
       "rank": 45,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 237788,
-      "num": 166552,
-      "word": "易烊千玺还没看世间有她",
-      "onboard_time": 1662655703,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 237703,
@@ -8337,14 +8345,6 @@
       "onboard_time": 1662449308,
       "rank": 45,
       "category": "科技"
-    },
-    {
-      "raw_hot": 141574,
-      "num": 141574,
-      "word": "河南小伙求职因户籍被拒",
-      "onboard_time": 1662655463,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141424,
