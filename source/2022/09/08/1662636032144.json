@@ -1,0 +1,410 @@
+{
+  "runTime": 1662636032144,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2756826,
+        "num": 2756826,
+        "word": "枪杀安倍嫌犯在拘留所中收到超百万日元",
+        "onboard_time": 1662630389,
+        "rank": 0,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1220915,
+        "num": 1220915,
+        "word": "没发生疫情地区要开展常态化核酸检测",
+        "onboard_time": 1662627328,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61910,
+        "num": 999608,
+        "word": "泸定生生不息的12个瞬间",
+        "onboard_time": 1662623428,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 971545,
+        "num": 971545,
+        "word": "海底捞回应女顾客就餐时身亡",
+        "onboard_time": 1662623249,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 801951,
+        "num": 801951,
+        "word": "湘雅医院回应专家将莲子壳诊断为肿瘤",
+        "onboard_time": 1662633991,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 782120,
+        "num": 782120,
+        "word": "手术摘除1个肾十年后查出2个肾",
+        "onboard_time": 1662623007,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 763921,
+        "num": 763921,
+        "word": "HR竟疑惑应届生刚毕业在意工资",
+        "onboard_time": 1662626430,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 621612,
+        "num": 621612,
+        "word": "虞书欣带了300套衣服去小森林剧组",
+        "onboard_time": 1662619767,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 479499,
+        "num": 479499,
+        "word": "网传赵丽颖任嘉伦主演三棵树",
+        "onboard_time": 1662631168,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 459997,
+        "num": 459997,
+        "word": "居民被高空坠狗砸中不幸身亡",
+        "onboard_time": 1662626009,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1271944,
+        "num": 458634,
+        "word": "iPhone13官网降价销售",
+        "onboard_time": 1662631587,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 696181,
+        "num": 452991,
+        "word": "张大大是复旦研究生",
+        "onboard_time": 1662617429,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 623467,
+        "num": 448889,
+        "word": "杨幂为嘉行传媒第三大股东",
+        "onboard_time": 1662626308,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 473753,
+        "num": 446211,
+        "word": "罗永浩评iPhone14",
+        "onboard_time": 1662633148,
+        "rank": 13,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 444443,
+        "num": 444443,
+        "word": "如果鬼怪让黄渤来演",
+        "onboard_time": 1662624987,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 399569,
+        "num": 399569,
+        "word": "男朋友把求婚现场搞得像施工",
+        "onboard_time": 1662633030,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 356270,
+        "num": 356270,
+        "word": "101岁父亲鼓励66岁教授儿子去支教",
+        "onboard_time": 1662632009,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 325663,
+        "num": 325663,
+        "word": "团伙为50余名明星提供有偿删帖服务",
+        "onboard_time": 1662630689,
+        "rank": 17,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 304756,
+        "num": 304756,
+        "word": "浙江卫健委回应无薪育儿假期建议",
+        "onboard_time": 1662633208,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299966,
+        "num": 299966,
+        "word": "首批领证电竞人",
+        "onboard_time": 1662634049,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 392774,
+        "num": 298832,
+        "word": "苹果为何执着于Pro机型",
+        "onboard_time": 1662630928,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 293196,
+        "num": 293196,
+        "word": "李沁请君演了个搞笑女",
+        "onboard_time": 1662631108,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291054,
+        "num": 291054,
+        "word": "我国已婚育女性超3成存在漏尿问题",
+        "onboard_time": 1662614790,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277197,
+        "num": 277197,
+        "word": "伊犁疫情防控",
+        "onboard_time": 1662635370,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241545,
+        "num": 241545,
+        "word": "中秋养只玉兔不过分吧",
+        "onboard_time": 1662634469,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 236128,
+        "num": 236128,
+        "word": "狗狗每天迎接主人回家精准找车位",
+        "onboard_time": 1662629007,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227556,
+        "num": 227556,
+        "word": "赵露思灰色背心随拍",
+        "onboard_time": 1662620788,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227399,
+        "num": 227399,
+        "word": "请君请直接播吧",
+        "onboard_time": 1662634771,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192726,
+        "num": 192726,
+        "word": "北京海淀新增4例本土感染者",
+        "onboard_time": 1662634530,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183133,
+        "num": 183133,
+        "word": "玲娜贝儿被指中秋穿左衽丧服",
+        "onboard_time": 1662612032,
+        "rank": 29,
+        "category": "动漫,社会新闻"
+      },
+      {
+        "raw_hot": 181512,
+        "num": 181512,
+        "word": "覆流年",
+        "onboard_time": 1662635669,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175279,
+        "num": 175279,
+        "word": "白鹿宁安如梦捧花杀青照",
+        "onboard_time": 1662630989,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169375,
+        "num": 169375,
+        "word": "尔冬升丁程鑫亦师亦友",
+        "onboard_time": 1662632247,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167133,
+        "num": 167133,
+        "word": "刘诗诗 清冷",
+        "onboard_time": 1662627388,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166217,
+        "num": 166217,
+        "word": "如何从头像看出一个人性格",
+        "onboard_time": 1662626550,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156540,
+        "num": 156540,
+        "word": "女子因闺蜜不识字扮陌生人骗她钱",
+        "onboard_time": 1662618449,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156171,
+        "num": 156171,
+        "word": "明天下午北京预计15时开堵",
+        "onboard_time": 1662624028,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150486,
+        "num": 150486,
+        "word": "中秋国庆飞机高铁需48小时核酸证明",
+        "onboard_time": 1662624626,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148748,
+        "num": 148748,
+        "word": "服务员上菜手滑热汤洒向小孩",
+        "onboard_time": 1662622527,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28800,
+        "num": 138543,
+        "word": "当家乡遇到月亮有多浪漫",
+        "onboard_time": 1662634833,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151170,
+        "num": 135947,
+        "word": "王一博长空之王少校军衔",
+        "onboard_time": 1662631648,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132370,
+        "num": 132370,
+        "word": "乐爱豆",
+        "onboard_time": 1662634353,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129324,
+        "num": 129324,
+        "word": "女性不应该为漏尿感到羞耻",
+        "onboard_time": 1662619108,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117267,
+        "num": 117267,
+        "word": "刻在DNA里的吃瓜体质",
+        "onboard_time": 1662635669,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114528,
+        "num": 114528,
+        "word": "狗狗觉得主人的拖鞋不好后",
+        "onboard_time": 1662616468,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113530,
+        "num": 113530,
+        "word": "舅舅用花生壳为外甥制灯笼",
+        "onboard_time": 1662621628,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112841,
+        "num": 112841,
+        "word": "华强北",
+        "onboard_time": 1662622889,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 786391,
+        "num": 111752,
+        "word": "金世佳回应二十不惑2没署名",
+        "onboard_time": 1662630928,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 108138,
+        "num": 108138,
+        "word": "才发现我金融实力不太行",
+        "onboard_time": 1662631946,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112638,
+        "num": 108060,
+        "word": "苹果学生优惠无法加钱买AirPodsPro",
+        "onboard_time": 1662624688,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#向全国广大教师致以节日的祝福#"
+    }
+  }
+}

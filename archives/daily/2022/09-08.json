@@ -1,6 +1,6 @@
 {
   "startTime": 1662568440215,
-  "endTime": 1662633823522,
+  "endTime": 1662636032144,
   "band_list": [
     {
       "raw_hot": 4450676,
@@ -235,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1271944,
+      "num": 631557,
+      "word": "iPhone13官网降价销售",
+      "onboard_time": 1662631587,
+      "rank": 13,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1244734,
       "num": 1244734,
       "word": "成都疫情防控",
@@ -265,14 +273,6 @@
       "onboard_time": 1662614249,
       "rank": 11,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 1076843,
-      "num": 631557,
-      "word": "iPhone13官网降价销售",
-      "onboard_time": 1662631587,
-      "rank": 13,
-      "category": "科技"
     },
     {
       "raw_hot": 1072845,
@@ -425,6 +425,14 @@
       "onboard_time": 1662620788,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 801951,
+      "num": 801951,
+      "word": "湘雅医院回应专家将莲子壳诊断为肿瘤",
+      "onboard_time": 1662633991,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 792822,
@@ -644,7 +652,7 @@
     },
     {
       "raw_hot": 496275,
-      "num": 254496,
+      "num": 325663,
       "word": "团伙为50余名明星提供有偿删帖服务",
       "onboard_time": 1662630689,
       "rank": 20,
@@ -673,6 +681,14 @@
       "onboard_time": 1662600866,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 473753,
+      "num": 446211,
+      "word": "罗永浩评iPhone14",
+      "onboard_time": 1662633148,
+      "rank": 23,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 468287,
@@ -859,6 +875,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 399569,
+      "num": 399569,
+      "word": "男朋友把求婚现场搞得像施工",
+      "onboard_time": 1662633030,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 392774,
+      "num": 380726,
+      "word": "苹果为何执着于Pro机型",
+      "onboard_time": 1662630928,
+      "rank": 22,
+      "category": "科技"
+    },
+    {
       "raw_hot": 388477,
       "num": 388477,
       "word": "代放生一只甲鱼18888元",
@@ -873,14 +905,6 @@
       "onboard_time": 1662606566,
       "rank": 40,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 380726,
-      "num": 380726,
-      "word": "苹果为何执着于Pro机型",
-      "onboard_time": 1662630928,
-      "rank": 22,
-      "category": "科技"
     },
     {
       "raw_hot": 379397,
@@ -929,6 +953,14 @@
       "onboard_time": 1662621327,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 356270,
+      "num": 356270,
+      "word": "101岁父亲鼓励66岁教授儿子去支教",
+      "onboard_time": 1662632009,
+      "rank": 42,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 349100,
@@ -1043,6 +1075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 304756,
+      "num": 304756,
+      "word": "浙江卫健委回应无薪育儿假期建议",
+      "onboard_time": 1662633208,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 303954,
       "num": 303954,
       "word": "五条人唱出了哥你好里的父母爱情",
@@ -1073,6 +1113,14 @@
       "onboard_time": 1662553349,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299966,
+      "num": 299966,
+      "word": "首批领证电竞人",
+      "onboard_time": 1662634049,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 299681,
@@ -1107,6 +1155,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 293196,
+      "num": 293196,
+      "word": "李沁请君演了个搞笑女",
+      "onboard_time": 1662631108,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 287361,
       "num": 250640,
       "word": "尔冬升丁程鑫亦师亦友",
@@ -1131,12 +1187,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 272214,
-      "num": 225943,
-      "word": "罗永浩评iPhone14",
-      "onboard_time": 1662633148,
+      "raw_hot": 277197,
+      "num": 277197,
+      "word": "伊犁疫情防控",
+      "onboard_time": 1662635370,
       "rank": 23,
-      "category": "科技,社会新闻"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 272053,
@@ -1187,14 +1243,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 264214,
-      "num": 181746,
-      "word": "李沁请君演了个搞笑女",
-      "onboard_time": 1662631108,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 263314,
       "num": 263314,
       "word": "关晓彤甜心妆",
@@ -1233,14 +1281,6 @@
       "onboard_time": 1662544290,
       "rank": 19,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 252864,
-      "num": 252864,
-      "word": "101岁父亲鼓励66岁教授儿子去支教",
-      "onboard_time": 1662632009,
-      "rank": 42,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 247373,
@@ -1291,6 +1331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 241545,
+      "num": 241545,
+      "word": "中秋养只玉兔不过分吧",
+      "onboard_time": 1662634469,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 238580,
       "num": 238580,
       "word": "辛纳",
@@ -1339,6 +1387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227399,
+      "num": 227399,
+      "word": "请君请直接播吧",
+      "onboard_time": 1662634771,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 225495,
       "num": 147791,
       "word": "二十不惑2",
@@ -1353,14 +1409,6 @@
       "onboard_time": 1662604826,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 224039,
-      "num": 224039,
-      "word": "男朋友把求婚现场搞得像施工",
-      "onboard_time": 1662633030,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 220750,
@@ -1475,6 +1523,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 192726,
+      "num": 192726,
+      "word": "北京海淀新增4例本土感染者",
+      "onboard_time": 1662634530,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190247,
       "num": 190247,
       "word": "郑州不配合烂尾楼复工房企要查税",
@@ -1513,6 +1569,14 @@
       "onboard_time": 1662619947,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 181512,
+      "num": 181512,
+      "word": "覆流年",
+      "onboard_time": 1662635669,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 181078,
@@ -1569,14 +1633,6 @@
       "onboard_time": 1662612873,
       "rank": 48,
       "category": "科技"
-    },
-    {
-      "raw_hot": 167224,
-      "num": 167224,
-      "word": "浙江卫健委回应无薪育儿假期建议",
-      "onboard_time": 1662633208,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165496,
@@ -1803,6 +1859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132370,
+      "num": 132370,
+      "word": "乐爱豆",
+      "onboard_time": 1662634353,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 129956,
       "num": 129956,
       "word": "那不勒斯4比1利物浦",
@@ -1889,6 +1953,14 @@
       "onboard_time": 1662632669,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117267,
+      "num": 117267,
+      "word": "刻在DNA里的吃瓜体质",
+      "onboard_time": 1662635669,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 113913,
@@ -2016,6 +2088,14 @@
       "word": "对话怀抱泸定婴儿的汶川消防员",
       "onboard_time": 1662585431,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28800,
+      "num": 138543,
+      "word": "当家乡遇到月亮有多浪漫",
+      "onboard_time": 1662634833,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
