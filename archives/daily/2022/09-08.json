@@ -1,6 +1,6 @@
 {
   "startTime": 1662568440215,
-  "endTime": 1662618190879,
+  "endTime": 1662620653782,
   "band_list": [
     {
       "raw_hot": 4450676,
@@ -41,6 +41,22 @@
       "onboard_time": 1662592161,
       "rank": 6,
       "category": "科技"
+    },
+    {
+      "raw_hot": 2553346,
+      "num": 498948,
+      "word": "网传杨幂即将离开嘉行",
+      "onboard_time": 1662620368,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2312452,
+      "num": 485285,
+      "word": "张大大是复旦研究生",
+      "onboard_time": 1662617429,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 2280605,
@@ -99,6 +115,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1565414,
+      "num": 1565414,
+      "word": "我国已婚育女性超3成存在漏尿问题",
+      "onboard_time": 1662614790,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1547377,
       "num": 613486,
       "word": "iPhone14颜色",
@@ -155,14 +179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1345519,
-      "num": 1345519,
-      "word": "我国已婚育女性超3成存在漏尿问题",
-      "onboard_time": 1662614790,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1244734,
       "num": 1244734,
       "word": "成都疫情防控",
@@ -203,6 +219,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1051333,
+      "num": 1051333,
+      "word": "虞书欣带了300套衣服去小森林剧组",
+      "onboard_time": 1662619767,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1044101,
       "num": 1044101,
       "word": "男子质疑牙刷标注1万根毛亲自数",
@@ -220,7 +244,7 @@
     },
     {
       "raw_hot": 1010152,
-      "num": 353210,
+      "num": 361353,
       "word": "王鹤棣张艺兴檀健次下班路透",
       "onboard_time": 1662615989,
       "rank": 20,
@@ -371,12 +395,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 595064,
+      "num": 449274,
+      "word": "iPhone14 Pro Max",
+      "onboard_time": 1662592762,
+      "rank": 33,
+      "category": "科技"
+    },
+    {
       "raw_hot": 592620,
       "num": 592620,
       "word": "为什么要少玩手机多看书",
       "onboard_time": 1662567385,
       "rank": 22,
       "category": "科技,情感"
+    },
+    {
+      "raw_hot": 580369,
+      "num": 580369,
+      "word": "大庆通报网传孕妇就医被拒流产",
+      "onboard_time": 1662619225,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 574445,
@@ -387,12 +427,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 568102,
-      "num": 449274,
-      "word": "iPhone14 Pro Max",
-      "onboard_time": 1662592762,
-      "rank": 33,
-      "category": "科技"
+      "raw_hot": 572626,
+      "num": 572626,
+      "word": "日本研发半机械蟑螂",
+      "onboard_time": 1662616587,
+      "rank": 38,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 541664,
@@ -483,14 +523,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 461282,
-      "num": 461282,
-      "word": "张大大是复旦研究生",
-      "onboard_time": 1662617429,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 461001,
       "num": 461001,
       "word": "普京说俄方在军事行动中没损失",
@@ -515,6 +547,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 450074,
+      "num": 450074,
+      "word": "夫妻吵架将电脑椅扔下楼",
+      "onboard_time": 1662615328,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 444125,
       "num": 444125,
       "word": "泸定一大桥发现3人生命迹象",
@@ -537,6 +577,14 @@
       "onboard_time": 1662610587,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 421017,
+      "num": 421017,
+      "word": "女子因闺蜜不识字扮陌生人骗她钱",
+      "onboard_time": 1662618449,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 414705,
@@ -619,22 +667,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 354507,
-      "num": 354507,
-      "word": "夫妻吵架将电脑椅扔下楼",
-      "onboard_time": 1662615328,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 353757,
-      "num": 353757,
-      "word": "日本研发半机械蟑螂",
-      "onboard_time": 1662616587,
-      "rank": 38,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 349100,
       "num": 349100,
       "word": "槐店王婆大虾剩菜重上桌致歉",
@@ -683,6 +715,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 332701,
+      "num": 332701,
+      "word": "南京栖霞通报4例核酸异常情况",
+      "onboard_time": 1662619588,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 331889,
       "num": 331889,
       "word": "冰雨火大结局好虐",
@@ -707,12 +747,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 306524,
-      "num": 306524,
+      "raw_hot": 313458,
+      "num": 313458,
       "word": "狗狗觉得主人的拖鞋不好后",
       "onboard_time": 1662616468,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 310495,
+      "num": 310495,
+      "word": "郑州游泳馆较大坍塌事故18人被问责",
+      "onboard_time": 1662619345,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 303954,
@@ -816,6 +864,14 @@
       "word": "黄景瑜说非常想进城拍戏",
       "onboard_time": 1662611852,
       "rank": 44,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 263314,
+      "num": 263314,
+      "word": "关晓彤甜心妆",
+      "onboard_time": 1662619046,
+      "rank": 26,
       "category": "作品衍生"
     },
     {
@@ -955,12 +1011,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 215972,
+      "num": 215972,
+      "word": "西出玉门倪妮白宇联合声明",
+      "onboard_time": 1662620248,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 215928,
       "num": 215928,
       "word": "高校定制月饼有多卷",
       "onboard_time": 1662611007,
       "rank": 46,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 209853,
+      "num": 209853,
+      "word": "女性不应该为漏尿感到羞耻",
+      "onboard_time": 1662619108,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209196,
@@ -977,6 +1049,22 @@
       "onboard_time": 1662613231,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 202496,
+      "num": 202496,
+      "word": "青岛即墨疫情防控",
+      "onboard_time": 1662619708,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198324,
+      "num": 198324,
+      "word": "代放生一只甲鱼18888元",
+      "onboard_time": 1662618866,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197133,
@@ -1051,6 +1139,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176604,
+      "num": 176604,
+      "word": "妈妈因病致残坐轮椅陪5岁儿子抗癌",
+      "onboard_time": 1662617487,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176343,
+      "num": 176343,
+      "word": "AG对战BA爷青回",
+      "onboard_time": 1662619947,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 169754,
+      "num": 169754,
+      "word": "敷衍家长做的中秋灯笼",
+      "onboard_time": 1662615448,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 168867,
       "num": 158694,
       "word": "宋茜演的杜帝不是杜娣",
@@ -1065,6 +1177,14 @@
       "onboard_time": 1662612873,
       "rank": 48,
       "category": "科技"
+    },
+    {
+      "raw_hot": 167404,
+      "num": 167404,
+      "word": "男孩坐飞机脚踹前座椅家长不制止",
+      "onboard_time": 1662617968,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165496,
@@ -1105,14 +1225,6 @@
       "onboard_time": 1662593966,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151062,
-      "num": 151062,
-      "word": "敷衍家长做的中秋灯笼",
-      "onboard_time": 1662615448,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 149761,
@@ -1259,20 +1371,36 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 125478,
+      "num": 125478,
+      "word": "男子买烟不给钱女孩追出索要遭凶斥",
+      "onboard_time": 1662620128,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124306,
+      "num": 124306,
+      "word": "如何看待iPhone14Pro灵动岛设计",
+      "onboard_time": 1662620547,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 121576,
+      "num": 121576,
+      "word": "家里突然有蟑螂的原因",
+      "onboard_time": 1662620606,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120569,
       "num": 120569,
       "word": "丁程鑫在剧组放饭时拿到高考分数",
       "onboard_time": 1662558274,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 115980,
-      "num": 115980,
-      "word": "妈妈因病致残坐轮椅陪5岁儿子抗癌",
-      "onboard_time": 1662617487,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113913,
@@ -1313,14 +1441,6 @@
       "onboard_time": 1662543807,
       "rank": 48,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 104151,
-      "num": 104151,
-      "word": "男孩坐飞机脚踹前座椅家长不制止",
-      "onboard_time": 1662617968,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 103714,
