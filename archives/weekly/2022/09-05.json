@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662658371339,
+  "endTime": 1662659328613,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -49,6 +49,14 @@
       "onboard_time": 1662549028,
       "rank": 26,
       "category": "科技"
+    },
+    {
+      "raw_hot": 4157942,
+      "num": 4157942,
+      "word": "英国女王去世",
+      "onboard_time": 1662659122,
+      "rank": 0,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 4134109,
@@ -163,6 +171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2977405,
+      "num": 2977405,
+      "word": "英媒称严重程度前所未见",
+      "onboard_time": 1662644070,
+      "rank": 38,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 2965006,
       "num": 2965006,
       "word": "贵阳筛查到301例阳性感染者",
@@ -265,14 +281,6 @@
       "onboard_time": 1662620368,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2550101,
-      "num": 2550101,
-      "word": "英媒称严重程度前所未见",
-      "onboard_time": 1662644070,
-      "rank": 38,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 2547294,
@@ -899,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1336637,
+      "num": 1336637,
+      "word": "英国BBC主播穿全黑西装戴黑领带",
+      "onboard_time": 1662649001,
+      "rank": 4,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1333986,
       "num": 1333986,
       "word": "网友建议中秋节放长假",
@@ -1393,14 +1409,6 @@
       "onboard_time": 1662343886,
       "rank": 13,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1035465,
-      "num": 1035465,
-      "word": "英国BBC主播穿全黑西装戴黑领带",
-      "onboard_time": 1662649001,
-      "rank": 4,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1031823,
@@ -3235,6 +3243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 486557,
+      "num": 486557,
+      "word": "英国女王所有子女在其身边陪伴",
+      "onboard_time": 1662644192,
+      "rank": 47,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 486161,
       "num": 445649,
       "word": "王一博周冬雨央视秋晚幕后故事",
@@ -3257,6 +3273,14 @@
       "onboard_time": 1662382289,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 484012,
+      "num": 484012,
+      "word": "易烊千玺还没看世间有她",
+      "onboard_time": 1662655703,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 483400,
@@ -3521,14 +3545,6 @@
       "onboard_time": 1662557853,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 443633,
-      "num": 443633,
-      "word": "英国女王所有子女在其身边陪伴",
-      "onboard_time": 1662644192,
-      "rank": 47,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 441520,
@@ -4419,14 +4435,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 362745,
-      "num": 362745,
-      "word": "易烊千玺还没看世间有她",
-      "onboard_time": 1662655703,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 362718,
       "num": 362718,
       "word": "杨紫成毅地涯吻又甜又虐",
@@ -4865,6 +4873,14 @@
       "onboard_time": 1662298234,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 325617,
+      "num": 325617,
+      "word": "河南小伙求职因户籍被拒",
+      "onboard_time": 1662655463,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 323664,
@@ -5649,14 +5665,6 @@
       "onboard_time": 1662626550,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 277755,
-      "num": 277755,
-      "word": "河南小伙求职因户籍被拒",
-      "onboard_time": 1662655463,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 277446,
@@ -7812,7 +7820,7 @@
     },
     {
       "raw_hot": 166820,
-      "num": 2058521,
+      "num": 2359783,
       "word": "泸定抗震救灾72小时",
       "onboard_time": 1662643169,
       "rank": 2,
@@ -7825,6 +7833,14 @@
       "onboard_time": 1662388598,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 166571,
+      "num": 64575,
+      "word": "查尔斯成为英国国王",
+      "onboard_time": 1662659305,
+      "rank": 47,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 166504,
@@ -8019,6 +8035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 156288,
+      "num": 156288,
+      "word": "昆明乘坐地铁公交等须持48小时核酸报告",
+      "onboard_time": 1662654147,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155865,
       "num": 155865,
       "word": "为什么秋天叫金秋",
@@ -8065,14 +8089,6 @@
       "onboard_time": 1662605007,
       "rank": 45,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 154234,
-      "num": 154234,
-      "word": "昆明乘坐地铁公交等须持48小时核酸报告",
-      "onboard_time": 1662654147,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 154145,

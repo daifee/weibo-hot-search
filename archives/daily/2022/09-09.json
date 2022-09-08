@@ -1,6 +1,6 @@
 {
   "startTime": 1662654904784,
-  "endTime": 1662658371339,
+  "endTime": 1662659328613,
   "band_list": [
     {
       "raw_hot": 6739234,
@@ -8,6 +8,22 @@
       "word": "英国女王正处于医疗监护状态",
       "onboard_time": 1662639751,
       "rank": 0,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 4157942,
+      "num": 4157942,
+      "word": "英国女王去世",
+      "onboard_time": 1662659122,
+      "rank": 0,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 2977405,
+      "num": 2977405,
+      "word": "英媒称严重程度前所未见",
+      "onboard_time": 1662644070,
+      "rank": 1,
       "category": "国外要闻"
     },
     {
@@ -19,19 +35,19 @@
       "category": "美食"
     },
     {
-      "raw_hot": 1247803,
-      "num": 1247803,
-      "word": "英媒称严重程度前所未见",
-      "onboard_time": 1662644070,
-      "rank": 1,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1035465,
-      "num": 1035465,
+      "raw_hot": 1336637,
+      "num": 1336637,
       "word": "英国BBC主播穿全黑西装戴黑领带",
       "onboard_time": 1662649001,
       "rank": 4,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1287292,
+      "num": 1287292,
+      "word": "英国王室证实女王身体状况堪忧",
+      "onboard_time": 1662642751,
+      "rank": 7,
       "category": "国外要闻"
     },
     {
@@ -65,14 +81,6 @@
       "onboard_time": 1662654804,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 817156,
-      "num": 817156,
-      "word": "英国王室证实女王身体状况堪忧",
-      "onboard_time": 1662642751,
-      "rank": 7,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 816403,
@@ -115,6 +123,22 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 486557,
+      "num": 486557,
+      "word": "英国女王所有子女在其身边陪伴",
+      "onboard_time": 1662644192,
+      "rank": 37,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 484012,
+      "num": 484012,
+      "word": "易烊千玺还没看世间有她",
+      "onboard_time": 1662655703,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 463927,
       "num": 463927,
       "word": "周寻出场3分钟 齐颂30集白演",
@@ -139,14 +163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 362745,
-      "num": 362745,
-      "word": "易烊千玺还没看世间有她",
-      "onboard_time": 1662655703,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 357075,
       "num": 282140,
       "word": "金世佳 鬼怪",
@@ -169,6 +185,14 @@
       "onboard_time": 1662650200,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 325617,
+      "num": 325617,
+      "word": "河南小伙求职因户籍被拒",
+      "onboard_time": 1662655463,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 317730,
@@ -211,12 +235,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 277755,
-      "num": 277755,
-      "word": "河南小伙求职因户籍被拒",
-      "onboard_time": 1662655463,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 276592,
+      "num": 276592,
+      "word": "英国首相对白金汉宫消息深感关切",
+      "onboard_time": 1662646235,
+      "rank": 47,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 259025,
@@ -291,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187645,
+      "num": 187645,
+      "word": "BBC",
+      "onboard_time": 1662649540,
+      "rank": 35,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 178306,
       "num": 178306,
       "word": "他从火光中走来",
@@ -307,14 +339,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 173810,
-      "num": 173810,
-      "word": "BBC",
-      "onboard_time": 1662649540,
-      "rank": 35,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 171505,
       "num": 171505,
       "word": "3岁娃模仿大白给6只猫做核酸",
@@ -323,11 +347,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 166716,
-      "num": 166716,
-      "word": "英国女王所有子女在其身边陪伴",
-      "onboard_time": 1662644192,
-      "rank": 37,
+      "raw_hot": 166571,
+      "num": 64575,
+      "word": "查尔斯成为英国国王",
+      "onboard_time": 1662659305,
+      "rank": 47,
       "category": "国外要闻"
     },
     {
@@ -339,8 +363,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 154234,
-      "num": 154234,
+      "raw_hot": 156288,
+      "num": 156288,
       "word": "昆明乘坐地铁公交等须持48小时核酸报告",
       "onboard_time": 1662654147,
       "rank": 45,
@@ -395,14 +419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 123931,
-      "num": 123931,
-      "word": "英国首相对白金汉宫消息深感关切",
-      "onboard_time": 1662646235,
-      "rank": 47,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 116483,
       "num": 116483,
       "word": "广州暴雨",
@@ -412,7 +428,7 @@
     },
     {
       "raw_hot": 108839,
-      "num": 1079940,
+      "num": 2359783,
       "word": "泸定抗震救灾72小时",
       "onboard_time": 1662643169,
       "rank": 2,
@@ -425,6 +441,14 @@
       "onboard_time": 1662636269,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 72666,
+      "num": 72666,
+      "word": "朴志晟哭了",
+      "onboard_time": 1662646717,
+      "rank": 42,
+      "category": "音乐"
     }
   ],
   "hotgov_list": [
