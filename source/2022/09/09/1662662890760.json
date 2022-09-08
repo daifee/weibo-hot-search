@@ -1,0 +1,410 @@
+{
+  "runTime": 1662662890760,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5641412,
+        "num": 5641412,
+        "word": "英国女王去世",
+        "onboard_time": 1662659122,
+        "rank": 0,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 3134128,
+        "num": 3134128,
+        "word": "查尔斯成为英国国王",
+        "onboard_time": 1662659305,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 39859,
+        "num": 2592799,
+        "word": "泸定抗震救灾72小时",
+        "onboard_time": 1662643169,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2306011,
+        "num": 2306011,
+        "word": "伦敦桥塌了",
+        "onboard_time": 1662661156,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1082458,
+        "num": 1082458,
+        "word": "英国全国哀悼期已经开始",
+        "onboard_time": 1662659962,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 451242,
+        "num": 451242,
+        "word": "英国女王所有子女在其身边陪伴",
+        "onboard_time": 1662644192,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 412711,
+        "num": 412711,
+        "word": "特拉斯",
+        "onboard_time": 1662649363,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 409587,
+        "num": 409587,
+        "word": "英国BBC主播穿全黑西装戴黑领带",
+        "onboard_time": 1662649001,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 228081,
+        "num": 228081,
+        "word": "伊丽莎白二世在位时间最长",
+        "onboard_time": 1662660622,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 222154,
+        "num": 222154,
+        "word": "快乐再出发第二季拟邀嘉宾",
+        "onboard_time": 1662654804,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 529642,
+        "num": 220809,
+        "word": "英国国王声明",
+        "onboard_time": 1662661635,
+        "rank": 10,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 190632,
+        "num": 190632,
+        "word": "任光晞不会出轨",
+        "onboard_time": 1662654686,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184354,
+        "num": 184354,
+        "word": "胡歌霍建华 鬼怪",
+        "onboard_time": 1662645515,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169730,
+        "num": 169730,
+        "word": "女孩海底捞吃火锅意外身亡",
+        "onboard_time": 1662640228,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169628,
+        "num": 169628,
+        "word": "英国首相对白金汉宫消息深感关切",
+        "onboard_time": 1662646235,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 141136,
+        "num": 141136,
+        "word": "苏格兰和威尔士第一部长表态",
+        "onboard_time": 1662649418,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 138562,
+        "num": 138562,
+        "word": "河南小伙求职因户籍被拒",
+        "onboard_time": 1662655463,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134372,
+        "num": 134372,
+        "word": "B站二季度净亏损20亿",
+        "onboard_time": 1662645332,
+        "rank": 17,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 113248,
+        "num": 113248,
+        "word": "金世佳 鬼怪",
+        "onboard_time": 1662636090,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109406,
+        "num": 109406,
+        "word": "英国BBC中断原本节目",
+        "onboard_time": 1662648701,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 270179,
+        "num": 108665,
+        "word": "乌鲁木齐疫情防控",
+        "onboard_time": 1662647436,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174656,
+        "num": 108566,
+        "word": "新疆酸奶疙瘩月饼",
+        "onboard_time": 1662651874,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 107351,
+        "num": 107351,
+        "word": "中国运营商不支持美版iPhone14",
+        "onboard_time": 1662637169,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 100257,
+        "num": 100257,
+        "word": "见证历史",
+        "onboard_time": 1662662476,
+        "rank": 23,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 98475,
+        "num": 98475,
+        "word": "中国版鬼怪选角提名",
+        "onboard_time": 1662639930,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 95553,
+        "num": 95553,
+        "word": "英女王生平",
+        "onboard_time": 1662661456,
+        "rank": 25,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 92033,
+        "num": 92033,
+        "word": "去掉最高分纪存希",
+        "onboard_time": 1662646113,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 83175,
+        "num": 83175,
+        "word": "邓家佳华鼎奖最佳女主角",
+        "onboard_time": 1662648881,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 75035,
+        "num": 75035,
+        "word": "枪杀安倍嫌犯在拘留所中收到超百万日元",
+        "onboard_time": 1662630389,
+        "rank": 28,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 74279,
+        "num": 74279,
+        "word": "BBC",
+        "onboard_time": 1662649540,
+        "rank": 29,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 69675,
+        "num": 69675,
+        "word": "只有复姓受伤的世界达成了",
+        "onboard_time": 1662653729,
+        "rank": 30,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 67489,
+        "num": 67489,
+        "word": "男子割伤狗舌头称其吓到自己小孩",
+        "onboard_time": 1662637113,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65717,
+        "num": 65717,
+        "word": "快说你们是来东八区旅游的",
+        "onboard_time": 1662656002,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 62070,
+        "num": 62070,
+        "word": "周寻出场3分钟 齐颂30集白演",
+        "onboard_time": 1662643169,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 59532,
+        "num": 59532,
+        "word": "成都抗疫蔬菜包发火锅底料",
+        "onboard_time": 1662647676,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57592,
+        "num": 57592,
+        "word": "最新进出京政策公布",
+        "onboard_time": 1662652653,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54323,
+        "num": 54323,
+        "word": "昆明乘坐地铁公交等须持48小时核酸报告",
+        "onboard_time": 1662654147,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53310,
+        "num": 53310,
+        "word": "王阳 鬼怪",
+        "onboard_time": 1662643111,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 53139,
+        "num": 53139,
+        "word": "男子送月饼十天后又回到自己手里",
+        "onboard_time": 1662643049,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51132,
+        "num": 51132,
+        "word": "特朗普前政治顾问班农自首",
+        "onboard_time": 1662650440,
+        "rank": 39,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 48772,
+        "num": 48772,
+        "word": "湘雅医院回应专家将莲子壳诊断为肿瘤",
+        "onboard_time": 1662633991,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47364,
+        "num": 47364,
+        "word": "黄渤回应如果鬼怪让黄渤来演",
+        "onboard_time": 1662645991,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 46715,
+        "num": 46715,
+        "word": "白鹿写的字好好看",
+        "onboard_time": 1662643350,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45855,
+        "num": 45855,
+        "word": "当代年轻人为何不想生孩子",
+        "onboard_time": 1662642270,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 39664,
+        "num": 39664,
+        "word": "手术摘除1个肾十年后查出2个肾",
+        "onboard_time": 1662623007,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36153,
+        "num": 36153,
+        "word": "3岁娃模仿大白给6只猫做核酸",
+        "onboard_time": 1662644791,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35858,
+        "num": 35858,
+        "word": "女子偷走邻居月饼拒接电话拒归还",
+        "onboard_time": 1662643291,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35539,
+        "num": 35539,
+        "word": "邢菲回复网友好真诚",
+        "onboard_time": 1662646291,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 32986,
+        "num": 32986,
+        "word": "朴志晟哭了",
+        "onboard_time": 1662646717,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 28825,
+        "num": 28825,
+        "word": "一个人能成事的5种迹象",
+        "onboard_time": 1662650499,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央军委举行晋升上将军衔仪式#"
+    }
+  }
+}

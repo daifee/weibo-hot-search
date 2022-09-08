@@ -1,6 +1,6 @@
 {
   "startTime": 1662654904784,
-  "endTime": 1662661713977,
+  "endTime": 1662662890760,
   "band_list": [
     {
       "raw_hot": 8812909,
@@ -35,6 +35,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 2306011,
+      "num": 2306011,
+      "word": "伦敦桥塌了",
+      "onboard_time": 1662661156,
+      "rank": 5,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1356337,
       "num": 1058921,
       "word": "新疆酸奶疙瘩月饼",
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 1104425,
-      "num": 299144,
+      "num": 1082458,
       "word": "英国全国哀悼期已经开始",
       "onboard_time": 1662659962,
       "rank": 10,
@@ -131,19 +139,19 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 662543,
-      "num": 662543,
-      "word": "伦敦桥塌了",
-      "onboard_time": 1662661156,
-      "rank": 5,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 625844,
       "num": 625844,
       "word": "查尔斯王子已到女王身边",
       "onboard_time": 1662649598,
       "rank": 10,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 529642,
+      "num": 220809,
+      "word": "英国国王声明",
+      "onboard_time": 1662661635,
+      "rank": 25,
       "category": "国外要闻"
     },
     {
@@ -315,6 +323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 228081,
+      "num": 228081,
+      "word": "伊丽莎白二世在位时间最长",
+      "onboard_time": 1662660622,
+      "rank": 16,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 227107,
       "num": 227107,
       "word": "中国运营商不支持美版iPhone14",
@@ -344,14 +360,6 @@
       "word": "BBC",
       "onboard_time": 1662649540,
       "rank": 35,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 182295,
-      "num": 182295,
-      "word": "伊丽莎白二世在位时间最长",
-      "onboard_time": 1662660622,
-      "rank": 16,
       "category": "国外要闻"
     },
     {
@@ -443,14 +451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 119507,
-      "num": 119507,
-      "word": "英国国王声明",
-      "onboard_time": 1662661635,
-      "rank": 25,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 116483,
       "num": 116483,
       "word": "广州暴雨",
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 108839,
-      "num": 2359783,
+      "num": 2592799,
       "word": "泸定抗震救灾72小时",
       "onboard_time": 1662643169,
       "rank": 2,
@@ -475,20 +475,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 100257,
+      "num": 100257,
+      "word": "见证历史",
+      "onboard_time": 1662662476,
+      "rank": 23,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 95553,
+      "num": 95553,
+      "word": "英女王生平",
+      "onboard_time": 1662661456,
+      "rank": 48,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 72666,
       "num": 72666,
       "word": "朴志晟哭了",
       "onboard_time": 1662646717,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 41147,
-      "num": 41147,
-      "word": "英女王生平",
-      "onboard_time": 1662661456,
-      "rank": 48,
-      "category": "国外要闻"
     }
   ],
   "hotgov_list": [
