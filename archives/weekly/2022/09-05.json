@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662675846471,
+  "endTime": 1662676897943,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -65,6 +65,14 @@
       "onboard_time": 1662549028,
       "rank": 26,
       "category": "科技"
+    },
+    {
+      "raw_hot": 4411198,
+      "num": 2504917,
+      "word": "伦敦桥塌了",
+      "onboard_time": 1662661156,
+      "rank": 5,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 4134109,
@@ -169,14 +177,6 @@
       "onboard_time": 1662612032,
       "rank": 49,
       "category": "动漫,社会新闻"
-    },
-    {
-      "raw_hot": 3069339,
-      "num": 2504917,
-      "word": "伦敦桥塌了",
-      "onboard_time": 1662661156,
-      "rank": 5,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 3032559,
@@ -825,6 +825,14 @@
       "onboard_time": 1662536188,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1416162,
+      "num": 1416162,
+      "word": "英国国王声明",
+      "onboard_time": 1662661635,
+      "rank": 25,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1413487,
@@ -1627,14 +1635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 970680,
-      "num": 970680,
-      "word": "英国国王声明",
-      "onboard_time": 1662661635,
-      "rank": 25,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 970607,
       "num": 970607,
       "word": "上海一商业广场雕塑被指性暗示",
@@ -2033,6 +2033,14 @@
       "onboard_time": 1662654686,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 815724,
+      "num": 815724,
+      "word": "英国女王所有子女在其身边陪伴",
+      "onboard_time": 1662644192,
+      "rank": 47,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 815034,
@@ -2441,14 +2449,6 @@
       "onboard_time": 1662358294,
       "rank": 11,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 679074,
-      "num": 679074,
-      "word": "英国女王所有子女在其身边陪伴",
-      "onboard_time": 1662644192,
-      "rank": 47,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 677635,
@@ -4795,6 +4795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 338043,
+      "num": 338043,
+      "word": "河南小伙求职因户籍被拒",
+      "onboard_time": 1662655463,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 337435,
       "num": 337435,
       "word": "男子醉酒爬上天台横梁睡了一宿",
@@ -4905,14 +4913,6 @@
       "onboard_time": 1662298234,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 325617,
-      "num": 325617,
-      "word": "河南小伙求职因户籍被拒",
-      "onboard_time": 1662655463,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 323664,
@@ -7675,6 +7675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 178591,
+      "num": 178591,
+      "word": "见证历史",
+      "onboard_time": 1662662476,
+      "rank": 23,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 176790,
       "num": 166981,
       "word": "快说你们是来东八区旅游的",
@@ -7881,14 +7889,6 @@
       "onboard_time": 1662462210,
       "rank": 38,
       "category": "科技"
-    },
-    {
-      "raw_hot": 165717,
-      "num": 160006,
-      "word": "见证历史",
-      "onboard_time": 1662662476,
-      "rank": 23,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 165511,
@@ -8499,6 +8499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 138207,
+      "num": 138207,
+      "word": "欧洲央行宣布加息75个基点",
+      "onboard_time": 1662671232,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 137933,
       "num": 137933,
       "word": "恩施疫情防控",
@@ -8819,14 +8827,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 114012,
-      "num": 114012,
-      "word": "欧洲央行宣布加息75个基点",
-      "onboard_time": 1662671232,
-      "rank": 49,
-      "category": "财经"
-    },
-    {
       "raw_hot": 113913,
       "num": 113913,
       "word": "东契奇欧洲杯47分7篮板",
@@ -8953,6 +8953,14 @@
       "onboard_time": 1662506422,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96417,
+      "num": 96417,
+      "word": "白冰说姐讲的不是人话是神话",
+      "onboard_time": 1662663673,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 91636,
@@ -9097,14 +9105,6 @@
       "onboard_time": 1662334762,
       "rank": 48,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 64477,
-      "num": 64477,
-      "word": "白冰说姐讲的不是人话是神话",
-      "onboard_time": 1662663673,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 60205,

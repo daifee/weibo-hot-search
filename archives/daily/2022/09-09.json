@@ -1,6 +1,6 @@
 {
   "startTime": 1662654904784,
-  "endTime": 1662675846471,
+  "endTime": 1662676897943,
   "band_list": [
     {
       "raw_hot": 8812909,
@@ -27,7 +27,7 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 3069339,
+      "raw_hot": 4411198,
       "num": 2504917,
       "word": "伦敦桥塌了",
       "onboard_time": 1662661156,
@@ -40,6 +40,14 @@
       "word": "英媒称严重程度前所未见",
       "onboard_time": 1662644070,
       "rank": 1,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1416162,
+      "num": 1416162,
+      "word": "英国国王声明",
+      "onboard_time": 1662661635,
+      "rank": 25,
       "category": "国外要闻"
     },
     {
@@ -83,14 +91,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 970680,
-      "num": 970680,
-      "word": "英国国王声明",
-      "onboard_time": 1662661635,
-      "rank": 25,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 872998,
       "num": 872998,
       "word": "胡歌霍建华 鬼怪",
@@ -123,6 +123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 815724,
+      "num": 815724,
+      "word": "英国女王所有子女在其身边陪伴",
+      "onboard_time": 1662644192,
+      "rank": 37,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 812471,
       "num": 812471,
       "word": "女孩海底捞吃火锅意外身亡",
@@ -136,14 +144,6 @@
       "word": "特拉斯",
       "onboard_time": 1662649363,
       "rank": 9,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 679074,
-      "num": 679074,
-      "word": "英国女王所有子女在其身边陪伴",
-      "onboard_time": 1662644192,
-      "rank": 37,
       "category": "国外要闻"
     },
     {
@@ -219,8 +219,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 325617,
-      "num": 325617,
+      "raw_hot": 338043,
+      "num": 338043,
       "word": "河南小伙求职因户籍被拒",
       "onboard_time": 1662655463,
       "rank": 38,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 315421,
-      "num": 258133,
+      "num": 259334,
       "word": "去掉最高分纪存希",
       "onboard_time": 1662646113,
       "rank": 24,
@@ -363,6 +363,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 178591,
+      "num": 178591,
+      "word": "见证历史",
+      "onboard_time": 1662662476,
+      "rank": 23,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 178306,
       "num": 178306,
       "word": "他从火光中走来",
@@ -379,20 +387,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 172508,
+      "num": 172508,
+      "word": "枪杀安倍嫌犯在拘留所中收到超百万日元",
+      "onboard_time": 1662630389,
+      "rank": 44,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 171505,
       "num": 171505,
       "word": "3岁娃模仿大白给6只猫做核酸",
       "onboard_time": 1662644791,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 165717,
-      "num": 160006,
-      "word": "见证历史",
-      "onboard_time": 1662662476,
-      "rank": 23,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 162730,
@@ -409,6 +417,14 @@
       "onboard_time": 1662654147,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138207,
+      "num": 138207,
+      "word": "欧洲央行宣布加息75个基点",
+      "onboard_time": 1662671232,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 137457,
@@ -443,14 +459,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 127571,
-      "num": 127571,
-      "word": "枪杀安倍嫌犯在拘留所中收到超百万日元",
-      "onboard_time": 1662630389,
-      "rank": 44,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 123982,
       "num": 123982,
       "word": "远嫁闺女送礼被母亲退回",
@@ -465,14 +473,6 @@
       "onboard_time": 1662647553,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 114012,
-      "num": 114012,
-      "word": "欧洲央行宣布加息75个基点",
-      "onboard_time": 1662671232,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 108839,
@@ -499,20 +499,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 96417,
+      "num": 96417,
+      "word": "白冰说姐讲的不是人话是神话",
+      "onboard_time": 1662663673,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 72666,
       "num": 72666,
       "word": "朴志晟哭了",
       "onboard_time": 1662646717,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 64477,
-      "num": 64477,
-      "word": "白冰说姐讲的不是人话是神话",
-      "onboard_time": 1662663673,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 56826,
