@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662669756800,
+  "endTime": 1662672089086,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -18049,6 +18049,14 @@
       "onboard_time": 1662059291,
       "rank": 38,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 13367,
+      "num": 13367,
+      "word": "欧洲央行宣布加息75个基点",
+      "onboard_time": 1662671232,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 13090,
