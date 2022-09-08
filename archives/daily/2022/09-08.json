@@ -1,6 +1,6 @@
 {
   "startTime": 1662568440215,
-  "endTime": 1662644876345,
+  "endTime": 1662646942966,
   "band_list": [
     {
       "raw_hot": 4450676,
@@ -11,8 +11,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 3442617,
-      "num": 3442617,
+      "raw_hot": 3942629,
+      "num": 3942629,
       "word": "英国女王正处于医疗监护状态",
       "onboard_time": 1662639751,
       "rank": 4,
@@ -139,6 +139,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1934794,
+      "num": 1934794,
+      "word": "王阳 鬼怪",
+      "onboard_time": 1662643111,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1842563,
       "num": 298357,
       "word": "iPhone14Pro灵动岛",
@@ -195,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1551585,
+      "num": 1551585,
+      "word": "黄渤回应如果鬼怪让黄渤来演",
+      "onboard_time": 1662645991,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1547377,
       "num": 613486,
       "word": "iPhone14颜色",
@@ -236,7 +252,7 @@
     },
     {
       "raw_hot": 1405600,
-      "num": 580845,
+      "num": 633053,
       "word": "男子割伤狗舌头称其吓到自己小孩",
       "onboard_time": 1662637113,
       "rank": 10,
@@ -259,12 +275,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1380064,
-      "num": 1380064,
-      "word": "王阳 鬼怪",
-      "onboard_time": 1662643111,
-      "rank": 7,
+      "raw_hot": 1359755,
+      "num": 914996,
+      "word": "胡歌霍建华 鬼怪",
+      "onboard_time": 1662645515,
+      "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1333986,
+      "num": 1333986,
+      "word": "网友建议中秋节放长假",
+      "onboard_time": 1662636269,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1277925,
+      "num": 1277925,
+      "word": "英国王室证实女王身体状况堪忧",
+      "onboard_time": 1662642751,
+      "rank": 25,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1271944,
@@ -281,14 +313,6 @@
       "onboard_time": 1662559715,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1241107,
-      "num": 1241107,
-      "word": "网友建议中秋节放长假",
-      "onboard_time": 1662636269,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 1218341,
@@ -337,6 +361,14 @@
       "onboard_time": 1662610227,
       "rank": 10,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1071395,
+      "num": 1071395,
+      "word": "女孩海底捞吃火锅意外身亡",
+      "onboard_time": 1662640228,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1070956,
@@ -395,6 +427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 988725,
+      "num": 988725,
+      "word": "英媒称严重程度前所未见",
+      "onboard_time": 1662644070,
+      "rank": 38,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 977597,
       "num": 977597,
       "word": "居民被高空坠狗砸中不幸身亡",
@@ -425,6 +465,14 @@
       "onboard_time": 1662603085,
       "rank": 20,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 950288,
+      "num": 950288,
+      "word": "B站二季度净亏损20亿",
+      "onboard_time": 1662645332,
+      "rank": 9,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 946721,
@@ -491,6 +539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 844723,
+      "num": 844723,
+      "word": "周寻出场3分钟 齐颂30集白演",
+      "onboard_time": 1662643169,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 843603,
       "num": 843603,
       "word": "成都82岁咸菜婆婆捐10380元抗疫",
@@ -531,12 +587,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 747716,
-      "num": 747716,
-      "word": "女孩海底捞吃火锅意外身亡",
-      "onboard_time": 1662640228,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 761676,
+      "num": 400243,
+      "word": "白鹿写的字好好看",
+      "onboard_time": 1662643350,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 746240,
@@ -571,12 +627,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 685526,
-      "num": 349888,
-      "word": "白鹿写的字好好看",
-      "onboard_time": 1662643350,
-      "rank": 20,
-      "category": "艺人"
+      "raw_hot": 698410,
+      "num": 698410,
+      "word": "贵阳解封",
+      "onboard_time": 1662644853,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 664792,
@@ -651,6 +707,22 @@
       "category": "科技,情感"
     },
     {
+      "raw_hot": 590277,
+      "num": 590277,
+      "word": "去掉最高分纪存希",
+      "onboard_time": 1662646113,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 585825,
+      "num": 585825,
+      "word": "男子送月饼十天后又回到自己手里",
+      "onboard_time": 1662643049,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 574445,
       "num": 339614,
       "word": "苹果称iPhone电力足够从早用到晚",
@@ -681,6 +753,14 @@
       "onboard_time": 1662624390,
       "rank": 31,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 549536,
+      "num": 396053,
+      "word": "朴志晟哭了",
+      "onboard_time": 1662646717,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 541664,
@@ -803,14 +883,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 465869,
-      "num": 465869,
-      "word": "周寻出场3分钟 齐颂30集白演",
-      "onboard_time": 1662643169,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 465615,
       "num": 367061,
       "word": "如何看待iPhone14Pro灵动岛设计",
@@ -889,14 +961,6 @@
       "onboard_time": 1662610587,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 429905,
-      "num": 429905,
-      "word": "英国王室证实女王身体状况堪忧",
-      "onboard_time": 1662642751,
-      "rank": 25,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 422205,
@@ -1051,6 +1115,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 380817,
+      "num": 380817,
+      "word": "女子偷走邻居月饼拒接电话拒归还",
+      "onboard_time": 1662643291,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 379397,
       "num": 379397,
       "word": "服务员上菜手滑热汤洒向小孩",
@@ -1153,14 +1225,6 @@
       "onboard_time": 1662639028,
       "rank": 21,
       "category": "教育"
-    },
-    {
-      "raw_hot": 350380,
-      "num": 350380,
-      "word": "男子送月饼十天后又回到自己手里",
-      "onboard_time": 1662643049,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 349100,
@@ -1267,6 +1331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 317314,
+      "num": 233934,
+      "word": "他从火光中走来",
+      "onboard_time": 1662646535,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 314827,
       "num": 314827,
       "word": "雷神4",
@@ -1315,14 +1387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 301112,
-      "num": 301112,
-      "word": "英媒称严重程度前所未见",
-      "onboard_time": 1662644070,
-      "rank": 38,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 301025,
       "num": 135450,
       "word": "iPhone14值不值得买",
@@ -1369,6 +1433,14 @@
       "onboard_time": 1662639930,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 295239,
+      "num": 295239,
+      "word": "英国女王所有子女在其身边陪伴",
+      "onboard_time": 1662644192,
+      "rank": 47,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 293196,
@@ -1579,20 +1651,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 240761,
-      "num": 240761,
-      "word": "英国女王所有子女在其身边陪伴",
-      "onboard_time": 1662644192,
-      "rank": 47,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 238580,
       "num": 238580,
       "word": "辛纳",
       "onboard_time": 1662621149,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 236485,
+      "num": 236485,
+      "word": "3岁娃模仿大白给6只猫做核酸",
+      "onboard_time": 1662644791,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230352,
@@ -1721,14 +1793,6 @@
       "onboard_time": 1662612689,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 206485,
-      "num": 206485,
-      "word": "女子偷走邻居月饼拒接电话拒归还",
-      "onboard_time": 1662643291,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 203881,
@@ -2003,6 +2067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 153306,
+      "num": 153306,
+      "word": "英国首相对白金汉宫消息深感关切",
+      "onboard_time": 1662646235,
+      "rank": 45,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 153000,
       "num": 153000,
       "word": "北京9月7日新增本土确诊7例",
@@ -2179,6 +2251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134074,
+      "num": 1570692,
+      "word": "泸定抗震救灾72小时",
+      "onboard_time": 1662643169,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 133802,
       "num": 133802,
       "word": "刻在DNA里的吃瓜体质",
@@ -2283,14 +2363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 117983,
-      "num": 117983,
-      "word": "贵阳解封",
-      "onboard_time": 1662644853,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 113913,
       "num": 113913,
       "word": "东契奇欧洲杯47分7篮板",
@@ -2321,6 +2393,14 @@
       "onboard_time": 1662555090,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108886,
+      "num": 108886,
+      "word": "如何看待应届生当安保",
+      "onboard_time": 1662646717,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 108842,
@@ -2369,14 +2449,6 @@
       "onboard_time": 1662551366,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 86975,
-      "num": 1534071,
-      "word": "泸定抗震救灾72小时",
-      "onboard_time": 1662643169,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 83150,
