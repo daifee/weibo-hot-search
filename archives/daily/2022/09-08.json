@@ -1,6 +1,6 @@
 {
   "startTime": 1662568440215,
-  "endTime": 1662650740567,
+  "endTime": 1662651887108,
   "band_list": [
     {
       "raw_hot": 12853423,
@@ -113,6 +113,14 @@
       "onboard_time": 1662603385,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2274282,
+      "num": 2274282,
+      "word": "英国BBC主播穿全黑西装带黑领带",
+      "onboard_time": 1662649001,
+      "rank": 4,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 2116247,
@@ -259,14 +267,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 1454079,
-      "num": 1454079,
-      "word": "英国BBC主播穿全黑西装带黑领带",
-      "onboard_time": 1662649001,
-      "rank": 4,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 1444417,
       "num": 1285199,
       "word": "谢可寅方道歉",
@@ -329,6 +329,14 @@
       "onboard_time": 1662636269,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1332131,
+      "num": 1332131,
+      "word": "邓家佳华鼎奖最佳女主角",
+      "onboard_time": 1662648881,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 1271944,
@@ -507,14 +515,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 940334,
-      "num": 940334,
-      "word": "邓家佳华鼎奖最佳女主角",
-      "onboard_time": 1662648881,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
       "raw_hot": 936870,
       "num": 1458283,
       "word": "上海五年级小学生指出数学教材错误",
@@ -585,6 +585,14 @@
       "onboard_time": 1662620788,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 798790,
+      "num": 798790,
+      "word": "特拉斯",
+      "onboard_time": 1662649363,
+      "rank": 15,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 792822,
@@ -715,14 +723,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 627179,
-      "num": 627179,
-      "word": "特拉斯",
-      "onboard_time": 1662649363,
-      "rank": 15,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 615240,
       "num": 615240,
       "word": "妹妹哭泣大班哥哥跑教室喂饭",
@@ -784,6 +784,14 @@
       "word": "任嘉伦李沁请君红衣婚服造型",
       "onboard_time": 1662626366,
       "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 558899,
+      "num": 433090,
+      "word": "易烊千玺期待昭华跟大家见面",
+      "onboard_time": 1662650200,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -859,12 +867,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 500639,
-      "num": 433090,
-      "word": "易烊千玺期待昭华跟大家见面",
-      "onboard_time": 1662650200,
-      "rank": 22,
-      "category": "影视"
+      "raw_hot": 505851,
+      "num": 505851,
+      "word": "查尔斯王子已到女王身边",
+      "onboard_time": 1662649598,
+      "rank": 25,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 498988,
@@ -1171,14 +1179,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 399274,
-      "num": 399274,
-      "word": "查尔斯王子已到女王身边",
-      "onboard_time": 1662649598,
-      "rank": 25,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 392774,
       "num": 380726,
       "word": "苹果为何执着于Pro机型",
@@ -1201,6 +1201,14 @@
       "onboard_time": 1662646291,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 386483,
+      "num": 367970,
+      "word": "苏格兰和威尔士第一部长表态",
+      "onboard_time": 1662649418,
+      "rank": 39,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 385192,
@@ -1651,6 +1659,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 263389,
+      "num": 263389,
+      "word": "上班第一天被同事欺负要怎么办",
+      "onboard_time": 1662650679,
+      "rank": 49,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 263314,
       "num": 263314,
       "word": "关晓彤甜心妆",
@@ -1755,14 +1771,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 242400,
-      "num": 242400,
-      "word": "苏格兰和威尔士第一部长表态",
-      "onboard_time": 1662649418,
-      "rank": 39,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 242031,
       "num": 242031,
       "word": "NCTDREAM蚕室单独演唱会",
@@ -1785,6 +1793,14 @@
       "onboard_time": 1662621149,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 234909,
+      "num": 234909,
+      "word": "特朗普前政治顾问班农自首",
+      "onboard_time": 1662650440,
+      "rank": 45,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 230352,
@@ -1833,6 +1849,14 @@
       "onboard_time": 1662634771,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 226874,
+      "num": 226874,
+      "word": "一个人能成事的5种迹象",
+      "onboard_time": 1662650499,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 225495,
@@ -2163,14 +2187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 160644,
-      "num": 160644,
-      "word": "特朗普前政治顾问班农自首",
-      "onboard_time": 1662650440,
-      "rank": 45,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 158093,
       "num": 140865,
       "word": "冰雨火",
@@ -2185,14 +2201,6 @@
       "onboard_time": 1662627148,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155698,
-      "num": 155698,
-      "word": "一个人能成事的5种迹象",
-      "onboard_time": 1662650499,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 154541,
@@ -2241,14 +2249,6 @@
       "onboard_time": 1662559114,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 149369,
-      "num": 149369,
-      "word": "上班第一天被同事欺负要怎么办",
-      "onboard_time": 1662650679,
-      "rank": 49,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 149308,
@@ -2409,6 +2409,14 @@
       "onboard_time": 1662593425,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129698,
+      "num": 129698,
+      "word": "新疆酸奶疙瘩月饼",
+      "onboard_time": 1662651874,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 129575,
