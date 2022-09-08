@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662617033875,
+  "endTime": 1662618190879,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -603,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1471340,
+      "num": 488511,
+      "word": "网传森碟走职业网球",
+      "onboard_time": 1662617547,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1469759,
       "num": 1469759,
       "word": "农民参缴公积金意义不容小觑",
@@ -705,6 +713,14 @@
       "onboard_time": 1662551668,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1345519,
+      "num": 1345519,
+      "word": "我国已婚育女性超3成存在漏尿问题",
+      "onboard_time": 1662614790,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1338443,
@@ -1003,6 +1019,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1104601,
+      "num": 493239,
+      "word": "男子求复合遭拒强制猥亵前女友",
+      "onboard_time": 1662614249,
+      "rank": 11,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1084298,
       "num": 1084298,
       "word": "QQ推出QQ学生卡",
@@ -1123,14 +1147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1040027,
-      "num": 493239,
-      "word": "男子求复合遭拒强制猥亵前女友",
-      "onboard_time": 1662614249,
-      "rank": 11,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 1039104,
       "num": 446918,
       "word": "如何看待华为mate50硬刚苹果",
@@ -1152,6 +1168,14 @@
       "word": "湘雅二院取消两主任医生医疗资质",
       "onboard_time": 1662373170,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1030205,
+      "num": 1030205,
+      "word": "上周每44秒就有1人死于新冠",
+      "onboard_time": 1662614249,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -1188,7 +1212,7 @@
     },
     {
       "raw_hot": 1010152,
-      "num": 300394,
+      "num": 353210,
       "word": "王鹤棣张艺兴檀健次下班路透",
       "onboard_time": 1662615989,
       "rank": 20,
@@ -1651,14 +1675,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 806090,
-      "num": 806090,
-      "word": "我国已婚育女性超3成存在漏尿问题",
-      "onboard_time": 1662614790,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 802175,
       "num": 802175,
       "word": "雅安4.2级地震",
@@ -1920,14 +1936,6 @@
       "word": "泸定地震最新消息汇总",
       "onboard_time": 1662357994,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 704397,
-      "num": 704397,
-      "word": "上周每44秒就有1人死于新冠",
-      "onboard_time": 1662614249,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -2299,6 +2307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 597754,
+      "num": 597754,
+      "word": "刘畊宏vivi中餐厅好甜",
+      "onboard_time": 1662615568,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 595104,
       "num": 595104,
       "word": "广州地铁",
@@ -2395,6 +2411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 568102,
+      "num": 449274,
+      "word": "iPhone14 Pro Max",
+      "onboard_time": 1662592762,
+      "rank": 33,
+      "category": "科技"
+    },
+    {
       "raw_hot": 563352,
       "num": 563352,
       "word": "女子还共享电车撞倒一排直接离开",
@@ -2409,14 +2433,6 @@
       "onboard_time": 1662513567,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 549649,
-      "num": 449274,
-      "word": "iPhone14 Pro Max",
-      "onboard_time": 1662592762,
-      "rank": 33,
-      "category": "科技"
     },
     {
       "raw_hot": 548660,
@@ -2867,6 +2883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 461282,
+      "num": 461282,
+      "word": "张大大是复旦研究生",
+      "onboard_time": 1662617429,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 461001,
       "num": 461001,
       "word": "普京说俄方在军事行动中没损失",
@@ -3139,14 +3163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 417323,
-      "num": 417323,
-      "word": "刘畊宏vivi中餐厅好甜",
-      "onboard_time": 1662615568,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 415623,
       "num": 415623,
       "word": "原来每个人都有收集癖",
@@ -3225,6 +3241,14 @@
       "onboard_time": 1662376472,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 411117,
+      "num": 411117,
+      "word": "六公主视角下的贺峻霖",
+      "onboard_time": 1662617547,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 410434,
@@ -3763,12 +3787,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 354507,
+      "num": 354507,
+      "word": "夫妻吵架将电脑椅扔下楼",
+      "onboard_time": 1662615328,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 354461,
       "num": 354461,
       "word": "谢娜探访中国最聪明的工厂",
       "onboard_time": 1662350909,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 353757,
+      "num": 353757,
+      "word": "日本研发半机械蟑螂",
+      "onboard_time": 1662616587,
+      "rank": 38,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 351655,
@@ -4139,6 +4179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 318356,
+      "num": 318356,
+      "word": "美国19岁男子直播持枪行凶过程",
+      "onboard_time": 1662613650,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 318031,
       "num": 267398,
       "word": "成毅沉香重华红衣收官剧照",
@@ -4193,14 +4241,6 @@
       "onboard_time": 1662360570,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 313903,
-      "num": 313903,
-      "word": "美国19岁男子直播持枪行凶过程",
-      "onboard_time": 1662613650,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 312005,
@@ -4265,6 +4305,14 @@
       "onboard_time": 1662387693,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 306524,
+      "num": 306524,
+      "word": "狗狗觉得主人的拖鞋不好后",
+      "onboard_time": 1662616468,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 306488,
@@ -5083,6 +5131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 262489,
+      "num": 262489,
+      "word": "实习为什么对大学生很重要",
+      "onboard_time": 1662615030,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 260092,
       "num": 260092,
       "word": "翟潇闻罗一舟直播截图",
@@ -5795,28 +5851,12 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 217048,
-      "num": 217048,
-      "word": "实习为什么对大学生很重要",
-      "onboard_time": 1662615030,
-      "rank": 26,
-      "category": "教育"
-    },
-    {
       "raw_hot": 217009,
       "num": 217009,
       "word": "饿了么免单",
       "onboard_time": 1662534986,
       "rank": 28,
       "category": "科技"
-    },
-    {
-      "raw_hot": 216365,
-      "num": 216365,
-      "word": "夫妻吵架将电脑椅扔下楼",
-      "onboard_time": 1662615328,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 216269,
@@ -6579,14 +6619,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 170804,
-      "num": 170804,
-      "word": "狗狗觉得主人的拖鞋不好后",
-      "onboard_time": 1662616468,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 170003,
       "num": 170003,
       "word": "为什么形容露水是白的",
@@ -6761,14 +6793,6 @@
       "onboard_time": 1662369928,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161776,
-      "num": 161776,
-      "word": "日本研发半机械蟑螂",
-      "onboard_time": 1662616587,
-      "rank": 38,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 161557,
@@ -6947,6 +6971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 151062,
+      "num": 151062,
+      "word": "敷衍家长做的中秋灯笼",
+      "onboard_time": 1662615448,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 150163,
       "num": 150163,
       "word": "快说谢谢一战成硕",
@@ -7011,20 +7043,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 147186,
-      "num": 147186,
-      "word": "敷衍家长做的中秋灯笼",
-      "onboard_time": 1662615448,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 147068,
       "num": 147068,
       "word": "二十不惑2嘴替剧",
       "onboard_time": 1662457711,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 146688,
+      "num": 146688,
+      "word": "大妈手拿掸子给等红灯车扫灰要钱",
+      "onboard_time": 1662614007,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146643,
@@ -7233,14 +7265,6 @@
       "onboard_time": 1662430586,
       "rank": 45,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 135841,
-      "num": 135841,
-      "word": "大妈手拿掸子给等红灯车扫灰要钱",
-      "onboard_time": 1662614007,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135739,
@@ -7459,6 +7483,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 115980,
+      "num": 115980,
+      "word": "妈妈因病致残坐轮椅陪5岁儿子抗癌",
+      "onboard_time": 1662617487,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115894,
       "num": 115894,
       "word": "刘些宁直播安利刮痧",
@@ -7539,6 +7571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104151,
+      "num": 104151,
+      "word": "男孩坐飞机脚踹前座椅家长不制止",
+      "onboard_time": 1662617968,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101445,
       "num": 101445,
       "word": "中国巅峰说唱对决下期有张艺兴陈立农",
@@ -7553,6 +7593,14 @@
       "onboard_time": 1662518004,
       "rank": 49,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 97844,
+      "num": 97844,
+      "word": "搞笑男也注定没有爱情",
+      "onboard_time": 1662617787,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 97730,
