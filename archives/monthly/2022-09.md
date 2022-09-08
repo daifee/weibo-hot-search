@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/08 19:37:51
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/08 20:45:08
 </p>
 </blockquote>
 <p>
@@ -1179,6 +1179,12 @@ iPhone14颜色（热度：1547377）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%89%B2%E4%BC%A4%E7%8B%97%E8%88%8C%E5%A4%B4%E7%A7%B0%E5%85%B6%E5%90%93%E5%88%B0%E8%87%AA%E5%B7%B1%E5%B0%8F%E5%AD%A9%23" target="weibo">
+男子割伤狗舌头称其吓到自己小孩（热度：1405600）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C2022%E7%A7%8B%E5%AD%A3%E5%8F%91%E5%B8%83%E4%BC%9A%E5%90%8C%E5%A3%B0%E4%BC%A0%E8%AF%91%23" target="weibo">
 苹果2022秋季发布会同声传译（热度：1404170）
 </a>
@@ -1737,6 +1743,12 @@ Light身体不适（热度：1095817）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B9%98%E9%9B%85%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E4%B8%93%E5%AE%B6%E5%B0%86%E8%8E%B2%E5%AD%90%E5%A3%B3%E8%AF%8A%E6%96%AD%E4%B8%BA%E8%82%BF%E7%98%A4%23" target="weibo">
+湘雅医院回应专家将莲子壳诊断为肿瘤（热度：1094390）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23369%23" target="weibo">
 369（热度：1091241）
 </a>
@@ -1803,6 +1815,12 @@ iPhone14比13更香吗（热度：1070956）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E7%BD%91%E6%B2%89%E9%A6%99%E5%A6%82%E5%B1%91%E6%88%90%E6%AF%85%E4%B8%93%E8%AE%BF%23" target="weibo">
+央视网沉香如屑成毅专访（热度：1067552）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E7%99%BD%E9%B9%BF%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%87%BA%E6%BC%94%E4%BB%99%E5%89%91%E4%BA%94%E5%89%8D%E4%BC%A0%23" target="weibo">
 网传白鹿王鹤棣出演仙剑五前传（热度：1067152）
 </a>
@@ -1817,12 +1835,6 @@ iPhone14比13更香吗（热度：1070956）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%B0%86%E5%BC%80%E5%A7%8B%E6%8A%95%E6%94%BE%E4%B8%AD%E5%A4%AE%E7%8C%AA%E8%82%89%E5%82%A8%E5%A4%87%23" target="weibo">
 国家将开始投放中央猪肉储备（热度：1064990）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B9%98%E9%9B%85%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E4%B8%93%E5%AE%B6%E5%B0%86%E8%8E%B2%E5%AD%90%E5%A3%B3%E8%AF%8A%E6%96%AD%E4%B8%BA%E8%82%BF%E7%98%A4%23" target="weibo">
-湘雅医院回应专家将莲子壳诊断为肿瘤（热度：1062736）
 </a>
 </li>
 
@@ -1947,6 +1959,12 @@ iPhone14比13更香吗（热度：1070956）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%BF%90%E8%90%A5%E5%95%86%E4%B8%8D%E6%94%AF%E6%8C%81%E7%BE%8E%E7%89%88iPhone14%23" target="weibo">
+中国运营商不支持美版iPhone14（热度：1022203）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A1%82%E7%BA%B6%E9%95%81%E6%96%B0%E5%86%A0%E6%84%9F%E6%9F%93%23" target="weibo">
 桂纶镁新冠感染（热度：1019774）
 </a>
@@ -1973,6 +1991,12 @@ iPhone14比13更香吗（热度：1070956）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%96%B0%E5%89%A7%E7%9B%B4%E7%90%83%E6%92%A9%E5%BC%A0%E5%BD%AC%E5%BD%AC%23" target="weibo">
 虞书欣新剧直球撩张彬彬（热度：1013890）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%A5%B3%E7%8E%8B%E6%AD%A3%E5%A4%84%E4%BA%8E%E5%8C%BB%E7%96%97%E7%9B%91%E6%8A%A4%E7%8A%B6%E6%80%81%23" target="weibo">
+英国女王正处于医疗监护状态（热度：1011340）
 </a>
 </li>
 
@@ -2279,6 +2303,12 @@ Light哭了（热度：949347）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E6%96%B0%E5%89%A7%E7%BB%93%E4%BA%865%E6%AC%A1%E5%A9%9A%23" target="weibo">
 成毅新剧结了5次婚（热度：936174）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E7%8A%81%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%23" target="weibo">
+伊犁疫情防控（热度：935126）
 </a>
 </li>
 
@@ -4593,6 +4623,12 @@ TWICE小分队MISAMO（热度：492991）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%89%88%E9%AC%BC%E6%80%AA%E9%80%89%E8%A7%92%E6%8F%90%E5%90%8D%23" target="weibo">
+中国版鬼怪选角提名（热度：488577）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%8C%96%E5%B7%A5%E5%A4%A7%E5%AD%A6%E6%98%8C%E5%B9%B3%E6%A0%A1%E5%8C%BA%E6%96%B0%E5%A2%9E5%E4%BE%8B%E5%88%9D%E7%AD%9B%E9%98%B3%E6%80%A7%23" target="weibo">
 北京化工大学昌平校区新增5例初筛阳性（热度：488570）
 </a>
@@ -4901,12 +4937,6 @@ LPL出征S12队伍（热度：463734）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A7%90%E8%BF%99%E6%98%AF%E5%8F%AF%E4%BB%A5%E8%AF%B4%E7%9A%84%E5%90%97%23" target="weibo">
 姐姐这是可以说的吗（热度：459004）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E7%8A%81%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%23" target="weibo">
-伊犁疫情防控（热度：457656）
 </a>
 </li>
 
@@ -5373,8 +5403,20 @@ ive新歌获一位（热度：427229）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E6%9A%82%E5%81%9C%E6%8E%A5%E6%94%B6F35%E6%88%98%E6%9C%BA%23" target="weibo">
+美军暂停接收F35战机（热度：418171）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E6%9C%94%E5%B7%9E%E5%8F%B3%E7%8E%89%E5%8E%BF3.8%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
 山西朔州右玉县3.8级地震（热度：417443）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%BB%BA%E8%AE%AE%E4%B8%AD%E7%A7%8B%E8%8A%82%E6%94%BE%E9%95%BF%E5%81%87%23" target="weibo">
+网友建议中秋节放长假（热度：416881）
 </a>
 </li>
 
@@ -5969,48 +6011,6 @@ BLACKPINK新专单人预告海报（热度：404463）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2318%E5%B2%81%E7%9A%84%E5%A4%A7%E5%AD%A9%E5%AD%90%E5%8D%A1%E5%A4%B4%E7%A4%BE%E6%AD%BB%E5%8F%88%E5%A5%BD%E7%AC%91%23" target="weibo">
 18岁的大孩子卡头社死又好笑（热度：382633）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%A7%B0%E6%9A%B4%E9%9C%B2%E4%BA%8E%E8%93%9D%E5%85%89%E4%BC%9A%E5%8A%A0%E9%80%9F%E8%A1%B0%E8%80%81%23" target="weibo">
-研究称暴露于蓝光会加速衰老（热度：382552）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B3%B8%E5%AE%9A%E5%9C%B0%E9%9C%87%E6%9C%80%E6%96%B0%E5%8A%A8%E6%80%81%23" target="weibo">
-泸定地震最新动态（热度：382397）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C14%23" target="weibo">
-苹果14（热度：382197）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%86%85%E6%B2%B9%E4%BB%B7%E6%88%96%E8%BF%8E%E5%A4%A7%E5%B9%85%E5%BA%A6%E4%B8%8A%E6%B6%A8%23" target="weibo">
-国内油价或迎大幅度上涨（热度：382067）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%A6%88%E5%A6%88%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%9C%8B%E5%88%B0%E5%A5%B3%E5%84%BF%E5%81%9A%E9%A5%AD%23" target="weibo">
-当妈妈第一次看到女儿做饭（热度：381093）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Twins%E4%BA%92%E7%9B%B8%E8%AF%B4%E4%B8%8B%E8%BE%88%E5%AD%90%E7%BA%A6%E5%AE%9A%E4%BD%A0%23" target="weibo">
-Twins互相说下辈子约定你（热度：380338）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E4%B8%80%E8%81%8C%E6%A0%A1%E6%96%B0%E7%94%9F%E9%9C%80%E8%87%AA%E5%B8%A6%E5%BA%8A%E6%9D%BF%23" target="weibo">
-四川一职校新生需自带床板（热度：379495）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1662568440215,
-  "endTime": 1662637071534,
+  "endTime": 1662641108808,
   "band_list": [
     {
       "raw_hot": 4450676,
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1405600,
+      "num": 521937,
+      "word": "男子割伤狗舌头称其吓到自己小孩",
+      "onboard_time": 1662637113,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1404170,
       "num": 1404170,
       "word": "苹果2022秋季发布会同声传译",
@@ -283,6 +291,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1094390,
+      "num": 1094390,
+      "word": "湘雅医院回应专家将莲子壳诊断为肿瘤",
+      "onboard_time": 1662633991,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1072845,
       "num": 518757,
       "word": "iOS16可检测假冒AirPods",
@@ -299,12 +315,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1062736,
-      "num": 1062736,
-      "word": "湘雅医院回应专家将莲子壳诊断为肿瘤",
-      "onboard_time": 1662633991,
-      "rank": 4,
-      "category": "社会新闻"
+      "raw_hot": 1067552,
+      "num": 1067552,
+      "word": "央视网沉香如屑成毅专访",
+      "onboard_time": 1662639151,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1044101,
@@ -321,6 +337,22 @@
       "onboard_time": 1662614249,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1022203,
+      "num": 521150,
+      "word": "中国运营商不支持美版iPhone14",
+      "onboard_time": 1662637169,
+      "rank": 11,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 1011340,
+      "num": 1011340,
+      "word": "英国女王正处于医疗监护状态",
+      "onboard_time": 1662639751,
+      "rank": 4,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1010152,
@@ -385,6 +417,14 @@
       "onboard_time": 1662588553,
       "rank": 41,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 935126,
+      "num": 441215,
+      "word": "伊犁疫情防控",
+      "onboard_time": 1662635370,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 926809,
@@ -691,6 +731,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 488577,
+      "num": 488577,
+      "word": "中国版鬼怪选角提名",
+      "onboard_time": 1662639930,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 487427,
       "num": 487427,
       "word": "四川增本土确诊69例",
@@ -729,14 +777,6 @@
       "onboard_time": 1662597449,
       "rank": 13,
       "category": "军事"
-    },
-    {
-      "raw_hot": 457656,
-      "num": 441215,
-      "word": "伊犁疫情防控",
-      "onboard_time": 1662635370,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 456517,
@@ -801,6 +841,22 @@
       "onboard_time": 1662627388,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 418171,
+      "num": 418171,
+      "word": "美军暂停接收F35战机",
+      "onboard_time": 1662638911,
+      "rank": 15,
+      "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 416881,
+      "num": 416881,
+      "word": "网友建议中秋节放长假",
+      "onboard_time": 1662636269,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 415607,
@@ -963,6 +1019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 359626,
+      "num": 359626,
+      "word": "四川1岁女童地震中颅骨凹陷被修复",
+      "onboard_time": 1662636512,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 359028,
       "num": 359028,
       "word": "谢可寅把安全停车抄写500遍",
@@ -977,6 +1041,14 @@
       "onboard_time": 1662632009,
       "rank": 42,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 350797,
+      "num": 350797,
+      "word": "法考延期",
+      "onboard_time": 1662639028,
+      "rank": 21,
+      "category": "教育"
     },
     {
       "raw_hot": 349100,
@@ -1011,12 +1083,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 344850,
+      "num": 344850,
+      "word": "曝知乎在用户截图中嵌入盲水印",
+      "onboard_time": 1662637590,
+      "rank": 22,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 342208,
       "num": 342208,
       "word": "浙江卫健委回应无薪育儿假期建议",
       "onboard_time": 1662633208,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 342104,
+      "num": 342104,
+      "word": "曝中国篮协有意归化球员",
+      "onboard_time": 1662639451,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 341395,
@@ -1163,6 +1251,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 295976,
+      "num": 295976,
+      "word": "鬼怪",
+      "onboard_time": 1662639930,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 293196,
       "num": 293196,
       "word": "库克称期待闪耀的苹果发布会",
@@ -1184,6 +1280,14 @@
       "word": "尔冬升丁程鑫亦师亦友",
       "onboard_time": 1662632247,
       "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 286607,
+      "num": 286607,
+      "word": "梁爽不想当主播了",
+      "onboard_time": 1662638131,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -1353,6 +1457,22 @@
       "onboard_time": 1662621149,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 235685,
+      "num": 235685,
+      "word": "张凌赫发文告别谢危",
+      "onboard_time": 1662637891,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 232993,
+      "num": 232993,
+      "word": "郑州要求房企砸锅卖铁保交付",
+      "onboard_time": 1662638370,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230352,
@@ -1547,6 +1667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192608,
+      "num": 192608,
+      "word": "女孩海底捞吃火锅意外身亡",
+      "onboard_time": 1662640228,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190247,
       "num": 190247,
       "word": "郑州不配合烂尾楼复工房企要查税",
@@ -1595,6 +1723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 181433,
+      "num": 181433,
+      "word": "泸定地震已致86人遇难",
+      "onboard_time": 1662638850,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181078,
       "num": 181078,
       "word": "山东新增本土无症状77例",
@@ -1619,28 +1755,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 177300,
-      "num": 177300,
-      "word": "网友建议中秋节放长假",
-      "onboard_time": 1662636269,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 174739,
       "num": 143821,
       "word": "王一博长空之王少校军衔",
       "onboard_time": 1662631648,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 171738,
-      "num": 171738,
-      "word": "四川1岁女童地震中颅骨凹陷被修复",
-      "onboard_time": 1662636512,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 169754,
@@ -1705,6 +1825,14 @@
       "onboard_time": 1662628229,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 160731,
+      "num": 160731,
+      "word": "大爷泡脚治疗静脉曲张致双腿乌黑",
+      "onboard_time": 1662637410,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158093,
@@ -1873,6 +2001,14 @@
       "onboard_time": 1662634353,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 137320,
+      "num": 137320,
+      "word": "麻辣花生奶茶你喝过吗",
+      "onboard_time": 1662641011,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 136704,
