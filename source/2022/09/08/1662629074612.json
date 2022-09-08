@@ -1,0 +1,410 @@
+{
+  "runTime": 1662629074612,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2589680,
+        "num": 2589680,
+        "word": "海底捞回应女顾客就餐时身亡",
+        "onboard_time": 1662623249,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1879441,
+        "num": 1879441,
+        "word": "手术摘除1个肾十年后查出2个肾",
+        "onboard_time": 1662623007,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69691,
+        "num": 1591387,
+        "word": "泸定生生不息的12个瞬间",
+        "onboard_time": 1662623428,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1550598,
+        "num": 1550598,
+        "word": "HR竟疑惑应届生刚毕业在意工资",
+        "onboard_time": 1662626430,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1001452,
+        "num": 1001452,
+        "word": "虞书欣带了300套衣服去小森林剧组",
+        "onboard_time": 1662619767,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 960441,
+        "num": 960441,
+        "word": "居民被高空坠狗砸中不幸身亡",
+        "onboard_time": 1662626009,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 943917,
+        "num": 943917,
+        "word": "如果鬼怪让黄渤来演",
+        "onboard_time": 1662624987,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 664792,
+        "num": 664792,
+        "word": "明天下午北京预计15时开堵",
+        "onboard_time": 1662624028,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512308,
+        "num": 512308,
+        "word": "没发生疫情地区要开展常态化核酸检测",
+        "onboard_time": 1662627328,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453541,
+        "num": 453541,
+        "word": "王一博看到歼20的表情",
+        "onboard_time": 1662621327,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1714041,
+        "num": 450130,
+        "word": "杨幂为嘉行传媒第三大股东",
+        "onboard_time": 1662626308,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 864535,
+        "num": 439114,
+        "word": "张大大是复旦研究生",
+        "onboard_time": 1662617429,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 770825,
+        "num": 426940,
+        "word": "苹果学生优惠无法加钱买AirPodsPro",
+        "onboard_time": 1662624688,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 593814,
+        "num": 419071,
+        "word": "我国已婚育女性超3成存在漏尿问题",
+        "onboard_time": 1662614790,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411999,
+        "num": 411999,
+        "word": "玲娜贝儿被指中秋穿左衽丧服",
+        "onboard_time": 1662612032,
+        "rank": 14,
+        "category": "动漫,社会新闻"
+      },
+      {
+        "raw_hot": 554955,
+        "num": 411997,
+        "word": "罗永浩硬赞苹果灵动岛",
+        "onboard_time": 1662624390,
+        "rank": 15,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 409576,
+        "num": 409576,
+        "word": "中秋国庆飞机高铁需48小时核酸证明",
+        "onboard_time": 1662624626,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403411,
+        "num": 403411,
+        "word": "宁安如梦",
+        "onboard_time": 1662625948,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 329908,
+        "num": 329908,
+        "word": "女子因闺蜜不识字扮陌生人骗她钱",
+        "onboard_time": 1662618449,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297704,
+        "num": 297704,
+        "word": "服务员上菜手滑热汤洒向小孩",
+        "onboard_time": 1662622527,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447015,
+        "num": 296335,
+        "word": "华强北",
+        "onboard_time": 1662622889,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 373014,
+        "num": 294558,
+        "word": "刘诗诗 清冷",
+        "onboard_time": 1662627388,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 356047,
+        "num": 291916,
+        "word": "赵露思灰色背心随拍",
+        "onboard_time": 1662620788,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346905,
+        "num": 288572,
+        "word": "任嘉伦李沁请君红衣婚服造型",
+        "onboard_time": 1662626366,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 321201,
+        "num": 285671,
+        "word": "如何看待iPhone14Pro灵动岛设计",
+        "onboard_time": 1662620547,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 284238,
+        "num": 284238,
+        "word": "舅舅用花生壳为外甥制灯笼",
+        "onboard_time": 1662621628,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252840,
+        "num": 252840,
+        "word": "如何从头像看出一个人性格",
+        "onboard_time": 1662626550,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218918,
+        "num": 218918,
+        "word": "北京9月7日新增本土感染者10例",
+        "onboard_time": 1662628047,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207767,
+        "num": 207767,
+        "word": "夫妻吵架将电脑椅扔下楼",
+        "onboard_time": 1662615328,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182391,
+        "num": 207374,
+        "word": "代放生一只甲鱼18888元",
+        "onboard_time": 1662618866,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309856,
+        "num": 207123,
+        "word": "谢可寅把安全停车抄写500遍",
+        "onboard_time": 1662621327,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294254,
+        "num": 206358,
+        "word": "周寻 白月光",
+        "onboard_time": 1662624806,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253358,
+        "num": 206188,
+        "word": "王鹤棣浮图缘打戏路透",
+        "onboard_time": 1662623787,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 243776,
+        "num": 205516,
+        "word": "东八区的先生们里的台词",
+        "onboard_time": 1662628468,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205288,
+        "num": 205288,
+        "word": "女性不应该为漏尿感到羞耻",
+        "onboard_time": 1662619108,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195040,
+        "num": 195040,
+        "word": "Doinb升级当爸爸",
+        "onboard_time": 1662611493,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191955,
+        "num": 191955,
+        "word": "大庆通报网传孕妇就医被拒流产",
+        "onboard_time": 1662619225,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188820,
+        "num": 188820,
+        "word": "iPhone14 Pro Max",
+        "onboard_time": 1662592762,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 183155,
+        "num": 183155,
+        "word": "杭州95后外国小伙吃螺蛳粉成专家",
+        "onboard_time": 1662625528,
+        "rank": 38,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 181783,
+        "num": 181783,
+        "word": "家里突然有蟑螂的原因",
+        "onboard_time": 1662620606,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 241573,
+        "num": 179041,
+        "word": "时代少年团内卷方式是pk俯卧撑",
+        "onboard_time": 1662625707,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207184,
+        "num": 178196,
+        "word": "网传森碟走职业网球",
+        "onboard_time": 1662617547,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174127,
+        "num": 174127,
+        "word": "上周每44秒就有1人死于新冠",
+        "onboard_time": 1662614249,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162452,
+        "num": 162452,
+        "word": "男子求复合遭拒强制猥亵前女友",
+        "onboard_time": 1662614249,
+        "rank": 43,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 157525,
+        "num": 157525,
+        "word": "原来乐谱用中文写也看不懂",
+        "onboard_time": 1662627148,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156151,
+        "num": 156151,
+        "word": "关晓彤甜心妆",
+        "onboard_time": 1662619046,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150225,
+        "num": 150225,
+        "word": "狗狗觉得主人的拖鞋不好后",
+        "onboard_time": 1662616468,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149254,
+        "num": 149254,
+        "word": "郑州游泳馆较大坍塌事故18人被问责",
+        "onboard_time": 1662619345,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135306,
+        "num": 135306,
+        "word": "iOS16可检测假冒AirPods",
+        "onboard_time": 1662610227,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 128868,
+        "num": 128868,
+        "word": "男孩地震后与父母重逢呼唤爸爸",
+        "onboard_time": 1662628586,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#打卡中国#"
+    }
+  }
+}

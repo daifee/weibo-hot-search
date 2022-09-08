@@ -1,6 +1,6 @@
 {
   "startTime": 1662568440215,
-  "endTime": 1662626788551,
+  "endTime": 1662629074612,
   "band_list": [
     {
       "raw_hot": 4450676,
@@ -43,8 +43,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 2566713,
-      "num": 2566713,
+      "raw_hot": 2589680,
+      "num": 2589680,
       "word": "海底捞回应女顾客就餐时身亡",
       "onboard_time": 1662623249,
       "rank": 25,
@@ -123,6 +123,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1714041,
+      "num": 454534,
+      "word": "杨幂为嘉行传媒第三大股东",
+      "onboard_time": 1662626308,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1695904,
       "num": 1695904,
       "word": "济南一国企要买3000套房",
@@ -139,19 +147,19 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1618038,
-      "num": 454534,
-      "word": "杨幂为嘉行传媒第三大股东",
-      "onboard_time": 1662626308,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1565414,
       "num": 1565414,
       "word": "我国已婚育女性超3成存在漏尿问题",
       "onboard_time": 1662614790,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1550598,
+      "num": 1550598,
+      "word": "HR竟疑惑应届生刚毕业在意工资",
+      "onboard_time": 1662626430,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -291,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 960441,
+      "num": 960441,
+      "word": "居民被高空坠狗砸中不幸身亡",
+      "onboard_time": 1662626009,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 954644,
       "num": 954644,
       "word": "王守义已注册十四香商标",
@@ -305,6 +321,14 @@
       "onboard_time": 1662612393,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 943917,
+      "num": 943917,
+      "word": "如果鬼怪让黄渤来演",
+      "onboard_time": 1662624987,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 936870,
@@ -379,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 770825,
+      "num": 426940,
+      "word": "苹果学生优惠无法加钱买AirPodsPro",
+      "onboard_time": 1662624688,
+      "rank": 23,
+      "category": "科技"
+    },
+    {
       "raw_hot": 768451,
       "num": 768451,
       "word": "把大妈踹下公交男子被抓获",
@@ -411,12 +443,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 722407,
-      "num": 722407,
-      "word": "如果鬼怪让黄渤来演",
-      "onboard_time": 1662624987,
-      "rank": 8,
-      "category": "影视"
+      "raw_hot": 664792,
+      "num": 664792,
+      "word": "明天下午北京预计15时开堵",
+      "onboard_time": 1662624028,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 662065,
@@ -457,14 +489,6 @@
       "onboard_time": 1662599606,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 599307,
-      "num": 410856,
-      "word": "苹果学生优惠无法加钱买AirPodsPro",
-      "onboard_time": 1662624688,
-      "rank": 23,
-      "category": "科技"
     },
     {
       "raw_hot": 597754,
@@ -515,6 +539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 554955,
+      "num": 411997,
+      "word": "罗永浩硬赞苹果灵动岛",
+      "onboard_time": 1662624390,
+      "rank": 31,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 541664,
       "num": 541664,
       "word": "贵阳筛查到301例阳性感染者",
@@ -555,19 +587,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 512308,
+      "num": 512308,
+      "word": "没发生疫情地区要开展常态化核酸检测",
+      "onboard_time": 1662627328,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 510378,
       "num": 510378,
       "word": "泸定地震已致82人遇难",
       "onboard_time": 1662607346,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 500290,
-      "num": 500290,
-      "word": "明天下午北京预计15时开堵",
-      "onboard_time": 1662624028,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -731,6 +763,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 409576,
+      "num": 409576,
+      "word": "中秋国庆飞机高铁需48小时核酸证明",
+      "onboard_time": 1662624626,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 408206,
       "num": 297618,
       "word": "时代少年团内卷方式是pk俯卧撑",
@@ -745,6 +785,14 @@
       "onboard_time": 1662621628,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 403411,
+      "num": 403411,
+      "word": "宁安如梦",
+      "onboard_time": 1662625948,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 401403,
@@ -785,6 +833,14 @@
       "onboard_time": 1662622527,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 373014,
+      "num": 294558,
+      "word": "刘诗诗 清冷",
+      "onboard_time": 1662627388,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 368939,
@@ -891,14 +947,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 327490,
-      "num": 295926,
-      "word": "罗永浩硬赞苹果灵动岛",
-      "onboard_time": 1662624390,
-      "rank": 31,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 318542,
       "num": 318542,
       "word": "西出玉门倪妮白宇联合声明",
@@ -939,14 +987,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 309544,
-      "num": 232891,
-      "word": "宁安如梦",
-      "onboard_time": 1662625948,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 303954,
       "num": 303954,
       "word": "五条人唱出了哥你好里的父母爱情",
@@ -960,14 +1000,6 @@
       "word": "宜宾疫情防控",
       "onboard_time": 1662564333,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 301471,
-      "num": 301471,
-      "word": "中秋国庆飞机高铁需48小时核酸证明",
-      "onboard_time": 1662624626,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1009,14 +1041,6 @@
       "onboard_time": 1662592222,
       "rank": 26,
       "category": "科技"
-    },
-    {
-      "raw_hot": 294677,
-      "num": 294677,
-      "word": "居民被高空坠狗砸中不幸身亡",
-      "onboard_time": 1662626009,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 293196,
@@ -1115,6 +1139,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 252840,
+      "num": 252840,
+      "word": "如何从头像看出一个人性格",
+      "onboard_time": 1662626550,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 247373,
       "num": 247373,
       "word": "杨戬在逃神仙",
@@ -1129,6 +1161,14 @@
       "onboard_time": 1662617968,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243776,
+      "num": 205516,
+      "word": "东八区的先生们里的台词",
+      "onboard_time": 1662628468,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 243724,
@@ -1219,6 +1259,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 218918,
+      "num": 218918,
+      "word": "北京9月7日新增本土感染者10例",
+      "onboard_time": 1662628047,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218670,
       "num": 218670,
       "word": "请把西装焊死在身上",
@@ -1249,14 +1297,6 @@
       "onboard_time": 1662612689,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 206700,
-      "num": 206700,
-      "word": "HR竟疑惑应届生刚毕业在意工资",
-      "onboard_time": 1662626430,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 203881,
@@ -1435,6 +1475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 157525,
+      "num": 157525,
+      "word": "原来乐谱用中文写也看不懂",
+      "onboard_time": 1662627148,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154541,
       "num": 154541,
       "word": "多支军队救援力量深入震区",
@@ -1539,14 +1587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 141571,
-      "num": 141571,
-      "word": "如何从头像看出一个人性格",
-      "onboard_time": 1662626550,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 141424,
       "num": 141424,
       "word": "中国乒乓首发预告",
@@ -1625,6 +1665,14 @@
       "onboard_time": 1662564271,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 128868,
+      "num": 128868,
+      "word": "男孩地震后与父母重逢呼唤爸爸",
+      "onboard_time": 1662628586,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127206,
