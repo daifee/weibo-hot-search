@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662612958675,
+  "endTime": 1662617033875,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -193,6 +193,14 @@
       "onboard_time": 1662378990,
       "rank": 1,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 3161056,
+      "num": 3161056,
+      "word": "玲娜贝儿被指中秋穿左衽丧服",
+      "onboard_time": 1662612032,
+      "rank": 49,
+      "category": "动漫,社会新闻"
     },
     {
       "raw_hot": 3083466,
@@ -2227,6 +2235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1072845,
+      "num": 518757,
+      "word": "iOS16可检测假冒AirPods",
+      "onboard_time": 1662610227,
+      "rank": 10,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1070956,
       "num": 411737,
       "word": "iPhone14比13更香吗",
@@ -2355,6 +2371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1040027,
+      "num": 493239,
+      "word": "男子求复合遭拒强制猥亵前女友",
+      "onboard_time": 1662614249,
+      "rank": 11,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1039104,
       "num": 446918,
       "word": "如何看待华为mate50硬刚苹果",
@@ -2465,6 +2489,14 @@
       "onboard_time": 1662516626,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1010152,
+      "num": 300394,
+      "word": "王鹤棣张艺兴檀健次下班路透",
+      "onboard_time": 1662615989,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1010107,
@@ -3491,6 +3523,14 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 806090,
+      "num": 806090,
+      "word": "我国已婚育女性超3成存在漏尿问题",
+      "onboard_time": 1662614790,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 803689,
       "num": 803689,
       "word": "为什么越来越多人想当老师",
@@ -3561,6 +3601,14 @@
       "onboard_time": 1662290066,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 792822,
+      "num": 792822,
+      "word": "女生网课休息狂炫鸡腿成吃播现场",
+      "onboard_time": 1662613828,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 790336,
@@ -4011,6 +4059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 704397,
+      "num": 704397,
+      "word": "上周每44秒就有1人死于新冠",
+      "onboard_time": 1662614249,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 703351,
       "num": 703351,
       "word": "24名工科专业女生23个被分到一个班",
@@ -4260,7 +4316,7 @@
     },
     {
       "raw_hot": 662065,
-      "num": 346886,
+      "num": 416464,
       "word": "天才小熊猫",
       "onboard_time": 1662611072,
       "rank": 28,
@@ -4851,14 +4907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 587673,
-      "num": 331890,
-      "word": "玲娜贝儿被指中秋穿左衽丧服",
-      "onboard_time": 1662612032,
-      "rank": 49,
-      "category": "动漫,社会新闻"
-    },
-    {
       "raw_hot": 584258,
       "num": 584258,
       "word": "男孩暑假送外卖挣17350元交学费",
@@ -5153,6 +5201,14 @@
       "onboard_time": 1662513567,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 549649,
+      "num": 449274,
+      "word": "iPhone14 Pro Max",
+      "onboard_time": 1662592762,
+      "rank": 33,
+      "category": "科技"
     },
     {
       "raw_hot": 548660,
@@ -6603,6 +6659,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 431866,
+      "num": 431866,
+      "word": "异地恋超过3年你接受吗",
+      "onboard_time": 1662610587,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 430694,
       "num": 430694,
       "word": "董思怡段家宝哭得好真实",
@@ -6801,6 +6865,14 @@
       "onboard_time": 1662174146,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 417323,
+      "num": 417323,
+      "word": "刘畊宏vivi中餐厅好甜",
+      "onboard_time": 1662615568,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 415623,
@@ -8331,14 +8403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 345627,
-      "num": 330328,
-      "word": "异地恋超过3年你接受吗",
-      "onboard_time": 1662610587,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 345554,
       "num": 345554,
       "word": "余霜",
@@ -9145,6 +9209,14 @@
       "onboard_time": 1662360570,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 313903,
+      "num": 313903,
+      "word": "美国19岁男子直播持枪行凶过程",
+      "onboard_time": 1662613650,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 313739,
@@ -10955,6 +11027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 264284,
+      "num": 264284,
+      "word": "黄景瑜说非常想进城拍戏",
+      "onboard_time": 1662611852,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 264259,
       "num": 264259,
       "word": "张睿余墨扇始扇终",
@@ -11073,14 +11153,6 @@
       "onboard_time": 1662200125,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 258385,
-      "num": 258385,
-      "word": "黄景瑜说非常想进城拍戏",
-      "onboard_time": 1662611852,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 258167,
@@ -12395,6 +12467,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 217048,
+      "num": 217048,
+      "word": "实习为什么对大学生很重要",
+      "onboard_time": 1662615030,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 216980,
       "num": 216980,
       "word": "刘诗诗刘宇宁比耶合影",
@@ -12419,6 +12499,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 216365,
+      "num": 216365,
+      "word": "夫妻吵架将电脑椅扔下楼",
+      "onboard_time": 1662615328,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216269,
       "num": 216269,
       "word": "地震救援消防员背伤者踩木桥渡河",
@@ -12433,6 +12521,14 @@
       "onboard_time": 1662120988,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 215928,
+      "num": 215928,
+      "word": "高校定制月饼有多卷",
+      "onboard_time": 1662611007,
+      "rank": 46,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 215665,
@@ -12883,6 +12979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 203881,
+      "num": 203881,
+      "word": "中国乒乓如何重回巅峰",
+      "onboard_time": 1662613231,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 203559,
       "num": 203559,
       "word": "胰岛素含片或将问世",
@@ -13171,14 +13275,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 195748,
-      "num": 195748,
-      "word": "高校定制月饼有多卷",
-      "onboard_time": 1662611007,
-      "rank": 46,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 195732,
       "num": 195732,
       "word": "毕业后悟出的生活真相",
@@ -13193,6 +13289,14 @@
       "onboard_time": 1662568762,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 195322,
+      "num": 195322,
+      "word": "杨紫琼首登VOGUE封面",
+      "onboard_time": 1662615210,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 195293,
@@ -13811,14 +13915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 176831,
-      "num": 141802,
-      "word": "iPhone14 Pro Max",
-      "onboard_time": 1662592762,
-      "rank": 33,
-      "category": "科技"
-    },
-    {
       "raw_hot": 175712,
       "num": 175712,
       "word": "消防赶赴泸定救援",
@@ -13971,6 +14067,14 @@
       "category": "艺人,美食"
     },
     {
+      "raw_hot": 170804,
+      "num": 170804,
+      "word": "狗狗觉得主人的拖鞋不好后",
+      "onboard_time": 1662616468,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 170003,
       "num": 170003,
       "word": "为什么形容露水是白的",
@@ -14009,6 +14113,14 @@
       "onboard_time": 1662184287,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168867,
+      "num": 158694,
+      "word": "宋茜演的杜帝不是杜娣",
+      "onboard_time": 1662612272,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 168744,
@@ -14257,6 +14369,14 @@
       "onboard_time": 1662369928,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161776,
+      "num": 161776,
+      "word": "日本研发半机械蟑螂",
+      "onboard_time": 1662616587,
+      "rank": 38,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 161557,
@@ -14795,6 +14915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147186,
+      "num": 147186,
+      "word": "敷衍家长做的中秋灯笼",
+      "onboard_time": 1662615448,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 147112,
       "num": 147112,
       "word": "2022LPL全球总决赛资格赛",
@@ -15185,6 +15313,14 @@
       "onboard_time": 1662430586,
       "rank": 45,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 135841,
+      "num": 135841,
+      "word": "大妈手拿掸子给等红灯车扫灰要钱",
+      "onboard_time": 1662614007,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135739,

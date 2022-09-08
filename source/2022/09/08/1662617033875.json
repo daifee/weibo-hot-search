@@ -1,0 +1,410 @@
+{
+  "runTime": 1662617033875,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3161056,
+        "num": 3161056,
+        "word": "玲娜贝儿被指中秋穿左衽丧服",
+        "onboard_time": 1662612032,
+        "rank": 0,
+        "category": "动漫,社会新闻"
+      },
+      {
+        "raw_hot": 1251027,
+        "num": 1251027,
+        "word": "Doinb升级当爸爸",
+        "onboard_time": 1662611493,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 16520,
+        "num": 1015724,
+        "word": "他们全力以赴只为泸定早日安定",
+        "onboard_time": 1662539846,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 940001,
+        "num": 940001,
+        "word": "贵阳一公职人员开公车给朋友送菜",
+        "onboard_time": 1662610409,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 806090,
+        "num": 806090,
+        "word": "我国已婚育女性超3成存在漏尿问题",
+        "onboard_time": 1662614790,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 792822,
+        "num": 792822,
+        "word": "女生网课休息狂炫鸡腿成吃播现场",
+        "onboard_time": 1662613828,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 780138,
+        "num": 780138,
+        "word": "谢可寅方道歉",
+        "onboard_time": 1662611311,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 704397,
+        "num": 704397,
+        "word": "上周每44秒就有1人死于新冠",
+        "onboard_time": 1662614249,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632935,
+        "num": 632935,
+        "word": "四川特警救出3人得知爸爸妹妹遇难",
+        "onboard_time": 1662608127,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 547973,
+        "num": 547973,
+        "word": "密室大逃脱",
+        "onboard_time": 1662611251,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1072845,
+        "num": 518757,
+        "word": "iOS16可检测假冒AirPods",
+        "onboard_time": 1662610227,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1040027,
+        "num": 493239,
+        "word": "男子求复合遭拒强制猥亵前女友",
+        "onboard_time": 1662614249,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 466590,
+        "num": 466590,
+        "word": "济南一国企要买3000套房",
+        "onboard_time": 1662606327,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549649,
+        "num": 449274,
+        "word": "iPhone14 Pro Max",
+        "onboard_time": 1662592762,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 431866,
+        "num": 431866,
+        "word": "异地恋超过3年你接受吗",
+        "onboard_time": 1662610587,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 417323,
+        "num": 417323,
+        "word": "刘畊宏vivi中餐厅好甜",
+        "onboard_time": 1662615568,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 521552,
+        "num": 416464,
+        "word": "天才小熊猫",
+        "onboard_time": 1662611072,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 412437,
+        "num": 412437,
+        "word": "成都82岁咸菜婆婆捐10380元抗疫",
+        "onboard_time": 1662606086,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313903,
+        "num": 313903,
+        "word": "美国19岁男子直播持枪行凶过程",
+        "onboard_time": 1662613650,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304904,
+        "num": 304904,
+        "word": "7旬孤寡老人拍遗照笑得像孩子",
+        "onboard_time": 1662602788,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1010152,
+        "num": 300394,
+        "word": "王鹤棣张艺兴檀健次下班路透",
+        "onboard_time": 1662615989,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 325456,
+        "num": 295635,
+        "word": "贺峻霖中传宿舍见面会自我介绍",
+        "onboard_time": 1662612393,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273733,
+        "num": 273733,
+        "word": "当地放生协会回应大爷大妈放生矿泉水",
+        "onboard_time": 1662609210,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264284,
+        "num": 264284,
+        "word": "黄景瑜说非常想进城拍戏",
+        "onboard_time": 1662611852,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 259677,
+        "num": 259677,
+        "word": "赵丽颖林更新一起吊威亚路透",
+        "onboard_time": 1662609269,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 229127,
+        "num": 229127,
+        "word": "金泰亨韩版VOGUE10月刊封面",
+        "onboard_time": 1662612873,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 217048,
+        "num": 217048,
+        "word": "实习为什么对大学生很重要",
+        "onboard_time": 1662615030,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 216365,
+        "num": 216365,
+        "word": "夫妻吵架将电脑椅扔下楼",
+        "onboard_time": 1662615328,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215928,
+        "num": 215928,
+        "word": "高校定制月饼有多卷",
+        "onboard_time": 1662611007,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 215272,
+        "num": 215272,
+        "word": "把大妈踹下公交男子被抓获",
+        "onboard_time": 1662603806,
+        "rank": 29,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 214863,
+        "num": 214863,
+        "word": "东八区的先生们 油腻",
+        "onboard_time": 1662603566,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203881,
+        "num": 203881,
+        "word": "中国乒乓如何重回巅峰",
+        "onboard_time": 1662613231,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200120,
+        "num": 200120,
+        "word": "TWICE小分队MISAMO",
+        "onboard_time": 1662606685,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 195322,
+        "num": 195322,
+        "word": "杨紫琼首登VOGUE封面",
+        "onboard_time": 1662615210,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 179462,
+        "num": 179462,
+        "word": "乡村小学奖给学生的猪长到300斤",
+        "onboard_time": 1662607707,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 170804,
+        "num": 170804,
+        "word": "狗狗觉得主人的拖鞋不好后",
+        "onboard_time": 1662616468,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169276,
+        "num": 169276,
+        "word": "管晨辰回应退役",
+        "onboard_time": 1662610049,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168307,
+        "num": 168307,
+        "word": "当妈妈第一次看到女儿做饭",
+        "onboard_time": 1662606566,
+        "rank": 37,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 161776,
+        "num": 161776,
+        "word": "日本研发半机械蟑螂",
+        "onboard_time": 1662616587,
+        "rank": 38,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 158873,
+        "num": 158873,
+        "word": "当代年轻人为什么爱养鱼",
+        "onboard_time": 1662604766,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168867,
+        "num": 158694,
+        "word": "宋茜演的杜帝不是杜娣",
+        "onboard_time": 1662612272,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157098,
+        "num": 157098,
+        "word": "一个人的中秋be like",
+        "onboard_time": 1662609808,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147186,
+        "num": 147186,
+        "word": "敷衍家长做的中秋灯笼",
+        "onboard_time": 1662615448,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138362,
+        "num": 138362,
+        "word": "五条人唱出了哥你好里的父母爱情",
+        "onboard_time": 1662610049,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135841,
+        "num": 135841,
+        "word": "大妈手拿掸子给等红灯车扫灰要钱",
+        "onboard_time": 1662614007,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130497,
+        "num": 130497,
+        "word": "南京疫情防控",
+        "onboard_time": 1662594805,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125339,
+        "num": 125339,
+        "word": "福建女生以为在兰州上学会有骆驼接",
+        "onboard_time": 1662603685,
+        "rank": 46,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 116408,
+        "num": 116408,
+        "word": "男子质疑牙刷标注1万根毛亲自数",
+        "onboard_time": 1662597209,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115243,
+        "num": 115243,
+        "word": "泸定地震已致82人遇难",
+        "onboard_time": 1662607346,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111665,
+        "num": 111665,
+        "word": "妹妹哭泣大班哥哥跑教室喂饭",
+        "onboard_time": 1662599789,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#打卡中国#"
+    }
+  }
+}
