@@ -1,0 +1,410 @@
+{
+  "runTime": 1662604247685,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1469759,
+        "num": 1469759,
+        "word": "农民参缴公积金意义不容小觑",
+        "onboard_time": 1662600686,
+        "rank": 0,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1242429,
+        "num": 1242429,
+        "word": "谢可寅违章停车",
+        "onboard_time": 1662603385,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14607,
+        "num": 1117240,
+        "word": "他们全力以赴只为泸定早日安定",
+        "onboard_time": 1662539846,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2906289,
+        "num": 1095284,
+        "word": "官网下架iPhone13Pro系列",
+        "onboard_time": 1662600568,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1044101,
+        "num": 1044101,
+        "word": "男子质疑牙刷标注1万根毛亲自数",
+        "onboard_time": 1662597209,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 615240,
+        "num": 615240,
+        "word": "妹妹哭泣大班哥哥跑教室喂饭",
+        "onboard_time": 1662599789,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1547377,
+        "num": 613486,
+        "word": "iPhone14颜色",
+        "onboard_time": 1662592822,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 603934,
+        "num": 603934,
+        "word": "被张翰穿高跟鞋的样子整笑了",
+        "onboard_time": 1662599606,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 535301,
+        "num": 535301,
+        "word": "警方通报老人带泡泡杆乘车被踹下车",
+        "onboard_time": 1662594446,
+        "rank": 8,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1281729,
+        "num": 514729,
+        "word": "苹果发布史上最贵iPhone",
+        "onboard_time": 1662601886,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 487427,
+        "num": 487427,
+        "word": "四川增本土确诊69例",
+        "onboard_time": 1662600866,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 464357,
+        "num": 464357,
+        "word": "北京师范大学120周年校庆",
+        "onboard_time": 1662602068,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 892829,
+        "num": 463283,
+        "word": "iPhone14系列没涨价",
+        "onboard_time": 1662597150,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 461001,
+        "num": 461001,
+        "word": "普京说俄方在军事行动中没损失",
+        "onboard_time": 1662597449,
+        "rank": 13,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 400277,
+        "num": 400277,
+        "word": "金智秀朴彩英新专作词",
+        "onboard_time": 1662601228,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 636905,
+        "num": 390452,
+        "word": "苹果手表可精准预测女性排卵期",
+        "onboard_time": 1662599965,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 368418,
+        "num": 368418,
+        "word": "7旬孤寡老人拍遗照笑得像孩子",
+        "onboard_time": 1662602788,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341395,
+        "num": 341395,
+        "word": "王晓晨新剧刚怀孕就流产",
+        "onboard_time": 1662561571,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 574445,
+        "num": 339614,
+        "word": "苹果称iPhone电力足够从早用到晚",
+        "onboard_time": 1662592881,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 336968,
+        "num": 336968,
+        "word": "南京疫情防控",
+        "onboard_time": 1662594805,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251965,
+        "num": 251965,
+        "word": "王守义已注册十四香商标",
+        "onboard_time": 1662603085,
+        "rank": 20,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1842563,
+        "num": 250606,
+        "word": "iPhone14Pro灵动岛",
+        "onboard_time": 1662592343,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 248448,
+        "num": 248448,
+        "word": "为什么要少玩手机多看书",
+        "onboard_time": 1662567385,
+        "rank": 22,
+        "category": "科技,情感"
+      },
+      {
+        "raw_hot": 229542,
+        "num": 229542,
+        "word": "邱涛是卧底",
+        "onboard_time": 1662603205,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 348065,
+        "num": 229349,
+        "word": "iPhone13",
+        "onboard_time": 1662600625,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 228980,
+        "num": 228980,
+        "word": "中秋赏月航班火爆",
+        "onboard_time": 1662597568,
+        "rank": 25,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 227637,
+        "num": 227637,
+        "word": "上海疫情防控",
+        "onboard_time": 1662598527,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220750,
+        "num": 220750,
+        "word": "巨石坠落与救援车辆擦面而过",
+        "onboard_time": 1662596848,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208816,
+        "num": 208816,
+        "word": "你选周寻还是齐颂",
+        "onboard_time": 1662563313,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202049,
+        "num": 202049,
+        "word": "两个人的小森林虞书欣特辑",
+        "onboard_time": 1662604106,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199510,
+        "num": 199510,
+        "word": "寻果cp",
+        "onboard_time": 1662603266,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189734,
+        "num": 189734,
+        "word": "爱马仕被阿姨压坏",
+        "onboard_time": 1662554012,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181078,
+        "num": 181078,
+        "word": "山东新增本土无症状77例",
+        "onboard_time": 1662597392,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165496,
+        "num": 165496,
+        "word": "武警赶路背上宝宝淡定喝奶",
+        "onboard_time": 1662596429,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164713,
+        "num": 164713,
+        "word": "大学生算是把美妆玩明白了",
+        "onboard_time": 1662592040,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 164500,
+        "num": 164500,
+        "word": "原来这种情况不属于驼背",
+        "onboard_time": 1662592040,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153000,
+        "num": 153000,
+        "word": "北京9月7日新增本土确诊7例",
+        "onboard_time": 1662595767,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152588,
+        "num": 152588,
+        "word": "两位奶奶直升机上紧握消防员的手",
+        "onboard_time": 1662593966,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149761,
+        "num": 149761,
+        "word": "谭维维演的张桂梅",
+        "onboard_time": 1662559114,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 144883,
+        "num": 144883,
+        "word": "东八区的先生们 油腻",
+        "onboard_time": 1662603566,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142968,
+        "num": 142968,
+        "word": "把大妈踹下公交男子被抓获",
+        "onboard_time": 1662603806,
+        "rank": 40,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 135515,
+        "num": 135515,
+        "word": "福建女生以为在兰州上学会有骆驼接",
+        "onboard_time": 1662603685,
+        "rank": 41,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 301025,
+        "num": 135450,
+        "word": "iPhone14值不值得买",
+        "onboard_time": 1662593304,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 134110,
+        "num": 134110,
+        "word": "9月7日新增确诊280例",
+        "onboard_time": 1662603145,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132400,
+        "num": 132400,
+        "word": "冰雨火大结局好虐",
+        "onboard_time": 1662565229,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288123,
+        "num": 132399,
+        "word": "iPhone14Pro正式推出息屏显示",
+        "onboard_time": 1662602967,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 132239,
+        "num": 132239,
+        "word": "14年前他被救14年后他救人",
+        "onboard_time": 1662565107,
+        "rank": 46,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 124862,
+        "num": 124862,
+        "word": "王鹤棣冷帽造型饭拍",
+        "onboard_time": 1662566126,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121493,
+        "num": 121493,
+        "word": "一年级女孩入学不适应找老师抱抱",
+        "onboard_time": 1662556954,
+        "rank": 48,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 115069,
+        "num": 115069,
+        "word": "大S感谢小S",
+        "onboard_time": 1662551668,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#让共建一带一路成果更好惠及全体人民#"
+    }
+  }
+}
