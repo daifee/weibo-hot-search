@@ -1,0 +1,410 @@
+{
+  "runTime": 1662751195326,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 232757,
+        "num": 232757,
+        "word": "父亲信偏方让8岁女儿抽旱烟治脸黄",
+        "onboard_time": 1662739229,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178102,
+        "num": 178102,
+        "word": "官方回应高中一个班收8万班费",
+        "onboard_time": 1662746235,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 32801,
+        "num": 174585,
+        "word": "中秋遇上教师节",
+        "onboard_time": 1662738628,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173364,
+        "num": 173364,
+        "word": "男子放弃逃生拉闸泄洪救了几百人",
+        "onboard_time": 1662737789,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145938,
+        "num": 145938,
+        "word": "伊犁回应网传孩子高烧就医困难",
+        "onboard_time": 1662735870,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138533,
+        "num": 138533,
+        "word": "中国传媒大学出现1例初筛阳性",
+        "onboard_time": 1662725789,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137274,
+        "num": 137274,
+        "word": "专升本是专科生的最优选择吗",
+        "onboard_time": 1662719786,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 129642,
+        "num": 129642,
+        "word": "从此小说中的侠客有了脸",
+        "onboard_time": 1662744857,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 94843,
+        "num": 94843,
+        "word": "韩国民众在汉江拍到水怪",
+        "onboard_time": 1662724950,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86460,
+        "num": 86460,
+        "word": "东八区的先生们 逐梦演艺圈",
+        "onboard_time": 1662741146,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 80894,
+        "num": 80894,
+        "word": "原来iPhone自带拼接长图功能",
+        "onboard_time": 1662726391,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 77081,
+        "num": 77081,
+        "word": "父母均博士女儿学业压力大轻生",
+        "onboard_time": 1662732031,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 74844,
+        "num": 74844,
+        "word": "薛凯琪晒浪姐3库存照",
+        "onboard_time": 1662746955,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 65810,
+        "num": 65810,
+        "word": "寻果原型",
+        "onboard_time": 1662738390,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 59789,
+        "num": 59789,
+        "word": "原来五仁月饼是这样变难吃的",
+        "onboard_time": 1662736471,
+        "rank": 14,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 52107,
+        "num": 52107,
+        "word": "其实最催泪的还是聊天记录",
+        "onboard_time": 1662734970,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 51492,
+        "num": 51492,
+        "word": "马苏新电影全程说蒙语台词",
+        "onboard_time": 1662746895,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 51182,
+        "num": 51182,
+        "word": "诈骗分子放烟花庆祝业绩超百万",
+        "onboard_time": 1662748754,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51056,
+        "num": 51056,
+        "word": "沉香如屑沉香重华收官战报",
+        "onboard_time": 1662745036,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 50715,
+        "num": 50715,
+        "word": "年轻人多久换一次手机",
+        "onboard_time": 1662727710,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 170991,
+        "num": 50664,
+        "word": "网传老人因饥饿上吊自杀不属实",
+        "onboard_time": 1662738808,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49711,
+        "num": 49711,
+        "word": "迪丽热巴黑色镶钻礼服写真",
+        "onboard_time": 1662735092,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 45805,
+        "num": 45805,
+        "word": "新疆库尔勒市道歉",
+        "onboard_time": 1662704008,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43616,
+        "num": 43616,
+        "word": "iPhone14Pro系列占中国订单85%",
+        "onboard_time": 1662705206,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 43480,
+        "num": 43480,
+        "word": "两个人的小森林回应植物学家质疑",
+        "onboard_time": 1662728790,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 39124,
+        "num": 39124,
+        "word": "爱情保安刘宇宁",
+        "onboard_time": 1662739108,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 39354,
+        "num": 38504,
+        "word": "Apple store",
+        "onboard_time": 1662725669,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 36803,
+        "num": 36803,
+        "word": "伊犁疫情发布会",
+        "onboard_time": 1662731912,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36762,
+        "num": 36762,
+        "word": "张朝阳说不能把运动当缓解焦虑工具",
+        "onboard_time": 1662739527,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38505,
+        "num": 36679,
+        "word": "苹果官网",
+        "onboard_time": 1662725789,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 36101,
+        "num": 36101,
+        "word": "月亮",
+        "onboard_time": 1662725071,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35935,
+        "num": 35935,
+        "word": "四川宜宾市全域实行静态管理",
+        "onboard_time": 1662725128,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34771,
+        "num": 34771,
+        "word": "3岁萌娃不愿上自己家族的幼儿园",
+        "onboard_time": 1662724766,
+        "rank": 32,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 33608,
+        "num": 33608,
+        "word": "小猫咪凭什么这么悠闲",
+        "onboard_time": 1662740366,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 32786,
+        "num": 32786,
+        "word": "警方回应哭诉奔丧缺钱男子实为骗子",
+        "onboard_time": 1662726870,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29528,
+        "num": 29528,
+        "word": "中秋",
+        "onboard_time": 1662739586,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28563,
+        "num": 28563,
+        "word": "蒋依依大学生电影节红毯造型",
+        "onboard_time": 1662736471,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27318,
+        "num": 27318,
+        "word": "感谢公司不发月饼之恩",
+        "onboard_time": 1662724108,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26679,
+        "num": 26679,
+        "word": "中国产出了全球几乎全部杨梅",
+        "onboard_time": 1662721948,
+        "rank": 38,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 26679,
+        "num": 26679,
+        "word": "好帅那女孩儿",
+        "onboard_time": 1662727051,
+        "rank": 39,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 25652,
+        "num": 25652,
+        "word": "我评世间有她",
+        "onboard_time": 1662743659,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24579,
+        "num": 24579,
+        "word": "黑话律师",
+        "onboard_time": 1662733410,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24296,
+        "num": 24296,
+        "word": "撒娇猫猫最好命",
+        "onboard_time": 1662739048,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24054,
+        "num": 24054,
+        "word": "iPhone14",
+        "onboard_time": 1662725431,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 23611,
+        "num": 23611,
+        "word": "齐颂察觉周寻姜小果关系",
+        "onboard_time": 1662733953,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23505,
+        "num": 23505,
+        "word": "女子求职被告知有男朋友一律不招",
+        "onboard_time": 1662723209,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23072,
+        "num": 23072,
+        "word": "中秋回家不要对爸妈说这几句话",
+        "onboard_time": 1662725310,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22387,
+        "num": 22387,
+        "word": "贺峻霖大影节主持好稳",
+        "onboard_time": 1662731432,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22115,
+        "num": 22115,
+        "word": "钟辰乐演唱会镜头",
+        "onboard_time": 1662738029,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 21652,
+        "num": 21652,
+        "word": "中印两军开始同步有计划组织脱离接触",
+        "onboard_time": 1662718226,
+        "rank": 49,
+        "category": "军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#决定中国命运的关键一招#"
+    }
+  }
+}

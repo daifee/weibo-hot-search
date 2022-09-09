@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/05 00:29:45 ~ 2022/09/10 02:48:30
+本榜单时间：2022/09/05 00:29:45 ~ 2022/09/10 03:19:55
 </p>
 </blockquote>
 <p>
@@ -7065,6 +7065,12 @@ LOL手游新版本预告（热度：178840）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%AB%98%E4%B8%AD%E4%B8%80%E4%B8%AA%E7%8F%AD%E6%94%B68%E4%B8%87%E7%8F%AD%E8%B4%B9%23" target="weibo">
+官方回应高中一个班收8万班费（热度：178102）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%85%AB%E5%8C%BA%E7%9A%84%E5%85%88%E7%94%9F%E4%BB%AC%E6%9C%89%E5%A4%9A%E6%82%AC%E6%B5%AE%23" target="weibo">
 东八区的先生们有多悬浮（热度：177923）
 </a>
@@ -7773,12 +7779,6 @@ LPL选手（热度：145199）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%AB%98%E4%B8%AD%E4%B8%80%E4%B8%AA%E7%8F%AD%E6%94%B68%E4%B8%87%E7%8F%AD%E8%B4%B9%23" target="weibo">
-官方回应高中一个班收8万班费（热度：141384）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%B3%E6%9D%BF%E8%83%BD%E6%88%90%E4%B8%BA%E7%94%9F%E4%BA%A7%E5%8A%9B%E5%B7%A5%E5%85%B7%E5%90%97%23" target="weibo">
 平板能成为生产力工具吗（热度：141123）
 </a>
@@ -8361,6 +8361,12 @@ RNG战胜LNG（热度：113796）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E5%87%AF%E7%90%AA%E6%99%92%E6%B5%AA%E5%A7%903%E5%BA%93%E5%AD%98%E7%85%A7%23" target="weibo">
+薛凯琪晒浪姐3库存照（热度：74844）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%8F%E4%B8%BA1961%E5%B9%B4%E6%9D%A5%E6%9C%80%E7%83%AD%E5%A4%8F%E5%A4%A9%23" target="weibo">
 今夏为1961年来最热夏天（热度：74636）
 </a>
@@ -8427,6 +8433,12 @@ NH金色的雨（热度：74151）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AF%88%E9%AA%97%E5%88%86%E5%AD%90%E6%94%BE%E7%83%9F%E8%8A%B1%E5%BA%86%E7%A5%9D%E4%B8%9A%E7%BB%A9%E8%B6%85%E7%99%BE%E4%B8%87%23" target="weibo">
+诈骗分子放烟花庆祝业绩超百万（热度：51182）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%98%E4%B9%A6%E9%95%BF%E8%87%B4%E5%93%80%23" target="weibo">
 联合国秘书长致哀（热度：50225）
 </a>
@@ -8453,12 +8465,6 @@ NH金色的雨（热度：74151）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%96%87%E6%96%87%E8%AF%B4%E6%9E%97%E6%A5%9A%E8%90%8D%E7%9A%84%E7%A7%98%E5%AF%86%E8%A6%81%E6%9D%A5%E4%BA%86%23" target="weibo">
 于文文说林楚萍的秘密要来了（热度：46322）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E5%87%AF%E7%90%AA%E6%99%92%E6%B5%AA%E5%A7%903%E5%BA%93%E5%AD%98%E7%85%A7%23" target="weibo">
-薛凯琪晒浪姐3库存照（热度：45322）
 </a>
 </li>
 
@@ -8525,12 +8531,6 @@ NH金色的雨（热度：74151）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A7%8B%E6%9C%89%E5%BF%83%E6%84%8F%23" target="weibo">
 中秋有心意（热度：31097）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AF%88%E9%AA%97%E5%88%86%E5%AD%90%E6%94%BE%E7%83%9F%E8%8A%B1%E5%BA%86%E7%A5%9D%E4%B8%9A%E7%BB%A9%E8%B6%85%E7%99%BE%E4%B8%87%23" target="weibo">
-诈骗分子放烟花庆祝业绩超百万（热度：26872）
 </a>
 </li>
 
