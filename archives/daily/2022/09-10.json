@@ -1,6 +1,6 @@
 {
   "startTime": 1662741216675,
-  "endTime": 1662744536136,
+  "endTime": 1662745556139,
   "band_list": [
     {
       "raw_hot": 2138898,
@@ -147,6 +147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 257721,
+      "num": 257721,
+      "word": "东八区的先生们 逐梦演艺圈",
+      "onboard_time": 1662741146,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 256944,
       "num": 256944,
       "word": "齐颂察觉周寻姜小果关系",
@@ -161,14 +169,6 @@
       "onboard_time": 1662731912,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 241420,
-      "num": 241420,
-      "word": "东八区的先生们 逐梦演艺圈",
-      "onboard_time": 1662741146,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 239741,
@@ -331,6 +331,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 136506,
+      "num": 136506,
+      "word": "从此小说中的侠客有了脸",
+      "onboard_time": 1662744857,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 134505,
       "num": 134505,
       "word": "伊犁将针对群众关心的就医问题进行整改",
@@ -403,6 +411,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 90871,
+      "num": 90871,
+      "word": "仁科 搞笑",
+      "onboard_time": 1662743179,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 86537,
       "num": 86537,
       "word": "我评世间有她",
@@ -411,12 +427,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 78746,
-      "num": 78746,
-      "word": "仁科 搞笑",
-      "onboard_time": 1662743179,
-      "rank": 39,
-      "category": "综艺"
+      "raw_hot": 75408,
+      "num": 75408,
+      "word": "沉香如屑沉香重华收官战报",
+      "onboard_time": 1662745036,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 67973,
@@ -427,8 +443,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 43824,
-      "num": 43824,
+      "raw_hot": 46276,
+      "num": 46276,
       "word": "苹果官网",
       "onboard_time": 1662725789,
       "rank": 48,
