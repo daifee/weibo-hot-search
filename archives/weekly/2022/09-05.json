@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662716545621,
+  "endTime": 1662719214036,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -979,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1405425,
+      "num": 1405425,
+      "word": "教官发现学生只吃素给他加2荤菜",
+      "onboard_time": 1662713727,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1404170,
       "num": 1404170,
       "word": "苹果2022秋季发布会同声传译",
@@ -1195,6 +1203,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1258337,
+      "num": 1258337,
+      "word": "肯德基回应拒收现金",
+      "onboard_time": 1662716246,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1255177,
       "num": 1255177,
       "word": "宋亚轩考上中戏后首个综艺官宣",
@@ -1257,6 +1273,14 @@
       "onboard_time": 1662460111,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1211519,
+      "num": 277767,
+      "word": "郭晓婷晒和林子聪合照",
+      "onboard_time": 1662717808,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1202270,
@@ -2099,6 +2123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 903998,
+      "num": 903998,
+      "word": "为何近期我国新冠疫情此起彼伏",
+      "onboard_time": 1662716007,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 902699,
       "num": 902699,
       "word": "震中海螺沟2个酒店楼体全塌了",
@@ -2185,6 +2217,14 @@
       "onboard_time": 1662537387,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 862541,
+      "num": 862541,
+      "word": "苍兰诀OST今夏封神",
+      "onboard_time": 1662716727,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 859467,
@@ -2401,6 +2441,14 @@
       "onboard_time": 1662347604,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 795885,
+      "num": 795885,
+      "word": "寻果BE",
+      "onboard_time": 1662716727,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 792822,
@@ -2816,14 +2864,6 @@
       "word": "女子在永辉超市买2斤猪肉花103元",
       "onboard_time": 1662290906,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 657618,
-      "num": 657618,
-      "word": "教官发现学生只吃素给他加2荤菜",
-      "onboard_time": 1662713727,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -4483,6 +4523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 404924,
+      "num": 404924,
+      "word": "等下班",
+      "onboard_time": 1662716968,
+      "rank": 14,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 404463,
       "num": 404463,
       "word": "BLACKPINK新专单人预告海报",
@@ -4665,6 +4713,14 @@
       "onboard_time": 1662508468,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 387910,
+      "num": 387910,
+      "word": "中秋晚会",
+      "onboard_time": 1662717089,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 387279,
@@ -4977,6 +5033,14 @@
       "onboard_time": 1662637590,
       "rank": 22,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 366654,
+      "num": 366654,
+      "word": "老人为捡饭店瓶子倒掉整箱饮料",
+      "onboard_time": 1662716727,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 366367,
@@ -6411,6 +6475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279410,
+      "num": 279410,
+      "word": "查尔斯三世将于10日正式登基",
+      "onboard_time": 1662718527,
+      "rank": 19,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 278743,
       "num": 278743,
       "word": "福建一班委会筹资给老师送礼引争议",
@@ -6529,6 +6601,14 @@
       "onboard_time": 1662428788,
       "rank": 22,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 273565,
+      "num": 239539,
+      "word": "吴建豪跟吴克群说自己是美作",
+      "onboard_time": 1662716668,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 273218,
@@ -6921,6 +7001,14 @@
       "onboard_time": 1662518486,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256794,
+      "num": 256794,
+      "word": "今天又要给苹果打款了",
+      "onboard_time": 1662717448,
+      "rank": 23,
+      "category": "科技"
     },
     {
       "raw_hot": 256359,
@@ -7323,20 +7411,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 239136,
-      "num": 239136,
-      "word": "为何近期我国新冠疫情此起彼伏",
-      "onboard_time": 1662716007,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 239083,
       "num": 239083,
       "word": "冬天真的很需要这个被子",
       "onboard_time": 1662439891,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 238743,
+      "num": 238743,
+      "word": "原神",
+      "onboard_time": 1662715106,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 238609,
@@ -7409,6 +7497,14 @@
       "onboard_time": 1662462389,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 234483,
+      "num": 164291,
+      "word": "二十不惑2",
+      "onboard_time": 1662387392,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 234451,
@@ -7593,14 +7689,6 @@
       "onboard_time": 1662289107,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 225495,
-      "num": 164291,
-      "word": "二十不惑2",
-      "onboard_time": 1662387392,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 225425,
@@ -7827,6 +7915,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 214388,
+      "num": 214388,
+      "word": "加勒比英联邦国家再次呼吁废除君主制",
+      "onboard_time": 1662718645,
+      "rank": 29,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 214099,
       "num": 214099,
       "word": "9月5日新增确诊310例",
@@ -8033,14 +8129,6 @@
       "onboard_time": 1662438992,
       "rank": 40,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 203998,
-      "num": 203998,
-      "word": "原神",
-      "onboard_time": 1662715106,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 203881,
@@ -9403,6 +9491,14 @@
       "category": "科技,幽默"
     },
     {
+      "raw_hot": 145710,
+      "num": 145710,
+      "word": "中印两军开始同步有计划组织脱离接触",
+      "onboard_time": 1662718226,
+      "rank": 45,
+      "category": "军事"
+    },
+    {
       "raw_hot": 145244,
       "num": 145244,
       "word": "辽宁新增本土确诊2例本土无症状89例",
@@ -9736,14 +9832,6 @@
       "word": "男子掏蜂窝蛰伤他人赔偿13万",
       "onboard_time": 1662706108,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131785,
-      "num": 131785,
-      "word": "肯德基回应拒收现金",
-      "onboard_time": 1662716246,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -10425,6 +10513,14 @@
       "onboard_time": 1662585431,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31097,
+      "num": 173137,
+      "word": "中秋有心意",
+      "onboard_time": 1662717631,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 26395,

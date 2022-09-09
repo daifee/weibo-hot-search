@@ -1,6 +1,6 @@
 {
   "startTime": 1662654904784,
-  "endTime": 1662716545621,
+  "endTime": 1662719214036,
   "band_list": [
     {
       "raw_hot": 8812909,
@@ -171,6 +171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1405425,
+      "num": 1405425,
+      "word": "教官发现学生只吃素给他加2荤菜",
+      "onboard_time": 1662713727,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1356337,
       "num": 1058921,
       "word": "新疆酸奶疙瘩月饼",
@@ -235,12 +243,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1258337,
+      "num": 1258337,
+      "word": "肯德基回应拒收现金",
+      "onboard_time": 1662716246,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1250572,
       "num": 439378,
       "word": "戴安娜",
       "onboard_time": 1662684578,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1211519,
+      "num": 277767,
+      "word": "郭晓婷晒和林子聪合照",
+      "onboard_time": 1662717808,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1169338,
@@ -371,6 +395,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 903998,
+      "num": 903998,
+      "word": "为何近期我国新冠疫情此起彼伏",
+      "onboard_time": 1662716007,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 899593,
       "num": 899593,
       "word": "导盲犬用身体挡住主人自己掉落窨井",
@@ -401,6 +433,14 @@
       "onboard_time": 1662647436,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 862541,
+      "num": 862541,
+      "word": "苍兰诀OST今夏封神",
+      "onboard_time": 1662716727,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 818745,
@@ -443,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 795885,
+      "num": 795885,
+      "word": "寻果BE",
+      "onboard_time": 1662716727,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 789043,
       "num": 789043,
       "word": "男子欲录视频扶摔倒大叔反被骂",
@@ -457,14 +505,6 @@
       "onboard_time": 1662649363,
       "rank": 9,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 657618,
-      "num": 657618,
-      "word": "教官发现学生只吃素给他加2荤菜",
-      "onboard_time": 1662713727,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 625844,
@@ -683,6 +723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 404924,
+      "num": 404924,
+      "word": "等下班",
+      "onboard_time": 1662716968,
+      "rank": 14,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 396826,
       "num": 396826,
       "word": "时代少年团T九月刊封面预告",
@@ -723,6 +771,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 387910,
+      "num": 387910,
+      "word": "中秋晚会",
+      "onboard_time": 1662717089,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 376415,
       "num": 358031,
       "word": "英国首相就英国女王去世发声明",
@@ -745,6 +801,14 @@
       "onboard_time": 1662708749,
       "rank": 19,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 366654,
+      "num": 366654,
+      "word": "老人为捡饭店瓶子倒掉整箱饮料",
+      "onboard_time": 1662716727,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 363897,
@@ -1019,12 +1083,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279410,
+      "num": 279410,
+      "word": "查尔斯三世将于10日正式登基",
+      "onboard_time": 1662718527,
+      "rank": 19,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 278743,
       "num": 278743,
       "word": "福建一班委会筹资给老师送礼引争议",
       "onboard_time": 1662707369,
       "rank": 39,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 273565,
+      "num": 239539,
+      "word": "吴建豪跟吴克群说自己是美作",
+      "onboard_time": 1662716668,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 270909,
@@ -1057,6 +1137,14 @@
       "onboard_time": 1662637113,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256794,
+      "num": 256794,
+      "word": "今天又要给苹果打款了",
+      "onboard_time": 1662717448,
+      "rank": 23,
+      "category": "科技"
     },
     {
       "raw_hot": 254764,
@@ -1099,12 +1187,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 239136,
-      "num": 239136,
-      "word": "为何近期我国新冠疫情此起彼伏",
-      "onboard_time": 1662716007,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 238743,
+      "num": 238743,
+      "word": "原神",
+      "onboard_time": 1662715106,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 238423,
@@ -1113,6 +1201,14 @@
       "onboard_time": 1662650440,
       "rank": 28,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 234483,
+      "num": 130373,
+      "word": "二十不惑2",
+      "onboard_time": 1662719185,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 234451,
@@ -1195,6 +1291,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 214388,
+      "num": 214388,
+      "word": "加勒比英联邦国家再次呼吁废除君主制",
+      "onboard_time": 1662718645,
+      "rank": 29,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 212821,
       "num": 212821,
       "word": "周寻对姜小果百分之十的爱",
@@ -1249,14 +1353,6 @@
       "onboard_time": 1662680854,
       "rank": 39,
       "category": "科技"
-    },
-    {
-      "raw_hot": 203998,
-      "num": 203998,
-      "word": "原神",
-      "onboard_time": 1662715106,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 202737,
@@ -1507,6 +1603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 145710,
+      "num": 145710,
+      "word": "中印两军开始同步有计划组织脱离接触",
+      "onboard_time": 1662718226,
+      "rank": 45,
+      "category": "军事"
+    },
+    {
       "raw_hot": 143437,
       "num": 143437,
       "word": "阴阳师原创音乐品牌上线",
@@ -1544,14 +1648,6 @@
       "word": "男子掏蜂窝蛰伤他人赔偿13万",
       "onboard_time": 1662706108,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131785,
-      "num": 131785,
-      "word": "肯德基回应拒收现金",
-      "onboard_time": 1662716246,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1721,6 +1817,14 @@
       "onboard_time": 1662714148,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31097,
+      "num": 173137,
+      "word": "中秋有心意",
+      "onboard_time": 1662717631,
+      "rank": 39,
+      "category": "情感"
     }
   ],
   "hotgov_list": [
