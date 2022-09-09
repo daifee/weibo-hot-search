@@ -1,6 +1,6 @@
 {
   "startTime": 1662741216675,
-  "endTime": 1662763302267,
+  "endTime": 1662765979002,
   "band_list": [
     {
       "raw_hot": 2138898,
@@ -91,12 +91,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 491818,
+      "num": 491818,
+      "word": "2022年我国系统重要性银行名单",
+      "onboard_time": 1662760391,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 469627,
+      "num": 469627,
+      "word": "中秋节",
+      "onboard_time": 1662765499,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 468472,
       "num": 468472,
       "word": "韩国民众在汉江拍到水怪",
       "onboard_time": 1662724950,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 422298,
+      "num": 422298,
+      "word": "官方回应高中一个班收8万班费",
+      "onboard_time": 1662746235,
+      "rank": 13,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 350621,
@@ -147,6 +171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 259463,
+      "num": 259463,
+      "word": "王晓晨新剧流产后抑郁状态好真实",
+      "onboard_time": 1662762795,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 257721,
       "num": 257721,
       "word": "东八区的先生们 逐梦演艺圈",
@@ -163,11 +195,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 253192,
-      "num": 253192,
-      "word": "王晓晨新剧流产后抑郁状态好真实",
-      "onboard_time": 1662762795,
-      "rank": 4,
+      "raw_hot": 252123,
+      "num": 252123,
+      "word": "从此小说中的侠客有了脸",
+      "onboard_time": 1662744857,
+      "rank": 18,
       "category": "影视"
     },
     {
@@ -187,6 +219,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 238334,
+      "num": 238334,
+      "word": "体检发现结节该咋办",
+      "onboard_time": 1662753671,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236995,
       "num": 236995,
       "word": "中秋",
@@ -201,14 +241,6 @@
       "onboard_time": 1662739527,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 216160,
-      "num": 216160,
-      "word": "官方回应高中一个班收8万班费",
-      "onboard_time": 1662746235,
-      "rank": 13,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 215216,
@@ -235,19 +267,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 205006,
+      "num": 205006,
+      "word": "伊宁市小百姓",
+      "onboard_time": 1662765499,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203176,
       "num": 203176,
       "word": "四川宜宾市全域实行静态管理",
       "onboard_time": 1662725128,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 199935,
-      "num": 172776,
-      "word": "2022年我国系统重要性银行名单",
-      "onboard_time": 1662760391,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -259,6 +291,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 197788,
+      "num": 1211236,
+      "word": "中秋遇上教师节",
+      "onboard_time": 1662738628,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185554,
+      "num": 185554,
+      "word": "苹果官网",
+      "onboard_time": 1662725789,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 185175,
       "num": 185175,
       "word": "拍月亮大赛",
@@ -267,12 +315,12 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 179590,
-      "num": 1211236,
-      "word": "中秋遇上教师节",
-      "onboard_time": 1662738628,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 184815,
+      "num": 184815,
+      "word": "中秋节教师节双倍快乐",
+      "onboard_time": 1662765319,
+      "rank": 21,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 176676,
@@ -281,14 +329,6 @@
       "onboard_time": 1662725071,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176499,
-      "num": 176499,
-      "word": "从此小说中的侠客有了脸",
-      "onboard_time": 1662744857,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 176415,
@@ -315,11 +355,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 155989,
-      "num": 155989,
-      "word": "体检发现结节该咋办",
-      "onboard_time": 1662753671,
-      "rank": 39,
+      "raw_hot": 157218,
+      "num": 157218,
+      "word": "中秋回家不要对爸妈说这几句话",
+      "onboard_time": 1662725310,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 157091,
+      "num": 157091,
+      "word": "中秋节快乐",
+      "onboard_time": 1662765379,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -337,14 +385,6 @@
       "onboard_time": 1662733171,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 144365,
-      "num": 144365,
-      "word": "中秋回家不要对爸妈说这几句话",
-      "onboard_time": 1662725310,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 141097,
@@ -369,6 +409,14 @@
       "onboard_time": 1662721948,
       "rank": 40,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 136340,
+      "num": 136340,
+      "word": "沉香如屑沉香重华收官战报",
+      "onboard_time": 1662745036,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 134505,
@@ -411,6 +459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 122500,
+      "num": 122500,
+      "word": "诈骗分子放烟花庆祝业绩超百万",
+      "onboard_time": 1662748754,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119273,
       "num": 119273,
       "word": "新疆库尔勒市道歉",
@@ -427,12 +483,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 115196,
-      "num": 115196,
-      "word": "苹果官网",
-      "onboard_time": 1662725789,
-      "rank": 48,
-      "category": "科技"
+      "raw_hot": 116672,
+      "num": 116672,
+      "word": "8月中国手游发行商收入排行",
+      "onboard_time": 1662763576,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 113871,
+      "num": 113871,
+      "word": "狗狗出门溜达脸被蛰成表情包",
+      "onboard_time": 1662756790,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111733,
@@ -441,14 +505,6 @@
       "onboard_time": 1662727051,
       "rank": 47,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 109698,
-      "num": 109698,
-      "word": "狗狗出门溜达脸被蛰成表情包",
-      "onboard_time": 1662756790,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108211,
@@ -465,22 +521,6 @@
       "onboard_time": 1662718226,
       "rank": 49,
       "category": "军事"
-    },
-    {
-      "raw_hot": 95652,
-      "num": 95652,
-      "word": "沉香如屑沉香重华收官战报",
-      "onboard_time": 1662745036,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 91752,
-      "num": 91752,
-      "word": "诈骗分子放烟花庆祝业绩超百万",
-      "onboard_time": 1662748754,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 90871,
