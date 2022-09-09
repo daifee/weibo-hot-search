@@ -1,6 +1,6 @@
 {
   "startTime": 1662741216675,
-  "endTime": 1662756114622,
+  "endTime": 1662758483211,
   "band_list": [
     {
       "raw_hot": 2138898,
@@ -475,6 +475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 62562,
+      "num": 28122,
+      "word": "体检发现结节该咋办",
+      "onboard_time": 1662753671,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58504,
       "num": 58504,
       "word": "苹果官网",
@@ -483,12 +491,20 @@
       "category": "科技"
     },
     {
-      "raw_hot": 32364,
-      "num": 28122,
-      "word": "体检发现结节该咋办",
-      "onboard_time": 1662753671,
-      "rank": 39,
+      "raw_hot": 17633,
+      "num": 17633,
+      "word": "狗狗出门溜达脸被蛰成表情包",
+      "onboard_time": 1662756790,
+      "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11740,
+      "num": 14422,
+      "word": "送月亮的人",
+      "onboard_time": 1662755830,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 9641,
@@ -497,14 +513,6 @@
       "onboard_time": 1662754990,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 9353,
-      "num": 14341,
-      "word": "送月亮的人",
-      "onboard_time": 1662755830,
-      "rank": 49,
-      "category": "影视"
     }
   ],
   "hotgov_list": [
