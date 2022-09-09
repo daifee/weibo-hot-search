@@ -1,0 +1,410 @@
+{
+  "runTime": 1662733604688,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2200007,
+        "num": 2200007,
+        "word": "感谢公司不发月饼之恩",
+        "onboard_time": 1662724108,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1416295,
+        "num": 1416295,
+        "word": "韩国民众在汉江拍到水怪",
+        "onboard_time": 1662724950,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20425,
+        "num": 1207106,
+        "word": "中国科学家首次在月球上发现新矿物",
+        "onboard_time": 1662701371,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1668167,
+        "num": 1200410,
+        "word": "父母均博士女儿学业压力大轻生",
+        "onboard_time": 1662732031,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1174285,
+        "num": 1174285,
+        "word": "两个人的小森林回应植物学家质疑",
+        "onboard_time": 1662728790,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1450204,
+        "num": 1173636,
+        "word": "中国传媒大学出现1例初筛阳性",
+        "onboard_time": 1662725789,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1224004,
+        "num": 1149894,
+        "word": "新疆库尔勒市道歉",
+        "onboard_time": 1662704008,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1077119,
+        "num": 1077119,
+        "word": "专升本是专科生的最优选择吗",
+        "onboard_time": 1662719786,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 697391,
+        "num": 697391,
+        "word": "Apple store",
+        "onboard_time": 1662725669,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 628393,
+        "num": 628393,
+        "word": "电影离婚冷静期备案公示",
+        "onboard_time": 1662729209,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 650805,
+        "num": 619027,
+        "word": "贺局长",
+        "onboard_time": 1662727471,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 650944,
+        "num": 618028,
+        "word": "年轻人多久换一次手机",
+        "onboard_time": 1662727710,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 609433,
+        "num": 609433,
+        "word": "伊犁疫情发布会",
+        "onboard_time": 1662731912,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468738,
+        "num": 468738,
+        "word": "好帅那女孩儿",
+        "onboard_time": 1662727051,
+        "rank": 13,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 418423,
+        "num": 418423,
+        "word": "3岁萌娃不愿上自己家族的幼儿园",
+        "onboard_time": 1662724766,
+        "rank": 14,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 385120,
+        "num": 385120,
+        "word": "六公主镜头下的文淇",
+        "onboard_time": 1662730712,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 355875,
+        "num": 355875,
+        "word": "四川宜宾市全域实行静态管理",
+        "onboard_time": 1662725128,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354465,
+        "num": 354465,
+        "word": "当地回应一中学班费人均两千元",
+        "onboard_time": 1662727891,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1437717,
+        "num": 354427,
+        "word": "等待付款",
+        "onboard_time": 1662728191,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 354113,
+        "num": 354113,
+        "word": "贺峻霖大影节主持好稳",
+        "onboard_time": 1662731432,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2310615,
+        "num": 341822,
+        "word": "迪丽热巴把刘海梳上去了",
+        "onboard_time": 1662727171,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 566037,
+        "num": 331015,
+        "word": "原来iPhone自带拼接长图功能",
+        "onboard_time": 1662726391,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 300821,
+        "num": 300821,
+        "word": "警方回应哭诉奔丧缺钱男子实为骗子",
+        "onboard_time": 1662726870,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260896,
+        "num": 260896,
+        "word": "苍兰诀OST今夏封神",
+        "onboard_time": 1662716727,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331295,
+        "num": 260284,
+        "word": "iPhone14",
+        "onboard_time": 1662725431,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 255186,
+        "num": 255186,
+        "word": "中秋假期下班前记得上好厕所",
+        "onboard_time": 1662723268,
+        "rank": 25,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 250907,
+        "num": 250907,
+        "word": "女子求职被告知有男朋友一律不招",
+        "onboard_time": 1662723209,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315102,
+        "num": 246449,
+        "word": "iPhone14Pro系列占中国订单85%",
+        "onboard_time": 1662705206,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 241809,
+        "num": 241809,
+        "word": "中秋回家不要对爸妈说这几句话",
+        "onboard_time": 1662725310,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 238938,
+        "num": 238938,
+        "word": "中国产出了全球几乎全部杨梅",
+        "onboard_time": 1662721948,
+        "rank": 29,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 231772,
+        "num": 231772,
+        "word": "中印两军开始同步有计划组织脱离接触",
+        "onboard_time": 1662718226,
+        "rank": 30,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 227187,
+        "num": 227187,
+        "word": "byl",
+        "onboard_time": 1662721948,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 209825,
+        "num": 209825,
+        "word": "伊犁将针对群众关心的就医问题进行整改",
+        "onboard_time": 1662732991,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208170,
+        "num": 208170,
+        "word": "苹果官网",
+        "onboard_time": 1662725789,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 200234,
+        "num": 200234,
+        "word": "寻果BE",
+        "onboard_time": 1662716727,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191538,
+        "num": 191538,
+        "word": "贵阳花果园疫情防控",
+        "onboard_time": 1662727229,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185518,
+        "num": 185518,
+        "word": "北京朝阳通报1例初筛阳性",
+        "onboard_time": 1662724527,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182101,
+        "num": 182101,
+        "word": "脱口秀大会5中秋假期双播",
+        "onboard_time": 1662730471,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182055,
+        "num": 182055,
+        "word": "中秋晚会",
+        "onboard_time": 1662717089,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180713,
+        "num": 180713,
+        "word": "陈宇在车里呆了两集了",
+        "onboard_time": 1662733171,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180020,
+        "num": 180020,
+        "word": "我也变成狗了",
+        "onboard_time": 1662725971,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 169664,
+        "num": 169664,
+        "word": "梁爽辞职",
+        "onboard_time": 1662720570,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160880,
+        "num": 160880,
+        "word": "黑话律师",
+        "onboard_time": 1662733410,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157629,
+        "num": 157629,
+        "word": "月饼",
+        "onboard_time": 1662733231,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 154871,
+        "num": 154871,
+        "word": "世间有她",
+        "onboard_time": 1662722668,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147225,
+        "num": 147225,
+        "word": "老人为捡饭店瓶子倒掉整箱饮料",
+        "onboard_time": 1662716727,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145050,
+        "num": 145050,
+        "word": "教师节文案",
+        "onboard_time": 1662732931,
+        "rank": 46,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 144917,
+        "num": 144917,
+        "word": "沈小婷偶运会比赛视频",
+        "onboard_time": 1662724766,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137326,
+        "num": 137326,
+        "word": "月亮",
+        "onboard_time": 1662725071,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118988,
+        "num": 118988,
+        "word": "肯德基回应拒收现金",
+        "onboard_time": 1662716246,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央军委举行晋升上将军衔仪式#"
+    }
+  }
+}
