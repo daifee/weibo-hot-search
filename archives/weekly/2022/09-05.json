@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662742667060,
+  "endTime": 1662744536136,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -7915,6 +7915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241420,
+      "num": 241420,
+      "word": "东八区的先生们 逐梦演艺圈",
+      "onboard_time": 1662741146,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 240983,
       "num": 240983,
       "word": "广州暴雨",
@@ -8257,14 +8265,6 @@
       "onboard_time": 1662725971,
       "rank": 39,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 226267,
-      "num": 226267,
-      "word": "东八区的先生们 逐梦演艺圈",
-      "onboard_time": 1662741146,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 226151,
@@ -11003,6 +11003,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 86537,
+      "num": 86537,
+      "word": "我评世间有她",
+      "onboard_time": 1662743659,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 85780,
       "num": 74150,
       "word": "舒淇是珠光宝气代名词吧",
@@ -11057,6 +11065,14 @@
       "onboard_time": 1662334042,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78746,
+      "num": 78746,
+      "word": "仁科 搞笑",
+      "onboard_time": 1662743179,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 77906,
