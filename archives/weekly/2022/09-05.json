@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662706821071,
+  "endTime": 1662708488885,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -99,6 +99,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 3744134,
+      "num": 3744134,
+      "word": "新疆库尔勒市道歉",
+      "onboard_time": 1662704008,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3631275,
       "num": 3631275,
       "word": "凤凰天使 下架",
@@ -113,14 +121,6 @@
       "onboard_time": 1662345203,
       "rank": 0,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 3550756,
-      "num": 3550756,
-      "word": "新疆库尔勒市道歉",
-      "onboard_time": 1662704008,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 3524515,
@@ -1307,6 +1307,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 1158028,
+      "num": 1158028,
+      "word": "何以笙箫默",
+      "onboard_time": 1662705328,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1157817,
       "num": 1157817,
       "word": "公交女司机从腰肌劳损到练出马甲线",
@@ -1555,6 +1563,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1059806,
+      "num": 517777,
+      "word": "iPhone14Pro系列占中国订单85%",
+      "onboard_time": 1662705206,
+      "rank": 17,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1059303,
       "num": 1059303,
       "word": "北电22级表演系本科班合照",
@@ -1737,14 +1753,6 @@
       "onboard_time": 1662304415,
       "rank": 10,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 992384,
-      "num": 478895,
-      "word": "iPhone14Pro系列占中国订单85%",
-      "onboard_time": 1662705206,
-      "rank": 17,
-      "category": "科技"
     },
     {
       "raw_hot": 992289,
@@ -2145,6 +2153,14 @@
       "onboard_time": 1662459148,
       "rank": 28,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 856006,
+      "num": 856006,
+      "word": "24岁小伙熬夜加班后发现嘴歪了",
+      "onboard_time": 1662704547,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 855082,
@@ -2715,6 +2731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 663493,
+      "num": 663493,
+      "word": "慕容云海最容易出轨",
+      "onboard_time": 1662707189,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 662065,
       "num": 416464,
       "word": "天才小熊猫",
@@ -2953,14 +2977,6 @@
       "onboard_time": 1662599789,
       "rank": 5,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 612751,
-      "num": 475293,
-      "word": "何以笙箫默",
-      "onboard_time": 1662705328,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 612638,
@@ -3355,6 +3371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 518001,
+      "num": 518001,
+      "word": "三亚实现高质量社会面清零目标",
+      "onboard_time": 1662703829,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 517766,
       "num": 517766,
       "word": "网曝达辉律所员工被辞退后离世",
@@ -3739,14 +3763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 469613,
-      "num": 469613,
-      "word": "24岁小伙熬夜加班后发现嘴歪了",
-      "onboard_time": 1662704547,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 468831,
       "num": 468831,
       "word": "何润东又拿了步惊云的剧本",
@@ -3801,6 +3817,14 @@
       "onboard_time": 1662462031,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 461973,
+      "num": 461973,
+      "word": "被臭屁虫臭到手手的小猫咪",
+      "onboard_time": 1662706528,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 461001,
@@ -3888,6 +3912,14 @@
       "word": "夫妻吵架将电脑椅扔下楼",
       "onboard_time": 1662615328,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 449309,
+      "num": 449309,
+      "word": "地铁里上演公司福利大比拼",
+      "onboard_time": 1662703470,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -4243,14 +4275,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 411487,
-      "num": 411487,
-      "word": "地铁里上演公司福利大比拼",
-      "onboard_time": 1662703470,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 411482,
       "num": 411482,
       "word": "河南科学家破解一项世界性难题",
@@ -4433,6 +4457,14 @@
       "onboard_time": 1662345685,
       "rank": 12,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 396826,
+      "num": 396826,
+      "word": "时代少年团T九月刊封面预告",
+      "onboard_time": 1662707245,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 394398,
@@ -4697,14 +4729,6 @@
       "onboard_time": 1662360631,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 377198,
-      "num": 377198,
-      "word": "三亚实现高质量社会面清零目标",
-      "onboard_time": 1662703829,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 376415,
@@ -5721,6 +5745,14 @@
       "onboard_time": 1662610049,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 303936,
+      "num": 303936,
+      "word": "万茜把莲蓬当麻将摸",
+      "onboard_time": 1662707547,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 303736,
@@ -7379,12 +7411,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 225010,
+      "num": 225010,
+      "word": "朝鲜颁布关于核武力政策的法令",
+      "onboard_time": 1662707728,
+      "rank": 28,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 224837,
       "num": 224837,
       "word": "立体月亮兔折纸教程",
       "onboard_time": 1662554733,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 224603,
+      "num": 217943,
+      "word": "杨紫片场唱什么是快乐星球",
+      "onboard_time": 1662705986,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 224420,
@@ -7587,12 +7635,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213751,
-      "num": 213751,
-      "word": "杨紫片场唱什么是快乐星球",
-      "onboard_time": 1662705986,
-      "rank": 30,
-      "category": "作品衍生"
+      "raw_hot": 213784,
+      "num": 213784,
+      "word": "11岁男孩找妈妈索赔被拒后报警",
+      "onboard_time": 1662706948,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213020,
@@ -7875,6 +7923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200683,
+      "num": 200683,
+      "word": "野兽派成本255元参王茶翻倍卖568元",
+      "onboard_time": 1662707308,
+      "rank": 33,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 200282,
       "num": 200282,
       "word": "四川男孩教科书式带领弟弟避震",
@@ -8041,6 +8097,14 @@
       "onboard_time": 1662531266,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194172,
+      "num": 194172,
+      "word": "imp",
+      "onboard_time": 1662708150,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 192912,
@@ -8675,14 +8739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 163532,
-      "num": 163532,
-      "word": "被臭屁虫臭到手手的小猫咪",
-      "onboard_time": 1662706528,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 163268,
       "num": 144720,
       "word": "中国新闻周刊说梦华录是今年唯一爆款古偶",
@@ -8947,6 +9003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152514,
+      "num": 152514,
+      "word": "福建一班委会筹资给老师送礼引争议",
+      "onboard_time": 1662707369,
+      "rank": 39,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 152309,
       "num": 152309,
       "word": "北化工昌平校区新增5例初筛阳性",
@@ -9105,6 +9169,14 @@
       "onboard_time": 1662452189,
       "rank": 48,
       "category": "科技,幽默"
+    },
+    {
+      "raw_hot": 145687,
+      "num": 145687,
+      "word": "张云龙用粤语说有冇搞错啊",
+      "onboard_time": 1662708388,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 145244,
@@ -9603,12 +9675,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118679,
+      "num": 118679,
+      "word": "男子欲录视频扶摔倒大叔反被骂",
+      "onboard_time": 1662708209,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117829,
       "num": 117829,
       "word": "2022中国民营企业500强",
       "onboard_time": 1662530905,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 117744,
+      "num": 117744,
+      "word": "中秋公司福利大赏",
+      "onboard_time": 1662708268,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 117123,
