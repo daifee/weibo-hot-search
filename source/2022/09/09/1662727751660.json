@@ -1,0 +1,410 @@
+{
+  "runTime": 1662727751660,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1938316,
+        "num": 1938316,
+        "word": "专升本是专科生的最优选择吗",
+        "onboard_time": 1662719786,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1886846,
+        "num": 1886846,
+        "word": "中国传媒大学出现1例初筛阳性",
+        "onboard_time": 1662725789,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48648,
+        "num": 1719480,
+        "word": "中国科学家首次在月球上发现新矿物",
+        "onboard_time": 1662701371,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1703019,
+        "num": 1703019,
+        "word": "韩国民众在汉江拍到水怪",
+        "onboard_time": 1662724950,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1293959,
+        "num": 1293959,
+        "word": "感谢公司不发月饼之恩",
+        "onboard_time": 1662724108,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1032863,
+        "num": 1032863,
+        "word": "新疆库尔勒市道歉",
+        "onboard_time": 1662704008,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 891630,
+        "num": 891630,
+        "word": "兰州公交回应让员工自己贷款发工资",
+        "onboard_time": 1662722608,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629208,
+        "num": 629208,
+        "word": "四川宜宾市全域实行静态管理",
+        "onboard_time": 1662725128,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 596934,
+        "num": 596934,
+        "word": "北京朝阳通报1例初筛阳性",
+        "onboard_time": 1662724527,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503051,
+        "num": 503051,
+        "word": "中国产出了全球几乎全部杨梅",
+        "onboard_time": 1662721948,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1655633,
+        "num": 502348,
+        "word": "iPhone14",
+        "onboard_time": 1662725431,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1408429,
+        "num": 501466,
+        "word": "袁弘",
+        "onboard_time": 1662726569,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 890807,
+        "num": 498949,
+        "word": "byl",
+        "onboard_time": 1662721948,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1590910,
+        "num": 497923,
+        "word": "Apple store",
+        "onboard_time": 1662725669,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 4149,
+        "num": 496183,
+        "word": "鸿星尔克好秀",
+        "onboard_time": 1662724830,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 722656,
+        "num": 495037,
+        "word": "关注新疆伊犁疫情",
+        "onboard_time": 1662726029,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 504114,
+        "num": 493703,
+        "word": "张艺凡说贺峻霖长大了",
+        "onboard_time": 1662722668,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 492182,
+        "num": 492182,
+        "word": "女子求职被告知有男朋友一律不招",
+        "onboard_time": 1662723209,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440806,
+        "num": 440806,
+        "word": "沈小婷偶运会比赛视频",
+        "onboard_time": 1662724766,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 396258,
+        "num": 396258,
+        "word": "3岁萌娃不愿上自己家族的幼儿园",
+        "onboard_time": 1662724766,
+        "rank": 19,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 4231007,
+        "num": 393141,
+        "word": "迪丽热巴把刘海梳上去了",
+        "onboard_time": 1662727171,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 768572,
+        "num": 391599,
+        "word": "苹果官网暂时下线维护",
+        "onboard_time": 1662723028,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 388849,
+        "num": 388849,
+        "word": "梁爽辞职",
+        "onboard_time": 1662720570,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 328839,
+        "num": 328839,
+        "word": "中秋晚会",
+        "onboard_time": 1662717089,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 597305,
+        "num": 327080,
+        "word": "iPhone14Pro系列占中国订单85%",
+        "onboard_time": 1662705206,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 325152,
+        "num": 325152,
+        "word": "苍兰诀OST今夏封神",
+        "onboard_time": 1662716727,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296573,
+        "num": 296573,
+        "word": "世间有她",
+        "onboard_time": 1662722668,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 364534,
+        "num": 284525,
+        "word": "苹果官网",
+        "onboard_time": 1662725789,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 272048,
+        "num": 272048,
+        "word": "原来iPhone自带拼接长图功能",
+        "onboard_time": 1662726391,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 271763,
+        "num": 271763,
+        "word": "中印两军开始同步有计划组织脱离接触",
+        "onboard_time": 1662718226,
+        "rank": 29,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 245757,
+        "num": 245757,
+        "word": "肯德基回应拒收现金",
+        "onboard_time": 1662716246,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232394,
+        "num": 232394,
+        "word": "中秋假期下班前记得上好厕所",
+        "onboard_time": 1662723268,
+        "rank": 31,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 226007,
+        "num": 226007,
+        "word": "植物学家质疑两个人的小森林",
+        "onboard_time": 1662710309,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225072,
+        "num": 225072,
+        "word": "为何近期我国新冠疫情此起彼伏",
+        "onboard_time": 1662716007,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223881,
+        "num": 223881,
+        "word": "中秋回家不要对爸妈说这几句话",
+        "onboard_time": 1662725310,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212823,
+        "num": 212823,
+        "word": "张凌赫写的字好好看",
+        "onboard_time": 1662723567,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 209768,
+        "num": 209768,
+        "word": "寻果BE",
+        "onboard_time": 1662716727,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204366,
+        "num": 204366,
+        "word": "老人为捡饭店瓶子倒掉整箱饮料",
+        "onboard_time": 1662716727,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198618,
+        "num": 198618,
+        "word": "今天又要给苹果打款了",
+        "onboard_time": 1662717448,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 191622,
+        "num": 191622,
+        "word": "我也变成狗了",
+        "onboard_time": 1662725971,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 181612,
+        "num": 181612,
+        "word": "贺局长",
+        "onboard_time": 1662727471,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171207,
+        "num": 171207,
+        "word": "好帅那女孩儿",
+        "onboard_time": 1662727051,
+        "rank": 41,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 161352,
+        "num": 161352,
+        "word": "郭晓婷晒和林子聪合照",
+        "onboard_time": 1662717808,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159845,
+        "num": 159845,
+        "word": "小绿没惹你们任何人",
+        "onboard_time": 1662719487,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154595,
+        "num": 154595,
+        "word": "张真源晒与宋亚轩环球影城游玩vlog",
+        "onboard_time": 1662722906,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148797,
+        "num": 148797,
+        "word": "贵阳花果园疫情防控",
+        "onboard_time": 1662727229,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148629,
+        "num": 148629,
+        "word": "伊犁新增伊宁市人民医院为黄码医院",
+        "onboard_time": 1662719666,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147956,
+        "num": 147956,
+        "word": "陈立农大学生电影节",
+        "onboard_time": 1662725971,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140119,
+        "num": 140119,
+        "word": "年轻人多久换一次手机",
+        "onboard_time": 1662727710,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 138538,
+        "num": 138538,
+        "word": "光遇炸服",
+        "onboard_time": 1662726511,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央军委举行晋升上将军衔仪式#"
+    }
+  }
+}
