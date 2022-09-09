@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662693077332,
+  "endTime": 1662698044746,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -121,6 +121,14 @@
       "onboard_time": 1662272245,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3631275,
+      "num": 3631275,
+      "word": "凤凰天使 下架",
+      "onboard_time": 1662693690,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 3617586,
@@ -1019,6 +1027,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1797282,
+      "num": 1381169,
+      "word": "内地现偶最容易出轨的男主",
+      "onboard_time": 1662695729,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1793658,
       "num": 1200380,
       "word": "EXO将2023年完整体回归",
@@ -1451,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1539903,
+      "num": 1539903,
+      "word": "妻子连遭家暴两次还是孩子报警",
+      "onboard_time": 1662694711,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1539853,
       "num": 1400773,
       "word": "巴黎贝甜",
@@ -1769,6 +1793,14 @@
       "onboard_time": 1662269606,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1364497,
+      "num": 1364497,
+      "word": "YJJ女流领结婚证",
+      "onboard_time": 1662695969,
+      "rank": 5,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 1360509,
@@ -2819,6 +2851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1029255,
+      "num": 1029255,
+      "word": "女子手捧蛋糕出店被要2元打包费",
+      "onboard_time": 1662695551,
+      "rank": 6,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 1027764,
       "num": 888300,
       "word": "普京与戈尔巴乔夫遗体告别",
@@ -2921,6 +2961,14 @@
       "onboard_time": 1662108327,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1005526,
+      "num": 566792,
+      "word": "性转 鬼怪",
+      "onboard_time": 1662694829,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 1004829,
@@ -4699,6 +4747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 696279,
+      "num": 696279,
+      "word": "罗小黑",
+      "onboard_time": 1662696632,
+      "rank": 8,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 695382,
       "num": 695382,
       "word": "浙江一干部落马前沉迷当榜一大哥",
@@ -6035,6 +6091,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 535041,
+      "num": 535041,
+      "word": "刘彦平被决定逮捕",
+      "onboard_time": 1662694110,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 534044,
       "num": 534044,
       "word": "醉酒男子在电梯里殴打女邻居",
@@ -6657,6 +6721,14 @@
       "onboard_time": 1662537808,
       "rank": 15,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 483117,
+      "num": 483117,
+      "word": "地震时男子快速倒车捡回一命",
+      "onboard_time": 1662693808,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 483078,
@@ -8235,6 +8307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 393065,
+      "num": 393065,
+      "word": "吃石榴应该吐籽吗",
+      "onboard_time": 1662692129,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 392774,
       "num": 380726,
       "word": "苹果为何执着于Pro机型",
@@ -8297,6 +8377,14 @@
       "onboard_time": 1662247159,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 390006,
+      "num": 390006,
+      "word": "英国网友缅怀伊丽莎白二世",
+      "onboard_time": 1662695066,
+      "rank": 25,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 389978,
@@ -8977,6 +9065,14 @@
       "onboard_time": 1662046409,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 363897,
+      "num": 363897,
+      "word": "山东舰航母编队最新训练画面",
+      "onboard_time": 1662692849,
+      "rank": 48,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 363868,
@@ -11097,6 +11193,14 @@
       "onboard_time": 1662162563,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 291445,
+      "num": 291445,
+      "word": "白鹿宁安如梦落泪镜头",
+      "onboard_time": 1662693330,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 291403,
@@ -13267,12 +13371,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 234451,
+      "num": 234451,
+      "word": "德云社",
+      "onboard_time": 1662691349,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234438,
       "num": 234438,
       "word": "武汉新增本土无症状15例",
       "onboard_time": 1662083725,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234114,
+      "num": 234114,
+      "word": "陈紫函吐槽戴向宇人设有点渣",
+      "onboard_time": 1662697172,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 232604,
@@ -13987,14 +14107,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 214771,
-      "num": 214771,
-      "word": "德云社",
-      "onboard_time": 1662691349,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 214470,
       "num": 214470,
       "word": "何泓姗恭喜Fly拿到冠军",
@@ -14275,6 +14387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207241,
+      "num": 207241,
+      "word": "万鹏直球追爱徐志贤",
+      "onboard_time": 1662692849,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 207127,
       "num": 207127,
       "word": "范世錡红云袍戏腔",
@@ -14339,12 +14459,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 205202,
+      "num": 205202,
+      "word": "客服回应能链集团不招河南人",
+      "onboard_time": 1662691109,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205065,
       "num": 205065,
       "word": "恋爱前后的区别可以有多大",
       "onboard_time": 1661958574,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 204945,
+      "num": 204945,
+      "word": "2023年考研人数预计超500万",
+      "onboard_time": 1662697773,
+      "rank": 39,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 204684,
@@ -14489,6 +14625,14 @@
       "onboard_time": 1662139518,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 201328,
+      "num": 201328,
+      "word": "张定宇决定捐赠遗体用于渐冻症研究",
+      "onboard_time": 1662697116,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201174,
@@ -14659,14 +14803,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 196702,
-      "num": 196702,
-      "word": "客服回应能链集团不招河南人",
-      "onboard_time": 1662691109,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 196680,
       "num": 196680,
       "word": "陕西8校合体送限量校徽月饼",
@@ -14793,14 +14929,6 @@
       "onboard_time": 1662194127,
       "rank": 46,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 193170,
-      "num": 193170,
-      "word": "万鹏直球追爱徐志贤",
-      "onboard_time": 1662692849,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 193040,
@@ -15211,14 +15339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 183850,
-      "num": 183850,
-      "word": "吃石榴应该吐籽吗",
-      "onboard_time": 1662692129,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 183721,
       "num": 183721,
       "word": "袁隆平纪念邮票发行",
@@ -15265,6 +15385,14 @@
       "onboard_time": 1662102266,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182636,
+      "num": 182636,
+      "word": "中秋节教师节同一天是什么体验",
+      "onboard_time": 1662697413,
+      "rank": 42,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 182520,
@@ -15824,6 +15952,14 @@
       "word": "武警赶路背上宝宝淡定喝奶",
       "onboard_time": 1662596429,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165328,
+      "num": 165328,
+      "word": "120创始人鼓励青少年写急救代码程序",
+      "onboard_time": 1662696451,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -16411,6 +16547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 150400,
+      "num": 150400,
+      "word": "黄景瑜他从火光中走来开机路透",
+      "onboard_time": 1662696811,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 150325,
       "num": 150325,
       "word": "LPL一号种子JDG",
@@ -16489,6 +16633,14 @@
       "onboard_time": 1662263125,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 149277,
+      "num": 149277,
+      "word": "中秋文案",
+      "onboard_time": 1662696753,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 148790,
@@ -16817,14 +16969,6 @@
       "onboard_time": 1662433766,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 139509,
-      "num": 139509,
-      "word": "山东舰航母编队最新训练画面",
-      "onboard_time": 1662692849,
-      "rank": 48,
-      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 139277,
@@ -18159,6 +18303,14 @@
       "num": 511599,
       "word": "出发救援泸定我可以",
       "onboard_time": 1662368429,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59632,
+      "num": 551330,
+      "word": "江苏听障女孩靠读唇语考上大学",
+      "onboard_time": 1662696030,
       "rank": 14,
       "category": "社会新闻"
     },
