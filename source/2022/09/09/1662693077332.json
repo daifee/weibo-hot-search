@@ -1,0 +1,410 @@
+{
+  "runTime": 1662693077332,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2502827,
+        "num": 2502827,
+        "word": "英国女王去世",
+        "onboard_time": 1662659122,
+        "rank": 0,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1517856,
+        "num": 1517856,
+        "word": "11元的婚纱",
+        "onboard_time": 1662684278,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 61072,
+        "num": 996554,
+        "word": "泸定抗震救灾72小时",
+        "onboard_time": 1662643169,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1613663,
+        "num": 995317,
+        "word": "巴西总统宣布全国哀悼三天",
+        "onboard_time": 1662685773,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 972267,
+        "num": 972267,
+        "word": "野兽派香水和名创优品同一代工厂",
+        "onboard_time": 1662686853,
+        "rank": 4,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 888678,
+        "num": 888678,
+        "word": "云边有个小卖部影视化",
+        "onboard_time": 1662688111,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1555800,
+        "num": 875126,
+        "word": "威廉王子现在是王位第一顺位继承人",
+        "onboard_time": 1662681939,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 826143,
+        "num": 826143,
+        "word": "月亮上发现嫦娥石",
+        "onboard_time": 1662687871,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 804531,
+        "num": 804531,
+        "word": "女子无围栏楼顶遛狗致狗坠亡",
+        "onboard_time": 1662689370,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 724551,
+        "num": 724551,
+        "word": "女子被骗13万后将骗子忽悠到自己家",
+        "onboard_time": 1662682776,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1367693,
+        "num": 723852,
+        "word": "乔布斯女儿吐槽苹果iPhone14",
+        "onboard_time": 1662683737,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1169338,
+        "num": 674904,
+        "word": "普京对英女王去世表示哀悼",
+        "onboard_time": 1662690388,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1015231,
+        "num": 664362,
+        "word": "新疆疫情防控",
+        "onboard_time": 1662686251,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 617337,
+        "num": 617337,
+        "word": "赵露思偷偷藏不住下班路透图",
+        "onboard_time": 1662690691,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1095129,
+        "num": 584599,
+        "word": "英女王去世当天时间线",
+        "onboard_time": 1662686433,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 497168,
+        "num": 497168,
+        "word": "王鹤棣唱玫瑰少年",
+        "onboard_time": 1662690511,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 476078,
+        "num": 476078,
+        "word": "倪虹洁华鼎奖最佳女配角",
+        "onboard_time": 1662689670,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 725734,
+        "num": 475669,
+        "word": "查尔斯成为英国国王",
+        "onboard_time": 1662659305,
+        "rank": 17,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 474806,
+        "num": 474806,
+        "word": "女子识破骗局3次薅骗子羊毛",
+        "onboard_time": 1662688052,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452876,
+        "num": 452876,
+        "word": "公司回应发放轴承钢月饼",
+        "onboard_time": 1662688411,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1779691,
+        "num": 451221,
+        "word": "Angelababy晒与狗狗合照",
+        "onboard_time": 1662692670,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 644200,
+        "num": 439378,
+        "word": "戴安娜",
+        "onboard_time": 1662684578,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390444,
+        "num": 390444,
+        "word": "黄景瑜 消防员",
+        "onboard_time": 1662689732,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 390287,
+        "num": 390287,
+        "word": "原来iPhone备忘录还能这么用",
+        "onboard_time": 1662681155,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 390834,
+        "num": 386581,
+        "word": "多国政要就英国女王去世表态",
+        "onboard_time": 1662683677,
+        "rank": 24,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 378370,
+        "num": 378370,
+        "word": "下一站幸福",
+        "onboard_time": 1662681638,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 344962,
+        "num": 344962,
+        "word": "丁一煊一秒梦回丁羡",
+        "onboard_time": 1662691767,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 298915,
+        "num": 298915,
+        "word": "英国首相就英国女王去世发声明",
+        "onboard_time": 1662681759,
+        "rank": 27,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 280905,
+        "num": 280905,
+        "word": "男子买38元衬裙为残疾妻子圆婚纱梦",
+        "onboard_time": 1662691948,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278554,
+        "num": 278554,
+        "word": "胡歌霍建华 鬼怪",
+        "onboard_time": 1662645515,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260104,
+        "num": 260104,
+        "word": "英镑",
+        "onboard_time": 1662682540,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 256105,
+        "num": 256105,
+        "word": "命中注定我爱你",
+        "onboard_time": 1662682598,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248589,
+        "num": 248589,
+        "word": "蔚来卖一辆车亏损超10万",
+        "onboard_time": 1662680796,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243013,
+        "num": 243013,
+        "word": "公安部新闻发布会",
+        "onboard_time": 1662690869,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225264,
+        "num": 225264,
+        "word": "妈妈改装帆布袋买菜遛猫两不误",
+        "onboard_time": 1662682776,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214771,
+        "num": 214771,
+        "word": "德云社",
+        "onboard_time": 1662691349,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205224,
+        "num": 205224,
+        "word": "拜登下令降半旗",
+        "onboard_time": 1662681216,
+        "rank": 36,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 200254,
+        "num": 200254,
+        "word": "iPhone14代抢最高加价2000",
+        "onboard_time": 1662680854,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 196702,
+        "num": 196702,
+        "word": "客服回应能链集团不招河南人",
+        "onboard_time": 1662691109,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193170,
+        "num": 193170,
+        "word": "万鹏直球追爱徐志贤",
+        "onboard_time": 1662692849,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187520,
+        "num": 187520,
+        "word": "9月8日新增本土无症状1033例",
+        "onboard_time": 1662687214,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183850,
+        "num": 183850,
+        "word": "吃石榴应该吐籽吗",
+        "onboard_time": 1662692129,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178263,
+        "num": 178263,
+        "word": "邓家佳华鼎奖最佳女主角",
+        "onboard_time": 1662648881,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165501,
+        "num": 165501,
+        "word": "哥你好今日上映",
+        "onboard_time": 1662692309,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163210,
+        "num": 163210,
+        "word": "B站二季度净亏损20亿",
+        "onboard_time": 1662645332,
+        "rank": 44,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 160980,
+        "num": 160980,
+        "word": "快乐再出发第二季拟邀嘉宾",
+        "onboard_time": 1662654804,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149769,
+        "num": 149769,
+        "word": "中秋向圆月许愿",
+        "onboard_time": 1662692550,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142898,
+        "num": 142898,
+        "word": "苏格兰",
+        "onboard_time": 1662683919,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139509,
+        "num": 139509,
+        "word": "山东舰航母编队最新训练画面",
+        "onboard_time": 1662692849,
+        "rank": 48,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 139094,
+        "num": 139094,
+        "word": "北京9月8日新增本土确诊17例",
+        "onboard_time": 1662684098,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央军委举行晋升上将军衔仪式#"
+    }
+  }
+}
