@@ -1,6 +1,6 @@
 {
   "startTime": 1662654904784,
-  "endTime": 1662703015923,
+  "endTime": 1662703598567,
   "band_list": [
     {
       "raw_hot": 8812909,
@@ -131,8 +131,8 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 1356380,
-      "num": 1356380,
+      "raw_hot": 1407654,
+      "num": 1407654,
       "word": "何以琛周生辰不会出轨",
       "onboard_time": 1662700950,
       "rank": 3,
@@ -259,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 920567,
+      "num": 920567,
+      "word": "全国拥有大学文化程度的人口超2.18亿",
+      "onboard_time": 1662699511,
+      "rank": 8,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 888678,
       "num": 888678,
       "word": "云边有个小卖部影视化",
@@ -323,20 +331,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 779480,
+      "num": 779480,
+      "word": "纪念毛泽东同志逝世46周年",
+      "onboard_time": 1662702807,
+      "rank": 13,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 753507,
       "num": 753507,
       "word": "特拉斯",
       "onboard_time": 1662649363,
       "rank": 9,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 726368,
-      "num": 726368,
-      "word": "全国拥有大学文化程度的人口超2.18亿",
-      "onboard_time": 1662699511,
-      "rank": 8,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 625844,
@@ -355,20 +363,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 612638,
+      "num": 612638,
+      "word": "19岁小伙野泳溺亡父母起诉村委会",
+      "onboard_time": 1662699874,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 602204,
       "num": 386581,
       "word": "多国政要就英国女王去世表态",
       "onboard_time": 1662683677,
       "rank": 20,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 576794,
-      "num": 576794,
-      "word": "19岁小伙野泳溺亡父母起诉村委会",
-      "onboard_time": 1662699874,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 570492,
@@ -379,20 +387,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 554809,
-      "num": 554809,
-      "word": "纪念毛泽东同志逝世46周年",
-      "onboard_time": 1662702807,
-      "rank": 13,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 535041,
       "num": 535041,
       "word": "刘彦平被决定逮捕",
       "onboard_time": 1662694110,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 530037,
+      "num": 530037,
+      "word": "老人翻窗",
+      "onboard_time": 1662699992,
+      "rank": 16,
+      "category": "社会负面"
     },
     {
       "raw_hot": 521498,
@@ -419,12 +427,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 493642,
-      "num": 493642,
-      "word": "老人翻窗",
-      "onboard_time": 1662699992,
-      "rank": 16,
-      "category": "社会负面"
+      "raw_hot": 496669,
+      "num": 496669,
+      "word": "深圳房东给60户租客发月饼礼盒",
+      "onboard_time": 1662700950,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 488563,
+      "num": 488563,
+      "word": "导盲犬用身体挡住主人自己掉落窨井",
+      "onboard_time": 1662701070,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 484012,
@@ -441,6 +457,14 @@
       "onboard_time": 1662693808,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 481479,
+      "num": 481479,
+      "word": "二十不惑第一季寻果本来是HE",
+      "onboard_time": 1662701191,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 476078,
@@ -467,27 +491,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 457291,
-      "num": 457291,
-      "word": "二十不惑第一季寻果本来是HE",
-      "onboard_time": 1662701191,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 452876,
       "num": 452876,
       "word": "公司回应发放轴承钢月饼",
       "onboard_time": 1662688411,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 442632,
-      "num": 442632,
-      "word": "深圳房东给60户租客发月饼礼盒",
-      "onboard_time": 1662700950,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -499,8 +507,8 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 427079,
-      "num": 427079,
+      "raw_hot": 430721,
+      "num": 430721,
       "word": "张彬彬拥抱虞书欣救赎感有了",
       "onboard_time": 1662699332,
       "rank": 21,
@@ -537,14 +545,6 @@
       "onboard_time": 1662681155,
       "rank": 21,
       "category": "科技"
-    },
-    {
-      "raw_hot": 388159,
-      "num": 388159,
-      "word": "导盲犬用身体挡住主人自己掉落窨井",
-      "onboard_time": 1662701070,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 376415,
@@ -827,6 +827,30 @@
       "category": "情感"
     },
     {
+      "raw_hot": 229137,
+      "num": 229137,
+      "word": "音乐剧猎罪图鉴",
+      "onboard_time": 1662703347,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 228998,
+      "num": 228998,
+      "word": "陕西咸阳发现美洲毒草银毛龙葵",
+      "onboard_time": 1662702028,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228113,
+      "num": 228113,
+      "word": "山东增15例本土确诊81例本土无症状",
+      "onboard_time": 1662701670,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228081,
       "num": 228081,
       "word": "伊丽莎白二世在位时间最长",
@@ -852,7 +876,7 @@
     },
     {
       "raw_hot": 218919,
-      "num": 1358103,
+      "num": 1441773,
       "word": "中国科学家首次在月球上发现新矿物",
       "onboard_time": 1662701371,
       "rank": 2,
@@ -865,14 +889,6 @@
       "onboard_time": 1662651036,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 211367,
-      "num": 211367,
-      "word": "山东增15例本土确诊81例本土无症状",
-      "onboard_time": 1662701670,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 211000,
@@ -923,20 +939,20 @@
       "category": "游戏,影视"
     },
     {
+      "raw_hot": 199713,
+      "num": 199713,
+      "word": "任嘉伦李沁请君人设反套路",
+      "onboard_time": 1662699930,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 197970,
       "num": 197970,
       "word": "湘雅医院回应专家将莲子壳诊断为肿瘤",
       "onboard_time": 1662633991,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 195152,
-      "num": 195152,
-      "word": "任嘉伦李沁请君人设反套路",
-      "onboard_time": 1662699930,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 187645,
@@ -963,14 +979,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 180296,
-      "num": 180296,
-      "word": "陕西咸阳发现美洲毒草银毛龙葵",
-      "onboard_time": 1662702028,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178591,
       "num": 178591,
       "word": "见证历史",
@@ -987,19 +995,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 177923,
+      "num": 177923,
+      "word": "东八区的先生们有多悬浮",
+      "onboard_time": 1662702629,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 176790,
       "num": 166981,
       "word": "快说你们是来东八区旅游的",
       "onboard_time": 1662656002,
       "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 176361,
-      "num": 176361,
-      "word": "东八区的先生们有多悬浮",
-      "onboard_time": 1662702629,
-      "rank": 42,
       "category": "影视"
     },
     {
@@ -1033,6 +1041,14 @@
       "onboard_time": 1662699633,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 169474,
+      "num": 169474,
+      "word": "地铁里上演公司福利大比拼",
+      "onboard_time": 1662703470,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169278,
@@ -1107,6 +1123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 140892,
+      "num": 140892,
+      "word": "看龙族全员be破防了",
+      "onboard_time": 1662702327,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 138207,
       "num": 138207,
       "word": "欧洲央行宣布加息75个基点",
@@ -1137,14 +1161,6 @@
       "onboard_time": 1662623007,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 130501,
-      "num": 130501,
-      "word": "看龙族全员be破防了",
-      "onboard_time": 1662702327,
-      "rank": 49,
-      "category": "动漫"
     },
     {
       "raw_hot": 127798,
@@ -1241,6 +1257,14 @@
       "onboard_time": 1662663254,
       "rank": 33,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 38077,
+      "num": 193643,
+      "word": "首个保险数字化经营平台发布",
+      "onboard_time": 1662703229,
+      "rank": 39,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
