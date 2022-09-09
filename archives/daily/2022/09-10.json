@@ -1,6 +1,6 @@
 {
   "startTime": 1662741216675,
-  "endTime": 1662751195326,
+  "endTime": 1662752179970,
   "band_list": [
     {
       "raw_hot": 2138898,
@@ -251,8 +251,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 178102,
-      "num": 178102,
+      "raw_hot": 179516,
+      "num": 179516,
       "word": "官方回应高中一个班收8万班费",
       "onboard_time": 1662746235,
       "rank": 13,
@@ -467,20 +467,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 60556,
+      "num": 60556,
+      "word": "诈骗分子放烟花庆祝业绩超百万",
+      "onboard_time": 1662748754,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58504,
       "num": 58504,
       "word": "苹果官网",
       "onboard_time": 1662725789,
       "rank": 48,
       "category": "科技"
-    },
-    {
-      "raw_hot": 51182,
-      "num": 51182,
-      "word": "诈骗分子放烟花庆祝业绩超百万",
-      "onboard_time": 1662748754,
-      "rank": 48,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

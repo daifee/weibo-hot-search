@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/05 00:29:45 ~ 2022/09/10 03:19:55
+本榜单时间：2022/09/05 00:29:45 ~ 2022/09/10 03:36:19
 </p>
 </blockquote>
 <p>
@@ -7047,6 +7047,12 @@ AG对战BA爷青回（热度：182798）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%AB%98%E4%B8%AD%E4%B8%80%E4%B8%AA%E7%8F%AD%E6%94%B68%E4%B8%87%E7%8F%AD%E8%B4%B9%23" target="weibo">
+官方回应高中一个班收8万班费（热度：179516）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%B3%E5%B7%9E%E6%95%99%E8%82%B2%E5%B1%80%E5%91%BC%E5%90%81%E6%8A%B5%E5%88%B6%E5%90%91%E8%80%81%E5%B8%88%E5%8F%98%E7%9B%B8%E8%A1%8C%E8%B4%BF%23" target="weibo">
 柳州教育局呼吁抵制向老师变相行贿（热度：179175）
 </a>
@@ -7061,12 +7067,6 @@ LOL手游新版本预告（热度：178840）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A7%81%E8%AF%81%E5%8E%86%E5%8F%B2%23" target="weibo">
 见证历史（热度：178591）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%AB%98%E4%B8%AD%E4%B8%80%E4%B8%AA%E7%8F%AD%E6%94%B68%E4%B8%87%E7%8F%AD%E8%B4%B9%23" target="weibo">
-官方回应高中一个班收8万班费（热度：178102）
 </a>
 </li>
 
@@ -8409,6 +8409,12 @@ NH金色的雨（热度：74151）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AF%88%E9%AA%97%E5%88%86%E5%AD%90%E6%94%BE%E7%83%9F%E8%8A%B1%E5%BA%86%E7%A5%9D%E4%B8%9A%E7%BB%A9%E8%B6%85%E7%99%BE%E4%B8%87%23" target="weibo">
+诈骗分子放烟花庆祝业绩超百万（热度：60556）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%BA%E5%8F%91%E6%95%91%E6%8F%B4%E6%B3%B8%E5%AE%9A%E6%88%91%E5%8F%AF%E4%BB%A5%23" target="weibo">
 出发救援泸定我可以（热度：60205）
 </a>
@@ -8429,12 +8435,6 @@ NH金色的雨（热度：74151）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%AC%A3%E6%B3%BD%E6%98%AF%E6%B2%89%E9%A6%99%E9%87%8D%E5%8D%8E%E6%9C%80%E5%A4%A7boss%23" target="weibo">
 李欣泽是沉香重华最大boss（热度：53181）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AF%88%E9%AA%97%E5%88%86%E5%AD%90%E6%94%BE%E7%83%9F%E8%8A%B1%E5%BA%86%E7%A5%9D%E4%B8%9A%E7%BB%A9%E8%B6%85%E7%99%BE%E4%B8%87%23" target="weibo">
-诈骗分子放烟花庆祝业绩超百万（热度：51182）
 </a>
 </li>
 
