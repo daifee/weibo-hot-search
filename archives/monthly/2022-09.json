@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662705843896,
+  "endTime": 1662706821071,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -152,6 +152,14 @@
       "word": "90%学生被取消学籍系因游戏",
       "onboard_time": 1662294747,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3550756,
+      "num": 3550756,
+      "word": "新疆库尔勒市道歉",
+      "onboard_time": 1662704008,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -369,14 +377,6 @@
       "onboard_time": 1662352650,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2815136,
-      "num": 2815136,
-      "word": "新疆库尔勒市道歉",
-      "onboard_time": 1662704008,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2774665,
@@ -2115,6 +2115,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1271006,
+      "num": 1271006,
+      "word": "宋丹丹儿媳情商",
+      "onboard_time": 1662704729,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1265828,
       "num": 1265828,
       "word": "女子上网学做生腌虾食物中毒",
@@ -3051,6 +3059,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 992384,
+      "num": 478895,
+      "word": "iPhone14Pro系列占中国订单85%",
+      "onboard_time": 1662705206,
+      "rank": 17,
+      "category": "科技"
+    },
+    {
       "raw_hot": 992289,
       "num": 992289,
       "word": "小红书用户疑盗用女性照片编故事",
@@ -3201,14 +3217,6 @@
       "onboard_time": 1662696632,
       "rank": 8,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 969358,
-      "num": 969358,
-      "word": "宋丹丹儿媳情商",
-      "onboard_time": 1662704729,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 968391,
@@ -3656,6 +3664,14 @@
       "word": "震中海螺沟2个酒店楼体全塌了",
       "onboard_time": 1662423449,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 899593,
+      "num": 899593,
+      "word": "导盲犬用身体挡住主人自己掉落窨井",
+      "onboard_time": 1662701070,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -4273,14 +4289,6 @@
       "onboard_time": 1662133229,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 779352,
-      "num": 779352,
-      "word": "导盲犬用身体挡住主人自己掉落窨井",
-      "onboard_time": 1662701070,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 778764,
@@ -5409,6 +5417,14 @@
       "onboard_time": 1662599789,
       "rank": 5,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 612751,
+      "num": 475293,
+      "word": "何以笙箫默",
+      "onboard_time": 1662705328,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 612638,
@@ -7027,6 +7043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 469613,
+      "num": 469613,
+      "word": "24岁小伙熬夜加班后发现嘴歪了",
+      "onboard_time": 1662704547,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 468831,
       "num": 468831,
       "word": "何润东又拿了步惊云的剧本",
@@ -8019,6 +8043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 411487,
+      "num": 411487,
+      "word": "地铁里上演公司福利大比拼",
+      "onboard_time": 1662703470,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 411482,
       "num": 411482,
       "word": "河南科学家破解一项世界性难题",
@@ -8179,14 +8211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 406107,
-      "num": 406107,
-      "word": "何以笙箫默",
-      "onboard_time": 1662705328,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 406100,
       "num": 298495,
       "word": "被忽然之间唱哭了",
@@ -8329,14 +8353,6 @@
       "onboard_time": 1662084264,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 400279,
-      "num": 400279,
-      "word": "iPhone14Pro系列占中国订单85%",
-      "onboard_time": 1662705206,
-      "rank": 17,
-      "category": "科技"
     },
     {
       "raw_hot": 400277,
@@ -8857,6 +8873,14 @@
       "onboard_time": 1662360631,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 377198,
+      "num": 377198,
+      "word": "三亚实现高质量社会面清零目标",
+      "onboard_time": 1662703829,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 376493,
@@ -9513,14 +9537,6 @@
       "onboard_time": 1662087803,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 352150,
-      "num": 352150,
-      "word": "地铁里上演公司福利大比拼",
-      "onboard_time": 1662703470,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 352098,
@@ -12843,14 +12859,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 255201,
-      "num": 255201,
-      "word": "三亚实现高质量社会面清零目标",
-      "onboard_time": 1662703829,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 255057,
       "num": 255057,
       "word": "成都人居家有多自律",
@@ -13041,14 +13049,6 @@
       "onboard_time": 1662637891,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 249354,
-      "num": 249354,
-      "word": "24岁小伙熬夜加班后发现嘴歪了",
-      "onboard_time": 1662704547,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 248980,
@@ -14123,6 +14123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 220651,
+      "num": 220651,
+      "word": "看龙族全员be破防了",
+      "onboard_time": 1662702327,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 219280,
       "num": 219280,
       "word": "百米长龙抢购网红月饼或成历史",
@@ -14217,14 +14225,6 @@
       "onboard_time": 1662120988,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 215979,
-      "num": 215979,
-      "word": "看龙族全员be破防了",
-      "onboard_time": 1662702327,
-      "rank": 49,
-      "category": "动漫"
     },
     {
       "raw_hot": 215928,
@@ -14345,6 +14345,14 @@
       "onboard_time": 1661970014,
       "rank": 13,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 213751,
+      "num": 213751,
+      "word": "杨紫片场唱什么是快乐星球",
+      "onboard_time": 1662705986,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 213525,
@@ -15859,6 +15867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173570,
+      "num": 173570,
+      "word": "乔布斯有多在意细节",
+      "onboard_time": 1662705928,
+      "rank": 36,
+      "category": "科技"
+    },
+    {
       "raw_hot": 173470,
       "num": 173470,
       "word": "华为汽车",
@@ -16241,6 +16257,14 @@
       "onboard_time": 1662080188,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163532,
+      "num": 163532,
+      "word": "被臭屁虫臭到手手的小猫咪",
+      "onboard_time": 1662706528,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 163471,
@@ -17075,6 +17099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143437,
+      "num": 143437,
+      "word": "阴阳师原创音乐品牌上线",
+      "onboard_time": 1662706169,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 143275,
       "num": 143275,
       "word": "朱一龙的手法很专业",
@@ -17512,6 +17544,14 @@
       "word": "9月3日北京新增1例本土确诊",
       "onboard_time": 1662251425,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131792,
+      "num": 131792,
+      "word": "男子掏蜂窝蛰伤他人赔偿13万",
+      "onboard_time": 1662706108,
+      "rank": 48,
       "category": "社会新闻"
     },
     {

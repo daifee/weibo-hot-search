@@ -1,6 +1,6 @@
 {
   "startTime": 1662654904784,
-  "endTime": 1662705843896,
+  "endTime": 1662706821071,
   "band_list": [
     {
       "raw_hot": 8812909,
@@ -43,20 +43,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 3550756,
+      "num": 3550756,
+      "word": "新疆库尔勒市道歉",
+      "onboard_time": 1662704008,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2977405,
       "num": 2977405,
       "word": "英媒称严重程度前所未见",
       "onboard_time": 1662644070,
       "rank": 1,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 2815136,
-      "num": 2815136,
-      "word": "新疆库尔勒市道歉",
-      "onboard_time": 1662704008,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2467415,
@@ -195,6 +195,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1271006,
+      "num": 1271006,
+      "word": "宋丹丹儿媳情商",
+      "onboard_time": 1662704729,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1250572,
       "num": 439378,
       "word": "戴安娜",
@@ -251,6 +259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 992384,
+      "num": 478895,
+      "word": "iPhone14Pro系列占中国订单85%",
+      "onboard_time": 1662705206,
+      "rank": 17,
+      "category": "科技"
+    },
+    {
       "raw_hot": 987404,
       "num": 987404,
       "word": "邓家佳华鼎奖最佳女主角",
@@ -267,14 +283,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 969358,
-      "num": 969358,
-      "word": "宋丹丹儿媳情商",
-      "onboard_time": 1662704729,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 925441,
       "num": 925441,
       "word": "月亮上发现嫦娥石",
@@ -289,6 +297,14 @@
       "onboard_time": 1662699511,
       "rank": 8,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 899593,
+      "num": 899593,
+      "word": "导盲犬用身体挡住主人自己掉落窨井",
+      "onboard_time": 1662701070,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 888678,
@@ -355,14 +371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 779352,
-      "num": 779352,
-      "word": "导盲犬用身体挡住主人自己掉落窨井",
-      "onboard_time": 1662701070,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 753507,
       "num": 753507,
       "word": "特拉斯",
@@ -385,6 +393,14 @@
       "onboard_time": 1662690691,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 612751,
+      "num": 475293,
+      "word": "何以笙箫默",
+      "onboard_time": 1662705328,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 612638,
@@ -499,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 469613,
+      "num": 469613,
+      "word": "24岁小伙熬夜加班后发现嘴歪了",
+      "onboard_time": 1662704547,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 463927,
       "num": 463927,
       "word": "周寻出场3分钟 齐颂30集白演",
@@ -539,20 +563,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 406107,
-      "num": 406107,
-      "word": "何以笙箫默",
-      "onboard_time": 1662705328,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 400279,
-      "num": 400279,
-      "word": "iPhone14Pro系列占中国订单85%",
-      "onboard_time": 1662705206,
-      "rank": 17,
-      "category": "科技"
+      "raw_hot": 411487,
+      "num": 411487,
+      "word": "地铁里上演公司福利大比拼",
+      "onboard_time": 1662703470,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 393065,
@@ -577,6 +593,14 @@
       "onboard_time": 1662681155,
       "rank": 21,
       "category": "科技"
+    },
+    {
+      "raw_hot": 377198,
+      "num": 377198,
+      "word": "三亚实现高质量社会面清零目标",
+      "onboard_time": 1662703829,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 376415,
@@ -633,14 +657,6 @@
       "onboard_time": 1662648701,
       "rank": 16,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 352150,
-      "num": 352150,
-      "word": "地铁里上演公司福利大比拼",
-      "onboard_time": 1662703470,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 344962,
@@ -819,27 +835,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 255201,
-      "num": 255201,
-      "word": "三亚实现高质量社会面清零目标",
-      "onboard_time": 1662703829,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 251504,
       "num": 251504,
       "word": "苏格兰",
       "onboard_time": 1662683919,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 249354,
-      "num": 249354,
-      "word": "24岁小伙熬夜加班后发现嘴歪了",
-      "onboard_time": 1662704547,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -931,6 +931,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 220651,
+      "num": 220651,
+      "word": "看龙族全员be破防了",
+      "onboard_time": 1662702327,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 218919,
       "num": 1441773,
       "word": "中国科学家首次在月球上发现新矿物",
@@ -939,12 +947,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 215979,
-      "num": 215979,
-      "word": "看龙族全员be破防了",
-      "onboard_time": 1662702327,
-      "rank": 49,
-      "category": "动漫"
+      "raw_hot": 213751,
+      "num": 213751,
+      "word": "杨紫片场唱什么是快乐星球",
+      "onboard_time": 1662705986,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 212821,
@@ -1075,6 +1083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 173570,
+      "num": 173570,
+      "word": "乔布斯有多在意细节",
+      "onboard_time": 1662705928,
+      "rank": 36,
+      "category": "科技"
+    },
+    {
       "raw_hot": 172508,
       "num": 172508,
       "word": "枪杀安倍嫌犯在拘留所中收到超百万日元",
@@ -1129,6 +1145,14 @@
       "onboard_time": 1662692309,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 163532,
+      "num": 163532,
+      "word": "被臭屁虫臭到手手的小猫咪",
+      "onboard_time": 1662706528,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 162730,
@@ -1187,6 +1211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 143437,
+      "num": 143437,
+      "word": "阴阳师原创音乐品牌上线",
+      "onboard_time": 1662706169,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 138207,
       "num": 138207,
       "word": "欧洲央行宣布加息75个基点",
@@ -1209,6 +1241,14 @@
       "onboard_time": 1662648458,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131792,
+      "num": 131792,
+      "word": "男子掏蜂窝蛰伤他人赔偿13万",
+      "onboard_time": 1662706108,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131442,
