@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662752179970,
+  "endTime": 1662755137936,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -11187,19 +11187,19 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 70662,
+      "num": 70662,
+      "word": "诈骗分子放烟花庆祝业绩超百万",
+      "onboard_time": 1662748754,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70228,
       "num": 551330,
       "word": "江苏听障女孩靠读唇语考上大学",
       "onboard_time": 1662696030,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 60556,
-      "num": 60556,
-      "word": "诈骗分子放烟花庆祝业绩超百万",
-      "onboard_time": 1662748754,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -11419,6 +11419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18947,
+      "num": 18947,
+      "word": "体检发现结节该咋办",
+      "onboard_time": 1662753671,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18125,
       "num": 18125,
       "word": "我眼中的团圆",
@@ -11457,6 +11465,14 @@
       "onboard_time": 1662296188,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 9641,
+      "num": 13105,
+      "word": "范世錡Mike互动好有梗",
+      "onboard_time": 1662754990,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 8070,
