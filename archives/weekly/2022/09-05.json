@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662703598567,
+  "endTime": 1662705843896,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -241,6 +241,14 @@
       "onboard_time": 1662352650,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2815136,
+      "num": 2815136,
+      "word": "新疆库尔勒市道歉",
+      "onboard_time": 1662704008,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2774665,
@@ -561,6 +569,14 @@
       "onboard_time": 1662592343,
       "rank": 10,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1817302,
+      "num": 1817302,
+      "word": "纪念毛泽东同志逝世46周年",
+      "onboard_time": 1662702807,
+      "rank": 13,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1809089,
@@ -1803,6 +1819,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 969358,
+      "num": 969358,
+      "word": "宋丹丹儿媳情商",
+      "onboard_time": 1662704729,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 967578,
       "num": 967578,
       "word": "2017年九寨沟地震后四川最大地震",
@@ -2307,12 +2331,12 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 779480,
-      "num": 779480,
-      "word": "纪念毛泽东同志逝世46周年",
-      "onboard_time": 1662702807,
-      "rank": 13,
-      "category": "国内要闻"
+      "raw_hot": 779352,
+      "num": 779352,
+      "word": "导盲犬用身体挡住主人自己掉落窨井",
+      "onboard_time": 1662701070,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 776588,
@@ -3539,14 +3563,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 488563,
-      "num": 488563,
-      "word": "导盲犬用身体挡住主人自己掉落窨井",
-      "onboard_time": 1662701070,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 487427,
       "num": 487427,
       "word": "四川增本土确诊69例",
@@ -4307,6 +4323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 406107,
+      "num": 406107,
+      "word": "何以笙箫默",
+      "onboard_time": 1662705328,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 406049,
       "num": 406049,
       "word": "昆仑玻璃",
@@ -4369,6 +4393,14 @@
       "onboard_time": 1662358595,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 400279,
+      "num": 400279,
+      "word": "iPhone14Pro系列占中国订单85%",
+      "onboard_time": 1662705206,
+      "rank": 17,
+      "category": "科技"
     },
     {
       "raw_hot": 400277,
@@ -4851,6 +4883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 361862,
+      "num": 361862,
+      "word": "陕西咸阳发现美洲毒草银毛龙葵",
+      "onboard_time": 1662702028,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 360198,
       "num": 360198,
       "word": "BLG官宣Chashao离队",
@@ -4969,6 +5009,14 @@
       "onboard_time": 1662350909,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 352150,
+      "num": 352150,
+      "word": "地铁里上演公司福利大比拼",
+      "onboard_time": 1662703470,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 351655,
@@ -6675,6 +6723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 255201,
+      "num": 255201,
+      "word": "三亚实现高质量社会面清零目标",
+      "onboard_time": 1662703829,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254949,
       "num": 254949,
       "word": "14年前他被救14年后他救人",
@@ -6761,6 +6817,14 @@
       "onboard_time": 1662637891,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 249354,
+      "num": 249354,
+      "word": "24岁小伙熬夜加班后发现嘴歪了",
+      "onboard_time": 1662704547,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248980,
@@ -7187,14 +7251,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 228998,
-      "num": 228998,
-      "word": "陕西咸阳发现美洲毒草银毛龙葵",
-      "onboard_time": 1662702028,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 228980,
       "num": 228980,
       "word": "中秋赏月航班火爆",
@@ -7473,6 +7529,14 @@
       "onboard_time": 1662381692,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215979,
+      "num": 215979,
+      "word": "看龙族全员be破防了",
+      "onboard_time": 1662702327,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 215928,
@@ -8451,12 +8515,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 169474,
-      "num": 169474,
-      "word": "地铁里上演公司福利大比拼",
-      "onboard_time": 1662703470,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 169337,
+      "num": 169337,
+      "word": "王嘉尔新歌BlueMV",
+      "onboard_time": 1662705569,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 169278,
@@ -9123,14 +9187,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 140892,
-      "num": 140892,
-      "word": "看龙族全员be破防了",
-      "onboard_time": 1662702327,
-      "rank": 49,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 140836,
       "num": 140836,
       "word": "赣州疫情防控",
@@ -9617,6 +9673,14 @@
       "onboard_time": 1662661456,
       "rank": 48,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 105701,
+      "num": 118735,
+      "word": "雷军否认小米错过造车窗口期",
+      "onboard_time": 1662705808,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 105462,
