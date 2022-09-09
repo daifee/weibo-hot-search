@@ -1,6 +1,6 @@
 {
   "startTime": 1662741216675,
-  "endTime": 1662748208395,
+  "endTime": 1662749310425,
   "band_list": [
     {
       "raw_hot": 2138898,
@@ -283,6 +283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 153524,
+      "num": 153524,
+      "word": "从此小说中的侠客有了脸",
+      "onboard_time": 1662744857,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 149137,
       "num": 149137,
       "word": "警方回应哭诉奔丧缺钱男子实为骗子",
@@ -307,12 +315,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 143775,
-      "num": 143775,
-      "word": "从此小说中的侠客有了脸",
-      "onboard_time": 1662744857,
-      "rank": 18,
-      "category": "影视"
+      "raw_hot": 141384,
+      "num": 141384,
+      "word": "官方回应高中一个班收8万班费",
+      "onboard_time": 1662746235,
+      "rank": 13,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 141097,
@@ -403,14 +411,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 109818,
-      "num": 109818,
-      "word": "官方回应高中一个班收8万班费",
-      "onboard_time": 1662746235,
-      "rank": 13,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 108211,
       "num": 108211,
       "word": "苍兰诀OST今夏封神",
@@ -467,12 +467,20 @@
       "category": "科技"
     },
     {
-      "raw_hot": 36294,
-      "num": 36294,
+      "raw_hot": 45322,
+      "num": 45322,
       "word": "薛凯琪晒浪姐3库存照",
       "onboard_time": 1662746955,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 26872,
+      "num": 26872,
+      "word": "诈骗分子放烟花庆祝业绩超百万",
+      "onboard_time": 1662748754,
+      "rank": 48,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
