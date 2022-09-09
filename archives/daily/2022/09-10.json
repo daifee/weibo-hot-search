@@ -1,6 +1,6 @@
 {
   "startTime": 1662741216675,
-  "endTime": 1662741216675,
+  "endTime": 1662742667060,
   "band_list": [
     {
       "raw_hot": 2138898,
@@ -19,20 +19,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1208599,
+      "num": 1208599,
+      "word": "父亲信偏方让8岁女儿抽旱烟治脸黄",
+      "onboard_time": 1662739229,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 967065,
       "num": 967065,
       "word": "专升本是专科生的最优选择吗",
       "onboard_time": 1662719786,
       "rank": 3,
       "category": "教育"
-    },
-    {
-      "raw_hot": 910693,
-      "num": 910693,
-      "word": "父亲信偏方让8岁女儿抽旱烟治脸黄",
-      "onboard_time": 1662739229,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 790938,
@@ -67,8 +67,16 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 686949,
-      "num": 686949,
+      "raw_hot": 702885,
+      "num": 231890,
+      "word": "网传老人因饥饿上吊自杀不属实",
+      "onboard_time": 1662738808,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 689158,
+      "num": 689158,
       "word": "寻果原型",
       "onboard_time": 1662738390,
       "rank": 9,
@@ -81,14 +89,6 @@
       "onboard_time": 1662736471,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 559570,
-      "num": 231890,
-      "word": "网传老人因饥饿上吊自杀不属实",
-      "onboard_time": 1662738808,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 468472,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 320148,
-      "num": 253791,
+      "num": 315669,
       "word": "原来iPhone自带拼接长图功能",
       "onboard_time": 1662726391,
       "rank": 17,
@@ -179,6 +179,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 234920,
+      "num": 234920,
+      "word": "张朝阳说不能把运动当缓解焦虑工具",
+      "onboard_time": 1662739527,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226267,
+      "num": 226267,
+      "word": "东八区的先生们 逐梦演艺圈",
+      "onboard_time": 1662741146,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 215216,
       "num": 215216,
       "word": "3岁萌娃不愿上自己家族的幼儿园",
@@ -211,14 +227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 201589,
-      "num": 201589,
-      "word": "张朝阳说不能把运动当缓解焦虑工具",
-      "onboard_time": 1662739527,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198647,
       "num": 198647,
       "word": "iPhone14Pro系列占中国订单85%",
@@ -236,7 +244,7 @@
     },
     {
       "raw_hot": 179590,
-      "num": 980467,
+      "num": 1211236,
       "word": "中秋遇上教师节",
       "onboard_time": 1662738628,
       "rank": 2,
@@ -249,6 +257,14 @@
       "onboard_time": 1662725071,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176415,
+      "num": 176415,
+      "word": "小猫咪凭什么这么悠闲",
+      "onboard_time": 1662740366,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 163425,
@@ -297,22 +313,6 @@
       "onboard_time": 1662733410,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 140400,
-      "num": 140400,
-      "word": "东八区的先生们 逐梦演艺圈",
-      "onboard_time": 1662741146,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 139972,
-      "num": 139972,
-      "word": "小猫咪凭什么这么悠闲",
-      "onboard_time": 1662740366,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 137765,
@@ -401,11 +401,22 @@
       "onboard_time": 1662718226,
       "rank": 49,
       "category": "军事"
+    },
+    {
+      "raw_hot": 67973,
+      "num": 67973,
+      "word": "牡丹奖最佳男演员",
+      "onboard_time": 1662737609,
+      "rank": 47,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
     {
       "word": "#决定中国命运的关键一招#"
+    },
+    {
+      "word": "#在全社会营造尊师重教的良好风尚#"
     }
   ]
 }
