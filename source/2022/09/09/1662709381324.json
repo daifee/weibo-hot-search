@@ -1,0 +1,410 @@
+{
+  "runTime": 1662709381324,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1441542,
+        "num": 1441542,
+        "word": "何以笙箫默",
+        "onboard_time": 1662705328,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 3485475,
+        "num": 1324563,
+        "word": "新疆库尔勒市道歉",
+        "onboard_time": 1662704008,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177649,
+        "num": 1181870,
+        "word": "中国科学家首次在月球上发现新矿物",
+        "onboard_time": 1662701371,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1091616,
+        "num": 1091616,
+        "word": "宋丹丹儿媳情商",
+        "onboard_time": 1662704729,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 953198,
+        "num": 953198,
+        "word": "纪念毛泽东同志逝世46周年",
+        "onboard_time": 1662702807,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 930671,
+        "num": 930671,
+        "word": "24岁小伙熬夜加班后发现嘴歪了",
+        "onboard_time": 1662704547,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 890772,
+        "num": 890772,
+        "word": "2023年考研人数预计超500万",
+        "onboard_time": 1662697773,
+        "rank": 6,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 794216,
+        "num": 794216,
+        "word": "慕容云海最容易出轨",
+        "onboard_time": 1662707189,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 631791,
+        "num": 631791,
+        "word": "朝鲜颁布关于核武力政策的法令",
+        "onboard_time": 1662707728,
+        "rank": 8,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 602504,
+        "num": 602504,
+        "word": "导盲犬用身体挡住主人自己掉落窨井",
+        "onboard_time": 1662701070,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1003072,
+        "num": 600320,
+        "word": "iPhone14Pro系列占中国订单85%",
+        "onboard_time": 1662705206,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 584975,
+        "num": 584975,
+        "word": "imp",
+        "onboard_time": 1662708150,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 500774,
+        "num": 500774,
+        "word": "凤凰天使 下架",
+        "onboard_time": 1662693690,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 498517,
+        "num": 498517,
+        "word": "被臭屁虫臭到手手的小猫咪",
+        "onboard_time": 1662706528,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 453058,
+        "num": 453058,
+        "word": "何以琛周生辰不会出轨",
+        "onboard_time": 1662700950,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 416621,
+        "num": 416621,
+        "word": "三亚实现高质量社会面清零目标",
+        "onboard_time": 1662703829,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396697,
+        "num": 396697,
+        "word": "地铁里上演公司福利大比拼",
+        "onboard_time": 1662703470,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323299,
+        "num": 323299,
+        "word": "19岁小伙野泳溺亡父母起诉村委会",
+        "onboard_time": 1662699874,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320742,
+        "num": 320742,
+        "word": "时代少年团T九月刊封面预告",
+        "onboard_time": 1662707245,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 284550,
+        "num": 284550,
+        "word": "在男女比失调的大学读书什么体验",
+        "onboard_time": 1662708749,
+        "rank": 19,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 513709,
+        "num": 283783,
+        "word": "王一博片场随时随地健身",
+        "onboard_time": 1662708990,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 301868,
+        "num": 282868,
+        "word": "万茜把莲蓬当麻将摸",
+        "onboard_time": 1662707547,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 280413,
+        "num": 280413,
+        "word": "乔布斯女儿吐槽苹果iPhone14",
+        "onboard_time": 1662683737,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 274475,
+        "num": 274475,
+        "word": "11岁男孩找妈妈索赔被拒后报警",
+        "onboard_time": 1662706948,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265982,
+        "num": 265982,
+        "word": "罗小黑",
+        "onboard_time": 1662696632,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 257198,
+        "num": 257198,
+        "word": "全国拥有大学文化程度的人口超2.18亿",
+        "onboard_time": 1662699511,
+        "rank": 25,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 245293,
+        "num": 245293,
+        "word": "妻子连遭家暴两次还是孩子报警",
+        "onboard_time": 1662694711,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241932,
+        "num": 241932,
+        "word": "YJJ女流领结婚证",
+        "onboard_time": 1662695969,
+        "rank": 27,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 227009,
+        "num": 227009,
+        "word": "重庆疫情防控",
+        "onboard_time": 1662708568,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226855,
+        "num": 226855,
+        "word": "女子手捧蛋糕出店被要2元打包费",
+        "onboard_time": 1662695551,
+        "rank": 29,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 221818,
+        "num": 221818,
+        "word": "新疆疫情防控",
+        "onboard_time": 1662686251,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212549,
+        "num": 212549,
+        "word": "深圳房东给60户租客发月饼礼盒",
+        "onboard_time": 1662700950,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208220,
+        "num": 208220,
+        "word": "陕西咸阳发现美洲毒草银毛龙葵",
+        "onboard_time": 1662702028,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205912,
+        "num": 205912,
+        "word": "二十不惑第一季寻果本来是HE",
+        "onboard_time": 1662701191,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205827,
+        "num": 205827,
+        "word": "野兽派成本255元参王茶翻倍卖568元",
+        "onboard_time": 1662707308,
+        "rank": 34,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 193909,
+        "num": 193909,
+        "word": "男子欲录视频扶摔倒大叔反被骂",
+        "onboard_time": 1662708209,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189711,
+        "num": 189711,
+        "word": "看龙族全员be破防了",
+        "onboard_time": 1662702327,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 188193,
+        "num": 188193,
+        "word": "杨紫片场唱什么是快乐星球",
+        "onboard_time": 1662705986,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184869,
+        "num": 184869,
+        "word": "福建一班委会筹资给老师送礼引争议",
+        "onboard_time": 1662707369,
+        "rank": 38,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 184393,
+        "num": 184393,
+        "word": "张彬彬拥抱虞书欣救赎感有了",
+        "onboard_time": 1662699332,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167543,
+        "num": 167543,
+        "word": "内地现偶最容易出轨的男主",
+        "onboard_time": 1662695729,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158631,
+        "num": 158631,
+        "word": "张云龙用粤语说有冇搞错啊",
+        "onboard_time": 1662708388,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152932,
+        "num": 152932,
+        "word": "赵露思偷偷藏不住下班路透图",
+        "onboard_time": 1662690691,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137453,
+        "num": 137453,
+        "word": "野兽派香水和名创优品同一代工厂",
+        "onboard_time": 1662686853,
+        "rank": 43,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 135029,
+        "num": 135029,
+        "word": "原来猫咪也会一见钟情",
+        "onboard_time": 1662699812,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126280,
+        "num": 126280,
+        "word": "中秋节教师节同一天是什么体验",
+        "onboard_time": 1662697413,
+        "rank": 45,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 125183,
+        "num": 125183,
+        "word": "张定宇决定捐赠遗体用于渐冻症研究",
+        "onboard_time": 1662697116,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105085,
+        "num": 105085,
+        "word": "女子无围栏楼顶遛狗致狗坠亡",
+        "onboard_time": 1662689370,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95522,
+        "num": 95522,
+        "word": "中秋公司福利大赏",
+        "onboard_time": 1662708268,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89826,
+        "num": 89826,
+        "word": "山东增15例本土确诊81例本土无症状",
+        "onboard_time": 1662701670,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央军委举行晋升上将军衔仪式#"
+    }
+  }
+}
