@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/09 19:20:39
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/09 19:37:50
 </p>
 </blockquote>
 <p>
@@ -201,6 +201,12 @@ jkl（热度：3228817）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E8%87%B413%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%AD%BB%E4%BA%A1%23" target="weibo">
+警方通报男子致13岁女孩死亡（热度：3183503）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%B2%E5%A8%9C%E8%B4%9D%E5%84%BF%E8%A2%AB%E6%8C%87%E4%B8%AD%E7%A7%8B%E7%A9%BF%E5%B7%A6%E8%A1%BD%E4%B8%A7%E6%9C%8D%23" target="weibo">
 玲娜贝儿被指中秋穿左衽丧服（热度：3161056）
 </a>
@@ -329,12 +335,6 @@ iPhone14价格（热度：2774665）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone14pro%23" target="weibo">
 iPhone14pro（热度：2732824）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E8%87%B413%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%AD%BB%E4%BA%A1%23" target="weibo">
-警方通报男子致13岁女孩死亡（热度：2728146）
 </a>
 </li>
 
@@ -2343,6 +2343,12 @@ iPhone14Pro系列占中国订单85%（热度：1059806）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23byl%23" target="weibo">
+byl（热度：1002218）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9B%9E%E5%86%9C%E6%9D%91%E8%8A%B112%E4%B8%87%E4%B9%B0%E4%B8%8B1200%E5%B9%B3%E5%A4%A7%E9%99%A2%23" target="weibo">
 男子回农村花12万买下1200平大院（热度：1000206）
 </a>
@@ -2901,6 +2907,12 @@ iPhone14系列没涨价（热度：892829）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9F%A5%E5%B0%94%E6%96%AF%E4%B8%89%E4%B8%96%E5%B0%86%E4%BA%8E10%E6%97%A5%E6%AD%A3%E5%BC%8F%E7%99%BB%E5%9F%BA%23" target="weibo">
+查尔斯三世将于10日正式登基（热度：889260）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E8%BE%B9%E6%9C%89%E4%B8%AA%E5%B0%8F%E5%8D%96%E9%83%A8%E5%BD%B1%E8%A7%86%E5%8C%96%23" target="weibo">
 云边有个小卖部影视化（热度：888678）
 </a>
@@ -3155,6 +3167,12 @@ iPhone14系列没涨价（热度：892829）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%9B%BD%E5%BA%86%E6%A1%A3%E4%B8%89%E9%83%A8%E7%94%B5%E5%BD%B1%E5%90%8C%E6%97%B6%E4%B8%8A%E6%98%A0%23" target="weibo">
 网传王一博国庆档三部电影同时上映（热度：823069）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%8D%87%E6%9C%AC%E6%98%AF%E4%B8%93%E7%A7%91%E7%94%9F%E7%9A%84%E6%9C%80%E4%BC%98%E9%80%89%E6%8B%A9%E5%90%97%23" target="weibo">
+专升本是专科生的最优选择吗（热度：821577）
 </a>
 </li>
 
@@ -3455,12 +3473,6 @@ AI画作拿一等奖惹怒人类艺术家（热度：776588）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%A6%E5%8D%8E%E5%BD%95%20TVB%23" target="weibo">
 梦华录 TVB（热度：750606）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9F%A5%E5%B0%94%E6%96%AF%E4%B8%89%E4%B8%96%E5%B0%86%E4%BA%8E10%E6%97%A5%E6%AD%A3%E5%BC%8F%E7%99%BB%E5%9F%BA%23" target="weibo">
-查尔斯三世将于10日正式登基（热度：750495）
 </a>
 </li>
 
@@ -4329,12 +4341,6 @@ iPhone14 Pro Max（热度：595064）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%8D%87%E6%9C%AC%E6%98%AF%E4%B8%93%E7%A7%91%E7%94%9F%E7%9A%84%E6%9C%80%E4%BC%98%E9%80%89%E6%8B%A9%E5%90%97%23" target="weibo">
-专升本是专科生的最优选择吗（热度：594852）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E4%BF%9D%E5%81%A5%E5%93%81%E5%BD%93%E9%A5%AD%E5%90%83%E8%87%B4%E5%AD%90%E5%AE%AB%E9%95%BF%E6%BB%A1%E8%82%8C%E7%98%A4%23" target="weibo">
 女生保健品当饭吃致子宫长满肌瘤（热度：594172）
 </a>
@@ -4725,12 +4731,6 @@ BBC（热度：545799）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23byl%23" target="weibo">
-byl（热度：538026）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23LESSERAFIM%E7%A1%AE%E5%AE%9A10%E6%9C%88%E4%B8%AD%E6%97%AC%E5%9B%9E%E5%BD%92%23" target="weibo">
 LESSERAFIM确定10月中旬回归（热度：537553）
 </a>
@@ -4859,6 +4859,12 @@ Doinb无缘世界赛（热度：528595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%AD%90%E5%91%BC%E5%90%B8%E6%9C%BA%E7%BB%AD%E5%91%BD%E7%88%B7%E7%88%B7%E6%89%9B%E6%9C%A8%E5%A4%B4%E8%B5%9A%E8%8D%AF%E8%B4%B9%23" target="weibo">
 孙子呼吸机续命爷爷扛木头赚药费（热度：524683）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%87%A1%E8%AF%B4%E8%B4%BA%E5%B3%BB%E9%9C%96%E9%95%BF%E5%A4%A7%E4%BA%86%23" target="weibo">
+张艺凡说贺峻霖长大了（热度：523742）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ ive新歌获一位（热度：427229）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%8B%89%E6%96%AF%E5%B0%86%E5%87%BA%E8%AE%BF%E4%B9%8C%E5%85%8B%E5%85%B0%23" target="weibo">
 特拉斯将出访乌克兰（热度：425151）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E4%BF%8A%E8%BE%89%E6%92%92%E5%A8%87%23" target="weibo">
-文俊辉撒娇（热度：424713）
 </a>
 </li>
 
