@@ -1,6 +1,6 @@
 {
   "startTime": 1662654904784,
-  "endTime": 1662719214036,
+  "endTime": 1662720276204,
   "band_list": [
     {
       "raw_hot": 8812909,
@@ -105,6 +105,14 @@
       "onboard_time": 1662683737,
       "rank": 10,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1667551,
+      "num": 1667551,
+      "word": "肯德基回应拒收现金",
+      "onboard_time": 1662716246,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1591908,
@@ -243,14 +251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1258337,
-      "num": 1258337,
-      "word": "肯德基回应拒收现金",
-      "onboard_time": 1662716246,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1250572,
       "num": 439378,
       "word": "戴安娜",
@@ -260,7 +260,7 @@
     },
     {
       "raw_hot": 1211519,
-      "num": 277767,
+      "num": 298059,
       "word": "郭晓婷晒和林子聪合照",
       "onboard_time": 1662717808,
       "rank": 20,
@@ -281,6 +281,14 @@
       "onboard_time": 1662695551,
       "rank": 6,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 1140466,
+      "num": 1140466,
+      "word": "为何近期我国新冠疫情此起彼伏",
+      "onboard_time": 1662716007,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1104425,
@@ -395,12 +403,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 903998,
-      "num": 903998,
-      "word": "为何近期我国新冠疫情此起彼伏",
-      "onboard_time": 1662716007,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 911505,
+      "num": 911505,
+      "word": "苍兰诀OST今夏封神",
+      "onboard_time": 1662716727,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 899593,
@@ -433,14 +441,6 @@
       "onboard_time": 1662647436,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 862541,
-      "num": 862541,
-      "word": "苍兰诀OST今夏封神",
-      "onboard_time": 1662716727,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 818745,
@@ -675,12 +675,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 471519,
+      "num": 471519,
+      "word": "老人为捡饭店瓶子倒掉整箱饮料",
+      "onboard_time": 1662716727,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 467527,
+      "num": 467527,
+      "word": "等下班",
+      "onboard_time": 1662716968,
+      "rank": 14,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 463927,
       "num": 463927,
       "word": "周寻出场3分钟 齐颂30集白演",
       "onboard_time": 1662643169,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 460394,
+      "num": 460394,
+      "word": "查尔斯三世将于10日正式登基",
+      "onboard_time": 1662718527,
+      "rank": 19,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 456806,
+      "num": 456806,
+      "word": "中印两军开始同步有计划组织脱离接触",
+      "onboard_time": 1662718226,
+      "rank": 45,
+      "category": "军事"
     },
     {
       "raw_hot": 452876,
@@ -697,6 +729,14 @@
       "onboard_time": 1662703470,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 445338,
+      "num": 445338,
+      "word": "中秋晚会",
+      "onboard_time": 1662717089,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 433193,
@@ -721,14 +761,6 @@
       "onboard_time": 1662643111,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 404924,
-      "num": 404924,
-      "word": "等下班",
-      "onboard_time": 1662716968,
-      "rank": 14,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 396826,
@@ -771,14 +803,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 387910,
-      "num": 387910,
-      "word": "中秋晚会",
-      "onboard_time": 1662717089,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 376415,
       "num": 358031,
       "word": "英国首相就英国女王去世发声明",
@@ -801,14 +825,6 @@
       "onboard_time": 1662708749,
       "rank": 19,
       "category": "情感,教育"
-    },
-    {
-      "raw_hot": 366654,
-      "num": 366654,
-      "word": "老人为捡饭店瓶子倒掉整箱饮料",
-      "onboard_time": 1662716727,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 363897,
@@ -865,6 +881,14 @@
       "onboard_time": 1662648701,
       "rank": 16,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 347189,
+      "num": 347189,
+      "word": "今天又要给苹果打款了",
+      "onboard_time": 1662717448,
+      "rank": 23,
+      "category": "科技"
     },
     {
       "raw_hot": 344962,
@@ -1003,6 +1027,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 301209,
+      "num": 297436,
+      "word": "特优声2真的来了",
+      "onboard_time": 1662720146,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 301172,
       "num": 301172,
       "word": "英国首相对白金汉宫消息深感关切",
@@ -1059,6 +1091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 289624,
+      "num": 289624,
+      "word": "加勒比英联邦国家再次呼吁废除君主制",
+      "onboard_time": 1662718645,
+      "rank": 29,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 288122,
       "num": 288122,
       "word": "贺峻霖说主持大影节不可思议",
@@ -1081,14 +1121,6 @@
       "onboard_time": 1662691948,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 279410,
-      "num": 279410,
-      "word": "查尔斯三世将于10日正式登基",
-      "onboard_time": 1662718527,
-      "rank": 19,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 278743,
@@ -1139,20 +1171,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 256794,
-      "num": 256794,
-      "word": "今天又要给苹果打款了",
-      "onboard_time": 1662717448,
-      "rank": 23,
-      "category": "科技"
-    },
-    {
       "raw_hot": 254764,
       "num": 254764,
       "word": "苏里南",
       "onboard_time": 1662710067,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 253697,
+      "num": 253697,
+      "word": "警方通报男子致13岁女孩死亡",
+      "onboard_time": 1662719908,
+      "rank": 25,
+      "category": "社会负面"
     },
     {
       "raw_hot": 251504,
@@ -1185,6 +1217,14 @@
       "onboard_time": 1662647676,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241614,
+      "num": 241614,
+      "word": "幼儿园中秋晚会上的嫦娥奔月",
+      "onboard_time": 1662716427,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 238743,
@@ -1291,12 +1331,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 214388,
-      "num": 214388,
-      "word": "加勒比英联邦国家再次呼吁废除君主制",
-      "onboard_time": 1662718645,
-      "rank": 29,
-      "category": "国外要闻"
+      "raw_hot": 215620,
+      "num": 215620,
+      "word": "贺峻霖说今晚与大家共赴青春之夜",
+      "onboard_time": 1662719606,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 212821,
@@ -1313,14 +1353,6 @@
       "onboard_time": 1662711089,
       "rank": 38,
       "category": "教育"
-    },
-    {
-      "raw_hot": 211269,
-      "num": 211269,
-      "word": "幼儿园中秋晚会上的嫦娥奔月",
-      "onboard_time": 1662716427,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 211000,
@@ -1401,6 +1433,22 @@
       "onboard_time": 1662711267,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189303,
+      "num": 169218,
+      "word": "王冠暂停拍摄",
+      "onboard_time": 1662719308,
+      "rank": 40,
+      "category": "影视,国外要闻"
+    },
+    {
+      "raw_hot": 189045,
+      "num": 189045,
+      "word": "伊犁新增伊宁市人民医院为黄码医院",
+      "onboard_time": 1662719666,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187645,
@@ -1531,6 +1579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 165291,
+      "num": 165291,
+      "word": "微博新表情老师好",
+      "onboard_time": 1662720026,
+      "rank": 43,
+      "category": "科技"
+    },
+    {
       "raw_hot": 162730,
       "num": 137397,
       "word": "邢菲回复网友好真诚",
@@ -1603,14 +1659,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 145710,
-      "num": 145710,
-      "word": "中印两军开始同步有计划组织脱离接触",
-      "onboard_time": 1662718226,
-      "rank": 45,
-      "category": "军事"
-    },
-    {
       "raw_hot": 143437,
       "num": 143437,
       "word": "阴阳师原创音乐品牌上线",
@@ -1627,6 +1675,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 138086,
+      "num": 138086,
+      "word": "它喝的是洗面奶吗",
+      "onboard_time": 1662720146,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 137457,
       "num": 137457,
       "word": "女子偷走邻居月饼拒接电话拒归还",
@@ -1641,6 +1697,14 @@
       "onboard_time": 1662648458,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132280,
+      "num": 132280,
+      "word": "专升本是专科生的最优选择吗",
+      "onboard_time": 1662719786,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 131792,

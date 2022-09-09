@@ -1,0 +1,410 @@
+{
+  "runTime": 1662720276204,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1667551,
+        "num": 1667551,
+        "word": "肯德基回应拒收现金",
+        "onboard_time": 1662716246,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1140466,
+        "num": 1140466,
+        "word": "为何近期我国新冠疫情此起彼伏",
+        "onboard_time": 1662716007,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92803,
+        "num": 1069848,
+        "word": "中国科学家首次在月球上发现新矿物",
+        "onboard_time": 1662701371,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1064728,
+        "num": 1064728,
+        "word": "教官发现学生只吃素给他加2荤菜",
+        "onboard_time": 1662713727,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 911505,
+        "num": 911505,
+        "word": "苍兰诀OST今夏封神",
+        "onboard_time": 1662716727,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1094794,
+        "num": 881822,
+        "word": "新疆库尔勒市道歉",
+        "onboard_time": 1662704008,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 791878,
+        "num": 791878,
+        "word": "寻果BE",
+        "onboard_time": 1662716727,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 586415,
+        "num": 586415,
+        "word": "中专生读博后回大学任教",
+        "onboard_time": 1662711689,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 583067,
+        "num": 583067,
+        "word": "潘玮柏一个人炫了28道菜",
+        "onboard_time": 1662710127,
+        "rank": 8,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 471519,
+        "num": 471519,
+        "word": "老人为捡饭店瓶子倒掉整箱饮料",
+        "onboard_time": 1662716727,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507151,
+        "num": 471404,
+        "word": "魏晨方否认加盟快乐再出发第二季",
+        "onboard_time": 1662713969,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 471119,
+        "num": 471119,
+        "word": "iPhone14Pro系列占中国订单85%",
+        "onboard_time": 1662705206,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 467527,
+        "num": 467527,
+        "word": "等下班",
+        "onboard_time": 1662716968,
+        "rank": 12,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 460394,
+        "num": 460394,
+        "word": "查尔斯三世将于10日正式登基",
+        "onboard_time": 1662718527,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 456806,
+        "num": 456806,
+        "word": "中印两军开始同步有计划组织脱离接触",
+        "onboard_time": 1662718226,
+        "rank": 14,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 445338,
+        "num": 445338,
+        "word": "中秋晚会",
+        "onboard_time": 1662717089,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424068,
+        "num": 424068,
+        "word": "植物学家质疑两个人的小森林",
+        "onboard_time": 1662710309,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 395471,
+        "num": 395471,
+        "word": "2023年考研人数预计超500万",
+        "onboard_time": 1662697773,
+        "rank": 17,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 347189,
+        "num": 347189,
+        "word": "今天又要给苹果打款了",
+        "onboard_time": 1662717448,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 298523,
+        "num": 298523,
+        "word": "男子欲录视频扶摔倒大叔反被骂",
+        "onboard_time": 1662708209,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1136654,
+        "num": 298059,
+        "word": "郭晓婷晒和林子聪合照",
+        "onboard_time": 1662717808,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 301209,
+        "num": 297436,
+        "word": "特优声2真的来了",
+        "onboard_time": 1662720146,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300348,
+        "num": 296150,
+        "word": "沈腾知道自己演了这么多戏吗",
+        "onboard_time": 1662712589,
+        "rank": 22,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 293301,
+        "num": 293301,
+        "word": "被臭屁虫臭到手手的小猫咪",
+        "onboard_time": 1662706528,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 289624,
+        "num": 289624,
+        "word": "加勒比英联邦国家再次呼吁废除君主制",
+        "onboard_time": 1662718645,
+        "rank": 24,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 253697,
+        "num": 253697,
+        "word": "警方通报男子致13岁女孩死亡",
+        "onboard_time": 1662719908,
+        "rank": 25,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 241614,
+        "num": 241614,
+        "word": "幼儿园中秋晚会上的嫦娥奔月",
+        "onboard_time": 1662716427,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 237260,
+        "num": 237260,
+        "word": "imp",
+        "onboard_time": 1662708150,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 229036,
+        "num": 229036,
+        "word": "纪念毛泽东同志逝世46周年",
+        "onboard_time": 1662702807,
+        "rank": 28,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 217010,
+        "num": 217010,
+        "word": "原神",
+        "onboard_time": 1662715106,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 252024,
+        "num": 216658,
+        "word": "慕容云海最容易出轨",
+        "onboard_time": 1662707189,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240675,
+        "num": 216575,
+        "word": "吴建豪跟吴克群说自己是美作",
+        "onboard_time": 1662716668,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215620,
+        "num": 215620,
+        "word": "贺峻霖说今晚与大家共赴青春之夜",
+        "onboard_time": 1662719606,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214923,
+        "num": 214923,
+        "word": "王鹤棣推介2022星辰大海",
+        "onboard_time": 1662716007,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203220,
+        "num": 203220,
+        "word": "泸定地震已致88人死30人失联",
+        "onboard_time": 1662714087,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189045,
+        "num": 189045,
+        "word": "伊犁新增伊宁市人民医院为黄码医院",
+        "onboard_time": 1662719666,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183017,
+        "num": 183017,
+        "word": "地铁里上演公司福利大比拼",
+        "onboard_time": 1662703470,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174160,
+        "num": 174160,
+        "word": "知乎崩了",
+        "onboard_time": 1662716246,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 170623,
+        "num": 170623,
+        "word": "导盲犬用身体挡住主人自己掉落窨井",
+        "onboard_time": 1662701070,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29332,
+        "num": 169482,
+        "word": "中秋有心意",
+        "onboard_time": 1662717631,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189303,
+        "num": 169218,
+        "word": "王冠暂停拍摄",
+        "onboard_time": 1662719308,
+        "rank": 40,
+        "category": "影视,国外要闻"
+      },
+      {
+        "raw_hot": 201828,
+        "num": 167684,
+        "word": "何以笙箫默",
+        "onboard_time": 1662705328,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180905,
+        "num": 166401,
+        "word": "陈小春两季都没搞懂规则",
+        "onboard_time": 1662716066,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165291,
+        "num": 165291,
+        "word": "微博新表情老师好",
+        "onboard_time": 1662720026,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 160024,
+        "num": 160024,
+        "word": "11岁男孩找妈妈索赔被拒后报警",
+        "onboard_time": 1662706948,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153396,
+        "num": 153396,
+        "word": "朝鲜颁布关于核武力政策的法令",
+        "onboard_time": 1662707728,
+        "rank": 45,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 148813,
+        "num": 148813,
+        "word": "北京新增本土感染者14例",
+        "onboard_time": 1662712948,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138086,
+        "num": 138086,
+        "word": "它喝的是洗面奶吗",
+        "onboard_time": 1662720146,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132280,
+        "num": 132280,
+        "word": "专升本是专科生的最优选择吗",
+        "onboard_time": 1662719786,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 131963,
+        "num": 131963,
+        "word": "2022KPL夏季赛最佳阵容",
+        "onboard_time": 1662714568,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央军委举行晋升上将军衔仪式#"
+    }
+  }
+}
