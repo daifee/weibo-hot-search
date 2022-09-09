@@ -1,6 +1,6 @@
 {
   "startTime": 1662654904784,
-  "endTime": 1662720276204,
+  "endTime": 1662722439813,
   "band_list": [
     {
       "raw_hot": 8812909,
@@ -57,6 +57,14 @@
       "onboard_time": 1662644070,
       "rank": 1,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 2728146,
+      "num": 2728146,
+      "word": "警方通报男子致13岁女孩死亡",
+      "onboard_time": 1662719908,
+      "rank": 25,
+      "category": "社会负面"
     },
     {
       "raw_hot": 2467415,
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 1211519,
-      "num": 298059,
+      "num": 343567,
       "word": "郭晓婷晒和林子聪合照",
       "onboard_time": 1662717808,
       "rank": 20,
@@ -507,12 +515,44 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 750495,
+      "num": 750495,
+      "word": "查尔斯三世将于10日正式登基",
+      "onboard_time": 1662718527,
+      "rank": 19,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 703327,
+      "num": 703327,
+      "word": "中秋晚会",
+      "onboard_time": 1662717089,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 673876,
+      "num": 673876,
+      "word": "梁爽辞职",
+      "onboard_time": 1662720570,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 625844,
       "num": 625844,
       "word": "查尔斯王子已到女王身边",
       "onboard_time": 1662649598,
       "rank": 10,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 621597,
+      "num": 621597,
+      "word": "中印两军开始同步有计划组织脱离接触",
+      "onboard_time": 1662718226,
+      "rank": 45,
+      "category": "军事"
     },
     {
       "raw_hot": 617337,
@@ -539,6 +579,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 594852,
+      "num": 594852,
+      "word": "专升本是专科生的最优选择吗",
+      "onboard_time": 1662719786,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 575997,
       "num": 575997,
       "word": "沈腾知道自己演了这么多戏吗",
@@ -553,6 +601,14 @@
       "onboard_time": 1662681638,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 538026,
+      "num": 538026,
+      "word": "byl",
+      "onboard_time": 1662721948,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 535041,
@@ -659,6 +715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 478403,
+      "num": 478403,
+      "word": "老人为捡饭店瓶子倒掉整箱饮料",
+      "onboard_time": 1662716727,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 476078,
       "num": 476078,
       "word": "倪虹洁华鼎奖最佳女配角",
@@ -672,14 +736,6 @@
       "word": "女子识破骗局3次薅骗子羊毛",
       "onboard_time": 1662688052,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 471519,
-      "num": 471519,
-      "word": "老人为捡饭店瓶子倒掉整箱饮料",
-      "onboard_time": 1662716727,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -699,22 +755,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 460394,
-      "num": 460394,
-      "word": "查尔斯三世将于10日正式登基",
-      "onboard_time": 1662718527,
-      "rank": 19,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 456806,
-      "num": 456806,
-      "word": "中印两军开始同步有计划组织脱离接触",
-      "onboard_time": 1662718226,
-      "rank": 45,
-      "category": "军事"
-    },
-    {
       "raw_hot": 452876,
       "num": 452876,
       "word": "公司回应发放轴承钢月饼",
@@ -729,14 +769,6 @@
       "onboard_time": 1662703470,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 445338,
-      "num": 445338,
-      "word": "中秋晚会",
-      "onboard_time": 1662717089,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 433193,
@@ -761,6 +793,14 @@
       "onboard_time": 1662643111,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 409095,
+      "num": 372558,
+      "word": "今天又要给苹果打款了",
+      "onboard_time": 1662717448,
+      "rank": 23,
+      "category": "科技"
     },
     {
       "raw_hot": 396826,
@@ -883,12 +923,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 347189,
-      "num": 347189,
-      "word": "今天又要给苹果打款了",
-      "onboard_time": 1662717448,
-      "rank": 23,
-      "category": "科技"
+      "raw_hot": 351340,
+      "num": 351340,
+      "word": "伊犁新增伊宁市人民医院为黄码医院",
+      "onboard_time": 1662719666,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 344962,
@@ -977,6 +1017,14 @@
       "onboard_time": 1662646113,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 313885,
+      "num": 313885,
+      "word": "加勒比英联邦国家再次呼吁废除君主制",
+      "onboard_time": 1662718645,
+      "rank": 29,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 313432,
@@ -1091,14 +1139,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 289624,
-      "num": 289624,
-      "word": "加勒比英联邦国家再次呼吁废除君主制",
-      "onboard_time": 1662718645,
-      "rank": 29,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 288122,
       "num": 288122,
       "word": "贺峻霖说主持大影节不可思议",
@@ -1155,6 +1195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 258861,
+      "num": 258861,
+      "word": "小绿没惹你们任何人",
+      "onboard_time": 1662719487,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 258413,
       "num": 258413,
       "word": "2022KPL夏季赛最佳阵容",
@@ -1179,20 +1227,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 253697,
-      "num": 253697,
-      "word": "警方通报男子致13岁女孩死亡",
-      "onboard_time": 1662719908,
-      "rank": 25,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 251504,
       "num": 251504,
       "word": "苏格兰",
       "onboard_time": 1662683919,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249154,
+      "num": 207430,
+      "word": "周深说自己的歌太难唱了",
+      "onboard_time": 1662721107,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 247449,
@@ -1443,14 +1491,6 @@
       "category": "影视,国外要闻"
     },
     {
-      "raw_hot": 189045,
-      "num": 189045,
-      "word": "伊犁新增伊宁市人民医院为黄码医院",
-      "onboard_time": 1662719666,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 187645,
       "num": 187645,
       "word": "BBC",
@@ -1595,6 +1635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 161059,
+      "num": 161059,
+      "word": "它喝的是洗面奶吗",
+      "onboard_time": 1662720146,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 158631,
       "num": 158631,
       "word": "张云龙用粤语说有冇搞错啊",
@@ -1659,6 +1707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 147895,
+      "num": 147895,
+      "word": "中国产出了全球几乎全部杨梅",
+      "onboard_time": 1662721948,
+      "rank": 44,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 143437,
       "num": 143437,
       "word": "阴阳师原创音乐品牌上线",
@@ -1675,14 +1731,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 138086,
-      "num": 138086,
-      "word": "它喝的是洗面奶吗",
-      "onboard_time": 1662720146,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 137457,
       "num": 137457,
       "word": "女子偷走邻居月饼拒接电话拒归还",
@@ -1697,14 +1745,6 @@
       "onboard_time": 1662648458,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 132280,
-      "num": 132280,
-      "word": "专升本是专科生的最优选择吗",
-      "onboard_time": 1662719786,
-      "rank": 48,
-      "category": "教育"
     },
     {
       "raw_hot": 131792,
@@ -1811,6 +1851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 99507,
+      "num": 99507,
+      "word": "中秋节文案",
+      "onboard_time": 1662722427,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 96417,
       "num": 96417,
       "word": "白冰说姐讲的不是人话是神话",
@@ -1889,6 +1937,14 @@
       "onboard_time": 1662717631,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 8070,
+      "num": 504083,
+      "word": "原神甘雨心海复刻",
+      "onboard_time": 1662721229,
+      "rank": 14,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [

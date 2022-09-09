@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662720276204,
+  "endTime": 1662722439813,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -281,6 +281,14 @@
       "onboard_time": 1662592161,
       "rank": 6,
       "category": "科技"
+    },
+    {
+      "raw_hot": 2728146,
+      "num": 2728146,
+      "word": "警方通报男子致13岁女孩死亡",
+      "onboard_time": 1662719908,
+      "rank": 25,
+      "category": "社会负面"
     },
     {
       "raw_hot": 2669957,
@@ -1276,7 +1284,7 @@
     },
     {
       "raw_hot": 1211519,
-      "num": 298059,
+      "num": 343567,
       "word": "郭晓婷晒和林子聪合照",
       "onboard_time": 1662717808,
       "rank": 20,
@@ -2563,6 +2571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 750495,
+      "num": 750495,
+      "word": "查尔斯三世将于10日正式登基",
+      "onboard_time": 1662718527,
+      "rank": 19,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 748429,
       "num": 748429,
       "word": "台湾省一阿公为四川泸定捐款",
@@ -2739,6 +2755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 703327,
+      "num": 703327,
+      "word": "中秋晚会",
+      "onboard_time": 1662717089,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 696839,
       "num": 696839,
       "word": "南风知我意优酷预约破百万",
@@ -2817,6 +2841,14 @@
       "onboard_time": 1662465988,
       "rank": 12,
       "category": "美食"
+    },
+    {
+      "raw_hot": 673876,
+      "num": 673876,
+      "word": "梁爽辞职",
+      "onboard_time": 1662720570,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 672478,
@@ -3035,6 +3067,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 621597,
+      "num": 621597,
+      "word": "中印两军开始同步有计划组织脱离接触",
+      "onboard_time": 1662718226,
+      "rank": 45,
+      "category": "军事"
+    },
+    {
       "raw_hot": 620440,
       "num": 620440,
       "word": "专家称四川6.8级地震与干旱无关",
@@ -3177,6 +3217,14 @@
       "onboard_time": 1662592762,
       "rank": 33,
       "category": "科技"
+    },
+    {
+      "raw_hot": 594852,
+      "num": 594852,
+      "word": "专升本是专科生的最优选择吗",
+      "onboard_time": 1662719786,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 593957,
@@ -3361,6 +3409,14 @@
       "onboard_time": 1662359132,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 538026,
+      "num": 538026,
+      "word": "byl",
+      "onboard_time": 1662721948,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 537553,
@@ -3835,6 +3891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 478403,
+      "num": 478403,
+      "word": "老人为捡饭店瓶子倒掉整箱饮料",
+      "onboard_time": 1662716727,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 476968,
       "num": 476968,
       "word": "肖战为四川祈福平安",
@@ -3864,14 +3928,6 @@
       "word": "外交部回应西工大遭网络攻击事件",
       "onboard_time": 1662365249,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 471519,
-      "num": 471519,
-      "word": "老人为捡饭店瓶子倒掉整箱饮料",
-      "onboard_time": 1662716727,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -3987,28 +4043,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 460394,
-      "num": 460394,
-      "word": "查尔斯三世将于10日正式登基",
-      "onboard_time": 1662718527,
-      "rank": 19,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 459400,
       "num": 459400,
       "word": "法拉利",
       "onboard_time": 1662301957,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 456806,
-      "num": 456806,
-      "word": "中印两军开始同步有计划组织脱离接触",
-      "onboard_time": 1662718226,
-      "rank": 45,
-      "category": "军事"
     },
     {
       "raw_hot": 456517,
@@ -4105,14 +4145,6 @@
       "onboard_time": 1662355071,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 445338,
-      "num": 445338,
-      "word": "中秋晚会",
-      "onboard_time": 1662717089,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 445051,
@@ -4505,6 +4537,14 @@
       "onboard_time": 1662624626,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 409095,
+      "num": 372558,
+      "word": "今天又要给苹果打款了",
+      "onboard_time": 1662717448,
+      "rank": 23,
+      "category": "科技"
     },
     {
       "raw_hot": 408748,
@@ -5267,6 +5307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 351340,
+      "num": 351340,
+      "word": "伊犁新增伊宁市人民医院为黄码医院",
+      "onboard_time": 1662719666,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 350797,
       "num": 350797,
       "word": "法考延期",
@@ -5321,14 +5369,6 @@
       "onboard_time": 1662463531,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 347189,
-      "num": 347189,
-      "word": "今天又要给苹果打款了",
-      "onboard_time": 1662717448,
-      "rank": 23,
-      "category": "科技"
     },
     {
       "raw_hot": 346705,
@@ -5827,6 +5867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 313885,
+      "num": 313885,
+      "word": "加勒比英联邦国家再次呼吁废除君主制",
+      "onboard_time": 1662718645,
+      "rank": 29,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 313458,
       "num": 313458,
       "word": "狗狗觉得主人的拖鞋不好后",
@@ -6297,14 +6345,6 @@
       "onboard_time": 1662540146,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 289624,
-      "num": 289624,
-      "word": "加勒比英联邦国家再次呼吁废除君主制",
-      "onboard_time": 1662718645,
-      "rank": 29,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 288870,
@@ -6979,6 +7019,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 258861,
+      "num": 258861,
+      "word": "小绿没惹你们任何人",
+      "onboard_time": 1662719487,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 258413,
       "num": 258413,
       "word": "2022KPL夏季赛最佳阵容",
@@ -7115,14 +7163,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 253697,
-      "num": 253697,
-      "word": "警方通报男子致13岁女孩死亡",
-      "onboard_time": 1662719908,
-      "rank": 25,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 253531,
       "num": 253531,
       "word": "青岛疫情防控",
@@ -7177,6 +7217,14 @@
       "onboard_time": 1662637891,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 249154,
+      "num": 207430,
+      "word": "周深说自己的歌太难唱了",
+      "onboard_time": 1662721107,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 248980,
@@ -8531,14 +8579,6 @@
       "category": "影视,国外要闻"
     },
     {
-      "raw_hot": 189045,
-      "num": 189045,
-      "word": "伊犁新增伊宁市人民医院为黄码医院",
-      "onboard_time": 1662719666,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 188931,
       "num": 188931,
       "word": "原来猫咪也会脚麻",
@@ -9187,6 +9227,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 161059,
+      "num": 161059,
+      "word": "它喝的是洗面奶吗",
+      "onboard_time": 1662720146,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 160731,
       "num": 160731,
       "word": "大爷泡脚治疗静脉曲张致双腿乌黑",
@@ -9491,6 +9539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147895,
+      "num": 147895,
+      "word": "中国产出了全球几乎全部杨梅",
+      "onboard_time": 1662721948,
+      "rank": 44,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 147775,
       "num": 147775,
       "word": "苹果发布会有哪些亮点",
@@ -9747,14 +9803,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 138086,
-      "num": 138086,
-      "word": "它喝的是洗面奶吗",
-      "onboard_time": 1662720146,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 137933,
       "num": 137933,
       "word": "恩施疫情防控",
@@ -9881,14 +9929,6 @@
       "onboard_time": 1662340349,
       "rank": 41,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 132280,
-      "num": 132280,
-      "word": "专升本是专科生的最优选择吗",
-      "onboard_time": 1662719786,
-      "rank": 48,
-      "category": "教育"
     },
     {
       "raw_hot": 131792,
@@ -10217,6 +10257,14 @@
       "onboard_time": 1662336387,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99507,
+      "num": 99507,
+      "word": "中秋节文案",
+      "onboard_time": 1662722427,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 99034,
@@ -10681,6 +10729,14 @@
       "onboard_time": 1662296188,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 8070,
+      "num": 504083,
+      "word": "原神甘雨心海复刻",
+      "onboard_time": 1662721229,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 7324,
