@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662709381324,
+  "endTime": 1662712344188,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -819,6 +819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1550213,
+      "num": 1550213,
+      "word": "何以笙箫默",
+      "onboard_time": 1662705328,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1548196,
       "num": 1548196,
       "word": "泸定地震已致65人遇难",
@@ -881,14 +889,6 @@
       "onboard_time": 1662611311,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1441542,
-      "num": 1441542,
-      "word": "何以笙箫默",
-      "onboard_time": 1662705328,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 1438466,
@@ -1105,6 +1105,14 @@
       "onboard_time": 1662435089,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1313399,
+      "num": 1313399,
+      "word": "imp",
+      "onboard_time": 1662708150,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 1311670,
@@ -1923,11 +1931,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 941702,
+      "num": 941702,
+      "word": "慕容云海最容易出轨",
+      "onboard_time": 1662707189,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 941393,
+      "num": 941393,
+      "word": "朝鲜颁布关于核武力政策的法令",
+      "onboard_time": 1662707728,
+      "rank": 28,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 940936,
       "num": 940936,
       "word": "六版道明寺",
       "onboard_time": 1662365668,
       "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 940764,
+      "num": 940764,
+      "word": "植物学家质疑两个人的小森林",
+      "onboard_time": 1662710309,
+      "rank": 6,
       "category": "影视"
     },
     {
@@ -2345,14 +2377,6 @@
       "onboard_time": 1662347604,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 794216,
-      "num": 794216,
-      "word": "慕容云海最容易出轨",
-      "onboard_time": 1662707189,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 792822,
@@ -2779,6 +2803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 655650,
+      "num": 582369,
+      "word": "潘玮柏一个人炫了28道菜",
+      "onboard_time": 1662710127,
+      "rank": 11,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 654639,
       "num": 654639,
       "word": "男子送月饼十天后又回到自己手里",
@@ -2873,14 +2905,6 @@
       "onboard_time": 1662383008,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 631791,
-      "num": 631791,
-      "word": "朝鲜颁布关于核武力政策的法令",
-      "onboard_time": 1662707728,
-      "rank": 28,
-      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 630201,
@@ -3083,6 +3107,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 595051,
+      "num": 595051,
+      "word": "男子欲录视频扶摔倒大叔反被骂",
+      "onboard_time": 1662708209,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 593957,
       "num": 593957,
       "word": "暑期档最受关注的男女艺人",
@@ -3105,14 +3137,6 @@
       "onboard_time": 1662442646,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 584975,
-      "num": 584975,
-      "word": "imp",
-      "onboard_time": 1662708150,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 582494,
@@ -3705,6 +3729,14 @@
       "onboard_time": 1662390814,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 482558,
+      "num": 482558,
+      "word": "野兽派成本255元参王茶翻倍卖568元",
+      "onboard_time": 1662707308,
+      "rank": 33,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 481529,
@@ -4843,6 +4875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 371943,
+      "num": 371943,
+      "word": "在男女比失调的大学读书什么体验",
+      "onboard_time": 1662708749,
+      "rank": 19,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 371134,
       "num": 371134,
       "word": "00后毕业养猪因不想内耗",
@@ -4955,11 +4995,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 362194,
+      "num": 362194,
+      "word": "重庆疫情防控",
+      "onboard_time": 1662708568,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 361862,
       "num": 361862,
       "word": "陕西咸阳发现美洲毒草银毛龙葵",
       "onboard_time": 1662702028,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 360252,
+      "num": 360252,
+      "word": "11岁男孩找妈妈索赔被拒后报警",
+      "onboard_time": 1662706948,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -6075,6 +6131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 288122,
+      "num": 288122,
+      "word": "贺峻霖说主持大影节不可思议",
+      "onboard_time": 1662711207,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 288097,
       "num": 288097,
       "word": "年轻人等车时最怕什么",
@@ -6145,14 +6209,6 @@
       "onboard_time": 1662425973,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 284550,
-      "num": 284550,
-      "word": "在男女比失调的大学读书什么体验",
-      "onboard_time": 1662708749,
-      "rank": 19,
-      "category": "情感,教育"
     },
     {
       "raw_hot": 283830,
@@ -6267,6 +6323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 278743,
+      "num": 278743,
+      "word": "福建一班委会筹资给老师送礼引争议",
+      "onboard_time": 1662707369,
+      "rank": 39,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 278474,
       "num": 278474,
       "word": "无名新预告",
@@ -6361,14 +6425,6 @@
       "onboard_time": 1662539126,
       "rank": 30,
       "category": "游戏,综艺"
-    },
-    {
-      "raw_hot": 274475,
-      "num": 274475,
-      "word": "11岁男孩找妈妈索赔被拒后报警",
-      "onboard_time": 1662706948,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 274237,
@@ -7251,6 +7307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 233133,
+      "num": 183248,
+      "word": "苏里南",
+      "onboard_time": 1662710067,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 232604,
       "num": 232604,
       "word": "林雨申眼神故事感",
@@ -7401,14 +7465,6 @@
       "onboard_time": 1662556530,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 227009,
-      "num": 227009,
-      "word": "重庆疫情防控",
-      "onboard_time": 1662708568,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 226905,
@@ -7819,14 +7875,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 205827,
-      "num": 205827,
-      "word": "野兽派成本255元参王茶翻倍卖568元",
-      "onboard_time": 1662707308,
-      "rank": 33,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 205202,
       "num": 205202,
       "word": "客服回应能链集团不招河南人",
@@ -8131,14 +8179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 193909,
-      "num": 193909,
-      "word": "男子欲录视频扶摔倒大叔反被骂",
-      "onboard_time": 1662708209,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 192912,
       "num": 192912,
       "word": "雅安石棉县发生4.5级地震",
@@ -8177,6 +8217,14 @@
       "onboard_time": 1662292046,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192127,
+      "num": 125026,
+      "word": "每天趴着上班是什么体验",
+      "onboard_time": 1662711267,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 190484,
@@ -8321,14 +8369,6 @@
       "onboard_time": 1662605906,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 184869,
-      "num": 184869,
-      "word": "福建一班委会筹资给老师送礼引争议",
-      "onboard_time": 1662707369,
-      "rank": 39,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 184627,
@@ -8577,6 +8617,14 @@
       "onboard_time": 1662540568,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 172918,
+      "num": 172918,
+      "word": "中专生读博后回大学任教",
+      "onboard_time": 1662711689,
+      "rank": 36,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 172403,
@@ -9643,6 +9691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126273,
+      "num": 126273,
+      "word": "罗翔说从来没有后悔成为一名老师",
+      "onboard_time": 1662711089,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 125478,
       "num": 125478,
       "word": "男子买烟不给钱女孩追出索要遭凶斥",
@@ -9675,6 +9731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121619,
+      "num": 121619,
+      "word": "成都世乒赛团体赛参赛队伍名单",
+      "onboard_time": 1662711449,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121063,
       "num": 121063,
       "word": "兵哥哥教你8个高效锻炼动作",
@@ -9697,6 +9761,14 @@
       "onboard_time": 1662632669,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118983,
+      "num": 118983,
+      "word": "研究称力量训练更有助睡眠",
+      "onboard_time": 1662711808,
+      "rank": 45,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 118839,
@@ -9923,6 +9995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90942,
+      "num": 105784,
+      "word": "老师鼓励我们的话总是惊人相似",
+      "onboard_time": 1662712289,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 85780,
       "num": 74150,
       "word": "舒淇是珠光宝气代名词吧",
@@ -10041,6 +10121,14 @@
       "onboard_time": 1662334762,
       "rank": 48,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 70593,
+      "num": 125107,
+      "word": "手机拍月亮哪家强",
+      "onboard_time": 1662710429,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 70228,
