@@ -1,0 +1,410 @@
+{
+  "runTime": 1662698957437,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3206695,
+        "num": 3206695,
+        "word": "凤凰天使 下架",
+        "onboard_time": 1662693690,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1766281,
+        "num": 1766281,
+        "word": "妻子连遭家暴两次还是孩子报警",
+        "onboard_time": 1662694711,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28333,
+        "num": 1445408,
+        "word": "泸定抗震救灾72小时",
+        "onboard_time": 1662643169,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1769359,
+        "num": 1442305,
+        "word": "内地现偶最容易出轨的男主",
+        "onboard_time": 1662695729,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1438466,
+        "num": 1438466,
+        "word": "YJJ女流领结婚证",
+        "onboard_time": 1662695969,
+        "rank": 4,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 1161413,
+        "num": 1161413,
+        "word": "女子手捧蛋糕出店被要2元打包费",
+        "onboard_time": 1662695551,
+        "rank": 5,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 969795,
+        "num": 969795,
+        "word": "罗小黑",
+        "onboard_time": 1662696632,
+        "rank": 6,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 837074,
+        "num": 837074,
+        "word": "野兽派香水和名创优品同一代工厂",
+        "onboard_time": 1662686853,
+        "rank": 7,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 553297,
+        "num": 553297,
+        "word": "2023年考研人数预计超500万",
+        "onboard_time": 1662697773,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 547065,
+        "num": 547065,
+        "word": "女子无围栏楼顶遛狗致狗坠亡",
+        "onboard_time": 1662689370,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1935238,
+        "num": 545739,
+        "word": "英国女王去世",
+        "onboard_time": 1662659122,
+        "rank": 10,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1151512,
+        "num": 544068,
+        "word": "乔布斯女儿吐槽苹果iPhone14",
+        "onboard_time": 1662683737,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 814868,
+        "num": 542598,
+        "word": "性转 鬼怪",
+        "onboard_time": 1662694829,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1020328,
+        "num": 540638,
+        "word": "巴西总统宣布全国哀悼三天",
+        "onboard_time": 1662685773,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 70228,
+        "num": 538668,
+        "word": "江苏听障女孩靠读唇语考上大学",
+        "onboard_time": 1662696030,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 710597,
+        "num": 536082,
+        "word": "新疆疫情防控",
+        "onboard_time": 1662686251,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 706788,
+        "num": 535497,
+        "word": "普京对英女王去世表示哀悼",
+        "onboard_time": 1662690388,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 533627,
+        "num": 533627,
+        "word": "刘彦平被决定逮捕",
+        "onboard_time": 1662694110,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509371,
+        "num": 509371,
+        "word": "赵露思偷偷藏不住下班路透图",
+        "onboard_time": 1662690691,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 671330,
+        "num": 494399,
+        "word": "英女王去世当天时间线",
+        "onboard_time": 1662686433,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 463904,
+        "num": 463904,
+        "word": "地震时男子快速倒车捡回一命",
+        "onboard_time": 1662693808,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444670,
+        "num": 444670,
+        "word": "女子被骗13万后将骗子忽悠到自己家",
+        "onboard_time": 1662682776,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 587476,
+        "num": 441657,
+        "word": "查尔斯成为英国国王",
+        "onboard_time": 1662659305,
+        "rank": 22,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 429910,
+        "num": 429910,
+        "word": "月亮上发现嫦娥石",
+        "onboard_time": 1662687871,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406111,
+        "num": 406111,
+        "word": "云边有个小卖部影视化",
+        "onboard_time": 1662688111,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 433193,
+        "num": 391495,
+        "word": "英国网友缅怀伊丽莎白二世",
+        "onboard_time": 1662695066,
+        "rank": 25,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 358193,
+        "num": 358193,
+        "word": "吃石榴应该吐籽吗",
+        "onboard_time": 1662692129,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308667,
+        "num": 308667,
+        "word": "长空之王IMAX海报",
+        "onboard_time": 1662698856,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 305733,
+        "num": 305733,
+        "word": "公司回应发放轴承钢月饼",
+        "onboard_time": 1662688411,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300445,
+        "num": 300445,
+        "word": "陈紫函吐槽戴向宇人设有点渣",
+        "onboard_time": 1662697172,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 294399,
+        "num": 294399,
+        "word": "张定宇决定捐赠遗体用于渐冻症研究",
+        "onboard_time": 1662697116,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285810,
+        "num": 285810,
+        "word": "山东舰航母编队最新训练画面",
+        "onboard_time": 1662692849,
+        "rank": 31,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 282125,
+        "num": 282125,
+        "word": "原来iPhone备忘录还能这么用",
+        "onboard_time": 1662681155,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 279567,
+        "num": 279567,
+        "word": "中秋节教师节同一天是什么体验",
+        "onboard_time": 1662697413,
+        "rank": 33,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 277447,
+        "num": 277447,
+        "word": "王鹤棣唱玫瑰少年",
+        "onboard_time": 1662690511,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276143,
+        "num": 276143,
+        "word": "白鹿宁安如梦落泪镜头",
+        "onboard_time": 1662693330,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257809,
+        "num": 257809,
+        "word": "女子识破骗局3次薅骗子羊毛",
+        "onboard_time": 1662688052,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223133,
+        "num": 223133,
+        "word": "德云社",
+        "onboard_time": 1662691349,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211468,
+        "num": 211468,
+        "word": "蔚来卖一辆车亏损超10万",
+        "onboard_time": 1662680796,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206802,
+        "num": 206802,
+        "word": "英国首相就英国女王去世发声明",
+        "onboard_time": 1662681759,
+        "rank": 39,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 184937,
+        "num": 184937,
+        "word": "倪虹洁华鼎奖最佳女配角",
+        "onboard_time": 1662689670,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184627,
+        "num": 184627,
+        "word": "敲数字木鱼念电子佛经",
+        "onboard_time": 1662698672,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182899,
+        "num": 182899,
+        "word": "客服回应能链集团不招河南人",
+        "onboard_time": 1662691109,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181108,
+        "num": 181108,
+        "word": "妈妈改装帆布袋买菜遛猫两不误",
+        "onboard_time": 1662682776,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174602,
+        "num": 174602,
+        "word": "下一站幸福",
+        "onboard_time": 1662681638,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173650,
+        "num": 173650,
+        "word": "万鹏直球追爱徐志贤",
+        "onboard_time": 1662692849,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169278,
+        "num": 169278,
+        "word": "120创始人鼓励青少年写急救代码程序",
+        "onboard_time": 1662696451,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156317,
+        "num": 156317,
+        "word": "现在的老师有点本事在身上",
+        "onboard_time": 1662698194,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152897,
+        "num": 152897,
+        "word": "谢震业求婚陆敏佳",
+        "onboard_time": 1662698433,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143181,
+        "num": 143181,
+        "word": "iPhone14代抢最高加价2000",
+        "onboard_time": 1662680854,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央军委举行晋升上将军衔仪式#"
+    }
+  }
+}

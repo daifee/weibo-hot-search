@@ -1,6 +1,6 @@
 {
   "startTime": 1662654904784,
-  "endTime": 1662698044746,
+  "endTime": 1662698957437,
   "band_list": [
     {
       "raw_hot": 8812909,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1797282,
-      "num": 1381169,
+      "num": 1442305,
       "word": "内地现偶最容易出轨的男主",
       "onboard_time": 1662695729,
       "rank": 4,
@@ -73,6 +73,14 @@
       "onboard_time": 1662692670,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1766281,
+      "num": 1766281,
+      "word": "妻子连遭家暴两次还是孩子报警",
+      "onboard_time": 1662694711,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1677058,
@@ -91,14 +99,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 1539903,
-      "num": 1539903,
-      "word": "妻子连遭家暴两次还是孩子报警",
-      "onboard_time": 1662694711,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1517856,
       "num": 1517856,
       "word": "11元的婚纱",
@@ -107,20 +107,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1438466,
+      "num": 1438466,
+      "word": "YJJ女流领结婚证",
+      "onboard_time": 1662695969,
+      "rank": 5,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 1416162,
       "num": 1416162,
       "word": "英国国王声明",
       "onboard_time": 1662661635,
       "rank": 25,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1364497,
-      "num": 1364497,
-      "word": "YJJ女流领结婚证",
-      "onboard_time": 1662695969,
-      "rank": 5,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 1356337,
@@ -179,6 +179,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1161413,
+      "num": 1161413,
+      "word": "女子手捧蛋糕出店被要2元打包费",
+      "onboard_time": 1662695551,
+      "rank": 6,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 1104425,
       "num": 1082458,
       "word": "英国全国哀悼期已经开始",
@@ -203,14 +211,6 @@
       "category": "社会新闻,时尚"
     },
     {
-      "raw_hot": 1029255,
-      "num": 1029255,
-      "word": "女子手捧蛋糕出店被要2元打包费",
-      "onboard_time": 1662695551,
-      "rank": 6,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 1005526,
       "num": 566792,
       "word": "性转 鬼怪",
@@ -225,6 +225,14 @@
       "onboard_time": 1662648881,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 969795,
+      "num": 969795,
+      "word": "罗小黑",
+      "onboard_time": 1662696632,
+      "rank": 8,
+      "category": "动漫"
     },
     {
       "raw_hot": 925441,
@@ -307,14 +315,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 696279,
-      "num": 696279,
-      "word": "罗小黑",
-      "onboard_time": 1662696632,
-      "rank": 8,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 625844,
       "num": 625844,
       "word": "查尔斯王子已到女王身边",
@@ -345,6 +345,14 @@
       "onboard_time": 1662681638,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 553297,
+      "num": 553297,
+      "word": "2023年考研人数预计超500万",
+      "onboard_time": 1662697773,
+      "rank": 39,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 535041,
@@ -419,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 433193,
+      "num": 391495,
+      "word": "英国网友缅怀伊丽莎白二世",
+      "onboard_time": 1662695066,
+      "rank": 25,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 412773,
       "num": 412773,
       "word": "王阳 鬼怪",
@@ -449,14 +465,6 @@
       "onboard_time": 1662681155,
       "rank": 21,
       "category": "科技"
-    },
-    {
-      "raw_hot": 390006,
-      "num": 390006,
-      "word": "英国网友缅怀伊丽莎白二世",
-      "onboard_time": 1662695066,
-      "rank": 25,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 376415,
@@ -579,6 +587,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 308667,
+      "num": 308667,
+      "word": "长空之王IMAX海报",
+      "onboard_time": 1662698856,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 305803,
       "num": 231788,
       "word": "中国版鬼怪选角提名",
@@ -593,6 +609,14 @@
       "onboard_time": 1662646235,
       "rank": 47,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 300445,
+      "num": 300445,
+      "word": "陈紫函吐槽戴向宇人设有点渣",
+      "onboard_time": 1662697172,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 297612,
@@ -619,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294399,
+      "num": 294399,
+      "word": "张定宇决定捐赠遗体用于渐冻症研究",
+      "onboard_time": 1662697116,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291445,
       "num": 291445,
       "word": "白鹿宁安如梦落泪镜头",
@@ -633,6 +665,14 @@
       "onboard_time": 1662691948,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 279567,
+      "num": 279567,
+      "word": "中秋节教师节同一天是什么体验",
+      "onboard_time": 1662697413,
+      "rank": 42,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 259025,
@@ -699,14 +739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 234114,
-      "num": 234114,
-      "word": "陈紫函吐槽戴向宇人设有点渣",
-      "onboard_time": 1662697172,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 231946,
       "num": 231946,
       "word": "一个人能成事的5种迹象",
@@ -763,14 +795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 204945,
-      "num": 204945,
-      "word": "2023年考研人数预计超500万",
-      "onboard_time": 1662697773,
-      "rank": 39,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 204625,
       "num": 204625,
       "word": "iPhone14代抢最高加价2000",
@@ -783,14 +807,6 @@
       "num": 202737,
       "word": "北京9月8日新增本土确诊17例",
       "onboard_time": 1662684098,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 201328,
-      "num": 201328,
-      "word": "张定宇决定捐赠遗体用于渐冻症研究",
-      "onboard_time": 1662697116,
       "rank": 40,
       "category": "社会新闻"
     },
@@ -819,12 +835,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 182636,
-      "num": 182636,
-      "word": "中秋节教师节同一天是什么体验",
-      "onboard_time": 1662697413,
-      "rank": 42,
-      "category": "情感,教育"
+      "raw_hot": 184627,
+      "num": 184627,
+      "word": "敲数字木鱼念电子佛经",
+      "onboard_time": 1662698672,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 178591,
@@ -875,20 +891,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 169278,
+      "num": 169278,
+      "word": "120创始人鼓励青少年写急救代码程序",
+      "onboard_time": 1662696451,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165501,
       "num": 165501,
       "word": "哥你好今日上映",
       "onboard_time": 1662692309,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 165328,
-      "num": 165328,
-      "word": "120创始人鼓励青少年写急救代码程序",
-      "onboard_time": 1662696451,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 162730,
@@ -899,12 +915,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 156317,
+      "num": 156317,
+      "word": "现在的老师有点本事在身上",
+      "onboard_time": 1662698194,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 156288,
       "num": 156288,
       "word": "昆明乘坐地铁公交等须持48小时核酸报告",
       "onboard_time": 1662654147,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152897,
+      "num": 152897,
+      "word": "谢震业求婚陆敏佳",
+      "onboard_time": 1662698433,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 151217,
@@ -1043,7 +1075,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 59632,
+      "raw_hot": 70228,
       "num": 551330,
       "word": "江苏听障女孩靠读唇语考上大学",
       "onboard_time": 1662696030,
