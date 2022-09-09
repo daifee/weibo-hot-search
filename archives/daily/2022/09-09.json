@@ -1,6 +1,6 @@
 {
   "startTime": 1662654904784,
-  "endTime": 1662731516985,
+  "endTime": 1662732156807,
   "band_list": [
     {
       "raw_hot": 8812909,
@@ -107,8 +107,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1971590,
-      "num": 1971590,
+      "raw_hot": 2149604,
+      "num": 2149604,
       "word": "感谢公司不发月饼之恩",
       "onboard_time": 1662724108,
       "rank": 4,
@@ -299,6 +299,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1313044,
+      "num": 1206074,
+      "word": "等待付款",
+      "onboard_time": 1662728191,
+      "rank": 23,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1287292,
       "num": 1287292,
       "word": "英国王室证实女王身体状况堪忧",
@@ -441,14 +449,6 @@
       "onboard_time": 1662648881,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 984128,
-      "num": 536993,
-      "word": "等待付款",
-      "onboard_time": 1662728191,
-      "rank": 23,
-      "category": "科技"
     },
     {
       "raw_hot": 969795,
@@ -635,12 +635,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 711626,
+      "num": 576310,
+      "word": "贺局长",
+      "onboard_time": 1662727471,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 703327,
       "num": 703327,
       "word": "中秋晚会",
       "onboard_time": 1662717089,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 676681,
+      "num": 512660,
+      "word": "原来iPhone自带拼接长图功能",
+      "onboard_time": 1662726391,
+      "rank": 28,
+      "category": "科技"
     },
     {
       "raw_hot": 673876,
@@ -651,20 +667,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 668692,
-      "num": 512660,
-      "word": "原来iPhone自带拼接长图功能",
-      "onboard_time": 1662726391,
-      "rank": 28,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 658239,
-      "num": 535891,
-      "word": "贺局长",
-      "onboard_time": 1662727471,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 630662,
+      "num": 630662,
+      "word": "电影离婚冷静期备案公示",
+      "onboard_time": 1662729209,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 629208,
@@ -707,6 +715,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 610133,
+      "num": 300724,
+      "word": "年轻人多久换一次手机",
+      "onboard_time": 1662727710,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 607098,
+      "num": 607098,
+      "word": "好帅那女孩儿",
+      "onboard_time": 1662727051,
+      "rank": 41,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 602204,
       "num": 386581,
       "word": "多国政要就英国女王去世表态",
@@ -723,22 +747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 583058,
-      "num": 300724,
-      "word": "年轻人多久换一次手机",
-      "onboard_time": 1662727710,
-      "rank": 48,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 580512,
-      "num": 580512,
-      "word": "电影离婚冷静期备案公示",
-      "onboard_time": 1662729209,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 575997,
       "num": 575997,
       "word": "沈腾知道自己演了这么多戏吗",
@@ -753,14 +761,6 @@
       "onboard_time": 1662681638,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 544581,
-      "num": 544581,
-      "word": "好帅那女孩儿",
-      "onboard_time": 1662727051,
-      "rank": 41,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 539746,
@@ -835,6 +835,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 500878,
+      "num": 500878,
+      "word": "男子高铁站称回家奔丧车费不够",
+      "onboard_time": 1662726870,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 498517,
       "num": 498517,
       "word": "被臭屁虫臭到手手的小猫咪",
@@ -899,14 +907,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 479264,
-      "num": 479264,
-      "word": "男子高铁站称回家奔丧车费不够",
-      "onboard_time": 1662726870,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 478403,
       "num": 478403,
       "word": "老人为捡饭店瓶子倒掉整箱饮料",
@@ -929,6 +929,14 @@
       "onboard_time": 1662688052,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 470525,
+      "num": 470525,
+      "word": "贺峻霖大影节主持好稳",
+      "onboard_time": 1662731432,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 467527,
@@ -1001,14 +1009,6 @@
       "onboard_time": 1662717448,
       "rank": 23,
       "category": "科技"
-    },
-    {
-      "raw_hot": 403161,
-      "num": 403161,
-      "word": "贺峻霖大影节主持好稳",
-      "onboard_time": 1662731432,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 396826,
@@ -1227,6 +1227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 328091,
+      "num": 328091,
+      "word": "当地回应一中学班费人均两千元",
+      "onboard_time": 1662727891,
+      "rank": 46,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 320119,
       "num": 320119,
       "word": "北京新增本土感染者14例",
@@ -1411,14 +1419,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 283840,
-      "num": 283840,
-      "word": "当地回应一中学班费人均两千元",
-      "onboard_time": 1662727891,
-      "rank": 46,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 280905,
       "num": 280905,
       "word": "男子买38元衬裙为残疾妻子圆婚纱梦",
@@ -1451,12 +1451,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 273245,
+      "num": 273245,
+      "word": "伊犁疫情发布会",
+      "onboard_time": 1662731912,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 270909,
       "num": 270909,
       "word": "原来猫咪也会一见钟情",
       "onboard_time": 1662699812,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 270127,
+      "num": 270127,
+      "word": "中秋假期下班前记得上好厕所",
+      "onboard_time": 1662723268,
+      "rank": 49,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 259025,
@@ -1539,6 +1555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 240569,
+      "num": 240569,
+      "word": "贵阳花果园疫情防控",
+      "onboard_time": 1662727229,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238743,
       "num": 238743,
       "word": "原神",
@@ -1555,12 +1579,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 237017,
-      "num": 237017,
-      "word": "中秋假期下班前记得上好厕所",
-      "onboard_time": 1662723268,
-      "rank": 49,
-      "category": "社会新闻,幽默"
+      "raw_hot": 237519,
+      "num": 237519,
+      "word": "中秋祝福",
+      "onboard_time": 1662731852,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 235008,
@@ -1721,14 +1745,6 @@
       "onboard_time": 1662698194,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 208011,
-      "num": 208011,
-      "word": "贵阳花果园疫情防控",
-      "onboard_time": 1662727229,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207241,
@@ -1979,6 +1995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 159611,
+      "num": 159611,
+      "word": "父母均博士女儿学业压力大轻生",
+      "onboard_time": 1662732031,
+      "rank": 42,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 158631,
       "num": 158631,
       "word": "张云龙用粤语说有冇搞错啊",
@@ -2091,8 +2115,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133242,
-      "num": 133242,
+      "raw_hot": 133588,
+      "num": 133588,
       "word": "上一次这么上头还是金坷垃",
       "onboard_time": 1662730411,
       "rank": 44,
@@ -2103,6 +2127,14 @@
       "num": 131792,
       "word": "男子掏蜂窝蛰伤他人赔偿13万",
       "onboard_time": 1662706108,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131445,
+      "num": 131445,
+      "word": "月亮",
+      "onboard_time": 1662725071,
       "rank": 48,
       "category": "社会新闻"
     },
@@ -2153,14 +2185,6 @@
       "onboard_time": 1662711808,
       "rank": 45,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 118740,
-      "num": 118740,
-      "word": "月亮",
-      "onboard_time": 1662725071,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117744,
