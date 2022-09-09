@@ -1,6 +1,6 @@
 {
   "startTime": 1662654904784,
-  "endTime": 1662729406900,
+  "endTime": 1662731516985,
   "band_list": [
     {
       "raw_hot": 8812909,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1971590,
+      "num": 1971590,
+      "word": "感谢公司不发月饼之恩",
+      "onboard_time": 1662724108,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1938316,
       "num": 1938316,
       "word": "专升本是专科生的最优选择吗",
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 1590910,
-      "num": 538491,
+      "num": 1031946,
       "word": "Apple store",
       "onboard_time": 1662725669,
       "rank": 13,
@@ -193,14 +201,6 @@
       "onboard_time": 1662681939,
       "rank": 11,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1554512,
-      "num": 1554512,
-      "word": "感谢公司不发月饼之恩",
-      "onboard_time": 1662724108,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1550213,
@@ -315,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1271045,
+      "num": 1271045,
+      "word": "两个人的小森林回应植物学家质疑",
+      "onboard_time": 1662728790,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1271006,
       "num": 1271006,
       "word": "宋丹丹儿媳情商",
@@ -360,6 +368,14 @@
       "word": "为何近期我国新冠疫情此起彼伏",
       "onboard_time": 1662716007,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1130215,
+      "num": 536082,
+      "word": "关注新疆伊犁疫情",
+      "onboard_time": 1662726029,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -427,12 +443,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 982904,
-      "num": 982904,
-      "word": "两个人的小森林回应植物学家质疑",
-      "onboard_time": 1662728790,
-      "rank": 4,
-      "category": "影视"
+      "raw_hot": 984128,
+      "num": 536993,
+      "word": "等待付款",
+      "onboard_time": 1662728191,
+      "rank": 23,
+      "category": "科技"
     },
     {
       "raw_hot": 969795,
@@ -441,14 +457,6 @@
       "onboard_time": 1662696632,
       "rank": 8,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 955837,
-      "num": 536082,
-      "word": "关注新疆伊犁疫情",
-      "onboard_time": 1662726029,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 941702,
@@ -643,6 +651,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 668692,
+      "num": 512660,
+      "word": "原来iPhone自带拼接长图功能",
+      "onboard_time": 1662726391,
+      "rank": 28,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 658239,
+      "num": 535891,
+      "word": "贺局长",
+      "onboard_time": 1662727471,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 629208,
       "num": 629208,
       "word": "四川宜宾市全域实行静态管理",
@@ -699,8 +723,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 576718,
-      "num": 576718,
+      "raw_hot": 583058,
+      "num": 300724,
+      "word": "年轻人多久换一次手机",
+      "onboard_time": 1662727710,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 580512,
+      "num": 580512,
       "word": "电影离婚冷静期备案公示",
       "onboard_time": 1662729209,
       "rank": 8,
@@ -721,6 +753,14 @@
       "onboard_time": 1662681638,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 544581,
+      "num": 544581,
+      "word": "好帅那女孩儿",
+      "onboard_time": 1662727051,
+      "rank": 41,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 539746,
@@ -785,14 +825,6 @@
       "onboard_time": 1662708990,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 505684,
-      "num": 505684,
-      "word": "原来iPhone自带拼接长图功能",
-      "onboard_time": 1662726391,
-      "rank": 28,
-      "category": "科技"
     },
     {
       "raw_hot": 503051,
@@ -867,6 +899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 479264,
+      "num": 479264,
+      "word": "男子高铁站称回家奔丧车费不够",
+      "onboard_time": 1662726870,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 478403,
       "num": 478403,
       "word": "老人为捡饭店瓶子倒掉整箱饮料",
@@ -897,14 +937,6 @@
       "onboard_time": 1662716968,
       "rank": 14,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 464571,
-      "num": 354062,
-      "word": "等待付款",
-      "onboard_time": 1662728191,
-      "rank": 23,
-      "category": "科技"
     },
     {
       "raw_hot": 463927,
@@ -971,6 +1003,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 403161,
+      "num": 403161,
+      "word": "贺峻霖大影节主持好稳",
+      "onboard_time": 1662731432,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 396826,
       "num": 396826,
       "word": "时代少年团T九月刊封面预告",
@@ -985,22 +1025,6 @@
       "onboard_time": 1662722906,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 395126,
-      "num": 395126,
-      "word": "贺局长",
-      "onboard_time": 1662727471,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 394744,
-      "num": 394744,
-      "word": "好帅那女孩儿",
-      "onboard_time": 1662727051,
-      "rank": 41,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 393065,
@@ -1107,14 +1131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 359203,
-      "num": 285702,
-      "word": "年轻人多久换一次手机",
-      "onboard_time": 1662727710,
-      "rank": 48,
-      "category": "科技"
-    },
-    {
       "raw_hot": 357075,
       "num": 282140,
       "word": "金世佳 鬼怪",
@@ -1129,6 +1145,14 @@
       "onboard_time": 1662680796,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 356210,
+      "num": 356210,
+      "word": "六公主镜头下的文淇",
+      "onboard_time": 1662730712,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 355945,
@@ -1299,6 +1323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 303187,
+      "num": 303187,
+      "word": "中秋回家不要对爸妈说这几句话",
+      "onboard_time": 1662725310,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 301209,
       "num": 297436,
       "word": "特优声2真的来了",
@@ -1379,12 +1411,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 281390,
-      "num": 281390,
-      "word": "中秋回家不要对爸妈说这几句话",
-      "onboard_time": 1662725310,
-      "rank": 34,
-      "category": "情感"
+      "raw_hot": 283840,
+      "num": 283840,
+      "word": "当地回应一中学班费人均两千元",
+      "onboard_time": 1662727891,
+      "rank": 46,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 280905,
@@ -1448,14 +1480,6 @@
       "word": "男子割伤狗舌头称其吓到自己小孩",
       "onboard_time": 1662637113,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 255093,
-      "num": 255093,
-      "word": "男子高铁站称回家奔丧车费不够",
-      "onboard_time": 1662726870,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -1563,6 +1587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 232341,
+      "num": 232341,
+      "word": "脱口秀大会5中秋假期双播",
+      "onboard_time": 1662730471,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231946,
       "num": 231946,
       "word": "一个人能成事的5种迹象",
@@ -1627,6 +1659,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 221434,
+      "num": 221434,
+      "word": "传承的力量大",
+      "onboard_time": 1662730952,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 220651,
       "num": 220651,
       "word": "看龙族全员be破防了",
@@ -1681,6 +1721,14 @@
       "onboard_time": 1662698194,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 208011,
+      "num": 208011,
+      "word": "贵阳花果园疫情防控",
+      "onboard_time": 1662727229,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207241,
@@ -1939,14 +1987,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 156375,
-      "num": 156375,
-      "word": "贵阳花果园疫情防控",
-      "onboard_time": 1662727229,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156288,
       "num": 156288,
       "word": "昆明乘坐地铁公交等须持48小时核酸报告",
@@ -2011,14 +2051,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 144694,
-      "num": 144694,
-      "word": "当地回应一中学班费人均两千元",
-      "onboard_time": 1662727891,
-      "rank": 46,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 143437,
       "num": 143437,
       "word": "阴阳师原创音乐品牌上线",
@@ -2059,6 +2091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133242,
+      "num": 133242,
+      "word": "上一次这么上头还是金坷垃",
+      "onboard_time": 1662730411,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131792,
       "num": 131792,
       "word": "男子掏蜂窝蛰伤他人赔偿13万",
@@ -2073,6 +2113,14 @@
       "onboard_time": 1662623007,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128135,
+      "num": 128135,
+      "word": "2022挑战者杯抽签之夜",
+      "onboard_time": 1662731250,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 127798,
@@ -2105,6 +2153,14 @@
       "onboard_time": 1662711808,
       "rank": 45,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 118740,
+      "num": 118740,
+      "word": "月亮",
+      "onboard_time": 1662725071,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117744,
