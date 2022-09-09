@@ -1,6 +1,6 @@
 {
   "startTime": 1662654904784,
-  "endTime": 1662727751660,
+  "endTime": 1662729406900,
   "band_list": [
     {
       "raw_hot": 8812909,
@@ -75,6 +75,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 2560487,
+      "num": 501466,
+      "word": "袁弘",
+      "onboard_time": 1662726569,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2467415,
       "num": 1077411,
       "word": "巴西总统宣布全国哀悼三天",
@@ -83,20 +91,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 2327532,
+      "num": 1886846,
+      "word": "中国传媒大学出现1例初筛阳性",
+      "onboard_time": 1662725789,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2325367,
+      "num": 2325367,
+      "word": "韩国民众在汉江拍到水怪",
+      "onboard_time": 1662724950,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1938316,
       "num": 1938316,
       "word": "专升本是专科生的最优选择吗",
       "onboard_time": 1662719786,
       "rank": 48,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1886846,
-      "num": 1886846,
-      "word": "中国传媒大学出现1例初筛阳性",
-      "onboard_time": 1662725789,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1817302,
@@ -131,14 +147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1703019,
-      "num": 1703019,
-      "word": "韩国民众在汉江拍到水怪",
-      "onboard_time": 1662724950,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1677058,
       "num": 723852,
       "word": "乔布斯女儿吐槽苹果iPhone14",
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 1655633,
-      "num": 502348,
+      "num": 520871,
       "word": "iPhone14",
       "onboard_time": 1662725431,
       "rank": 10,
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 1590910,
-      "num": 497923,
+      "num": 538491,
       "word": "Apple store",
       "onboard_time": 1662725669,
       "rank": 13,
@@ -185,6 +193,14 @@
       "onboard_time": 1662681939,
       "rank": 11,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1554512,
+      "num": 1554512,
+      "word": "感谢公司不发月饼之恩",
+      "onboard_time": 1662724108,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1550213,
@@ -225,14 +241,6 @@
       "onboard_time": 1662661635,
       "rank": 25,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1408429,
-      "num": 501466,
-      "word": "袁弘",
-      "onboard_time": 1662726569,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1407654,
@@ -289,14 +297,6 @@
       "onboard_time": 1662649001,
       "rank": 4,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1293959,
-      "num": 1293959,
-      "word": "感谢公司不发月饼之恩",
-      "onboard_time": 1662724108,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1287292,
@@ -427,12 +427,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 982904,
+      "num": 982904,
+      "word": "两个人的小森林回应植物学家质疑",
+      "onboard_time": 1662728790,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 969795,
       "num": 969795,
       "word": "罗小黑",
       "onboard_time": 1662696632,
       "rank": 8,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 955837,
+      "num": 536082,
+      "word": "关注新疆伊犁疫情",
+      "onboard_time": 1662726029,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 941702,
@@ -611,14 +627,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 722656,
-      "num": 495037,
-      "word": "关注新疆伊犁疫情",
-      "onboard_time": 1662726029,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 703327,
       "num": 703327,
       "word": "中秋晚会",
@@ -691,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 576718,
+      "num": 576718,
+      "word": "电影离婚冷静期备案公示",
+      "onboard_time": 1662729209,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 575997,
       "num": 575997,
       "word": "沈腾知道自己演了这么多戏吗",
@@ -705,6 +721,14 @@
       "onboard_time": 1662681638,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 539746,
+      "num": 539746,
+      "word": "3岁萌娃不愿上自己家族的幼儿园",
+      "onboard_time": 1662724766,
+      "rank": 19,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 535041,
@@ -761,6 +785,14 @@
       "onboard_time": 1662708990,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 505684,
+      "num": 505684,
+      "word": "原来iPhone自带拼接长图功能",
+      "onboard_time": 1662726391,
+      "rank": 28,
+      "category": "科技"
     },
     {
       "raw_hot": 503051,
@@ -867,6 +899,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 464571,
+      "num": 354062,
+      "word": "等待付款",
+      "onboard_time": 1662728191,
+      "rank": 23,
+      "category": "科技"
+    },
+    {
       "raw_hot": 463927,
       "num": 463927,
       "word": "周寻出场3分钟 齐颂30集白演",
@@ -947,12 +987,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 396258,
-      "num": 396258,
-      "word": "3岁萌娃不愿上自己家族的幼儿园",
-      "onboard_time": 1662724766,
-      "rank": 19,
-      "category": "社会新闻,幽默"
+      "raw_hot": 395126,
+      "num": 395126,
+      "word": "贺局长",
+      "onboard_time": 1662727471,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 394744,
+      "num": 394744,
+      "word": "好帅那女孩儿",
+      "onboard_time": 1662727051,
+      "rank": 41,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 393065,
@@ -1057,6 +1105,14 @@
       "onboard_time": 1662706948,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 359203,
+      "num": 285702,
+      "word": "年轻人多久换一次手机",
+      "onboard_time": 1662727710,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 357075,
@@ -1323,12 +1379,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 281390,
+      "num": 281390,
+      "word": "中秋回家不要对爸妈说这几句话",
+      "onboard_time": 1662725310,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 280905,
       "num": 280905,
       "word": "男子买38元衬裙为残疾妻子圆婚纱梦",
       "onboard_time": 1662691948,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 279849,
+      "num": 279849,
+      "word": "陈立农中秋唱出乡愁的味道",
+      "onboard_time": 1662729150,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 278743,
@@ -1345,14 +1417,6 @@
       "onboard_time": 1662716668,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 272048,
-      "num": 272048,
-      "word": "原来iPhone自带拼接长图功能",
-      "onboard_time": 1662726391,
-      "rank": 28,
-      "category": "科技"
     },
     {
       "raw_hot": 270909,
@@ -1384,6 +1448,14 @@
       "word": "男子割伤狗舌头称其吓到自己小孩",
       "onboard_time": 1662637113,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255093,
+      "num": 255093,
+      "word": "男子高铁站称回家奔丧车费不够",
+      "onboard_time": 1662726870,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -1459,6 +1531,22 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 237017,
+      "num": 237017,
+      "word": "中秋假期下班前记得上好厕所",
+      "onboard_time": 1662723268,
+      "rank": 49,
+      "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 235008,
+      "num": 235008,
+      "word": "李健天行健唱享会",
+      "onboard_time": 1662727891,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 234483,
       "num": 130373,
       "word": "二十不惑2",
@@ -1473,14 +1561,6 @@
       "onboard_time": 1662691349,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 232394,
-      "num": 232394,
-      "word": "中秋假期下班前记得上好厕所",
-      "onboard_time": 1662723268,
-      "rank": 49,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 231946,
@@ -1523,20 +1603,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 226323,
+      "num": 226323,
+      "word": "我也变成狗了",
+      "onboard_time": 1662725971,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 224603,
       "num": 217943,
       "word": "杨紫片场唱什么是快乐星球",
       "onboard_time": 1662705986,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 223881,
-      "num": 223881,
-      "word": "中秋回家不要对爸妈说这几句话",
-      "onboard_time": 1662725310,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 222132,
@@ -1563,20 +1643,20 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 216251,
+      "num": 216251,
+      "word": "张凌赫写的字好好看",
+      "onboard_time": 1662723567,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 215620,
       "num": 215620,
       "word": "贺峻霖说今晚与大家共赴青春之夜",
       "onboard_time": 1662719606,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 212823,
-      "num": 212823,
-      "word": "张凌赫写的字好好看",
-      "onboard_time": 1662723567,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 212821,
@@ -1675,14 +1755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 191622,
-      "num": 191622,
-      "word": "我也变成狗了",
-      "onboard_time": 1662725971,
-      "rank": 39,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 189303,
       "num": 169218,
       "word": "王冠暂停拍摄",
@@ -1713,14 +1785,6 @@
       "onboard_time": 1662698672,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 181612,
-      "num": 181612,
-      "word": "贺局长",
-      "onboard_time": 1662727471,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 178591,
@@ -1777,14 +1841,6 @@
       "onboard_time": 1662644791,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 171207,
-      "num": 171207,
-      "word": "好帅那女孩儿",
-      "onboard_time": 1662727051,
-      "rank": 41,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 171145,
@@ -1883,6 +1939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156375,
+      "num": 156375,
+      "word": "贵阳花果园疫情防控",
+      "onboard_time": 1662727229,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156288,
       "num": 156288,
       "word": "昆明乘坐地铁公交等须持48小时核酸报告",
@@ -1939,14 +2003,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 148797,
-      "num": 148797,
-      "word": "贵阳花果园疫情防控",
-      "onboard_time": 1662727229,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 147956,
       "num": 147956,
       "word": "陈立农大学生电影节",
@@ -1955,20 +2011,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 144694,
+      "num": 144694,
+      "word": "当地回应一中学班费人均两千元",
+      "onboard_time": 1662727891,
+      "rank": 46,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 143437,
       "num": 143437,
       "word": "阴阳师原创音乐品牌上线",
       "onboard_time": 1662706169,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 140119,
-      "num": 140119,
-      "word": "年轻人多久换一次手机",
-      "onboard_time": 1662727710,
-      "rank": 48,
-      "category": "科技"
     },
     {
       "raw_hot": 138538,

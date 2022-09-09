@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662727751660,
+  "endTime": 1662729406900,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -523,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2560487,
+      "num": 501466,
+      "word": "袁弘",
+      "onboard_time": 1662726569,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2553346,
       "num": 498948,
       "word": "网传杨幂即将离开嘉行",
@@ -617,6 +625,22 @@
       "onboard_time": 1662088765,
       "rank": 0,
       "category": "动漫,网红"
+    },
+    {
+      "raw_hot": 2327532,
+      "num": 1886846,
+      "word": "中国传媒大学出现1例初筛阳性",
+      "onboard_time": 1662725789,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2325367,
+      "num": 2325367,
+      "word": "韩国民众在汉江拍到水怪",
+      "onboard_time": 1662724950,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2312452,
@@ -979,14 +1003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1886846,
-      "num": 1886846,
-      "word": "中国传媒大学出现1例初筛阳性",
-      "onboard_time": 1662725789,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1885662,
       "num": 1155568,
       "word": "iPhone14Pro叹号孔可显示为药丸形",
@@ -1219,14 +1235,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 1703019,
-      "num": 1703019,
-      "word": "韩国民众在汉江拍到水怪",
-      "onboard_time": 1662724950,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1697886,
       "num": 1697886,
       "word": "员工因想报销50元话费被辞退",
@@ -1428,7 +1436,7 @@
     },
     {
       "raw_hot": 1590910,
-      "num": 497923,
+      "num": 538491,
       "word": "Apple store",
       "onboard_time": 1662725669,
       "rank": 13,
@@ -1521,6 +1529,14 @@
       "onboard_time": 1662681939,
       "rank": 11,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1554512,
+      "num": 1554512,
+      "word": "感谢公司不发月饼之恩",
+      "onboard_time": 1662724108,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1551585,
@@ -1817,14 +1833,6 @@
       "onboard_time": 1662608127,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1408429,
-      "num": 501466,
-      "word": "袁弘",
-      "onboard_time": 1662726569,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1407654,
@@ -2160,14 +2168,6 @@
       "word": "32岁总裁辞掉百万年薪返乡种辣椒",
       "onboard_time": 1662471991,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1293959,
-      "num": 1293959,
-      "word": "感谢公司不发月饼之恩",
-      "onboard_time": 1662724108,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -3275,6 +3275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 982904,
+      "num": 982904,
+      "word": "两个人的小森林回应植物学家质疑",
+      "onboard_time": 1662728790,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 978334,
       "num": 978334,
       "word": "法拉利",
@@ -3416,6 +3424,14 @@
       "word": "移动公厕一次收费10元还倒计时",
       "onboard_time": 1662042934,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 955837,
+      "num": 536082,
+      "word": "关注新疆伊犁疫情",
+      "onboard_time": 1662726029,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -4803,14 +4819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 722656,
-      "num": 495037,
-      "word": "关注新疆伊犁疫情",
-      "onboard_time": 1662726029,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 722602,
       "num": 722602,
       "word": "警方回应老人当街向学生下跪",
@@ -5955,6 +5963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 576718,
+      "num": 576718,
+      "word": "电影离婚冷静期备案公示",
+      "onboard_time": 1662729209,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 575997,
       "num": 575997,
       "word": "沈腾知道自己演了这么多戏吗",
@@ -6371,6 +6387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 539746,
+      "num": 539746,
+      "word": "3岁萌娃不愿上自己家族的幼儿园",
+      "onboard_time": 1662724766,
+      "rank": 19,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 539418,
       "num": 539418,
       "word": "为什么自己和父母的缺点越来越像",
@@ -6729,6 +6753,14 @@
       "onboard_time": 1662516804,
       "rank": 39,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 505684,
+      "num": 505684,
+      "word": "原来iPhone自带拼接长图功能",
+      "onboard_time": 1662726391,
+      "rank": 28,
+      "category": "科技"
     },
     {
       "raw_hot": 505454,
@@ -7456,6 +7488,14 @@
       "word": "如何看待iPhone14Pro灵动岛设计",
       "onboard_time": 1662620547,
       "rank": 47,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 464571,
+      "num": 354062,
+      "word": "等待付款",
+      "onboard_time": 1662728191,
+      "rank": 23,
       "category": "科技"
     },
     {
@@ -8779,20 +8819,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 396258,
-      "num": 396258,
-      "word": "3岁萌娃不愿上自己家族的幼儿园",
-      "onboard_time": 1662724766,
-      "rank": 19,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 395354,
       "num": 394067,
       "word": "赵露思分享海边随拍",
       "onboard_time": 1662044731,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 395126,
+      "num": 395126,
+      "word": "贺局长",
+      "onboard_time": 1662727471,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 394744,
+      "num": 394744,
+      "word": "好帅那女孩儿",
+      "onboard_time": 1662727051,
+      "rank": 41,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 394675,
@@ -9761,6 +9809,14 @@
       "onboard_time": 1662115526,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 359203,
+      "num": 285702,
+      "word": "年轻人多久换一次手机",
+      "onboard_time": 1662727710,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 359028,
@@ -12323,6 +12379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 281390,
+      "num": 281390,
+      "word": "中秋回家不要对爸妈说这几句话",
+      "onboard_time": 1662725310,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 281290,
       "num": 281290,
       "word": "ive新歌获音中一位",
@@ -12417,6 +12481,14 @@
       "onboard_time": 1662282749,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 279849,
+      "num": 279849,
+      "word": "陈立农中秋唱出乡愁的味道",
+      "onboard_time": 1662729150,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 279384,
@@ -12713,14 +12785,6 @@
       "onboard_time": 1662603566,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 272048,
-      "num": 272048,
-      "word": "原来iPhone自带拼接长图功能",
-      "onboard_time": 1662726391,
-      "rank": 28,
-      "category": "科技"
     },
     {
       "raw_hot": 272030,
@@ -13403,6 +13467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 255093,
+      "num": 255093,
+      "word": "男子高铁站称回家奔丧车费不够",
+      "onboard_time": 1662726870,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255057,
       "num": 255057,
       "word": "成都人居家有多自律",
@@ -14075,6 +14147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237017,
+      "num": 237017,
+      "word": "中秋假期下班前记得上好厕所",
+      "onboard_time": 1662723268,
+      "rank": 49,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 235592,
       "num": 235592,
       "word": "吴易昺晋级美网32强",
@@ -14131,6 +14211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 235008,
+      "num": 235008,
+      "word": "李健天行健唱享会",
+      "onboard_time": 1662727891,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 234483,
       "num": 164291,
       "word": "二十不惑2",
@@ -14185,14 +14273,6 @@
       "onboard_time": 1662171804,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 232394,
-      "num": 232394,
-      "word": "中秋假期下班前记得上好厕所",
-      "onboard_time": 1662723268,
-      "rank": 49,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 231946,
@@ -14467,6 +14547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 226323,
+      "num": 226323,
+      "word": "我也变成狗了",
+      "onboard_time": 1662725971,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 226151,
       "num": 226151,
       "word": "加拿大多个地点发生持刀刺人事件",
@@ -14561,14 +14649,6 @@
       "onboard_time": 1662452487,
       "rank": 35,
       "category": "科技"
-    },
-    {
-      "raw_hot": 223881,
-      "num": 223881,
-      "word": "中秋回家不要对爸妈说这几句话",
-      "onboard_time": 1662725310,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 223633,
@@ -14819,6 +14899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216251,
+      "num": 216251,
+      "word": "张凌赫写的字好好看",
+      "onboard_time": 1662723567,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 216208,
       "num": 216208,
       "word": "其实猪也会有烦恼吧",
@@ -14969,14 +15057,6 @@
       "onboard_time": 1662463710,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212823,
-      "num": 212823,
-      "word": "张凌赫写的字好好看",
-      "onboard_time": 1662723567,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 212821,
@@ -15851,14 +15931,6 @@
       "category": "情感,社会议题"
     },
     {
-      "raw_hot": 191622,
-      "num": 191622,
-      "word": "我也变成狗了",
-      "onboard_time": 1662725971,
-      "rank": 39,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 191601,
       "num": 191601,
       "word": "青藏高原万年冰芯里有什么",
@@ -16315,14 +16387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 181612,
-      "num": 181612,
-      "word": "贺局长",
-      "onboard_time": 1662727471,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181433,
       "num": 181433,
       "word": "泸定地震已致86人遇难",
@@ -16601,14 +16665,6 @@
       "onboard_time": 1662031885,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 171207,
-      "num": 171207,
-      "word": "好帅那女孩儿",
-      "onboard_time": 1662727051,
-      "rank": 41,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 171145,
@@ -17795,6 +17851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 144694,
+      "num": 144694,
+      "word": "当地回应一中学班费人均两千元",
+      "onboard_time": 1662727891,
+      "rank": 46,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 144053,
       "num": 144053,
       "word": "覆流年豆瓣6.6",
@@ -17945,14 +18009,6 @@
       "onboard_time": 1662188304,
       "rank": 34,
       "category": "教育"
-    },
-    {
-      "raw_hot": 140119,
-      "num": 140119,
-      "word": "年轻人多久换一次手机",
-      "onboard_time": 1662727710,
-      "rank": 48,
-      "category": "科技"
     },
     {
       "raw_hot": 140054,
