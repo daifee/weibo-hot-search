@@ -1,6 +1,6 @@
 {
   "startTime": 1662827496894,
-  "endTime": 1662837507726,
+  "endTime": 1662838468861,
   "band_list": [
     {
       "raw_hot": 2284966,
@@ -481,6 +481,14 @@
       "onboard_time": 1662833898,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 10432,
+      "num": 10432,
+      "word": "凉山小伙的教师节心愿是带孩子们看海",
+      "onboard_time": 1662836354,
+      "rank": 49,
+      "category": "社会新闻,教育"
     }
   ],
   "hotgov_list": [
