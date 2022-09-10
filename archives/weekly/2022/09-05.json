@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662824523746,
+  "endTime": 1662827496894,
   "band_list": [
     {
       "raw_hot": 22037086,
@@ -467,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2284966,
+      "num": 383177,
+      "word": "棣欣引力",
+      "onboard_time": 1662824263,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2280605,
       "num": 1242429,
       "word": "谢可寅违章停车",
@@ -835,6 +843,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1719320,
+      "num": 983460,
+      "word": "单依纯 妆",
+      "onboard_time": 1662824142,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1714041,
       "num": 689854,
       "word": "杨幂为嘉行传媒第三大股东",
@@ -1067,6 +1083,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1542523,
+      "num": 972775,
+      "word": "原来iPhone自带防偷窥功能",
+      "onboard_time": 1662822773,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1522421,
       "num": 1522421,
       "word": "四川1小时内连发7次地震",
@@ -1113,6 +1137,14 @@
       "onboard_time": 1662600686,
       "rank": 0,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1462130,
+      "num": 1462130,
+      "word": "快乐再出发制片人向魏晨方道歉",
+      "onboard_time": 1662825641,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1460354,
@@ -2123,6 +2155,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1015502,
+      "num": 407739,
+      "word": "央视秋晚镜头下的王一博",
+      "onboard_time": 1662823071,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1013890,
       "num": 1013890,
       "word": "虞书欣新剧直球撩张彬彬",
@@ -2297,14 +2337,6 @@
       "onboard_time": 1662641189,
       "rank": 14,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 972775,
-      "num": 972775,
-      "word": "原来iPhone自带防偷窥功能",
-      "onboard_time": 1662822773,
-      "rank": 19,
-      "category": "科技"
     },
     {
       "raw_hot": 972579,
@@ -2713,14 +2745,6 @@
       "onboard_time": 1662688111,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 887172,
-      "num": 407739,
-      "word": "央视秋晚镜头下的王一博",
-      "onboard_time": 1662823071,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 886862,
@@ -3795,6 +3819,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 626668,
+      "num": 272165,
+      "word": "鸟鸟 好笑",
+      "onboard_time": 1662824803,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 626022,
       "num": 626022,
       "word": "王一博登顶微博综艺明星榜",
@@ -4008,6 +4040,14 @@
       "word": "北京朝阳通报1例初筛阳性",
       "onboard_time": 1662724527,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 596617,
+      "num": 596617,
+      "word": "民警单膝跪求婚女友双膝跪地",
+      "onboard_time": 1662823007,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -4713,6 +4753,14 @@
       "onboard_time": 1662558274,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 489294,
+      "num": 489294,
+      "word": "济宁疫情防控",
+      "onboard_time": 1662823307,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 488618,
@@ -7251,14 +7299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 310200,
-      "num": 310200,
-      "word": "济宁疫情防控",
-      "onboard_time": 1662823307,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 310163,
       "num": 227482,
       "word": "任敏中秋造型梦回徽柔",
@@ -7859,14 +7899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 286978,
-      "num": 286978,
-      "word": "单依纯 妆",
-      "onboard_time": 1662824142,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 286932,
       "num": 286932,
       "word": "S12抽签规则更新",
@@ -8257,14 +8289,6 @@
       "onboard_time": 1662351509,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 271844,
-      "num": 271844,
-      "word": "棣欣引力",
-      "onboard_time": 1662824263,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 271519,
@@ -8944,14 +8968,6 @@
       "word": "东兴疫情防控",
       "onboard_time": 1662771384,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 246353,
-      "num": 271991,
-      "word": "民警单膝跪求婚女友双膝跪地",
-      "onboard_time": 1662823007,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -13041,6 +13057,22 @@
       "onboard_time": 1662789146,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 65195,
+      "num": 65195,
+      "word": "蒯曼",
+      "onboard_time": 1662825402,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 60370,
+      "num": 60370,
+      "word": "月饼也分门派",
+      "onboard_time": 1662827081,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 60205,
