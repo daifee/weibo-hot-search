@@ -1,6 +1,6 @@
 {
   "startTime": 1662741216675,
-  "endTime": 1662792673507,
+  "endTime": 1662794543978,
   "band_list": [
     {
       "raw_hot": 2783989,
@@ -25,6 +25,14 @@
       "onboard_time": 1662735870,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1973245,
+      "num": 1973245,
+      "word": "央视中秋晚会节目单官宣",
+      "onboard_time": 1662791005,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 1830154,
@@ -83,14 +91,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 994854,
-      "num": 994854,
-      "word": "央视中秋晚会节目单官宣",
-      "onboard_time": 1662791005,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 990300,
       "num": 990300,
       "word": "高度近视一定要定期做检查",
@@ -139,6 +139,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 920104,
+      "num": 920104,
+      "word": "蔡明建议不要给年轻人建议",
+      "onboard_time": 1662793227,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 915978,
       "num": 915978,
       "word": "吴刚赵露思后浪双节片花",
@@ -169,6 +177,14 @@
       "onboard_time": 1662776244,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 902383,
+      "num": 188864,
+      "word": "艾热当爸爸了",
+      "onboard_time": 1662793285,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 856096,
@@ -395,6 +411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 405622,
+      "num": 405622,
+      "word": "狗狗发现漏电不停狂吠提醒",
+      "onboard_time": 1662790046,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 396945,
       "num": 396945,
       "word": "90后教师结婚骑老式自行车迎亲",
@@ -441,14 +465,6 @@
       "onboard_time": 1662735092,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 350536,
-      "num": 350536,
-      "word": "狗狗发现漏电不停狂吠提醒",
-      "onboard_time": 1662790046,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 347207,
@@ -635,6 +651,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 260085,
+      "num": 260085,
+      "word": "校长喊话新生没有家国情怀别考公",
+      "onboard_time": 1662791907,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 258013,
       "num": 258013,
       "word": "民航总医院门急诊暂停临时封闭管理",
@@ -779,6 +803,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226540,
+      "num": 226540,
+      "word": "EDG",
+      "onboard_time": 1662793586,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 226224,
+      "num": 188311,
+      "word": "吴克群狂炫马頔炸酱面被点名",
+      "onboard_time": 1662792806,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 225589,
       "num": 169392,
       "word": "你好星期六",
@@ -859,6 +899,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 196447,
+      "num": 114448,
+      "word": "周深发长文谈自己的梦",
+      "onboard_time": 1662792926,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 189725,
       "num": 179372,
       "word": "iPhone14",
@@ -899,6 +947,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 180901,
+      "num": 114233,
+      "word": "快乐再出发 评分",
+      "onboard_time": 1662793166,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179664,
       "num": 179664,
       "word": "腾讯视频金鹅荣誉剧集获奖名单",
@@ -929,6 +985,22 @@
       "onboard_time": 1662779367,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169614,
+      "num": 93905,
+      "word": "时代少年团T九月刊销量",
+      "onboard_time": 1662790046,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 165603,
+      "num": 165603,
+      "word": "韩国中秋被山东小城拿捏",
+      "onboard_time": 1662793708,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164587,
@@ -1003,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147344,
+      "num": 147344,
+      "word": "画画圈也太内卷了吧",
+      "onboard_time": 1662792029,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 145724,
       "num": 145724,
       "word": "陈宇在车里呆了两集了",
@@ -1025,14 +1105,6 @@
       "onboard_time": 1662790828,
       "rank": 33,
       "category": "其它"
-    },
-    {
-      "raw_hot": 140087,
-      "num": 93905,
-      "word": "时代少年团T九月刊销量",
-      "onboard_time": 1662790046,
-      "rank": 40,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 137765,
@@ -1155,6 +1227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115394,
+      "num": 115394,
+      "word": "小伙立志种1亿棵梭梭为家乡挡风沙",
+      "onboard_time": 1662792265,
+      "rank": 43,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 112874,
       "num": 112874,
       "word": "中秋温情混剪看哭了",
@@ -1195,28 +1275,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 95439,
-      "num": 95439,
-      "word": "校长喊话新生没有家国情怀别考公",
-      "onboard_time": 1662791907,
-      "rank": 38,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 92274,
       "num": 92274,
       "word": "AI绘制了一幅中秋花月夜",
       "onboard_time": 1662783986,
       "rank": 45,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 91003,
-      "num": 91003,
-      "word": "画画圈也太内卷了吧",
-      "onboard_time": 1662792029,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 90871,
@@ -1241,14 +1305,6 @@
       "onboard_time": 1662782606,
       "rank": 46,
       "category": "教育,情感"
-    },
-    {
-      "raw_hot": 87589,
-      "num": 87589,
-      "word": "小伙立志种1亿棵梭梭为家乡挡风沙",
-      "onboard_time": 1662792265,
-      "rank": 43,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 86537,
@@ -1307,6 +1363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 64594,
+      "num": 64594,
+      "word": "这是被教育事业耽误的歌星吧",
+      "onboard_time": 1662793407,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 18787,
       "num": 20849,
       "word": "送月亮的人",
@@ -1321,6 +1385,14 @@
       "onboard_time": 1662754990,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 8998,
+      "num": 81181,
+      "word": "购物平台重现古代中秋飞花令",
+      "onboard_time": 1662793227,
+      "rank": 39,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
