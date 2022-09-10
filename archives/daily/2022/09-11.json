@@ -1,6 +1,6 @@
 {
   "startTime": 1662827496894,
-  "endTime": 1662831737787,
+  "endTime": 1662834550116,
   "band_list": [
     {
       "raw_hot": 2284966,
@@ -83,8 +83,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 660179,
-      "num": 270264,
+      "raw_hot": 727722,
+      "num": 133311,
+      "word": "成都小区",
+      "onboard_time": 1662831981,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 711449,
+      "num": 711449,
       "word": "探清水河",
       "onboard_time": 1662829891,
       "rank": 12,
@@ -147,20 +155,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 386880,
+      "num": 386880,
+      "word": "女子在禁区游泳被套头拉回",
+      "onboard_time": 1662829350,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 383425,
       "num": 383425,
       "word": "月亮",
       "onboard_time": 1662805299,
       "rank": 9,
       "category": "自然"
-    },
-    {
-      "raw_hot": 350029,
-      "num": 350029,
-      "word": "女子在禁区游泳被套头拉回",
-      "onboard_time": 1662829350,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 342560,

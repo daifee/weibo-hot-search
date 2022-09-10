@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662831737787,
+  "endTime": 1662834550116,
   "band_list": [
     {
       "raw_hot": 22037086,
@@ -5339,6 +5339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 727722,
+      "num": 133311,
+      "word": "成都小区",
+      "onboard_time": 1662831981,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 725908,
       "num": 725908,
       "word": "警方回应女司机酒驾撞人拖行事件",
@@ -5473,6 +5481,14 @@
       "onboard_time": 1662727471,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 711449,
+      "num": 711449,
+      "word": "探清水河",
+      "onboard_time": 1662829891,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 711410,
@@ -5905,14 +5921,6 @@
       "onboard_time": 1662771324,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 660179,
-      "num": 270264,
-      "word": "探清水河",
-      "onboard_time": 1662829891,
-      "rank": 12,
-      "category": "音乐"
     },
     {
       "raw_hot": 657511,
@@ -10051,6 +10059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 386880,
+      "num": 386880,
+      "word": "女子在禁区游泳被套头拉回",
+      "onboard_time": 1662829350,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 386483,
       "num": 367970,
       "word": "苏格兰和威尔士第一部长表态",
@@ -11136,14 +11152,6 @@
       "word": "北京新增社会面病例现住民大附中",
       "onboard_time": 1662515068,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 350029,
-      "num": 350029,
-      "word": "女子在禁区游泳被套头拉回",
-      "onboard_time": 1662829350,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
