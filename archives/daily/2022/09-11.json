@@ -1,6 +1,6 @@
 {
   "startTime": 1662827496894,
-  "endTime": 1662848561301,
+  "endTime": 1662849614011,
   "band_list": [
     {
       "raw_hot": 2284966,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 727722,
-      "num": 133311,
+      "num": 136768,
       "word": "成都小区",
       "onboard_time": 1662831981,
       "rank": 10,
@@ -251,6 +251,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 195246,
+      "num": 195246,
+      "word": "海南所有市县已实现社会面清零",
+      "onboard_time": 1662844271,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193044,
       "num": 165240,
       "word": "iPhone13Pro系列停产",
@@ -307,12 +315,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 139411,
-      "num": 139411,
-      "word": "海南所有市县已实现社会面清零",
-      "onboard_time": 1662844271,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 142280,
+      "num": 142280,
+      "word": "你最想给的一条婚姻忠告是什么",
+      "onboard_time": 1662845291,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 133648,
@@ -331,20 +339,20 @@
       "category": "情感,社会议题"
     },
     {
+      "raw_hot": 128549,
+      "num": 128549,
+      "word": "美国家庭净资产缩水6.1万亿美元",
+      "onboard_time": 1662840251,
+      "rank": 24,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 121387,
       "num": 121387,
       "word": "刘青松",
       "onboard_time": 1662798386,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 119524,
-      "num": 119524,
-      "word": "美国家庭净资产缩水6.1万亿美元",
-      "onboard_time": 1662840251,
-      "rank": 24,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 113632,
@@ -393,14 +401,6 @@
       "onboard_time": 1662801569,
       "rank": 38,
       "category": "国外要闻,社会新闻"
-    },
-    {
-      "raw_hot": 97814,
-      "num": 97814,
-      "word": "你最想给的一条婚姻忠告是什么",
-      "onboard_time": 1662845291,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 93658,
@@ -499,8 +499,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 15196,
-      "num": 15196,
+      "raw_hot": 15974,
+      "num": 15974,
       "word": "凉山小伙的教师节心愿是带孩子们看海",
       "onboard_time": 1662836354,
       "rank": 49,
