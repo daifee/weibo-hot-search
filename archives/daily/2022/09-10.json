@@ -1,7 +1,15 @@
 {
   "startTime": 1662741216675,
-  "endTime": 1662809793937,
+  "endTime": 1662813661069,
   "band_list": [
+    {
+      "raw_hot": 3368195,
+      "num": 3368195,
+      "word": "月亮",
+      "onboard_time": 1662725071,
+      "rank": 30,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 3263432,
       "num": 3263432,
@@ -43,12 +51,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1941593,
-      "num": 1941593,
-      "word": "月亮",
-      "onboard_time": 1662725071,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 2044913,
+      "num": 2044913,
+      "word": "央视中秋晚会",
+      "onboard_time": 1662808480,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 1830154,
@@ -179,14 +187,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1095686,
-      "num": 1095686,
-      "word": "央视中秋晚会",
-      "onboard_time": 1662808480,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1034717,
       "num": 686585,
       "word": "王鹤棣直播",
@@ -289,6 +289,14 @@
       "onboard_time": 1662793285,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 861980,
+      "num": 861980,
+      "word": "西湖",
+      "onboard_time": 1662810283,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 856096,
@@ -459,6 +467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 611254,
+      "num": 611254,
+      "word": "班主任为51个娃设53个班干部岗位",
+      "onboard_time": 1662805535,
+      "rank": 36,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 600236,
       "num": 600236,
       "word": "校长喊话新生没有家国情怀别考公",
@@ -473,6 +489,14 @@
       "onboard_time": 1662776486,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 563468,
+      "num": 563468,
+      "word": "凤凰传奇 汪苏泷",
+      "onboard_time": 1662813166,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 558986,
@@ -555,20 +579,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 503330,
-      "num": 503330,
-      "word": "班主任为51个娃设53个班干部岗位",
-      "onboard_time": 1662805535,
-      "rank": 36,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 491818,
       "num": 491818,
       "word": "2022年我国系统重要性银行名单",
       "onboard_time": 1662760391,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 488618,
+      "num": 427971,
+      "word": "湖南卫视中秋全员晒离家有多远",
+      "onboard_time": 1662808782,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 476425,
@@ -593,14 +617,6 @@
       "onboard_time": 1662773906,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 427971,
-      "num": 427971,
-      "word": "湖南卫视中秋全员晒离家有多远",
-      "onboard_time": 1662808782,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 427555,
@@ -683,12 +699,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 371367,
+      "num": 125921,
+      "word": "成都月亮",
+      "onboard_time": 1662812867,
+      "rank": 42,
+      "category": "自然,社会新闻"
+    },
+    {
       "raw_hot": 369953,
       "num": 369953,
       "word": "中秋快乐",
       "onboard_time": 1662807763,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 358602,
+      "num": 358602,
+      "word": "这次十五的月亮十五圆",
+      "onboard_time": 1662812086,
+      "rank": 9,
+      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 354263,
@@ -705,6 +737,14 @@
       "onboard_time": 1662784767,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 352715,
+      "num": 352715,
+      "word": "北京月亮",
+      "onboard_time": 1662812147,
+      "rank": 12,
+      "category": "自然"
     },
     {
       "raw_hot": 350621,
@@ -827,6 +867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 308784,
+      "num": 308784,
+      "word": "湖南卫视中秋之夜",
+      "onboard_time": 1662813045,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 307408,
       "num": 307408,
       "word": "马斯克收购推特协议已被终止",
@@ -881,6 +929,14 @@
       "onboard_time": 1662787829,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 289064,
+      "num": 289064,
+      "word": "南京农业大学",
+      "onboard_time": 1662813286,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 288632,
@@ -1012,7 +1068,7 @@
     },
     {
       "raw_hot": 256376,
-      "num": 1812641,
+      "num": 2081959,
       "word": "中秋遇上教师节",
       "onboard_time": 1662738628,
       "rank": 2,
@@ -1089,6 +1145,14 @@
       "onboard_time": 1662799887,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 241073,
+      "num": 241073,
+      "word": "明月知我云歌会",
+      "onboard_time": 1662812747,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 239741,
@@ -1225,6 +1289,14 @@
       "onboard_time": 1662778826,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219117,
+      "num": 219117,
+      "word": "4K视频看全国多地绝美圆月",
+      "onboard_time": 1662812686,
+      "rank": 27,
+      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 216469,
@@ -1579,6 +1651,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 133763,
+      "num": 133763,
+      "word": "陈幸同获成都世乒赛资格",
+      "onboard_time": 1662811788,
+      "rank": 39,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 133241,
+      "num": 133241,
+      "word": "东方卫视月光露营会",
+      "onboard_time": 1662813524,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133117,
       "num": 133117,
       "word": "种下秋天第一个心愿",
@@ -1715,6 +1803,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 102543,
+      "num": 102543,
+      "word": "梦泪结婚一周年",
+      "onboard_time": 1662809926,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 98598,
       "num": 98598,
       "word": "今年教师节不用上课",
@@ -1745,6 +1841,14 @@
       "onboard_time": 1662743179,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 90254,
+      "num": 90254,
+      "word": "天涯共此时明月寄相思",
+      "onboard_time": 1662813345,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 89919,
@@ -1919,6 +2023,9 @@
     },
     {
       "word": "#让中华文化展现出永久魅力和时代风采#"
+    },
+    {
+      "word": "#弘扬科学家精神涵养优良学风#"
     }
   ]
 }
