@@ -1,7 +1,15 @@
 {
   "startTime": 1662741216675,
-  "endTime": 1662802800065,
+  "endTime": 1662805526488,
   "band_list": [
+    {
+      "raw_hot": 3263432,
+      "num": 3263432,
+      "word": "央视中秋晚会节目单官宣",
+      "onboard_time": 1662791005,
+      "rank": 15,
+      "category": "综艺"
+    },
     {
       "raw_hot": 2783989,
       "num": 780709,
@@ -17,14 +25,6 @@
       "onboard_time": 1662771066,
       "rank": 0,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 2711803,
-      "num": 2711803,
-      "word": "央视中秋晚会节目单官宣",
-      "onboard_time": 1662791005,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 2138898,
@@ -121,6 +121,38 @@
       "onboard_time": 1662739229,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1201067,
+      "num": 1201067,
+      "word": "查尔斯三世正式宣誓登基成英国新君主",
+      "onboard_time": 1662801569,
+      "rank": 29,
+      "category": "国外要闻,社会新闻"
+    },
+    {
+      "raw_hot": 1190598,
+      "num": 1190598,
+      "word": "LWX直播",
+      "onboard_time": 1662802650,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 1055132,
+      "num": 1055132,
+      "word": "枪杀安倍嫌犯人生被拍成电影",
+      "onboard_time": 1662802108,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1034717,
+      "num": 581818,
+      "word": "王鹤棣直播",
+      "onboard_time": 1662803252,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 999108,
@@ -228,7 +260,7 @@
     },
     {
       "raw_hot": 820358,
-      "num": 455695,
+      "num": 580986,
       "word": "虞书欣跳了PinkVenom",
       "onboard_time": 1662802171,
       "rank": 10,
@@ -331,12 +363,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 672953,
-      "num": 672953,
-      "word": "查尔斯三世正式宣誓登基成英国新君主",
-      "onboard_time": 1662801569,
-      "rank": 29,
-      "category": "国外要闻,社会新闻"
+      "raw_hot": 672880,
+      "num": 672880,
+      "word": "翔松",
+      "onboard_time": 1662802767,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 660542,
@@ -449,6 +481,14 @@
       "onboard_time": 1662798145,
       "rank": 36,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 520313,
+      "num": 520313,
+      "word": "FPX",
+      "onboard_time": 1662804151,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 515982,
@@ -651,6 +691,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 330918,
+      "num": 330918,
+      "word": "误把老板千金带走的员工",
+      "onboard_time": 1662800786,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 329304,
+      "num": 329304,
+      "word": "月亮",
+      "onboard_time": 1662725071,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328730,
       "num": 328730,
       "word": "张艺兴再唱一个人",
@@ -673,14 +729,6 @@
       "onboard_time": 1662762795,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 323756,
-      "num": 323756,
-      "word": "误把老板千金带走的员工",
-      "onboard_time": 1662800786,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 321384,
@@ -811,6 +859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 273385,
+      "num": 273385,
+      "word": "赏月",
+      "onboard_time": 1662805356,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265711,
       "num": 265711,
       "word": "王嘉尔问哪首",
@@ -841,14 +897,6 @@
       "onboard_time": 1662782963,
       "rank": 25,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 261451,
-      "num": 261451,
-      "word": "LWX直播",
-      "onboard_time": 1662802650,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 258013,
@@ -987,6 +1035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233997,
+      "num": 233997,
+      "word": "男子求复合遭拒抢前女友手机",
+      "onboard_time": 1662801870,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232007,
       "num": 232007,
       "word": "伊宁市小百姓",
@@ -1019,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228211,
+      "num": 228211,
+      "word": "没见过这么敷衍的中秋月亮",
+      "onboard_time": 1662803010,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 225589,
       "num": 169392,
       "word": "你好星期六",
@@ -1041,6 +1105,14 @@
       "onboard_time": 1662789025,
       "rank": 47,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 222067,
+      "num": 222067,
+      "word": "北京8例新增感染者详情公布",
+      "onboard_time": 1662802291,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221791,
@@ -1091,6 +1163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 209245,
+      "num": 209245,
+      "word": "苍兰诀",
+      "onboard_time": 1662799887,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 208089,
       "num": 208089,
       "word": "撒娇猫猫最好命",
@@ -1139,11 +1219,11 @@
       "category": "科技"
     },
     {
-      "raw_hot": 185946,
-      "num": 162186,
-      "word": "苍兰诀",
-      "onboard_time": 1662799887,
-      "rank": 33,
+      "raw_hot": 186015,
+      "num": 186015,
+      "word": "哥你好治好了我的emo",
+      "onboard_time": 1662804873,
+      "rank": 36,
       "category": "影视"
     },
     {
@@ -1201,22 +1281,6 @@
       "onboard_time": 1662774446,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 178655,
-      "num": 214519,
-      "word": "枪杀安倍嫌犯人生被拍成电影",
-      "onboard_time": 1662802108,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176676,
-      "num": 176676,
-      "word": "月亮",
-      "onboard_time": 1662725071,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 176415,
@@ -1299,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151726,
+      "num": 151726,
+      "word": "杨戬票房破4亿",
+      "onboard_time": 1662802834,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 151563,
       "num": 151563,
       "word": "小伙立志种1亿棵梭梭为家乡挡风沙",
@@ -1355,12 +1427,12 @@
       "category": "其它"
     },
     {
-      "raw_hot": 139981,
-      "num": 139981,
-      "word": "北京8例新增感染者详情公布",
-      "onboard_time": 1662802291,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 139010,
+      "num": 139010,
+      "word": "废文网",
+      "onboard_time": 1662804755,
+      "rank": 43,
+      "category": "科技"
     },
     {
       "raw_hot": 137765,
@@ -1443,6 +1515,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 126876,
+      "num": 126876,
+      "word": "婚姻里的物质条件很重要吗",
+      "onboard_time": 1662802468,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 123796,
       "num": 123796,
       "word": "马苏新电影全程说蒙语台词",
@@ -1507,14 +1587,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 109222,
-      "num": 82220,
-      "word": "翔松",
-      "onboard_time": 1662802767,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 108211,
       "num": 108211,
       "word": "苍兰诀OST今夏封神",
@@ -1539,12 +1611,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 102600,
-      "num": 102600,
-      "word": "男子求复合遭拒抢前女友手机",
-      "onboard_time": 1662801870,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 98205,
+      "num": 98205,
+      "word": "你买的阳澄湖大闸蟹可能是假的",
+      "onboard_time": 1662805475,
+      "rank": 48,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 98189,
@@ -1601,14 +1673,6 @@
       "onboard_time": 1662796707,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 80057,
-      "num": 80057,
-      "word": "婚姻里的物质条件很重要吗",
-      "onboard_time": 1662802468,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 77674,
@@ -1683,6 +1747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 43045,
+      "num": 466287,
+      "word": "全世界都在唱千里共婵娟",
+      "onboard_time": 1662804094,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42827,
       "num": 121767,
       "word": "中秋节你在哪里过",
@@ -1703,6 +1775,14 @@
       "num": 82953,
       "word": "购物平台重现古代中秋飞花令",
       "onboard_time": 1662793227,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22172,
+      "num": 153861,
+      "word": "万物皆可月饼",
+      "onboard_time": 1662805299,
       "rank": 39,
       "category": "社会新闻"
     },
@@ -1732,6 +1812,9 @@
     },
     {
       "word": "#中央军委举行晋升上将军衔仪式#"
+    },
+    {
+      "word": "#让中华文化展现出永久魅力和时代风采#"
     }
   ]
 }
