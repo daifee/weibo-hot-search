@@ -1,6 +1,6 @@
 {
   "startTime": 1662741216675,
-  "endTime": 1662823443939,
+  "endTime": 1662824523746,
   "band_list": [
     {
       "raw_hot": 22037086,
@@ -195,8 +195,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1357311,
-      "num": 1357311,
+      "raw_hot": 1370133,
+      "num": 1370133,
       "word": "公司花27万给员工每人发30件礼品",
       "onboard_time": 1662820066,
       "rank": 27,
@@ -259,6 +259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1122455,
+      "num": 964270,
+      "word": "中国传媒大学新增7名感染者",
+      "onboard_time": 1662821087,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1106578,
       "num": 537373,
       "word": "武宁二中",
@@ -297,6 +305,14 @@
       "onboard_time": 1662783445,
       "rank": 8,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 972775,
+      "num": 972775,
+      "word": "原来iPhone自带防偷窥功能",
+      "onboard_time": 1662822773,
+      "rank": 19,
+      "category": "科技"
     },
     {
       "raw_hot": 967189,
@@ -371,12 +387,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 880898,
-      "num": 880898,
-      "word": "中国传媒大学新增7名感染者",
-      "onboard_time": 1662821087,
-      "rank": 5,
-      "category": "社会新闻"
+      "raw_hot": 887172,
+      "num": 407739,
+      "word": "央视秋晚镜头下的王一博",
+      "onboard_time": 1662823071,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 861980,
@@ -404,7 +420,7 @@
     },
     {
       "raw_hot": 829112,
-      "num": 248016,
+      "num": 271983,
       "word": "吴磊晒中秋节月饼自拍",
       "onboard_time": 1662820007,
       "rank": 20,
@@ -569,14 +585,6 @@
       "onboard_time": 1662781586,
       "rank": 9,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 636892,
-      "num": 407739,
-      "word": "央视秋晚镜头下的王一博",
-      "onboard_time": 1662823071,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 622617,
@@ -1059,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 310200,
+      "num": 310200,
+      "word": "济宁疫情防控",
+      "onboard_time": 1662823307,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310163,
       "num": 227482,
       "word": "任敏中秋造型梦回徽柔",
@@ -1155,6 +1171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 286978,
+      "num": 286978,
+      "word": "单依纯 妆",
+      "onboard_time": 1662824142,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 286932,
       "num": 286932,
       "word": "S12抽签规则更新",
@@ -1233,6 +1257,14 @@
       "onboard_time": 1662819585,
       "rank": 17,
       "category": "自然"
+    },
+    {
+      "raw_hot": 271844,
+      "num": 271844,
+      "word": "棣欣引力",
+      "onboard_time": 1662824263,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 270438,
@@ -1323,14 +1355,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 248742,
-      "num": 248742,
-      "word": "原来iPhone自带防偷窥功能",
-      "onboard_time": 1662822773,
-      "rank": 19,
-      "category": "科技"
-    },
-    {
       "raw_hot": 248687,
       "num": 248687,
       "word": "9月9日新增本土确诊239例",
@@ -1352,6 +1376,14 @@
       "word": "东兴疫情防控",
       "onboard_time": 1662771384,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 246353,
+      "num": 271991,
+      "word": "民警单膝跪求婚女友双膝跪地",
+      "onboard_time": 1662823007,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1505,14 +1537,6 @@
       "onboard_time": 1662799526,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 224918,
-      "num": 224918,
-      "word": "济宁疫情防控",
-      "onboard_time": 1662823307,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 224838,
@@ -2075,6 +2099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 125297,
+      "num": 125297,
+      "word": "周冠宇",
+      "onboard_time": 1662823307,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123796,
       "num": 123796,
       "word": "马苏新电影全程说蒙语台词",
@@ -2195,28 +2227,12 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 97290,
-      "num": 97290,
-      "word": "民警单膝跪求婚女友双膝跪地",
-      "onboard_time": 1662823007,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 92274,
       "num": 92274,
       "word": "AI绘制了一幅中秋花月夜",
       "onboard_time": 1662783986,
       "rank": 45,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 91483,
-      "num": 91483,
-      "word": "周冠宇",
-      "onboard_time": 1662823307,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 90871,
