@@ -1,6 +1,6 @@
 {
   "startTime": 1662827496894,
-  "endTime": 1662827496894,
+  "endTime": 1662828900465,
   "band_list": [
     {
       "raw_hot": 2284966,
@@ -19,8 +19,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1876732,
+      "num": 1876732,
+      "word": "快乐再出发制片人向魏晨方道歉",
+      "onboard_time": 1662825641,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1719320,
-      "num": 983460,
+      "num": 1240470,
       "word": "单依纯 妆",
       "onboard_time": 1662824142,
       "rank": 3,
@@ -28,23 +36,15 @@
     },
     {
       "raw_hot": 1542523,
-      "num": 957344,
+      "num": 1223770,
       "word": "原来iPhone自带防偷窥功能",
       "onboard_time": 1662822773,
       "rank": 4,
       "category": "科技"
     },
     {
-      "raw_hot": 1462130,
-      "num": 1462130,
-      "word": "快乐再出发制片人向魏晨方道歉",
-      "onboard_time": 1662825641,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1015502,
-      "num": 328292,
+      "num": 337356,
       "word": "央视秋晚镜头下的王一博",
       "onboard_time": 1662823071,
       "rank": 11,
@@ -73,6 +73,14 @@
       "onboard_time": 1662819941,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 671410,
+      "num": 296129,
+      "word": "王嘉尔的歌词里有苏炳添",
+      "onboard_time": 1662827855,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 626668,
@@ -155,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262643,
+      "num": 262643,
+      "word": "蒯曼",
+      "onboard_time": 1662825402,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 250910,
       "num": 250910,
       "word": "永庆坊",
@@ -164,7 +180,7 @@
     },
     {
       "raw_hot": 238041,
-      "num": 1029779,
+      "num": 1242412,
       "word": "拍一拍中秋月亮",
       "onboard_time": 1662811248,
       "rank": 2,
@@ -201,6 +217,14 @@
       "onboard_time": 1662794848,
       "rank": 23,
       "category": "科技"
+    },
+    {
+      "raw_hot": 186986,
+      "num": 99553,
+      "word": "刘雨昕街舞battle",
+      "onboard_time": 1662828691,
+      "rank": 32,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 185460,
@@ -307,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101264,
+      "num": 101264,
+      "word": "查尔斯三世正式宣誓登基成英国新君主",
+      "onboard_time": 1662801569,
+      "rank": 38,
+      "category": "国外要闻,社会新闻"
+    },
+    {
       "raw_hot": 93658,
       "num": 93658,
       "word": "拍下成都的月亮送给你",
@@ -315,12 +347,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 93620,
-      "num": 93620,
-      "word": "查尔斯三世正式宣誓登基成英国新君主",
-      "onboard_time": 1662801569,
-      "rank": 38,
-      "category": "国外要闻,社会新闻"
+      "raw_hot": 92596,
+      "num": 92596,
+      "word": "周冠宇",
+      "onboard_time": 1662823307,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 81630,
@@ -331,14 +363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 81628,
-      "num": 81628,
-      "word": "周冠宇",
-      "onboard_time": 1662823307,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 79019,
       "num": 79019,
       "word": "不愧是云南的药店",
@@ -347,12 +371,20 @@
       "category": "幽默,社会新闻"
     },
     {
-      "raw_hot": 69010,
-      "num": 69010,
+      "raw_hot": 73509,
+      "num": 73509,
       "word": "FPX",
       "onboard_time": 1662804151,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 72565,
+      "num": 72565,
+      "word": "月饼也分门派",
+      "onboard_time": 1662827081,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 66749,
@@ -371,14 +403,6 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 65195,
-      "num": 65195,
-      "word": "蒯曼",
-      "onboard_time": 1662825402,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 62586,
       "num": 62586,
       "word": "贵阳新增阳性感染者160例",
@@ -387,18 +411,18 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 60370,
-      "num": 60370,
-      "word": "月饼也分门派",
-      "onboard_time": 1662827081,
-      "rank": 48,
-      "category": "美食"
-    },
-    {
       "raw_hot": 59237,
       "num": 59237,
       "word": "男子求复合遭拒抢前女友手机",
       "onboard_time": 1662801870,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50908,
+      "num": 50908,
+      "word": "新疆小伙用17000个番茄摆嫦娥奔月",
+      "onboard_time": 1662828870,
       "rank": 49,
       "category": "社会新闻"
     }

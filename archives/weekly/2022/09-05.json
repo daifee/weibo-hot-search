@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662827496894,
+  "endTime": 1662828900465,
   "band_list": [
     {
       "raw_hot": 22037086,
@@ -715,6 +715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1876732,
+      "num": 1876732,
+      "word": "快乐再出发制片人向魏晨方道歉",
+      "onboard_time": 1662825641,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1860669,
       "num": 1778975,
       "word": "刘恺威 央视中秋晚会",
@@ -844,7 +852,7 @@
     },
     {
       "raw_hot": 1719320,
-      "num": 983460,
+      "num": 1240470,
       "word": "单依纯 妆",
       "onboard_time": 1662824142,
       "rank": 18,
@@ -1084,7 +1092,7 @@
     },
     {
       "raw_hot": 1542523,
-      "num": 972775,
+      "num": 1223770,
       "word": "原来iPhone自带防偷窥功能",
       "onboard_time": 1662822773,
       "rank": 19,
@@ -1137,14 +1145,6 @@
       "onboard_time": 1662600686,
       "rank": 0,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 1462130,
-      "num": 1462130,
-      "word": "快乐再出发制片人向魏晨方道歉",
-      "onboard_time": 1662825641,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1460354,
@@ -3569,6 +3569,14 @@
       "onboard_time": 1662546090,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 671410,
+      "num": 296129,
+      "word": "王嘉尔的歌词里有苏炳添",
+      "onboard_time": 1662827855,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 664792,
@@ -8611,6 +8619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 262643,
+      "num": 262643,
+      "word": "蒯曼",
+      "onboard_time": 1662825402,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 262489,
       "num": 262489,
       "word": "实习为什么对大学生很重要",
@@ -10665,6 +10681,14 @@
       "onboard_time": 1662374973,
       "rank": 40,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 186986,
+      "num": 99553,
+      "word": "刘雨昕街舞battle",
+      "onboard_time": 1662828691,
+      "rank": 32,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 186467,
@@ -13011,6 +13035,14 @@
       "category": "自然,社会新闻"
     },
     {
+      "raw_hot": 72565,
+      "num": 72565,
+      "word": "月饼也分门派",
+      "onboard_time": 1662827081,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 72376,
       "num": 72376,
       "word": "中秋月饼最佳cp你站谁",
@@ -13059,22 +13091,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 65195,
-      "num": 65195,
-      "word": "蒯曼",
-      "onboard_time": 1662825402,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 60370,
-      "num": 60370,
-      "word": "月饼也分门派",
-      "onboard_time": 1662827081,
-      "rank": 48,
-      "category": "美食"
-    },
-    {
       "raw_hot": 60205,
       "num": 511599,
       "word": "出发救援泸定我可以",
@@ -13113,6 +13129,14 @@
       "onboard_time": 1662419601,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 50908,
+      "num": 50908,
+      "word": "新疆小伙用17000个番茄摆嫦娥奔月",
+      "onboard_time": 1662828870,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50225,
