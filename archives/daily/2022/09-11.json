@@ -1,6 +1,6 @@
 {
   "startTime": 1662827496894,
-  "endTime": 1662828900465,
+  "endTime": 1662830750362,
   "band_list": [
     {
       "raw_hot": 2284966,
@@ -43,6 +43,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1078327,
+      "num": 1078327,
+      "word": "王嘉尔的歌词里有苏炳添",
+      "onboard_time": 1662827855,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1015502,
       "num": 337356,
       "word": "央视秋晚镜头下的王一博",
@@ -75,14 +83,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 671410,
-      "num": 296129,
-      "word": "王嘉尔的歌词里有苏炳添",
-      "onboard_time": 1662827855,
-      "rank": 12,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 626668,
       "num": 272165,
       "word": "鸟鸟 好笑",
@@ -107,12 +107,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 490440,
+      "num": 270264,
+      "word": "探清水河",
+      "onboard_time": 1662829891,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 489294,
       "num": 489294,
       "word": "济宁疫情防控",
       "onboard_time": 1662823307,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 434747,
+      "num": 434747,
+      "word": "蒯曼",
+      "onboard_time": 1662825402,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 428852,
@@ -147,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 280144,
+      "num": 280144,
+      "word": "新疆小伙用17000个番茄摆嫦娥奔月",
+      "onboard_time": 1662828870,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 270402,
       "num": 270402,
       "word": "小学生用白纸做花送老师",
@@ -163,12 +187,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 262643,
-      "num": 262643,
-      "word": "蒯曼",
-      "onboard_time": 1662825402,
-      "rank": 46,
-      "category": "体育"
+      "raw_hot": 253167,
+      "num": 91781,
+      "word": "王源祝大家中秋快乐",
+      "onboard_time": 1662830125,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 250910,
@@ -191,6 +215,14 @@
       "num": 220157,
       "word": "枪杀安倍嫌犯人生被拍成电影",
       "onboard_time": 1662802108,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216501,
+      "num": 216501,
+      "word": "女子在禁区游泳被套头拉回",
+      "onboard_time": 1662829350,
       "rank": 17,
       "category": "社会新闻"
     },
@@ -419,12 +451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 50908,
-      "num": 50908,
-      "word": "新疆小伙用17000个番茄摆嫦娥奔月",
-      "onboard_time": 1662828870,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 39390,
+      "num": 39390,
+      "word": "晒出你的中秋月圆照",
+      "onboard_time": 1662829229,
+      "rank": 47,
+      "category": "情感"
     }
   ],
   "hotgov_list": [
