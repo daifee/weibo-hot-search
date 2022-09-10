@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662794543978,
+  "endTime": 1662795502654,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -659,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2317979,
+      "num": 2317979,
+      "word": "央视中秋晚会节目单官宣",
+      "onboard_time": 1662791005,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2312452,
       "num": 686062,
       "word": "张大大是复旦研究生",
@@ -929,14 +937,6 @@
       "onboard_time": 1662039451,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1973245,
-      "num": 1973245,
-      "word": "央视中秋晚会节目单官宣",
-      "onboard_time": 1662791005,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 1962060,
@@ -1457,6 +1457,14 @@
       "onboard_time": 1662037351,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1599807,
+      "num": 1599807,
+      "word": "蔡明建议不要给年轻人建议",
+      "onboard_time": 1662793227,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1599583,
@@ -3923,14 +3931,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 920104,
-      "num": 920104,
-      "word": "蔡明建议不要给年轻人建议",
-      "onboard_time": 1662793227,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 918647,
       "num": 380818,
       "word": "苹果一根挂绳售价98元",
@@ -6281,6 +6281,14 @@
       "onboard_time": 1662442646,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 589447,
+      "num": 589447,
+      "word": "韩国中秋被山东小城拿捏",
+      "onboard_time": 1662793708,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 589324,
@@ -8755,6 +8763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 416656,
+      "num": 416656,
+      "word": "校长喊话新生没有家国情怀别考公",
+      "onboard_time": 1662791907,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 415623,
       "num": 415623,
       "word": "原来每个人都有收集癖",
@@ -9011,6 +9027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 408742,
+      "num": 408742,
+      "word": "狗狗发现漏电不停狂吠提醒",
+      "onboard_time": 1662790046,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 408423,
       "num": 408423,
       "word": "日本医疗机构称新冠疫情已达灾害级别",
@@ -9097,14 +9121,6 @@
       "onboard_time": 1662783207,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 405622,
-      "num": 405622,
-      "word": "狗狗发现漏电不停狂吠提醒",
-      "onboard_time": 1662790046,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 405526,
@@ -11187,6 +11203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 329232,
+      "num": 329232,
+      "word": "EDG",
+      "onboard_time": 1662793586,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 328902,
       "num": 267645,
       "word": "沉香重华杨紫成毅受情罚花絮",
@@ -12803,6 +12827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 286633,
+      "num": 230979,
+      "word": "终于等到GAI张艺兴唱亢龙有悔",
+      "onboard_time": 1662794909,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 286374,
       "num": 286374,
       "word": "胡一天向秦羽今晚见",
@@ -13963,14 +13995,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 260085,
-      "num": 260085,
-      "word": "校长喊话新生没有家国情怀别考公",
-      "onboard_time": 1662791907,
-      "rank": 38,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 259882,
       "num": 226784,
       "word": "梁爽创意被抄袭",
@@ -14923,12 +14947,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237064,
+      "num": 163107,
+      "word": "网剧你安全吗",
+      "onboard_time": 1662794969,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 236995,
       "num": 236995,
       "word": "中秋",
       "onboard_time": 1662739586,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 236169,
+      "num": 188311,
+      "word": "吴克群狂炫马頔炸酱面被点名",
+      "onboard_time": 1662792806,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 235592,
@@ -15155,6 +15195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 230318,
+      "num": 230318,
+      "word": "iPhone13Pro系列停产",
+      "onboard_time": 1662794848,
+      "rank": 15,
+      "category": "科技"
+    },
+    {
       "raw_hot": 230049,
       "num": 230049,
       "word": "是怎么忍住不跟猫玩的",
@@ -15371,14 +15419,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 226540,
-      "num": 226540,
-      "word": "EDG",
-      "onboard_time": 1662793586,
-      "rank": 17,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 226362,
       "num": 226362,
       "word": "当花木兰遇上穆桂英",
@@ -15393,14 +15433,6 @@
       "onboard_time": 1662725971,
       "rank": 39,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 226224,
-      "num": 188311,
-      "word": "吴克群狂炫马頔炸酱面被点名",
-      "onboard_time": 1662792806,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 226151,
@@ -17955,14 +17987,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 165603,
-      "num": 165603,
-      "word": "韩国中秋被山东小城拿捏",
-      "onboard_time": 1662793708,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 165501,
       "num": 165501,
       "word": "哥你好今日上映",
@@ -18201,6 +18225,14 @@
       "onboard_time": 1662637410,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160601,
+      "num": 160601,
+      "word": "画画圈也太内卷了吧",
+      "onboard_time": 1662792029,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 160396,
@@ -18833,14 +18865,6 @@
       "onboard_time": 1662362967,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147344,
-      "num": 147344,
-      "word": "画画圈也太内卷了吧",
-      "onboard_time": 1662792029,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 147112,
@@ -20523,6 +20547,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 79264,
+      "num": 79264,
+      "word": "46岁教师靠微光坚持给学生上课",
+      "onboard_time": 1662794909,
+      "rank": 43,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 79164,
       "num": 79164,
       "word": "王一博八月份八种身份",
@@ -20585,6 +20617,14 @@
       "onboard_time": 1662519627,
       "rank": 39,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 75577,
+      "num": 75577,
+      "word": "这是被教育事业耽误的歌星吧",
+      "onboard_time": 1662793407,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 75133,
@@ -20688,14 +20728,6 @@
       "word": "你眼中的最美中秋夜",
       "onboard_time": 1662789146,
       "rank": 49,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 64594,
-      "num": 64594,
-      "word": "这是被教育事业耽误的歌星吧",
-      "onboard_time": 1662793407,
-      "rank": 45,
       "category": "情感"
     },
     {
@@ -20979,6 +21011,14 @@
       "category": "游戏,综艺"
     },
     {
+      "raw_hot": 22847,
+      "num": 82953,
+      "word": "购物平台重现古代中秋飞花令",
+      "onboard_time": 1662793227,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22694,
       "num": 169971,
       "word": "人人参与才是大公益",
@@ -21081,14 +21121,6 @@
       "onboard_time": 1662754990,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 8998,
-      "num": 81181,
-      "word": "购物平台重现古代中秋飞花令",
-      "onboard_time": 1662793227,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 8070,
