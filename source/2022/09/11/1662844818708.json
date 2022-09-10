@@ -1,0 +1,410 @@
+{
+  "runTime": 1662844818708,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 171921,
+        "num": 171921,
+        "word": "探清水河",
+        "onboard_time": 1662829891,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152938,
+        "num": 152938,
+        "word": "快乐再出发制片人向魏晨方道歉",
+        "onboard_time": 1662825641,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27292,
+        "num": 117438,
+        "word": "拍一拍中秋月亮",
+        "onboard_time": 1662811248,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112164,
+        "num": 112164,
+        "word": "原来iPhone自带防偷窥功能",
+        "onboard_time": 1662822773,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 89244,
+        "num": 89244,
+        "word": "济宁疫情防控",
+        "onboard_time": 1662823307,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84233,
+        "num": 84233,
+        "word": "美国家庭净资产缩水6.1万亿美元",
+        "onboard_time": 1662840251,
+        "rank": 5,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 79796,
+        "num": 79796,
+        "word": "曾毅 没来",
+        "onboard_time": 1662819406,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64970,
+        "num": 64970,
+        "word": "女子在禁区游泳被套头拉回",
+        "onboard_time": 1662829350,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54531,
+        "num": 54531,
+        "word": "新疆小伙用17000个番茄摆嫦娥奔月",
+        "onboard_time": 1662828870,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49798,
+        "num": 49798,
+        "word": "中国传媒大学新增7名感染者",
+        "onboard_time": 1662821087,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85226,
+        "num": 49477,
+        "word": "成都小区",
+        "onboard_time": 1662831981,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72676,
+        "num": 49357,
+        "word": "自家地投毒玉米粒致9羊死被判缓刑",
+        "onboard_time": 1662819941,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48870,
+        "num": 48870,
+        "word": "央视秋晚镜头下的王一博",
+        "onboard_time": 1662823071,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45305,
+        "num": 45305,
+        "word": "公司花27万给员工每人发30件礼品",
+        "onboard_time": 1662820066,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47245,
+        "num": 45101,
+        "word": "刘恺威 央视中秋晚会",
+        "onboard_time": 1662815987,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44689,
+        "num": 44689,
+        "word": "棣欣引力",
+        "onboard_time": 1662824263,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 40031,
+        "num": 40031,
+        "word": "民警单膝跪求婚女友双膝跪地",
+        "onboard_time": 1662823007,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28492,
+        "num": 28492,
+        "word": "喜鹊飞进教室叼走女生耳机",
+        "onboard_time": 1662816888,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22065,
+        "num": 22065,
+        "word": "枪杀安倍嫌犯人生被拍成电影",
+        "onboard_time": 1662802108,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21107,
+        "num": 21107,
+        "word": "小学生用白纸做花送老师",
+        "onboard_time": 1662816772,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43184,
+        "num": 21089,
+        "word": "单依纯 妆",
+        "onboard_time": 1662824142,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 36127,
+        "num": 21013,
+        "word": "王嘉尔的歌词里有苏炳添",
+        "onboard_time": 1662827855,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 24979,
+        "num": 20938,
+        "word": "檀健次毛晓彤 孤独颂歌",
+        "onboard_time": 1662817247,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20855,
+        "num": 20855,
+        "word": "LWX直播",
+        "onboard_time": 1662802650,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 19263,
+        "num": 19263,
+        "word": "iPhone13Pro系列停产",
+        "onboard_time": 1662794848,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 24322,
+        "num": 19232,
+        "word": "王心凌直播",
+        "onboard_time": 1662822114,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19005,
+        "num": 19005,
+        "word": "班主任为51个娃设53个班干部岗位",
+        "onboard_time": 1662805535,
+        "rank": 26,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 18220,
+        "num": 18220,
+        "word": "查尔斯三世正式宣誓登基成英国新君主",
+        "onboard_time": 1662801569,
+        "rank": 27,
+        "category": "国外要闻,社会新闻"
+      },
+      {
+        "raw_hot": 17466,
+        "num": 17466,
+        "word": "月亮",
+        "onboard_time": 1662805299,
+        "rank": 28,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 17345,
+        "num": 17345,
+        "word": "分享欲真的很重要吗",
+        "onboard_time": 1662795809,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24223,
+        "num": 17317,
+        "word": "刘雨昕街舞battle",
+        "onboard_time": 1662828691,
+        "rank": 30,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 20372,
+        "num": 17242,
+        "word": "吴磊晒中秋节月饼自拍",
+        "onboard_time": 1662820007,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17146,
+        "num": 17146,
+        "word": "纽约州因脊髓灰质炎病毒进入紧急状态",
+        "onboard_time": 1662800609,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15030,
+        "num": 15030,
+        "word": "王源祝大家中秋快乐",
+        "onboard_time": 1662830125,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14995,
+        "num": 14995,
+        "word": "刘青松",
+        "onboard_time": 1662798386,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 14848,
+        "num": 14848,
+        "word": "韩国中秋被山东小城拿捏",
+        "onboard_time": 1662793708,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13200,
+        "num": 13200,
+        "word": "西湖",
+        "onboard_time": 1662810283,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12974,
+        "num": 12974,
+        "word": "晒出你的中秋月圆照",
+        "onboard_time": 1662829229,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 12160,
+        "num": 12160,
+        "word": "蒯曼",
+        "onboard_time": 1662825402,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11300,
+        "num": 11300,
+        "word": "月饼也分门派",
+        "onboard_time": 1662827081,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 14939,
+        "num": 11294,
+        "word": "鸟鸟 好笑",
+        "onboard_time": 1662824803,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12701,
+        "num": 11287,
+        "word": "何洛洛严浩翔军训同框",
+        "onboard_time": 1662814428,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11278,
+        "num": 11278,
+        "word": "老公出轨是及时挽回还是果断分开",
+        "onboard_time": 1662782606,
+        "rank": 42,
+        "category": "情感,社会议题"
+      },
+      {
+        "raw_hot": 11121,
+        "num": 11121,
+        "word": "爸是原件儿子复印件妈是打印机",
+        "onboard_time": 1662786387,
+        "rank": 43,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 11007,
+        "num": 11007,
+        "word": "FPX",
+        "onboard_time": 1662804151,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 10565,
+        "num": 10565,
+        "word": "北京月亮",
+        "onboard_time": 1662812147,
+        "rank": 45,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 10505,
+        "num": 10505,
+        "word": "中秋文案",
+        "onboard_time": 1662814186,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 9856,
+        "num": 9856,
+        "word": "海南所有市县已实现社会面清零",
+        "onboard_time": 1662844271,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8458,
+        "num": 8458,
+        "word": "王鹤棣直播",
+        "onboard_time": 1662803252,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 8030,
+        "num": 8030,
+        "word": "F1",
+        "onboard_time": 1662818264,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#让中华文化展现出永久魅力和时代风采#"
+    }
+  }
+}
