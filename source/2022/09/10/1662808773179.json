@@ -1,0 +1,410 @@
+{
+  "runTime": 1662808773179,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2822528,
+        "num": 2822528,
+        "word": "央视中秋晚会节目单官宣",
+        "onboard_time": 1662791005,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1460714,
+        "num": 1460714,
+        "word": "枪杀安倍嫌犯人生被拍成电影",
+        "onboard_time": 1662802108,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38232,
+        "num": 1455612,
+        "word": "中秋遇上教师节",
+        "onboard_time": 1662738628,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1450791,
+        "num": 1450791,
+        "word": "废文网",
+        "onboard_time": 1662804755,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1131212,
+        "num": 1131212,
+        "word": "月亮",
+        "onboard_time": 1662805299,
+        "rank": 4,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 845485,
+        "num": 845485,
+        "word": "LWX直播",
+        "onboard_time": 1662802650,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 731720,
+        "num": 731720,
+        "word": "央视中秋晚会",
+        "onboard_time": 1662808480,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 650166,
+        "num": 650166,
+        "word": "刘青松",
+        "onboard_time": 1662798386,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 642570,
+        "num": 642570,
+        "word": "查尔斯三世正式宣誓登基成英国新君主",
+        "onboard_time": 1662801569,
+        "rank": 8,
+        "category": "国外要闻,社会新闻"
+      },
+      {
+        "raw_hot": 553231,
+        "num": 553231,
+        "word": "FPX",
+        "onboard_time": 1662804151,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 835430,
+        "num": 545652,
+        "word": "王鹤棣直播",
+        "onboard_time": 1662803252,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 648841,
+        "num": 537373,
+        "word": "武宁二中",
+        "onboard_time": 1662806558,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 526824,
+        "num": 526824,
+        "word": "蔡明建议不要给年轻人建议",
+        "onboard_time": 1662793227,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 508894,
+        "num": 508894,
+        "word": "马丽因拍母子分离戏而崩溃",
+        "onboard_time": 1662805775,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 410712,
+        "num": 410712,
+        "word": "老公出轨是及时挽回还是果断分开",
+        "onboard_time": 1662782606,
+        "rank": 14,
+        "category": "情感,社会议题"
+      },
+      {
+        "raw_hot": 381892,
+        "num": 381892,
+        "word": "爸是原件儿子复印件妈是打印机",
+        "onboard_time": 1662786387,
+        "rank": 15,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 374371,
+        "num": 374371,
+        "word": "翔松",
+        "onboard_time": 1662802767,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 369953,
+        "num": 369953,
+        "word": "中秋快乐",
+        "onboard_time": 1662807763,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369466,
+        "num": 369466,
+        "word": "班主任为51个娃设53个班干部岗位",
+        "onboard_time": 1662805535,
+        "rank": 18,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 310030,
+        "num": 310030,
+        "word": "没见过这么敷衍的中秋月亮",
+        "onboard_time": 1662803010,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 467166,
+        "num": 305980,
+        "word": "iPhone13Pro系列停产",
+        "onboard_time": 1662794848,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 288963,
+        "num": 288963,
+        "word": "分享欲真的很重要吗",
+        "onboard_time": 1662795809,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 276260,
+        "num": 276260,
+        "word": "误把老板千金带走的员工",
+        "onboard_time": 1662800786,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 275361,
+        "num": 275361,
+        "word": "涉事公司回应一瓶饮料232种配料",
+        "onboard_time": 1662799288,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247695,
+        "num": 247695,
+        "word": "韩国中秋被山东小城拿捏",
+        "onboard_time": 1662793708,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239340,
+        "num": 239340,
+        "word": "WTT常规挑战赛马斯喀特站",
+        "onboard_time": 1662808181,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237202,
+        "num": 237202,
+        "word": "你买的阳澄湖大闸蟹可能是假的",
+        "onboard_time": 1662805475,
+        "rank": 26,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 226885,
+        "num": 226885,
+        "word": "艾热当爸爸了",
+        "onboard_time": 1662793285,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222398,
+        "num": 222398,
+        "word": "Angelababy听说很好吃cos嫦娥",
+        "onboard_time": 1662798925,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200116,
+        "num": 200116,
+        "word": "山东教授拒600倍薪资坚守讲台40载",
+        "onboard_time": 1662798145,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 197634,
+        "num": 197634,
+        "word": "龚俊非主流中秋文案",
+        "onboard_time": 1662798327,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189891,
+        "num": 189891,
+        "word": "EDG",
+        "onboard_time": 1662793586,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180640,
+        "num": 180640,
+        "word": "男子求复合遭拒抢前女友手机",
+        "onboard_time": 1662801870,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172817,
+        "num": 172817,
+        "word": "苍兰诀",
+        "onboard_time": 1662799887,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169076,
+        "num": 169076,
+        "word": "纽约州因脊髓灰质炎病毒进入紧急状态",
+        "onboard_time": 1662800609,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167042,
+        "num": 167042,
+        "word": "贵阳新增阳性感染者160例",
+        "onboard_time": 1662799948,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297679,
+        "num": 164251,
+        "word": "王鹤棣中秋营业视频",
+        "onboard_time": 1662807643,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157950,
+        "num": 157950,
+        "word": "哥你好治好了我的emo",
+        "onboard_time": 1662804873,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156063,
+        "num": 156063,
+        "word": "男子谎称家人因地震离世诈骗被拘",
+        "onboard_time": 1662795509,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153972,
+        "num": 153972,
+        "word": "时代少年团中秋答卷默契测试",
+        "onboard_time": 1662799526,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152932,
+        "num": 152932,
+        "word": "北京8例新增感染者详情公布",
+        "onboard_time": 1662802291,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147726,
+        "num": 147726,
+        "word": "陈幸同vs崔孝珠",
+        "onboard_time": 1662807944,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139304,
+        "num": 139304,
+        "word": "边江入圈4年才配主角",
+        "onboard_time": 1662800248,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127760,
+        "num": 127760,
+        "word": "前两日iPhone14Pro系列半小时被抢光",
+        "onboard_time": 1662786987,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 125485,
+        "num": 125485,
+        "word": "二十不惑2",
+        "onboard_time": 1662808181,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121315,
+        "num": 121315,
+        "word": "杨戬票房破4亿",
+        "onboard_time": 1662802834,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115102,
+        "num": 115102,
+        "word": "婚姻里的物质条件很重要吗",
+        "onboard_time": 1662802468,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113867,
+        "num": 113867,
+        "word": "中国人第一次在太空过中秋",
+        "onboard_time": 1662798627,
+        "rank": 47,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 96586,
+        "num": 96586,
+        "word": "警方通报贵阳花果园19岁女孩坠亡",
+        "onboard_time": 1662783445,
+        "rank": 48,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 86952,
+        "num": 86952,
+        "word": "校长喊话新生没有家国情怀别考公",
+        "onboard_time": 1662791907,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#让中华文化展现出永久魅力和时代风采#"
+    }
+  }
+}

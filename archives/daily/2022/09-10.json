@@ -1,6 +1,6 @@
 {
   "startTime": 1662741216675,
-  "endTime": 1662806537708,
+  "endTime": 1662808773179,
   "band_list": [
     {
       "raw_hot": 3263432,
@@ -91,6 +91,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1450791,
+      "num": 1450791,
+      "word": "废文网",
+      "onboard_time": 1662804755,
+      "rank": 43,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1420009,
       "num": 1420009,
       "word": "男子放弃逃生拉闸泄洪救了几百人",
@@ -145,6 +153,14 @@
       "onboard_time": 1662802650,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1131212,
+      "num": 1131212,
+      "word": "月亮",
+      "onboard_time": 1662725071,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1034717,
@@ -267,14 +283,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 817142,
-      "num": 817142,
-      "word": "废文网",
-      "onboard_time": 1662804755,
-      "rank": 43,
-      "category": "科技"
-    },
-    {
       "raw_hot": 806529,
       "num": 806529,
       "word": "女子吃饭被牛肉噎住吐不出",
@@ -347,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 731720,
+      "num": 731720,
+      "word": "央视中秋晚会",
+      "onboard_time": 1662808480,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 723037,
       "num": 723037,
       "word": "成都为24小时便利店占比最高城市",
@@ -393,6 +409,14 @@
       "onboard_time": 1662771324,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 648841,
+      "num": 537373,
+      "word": "武宁二中",
+      "onboard_time": 1662806558,
+      "rank": 11,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 642154,
@@ -515,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 508894,
+      "num": 508894,
+      "word": "马丽因拍母子分离戏而崩溃",
+      "onboard_time": 1662805775,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 491818,
       "num": 491818,
       "word": "2022年我国系统重要性银行名单",
@@ -537,14 +569,6 @@
       "onboard_time": 1662781342,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 464520,
-      "num": 464520,
-      "word": "月亮",
-      "onboard_time": 1662725071,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 455416,
@@ -633,6 +657,22 @@
       "onboard_time": 1662800248,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 369953,
+      "num": 369953,
+      "word": "中秋快乐",
+      "onboard_time": 1662807763,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369466,
+      "num": 369466,
+      "word": "班主任为51个娃设53个班干部岗位",
+      "onboard_time": 1662805535,
+      "rank": 36,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 354263,
@@ -763,12 +803,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 310030,
+      "num": 310030,
+      "word": "没见过这么敷衍的中秋月亮",
+      "onboard_time": 1662803010,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 307408,
       "num": 307408,
       "word": "马斯克收购推特协议已被终止",
       "onboard_time": 1662784830,
       "rank": 48,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 297679,
+      "num": 164251,
+      "word": "王鹤棣中秋营业视频",
+      "onboard_time": 1662807643,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 296676,
@@ -857,14 +913,6 @@
       "onboard_time": 1662753671,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 274194,
-      "num": 274194,
-      "word": "没见过这么敷衍的中秋月亮",
-      "onboard_time": 1662803010,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 273474,
@@ -1011,14 +1059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 244214,
-      "num": 244214,
-      "word": "马丽因拍母子分离戏而崩溃",
-      "onboard_time": 1662805775,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 243264,
       "num": 243264,
       "word": "苍兰诀",
@@ -1035,12 +1075,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 239340,
+      "num": 239340,
+      "word": "WTT常规挑战赛马斯喀特站",
+      "onboard_time": 1662808181,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 239195,
       "num": 239195,
       "word": "3岁萌娃不愿上自己家族的幼儿园",
       "onboard_time": 1662724766,
       "rank": 23,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 237202,
+      "num": 237202,
+      "word": "你买的阳澄湖大闸蟹可能是假的",
+      "onboard_time": 1662805475,
+      "rank": 48,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 236995,
@@ -1227,14 +1283,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 193904,
-      "num": 193904,
-      "word": "班主任为51个娃设53个班干部岗位",
-      "onboard_time": 1662805535,
-      "rank": 36,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 189725,
       "num": 179372,
       "word": "iPhone14",
@@ -1313,14 +1361,6 @@
       "onboard_time": 1662740366,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 172133,
-      "num": 172133,
-      "word": "你买的阳澄湖大闸蟹可能是假的",
-      "onboard_time": 1662805475,
-      "rank": 48,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 170412,
@@ -1443,6 +1483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147726,
+      "num": 147726,
+      "word": "陈幸同vs崔孝珠",
+      "onboard_time": 1662807944,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145724,
       "num": 145724,
       "word": "陈宇在车里呆了两集了",
@@ -1553,6 +1601,14 @@
       "onboard_time": 1662738029,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 125485,
+      "num": 125485,
+      "word": "二十不惑2",
+      "onboard_time": 1662808181,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 123796,

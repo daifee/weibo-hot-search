@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662806537708,
+  "endTime": 1662808773179,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -1059,6 +1059,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1450791,
+      "num": 1450791,
+      "word": "废文网",
+      "onboard_time": 1662804755,
+      "rank": 43,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1444417,
       "num": 1285199,
       "word": "谢可寅方道歉",
@@ -1657,6 +1665,14 @@
       "onboard_time": 1662366810,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1131212,
+      "num": 1131212,
+      "word": "月亮",
+      "onboard_time": 1662725071,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1130215,
@@ -2755,14 +2771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 817142,
-      "num": 817142,
-      "word": "废文网",
-      "onboard_time": 1662804755,
-      "rank": 43,
-      "category": "科技"
-    },
-    {
       "raw_hot": 816403,
       "num": 551483,
       "word": "任光晞不会出轨",
@@ -3065,6 +3073,14 @@
       "onboard_time": 1662450565,
       "rank": 31,
       "category": "科技"
+    },
+    {
+      "raw_hot": 731720,
+      "num": 731720,
+      "word": "央视中秋晚会",
+      "onboard_time": 1662808480,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 730350,
@@ -3441,6 +3457,14 @@
       "onboard_time": 1662727710,
       "rank": 48,
       "category": "科技"
+    },
+    {
+      "raw_hot": 648841,
+      "num": 537373,
+      "word": "武宁二中",
+      "onboard_time": 1662806558,
+      "rank": 11,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 648751,
@@ -4275,6 +4299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 508894,
+      "num": 508894,
+      "word": "马丽因拍母子分离戏而崩溃",
+      "onboard_time": 1662805775,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 507073,
       "num": 507073,
       "word": "她们的名字定档今晚",
@@ -4761,14 +4793,6 @@
       "onboard_time": 1662620547,
       "rank": 47,
       "category": "科技"
-    },
-    {
-      "raw_hot": 464520,
-      "num": 464520,
-      "word": "月亮",
-      "onboard_time": 1662725071,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 464357,
@@ -5963,6 +5987,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 369953,
+      "num": 369953,
+      "word": "中秋快乐",
+      "onboard_time": 1662807763,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369466,
+      "num": 369466,
+      "word": "班主任为51个娃设53个班干部岗位",
+      "onboard_time": 1662805535,
+      "rank": 36,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 368642,
       "num": 208880,
       "word": "冰雨火杨熠下线",
@@ -6947,6 +6987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 310030,
+      "num": 310030,
+      "word": "没见过这么敷衍的中秋月亮",
+      "onboard_time": 1662803010,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 309934,
       "num": 309934,
       "word": "杭州地铁",
@@ -7193,6 +7241,14 @@
       "onboard_time": 1662532823,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 297679,
+      "num": 164251,
+      "word": "王鹤棣中秋营业视频",
+      "onboard_time": 1662807643,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 297612,
@@ -7809,14 +7865,6 @@
       "onboard_time": 1662428788,
       "rank": 22,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 274194,
-      "num": 274194,
-      "word": "没见过这么敷衍的中秋月亮",
-      "onboard_time": 1662803010,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 273565,
@@ -8627,14 +8675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 244214,
-      "num": 244214,
-      "word": "马丽因拍母子分离戏而崩溃",
-      "onboard_time": 1662805775,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 244143,
       "num": 244143,
       "word": "原来瀑布还可以这么拍",
@@ -8795,6 +8835,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 239340,
+      "num": 239340,
+      "word": "WTT常规挑战赛马斯喀特站",
+      "onboard_time": 1662808181,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 239083,
       "num": 239083,
       "word": "冬天真的很需要这个被子",
@@ -8873,6 +8921,14 @@
       "onboard_time": 1662731852,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 237202,
+      "num": 237202,
+      "word": "你买的阳澄湖大闸蟹可能是假的",
+      "onboard_time": 1662805475,
+      "rank": 48,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 236995,
@@ -10003,14 +10059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 193904,
-      "num": 193904,
-      "word": "班主任为51个娃设53个班干部岗位",
-      "onboard_time": 1662805535,
-      "rank": 36,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 193440,
       "num": 193440,
       "word": "李亚男大学生电影节红毯造型",
@@ -10553,14 +10601,6 @@
       "onboard_time": 1662530905,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 172133,
-      "num": 172133,
-      "word": "你买的阳澄湖大闸蟹可能是假的",
-      "onboard_time": 1662805475,
-      "rank": 48,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 171145,
@@ -11313,6 +11353,14 @@
       "onboard_time": 1662622827,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 147726,
+      "num": 147726,
+      "word": "陈幸同vs崔孝珠",
+      "onboard_time": 1662807944,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 147609,
