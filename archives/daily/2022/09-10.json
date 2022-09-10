@@ -1,6 +1,6 @@
 {
   "startTime": 1662741216675,
-  "endTime": 1662805526488,
+  "endTime": 1662806537708,
   "band_list": [
     {
       "raw_hot": 3263432,
@@ -75,6 +75,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1493301,
+      "num": 1493301,
+      "word": "枪杀安倍嫌犯人生被拍成电影",
+      "onboard_time": 1662802108,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1460354,
       "num": 1449458,
       "word": "iPhone13Pro系列停产",
@@ -139,16 +147,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1055132,
-      "num": 1055132,
-      "word": "枪杀安倍嫌犯人生被拍成电影",
-      "onboard_time": 1662802108,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1034717,
-      "num": 581818,
+      "num": 686585,
       "word": "王鹤棣直播",
       "onboard_time": 1662803252,
       "rank": 10,
@@ -267,6 +267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 817142,
+      "num": 817142,
+      "word": "废文网",
+      "onboard_time": 1662804755,
+      "rank": 43,
+      "category": "科技"
+    },
+    {
       "raw_hot": 806529,
       "num": 806529,
       "word": "女子吃饭被牛肉噎住吐不出",
@@ -305,6 +313,14 @@
       "onboard_time": 1662795509,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 771325,
+      "num": 771325,
+      "word": "翔松",
+      "onboard_time": 1662802767,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 760956,
@@ -363,11 +379,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 672880,
-      "num": 672880,
-      "word": "翔松",
-      "onboard_time": 1662802767,
-      "rank": 47,
+      "raw_hot": 679852,
+      "num": 679852,
+      "word": "FPX",
+      "onboard_time": 1662804151,
+      "rank": 13,
       "category": "游戏"
     },
     {
@@ -483,14 +499,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 520313,
-      "num": 520313,
-      "word": "FPX",
-      "onboard_time": 1662804151,
-      "rank": 13,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 515982,
       "num": 515982,
       "word": "笑点低怎么当老师啊",
@@ -529,6 +537,14 @@
       "onboard_time": 1662781342,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 464520,
+      "num": 464520,
+      "word": "月亮",
+      "onboard_time": 1662725071,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 455416,
@@ -699,14 +715,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 329304,
-      "num": 329304,
-      "word": "月亮",
-      "onboard_time": 1662725071,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 328730,
       "num": 328730,
       "word": "张艺兴再唱一个人",
@@ -851,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274194,
+      "num": 274194,
+      "word": "没见过这么敷衍的中秋月亮",
+      "onboard_time": 1662803010,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 273474,
       "num": 273474,
       "word": "NBA计划增加季中锦标赛",
@@ -987,6 +1003,30 @@
       "category": "科技"
     },
     {
+      "raw_hot": 244378,
+      "num": 244378,
+      "word": "男子求复合遭拒抢前女友手机",
+      "onboard_time": 1662801870,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244214,
+      "num": 244214,
+      "word": "马丽因拍母子分离戏而崩溃",
+      "onboard_time": 1662805775,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 243264,
+      "num": 243264,
+      "word": "苍兰诀",
+      "onboard_time": 1662799887,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 239741,
       "num": 230462,
       "word": "Apple store",
@@ -1035,14 +1075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 233997,
-      "num": 233997,
-      "word": "男子求复合遭拒抢前女友手机",
-      "onboard_time": 1662801870,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 232007,
       "num": 232007,
       "word": "伊宁市小百姓",
@@ -1073,14 +1105,6 @@
       "onboard_time": 1662789746,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 228211,
-      "num": 228211,
-      "word": "没见过这么敷衍的中秋月亮",
-      "onboard_time": 1662803010,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 225589,
@@ -1163,14 +1187,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 209245,
-      "num": 209245,
-      "word": "苍兰诀",
-      "onboard_time": 1662799887,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 208089,
       "num": 208089,
       "word": "撒娇猫猫最好命",
@@ -1208,6 +1224,14 @@
       "word": "46岁教师靠微光坚持给学生上课",
       "onboard_time": 1662794909,
       "rank": 43,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 193904,
+      "num": 193904,
+      "word": "班主任为51个娃设53个班干部岗位",
+      "onboard_time": 1662805535,
+      "rank": 36,
       "category": "教育,社会新闻"
     },
     {
@@ -1289,6 +1313,14 @@
       "onboard_time": 1662740366,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 172133,
+      "num": 172133,
+      "word": "你买的阳澄湖大闸蟹可能是假的",
+      "onboard_time": 1662805475,
+      "rank": 48,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 170412,
@@ -1387,6 +1419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 150258,
+      "num": 150258,
+      "word": "婚姻里的物质条件很重要吗",
+      "onboard_time": 1662802468,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 150179,
       "num": 150179,
       "word": "再道一声老师好",
@@ -1411,6 +1451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 141172,
+      "num": 141172,
+      "word": "人人的故乡都有个月亮",
+      "onboard_time": 1662806018,
+      "rank": 45,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 141097,
       "num": 141097,
       "word": "黑话律师",
@@ -1425,14 +1473,6 @@
       "onboard_time": 1662790828,
       "rank": 33,
       "category": "其它"
-    },
-    {
-      "raw_hot": 139010,
-      "num": 139010,
-      "word": "废文网",
-      "onboard_time": 1662804755,
-      "rank": 43,
-      "category": "科技"
     },
     {
       "raw_hot": 137765,
@@ -1513,14 +1553,6 @@
       "onboard_time": 1662738029,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 126876,
-      "num": 126876,
-      "word": "婚姻里的物质条件很重要吗",
-      "onboard_time": 1662802468,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 123796,
@@ -1609,14 +1641,6 @@
       "onboard_time": 1662718226,
       "rank": 49,
       "category": "军事"
-    },
-    {
-      "raw_hot": 98205,
-      "num": 98205,
-      "word": "你买的阳澄湖大闸蟹可能是假的",
-      "onboard_time": 1662805475,
-      "rank": 48,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 98189,
@@ -1747,8 +1771,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 43045,
-      "num": 466287,
+      "raw_hot": 55731,
+      "num": 514374,
       "word": "全世界都在唱千里共婵娟",
       "onboard_time": 1662804094,
       "rank": 14,
@@ -1763,6 +1787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 34684,
+      "num": 174228,
+      "word": "万物皆可月饼",
+      "onboard_time": 1662805299,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23884,
       "num": 100920,
       "word": "爱在中秋里团圆",
@@ -1775,14 +1807,6 @@
       "num": 82953,
       "word": "购物平台重现古代中秋飞花令",
       "onboard_time": 1662793227,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22172,
-      "num": 153861,
-      "word": "万物皆可月饼",
-      "onboard_time": 1662805299,
       "rank": 39,
       "category": "社会新闻"
     },

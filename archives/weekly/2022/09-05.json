@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662805526488,
+  "endTime": 1662806537708,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -1019,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1493301,
+      "num": 1493301,
+      "word": "枪杀安倍嫌犯人生被拍成电影",
+      "onboard_time": 1662802108,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1471340,
       "num": 488511,
       "word": "网传森碟走职业网球",
@@ -1875,14 +1883,6 @@
       "category": "艺人,教育"
     },
     {
-      "raw_hot": 1055132,
-      "num": 1055132,
-      "word": "枪杀安倍嫌犯人生被拍成电影",
-      "onboard_time": 1662802108,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1054503,
       "num": 1054503,
       "word": "华为Mate50价格曝光",
@@ -1940,7 +1940,7 @@
     },
     {
       "raw_hot": 1034717,
-      "num": 581818,
+      "num": 686585,
       "word": "王鹤棣直播",
       "onboard_time": 1662803252,
       "rank": 10,
@@ -2755,6 +2755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 817142,
+      "num": 817142,
+      "word": "废文网",
+      "onboard_time": 1662804755,
+      "rank": 43,
+      "category": "科技"
+    },
+    {
       "raw_hot": 816403,
       "num": 551483,
       "word": "任光晞不会出轨",
@@ -2897,6 +2905,14 @@
       "onboard_time": 1662795509,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 771325,
+      "num": 771325,
+      "word": "翔松",
+      "onboard_time": 1662802767,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 770825,
@@ -3307,6 +3323,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 679852,
+      "num": 679852,
+      "word": "FPX",
+      "onboard_time": 1662804151,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 677635,
       "num": 677635,
       "word": "方便面一定要试试这样吃",
@@ -3329,14 +3353,6 @@
       "onboard_time": 1662720570,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 672880,
-      "num": 672880,
-      "word": "翔松",
-      "onboard_time": 1662802767,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 672478,
@@ -4179,14 +4195,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 520313,
-      "num": 520313,
-      "word": "FPX",
-      "onboard_time": 1662804151,
-      "rank": 13,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 520258,
       "num": 520258,
       "word": "当地放生协会回应大爷大妈放生矿泉水",
@@ -4753,6 +4761,14 @@
       "onboard_time": 1662620547,
       "rank": 47,
       "category": "科技"
+    },
+    {
+      "raw_hot": 464520,
+      "num": 464520,
+      "word": "月亮",
+      "onboard_time": 1662725071,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 464357,
@@ -6579,14 +6595,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 329304,
-      "num": 329304,
-      "word": "月亮",
-      "onboard_time": 1662725071,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 328730,
       "num": 328730,
       "word": "张艺兴再唱一个人",
@@ -7803,6 +7811,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 274194,
+      "num": 274194,
+      "word": "没见过这么敷衍的中秋月亮",
+      "onboard_time": 1662803010,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 273565,
       "num": 239539,
       "word": "吴建豪跟吴克群说自己是美作",
@@ -8603,6 +8619,22 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 244378,
+      "num": 244378,
+      "word": "男子求复合遭拒抢前女友手机",
+      "onboard_time": 1662801870,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244214,
+      "num": 244214,
+      "word": "马丽因拍母子分离戏而崩溃",
+      "onboard_time": 1662805775,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 244143,
       "num": 244143,
       "word": "原来瀑布还可以这么拍",
@@ -8657,6 +8689,14 @@
       "onboard_time": 1662295288,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243264,
+      "num": 243264,
+      "word": "苍兰诀",
+      "onboard_time": 1662504018,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 243050,
@@ -8915,14 +8955,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 233997,
-      "num": 233997,
-      "word": "男子求复合遭拒抢前女友手机",
-      "onboard_time": 1662801870,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 232604,
       "num": 232604,
       "word": "林雨申眼神故事感",
@@ -9065,14 +9097,6 @@
       "onboard_time": 1662300332,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 228211,
-      "num": 228211,
-      "word": "没见过这么敷衍的中秋月亮",
-      "onboard_time": 1662803010,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 228113,
@@ -9595,14 +9619,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 209245,
-      "num": 209245,
-      "word": "苍兰诀",
-      "onboard_time": 1662504018,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
       "raw_hot": 209196,
       "num": 209196,
       "word": "管晨辰获得浙江体坛最佳突破奖",
@@ -9985,6 +10001,14 @@
       "onboard_time": 1662531266,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193904,
+      "num": 193904,
+      "word": "班主任为51个娃设53个班干部岗位",
+      "onboard_time": 1662805535,
+      "rank": 36,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 193440,
@@ -10529,6 +10553,14 @@
       "onboard_time": 1662530905,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 172133,
+      "num": 172133,
+      "word": "你买的阳澄湖大闸蟹可能是假的",
+      "onboard_time": 1662805475,
+      "rank": 48,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 171145,
@@ -11179,6 +11211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 150258,
+      "num": 150258,
+      "word": "婚姻里的物质条件很重要吗",
+      "onboard_time": 1662802468,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 150179,
       "num": 150179,
       "word": "再道一声老师好",
@@ -11427,6 +11467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 141172,
+      "num": 141172,
+      "word": "人人的故乡都有个月亮",
+      "onboard_time": 1662806018,
+      "rank": 45,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 141123,
       "num": 141123,
       "word": "平板能成为生产力工具吗",
@@ -11489,14 +11537,6 @@
       "onboard_time": 1662420082,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 139010,
-      "num": 139010,
-      "word": "废文网",
-      "onboard_time": 1662804755,
-      "rank": 43,
-      "category": "科技"
     },
     {
       "raw_hot": 138990,
@@ -11819,14 +11859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126876,
-      "num": 126876,
-      "word": "婚姻里的物质条件很重要吗",
-      "onboard_time": 1662802468,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 126413,
       "num": 126413,
       "word": "美版iPhone14没有SIM卡槽",
@@ -12129,14 +12161,6 @@
       "onboard_time": 1662518004,
       "rank": 49,
       "category": "科技,财经"
-    },
-    {
-      "raw_hot": 98205,
-      "num": 98205,
-      "word": "你买的阳澄湖大闸蟹可能是假的",
-      "onboard_time": 1662805475,
-      "rank": 48,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 98189,
@@ -12475,6 +12499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 55731,
+      "num": 514374,
+      "word": "全世界都在唱千里共婵娟",
+      "onboard_time": 1662804094,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53181,
       "num": 53181,
       "word": "李欣泽是沉香重华最大boss",
@@ -12529,14 +12561,6 @@
       "onboard_time": 1662585491,
       "rank": 48,
       "category": "科技"
-    },
-    {
-      "raw_hot": 43045,
-      "num": 466287,
-      "word": "全世界都在唱千里共婵娟",
-      "onboard_time": 1662804094,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 42827,
@@ -12600,6 +12624,14 @@
       "word": "震区群众向救援人员竖起大拇指",
       "onboard_time": 1662559290,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34684,
+      "num": 174228,
+      "word": "万物皆可月饼",
+      "onboard_time": 1662805299,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -12687,14 +12719,6 @@
       "num": 169971,
       "word": "人人参与才是大公益",
       "onboard_time": 1662544830,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22172,
-      "num": 153861,
-      "word": "万物皆可月饼",
-      "onboard_time": 1662805299,
       "rank": 39,
       "category": "社会新闻"
     },
