@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662766982521,
+  "endTime": 1662777179070,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -273,6 +273,14 @@
       "onboard_time": 1662592343,
       "rank": 20,
       "category": "科技"
+    },
+    {
+      "raw_hot": 2761698,
+      "num": 2761698,
+      "word": "美国首都华盛顿进入紧急状态",
+      "onboard_time": 1662771066,
+      "rank": 0,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 2760284,
@@ -697,6 +705,14 @@
       "onboard_time": 1662294747,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1732556,
+      "num": 1732556,
+      "word": "中秋节教师节双倍快乐",
+      "onboard_time": 1662765319,
+      "rank": 21,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1724581,
@@ -1369,6 +1385,14 @@
       "onboard_time": 1662514827,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1219253,
+      "num": 495144,
+      "word": "魏晨工作室发文回应",
+      "onboard_time": 1662770605,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1218341,
@@ -2283,6 +2307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 903467,
+      "num": 903467,
+      "word": "玉骨遥",
+      "onboard_time": 1662306090,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 902699,
       "num": 902699,
       "word": "震中海螺沟2个酒店楼体全塌了",
@@ -2795,6 +2827,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 723037,
+      "num": 723037,
+      "word": "成都为24小时便利店占比最高城市",
+      "onboard_time": 1662772406,
+      "rank": 5,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 722983,
       "num": 722983,
       "word": "将博士后人员作为补充师资重要来源",
@@ -2940,7 +2980,7 @@
     },
     {
       "raw_hot": 702885,
-      "num": 231890,
+      "num": 248246,
       "word": "网传老人因饥饿上吊自杀不属实",
       "onboard_time": 1662738808,
       "rank": 20,
@@ -3089,6 +3129,14 @@
       "onboard_time": 1662364589,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 660542,
+      "num": 487243,
+      "word": "张紫宁 抱歉粗心没仔细审查文案",
+      "onboard_time": 1662771324,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 657785,
@@ -3683,6 +3731,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 545104,
+      "num": 545104,
+      "word": "从没完整的用过一包纸巾",
+      "onboard_time": 1662771685,
+      "rank": 8,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 539746,
       "num": 539746,
       "word": "3岁萌娃不愿上自己家族的幼儿园",
@@ -3873,6 +3929,14 @@
       "onboard_time": 1662607346,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 507239,
+      "num": 507239,
+      "word": "笑点低怎么当老师啊",
+      "onboard_time": 1662773906,
+      "rank": 9,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 507073,
@@ -4393,6 +4457,14 @@
       "onboard_time": 1662633030,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 455416,
+      "num": 455416,
+      "word": "西藏新增本土无症状306例",
+      "onboard_time": 1662773906,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 454897,
@@ -6019,6 +6091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 330958,
+      "num": 330958,
+      "word": "山东有了新slogan",
+      "onboard_time": 1662766820,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 330561,
       "num": 330561,
       "word": "特拉斯正式就任英国首相",
@@ -6659,6 +6739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 295239,
+      "num": 295239,
+      "word": "北京9月9日新增16例本土确诊病例",
+      "onboard_time": 1662769583,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295224,
       "num": 295224,
       "word": "妈妈改装帆布袋买菜遛猫两不误",
@@ -7291,6 +7379,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 268989,
+      "num": 268989,
+      "word": "小美人鱼真人电影首支预告",
+      "onboard_time": 1662775525,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 268250,
       "num": 268250,
       "word": "北京化工大学昌平校区报告新增1例",
@@ -7449,6 +7545,14 @@
       "onboard_time": 1662619046,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 263177,
+      "num": 263177,
+      "word": "缘分真的是命中注定的吗",
+      "onboard_time": 1662768144,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 263024,
@@ -7747,6 +7851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248687,
+      "num": 248687,
+      "word": "9月9日新增本土确诊239例",
+      "onboard_time": 1662773004,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248619,
       "num": 248619,
       "word": "顺丰涉数百个运输合同纠纷",
@@ -7787,12 +7899,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 246637,
-      "num": 246637,
-      "word": "玉骨遥",
-      "onboard_time": 1662306090,
-      "rank": 31,
-      "category": "影视"
+      "raw_hot": 247057,
+      "num": 247057,
+      "word": "东兴疫情防控",
+      "onboard_time": 1662771384,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246304,
@@ -7819,6 +7931,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 245530,
+      "num": 245530,
+      "word": "成都新增本土确诊36例",
+      "onboard_time": 1662776486,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245491,
       "num": 245491,
       "word": "恋爱的夏天关系乱",
@@ -7833,6 +7953,14 @@
       "onboard_time": 1662522387,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 245078,
+      "num": 245078,
+      "word": "饿了么",
+      "onboard_time": 1662773004,
+      "rank": 23,
+      "category": "科技"
     },
     {
       "raw_hot": 245046,
@@ -7953,14 +8081,6 @@
       "onboard_time": 1662611311,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 241855,
-      "num": 241855,
-      "word": "中秋节教师节双倍快乐",
-      "onboard_time": 1662765319,
-      "rank": 21,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 241834,
@@ -8624,6 +8744,14 @@
       "word": "陈立农嗑cp时的表情",
       "onboard_time": 1662737789,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 213216,
+      "num": 213216,
+      "word": "倪萍主持20年从未出错",
+      "onboard_time": 1662769826,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -9451,12 +9579,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179664,
+      "num": 179664,
+      "word": "腾讯视频金鹅荣誉剧集获奖名单",
+      "onboard_time": 1662774446,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 179175,
       "num": 179175,
       "word": "柳州教育局呼吁抵制向老师变相行贿",
       "onboard_time": 1662508353,
       "rank": 37,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 179076,
+      "num": 179076,
+      "word": "wps",
+      "onboard_time": 1662776366,
+      "rank": 31,
+      "category": "科技"
     },
     {
       "raw_hot": 178840,
@@ -9835,6 +9979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163302,
+      "num": 163302,
+      "word": "黑话律师bigmouth是房长",
+      "onboard_time": 1662776724,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 163268,
       "num": 144720,
       "word": "中国新闻周刊说梦华录是今年唯一爆款古偶",
@@ -9937,6 +10089,14 @@
       "onboard_time": 1662637410,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160324,
+      "num": 160324,
+      "word": "教师节",
+      "onboard_time": 1662767722,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 159953,
@@ -10177,6 +10337,14 @@
       "onboard_time": 1662682178,
       "rank": 43,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 150683,
+      "num": 150683,
+      "word": "中秋祝福语",
+      "onboard_time": 1662768083,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 150478,
@@ -10723,6 +10891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129840,
+      "num": 129840,
+      "word": "6位耄耋老人探望101岁老师",
+      "onboard_time": 1662767302,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129463,
       "num": 129463,
       "word": "平板支撑的正确动作示范",
@@ -10875,6 +11051,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 119487,
+      "num": 119487,
+      "word": "陈幸同",
+      "onboard_time": 1662769645,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119341,
       "num": 119341,
       "word": "扒拉熊猫是啥体验",
@@ -11025,6 +11209,14 @@
       "onboard_time": 1662661456,
       "rank": 48,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 106852,
+      "num": 106852,
+      "word": "给月亮的悄悄话",
+      "onboard_time": 1662777084,
+      "rank": 49,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 105701,
@@ -11329,14 +11521,6 @@
       "onboard_time": 1662667032,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 56642,
-      "num": 56642,
-      "word": "山东有了新slogan",
-      "onboard_time": 1662766820,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 53181,
