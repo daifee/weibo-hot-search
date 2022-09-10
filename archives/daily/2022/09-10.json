@@ -1,6 +1,6 @@
 {
   "startTime": 1662741216675,
-  "endTime": 1662808773179,
+  "endTime": 1662809793937,
   "band_list": [
     {
       "raw_hot": 3263432,
@@ -43,12 +43,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1941593,
+      "num": 1941593,
+      "word": "月亮",
+      "onboard_time": 1662725071,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1830154,
       "num": 858717,
       "word": "爸是原件儿子复印件妈是打印机",
       "onboard_time": 1662786387,
       "rank": 5,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 1777057,
+      "num": 1777057,
+      "word": "废文网",
+      "onboard_time": 1662804755,
+      "rank": 43,
+      "category": "科技"
     },
     {
       "raw_hot": 1732556,
@@ -88,14 +104,6 @@
       "word": "iPhone13Pro系列停产",
       "onboard_time": 1662794848,
       "rank": 15,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 1450791,
-      "num": 1450791,
-      "word": "废文网",
-      "onboard_time": 1662804755,
-      "rank": 43,
       "category": "科技"
     },
     {
@@ -155,12 +163,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1131212,
-      "num": 1131212,
-      "word": "月亮",
-      "onboard_time": 1662725071,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 1124913,
+      "num": 282887,
+      "word": "赵露思给剧组工作人员发中秋红包",
+      "onboard_time": 1662809684,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1106578,
+      "num": 537373,
+      "word": "武宁二中",
+      "onboard_time": 1662806558,
+      "rank": 11,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1095686,
+      "num": 1095686,
+      "word": "央视中秋晚会",
+      "onboard_time": 1662808480,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 1034717,
@@ -355,14 +379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 731720,
-      "num": 731720,
-      "word": "央视中秋晚会",
-      "onboard_time": 1662808480,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 723037,
       "num": 723037,
       "word": "成都为24小时便利店占比最高城市",
@@ -409,14 +425,6 @@
       "onboard_time": 1662771324,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 648841,
-      "num": 537373,
-      "word": "武宁二中",
-      "onboard_time": 1662806558,
-      "rank": 11,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 642154,
@@ -547,6 +555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 503330,
+      "num": 503330,
+      "word": "班主任为51个娃设53个班干部岗位",
+      "onboard_time": 1662805535,
+      "rank": 36,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 491818,
       "num": 491818,
       "word": "2022年我国系统重要性银行名单",
@@ -577,6 +593,14 @@
       "onboard_time": 1662773906,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 427971,
+      "num": 427971,
+      "word": "湖南卫视中秋全员晒离家有多远",
+      "onboard_time": 1662808782,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 427555,
@@ -665,14 +689,6 @@
       "onboard_time": 1662807763,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 369466,
-      "num": 369466,
-      "word": "班主任为51个娃设53个班干部岗位",
-      "onboard_time": 1662805535,
-      "rank": 36,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 354263,
@@ -835,6 +851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 295871,
+      "num": 295871,
+      "word": "你买的阳澄湖大闸蟹可能是假的",
+      "onboard_time": 1662805475,
+      "rank": 48,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 295239,
       "num": 295239,
       "word": "北京9月9日新增16例本土确诊病例",
@@ -988,7 +1012,7 @@
     },
     {
       "raw_hot": 256376,
-      "num": 1472587,
+      "num": 1812641,
       "word": "中秋遇上教师节",
       "onboard_time": 1662738628,
       "rank": 2,
@@ -1089,14 +1113,6 @@
       "onboard_time": 1662724766,
       "rank": 23,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 237202,
-      "num": 237202,
-      "word": "你买的阳澄湖大闸蟹可能是假的",
-      "onboard_time": 1662805475,
-      "rank": 48,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 236995,
@@ -1435,6 +1451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155828,
+      "num": 155828,
+      "word": "陈幸同vs崔孝珠",
+      "onboard_time": 1662807944,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151726,
       "num": 151726,
       "word": "杨戬票房破4亿",
@@ -1481,14 +1505,6 @@
       "onboard_time": 1662726870,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147726,
-      "num": 147726,
-      "word": "陈幸同vs崔孝珠",
-      "onboard_time": 1662807944,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 145724,
@@ -1697,6 +1713,14 @@
       "onboard_time": 1662718226,
       "rank": 49,
       "category": "军事"
+    },
+    {
+      "raw_hot": 98598,
+      "num": 98598,
+      "word": "今年教师节不用上课",
+      "onboard_time": 1662809207,
+      "rank": 47,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 98189,

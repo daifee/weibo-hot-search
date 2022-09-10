@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662808773179,
+  "endTime": 1662809793937,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -955,6 +955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1941593,
+      "num": 1941593,
+      "word": "月亮",
+      "onboard_time": 1662725071,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1941222,
       "num": 1941222,
       "word": "泸定县城震后画面",
@@ -1201,6 +1209,14 @@
       "onboard_time": 1662692670,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1777057,
+      "num": 1777057,
+      "word": "废文网",
+      "onboard_time": 1662804755,
+      "rank": 43,
+      "category": "科技"
     },
     {
       "raw_hot": 1772560,
@@ -1825,14 +1841,6 @@
       "onboard_time": 1662711689,
       "rank": 36,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 1450791,
-      "num": 1450791,
-      "word": "废文网",
-      "onboard_time": 1662804755,
-      "rank": 43,
-      "category": "科技"
     },
     {
       "raw_hot": 1444417,
@@ -2795,14 +2803,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 1131212,
-      "num": 1131212,
-      "word": "月亮",
-      "onboard_time": 1662725071,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1130215,
       "num": 536082,
       "word": "关注新疆伊犁疫情",
@@ -2825,6 +2825,14 @@
       "onboard_time": 1662428307,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1124913,
+      "num": 282887,
+      "word": "赵露思给剧组工作人员发中秋红包",
+      "onboard_time": 1662809684,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1123731,
@@ -2907,6 +2915,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1106578,
+      "num": 537373,
+      "word": "武宁二中",
+      "onboard_time": 1662806558,
+      "rank": 11,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1104601,
       "num": 493239,
       "word": "男子求复合遭拒强制猥亵前女友",
@@ -2937,6 +2953,14 @@
       "onboard_time": 1662197968,
       "rank": 3,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1095686,
+      "num": 1095686,
+      "word": "央视中秋晚会",
+      "onboard_time": 1662808480,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 1094390,
@@ -5131,14 +5155,6 @@
       "category": "军事,国外要闻"
     },
     {
-      "raw_hot": 731720,
-      "num": 731720,
-      "word": "央视中秋晚会",
-      "onboard_time": 1662808480,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 730350,
       "num": 380618,
       "word": "赵丽颖林更新一起吊威亚路透",
@@ -5785,14 +5801,6 @@
       "onboard_time": 1662727710,
       "rank": 48,
       "category": "科技"
-    },
-    {
-      "raw_hot": 648841,
-      "num": 537373,
-      "word": "武宁二中",
-      "onboard_time": 1662806558,
-      "rank": 11,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 648751,
@@ -7379,6 +7387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 503330,
+      "num": 503330,
+      "word": "班主任为51个娃设53个班干部岗位",
+      "onboard_time": 1662805535,
+      "rank": 36,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 503051,
       "num": 503051,
       "word": "中国产出了全球几乎全部杨梅",
@@ -8729,6 +8745,14 @@
       "onboard_time": 1662365430,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 427971,
+      "num": 427971,
+      "word": "湖南卫视中秋全员晒离家有多远",
+      "onboard_time": 1662808782,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 427745,
@@ -10249,14 +10273,6 @@
       "onboard_time": 1662807763,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 369466,
-      "num": 369466,
-      "word": "班主任为51个娃设53个班干部岗位",
-      "onboard_time": 1662805535,
-      "rank": 36,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 369044,
@@ -12651,6 +12667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 295871,
+      "num": 295871,
+      "word": "你买的阳澄湖大闸蟹可能是假的",
+      "onboard_time": 1662805475,
+      "rank": 48,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 295703,
       "num": 295703,
       "word": "极限挑战",
@@ -14444,7 +14468,7 @@
     },
     {
       "raw_hot": 256376,
-      "num": 1472587,
+      "num": 1812641,
       "word": "中秋遇上教师节",
       "onboard_time": 1662738628,
       "rank": 2,
@@ -15265,14 +15289,6 @@
       "onboard_time": 1662265525,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 237202,
-      "num": 237202,
-      "word": "你买的阳澄湖大闸蟹可能是假的",
-      "onboard_time": 1662805475,
-      "rank": 48,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 236995,
@@ -18803,6 +18819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155828,
+      "num": 155828,
+      "word": "陈幸同vs崔孝珠",
+      "onboard_time": 1662807944,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155687,
       "num": 155687,
       "word": "陈楚生放映室",
@@ -19225,14 +19249,6 @@
       "onboard_time": 1662622827,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 147726,
-      "num": 147726,
-      "word": "陈幸同vs崔孝珠",
-      "onboard_time": 1662807944,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 147609,
@@ -20641,6 +20657,14 @@
       "onboard_time": 1662232332,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98598,
+      "num": 98598,
+      "word": "今年教师节不用上课",
+      "onboard_time": 1662809207,
+      "rank": 47,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 98189,
