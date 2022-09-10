@@ -1,14 +1,22 @@
 {
   "startTime": 1662741216675,
-  "endTime": 1662813661069,
+  "endTime": 1662815048184,
   "band_list": [
     {
-      "raw_hot": 3368195,
-      "num": 3368195,
+      "raw_hot": 3618579,
+      "num": 3618579,
       "word": "月亮",
       "onboard_time": 1662725071,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3383705,
+      "num": 3383705,
+      "word": "央视中秋晚会",
+      "onboard_time": 1662808480,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 3263432,
@@ -51,14 +59,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 2044913,
-      "num": 2044913,
-      "word": "央视中秋晚会",
-      "onboard_time": 1662808480,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1830154,
       "num": 858717,
       "word": "爸是原件儿子复印件妈是打印机",
@@ -88,6 +88,14 @@
       "word": "蔡明建议不要给年轻人建议",
       "onboard_time": 1662793227,
       "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1629552,
+      "num": 1003041,
+      "word": "凤凰传奇 汪苏泷",
+      "onboard_time": 1662813166,
+      "rank": 8,
       "category": "综艺"
     },
     {
@@ -137,6 +145,14 @@
       "onboard_time": 1662783083,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1294630,
+      "num": 280253,
+      "word": "何洛洛严浩翔军训同框",
+      "onboard_time": 1662814428,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1219253,
@@ -323,11 +339,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 793760,
+      "num": 793760,
+      "word": "中秋文案",
+      "onboard_time": 1662814186,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 790938,
       "num": 790938,
       "word": "中国传媒大学出现1例初筛阳性",
       "onboard_time": 1662725789,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 785621,
+      "num": 785621,
+      "word": "南京农业大学",
+      "onboard_time": 1662813286,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -489,14 +521,6 @@
       "onboard_time": 1662776486,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 563468,
-      "num": 563468,
-      "word": "凤凰传奇 汪苏泷",
-      "onboard_time": 1662813166,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 558986,
@@ -907,6 +931,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 295524,
+      "num": 295524,
+      "word": "宋佳辛柏青含泪再唱人世间",
+      "onboard_time": 1662814485,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 295239,
       "num": 295239,
       "word": "北京9月9日新增16例本土确诊病例",
@@ -931,14 +963,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 289064,
-      "num": 289064,
-      "word": "南京农业大学",
-      "onboard_time": 1662813286,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 288632,
       "num": 288632,
       "word": "一人一句中秋祝福",
@@ -953,6 +977,22 @@
       "onboard_time": 1662779125,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 284598,
+      "num": 269975,
+      "word": "肖战游泳骑车vlog",
+      "onboard_time": 1662814064,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 283547,
+      "num": 283547,
+      "word": "用户7788154058",
+      "onboard_time": 1662814485,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 282320,
@@ -1267,6 +1307,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 224289,
+      "num": 224289,
+      "word": "周深花开忘忧首唱舞台寄相思",
+      "onboard_time": 1662814667,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222067,
       "num": 222067,
       "word": "北京8例新增感染者详情公布",
@@ -1355,6 +1403,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 198059,
+      "num": 187890,
+      "word": "听阿云嘎萨顶顶合唱像云游月宫",
+      "onboard_time": 1662814120,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196447,
       "num": 114448,
       "word": "周深发长文谈自己的梦",
@@ -1377,6 +1433,14 @@
       "onboard_time": 1662725431,
       "rank": 31,
       "category": "科技"
+    },
+    {
+      "raw_hot": 187165,
+      "num": 187165,
+      "word": "拍下成都的月亮送给你",
+      "onboard_time": 1662814845,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186015,
@@ -1531,6 +1595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155596,
+      "num": 155596,
+      "word": "特优声2仲夏夜之梦舞台",
+      "onboard_time": 1662814245,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151726,
       "num": 151726,
       "word": "杨戬票房破4亿",
@@ -1611,6 +1683,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 137803,
+      "num": 137803,
+      "word": "童瑶造型",
+      "onboard_time": 1662814968,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 137765,
       "num": 137765,
       "word": "女子求职被告知有男朋友一律不招",
@@ -1643,20 +1723,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134421,
+      "num": 134421,
+      "word": "陈幸同获成都世乒赛资格",
+      "onboard_time": 1662811788,
+      "rank": 39,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 134271,
       "num": 134271,
       "word": "贺峻霖大影节主持好稳",
       "onboard_time": 1662731432,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 133763,
-      "num": 133763,
-      "word": "陈幸同获成都世乒赛资格",
-      "onboard_time": 1662811788,
-      "rank": 39,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 133241,
@@ -1673,6 +1753,14 @@
       "onboard_time": 1662779187,
       "rank": 38,
       "category": "动漫,情感"
+    },
+    {
+      "raw_hot": 132396,
+      "num": 132396,
+      "word": "广西一女孩小区玩耍被2条恶犬追咬",
+      "onboard_time": 1662814785,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131024,
@@ -1779,6 +1867,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 111030,
+      "num": 313360,
+      "word": "中国人的月亮情结有多深",
+      "onboard_time": 1662814845,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108211,
       "num": 108211,
       "word": "苍兰诀OST今夏封神",
@@ -1880,6 +1976,14 @@
       "word": "孤岛24勇士用树枝做旗杆撑五星红旗",
       "onboard_time": 1662796707,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 79186,
+      "num": 2528958,
+      "word": "拍一拍中秋月亮",
+      "onboard_time": 1662811248,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
