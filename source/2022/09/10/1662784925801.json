@@ -1,0 +1,410 @@
+{
+  "runTime": 1662784925801,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 990300,
+        "num": 990300,
+        "word": "高度近视一定要定期做检查",
+        "onboard_time": 1662777804,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 822175,
+        "num": 822175,
+        "word": "男子放弃逃生拉闸泄洪救了几百人",
+        "onboard_time": 1662737789,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159424,
+        "num": 755668,
+        "word": "中秋遇上教师节",
+        "onboard_time": 1662738628,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2590984,
+        "num": 753239,
+        "word": "老公出轨是及时挽回还是果断分开",
+        "onboard_time": 1662782606,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 847981,
+        "num": 751807,
+        "word": "美国首都华盛顿进入紧急状态",
+        "onboard_time": 1662771066,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 749007,
+        "num": 749007,
+        "word": "中国传媒大学实行应急封闭管理",
+        "onboard_time": 1662780324,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1398027,
+        "num": 744022,
+        "word": "吴磊赵露思月升沧海中秋海报",
+        "onboard_time": 1662783083,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 725991,
+        "num": 725991,
+        "word": "中秋节教师节双倍快乐",
+        "onboard_time": 1662765319,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 670688,
+        "num": 670688,
+        "word": "警方通报贵阳花果园19岁女孩坠亡",
+        "onboard_time": 1662783445,
+        "rank": 8,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 624226,
+        "num": 624226,
+        "word": "山东一村庄出了300余名教师",
+        "onboard_time": 1662781586,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 653296,
+        "num": 611987,
+        "word": "wps",
+        "onboard_time": 1662776366,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 550854,
+        "num": 550854,
+        "word": "爱的二八定律中秋家居感剧照",
+        "onboard_time": 1662784525,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 545738,
+        "num": 545738,
+        "word": "魏晨工作室发文回应",
+        "onboard_time": 1662770605,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 474030,
+        "num": 474030,
+        "word": "肖战玉骨遥中秋海报",
+        "onboard_time": 1662781342,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 441994,
+        "num": 441994,
+        "word": "黑话律师bigmouth是房长",
+        "onboard_time": 1662776724,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 405892,
+        "num": 405892,
+        "word": "安乐传",
+        "onboard_time": 1662783207,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 381517,
+        "num": 381517,
+        "word": "搜救犬让地震获救的二哈蹭饭",
+        "onboard_time": 1662777986,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286932,
+        "num": 286932,
+        "word": "S12抽签规则更新",
+        "onboard_time": 1662779125,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 274010,
+        "num": 274010,
+        "word": "不要因为睡懒觉自责",
+        "onboard_time": 1662783505,
+        "rank": 18,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 273474,
+        "num": 273474,
+        "word": "NBA计划增加季中锦标赛",
+        "onboard_time": 1662780027,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 354079,
+        "num": 269454,
+        "word": "贺峻霖大影节vlog全记录",
+        "onboard_time": 1662784767,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 338934,
+        "num": 266018,
+        "word": "哥你好",
+        "onboard_time": 1662783144,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291136,
+        "num": 263155,
+        "word": "王一博央视秋晚魔术版月下大片",
+        "onboard_time": 1662780565,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258013,
+        "num": 258013,
+        "word": "民航总医院门急诊暂停临时封闭管理",
+        "onboard_time": 1662780985,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257086,
+        "num": 257086,
+        "word": "笑点低怎么当老师啊",
+        "onboard_time": 1662773906,
+        "rank": 24,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 256244,
+        "num": 256244,
+        "word": "河北一中学要求家长不要送礼",
+        "onboard_time": 1662782963,
+        "rank": 25,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 254742,
+        "num": 254742,
+        "word": "父亲信偏方让8岁女儿抽旱烟治脸黄",
+        "onboard_time": 1662739229,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251394,
+        "num": 251394,
+        "word": "这美甲不做是说不过去了",
+        "onboard_time": 1662783028,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 227257,
+        "num": 227257,
+        "word": "成都新增本土确诊36例",
+        "onboard_time": 1662776486,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182926,
+        "num": 182926,
+        "word": "四川新增本土确诊86例无症状82例",
+        "onboard_time": 1662780685,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282320,
+        "num": 179365,
+        "word": "鹅家中秋剧团圆",
+        "onboard_time": 1662784705,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235154,
+        "num": 175920,
+        "word": "张紫宁 抱歉粗心没仔细审查文案",
+        "onboard_time": 1662771324,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229158,
+        "num": 174334,
+        "word": "刘诗诗若曦开播11周年",
+        "onboard_time": 1662778165,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225589,
+        "num": 169392,
+        "word": "你好星期六",
+        "onboard_time": 1662781767,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193231,
+        "num": 165839,
+        "word": "长相思",
+        "onboard_time": 1662778226,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164833,
+        "num": 164833,
+        "word": "从没完整的用过一包纸巾",
+        "onboard_time": 1662771685,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146456,
+        "num": 146456,
+        "word": "缘分真的是命中注定的吗",
+        "onboard_time": 1662768144,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143221,
+        "num": 143221,
+        "word": "iPhone14",
+        "onboard_time": 1662725431,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 137664,
+        "num": 137664,
+        "word": "官方回应高中一个班收8万班费",
+        "onboard_time": 1662746235,
+        "rank": 38,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 127149,
+        "num": 127149,
+        "word": "西藏新增本土无症状306例",
+        "onboard_time": 1662773906,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125755,
+        "num": 125755,
+        "word": "网传老人因饥饿上吊自杀不属实",
+        "onboard_time": 1662738808,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119539,
+        "num": 119539,
+        "word": "伊宁市小百姓",
+        "onboard_time": 1662765499,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115102,
+        "num": 115102,
+        "word": "伊犁回应网传孩子高烧就医困难",
+        "onboard_time": 1662735870,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101580,
+        "num": 101580,
+        "word": "成都为24小时便利店占比最高城市",
+        "onboard_time": 1662772406,
+        "rank": 43,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 93689,
+        "num": 93689,
+        "word": "北京9月9日新增16例本土确诊病例",
+        "onboard_time": 1662769583,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92274,
+        "num": 92274,
+        "word": "AI绘制了一幅中秋花月夜",
+        "onboard_time": 1662783986,
+        "rank": 45,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 89557,
+        "num": 89557,
+        "word": "教师节快乐",
+        "onboard_time": 1662782606,
+        "rank": 46,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 85611,
+        "num": 85611,
+        "word": "教师节",
+        "onboard_time": 1662767722,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 79193,
+        "num": 79193,
+        "word": "马斯克收购推特协议已被终止",
+        "onboard_time": 1662784830,
+        "rank": 48,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 280016,
+        "num": 78846,
+        "word": "倾城亦清欢发布中秋海报",
+        "onboard_time": 1662782425,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#在全社会营造尊师重教的良好风尚#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1662741216675,
-  "endTime": 1662779549688,
+  "endTime": 1662784925801,
   "band_list": [
     {
       "raw_hot": 2761698,
@@ -9,6 +9,14 @@
       "onboard_time": 1662771066,
       "rank": 0,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 2590984,
+      "num": 753239,
+      "word": "老公出轨是及时挽回还是果断分开",
+      "onboard_time": 1662782606,
+      "rank": 3,
+      "category": "情感"
     },
     {
       "raw_hot": 2138898,
@@ -35,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1398027,
+      "num": 744022,
+      "word": "吴磊赵露思月升沧海中秋海报",
+      "onboard_time": 1662783083,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1219253,
       "num": 572209,
       "word": "魏晨工作室发文回应",
@@ -49,6 +65,14 @@
       "onboard_time": 1662739229,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 990300,
+      "num": 990300,
+      "word": "高度近视一定要定期做检查",
+      "onboard_time": 1662777804,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 967065,
@@ -115,6 +139,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 749007,
+      "num": 749007,
+      "word": "中国传媒大学实行应急封闭管理",
+      "onboard_time": 1662780324,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 723037,
       "num": 723037,
       "word": "成都为24小时便利店占比最高城市",
@@ -147,12 +179,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 670688,
+      "num": 670688,
+      "word": "警方通报贵阳花果园19岁女孩坠亡",
+      "onboard_time": 1662783445,
+      "rank": 8,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 660542,
       "num": 487243,
       "word": "张紫宁 抱歉粗心没仔细审查文案",
       "onboard_time": 1662771324,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 624226,
+      "num": 624226,
+      "word": "山东一村庄出了300余名教师",
+      "onboard_time": 1662781586,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 619642,
@@ -171,14 +219,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 572290,
-      "num": 572290,
-      "word": "高度近视一定要定期做检查",
-      "onboard_time": 1662777804,
-      "rank": 8,
-      "category": "情感"
-    },
-    {
       "raw_hot": 572259,
       "num": 572259,
       "word": "成都新增本土确诊36例",
@@ -193,6 +233,14 @@
       "onboard_time": 1662746235,
       "rank": 13,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 550854,
+      "num": 550854,
+      "word": "爱的二八定律中秋家居感剧照",
+      "onboard_time": 1662784525,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 545510,
@@ -243,12 +291,44 @@
       "category": "影视"
     },
     {
+      "raw_hot": 474030,
+      "num": 474030,
+      "word": "肖战玉骨遥中秋海报",
+      "onboard_time": 1662781342,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 455416,
       "num": 455416,
       "word": "西藏新增本土无症状306例",
       "onboard_time": 1662773906,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 405892,
+      "num": 405892,
+      "word": "安乐传",
+      "onboard_time": 1662783207,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 381517,
+      "num": 381517,
+      "word": "搜救犬让地震获救的二哈蹭饭",
+      "onboard_time": 1662777986,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 354079,
+      "num": 269454,
+      "word": "贺峻霖大影节vlog全记录",
+      "onboard_time": 1662784767,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 350621,
@@ -259,20 +339,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 349221,
-      "num": 349221,
-      "word": "搜救犬让地震获救的二哈蹭饭",
-      "onboard_time": 1662777986,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 347207,
       "num": 347207,
       "word": "其实最催泪的还是聊天记录",
       "onboard_time": 1662734970,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 338934,
+      "num": 266018,
+      "word": "哥你好",
+      "onboard_time": 1662783144,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 334121,
@@ -331,6 +411,38 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291136,
+      "num": 263155,
+      "word": "王一博央视秋晚魔术版月下大片",
+      "onboard_time": 1662780565,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 286932,
+      "num": 286932,
+      "word": "S12抽签规则更新",
+      "onboard_time": 1662779125,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 282320,
+      "num": 179365,
+      "word": "鹅家中秋剧团圆",
+      "onboard_time": 1662784705,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 280016,
+      "num": 78846,
+      "word": "倾城亦清欢发布中秋海报",
+      "onboard_time": 1662782425,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 279902,
       "num": 279902,
       "word": "两个人的小森林回应植物学家质疑",
@@ -347,12 +459,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274010,
+      "num": 274010,
+      "word": "不要因为睡懒觉自责",
+      "onboard_time": 1662783505,
+      "rank": 18,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 273474,
+      "num": 273474,
+      "word": "NBA计划增加季中锦标赛",
+      "onboard_time": 1662780027,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 263177,
       "num": 263177,
       "word": "缘分真的是命中注定的吗",
       "onboard_time": 1662768144,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 258013,
+      "num": 258013,
+      "word": "民航总医院门急诊暂停临时封闭管理",
+      "onboard_time": 1662780985,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257721,
@@ -379,12 +515,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256244,
+      "num": 256244,
+      "word": "河北一中学要求家长不要送礼",
+      "onboard_time": 1662782963,
+      "rank": 25,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 252123,
       "num": 252123,
       "word": "从此小说中的侠客有了脸",
       "onboard_time": 1662744857,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 251394,
+      "num": 251394,
+      "word": "这美甲不做是说不过去了",
+      "onboard_time": 1662783028,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 248687,
@@ -475,6 +627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 225589,
+      "num": 169392,
+      "word": "你好星期六",
+      "onboard_time": 1662781767,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220634,
       "num": 532773,
       "word": "中秋心愿",
@@ -555,12 +715,12 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 184249,
-      "num": 184249,
-      "word": "S12抽签规则更新",
-      "onboard_time": 1662779125,
-      "rank": 31,
-      "category": "游戏"
+      "raw_hot": 182926,
+      "num": 182926,
+      "word": "四川新增本土确诊86例无症状82例",
+      "onboard_time": 1662780685,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179664,
@@ -827,6 +987,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 92274,
+      "num": 92274,
+      "word": "AI绘制了一幅中秋花月夜",
+      "onboard_time": 1662783986,
+      "rank": 45,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 90871,
       "num": 90871,
       "word": "仁科 搞笑",
@@ -843,12 +1011,28 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 89557,
+      "num": 89557,
+      "word": "教师节快乐",
+      "onboard_time": 1662782606,
+      "rank": 46,
+      "category": "教育,情感"
+    },
+    {
       "raw_hot": 86537,
       "num": 86537,
       "word": "我评世间有她",
       "onboard_time": 1662743659,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 79193,
+      "num": 79193,
+      "word": "马斯克收购推特协议已被终止",
+      "onboard_time": 1662784830,
+      "rank": 48,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 77674,
