@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662791513876,
+  "endTime": 1662792673507,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -3307,12 +3307,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 999108,
+      "num": 856370,
+      "word": "警方通报男子因儿子被吓割伤狗舌头",
+      "onboard_time": 1662787407,
+      "rank": 9,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 996116,
       "num": 996116,
       "word": "金世佳回应二十不惑2没署名",
       "onboard_time": 1662630928,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 994854,
+      "num": 994854,
+      "word": "央视中秋晚会节目单官宣",
+      "onboard_time": 1662791005,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 992832,
@@ -4177,14 +4193,6 @@
       "onboard_time": 1662177926,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 876040,
-      "num": 856370,
-      "word": "警方通报男子因儿子被吓割伤狗舌头",
-      "onboard_time": 1662787407,
-      "rank": 9,
-      "category": "社会负面"
     },
     {
       "raw_hot": 874786,
@@ -8532,7 +8540,7 @@
     },
     {
       "raw_hot": 427555,
-      "num": 207905,
+      "num": 227979,
       "word": "赵奕欢35年来第一次公主切",
       "onboard_time": 1662790165,
       "rank": 20,
@@ -10521,6 +10529,14 @@
       "onboard_time": 1662639028,
       "rank": 21,
       "category": "教育"
+    },
+    {
+      "raw_hot": 350536,
+      "num": 350536,
+      "word": "狗狗发现漏电不停狂吠提醒",
+      "onboard_time": 1662790046,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 350116,
@@ -12579,6 +12595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 289778,
+      "num": 289778,
+      "word": "她们的名字 宣传",
+      "onboard_time": 1662787829,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 289437,
       "num": 289437,
       "word": "boystory新歌WWMV",
@@ -13363,14 +13387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 272930,
-      "num": 272930,
-      "word": "她们的名字 宣传",
-      "onboard_time": 1662787829,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 272785,
       "num": 272785,
       "word": "蒋兰州 喜欢我是早晚的事",
@@ -13481,14 +13497,6 @@
       "onboard_time": 1662699812,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 270864,
-      "num": 270864,
-      "word": "央视中秋晚会节目单官宣",
-      "onboard_time": 1662791005,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 270801,
@@ -15219,6 +15227,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 228900,
+      "num": 228900,
+      "word": "广东人常说的湿热是什么鬼",
+      "onboard_time": 1662789746,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228783,
       "num": 228783,
       "word": "泸定连发多次地震",
@@ -15385,6 +15401,14 @@
       "onboard_time": 1662096086,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 224838,
+      "num": 224838,
+      "word": "五年级开学女生比同龄男生高一头",
+      "onboard_time": 1662789025,
+      "rank": 47,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 224837,
@@ -16099,14 +16123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 208855,
-      "num": 208855,
-      "word": "狗狗发现漏电不停狂吠提醒",
-      "onboard_time": 1662790046,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 208680,
       "num": 208680,
       "word": "中国男篮线上公开采访",
@@ -16209,14 +16225,6 @@
       "onboard_time": 1662275246,
       "rank": 28,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 206297,
-      "num": 206297,
-      "word": "广东人常说的湿热是什么鬼",
-      "onboard_time": 1662789746,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 205797,
@@ -16833,14 +16841,6 @@
       "onboard_time": 1662084143,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 191027,
-      "num": 191027,
-      "word": "五年级开学女生比同龄男生高一头",
-      "onboard_time": 1662789025,
-      "rank": 47,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 190754,
@@ -19035,6 +19035,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 140087,
+      "num": 93905,
+      "word": "时代少年团T九月刊销量",
+      "onboard_time": 1662790046,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 140054,
       "num": 140054,
       "word": "未来AI提供理财服务会普遍吗",
@@ -20187,6 +20195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 95439,
+      "num": 95439,
+      "word": "校长喊话新生没有家国情怀别考公",
+      "onboard_time": 1662791907,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 92948,
       "num": 92948,
       "word": "大学要参加社团吗",
@@ -20241,6 +20257,14 @@
       "onboard_time": 1662307348,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91003,
+      "num": 91003,
+      "word": "画画圈也太内卷了吧",
+      "onboard_time": 1662792029,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 90942,
@@ -20305,6 +20329,14 @@
       "onboard_time": 1662268648,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87589,
+      "num": 87589,
+      "word": "小伙立志种1亿棵梭梭为家乡挡风沙",
+      "onboard_time": 1662792265,
+      "rank": 43,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 86537,
@@ -20521,6 +20553,14 @@
       "onboard_time": 1662324850,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74418,
+      "num": 74418,
+      "word": "中秋家乡味",
+      "onboard_time": 1662792147,
+      "rank": 45,
+      "category": "美食,情感"
     },
     {
       "raw_hot": 74116,
