@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662816971936,
+  "endTime": 1662817708738,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -27,19 +27,19 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 8424779,
+      "num": 498339,
+      "word": "用户7788154058",
+      "onboard_time": 1662814485,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 7163991,
       "num": 8413991,
       "word": "成都地震",
       "onboard_time": 1662354044,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 7010646,
-      "num": 498339,
-      "word": "用户7788154058",
-      "onboard_time": 1662814485,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1225,6 +1225,14 @@
       "onboard_time": 1662692670,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1778975,
+      "num": 1778975,
+      "word": "刘恺威 央视中秋晚会",
+      "onboard_time": 1662815987,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1777057,
@@ -4019,14 +4027,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 924406,
-      "num": 484795,
-      "word": "刘恺威 央视中秋晚会",
-      "onboard_time": 1662815987,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 922872,
       "num": 922872,
       "word": "985研究生做10个山村孩子的全科老师",
@@ -4635,6 +4635,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 827114,
+      "num": 827114,
+      "word": "中秋文案",
+      "onboard_time": 1662696753,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 824001,
       "num": 824001,
       "word": "相亲男女推诿不买单老板报警",
@@ -4689,14 +4697,6 @@
       "onboard_time": 1662654686,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 815876,
-      "num": 815876,
-      "word": "中秋文案",
-      "onboard_time": 1662696753,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 815724,
@@ -5161,6 +5161,14 @@
       "onboard_time": 1662592402,
       "rank": 23,
       "category": "科技"
+    },
+    {
+      "raw_hot": 743043,
+      "num": 743043,
+      "word": "广西一女孩小区玩耍被2条恶犬追咬",
+      "onboard_time": 1662814785,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 741626,
@@ -6667,6 +6675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 570997,
+      "num": 373309,
+      "word": "周冬雨王一博化身画中人",
+      "onboard_time": 1662816588,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 570492,
       "num": 570492,
       "word": "下一站幸福",
@@ -7145,14 +7161,6 @@
       "onboard_time": 1662287366,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 533962,
-      "num": 533962,
-      "word": "广西一女孩小区玩耍被2条恶犬追咬",
-      "onboard_time": 1662814785,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 533801,
@@ -10179,6 +10187,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 374553,
+      "num": 374553,
+      "word": "拍下成都的月亮送给你",
+      "onboard_time": 1662814845,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 374068,
       "num": 374068,
       "word": "残疾老人打封闭针搬货救重病外孙",
@@ -10217,6 +10233,14 @@
       "onboard_time": 1662561332,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 373284,
+      "num": 333235,
+      "word": "檀健次毛晓彤 孤独颂歌",
+      "onboard_time": 1662817247,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 372871,
@@ -11123,6 +11147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 342432,
+      "num": 2528958,
+      "word": "拍一拍中秋月亮",
+      "onboard_time": 1662811248,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 342208,
       "num": 342208,
       "word": "浙江卫健委回应无薪育儿假期建议",
@@ -11419,14 +11451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 333677,
-      "num": 333677,
-      "word": "拍下成都的月亮送给你",
-      "onboard_time": 1662814845,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 333048,
       "num": 333048,
       "word": "成都新增本土确诊病例105例",
@@ -11625,6 +11649,14 @@
       "onboard_time": 1662383071,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 326974,
+      "num": 269975,
+      "word": "肖战游泳骑车vlog",
+      "onboard_time": 1662814064,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 326652,
@@ -12217,14 +12249,6 @@
       "onboard_time": 1662175405,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 309448,
-      "num": 2528958,
-      "word": "拍一拍中秋月亮",
-      "onboard_time": 1662811248,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 309394,
@@ -13281,14 +13305,6 @@
       "onboard_time": 1662716246,
       "rank": 19,
       "category": "科技"
-    },
-    {
-      "raw_hot": 284598,
-      "num": 269975,
-      "word": "肖战游泳骑车vlog",
-      "onboard_time": 1662814064,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 284589,
@@ -15433,6 +15449,14 @@
       "onboard_time": 1662739586,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 236396,
+      "num": 173841,
+      "word": "任敏中秋造型梦回徽柔",
+      "onboard_time": 1662815807,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 236169,
@@ -18587,14 +18611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 163819,
-      "num": 163819,
-      "word": "任敏中秋造型梦回徽柔",
-      "onboard_time": 1662815807,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 163531,
       "num": 163531,
       "word": "说唱巅峰今天是哈圈秋晚",
@@ -19755,6 +19771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 139652,
+      "num": 139652,
+      "word": "喜鹊飞进教室叼走女生耳机",
+      "onboard_time": 1662816888,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139277,
       "num": 139277,
       "word": "青春环游记推理季2023年上线",
@@ -20539,6 +20563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 117069,
+      "num": 117069,
+      "word": "小学生用白纸做花送老师",
+      "onboard_time": 1662816772,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116417,
       "num": 116417,
       "word": "法考准考证",
@@ -21051,6 +21083,14 @@
       "category": "教育,情感"
     },
     {
+      "raw_hot": 88375,
+      "num": 88375,
+      "word": "不愧是云南的药店",
+      "onboard_time": 1662817425,
+      "rank": 48,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 88269,
       "num": 88269,
       "word": "查理苏新卡",
@@ -21377,14 +21417,6 @@
       "onboard_time": 1661951730,
       "rank": 48,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 67146,
-      "num": 67146,
-      "word": "小学生用白纸做花送老师",
-      "onboard_time": 1662816772,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 66389,
