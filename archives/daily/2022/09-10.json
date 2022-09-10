@@ -1,6 +1,6 @@
 {
   "startTime": 1662741216675,
-  "endTime": 1662785620903,
+  "endTime": 1662788873773,
   "band_list": [
     {
       "raw_hot": 2783989,
@@ -25,6 +25,14 @@
       "onboard_time": 1662735870,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1830154,
+      "num": 858717,
+      "word": "爸是原件儿子复印件妈是打印机",
+      "onboard_time": 1662786387,
+      "rank": 5,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 1732556,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 974180,
-      "num": 764135,
+      "num": 873462,
       "word": "警方通报贵阳花果园19岁女孩坠亡",
       "onboard_time": 1662783445,
       "rank": 8,
@@ -113,6 +121,38 @@
       "onboard_time": 1662776244,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 874645,
+      "num": 874645,
+      "word": "不要因为睡懒觉自责",
+      "onboard_time": 1662783505,
+      "rank": 18,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 873075,
+      "num": 873075,
+      "word": "刘畊宏一口气跑了21公里",
+      "onboard_time": 1662785305,
+      "rank": 31,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 829793,
+      "num": 829793,
+      "word": "刘雨昕朋友圈极简商务风",
+      "onboard_time": 1662786447,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 806529,
+      "num": 806529,
+      "word": "女子吃饭被牛肉噎住吐不出",
+      "onboard_time": 1662785066,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 790938,
@@ -219,6 +259,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 577175,
+      "num": 577175,
+      "word": "前两日iPhone14Pro系列半小时被抢光",
+      "onboard_time": 1662786987,
+      "rank": 8,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 575251,
+      "num": 575251,
+      "word": "警方通报男子因儿子被吓割伤狗舌头",
+      "onboard_time": 1662787407,
+      "rank": 9,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 572259,
       "num": 572259,
       "word": "成都新增本土确诊36例",
@@ -315,12 +371,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 403219,
-      "num": 403219,
-      "word": "不要因为睡懒觉自责",
-      "onboard_time": 1662783505,
-      "rank": 18,
-      "category": "情感,幽默"
+      "raw_hot": 396099,
+      "num": 396099,
+      "word": "虞书欣张彬彬好像都一样",
+      "onboard_time": 1662785666,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 381517,
@@ -329,6 +385,14 @@
       "onboard_time": 1662777986,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 354227,
+      "num": 354227,
+      "word": "这美甲不做是说不过去了",
+      "onboard_time": 1662783028,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 354079,
@@ -403,12 +467,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 299660,
-      "num": 299660,
-      "word": "这美甲不做是说不过去了",
-      "onboard_time": 1662783028,
-      "rank": 27,
-      "category": "幽默"
+      "raw_hot": 305802,
+      "num": 305802,
+      "word": "马斯克收购推特协议已被终止",
+      "onboard_time": 1662784830,
+      "rank": 48,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 296676,
@@ -433,6 +497,14 @@
       "onboard_time": 1662780565,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 288632,
+      "num": 288632,
+      "word": "一人一句中秋祝福",
+      "onboard_time": 1662788485,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 286932,
@@ -475,12 +547,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274120,
+      "num": 274120,
+      "word": "90后教师结婚骑老式自行车迎亲",
+      "onboard_time": 1662786506,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273474,
       "num": 273474,
       "word": "NBA计划增加季中锦标赛",
       "onboard_time": 1662780027,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 270780,
+      "num": 270780,
+      "word": "她们的名字 宣传",
+      "onboard_time": 1662787829,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 265711,
+      "num": 265711,
+      "word": "王嘉尔问哪首",
+      "onboard_time": 1662786567,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 263177,
@@ -587,14 +683,6 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 239078,
-      "num": 172098,
-      "word": "刘畊宏一口气跑了21公里",
-      "onboard_time": 1662785305,
-      "rank": 31,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 236995,
       "num": 236995,
       "word": "中秋",
@@ -633,6 +721,14 @@
       "onboard_time": 1662778706,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 229493,
+      "num": 176322,
+      "word": "时代少年团黑白质感大片",
+      "onboard_time": 1662785666,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 225589,
@@ -739,14 +835,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 177405,
-      "num": 177405,
-      "word": "女子吃饭被牛肉噎住吐不出",
-      "onboard_time": 1662785066,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 176676,
       "num": 176676,
       "word": "月亮",
@@ -777,6 +865,14 @@
       "onboard_time": 1662748754,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163531,
+      "num": 163531,
+      "word": "说唱巅峰今天是哈圈秋晚",
+      "onboard_time": 1662785905,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 160324,
@@ -947,6 +1043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119477,
+      "num": 377103,
+      "word": "致敬人民教师",
+      "onboard_time": 1662788604,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119273,
       "num": 119273,
       "word": "新疆库尔勒市道歉",
@@ -969,6 +1073,14 @@
       "onboard_time": 1662779306,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 112796,
+      "num": 112796,
+      "word": "清华学子与孔子师生梦幻联动",
+      "onboard_time": 1662787230,
+      "rank": 42,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 111733,
@@ -1041,14 +1153,6 @@
       "onboard_time": 1662743659,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 84110,
-      "num": 84110,
-      "word": "马斯克收购推特协议已被终止",
-      "onboard_time": 1662784830,
-      "rank": 48,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 77674,
