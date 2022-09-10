@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662834550116,
+  "endTime": 1662835591667,
   "band_list": [
     {
       "raw_hot": 22037086,
@@ -5219,6 +5219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 754214,
+      "num": 754214,
+      "word": "探清水河",
+      "onboard_time": 1662829891,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 754083,
       "num": 754083,
       "word": "深圳黄码",
@@ -5481,14 +5489,6 @@
       "onboard_time": 1662727471,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 711449,
-      "num": 711449,
-      "word": "探清水河",
-      "onboard_time": 1662829891,
-      "rank": 12,
-      "category": "音乐"
     },
     {
       "raw_hot": 711410,
