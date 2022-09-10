@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662798563334,
+  "endTime": 1662799568570,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -1019,20 +1019,20 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1460354,
+      "num": 1449458,
+      "word": "iPhone13Pro系列停产",
+      "onboard_time": 1662794848,
+      "rank": 15,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1452463,
       "num": 1452463,
       "word": "中专生读博后回大学任教",
       "onboard_time": 1662711689,
       "rank": 36,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 1449458,
-      "num": 1449458,
-      "word": "iPhone13Pro系列停产",
-      "onboard_time": 1662794848,
-      "rank": 15,
-      "category": "科技"
     },
     {
       "raw_hot": 1444417,
@@ -2452,7 +2452,7 @@
     },
     {
       "raw_hot": 902383,
-      "num": 188864,
+      "num": 201321,
       "word": "艾热当爸爸了",
       "onboard_time": 1662793285,
       "rank": 20,
@@ -2833,6 +2833,14 @@
       "onboard_time": 1662428546,
       "rank": 9,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 772728,
+      "num": 772728,
+      "word": "男子谎称家人因地震离世诈骗被拘",
+      "onboard_time": 1662795509,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 770825,
@@ -3659,14 +3667,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 603824,
-      "num": 603824,
-      "word": "男子谎称家人因地震离世诈骗被拘",
-      "onboard_time": 1662795509,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 603161,
       "num": 603161,
       "word": "男子连玩441小时游戏被封号",
@@ -4121,6 +4121,14 @@
       "onboard_time": 1662376292,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 516699,
+      "num": 516699,
+      "word": "分享欲真的很重要吗",
+      "onboard_time": 1662795809,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 515982,
@@ -4739,6 +4747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 453419,
+      "num": 453419,
+      "word": "刘青松",
+      "onboard_time": 1662798386,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 452876,
       "num": 452876,
       "word": "公司回应发放轴承钢月饼",
@@ -5017,14 +5033,6 @@
       "onboard_time": 1662514049,
       "rank": 15,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 424054,
-      "num": 424054,
-      "word": "分享欲真的很重要吗",
-      "onboard_time": 1662795809,
-      "rank": 7,
-      "category": "情感"
     },
     {
       "raw_hot": 423530,
@@ -5363,6 +5371,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 400083,
+      "num": 201069,
+      "word": "龚俊非主流中秋文案",
+      "onboard_time": 1662798327,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 397043,
       "num": 397043,
       "word": "美国NSA网络攻击中国上万次",
@@ -5513,6 +5529,14 @@
       "onboard_time": 1662508468,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 387308,
+      "num": 387308,
+      "word": "终于等到GAI张艺兴唱亢龙有悔",
+      "onboard_time": 1662794909,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 387279,
@@ -6019,14 +6043,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 355606,
-      "num": 166462,
-      "word": "龚俊非主流中秋文案",
-      "onboard_time": 1662798327,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 355514,
       "num": 355514,
       "word": "2022暑期档连续剧有效播放榜",
@@ -6483,14 +6499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 326359,
-      "num": 326359,
-      "word": "终于等到GAI张艺兴唱亢龙有悔",
-      "onboard_time": 1662794909,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 325641,
       "num": 323425,
       "word": "罚罪",
@@ -6537,6 +6545,22 @@
       "onboard_time": 1662361289,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 322169,
+      "num": 82148,
+      "word": "金鹰",
+      "onboard_time": 1662799526,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 321384,
+      "num": 321384,
+      "word": "网剧你安全吗",
+      "onboard_time": 1662794969,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 321116,
@@ -7339,6 +7363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286977,
+      "num": 286977,
+      "word": "Angelababy听说很好吃cos嫦娥",
+      "onboard_time": 1662798925,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 286932,
       "num": 286932,
       "word": "S12抽签规则更新",
@@ -8043,6 +8075,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 258895,
+      "num": 258895,
+      "word": "山东教授拒600倍薪资坚守讲台40载",
+      "onboard_time": 1662798145,
+      "rank": 36,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 258413,
       "num": 258413,
       "word": "2022KPL夏季赛最佳阵容",
@@ -8089,14 +8129,6 @@
       "onboard_time": 1662609808,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 257745,
-      "num": 163107,
-      "word": "网剧你安全吗",
-      "onboard_time": 1662794969,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 257721,
@@ -8987,6 +9019,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 225343,
+      "num": 80602,
+      "word": "时代少年团中秋答卷默契测试",
+      "onboard_time": 1662799526,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225321,
       "num": 225321,
       "word": "两个人的小森林首支预告",
@@ -9060,7 +9100,7 @@
     },
     {
       "raw_hot": 221791,
-      "num": 107890,
+      "num": 175788,
       "word": "张杰站在宇航员掌心唱天问",
       "onboard_time": 1662796468,
       "rank": 31,
@@ -9579,6 +9619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 200804,
+      "num": 200804,
+      "word": "中国人第一次在太空过中秋",
+      "onboard_time": 1662798627,
+      "rank": 23,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 200798,
       "num": 200798,
       "word": "张艺兴助阵说唱巅峰总决赛",
@@ -9761,6 +9809,14 @@
       "onboard_time": 1662477692,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 194258,
+      "num": 194258,
+      "word": "46岁教师靠微光坚持给学生上课",
+      "onboard_time": 1662794909,
+      "rank": 43,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 194183,
@@ -10081,6 +10137,14 @@
       "onboard_time": 1662345027,
       "rank": 36,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 182034,
+      "num": 182034,
+      "word": "我的中秋仪式感",
+      "onboard_time": 1662799227,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181914,
@@ -10987,14 +11051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 149677,
-      "num": 149677,
-      "word": "46岁教师靠微光坚持给学生上课",
-      "onboard_time": 1662794909,
-      "rank": 43,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 149308,
       "num": 149308,
       "word": "早餐店老板让数百人免费用餐",
@@ -11033,6 +11089,14 @@
       "onboard_time": 1662725971,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 147956,
+      "num": 181246,
+      "word": "苏炳添捐100万培养高水平运动员",
+      "onboard_time": 1662797965,
+      "rank": 48,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 147775,
@@ -11643,14 +11707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 121897,
-      "num": 121897,
-      "word": "刘青松",
-      "onboard_time": 1662798386,
-      "rank": 27,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 121063,
       "num": 121063,
       "word": "兵哥哥教你8个高效锻炼动作",
@@ -11761,6 +11817,14 @@
       "onboard_time": 1662339986,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 114167,
+      "num": 114167,
+      "word": "为什么想感谢张桂梅校长",
+      "onboard_time": 1662795509,
+      "rank": 34,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 113913,
@@ -11875,20 +11939,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105223,
-      "num": 105223,
-      "word": "为什么想感谢张桂梅校长",
-      "onboard_time": 1662795509,
-      "rank": 34,
-      "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 102442,
-      "num": 102442,
-      "word": "山东教授拒600倍薪资坚守讲台40载",
-      "onboard_time": 1662798145,
-      "rank": 36,
-      "category": "社会新闻,教育"
+      "raw_hot": 104385,
+      "num": 104385,
+      "word": "涉事公司回应一瓶饮料232种配料",
+      "onboard_time": 1662799288,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101445,
@@ -11905,6 +11961,14 @@
       "onboard_time": 1662518004,
       "rank": 49,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 98189,
+      "num": 98189,
+      "word": "原来中秋还有种习俗叫走月",
+      "onboard_time": 1662798925,
+      "rank": 43,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 97844,
@@ -12035,6 +12099,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 84723,
+      "num": 84723,
+      "word": "孤岛24勇士用树枝做旗杆撑五星红旗",
+      "onboard_time": 1662796707,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83150,
       "num": 1772652,
       "word": "泸定生生不息的12个瞬间",
@@ -12155,14 +12227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 72972,
-      "num": 72972,
-      "word": "孤岛24勇士用树枝做旗杆撑五星红旗",
-      "onboard_time": 1662796707,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 72651,
       "num": 72651,
       "word": "今年中秋夜十五的月亮十五圆",
@@ -12183,14 +12247,6 @@
       "num": 70875,
       "word": "张帅无缘美网女单八强",
       "onboard_time": 1662334762,
-      "rank": 48,
-      "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 70609,
-      "num": 70609,
-      "word": "苏炳添捐100万培养高水平运动员",
-      "onboard_time": 1662797965,
       "rank": 48,
       "category": "体育,社会新闻"
     },
@@ -12403,6 +12459,14 @@
       "category": "体育,财经"
     },
     {
+      "raw_hot": 23884,
+      "num": 100920,
+      "word": "爱在中秋里团圆",
+      "onboard_time": 1662797243,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 23158,
       "num": 167147,
       "word": "媒体评9个普通人登上19个app头条",
@@ -12433,14 +12497,6 @@
       "onboard_time": 1662544830,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22111,
-      "num": 89434,
-      "word": "爱在中秋里团圆",
-      "onboard_time": 1662797243,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 21355,

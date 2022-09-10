@@ -1,6 +1,6 @@
 {
   "startTime": 1662741216675,
-  "endTime": 1662798563334,
+  "endTime": 1662799568570,
   "band_list": [
     {
       "raw_hot": 2783989,
@@ -59,7 +59,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1449458,
+      "raw_hot": 1460354,
       "num": 1449458,
       "word": "iPhone13Pro系列停产",
       "onboard_time": 1662794848,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 902383,
-      "num": 188864,
+      "num": 201321,
       "word": "艾热当爸爸了",
       "onboard_time": 1662793285,
       "rank": 20,
@@ -241,6 +241,14 @@
       "onboard_time": 1662739108,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 772728,
+      "num": 772728,
+      "word": "男子谎称家人因地震离世诈骗被拘",
+      "onboard_time": 1662795509,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 760956,
@@ -331,14 +339,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 603824,
-      "num": 603824,
-      "word": "男子谎称家人因地震离世诈骗被拘",
-      "onboard_time": 1662795509,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 600236,
       "num": 600236,
       "word": "校长喊话新生没有家国情怀别考公",
@@ -385,6 +385,14 @@
       "onboard_time": 1662771685,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 516699,
+      "num": 516699,
+      "word": "分享欲真的很重要吗",
+      "onboard_time": 1662795809,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 515982,
@@ -435,20 +443,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 453419,
+      "num": 453419,
+      "word": "刘青松",
+      "onboard_time": 1662798386,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 427555,
       "num": 227979,
       "word": "赵奕欢35年来第一次公主切",
       "onboard_time": 1662790165,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 424054,
-      "num": 424054,
-      "word": "分享欲真的很重要吗",
-      "onboard_time": 1662795809,
-      "rank": 7,
-      "category": "情感"
     },
     {
       "raw_hot": 408742,
@@ -467,6 +475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 400083,
+      "num": 201069,
+      "word": "龚俊非主流中秋文案",
+      "onboard_time": 1662798327,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 396945,
       "num": 396945,
       "word": "90后教师结婚骑老式自行车迎亲",
@@ -483,20 +499,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 387308,
+      "num": 387308,
+      "word": "终于等到GAI张艺兴唱亢龙有悔",
+      "onboard_time": 1662794909,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 381517,
       "num": 381517,
       "word": "搜救犬让地震获救的二哈蹭饭",
       "onboard_time": 1662777986,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 355606,
-      "num": 166462,
-      "word": "龚俊非主流中秋文案",
-      "onboard_time": 1662798327,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 354263,
@@ -579,12 +595,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 326359,
-      "num": 326359,
-      "word": "终于等到GAI张艺兴唱亢龙有悔",
-      "onboard_time": 1662794909,
-      "rank": 14,
-      "category": "综艺"
+      "raw_hot": 322169,
+      "num": 82148,
+      "word": "金鹰",
+      "onboard_time": 1662799526,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 321384,
+      "num": 321384,
+      "word": "网剧你安全吗",
+      "onboard_time": 1662794969,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 320148,
@@ -649,6 +673,14 @@
       "onboard_time": 1662788485,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 286977,
+      "num": 286977,
+      "word": "Angelababy听说很好吃cos嫦娥",
+      "onboard_time": 1662798925,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 286932,
@@ -731,20 +763,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 258895,
+      "num": 258895,
+      "word": "山东教授拒600倍薪资坚守讲台40载",
+      "onboard_time": 1662798145,
+      "rank": 36,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 258013,
       "num": 258013,
       "word": "民航总医院门急诊暂停临时封闭管理",
       "onboard_time": 1662780985,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 257745,
-      "num": 163107,
-      "word": "网剧你安全吗",
-      "onboard_time": 1662794969,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 257721,
@@ -907,6 +939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225343,
+      "num": 80602,
+      "word": "时代少年团中秋答卷默契测试",
+      "onboard_time": 1662799526,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224838,
       "num": 224838,
       "word": "五年级开学女生比同龄男生高一头",
@@ -916,7 +956,7 @@
     },
     {
       "raw_hot": 221791,
-      "num": 107890,
+      "num": 175788,
       "word": "张杰站在宇航员掌心唱天问",
       "onboard_time": 1662796468,
       "rank": 31,
@@ -979,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200804,
+      "num": 200804,
+      "word": "中国人第一次在太空过中秋",
+      "onboard_time": 1662798627,
+      "rank": 23,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 198647,
       "num": 198647,
       "word": "iPhone14Pro系列占中国订单85%",
@@ -993,6 +1041,14 @@
       "onboard_time": 1662792926,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 194258,
+      "num": 194258,
+      "word": "46岁教师靠微光坚持给学生上课",
+      "onboard_time": 1662794909,
+      "rank": 43,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 189725,
@@ -1024,6 +1080,14 @@
       "word": "四川新增本土确诊86例无症状82例",
       "onboard_time": 1662780685,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182034,
+      "num": 182034,
+      "word": "我的中秋仪式感",
+      "onboard_time": 1662799227,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -1163,20 +1227,20 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 149677,
-      "num": 149677,
-      "word": "46岁教师靠微光坚持给学生上课",
-      "onboard_time": 1662794909,
-      "rank": 43,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 149137,
       "num": 149137,
       "word": "警方回应哭诉奔丧缺钱男子实为骗子",
       "onboard_time": 1662726870,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147956,
+      "num": 181246,
+      "word": "苏炳添捐100万培养高水平运动员",
+      "onboard_time": 1662797965,
+      "rank": 48,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 145724,
@@ -1291,14 +1355,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 121897,
-      "num": 121897,
-      "word": "刘青松",
-      "onboard_time": 1662798386,
-      "rank": 27,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 119487,
       "num": 119487,
       "word": "陈幸同",
@@ -1329,6 +1385,14 @@
       "onboard_time": 1662740785,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114167,
+      "num": 114167,
+      "word": "为什么想感谢张桂梅校长",
+      "onboard_time": 1662795509,
+      "rank": 34,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 112874,
@@ -1371,20 +1435,20 @@
       "category": "军事"
     },
     {
-      "raw_hot": 105223,
-      "num": 105223,
-      "word": "为什么想感谢张桂梅校长",
-      "onboard_time": 1662795509,
-      "rank": 34,
-      "category": "教育,社会新闻"
+      "raw_hot": 104385,
+      "num": 104385,
+      "word": "涉事公司回应一瓶饮料232种配料",
+      "onboard_time": 1662799288,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 102442,
-      "num": 102442,
-      "word": "山东教授拒600倍薪资坚守讲台40载",
-      "onboard_time": 1662798145,
-      "rank": 36,
-      "category": "社会新闻,教育"
+      "raw_hot": 98189,
+      "num": 98189,
+      "word": "原来中秋还有种习俗叫走月",
+      "onboard_time": 1662798925,
+      "rank": 43,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 92274,
@@ -1427,6 +1491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 84723,
+      "num": 84723,
+      "word": "孤岛24勇士用树枝做旗杆撑五星红旗",
+      "onboard_time": 1662796707,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77674,
       "num": 77674,
       "word": "第38个教师节",
@@ -1467,22 +1539,6 @@
       "category": "美食,情感"
     },
     {
-      "raw_hot": 72972,
-      "num": 72972,
-      "word": "孤岛24勇士用树枝做旗杆撑五星红旗",
-      "onboard_time": 1662796707,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 70609,
-      "num": 70609,
-      "word": "苏炳添捐100万培养高水平运动员",
-      "onboard_time": 1662797965,
-      "rank": 48,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 69994,
       "num": 69994,
       "word": "月相是如何影响人类生活的",
@@ -1507,20 +1563,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 23884,
+      "num": 100920,
+      "word": "爱在中秋里团圆",
+      "onboard_time": 1662797243,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 22847,
       "num": 82953,
       "word": "购物平台重现古代中秋飞花令",
       "onboard_time": 1662793227,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22111,
-      "num": 89434,
-      "word": "爱在中秋里团圆",
-      "onboard_time": 1662797243,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 18787,
