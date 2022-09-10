@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662801756202,
+  "endTime": 1662802800065,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -467,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2711803,
+      "num": 2711803,
+      "word": "央视中秋晚会节目单官宣",
+      "onboard_time": 1662791005,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2669957,
       "num": 2669957,
       "word": "顺丰宣布不送货上门就赔钱",
@@ -659,14 +667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2317979,
-      "num": 2317979,
-      "word": "央视中秋晚会节目单官宣",
-      "onboard_time": 1662791005,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 2312452,
       "num": 686062,
       "word": "张大大是复旦研究生",
@@ -817,6 +817,14 @@
       "onboard_time": 1662215433,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 2099949,
+      "num": 1131790,
+      "word": "刘青松",
+      "onboard_time": 1662798386,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 2097199,
@@ -1025,14 +1033,6 @@
       "onboard_time": 1662001885,
       "rank": 1,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1900689,
-      "num": 1131790,
-      "word": "刘青松",
-      "onboard_time": 1662798386,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 1894519,
@@ -1547,6 +1547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1572719,
+      "num": 1572719,
+      "word": "金鹰",
+      "onboard_time": 1662799526,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1569619,
       "num": 1569619,
       "word": "6岁女孩因长得像爸爸委屈大哭",
@@ -1817,14 +1825,6 @@
       "onboard_time": 1662611311,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1443302,
-      "num": 1443302,
-      "word": "金鹰",
-      "onboard_time": 1662799526,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 1438466,
@@ -4100,7 +4100,7 @@
     },
     {
       "raw_hot": 902383,
-      "num": 251365,
+      "num": 307347,
       "word": "艾热当爸爸了",
       "onboard_time": 1662793285,
       "rank": 20,
@@ -4545,6 +4545,14 @@
       "onboard_time": 1662213276,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 820358,
+      "num": 455695,
+      "word": "虞书欣跳了PinkVenom",
+      "onboard_time": 1662802171,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 818745,
@@ -5001,6 +5009,14 @@
       "onboard_time": 1662622889,
       "rank": 33,
       "category": "科技"
+    },
+    {
+      "raw_hot": 745024,
+      "num": 745024,
+      "word": "涉事公司回应一瓶饮料232种配料",
+      "onboard_time": 1662799288,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 743476,
@@ -5545,6 +5561,14 @@
       "onboard_time": 1662720570,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 672953,
+      "num": 672953,
+      "word": "查尔斯三世正式宣誓登基成英国新君主",
+      "onboard_time": 1662801569,
+      "rank": 29,
+      "category": "国外要闻,社会新闻"
     },
     {
       "raw_hot": 672588,
@@ -6571,14 +6595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 562824,
-      "num": 562824,
-      "word": "涉事公司回应一瓶饮料232种配料",
-      "onboard_time": 1662799288,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 562577,
       "num": 562577,
       "word": "外卖小哥边抖腿边按亮整部电梯",
@@ -6753,6 +6769,14 @@
       "onboard_time": 1662646717,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 548821,
+      "num": 423519,
+      "word": "Angelababy听说很好吃cos嫦娥",
+      "onboard_time": 1662798925,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 548660,
@@ -7161,14 +7185,6 @@
       "onboard_time": 1662773906,
       "rank": 9,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 514377,
-      "num": 395811,
-      "word": "Angelababy听说很好吃cos嫦娥",
-      "onboard_time": 1662798925,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 513709,
@@ -9268,7 +9284,7 @@
     },
     {
       "raw_hot": 401859,
-      "num": 252910,
+      "num": 308041,
       "word": "龚俊非主流中秋文案",
       "onboard_time": 1662798327,
       "rank": 21,
@@ -9289,6 +9305,14 @@
       "onboard_time": 1662610049,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 401255,
+      "num": 401255,
+      "word": "贵阳新增阳性感染者160例",
+      "onboard_time": 1662799948,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 401220,
@@ -10771,14 +10795,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 346177,
-      "num": 346177,
-      "word": "贵阳新增阳性感染者160例",
-      "onboard_time": 1662799948,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 346014,
       "num": 346014,
       "word": "成都官方说不必盲目囤积生活物资",
@@ -10912,6 +10928,14 @@
       "word": "浙江卫健委回应无薪育儿假期建议",
       "onboard_time": 1662633208,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 341323,
+      "num": 341323,
+      "word": "纽约州因脊髓灰质炎病毒进入紧急状态",
+      "onboard_time": 1662800609,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -11425,6 +11449,14 @@
       "onboard_time": 1662095607,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 323756,
+      "num": 323756,
+      "word": "误把老板千金带走的员工",
+      "onboard_time": 1662800786,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 323664,
@@ -13963,6 +13995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 264888,
+      "num": 264888,
+      "word": "中国人第一次在太空过中秋",
+      "onboard_time": 1662798627,
+      "rank": 23,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 264449,
       "num": 253281,
       "word": "撞人拖行伤者司机最高或面临7年徒刑",
@@ -14097,6 +14137,14 @@
       "onboard_time": 1662782963,
       "rank": 25,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 261451,
+      "num": 261451,
+      "word": "LWX直播",
+      "onboard_time": 1662802650,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 260326,
@@ -15499,14 +15547,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 227218,
-      "num": 227218,
-      "word": "中国人第一次在太空过中秋",
-      "onboard_time": 1662798627,
-      "rank": 23,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 227191,
       "num": 227191,
       "word": "郑州震感来源于此次四川地震",
@@ -15588,7 +15628,7 @@
     },
     {
       "raw_hot": 225343,
-      "num": 162204,
+      "num": 211282,
       "word": "时代少年团中秋答卷默契测试",
       "onboard_time": 1662799526,
       "rank": 48,
@@ -16667,14 +16707,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 200612,
-      "num": 200612,
-      "word": "误把老板千金带走的员工",
-      "onboard_time": 1662800786,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 200282,
       "num": 200282,
       "word": "四川男孩教科书式带领弟弟避震",
@@ -16969,14 +17001,6 @@
       "onboard_time": 1662734431,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 193418,
-      "num": 193418,
-      "word": "纽约州因脊髓灰质炎病毒进入紧急状态",
-      "onboard_time": 1662800609,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 193413,
@@ -17675,6 +17699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178655,
+      "num": 214519,
+      "word": "枪杀安倍嫌犯人生被拍成电影",
+      "onboard_time": 1662802108,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178591,
       "num": 178591,
       "word": "见证历史",
@@ -18321,14 +18353,6 @@
       "onboard_time": 1662628229,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 162211,
-      "num": 162211,
-      "word": "查尔斯三世正式宣誓登基成英国新君主",
-      "onboard_time": 1662801569,
-      "rank": 29,
-      "category": "国外要闻,社会新闻"
     },
     {
       "raw_hot": 161557,
@@ -19339,6 +19363,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 139981,
+      "num": 139981,
+      "word": "北京8例新增感染者详情公布",
+      "onboard_time": 1662802291,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139828,
       "num": 139828,
       "word": "小威无缘美网16强",
@@ -20299,6 +20331,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 109222,
+      "num": 82220,
+      "word": "翔松",
+      "onboard_time": 1662802767,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 108886,
       "num": 108886,
       "word": "如何看待应届生当安保",
@@ -20393,6 +20433,14 @@
       "onboard_time": 1662279569,
       "rank": 47,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 102600,
+      "num": 102600,
+      "word": "男子求复合遭拒抢前女友手机",
+      "onboard_time": 1662801870,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101445,
@@ -20745,6 +20793,14 @@
       "onboard_time": 1662334042,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80057,
+      "num": 80057,
+      "word": "婚姻里的物质条件很重要吗",
+      "onboard_time": 1662802468,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 79620,
