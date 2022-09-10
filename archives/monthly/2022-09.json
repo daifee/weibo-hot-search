@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662777179070,
+  "endTime": 1662779549688,
   "band_list": [
     {
       "raw_hot": 14263487,
@@ -2420,7 +2420,7 @@
     },
     {
       "raw_hot": 1219253,
-      "num": 495144,
+      "num": 572209,
       "word": "魏晨工作室发文回应",
       "onboard_time": 1662770605,
       "rank": 10,
@@ -3875,6 +3875,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 915978,
+      "num": 915978,
+      "word": "吴刚赵露思后浪双节片花",
+      "onboard_time": 1662777445,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 914909,
       "num": 914909,
       "word": "网传王鹤棣将客串狐妖月红篇",
@@ -3937,6 +3945,14 @@
       "onboard_time": 1662121467,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 903646,
+      "num": 903646,
+      "word": "wps",
+      "onboard_time": 1662776366,
+      "rank": 31,
+      "category": "科技"
     },
     {
       "raw_hot": 903467,
@@ -5043,6 +5059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 708819,
+      "num": 708819,
+      "word": "刘诗诗若曦开播11周年",
+      "onboard_time": 1662778165,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 708119,
       "num": 708119,
       "word": "相互喜欢也会分手吗",
@@ -5827,6 +5851,14 @@
       "category": "财经,艺人"
     },
     {
+      "raw_hot": 619642,
+      "num": 571204,
+      "word": "黑话律师bigmouth是房长",
+      "onboard_time": 1662776724,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 618846,
       "num": 618846,
       "word": "四川增68例确诊70例无症状",
@@ -6225,6 +6257,22 @@
       "onboard_time": 1662616587,
       "rank": 38,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 572290,
+      "num": 572290,
+      "word": "高度近视一定要定期做检查",
+      "onboard_time": 1662777804,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 572259,
+      "num": 572259,
+      "word": "成都新增本土确诊36例",
+      "onboard_time": 1662776486,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 572249,
@@ -6891,6 +6939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 515982,
+      "num": 515982,
+      "word": "笑点低怎么当老师啊",
+      "onboard_time": 1662773906,
+      "rank": 9,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 513709,
       "num": 283783,
       "word": "王一博片场随时随地健身",
@@ -6969,14 +7025,6 @@
       "onboard_time": 1662011308,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 507239,
-      "num": 507239,
-      "word": "笑点低怎么当老师啊",
-      "onboard_time": 1662773906,
-      "rank": 9,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 507073,
@@ -7568,6 +7616,14 @@
       "word": "肖战林修崖4周年",
       "onboard_time": 1662179845,
       "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 476425,
+      "num": 476425,
+      "word": "长相思",
+      "onboard_time": 1662778226,
+      "rank": 16,
       "category": "影视"
     },
     {
@@ -10323,6 +10379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 349221,
+      "num": 349221,
+      "word": "搜救犬让地震获救的二哈蹭饭",
+      "onboard_time": 1662777986,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 349100,
       "num": 349100,
       "word": "槐店王婆大虾剩菜重上桌致歉",
@@ -12027,6 +12091,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 296676,
+      "num": 296676,
+      "word": "小美人鱼真人电影首支预告",
+      "onboard_time": 1662775525,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 296586,
       "num": 296586,
       "word": "江苏一村庄为空巢老人提供3元餐",
@@ -13251,14 +13323,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 268989,
-      "num": 268989,
-      "word": "小美人鱼真人电影首支预告",
-      "onboard_time": 1662775525,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 268250,
       "num": 268250,
       "word": "北京化工大学昌平校区报告新增1例",
@@ -14195,14 +14259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 245530,
-      "num": 245530,
-      "word": "成都新增本土确诊36例",
-      "onboard_time": 1662776486,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 245491,
       "num": 245491,
       "word": "恋爱的夏天关系乱",
@@ -14747,6 +14803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 231168,
+      "num": 231168,
+      "word": "与凤行",
+      "onboard_time": 1662778706,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 230740,
       "num": 227016,
       "word": "恋爱的夏天",
@@ -15257,6 +15321,14 @@
       "onboard_time": 1662702327,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 220634,
+      "num": 532773,
+      "word": "中秋心愿",
+      "onboard_time": 1662778826,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219280,
@@ -16771,6 +16843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 184249,
+      "num": 184249,
+      "word": "S12抽签规则更新",
+      "onboard_time": 1662779125,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 184137,
       "num": 171295,
       "word": "四川地震多地震感强烈",
@@ -16977,14 +17057,6 @@
       "onboard_time": 1662508353,
       "rank": 37,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 179076,
-      "num": 179076,
-      "word": "wps",
-      "onboard_time": 1662776366,
-      "rank": 31,
-      "category": "科技"
     },
     {
       "raw_hot": 179072,
@@ -17249,6 +17321,14 @@
       "onboard_time": 1662108807,
       "rank": 38,
       "category": "艺人,美食"
+    },
+    {
+      "raw_hot": 170412,
+      "num": 170412,
+      "word": "张艺兴和网友共创中秋短片",
+      "onboard_time": 1662779367,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 170003,
@@ -17569,14 +17649,6 @@
       "onboard_time": 1662196528,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 163302,
-      "num": 163302,
-      "word": "黑话律师bigmouth是房长",
-      "onboard_time": 1662776724,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 162774,
@@ -18923,6 +18995,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 133117,
+      "num": 133117,
+      "word": "种下秋天第一个心愿",
+      "onboard_time": 1662779187,
+      "rank": 38,
+      "category": "动漫,情感"
+    },
+    {
       "raw_hot": 132613,
       "num": 132613,
       "word": "中超就河南球迷侮辱马宁批评赛区",
@@ -19464,6 +19544,14 @@
       "word": "男子晒老婆结婚生娃前后对比",
       "onboard_time": 1661944648,
       "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 112874,
+      "num": 112874,
+      "word": "中秋温情混剪看哭了",
+      "onboard_time": 1662779306,
+      "rank": 43,
       "category": "情感"
     },
     {
