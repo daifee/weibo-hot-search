@@ -1,6 +1,6 @@
 {
   "startTime": 1662741216675,
-  "endTime": 1662817708738,
+  "endTime": 1662819672822,
   "band_list": [
     {
       "raw_hot": 8424779,
@@ -51,6 +51,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 2603012,
+      "num": 2603012,
+      "word": "檀健次毛晓彤 孤独颂歌",
+      "onboard_time": 1662817247,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2138898,
       "num": 2138898,
       "word": "伊犁回应网传孩子高烧就医困难",
@@ -67,20 +75,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1860669,
+      "num": 1778975,
+      "word": "刘恺威 央视中秋晚会",
+      "onboard_time": 1662815987,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1830154,
       "num": 858717,
       "word": "爸是原件儿子复印件妈是打印机",
       "onboard_time": 1662786387,
       "rank": 5,
       "category": "幽默,社会新闻"
-    },
-    {
-      "raw_hot": 1778975,
-      "num": 1778975,
-      "word": "刘恺威 央视中秋晚会",
-      "onboard_time": 1662815987,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 1777057,
@@ -339,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 856195,
+      "num": 743043,
+      "word": "广西一女孩小区玩耍被2条恶犬追咬",
+      "onboard_time": 1662814785,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 856096,
       "num": 856096,
       "word": "王鹤棣认证檀健次正宗火锅蘸料",
@@ -435,12 +451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 743043,
-      "num": 743043,
-      "word": "广西一女孩小区玩耍被2条恶犬追咬",
-      "onboard_time": 1662814785,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 735367,
+      "num": 389521,
+      "word": "周冬雨王一博化身画中人",
+      "onboard_time": 1662816588,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 723037,
@@ -539,20 +555,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 587650,
+      "num": 372472,
+      "word": "许嵩中秋之夜金曲串烧",
+      "onboard_time": 1662819046,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 572259,
       "num": 572259,
       "word": "成都新增本土确诊36例",
       "onboard_time": 1662776486,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 570997,
-      "num": 373309,
-      "word": "周冬雨王一博化身画中人",
-      "onboard_time": 1662816588,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 558986,
@@ -667,6 +683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 460580,
+      "num": 460580,
+      "word": "喜鹊飞进教室叼走女生耳机",
+      "onboard_time": 1662816888,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 455416,
       "num": 455416,
       "word": "西藏新增本土无症状306例",
@@ -755,6 +779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 375828,
+      "num": 2528958,
+      "word": "拍一拍中秋月亮",
+      "onboard_time": 1662811248,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 374553,
       "num": 374553,
       "word": "拍下成都的月亮送给你",
@@ -763,12 +795,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 373284,
-      "num": 333235,
-      "word": "檀健次毛晓彤 孤独颂歌",
-      "onboard_time": 1662817247,
-      "rank": 15,
-      "category": "综艺"
+      "raw_hot": 373835,
+      "num": 269975,
+      "word": "肖战游泳骑车vlog",
+      "onboard_time": 1662814064,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 371367,
@@ -843,14 +875,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 342432,
-      "num": 2528958,
-      "word": "拍一拍中秋月亮",
-      "onboard_time": 1662811248,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 341323,
       "num": 341323,
       "word": "纽约州因脊髓灰质炎病毒进入紧急状态",
@@ -915,14 +939,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 326974,
-      "num": 269975,
-      "word": "肖战游泳骑车vlog",
-      "onboard_time": 1662814064,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 321384,
       "num": 321384,
       "word": "网剧你安全吗",
@@ -939,12 +955,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 316241,
+      "num": 316241,
+      "word": "小学生用白纸做花送老师",
+      "onboard_time": 1662816772,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315318,
       "num": 252195,
       "word": "你好星期六第四季还有王鹤棣",
       "onboard_time": 1662795750,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 310163,
+      "num": 227482,
+      "word": "任敏中秋造型梦回徽柔",
+      "onboard_time": 1662815807,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 310030,
@@ -1097,6 +1129,14 @@
       "onboard_time": 1662805356,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272380,
+      "num": 272380,
+      "word": "一起看中秋月亮爬上来",
+      "onboard_time": 1662819585,
+      "rank": 17,
+      "category": "自然"
     },
     {
       "raw_hot": 265711,
@@ -1267,20 +1307,20 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 239097,
+      "num": 186140,
+      "word": "曾毅 没来",
+      "onboard_time": 1662819406,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236995,
       "num": 236995,
       "word": "中秋",
       "onboard_time": 1662739586,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 236396,
-      "num": 173841,
-      "word": "任敏中秋造型梦回徽柔",
-      "onboard_time": 1662815807,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 236169,
@@ -1403,6 +1443,14 @@
       "category": "自然,社会新闻"
     },
     {
+      "raw_hot": 216652,
+      "num": 216652,
+      "word": "40秒看中秋明月升起全程",
+      "onboard_time": 1662819104,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216469,
       "num": 188788,
       "word": "田曦薇玉兔锦鲤随拍",
@@ -1491,12 +1539,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 190179,
+      "num": 190179,
+      "word": "F1",
+      "onboard_time": 1662818264,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189725,
       "num": 179372,
       "word": "iPhone14",
       "onboard_time": 1662725431,
       "rank": 31,
       "category": "科技"
+    },
+    {
+      "raw_hot": 187186,
+      "num": 187186,
+      "word": "不愧是云南的药店",
+      "onboard_time": 1662817425,
+      "rank": 48,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 186015,
@@ -1571,6 +1635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 176047,
+      "num": 176047,
+      "word": "韩庚街舞第一次被动作支配",
+      "onboard_time": 1662818922,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170412,
       "num": 170412,
       "word": "张艺兴和网友共创中秋短片",
@@ -1641,6 +1713,14 @@
       "onboard_time": 1662765379,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155829,
+      "num": 132489,
+      "word": "周华健线上演唱会",
+      "onboard_time": 1662817844,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 155828,
@@ -1755,14 +1835,6 @@
       "category": "其它"
     },
     {
-      "raw_hot": 139652,
-      "num": 139652,
-      "word": "喜鹊飞进教室叼走女生耳机",
-      "onboard_time": 1662816888,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 137803,
       "num": 137803,
       "word": "童瑶造型",
@@ -1825,6 +1897,14 @@
       "onboard_time": 1662779187,
       "rank": 38,
       "category": "动漫,情感"
+    },
+    {
+      "raw_hot": 132721,
+      "num": 120776,
+      "word": "上海月亮",
+      "onboard_time": 1662819046,
+      "rank": 45,
+      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 131024,
@@ -1904,14 +1984,6 @@
       "word": "8种语言朗诵水调歌头",
       "onboard_time": 1662740785,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117069,
-      "num": 117069,
-      "word": "小学生用白纸做花送老师",
-      "onboard_time": 1662816772,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -2033,14 +2105,6 @@
       "onboard_time": 1662782606,
       "rank": 46,
       "category": "教育,情感"
-    },
-    {
-      "raw_hot": 88375,
-      "num": 88375,
-      "word": "不愧是云南的药店",
-      "onboard_time": 1662817425,
-      "rank": 48,
-      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 86537,
