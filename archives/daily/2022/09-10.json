@@ -1,6 +1,6 @@
 {
   "startTime": 1662741216675,
-  "endTime": 1662819672822,
+  "endTime": 1662820668244,
   "band_list": [
     {
       "raw_hot": 8424779,
@@ -51,8 +51,8 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 2603012,
-      "num": 2603012,
+      "raw_hot": 2671374,
+      "num": 2671374,
       "word": "檀健次毛晓彤 孤独颂歌",
       "onboard_time": 1662817247,
       "rank": 15,
@@ -145,6 +145,14 @@
       "onboard_time": 1662794848,
       "rank": 15,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1440006,
+      "num": 1440006,
+      "word": "曾毅 没来",
+      "onboard_time": 1662819406,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 1420009,
@@ -452,7 +460,7 @@
     },
     {
       "raw_hot": 735367,
-      "num": 389521,
+      "num": 438031,
       "word": "周冬雨王一博化身画中人",
       "onboard_time": 1662816588,
       "rank": 12,
@@ -483,12 +491,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 702700,
+      "num": 236284,
+      "word": "吴磊晒中秋节月饼自拍",
+      "onboard_time": 1662820007,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 689158,
       "num": 689158,
       "word": "寻果原型",
       "onboard_time": 1662738390,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 685871,
+      "num": 685871,
+      "word": "喜鹊飞进教室叼走女生耳机",
+      "onboard_time": 1662816888,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 679852,
@@ -556,7 +580,7 @@
     },
     {
       "raw_hot": 587650,
-      "num": 372472,
+      "num": 430740,
       "word": "许嵩中秋之夜金曲串烧",
       "onboard_time": 1662819046,
       "rank": 12,
@@ -683,14 +707,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 460580,
-      "num": 460580,
-      "word": "喜鹊飞进教室叼走女生耳机",
-      "onboard_time": 1662816888,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 455416,
       "num": 455416,
       "word": "西藏新增本土无症状306例",
@@ -739,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 400705,
+      "num": 234213,
+      "word": "王祖蓝时代少年团合唱我们会更好",
+      "onboard_time": 1662820007,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 396945,
       "num": 396945,
       "word": "90后教师结婚骑老式自行车迎亲",
@@ -753,6 +777,14 @@
       "onboard_time": 1662785666,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 389539,
+      "num": 389539,
+      "word": "小学生用白纸做花送老师",
+      "onboard_time": 1662816772,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 387308,
@@ -779,7 +811,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 375828,
+      "raw_hot": 378292,
       "num": 2528958,
       "word": "拍一拍中秋月亮",
       "onboard_time": 1662811248,
@@ -841,6 +873,14 @@
       "onboard_time": 1662784767,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 353545,
+      "num": 178534,
+      "word": "07男团中秋新歌烟火气",
+      "onboard_time": 1662819766,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 352715,
@@ -955,14 +995,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 316241,
-      "num": 316241,
-      "word": "小学生用白纸做花送老师",
-      "onboard_time": 1662816772,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 315318,
       "num": 252195,
       "word": "你好星期六第四季还有王鹤棣",
@@ -1001,6 +1033,14 @@
       "onboard_time": 1662784830,
       "rank": 48,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 307146,
+      "num": 307146,
+      "word": "自家地投毒玉米粒致9羊死被判缓刑",
+      "onboard_time": 1662819941,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 297679,
@@ -1105,6 +1145,14 @@
       "onboard_time": 1662728790,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 279344,
+      "num": 82879,
+      "word": "周深的中秋节好忙",
+      "onboard_time": 1662819886,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 276965,
@@ -1307,14 +1355,6 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 239097,
-      "num": 186140,
-      "word": "曾毅 没来",
-      "onboard_time": 1662819406,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 236995,
       "num": 236995,
       "word": "中秋",
@@ -1328,6 +1368,14 @@
       "word": "吴克群狂炫马頔炸酱面被点名",
       "onboard_time": 1662792806,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 235508,
+      "num": 176047,
+      "word": "韩庚街舞第一次被动作支配",
+      "onboard_time": 1662818922,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -1483,6 +1531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 212266,
+      "num": 212266,
+      "word": "F1",
+      "onboard_time": 1662818264,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208089,
       "num": 208089,
       "word": "撒娇猫猫最好命",
@@ -1496,6 +1552,22 @@
       "word": "四川宜宾市全域实行静态管理",
       "onboard_time": 1662725128,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202800,
+      "num": 202800,
+      "word": "深圳月亮",
+      "onboard_time": 1662820244,
+      "rank": 26,
+      "category": "自然,社会新闻"
+    },
+    {
+      "raw_hot": 201655,
+      "num": 201655,
+      "word": "公司花27万给员工每人发30件礼品",
+      "onboard_time": 1662820066,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -1537,14 +1609,6 @@
       "onboard_time": 1662794909,
       "rank": 43,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 190179,
-      "num": 190179,
-      "word": "F1",
-      "onboard_time": 1662818264,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 189725,
@@ -1633,14 +1697,6 @@
       "onboard_time": 1662740366,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 176047,
-      "num": 176047,
-      "word": "韩庚街舞第一次被动作支配",
-      "onboard_time": 1662818922,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 170412,
