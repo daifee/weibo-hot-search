@@ -1,6 +1,6 @@
 {
   "startTime": 1662741216675,
-  "endTime": 1662788873773,
+  "endTime": 1662789508748,
   "band_list": [
     {
       "raw_hot": 2783989,
@@ -99,12 +99,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 949143,
+      "num": 949143,
+      "word": "不要因为睡懒觉自责",
+      "onboard_time": 1662783505,
+      "rank": 18,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 941313,
+      "num": 941313,
+      "word": "刘畊宏一口气跑了21公里",
+      "onboard_time": 1662785305,
+      "rank": 31,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 915978,
       "num": 915978,
       "word": "吴刚赵露思后浪双节片花",
       "onboard_time": 1662777445,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 909237,
+      "num": 909237,
+      "word": "刘雨昕朋友圈极简商务风",
+      "onboard_time": 1662786447,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 903646,
@@ -123,30 +147,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 874645,
-      "num": 874645,
-      "word": "不要因为睡懒觉自责",
-      "onboard_time": 1662783505,
-      "rank": 18,
-      "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 873075,
-      "num": 873075,
-      "word": "刘畊宏一口气跑了21公里",
-      "onboard_time": 1662785305,
-      "rank": 31,
-      "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 829793,
-      "num": 829793,
-      "word": "刘雨昕朋友圈极简商务风",
-      "onboard_time": 1662786447,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 806529,
       "num": 806529,
       "word": "女子吃饭被牛肉噎住吐不出",
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 785799,
+      "num": 785799,
+      "word": "前两日iPhone14Pro系列半小时被抢光",
+      "onboard_time": 1662786987,
+      "rank": 8,
+      "category": "科技"
+    },
+    {
       "raw_hot": 784783,
       "num": 784783,
       "word": "父母均博士女儿学业压力大轻生",
@@ -177,6 +185,14 @@
       "onboard_time": 1662739108,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 766781,
+      "num": 766781,
+      "word": "王鹤棣认证檀健次正宗火锅蘸料",
+      "onboard_time": 1662789267,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 760956,
@@ -227,6 +243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 668673,
+      "num": 668673,
+      "word": "警方通报男子因儿子被吓割伤狗舌头",
+      "onboard_time": 1662787407,
+      "rank": 9,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 660542,
       "num": 487243,
       "word": "张紫宁 抱歉粗心没仔细审查文案",
@@ -257,22 +281,6 @@
       "onboard_time": 1662736471,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 577175,
-      "num": 577175,
-      "word": "前两日iPhone14Pro系列半小时被抢光",
-      "onboard_time": 1662786987,
-      "rank": 8,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 575251,
-      "num": 575251,
-      "word": "警方通报男子因儿子被吓割伤狗舌头",
-      "onboard_time": 1662787407,
-      "rank": 9,
-      "category": "社会负面"
     },
     {
       "raw_hot": 572259,
@@ -387,8 +395,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 354227,
-      "num": 354227,
+      "raw_hot": 354263,
+      "num": 354263,
       "word": "这美甲不做是说不过去了",
       "onboard_time": 1662783028,
       "rank": 27,
@@ -451,12 +459,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 328730,
+      "num": 328730,
+      "word": "张艺兴再唱一个人",
+      "onboard_time": 1662789386,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 327864,
       "num": 327864,
       "word": "王晓晨新剧流产后抑郁状态好真实",
       "onboard_time": 1662762795,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 320297,
+      "num": 320297,
+      "word": "90后教师结婚骑老式自行车迎亲",
+      "onboard_time": 1662786506,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 320148,
@@ -467,8 +491,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 305802,
-      "num": 305802,
+      "raw_hot": 307408,
+      "num": 307408,
       "word": "马斯克收购推特协议已被终止",
       "onboard_time": 1662784830,
       "rank": 48,
@@ -547,14 +571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 274120,
-      "num": 274120,
-      "word": "90后教师结婚骑老式自行车迎亲",
-      "onboard_time": 1662786506,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 273474,
       "num": 273474,
       "word": "NBA计划增加季中锦标赛",
@@ -563,8 +579,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 270780,
-      "num": 270780,
+      "raw_hot": 272930,
+      "num": 272930,
       "word": "她们的名字 宣传",
       "onboard_time": 1662787829,
       "rank": 24,
@@ -995,6 +1011,14 @@
       "category": "动漫,情感"
     },
     {
+      "raw_hot": 131758,
+      "num": 131758,
+      "word": "清华学子与孔子师生梦幻联动",
+      "onboard_time": 1662787230,
+      "rank": 42,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 131024,
       "num": 131024,
       "word": "狗狗出门溜达脸被蛰成表情包",
@@ -1075,14 +1099,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 112796,
-      "num": 112796,
-      "word": "清华学子与孔子师生梦幻联动",
-      "onboard_time": 1662787230,
-      "rank": 42,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 111733,
       "num": 111733,
       "word": "好帅那女孩儿",
@@ -1155,6 +1171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 80637,
+      "num": 80637,
+      "word": "五年级开学女生比同龄男生高一头",
+      "onboard_time": 1662789025,
+      "rank": 47,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 77674,
       "num": 77674,
       "word": "第38个教师节",
@@ -1177,6 +1201,14 @@
       "onboard_time": 1662737609,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 65902,
+      "num": 65902,
+      "word": "你眼中的最美中秋夜",
+      "onboard_time": 1662789146,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 18787,
