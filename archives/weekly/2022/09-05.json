@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662892927935,
+  "endTime": 1662895168761,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -41,6 +41,14 @@
       "onboard_time": 1662639751,
       "rank": 4,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 10437043,
+      "num": 4039696,
+      "word": "中新网评李易峰嫖娼被警方通报",
+      "onboard_time": 1662892613,
+      "rank": 3,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 9384525,
@@ -99,6 +107,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 4578212,
+      "num": 609422,
+      "word": "李易峰商业版图盘点",
+      "onboard_time": 1662892255,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 4451233,
+      "num": 590631,
+      "word": "Prada与李易峰终止合作",
+      "onboard_time": 1662894621,
+      "rank": 11,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 4450676,
       "num": 4450676,
       "word": "iPhone14",
@@ -139,20 +163,20 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 4039696,
-      "num": 4039696,
-      "word": "中新网评李易峰嫖娼被警方通报",
-      "onboard_time": 1662892613,
-      "rank": 3,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 4035864,
       "num": 4035864,
       "word": "湖南涉外 车祸",
       "onboard_time": 1662535224,
       "rank": 0,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 4003752,
+      "num": 577433,
+      "word": "辟谣显得无比可笑",
+      "onboard_time": 1662893262,
+      "rank": 12,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 3744134,
@@ -1497,6 +1521,14 @@
       "onboard_time": 1662813286,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1370988,
+      "num": 344485,
+      "word": "嫖娼或将承担什么法律责任",
+      "onboard_time": 1662894227,
+      "rank": 20,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1370133,
@@ -3059,14 +3091,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 860916,
-      "num": 325263,
-      "word": "李易峰商业版图盘点",
-      "onboard_time": 1662892255,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 859467,
       "num": 859467,
       "word": "全开麦真的是对歌手的夸奖吗",
@@ -4267,6 +4291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 615976,
+      "num": 615976,
+      "word": "女孩基因突变最快48秒睡着",
+      "onboard_time": 1662893443,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 615796,
       "num": 615796,
       "word": "EDG",
@@ -4683,6 +4715,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 548009,
+      "num": 548009,
+      "word": "温岭公安通报时代广场持刀伤人事件",
+      "onboard_time": 1662893041,
+      "rank": 15,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 545799,
       "num": 545799,
       "word": "BBC",
@@ -4825,6 +4865,14 @@
       "onboard_time": 1662307285,
       "rank": 8,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 526409,
+      "num": 526409,
+      "word": "1分钟仰卧起坐自测腰力",
+      "onboard_time": 1662891542,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 524683,
@@ -7219,6 +7267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 346098,
+      "num": 346098,
+      "word": "河南小伙回应雇60岁老人干活",
+      "onboard_time": 1662890332,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 346005,
       "num": 346005,
       "word": "手机可以开通地震预警",
@@ -7459,14 +7515,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 334034,
-      "num": 334034,
-      "word": "河南小伙回应雇60岁老人干活",
-      "onboard_time": 1662890332,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 333966,
       "num": 333966,
       "word": "陈紫函吐槽戴向宇人设有点渣",
@@ -7601,6 +7649,14 @@
       "onboard_time": 1662338006,
       "rank": 20,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 323602,
+      "num": 323602,
+      "word": "老人深夜卖花生男子花300全买下",
+      "onboard_time": 1662887787,
+      "rank": 48,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 323347,
@@ -8611,14 +8667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 285558,
-      "num": 285558,
-      "word": "老人深夜卖花生男子花300全买下",
-      "onboard_time": 1662887787,
-      "rank": 48,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 284747,
       "num": 284747,
       "word": "知乎崩了",
@@ -9473,14 +9521,6 @@
       "onboard_time": 1662609808,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 257804,
-      "num": 257804,
-      "word": "1分钟仰卧起坐自测腰力",
-      "onboard_time": 1662891542,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 257721,
@@ -12211,6 +12251,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 166224,
+      "num": 166224,
+      "word": "2022战斗之夜",
+      "onboard_time": 1662889110,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 166185,
       "num": 154860,
       "word": "她们的名字",
@@ -12385,14 +12433,6 @@
       "onboard_time": 1662563792,
       "rank": 47,
       "category": "科技"
-    },
-    {
-      "raw_hot": 161521,
-      "num": 161521,
-      "word": "2022战斗之夜",
-      "onboard_time": 1662889110,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 161183,
@@ -12729,6 +12769,14 @@
       "onboard_time": 1662682178,
       "rank": 43,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 150769,
+      "num": 150769,
+      "word": "老师科普太阳雨发现是自家漏水",
+      "onboard_time": 1662894272,
+      "rank": 39,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 150683,
