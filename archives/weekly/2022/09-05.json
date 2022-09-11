@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662878919897,
+  "endTime": 1662880906328,
   "band_list": [
     {
       "raw_hot": 22037086,
@@ -1219,6 +1219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1482094,
+      "num": 1482094,
+      "word": "李景亮胜利被抢",
+      "onboard_time": 1662875491,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1471340,
       "num": 488511,
       "word": "网传森碟走职业网球",
@@ -1672,6 +1680,14 @@
       "word": "伊犁疫情发布会",
       "onboard_time": 1662731912,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1247266,
+      "num": 1247266,
+      "word": "山东济宁表示深深歉意",
+      "onboard_time": 1662879688,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -2731,6 +2747,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 920339,
+      "num": 920339,
+      "word": "夏鸣星 布丁狗",
+      "onboard_time": 1662877710,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 918647,
       "num": 380818,
       "word": "苹果一根挂绳售价98元",
@@ -3707,14 +3731,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 679919,
-      "num": 679919,
-      "word": "夏鸣星 布丁狗",
-      "onboard_time": 1662877710,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 679852,
       "num": 679852,
       "word": "FPX",
@@ -3737,6 +3753,14 @@
       "onboard_time": 1662726391,
       "rank": 28,
       "category": "科技"
+    },
+    {
+      "raw_hot": 675455,
+      "num": 675455,
+      "word": "每周锻炼3到10小时死亡风险最低",
+      "onboard_time": 1662872673,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 673876,
@@ -4201,6 +4225,14 @@
       "onboard_time": 1662683677,
       "rank": 20,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 601719,
+      "num": 601719,
+      "word": "12岁妹妹偷偷往姐姐行李里塞钱",
+      "onboard_time": 1662878070,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 601667,
@@ -4732,7 +4764,7 @@
     },
     {
       "raw_hot": 510684,
-      "num": 285632,
+      "num": 354942,
       "word": "王鹤棣银色波光衬衫造型",
       "onboard_time": 1662876088,
       "rank": 20,
@@ -4785,14 +4817,6 @@
       "onboard_time": 1662516804,
       "rank": 39,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 505486,
-      "num": 505486,
-      "word": "每周锻炼3到10小时死亡风险最低",
-      "onboard_time": 1662872673,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 503051,
@@ -4848,6 +4872,22 @@
       "word": "武汉原副市长袁善腊被开除党籍",
       "onboard_time": 1662550587,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 499961,
+      "num": 499961,
+      "word": "年轻人为什么爱买手机壳",
+      "onboard_time": 1662879629,
+      "rank": 12,
+      "category": "科技,情感"
+    },
+    {
+      "raw_hot": 499873,
+      "num": 499873,
+      "word": "泸定地震最高烈度为9度",
+      "onboard_time": 1662878849,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -5363,6 +5403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 454836,
+      "num": 454836,
+      "word": "赵粤毕业公演",
+      "onboard_time": 1662880050,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 454015,
       "num": 454015,
       "word": "齐颂察觉周寻姜小果关系",
@@ -5755,6 +5803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 417371,
+      "num": 417371,
+      "word": "王一博没有感情的刨冰机",
+      "onboard_time": 1662880829,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 416957,
       "num": 416957,
       "word": "新疆小伙用17000个番茄摆嫦娥奔月",
@@ -5937,6 +5993,14 @@
       "onboard_time": 1662625707,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 407934,
+      "num": 407934,
+      "word": "王者S29新赛季即将开启",
+      "onboard_time": 1662877770,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 407272,
@@ -6129,6 +6193,14 @@
       "onboard_time": 1662692129,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 392953,
+      "num": 392953,
+      "word": "脱口秀大会",
+      "onboard_time": 1662467787,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 392813,
@@ -7899,6 +7971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299347,
+      "num": 202929,
+      "word": "阿凡达4开拍",
+      "onboard_time": 1662879688,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 298853,
       "num": 298853,
       "word": "中秋节教师节同一天是什么体验",
@@ -8129,14 +8209,6 @@
       "onboard_time": 1662474933,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 292035,
-      "num": 292035,
-      "word": "王者S29新赛季即将开启",
-      "onboard_time": 1662877770,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 291445,
@@ -8417,6 +8489,14 @@
       "onboard_time": 1662463890,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 281203,
+      "num": 281203,
+      "word": "中秋节阿姨烧两大锅菜送消防员",
+      "onboard_time": 1662875849,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 280905,
@@ -9587,14 +9667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 243368,
-      "num": 158009,
-      "word": "脱口秀大会",
-      "onboard_time": 1662467787,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 243264,
       "num": 243264,
       "word": "苍兰诀",
@@ -10323,14 +10395,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 219575,
-      "num": 219575,
-      "word": "中秋节阿姨烧两大锅菜送消防员",
-      "onboard_time": 1662875849,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 219260,
       "num": 219260,
       "word": "外交部回应俄驻阿富汗使馆附近爆炸",
@@ -10875,6 +10939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199823,
+      "num": 199823,
+      "word": "这宠物是可以养的吗",
+      "onboard_time": 1662878428,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 199782,
       "num": 195284,
       "word": "心动的信号",
@@ -11208,14 +11280,6 @@
       "word": "居家隔离遇地震能不能出门避险",
       "onboard_time": 1662370409,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 187576,
-      "num": 187576,
-      "word": "12岁妹妹偷偷往姐姐行李里塞钱",
-      "onboard_time": 1662878070,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -11553,6 +11617,14 @@
       "onboard_time": 1662656002,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 176534,
+      "num": 176534,
+      "word": "大闸蟹死后2小时菌落总数激增",
+      "onboard_time": 1662879448,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176415,
@@ -11945,6 +12017,14 @@
       "onboard_time": 1662294507,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 163088,
+      "num": 163088,
+      "word": "墨尔本金毛日",
+      "onboard_time": 1662878729,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 162774,
@@ -12955,14 +13035,6 @@
       "category": "自然,社会新闻"
     },
     {
-      "raw_hot": 132693,
-      "num": 132693,
-      "word": "墨尔本金毛日",
-      "onboard_time": 1662878729,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 132598,
       "num": 132598,
       "word": "2022秋季学期考试日历",
@@ -13097,6 +13169,14 @@
       "onboard_time": 1662383370,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126576,
+      "num": 126576,
+      "word": "刘洋吃上了莲蓉馅月饼",
+      "onboard_time": 1662877950,
+      "rank": 38,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 126413,
@@ -13283,20 +13363,20 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 115901,
+      "num": 115901,
+      "word": "两月宝宝哭闹6岁姐姐教科书式哄娃",
+      "onboard_time": 1662880648,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115894,
       "num": 115894,
       "word": "刘些宁直播安利刮痧",
       "onboard_time": 1662339986,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 114446,
-      "num": 114446,
-      "word": "刘洋吃上了莲蓉馅月饼",
-      "onboard_time": 1662877950,
-      "rank": 38,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 114167,
@@ -13387,6 +13467,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 107608,
+      "num": 107608,
+      "word": "公司过节包水饺有人吃出水龙头馅",
+      "onboard_time": 1662880526,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107345,
       "num": 96298,
       "word": "英女王生平",
@@ -13433,6 +13521,14 @@
       "onboard_time": 1662809926,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 101643,
+      "num": 101643,
+      "word": "中国女生国外街头穿古装扮嫦娥",
+      "onboard_time": 1662880350,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101445,
@@ -13499,6 +13595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 93654,
+      "num": 93654,
+      "word": "熊猫宝宝集体趴睡现场",
+      "onboard_time": 1662878370,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92274,
       "num": 92274,
       "word": "AI绘制了一幅中秋花月夜",
@@ -13563,28 +13667,12 @@
       "category": "教育,情感"
     },
     {
-      "raw_hot": 88402,
-      "num": 88402,
-      "word": "这宠物是可以养的吗",
-      "onboard_time": 1662878428,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 86537,
       "num": 86537,
       "word": "我评世间有她",
       "onboard_time": 1662743659,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 86004,
-      "num": 86004,
-      "word": "熊猫宝宝集体趴睡现场",
-      "onboard_time": 1662878370,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 85943,
@@ -13743,14 +13831,6 @@
       "num": 74116,
       "word": "贵阳将从7方面完善物资配送",
       "onboard_time": 1662570920,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 73087,
-      "num": 73087,
-      "word": "泸定地震最高烈度为9度",
-      "onboard_time": 1662878849,
       "rank": 48,
       "category": "社会新闻"
     },
