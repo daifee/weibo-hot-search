@@ -1,6 +1,6 @@
 {
   "startTime": 1662827496894,
-  "endTime": 1662896194987,
+  "endTime": 1662900121670,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -35,6 +35,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 7353196,
+      "num": 7650642,
+      "word": "嫖娼或将承担什么法律责任",
+      "onboard_time": 1662894227,
+      "rank": 20,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 4578212,
       "num": 697130,
       "word": "李易峰商业版图盘点",
@@ -43,19 +51,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 4451233,
-      "num": 704838,
+      "raw_hot": 4487251,
+      "num": 4487251,
       "word": "Prada与李易峰终止合作",
       "onboard_time": 1662894621,
       "rank": 11,
-      "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 4239929,
-      "num": 712624,
-      "word": "嫖娼或将承担什么法律责任",
-      "onboard_time": 1662894227,
-      "rank": 20,
       "category": "社会新闻,艺人"
     },
     {
@@ -121,6 +121,14 @@
       "onboard_time": 1662879629,
       "rank": 12,
       "category": "科技,情感"
+    },
+    {
+      "raw_hot": 2186770,
+      "num": 2186770,
+      "word": "远离嫖娼别心动更别行动",
+      "onboard_time": 1662895570,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2121468,
@@ -331,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1008570,
+      "num": 408620,
+      "word": "UR被曝抄袭",
+      "onboard_time": 1662898980,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 936454,
       "num": 936454,
       "word": "央视秋晚看到一半跟刘畊宏跳起来了",
@@ -401,6 +417,22 @@
       "onboard_time": 1662829350,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 787864,
+      "num": 787864,
+      "word": "中方就美对西工大网络攻击窃密提出严正交涉",
+      "onboard_time": 1662897543,
+      "rank": 7,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 783111,
+      "num": 257684,
+      "word": "你安全吗",
+      "onboard_time": 1662899157,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 763887,
@@ -507,6 +539,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 584702,
+      "num": 257342,
+      "word": "王宝强说一切都太值得",
+      "onboard_time": 1662897298,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 580008,
       "num": 580008,
       "word": "朴海镇方否认吸毒",
@@ -611,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 442051,
+      "num": 256551,
+      "word": "王嘉尔沉浸式清唱Blue",
+      "onboard_time": 1662898383,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 434747,
       "num": 434747,
       "word": "蒯曼",
@@ -691,6 +739,22 @@
       "category": "自然"
     },
     {
+      "raw_hot": 380771,
+      "num": 198634,
+      "word": "檀健次平行",
+      "onboard_time": 1662898438,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 378436,
+      "num": 378436,
+      "word": "学校设宠物专业学生带爱犬上学",
+      "onboard_time": 1662895509,
+      "rank": 42,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 376571,
       "num": 249437,
       "word": "孟川 两灯",
@@ -737,6 +801,14 @@
       "onboard_time": 1662890332,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 358365,
+      "num": 256417,
+      "word": "松弛感穿搭",
+      "onboard_time": 1662898918,
+      "rank": 23,
+      "category": "时尚"
     },
     {
       "raw_hot": 349826,
@@ -1019,6 +1091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 256060,
+      "num": 256060,
+      "word": "成都世乒赛中国队名单公布",
+      "onboard_time": 1662899934,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 253167,
       "num": 91781,
       "word": "王源祝大家中秋快乐",
@@ -1097,14 +1177,6 @@
       "onboard_time": 1662886950,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 227482,
-      "num": 227482,
-      "word": "远离嫖娼别心动更别行动",
-      "onboard_time": 1662895570,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 227018,
@@ -1211,6 +1283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191996,
+      "num": 191996,
+      "word": "中秋节的西湖边到底有多少人",
+      "onboard_time": 1662897782,
+      "rank": 32,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 189246,
       "num": 189246,
       "word": "UFC279",
@@ -1291,6 +1371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169576,
+      "num": 169576,
+      "word": "死神千年血战篇第2弹预告",
+      "onboard_time": 1662898800,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 168547,
       "num": 168547,
       "word": "没点技能都不好意思去监考",
@@ -1361,14 +1449,6 @@
       "onboard_time": 1662864330,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 152299,
-      "num": 152299,
-      "word": "学校设宠物专业学生带爱犬上学",
-      "onboard_time": 1662895509,
-      "rank": 42,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 148950,
@@ -1489,6 +1569,14 @@
       "onboard_time": 1662786387,
       "rank": 35,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 108772,
+      "num": 87635,
+      "word": "学生因没手机扫码被司机赶下公交",
+      "onboard_time": 1662900115,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106311,
