@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1662917140535,
+  "endTime": 1662918160061,
   "band_list": [
     {
       "raw_hot": 2335033,
@@ -227,20 +227,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199103,
+      "num": 169401,
+      "word": "UFC总裁认为李景亮赢了",
+      "onboard_time": 1662913714,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197717,
       "num": 78669,
       "word": "极限挑战",
       "onboard_time": 1662900715,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 181903,
-      "num": 147418,
-      "word": "UFC总裁认为李景亮赢了",
-      "onboard_time": 1662913714,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 181422,
@@ -251,20 +251,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174892,
+      "num": 174892,
+      "word": "男子砸4辆车偷9万元手表直接扔了",
+      "onboard_time": 1662915450,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154482,
       "num": 154482,
       "word": "60多岁男房东给21岁女租客发不雅视频",
       "onboard_time": 1662887369,
       "rank": 23,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 141501,
-      "num": 141501,
-      "word": "男子砸4辆车偷9万元手表直接扔了",
-      "onboard_time": 1662915450,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117683,
@@ -417,6 +417,14 @@
       "onboard_time": 1662901913,
       "rank": 49,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 28317,
+      "num": 28317,
+      "word": "李景亮懵了",
+      "onboard_time": 1662917602,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 5275,
