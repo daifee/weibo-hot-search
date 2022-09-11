@@ -1,10 +1,10 @@
 {
   "startTime": 1662827496894,
-  "endTime": 1662870330713,
+  "endTime": 1662871450170,
   "band_list": [
     {
-      "raw_hot": 5490124,
-      "num": 5490124,
+      "raw_hot": 9384525,
+      "num": 9384525,
       "word": "魏晨回复快乐再出发制片人",
       "onboard_time": 1662868471,
       "rank": 0,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2729008,
-      "num": 536191,
+      "num": 704478,
       "word": "韩国40代男演员吸毒被逮捕",
       "onboard_time": 1662862713,
       "rank": 10,
@@ -41,6 +41,14 @@
       "onboard_time": 1662819406,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1883479,
+      "num": 1883479,
+      "word": "美国911事件当天发生了哪些事",
+      "onboard_time": 1662867212,
+      "rank": 3,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1876732,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 1633852,
-      "num": 535357,
+      "num": 699027,
       "word": "张凌赫进组狐妖月红篇",
       "onboard_time": 1662865533,
       "rank": 11,
@@ -89,14 +97,6 @@
       "onboard_time": 1662822773,
       "rank": 4,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1484380,
-      "num": 1484380,
-      "word": "美国911事件当天发生了哪些事",
-      "onboard_time": 1662867212,
-      "rank": 3,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1287358,
@@ -121,6 +121,14 @@
       "onboard_time": 1662829891,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1080294,
+      "num": 1080294,
+      "word": "苹果98元挂绳已缺货",
+      "onboard_time": 1662869792,
+      "rank": 21,
+      "category": "科技"
     },
     {
       "raw_hot": 1078327,
@@ -187,8 +195,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 647644,
-      "num": 647644,
+      "raw_hot": 713625,
+      "num": 713625,
+      "word": "安徽一中学班费每人2000全班8万",
+      "onboard_time": 1662868530,
+      "rank": 9,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 668448,
+      "num": 668448,
       "word": "宠物狗晕车女子高速上下车遛狗",
       "onboard_time": 1662867152,
       "rank": 8,
@@ -208,6 +224,14 @@
       "word": "鸟鸟 好笑",
       "onboard_time": 1662824803,
       "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 618850,
+      "num": 618850,
+      "word": "央视秋晚看到一半跟刘畊宏跳起来了",
+      "onboard_time": 1662867032,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -235,20 +259,20 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 544671,
-      "num": 544671,
-      "word": "安徽一中学班费每人2000全班8万",
-      "onboard_time": 1662868530,
-      "rank": 9,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 529244,
       "num": 529244,
       "word": "刺客信条中国背景手游",
       "onboard_time": 1662859953,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 517095,
+      "num": 517095,
+      "word": "小伙捐骨髓公司将事假变2周带薪假",
+      "onboard_time": 1662869911,
+      "rank": 41,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 510459,
@@ -299,20 +323,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 418493,
+      "num": 418493,
+      "word": "李景亮虽败犹荣",
+      "onboard_time": 1662868769,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 416957,
       "num": 416957,
       "word": "新疆小伙用17000个番茄摆嫦娥奔月",
       "onboard_time": 1662828870,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 396919,
-      "num": 396919,
-      "word": "央视秋晚看到一半跟刘畊宏跳起来了",
-      "onboard_time": 1662867032,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 383425,
@@ -337,14 +361,6 @@
       "onboard_time": 1662866731,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 359987,
-      "num": 359987,
-      "word": "李景亮虽败犹荣",
-      "onboard_time": 1662868769,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 342560,
@@ -411,12 +427,12 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 273369,
-      "num": 273369,
-      "word": "苹果98元挂绳已缺货",
-      "onboard_time": 1662869792,
-      "rank": 21,
-      "category": "科技"
+      "raw_hot": 275937,
+      "num": 275937,
+      "word": "朴海镇方否认吸毒",
+      "onboard_time": 1662870691,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 271714,
@@ -507,12 +523,36 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 239641,
+      "num": 239641,
+      "word": "奇马耶夫",
+      "onboard_time": 1662869669,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 238041,
       "num": 1492236,
       "word": "拍一拍中秋月亮",
       "onboard_time": 1662811248,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227018,
+      "num": 227018,
+      "word": "周扬青洛可可童趣大片",
+      "onboard_time": 1662870391,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 221387,
+      "num": 158611,
+      "word": "孟川 两灯",
+      "onboard_time": 1662870754,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 220157,
@@ -547,14 +587,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 205222,
-      "num": 205222,
-      "word": "奇马耶夫",
-      "onboard_time": 1662869669,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 195184,
       "num": 195184,
       "word": "9月10日新增本土无症状959例",
@@ -569,6 +601,14 @@
       "onboard_time": 1662794848,
       "rank": 23,
       "category": "科技"
+    },
+    {
+      "raw_hot": 192425,
+      "num": 192425,
+      "word": "李景亮分歧判定告负",
+      "onboard_time": 1662869190,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 192201,
@@ -619,12 +659,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 169121,
-      "num": 169121,
-      "word": "李景亮分歧判定告负",
-      "onboard_time": 1662869190,
-      "rank": 32,
-      "category": "体育"
+      "raw_hot": 170725,
+      "num": 89655,
+      "word": "向前冲",
+      "onboard_time": 1662871415,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 163826,
@@ -721,14 +761,6 @@
       "onboard_time": 1662819766,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 132467,
-      "num": 132467,
-      "word": "小伙捐骨髓公司将事假变2周带薪假",
-      "onboard_time": 1662869911,
-      "rank": 41,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 131193,
@@ -833,6 +865,22 @@
       "onboard_time": 1662805775,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 89992,
+      "num": 89992,
+      "word": "没点技能都不好意思去监考",
+      "onboard_time": 1662870814,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 85553,
+      "num": 85553,
+      "word": "一群雅安孩子挂武警哥哥身上了",
+      "onboard_time": 1662871294,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 81630,

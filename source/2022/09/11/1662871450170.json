@@ -1,0 +1,410 @@
+{
+  "runTime": 1662871450170,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9384525,
+        "num": 9384525,
+        "word": "魏晨回复快乐再出发制片人",
+        "onboard_time": 1662868471,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1883479,
+        "num": 1883479,
+        "word": "美国911事件当天发生了哪些事",
+        "onboard_time": 1662867212,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 43334,
+        "num": 1226481,
+        "word": "拍一拍中秋月亮",
+        "onboard_time": 1662811248,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1157993,
+        "num": 1157993,
+        "word": "为什么死掉的螃蟹不能吃",
+        "onboard_time": 1662863310,
+        "rank": 3,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 1080294,
+        "num": 1080294,
+        "word": "苹果98元挂绳已缺货",
+        "onboard_time": 1662869792,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1031638,
+        "num": 1031638,
+        "word": "姥姥用绳把双胞胎拴腰上做饭",
+        "onboard_time": 1662864512,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 976218,
+        "num": 976218,
+        "word": "灵动岛被指抄袭安卓厂商",
+        "onboard_time": 1662863553,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 927323,
+        "num": 927323,
+        "word": "李景亮",
+        "onboard_time": 1662854549,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 842259,
+        "num": 842259,
+        "word": "教育局回应河南一老师晒节日礼物",
+        "onboard_time": 1662859473,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 713625,
+        "num": 713625,
+        "word": "安徽一中学班费每人2000全班8万",
+        "onboard_time": 1662868530,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1199000,
+        "num": 704478,
+        "word": "韩国40代男演员吸毒被逮捕",
+        "onboard_time": 1662862713,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 801880,
+        "num": 699027,
+        "word": "张凌赫进组狐妖月红篇",
+        "onboard_time": 1662865533,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 668448,
+        "num": 668448,
+        "word": "宠物狗晕车女子高速上下车遛狗",
+        "onboard_time": 1662867152,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 618850,
+        "num": 618850,
+        "word": "央视秋晚看到一半跟刘畊宏跳起来了",
+        "onboard_time": 1662867032,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 517095,
+        "num": 517095,
+        "word": "小伙捐骨髓公司将事假变2周带薪假",
+        "onboard_time": 1662869911,
+        "rank": 14,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 418493,
+        "num": 418493,
+        "word": "李景亮虽败犹荣",
+        "onboard_time": 1662868769,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 352690,
+        "num": 352690,
+        "word": "济宁疫情防控",
+        "onboard_time": 1662823307,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349515,
+        "num": 349515,
+        "word": "女儿中秋未归监控看父亲院中远眺",
+        "onboard_time": 1662864512,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336142,
+        "num": 336142,
+        "word": "任嘉伦把花盆坐翻了",
+        "onboard_time": 1662864213,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332651,
+        "num": 332651,
+        "word": "张定宇决定捐遗体用于渐冻症研究",
+        "onboard_time": 1662866731,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275937,
+        "num": 275937,
+        "word": "朴海镇方否认吸毒",
+        "onboard_time": 1662870691,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263270,
+        "num": 263270,
+        "word": "吴倩演的夏天原来承受了这么多",
+        "onboard_time": 1662866674,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257139,
+        "num": 257139,
+        "word": "王俊凯万里归途素颜出演",
+        "onboard_time": 1662867633,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242892,
+        "num": 242892,
+        "word": "蛋糕师都是学美术的吧",
+        "onboard_time": 1662866192,
+        "rank": 23,
+        "category": "情感,美食"
+      },
+      {
+        "raw_hot": 239641,
+        "num": 239641,
+        "word": "奇马耶夫",
+        "onboard_time": 1662869669,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237806,
+        "num": 237806,
+        "word": "成都疫情防控",
+        "onboard_time": 1662863791,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227018,
+        "num": 227018,
+        "word": "周扬青洛可可童趣大片",
+        "onboard_time": 1662870391,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 207804,
+        "num": 207804,
+        "word": "女子在禁区游泳被套头拉回",
+        "onboard_time": 1662829350,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192425,
+        "num": 192425,
+        "word": "李景亮分歧判定告负",
+        "onboard_time": 1662869190,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159434,
+        "num": 159434,
+        "word": "原来iPhone自带防偷窥功能",
+        "onboard_time": 1662822773,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 221387,
+        "num": 158611,
+        "word": "孟川 两灯",
+        "onboard_time": 1662870754,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217419,
+        "num": 157148,
+        "word": "魏大勋1秒答出蝴蝶和蛾子的区别",
+        "onboard_time": 1662864452,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213329,
+        "num": 156334,
+        "word": "棣欣引力",
+        "onboard_time": 1662824263,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200777,
+        "num": 154848,
+        "word": "林允儿哭戏感染力",
+        "onboard_time": 1662863851,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168906,
+        "num": 153163,
+        "word": "探清水河",
+        "onboard_time": 1662829891,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152483,
+        "num": 152483,
+        "word": "长时间托腮影响颈部健康",
+        "onboard_time": 1662868052,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147218,
+        "num": 147218,
+        "word": "台风梅花加强为强台风级",
+        "onboard_time": 1662861992,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138705,
+        "num": 138705,
+        "word": "湖北新增45例本土无症状",
+        "onboard_time": 1662859654,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136859,
+        "num": 136859,
+        "word": "刺客信条中国背景手游",
+        "onboard_time": 1662859953,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135226,
+        "num": 135226,
+        "word": "成都小区",
+        "onboard_time": 1662831981,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122980,
+        "num": 122980,
+        "word": "自家地投毒玉米粒致9羊死被判缓刑",
+        "onboard_time": 1662819941,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109165,
+        "num": 109165,
+        "word": "国乒世乒赛战队名单",
+        "onboard_time": 1662866792,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104086,
+        "num": 104086,
+        "word": "巴布亚新几内亚发生7.6级地震",
+        "onboard_time": 1662857613,
+        "rank": 42,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 100246,
+        "num": 100246,
+        "word": "2022篮球名人堂",
+        "onboard_time": 1662861513,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93669,
+        "num": 93669,
+        "word": "北京新增10例本土感染者",
+        "onboard_time": 1662855992,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89992,
+        "num": 89992,
+        "word": "没点技能都不好意思去监考",
+        "onboard_time": 1662870814,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 89777,
+        "num": 89777,
+        "word": "新疆小伙用17000个番茄摆嫦娥奔月",
+        "onboard_time": 1662828870,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170725,
+        "num": 89655,
+        "word": "向前冲",
+        "onboard_time": 1662871415,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89514,
+        "num": 89514,
+        "word": "青岛增9例本土确诊",
+        "onboard_time": 1662864932,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85553,
+        "num": 85553,
+        "word": "一群雅安孩子挂武警哥哥身上了",
+        "onboard_time": 1662871294,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让中华文化展现出永久魅力和时代风采#"
+    }
+  }
+}
