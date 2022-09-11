@@ -1,0 +1,410 @@
+{
+  "runTime": 1662884862116,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2567006,
+        "num": 2567006,
+        "word": "山东济宁表示深深歉意",
+        "onboard_time": 1662879688,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2194686,
+        "num": 2194686,
+        "word": "年轻人为什么爱买手机壳",
+        "onboard_time": 1662879629,
+        "rank": 1,
+        "category": "科技,情感"
+      },
+      {
+        "raw_hot": 67917,
+        "num": 1373451,
+        "word": "绿水青山是我家",
+        "onboard_time": 1662873633,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1241833,
+        "num": 1241833,
+        "word": "大闸蟹死后2小时菌落总数激增",
+        "onboard_time": 1662879448,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1130876,
+        "num": 1130876,
+        "word": "魏晨回复快乐再出发制片人",
+        "onboard_time": 1662868471,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 994210,
+        "num": 994210,
+        "word": "夏鸣星 布丁狗",
+        "onboard_time": 1662877710,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 736755,
+        "num": 736755,
+        "word": "三个院人凑不齐一个复活名额",
+        "onboard_time": 1662876510,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 664951,
+        "num": 664951,
+        "word": "12岁妹妹偷偷往姐姐行李里塞钱",
+        "onboard_time": 1662878070,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 643332,
+        "num": 643332,
+        "word": "每周锻炼3到10小时死亡风险最低",
+        "onboard_time": 1662872673,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 630532,
+        "num": 630532,
+        "word": "香港演员中秋节视频暗指台湾回归",
+        "onboard_time": 1662871655,
+        "rank": 9,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1161591,
+        "num": 608333,
+        "word": "辰亦儒越努力越透明",
+        "onboard_time": 1662881188,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 561288,
+        "num": 561288,
+        "word": "公司过节包水饺有人吃出水龙头馅",
+        "onboard_time": 1662880526,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524305,
+        "num": 524305,
+        "word": "苹果98元挂绳已缺货",
+        "onboard_time": 1662869792,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 475226,
+        "num": 475226,
+        "word": "两月宝宝哭闹6岁姐姐教科书式哄娃",
+        "onboard_time": 1662880648,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 464060,
+        "num": 464060,
+        "word": "泸定地震最高烈度为9度",
+        "onboard_time": 1662878849,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449138,
+        "num": 449138,
+        "word": "王一博没有感情的刨冰机",
+        "onboard_time": 1662880829,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 423222,
+        "num": 423222,
+        "word": "中国女生国外街头穿古装扮嫦娥",
+        "onboard_time": 1662880350,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407360,
+        "num": 407360,
+        "word": "赵粤毕业公演",
+        "onboard_time": 1662880050,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 328712,
+        "num": 328712,
+        "word": "李景亮胜利被抢",
+        "onboard_time": 1662875491,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 303915,
+        "num": 303915,
+        "word": "小伙捐骨髓公司将事假变2周带薪假",
+        "onboard_time": 1662869911,
+        "rank": 19,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 316976,
+        "num": 288495,
+        "word": "GAI说唱巅峰MVP",
+        "onboard_time": 1662881250,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304576,
+        "num": 280079,
+        "word": "朴海镇方否认吸毒",
+        "onboard_time": 1662870691,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243536,
+        "num": 243536,
+        "word": "王者S29新赛季即将开启",
+        "onboard_time": 1662877770,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 238096,
+        "num": 238096,
+        "word": "美国911事件当天发生了哪些事",
+        "onboard_time": 1662867212,
+        "rank": 23,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 235349,
+        "num": 235349,
+        "word": "脱口秀大会",
+        "onboard_time": 1662878070,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232844,
+        "num": 232844,
+        "word": "原来乌龟也会搭讪失败",
+        "onboard_time": 1662881250,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 209795,
+        "num": 209795,
+        "word": "河南郸城教体局回应教师晒礼物",
+        "onboard_time": 1662882988,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 202978,
+        "num": 202978,
+        "word": "灵动岛被指抄袭安卓厂商",
+        "onboard_time": 1662863553,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 201454,
+        "num": 201454,
+        "word": "姥姥用绳把双胞胎拴腰上做饭",
+        "onboard_time": 1662864512,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189525,
+        "num": 189525,
+        "word": "911恐袭21年后美国更安全了吗",
+        "onboard_time": 1662874471,
+        "rank": 29,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 231884,
+        "num": 186329,
+        "word": "刘诗诗一念关山花钿妆路透",
+        "onboard_time": 1662872434,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 225856,
+        "num": 183493,
+        "word": "阿凡达4开拍",
+        "onboard_time": 1662879688,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215628,
+        "num": 180782,
+        "word": "王鹤棣银色波光衬衫造型",
+        "onboard_time": 1662876088,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177324,
+        "num": 177324,
+        "word": "央视秋晚看到一半跟刘畊宏跳起来了",
+        "onboard_time": 1662867032,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172449,
+        "num": 172449,
+        "word": "安徽一中学班费每人2000全班8万",
+        "onboard_time": 1662868530,
+        "rank": 34,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 149926,
+        "num": 149926,
+        "word": "为什么死掉的螃蟹不能吃",
+        "onboard_time": 1662863310,
+        "rank": 35,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 149298,
+        "num": 149298,
+        "word": "中秋节阿姨烧两大锅菜送消防员",
+        "onboard_time": 1662875849,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130748,
+        "num": 130748,
+        "word": "苹果特意去牙买加注册灵动岛商标",
+        "onboard_time": 1662884490,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 130057,
+        "num": 130057,
+        "word": "这宠物是可以养的吗",
+        "onboard_time": 1662878428,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115695,
+        "num": 115695,
+        "word": "教育局回应河南一老师晒节日礼物",
+        "onboard_time": 1662859473,
+        "rank": 39,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 137493,
+        "num": 113675,
+        "word": "苍兰诀",
+        "onboard_time": 1662879510,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135591,
+        "num": 112489,
+        "word": "张凌赫进组狐妖月红篇",
+        "onboard_time": 1662865533,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 107833,
+        "num": 107833,
+        "word": "宠物狗晕车女子高速上下车遛狗",
+        "onboard_time": 1662867152,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100091,
+        "num": 100091,
+        "word": "墨尔本金毛日",
+        "onboard_time": 1662878729,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99990,
+        "num": 99990,
+        "word": "孙女中秋远嫁爷爷抓着手泪流满面",
+        "onboard_time": 1662871838,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89289,
+        "num": 89289,
+        "word": "成都疫情防控",
+        "onboard_time": 1662863791,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86780,
+        "num": 86780,
+        "word": "刘洋吃上了莲蓉馅月饼",
+        "onboard_time": 1662877950,
+        "rank": 46,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 70453,
+        "num": 70453,
+        "word": "张定宇决定捐遗体用于渐冻症研究",
+        "onboard_time": 1662866731,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69004,
+        "num": 69004,
+        "word": "女儿中秋未归监控看父亲院中远眺",
+        "onboard_time": 1662864512,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66864,
+        "num": 66864,
+        "word": "熊猫宝宝集体趴睡现场",
+        "onboard_time": 1662878370,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让科技创新更好造福人类#"
+    }
+  }
+}
