@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/12 00:31:49 ~ 2022/09/12 05:20:51
+本榜单时间：2022/09/12 00:31:49 ~ 2022/09/12 05:38:39
 </p>
 </blockquote>
 <p>
@@ -364,19 +364,19 @@ F1意大利大奖赛（热度：57047）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%96%B9%E6%9C%8B%E5%8F%8B%E4%B8%8D%E5%8A%A0%E5%84%BF%E5%8C%96%E9%9F%B3%E6%8C%91%E6%88%98%23" target="weibo">
-北方朋友不加儿化音挑战（热度：17813）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AF%A5%E4%B8%8D%E8%AF%A5%E9%9B%87%E4%BD%A3%E8%80%81%E5%B9%B4%E4%BA%BA%E5%B7%A5%E4%BD%9C%23" target="weibo">
-该不该雇佣老年人工作（热度：11306）
+北方朋友不加儿化音挑战（热度：25157）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%81%E6%B5%AA%E7%8C%AB%E5%B8%A63%E7%8C%AB%E5%B4%BD%E6%8A%95%E5%A5%94%E5%96%82%E5%AE%83%E7%9A%84%E5%B0%8F%E5%A7%90%E5%A7%90%23" target="weibo">
-流浪猫带3猫崽投奔喂它的小姐姐（热度：8809）
+流浪猫带3猫崽投奔喂它的小姐姐（热度：16517）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AF%A5%E4%B8%8D%E8%AF%A5%E9%9B%87%E4%BD%A3%E8%80%81%E5%B9%B4%E4%BA%BA%E5%B7%A5%E4%BD%9C%23" target="weibo">
+该不该雇佣老年人工作（热度：14031）
 </a>
 </li>
 

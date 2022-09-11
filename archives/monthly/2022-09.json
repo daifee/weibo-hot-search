@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662931251538,
+  "endTime": 1662932319157,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -23260,7 +23260,7 @@
     },
     {
       "raw_hot": 58931,
-      "num": 35294,
+      "num": 36259,
       "word": "小学生沉迷文具店开盲盒",
       "onboard_time": 1662923173,
       "rank": 48,
@@ -23555,6 +23555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25157,
+      "num": 25157,
+      "word": "北方朋友不加儿化音挑战",
+      "onboard_time": 1662926772,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 24483,
       "num": 24483,
       "word": "F1荷兰大奖赛",
@@ -23659,20 +23667,20 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 17813,
-      "num": 17813,
-      "word": "北方朋友不加儿化音挑战",
-      "onboard_time": 1662926772,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 17544,
       "num": 17544,
       "word": "生活让你懂了些什么",
       "onboard_time": 1662487872,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 16517,
+      "num": 16517,
+      "word": "流浪猫带3猫崽投奔喂它的小姐姐",
+      "onboard_time": 1662929233,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14889,
@@ -23689,6 +23697,14 @@
       "onboard_time": 1662059291,
       "rank": 38,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 14031,
+      "num": 14031,
+      "word": "该不该雇佣老年人工作",
+      "onboard_time": 1662929772,
+      "rank": 42,
+      "category": "社会议题"
     },
     {
       "raw_hot": 13153,
@@ -23715,14 +23731,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 11306,
-      "num": 11306,
-      "word": "该不该雇佣老年人工作",
-      "onboard_time": 1662929772,
-      "rank": 42,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 10153,
       "num": 10153,
       "word": "学生为老师自制月饼花束过中秋",
@@ -23745,14 +23753,6 @@
       "onboard_time": 1662754990,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 8809,
-      "num": 8809,
-      "word": "流浪猫带3猫崽投奔喂它的小姐姐",
-      "onboard_time": 1662929233,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 8070,
