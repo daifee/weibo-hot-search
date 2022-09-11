@@ -1,6 +1,6 @@
 {
   "startTime": 1662827496894,
-  "endTime": 1662880906328,
+  "endTime": 1662881855570,
   "band_list": [
     {
       "raw_hot": 9384525,
@@ -99,6 +99,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 1744223,
+      "num": 1744223,
+      "word": "山东济宁表示深深歉意",
+      "onboard_time": 1662879688,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1719320,
       "num": 1240470,
       "word": "单依纯 妆",
@@ -144,14 +152,6 @@
       "word": "姥姥用绳把双胞胎拴腰上做饭",
       "onboard_time": 1662864512,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1247266,
-      "num": 1247266,
-      "word": "山东济宁表示深深歉意",
-      "onboard_time": 1662879688,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -227,6 +227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 906462,
+      "num": 906462,
+      "word": "年轻人为什么爱买手机壳",
+      "onboard_time": 1662879629,
+      "rank": 12,
+      "category": "科技,情感"
+    },
+    {
       "raw_hot": 861940,
       "num": 861940,
       "word": "安徽一中学班费每人2000全班8万",
@@ -275,12 +283,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 675455,
-      "num": 675455,
+      "raw_hot": 722445,
+      "num": 722445,
       "word": "每周锻炼3到10小时死亡风险最低",
       "onboard_time": 1662872673,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 702907,
+      "num": 702907,
+      "word": "12岁妹妹偷偷往姐姐行李里塞钱",
+      "onboard_time": 1662878070,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 668448,
@@ -307,12 +323,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 601719,
-      "num": 601719,
-      "word": "12岁妹妹偷偷往姐姐行李里塞钱",
-      "onboard_time": 1662878070,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 609280,
+      "num": 609280,
+      "word": "王一博没有感情的刨冰机",
+      "onboard_time": 1662880829,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 596617,
@@ -321,6 +337,14 @@
       "onboard_time": 1662823007,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 593928,
+      "num": 593928,
+      "word": "赵粤毕业公演",
+      "onboard_time": 1662880050,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 580008,
@@ -371,20 +395,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 499961,
-      "num": 499961,
-      "word": "年轻人为什么爱买手机壳",
-      "onboard_time": 1662879629,
-      "rank": 12,
-      "category": "科技,情感"
-    },
-    {
-      "raw_hot": 499873,
-      "num": 499873,
+      "raw_hot": 508277,
+      "num": 508277,
       "word": "泸定地震最高烈度为9度",
       "onboard_time": 1662878849,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 476659,
+      "num": 476659,
+      "word": "GAI说唱巅峰MVP",
+      "onboard_time": 1662881250,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 471776,
@@ -395,20 +419,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 465192,
+      "num": 357796,
+      "word": "辰亦儒越努力越透明",
+      "onboard_time": 1662881188,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 459288,
       "num": 459288,
       "word": "女儿中秋未归监控看父亲院中远眺",
       "onboard_time": 1662864512,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 454836,
-      "num": 454836,
-      "word": "赵粤毕业公演",
-      "onboard_time": 1662880050,
-      "rank": 15,
-      "category": "音乐"
     },
     {
       "raw_hot": 434747,
@@ -441,14 +465,6 @@
       "onboard_time": 1662868769,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 417371,
-      "num": 417371,
-      "word": "王一博没有感情的刨冰机",
-      "onboard_time": 1662880829,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 416957,
@@ -504,6 +520,14 @@
       "word": "张定宇决定捐遗体用于渐冻症研究",
       "onboard_time": 1662866731,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 357876,
+      "num": 357876,
+      "word": "大闸蟹死后2小时菌落总数激增",
+      "onboard_time": 1662879448,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -771,6 +795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 228746,
+      "num": 228746,
+      "word": "公司过节包水饺有人吃出水龙头馅",
+      "onboard_time": 1662880526,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227018,
       "num": 227018,
       "word": "周扬青洛可可童趣大片",
@@ -915,11 +947,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 176534,
-      "num": 176534,
-      "word": "大闸蟹死后2小时菌落总数激增",
-      "onboard_time": 1662879448,
-      "rank": 36,
+      "raw_hot": 175339,
+      "num": 175339,
+      "word": "两月宝宝哭闹6岁姐姐教科书式哄娃",
+      "onboard_time": 1662880648,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -945,6 +977,14 @@
       "onboard_time": 1662870814,
       "rank": 45,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 166142,
+      "num": 166142,
+      "word": "中国女生国外街头穿古装扮嫦娥",
+      "onboard_time": 1662880350,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163826,
@@ -1043,6 +1083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134440,
+      "num": 134440,
+      "word": "刘洋吃上了莲蓉馅月饼",
+      "onboard_time": 1662877950,
+      "rank": 38,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 133648,
       "num": 112845,
       "word": "07男团中秋新歌烟火气",
@@ -1057,14 +1105,6 @@
       "onboard_time": 1662782606,
       "rank": 27,
       "category": "情感,社会议题"
-    },
-    {
-      "raw_hot": 126576,
-      "num": 126576,
-      "word": "刘洋吃上了莲蓉馅月饼",
-      "onboard_time": 1662877950,
-      "rank": 38,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 124832,
@@ -1091,14 +1131,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 115901,
-      "num": 115901,
-      "word": "两月宝宝哭闹6岁姐姐教科书式哄娃",
-      "onboard_time": 1662880648,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 113632,
       "num": 113632,
       "word": "没见过这么敷衍的中秋月亮",
@@ -1123,12 +1155,12 @@
       "category": "幽默,社会新闻"
     },
     {
-      "raw_hot": 107608,
-      "num": 107608,
-      "word": "公司过节包水饺有人吃出水龙头馅",
-      "onboard_time": 1662880526,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 106741,
+      "num": 106741,
+      "word": "原来乌龟也会搭讪失败",
+      "onboard_time": 1662881250,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 106311,
@@ -1145,14 +1177,6 @@
       "onboard_time": 1662819046,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 101643,
-      "num": 101643,
-      "word": "中国女生国外街头穿古装扮嫦娥",
-      "onboard_time": 1662880350,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 101264,
