@@ -1,6 +1,6 @@
 {
   "startTime": 1662827496894,
-  "endTime": 1662901497676,
+  "endTime": 1662903384956,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 4003752,
-      "num": 721018,
+      "num": 1972200,
       "word": "辟谣显得无比可笑",
       "onboard_time": 1662893262,
       "rank": 12,
@@ -89,6 +89,14 @@
       "onboard_time": 1662875491,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2730773,
+      "num": 2730773,
+      "word": "UR被曝抄袭",
+      "onboard_time": 1662898980,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2729008,
@@ -128,14 +136,6 @@
       "word": "远离嫖娼别心动更别行动",
       "onboard_time": 1662895570,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2184873,
-      "num": 2184873,
-      "word": "UR被曝抄袭",
-      "onboard_time": 1662898980,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -185,6 +185,14 @@
       "onboard_time": 1662825641,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1799737,
+      "num": 1799737,
+      "word": "学生因没手机扫码被司机赶下公交",
+      "onboard_time": 1662900115,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1780360,
@@ -299,6 +307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1167327,
+      "num": 1167327,
+      "word": "你安全吗",
+      "onboard_time": 1662899157,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1161591,
       "num": 608333,
       "word": "辰亦儒越努力越透明",
@@ -321,14 +337,6 @@
       "onboard_time": 1662869911,
       "rank": 41,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 1097573,
-      "num": 1097573,
-      "word": "你安全吗",
-      "onboard_time": 1662899157,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 1085695,
@@ -393,14 +401,6 @@
       "onboard_time": 1662868530,
       "rank": 9,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 848896,
-      "num": 848896,
-      "word": "学生因没手机扫码被司机赶下公交",
-      "onboard_time": 1662900115,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 832682,
@@ -579,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 569949,
+      "num": 569949,
+      "word": "松弛感穿搭",
+      "onboard_time": 1662898918,
+      "rank": 23,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 548843,
       "num": 548843,
       "word": "巴布亚新几内亚发生7.6级地震",
@@ -611,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 520538,
+      "num": 240855,
+      "word": "极限挑战",
+      "onboard_time": 1662900715,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 510684,
       "num": 354942,
       "word": "王鹤棣银色波光衬衫造型",
@@ -635,20 +651,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 480711,
+      "num": 214221,
+      "word": "你安全吗大数据4步教你捉奸",
+      "onboard_time": 1662902928,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 476659,
       "num": 476659,
       "word": "GAI说唱巅峰MVP",
       "onboard_time": 1662881250,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 474434,
-      "num": 474434,
-      "word": "松弛感穿搭",
-      "onboard_time": 1662898918,
-      "rank": 23,
-      "category": "时尚"
     },
     {
       "raw_hot": 471776,
@@ -827,6 +843,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 345071,
+      "num": 345071,
+      "word": "十五的月亮十六圆",
+      "onboard_time": 1662901669,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 343189,
       "num": 231250,
       "word": "时代少年团绝配一镜到底舞台",
@@ -873,14 +897,6 @@
       "onboard_time": 1662857073,
       "rank": 17,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 319966,
-      "num": 207244,
-      "word": "极限挑战",
-      "onboard_time": 1662900715,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 315817,
@@ -963,6 +979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 293026,
+      "num": 209681,
+      "word": "脱口秀大会5突围赛好刺激",
+      "onboard_time": 1662900293,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 291105,
       "num": 291105,
       "word": "成都世乒赛中国队名单公布",
@@ -1011,6 +1035,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 272996,
+      "num": 201686,
+      "word": "一口气炫完你安全吗四集",
+      "onboard_time": 1662903047,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 271714,
       "num": 271714,
       "word": "月亮上的中国兔兔已出差3年多",
@@ -1057,6 +1089,14 @@
       "onboard_time": 1662867633,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 268648,
+      "num": 192473,
+      "word": "违法行为洗是洗不掉的",
+      "onboard_time": 1662901973,
+      "rank": 33,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 267796,
@@ -1195,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233242,
+      "num": 233242,
+      "word": "古人的烘焙作品什么样",
+      "onboard_time": 1662901913,
+      "rank": 25,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 233063,
       "num": 160517,
       "word": "冰雨火",
@@ -1235,6 +1283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218021,
+      "num": 218021,
+      "word": "木星合月美景整夜可见",
+      "onboard_time": 1662901553,
+      "rank": 28,
+      "category": "自然,社会新闻"
+    },
+    {
       "raw_hot": 215692,
       "num": 215692,
       "word": "李景亮分歧判定告负",
@@ -1267,14 +1323,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 209086,
-      "num": 196583,
-      "word": "脱口秀大会5突围赛好刺激",
-      "onboard_time": 1662900293,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 206541,
       "num": 206541,
       "word": "2022育碧前瞻会",
@@ -1305,6 +1353,14 @@
       "onboard_time": 1662859891,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194996,
+      "num": 126254,
+      "word": "京都念慈菴终止与李易峰合作",
+      "onboard_time": 1662902989,
+      "rank": 40,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 193044,
