@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1662918160061,
+  "endTime": 1662920894978,
   "band_list": [
     {
       "raw_hot": 2335033,
@@ -49,6 +49,14 @@
       "onboard_time": 1662908453,
       "rank": 13,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 898288,
+      "num": 898288,
+      "word": "网传刘浩存林一新剧脱轨将开机",
+      "onboard_time": 1662918740,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 765370,
@@ -355,6 +363,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 62043,
+      "num": 41097,
+      "word": "鹿晗运动天赋",
+      "onboard_time": 1662918679,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 60010,
       "num": 60010,
       "word": "冉莹颖邹市明家庭氛围好欢乐",
@@ -395,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54902,
+      "num": 29088,
+      "word": "20岁和15岁的自己合唱",
+      "onboard_time": 1662916646,
+      "rank": 40,
+      "category": "音乐,情感"
+    },
+    {
       "raw_hot": 48486,
       "num": 48486,
       "word": "木星合月美景整夜可见",
@@ -419,12 +443,20 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 28317,
-      "num": 28317,
+      "raw_hot": 33794,
+      "num": 33794,
       "word": "李景亮懵了",
       "onboard_time": 1662917602,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 13202,
+      "num": 13202,
+      "word": "什么是极简养猫法",
+      "onboard_time": 1662920718,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 5275,
