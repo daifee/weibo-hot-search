@@ -1,7 +1,15 @@
 {
   "startTime": 1662827496894,
-  "endTime": 1662853316421,
+  "endTime": 1662863588819,
   "band_list": [
+    {
+      "raw_hot": 3595316,
+      "num": 3595316,
+      "word": "教育局回应河南一老师晒节日礼物",
+      "onboard_time": 1662859473,
+      "rank": 0,
+      "category": "教育,社会新闻"
+    },
     {
       "raw_hot": 2284966,
       "num": 383177,
@@ -33,6 +41,14 @@
       "onboard_time": 1662824142,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1684983,
+      "num": 524912,
+      "word": "韩国40代男演员吸毒被逮捕",
+      "onboard_time": 1662862713,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1542523,
@@ -67,6 +83,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 924396,
+      "num": 770304,
+      "word": "济宁疫情防控",
+      "onboard_time": 1662823307,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 832682,
       "num": 832682,
       "word": "公司花27万给员工每人发30件礼品",
@@ -92,7 +116,7 @@
     },
     {
       "raw_hot": 763887,
-      "num": 358896,
+      "num": 519923,
       "word": "自家地投毒玉米粒致9羊死被判缓刑",
       "onboard_time": 1662819941,
       "rank": 12,
@@ -100,19 +124,19 @@
     },
     {
       "raw_hot": 727722,
-      "num": 261179,
+      "num": 408388,
       "word": "成都小区",
       "onboard_time": 1662831981,
       "rank": 10,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 673680,
-      "num": 673680,
-      "word": "济宁疫情防控",
-      "onboard_time": 1662823307,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 640807,
+      "num": 640807,
+      "word": "哥你好票房破亿",
+      "onboard_time": 1662854549,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 626668,
@@ -137,6 +161,38 @@
       "onboard_time": 1662815987,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 548843,
+      "num": 548843,
+      "word": "巴布亚新几内亚发生7.6级地震",
+      "onboard_time": 1662857613,
+      "rank": 8,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 529244,
+      "num": 529244,
+      "word": "刺客信条中国背景手游",
+      "onboard_time": 1662859953,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 510459,
+      "num": 510459,
+      "word": "湖北新增45例本土无症状",
+      "onboard_time": 1662859654,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 471776,
+      "num": 275990,
+      "word": "karry王的日常",
+      "onboard_time": 1662860492,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 434747,
@@ -171,6 +227,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 345366,
+      "num": 345366,
+      "word": "李景亮",
+      "onboard_time": 1662854549,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 342560,
       "num": 169636,
       "word": "檀健次毛晓彤 孤独颂歌",
@@ -187,12 +251,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334211,
+      "num": 334211,
+      "word": "81岁老教师直播讲课数十万人追更",
+      "onboard_time": 1662857073,
+      "rank": 17,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 315616,
       "num": 113602,
       "word": "王心凌直播",
       "onboard_time": 1662822114,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 279948,
+      "num": 279948,
+      "word": "曾经靠砍树谋生的林区人怎么样了",
+      "onboard_time": 1662859354,
+      "rank": 18,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 271714,
+      "num": 271714,
+      "word": "月亮上的中国兔兔已出差3年多",
+      "onboard_time": 1662858633,
+      "rank": 23,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 270402,
@@ -208,6 +296,14 @@
       "word": "喜鹊飞进教室叼走女生耳机",
       "onboard_time": 1662816888,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265420,
+      "num": 265420,
+      "word": "北京新增10例本土感染者",
+      "onboard_time": 1662855992,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -251,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226793,
+      "num": 226793,
+      "word": "台风梅花加强为强台风级",
+      "onboard_time": 1662861992,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220157,
       "num": 220157,
       "word": "枪杀安倍嫌犯人生被拍成电影",
@@ -275,6 +379,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 206541,
+      "num": 206541,
+      "word": "2022育碧前瞻会",
+      "onboard_time": 1662863194,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 195184,
+      "num": 195184,
+      "word": "9月10日新增本土无症状959例",
+      "onboard_time": 1662859891,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193044,
       "num": 165240,
       "word": "iPhone13Pro系列停产",
@@ -289,6 +409,14 @@
       "onboard_time": 1662852503,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189246,
+      "num": 189246,
+      "word": "UFC279",
+      "onboard_time": 1662857732,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 186986,
@@ -307,12 +435,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 167216,
+      "num": 167216,
+      "word": "平安归来震中24勇士的姓名",
+      "onboard_time": 1662860432,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163826,
       "num": 163826,
       "word": "班主任为51个娃设53个班干部岗位",
       "onboard_time": 1662805535,
       "rank": 24,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 162507,
+      "num": 162507,
+      "word": "梅西助攻内马尔进球",
+      "onboard_time": 1662858512,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 161876,
+      "num": 161876,
+      "word": "阿根廷今年通胀率或达95%",
+      "onboard_time": 1662855809,
+      "rank": 39,
+      "category": "财经,国外要闻"
     },
     {
       "raw_hot": 156901,
@@ -323,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153892,
+      "num": 153892,
+      "word": "为什么死掉的螃蟹不能吃",
+      "onboard_time": 1662863310,
+      "rank": 40,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 148863,
       "num": 148863,
       "word": "中秋文案",
@@ -331,12 +491,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148481,
+      "num": 148481,
+      "word": "吉诺比利正式进入名人堂",
+      "onboard_time": 1662862953,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144778,
       "num": 112957,
       "word": "王鹤棣直播",
       "onboard_time": 1662803252,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137458,
+      "num": 137458,
+      "word": "2022篮球名人堂",
+      "onboard_time": 1662861513,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 133648,
@@ -353,6 +529,14 @@
       "onboard_time": 1662782606,
       "rank": 27,
       "category": "情感,社会议题"
+    },
+    {
+      "raw_hot": 121793,
+      "num": 121793,
+      "word": "这就是猫咪召唤术吧",
+      "onboard_time": 1662854608,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 121387,
@@ -409,6 +593,14 @@
       "onboard_time": 1662801569,
       "rank": 38,
       "category": "国外要闻,社会新闻"
+    },
+    {
+      "raw_hot": 99714,
+      "num": 99714,
+      "word": "灵动岛被指抄袭安卓厂商",
+      "onboard_time": 1662863553,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 93658,

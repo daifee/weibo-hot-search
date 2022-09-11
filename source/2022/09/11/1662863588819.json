@@ -1,0 +1,410 @@
+{
+  "runTime": 1662863588819,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3595316,
+        "num": 3595316,
+        "word": "教育局回应河南一老师晒节日礼物",
+        "onboard_time": 1662859473,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 777465,
+        "num": 777465,
+        "word": "女子在禁区游泳被套头拉回",
+        "onboard_time": 1662829350,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118946,
+        "num": 772023,
+        "word": "拍一拍中秋月亮",
+        "onboard_time": 1662811248,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1136946,
+        "num": 771195,
+        "word": "原来iPhone自带防偷窥功能",
+        "onboard_time": 1662822773,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 924396,
+        "num": 770304,
+        "word": "济宁疫情防控",
+        "onboard_time": 1662823307,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 768875,
+        "num": 768875,
+        "word": "曾毅 没来",
+        "onboard_time": 1662819406,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 668056,
+        "num": 668056,
+        "word": "快乐再出发制片人向魏晨方道歉",
+        "onboard_time": 1662825641,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 640807,
+        "num": 640807,
+        "word": "哥你好票房破亿",
+        "onboard_time": 1662854549,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 548843,
+        "num": 548843,
+        "word": "巴布亚新几内亚发生7.6级地震",
+        "onboard_time": 1662857613,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 529244,
+        "num": 529244,
+        "word": "刺客信条中国背景手游",
+        "onboard_time": 1662859953,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1684983,
+        "num": 524912,
+        "word": "韩国40代男演员吸毒被逮捕",
+        "onboard_time": 1662862713,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 573102,
+        "num": 519923,
+        "word": "自家地投毒玉米粒致9羊死被判缓刑",
+        "onboard_time": 1662819941,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553545,
+        "num": 515504,
+        "word": "探清水河",
+        "onboard_time": 1662829891,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 510459,
+        "num": 510459,
+        "word": "湖北新增45例本土无症状",
+        "onboard_time": 1662859654,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429304,
+        "num": 429304,
+        "word": "单依纯 妆",
+        "onboard_time": 1662824142,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 408388,
+        "num": 408388,
+        "word": "成都小区",
+        "onboard_time": 1662831981,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345366,
+        "num": 345366,
+        "word": "李景亮",
+        "onboard_time": 1662854549,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 334211,
+        "num": 334211,
+        "word": "81岁老教师直播讲课数十万人追更",
+        "onboard_time": 1662857073,
+        "rank": 17,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 279948,
+        "num": 279948,
+        "word": "曾经靠砍树谋生的林区人怎么样了",
+        "onboard_time": 1662859354,
+        "rank": 18,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 277076,
+        "num": 277076,
+        "word": "公司花27万给员工每人发30件礼品",
+        "onboard_time": 1662820066,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471776,
+        "num": 275990,
+        "word": "karry王的日常",
+        "onboard_time": 1662860492,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415934,
+        "num": 274460,
+        "word": "央视秋晚镜头下的王一博",
+        "onboard_time": 1662823071,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272814,
+        "num": 272814,
+        "word": "王嘉尔的歌词里有苏炳添",
+        "onboard_time": 1662827855,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 271714,
+        "num": 271714,
+        "word": "月亮上的中国兔兔已出差3年多",
+        "onboard_time": 1662858633,
+        "rank": 23,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 265420,
+        "num": 265420,
+        "word": "北京新增10例本土感染者",
+        "onboard_time": 1662855992,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257745,
+        "num": 257745,
+        "word": "民警单膝跪求婚女友双膝跪地",
+        "onboard_time": 1662823007,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245655,
+        "num": 245655,
+        "word": "你最想给的一条婚姻忠告是什么",
+        "onboard_time": 1662845291,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226793,
+        "num": 226793,
+        "word": "台风梅花加强为强台风级",
+        "onboard_time": 1662861992,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206541,
+        "num": 206541,
+        "word": "2022育碧前瞻会",
+        "onboard_time": 1662863194,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 195184,
+        "num": 195184,
+        "word": "9月10日新增本土无症状959例",
+        "onboard_time": 1662859891,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264837,
+        "num": 194951,
+        "word": "棣欣引力",
+        "onboard_time": 1662824263,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243849,
+        "num": 194931,
+        "word": "新疆小伙用17000个番茄摆嫦娥奔月",
+        "onboard_time": 1662828870,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205640,
+        "num": 194764,
+        "word": "鸟鸟 好笑",
+        "onboard_time": 1662824803,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194495,
+        "num": 194495,
+        "word": "美国家庭净资产缩水6.1万亿美元",
+        "onboard_time": 1662840251,
+        "rank": 33,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 189246,
+        "num": 189246,
+        "word": "UFC279",
+        "onboard_time": 1662857732,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180691,
+        "num": 180691,
+        "word": "刘恺威 央视中秋晚会",
+        "onboard_time": 1662815987,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176840,
+        "num": 176840,
+        "word": "那英说你们知道我最烦什么样的人",
+        "onboard_time": 1662852503,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167216,
+        "num": 167216,
+        "word": "平安归来震中24勇士的姓名",
+        "onboard_time": 1662860432,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162507,
+        "num": 162507,
+        "word": "梅西助攻内马尔进球",
+        "onboard_time": 1662858512,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161876,
+        "num": 161876,
+        "word": "阿根廷今年通胀率或达95%",
+        "onboard_time": 1662855809,
+        "rank": 39,
+        "category": "财经,国外要闻"
+      },
+      {
+        "raw_hot": 153892,
+        "num": 153892,
+        "word": "为什么死掉的螃蟹不能吃",
+        "onboard_time": 1662863310,
+        "rank": 40,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 148481,
+        "num": 148481,
+        "word": "吉诺比利正式进入名人堂",
+        "onboard_time": 1662862953,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145200,
+        "num": 145200,
+        "word": "檀健次毛晓彤 孤独颂歌",
+        "onboard_time": 1662817247,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137458,
+        "num": 137458,
+        "word": "2022篮球名人堂",
+        "onboard_time": 1662861513,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137432,
+        "num": 137432,
+        "word": "喜鹊飞进教室叼走女生耳机",
+        "onboard_time": 1662816888,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123704,
+        "num": 123704,
+        "word": "中国传媒大学新增7名感染者",
+        "onboard_time": 1662821087,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121793,
+        "num": 121793,
+        "word": "这就是猫咪召唤术吧",
+        "onboard_time": 1662854608,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119149,
+        "num": 119149,
+        "word": "吴磊晒中秋节月饼自拍",
+        "onboard_time": 1662820007,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103804,
+        "num": 103804,
+        "word": "海南所有市县已实现社会面清零",
+        "onboard_time": 1662844271,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99714,
+        "num": 99714,
+        "word": "灵动岛被指抄袭安卓厂商",
+        "onboard_time": 1662863553,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#让中华文化展现出永久魅力和时代风采#"
+    }
+  }
+}
