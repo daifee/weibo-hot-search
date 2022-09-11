@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1662920894978,
+  "endTime": 1662921955883,
   "band_list": [
     {
       "raw_hot": 2335033,
@@ -43,20 +43,20 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1088022,
+      "num": 1088022,
+      "word": "网传刘浩存林一新剧脱轨将开机",
+      "onboard_time": 1662918740,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 903414,
       "num": 345672,
       "word": "律师谈多次嫖娼处罚",
       "onboard_time": 1662908453,
       "rank": 13,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 898288,
-      "num": 898288,
-      "word": "网传刘浩存林一新剧脱轨将开机",
-      "onboard_time": 1662918740,
-      "rank": 0,
-      "category": "影视"
     },
     {
       "raw_hot": 765370,
@@ -403,20 +403,20 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 55283,
+      "num": 34596,
+      "word": "20岁和15岁的自己合唱",
+      "onboard_time": 1662916646,
+      "rank": 40,
+      "category": "音乐,情感"
+    },
+    {
       "raw_hot": 54997,
       "num": 54997,
       "word": "十五的月亮十六圆",
       "onboard_time": 1662901669,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 54902,
-      "num": 29088,
-      "word": "20岁和15岁的自己合唱",
-      "onboard_time": 1662916646,
-      "rank": 40,
-      "category": "音乐,情感"
     },
     {
       "raw_hot": 48486,
@@ -443,16 +443,16 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 33794,
-      "num": 33794,
+      "raw_hot": 34982,
+      "num": 34982,
       "word": "李景亮懵了",
       "onboard_time": 1662917602,
       "rank": 46,
       "category": "体育"
     },
     {
-      "raw_hot": 13202,
-      "num": 13202,
+      "raw_hot": 15950,
+      "num": 15950,
       "word": "什么是极简养猫法",
       "onboard_time": 1662920718,
       "rank": 49,
