@@ -1,6 +1,6 @@
 {
   "startTime": 1662827496894,
-  "endTime": 1662877803198,
+  "endTime": 1662878919897,
   "band_list": [
     {
       "raw_hot": 9384525,
@@ -17,6 +17,14 @@
       "onboard_time": 1662859473,
       "rank": 0,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 2785993,
+      "num": 2785993,
+      "word": "李景亮被抢劫",
+      "onboard_time": 1662875491,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 2729008,
@@ -115,8 +123,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1444040,
-      "num": 1444040,
+      "raw_hot": 1496703,
+      "num": 1496703,
       "word": "三个院人凑不齐一个复活名额",
       "onboard_time": 1662876510,
       "rank": 3,
@@ -136,14 +144,6 @@
       "word": "李景亮",
       "onboard_time": 1662854549,
       "rank": 16,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1150142,
-      "num": 1150142,
-      "word": "李景亮被抢劫",
-      "onboard_time": 1662875491,
-      "rank": 47,
       "category": "体育"
     },
     {
@@ -251,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 679919,
+      "num": 679919,
+      "word": "夏鸣星 布丁狗",
+      "onboard_time": 1662877710,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 668448,
       "num": 668448,
       "word": "宠物狗晕车女子高速上下车遛狗",
@@ -316,7 +324,7 @@
     },
     {
       "raw_hot": 510684,
-      "num": 190633,
+      "num": 285632,
       "word": "王鹤棣银色波光衬衫造型",
       "onboard_time": 1662876088,
       "rank": 20,
@@ -331,8 +339,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 493919,
-      "num": 493919,
+      "raw_hot": 505486,
+      "num": 505486,
       "word": "每周锻炼3到10小时死亡风险最低",
       "onboard_time": 1662872673,
       "rank": 19,
@@ -476,7 +484,7 @@
     },
     {
       "raw_hot": 313653,
-      "num": 183210,
+      "num": 282446,
       "word": "王嘉尔新专辑登39个iTunes第一",
       "onboard_time": 1662877292,
       "rank": 21,
@@ -489,6 +497,14 @@
       "onboard_time": 1662871838,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 306718,
+      "num": 284184,
+      "word": "希林娜依高抛梗自己捡",
+      "onboard_time": 1662875607,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 306346,
@@ -507,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 292035,
+      "num": 292035,
+      "word": "王者S29新赛季即将开启",
+      "onboard_time": 1662877770,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 289823,
       "num": 289823,
       "word": "魏大勋1秒答出蝴蝶和蛾子的区别",
@@ -515,12 +539,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 281604,
-      "num": 178741,
-      "word": "希林娜依高抛梗自己捡",
-      "onboard_time": 1662875607,
-      "rank": 22,
-      "category": "作品衍生"
+      "raw_hot": 286022,
+      "num": 286022,
+      "word": "911恐袭21年后美国更安全了吗",
+      "onboard_time": 1662874471,
+      "rank": 43,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 279948,
@@ -579,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261924,
+      "num": 75462,
+      "word": "李振宁被扔下水",
+      "onboard_time": 1662878911,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 260073,
       "num": 260073,
       "word": "你最想给的一条婚姻忠告是什么",
@@ -625,6 +657,14 @@
       "onboard_time": 1662866192,
       "rank": 24,
       "category": "情感,美食"
+    },
+    {
+      "raw_hot": 243368,
+      "num": 141569,
+      "word": "脱口秀大会",
+      "onboard_time": 1662878070,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 241070,
@@ -683,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219575,
+      "num": 219575,
+      "word": "中秋节阿姨烧两大锅菜送消防员",
+      "onboard_time": 1662875849,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215692,
       "num": 215692,
       "word": "李景亮分歧判定告负",
@@ -697,6 +745,14 @@
       "onboard_time": 1662814428,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211336,
+      "num": 112907,
+      "word": "华春莹点赞千里共婵娟",
+      "onboard_time": 1662878729,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 210653,
@@ -745,6 +801,14 @@
       "onboard_time": 1662857732,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187576,
+      "num": 187576,
+      "word": "12岁妹妹偷偷往姐姐行李里塞钱",
+      "onboard_time": 1662878070,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186986,
@@ -803,28 +867,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 170258,
-      "num": 170258,
-      "word": "911恐袭21年后美国更安全了吗",
-      "onboard_time": 1662874471,
-      "rank": 43,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 168547,
       "num": 168547,
       "word": "没点技能都不好意思去监考",
       "onboard_time": 1662870814,
       "rank": 45,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 165690,
-      "num": 165690,
-      "word": "夏鸣星 布丁狗",
-      "onboard_time": 1662877710,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 163826,
@@ -907,14 +955,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 143780,
-      "num": 143780,
-      "word": "中秋节阿姨烧两大锅菜送消防员",
-      "onboard_time": 1662875849,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135513,
       "num": 135513,
       "word": "国乒世乒赛战队名单",
@@ -929,6 +969,14 @@
       "onboard_time": 1662819766,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132693,
+      "num": 132693,
+      "word": "墨尔本金毛日",
+      "onboard_time": 1662878729,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 131193,
@@ -961,6 +1009,14 @@
       "onboard_time": 1662798386,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 114446,
+      "num": 114446,
+      "word": "刘洋吃上了莲蓉馅月饼",
+      "onboard_time": 1662877950,
+      "rank": 38,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 113632,
@@ -1035,12 +1091,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 88402,
+      "num": 88402,
+      "word": "这宠物是可以养的吗",
+      "onboard_time": 1662878428,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 86004,
+      "num": 86004,
+      "word": "熊猫宝宝集体趴睡现场",
+      "onboard_time": 1662878370,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81630,
       "num": 80462,
       "word": "韩庚街舞第一次被动作支配",
       "onboard_time": 1662818922,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 79471,
+      "num": 1847932,
+      "word": "绿水青山是我家",
+      "onboard_time": 1662873633,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 79019,
@@ -1059,6 +1139,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 73087,
+      "num": 73087,
+      "word": "泸定地震最高烈度为9度",
+      "onboard_time": 1662878849,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72565,
       "num": 72565,
       "word": "月饼也分门派",
@@ -1073,22 +1161,6 @@
       "onboard_time": 1662793708,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 71050,
-      "num": 62938,
-      "word": "王者S29新赛季即将开启",
-      "onboard_time": 1662877770,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 70150,
-      "num": 1665677,
-      "word": "绿水青山是我家",
-      "onboard_time": 1662873633,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 65973,
