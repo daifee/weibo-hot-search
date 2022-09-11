@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662903384956,
+  "endTime": 1662904146028,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 4003752,
-      "num": 1972200,
+      "num": 2250014,
       "word": "辟谣显得无比可笑",
       "onboard_time": 1662893262,
       "rank": 12,
@@ -707,6 +707,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 2112168,
+      "num": 2112168,
+      "word": "学生因没手机扫码被司机赶下公交",
+      "onboard_time": 1662900115,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2099949,
       "num": 1131790,
       "word": "刘青松",
@@ -929,14 +937,6 @@
       "onboard_time": 1662460470,
       "rank": 42,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1799737,
-      "num": 1799737,
-      "word": "学生因没手机扫码被司机赶下公交",
-      "onboard_time": 1662900115,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1797282,
@@ -1891,6 +1891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1210209,
+      "num": 1210209,
+      "word": "你安全吗",
+      "onboard_time": 1662899157,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1208599,
       "num": 1208599,
       "word": "父亲信偏方让8岁女儿抽旱烟治脸黄",
@@ -1977,14 +1985,6 @@
       "onboard_time": 1662305731,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1167327,
-      "num": 1167327,
-      "word": "你安全吗",
-      "onboard_time": 1662899157,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 1164066,
@@ -4339,6 +4339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 617426,
+      "num": 617426,
+      "word": "松弛感穿搭",
+      "onboard_time": 1662898918,
+      "rank": 23,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 617337,
       "num": 617337,
       "word": "赵露思偷偷藏不住下班路透图",
@@ -4683,12 +4691,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 569949,
-      "num": 569949,
-      "word": "松弛感穿搭",
-      "onboard_time": 1662898918,
-      "rank": 23,
-      "category": "时尚"
+      "raw_hot": 569624,
+      "num": 259025,
+      "word": "你安全吗大数据4步教你捉奸",
+      "onboard_time": 1662902928,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 563352,
@@ -5432,14 +5440,6 @@
       "word": "二十不惑第一季寻果本来是HE",
       "onboard_time": 1662701191,
       "rank": 17,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 480711,
-      "num": 214221,
-      "word": "你安全吗大数据4步教你捉奸",
-      "onboard_time": 1662902928,
-      "rank": 30,
       "category": "影视"
     },
     {
@@ -7795,6 +7795,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 321876,
+      "num": 192473,
+      "word": "违法行为洗是洗不掉的",
+      "onboard_time": 1662901973,
+      "rank": 33,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 321384,
       "num": 321384,
       "word": "网剧你安全吗",
@@ -8016,6 +8024,14 @@
       "word": "陈晓王一博冰雨火评分7.3",
       "onboard_time": 1662713789,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 312538,
+      "num": 201686,
+      "word": "一口气炫完你安全吗四集",
+      "onboard_time": 1662903047,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -8819,6 +8835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 282968,
+      "num": 282968,
+      "word": "星月争辉天象",
+      "onboard_time": 1662900475,
+      "rank": 26,
+      "category": "自然,社会新闻"
+    },
+    {
       "raw_hot": 282915,
       "num": 182543,
       "word": "NCTDREAM将开启世界巡演",
@@ -9139,14 +9163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 272996,
-      "num": 201686,
-      "word": "一口气炫完你安全吗四集",
-      "onboard_time": 1662903047,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 272785,
       "num": 272785,
       "word": "蒋兰州 喜欢我是早晚的事",
@@ -9321,14 +9337,6 @@
       "onboard_time": 1662867633,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 268648,
-      "num": 192473,
-      "word": "违法行为洗是洗不掉的",
-      "onboard_time": 1662901973,
-      "rank": 33,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 268250,
@@ -9913,14 +9921,6 @@
       "onboard_time": 1662456872,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 248285,
-      "num": 248285,
-      "word": "星月争辉天象",
-      "onboard_time": 1662900475,
-      "rank": 26,
-      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 248146,
@@ -10729,6 +10729,14 @@
       "onboard_time": 1662705986,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 224481,
+      "num": 115689,
+      "word": "沈翊这次和朱朝阳一起查案",
+      "onboard_time": 1662903830,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 224420,
