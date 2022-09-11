@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662900121670,
+  "endTime": 1662901497676,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 4003752,
-      "num": 577433,
+      "num": 721018,
       "word": "辟谣显得无比可笑",
       "onboard_time": 1662893262,
       "rank": 12,
@@ -912,6 +912,14 @@
       "word": "远离嫖娼别心动更别行动",
       "onboard_time": 1662895570,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2184873,
+      "num": 2184873,
+      "word": "UR被曝抄袭",
+      "onboard_time": 1662898980,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -3347,6 +3355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1097573,
+      "num": 1097573,
+      "word": "你安全吗",
+      "onboard_time": 1662899157,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1095817,
       "num": 1095817,
       "word": "Light身体不适",
@@ -3784,14 +3800,6 @@
       "word": "市民住35楼称地震时像坐大摆锤",
       "onboard_time": 1662372208,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1008570,
-      "num": 408620,
-      "word": "UR被曝抄袭",
-      "onboard_time": 1662898980,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -4947,6 +4955,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 848896,
+      "num": 848896,
+      "word": "学生因没手机扫码被司机赶下公交",
+      "onboard_time": 1662900115,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 846972,
       "num": 846972,
       "word": "有妖气漫画关停",
@@ -5379,14 +5395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 783111,
-      "num": 257684,
-      "word": "你安全吗",
-      "onboard_time": 1662899157,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 781936,
       "num": 781936,
       "word": "爱情保安刘宇宁",
@@ -5409,6 +5417,14 @@
       "onboard_time": 1661996248,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 778451,
+      "num": 397769,
+      "word": "王宝强说一切都太值得",
+      "onboard_time": 1662897298,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 776588,
@@ -7123,12 +7139,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 584702,
-      "num": 257342,
-      "word": "王宝强说一切都太值得",
-      "onboard_time": 1662897298,
-      "rank": 21,
-      "category": "综艺"
+      "raw_hot": 586707,
+      "num": 315623,
+      "word": "王嘉尔沉浸式清唱Blue",
+      "onboard_time": 1662898383,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 584258,
@@ -8747,6 +8763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 474434,
+      "num": 474434,
+      "word": "松弛感穿搭",
+      "onboard_time": 1662898918,
+      "rank": 23,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 474030,
       "num": 518681,
       "word": "肖战玉骨遥中秋海报",
@@ -9297,14 +9321,6 @@
       "onboard_time": 1662195627,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 442051,
-      "num": 256551,
-      "word": "王嘉尔沉浸式清唱Blue",
-      "onboard_time": 1662898383,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 441764,
@@ -10804,7 +10820,7 @@
     },
     {
       "raw_hot": 380771,
-      "num": 198634,
+      "num": 203538,
       "word": "檀健次平行",
       "onboard_time": 1662898438,
       "rank": 30,
@@ -11529,14 +11545,6 @@
       "onboard_time": 1662476612,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 358365,
-      "num": 256417,
-      "word": "松弛感穿搭",
-      "onboard_time": 1662898918,
-      "rank": 23,
-      "category": "时尚"
     },
     {
       "raw_hot": 358046,
@@ -12691,6 +12699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319966,
+      "num": 295703,
+      "word": "极限挑战",
+      "onboard_time": 1662298833,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 319759,
       "num": 319759,
       "word": "Junjia首发",
@@ -13763,14 +13779,6 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 295703,
-      "num": 295703,
-      "word": "极限挑战",
-      "onboard_time": 1662298833,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 295640,
       "num": 295640,
       "word": "成毅听到粉丝要做帝后的反应",
@@ -13977,6 +13985,14 @@
       "onboard_time": 1662780565,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 291105,
+      "num": 291105,
+      "word": "成都世乒赛中国队名单公布",
+      "onboard_time": 1662899934,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 290901,
@@ -14353,6 +14369,14 @@
       "onboard_time": 1662631527,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 282811,
+      "num": 282811,
+      "word": "2022夏季治安打击整治百日行动",
+      "onboard_time": 1662900954,
+      "rank": 24,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 282699,
@@ -15755,14 +15779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 256060,
-      "num": 256060,
-      "word": "成都世乒赛中国队名单公布",
-      "onboard_time": 1662899934,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 255877,
       "num": 255877,
       "word": "我国再次成功发射一箭双星",
@@ -16065,6 +16081,14 @@
       "onboard_time": 1662456872,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248285,
+      "num": 248285,
+      "word": "星月争辉天象",
+      "onboard_time": 1662900475,
+      "rank": 26,
+      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 248146,
@@ -17937,6 +17961,14 @@
       "onboard_time": 1662612689,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209086,
+      "num": 196583,
+      "word": "脱口秀大会5突围赛好刺激",
+      "onboard_time": 1662900293,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 208680,
@@ -19937,6 +19969,14 @@
       "onboard_time": 1662596429,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165330,
+      "num": 165330,
+      "word": "英雄联盟",
+      "onboard_time": 1662900595,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 165291,
@@ -22225,14 +22265,6 @@
       "onboard_time": 1662646717,
       "rank": 49,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 108772,
-      "num": 87635,
-      "word": "学生因没手机扫码被司机赶下公交",
-      "onboard_time": 1662900115,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108288,

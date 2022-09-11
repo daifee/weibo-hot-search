@@ -1,6 +1,6 @@
 {
   "startTime": 1662827496894,
-  "endTime": 1662900121670,
+  "endTime": 1662901497676,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 4003752,
-      "num": 577433,
+      "num": 721018,
       "word": "辟谣显得无比可笑",
       "onboard_time": 1662893262,
       "rank": 12,
@@ -128,6 +128,14 @@
       "word": "远离嫖娼别心动更别行动",
       "onboard_time": 1662895570,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2184873,
+      "num": 2184873,
+      "word": "UR被曝抄袭",
+      "onboard_time": 1662898980,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -315,6 +323,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 1097573,
+      "num": 1097573,
+      "word": "你安全吗",
+      "onboard_time": 1662899157,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1085695,
       "num": 1085695,
       "word": "探清水河",
@@ -337,14 +353,6 @@
       "onboard_time": 1662823071,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1008570,
-      "num": 408620,
-      "word": "UR被曝抄袭",
-      "onboard_time": 1662898980,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 936454,
@@ -387,6 +395,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 848896,
+      "num": 848896,
+      "word": "学生因没手机扫码被司机赶下公交",
+      "onboard_time": 1662900115,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 832682,
       "num": 832682,
       "word": "公司花27万给员工每人发30件礼品",
@@ -427,12 +443,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 783111,
-      "num": 257684,
-      "word": "你安全吗",
-      "onboard_time": 1662899157,
-      "rank": 20,
-      "category": "影视"
+      "raw_hot": 778451,
+      "num": 397769,
+      "word": "王宝强说一切都太值得",
+      "onboard_time": 1662897298,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 763887,
@@ -539,12 +555,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 584702,
-      "num": 257342,
-      "word": "王宝强说一切都太值得",
-      "onboard_time": 1662897298,
-      "rank": 21,
-      "category": "综艺"
+      "raw_hot": 586707,
+      "num": 315623,
+      "word": "王嘉尔沉浸式清唱Blue",
+      "onboard_time": 1662898383,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 580008,
@@ -627,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 474434,
+      "num": 474434,
+      "word": "松弛感穿搭",
+      "onboard_time": 1662898918,
+      "rank": 23,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 471776,
       "num": 288288,
       "word": "karry王的日常",
@@ -649,14 +673,6 @@
       "onboard_time": 1662880350,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 442051,
-      "num": 256551,
-      "word": "王嘉尔沉浸式清唱Blue",
-      "onboard_time": 1662898383,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 434747,
@@ -740,7 +756,7 @@
     },
     {
       "raw_hot": 380771,
-      "num": 198634,
+      "num": 203538,
       "word": "檀健次平行",
       "onboard_time": 1662898438,
       "rank": 30,
@@ -803,14 +819,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 358365,
-      "num": 256417,
-      "word": "松弛感穿搭",
-      "onboard_time": 1662898918,
-      "rank": 23,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 349826,
       "num": 349826,
       "word": "老人深夜卖花生男子花300全买下",
@@ -865,6 +873,14 @@
       "onboard_time": 1662857073,
       "rank": 17,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 319966,
+      "num": 207244,
+      "word": "极限挑战",
+      "onboard_time": 1662900715,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 315817,
@@ -947,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 291105,
+      "num": 291105,
+      "word": "成都世乒赛中国队名单公布",
+      "onboard_time": 1662899934,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 289823,
       "num": 289823,
       "word": "魏大勋1秒答出蝴蝶和蛾子的区别",
@@ -961,6 +985,14 @@
       "onboard_time": 1662874471,
       "rank": 43,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 282811,
+      "num": 282811,
+      "word": "2022夏季治安打击整治百日行动",
+      "onboard_time": 1662900954,
+      "rank": 24,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 281203,
@@ -1091,14 +1123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 256060,
-      "num": 256060,
-      "word": "成都世乒赛中国队名单公布",
-      "onboard_time": 1662899934,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 253167,
       "num": 91781,
       "word": "王源祝大家中秋快乐",
@@ -1113,6 +1137,14 @@
       "onboard_time": 1662820665,
       "rank": 16,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 248285,
+      "num": 248285,
+      "word": "星月争辉天象",
+      "onboard_time": 1662900475,
+      "rank": 26,
+      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 247563,
@@ -1233,6 +1265,14 @@
       "onboard_time": 1662802650,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 209086,
+      "num": 196583,
+      "word": "脱口秀大会5突围赛好刺激",
+      "onboard_time": 1662900293,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 206541,
@@ -1392,6 +1432,14 @@
       "word": "2022战斗之夜",
       "onboard_time": 1662889110,
       "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 165330,
+      "num": 165330,
+      "word": "英雄联盟",
+      "onboard_time": 1662900595,
+      "rank": 37,
       "category": "游戏"
     },
     {
@@ -1569,14 +1617,6 @@
       "onboard_time": 1662786387,
       "rank": 35,
       "category": "幽默,社会新闻"
-    },
-    {
-      "raw_hot": 108772,
-      "num": 87635,
-      "word": "学生因没手机扫码被司机赶下公交",
-      "onboard_time": 1662900115,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106311,
