@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1662924882716,
+  "endTime": 1662927880253,
   "band_list": [
     {
       "raw_hot": 2335033,
@@ -379,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58931,
+      "num": 35294,
+      "word": "小学生沉迷文具店开盲盒",
+      "onboard_time": 1662923173,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 57047,
       "num": 57047,
       "word": "F1意大利大奖赛",
@@ -459,12 +467,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 27370,
-      "num": 27370,
-      "word": "小学生沉迷文具店开盲盒",
-      "onboard_time": 1662923173,
-      "rank": 48,
-      "category": "社会新闻,教育"
+      "raw_hot": 9161,
+      "num": 9161,
+      "word": "北方朋友不加儿化音挑战",
+      "onboard_time": 1662926772,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 5275,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/12 00:31:49 ~ 2022/09/12 03:34:42
+本榜单时间：2022/09/12 00:31:49 ~ 2022/09/12 04:24:40
 </p>
 </blockquote>
 <p>
@@ -297,6 +297,12 @@ UFC总裁认为李景亮赢了（热度：199103）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%B2%89%E8%BF%B7%E6%96%87%E5%85%B7%E5%BA%97%E5%BC%80%E7%9B%B2%E7%9B%92%23" target="weibo">
+小学生沉迷文具店开盲盒（热度：58931）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23F1%E6%84%8F%E5%A4%A7%E5%88%A9%E5%A4%A7%E5%A5%96%E8%B5%9B%23" target="weibo">
 F1意大利大奖赛（热度：57047）
 </a>
@@ -357,8 +363,8 @@ F1意大利大奖赛（热度：57047）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%B2%89%E8%BF%B7%E6%96%87%E5%85%B7%E5%BA%97%E5%BC%80%E7%9B%B2%E7%9B%92%23" target="weibo">
-小学生沉迷文具店开盲盒（热度：27370）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%96%B9%E6%9C%8B%E5%8F%8B%E4%B8%8D%E5%8A%A0%E5%84%BF%E5%8C%96%E9%9F%B3%E6%8C%91%E6%88%98%23" target="weibo">
+北方朋友不加儿化音挑战（热度：9161）
 </a>
 </li>
 
