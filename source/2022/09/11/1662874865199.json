@@ -1,0 +1,410 @@
+{
+  "runTime": 1662874865199,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8881981,
+        "num": 8881981,
+        "word": "魏晨回复快乐再出发制片人",
+        "onboard_time": 1662868471,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2070239,
+        "num": 2070239,
+        "word": "苹果98元挂绳已缺货",
+        "onboard_time": 1662869792,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 58997,
+        "num": 1600768,
+        "word": "绿水青山是我家",
+        "onboard_time": 1662873633,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1225173,
+        "num": 1225173,
+        "word": "香港演员中秋节视频暗指台湾回归",
+        "onboard_time": 1662871655,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1181875,
+        "num": 1181875,
+        "word": "美国911事件当天发生了哪些事",
+        "onboard_time": 1662867212,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1115571,
+        "num": 1115571,
+        "word": "小伙捐骨髓公司将事假变2周带薪假",
+        "onboard_time": 1662869911,
+        "rank": 5,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 936454,
+        "num": 936454,
+        "word": "央视秋晚看到一半跟刘畊宏跳起来了",
+        "onboard_time": 1662867032,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 861940,
+        "num": 861940,
+        "word": "安徽一中学班费每人2000全班8万",
+        "onboard_time": 1662868530,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 830097,
+        "num": 830097,
+        "word": "姥姥用绳把双胞胎拴腰上做饭",
+        "onboard_time": 1662864512,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 671634,
+        "num": 671634,
+        "word": "为什么死掉的螃蟹不能吃",
+        "onboard_time": 1662863310,
+        "rank": 9,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 910180,
+        "num": 657202,
+        "word": "刘诗诗一念关山花钿妆路透",
+        "onboard_time": 1662872434,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 640001,
+        "num": 640001,
+        "word": "韩国40代男演员吸毒被逮捕",
+        "onboard_time": 1662862713,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 580008,
+        "num": 580008,
+        "word": "朴海镇方否认吸毒",
+        "onboard_time": 1662870691,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 542039,
+        "num": 542039,
+        "word": "灵动岛被指抄袭安卓厂商",
+        "onboard_time": 1662863553,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 427923,
+        "num": 427923,
+        "word": "教育局回应河南一老师晒节日礼物",
+        "onboard_time": 1662859473,
+        "rank": 14,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 365989,
+        "num": 365989,
+        "word": "宠物狗晕车女子高速上下车遛狗",
+        "onboard_time": 1662867152,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340074,
+        "num": 340074,
+        "word": "李景亮",
+        "onboard_time": 1662854549,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276387,
+        "num": 276387,
+        "word": "张定宇决定捐遗体用于渐冻症研究",
+        "onboard_time": 1662866731,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274841,
+        "num": 274841,
+        "word": "李景亮虽败犹荣",
+        "onboard_time": 1662868769,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240361,
+        "num": 240361,
+        "word": "每周锻炼3到10小时死亡风险最低",
+        "onboard_time": 1662872673,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 385826,
+        "num": 240062,
+        "word": "张凌赫进组狐妖月红篇",
+        "onboard_time": 1662865533,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 376571,
+        "num": 227923,
+        "word": "孟川 两灯",
+        "onboard_time": 1662870754,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 343189,
+        "num": 224952,
+        "word": "时代少年团绝配一镜到底舞台",
+        "onboard_time": 1662872493,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215692,
+        "num": 215692,
+        "word": "李景亮分歧判定告负",
+        "onboard_time": 1662869190,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206499,
+        "num": 206499,
+        "word": "孙女中秋远嫁爷爷抓着手泪流满面",
+        "onboard_time": 1662871838,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205000,
+        "num": 205000,
+        "word": "女儿中秋未归监控看父亲院中远眺",
+        "onboard_time": 1662864512,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199284,
+        "num": 199284,
+        "word": "济宁疫情防控",
+        "onboard_time": 1662823307,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183689,
+        "num": 183689,
+        "word": "蛋糕师都是学美术的吧",
+        "onboard_time": 1662866192,
+        "rank": 27,
+        "category": "情感,美食"
+      },
+      {
+        "raw_hot": 178814,
+        "num": 178814,
+        "word": "一群雅安孩子挂武警哥哥身上了",
+        "onboard_time": 1662871294,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165186,
+        "num": 165186,
+        "word": "没点技能都不好意思去监考",
+        "onboard_time": 1662870814,
+        "rank": 29,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 315817,
+        "num": 164637,
+        "word": "一席之地说唱巅峰冠军",
+        "onboard_time": 1662872973,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256481,
+        "num": 160755,
+        "word": "檀健次把你安全吗片头曲唱燃了",
+        "onboard_time": 1662874772,
+        "rank": 31,
+        "category": "影视,音乐"
+      },
+      {
+        "raw_hot": 226143,
+        "num": 157506,
+        "word": "周扬青洛可可童趣大片",
+        "onboard_time": 1662870391,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 223710,
+        "num": 152895,
+        "word": "你安全吗全员敲代码开播",
+        "onboard_time": 1662873873,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150709,
+        "num": 150709,
+        "word": "女子在禁区游泳被套头拉回",
+        "onboard_time": 1662829350,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194508,
+        "num": 138058,
+        "word": "棣欣引力",
+        "onboard_time": 1662824263,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124176,
+        "num": 124176,
+        "word": "成都疫情防控",
+        "onboard_time": 1662863791,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123719,
+        "num": 123719,
+        "word": "奇马耶夫",
+        "onboard_time": 1662869669,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122447,
+        "num": 122447,
+        "word": "长时间托腮影响颈部健康",
+        "onboard_time": 1662868052,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104838,
+        "num": 104838,
+        "word": "湖北新增45例本土无症状",
+        "onboard_time": 1662859654,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186802,
+        "num": 103130,
+        "word": "吴彦祖杨紫琼新剧演孙悟空和观音",
+        "onboard_time": 1662873153,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 94942,
+        "num": 94942,
+        "word": "台风梅花加强为强台风级",
+        "onboard_time": 1662861992,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89740,
+        "num": 89740,
+        "word": "成都小区",
+        "onboard_time": 1662831981,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88115,
+        "num": 88115,
+        "word": "911恐袭21年后美国更安全了吗",
+        "onboard_time": 1662874471,
+        "rank": 43,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 87872,
+        "num": 87872,
+        "word": "刺客信条中国背景手游",
+        "onboard_time": 1662859953,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 85080,
+        "num": 85080,
+        "word": "原来iPhone自带防偷窥功能",
+        "onboard_time": 1662822773,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 79312,
+        "num": 79312,
+        "word": "2022篮球名人堂",
+        "onboard_time": 1662861513,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75090,
+        "num": 75090,
+        "word": "北京新增10例本土感染者",
+        "onboard_time": 1662855992,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74162,
+        "num": 74162,
+        "word": "巴布亚新几内亚发生7.6级地震",
+        "onboard_time": 1662857613,
+        "rank": 48,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 69593,
+        "num": 69593,
+        "word": "自家地投毒玉米粒致9羊死被判缓刑",
+        "onboard_time": 1662819941,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让科技创新更好造福人类#"
+    }
+  }
+}

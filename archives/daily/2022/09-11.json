@@ -1,6 +1,6 @@
 {
   "startTime": 1662827496894,
-  "endTime": 1662871450170,
+  "endTime": 1662874865199,
   "band_list": [
     {
       "raw_hot": 9384525,
@@ -33,6 +33,14 @@
       "onboard_time": 1662824263,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2070239,
+      "num": 2070239,
+      "word": "苹果98元挂绳已缺货",
+      "onboard_time": 1662869792,
+      "rank": 21,
+      "category": "科技"
     },
     {
       "raw_hot": 1954119,
@@ -107,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1225173,
+      "num": 1225173,
+      "word": "香港演员中秋节视频暗指台湾回归",
+      "onboard_time": 1662871655,
+      "rank": 3,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1198924,
       "num": 1198924,
       "word": "李景亮",
@@ -115,20 +131,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1115571,
+      "num": 1115571,
+      "word": "小伙捐骨髓公司将事假变2周带薪假",
+      "onboard_time": 1662869911,
+      "rank": 41,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 1085695,
       "num": 1085695,
       "word": "探清水河",
       "onboard_time": 1662829891,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1080294,
-      "num": 1080294,
-      "word": "苹果98元挂绳已缺货",
-      "onboard_time": 1662869792,
-      "rank": 21,
-      "category": "科技"
     },
     {
       "raw_hot": 1078327,
@@ -147,12 +163,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 936454,
+      "num": 936454,
+      "word": "央视秋晚看到一半跟刘畊宏跳起来了",
+      "onboard_time": 1662867032,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 924396,
       "num": 770304,
       "word": "济宁疫情防控",
       "onboard_time": 1662823307,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 910180,
+      "num": 657202,
+      "word": "刘诗诗一念关山花钿妆路透",
+      "onboard_time": 1662872434,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 861940,
+      "num": 861940,
+      "word": "安徽一中学班费每人2000全班8万",
+      "onboard_time": 1662868530,
+      "rank": 9,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 832682,
@@ -195,14 +235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 713625,
-      "num": 713625,
-      "word": "安徽一中学班费每人2000全班8万",
-      "onboard_time": 1662868530,
-      "rank": 9,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 668448,
       "num": 668448,
       "word": "宠物狗晕车女子高速上下车遛狗",
@@ -227,20 +259,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 618850,
-      "num": 618850,
-      "word": "央视秋晚看到一半跟刘畊宏跳起来了",
-      "onboard_time": 1662867032,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 596617,
       "num": 596617,
       "word": "民警单膝跪求婚女友双膝跪地",
       "onboard_time": 1662823007,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 580008,
+      "num": 580008,
+      "word": "朴海镇方否认吸毒",
+      "onboard_time": 1662870691,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 579895,
@@ -265,14 +297,6 @@
       "onboard_time": 1662859953,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 517095,
-      "num": 517095,
-      "word": "小伙捐骨髓公司将事假变2周带薪假",
-      "onboard_time": 1662869911,
-      "rank": 41,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 510459,
@@ -347,6 +371,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 376571,
+      "num": 227923,
+      "word": "孟川 两灯",
+      "onboard_time": 1662870754,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 372165,
       "num": 372165,
       "word": "成都疫情防控",
@@ -361,6 +393,14 @@
       "onboard_time": 1662866731,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 343189,
+      "num": 224952,
+      "word": "时代少年团绝配一镜到底舞台",
+      "onboard_time": 1662872493,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 342560,
@@ -385,6 +425,14 @@
       "onboard_time": 1662857073,
       "rank": 17,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 315817,
+      "num": 164637,
+      "word": "一席之地说唱巅峰冠军",
+      "onboard_time": 1662872973,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 315616,
@@ -425,14 +473,6 @@
       "onboard_time": 1662859354,
       "rank": 18,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 275937,
-      "num": 275937,
-      "word": "朴海镇方否认吸毒",
-      "onboard_time": 1662870691,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 271714,
@@ -491,6 +531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 256481,
+      "num": 160755,
+      "word": "檀健次把你安全吗片头曲唱燃了",
+      "onboard_time": 1662874772,
+      "rank": 31,
+      "category": "影视,音乐"
+    },
+    {
       "raw_hot": 253167,
       "num": 91781,
       "word": "王源祝大家中秋快乐",
@@ -523,6 +571,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 240361,
+      "num": 240361,
+      "word": "每周锻炼3到10小时死亡风险最低",
+      "onboard_time": 1662872673,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 239641,
       "num": 239641,
       "word": "奇马耶夫",
@@ -547,12 +603,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 221387,
-      "num": 158611,
-      "word": "孟川 两灯",
-      "onboard_time": 1662870754,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 223710,
+      "num": 152895,
+      "word": "你安全吗全员敲代码开播",
+      "onboard_time": 1662873873,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 220157,
@@ -561,6 +617,14 @@
       "onboard_time": 1662802108,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215692,
+      "num": 215692,
+      "word": "李景亮分歧判定告负",
+      "onboard_time": 1662869190,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 213970,
@@ -587,6 +651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 206499,
+      "num": 206499,
+      "word": "孙女中秋远嫁爷爷抓着手泪流满面",
+      "onboard_time": 1662871838,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195184,
       "num": 195184,
       "word": "9月10日新增本土无症状959例",
@@ -601,14 +673,6 @@
       "onboard_time": 1662794848,
       "rank": 23,
       "category": "科技"
-    },
-    {
-      "raw_hot": 192425,
-      "num": 192425,
-      "word": "李景亮分歧判定告负",
-      "onboard_time": 1662869190,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 192201,
@@ -635,6 +699,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 186802,
+      "num": 103130,
+      "word": "吴彦祖杨紫琼新剧演孙悟空和观音",
+      "onboard_time": 1662873153,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 185460,
       "num": 185460,
       "word": "分享欲真的很重要吗",
@@ -648,6 +720,14 @@
       "word": "平安归来震中24勇士的姓名",
       "onboard_time": 1662860432,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178814,
+      "num": 178814,
+      "word": "一群雅安孩子挂武警哥哥身上了",
+      "onboard_time": 1662871294,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -665,6 +745,14 @@
       "onboard_time": 1662871415,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165186,
+      "num": 165186,
+      "word": "没点技能都不好意思去监考",
+      "onboard_time": 1662870814,
+      "rank": 45,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 163826,
@@ -867,20 +955,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 89992,
-      "num": 89992,
-      "word": "没点技能都不好意思去监考",
-      "onboard_time": 1662870814,
-      "rank": 45,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 85553,
-      "num": 85553,
-      "word": "一群雅安孩子挂武警哥哥身上了",
-      "onboard_time": 1662871294,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 88115,
+      "num": 88115,
+      "word": "911恐袭21年后美国更安全了吗",
+      "onboard_time": 1662874471,
+      "rank": 43,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 81630,
@@ -955,6 +1035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58997,
+      "num": 1600768,
+      "word": "绿水青山是我家",
+      "onboard_time": 1662873633,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 50611,
       "num": 50611,
       "word": "前中国男篮主帅穿上名人堂西服",
@@ -1017,6 +1105,9 @@
     },
     {
       "word": "#中国探月未来已来#"
+    },
+    {
+      "word": "#让科技创新更好造福人类#"
     }
   ]
 }
