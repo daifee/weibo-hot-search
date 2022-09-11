@@ -1,6 +1,6 @@
 {
   "startTime": 1662827496894,
-  "endTime": 1662875601991,
+  "endTime": 1662877803198,
   "band_list": [
     {
       "raw_hot": 9384525,
@@ -59,6 +59,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1876868,
+      "num": 1876868,
+      "word": "香港演员中秋节视频暗指台湾回归",
+      "onboard_time": 1662871655,
+      "rank": 3,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1876732,
       "num": 1876732,
       "word": "快乐再出发制片人向魏晨方道歉",
@@ -99,20 +107,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1613535,
-      "num": 1613535,
-      "word": "香港演员中秋节视频暗指台湾回归",
-      "onboard_time": 1662871655,
-      "rank": 3,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 1542523,
       "num": 1223770,
       "word": "原来iPhone自带防偷窥功能",
       "onboard_time": 1662822773,
       "rank": 4,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1444040,
+      "num": 1444040,
+      "word": "三个院人凑不齐一个复活名额",
+      "onboard_time": 1662876510,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1287358,
@@ -128,6 +136,14 @@
       "word": "李景亮",
       "onboard_time": 1662854549,
       "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1150142,
+      "num": 1150142,
+      "word": "李景亮被抢劫",
+      "onboard_time": 1662875491,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -299,12 +315,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 510684,
+      "num": 190633,
+      "word": "王鹤棣银色波光衬衫造型",
+      "onboard_time": 1662876088,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 510459,
       "num": 510459,
       "word": "湖北新增45例本土无症状",
       "onboard_time": 1662859654,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 493919,
+      "num": 493919,
+      "word": "每周锻炼3到10小时死亡风险最低",
+      "onboard_time": 1662872673,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 471776,
@@ -443,12 +475,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 315593,
-      "num": 315593,
-      "word": "每周锻炼3到10小时死亡风险最低",
-      "onboard_time": 1662872673,
-      "rank": 19,
-      "category": "体育"
+      "raw_hot": 313653,
+      "num": 183210,
+      "word": "王嘉尔新专辑登39个iTunes第一",
+      "onboard_time": 1662877292,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 309971,
+      "num": 309971,
+      "word": "孙女中秋远嫁爷爷抓着手泪流满面",
+      "onboard_time": 1662871838,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 306346,
@@ -473,6 +513,14 @@
       "onboard_time": 1662864452,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 281604,
+      "num": 178741,
+      "word": "希林娜依高抛梗自己捡",
+      "onboard_time": 1662875607,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 279948,
@@ -555,20 +603,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 252234,
-      "num": 252234,
-      "word": "孙女中秋远嫁爷爷抓着手泪流满面",
-      "onboard_time": 1662871838,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 250910,
       "num": 250910,
       "word": "永庆坊",
       "onboard_time": 1662820665,
       "rank": 16,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 247563,
+      "num": 142315,
+      "word": "极限挑战之大话西游",
+      "onboard_time": 1662877169,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 244897,
@@ -755,12 +803,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170258,
+      "num": 170258,
+      "word": "911恐袭21年后美国更安全了吗",
+      "onboard_time": 1662874471,
+      "rank": 43,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 168547,
       "num": 168547,
       "word": "没点技能都不好意思去监考",
       "onboard_time": 1662870814,
       "rank": 45,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 165690,
+      "num": 165690,
+      "word": "夏鸣星 布丁狗",
+      "onboard_time": 1662877710,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 163826,
@@ -841,6 +905,14 @@
       "onboard_time": 1662803252,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 143780,
+      "num": 143780,
+      "word": "中秋节阿姨烧两大锅菜送消防员",
+      "onboard_time": 1662875849,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135513,
@@ -939,14 +1011,6 @@
       "category": "国外要闻,社会新闻"
     },
     {
-      "raw_hot": 94078,
-      "num": 94078,
-      "word": "911恐袭21年后美国更安全了吗",
-      "onboard_time": 1662874471,
-      "rank": 43,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 93658,
       "num": 93658,
       "word": "拍下成都的月亮送给你",
@@ -1011,20 +1075,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71050,
+      "num": 62938,
+      "word": "王者S29新赛季即将开启",
+      "onboard_time": 1662877770,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 70150,
       "num": 1665677,
       "word": "绿水青山是我家",
       "onboard_time": 1662873633,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 67618,
-      "num": 67618,
-      "word": "李景亮被抢劫",
-      "onboard_time": 1662875491,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 65973,

@@ -1,6 +1,6 @@
 {
   "startTime": 1662308985389,
-  "endTime": 1662875601991,
+  "endTime": 1662877803198,
   "band_list": [
     {
       "raw_hot": 22037086,
@@ -755,6 +755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1876868,
+      "num": 1876868,
+      "word": "香港演员中秋节视频暗指台湾回归",
+      "onboard_time": 1662871655,
+      "rank": 3,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1876732,
       "num": 1876732,
       "word": "快乐再出发制片人向魏晨方道歉",
@@ -1019,14 +1027,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 1613535,
-      "num": 1613535,
-      "word": "香港演员中秋节视频暗指台湾回归",
-      "onboard_time": 1662871655,
-      "rank": 3,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 1613227,
       "num": 1613227,
       "word": "长春市副市长赵显等多名官员被问责",
@@ -1241,6 +1241,14 @@
       "onboard_time": 1662611311,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1444040,
+      "num": 1444040,
+      "word": "三个院人凑不齐一个复活名额",
+      "onboard_time": 1662876510,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1438466,
@@ -1841,6 +1849,14 @@
       "onboard_time": 1662543807,
       "rank": 4,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1150142,
+      "num": 1150142,
+      "word": "李景亮被抢劫",
+      "onboard_time": 1662875491,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 1144800,
@@ -4707,6 +4723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 510684,
+      "num": 190633,
+      "word": "王鹤棣银色波光衬衫造型",
+      "onboard_time": 1662876088,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 510480,
       "num": 510480,
       "word": "中秋节",
@@ -4897,6 +4921,14 @@
       "onboard_time": 1662557790,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 493919,
+      "num": 493919,
+      "word": "每周锻炼3到10小时死亡风险最低",
+      "onboard_time": 1662872673,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 493702,
@@ -7491,14 +7523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 315593,
-      "num": 315593,
-      "word": "每周锻炼3到10小时死亡风险最低",
-      "onboard_time": 1662872673,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 315318,
       "num": 252195,
       "word": "你好星期六第四季还有王鹤棣",
@@ -7537,6 +7561,14 @@
       "onboard_time": 1662360570,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 313653,
+      "num": 183210,
+      "word": "王嘉尔新专辑登39个iTunes第一",
+      "onboard_time": 1662877292,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 313458,
@@ -7617,6 +7649,14 @@
       "onboard_time": 1662803010,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 309971,
+      "num": 309971,
+      "word": "孙女中秋远嫁爷爷抓着手泪流满面",
+      "onboard_time": 1662871838,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 309934,
@@ -8345,6 +8385,14 @@
       "onboard_time": 1662463890,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 281604,
+      "num": 178741,
+      "word": "希林娜依高抛梗自己捡",
+      "onboard_time": 1662875607,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 280905,
@@ -9219,14 +9267,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 252234,
-      "num": 252234,
-      "word": "孙女中秋远嫁爷爷抓着手泪流满面",
-      "onboard_time": 1662871838,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 252123,
       "num": 252123,
       "word": "从此小说中的侠客有了脸",
@@ -9337,6 +9377,14 @@
       "onboard_time": 1662634469,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 247563,
+      "num": 142315,
+      "word": "极限挑战之大话西游",
+      "onboard_time": 1662877169,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 247457,
@@ -11603,6 +11651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170258,
+      "num": 170258,
+      "word": "911恐袭21年后美国更安全了吗",
+      "onboard_time": 1662874471,
+      "rank": 43,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 170003,
       "num": 170003,
       "word": "为什么形容露水是白的",
@@ -11753,6 +11809,14 @@
       "onboard_time": 1662722786,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 165690,
+      "num": 165690,
+      "word": "夏鸣星 布丁狗",
+      "onboard_time": 1662877710,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 165511,
@@ -12481,6 +12545,14 @@
       "onboard_time": 1662570560,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 143780,
+      "num": 143780,
+      "word": "中秋节阿姨烧两大锅菜送消防员",
+      "onboard_time": 1662875849,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143456,
@@ -13379,14 +13451,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 94078,
-      "num": 94078,
-      "word": "911恐袭21年后美国更安全了吗",
-      "onboard_time": 1662874471,
-      "rank": 43,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 92274,
       "num": 92274,
       "word": "AI绘制了一幅中秋花月夜",
@@ -13643,6 +13707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 71050,
+      "num": 62938,
+      "word": "王者S29新赛季即将开启",
+      "onboard_time": 1662877770,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 70875,
       "num": 70875,
       "word": "张帅无缘美网女单八强",
@@ -13673,14 +13745,6 @@
       "onboard_time": 1662791307,
       "rank": 46,
       "category": "其它"
-    },
-    {
-      "raw_hot": 67618,
-      "num": 67618,
-      "word": "李景亮被抢劫",
-      "onboard_time": 1662875491,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 65902,
