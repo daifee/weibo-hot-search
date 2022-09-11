@@ -1,0 +1,410 @@
+{
+  "runTime": 1662906064122,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11441912,
+        "num": 11441912,
+        "word": "北京警方通报李易峰多次嫖娼",
+        "onboard_time": 1662889784,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1901171,
+        "num": 1901171,
+        "word": "UR被曝抄袭",
+        "onboard_time": 1662898980,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12018,
+        "num": 1645317,
+        "word": "绿水青山是我家",
+        "onboard_time": 1662873633,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3154729,
+        "num": 1596969,
+        "word": "辟谣显得无比可笑",
+        "onboard_time": 1662893262,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1479505,
+        "num": 1479505,
+        "word": "学生因没手机扫码被司机赶下公交",
+        "onboard_time": 1662900115,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1157064,
+        "num": 1157064,
+        "word": "你安全吗",
+        "onboard_time": 1662899157,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1106650,
+        "num": 1106650,
+        "word": "女孩基因突变最快48秒睡着",
+        "onboard_time": 1662893443,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542151,
+        "num": 542151,
+        "word": "60多岁男房东给21岁女租客发不雅视频",
+        "onboard_time": 1662887369,
+        "rank": 7,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 478968,
+        "num": 478968,
+        "word": "松弛感穿搭",
+        "onboard_time": 1662898918,
+        "rank": 8,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 473826,
+        "num": 473826,
+        "word": "女子在蜜雪冰城喝出木棍被扎",
+        "onboard_time": 1662889596,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1898336,
+        "num": 444843,
+        "word": "嫖娼或将承担什么法律责任",
+        "onboard_time": 1662894227,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316525,
+        "num": 316525,
+        "word": "星月争辉天象",
+        "onboard_time": 1662900475,
+        "rank": 11,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 314642,
+        "num": 314642,
+        "word": "中方就美对西工大网络攻击窃密提出严正交涉",
+        "onboard_time": 1662897543,
+        "rank": 12,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1369062,
+        "num": 314423,
+        "word": "李易峰多次嫖娼被行政拘留",
+        "onboard_time": 1662890660,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 313507,
+        "num": 313507,
+        "word": "中国传媒大学24小时新增6例确诊",
+        "onboard_time": 1662905089,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 276650,
+        "num": 276650,
+        "word": "年轻人为什么爱买手机壳",
+        "onboard_time": 1662879629,
+        "rank": 15,
+        "category": "科技,情感"
+      },
+      {
+        "raw_hot": 1254399,
+        "num": 276006,
+        "word": "Prada与李易峰终止合作",
+        "onboard_time": 1662894621,
+        "rank": 16,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 263292,
+        "num": 263292,
+        "word": "女子投诉曼玲粥铺豆浆内爬满蟑螂",
+        "onboard_time": 1662887970,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252141,
+        "num": 252141,
+        "word": "河南小伙回应雇60岁老人干活",
+        "onboard_time": 1662890332,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 691309,
+        "num": 248568,
+        "word": "中新网评李易峰嫖娼被警方通报",
+        "onboard_time": 1662892613,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 621899,
+        "num": 237529,
+        "word": "你安全吗大数据4步教你捉奸",
+        "onboard_time": 1662902928,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 514976,
+        "num": 228233,
+        "word": "王宝强说一切都太值得",
+        "onboard_time": 1662897298,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 619524,
+        "num": 222225,
+        "word": "远离嫖娼别心动更别行动",
+        "onboard_time": 1662895570,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 469941,
+        "num": 213396,
+        "word": "何广智除甲醛",
+        "onboard_time": 1662905030,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207391,
+        "num": 207391,
+        "word": "十五的月亮十六圆",
+        "onboard_time": 1662901669,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205670,
+        "num": 205670,
+        "word": "成都疫情防控",
+        "onboard_time": 1662902989,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174718,
+        "num": 174718,
+        "word": "山东济宁表示深深歉意",
+        "onboard_time": 1662879688,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164466,
+        "num": 164466,
+        "word": "学校设宠物专业学生带爱犬上学",
+        "onboard_time": 1662895509,
+        "rank": 27,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 162820,
+        "num": 162820,
+        "word": "冉莹颖邹市明家庭氛围好欢乐",
+        "onboard_time": 1662904851,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158885,
+        "num": 158885,
+        "word": "不犯法但让人感觉有病",
+        "onboard_time": 1662905633,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 388553,
+        "num": 158305,
+        "word": "违法行为洗是洗不掉的",
+        "onboard_time": 1662901973,
+        "rank": 30,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 343328,
+        "num": 156837,
+        "word": "极限挑战",
+        "onboard_time": 1662900715,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324165,
+        "num": 154559,
+        "word": "王嘉尔沉浸式清唱Blue",
+        "onboard_time": 1662898383,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 279039,
+        "num": 153058,
+        "word": "沈翊这次和朱朝阳一起查案",
+        "onboard_time": 1662903830,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151771,
+        "num": 151771,
+        "word": "古人的烘焙作品什么样",
+        "onboard_time": 1662901913,
+        "rank": 34,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 156189,
+        "num": 147627,
+        "word": "学生宿舍炖鲫鱼汤被网友举报",
+        "onboard_time": 1662905210,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142925,
+        "num": 142925,
+        "word": "普京打算向发展中国家免费送化肥",
+        "onboard_time": 1662885687,
+        "rank": 36,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 130660,
+        "num": 130660,
+        "word": "女子酒后开车看日出被男友举报",
+        "onboard_time": 1662887007,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127154,
+        "num": 127154,
+        "word": "木星合月美景整夜可见",
+        "onboard_time": 1662901553,
+        "rank": 38,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 126306,
+        "num": 126306,
+        "word": "老人深夜卖花生男子花300全买下",
+        "onboard_time": 1662887787,
+        "rank": 39,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 245025,
+        "num": 123737,
+        "word": "一口气炫完你安全吗四集",
+        "onboard_time": 1662903047,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241701,
+        "num": 123434,
+        "word": "法律底线任何人都不可触碰",
+        "onboard_time": 1662905993,
+        "rank": 41,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 117776,
+        "num": 117776,
+        "word": "1分钟仰卧起坐自测腰力",
+        "onboard_time": 1662891542,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111619,
+        "num": 111619,
+        "word": "温岭公安通报时代广场持刀伤人事件",
+        "onboard_time": 1662893041,
+        "rank": 43,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 100302,
+        "num": 100302,
+        "word": "帮主人剥玉米的狗狗",
+        "onboard_time": 1662886950,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99415,
+        "num": 99415,
+        "word": "老师科普太阳雨发现是自家漏水",
+        "onboard_time": 1662894272,
+        "rank": 45,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 95323,
+        "num": 95323,
+        "word": "英雄联盟",
+        "onboard_time": 1662900595,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 87997,
+        "num": 87997,
+        "word": "成都世乒赛中国队名单公布",
+        "onboard_time": 1662899934,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83386,
+        "num": 83386,
+        "word": "中秋节的西湖边到底有多少人",
+        "onboard_time": 1662897782,
+        "rank": 48,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 81215,
+        "num": 81215,
+        "word": "两月宝宝哭闹6岁姐姐教科书式哄娃",
+        "onboard_time": 1662880648,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让科技创新更好造福人类#"
+    }
+  }
+}

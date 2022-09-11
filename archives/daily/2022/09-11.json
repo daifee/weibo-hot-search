@@ -1,6 +1,6 @@
 {
   "startTime": 1662827496894,
-  "endTime": 1662904146028,
+  "endTime": 1662906064122,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -531,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 621899,
+      "num": 259025,
+      "word": "你安全吗大数据4步教你捉奸",
+      "onboard_time": 1662902928,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 617426,
       "num": 617426,
       "word": "松弛感穿搭",
@@ -585,14 +593,6 @@
       "onboard_time": 1662815987,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 569624,
-      "num": 259025,
-      "word": "你安全吗大数据4步教你捉奸",
-      "onboard_time": 1662902928,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 548843,
@@ -673,6 +673,14 @@
       "onboard_time": 1662860492,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 469941,
+      "num": 213396,
+      "word": "何广智除甲醛",
+      "onboard_time": 1662905030,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 459288,
@@ -761,6 +769,14 @@
       "onboard_time": 1662878070,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 388553,
+      "num": 192473,
+      "word": "违法行为洗是洗不掉的",
+      "onboard_time": 1662901973,
+      "rank": 33,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 383425,
@@ -899,12 +915,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 321876,
-      "num": 192473,
-      "word": "违法行为洗是洗不掉的",
-      "onboard_time": 1662901973,
-      "rank": 33,
-      "category": "社会新闻,艺人"
+      "raw_hot": 316525,
+      "num": 316525,
+      "word": "星月争辉天象",
+      "onboard_time": 1662900475,
+      "rank": 26,
+      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 315817,
@@ -929,6 +945,14 @@
       "onboard_time": 1662877292,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 313507,
+      "num": 313507,
+      "word": "中国传媒大学24小时新增6例确诊",
+      "onboard_time": 1662905089,
+      "rank": 14,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 312538,
@@ -1027,14 +1051,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 282968,
-      "num": 282968,
-      "word": "星月争辉天象",
-      "onboard_time": 1662900475,
-      "rank": 26,
-      "category": "自然,社会新闻"
-    },
-    {
       "raw_hot": 282811,
       "num": 282811,
       "word": "2022夏季治安打击整治百日行动",
@@ -1057,6 +1073,14 @@
       "onboard_time": 1662859354,
       "rank": 18,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 279039,
+      "num": 153058,
+      "word": "沈翊这次和朱朝阳一起查案",
+      "onboard_time": 1662903830,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 271714,
@@ -1203,6 +1227,14 @@
       "category": "情感,美食"
     },
     {
+      "raw_hot": 241701,
+      "num": 123434,
+      "word": "法律底线任何人都不可触碰",
+      "onboard_time": 1662905993,
+      "rank": 41,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 241070,
       "num": 241070,
       "word": "美国家庭净资产缩水6.1万亿美元",
@@ -1265,14 +1297,6 @@
       "onboard_time": 1662870391,
       "rank": 26,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 224481,
-      "num": 115689,
-      "word": "沈翊这次和朱朝阳一起查案",
-      "onboard_time": 1662903830,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 223710,
@@ -1523,6 +1547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 162820,
+      "num": 162820,
+      "word": "冉莹颖邹市明家庭氛围好欢乐",
+      "onboard_time": 1662904851,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162507,
       "num": 162507,
       "word": "梅西助攻内马尔进球",
@@ -1539,6 +1571,14 @@
       "category": "财经,国外要闻"
     },
     {
+      "raw_hot": 158885,
+      "num": 158885,
+      "word": "不犯法但让人感觉有病",
+      "onboard_time": 1662905633,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 158703,
       "num": 158703,
       "word": "长时间托腮影响颈部健康",
@@ -1552,6 +1592,14 @@
       "word": "西湖",
       "onboard_time": 1662810283,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156189,
+      "num": 147627,
+      "word": "学生宿舍炖鲫鱼汤被网友举报",
+      "onboard_time": 1662905210,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
