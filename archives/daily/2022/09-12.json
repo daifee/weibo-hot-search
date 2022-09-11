@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1662915303725,
+  "endTime": 1662917140535,
   "band_list": [
     {
       "raw_hot": 2335033,
@@ -25,6 +25,14 @@
       "onboard_time": 1662909828,
       "rank": 1,
       "category": "情感,社会议题"
+    },
+    {
+      "raw_hot": 1230289,
+      "num": 341414,
+      "word": "朱梓骁拟邀再就业男团",
+      "onboard_time": 1662913836,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 1204704,
@@ -83,14 +91,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 611768,
-      "num": 341414,
-      "word": "朱梓骁拟邀再就业男团",
-      "onboard_time": 1662913836,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 577419,
       "num": 178069,
       "word": "辟谣显得无比可笑",
@@ -123,8 +123,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 421927,
-      "num": 171060,
+      "raw_hot": 454559,
+      "num": 199576,
       "word": "为什么张国荣的笑那么治愈",
       "onboard_time": 1662913057,
       "rank": 31,
@@ -145,6 +145,14 @@
       "onboard_time": 1662909470,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 349898,
+      "num": 198601,
+      "word": "印度暂退出印太经济框架贸易谈判",
+      "onboard_time": 1662914133,
+      "rank": 23,
+      "category": "财经,国外要闻"
     },
     {
       "raw_hot": 318277,
@@ -227,20 +235,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181903,
+      "num": 147418,
+      "word": "UFC总裁认为李景亮赢了",
+      "onboard_time": 1662913714,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181422,
       "num": 181422,
       "word": "女子在蜜雪冰城喝出木棍被扎",
       "onboard_time": 1662889596,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 164682,
-      "num": 164682,
-      "word": "印度暂退出印太经济框架贸易谈判",
-      "onboard_time": 1662914133,
-      "rank": 23,
-      "category": "财经,国外要闻"
     },
     {
       "raw_hot": 154482,
@@ -251,20 +259,20 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 141501,
+      "num": 141501,
+      "word": "男子砸4辆车偷9万元手表直接扔了",
+      "onboard_time": 1662915450,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117683,
       "num": 117683,
       "word": "中方就美对西工大网络攻击窃密提出严正交涉",
       "onboard_time": 1662897543,
       "rank": 24,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 108139,
-      "num": 108139,
-      "word": "UFC总裁认为李景亮赢了",
-      "onboard_time": 1662913714,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 107845,
@@ -297,6 +305,14 @@
       "onboard_time": 1662908393,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94992,
+      "num": 46456,
+      "word": "你安全吗上头",
+      "onboard_time": 1662914671,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 80065,
