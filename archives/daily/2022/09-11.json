@@ -1,6 +1,6 @@
 {
   "startTime": 1662827496894,
-  "endTime": 1662863588819,
+  "endTime": 1662865911552,
   "band_list": [
     {
       "raw_hot": 3595316,
@@ -9,6 +9,14 @@
       "onboard_time": 1662859473,
       "rank": 0,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 2729008,
+      "num": 524912,
+      "word": "韩国40代男演员吸毒被逮捕",
+      "onboard_time": 1662862713,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2284966,
@@ -35,6 +43,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1780360,
+      "num": 806380,
+      "word": "灵动岛被指抄袭安卓厂商",
+      "onboard_time": 1662863553,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 1770311,
+      "num": 1770311,
+      "word": "为什么死掉的螃蟹不能吃",
+      "onboard_time": 1662863310,
+      "rank": 40,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 1719320,
       "num": 1240470,
       "word": "单依纯 妆",
@@ -43,12 +67,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1684983,
-      "num": 524912,
-      "word": "韩国40代男演员吸毒被逮捕",
-      "onboard_time": 1662862713,
-      "rank": 10,
-      "category": "艺人"
+      "raw_hot": 1633852,
+      "num": 469177,
+      "word": "张凌赫进组狐妖月红篇",
+      "onboard_time": 1662865533,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1542523,
@@ -131,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 684904,
+      "num": 684904,
+      "word": "姥姥用绳把双胞胎拴腰上做饭",
+      "onboard_time": 1662864512,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 640807,
       "num": 640807,
       "word": "哥你好票房破亿",
@@ -188,7 +220,7 @@
     },
     {
       "raw_hot": 471776,
-      "num": 275990,
+      "num": 288288,
       "word": "karry王的日常",
       "onboard_time": 1662860492,
       "rank": 20,
@@ -227,8 +259,16 @@
       "category": "自然"
     },
     {
-      "raw_hot": 345366,
-      "num": 345366,
+      "raw_hot": 372165,
+      "num": 372165,
+      "word": "成都疫情防控",
+      "onboard_time": 1662863791,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 370116,
+      "num": 370116,
       "word": "李景亮",
       "onboard_time": 1662854549,
       "rank": 16,
@@ -259,12 +299,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 327389,
+      "num": 287452,
+      "word": "任嘉伦把花盆坐翻了",
+      "onboard_time": 1662864213,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 315616,
       "num": 113602,
       "word": "王心凌直播",
       "onboard_time": 1662822114,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 293637,
+      "num": 293637,
+      "word": "台风梅花加强为强台风级",
+      "onboard_time": 1662861992,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 279948,
@@ -283,6 +339,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 270584,
+      "num": 181688,
+      "word": "魏大勋1秒答出蝴蝶和蛾子的区别",
+      "onboard_time": 1662864452,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 270402,
       "num": 270402,
       "word": "小学生用白纸做花送老师",
@@ -297,6 +361,14 @@
       "onboard_time": 1662816888,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267312,
+      "num": 180248,
+      "word": "林允儿哭戏感染力",
+      "onboard_time": 1662863851,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 265420,
@@ -344,14 +416,6 @@
       "word": "拍一拍中秋月亮",
       "onboard_time": 1662811248,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 226793,
-      "num": 226793,
-      "word": "台风梅花加强为强台风级",
-      "onboard_time": 1662861992,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -411,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192127,
+      "num": 192127,
+      "word": "女儿中秋未归监控看父亲院中远眺",
+      "onboard_time": 1662864512,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189246,
       "num": 189246,
       "word": "UFC279",
@@ -435,12 +507,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 167216,
-      "num": 167216,
+      "raw_hot": 182144,
+      "num": 182144,
       "word": "平安归来震中24勇士的姓名",
       "onboard_time": 1662860432,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174623,
+      "num": 136356,
+      "word": "王心凌中秋唱月光",
+      "onboard_time": 1662864990,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 163826,
@@ -475,12 +555,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 153892,
-      "num": 153892,
-      "word": "为什么死掉的螃蟹不能吃",
-      "onboard_time": 1662863310,
-      "rank": 40,
-      "category": "美食,社会新闻"
+      "raw_hot": 148950,
+      "num": 148950,
+      "word": "2022篮球名人堂",
+      "onboard_time": 1662861513,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 148863,
@@ -507,14 +587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137458,
-      "num": 137458,
-      "word": "2022篮球名人堂",
-      "onboard_time": 1662861513,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 133648,
       "num": 112845,
       "word": "07男团中秋新歌烟火气",
@@ -529,6 +601,14 @@
       "onboard_time": 1662782606,
       "rank": 27,
       "category": "情感,社会议题"
+    },
+    {
+      "raw_hot": 124832,
+      "num": 124832,
+      "word": "青岛增9例本土确诊",
+      "onboard_time": 1662864932,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121793,
@@ -593,14 +673,6 @@
       "onboard_time": 1662801569,
       "rank": 38,
       "category": "国外要闻,社会新闻"
-    },
-    {
-      "raw_hot": 99714,
-      "num": 99714,
-      "word": "灵动岛被指抄袭安卓厂商",
-      "onboard_time": 1662863553,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 93658,
