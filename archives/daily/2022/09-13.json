@@ -1,6 +1,6 @@
 {
   "startTime": 1663000581861,
-  "endTime": 1663011372853,
+  "endTime": 1663014361320,
   "band_list": [
     {
       "raw_hot": 9785867,
@@ -419,12 +419,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 40739,
+      "num": 36113,
+      "word": "19岁男生送外卖攒够一年学费",
+      "onboard_time": 1663012091,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39362,
+      "num": 24775,
+      "word": "普京称去美元化进程不可避免",
+      "onboard_time": 1663011673,
+      "rank": 22,
+      "category": "国外要闻,财经"
+    },
+    {
       "raw_hot": 28017,
       "num": 1328123,
       "word": "中国乡村风景可以洗眼睛",
       "onboard_time": 1662942872,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 7199,
+      "num": 7199,
+      "word": "国足选帅倾向外教",
+      "onboard_time": 1663014130,
+      "rank": 49,
+      "category": "体育"
     }
   ],
   "hotgov_list": [

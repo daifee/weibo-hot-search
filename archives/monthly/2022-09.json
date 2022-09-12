@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1663011372853,
+  "endTime": 1663014361320,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -24907,6 +24907,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 40739,
+      "num": 36113,
+      "word": "19岁男生送外卖攒够一年学费",
+      "onboard_time": 1663012091,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40673,
       "num": 40673,
       "word": "虚拟陪伴是否能代替真人需求",
@@ -24929,6 +24937,14 @@
       "onboard_time": 1662829229,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 39362,
+      "num": 24775,
+      "word": "普京称去美元化进程不可避免",
+      "onboard_time": 1663011673,
+      "rank": 22,
+      "category": "国外要闻,财经"
     },
     {
       "raw_hot": 38077,
@@ -25265,6 +25281,14 @@
       "onboard_time": 1661973492,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 7199,
+      "num": 7199,
+      "word": "国足选帅倾向外教",
+      "onboard_time": 1663014130,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 7064,
