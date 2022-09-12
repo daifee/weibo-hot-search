@@ -1,7 +1,15 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1662997641941,
+  "endTime": 1663000581861,
   "band_list": [
+    {
+      "raw_hot": 9785867,
+      "num": 9785867,
+      "word": "张翰的手",
+      "onboard_time": 1662996581,
+      "rank": 0,
+      "category": "影视"
+    },
     {
       "raw_hot": 8475341,
       "num": 8475341,
@@ -9,14 +17,6 @@
       "onboard_time": 1662940710,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 6628801,
-      "num": 6628801,
-      "word": "张翰的手",
-      "onboard_time": 1662996581,
-      "rank": 0,
-      "category": "影视"
     },
     {
       "raw_hot": 4705773,
@@ -267,6 +267,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1308941,
+      "num": 1308941,
+      "word": "原来米虫是从米里出来的",
+      "onboard_time": 1662995624,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1282784,
       "num": 1282784,
       "word": "苍兰诀 番外",
@@ -393,14 +401,6 @@
       "onboard_time": 1662965735,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 978181,
-      "num": 978181,
-      "word": "原来米虫是从米里出来的",
-      "onboard_time": 1662995624,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 959052,
@@ -691,6 +691,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 562188,
+      "num": 562188,
+      "word": "石家庄疫情防控",
+      "onboard_time": 1662998679,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 555146,
       "num": 555146,
       "word": "入职后发现公司太混乱怎么办",
@@ -715,6 +723,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 533747,
+      "num": 533747,
+      "word": "寄养姑姑家女孩给表弟买了一套房",
+      "onboard_time": 1662996223,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 529426,
       "num": 529426,
       "word": "妈妈花6元买布头做出小汉服",
@@ -729,6 +745,14 @@
       "onboard_time": 1662989082,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 520023,
+      "num": 381881,
+      "word": "姜涩琪solo预告",
+      "onboard_time": 1662997781,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 511683,
@@ -1371,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249109,
+      "num": 141751,
+      "word": "一场脱口秀带火600759",
+      "onboard_time": 1662999157,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248016,
       "num": 248016,
       "word": "小学生沉迷文具店开盲盒",
@@ -1489,14 +1521,6 @@
       "onboard_time": 1662897298,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 212009,
-      "num": 212009,
-      "word": "寄养姑姑家女孩给表弟买了一套房",
-      "onboard_time": 1662996223,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 210279,
@@ -1696,6 +1720,14 @@
       "word": "北京9月11日新增15例本土确诊",
       "onboard_time": 1662942273,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157019,
+      "num": 157019,
+      "word": "宠物市场2千买的狗活不过7天",
+      "onboard_time": 1662997961,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
