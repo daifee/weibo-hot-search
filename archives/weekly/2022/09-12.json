@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1662974806345,
+  "endTime": 1662975866287,
   "band_list": [
     {
       "raw_hot": 8475341,
@@ -16,6 +16,14 @@
       "word": "疑似时代峰峻工作人员机场锁喉粉丝",
       "onboard_time": 1662958417,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3511860,
+      "num": 593662,
+      "word": "郝蕾",
+      "onboard_time": 1662972998,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -35,12 +43,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2878683,
-      "num": 479456,
-      "word": "郝蕾",
-      "onboard_time": 1662972998,
-      "rank": 10,
-      "category": "艺人"
+      "raw_hot": 2965724,
+      "num": 2965724,
+      "word": "姐姐拒绝给弟弟买房被父母告上法庭",
+      "onboard_time": 1662972579,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2795880,
@@ -81,14 +89,6 @@
       "onboard_time": 1662945394,
       "rank": 1,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 2037111,
-      "num": 2037111,
-      "word": "姐姐拒绝给弟弟买房被父母告上法庭",
-      "onboard_time": 1662972579,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1980243,
@@ -299,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 809926,
+      "num": 809926,
+      "word": "RNG晋级TI11",
+      "onboard_time": 1662974380,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 779899,
       "num": 779899,
       "word": "哥哥为留探亲妹妹把烧烤摊叫回家",
@@ -403,6 +411,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 647683,
+      "num": 647683,
+      "word": "幼儿园午睡后男孩帮女孩穿鞋",
+      "onboard_time": 1662971736,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 632676,
       "num": 632676,
       "word": "女孩基因突变最快48秒睡着",
@@ -467,20 +483,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 502793,
+      "num": 305924,
+      "word": "可惜了操场",
+      "onboard_time": 1662975042,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 500359,
       "num": 500359,
       "word": "美国世贸大厦坍塌瞬间",
       "onboard_time": 1662908037,
       "rank": 7,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 498126,
-      "num": 498126,
-      "word": "幼儿园午睡后男孩帮女孩穿鞋",
-      "onboard_time": 1662971736,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 495644,
@@ -683,6 +699,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 336773,
+      "num": 336773,
+      "word": "职工返岗前48小时内应测核酸",
+      "onboard_time": 1662973177,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332163,
       "num": 332163,
       "word": "EDG",
@@ -763,12 +787,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 294874,
-      "num": 294874,
+      "raw_hot": 299905,
+      "num": 299905,
       "word": "北京通州划定高中风险区",
       "onboard_time": 1662972336,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 294190,
+      "num": 294190,
+      "word": "第一次在猫脸上看到了尴尬",
+      "onboard_time": 1662973958,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 288883,
@@ -787,6 +819,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 281438,
+      "num": 281438,
+      "word": "外籍男子疑当街骚扰妇女被扇耳光",
+      "onboard_time": 1662974862,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 278597,
+      "num": 278597,
+      "word": "重庆一男子踹狗致老人摔倒",
+      "onboard_time": 1662974737,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277566,
       "num": 186447,
       "word": "朴彩英新歌预告海报",
@@ -801,14 +849,6 @@
       "onboard_time": 1662946057,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 270274,
-      "num": 270274,
-      "word": "RNG晋级TI11",
-      "onboard_time": 1662974380,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 269437,
@@ -852,7 +892,7 @@
     },
     {
       "raw_hot": 258225,
-      "num": 2020279,
+      "num": 2097654,
       "word": "中国乡村风景可以洗眼睛",
       "onboard_time": 1662942872,
       "rank": 2,
@@ -883,11 +923,11 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 244419,
-      "num": 244419,
-      "word": "职工返岗前48小时内应测核酸",
-      "onboard_time": 1662973177,
-      "rank": 26,
+      "raw_hot": 240248,
+      "num": 240248,
+      "word": "女孩被弟弟打爸爸让其打回去",
+      "onboard_time": 1662974862,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -1051,14 +1091,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 186859,
-      "num": 186859,
-      "word": "第一次在猫脸上看到了尴尬",
-      "onboard_time": 1662973958,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 184296,
       "num": 184296,
       "word": "它好像知道自己腿短",
@@ -1120,6 +1152,14 @@
       "word": "北京疫情发布会",
       "onboard_time": 1662971615,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138300,
+      "num": 138300,
+      "word": "杀猪盘骗子屋里搜出一摞撩汉秘籍",
+      "onboard_time": 1662975340,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -1227,14 +1267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99550,
-      "num": 99550,
-      "word": "重庆一男子踹狗致老人摔倒",
-      "onboard_time": 1662974737,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 98249,
       "num": 98249,
       "word": "英雄联盟",
@@ -1257,6 +1289,14 @@
       "onboard_time": 1662942993,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 91686,
+      "num": 91686,
+      "word": "舅舅买充气城堡给外甥玩耍",
+      "onboard_time": 1662975760,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 89627,
