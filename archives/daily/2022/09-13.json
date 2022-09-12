@@ -1,6 +1,6 @@
 {
   "startTime": 1663000581861,
-  "endTime": 1663002116797,
+  "endTime": 1663003936849,
   "band_list": [
     {
       "raw_hot": 9785867,
@@ -107,7 +107,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 452412,
+      "raw_hot": 514128,
       "num": 204959,
       "word": "ios16",
       "onboard_time": 1662984455,
@@ -123,20 +123,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 378582,
+      "num": 237132,
+      "word": "一场脱口秀带火600759",
+      "onboard_time": 1662999157,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 373508,
       "num": 373508,
       "word": "老人体检回家后被3岁重孙三连问",
       "onboard_time": 1662990400,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 361793,
-      "num": 237132,
-      "word": "一场脱口秀带火600759",
-      "onboard_time": 1662999157,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 340279,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283376,
+      "num": 168414,
+      "word": "黄景瑜罚罪站内热度值破9700",
+      "onboard_time": 1663001844,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 274269,
       "num": 193059,
       "word": "内江发现奥密克戎变异株",
@@ -177,14 +185,6 @@
       "onboard_time": 1662984816,
       "rank": 16,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 240403,
-      "num": 106204,
-      "word": "黄景瑜罚罪站内热度值破9700",
-      "onboard_time": 1663001844,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 235072,
@@ -409,6 +409,14 @@
       "onboard_time": 1662942872,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 22557,
+      "num": 23725,
+      "word": "奶奶落井爷爷托举一小时后被救",
+      "onboard_time": 1663003459,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
