@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1662982673979,
+  "endTime": 1662987117519,
   "band_list": [
     {
       "raw_hot": 8475341,
@@ -9,6 +9,14 @@
       "onboard_time": 1662940710,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 4705773,
+      "num": 4705773,
+      "word": "当经纪公司说漏嘴",
+      "onboard_time": 1662980737,
+      "rank": 3,
+      "category": "幽默"
     },
     {
       "raw_hot": 4328901,
@@ -27,20 +35,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3634448,
+      "num": 3634448,
+      "word": "媒体评李易峰最后一次露面",
+      "onboard_time": 1662983483,
+      "rank": 1,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 3511860,
-      "num": 593662,
+      "num": 611494,
       "word": "郝蕾",
       "onboard_time": 1662972998,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3412937,
-      "num": 3412937,
-      "word": "当经纪公司说漏嘴",
-      "onboard_time": 1662980737,
-      "rank": 3,
-      "category": "幽默"
     },
     {
       "raw_hot": 3412296,
@@ -307,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 941555,
+      "num": 941555,
+      "word": "ios16",
+      "onboard_time": 1662984455,
+      "rank": 5,
+      "category": "科技"
+    },
+    {
       "raw_hot": 926482,
       "num": 313230,
       "word": "杨幂出道20周年",
@@ -339,12 +355,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 849503,
+      "num": 697258,
+      "word": "二十不惑2大结局",
+      "onboard_time": 1662980860,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 829568,
       "num": 829568,
       "word": "长大就瘦了是真的吗",
       "onboard_time": 1662943354,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 810970,
+      "num": 454448,
+      "word": "心疼费启鸣演的齐颂",
+      "onboard_time": 1662985177,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 809926,
@@ -387,6 +419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 760849,
+      "num": 760849,
+      "word": "刘青松",
+      "onboard_time": 1662984816,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 722183,
       "num": 722183,
       "word": "学生宿舍炖鲫鱼汤被网友举报",
@@ -401,14 +441,6 @@
       "onboard_time": 1662911858,
       "rank": 9,
       "category": "自然,社会新闻"
-    },
-    {
-      "raw_hot": 697258,
-      "num": 697258,
-      "word": "二十不惑2大结局",
-      "onboard_time": 1662980860,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 697126,
@@ -483,6 +515,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 649445,
+      "num": 649445,
+      "word": "浙江教师业绩突出获奖一套房",
+      "onboard_time": 1662980439,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 632676,
       "num": 632676,
       "word": "女孩基因突变最快48秒睡着",
@@ -496,6 +536,14 @@
       "word": "嫖娼或将承担什么法律责任",
       "onboard_time": 1662894227,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 626679,
+      "num": 626679,
+      "word": "36岁歌手嚼槟榔6年因口腔癌过世",
+      "onboard_time": 1662979358,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -579,14 +627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 491968,
-      "num": 491968,
-      "word": "浙江教师业绩突出获奖一套房",
-      "onboard_time": 1662980439,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 481621,
       "num": 481621,
       "word": "广东新娘脖子上挂满金手镯",
@@ -657,6 +697,14 @@
       "onboard_time": 1662952413,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 455727,
+      "num": 455727,
+      "word": "小鹏飞行汽车续航35分钟",
+      "onboard_time": 1662985116,
+      "rank": 12,
+      "category": "科技"
     },
     {
       "raw_hot": 454559,
@@ -739,12 +787,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 383999,
+      "num": 383999,
+      "word": "男子回应踹狗致老人摔倒",
+      "onboard_time": 1662981578,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 375368,
       "num": 375368,
       "word": "周末应该摆烂还是自律",
       "onboard_time": 1662947735,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 374316,
+      "num": 374316,
+      "word": "大爷修鞋被熏到拿纸塞鼻孔",
+      "onboard_time": 1662983558,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 373806,
@@ -963,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 269809,
+      "num": 173381,
+      "word": "金世佳办公室年上恋适配度",
+      "onboard_time": 1662984396,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 269437,
       "num": 156195,
       "word": "Prada与李易峰终止合作",
@@ -1017,6 +1089,14 @@
       "onboard_time": 1662942872,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 252393,
+      "num": 171916,
+      "word": "苏醒宇航员造型",
+      "onboard_time": 1662984216,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 251029,
@@ -1107,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222297,
+      "num": 222297,
+      "word": "入职后发现公司太混乱怎么办",
+      "onboard_time": 1662985717,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 220079,
       "num": 220079,
       "word": "内江疫情防控",
@@ -1121,14 +1209,6 @@
       "onboard_time": 1662960754,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 216675,
-      "num": 216675,
-      "word": "36岁歌手嚼槟榔6年因口腔癌过世",
-      "onboard_time": 1662979358,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 215754,
@@ -1169,6 +1249,14 @@
       "onboard_time": 1662980018,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207345,
+      "num": 207345,
+      "word": "只有真正的正能量才有长长久久的流量",
+      "onboard_time": 1662986317,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206856,
@@ -1243,12 +1331,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 190670,
-      "num": 190670,
-      "word": "男子回应踹狗致老人摔倒",
-      "onboard_time": 1662981578,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 190827,
+      "num": 139357,
+      "word": "很难不被吴克群幽默到",
+      "onboard_time": 1662984276,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 189952,
@@ -1315,6 +1403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154820,
+      "num": 154820,
+      "word": "深圳校服到底有多好看",
+      "onboard_time": 1662986558,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154482,
       "num": 154482,
       "word": "60多岁男房东给21岁女租客发不雅视频",
@@ -1337,6 +1433,14 @@
       "onboard_time": 1662978160,
       "rank": 44,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 139796,
+      "num": 139796,
+      "word": "又怂又手欠的狗子",
+      "onboard_time": 1662986199,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 124196,
@@ -1369,6 +1473,14 @@
       "onboard_time": 1662897543,
       "rank": 24,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 115534,
+      "num": 115534,
+      "word": "大爷沉陷区养鱼一年挣50万",
+      "onboard_time": 1662986978,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115224,
