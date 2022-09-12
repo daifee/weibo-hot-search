@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662939732040,
+  "endTime": 1662950200462,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -65,6 +65,14 @@
       "onboard_time": 1662659122,
       "rank": 0,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 8475341,
+      "num": 8475341,
+      "word": "如何看待李易峰此前发声明",
+      "onboard_time": 1662940710,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 8424779,
@@ -835,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2308323,
+      "num": 2308323,
+      "word": "没卖出去的月饼都去哪了",
+      "onboard_time": 1662945394,
+      "rank": 1,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 2284966,
       "num": 383177,
       "word": "棣欣引力",
@@ -1313,6 +1329,14 @@
       "onboard_time": 1662076948,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1861395,
+      "num": 1861395,
+      "word": "保安毒死小区11只宠物狗获刑3年",
+      "onboard_time": 1662946835,
+      "rank": 3,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1860669,
@@ -3563,6 +3587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1065086,
+      "num": 488861,
+      "word": "水果店老板",
+      "onboard_time": 1662943954,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1064990,
       "num": 1064990,
       "word": "国家将开始投放中央猪肉储备",
@@ -4419,6 +4451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 926482,
+      "num": 313230,
+      "word": "杨幂出道20周年",
+      "onboard_time": 1662943354,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 926061,
       "num": 926061,
       "word": "LPL三号种子EDG",
@@ -5123,6 +5163,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 829568,
+      "num": 829568,
+      "word": "长大就瘦了是真的吗",
+      "onboard_time": 1662943354,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 829502,
       "num": 829502,
       "word": "奔跑吧特别季将9月下旬录制",
@@ -5457,6 +5505,14 @@
       "onboard_time": 1662739108,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 779899,
+      "num": 779899,
+      "word": "哥哥为留探亲妹妹把烧烤摊叫回家",
+      "onboard_time": 1662942452,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 778764,
@@ -6113,6 +6169,14 @@
       "onboard_time": 1662258148,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 697126,
+      "num": 697126,
+      "word": "蔡徐坤姨父笑",
+      "onboard_time": 1662945994,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 696839,
@@ -8011,6 +8075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 521835,
+      "num": 521835,
+      "word": "90后小伙为工作9年不炫火锅",
+      "onboard_time": 1662948517,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 520538,
       "num": 295703,
       "word": "极限挑战",
@@ -8121,6 +8193,14 @@
       "onboard_time": 1661960249,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 511045,
+      "num": 511045,
+      "word": "RNG与DRX同组",
+      "onboard_time": 1662943893,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 510684,
@@ -9017,6 +9097,14 @@
       "onboard_time": 1662371248,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 465877,
+      "num": 465877,
+      "word": "自驾阿姨苏敏出走2年后首次回家",
+      "onboard_time": 1662944494,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 465615,
@@ -10819,6 +10907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 386127,
+      "num": 386127,
+      "word": "A组B组死亡之组",
+      "onboard_time": 1662943052,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 385798,
       "num": 385798,
       "word": "曾舜晞恋综首秀",
@@ -11563,6 +11659,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 361955,
+      "num": 361955,
+      "word": "成都发布",
+      "onboard_time": 1662005192,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 361862,
       "num": 361862,
       "word": "陕西咸阳发现美洲毒草银毛龙葵",
@@ -11971,6 +12075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 349347,
+      "num": 349347,
+      "word": "G2",
+      "onboard_time": 1662938303,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 349235,
       "num": 349235,
       "word": "山东新增本土确诊3例本土无症状53例",
@@ -12179,14 +12291,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 342888,
-      "num": 342888,
-      "word": "成都发布",
-      "onboard_time": 1662005192,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 342844,
       "num": 342844,
       "word": "102岁姐姐给86岁弟弟塞红包",
@@ -12233,6 +12337,14 @@
       "onboard_time": 1662298234,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 340647,
+      "num": 340647,
+      "word": "复试保过班最贵要花近10万",
+      "onboard_time": 1662944433,
+      "rank": 17,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 340633,
@@ -12369,14 +12481,6 @@
       "onboard_time": 1662007054,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 337032,
-      "num": 337032,
-      "word": "G2",
-      "onboard_time": 1662938303,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 336968,
@@ -13161,6 +13265,14 @@
       "onboard_time": 1662877292,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 313459,
+      "num": 313459,
+      "word": "很难相信这是同一只猫",
+      "onboard_time": 1662946716,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 313458,
@@ -15363,6 +15475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 268189,
+      "num": 268189,
+      "word": "小鹿 复活",
+      "onboard_time": 1662940288,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 268082,
       "num": 148675,
       "word": "华为Mate50起售价4999元",
@@ -15659,6 +15779,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 263460,
+      "num": 263460,
+      "word": "周末应该摆烂还是自律",
+      "onboard_time": 1662947735,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 263389,
       "num": 263389,
       "word": "上班第一天被同事欺负要怎么办",
@@ -15737,6 +15865,14 @@
       "onboard_time": 1662878911,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 261065,
+      "num": 108209,
+      "word": "朴彩英新歌预告海报",
+      "onboard_time": 1662950192,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 260577,
@@ -16168,6 +16304,14 @@
       "word": "中秋节与教师节同天本世纪仅有三次",
       "onboard_time": 1662539426,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251598,
+      "num": 251598,
+      "word": "小偷走路嗑瓜子民警顺瓜子皮抓人",
+      "onboard_time": 1662946057,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -16761,6 +16905,14 @@
       "onboard_time": 1662621149,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 238569,
+      "num": 238569,
+      "word": "9月11日新增785例本土无症状",
+      "onboard_time": 1662948517,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238423,
@@ -17667,6 +17819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220079,
+      "num": 220079,
+      "word": "内江疫情防控",
+      "onboard_time": 1662948395,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219280,
       "num": 219280,
       "word": "百米长龙抢购网红月饼或成历史",
@@ -17811,6 +17971,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 215754,
+      "num": 215754,
+      "word": "金山",
+      "onboard_time": 1662944736,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215692,
       "num": 215692,
       "word": "李景亮分歧判定告负",
@@ -17929,6 +18097,14 @@
       "onboard_time": 1662116487,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 214300,
+      "num": 214300,
+      "word": "航天员吃到了在太空种的生菜",
+      "onboard_time": 1662945033,
+      "rank": 32,
+      "category": "科技"
     },
     {
       "raw_hot": 214099,
@@ -18129,6 +18305,14 @@
       "onboard_time": 1661997027,
       "rank": 33,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 210223,
+      "num": 210223,
+      "word": "意大利男篮淘汰塞尔维亚男篮",
+      "onboard_time": 1662947856,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 210214,
@@ -18705,6 +18889,14 @@
       "onboard_time": 1662736112,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197826,
+      "num": 197826,
+      "word": "S12抽签仪式",
+      "onboard_time": 1662940710,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 197248,
@@ -20272,6 +20464,14 @@
       "word": "诈骗分子放烟花庆祝业绩超百万",
       "onboard_time": 1662748754,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164251,
+      "num": 164251,
+      "word": "北京9月11日新增15例本土确诊",
+      "onboard_time": 1662942273,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -22267,6 +22467,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 120178,
+      "num": 120178,
+      "word": "house 逐张清点",
+      "onboard_time": 1662947619,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119487,
       "num": 119487,
       "word": "陈幸同",
@@ -22531,6 +22739,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 110381,
+      "num": 110381,
+      "word": "EDG与T1一组",
+      "onboard_time": 1662942932,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 110193,
       "num": 2180210,
       "word": "他们全力以赴只为泸定早日安定",
@@ -22625,6 +22841,14 @@
       "onboard_time": 1662409151,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105311,
+      "num": 105311,
+      "word": "预防出生缺陷应该知道的事",
+      "onboard_time": 1662946355,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103022,

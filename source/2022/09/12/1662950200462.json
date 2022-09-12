@@ -1,0 +1,410 @@
+{
+  "runTime": 1662950200462,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8475341,
+        "num": 8475341,
+        "word": "如何看待李易峰此前发声明",
+        "onboard_time": 1662940710,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2308323,
+        "num": 2308323,
+        "word": "没卖出去的月饼都去哪了",
+        "onboard_time": 1662945394,
+        "rank": 1,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 11147,
+        "num": 1916671,
+        "word": "绿水青山是我家",
+        "onboard_time": 1662873633,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1861395,
+        "num": 1861395,
+        "word": "保安毒死小区11只宠物狗获刑3年",
+        "onboard_time": 1662946835,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1224125,
+        "num": 1224125,
+        "word": "苍兰诀 番外",
+        "onboard_time": 1662942332,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 829568,
+        "num": 829568,
+        "word": "长大就瘦了是真的吗",
+        "onboard_time": 1662943354,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 779899,
+        "num": 779899,
+        "word": "哥哥为留探亲妹妹把烧烤摊叫回家",
+        "onboard_time": 1662942452,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 697126,
+        "num": 697126,
+        "word": "蔡徐坤姨父笑",
+        "onboard_time": 1662945994,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 521835,
+        "num": 521835,
+        "word": "90后小伙为工作9年不炫火锅",
+        "onboard_time": 1662948517,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511045,
+        "num": 511045,
+        "word": "RNG与DRX同组",
+        "onboard_time": 1662943893,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1065086,
+        "num": 488861,
+        "word": "水果店老板",
+        "onboard_time": 1662943954,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 867912,
+        "num": 477662,
+        "word": "李易峰多次嫖娼被行政拘留",
+        "onboard_time": 1662890660,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 465877,
+        "num": 465877,
+        "word": "自驾阿姨苏敏出走2年后首次回家",
+        "onboard_time": 1662944494,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386127,
+        "num": 386127,
+        "word": "A组B组死亡之组",
+        "onboard_time": 1662943052,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 561667,
+        "num": 384062,
+        "word": "艺人违法需赔品牌多少钱",
+        "onboard_time": 1662906355,
+        "rank": 14,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 361955,
+        "num": 361955,
+        "word": "成都发布",
+        "onboard_time": 1662941971,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349347,
+        "num": 349347,
+        "word": "G2",
+        "onboard_time": 1662938303,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 340647,
+        "num": 340647,
+        "word": "复试保过班最贵要花近10万",
+        "onboard_time": 1662944433,
+        "rank": 17,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 328678,
+        "num": 328678,
+        "word": "朱梓骁拟邀再就业男团",
+        "onboard_time": 1662913836,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313459,
+        "num": 313459,
+        "word": "很难相信这是同一只猫",
+        "onboard_time": 1662946716,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 926482,
+        "num": 313230,
+        "word": "杨幂出道20周年",
+        "onboard_time": 1662943354,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312157,
+        "num": 312157,
+        "word": "你也有美丽羞耻症吗",
+        "onboard_time": 1662909828,
+        "rank": 21,
+        "category": "情感,社会议题"
+      },
+      {
+        "raw_hot": 276152,
+        "num": 276152,
+        "word": "网传刘浩存林一新剧脱轨将开机",
+        "onboard_time": 1662918740,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268189,
+        "num": 268189,
+        "word": "小鹿 复活",
+        "onboard_time": 1662940288,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263460,
+        "num": 263460,
+        "word": "周末应该摆烂还是自律",
+        "onboard_time": 1662947735,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 251598,
+        "num": 251598,
+        "word": "小偷走路嗑瓜子民警顺瓜子皮抓人",
+        "onboard_time": 1662946057,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247212,
+        "num": 247212,
+        "word": "学生宿舍炖鲫鱼汤被网友举报",
+        "onboard_time": 1662905210,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238569,
+        "num": 238569,
+        "word": "9月11日新增785例本土无症状",
+        "onboard_time": 1662948517,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220079,
+        "num": 220079,
+        "word": "内江疫情防控",
+        "onboard_time": 1662948395,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219234,
+        "num": 219234,
+        "word": "女孩基因突变最快48秒睡着",
+        "onboard_time": 1662893443,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217190,
+        "num": 217190,
+        "word": "广东新娘脖子上挂满金手镯",
+        "onboard_time": 1662908812,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215754,
+        "num": 215754,
+        "word": "金山",
+        "onboard_time": 1662944736,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214300,
+        "num": 214300,
+        "word": "航天员吃到了在太空种的生菜",
+        "onboard_time": 1662945033,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 210223,
+        "num": 210223,
+        "word": "意大利男篮淘汰塞尔维亚男篮",
+        "onboard_time": 1662947856,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197826,
+        "num": 197826,
+        "word": "S12抽签仪式",
+        "onboard_time": 1662940710,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 194741,
+        "num": 194741,
+        "word": "为什么张国荣的笑那么治愈",
+        "onboard_time": 1662913057,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170881,
+        "num": 170881,
+        "word": "男子砸4辆车偷9万元手表直接扔了",
+        "onboard_time": 1662915450,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168915,
+        "num": 168915,
+        "word": "律师谈多次嫖娼处罚",
+        "onboard_time": 1662908453,
+        "rank": 37,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 164251,
+        "num": 164251,
+        "word": "北京9月11日新增15例本土确诊",
+        "onboard_time": 1662942273,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149698,
+        "num": 149698,
+        "word": "凌晨烧烤店客人离开物业悄悄打扫",
+        "onboard_time": 1662909470,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152821,
+        "num": 148271,
+        "word": "远离嫖娼别心动更别行动",
+        "onboard_time": 1662895570,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141665,
+        "num": 141665,
+        "word": "今晚木星伴月太浪漫了",
+        "onboard_time": 1662911858,
+        "rank": 41,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 130428,
+        "num": 130428,
+        "word": "小学生沉迷文具店开盲盒",
+        "onboard_time": 1662923173,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 120178,
+        "num": 120178,
+        "word": "house 逐张清点",
+        "onboard_time": 1662947619,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114819,
+        "num": 114819,
+        "word": "印度暂退出印太经济框架贸易谈判",
+        "onboard_time": 1662914133,
+        "rank": 44,
+        "category": "财经,国外要闻"
+      },
+      {
+        "raw_hot": 112902,
+        "num": 112902,
+        "word": "苍兰诀",
+        "onboard_time": 1662944074,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110381,
+        "num": 110381,
+        "word": "EDG与T1一组",
+        "onboard_time": 1662942932,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 261065,
+        "num": 108209,
+        "word": "朴彩英新歌预告海报",
+        "onboard_time": 1662950192,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 105311,
+        "num": 105311,
+        "word": "预防出生缺陷应该知道的事",
+        "onboard_time": 1662946355,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99486,
+        "num": 99486,
+        "word": "北京警方通报李易峰多次嫖娼",
+        "onboard_time": 1662889784,
+        "rank": 49,
+        "category": "社会新闻,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#让科技创新更好造福人类#"
+    }
+  }
+}
