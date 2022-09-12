@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1662993881406,
+  "endTime": 1662996500487,
   "band_list": [
     {
       "raw_hot": 8475341,
@@ -65,6 +65,14 @@
       "onboard_time": 1662961712,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3162379,
+      "num": 3162379,
+      "word": "600759",
+      "onboard_time": 1662992502,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 2984335,
@@ -171,14 +179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1597973,
-      "num": 1597973,
-      "word": "600759",
-      "onboard_time": 1662992502,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1597643,
       "num": 1131511,
       "word": "艺人违法需赔品牌多少钱",
@@ -281,6 +281,14 @@
       "onboard_time": 1662913836,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1229975,
+      "num": 1229975,
+      "word": "编剧真的很了解贫穷",
+      "onboard_time": 1662992564,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 1188117,
@@ -427,14 +435,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 874379,
-      "num": 874379,
-      "word": "编剧真的很了解贫穷",
-      "onboard_time": 1662992564,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 849503,
       "num": 810765,
       "word": "二十不惑2大结局",
@@ -523,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 695224,
+      "num": 695224,
+      "word": "老人体检回家后被3岁重孙三连问",
+      "onboard_time": 1662990400,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 690921,
       "num": 690921,
       "word": "幼儿园午睡后男孩帮女孩穿鞋",
@@ -595,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 642757,
+      "num": 642757,
+      "word": "猫咪售出半年后独自现身店门口",
+      "onboard_time": 1662993347,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 638785,
       "num": 606277,
       "word": "成毅六月的雨中有爱的真谛",
@@ -643,12 +659,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 569119,
+      "num": 569119,
+      "word": "台积电2纳米预计2025年量产",
+      "onboard_time": 1662992502,
+      "rank": 44,
+      "category": "科技"
+    },
+    {
       "raw_hot": 555146,
       "num": 555146,
       "word": "入职后发现公司太混乱怎么办",
       "onboard_time": 1662985717,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 550775,
+      "num": 550775,
+      "word": "中秋假期国内游7340.9万人次",
+      "onboard_time": 1662991483,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 536775,
@@ -673,14 +705,6 @@
       "onboard_time": 1662989082,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 512610,
-      "num": 512610,
-      "word": "老人体检回家后被3岁重孙三连问",
-      "onboard_time": 1662990400,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 511683,
@@ -732,7 +756,7 @@
     },
     {
       "raw_hot": 494331,
-      "num": 353812,
+      "num": 484487,
       "word": "罚罪",
       "onboard_time": 1662988183,
       "rank": 25,
@@ -883,11 +907,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 415090,
+      "num": 415090,
+      "word": "原来米虫是从米里出来的",
+      "onboard_time": 1662995624,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 411098,
       "num": 411098,
       "word": "男孩刮花车辆车主索赔遭家长辱骂",
       "onboard_time": 1662966996,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 409709,
+      "num": 409709,
+      "word": "天府新区疫情防控",
+      "onboard_time": 1662994486,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -1019,6 +1059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 341344,
+      "num": 234235,
+      "word": "史上最强裁缝",
+      "onboard_time": 1662992684,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 340647,
       "num": 340647,
       "word": "复试保过班最贵要花近10万",
@@ -1041,6 +1089,14 @@
       "onboard_time": 1662955477,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 330729,
+      "num": 234065,
+      "word": "消失的孩子",
+      "onboard_time": 1662994666,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 328753,
@@ -1080,14 +1136,6 @@
       "word": "市长热线回应高速服务区餐厅有老鼠",
       "onboard_time": 1662965854,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 323075,
-      "num": 323075,
-      "word": "中秋假期国内游7340.9万人次",
-      "onboard_time": 1662991483,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1139,14 +1187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 293424,
-      "num": 137863,
-      "word": "史上最强裁缝",
-      "onboard_time": 1662992684,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 289184,
       "num": 224055,
       "word": "崇德尚艺是文艺工作者的基本要求",
@@ -1177,14 +1217,6 @@
       "onboard_time": 1662976959,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 282369,
-      "num": 282369,
-      "word": "台积电2纳米预计2025年量产",
-      "onboard_time": 1662992502,
-      "rank": 44,
-      "category": "科技"
     },
     {
       "raw_hot": 280532,
@@ -1251,6 +1283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264215,
+      "num": 175446,
+      "word": "A股首支脱口秀概念股",
+      "onboard_time": 1662994426,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263700,
       "num": 163949,
       "word": "你安全吗大数据4步教你捉奸",
@@ -1273,6 +1313,14 @@
       "onboard_time": 1662942872,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 254546,
+      "num": 254546,
+      "word": "谢谢有被健康到",
+      "onboard_time": 1662994183,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 252393,
@@ -1305,6 +1353,14 @@
       "onboard_time": 1662923173,
       "rank": 48,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 240568,
+      "num": 240568,
+      "word": "4人悬崖边脚踩巨石用力摇晃",
+      "onboard_time": 1662993284,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238569,
@@ -1361,6 +1417,14 @@
       "onboard_time": 1662956435,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 231157,
+      "num": 172670,
+      "word": "梁爽最后一场直播",
+      "onboard_time": 1662996042,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 228605,
@@ -1603,20 +1667,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 155566,
-      "num": 155566,
-      "word": "猫咪售出半年后独自现身店门口",
-      "onboard_time": 1662993347,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 154482,
       "num": 154482,
       "word": "60多岁男房东给21岁女租客发不雅视频",
       "onboard_time": 1662887369,
       "rank": 23,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 152555,
+      "num": 152555,
+      "word": "泸定地震获救的台北女孩告别时哭了",
+      "onboard_time": 1662991001,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151245,
@@ -1643,12 +1707,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 140290,
-      "num": 140290,
-      "word": "泸定地震获救的台北女孩告别时哭了",
-      "onboard_time": 1662991001,
+      "raw_hot": 135172,
+      "num": 135172,
+      "word": "如何做到真正的有效夸奖",
+      "onboard_time": 1662994064,
       "rank": 45,
-      "category": "社会新闻"
+      "category": "情感"
     },
     {
       "raw_hot": 124196,
@@ -1689,14 +1753,6 @@
       "onboard_time": 1662930072,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 114275,
-      "num": 114275,
-      "word": "4人悬崖边脚踩巨石用力摇晃",
-      "onboard_time": 1662993284,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110381,
@@ -1769,6 +1825,14 @@
       "onboard_time": 1662900595,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 97214,
+      "num": 97214,
+      "word": "寄养姑姑家女孩给表弟买了一套房",
+      "onboard_time": 1662996223,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94992,
