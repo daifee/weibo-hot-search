@@ -1,0 +1,410 @@
+{
+  "runTime": 1662969245041,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2502080,
+        "num": 2502080,
+        "word": "偷偷藏不住剧组在学校砸学生无人机",
+        "onboard_time": 1662962135,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1865683,
+        "num": 1865683,
+        "word": "全体同意的8万班费为何引质疑",
+        "onboard_time": 1662962676,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 132580,
+        "num": 1475888,
+        "word": "中国乡村风景可以洗眼睛",
+        "onboard_time": 1662942872,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1272344,
+        "num": 1272344,
+        "word": "如何看待李易峰此前发声明",
+        "onboard_time": 1662940710,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 887781,
+        "num": 887781,
+        "word": "选调生或成为985学生最佳选择",
+        "onboard_time": 1662961652,
+        "rank": 4,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 795469,
+        "num": 795469,
+        "word": "良品铺子月饼被曝吃出塑料",
+        "onboard_time": 1662962914,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1794281,
+        "num": 757164,
+        "word": "江宁婆婆",
+        "onboard_time": 1662956733,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 696711,
+        "num": 696711,
+        "word": "蒙古国草原火蔓延至我国边境呼伦贝尔",
+        "onboard_time": 1662965735,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 663834,
+        "num": 663834,
+        "word": "猫咪趁主人睡着开闸放水",
+        "onboard_time": 1662965436,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 642209,
+        "num": 642209,
+        "word": "关注俄乌局势最新进展",
+        "onboard_time": 1662963334,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1975028,
+        "num": 627660,
+        "word": "嘉行传媒",
+        "onboard_time": 1662961712,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1343906,
+        "num": 568127,
+        "word": "海清你才是神",
+        "onboard_time": 1662968853,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 905183,
+        "num": 526329,
+        "word": "苍兰诀番外 敷衍",
+        "onboard_time": 1662962616,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 476551,
+        "num": 476551,
+        "word": "男生将头伸进床头护栏被一秒封印",
+        "onboard_time": 1662965315,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 464210,
+        "num": 464210,
+        "word": "iPhone14ProMax电池容量不增反降",
+        "onboard_time": 1662951095,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 447100,
+        "num": 447100,
+        "word": "3男孩跪楼道里饮料代酒桃园结义",
+        "onboard_time": 1662966574,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446519,
+        "num": 446519,
+        "word": "男童被卡跑步机含泪接唱孤勇者",
+        "onboard_time": 1662963637,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416865,
+        "num": 416865,
+        "word": "鸟妈喂食比自己坨还大的寄生宝宝",
+        "onboard_time": 1662966693,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302485,
+        "num": 302485,
+        "word": "没卖出去的月饼都去哪了",
+        "onboard_time": 1662945394,
+        "rank": 18,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 290348,
+        "num": 290348,
+        "word": "老人赶集鸭子被热死路人出手买下",
+        "onboard_time": 1662954635,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 608719,
+        "num": 281337,
+        "word": "疑似时代峰峻工作人员机场锁喉粉丝",
+        "onboard_time": 1662958417,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 585571,
+        "num": 277449,
+        "word": "脱口秀大会5官宣张杰",
+        "onboard_time": 1662966574,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 431413,
+        "num": 275201,
+        "word": "刘浩存林一脱轨开机路透",
+        "onboard_time": 1662967175,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 272078,
+        "num": 272078,
+        "word": "市长热线回应高速服务区餐厅有老鼠",
+        "onboard_time": 1662965854,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256843,
+        "num": 256843,
+        "word": "男孩刮花车辆车主索赔遭家长辱骂",
+        "onboard_time": 1662966996,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229060,
+        "num": 229060,
+        "word": "宝妈因孩子集体照露脸少起诉影楼",
+        "onboard_time": 1662952053,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216042,
+        "num": 216042,
+        "word": "若木星轨道改变地球或更宜居",
+        "onboard_time": 1662962073,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 210250,
+        "num": 210250,
+        "word": "警方连续3年在观潮时抓住逃犯",
+        "onboard_time": 1662962433,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187959,
+        "num": 187959,
+        "word": "90后小伙为工作9年不炫火锅",
+        "onboard_time": 1662948517,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160041,
+        "num": 160041,
+        "word": "一只榨菜鲜肉月饼相当于4碗饭",
+        "onboard_time": 1662956373,
+        "rank": 29,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 403188,
+        "num": 159950,
+        "word": "徐冬冬说糊咖也是咖",
+        "onboard_time": 1662964776,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322424,
+        "num": 159912,
+        "word": "你安全吗墨镜男",
+        "onboard_time": 1662951875,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296415,
+        "num": 159693,
+        "word": "蒋勤勤中秋晚会状态",
+        "onboard_time": 1662963756,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257745,
+        "num": 159558,
+        "word": "王嘉尔印度滚石9月刊封面",
+        "onboard_time": 1662950314,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 159543,
+        "num": 159543,
+        "word": "保安毒死小区11只宠物狗获刑3年",
+        "onboard_time": 1662946835,
+        "rank": 34,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 198094,
+        "num": 159105,
+        "word": "苍兰诀番外吻戏新镜头",
+        "onboard_time": 1662960876,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158060,
+        "num": 158060,
+        "word": "EDG",
+        "onboard_time": 1662960455,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139954,
+        "num": 139954,
+        "word": "5年级男孩称对作业过敏流眼泪",
+        "onboard_time": 1662954455,
+        "rank": 37,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 138248,
+        "num": 138248,
+        "word": "分手后能和前任做朋友吗",
+        "onboard_time": 1662952413,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118943,
+        "num": 118943,
+        "word": "101岁退休老师过教师节捐款1万元",
+        "onboard_time": 1662967654,
+        "rank": 39,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 201950,
+        "num": 118028,
+        "word": "朱锐",
+        "onboard_time": 1662958055,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115276,
+        "num": 115276,
+        "word": "陪猫咪躺在游泳池的小朋友",
+        "onboard_time": 1662960754,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111139,
+        "num": 111139,
+        "word": "中国男排失去奥运资格赛主动权",
+        "onboard_time": 1662953194,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98707,
+        "num": 98707,
+        "word": "清清KPL登场三周年",
+        "onboard_time": 1662963756,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 90563,
+        "num": 90563,
+        "word": "水果店老板",
+        "onboard_time": 1662943954,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89199,
+        "num": 89199,
+        "word": "长大就瘦了是真的吗",
+        "onboard_time": 1662943354,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85911,
+        "num": 85911,
+        "word": "中秋假期只剩一天了",
+        "onboard_time": 1662968612,
+        "rank": 46,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 79460,
+        "num": 79460,
+        "word": "空军直升机在震区危房单轮悬停",
+        "onboard_time": 1662954756,
+        "rank": 47,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 71453,
+        "num": 71453,
+        "word": "周末应该摆烂还是自律",
+        "onboard_time": 1662947735,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 69358,
+        "num": 69358,
+        "word": "被棉花糖小狗治愈了",
+        "onboard_time": 1662969212,
+        "rank": 49,
+        "category": "情感,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#看见锦绣山河#"
+    }
+  }
+}
