@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663000581861,
+  "endTime": 1663002116797,
   "band_list": [
     {
       "raw_hot": 9785867,
@@ -611,6 +611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 654572,
+      "num": 654572,
+      "word": "石家庄疫情防控",
+      "onboard_time": 1662998679,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 653834,
       "num": 653834,
       "word": "关注俄乌局势最新进展",
@@ -689,14 +697,6 @@
       "onboard_time": 1662992502,
       "rank": 44,
       "category": "科技"
-    },
-    {
-      "raw_hot": 562188,
-      "num": 562188,
-      "word": "石家庄疫情防控",
-      "onboard_time": 1662998679,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 555146,
@@ -1067,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 361793,
+      "num": 237132,
+      "word": "一场脱口秀带火600759",
+      "onboard_time": 1662999157,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 357366,
       "num": 357366,
       "word": "小区景观池鱼变少捕获38斤鳄雀鳝",
@@ -1395,20 +1403,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 249109,
-      "num": 141751,
-      "word": "一场脱口秀带火600759",
-      "onboard_time": 1662999157,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 248016,
       "num": 248016,
       "word": "小学生沉迷文具店开盲盒",
       "onboard_time": 1662923173,
       "rank": 48,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 240403,
+      "num": 106204,
+      "word": "黄景瑜罚罪站内热度值破9700",
+      "onboard_time": 1663001844,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 238569,
@@ -1521,6 +1529,14 @@
       "onboard_time": 1662897298,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 212934,
+      "num": 212934,
+      "word": "宠物市场2千买的狗活不过7天",
+      "onboard_time": 1662997961,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210279,
@@ -1720,14 +1736,6 @@
       "word": "北京9月11日新增15例本土确诊",
       "onboard_time": 1662942273,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157019,
-      "num": 157019,
-      "word": "宠物市场2千买的狗活不过7天",
-      "onboard_time": 1662997961,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
