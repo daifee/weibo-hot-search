@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1662996500487,
+  "endTime": 1662997641941,
   "band_list": [
     {
       "raw_hot": 8475341,
@@ -9,6 +9,14 @@
       "onboard_time": 1662940710,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 6628801,
+      "num": 6628801,
+      "word": "张翰的手",
+      "onboard_time": 1662996581,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 4705773,
@@ -387,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 978181,
+      "num": 978181,
+      "word": "原来米虫是从米里出来的",
+      "onboard_time": 1662995624,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 959052,
       "num": 959052,
       "word": "老人赶集鸭子被热死路人出手买下",
@@ -465,6 +481,14 @@
       "onboard_time": 1662974737,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 780651,
+      "num": 579544,
+      "word": "刘彰livehouse",
+      "onboard_time": 1662997481,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 779899,
@@ -907,14 +931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 415090,
-      "num": 415090,
-      "word": "原来米虫是从米里出来的",
-      "onboard_time": 1662995624,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 411098,
       "num": 411098,
       "word": "男孩刮花车辆车主索赔遭家长辱骂",
@@ -1139,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 321111,
+      "num": 321111,
+      "word": "4人悬崖边脚踩巨石用力摇晃",
+      "onboard_time": 1662993284,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 318277,
       "num": 318277,
       "word": "UR被曝抄袭",
@@ -1283,8 +1307,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 264215,
-      "num": 175446,
+      "raw_hot": 265138,
+      "num": 213560,
       "word": "A股首支脱口秀概念股",
       "onboard_time": 1662994426,
       "rank": 40,
@@ -1308,7 +1332,7 @@
     },
     {
       "raw_hot": 258225,
-      "num": 2474817,
+      "num": 2527044,
       "word": "中国乡村风景可以洗眼睛",
       "onboard_time": 1662942872,
       "rank": 2,
@@ -1353,14 +1377,6 @@
       "onboard_time": 1662923173,
       "rank": 48,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 240568,
-      "num": 240568,
-      "word": "4人悬崖边脚踩巨石用力摇晃",
-      "onboard_time": 1662993284,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 238569,
@@ -1473,6 +1489,22 @@
       "onboard_time": 1662897298,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 212009,
+      "num": 212009,
+      "word": "寄养姑姑家女孩给表弟买了一套房",
+      "onboard_time": 1662996223,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210279,
+      "num": 210279,
+      "word": "天府新区解除风险区",
+      "onboard_time": 1662997183,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210223,
@@ -1825,14 +1857,6 @@
       "onboard_time": 1662900595,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 97214,
-      "num": 97214,
-      "word": "寄养姑姑家女孩给表弟买了一套房",
-      "onboard_time": 1662996223,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 94992,

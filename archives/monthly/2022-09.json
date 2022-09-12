@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662996500487,
+  "endTime": 1662997641941,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -97,6 +97,14 @@
       "onboard_time": 1662354044,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6628801,
+      "num": 6628801,
+      "word": "张翰的手",
+      "onboard_time": 1662996581,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 6261105,
@@ -4323,6 +4331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 978181,
+      "num": 978181,
+      "word": "原来米虫是从米里出来的",
+      "onboard_time": 1662995624,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 977749,
       "num": 977749,
       "word": "杨幂晒羊幂表情包告别花少",
@@ -5841,6 +5857,14 @@
       "onboard_time": 1662739108,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 780651,
+      "num": 579544,
+      "word": "刘彰livehouse",
+      "onboard_time": 1662997481,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 779899,
@@ -10691,14 +10715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 415090,
-      "num": 415090,
-      "word": "原来米虫是从米里出来的",
-      "onboard_time": 1662995624,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 415060,
       "num": 415060,
       "word": "玄夜疯心锁爱",
@@ -13763,6 +13779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 321111,
+      "num": 321111,
+      "word": "4人悬崖边脚踩巨石用力摇晃",
+      "onboard_time": 1662993284,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 321033,
       "num": 321033,
       "word": "东莞一废弃厂房发生火灾致7死",
@@ -16595,6 +16619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265138,
+      "num": 213560,
+      "word": "A股首支脱口秀概念股",
+      "onboard_time": 1662994426,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 265038,
       "num": 265038,
       "word": "泸定地震愿平安",
@@ -16657,14 +16689,6 @@
       "onboard_time": 1662125729,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 264215,
-      "num": 175446,
-      "word": "A股首支脱口秀概念股",
-      "onboard_time": 1662994426,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 264136,
@@ -16852,7 +16876,7 @@
     },
     {
       "raw_hot": 258225,
-      "num": 2474817,
+      "num": 2527044,
       "word": "中国乡村风景可以洗眼睛",
       "onboard_time": 1662942872,
       "rank": 2,
@@ -17753,14 +17777,6 @@
       "onboard_time": 1662369989,
       "rank": 38,
       "category": "教育"
-    },
-    {
-      "raw_hot": 240568,
-      "num": 240568,
-      "word": "4人悬崖边脚踩巨石用力摇晃",
-      "onboard_time": 1662993284,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 240126,
@@ -19187,6 +19203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212009,
+      "num": 212009,
+      "word": "寄养姑姑家女孩给表弟买了一套房",
+      "onboard_time": 1662996223,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211966,
       "num": 211966,
       "word": "一个人在外打拼有多难",
@@ -19289,6 +19313,14 @@
       "onboard_time": 1661997027,
       "rank": 33,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 210279,
+      "num": 210279,
+      "word": "天府新区解除风险区",
+      "onboard_time": 1662997183,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210223,
@@ -24097,14 +24129,6 @@
       "onboard_time": 1662506422,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 97214,
-      "num": 97214,
-      "word": "寄养姑姑家女孩给表弟买了一套房",
-      "onboard_time": 1662996223,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 96417,
