@@ -1,0 +1,410 @@
+{
+  "runTime": 1662992933118,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3942299,
+        "num": 3942299,
+        "word": "当经纪公司说漏嘴",
+        "onboard_time": 1662980737,
+        "rank": 0,
+        "category": "幽默,网红"
+      },
+      {
+        "raw_hot": 1740108,
+        "num": 1740108,
+        "word": "内江发现奥密克戎变异株",
+        "onboard_time": 1662987944,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38772,
+        "num": 1527256,
+        "word": "中国乡村风景可以洗眼睛",
+        "onboard_time": 1662942872,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1508065,
+        "num": 1508065,
+        "word": "湘雅医院回应专家将莲子壳诊断为肿瘤",
+        "onboard_time": 1662989860,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4371531,
+        "num": 1501974,
+        "word": "李易峰塌房给明星艺人提了什么醒",
+        "onboard_time": 1662987699,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1480491,
+        "num": 1480491,
+        "word": "研究发现晚上多吃不一定会胖",
+        "onboard_time": 1662988781,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 974167,
+        "num": 974167,
+        "word": "深圳校服到底有多好看",
+        "onboard_time": 1662986558,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 939833,
+        "num": 939833,
+        "word": "西安公安通报外籍人员骚扰女性事件",
+        "onboard_time": 1662990341,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 821118,
+        "num": 821118,
+        "word": "姐姐拒绝给弟弟买房被父母告上法庭",
+        "onboard_time": 1662972579,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 810765,
+        "num": 810765,
+        "word": "二十不惑2大结局",
+        "onboard_time": 1662980860,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 932139,
+        "num": 779111,
+        "word": "郝蕾",
+        "onboard_time": 1662972998,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 744191,
+        "num": 744191,
+        "word": "刘青松",
+        "onboard_time": 1662984816,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 698406,
+        "num": 698406,
+        "word": "心疼费启鸣演的齐颂",
+        "onboard_time": 1662985177,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 585496,
+        "num": 585496,
+        "word": "36岁歌手嚼槟榔6年因口腔癌过世",
+        "onboard_time": 1662979358,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512409,
+        "num": 512409,
+        "word": "妈妈花6元买布头做出小汉服",
+        "onboard_time": 1662988721,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499481,
+        "num": 499481,
+        "word": "编剧真的很了解贫穷",
+        "onboard_time": 1662992564,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 420679,
+        "num": 420679,
+        "word": "老人体检回家后被3岁重孙三连问",
+        "onboard_time": 1662990400,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389343,
+        "num": 389343,
+        "word": "大爷沉陷区养鱼一年挣50万",
+        "onboard_time": 1662986978,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374465,
+        "num": 374465,
+        "word": "入职后发现公司太混乱怎么办",
+        "onboard_time": 1662985717,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 368565,
+        "num": 368565,
+        "word": "一口生腌吃进去多少风险",
+        "onboard_time": 1662978699,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 499172,
+        "num": 367630,
+        "word": "董思怡替段家宝完成杭州计划",
+        "onboard_time": 1662989082,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 474914,
+        "num": 363931,
+        "word": "檀健次说陌生人给的酒慎喝",
+        "onboard_time": 1662991483,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1596955,
+        "num": 357260,
+        "word": "媒体评李易峰最后一次露面",
+        "onboard_time": 1662983483,
+        "rank": 22,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 494331,
+        "num": 353812,
+        "word": "罚罪",
+        "onboard_time": 1662988183,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 464835,
+        "num": 350171,
+        "word": "成毅六月的雨中有爱的真谛",
+        "onboard_time": 1662988539,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 348067,
+        "num": 348067,
+        "word": "ios16",
+        "onboard_time": 1662984455,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 300202,
+        "num": 300202,
+        "word": "小区景观池鱼变少捕获38斤鳄雀鳝",
+        "onboard_time": 1662987161,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288626,
+        "num": 288626,
+        "word": "女孩被弟弟打爸爸让其打回去",
+        "onboard_time": 1662974862,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278937,
+        "num": 278937,
+        "word": "幼儿园午睡后男孩帮女孩穿鞋",
+        "onboard_time": 1662971736,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256518,
+        "num": 256518,
+        "word": "中秋假期国内游7340.9万人次",
+        "onboard_time": 1662991483,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352461,
+        "num": 255693,
+        "word": "600759",
+        "onboard_time": 1662992502,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 334825,
+        "num": 248326,
+        "word": "中国视协评李易峰事件",
+        "onboard_time": 1662981639,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227738,
+        "num": 227738,
+        "word": "男子回应踹狗致老人摔倒",
+        "onboard_time": 1662981578,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183280,
+        "num": 183280,
+        "word": "浙江教师业绩突出获奖一套房",
+        "onboard_time": 1662980439,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173448,
+        "num": 173448,
+        "word": "职工返岗前48小时内应测核酸",
+        "onboard_time": 1662973177,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168088,
+        "num": 168088,
+        "word": "大爷修鞋被熏到拿纸塞鼻孔",
+        "onboard_time": 1662983558,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161135,
+        "num": 161135,
+        "word": "香港故宫展出国宝级南宋名画",
+        "onboard_time": 1662989741,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155321,
+        "num": 155321,
+        "word": "第一次在猫脸上看到了尴尬",
+        "onboard_time": 1662973958,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140759,
+        "num": 140759,
+        "word": "长期嚼槟榔的危害有多大",
+        "onboard_time": 1662991902,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140290,
+        "num": 140290,
+        "word": "泸定地震获救的台北女孩告别时哭了",
+        "onboard_time": 1662991001,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323385,
+        "num": 139871,
+        "word": "看虞书欣吃东西好有食欲",
+        "onboard_time": 1662989860,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273872,
+        "num": 138255,
+        "word": "见面吧就现在",
+        "onboard_time": 1662991364,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266449,
+        "num": 137863,
+        "word": "史上最强裁缝",
+        "onboard_time": 1662992684,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136501,
+        "num": 136501,
+        "word": "杀猪盘骗子屋里搜出一摞撩汉秘籍",
+        "onboard_time": 1662975340,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134809,
+        "num": 134809,
+        "word": "台积电2纳米预计2025年量产",
+        "onboard_time": 1662992502,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 124204,
+        "num": 124204,
+        "word": "又怂又手欠的狗子",
+        "onboard_time": 1662986199,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119790,
+        "num": 119790,
+        "word": "舅舅买充气城堡给外甥玩耍",
+        "onboard_time": 1662975760,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117043,
+        "num": 117043,
+        "word": "RNG晋级TI11",
+        "onboard_time": 1662974380,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116317,
+        "num": 116317,
+        "word": "高校食堂推出西红柿炒月饼被抢空",
+        "onboard_time": 1662976721,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96198,
+        "num": 96198,
+        "word": "3男孩跪楼道里饮料代酒桃园结义",
+        "onboard_time": 1662966574,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#坐标中国#"
+    }
+  }
+}
