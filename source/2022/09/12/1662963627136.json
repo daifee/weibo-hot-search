@@ -1,0 +1,410 @@
+{
+  "runTime": 1662963627136,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2700526,
+        "num": 2700526,
+        "word": "如何看待李易峰此前发声明",
+        "onboard_time": 1662940710,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1103000,
+        "num": 1103000,
+        "word": "宝妈因孩子集体照露脸少起诉影楼",
+        "onboard_time": 1662952053,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189996,
+        "num": 902478,
+        "word": "中国乡村风景可以洗眼睛",
+        "onboard_time": 1662942872,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2553295,
+        "num": 859449,
+        "word": "江宁婆婆",
+        "onboard_time": 1662956733,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 2461354,
+        "num": 851783,
+        "word": "偷偷藏不住剧组在学校砸学生无人机",
+        "onboard_time": 1662962135,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 762562,
+        "num": 762562,
+        "word": "选调生或成为985学生最佳选择",
+        "onboard_time": 1662961652,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 716130,
+        "num": 716130,
+        "word": "没卖出去的月饼都去哪了",
+        "onboard_time": 1662945394,
+        "rank": 6,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 714980,
+        "num": 714980,
+        "word": "iPhone14ProMax电池容量不增反降",
+        "onboard_time": 1662951095,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 658047,
+        "num": 658047,
+        "word": "老人赶集鸭子被热死路人出手买下",
+        "onboard_time": 1662954635,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394494,
+        "num": 394494,
+        "word": "一只榨菜鲜肉月饼相当于4碗饭",
+        "onboard_time": 1662956373,
+        "rank": 9,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 2949501,
+        "num": 392247,
+        "word": "海清",
+        "onboard_time": 1662961474,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2534284,
+        "num": 391822,
+        "word": "嘉行传媒",
+        "onboard_time": 1662961712,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2426321,
+        "num": 391686,
+        "word": "疑似时代峰峻工作人员机场锁喉粉丝",
+        "onboard_time": 1662958417,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383508,
+        "num": 383508,
+        "word": "90后小伙为工作9年不炫火锅",
+        "onboard_time": 1662948517,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352110,
+        "num": 352110,
+        "word": "保安毒死小区11只宠物狗获刑3年",
+        "onboard_time": 1662946835,
+        "rank": 14,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 323778,
+        "num": 323778,
+        "word": "空军直升机在震区危房单轮悬停",
+        "onboard_time": 1662954756,
+        "rank": 15,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 311450,
+        "num": 311450,
+        "word": "EDG",
+        "onboard_time": 1662960455,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 295263,
+        "num": 295263,
+        "word": "5年级男孩称对作业过敏流眼泪",
+        "onboard_time": 1662954455,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 276328,
+        "num": 276328,
+        "word": "关注俄乌局势最新进展",
+        "onboard_time": 1662963334,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 273454,
+        "num": 273454,
+        "word": "良品铺子月饼被曝吃出塑料",
+        "onboard_time": 1662962914,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1196152,
+        "num": 273256,
+        "word": "苍兰诀番外 敷衍",
+        "onboard_time": 1662962616,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 821417,
+        "num": 266280,
+        "word": "朱锐",
+        "onboard_time": 1662958055,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 687392,
+        "num": 264449,
+        "word": "苍兰诀番外吻戏新镜头",
+        "onboard_time": 1662960876,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 255757,
+        "num": 255757,
+        "word": "水果店老板",
+        "onboard_time": 1662943954,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254710,
+        "num": 254710,
+        "word": "分手后能和前任做朋友吗",
+        "onboard_time": 1662952413,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 568330,
+        "num": 249165,
+        "word": "你安全吗墨镜男",
+        "onboard_time": 1662951875,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240057,
+        "num": 240057,
+        "word": "全体同意的8万班费为何引质疑",
+        "onboard_time": 1662962676,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 220633,
+        "num": 220633,
+        "word": "中国男排失去奥运资格赛主动权",
+        "onboard_time": 1662953194,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217733,
+        "num": 217733,
+        "word": "警方连续3年在观潮时抓住逃犯",
+        "onboard_time": 1662962433,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214770,
+        "num": 214770,
+        "word": "陪猫咪躺在游泳池的小朋友",
+        "onboard_time": 1662960754,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 327699,
+        "num": 208912,
+        "word": "TizzyT新歌100",
+        "onboard_time": 1662963334,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 316951,
+        "num": 201563,
+        "word": "徐梦洁橘气晒伤妆",
+        "onboard_time": 1662961474,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 289512,
+        "num": 199317,
+        "word": "宋朝公务员每年放假113天",
+        "onboard_time": 1662952531,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193713,
+        "num": 193713,
+        "word": "再放这个风筝就不礼貌了",
+        "onboard_time": 1662957756,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187918,
+        "num": 187918,
+        "word": "战斗之夜皮肤",
+        "onboard_time": 1662955477,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 181570,
+        "num": 181570,
+        "word": "长大就瘦了是真的吗",
+        "onboard_time": 1662943354,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171665,
+        "num": 171665,
+        "word": "流浪猫紧跟路人1公里求收养",
+        "onboard_time": 1662950616,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150274,
+        "num": 150274,
+        "word": "中国科学家在月壤中发现存在高含量水",
+        "onboard_time": 1662950375,
+        "rank": 37,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 147962,
+        "num": 147962,
+        "word": "很难相信这是同一只猫",
+        "onboard_time": 1662946716,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131708,
+        "num": 131708,
+        "word": "自驾阿姨苏敏出走2年后首次回家",
+        "onboard_time": 1662944494,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240420,
+        "num": 131663,
+        "word": "网传匹诺曹翻拍版主演阵容",
+        "onboard_time": 1662955291,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252117,
+        "num": 131653,
+        "word": "王心凌官宣星星的约定",
+        "onboard_time": 1662961834,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131514,
+        "num": 131514,
+        "word": "周末应该摆烂还是自律",
+        "onboard_time": 1662947735,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121491,
+        "num": 121491,
+        "word": "若木星轨道改变地球或更宜居",
+        "onboard_time": 1662962073,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 117243,
+        "num": 117243,
+        "word": "哥哥为留探亲妹妹把烧烤摊叫回家",
+        "onboard_time": 1662942452,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101779,
+        "num": 101779,
+        "word": "官方辟谣济宁隔离人员在菏泽住羊圈",
+        "onboard_time": 1662952172,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99917,
+        "num": 99917,
+        "word": "小偷走路嗑瓜子民警顺瓜子皮抓人",
+        "onboard_time": 1662946057,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288314,
+        "num": 99122,
+        "word": "蔡徐坤说青春就是会有遗憾",
+        "onboard_time": 1662963575,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97001,
+        "num": 97001,
+        "word": "RNG与DRX同组",
+        "onboard_time": 1662943893,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 95374,
+        "num": 95374,
+        "word": "泸定地震已致93人遇难",
+        "onboard_time": 1662951274,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#打造多元共生的生态系统#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1662959481827,
+  "endTime": 1662963627136,
   "band_list": [
     {
       "raw_hot": 8475341,
@@ -19,6 +19,38 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2949501,
+      "num": 392247,
+      "word": "海清",
+      "onboard_time": 1662961474,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2553295,
+      "num": 859449,
+      "word": "江宁婆婆",
+      "onboard_time": 1662956733,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2534284,
+      "num": 391822,
+      "word": "嘉行传媒",
+      "onboard_time": 1662961712,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2461354,
+      "num": 851783,
+      "word": "偷偷藏不住剧组在学校砸学生无人机",
+      "onboard_time": 1662962135,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2335033,
       "num": 2335033,
       "word": "北京警方通报李易峰多次嫖娼",
@@ -33,14 +65,6 @@
       "onboard_time": 1662945394,
       "rank": 1,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 1961261,
-      "num": 614899,
-      "word": "江宁婆婆",
-      "onboard_time": 1662956733,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 1861395,
@@ -121,6 +145,14 @@
       "onboard_time": 1662913836,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1196152,
+      "num": 273256,
+      "word": "苍兰诀番外 敷衍",
+      "onboard_time": 1662962616,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 1093865,
@@ -211,6 +243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 762562,
+      "num": 762562,
+      "word": "选调生或成为985学生最佳选择",
+      "onboard_time": 1662961652,
+      "rank": 5,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 722183,
       "num": 722183,
       "word": "学生宿舍炖鲫鱼汤被网友举报",
@@ -233,6 +273,14 @@
       "onboard_time": 1662945994,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 687392,
+      "num": 264449,
+      "word": "苍兰诀番外吻戏新镜头",
+      "onboard_time": 1662960876,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 664216,
@@ -459,6 +507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 327699,
+      "num": 208912,
+      "word": "TizzyT新歌100",
+      "onboard_time": 1662963334,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 327632,
       "num": 327632,
       "word": "5年级男孩称对作业过敏流眼泪",
@@ -475,12 +531,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 316951,
+      "num": 201563,
+      "word": "徐梦洁橘气晒伤妆",
+      "onboard_time": 1662961474,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 313459,
       "num": 313459,
       "word": "很难相信这是同一只猫",
       "onboard_time": 1662946716,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 311450,
+      "num": 311450,
+      "word": "EDG",
+      "onboard_time": 1662960455,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 288883,
@@ -491,12 +563,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 288314,
+      "num": 99122,
+      "word": "蔡徐坤说青春就是会有遗憾",
+      "onboard_time": 1662963575,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 277566,
       "num": 186447,
       "word": "朴彩英新歌预告海报",
       "onboard_time": 1662950192,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 276328,
+      "num": 276328,
+      "word": "关注俄乌局势最新进展",
+      "onboard_time": 1662963334,
+      "rank": 18,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 273454,
+      "num": 273454,
+      "word": "良品铺子月饼被曝吃出塑料",
+      "onboard_time": 1662962914,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 272730,
@@ -547,6 +643,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 252117,
+      "num": 131653,
+      "word": "王心凌官宣星星的约定",
+      "onboard_time": 1662961834,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 249507,
       "num": 249507,
       "word": "成都疫情防控",
@@ -560,6 +664,14 @@
       "word": "小学生沉迷文具店开盲盒",
       "onboard_time": 1662923173,
       "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 240057,
+      "num": 240057,
+      "word": "全体同意的8万班费为何引质疑",
+      "onboard_time": 1662962676,
+      "rank": 26,
       "category": "社会新闻,教育"
     },
     {
@@ -603,12 +715,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217733,
+      "num": 217733,
+      "word": "警方连续3年在观潮时抓住逃犯",
+      "onboard_time": 1662962433,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215754,
       "num": 215754,
       "word": "金山",
       "onboard_time": 1662944736,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214770,
+      "num": 214770,
+      "word": "陪猫咪躺在游泳池的小朋友",
+      "onboard_time": 1662960754,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 214300,
@@ -691,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193713,
+      "num": 193713,
+      "word": "再放这个风筝就不礼貌了",
+      "onboard_time": 1662957756,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 183592,
       "num": 168122,
       "word": "这些国家为什么要迁都",
@@ -737,6 +873,14 @@
       "onboard_time": 1662939085,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121491,
+      "num": 121491,
+      "word": "若木星轨道改变地球或更宜居",
+      "onboard_time": 1662962073,
+      "rank": 43,
+      "category": "科技"
     },
     {
       "raw_hot": 120178,
@@ -865,14 +1009,6 @@
       "onboard_time": 1662900475,
       "rank": 36,
       "category": "自然,社会新闻"
-    },
-    {
-      "raw_hot": 70942,
-      "num": 70942,
-      "word": "再放这个风筝就不礼貌了",
-      "onboard_time": 1662957756,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 69368,

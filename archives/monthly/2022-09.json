@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662959481827,
+  "endTime": 1662963627136,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -467,6 +467,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 2949501,
+      "num": 392247,
+      "word": "海清",
+      "onboard_time": 1662961474,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2920253,
       "num": 2920253,
       "word": "搂腰喝水",
@@ -731,12 +739,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2553295,
+      "num": 859449,
+      "word": "江宁婆婆",
+      "onboard_time": 1662956733,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2547294,
       "num": 2547294,
       "word": "泸定地震46人遇难",
       "onboard_time": 1662392968,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2534284,
+      "num": 391822,
+      "word": "嘉行传媒",
+      "onboard_time": 1662961712,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 2519802,
@@ -785,6 +809,14 @@
       "onboard_time": 1662103346,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2461354,
+      "num": 851783,
+      "word": "偷偷藏不住剧组在学校砸学生无人机",
+      "onboard_time": 1662962135,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 2426678,
@@ -1185,14 +1217,6 @@
       "onboard_time": 1662529405,
       "rank": 0,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1961261,
-      "num": 614899,
-      "word": "江宁婆婆",
-      "onboard_time": 1662956733,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 1941222,
@@ -3081,6 +3105,14 @@
       "onboard_time": 1662854549,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1196152,
+      "num": 273256,
+      "word": "苍兰诀番外 敷衍",
+      "onboard_time": 1662962616,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 1193905,
@@ -5715,6 +5747,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 762562,
+      "num": 762562,
+      "word": "选调生或成为985学生最佳选择",
+      "onboard_time": 1662961652,
+      "rank": 5,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 762433,
       "num": 762433,
       "word": "95后女孩送父亲30万新车",
@@ -6353,6 +6393,14 @@
       "onboard_time": 1662348147,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 687392,
+      "num": 264449,
+      "word": "苍兰诀番外吻戏新镜头",
+      "onboard_time": 1662960876,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 685871,
@@ -12987,6 +13035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 327699,
+      "num": 208912,
+      "word": "TizzyT新歌100",
+      "onboard_time": 1662963334,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 327632,
       "num": 327632,
       "word": "5年级男孩称对作业过敏流眼泪",
@@ -13305,6 +13361,14 @@
       "onboard_time": 1662719487,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 316951,
+      "num": 201563,
+      "word": "徐梦洁橘气晒伤妆",
+      "onboard_time": 1662961474,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 316690,
@@ -14611,6 +14675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 288314,
+      "num": 99122,
+      "word": "蔡徐坤说青春就是会有遗憾",
+      "onboard_time": 1662963575,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 288289,
       "num": 288289,
       "word": "北京新增2例感染者详情公布",
@@ -15227,6 +15299,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 276328,
+      "num": 276328,
+      "word": "关注俄乌局势最新进展",
+      "onboard_time": 1662963334,
+      "rank": 18,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 276322,
       "num": 276322,
       "word": "林峯看吴卓羲仁科握手的眼神",
@@ -15385,6 +15465,14 @@
       "onboard_time": 1662780027,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 273454,
+      "num": 273454,
+      "word": "良品铺子月饼被曝吃出塑料",
+      "onboard_time": 1662962914,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 273385,
@@ -16491,6 +16579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 252117,
+      "num": 131653,
+      "word": "王心凌官宣星星的约定",
+      "onboard_time": 1662961834,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 251945,
       "num": 251945,
       "word": "中秋节与教师节同天本世纪仅有三次",
@@ -17025,6 +17121,14 @@
       "onboard_time": 1662281669,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 240057,
+      "num": 240057,
+      "word": "全体同意的8万班费为何引质疑",
+      "onboard_time": 1662962676,
+      "rank": 26,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 239653,
@@ -18083,6 +18187,14 @@
       "category": "自然,社会新闻"
     },
     {
+      "raw_hot": 217733,
+      "num": 217733,
+      "word": "警方连续3年在观潮时抓住逃犯",
+      "onboard_time": 1662962433,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217486,
       "num": 217486,
       "word": "更多00后选择反季节买羽绒服",
@@ -18273,6 +18385,14 @@
       "onboard_time": 1662451167,
       "rank": 39,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 214770,
+      "num": 214770,
+      "word": "陪猫咪躺在游泳池的小朋友",
+      "onboard_time": 1662960754,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 214470,
@@ -19281,6 +19401,14 @@
       "onboard_time": 1662292827,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193713,
+      "num": 193713,
+      "word": "再放这个风筝就不礼貌了",
+      "onboard_time": 1662957756,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 193440,
@@ -22643,6 +22771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 121491,
+      "num": 121491,
+      "word": "若木星轨道改变地球或更宜居",
+      "onboard_time": 1662962073,
+      "rank": 43,
+      "category": "科技"
+    },
+    {
       "raw_hot": 121129,
       "num": 121129,
       "word": "驰援重庆推迟结婚的云南消防员领证了",
@@ -23641,14 +23777,6 @@
       "onboard_time": 1662311838,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 70942,
-      "num": 70942,
-      "word": "再放这个风筝就不礼貌了",
-      "onboard_time": 1662957756,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 70875,
