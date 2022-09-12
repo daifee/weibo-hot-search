@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1662963627136,
+  "endTime": 1662964787754,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -307,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3412296,
+      "num": 571880,
+      "word": "嘉行传媒",
+      "onboard_time": 1662961712,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3407718,
       "num": 3407718,
       "word": "呼吸哥哭了",
@@ -443,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2984335,
+      "num": 561338,
+      "word": "海清",
+      "onboard_time": 1662961474,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2977405,
       "num": 2977405,
       "word": "英媒称严重程度前所未见",
@@ -465,14 +481,6 @@
       "onboard_time": 1662205949,
       "rank": 1,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 2949501,
-      "num": 392247,
-      "word": "海清",
-      "onboard_time": 1662961474,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 2920253,
@@ -740,7 +748,7 @@
     },
     {
       "raw_hot": 2553295,
-      "num": 859449,
+      "num": 2440389,
       "word": "江宁婆婆",
       "onboard_time": 1662956733,
       "rank": 12,
@@ -753,14 +761,6 @@
       "onboard_time": 1662392968,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2534284,
-      "num": 391822,
-      "word": "嘉行传媒",
-      "onboard_time": 1662961712,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 2519802,
@@ -812,7 +812,7 @@
     },
     {
       "raw_hot": 2461354,
-      "num": 851783,
+      "num": 1036066,
       "word": "偷偷藏不住剧组在学校砸学生无人机",
       "onboard_time": 1662962135,
       "rank": 4,
@@ -2603,6 +2603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1347715,
+      "num": 273256,
+      "word": "苍兰诀番外 敷衍",
+      "onboard_time": 1662962616,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1347179,
       "num": 1347179,
       "word": "王俊凯 塞拉斯",
@@ -2633,6 +2641,14 @@
       "onboard_time": 1662165145,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1340770,
+      "num": 1340770,
+      "word": "选调生或成为985学生最佳选择",
+      "onboard_time": 1662961652,
+      "rank": 5,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1338443,
@@ -3105,14 +3121,6 @@
       "onboard_time": 1662854549,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1196152,
-      "num": 273256,
-      "word": "苍兰诀番外 敷衍",
-      "onboard_time": 1662962616,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 1193905,
@@ -4377,6 +4385,14 @@
       "onboard_time": 1662163824,
       "rank": 4,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 946872,
+      "num": 946872,
+      "word": "全体同意的8万班费为何引质疑",
+      "onboard_time": 1662962676,
+      "rank": 26,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 946721,
@@ -5745,14 +5761,6 @@
       "onboard_time": 1662648701,
       "rank": 13,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 762562,
-      "num": 762562,
-      "word": "选调生或成为985学生最佳选择",
-      "onboard_time": 1662961652,
-      "rank": 5,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 762433,
@@ -7937,6 +7945,14 @@
       "onboard_time": 1662795809,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 542427,
+      "num": 542427,
+      "word": "良品铺子月饼被曝吃出塑料",
+      "onboard_time": 1662962914,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 542320,
@@ -11371,6 +11387,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 377479,
+      "num": 85515,
+      "word": "徐冬冬说糊咖也是咖",
+      "onboard_time": 1662964776,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 377341,
       "num": 377341,
       "word": "T1官宣Bengi暂代主教练",
@@ -12235,6 +12259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 351726,
+      "num": 170801,
+      "word": "王心凌官宣星星的约定",
+      "onboard_time": 1662961834,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 351655,
       "num": 351655,
       "word": "北京丰台新增1例感染者轨迹",
@@ -12353,6 +12385,14 @@
       "onboard_time": 1662463531,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 347299,
+      "num": 347299,
+      "word": "关注俄乌局势最新进展",
+      "onboard_time": 1662963334,
+      "rank": 18,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 347017,
@@ -14676,7 +14716,7 @@
     },
     {
       "raw_hot": 288314,
-      "num": 99122,
+      "num": 170387,
       "word": "蔡徐坤说青春就是会有遗憾",
       "onboard_time": 1662963575,
       "rank": 47,
@@ -15299,14 +15339,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 276328,
-      "num": 276328,
-      "word": "关注俄乌局势最新进展",
-      "onboard_time": 1662963334,
-      "rank": 18,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 276322,
       "num": 276322,
       "word": "林峯看吴卓羲仁科握手的眼神",
@@ -15465,14 +15497,6 @@
       "onboard_time": 1662780027,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 273454,
-      "num": 273454,
-      "word": "良品铺子月饼被曝吃出塑料",
-      "onboard_time": 1662962914,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 273385,
@@ -16363,6 +16387,14 @@
       "category": "影视,音乐"
     },
     {
+      "raw_hot": 256411,
+      "num": 256411,
+      "word": "警方连续3年在观潮时抓住逃犯",
+      "onboard_time": 1662962433,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256376,
       "num": 2081959,
       "word": "中秋遇上教师节",
@@ -16577,14 +16609,6 @@
       "onboard_time": 1662744857,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 252117,
-      "num": 131653,
-      "word": "王心凌官宣星星的约定",
-      "onboard_time": 1662961834,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 251945,
@@ -17121,14 +17145,6 @@
       "onboard_time": 1662281669,
       "rank": 28,
       "category": "教育"
-    },
-    {
-      "raw_hot": 240057,
-      "num": 240057,
-      "word": "全体同意的8万班费为何引质疑",
-      "onboard_time": 1662962676,
-      "rank": 26,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 239653,
@@ -18179,20 +18195,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 218521,
+      "num": 218521,
+      "word": "陪猫咪躺在游泳池的小朋友",
+      "onboard_time": 1662960754,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 218021,
       "num": 218021,
       "word": "木星合月美景整夜可见",
       "onboard_time": 1662901553,
       "rank": 28,
       "category": "自然,社会新闻"
-    },
-    {
-      "raw_hot": 217733,
-      "num": 217733,
-      "word": "警方连续3年在观潮时抓住逃犯",
-      "onboard_time": 1662962433,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 217486,
@@ -18385,14 +18401,6 @@
       "onboard_time": 1662451167,
       "rank": 39,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 214770,
-      "num": 214770,
-      "word": "陪猫咪躺在游泳池的小朋友",
-      "onboard_time": 1662960754,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 214470,
@@ -20419,6 +20427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 171318,
+      "num": 171318,
+      "word": "清清KPL登场三周年",
+      "onboard_time": 1662963756,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 171145,
       "num": 171145,
       "word": "扬名立万",
@@ -20465,6 +20481,14 @@
       "onboard_time": 1662779367,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170238,
+      "num": 170238,
+      "word": "男童被卡跑步机含泪接唱孤勇者",
+      "onboard_time": 1662963637,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170003,
@@ -21257,6 +21281,14 @@
       "onboard_time": 1662511951,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155835,
+      "num": 155835,
+      "word": "若木星轨道改变地球或更宜居",
+      "onboard_time": 1662962073,
+      "rank": 43,
+      "category": "科技"
     },
     {
       "raw_hot": 155829,
@@ -22769,14 +22801,6 @@
       "onboard_time": 1662854608,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 121491,
-      "num": 121491,
-      "word": "若木星轨道改变地球或更宜居",
-      "onboard_time": 1662962073,
-      "rank": 43,
-      "category": "科技"
     },
     {
       "raw_hot": 121129,
