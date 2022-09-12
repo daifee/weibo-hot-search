@@ -1,6 +1,6 @@
 {
   "startTime": 1663000581861,
-  "endTime": 1663021449361,
+  "endTime": 1663022496910,
   "band_list": [
     {
       "raw_hot": 9785867,
@@ -43,6 +43,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1117461,
+      "num": 1117461,
+      "word": "石家庄疫情防控",
+      "onboard_time": 1662998679,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 887941,
       "num": 198064,
       "word": "媒体评李易峰最后一次露面",
@@ -57,14 +65,6 @@
       "onboard_time": 1662997481,
       "rank": 10,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 729010,
-      "num": 729010,
-      "word": "石家庄疫情防控",
-      "onboard_time": 1662998679,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 671302,
@@ -275,6 +275,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159063,
+      "num": 159063,
+      "word": "吸毒者逃窜撞上警车被抓",
+      "onboard_time": 1663017072,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157832,
+      "num": 157832,
+      "word": "日本机场引入地沟油燃料",
+      "onboard_time": 1663015572,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145419,
       "num": 90322,
       "word": "消失的孩子",
@@ -283,20 +299,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 144106,
-      "num": 118252,
-      "word": "日本机场引入地沟油燃料",
-      "onboard_time": 1663015572,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 141997,
       "num": 141997,
       "word": "谢谢有被健康到",
       "onboard_time": 1662994183,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 136916,
+      "num": 136916,
+      "word": "19岁男生送外卖攒够一年学费",
+      "onboard_time": 1663012091,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136350,
@@ -331,14 +347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 108201,
-      "num": 108201,
-      "word": "吸毒者逃窜撞上警车被抓",
-      "onboard_time": 1663017072,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 108021,
       "num": 108021,
       "word": "第一次在猫脸上看到了尴尬",
@@ -364,18 +372,10 @@
     },
     {
       "raw_hot": 98520,
-      "num": 83532,
+      "num": 95421,
       "word": "奶奶落井爷爷托举一小时后被救",
       "onboard_time": 1663003459,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 91815,
-      "num": 91815,
-      "word": "19岁男生送外卖攒够一年学费",
-      "onboard_time": 1663012091,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -419,6 +419,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 69257,
+      "num": 69257,
+      "word": "普京称去美元化进程不可避免",
+      "onboard_time": 1663011673,
+      "rank": 22,
+      "category": "国外要闻,财经"
+    },
+    {
+      "raw_hot": 67599,
+      "num": 67599,
+      "word": "做到这几点或可避免出生缺陷",
+      "onboard_time": 1663017612,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57786,
       "num": 57786,
       "word": "大爷修鞋被熏到拿纸塞鼻孔",
@@ -427,12 +443,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 57206,
-      "num": 57206,
-      "word": "普京称去美元化进程不可避免",
-      "onboard_time": 1663011673,
-      "rank": 22,
-      "category": "国外要闻,财经"
+      "raw_hot": 51908,
+      "num": 51908,
+      "word": "100克普通月饼含400大卡能量",
+      "onboard_time": 1663020855,
+      "rank": 47,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 49343,
@@ -444,19 +460,11 @@
     },
     {
       "raw_hot": 44962,
-      "num": 35553,
+      "num": 43277,
       "word": "中国视协评李易峰事件",
       "onboard_time": 1662981639,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 38341,
-      "num": 38341,
-      "word": "做到这几点或可避免出生缺陷",
-      "onboard_time": 1663017612,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28017,
@@ -467,16 +475,8 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 14488,
-      "num": 14488,
-      "word": "100克普通月饼含400大卡能量",
-      "onboard_time": 1663020855,
-      "rank": 47,
-      "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 13209,
-      "num": 13209,
+      "raw_hot": 13813,
+      "num": 13813,
       "word": "2022男排世锦赛",
       "onboard_time": 1663018933,
       "rank": 49,
