@@ -1,0 +1,410 @@
+{
+  "runTime": 1662974806345,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2702395,
+        "num": 2702395,
+        "word": "36岁歌手傅松因口腔癌去世",
+        "onboard_time": 1662972694,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2037111,
+        "num": 2037111,
+        "word": "姐姐拒绝给弟弟买房被父母告上法庭",
+        "onboard_time": 1662972579,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76456,
+        "num": 2020279,
+        "word": "中国乡村风景可以洗眼睛",
+        "onboard_time": 1662942872,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2017260,
+        "num": 2017260,
+        "word": "偷偷藏不住剧组在学校砸学生无人机",
+        "onboard_time": 1662962135,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1234307,
+        "num": 1234307,
+        "word": "如何看待李易峰此前发声明",
+        "onboard_time": 1662940710,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 834364,
+        "num": 834364,
+        "word": "全体同意的8万班费为何引质疑",
+        "onboard_time": 1662962676,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 757550,
+        "num": 757550,
+        "word": "3男孩跪楼道里饮料代酒桃园结义",
+        "onboard_time": 1662966574,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 675416,
+        "num": 675416,
+        "word": "上班像被吸了阳气一样",
+        "onboard_time": 1662969813,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 498126,
+        "num": 498126,
+        "word": "幼儿园午睡后男孩帮女孩穿鞋",
+        "onboard_time": 1662971736,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479889,
+        "num": 479889,
+        "word": "蒙古国草原火蔓延至我国边境呼伦贝尔",
+        "onboard_time": 1662965735,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2878683,
+        "num": 479456,
+        "word": "郝蕾",
+        "onboard_time": 1662972998,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1536073,
+        "num": 478951,
+        "word": "海清你才是神",
+        "onboard_time": 1662968853,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1398716,
+        "num": 478374,
+        "word": "嘉行传媒",
+        "onboard_time": 1662961712,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477319,
+        "num": 477319,
+        "word": "吃饱后肚子大有救了",
+        "onboard_time": 1662969394,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 388085,
+        "num": 388085,
+        "word": "选调生或成为985学生最佳选择",
+        "onboard_time": 1662961652,
+        "rank": 14,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 360753,
+        "num": 360753,
+        "word": "猫咪趁主人睡着开闸放水",
+        "onboard_time": 1662965436,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341659,
+        "num": 341659,
+        "word": "良品铺子月饼被曝吃出塑料",
+        "onboard_time": 1662962914,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324786,
+        "num": 324786,
+        "word": "鸟妈喂食比自己坨还大的寄生宝宝",
+        "onboard_time": 1662966693,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294874,
+        "num": 294874,
+        "word": "北京通州划定高中风险区",
+        "onboard_time": 1662972336,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270274,
+        "num": 270274,
+        "word": "RNG晋级TI11",
+        "onboard_time": 1662974380,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 783766,
+        "num": 267206,
+        "word": "苍兰诀番外 敷衍",
+        "onboard_time": 1662962616,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 626774,
+        "num": 264273,
+        "word": "刘浩存林一脱轨开机路透",
+        "onboard_time": 1662967175,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 454753,
+        "num": 263138,
+        "word": "王嘉尔印度滚石9月刊封面",
+        "onboard_time": 1662950314,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 259560,
+        "num": 259560,
+        "word": "iPhone14ProMax电池容量不增反降",
+        "onboard_time": 1662951095,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 251274,
+        "num": 251274,
+        "word": "男孩刮花车辆车主索赔遭家长辱骂",
+        "onboard_time": 1662966996,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245256,
+        "num": 245256,
+        "word": "台风梅花节后或直穿上海",
+        "onboard_time": 1662970653,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244419,
+        "num": 244419,
+        "word": "职工返岗前48小时内应测核酸",
+        "onboard_time": 1662973177,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237517,
+        "num": 237517,
+        "word": "男子心脏骤停武警医师10分钟救回",
+        "onboard_time": 1662970591,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226837,
+        "num": 226837,
+        "word": "关注俄乌局势最新进展",
+        "onboard_time": 1662963334,
+        "rank": 28,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 193609,
+        "num": 193609,
+        "word": "101岁退休老师过教师节捐款1万元",
+        "onboard_time": 1662967654,
+        "rank": 29,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 444047,
+        "num": 192498,
+        "word": "你安全吗假名媛培训班",
+        "onboard_time": 1662969935,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 428485,
+        "num": 190859,
+        "word": "江宁婆婆",
+        "onboard_time": 1662956733,
+        "rank": 31,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 411011,
+        "num": 189912,
+        "word": "脱口秀大会5官宣张杰",
+        "onboard_time": 1662966574,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 379024,
+        "num": 187996,
+        "word": "疑似时代峰峻工作人员机场锁喉粉丝",
+        "onboard_time": 1662958417,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186859,
+        "num": 186859,
+        "word": "第一次在猫脸上看到了尴尬",
+        "onboard_time": 1662973958,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184296,
+        "num": 184296,
+        "word": "它好像知道自己腿短",
+        "onboard_time": 1662971976,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172337,
+        "num": 172337,
+        "word": "男童被卡跑步机含泪接唱孤勇者",
+        "onboard_time": 1662963637,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138663,
+        "num": 138663,
+        "word": "没卖出去的月饼都去哪了",
+        "onboard_time": 1662945394,
+        "rank": 37,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 126714,
+        "num": 126714,
+        "word": "北京疫情发布会",
+        "onboard_time": 1662971615,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120459,
+        "num": 120459,
+        "word": "市长热线回应高速服务区餐厅有老鼠",
+        "onboard_time": 1662965854,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317035,
+        "num": 119372,
+        "word": "樱桃琥珀网传暂定王俊凯鞠婧祎",
+        "onboard_time": 1662969451,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223076,
+        "num": 117729,
+        "word": "徐冬冬说糊咖也是咖",
+        "onboard_time": 1662964776,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177770,
+        "num": 117060,
+        "word": "朱锐",
+        "onboard_time": 1662958055,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115952,
+        "num": 115952,
+        "word": "若木星轨道改变地球或更宜居",
+        "onboard_time": 1662962073,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 109812,
+        "num": 109812,
+        "word": "男生将头伸进床头护栏被一秒封印",
+        "onboard_time": 1662965315,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99550,
+        "num": 99550,
+        "word": "重庆一男子踹狗致老人摔倒",
+        "onboard_time": 1662974737,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99394,
+        "num": 99394,
+        "word": "家委会有必要存在吗",
+        "onboard_time": 1662971013,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94840,
+        "num": 94840,
+        "word": "两个动作锻炼腰部力量",
+        "onboard_time": 1662972458,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88730,
+        "num": 88730,
+        "word": "预防出生缺陷有多重要",
+        "onboard_time": 1662974498,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88235,
+        "num": 88235,
+        "word": "老人赶集鸭子被热死路人出手买下",
+        "onboard_time": 1662954635,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#看见锦绣山河#"
+    }
+  }
+}
