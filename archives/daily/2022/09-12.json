@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1662958679581,
+  "endTime": 1662959481827,
   "band_list": [
     {
       "raw_hot": 8475341,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 4073431,
-      "num": 580422,
+      "raw_hot": 4328901,
+      "num": 623691,
       "word": "疑似时代峰峻工作人员机场锁喉粉丝",
       "onboard_time": 1662958417,
       "rank": 11,
@@ -35,20 +35,20 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 1961261,
+      "num": 614899,
+      "word": "江宁婆婆",
+      "onboard_time": 1662956733,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1861395,
       "num": 1861395,
       "word": "保安毒死小区11只宠物狗获刑3年",
       "onboard_time": 1662946835,
       "rank": 3,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 1611861,
-      "num": 578159,
-      "word": "江宁婆婆",
-      "onboard_time": 1662956733,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 1597643,
@@ -68,11 +68,27 @@
     },
     {
       "raw_hot": 1476547,
-      "num": 576346,
+      "num": 595131,
       "word": "你安全吗墨镜男",
       "onboard_time": 1662951875,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1438869,
+      "num": 1438869,
+      "word": "朱锐",
+      "onboard_time": 1662958055,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1407173,
+      "num": 1407173,
+      "word": "宝妈因孩子集体照露脸少起诉影楼",
+      "onboard_time": 1662952053,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1370879,
@@ -81,22 +97,6 @@
       "onboard_time": 1662909828,
       "rank": 1,
       "category": "情感,社会议题"
-    },
-    {
-      "raw_hot": 1351197,
-      "num": 1351197,
-      "word": "宝妈因孩子集体照露脸少起诉影楼",
-      "onboard_time": 1662952053,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1321919,
-      "num": 581210,
-      "word": "朱锐",
-      "onboard_time": 1662958055,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1282784,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 959052,
+      "num": 959052,
+      "word": "老人赶集鸭子被热死路人出手买下",
+      "onboard_time": 1662954635,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 926482,
       "num": 313230,
       "word": "杨幂出道20周年",
@@ -176,14 +184,6 @@
       "word": "长大就瘦了是真的吗",
       "onboard_time": 1662943354,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 798956,
-      "num": 798956,
-      "word": "老人赶集鸭子被热死路人出手买下",
-      "onboard_time": 1662954635,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -235,8 +235,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 664216,
+      "num": 664216,
+      "word": "空军直升机在震区危房单轮悬停",
+      "onboard_time": 1662954756,
+      "rank": 14,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 660564,
-      "num": 310132,
+      "num": 317582,
       "word": "网传匹诺曹翻拍版主演阵容",
       "onboard_time": 1662955291,
       "rank": 21,
@@ -273,14 +281,6 @@
       "onboard_time": 1662893262,
       "rank": 19,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 575229,
-      "num": 575229,
-      "word": "空军直升机在震区危房单轮悬停",
-      "onboard_time": 1662954756,
-      "rank": 14,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 536775,
@@ -339,7 +339,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 474937,
+      "raw_hot": 474983,
       "num": 202112,
       "word": "阿娇对阿Sa说该出发了",
       "onboard_time": 1662953855,
@@ -377,6 +377,14 @@
       "onboard_time": 1662913057,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 450110,
+      "num": 450110,
+      "word": "一只榨菜鲜肉月饼相当于4碗饭",
+      "onboard_time": 1662956373,
+      "rank": 19,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 422619,
@@ -443,20 +451,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 331610,
+      "num": 331610,
+      "word": "战斗之夜皮肤",
+      "onboard_time": 1662955477,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 327632,
+      "num": 327632,
+      "word": "5年级男孩称对作业过敏流眼泪",
+      "onboard_time": 1662954455,
+      "rank": 23,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 318277,
       "num": 318277,
       "word": "UR被曝抄袭",
       "onboard_time": 1662898980,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 314758,
-      "num": 314758,
-      "word": "一只榨菜鲜肉月饼相当于4碗饭",
-      "onboard_time": 1662956373,
-      "rank": 19,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 313459,
@@ -475,14 +491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 278114,
-      "num": 278114,
-      "word": "5年级男孩称对作业过敏流眼泪",
-      "onboard_time": 1662954455,
-      "rank": 23,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 277566,
       "num": 186447,
       "word": "朴彩英新歌预告海报",
@@ -497,14 +505,6 @@
       "onboard_time": 1662946057,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 271812,
-      "num": 271812,
-      "word": "战斗之夜皮肤",
-      "onboard_time": 1662955477,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 269437,
@@ -539,8 +539,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 256051,
-      "num": 1408671,
+      "raw_hot": 258225,
+      "num": 1447442,
       "word": "中国乡村风景可以洗眼睛",
       "onboard_time": 1662942872,
       "rank": 2,
@@ -651,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201532,
+      "num": 120671,
+      "word": "苍兰诀",
+      "onboard_time": 1662944074,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 199103,
       "num": 169401,
       "word": "UFC总裁认为李景亮赢了",
@@ -753,14 +761,6 @@
       "onboard_time": 1662930072,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 112902,
-      "num": 112902,
-      "word": "苍兰诀",
-      "onboard_time": 1662944074,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 110381,
@@ -867,6 +867,14 @@
       "category": "自然,社会新闻"
     },
     {
+      "raw_hot": 70942,
+      "num": 70942,
+      "word": "再放这个风筝就不礼貌了",
+      "onboard_time": 1662957756,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 69368,
       "num": 69368,
       "word": "美网2022",
@@ -881,14 +889,6 @@
       "onboard_time": 1662887970,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66679,
-      "num": 66679,
-      "word": "再放这个风筝就不礼貌了",
-      "onboard_time": 1662957756,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 64663,
@@ -1028,6 +1028,9 @@
     },
     {
       "word": "#看见锦绣山河#"
+    },
+    {
+      "word": "#打造多元共生的生态系统#"
     }
   ]
 }

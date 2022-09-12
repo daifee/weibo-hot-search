@@ -1,0 +1,410 @@
+{
+  "runTime": 1662959481827,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3874156,
+        "num": 3874156,
+        "word": "如何看待李易峰此前发声明",
+        "onboard_time": 1662940710,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1462085,
+        "num": 1462085,
+        "word": "没卖出去的月饼都去哪了",
+        "onboard_time": 1662945394,
+        "rank": 1,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 258225,
+        "num": 1447442,
+        "word": "中国乡村风景可以洗眼睛",
+        "onboard_time": 1662942872,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1438869,
+        "num": 1438869,
+        "word": "朱锐",
+        "onboard_time": 1662958055,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1407173,
+        "num": 1407173,
+        "word": "宝妈因孩子集体照露脸少起诉影楼",
+        "onboard_time": 1662952053,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1136186,
+        "num": 1136186,
+        "word": "iPhone14ProMax电池容量不增反降",
+        "onboard_time": 1662951095,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1104413,
+        "num": 1104413,
+        "word": "苍兰诀 番外",
+        "onboard_time": 1662942332,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 959052,
+        "num": 959052,
+        "word": "老人赶集鸭子被热死路人出手买下",
+        "onboard_time": 1662954635,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 664216,
+        "num": 664216,
+        "word": "空军直升机在震区危房单轮悬停",
+        "onboard_time": 1662954756,
+        "rank": 8,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 642851,
+        "num": 642851,
+        "word": "保安毒死小区11只宠物狗获刑3年",
+        "onboard_time": 1662946835,
+        "rank": 9,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 4328901,
+        "num": 623691,
+        "word": "疑似时代峰峻工作人员机场锁喉粉丝",
+        "onboard_time": 1662958417,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1961261,
+        "num": 614899,
+        "word": "江宁婆婆",
+        "onboard_time": 1662956733,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1287695,
+        "num": 595131,
+        "word": "你安全吗墨镜男",
+        "onboard_time": 1662951875,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 532337,
+        "num": 532337,
+        "word": "90后小伙为工作9年不炫火锅",
+        "onboard_time": 1662948517,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450110,
+        "num": 450110,
+        "word": "一只榨菜鲜肉月饼相当于4碗饭",
+        "onboard_time": 1662956373,
+        "rank": 14,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 374334,
+        "num": 374334,
+        "word": "分手后能和前任做朋友吗",
+        "onboard_time": 1662952413,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 339908,
+        "num": 339908,
+        "word": "中国男排失去奥运资格赛主动权",
+        "onboard_time": 1662953194,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 331610,
+        "num": 331610,
+        "word": "战斗之夜皮肤",
+        "onboard_time": 1662955477,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 327632,
+        "num": 327632,
+        "word": "5年级男孩称对作业过敏流眼泪",
+        "onboard_time": 1662954455,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 320769,
+        "num": 320769,
+        "word": "长大就瘦了是真的吗",
+        "onboard_time": 1662943354,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1145465,
+        "num": 320472,
+        "word": "李易峰多次嫖娼被行政拘留",
+        "onboard_time": 1662890660,
+        "rank": 20,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 899098,
+        "num": 318422,
+        "word": "宋朝公务员每年放假113天",
+        "onboard_time": 1662952531,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 564958,
+        "num": 317582,
+        "word": "网传匹诺曹翻拍版主演阵容",
+        "onboard_time": 1662955291,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 313442,
+        "num": 313442,
+        "word": "水果店老板",
+        "onboard_time": 1662943954,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268699,
+        "num": 268699,
+        "word": "流浪猫紧跟路人1公里求收养",
+        "onboard_time": 1662950616,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242936,
+        "num": 242936,
+        "word": "RNG与DRX同组",
+        "onboard_time": 1662943893,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 226187,
+        "num": 226187,
+        "word": "哥哥为留探亲妹妹把烧烤摊叫回家",
+        "onboard_time": 1662942452,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219054,
+        "num": 219054,
+        "word": "中国科学家在月壤中发现存在高含量水",
+        "onboard_time": 1662950375,
+        "rank": 27,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 195157,
+        "num": 195157,
+        "word": "A组B组死亡之组",
+        "onboard_time": 1662943052,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 194395,
+        "num": 194395,
+        "word": "很难相信这是同一只猫",
+        "onboard_time": 1662946716,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 474983,
+        "num": 194218,
+        "word": "阿娇对阿Sa说该出发了",
+        "onboard_time": 1662953855,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254909,
+        "num": 193571,
+        "word": "王嘉尔印度滚石9月刊封面",
+        "onboard_time": 1662950314,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 224339,
+        "num": 192153,
+        "word": "王心凌吴克群西双版纳路透",
+        "onboard_time": 1662956435,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 218848,
+        "num": 191392,
+        "word": "余景天纽约看秀造型",
+        "onboard_time": 1662951813,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 191373,
+        "num": 191373,
+        "word": "自驾阿姨苏敏出走2年后首次回家",
+        "onboard_time": 1662944494,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175614,
+        "num": 175614,
+        "word": "官方辟谣济宁隔离人员在菏泽住羊圈",
+        "onboard_time": 1662952172,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162936,
+        "num": 162936,
+        "word": "周末应该摆烂还是自律",
+        "onboard_time": 1662947735,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153994,
+        "num": 153994,
+        "word": "泸定地震已致93人遇难",
+        "onboard_time": 1662951274,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147976,
+        "num": 147976,
+        "word": "小偷走路嗑瓜子民警顺瓜子皮抓人",
+        "onboard_time": 1662946057,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124043,
+        "num": 124043,
+        "word": "9月11日新增785例本土无症状",
+        "onboard_time": 1662948517,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208474,
+        "num": 121243,
+        "word": "蔡徐坤姨父笑",
+        "onboard_time": 1662945994,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201532,
+        "num": 120671,
+        "word": "苍兰诀",
+        "onboard_time": 1662944074,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116936,
+        "num": 116936,
+        "word": "你也有美丽羞耻症吗",
+        "onboard_time": 1662909828,
+        "rank": 42,
+        "category": "情感,社会议题"
+      },
+      {
+        "raw_hot": 109645,
+        "num": 109645,
+        "word": "成都发布",
+        "onboard_time": 1662941971,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106866,
+        "num": 106866,
+        "word": "复试保过班最贵要花近10万",
+        "onboard_time": 1662944433,
+        "rank": 44,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 90431,
+        "num": 90431,
+        "word": "2022全球总决赛",
+        "onboard_time": 1662942993,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 70942,
+        "num": 70942,
+        "word": "再放这个风筝就不礼貌了",
+        "onboard_time": 1662957756,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 69133,
+        "num": 69133,
+        "word": "航天员吃到了在太空种的生菜",
+        "onboard_time": 1662945033,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 67584,
+        "num": 67584,
+        "word": "意大利男篮淘汰塞尔维亚男篮",
+        "onboard_time": 1662947856,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64961,
+        "num": 64961,
+        "word": "S12抽签仪式",
+        "onboard_time": 1662940710,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#打造多元共生的生态系统#"
+    }
+  }
+}
