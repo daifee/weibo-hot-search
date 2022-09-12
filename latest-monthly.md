@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/12 18:27:11
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/12 18:44:26
 </p>
 </blockquote>
 <p>
@@ -1203,6 +1203,12 @@ Angelababy晒与狗狗合照（热度：1779691）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E7%B1%8D%E7%94%B7%E5%AD%90%E7%96%91%E5%BD%93%E8%A1%97%E9%AA%9A%E6%89%B0%E5%A6%87%E5%A5%B3%E8%A2%AB%E6%89%87%E8%80%B3%E5%85%89%23" target="weibo">
+外籍男子疑当街骚扰妇女被扇耳光（热度：1752692）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%8F%E9%B8%A3%E6%98%9F%20%E5%B8%83%E4%B8%81%E7%8B%97%23" target="weibo">
 夏鸣星 布丁狗（热度：1746526）
 </a>
@@ -1571,12 +1577,6 @@ iPhone14颜色（热度：1547377）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5iPhone%E8%87%AA%E5%B8%A6%E9%98%B2%E5%81%B7%E7%AA%A5%E5%8A%9F%E8%83%BD%23" target="weibo">
 原来iPhone自带防偷窥功能（热度：1542523）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E7%B1%8D%E7%94%B7%E5%AD%90%E7%96%91%E5%BD%93%E8%A1%97%E9%AA%9A%E6%89%B0%E5%A6%87%E5%A5%B3%E8%A2%AB%E6%89%87%E8%80%B3%E5%85%89%23" target="weibo">
-外籍男子疑当街骚扰妇女被扇耳光（热度：1542022）
 </a>
 </li>
 
@@ -2415,6 +2415,12 @@ LWX直播（热度：1190598）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%A2%AB%E5%BC%9F%E5%BC%9F%E6%89%93%E7%88%B8%E7%88%B8%E8%AE%A9%E5%85%B6%E6%89%93%E5%9B%9E%E5%8E%BB%23" target="weibo">
+女孩被弟弟打爸爸让其打回去（热度：1185726）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%B0%86%E6%8D%90%E6%AC%BE%E6%94%AF%E6%8C%81%E5%9B%9B%E5%B7%9D%E6%95%91%E6%8F%B4%E5%92%8C%E9%87%8D%E5%BB%BA%23" target="weibo">
 苹果将捐款支持四川救援和重建（热度：1185369）
 </a>
@@ -3245,12 +3251,6 @@ BLACKPINK新歌未通过KBS审议（热度：999636）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%9C%89%E4%B8%80%E9%83%A8%E4%BC%98%E8%B4%A8%E4%B8%9C%E6%96%B9%E7%8E%84%E5%B9%BB%E4%BA%86%23" target="weibo">
 终于有一部优质东方玄幻了（热度：968391）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%A2%AB%E5%BC%9F%E5%BC%9F%E6%89%93%E7%88%B8%E7%88%B8%E8%AE%A9%E5%85%B6%E6%89%93%E5%9B%9E%E5%8E%BB%23" target="weibo">
-女孩被弟弟打爸爸让其打回去（热度：967695）
 </a>
 </li>
 
@@ -4241,6 +4241,12 @@ Ale（热度：793817）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E7%BD%91%E8%AF%BE%E4%BC%91%E6%81%AF%E7%8B%82%E7%82%AB%E9%B8%A1%E8%85%BF%E6%88%90%E5%90%83%E6%92%AD%E7%8E%B0%E5%9C%BA%23" target="weibo">
 女生网课休息狂炫鸡腿成吃播现场（热度：792822）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%80%E7%94%B7%E5%AD%90%E8%B8%B9%E7%8B%97%E8%87%B4%E8%80%81%E4%BA%BA%E6%91%94%E5%80%92%23" target="weibo">
+重庆一男子踹狗致老人摔倒（热度：791313）
 </a>
 </li>
 
@@ -5345,12 +5351,6 @@ twice登顶美国billboard艺人榜（热度：627758）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%A5%E5%B0%94%E6%96%AF%E7%8E%8B%E5%AD%90%E5%B7%B2%E5%88%B0%E5%A5%B3%E7%8E%8B%E8%BA%AB%E8%BE%B9%23" target="weibo">
 查尔斯王子已到女王身边（热度：625844）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%80%E7%94%B7%E5%AD%90%E8%B8%B9%E7%8B%97%E8%87%B4%E8%80%81%E4%BA%BA%E6%91%94%E5%80%92%23" target="weibo">
-重庆一男子踹狗致老人摔倒（热度：622675）
 </a>
 </li>
 
