@@ -1,0 +1,410 @@
+{
+  "runTime": 1662953042274,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7063056,
+        "num": 7063056,
+        "word": "如何看待李易峰此前发声明",
+        "onboard_time": 1662940710,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1785505,
+        "num": 1785505,
+        "word": "没卖出去的月饼都去哪了",
+        "onboard_time": 1662945394,
+        "rank": 1,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 7861,
+        "num": 1655683,
+        "word": "绿水青山是我家",
+        "onboard_time": 1662873633,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1818960,
+        "num": 1637791,
+        "word": "保安毒死小区11只宠物狗获刑3年",
+        "onboard_time": 1662946835,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1588541,
+        "num": 1588541,
+        "word": "iPhone14ProMax电池容量不增反降",
+        "onboard_time": 1662951095,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1093865,
+        "num": 1093865,
+        "word": "90后小伙为工作9年不炫火锅",
+        "onboard_time": 1662948517,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 948464,
+        "num": 948464,
+        "word": "苍兰诀 番外",
+        "onboard_time": 1662942332,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 650228,
+        "num": 650228,
+        "word": "宋朝公务员每年放假113天",
+        "onboard_time": 1662952531,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 546975,
+        "num": 546975,
+        "word": "长大就瘦了是真的吗",
+        "onboard_time": 1662943354,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536775,
+        "num": 536775,
+        "word": "中国科学家在月壤中发现存在高含量水",
+        "onboard_time": 1662950375,
+        "rank": 9,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 1476076,
+        "num": 536282,
+        "word": "你安全吗墨镜男",
+        "onboard_time": 1662951875,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 858576,
+        "num": 531323,
+        "word": "李易峰多次嫖娼被行政拘留",
+        "onboard_time": 1662890660,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 769269,
+        "num": 526744,
+        "word": "王嘉尔印度滚石9月刊封面",
+        "onboard_time": 1662950314,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 516906,
+        "num": 516906,
+        "word": "哥哥为留探亲妹妹把烧烤摊叫回家",
+        "onboard_time": 1662942452,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513924,
+        "num": 513924,
+        "word": "水果店老板",
+        "onboard_time": 1662943954,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511683,
+        "num": 511683,
+        "word": "泸定地震已致93人遇难",
+        "onboard_time": 1662951274,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375368,
+        "num": 375368,
+        "word": "周末应该摆烂还是自律",
+        "onboard_time": 1662947735,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 372427,
+        "num": 372427,
+        "word": "RNG与DRX同组",
+        "onboard_time": 1662943893,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 335451,
+        "num": 335451,
+        "word": "自驾阿姨苏敏出走2年后首次回家",
+        "onboard_time": 1662944494,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287029,
+        "num": 287029,
+        "word": "流浪猫紧跟路人1公里求收养",
+        "onboard_time": 1662950616,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 622896,
+        "num": 286840,
+        "word": "杨幂出道20周年",
+        "onboard_time": 1662943354,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 589204,
+        "num": 283889,
+        "word": "余景天纽约看秀造型",
+        "onboard_time": 1662951813,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 495644,
+        "num": 281840,
+        "word": "星星的约定定档0916",
+        "onboard_time": 1662951875,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275848,
+        "num": 275848,
+        "word": "A组B组死亡之组",
+        "onboard_time": 1662943052,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 272730,
+        "num": 272730,
+        "word": "小偷走路嗑瓜子民警顺瓜子皮抓人",
+        "onboard_time": 1662946057,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272492,
+        "num": 272492,
+        "word": "很难相信这是同一只猫",
+        "onboard_time": 1662946716,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 244519,
+        "num": 244519,
+        "word": "宝妈因孩子集体照露脸少起诉影楼",
+        "onboard_time": 1662952053,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229457,
+        "num": 229457,
+        "word": "9月11日新增785例本土无症状",
+        "onboard_time": 1662948517,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212625,
+        "num": 212625,
+        "word": "你也有美丽羞耻症吗",
+        "onboard_time": 1662909828,
+        "rank": 28,
+        "category": "情感,社会议题"
+      },
+      {
+        "raw_hot": 187907,
+        "num": 187907,
+        "word": "意大利男篮淘汰塞尔维亚男篮",
+        "onboard_time": 1662947856,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 372275,
+        "num": 187158,
+        "word": "蔡徐坤姨父笑",
+        "onboard_time": 1662945994,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277566,
+        "num": 186447,
+        "word": "朴彩英新歌预告海报",
+        "onboard_time": 1662950192,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 263414,
+        "num": 184798,
+        "word": "朱梓骁拟邀再就业男团",
+        "onboard_time": 1662913836,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256782,
+        "num": 183895,
+        "word": "艺人违法需赔品牌多少钱",
+        "onboard_time": 1662906355,
+        "rank": 33,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 183138,
+        "num": 183138,
+        "word": "复试保过班最贵要花近10万",
+        "onboard_time": 1662944433,
+        "rank": 34,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 178964,
+        "num": 178964,
+        "word": "成都发布",
+        "onboard_time": 1662941971,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177882,
+        "num": 177882,
+        "word": "航天员吃到了在太空种的生菜",
+        "onboard_time": 1662945033,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 156615,
+        "num": 156615,
+        "word": "学生宿舍炖鲫鱼汤被网友举报",
+        "onboard_time": 1662905210,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156534,
+        "num": 156534,
+        "word": "G2",
+        "onboard_time": 1662938303,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151601,
+        "num": 151601,
+        "word": "内江疫情防控",
+        "onboard_time": 1662948395,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179618,
+        "num": 148970,
+        "word": "网传刘浩存林一新剧脱轨将开机",
+        "onboard_time": 1662918740,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179097,
+        "num": 146899,
+        "word": "小鹿 复活",
+        "onboard_time": 1662940288,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143249,
+        "num": 143249,
+        "word": "分手后能和前任做朋友吗",
+        "onboard_time": 1662952413,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135230,
+        "num": 135230,
+        "word": "S12抽签仪式",
+        "onboard_time": 1662940710,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133321,
+        "num": 133321,
+        "word": "官方辟谣济宁隔离人员在菏泽住羊圈",
+        "onboard_time": 1662952172,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132875,
+        "num": 132875,
+        "word": "广东新娘脖子上挂满金手镯",
+        "onboard_time": 1662908812,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126882,
+        "num": 126882,
+        "word": "女孩基因突变最快48秒睡着",
+        "onboard_time": 1662893443,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117443,
+        "num": 117443,
+        "word": "男子砸4辆车偷9万元手表直接扔了",
+        "onboard_time": 1662915450,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103439,
+        "num": 103439,
+        "word": "金山",
+        "onboard_time": 1662944736,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103188,
+        "num": 103188,
+        "word": "小学生沉迷文具店开盲盒",
+        "onboard_time": 1662923173,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#让科技创新更好造福人类#"
+    }
+  }
+}

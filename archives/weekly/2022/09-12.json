@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1662950200462,
+  "endTime": 1662953042274,
   "band_list": [
     {
       "raw_hot": 8475341,
@@ -43,6 +43,22 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1588541,
+      "num": 1588541,
+      "word": "iPhone14ProMax电池容量不增反降",
+      "onboard_time": 1662951095,
+      "rank": 4,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 1476076,
+      "num": 536282,
+      "word": "你安全吗墨镜男",
+      "onboard_time": 1662951875,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1370879,
       "num": 1370879,
       "word": "你也有美丽羞耻症吗",
@@ -68,11 +84,19 @@
     },
     {
       "raw_hot": 1204704,
-      "num": 477662,
+      "num": 531323,
       "word": "李易峰多次嫖娼被行政拘留",
       "onboard_time": 1662890660,
       "rank": 10,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1093865,
+      "num": 1093865,
+      "word": "90后小伙为工作9年不炫火锅",
+      "onboard_time": 1662948517,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1088022,
@@ -84,7 +108,7 @@
     },
     {
       "raw_hot": 1065086,
-      "num": 488861,
+      "num": 513924,
       "word": "水果店老板",
       "onboard_time": 1662943954,
       "rank": 10,
@@ -123,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 769269,
+      "num": 526744,
+      "word": "王嘉尔印度滚石9月刊封面",
+      "onboard_time": 1662950314,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 765370,
       "num": 765370,
       "word": "你安全吗",
@@ -155,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 650228,
+      "num": 650228,
+      "word": "宋朝公务员每年放假113天",
+      "onboard_time": 1662952531,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 632676,
       "num": 632676,
       "word": "女孩基因突变最快48秒睡着",
@@ -171,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 589204,
+      "num": 283889,
+      "word": "余景天纽约看秀造型",
+      "onboard_time": 1662951813,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 577419,
       "num": 178069,
       "word": "辟谣显得无比可笑",
@@ -179,11 +227,19 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 521835,
-      "num": 521835,
-      "word": "90后小伙为工作9年不炫火锅",
-      "onboard_time": 1662948517,
-      "rank": 8,
+      "raw_hot": 536775,
+      "num": 536775,
+      "word": "中国科学家在月壤中发现存在高含量水",
+      "onboard_time": 1662950375,
+      "rank": 9,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 511683,
+      "num": 511683,
+      "word": "泸定地震已致93人遇难",
+      "onboard_time": 1662951274,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -209,6 +265,14 @@
       "onboard_time": 1662908037,
       "rank": 7,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 495644,
+      "num": 281840,
+      "word": "星星的约定定档0916",
+      "onboard_time": 1662951875,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 481621,
@@ -259,6 +323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 375368,
+      "num": 375368,
+      "word": "周末应该摆烂还是自律",
+      "onboard_time": 1662947735,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 361955,
       "num": 361955,
       "word": "成都发布",
@@ -307,6 +379,30 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 287029,
+      "num": 287029,
+      "word": "流浪猫紧跟路人1公里求收养",
+      "onboard_time": 1662950616,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277566,
+      "num": 186447,
+      "word": "朴彩英新歌预告海报",
+      "onboard_time": 1662950192,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 272730,
+      "num": 272730,
+      "word": "小偷走路嗑瓜子民警顺瓜子皮抓人",
+      "onboard_time": 1662946057,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 269437,
       "num": 156195,
       "word": "Prada与李易峰终止合作",
@@ -339,30 +435,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 263460,
-      "num": 263460,
-      "word": "周末应该摆烂还是自律",
-      "onboard_time": 1662947735,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 261065,
-      "num": 108209,
-      "word": "朴彩英新歌预告海报",
-      "onboard_time": 1662950192,
-      "rank": 47,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 251598,
-      "num": 251598,
-      "word": "小偷走路嗑瓜子民警顺瓜子皮抓人",
-      "onboard_time": 1662946057,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 249507,
       "num": 249507,
       "word": "成都疫情防控",
@@ -377,6 +449,14 @@
       "onboard_time": 1662923173,
       "rank": 48,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 244519,
+      "num": 244519,
+      "word": "宝妈因孩子集体照露脸少起诉影楼",
+      "onboard_time": 1662952053,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238569,
@@ -521,6 +601,22 @@
       "onboard_time": 1662887369,
       "rank": 23,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 143249,
+      "num": 143249,
+      "word": "分手后能和前任做朋友吗",
+      "onboard_time": 1662952413,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 133321,
+      "num": 133321,
+      "word": "官方辟谣济宁隔离人员在菏泽住羊圈",
+      "onboard_time": 1662952172,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124196,
