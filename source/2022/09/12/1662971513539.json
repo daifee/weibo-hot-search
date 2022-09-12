@@ -1,0 +1,410 @@
+{
+  "runTime": 1662971513539,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2211601,
+        "num": 2211601,
+        "word": "偷偷藏不住剧组在学校砸学生无人机",
+        "onboard_time": 1662962135,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1433877,
+        "num": 1433877,
+        "word": "全体同意的8万班费为何引质疑",
+        "onboard_time": 1662962676,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 107930,
+        "num": 1245832,
+        "word": "中国乡村风景可以洗眼睛",
+        "onboard_time": 1662942872,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1188407,
+        "num": 1188407,
+        "word": "如何看待李易峰此前发声明",
+        "onboard_time": 1662940710,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1062108,
+        "num": 1062108,
+        "word": "3男孩跪楼道里饮料代酒桃园结义",
+        "onboard_time": 1662966574,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 989245,
+        "num": 989245,
+        "word": "蒙古国草原火蔓延至我国边境呼伦贝尔",
+        "onboard_time": 1662965735,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 744132,
+        "num": 744132,
+        "word": "苍兰诀番外 敷衍",
+        "onboard_time": 1662962616,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 693840,
+        "num": 693840,
+        "word": "选调生或成为985学生最佳选择",
+        "onboard_time": 1662961652,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 590254,
+        "num": 590254,
+        "word": "良品铺子月饼被曝吃出塑料",
+        "onboard_time": 1662962914,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579411,
+        "num": 579411,
+        "word": "猫咪趁主人睡着开闸放水",
+        "onboard_time": 1662965436,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1563954,
+        "num": 550064,
+        "word": "海清你才是神",
+        "onboard_time": 1662968853,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1470052,
+        "num": 524994,
+        "word": "嘉行传媒",
+        "onboard_time": 1662961712,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 805888,
+        "num": 524118,
+        "word": "刘浩存林一脱轨开机路透",
+        "onboard_time": 1662967175,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 469734,
+        "num": 469734,
+        "word": "鸟妈喂食比自己坨还大的寄生宝宝",
+        "onboard_time": 1662966693,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411098,
+        "num": 411098,
+        "word": "男孩刮花车辆车主索赔遭家长辱骂",
+        "onboard_time": 1662966996,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382489,
+        "num": 382489,
+        "word": "男生将头伸进床头护栏被一秒封印",
+        "onboard_time": 1662965315,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367699,
+        "num": 367699,
+        "word": "吃饱后肚子大有救了",
+        "onboard_time": 1662969394,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 365866,
+        "num": 365866,
+        "word": "iPhone14ProMax电池容量不增反降",
+        "onboard_time": 1662951095,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 357054,
+        "num": 357054,
+        "word": "关注俄乌局势最新进展",
+        "onboard_time": 1662963334,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 323471,
+        "num": 323471,
+        "word": "市长热线回应高速服务区餐厅有老鼠",
+        "onboard_time": 1662965854,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1093295,
+        "num": 322824,
+        "word": "江宁婆婆",
+        "onboard_time": 1662956733,
+        "rank": 20,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 532419,
+        "num": 317244,
+        "word": "脱口秀大会5官宣张杰",
+        "onboard_time": 1662966574,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 426959,
+        "num": 315220,
+        "word": "你安全吗假名媛培训班",
+        "onboard_time": 1662969935,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 306416,
+        "num": 306416,
+        "word": "上班像被吸了阳气一样",
+        "onboard_time": 1662969813,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 285302,
+        "num": 285302,
+        "word": "男童被卡跑步机含泪接唱孤勇者",
+        "onboard_time": 1662963637,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423211,
+        "num": 275241,
+        "word": "疑似时代峰峻工作人员机场锁喉粉丝",
+        "onboard_time": 1662958417,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249522,
+        "num": 249522,
+        "word": "台风梅花节后或直穿上海",
+        "onboard_time": 1662970653,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239719,
+        "num": 239719,
+        "word": "101岁退休老师过教师节捐款1万元",
+        "onboard_time": 1662967654,
+        "rank": 27,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 232901,
+        "num": 232901,
+        "word": "没卖出去的月饼都去哪了",
+        "onboard_time": 1662945394,
+        "rank": 28,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 177898,
+        "num": 177898,
+        "word": "老人赶集鸭子被热死路人出手买下",
+        "onboard_time": 1662954635,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417395,
+        "num": 177230,
+        "word": "樱桃琥珀网传暂定王俊凯鞠婧祎",
+        "onboard_time": 1662969451,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 390947,
+        "num": 177131,
+        "word": "王嘉尔印度滚石9月刊封面",
+        "onboard_time": 1662950314,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 247576,
+        "num": 176927,
+        "word": "徐冬冬说糊咖也是咖",
+        "onboard_time": 1662964776,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176461,
+        "num": 176461,
+        "word": "若木星轨道改变地球或更宜居",
+        "onboard_time": 1662962073,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 129559,
+        "num": 129559,
+        "word": "宝妈因孩子集体照露脸少起诉影楼",
+        "onboard_time": 1662952053,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123685,
+        "num": 123685,
+        "word": "90后小伙为工作9年不炫火锅",
+        "onboard_time": 1662948517,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113848,
+        "num": 113848,
+        "word": "一只榨菜鲜肉月饼相当于4碗饭",
+        "onboard_time": 1662956373,
+        "rank": 36,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 111808,
+        "num": 111808,
+        "word": "分手后能和前任做朋友吗",
+        "onboard_time": 1662952413,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107851,
+        "num": 107851,
+        "word": "被棉花糖小狗治愈了",
+        "onboard_time": 1662969212,
+        "rank": 38,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 107267,
+        "num": 107267,
+        "word": "保安毒死小区11只宠物狗获刑3年",
+        "onboard_time": 1662946835,
+        "rank": 39,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 229909,
+        "num": 104917,
+        "word": "你安全吗墨镜男",
+        "onboard_time": 1662951875,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216203,
+        "num": 103358,
+        "word": "蒋勤勤中秋晚会状态",
+        "onboard_time": 1662963756,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142320,
+        "num": 101947,
+        "word": "朱锐",
+        "onboard_time": 1662958055,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99475,
+        "num": 99475,
+        "word": "警方连续3年在观潮时抓住逃犯",
+        "onboard_time": 1662962433,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95603,
+        "num": 95603,
+        "word": "EDG",
+        "onboard_time": 1662960455,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 93012,
+        "num": 93012,
+        "word": "家委会有必要存在吗",
+        "onboard_time": 1662971013,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89687,
+        "num": 89687,
+        "word": "陪猫咪躺在游泳池的小朋友",
+        "onboard_time": 1662960754,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88573,
+        "num": 88573,
+        "word": "中国男排失去奥运资格赛主动权",
+        "onboard_time": 1662953194,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83477,
+        "num": 83477,
+        "word": "5年级男孩称对作业过敏流眼泪",
+        "onboard_time": 1662954455,
+        "rank": 48,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 79549,
+        "num": 79549,
+        "word": "男子心脏骤停武警医师10分钟救回",
+        "onboard_time": 1662970591,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#打造多元共生的生态系统#"
+    }
+  }
+}
