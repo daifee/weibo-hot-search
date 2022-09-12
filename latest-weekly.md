@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/12 00:31:49 ~ 2022/09/13 01:47:28
+本榜单时间：2022/09/12 00:31:49 ~ 2022/09/13 02:30:16
 </p>
 </blockquote>
 <p>
@@ -1431,6 +1431,12 @@ EDG与T1一组（热度：110381）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E8%90%BD%E4%BA%95%E7%88%B7%E7%88%B7%E6%89%98%E4%B8%BE%E4%B8%80%E5%B0%8F%E6%97%B6%E5%90%8E%E8%A2%AB%E6%95%91%23" target="weibo">
+奶奶落井爷爷托举一小时后被救（热度：98520）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%23" target="weibo">
 英雄联盟（热度：98249）
 </a>
@@ -1547,12 +1553,6 @@ F1意大利大奖赛（热度：57047）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%A8%E6%98%9F%E5%90%88%E6%9C%88%E7%BE%8E%E6%99%AF%E6%95%B4%E5%A4%9C%E5%8F%AF%E8%A7%81%23" target="weibo">
 木星合月美景整夜可见（热度：48486）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E8%90%BD%E4%BA%95%E7%88%B7%E7%88%B7%E6%89%98%E4%B8%BE%E4%B8%80%E5%B0%8F%E6%97%B6%E5%90%8E%E8%A2%AB%E6%95%91%23" target="weibo">
-奶奶落井爷爷托举一小时后被救（热度：47386）
 </a>
 </li>
 
