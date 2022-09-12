@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/13 00:36:21 ~ 2022/09/13 07:26:29
+本榜单时间：2022/09/13 00:36:21 ~ 2022/09/13 07:43:07
 </p>
 </blockquote>
 <p>
@@ -22,7 +22,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%93%E5%B3%B0%E5%A1%8C%E6%88%BF%E7%BB%99%E6%98%8E%E6%98%9F%E8%89%BA%E4%BA%BA%E6%8F%90%E4%BA%86%E4%BB%80%E4%B9%88%E9%86%92%23" target="weibo">
-李易峰塌房给明星艺人提了什么醒（热度：1815861）
+李易峰塌房给明星艺人提了什么醒（热度：2087598）
 </a>
 </li>
 
@@ -39,14 +39,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%B1%B3%E8%99%AB%E6%98%AF%E4%BB%8E%E7%B1%B3%E9%87%8C%E5%87%BA%E6%9D%A5%E7%9A%84%23" target="weibo">
-原来米虫是从米里出来的（热度：1308941）
+<a href="https://s.weibo.com/weibo?q=%23600759%23" target="weibo">
+600759（热度：1467210）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23600759%23" target="weibo">
-600759（热度：1176363）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%B1%B3%E8%99%AB%E6%98%AF%E4%BB%8E%E7%B1%B3%E9%87%8C%E5%87%BA%E6%9D%A5%E7%9A%84%23" target="weibo">
+原来米虫是从米里出来的（热度：1308941）
 </a>
 </li>
 
@@ -58,7 +58,19 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AF%84%E5%85%BB%E5%A7%91%E5%A7%91%E5%AE%B6%E5%A5%B3%E5%AD%A9%E7%BB%99%E8%A1%A8%E5%BC%9F%E4%B9%B0%E4%BA%86%E4%B8%80%E5%A5%97%E6%88%BF%23" target="weibo">
-寄养姑姑家女孩给表弟买了一套房（热度：751447）
+寄养姑姑家女孩给表弟买了一套房（热度：837849）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E4%BD%93%E6%A3%80%E5%9B%9E%E5%AE%B6%E5%90%8E%E8%A2%AB3%E5%B2%81%E9%87%8D%E5%AD%99%E4%B8%89%E8%BF%9E%E9%97%AE%23" target="weibo">
+老人体检回家后被3岁重孙三连问（热度：792102）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E5%8F%91%E7%8E%B0%E6%99%9A%E4%B8%8A%E5%A4%9A%E5%90%83%E4%B8%8D%E4%B8%80%E5%AE%9A%E4%BC%9A%E8%83%96%23" target="weibo">
+研究发现晚上多吃不一定会胖（热度：788137）
 </a>
 </li>
 
@@ -69,26 +81,20 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E4%BD%93%E6%A3%80%E5%9B%9E%E5%AE%B6%E5%90%8E%E8%A2%AB3%E5%B2%81%E9%87%8D%E5%AD%99%E4%B8%89%E8%BF%9E%E9%97%AE%23" target="weibo">
-老人体检回家后被3岁重孙三连问（热度：710675）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B9%98%E9%9B%85%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E4%B8%93%E5%AE%B6%E5%B0%86%E8%8E%B2%E5%AD%90%E5%A3%B3%E8%AF%8A%E6%96%AD%E4%B8%BA%E8%82%BF%E7%98%A4%23" target="weibo">
 湘雅医院回应专家将莲子壳诊断为肿瘤（热度：671302）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E5%8F%91%E7%8E%B0%E6%99%9A%E4%B8%8A%E5%A4%9A%E5%90%83%E4%B8%8D%E4%B8%80%E5%AE%9A%E4%BC%9A%E8%83%96%23" target="weibo">
-研究发现晚上多吃不一定会胖（热度：643979）
+<a href="https://s.weibo.com/weibo?q=%23%E7%BC%96%E5%89%A7%E7%9C%9F%E7%9A%84%E5%BE%88%E4%BA%86%E8%A7%A3%E8%B4%AB%E7%A9%B7%23" target="weibo">
+编剧真的很了解贫穷（热度：604252）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BC%96%E5%89%A7%E7%9C%9F%E7%9A%84%E5%BE%88%E4%BA%86%E8%A7%A3%E8%B4%AB%E7%A9%B7%23" target="weibo">
-编剧真的很了解贫穷（热度：604252）
+<a href="https://s.weibo.com/weibo?q=%23100%E5%85%8B%E6%99%AE%E9%80%9A%E6%9C%88%E9%A5%BC%E5%90%AB400%E5%A4%A7%E5%8D%A1%E8%83%BD%E9%87%8F%23" target="weibo">
+100克普通月饼含400大卡能量（热度：529538）
 </a>
 </li>
 
@@ -105,8 +111,8 @@ ios16（热度：514128）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23100%E5%85%8B%E6%99%AE%E9%80%9A%E6%9C%88%E9%A5%BC%E5%90%AB400%E5%A4%A7%E5%8D%A1%E8%83%BD%E9%87%8F%23" target="weibo">
-100克普通月饼含400大卡能量（热度：429993）
+<a href="https://s.weibo.com/weibo?q=%2336%E5%B2%81%E6%AD%8C%E6%89%8B%E5%9A%BC%E6%A7%9F%E6%A6%946%E5%B9%B4%E5%9B%A0%E5%8F%A3%E8%85%94%E7%99%8C%E8%BF%87%E4%B8%96%23" target="weibo">
+36岁歌手嚼槟榔6年因口腔癌过世（热度：408605）
 </a>
 </li>
 
@@ -129,20 +135,14 @@ ios16（热度：514128）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2336%E5%B2%81%E6%AD%8C%E6%89%8B%E5%9A%BC%E6%A7%9F%E6%A6%946%E5%B9%B4%E5%9B%A0%E5%8F%A3%E8%85%94%E7%99%8C%E8%BF%87%E4%B8%96%23" target="weibo">
-36岁歌手嚼槟榔6年因口腔癌过世（热度：352534）
+<a href="https://s.weibo.com/weibo?q=%2319%E5%B2%81%E7%94%B7%E7%94%9F%E9%80%81%E5%A4%96%E5%8D%96%E6%94%92%E5%A4%9F%E4%B8%80%E5%B9%B4%E5%AD%A6%E8%B4%B9%23" target="weibo">
+19岁男生送外卖攒够一年学费（热度：361052）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E4%B8%8D%E6%83%912%E5%A4%A7%E7%BB%93%E5%B1%80%23" target="weibo">
 二十不惑2大结局（热度：340279）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2319%E5%B2%81%E7%94%B7%E7%94%9F%E9%80%81%E5%A4%96%E5%8D%96%E6%94%92%E5%A4%9F%E4%B8%80%E5%B9%B4%E5%AD%A6%E8%B4%B9%23" target="weibo">
-19岁男生送外卖攒够一年学费（热度：306728）
 </a>
 </li>
 
@@ -177,6 +177,18 @@ ios16（热度：514128）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9C%BA%E5%9C%BA%E5%BC%95%E5%85%A5%E5%9C%B0%E6%B2%9F%E6%B2%B9%E7%87%83%E6%96%99%23" target="weibo">
+日本机场引入地沟油燃料（热度：248189）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E5%8E%BB%E7%BE%8E%E5%85%83%E5%8C%96%E8%BF%9B%E7%A8%8B%E4%B8%8D%E5%8F%AF%E9%81%BF%E5%85%8D%23" target="weibo">
+普京称去美元化进程不可避免（热度：240353）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%9A%E7%BD%AA%23" target="weibo">
 罚罪（热度：235072）
 </a>
@@ -185,6 +197,18 @@ ios16（热度：514128）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E7%A7%AF%E7%94%B52%E7%BA%B3%E7%B1%B3%E9%A2%84%E8%AE%A12025%E5%B9%B4%E9%87%8F%E4%BA%A7%23" target="weibo">
 台积电2纳米预计2025年量产（热度：234863）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E8%8A%B16%E5%85%83%E4%B9%B0%E5%B8%83%E5%A4%B4%E5%81%9A%E5%87%BA%E5%B0%8F%E6%B1%89%E6%9C%8D%23" target="weibo">
+妈妈花6元买布头做出小汉服（热度：233990）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%8C%BA%E6%99%AF%E8%A7%82%E6%B1%A0%E9%B1%BC%E5%8F%98%E5%B0%91%E6%8D%95%E8%8E%B738%E6%96%A4%E9%B3%84%E9%9B%80%E9%B3%9D%23" target="weibo">
+小区景观池鱼变少捕获38斤鳄雀鳝（热度：222636）
 </a>
 </li>
 
@@ -213,20 +237,14 @@ ios16（热度：514128）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9C%BA%E5%9C%BA%E5%BC%95%E5%85%A5%E5%9C%B0%E6%B2%9F%E6%B2%B9%E7%87%83%E6%96%99%23" target="weibo">
-日本机场引入地沟油燃料（热度：211708）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%BA%9C%E6%96%B0%E5%8C%BA%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%23" target="weibo">
 天府新区疫情防控（热度：211289）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%8C%BA%E6%99%AF%E8%A7%82%E6%B1%A0%E9%B1%BC%E5%8F%98%E5%B0%91%E6%8D%95%E8%8E%B738%E6%96%A4%E9%B3%84%E9%9B%80%E9%B3%9D%23" target="weibo">
-小区景观池鱼变少捕获38斤鳄雀鳝（热度：197589）
+<a href="https://s.weibo.com/weibo?q=%23%E6%A8%B1%E6%A1%83%E7%90%A5%E7%8F%80%23" target="weibo">
+樱桃琥珀（热度：201800）
 </a>
 </li>
 
@@ -237,8 +255,8 @@ A股首支脱口秀概念股（热度：193621）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E8%8A%B16%E5%85%83%E4%B9%B0%E5%B8%83%E5%A4%B4%E5%81%9A%E5%87%BA%E5%B0%8F%E6%B1%89%E6%9C%8D%23" target="weibo">
-妈妈花6元买布头做出小汉服（热度：179821）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%88%B7%E6%B2%89%E9%99%B7%E5%8C%BA%E5%85%BB%E9%B1%BC%E4%B8%80%E5%B9%B4%E6%8C%A350%E4%B8%87%23" target="weibo">
+大爷沉陷区养鱼一年挣50万（热度：185440）
 </a>
 </li>
 
@@ -261,8 +279,14 @@ A股首支脱口秀概念股（热度：193621）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E5%8E%BB%E7%BE%8E%E5%85%83%E5%8C%96%E8%BF%9B%E7%A8%8B%E4%B8%8D%E5%8F%AF%E9%81%BF%E5%85%8D%23" target="weibo">
-普京称去美元化进程不可避免（热度：170325）
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%B4%E9%98%B3%E5%B8%88%23" target="weibo">
+阴阳师（热度：159200）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E8%90%BD%E4%BA%95%E7%88%B7%E7%88%B7%E6%89%98%E4%B8%BE%E4%B8%80%E5%B0%8F%E6%97%B6%E5%90%8E%E8%A2%AB%E6%95%91%23" target="weibo">
+奶奶落井爷爷托举一小时后被救（热度：157737）
 </a>
 </li>
 
@@ -273,20 +297,14 @@ A股首支脱口秀概念股（热度：193621）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%88%B7%E6%B2%89%E9%99%B7%E5%8C%BA%E5%85%BB%E9%B1%BC%E4%B8%80%E5%B9%B4%E6%8C%A350%E4%B8%87%23" target="weibo">
-大爷沉陷区养鱼一年挣50万（热度：142951）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E8%B0%A2%E6%9C%89%E8%A2%AB%E5%81%A5%E5%BA%B7%E5%88%B0%23" target="weibo">
 谢谢有被健康到（热度：141997）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E8%90%BD%E4%BA%95%E7%88%B7%E7%88%B7%E6%89%98%E4%B8%BE%E4%B8%80%E5%B0%8F%E6%97%B6%E5%90%8E%E8%A2%AB%E6%95%91%23" target="weibo">
-奶奶落井爷爷托举一小时后被救（热度：135647）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%A7%86%E5%8D%8F%E8%AF%84%E6%9D%8E%E6%98%93%E5%B3%B0%E4%BA%8B%E4%BB%B6%23" target="weibo">
+中国视协评李易峰事件（热度：121940）
 </a>
 </li>
 
@@ -298,7 +316,13 @@ A股首支脱口秀概念股（热度：193621）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9B%9E%E5%BA%94%E8%B8%B9%E7%8B%97%E8%87%B4%E8%80%81%E4%BA%BA%E6%91%94%E5%80%92%23" target="weibo">
-男子回应踹狗致老人摔倒（热度：108589）
+男子回应踹狗致老人摔倒（热度：120533）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%81%9A%E5%88%B0%E8%BF%99%E5%87%A0%E7%82%B9%E6%88%96%E5%8F%AF%E9%81%BF%E5%85%8D%E5%87%BA%E7%94%9F%E7%BC%BA%E9%99%B7%23" target="weibo">
+做到这几点或可避免出生缺陷（热度：116563）
 </a>
 </li>
 
@@ -321,8 +345,8 @@ A股首支脱口秀概念股（热度：193621）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%81%9A%E5%88%B0%E8%BF%99%E5%87%A0%E7%82%B9%E6%88%96%E5%8F%AF%E9%81%BF%E5%85%8D%E5%87%BA%E7%94%9F%E7%BC%BA%E9%99%B7%23" target="weibo">
-做到这几点或可避免出生缺陷（热度：92468）
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E5%85%AD%E6%9C%88%E7%9A%84%E9%9B%A8%E4%B8%AD%E6%9C%89%E7%88%B1%E7%9A%84%E7%9C%9F%E8%B0%9B%23" target="weibo">
+成毅六月的雨中有爱的真谛（热度：97831）
 </a>
 </li>
 
@@ -335,12 +359,6 @@ A股首支脱口秀概念股（热度：193621）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E6%95%85%E5%AE%AB%E5%B1%95%E5%87%BA%E5%9B%BD%E5%AE%9D%E7%BA%A7%E5%8D%97%E5%AE%8B%E5%90%8D%E7%94%BB%23" target="weibo">
 香港故宫展出国宝级南宋名画（热度：82377）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%A7%86%E5%8D%8F%E8%AF%84%E6%9D%8E%E6%98%93%E5%B3%B0%E4%BA%8B%E4%BB%B6%23" target="weibo">
-中国视协评李易峰事件（热度：82250）
 </a>
 </li>
 
@@ -363,8 +381,14 @@ A股首支脱口秀概念股（热度：193621）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E5%85%AD%E6%9C%88%E7%9A%84%E9%9B%A8%E4%B8%AD%E6%9C%89%E7%88%B1%E7%9A%84%E7%9C%9F%E8%B0%9B%23" target="weibo">
-成毅六月的雨中有爱的真谛（热度：71728）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%9E%E5%8A%9B%E8%AF%A0%E9%87%8A%E4%BA%86%E4%BB%80%E4%B9%88%E5%8F%AB%E5%BF%83%E7%81%B5%E6%89%8B%E5%B7%A7%23" target="weibo">
+实力诠释了什么叫心灵手巧（热度：71753）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8A%E4%BA%86%E4%B8%AA%E7%BE%8A%23" target="weibo">
+羊了个羊（热度：61688）
 </a>
 </li>
 
@@ -375,20 +399,20 @@ A股首支脱口秀概念股（热度：193621）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23iOS15.7%23" target="weibo">
+iOS15.7（热度：49871）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E6%95%99%E5%B8%88%E4%B8%9A%E7%BB%A9%E7%AA%81%E5%87%BA%E8%8E%B7%E5%A5%96%E4%B8%80%E5%A5%97%E6%88%BF%23" target="weibo">
 浙江教师业绩突出获奖一套房（热度：49343）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%9E%E5%8A%9B%E8%AF%A0%E9%87%8A%E4%BA%86%E4%BB%80%E4%B9%88%E5%8F%AB%E5%BF%83%E7%81%B5%E6%89%8B%E5%B7%A7%23" target="weibo">
-实力诠释了什么叫心灵手巧（热度：47989）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%B9%A1%E6%9D%91%E9%A3%8E%E6%99%AF%E5%8F%AF%E4%BB%A5%E6%B4%97%E7%9C%BC%E7%9D%9B%23" target="weibo">
-中国乡村风景可以洗眼睛（热度：31599）
+中国乡村风景可以洗眼睛（热度：38684）
 </a>
 </li>
 

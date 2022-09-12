@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/13 07:26:29
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/13 07:43:07
 </p>
 </blockquote>
 <p>
@@ -4113,6 +4113,12 @@ iPhone14系列没涨价（热度：892829）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AF%84%E5%85%BB%E5%A7%91%E5%A7%91%E5%AE%B6%E5%A5%B3%E5%AD%A9%E7%BB%99%E8%A1%A8%E5%BC%9F%E4%B9%B0%E4%BA%86%E4%B8%80%E5%A5%97%E6%88%BF%23" target="weibo">
+寄养姑姑家女孩给表弟买了一套房（热度：837849）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%AE%B6%E4%B8%AD%E8%A2%AB%E7%9B%972%E5%8F%AA%E5%B0%8F%E7%8B%97%E8%A2%AB%E6%9D%80%E5%AE%B3%23" target="weibo">
 男子家中被盗2只小狗被杀害（热度：836028）
 </a>
@@ -4353,6 +4359,12 @@ Ale（热度：793817）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E4%BD%93%E6%A3%80%E5%9B%9E%E5%AE%B6%E5%90%8E%E8%A2%AB3%E5%B2%81%E9%87%8D%E5%AD%99%E4%B8%89%E8%BF%9E%E9%97%AE%23" target="weibo">
+老人体检回家后被3岁重孙三连问（热度：792102）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%80%E7%94%B7%E5%AD%90%E8%B8%B9%E7%8B%97%E8%87%B4%E8%80%81%E4%BA%BA%E6%91%94%E5%80%92%23" target="weibo">
 重庆一男子踹狗致老人摔倒（热度：791313）
 </a>
@@ -4581,12 +4593,6 @@ AI画作拿一等奖惹怒人类艺术家（热度：776588）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AF%84%E5%85%BB%E5%A7%91%E5%A7%91%E5%AE%B6%E5%A5%B3%E5%AD%A9%E7%BB%99%E8%A1%A8%E5%BC%9F%E4%B9%B0%E4%BA%86%E4%B8%80%E5%A5%97%E6%88%BF%23" target="weibo">
-寄养姑姑家女孩给表弟买了一套房（热度：751447）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E8%AF%9D%E5%89%A7%E9%80%A0%E5%9E%8B%E8%BA%AB%E4%B8%8A%E6%8C%82220%E5%8F%AA%E5%A8%83%E5%A8%83%23" target="weibo">
 谢娜话剧造型身上挂220只娃娃（热度：751007）
 </a>
@@ -4799,12 +4805,6 @@ Fly落水（热度：713443）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E8%BE%93%E5%85%A5%E6%B3%95%E8%A6%81%E5%8D%A0%E5%86%85%E5%AD%98524MB%23" target="weibo">
 微信输入法要占内存524MB（热度：711410）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E4%BD%93%E6%A3%80%E5%9B%9E%E5%AE%B6%E5%90%8E%E8%A2%AB3%E5%B2%81%E9%87%8D%E5%AD%99%E4%B8%89%E8%BF%9E%E9%97%AE%23" target="weibo">
-老人体检回家后被3岁重孙三连问（热度：710675）
 </a>
 </li>
 
