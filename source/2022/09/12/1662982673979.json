@@ -1,0 +1,410 @@
+{
+  "runTime": 1662982673979,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3412937,
+        "num": 3412937,
+        "word": "当经纪公司说漏嘴",
+        "onboard_time": 1662980737,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 2865305,
+        "num": 2865305,
+        "word": "中国视协评李易峰事件",
+        "onboard_time": 1662981639,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36032,
+        "num": 2474817,
+        "word": "中国乡村风景可以洗眼睛",
+        "onboard_time": 1662942872,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2190720,
+        "num": 2190720,
+        "word": "姐姐拒绝给弟弟买房被父母告上法庭",
+        "onboard_time": 1662972579,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1032502,
+        "num": 1032502,
+        "word": "外籍男子疑当街骚扰妇女被扇耳光",
+        "onboard_time": 1662974862,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 918050,
+        "num": 918050,
+        "word": "36岁歌手傅松因口腔癌去世",
+        "onboard_time": 1662972694,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 886929,
+        "num": 886929,
+        "word": "一口生腌吃进去多少风险",
+        "onboard_time": 1662978699,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 817728,
+        "num": 817728,
+        "word": "女孩被弟弟打爸爸让其打回去",
+        "onboard_time": 1662974862,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 697258,
+        "num": 697258,
+        "word": "二十不惑2大结局",
+        "onboard_time": 1662980860,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 596577,
+        "num": 596577,
+        "word": "重庆一男子踹狗致老人摔倒",
+        "onboard_time": 1662974737,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1442179,
+        "num": 583042,
+        "word": "郝蕾",
+        "onboard_time": 1662972998,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1165353,
+        "num": 562237,
+        "word": "张家辉陈伟霆爆裂点路透",
+        "onboard_time": 1662977316,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 643942,
+        "num": 555617,
+        "word": "偷偷藏不住剧组在学校砸学生无人机",
+        "onboard_time": 1662962135,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 491968,
+        "num": 491968,
+        "word": "浙江教师业绩突出获奖一套房",
+        "onboard_time": 1662980439,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438234,
+        "num": 438234,
+        "word": "舅舅买充气城堡给外甥玩耍",
+        "onboard_time": 1662975760,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328753,
+        "num": 328753,
+        "word": "高校食堂推出西红柿炒月饼被抢空",
+        "onboard_time": 1662976721,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324850,
+        "num": 324850,
+        "word": "幼儿园午睡后男孩帮女孩穿鞋",
+        "onboard_time": 1662971736,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277101,
+        "num": 277101,
+        "word": "RNG晋级TI11",
+        "onboard_time": 1662974380,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 267550,
+        "num": 267550,
+        "word": "库尔勒全市临时静态管理7天",
+        "onboard_time": 1662976959,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260724,
+        "num": 260724,
+        "word": "李元芳赛季新皮肤",
+        "onboard_time": 1662977619,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 481285,
+        "num": 256491,
+        "word": "海清你才是神",
+        "onboard_time": 1662968853,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337885,
+        "num": 252691,
+        "word": "可惜了操场",
+        "onboard_time": 1662975042,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 319767,
+        "num": 248996,
+        "word": "苍兰诀番外 敷衍",
+        "onboard_time": 1662962616,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240613,
+        "num": 240613,
+        "word": "杀猪盘骗子屋里搜出一摞撩汉秘籍",
+        "onboard_time": 1662975340,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228605,
+        "num": 228605,
+        "word": "东兴疫情防控",
+        "onboard_time": 1662978458,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227242,
+        "num": 227242,
+        "word": "第一次在猫脸上看到了尴尬",
+        "onboard_time": 1662973958,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 216675,
+        "num": 216675,
+        "word": "36岁歌手嚼槟榔6年因口腔癌过世",
+        "onboard_time": 1662979358,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203338,
+        "num": 203338,
+        "word": "上班像被吸了阳气一样",
+        "onboard_time": 1662969813,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190670,
+        "num": 190670,
+        "word": "男子回应踹狗致老人摔倒",
+        "onboard_time": 1662981578,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188532,
+        "num": 188532,
+        "word": "全体同意的8万班费为何引质疑",
+        "onboard_time": 1662962676,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 244356,
+        "num": 188530,
+        "word": "周寻说有些遗憾是可以弥补的",
+        "onboard_time": 1662976239,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233562,
+        "num": 188530,
+        "word": "脱口秀大会5官宣张杰",
+        "onboard_time": 1662966574,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188509,
+        "num": 188509,
+        "word": "四川泸定的雪山身披金光",
+        "onboard_time": 1662976480,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188460,
+        "num": 188460,
+        "word": "想过节带回家的明星",
+        "onboard_time": 1662980018,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171840,
+        "num": 171840,
+        "word": "吃饱后肚子大有救了",
+        "onboard_time": 1662969394,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163576,
+        "num": 163576,
+        "word": "职工返岗前48小时内应测核酸",
+        "onboard_time": 1662973177,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159304,
+        "num": 159304,
+        "word": "第五人格",
+        "onboard_time": 1662978995,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156236,
+        "num": 156236,
+        "word": "鸟妈喂食比自己坨还大的寄生宝宝",
+        "onboard_time": 1662966693,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145242,
+        "num": 145242,
+        "word": "3男孩跪楼道里饮料代酒桃园结义",
+        "onboard_time": 1662966574,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140937,
+        "num": 140937,
+        "word": "你安全吗假名媛培训班",
+        "onboard_time": 1662969935,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136870,
+        "num": 136870,
+        "word": "她们的名字",
+        "onboard_time": 1662980495,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137306,
+        "num": 135678,
+        "word": "檀健次荣梓杉新剧开播就被绑架",
+        "onboard_time": 1662976959,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132400,
+        "num": 132400,
+        "word": "当孕妇穿上男装",
+        "onboard_time": 1662976297,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132341,
+        "num": 132341,
+        "word": "良品铺子月饼被曝吃出塑料",
+        "onboard_time": 1662962914,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128873,
+        "num": 128873,
+        "word": "猫咪趁主人睡着开闸放水",
+        "onboard_time": 1662965436,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121071,
+        "num": 121071,
+        "word": "关注俄乌局势最新进展",
+        "onboard_time": 1662963334,
+        "rank": 45,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 102404,
+        "num": 102404,
+        "word": "台风梅花节后或直穿上海",
+        "onboard_time": 1662970653,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99833,
+        "num": 99833,
+        "word": "北京通州划定高中风险区",
+        "onboard_time": 1662972336,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99783,
+        "num": 99783,
+        "word": "樱桃琥珀网传暂定王俊凯鞠婧祎",
+        "onboard_time": 1662969451,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 92522,
+        "num": 92522,
+        "word": "选调生或成为985学生最佳选择",
+        "onboard_time": 1662961652,
+        "rank": 49,
+        "category": "教育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#打造多元共生的生态系统#"
+    }
+  }
+}
