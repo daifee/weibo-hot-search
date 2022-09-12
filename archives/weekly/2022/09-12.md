@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/12 00:31:49 ~ 2022/09/13 04:26:01
+本榜单时间：2022/09/12 00:31:49 ~ 2022/09/13 04:42:15
 </p>
 </blockquote>
 <p>
@@ -1539,6 +1539,12 @@ F1意大利大奖赛（热度：57047）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2319%E5%B2%81%E7%94%B7%E7%94%9F%E9%80%81%E5%A4%96%E5%8D%96%E6%94%92%E5%A4%9F%E4%B8%80%E5%B9%B4%E5%AD%A6%E8%B4%B9%23" target="weibo">
+19岁男生送外卖攒够一年学费（热度：55580）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2320%E5%B2%81%E5%92%8C15%E5%B2%81%E7%9A%84%E8%87%AA%E5%B7%B1%E5%90%88%E5%94%B1%23" target="weibo">
 20岁和15岁的自己合唱（热度：55283）
 </a>
@@ -1563,6 +1569,12 @@ F1意大利大奖赛（热度：57047）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E5%8E%BB%E7%BE%8E%E5%85%83%E5%8C%96%E8%BF%9B%E7%A8%8B%E4%B8%8D%E5%8F%AF%E9%81%BF%E5%85%8D%23" target="weibo">
+普京称去美元化进程不可避免（热度：44214）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%231%E5%88%86%E9%92%9F%E4%BB%B0%E5%8D%A7%E8%B5%B7%E5%9D%90%E8%87%AA%E6%B5%8B%E8%85%B0%E5%8A%9B%23" target="weibo">
 1分钟仰卧起坐自测腰力（热度：43531）
 </a>
@@ -1571,18 +1583,6 @@ F1意大利大奖赛（热度：57047）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%A4%E4%BA%BA%E7%9A%84%E7%83%98%E7%84%99%E4%BD%9C%E5%93%81%E4%BB%80%E4%B9%88%E6%A0%B7%23" target="weibo">
 古人的烘焙作品什么样（热度：42609）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2319%E5%B2%81%E7%94%B7%E7%94%9F%E9%80%81%E5%A4%96%E5%8D%96%E6%94%92%E5%A4%9F%E4%B8%80%E5%B9%B4%E5%AD%A6%E8%B4%B9%23" target="weibo">
-19岁男生送外卖攒够一年学费（热度：40739）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E5%8E%BB%E7%BE%8E%E5%85%83%E5%8C%96%E8%BF%9B%E7%A8%8B%E4%B8%8D%E5%8F%AF%E9%81%BF%E5%85%8D%23" target="weibo">
-普京称去美元化进程不可避免（热度：39362）
 </a>
 </li>
 
@@ -1607,6 +1607,12 @@ F1意大利大奖赛（热度：57047）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%BF%E6%B0%B4%E9%9D%92%E5%B1%B1%E6%98%AF%E6%88%91%E5%AE%B6%23" target="weibo">
 绿水青山是我家（热度：11147）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%85%E8%AD%A67%E7%A7%92%E9%A3%9E%E8%BA%AB%E6%95%91%E4%B8%8B%E6%89%B6%E6%A2%AF%E6%91%94%E5%80%92%E8%80%81%E4%BA%BA%23" target="weibo">
+辅警7秒飞身救下扶梯摔倒老人（热度：8649）
 </a>
 </li>
 

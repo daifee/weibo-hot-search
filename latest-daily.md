@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/13 00:36:21 ~ 2022/09/13 04:26:01
+本榜单时间：2022/09/13 00:36:21 ~ 2022/09/13 04:42:15
 </p>
 </blockquote>
 <p>
@@ -315,6 +315,12 @@ A股首支脱口秀概念股（热度：193621）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2319%E5%B2%81%E7%94%B7%E7%94%9F%E9%80%81%E5%A4%96%E5%8D%96%E6%94%92%E5%A4%9F%E4%B8%80%E5%B9%B4%E5%AD%A6%E8%B4%B9%23" target="weibo">
+19岁男生送外卖攒够一年学费（热度：55580）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E6%95%99%E5%B8%88%E4%B8%9A%E7%BB%A9%E7%AA%81%E5%87%BA%E8%8E%B7%E5%A5%96%E4%B8%80%E5%A5%97%E6%88%BF%23" target="weibo">
 浙江教师业绩突出获奖一套房（热度：49343）
 </a>
@@ -327,20 +333,20 @@ A股首支脱口秀概念股（热度：193621）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2319%E5%B2%81%E7%94%B7%E7%94%9F%E9%80%81%E5%A4%96%E5%8D%96%E6%94%92%E5%A4%9F%E4%B8%80%E5%B9%B4%E5%AD%A6%E8%B4%B9%23" target="weibo">
-19岁男生送外卖攒够一年学费（热度：40739）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E5%8E%BB%E7%BE%8E%E5%85%83%E5%8C%96%E8%BF%9B%E7%A8%8B%E4%B8%8D%E5%8F%AF%E9%81%BF%E5%85%8D%23" target="weibo">
-普京称去美元化进程不可避免（热度：39362）
+普京称去美元化进程不可避免（热度：44214）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%B9%A1%E6%9D%91%E9%A3%8E%E6%99%AF%E5%8F%AF%E4%BB%A5%E6%B4%97%E7%9C%BC%E7%9D%9B%23" target="weibo">
 中国乡村风景可以洗眼睛（热度：28017）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%85%E8%AD%A67%E7%A7%92%E9%A3%9E%E8%BA%AB%E6%95%91%E4%B8%8B%E6%89%B6%E6%A2%AF%E6%91%94%E5%80%92%E8%80%81%E4%BA%BA%23" target="weibo">
+辅警7秒飞身救下扶梯摔倒老人（热度：8649）
 </a>
 </li>
 
