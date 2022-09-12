@@ -1,6 +1,6 @@
 {
   "startTime": 1663000581861,
-  "endTime": 1663003936849,
+  "endTime": 1663004848275,
   "band_list": [
     {
       "raw_hot": 9785867,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 378582,
-      "num": 237132,
+      "num": 322924,
       "word": "一场脱口秀带火600759",
       "onboard_time": 1662999157,
       "rank": 30,
@@ -155,20 +155,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 292665,
+      "num": 168414,
+      "word": "黄景瑜罚罪站内热度值破9700",
+      "onboard_time": 1663001844,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 288285,
       "num": 288285,
       "word": "西安公安通报外籍人员骚扰女性事件",
       "onboard_time": 1662990341,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 283376,
-      "num": 168414,
-      "word": "黄景瑜罚罪站内热度值破9700",
-      "onboard_time": 1663001844,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 274269,
@@ -403,20 +403,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47386,
+      "num": 47386,
+      "word": "奶奶落井爷爷托举一小时后被救",
+      "onboard_time": 1663003459,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28017,
       "num": 1328123,
       "word": "中国乡村风景可以洗眼睛",
       "onboard_time": 1662942872,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 22557,
-      "num": 23725,
-      "word": "奶奶落井爷爷托举一小时后被救",
-      "onboard_time": 1663003459,
-      "rank": 49,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
