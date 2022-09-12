@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/12 17:44:26
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/12 18:27:11
 </p>
 </blockquote>
 <p>
@@ -161,6 +161,12 @@ iPhone14（热度：4450676）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%B8%E5%AE%9A%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B421%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
 泸定地震已致21人遇难（热度：4087703）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A7%90%E6%8B%92%E7%BB%9D%E7%BB%99%E5%BC%9F%E5%BC%9F%E4%B9%B0%E6%88%BF%E8%A2%AB%E7%88%B6%E6%AF%8D%E5%91%8A%E4%B8%8A%E6%B3%95%E5%BA%AD%23" target="weibo">
+姐姐拒绝给弟弟买房被父母告上法庭（热度：4066544）
 </a>
 </li>
 
@@ -365,12 +371,6 @@ LPL四号种子RNG（热度：3079936）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%AA%92%E7%A7%B0%E4%B8%A5%E9%87%8D%E7%A8%8B%E5%BA%A6%E5%89%8D%E6%89%80%E6%9C%AA%E8%A7%81%23" target="weibo">
 英媒称严重程度前所未见（热度：2977405）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A7%90%E6%8B%92%E7%BB%9D%E7%BB%99%E5%BC%9F%E5%BC%9F%E4%B9%B0%E6%88%BF%E8%A2%AB%E7%88%B6%E6%AF%8D%E5%91%8A%E4%B8%8A%E6%B3%95%E5%BA%AD%23" target="weibo">
-姐姐拒绝给弟弟买房被父母告上法庭（热度：2965724）
 </a>
 </li>
 
@@ -1571,6 +1571,12 @@ iPhone14颜色（热度：1547377）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5iPhone%E8%87%AA%E5%B8%A6%E9%98%B2%E5%81%B7%E7%AA%A5%E5%8A%9F%E8%83%BD%23" target="weibo">
 原来iPhone自带防偷窥功能（热度：1542523）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E7%B1%8D%E7%94%B7%E5%AD%90%E7%96%91%E5%BD%93%E8%A1%97%E9%AA%9A%E6%89%B0%E5%A6%87%E5%A5%B3%E8%A2%AB%E6%89%87%E8%80%B3%E5%85%89%23" target="weibo">
+外籍男子疑当街骚扰妇女被扇耳光（热度：1542022）
 </a>
 </li>
 
@@ -3243,6 +3249,12 @@ BLACKPINK新歌未通过KBS审议（热度：999636）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%A2%AB%E5%BC%9F%E5%BC%9F%E6%89%93%E7%88%B8%E7%88%B8%E8%AE%A9%E5%85%B6%E6%89%93%E5%9B%9E%E5%8E%BB%23" target="weibo">
+女孩被弟弟打爸爸让其打回去（热度：967695）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232017%E5%B9%B4%E4%B9%9D%E5%AF%A8%E6%B2%9F%E5%9C%B0%E9%9C%87%E5%90%8E%E5%9B%9B%E5%B7%9D%E6%9C%80%E5%A4%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
 2017年九寨沟地震后四川最大地震（热度：967578）
 </a>
@@ -4833,6 +4845,12 @@ AirPodsPro2将随iPhone14一起发布（热度：706062）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%8D%88%E7%9D%A1%E5%90%8E%E7%94%B7%E5%AD%A9%E5%B8%AE%E5%A5%B3%E5%AD%A9%E7%A9%BF%E9%9E%8B%23" target="weibo">
+幼儿园午睡后男孩帮女孩穿鞋（热度：690921）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E8%BF%87%E8%8A%82%E5%8C%85%E6%B0%B4%E9%A5%BA%E6%9C%89%E4%BA%BA%E5%90%83%E5%87%BA%E6%B0%B4%E9%BE%99%E5%A4%B4%E9%A6%85%23" target="weibo">
 公司过节包水饺有人吃出水龙头馅（热度：690451）
 </a>
@@ -5133,12 +5151,6 @@ fX组合出道十三周年（热度：648354）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%8D%88%E7%9D%A1%E5%90%8E%E7%94%B7%E5%AD%A9%E5%B8%AE%E5%A5%B3%E5%AD%A9%E7%A9%BF%E9%9E%8B%23" target="weibo">
-幼儿园午睡后男孩帮女孩穿鞋（热度：647683）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%94%B1%E5%87%BA%E4%B8%96%E9%97%B4%E7%8F%8D%E8%B4%B5%E7%88%B1%E6%84%8F%23" target="weibo">
 虞书欣唱出世间珍贵爱意（热度：645541）
 </a>
@@ -5333,6 +5345,12 @@ twice登顶美国billboard艺人榜（热度：627758）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%A5%E5%B0%94%E6%96%AF%E7%8E%8B%E5%AD%90%E5%B7%B2%E5%88%B0%E5%A5%B3%E7%8E%8B%E8%BA%AB%E8%BE%B9%23" target="weibo">
 查尔斯王子已到女王身边（热度：625844）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%80%E7%94%B7%E5%AD%90%E8%B8%B9%E7%8B%97%E8%87%B4%E8%80%81%E4%BA%BA%E6%91%94%E5%80%92%23" target="weibo">
+重庆一男子踹狗致老人摔倒（热度：622675）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ iPhone14 Pro Max（热度：595064）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Angelababy%E5%90%AC%E8%AF%B4%E5%BE%88%E5%A5%BD%E5%90%83cos%E5%AB%A6%E5%A8%A5%23" target="weibo">
 Angelababy听说很好吃cos嫦娥（热度：548821）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23mate50%23" target="weibo">
-mate50（热度：548660）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%A4%A7%E6%95%99%E5%B8%88%E4%B8%8D%E9%85%8D%E5%90%88%E6%A0%B8%E9%85%B8%E5%A8%81%E8%83%81%E4%BB%96%E4%BA%BA%E8%A2%AB%E6%92%A4%E6%95%99%E5%B8%88%E8%B5%84%E6%A0%BC%23" target="weibo">
-海大教师不配合核酸威胁他人被撤教师资格（热度：548372）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%ABHR%E8%BF%BD%E9%97%AE%E7%A6%BB%E8%81%8C%E5%8F%AF%E4%BB%A5%E8%BF%99%E6%A0%B7%E5%9B%9E%E7%AD%94%23" target="weibo">
-被HR追问离职可以这样回答（热度：547601）
 </a>
 </li>
 

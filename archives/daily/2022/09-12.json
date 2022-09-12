@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1662975866287,
+  "endTime": 1662978431325,
   "band_list": [
     {
       "raw_hot": 8475341,
@@ -17,6 +17,14 @@
       "onboard_time": 1662958417,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 4066544,
+      "num": 4066544,
+      "word": "姐姐拒绝给弟弟买房被父母告上法庭",
+      "onboard_time": 1662972579,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3511860,
@@ -41,14 +49,6 @@
       "onboard_time": 1662961474,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2965724,
-      "num": 2965724,
-      "word": "姐姐拒绝给弟弟买房被父母告上法庭",
-      "onboard_time": 1662972579,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2795880,
@@ -129,6 +129,14 @@
       "onboard_time": 1662951095,
       "rank": 4,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1542022,
+      "num": 1542022,
+      "word": "外籍男子疑当街骚扰妇女被扇耳光",
+      "onboard_time": 1662974862,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1476547,
@@ -259,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 967695,
+      "num": 967695,
+      "word": "女孩被弟弟打爸爸让其打回去",
+      "onboard_time": 1662974862,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 959052,
       "num": 959052,
       "word": "老人赶集鸭子被热死路人出手买下",
@@ -355,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 690921,
+      "num": 690921,
+      "word": "幼儿园午睡后男孩帮女孩穿鞋",
+      "onboard_time": 1662971736,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 687392,
       "num": 264449,
       "word": "苍兰诀番外吻戏新镜头",
@@ -411,14 +435,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 647683,
-      "num": 647683,
-      "word": "幼儿园午睡后男孩帮女孩穿鞋",
-      "onboard_time": 1662971736,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 632676,
       "num": 632676,
       "word": "女孩基因突变最快48秒睡着",
@@ -432,6 +448,14 @@
       "word": "嫖娼或将承担什么法律责任",
       "onboard_time": 1662894227,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 622675,
+      "num": 622675,
+      "word": "重庆一男子踹狗致老人摔倒",
+      "onboard_time": 1662974737,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -635,6 +659,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 402900,
+      "num": 402900,
+      "word": "职工返岗前48小时内应测核酸",
+      "onboard_time": 1662973177,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 399124,
+      "num": 399124,
+      "word": "舅舅买充气城堡给外甥玩耍",
+      "onboard_time": 1662975760,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 386471,
       "num": 386471,
       "word": "中国传媒大学24小时新增6例确诊",
@@ -657,6 +697,14 @@
       "onboard_time": 1662947735,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 373806,
+      "num": 373806,
+      "word": "第一次在猫脸上看到了尴尬",
+      "onboard_time": 1662973958,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 361955,
@@ -691,20 +739,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 342262,
+      "num": 270879,
+      "word": "周寻说有些遗憾是可以弥补的",
+      "onboard_time": 1662976239,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 340647,
       "num": 340647,
       "word": "复试保过班最贵要花近10万",
       "onboard_time": 1662944433,
       "rank": 17,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 336773,
-      "num": 336773,
-      "word": "职工返岗前48小时内应测核酸",
-      "onboard_time": 1662973177,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 332163,
@@ -795,12 +843,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 294190,
-      "num": 294190,
-      "word": "第一次在猫脸上看到了尴尬",
-      "onboard_time": 1662973958,
-      "rank": 34,
-      "category": "幽默"
+      "raw_hot": 293332,
+      "num": 253779,
+      "word": "张家辉陈伟霆爆裂点路透",
+      "onboard_time": 1662977316,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 288883,
@@ -819,20 +867,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 281438,
-      "num": 281438,
-      "word": "外籍男子疑当街骚扰妇女被扇耳光",
-      "onboard_time": 1662974862,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 278597,
-      "num": 278597,
-      "word": "重庆一男子踹狗致老人摔倒",
-      "onboard_time": 1662974737,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 288013,
+      "num": 207651,
+      "word": "檀健次荣梓杉新剧开播就被绑架",
+      "onboard_time": 1662976959,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 277566,
@@ -923,12 +963,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 240248,
-      "num": 240248,
-      "word": "女孩被弟弟打爸爸让其打回去",
-      "onboard_time": 1662974862,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 247631,
+      "num": 247631,
+      "word": "李元芳赛季新皮肤",
+      "onboard_time": 1662977619,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 238569,
@@ -1035,6 +1075,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 203170,
+      "num": 203170,
+      "word": "杀猪盘骗子屋里搜出一摞撩汉秘籍",
+      "onboard_time": 1662975340,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203135,
       "num": 174757,
       "word": "远离嫖娼别心动更别行动",
@@ -1083,11 +1131,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195186,
+      "num": 195186,
+      "word": "库尔勒全市临时静态管理7天",
+      "onboard_time": 1662976959,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193713,
       "num": 193713,
       "word": "再放这个风筝就不礼貌了",
       "onboard_time": 1662957756,
       "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 186952,
+      "num": 186952,
+      "word": "当孕妇穿上男装",
+      "onboard_time": 1662976297,
+      "rank": 37,
       "category": "幽默"
     },
     {
@@ -1112,6 +1176,22 @@
       "word": "女子在蜜雪冰城喝出木棍被扎",
       "onboard_time": 1662889596,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179479,
+      "num": 208102,
+      "word": "高校食堂推出西红柿炒月饼被抢空",
+      "onboard_time": 1662976721,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176085,
+      "num": 176085,
+      "word": "四川泸定的雪山身披金光",
+      "onboard_time": 1662976480,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1155,12 +1235,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138300,
-      "num": 138300,
-      "word": "杀猪盘骗子屋里搜出一摞撩汉秘籍",
-      "onboard_time": 1662975340,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 140570,
+      "num": 140570,
+      "word": "故宫满月壁纸",
+      "onboard_time": 1662978160,
+      "rank": 44,
+      "category": "旅游"
     },
     {
       "raw_hot": 124196,
@@ -1289,14 +1369,6 @@
       "onboard_time": 1662942993,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 91686,
-      "num": 91686,
-      "word": "舅舅买充气城堡给外甥玩耍",
-      "onboard_time": 1662975760,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 89627,
