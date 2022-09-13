@@ -1,6 +1,6 @@
 {
   "startTime": 1663000581861,
-  "endTime": 1663073472675,
+  "endTime": 1663075322459,
   "band_list": [
     {
       "raw_hot": 9785867,
@@ -195,6 +195,14 @@
       "category": "幽默,网红"
     },
     {
+      "raw_hot": 1564142,
+      "num": 1564142,
+      "word": "高颜值女博士当老师被误会是00后",
+      "onboard_time": 1663071569,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1547516,
       "num": 1547516,
       "word": "全自动核酸检测平台获批上市",
@@ -305,6 +313,14 @@
       "onboard_time": 1663036411,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1087370,
+      "num": 1087370,
+      "word": "普京任命新驻华大使",
+      "onboard_time": 1663071392,
+      "rank": 9,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1071796,
@@ -427,14 +443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 763602,
-      "num": 763602,
-      "word": "高颜值女博士当老师被误会是00后",
-      "onboard_time": 1663071569,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 750782,
       "num": 750782,
       "word": "中戏开学",
@@ -475,14 +483,6 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 711547,
-      "num": 711547,
-      "word": "普京任命新驻华大使",
-      "onboard_time": 1663071392,
-      "rank": 9,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 694416,
       "num": 583291,
       "word": "闫永强退出水果星球乐团",
@@ -497,6 +497,14 @@
       "onboard_time": 1663028435,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 679476,
+      "num": 620920,
+      "word": "周杰伦说做事要做到极致",
+      "onboard_time": 1663072473,
+      "rank": 20,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 677967,
@@ -520,6 +528,14 @@
       "word": "湘雅医院回应专家将莲子壳诊断为肿瘤",
       "onboard_time": 1662989860,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 657265,
+      "num": 657265,
+      "word": "女方悔婚拒退彩礼男子挂横幅寻人",
+      "onboard_time": 1663071334,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -587,8 +603,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 561875,
-      "num": 561875,
+      "raw_hot": 574574,
+      "num": 574574,
       "word": "这就是重庆的兔子嘛",
       "onboard_time": 1663069593,
       "rank": 13,
@@ -747,6 +763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 470453,
+      "num": 470453,
+      "word": "罚罪",
+      "onboard_time": 1662988183,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 469840,
       "num": 469840,
       "word": "北京地铁采取人工核验方式进站",
@@ -811,6 +835,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 445310,
+      "num": 445310,
+      "word": "图书馆未免承受了太多社死",
+      "onboard_time": 1663070853,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 444141,
       "num": 444141,
       "word": "被偷偷藏不住剧组砸无人机学生回应",
@@ -873,14 +905,6 @@
       "onboard_time": 1663043745,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 424969,
-      "num": 351771,
-      "word": "周杰伦说做事要做到极致",
-      "onboard_time": 1663072473,
-      "rank": 20,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 415339,
@@ -1011,14 +1035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 351001,
-      "num": 351001,
-      "word": "图书馆未免承受了太多社死",
-      "onboard_time": 1663070853,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 349632,
       "num": 283429,
       "word": "刘诗诗古装好飒",
@@ -1083,12 +1099,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 332606,
+      "num": 332606,
+      "word": "远嫁女儿第一次带宝宝回娘家",
+      "onboard_time": 1663072112,
+      "rank": 47,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 329769,
+      "num": 329769,
+      "word": "张杰音乐脱口秀首秀",
+      "onboard_time": 1663073673,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 327144,
       "num": 287104,
       "word": "试飞歼20有多危险",
       "onboard_time": 1663038093,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 325287,
+      "num": 325287,
+      "word": "武汉大学2022级本科生开学典礼",
+      "onboard_time": 1663073253,
+      "rank": 46,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 323674,
@@ -1267,6 +1307,22 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 283797,
+      "num": 238037,
+      "word": "心动的信号",
+      "onboard_time": 1663074153,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 282603,
+      "num": 282603,
+      "word": "美国8月CPI同比增长8.3%",
+      "onboard_time": 1663075113,
+      "rank": 26,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 279401,
       "num": 279401,
       "word": "ST洲际开盘一字涨停",
@@ -1443,14 +1499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 235072,
-      "num": 139713,
-      "word": "罚罪",
-      "onboard_time": 1662988183,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 234863,
       "num": 234863,
       "word": "台积电2纳米预计2025年量产",
@@ -1579,6 +1627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215267,
+      "num": 174712,
+      "word": "杨笠 搞笑女",
+      "onboard_time": 1663075053,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 215125,
       "num": 215125,
       "word": "4人悬崖边脚踩巨石用力摇晃",
@@ -1619,6 +1675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 202140,
+      "num": 202140,
+      "word": "我听网课都没有这么认真",
+      "onboard_time": 1663074332,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 201981,
       "num": 201981,
       "word": "想唱就唱的夏天",
@@ -1641,6 +1705,14 @@
       "onboard_time": 1663033895,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 201590,
+      "num": 201590,
+      "word": "哥大承认排名数据造假",
+      "onboard_time": 1663074513,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194262,
@@ -1715,20 +1787,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 181872,
+      "num": 181872,
+      "word": "乐高有多解压",
+      "onboard_time": 1663071933,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 177400,
       "num": 177400,
       "word": "一口生腌吃进去多少风险",
       "onboard_time": 1662978699,
       "rank": 26,
       "category": "美食"
-    },
-    {
-      "raw_hot": 174476,
-      "num": 174476,
-      "word": "女方悔婚拒退彩礼男子挂横幅寻人",
-      "onboard_time": 1663071334,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 172511,
@@ -1811,14 +1883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 149331,
-      "num": 149331,
-      "word": "乐高有多解压",
-      "onboard_time": 1663071933,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 146361,
       "num": 146361,
       "word": "北京疫情发布会",
@@ -1875,20 +1939,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 132158,
-      "num": 132158,
-      "word": "武汉大学2022级本科生开学典礼",
-      "onboard_time": 1663073253,
-      "rank": 46,
-      "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 131517,
-      "num": 131517,
-      "word": "远嫁女儿第一次带宝宝回娘家",
-      "onboard_time": 1663072112,
-      "rank": 47,
-      "category": "社会新闻,情感"
+      "raw_hot": 130215,
+      "num": 130215,
+      "word": "不顾女儿劝阻他冲去帮货车灭火",
+      "onboard_time": 1663074631,
+      "rank": 48,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 130104,
@@ -1961,6 +2017,14 @@
       "onboard_time": 1663055194,
       "rank": 49,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 111270,
+      "num": 111270,
+      "word": "KSG战胜BOA",
+      "onboard_time": 1663073853,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 108021,
