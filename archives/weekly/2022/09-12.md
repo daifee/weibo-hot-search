@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/12 00:31:49 ~ 2022/09/14 05:21:35
+本榜单时间：2022/09/12 00:31:49 ~ 2022/09/14 05:39:46
 </p>
 </blockquote>
 <p>
@@ -2955,6 +2955,12 @@ EDG与T1一组（热度：110381）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%233%E5%B2%81%E5%B9%BC%E7%AB%A5%E8%A2%AB%E7%89%B5%E7%BB%B3%E5%A4%A7%E7%8B%97%E5%92%AC%E4%BC%A4%23" target="weibo">
+3岁幼童被牵绳大狗咬伤（热度：96546）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%AE%89%E5%85%A8%E5%90%97%E4%B8%8A%E5%A4%B4%23" target="weibo">
 你安全吗上头（热度：94992）
 </a>
@@ -3017,12 +3023,6 @@ EDG与T1一组（热度：110381）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B2%AD%E5%85%AC%E5%AE%89%E9%80%9A%E6%8A%A5%E6%97%B6%E4%BB%A3%E5%B9%BF%E5%9C%BA%E6%8C%81%E5%88%80%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6%23" target="weibo">
 温岭公安通报时代广场持刀伤人事件（热度：76658）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%233%E5%B2%81%E5%B9%BC%E7%AB%A5%E8%A2%AB%E7%89%B5%E7%BB%B3%E5%A4%A7%E7%8B%97%E5%92%AC%E4%BC%A4%23" target="weibo">
-3岁幼童被牵绳大狗咬伤（热度：74375）
 </a>
 </li>
 
@@ -3171,20 +3171,26 @@ F1意大利大奖赛（热度：57047）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E7%8A%AC%E5%8D%8F%E5%8A%A9%E7%BC%B4%E6%AF%9223%E5%85%AC%E6%96%A4%E8%8E%B7%E5%A5%96%E7%81%AB%E8%85%BF%E8%82%A0%E4%B8%A4%E6%A0%B9%23" target="weibo">
+警犬协助缴毒23公斤获奖火腿肠两根（热度：13316）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%BF%E6%B0%B4%E9%9D%92%E5%B1%B1%E6%98%AF%E6%88%91%E5%AE%B6%23" target="weibo">
 绿水青山是我家（热度：11147）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A7%90%E5%AB%8C%E5%A6%88%E5%A6%88%E5%A4%AA%E5%87%B6%E4%BA%B2%E8%87%AA%E8%BE%85%E5%AF%BC%E5%BC%9F%E5%BC%9F%E8%A2%AB%E6%B0%94%E5%93%AD%23" target="weibo">
-姐姐嫌妈妈太凶亲自辅导弟弟被气哭（热度：9742）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%80%E4%B9%88%E9%83%BD%E8%83%BD%E6%AD%A6%E5%99%A8%E5%8C%96%E7%9A%84%E7%BE%8E%E5%9B%BD%E8%AF%A5%E5%81%9C%E6%89%8B%E4%BA%86%23" target="weibo">
+什么都能武器化的美国该停手了（热度：11007）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%80%E4%B9%88%E9%83%BD%E8%83%BD%E6%AD%A6%E5%99%A8%E5%8C%96%E7%9A%84%E7%BE%8E%E5%9B%BD%E8%AF%A5%E5%81%9C%E6%89%8B%E4%BA%86%23" target="weibo">
-什么都能武器化的美国该停手了（热度：8864）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A7%90%E5%AB%8C%E5%A6%88%E5%A6%88%E5%A4%AA%E5%87%B6%E4%BA%B2%E8%87%AA%E8%BE%85%E5%AF%BC%E5%BC%9F%E5%BC%9F%E8%A2%AB%E6%B0%94%E5%93%AD%23" target="weibo">
+姐姐嫌妈妈太凶亲自辅导弟弟被气哭（热度：9742）
 </a>
 </li>
 

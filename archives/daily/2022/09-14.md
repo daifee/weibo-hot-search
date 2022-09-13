@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/14 00:33:22 ~ 2022/09/14 05:21:35
+本榜单时间：2022/09/14 00:33:22 ~ 2022/09/14 05:39:46
 </p>
 </blockquote>
 <p>
@@ -297,6 +297,12 @@ ios16壁纸（热度：163215）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%233%E5%B2%81%E5%B9%BC%E7%AB%A5%E8%A2%AB%E7%89%B5%E7%BB%B3%E5%A4%A7%E7%8B%97%E5%92%AC%E4%BC%A4%23" target="weibo">
+3岁幼童被牵绳大狗咬伤（热度：96546）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%9B%9B%E6%AC%BE%E6%9C%BA%E5%9E%8B%E4%B8%8D%E6%94%AF%E6%8C%81%E7%94%B5%E9%87%8F%E7%99%BE%E5%88%86%E6%AF%94%23" target="weibo">
 苹果四款机型不支持电量百分比（热度：95123）
 </a>
@@ -345,12 +351,6 @@ ios16壁纸（热度：163215）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%233%E5%B2%81%E5%B9%BC%E7%AB%A5%E8%A2%AB%E7%89%B5%E7%BB%B3%E5%A4%A7%E7%8B%97%E5%92%AC%E4%BC%A4%23" target="weibo">
-3岁幼童被牵绳大狗咬伤（热度：74375）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%AE%87%E6%9D%A8%E7%8E%B2%E6%B7%B1%E6%83%85%E5%91%8A%E5%88%AB%23" target="weibo">
 陈宇杨玲深情告别（热度：61045）
 </a>
@@ -363,14 +363,20 @@ ios16壁纸（热度：163215）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A7%90%E5%AB%8C%E5%A6%88%E5%A6%88%E5%A4%AA%E5%87%B6%E4%BA%B2%E8%87%AA%E8%BE%85%E5%AF%BC%E5%BC%9F%E5%BC%9F%E8%A2%AB%E6%B0%94%E5%93%AD%23" target="weibo">
-姐姐嫌妈妈太凶亲自辅导弟弟被气哭（热度：9742）
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E7%8A%AC%E5%8D%8F%E5%8A%A9%E7%BC%B4%E6%AF%9223%E5%85%AC%E6%96%A4%E8%8E%B7%E5%A5%96%E7%81%AB%E8%85%BF%E8%82%A0%E4%B8%A4%E6%A0%B9%23" target="weibo">
+警犬协助缴毒23公斤获奖火腿肠两根（热度：13316）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%80%E4%B9%88%E9%83%BD%E8%83%BD%E6%AD%A6%E5%99%A8%E5%8C%96%E7%9A%84%E7%BE%8E%E5%9B%BD%E8%AF%A5%E5%81%9C%E6%89%8B%E4%BA%86%23" target="weibo">
-什么都能武器化的美国该停手了（热度：8864）
+什么都能武器化的美国该停手了（热度：11007）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A7%90%E5%AB%8C%E5%A6%88%E5%A6%88%E5%A4%AA%E5%87%B6%E4%BA%B2%E8%87%AA%E8%BE%85%E5%AF%BC%E5%BC%9F%E5%BC%9F%E8%A2%AB%E6%B0%94%E5%93%AD%23" target="weibo">
+姐姐嫌妈妈太凶亲自辅导弟弟被气哭（热度：9742）
 </a>
 </li>
 
