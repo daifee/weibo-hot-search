@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/13 12:52:31
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/13 13:07:02
 </p>
 </blockquote>
 <p>
@@ -82,7 +82,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%96%B9%E8%BE%9F%E8%B0%A3%23" target="weibo">
-王一博方辟谣（热度：7797096）
+王一博方辟谣（热度：7984319）
 </a>
 </li>
 
@@ -981,6 +981,12 @@ Doinb升级当爸爸（热度：2008327）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%B0%8F%E5%8D%8E%E6%AD%A3%E4%B8%8E%E7%96%91%E4%BC%BC%E5%B0%8F%E7%B1%B3%E5%A5%87%E7%94%B7%E5%AD%A9%E8%BF%9B%E8%A1%8CDNA%E6%AF%94%E5%AF%B9%23" target="weibo">
+杜小华正与疑似小米奇男孩进行DNA比对（热度：1997233）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%96%B9%E9%95%BF%E6%9C%9F%E5%AF%B9%E4%B8%AD%E5%9B%BD%E6%89%8B%E6%9C%BA%E7%94%A8%E6%88%B7%E6%97%A0%E5%B7%AE%E5%88%AB%E7%9B%91%E5%90%AC%23" target="weibo">
 美方长期对中国手机用户无差别监听（热度：1980728）
 </a>
@@ -1257,6 +1263,12 @@ Angelababy晒与狗狗合照（热度：1779691）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2300%E5%90%8E%E6%83%85%E4%BE%A3%E6%9C%AA%E5%A9%9A%E7%94%9F%E5%AD%90%E5%88%86%E6%89%8B%E6%8B%92%E5%85%BB%E5%AD%A9%E5%AD%90%23" target="weibo">
+00后情侣未婚生子分手拒养孩子（热度：1775171）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E7%8E%B2%E5%92%8C%E6%9C%A8%E6%9D%91%E6%8B%93%E5%93%89%E8%B5%B0%E7%A7%80%23" target="weibo">
 林志玲和木村拓哉走秀（热度：1772560）
 </a>
@@ -1307,12 +1319,6 @@ Angelababy晒与狗狗合照（热度：1779691）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A7%8B%E8%8A%82%E6%95%99%E5%B8%88%E8%8A%82%E5%8F%8C%E5%80%8D%E5%BF%AB%E4%B9%90%23" target="weibo">
 中秋节教师节双倍快乐（热度：1732556）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2300%E5%90%8E%E6%83%85%E4%BE%A3%E6%9C%AA%E5%A9%9A%E7%94%9F%E5%AD%90%E5%88%86%E6%89%8B%E6%8B%92%E5%85%BB%E5%AD%A9%E5%AD%90%23" target="weibo">
-00后情侣未婚生子分手拒养孩子（热度：1726370）
 </a>
 </li>
 
@@ -1475,6 +1481,12 @@ iPhone14 Plus（热度：1672968）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%20%E6%B1%AA%E8%8B%8F%E6%B3%B7%23" target="weibo">
 凤凰传奇 汪苏泷（热度：1629552）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%AE%8C14%E5%A4%A9%E7%8F%AD%E5%8F%88%E6%98%AF%E5%B0%8F%E9%95%BF%E5%81%87%23" target="weibo">
+上完14天班又是小长假（热度：1629316）
 </a>
 </li>
 
@@ -1715,12 +1727,6 @@ iPhone14颜色（热度：1547377）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E7%8E%B0%E9%A6%96%E4%BE%8B%E7%8C%B4%E7%97%98%E8%BE%93%E5%85%A5%E7%97%85%E4%BE%8B%23" target="weibo">
 香港现首例猴痘输入病例（热度：1514949）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%AE%8C14%E5%A4%A9%E7%8F%AD%E5%8F%88%E6%98%AF%E5%B0%8F%E9%95%BF%E5%81%87%23" target="weibo">
-上完14天班又是小长假（热度：1503258）
 </a>
 </li>
 
@@ -2819,12 +2825,6 @@ boss直聘公示涉性骚扰违规账号（热度：1144916）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%B7%E6%8A%8A%E8%A5%BF%E8%A3%85%E7%84%8A%E6%AD%BB%E5%9C%A8%E8%BA%AB%E4%B8%8A%23" target="weibo">
 请把西装焊死在身上（热度：1108930）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%B0%8F%E5%8D%8E%E6%AD%A3%E4%B8%8E%E7%96%91%E4%BC%BC%E5%B0%8F%E7%B1%B3%E5%A5%87%E7%94%B7%E5%AD%A9%E8%BF%9B%E8%A1%8CDNA%E6%AF%94%E5%AF%B9%23" target="weibo">
-杜小华正与疑似小米奇男孩进行DNA比对（热度：1107244）
 </a>
 </li>
 
