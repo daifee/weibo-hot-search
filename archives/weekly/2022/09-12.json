@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663097753684,
+  "endTime": 1663100734546,
   "band_list": [
     {
       "raw_hot": 9785867,
@@ -3763,6 +3763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120073,
+      "num": 120073,
+      "word": "复星集团董事长郭广昌发声",
+      "onboard_time": 1663096752,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119058,
       "num": 119058,
       "word": "你安全吗公交车色狼",
@@ -4187,12 +4195,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 24328,
-      "num": 24328,
-      "word": "复星集团董事长郭广昌发声",
-      "onboard_time": 1663096752,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 18748,
+      "num": 18748,
+      "word": "3岁幼童被牵绳大狗咬伤",
+      "onboard_time": 1663099631,
+      "rank": 29,
+      "category": "社会负面"
     },
     {
       "raw_hot": 13813,
@@ -4208,6 +4216,14 @@
       "word": "绿水青山是我家",
       "onboard_time": 1662873633,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8688,
+      "num": 8688,
+      "word": "姐姐嫌妈妈太凶亲自辅导弟弟被气哭",
+      "onboard_time": 1663100712,
+      "rank": 49,
       "category": "社会新闻"
     },
     {

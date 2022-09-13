@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1663097753684,
+  "endTime": 1663100734546,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -25539,6 +25539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120073,
+      "num": 120073,
+      "word": "复星集团董事长郭广昌发声",
+      "onboard_time": 1663096752,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119487,
       "num": 119487,
       "word": "陈幸同",
@@ -27091,14 +27099,6 @@
       "category": "体育,财经"
     },
     {
-      "raw_hot": 24328,
-      "num": 24328,
-      "word": "复星集团董事长郭广昌发声",
-      "onboard_time": 1663096752,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 24223,
       "num": 24223,
       "word": "永劫无间职业联赛nbpl",
@@ -27177,6 +27177,14 @@
       "onboard_time": 1662755830,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 18748,
+      "num": 18748,
+      "word": "3岁幼童被牵绳大狗咬伤",
+      "onboard_time": 1663099631,
+      "rank": 29,
+      "category": "社会负面"
     },
     {
       "raw_hot": 18125,
@@ -27265,6 +27273,14 @@
       "onboard_time": 1662754990,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 8688,
+      "num": 8688,
+      "word": "姐姐嫌妈妈太凶亲自辅导弟弟被气哭",
+      "onboard_time": 1663100712,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 8649,
