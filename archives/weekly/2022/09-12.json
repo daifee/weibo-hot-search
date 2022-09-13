@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663069084610,
+  "endTime": 1663073472675,
   "band_list": [
     {
       "raw_hot": 9785867,
@@ -211,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2366566,
+      "num": 2366566,
+      "word": "微信坚决抵制无底线追星",
+      "onboard_time": 1663064614,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 2335033,
       "num": 2335033,
       "word": "北京警方通报李易峰多次嫖娼",
@@ -232,14 +240,6 @@
       "word": "消息称iPhone15要改名",
       "onboard_time": 1663045248,
       "rank": 39,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 2078530,
-      "num": 2078530,
-      "word": "微信坚决抵制无底线追星",
-      "onboard_time": 1663064614,
-      "rank": 48,
       "category": "科技"
     },
     {
@@ -579,6 +579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1119085,
+      "num": 1119085,
+      "word": "丈夫踩蛇被吓飞妻子单手拎起",
+      "onboard_time": 1663067673,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1113418,
       "num": 1113418,
       "word": "3男孩跪楼道里饮料代酒桃园结义",
@@ -643,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1016673,
+      "num": 1016673,
+      "word": "长沙发现2例新冠病毒无症状感染者",
+      "onboard_time": 1663067554,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1016328,
       "num": 524118,
       "word": "刘浩存林一脱轨开机路透",
@@ -681,6 +697,14 @@
       "onboard_time": 1662965735,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 980559,
+      "num": 980559,
+      "word": "这就是中式美人吧",
+      "onboard_time": 1663071630,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 959052,
@@ -859,6 +883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 763602,
+      "num": 763602,
+      "word": "高颜值女博士当老师被误会是00后",
+      "onboard_time": 1663071569,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 750782,
       "num": 750782,
       "word": "中戏开学",
@@ -905,6 +937,14 @@
       "onboard_time": 1662911858,
       "rank": 9,
       "category": "自然,社会新闻"
+    },
+    {
+      "raw_hot": 711547,
+      "num": 711547,
+      "word": "普京任命新驻华大使",
+      "onboard_time": 1663071392,
+      "rank": 9,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 706679,
@@ -1147,20 +1187,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 561875,
+      "num": 561875,
+      "word": "这就是重庆的兔子嘛",
+      "onboard_time": 1663069593,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 559588,
       "num": 559588,
       "word": "iOS16将支持清洁能源充电",
       "onboard_time": 1663042596,
       "rank": 17,
       "category": "科技"
-    },
-    {
-      "raw_hot": 558721,
-      "num": 558721,
-      "word": "长沙发现2例新冠病毒无症状感染者",
-      "onboard_time": 1663067554,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 555146,
@@ -1217,6 +1257,14 @@
       "onboard_time": 1663043201,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 530183,
+      "num": 530183,
+      "word": "马嘉祺开学",
+      "onboard_time": 1663072413,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 529538,
@@ -1539,6 +1587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 454471,
+      "num": 454471,
+      "word": "碰到一只社恐小狗",
+      "onboard_time": 1663069175,
+      "rank": 16,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 450110,
       "num": 450110,
       "word": "一只榨菜鲜肉月饼相当于4碗饭",
@@ -1553,6 +1609,14 @@
       "onboard_time": 1662969935,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 447507,
+      "num": 447507,
+      "word": "候车室里外放刷视频被邻座扇耳光",
+      "onboard_time": 1663068873,
+      "rank": 45,
+      "category": "社会负面"
     },
     {
       "raw_hot": 444141,
@@ -1587,14 +1651,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 430119,
-      "num": 430119,
-      "word": "丈夫踩蛇被吓飞妻子单手拎起",
-      "onboard_time": 1663067673,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 429556,
       "num": 429556,
       "word": "虞书欣片场被鸭子吓到",
@@ -1625,6 +1681,14 @@
       "onboard_time": 1663043745,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 424969,
+      "num": 351771,
+      "word": "周杰伦说做事要做到极致",
+      "onboard_time": 1663072473,
+      "rank": 20,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 422619,
@@ -1827,6 +1891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 363531,
+      "num": 351664,
+      "word": "汪海林回应叱咤之城稿费",
+      "onboard_time": 1663071452,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 361955,
       "num": 361955,
       "word": "成都发布",
@@ -1859,12 +1931,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 353613,
+      "num": 351515,
+      "word": "脱口秀天花板pk好刺激",
+      "onboard_time": 1663071630,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 351726,
       "num": 170801,
       "word": "王心凌官宣星星的约定",
       "onboard_time": 1662961834,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 351001,
+      "num": 351001,
+      "word": "图书馆未免承受了太多社死",
+      "onboard_time": 1663070853,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 349632,
@@ -1881,6 +1969,14 @@
       "onboard_time": 1662938303,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 346598,
+      "num": 346598,
+      "word": "这下终于可以睡个好觉了",
+      "onboard_time": 1663067254,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 344849,
@@ -2137,6 +2233,14 @@
       "onboard_time": 1663028074,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 300435,
+      "num": 300435,
+      "word": "9月国产游戏版号公布",
+      "onboard_time": 1663070195,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 300264,
@@ -2691,14 +2795,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 223714,
-      "num": 223714,
-      "word": "这下终于可以睡个好觉了",
-      "onboard_time": 1663067254,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 222945,
       "num": 167885,
       "word": "2022艾美奖获奖名单",
@@ -2907,6 +3003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194262,
+      "num": 194262,
+      "word": "严浩翔粉色衬衫随拍照",
+      "onboard_time": 1663073371,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193713,
       "num": 193713,
       "word": "再放这个风筝就不礼貌了",
@@ -3025,6 +3129,14 @@
       "onboard_time": 1662986199,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 174476,
+      "num": 174476,
+      "word": "女方悔婚拒退彩礼男子挂横幅寻人",
+      "onboard_time": 1663071334,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172511,
@@ -3163,6 +3275,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 149331,
+      "num": 149331,
+      "word": "乐高有多解压",
+      "onboard_time": 1663071933,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145011,
       "num": 145011,
       "word": "熊猫的背影有多萌",
@@ -3211,12 +3331,20 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 130903,
-      "num": 130903,
-      "word": "候车室里外放刷视频被邻座扇耳光",
-      "onboard_time": 1663068873,
-      "rank": 45,
-      "category": "社会负面"
+      "raw_hot": 132158,
+      "num": 132158,
+      "word": "武汉大学2022级本科生开学典礼",
+      "onboard_time": 1663073253,
+      "rank": 46,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 131517,
+      "num": 131517,
+      "word": "远嫁女儿第一次带宝宝回娘家",
+      "onboard_time": 1663072112,
+      "rank": 47,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 130104,
