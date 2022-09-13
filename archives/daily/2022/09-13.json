@@ -1,6 +1,6 @@
 {
   "startTime": 1663000581861,
-  "endTime": 1663075322459,
+  "endTime": 1663077237364,
   "band_list": [
     {
       "raw_hot": 9785867,
@@ -171,6 +171,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 1747220,
+      "num": 1747220,
+      "word": "高颜值女博士当老师被误会是00后",
+      "onboard_time": 1663071569,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1658013,
       "num": 1658013,
       "word": "老板连摊4张饼都失败直接歇业",
@@ -193,14 +201,6 @@
       "onboard_time": 1662980737,
       "rank": 1,
       "category": "幽默,网红"
-    },
-    {
-      "raw_hot": 1564142,
-      "num": 1564142,
-      "word": "高颜值女博士当老师被误会是00后",
-      "onboard_time": 1663071569,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1547516,
@@ -257,6 +257,14 @@
       "onboard_time": 1663026388,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1361070,
+      "num": 1361070,
+      "word": "澳大利亚发生袋鼠杀人事件",
+      "onboard_time": 1663075713,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1357151,
@@ -328,6 +336,14 @@
       "word": "杜小华与疑似男孩DNA比对不匹配",
       "onboard_time": 1663043019,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1048579,
+      "num": 1048579,
+      "word": "女方悔婚拒退彩礼男子挂横幅寻人",
+      "onboard_time": 1663071334,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -411,6 +427,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 812485,
+      "num": 812485,
+      "word": "周杰伦说做事要做到极致",
+      "onboard_time": 1663072473,
+      "rank": 20,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 810694,
       "num": 609861,
       "word": "赵丽颖金九封面预告",
@@ -467,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 729247,
+      "num": 729247,
+      "word": "哥大承认排名数据造假",
+      "onboard_time": 1663074513,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 722846,
       "num": 722846,
       "word": "长沙疫情防控",
@@ -499,14 +531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 679476,
-      "num": 620920,
-      "word": "周杰伦说做事要做到极致",
-      "onboard_time": 1663072473,
-      "rank": 20,
-      "category": "艺人,游戏"
-    },
-    {
       "raw_hot": 677967,
       "num": 677967,
       "word": "苹果四款机型不支持电量百分比",
@@ -528,14 +552,6 @@
       "word": "湘雅医院回应专家将莲子壳诊断为肿瘤",
       "onboard_time": 1662989860,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 657265,
-      "num": 657265,
-      "word": "女方悔婚拒退彩礼男子挂横幅寻人",
-      "onboard_time": 1663071334,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -609,6 +625,14 @@
       "onboard_time": 1663069593,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 572825,
+      "num": 572825,
+      "word": "远嫁女儿第一次带宝宝回娘家",
+      "onboard_time": 1663072112,
+      "rank": 47,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 559588,
@@ -739,6 +763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 509054,
+      "num": 509054,
+      "word": "张杰 好笑",
+      "onboard_time": 1663076194,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 501473,
       "num": 501473,
       "word": "羊了个羊崩了",
@@ -867,12 +899,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 442234,
+      "num": 442234,
+      "word": "杨笠 搞笑女",
+      "onboard_time": 1663075053,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 433383,
+      "num": 416032,
+      "word": "钟辰乐直播",
+      "onboard_time": 1663076854,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 433174,
       "num": 433174,
       "word": "iPhone14系列官方维修价",
       "onboard_time": 1663060236,
       "rank": 23,
       "category": "科技"
+    },
+    {
+      "raw_hot": 429832,
+      "num": 411632,
+      "word": "张远刘美含互怼等不到明天",
+      "onboard_time": 1663075834,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 429556,
@@ -920,6 +976,14 @@
       "word": "36岁歌手嚼槟榔6年因口腔癌过世",
       "onboard_time": 1662979358,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 406719,
+      "num": 406719,
+      "word": "上海一公园被指摆放日本人雕塑群",
+      "onboard_time": 1663076253,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -1027,11 +1091,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 359546,
+      "num": 359546,
+      "word": "武汉大学2022级本科生开学典礼",
+      "onboard_time": 1663073253,
+      "rank": 46,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 353613,
       "num": 351515,
       "word": "脱口秀天花板pk好刺激",
       "onboard_time": 1663071630,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 352284,
+      "num": 352284,
+      "word": "脱口秀大会",
+      "onboard_time": 1663076012,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -1099,14 +1179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 332606,
-      "num": 332606,
-      "word": "远嫁女儿第一次带宝宝回娘家",
-      "onboard_time": 1663072112,
-      "rank": 47,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 329769,
       "num": 329769,
       "word": "张杰音乐脱口秀首秀",
@@ -1115,20 +1187,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 327574,
+      "num": 327574,
+      "word": "长沙雨花区发现3例新冠无症状",
+      "onboard_time": 1663075834,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 327144,
       "num": 287104,
       "word": "试飞歼20有多危险",
       "onboard_time": 1663038093,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 325287,
-      "num": 325287,
-      "word": "武汉大学2022级本科生开学典礼",
-      "onboard_time": 1663073253,
-      "rank": 46,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 323674,
@@ -1251,6 +1323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 293599,
+      "num": 265532,
+      "word": "心动的信号",
+      "onboard_time": 1663074153,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 293335,
       "num": 217375,
       "word": "张彬彬rua虞书欣的脸",
@@ -1305,14 +1385,6 @@
       "onboard_time": 1663056514,
       "rank": 26,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 283797,
-      "num": 238037,
-      "word": "心动的信号",
-      "onboard_time": 1663074153,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 282603,
@@ -1393,6 +1465,14 @@
       "onboard_time": 1663058912,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 264858,
+      "num": 264858,
+      "word": "我听网课都没有这么认真",
+      "onboard_time": 1663074332,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 261419,
@@ -1595,6 +1675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221840,
+      "num": 168165,
+      "word": "邱瑞 好笑",
+      "onboard_time": 1663075713,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217776,
       "num": 138314,
       "word": "心疼费启鸣演的齐颂",
@@ -1625,14 +1713,6 @@
       "onboard_time": 1662972998,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 215267,
-      "num": 174712,
-      "word": "杨笠 搞笑女",
-      "onboard_time": 1663075053,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 215125,
@@ -1675,10 +1755,10 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 202140,
-      "num": 202140,
-      "word": "我听网课都没有这么认真",
-      "onboard_time": 1663074332,
+      "raw_hot": 202481,
+      "num": 202481,
+      "word": "当人类开始沉迷于狗狗",
+      "onboard_time": 1663075474,
       "rank": 36,
       "category": "幽默"
     },
@@ -1705,14 +1785,6 @@
       "onboard_time": 1663033895,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 201590,
-      "num": 201590,
-      "word": "哥大承认排名数据造假",
-      "onboard_time": 1663074513,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 194262,
@@ -1907,11 +1979,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144848,
+      "num": 144848,
+      "word": "原来不洗头也能精致出门",
+      "onboard_time": 1663076494,
+      "rank": 46,
+      "category": "美妆,时尚"
+    },
+    {
       "raw_hot": 141997,
       "num": 141997,
       "word": "谢谢有被健康到",
       "onboard_time": 1662994183,
       "rank": 29,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 137853,
+      "num": 137853,
+      "word": "狮子也是小猫咪呀",
+      "onboard_time": 1663076975,
+      "rank": 48,
       "category": "幽默"
     },
     {
@@ -1977,6 +2065,14 @@
       "onboard_time": 1662981639,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121151,
+      "num": 121151,
+      "word": "提前激活iPhone14每台罚款20万",
+      "onboard_time": 1663077156,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 120561,
@@ -2115,6 +2211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58918,
+      "num": 1451872,
+      "word": "消防员车上挂满泸定人送的哈达",
+      "onboard_time": 1663076555,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57786,
       "num": 57786,
       "word": "大爷修鞋被熏到拿纸塞鼻孔",
@@ -2191,6 +2295,9 @@
     },
     {
       "word": "#上合组织元首理事会#"
+    },
+    {
+      "word": "#习主席的国礼故事#"
     }
   ]
 }

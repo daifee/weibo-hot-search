@@ -1,0 +1,410 @@
+{
+  "runTime": 1663077237364,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1982693,
+        "num": 1982693,
+        "word": "微信坚决抵制无底线追星",
+        "onboard_time": 1663064614,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1747220,
+        "num": 1747220,
+        "word": "高颜值女博士当老师被误会是00后",
+        "onboard_time": 1663071569,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58918,
+        "num": 1451872,
+        "word": "消防员车上挂满泸定人送的哈达",
+        "onboard_time": 1663076555,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1361070,
+        "num": 1361070,
+        "word": "澳大利亚发生袋鼠杀人事件",
+        "onboard_time": 1663075713,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1048579,
+        "num": 1048579,
+        "word": "女方悔婚拒退彩礼男子挂横幅寻人",
+        "onboard_time": 1663071334,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1023889,
+        "num": 1023889,
+        "word": "网传天天向上常驻嘉宾名单",
+        "onboard_time": 1663066775,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 953246,
+        "num": 953246,
+        "word": "高三生3小时吃4片止痛药肾衰竭",
+        "onboard_time": 1663057354,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 829081,
+        "num": 829081,
+        "word": "这就是中式美人吧",
+        "onboard_time": 1663071630,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 821337,
+        "num": 821337,
+        "word": "普京任命新驻华大使",
+        "onboard_time": 1663071392,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 812485,
+        "num": 812485,
+        "word": "周杰伦说做事要做到极致",
+        "onboard_time": 1663072473,
+        "rank": 9,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 745088,
+        "num": 745088,
+        "word": "唐山打人案今日公开审理",
+        "onboard_time": 1663063053,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 729247,
+        "num": 729247,
+        "word": "哥大承认排名数据造假",
+        "onboard_time": 1663074513,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572825,
+        "num": 572825,
+        "word": "远嫁女儿第一次带宝宝回娘家",
+        "onboard_time": 1663072112,
+        "rank": 12,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 509054,
+        "num": 509054,
+        "word": "张杰 好笑",
+        "onboard_time": 1663076194,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 466319,
+        "num": 466319,
+        "word": "罚罪",
+        "onboard_time": 1663073853,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 453844,
+        "num": 453844,
+        "word": "丈夫踩蛇被吓飞妻子单手拎起",
+        "onboard_time": 1663067673,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446678,
+        "num": 446678,
+        "word": "张朝阳称iPhone14紫色光谱里不存在",
+        "onboard_time": 1663060777,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 442234,
+        "num": 442234,
+        "word": "杨笠 搞笑女",
+        "onboard_time": 1663075053,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 432056,
+        "num": 432056,
+        "word": "长沙发现2例新冠病毒无症状感染者",
+        "onboard_time": 1663067554,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425019,
+        "num": 425019,
+        "word": "这就是重庆的兔子嘛",
+        "onboard_time": 1663069593,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 433383,
+        "num": 416032,
+        "word": "钟辰乐直播",
+        "onboard_time": 1663076854,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429832,
+        "num": 411632,
+        "word": "张远刘美含互怼等不到明天",
+        "onboard_time": 1663075834,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406719,
+        "num": 406719,
+        "word": "上海一公园被指摆放日本人雕塑群",
+        "onboard_time": 1663076253,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359546,
+        "num": 359546,
+        "word": "武汉大学2022级本科生开学典礼",
+        "onboard_time": 1663073253,
+        "rank": 23,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 352284,
+        "num": 352284,
+        "word": "脱口秀大会",
+        "onboard_time": 1663076012,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327574,
+        "num": 327574,
+        "word": "长沙雨花区发现3例新冠无症状",
+        "onboard_time": 1663075834,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321059,
+        "num": 321059,
+        "word": "图书馆未免承受了太多社死",
+        "onboard_time": 1663070853,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 319644,
+        "num": 319644,
+        "word": "苹果四款机型不支持电量百分比",
+        "onboard_time": 1663061735,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 288953,
+        "num": 288953,
+        "word": "ios16壁纸",
+        "onboard_time": 1663062036,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 267143,
+        "num": 267143,
+        "word": "碰到一只社恐小狗",
+        "onboard_time": 1663069175,
+        "rank": 29,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 342273,
+        "num": 266184,
+        "word": "Twins不承认吴谨言的粤语是自己教的",
+        "onboard_time": 1663061137,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297644,
+        "num": 265607,
+        "word": "刘宇宁手机屏保是宁远舟",
+        "onboard_time": 1663065034,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 293599,
+        "num": 265532,
+        "word": "心动的信号",
+        "onboard_time": 1663074153,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264858,
+        "num": 264858,
+        "word": "我听网课都没有这么认真",
+        "onboard_time": 1663074332,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 244541,
+        "num": 244541,
+        "word": "候车室里外放刷视频被邻座扇耳光",
+        "onboard_time": 1663068873,
+        "rank": 34,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 221848,
+        "num": 221848,
+        "word": "那英 周迅",
+        "onboard_time": 1663051355,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202481,
+        "num": 202481,
+        "word": "当人类开始沉迷于狗狗",
+        "onboard_time": 1663075474,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176329,
+        "num": 176329,
+        "word": "9月国产游戏版号公布",
+        "onboard_time": 1663070195,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175086,
+        "num": 175086,
+        "word": "乐高有多解压",
+        "onboard_time": 1663071933,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170603,
+        "num": 170603,
+        "word": "羊了个羊",
+        "onboard_time": 1663025968,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 221840,
+        "num": 168165,
+        "word": "邱瑞 好笑",
+        "onboard_time": 1663075713,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193704,
+        "num": 167575,
+        "word": "偷偷藏不住剧组道歉",
+        "onboard_time": 1663054414,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164969,
+        "num": 164969,
+        "word": "美国限制芯片出口是科技霸权主义",
+        "onboard_time": 1663061557,
+        "rank": 42,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 164486,
+        "num": 164486,
+        "word": "这下终于可以睡个好觉了",
+        "onboard_time": 1663067254,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161838,
+        "num": 161838,
+        "word": "东软",
+        "onboard_time": 1663060112,
+        "rank": 44,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 159597,
+        "num": 159597,
+        "word": "iPhone14系列官方维修价",
+        "onboard_time": 1663060236,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 144848,
+        "num": 144848,
+        "word": "原来不洗头也能精致出门",
+        "onboard_time": 1663076494,
+        "rank": 46,
+        "category": "美妆,时尚"
+      },
+      {
+        "raw_hot": 138053,
+        "num": 138053,
+        "word": "要是没录下来后悔一辈子",
+        "onboard_time": 1663063954,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137853,
+        "num": 137853,
+        "word": "狮子也是小猫咪呀",
+        "onboard_time": 1663076975,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121151,
+        "num": 121151,
+        "word": "提前激活iPhone14每台罚款20万",
+        "onboard_time": 1663077156,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席的国礼故事#"
+    }
+  }
+}
