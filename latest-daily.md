@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/14 00:33:22 ~ 2022/09/14 01:32:03
+本榜单时间：2022/09/14 00:33:22 ~ 2022/09/14 01:48:27
 </p>
 </blockquote>
 <p>
@@ -321,6 +321,12 @@ ios16壁纸（热度：163215）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%89%8D%E4%B8%8D%E4%BC%9A%E8%A7%89%E5%BE%97%E5%B9%BC%E7%A8%9A%23" target="weibo">
+大学生才不会觉得幼稚（热度：88344）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%E5%85%A8%E5%91%98%E5%BC%80%E6%9C%BA%E7%85%A7%23" target="weibo">
 一念关山全员开机照（热度：79388）
 </a>
@@ -339,8 +345,8 @@ ios16壁纸（热度：163215）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%89%8D%E4%B8%8D%E4%BC%9A%E8%A7%89%E5%BE%97%E5%B9%BC%E7%A8%9A%23" target="weibo">
-大学生才不会觉得幼稚（热度：57365）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%B8%A6%E5%AE%9D%E5%AE%9D%E7%9C%8B%E7%8C%A9%E7%8C%A9%E5%8F%8D%E8%A2%AB%E5%9B%B4%E8%A7%82%23" target="weibo">
+妈妈带宝宝看猩猩反被围观（热度：47008）
 </a>
 </li>
 

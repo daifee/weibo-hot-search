@@ -1,6 +1,6 @@
 {
   "startTime": 1663086802432,
-  "endTime": 1663090323754,
+  "endTime": 1663091307413,
   "band_list": [
     {
       "raw_hot": 4428299,
@@ -411,6 +411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 88344,
+      "num": 88344,
+      "word": "大学生才不会觉得幼稚",
+      "onboard_time": 1663089678,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 79388,
       "num": 79388,
       "word": "一念关山全员开机照",
@@ -435,12 +443,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 57365,
-      "num": 57365,
-      "word": "大学生才不会觉得幼稚",
-      "onboard_time": 1663089678,
-      "rank": 40,
-      "category": "幽默"
+      "raw_hot": 47008,
+      "num": 47008,
+      "word": "妈妈带宝宝看猩猩反被围观",
+      "onboard_time": 1663090336,
+      "rank": 41,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
