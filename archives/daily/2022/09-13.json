@@ -1,6 +1,6 @@
 {
   "startTime": 1663000581861,
-  "endTime": 1663068059171,
+  "endTime": 1663069084610,
   "band_list": [
     {
       "raw_hot": 9785867,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3222365,
+      "num": 3222365,
+      "word": "网传天天向上常驻嘉宾名单",
+      "onboard_time": 1663066775,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3164423,
       "num": 3164423,
       "word": "那英 周迅",
@@ -49,14 +57,6 @@
       "onboard_time": 1663025968,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 2776298,
-      "num": 2776298,
-      "word": "网传天天向上常驻嘉宾名单",
-      "onboard_time": 1663066775,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 2680649,
@@ -113,6 +113,14 @@
       "onboard_time": 1662987699,
       "rank": 20,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 2078530,
+      "num": 2078530,
+      "word": "微信坚决抵制无底线追星",
+      "onboard_time": 1663064614,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 1901253,
@@ -185,14 +193,6 @@
       "onboard_time": 1662980737,
       "rank": 1,
       "category": "幽默,网红"
-    },
-    {
-      "raw_hot": 1595686,
-      "num": 1595686,
-      "word": "微信坚决抵制无底线追星",
-      "onboard_time": 1663064614,
-      "rank": 48,
-      "category": "科技"
     },
     {
       "raw_hot": 1547516,
@@ -555,6 +555,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 558721,
+      "num": 558721,
+      "word": "长沙发现2例新冠病毒无症状感染者",
+      "onboard_time": 1663067554,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 554374,
       "num": 554374,
       "word": "曾志伟cos阿妮亚",
@@ -769,6 +777,14 @@
       "onboard_time": 1663060236,
       "rank": 23,
       "category": "科技"
+    },
+    {
+      "raw_hot": 430119,
+      "num": 430119,
+      "word": "丈夫踩蛇被吓飞妻子单手拎起",
+      "onboard_time": 1663067673,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 429556,
@@ -1163,14 +1179,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 275607,
-      "num": 275607,
-      "word": "长沙发现2例新冠病毒无症状感染者",
-      "onboard_time": 1663067554,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 275233,
       "num": 275233,
       "word": "名侦探柯南零的日常引进",
@@ -1240,6 +1248,14 @@
       "word": "断桥网播定档9月16日",
       "onboard_time": 1663044948,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 252548,
+      "num": 252548,
+      "word": "檀健次新剧状态",
+      "onboard_time": 1663067434,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -1395,14 +1411,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 228167,
-      "num": 228167,
-      "word": "檀健次新剧状态",
-      "onboard_time": 1663067434,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 226270,
       "num": 226270,
       "word": "上班睡着的条件",
@@ -1417,6 +1425,14 @@
       "onboard_time": 1663036112,
       "rank": 47,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 223714,
+      "num": 223714,
+      "word": "这下终于可以睡个好觉了",
+      "onboard_time": 1663067254,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 222945,
@@ -1651,28 +1667,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 159828,
-      "num": 159828,
-      "word": "这下终于可以睡个好觉了",
-      "onboard_time": 1663067254,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 159200,
       "num": 159200,
       "word": "阴阳师",
       "onboard_time": 1663026029,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 157864,
-      "num": 157864,
-      "word": "丈夫踩蛇被吓飞妻子单手拎起",
-      "onboard_time": 1663067673,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 157737,
@@ -1755,6 +1755,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 130903,
+      "num": 130903,
+      "word": "候车室里外放刷视频被邻座扇耳光",
+      "onboard_time": 1663068873,
+      "rank": 45,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 130104,
       "num": 130104,
       "word": "北京地铁全线车站闸机无法查验健康码",
@@ -1801,6 +1809,14 @@
       "onboard_time": 1662981578,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119058,
+      "num": 119058,
+      "word": "你安全吗公交车色狼",
+      "onboard_time": 1663065995,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 116563,
@@ -1915,19 +1931,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57152,
+      "num": 512044,
+      "word": "浙江205支救援队伍联系方式",
+      "onboard_time": 1663066833,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49343,
       "num": 49343,
       "word": "浙江教师业绩突出获奖一套房",
       "onboard_time": 1662980439,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 45940,
-      "num": 512044,
-      "word": "浙江205支救援队伍联系方式",
-      "onboard_time": 1663066833,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
