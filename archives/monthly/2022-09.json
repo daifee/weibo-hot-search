@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1663080308132,
+  "endTime": 1663082775470,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -59,20 +59,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 9470219,
+      "num": 9470219,
+      "word": "人民网评张翰新剧",
+      "onboard_time": 1663077877,
+      "rank": 47,
+      "category": "影视,社会新闻"
+    },
+    {
       "raw_hot": 9384525,
       "num": 9384525,
       "word": "魏晨回复快乐再出发制片人",
       "onboard_time": 1662868471,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 8971397,
-      "num": 8971397,
-      "word": "人民网评张翰新剧",
-      "onboard_time": 1663077877,
-      "rank": 47,
-      "category": "影视,社会新闻"
     },
     {
       "raw_hot": 8812909,
@@ -2275,6 +2275,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 1568047,
+      "num": 1568047,
+      "word": "任天堂",
+      "onboard_time": 1663079504,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1565702,
       "num": 1540404,
       "word": "三亚00后老板中秋扣员工50%工资代尽孝",
@@ -2521,6 +2529,14 @@
       "onboard_time": 1662600686,
       "rank": 0,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1468683,
+      "num": 1468683,
+      "word": "杨笠 你不懂男人",
+      "onboard_time": 1663078056,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1465121,
@@ -3113,6 +3129,14 @@
       "onboard_time": 1662435089,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1323862,
+      "num": 655718,
+      "word": "戈达尔选择安乐死离世",
+      "onboard_time": 1663079021,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 1321239,
@@ -4883,6 +4907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 953805,
+      "num": 620548,
+      "word": "东八区的先生们",
+      "onboard_time": 1663080761,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 953221,
       "num": 953221,
       "word": "虞书欣前有小兰花后有虞美人",
@@ -5169,14 +5201,6 @@
       "onboard_time": 1662687871,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 925417,
-      "num": 925417,
-      "word": "杨笠 你不懂男人",
-      "onboard_time": 1663078056,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 925131,
@@ -6569,14 +6593,6 @@
       "onboard_time": 1662780324,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 748899,
-      "num": 655718,
-      "word": "戈达尔选择安乐死离世",
-      "onboard_time": 1663079021,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 748429,
@@ -8987,6 +9003,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 537022,
+      "num": 537022,
+      "word": "谈恋爱的唯一目的 就是吃苦",
+      "onboard_time": 1663081122,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 536775,
       "num": 536775,
       "word": "中国科学家在月壤中发现存在高含量水",
@@ -9283,6 +9307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 522002,
+      "num": 522002,
+      "word": "20岁大学生用车床剥生鸡蛋不破不漏",
+      "onboard_time": 1663077996,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 520538,
       "num": 295703,
       "word": "极限挑战",
@@ -9521,6 +9553,14 @@
       "onboard_time": 1662011308,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 508308,
+      "num": 508308,
+      "word": "塞尔达传说王国之泪",
+      "onboard_time": 1663081240,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 508277,
@@ -12331,6 +12371,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 392569,
+      "num": 392569,
+      "word": "男生校裤画红蜘蛛号召停止经期嘲笑",
+      "onboard_time": 1663080641,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 392528,
       "num": 392528,
       "word": "沉香重华渣爹线太蛊了",
@@ -13243,14 +13291,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 367314,
-      "num": 367314,
-      "word": "任天堂",
-      "onboard_time": 1663079504,
-      "rank": 17,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 367107,
       "num": 367107,
       "word": "曝知乎在用户截图中嵌入盲水印",
@@ -13611,6 +13651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 357013,
+      "num": 357013,
+      "word": "美股",
+      "onboard_time": 1663080224,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 356973,
       "num": 356973,
       "word": "蔚来卖一辆车亏损超10万",
@@ -13705,6 +13753,14 @@
       "onboard_time": 1662350909,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 354397,
+      "num": 354397,
+      "word": "经销商预计iPhone14Pro溢价千元左右",
+      "onboard_time": 1663077455,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 354386,
@@ -13825,6 +13881,14 @@
       "onboard_time": 1662390395,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351096,
+      "num": 351096,
+      "word": "父母为什么理解不了你的累",
+      "onboard_time": 1663078780,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 350797,
@@ -14907,14 +14971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 321067,
-      "num": 321067,
-      "word": "20岁大学生用车床剥生鸡蛋不破不漏",
-      "onboard_time": 1663077996,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 321033,
       "num": 321033,
       "word": "东莞一废弃厂房发生火灾致7死",
@@ -15915,6 +15971,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 300164,
+      "num": 300164,
+      "word": "羊了个羊 bug",
+      "onboard_time": 1663081481,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 299905,
       "num": 299905,
       "word": "北京通州划定高中风险区",
@@ -15969,6 +16033,14 @@
       "onboard_time": 1662113666,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 298919,
+      "num": 236286,
+      "word": "挑选男朋友就好比奶奶挑排骨",
+      "onboard_time": 1663078780,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 298853,
@@ -17409,14 +17481,6 @@
       "onboard_time": 1662428788,
       "rank": 22,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 274087,
-      "num": 274087,
-      "word": "经销商预计iPhone14Pro溢价千元左右",
-      "onboard_time": 1663077455,
-      "rank": 48,
-      "category": "科技"
     },
     {
       "raw_hot": 273872,
@@ -19435,14 +19499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 236286,
-      "num": 236286,
-      "word": "挑选男朋友就好比奶奶挑排骨",
-      "onboard_time": 1663078780,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 236169,
       "num": 188311,
       "word": "吴克群狂炫马頔炸酱面被点名",
@@ -19929,14 +19985,6 @@
       "onboard_time": 1662634771,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 227387,
-      "num": 227387,
-      "word": "父母为什么理解不了你的累",
-      "onboard_time": 1663078780,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 227218,
@@ -23185,6 +23233,14 @@
       "onboard_time": 1662462210,
       "rank": 38,
       "category": "科技"
+    },
+    {
+      "raw_hot": 166239,
+      "num": 166239,
+      "word": "火焰纹章Engage公布",
+      "onboard_time": 1663081780,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 166224,

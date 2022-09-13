@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663080308132,
+  "endTime": 1663082775470,
   "band_list": [
     {
       "raw_hot": 9785867,
@@ -11,8 +11,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 8971397,
-      "num": 8971397,
+      "raw_hot": 9470219,
+      "num": 9470219,
       "word": "人民网评张翰新剧",
       "onboard_time": 1663077877,
       "rank": 47,
@@ -427,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1568047,
+      "num": 1568047,
+      "word": "任天堂",
+      "onboard_time": 1663079504,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1547516,
       "num": 1547516,
       "word": "全自动核酸检测平台获批上市",
@@ -441,6 +449,14 @@
       "onboard_time": 1662951875,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1468683,
+      "num": 1468683,
+      "word": "杨笠 你不懂男人",
+      "onboard_time": 1663078056,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1461951,
@@ -529,6 +545,14 @@
       "onboard_time": 1662961652,
       "rank": 5,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1323862,
+      "num": 655718,
+      "word": "戈达尔选择安乐死离世",
+      "onboard_time": 1663079021,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 1308941,
@@ -779,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 953805,
+      "num": 620548,
+      "word": "东八区的先生们",
+      "onboard_time": 1663080761,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 941555,
       "num": 941555,
       "word": "ios16",
@@ -801,14 +833,6 @@
       "onboard_time": 1662943354,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 925417,
-      "num": 925417,
-      "word": "杨笠 你不懂男人",
-      "onboard_time": 1663078056,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 906026,
@@ -977,14 +1001,6 @@
       "onboard_time": 1663053636,
       "rank": 8,
       "category": "教育,艺人"
-    },
-    {
-      "raw_hot": 748899,
-      "num": 655718,
-      "word": "戈达尔选择安乐死离世",
-      "onboard_time": 1663079021,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 735388,
@@ -1331,6 +1347,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 537022,
+      "num": 537022,
+      "word": "谈恋爱的唯一目的 就是吃苦",
+      "onboard_time": 1663081122,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 536775,
       "num": 536775,
       "word": "中国科学家在月壤中发现存在高含量水",
@@ -1403,6 +1427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 522002,
+      "num": 522002,
+      "word": "20岁大学生用车床剥生鸡蛋不破不漏",
+      "onboard_time": 1663077996,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 520023,
       "num": 381881,
       "word": "姜涩琪solo预告",
@@ -1464,6 +1496,14 @@
       "word": "RNG与DRX同组",
       "onboard_time": 1662943893,
       "rank": 9,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 508308,
+      "num": 508308,
+      "word": "塞尔达传说王国之泪",
+      "onboard_time": 1663081240,
+      "rank": 14,
       "category": "游戏"
     },
     {
@@ -1891,6 +1931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 392569,
+      "num": 392569,
+      "word": "男生校裤画红蜘蛛号召停止经期嘲笑",
+      "onboard_time": 1663080641,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 386471,
       "num": 386471,
       "word": "中国传媒大学24小时新增6例确诊",
@@ -2027,14 +2075,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 367314,
-      "num": 367314,
-      "word": "任天堂",
-      "onboard_time": 1663079504,
-      "rank": 17,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 363531,
       "num": 351664,
       "word": "汪海林回应叱咤之城稿费",
@@ -2083,6 +2123,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 357013,
+      "num": 357013,
+      "word": "美股",
+      "onboard_time": 1663080224,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 354397,
+      "num": 354397,
+      "word": "经销商预计iPhone14Pro溢价千元左右",
+      "onboard_time": 1663077455,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 353613,
       "num": 351515,
       "word": "脱口秀天花板pk好刺激",
@@ -2097,6 +2153,14 @@
       "onboard_time": 1662961834,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 351096,
+      "num": 351096,
+      "word": "父母为什么理解不了你的累",
+      "onboard_time": 1663078780,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 349632,
@@ -2307,14 +2371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 321067,
-      "num": 321067,
-      "word": "20岁大学生用车床剥生鸡蛋不破不漏",
-      "onboard_time": 1663077996,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 318277,
       "num": 318277,
       "word": "UR被曝抄袭",
@@ -2435,6 +2491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300164,
+      "num": 300164,
+      "word": "羊了个羊 bug",
+      "onboard_time": 1663081481,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 299905,
       "num": 299905,
       "word": "北京通州划定高中风险区",
@@ -2457,6 +2521,14 @@
       "onboard_time": 1663047701,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 298919,
+      "num": 236286,
+      "word": "挑选男朋友就好比奶奶挑排骨",
+      "onboard_time": 1663078780,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 294717,
@@ -2609,14 +2681,6 @@
       "onboard_time": 1663066356,
       "rank": 25,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 274087,
-      "num": 274087,
-      "word": "经销商预计iPhone14Pro溢价千元左右",
-      "onboard_time": 1663077455,
-      "rank": 48,
-      "category": "科技"
     },
     {
       "raw_hot": 273872,
@@ -2899,14 +2963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 236286,
-      "num": 236286,
-      "word": "挑选男朋友就好比奶奶挑排骨",
-      "onboard_time": 1663078780,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 236198,
       "num": 236198,
       "word": "不犯法但让人感觉有病",
@@ -3009,14 +3065,6 @@
       "onboard_time": 1662978458,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 227387,
-      "num": 227387,
-      "word": "父母为什么理解不了你的累",
-      "onboard_time": 1663078780,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 226270,
@@ -3473,6 +3521,14 @@
       "onboard_time": 1662929233,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166239,
+      "num": 166239,
+      "word": "火焰纹章Engage公布",
+      "onboard_time": 1663081780,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 164251,
