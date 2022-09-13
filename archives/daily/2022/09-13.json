@@ -1,6 +1,6 @@
 {
   "startTime": 1663000581861,
-  "endTime": 1663054760330,
+  "endTime": 1663055544461,
   "band_list": [
     {
       "raw_hot": 9785867,
@@ -75,6 +75,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1853468,
+      "num": 1853468,
+      "word": "全日制博士坐享国企中层副职",
+      "onboard_time": 1663050695,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1804073,
       "num": 1804073,
       "word": "东八区的先生们 上星剧",
@@ -131,14 +139,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 1537704,
-      "num": 1537704,
-      "word": "全日制博士坐享国企中层副职",
-      "onboard_time": 1663050695,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1467210,
       "num": 1467210,
       "word": "600759",
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 1275217,
-      "num": 623723,
+      "num": 669302,
       "word": "欧阳娜娜徐正溪永安梦开机路透",
       "onboard_time": 1663052493,
       "rank": 10,
@@ -299,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 751443,
+      "num": 751443,
+      "word": "偷偷藏不住剧组道歉",
+      "onboard_time": 1663054414,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 750782,
       "num": 750782,
       "word": "中戏开学",
@@ -347,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 612255,
+      "num": 612255,
+      "word": "女子穿黄衣排队满背飞虫",
+      "onboard_time": 1663050277,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 605027,
       "num": 605027,
       "word": "司仪婚礼上被狗追啃脚坚持主持",
@@ -379,6 +395,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 575655,
+      "num": 575655,
+      "word": "iOS16已支持检测假冒AirPods",
+      "onboard_time": 1663053398,
+      "rank": 21,
+      "category": "科技"
+    },
+    {
       "raw_hot": 559588,
       "num": 559588,
       "word": "iOS16将支持清洁能源充电",
@@ -395,20 +419,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 545353,
+      "num": 545353,
+      "word": "金丝猴吃葡萄一口一颗不忘剥皮",
+      "onboard_time": 1663051714,
+      "rank": 17,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 544029,
       "num": 544029,
       "word": "药明康德",
       "onboard_time": 1663035932,
       "rank": 35,
       "category": "财经"
-    },
-    {
-      "raw_hot": 542937,
-      "num": 542937,
-      "word": "女子穿黄衣排队满背飞虫",
-      "onboard_time": 1663050277,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 534419,
@@ -475,20 +499,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 501473,
+      "num": 501473,
+      "word": "羊了个羊崩了",
+      "onboard_time": 1663049616,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 490657,
+      "num": 411065,
+      "word": "欢迎来到蘑菇屋",
+      "onboard_time": 1663054534,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 487952,
       "num": 328830,
       "word": "檀健次演技",
       "onboard_time": 1663031552,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 478033,
-      "num": 478033,
-      "word": "金丝猴吃葡萄一口一颗不忘剥皮",
-      "onboard_time": 1663051714,
-      "rank": 17,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 469840,
@@ -523,14 +555,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 454871,
-      "num": 454871,
-      "word": "羊了个羊崩了",
-      "onboard_time": 1663049616,
-      "rank": 43,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 443491,
       "num": 443491,
       "word": "不做月饼的时候厂家在干吗",
@@ -561,14 +585,6 @@
       "onboard_time": 1663047342,
       "rank": 17,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 428229,
-      "num": 428229,
-      "word": "iOS16已支持检测假冒AirPods",
-      "onboard_time": 1663053398,
-      "rank": 21,
-      "category": "科技"
     },
     {
       "raw_hot": 426493,
@@ -811,14 +827,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 295501,
-      "num": 228482,
-      "word": "欢迎来到蘑菇屋",
-      "onboard_time": 1663054534,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 292665,
       "num": 255173,
       "word": "黄景瑜罚罪站内热度值破9700",
@@ -849,14 +857,6 @@
       "onboard_time": 1663042236,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 285544,
-      "num": 228463,
-      "word": "偷偷藏不住剧组道歉",
-      "onboard_time": 1663054414,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 279401,
@@ -987,11 +987,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233411,
+      "num": 233411,
+      "word": "河南一快递点10秒传送300件快递",
+      "onboard_time": 1663053636,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232933,
       "num": 232933,
       "word": "北京9月12日新增10例本土确诊",
       "onboard_time": 1663029455,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232928,
+      "num": 232928,
+      "word": "青岛增本土确诊7例",
+      "onboard_time": 1663049915,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -1009,14 +1025,6 @@
       "onboard_time": 1663047701,
       "rank": 39,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 228455,
-      "num": 228455,
-      "word": "青岛增本土确诊7例",
-      "onboard_time": 1663049915,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 226270,
@@ -1187,14 +1195,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 184114,
-      "num": 184114,
-      "word": "河南一快递点10秒传送300件快递",
-      "onboard_time": 1663053636,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 177400,
       "num": 177400,
       "word": "一口生腌吃进去多少风险",
@@ -1227,20 +1227,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170154,
+      "num": 170154,
+      "word": "浙战台风",
+      "onboard_time": 1663052737,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169397,
       "num": 169397,
       "word": "EDG9周年",
       "onboard_time": 1663038872,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 167972,
-      "num": 167972,
-      "word": "浙战台风",
-      "onboard_time": 1663052737,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161668,
@@ -1307,12 +1307,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124982,
+      "num": 124982,
+      "word": "9月14日台州全市停课1天",
+      "onboard_time": 1663054652,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121940,
       "num": 121940,
       "word": "中国视协评李易峰事件",
       "onboard_time": 1662981639,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121163,
+      "num": 121163,
+      "word": "贵阳多名官员被全市通报批评",
+      "onboard_time": 1663055314,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120561,
@@ -1331,20 +1347,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 118973,
-      "num": 118973,
-      "word": "9月14日台州全市停课1天",
-      "onboard_time": 1663054652,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 116563,
       "num": 116563,
       "word": "做到这几点或可避免出生缺陷",
       "onboard_time": 1663017612,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113995,
+      "num": 113995,
+      "word": "国产C919最快本月取证年内交付",
+      "onboard_time": 1663055194,
+      "rank": 49,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 108021,
@@ -1427,7 +1443,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 63735,
+      "raw_hot": 70095,
       "num": 1558974,
       "word": "致敬泸定地震救援中每个勇敢身影",
       "onboard_time": 1663053335,
