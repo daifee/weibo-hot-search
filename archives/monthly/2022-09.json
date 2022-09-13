@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1663094918743,
+  "endTime": 1663096762551,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -27233,6 +27233,14 @@
       "onboard_time": 1662060791,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 10845,
+      "num": 10845,
+      "word": "复星集团董事长郭广昌发声",
+      "onboard_time": 1663096752,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10153,
