@@ -1,6 +1,6 @@
 {
   "startTime": 1663086802432,
-  "endTime": 1663101679400,
+  "endTime": 1663104095895,
   "band_list": [
     {
       "raw_hot": 4428299,
@@ -443,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74375,
+      "num": 60861,
+      "word": "3岁幼童被牵绳大狗咬伤",
+      "onboard_time": 1663099631,
+      "rank": 29,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 61045,
       "num": 61045,
       "word": "陈宇杨玲深情告别",
@@ -459,19 +467,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36567,
-      "num": 28438,
-      "word": "3岁幼童被牵绳大狗咬伤",
-      "onboard_time": 1663099631,
-      "rank": 29,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 9742,
       "num": 9742,
       "word": "姐姐嫌妈妈太凶亲自辅导弟弟被气哭",
       "onboard_time": 1663100712,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8864,
+      "num": 8864,
+      "word": "什么都能武器化的美国该停手了",
+      "onboard_time": 1663102391,
+      "rank": 48,
       "category": "社会新闻"
     }
   ],

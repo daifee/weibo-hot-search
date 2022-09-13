@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/12 00:31:49 ~ 2022/09/14 04:41:19
+本榜单时间：2022/09/12 00:31:49 ~ 2022/09/14 05:21:35
 </p>
 </blockquote>
 <p>
@@ -3021,6 +3021,12 @@ EDG与T1一组（热度：110381）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%233%E5%B2%81%E5%B9%BC%E7%AB%A5%E8%A2%AB%E7%89%B5%E7%BB%B3%E5%A4%A7%E7%8B%97%E5%92%AC%E4%BC%A4%23" target="weibo">
+3岁幼童被牵绳大狗咬伤（热度：74375）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%9F%E6%9C%88%E4%BA%89%E8%BE%89%E5%A4%A9%E8%B1%A1%23" target="weibo">
 星月争辉天象（热度：73331）
 </a>
@@ -3141,12 +3147,6 @@ F1意大利大奖赛（热度：57047）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%233%E5%B2%81%E5%B9%BC%E7%AB%A5%E8%A2%AB%E7%89%B5%E7%BB%B3%E5%A4%A7%E7%8B%97%E5%92%AC%E4%BC%A4%23" target="weibo">
-3岁幼童被牵绳大狗咬伤（热度：36567）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A7%8B%E8%8A%82%E5%8C%97%E4%BA%AC%E9%BB%84%E9%87%91%E5%8D%96%E5%9C%BA%E7%8E%B0%E6%89%AB%E9%87%91%E7%83%AD%23" target="weibo">
 中秋节北京黄金卖场现扫金热（热度：36103）
 </a>
@@ -3179,6 +3179,12 @@ F1意大利大奖赛（热度：57047）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A7%90%E5%AB%8C%E5%A6%88%E5%A6%88%E5%A4%AA%E5%87%B6%E4%BA%B2%E8%87%AA%E8%BE%85%E5%AF%BC%E5%BC%9F%E5%BC%9F%E8%A2%AB%E6%B0%94%E5%93%AD%23" target="weibo">
 姐姐嫌妈妈太凶亲自辅导弟弟被气哭（热度：9742）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%80%E4%B9%88%E9%83%BD%E8%83%BD%E6%AD%A6%E5%99%A8%E5%8C%96%E7%9A%84%E7%BE%8E%E5%9B%BD%E8%AF%A5%E5%81%9C%E6%89%8B%E4%BA%86%23" target="weibo">
+什么都能武器化的美国该停手了（热度：8864）
 </a>
 </li>
 
