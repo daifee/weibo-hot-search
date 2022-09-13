@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663077237364,
+  "endTime": 1663077891362,
   "band_list": [
     {
       "raw_hot": 9785867,
@@ -201,6 +201,14 @@
       "onboard_time": 1663040554,
       "rank": 20,
       "category": "艺人,科技"
+    },
+    {
+      "raw_hot": 2431579,
+      "num": 2431579,
+      "word": "澳大利亚发生袋鼠杀人事件",
+      "onboard_time": 1663075713,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2411747,
@@ -473,14 +481,6 @@
       "onboard_time": 1662909828,
       "rank": 1,
       "category": "情感,社会议题"
-    },
-    {
-      "raw_hot": 1361070,
-      "num": 1361070,
-      "word": "澳大利亚发生袋鼠杀人事件",
-      "onboard_time": 1663075713,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1357151,
@@ -803,6 +803,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 867384,
+      "num": 867384,
+      "word": "张杰 好笑",
+      "onboard_time": 1663076194,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 863108,
       "num": 235756,
       "word": "泽连斯基称乌军已控制6000平方公里土地",
@@ -915,6 +923,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 767195,
+      "num": 767195,
+      "word": "哥大承认排名数据造假",
+      "onboard_time": 1663074513,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 765370,
       "num": 765370,
       "word": "你安全吗",
@@ -931,19 +947,19 @@
       "category": "教育,艺人"
     },
     {
+      "raw_hot": 749210,
+      "num": 146219,
+      "word": "人民网评张翰新剧",
+      "onboard_time": 1663077877,
+      "rank": 47,
+      "category": "影视,社会新闻"
+    },
+    {
       "raw_hot": 735388,
       "num": 735388,
       "word": "河南引进全日制博士可享国企中层副职待遇",
       "onboard_time": 1663050695,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 729247,
-      "num": 729247,
-      "word": "哥大承认排名数据造假",
-      "onboard_time": 1663074513,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -1017,6 +1033,14 @@
       "onboard_time": 1662960876,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 683550,
+      "num": 683550,
+      "word": "上海一公园被指摆放日本人雕塑群",
+      "onboard_time": 1663076253,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 679476,
@@ -1139,6 +1163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 614974,
+      "num": 614974,
+      "word": "远嫁女儿第一次带宝宝回娘家",
+      "onboard_time": 1663072112,
+      "rank": 47,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 612255,
       "num": 612255,
       "word": "女子穿黄衣排队满背飞虫",
@@ -1209,14 +1241,6 @@
       "onboard_time": 1663069593,
       "rank": 13,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 572825,
-      "num": 572825,
-      "word": "远嫁女儿第一次带宝宝回娘家",
-      "onboard_time": 1663072112,
-      "rank": 47,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 570507,
@@ -1379,6 +1403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 513806,
+      "num": 513806,
+      "word": "罚罪",
+      "onboard_time": 1662988183,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 512174,
       "num": 512174,
       "word": "新手爸妈担心婴儿着凉捂进ICU",
@@ -1409,14 +1441,6 @@
       "onboard_time": 1662943893,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 509054,
-      "num": 509054,
-      "word": "张杰 好笑",
-      "onboard_time": 1663076194,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 506335,
@@ -1457,14 +1481,6 @@
       "onboard_time": 1662951875,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 494331,
-      "num": 484487,
-      "word": "罚罪",
-      "onboard_time": 1662988183,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 490657,
@@ -1659,6 +1675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 447522,
+      "num": 447522,
+      "word": "钟辰乐直播",
+      "onboard_time": 1663076854,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 447507,
       "num": 447507,
       "word": "候车室里外放刷视频被邻座扇耳光",
@@ -1705,14 +1729,6 @@
       "onboard_time": 1663075053,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 433383,
-      "num": 416032,
-      "word": "钟辰乐直播",
-      "onboard_time": 1663076854,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 433174,
@@ -1808,14 +1824,6 @@
       "word": "天府新区疫情防控",
       "onboard_time": 1662994486,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 406719,
-      "num": 406719,
-      "word": "上海一公园被指摆放日本人雕塑群",
-      "onboard_time": 1663076253,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -1923,6 +1931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 375160,
+      "num": 375160,
+      "word": "脱口秀大会",
+      "onboard_time": 1662939085,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 374500,
       "num": 297248,
       "word": "阿Sa说看言情小说会变漂亮",
@@ -2027,14 +2043,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 352284,
-      "num": 352284,
-      "word": "脱口秀大会",
-      "onboard_time": 1662939085,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 351726,
       "num": 170801,
       "word": "王心凌官宣星星的约定",
@@ -2115,6 +2123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 339878,
+      "num": 339878,
+      "word": "长沙雨花区发现3例新冠无症状",
+      "onboard_time": 1663075834,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 335653,
       "num": 298179,
       "word": "走进Q学",
@@ -2185,14 +2201,6 @@
       "onboard_time": 1662954455,
       "rank": 23,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 327574,
-      "num": 327574,
-      "word": "长沙雨花区发现3例新冠无症状",
-      "onboard_time": 1663075834,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 327144,
@@ -2388,7 +2396,7 @@
     },
     {
       "raw_hot": 293599,
-      "num": 265532,
+      "num": 268746,
       "word": "心动的信号",
       "onboard_time": 1663074153,
       "rank": 30,
@@ -2571,6 +2579,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 268876,
+      "num": 268876,
+      "word": "我听网课都没有这么认真",
+      "onboard_time": 1663074332,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 268189,
       "num": 268189,
       "word": "小鹿 复活",
@@ -2603,6 +2619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 265648,
+      "num": 265648,
+      "word": "任嘉伦李沁请君美救英雄花絮",
+      "onboard_time": 1663077513,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 265226,
       "num": 265226,
       "word": "庄周天秀幻梦",
@@ -2617,14 +2641,6 @@
       "onboard_time": 1662994426,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 264858,
-      "num": 264858,
-      "word": "我听网课都没有这么认真",
-      "onboard_time": 1663074332,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 263700,
@@ -2697,6 +2713,14 @@
       "onboard_time": 1662967654,
       "rank": 45,
       "category": "社会正能量,教育"
+    },
+    {
+      "raw_hot": 250580,
+      "num": 250580,
+      "word": "提前激活iPhone14每台罚款20万",
+      "onboard_time": 1663077156,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 250072,
@@ -3299,6 +3323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171343,
+      "num": 171343,
+      "word": "狮子也是小猫咪呀",
+      "onboard_time": 1663076975,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171318,
       "num": 171318,
       "word": "清清KPL登场三周年",
@@ -3443,12 +3475,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 137853,
-      "num": 137853,
-      "word": "狮子也是小猫咪呀",
-      "onboard_time": 1663076975,
+      "raw_hot": 137065,
+      "num": 137065,
+      "word": "经销商预计iPhone14Pro溢价千元左右",
+      "onboard_time": 1663077455,
       "rank": 48,
-      "category": "幽默"
+      "category": "科技"
     },
     {
       "raw_hot": 135393,
@@ -3513,14 +3545,6 @@
       "onboard_time": 1663054652,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 121151,
-      "num": 121151,
-      "word": "提前激活iPhone14每台罚款20万",
-      "onboard_time": 1663077156,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 120178,
@@ -3649,6 +3673,14 @@
       "onboard_time": 1662879629,
       "rank": 28,
       "category": "科技,情感"
+    },
+    {
+      "raw_hot": 103712,
+      "num": 1605797,
+      "word": "消防员车上挂满泸定人送的哈达",
+      "onboard_time": 1663076555,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101609,
@@ -3785,14 +3817,6 @@
       "onboard_time": 1662904851,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 58918,
-      "num": 1451872,
-      "word": "消防员车上挂满泸定人送的哈达",
-      "onboard_time": 1663076555,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 57152,
