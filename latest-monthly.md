@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/14 00:33:22
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/14 00:59:35
 </p>
 </blockquote>
 <p>
@@ -3345,6 +3345,12 @@ iPhone14Pro系列占中国订单85%（热度：1059806）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E7%96%91%E5%9B%A0%E5%90%B5%E6%9E%B6%E6%8A%8A%E7%8B%97%E6%8E%A8%E4%B8%8B4%E6%A5%BC%23" target="weibo">
+夫妻疑因吵架把狗推下4楼（热度：1025639）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%B8%E5%AE%9A%E5%9C%B0%E9%9C%87%E9%9C%87%E4%B8%AD%E5%9C%A8%E6%B5%B7%E8%9E%BA%E6%B2%9F%23" target="weibo">
 泸定地震震中在海螺沟（热度：1025161）
 </a>
@@ -3557,12 +3563,6 @@ BLACKPINK新歌未通过KBS审议（热度：999636）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E7%9E%AC%E9%97%B4%E7%86%8A%E7%8C%AB%E5%A6%88%E5%A6%88%E6%90%BA%E5%B9%BC%E5%B4%BD%E5%AE%A4%E5%A4%96%E9%81%BF%E9%99%A9%23" target="weibo">
 地震瞬间熊猫妈妈携幼崽室外避险（热度：984660）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E7%96%91%E5%9B%A0%E5%90%B5%E6%9E%B6%E6%8A%8A%E7%8B%97%E6%8E%A8%E4%B8%8B4%E6%A5%BC%23" target="weibo">
-夫妻疑因吵架把狗推下4楼（热度：980730）
 </a>
 </li>
 
