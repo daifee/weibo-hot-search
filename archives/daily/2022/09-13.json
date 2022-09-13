@@ -1,6 +1,6 @@
 {
   "startTime": 1663000581861,
-  "endTime": 1663061142922,
+  "endTime": 1663062204063,
   "band_list": [
     {
       "raw_hot": 9785867,
@@ -51,6 +51,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 2680649,
+      "num": 2680649,
+      "word": "高三生3小时吃4片止痛药肾衰竭",
+      "onboard_time": 1663057354,
+      "rank": 36,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 2555826,
       "num": 2555826,
       "word": "官方回应去世老人核酸报告还在更新",
@@ -65,14 +73,6 @@
       "onboard_time": 1663040554,
       "rank": 20,
       "category": "艺人,科技"
-    },
-    {
-      "raw_hot": 2418129,
-      "num": 2418129,
-      "word": "高三生3小时吃4片止痛药肾衰竭",
-      "onboard_time": 1663057354,
-      "rank": 36,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 2296551,
@@ -275,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 899380,
+      "num": 562606,
+      "word": "Twins不承认吴谨言的粤语是自己教的",
+      "onboard_time": 1663061137,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 895677,
       "num": 895677,
       "word": "逃犯3天吃1碗泡面拦警车自首",
@@ -377,14 +385,6 @@
       "onboard_time": 1663045726,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 682181,
-      "num": 131427,
-      "word": "Twins不承认吴谨言的粤语是自己教的",
-      "onboard_time": 1663061137,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 679476,
@@ -523,6 +523,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 522413,
+      "num": 522413,
+      "word": "女子隔离留守二哈把婚房拆了",
+      "onboard_time": 1663057417,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 522355,
+      "num": 522355,
+      "word": "张朝阳称iPhone14紫色光谱里不存在",
+      "onboard_time": 1663060777,
+      "rank": 38,
+      "category": "科技"
+    },
+    {
       "raw_hot": 520023,
       "num": 381881,
       "word": "姜涩琪solo预告",
@@ -560,14 +576,6 @@
       "word": "新手爸妈担心婴儿着凉捂进ICU",
       "onboard_time": 1663045129,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 501914,
-      "num": 501914,
-      "word": "女子隔离留守二哈把婚房拆了",
-      "onboard_time": 1663057417,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -651,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 433174,
+      "num": 433174,
+      "word": "iPhone14系列官方维修价",
+      "onboard_time": 1663060236,
+      "rank": 23,
+      "category": "科技"
+    },
+    {
       "raw_hot": 429556,
       "num": 429556,
       "word": "虞书欣片场被鸭子吓到",
@@ -715,6 +731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 382274,
+      "num": 382274,
+      "word": "大英图书馆首次收录中国网文",
+      "onboard_time": 1663059096,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 378582,
       "num": 359109,
       "word": "一场脱口秀带火600759",
@@ -761,14 +785,6 @@
       "onboard_time": 1663039355,
       "rank": 26,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 364969,
-      "num": 364969,
-      "word": "大英图书馆首次收录中国网文",
-      "onboard_time": 1663059096,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 361052,
@@ -939,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299808,
+      "num": 299808,
+      "word": "北京新增16例本土感染者均为隔离观察人员",
+      "onboard_time": 1663060055,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 299228,
       "num": 299228,
       "word": "请君",
@@ -1019,14 +1043,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 271924,
-      "num": 271924,
-      "word": "iPhone14系列官方维修价",
-      "onboard_time": 1663060236,
-      "rank": 23,
-      "category": "科技"
-    },
-    {
       "raw_hot": 269037,
       "num": 269037,
       "word": "明日方舟",
@@ -1065,14 +1081,6 @@
       "onboard_time": 1663058255,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 260393,
-      "num": 260393,
-      "word": "北京新增16例本土感染者均为隔离观察人员",
-      "onboard_time": 1663060055,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 256188,
@@ -1275,6 +1283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214052,
+      "num": 214052,
+      "word": "东软",
+      "onboard_time": 1663060112,
+      "rank": 34,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 212934,
       "num": 212934,
       "word": "宠物市场2千买的狗活不过7天",
@@ -1307,12 +1323,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 202965,
-      "num": 202965,
-      "word": "东软",
-      "onboard_time": 1663060112,
+      "raw_hot": 203629,
+      "num": 203629,
+      "word": "美国限制芯片出口是科技霸权主义",
+      "onboard_time": 1663061557,
       "rank": 34,
-      "category": "社会新闻,科技"
+      "category": "科技,财经"
     },
     {
       "raw_hot": 201981,
@@ -1355,6 +1371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190870,
+      "num": 190870,
+      "word": "青岛新增本土确诊2例",
+      "onboard_time": 1663059756,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189987,
       "num": 189987,
       "word": "谁能拒绝鲜花的浪漫呢",
@@ -1393,22 +1417,6 @@
       "onboard_time": 1662978699,
       "rank": 26,
       "category": "美食"
-    },
-    {
-      "raw_hot": 173903,
-      "num": 173903,
-      "word": "张朝阳称iPhone14紫色光谱里不存在",
-      "onboard_time": 1663060777,
-      "rank": 38,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 173374,
-      "num": 173374,
-      "word": "青岛新增本土确诊2例",
-      "onboard_time": 1663059756,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 172511,
@@ -1483,6 +1491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 156276,
+      "num": 156276,
+      "word": "苹果四款机型不支持电量百分比",
+      "onboard_time": 1663061735,
+      "rank": 43,
+      "category": "科技"
+    },
+    {
       "raw_hot": 151023,
       "num": 151023,
       "word": "乘客连跑带喊冲下地铁分工救人",
@@ -1521,6 +1537,22 @@
       "onboard_time": 1662994183,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 140784,
+      "num": 140784,
+      "word": "男子捐2000元图书被慈善机构卖出",
+      "onboard_time": 1663062096,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139865,
+      "num": 139865,
+      "word": "ios16壁纸",
+      "onboard_time": 1663062036,
+      "rank": 47,
+      "category": "科技"
     },
     {
       "raw_hot": 135393,

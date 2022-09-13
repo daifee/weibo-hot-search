@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/13 17:25:42
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/13 17:43:24
 </p>
 </blockquote>
 <p>
@@ -591,6 +591,12 @@ UR被曝抄袭（热度：2730773）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%89%E7%94%9F3%E5%B0%8F%E6%97%B6%E5%90%834%E7%89%87%E6%AD%A2%E7%97%9B%E8%8D%AF%E8%82%BE%E8%A1%B0%E7%AB%AD%23" target="weibo">
+高三生3小时吃4片止痛药肾衰竭（热度：2680649）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E6%AF%9B%E6%99%93%E5%BD%A4%20%E5%AD%A4%E7%8B%AC%E9%A2%82%E6%AD%8C%23" target="weibo">
 檀健次毛晓彤 孤独颂歌（热度：2671374）
 </a>
@@ -725,12 +731,6 @@ zzr（热度：2585830）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23BLACKPINK%E6%88%90%E5%91%98%E7%85%A7%E7%89%87%E9%81%AD%E9%BB%91%E5%AE%A2%E6%B3%84%E9%9C%B2%23" target="weibo">
 BLACKPINK成员照片遭黑客泄露（热度：2426678）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%89%E7%94%9F3%E5%B0%8F%E6%97%B6%E5%90%834%E7%89%87%E6%AD%A2%E7%97%9B%E8%8D%AF%E8%82%BE%E8%A1%B0%E7%AB%AD%23" target="weibo">
-高三生3小时吃4片止痛药肾衰竭（热度：2418129）
 </a>
 </li>
 
@@ -3993,6 +3993,12 @@ wps（热度：903646）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Twins%E4%B8%8D%E6%89%BF%E8%AE%A4%E5%90%B4%E8%B0%A8%E8%A8%80%E7%9A%84%E7%B2%A4%E8%AF%AD%E6%98%AF%E8%87%AA%E5%B7%B1%E6%95%99%E7%9A%84%23" target="weibo">
+Twins不承认吴谨言的粤语是自己教的（热度：899380）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%80%83%E7%8A%AF3%E5%A4%A9%E5%90%831%E7%A2%97%E6%B3%A1%E9%9D%A2%E6%8B%A6%E8%AD%A6%E8%BD%A6%E8%87%AA%E9%A6%96%23" target="weibo">
 逃犯3天吃1碗泡面拦警车自首（热度：895677）
 </a>
@@ -5279,12 +5285,6 @@ AirPodsPro2将随iPhone14一起发布（热度：706062）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E5%A8%84%E5%BA%95%23" target="weibo">
 湖南娄底（热度：682774）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Twins%E4%B8%8D%E6%89%BF%E8%AE%A4%E5%90%B4%E8%B0%A8%E8%A8%80%E7%9A%84%E7%B2%A4%E8%AF%AD%E6%98%AF%E8%87%AA%E5%B7%B1%E6%95%99%E7%9A%84%23" target="weibo">
-Twins不承认吴谨言的粤语是自己教的（热度：682181）
 </a>
 </li>
 

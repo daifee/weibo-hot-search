@@ -1,0 +1,410 @@
+{
+  "runTime": 1663062204063,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2680649,
+        "num": 2680649,
+        "word": "高三生3小时吃4片止痛药肾衰竭",
+        "onboard_time": 1663057354,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1660343,
+        "num": 1660343,
+        "word": "著名导演戈达尔去世",
+        "onboard_time": 1663058796,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63869,
+        "num": 1572719,
+        "word": "致敬泸定地震救援中每个勇敢身影",
+        "onboard_time": 1663053335,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1542673,
+        "num": 1542673,
+        "word": "官方回应去世老人核酸报告还在更新",
+        "onboard_time": 1663055616,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1426564,
+        "num": 1426564,
+        "word": "那英 周迅",
+        "onboard_time": 1663051355,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1359763,
+        "num": 1359763,
+        "word": "偷偷藏不住剧组道歉",
+        "onboard_time": 1663054414,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 889892,
+        "num": 889892,
+        "word": "羊了个羊",
+        "onboard_time": 1663025968,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 747910,
+        "num": 747910,
+        "word": "消息称iPhone15要改名",
+        "onboard_time": 1663045248,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 698904,
+        "num": 698904,
+        "word": "长沙疫情防控",
+        "onboard_time": 1663056817,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 585940,
+        "num": 585940,
+        "word": "老板连摊4张饼都失败直接歇业",
+        "onboard_time": 1663049377,
+        "rank": 9,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 899380,
+        "num": 562606,
+        "word": "Twins不承认吴谨言的粤语是自己教的",
+        "onboard_time": 1663061137,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 522413,
+        "num": 522413,
+        "word": "女子隔离留守二哈把婚房拆了",
+        "onboard_time": 1663057417,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522355,
+        "num": 522355,
+        "word": "张朝阳称iPhone14紫色光谱里不存在",
+        "onboard_time": 1663060777,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 433174,
+        "num": 433174,
+        "word": "iPhone14系列官方维修价",
+        "onboard_time": 1663060236,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 414255,
+        "num": 414255,
+        "word": "宋亚轩中戏开学报到",
+        "onboard_time": 1663058678,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 406285,
+        "num": 406285,
+        "word": "贵阳多名官员被全市通报批评",
+        "onboard_time": 1663055314,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382274,
+        "num": 382274,
+        "word": "大英图书馆首次收录中国网文",
+        "onboard_time": 1663059096,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354592,
+        "num": 354592,
+        "word": "被偷偷藏不住剧组砸无人机学生回应",
+        "onboard_time": 1663057174,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 299808,
+        "num": 299808,
+        "word": "北京新增16例本土感染者均为隔离观察人员",
+        "onboard_time": 1663060055,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286178,
+        "num": 286178,
+        "word": "美国NSA网络武器饮茶",
+        "onboard_time": 1663057235,
+        "rank": 19,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 300732,
+        "num": 284429,
+        "word": "欧阳娜娜徐正溪永安梦开机路透",
+        "onboard_time": 1663052493,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 293989,
+        "num": 283498,
+        "word": "阿Sa说看言情小说会变漂亮",
+        "onboard_time": 1663057475,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276238,
+        "num": 276238,
+        "word": "金丝猴吃葡萄一口一颗不忘剥皮",
+        "onboard_time": 1663051714,
+        "rank": 22,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 273449,
+        "num": 273449,
+        "word": "刘诗诗古装好飒",
+        "onboard_time": 1663060597,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 264705,
+        "num": 264705,
+        "word": "iOS16已支持检测假冒AirPods",
+        "onboard_time": 1663053398,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 240136,
+        "num": 240136,
+        "word": "女子穿黄衣排队满背飞虫",
+        "onboard_time": 1663050277,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237332,
+        "num": 237332,
+        "word": "庄周天秀幻梦",
+        "onboard_time": 1663058912,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 233402,
+        "num": 233402,
+        "word": "河南引进全日制博士可享国企中层副职待遇",
+        "onboard_time": 1663050695,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218991,
+        "num": 218991,
+        "word": "上完14天班又是小长假",
+        "onboard_time": 1663036411,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214052,
+        "num": 214052,
+        "word": "东软",
+        "onboard_time": 1663060112,
+        "rank": 29,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 270311,
+        "num": 212150,
+        "word": "潘粤明更新iOS16后打不开微信",
+        "onboard_time": 1663040554,
+        "rank": 30,
+        "category": "艺人,科技"
+      },
+      {
+        "raw_hot": 246786,
+        "num": 209773,
+        "word": "张彬彬rua虞书欣的脸",
+        "onboard_time": 1663051174,
+        "rank": 31,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 239965,
+        "num": 206658,
+        "word": "欢迎来到蘑菇屋",
+        "onboard_time": 1663054534,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230890,
+        "num": 204564,
+        "word": "脱口秀领笑员",
+        "onboard_time": 1663056997,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203629,
+        "num": 203629,
+        "word": "美国限制芯片出口是科技霸权主义",
+        "onboard_time": 1663061557,
+        "rank": 34,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 190870,
+        "num": 190870,
+        "word": "青岛新增本土确诊2例",
+        "onboard_time": 1663059756,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190705,
+        "num": 190705,
+        "word": "9月14日宁波全市停课一天",
+        "onboard_time": 1663047342,
+        "rank": 36,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 180828,
+        "num": 180828,
+        "word": "北京中轴线为什么是斜的",
+        "onboard_time": 1663056514,
+        "rank": 37,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 171095,
+        "num": 171095,
+        "word": "00后情侣未婚生子分手拒养孩子",
+        "onboard_time": 1663041996,
+        "rank": 38,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 165488,
+        "num": 165488,
+        "word": "杜小华与疑似男孩DNA比对不匹配",
+        "onboard_time": 1663043019,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223362,
+        "num": 161651,
+        "word": "王一博冰雨火片场笑出鹅叫",
+        "onboard_time": 1663058255,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 227159,
+        "num": 160280,
+        "word": "闫永强 唢呐",
+        "onboard_time": 1663058015,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 212774,
+        "num": 159484,
+        "word": "张翰的手",
+        "onboard_time": 1662996581,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156276,
+        "num": 156276,
+        "word": "苹果四款机型不支持电量百分比",
+        "onboard_time": 1663061735,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 150461,
+        "num": 150461,
+        "word": "女子求职问5险被嘲讽",
+        "onboard_time": 1663049137,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140804,
+        "num": 140804,
+        "word": "明日方舟",
+        "onboard_time": 1663060597,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140784,
+        "num": 140784,
+        "word": "男子捐2000元图书被慈善机构卖出",
+        "onboard_time": 1663062096,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139865,
+        "num": 139865,
+        "word": "ios16壁纸",
+        "onboard_time": 1663062036,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 136911,
+        "num": 136911,
+        "word": "和女友吵架男子吞下2根钢丝",
+        "onboard_time": 1663043745,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128915,
+        "num": 128915,
+        "word": "新手爸妈担心婴儿着凉捂进ICU",
+        "onboard_time": 1663045129,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#上合组织元首理事会#"
+    }
+  }
+}
