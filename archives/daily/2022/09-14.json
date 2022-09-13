@@ -1,6 +1,6 @@
 {
   "startTime": 1663086802432,
-  "endTime": 1663108940685,
+  "endTime": 1663111575002,
   "band_list": [
     {
       "raw_hot": 4428299,
@@ -19,8 +19,8 @@
       "category": "影视,社会新闻"
     },
     {
-      "raw_hot": 1771135,
-      "num": 1771135,
+      "raw_hot": 1784979,
+      "num": 1784979,
       "word": "任天堂",
       "onboard_time": 1663079504,
       "rank": 3,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 708334,
+      "num": 708334,
+      "word": "理想汽车总裁已套现超9000万",
+      "onboard_time": 1663083692,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 685967,
       "num": 685967,
       "word": "提前激活iPhone14每台罚款20万",
@@ -91,20 +99,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 617271,
-      "num": 617271,
-      "word": "理想汽车总裁已套现超9000万",
-      "onboard_time": 1663083692,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
       "raw_hot": 595077,
       "num": 595077,
       "word": "羊了个羊",
       "onboard_time": 1663025968,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 574948,
+      "num": 574948,
+      "word": "复星集团董事长郭广昌发声",
+      "onboard_time": 1663096752,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 518402,
+      "num": 518402,
+      "word": "妈妈带宝宝看猩猩反被围观",
+      "onboard_time": 1663090336,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 507119,
@@ -123,8 +139,24 @@
       "category": "影视"
     },
     {
+      "raw_hot": 391748,
+      "num": 331837,
+      "word": "杨笠脱口秀大会杀疯了",
+      "onboard_time": 1663109777,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 389011,
+      "num": 389011,
+      "word": "3岁幼童被牵绳大狗咬伤",
+      "onboard_time": 1663099631,
+      "rank": 29,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 384096,
-      "num": 220744,
+      "num": 237132,
       "word": "黄景瑜新剧终于能专心搞事业了",
       "onboard_time": 1663083095,
       "rank": 21,
@@ -155,11 +187,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 283782,
-      "num": 283782,
-      "word": "复星集团董事长郭广昌发声",
-      "onboard_time": 1663096752,
-      "rank": 49,
+      "raw_hot": 245516,
+      "num": 245516,
+      "word": "20岁大学生用车床剥生鸡蛋不破不漏",
+      "onboard_time": 1663077996,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -171,36 +203,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 240059,
+      "num": 240059,
+      "word": "直击台风梅花最新动态",
+      "onboard_time": 1663107855,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236468,
       "num": 214692,
       "word": "罚罪",
       "onboard_time": 1663073853,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 235337,
-      "num": 235337,
-      "word": "20岁大学生用车床剥生鸡蛋不破不漏",
-      "onboard_time": 1663077996,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 229955,
-      "num": 229955,
-      "word": "3岁幼童被牵绳大狗咬伤",
-      "onboard_time": 1663099631,
-      "rank": 29,
-      "category": "社会负面"
-    },
-    {
-      "raw_hot": 226288,
-      "num": 226288,
-      "word": "妈妈带宝宝看猩猩反被围观",
-      "onboard_time": 1663090336,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 222771,
@@ -259,12 +275,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 174658,
-      "num": 174658,
+      "raw_hot": 181985,
+      "num": 181985,
       "word": "美股",
       "onboard_time": 1663080224,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 175858,
+      "num": 175858,
+      "word": "王心凌全国推广大使黄小蕾",
+      "onboard_time": 1663110442,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 166215,
@@ -291,12 +315,36 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 135100,
-      "num": 135100,
+      "raw_hot": 153769,
+      "num": 65043,
+      "word": "欧冠",
+      "onboard_time": 1663111524,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 148733,
+      "num": 148733,
+      "word": "警犬协助缴毒23公斤获奖火腿肠两根",
+      "onboard_time": 1663102331,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146449,
+      "num": 146449,
       "word": "经销商预计iPhone14Pro溢价千元左右",
       "onboard_time": 1663077455,
       "rank": 34,
       "category": "科技"
+    },
+    {
+      "raw_hot": 134020,
+      "num": 134020,
+      "word": "第一次在鱼脸上看到了表情",
+      "onboard_time": 1663088303,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 132442,
@@ -305,6 +353,14 @@
       "onboard_time": 1663066775,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126787,
+      "num": 2500321,
+      "word": "消防员车上挂满泸定人送的哈达",
+      "onboard_time": 1663076555,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126020,
@@ -339,14 +395,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 117020,
-      "num": 117020,
-      "word": "第一次在鱼脸上看到了表情",
-      "onboard_time": 1663088303,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 116228,
       "num": 116228,
       "word": "图书馆未免承受了太多社死",
@@ -361,6 +409,14 @@
       "onboard_time": 1663087165,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 109099,
+      "num": 109099,
+      "word": "拜仁2比0巴萨",
+      "onboard_time": 1663111285,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 108853,
@@ -393,14 +449,6 @@
       "onboard_time": 1663076975,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 97399,
-      "num": 97399,
-      "word": "警犬协助缴毒23公斤获奖火腿肠两根",
-      "onboard_time": 1663102331,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 97345,
@@ -459,11 +507,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 78945,
-      "num": 2500321,
-      "word": "消防员车上挂满泸定人送的哈达",
-      "onboard_time": 1663076555,
-      "rank": 2,
+      "raw_hot": 78635,
+      "num": 78635,
+      "word": "16岁女孩湍流中连救两名男子",
+      "onboard_time": 1663111344,
+      "rank": 43,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 70272,
+      "num": 70272,
+      "word": "什么都能武器化的美国该停手了",
+      "onboard_time": 1663102391,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -473,22 +529,6 @@
       "onboard_time": 1663084651,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 50619,
-      "num": 50619,
-      "word": "什么都能武器化的美国该停手了",
-      "onboard_time": 1663102391,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 43852,
-      "num": 43852,
-      "word": "直击台风梅花最新动态",
-      "onboard_time": 1663107855,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 9742,
