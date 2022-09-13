@@ -1,0 +1,410 @@
+{
+  "runTime": 1663044751938,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7797096,
+        "num": 7797096,
+        "word": "王一博方辟谣",
+        "onboard_time": 1663043442,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2387881,
+        "num": 2387881,
+        "word": "顺丰寄丢20克黄金保价八千只赔两千",
+        "onboard_time": 1663035392,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41990,
+        "num": 1865293,
+        "word": "中国乡村风景可以洗眼睛",
+        "onboard_time": 1662942872,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1726370,
+        "num": 1726370,
+        "word": "00后情侣未婚生子分手拒养孩子",
+        "onboard_time": 1663041996,
+        "rank": 3,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 1697893,
+        "num": 1697893,
+        "word": "羊了个羊",
+        "onboard_time": 1663025968,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1503258,
+        "num": 1503258,
+        "word": "上完14天班又是小长假",
+        "onboard_time": 1663036411,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1457549,
+        "num": 1457549,
+        "word": "5岁男童患癌头部变形吓哭自己",
+        "onboard_time": 1663038513,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1107244,
+        "num": 1107244,
+        "word": "杜小华正与疑似小米奇男孩进行DNA比对",
+        "onboard_time": 1663043019,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 912327,
+        "num": 912327,
+        "word": "女子用老公的会员卡结账被拒",
+        "onboard_time": 1663035332,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 806116,
+        "num": 806116,
+        "word": "荣梓杉 美甲",
+        "onboard_time": 1663036411,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1671233,
+        "num": 805479,
+        "word": "张翰的手",
+        "onboard_time": 1662996581,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 804808,
+        "num": 804808,
+        "word": "许家印要求恒大员工大干苦干拼命干",
+        "onboard_time": 1663039655,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 786952,
+        "num": 786952,
+        "word": "网传杨紫王鹤棣出演风月锦囊",
+        "onboard_time": 1663026388,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 645557,
+        "num": 645557,
+        "word": "我们的歌第四季官宣",
+        "onboard_time": 1663043019,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 601315,
+        "num": 601315,
+        "word": "北京大兴发现一例核酸阳性",
+        "onboard_time": 1663039955,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593922,
+        "num": 593922,
+        "word": "赵丽颖金九封面预告",
+        "onboard_time": 1663038632,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 530941,
+        "num": 530941,
+        "word": "逃犯3天吃1碗泡面拦警车自首",
+        "onboard_time": 1663034613,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513491,
+        "num": 513491,
+        "word": "iOS16将支持清洁能源充电",
+        "onboard_time": 1663042596,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 469441,
+        "num": 469441,
+        "word": "安卓版灵动岛插件出炉",
+        "onboard_time": 1663038632,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 443491,
+        "num": 443491,
+        "word": "不做月饼的时候厂家在干吗",
+        "onboard_time": 1663041154,
+        "rank": 19,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 2536442,
+        "num": 441577,
+        "word": "潘粤明更新iOS16后打不开微信",
+        "onboard_time": 1663040554,
+        "rank": 20,
+        "category": "艺人,科技"
+      },
+      {
+        "raw_hot": 1149053,
+        "num": 428443,
+        "word": "李易峰塌房给明星艺人提了什么醒",
+        "onboard_time": 1662987699,
+        "rank": 21,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 519766,
+        "num": 416586,
+        "word": "iPhone14ProMax成预售冠军",
+        "onboard_time": 1663032810,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 460818,
+        "num": 403251,
+        "word": "电影世间有她豆瓣开分5.5",
+        "onboard_time": 1663043925,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 400640,
+        "num": 400640,
+        "word": "司仪婚礼上被狗追啃脚坚持主持",
+        "onboard_time": 1663035634,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378860,
+        "num": 378860,
+        "word": "西安疫情防控",
+        "onboard_time": 1663037073,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370451,
+        "num": 370451,
+        "word": "害羞到不知所措的狗狗",
+        "onboard_time": 1663039355,
+        "rank": 26,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 364101,
+        "num": 364101,
+        "word": "食堂6元肉夹馍全是肉肉肉",
+        "onboard_time": 1663032273,
+        "rank": 27,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 306213,
+        "num": 306213,
+        "word": "60岁大爷同学聚会全员穿白背心撞衫",
+        "onboard_time": 1663043079,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294307,
+        "num": 294307,
+        "word": "药明康德",
+        "onboard_time": 1663035932,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 344849,
+        "num": 292540,
+        "word": "李政宰艾美奖最佳男主角",
+        "onboard_time": 1663041454,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 335653,
+        "num": 290385,
+        "word": "走进Q学",
+        "onboard_time": 1663038093,
+        "rank": 31,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 316377,
+        "num": 287104,
+        "word": "试飞歼20有多危险",
+        "onboard_time": 1663038093,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 308311,
+        "num": 282852,
+        "word": "卜凡蒙塔拉现场版",
+        "onboard_time": 1663043925,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 280931,
+        "num": 280931,
+        "word": "蜜雪冰城柠檬水中有虫子被罚1万",
+        "onboard_time": 1663043201,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267567,
+        "num": 267567,
+        "word": "半个月后国庆遇国乒",
+        "onboard_time": 1663037852,
+        "rank": 35,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 265611,
+        "num": 265611,
+        "word": "羊了个羊第二关",
+        "onboard_time": 1663040193,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 250072,
+        "num": 250072,
+        "word": "护考",
+        "onboard_time": 1663043504,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 248364,
+        "num": 248364,
+        "word": "今年假期余额还有7天",
+        "onboard_time": 1663033834,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247585,
+        "num": 247585,
+        "word": "马斯克炮轰燃油车",
+        "onboard_time": 1663036829,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 287500,
+        "num": 246505,
+        "word": "披荆斩棘二公芭莎重返少年时视频",
+        "onboard_time": 1663042236,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249202,
+        "num": 242967,
+        "word": "周迅脱口秀",
+        "onboard_time": 1663028074,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238947,
+        "num": 238947,
+        "word": "山区女孩用4年逆袭考上资助人母校",
+        "onboard_time": 1663036532,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 233630,
+        "num": 233630,
+        "word": "节后emo了的emoji",
+        "onboard_time": 1663026990,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227704,
+        "num": 227704,
+        "word": "上海台风",
+        "onboard_time": 1663038813,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210995,
+        "num": 210995,
+        "word": "和女友吵架男子吞下2根钢丝",
+        "onboard_time": 1663043745,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191206,
+        "num": 191206,
+        "word": "最高检对王滨决定逮捕",
+        "onboard_time": 1663035572,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189987,
+        "num": 189987,
+        "word": "谁能拒绝鲜花的浪漫呢",
+        "onboard_time": 1663044048,
+        "rank": 47,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 172511,
+        "num": 172511,
+        "word": "民警吃加班饭迎面遇逃犯",
+        "onboard_time": 1663044348,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170901,
+        "num": 170901,
+        "word": "上班睡着的条件",
+        "onboard_time": 1663044709,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#上合组织元首理事会#"
+    }
+  }
+}
