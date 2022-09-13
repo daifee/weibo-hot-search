@@ -1,6 +1,6 @@
 {
   "startTime": 1663000581861,
-  "endTime": 1663049758301,
+  "endTime": 1663051070148,
   "band_list": [
     {
       "raw_hot": 9785867,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2536442,
-      "num": 441577,
+      "num": 836419,
       "word": "潘粤明更新iOS16后打不开微信",
       "onboard_time": 1663040554,
       "rank": 20,
@@ -105,6 +105,14 @@
       "onboard_time": 1662980737,
       "rank": 1,
       "category": "幽默,网红"
+    },
+    {
+      "raw_hot": 1547516,
+      "num": 1547516,
+      "word": "全自动核酸检测平台获批上市",
+      "onboard_time": 1663046623,
+      "rank": 6,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 1467210,
@@ -179,12 +187,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 944721,
-      "num": 944721,
-      "word": "全自动核酸检测平台获批上市",
-      "onboard_time": 1663046623,
-      "rank": 6,
-      "category": "科技,社会新闻"
+      "raw_hot": 929618,
+      "num": 929618,
+      "word": "陆虎的真实身份是艺人统筹吧",
+      "onboard_time": 1663049075,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 895677,
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 694416,
-      "num": 523113,
+      "num": 583291,
       "word": "闫永强退出水果星球乐团",
       "onboard_time": 1663045726,
       "rank": 11,
@@ -273,6 +281,14 @@
       "onboard_time": 1662989860,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 645728,
+      "num": 645728,
+      "word": "老板连摊4张饼都失败直接歇业",
+      "onboard_time": 1663049377,
+      "rank": 42,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 645557,
@@ -451,12 +467,20 @@
       "category": "幽默,美食"
     },
     {
-      "raw_hot": 431300,
-      "num": 431300,
-      "word": "陆虎的真实身份是艺人统筹吧",
-      "onboard_time": 1663049075,
-      "rank": 14,
-      "category": "综艺"
+      "raw_hot": 430936,
+      "num": 430936,
+      "word": "羊了个羊崩了",
+      "onboard_time": 1663049616,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 428320,
+      "num": 428320,
+      "word": "9月14日宁波全市停课一天",
+      "onboard_time": 1663047342,
+      "rank": 17,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 426493,
@@ -481,14 +505,6 @@
       "onboard_time": 1662979358,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 401248,
-      "num": 401248,
-      "word": "9月14日宁波全市停课一天",
-      "onboard_time": 1663047342,
-      "rank": 17,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 396965,
@@ -521,6 +537,14 @@
       "onboard_time": 1663023983,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 377081,
+      "num": 377081,
+      "word": "微博处置发布极端追星言论账号",
+      "onboard_time": 1663049075,
+      "rank": 22,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 375264,
@@ -579,6 +603,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 335064,
+      "num": 335064,
+      "word": "王栎鑫的嘴里是不是有个刨子",
+      "onboard_time": 1663050757,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 327144,
       "num": 287104,
       "word": "试飞歼20有多危险",
@@ -603,14 +635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 318693,
-      "num": 318693,
-      "word": "微博处置发布极端追星言论账号",
-      "onboard_time": 1663049075,
-      "rank": 22,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 311215,
       "num": 311215,
       "word": "物业回应业主住宅楼养5头猪",
@@ -627,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 308349,
+      "num": 308349,
+      "word": "原来大象洗澡是会笑的",
+      "onboard_time": 1663048299,
+      "rank": 29,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 308311,
       "num": 282852,
       "word": "卜凡蒙塔拉现场版",
@@ -641,6 +673,22 @@
       "onboard_time": 1663026149,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 305831,
+      "num": 305831,
+      "word": "女子遇电诈带换洗衣物派出所自首",
+      "onboard_time": 1663045905,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 304260,
+      "num": 304260,
+      "word": "女子求职问5险被嘲讽",
+      "onboard_time": 1663049137,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 302843,
@@ -675,14 +723,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 296098,
-      "num": 296098,
-      "word": "女子遇电诈带换洗衣物派出所自首",
-      "onboard_time": 1663045905,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 292665,
       "num": 255173,
       "word": "黄景瑜罚罪站内热度值破9700",
@@ -715,14 +755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 279811,
-      "num": 279811,
-      "word": "原来大象洗澡是会笑的",
-      "onboard_time": 1663048299,
-      "rank": 29,
-      "category": "幽默,社会新闻"
-    },
-    {
       "raw_hot": 279401,
       "num": 279401,
       "word": "ST洲际开盘一字涨停",
@@ -745,6 +777,14 @@
       "onboard_time": 1662987944,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267643,
+      "num": 267643,
+      "word": "孟子义认为主动并不廉价",
+      "onboard_time": 1663049736,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 267567,
@@ -827,6 +867,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 235756,
+      "num": 235756,
+      "word": "泽连斯基称乌军已控制6000平方公里土地",
+      "onboard_time": 1663050394,
+      "rank": 33,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 235072,
       "num": 139713,
       "word": "罚罪",
@@ -867,12 +915,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229201,
+      "num": 229201,
+      "word": "6最多联通手机号1366万起拍",
+      "onboard_time": 1663047701,
+      "rank": 39,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 228378,
+      "num": 228378,
+      "word": "青岛增本土确诊7例",
+      "onboard_time": 1663049915,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226270,
       "num": 226270,
       "word": "上班睡着的条件",
       "onboard_time": 1663044709,
       "rank": 49,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 225704,
+      "num": 225704,
+      "word": "女子穿黄衣排队满背飞虫",
+      "onboard_time": 1663050277,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225043,
@@ -939,27 +1011,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 212196,
-      "num": 212196,
-      "word": "6最多联通手机号1366万起拍",
-      "onboard_time": 1663047701,
-      "rank": 39,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 211289,
       "num": 211289,
       "word": "天府新区疫情防控",
       "onboard_time": 1662994486,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208490,
-      "num": 208490,
-      "word": "女子求职问5险被嘲讽",
-      "onboard_time": 1663049137,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -979,6 +1035,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 201981,
+      "num": 201981,
+      "word": "想唱就唱的夏天",
+      "onboard_time": 1663050815,
+      "rank": 41,
+      "category": "综艺,情感"
+    },
+    {
       "raw_hot": 201800,
       "num": 201800,
       "word": "樱桃琥珀",
@@ -987,20 +1051,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 201775,
-      "num": 201775,
-      "word": "老板连摊4张饼都失败直接歇业",
-      "onboard_time": 1663049377,
-      "rank": 42,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 201675,
       "num": 201675,
       "word": "艾美奖",
       "onboard_time": 1663033895,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 195777,
+      "num": 195777,
+      "word": "全日制博士坐享国企中层副职",
+      "onboard_time": 1663050695,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193621,
@@ -1027,28 +1091,12 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 189956,
-      "num": 189956,
-      "word": "羊了个羊崩了",
-      "onboard_time": 1663049616,
-      "rank": 43,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 187055,
       "num": 187055,
       "word": "警犬协助缴获毒品23公斤",
       "onboard_time": 1663035695,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 185582,
-      "num": 176893,
-      "word": "孟子义认为主动并不廉价",
-      "onboard_time": 1663049736,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 185440,
@@ -1129,6 +1177,14 @@
       "onboard_time": 1663003459,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157471,
+      "num": 157471,
+      "word": "羊了个羊回应崩了",
+      "onboard_time": 1663050995,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 151023,
