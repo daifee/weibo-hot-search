@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663062204063,
+  "endTime": 1663064840258,
   "band_list": [
     {
       "raw_hot": 9785867,
@@ -185,6 +185,14 @@
       "onboard_time": 1663040554,
       "rank": 20,
       "category": "艺人,科技"
+    },
+    {
+      "raw_hot": 2411747,
+      "num": 2110556,
+      "word": "王一博希望能成为一个酷小孩",
+      "onboard_time": 1663063592,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 2335033,
@@ -443,6 +451,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1339001,
+      "num": 1339001,
+      "word": "张朝阳称iPhone14紫色光谱里不存在",
+      "onboard_time": 1663060777,
+      "rank": 38,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1308941,
       "num": 1308941,
       "word": "原来米虫是从米里出来的",
@@ -465,6 +481,14 @@
       "onboard_time": 1663052493,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1255504,
+      "num": 1255504,
+      "word": "Twins不承认吴谨言的粤语是自己教的",
+      "onboard_time": 1663061137,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 1240701,
@@ -587,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1032401,
+      "num": 851986,
+      "word": "唐山打人案今日公开审理",
+      "onboard_time": 1663063053,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1016328,
       "num": 524118,
       "word": "刘浩存林一脱轨开机路透",
@@ -673,14 +705,6 @@
       "onboard_time": 1662908453,
       "rank": 13,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 899380,
-      "num": 562606,
-      "word": "Twins不承认吴谨言的粤语是自己教的",
-      "onboard_time": 1663061137,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 895677,
@@ -811,6 +835,14 @@
       "category": "教育,艺人"
     },
     {
+      "raw_hot": 737741,
+      "num": 737741,
+      "word": "将进酒",
+      "onboard_time": 1663062937,
+      "rank": 11,
+      "category": "其它"
+    },
+    {
       "raw_hot": 735388,
       "num": 735388,
       "word": "河南引进全日制博士可享国企中层副职待遇",
@@ -897,6 +929,14 @@
       "onboard_time": 1662966574,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 677967,
+      "num": 677967,
+      "word": "苹果四款机型不支持电量百分比",
+      "onboard_time": 1663061735,
+      "rank": 43,
+      "category": "科技"
     },
     {
       "raw_hot": 675416,
@@ -987,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 626255,
+      "num": 626255,
+      "word": "美国限制芯片出口是科技霸权主义",
+      "onboard_time": 1663061557,
+      "rank": 34,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 612255,
       "num": 612255,
       "word": "女子穿黄衣排队满背飞虫",
@@ -1025,6 +1073,14 @@
       "onboard_time": 1662951813,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 582150,
+      "num": 582150,
+      "word": "吴磊爱情而已路透",
+      "onboard_time": 1663063293,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 577419,
@@ -1171,12 +1227,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 522355,
-      "num": 522355,
-      "word": "张朝阳称iPhone14紫色光谱里不存在",
-      "onboard_time": 1663060777,
-      "rank": 38,
-      "category": "科技"
+      "raw_hot": 520278,
+      "num": 520278,
+      "word": "男子捐2000元图书被慈善机构卖出",
+      "onboard_time": 1663062096,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 520023,
@@ -1507,6 +1563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 422955,
+      "num": 422955,
+      "word": "ios16壁纸",
+      "onboard_time": 1663062036,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
       "raw_hot": 422619,
       "num": 422619,
       "word": "中国男排失去奥运资格赛主动权",
@@ -1665,6 +1729,22 @@
       "onboard_time": 1662973958,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 372009,
+      "num": 372009,
+      "word": "叱咤之城出品方晒与汪海林聊天记录",
+      "onboard_time": 1663063053,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 371726,
+      "num": 371726,
+      "word": "11万天价地毯",
+      "onboard_time": 1663063894,
+      "rank": 20,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 370451,
@@ -2099,6 +2179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 287592,
+      "num": 287592,
+      "word": "NCT127主打曲MV预告",
+      "onboard_time": 1663062695,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 287500,
       "num": 252015,
       "word": "披荆斩棘二公芭莎重返少年时视频",
@@ -2355,12 +2443,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 243952,
+      "num": 243952,
+      "word": "徐正溪 古装",
+      "onboard_time": 1663063233,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 240353,
       "num": 240353,
       "word": "普京称去美元化进程不可避免",
       "onboard_time": 1663011673,
       "rank": 22,
       "category": "国外要闻,财经"
+    },
+    {
+      "raw_hot": 239224,
+      "num": 239224,
+      "word": "校方回应教师获奖200万元商品房",
+      "onboard_time": 1663062994,
+      "rank": 29,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 238947,
@@ -2419,6 +2523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 233870,
+      "num": 233870,
+      "word": "要是没录下来后悔一辈子",
+      "onboard_time": 1663063954,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 232933,
       "num": 232933,
       "word": "北京9月12日新增10例本土确诊",
@@ -2457,6 +2569,14 @@
       "onboard_time": 1662996042,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 230206,
+      "num": 230206,
+      "word": "东软",
+      "onboard_time": 1663060112,
+      "rank": 34,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 229416,
@@ -2547,14 +2667,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 214052,
-      "num": 214052,
-      "word": "东软",
-      "onboard_time": 1663060112,
-      "rank": 34,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 213641,
       "num": 164364,
       "word": "王宝强说一切都太值得",
@@ -2625,14 +2737,6 @@
       "onboard_time": 1663047879,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 203629,
-      "num": 203629,
-      "word": "美国限制芯片出口是科技霸权主义",
-      "onboard_time": 1663061557,
-      "rank": 34,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 203135,
@@ -2827,6 +2931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 177215,
+      "num": 177215,
+      "word": "这猫是梅超风吧",
+      "onboard_time": 1663062335,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 172511,
       "num": 172511,
       "word": "民警吃加班饭迎面遇逃犯",
@@ -2923,14 +3035,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 156276,
-      "num": 156276,
-      "word": "苹果四款机型不支持电量百分比",
-      "onboard_time": 1663061735,
-      "rank": 43,
-      "category": "科技"
-    },
-    {
       "raw_hot": 154482,
       "num": 154482,
       "word": "60多岁男房东给21岁女租客发不雅视频",
@@ -2963,12 +3067,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150753,
+      "num": 150753,
+      "word": "北京朝阳新增感染者13例",
+      "onboard_time": 1663062515,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150510,
       "num": 150510,
       "word": "故宫满月壁纸",
       "onboard_time": 1662978160,
       "rank": 44,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 145362,
+      "num": 145362,
+      "word": "微信坚决抵制无底线追星",
+      "onboard_time": 1663064614,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 145011,
@@ -2979,28 +3099,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 140784,
-      "num": 140784,
-      "word": "男子捐2000元图书被慈善机构卖出",
-      "onboard_time": 1663062096,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 140759,
       "num": 140759,
       "word": "长期嚼槟榔的危害有多大",
       "onboard_time": 1662991902,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 139865,
-      "num": 139865,
-      "word": "ios16壁纸",
-      "onboard_time": 1663062036,
-      "rank": 47,
-      "category": "科技"
     },
     {
       "raw_hot": 135393,
