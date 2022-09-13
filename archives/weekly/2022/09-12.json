@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663036403303,
+  "endTime": 1663039147343,
   "band_list": [
     {
       "raw_hot": 9785867,
@@ -73,6 +73,14 @@
       "onboard_time": 1662961712,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3374889,
+      "num": 3374889,
+      "word": "顺丰寄丢20克黄金保价八千只赔两千",
+      "onboard_time": 1663035392,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3162379,
@@ -275,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1372919,
+      "num": 1372919,
+      "word": "女子用老公的会员卡结账被拒",
+      "onboard_time": 1663035332,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1371326,
       "num": 1371326,
       "word": "网传杨紫王鹤棣出演风月锦囊",
@@ -385,6 +401,14 @@
       "onboard_time": 1662966574,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1096823,
+      "num": 1096823,
+      "word": "荣梓杉 美甲",
+      "onboard_time": 1663036411,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 1093865,
@@ -499,20 +523,20 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 895677,
+      "num": 895677,
+      "word": "逃犯3天吃1碗泡面拦警车自首",
+      "onboard_time": 1663034613,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 886929,
       "num": 886929,
       "word": "一口生腌吃进去多少风险",
       "onboard_time": 1662978699,
       "rank": 36,
       "category": "美食"
-    },
-    {
-      "raw_hot": 875830,
-      "num": 875830,
-      "word": "顺丰寄丢20克黄金保价八千只赔两千",
-      "onboard_time": 1663035392,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 849503,
@@ -537,6 +561,14 @@
       "onboard_time": 1662943354,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 810694,
+      "num": 609861,
+      "word": "赵丽颖金九封面预告",
+      "onboard_time": 1663038632,
+      "rank": 11,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 809926,
@@ -739,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 605027,
+      "num": 605027,
+      "word": "司仪婚礼上被狗追啃脚坚持主持",
+      "onboard_time": 1663035634,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 595899,
       "num": 595899,
       "word": "武汉一高校保安抛扔学生外卖",
@@ -803,12 +843,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 545587,
-      "num": 545587,
-      "word": "逃犯3天吃1碗泡面拦警车自首",
-      "onboard_time": 1663034613,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 544029,
+      "num": 544029,
+      "word": "药明康德",
+      "onboard_time": 1663035932,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 536775,
@@ -867,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 515141,
+      "num": 515141,
+      "word": "西安疫情防控",
+      "onboard_time": 1663037073,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 511683,
       "num": 511683,
       "word": "泸定地震已致93人遇难",
@@ -889,14 +937,6 @@
       "onboard_time": 1662910066,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 503342,
-      "num": 503342,
-      "word": "女子用老公的会员卡结账被拒",
-      "onboard_time": 1663035332,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 502793,
@@ -1033,6 +1073,14 @@
       "onboard_time": 1662952413,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 459595,
+      "num": 459595,
+      "word": "新款苹果表采用与老款相同芯片",
+      "onboard_time": 1663035033,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 455727,
@@ -1177,6 +1225,14 @@
       "onboard_time": 1662947735,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 375264,
+      "num": 375264,
+      "word": "最高检对王滨决定逮捕",
+      "onboard_time": 1663035572,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 373806,
@@ -1331,6 +1387,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 327144,
+      "num": 240175,
+      "word": "试飞歼20有多危险",
+      "onboard_time": 1663038093,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 325264,
       "num": 325264,
       "word": "库尔勒全市临时静态管理7天",
@@ -1403,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310549,
+      "num": 310549,
+      "word": "今年假期余额还有7天",
+      "onboard_time": 1663033834,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 307513,
       "num": 307513,
       "word": "iOS15.7",
@@ -1443,12 +1515,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299262,
+      "num": 299262,
+      "word": "上完14天班又是小长假",
+      "onboard_time": 1663036411,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 292665,
       "num": 255173,
       "word": "黄景瑜罚罪站内热度值破9700",
       "onboard_time": 1663001844,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 292078,
+      "num": 292078,
+      "word": "5岁男童患癌头部变形吓哭自己",
+      "onboard_time": 1663038513,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 289184,
@@ -1483,6 +1571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 283395,
+      "num": 240063,
+      "word": "走进Q学",
+      "onboard_time": 1663038093,
+      "rank": 32,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 280532,
       "num": 280532,
       "word": "杀猪盘骗子屋里搜出一摞撩汉秘籍",
@@ -1497,6 +1593,14 @@
       "onboard_time": 1663033895,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 278555,
+      "num": 278555,
+      "word": "马斯克炮轰燃油车",
+      "onboard_time": 1663036829,
+      "rank": 27,
+      "category": "科技"
     },
     {
       "raw_hot": 277566,
@@ -1635,14 +1739,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 243790,
-      "num": 243790,
-      "word": "今年假期余额还有7天",
-      "onboard_time": 1663033834,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 240353,
       "num": 240353,
       "word": "普京称去美元化进程不可避免",
@@ -1675,14 +1771,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 235210,
-      "num": 235210,
-      "word": "最高检对王滨决定逮捕",
-      "onboard_time": 1663035572,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 235206,
       "num": 235206,
       "word": "若木星轨道改变地球或更宜居",
@@ -1705,6 +1793,14 @@
       "onboard_time": 1663029455,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232501,
+      "num": 232501,
+      "word": "山区女孩用4年逆袭考上资助人母校",
+      "onboard_time": 1663036532,
+      "rank": 34,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 231366,
@@ -1739,6 +1835,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225043,
+      "num": 225043,
+      "word": "乌哈尔科夫热电站遇袭爆炸",
+      "onboard_time": 1663036112,
+      "rank": 47,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 222945,
+      "num": 167885,
+      "word": "2022艾美奖获奖名单",
+      "onboard_time": 1663039115,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 220079,
       "num": 220079,
       "word": "内江疫情防控",
@@ -1755,12 +1867,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 216993,
-      "num": 216993,
-      "word": "药明康德",
-      "onboard_time": 1663035932,
-      "rank": 35,
-      "category": "财经"
+      "raw_hot": 217613,
+      "num": 217613,
+      "word": "北京疫情防控",
+      "onboard_time": 1663036654,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215754,
@@ -1843,14 +1955,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203152,
-      "num": 203152,
-      "word": "司仪婚礼上被狗追啃脚坚持主持",
-      "onboard_time": 1663035634,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 203135,
       "num": 174757,
       "word": "远离嫖娼别心动更别行动",
@@ -1923,14 +2027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 195687,
-      "num": 195687,
-      "word": "新款苹果表采用与老款相同芯片",
-      "onboard_time": 1663035033,
-      "rank": 39,
-      "category": "科技"
-    },
-    {
       "raw_hot": 193713,
       "num": 193713,
       "word": "再放这个风筝就不礼貌了",
@@ -1979,6 +2075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 189306,
+      "num": 189306,
+      "word": "半个月后国庆遇国乒",
+      "onboard_time": 1663037852,
+      "rank": 42,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 187055,
       "num": 187055,
       "word": "警犬协助缴获毒品23公斤",
@@ -1993,6 +2097,14 @@
       "onboard_time": 1662971976,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 183908,
+      "num": 183908,
+      "word": "安卓版灵动岛插件出炉",
+      "onboard_time": 1663038632,
+      "rank": 44,
+      "category": "科技"
     },
     {
       "raw_hot": 183592,
@@ -2040,6 +2152,14 @@
       "word": "第五人格",
       "onboard_time": 1662978995,
       "rank": 41,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 169397,
+      "num": 169397,
+      "word": "EDG9周年",
+      "onboard_time": 1663038872,
+      "rank": 46,
       "category": "游戏"
     },
     {
@@ -2099,6 +2219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151175,
+      "num": 151175,
+      "word": "上海台风",
+      "onboard_time": 1663038813,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151023,
       "num": 151023,
       "word": "乘客连跑带喊冲下地铁分工救人",
@@ -2113,14 +2241,6 @@
       "onboard_time": 1662978160,
       "rank": 44,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 145278,
-      "num": 145278,
-      "word": "乌哈尔科夫热电站遇袭爆炸",
-      "onboard_time": 1663036112,
-      "rank": 47,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 140759,

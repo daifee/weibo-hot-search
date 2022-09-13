@@ -1,0 +1,410 @@
+{
+  "runTime": 1663039147343,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3374889,
+        "num": 3374889,
+        "word": "顺丰寄丢20克黄金保价八千只赔两千",
+        "onboard_time": 1663035392,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2044220,
+        "num": 2044220,
+        "word": "羊了个羊",
+        "onboard_time": 1663025968,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 43239,
+        "num": 1620625,
+        "word": "中国乡村风景可以洗眼睛",
+        "onboard_time": 1662942872,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1456654,
+        "num": 1456654,
+        "word": "东八区的先生们 上星剧",
+        "onboard_time": 1663027713,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1372919,
+        "num": 1372919,
+        "word": "女子用老公的会员卡结账被拒",
+        "onboard_time": 1663035332,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1096823,
+        "num": 1096823,
+        "word": "荣梓杉 美甲",
+        "onboard_time": 1663036411,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1055208,
+        "num": 1055208,
+        "word": "iPhone14ProMax成预售冠军",
+        "onboard_time": 1663032810,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 979041,
+        "num": 979041,
+        "word": "网传杨紫王鹤棣出演风月锦囊",
+        "onboard_time": 1663026388,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 895677,
+        "num": 895677,
+        "word": "逃犯3天吃1碗泡面拦警车自首",
+        "onboard_time": 1663034613,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610564,
+        "num": 610564,
+        "word": "食堂6元肉夹馍全是肉肉肉",
+        "onboard_time": 1663032273,
+        "rank": 9,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 1564815,
+        "num": 610395,
+        "word": "张翰的手",
+        "onboard_time": 1662996581,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 810694,
+        "num": 609861,
+        "word": "赵丽颖金九封面预告",
+        "onboard_time": 1663038632,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 605027,
+        "num": 605027,
+        "word": "司仪婚礼上被狗追啃脚坚持主持",
+        "onboard_time": 1663035634,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544029,
+        "num": 544029,
+        "word": "药明康德",
+        "onboard_time": 1663035932,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 515141,
+        "num": 515141,
+        "word": "西安疫情防控",
+        "onboard_time": 1663037073,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463799,
+        "num": 463799,
+        "word": "两个人的小森林定档0915",
+        "onboard_time": 1663035090,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 459595,
+        "num": 459595,
+        "word": "新款苹果表采用与老款相同芯片",
+        "onboard_time": 1663035033,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 375264,
+        "num": 375264,
+        "word": "最高检对王滨决定逮捕",
+        "onboard_time": 1663035572,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346425,
+        "num": 346425,
+        "word": "节后emo了的emoji",
+        "onboard_time": 1663026990,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310549,
+        "num": 310549,
+        "word": "今年假期余额还有7天",
+        "onboard_time": 1663033834,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1188099,
+        "num": 310497,
+        "word": "李易峰塌房给明星艺人提了什么醒",
+        "onboard_time": 1662987699,
+        "rank": 20,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 422458,
+        "num": 310443,
+        "word": "600759",
+        "onboard_time": 1662992502,
+        "rank": 21,
+        "category": "综艺,财经"
+      },
+      {
+        "raw_hot": 380441,
+        "num": 310419,
+        "word": "BLACKPINK新歌海报预告",
+        "onboard_time": 1663035090,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 310381,
+        "num": 310381,
+        "word": "恒大要求9月30日前全面复工",
+        "onboard_time": 1663028435,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299262,
+        "num": 299262,
+        "word": "上完14天班又是小长假",
+        "onboard_time": 1663036411,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292078,
+        "num": 292078,
+        "word": "5岁男童患癌头部变形吓哭自己",
+        "onboard_time": 1663038513,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292006,
+        "num": 292006,
+        "word": "北京地铁采取人工核验方式进站",
+        "onboard_time": 1663032035,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278555,
+        "num": 278555,
+        "word": "马斯克炮轰燃油车",
+        "onboard_time": 1663036829,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 259367,
+        "num": 259367,
+        "word": "武汉一高校保安抛扔学生外卖",
+        "onboard_time": 1663030473,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 241627,
+        "num": 241627,
+        "word": "ST洲际开盘一字涨停",
+        "onboard_time": 1663033895,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 343253,
+        "num": 240459,
+        "word": "曾志伟cos阿妮亚",
+        "onboard_time": 1663027110,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 327144,
+        "num": 240175,
+        "word": "试飞歼20有多危险",
+        "onboard_time": 1663038093,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 283395,
+        "num": 240063,
+        "word": "走进Q学",
+        "onboard_time": 1663038093,
+        "rank": 32,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 236156,
+        "num": 236156,
+        "word": "檀健次演技",
+        "onboard_time": 1663031552,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232501,
+        "num": 232501,
+        "word": "山区女孩用4年逆袭考上资助人母校",
+        "onboard_time": 1663036532,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 225121,
+        "num": 225121,
+        "word": "台风梅花预计14日登陆",
+        "onboard_time": 1663032572,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225043,
+        "num": 225043,
+        "word": "乌哈尔科夫热电站遇袭爆炸",
+        "onboard_time": 1663036112,
+        "rank": 36,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 218397,
+        "num": 218397,
+        "word": "iOS15.7",
+        "onboard_time": 1663026149,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 217613,
+        "num": 217613,
+        "word": "北京疫情防控",
+        "onboard_time": 1663036654,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207856,
+        "num": 207856,
+        "word": "寄养姑姑家女孩给表弟买了一套房",
+        "onboard_time": 1662996223,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226167,
+        "num": 206057,
+        "word": "周迅脱口秀",
+        "onboard_time": 1663028074,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197987,
+        "num": 197987,
+        "word": "物业回应业主住宅楼养5头猪",
+        "onboard_time": 1663031974,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189306,
+        "num": 189306,
+        "word": "半个月后国庆遇国乒",
+        "onboard_time": 1663037852,
+        "rank": 42,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 185656,
+        "num": 185656,
+        "word": "原来米虫是从米里出来的",
+        "onboard_time": 1662995624,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183908,
+        "num": 183908,
+        "word": "安卓版灵动岛插件出炉",
+        "onboard_time": 1663038632,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 174915,
+        "num": 174915,
+        "word": "ios16",
+        "onboard_time": 1662984455,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 169397,
+        "num": 169397,
+        "word": "EDG9周年",
+        "onboard_time": 1663038872,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 222945,
+        "num": 167885,
+        "word": "2022艾美奖获奖名单",
+        "onboard_time": 1663039115,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160953,
+        "num": 160953,
+        "word": "三河全域实行4天静默管理",
+        "onboard_time": 1663029813,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151175,
+        "num": 151175,
+        "word": "上海台风",
+        "onboard_time": 1663038813,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#打造多元共生的生态系统#"
+    }
+  }
+}

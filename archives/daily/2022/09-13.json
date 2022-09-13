@@ -1,6 +1,6 @@
 {
   "startTime": 1663000581861,
-  "endTime": 1663036403303,
+  "endTime": 1663039147343,
   "band_list": [
     {
       "raw_hot": 9785867,
@@ -9,6 +9,14 @@
       "onboard_time": 1662996581,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 3374889,
+      "num": 3374889,
+      "word": "顺丰寄丢20克黄金保价八千只赔两千",
+      "onboard_time": 1663035392,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2916903,
@@ -67,6 +75,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1372919,
+      "num": 1372919,
+      "word": "女子用老公的会员卡结账被拒",
+      "onboard_time": 1663035332,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1371326,
       "num": 1371326,
       "word": "网传杨紫王鹤棣出演风月锦囊",
@@ -91,12 +107,28 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 1096823,
+      "num": 1096823,
+      "word": "荣梓杉 美甲",
+      "onboard_time": 1663036411,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1006246,
       "num": 1006246,
       "word": "两个人的小森林定档0915",
       "onboard_time": 1663035090,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 895677,
+      "num": 895677,
+      "word": "逃犯3天吃1碗泡面拦警车自首",
+      "onboard_time": 1663034613,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 887941,
@@ -107,20 +139,20 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 875830,
-      "num": 875830,
-      "word": "顺丰寄丢20克黄金保价八千只赔两千",
-      "onboard_time": 1663035392,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 837849,
       "num": 837849,
       "word": "寄养姑姑家女孩给表弟买了一套房",
       "onboard_time": 1662996223,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 810694,
+      "num": 609861,
+      "word": "赵丽颖金九封面预告",
+      "onboard_time": 1663038632,
+      "rank": 11,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 792102,
@@ -163,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 605027,
+      "num": 605027,
+      "word": "司仪婚礼上被狗追啃脚坚持主持",
+      "onboard_time": 1663035634,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 604252,
       "num": 383612,
       "word": "编剧真的很了解贫穷",
@@ -187,12 +227,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 545587,
-      "num": 545587,
-      "word": "逃犯3天吃1碗泡面拦警车自首",
-      "onboard_time": 1663034613,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 544029,
+      "num": 544029,
+      "word": "药明康德",
+      "onboard_time": 1663035932,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 529538,
@@ -227,20 +267,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 515141,
+      "num": 515141,
+      "word": "西安疫情防控",
+      "onboard_time": 1663037073,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 514128,
       "num": 220863,
       "word": "ios16",
       "onboard_time": 1662984455,
       "rank": 21,
       "category": "科技"
-    },
-    {
-      "raw_hot": 503342,
-      "num": 503342,
-      "word": "女子用老公的会员卡结账被拒",
-      "onboard_time": 1663035332,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 487952,
@@ -257,6 +297,14 @@
       "onboard_time": 1663032035,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 459595,
+      "num": 459595,
+      "word": "新款苹果表采用与老款相同芯片",
+      "onboard_time": 1663035033,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 408605,
@@ -291,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 375264,
+      "num": 375264,
+      "word": "最高检对王滨决定逮捕",
+      "onboard_time": 1663035572,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 361052,
       "num": 361052,
       "word": "19岁男生送外卖攒够一年学费",
@@ -315,6 +371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 327144,
+      "num": 240175,
+      "word": "试飞歼20有多危险",
+      "onboard_time": 1663038093,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 322855,
       "num": 322855,
       "word": "台风梅花预计14日登陆",
@@ -328,6 +392,14 @@
       "word": "物业回应业主住宅楼养5头猪",
       "onboard_time": 1663031974,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310549,
+      "num": 310549,
+      "word": "今年假期余额还有7天",
+      "onboard_time": 1663033834,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -363,12 +435,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299262,
+      "num": 299262,
+      "word": "上完14天班又是小长假",
+      "onboard_time": 1663036411,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 292665,
       "num": 255173,
       "word": "黄景瑜罚罪站内热度值破9700",
       "onboard_time": 1663001844,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 292078,
+      "num": 292078,
+      "word": "5岁男童患癌头部变形吓哭自己",
+      "onboard_time": 1663038513,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 288285,
@@ -379,12 +467,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283395,
+      "num": 240063,
+      "word": "走进Q学",
+      "onboard_time": 1663038093,
+      "rank": 32,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 279401,
       "num": 279401,
       "word": "ST洲际开盘一字涨停",
       "onboard_time": 1663033895,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 278555,
+      "num": 278555,
+      "word": "马斯克炮轰燃油车",
+      "onboard_time": 1663036829,
+      "rank": 27,
+      "category": "科技"
     },
     {
       "raw_hot": 274269,
@@ -411,28 +515,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 243790,
-      "num": 243790,
-      "word": "今年假期余额还有7天",
-      "onboard_time": 1663033834,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 240353,
       "num": 240353,
       "word": "普京称去美元化进程不可避免",
       "onboard_time": 1663011673,
       "rank": 22,
       "category": "国外要闻,财经"
-    },
-    {
-      "raw_hot": 235210,
-      "num": 235210,
-      "word": "最高检对王滨决定逮捕",
-      "onboard_time": 1663035572,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 235072,
@@ -467,6 +555,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232501,
+      "num": 232501,
+      "word": "山区女孩用4年逆袭考上资助人母校",
+      "onboard_time": 1663036532,
+      "rank": 34,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 225043,
+      "num": 225043,
+      "word": "乌哈尔科夫热电站遇袭爆炸",
+      "onboard_time": 1663036112,
+      "rank": 47,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 222945,
+      "num": 167885,
+      "word": "2022艾美奖获奖名单",
+      "onboard_time": 1663039115,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 222636,
       "num": 222636,
       "word": "小区景观池鱼变少捕获38斤鳄雀鳝",
@@ -483,12 +595,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 216993,
-      "num": 216993,
-      "word": "药明康德",
-      "onboard_time": 1663035932,
-      "rank": 35,
-      "category": "财经"
+      "raw_hot": 217613,
+      "num": 217613,
+      "word": "北京疫情防控",
+      "onboard_time": 1663036654,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215631,
@@ -531,14 +643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203152,
-      "num": 203152,
-      "word": "司仪婚礼上被狗追啃脚坚持主持",
-      "onboard_time": 1663035634,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 201800,
       "num": 201800,
       "word": "樱桃琥珀",
@@ -553,14 +657,6 @@
       "onboard_time": 1663033895,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 195687,
-      "num": 195687,
-      "word": "新款苹果表采用与老款相同芯片",
-      "onboard_time": 1663035033,
-      "rank": 39,
-      "category": "科技"
     },
     {
       "raw_hot": 193621,
@@ -579,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189306,
+      "num": 189306,
+      "word": "半个月后国庆遇国乒",
+      "onboard_time": 1663037852,
+      "rank": 42,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 187055,
       "num": 187055,
       "word": "警犬协助缴获毒品23公斤",
@@ -593,6 +697,14 @@
       "onboard_time": 1662986978,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183908,
+      "num": 183908,
+      "word": "安卓版灵动岛插件出炉",
+      "onboard_time": 1663038632,
+      "rank": 44,
+      "category": "科技"
     },
     {
       "raw_hot": 177400,
@@ -619,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169397,
+      "num": 169397,
+      "word": "EDG9周年",
+      "onboard_time": 1663038872,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 159200,
       "num": 159200,
       "word": "阴阳师",
@@ -631,6 +751,14 @@
       "num": 157737,
       "word": "奶奶落井爷爷托举一小时后被救",
       "onboard_time": 1663003459,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151175,
+      "num": 151175,
+      "word": "上海台风",
+      "onboard_time": 1663038813,
       "rank": 49,
       "category": "社会新闻"
     },
@@ -649,14 +777,6 @@
       "onboard_time": 1662994666,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 145278,
-      "num": 145278,
-      "word": "乌哈尔科夫热电站遇袭爆炸",
-      "onboard_time": 1663036112,
-      "rank": 47,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 141997,
@@ -804,7 +924,7 @@
     },
     {
       "raw_hot": 45175,
-      "num": 1552766,
+      "num": 1620625,
       "word": "中国乡村风景可以洗眼睛",
       "onboard_time": 1662942872,
       "rank": 2,
