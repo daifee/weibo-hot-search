@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/13 23:44:54
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/14 00:33:22
 </p>
 </blockquote>
 <p>
@@ -161,6 +161,12 @@ Prada与李易峰终止合作（热度：4487251）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone14%23" target="weibo">
 iPhone14（热度：4450676）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8A%E4%BA%86%E4%B8%AA%E7%BE%8A%20bug%23" target="weibo">
+羊了个羊 bug（热度：4428299）
 </a>
 </li>
 
@@ -1359,6 +1365,12 @@ Angelababy晒与狗狗合照（热度：1779691）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%A4%A9%E5%A0%82%23" target="weibo">
+任天堂（热度：1771135）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%AD%BB%E6%8E%89%E7%9A%84%E8%9E%83%E8%9F%B9%E4%B8%8D%E8%83%BD%E5%90%83%23" target="weibo">
 为什么死掉的螃蟹不能吃（热度：1770311）
 </a>
@@ -1685,12 +1697,6 @@ iPhone14ProMax电池容量不增反降（热度：1588541）
 <li>
 <a href="https://s.weibo.com/weibo?q=%238800%E5%85%83%E7%BD%91%E8%B4%AD%E7%9A%84%E7%8C%AB%E4%B8%8D%E5%88%B0%E4%B8%80%E5%91%A8%E5%B0%B1%E7%A6%BB%E4%B8%96%23" target="weibo">
 8800元网购的猫不到一周就离世（热度：1587890）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%A4%A9%E5%A0%82%23" target="weibo">
-任天堂（热度：1586230）
 </a>
 </li>
 
@@ -3027,6 +3033,12 @@ Light身体不适（热度：1095817）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%89%E5%AE%8F%E6%A1%91%E6%B7%98%E6%B1%B0%23" target="weibo">
+拉宏桑淘汰（热度：1095040）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2390%E5%90%8E%E5%B0%8F%E4%BC%99%E4%B8%BA%E5%B7%A5%E4%BD%9C9%E5%B9%B4%E4%B8%8D%E7%82%AB%E7%81%AB%E9%94%85%23" target="weibo">
 90后小伙为工作9年不炫火锅（热度：1093865）
 </a>
@@ -3545,6 +3557,12 @@ BLACKPINK新歌未通过KBS审议（热度：999636）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E7%9E%AC%E9%97%B4%E7%86%8A%E7%8C%AB%E5%A6%88%E5%A6%88%E6%90%BA%E5%B9%BC%E5%B4%BD%E5%AE%A4%E5%A4%96%E9%81%BF%E9%99%A9%23" target="weibo">
 地震瞬间熊猫妈妈携幼崽室外避险（热度：984660）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E7%96%91%E5%9B%A0%E5%90%B5%E6%9E%B6%E6%8A%8A%E7%8B%97%E6%8E%A8%E4%B8%8B4%E6%A5%BC%23" target="weibo">
+夫妻疑因吵架把狗推下4楼（热度：980730）
 </a>
 </li>
 
@@ -4359,8 +4377,8 @@ iPhone14系列没涨价（热度：892829）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8A%E4%BA%86%E4%B8%AA%E7%BE%8A%20bug%23" target="weibo">
-羊了个羊 bug（热度：854578）
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%88%E6%81%8B%E7%88%B1%E7%9A%84%E5%94%AF%E4%B8%80%E7%9B%AE%E7%9A%84%20%E5%B0%B1%E6%98%AF%E5%90%83%E8%8B%A6%23" target="weibo">
+谈恋爱的唯一目的 就是吃苦（热度：853290）
 </a>
 </li>
 
@@ -5781,12 +5799,6 @@ Angelababy白西装半马尾造型（热度：641520）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%88%E6%81%8B%E7%88%B1%E7%9A%84%E5%94%AF%E4%B8%80%E7%9B%AE%E7%9A%84%20%E5%B0%B1%E6%98%AF%E5%90%83%E8%8B%A6%23" target="weibo">
-谈恋爱的唯一目的 就是吃苦（热度：639561）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E7%9A%84%E9%95%82%E7%A9%BA%E8%A3%A4%E5%AD%90%23" target="weibo">
 宋雨琦的镂空裤子（热度：639113）
 </a>
@@ -5997,20 +6009,8 @@ twice登顶美国billboard艺人榜（热度：627758）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%9C%88%E5%8D%87%E6%B2%A7%E6%B5%B7%E6%B7%8B%E9%9B%A8%E5%89%A7%E7%85%A7%23" target="weibo">
-吴磊赵露思月升沧海淋雨剧照（热度：617097）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E4%B8%8A%E5%B9%BC%E5%84%BF%E5%9B%AD%E7%88%B8%E7%88%B8%E8%BA%B2%E6%88%BF%E9%97%B4%E5%81%B7%E5%81%B7%E6%8A%B9%E6%B3%AA%23" target="weibo">
-儿子上幼儿园爸爸躲房间偷偷抹泪（热度：616671）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23EDG%23" target="weibo">
-EDG（热度：615796）
+<a href="https://s.weibo.com/weibo?q=%23%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%E6%80%BB%E8%A3%81%E5%B7%B2%E5%A5%97%E7%8E%B0%E8%B6%859000%E4%B8%87%23" target="weibo">
+理想汽车总裁已套现超9000万（热度：617271）
 </a>
 </li>
 

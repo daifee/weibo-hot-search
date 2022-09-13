@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663083894044,
+  "endTime": 1663086802432,
   "band_list": [
     {
       "raw_hot": 9785867,
@@ -49,6 +49,14 @@
       "onboard_time": 1662987699,
       "rank": 1,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 4428299,
+      "num": 4428299,
+      "word": "羊了个羊 bug",
+      "onboard_time": 1663081481,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 4328901,
@@ -339,6 +347,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 1771135,
+      "num": 1771135,
+      "word": "任天堂",
+      "onboard_time": 1663079504,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1757442,
       "num": 1757442,
       "word": "研究发现晚上多吃不一定会胖",
@@ -409,14 +425,6 @@
       "onboard_time": 1662951095,
       "rank": 4,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1586230,
-      "num": 1586230,
-      "word": "任天堂",
-      "onboard_time": 1663079504,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 1584256,
@@ -675,6 +683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1095040,
+      "num": 1095040,
+      "word": "拉宏桑淘汰",
+      "onboard_time": 1663084353,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1093865,
       "num": 1093865,
       "word": "90后小伙为工作9年不炫火锅",
@@ -787,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 980730,
+      "num": 980730,
+      "word": "夫妻疑因吵架把狗推下4楼",
+      "onboard_time": 1663083157,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 980559,
       "num": 980559,
       "word": "这就是中式美人吧",
@@ -875,12 +899,12 @@
       "category": "军事,国外要闻"
     },
     {
-      "raw_hot": 854578,
-      "num": 854578,
-      "word": "羊了个羊 bug",
-      "onboard_time": 1663081481,
-      "rank": 26,
-      "category": "游戏"
+      "raw_hot": 853290,
+      "num": 607778,
+      "word": "谈恋爱的唯一目的 就是吃苦",
+      "onboard_time": 1663081122,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 849503,
@@ -1187,14 +1211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 639561,
-      "num": 567769,
-      "word": "谈恋爱的唯一目的 就是吃苦",
-      "onboard_time": 1663081122,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 638785,
       "num": 606277,
       "word": "成毅六月的雨中有爱的真谛",
@@ -1217,6 +1233,14 @@
       "onboard_time": 1662894227,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 617271,
+      "num": 617271,
+      "word": "理想汽车总裁已套现超9000万",
+      "onboard_time": 1663083692,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 614974,
@@ -1977,6 +2001,14 @@
       "onboard_time": 1662989860,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 384096,
+      "num": 220744,
+      "word": "黄景瑜新剧终于能专心搞事业了",
+      "onboard_time": 1663083095,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 383999,
@@ -3011,14 +3043,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 231521,
-      "num": 180948,
-      "word": "黄景瑜新剧终于能专心搞事业了",
-      "onboard_time": 1663083095,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 231366,
       "num": 231366,
       "word": "四川泸定的雪山身披金光",
@@ -3523,6 +3547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 168640,
+      "num": 168640,
+      "word": "贵阳新增118例无症状感染者主要活动轨迹",
+      "onboard_time": 1663086147,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168244,
       "num": 168244,
       "word": "流浪猫带3猫崽投奔喂它的小姐姐",
@@ -3580,19 +3612,11 @@
     },
     {
       "raw_hot": 156780,
-      "num": 2483981,
+      "num": 2500321,
       "word": "消防员车上挂满泸定人送的哈达",
       "onboard_time": 1663076555,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155416,
-      "num": 155416,
-      "word": "理想汽车总裁已套现超9000万",
-      "onboard_time": 1663083692,
-      "rank": 39,
-      "category": "财经"
     },
     {
       "raw_hot": 154482,
@@ -3649,14 +3673,6 @@
       "onboard_time": 1663076494,
       "rank": 46,
       "category": "美妆,时尚"
-    },
-    {
-      "raw_hot": 141362,
-      "num": 141362,
-      "word": "夫妻疑因吵架把狗推下4楼",
-      "onboard_time": 1663083157,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140864,
@@ -3883,6 +3899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 97345,
+      "num": 97345,
+      "word": "外交部回应美计划扩大对美企向中国出口芯片限制",
+      "onboard_time": 1663085910,
+      "rank": 45,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 94992,
       "num": 46456,
       "word": "你安全吗上头",
@@ -3913,6 +3937,14 @@
       "onboard_time": 1662974498,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88450,
+      "num": 88450,
+      "word": "肖晨下线",
+      "onboard_time": 1663084651,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 85911,
