@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663105186361,
+  "endTime": 1663107923185,
   "band_list": [
     {
       "raw_hot": 9785867,
@@ -3371,6 +3371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194498,
+      "num": 194498,
+      "word": "复星集团董事长郭广昌发声",
+      "onboard_time": 1663096752,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194262,
       "num": 194262,
       "word": "严浩翔粉色衬衫随拍照",
@@ -3579,6 +3587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162891,
+      "num": 162891,
+      "word": "3岁幼童被牵绳大狗咬伤",
+      "onboard_time": 1663099631,
+      "rank": 29,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 161668,
       "num": 161668,
       "word": "INTO1套圈把摊位给端了",
@@ -3657,6 +3673,14 @@
       "onboard_time": 1662978160,
       "rank": 44,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 149325,
+      "num": 149325,
+      "word": "妈妈带宝宝看猩猩反被围观",
+      "onboard_time": 1663090336,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145011,
@@ -3755,14 +3779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 123351,
-      "num": 123351,
-      "word": "复星集团董事长郭广昌发声",
-      "onboard_time": 1663096752,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120178,
       "num": 120178,
       "word": "house 逐张清点",
@@ -3793,6 +3809,14 @@
       "onboard_time": 1662897543,
       "rank": 24,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 117020,
+      "num": 117020,
+      "word": "第一次在鱼脸上看到了表情",
+      "onboard_time": 1663088303,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 116563,
@@ -3923,14 +3947,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 96546,
-      "num": 65523,
-      "word": "3岁幼童被牵绳大狗咬伤",
-      "onboard_time": 1663099631,
-      "rank": 29,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 94992,
       "num": 46456,
       "word": "你安全吗上头",
@@ -3945,14 +3961,6 @@
       "onboard_time": 1662942993,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 89671,
-      "num": 89671,
-      "word": "第一次在鱼脸上看到了表情",
-      "onboard_time": 1663088303,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 89627,
@@ -4017,6 +4025,14 @@
       "onboard_time": 1662893041,
       "rank": 37,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 74316,
+      "num": 74316,
+      "word": "警犬协助缴毒23公斤获奖火腿肠两根",
+      "onboard_time": 1663102331,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73331,
@@ -4139,14 +4155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 50795,
-      "num": 50795,
-      "word": "妈妈带宝宝看猩猩反被围观",
-      "onboard_time": 1663090336,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 48486,
       "num": 48486,
       "word": "木星合月美景整夜可见",
@@ -4177,6 +4185,14 @@
       "onboard_time": 1662901913,
       "rank": 49,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 41841,
+      "num": 41841,
+      "word": "什么都能武器化的美国该停手了",
+      "onboard_time": 1663102391,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36103,
@@ -4211,11 +4227,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 13316,
-      "num": 13316,
-      "word": "警犬协助缴毒23公斤获奖火腿肠两根",
-      "onboard_time": 1663102331,
-      "rank": 41,
+      "raw_hot": 13215,
+      "num": 17180,
+      "word": "直击台风梅花最新动态",
+      "onboard_time": 1663107855,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -4224,14 +4240,6 @@
       "word": "绿水青山是我家",
       "onboard_time": 1662873633,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11007,
-      "num": 11007,
-      "word": "什么都能武器化的美国该停手了",
-      "onboard_time": 1663102391,
-      "rank": 48,
       "category": "社会新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1663086802432,
-  "endTime": 1663105186361,
+  "endTime": 1663107923185,
   "band_list": [
     {
       "raw_hot": 4428299,
@@ -219,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194498,
+      "num": 194498,
+      "word": "复星集团董事长郭广昌发声",
+      "onboard_time": 1663096752,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185883,
       "num": 185883,
       "word": "女方悔婚拒退彩礼男子挂横幅寻人",
@@ -259,12 +267,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 162891,
+      "num": 162891,
+      "word": "3岁幼童被牵绳大狗咬伤",
+      "onboard_time": 1663099631,
+      "rank": 29,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 162149,
       "num": 162149,
       "word": "我听网课都没有这么认真",
       "onboard_time": 1663074332,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 149325,
+      "num": 149325,
+      "word": "妈妈带宝宝看猩猩反被围观",
+      "onboard_time": 1663090336,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135100,
@@ -291,14 +315,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 123351,
-      "num": 123351,
-      "word": "复星集团董事长郭广昌发声",
-      "onboard_time": 1663096752,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 119858,
       "num": 119858,
       "word": "普京任命新驻华大使",
@@ -321,6 +337,14 @@
       "onboard_time": 1663060777,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 117020,
+      "num": 117020,
+      "word": "第一次在鱼脸上看到了表情",
+      "onboard_time": 1663088303,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 116228,
@@ -379,14 +403,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 96546,
-      "num": 65523,
-      "word": "3岁幼童被牵绳大狗咬伤",
-      "onboard_time": 1663099631,
-      "rank": 29,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 95123,
       "num": 95123,
       "word": "苹果四款机型不支持电量百分比",
@@ -409,14 +425,6 @@
       "onboard_time": 1663073253,
       "rank": 48,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 89671,
-      "num": 89671,
-      "word": "第一次在鱼脸上看到了表情",
-      "onboard_time": 1663088303,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 88450,
@@ -451,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74316,
+      "num": 74316,
+      "word": "警犬协助缴毒23公斤获奖火腿肠两根",
+      "onboard_time": 1663102331,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61045,
       "num": 61045,
       "word": "陈宇杨玲深情告别",
@@ -459,27 +475,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 50795,
-      "num": 50795,
-      "word": "妈妈带宝宝看猩猩反被围观",
-      "onboard_time": 1663090336,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13316,
-      "num": 13316,
-      "word": "警犬协助缴毒23公斤获奖火腿肠两根",
-      "onboard_time": 1663102331,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11007,
-      "num": 11007,
+      "raw_hot": 41841,
+      "num": 41841,
       "word": "什么都能武器化的美国该停手了",
       "onboard_time": 1663102391,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13215,
+      "num": 17180,
+      "word": "直击台风梅花最新动态",
+      "onboard_time": 1663107855,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
