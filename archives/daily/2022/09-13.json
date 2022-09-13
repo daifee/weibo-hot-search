@@ -1,6 +1,6 @@
 {
   "startTime": 1663000581861,
-  "endTime": 1663077891362,
+  "endTime": 1663079310955,
   "band_list": [
     {
       "raw_hot": 9785867,
@@ -9,6 +9,14 @@
       "onboard_time": 1662996581,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 8742974,
+      "num": 8742974,
+      "word": "人民网评张翰新剧",
+      "onboard_time": 1663077877,
+      "rank": 47,
+      "category": "影视,社会新闻"
     },
     {
       "raw_hot": 7984319,
@@ -59,6 +67,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 2690831,
+      "num": 2690831,
+      "word": "澳大利亚发生袋鼠杀人事件",
+      "onboard_time": 1663075713,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2680649,
       "num": 2680649,
       "word": "高三生3小时吃4片止痛药肾衰竭",
@@ -89,14 +105,6 @@
       "onboard_time": 1663040554,
       "rank": 20,
       "category": "艺人,科技"
-    },
-    {
-      "raw_hot": 2431579,
-      "num": 2431579,
-      "word": "澳大利亚发生袋鼠杀人事件",
-      "onboard_time": 1663075713,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2411747,
@@ -145,6 +153,14 @@
       "onboard_time": 1663050695,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1810141,
+      "num": 1810141,
+      "word": "张杰 好笑",
+      "onboard_time": 1663076194,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 1804073,
@@ -291,6 +307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1260077,
+      "num": 781777,
+      "word": "提前激活iPhone14每台罚款20万",
+      "onboard_time": 1663077156,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1255504,
       "num": 1255504,
       "word": "Twins不承认吴谨言的粤语是自己教的",
@@ -355,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1013369,
+      "num": 1013369,
+      "word": "上海一公园被指摆放日本人雕塑群",
+      "onboard_time": 1663076253,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1006246,
       "num": 1006246,
       "word": "两个人的小森林定档0915",
@@ -401,14 +433,6 @@
       "onboard_time": 1662983483,
       "rank": 23,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 867384,
-      "num": 867384,
-      "word": "张杰 好笑",
-      "onboard_time": 1663076194,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 863108,
@@ -467,19 +491,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 789333,
+      "num": 789333,
+      "word": "哥大承认排名数据造假",
+      "onboard_time": 1663074513,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 788137,
       "num": 788137,
       "word": "研究发现晚上多吃不一定会胖",
       "onboard_time": 1662988781,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 767195,
-      "num": 767195,
-      "word": "哥大承认排名数据造假",
-      "onboard_time": 1663074513,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -491,20 +515,20 @@
       "category": "教育,艺人"
     },
     {
-      "raw_hot": 749210,
-      "num": 146219,
-      "word": "人民网评张翰新剧",
-      "onboard_time": 1663077877,
-      "rank": 47,
-      "category": "影视,社会新闻"
-    },
-    {
       "raw_hot": 741075,
       "num": 392304,
       "word": "刘彰livehouse",
       "onboard_time": 1662997481,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 735573,
+      "num": 735573,
+      "word": "杨笠 你不懂男人",
+      "onboard_time": 1663078056,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 735388,
@@ -537,14 +561,6 @@
       "onboard_time": 1663045726,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 683550,
-      "num": 683550,
-      "word": "上海一公园被指摆放日本人雕塑群",
-      "onboard_time": 1663076253,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 679476,
@@ -1003,6 +1019,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 401071,
+      "num": 401071,
+      "word": "成都新都区疫情防控",
+      "onboard_time": 1663078960,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 396965,
       "num": 396965,
       "word": "猫咪售出半年后独自现身店门口",
@@ -1155,6 +1179,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 340886,
+      "num": 331355,
+      "word": "戈达尔",
+      "onboard_time": 1663078540,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 340515,
       "num": 340515,
       "word": "梅花",
@@ -1233,6 +1265,14 @@
       "onboard_time": 1663031974,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 311051,
+      "num": 240270,
+      "word": "戈达尔选择安乐死离世",
+      "onboard_time": 1663079021,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 310549,
@@ -1515,14 +1555,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 250580,
-      "num": 250580,
-      "word": "提前激活iPhone14每台罚款20万",
-      "onboard_time": 1663077156,
-      "rank": 49,
-      "category": "科技"
-    },
-    {
       "raw_hot": 250472,
       "num": 250472,
       "word": "刘青松",
@@ -1600,6 +1632,14 @@
       "word": "河南一快递点10秒传送300件快递",
       "onboard_time": 1663053636,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237615,
+      "num": 237615,
+      "word": "20岁大学生用车床剥生鸡蛋不破不漏",
+      "onboard_time": 1663077996,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -1705,6 +1745,14 @@
       "onboard_time": 1663075713,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 218408,
+      "num": 218408,
+      "word": "狮子也是小猫咪呀",
+      "onboard_time": 1663076975,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 217776,
@@ -1819,6 +1867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194237,
+      "num": 194237,
+      "word": "经销商预计iPhone14Pro溢价千元左右",
+      "onboard_time": 1663077455,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 193621,
       "num": 94961,
       "word": "A股首支脱口秀概念股",
@@ -1915,14 +1971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 171343,
-      "num": 171343,
-      "word": "狮子也是小猫咪呀",
-      "onboard_time": 1663076975,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 170354,
       "num": 170354,
       "word": "中秋假期国内游7340.9万人次",
@@ -1987,12 +2035,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149353,
+      "num": 1833525,
+      "word": "消防员车上挂满泸定人送的哈达",
+      "onboard_time": 1663076555,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146361,
       "num": 146361,
       "word": "北京疫情发布会",
       "onboard_time": 1663058434,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146083,
+      "num": 146083,
+      "word": "父母为什么理解不了你的累",
+      "onboard_time": 1663078780,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 145419,
@@ -2027,12 +2091,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 137065,
-      "num": 137065,
-      "word": "经销商预计iPhone14Pro溢价千元左右",
-      "onboard_time": 1663077455,
+      "raw_hot": 140864,
+      "num": 140864,
+      "word": "增强体质可缓解过敏性疾病",
+      "onboard_time": 1663079141,
       "rank": 48,
-      "category": "科技"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135393,
@@ -2161,14 +2225,6 @@
       "onboard_time": 1663024463,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 103712,
-      "num": 1605797,
-      "word": "消防员车上挂满泸定人送的哈达",
-      "onboard_time": 1663076555,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 103573,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/13 22:04:51
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/13 22:28:30
 </p>
 </blockquote>
 <p>
@@ -65,6 +65,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%A5%B3%E7%8E%8B%E5%8E%BB%E4%B8%96%23" target="weibo">
 英国女王去世（热度：8812909）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E5%BC%A0%E7%BF%B0%E6%96%B0%E5%89%A7%23" target="weibo">
+人民网评张翰新剧（热度：8742974）
 </a>
 </li>
 
@@ -597,6 +603,12 @@ UR被曝抄袭（热度：2730773）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E5%8F%91%E7%94%9F%E8%A2%8B%E9%BC%A0%E6%9D%80%E4%BA%BA%E4%BA%8B%E4%BB%B6%23" target="weibo">
+澳大利亚发生袋鼠杀人事件（热度：2690831）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%89%E7%94%9F3%E5%B0%8F%E6%97%B6%E5%90%834%E7%89%87%E6%AD%A2%E7%97%9B%E8%8D%AF%E8%82%BE%E8%A1%B0%E7%AB%AD%23" target="weibo">
 高三生3小时吃4片止痛药肾衰竭（热度：2680649）
 </a>
@@ -737,12 +749,6 @@ zzr（热度：2585830）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%88%87%E5%BC%80%E8%A5%BF%E7%93%9C%E5%8F%91%E7%8E%B0%E9%BB%84%E8%B1%86%E8%8A%BD%23" target="weibo">
 女子切开西瓜发现黄豆芽（热度：2462614）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E5%8F%91%E7%94%9F%E8%A2%8B%E9%BC%A0%E6%9D%80%E4%BA%BA%E4%BA%8B%E4%BB%B6%23" target="weibo">
-澳大利亚发生袋鼠杀人事件（热度：2431579）
 </a>
 </li>
 
@@ -1259,6 +1265,12 @@ iPhone14Pro灵动岛（热度：1842563）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%9F%E5%AD%A9%E5%AD%90%E5%90%8E%E7%97%9B%E7%BB%8F%E8%83%BD%E7%BC%93%E8%A7%A3%E5%90%97%23" target="weibo">
 生孩子后痛经能缓解吗（热度：1811553）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%20%E5%A5%BD%E7%AC%91%23" target="weibo">
+张杰 好笑（热度：1810141）
 </a>
 </li>
 
@@ -2481,6 +2493,12 @@ iPhone13官网降价销售（热度：1271944）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8F%90%E5%89%8D%E6%BF%80%E6%B4%BBiPhone14%E6%AF%8F%E5%8F%B0%E7%BD%9A%E6%AC%BE20%E4%B8%87%23" target="weibo">
+提前激活iPhone14每台罚款20万（热度：1260077）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E9%98%BB%E6%8B%A6%E5%A4%8D%E8%AF%BB%E5%90%8E%E5%AD%A9%E5%AD%90%E8%80%83%E4%B8%8A%E5%8C%97%E5%A4%A7%23" target="weibo">
 父亲阻拦复读后孩子考上北大（热度：1260006）
 </a>
@@ -3341,6 +3359,12 @@ iPhone14Pro系列占中国订单85%（热度：1059806）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%96%B0%E5%89%A7%E7%9B%B4%E7%90%83%E6%92%A9%E5%BC%A0%E5%BD%AC%E5%BD%AC%23" target="weibo">
 虞书欣新剧直球撩张彬彬（热度：1013890）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%85%AC%E5%9B%AD%E8%A2%AB%E6%8C%87%E6%91%86%E6%94%BE%E6%97%A5%E6%9C%AC%E4%BA%BA%E9%9B%95%E5%A1%91%E7%BE%A4%23" target="weibo">
+上海一公园被指摆放日本人雕塑群（热度：1013369）
 </a>
 </li>
 
@@ -4221,12 +4245,6 @@ iPhone14系列没涨价（热度：892829）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%20%E5%A5%BD%E7%AC%91%23" target="weibo">
-张杰 好笑（热度：867384）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%AF%B4%E7%83%82%E5%B0%BE%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23" target="weibo">
 小说烂尾的原因找到了（热度：863465）
 </a>
@@ -4671,6 +4689,12 @@ Ale（热度：793817）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%A5%E5%A4%A7%E6%89%BF%E8%AE%A4%E6%8E%92%E5%90%8D%E6%95%B0%E6%8D%AE%E9%80%A0%E5%81%87%23" target="weibo">
+哥大承认排名数据造假（热度：789333）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AC%B2%E5%BD%95%E8%A7%86%E9%A2%91%E6%89%B6%E6%91%94%E5%80%92%E5%A4%A7%E5%8F%94%E5%8F%8D%E8%A2%AB%E9%AA%82%23" target="weibo">
 男子欲录视频扶摔倒大叔反被骂（热度：789043）
 </a>
@@ -4821,12 +4845,6 @@ AI画作拿一等奖惹怒人类艺术家（热度：776588）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%A5%E5%A4%A7%E6%89%BF%E8%AE%A4%E6%8E%92%E5%90%8D%E6%95%B0%E6%8D%AE%E9%80%A0%E5%81%87%23" target="weibo">
-哥大承认排名数据造假（热度：767195）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BDBBC%E4%B8%AD%E6%96%AD%E5%8E%9F%E6%9C%AC%E8%8A%82%E7%9B%AE%23" target="weibo">
 英国BBC中断原本节目（热度：764299）
 </a>
@@ -4911,12 +4929,6 @@ AI画作拿一等奖惹怒人类艺术家（热度：776588）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E5%BC%A0%E7%BF%B0%E6%96%B0%E5%89%A7%23" target="weibo">
-人民网评张翰新剧（热度：749210）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BC%A0%E5%AA%92%E5%A4%A7%E5%AD%A6%E5%AE%9E%E8%A1%8C%E5%BA%94%E6%80%A5%E5%B0%81%E9%97%AD%E7%AE%A1%E7%90%86%23" target="weibo">
 中国传媒大学实行应急封闭管理（热度：749007）
 </a>
@@ -4967,6 +4979,12 @@ iPhone14Pro灭霸紫（热度：743476）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAmate50%E8%8A%AF%E7%89%87%23" target="weibo">
 华为mate50芯片（热度：735728）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%AC%A0%20%E4%BD%A0%E4%B8%8D%E6%87%82%E7%94%B7%E4%BA%BA%23" target="weibo">
+杨笠 你不懂男人（热度：735573）
 </a>
 </li>
 
@@ -5381,12 +5399,6 @@ AirPodsPro2将随iPhone14一起发布（热度：706062）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%B0%BC%E9%BE%99%E8%87%AA%E6%88%90%E4%B8%80%E6%A0%BC%E5%A4%A7%E7%89%87%23" target="weibo">
 王鹤棣尼龙自成一格大片（热度：685270）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%85%AC%E5%9B%AD%E8%A2%AB%E6%8C%87%E6%91%86%E6%94%BE%E6%97%A5%E6%9C%AC%E4%BA%BA%E9%9B%95%E5%A1%91%E7%BE%A4%23" target="weibo">
-上海一公园被指摆放日本人雕塑群（热度：683550）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ EDG（热度：615796）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%9C%B0%E9%93%81%23" target="weibo">
 成都地铁（热度：612637）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A9%BF%E9%BB%84%E8%A1%A3%E6%8E%92%E9%98%9F%E6%BB%A1%E8%83%8C%E9%A3%9E%E8%99%AB%23" target="weibo">
-女子穿黄衣排队满背飞虫（热度：612255）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E8%B7%AF%E9%80%8F%23" target="weibo">
-张艺兴你好星期六路透（热度：611640）
 </a>
 </li>
 
