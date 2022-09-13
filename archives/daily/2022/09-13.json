@@ -1,6 +1,6 @@
 {
   "startTime": 1663000581861,
-  "endTime": 1663082775470,
+  "endTime": 1663083894044,
   "band_list": [
     {
       "raw_hot": 9785867,
@@ -235,8 +235,8 @@
       "category": "幽默,网红"
     },
     {
-      "raw_hot": 1568047,
-      "num": 1568047,
+      "raw_hot": 1586230,
+      "num": 1586230,
       "word": "任天堂",
       "onboard_time": 1663079504,
       "rank": 17,
@@ -475,6 +475,14 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 854578,
+      "num": 854578,
+      "word": "羊了个羊 bug",
+      "onboard_time": 1663081481,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 837849,
       "num": 837849,
       "word": "寄养姑姑家女孩给表弟买了一套房",
@@ -627,6 +635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 639561,
+      "num": 567769,
+      "word": "谈恋爱的唯一目的 就是吃苦",
+      "onboard_time": 1663081122,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 614974,
       "num": 614974,
       "word": "远嫁女儿第一次带宝宝回娘家",
@@ -731,14 +747,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 537022,
-      "num": 537022,
-      "word": "谈恋爱的唯一目的 就是吃苦",
-      "onboard_time": 1663081122,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 534419,
       "num": 534419,
       "word": "蜜雪冰城柠檬水中有虫子被罚1万",
@@ -776,6 +784,14 @@
       "word": "贵阳多名官员被全市通报批评",
       "onboard_time": 1663055314,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 522588,
+      "num": 522588,
+      "word": "男生校裤画红蜘蛛号召停止经期嘲笑",
+      "onboard_time": 1663080641,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -1084,19 +1100,19 @@
     },
     {
       "raw_hot": 394903,
-      "num": 319964,
+      "num": 336717,
       "word": "杨波 house",
       "onboard_time": 1663079679,
       "rank": 21,
       "category": "综艺"
     },
     {
-      "raw_hot": 392569,
-      "num": 392569,
-      "word": "男生校裤画红蜘蛛号召停止经期嘲笑",
-      "onboard_time": 1663080641,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 388449,
+      "num": 388449,
+      "word": "父母为什么理解不了你的累",
+      "onboard_time": 1663078780,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 386393,
@@ -1225,14 +1241,6 @@
       "onboard_time": 1663071630,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 351096,
-      "num": 351096,
-      "word": "父母为什么理解不了你的累",
-      "onboard_time": 1663078780,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 349632,
@@ -1433,14 +1441,6 @@
       "onboard_time": 1663029813,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 300164,
-      "num": 300164,
-      "word": "羊了个羊 bug",
-      "onboard_time": 1663081481,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 299808,
@@ -1777,6 +1777,14 @@
       "onboard_time": 1663049915,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231521,
+      "num": 180948,
+      "word": "黄景瑜新剧终于能专心搞事业了",
+      "onboard_time": 1663083095,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 231118,
@@ -2147,6 +2155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155416,
+      "num": 155416,
+      "word": "理想汽车总裁已套现超9000万",
+      "onboard_time": 1663083692,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 151023,
       "num": 151023,
       "word": "乘客连跑带喊冲下地铁分工救人",
@@ -2193,6 +2209,14 @@
       "onboard_time": 1662994183,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 141362,
+      "num": 141362,
+      "word": "夫妻疑因吵架把狗推下4楼",
+      "onboard_time": 1663083157,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140864,

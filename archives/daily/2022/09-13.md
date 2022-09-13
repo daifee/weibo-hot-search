@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/13 00:36:21 ~ 2022/09/13 23:26:15
+本榜单时间：2022/09/13 00:36:21 ~ 2022/09/13 23:44:54
 </p>
 </blockquote>
 <p>
@@ -190,7 +190,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%A4%A9%E5%A0%82%23" target="weibo">
-任天堂（热度：1568047）
+任天堂（热度：1586230）
 </a>
 </li>
 
@@ -369,6 +369,12 @@ Twins不承认吴谨言的粤语是自己教的（热度：1255504）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8A%E4%BA%86%E4%B8%AA%E7%BE%8A%20bug%23" target="weibo">
+羊了个羊 bug（热度：854578）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AF%84%E5%85%BB%E5%A7%91%E5%A7%91%E5%AE%B6%E5%A5%B3%E5%AD%A9%E7%BB%99%E8%A1%A8%E5%BC%9F%E4%B9%B0%E4%BA%86%E4%B8%80%E5%A5%97%E6%88%BF%23" target="weibo">
 寄养姑姑家女孩给表弟买了一套房（热度：837849）
 </a>
@@ -483,6 +489,12 @@ Twins不承认吴谨言的粤语是自己教的（热度：1255504）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%88%E6%81%8B%E7%88%B1%E7%9A%84%E5%94%AF%E4%B8%80%E7%9B%AE%E7%9A%84%20%E5%B0%B1%E6%98%AF%E5%90%83%E8%8B%A6%23" target="weibo">
+谈恋爱的唯一目的 就是吃苦（热度：639561）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%9C%E5%AB%81%E5%A5%B3%E5%84%BF%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%B8%A6%E5%AE%9D%E5%AE%9D%E5%9B%9E%E5%A8%98%E5%AE%B6%23" target="weibo">
 远嫁女儿第一次带宝宝回娘家（热度：614974）
 </a>
@@ -561,12 +573,6 @@ iOS16将支持清洁能源充电（热度：559588）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%88%E6%81%8B%E7%88%B1%E7%9A%84%E5%94%AF%E4%B8%80%E7%9B%AE%E7%9A%84%20%E5%B0%B1%E6%98%AF%E5%90%83%E8%8B%A6%23" target="weibo">
-谈恋爱的唯一目的 就是吃苦（热度：537022）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E6%9F%A0%E6%AA%AC%E6%B0%B4%E4%B8%AD%E6%9C%89%E8%99%AB%E5%AD%90%E8%A2%AB%E7%BD%9A1%E4%B8%87%23" target="weibo">
 蜜雪冰城柠檬水中有虫子被罚1万（热度：534419）
 </a>
@@ -593,6 +599,12 @@ BLACKPINK新歌海报预告（热度：529391）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%B5%E9%98%B3%E5%A4%9A%E5%90%8D%E5%AE%98%E5%91%98%E8%A2%AB%E5%85%A8%E5%B8%82%E9%80%9A%E6%8A%A5%E6%89%B9%E8%AF%84%23" target="weibo">
 贵阳多名官员被全市通报批评（热度：523620）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E6%A0%A1%E8%A3%A4%E7%94%BB%E7%BA%A2%E8%9C%98%E8%9B%9B%E5%8F%B7%E5%8F%AC%E5%81%9C%E6%AD%A2%E7%BB%8F%E6%9C%9F%E5%98%B2%E7%AC%91%23" target="weibo">
+男生校裤画红蜘蛛号召停止经期嘲笑（热度：522588）
 </a>
 </li>
 
@@ -831,8 +843,8 @@ iPhone14系列官方维修价（热度：433174）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E6%A0%A1%E8%A3%A4%E7%94%BB%E7%BA%A2%E8%9C%98%E8%9B%9B%E5%8F%B7%E5%8F%AC%E5%81%9C%E6%AD%A2%E7%BB%8F%E6%9C%9F%E5%98%B2%E7%AC%91%23" target="weibo">
-男生校裤画红蜘蛛号召停止经期嘲笑（热度：392569）
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E4%B8%BA%E4%BB%80%E4%B9%88%E7%90%86%E8%A7%A3%E4%B8%8D%E4%BA%86%E4%BD%A0%E7%9A%84%E7%B4%AF%23" target="weibo">
+父母为什么理解不了你的累（热度：388449）
 </a>
 </li>
 
@@ -929,12 +941,6 @@ iPhone14系列官方维修价（热度：433174）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%84%B1%E5%8F%A3%E7%A7%80%E5%A4%A9%E8%8A%B1%E6%9D%BFpk%E5%A5%BD%E5%88%BA%E6%BF%80%23" target="weibo">
 脱口秀天花板pk好刺激（热度：353613）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E4%B8%BA%E4%BB%80%E4%B9%88%E7%90%86%E8%A7%A3%E4%B8%8D%E4%BA%86%E4%BD%A0%E7%9A%84%E7%B4%AF%23" target="weibo">
-父母为什么理解不了你的累（热度：351096）
 </a>
 </li>
 
@@ -1085,12 +1091,6 @@ iOS15.7（热度：307513）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%B2%B3%E5%85%A8%E5%9F%9F%E5%AE%9E%E8%A1%8C4%E5%A4%A9%E9%9D%99%E9%BB%98%E7%AE%A1%E7%90%86%23" target="weibo">
 三河全域实行4天静默管理（热度：300262）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8A%E4%BA%86%E4%B8%AA%E7%BE%8A%20bug%23" target="weibo">
-羊了个羊 bug（热度：300164）
 </a>
 </li>
 
@@ -1343,6 +1343,12 @@ ST洲际开盘一字涨停（热度：279401）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A7%E4%BE%8B%23" target="weibo">
 青岛增本土确诊7例（热度：232928）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E6%96%B0%E5%89%A7%E7%BB%88%E4%BA%8E%E8%83%BD%E4%B8%93%E5%BF%83%E6%90%9E%E4%BA%8B%E4%B8%9A%E4%BA%86%23" target="weibo">
+黄景瑜新剧终于能专心搞事业了（热度：231521）
 </a>
 </li>
 
@@ -1623,6 +1629,12 @@ INTO1套圈把摊位给端了（热度：161668）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%E6%80%BB%E8%A3%81%E5%B7%B2%E5%A5%97%E7%8E%B0%E8%B6%859000%E4%B8%87%23" target="weibo">
+理想汽车总裁已套现超9000万（热度：155416）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%98%E5%AE%A2%E8%BF%9E%E8%B7%91%E5%B8%A6%E5%96%8A%E5%86%B2%E4%B8%8B%E5%9C%B0%E9%93%81%E5%88%86%E5%B7%A5%E6%95%91%E4%BA%BA%23" target="weibo">
 乘客连跑带喊冲下地铁分工救人（热度：151023）
 </a>
@@ -1655,6 +1667,12 @@ INTO1套圈把摊位给端了（热度：161668）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E8%B0%A2%E6%9C%89%E8%A2%AB%E5%81%A5%E5%BA%B7%E5%88%B0%23" target="weibo">
 谢谢有被健康到（热度：141997）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E7%96%91%E5%9B%A0%E5%90%B5%E6%9E%B6%E6%8A%8A%E7%8B%97%E6%8E%A8%E4%B8%8B4%E6%A5%BC%23" target="weibo">
+夫妻疑因吵架把狗推下4楼（热度：141362）
 </a>
 </li>
 
