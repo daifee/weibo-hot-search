@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663091307413,
+  "endTime": 1663093802889,
   "band_list": [
     {
       "raw_hot": 9785867,
@@ -4123,20 +4123,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50795,
+      "num": 50795,
+      "word": "妈妈带宝宝看猩猩反被围观",
+      "onboard_time": 1663090336,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48486,
       "num": 48486,
       "word": "木星合月美景整夜可见",
       "onboard_time": 1662901553,
       "rank": 47,
       "category": "自然,社会新闻"
-    },
-    {
-      "raw_hot": 47008,
-      "num": 47008,
-      "word": "妈妈带宝宝看猩猩反被围观",
-      "onboard_time": 1663090336,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 46348,
