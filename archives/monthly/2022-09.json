@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1663088375396,
+  "endTime": 1663090323754,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -25771,6 +25771,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 111921,
+      "num": 111921,
+      "word": "当猫咪眉毛上有眼屎",
+      "onboard_time": 1663087165,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 111745,
       "num": 111745,
       "word": "周鸿祎说别给00后贴标签",
@@ -25817,14 +25825,6 @@
       "onboard_time": 1662198687,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 110760,
-      "num": 110760,
-      "word": "当猫咪眉毛上有眼屎",
-      "onboard_time": 1663087165,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 110721,
@@ -26249,6 +26249,14 @@
       "onboard_time": 1662265347,
       "rank": 48,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 89671,
+      "num": 89671,
+      "word": "第一次在鱼脸上看到了表情",
+      "onboard_time": 1663088303,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 89627,
@@ -26723,14 +26731,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 60846,
-      "num": 60846,
-      "word": "第一次在鱼脸上看到了表情",
-      "onboard_time": 1663088303,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 60802,
       "num": 60802,
       "word": "张帅重返美网32强",
@@ -26753,6 +26753,14 @@
       "onboard_time": 1662397997,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 57365,
+      "num": 57365,
+      "word": "大学生才不会觉得幼稚",
+      "onboard_time": 1663089678,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 57152,

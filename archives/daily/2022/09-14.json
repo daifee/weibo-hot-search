@@ -1,6 +1,6 @@
 {
   "startTime": 1663086802432,
-  "endTime": 1663088375396,
+  "endTime": 1663090323754,
   "band_list": [
     {
       "raw_hot": 4428299,
@@ -323,8 +323,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 110760,
-      "num": 110760,
+      "raw_hot": 111921,
+      "num": 111921,
       "word": "当猫咪眉毛上有眼屎",
       "onboard_time": 1663087165,
       "rank": 33,
@@ -395,6 +395,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 89671,
+      "num": 89671,
+      "word": "第一次在鱼脸上看到了表情",
+      "onboard_time": 1663088303,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 88450,
       "num": 88450,
       "word": "肖晨下线",
@@ -427,11 +435,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 60846,
-      "num": 60846,
-      "word": "第一次在鱼脸上看到了表情",
-      "onboard_time": 1663088303,
-      "rank": 49,
+      "raw_hot": 57365,
+      "num": 57365,
+      "word": "大学生才不会觉得幼稚",
+      "onboard_time": 1663089678,
+      "rank": 40,
       "category": "幽默"
     }
   ],
