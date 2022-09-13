@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/13 16:48:01
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/13 17:25:42
 </p>
 </blockquote>
 <p>
@@ -729,6 +729,12 @@ BLACKPINK成员照片遭黑客泄露（热度：2426678）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%89%E7%94%9F3%E5%B0%8F%E6%97%B6%E5%90%834%E7%89%87%E6%AD%A2%E7%97%9B%E8%8D%AF%E8%82%BE%E8%A1%B0%E7%AB%AD%23" target="weibo">
+高三生3小时吃4片止痛药肾衰竭（热度：2418129）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%A1%E7%BE%8E%E9%99%8D%E7%BA%A7%23" target="weibo">
 审美降级（热度：2416374）
 </a>
@@ -1265,6 +1271,12 @@ w两个世界翻拍版开机照（热度：1793158）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E7%8E%B0%E5%9C%BA%E6%80%92%E6%96%A5%E9%85%92%E9%A9%BE%E6%AF%8D%E4%BA%B2%E4%B8%8D%E8%A6%81%E5%BD%B1%E5%93%8D%E6%88%91%E8%80%83%E5%A4%A7%E5%AD%A6%23" target="weibo">
 女孩现场怒斥酒驾母亲不要影响我考大学（热度：1790555）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%91%97%E5%90%8D%E5%AF%BC%E6%BC%94%E6%88%88%E8%BE%BE%E5%B0%94%E5%8E%BB%E4%B8%96%23" target="weibo">
+著名导演戈达尔去世（热度：1785177）
 </a>
 </li>
 
@@ -3255,12 +3267,6 @@ iPhone14Pro系列占中国订单85%（热度：1059806）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%89%E7%94%9F3%E5%B0%8F%E6%97%B6%E5%90%834%E7%89%87%E6%AD%A2%E7%97%9B%E8%8D%AF%E8%82%BE%E8%A1%B0%E7%AB%AD%23" target="weibo">
-高三生3小时吃4片止痛药肾衰竭（热度：1011345）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%BC%A0%E8%89%BA%E5%85%B4%E6%AA%80%E5%81%A5%E6%AC%A1%E4%B8%8B%E7%8F%AD%E8%B7%AF%E9%80%8F%23" target="weibo">
 王鹤棣张艺兴檀健次下班路透（热度：1010152）
 </a>
@@ -4917,6 +4923,12 @@ iPhone14Pro灭霸紫（热度：743476）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%23" target="weibo">
+长沙疫情防控（热度：722846）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E5%85%A8%E5%91%98%E9%80%81%E5%BC%80%E5%AD%A6%E5%AF%84%E8%AF%AD%23" target="weibo">
 你好星期六全员送开学寄语（热度：722810）
 </a>
@@ -5267,6 +5279,12 @@ AirPodsPro2将随iPhone14一起发布（热度：706062）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E5%A8%84%E5%BA%95%23" target="weibo">
 湖南娄底（热度：682774）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Twins%E4%B8%8D%E6%89%BF%E8%AE%A4%E5%90%B4%E8%B0%A8%E8%A8%80%E7%9A%84%E7%B2%A4%E8%AF%AD%E6%98%AF%E8%87%AA%E5%B7%B1%E6%95%99%E7%9A%84%23" target="weibo">
+Twins不承认吴谨言的粤语是自己教的（热度：682181）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ RNG（热度：603157）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E5%8D%95%E8%86%9D%E8%B7%AA%E6%B1%82%E5%A9%9A%E5%A5%B3%E5%8F%8B%E5%8F%8C%E8%86%9D%E8%B7%AA%E5%9C%B0%23" target="weibo">
 民警单膝跪求婚女友双膝跪地（热度：596617）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E4%B8%80%E9%AB%98%E6%A0%A1%E4%BF%9D%E5%AE%89%E6%8A%9B%E6%89%94%E5%AD%A6%E7%94%9F%E5%A4%96%E5%8D%96%23" target="weibo">
-武汉一高校保安抛扔学生外卖（热度：595899）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8E%E5%90%9B%E5%88%9D%E7%9B%B8%E8%AF%86%E6%81%B0%E4%BC%BC%E6%95%85%E4%BA%BA%E5%BD%92%E7%99%BB%E5%8D%8E%E7%AD%962022%E5%8D%8A%E5%B9%B4%E6%8A%A5%23" target="weibo">
-与君初相识恰似故人归登华策2022半年报（热度：595206）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%9C%B0%E9%93%81%23" target="weibo">
-广州地铁（热度：595104）
 </a>
 </li>
 

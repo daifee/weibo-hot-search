@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663058881611,
+  "endTime": 1663061142922,
   "band_list": [
     {
       "raw_hot": 9785867,
@@ -179,6 +179,14 @@
       "category": "艺人,科技"
     },
     {
+      "raw_hot": 2418129,
+      "num": 2418129,
+      "word": "高三生3小时吃4片止痛药肾衰竭",
+      "onboard_time": 1663057354,
+      "rank": 36,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 2335033,
       "num": 2335033,
       "word": "北京警方通报李易峰多次嫖娼",
@@ -257,6 +265,14 @@
       "onboard_time": 1662998679,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1785177,
+      "num": 1785177,
+      "word": "著名导演戈达尔去世",
+      "onboard_time": 1663058796,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1775171,
@@ -579,14 +595,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1011345,
-      "num": 1011345,
-      "word": "高三生3小时吃4片止痛药肾衰竭",
-      "onboard_time": 1663057354,
-      "rank": 36,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 1007260,
       "num": 978276,
       "word": "心疼费启鸣演的齐颂",
@@ -604,7 +612,7 @@
     },
     {
       "raw_hot": 1002638,
-      "num": 573014,
+      "num": 645121,
       "word": "宋亚轩中戏开学报到",
       "onboard_time": 1663058678,
       "rank": 10,
@@ -803,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 722846,
+      "num": 722846,
+      "word": "长沙疫情防控",
+      "onboard_time": 1663056817,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 722183,
       "num": 722183,
       "word": "学生宿舍炖鲫鱼汤被网友举报",
@@ -857,6 +873,14 @@
       "onboard_time": 1662960876,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 682181,
+      "num": 131427,
+      "word": "Twins不承认吴谨言的粤语是自己教的",
+      "onboard_time": 1663061137,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 679476,
@@ -1017,14 +1041,6 @@
       "onboard_time": 1663053398,
       "rank": 21,
       "category": "科技"
-    },
-    {
-      "raw_hot": 573879,
-      "num": 573879,
-      "word": "长沙疫情防控",
-      "onboard_time": 1663056817,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 570507,
@@ -1211,6 +1227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 501914,
+      "num": 501914,
+      "word": "女子隔离留守二哈把婚房拆了",
+      "onboard_time": 1663057417,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 501473,
       "num": 501473,
       "word": "羊了个羊崩了",
@@ -1257,14 +1281,6 @@
       "onboard_time": 1663031552,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 485778,
-      "num": 485778,
-      "word": "著名导演戈达尔去世",
-      "onboard_time": 1663058796,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 481621,
@@ -1612,7 +1628,7 @@
     },
     {
       "raw_hot": 374500,
-      "num": 279548,
+      "num": 297248,
       "word": "阿Sa说看言情小说会变漂亮",
       "onboard_time": 1663057475,
       "rank": 30,
@@ -1649,6 +1665,14 @@
       "onboard_time": 1662984396,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 364969,
+      "num": 364969,
+      "word": "大英图书馆首次收录中国网文",
+      "onboard_time": 1663059096,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 361955,
@@ -1691,6 +1715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 349632,
+      "num": 283429,
+      "word": "刘诗诗古装好飒",
+      "onboard_time": 1663060597,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 349347,
       "num": 349347,
       "word": "G2",
@@ -1705,6 +1737,14 @@
       "onboard_time": 1663041454,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 344257,
+      "num": 344257,
+      "word": "美国NSA网络武器饮茶",
+      "onboard_time": 1663057235,
+      "rank": 23,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 342262,
@@ -1979,6 +2019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 293335,
+      "num": 217375,
+      "word": "张彬彬rua虞书欣的脸",
+      "onboard_time": 1663051174,
+      "rank": 33,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 292665,
       "num": 255173,
       "word": "黄景瑜罚罪站内热度值破9700",
@@ -2083,20 +2131,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 273275,
-      "num": 273275,
-      "word": "美国NSA网络武器饮茶",
-      "onboard_time": 1663057235,
-      "rank": 23,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 272730,
       "num": 272730,
       "word": "小偷走路嗑瓜子民警顺瓜子皮抓人",
       "onboard_time": 1662946057,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271924,
+      "num": 271924,
+      "word": "iPhone14系列官方维修价",
+      "onboard_time": 1663060236,
+      "rank": 23,
+      "category": "科技"
     },
     {
       "raw_hot": 269437,
@@ -2115,6 +2163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 269037,
+      "num": 269037,
+      "word": "明日方舟",
+      "onboard_time": 1663060597,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 268189,
       "num": 268189,
       "word": "小鹿 复活",
@@ -2123,28 +2179,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 267840,
-      "num": 267840,
-      "word": "女子隔离留守二哈把婚房拆了",
-      "onboard_time": 1663057417,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 267643,
       "num": 267643,
       "word": "孟子义认为主动并不廉价",
       "onboard_time": 1663049736,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 267580,
-      "num": 217375,
-      "word": "张彬彬rua虞书欣的脸",
-      "onboard_time": 1663051174,
-      "rank": 33,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 267567,
@@ -2163,6 +2203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 265226,
+      "num": 265226,
+      "word": "庄周天秀幻梦",
+      "onboard_time": 1663058912,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 265138,
       "num": 213560,
       "word": "A股首支脱口秀概念股",
@@ -2177,6 +2225,22 @@
       "onboard_time": 1662902928,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 261419,
+      "num": 171306,
+      "word": "王一博冰雨火片场笑出鹅叫",
+      "onboard_time": 1663058255,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 260393,
+      "num": 260393,
+      "word": "北京新增16例本土感染者均为隔离观察人员",
+      "onboard_time": 1663060055,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 260344,
@@ -2275,6 +2339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 245715,
+      "num": 169510,
+      "word": "闫永强 唢呐",
+      "onboard_time": 1663058015,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 240353,
       "num": 240353,
       "word": "普京称去美元化进程不可避免",
@@ -2369,14 +2441,6 @@
       "onboard_time": 1662956435,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 231174,
-      "num": 156185,
-      "word": "闫永强 唢呐",
-      "onboard_time": 1663058015,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 231157,
@@ -2555,6 +2619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202965,
+      "num": 202965,
+      "word": "东软",
+      "onboard_time": 1663060112,
+      "rank": 34,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 201981,
       "num": 201981,
       "word": "想唱就唱的夏天",
@@ -2731,6 +2803,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 173903,
+      "num": 173903,
+      "word": "张朝阳称iPhone14紫色光谱里不存在",
+      "onboard_time": 1663060777,
+      "rank": 38,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 173374,
+      "num": 173374,
+      "word": "青岛新增本土确诊2例",
+      "onboard_time": 1663059756,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172511,
       "num": 172511,
       "word": "民警吃加班饭迎面遇逃犯",
@@ -2883,12 +2971,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135393,
+      "num": 135393,
+      "word": "保定疫情防控",
+      "onboard_time": 1663057294,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135172,
       "num": 135172,
       "word": "如何做到真正的有效夸奖",
       "onboard_time": 1662994064,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 133238,
+      "num": 133238,
+      "word": "杜小华回应DNA比对不匹配",
+      "onboard_time": 1663060656,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132683,

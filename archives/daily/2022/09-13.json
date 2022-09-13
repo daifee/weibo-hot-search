@@ -1,6 +1,6 @@
 {
   "startTime": 1663000581861,
-  "endTime": 1663058881611,
+  "endTime": 1663061142922,
   "band_list": [
     {
       "raw_hot": 9785867,
@@ -67,6 +67,14 @@
       "category": "艺人,科技"
     },
     {
+      "raw_hot": 2418129,
+      "num": 2418129,
+      "word": "高三生3小时吃4片止痛药肾衰竭",
+      "onboard_time": 1663057354,
+      "rank": 36,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 2296551,
       "num": 2296551,
       "word": "消息称iPhone15要改名",
@@ -113,6 +121,14 @@
       "onboard_time": 1662998679,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1785177,
+      "num": 1785177,
+      "word": "著名导演戈达尔去世",
+      "onboard_time": 1663058796,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1775171,
@@ -235,14 +251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1011345,
-      "num": 1011345,
-      "word": "高三生3小时吃4片止痛药肾衰竭",
-      "onboard_time": 1663057354,
-      "rank": 36,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 1006246,
       "num": 1006246,
       "word": "两个人的小森林定档0915",
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 1002638,
-      "num": 573014,
+      "num": 645121,
       "word": "宋亚轩中戏开学报到",
       "onboard_time": 1663058678,
       "rank": 10,
@@ -355,12 +363,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 722846,
+      "num": 722846,
+      "word": "长沙疫情防控",
+      "onboard_time": 1663056817,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 694416,
       "num": 583291,
       "word": "闫永强退出水果星球乐团",
       "onboard_time": 1663045726,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 682181,
+      "num": 131427,
+      "word": "Twins不承认吴谨言的粤语是自己教的",
+      "onboard_time": 1663061137,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 679476,
@@ -433,14 +457,6 @@
       "onboard_time": 1663053398,
       "rank": 21,
       "category": "科技"
-    },
-    {
-      "raw_hot": 573879,
-      "num": 573879,
-      "word": "长沙疫情防控",
-      "onboard_time": 1663056817,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 559588,
@@ -547,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 501914,
+      "num": 501914,
+      "word": "女子隔离留守二哈把婚房拆了",
+      "onboard_time": 1663057417,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 501473,
       "num": 501473,
       "word": "羊了个羊崩了",
@@ -569,14 +593,6 @@
       "onboard_time": 1663031552,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 485778,
-      "num": 485778,
-      "word": "著名导演戈达尔去世",
-      "onboard_time": 1663058796,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 469840,
@@ -732,7 +748,7 @@
     },
     {
       "raw_hot": 374500,
-      "num": 279548,
+      "num": 297248,
       "word": "阿Sa说看言情小说会变漂亮",
       "onboard_time": 1663057475,
       "rank": 30,
@@ -747,6 +763,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 364969,
+      "num": 364969,
+      "word": "大英图书馆首次收录中国网文",
+      "onboard_time": 1663059096,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 361052,
       "num": 361052,
       "word": "19岁男生送外卖攒够一年学费",
@@ -755,12 +779,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 349632,
+      "num": 283429,
+      "word": "刘诗诗古装好飒",
+      "onboard_time": 1663060597,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 344849,
       "num": 297665,
       "word": "李政宰艾美奖最佳男主角",
       "onboard_time": 1663041454,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 344257,
+      "num": 344257,
+      "word": "美国NSA网络武器饮茶",
+      "onboard_time": 1663057235,
+      "rank": 23,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 340515,
@@ -907,6 +947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 293335,
+      "num": 217375,
+      "word": "张彬彬rua虞书欣的脸",
+      "onboard_time": 1663051174,
+      "rank": 33,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 292665,
       "num": 255173,
       "word": "黄景瑜罚罪站内热度值破9700",
@@ -971,20 +1019,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 273275,
-      "num": 273275,
-      "word": "美国NSA网络武器饮茶",
-      "onboard_time": 1663057235,
+      "raw_hot": 271924,
+      "num": 271924,
+      "word": "iPhone14系列官方维修价",
+      "onboard_time": 1663060236,
       "rank": 23,
-      "category": "科技,社会新闻"
+      "category": "科技"
     },
     {
-      "raw_hot": 267840,
-      "num": 267840,
-      "word": "女子隔离留守二哈把婚房拆了",
-      "onboard_time": 1663057417,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 269037,
+      "num": 269037,
+      "word": "明日方舟",
+      "onboard_time": 1663060597,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 267643,
@@ -995,20 +1043,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 267580,
-      "num": 217375,
-      "word": "张彬彬rua虞书欣的脸",
-      "onboard_time": 1663051174,
-      "rank": 33,
-      "category": "作品衍生,幽默"
-    },
-    {
       "raw_hot": 267567,
       "num": 267567,
       "word": "半个月后国庆遇国乒",
       "onboard_time": 1663037852,
       "rank": 42,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 265226,
+      "num": 265226,
+      "word": "庄周天秀幻梦",
+      "onboard_time": 1663058912,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 261419,
+      "num": 171306,
+      "word": "王一博冰雨火片场笑出鹅叫",
+      "onboard_time": 1663058255,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 260393,
+      "num": 260393,
+      "word": "北京新增16例本土感染者均为隔离观察人员",
+      "onboard_time": 1663060055,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 256188,
@@ -1057,6 +1121,14 @@
       "onboard_time": 1663046979,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 245715,
+      "num": 169510,
+      "word": "闫永强 唢呐",
+      "onboard_time": 1663058015,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 240353,
@@ -1121,14 +1193,6 @@
       "onboard_time": 1663049915,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 231174,
-      "num": 156185,
-      "word": "闫永强 唢呐",
-      "onboard_time": 1663058015,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 229416,
@@ -1243,6 +1307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 202965,
+      "num": 202965,
+      "word": "东软",
+      "onboard_time": 1663060112,
+      "rank": 34,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 201981,
       "num": 201981,
       "word": "想唱就唱的夏天",
@@ -1321,6 +1393,22 @@
       "onboard_time": 1662978699,
       "rank": 26,
       "category": "美食"
+    },
+    {
+      "raw_hot": 173903,
+      "num": 173903,
+      "word": "张朝阳称iPhone14紫色光谱里不存在",
+      "onboard_time": 1663060777,
+      "rank": 38,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 173374,
+      "num": 173374,
+      "word": "青岛新增本土确诊2例",
+      "onboard_time": 1663059756,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172511,
@@ -1433,6 +1521,22 @@
       "onboard_time": 1662994183,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135393,
+      "num": 135393,
+      "word": "保定疫情防控",
+      "onboard_time": 1663057294,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133238,
+      "num": 133238,
+      "word": "杜小华回应DNA比对不匹配",
+      "onboard_time": 1663060656,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132683,
