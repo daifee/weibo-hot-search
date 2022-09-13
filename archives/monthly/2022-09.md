@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/13 22:28:30
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/13 22:45:08
 </p>
 </blockquote>
 <p>
@@ -63,14 +63,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%A5%B3%E7%8E%8B%E5%8E%BB%E4%B8%96%23" target="weibo">
-英国女王去世（热度：8812909）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E5%BC%A0%E7%BF%B0%E6%96%B0%E5%89%A7%23" target="weibo">
+人民网评张翰新剧（热度：8971397）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E5%BC%A0%E7%BF%B0%E6%96%B0%E5%89%A7%23" target="weibo">
-人民网评张翰新剧（热度：8742974）
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%A5%B3%E7%8E%8B%E5%8E%BB%E4%B8%96%23" target="weibo">
+英国女王去世（热度：8812909）
 </a>
 </li>
 
@@ -441,6 +441,12 @@ LPL四号种子RNG（热度：3079936）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E5%8F%91%E7%94%9F%E8%A2%8B%E9%BC%A0%E6%9D%80%E4%BA%BA%E4%BA%8B%E4%BB%B6%23" target="weibo">
+澳大利亚发生袋鼠杀人事件（热度：2975885）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%B5%E9%98%B3%E7%AD%9B%E6%9F%A5%E5%88%B0301%E4%BE%8B%E9%98%B3%E6%80%A7%E6%84%9F%E6%9F%93%E8%80%85%23" target="weibo">
 贵阳筛查到301例阳性感染者（热度：2965006）
 </a>
@@ -599,12 +605,6 @@ UR被曝抄袭（热度：2730773）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E7%BD%9A%E7%BD%AA%E8%B1%86%E7%93%A3%E8%AF%84%E5%88%867.2%23" target="weibo">
 黄景瑜罚罪豆瓣评分7.2（热度：2691127）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E5%8F%91%E7%94%9F%E8%A2%8B%E9%BC%A0%E6%9D%80%E4%BA%BA%E4%BA%8B%E4%BB%B6%23" target="weibo">
-澳大利亚发生袋鼠杀人事件（热度：2690831）
 </a>
 </li>
 
@@ -773,6 +773,12 @@ BLACKPINK成员照片遭黑客泄露（热度：2426678）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%B8%A6%E4%BA%86300%E5%A5%97%E8%A1%A3%E6%9C%8D%E5%8E%BB%E5%B0%8F%E6%A3%AE%E6%9E%97%E5%89%A7%E7%BB%84%23" target="weibo">
 虞书欣带了300套衣服去小森林剧组（热度：2410671）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%20%E5%A5%BD%E7%AC%91%23" target="weibo">
+张杰 好笑（热度：2398941）
 </a>
 </li>
 
@@ -1269,12 +1275,6 @@ iPhone14Pro灵动岛（热度：1842563）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%20%E5%A5%BD%E7%AC%91%23" target="weibo">
-张杰 好笑（热度：1810141）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E5%8F%8D%E5%AF%B9%E5%87%91%E9%92%B1%E9%80%81%E7%A4%BC%E7%BB%99%E8%80%81%E5%B8%88%E8%A2%AB%E9%80%BC%E9%80%80%E7%BE%A4%23" target="weibo">
 家长反对凑钱送礼给老师被逼退群（热度：1809089）
 </a>
@@ -1571,6 +1571,12 @@ iPhone14 Plus（热度：1672968）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E8%AF%81%E5%AE%9E%E9%9F%A9%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E5%B1%A5%E5%8E%86%E9%80%A0%E5%81%87%23" target="weibo">
 警方证实韩第一夫人履历造假（热度：1633031）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8F%90%E5%89%8D%E6%BF%80%E6%B4%BBiPhone14%E6%AF%8F%E5%8F%B0%E7%BD%9A%E6%AC%BE20%E4%B8%87%23" target="weibo">
+提前激活iPhone14每台罚款20万（热度：1631807）
 </a>
 </li>
 
@@ -2493,12 +2499,6 @@ iPhone13官网降价销售（热度：1271944）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8F%90%E5%89%8D%E6%BF%80%E6%B4%BBiPhone14%E6%AF%8F%E5%8F%B0%E7%BD%9A%E6%AC%BE20%E4%B8%87%23" target="weibo">
-提前激活iPhone14每台罚款20万（热度：1260077）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E9%98%BB%E6%8B%A6%E5%A4%8D%E8%AF%BB%E5%90%8E%E5%AD%A9%E5%AD%90%E8%80%83%E4%B8%8A%E5%8C%97%E5%A4%A7%23" target="weibo">
 父亲阻拦复读后孩子考上北大（热度：1260006）
 </a>
@@ -2633,6 +2633,12 @@ Twins不承认吴谨言的粤语是自己教的（热度：1255504）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E4%BF%A1%E5%81%8F%E6%96%B9%E8%AE%A98%E5%B2%81%E5%A5%B3%E5%84%BF%E6%8A%BD%E6%97%B1%E7%83%9F%E6%B2%BB%E8%84%B8%E9%BB%84%23" target="weibo">
 父亲信偏方让8岁女儿抽旱烟治脸黄（热度：1208599）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%85%AC%E5%9B%AD%E8%A2%AB%E6%8C%87%E6%91%86%E6%94%BE%E6%97%A5%E6%9C%AC%E4%BA%BA%E9%9B%95%E5%A1%91%E7%BE%A4%23" target="weibo">
+上海一公园被指摆放日本人雕塑群（热度：1207970）
 </a>
 </li>
 
@@ -3363,12 +3369,6 @@ iPhone14Pro系列占中国订单85%（热度：1059806）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%85%AC%E5%9B%AD%E8%A2%AB%E6%8C%87%E6%91%86%E6%94%BE%E6%97%A5%E6%9C%AC%E4%BA%BA%E9%9B%95%E5%A1%91%E7%BE%A4%23" target="weibo">
-上海一公园被指摆放日本人雕塑群（热度：1013369）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%BC%A0%E8%89%BA%E5%85%B4%E6%AA%80%E5%81%A5%E6%AC%A1%E4%B8%8B%E7%8F%AD%E8%B7%AF%E9%80%8F%23" target="weibo">
 王鹤棣张艺兴檀健次下班路透（热度：1010152）
 </a>
@@ -3887,6 +3887,12 @@ LPL三号种子EDG（热度：926061）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E4%BA%AE%E4%B8%8A%E5%8F%91%E7%8E%B0%E5%AB%A6%E5%A8%A5%E7%9F%B3%23" target="weibo">
 月亮上发现嫦娥石（热度：925441）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%AC%A0%20%E4%BD%A0%E4%B8%8D%E6%87%82%E7%94%B7%E4%BA%BA%23" target="weibo">
+杨笠 你不懂男人（热度：925417）
 </a>
 </li>
 
@@ -4935,6 +4941,12 @@ AI画作拿一等奖惹怒人类艺术家（热度：776588）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%88%E8%BE%BE%E5%B0%94%E9%80%89%E6%8B%A9%E5%AE%89%E4%B9%90%E6%AD%BB%E7%A6%BB%E4%B8%96%23" target="weibo">
+戈达尔选择安乐死离世（热度：748899）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E7%9C%81%E4%B8%80%E9%98%BF%E5%85%AC%E4%B8%BA%E5%9B%9B%E5%B7%9D%E6%B3%B8%E5%AE%9A%E6%8D%90%E6%AC%BE%23" target="weibo">
 台湾省一阿公为四川泸定捐款（热度：748429）
 </a>
@@ -4979,12 +4991,6 @@ iPhone14Pro灭霸紫（热度：743476）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAmate50%E8%8A%AF%E7%89%87%23" target="weibo">
 华为mate50芯片（热度：735728）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%AC%A0%20%E4%BD%A0%E4%B8%8D%E6%87%82%E7%94%B7%E4%BA%BA%23" target="weibo">
-杨笠 你不懂男人（热度：735573）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ EDG（热度：615796）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2319%E5%B2%81%E5%B0%8F%E4%BC%99%E9%87%8E%E6%B3%B3%E6%BA%BA%E4%BA%A1%E7%88%B6%E6%AF%8D%E8%B5%B7%E8%AF%89%E6%9D%91%E5%A7%94%E4%BC%9A%23" target="weibo">
 19岁小伙野泳溺亡父母起诉村委会（热度：612638）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%9C%B0%E9%93%81%23" target="weibo">
-成都地铁（热度：612637）
 </a>
 </li>
 

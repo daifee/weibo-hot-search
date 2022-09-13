@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663079310955,
+  "endTime": 1663080308132,
   "band_list": [
     {
       "raw_hot": 9785867,
@@ -11,8 +11,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 8742974,
-      "num": 8742974,
+      "raw_hot": 8971397,
+      "num": 8971397,
       "word": "人民网评张翰新剧",
       "onboard_time": 1663077877,
       "rank": 47,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2975885,
+      "num": 2975885,
+      "word": "澳大利亚发生袋鼠杀人事件",
+      "onboard_time": 1663075713,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2916903,
       "num": 2916903,
       "word": "羊了个羊",
@@ -169,14 +177,6 @@
       "onboard_time": 1662972694,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2690831,
-      "num": 2690831,
-      "word": "澳大利亚发生袋鼠杀人事件",
-      "onboard_time": 1663075713,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2680649,
@@ -225,6 +225,14 @@
       "onboard_time": 1663063592,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2398941,
+      "num": 2398941,
+      "word": "张杰 好笑",
+      "onboard_time": 1663076194,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 2366566,
@@ -299,14 +307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1810141,
-      "num": 1810141,
-      "word": "张杰 好笑",
-      "onboard_time": 1663076194,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1804073,
       "num": 1804073,
       "word": "东八区的先生们 上星剧",
@@ -377,6 +377,14 @@
       "onboard_time": 1663049377,
       "rank": 42,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 1631807,
+      "num": 1631807,
+      "word": "提前激活iPhone14每台罚款20万",
+      "onboard_time": 1663077156,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 1629316,
@@ -547,14 +555,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1260077,
-      "num": 781777,
-      "word": "提前激活iPhone14每台罚款20万",
-      "onboard_time": 1663077156,
-      "rank": 49,
-      "category": "科技"
-    },
-    {
       "raw_hot": 1255504,
       "num": 1255504,
       "word": "Twins不承认吴谨言的粤语是自己教的",
@@ -585,6 +585,14 @@
       "onboard_time": 1662992564,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1207970,
+      "num": 1207970,
+      "word": "上海一公园被指摆放日本人雕塑群",
+      "onboard_time": 1663076253,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1189353,
@@ -723,14 +731,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1013369,
-      "num": 1013369,
-      "word": "上海一公园被指摆放日本人雕塑群",
-      "onboard_time": 1663076253,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1007260,
       "num": 978276,
       "word": "心疼费启鸣演的齐颂",
@@ -801,6 +801,14 @@
       "onboard_time": 1662943354,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 925417,
+      "num": 925417,
+      "word": "杨笠 你不懂男人",
+      "onboard_time": 1663078056,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 906026,
@@ -971,12 +979,12 @@
       "category": "教育,艺人"
     },
     {
-      "raw_hot": 735573,
-      "num": 735573,
-      "word": "杨笠 你不懂男人",
-      "onboard_time": 1663078056,
-      "rank": 11,
-      "category": "综艺"
+      "raw_hot": 748899,
+      "num": 655718,
+      "word": "戈达尔选择安乐死离世",
+      "onboard_time": 1663079021,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 735388,
@@ -1587,6 +1595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 469594,
+      "num": 469594,
+      "word": "成都新都区疫情防控",
+      "onboard_time": 1663078960,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 469441,
       "num": 469441,
       "word": "安卓版灵动岛插件出炉",
@@ -1867,12 +1883,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 401071,
-      "num": 401071,
-      "word": "成都新都区疫情防控",
-      "onboard_time": 1663078960,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 394903,
+      "num": 319964,
+      "word": "杨波 house",
+      "onboard_time": 1663079679,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 386471,
@@ -2009,6 +2025,14 @@
       "onboard_time": 1662984396,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 367314,
+      "num": 367314,
+      "word": "任天堂",
+      "onboard_time": 1663079504,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 363531,
@@ -2283,6 +2307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 321067,
+      "num": 321067,
+      "word": "20岁大学生用车床剥生鸡蛋不破不漏",
+      "onboard_time": 1663077996,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 318277,
       "num": 318277,
       "word": "UR被曝抄袭",
@@ -2321,14 +2353,6 @@
       "onboard_time": 1663031974,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 311051,
-      "num": 240270,
-      "word": "戈达尔选择安乐死离世",
-      "onboard_time": 1663079021,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 310549,
@@ -2433,6 +2457,14 @@
       "onboard_time": 1663047701,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 294717,
+      "num": 294717,
+      "word": "我听网课都没有这么认真",
+      "onboard_time": 1663074332,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 293599,
@@ -2547,6 +2579,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 278704,
+      "num": 265648,
+      "word": "任嘉伦李沁请君美救英雄花絮",
+      "onboard_time": 1663077513,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 278555,
       "num": 278555,
       "word": "马斯克炮轰燃油车",
@@ -2569,6 +2609,14 @@
       "onboard_time": 1663066356,
       "rank": 25,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 274087,
+      "num": 274087,
+      "word": "经销商预计iPhone14Pro溢价千元左右",
+      "onboard_time": 1663077455,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 273872,
@@ -2619,14 +2667,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 268876,
-      "num": 268876,
-      "word": "我听网课都没有这么认真",
-      "onboard_time": 1663074332,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 268189,
       "num": 268189,
       "word": "小鹿 复活",
@@ -2657,14 +2697,6 @@
       "onboard_time": 1662915450,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 265648,
-      "num": 265648,
-      "word": "任嘉伦李沁请君美救英雄花絮",
-      "onboard_time": 1663077513,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 265226,
@@ -2843,19 +2875,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238267,
+      "num": 195849,
+      "word": "八方旅人2公布",
+      "onboard_time": 1663080280,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 237947,
       "num": 237947,
       "word": "河南一快递点10秒传送300件快递",
       "onboard_time": 1663053636,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 237615,
-      "num": 237615,
-      "word": "20岁大学生用车床剥生鸡蛋不破不漏",
-      "onboard_time": 1663077996,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -2865,6 +2897,14 @@
       "onboard_time": 1662970591,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236286,
+      "num": 236286,
+      "word": "挑选男朋友就好比奶奶挑排骨",
+      "onboard_time": 1663078780,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 236198,
@@ -2971,6 +3011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227387,
+      "num": 227387,
+      "word": "父母为什么理解不了你的累",
+      "onboard_time": 1663078780,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 226270,
       "num": 226270,
       "word": "上班睡着的条件",
@@ -3059,6 +3107,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 213682,
+      "num": 213682,
+      "word": "双人成行将登陆NS",
+      "onboard_time": 1663079919,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 213641,
       "num": 164364,
       "word": "王宝强说一切都太值得",
@@ -3073,6 +3129,14 @@
       "onboard_time": 1662997961,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211241,
+      "num": 211241,
+      "word": "9月13日任天堂直面会",
+      "onboard_time": 1663079863,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 210279,
@@ -3225,14 +3289,6 @@
       "onboard_time": 1663073371,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 194237,
-      "num": 194237,
-      "word": "经销商预计iPhone14Pro溢价千元左右",
-      "onboard_time": 1663077455,
-      "rank": 48,
-      "category": "科技"
     },
     {
       "raw_hot": 193713,
@@ -3459,6 +3515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 156780,
+      "num": 2483981,
+      "word": "消防员车上挂满泸定人送的哈达",
+      "onboard_time": 1663076555,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154482,
       "num": 154482,
       "word": "60多岁男房东给21岁女租客发不雅视频",
@@ -3497,22 +3561,6 @@
       "onboard_time": 1662978160,
       "rank": 44,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 149353,
-      "num": 1833525,
-      "word": "消防员车上挂满泸定人送的哈达",
-      "onboard_time": 1663076555,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146083,
-      "num": 146083,
-      "word": "父母为什么理解不了你的累",
-      "onboard_time": 1663078780,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 145011,
