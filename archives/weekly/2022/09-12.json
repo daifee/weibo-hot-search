@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663100734546,
+  "endTime": 1663101679400,
   "band_list": [
     {
       "raw_hot": 9785867,
@@ -3755,20 +3755,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123351,
+      "num": 123351,
+      "word": "复星集团董事长郭广昌发声",
+      "onboard_time": 1663096752,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120178,
       "num": 120178,
       "word": "house 逐张清点",
       "onboard_time": 1662947619,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 120073,
-      "num": 120073,
-      "word": "复星集团董事长郭广昌发声",
-      "onboard_time": 1663096752,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119058,
@@ -4171,6 +4171,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 36567,
+      "num": 28438,
+      "word": "3岁幼童被牵绳大狗咬伤",
+      "onboard_time": 1663099631,
+      "rank": 29,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 36103,
       "num": 38431,
       "word": "中秋节北京黄金卖场现扫金热",
@@ -4195,14 +4203,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 18748,
-      "num": 18748,
-      "word": "3岁幼童被牵绳大狗咬伤",
-      "onboard_time": 1663099631,
-      "rank": 29,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 13813,
       "num": 13813,
       "word": "2022男排世锦赛",
@@ -4219,8 +4219,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 8688,
-      "num": 8688,
+      "raw_hot": 9742,
+      "num": 9742,
       "word": "姐姐嫌妈妈太凶亲自辅导弟弟被气哭",
       "onboard_time": 1663100712,
       "rank": 49,
