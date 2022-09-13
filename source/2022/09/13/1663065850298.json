@@ -1,0 +1,410 @@
+{
+  "runTime": 1663065850298,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1888300,
+        "num": 1888300,
+        "word": "高三生3小时吃4片止痛药肾衰竭",
+        "onboard_time": 1663057354,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1381094,
+        "num": 1381094,
+        "word": "张朝阳称iPhone14紫色光谱里不存在",
+        "onboard_time": 1663060777,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 62019,
+        "num": 1122509,
+        "word": "致敬泸定地震救援中每个勇敢身影",
+        "onboard_time": 1663053335,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 902745,
+        "num": 902745,
+        "word": "Twins不承认吴谨言的粤语是自己教的",
+        "onboard_time": 1663061137,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 882223,
+        "num": 882223,
+        "word": "著名导演戈达尔去世",
+        "onboard_time": 1663058796,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 810772,
+        "num": 810772,
+        "word": "羊了个羊",
+        "onboard_time": 1663025968,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 793624,
+        "num": 793624,
+        "word": "那英 周迅",
+        "onboard_time": 1663051355,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 825397,
+        "num": 791845,
+        "word": "将进酒",
+        "onboard_time": 1663062937,
+        "rank": 7,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 1881271,
+        "num": 787500,
+        "word": "唐山打人案今日公开审理",
+        "onboard_time": 1663063053,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 720110,
+        "num": 720110,
+        "word": "美国限制芯片出口是科技霸权主义",
+        "onboard_time": 1663061557,
+        "rank": 9,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 1357151,
+        "num": 716599,
+        "word": "刘宇宁手机屏保是宁远舟",
+        "onboard_time": 1663065034,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 674095,
+        "num": 674095,
+        "word": "偷偷藏不住剧组道歉",
+        "onboard_time": 1663054414,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 643638,
+        "num": 643638,
+        "word": "苹果四款机型不支持电量百分比",
+        "onboard_time": 1663061735,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 594919,
+        "num": 594919,
+        "word": "男子捐2000元图书被慈善机构卖出",
+        "onboard_time": 1663062096,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594788,
+        "num": 594788,
+        "word": "官方回应去世老人核酸报告还在更新",
+        "onboard_time": 1663055616,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479904,
+        "num": 479904,
+        "word": "吴磊爱情而已路透",
+        "onboard_time": 1663063293,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 451871,
+        "num": 451871,
+        "word": "ios16壁纸",
+        "onboard_time": 1663062036,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 417811,
+        "num": 417811,
+        "word": "女子隔离留守二哈把婚房拆了",
+        "onboard_time": 1663057417,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405136,
+        "num": 405136,
+        "word": "11万天价地毯",
+        "onboard_time": 1663063894,
+        "rank": 18,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 372067,
+        "num": 372067,
+        "word": "要是没录下来后悔一辈子",
+        "onboard_time": 1663063954,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 341158,
+        "num": 341158,
+        "word": "微信坚决抵制无底线追星",
+        "onboard_time": 1663064614,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 326509,
+        "num": 326509,
+        "word": "校方回应教师获奖200万元商品房",
+        "onboard_time": 1663062994,
+        "rank": 21,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 305010,
+        "num": 305010,
+        "word": "老板连摊4张饼都失败直接歇业",
+        "onboard_time": 1663049377,
+        "rank": 22,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 287538,
+        "num": 287538,
+        "word": "叱咤之城出品方晒与汪海林聊天记录",
+        "onboard_time": 1663063053,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281927,
+        "num": 281927,
+        "word": "消息称iPhone15要改名",
+        "onboard_time": 1663045248,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 271178,
+        "num": 271178,
+        "word": "刘诗诗古装好飒",
+        "onboard_time": 1663060597,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 270532,
+        "num": 270532,
+        "word": "金丝猴吃葡萄一口一颗不忘剥皮",
+        "onboard_time": 1663051714,
+        "rank": 26,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 270294,
+        "num": 270294,
+        "word": "长沙疫情防控",
+        "onboard_time": 1663056817,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268443,
+        "num": 268443,
+        "word": "iPhone14系列官方维修价",
+        "onboard_time": 1663060236,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 268413,
+        "num": 268413,
+        "word": "徐正溪 古装",
+        "onboard_time": 1663063233,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 232938,
+        "num": 232938,
+        "word": "东软",
+        "onboard_time": 1663060112,
+        "rank": 30,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 212353,
+        "num": 212353,
+        "word": "杜小华与疑似男孩DNA比对不匹配",
+        "onboard_time": 1663043019,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204907,
+        "num": 204907,
+        "word": "这猫是梅超风吧",
+        "onboard_time": 1663062335,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202166,
+        "num": 202166,
+        "word": "张彬彬rua虞书欣的脸",
+        "onboard_time": 1663051174,
+        "rank": 33,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 193621,
+        "num": 193621,
+        "word": "NCT127主打曲MV预告",
+        "onboard_time": 1663062695,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 191531,
+        "num": 191531,
+        "word": "被偷偷藏不住剧组砸无人机学生回应",
+        "onboard_time": 1663057174,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190531,
+        "num": 190531,
+        "word": "欢迎来到蘑菇屋",
+        "onboard_time": 1663054534,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180686,
+        "num": 180686,
+        "word": "大英图书馆首次收录中国网文",
+        "onboard_time": 1663059096,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177173,
+        "num": 177173,
+        "word": "贵阳多名官员被全市通报批评",
+        "onboard_time": 1663055314,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2103040,
+        "num": 177093,
+        "word": "王一博希望能成为一个酷小孩",
+        "onboard_time": 1663063592,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176707,
+        "num": 176707,
+        "word": "脱口秀领笑员",
+        "onboard_time": 1663056997,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164137,
+        "num": 164137,
+        "word": "iOS16已支持检测假冒AirPods",
+        "onboard_time": 1663053398,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 162135,
+        "num": 162135,
+        "word": "女子穿黄衣排队满背飞虫",
+        "onboard_time": 1663050277,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161398,
+        "num": 161398,
+        "word": "庄周天秀幻梦",
+        "onboard_time": 1663058912,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150238,
+        "num": 150238,
+        "word": "阿Sa说看言情小说会变漂亮",
+        "onboard_time": 1663057475,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148356,
+        "num": 148356,
+        "word": "河南引进全日制博士可享国企中层副职待遇",
+        "onboard_time": 1663050695,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143562,
+        "num": 143562,
+        "word": "北京新增16例本土感染者均为隔离观察人员",
+        "onboard_time": 1663060055,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138319,
+        "num": 138319,
+        "word": "青岛新增本土确诊2例",
+        "onboard_time": 1663059756,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131776,
+        "num": 131776,
+        "word": "北京朝阳新增感染者13例",
+        "onboard_time": 1663062515,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126356,
+        "num": 126356,
+        "word": "杨莉娜正式加盟巴黎",
+        "onboard_time": 1663064974,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#上合组织元首理事会#"
+    }
+  }
+}
