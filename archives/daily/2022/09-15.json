@@ -1,6 +1,6 @@
 {
   "startTime": 1663173270447,
-  "endTime": 1663188195749,
+  "endTime": 1663190392205,
   "band_list": [
     {
       "raw_hot": 1747076,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268620,
+      "num": 268620,
+      "word": "台风梅花",
+      "onboard_time": 1663154131,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257847,
       "num": 257847,
       "word": "邢菲说躺进棺材没害怕",
@@ -193,14 +201,6 @@
       "onboard_time": 1663168717,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 239569,
-      "num": 239569,
-      "word": "台风梅花",
-      "onboard_time": 1663154131,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 238226,
@@ -420,7 +420,7 @@
     },
     {
       "raw_hot": 81553,
-      "num": 40893,
+      "num": 43757,
       "word": "老人澡堂洗澡猝死家属索赔50万被驳",
       "onboard_time": 1663183571,
       "rank": 36,
@@ -440,6 +440,14 @@
       "word": "歼20为志愿军烈士遗骸护航",
       "onboard_time": 1663161814,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59258,
+      "num": 43552,
+      "word": "郑州火车站附近发现遗弃男婴",
+      "onboard_time": 1663187350,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -483,28 +491,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 28341,
+      "num": 28341,
+      "word": "康辉的行李箱里竟然带烤馕",
+      "onboard_time": 1663187111,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24295,
       "num": 24295,
       "word": "当一群社恐狗狗聚会",
       "onboard_time": 1663179315,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 17725,
-      "num": 17725,
-      "word": "郑州火车站附近发现遗弃男婴",
-      "onboard_time": 1663187350,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13139,
-      "num": 13139,
-      "word": "康辉的行李箱里竟然带烤馕",
-      "onboard_time": 1663187111,
-      "rank": 49,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
