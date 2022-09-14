@@ -1,6 +1,6 @@
 {
   "startTime": 1663086802432,
-  "endTime": 1663144235204,
+  "endTime": 1663145342689,
   "band_list": [
     {
       "raw_hot": 9835748,
@@ -17,6 +17,14 @@
       "onboard_time": 1663081481,
       "rank": 0,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 3845734,
+      "num": 1149205,
+      "word": "张翰的肚子",
+      "onboard_time": 1663143088,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 3802024,
@@ -41,14 +49,6 @@
       "onboard_time": 1663131276,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 2824388,
-      "num": 1014190,
-      "word": "张翰的肚子",
-      "onboard_time": 1663143088,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 2216084,
@@ -155,12 +155,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1162515,
+      "num": 1162515,
+      "word": "iPhone15或使用台积电3nm芯片",
+      "onboard_time": 1663142309,
+      "rank": 4,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1162488,
       "num": 1162488,
       "word": "宁波暂停72小时核酸检测要求",
       "onboard_time": 1663125635,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1148327,
+      "num": 1148327,
+      "word": "羊了个羊急招后端开发",
+      "onboard_time": 1663139368,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 1138283,
@@ -195,14 +211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1056243,
-      "num": 1056243,
-      "word": "羊了个羊急招后端开发",
-      "onboard_time": 1663139368,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 1025639,
       "num": 1025639,
       "word": "夫妻疑因吵架把狗推下4楼",
@@ -217,14 +225,6 @@
       "onboard_time": 1663119508,
       "rank": 11,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 995796,
-      "num": 995796,
-      "word": "iPhone15或使用台积电3nm芯片",
-      "onboard_time": 1663142309,
-      "rank": 4,
-      "category": "科技"
     },
     {
       "raw_hot": 959971,
@@ -459,6 +459,14 @@
       "category": "幽默,教育"
     },
     {
+      "raw_hot": 579107,
+      "num": 579107,
+      "word": "王鹤棣上部剧本座这部剧奴才",
+      "onboard_time": 1663143990,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 563215,
       "num": 563215,
       "word": "Angelababy认为好的爱人像中医",
@@ -499,20 +507,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 486846,
+      "num": 486846,
+      "word": "开美甲店的阿姨接待儿子朋友",
+      "onboard_time": 1663141650,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 478857,
       "num": 478857,
       "word": "A股",
       "onboard_time": 1663121248,
       "rank": 16,
       "category": "财经"
-    },
-    {
-      "raw_hot": 470952,
-      "num": 470952,
-      "word": "王鹤棣上部剧本座这部剧奴才",
-      "onboard_time": 1663143990,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 470834,
@@ -539,19 +547,19 @@
       "category": "科技"
     },
     {
-      "raw_hot": 431081,
-      "num": 431081,
-      "word": "开美甲店的阿姨接待儿子朋友",
-      "onboard_time": 1663141650,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 423639,
       "num": 423639,
       "word": "四川增本土确诊127例无症状83例",
       "onboard_time": 1663121550,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 416680,
+      "num": 416680,
+      "word": "18岁小伙文前女友名字去掉需切除",
+      "onboard_time": 1663144528,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -731,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299999,
+      "num": 299999,
+      "word": "72岁奶奶跳湖救回轻生女孩",
+      "onboard_time": 1663141050,
+      "rank": 49,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 296418,
       "num": 296418,
       "word": "20岁大学生用车床剥生鸡蛋不破不漏",
@@ -755,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 287770,
+      "num": 287770,
+      "word": "男子打拼10年养鸡2000万只",
+      "onboard_time": 1663141531,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281910,
       "num": 281910,
       "word": "家委会的权力是不是太大了",
@@ -763,20 +787,28 @@
       "category": "教育"
     },
     {
-      "raw_hot": 281750,
-      "num": 281750,
-      "word": "男子打拼10年养鸡2000万只",
-      "onboard_time": 1663141531,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 281676,
       "num": 281676,
       "word": "张译王俊凯殷桃演绎真实撤侨路",
       "onboard_time": 1663129295,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 278196,
+      "num": 278196,
+      "word": "羊了个羊通关率不到0.1%",
+      "onboard_time": 1663143751,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 277948,
+      "num": 277948,
+      "word": "宋妍霏婚纱配球鞋造型",
+      "onboard_time": 1663144170,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 277468,
@@ -875,6 +907,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 234962,
+      "num": 234962,
+      "word": "羊了个羊 卡bug过关",
+      "onboard_time": 1663144591,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 233988,
       "num": 233988,
       "word": "电视剧野蛮生长",
@@ -939,14 +979,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 218744,
-      "num": 218744,
-      "word": "72岁奶奶跳湖救回轻生女孩",
-      "onboard_time": 1663141050,
-      "rank": 49,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 217321,
       "num": 230481,
       "word": "运20接英雄回家",
@@ -1003,20 +1035,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205378,
+      "num": 205378,
+      "word": "新英雄海月即将上线",
+      "onboard_time": 1663142548,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 201562,
       "num": 201562,
       "word": "女方悔婚拒退彩礼男子挂横幅寻人",
       "onboard_time": 1663071334,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 201552,
-      "num": 201552,
-      "word": "羊了个羊通关率不到0.1%",
-      "onboard_time": 1663143751,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 200584,
@@ -1057,6 +1089,14 @@
       "onboard_time": 1663130256,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 194876,
+      "num": 194876,
+      "word": "路人视角下的王嘉尔海外人气",
+      "onboard_time": 1663142189,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 194503,
@@ -1131,14 +1171,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 175770,
-      "num": 175770,
-      "word": "新英雄海月即将上线",
-      "onboard_time": 1663142548,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 172867,
       "num": 172867,
       "word": "第一次在鱼脸上看到了表情",
@@ -1179,14 +1211,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 164413,
-      "num": 164413,
-      "word": "路人视角下的王嘉尔海外人气",
-      "onboard_time": 1663142189,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 163334,
       "num": 163334,
       "word": "拜仁2比0巴萨",
@@ -1201,14 +1225,6 @@
       "onboard_time": 1663062036,
       "rank": 29,
       "category": "科技"
-    },
-    {
-      "raw_hot": 162501,
-      "num": 162501,
-      "word": "宋妍霏婚纱配球鞋造型",
-      "onboard_time": 1663144170,
-      "rank": 41,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 162149,
@@ -1233,6 +1249,14 @@
       "onboard_time": 1663122089,
       "rank": 46,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 158585,
+      "num": 158585,
+      "word": "五年前的告白被回应了",
+      "onboard_time": 1663144528,
+      "rank": 40,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 155825,
