@@ -1,6 +1,6 @@
 {
   "startTime": 1663173270447,
-  "endTime": 1663190392205,
+  "endTime": 1663191533010,
   "band_list": [
     {
       "raw_hot": 1747076,
@@ -131,6 +131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 324464,
+      "num": 324464,
+      "word": "台风梅花",
+      "onboard_time": 1663154131,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308246,
       "num": 308246,
       "word": "王栎鑫删博后道歉",
@@ -176,14 +184,6 @@
       "word": "钱塘江入海口惊现大片潮汐树",
       "onboard_time": 1663170392,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 268620,
-      "num": 268620,
-      "word": "台风梅花",
-      "onboard_time": 1663154131,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -420,7 +420,7 @@
     },
     {
       "raw_hot": 81553,
-      "num": 43757,
+      "num": 46688,
       "word": "老人澡堂洗澡猝死家属索赔50万被驳",
       "onboard_time": 1663183571,
       "rank": 36,
@@ -443,8 +443,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 59258,
-      "num": 43552,
+      "raw_hot": 76154,
+      "num": 46938,
       "word": "郑州火车站附近发现遗弃男婴",
       "onboard_time": 1663187350,
       "rank": 34,
@@ -475,6 +475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 42200,
+      "num": 42200,
+      "word": "康辉的行李箱里竟然带烤馕",
+      "onboard_time": 1663187111,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35578,
       "num": 35578,
       "word": "18岁小伙文前女友名字去掉需切除",
@@ -491,20 +499,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 28341,
-      "num": 28341,
-      "word": "康辉的行李箱里竟然带烤馕",
-      "onboard_time": 1663187111,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 24295,
       "num": 24295,
       "word": "当一群社恐狗狗聚会",
       "onboard_time": 1663179315,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 15120,
+      "num": 15120,
+      "word": "台风梅花或由南向北穿过江苏",
+      "onboard_time": 1663190891,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10535,
+      "num": 10535,
+      "word": "女孩字迹如印刷体引网友夸赞",
+      "onboard_time": 1663191431,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
