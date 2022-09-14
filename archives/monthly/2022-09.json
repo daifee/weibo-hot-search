@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1663112583660,
+  "endTime": 1663122680096,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -169,6 +169,14 @@
       "onboard_time": 1662987699,
       "rank": 1,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 4647041,
+      "num": 4647041,
+      "word": "羊了个羊",
+      "onboard_time": 1663025968,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 4644891,
@@ -609,14 +617,6 @@
       "onboard_time": 1662555153,
       "rank": 1,
       "category": "情感"
-    },
-    {
-      "raw_hot": 2916903,
-      "num": 2916903,
-      "word": "羊了个羊",
-      "onboard_time": 1663025968,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 2909181,
@@ -1401,6 +1401,14 @@
       "onboard_time": 1662611493,
       "rank": 11,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 2002288,
+      "num": 2002288,
+      "word": "苹果市值一夜蒸发1500亿美元",
+      "onboard_time": 1663118849,
+      "rank": 1,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 1980728,
@@ -2931,6 +2939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1366564,
+      "num": 1366564,
+      "word": "父子俩坐27小时硬座带泡面开学",
+      "onboard_time": 1663118011,
+      "rank": 3,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1360509,
       "num": 1360509,
       "word": "成都市民核酸遇3天后生产采样棉签",
@@ -3211,6 +3227,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 1303393,
+      "num": 1303393,
+      "word": "苹果承认将增加系统广告",
+      "onboard_time": 1663119328,
+      "rank": 4,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1300820,
       "num": 1300820,
       "word": "Uzi解说",
@@ -3433,6 +3457,14 @@
       "onboard_time": 1662167845,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1235152,
+      "num": 1235152,
+      "word": "顺丰回应寄丢20克黄金只赔2000",
+      "onboard_time": 1663115971,
+      "rank": 6,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1233195,
@@ -4089,6 +4121,14 @@
       "onboard_time": 1662387996,
       "rank": 10,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1081710,
+      "num": 1081710,
+      "word": "全国人大代表提议全面消灭蚊子",
+      "onboard_time": 1663117053,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1080953,
@@ -5297,6 +5337,14 @@
       "onboard_time": 1662096626,
       "rank": 12,
       "category": "军事"
+    },
+    {
+      "raw_hot": 922134,
+      "num": 922134,
+      "word": "浮图缘",
+      "onboard_time": 1663120349,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 922019,
@@ -6587,6 +6635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 756055,
+      "num": 756055,
+      "word": "网传一公司厕所隔间装监控",
+      "onboard_time": 1663116211,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 755570,
       "num": 755570,
       "word": "大学生暑假送外卖赚1万7妈妈发声",
@@ -6689,6 +6745,14 @@
       "onboard_time": 1662289107,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 737000,
+      "num": 737000,
+      "word": "52岁大学生报到被查3次录取通知书",
+      "onboard_time": 1663119508,
+      "rank": 11,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 735828,
@@ -7995,6 +8059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 619086,
+      "num": 619086,
+      "word": "男子将190公斤猪血制假鸭血售卖",
+      "onboard_time": 1663114651,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 618846,
       "num": 618846,
       "word": "四川增68例确诊70例无症状",
@@ -8225,6 +8297,14 @@
       "onboard_time": 1662683677,
       "rank": 20,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 602156,
+      "num": 602156,
+      "word": "考教资的动力有了",
+      "onboard_time": 1663114951,
+      "rank": 13,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 601667,
@@ -8673,6 +8753,14 @@
       "onboard_time": 1662077846,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 565357,
+      "num": 565357,
+      "word": "小孩鬼探头被撞倒家长罚其面壁思过",
+      "onboard_time": 1663120168,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 563352,
@@ -10259,6 +10347,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 478857,
+      "num": 478857,
+      "word": "A股",
+      "onboard_time": 1663121248,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 478403,
       "num": 478403,
       "word": "老人为捡饭店瓶子倒掉整箱饮料",
@@ -10505,6 +10601,14 @@
       "onboard_time": 1663038632,
       "rank": 44,
       "category": "科技"
+    },
+    {
+      "raw_hot": 469326,
+      "num": 469326,
+      "word": "沈阳疫情防控",
+      "onboard_time": 1662208770,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 468831,
@@ -11627,6 +11731,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 420166,
+      "num": 420166,
+      "word": "知道分手是对的但还是难过",
+      "onboard_time": 1663118011,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 419891,
       "num": 419891,
       "word": "刘诗诗 清冷",
@@ -11681,6 +11793,14 @@
       "onboard_time": 1662828870,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 415988,
+      "num": 415988,
+      "word": "2022下半年英语四六级报名",
+      "onboard_time": 1663116452,
+      "rank": 22,
+      "category": "教育"
     },
     {
       "raw_hot": 415623,
@@ -12281,6 +12401,14 @@
       "onboard_time": 1662601228,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 400245,
+      "num": 400245,
+      "word": "女子拖行李箱离厂遭保安拖拽开箱",
+      "onboard_time": 1663117891,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 400135,
@@ -14659,6 +14787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 332616,
+      "num": 332616,
+      "word": "上海地铁2号线",
+      "onboard_time": 1663119452,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332602,
       "num": 332602,
       "word": "谈恋爱就跟吃泡面一样",
@@ -14915,6 +15051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 325993,
+      "num": 325993,
+      "word": "广西一水库放生有害鱼种清道夫",
+      "onboard_time": 1663115251,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 325264,
       "num": 325264,
       "word": "库尔勒全市临时静态管理7天",
@@ -15089,6 +15233,14 @@
       "onboard_time": 1662123869,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 319628,
+      "num": 319628,
+      "word": "绵阳疫情防控",
+      "onboard_time": 1663118534,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 319482,
@@ -15801,14 +15953,6 @@
       "onboard_time": 1662275547,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 305192,
-      "num": 305192,
-      "word": "沈阳疫情防控",
-      "onboard_time": 1662208770,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 305031,
@@ -17379,6 +17523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 277468,
+      "num": 277468,
+      "word": "新川日常上房皆哇版海报",
+      "onboard_time": 1663121969,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 277446,
       "num": 277446,
       "word": "脱口秀大会5将延播",
@@ -17889,6 +18041,14 @@
       "onboard_time": 1662867633,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 268389,
+      "num": 268389,
+      "word": "四川增本土确诊127例无症状83例",
+      "onboard_time": 1663121550,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 268250,
@@ -18755,6 +18915,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 252609,
+      "num": 252609,
+      "word": "9月13日新增本土无症状762例",
+      "onboard_time": 1663122089,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252548,
       "num": 252548,
       "word": "檀健次新剧状态",
@@ -19065,6 +19233,14 @@
       "onboard_time": 1662421224,
       "rank": 20,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 246037,
+      "num": 246037,
+      "word": "16岁女孩湍流中连救两名男子",
+      "onboard_time": 1663111344,
+      "rank": 43,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 245967,
@@ -19707,12 +19883,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 233706,
-      "num": 233706,
-      "word": "16岁女孩湍流中连救两名男子",
-      "onboard_time": 1663111344,
-      "rank": 43,
-      "category": "社会正能量"
+      "raw_hot": 233988,
+      "num": 233988,
+      "word": "电视剧野蛮生长",
+      "onboard_time": 1663116692,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 233242,
@@ -20169,6 +20345,14 @@
       "onboard_time": 1662034170,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 225556,
+      "num": 225556,
+      "word": "杨超越喜欢看直播卖爸爸衫",
+      "onboard_time": 1663114351,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 225425,
@@ -20884,7 +21068,7 @@
     },
     {
       "raw_hot": 212721,
-      "num": 87631,
+      "num": 197158,
       "word": "BLACKPINK新歌ShutDown预告",
       "onboard_time": 1663112546,
       "rank": 47,
@@ -23355,6 +23539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 166632,
+      "num": 166632,
+      "word": "9月13日新增确诊237例",
+      "onboard_time": 1663121729,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166504,
       "num": 166504,
       "word": "鸿蒙3今日开放升级",
@@ -23681,6 +23873,14 @@
       "onboard_time": 1662476433,
       "rank": 42,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 161065,
+      "num": 161065,
+      "word": "温岭九龙湖 辟谣",
+      "onboard_time": 1663122089,
+      "rank": 46,
+      "category": "社会负面"
     },
     {
       "raw_hot": 161059,
@@ -24403,6 +24603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148860,
+      "num": 148860,
+      "word": "郑州发布通告开展全市核酸筛查",
+      "onboard_time": 1663116571,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148790,
       "num": 148790,
       "word": "火星制氧实验成功",
@@ -24817,6 +25025,14 @@
       "onboard_time": 1662433766,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 139659,
+      "num": 139659,
+      "word": "玄武湖花开如铺上红色地毯",
+      "onboard_time": 1663121969,
+      "rank": 49,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 139277,
