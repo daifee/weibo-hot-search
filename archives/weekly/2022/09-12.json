@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663169180976,
+  "endTime": 1663170291415,
   "band_list": [
     {
       "raw_hot": 9835748,
@@ -715,6 +715,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1299254,
+      "num": 1299254,
+      "word": "奶茶溅入电脑显示屏致蚂蚁筑巢",
+      "onboard_time": 1663167093,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1295662,
       "num": 1162515,
       "word": "iPhone15或使用台积电3nm芯片",
@@ -899,6 +907,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1121898,
+      "num": 917512,
+      "word": "豆豆 男的吃烧烤只能穿肠镜裤",
+      "onboard_time": 1663169912,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1119085,
       "num": 1119085,
       "word": "丈夫踩蛇被吓飞妻子单手拎起",
@@ -1017,6 +1033,14 @@
       "onboard_time": 1663147589,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1053648,
+      "num": 1053648,
+      "word": "韩剧现偶男主角人设天花板",
+      "onboard_time": 1663167877,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 1048579,
@@ -1587,14 +1611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 691431,
-      "num": 691431,
-      "word": "奶茶溅入电脑显示屏致蚂蚁筑巢",
-      "onboard_time": 1663167093,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 690921,
       "num": 690921,
       "word": "幼儿园午睡后男孩帮女孩穿鞋",
@@ -1715,14 +1731,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 649572,
-      "num": 649572,
-      "word": "韩剧现偶男主角人设天花板",
-      "onboard_time": 1663167877,
-      "rank": 7,
-      "category": "影视"
-    },
-    {
       "raw_hot": 649445,
       "num": 649445,
       "word": "浙江教师业绩突出获奖一套房",
@@ -1737,6 +1745,14 @@
       "onboard_time": 1663043019,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 645354,
+      "num": 645354,
+      "word": "58岁自驾阿姨苏敏决定离婚",
+      "onboard_time": 1663167938,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 642757,
@@ -1913,6 +1929,14 @@
       "onboard_time": 1663069593,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 572655,
+      "num": 572655,
+      "word": "羊了个羊为何突然爆火",
+      "onboard_time": 1663154131,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 570507,
@@ -2155,6 +2179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 511507,
+      "num": 511507,
+      "word": "AirPods Pro 2 值得买吗",
+      "onboard_time": 1663168655,
+      "rank": 35,
+      "category": "科技"
+    },
+    {
       "raw_hot": 511388,
       "num": 511388,
       "word": "要是没录下来后悔一辈子",
@@ -2257,14 +2289,6 @@
       "onboard_time": 1662951875,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 492693,
-      "num": 492693,
-      "word": "羊了个羊为何突然爆火",
-      "onboard_time": 1663154131,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 490657,
@@ -2827,6 +2851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 397400,
+      "num": 397400,
+      "word": "百万退休金买兴业银行理财血本无归",
+      "onboard_time": 1663167636,
+      "rank": 26,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 394903,
       "num": 336717,
       "word": "杨波 house",
@@ -3003,11 +3035,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 363918,
+      "num": 363918,
+      "word": "小男孩在幼儿园坦然展示假肢",
+      "onboard_time": 1663166675,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 363767,
       "num": 363767,
       "word": "上海地铁部分线路今晚21时起停运",
       "onboard_time": 1663147830,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 363599,
+      "num": 363599,
+      "word": "女子用高度白酒腌螃蟹醉晕老公",
+      "onboard_time": 1663167339,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -3056,14 +3104,6 @@
       "word": "95后女孩与100个陌生人交换礼物",
       "onboard_time": 1663160432,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 357901,
-      "num": 357901,
-      "word": "小男孩在幼儿园坦然展示假肢",
-      "onboard_time": 1663166675,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -3224,14 +3264,6 @@
       "word": "杭州台风",
       "onboard_time": 1663138768,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 336299,
-      "num": 336299,
-      "word": "女子用高度白酒腌螃蟹醉晕老公",
-      "onboard_time": 1663167339,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -3411,14 +3443,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 319332,
-      "num": 319332,
-      "word": "58岁自驾阿姨苏敏决定离婚",
-      "onboard_time": 1663167938,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 318277,
       "num": 318277,
       "word": "UR被曝抄袭",
@@ -3441,14 +3465,6 @@
       "onboard_time": 1663129356,
       "rank": 29,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 317155,
-      "num": 317155,
-      "word": "百万退休金买兴业银行理财血本无归",
-      "onboard_time": 1663167636,
-      "rank": 26,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 316951,
@@ -3641,6 +3657,14 @@
       "onboard_time": 1663148189,
       "rank": 21,
       "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 296536,
+      "num": 296536,
+      "word": "摆烂式爱情真的会更长久吗",
+      "onboard_time": 1663168717,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 294999,
@@ -3857,6 +3881,14 @@
       "onboard_time": 1663121969,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 275288,
+      "num": 275288,
+      "word": "茶颜悦色南京新店招牌引争议",
+      "onboard_time": 1663169614,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 275233,
@@ -4579,6 +4611,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 215055,
+      "num": 215055,
+      "word": "檀健次开挂了公司不打卡",
+      "onboard_time": 1663169971,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 214549,
       "num": 214549,
       "word": "被吓到紧紧抱着主人的猫咪",
@@ -4641,14 +4681,6 @@
       "onboard_time": 1663079863,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 211202,
-      "num": 211202,
-      "word": "AirPods Pro 2 值得买吗",
-      "onboard_time": 1663168655,
-      "rank": 35,
-      "category": "科技"
     },
     {
       "raw_hot": 210279,
@@ -4777,6 +4809,14 @@
       "onboard_time": 1663112127,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 200556,
+      "num": 200556,
+      "word": "羊了个羊难通关为何还想玩",
+      "onboard_time": 1663169793,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 200164,
@@ -4937,14 +4977,6 @@
       "onboard_time": 1662980495,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 189891,
-      "num": 189891,
-      "word": "摆烂式爱情真的会更长久吗",
-      "onboard_time": 1663168717,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 188305,
@@ -6044,6 +6076,9 @@
     },
     {
       "word": "#习近平对哈萨克斯坦进行国事访问#"
+    },
+    {
+      "word": "#习主席出访#"
     }
   ]
 }
