@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663180203478,
+  "endTime": 1663181323956,
   "band_list": [
     {
       "raw_hot": 9835748,
@@ -5995,6 +5995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53702,
+      "num": 53702,
+      "word": "世界杯哪队的中国球迷最多",
+      "onboard_time": 1663178113,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 53612,
       "num": 53612,
       "word": "58岁自驾阿姨苏敏称会继续出发",
@@ -6017,14 +6025,6 @@
       "onboard_time": 1662926772,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 46185,
-      "num": 46185,
-      "word": "世界杯哪队的中国球迷最多",
-      "onboard_time": 1663178113,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 45487,
