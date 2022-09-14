@@ -1,0 +1,410 @@
+{
+  "runTime": 1663140991552,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2118452,
+        "num": 2118452,
+        "word": "家属叫不出产妇全名护士拒给娃",
+        "onboard_time": 1663135589,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1311252,
+        "num": 1311252,
+        "word": "冯远征就任北京人艺第五任院长",
+        "onboard_time": 1663137629,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14668,
+        "num": 1137724,
+        "word": "消防员车上挂满泸定人送的哈达",
+        "onboard_time": 1663076555,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1062557,
+        "num": 1062557,
+        "word": "敦煌考古编制岗位无人问津",
+        "onboard_time": 1663137687,
+        "rank": 3,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 827093,
+        "num": 827093,
+        "word": "妈妈其实把你养得很好",
+        "onboard_time": 1663131574,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 735301,
+        "num": 735301,
+        "word": "解放军20分钟在长江架起一座桥",
+        "onboard_time": 1663137387,
+        "rank": 5,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 653086,
+        "num": 653086,
+        "word": "男子因发量不符识破换脸艳照",
+        "onboard_time": 1663130617,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2339968,
+        "num": 652561,
+        "word": "羊了个羊 抄袭",
+        "onboard_time": 1663131276,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1280284,
+        "num": 617495,
+        "word": "羊了个羊",
+        "onboard_time": 1663116150,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 572944,
+        "num": 572944,
+        "word": "雷军卸任小米电子软件公司董事长",
+        "onboard_time": 1663139490,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 3720086,
+        "num": 567181,
+        "word": "王栎鑫删博后道歉",
+        "onboard_time": 1663140268,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 671517,
+        "num": 561468,
+        "word": "博主直播激活苹果iPhone14被封禁",
+        "onboard_time": 1663129416,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 587575,
+        "num": 526268,
+        "word": "赵丽颖刘诗诗Angelababy金九封面",
+        "onboard_time": 1663140629,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 484311,
+        "num": 484311,
+        "word": "B站诉争哔哩哔哩商标被驳回",
+        "onboard_time": 1663130975,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 443644,
+        "num": 443644,
+        "word": "钟汉良承包了上海的清晨",
+        "onboard_time": 1663132175,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 434910,
+        "num": 434910,
+        "word": "男子和朋友喝22瓶酒起幻觉坠楼身亡",
+        "onboard_time": 1663129896,
+        "rank": 15,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 407128,
+        "num": 407128,
+        "word": "爱奇艺古装剧存货",
+        "onboard_time": 1663137146,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 381783,
+        "num": 381783,
+        "word": "为什么国内的APP在外国这么火",
+        "onboard_time": 1663134211,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 369406,
+        "num": 369406,
+        "word": "虞书欣张彬彬反复4遍扑倒吻",
+        "onboard_time": 1663131814,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 318693,
+        "num": 318693,
+        "word": "00后开始整顿学术圈了",
+        "onboard_time": 1663126053,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 330773,
+        "num": 303622,
+        "word": "郭俊辰受伤",
+        "onboard_time": 1663133372,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281347,
+        "num": 281347,
+        "word": "成都中华锦绣罗艳",
+        "onboard_time": 1663139847,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281147,
+        "num": 281147,
+        "word": "杭州台风",
+        "onboard_time": 1663138768,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266648,
+        "num": 266648,
+        "word": "金泰亨VOGUE银十6版封面",
+        "onboard_time": 1663137629,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 248942,
+        "num": 248942,
+        "word": "微信腾讯视频等尚未适配灵动岛",
+        "onboard_time": 1663139006,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 234673,
+        "num": 234673,
+        "word": "羊了个羊急招后端开发",
+        "onboard_time": 1663139368,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 229460,
+        "num": 229460,
+        "word": "卡bug加入羊群",
+        "onboard_time": 1663135290,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 223701,
+        "num": 223701,
+        "word": "男子捕杀狗獾当众剥皮宰杀",
+        "onboard_time": 1663139607,
+        "rank": 27,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 221039,
+        "num": 221039,
+        "word": "山东21岁女孩离世捐器官救7人",
+        "onboard_time": 1663128457,
+        "rank": 28,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 204946,
+        "num": 204946,
+        "word": "1岁罕见病男童扛过移植又遇严重排异",
+        "onboard_time": 1663128697,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240066,
+        "num": 204905,
+        "word": "iPhone14ProMax史上最重iPhone",
+        "onboard_time": 1663122870,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 204453,
+        "num": 204453,
+        "word": "被吓到紧紧抱着主人的猫咪",
+        "onboard_time": 1663138226,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204280,
+        "num": 204280,
+        "word": "台风",
+        "onboard_time": 1663114110,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200245,
+        "num": 200245,
+        "word": "杨幂白衣撑伞氛围感",
+        "onboard_time": 1663129833,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 183273,
+        "num": 183273,
+        "word": "老外算是把中国文化玩明白了",
+        "onboard_time": 1663135950,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176157,
+        "num": 176157,
+        "word": "鬼吹灯团建式cue开工",
+        "onboard_time": 1663140145,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170874,
+        "num": 170874,
+        "word": "山东新增本土确诊10例无症状35例",
+        "onboard_time": 1663136068,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163871,
+        "num": 163871,
+        "word": "为什么初恋总是意难平",
+        "onboard_time": 1663136005,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162887,
+        "num": 162887,
+        "word": "宁波暂停72小时核酸检测要求",
+        "onboard_time": 1663125635,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160742,
+        "num": 160742,
+        "word": "男子半夜趴门缝偷窥夫妻睡觉",
+        "onboard_time": 1663129356,
+        "rank": 39,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 156681,
+        "num": 156681,
+        "word": "杜华带吴宣仪胡春杨录节目",
+        "onboard_time": 1663134328,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151523,
+        "num": 151523,
+        "word": "Sofm结婚",
+        "onboard_time": 1663125214,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141602,
+        "num": 141602,
+        "word": "密室大逃脱",
+        "onboard_time": 1663131814,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130516,
+        "num": 130516,
+        "word": "苹果市值一夜蒸发1500亿美元",
+        "onboard_time": 1663118849,
+        "rank": 43,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 125513,
+        "num": 125513,
+        "word": "交警草丛找到遗失碎骨伤者免截肢",
+        "onboard_time": 1663124730,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125219,
+        "num": 125219,
+        "word": "陈奕迅冷门歌曲你听过多少",
+        "onboard_time": 1663138528,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 111529,
+        "num": 111529,
+        "word": "浮图缘",
+        "onboard_time": 1663120349,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109084,
+        "num": 109084,
+        "word": "2022首个台风红色预警",
+        "onboard_time": 1663126173,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103573,
+        "num": 103573,
+        "word": "52岁大学生报到被查3次录取通知书",
+        "onboard_time": 1663119508,
+        "rank": 48,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 101087,
+        "num": 101087,
+        "word": "苹果承认将增加系统广告",
+        "onboard_time": 1663119328,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国跨度#"
+    }
+  }
+}

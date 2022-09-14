@@ -1,6 +1,6 @@
 {
   "startTime": 1663086802432,
-  "endTime": 1663137141161,
+  "endTime": 1663140991552,
   "band_list": [
     {
       "raw_hot": 9835748,
@@ -17,6 +17,14 @@
       "onboard_time": 1663081481,
       "rank": 0,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 3720086,
+      "num": 567181,
+      "word": "王栎鑫删博后道歉",
+      "onboard_time": 1663140268,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 3350226,
@@ -41,6 +49,14 @@
       "onboard_time": 1663128755,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2118452,
+      "num": 2118452,
+      "word": "家属叫不出产妇全名护士拒给娃",
+      "onboard_time": 1663135589,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2009557,
@@ -81,6 +97,14 @@
       "onboard_time": 1663118011,
       "rank": 3,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1311252,
+      "num": 1311252,
+      "word": "冯远征就任北京人艺第五任院长",
+      "onboard_time": 1663137629,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1303393,
@@ -153,6 +177,14 @@
       "onboard_time": 1663117053,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1062557,
+      "num": 1062557,
+      "word": "敦煌考古编制岗位无人问津",
+      "onboard_time": 1663137687,
+      "rank": 3,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1025639,
@@ -259,6 +291,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 827093,
+      "num": 827093,
+      "word": "妈妈其实把你养得很好",
+      "onboard_time": 1663131574,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 801998,
       "num": 801998,
       "word": "小孩鬼探头被撞倒家长罚其面壁思过",
@@ -283,14 +323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 753151,
-      "num": 753151,
-      "word": "家属叫不出产妇全名护士拒给娃",
-      "onboard_time": 1663135589,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 742365,
       "num": 742365,
       "word": "杨笠脱口秀大会杀疯了",
@@ -299,12 +331,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 721786,
-      "num": 721786,
-      "word": "妈妈其实把你养得很好",
-      "onboard_time": 1663131574,
-      "rank": 45,
-      "category": "情感"
+      "raw_hot": 735301,
+      "num": 735301,
+      "word": "解放军20分钟在长江架起一座桥",
+      "onboard_time": 1663137387,
+      "rank": 5,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 685967,
@@ -377,6 +409,22 @@
       "onboard_time": 1663114951,
       "rank": 13,
       "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 587575,
+      "num": 526268,
+      "word": "赵丽颖刘诗诗Angelababy金九封面",
+      "onboard_time": 1663140629,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 572944,
+      "num": 572944,
+      "word": "雷军卸任小米电子软件公司董事长",
+      "onboard_time": 1663139490,
+      "rank": 9,
+      "category": "科技"
     },
     {
       "raw_hot": 563215,
@@ -465,6 +513,14 @@
       "onboard_time": 1663116452,
       "rank": 22,
       "category": "教育"
+    },
+    {
+      "raw_hot": 407128,
+      "num": 407128,
+      "word": "爱奇艺古装剧存货",
+      "onboard_time": 1663137146,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 406487,
@@ -635,6 +691,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 281347,
+      "num": 281347,
+      "word": "成都中华锦绣罗艳",
+      "onboard_time": 1663139847,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281147,
+      "num": 281147,
+      "word": "杭州台风",
+      "onboard_time": 1663138768,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277468,
       "num": 277468,
       "word": "新川日常上房皆哇版海报",
@@ -659,6 +731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 266648,
+      "num": 266648,
+      "word": "金泰亨VOGUE银十6版封面",
+      "onboard_time": 1663137629,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 255056,
       "num": 255056,
       "word": "初中生刮坏车辆车主惩罚其写试卷",
@@ -673,6 +753,14 @@
       "onboard_time": 1663122089,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248942,
+      "num": 248942,
+      "word": "微信腾讯视频等尚未适配灵动岛",
+      "onboard_time": 1663139006,
+      "rank": 24,
+      "category": "科技"
     },
     {
       "raw_hot": 248227,
@@ -715,12 +803,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234673,
+      "num": 234673,
+      "word": "羊了个羊急招后端开发",
+      "onboard_time": 1663139368,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 233988,
       "num": 233988,
       "word": "电视剧野蛮生长",
       "onboard_time": 1663116692,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 229460,
+      "num": 229460,
+      "word": "卡bug加入羊群",
+      "onboard_time": 1663135290,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 227860,
@@ -755,12 +859,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 223384,
-      "num": 223384,
-      "word": "卡bug加入羊群",
-      "onboard_time": 1663135290,
-      "rank": 28,
-      "category": "游戏"
+      "raw_hot": 223701,
+      "num": 223701,
+      "word": "男子捕杀狗獾当众剥皮宰杀",
+      "onboard_time": 1663139607,
+      "rank": 27,
+      "category": "社会负面"
     },
     {
       "raw_hot": 222771,
@@ -825,6 +929,14 @@
       "onboard_time": 1663079679,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204453,
+      "num": 204453,
+      "word": "被吓到紧紧抱着主人的猫咪",
+      "onboard_time": 1663138226,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 201562,
@@ -921,6 +1033,14 @@
       "onboard_time": 1663136068,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176157,
+      "num": 176157,
+      "word": "鬼吹灯团建式cue开工",
+      "onboard_time": 1663140145,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 172867,
@@ -1073,6 +1193,14 @@
       "onboard_time": 1663069175,
       "rank": 36,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 125219,
+      "num": 125219,
+      "word": "陈奕迅冷门歌曲你听过多少",
+      "onboard_time": 1663138528,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 120018,
