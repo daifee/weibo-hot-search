@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/14 22:29:23
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/14 22:45:48
 </p>
 </blockquote>
 <p>
@@ -867,6 +867,12 @@ JDG夺冠（热度：2394767）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B4%97%E6%BE%A1%E6%97%B6%E8%99%AB%E5%AD%90%E4%BB%8E%E8%8A%B1%E6%B4%92%E8%A0%95%E5%8A%A8%E7%88%AC%E5%87%BA%23" target="weibo">
+女子洗澡时虫子从花洒蠕动爬出（热度：2278076）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BDBBC%E4%B8%BB%E6%92%AD%E7%A9%BF%E5%85%A8%E9%BB%91%E8%A5%BF%E8%A3%85%E5%B8%A6%E9%BB%91%E9%A2%86%E5%B8%A6%23" target="weibo">
 英国BBC主播穿全黑西装带黑领带（热度：2274282）
 </a>
@@ -1215,6 +1221,12 @@ Doinb升级当爸爸（热度：2008327）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8A%E4%BA%86%E4%B8%AA%E7%BE%8A%E7%AC%AC%E4%B8%89%E5%85%B3%23" target="weibo">
+羊了个羊第三关（热度：1899774）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%BC%80%E5%A7%8B%E6%95%B4%E9%A1%BF%E5%AD%A6%E6%9C%AF%E5%9C%88%E4%BA%86%23" target="weibo">
 00后开始整顿学术圈了（热度：1895618）
 </a>
@@ -1551,12 +1563,6 @@ JDG与TES决胜局（热度：1719216）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B4%97%E6%BE%A1%E6%97%B6%E8%99%AB%E5%AD%90%E4%BB%8E%E8%8A%B1%E6%B4%92%E8%A0%95%E5%8A%A8%E7%88%AC%E5%87%BA%23" target="weibo">
-女子洗澡时虫子从花洒蠕动爬出（热度：1703781）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%98%E5%B7%A5%E5%9B%A0%E6%83%B3%E6%8A%A5%E9%94%8050%E5%85%83%E8%AF%9D%E8%B4%B9%E8%A2%AB%E8%BE%9E%E9%80%80%23" target="weibo">
 员工因想报销50元话费被辞退（热度：1697886）
 </a>
@@ -1605,12 +1611,6 @@ iPhone14 Plus（热度：1672968）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8A%E4%BA%86%E4%B8%AA%E7%BE%8A%E7%AC%AC%E4%B8%89%E5%85%B3%23" target="weibo">
-羊了个羊第三关（热度：1672710）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%9B%9E%E5%BA%94%E6%8B%92%E6%94%B6%E7%8E%B0%E9%87%91%23" target="weibo">
 肯德基回应拒收现金（热度：1667551）
 </a>
@@ -1643,6 +1643,12 @@ iPhone14 Plus（热度：1672968）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E6%98%8E%E5%BB%BA%E8%AE%AE%E4%B8%8D%E8%A6%81%E7%BB%99%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BB%BA%E8%AE%AE%23" target="weibo">
 蔡明建议不要给年轻人建议（热度：1652006）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%92%9F%E6%96%87%E6%B3%BD%23" target="weibo">
+钟文泽（热度：1649633）
 </a>
 </li>
 
@@ -2477,12 +2483,6 @@ RNG战胜LNG（热度：1320456）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%B5%E9%98%B3%E5%85%A8%E5%91%98%E6%A0%B8%E9%85%B8%E7%8C%B4%E5%AD%90%E4%B9%9F%E4%B8%8D%E6%8E%89%E9%98%9F%23" target="weibo">
 贵阳全员核酸猴子也不掉队（热度：1317743）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%92%9F%E6%96%87%E6%B3%BD%23" target="weibo">
-钟文泽（热度：1314870）
 </a>
 </li>
 
@@ -5781,6 +5781,12 @@ AirPodsPro2将随iPhone14一起发布（热度：706062）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E7%83%AD%E5%BA%A6%E5%80%BC%E7%A0%B4%E4%B8%87%E7%9A%84%E5%89%A7%E9%9B%86%23" target="weibo">
+爱奇艺热度值破万的剧集（热度：687540）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8D%E5%85%B0%E8%AF%80%E7%95%AA%E5%A4%96%E5%90%BB%E6%88%8F%E6%96%B0%E9%95%9C%E5%A4%B4%23" target="weibo">
 苍兰诀番外吻戏新镜头（热度：687392）
 </a>
@@ -6005,12 +6011,6 @@ jojo更新（热度：672588）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%93%E5%B3%B0%E7%9B%B4%E6%92%AD%23" target="weibo">
 李易峰直播（热度：656191）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%A4%9A%E6%AC%BEiPod%E5%B0%86%E8%BF%87%E6%97%B6%23" target="weibo">
-苹果多款iPod将过时（热度：655495）
 </a>
 </li>
 
