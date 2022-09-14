@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663135754002,
+  "endTime": 1663137141161,
   "band_list": [
     {
       "raw_hot": 9835748,
@@ -1020,7 +1020,7 @@
     },
     {
       "raw_hot": 896332,
-      "num": 706978,
+      "num": 745925,
       "word": "郭俊辰受伤",
       "onboard_time": 1663133372,
       "rank": 10,
@@ -1033,6 +1033,14 @@
       "onboard_time": 1663034613,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 888186,
+      "num": 888186,
+      "word": "钟汉良承包了上海的清晨",
+      "onboard_time": 1663132175,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 886929,
@@ -1179,14 +1187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 780832,
-      "num": 780832,
-      "word": "钟汉良承包了上海的清晨",
-      "onboard_time": 1663132175,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 780651,
       "num": 579544,
       "word": "刘彰livehouse",
@@ -1224,6 +1224,14 @@
       "word": "网传一公司厕所隔间装监控",
       "onboard_time": 1663116211,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 753151,
+      "num": 753151,
+      "word": "家属叫不出产妇全名护士拒给娃",
+      "onboard_time": 1663135589,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1265,6 +1273,14 @@
       "onboard_time": 1662905210,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 721786,
+      "num": 721786,
+      "word": "妈妈其实把你养得很好",
+      "onboard_time": 1663131574,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 720110,
@@ -1395,6 +1411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 654838,
+      "num": 654838,
+      "word": "为什么国内的APP在外国这么火",
+      "onboard_time": 1663134211,
+      "rank": 16,
+      "category": "科技"
+    },
+    {
       "raw_hot": 653834,
       "num": 653834,
       "word": "关注俄乌局势最新进展",
@@ -1433,14 +1457,6 @@
       "onboard_time": 1662988539,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 635631,
-      "num": 635631,
-      "word": "妈妈其实把你养得很好",
-      "onboard_time": 1663131574,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 632676,
@@ -2153,14 +2169,6 @@
       "onboard_time": 1663075053,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 438197,
-      "num": 438197,
-      "word": "为什么国内的APP在外国这么火",
-      "onboard_time": 1663134211,
-      "rank": 16,
-      "category": "科技"
     },
     {
       "raw_hot": 433174,
@@ -3643,6 +3651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227860,
+      "num": 227860,
+      "word": "为什么初恋总是意难平",
+      "onboard_time": 1663136005,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 226270,
       "num": 226270,
       "word": "上班睡着的条件",
@@ -3667,12 +3683,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225376,
+      "num": 225376,
+      "word": "老外算是把中国文化玩明白了",
+      "onboard_time": 1663135950,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 225043,
       "num": 225043,
       "word": "乌哈尔科夫热电站遇袭爆炸",
       "onboard_time": 1663036112,
       "rank": 47,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 223384,
+      "num": 223384,
+      "word": "卡bug加入羊群",
+      "onboard_time": 1663135290,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 222945,
@@ -3865,14 +3897,6 @@
       "onboard_time": 1662895570,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 202494,
-      "num": 202494,
-      "word": "卡bug加入羊群",
-      "onboard_time": 1663135290,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 202481,
@@ -4139,6 +4163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 176888,
+      "num": 207391,
+      "word": "山东新增本土确诊10例无症状35例",
+      "onboard_time": 1663136068,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172867,
       "num": 172867,
       "word": "第一次在鱼脸上看到了表情",
@@ -4320,14 +4352,6 @@
       "word": "泸定地震获救的台北女孩告别时哭了",
       "onboard_time": 1662991001,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151797,
-      "num": 151797,
-      "word": "家属叫不出产妇全名护士拒给娃",
-      "onboard_time": 1663135589,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -4577,6 +4601,14 @@
       "onboard_time": 1662942932,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 110227,
+      "num": 110227,
+      "word": "简言的夏冬",
+      "onboard_time": 1663135829,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 110107,
@@ -4931,20 +4963,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 20412,
+      "num": 527464,
+      "word": "短片凡心微光",
+      "onboard_time": 1663135229,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13813,
       "num": 13813,
       "word": "2022男排世锦赛",
       "onboard_time": 1663018933,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 13674,
-      "num": 527390,
-      "word": "短片凡心微光",
-      "onboard_time": 1663135229,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 11147,
