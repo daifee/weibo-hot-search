@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/14 12:47:27
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/14 13:02:30
 </p>
 </blockquote>
 <p>
@@ -867,6 +867,12 @@ JDG夺冠（热度：2394767）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%96%B0%E5%89%A7%E6%BC%94%E7%8E%8B%E6%A0%8E%E9%91%AB%E5%B9%B2%E7%88%B9%23" target="weibo">
+王鹤棣新剧演王栎鑫干爹（热度：2216084）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E6%B3%A2%E5%81%9C%E8%AF%BE%23" target="weibo">
 宁波停课（热度：2211659）
 </a>
@@ -995,12 +1001,6 @@ EDG让二追三RNG（热度：2082083）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD1400%E4%B8%87%E4%BA%BA%E5%BF%8D%E5%8F%97%E6%9E%81%E7%AB%AF%E9%80%9A%E5%8B%A4%23" target="weibo">
 我国1400万人忍受极端通勤（热度：2075737）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%96%B0%E5%89%A7%E6%BC%94%E7%8E%8B%E6%A0%8E%E9%91%AB%E5%B9%B2%E7%88%B9%23" target="weibo">
-王鹤棣新剧演王栎鑫干爹（热度：2071426）
 </a>
 </li>
 
@@ -4113,6 +4113,12 @@ iPhone14ProMax史上最重iPhone（热度：914474）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%92%8C%E6%9C%8B%E5%8F%8B%E5%96%9D22%E7%93%B6%E9%85%92%E8%B5%B7%E5%B9%BB%E8%A7%89%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1%23" target="weibo">
+男子和朋友喝22瓶酒起幻觉坠楼身亡（热度：913671）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%A0%E5%AD%90%E6%80%A1%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%8A%A0%E7%9B%9F%E9%9A%90%E7%A7%98%E7%9A%84%E9%AB%98%E6%89%8B%23" target="weibo">
 章子怡赵丽颖加盟隐秘的高手（热度：913584）
 </a>
@@ -4367,6 +4373,12 @@ iPhone14系列没涨价（热度：892829）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%A0%E7%89%A9%E5%BA%97%E4%B8%BB%E5%9B%9E%E5%BA%94%E7%A6%BB%E5%BC%80%E5%8D%8A%E6%9C%88%E7%8C%AB%E7%8B%97%E8%A2%AB%E9%A5%BF%E6%AD%BB%23" target="weibo">
 宠物店主回应离开半月猫狗被饿死（热度：869016）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C21%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%A6%BB%E4%B8%96%E6%8D%90%E5%99%A8%E5%AE%98%E6%95%917%E4%BA%BA%23" target="weibo">
+山东21岁女孩离世捐器官救7人（热度：867319）
 </a>
 </li>
 
@@ -4877,6 +4889,12 @@ Ale（热度：793817）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E7%9B%B4%E6%92%AD%23" target="weibo">
 赵露思直播（热度：784099）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%9A%E4%B8%BB%E7%9B%B4%E6%92%AD%E6%BF%80%E6%B4%BB%E8%8B%B9%E6%9E%9CiPhone14%E8%A2%AB%E5%B0%81%E7%A6%81%23" target="weibo">
+博主直播激活苹果iPhone14被封禁（热度：782424）
 </a>
 </li>
 
@@ -5751,12 +5769,6 @@ jojo更新（热度：672588）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C21%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%A6%BB%E4%B8%96%E6%8D%90%E5%99%A8%E5%AE%98%E6%95%917%E4%BA%BA%23" target="weibo">
-山东21岁女孩离世捐器官救7人（热度：656032）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%A4%9A%E6%AC%BEiPod%E5%B0%86%E8%BF%87%E6%97%B6%23" target="weibo">
 苹果多款iPod将过时（热度：655495）
 </a>
@@ -5999,18 +6011,6 @@ Angelababy白西装半马尾造型（热度：641520）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23twice%E7%99%BB%E9%A1%B6%E7%BE%8E%E5%9B%BDbillboard%E8%89%BA%E4%BA%BA%E6%A6%9C%23" target="weibo">
 twice登顶美国billboard艺人榜（热度：627758）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8B%92%E4%BB%98212%E5%85%83%E9%A4%90%E8%B4%B9%E6%B1%82%E6%B0%91%E8%AD%A6%E6%8A%93%E8%87%AA%E5%B7%B1%23" target="weibo">
-男子拒付212元餐费求民警抓自己（热度：627588）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E6%81%B6%E7%8B%97%E5%92%AC%E4%BC%A4%E5%90%8E%E5%BE%92%E6%89%8B%E5%B0%86%E7%8B%97%E6%8E%90%E6%AD%BB%23" target="weibo">
-男子被恶狗咬伤后徒手将狗掐死（热度：627570）
 </a>
 </li>
 

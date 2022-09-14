@@ -1,6 +1,6 @@
 {
   "startTime": 1663086802432,
-  "endTime": 1663130847533,
+  "endTime": 1663131750316,
   "band_list": [
     {
       "raw_hot": 9835748,
@@ -27,8 +27,8 @@
       "category": "影视,社会新闻"
     },
     {
-      "raw_hot": 2071426,
-      "num": 2071426,
+      "raw_hot": 2216084,
+      "num": 2216084,
       "word": "王鹤棣新剧演王栎鑫干爹",
       "onboard_time": 1663128755,
       "rank": 1,
@@ -163,6 +163,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 913671,
+      "num": 913671,
+      "word": "男子和朋友喝22瓶酒起幻觉坠楼身亡",
+      "onboard_time": 1663129896,
+      "rank": 17,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 899329,
       "num": 899329,
       "word": "昆仑神宫明天就定档",
@@ -172,11 +180,19 @@
     },
     {
       "raw_hot": 884792,
-      "num": 653325,
+      "num": 722594,
       "word": "杨幂白衣撑伞氛围感",
       "onboard_time": 1663129833,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 867319,
+      "num": 867319,
+      "word": "山东21岁女孩离世捐器官救7人",
+      "onboard_time": 1663128457,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 853290,
@@ -201,6 +217,14 @@
       "onboard_time": 1663120168,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 782424,
+      "num": 678592,
+      "word": "博主直播激活苹果iPhone14被封禁",
+      "onboard_time": 1663129416,
+      "rank": 19,
+      "category": "科技"
     },
     {
       "raw_hot": 781062,
@@ -241,14 +265,6 @@
       "onboard_time": 1663076194,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 656032,
-      "num": 656032,
-      "word": "山东21岁女孩离世捐器官救7人",
-      "onboard_time": 1663128457,
-      "rank": 9,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 655004,
@@ -331,14 +347,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 483501,
-      "num": 483501,
-      "word": "男子和朋友喝22瓶酒起幻觉坠楼身亡",
-      "onboard_time": 1663129896,
-      "rank": 17,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 478857,
       "num": 478857,
       "word": "A股",
@@ -363,11 +371,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 461948,
-      "num": 461948,
-      "word": "博主直播激活苹果iPhone14被封禁",
-      "onboard_time": 1663129416,
-      "rank": 19,
+      "raw_hot": 466261,
+      "num": 466261,
+      "word": "B站诉争哔哩哔哩商标被驳回",
+      "onboard_time": 1663130975,
+      "rank": 17,
       "category": "科技"
     },
     {
@@ -427,12 +435,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 397412,
+      "num": 397412,
+      "word": "男子因发量不符识破换脸艳照",
+      "onboard_time": 1663130617,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 384096,
       "num": 320666,
       "word": "黄景瑜新剧终于能专心搞事业了",
       "onboard_time": 1663083095,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 341432,
+      "num": 341432,
+      "word": "当年的我真的有这么明显吗",
+      "onboard_time": 1663127311,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 332616,
@@ -459,12 +483,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 323118,
-      "num": 323118,
-      "word": "当年的我真的有这么明显吗",
-      "onboard_time": 1663127311,
-      "rank": 25,
-      "category": "幽默"
+      "raw_hot": 323000,
+      "num": 323000,
+      "word": "羊了个羊 抄袭",
+      "onboard_time": 1663131276,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 319628,
@@ -481,6 +505,14 @@
       "onboard_time": 1663076253,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317750,
+      "num": 317750,
+      "word": "男子半夜趴门缝偷窥夫妻睡觉",
+      "onboard_time": 1663129356,
+      "rank": 29,
+      "category": "社会负面"
     },
     {
       "raw_hot": 313004,
@@ -515,12 +547,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 286898,
-      "num": 286898,
+      "raw_hot": 292668,
+      "num": 321202,
       "word": "2022首个台风红色预警",
       "onboard_time": 1663126173,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281910,
+      "num": 281910,
+      "word": "家委会的权力是不是太大了",
+      "onboard_time": 1663128395,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 281676,
@@ -531,14 +571,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 280766,
-      "num": 280766,
-      "word": "男子半夜趴门缝偷窥夫妻睡觉",
-      "onboard_time": 1663129356,
-      "rank": 29,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 277468,
       "num": 277468,
       "word": "新川日常上房皆哇版海报",
@@ -547,28 +579,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 267881,
-      "num": 267881,
-      "word": "新川日常阵容官宣",
-      "onboard_time": 1663124790,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 265092,
-      "num": 265092,
+      "raw_hot": 273674,
+      "num": 273674,
       "word": "台风",
       "onboard_time": 1663114110,
       "rank": 37,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 261805,
-      "num": 261805,
-      "word": "家委会的权力是不是太大了",
-      "onboard_time": 1663128395,
-      "rank": 34,
-      "category": "教育"
+      "raw_hot": 267881,
+      "num": 267881,
+      "word": "新川日常阵容官宣",
+      "onboard_time": 1663124790,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 255056,
@@ -585,6 +609,14 @@
       "onboard_time": 1663122089,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248227,
+      "num": 248227,
+      "word": "早知道烂在厂里了",
+      "onboard_time": 1663130136,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 246037,
@@ -707,14 +739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 202756,
-      "num": 202756,
-      "word": "早知道烂在厂里了",
-      "onboard_time": 1663130136,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 201562,
       "num": 201562,
       "word": "女方悔婚拒退彩礼男子挂横幅寻人",
@@ -779,12 +803,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 191522,
-      "num": 191522,
-      "word": "男子因发量不符识破换脸艳照",
-      "onboard_time": 1663130617,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 190412,
+      "num": 524690,
+      "word": "原神 得物",
+      "onboard_time": 1663131634,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 183842,
@@ -803,6 +827,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 182616,
+      "num": 182616,
+      "word": "妈妈其实把你养得很好",
+      "onboard_time": 1663131574,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 172867,
       "num": 172867,
       "word": "第一次在鱼脸上看到了表情",
@@ -817,6 +849,14 @@
       "onboard_time": 1663077455,
       "rank": 34,
       "category": "科技"
+    },
+    {
+      "raw_hot": 169162,
+      "num": 169162,
+      "word": "曾舜晞是我的恋综嘴替吧",
+      "onboard_time": 1663131697,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 166632,
