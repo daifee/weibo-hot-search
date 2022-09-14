@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663140991552,
+  "endTime": 1663141766336,
   "band_list": [
     {
       "raw_hot": 9835748,
@@ -83,7 +83,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3720086,
+      "raw_hot": 3802024,
       "num": 567181,
       "word": "王栎鑫删博后道歉",
       "onboard_time": 1663140268,
@@ -747,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1181425,
+      "num": 1181425,
+      "word": "敦煌考古编制岗位无人问津",
+      "onboard_time": 1663137687,
+      "rank": 3,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1167072,
       "num": 1167072,
       "word": "男子因发量不符识破换脸艳照",
@@ -873,14 +881,6 @@
       "onboard_time": 1662943954,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1062557,
-      "num": 1062557,
-      "word": "敦煌考古编制岗位无人问津",
-      "onboard_time": 1663137687,
-      "rank": 3,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1048579,
@@ -1107,6 +1107,22 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 857925,
+      "num": 526268,
+      "word": "赵丽颖刘诗诗Angelababy金九封面",
+      "onboard_time": 1663140629,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 855539,
+      "num": 855539,
+      "word": "网传错撩主演确定白鹿王鹤棣",
+      "onboard_time": 1663141468,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 853290,
       "num": 607778,
       "word": "谈恋爱的唯一目的 就是吃苦",
@@ -1161,6 +1177,14 @@
       "onboard_time": 1663062937,
       "rank": 11,
       "category": "其它"
+    },
+    {
+      "raw_hot": 821115,
+      "num": 821115,
+      "word": "雷军卸任小米电子软件公司董事长",
+      "onboard_time": 1663139490,
+      "rank": 9,
+      "category": "科技"
     },
     {
       "raw_hot": 812485,
@@ -1243,6 +1267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 779467,
+      "num": 779467,
+      "word": "解放军20分钟在长江架起一座桥",
+      "onboard_time": 1663137387,
+      "rank": 5,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 769269,
       "num": 526744,
       "word": "王嘉尔印度滚石9月刊封面",
@@ -1289,14 +1321,6 @@
       "onboard_time": 1663050695,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 735301,
-      "num": 735301,
-      "word": "解放军20分钟在长江架起一座桥",
-      "onboard_time": 1663137387,
-      "rank": 5,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 722846,
@@ -1595,14 +1619,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 587575,
-      "num": 526268,
-      "word": "赵丽颖刘诗诗Angelababy金九封面",
-      "onboard_time": 1663140629,
-      "rank": 12,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 582150,
       "num": 582150,
       "word": "吴磊爱情而已路透",
@@ -1633,14 +1649,6 @@
       "onboard_time": 1663069593,
       "rank": 13,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 572944,
-      "num": 572944,
-      "word": "雷军卸任小米电子软件公司董事长",
-      "onboard_time": 1663139490,
-      "rank": 9,
-      "category": "科技"
     },
     {
       "raw_hot": 570507,
@@ -2331,8 +2339,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 407128,
-      "num": 407128,
+      "raw_hot": 408206,
+      "num": 408206,
       "word": "爱奇艺古装剧存货",
       "onboard_time": 1663137146,
       "rank": 16,
@@ -2521,6 +2529,14 @@
       "onboard_time": 1662973958,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 373449,
+      "num": 373449,
+      "word": "成都中华锦绣罗艳",
+      "onboard_time": 1663139847,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 372009,
@@ -2835,6 +2851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325793,
+      "num": 325793,
+      "word": "羊了个羊急招后端开发",
+      "onboard_time": 1663139368,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 325264,
       "num": 325264,
       "word": "库尔勒全市临时静态管理7天",
@@ -2913,6 +2937,14 @@
       "onboard_time": 1662961474,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 313887,
+      "num": 313887,
+      "word": "微信腾讯视频等尚未适配灵动岛",
+      "onboard_time": 1663139006,
+      "rank": 24,
+      "category": "科技"
     },
     {
       "raw_hot": 313459,
@@ -3043,12 +3075,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299850,
+      "num": 299850,
+      "word": "杭州台风",
+      "onboard_time": 1663138768,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 299808,
       "num": 299808,
       "word": "北京新增16例本土感染者均为隔离观察人员",
       "onboard_time": 1663060055,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299539,
+      "num": 299539,
+      "word": "男子捕杀狗獾当众剥皮宰杀",
+      "onboard_time": 1663139607,
+      "rank": 27,
+      "category": "社会负面"
     },
     {
       "raw_hot": 299228,
@@ -3201,22 +3249,6 @@
       "onboard_time": 1663129295,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 281347,
-      "num": 281347,
-      "word": "成都中华锦绣罗艳",
-      "onboard_time": 1663139847,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 281147,
-      "num": 281147,
-      "word": "杭州台风",
-      "onboard_time": 1663138768,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 280532,
@@ -3499,14 +3531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 248942,
-      "num": 248942,
-      "word": "微信腾讯视频等尚未适配灵动岛",
-      "onboard_time": 1663139006,
-      "rank": 24,
-      "category": "科技"
-    },
-    {
       "raw_hot": 248227,
       "num": 248227,
       "word": "早知道烂在厂里了",
@@ -3651,14 +3675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 234673,
-      "num": 234673,
-      "word": "羊了个羊急招后端开发",
-      "onboard_time": 1663139368,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 233988,
       "num": 233988,
       "word": "电视剧野蛮生长",
@@ -3779,6 +3795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225747,
+      "num": 225747,
+      "word": "男子打拼10年养鸡2000万只",
+      "onboard_time": 1663141531,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225556,
       "num": 225556,
       "word": "杨超越喜欢看直播卖爸爸衫",
@@ -3801,14 +3825,6 @@
       "onboard_time": 1663036112,
       "rank": 47,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 223701,
-      "num": 223701,
-      "word": "男子捕杀狗獾当众剥皮宰杀",
-      "onboard_time": 1663139607,
-      "rank": 27,
-      "category": "社会负面"
     },
     {
       "raw_hot": 222945,
@@ -3889,6 +3905,14 @@
       "onboard_time": 1663066234,
       "rank": 32,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 214549,
+      "num": 214549,
+      "word": "被吓到紧紧抱着主人的猫咪",
+      "onboard_time": 1663138226,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 214300,
@@ -3993,14 +4017,6 @@
       "onboard_time": 1663047879,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 204453,
-      "num": 204453,
-      "word": "被吓到紧紧抱着主人的猫咪",
-      "onboard_time": 1663138226,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 203135,
@@ -4563,6 +4579,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 139175,
+      "num": 139175,
+      "word": "陈奕迅冷门歌曲你听过多少",
+      "onboard_time": 1663138528,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 135393,
       "num": 135393,
       "word": "保定疫情防控",
@@ -4603,6 +4627,22 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 132002,
+      "num": 132002,
+      "word": "开美甲店的阿姨接待儿子朋友",
+      "onboard_time": 1663141650,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 130431,
+      "num": 130431,
+      "word": "流浪猫帮我找回了原住民",
+      "onboard_time": 1663141531,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130215,
       "num": 130215,
       "word": "不顾女儿劝阻他冲去帮货车灭火",
@@ -4627,20 +4667,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 125219,
-      "num": 125219,
-      "word": "陈奕迅冷门歌曲你听过多少",
-      "onboard_time": 1663138528,
-      "rank": 45,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 124982,
       "num": 124982,
       "word": "9月14日台州全市停课1天",
       "onboard_time": 1663054652,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121625,
+      "num": 121625,
+      "word": "72岁奶奶跳湖救回轻生女孩",
+      "onboard_time": 1663141050,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 120178,

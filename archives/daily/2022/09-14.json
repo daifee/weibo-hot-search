@@ -1,6 +1,6 @@
 {
   "startTime": 1663086802432,
-  "endTime": 1663140991552,
+  "endTime": 1663141766336,
   "band_list": [
     {
       "raw_hot": 9835748,
@@ -19,7 +19,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 3720086,
+      "raw_hot": 3802024,
       "num": 567181,
       "word": "王栎鑫删博后道歉",
       "onboard_time": 1663140268,
@@ -131,6 +131,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1181425,
+      "num": 1181425,
+      "word": "敦煌考古编制岗位无人问津",
+      "onboard_time": 1663137687,
+      "rank": 3,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1167072,
       "num": 1167072,
       "word": "男子因发量不符识破换脸艳照",
@@ -177,14 +185,6 @@
       "onboard_time": 1663117053,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1062557,
-      "num": 1062557,
-      "word": "敦煌考古编制岗位无人问津",
-      "onboard_time": 1663137687,
-      "rank": 3,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1025639,
@@ -275,6 +275,22 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 857925,
+      "num": 526268,
+      "word": "赵丽颖刘诗诗Angelababy金九封面",
+      "onboard_time": 1663140629,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 855539,
+      "num": 855539,
+      "word": "网传错撩主演确定白鹿王鹤棣",
+      "onboard_time": 1663141468,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 853290,
       "num": 607778,
       "word": "谈恋爱的唯一目的 就是吃苦",
@@ -299,6 +315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 821115,
+      "num": 821115,
+      "word": "雷军卸任小米电子软件公司董事长",
+      "onboard_time": 1663139490,
+      "rank": 9,
+      "category": "科技"
+    },
+    {
       "raw_hot": 801998,
       "num": 801998,
       "word": "小孩鬼探头被撞倒家长罚其面壁思过",
@@ -315,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 779467,
+      "num": 779467,
+      "word": "解放军20分钟在长江架起一座桥",
+      "onboard_time": 1663137387,
+      "rank": 5,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 756055,
       "num": 756055,
       "word": "网传一公司厕所隔间装监控",
@@ -329,14 +361,6 @@
       "onboard_time": 1663109777,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 735301,
-      "num": 735301,
-      "word": "解放军20分钟在长江架起一座桥",
-      "onboard_time": 1663137387,
-      "rank": 5,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 685967,
@@ -409,22 +433,6 @@
       "onboard_time": 1663114951,
       "rank": 13,
       "category": "幽默,教育"
-    },
-    {
-      "raw_hot": 587575,
-      "num": 526268,
-      "word": "赵丽颖刘诗诗Angelababy金九封面",
-      "onboard_time": 1663140629,
-      "rank": 12,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 572944,
-      "num": 572944,
-      "word": "雷军卸任小米电子软件公司董事长",
-      "onboard_time": 1663139490,
-      "rank": 9,
-      "category": "科技"
     },
     {
       "raw_hot": 563215,
@@ -515,8 +523,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 407128,
-      "num": 407128,
+      "raw_hot": 408206,
+      "num": 408206,
       "word": "爱奇艺古装剧存货",
       "onboard_time": 1663137146,
       "rank": 16,
@@ -563,6 +571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 373449,
+      "num": 373449,
+      "word": "成都中华锦绣罗艳",
+      "onboard_time": 1663139847,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 353998,
       "num": 353998,
       "word": "杜华带吴宣仪胡春杨录节目",
@@ -603,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325793,
+      "num": 325793,
+      "word": "羊了个羊急招后端开发",
+      "onboard_time": 1663139368,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 319628,
       "num": 319628,
       "word": "绵阳疫情防控",
@@ -627,6 +651,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 313887,
+      "num": 313887,
+      "word": "微信腾讯视频等尚未适配灵动岛",
+      "onboard_time": 1663139006,
+      "rank": 24,
+      "category": "科技"
+    },
+    {
       "raw_hot": 313004,
       "num": 313004,
       "word": "贵阳新增118例无症状感染者主要活动轨迹",
@@ -649,6 +681,22 @@
       "onboard_time": 1663107855,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299850,
+      "num": 299850,
+      "word": "杭州台风",
+      "onboard_time": 1663138768,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299539,
+      "num": 299539,
+      "word": "男子捕杀狗獾当众剥皮宰杀",
+      "onboard_time": 1663139607,
+      "rank": 27,
+      "category": "社会负面"
     },
     {
       "raw_hot": 296418,
@@ -689,22 +737,6 @@
       "onboard_time": 1663129295,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 281347,
-      "num": 281347,
-      "word": "成都中华锦绣罗艳",
-      "onboard_time": 1663139847,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 281147,
-      "num": 281147,
-      "word": "杭州台风",
-      "onboard_time": 1663138768,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 277468,
@@ -755,14 +787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 248942,
-      "num": 248942,
-      "word": "微信腾讯视频等尚未适配灵动岛",
-      "onboard_time": 1663139006,
-      "rank": 24,
-      "category": "科技"
-    },
-    {
       "raw_hot": 248227,
       "num": 248227,
       "word": "早知道烂在厂里了",
@@ -803,14 +827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 234673,
-      "num": 234673,
-      "word": "羊了个羊急招后端开发",
-      "onboard_time": 1663139368,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 233988,
       "num": 233988,
       "word": "电视剧野蛮生长",
@@ -843,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225747,
+      "num": 225747,
+      "word": "男子打拼10年养鸡2000万只",
+      "onboard_time": 1663141531,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225556,
       "num": 225556,
       "word": "杨超越喜欢看直播卖爸爸衫",
@@ -857,14 +881,6 @@
       "onboard_time": 1663135950,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 223701,
-      "num": 223701,
-      "word": "男子捕杀狗獾当众剥皮宰杀",
-      "onboard_time": 1663139607,
-      "rank": 27,
-      "category": "社会负面"
     },
     {
       "raw_hot": 222771,
@@ -899,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214549,
+      "num": 214549,
+      "word": "被吓到紧紧抱着主人的猫咪",
+      "onboard_time": 1663138226,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 212721,
       "num": 197158,
       "word": "BLACKPINK新歌ShutDown预告",
@@ -929,14 +953,6 @@
       "onboard_time": 1663079679,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 204453,
-      "num": 204453,
-      "word": "被吓到紧紧抱着主人的猫咪",
-      "onboard_time": 1663138226,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 201562,
@@ -1171,6 +1187,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 139175,
+      "num": 139175,
+      "word": "陈奕迅冷门歌曲你听过多少",
+      "onboard_time": 1663138528,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 134926,
       "num": 134926,
       "word": "直击台风梅花影响上海",
@@ -1187,6 +1211,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132002,
+      "num": 132002,
+      "word": "开美甲店的阿姨接待儿子朋友",
+      "onboard_time": 1663141650,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 130431,
+      "num": 130431,
+      "word": "流浪猫帮我找回了原住民",
+      "onboard_time": 1663141531,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126020,
       "num": 126020,
       "word": "碰到一只社恐小狗",
@@ -1195,12 +1235,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 125219,
-      "num": 125219,
-      "word": "陈奕迅冷门歌曲你听过多少",
-      "onboard_time": 1663138528,
-      "rank": 45,
-      "category": "音乐"
+      "raw_hot": 121625,
+      "num": 121625,
+      "word": "72岁奶奶跳湖救回轻生女孩",
+      "onboard_time": 1663141050,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 120018,

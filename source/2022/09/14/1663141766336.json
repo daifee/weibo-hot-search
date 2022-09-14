@@ -1,0 +1,410 @@
+{
+  "runTime": 1663141766336,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1909716,
+        "num": 1909716,
+        "word": "家属叫不出产妇全名护士拒给娃",
+        "onboard_time": 1663135589,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1181425,
+        "num": 1181425,
+        "word": "敦煌考古编制岗位无人问津",
+        "onboard_time": 1663137687,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 14369,
+        "num": 961429,
+        "word": "消防员车上挂满泸定人送的哈达",
+        "onboard_time": 1663076555,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 855539,
+        "num": 855539,
+        "word": "网传错撩主演确定白鹿王鹤棣",
+        "onboard_time": 1663141468,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 821115,
+        "num": 821115,
+        "word": "雷军卸任小米电子软件公司董事长",
+        "onboard_time": 1663139490,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 813727,
+        "num": 813727,
+        "word": "妈妈其实把你养得很好",
+        "onboard_time": 1663131574,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1308271,
+        "num": 808162,
+        "word": "冯远征就任北京人艺第五任院长",
+        "onboard_time": 1663137629,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 779467,
+        "num": 779467,
+        "word": "解放军20分钟在长江架起一座桥",
+        "onboard_time": 1663137387,
+        "rank": 7,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 581913,
+        "num": 581913,
+        "word": "男子因发量不符识破换脸艳照",
+        "onboard_time": 1663130617,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425218,
+        "num": 425218,
+        "word": "B站诉争哔哩哔哩商标被驳回",
+        "onboard_time": 1663130975,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 3802024,
+        "num": 423291,
+        "word": "王栎鑫删博后道歉",
+        "onboard_time": 1663140268,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 2160409,
+        "num": 419367,
+        "word": "羊了个羊 抄袭",
+        "onboard_time": 1663131276,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1161823,
+        "num": 415021,
+        "word": "羊了个羊",
+        "onboard_time": 1663116150,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 857925,
+        "num": 413001,
+        "word": "赵丽颖刘诗诗Angelababy金九封面",
+        "onboard_time": 1663140629,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 624425,
+        "num": 409956,
+        "word": "博主直播激活苹果iPhone14被封禁",
+        "onboard_time": 1663129416,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 408206,
+        "num": 408206,
+        "word": "爱奇艺古装剧存货",
+        "onboard_time": 1663137146,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 398605,
+        "num": 398605,
+        "word": "男子和朋友喝22瓶酒起幻觉坠楼身亡",
+        "onboard_time": 1663129896,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 387831,
+        "num": 387831,
+        "word": "钟汉良承包了上海的清晨",
+        "onboard_time": 1663132175,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373449,
+        "num": 373449,
+        "word": "成都中华锦绣罗艳",
+        "onboard_time": 1663139847,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348126,
+        "num": 348126,
+        "word": "为什么国内的APP在外国这么火",
+        "onboard_time": 1663134211,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 333299,
+        "num": 333299,
+        "word": "虞书欣张彬彬反复4遍扑倒吻",
+        "onboard_time": 1663131814,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 332270,
+        "num": 332270,
+        "word": "00后开始整顿学术圈了",
+        "onboard_time": 1663126053,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 325793,
+        "num": 325793,
+        "word": "羊了个羊急招后端开发",
+        "onboard_time": 1663139368,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 313887,
+        "num": 313887,
+        "word": "微信腾讯视频等尚未适配灵动岛",
+        "onboard_time": 1663139006,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 299850,
+        "num": 299850,
+        "word": "杭州台风",
+        "onboard_time": 1663138768,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299539,
+        "num": 299539,
+        "word": "男子捕杀狗獾当众剥皮宰杀",
+        "onboard_time": 1663139607,
+        "rank": 25,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 256470,
+        "num": 256470,
+        "word": "郭俊辰受伤",
+        "onboard_time": 1663133372,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246119,
+        "num": 246119,
+        "word": "金泰亨VOGUE银十6版封面",
+        "onboard_time": 1663137629,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 225747,
+        "num": 225747,
+        "word": "男子打拼10年养鸡2000万只",
+        "onboard_time": 1663141531,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217434,
+        "num": 217434,
+        "word": "山东21岁女孩离世捐器官救7人",
+        "onboard_time": 1663128457,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 226095,
+        "num": 216401,
+        "word": "iPhone14ProMax史上最重iPhone",
+        "onboard_time": 1663122870,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 214549,
+        "num": 214549,
+        "word": "被吓到紧紧抱着主人的猫咪",
+        "onboard_time": 1663138226,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204019,
+        "num": 204019,
+        "word": "卡bug加入羊群",
+        "onboard_time": 1663135290,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188360,
+        "num": 188360,
+        "word": "台风",
+        "onboard_time": 1663114110,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186267,
+        "num": 186267,
+        "word": "1岁罕见病男童扛过移植又遇严重排异",
+        "onboard_time": 1663128697,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185930,
+        "num": 185930,
+        "word": "杨幂白衣撑伞氛围感",
+        "onboard_time": 1663129833,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167837,
+        "num": 167837,
+        "word": "宁波暂停72小时核酸检测要求",
+        "onboard_time": 1663125635,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167425,
+        "num": 167425,
+        "word": "山东新增本土确诊10例无症状35例",
+        "onboard_time": 1663136068,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152145,
+        "num": 152145,
+        "word": "老外算是把中国文化玩明白了",
+        "onboard_time": 1663135950,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150962,
+        "num": 150962,
+        "word": "为什么初恋总是意难平",
+        "onboard_time": 1663136005,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145799,
+        "num": 145799,
+        "word": "Sofm结婚",
+        "onboard_time": 1663125214,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141226,
+        "num": 141226,
+        "word": "男子半夜趴门缝偷窥夫妻睡觉",
+        "onboard_time": 1663129356,
+        "rank": 41,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 141031,
+        "num": 141031,
+        "word": "鬼吹灯团建式cue开工",
+        "onboard_time": 1663140145,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139175,
+        "num": 139175,
+        "word": "陈奕迅冷门歌曲你听过多少",
+        "onboard_time": 1663138528,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138218,
+        "num": 138218,
+        "word": "密室大逃脱",
+        "onboard_time": 1663131814,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132002,
+        "num": 132002,
+        "word": "开美甲店的阿姨接待儿子朋友",
+        "onboard_time": 1663141650,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130431,
+        "num": 130431,
+        "word": "流浪猫帮我找回了原住民",
+        "onboard_time": 1663141531,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128094,
+        "num": 128094,
+        "word": "杜华带吴宣仪胡春杨录节目",
+        "onboard_time": 1663134328,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121720,
+        "num": 121720,
+        "word": "苹果市值一夜蒸发1500亿美元",
+        "onboard_time": 1663118849,
+        "rank": 48,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 121625,
+        "num": 121625,
+        "word": "72岁奶奶跳湖救回轻生女孩",
+        "onboard_time": 1663141050,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席的国礼故事#"
+    }
+  }
+}
