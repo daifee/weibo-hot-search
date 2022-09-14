@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663152253029,
+  "endTime": 1663154453019,
   "band_list": [
     {
       "raw_hot": 9835748,
@@ -795,6 +795,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1171073,
+      "num": 1171073,
+      "word": "羊了个羊第三关",
+      "onboard_time": 1663149808,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1167072,
       "num": 1167072,
       "word": "男子因发量不符识破换脸艳照",
@@ -1195,12 +1203,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 855437,
+      "num": 847864,
+      "word": "北京已有6名感染者到过民航总医院",
+      "onboard_time": 1663150830,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 853290,
       "num": 607778,
       "word": "谈恋爱的唯一目的 就是吃苦",
       "onboard_time": 1663081122,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 849813,
+      "num": 849813,
+      "word": "女子称保姆掌掴1岁宝宝强喂辣椒",
+      "onboard_time": 1663149268,
+      "rank": 18,
+      "category": "社会负面"
     },
     {
       "raw_hot": 849503,
@@ -1435,6 +1459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 695155,
+      "num": 695155,
+      "word": "研究称一口酒足以永久改变大脑",
+      "onboard_time": 1663148066,
+      "rank": 37,
+      "category": "其它"
+    },
+    {
       "raw_hot": 694416,
       "num": 583291,
       "word": "闫永强退出水果星球乐团",
@@ -1457,14 +1489,6 @@
       "onboard_time": 1662960876,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 685113,
-      "num": 685113,
-      "word": "研究称一口酒足以永久改变大脑",
-      "onboard_time": 1663148066,
-      "rank": 37,
-      "category": "其它"
     },
     {
       "raw_hot": 679476,
@@ -1651,14 +1675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 605367,
-      "num": 605367,
-      "word": "羊了个羊第三关",
-      "onboard_time": 1663149808,
-      "rank": 21,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 605027,
       "num": 605027,
       "word": "司仪婚礼上被狗追啃脚坚持主持",
@@ -1779,14 +1795,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 556268,
-      "num": 544891,
-      "word": "北京已有6名感染者到过民航总医院",
-      "onboard_time": 1663150830,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 555146,
       "num": 555146,
       "word": "入职后发现公司太混乱怎么办",
@@ -1809,14 +1817,6 @@
       "onboard_time": 1662991483,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 546960,
-      "num": 546960,
-      "word": "女子称保姆掌掴1岁宝宝强喂辣椒",
-      "onboard_time": 1663149268,
-      "rank": 18,
-      "category": "社会负面"
     },
     {
       "raw_hot": 545353,
@@ -2379,6 +2379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 439195,
+      "num": 439195,
+      "word": "EDG发布处罚公告",
+      "onboard_time": 1663150648,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 433174,
       "num": 433174,
       "word": "iPhone14系列官方维修价",
@@ -2761,14 +2769,6 @@
       "onboard_time": 1663071452,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 362233,
-      "num": 362233,
-      "word": "EDG发布处罚公告",
-      "onboard_time": 1663150648,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 361955,
@@ -3332,7 +3332,7 @@
     },
     {
       "raw_hot": 293599,
-      "num": 268746,
+      "num": 283823,
       "word": "心动的信号",
       "onboard_time": 1663074153,
       "rank": 30,
@@ -3651,12 +3651,28 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 266662,
+      "num": 266662,
+      "word": "女生在感情里要学会断舍离",
+      "onboard_time": 1663152450,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 266648,
       "num": 266648,
       "word": "金泰亨VOGUE银十6版封面",
       "onboard_time": 1663137629,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 266013,
+      "num": 266013,
+      "word": "台风梅花",
+      "onboard_time": 1663154131,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 265947,
@@ -3681,6 +3697,14 @@
       "onboard_time": 1662994426,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 263713,
+      "num": 263713,
+      "word": "羊了个羊真的很烦人",
+      "onboard_time": 1663153890,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 263700,
@@ -3857,6 +3881,14 @@
       "onboard_time": 1663058015,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 243729,
+      "num": 243729,
+      "word": "新版研究生教育学科专业目录发布",
+      "onboard_time": 1663149208,
+      "rank": 37,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 243338,
@@ -4051,6 +4083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229719,
+      "num": 229719,
+      "word": "羊了个羊为何突然爆火",
+      "onboard_time": 1663154131,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 229460,
       "num": 229460,
       "word": "卡bug加入羊群",
@@ -4080,6 +4120,14 @@
       "word": "东兴疫情防控",
       "onboard_time": 1662978458,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228399,
+      "num": 228399,
+      "word": "官方回应男子捐书被慈善机构卖出",
+      "onboard_time": 1663151909,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -4257,14 +4305,6 @@
       "onboard_time": 1663112546,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 211639,
-      "num": 211639,
-      "word": "新版研究生教育学科专业目录发布",
-      "onboard_time": 1663149208,
-      "rank": 37,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 211241,
@@ -4907,6 +4947,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142972,
+      "num": 142972,
+      "word": "如龙8正式公布",
+      "onboard_time": 1663154131,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 140993,
+      "num": 140993,
+      "word": "黄景瑜说我就是赵五儿",
+      "onboard_time": 1663153588,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 140864,
       "num": 140864,
       "word": "增强体质可缓解过敏性疾病",
@@ -4999,14 +5055,6 @@
       "num": 130104,
       "word": "北京地铁全线车站闸机无法查验健康码",
       "onboard_time": 1663034732,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 128164,
-      "num": 128164,
-      "word": "官方回应男子捐书被慈善机构卖出",
-      "onboard_time": 1663151909,
       "rank": 48,
       "category": "社会新闻"
     },

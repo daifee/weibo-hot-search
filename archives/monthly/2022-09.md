@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/14 18:44:13
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/14 19:20:53
 </p>
 </blockquote>
 <p>
@@ -2871,6 +2871,12 @@ iPhone14已产逾3400万部（热度：1174969）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8A%E4%BA%86%E4%B8%AA%E7%BE%8A%E7%AC%AC%E4%B8%89%E5%85%B3%23" target="weibo">
+羊了个羊第三关（热度：1171073）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%AF%B9%E8%8B%B1%E5%A5%B3%E7%8E%8B%E5%8E%BB%E4%B8%96%E8%A1%A8%E7%A4%BA%E5%93%80%E6%82%BC%23" target="weibo">
 普京对英女王去世表示哀悼（热度：1169338）
 </a>
@@ -4587,6 +4593,12 @@ iPhone14系列没涨价（热度：892829）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%B7%B2%E6%9C%896%E5%90%8D%E6%84%9F%E6%9F%93%E8%80%85%E5%88%B0%E8%BF%87%E6%B0%91%E8%88%AA%E6%80%BB%E5%8C%BB%E9%99%A2%23" target="weibo">
+北京已有6名感染者到过民航总医院（热度：855437）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%99%E5%89%91%E5%A5%87%E4%BE%A0%E4%BC%A0%E9%87%8C%E7%9A%84%E4%BB%99%E6%8C%87%E7%9A%84%E6%98%AF%E8%B5%B5%E7%81%B5%E5%84%BF%23" target="weibo">
 仙剑奇侠传里的仙指的是赵灵儿（热度：855082）
 </a>
@@ -4613,6 +4625,12 @@ iPhone14系列没涨价（热度：892829）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E8%A6%81%E6%B1%82%E7%BE%8E%E6%96%B9%E7%AB%8B%E5%8D%B3%E5%81%9C%E6%AD%A2%E4%B8%8D%E6%B3%95%E8%A1%8C%E4%B8%BA%23" target="weibo">
 中方要求美方立即停止不法行为（热度：851041）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E4%BF%9D%E5%A7%86%E6%8E%8C%E6%8E%B41%E5%B2%81%E5%AE%9D%E5%AE%9D%E5%BC%BA%E5%96%82%E8%BE%A3%E6%A4%92%23" target="weibo">
+女子称保姆掌掴1岁宝宝强喂辣椒（热度：849813）
 </a>
 </li>
 
@@ -5619,6 +5637,12 @@ AirPodsPro2将随iPhone14一起发布（热度：706062）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%A7%B0%E4%B8%80%E5%8F%A3%E9%85%92%E8%B6%B3%E4%BB%A5%E6%B0%B8%E4%B9%85%E6%94%B9%E5%8F%98%E5%A4%A7%E8%84%91%23" target="weibo">
+研究称一口酒足以永久改变大脑（热度：695155）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E6%A0%A1536%E5%90%8D%E5%AD%A6%E7%94%9F%E8%A7%86%E5%8A%9B%E5%85%A8%E9%83%A85.0%E6%88%96%E4%BB%A5%E4%B8%8A%23" target="weibo">
 全校536名学生视力全部5.0或以上（热度：694608）
 </a>
@@ -5699,12 +5723,6 @@ AirPodsPro2将随iPhone14一起发布（热度：706062）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%B0%BC%E9%BE%99%E8%87%AA%E6%88%90%E4%B8%80%E6%A0%BC%E5%A4%A7%E7%89%87%23" target="weibo">
 王鹤棣尼龙自成一格大片（热度：685270）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%A7%B0%E4%B8%80%E5%8F%A3%E9%85%92%E8%B6%B3%E4%BB%A5%E6%B0%B8%E4%B9%85%E6%94%B9%E5%8F%98%E5%A4%A7%E8%84%91%23" target="weibo">
-研究称一口酒足以永久改变大脑（热度：685113）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ fX组合出道十三周年（热度：648354）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%94%B1%E5%87%BA%E4%B8%96%E9%97%B4%E7%8F%8D%E8%B4%B5%E7%88%B1%E6%84%8F%23" target="weibo">
 虞书欣唱出世间珍贵爱意（热度：645541）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8C%AB%E7%8C%AB%E7%BB%99%E8%87%AA%E5%B7%B1%E6%9F%93%E4%BA%86%E4%B8%AA%E9%A2%9C%E8%89%B2%23" target="weibo">
-猫猫给自己染了个颜色（热度：645171）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%85%B0%E8%8A%B1%E7%9A%84%E8%A1%A3%E6%9C%8D%E7%A0%B4%E4%BA%86%23" target="weibo">
-小兰花的衣服破了（热度：645157）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%80%A9%E6%96%B0%E5%89%A7%E4%BA%BA%E8%AE%BE%23" target="weibo">
-吴倩新剧人设（热度：644539）
 </a>
 </li>
 

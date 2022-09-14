@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/14 00:33:22 ~ 2022/09/14 18:44:13
+本榜单时间：2022/09/14 00:33:22 ~ 2022/09/14 19:20:53
 </p>
 </blockquote>
 <p>
@@ -147,6 +147,12 @@ iPhone15或使用台积电3nm芯片（热度：1295662）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8A%E4%BA%86%E4%B8%AA%E7%BE%8A%E7%AC%AC%E4%B8%89%E5%85%B3%23" target="weibo">
+羊了个羊第三关（热度：1171073）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9B%A0%E5%8F%91%E9%87%8F%E4%B8%8D%E7%AC%A6%E8%AF%86%E7%A0%B4%E6%8D%A2%E8%84%B8%E8%89%B3%E7%85%A7%23" target="weibo">
 男子因发量不符识破换脸艳照（热度：1167072）
 </a>
@@ -285,8 +291,20 @@ iPhone14ProMax史上最重iPhone（热度：914474）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%B7%B2%E6%9C%896%E5%90%8D%E6%84%9F%E6%9F%93%E8%80%85%E5%88%B0%E8%BF%87%E6%B0%91%E8%88%AA%E6%80%BB%E5%8C%BB%E9%99%A2%23" target="weibo">
+北京已有6名感染者到过民航总医院（热度：855437）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%88%E6%81%8B%E7%88%B1%E7%9A%84%E5%94%AF%E4%B8%80%E7%9B%AE%E7%9A%84%20%E5%B0%B1%E6%98%AF%E5%90%83%E8%8B%A6%23" target="weibo">
 谈恋爱的唯一目的 就是吃苦（热度：853290）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E4%BF%9D%E5%A7%86%E6%8E%8C%E6%8E%B41%E5%B2%81%E5%AE%9D%E5%AE%9D%E5%BC%BA%E5%96%82%E8%BE%A3%E6%A4%92%23" target="weibo">
+女子称保姆掌掴1岁宝宝强喂辣椒（热度：849813）
 </a>
 </li>
 
@@ -333,14 +351,14 @@ iPhone14ProMax史上最重iPhone（热度：914474）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8F%90%E5%89%8D%E6%BF%80%E6%B4%BBiPhone14%E6%AF%8F%E5%8F%B0%E7%BD%9A%E6%AC%BE20%E4%B8%87%23" target="weibo">
-提前激活iPhone14每台罚款20万（热度：685967）
+<a href="https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%A7%B0%E4%B8%80%E5%8F%A3%E9%85%92%E8%B6%B3%E4%BB%A5%E6%B0%B8%E4%B9%85%E6%94%B9%E5%8F%98%E5%A4%A7%E8%84%91%23" target="weibo">
+研究称一口酒足以永久改变大脑（热度：695155）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%A7%B0%E4%B8%80%E5%8F%A3%E9%85%92%E8%B6%B3%E4%BB%A5%E6%B0%B8%E4%B9%85%E6%94%B9%E5%8F%98%E5%A4%A7%E8%84%91%23" target="weibo">
-研究称一口酒足以永久改变大脑（热度：685113）
+<a href="https://s.weibo.com/weibo?q=%23%E6%8F%90%E5%89%8D%E6%BF%80%E6%B4%BBiPhone14%E6%AF%8F%E5%8F%B0%E7%BD%9A%E6%AC%BE20%E4%B8%87%23" target="weibo">
+提前激活iPhone14每台罚款20万（热度：685967）
 </a>
 </li>
 
@@ -387,12 +405,6 @@ iPhone14ProMax史上最重iPhone（热度：914474）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8A%E4%BA%86%E4%B8%AA%E7%BE%8A%E7%AC%AC%E4%B8%89%E5%85%B3%23" target="weibo">
-羊了个羊第三关（热度：605367）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23Sofm%E7%BB%93%E5%A9%9A%23" target="weibo">
 Sofm结婚（热度：603725）
 </a>
@@ -413,18 +425,6 @@ Sofm结婚（热度：603725）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Angelababy%E8%AE%A4%E4%B8%BA%E5%A5%BD%E7%9A%84%E7%88%B1%E4%BA%BA%E5%83%8F%E4%B8%AD%E5%8C%BB%23" target="weibo">
 Angelababy认为好的爱人像中医（热度：563215）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%B7%B2%E6%9C%896%E5%90%8D%E6%84%9F%E6%9F%93%E8%80%85%E5%88%B0%E8%BF%87%E6%B0%91%E8%88%AA%E6%80%BB%E5%8C%BB%E9%99%A2%23" target="weibo">
-北京已有6名感染者到过民航总医院（热度：556268）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E4%BF%9D%E5%A7%86%E6%8E%8C%E6%8E%B41%E5%B2%81%E5%AE%9D%E5%AE%9D%E5%BC%BA%E5%96%82%E8%BE%A3%E6%A4%92%23" target="weibo">
-女子称保姆掌掴1岁宝宝强喂辣椒（热度：546960）
 </a>
 </li>
 
@@ -507,6 +507,12 @@ A股（热度：478857）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23EDG%E5%8F%91%E5%B8%83%E5%A4%84%E7%BD%9A%E5%85%AC%E5%91%8A%23" target="weibo">
+EDG发布处罚公告（热度：439195）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%85%AD%E7%BA%A7%E8%80%83%E8%AF%95%E6%9C%89%E5%A4%9A%E9%87%8D%E8%A6%81%23" target="weibo">
 四六级考试有多重要（热度：428456）
 </a>
@@ -581,12 +587,6 @@ A股（热度：478857）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E9%83%A8%E5%88%86%E7%BA%BF%E8%B7%AF%E4%BB%8A%E6%99%9A21%E6%97%B6%E8%B5%B7%E5%81%9C%E8%BF%90%23" target="weibo">
 上海地铁部分线路今晚21时起停运（热度：363767）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23EDG%E5%8F%91%E5%B8%83%E5%A4%84%E7%BD%9A%E5%85%AC%E5%91%8A%23" target="weibo">
-EDG发布处罚公告（热度：362233）
 </a>
 </li>
 
@@ -723,6 +723,12 @@ EDG发布处罚公告（热度：362233）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B7%23" target="weibo">
+心动的信号（热度：283823）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%A7%94%E4%BC%9A%E7%9A%84%E6%9D%83%E5%8A%9B%E6%98%AF%E4%B8%8D%E6%98%AF%E5%A4%AA%E5%A4%A7%E4%BA%86%23" target="weibo">
 家委会的权力是不是太大了（热度：281910）
 </a>
@@ -777,8 +783,26 @@ Gemini妲己辣舞cos（热度：273810）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%9C%A8%E6%84%9F%E6%83%85%E9%87%8C%E8%A6%81%E5%AD%A6%E4%BC%9A%E6%96%AD%E8%88%8D%E7%A6%BB%23" target="weibo">
+女生在感情里要学会断舍离（热度：266662）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%B3%B0%E4%BA%A8VOGUE%E9%93%B6%E5%8D%816%E7%89%88%E5%B0%81%E9%9D%A2%23" target="weibo">
 金泰亨VOGUE银十6版封面（热度：266648）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%A2%85%E8%8A%B1%23" target="weibo">
+台风梅花（热度：266013）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8A%E4%BA%86%E4%B8%AA%E7%BE%8A%E7%9C%9F%E7%9A%84%E5%BE%88%E7%83%A6%E4%BA%BA%23" target="weibo">
+羊了个羊真的很烦人（热度：263713）
 </a>
 </li>
 
@@ -815,6 +839,12 @@ Gemini妲己辣舞cos（热度：273810）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2316%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%B9%8D%E6%B5%81%E4%B8%AD%E8%BF%9E%E6%95%91%E4%B8%A4%E5%90%8D%E7%94%B7%E5%AD%90%23" target="weibo">
 16岁女孩湍流中连救两名男子（热度：246037）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%89%88%E7%A0%94%E7%A9%B6%E7%94%9F%E6%95%99%E8%82%B2%E5%AD%A6%E7%A7%91%E4%B8%93%E4%B8%9A%E7%9B%AE%E5%BD%95%E5%8F%91%E5%B8%83%23" target="weibo">
+新版研究生教育学科专业目录发布（热度：243729）
 </a>
 </li>
 
@@ -873,8 +903,20 @@ Gemini妲己辣舞cos（热度：273810）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8A%E4%BA%86%E4%B8%AA%E7%BE%8A%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E7%88%86%E7%81%AB%23" target="weibo">
+羊了个羊为何突然爆火（热度：229719）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%A1bug%E5%8A%A0%E5%85%A5%E7%BE%8A%E7%BE%A4%23" target="weibo">
 卡bug加入羊群（热度：229460）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E6%8D%90%E4%B9%A6%E8%A2%AB%E6%85%88%E5%96%84%E6%9C%BA%E6%9E%84%E5%8D%96%E5%87%BA%23" target="weibo">
+官方回应男子捐书被慈善机构卖出（热度：228399）
 </a>
 </li>
 
@@ -935,12 +977,6 @@ Gemini妲己辣舞cos（热度：273810）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23BLACKPINK%E6%96%B0%E6%AD%8CShutDown%E9%A2%84%E5%91%8A%23" target="weibo">
 BLACKPINK新歌ShutDown预告（热度：212721）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%89%88%E7%A0%94%E7%A9%B6%E7%94%9F%E6%95%99%E8%82%B2%E5%AD%A6%E7%A7%91%E4%B8%93%E4%B8%9A%E7%9B%AE%E5%BD%95%E5%8F%91%E5%B8%83%23" target="weibo">
-新版研究生教育学科专业目录发布（热度：211639）
 </a>
 </li>
 
@@ -1161,6 +1197,18 @@ ios16壁纸（热度：163215）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E9%BE%998%E6%AD%A3%E5%BC%8F%E5%85%AC%E5%B8%83%23" target="weibo">
+如龙8正式公布（热度：142972）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E8%AF%B4%E6%88%91%E5%B0%B1%E6%98%AF%E8%B5%B5%E4%BA%94%E5%84%BF%23" target="weibo">
+黄景瑜说我就是赵五儿（热度：140993）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%A9%BA%E4%B9%8B%E7%8E%8B%E9%87%8C%E6%BC%94%E5%91%98%E6%8B%8D%E6%88%8F%E6%9C%89%E5%A4%9A%E6%8B%BC%23" target="weibo">
 长空之王里演员拍戏有多拼（热度：140050）
 </a>
@@ -1187,12 +1235,6 @@ ios16壁纸（热度：163215）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%A4%A9%E5%A4%A9%E5%90%91%E4%B8%8A%E5%B8%B8%E9%A9%BB%E5%98%89%E5%AE%BE%E5%90%8D%E5%8D%95%23" target="weibo">
 网传天天向上常驻嘉宾名单（热度：132442）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E6%8D%90%E4%B9%A6%E8%A2%AB%E6%85%88%E5%96%84%E6%9C%BA%E6%9E%84%E5%8D%96%E5%87%BA%23" target="weibo">
-官方回应男子捐书被慈善机构卖出（热度：128164）
 </a>
 </li>
 
