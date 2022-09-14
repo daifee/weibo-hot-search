@@ -1,6 +1,6 @@
 {
   "startTime": 1663173270447,
-  "endTime": 1663184181879,
+  "endTime": 1663187234106,
   "band_list": [
     {
       "raw_hot": 1747076,
@@ -323,6 +323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 152238,
+      "num": 47383,
+      "word": "韩国法院下令逮捕LUNA币开发者",
+      "onboard_time": 1663182431,
+      "rank": 19,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 134900,
       "num": 134900,
       "word": "覆流年",
@@ -411,20 +419,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 81553,
+      "num": 40062,
+      "word": "老人澡堂洗澡猝死家属索赔50万被驳",
+      "onboard_time": 1663183571,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80700,
       "num": 80700,
       "word": "中方回应是否派员出席英女王国葬",
       "onboard_time": 1663148309,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 78264,
-      "num": 47383,
-      "word": "韩国法院下令逮捕LUNA币开发者",
-      "onboard_time": 1663182431,
-      "rank": 19,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 76248,
@@ -483,11 +491,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 20592,
-      "num": 20592,
-      "word": "老人澡堂洗澡猝死家属索赔50万被驳",
-      "onboard_time": 1663183571,
-      "rank": 36,
+      "raw_hot": 9027,
+      "num": 9027,
+      "word": "康辉的行李箱里竟然带烤馕",
+      "onboard_time": 1663187111,
+      "rank": 49,
       "category": "社会新闻"
     }
   ],
