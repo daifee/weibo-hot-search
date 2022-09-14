@@ -1,0 +1,410 @@
+{
+  "runTime": 1663176686388,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1526298,
+        "num": 1526298,
+        "word": "羊了个羊 驴了个驴",
+        "onboard_time": 1663171289,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 490071,
+        "num": 490071,
+        "word": "茶颜悦色南京新店招牌引争议",
+        "onboard_time": 1663169614,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34034,
+        "num": 418735,
+        "word": "歼20为志愿军烈士遗骸护航",
+        "onboard_time": 1663161814,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1008065,
+        "num": 392026,
+        "word": "韩国一男子家暴中国妻子被判3年半",
+        "onboard_time": 1663172845,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353266,
+        "num": 353266,
+        "word": "女子洗澡时虫子从花洒蠕动爬出",
+        "onboard_time": 1663164215,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327344,
+        "num": 327344,
+        "word": "豆豆 男的吃烧烤只能穿肠镜裤",
+        "onboard_time": 1663169912,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310263,
+        "num": 310263,
+        "word": "韩剧现偶男主角人设天花板",
+        "onboard_time": 1663167877,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 307803,
+        "num": 307803,
+        "word": "奶茶溅入电脑显示屏致蚂蚁筑巢",
+        "onboard_time": 1663167093,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305470,
+        "num": 305470,
+        "word": "58岁自驾阿姨苏敏决定离婚",
+        "onboard_time": 1663167938,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252917,
+        "num": 252917,
+        "word": "养娃17年花46万女子向前夫要一半被驳",
+        "onboard_time": 1663173565,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430041,
+        "num": 222381,
+        "word": "羊了个羊第三关",
+        "onboard_time": 1663149808,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 258942,
+        "num": 219103,
+        "word": "男子袭胸女孩称离婚久了有点冲动",
+        "onboard_time": 1663156830,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 185640,
+        "num": 185640,
+        "word": "檀健次开挂了公司不打卡",
+        "onboard_time": 1663169971,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172334,
+        "num": 172334,
+        "word": "王栎鑫删博后道歉",
+        "onboard_time": 1663140268,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171334,
+        "num": 171334,
+        "word": "钱塘江入海口惊现大片潮汐树",
+        "onboard_time": 1663170392,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146259,
+        "num": 146259,
+        "word": "羊了个羊为何突然爆火",
+        "onboard_time": 1663154131,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140887,
+        "num": 140887,
+        "word": "女子花25万成功克隆去世宠物狗",
+        "onboard_time": 1663157852,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137727,
+        "num": 137727,
+        "word": "爱奇艺热度值破万的剧集",
+        "onboard_time": 1663166017,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144788,
+        "num": 133771,
+        "word": "羊了个羊 抄袭",
+        "onboard_time": 1663131276,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126811,
+        "num": 126811,
+        "word": "台风梅花",
+        "onboard_time": 1663154131,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123444,
+        "num": 123444,
+        "word": "iPhone14与Pro该怎么选",
+        "onboard_time": 1663166076,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 116536,
+        "num": 116536,
+        "word": "摆烂式爱情真的会更长久吗",
+        "onboard_time": 1663168717,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115164,
+        "num": 115164,
+        "word": "老人去世金毛趴灵前守5天5夜",
+        "onboard_time": 1663171049,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115114,
+        "num": 115114,
+        "word": "上海今日全市暂停开放景观照明",
+        "onboard_time": 1663155389,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110551,
+        "num": 110551,
+        "word": "邢菲说躺进棺材没害怕",
+        "onboard_time": 1663164334,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 107530,
+        "num": 107530,
+        "word": "完善性侵害儿童犯罪人员信息公开制度",
+        "onboard_time": 1663173985,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107196,
+        "num": 107196,
+        "word": "女子用高度白酒腌螃蟹醉晕老公",
+        "onboard_time": 1663167339,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106009,
+        "num": 106009,
+        "word": "钟文泽",
+        "onboard_time": 1663162474,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 98889,
+        "num": 98889,
+        "word": "商家月花10万请带货3个月卖出690元",
+        "onboard_time": 1663157371,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98762,
+        "num": 98762,
+        "word": "百万退休金买兴业银行理财血本无归",
+        "onboard_time": 1663167636,
+        "rank": 29,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 95492,
+        "num": 95492,
+        "word": "琼姐穿的外套是杨兴权同款",
+        "onboard_time": 1663172008,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 92008,
+        "num": 92008,
+        "word": "产妇回应家属不知全名护士拒给娃",
+        "onboard_time": 1663156349,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83064,
+        "num": 83064,
+        "word": "法考",
+        "onboard_time": 1663163733,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 80379,
+        "num": 80379,
+        "word": "张杰是我看脱口秀大会的嘴替",
+        "onboard_time": 1663164757,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79578,
+        "num": 79578,
+        "word": "小男孩在幼儿园坦然展示假肢",
+        "onboard_time": 1663166675,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76949,
+        "num": 76949,
+        "word": "猫猫真的可以治愈一切",
+        "onboard_time": 1663170512,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 72892,
+        "num": 72892,
+        "word": "杨蒙恩淘汰",
+        "onboard_time": 1663162353,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72424,
+        "num": 72424,
+        "word": "羊了个羊难通关为何还想玩",
+        "onboard_time": 1663169793,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 65826,
+        "num": 65826,
+        "word": "覆流年",
+        "onboard_time": 1663163793,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 64144,
+        "num": 64144,
+        "word": "罚罪",
+        "onboard_time": 1663158812,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 69706,
+        "num": 59893,
+        "word": "羊了个羊",
+        "onboard_time": 1663116150,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 54277,
+        "num": 54277,
+        "word": "什么叫天生反骨",
+        "onboard_time": 1663147589,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 51519,
+        "num": 51519,
+        "word": "北京已有6名感染者到过民航总医院",
+        "onboard_time": 1663150830,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47721,
+        "num": 47721,
+        "word": "老师说马嘉祺发真声是软的",
+        "onboard_time": 1663163434,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 46426,
+        "num": 46426,
+        "word": "女子称保姆掌掴1岁宝宝强喂辣椒",
+        "onboard_time": 1663149268,
+        "rank": 44,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 45487,
+        "num": 45487,
+        "word": "这是书里走出来的大家闺秀吧",
+        "onboard_time": 1663175599,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 42530,
+        "num": 42530,
+        "word": "王鹤棣新剧状态",
+        "onboard_time": 1663158092,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 40230,
+        "num": 40230,
+        "word": "网传请君明日开播",
+        "onboard_time": 1663167758,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 37066,
+        "num": 37066,
+        "word": "明天苏州可弹性上下学",
+        "onboard_time": 1663158633,
+        "rank": 48,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 35578,
+        "num": 35578,
+        "word": "18岁小伙文前女友名字去掉需切除",
+        "onboard_time": 1663144528,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国与哈乌两国要走互利共赢之路#"
+    }
+  }
+}
