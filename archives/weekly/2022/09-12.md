@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/12 00:31:49 ~ 2022/09/14 19:20:53
+本榜单时间：2022/09/12 00:31:49 ~ 2022/09/14 19:38:04
 </p>
 </blockquote>
 <p>
@@ -399,6 +399,12 @@ iPhone14ProMax电池容量不增反降（热度：1588541）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8A%E4%BA%86%E4%B8%AA%E7%BE%8A%E7%AC%AC%E4%B8%89%E5%85%B3%23" target="weibo">
+羊了个羊第三关（热度：1548166）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E8%87%AA%E5%8A%A8%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E5%B9%B3%E5%8F%B0%E8%8E%B7%E6%89%B9%E4%B8%8A%E5%B8%82%23" target="weibo">
 全自动核酸检测平台获批上市（热度：1547516）
 </a>
@@ -605,12 +611,6 @@ Twins不承认吴谨言的粤语是自己教的（热度：1255504）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%A6%E7%85%8C%E8%80%83%E5%8F%A4%E7%BC%96%E5%88%B6%E5%B2%97%E4%BD%8D%E6%97%A0%E4%BA%BA%E9%97%AE%E6%B4%A5%23" target="weibo">
 敦煌考古编制岗位无人问津（热度：1181425）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8A%E4%BA%86%E4%B8%AA%E7%BE%8A%E7%AC%AC%E4%B8%89%E5%85%B3%23" target="weibo">
-羊了个羊第三关（热度：1171073）
 </a>
 </li>
 
@@ -916,7 +916,7 @@ iPhone14ProMax史上最重iPhone（热度：914474）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%B7%B2%E6%9C%896%E5%90%8D%E6%84%9F%E6%9F%93%E8%80%85%E5%88%B0%E8%BF%87%E6%B0%91%E8%88%AA%E6%80%BB%E5%8C%BB%E9%99%A2%23" target="weibo">
-北京已有6名感染者到过民航总医院（热度：855437）
+北京已有6名感染者到过民航总医院（热度：855451）
 </a>
 </li>
 
@@ -1223,6 +1223,12 @@ RNG晋级TI11（热度：809926）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%B9%B4%E5%89%8D%E7%9A%84%E5%91%8A%E7%99%BD%E8%A2%AB%E5%9B%9E%E5%BA%94%E4%BA%86%23" target="weibo">
 五年前的告白被回应了（热度：635707）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%9B%B4%E6%92%AD%23" target="weibo">
+王鹤棣直播（热度：633632）
 </a>
 </li>
 
@@ -1733,6 +1739,12 @@ ios16壁纸（热度：461850）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A2%B0%E5%88%B0%E4%B8%80%E5%8F%AA%E7%A4%BE%E6%81%90%E5%B0%8F%E7%8B%97%23" target="weibo">
 碰到一只社恐小狗（热度：454471）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%A2%85%E8%8A%B1%23" target="weibo">
+台风梅花（热度：453827）
 </a>
 </li>
 
@@ -2415,6 +2427,12 @@ UR被曝抄袭（热度：318277）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E6%8D%90%E4%B9%A6%E8%A2%AB%E6%85%88%E5%96%84%E6%9C%BA%E6%9E%84%E5%8D%96%E5%87%BA%23" target="weibo">
+官方回应男子捐书被慈善机构卖出（热度：308293）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23iOS15.7%23" target="weibo">
 iOS15.7（热度：307513）
 </a>
@@ -2739,6 +2757,12 @@ Prada与李易峰终止合作（热度：269437）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%9C%A8%E6%84%9F%E6%83%85%E9%87%8C%E8%A6%81%E5%AD%A6%E4%BC%9A%E6%96%AD%E8%88%8D%E7%A6%BB%23" target="weibo">
+女生在感情里要学会断舍离（热度：267671）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E8%AE%A4%E4%B8%BA%E4%B8%BB%E5%8A%A8%E5%B9%B6%E4%B8%8D%E5%BB%89%E4%BB%B7%23" target="weibo">
 孟子义认为主动并不廉价（热度：267643）
 </a>
@@ -2751,20 +2775,8 @@ Prada与李易峰终止合作（热度：269437）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%9C%A8%E6%84%9F%E6%83%85%E9%87%8C%E8%A6%81%E5%AD%A6%E4%BC%9A%E6%96%AD%E8%88%8D%E7%A6%BB%23" target="weibo">
-女生在感情里要学会断舍离（热度：266662）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%B3%B0%E4%BA%A8VOGUE%E9%93%B6%E5%8D%816%E7%89%88%E5%B0%81%E9%9D%A2%23" target="weibo">
 金泰亨VOGUE银十6版封面（热度：266648）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%A2%85%E8%8A%B1%23" target="weibo">
-台风梅花（热度：266013）
 </a>
 </li>
 
@@ -2903,6 +2915,12 @@ A股首支脱口秀概念股（热度：265138）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%81%92%E5%A4%A7%E5%B7%B2%E5%A4%8D%E5%B7%A5%E9%A1%B9%E7%9B%AE668%E4%B8%AA%23" target="weibo">
 恒大已复工项目668个（热度：247459）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8A%E4%BA%86%E4%B8%AA%E7%BE%8A%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E7%88%86%E7%81%AB%23" target="weibo">
+羊了个羊为何突然爆火（热度：246350）
 </a>
 </li>
 
@@ -3075,12 +3093,6 @@ A股首支脱口秀概念股（热度：265138）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8A%E4%BA%86%E4%B8%AA%E7%BE%8A%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E7%88%86%E7%81%AB%23" target="weibo">
-羊了个羊为何突然爆火（热度：229719）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%A1bug%E5%8A%A0%E5%85%A5%E7%BE%8A%E7%BE%A4%23" target="weibo">
 卡bug加入羊群（热度：229460）
 </a>
@@ -3101,12 +3113,6 @@ A股首支脱口秀概念股（热度：265138）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%85%B4%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%23" target="weibo">
 东兴疫情防控（热度：228605）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E6%8D%90%E4%B9%A6%E8%A2%AB%E6%85%88%E5%96%84%E6%9C%BA%E6%9E%84%E5%8D%96%E5%87%BA%23" target="weibo">
-官方回应男子捐书被慈善机构卖出（热度：228399）
 </a>
 </li>
 
@@ -3471,6 +3477,12 @@ House回应带火600759（热度：193361）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E6%8D%A1%E5%9B%9E%E4%B8%A4%E7%8A%AC%E6%83%B3%E5%BD%93%E8%AD%A6%E7%8A%AC%E7%BB%93%E6%9E%9C%E7%9C%9F%E6%98%AF%E8%AD%A6%E7%8A%AC%23" target="weibo">
+民警捡回两犬想当警犬结果真是警犬（热度：185948）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%A4%A7%E5%BC%80%E5%AD%A6%E5%85%B8%E7%A4%BC%23" target="weibo">
 人大开学典礼（热度：184342）
 </a>
@@ -3491,6 +3503,12 @@ House回应带火600759（热度：193361）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BF%BB%E9%81%8D%E8%AF%84%E8%AE%BA%E4%B9%9F%E6%89%BE%E4%B8%8D%E5%88%B0%E6%AD%A3%E7%BB%8F%E7%AD%94%E6%A1%88%23" target="weibo">
 翻遍评论也找不到正经答案（热度：183163）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E8%AF%B4%E6%88%91%E5%B0%B1%E6%98%AF%E8%B5%B5%E4%BA%94%E5%84%BF%23" target="weibo">
+黄景瑜说我就是赵五儿（热度：182220）
 </a>
 </li>
 
@@ -3729,12 +3747,6 @@ INTO1套圈把摊位给端了（热度：161668）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E8%AF%B4%E6%88%91%E5%B0%B1%E6%98%AF%E8%B5%B5%E4%BA%94%E5%84%BF%23" target="weibo">
-黄景瑜说我就是赵五儿（热度：140993）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A2%9E%E5%BC%BA%E4%BD%93%E8%B4%A8%E5%8F%AF%E7%BC%93%E8%A7%A3%E8%BF%87%E6%95%8F%E6%80%A7%E7%96%BE%E7%97%85%23" target="weibo">
 增强体质可缓解过敏性疾病（热度：140864）
 </a>
@@ -3803,6 +3815,12 @@ INTO1套圈把摊位给端了（热度：161668）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%81%E5%85%A8%E7%BA%BF%E8%BD%A6%E7%AB%99%E9%97%B8%E6%9C%BA%E6%97%A0%E6%B3%95%E6%9F%A5%E9%AA%8C%E5%81%A5%E5%BA%B7%E7%A0%81%23" target="weibo">
 北京地铁全线车站闸机无法查验健康码（热度：130104）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%BB%8A%E6%97%A5%E5%85%A8%E5%B8%82%E6%9A%82%E5%81%9C%E5%BC%80%E6%94%BE%E6%99%AF%E8%A7%82%E7%85%A7%E6%98%8E%23" target="weibo">
+上海今日全市暂停开放景观照明（热度：129611）
 </a>
 </li>
 

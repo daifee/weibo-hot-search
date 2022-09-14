@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/14 19:20:53
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/14 19:38:04
 </p>
 </blockquote>
 <p>
@@ -1845,6 +1845,12 @@ iPhone14ProMax电池容量不增反降（热度：1588541）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8A%E4%BA%86%E4%B8%AA%E7%BE%8A%E7%AC%AC%E4%B8%89%E5%85%B3%23" target="weibo">
+羊了个羊第三关（热度：1548166）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E8%87%AA%E5%8A%A8%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E5%B9%B3%E5%8F%B0%E8%8E%B7%E6%89%B9%E4%B8%8A%E5%B8%82%23" target="weibo">
 全自动核酸检测平台获批上市（热度：1547516）
 </a>
@@ -2867,12 +2873,6 @@ iPhone14已产逾3400万部（热度：1174969）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A7%91%E9%99%A2%E8%AF%95%E9%AA%8C%E7%AB%99%E9%81%87%E9%9A%BE%E5%A5%B3%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23" target="weibo">
 中科院试验站遇难女研究生家属发声（热度：1171145）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8A%E4%BA%86%E4%B8%AA%E7%BE%8A%E7%AC%AC%E4%B8%89%E5%85%B3%23" target="weibo">
-羊了个羊第三关（热度：1171073）
 </a>
 </li>
 
@@ -4594,7 +4594,7 @@ iPhone14系列没涨价（热度：892829）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%B7%B2%E6%9C%896%E5%90%8D%E6%84%9F%E6%9F%93%E8%80%85%E5%88%B0%E8%BF%87%E6%B0%91%E8%88%AA%E6%80%BB%E5%8C%BB%E9%99%A2%23" target="weibo">
-北京已有6名感染者到过民航总医院（热度：855437）
+北京已有6名感染者到过民航总医院（热度：855451）
 </a>
 </li>
 

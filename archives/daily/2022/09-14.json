@@ -1,6 +1,6 @@
 {
   "startTime": 1663086802432,
-  "endTime": 1663154453019,
+  "endTime": 1663155484294,
   "band_list": [
     {
       "raw_hot": 9835748,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1548166,
+      "num": 1548166,
+      "word": "羊了个羊第三关",
+      "onboard_time": 1663149808,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1518132,
       "num": 1518132,
       "word": "B站诉争哔哩哔哩商标被驳回",
@@ -177,14 +185,6 @@
       "onboard_time": 1663137687,
       "rank": 3,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 1171073,
-      "num": 1171073,
-      "word": "羊了个羊第三关",
-      "onboard_time": 1663149808,
-      "rank": 21,
-      "category": "游戏"
     },
     {
       "raw_hot": 1167072,
@@ -371,7 +371,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 855437,
+      "raw_hot": 855451,
       "num": 847864,
       "word": "北京已有6名感染者到过民航总医院",
       "onboard_time": 1663150830,
@@ -497,6 +497,14 @@
       "onboard_time": 1663144528,
       "rank": 40,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 633632,
+      "num": 422922,
+      "word": "王鹤棣直播",
+      "onboard_time": 1663154788,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 619416,
@@ -649,6 +657,14 @@
       "onboard_time": 1663118130,
       "rank": 19,
       "category": "科技"
+    },
+    {
+      "raw_hot": 453827,
+      "num": 453827,
+      "word": "台风梅花",
+      "onboard_time": 1663154131,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 449343,
@@ -875,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 308293,
+      "num": 308293,
+      "word": "官方回应男子捐书被慈善机构卖出",
+      "onboard_time": 1663151909,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 305594,
       "num": 305594,
       "word": "威少出售洛杉矶豪宅",
@@ -931,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 290555,
+      "num": 290555,
+      "word": "心动的信号",
+      "onboard_time": 1663153529,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 287770,
       "num": 287770,
       "word": "男子打拼10年养鸡2000万只",
@@ -945,14 +977,6 @@
       "onboard_time": 1663151189,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 283823,
-      "num": 283823,
-      "word": "心动的信号",
-      "onboard_time": 1663153529,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 281910,
@@ -1027,8 +1051,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 266662,
-      "num": 266662,
+      "raw_hot": 267671,
+      "num": 267671,
       "word": "女生在感情里要学会断舍离",
       "onboard_time": 1663152450,
       "rank": 21,
@@ -1041,14 +1065,6 @@
       "onboard_time": 1663137629,
       "rank": 23,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 266013,
-      "num": 266013,
-      "word": "台风梅花",
-      "onboard_time": 1663154131,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 263713,
@@ -1097,6 +1113,14 @@
       "onboard_time": 1663130136,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 246350,
+      "num": 246350,
+      "word": "羊了个羊为何突然爆火",
+      "onboard_time": 1663154131,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 246037,
@@ -1187,28 +1211,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 229719,
-      "num": 229719,
-      "word": "羊了个羊为何突然爆火",
-      "onboard_time": 1663154131,
-      "rank": 29,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 229460,
       "num": 229460,
       "word": "卡bug加入羊群",
       "onboard_time": 1663135290,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 228399,
-      "num": 228399,
-      "word": "官方回应男子捐书被慈善机构卖出",
-      "onboard_time": 1663151909,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 227860,
@@ -1411,6 +1419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 185948,
+      "num": 185948,
+      "word": "民警捡回两犬想当警犬结果真是警犬",
+      "onboard_time": 1663154909,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183842,
       "num": 183842,
       "word": "你安全吗",
@@ -1425,6 +1441,14 @@
       "onboard_time": 1663071630,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 182220,
+      "num": 182220,
+      "word": "黄景瑜说我就是赵五儿",
+      "onboard_time": 1663153588,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 181894,
@@ -1587,14 +1611,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 140993,
-      "num": 140993,
-      "word": "黄景瑜说我就是赵五儿",
-      "onboard_time": 1663153588,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 140050,
       "num": 140050,
       "word": "长空之王里演员拍戏有多拼",
@@ -1633,6 +1649,14 @@
       "onboard_time": 1663066775,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129611,
+      "num": 129611,
+      "word": "上海今日全市暂停开放景观照明",
+      "onboard_time": 1663155389,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126020,
