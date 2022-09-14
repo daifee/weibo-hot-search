@@ -1,6 +1,6 @@
 {
   "startTime": 1663086802432,
-  "endTime": 1663159845577,
+  "endTime": 1663161749524,
   "band_list": [
     {
       "raw_hot": 9835748,
@@ -64,6 +64,14 @@
       "word": "家属叫不出产妇全名护士拒给娃",
       "onboard_time": 1663135589,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2077422,
+      "num": 2077422,
+      "word": "女子花25万成功克隆去世宠物狗",
+      "onboard_time": 1663157852,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -179,6 +187,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1208276,
+      "num": 1208276,
+      "word": "台风梅花",
+      "onboard_time": 1663154131,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1192857,
       "num": 1192857,
       "word": "中方回应是否派员出席英女王国葬",
@@ -235,14 +251,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 1100108,
-      "num": 1100108,
-      "word": "台风梅花",
-      "onboard_time": 1663154131,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1095040,
       "num": 1095040,
       "word": "拉宏桑淘汰",
@@ -265,14 +273,6 @@
       "onboard_time": 1663147589,
       "rank": 15,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1051607,
-      "num": 1051607,
-      "word": "女子花25万成功克隆去世宠物狗",
-      "onboard_time": 1663157852,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1025639,
@@ -313,6 +313,14 @@
       "onboard_time": 1663078056,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 933070,
+      "num": 933070,
+      "word": "产妇回应家属不知全名护士拒给娃",
+      "onboard_time": 1663156349,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 928567,
@@ -451,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 799800,
+      "num": 799800,
+      "word": "商家月花10万请带货3个月卖出690元",
+      "onboard_time": 1663157371,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 781062,
       "num": 707065,
       "word": "戈达尔选择安乐死离世",
@@ -481,14 +497,6 @@
       "onboard_time": 1663109777,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 728834,
-      "num": 728834,
-      "word": "产妇回应家属不知全名护士拒给娃",
-      "onboard_time": 1663156349,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 695155,
@@ -603,12 +611,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 543966,
-      "num": 543966,
-      "word": "商家月花10万请带货3个月卖出690元",
-      "onboard_time": 1663157371,
-      "rank": 6,
-      "category": "社会新闻"
+      "raw_hot": 545042,
+      "num": 545042,
+      "word": "明天苏州可弹性上下学",
+      "onboard_time": 1663158633,
+      "rank": 28,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 533066,
@@ -787,6 +795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 405176,
+      "num": 373680,
+      "word": "张朝阳解释iPhone14碳纤维手机壳不怕摔",
+      "onboard_time": 1663159232,
+      "rank": 38,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 401859,
       "num": 401859,
       "word": "影视剧能油腻成啥样",
@@ -809,6 +825,14 @@
       "onboard_time": 1663117891,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 400148,
+      "num": 400148,
+      "word": "王鹤棣新剧状态",
+      "onboard_time": 1663158092,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 384096,
@@ -963,14 +987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 308541,
-      "num": 308541,
-      "word": "王鹤棣新剧状态",
-      "onboard_time": 1663158092,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 308293,
       "num": 308293,
       "word": "官方回应男子捐书被慈善机构卖出",
@@ -1019,6 +1035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294999,
+      "num": 294999,
+      "word": "马尼拉",
+      "onboard_time": 1663157791,
+      "rank": 26,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 293590,
       "num": 273674,
       "word": "密室大逃脱",
@@ -1043,14 +1067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 288690,
-      "num": 288690,
-      "word": "马尼拉",
-      "onboard_time": 1663157791,
-      "rank": 26,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 287770,
       "num": 287770,
       "word": "男子打拼10年养鸡2000万只",
@@ -1065,6 +1081,14 @@
       "onboard_time": 1663151189,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 283588,
+      "num": 283588,
+      "word": "朝阳大妈说当全职太太很危险",
+      "onboard_time": 1663156048,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 281910,
@@ -1163,6 +1187,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 263481,
+      "num": 263481,
+      "word": "终于可以实现听歌自由了",
+      "onboard_time": 1663157970,
+      "rank": 33,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 255294,
+      "num": 255294,
+      "word": "风景园林",
+      "onboard_time": 1663159952,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 255056,
       "num": 255056,
       "word": "初中生刮坏车辆车主惩罚其写试卷",
@@ -1259,28 +1299,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 239503,
-      "num": 239503,
-      "word": "明天苏州可弹性上下学",
-      "onboard_time": 1663158633,
-      "rank": 28,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 235579,
       "num": 235579,
       "word": "1岁罕见病男童扛过移植又遇严重排异",
       "onboard_time": 1663128697,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 235553,
-      "num": 235553,
-      "word": "朝阳大妈说当全职太太很危险",
-      "onboard_time": 1663156048,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 235102,
@@ -1396,7 +1420,7 @@
     },
     {
       "raw_hot": 213047,
-      "num": 195348,
+      "num": 211966,
       "word": "酸儿辣女是真的吗",
       "onboard_time": 1663156408,
       "rank": 34,
@@ -1465,14 +1489,6 @@
       "onboard_time": 1663102331,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196802,
-      "num": 196802,
-      "word": "终于可以实现听歌自由了",
-      "onboard_time": 1663157970,
-      "rank": 33,
-      "category": "科技"
     },
     {
       "raw_hot": 196183,
@@ -1563,6 +1579,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 180544,
+      "num": 180544,
+      "word": "95后女孩与100个陌生人交换礼物",
+      "onboard_time": 1663160432,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179601,
+      "num": 179601,
+      "word": "谢娜话剧状态",
+      "onboard_time": 1663161632,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 176888,
       "num": 207391,
       "word": "山东新增本土确诊10例无症状35例",
@@ -1611,6 +1643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167293,
+      "num": 167293,
+      "word": "亲爱的生命",
+      "onboard_time": 1663160613,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 166632,
       "num": 166632,
       "word": "9月13日新增确诊237例",
@@ -1649,14 +1689,6 @@
       "onboard_time": 1663074332,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 161784,
-      "num": 161784,
-      "word": "张朝阳解释iPhone14碳纤维手机壳不怕摔",
-      "onboard_time": 1663159232,
-      "rank": 38,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 161651,
@@ -1819,6 +1851,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 115605,
+      "num": 113105,
+      "word": "脱5天花板pk激烈得像半决赛",
+      "onboard_time": 1663160010,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 114699,
+      "num": 114699,
+      "word": "编剧你看看这些剧情合理吗",
+      "onboard_time": 1663159713,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 111948,
       "num": 111948,
       "word": "这就是重庆的兔子嘛",
@@ -1881,14 +1929,6 @@
       "onboard_time": 1663076975,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 97516,
-      "num": 97516,
-      "word": "编剧你看看这些剧情合理吗",
-      "onboard_time": 1663159713,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 97345,
