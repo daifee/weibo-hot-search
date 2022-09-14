@@ -1,0 +1,410 @@
+{
+  "runTime": 1663130847533,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8373643,
+        "num": 8373643,
+        "word": "羊了个羊",
+        "onboard_time": 1663116150,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2071426,
+        "num": 2071426,
+        "word": "王鹤棣新剧演王栎鑫干爹",
+        "onboard_time": 1663128755,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22385,
+        "num": 1963699,
+        "word": "消防员车上挂满泸定人送的哈达",
+        "onboard_time": 1663076555,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1895618,
+        "num": 1895618,
+        "word": "00后开始整顿学术圈了",
+        "onboard_time": 1663126053,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1162488,
+        "num": 1162488,
+        "word": "宁波暂停72小时核酸检测要求",
+        "onboard_time": 1663125635,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 899338,
+        "num": 899338,
+        "word": "苹果市值一夜蒸发1500亿美元",
+        "onboard_time": 1663118849,
+        "rank": 5,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 899329,
+        "num": 899329,
+        "word": "昆仑神宫明天就定档",
+        "onboard_time": 1663126293,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 847805,
+        "num": 847805,
+        "word": "父子俩坐27小时硬座带泡面开学",
+        "onboard_time": 1663118011,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 762988,
+        "num": 762988,
+        "word": "52岁大学生报到被查3次录取通知书",
+        "onboard_time": 1663119508,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 656032,
+        "num": 656032,
+        "word": "山东21岁女孩离世捐器官救7人",
+        "onboard_time": 1663128457,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 884792,
+        "num": 653325,
+        "word": "杨幂白衣撑伞氛围感",
+        "onboard_time": 1663129833,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 750613,
+        "num": 652724,
+        "word": "赵丽颖费加罗花蝶焕羽大片",
+        "onboard_time": 1663123712,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 603725,
+        "num": 603725,
+        "word": "Sofm结婚",
+        "onboard_time": 1663125214,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 574776,
+        "num": 574776,
+        "word": "全国人大代表提议全面消灭蚊子",
+        "onboard_time": 1663117053,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 563215,
+        "num": 563215,
+        "word": "Angelababy认为好的爱人像中医",
+        "onboard_time": 1663127194,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 509999,
+        "num": 509999,
+        "word": "交警草丛找到遗失碎骨伤者免截肢",
+        "onboard_time": 1663124730,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 504915,
+        "num": 504915,
+        "word": "羊了个羊怎么玩",
+        "onboard_time": 1663127494,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 483501,
+        "num": 483501,
+        "word": "男子和朋友喝22瓶酒起幻觉坠楼身亡",
+        "onboard_time": 1663129896,
+        "rank": 17,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 482923,
+        "num": 482923,
+        "word": "人民网评张翰新剧",
+        "onboard_time": 1663077877,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 461948,
+        "num": 461948,
+        "word": "博主直播激活苹果iPhone14被封禁",
+        "onboard_time": 1663129416,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 427454,
+        "num": 427454,
+        "word": "苹果承认将增加系统广告",
+        "onboard_time": 1663119328,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 401859,
+        "num": 401859,
+        "word": "影视剧能油腻成啥样",
+        "onboard_time": 1663125691,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 366236,
+        "num": 366236,
+        "word": "知道分手是对的但还是难过",
+        "onboard_time": 1663118011,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 363653,
+        "num": 363653,
+        "word": "顺丰回应寄丢20克黄金只赔2000",
+        "onboard_time": 1663115971,
+        "rank": 23,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 347797,
+        "num": 347797,
+        "word": "浮图缘",
+        "onboard_time": 1663120349,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 323118,
+        "num": 323118,
+        "word": "当年的我真的有这么明显吗",
+        "onboard_time": 1663127311,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 305594,
+        "num": 305594,
+        "word": "威少出售洛杉矶豪宅",
+        "onboard_time": 1663128637,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286898,
+        "num": 286898,
+        "word": "2022首个台风红色预警",
+        "onboard_time": 1663126173,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281676,
+        "num": 281676,
+        "word": "张译王俊凯殷桃演绎真实撤侨路",
+        "onboard_time": 1663129295,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280766,
+        "num": 280766,
+        "word": "男子半夜趴门缝偷窥夫妻睡觉",
+        "onboard_time": 1663129356,
+        "rank": 29,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 489036,
+        "num": 280656,
+        "word": "iPhone14ProMax史上最重iPhone",
+        "onboard_time": 1663122870,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 273837,
+        "num": 273837,
+        "word": "男子将190公斤猪血制假鸭血售卖",
+        "onboard_time": 1663114651,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269861,
+        "num": 269861,
+        "word": "A股",
+        "onboard_time": 1663121248,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 265092,
+        "num": 265092,
+        "word": "台风",
+        "onboard_time": 1663114110,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261805,
+        "num": 261805,
+        "word": "家委会的权力是不是太大了",
+        "onboard_time": 1663128395,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 260051,
+        "num": 260051,
+        "word": "谈恋爱的唯一目的 就是吃苦",
+        "onboard_time": 1663081122,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255056,
+        "num": 255056,
+        "word": "初中生刮坏车辆车主惩罚其写试卷",
+        "onboard_time": 1663125032,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242320,
+        "num": 242320,
+        "word": "网传一公司厕所隔间装监控",
+        "onboard_time": 1663116211,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229587,
+        "num": 229587,
+        "word": "考教资的动力有了",
+        "onboard_time": 1663114951,
+        "rank": 38,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 225752,
+        "num": 225752,
+        "word": "披荆斩棘二公芭莎色彩大片",
+        "onboard_time": 1663129295,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209971,
+        "num": 209971,
+        "word": "小孩鬼探头被撞倒家长罚其面壁思过",
+        "onboard_time": 1663120168,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208978,
+        "num": 208978,
+        "word": "杨笠脱口秀大会杀疯了",
+        "onboard_time": 1663109777,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203713,
+        "num": 203713,
+        "word": "1岁罕见病男童扛过移植又遇严重排异",
+        "onboard_time": 1663128697,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202756,
+        "num": 202756,
+        "word": "早知道烂在厂里了",
+        "onboard_time": 1663130136,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199974,
+        "num": 199974,
+        "word": "为什么消费者不爱预制菜",
+        "onboard_time": 1663123532,
+        "rank": 44,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 196183,
+        "num": 196183,
+        "word": "人大代表建议牙体治疗费纳入医保",
+        "onboard_time": 1663129656,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195181,
+        "num": 195181,
+        "word": "霍格沃茨遗产",
+        "onboard_time": 1663130256,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191522,
+        "num": 191522,
+        "word": "男子因发量不符识破换脸艳照",
+        "onboard_time": 1663130617,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188901,
+        "num": 188901,
+        "word": "四川增本土确诊127例无症状83例",
+        "onboard_time": 1663121550,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180555,
+        "num": 180555,
+        "word": "女子拖行李箱离厂遭保安拖拽开箱",
+        "onboard_time": 1663117891,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国跨度#"
+    }
+  }
+}
