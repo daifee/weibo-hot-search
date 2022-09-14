@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663131750316,
+  "endTime": 1663135754002,
   "band_list": [
     {
       "raw_hot": 9835748,
@@ -161,6 +161,14 @@
       "onboard_time": 1663075713,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2902325,
+      "num": 2902325,
+      "word": "羊了个羊 抄袭",
+      "onboard_time": 1663131276,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 2865305,
@@ -475,6 +483,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 1518132,
+      "num": 1518132,
+      "word": "B站诉争哔哩哔哩商标被驳回",
+      "onboard_time": 1663130975,
+      "rank": 17,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1476547,
       "num": 595131,
       "word": "你安全吗墨镜男",
@@ -611,6 +627,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1283226,
+      "num": 1283226,
+      "word": "博主直播激活苹果iPhone14被封禁",
+      "onboard_time": 1663129416,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1282784,
       "num": 1282784,
       "word": "苍兰诀 番外",
@@ -699,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1167072,
+      "num": 1167072,
+      "word": "男子因发量不符识破换脸艳照",
+      "onboard_time": 1663130617,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1165353,
       "num": 569483,
       "word": "张家辉陈伟霆爆裂点路透",
@@ -713,6 +745,14 @@
       "onboard_time": 1663125635,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1134259,
+      "num": 1134259,
+      "word": "男子和朋友喝22瓶酒起幻觉坠楼身亡",
+      "onboard_time": 1663129896,
+      "rank": 17,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1119085,
@@ -955,14 +995,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 913671,
-      "num": 913671,
-      "word": "男子和朋友喝22瓶酒起幻觉坠楼身亡",
-      "onboard_time": 1663129896,
-      "rank": 17,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 906026,
       "num": 906026,
       "word": "良品铺子月饼被曝吃出塑料",
@@ -985,6 +1017,14 @@
       "onboard_time": 1663126293,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 896332,
+      "num": 706978,
+      "word": "郭俊辰受伤",
+      "onboard_time": 1663133372,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 895677,
@@ -1139,12 +1179,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 782424,
-      "num": 678592,
-      "word": "博主直播激活苹果iPhone14被封禁",
-      "onboard_time": 1663129416,
-      "rank": 19,
-      "category": "科技"
+      "raw_hot": 780832,
+      "num": 780832,
+      "word": "钟汉良承包了上海的清晨",
+      "onboard_time": 1663132175,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 780651,
@@ -1395,6 +1435,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 635631,
+      "num": 635631,
+      "word": "妈妈其实把你养得很好",
+      "onboard_time": 1663131574,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 632676,
       "num": 632676,
       "word": "女孩基因突变最快48秒睡着",
@@ -1425,6 +1473,14 @@
       "onboard_time": 1663114651,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 616229,
+      "num": 616229,
+      "word": "虞书欣张彬彬反复4遍扑倒吻",
+      "onboard_time": 1663131814,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 614974,
@@ -1939,14 +1995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 466261,
-      "num": 466261,
-      "word": "B站诉争哔哩哔哩商标被驳回",
-      "onboard_time": 1663130975,
-      "rank": 17,
-      "category": "科技"
-    },
-    {
       "raw_hot": 465877,
       "num": 465877,
       "word": "自驾阿姨苏敏出走2年后首次回家",
@@ -2105,6 +2153,14 @@
       "onboard_time": 1663075053,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 438197,
+      "num": 438197,
+      "word": "为什么国内的APP在外国这么火",
+      "onboard_time": 1663134211,
+      "rank": 16,
+      "category": "科技"
     },
     {
       "raw_hot": 433174,
@@ -2272,14 +2328,6 @@
       "word": "女子拖行李箱离厂遭保安拖拽开箱",
       "onboard_time": 1663117891,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 397412,
-      "num": 397412,
-      "word": "男子因发量不符识破换脸艳照",
-      "onboard_time": 1663130617,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -2505,6 +2553,14 @@
       "onboard_time": 1663077455,
       "rank": 48,
       "category": "科技"
+    },
+    {
+      "raw_hot": 353998,
+      "num": 353998,
+      "word": "杜华带吴宣仪胡春杨录节目",
+      "onboard_time": 1663134328,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 353613,
@@ -2739,14 +2795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 323000,
-      "num": 323000,
-      "word": "羊了个羊 抄袭",
-      "onboard_time": 1663131276,
-      "rank": 28,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 322855,
       "num": 322855,
       "word": "台风梅花预计14日登陆",
@@ -2968,6 +3016,14 @@
       "word": "心动的信号",
       "onboard_time": 1663074153,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 293590,
+      "num": 273674,
+      "word": "密室大逃脱",
+      "onboard_time": 1663131814,
+      "rank": 20,
       "category": "综艺"
     },
     {
@@ -3475,6 +3531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 235579,
+      "num": 235579,
+      "word": "1岁罕见病男童扛过移植又遇严重排异",
+      "onboard_time": 1663128697,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235206,
       "num": 235206,
       "word": "若木星轨道改变地球或更宜居",
@@ -3795,20 +3859,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 203713,
-      "num": 203713,
-      "word": "1岁罕见病男童扛过移植又遇严重排异",
-      "onboard_time": 1663128697,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 203135,
       "num": 174757,
       "word": "远离嫖娼别心动更别行动",
       "onboard_time": 1662895570,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202494,
+      "num": 202494,
+      "word": "卡bug加入羊群",
+      "onboard_time": 1663135290,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 202481,
@@ -4051,14 +4115,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 182616,
-      "num": 182616,
-      "word": "妈妈其实把你养得很好",
-      "onboard_time": 1663131574,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 181872,
       "num": 181872,
       "word": "乐高有多解压",
@@ -4267,6 +4323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151797,
+      "num": 151797,
+      "word": "家属叫不出产妇全名护士拒给娃",
+      "onboard_time": 1663135589,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151245,
       "num": 151245,
       "word": "北京疫情发布会",
@@ -4339,6 +4403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140050,
+      "num": 140050,
+      "word": "长空之王里演员拍戏有多拼",
+      "onboard_time": 1663133131,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 139659,
       "num": 139659,
       "word": "玄武湖花开如铺上红色地毯",
@@ -4361,6 +4433,14 @@
       "onboard_time": 1662994064,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134926,
+      "num": 134926,
+      "word": "直击台风梅花影响上海",
+      "onboard_time": 1663134091,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133238,
@@ -4857,6 +4937,14 @@
       "onboard_time": 1663018933,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 13674,
+      "num": 527390,
+      "word": "短片凡心微光",
+      "onboard_time": 1663135229,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11147,

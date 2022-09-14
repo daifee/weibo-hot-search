@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1663131750316,
+  "endTime": 1663135754002,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -633,6 +633,14 @@
       "onboard_time": 1662600568,
       "rank": 3,
       "category": "科技"
+    },
+    {
+      "raw_hot": 2902325,
+      "num": 2902325,
+      "word": "羊了个羊 抄袭",
+      "onboard_time": 1663131276,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 2900821,
@@ -2459,6 +2467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1518132,
+      "num": 1518132,
+      "word": "B站诉争哔哩哔哩商标被驳回",
+      "onboard_time": 1663130975,
+      "rank": 17,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1517856,
       "num": 1517856,
       "word": "11元的婚纱",
@@ -3299,6 +3315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1283226,
+      "num": 1283226,
+      "word": "博主直播激活苹果iPhone14被封禁",
+      "onboard_time": 1663129416,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1281510,
       "num": 664710,
       "word": "刘浩存传媒荣誉之夜生图",
@@ -3731,6 +3755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1167072,
+      "num": 1167072,
+      "word": "男子因发量不符识破换脸艳照",
+      "onboard_time": 1663130617,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1165353,
       "num": 569483,
       "word": "张家辉陈伟霆爆裂点路透",
@@ -3865,6 +3897,14 @@
       "onboard_time": 1662549869,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1134259,
+      "num": 1134259,
+      "word": "男子和朋友喝22瓶酒起幻觉坠楼身亡",
+      "onboard_time": 1663129896,
+      "rank": 17,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1134105,
@@ -5467,14 +5507,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 913671,
-      "num": 913671,
-      "word": "男子和朋友喝22瓶酒起幻觉坠楼身亡",
-      "onboard_time": 1663129896,
-      "rank": 17,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 913584,
       "num": 913584,
       "word": "章子怡赵丽颖加盟隐秘的高手",
@@ -5617,6 +5649,14 @@
       "onboard_time": 1663126293,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 896332,
+      "num": 706978,
+      "word": "郭俊辰受伤",
+      "onboard_time": 1663133372,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 895677,
@@ -6507,20 +6547,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 782424,
-      "num": 678592,
-      "word": "博主直播激活苹果iPhone14被封禁",
-      "onboard_time": 1663129416,
-      "rank": 19,
-      "category": "科技"
-    },
-    {
       "raw_hot": 781936,
       "num": 781936,
       "word": "爱情保安刘宇宁",
       "onboard_time": 1662739108,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 780832,
+      "num": 780832,
+      "word": "钟汉良承包了上海的清晨",
+      "onboard_time": 1663132175,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 780651,
@@ -7947,6 +7987,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 635631,
+      "num": 635631,
+      "word": "妈妈其实把你养得很好",
+      "onboard_time": 1663131574,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 634398,
       "num": 634398,
       "word": "虞书欣王鹤棣双人快问快答完整版",
@@ -8201,6 +8249,14 @@
       "onboard_time": 1662047188,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 616229,
+      "num": 616229,
+      "word": "虞书欣张彬彬反复4遍扑倒吻",
+      "onboard_time": 1663131814,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 615796,
@@ -10803,14 +10859,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 466261,
-      "num": 466261,
-      "word": "B站诉争哔哩哔哩商标被驳回",
-      "onboard_time": 1663130975,
-      "rank": 17,
-      "category": "科技"
-    },
-    {
       "raw_hot": 465877,
       "num": 465877,
       "word": "自驾阿姨苏敏出走2年后首次回家",
@@ -11465,6 +11513,14 @@
       "onboard_time": 1662566126,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 438197,
+      "num": 438197,
+      "word": "为什么国内的APP在外国这么火",
+      "onboard_time": 1663134211,
+      "rank": 16,
+      "category": "科技"
     },
     {
       "raw_hot": 438062,
@@ -12576,14 +12632,6 @@
       "word": "北京9月1日新增1例本土确诊",
       "onboard_time": 1662080125,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 397412,
-      "num": 397412,
-      "word": "男子因发量不符识破换脸艳照",
-      "onboard_time": 1663130617,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -14155,6 +14203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 353998,
+      "num": 353998,
+      "word": "杜华带吴宣仪胡春杨录节目",
+      "onboard_time": 1663134328,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 353613,
       "num": 351515,
       "word": "脱口秀天花板pk好刺激",
@@ -15281,14 +15337,6 @@
       "onboard_time": 1662560731,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 323000,
-      "num": 323000,
-      "word": "羊了个羊 抄袭",
-      "onboard_time": 1663131276,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 322855,
@@ -19995,6 +20043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 235579,
+      "num": 235579,
+      "word": "1岁罕见病男童扛过移植又遇严重排异",
+      "onboard_time": 1663128697,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235559,
       "num": 235559,
       "word": "从没见过这么难卖的鹅",
@@ -21771,14 +21827,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 203713,
-      "num": 203713,
-      "word": "1岁罕见病男童扛过移植又遇严重排异",
-      "onboard_time": 1663128697,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 203559,
       "num": 203559,
       "word": "胰岛素含片或将问世",
@@ -21825,6 +21873,14 @@
       "onboard_time": 1662431966,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202494,
+      "num": 202494,
+      "word": "卡bug加入羊群",
+      "onboard_time": 1663135290,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 202481,
@@ -23073,14 +23129,6 @@
       "onboard_time": 1662102266,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 182616,
-      "num": 182616,
-      "word": "妈妈其实把你养得很好",
-      "onboard_time": 1663131574,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 182520,
@@ -24715,6 +24763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 151797,
+      "num": 151797,
+      "word": "家属叫不出产妇全名护士拒给娃",
+      "onboard_time": 1663135589,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151726,
       "num": 151726,
       "word": "杨戬票房破4亿",
@@ -25323,6 +25379,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 140050,
+      "num": 140050,
+      "word": "长空之王里演员拍戏有多拼",
+      "onboard_time": 1663133131,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 139828,
       "num": 139828,
       "word": "小威无缘美网16强",
@@ -25593,6 +25657,14 @@
       "onboard_time": 1662182246,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134926,
+      "num": 134926,
+      "word": "直击台风梅花影响上海",
+      "onboard_time": 1663134091,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134784,
@@ -27841,6 +27913,14 @@
       "onboard_time": 1663018933,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 13674,
+      "num": 527390,
+      "word": "短片凡心微光",
+      "onboard_time": 1663135229,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13153,
