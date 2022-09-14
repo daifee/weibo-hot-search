@@ -1,0 +1,410 @@
+{
+  "runTime": 1663159845577,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1672710,
+        "num": 1672710,
+        "word": "羊了个羊第三关",
+        "onboard_time": 1663149808,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1100108,
+        "num": 1100108,
+        "word": "台风梅花",
+        "onboard_time": 1663154131,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145762,
+        "num": 1063529,
+        "word": "第九批在韩志愿军烈士将回国",
+        "onboard_time": 1663146629,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1051607,
+        "num": 1051607,
+        "word": "女子花25万成功克隆去世宠物狗",
+        "onboard_time": 1663157852,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 988582,
+        "num": 988582,
+        "word": "上海今日全市暂停开放景观照明",
+        "onboard_time": 1663155389,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 728834,
+        "num": 728834,
+        "word": "产妇回应家属不知全名护士拒给娃",
+        "onboard_time": 1663156349,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543966,
+        "num": 543966,
+        "word": "商家月花10万请带货3个月卖出690元",
+        "onboard_time": 1663157371,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525247,
+        "num": 525247,
+        "word": "民警捡回两犬想当警犬结果真是警犬",
+        "onboard_time": 1663154909,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499605,
+        "num": 499605,
+        "word": "18岁小伙文前女友名字去掉需切除",
+        "onboard_time": 1663144528,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412285,
+        "num": 412285,
+        "word": "台风梅花登陆浙江舟山",
+        "onboard_time": 1663156408,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1911122,
+        "num": 397769,
+        "word": "男子袭胸女孩称离婚久了有点冲动",
+        "onboard_time": 1663156830,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 988686,
+        "num": 389874,
+        "word": "王栎鑫删博后道歉",
+        "onboard_time": 1663140268,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 601218,
+        "num": 386703,
+        "word": "羊了个羊 抄袭",
+        "onboard_time": 1663131276,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 379068,
+        "num": 379068,
+        "word": "罚罪",
+        "onboard_time": 1663158812,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 40481,
+        "num": 378552,
+        "word": "康辉的vlog上新了",
+        "onboard_time": 1663157130,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402518,
+        "num": 378536,
+        "word": "羊了个羊",
+        "onboard_time": 1663116150,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 378514,
+        "num": 378514,
+        "word": "女子称保姆掌掴1岁宝宝强喂辣椒",
+        "onboard_time": 1663149268,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 361391,
+        "num": 361391,
+        "word": "赵丽颖刘诗诗Angelababy金九封面",
+        "onboard_time": 1663140629,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 366190,
+        "num": 355939,
+        "word": "羊了个羊通关率不到0.1%",
+        "onboard_time": 1663143751,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 350128,
+        "num": 350128,
+        "word": "北京已有6名感染者到过民航总医院",
+        "onboard_time": 1663150830,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337782,
+        "num": 337782,
+        "word": "研究称一口酒足以永久改变大脑",
+        "onboard_time": 1663148066,
+        "rank": 20,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 337705,
+        "num": 337705,
+        "word": "陈晓唯一的古装存货",
+        "onboard_time": 1663155631,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309319,
+        "num": 309319,
+        "word": "中方回应是否派员出席英女王国葬",
+        "onboard_time": 1663148309,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308541,
+        "num": 308541,
+        "word": "王鹤棣新剧状态",
+        "onboard_time": 1663158092,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301877,
+        "num": 301877,
+        "word": "什么叫天生反骨",
+        "onboard_time": 1663147589,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 289432,
+        "num": 289432,
+        "word": "女子上班快迟到陌生阿姨送到地铁口",
+        "onboard_time": 1663146809,
+        "rank": 25,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 288690,
+        "num": 288690,
+        "word": "马尼拉",
+        "onboard_time": 1663157791,
+        "rank": 26,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 254162,
+        "num": 254162,
+        "word": "羊了个羊为何突然爆火",
+        "onboard_time": 1663154131,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 239503,
+        "num": 239503,
+        "word": "明天苏州可弹性上下学",
+        "onboard_time": 1663158633,
+        "rank": 28,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 235553,
+        "num": 235553,
+        "word": "朝阳大妈说当全职太太很危险",
+        "onboard_time": 1663156048,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 294526,
+        "num": 233111,
+        "word": "iPhone15或使用台积电3nm芯片",
+        "onboard_time": 1663142309,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 227148,
+        "num": 227148,
+        "word": "五年前的告白被回应了",
+        "onboard_time": 1663144528,
+        "rank": 31,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 219765,
+        "num": 219765,
+        "word": "黄景瑜说我就是赵五儿",
+        "onboard_time": 1663153588,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196802,
+        "num": 196802,
+        "word": "终于可以实现听歌自由了",
+        "onboard_time": 1663157970,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 213047,
+        "num": 195348,
+        "word": "酸儿辣女是真的吗",
+        "onboard_time": 1663156408,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183281,
+        "num": 183281,
+        "word": "女生在感情里要学会断舍离",
+        "onboard_time": 1663152450,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165433,
+        "num": 165433,
+        "word": "东北姑娘第一次吃折耳根呕了",
+        "onboard_time": 1663146267,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162874,
+        "num": 162874,
+        "word": "你安全吗断更",
+        "onboard_time": 1663150527,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161784,
+        "num": 161784,
+        "word": "张朝阳解释iPhone14碳纤维手机壳不怕摔",
+        "onboard_time": 1663159232,
+        "rank": 38,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 161723,
+        "num": 161723,
+        "word": "四六级考试有多重要",
+        "onboard_time": 1663148728,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 156597,
+        "num": 156597,
+        "word": "羊了个羊真的很烦人",
+        "onboard_time": 1663153890,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133155,
+        "num": 133155,
+        "word": "她们的名字",
+        "onboard_time": 1663157308,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130579,
+        "num": 130579,
+        "word": "心动的信号",
+        "onboard_time": 1663153529,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129854,
+        "num": 129854,
+        "word": "官方回应男子捐书被慈善机构卖出",
+        "onboard_time": 1663151909,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123736,
+        "num": 123736,
+        "word": "张杰 清澈的愚蠢",
+        "onboard_time": 1663148066,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108066,
+        "num": 108066,
+        "word": "上海地铁部分线路今晚21时起停运",
+        "onboard_time": 1663147830,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107046,
+        "num": 107046,
+        "word": "独行月球票房30亿",
+        "onboard_time": 1663150648,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 100060,
+        "num": 100060,
+        "word": "EDG发布处罚公告",
+        "onboard_time": 1663150648,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 97516,
+        "num": 97516,
+        "word": "编剧你看看这些剧情合理吗",
+        "onboard_time": 1663159713,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 86305,
+        "num": 86305,
+        "word": "盲盒除了看还能干嘛",
+        "onboard_time": 1663158512,
+        "rank": 49,
+        "category": "情感,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大前夕最重要的元首外交活动#"
+    }
+  }
+}
