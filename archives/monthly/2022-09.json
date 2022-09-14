@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1663148604013,
+  "endTime": 1663151227489,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -1409,6 +1409,14 @@
       "onboard_time": 1662200246,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2026875,
+      "num": 2026875,
+      "word": "羊了个羊通关率不到0.1%",
+      "onboard_time": 1663143751,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 2024041,
@@ -4411,6 +4419,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1063057,
+      "num": 747907,
+      "word": "什么叫天生反骨",
+      "onboard_time": 1663147589,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1062410,
       "num": 622764,
       "word": "何洛洛北电开学被六公主采访",
@@ -4753,14 +4769,6 @@
       "onboard_time": 1662424830,
       "rank": 3,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1003226,
-      "num": 1003226,
-      "word": "羊了个羊通关率不到0.1%",
-      "onboard_time": 1663143751,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 1002638,
@@ -5483,6 +5491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 922598,
+      "num": 922598,
+      "word": "张杰 清澈的愚蠢",
+      "onboard_time": 1663148066,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 922486,
       "num": 922486,
       "word": "范丞丞进密室被吓到连说51个OK",
@@ -5825,14 +5841,6 @@
       "onboard_time": 1662688111,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 888626,
-      "num": 888626,
-      "word": "张杰 清澈的愚蠢",
-      "onboard_time": 1663148066,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 888186,
@@ -6769,6 +6777,14 @@
       "onboard_time": 1662646113,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 769881,
+      "num": 769881,
+      "word": "中方回应是否派员出席英女王国葬",
+      "onboard_time": 1663148309,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 769449,
@@ -8115,6 +8131,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 635707,
+      "num": 635707,
+      "word": "五年前的告白被回应了",
+      "onboard_time": 1663144528,
+      "rank": 40,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 634398,
       "num": 634398,
       "word": "虞书欣王鹤棣双人快问快答完整版",
@@ -8161,14 +8185,6 @@
       "onboard_time": 1662725128,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 629004,
-      "num": 629004,
-      "word": "五年前的告白被回应了",
-      "onboard_time": 1663144528,
-      "rank": 40,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 627758,
@@ -9331,6 +9347,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 545720,
+      "num": 545720,
+      "word": "研究称一口酒足以永久改变大脑",
+      "onboard_time": 1663148066,
+      "rank": 37,
+      "category": "其它"
+    },
+    {
       "raw_hot": 545625,
       "num": 545625,
       "word": "福建渔民用泥巴击落无人机",
@@ -9979,6 +10003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 509703,
+      "num": 509703,
+      "word": "警方回应保时捷碰撞起火门打不开",
+      "onboard_time": 1663146929,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 509513,
       "num": 509513,
       "word": "RNG与EDG决胜局",
@@ -10225,6 +10257,14 @@
       "onboard_time": 1662690511,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 497153,
+      "num": 497153,
+      "word": "东北姑娘第一次吃折耳根呕了",
+      "onboard_time": 1663146267,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 497060,
@@ -11563,6 +11603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 442341,
+      "num": 442341,
+      "word": "女子上班快迟到陌生阿姨送到地铁口",
+      "onboard_time": 1663146809,
+      "rank": 35,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 442234,
       "num": 442234,
       "word": "杨笠 搞笑女",
@@ -12089,6 +12137,14 @@
       "onboard_time": 1662864213,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 418791,
+      "num": 418791,
+      "word": "王鹤棣人物封面",
+      "onboard_time": 1663149928,
+      "rank": 17,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 418493,
@@ -12683,6 +12739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 401281,
+      "num": 401281,
+      "word": "女子称保姆掌掴1岁宝宝强喂辣椒",
+      "onboard_time": 1663149268,
+      "rank": 18,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 401255,
       "num": 401255,
       "word": "贵阳新增阳性感染者160例",
@@ -13251,14 +13315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 382713,
-      "num": 382713,
-      "word": "什么叫天生反骨",
-      "onboard_time": 1663147589,
-      "rank": 15,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 382633,
       "num": 382633,
       "word": "18岁的大孩子卡头社死又好笑",
@@ -13723,6 +13779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 371524,
+      "num": 371524,
+      "word": "四六级考试有多重要",
+      "onboard_time": 1663148728,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 371367,
       "num": 125921,
       "word": "成都月亮",
@@ -13969,6 +14033,14 @@
       "onboard_time": 1662120027,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 363767,
+      "num": 363767,
+      "word": "上海地铁部分线路今晚21时起停运",
+      "onboard_time": 1663147830,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 363597,
@@ -14299,14 +14371,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 355185,
-      "num": 355185,
-      "word": "东北姑娘第一次吃折耳根呕了",
-      "onboard_time": 1663146267,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 354968,
       "num": 354968,
       "word": "汶川地震被救的孩子在保护泸定了",
@@ -14395,6 +14459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 353870,
+      "num": 353870,
+      "word": "羊了个羊第三关",
+      "onboard_time": 1663149808,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 353613,
       "num": 351515,
       "word": "脱口秀天花板pk好刺激",
@@ -14425,14 +14497,6 @@
       "onboard_time": 1662219868,
       "rank": 19,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 353141,
-      "num": 353141,
-      "word": "警方回应保时捷碰撞起火门打不开",
-      "onboard_time": 1663146929,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 353119,
@@ -16979,6 +17043,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 294219,
+      "num": 294219,
+      "word": "北京已有6名感染者到过民航总医院",
+      "onboard_time": 1663150830,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293786,
       "num": 293786,
       "word": "四川疫情防控",
@@ -17145,14 +17217,6 @@
       "onboard_time": 1662162563,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 291496,
-      "num": 291496,
-      "word": "女子上班快迟到陌生阿姨送到地铁口",
-      "onboard_time": 1663146809,
-      "rank": 35,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 291445,
@@ -17521,6 +17585,14 @@
       "onboard_time": 1662347365,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 286239,
+      "num": 210327,
+      "word": "光遇",
+      "onboard_time": 1662428369,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 286164,
@@ -18187,6 +18259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 274974,
+      "num": 274974,
+      "word": "你安全吗断更",
+      "onboard_time": 1663150527,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 274867,
       "num": 274867,
       "word": "NH金色的雨",
@@ -18465,6 +18545,14 @@
       "onboard_time": 1662220828,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 270278,
+      "num": 270278,
+      "word": "宁波台风",
+      "onboard_time": 1663148667,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 270127,
@@ -21619,14 +21707,6 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 214357,
-      "num": 214357,
-      "word": "上海地铁部分线路今晚21时起停运",
-      "onboard_time": 1663147830,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 214342,
       "num": 214342,
       "word": "jiejie上场",
@@ -21849,14 +21929,6 @@
       "onboard_time": 1662086604,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 210327,
-      "num": 210327,
-      "word": "光遇",
-      "onboard_time": 1662428369,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 210318,
@@ -22121,6 +22193,14 @@
       "onboard_time": 1662269967,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 205341,
+      "num": 205341,
+      "word": "网剧罚罪",
+      "onboard_time": 1663150648,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 205202,
@@ -22563,14 +22643,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 197440,
-      "num": 197440,
-      "word": "研究称一口酒足以永久改变大脑",
-      "onboard_time": 1663148066,
-      "rank": 37,
-      "category": "其它"
-    },
-    {
       "raw_hot": 197248,
       "num": 197248,
       "word": "徐梦洁翻唱彩虹的微笑",
@@ -22705,6 +22777,14 @@
       "onboard_time": 1662449008,
       "rank": 35,
       "category": "综艺,影视"
+    },
+    {
+      "raw_hot": 195244,
+      "num": 195244,
+      "word": "独行月球票房30亿",
+      "onboard_time": 1663150648,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 195184,
@@ -23177,6 +23257,14 @@
       "onboard_time": 1662817425,
       "rank": 48,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 187076,
+      "num": 187076,
+      "word": "新版研究生教育学科专业目录发布",
+      "onboard_time": 1663149208,
+      "rank": 37,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 187055,
@@ -23667,6 +23755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 180405,
+      "num": 180405,
+      "word": "千万不要在雨天社死",
+      "onboard_time": 1663147710,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 179667,
       "num": 179667,
       "word": "后羿与三星堆有什么关系",
@@ -23969,6 +24065,14 @@
       "onboard_time": 1663017072,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171492,
+      "num": 904382,
+      "word": "第九批在韩志愿军烈士将回国",
+      "onboard_time": 1663146629,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 171321,
@@ -24635,14 +24739,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 160863,
-      "num": 160863,
-      "word": "千万不要在雨天社死",
-      "onboard_time": 1663147710,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 160840,
       "num": 160840,
       "word": "左右NG生死战",
@@ -24753,14 +24849,6 @@
       "onboard_time": 1662708388,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 158597,
-      "num": 158597,
-      "word": "中方回应是否派员出席英女王国葬",
-      "onboard_time": 1663148309,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158590,
@@ -24955,6 +25043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 155768,
+      "num": 155768,
+      "word": "EDG发布处罚公告",
+      "onboard_time": 1663150648,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 155687,
       "num": 155687,
       "word": "陈楚生放映室",
@@ -25017,6 +25113,14 @@
       "onboard_time": 1662273686,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 154882,
+      "num": 154882,
+      "word": "顽固肌肉小腿被拿捏了",
+      "onboard_time": 1663151008,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 154753,
@@ -25529,14 +25633,6 @@
       "onboard_time": 1662335184,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 145148,
-      "num": 904382,
-      "word": "第九批在韩志愿军烈士将回国",
-      "onboard_time": 1663146629,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 145098,

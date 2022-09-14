@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663148604013,
+  "endTime": 1663151227489,
   "band_list": [
     {
       "raw_hot": 9835748,
@@ -313,6 +313,14 @@
       "onboard_time": 1663135589,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2026875,
+      "num": 2026875,
+      "word": "羊了个羊通关率不到0.1%",
+      "onboard_time": 1663143751,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 2009557,
@@ -915,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1063057,
+      "num": 747907,
+      "word": "什么叫天生反骨",
+      "onboard_time": 1663147589,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1048579,
       "num": 1048579,
       "word": "女方悔婚拒退彩礼男子挂横幅寻人",
@@ -961,14 +977,6 @@
       "onboard_time": 1663035090,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1003226,
-      "num": 1003226,
-      "word": "羊了个羊通关率不到0.1%",
-      "onboard_time": 1663143751,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 1002638,
@@ -1059,6 +1067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 922598,
+      "num": 922598,
+      "word": "张杰 清澈的愚蠢",
+      "onboard_time": 1663148066,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 922134,
       "num": 922134,
       "word": "浮图缘",
@@ -1113,14 +1129,6 @@
       "onboard_time": 1663034613,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 888626,
-      "num": 888626,
-      "word": "张杰 清澈的愚蠢",
-      "onboard_time": 1663148066,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 888186,
@@ -1321,6 +1329,14 @@
       "onboard_time": 1663137387,
       "rank": 5,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 769881,
+      "num": 769881,
+      "word": "中方回应是否派员出席英女王国葬",
+      "onboard_time": 1663148309,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 769269,
@@ -1563,20 +1579,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 635707,
+      "num": 635707,
+      "word": "五年前的告白被回应了",
+      "onboard_time": 1663144528,
+      "rank": 40,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 632676,
       "num": 632676,
       "word": "女孩基因突变最快48秒睡着",
       "onboard_time": 1662893443,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 629004,
-      "num": 629004,
-      "word": "五年前的告白被回应了",
-      "onboard_time": 1663144528,
-      "rank": 40,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 626912,
@@ -1771,6 +1787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 545720,
+      "num": 545720,
+      "word": "研究称一口酒足以永久改变大脑",
+      "onboard_time": 1663148066,
+      "rank": 37,
+      "category": "其它"
+    },
+    {
       "raw_hot": 545353,
       "num": 545353,
       "word": "金丝猴吃葡萄一口一颗不忘剥皮",
@@ -1955,6 +1979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 509703,
+      "num": 509703,
+      "word": "警方回应保时捷碰撞起火门打不开",
+      "onboard_time": 1663146929,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 508308,
       "num": 508308,
       "word": "塞尔达传说王国之泪",
@@ -2009,6 +2041,14 @@
       "onboard_time": 1663118011,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 497153,
+      "num": 497153,
+      "word": "东北姑娘第一次吃折耳根呕了",
+      "onboard_time": 1663146267,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 495644,
@@ -2299,6 +2339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 442341,
+      "num": 442341,
+      "word": "女子上班快迟到陌生阿姨送到地铁口",
+      "onboard_time": 1663146809,
+      "rank": 35,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 442234,
       "num": 442234,
       "word": "杨笠 搞笑女",
@@ -2369,6 +2417,14 @@
       "onboard_time": 1662953194,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 418791,
+      "num": 418791,
+      "word": "王鹤棣人物封面",
+      "onboard_time": 1663149928,
+      "rank": 17,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 417395,
@@ -2475,6 +2531,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 401281,
+      "num": 401281,
+      "word": "女子称保姆掌掴1岁宝宝强喂辣椒",
+      "onboard_time": 1663149268,
+      "rank": 18,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 400245,
       "num": 400245,
       "word": "女子拖行李箱离厂遭保安拖拽开箱",
@@ -2537,14 +2601,6 @@
       "onboard_time": 1662981578,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 382713,
-      "num": 382713,
-      "word": "什么叫天生反骨",
-      "onboard_time": 1663147589,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 382274,
@@ -2643,6 +2699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 371524,
+      "num": 371524,
+      "word": "四六级考试有多重要",
+      "onboard_time": 1663148728,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 370451,
       "num": 370451,
       "word": "害羞到不知所措的狗狗",
@@ -2665,6 +2729,14 @@
       "onboard_time": 1662984396,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 363767,
+      "num": 363767,
+      "word": "上海地铁部分线路今晚21时起停运",
+      "onboard_time": 1663147830,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 363531,
@@ -2723,14 +2795,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 355185,
-      "num": 355185,
-      "word": "东北姑娘第一次吃折耳根呕了",
-      "onboard_time": 1663146267,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 354397,
       "num": 354397,
       "word": "经销商预计iPhone14Pro溢价千元左右",
@@ -2747,20 +2811,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 353870,
+      "num": 353870,
+      "word": "羊了个羊第三关",
+      "onboard_time": 1663149808,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 353613,
       "num": 351515,
       "word": "脱口秀天花板pk好刺激",
       "onboard_time": 1663071630,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 353141,
-      "num": 353141,
-      "word": "警方回应保时捷碰撞起火门打不开",
-      "onboard_time": 1663146929,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 351726,
@@ -3251,6 +3315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 294219,
+      "num": 294219,
+      "word": "北京已有6名感染者到过民航总医院",
+      "onboard_time": 1663150830,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293599,
       "num": 268746,
       "word": "心动的信号",
@@ -3289,14 +3361,6 @@
       "onboard_time": 1663001844,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 291496,
-      "num": 291496,
-      "word": "女子上班快迟到陌生阿姨送到地铁口",
-      "onboard_time": 1663146809,
-      "rank": 35,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 289184,
@@ -3361,6 +3425,14 @@
       "onboard_time": 1663042236,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 286239,
+      "num": 158003,
+      "word": "光遇",
+      "onboard_time": 1663151189,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 286164,
@@ -3451,6 +3523,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 274974,
+      "num": 274974,
+      "word": "你安全吗断更",
+      "onboard_time": 1663150527,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 273872,
       "num": 138255,
       "word": "见面吧就现在",
@@ -3480,6 +3560,14 @@
       "word": "小偷走路嗑瓜子民警顺瓜子皮抓人",
       "onboard_time": 1662946057,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270278,
+      "num": 270278,
+      "word": "宁波台风",
+      "onboard_time": 1663148667,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -4099,14 +4187,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 214357,
-      "num": 214357,
-      "word": "上海地铁部分线路今晚21时起停运",
-      "onboard_time": 1663147830,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 214300,
       "num": 214300,
       "word": "航天员吃到了在太空种的生菜",
@@ -4209,6 +4289,14 @@
       "onboard_time": 1663047879,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 205341,
+      "num": 205341,
+      "word": "网剧罚罪",
+      "onboard_time": 1663150648,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 203135,
@@ -4315,14 +4403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 197440,
-      "num": 197440,
-      "word": "研究称一口酒足以永久改变大脑",
-      "onboard_time": 1663148066,
-      "rank": 37,
-      "category": "其它"
-    },
-    {
       "raw_hot": 196493,
       "num": 196493,
       "word": "官方辟谣济宁隔离人员在菏泽住羊圈",
@@ -4337,6 +4417,14 @@
       "onboard_time": 1663129656,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195244,
+      "num": 195244,
+      "word": "独行月球票房30亿",
+      "onboard_time": 1663150648,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 195181,
@@ -4443,6 +4531,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 187076,
+      "num": 187076,
+      "word": "新版研究生教育学科专业目录发布",
+      "onboard_time": 1663149208,
+      "rank": 37,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 187055,
       "num": 187055,
       "word": "警犬协助缴获毒品23公斤",
@@ -4515,6 +4611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 180405,
+      "num": 180405,
+      "word": "千万不要在雨天社死",
+      "onboard_time": 1663147710,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 176888,
       "num": 207391,
       "word": "山东新增本土确诊10例无症状35例",
@@ -4553,6 +4657,14 @@
       "onboard_time": 1663017072,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171492,
+      "num": 904382,
+      "word": "第九批在韩志愿军烈士将回国",
+      "onboard_time": 1663146629,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 171318,
@@ -4659,28 +4771,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 160863,
-      "num": 160863,
-      "word": "千万不要在雨天社死",
-      "onboard_time": 1663147710,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 159200,
       "num": 159200,
       "word": "阴阳师",
       "onboard_time": 1663026029,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 158597,
-      "num": 158597,
-      "word": "中方回应是否派员出席英女王国葬",
-      "onboard_time": 1663148309,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 157737,
@@ -4705,6 +4801,22 @@
       "onboard_time": 1663124790,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 155768,
+      "num": 155768,
+      "word": "EDG发布处罚公告",
+      "onboard_time": 1663150648,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 154882,
+      "num": 154882,
+      "word": "顽固肌肉小腿被拿捏了",
+      "onboard_time": 1663151008,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 154482,
@@ -4761,14 +4873,6 @@
       "onboard_time": 1663116571,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 145148,
-      "num": 904382,
-      "word": "第九批在韩志愿军烈士将回国",
-      "onboard_time": 1663146629,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 145011,

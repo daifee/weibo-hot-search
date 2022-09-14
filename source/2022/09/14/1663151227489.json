@@ -1,0 +1,410 @@
+{
+  "runTime": 1663151227489,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2026875,
+        "num": 2026875,
+        "word": "羊了个羊通关率不到0.1%",
+        "onboard_time": 1663143751,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 922598,
+        "num": 922598,
+        "word": "张杰 清澈的愚蠢",
+        "onboard_time": 1663148066,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171492,
+        "num": 773153,
+        "word": "第九批在韩志愿军烈士将回国",
+        "onboard_time": 1663146629,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1115247,
+        "num": 773031,
+        "word": "18岁小伙文前女友名字去掉需切除",
+        "onboard_time": 1663144528,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 769881,
+        "num": 769881,
+        "word": "中方回应是否派员出席英女王国葬",
+        "onboard_time": 1663148309,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1063057,
+        "num": 747907,
+        "word": "什么叫天生反骨",
+        "onboard_time": 1663147589,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 635707,
+        "num": 635707,
+        "word": "五年前的告白被回应了",
+        "onboard_time": 1663144528,
+        "rank": 6,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 545720,
+        "num": 545720,
+        "word": "研究称一口酒足以永久改变大脑",
+        "onboard_time": 1663148066,
+        "rank": 7,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 539837,
+        "num": 539837,
+        "word": "家属叫不出产妇全名护士拒给娃",
+        "onboard_time": 1663135589,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509703,
+        "num": 509703,
+        "word": "警方回应保时捷碰撞起火门打不开",
+        "onboard_time": 1663146929,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1831933,
+        "num": 507830,
+        "word": "王栎鑫删博后道歉",
+        "onboard_time": 1663140268,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1341785,
+        "num": 507687,
+        "word": "羊了个羊 抄袭",
+        "onboard_time": 1663131276,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 544418,
+        "num": 507458,
+        "word": "羊了个羊",
+        "onboard_time": 1663116150,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 497153,
+        "num": 497153,
+        "word": "东北姑娘第一次吃折耳根呕了",
+        "onboard_time": 1663146267,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458696,
+        "num": 458696,
+        "word": "赵丽颖刘诗诗Angelababy金九封面",
+        "onboard_time": 1663140629,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 456995,
+        "num": 456995,
+        "word": "羊了个羊急招后端开发",
+        "onboard_time": 1663139368,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 442341,
+        "num": 442341,
+        "word": "女子上班快迟到陌生阿姨送到地铁口",
+        "onboard_time": 1663146809,
+        "rank": 16,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 418791,
+        "num": 418791,
+        "word": "王鹤棣人物封面",
+        "onboard_time": 1663149928,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 401281,
+        "num": 401281,
+        "word": "女子称保姆掌掴1岁宝宝强喂辣椒",
+        "onboard_time": 1663149268,
+        "rank": 18,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 371524,
+        "num": 371524,
+        "word": "四六级考试有多重要",
+        "onboard_time": 1663148728,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 363767,
+        "num": 363767,
+        "word": "上海地铁部分线路今晚21时起停运",
+        "onboard_time": 1663147830,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353870,
+        "num": 353870,
+        "word": "羊了个羊第三关",
+        "onboard_time": 1663149808,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 350511,
+        "num": 350511,
+        "word": "宋妍霏婚纱配球鞋造型",
+        "onboard_time": 1663144170,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 314033,
+        "num": 314033,
+        "word": "陈晓毛晓彤云襄传将定档",
+        "onboard_time": 1663145369,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 310045,
+        "num": 310045,
+        "word": "敦煌考古编制岗位无人问津",
+        "onboard_time": 1663137687,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 294219,
+        "num": 294219,
+        "word": "北京已有6名感染者到过民航总医院",
+        "onboard_time": 1663150830,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294179,
+        "num": 294179,
+        "word": "妈妈其实把你养得很好",
+        "onboard_time": 1663131574,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 274974,
+        "num": 274974,
+        "word": "你安全吗断更",
+        "onboard_time": 1663150527,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 270278,
+        "num": 270278,
+        "word": "宁波台风",
+        "onboard_time": 1663148667,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210997,
+        "num": 210997,
+        "word": "解放军20分钟在长江架起一座桥",
+        "onboard_time": 1663137387,
+        "rank": 29,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 663424,
+        "num": 208629,
+        "word": "iPhone15或使用台积电3nm芯片",
+        "onboard_time": 1663142309,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 205341,
+        "num": 205341,
+        "word": "网剧罚罪",
+        "onboard_time": 1663150648,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197276,
+        "num": 197276,
+        "word": "开美甲店的阿姨接待儿子朋友",
+        "onboard_time": 1663141650,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196281,
+        "num": 196281,
+        "word": "Gemini妲己辣舞cos",
+        "onboard_time": 1663146746,
+        "rank": 33,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 195244,
+        "num": 195244,
+        "word": "独行月球票房30亿",
+        "onboard_time": 1663150648,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193381,
+        "num": 193381,
+        "word": "爱奇艺古装剧存货",
+        "onboard_time": 1663137146,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190203,
+        "num": 190203,
+        "word": "雷军卸任小米电子软件公司董事长",
+        "onboard_time": 1663139490,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 187076,
+        "num": 187076,
+        "word": "新版研究生教育学科专业目录发布",
+        "onboard_time": 1663149208,
+        "rank": 37,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 184669,
+        "num": 184669,
+        "word": "唐嫣初秋毛衣随拍",
+        "onboard_time": 1663145969,
+        "rank": 38,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 180405,
+        "num": 180405,
+        "word": "千万不要在雨天社死",
+        "onboard_time": 1663147710,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178002,
+        "num": 178002,
+        "word": "成都中华锦绣罗艳",
+        "onboard_time": 1663139847,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177471,
+        "num": 177471,
+        "word": "72岁奶奶跳湖救回轻生女孩",
+        "onboard_time": 1663141050,
+        "rank": 41,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 174846,
+        "num": 174846,
+        "word": "天津一小伙给家养小猪喂螃蟹海鲜",
+        "onboard_time": 1663145730,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173398,
+        "num": 173398,
+        "word": "羊了个羊否认抄袭",
+        "onboard_time": 1663148246,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162931,
+        "num": 162931,
+        "word": "羊了个羊 卡bug过关",
+        "onboard_time": 1663144591,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162520,
+        "num": 162520,
+        "word": "B站诉争哔哩哔哩商标被驳回",
+        "onboard_time": 1663130975,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 158637,
+        "num": 158637,
+        "word": "新英雄海月即将上线",
+        "onboard_time": 1663142548,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 286239,
+        "num": 158003,
+        "word": "光遇",
+        "onboard_time": 1663151189,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155768,
+        "num": 155768,
+        "word": "EDG发布处罚公告",
+        "onboard_time": 1663150648,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154882,
+        "num": 154882,
+        "word": "顽固肌肉小腿被拿捏了",
+        "onboard_time": 1663151008,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国跨度#"
+    }
+  }
+}
