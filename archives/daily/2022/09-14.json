@@ -1,6 +1,6 @@
 {
   "startTime": 1663086802432,
-  "endTime": 1663145342689,
+  "endTime": 1663147553489,
   "band_list": [
     {
       "raw_hot": 9835748,
@@ -91,6 +91,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1812075,
+      "num": 668771,
+      "word": "18岁小伙文前女友名字去掉需切除",
+      "onboard_time": 1663144528,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1518132,
       "num": 1518132,
       "word": "B站诉争哔哩哔哩商标被驳回",
@@ -119,6 +127,14 @@
       "num": 1303393,
       "word": "苹果承认将增加系统广告",
       "onboard_time": 1663119328,
+      "rank": 4,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 1295662,
+      "num": 1162515,
+      "word": "iPhone15或使用台积电3nm芯片",
+      "onboard_time": 1663142309,
       "rank": 4,
       "category": "科技"
     },
@@ -153,14 +169,6 @@
       "onboard_time": 1663130617,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1162515,
-      "num": 1162515,
-      "word": "iPhone15或使用台积电3nm芯片",
-      "onboard_time": 1663142309,
-      "rank": 4,
-      "category": "科技"
     },
     {
       "raw_hot": 1162488,
@@ -419,6 +427,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 620078,
+      "num": 620078,
+      "word": "羊了个羊通关率不到0.1%",
+      "onboard_time": 1663143751,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 619416,
       "num": 619416,
       "word": "妈妈带宝宝看猩猩反被围观",
@@ -473,6 +489,14 @@
       "onboard_time": 1663127194,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 527041,
+      "num": 527041,
+      "word": "五年前的告白被回应了",
+      "onboard_time": 1663144528,
+      "rank": 40,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 509999,
@@ -555,14 +579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 416680,
-      "num": 416680,
-      "word": "18岁小伙文前女友名字去掉需切除",
-      "onboard_time": 1663144528,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 415988,
       "num": 415988,
       "word": "2022下半年英语四六级报名",
@@ -601,6 +617,14 @@
       "onboard_time": 1663099631,
       "rank": 29,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 400563,
+      "num": 385093,
+      "word": "宋妍霏婚纱配球鞋造型",
+      "onboard_time": 1663144170,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 400245,
@@ -675,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 331702,
+      "num": 331702,
+      "word": "新英雄海月即将上线",
+      "onboard_time": 1663142548,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 325993,
       "num": 325993,
       "word": "广西一水库放生有害鱼种清道夫",
@@ -729,6 +761,14 @@
       "onboard_time": 1663128637,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 302349,
+      "num": 302349,
+      "word": "陈晓毛晓彤云襄传将定档",
+      "onboard_time": 1663145369,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 300669,
@@ -795,22 +835,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 278196,
-      "num": 278196,
-      "word": "羊了个羊通关率不到0.1%",
-      "onboard_time": 1663143751,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 277948,
-      "num": 277948,
-      "word": "宋妍霏婚纱配球鞋造型",
-      "onboard_time": 1663144170,
-      "rank": 41,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 277468,
       "num": 277468,
       "word": "新川日常上房皆哇版海报",
@@ -851,12 +875,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253018,
+      "num": 253018,
+      "word": "天津一小伙给家养小猪喂螃蟹海鲜",
+      "onboard_time": 1663145730,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252609,
       "num": 252609,
       "word": "9月13日新增本土无症状762例",
       "onboard_time": 1663122089,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251185,
+      "num": 251185,
+      "word": "唐嫣初秋毛衣随拍",
+      "onboard_time": 1663145969,
+      "rank": 23,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 248227,
@@ -881,6 +921,14 @@
       "onboard_time": 1663081240,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 240029,
+      "num": 240029,
+      "word": "东北姑娘第一次吃折耳根呕了",
+      "onboard_time": 1663146267,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 236468,
@@ -921,6 +969,14 @@
       "onboard_time": 1663116692,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 232100,
+      "num": 232100,
+      "word": "Gemini妲己辣舞cos",
+      "onboard_time": 1663146746,
+      "rank": 30,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 229460,
@@ -1035,12 +1091,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 205378,
-      "num": 205378,
-      "word": "新英雄海月即将上线",
-      "onboard_time": 1663142548,
+      "raw_hot": 201739,
+      "num": 201739,
+      "word": "女子上班快迟到陌生阿姨送到地铁口",
+      "onboard_time": 1663146809,
       "rank": 35,
-      "category": "游戏"
+      "category": "社会正能量"
     },
     {
       "raw_hot": 201562,
@@ -1113,6 +1169,14 @@
       "onboard_time": 1663080224,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 192207,
+      "num": 192207,
+      "word": "警方回应保时捷碰撞起火门打不开",
+      "onboard_time": 1663146929,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190412,
@@ -1249,14 +1313,6 @@
       "onboard_time": 1663122089,
       "rank": 46,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 158585,
-      "num": 158585,
-      "word": "五年前的告白被回应了",
-      "onboard_time": 1663144528,
-      "rank": 40,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 155825,
@@ -1401,6 +1457,14 @@
       "onboard_time": 1663135829,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 108854,
+      "num": 713576,
+      "word": "第九批在韩志愿军烈士将回国",
+      "onboard_time": 1663146629,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 108853,
