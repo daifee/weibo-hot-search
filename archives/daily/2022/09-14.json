@@ -1,6 +1,6 @@
 {
   "startTime": 1663086802432,
-  "endTime": 1663166748184,
+  "endTime": 1663169180976,
   "band_list": [
     {
       "raw_hot": 9835748,
@@ -51,7 +51,15 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 2278076,
+      "raw_hot": 2787752,
+      "num": 2787752,
+      "word": "钟文泽",
+      "onboard_time": 1663162474,
+      "rank": 15,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 2387415,
       "num": 1335834,
       "word": "女子洗澡时虫子从花洒蠕动爬出",
       "onboard_time": 1663164215,
@@ -137,14 +145,6 @@
       "onboard_time": 1663144528,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1649633,
-      "num": 1649633,
-      "word": "钟文泽",
-      "onboard_time": 1663162474,
-      "rank": 15,
-      "category": "科技"
     },
     {
       "raw_hot": 1518132,
@@ -305,6 +305,14 @@
       "onboard_time": 1663117053,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1072153,
+      "num": 1072153,
+      "word": "爱奇艺热度值破万的剧集",
+      "onboard_time": 1663166017,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 1063057,
@@ -563,12 +571,12 @@
       "category": "其它"
     },
     {
-      "raw_hot": 687540,
-      "num": 687540,
-      "word": "爱奇艺热度值破万的剧集",
-      "onboard_time": 1663166017,
-      "rank": 9,
-      "category": "影视"
+      "raw_hot": 691431,
+      "num": 691431,
+      "word": "奶茶溅入电脑显示屏致蚂蚁筑巢",
+      "onboard_time": 1663167093,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 685967,
@@ -617,6 +625,14 @@
       "onboard_time": 1663134211,
       "rank": 16,
       "category": "科技"
+    },
+    {
+      "raw_hot": 649572,
+      "num": 649572,
+      "word": "韩剧现偶男主角人设天花板",
+      "onboard_time": 1663167877,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 635707,
@@ -691,6 +707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 559591,
+      "num": 469718,
+      "word": "网传请君明日开播",
+      "onboard_time": 1663167758,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 539521,
       "num": 539521,
       "word": "张杰是我看脱口秀大会的嘴替",
@@ -761,6 +785,14 @@
       "onboard_time": 1663146267,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 492693,
+      "num": 492693,
+      "word": "羊了个羊为何突然爆火",
+      "onboard_time": 1663154131,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 486846,
@@ -857,6 +889,14 @@
       "onboard_time": 1663121550,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 419367,
+      "num": 419367,
+      "word": "iPhone14与Pro该怎么选",
+      "onboard_time": 1663166076,
+      "rank": 41,
+      "category": "科技"
     },
     {
       "raw_hot": 419231,
@@ -995,20 +1035,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 357901,
+      "num": 357901,
+      "word": "小男孩在幼儿园坦然展示假肢",
+      "onboard_time": 1663166675,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 353998,
       "num": 353998,
       "word": "杜华带吴宣仪胡春杨录节目",
       "onboard_time": 1663134328,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 347366,
-      "num": 347366,
-      "word": "羊了个羊为何突然爆火",
-      "onboard_time": 1663154131,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 341432,
@@ -1032,6 +1072,14 @@
       "word": "杭州台风",
       "onboard_time": 1663138768,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 336299,
+      "num": 336299,
+      "word": "女子用高度白酒腌螃蟹醉晕老公",
+      "onboard_time": 1663167339,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -1099,6 +1147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 319332,
+      "num": 319332,
+      "word": "58岁自驾阿姨苏敏决定离婚",
+      "onboard_time": 1663167938,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 318845,
       "num": 318845,
       "word": "上海一公园被指摆放日本人雕塑群",
@@ -1113,6 +1169,14 @@
       "onboard_time": 1663129356,
       "rank": 29,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 317155,
+      "num": 317155,
+      "word": "百万退休金买兴业银行理财血本无归",
+      "onboard_time": 1663167636,
+      "rank": 26,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 313887,
@@ -1571,6 +1635,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 211202,
+      "num": 211202,
+      "word": "AirPods Pro 2 值得买吗",
+      "onboard_time": 1663168655,
+      "rank": 35,
+      "category": "科技"
+    },
+    {
       "raw_hot": 210444,
       "num": 210444,
       "word": "高三生3小时吃4片止痛药肾衰竭",
@@ -1609,6 +1681,14 @@
       "onboard_time": 1663071334,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200873,
+      "num": 200873,
+      "word": "广州放宽限价政策",
+      "onboard_time": 1663165475,
+      "rank": 48,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 200584,
@@ -1675,20 +1755,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 190798,
-      "num": 190798,
-      "word": "iPhone14与Pro该怎么选",
-      "onboard_time": 1663166076,
-      "rank": 41,
-      "category": "科技"
-    },
-    {
       "raw_hot": 190412,
       "num": 524690,
       "word": "原神 得物",
       "onboard_time": 1663131634,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 189891,
+      "num": 189891,
+      "word": "摆烂式爱情真的会更长久吗",
+      "onboard_time": 1663168717,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 188305,
@@ -1745,14 +1825,6 @@
       "onboard_time": 1663140145,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 175639,
-      "num": 175639,
-      "word": "广州放宽限价政策",
-      "onboard_time": 1663165475,
-      "rank": 48,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 172867,
@@ -1923,14 +1995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 140408,
-      "num": 140408,
-      "word": "小男孩在幼儿园坦然展示假肢",
-      "onboard_time": 1663166675,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 140050,
       "num": 140050,
       "word": "长空之王里演员拍戏有多拼",
@@ -1961,6 +2025,14 @@
       "onboard_time": 1663141531,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138757,
+      "num": 138757,
+      "word": "陈宇说禁毒警是他对毒的态度",
+      "onboard_time": 1663166917,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 137315,
