@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663141766336,
+  "endTime": 1663144235204,
   "band_list": [
     {
       "raw_hot": 9835748,
@@ -185,6 +185,14 @@
       "onboard_time": 1662981639,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2824388,
+      "num": 1014190,
+      "word": "张翰的肚子",
+      "onboard_time": 1663143088,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 2795880,
@@ -883,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1056243,
+      "num": 1056243,
+      "word": "羊了个羊急招后端开发",
+      "onboard_time": 1663139368,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1048579,
       "num": 1048579,
       "word": "女方悔婚拒退彩礼男子挂横幅寻人",
@@ -947,6 +963,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 995796,
+      "num": 995796,
+      "word": "iPhone15或使用台积电3nm芯片",
+      "onboard_time": 1663142309,
+      "rank": 4,
+      "category": "科技"
+    },
+    {
       "raw_hot": 989245,
       "num": 989245,
       "word": "蒙古国草原火蔓延至我国边境呼伦贝尔",
@@ -1001,6 +1025,14 @@
       "onboard_time": 1663049075,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 928567,
+      "num": 928567,
+      "word": "雷军卸任小米电子软件公司董事长",
+      "onboard_time": 1663139490,
+      "rank": 9,
+      "category": "科技"
     },
     {
       "raw_hot": 926482,
@@ -1091,6 +1123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 868766,
+      "num": 526268,
+      "word": "赵丽颖刘诗诗Angelababy金九封面",
+      "onboard_time": 1663140629,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 867319,
       "num": 867319,
       "word": "山东21岁女孩离世捐器官救7人",
@@ -1105,14 +1145,6 @@
       "onboard_time": 1663050394,
       "rank": 33,
       "category": "军事,国外要闻"
-    },
-    {
-      "raw_hot": 857925,
-      "num": 526268,
-      "word": "赵丽颖刘诗诗Angelababy金九封面",
-      "onboard_time": 1663140629,
-      "rank": 12,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 855539,
@@ -1177,14 +1209,6 @@
       "onboard_time": 1663062937,
       "rank": 11,
       "category": "其它"
-    },
-    {
-      "raw_hot": 821115,
-      "num": 821115,
-      "word": "雷军卸任小米电子软件公司董事长",
-      "onboard_time": 1663139490,
-      "rank": 9,
-      "category": "科技"
     },
     {
       "raw_hot": 812485,
@@ -2027,6 +2051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 470952,
+      "num": 470952,
+      "word": "王鹤棣上部剧本座这部剧奴才",
+      "onboard_time": 1663143990,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 469840,
       "num": 469840,
       "word": "北京地铁采取人工核验方式进站",
@@ -2233,6 +2265,14 @@
       "onboard_time": 1663060236,
       "rank": 23,
       "category": "科技"
+    },
+    {
+      "raw_hot": 431081,
+      "num": 431081,
+      "word": "开美甲店的阿姨接待儿子朋友",
+      "onboard_time": 1663141650,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 429832,
@@ -2489,6 +2529,14 @@
       "onboard_time": 1663049075,
       "rank": 22,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 375415,
+      "num": 375415,
+      "word": "男子捕杀狗獾当众剥皮宰杀",
+      "onboard_time": 1663139607,
+      "rank": 27,
+      "category": "社会负面"
     },
     {
       "raw_hot": 375368,
@@ -2755,6 +2803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 336310,
+      "num": 336310,
+      "word": "杭州台风",
+      "onboard_time": 1663138768,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 335653,
       "num": 298179,
       "word": "走进Q学",
@@ -2849,14 +2905,6 @@
       "onboard_time": 1663115251,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 325793,
-      "num": 325793,
-      "word": "羊了个羊急招后端开发",
-      "onboard_time": 1663139368,
-      "rank": 25,
-      "category": "游戏"
     },
     {
       "raw_hot": 325264,
@@ -3075,28 +3123,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 299850,
-      "num": 299850,
-      "word": "杭州台风",
-      "onboard_time": 1663138768,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 299808,
       "num": 299808,
       "word": "北京新增16例本土感染者均为隔离观察人员",
       "onboard_time": 1663060055,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 299539,
-      "num": 299539,
-      "word": "男子捕杀狗獾当众剥皮宰杀",
-      "onboard_time": 1663139607,
-      "rank": 27,
-      "category": "社会负面"
     },
     {
       "raw_hot": 299228,
@@ -3241,6 +3273,14 @@
       "onboard_time": 1663128395,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 281750,
+      "num": 281750,
+      "word": "男子打拼10年养鸡2000万只",
+      "onboard_time": 1663141531,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 281676,
@@ -3675,6 +3715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235102,
+      "num": 235102,
+      "word": "山东三支一扶",
+      "onboard_time": 1663142428,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 233988,
       "num": 233988,
       "word": "电视剧野蛮生长",
@@ -3795,14 +3843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 225747,
-      "num": 225747,
-      "word": "男子打拼10年养鸡2000万只",
-      "onboard_time": 1663141531,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 225556,
       "num": 225556,
       "word": "杨超越喜欢看直播卖爸爸衫",
@@ -3857,6 +3897,14 @@
       "onboard_time": 1662948395,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218744,
+      "num": 218744,
+      "word": "72岁奶奶跳湖救回轻生女孩",
+      "onboard_time": 1663141050,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 218521,
@@ -4059,6 +4107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 201552,
+      "num": 201552,
+      "word": "羊了个羊通关率不到0.1%",
+      "onboard_time": 1663143751,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 201532,
       "num": 120671,
       "word": "苍兰诀",
@@ -4227,6 +4283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 188305,
+      "num": 188305,
+      "word": "陈奕迅冷门歌曲你听过多少",
+      "onboard_time": 1663138528,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 187055,
       "num": 187055,
       "word": "警犬协助缴获毒品23公斤",
@@ -4267,6 +4331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 181894,
+      "num": 181894,
+      "word": "蔡徐坤沸腾校园全黑造型路透",
+      "onboard_time": 1663143811,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 181872,
       "num": 181872,
       "word": "乐高有多解压",
@@ -4305,6 +4377,14 @@
       "onboard_time": 1663140145,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 175770,
+      "num": 175770,
+      "word": "新英雄海月即将上线",
+      "onboard_time": 1663142548,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 172867,
@@ -4395,6 +4475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 164413,
+      "num": 164413,
+      "word": "路人视角下的王嘉尔海外人气",
+      "onboard_time": 1663142189,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 164251,
       "num": 164251,
       "word": "北京9月11日新增15例本土确诊",
@@ -4409,6 +4497,14 @@
       "onboard_time": 1663111285,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162501,
+      "num": 162501,
+      "word": "宋妍霏婚纱配球鞋造型",
+      "onboard_time": 1663144170,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 161668,
@@ -4579,12 +4675,12 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 139175,
-      "num": 139175,
-      "word": "陈奕迅冷门歌曲你听过多少",
-      "onboard_time": 1663138528,
-      "rank": 45,
-      "category": "音乐"
+      "raw_hot": 139219,
+      "num": 139219,
+      "word": "流浪猫帮我找回了原住民",
+      "onboard_time": 1663141531,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 135393,
@@ -4627,22 +4723,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 132002,
-      "num": 132002,
-      "word": "开美甲店的阿姨接待儿子朋友",
-      "onboard_time": 1663141650,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 130431,
-      "num": 130431,
-      "word": "流浪猫帮我找回了原住民",
-      "onboard_time": 1663141531,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 130215,
       "num": 130215,
       "word": "不顾女儿劝阻他冲去帮货车灭火",
@@ -4673,14 +4753,6 @@
       "onboard_time": 1663054652,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 121625,
-      "num": 121625,
-      "word": "72岁奶奶跳湖救回轻生女孩",
-      "onboard_time": 1663141050,
-      "rank": 49,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 120178,
@@ -5211,6 +5283,9 @@
     },
     {
       "word": "#中国跨度#"
+    },
+    {
+      "word": "#重温烽火故事共上国防教育课#"
     }
   ]
 }

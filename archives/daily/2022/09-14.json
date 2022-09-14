@@ -1,6 +1,6 @@
 {
   "startTime": 1663086802432,
-  "endTime": 1663141766336,
+  "endTime": 1663144235204,
   "band_list": [
     {
       "raw_hot": 9835748,
@@ -41,6 +41,14 @@
       "onboard_time": 1663131276,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 2824388,
+      "num": 1014190,
+      "word": "张翰的肚子",
+      "onboard_time": 1663143088,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 2216084,
@@ -187,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1056243,
+      "num": 1056243,
+      "word": "羊了个羊急招后端开发",
+      "onboard_time": 1663139368,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1025639,
       "num": 1025639,
       "word": "夫妻疑因吵架把狗推下4楼",
@@ -203,6 +219,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 995796,
+      "num": 995796,
+      "word": "iPhone15或使用台积电3nm芯片",
+      "onboard_time": 1663142309,
+      "rank": 4,
+      "category": "科技"
+    },
+    {
       "raw_hot": 959971,
       "num": 797976,
       "word": "赵丽颖费加罗花蝶焕羽大片",
@@ -217,6 +241,14 @@
       "onboard_time": 1663078056,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 928567,
+      "num": 928567,
+      "word": "雷军卸任小米电子软件公司董事长",
+      "onboard_time": 1663139490,
+      "rank": 9,
+      "category": "科技"
     },
     {
       "raw_hot": 922134,
@@ -267,20 +299,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 868766,
+      "num": 526268,
+      "word": "赵丽颖刘诗诗Angelababy金九封面",
+      "onboard_time": 1663140629,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 867319,
       "num": 867319,
       "word": "山东21岁女孩离世捐器官救7人",
       "onboard_time": 1663128457,
       "rank": 9,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 857925,
-      "num": 526268,
-      "word": "赵丽颖刘诗诗Angelababy金九封面",
-      "onboard_time": 1663140629,
-      "rank": 12,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 855539,
@@ -313,14 +345,6 @@
       "onboard_time": 1663131574,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 821115,
-      "num": 821115,
-      "word": "雷军卸任小米电子软件公司董事长",
-      "onboard_time": 1663139490,
-      "rank": 9,
-      "category": "科技"
     },
     {
       "raw_hot": 801998,
@@ -483,6 +507,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 470952,
+      "num": 470952,
+      "word": "王鹤棣上部剧本座这部剧奴才",
+      "onboard_time": 1663143990,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 470834,
       "num": 224696,
       "word": "东八区的先生们",
@@ -505,6 +537,14 @@
       "onboard_time": 1663118130,
       "rank": 19,
       "category": "科技"
+    },
+    {
+      "raw_hot": 431081,
+      "num": 431081,
+      "word": "开美甲店的阿姨接待儿子朋友",
+      "onboard_time": 1663141650,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 423639,
@@ -571,6 +611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 375415,
+      "num": 375415,
+      "word": "男子捕杀狗獾当众剥皮宰杀",
+      "onboard_time": 1663139607,
+      "rank": 27,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 373449,
       "num": 373449,
       "word": "成都中华锦绣罗艳",
@@ -595,6 +643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 336310,
+      "num": 336310,
+      "word": "杭州台风",
+      "onboard_time": 1663138768,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332616,
       "num": 332616,
       "word": "上海地铁2号线",
@@ -617,14 +673,6 @@
       "onboard_time": 1663115251,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 325793,
-      "num": 325793,
-      "word": "羊了个羊急招后端开发",
-      "onboard_time": 1663139368,
-      "rank": 25,
-      "category": "游戏"
     },
     {
       "raw_hot": 319628,
@@ -683,22 +731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 299850,
-      "num": 299850,
-      "word": "杭州台风",
-      "onboard_time": 1663138768,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 299539,
-      "num": 299539,
-      "word": "男子捕杀狗獾当众剥皮宰杀",
-      "onboard_time": 1663139607,
-      "rank": 27,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 296418,
       "num": 296418,
       "word": "20岁大学生用车床剥生鸡蛋不破不漏",
@@ -729,6 +761,14 @@
       "onboard_time": 1663128395,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 281750,
+      "num": 281750,
+      "word": "男子打拼10年养鸡2000万只",
+      "onboard_time": 1663141531,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 281676,
@@ -827,6 +867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235102,
+      "num": 235102,
+      "word": "山东三支一扶",
+      "onboard_time": 1663142428,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 233988,
       "num": 233988,
       "word": "电视剧野蛮生长",
@@ -859,14 +907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 225747,
-      "num": 225747,
-      "word": "男子打拼10年养鸡2000万只",
-      "onboard_time": 1663141531,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 225556,
       "num": 225556,
       "word": "杨超越喜欢看直播卖爸爸衫",
@@ -897,6 +937,14 @@
       "onboard_time": 1663110442,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 218744,
+      "num": 218744,
+      "word": "72岁奶奶跳湖救回轻生女孩",
+      "onboard_time": 1663141050,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 217321,
@@ -963,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201552,
+      "num": 201552,
+      "word": "羊了个羊通关率不到0.1%",
+      "onboard_time": 1663143751,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 200584,
       "num": 200584,
       "word": "9个强大内心的思维方式",
@@ -1027,6 +1083,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 188305,
+      "num": 188305,
+      "word": "陈奕迅冷门歌曲你听过多少",
+      "onboard_time": 1663138528,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 183842,
       "num": 183842,
       "word": "你安全吗",
@@ -1040,6 +1104,14 @@
       "word": "这就是中式美人吧",
       "onboard_time": 1663071630,
       "rank": 32,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 181894,
+      "num": 181894,
+      "word": "蔡徐坤沸腾校园全黑造型路透",
+      "onboard_time": 1663143811,
+      "rank": 34,
       "category": "作品衍生"
     },
     {
@@ -1057,6 +1129,14 @@
       "onboard_time": 1663140145,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 175770,
+      "num": 175770,
+      "word": "新英雄海月即将上线",
+      "onboard_time": 1663142548,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 172867,
@@ -1099,6 +1179,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 164413,
+      "num": 164413,
+      "word": "路人视角下的王嘉尔海外人气",
+      "onboard_time": 1663142189,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 163334,
       "num": 163334,
       "word": "拜仁2比0巴萨",
@@ -1113,6 +1201,14 @@
       "onboard_time": 1663062036,
       "rank": 29,
       "category": "科技"
+    },
+    {
+      "raw_hot": 162501,
+      "num": 162501,
+      "word": "宋妍霏婚纱配球鞋造型",
+      "onboard_time": 1663144170,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 162149,
@@ -1187,12 +1283,12 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 139175,
-      "num": 139175,
-      "word": "陈奕迅冷门歌曲你听过多少",
-      "onboard_time": 1663138528,
-      "rank": 45,
-      "category": "音乐"
+      "raw_hot": 139219,
+      "num": 139219,
+      "word": "流浪猫帮我找回了原住民",
+      "onboard_time": 1663141531,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 134926,
@@ -1211,36 +1307,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132002,
-      "num": 132002,
-      "word": "开美甲店的阿姨接待儿子朋友",
-      "onboard_time": 1663141650,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 130431,
-      "num": 130431,
-      "word": "流浪猫帮我找回了原住民",
-      "onboard_time": 1663141531,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 126020,
       "num": 126020,
       "word": "碰到一只社恐小狗",
       "onboard_time": 1663069175,
       "rank": 36,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 121625,
-      "num": 121625,
-      "word": "72岁奶奶跳湖救回轻生女孩",
-      "onboard_time": 1663141050,
-      "rank": 49,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 120018,
@@ -1436,6 +1508,9 @@
     },
     {
       "word": "#中国跨度#"
+    },
+    {
+      "word": "#重温烽火故事共上国防教育课#"
     }
   ]
 }
