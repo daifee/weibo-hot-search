@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1663164334329,
+  "endTime": 1663165763866,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -1580,7 +1580,7 @@
     },
     {
       "raw_hot": 1911122,
-      "num": 682326,
+      "num": 707257,
       "word": "男子袭胸女孩称离婚久了有点冲动",
       "onboard_time": 1663156830,
       "rank": 10,
@@ -2049,6 +2049,14 @@
       "onboard_time": 1661994090,
       "rank": 10,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 1703781,
+      "num": 1322339,
+      "word": "女子洗澡时虫子从花洒蠕动爬出",
+      "onboard_time": 1663164215,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1697886,
@@ -3283,6 +3291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1314870,
+      "num": 1314870,
+      "word": "钟文泽",
+      "onboard_time": 1663162474,
+      "rank": 15,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1313804,
       "num": 459079,
       "word": "台湾是中国的一个省没有什么国防部",
@@ -3672,6 +3688,14 @@
       "word": "黄明昊看苍兰诀吻戏reaction",
       "onboard_time": 1662460111,
       "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1214466,
+      "num": 1214466,
+      "word": "邢菲说躺进棺材没害怕",
+      "onboard_time": 1663164334,
+      "rank": 47,
       "category": "影视"
     },
     {
@@ -4755,6 +4779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1014858,
+      "num": 1014858,
+      "word": "iPhone14真机测评",
+      "onboard_time": 1663163073,
+      "rank": 24,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1013890,
       "num": 1013890,
       "word": "虞书欣新剧直球撩张彬彬",
@@ -4921,14 +4953,6 @@
       "onboard_time": 1662777804,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 990236,
-      "num": 990236,
-      "word": "钟文泽",
-      "onboard_time": 1663162474,
-      "rank": 15,
-      "category": "科技"
     },
     {
       "raw_hot": 989949,
@@ -7835,14 +7859,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 673825,
-      "num": 140059,
-      "word": "邢菲说躺进棺材没害怕",
-      "onboard_time": 1663164334,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 672588,
       "num": 672588,
       "word": "jojo更新",
@@ -7865,14 +7881,6 @@
       "onboard_time": 1662867152,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 668104,
-      "num": 668104,
-      "word": "iPhone14真机测评",
-      "onboard_time": 1663163073,
-      "rank": 24,
-      "category": "科技"
     },
     {
       "raw_hot": 666188,
@@ -9571,6 +9579,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 539521,
+      "num": 539521,
+      "word": "张杰是我看脱口秀大会的嘴替",
+      "onboard_time": 1663164757,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 539418,
       "num": 539418,
       "word": "为什么自己和父母的缺点越来越像",
@@ -11219,6 +11235,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 464006,
+      "num": 464006,
+      "word": "无锡停课",
+      "onboard_time": 1663162594,
+      "rank": 22,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 463734,
       "num": 463734,
       "word": "LPL出征S12队伍",
@@ -12107,14 +12131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 426299,
-      "num": 426299,
-      "word": "无锡停课",
-      "onboard_time": 1663162594,
-      "rank": 22,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 426258,
       "num": 426258,
       "word": "女子偷走邻居月饼拒接电话拒归还",
@@ -12441,6 +12457,14 @@
       "onboard_time": 1662606383,
       "rank": 23,
       "category": "科技"
+    },
+    {
+      "raw_hot": 414596,
+      "num": 414596,
+      "word": "法考",
+      "onboard_time": 1663163733,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 414280,
@@ -13616,6 +13640,14 @@
       "word": "20岁小伙网恋2年不知女友是男的",
       "onboard_time": 1662525269,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 378818,
+      "num": 378818,
+      "word": "中央气象台",
+      "onboard_time": 1663162052,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -15635,14 +15667,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 328719,
-      "num": 328719,
-      "word": "中央气象台",
-      "onboard_time": 1663162052,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 328328,
       "num": 328328,
       "word": "iPhone14Pro可选35W充电器",
@@ -16081,6 +16105,14 @@
       "onboard_time": 1662736171,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 317434,
+      "num": 317434,
+      "word": "羊了个羊为何突然爆火",
+      "onboard_time": 1663154131,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 317018,
@@ -17521,14 +17553,6 @@
       "onboard_time": 1662540146,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 289996,
-      "num": 289996,
-      "word": "羊了个羊为何突然爆火",
-      "onboard_time": 1663154131,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 289823,
@@ -19531,6 +19555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257020,
+      "num": 257020,
+      "word": "电视剧野蛮生长",
+      "onboard_time": 1663116692,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 256962,
       "num": 256962,
       "word": "女装口袋",
@@ -20827,14 +20859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 233988,
-      "num": 233988,
-      "word": "电视剧野蛮生长",
-      "onboard_time": 1663116692,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 233242,
       "num": 233242,
       "word": "古人的烘焙作品什么样",
@@ -21664,6 +21688,14 @@
       "word": "内江疫情防控",
       "onboard_time": 1662948395,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219810,
+      "num": 219810,
+      "word": "成华区疫情防控",
+      "onboard_time": 1663165656,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -22609,14 +22641,6 @@
       "onboard_time": 1662350007,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 202279,
-      "num": 202279,
-      "word": "法考",
-      "onboard_time": 1663163733,
-      "rank": 39,
-      "category": "教育"
     },
     {
       "raw_hot": 202185,
@@ -25035,6 +25059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160462,
+      "num": 160462,
+      "word": "时代少年团纪录片盛夏上线",
+      "onboard_time": 1663164393,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 160396,
       "num": 160396,
       "word": "原来熊猫宝宝也爱八卦呀",
@@ -25144,14 +25176,6 @@
       "word": "首发恶劣谣言账号纳入黑名单管理",
       "onboard_time": 1662117085,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158048,
-      "num": 158048,
-      "word": "女子洗澡时虫子从花洒蠕动爬出",
-      "onboard_time": 1663164215,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -26035,6 +26059,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 142624,
+      "num": 142624,
+      "word": "广州放宽限价政策",
+      "onboard_time": 1663165475,
+      "rank": 48,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 142498,
       "num": 139703,
       "word": "隐入尘烟 真实",
@@ -26153,6 +26185,14 @@
       "onboard_time": 1662188304,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 140115,
+      "num": 140115,
+      "word": "澳门举办WTT冠军赛",
+      "onboard_time": 1663164995,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 140054,
@@ -26635,6 +26675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131690,
+      "num": 1323946,
+      "word": "歼20为志愿军烈士遗骸护航",
+      "onboard_time": 1663161814,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131610,
       "num": 131610,
       "word": "3个拉伸动作防腰肌劳损",
@@ -27096,14 +27144,6 @@
       "word": "扒拉熊猫是啥体验",
       "onboard_time": 1662632669,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 119213,
-      "num": 1264536,
-      "word": "歼20为志愿军烈士遗骸护航",
-      "onboard_time": 1663161814,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

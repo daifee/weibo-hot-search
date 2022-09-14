@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663164334329,
+  "endTime": 1663165763866,
   "band_list": [
     {
       "raw_hot": 9835748,
@@ -356,7 +356,7 @@
     },
     {
       "raw_hot": 1911122,
-      "num": 682326,
+      "num": 707257,
       "word": "男子袭胸女孩称离婚久了有点冲动",
       "onboard_time": 1663156830,
       "rank": 10,
@@ -472,6 +472,14 @@
       "word": "内江发现奥密克戎变异株",
       "onboard_time": 1662987944,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1703781,
+      "num": 1322339,
+      "word": "女子洗澡时虫子从花洒蠕动爬出",
+      "onboard_time": 1663164215,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -675,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1314870,
+      "num": 1314870,
+      "word": "钟文泽",
+      "onboard_time": 1663162474,
+      "rank": 15,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1311252,
       "num": 1311252,
       "word": "冯远征就任北京人艺第五任院长",
@@ -776,6 +792,14 @@
       "word": "编剧真的很了解贫穷",
       "onboard_time": 1662992564,
       "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1214466,
+      "num": 1214466,
+      "word": "邢菲说躺进棺材没害怕",
+      "onboard_time": 1663164334,
+      "rank": 47,
       "category": "影视"
     },
     {
@@ -1019,6 +1043,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1014858,
+      "num": 1014858,
+      "word": "iPhone14真机测评",
+      "onboard_time": 1663163073,
+      "rank": 24,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1007260,
       "num": 978276,
       "word": "心疼费启鸣演的齐颂",
@@ -1049,14 +1081,6 @@
       "onboard_time": 1663119508,
       "rank": 11,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 990236,
-      "num": 990236,
-      "word": "钟文泽",
-      "onboard_time": 1663162474,
-      "rank": 15,
-      "category": "科技"
     },
     {
       "raw_hot": 989245,
@@ -1627,22 +1651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 673825,
-      "num": 140059,
-      "word": "邢菲说躺进棺材没害怕",
-      "onboard_time": 1663164334,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 668104,
-      "num": 668104,
-      "word": "iPhone14真机测评",
-      "onboard_time": 1663163073,
-      "rank": 24,
-      "category": "科技"
-    },
-    {
       "raw_hot": 664216,
       "num": 664216,
       "word": "空军直升机在震区危房单轮悬停",
@@ -1953,6 +1961,14 @@
       "onboard_time": 1663035932,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 539521,
+      "num": 539521,
+      "word": "张杰是我看脱口秀大会的嘴替",
+      "onboard_time": 1663164757,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 536775,
@@ -2355,6 +2371,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 464006,
+      "num": 464006,
+      "word": "无锡停课",
+      "onboard_time": 1663162594,
+      "rank": 22,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 463528,
       "num": 463528,
       "word": "印度暂退出印太经济框架贸易谈判",
@@ -2571,14 +2595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 426299,
-      "num": 426299,
-      "word": "无锡停课",
-      "onboard_time": 1663162594,
-      "rank": 22,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 425494,
       "num": 425494,
       "word": "和女友吵架男子吞下2根钢丝",
@@ -2649,6 +2665,14 @@
       "onboard_time": 1663049556,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 414596,
+      "num": 414596,
+      "word": "法考",
+      "onboard_time": 1663163733,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 412285,
@@ -2808,6 +2832,14 @@
       "word": "大英图书馆首次收录中国网文",
       "onboard_time": 1663059096,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 378818,
+      "num": 378818,
+      "word": "中央气象台",
+      "onboard_time": 1663162052,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -3139,6 +3171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 335757,
+      "num": 335757,
+      "word": "覆流年",
+      "onboard_time": 1663163793,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 335653,
       "num": 298179,
       "word": "走进Q学",
@@ -3216,14 +3256,6 @@
       "word": "高校食堂推出西红柿炒月饼被抢空",
       "onboard_time": 1662976721,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 328719,
-      "num": 328719,
-      "word": "中央气象台",
-      "onboard_time": 1663162052,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -3337,6 +3369,14 @@
       "onboard_time": 1663129356,
       "rank": 29,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 317434,
+      "num": 317434,
+      "word": "羊了个羊为何突然爆火",
+      "onboard_time": 1663154131,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 316951,
@@ -3585,14 +3625,6 @@
       "onboard_time": 1663001844,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 289996,
-      "num": 289996,
-      "word": "羊了个羊为何突然爆火",
-      "onboard_time": 1663154131,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 289184,
@@ -3963,11 +3995,11 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 256942,
-      "num": 256942,
-      "word": "覆流年",
-      "onboard_time": 1663163793,
-      "rank": 30,
+      "raw_hot": 257020,
+      "num": 257020,
+      "word": "电视剧野蛮生长",
+      "onboard_time": 1663116692,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -4243,14 +4275,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 233988,
-      "num": 233988,
-      "word": "电视剧野蛮生长",
-      "onboard_time": 1663116692,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 232938,
       "num": 232938,
       "word": "东软",
@@ -4416,6 +4440,14 @@
       "word": "内江疫情防控",
       "onboard_time": 1662948395,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219810,
+      "num": 219810,
+      "word": "成华区疫情防控",
+      "onboard_time": 1663165656,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -4617,14 +4649,6 @@
       "onboard_time": 1663075474,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 202279,
-      "num": 202279,
-      "word": "法考",
-      "onboard_time": 1663163733,
-      "rank": 39,
-      "category": "教育"
     },
     {
       "raw_hot": 201981,
@@ -5067,20 +5091,20 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 160462,
+      "num": 160462,
+      "word": "时代少年团纪录片盛夏上线",
+      "onboard_time": 1663164393,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 159200,
       "num": 159200,
       "word": "阴阳师",
       "onboard_time": 1663026029,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 158048,
-      "num": 158048,
-      "word": "女子洗澡时虫子从花洒蠕动爬出",
-      "onboard_time": 1663164215,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 157737,
@@ -5203,6 +5227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 142624,
+      "num": 142624,
+      "word": "广州放宽限价政策",
+      "onboard_time": 1663165475,
+      "rank": 48,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 140864,
       "num": 140864,
       "word": "增强体质可缓解过敏性疾病",
@@ -5217,6 +5249,14 @@
       "onboard_time": 1662991902,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140115,
+      "num": 140115,
+      "word": "澳门举办WTT冠军赛",
+      "onboard_time": 1663164995,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 140050,
@@ -5307,6 +5347,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 131690,
+      "num": 1323946,
+      "word": "歼20为志愿军烈士遗骸护航",
+      "onboard_time": 1663161814,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130215,
       "num": 130215,
       "word": "不顾女儿劝阻他冲去帮货车灭火",
@@ -5352,14 +5400,6 @@
       "word": "绝壁开路的女挖机手说没时间害怕",
       "onboard_time": 1663112306,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 119213,
-      "num": 1264536,
-      "word": "歼20为志愿军烈士遗骸护航",
-      "onboard_time": 1663161814,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

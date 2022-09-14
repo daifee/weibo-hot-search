@@ -1,6 +1,6 @@
 {
   "startTime": 1663086802432,
-  "endTime": 1663164334329,
+  "endTime": 1663165763866,
   "band_list": [
     {
       "raw_hot": 9835748,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1911122,
-      "num": 682326,
+      "num": 707257,
       "word": "男子袭胸女孩称离婚久了有点冲动",
       "onboard_time": 1663156830,
       "rank": 10,
@@ -120,6 +120,14 @@
       "word": "18岁小伙文前女友名字去掉需切除",
       "onboard_time": 1663144528,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1703781,
+      "num": 1322339,
+      "word": "女子洗澡时虫子从花洒蠕动爬出",
+      "onboard_time": 1663164215,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -145,6 +153,14 @@
       "onboard_time": 1663118011,
       "rank": 3,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1314870,
+      "num": 1314870,
+      "word": "钟文泽",
+      "onboard_time": 1663162474,
+      "rank": 15,
+      "category": "科技"
     },
     {
       "raw_hot": 1311252,
@@ -193,6 +209,14 @@
       "onboard_time": 1663115971,
       "rank": 6,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1214466,
+      "num": 1214466,
+      "word": "邢菲说躺进棺材没害怕",
+      "onboard_time": 1663164334,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 1208276,
@@ -299,20 +323,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1014858,
+      "num": 1014858,
+      "word": "iPhone14真机测评",
+      "onboard_time": 1663163073,
+      "rank": 24,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1001766,
       "num": 1001766,
       "word": "52岁大学生报到被查3次录取通知书",
       "onboard_time": 1663119508,
       "rank": 11,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 990236,
-      "num": 990236,
-      "word": "钟文泽",
-      "onboard_time": 1663162474,
-      "rank": 15,
-      "category": "科技"
     },
     {
       "raw_hot": 988582,
@@ -571,22 +595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 673825,
-      "num": 140059,
-      "word": "邢菲说躺进棺材没害怕",
-      "onboard_time": 1663164334,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 668104,
-      "num": 668104,
-      "word": "iPhone14真机测评",
-      "onboard_time": 1663163073,
-      "rank": 24,
-      "category": "科技"
-    },
-    {
       "raw_hot": 655004,
       "num": 655004,
       "word": "复星集团董事长郭广昌发声",
@@ -672,6 +680,14 @@
       "word": "Angelababy认为好的爱人像中医",
       "onboard_time": 1663127194,
       "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 539521,
+      "num": 539521,
+      "word": "张杰是我看脱口秀大会的嘴替",
+      "onboard_time": 1663164757,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -771,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 464006,
+      "num": 464006,
+      "word": "无锡停课",
+      "onboard_time": 1663162594,
+      "rank": 22,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 455420,
       "num": 455420,
       "word": "法拉利",
@@ -811,14 +835,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 426299,
-      "num": 426299,
-      "word": "无锡停课",
-      "onboard_time": 1663162594,
-      "rank": 22,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 423639,
       "num": 423639,
       "word": "四川增本土确诊127例无症状83例",
@@ -848,6 +864,14 @@
       "word": "2022下半年英语四六级报名",
       "onboard_time": 1663116452,
       "rank": 22,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 414596,
+      "num": 414596,
+      "word": "法考",
+      "onboard_time": 1663163733,
+      "rank": 39,
       "category": "教育"
     },
     {
@@ -923,6 +947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 378818,
+      "num": 378818,
+      "word": "中央气象台",
+      "onboard_time": 1663162052,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 375415,
       "num": 375415,
       "word": "男子捕杀狗獾当众剥皮宰杀",
@@ -987,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 335757,
+      "num": 335757,
+      "word": "覆流年",
+      "onboard_time": 1663163793,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 332616,
       "num": 332616,
       "word": "上海地铁2号线",
@@ -1017,14 +1057,6 @@
       "onboard_time": 1663142548,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 328719,
-      "num": 328719,
-      "word": "中央气象台",
-      "onboard_time": 1663162052,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 325993,
@@ -1065,6 +1097,14 @@
       "onboard_time": 1663129356,
       "rank": 29,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 317434,
+      "num": 317434,
+      "word": "羊了个羊为何突然爆火",
+      "onboard_time": 1663154131,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 313887,
@@ -1161,14 +1201,6 @@
       "onboard_time": 1663153529,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 289996,
-      "num": 289996,
-      "word": "羊了个羊为何突然爆火",
-      "onboard_time": 1663154131,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 287770,
@@ -1291,11 +1323,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 256942,
-      "num": 256942,
-      "word": "覆流年",
-      "onboard_time": 1663163793,
-      "rank": 30,
+      "raw_hot": 257020,
+      "num": 257020,
+      "word": "电视剧野蛮生长",
+      "onboard_time": 1663116692,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -1419,14 +1451,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 233988,
-      "num": 233988,
-      "word": "电视剧野蛮生长",
-      "onboard_time": 1663116692,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 229460,
       "num": 229460,
       "word": "卡bug加入羊群",
@@ -1481,6 +1505,14 @@
       "onboard_time": 1663110442,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 219810,
+      "num": 219810,
+      "word": "成华区疫情防控",
+      "onboard_time": 1663165656,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219765,
@@ -1561,14 +1593,6 @@
       "onboard_time": 1663161632,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 202279,
-      "num": 202279,
-      "word": "法考",
-      "onboard_time": 1663163733,
-      "rank": 39,
-      "category": "教育"
     },
     {
       "raw_hot": 201562,
@@ -1803,12 +1827,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 158048,
-      "num": 158048,
-      "word": "女子洗澡时虫子从花洒蠕动爬出",
-      "onboard_time": 1663164215,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 160462,
+      "num": 160462,
+      "word": "时代少年团纪录片盛夏上线",
+      "onboard_time": 1663164393,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 155825,
@@ -1857,6 +1881,22 @@
       "onboard_time": 1663154131,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 142624,
+      "num": 142624,
+      "word": "广州放宽限价政策",
+      "onboard_time": 1663165475,
+      "rank": 48,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 140115,
+      "num": 140115,
+      "word": "澳门举办WTT冠军赛",
+      "onboard_time": 1663164995,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 140050,
@@ -1931,6 +1971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131690,
+      "num": 1323946,
+      "word": "歼20为志愿军烈士遗骸护航",
+      "onboard_time": 1663161814,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126020,
       "num": 126020,
       "word": "碰到一只社恐小狗",
@@ -1953,14 +2001,6 @@
       "onboard_time": 1663071392,
       "rank": 37,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 119213,
-      "num": 1264536,
-      "word": "歼20为志愿军烈士遗骸护航",
-      "onboard_time": 1663161814,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118643,
