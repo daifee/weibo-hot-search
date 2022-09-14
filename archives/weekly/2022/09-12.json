@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663147553489,
+  "endTime": 1663148604013,
   "band_list": [
     {
       "raw_hot": 9835748,
@@ -380,7 +380,7 @@
     },
     {
       "raw_hot": 1812075,
-      "num": 668771,
+      "num": 903490,
       "word": "18岁小伙文前女友名字去掉需切除",
       "onboard_time": 1663144528,
       "rank": 15,
@@ -963,6 +963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1003226,
+      "num": 1003226,
+      "word": "羊了个羊通关率不到0.1%",
+      "onboard_time": 1663143751,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1002638,
       "num": 645121,
       "word": "宋亚轩中戏开学报到",
@@ -1105,6 +1113,14 @@
       "onboard_time": 1663034613,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 888626,
+      "num": 888626,
+      "word": "张杰 清澈的愚蠢",
+      "onboard_time": 1663148066,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 888186,
@@ -1555,20 +1571,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 629004,
+      "num": 629004,
+      "word": "五年前的告白被回应了",
+      "onboard_time": 1663144528,
+      "rank": 40,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 626912,
       "num": 309219,
       "word": "嫖娼或将承担什么法律责任",
       "onboard_time": 1662894227,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 620078,
-      "num": 620078,
-      "word": "羊了个羊通关率不到0.1%",
-      "onboard_time": 1663143751,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 619416,
@@ -1787,6 +1803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 533066,
+      "num": 393749,
+      "word": "宋妍霏婚纱配球鞋造型",
+      "onboard_time": 1663144170,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 530183,
       "num": 530183,
       "word": "马嘉祺开学",
@@ -1825,14 +1849,6 @@
       "onboard_time": 1662989082,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 527041,
-      "num": 527041,
-      "word": "五年前的告白被回应了",
-      "onboard_time": 1663144528,
-      "rank": 40,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 523620,
@@ -2459,14 +2475,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 400563,
-      "num": 385093,
-      "word": "宋妍霏婚纱配球鞋造型",
-      "onboard_time": 1663144170,
-      "rank": 41,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 400245,
       "num": 400245,
       "word": "女子拖行李箱离厂遭保安拖拽开箱",
@@ -2529,6 +2537,14 @@
       "onboard_time": 1662981578,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 382713,
+      "num": 382713,
+      "word": "什么叫天生反骨",
+      "onboard_time": 1663147589,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 382274,
@@ -2707,6 +2723,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 355185,
+      "num": 355185,
+      "word": "东北姑娘第一次吃折耳根呕了",
+      "onboard_time": 1663146267,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 354397,
       "num": 354397,
       "word": "经销商预计iPhone14Pro溢价千元左右",
@@ -2729,6 +2753,14 @@
       "onboard_time": 1663071630,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 353141,
+      "num": 353141,
+      "word": "警方回应保时捷碰撞起火门打不开",
+      "onboard_time": 1663146929,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 351726,
@@ -2995,6 +3027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319596,
+      "num": 319596,
+      "word": "陈晓毛晓彤云襄传将定档",
+      "onboard_time": 1663145369,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 318277,
       "num": 318277,
       "word": "UR被曝抄袭",
@@ -3123,14 +3163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 302349,
-      "num": 302349,
-      "word": "陈晓毛晓彤云襄传将定档",
-      "onboard_time": 1663145369,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 300669,
       "num": 300669,
       "word": "直击台风梅花最新动态",
@@ -3203,6 +3235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 298004,
+      "num": 298004,
+      "word": "刘诗雯色彩碰撞缤纷大片",
+      "onboard_time": 1663148189,
+      "rank": 21,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 294717,
       "num": 294717,
       "word": "我听网课都没有这么认真",
@@ -3249,6 +3289,14 @@
       "onboard_time": 1663001844,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 291496,
+      "num": 291496,
+      "word": "女子上班快迟到陌生阿姨送到地铁口",
+      "onboard_time": 1663146809,
+      "rank": 35,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 289184,
@@ -3409,6 +3457,14 @@
       "onboard_time": 1662991364,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 273810,
+      "num": 273810,
+      "word": "Gemini妲己辣舞cos",
+      "onboard_time": 1663146746,
+      "rank": 30,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 273674,
@@ -3699,6 +3755,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 243338,
+      "num": 243338,
+      "word": "羊了个羊否认抄袭",
+      "onboard_time": 1663148246,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 240499,
       "num": 240499,
       "word": "这猫是梅超风吧",
@@ -3713,14 +3777,6 @@
       "onboard_time": 1663011673,
       "rank": 22,
       "category": "国外要闻,财经"
-    },
-    {
-      "raw_hot": 240029,
-      "num": 240029,
-      "word": "东北姑娘第一次吃折耳根呕了",
-      "onboard_time": 1663146267,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 238947,
@@ -3841,14 +3897,6 @@
       "onboard_time": 1663049915,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 232100,
-      "num": 232100,
-      "word": "Gemini妲己辣舞cos",
-      "onboard_time": 1663146746,
-      "rank": 30,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 231366,
@@ -4051,6 +4099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 214357,
+      "num": 214357,
+      "word": "上海地铁部分线路今晚21时起停运",
+      "onboard_time": 1663147830,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214300,
       "num": 214300,
       "word": "航天员吃到了在太空种的生菜",
@@ -4187,14 +4243,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 201739,
-      "num": 201739,
-      "word": "女子上班快迟到陌生阿姨送到地铁口",
-      "onboard_time": 1663146809,
-      "rank": 35,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 201675,
       "num": 201675,
       "word": "艾美奖",
@@ -4267,6 +4315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197440,
+      "num": 197440,
+      "word": "研究称一口酒足以永久改变大脑",
+      "onboard_time": 1663148066,
+      "rank": 37,
+      "category": "其它"
+    },
+    {
       "raw_hot": 196493,
       "num": 196493,
       "word": "官方辟谣济宁隔离人员在菏泽住羊圈",
@@ -4329,14 +4385,6 @@
       "onboard_time": 1662988183,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 192207,
-      "num": 192207,
-      "word": "警方回应保时捷碰撞起火门打不开",
-      "onboard_time": 1663146929,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 191109,
@@ -4611,12 +4659,28 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 160863,
+      "num": 160863,
+      "word": "千万不要在雨天社死",
+      "onboard_time": 1663147710,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 159200,
       "num": 159200,
       "word": "阴阳师",
       "onboard_time": 1663026029,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 158597,
+      "num": 158597,
+      "word": "中方回应是否派员出席英女王国葬",
+      "onboard_time": 1663148309,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157737,
@@ -4697,6 +4761,14 @@
       "onboard_time": 1663116571,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145148,
+      "num": 904382,
+      "word": "第九批在韩志愿军烈士将回国",
+      "onboard_time": 1663146629,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 145011,
@@ -4937,14 +5009,6 @@
       "onboard_time": 1662972458,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 108854,
-      "num": 713576,
-      "word": "第九批在韩志愿军烈士将回国",
-      "onboard_time": 1663146629,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 107851,

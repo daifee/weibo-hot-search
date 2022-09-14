@@ -1,6 +1,6 @@
 {
   "startTime": 1663086802432,
-  "endTime": 1663147553489,
+  "endTime": 1663148604013,
   "band_list": [
     {
       "raw_hot": 9835748,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1812075,
-      "num": 668771,
+      "num": 903490,
       "word": "18岁小伙文前女友名字去掉需切除",
       "onboard_time": 1663144528,
       "rank": 15,
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1003226,
+      "num": 1003226,
+      "word": "羊了个羊通关率不到0.1%",
+      "onboard_time": 1663143751,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1001766,
       "num": 1001766,
       "word": "52岁大学生报到被查3次录取通知书",
@@ -289,6 +297,14 @@
       "onboard_time": 1663133372,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 888626,
+      "num": 888626,
+      "word": "张杰 清澈的愚蠢",
+      "onboard_time": 1663148066,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 888186,
@@ -427,12 +443,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 620078,
-      "num": 620078,
-      "word": "羊了个羊通关率不到0.1%",
-      "onboard_time": 1663143751,
-      "rank": 32,
-      "category": "游戏"
+      "raw_hot": 629004,
+      "num": 629004,
+      "word": "五年前的告白被回应了",
+      "onboard_time": 1663144528,
+      "rank": 40,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 619416,
@@ -491,12 +507,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 527041,
-      "num": 527041,
-      "word": "五年前的告白被回应了",
-      "onboard_time": 1663144528,
-      "rank": 40,
-      "category": "情感,幽默"
+      "raw_hot": 533066,
+      "num": 393749,
+      "word": "宋妍霏婚纱配球鞋造型",
+      "onboard_time": 1663144170,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 509999,
@@ -619,14 +635,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 400563,
-      "num": 385093,
-      "word": "宋妍霏婚纱配球鞋造型",
-      "onboard_time": 1663144170,
-      "rank": 41,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 400245,
       "num": 400245,
       "word": "女子拖行李箱离厂遭保安拖拽开箱",
@@ -641,6 +649,14 @@
       "onboard_time": 1663083095,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 382713,
+      "num": 382713,
+      "word": "什么叫天生反骨",
+      "onboard_time": 1663147589,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 375415,
@@ -659,12 +675,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 355185,
+      "num": 355185,
+      "word": "东北姑娘第一次吃折耳根呕了",
+      "onboard_time": 1663146267,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 353998,
       "num": 353998,
       "word": "杜华带吴宣仪胡春杨录节目",
       "onboard_time": 1663134328,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 353141,
+      "num": 353141,
+      "word": "警方回应保时捷碰撞起火门打不开",
+      "onboard_time": 1663146929,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 341432,
@@ -723,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319596,
+      "num": 319596,
+      "word": "陈晓毛晓彤云襄传将定档",
+      "onboard_time": 1663145369,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 318845,
       "num": 318845,
       "word": "上海一公园被指摆放日本人雕塑群",
@@ -763,14 +803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 302349,
-      "num": 302349,
-      "word": "陈晓毛晓彤云襄传将定档",
-      "onboard_time": 1663145369,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 300669,
       "num": 300669,
       "word": "直击台风梅花最新动态",
@@ -785,6 +817,14 @@
       "onboard_time": 1663141050,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 298004,
+      "num": 298004,
+      "word": "刘诗雯色彩碰撞缤纷大片",
+      "onboard_time": 1663148189,
+      "rank": 21,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 296418,
@@ -809,6 +849,14 @@
       "onboard_time": 1663126173,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291496,
+      "num": 291496,
+      "word": "女子上班快迟到陌生阿姨送到地铁口",
+      "onboard_time": 1663146809,
+      "rank": 35,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 287770,
@@ -841,6 +889,14 @@
       "onboard_time": 1663121969,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 273810,
+      "num": 273810,
+      "word": "Gemini妲己辣舞cos",
+      "onboard_time": 1663146746,
+      "rank": 30,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 273674,
@@ -915,20 +971,20 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 243338,
+      "num": 243338,
+      "word": "羊了个羊否认抄袭",
+      "onboard_time": 1663148246,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 240324,
       "num": 240324,
       "word": "塞尔达传说王国之泪",
       "onboard_time": 1663081240,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 240029,
-      "num": 240029,
-      "word": "东北姑娘第一次吃折耳根呕了",
-      "onboard_time": 1663146267,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 236468,
@@ -969,14 +1025,6 @@
       "onboard_time": 1663116692,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 232100,
-      "num": 232100,
-      "word": "Gemini妲己辣舞cos",
-      "onboard_time": 1663146746,
-      "rank": 30,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 229460,
@@ -1059,6 +1107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 214357,
+      "num": 214357,
+      "word": "上海地铁部分线路今晚21时起停运",
+      "onboard_time": 1663147830,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212721,
       "num": 197158,
       "word": "BLACKPINK新歌ShutDown预告",
@@ -1091,14 +1147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201739,
-      "num": 201739,
-      "word": "女子上班快迟到陌生阿姨送到地铁口",
-      "onboard_time": 1663146809,
-      "rank": 35,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 201562,
       "num": 201562,
       "word": "女方悔婚拒退彩礼男子挂横幅寻人",
@@ -1129,6 +1177,14 @@
       "onboard_time": 1663102331,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197440,
+      "num": 197440,
+      "word": "研究称一口酒足以永久改变大脑",
+      "onboard_time": 1663148066,
+      "rank": 37,
+      "category": "其它"
     },
     {
       "raw_hot": 196183,
@@ -1169,14 +1225,6 @@
       "onboard_time": 1663080224,
       "rank": 26,
       "category": "财经"
-    },
-    {
-      "raw_hot": 192207,
-      "num": 192207,
-      "word": "警方回应保时捷碰撞起火门打不开",
-      "onboard_time": 1663146929,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 190412,
@@ -1315,6 +1363,22 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 160863,
+      "num": 160863,
+      "word": "千万不要在雨天社死",
+      "onboard_time": 1663147710,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 158597,
+      "num": 158597,
+      "word": "中方回应是否派员出席英女王国葬",
+      "onboard_time": 1663148309,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155825,
       "num": 155825,
       "word": "羊了个羊过不去",
@@ -1337,6 +1401,14 @@
       "onboard_time": 1663116571,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145148,
+      "num": 904382,
+      "word": "第九批在韩志愿军烈士将回国",
+      "onboard_time": 1663146629,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 143123,
@@ -1457,14 +1529,6 @@
       "onboard_time": 1663135829,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 108854,
-      "num": 713576,
-      "word": "第九批在韩志愿军烈士将回国",
-      "onboard_time": 1663146629,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 108853,
