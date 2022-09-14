@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663161749524,
+  "endTime": 1663163692418,
   "band_list": [
     {
       "raw_hot": 9835748,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 3802024,
-      "num": 567181,
+      "num": 664119,
       "word": "王栎鑫删博后道歉",
       "onboard_time": 1663140268,
       "rank": 10,
@@ -356,7 +356,7 @@
     },
     {
       "raw_hot": 1911122,
-      "num": 397769,
+      "num": 668507,
       "word": "男子袭胸女孩称离婚久了有点冲动",
       "onboard_time": 1663156830,
       "rank": 10,
@@ -739,6 +739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1253978,
+      "num": 1253978,
+      "word": "杨蒙恩淘汰",
+      "onboard_time": 1663162353,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1240701,
       "num": 531323,
       "word": "李易峰多次嫖娼被行政拘留",
@@ -921,6 +929,14 @@
       "onboard_time": 1663071392,
       "rank": 9,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1082548,
+      "num": 1082548,
+      "word": "成都多区域逐步恢复正常生产生活秩序",
+      "onboard_time": 1663162508,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1081710,
@@ -1443,6 +1459,14 @@
       "category": "教育,艺人"
     },
     {
+      "raw_hot": 742776,
+      "num": 742776,
+      "word": "明天苏州可弹性上下学",
+      "onboard_time": 1663158633,
+      "rank": 28,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 742365,
       "num": 742365,
       "word": "杨笠脱口秀大会杀疯了",
@@ -1547,6 +1571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 679396,
+      "num": 659524,
+      "word": "老师说马嘉祺发真声是软的",
+      "onboard_time": 1663163434,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 678464,
       "num": 317244,
       "word": "脱口秀大会5官宣张杰",
@@ -1577,6 +1609,14 @@
       "onboard_time": 1662969813,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 674931,
+      "num": 674931,
+      "word": "成都疫情防控",
+      "onboard_time": 1662902989,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 664216,
@@ -1771,6 +1811,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 594143,
+      "num": 594143,
+      "word": "钟文泽",
+      "onboard_time": 1663162474,
+      "rank": 15,
+      "category": "科技"
+    },
+    {
       "raw_hot": 589204,
       "num": 283889,
       "word": "余景天纽约看秀造型",
@@ -1881,14 +1929,6 @@
       "onboard_time": 1663051714,
       "rank": 17,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 545042,
-      "num": 545042,
-      "word": "明天苏州可弹性上下学",
-      "onboard_time": 1663158633,
-      "rank": 28,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 544029,
@@ -2499,6 +2539,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 427235,
+      "num": 427235,
+      "word": "终于可以实现听歌自由了",
+      "onboard_time": 1663157970,
+      "rank": 33,
+      "category": "科技"
+    },
+    {
       "raw_hot": 426493,
       "num": 426493,
       "word": "美对西工大网袭技术细节公开",
@@ -2529,6 +2577,14 @@
       "onboard_time": 1662953194,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 419231,
+      "num": 419231,
+      "word": "王鹤棣新剧状态",
+      "onboard_time": 1663158092,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 418791,
@@ -2665,14 +2721,6 @@
       "onboard_time": 1663117891,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 400148,
-      "num": 400148,
-      "word": "王鹤棣新剧状态",
-      "onboard_time": 1663158092,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 394903,
@@ -2987,6 +3035,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 342570,
+      "num": 342570,
+      "word": "95后女孩与100个陌生人交换礼物",
+      "onboard_time": 1663160432,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 342262,
       "num": 289756,
       "word": "周寻说有些遗憾是可以弥补的",
@@ -3219,6 +3275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 318426,
+      "num": 318426,
+      "word": "无锡停课",
+      "onboard_time": 1663162594,
+      "rank": 22,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 318277,
       "num": 318277,
       "word": "UR被曝抄袭",
@@ -3249,6 +3313,14 @@
       "onboard_time": 1662961474,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 315212,
+      "num": 315212,
+      "word": "风景园林",
+      "onboard_time": 1663159952,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 313887,
@@ -3289,6 +3361,14 @@
       "onboard_time": 1663033834,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310072,
+      "num": 310072,
+      "word": "iPhone14真机测评",
+      "onboard_time": 1663163073,
+      "rank": 24,
+      "category": "科技"
     },
     {
       "raw_hot": 308349,
@@ -3579,6 +3659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 283033,
+      "num": 283033,
+      "word": "羊了个羊为何突然爆火",
+      "onboard_time": 1663154131,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 282603,
       "num": 282603,
       "word": "美国8月CPI同比增长8.3%",
@@ -3819,6 +3907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264373,
+      "num": 264373,
+      "word": "中央气象台",
+      "onboard_time": 1663162052,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263713,
       "num": 263713,
       "word": "羊了个羊真的很烦人",
@@ -3833,14 +3929,6 @@
       "onboard_time": 1662902928,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 263481,
-      "num": 263481,
-      "word": "终于可以实现听歌自由了",
-      "onboard_time": 1663157970,
-      "rank": 33,
-      "category": "科技"
     },
     {
       "raw_hot": 261419,
@@ -3875,14 +3963,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 255294,
-      "num": 255294,
-      "word": "风景园林",
-      "onboard_time": 1663159952,
-      "rank": 27,
-      "category": "教育"
-    },
-    {
       "raw_hot": 255056,
       "num": 255056,
       "word": "初中生刮坏车辆车主惩罚其写试卷",
@@ -3897,14 +3977,6 @@
       "onboard_time": 1662994183,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 254162,
-      "num": 254162,
-      "word": "羊了个羊为何突然爆火",
-      "onboard_time": 1663154131,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 253018,
@@ -3961,14 +4033,6 @@
       "onboard_time": 1663043504,
       "rank": 37,
       "category": "教育"
-    },
-    {
-      "raw_hot": 249507,
-      "num": 249507,
-      "word": "成都疫情防控",
-      "onboard_time": 1662902989,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 248227,
@@ -4515,6 +4579,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 203832,
+      "num": 203832,
+      "word": "谢娜话剧状态",
+      "onboard_time": 1663161632,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 203135,
       "num": 174757,
       "word": "远离嫖娼别心动更别行动",
@@ -4811,28 +4883,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 180544,
-      "num": 180544,
-      "word": "95后女孩与100个陌生人交换礼物",
-      "onboard_time": 1663160432,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 180467,
       "num": 180467,
       "word": "又怂又手欠的狗子",
       "onboard_time": 1662986199,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 179601,
-      "num": 179601,
-      "word": "谢娜话剧状态",
-      "onboard_time": 1663161632,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 176888,
@@ -5179,6 +5235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133593,
+      "num": 133593,
+      "word": "编剧你看看这些剧情合理吗",
+      "onboard_time": 1663159713,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 133238,
       "num": 133238,
       "word": "杜小华回应DNA比对不匹配",
@@ -5291,14 +5355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 114699,
-      "num": 114699,
-      "word": "编剧你看看这些剧情合理吗",
-      "onboard_time": 1663159713,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 113995,
       "num": 113995,
       "word": "国产C919最快本月取证年内交付",
@@ -5393,6 +5449,14 @@
       "onboard_time": 1662879629,
       "rank": 28,
       "category": "科技,情感"
+    },
+    {
+      "raw_hot": 101985,
+      "num": 1264536,
+      "word": "歼20为志愿军烈士遗骸护航",
+      "onboard_time": 1663161814,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101609,

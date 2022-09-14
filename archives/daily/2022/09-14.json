@@ -1,6 +1,6 @@
 {
   "startTime": 1663086802432,
-  "endTime": 1663161749524,
+  "endTime": 1663163692418,
   "band_list": [
     {
       "raw_hot": 9835748,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 3802024,
-      "num": 567181,
+      "num": 664119,
       "word": "王栎鑫删博后道歉",
       "onboard_time": 1663140268,
       "rank": 10,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1911122,
-      "num": 397769,
+      "num": 668507,
       "word": "男子袭胸女孩称离婚久了有点冲动",
       "onboard_time": 1663156830,
       "rank": 10,
@@ -177,6 +177,14 @@
       "onboard_time": 1663129416,
       "rank": 19,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1253978,
+      "num": 1253978,
+      "word": "杨蒙恩淘汰",
+      "onboard_time": 1663162353,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1235152,
@@ -257,6 +265,14 @@
       "onboard_time": 1663084353,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1082548,
+      "num": 1082548,
+      "word": "成都多区域逐步恢复正常生产生活秩序",
+      "onboard_time": 1663162508,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1081710,
@@ -491,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 742776,
+      "num": 742776,
+      "word": "明天苏州可弹性上下学",
+      "onboard_time": 1663158633,
+      "rank": 28,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 742365,
       "num": 742365,
       "word": "杨笠脱口秀大会杀疯了",
@@ -515,12 +539,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 679396,
+      "num": 659524,
+      "word": "老师说马嘉祺发真声是软的",
+      "onboard_time": 1663163434,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 675171,
       "num": 602057,
       "word": "张杰 好笑",
       "onboard_time": 1663076194,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 674931,
+      "num": 674931,
+      "word": "成都疫情防控",
+      "onboard_time": 1663162950,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 655004,
@@ -595,6 +635,14 @@
       "category": "幽默,教育"
     },
     {
+      "raw_hot": 594143,
+      "num": 594143,
+      "word": "钟文泽",
+      "onboard_time": 1663162474,
+      "rank": 15,
+      "category": "科技"
+    },
+    {
       "raw_hot": 579107,
       "num": 579107,
       "word": "王鹤棣上部剧本座这部剧奴才",
@@ -609,14 +657,6 @@
       "onboard_time": 1663127194,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 545042,
-      "num": 545042,
-      "word": "明天苏州可弹性上下学",
-      "onboard_time": 1663158633,
-      "rank": 28,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 533066,
@@ -747,12 +787,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 427235,
+      "num": 427235,
+      "word": "终于可以实现听歌自由了",
+      "onboard_time": 1663157970,
+      "rank": 33,
+      "category": "科技"
+    },
+    {
       "raw_hot": 423639,
       "num": 423639,
       "word": "四川增本土确诊127例无症状83例",
       "onboard_time": 1663121550,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 419231,
+      "num": 419231,
+      "word": "王鹤棣新剧状态",
+      "onboard_time": 1663158092,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 418791,
@@ -827,14 +883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 400148,
-      "num": 400148,
-      "word": "王鹤棣新剧状态",
-      "onboard_time": 1663158092,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 384096,
       "num": 320666,
       "word": "黄景瑜新剧终于能专心搞事业了",
@@ -881,6 +929,14 @@
       "onboard_time": 1663134328,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 342570,
+      "num": 342570,
+      "word": "95后女孩与100个陌生人交换礼物",
+      "onboard_time": 1663160432,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 341432,
@@ -963,12 +1019,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 318426,
+      "num": 318426,
+      "word": "无锡停课",
+      "onboard_time": 1663162594,
+      "rank": 22,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 317750,
       "num": 317750,
       "word": "男子半夜趴门缝偷窥夫妻睡觉",
       "onboard_time": 1663129356,
       "rank": 29,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 315212,
+      "num": 315212,
+      "word": "风景园林",
+      "onboard_time": 1663159952,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 313887,
@@ -985,6 +1057,14 @@
       "onboard_time": 1663086147,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310072,
+      "num": 310072,
+      "word": "iPhone14真机测评",
+      "onboard_time": 1663163073,
+      "rank": 24,
+      "category": "科技"
     },
     {
       "raw_hot": 308293,
@@ -1091,6 +1171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 283033,
+      "num": 283033,
+      "word": "羊了个羊为何突然爆火",
+      "onboard_time": 1663154131,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 281910,
       "num": 281910,
       "word": "家委会的权力是不是太大了",
@@ -1179,6 +1267,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 264373,
+      "num": 264373,
+      "word": "中央气象台",
+      "onboard_time": 1663162052,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263713,
       "num": 263713,
       "word": "羊了个羊真的很烦人",
@@ -1187,36 +1283,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 263481,
-      "num": 263481,
-      "word": "终于可以实现听歌自由了",
-      "onboard_time": 1663157970,
-      "rank": 33,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 255294,
-      "num": 255294,
-      "word": "风景园林",
-      "onboard_time": 1663159952,
-      "rank": 27,
-      "category": "教育"
-    },
-    {
       "raw_hot": 255056,
       "num": 255056,
       "word": "初中生刮坏车辆车主惩罚其写试卷",
       "onboard_time": 1663125032,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 254162,
-      "num": 254162,
-      "word": "羊了个羊为何突然爆火",
-      "onboard_time": 1663154131,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 253018,
@@ -1459,6 +1531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203832,
+      "num": 203832,
+      "word": "谢娜话剧状态",
+      "onboard_time": 1663161632,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 201562,
       "num": 201562,
       "word": "女方悔婚拒退彩礼男子挂横幅寻人",
@@ -1576,22 +1656,6 @@
       "word": "蔡徐坤沸腾校园全黑造型路透",
       "onboard_time": 1663143811,
       "rank": 34,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 180544,
-      "num": 180544,
-      "word": "95后女孩与100个陌生人交换礼物",
-      "onboard_time": 1663160432,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 179601,
-      "num": 179601,
-      "word": "谢娜话剧状态",
-      "onboard_time": 1663161632,
-      "rank": 37,
       "category": "作品衍生"
     },
     {
@@ -1787,6 +1851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133593,
+      "num": 133593,
+      "word": "编剧你看看这些剧情合理吗",
+      "onboard_time": 1663159713,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 133155,
       "num": 133155,
       "word": "她们的名字",
@@ -1859,14 +1931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 114699,
-      "num": 114699,
-      "word": "编剧你看看这些剧情合理吗",
-      "onboard_time": 1663159713,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 111948,
       "num": 111948,
       "word": "这就是重庆的兔子嘛",
@@ -1913,6 +1977,14 @@
       "onboard_time": 1663061735,
       "rank": 46,
       "category": "科技"
+    },
+    {
+      "raw_hot": 101985,
+      "num": 1264536,
+      "word": "歼20为志愿军烈士遗骸护航",
+      "onboard_time": 1663161814,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100760,
