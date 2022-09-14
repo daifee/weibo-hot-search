@@ -1,0 +1,410 @@
+{
+  "runTime": 1663125277999,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9835748,
+        "num": 9835748,
+        "word": "羊了个羊",
+        "onboard_time": 1663116150,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1423315,
+        "num": 1423315,
+        "word": "苹果市值一夜蒸发1500亿美元",
+        "onboard_time": 1663118849,
+        "rank": 1,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 68303,
+        "num": 1090995,
+        "word": "消防员车上挂满泸定人送的哈达",
+        "onboard_time": 1663076555,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1052354,
+        "num": 1052354,
+        "word": "苹果承认将增加系统广告",
+        "onboard_time": 1663119328,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1001766,
+        "num": 1001766,
+        "word": "52岁大学生报到被查3次录取通知书",
+        "onboard_time": 1663119508,
+        "rank": 4,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 940993,
+        "num": 940993,
+        "word": "父子俩坐27小时硬座带泡面开学",
+        "onboard_time": 1663118011,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 914474,
+        "num": 914474,
+        "word": "iPhone14ProMax史上最重iPhone",
+        "onboard_time": 1663122870,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 875061,
+        "num": 875061,
+        "word": "人民网评张翰新剧",
+        "onboard_time": 1663077877,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 808569,
+        "num": 808569,
+        "word": "全国人大代表提议全面消灭蚊子",
+        "onboard_time": 1663117053,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 801998,
+        "num": 801998,
+        "word": "小孩鬼探头被撞倒家长罚其面壁思过",
+        "onboard_time": 1663120168,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 959971,
+        "num": 797976,
+        "word": "赵丽颖费加罗花蝶焕羽大片",
+        "onboard_time": 1663123712,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 792515,
+        "num": 792515,
+        "word": "浮图缘",
+        "onboard_time": 1663120349,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 546110,
+        "num": 546110,
+        "word": "羊了个羊 bug",
+        "onboard_time": 1663081481,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 545479,
+        "num": 545479,
+        "word": "顺丰回应寄丢20克黄金只赔2000",
+        "onboard_time": 1663115971,
+        "rank": 13,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 499914,
+        "num": 499914,
+        "word": "知道分手是对的但还是难过",
+        "onboard_time": 1663118011,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 427188,
+        "num": 427188,
+        "word": "A股",
+        "onboard_time": 1663121248,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 423639,
+        "num": 423639,
+        "word": "四川增本土确诊127例无症状83例",
+        "onboard_time": 1663121550,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406487,
+        "num": 406487,
+        "word": "浮图缘首支预告",
+        "onboard_time": 1663122752,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 385116,
+        "num": 385116,
+        "word": "网传一公司厕所隔间装监控",
+        "onboard_time": 1663116211,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384904,
+        "num": 384904,
+        "word": "男子将190公斤猪血制假鸭血售卖",
+        "onboard_time": 1663114651,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376498,
+        "num": 376498,
+        "word": "考教资的动力有了",
+        "onboard_time": 1663114951,
+        "rank": 20,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 363536,
+        "num": 363536,
+        "word": "谈恋爱的唯一目的 就是吃苦",
+        "onboard_time": 1663081122,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359229,
+        "num": 359229,
+        "word": "沈阳疫情防控",
+        "onboard_time": 1663120650,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361009,
+        "num": 355499,
+        "word": "杨笠脱口秀大会杀疯了",
+        "onboard_time": 1663109777,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348427,
+        "num": 348427,
+        "word": "任天堂",
+        "onboard_time": 1663079504,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 290993,
+        "num": 290993,
+        "word": "女子拖行李箱离厂遭保安拖拽开箱",
+        "onboard_time": 1663117891,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267881,
+        "num": 267881,
+        "word": "新川日常阵容官宣",
+        "onboard_time": 1663124790,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261747,
+        "num": 261747,
+        "word": "上海地铁2号线",
+        "onboard_time": 1663119452,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237106,
+        "num": 237106,
+        "word": "法拉利",
+        "onboard_time": 1663118130,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 217321,
+        "num": 230481,
+        "word": "运20接英雄回家",
+        "onboard_time": 1663122930,
+        "rank": 29,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 224389,
+        "num": 224389,
+        "word": "广西一水库放生有害鱼种清道夫",
+        "onboard_time": 1663115251,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224384,
+        "num": 224384,
+        "word": "台风",
+        "onboard_time": 1663114110,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212097,
+        "num": 212097,
+        "word": "夫妻疑因吵架把狗推下4楼",
+        "onboard_time": 1663083157,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207458,
+        "num": 207458,
+        "word": "戈达尔选择安乐死离世",
+        "onboard_time": 1663079021,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205564,
+        "num": 205564,
+        "word": "Sofm结婚",
+        "onboard_time": 1663125214,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 194503,
+        "num": 194503,
+        "word": "请君",
+        "onboard_time": 1663124069,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193587,
+        "num": 193587,
+        "word": "2022下半年英语四六级报名",
+        "onboard_time": 1663116452,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 183842,
+        "num": 183842,
+        "word": "你安全吗",
+        "onboard_time": 1663123772,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181809,
+        "num": 181809,
+        "word": "16岁女孩湍流中连救两名男子",
+        "onboard_time": 1663111344,
+        "rank": 38,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 177138,
+        "num": 177138,
+        "word": "交警草丛找到遗失碎骨伤者免截肢",
+        "onboard_time": 1663124730,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173457,
+        "num": 173457,
+        "word": "拉宏桑淘汰",
+        "onboard_time": 1663084353,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165179,
+        "num": 165179,
+        "word": "BLACKPINK新歌ShutDown预告",
+        "onboard_time": 1663112546,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 167513,
+        "num": 164643,
+        "word": "杨超越喜欢看直播卖爸爸衫",
+        "onboard_time": 1663114351,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163640,
+        "num": 163640,
+        "word": "提前激活iPhone14每台罚款20万",
+        "onboard_time": 1663077156,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 155825,
+        "num": 155825,
+        "word": "羊了个羊过不去",
+        "onboard_time": 1663124790,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147612,
+        "num": 147612,
+        "word": "电视剧野蛮生长",
+        "onboard_time": 1663116692,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143123,
+        "num": 143123,
+        "word": "钟辰乐钱银",
+        "onboard_time": 1663123651,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141152,
+        "num": 141152,
+        "word": "绵阳疫情防控",
+        "onboard_time": 1663118534,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140499,
+        "num": 140499,
+        "word": "初中生刮坏车辆车主惩罚其写试卷",
+        "onboard_time": 1663125032,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135089,
+        "num": 135089,
+        "word": "为什么消费者不爱预制菜",
+        "onboard_time": 1663123532,
+        "rank": 49,
+        "category": "美食,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国跨度#"
+    }
+  }
+}

@@ -1,7 +1,15 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663122680096,
+  "endTime": 1663125277999,
   "band_list": [
+    {
+      "raw_hot": 9835748,
+      "num": 9835748,
+      "word": "羊了个羊",
+      "onboard_time": 1663025968,
+      "rank": 47,
+      "category": "游戏"
+    },
     {
       "raw_hot": 9785867,
       "num": 9785867,
@@ -49,14 +57,6 @@
       "onboard_time": 1662987699,
       "rank": 1,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 4647041,
-      "num": 4647041,
-      "word": "羊了个羊",
-      "onboard_time": 1663025968,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 4428299,
@@ -843,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1001766,
+      "num": 1001766,
+      "word": "52岁大学生报到被查3次录取通知书",
+      "onboard_time": 1663119508,
+      "rank": 11,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 989245,
       "num": 989245,
       "word": "蒙古国草原火蔓延至我国边境呼伦贝尔",
@@ -856,6 +864,14 @@
       "word": "这就是中式美人吧",
       "onboard_time": 1663071630,
       "rank": 4,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 959971,
+      "num": 797976,
+      "word": "赵丽颖费加罗花蝶焕羽大片",
+      "onboard_time": 1663123712,
+      "rank": 10,
       "category": "作品衍生"
     },
     {
@@ -905,6 +921,14 @@
       "onboard_time": 1663120349,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 914474,
+      "num": 914474,
+      "word": "iPhone14ProMax史上最重iPhone",
+      "onboard_time": 1663122870,
+      "rank": 6,
+      "category": "科技"
     },
     {
       "raw_hot": 906026,
@@ -1027,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 801998,
+      "num": 801998,
+      "word": "小孩鬼探头被撞倒家长罚其面壁思过",
+      "onboard_time": 1663120168,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 792102,
       "num": 792102,
       "word": "老人体检回家后被3岁重孙三连问",
@@ -1105,14 +1137,6 @@
       "onboard_time": 1663109777,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 737000,
-      "num": 737000,
-      "word": "52岁大学生报到被查3次录取通知书",
-      "onboard_time": 1663119508,
-      "rank": 11,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 735388,
@@ -1443,14 +1467,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 565357,
-      "num": 565357,
-      "word": "小孩鬼探头被撞倒家长罚其面壁思过",
-      "onboard_time": 1663120168,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 559588,
       "num": 559588,
       "word": "iOS16将支持清洁能源充电",
@@ -1689,6 +1705,14 @@
       "onboard_time": 1662908037,
       "rank": 7,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 499914,
+      "num": 499914,
+      "word": "知道分手是对的但还是难过",
+      "onboard_time": 1663118011,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 495644,
@@ -2027,20 +2051,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 423639,
+      "num": 423639,
+      "word": "四川增本土确诊127例无症状83例",
+      "onboard_time": 1663121550,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 422619,
       "num": 422619,
       "word": "中国男排失去奥运资格赛主动权",
       "onboard_time": 1662953194,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 420166,
-      "num": 420166,
-      "word": "知道分手是对的但还是难过",
-      "onboard_time": 1663118011,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 417395,
@@ -2089,6 +2113,14 @@
       "onboard_time": 1662994486,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 406487,
+      "num": 406487,
+      "word": "浮图缘首支预告",
+      "onboard_time": 1663122752,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 405136,
@@ -2979,20 +3011,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 268389,
-      "num": 268389,
-      "word": "四川增本土确诊127例无症状83例",
-      "onboard_time": 1663121550,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 268189,
       "num": 268189,
       "word": "小鹿 复活",
       "onboard_time": 1662940288,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 267881,
+      "num": 267881,
+      "word": "新川日常阵容官宣",
+      "onboard_time": 1663124790,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 267643,
@@ -3371,6 +3403,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 224384,
+      "num": 224384,
+      "word": "台风",
+      "onboard_time": 1663114110,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222945,
       "num": 167885,
       "word": "2022艾美奖获奖名单",
@@ -3403,14 +3443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 218593,
-      "num": 218593,
-      "word": "台风",
-      "onboard_time": 1663114110,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 218521,
       "num": 218521,
       "word": "陪猫咪躺在游泳池的小朋友",
@@ -3433,6 +3465,14 @@
       "onboard_time": 1663036654,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217321,
+      "num": 230481,
+      "word": "运20接英雄回家",
+      "onboard_time": 1663122930,
+      "rank": 29,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 215754,
@@ -3552,6 +3592,14 @@
       "word": "2022王者荣耀挑战者杯",
       "onboard_time": 1663047879,
       "rank": 41,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 205564,
+      "num": 205564,
+      "word": "Sofm结婚",
+      "onboard_time": 1663125214,
+      "rank": 34,
       "category": "游戏"
     },
     {
@@ -3795,6 +3843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 177138,
+      "num": 177138,
+      "word": "交警草丛找到遗失碎骨伤者免截肢",
+      "onboard_time": 1663124730,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172867,
       "num": 172867,
       "word": "第一次在鱼脸上看到了表情",
@@ -3939,6 +3995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 155825,
+      "num": 155825,
+      "word": "羊了个羊过不去",
+      "onboard_time": 1663124790,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 154482,
       "num": 154482,
       "word": "60多岁男房东给21岁女租客发不雅视频",
@@ -4011,6 +4075,14 @@
       "category": "美妆,时尚"
     },
     {
+      "raw_hot": 143123,
+      "num": 143123,
+      "word": "钟辰乐钱银",
+      "onboard_time": 1663123651,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140864,
       "num": 140864,
       "word": "增强体质可缓解过敏性疾病",
@@ -4024,6 +4096,14 @@
       "word": "长期嚼槟榔的危害有多大",
       "onboard_time": 1662991902,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140499,
+      "num": 140499,
+      "word": "初中生刮坏车辆车主惩罚其写试卷",
+      "onboard_time": 1663125032,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -4049,6 +4129,14 @@
       "onboard_time": 1662994064,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 135089,
+      "num": 135089,
+      "word": "为什么消费者不爱预制菜",
+      "onboard_time": 1663123532,
+      "rank": 49,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 133238,
@@ -4608,6 +4696,9 @@
     },
     {
       "word": "#习主席的国礼故事#"
+    },
+    {
+      "word": "#中国跨度#"
     }
   ]
 }

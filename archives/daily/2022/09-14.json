@@ -1,10 +1,10 @@
 {
   "startTime": 1663086802432,
-  "endTime": 1663122680096,
+  "endTime": 1663125277999,
   "band_list": [
     {
-      "raw_hot": 4647041,
-      "num": 4647041,
+      "raw_hot": 9835748,
+      "num": 9835748,
       "word": "羊了个羊",
       "onboard_time": 1663025968,
       "rank": 13,
@@ -99,6 +99,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1001766,
+      "num": 1001766,
+      "word": "52岁大学生报到被查3次录取通知书",
+      "onboard_time": 1663119508,
+      "rank": 11,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 959971,
+      "num": 797976,
+      "word": "赵丽颖费加罗花蝶焕羽大片",
+      "onboard_time": 1663123712,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 939947,
       "num": 939947,
       "word": "杨笠 你不懂男人",
@@ -115,6 +131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 914474,
+      "num": 914474,
+      "word": "iPhone14ProMax史上最重iPhone",
+      "onboard_time": 1663122870,
+      "rank": 6,
+      "category": "科技"
+    },
+    {
       "raw_hot": 853290,
       "num": 607778,
       "word": "谈恋爱的唯一目的 就是吃苦",
@@ -129,6 +153,14 @@
       "onboard_time": 1663083692,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 801998,
+      "num": 801998,
+      "word": "小孩鬼探头被撞倒家长罚其面壁思过",
+      "onboard_time": 1663120168,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 781062,
@@ -153,14 +185,6 @@
       "onboard_time": 1663109777,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 737000,
-      "num": 737000,
-      "word": "52岁大学生报到被查3次录取通知书",
-      "onboard_time": 1663119508,
-      "rank": 11,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 685967,
@@ -211,20 +235,20 @@
       "category": "幽默,教育"
     },
     {
-      "raw_hot": 565357,
-      "num": 565357,
-      "word": "小孩鬼探头被撞倒家长罚其面壁思过",
-      "onboard_time": 1663120168,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 507119,
       "num": 507119,
       "word": "男生校裤画红蜘蛛号召停止经期嘲笑",
       "onboard_time": 1663080641,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 499914,
+      "num": 499914,
+      "word": "知道分手是对的但还是难过",
+      "onboard_time": 1663118011,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 478857,
@@ -259,12 +283,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 420166,
-      "num": 420166,
-      "word": "知道分手是对的但还是难过",
-      "onboard_time": 1663118011,
-      "rank": 21,
-      "category": "情感"
+      "raw_hot": 423639,
+      "num": 423639,
+      "word": "四川增本土确诊127例无症状83例",
+      "onboard_time": 1663121550,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 415988,
@@ -273,6 +297,14 @@
       "onboard_time": 1663116452,
       "rank": 22,
       "category": "教育"
+    },
+    {
+      "raw_hot": 406487,
+      "num": 406487,
+      "word": "浮图缘首支预告",
+      "onboard_time": 1663122752,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 401760,
@@ -371,12 +403,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 268389,
-      "num": 268389,
-      "word": "四川增本土确诊127例无症状83例",
-      "onboard_time": 1663121550,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 267881,
+      "num": 267881,
+      "word": "新川日常阵容官宣",
+      "onboard_time": 1663124790,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 252609,
@@ -427,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224384,
+      "num": 224384,
+      "word": "台风",
+      "onboard_time": 1663114110,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222771,
       "num": 222771,
       "word": "父母为什么理解不了你的累",
@@ -443,12 +483,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 218593,
-      "num": 218593,
-      "word": "台风",
-      "onboard_time": 1663114110,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 217321,
+      "num": 230481,
+      "word": "运20接英雄回家",
+      "onboard_time": 1663122930,
+      "rank": 29,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 214774,
@@ -491,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205564,
+      "num": 205564,
+      "word": "Sofm结婚",
+      "onboard_time": 1663125214,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 201562,
       "num": 201562,
       "word": "女方悔婚拒退彩礼男子挂横幅寻人",
@@ -515,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194503,
+      "num": 194503,
+      "word": "请君",
+      "onboard_time": 1663124069,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 194103,
       "num": 194103,
       "word": "美股",
@@ -523,12 +579,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 183842,
+      "num": 183842,
+      "word": "你安全吗",
+      "onboard_time": 1663123772,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 182890,
       "num": 162835,
       "word": "这就是中式美人吧",
       "onboard_time": 1663071630,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 177138,
+      "num": 177138,
+      "word": "交警草丛找到遗失碎骨伤者免截肢",
+      "onboard_time": 1663124730,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172867,
@@ -603,6 +675,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 155825,
+      "num": 155825,
+      "word": "羊了个羊过不去",
+      "onboard_time": 1663124790,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 153769,
       "num": 153533,
       "word": "欧冠",
@@ -619,12 +699,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143123,
+      "num": 143123,
+      "word": "钟辰乐钱银",
+      "onboard_time": 1663123651,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 140499,
+      "num": 140499,
+      "word": "初中生刮坏车辆车主惩罚其写试卷",
+      "onboard_time": 1663125032,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139659,
       "num": 139659,
       "word": "玄武湖花开如铺上红色地毯",
       "onboard_time": 1663121969,
       "rank": 49,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 135089,
+      "num": 135089,
+      "word": "为什么消费者不爱预制菜",
+      "onboard_time": 1663123532,
+      "rank": 49,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 132442,
@@ -817,6 +921,9 @@
     },
     {
       "word": "#上合组织元首理事会#"
+    },
+    {
+      "word": "#中国跨度#"
     }
   ]
 }
