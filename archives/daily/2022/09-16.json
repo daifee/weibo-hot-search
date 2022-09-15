@@ -1,6 +1,6 @@
 {
   "startTime": 1663259654662,
-  "endTime": 1663259654662,
+  "endTime": 1663261105147,
   "band_list": [
     {
       "raw_hot": 1077199,
@@ -11,8 +11,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 910945,
-      "num": 283742,
+      "raw_hot": 1048135,
+      "num": 1048135,
       "word": "海南免税版iPhone14系列价格",
       "onboard_time": 1663256795,
       "rank": 10,
@@ -41,6 +41,14 @@
       "onboard_time": 1663251279,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 507389,
+      "num": 194920,
+      "word": "因为是虞书欣",
+      "onboard_time": 1663260501,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 503625,
@@ -131,6 +139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 220449,
+      "num": 187998,
+      "word": "C罗最新身价2000万欧",
+      "onboard_time": 1663258705,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 218338,
       "num": 218338,
       "word": "赵丽颖和刘威又杠上了",
@@ -187,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161600,
+      "num": 161600,
+      "word": "谁能拒绝川渝男人的魅力呢",
+      "onboard_time": 1663260383,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153216,
       "num": 153216,
       "word": "陈晓给李沁新剧打call",
@@ -209,6 +233,14 @@
       "onboard_time": 1663252961,
       "rank": 26,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 126908,
+      "num": 196644,
+      "word": "这段视频肉食爱好者都扛不住",
+      "onboard_time": 1663257391,
+      "rank": 37,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 124977,
@@ -259,12 +291,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 101204,
-      "num": 101204,
-      "word": "C罗最新身价2000万欧",
-      "onboard_time": 1663258705,
-      "rank": 33,
-      "category": "体育"
+      "raw_hot": 99350,
+      "num": 99350,
+      "word": "新闻联播",
+      "onboard_time": 1663250677,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 98682,
@@ -289,14 +321,6 @@
       "onboard_time": 1663247069,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 93992,
-      "num": 93992,
-      "word": "这段视频肉食爱好者都扛不住",
-      "onboard_time": 1663257391,
-      "rank": 37,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 93603,
@@ -347,14 +371,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 85333,
-      "num": 89651,
-      "word": "新闻联播",
-      "onboard_time": 1663250677,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 80577,
       "num": 80577,
       "word": "武汉一鱼塘疑遭投毒2万斤鱼死亡",
@@ -401,11 +417,22 @@
       "onboard_time": 1663240711,
       "rank": 2,
       "category": "其它"
+    },
+    {
+      "raw_hot": 37993,
+      "num": 37993,
+      "word": "11岁女孩自学建模实现盲盒自由",
+      "onboard_time": 1663238670,
+      "rank": 49,
+      "category": "社会新闻,科技"
     }
   ],
   "hotgov_list": [
     {
       "word": "#习近平主席中亚之行#"
+    },
+    {
+      "word": "#英雄回家#"
     }
   ]
 }

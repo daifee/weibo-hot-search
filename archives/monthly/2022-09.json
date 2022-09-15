@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1663259654662,
+  "endTime": 1663261105147,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -4899,6 +4899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1048135,
+      "num": 1048135,
+      "word": "海南免税版iPhone14系列价格",
+      "onboard_time": 1663256795,
+      "rank": 10,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1046740,
       "num": 1046740,
       "word": "印度成为第五大经济体",
@@ -6097,14 +6105,6 @@
       "onboard_time": 1662716727,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 910945,
-      "num": 283742,
-      "word": "海南免税版iPhone14系列价格",
-      "onboard_time": 1663256795,
-      "rank": 10,
-      "category": "科技"
     },
     {
       "raw_hot": 910180,
@@ -10953,6 +10953,14 @@
       "onboard_time": 1662878849,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 507389,
+      "num": 194920,
+      "word": "因为是虞书欣",
+      "onboard_time": 1663260501,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 507073,
@@ -23203,6 +23211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220449,
+      "num": 187998,
+      "word": "C罗最新身价2000万欧",
+      "onboard_time": 1663258705,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220079,
       "num": 220079,
       "word": "内江疫情防控",
@@ -26723,6 +26739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161600,
+      "num": 161600,
+      "word": "谁能拒绝川渝男人的魅力呢",
+      "onboard_time": 1663260383,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161557,
       "num": 161557,
       "word": "科技春晚",
@@ -28859,6 +28883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126908,
+      "num": 196644,
+      "word": "这段视频肉食爱好者都扛不住",
+      "onboard_time": 1663257391,
+      "rank": 37,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 126895,
       "num": 126895,
       "word": "体现修养的18个细节",
@@ -29603,14 +29635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 101204,
-      "num": 101204,
-      "word": "C罗最新身价2000万欧",
-      "onboard_time": 1663258705,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 100913,
       "num": 100913,
       "word": "狼队总决赛加油",
@@ -29753,14 +29777,6 @@
       "onboard_time": 1663249899,
       "rank": 49,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 93992,
-      "num": 93992,
-      "word": "这段视频肉食爱好者都扛不住",
-      "onboard_time": 1663257391,
-      "rank": 37,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 93654,
