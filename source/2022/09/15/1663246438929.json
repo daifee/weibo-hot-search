@@ -1,0 +1,410 @@
+{
+  "runTime": 1663246438929,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 794642,
+        "num": 794642,
+        "word": "欢瑞世纪股东被列为老赖",
+        "onboard_time": 1663245571,
+        "rank": 0,
+        "category": "财经,艺人"
+      },
+      {
+        "raw_hot": 782990,
+        "num": 782990,
+        "word": "张朝阳出物理题考网友仅一人答出",
+        "onboard_time": 1663236273,
+        "rank": 1,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 66123,
+        "num": 770830,
+        "word": "打击网络谣言共建清朗家园",
+        "onboard_time": 1663240711,
+        "rank": 2,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 1178592,
+        "num": 770145,
+        "word": "虞书欣新剧相亲对象是觞阙",
+        "onboard_time": 1663244191,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 762337,
+        "num": 762337,
+        "word": "东八区的先生们 离谱",
+        "onboard_time": 1663240172,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 754603,
+        "num": 754603,
+        "word": "女子手机密码6个0被盗19万",
+        "onboard_time": 1663239510,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 675036,
+        "num": 675036,
+        "word": "山东小伙放弃公务员工作回村种地",
+        "onboard_time": 1663242028,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 583590,
+        "num": 583590,
+        "word": "女子网购鸡胸肉一捏似豆腐",
+        "onboard_time": 1663240349,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491722,
+        "num": 491722,
+        "word": "离岸人民币兑美元跌破7.0关口",
+        "onboard_time": 1663239871,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 487686,
+        "num": 487686,
+        "word": "狗狗进饭店站婴儿座椅里进食",
+        "onboard_time": 1663241128,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501915,
+        "num": 479129,
+        "word": "任嘉伦李沁新剧刚开播就大婚",
+        "onboard_time": 1663234409,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 417607,
+        "num": 417607,
+        "word": "赵丽颖和刘威又杠上了",
+        "onboard_time": 1663245870,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 371250,
+        "num": 371250,
+        "word": "难听",
+        "onboard_time": 1663234591,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 326404,
+        "num": 326404,
+        "word": "人民币三年三次破7",
+        "onboard_time": 1663244849,
+        "rank": 13,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 322274,
+        "num": 322274,
+        "word": "7岁男孩1分钟3次横穿马路被撞",
+        "onboard_time": 1663235070,
+        "rank": 14,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 315076,
+        "num": 315076,
+        "word": "女子丢手机3个月没挂失被盗19万",
+        "onboard_time": 1663241970,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296980,
+        "num": 296980,
+        "word": "LBL",
+        "onboard_time": 1663237713,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 282440,
+        "num": 282440,
+        "word": "酸奶产品宣称从老人肠道采集益生菌",
+        "onboard_time": 1663243290,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282325,
+        "num": 282325,
+        "word": "为什么恋爱会让人降智",
+        "onboard_time": 1663242392,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 280143,
+        "num": 280143,
+        "word": "7岁男童摘苍耳粘满头",
+        "onboard_time": 1663234772,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274115,
+        "num": 274115,
+        "word": "整个kpop都在等星河集美回应",
+        "onboard_time": 1663230030,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268090,
+        "num": 268090,
+        "word": "亲爱的生命",
+        "onboard_time": 1663246110,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258495,
+        "num": 258495,
+        "word": "狐妖小红娘月红篇非遗文化",
+        "onboard_time": 1663245930,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245026,
+        "num": 245026,
+        "word": "胃胀气一下子就缓解了",
+        "onboard_time": 1663232732,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200698,
+        "num": 200698,
+        "word": "武汉一鱼塘疑遭投毒2万斤鱼死亡",
+        "onboard_time": 1663245393,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179260,
+        "num": 179260,
+        "word": "11岁女孩自学建模实现盲盒自由",
+        "onboard_time": 1663238670,
+        "rank": 25,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 172665,
+        "num": 172665,
+        "word": "从脸看脾胃好不好",
+        "onboard_time": 1663244191,
+        "rank": 26,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 160593,
+        "num": 160593,
+        "word": "落霞与白鹭齐飞原来这么美",
+        "onboard_time": 1663238193,
+        "rank": 27,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 156174,
+        "num": 156174,
+        "word": "业内人士回应保时捷起火车主遇难",
+        "onboard_time": 1663240231,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139721,
+        "num": 139721,
+        "word": "年轻人宁买万元手机不花4元充电",
+        "onboard_time": 1663246352,
+        "rank": 29,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 208714,
+        "num": 139281,
+        "word": "李秀满将与公司结束制作人合约",
+        "onboard_time": 1663234956,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206273,
+        "num": 138093,
+        "word": "男明星原声台词对比",
+        "onboard_time": 1663236693,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203311,
+        "num": 136311,
+        "word": "莲花楼",
+        "onboard_time": 1663237414,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190575,
+        "num": 135167,
+        "word": "杨洋说一起准时来看彬彬新剧",
+        "onboard_time": 1663239091,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134698,
+        "num": 134698,
+        "word": "动画片还是拍保守了",
+        "onboard_time": 1663228411,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134228,
+        "num": 134228,
+        "word": "请帮4位志愿军烈士寻亲",
+        "onboard_time": 1663245870,
+        "rank": 35,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 127818,
+        "num": 127818,
+        "word": "文在寅过中秋为妻女切西瓜",
+        "onboard_time": 1663233088,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119570,
+        "num": 119570,
+        "word": "东北人抄底西双版纳楼市",
+        "onboard_time": 1663230452,
+        "rank": 37,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 117356,
+        "num": 117356,
+        "word": "这小熊猫应该没少被提着走",
+        "onboard_time": 1663237052,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112836,
+        "num": 112836,
+        "word": "舌尖上的安全知多少",
+        "onboard_time": 1663245331,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178999,
+        "num": 110498,
+        "word": "中国说唱巅峰对决2023拟邀职业经理人",
+        "onboard_time": 1663242690,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178557,
+        "num": 107997,
+        "word": "四个人的小森林",
+        "onboard_time": 1663231769,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156447,
+        "num": 104469,
+        "word": "五哈硬汉季拟邀嘉宾",
+        "onboard_time": 1663238493,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98426,
+        "num": 98426,
+        "word": "成都人出门的第一件事",
+        "onboard_time": 1663226669,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93357,
+        "num": 93357,
+        "word": "公司转正交五险女子拒入职反被骂",
+        "onboard_time": 1663235731,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87934,
+        "num": 87934,
+        "word": "哥哥睡觉被弟弟剃成地中海",
+        "onboard_time": 1663228352,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86235,
+        "num": 86235,
+        "word": "7旬老人用水勾兑假油上门售卖",
+        "onboard_time": 1663229612,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83529,
+        "num": 83529,
+        "word": "陪猫猫再多走一段路",
+        "onboard_time": 1663234533,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83415,
+        "num": 83415,
+        "word": "乐视30天直播14场带货2万元",
+        "onboard_time": 1663232732,
+        "rank": 48,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 79293,
+        "num": 79293,
+        "word": "大国重器中的河南制造",
+        "onboard_time": 1663244849,
+        "rank": 49,
+        "category": "科技,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国与哈乌两国要走互利共赢之路#"
+    }
+  }
+}
