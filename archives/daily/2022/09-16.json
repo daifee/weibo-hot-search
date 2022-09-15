@@ -1,6 +1,6 @@
 {
   "startTime": 1663259654662,
-  "endTime": 1663276967180,
+  "endTime": 1663278020401,
   "band_list": [
     {
       "raw_hot": 1077199,
@@ -483,11 +483,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 20401,
-      "num": 20401,
+      "raw_hot": 25480,
+      "num": 25480,
       "word": "公司回应招人事不录用单身人士",
       "onboard_time": 1663274231,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24808,
+      "num": 24808,
+      "word": "台湾在福岛进口食品中检出微量辐射",
+      "onboard_time": 1663275490,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -497,6 +505,14 @@
       "onboard_time": 1663266793,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 10206,
+      "num": 10206,
+      "word": "江苏多地发布停课通知",
+      "onboard_time": 1663275971,
+      "rank": 47,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 10044,
@@ -515,12 +531,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 8299,
-      "num": 8299,
-      "word": "台湾在福岛进口食品中检出微量辐射",
-      "onboard_time": 1663275490,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 8613,
+      "num": 8613,
+      "word": "哥你好票房破2亿",
+      "onboard_time": 1663277233,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 7488,
@@ -531,20 +547,20 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 7455,
-      "num": 7455,
-      "word": "江苏多地发布停课通知",
-      "onboard_time": 1663275971,
-      "rank": 47,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 7334,
       "num": 7334,
       "word": "警察将遗失试卷吹干还给小朋友",
       "onboard_time": 1663274050,
       "rank": 44,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 6857,
+      "num": 7211,
+      "word": "吉林大学2022年开学典礼",
+      "onboard_time": 1663277650,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 6674,
@@ -577,6 +593,14 @@
       "onboard_time": 1663273390,
       "rank": 47,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 6501,
+      "num": 7203,
+      "word": "台风梅花三登我国",
+      "onboard_time": 1663277051,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 6481,
