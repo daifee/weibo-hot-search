@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/15 23:45:03
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/16 00:34:14
 </p>
 </blockquote>
 <p>
@@ -3501,6 +3501,12 @@ QQ推出QQ学生卡（热度：1084298）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9C%8D%E9%BA%BB%E8%BE%A3%E6%B2%A1%E4%BA%86%23" target="weibo">
+霍麻辣没了（热度：1077199）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%B5%E9%98%B3%E6%96%B0%E5%86%A0%E9%98%B3%E6%80%A7%E7%97%85%E4%BE%8B%E7%B4%AF%E8%AE%A1%E8%BE%BE104%E4%BE%8B%23" target="weibo">
 贵阳新冠阳性病例累计达104例（热度：1077038）
 </a>
@@ -4577,6 +4583,12 @@ iPhone14ProMax史上最重iPhone（热度：914474）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8D%E5%85%B0%E8%AF%80OST%E4%BB%8A%E5%A4%8F%E5%B0%81%E7%A5%9E%23" target="weibo">
 苍兰诀OST今夏封神（热度：911505）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%8D%97%E5%85%8D%E7%A8%8E%E7%89%88iPhone14%E7%B3%BB%E5%88%97%E4%BB%B7%E6%A0%BC%23" target="weibo">
+海南免税版iPhone14系列价格（热度：910945）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ Fly落水（热度：713443）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2336%E5%B2%81%E6%AD%8C%E6%89%8B%E5%9A%BC%E6%A7%9F%E6%A6%946%E5%B9%B4%E5%9B%A0%E5%8F%A3%E8%85%94%E7%99%8C%E8%BF%87%E4%B8%96%23" target="weibo">
 36岁歌手嚼槟榔6年因口腔癌过世（热度：706679）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23AirPodsPro2%E5%B0%86%E9%9A%8FiPhone14%E4%B8%80%E8%B5%B7%E5%8F%91%E5%B8%83%23" target="weibo">
-AirPodsPro2将随iPhone14一起发布（热度：706062）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%B5%84%E8%80%83%E8%AF%95%E6%8A%A5%E5%90%8D%E4%BA%BA%E6%95%B0%E5%8D%87%E8%87%B31144.2%E4%B8%87%23" target="weibo">
-教资考试报名人数升至1144.2万（热度：705726）
 </a>
 </li>
 
