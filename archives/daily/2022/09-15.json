@@ -1,6 +1,6 @@
 {
   "startTime": 1663173270447,
-  "endTime": 1663218061586,
+  "endTime": 1663221902716,
   "band_list": [
     {
       "raw_hot": 5379560,
@@ -88,6 +88,14 @@
       "word": "奶茶溅入电脑显示屏致蚂蚁筑巢",
       "onboard_time": 1663167093,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1223157,
+      "num": 1223157,
+      "word": "男子私下称53岁老板为老太太被辞退",
+      "onboard_time": 1663216364,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -211,6 +219,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 746782,
+      "num": 746782,
+      "word": "张凌赫说虞美人风华绝代美妆顶流",
+      "onboard_time": 1663218041,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 732878,
       "num": 732878,
       "word": "AirPods Pro 2 值得买吗",
@@ -233,6 +249,14 @@
       "onboard_time": 1663173565,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 695304,
+      "num": 429526,
+      "word": "王嘉尔四天连开三场海外签售",
+      "onboard_time": 1663217262,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 683303,
@@ -307,19 +331,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 528124,
-      "num": 528124,
+      "raw_hot": 528258,
+      "num": 528258,
       "word": "男子5万承包野鱼塘仅捞出4条鱼",
       "onboard_time": 1663215758,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 517555,
-      "num": 517555,
-      "word": "男子私下称53岁老板为老太太被辞退",
-      "onboard_time": 1663216364,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -337,14 +353,6 @@
       "onboard_time": 1663213411,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 466747,
-      "num": 72819,
-      "word": "张凌赫说虞美人风华绝代美妆顶流",
-      "onboard_time": 1663218041,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 462146,
@@ -379,12 +387,28 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 434748,
+      "num": 434748,
+      "word": "股市",
+      "onboard_time": 1663215096,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 423126,
       "num": 349630,
       "word": "狂飙预告尺度",
       "onboard_time": 1663211911,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 422775,
+      "num": 422775,
+      "word": "少女患遗传病肠道长数百个息肉",
+      "onboard_time": 1663218041,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 411943,
@@ -441,6 +465,14 @@
       "onboard_time": 1663192993,
       "rank": 28,
       "category": "科技"
+    },
+    {
+      "raw_hot": 385013,
+      "num": 385013,
+      "word": "官方回应姐拒给弟买房被父母起诉",
+      "onboard_time": 1663219117,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 377583,
@@ -515,14 +547,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 336793,
-      "num": 139311,
-      "word": "王嘉尔四天连开三场海外签售",
-      "onboard_time": 1663217262,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 333456,
       "num": 333456,
       "word": "张雨绮直播状态",
@@ -569,6 +593,14 @@
       "onboard_time": 1663195699,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 312761,
+      "num": 233140,
+      "word": "李彩演将10月solo出道",
+      "onboard_time": 1663220730,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 308553,
@@ -651,12 +683,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 277047,
+      "num": 233008,
+      "word": "野蛮生长",
+      "onboard_time": 1663220613,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 276046,
       "num": 276046,
       "word": "钱塘江入海口惊现大片潮汐树",
       "onboard_time": 1663170392,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265328,
+      "num": 168631,
+      "word": "昆仑神宫",
+      "onboard_time": 1663219773,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 257847,
@@ -707,6 +755,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 236942,
+      "num": 236942,
+      "word": "同时摆烂的两只猫咪",
+      "onboard_time": 1663218218,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 235807,
       "num": 235807,
       "word": "开学后才知道的专业真相",
@@ -739,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222180,
+      "num": 222180,
+      "word": "女子被男友控制办证时写纸条求助",
+      "onboard_time": 1663220613,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219433,
       "num": 219433,
       "word": "产妇回应家属不知全名护士拒给娃",
@@ -753,6 +817,14 @@
       "onboard_time": 1663200153,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 205434,
+      "num": 205434,
+      "word": "Hero星元已就位",
+      "onboard_time": 1663221092,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 202804,
@@ -827,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184298,
+      "num": 164625,
+      "word": "陈晓 尘封十三载",
+      "onboard_time": 1663221329,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 183548,
       "num": 183548,
       "word": "商家月花10万请带货3个月卖出690元",
@@ -835,20 +915,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 183330,
-      "num": 183330,
-      "word": "股市",
-      "onboard_time": 1663215096,
-      "rank": 28,
-      "category": "财经"
-    },
-    {
       "raw_hot": 180589,
       "num": 180589,
       "word": "法考",
       "onboard_time": 1663163733,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 179745,
+      "num": 179745,
+      "word": "一些无用但很喜欢的东西",
+      "onboard_time": 1663219475,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 179612,
@@ -881,6 +961,14 @@
       "onboard_time": 1663162353,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162268,
+      "num": 162268,
+      "word": "管泽元评S12世界赛TOP10",
+      "onboard_time": 1663220792,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 161043,
@@ -928,6 +1016,30 @@
       "word": "女孩字迹如印刷体引网友夸赞",
       "onboard_time": 1663191431,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150354,
+      "num": 112303,
+      "word": "两个人的小森林",
+      "onboard_time": 1663220074,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 149566,
+      "num": 149566,
+      "word": "为什么玩得好的人学得也好",
+      "onboard_time": 1663217861,
+      "rank": 45,
+      "category": "教育,情感"
+    },
+    {
+      "raw_hot": 146982,
+      "num": 146982,
+      "word": "1岁萌娃爬向公路邻居一把抱回",
+      "onboard_time": 1663218638,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -1035,6 +1147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102979,
+      "num": 102979,
+      "word": "这居然是只猫",
+      "onboard_time": 1663221329,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 100052,
       "num": 100052,
       "word": "什么叫天生反骨",
@@ -1107,22 +1227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 80117,
-      "num": 80117,
-      "word": "为什么玩得好的人学得也好",
-      "onboard_time": 1663217861,
-      "rank": 45,
-      "category": "教育,情感"
-    },
-    {
-      "raw_hot": 75016,
-      "num": 72749,
-      "word": "少女患遗传病肠道长数百个息肉",
-      "onboard_time": 1663218041,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 53612,
       "num": 53612,
       "word": "58岁自驾阿姨苏敏称会继续出发",
@@ -1137,6 +1241,14 @@
       "onboard_time": 1663175599,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 38291,
+      "num": 175501,
+      "word": "英雄回家主题海报",
+      "onboard_time": 1663219416,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35578,
