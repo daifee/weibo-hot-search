@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663253094003,
+  "endTime": 1663255573074,
   "band_list": [
     {
       "raw_hot": 9835748,
@@ -345,6 +345,14 @@
       "onboard_time": 1663045248,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 2234938,
+      "num": 932542,
+      "word": "新闻联播",
+      "onboard_time": 1663250677,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2216084,
@@ -1131,6 +1139,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1122575,
+      "num": 828136,
+      "word": "任嘉伦原声",
+      "onboard_time": 1663252782,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1121898,
       "num": 962409,
       "word": "豆豆 男的吃烧烤只能穿肠镜裤",
@@ -1283,6 +1299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1055132,
+      "num": 536042,
+      "word": "杨超越好像把我骂醒了",
+      "onboard_time": 1663251279,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1053648,
       "num": 1053648,
       "word": "韩剧现偶男主角人设天花板",
@@ -1291,20 +1315,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1050275,
-      "num": 523946,
-      "word": "杨超越好像把我骂醒了",
-      "onboard_time": 1663251279,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1048579,
       "num": 1048579,
       "word": "女方悔婚拒退彩礼男子挂横幅寻人",
       "onboard_time": 1663071334,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1029288,
+      "num": 753930,
+      "word": "矿大回应男生打架被取消保研",
+      "onboard_time": 1663252121,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1025639,
@@ -1808,14 +1832,6 @@
       "word": "商家月花10万请带货3个月卖出690元",
       "onboard_time": 1663157371,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 795295,
-      "num": 795295,
-      "word": "新闻联播",
-      "onboard_time": 1663250677,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -2635,6 +2651,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 535530,
+      "num": 535530,
+      "word": "祖传秘方掏耳屎其实是话梅和面粉",
+      "onboard_time": 1663250376,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 534419,
       "num": 534419,
       "word": "蜜雪冰城柠檬水中有虫子被罚1万",
@@ -3163,6 +3187,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 455803,
+      "num": 455803,
+      "word": "被家长撞见自嗨真的很尴尬",
+      "onboard_time": 1663250737,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 455727,
       "num": 455727,
       "word": "小鹏飞行汽车续航35分钟",
@@ -3283,6 +3315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 440448,
+      "num": 440448,
+      "word": "女儿送务农爸爸跑步机让他健身",
+      "onboard_time": 1663251940,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 440179,
       "num": 440179,
       "word": "黑龙江肇东未发生网传小孩打奶奶事件",
@@ -3337,14 +3377,6 @@
       "onboard_time": 1663162052,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 431846,
-      "num": 431846,
-      "word": "任嘉伦原声",
-      "onboard_time": 1663252782,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 429832,
@@ -3745,14 +3777,6 @@
       "onboard_time": 1662989860,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 384466,
-      "num": 384466,
-      "word": "矿大回应男生打架被取消保研",
-      "onboard_time": 1663252121,
-      "rank": 48,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 384096,
@@ -4416,14 +4440,6 @@
       "word": "市长热线回应高速服务区餐厅有老鼠",
       "onboard_time": 1662965854,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 323314,
-      "num": 323314,
-      "word": "祖传秘方掏耳屎其实是话梅和面粉",
-      "onboard_time": 1663250376,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -5251,14 +5267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 265842,
-      "num": 265842,
-      "word": "被家长撞见自嗨真的很尴尬",
-      "onboard_time": 1663250737,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 265328,
       "num": 193628,
       "word": "昆仑神宫",
@@ -5305,6 +5313,22 @@
       "onboard_time": 1663241491,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 261841,
+      "num": 261841,
+      "word": "Adobe宣布收购Figma",
+      "onboard_time": 1663252961,
+      "rank": 49,
+      "category": "科技,财经"
+    },
+    {
+      "raw_hot": 261469,
+      "num": 238033,
+      "word": "SHOTARO舞蹈挑战",
+      "onboard_time": 1663253982,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 261419,
@@ -5651,6 +5675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 235884,
+      "num": 235884,
+      "word": "白血病男孩想捐出剩余的200多万善款",
+      "onboard_time": 1663251821,
+      "rank": 45,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 235807,
       "num": 235807,
       "word": "开学后才知道的专业真相",
@@ -5787,6 +5819,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 228678,
+      "num": 228678,
+      "word": "教育局回应一中学限制上厕所人次",
+      "onboard_time": 1663254340,
+      "rank": 24,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 228605,
       "num": 228605,
       "word": "东兴疫情防控",
@@ -5809,6 +5849,14 @@
       "onboard_time": 1663208727,
       "rank": 47,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 226609,
+      "num": 226609,
+      "word": "中产家庭一年养娃花多少钱",
+      "onboard_time": 1663254461,
+      "rank": 26,
+      "category": "教育,情感"
     },
     {
       "raw_hot": 226270,
@@ -5939,6 +5987,14 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 216733,
+      "num": 206142,
+      "word": "陈晓给李沁新剧打call",
+      "onboard_time": 1663254583,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 215865,
       "num": 215865,
       "word": "BLACKPINK新专回归倒计时海报",
@@ -6017,6 +6073,14 @@
       "onboard_time": 1663112546,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 211604,
+      "num": 211604,
+      "word": "谢谢你罗杰",
+      "onboard_time": 1663252483,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 211241,
@@ -6227,6 +6291,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 199751,
+      "num": 199751,
+      "word": "猫猫过上了我的理想生活",
+      "onboard_time": 1663254101,
+      "rank": 35,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 199103,
       "num": 169401,
       "word": "UFC总裁认为李景亮赢了",
@@ -6345,14 +6417,6 @@
       "onboard_time": 1663238193,
       "rank": 43,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 191946,
-      "num": 191946,
-      "word": "谢谢你罗杰",
-      "onboard_time": 1663252483,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 191899,
@@ -6515,14 +6579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 184004,
-      "num": 184004,
-      "word": "白血病男孩想捐出剩余的200多万善款",
-      "onboard_time": 1663251821,
-      "rank": 45,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 183592,
       "num": 168122,
       "word": "这些国家为什么要迁都",
@@ -6577,14 +6633,6 @@
       "onboard_time": 1662986199,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 179002,
-      "num": 179002,
-      "word": "女儿送务农爸爸跑步机让他健身",
-      "onboard_time": 1663251940,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 178999,
@@ -7275,14 +7323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 124423,
-      "num": 124423,
-      "word": "Adobe宣布收购Figma",
-      "onboard_time": 1663252961,
-      "rank": 49,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 124352,
       "num": 124352,
       "word": "宝宝刚出生就像混入了中年圈",
@@ -7313,6 +7353,14 @@
       "onboard_time": 1663112306,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119143,
+      "num": 119143,
+      "word": "乌兹别克斯坦首枚最高友谊勋章",
+      "onboard_time": 1663255538,
+      "rank": 49,
+      "category": "国外要闻,国内要闻"
     },
     {
       "raw_hot": 119058,
@@ -7361,6 +7409,14 @@
       "onboard_time": 1663160010,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115390,
+      "num": 1536974,
+      "word": "打击网络谣言共建清朗家园",
+      "onboard_time": 1663240711,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 115224,
@@ -7529,14 +7585,6 @@
       "onboard_time": 1662908393,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100016,
-      "num": 1536974,
-      "word": "打击网络谣言共建清朗家园",
-      "onboard_time": 1663240711,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 98249,
