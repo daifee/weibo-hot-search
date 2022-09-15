@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/15 19:20:58
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/15 19:38:01
 </p>
 </blockquote>
 <p>
@@ -2343,6 +2343,12 @@ B站二季度净亏损20亿（热度：1413487）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23LBL%23" target="weibo">
+LBL（热度：1377848）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%99%9A%E5%A4%9A%E5%B0%91%E5%AD%A9%E5%AD%90%E4%BC%9A%E5%88%9B%E9%80%A0%E5%A5%87%E8%BF%B9%23" target="weibo">
 今晚多少孩子会创造奇迹（热度：1377318）
 </a>
@@ -2849,12 +2855,6 @@ Twins不承认吴谨言的粤语是自己教的（热度：1255504）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BC%96%E5%89%A7%E7%9C%9F%E7%9A%84%E5%BE%88%E4%BA%86%E8%A7%A3%E8%B4%AB%E7%A9%B7%23" target="weibo">
 编剧真的很了解贫穷（热度：1229975）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23LBL%23" target="weibo">
-LBL（热度：1228613）
 </a>
 </li>
 
@@ -5499,6 +5499,12 @@ AI画作拿一等奖惹怒人类艺术家（热度：776588）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A6%BB%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E5%85%91%E7%BE%8E%E5%85%83%E8%B7%8C%E7%A0%B47.0%E5%85%B3%E5%8F%A3%23" target="weibo">
+离岸人民币兑美元跌破7.0关口（热度：764329）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BDBBC%E4%B8%AD%E6%96%AD%E5%8E%9F%E6%9C%AC%E8%8A%82%E7%9B%AE%23" target="weibo">
 英国BBC中断原本节目（热度：764299）
 </a>
@@ -6005,12 +6011,6 @@ AirPodsPro2将随iPhone14一起发布（热度：706062）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%A3%8E%E7%9F%A5%E6%88%91%E6%84%8F%E4%BC%98%E9%85%B7%E9%A2%84%E7%BA%A6%E7%A0%B4%E7%99%BE%E4%B8%87%23" target="weibo">
 南风知我意优酷预约破百万（热度：696839）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E4%B8%80%E5%B9%B2%E9%83%A8%E8%90%BD%E9%A9%AC%E5%89%8D%E6%B2%89%E8%BF%B7%E5%BD%93%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%23" target="weibo">
-浙江一干部落马前沉迷当榜一大哥（热度：695382）
 </a>
 </li>
 
