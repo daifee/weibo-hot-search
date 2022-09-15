@@ -1,6 +1,6 @@
 {
   "startTime": 1663173270447,
-  "endTime": 1663255573074,
+  "endTime": 1663256703276,
   "band_list": [
     {
       "raw_hot": 5379560,
@@ -259,6 +259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1116524,
+      "num": 753930,
+      "word": "矿大回应男生打架被取消保研",
+      "onboard_time": 1663252121,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1094083,
       "num": 1094083,
       "word": "4岁孩子担心家中变故患抑郁症",
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 1055132,
-      "num": 536042,
+      "num": 549832,
       "word": "杨超越好像把我骂醒了",
       "onboard_time": 1663251279,
       "rank": 11,
@@ -297,14 +305,6 @@
       "onboard_time": 1663167877,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1029288,
-      "num": 753930,
-      "word": "矿大回应男生打架被取消保研",
-      "onboard_time": 1663252121,
-      "rank": 48,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1015726,
@@ -635,6 +635,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 584429,
+      "num": 584429,
+      "word": "女儿送务农爸爸跑步机让他健身",
+      "onboard_time": 1663251940,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 583590,
       "num": 583590,
       "word": "女子网购鸡胸肉一捏似豆腐",
@@ -673,6 +681,14 @@
       "onboard_time": 1663233088,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 558413,
+      "num": 558413,
+      "word": "贺峻霖主持大影节登上学习强国",
+      "onboard_time": 1663256437,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 547074,
@@ -811,20 +827,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 455163,
+      "num": 455163,
+      "word": "教育局回应一中学限制上厕所人次",
+      "onboard_time": 1663254340,
+      "rank": 24,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 450962,
       "num": 450962,
       "word": "罗一舟张凌赫陈星旭天天向上路透",
       "onboard_time": 1663207768,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 440448,
-      "num": 440448,
-      "word": "女儿送务农爸爸跑步机让他健身",
-      "onboard_time": 1663251940,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 440179,
@@ -1123,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 329837,
+      "num": 329837,
+      "word": "Adobe宣布收购Figma",
+      "onboard_time": 1663252961,
+      "rank": 49,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 327483,
       "num": 327483,
       "word": "原来职场装傻这么重要",
@@ -1355,6 +1379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273607,
+      "num": 273607,
+      "word": "中产家庭一年养娃花多少钱",
+      "onboard_time": 1663254461,
+      "rank": 26,
+      "category": "教育,情感"
+    },
+    {
       "raw_hot": 268322,
       "num": 268322,
       "word": "小沈阳请君演李沁二爹",
@@ -1401,14 +1433,6 @@
       "onboard_time": 1663241491,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 261841,
-      "num": 261841,
-      "word": "Adobe宣布收购Figma",
-      "onboard_time": 1663252961,
-      "rank": 49,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 261469,
@@ -1523,6 +1547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 238644,
+      "num": 238644,
+      "word": "陈晓给李沁新剧打call",
+      "onboard_time": 1663254583,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 238226,
       "num": 238226,
       "word": "iPhone14与Pro该怎么选",
@@ -1555,12 +1587,12 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 228678,
-      "num": 228678,
-      "word": "教育局回应一中学限制上厕所人次",
-      "onboard_time": 1663254340,
-      "rank": 24,
-      "category": "社会新闻,教育"
+      "raw_hot": 228618,
+      "num": 228618,
+      "word": "谢谢你罗杰",
+      "onboard_time": 1663252483,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 228246,
@@ -1577,14 +1609,6 @@
       "onboard_time": 1663208727,
       "rank": 47,
       "category": "财经,科技"
-    },
-    {
-      "raw_hot": 226609,
-      "num": 226609,
-      "word": "中产家庭一年养娃花多少钱",
-      "onboard_time": 1663254461,
-      "rank": 26,
-      "category": "教育,情感"
     },
     {
       "raw_hot": 225530,
@@ -1611,28 +1635,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 216733,
-      "num": 206142,
-      "word": "陈晓给李沁新剧打call",
-      "onboard_time": 1663254583,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 215865,
       "num": 215865,
       "word": "BLACKPINK新专回归倒计时海报",
       "onboard_time": 1663200153,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 211604,
-      "num": 211604,
-      "word": "谢谢你罗杰",
-      "onboard_time": 1663252483,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 207110,
@@ -1675,20 +1683,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 201167,
+      "num": 201167,
+      "word": "猫猫过上了我的理想生活",
+      "onboard_time": 1663254101,
+      "rank": 35,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 200482,
       "num": 200482,
       "word": "台风梅花或由南向北穿过江苏",
       "onboard_time": 1663190891,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 199751,
-      "num": 199751,
-      "word": "猫猫过上了我的理想生活",
-      "onboard_time": 1663254101,
-      "rank": 35,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 199597,
@@ -1939,6 +1947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155855,
+      "num": 137772,
+      "word": "覆流年",
+      "onboard_time": 1663163793,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 155440,
       "num": 155440,
       "word": "猫猫真的可以治愈一切",
@@ -2011,19 +2027,19 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 144055,
+      "num": 144055,
+      "word": "乌兹别克斯坦首枚最高友谊勋章",
+      "onboard_time": 1663255538,
+      "rank": 49,
+      "category": "国外要闻,国内要闻"
+    },
+    {
       "raw_hot": 143136,
       "num": 143136,
       "word": "浮图缘",
       "onboard_time": 1663198525,
       "rank": 39,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 134900,
-      "num": 134900,
-      "word": "覆流年",
-      "onboard_time": 1663163793,
-      "rank": 40,
       "category": "影视"
     },
     {
@@ -2147,14 +2163,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 119143,
-      "num": 119143,
-      "word": "乌兹别克斯坦首枚最高友谊勋章",
-      "onboard_time": 1663255538,
-      "rank": 49,
-      "category": "国外要闻,国内要闻"
-    },
-    {
       "raw_hot": 118732,
       "num": 118732,
       "word": "完善性侵害儿童犯罪人员信息公开制度",
@@ -2265,6 +2273,14 @@
       "onboard_time": 1663164036,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96522,
+      "num": 96522,
+      "word": "生化危机4重制版登陆PS4",
+      "onboard_time": 1663256614,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 95752,
