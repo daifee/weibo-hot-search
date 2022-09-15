@@ -1,0 +1,410 @@
+{
+  "runTime": 1663230828960,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1921041,
+        "num": 1921041,
+        "word": "雷军称37岁已财务自由",
+        "onboard_time": 1663225650,
+        "rank": 0,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 1155032,
+        "num": 1155032,
+        "word": "哥哥睡觉被弟弟剃成地中海",
+        "onboard_time": 1663228352,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15090,
+        "num": 1031208,
+        "word": "歼20为志愿军烈士遗骸护航",
+        "onboard_time": 1663161814,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 993543,
+        "num": 993543,
+        "word": "官方通报网传多名儿童被幼师剪嘴",
+        "onboard_time": 1663227630,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 702541,
+        "num": 702541,
+        "word": "杜富国被炸烂的防护服首次公开",
+        "onboard_time": 1663227929,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 647782,
+        "num": 647782,
+        "word": "Angelababy说我是露娜画中见",
+        "onboard_time": 1663226190,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 629254,
+        "num": 629254,
+        "word": "赵丽颖演的许半夏好飒",
+        "onboard_time": 1663224269,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 506149,
+        "num": 506149,
+        "word": "女子被男友控制办证时写纸条求助",
+        "onboard_time": 1663220613,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503765,
+        "num": 503765,
+        "word": "王鹤棣我可太中二了",
+        "onboard_time": 1663229973,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 429691,
+        "num": 429691,
+        "word": "教育部已取消5类全国性高考加分项目",
+        "onboard_time": 1663210829,
+        "rank": 9,
+        "category": "教育,国内要闻"
+      },
+      {
+        "raw_hot": 1391385,
+        "num": 425986,
+        "word": "整个kpop都在等星河集美回应",
+        "onboard_time": 1663230030,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413683,
+        "num": 413683,
+        "word": "成都人出门的第一件事",
+        "onboard_time": 1663226669,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391611,
+        "num": 391611,
+        "word": "你觉得搞科研的女生酷吗",
+        "onboard_time": 1663226430,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 375809,
+        "num": 375809,
+        "word": "一年一度喜剧大赛2官宣",
+        "onboard_time": 1663230571,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325501,
+        "num": 325501,
+        "word": "男子私下称53岁老板为老太太被辞退",
+        "onboard_time": 1663216364,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296197,
+        "num": 296197,
+        "word": "动画片还是拍保守了",
+        "onboard_time": 1663228411,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 504154,
+        "num": 294786,
+        "word": "拉萨疫情防控",
+        "onboard_time": 1663226010,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290837,
+        "num": 290837,
+        "word": "景甜给张彬彬新剧做宣传",
+        "onboard_time": 1663223429,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254242,
+        "num": 254242,
+        "word": "95后金融男跨行做饮料月销破亿",
+        "onboard_time": 1663229131,
+        "rank": 18,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 229565,
+        "num": 229565,
+        "word": "这居然是只猫",
+        "onboard_time": 1663221329,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 264662,
+        "num": 229564,
+        "word": "小沈阳请君演李沁二爹",
+        "onboard_time": 1663228291,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229556,
+        "num": 229556,
+        "word": "苹果占国内高端机70%份额",
+        "onboard_time": 1663223309,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 226457,
+        "num": 226457,
+        "word": "蔚来手机将走高端路线",
+        "onboard_time": 1663228291,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 219348,
+        "num": 219348,
+        "word": "安妮海瑟薇近照重回穿普拉达的女王",
+        "onboard_time": 1663217081,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 213351,
+        "num": 213351,
+        "word": "少女患遗传病肠道长数百个息肉",
+        "onboard_time": 1663218041,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212758,
+        "num": 212758,
+        "word": "披荆斩棘的哥哥",
+        "onboard_time": 1663227030,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203591,
+        "num": 203591,
+        "word": "南昌男子醉驾检方作出不起诉决定",
+        "onboard_time": 1663223009,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202811,
+        "num": 202811,
+        "word": "苹果官网崩了",
+        "onboard_time": 1663215158,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 187547,
+        "num": 187547,
+        "word": "以太坊",
+        "onboard_time": 1663226010,
+        "rank": 28,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 187513,
+        "num": 187513,
+        "word": "超六成专科生月薪低于5000元",
+        "onboard_time": 1663207828,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205081,
+        "num": 185240,
+        "word": "李一桐新剧从20岁演到40岁",
+        "onboard_time": 1663221994,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203397,
+        "num": 183906,
+        "word": "张若昀新剧预告眼神从呆变狠",
+        "onboard_time": 1663226550,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203064,
+        "num": 181017,
+        "word": "王嘉尔四天连开三场海外签售",
+        "onboard_time": 1663217262,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173188,
+        "num": 173188,
+        "word": "管泽元评S12世界赛TOP10",
+        "onboard_time": 1663220792,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171069,
+        "num": 171069,
+        "word": "两名退伍兵狂奔7节车厢救人",
+        "onboard_time": 1663223909,
+        "rank": 34,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 170668,
+        "num": 170668,
+        "word": "7旬老人用水勾兑假油上门售卖",
+        "onboard_time": 1663229612,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167664,
+        "num": 167664,
+        "word": "谭松韵新剧归路状态",
+        "onboard_time": 1663230093,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158354,
+        "num": 158354,
+        "word": "男子5万承包野鱼塘仅捞出4条鱼",
+        "onboard_time": 1663215758,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156298,
+        "num": 156298,
+        "word": "iPhone14Pro息屏显示支持地图导航",
+        "onboard_time": 1663212511,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 152238,
+        "num": 152238,
+        "word": "官方回应姐拒给弟买房被父母起诉",
+        "onboard_time": 1663219117,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149411,
+        "num": 149411,
+        "word": "张凌赫说虞美人风华绝代美妆顶流",
+        "onboard_time": 1663218041,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148980,
+        "num": 148980,
+        "word": "吴克群40多年首次唱跳",
+        "onboard_time": 1663223609,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144395,
+        "num": 144395,
+        "word": "东北人抄底西双版纳楼市",
+        "onboard_time": 1663230452,
+        "rank": 42,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 141534,
+        "num": 141534,
+        "word": "一些无用但很喜欢的东西",
+        "onboard_time": 1663219475,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138176,
+        "num": 138176,
+        "word": "1岁萌娃爬向公路邻居一把抱回",
+        "onboard_time": 1663218638,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119451,
+        "num": 119451,
+        "word": "为什么玩得好的人学得也好",
+        "onboard_time": 1663217861,
+        "rank": 45,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 119365,
+        "num": 119365,
+        "word": "同时摆烂的两只猫咪",
+        "onboard_time": 1663218218,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117158,
+        "num": 117158,
+        "word": "这只布老虎萌动了谁的童年",
+        "onboard_time": 1663230691,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 110633,
+        "num": 110633,
+        "word": "股市",
+        "onboard_time": 1663215096,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 108432,
+        "num": 108432,
+        "word": "成都好久不见",
+        "onboard_time": 1663224990,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#英雄回家#"
+    }
+  }
+}

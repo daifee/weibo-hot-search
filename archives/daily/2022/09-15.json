@@ -1,6 +1,6 @@
 {
   "startTime": 1663173270447,
-  "endTime": 1663228032684,
+  "endTime": 1663230828960,
   "band_list": [
     {
       "raw_hot": 5379560,
@@ -43,6 +43,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1921041,
+      "num": 1921041,
+      "word": "雷军称37岁已财务自由",
+      "onboard_time": 1663225650,
+      "rank": 5,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 1747076,
       "num": 1747076,
       "word": "羊了个羊 驴了个驴",
@@ -75,6 +83,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1391385,
+      "num": 425986,
+      "word": "整个kpop都在等星河集美回应",
+      "onboard_time": 1663230030,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1309468,
       "num": 1309468,
       "word": "赵丽颖演的许半夏好飒",
@@ -89,14 +105,6 @@
       "onboard_time": 1663197744,
       "rank": 23,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1267047,
-      "num": 1267047,
-      "word": "雷军称37岁已财务自由",
-      "onboard_time": 1663225650,
-      "rank": 5,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 1240197,
@@ -129,6 +137,14 @@
       "onboard_time": 1663208427,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1155032,
+      "num": 1155032,
+      "word": "哥哥睡觉被弟弟剃成地中海",
+      "onboard_time": 1663228352,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1139053,
@@ -169,6 +185,14 @@
       "onboard_time": 1663149808,
       "rank": 12,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 993543,
+      "num": 993543,
+      "word": "官方通报网传多名儿童被幼师剪嘴",
+      "onboard_time": 1663227630,
+      "rank": 44,
+      "category": "社会负面"
     },
     {
       "raw_hot": 992242,
@@ -299,6 +323,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 702541,
+      "num": 702541,
+      "word": "杜富国被炸烂的防护服首次公开",
+      "onboard_time": 1663227929,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 701026,
       "num": 701026,
       "word": "养娃17年花46万女子向前夫要一半被驳",
@@ -321,6 +353,14 @@
       "onboard_time": 1663207287,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 647782,
+      "num": 647782,
+      "word": "Angelababy说我是露娜画中见",
+      "onboard_time": 1663226190,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 615981,
@@ -411,12 +451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 478167,
-      "num": 478167,
-      "word": "Angelababy说我是露娜画中见",
-      "onboard_time": 1663226190,
-      "rank": 20,
-      "category": "影视"
+      "raw_hot": 503765,
+      "num": 503765,
+      "word": "王鹤棣我可太中二了",
+      "onboard_time": 1663229973,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 472349,
@@ -491,6 +531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 413683,
+      "num": 413683,
+      "word": "成都人出门的第一件事",
+      "onboard_time": 1663226669,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 411943,
       "num": 411943,
       "word": "基金",
@@ -539,6 +587,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 391611,
+      "num": 391611,
+      "word": "你觉得搞科研的女生酷吗",
+      "onboard_time": 1663226430,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 391005,
       "num": 391005,
       "word": "灵动岛可显示30多种信息",
@@ -561,6 +617,14 @@
       "onboard_time": 1663197682,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 375809,
+      "num": 375809,
+      "word": "一年一度喜剧大赛2官宣",
+      "onboard_time": 1663230571,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 370733,
@@ -771,12 +835,12 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 295641,
-      "num": 295641,
-      "word": "你觉得搞科研的女生酷吗",
-      "onboard_time": 1663226430,
-      "rank": 24,
-      "category": "情感"
+      "raw_hot": 296197,
+      "num": 296197,
+      "word": "动画片还是拍保守了",
+      "onboard_time": 1663228411,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 295006,
@@ -843,6 +907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 264662,
+      "num": 229564,
+      "word": "小沈阳请君演李沁二爹",
+      "onboard_time": 1663228291,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 258553,
       "num": 225837,
       "word": "野蛮生长首发预告",
@@ -883,12 +955,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 255729,
-      "num": 255729,
-      "word": "成都人出门的第一件事",
-      "onboard_time": 1663226669,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 254242,
+      "num": 254242,
+      "word": "95后金融男跨行做饮料月销破亿",
+      "onboard_time": 1663229131,
+      "rank": 18,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 250015,
@@ -979,6 +1051,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 226457,
+      "num": 226457,
+      "word": "蔚来手机将走高端路线",
+      "onboard_time": 1663228291,
+      "rank": 22,
+      "category": "科技"
+    },
+    {
       "raw_hot": 225530,
       "num": 225530,
       "word": "上海今日全市暂停开放景观照明",
@@ -988,7 +1068,7 @@
     },
     {
       "raw_hot": 221961,
-      "num": 208076,
+      "num": 212758,
       "word": "披荆斩棘的哥哥",
       "onboard_time": 1663227030,
       "rank": 40,
@@ -1155,6 +1235,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170668,
+      "num": 170668,
+      "word": "7旬老人用水勾兑假油上门售卖",
+      "onboard_time": 1663229612,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167664,
+      "num": 167664,
+      "word": "谭松韵新剧归路状态",
+      "onboard_time": 1663230093,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 161043,
       "num": 161043,
       "word": "罚罪",
@@ -1227,6 +1323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 144395,
+      "num": 144395,
+      "word": "东北人抄底西双版纳楼市",
+      "onboard_time": 1663230452,
+      "rank": 42,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 143136,
       "num": 143136,
       "word": "浮图缘",
@@ -1291,14 +1395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 124742,
-      "num": 124742,
-      "word": "官方通报网传多名儿童被幼师剪嘴",
-      "onboard_time": 1663227630,
-      "rank": 44,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 121848,
       "num": 121848,
       "word": "明天苏州可弹性上下学",
@@ -1321,6 +1417,14 @@
       "onboard_time": 1663173985,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117158,
+      "num": 117158,
+      "word": "这只布老虎萌动了谁的童年",
+      "onboard_time": 1663230691,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 112940,
@@ -1369,14 +1473,6 @@
       "onboard_time": 1663169793,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 97558,
-      "num": 97558,
-      "word": "杜富国被炸烂的防护服首次公开",
-      "onboard_time": 1663227929,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 96590,

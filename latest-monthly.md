@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/15 15:47:12
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/15 16:33:48
 </p>
 </blockquote>
 <p>
@@ -1227,6 +1227,12 @@ Doinb升级当爸爸（热度：2008327）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E7%A7%B037%E5%B2%81%E5%B7%B2%E8%B4%A2%E5%8A%A1%E8%87%AA%E7%94%B1%23" target="weibo">
+雷军称37岁已财务自由（热度：1921041）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E9%A9%AC%E4%BB%95%E8%A2%AB%E9%98%BF%E5%A7%A8%E5%8E%8B%E5%9D%8F%23" target="weibo">
 爱马仕被阿姨压坏（热度：1920609）
 </a>
@@ -2277,6 +2283,12 @@ B站二季度净亏损20亿（热度：1413487）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%B4%E4%B8%AAkpop%E9%83%BD%E5%9C%A8%E7%AD%89%E6%98%9F%E6%B2%B3%E9%9B%86%E7%BE%8E%E5%9B%9E%E5%BA%94%23" target="weibo">
+整个kpop都在等星河集美回应（热度：1391385）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E5%B8%A6%E5%89%8D%E5%A5%B3%E5%8F%8B%E7%9B%B8%E4%BA%B2%E7%9A%84%23" target="weibo">
 第一次见带前女友相亲的（热度：1389710）
 </a>
@@ -2697,12 +2709,6 @@ iPhone13官网降价销售（热度：1271944）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E7%A7%B037%E5%B2%81%E5%B7%B2%E8%B4%A2%E5%8A%A1%E8%87%AA%E7%94%B1%23" target="weibo">
-雷军称37岁已财务自由（热度：1267047）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%8A%E7%BD%91%E5%AD%A6%E5%81%9A%E7%94%9F%E8%85%8C%E8%99%BE%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92%23" target="weibo">
 女子上网学做生腌虾食物中毒（热度：1265828）
 </a>
@@ -3071,6 +3077,12 @@ iPhone14已产逾3400万部（热度：1174969）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E4%BA%A4%E5%A5%B3%E5%8F%B8%E6%9C%BA%E4%BB%8E%E8%85%B0%E8%82%8C%E5%8A%B3%E6%8D%9F%E5%88%B0%E7%BB%83%E5%87%BA%E9%A9%AC%E7%94%B2%E7%BA%BF%23" target="weibo">
 公交女司机从腰肌劳损到练出马甲线（热度：1157817）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%A5%E5%93%A5%E7%9D%A1%E8%A7%89%E8%A2%AB%E5%BC%9F%E5%BC%9F%E5%89%83%E6%88%90%E5%9C%B0%E4%B8%AD%E6%B5%B7%23" target="weibo">
+哥哥睡觉被弟弟剃成地中海（热度：1155032）
 </a>
 </li>
 
@@ -3827,6 +3839,12 @@ BLACKPINK新歌未通过KBS审议（热度：999636）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%B8%96%E4%BD%B3%E5%9B%9E%E5%BA%94%E4%BA%8C%E5%8D%81%E4%B8%8D%E6%83%912%E6%B2%A1%E7%BD%B2%E5%90%8D%23" target="weibo">
 金世佳回应二十不惑2没署名（热度：996116）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%BD%91%E4%BC%A0%E5%A4%9A%E5%90%8D%E5%84%BF%E7%AB%A5%E8%A2%AB%E5%B9%BC%E5%B8%88%E5%89%AA%E5%98%B4%23" target="weibo">
+官方通报网传多名儿童被幼师剪嘴（热度：993543）
 </a>
 </li>
 
@@ -5859,6 +5877,12 @@ AirPodsPro2将随iPhone14一起发布（热度：706062）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%AF%8C%E5%9B%BD%E8%A2%AB%E7%82%B8%E7%83%82%E7%9A%84%E9%98%B2%E6%8A%A4%E6%9C%8D%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%23" target="weibo">
+杜富国被炸烂的防护服首次公开（热度：702541）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%98%E4%BB%A5%E4%B8%BA%E8%94%A1%E5%BE%90%E5%9D%A4%E9%95%B6%E4%BA%86%E7%89%99%23" target="weibo">
 还以为蔡徐坤镶了牙（热度：702413）
 </a>
@@ -5987,30 +6011,6 @@ AirPodsPro2将随iPhone14一起发布（热度：706062）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AF%BB%E6%9E%9C%E5%8E%9F%E5%9E%8B%23" target="weibo">
 寻果原型（热度：689158）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E8%BF%85%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
-陈奕迅演唱会（热度：688548）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8D%E5%85%B0%E8%AF%80%E7%95%AA%E5%A4%96%E5%90%BB%E6%88%8F%E6%96%B0%E9%95%9C%E5%A4%B4%23" target="weibo">
-苍兰诀番外吻戏新镜头（热度：687392）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%96%9C%E9%B9%8A%E9%A3%9E%E8%BF%9B%E6%95%99%E5%AE%A4%E5%8F%BC%E8%B5%B0%E5%A5%B3%E7%94%9F%E8%80%B3%E6%9C%BA%23" target="weibo">
-喜鹊飞进教室叼走女生耳机（热度：685871）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23360%23" target="weibo">
-360（热度：685354）
 </a>
 </li>
 
