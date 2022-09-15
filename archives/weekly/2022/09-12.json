@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663209748702,
+  "endTime": 1663212179369,
   "band_list": [
     {
       "raw_hot": 9835748,
@@ -136,6 +136,14 @@
       "word": "顺丰寄丢20克黄金保价八千只赔两千",
       "onboard_time": 1663035392,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3320207,
+      "num": 3320207,
+      "word": "超六成专科生月薪低于5000元",
+      "onboard_time": 1663207828,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -329,14 +337,6 @@
       "onboard_time": 1663128755,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2129110,
-      "num": 2129110,
-      "word": "超六成专科生月薪低于5000元",
-      "onboard_time": 1663207828,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2118452,
@@ -907,6 +907,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1180672,
+      "num": 1180672,
+      "word": "虞书欣头像小兰花换成虞美人了",
+      "onboard_time": 1663208427,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1167072,
       "num": 1167072,
       "word": "男子因发量不符识破换脸艳照",
@@ -929,14 +937,6 @@
       "onboard_time": 1663125635,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1160471,
-      "num": 1160471,
-      "word": "虞书欣头像小兰花换成虞美人了",
-      "onboard_time": 1663208427,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 1148327,
@@ -1017,6 +1017,14 @@
       "onboard_time": 1663071392,
       "rank": 9,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1086052,
+      "num": 1086052,
+      "word": "躲过雪糕刺客没躲过酸奶土匪",
+      "onboard_time": 1663207707,
+      "rank": 12,
+      "category": "美食"
     },
     {
       "raw_hot": 1082564,
@@ -1169,6 +1177,14 @@
       "onboard_time": 1663119508,
       "rank": 11,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 992242,
+      "num": 992242,
+      "word": "九月好多剧",
+      "onboard_time": 1663209386,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 990592,
@@ -1643,6 +1659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 739188,
+      "num": 739188,
+      "word": "教育部已取消5类全国性高考加分项目",
+      "onboard_time": 1663210829,
+      "rank": 8,
+      "category": "教育,国内要闻"
+    },
+    {
       "raw_hot": 735388,
       "num": 735388,
       "word": "河南引进全日制博士可享国企中层副职待遇",
@@ -1811,6 +1835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 666417,
+      "num": 666417,
+      "word": "六公主报道宋亚轩中戏入学",
+      "onboard_time": 1663207287,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 664216,
       "num": 664216,
       "word": "空军直升机在震区危房单轮悬停",
@@ -1825,14 +1857,6 @@
       "onboard_time": 1662965436,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 661522,
-      "num": 527364,
-      "word": "六公主报道宋亚轩中戏入学",
-      "onboard_time": 1663207287,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 660564,
@@ -2145,6 +2169,14 @@
       "onboard_time": 1663035932,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 540902,
+      "num": 732566,
+      "word": "女子倒车不当悬空压在路边车顶",
+      "onboard_time": 1663207167,
+      "rank": 28,
+      "category": "社会负面"
     },
     {
       "raw_hot": 539521,
@@ -2603,14 +2635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 462003,
-      "num": 462003,
-      "word": "躲过雪糕刺客没躲过酸奶土匪",
-      "onboard_time": 1663207707,
-      "rank": 12,
-      "category": "美食"
-    },
-    {
       "raw_hot": 461850,
       "num": 461850,
       "word": "ios16壁纸",
@@ -3051,6 +3075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 391005,
+      "num": 391005,
+      "word": "灵动岛可显示30多种信息",
+      "onboard_time": 1663208848,
+      "rank": 41,
+      "category": "科技"
+    },
+    {
       "raw_hot": 390063,
       "num": 390063,
       "word": "特斯拉或推出廉价电动汽车",
@@ -3225,6 +3257,14 @@
       "onboard_time": 1662977619,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 369488,
+      "num": 369488,
+      "word": "iOS16两天采用率已超iOS15",
+      "onboard_time": 1663207948,
+      "rank": 25,
+      "category": "科技"
     },
     {
       "raw_hot": 368103,
@@ -3424,6 +3464,14 @@
       "word": "史上最强裁缝",
       "onboard_time": 1662992684,
       "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 341024,
+      "num": 341024,
+      "word": "任嘉伦李沁请君取得网剧发行许可证",
+      "onboard_time": 1663211789,
+      "rank": 17,
       "category": "影视"
     },
     {
@@ -3819,6 +3867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303778,
+      "num": 303778,
+      "word": "停车技术差有多尴尬",
+      "onboard_time": 1663209567,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 302843,
       "num": 242967,
       "word": "周迅脱口秀",
@@ -3899,6 +3955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 298685,
+      "num": 298685,
+      "word": "七时吉祥一眼万年片花",
+      "onboard_time": 1663209989,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 298004,
       "num": 298004,
       "word": "刘诗雯色彩碰撞缤纷大片",
@@ -3971,12 +4035,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 289846,
-      "num": 289846,
-      "word": "iOS16两天采用率已超iOS15",
-      "onboard_time": 1663207948,
-      "rank": 25,
-      "category": "科技"
+      "raw_hot": 289715,
+      "num": 289715,
+      "word": "马伊琍白宇新剧双向救赎",
+      "onboard_time": 1663207466,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 289184,
@@ -4323,6 +4387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 263948,
+      "num": 263948,
+      "word": "甄姬战令皮肤",
+      "onboard_time": 1663211429,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 263713,
       "num": 263713,
       "word": "羊了个羊真的很烦人",
@@ -4395,14 +4467,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 253376,
-      "num": 253376,
-      "word": "女子倒车不当悬空压在路边车顶",
-      "onboard_time": 1663207167,
-      "rank": 28,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 253018,
       "num": 253018,
       "word": "天津一小伙给家养小猪喂螃蟹海鲜",
@@ -4457,6 +4521,14 @@
       "onboard_time": 1663043504,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 250015,
+      "num": 250015,
+      "word": "钟无艳战令皮肤",
+      "onboard_time": 1663209086,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 248227,
@@ -4555,6 +4627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 240683,
+      "num": 240683,
+      "word": "基金",
+      "onboard_time": 1663211728,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 240499,
       "num": 240499,
       "word": "这猫是梅超风吧",
@@ -4617,6 +4697,14 @@
       "onboard_time": 1662905633,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 235807,
+      "num": 235807,
+      "word": "开学后才知道的专业真相",
+      "onboard_time": 1663210468,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 235579,
@@ -4753,6 +4841,14 @@
       "onboard_time": 1663136005,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 226632,
+      "num": 226632,
+      "word": "理想汽车",
+      "onboard_time": 1663208727,
+      "rank": 47,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 226270,
@@ -5035,6 +5131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202804,
+      "num": 202804,
+      "word": "罗云熙章若楠路透甜蜜投喂",
+      "onboard_time": 1663209989,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 202481,
       "num": 202481,
       "word": "当人类开始沉迷于狗狗",
@@ -5115,6 +5219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200094,
+      "num": 200094,
+      "word": "狂飙预告尺度",
+      "onboard_time": 1663211911,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 199974,
       "num": 199974,
       "word": "为什么消费者不爱预制菜",
@@ -5153,6 +5265,14 @@
       "onboard_time": 1662900715,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197261,
+      "num": 197261,
+      "word": "田曦薇新剧抱了只鸡",
+      "onboard_time": 1663211429,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 196493,
@@ -5331,14 +5451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 184524,
-      "num": 184524,
-      "word": "马伊琍白宇新剧双向救赎",
-      "onboard_time": 1663207466,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 184342,
       "num": 184342,
       "word": "人大开学典礼",
@@ -5427,14 +5539,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 176047,
-      "num": 176047,
-      "word": "灵动岛可显示30多种信息",
-      "onboard_time": 1663208848,
-      "rank": 41,
-      "category": "科技"
-    },
-    {
       "raw_hot": 174860,
       "num": 174860,
       "word": "百分百开麦导演关注列表",
@@ -5496,14 +5600,6 @@
       "word": "第五人格",
       "onboard_time": 1662978995,
       "rank": 41,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 169561,
-      "num": 169561,
-      "word": "钟无艳战令皮肤",
-      "onboard_time": 1663209086,
-      "rank": 44,
       "category": "游戏"
     },
     {
@@ -5619,14 +5715,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 156323,
-      "num": 156323,
-      "word": "九月好多剧",
-      "onboard_time": 1663209386,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 155825,
       "num": 155825,
       "word": "羊了个羊过不去",
@@ -5667,14 +5755,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 154282,
-      "num": 154282,
-      "word": "理想汽车",
-      "onboard_time": 1663208727,
-      "rank": 47,
-      "category": "财经,科技"
-    },
-    {
       "raw_hot": 153769,
       "num": 153533,
       "word": "欧冠",
@@ -5689,6 +5769,14 @@
       "onboard_time": 1662991001,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151623,
+      "num": 228271,
+      "word": "88名在韩志愿军烈士回家",
+      "onboard_time": 1663211789,
+      "rank": 29,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 151245,
@@ -5729,14 +5817,6 @@
       "onboard_time": 1663116571,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 145625,
-      "num": 145625,
-      "word": "停车技术差有多尴尬",
-      "onboard_time": 1663209567,
-      "rank": 48,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 145011,
@@ -6065,6 +6145,14 @@
       "onboard_time": 1663198827,
       "rank": 48,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 111708,
+      "num": 111708,
+      "word": "台风过境后舟山现双彩虹",
+      "onboard_time": 1663212151,
+      "rank": 49,
+      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 111270,

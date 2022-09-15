@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1663209748702,
+  "endTime": 1663212179369,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -449,6 +449,14 @@
       "onboard_time": 1662630389,
       "rank": 0,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 3320207,
+      "num": 3320207,
+      "word": "超六成专科生月薪低于5000元",
+      "onboard_time": 1663207828,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3318706,
@@ -1296,14 +1304,6 @@
       "word": "伊犁回应网传孩子高烧就医困难",
       "onboard_time": 1662735870,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2129110,
-      "num": 2129110,
-      "word": "超六成专科生月薪低于5000元",
-      "onboard_time": 1663207828,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -3899,6 +3899,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1180672,
+      "num": 1180672,
+      "word": "虞书欣头像小兰花换成虞美人了",
+      "onboard_time": 1663208427,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1174969,
       "num": 1174969,
       "word": "iPhone14已产逾3400万部",
@@ -4001,14 +4009,6 @@
       "onboard_time": 1662695551,
       "rank": 6,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 1160471,
-      "num": 1160471,
-      "word": "虞书欣头像小兰花换成虞美人了",
-      "onboard_time": 1663208427,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 1157817,
@@ -4369,6 +4369,14 @@
       "onboard_time": 1663071392,
       "rank": 9,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1086052,
+      "num": 1086052,
+      "word": "躲过雪糕刺客没躲过酸奶土匪",
+      "onboard_time": 1663207707,
+      "rank": 12,
+      "category": "美食"
     },
     {
       "raw_hot": 1085695,
@@ -5033,6 +5041,14 @@
       "onboard_time": 1662539607,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 992242,
+      "num": 992242,
+      "word": "九月好多剧",
+      "onboard_time": 1663209386,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 990592,
@@ -7275,6 +7291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 739188,
+      "num": 739188,
+      "word": "教育部已取消5类全国性高考加分项目",
+      "onboard_time": 1663210829,
+      "rank": 8,
+      "category": "教育,国内要闻"
+    },
+    {
       "raw_hot": 737107,
       "num": 737107,
       "word": "贺峻霖主持大学生电影节",
@@ -8043,6 +8067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 666417,
+      "num": 666417,
+      "word": "六公主报道宋亚轩中戏入学",
+      "onboard_time": 1663207287,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 666188,
       "num": 666188,
       "word": "迪丽热巴谈安乐传",
@@ -8097,14 +8129,6 @@
       "onboard_time": 1662611072,
       "rank": 28,
       "category": "科技"
-    },
-    {
-      "raw_hot": 661522,
-      "num": 527364,
-      "word": "六公主报道宋亚轩中戏入学",
-      "onboard_time": 1663207287,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 660983,
@@ -9745,6 +9769,14 @@
       "onboard_time": 1662220588,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 540902,
+      "num": 732566,
+      "word": "女子倒车不当悬空压在路边车顶",
+      "onboard_time": 1663207167,
+      "rank": 28,
+      "category": "社会负面"
     },
     {
       "raw_hot": 540474,
@@ -11481,14 +11513,6 @@
       "onboard_time": 1663196843,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 462003,
-      "num": 462003,
-      "word": "躲过雪糕刺客没躲过酸奶土匪",
-      "onboard_time": 1663207707,
-      "rank": 12,
-      "category": "美食"
     },
     {
       "raw_hot": 461850,
@@ -13491,6 +13515,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 391005,
+      "num": 391005,
+      "word": "灵动岛可显示30多种信息",
+      "onboard_time": 1663208848,
+      "rank": 41,
+      "category": "科技"
+    },
+    {
       "raw_hot": 390444,
       "num": 390444,
       "word": "黄景瑜 消防员",
@@ -14353,6 +14385,14 @@
       "onboard_time": 1662807763,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369488,
+      "num": 369488,
+      "word": "iOS16两天采用率已超iOS15",
+      "onboard_time": 1663207948,
+      "rank": 25,
+      "category": "科技"
     },
     {
       "raw_hot": 369044,
@@ -15409,6 +15449,14 @@
       "onboard_time": 1662447987,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 341024,
+      "num": 341024,
+      "word": "任嘉伦李沁请君取得网剧发行许可证",
+      "onboard_time": 1663211789,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 340886,
@@ -17107,6 +17155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 303778,
+      "num": 303778,
+      "word": "停车技术差有多尴尬",
+      "onboard_time": 1663209567,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 303736,
       "num": 303736,
       "word": "困到差点爬不进窝的小狗",
@@ -17385,6 +17441,14 @@
       "onboard_time": 1662086305,
       "rank": 23,
       "category": "科技"
+    },
+    {
+      "raw_hot": 298685,
+      "num": 298685,
+      "word": "七时吉祥一眼万年片花",
+      "onboard_time": 1663209989,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 298652,
@@ -17891,14 +17955,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 289846,
-      "num": 289846,
-      "word": "iOS16两天采用率已超iOS15",
-      "onboard_time": 1663207948,
-      "rank": 25,
-      "category": "科技"
-    },
-    {
       "raw_hot": 289823,
       "num": 289823,
       "word": "魏大勋1秒答出蝴蝶和蛾子的区别",
@@ -17912,6 +17968,14 @@
       "word": "她们的名字 宣传",
       "onboard_time": 1662787829,
       "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 289715,
+      "num": 289715,
+      "word": "马伊琍白宇新剧双向救赎",
+      "onboard_time": 1663207466,
+      "rank": 38,
       "category": "影视"
     },
     {
@@ -19627,6 +19691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263948,
+      "num": 263948,
+      "word": "甄姬战令皮肤",
+      "onboard_time": 1663211429,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 263713,
       "num": 263713,
       "word": "羊了个羊真的很烦人",
@@ -20147,14 +20219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 253376,
-      "num": 253376,
-      "word": "女子倒车不当悬空压在路边车顶",
-      "onboard_time": 1663207167,
-      "rank": 28,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 253345,
       "num": 253345,
       "word": "陈冬说已出舱感觉良好",
@@ -20329,6 +20393,14 @@
       "onboard_time": 1663043504,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 250015,
+      "num": 250015,
+      "word": "钟无艳战令皮肤",
+      "onboard_time": 1663209086,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 249154,
@@ -21099,6 +21171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235807,
+      "num": 235807,
+      "word": "开学后才知道的专业真相",
+      "onboard_time": 1663210468,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 235592,
       "num": 235592,
       "word": "吴易昺晋级美网32强",
@@ -21665,6 +21745,14 @@
       "onboard_time": 1662106947,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 226632,
+      "num": 226632,
+      "word": "理想汽车",
+      "onboard_time": 1663208727,
+      "rank": 47,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 226362,
@@ -22979,6 +23067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202804,
+      "num": 202804,
+      "word": "罗云熙章若楠路透甜蜜投喂",
+      "onboard_time": 1663209989,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 202800,
       "num": 202800,
       "word": "深圳月亮",
@@ -23203,6 +23299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200094,
+      "num": 200094,
+      "word": "狂飙预告尺度",
+      "onboard_time": 1663211911,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 200079,
       "num": 167094,
       "word": "虞美人庄羽cp名",
@@ -23361,6 +23465,14 @@
       "onboard_time": 1662940710,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 197261,
+      "num": 197261,
+      "word": "田曦薇新剧抱了只鸡",
+      "onboard_time": 1663211429,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 197248,
@@ -24219,14 +24331,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 184524,
-      "num": 184524,
-      "word": "马伊琍白宇新剧双向救赎",
-      "onboard_time": 1663207466,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 184342,
       "num": 184342,
       "word": "人大开学典礼",
@@ -24635,14 +24739,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 176047,
-      "num": 176047,
-      "word": "灵动岛可显示30多种信息",
-      "onboard_time": 1663208848,
-      "rank": 41,
-      "category": "科技"
-    },
-    {
       "raw_hot": 175712,
       "num": 175712,
       "word": "消防赶赴泸定救援",
@@ -24977,14 +25073,6 @@
       "onboard_time": 1662898800,
       "rank": 35,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 169561,
-      "num": 169561,
-      "word": "钟无艳战令皮肤",
-      "onboard_time": 1663209086,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 169337,
@@ -25795,14 +25883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 156323,
-      "num": 156323,
-      "word": "九月好多剧",
-      "onboard_time": 1663209386,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 156288,
       "num": 156288,
       "word": "昆明乘坐地铁公交等须持48小时核酸报告",
@@ -25955,14 +26035,6 @@
       "category": "其它"
     },
     {
-      "raw_hot": 154282,
-      "num": 154282,
-      "word": "理想汽车",
-      "onboard_time": 1663208727,
-      "rank": 47,
-      "category": "财经,科技"
-    },
-    {
       "raw_hot": 154145,
       "num": 154145,
       "word": "妈妈也有她的烦恼吧",
@@ -26097,6 +26169,14 @@
       "onboard_time": 1662802834,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 151623,
+      "num": 228271,
+      "word": "88名在韩志愿军烈士回家",
+      "onboard_time": 1663211789,
+      "rank": 29,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 151563,
@@ -26441,14 +26521,6 @@
       "onboard_time": 1662087445,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 145625,
-      "num": 145625,
-      "word": "停车技术差有多尴尬",
-      "onboard_time": 1663209567,
-      "rank": 48,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 145244,
@@ -27953,6 +28025,14 @@
       "onboard_time": 1662271827,
       "rank": 42,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 111708,
+      "num": 111708,
+      "word": "台风过境后舟山现双彩虹",
+      "onboard_time": 1663212151,
+      "rank": 49,
+      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 111304,

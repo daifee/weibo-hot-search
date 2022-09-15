@@ -1,0 +1,410 @@
+{
+  "runTime": 1663212179369,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3320207,
+        "num": 3320207,
+        "word": "超六成专科生月薪低于5000元",
+        "onboard_time": 1663207828,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1877574,
+        "num": 1877574,
+        "word": "安以轩老公陈荣炼涉83项罪",
+        "onboard_time": 1663199668,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 58702,
+        "num": 1426088,
+        "word": "歼20为志愿军烈士遗骸护航",
+        "onboard_time": 1663161814,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1180672,
+        "num": 1180672,
+        "word": "虞书欣头像小兰花换成虞美人了",
+        "onboard_time": 1663208427,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1087807,
+        "num": 1087807,
+        "word": "羊了个羊 驴了个驴",
+        "onboard_time": 1663171289,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1086052,
+        "num": 1086052,
+        "word": "躲过雪糕刺客没躲过酸奶土匪",
+        "onboard_time": 1663207707,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 992242,
+        "num": 992242,
+        "word": "九月好多剧",
+        "onboard_time": 1663209386,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 943541,
+        "num": 943541,
+        "word": "小县城1年种400万克拉钻石",
+        "onboard_time": 1663206569,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 739188,
+        "num": 739188,
+        "word": "教育部已取消5类全国性高考加分项目",
+        "onboard_time": 1663210829,
+        "rank": 8,
+        "category": "教育,国内要闻"
+      },
+      {
+        "raw_hot": 540902,
+        "num": 732566,
+        "word": "女子倒车不当悬空压在路边车顶",
+        "onboard_time": 1663207167,
+        "rank": 9,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 728306,
+        "num": 728306,
+        "word": "羊了个羊山东排第一",
+        "onboard_time": 1663205846,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 666417,
+        "num": 666417,
+        "word": "六公主报道宋亚轩中戏入学",
+        "onboard_time": 1663207287,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 470170,
+        "num": 470170,
+        "word": "iPhone全系支持电量百分比",
+        "onboard_time": 1663202314,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 627281,
+        "num": 450589,
+        "word": "羊了个羊",
+        "onboard_time": 1663200873,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 395677,
+        "num": 395677,
+        "word": "泽连斯基发生交通事故",
+        "onboard_time": 1663197744,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 391005,
+        "num": 391005,
+        "word": "灵动岛可显示30多种信息",
+        "onboard_time": 1663208848,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 369488,
+        "num": 369488,
+        "word": "iOS16两天采用率已超iOS15",
+        "onboard_time": 1663207948,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 341024,
+        "num": 341024,
+        "word": "任嘉伦李沁请君取得网剧发行许可证",
+        "onboard_time": 1663211789,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 314527,
+        "num": 314527,
+        "word": "苏州全域放开非本地购房者限购",
+        "onboard_time": 1663206145,
+        "rank": 18,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 303778,
+        "num": 303778,
+        "word": "停车技术差有多尴尬",
+        "onboard_time": 1663209567,
+        "rank": 19,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 298685,
+        "num": 298685,
+        "word": "七时吉祥一眼万年片花",
+        "onboard_time": 1663209989,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 289715,
+        "num": 289715,
+        "word": "马伊琍白宇新剧双向救赎",
+        "onboard_time": 1663207466,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288640,
+        "num": 288640,
+        "word": "张雨绮直播状态",
+        "onboard_time": 1663206268,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273177,
+        "num": 273177,
+        "word": "iPhone14ProMax续航比上代提升2小时",
+        "onboard_time": 1663207287,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 263948,
+        "num": 263948,
+        "word": "甄姬战令皮肤",
+        "onboard_time": 1663211429,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 250015,
+        "num": 250015,
+        "word": "钟无艳战令皮肤",
+        "onboard_time": 1663209086,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 240683,
+        "num": 240683,
+        "word": "基金",
+        "onboard_time": 1663211728,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 235807,
+        "num": 235807,
+        "word": "开学后才知道的专业真相",
+        "onboard_time": 1663210468,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 230917,
+        "num": 230917,
+        "word": "S12赛程时间正式公布",
+        "onboard_time": 1663199730,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151623,
+        "num": 228271,
+        "word": "88名在韩志愿军烈士回家",
+        "onboard_time": 1663211789,
+        "rank": 29,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 226632,
+        "num": 226632,
+        "word": "理想汽车",
+        "onboard_time": 1663208727,
+        "rank": 30,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 225698,
+        "num": 225698,
+        "word": "养娃17年花46万女子向前夫要一半被驳",
+        "onboard_time": 1663173565,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222606,
+        "num": 222606,
+        "word": "iOS16.1新增清洁能源充电功能",
+        "onboard_time": 1663205069,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 220135,
+        "num": 220135,
+        "word": "女子洗澡时虫子从花洒蠕动爬出",
+        "onboard_time": 1663164215,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212425,
+        "num": 212425,
+        "word": "黑龙江肇东未发生网传小孩打奶奶事件",
+        "onboard_time": 1663201412,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204057,
+        "num": 204057,
+        "word": "58岁自驾阿姨苏敏决定离婚",
+        "onboard_time": 1663167938,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203178,
+        "num": 203178,
+        "word": "张艺兴未至之境演唱会官宣",
+        "onboard_time": 1663209266,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202804,
+        "num": 202804,
+        "word": "罗云熙章若楠路透甜蜜投喂",
+        "onboard_time": 1663209989,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200427,
+        "num": 200427,
+        "word": "男子袭胸女孩称离婚久了有点冲动",
+        "onboard_time": 1663156830,
+        "rank": 38,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 200094,
+        "num": 200094,
+        "word": "狂飙预告尺度",
+        "onboard_time": 1663211911,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197417,
+        "num": 197417,
+        "word": "罗一舟张凌赫陈星旭天天向上路透",
+        "onboard_time": 1663207768,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 197261,
+        "num": 197261,
+        "word": "田曦薇新剧抱了只鸡",
+        "onboard_time": 1663211429,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190548,
+        "num": 190548,
+        "word": "奶茶溅入电脑显示屏致蚂蚁筑巢",
+        "onboard_time": 1663167093,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179174,
+        "num": 179174,
+        "word": "豆豆 男的吃烧烤只能穿肠镜裤",
+        "onboard_time": 1663169912,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177452,
+        "num": 177452,
+        "word": "莲花楼",
+        "onboard_time": 1663198525,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148434,
+        "num": 148434,
+        "word": "韩国法院下令逮捕LUNA币开发者",
+        "onboard_time": 1663182431,
+        "rank": 45,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 146524,
+        "num": 146524,
+        "word": "老人澡堂洗澡猝死家属索赔50万被驳",
+        "onboard_time": 1663183571,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144197,
+        "num": 144197,
+        "word": "距23考研开考还有100天",
+        "onboard_time": 1663204231,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 115821,
+        "num": 115821,
+        "word": "老人去世金毛趴灵前守5天5夜",
+        "onboard_time": 1663171049,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111708,
+        "num": 111708,
+        "word": "台风过境后舟山现双彩虹",
+        "onboard_time": 1663212151,
+        "rank": 49,
+        "category": "自然,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国与哈乌两国要走互利共赢之路#"
+    }
+  }
+}
