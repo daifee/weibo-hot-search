@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1663266608446,
+  "endTime": 1663267674793,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -30595,6 +30595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 46136,
+      "num": 40362,
+      "word": "女子包500亩地种红薯被村民偷挖",
+      "onboard_time": 1663264573,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45758,
       "num": 45758,
       "word": "这是书里走出来的大家闺秀吧",
@@ -30681,14 +30689,6 @@
       "onboard_time": 1662829229,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 38311,
-      "num": 38311,
-      "word": "女子包500亩地种红薯被村民偷挖",
-      "onboard_time": 1663264573,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 38291,
@@ -31017,6 +31017,14 @@
       "onboard_time": 1662060791,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 10518,
+      "num": 10518,
+      "word": "蛋仔派对",
+      "onboard_time": 1663266793,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 10153,

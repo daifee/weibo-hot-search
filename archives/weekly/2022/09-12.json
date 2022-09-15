@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663266608446,
+  "endTime": 1663267674793,
   "band_list": [
     {
       "raw_hot": 9835748,
@@ -7987,6 +7987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 46136,
+      "num": 40362,
+      "word": "女子包500亩地种红薯被村民偷挖",
+      "onboard_time": 1663264573,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45758,
       "num": 45758,
       "word": "这是书里走出来的大家闺秀吧",
@@ -8032,14 +8040,6 @@
       "word": "康辉的vlog上新了",
       "onboard_time": 1663157130,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38311,
-      "num": 38311,
-      "word": "女子包500亩地种红薯被村民偷挖",
-      "onboard_time": 1663264573,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -8113,6 +8113,14 @@
       "onboard_time": 1662873633,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10518,
+      "num": 10518,
+      "word": "蛋仔派对",
+      "onboard_time": 1663266793,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 9742,
