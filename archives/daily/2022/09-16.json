@@ -1,10 +1,10 @@
 {
   "startTime": 1663259654662,
-  "endTime": 1663281706594,
+  "endTime": 1663284447203,
   "band_list": [
     {
       "raw_hot": 1077199,
-      "num": 324320,
+      "num": 357775,
       "word": "霍麻辣没了",
       "onboard_time": 1663257212,
       "rank": 3,
@@ -20,15 +20,31 @@
     },
     {
       "raw_hot": 575394,
-      "num": 318758,
+      "num": 355393,
       "word": "矿大回应男生打架被取消保研",
       "onboard_time": 1663252121,
       "rank": 4,
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 561931,
+      "num": 251835,
+      "word": "谁能拒绝川渝男人的魅力呢",
+      "onboard_time": 1663260383,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 555700,
+      "num": 497002,
+      "word": "4岁孩子担心家中变故患抑郁症",
+      "onboard_time": 1663246592,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 553764,
-      "num": 313734,
+      "num": 463950,
       "word": "教育局回应一中学限制上厕所人次",
       "onboard_time": 1663254340,
       "rank": 5,
@@ -43,12 +59,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 533963,
-      "num": 161600,
-      "word": "谁能拒绝川渝男人的魅力呢",
-      "onboard_time": 1663260383,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 543419,
+      "num": 543419,
+      "word": "台湾在福岛进口食品中检出微量辐射",
+      "onboard_time": 1663275490,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 507389,
@@ -83,12 +99,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 344074,
-      "num": 344074,
-      "word": "台湾在福岛进口食品中检出微量辐射",
-      "onboard_time": 1663275490,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 357478,
+      "num": 256293,
+      "word": "年轻人宁买万元手机不花4元充电",
+      "onboard_time": 1663246352,
+      "rank": 14,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 331047,
@@ -107,12 +123,12 @@
       "category": "其它"
     },
     {
-      "raw_hot": 289114,
-      "num": 289114,
-      "word": "4岁孩子担心家中变故患抑郁症",
-      "onboard_time": 1663246592,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 301018,
+      "num": 301018,
+      "word": "请君",
+      "onboard_time": 1663248457,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 278435,
@@ -123,12 +139,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 256293,
-      "num": 256293,
-      "word": "年轻人宁买万元手机不花4元充电",
-      "onboard_time": 1663246352,
-      "rank": 14,
-      "category": "科技,社会新闻"
+      "raw_hot": 269730,
+      "num": 269730,
+      "word": "女子包500亩地种红薯被村民偷挖",
+      "onboard_time": 1663264573,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253586,
@@ -163,6 +179,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 227988,
+      "num": 227988,
+      "word": "西藏疫情防控",
+      "onboard_time": 1663284383,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223845,
+      "num": 223845,
+      "word": "公司回应招人事不录用单身人士",
+      "onboard_time": 1663274231,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218338,
       "num": 218338,
       "word": "赵丽颖和刘威又杠上了",
@@ -184,14 +216,6 @@
       "word": "东八区的先生们 离谱",
       "onboard_time": 1663240172,
       "rank": 20,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 207274,
-      "num": 207274,
-      "word": "请君",
-      "onboard_time": 1663248457,
-      "rank": 21,
       "category": "影视"
     },
     {
@@ -243,6 +267,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 130042,
+      "num": 130042,
+      "word": "白冰新剧用30万与原生家庭和解",
+      "onboard_time": 1663269492,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 129234,
       "num": 196644,
       "word": "这段视频肉食爱好者都扛不住",
@@ -267,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116193,
+      "num": 116193,
+      "word": "台风梅花三登我国",
+      "onboard_time": 1663277051,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115873,
       "num": 115873,
       "word": "胃胀气一下子就缓解了",
@@ -283,8 +323,16 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 109609,
-      "num": 109609,
+      "raw_hot": 113222,
+      "num": 113222,
+      "word": "宝宝刚出生就像混入了中年圈",
+      "onboard_time": 1663241372,
+      "rank": 24,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 110316,
+      "num": 110316,
       "word": "人民币三年三次破7",
       "onboard_time": 1663244849,
       "rank": 28,
@@ -339,14 +387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 96532,
-      "num": 96532,
-      "word": "公司回应招人事不录用单身人士",
-      "onboard_time": 1663274231,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 93603,
       "num": 93603,
       "word": "LBL",
@@ -395,14 +435,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 86996,
-      "num": 86996,
-      "word": "女子包500亩地种红薯被村民偷挖",
-      "onboard_time": 1663264573,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 83501,
       "num": 83501,
       "word": "琼姐杨兴权吻别",
@@ -419,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80298,
+      "num": 80298,
+      "word": "上海奉贤15日上午停课停学",
+      "onboard_time": 1663274891,
+      "rank": 40,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 70351,
       "num": 70351,
       "word": "很难不对明艳大美人心动吧",
@@ -427,12 +467,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 66781,
-      "num": 66781,
-      "word": "台风梅花三登我国",
-      "onboard_time": 1663277051,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 70026,
+      "num": 70026,
+      "word": "东八区的先生们有多油",
+      "onboard_time": 1663242990,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 66602,
@@ -459,12 +499,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 59380,
-      "num": 59380,
-      "word": "白冰新剧用30万与原生家庭和解",
-      "onboard_time": 1663269492,
-      "rank": 8,
-      "category": "影视"
+      "raw_hot": 59503,
+      "num": 59503,
+      "word": "11岁女孩自学建模实现盲盒自由",
+      "onboard_time": 1663238670,
+      "rank": 49,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 57043,
@@ -475,12 +515,28 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 44785,
-      "num": 326153,
+      "raw_hot": 52373,
+      "num": 52373,
+      "word": "哥你好票房破2亿",
+      "onboard_time": 1663277233,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 49409,
+      "num": 501303,
       "word": "打击网络谣言共建清朗家园",
       "onboard_time": 1663240711,
       "rank": 2,
       "category": "其它"
+    },
+    {
+      "raw_hot": 47248,
+      "num": 47248,
+      "word": "新生军训画八卦求雨",
+      "onboard_time": 1663278131,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 42710,
@@ -499,44 +555,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 37993,
-      "num": 37993,
-      "word": "11岁女孩自学建模实现盲盒自由",
-      "onboard_time": 1663238670,
-      "rank": 49,
-      "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 37781,
-      "num": 37781,
-      "word": "哥你好票房破2亿",
-      "onboard_time": 1663277233,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 36359,
-      "num": 36359,
-      "word": "上海奉贤15日上午停课停学",
-      "onboard_time": 1663274891,
-      "rank": 40,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 33771,
       "num": 32013,
       "word": "小森林亲友团集齐了我的甜剧墙头",
       "onboard_time": 1663263914,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 15547,
-      "num": 16943,
-      "word": "新生军训画八卦求雨",
-      "onboard_time": 1663278131,
-      "rank": 49,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 10518,

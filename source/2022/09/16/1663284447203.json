@@ -1,0 +1,410 @@
+{
+  "runTime": 1663284447203,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 997482,
+        "num": 997482,
+        "word": "海南免税版iPhone14系列价格",
+        "onboard_time": 1663256795,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 543419,
+        "num": 543419,
+        "word": "台湾在福岛进口食品中检出微量辐射",
+        "onboard_time": 1663275490,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49409,
+        "num": 501303,
+        "word": "打击网络谣言共建清朗家园",
+        "onboard_time": 1663240711,
+        "rank": 2,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 555700,
+        "num": 497002,
+        "word": "4岁孩子担心家中变故患抑郁症",
+        "onboard_time": 1663246592,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463950,
+        "num": 463950,
+        "word": "教育局回应一中学限制上厕所人次",
+        "onboard_time": 1663254340,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 391081,
+        "num": 391081,
+        "word": "女儿送务农爸爸跑步机让他健身",
+        "onboard_time": 1663251940,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357775,
+        "num": 357775,
+        "word": "霍麻辣没了",
+        "onboard_time": 1663257212,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 355393,
+        "num": 355393,
+        "word": "矿大回应男生打架被取消保研",
+        "onboard_time": 1663252121,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 301018,
+        "num": 301018,
+        "word": "请君",
+        "onboard_time": 1663248457,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269730,
+        "num": 269730,
+        "word": "女子包500亩地种红薯被村民偷挖",
+        "onboard_time": 1663264573,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561931,
+        "num": 251835,
+        "word": "谁能拒绝川渝男人的魅力呢",
+        "onboard_time": 1663260383,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357478,
+        "num": 250075,
+        "word": "年轻人宁买万元手机不花4元充电",
+        "onboard_time": 1663246352,
+        "rank": 11,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 327337,
+        "num": 242355,
+        "word": "杨超越好像把我骂醒了",
+        "onboard_time": 1663251279,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227988,
+        "num": 227988,
+        "word": "西藏疫情防控",
+        "onboard_time": 1663284383,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223845,
+        "num": 223845,
+        "word": "公司回应招人事不录用单身人士",
+        "onboard_time": 1663274231,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175627,
+        "num": 175627,
+        "word": "中产家庭一年养娃花多少钱",
+        "onboard_time": 1663254461,
+        "rank": 15,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 161267,
+        "num": 161267,
+        "word": "东八区的先生们 离谱",
+        "onboard_time": 1663240172,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158676,
+        "num": 158676,
+        "word": "从脸看脾胃好不好",
+        "onboard_time": 1663244191,
+        "rank": 17,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 138411,
+        "num": 138411,
+        "word": "C罗最新身价2000万欧",
+        "onboard_time": 1663258705,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138336,
+        "num": 138336,
+        "word": "祖传秘方掏耳屎其实是话梅和面粉",
+        "onboard_time": 1663250376,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132575,
+        "num": 132575,
+        "word": "任嘉伦原声",
+        "onboard_time": 1663252782,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130042,
+        "num": 130042,
+        "word": "白冰新剧用30万与原生家庭和解",
+        "onboard_time": 1663269492,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 117563,
+        "num": 117563,
+        "word": "丁禹兮新剧片花换了10套造型",
+        "onboard_time": 1663259543,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 116193,
+        "num": 116193,
+        "word": "台风梅花三登我国",
+        "onboard_time": 1663277051,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113222,
+        "num": 113222,
+        "word": "宝宝刚出生就像混入了中年圈",
+        "onboard_time": 1663241372,
+        "rank": 24,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 110316,
+        "num": 110316,
+        "word": "人民币三年三次破7",
+        "onboard_time": 1663244849,
+        "rank": 25,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 107099,
+        "num": 107099,
+        "word": "赵丽颖和刘威又杠上了",
+        "onboard_time": 1663245870,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 106238,
+        "num": 106238,
+        "word": "被家长撞见自嗨真的很尴尬",
+        "onboard_time": 1663250737,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101079,
+        "num": 101079,
+        "word": "江苏多地发布停课通知",
+        "onboard_time": 1663275971,
+        "rank": 28,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 89091,
+        "num": 96108,
+        "word": "乌兹别克斯坦首枚最高友谊勋章",
+        "onboard_time": 1663255538,
+        "rank": 29,
+        "category": "国外要闻,国内要闻"
+      },
+      {
+        "raw_hot": 91155,
+        "num": 91155,
+        "word": "贺峻霖主持大影节登上学习强国",
+        "onboard_time": 1663256437,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90890,
+        "num": 90890,
+        "word": "酸奶产品宣称从老人肠道采集益生菌",
+        "onboard_time": 1663243290,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80298,
+        "num": 80298,
+        "word": "上海奉贤15日上午停课停学",
+        "onboard_time": 1663274891,
+        "rank": 32,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 76271,
+        "num": 76271,
+        "word": "费德勒宣布退役",
+        "onboard_time": 1663248817,
+        "rank": 33,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 76269,
+        "num": 76269,
+        "word": "武汉一鱼塘疑遭投毒2万斤鱼死亡",
+        "onboard_time": 1663245393,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75563,
+        "num": 75563,
+        "word": "猫猫过上了我的理想生活",
+        "onboard_time": 1663254101,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 73015,
+        "num": 73015,
+        "word": "Angelababy说我是露娜画中见",
+        "onboard_time": 1663226190,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 70026,
+        "num": 70026,
+        "word": "东八区的先生们有多油",
+        "onboard_time": 1663242990,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 63894,
+        "num": 63894,
+        "word": "胃胀气一下子就缓解了",
+        "onboard_time": 1663232732,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 62137,
+        "num": 62137,
+        "word": "莲花楼",
+        "onboard_time": 1663237414,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 61604,
+        "num": 61604,
+        "word": "张朝阳出物理题考网友仅一人答出",
+        "onboard_time": 1663236273,
+        "rank": 40,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 59503,
+        "num": 59503,
+        "word": "11岁女孩自学建模实现盲盒自由",
+        "onboard_time": 1663238670,
+        "rank": 41,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 52373,
+        "num": 52373,
+        "word": "哥你好票房破2亿",
+        "onboard_time": 1663277233,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 51010,
+        "num": 51010,
+        "word": "为什么恋爱会让人降智",
+        "onboard_time": 1663242392,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 50268,
+        "num": 50268,
+        "word": "女子手机密码6个0被盗19万",
+        "onboard_time": 1663239510,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47248,
+        "num": 47248,
+        "word": "新生军训画八卦求雨",
+        "onboard_time": 1663278131,
+        "rank": 45,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 46458,
+        "num": 46458,
+        "word": "LBL",
+        "onboard_time": 1663237713,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 94730,
+        "num": 46143,
+        "word": "虞书欣新剧相亲对象是觞阙",
+        "onboard_time": 1663244191,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 42068,
+        "num": 42068,
+        "word": "乌鲁木齐疫情防控",
+        "onboard_time": 1663249417,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34906,
+        "num": 34906,
+        "word": "女子网购鸡胸肉一捏似豆腐",
+        "onboard_time": 1663240349,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#英雄回家#"
+    }
+  }
+}
