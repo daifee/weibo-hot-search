@@ -1,6 +1,6 @@
 {
   "startTime": 1663173270447,
-  "endTime": 1663231864166,
+  "endTime": 1663233878482,
   "band_list": [
     {
       "raw_hot": 5379560,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1418306,
-      "num": 425986,
+      "num": 476158,
       "word": "整个kpop都在等星河集美回应",
       "onboard_time": 1663230030,
       "rank": 10,
@@ -363,12 +363,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 663651,
+      "num": 663651,
+      "word": "7旬老人用水勾兑假油上门售卖",
+      "onboard_time": 1663229612,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 615981,
       "num": 615981,
       "word": "苹果官网崩了",
       "onboard_time": 1663215158,
       "rank": 14,
       "category": "科技"
+    },
+    {
+      "raw_hot": 608353,
+      "num": 608353,
+      "word": "西藏新增无症状感染者60例",
+      "onboard_time": 1663232312,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 600698,
@@ -379,12 +395,28 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 598155,
+      "num": 598155,
+      "word": "蔚来手机将走高端路线",
+      "onboard_time": 1663228291,
+      "rank": 22,
+      "category": "科技"
+    },
+    {
       "raw_hot": 563670,
       "num": 563670,
       "word": "拉萨疫情防控",
       "onboard_time": 1663226010,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 560805,
+      "num": 560805,
+      "word": "四个人的小森林",
+      "onboard_time": 1663231769,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 547074,
@@ -457,6 +489,22 @@
       "onboard_time": 1663229973,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 496602,
+      "num": 496602,
+      "word": "东北人抄底西双版纳楼市",
+      "onboard_time": 1663230452,
+      "rank": 42,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 473859,
+      "num": 218614,
+      "word": "贺峻霖中传用英语自我介绍",
+      "onboard_time": 1663232793,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 472349,
@@ -627,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 374291,
+      "num": 374291,
+      "word": "95后金融男跨行做饮料月销破亿",
+      "onboard_time": 1663229131,
+      "rank": 18,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 370733,
       "num": 370733,
       "word": "南昌男子醉驾检方作出不起诉决定",
@@ -641,14 +697,6 @@
       "onboard_time": 1663207948,
       "rank": 25,
       "category": "科技"
-    },
-    {
-      "raw_hot": 365527,
-      "num": 365527,
-      "word": "95后金融男跨行做饮料月销破亿",
-      "onboard_time": 1663229131,
-      "rank": 18,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 364314,
@@ -705,14 +753,6 @@
       "onboard_time": 1663211789,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 340337,
-      "num": 340337,
-      "word": "蔚来手机将走高端路线",
-      "onboard_time": 1663228291,
-      "rank": 22,
-      "category": "科技"
     },
     {
       "raw_hot": 333456,
@@ -875,14 +915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 293864,
-      "num": 293864,
-      "word": "7旬老人用水勾兑假油上门售卖",
-      "onboard_time": 1663229612,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 289715,
       "num": 289715,
       "word": "马伊琍白宇新剧双向救赎",
@@ -897,14 +929,6 @@
       "onboard_time": 1663198525,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 277779,
-      "num": 277779,
-      "word": "东北人抄底西双版纳楼市",
-      "onboard_time": 1663230452,
-      "rank": 42,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 277047,
@@ -993,6 +1017,14 @@
       "onboard_time": 1663209086,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 249319,
+      "num": 216813,
+      "word": "莲花楼角色概念片",
+      "onboard_time": 1663232494,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 246587,
@@ -1107,6 +1139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 209068,
+      "num": 209068,
+      "word": "胃胀气一下子就缓解了",
+      "onboard_time": 1663232732,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 206423,
       "num": 117772,
       "word": "杜德伟说范世錡像老婆",
@@ -1121,6 +1161,14 @@
       "onboard_time": 1663221092,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 204181,
+      "num": 204181,
+      "word": "北京疫情发布会",
+      "onboard_time": 1663233632,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202804,
@@ -1331,12 +1379,44 @@
       "category": "影视"
     },
     {
+      "raw_hot": 150103,
+      "num": 150103,
+      "word": "青岛二手房不再限购",
+      "onboard_time": 1663231472,
+      "rank": 37,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 147338,
+      "num": 147338,
+      "word": "乐视30天直播14场带货2万元",
+      "onboard_time": 1663232732,
+      "rank": 35,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 143136,
       "num": 143136,
       "word": "浮图缘",
       "onboard_time": 1663198525,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 142613,
+      "num": 142613,
+      "word": "晚上7点后吃饭都算夜宵",
+      "onboard_time": 1663231353,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136776,
+      "num": 136776,
+      "word": "文在寅过中秋为妻女切西瓜",
+      "onboard_time": 1663233088,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134900,
@@ -1353,22 +1433,6 @@
       "onboard_time": 1663206145,
       "rank": 29,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 134008,
-      "num": 134008,
-      "word": "青岛二手房不再限购",
-      "onboard_time": 1663231472,
-      "rank": 37,
-      "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 131227,
-      "num": 128319,
-      "word": "四个人的小森林",
-      "onboard_time": 1663231769,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 130736,
@@ -1497,6 +1561,14 @@
       "onboard_time": 1663147589,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 100049,
+      "num": 100049,
+      "word": "婴儿水价格翻倍成分和普通水无区别",
+      "onboard_time": 1663233391,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 98322,
