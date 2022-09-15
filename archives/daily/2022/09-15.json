@@ -1,6 +1,6 @@
 {
   "startTime": 1663173270447,
-  "endTime": 1663233878482,
+  "endTime": 1663234956939,
   "band_list": [
     {
       "raw_hot": 5379560,
@@ -307,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 772384,
+      "num": 772384,
+      "word": "7旬老人用水勾兑假油上门售卖",
+      "onboard_time": 1663229612,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 758471,
       "num": 758471,
       "word": "iPhone全系支持电量百分比",
@@ -339,6 +347,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 711263,
+      "num": 608353,
+      "word": "西藏新增无症状感染者60例",
+      "onboard_time": 1663232312,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 701026,
       "num": 701026,
       "word": "养娃17年花46万女子向前夫要一半被驳",
@@ -363,12 +379,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 663651,
-      "num": 663651,
-      "word": "7旬老人用水勾兑假油上门售卖",
-      "onboard_time": 1663229612,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 660969,
+      "num": 660969,
+      "word": "四个人的小森林",
+      "onboard_time": 1663231769,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 615981,
@@ -377,14 +393,6 @@
       "onboard_time": 1663215158,
       "rank": 14,
       "category": "科技"
-    },
-    {
-      "raw_hot": 608353,
-      "num": 608353,
-      "word": "西藏新增无症状感染者60例",
-      "onboard_time": 1663232312,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 600698,
@@ -403,20 +411,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 577959,
+      "num": 577959,
+      "word": "东北人抄底西双版纳楼市",
+      "onboard_time": 1663230452,
+      "rank": 42,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 563670,
       "num": 563670,
       "word": "拉萨疫情防控",
       "onboard_time": 1663226010,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 560805,
-      "num": 560805,
-      "word": "四个人的小森林",
-      "onboard_time": 1663231769,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 547074,
@@ -491,16 +499,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 496602,
-      "num": 496602,
-      "word": "东北人抄底西双版纳楼市",
-      "onboard_time": 1663230452,
-      "rank": 42,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 473859,
-      "num": 218614,
+      "num": 223761,
       "word": "贺峻霖中传用英语自我介绍",
       "onboard_time": 1663232793,
       "rank": 20,
@@ -633,6 +633,14 @@
       "onboard_time": 1663211429,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 392600,
+      "num": 392600,
+      "word": "胃胀气一下子就缓解了",
+      "onboard_time": 1663232732,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 391611,
@@ -819,6 +827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 316018,
+      "num": 316018,
+      "word": "明媒善娶",
+      "onboard_time": 1663234052,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 312761,
       "num": 233140,
       "word": "李彩演将10月solo出道",
@@ -915,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 292281,
+      "num": 292281,
+      "word": "NCT127新歌公开",
+      "onboard_time": 1663234533,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 289715,
       "num": 289715,
       "word": "马伊琍白宇新剧双向救赎",
@@ -947,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 271482,
+      "num": 220435,
+      "word": "难听",
+      "onboard_time": 1663234591,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 268322,
       "num": 268322,
       "word": "小沈阳请君演李沁二爹",
@@ -976,6 +1008,14 @@
       "word": "野蛮生长首发预告",
       "onboard_time": 1663222412,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 258003,
+      "num": 175415,
+      "word": "任嘉伦李沁新剧刚开播就大婚",
+      "onboard_time": 1663234409,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -1091,6 +1131,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 233056,
+      "num": 233056,
+      "word": "文在寅过中秋为妻女切西瓜",
+      "onboard_time": 1663233088,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228246,
       "num": 228246,
       "word": "小男孩在幼儿园坦然展示假肢",
@@ -1139,12 +1187,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 209068,
-      "num": 209068,
-      "word": "胃胀气一下子就缓解了",
-      "onboard_time": 1663232732,
-      "rank": 22,
-      "category": "情感"
+      "raw_hot": 210346,
+      "num": 210346,
+      "word": "晚上7点后吃饭都算夜宵",
+      "onboard_time": 1663231353,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210261,
+      "num": 210261,
+      "word": "曝郭艾伦续约辽宁男篮",
+      "onboard_time": 1663234293,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 206423,
@@ -1193,6 +1249,14 @@
       "onboard_time": 1663164757,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199171,
+      "num": 199171,
+      "word": "乐视30天直播14场带货2万元",
+      "onboard_time": 1663232732,
+      "rank": 35,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 197261,
@@ -1387,36 +1451,12 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 147338,
-      "num": 147338,
-      "word": "乐视30天直播14场带货2万元",
-      "onboard_time": 1663232732,
-      "rank": 35,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 143136,
       "num": 143136,
       "word": "浮图缘",
       "onboard_time": 1663198525,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 142613,
-      "num": 142613,
-      "word": "晚上7点后吃饭都算夜宵",
-      "onboard_time": 1663231353,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136776,
-      "num": 136776,
-      "word": "文在寅过中秋为妻女切西瓜",
-      "onboard_time": 1663233088,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134900,
@@ -1531,6 +1571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112321,
+      "num": 112321,
+      "word": "陪猫猫再多走一段路",
+      "onboard_time": 1663234533,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 111903,
       "num": 111903,
       "word": "多家国有大行15日起下调个人存款利率",
@@ -1545,6 +1593,22 @@
       "onboard_time": 1663212151,
       "rank": 49,
       "category": "自然,社会新闻"
+    },
+    {
+      "raw_hot": 108787,
+      "num": 108787,
+      "word": "婴儿水价格翻倍成分和普通水无区别",
+      "onboard_time": 1663233391,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108658,
+      "num": 108658,
+      "word": "严禁以分班为名强制学生购买平板",
+      "onboard_time": 1663234052,
+      "rank": 45,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 108320,
@@ -1563,14 +1627,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 100049,
-      "num": 100049,
-      "word": "婴儿水价格翻倍成分和普通水无区别",
-      "onboard_time": 1663233391,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 98322,
       "num": 98322,
       "word": "羊了个羊难通关为何还想玩",
@@ -1585,6 +1641,14 @@
       "onboard_time": 1663164036,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96195,
+      "num": 96195,
+      "word": "7岁男童摘苍耳粘满头",
+      "onboard_time": 1663234772,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 95752,
