@@ -1,6 +1,6 @@
 {
   "startTime": 1663173270447,
-  "endTime": 1663227212146,
+  "endTime": 1663228032684,
   "band_list": [
     {
       "raw_hot": 5379560,
@@ -33,6 +33,14 @@
       "onboard_time": 1663210829,
       "rank": 8,
       "category": "教育,国内要闻"
+    },
+    {
+      "raw_hot": 2014387,
+      "num": 1067488,
+      "word": "张翰新剧有帮前女友带孩子剧情",
+      "onboard_time": 1663225829,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1747076,
@@ -83,6 +91,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1267047,
+      "num": 1267047,
+      "word": "雷军称37岁已财务自由",
+      "onboard_time": 1663225650,
+      "rank": 5,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 1240197,
       "num": 1240197,
       "word": "58岁自驾阿姨苏敏决定离婚",
@@ -129,14 +145,6 @@
       "onboard_time": 1663207707,
       "rank": 12,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1067488,
-      "num": 1067488,
-      "word": "张翰新剧有帮前女友带孩子剧情",
-      "onboard_time": 1663225829,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 1039119,
@@ -275,14 +283,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 746589,
-      "num": 746589,
-      "word": "雷军称37岁已财务自由",
-      "onboard_time": 1663225650,
-      "rank": 5,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 732878,
       "num": 732878,
       "word": "AirPods Pro 2 值得买吗",
@@ -411,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 478167,
+      "num": 478167,
+      "word": "Angelababy说我是露娜画中见",
+      "onboard_time": 1663226190,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 472349,
       "num": 387436,
       "word": "景甜给张彬彬新剧做宣传",
@@ -529,14 +537,6 @@
       "onboard_time": 1663211429,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 391921,
-      "num": 282392,
-      "word": "Angelababy说我是露娜画中见",
-      "onboard_time": 1663226190,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 391005,
@@ -667,6 +667,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 322834,
+      "num": 322834,
+      "word": "苹果占国内高端机70%份额",
+      "onboard_time": 1663223309,
+      "rank": 28,
+      "category": "科技"
+    },
+    {
       "raw_hot": 320132,
       "num": 151056,
       "word": "众星为两个人的小森林打call",
@@ -763,6 +771,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 295641,
+      "num": 295641,
+      "word": "你觉得搞科研的女生酷吗",
+      "onboard_time": 1663226430,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 295006,
       "num": 236818,
       "word": "吴克群40多年首次唱跳",
@@ -785,14 +801,6 @@
       "onboard_time": 1663207466,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 285336,
-      "num": 285336,
-      "word": "苹果占国内高端机70%份额",
-      "onboard_time": 1663223309,
-      "rank": 28,
-      "category": "科技"
     },
     {
       "raw_hot": 279903,
@@ -875,12 +883,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 255729,
+      "num": 255729,
+      "word": "成都人出门的第一件事",
+      "onboard_time": 1663226669,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250015,
       "num": 250015,
       "word": "钟无艳战令皮肤",
       "onboard_time": 1663209086,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 246587,
+      "num": 246587,
+      "word": "两名退伍兵狂奔7节车厢救人",
+      "onboard_time": 1663223909,
+      "rank": 46,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 245508,
@@ -899,6 +923,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 241347,
+      "num": 241347,
+      "word": "以太坊",
+      "onboard_time": 1663226010,
+      "rank": 27,
+      "category": "科技,财经"
+    },
+    {
+      "raw_hot": 240063,
+      "num": 240063,
+      "word": "张若昀新剧预告眼神从呆变狠",
+      "onboard_time": 1663226550,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 239675,
       "num": 239675,
       "word": "一些无用但很喜欢的东西",
@@ -915,28 +955,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 237932,
-      "num": 200528,
-      "word": "张若昀新剧预告眼神从呆变狠",
-      "onboard_time": 1663226550,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 235807,
       "num": 235807,
       "word": "开学后才知道的专业真相",
       "onboard_time": 1663210468,
       "rank": 27,
       "category": "教育"
-    },
-    {
-      "raw_hot": 230152,
-      "num": 230152,
-      "word": "你觉得搞科研的女生酷吗",
-      "onboard_time": 1663226430,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 228246,
@@ -963,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221961,
+      "num": 208076,
+      "word": "披荆斩棘的哥哥",
+      "onboard_time": 1663227030,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219433,
       "num": 219433,
       "word": "产妇回应家属不知全名护士拒给娃",
@@ -985,14 +1017,6 @@
       "onboard_time": 1663224149,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 206333,
-      "num": 206333,
-      "word": "以太坊",
-      "onboard_time": 1663226010,
-      "rank": 27,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 205434,
@@ -1091,14 +1115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 182723,
-      "num": 132081,
-      "word": "披荆斩棘的哥哥",
-      "onboard_time": 1663227030,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 180589,
       "num": 180589,
       "word": "法考",
@@ -1137,14 +1153,6 @@
       "onboard_time": 1663162353,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 169906,
-      "num": 204452,
-      "word": "两名退伍兵狂奔7节车厢救人",
-      "onboard_time": 1663223909,
-      "rank": 46,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 161043,
@@ -1219,14 +1227,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 148052,
-      "num": 148052,
-      "word": "成都人出门的第一件事",
-      "onboard_time": 1663226669,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143136,
       "num": 143136,
       "word": "浮图缘",
@@ -1289,6 +1289,14 @@
       "onboard_time": 1663198046,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124742,
+      "num": 124742,
+      "word": "官方通报网传多名儿童被幼师剪嘴",
+      "onboard_time": 1663227630,
+      "rank": 44,
+      "category": "社会负面"
     },
     {
       "raw_hot": 121848,
@@ -1361,6 +1369,14 @@
       "onboard_time": 1663169793,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 97558,
+      "num": 97558,
+      "word": "杜富国被炸烂的防护服首次公开",
+      "onboard_time": 1663227929,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96590,

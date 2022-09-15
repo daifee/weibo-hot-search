@@ -1,0 +1,410 @@
+{
+  "runTime": 1663228032684,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1267047,
+        "num": 1267047,
+        "word": "雷军称37岁已财务自由",
+        "onboard_time": 1663225650,
+        "rank": 0,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 1139725,
+        "num": 1139725,
+        "word": "赵丽颖演的许半夏好飒",
+        "onboard_time": 1663224269,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16741,
+        "num": 806886,
+        "word": "歼20为志愿军烈士遗骸护航",
+        "onboard_time": 1663161814,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 732194,
+        "num": 732194,
+        "word": "女子被男友控制办证时写纸条求助",
+        "onboard_time": 1663220613,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 676024,
+        "num": 676024,
+        "word": "教育部已取消5类全国性高考加分项目",
+        "onboard_time": 1663210829,
+        "rank": 4,
+        "category": "教育,国内要闻"
+      },
+      {
+        "raw_hot": 657159,
+        "num": 657159,
+        "word": "王鹤棣和密逃NPC演过大学同学",
+        "onboard_time": 1663224510,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 505983,
+        "num": 505983,
+        "word": "拉萨疫情防控",
+        "onboard_time": 1663226010,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494953,
+        "num": 494953,
+        "word": "男子私下称53岁老板为老太太被辞退",
+        "onboard_time": 1663216364,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478167,
+        "num": 478167,
+        "word": "Angelababy说我是露娜画中见",
+        "onboard_time": 1663226190,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 377143,
+        "num": 377143,
+        "word": "这居然是只猫",
+        "onboard_time": 1663221329,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 474320,
+        "num": 369608,
+        "word": "李一桐新剧从20岁演到40岁",
+        "onboard_time": 1663221994,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 430001,
+        "num": 359482,
+        "word": "景甜给张彬彬新剧做宣传",
+        "onboard_time": 1663223429,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2014387,
+        "num": 346263,
+        "word": "张翰新剧有帮前女友带孩子剧情",
+        "onboard_time": 1663225829,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 428317,
+        "num": 342342,
+        "word": "王嘉尔四天连开三场海外签售",
+        "onboard_time": 1663217262,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334201,
+        "num": 334201,
+        "word": "少女患遗传病肠道长数百个息肉",
+        "onboard_time": 1663218041,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322834,
+        "num": 322834,
+        "word": "苹果占国内高端机70%份额",
+        "onboard_time": 1663223309,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 318634,
+        "num": 318634,
+        "word": "南昌男子醉驾检方作出不起诉决定",
+        "onboard_time": 1663223009,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297494,
+        "num": 297494,
+        "word": "男子5万承包野鱼塘仅捞出4条鱼",
+        "onboard_time": 1663215758,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295641,
+        "num": 295641,
+        "word": "你觉得搞科研的女生酷吗",
+        "onboard_time": 1663226430,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 283845,
+        "num": 283845,
+        "word": "官方回应姐拒给弟买房被父母起诉",
+        "onboard_time": 1663219117,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323355,
+        "num": 280238,
+        "word": "安妮海瑟薇近照重回穿普拉达的女王",
+        "onboard_time": 1663217081,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 269309,
+        "num": 269309,
+        "word": "超六成专科生月薪低于5000元",
+        "onboard_time": 1663207828,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261250,
+        "num": 261250,
+        "word": "成都好久不见",
+        "onboard_time": 1663224990,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258202,
+        "num": 258202,
+        "word": "苹果官网崩了",
+        "onboard_time": 1663215158,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 255729,
+        "num": 255729,
+        "word": "成都人出门的第一件事",
+        "onboard_time": 1663226669,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246587,
+        "num": 246587,
+        "word": "两名退伍兵狂奔7节车厢救人",
+        "onboard_time": 1663223909,
+        "rank": 25,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 241347,
+        "num": 241347,
+        "word": "以太坊",
+        "onboard_time": 1663226010,
+        "rank": 26,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 240063,
+        "num": 240063,
+        "word": "张若昀新剧预告眼神从呆变狠",
+        "onboard_time": 1663226550,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238895,
+        "num": 238895,
+        "word": "张国立王刚张铁林周涛新剧预告",
+        "onboard_time": 1663216665,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208190,
+        "num": 208190,
+        "word": "管泽元评S12世界赛TOP10",
+        "onboard_time": 1663220792,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 223936,
+        "num": 208162,
+        "word": "吴克群40多年首次唱跳",
+        "onboard_time": 1663223609,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221961,
+        "num": 208076,
+        "word": "披荆斩棘的哥哥",
+        "onboard_time": 1663227030,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217923,
+        "num": 208051,
+        "word": "张凌赫说虞美人风华绝代美妆顶流",
+        "onboard_time": 1663218041,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207918,
+        "num": 207918,
+        "word": "一些无用但很喜欢的东西",
+        "onboard_time": 1663219475,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203969,
+        "num": 203969,
+        "word": "1岁萌娃爬向公路邻居一把抱回",
+        "onboard_time": 1663218638,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198707,
+        "num": 198707,
+        "word": "LESSERAFIM将10月17日回归",
+        "onboard_time": 1663223549,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186389,
+        "num": 186389,
+        "word": "股市",
+        "onboard_time": 1663215096,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 173518,
+        "num": 173518,
+        "word": "iPhone14Pro息屏显示支持地图导航",
+        "onboard_time": 1663212511,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 132499,
+        "num": 132499,
+        "word": "躲过雪糕刺客没躲过酸奶土匪",
+        "onboard_time": 1663207707,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 131415,
+        "num": 131415,
+        "word": "保罗詹姆斯怒批太阳老板",
+        "onboard_time": 1663215459,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186343,
+        "num": 128924,
+        "word": "今天爱奇艺好多新预告",
+        "onboard_time": 1663216064,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154200,
+        "num": 128386,
+        "word": "虞书欣头像小兰花换成虞美人了",
+        "onboard_time": 1663208427,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125513,
+        "num": 125513,
+        "word": "为什么玩得好的人学得也好",
+        "onboard_time": 1663217861,
+        "rank": 42,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 125277,
+        "num": 125277,
+        "word": "同时摆烂的两只猫咪",
+        "onboard_time": 1663218218,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124742,
+        "num": 124742,
+        "word": "官方通报网传多名儿童被幼师剪嘴",
+        "onboard_time": 1663227630,
+        "rank": 44,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 120597,
+        "num": 120597,
+        "word": "偶像梦幻祭",
+        "onboard_time": 1663226129,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102804,
+        "num": 102804,
+        "word": "原来职场装傻这么重要",
+        "onboard_time": 1663215758,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 97558,
+        "num": 97558,
+        "word": "杜富国被炸烂的防护服首次公开",
+        "onboard_time": 1663227929,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96223,
+        "num": 96223,
+        "word": "Hero星元已就位",
+        "onboard_time": 1663221092,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 94405,
+        "num": 94405,
+        "word": "小县城1年种400万克拉钻石",
+        "onboard_time": 1663206569,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席出访#"
+    }
+  }
+}
