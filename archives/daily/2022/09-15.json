@@ -1,6 +1,6 @@
 {
   "startTime": 1663173270447,
-  "endTime": 1663248183083,
+  "endTime": 1663250039444,
   "band_list": [
     {
       "raw_hot": 5379560,
@@ -88,6 +88,22 @@
       "word": "张国立王刚张铁林周涛新剧预告",
       "onboard_time": 1663216665,
       "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1509978,
+      "num": 1509978,
+      "word": "费德勒宣布退役",
+      "onboard_time": 1663248817,
+      "rank": 0,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 1460139,
+      "num": 1460139,
+      "word": "赵丽颖和刘威又杠上了",
+      "onboard_time": 1663245870,
+      "rank": 11,
       "category": "影视"
     },
     {
@@ -211,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1097040,
+      "num": 641394,
+      "word": "年轻人宁买万元手机不花4元充电",
+      "onboard_time": 1663246352,
+      "rank": 29,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 1086052,
       "num": 1086052,
       "word": "躲过雪糕刺客没躲过酸奶土匪",
@@ -307,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 903425,
+      "num": 903425,
+      "word": "4岁孩子担心家中变故患抑郁症",
+      "onboard_time": 1663246592,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 899402,
       "num": 899402,
       "word": "杜富国被炸烂的防护服首次公开",
@@ -321,6 +353,22 @@
       "onboard_time": 1663224510,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 891596,
+      "num": 891596,
+      "word": "从脸看脾胃好不好",
+      "onboard_time": 1663244191,
+      "rank": 26,
+      "category": "其它"
+    },
+    {
+      "raw_hot": 886143,
+      "num": 886143,
+      "word": "人民币三年三次破7",
+      "onboard_time": 1663244849,
+      "rank": 13,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 843224,
@@ -372,7 +420,7 @@
     },
     {
       "raw_hot": 782990,
-      "num": 988157,
+      "num": 1481785,
       "word": "张朝阳出物理题考网友仅一人答出",
       "onboard_time": 1663236273,
       "rank": 22,
@@ -443,14 +491,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 740367,
-      "num": 740367,
-      "word": "赵丽颖和刘威又杠上了",
-      "onboard_time": 1663245870,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 732878,
       "num": 732878,
       "word": "AirPods Pro 2 值得买吗",
@@ -499,14 +539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 674347,
-      "num": 471424,
-      "word": "年轻人宁买万元手机不花4元充电",
-      "onboard_time": 1663246352,
-      "rank": 29,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 666417,
       "num": 666417,
       "word": "六公主报道宋亚轩中戏入学",
@@ -523,12 +555,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 629148,
-      "num": 629148,
-      "word": "人民币三年三次破7",
-      "onboard_time": 1663244849,
-      "rank": 13,
-      "category": "财经,社会新闻"
+      "raw_hot": 621010,
+      "num": 621010,
+      "word": "请君",
+      "onboard_time": 1663198706,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 615981,
@@ -537,6 +569,14 @@
       "onboard_time": 1663215158,
       "rank": 14,
       "category": "科技"
+    },
+    {
+      "raw_hot": 612463,
+      "num": 612463,
+      "word": "专家称三年内全球或发生金融危机",
+      "onboard_time": 1663247792,
+      "rank": 39,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 608315,
@@ -675,14 +715,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 490955,
-      "num": 490955,
-      "word": "从脸看脾胃好不好",
-      "onboard_time": 1663244191,
-      "rank": 26,
-      "category": "其它"
-    },
-    {
       "raw_hot": 487686,
       "num": 487686,
       "word": "狗狗进饭店站婴儿座椅里进食",
@@ -705,6 +737,14 @@
       "onboard_time": 1663223429,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 470224,
+      "num": 470224,
+      "word": "王鹤棣 好笑",
+      "onboard_time": 1663247069,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 463306,
@@ -811,14 +851,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 399360,
-      "num": 399360,
-      "word": "王鹤棣 好笑",
-      "onboard_time": 1663247069,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 396918,
       "num": 396918,
       "word": "爱奇艺热度值破万的剧集",
@@ -875,6 +907,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 389082,
+      "num": 389082,
+      "word": "武汉一鱼塘疑遭投毒2万斤鱼死亡",
+      "onboard_time": 1663245393,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 377583,
       "num": 377583,
       "word": "任嘉伦 请君",
@@ -913,14 +953,6 @@
       "onboard_time": 1663207948,
       "rank": 25,
       "category": "科技"
-    },
-    {
-      "raw_hot": 367844,
-      "num": 367844,
-      "word": "武汉一鱼塘疑遭投毒2万斤鱼死亡",
-      "onboard_time": 1663245393,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 364314,
@@ -988,7 +1020,7 @@
     },
     {
       "raw_hot": 333186,
-      "num": 195610,
+      "num": 197941,
       "word": "男明星原声台词对比",
       "onboard_time": 1663236693,
       "rank": 32,
@@ -1065,14 +1097,6 @@
       "onboard_time": 1663217203,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 320012,
-      "num": 320012,
-      "word": "4岁孩子担心家中变故患抑郁症",
-      "onboard_time": 1663246592,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 319743,
@@ -1291,6 +1315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 263508,
+      "num": 263508,
+      "word": "乌鲁木齐疫情防控",
+      "onboard_time": 1663249417,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262411,
       "num": 140080,
       "word": "虞美人醉藿香正气水",
@@ -1339,12 +1371,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 256698,
-      "num": 256698,
-      "word": "请君",
-      "onboard_time": 1663198706,
-      "rank": 24,
-      "category": "影视"
+      "raw_hot": 251472,
+      "num": 251472,
+      "word": "平价下饭神器",
+      "onboard_time": 1663246832,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 250015,
@@ -1611,12 +1643,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184134,
+      "num": 184134,
+      "word": "张峻宁二公造型",
+      "onboard_time": 1663246832,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 184127,
+      "num": 184127,
+      "word": "北京朝阳通报1例初筛阳性",
+      "onboard_time": 1663247012,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183548,
       "num": 183548,
       "word": "商家月花10万请带货3个月卖出690元",
       "onboard_time": 1663157371,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182990,
+      "num": 121012,
+      "word": "陆炎于登登床戏是手动挡",
+      "onboard_time": 1663247852,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 180589,
@@ -1675,6 +1731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172775,
+      "num": 492630,
+      "word": "不造谣不传谣人人有责",
+      "onboard_time": 1663246892,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171187,
       "num": 171187,
       "word": "杨蒙恩淘汰",
@@ -1704,14 +1768,6 @@
       "word": "罚罪",
       "onboard_time": 1663158812,
       "rank": 35,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 158962,
-      "num": 102617,
-      "word": "陆炎于登登床戏是手动挡",
-      "onboard_time": 1663247852,
-      "rank": 41,
       "category": "影视"
     },
     {
@@ -1819,22 +1875,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 140253,
-      "num": 102507,
-      "word": "张峻宁二公造型",
-      "onboard_time": 1663246832,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 139134,
-      "num": 139134,
-      "word": "平价下饭神器",
-      "onboard_time": 1663246832,
-      "rank": 34,
-      "category": "美食"
-    },
-    {
       "raw_hot": 134900,
       "num": 134900,
       "word": "覆流年",
@@ -1915,6 +1955,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 123338,
+      "num": 123338,
+      "word": "营口北海惊现龙吸水奇观",
+      "onboard_time": 1663249057,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121848,
       "num": 121848,
       "word": "明天苏州可弹性上下学",
@@ -1987,6 +2035,14 @@
       "category": "自然,社会新闻"
     },
     {
+      "raw_hot": 110108,
+      "num": 110108,
+      "word": "佩服脑子转得快的人",
+      "onboard_time": 1663247913,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 108658,
       "num": 108658,
       "word": "严禁以分班为名强制学生购买平板",
@@ -2003,22 +2059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 103493,
-      "num": 103493,
-      "word": "北京朝阳通报1例初筛阳性",
-      "onboard_time": 1663247012,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 102713,
-      "num": 102713,
-      "word": "专家称三年内全球或发生金融危机",
-      "onboard_time": 1663247792,
-      "rank": 39,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 100052,
       "num": 100052,
       "word": "什么叫天生反骨",
@@ -2027,12 +2067,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 98406,
+      "num": 1467103,
+      "word": "打击网络谣言共建清朗家园",
+      "onboard_time": 1663240711,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 98322,
       "num": 98322,
       "word": "羊了个羊难通关为何还想玩",
       "onboard_time": 1663169793,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 98165,
+      "num": 98165,
+      "word": "凤凰湾区财经论坛2022",
+      "onboard_time": 1663249721,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 96590,
@@ -2049,6 +2105,14 @@
       "onboard_time": 1663161814,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94709,
+      "num": 94709,
+      "word": "亚轨道运输新技术立项",
+      "onboard_time": 1663249899,
+      "rank": 49,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 92949,
@@ -2091,28 +2155,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 86892,
-      "num": 86892,
-      "word": "佩服脑子转得快的人",
-      "onboard_time": 1663247913,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 80700,
       "num": 80700,
       "word": "中方回应是否派员出席英女王国葬",
       "onboard_time": 1663148309,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 79920,
-      "num": 1165841,
-      "word": "打击网络谣言共建清朗家园",
-      "onboard_time": 1663240711,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 79293,
@@ -2129,14 +2177,6 @@
       "onboard_time": 1663235671,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 60534,
-      "num": 391162,
-      "word": "不造谣不传谣人人有责",
-      "onboard_time": 1663246892,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 53612,
