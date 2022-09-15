@@ -1,0 +1,410 @@
+{
+  "runTime": 1663223058274,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1221798,
+        "num": 1221798,
+        "word": "教育部已取消5类全国性高考加分项目",
+        "onboard_time": 1663210829,
+        "rank": 0,
+        "category": "教育,国内要闻"
+      },
+      {
+        "raw_hot": 1053146,
+        "num": 1053146,
+        "word": "男子私下称53岁老板为老太太被辞退",
+        "onboard_time": 1663216364,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15254,
+        "num": 944521,
+        "word": "歼20为志愿军烈士遗骸护航",
+        "onboard_time": 1663161814,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 899672,
+        "num": 899672,
+        "word": "张国立王刚张铁林周涛新剧预告",
+        "onboard_time": 1663216665,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 617255,
+        "num": 617255,
+        "word": "张凌赫说虞美人风华绝代美妆顶流",
+        "onboard_time": 1663218041,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 512930,
+        "num": 512930,
+        "word": "超六成专科生月薪低于5000元",
+        "onboard_time": 1663207828,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510448,
+        "num": 510448,
+        "word": "苹果官网崩了",
+        "onboard_time": 1663215158,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 500715,
+        "num": 500715,
+        "word": "男子5万承包野鱼塘仅捞出4条鱼",
+        "onboard_time": 1663215758,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468525,
+        "num": 468525,
+        "word": "李一桐新剧从20岁演到40岁",
+        "onboard_time": 1663221994,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 463306,
+        "num": 463306,
+        "word": "少女患遗传病肠道长数百个息肉",
+        "onboard_time": 1663218041,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 792370,
+        "num": 461936,
+        "word": "王嘉尔四天连开三场海外签售",
+        "onboard_time": 1663217262,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 459851,
+        "num": 459851,
+        "word": "安以轩老公陈荣炼涉83项罪",
+        "onboard_time": 1663199668,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 442440,
+        "num": 442440,
+        "word": "女子被男友控制办证时写纸条求助",
+        "onboard_time": 1663220613,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435501,
+        "num": 435501,
+        "word": "官方回应姐拒给弟买房被父母起诉",
+        "onboard_time": 1663219117,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409817,
+        "num": 409817,
+        "word": "股市",
+        "onboard_time": 1663215096,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 340646,
+        "num": 340646,
+        "word": "今天爱奇艺好多新预告",
+        "onboard_time": 1663216064,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 317171,
+        "num": 317171,
+        "word": "躲过雪糕刺客没躲过酸奶土匪",
+        "onboard_time": 1663207707,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 258689,
+        "num": 258689,
+        "word": "管泽元评S12世界赛TOP10",
+        "onboard_time": 1663220792,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 242200,
+        "num": 242200,
+        "word": "同时摆烂的两只猫咪",
+        "onboard_time": 1663218218,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 229601,
+        "num": 229601,
+        "word": "原来职场装傻这么重要",
+        "onboard_time": 1663215758,
+        "rank": 19,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 724234,
+        "num": 228895,
+        "word": "安妮海瑟薇近照重回穿普拉达的女王",
+        "onboard_time": 1663217081,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 288366,
+        "num": 225916,
+        "word": "虞书欣头像小兰花换成虞美人了",
+        "onboard_time": 1663208427,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258553,
+        "num": 225837,
+        "word": "野蛮生长首发预告",
+        "onboard_time": 1663222412,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222207,
+        "num": 222207,
+        "word": "一些无用但很喜欢的东西",
+        "onboard_time": 1663219475,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220730,
+        "num": 220730,
+        "word": "小县城1年种400万克拉钻石",
+        "onboard_time": 1663206569,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204908,
+        "num": 204908,
+        "word": "基金",
+        "onboard_time": 1663211728,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 201591,
+        "num": 201591,
+        "word": "iPhone14Pro息屏显示支持地图导航",
+        "onboard_time": 1663212511,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 200408,
+        "num": 200408,
+        "word": "1岁萌娃爬向公路邻居一把抱回",
+        "onboard_time": 1663218638,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199186,
+        "num": 199186,
+        "word": "保罗詹姆斯怒批太阳老板",
+        "onboard_time": 1663215459,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34269,
+        "num": 195601,
+        "word": "英雄回家主题海报",
+        "onboard_time": 1663219416,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230442,
+        "num": 193628,
+        "word": "昆仑神宫",
+        "onboard_time": 1663219773,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213195,
+        "num": 190030,
+        "word": "野蛮生长",
+        "onboard_time": 1663220613,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204633,
+        "num": 187384,
+        "word": "李彩演将10月solo出道",
+        "onboard_time": 1663220730,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184804,
+        "num": 184804,
+        "word": "鬼吹灯",
+        "onboard_time": 1663213231,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163569,
+        "num": 163569,
+        "word": "甄姬战令皮肤",
+        "onboard_time": 1663211429,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159562,
+        "num": 159562,
+        "word": "这居然是只猫",
+        "onboard_time": 1663221329,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127653,
+        "num": 127653,
+        "word": "为什么玩得好的人学得也好",
+        "onboard_time": 1663217861,
+        "rank": 36,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 119378,
+        "num": 119378,
+        "word": "Hero星元已就位",
+        "onboard_time": 1663221092,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118143,
+        "num": 118143,
+        "word": "马琳琳挑战4A成功",
+        "onboard_time": 1663213834,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115522,
+        "num": 115522,
+        "word": "iOS16两天采用率已超iOS15",
+        "onboard_time": 1663207948,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 165252,
+        "num": 114078,
+        "word": "九月好多剧",
+        "onboard_time": 1663209386,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153390,
+        "num": 113624,
+        "word": "请君任嘉伦李沁宿命感好强",
+        "onboard_time": 1663222053,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104331,
+        "num": 104331,
+        "word": "女子倒车不当悬空压在路边车顶",
+        "onboard_time": 1663207167,
+        "rank": 42,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 87968,
+        "num": 87968,
+        "word": "开学后才知道的专业真相",
+        "onboard_time": 1663210468,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 74115,
+        "num": 74115,
+        "word": "原来龙猫是这样洗澡",
+        "onboard_time": 1663217025,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 71691,
+        "num": 71691,
+        "word": "灵动岛可显示30多种信息",
+        "onboard_time": 1663208848,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 71603,
+        "num": 71603,
+        "word": "iPhone全系支持电量百分比",
+        "onboard_time": 1663202314,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 67717,
+        "num": 67717,
+        "word": "男子袭胸女孩称离婚久了有点冲动",
+        "onboard_time": 1663156830,
+        "rank": 47,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 63465,
+        "num": 63465,
+        "word": "苏州全域放开非本地购房者限购",
+        "onboard_time": 1663206145,
+        "rank": 48,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 60585,
+        "num": 60585,
+        "word": "南昌男子醉驾检方作出不起诉决定",
+        "onboard_time": 1663223009,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#英雄回家#"
+    }
+  }
+}
