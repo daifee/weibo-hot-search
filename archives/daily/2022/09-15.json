@@ -1,7 +1,15 @@
 {
   "startTime": 1663173270447,
-  "endTime": 1663212179369,
+  "endTime": 1663217477740,
   "band_list": [
+    {
+      "raw_hot": 5379560,
+      "num": 504916,
+      "word": "网友质疑羊了个羊恶意玩梗蔡徐坤",
+      "onboard_time": 1663215158,
+      "rank": 10,
+      "category": "艺人,幽默"
+    },
     {
       "raw_hot": 3320207,
       "num": 3320207,
@@ -19,6 +27,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 2400338,
+      "num": 2400338,
+      "word": "教育部已取消5类全国性高考加分项目",
+      "onboard_time": 1663210829,
+      "rank": 8,
+      "category": "教育,国内要闻"
+    },
+    {
       "raw_hot": 1747076,
       "num": 1747076,
       "word": "羊了个羊 驴了个驴",
@@ -33,6 +49,22 @@
       "onboard_time": 1663154131,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1596051,
+      "num": 351579,
+      "word": "安妮海瑟薇近照重回穿普拉达的女王",
+      "onboard_time": 1663217081,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1308586,
+      "num": 1308586,
+      "word": "张国立王刚张铁林周涛新剧预告",
+      "onboard_time": 1663216665,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 1279992,
@@ -171,14 +203,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 739188,
-      "num": 739188,
-      "word": "教育部已取消5类全国性高考加分项目",
-      "onboard_time": 1663210829,
-      "rank": 8,
-      "category": "教育,国内要闻"
-    },
-    {
       "raw_hot": 732878,
       "num": 732878,
       "word": "AirPods Pro 2 值得买吗",
@@ -195,6 +219,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 714714,
+      "num": 504370,
+      "word": "今天爱奇艺好多新预告",
+      "onboard_time": 1663216064,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 701026,
       "num": 701026,
       "word": "养娃17年花46万女子向前夫要一半被驳",
@@ -203,20 +235,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 683303,
+      "num": 510539,
+      "word": "羊了个羊",
+      "onboard_time": 1663116150,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 666417,
       "num": 666417,
       "word": "六公主报道宋亚轩中戏入学",
       "onboard_time": 1663207287,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 627281,
-      "num": 510539,
-      "word": "羊了个羊",
-      "onboard_time": 1663116150,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 600698,
@@ -251,6 +283,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 531040,
+      "num": 350964,
+      "word": "鬼吹灯",
+      "onboard_time": 1663213231,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 529220,
       "num": 529220,
       "word": "郑州火车站附近发现遗弃男婴",
@@ -265,6 +305,22 @@
       "onboard_time": 1663154131,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 505123,
+      "num": 505123,
+      "word": "菲警方通报中国人斗殴枪击致2死",
+      "onboard_time": 1663213411,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 502874,
+      "num": 502874,
+      "word": "苹果官网崩了",
+      "onboard_time": 1663215158,
+      "rank": 14,
+      "category": "科技"
     },
     {
       "raw_hot": 462146,
@@ -299,6 +355,22 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 423126,
+      "num": 349630,
+      "word": "狂飙预告尺度",
+      "onboard_time": 1663211911,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 411943,
+      "num": 411943,
+      "word": "基金",
+      "onboard_time": 1663211728,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 409496,
       "num": 409496,
       "word": "中国卫生人才网",
@@ -307,12 +379,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 405761,
+      "num": 172127,
+      "word": "请君全员请君看请君",
+      "onboard_time": 1663215882,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 398454,
+      "num": 398454,
+      "word": "男子5万承包野鱼塘仅捞出4条鱼",
+      "onboard_time": 1663215758,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 396918,
       "num": 396918,
       "word": "爱奇艺热度值破万的剧集",
       "onboard_time": 1663166017,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 396853,
+      "num": 396853,
+      "word": "甄姬战令皮肤",
+      "onboard_time": 1663211429,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 391005,
@@ -347,11 +443,35 @@
       "category": "科技"
     },
     {
+      "raw_hot": 364314,
+      "num": 364314,
+      "word": "保罗詹姆斯怒批太阳老板",
+      "onboard_time": 1663215459,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 355560,
       "num": 355560,
       "word": "iPhone14ProMax续航比上代提升2小时",
       "onboard_time": 1663207287,
       "rank": 19,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 351900,
+      "num": 351900,
+      "word": "马琳琳挑战4A成功",
+      "onboard_time": 1663213834,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 347829,
+      "num": 347829,
+      "word": "iPhone14Pro息屏显示支持地图导航",
+      "onboard_time": 1663212511,
+      "rank": 23,
       "category": "科技"
     },
     {
@@ -361,6 +481,14 @@
       "onboard_time": 1663131276,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 343753,
+      "num": 159708,
+      "word": "陈晓毛晓彤云襄传打戏",
+      "onboard_time": 1663212332,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 341024,
@@ -379,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 329060,
+      "num": 329060,
+      "word": "男子私下称53岁老板为老太太被辞退",
+      "onboard_time": 1663216364,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326278,
       "num": 326278,
       "word": "檀健次开挂了公司不打卡",
@@ -395,11 +531,27 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 320132,
+      "num": 151056,
+      "word": "众星为两个人的小森林打call",
+      "onboard_time": 1663217203,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 319479,
       "num": 319479,
       "word": "请君明日空降",
       "onboard_time": 1663195699,
       "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 308553,
+      "num": 127577,
+      "word": "宁安如梦首支预告",
+      "onboard_time": 1663212808,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -435,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 301649,
+      "num": 127346,
+      "word": "王嘉尔四天连开三场海外签售",
+      "onboard_time": 1663217262,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 298685,
       "num": 298685,
       "word": "七时吉祥一眼万年片花",
@@ -449,6 +609,14 @@
       "onboard_time": 1663167636,
       "rank": 18,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 295987,
+      "num": 295987,
+      "word": "原来职场装傻这么重要",
+      "onboard_time": 1663215758,
+      "rank": 25,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 294699,
@@ -481,14 +649,6 @@
       "onboard_time": 1663170392,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 263948,
-      "num": 263948,
-      "word": "甄姬战令皮肤",
-      "onboard_time": 1663211429,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 257847,
@@ -529,14 +689,6 @@
       "onboard_time": 1663199730,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 240683,
-      "num": 240683,
-      "word": "基金",
-      "onboard_time": 1663211728,
-      "rank": 26,
-      "category": "财经"
     },
     {
       "raw_hot": 238226,
@@ -611,14 +763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 200094,
-      "num": 200094,
-      "word": "狂飙预告尺度",
-      "onboard_time": 1663211911,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 199597,
       "num": 199597,
       "word": "张杰是我看脱口秀大会的嘴替",
@@ -681,6 +825,14 @@
       "onboard_time": 1663157371,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182946,
+      "num": 182946,
+      "word": "股市",
+      "onboard_time": 1663215096,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 180589,
@@ -811,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124286,
+      "num": 124286,
+      "word": "车辆检验周期10月1日起有调整",
+      "onboard_time": 1663213530,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121848,
       "num": 121848,
       "word": "明天苏州可弹性上下学",
@@ -913,6 +1073,14 @@
       "onboard_time": 1663158092,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 92255,
+      "num": 92255,
+      "word": "原来龙猫是这样洗澡",
+      "onboard_time": 1663217025,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 89265,
