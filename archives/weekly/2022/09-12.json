@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663280658707,
+  "endTime": 1663281706594,
   "band_list": [
     {
       "raw_hot": 9835748,
@@ -4211,6 +4211,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 344074,
+      "num": 344074,
+      "word": "台湾在福岛进口食品中检出微量辐射",
+      "onboard_time": 1663275490,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 342262,
       "num": 289756,
       "word": "周寻说有些遗憾是可以弥补的",
@@ -5401,14 +5409,6 @@
       "onboard_time": 1663058255,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 259470,
-      "num": 259470,
-      "word": "台湾在福岛进口食品中检出微量辐射",
-      "onboard_time": 1663275490,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 258553,
@@ -7491,6 +7491,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 115363,
+      "num": 115363,
+      "word": "江苏多地发布停课通知",
+      "onboard_time": 1663275971,
+      "rank": 47,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 115224,
       "num": 98259,
       "word": "赵粤个人工作室官宣",
@@ -7683,6 +7691,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 96532,
+      "num": 96532,
+      "word": "公司回应招人事不录用单身人士",
+      "onboard_time": 1663274231,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96522,
       "num": 96522,
       "word": "生化危机4重制版登陆PS4",
@@ -7769,6 +7785,14 @@
       "onboard_time": 1663089678,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 86996,
+      "num": 86996,
+      "word": "女子包500亩地种红薯被村民偷挖",
+      "onboard_time": 1663264573,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 86305,
@@ -7891,11 +7915,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 67427,
-      "num": 67427,
-      "word": "公司回应招人事不录用单身人士",
-      "onboard_time": 1663274231,
-      "rank": 46,
+      "raw_hot": 66781,
+      "num": 66781,
+      "word": "台风梅花三登我国",
+      "onboard_time": 1663277051,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -7931,12 +7955,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 59007,
-      "num": 59007,
-      "word": "女子包500亩地种红薯被村民偷挖",
-      "onboard_time": 1663264573,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 59380,
+      "num": 59380,
+      "word": "白冰新剧用30万与原生家庭和解",
+      "onboard_time": 1663269492,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 57152,
@@ -7969,14 +7993,6 @@
       "onboard_time": 1662885687,
       "rank": 45,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 55494,
-      "num": 55494,
-      "word": "江苏多地发布停课通知",
-      "onboard_time": 1663275971,
-      "rank": 47,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 55283,
@@ -8024,14 +8040,6 @@
       "word": "这是书里走出来的大家闺秀吧",
       "onboard_time": 1663175599,
       "rank": 45,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 43647,
-      "num": 43647,
-      "word": "白冰新剧用30万与原生家庭和解",
-      "onboard_time": 1663269492,
-      "rank": 8,
       "category": "影视"
     },
     {
@@ -8083,6 +8091,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37781,
+      "num": 37781,
+      "word": "哥你好票房破2亿",
+      "onboard_time": 1663277233,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 36359,
+      "num": 36359,
+      "word": "上海奉贤15日上午停课停学",
+      "onboard_time": 1663274891,
+      "rank": 40,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 36103,
       "num": 38431,
       "word": "中秋节北京黄金卖场现扫金热",
@@ -8107,14 +8131,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 31638,
-      "num": 31638,
-      "word": "台风梅花三登我国",
-      "onboard_time": 1663277051,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 30768,
       "num": 30768,
       "word": "什么是极简养猫法",
@@ -8131,22 +8147,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 23161,
-      "num": 22857,
-      "word": "哥你好票房破2亿",
-      "onboard_time": 1663277233,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 20950,
-      "num": 20950,
-      "word": "上海奉贤15日上午停课停学",
-      "onboard_time": 1663274891,
-      "rank": 40,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 20412,
       "num": 527464,
       "word": "短片凡心微光",
@@ -8155,20 +8155,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 15547,
+      "num": 16943,
+      "word": "新生军训画八卦求雨",
+      "onboard_time": 1663278131,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 13813,
       "num": 13813,
       "word": "2022男排世锦赛",
       "onboard_time": 1663018933,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 11767,
-      "num": 12102,
-      "word": "新生军训画八卦求雨",
-      "onboard_time": 1663278131,
-      "rank": 49,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 11147,

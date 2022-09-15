@@ -1,0 +1,410 @@
+{
+  "runTime": 1663281706594,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 499377,
+        "num": 499377,
+        "word": "海南免税版iPhone14系列价格",
+        "onboard_time": 1663256795,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 344074,
+        "num": 344074,
+        "word": "台湾在福岛进口食品中检出微量辐射",
+        "onboard_time": 1663275490,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27396,
+        "num": 315553,
+        "word": "打击网络谣言共建清朗家园",
+        "onboard_time": 1663240711,
+        "rank": 2,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 289114,
+        "num": 289114,
+        "word": "4岁孩子担心家中变故患抑郁症",
+        "onboard_time": 1663246592,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243617,
+        "num": 243617,
+        "word": "教育局回应一中学限制上厕所人次",
+        "onboard_time": 1663254340,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 170726,
+        "num": 170726,
+        "word": "请君",
+        "onboard_time": 1663248457,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164430,
+        "num": 164430,
+        "word": "女儿送务农爸爸跑步机让他健身",
+        "onboard_time": 1663251940,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161051,
+        "num": 161051,
+        "word": "矿大回应男生打架被取消保研",
+        "onboard_time": 1663252121,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 144460,
+        "num": 144460,
+        "word": "霍麻辣没了",
+        "onboard_time": 1663257212,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 125251,
+        "num": 125251,
+        "word": "东八区的先生们 离谱",
+        "onboard_time": 1663240172,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259732,
+        "num": 124752,
+        "word": "谁能拒绝川渝男人的魅力呢",
+        "onboard_time": 1663260383,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124158,
+        "num": 124158,
+        "word": "杨超越好像把我骂醒了",
+        "onboard_time": 1663251279,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121283,
+        "num": 121283,
+        "word": "年轻人宁买万元手机不花4元充电",
+        "onboard_time": 1663246352,
+        "rank": 12,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 115363,
+        "num": 115363,
+        "word": "江苏多地发布停课通知",
+        "onboard_time": 1663275971,
+        "rank": 13,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 96532,
+        "num": 96532,
+        "word": "公司回应招人事不录用单身人士",
+        "onboard_time": 1663274231,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96306,
+        "num": 96306,
+        "word": "从脸看脾胃好不好",
+        "onboard_time": 1663244191,
+        "rank": 15,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 86996,
+        "num": 86996,
+        "word": "女子包500亩地种红薯被村民偷挖",
+        "onboard_time": 1663264573,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77655,
+        "num": 77655,
+        "word": "中产家庭一年养娃花多少钱",
+        "onboard_time": 1663254461,
+        "rank": 17,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 72113,
+        "num": 72113,
+        "word": "因为是虞书欣",
+        "onboard_time": 1663260501,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 67781,
+        "num": 67781,
+        "word": "祖传秘方掏耳屎其实是话梅和面粉",
+        "onboard_time": 1663250376,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68895,
+        "num": 67540,
+        "word": "任嘉伦原声",
+        "onboard_time": 1663252782,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 66781,
+        "num": 66781,
+        "word": "台风梅花三登我国",
+        "onboard_time": 1663277051,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59380,
+        "num": 59380,
+        "word": "白冰新剧用30万与原生家庭和解",
+        "onboard_time": 1663269492,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 54926,
+        "num": 54926,
+        "word": "贺峻霖主持大影节登上学习强国",
+        "onboard_time": 1663256437,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54248,
+        "num": 54248,
+        "word": "酸奶产品宣称从老人肠道采集益生菌",
+        "onboard_time": 1663243290,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52093,
+        "num": 52093,
+        "word": "乌兹别克斯坦首枚最高友谊勋章",
+        "onboard_time": 1663255538,
+        "rank": 25,
+        "category": "国外要闻,国内要闻"
+      },
+      {
+        "raw_hot": 50961,
+        "num": 50961,
+        "word": "C罗最新身价2000万欧",
+        "onboard_time": 1663258705,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48666,
+        "num": 48666,
+        "word": "人民币三年三次破7",
+        "onboard_time": 1663244849,
+        "rank": 27,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 47764,
+        "num": 47764,
+        "word": "费德勒宣布退役",
+        "onboard_time": 1663248817,
+        "rank": 28,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 40120,
+        "num": 40120,
+        "word": "武汉一鱼塘疑遭投毒2万斤鱼死亡",
+        "onboard_time": 1663245393,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50469,
+        "num": 39921,
+        "word": "丁禹兮新剧片花换了10套造型",
+        "onboard_time": 1663259543,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 46505,
+        "num": 38970,
+        "word": "Angelababy说我是露娜画中见",
+        "onboard_time": 1663226190,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 44618,
+        "num": 38613,
+        "word": "赵丽颖和刘威又杠上了",
+        "onboard_time": 1663245870,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 37781,
+        "num": 37781,
+        "word": "哥你好票房破2亿",
+        "onboard_time": 1663277233,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 36359,
+        "num": 36359,
+        "word": "上海奉贤15日上午停课停学",
+        "onboard_time": 1663274891,
+        "rank": 34,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 35582,
+        "num": 35582,
+        "word": "胃胀气一下子就缓解了",
+        "onboard_time": 1663232732,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 35010,
+        "num": 35010,
+        "word": "被家长撞见自嗨真的很尴尬",
+        "onboard_time": 1663250737,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 33662,
+        "num": 33662,
+        "word": "猫猫过上了我的理想生活",
+        "onboard_time": 1663254101,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 32319,
+        "num": 32319,
+        "word": "张朝阳出物理题考网友仅一人答出",
+        "onboard_time": 1663236273,
+        "rank": 38,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 32095,
+        "num": 32095,
+        "word": "11岁女孩自学建模实现盲盒自由",
+        "onboard_time": 1663238670,
+        "rank": 39,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 33965,
+        "num": 31102,
+        "word": "莲花楼",
+        "onboard_time": 1663237414,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 28912,
+        "num": 28912,
+        "word": "女子手机密码6个0被盗19万",
+        "onboard_time": 1663239510,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27396,
+        "num": 27396,
+        "word": "为什么恋爱会让人降智",
+        "onboard_time": 1663242392,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26819,
+        "num": 26819,
+        "word": "乌鲁木齐疫情防控",
+        "onboard_time": 1663249417,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25686,
+        "num": 25686,
+        "word": "琼姐杨兴权吻别",
+        "onboard_time": 1663264935,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23490,
+        "num": 23490,
+        "word": "LBL",
+        "onboard_time": 1663237713,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 18798,
+        "num": 18798,
+        "word": "女子网购鸡胸肉一捏似豆腐",
+        "onboard_time": 1663240349,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17249,
+        "num": 17249,
+        "word": "Adobe宣布收购Figma",
+        "onboard_time": 1663252961,
+        "rank": 47,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 16946,
+        "num": 16946,
+        "word": "谢谢你罗杰",
+        "onboard_time": 1663252483,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15547,
+        "num": 16943,
+        "word": "新生军训画八卦求雨",
+        "onboard_time": 1663278131,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席中亚之行#"
+    }
+  }
+}
