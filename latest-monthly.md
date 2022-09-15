@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/16 07:27:27
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/16 07:43:27
 </p>
 </blockquote>
 <p>
@@ -3477,6 +3477,12 @@ QQ推出QQ学生卡（热度：1084298）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%8D%97%E5%85%8D%E7%A8%8E%E7%89%88iPhone14%E7%B3%BB%E5%88%97%E4%BB%B7%E6%A0%BC%23" target="weibo">
+海南免税版iPhone14系列价格（热度：1081866）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E6%8F%90%E8%AE%AE%E5%85%A8%E9%9D%A2%E6%B6%88%E7%81%AD%E8%9A%8A%E5%AD%90%23" target="weibo">
 全国人大代表提议全面消灭蚊子（热度：1081710）
 </a>
@@ -3683,12 +3689,6 @@ iPhone14Pro系列占中国订单85%（热度：1059806）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%96%B9%E6%82%94%E5%A9%9A%E6%8B%92%E9%80%80%E5%BD%A9%E7%A4%BC%E7%94%B7%E5%AD%90%E6%8C%82%E6%A8%AA%E5%B9%85%E5%AF%BB%E4%BA%BA%23" target="weibo">
 女方悔婚拒退彩礼男子挂横幅寻人（热度：1048579）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%8D%97%E5%85%8D%E7%A8%8E%E7%89%88iPhone14%E7%B3%BB%E5%88%97%E4%BB%B7%E6%A0%BC%23" target="weibo">
-海南免税版iPhone14系列价格（热度：1048135）
 </a>
 </li>
 
