@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663198933775,
+  "endTime": 1663209748702,
   "band_list": [
     {
       "raw_hot": 9835748,
@@ -235,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2606421,
+      "num": 2606421,
+      "word": "安以轩老公陈荣炼涉83项罪",
+      "onboard_time": 1663199668,
+      "rank": 0,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 2555826,
       "num": 2555826,
       "word": "官方回应去世老人核酸报告还在更新",
@@ -321,6 +329,14 @@
       "onboard_time": 1663128755,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2129110,
+      "num": 2129110,
+      "word": "超六成专科生月薪低于5000元",
+      "onboard_time": 1663207828,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2118452,
@@ -764,7 +780,7 @@
     },
     {
       "raw_hot": 1279992,
-      "num": 547254,
+      "num": 570962,
       "word": "泽连斯基发生交通事故",
       "onboard_time": 1663197744,
       "rank": 23,
@@ -913,6 +929,14 @@
       "onboard_time": 1663125635,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1160471,
+      "num": 1160471,
+      "word": "虞书欣头像小兰花换成虞美人了",
+      "onboard_time": 1663208427,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 1148327,
@@ -1147,6 +1171,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 990592,
+      "num": 945437,
+      "word": "羊了个羊山东排第一",
+      "onboard_time": 1663205846,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 989245,
       "num": 989245,
       "word": "蒙古国草原火蔓延至我国边境呼伦贝尔",
@@ -1177,6 +1209,14 @@
       "onboard_time": 1663123712,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 959872,
+      "num": 959872,
+      "word": "小县城1年种400万克拉钻石",
+      "onboard_time": 1663206569,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 959052,
@@ -1563,6 +1603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 758471,
+      "num": 758471,
+      "word": "iPhone全系支持电量百分比",
+      "onboard_time": 1663202314,
+      "rank": 7,
+      "category": "科技"
+    },
+    {
       "raw_hot": 756055,
       "num": 756055,
       "word": "网传一公司厕所隔间装监控",
@@ -1777,6 +1825,14 @@
       "onboard_time": 1662965436,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 661522,
+      "num": 527364,
+      "word": "六公主报道宋亚轩中戏入学",
+      "onboard_time": 1663207287,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 660564,
@@ -2097,6 +2153,14 @@
       "onboard_time": 1663164757,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 538058,
+      "num": 538058,
+      "word": "iOS16.1新增清洁能源充电功能",
+      "onboard_time": 1663205069,
+      "rank": 9,
+      "category": "科技"
     },
     {
       "raw_hot": 536775,
@@ -2539,6 +2603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 462003,
+      "num": 462003,
+      "word": "躲过雪糕刺客没躲过酸奶土匪",
+      "onboard_time": 1663207707,
+      "rank": 12,
+      "category": "美食"
+    },
+    {
       "raw_hot": 461850,
       "num": 461850,
       "word": "ios16壁纸",
@@ -2593,6 +2665,14 @@
       "onboard_time": 1663069175,
       "rank": 16,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 450962,
+      "num": 450962,
+      "word": "罗一舟张凌赫陈星旭天天向上路透",
+      "onboard_time": 1663207768,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 450110,
@@ -2675,12 +2755,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 440179,
+      "num": 440179,
+      "word": "黑龙江肇东未发生网传小孩打奶奶事件",
+      "onboard_time": 1663201412,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 439195,
       "num": 439195,
       "word": "EDG发布处罚公告",
       "onboard_time": 1663150648,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 437115,
+      "num": 437115,
+      "word": "苏州全域放开非本地购房者限购",
+      "onboard_time": 1663206145,
+      "rank": 15,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 433174,
@@ -3027,6 +3123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 377583,
+      "num": 377583,
+      "word": "任嘉伦 请君",
+      "onboard_time": 1663197682,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 377559,
       "num": 377559,
       "word": "燕郊疫情防控",
@@ -3219,6 +3323,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 355560,
+      "num": 355560,
+      "word": "iPhone14ProMax续航比上代提升2小时",
+      "onboard_time": 1663207287,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 354397,
       "num": 354397,
       "word": "经销商预计iPhone14Pro溢价千元左右",
@@ -3387,6 +3499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 333456,
+      "num": 333456,
+      "word": "张雨绮直播状态",
+      "onboard_time": 1663206268,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 332616,
       "num": 332616,
       "word": "上海地铁2号线",
@@ -3489,6 +3609,14 @@
       "onboard_time": 1663115251,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 325274,
+      "num": 325274,
+      "word": "张艺兴未至之境演唱会官宣",
+      "onboard_time": 1663209266,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 325264,
@@ -3649,14 +3777,6 @@
       "onboard_time": 1663151909,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 308247,
-      "num": 274732,
-      "word": "任嘉伦 请君",
-      "onboard_time": 1663197682,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 307513,
@@ -3851,6 +3971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 289846,
+      "num": 289846,
+      "word": "iOS16两天采用率已超iOS15",
+      "onboard_time": 1663207948,
+      "rank": 25,
+      "category": "科技"
+    },
+    {
       "raw_hot": 289184,
       "num": 224055,
       "word": "崇德尚艺是文艺工作者的基本要求",
@@ -3969,6 +4097,14 @@
       "onboard_time": 1662975340,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 279903,
+      "num": 279903,
+      "word": "莲花楼",
+      "onboard_time": 1663198525,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 279401,
@@ -4259,6 +4395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 253376,
+      "num": 253376,
+      "word": "女子倒车不当悬空压在路边车顶",
+      "onboard_time": 1663207167,
+      "rank": 28,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 253018,
       "num": 253018,
       "word": "天津一小伙给家养小猪喂螃蟹海鲜",
@@ -4369,6 +4513,14 @@
       "onboard_time": 1663058015,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 245508,
+      "num": 245508,
+      "word": "S12赛程时间正式公布",
+      "onboard_time": 1663199730,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 243729,
@@ -4723,6 +4875,14 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 215865,
+      "num": 215865,
+      "word": "BLACKPINK新专回归倒计时海报",
+      "onboard_time": 1663200153,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 215754,
       "num": 215754,
       "word": "金山",
@@ -5027,6 +5187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 194316,
+      "num": 194316,
+      "word": "老人去世金毛趴灵前守5天5夜",
+      "onboard_time": 1663171049,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194262,
       "num": 194262,
       "word": "严浩翔粉色衬衫随拍照",
@@ -5049,6 +5217,14 @@
       "onboard_time": 1663029876,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193239,
+      "num": 193239,
+      "word": "距23考研开考还有100天",
+      "onboard_time": 1663204231,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 192406,
@@ -5107,14 +5283,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 190317,
-      "num": 190317,
-      "word": "老人去世金毛趴灵前守5天5夜",
-      "onboard_time": 1663171049,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 189987,
       "num": 189987,
       "word": "谁能拒绝鲜花的浪漫呢",
@@ -5153,6 +5321,22 @@
       "onboard_time": 1663035695,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186023,
+      "num": 186023,
+      "word": "抓蛇消防员第一次遇到送蛇上门的",
+      "onboard_time": 1663201654,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184524,
+      "num": 184524,
+      "word": "马伊琍白宇新剧双向救赎",
+      "onboard_time": 1663207466,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 184342,
@@ -5227,12 +5411,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176564,
+      "num": 176564,
+      "word": "北京近期报告114例本土感染者",
+      "onboard_time": 1663201832,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176157,
       "num": 176157,
       "word": "鬼吹灯团建式cue开工",
       "onboard_time": 1663140145,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 176047,
+      "num": 176047,
+      "word": "灵动岛可显示30多种信息",
+      "onboard_time": 1663208848,
+      "rank": 41,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 174860,
+      "num": 174860,
+      "word": "百分百开麦导演关注列表",
+      "onboard_time": 1663205369,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 172867,
@@ -5288,6 +5496,14 @@
       "word": "第五人格",
       "onboard_time": 1662978995,
       "rank": 41,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 169561,
+      "num": 169561,
+      "word": "钟无艳战令皮肤",
+      "onboard_time": 1663209086,
+      "rank": 44,
       "category": "游戏"
     },
     {
@@ -5403,6 +5619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 156323,
+      "num": 156323,
+      "word": "九月好多剧",
+      "onboard_time": 1663209386,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 155825,
       "num": 155825,
       "word": "羊了个羊过不去",
@@ -5411,20 +5635,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 155546,
-      "num": 155546,
-      "word": "莲花楼",
-      "onboard_time": 1663198525,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 155440,
       "num": 155440,
       "word": "猫猫真的可以治愈一切",
       "onboard_time": 1663170512,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 155291,
+      "num": 155291,
+      "word": "哈尔滨疫情防控",
+      "onboard_time": 1663204709,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154882,
@@ -5441,6 +5665,14 @@
       "onboard_time": 1662887369,
       "rank": 23,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 154282,
+      "num": 154282,
+      "word": "理想汽车",
+      "onboard_time": 1663208727,
+      "rank": 47,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 153769,
@@ -5499,6 +5731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145625,
+      "num": 145625,
+      "word": "停车技术差有多尴尬",
+      "onboard_time": 1663209567,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 145011,
       "num": 145011,
       "word": "熊猫的背影有多萌",
@@ -5516,7 +5756,7 @@
     },
     {
       "raw_hot": 143971,
-      "num": 1368400,
+      "num": 1719894,
       "word": "歼20为志愿军烈士遗骸护航",
       "onboard_time": 1663161814,
       "rank": 2,
@@ -5633,6 +5873,14 @@
       "onboard_time": 1663134091,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134480,
+      "num": 249196,
+      "word": "被秋天的昆仑山惊艳到了",
+      "onboard_time": 1663206145,
+      "rank": 29,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 133593,
@@ -6330,6 +6578,9 @@
     },
     {
       "word": "#中国与哈乌两国要走互利共赢之路#"
+    },
+    {
+      "word": "#英雄回家#"
     }
   ]
 }
