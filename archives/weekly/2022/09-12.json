@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663250716156,
+  "endTime": 1663252144656,
   "band_list": [
     {
       "raw_hot": 9835748,
@@ -355,6 +355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2200004,
+      "num": 2200004,
+      "word": "费德勒宣布退役",
+      "onboard_time": 1663248817,
+      "rank": 0,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 2118452,
       "num": 2118452,
       "word": "家属叫不出产妇全名护士拒给娃",
@@ -563,14 +571,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1716176,
-      "num": 1716176,
-      "word": "费德勒宣布退役",
-      "onboard_time": 1663248817,
-      "rank": 0,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 1658013,
       "num": 1658013,
       "word": "老板连摊4张饼都失败直接歇业",
@@ -745,6 +745,14 @@
       "onboard_time": 1662952053,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1394875,
+      "num": 1394875,
+      "word": "专家称三年内全球或发生金融危机",
+      "onboard_time": 1663247792,
+      "rank": 39,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1381094,
@@ -1163,19 +1171,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1094083,
+      "num": 1094083,
+      "word": "4岁孩子担心家中变故患抑郁症",
+      "onboard_time": 1663246592,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1093865,
       "num": 1093865,
       "word": "90后小伙为工作9年不炫火锅",
       "onboard_time": 1662948517,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1091075,
-      "num": 1091075,
-      "word": "4岁孩子担心家中变故患抑郁症",
-      "onboard_time": 1663246592,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1771,14 +1779,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 808399,
-      "num": 808399,
-      "word": "专家称三年内全球或发生金融危机",
-      "onboard_time": 1663247792,
-      "rank": 39,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 804808,
       "num": 804808,
       "word": "许家印要求恒大员工大干苦干拼命干",
@@ -1844,7 +1844,7 @@
     },
     {
       "raw_hot": 782990,
-      "num": 1604363,
+      "num": 1751388,
       "word": "张朝阳出物理题考网友仅一人答出",
       "onboard_time": 1663236273,
       "rank": 22,
@@ -2345,6 +2345,14 @@
       "onboard_time": 1663072112,
       "rank": 47,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 612803,
+      "num": 523946,
+      "word": "杨超越好像把我骂醒了",
+      "onboard_time": 1663251279,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 612255,
@@ -3387,6 +3395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 423235,
+      "num": 423235,
+      "word": "乌鲁木齐疫情防控",
+      "onboard_time": 1663249417,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 423126,
       "num": 349630,
       "word": "狂飙预告尺度",
@@ -3457,6 +3473,14 @@
       "onboard_time": 1663049556,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 415056,
+      "num": 327156,
+      "word": "太湖湾音乐节",
+      "onboard_time": 1663251700,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 414596,
@@ -3923,6 +3947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 363128,
+      "num": 363128,
+      "word": "新闻联播",
+      "onboard_time": 1663250677,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 361955,
       "num": 361955,
       "word": "成都发布",
@@ -3937,6 +3969,14 @@
       "onboard_time": 1662909470,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 361056,
+      "num": 361056,
+      "word": "平价下饭神器",
+      "onboard_time": 1663246832,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 361052,
@@ -4185,14 +4225,6 @@
       "onboard_time": 1663050757,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 333697,
-      "num": 333697,
-      "word": "乌鲁木齐疫情防控",
-      "onboard_time": 1663249417,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 333456,
@@ -4945,14 +4977,6 @@
       "onboard_time": 1663129295,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 280905,
-      "num": 280905,
-      "word": "平价下饭神器",
-      "onboard_time": 1663246832,
-      "rank": 34,
-      "category": "美食"
     },
     {
       "raw_hot": 280532,
@@ -5987,6 +6011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209370,
+      "num": 209370,
+      "word": "祖传秘方掏耳屎其实是话梅和面粉",
+      "onboard_time": 1663250376,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209120,
       "num": 209120,
       "word": "想过节带回家的明星",
@@ -6001,6 +6033,14 @@
       "onboard_time": 1662986317,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207110,
+      "num": 112229,
+      "word": "祝福费德勒",
+      "onboard_time": 1663252121,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 206856,
@@ -6371,6 +6411,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 187927,
+      "num": 187927,
+      "word": "北京朝阳通报1例初筛阳性",
+      "onboard_time": 1663247012,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187689,
       "num": 187689,
       "word": "陪猫猫再多走一段路",
@@ -6433,14 +6481,6 @@
       "onboard_time": 1663246832,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 184127,
-      "num": 184127,
-      "word": "北京朝阳通报1例初筛阳性",
-      "onboard_time": 1663247012,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 183592,
@@ -6931,6 +6971,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 142672,
+      "num": 142672,
+      "word": "被家长撞见自嗨真的很尴尬",
+      "onboard_time": 1663250737,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 141911,
+      "num": 111689,
+      "word": "矿大回应男生打架被取消保研",
+      "onboard_time": 1663252121,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 141884,
       "num": 141884,
       "word": "澳门举办WTT冠军赛",
@@ -7059,12 +7115,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132869,
+      "num": 132869,
+      "word": "佩服脑子转得快的人",
+      "onboard_time": 1663247913,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 132683,
       "num": 132683,
       "word": "倪桂宝",
       "onboard_time": 1663057895,
       "rank": 42,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 130882,
+      "num": 130882,
+      "word": "妈妈客厅睡着萌娃为其盖被子",
+      "onboard_time": 1663251161,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130736,
@@ -7123,6 +7195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 127767,
+      "num": 127767,
+      "word": "白血病男孩想捐出剩余的200多万善款",
+      "onboard_time": 1663251821,
+      "rank": 45,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 127736,
       "num": 127736,
       "word": "车辆检验周期10月1日起有调整",
@@ -7161,14 +7241,6 @@
       "onboard_time": 1663241372,
       "rank": 37,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 122842,
-      "num": 122842,
-      "word": "祖传秘方掏耳屎其实是话梅和面粉",
-      "onboard_time": 1663250376,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 120503,
@@ -7225,14 +7297,6 @@
       "onboard_time": 1662897543,
       "rank": 24,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 116755,
-      "num": 116755,
-      "word": "佩服脑子转得快的人",
-      "onboard_time": 1663247913,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 116563,
@@ -7395,6 +7459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106448,
+      "num": 106448,
+      "word": "女儿送务农爸爸跑步机让他健身",
+      "onboard_time": 1663251940,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105311,
       "num": 105311,
       "word": "预防出生缺陷应该知道的事",
@@ -7529,14 +7601,6 @@
       "onboard_time": 1663089678,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 87791,
-      "num": 87791,
-      "word": "新闻联播",
-      "onboard_time": 1663250677,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 86305,

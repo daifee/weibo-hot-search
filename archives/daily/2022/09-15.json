@@ -1,6 +1,6 @@
 {
   "startTime": 1663173270447,
-  "endTime": 1663250716156,
+  "endTime": 1663252144656,
   "band_list": [
     {
       "raw_hot": 5379560,
@@ -35,6 +35,14 @@
       "category": "教育,国内要闻"
     },
     {
+      "raw_hot": 2200004,
+      "num": 2200004,
+      "word": "费德勒宣布退役",
+      "onboard_time": 1663248817,
+      "rank": 0,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 2014387,
       "num": 1067488,
       "word": "张翰新剧有帮前女友带孩子剧情",
@@ -65,14 +73,6 @@
       "onboard_time": 1663217081,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1716176,
-      "num": 1716176,
-      "word": "费德勒宣布退役",
-      "onboard_time": 1663248817,
-      "rank": 0,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 1631064,
@@ -129,6 +129,14 @@
       "onboard_time": 1663230030,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1394875,
+      "num": 1394875,
+      "word": "专家称三年内全球或发生金融危机",
+      "onboard_time": 1663247792,
+      "rank": 39,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1377848,
@@ -235,8 +243,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1091075,
-      "num": 1091075,
+      "raw_hot": 1094083,
+      "num": 1094083,
       "word": "4岁孩子担心家中变故患抑郁症",
       "onboard_time": 1663246592,
       "rank": 19,
@@ -403,14 +411,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 808399,
-      "num": 808399,
-      "word": "专家称三年内全球或发生金融危机",
-      "onboard_time": 1663247792,
-      "rank": 39,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 792370,
       "num": 461936,
       "word": "王嘉尔四天连开三场海外签售",
@@ -428,7 +428,7 @@
     },
     {
       "raw_hot": 782990,
-      "num": 1604363,
+      "num": 1751388,
       "word": "张朝阳出物理题考网友仅一人答出",
       "onboard_time": 1663236273,
       "rank": 22,
@@ -577,6 +577,14 @@
       "onboard_time": 1663215158,
       "rank": 14,
       "category": "科技"
+    },
+    {
+      "raw_hot": 612803,
+      "num": 523946,
+      "word": "杨超越好像把我骂醒了",
+      "onboard_time": 1663251279,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 608315,
@@ -803,12 +811,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 423235,
+      "num": 423235,
+      "word": "乌鲁木齐疫情防控",
+      "onboard_time": 1663249417,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 423126,
       "num": 349630,
       "word": "狂飙预告尺度",
       "onboard_time": 1663211911,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 415056,
+      "num": 327156,
+      "word": "太湖湾音乐节",
+      "onboard_time": 1663251700,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 413683,
@@ -963,6 +987,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 363128,
+      "num": 363128,
+      "word": "新闻联播",
+      "onboard_time": 1663250677,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 361056,
+      "num": 361056,
+      "word": "平价下饭神器",
+      "onboard_time": 1663246832,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 355560,
       "num": 355560,
       "word": "iPhone14ProMax续航比上代提升2小时",
@@ -1009,14 +1049,6 @@
       "onboard_time": 1663211789,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 333697,
-      "num": 333697,
-      "word": "乌鲁木齐疫情防控",
-      "onboard_time": 1663249417,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 333456,
@@ -1267,14 +1299,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 280905,
-      "num": 280905,
-      "word": "平价下饭神器",
-      "onboard_time": 1663246832,
-      "rank": 34,
-      "category": "美食"
-    },
-    {
       "raw_hot": 277047,
       "num": 233008,
       "word": "野蛮生长",
@@ -1515,6 +1539,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 209370,
+      "num": 209370,
+      "word": "祖传秘方掏耳屎其实是话梅和面粉",
+      "onboard_time": 1663250376,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207110,
+      "num": 112229,
+      "word": "祝福费德勒",
+      "onboard_time": 1663252121,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206423,
       "num": 117772,
       "word": "杜德伟说范世錡像老婆",
@@ -1627,6 +1667,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 187927,
+      "num": 187927,
+      "word": "北京朝阳通报1例初筛阳性",
+      "onboard_time": 1663247012,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187689,
       "num": 187689,
       "word": "陪猫猫再多走一段路",
@@ -1657,14 +1705,6 @@
       "onboard_time": 1663246832,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 184127,
-      "num": 184127,
-      "word": "北京朝阳通报1例初筛阳性",
-      "onboard_time": 1663247012,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 183548,
@@ -1875,6 +1915,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 142672,
+      "num": 142672,
+      "word": "被家长撞见自嗨真的很尴尬",
+      "onboard_time": 1663250737,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 141911,
+      "num": 111689,
+      "word": "矿大回应男生打架被取消保研",
+      "onboard_time": 1663252121,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 134900,
       "num": 134900,
       "word": "覆流年",
@@ -1897,6 +1953,22 @@
       "onboard_time": 1663245870,
       "rank": 35,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 132869,
+      "num": 132869,
+      "word": "佩服脑子转得快的人",
+      "onboard_time": 1663247913,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 130882,
+      "num": 130882,
+      "word": "妈妈客厅睡着萌娃为其盖被子",
+      "onboard_time": 1663251161,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130736,
@@ -1939,6 +2011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 127767,
+      "num": 127767,
+      "word": "白血病男孩想捐出剩余的200多万善款",
+      "onboard_time": 1663251821,
+      "rank": 45,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 127736,
       "num": 127736,
       "word": "车辆检验周期10月1日起有调整",
@@ -1963,14 +2043,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 122842,
-      "num": 122842,
-      "word": "祖传秘方掏耳屎其实是话梅和面粉",
-      "onboard_time": 1663250376,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121848,
       "num": 121848,
       "word": "明天苏州可弹性上下学",
@@ -1993,14 +2065,6 @@
       "onboard_time": 1663173985,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 116755,
-      "num": 116755,
-      "word": "佩服脑子转得快的人",
-      "onboard_time": 1663247913,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 113635,
@@ -2064,6 +2128,14 @@
       "word": "北京已有6名感染者到过民航总医院",
       "onboard_time": 1663150830,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106448,
+      "num": 106448,
+      "word": "女儿送务农爸爸跑步机让他健身",
+      "onboard_time": 1663251940,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -2161,14 +2233,6 @@
       "onboard_time": 1663223609,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 87791,
-      "num": 87791,
-      "word": "新闻联播",
-      "onboard_time": 1663250677,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 80700,
