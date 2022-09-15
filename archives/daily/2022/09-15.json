@@ -1,6 +1,6 @@
 {
   "startTime": 1663173270447,
-  "endTime": 1663225410216,
+  "endTime": 1663227212146,
   "band_list": [
     {
       "raw_hot": 5379560,
@@ -67,6 +67,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1309468,
+      "num": 1309468,
+      "word": "赵丽颖演的许半夏好飒",
+      "onboard_time": 1663224269,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1279992,
       "num": 570962,
       "word": "泽连斯基发生交通事故",
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 1139053,
-      "num": 827324,
+      "num": 954260,
       "word": "女子被男友控制办证时写纸条求助",
       "onboard_time": 1663220613,
       "rank": 24,
@@ -121,6 +129,14 @@
       "onboard_time": 1663207707,
       "rank": 12,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1067488,
+      "num": 1067488,
+      "word": "张翰新剧有帮前女友带孩子剧情",
+      "onboard_time": 1663225829,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1039119,
@@ -259,6 +275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 746589,
+      "num": 746589,
+      "word": "雷军称37岁已财务自由",
+      "onboard_time": 1663225650,
+      "rank": 5,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 732878,
       "num": 732878,
       "word": "AirPods Pro 2 值得买吗",
@@ -281,14 +305,6 @@
       "onboard_time": 1663173565,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 696378,
-      "num": 696378,
-      "word": "赵丽颖演的许半夏好飒",
-      "onboard_time": 1663224269,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 683303,
@@ -321,6 +337,14 @@
       "onboard_time": 1663156830,
       "rank": 10,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 563670,
+      "num": 563670,
+      "word": "拉萨疫情防控",
+      "onboard_time": 1663226010,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 547074,
@@ -387,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 472349,
+      "num": 387436,
+      "word": "景甜给张彬彬新剧做宣传",
+      "onboard_time": 1663223429,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 463306,
       "num": 463306,
       "word": "少女患遗传病肠道长数百个息肉",
@@ -425,14 +457,6 @@
       "onboard_time": 1663206145,
       "rank": 15,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 437115,
-      "num": 376423,
-      "word": "景甜给张彬彬新剧做宣传",
-      "onboard_time": 1663223429,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 435501,
@@ -483,6 +507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 402276,
+      "num": 402276,
+      "word": "这居然是只猫",
+      "onboard_time": 1663221329,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 396918,
       "num": 396918,
       "word": "爱奇艺热度值破万的剧集",
@@ -497,6 +529,14 @@
       "onboard_time": 1663211429,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 391921,
+      "num": 282392,
+      "word": "Angelababy说我是露娜画中见",
+      "onboard_time": 1663226190,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 391005,
@@ -521,6 +561,14 @@
       "onboard_time": 1663197682,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 370733,
+      "num": 370733,
+      "word": "南昌男子醉驾检方作出不起诉决定",
+      "onboard_time": 1663223009,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 369488,
@@ -593,14 +641,6 @@
       "onboard_time": 1663206268,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 329263,
-      "num": 329263,
-      "word": "这居然是只猫",
-      "onboard_time": 1663221329,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 327483,
@@ -747,12 +787,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 286319,
-      "num": 286319,
-      "word": "南昌男子醉驾检方作出不起诉决定",
-      "onboard_time": 1663223009,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 285336,
+      "num": 285336,
+      "word": "苹果占国内高端机70%份额",
+      "onboard_time": 1663223309,
+      "rank": 28,
+      "category": "科技"
     },
     {
       "raw_hot": 279903,
@@ -776,6 +816,14 @@
       "word": "钱塘江入海口惊现大片潮汐树",
       "onboard_time": 1663170392,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267633,
+      "num": 267633,
+      "word": "成都好久不见",
+      "onboard_time": 1663224990,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -867,12 +915,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 237932,
+      "num": 200528,
+      "word": "张若昀新剧预告眼神从呆变狠",
+      "onboard_time": 1663226550,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 235807,
       "num": 235807,
       "word": "开学后才知道的专业真相",
       "onboard_time": 1663210468,
       "rank": 27,
       "category": "教育"
+    },
+    {
+      "raw_hot": 230152,
+      "num": 230152,
+      "word": "你觉得搞科研的女生酷吗",
+      "onboard_time": 1663226430,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 228246,
@@ -921,6 +985,14 @@
       "onboard_time": 1663224149,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206333,
+      "num": 206333,
+      "word": "以太坊",
+      "onboard_time": 1663226010,
+      "rank": 27,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 205434,
@@ -1019,20 +1091,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182723,
+      "num": 132081,
+      "word": "披荆斩棘的哥哥",
+      "onboard_time": 1663227030,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180589,
       "num": 180589,
       "word": "法考",
       "onboard_time": 1663163733,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 179805,
-      "num": 179805,
-      "word": "苹果占国内高端机70%份额",
-      "onboard_time": 1663223309,
-      "rank": 28,
-      "category": "科技"
     },
     {
       "raw_hot": 179612,
@@ -1065,6 +1137,14 @@
       "onboard_time": 1663162353,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169906,
+      "num": 204452,
+      "word": "两名退伍兵狂奔7节车厢救人",
+      "onboard_time": 1663223909,
+      "rank": 46,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 161043,
@@ -1139,6 +1219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 148052,
+      "num": 148052,
+      "word": "成都人出门的第一件事",
+      "onboard_time": 1663226669,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143136,
       "num": 143136,
       "word": "浮图缘",
@@ -1179,6 +1267,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 128043,
+      "num": 128043,
+      "word": "偶像梦幻祭",
+      "onboard_time": 1663226129,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 127736,
       "num": 127736,
       "word": "车辆检验周期10月1日起有调整",
@@ -1192,14 +1288,6 @@
       "word": "体现修养的18个细节",
       "onboard_time": 1663198046,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 123572,
-      "num": 123572,
-      "word": "成都好久不见",
-      "onboard_time": 1663224990,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1329,14 +1417,6 @@
       "onboard_time": 1663223609,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 82482,
-      "num": 82482,
-      "word": "两名退伍兵狂奔7节车厢救人",
-      "onboard_time": 1663223909,
-      "rank": 46,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 80700,
