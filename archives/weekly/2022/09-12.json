@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663234956939,
+  "endTime": 1663237634382,
   "band_list": [
     {
       "raw_hot": 9835748,
@@ -627,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1560442,
+      "num": 524534,
+      "word": "难听",
+      "onboard_time": 1663234591,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1547516,
       "num": 1547516,
       "word": "全自动核酸检测平台获批上市",
@@ -699,8 +707,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1432073,
+      "num": 1432073,
+      "word": "王鹤棣给虞书欣新剧打call",
+      "onboard_time": 1663237233,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1418306,
-      "num": 476158,
+      "num": 517259,
       "word": "整个kpop都在等星河集美回应",
       "onboard_time": 1663230030,
       "rank": 10,
@@ -881,6 +897,14 @@
       "onboard_time": 1663162353,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1243339,
+      "num": 1243339,
+      "word": "明媒善娶",
+      "onboard_time": 1663234052,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 1240701,
@@ -1137,6 +1161,14 @@
       "onboard_time": 1663166017,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1072032,
+      "num": 522086,
+      "word": "李秀满将与公司结束制作人合约",
+      "onboard_time": 1663234956,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1071796,
@@ -1707,6 +1739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 786186,
+      "num": 786186,
+      "word": "7岁男孩1分钟3次横穿马路被撞",
+      "onboard_time": 1663235070,
+      "rank": 3,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 780651,
       "num": 579544,
       "word": "刘彰livehouse",
@@ -2067,6 +2107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 647742,
+      "num": 647742,
+      "word": "任嘉伦李沁新剧刚开播就大婚",
+      "onboard_time": 1663234409,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 645557,
       "num": 645557,
       "word": "我们的歌第四季官宣",
@@ -2313,6 +2361,14 @@
       "onboard_time": 1663127194,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 560955,
+      "num": 560955,
+      "word": "胃胀气一下子就缓解了",
+      "onboard_time": 1663232732,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 559591,
@@ -2600,6 +2656,14 @@
       "word": "警方回应保时捷碰撞起火门打不开",
       "onboard_time": 1663146929,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 508561,
+      "num": 508561,
+      "word": "文在寅过中秋为妻女切西瓜",
+      "onboard_time": 1663233088,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -3395,14 +3459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 392600,
-      "num": 392600,
-      "word": "胃胀气一下子就缓解了",
-      "onboard_time": 1663232732,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 391611,
       "num": 391611,
       "word": "你觉得搞科研的女生酷吗",
@@ -3425,6 +3481,14 @@
       "onboard_time": 1663192993,
       "rank": 28,
       "category": "科技"
+    },
+    {
+      "raw_hot": 389964,
+      "num": 389964,
+      "word": "7岁男童摘苍耳粘满头",
+      "onboard_time": 1663234772,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 388449,
@@ -3787,6 +3851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 351533,
+      "num": 351533,
+      "word": "公司转正交五险女子拒入职反被骂",
+      "onboard_time": 1663235731,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 349632,
       "num": 283429,
       "word": "刘诗诗古装好飒",
@@ -3987,6 +4059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 330928,
+      "num": 330928,
+      "word": "晚上7点后吃饭都算夜宵",
+      "onboard_time": 1663231353,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 330729,
       "num": 234065,
       "word": "消失的孩子",
@@ -4107,6 +4187,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 321752,
+      "num": 321752,
+      "word": "曝郭艾伦续约辽宁男篮",
+      "onboard_time": 1663234293,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 321591,
       "num": 321591,
       "word": "动画片还是拍保守了",
@@ -4185,14 +4273,6 @@
       "onboard_time": 1662961474,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 316018,
-      "num": 316018,
-      "word": "明媒善娶",
-      "onboard_time": 1663234052,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 313887,
@@ -4339,6 +4419,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 303589,
+      "num": 277871,
+      "word": "成毅莲花楼红绸舞剑",
+      "onboard_time": 1663235434,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 302843,
       "num": 242967,
       "word": "周迅脱口秀",
@@ -4433,6 +4521,14 @@
       "onboard_time": 1663148189,
       "rank": 21,
       "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 296859,
+      "num": 279903,
+      "word": "莲花楼",
+      "onboard_time": 1663198525,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 296536,
@@ -4603,6 +4699,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 284662,
+      "num": 284662,
+      "word": "乐视30天直播14场带货2万元",
+      "onboard_time": 1663232732,
+      "rank": 35,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 283588,
       "num": 283588,
       "word": "朝阳大妈说当全职太太很危险",
@@ -4641,14 +4745,6 @@
       "onboard_time": 1662975340,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 279903,
-      "num": 279903,
-      "word": "莲花楼",
-      "onboard_time": 1663198525,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 279401,
@@ -4761,14 +4857,6 @@
       "onboard_time": 1662946057,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 271482,
-      "num": 220435,
-      "word": "难听",
-      "onboard_time": 1663234591,
-      "rank": 22,
-      "category": "音乐"
     },
     {
       "raw_hot": 270278,
@@ -4907,6 +4995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264852,
+      "num": 264852,
+      "word": "张朝阳出物理题考网友仅一人答出",
+      "onboard_time": 1663236273,
+      "rank": 22,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 263713,
       "num": 263713,
       "word": "羊了个羊真的很烦人",
@@ -4953,14 +5049,6 @@
       "onboard_time": 1662942872,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 258003,
-      "num": 175415,
-      "word": "任嘉伦李沁新剧刚开播就大婚",
-      "onboard_time": 1663234409,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 257232,
@@ -5049,6 +5137,14 @@
       "onboard_time": 1662967654,
       "rank": 45,
       "category": "社会正能量,教育"
+    },
+    {
+      "raw_hot": 250658,
+      "num": 172731,
+      "word": "男明星原声台词对比",
+      "onboard_time": 1663236693,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 250072,
@@ -5321,14 +5417,6 @@
       "onboard_time": 1663144591,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 233056,
-      "num": 233056,
-      "word": "文在寅过中秋为妻女切西瓜",
-      "onboard_time": 1663233088,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 232938,
@@ -5651,28 +5739,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 210346,
-      "num": 210346,
-      "word": "晚上7点后吃饭都算夜宵",
-      "onboard_time": 1663231353,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 210279,
       "num": 210279,
       "word": "天府新区解除风险区",
       "onboard_time": 1662997183,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 210261,
-      "num": 210261,
-      "word": "曝郭艾伦续约辽宁男篮",
-      "onboard_time": 1663234293,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 210223,
@@ -5857,14 +5929,6 @@
       "onboard_time": 1663123532,
       "rank": 49,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 199171,
-      "num": 199171,
-      "word": "乐视30天直播14场带货2万元",
-      "onboard_time": 1663232732,
-      "rank": 35,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 199103,
@@ -6387,6 +6451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155055,
+      "num": 155055,
+      "word": "守望先锋2新英雄雾子",
+      "onboard_time": 1663236873,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 154882,
       "num": 154882,
       "word": "顽固肌肉小腿被拿捏了",
@@ -6443,6 +6515,14 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 151430,
+      "num": 151430,
+      "word": "婴儿水价格翻倍成分和普通水无区别",
+      "onboard_time": 1663233391,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151023,
       "num": 151023,
       "word": "乘客连跑带喊冲下地铁分工救人",
@@ -6489,6 +6569,14 @@
       "onboard_time": 1663116571,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147953,
+      "num": 147953,
+      "word": "陪猫猫再多走一段路",
+      "onboard_time": 1663234533,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 145011,
@@ -6739,6 +6827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120936,
+      "num": 120936,
+      "word": "这小熊猫应该没少被提着走",
+      "onboard_time": 1663237052,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120503,
       "num": 120503,
       "word": "2022护师成绩",
@@ -6851,12 +6947,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112321,
-      "num": 112321,
-      "word": "陪猫猫再多走一段路",
-      "onboard_time": 1663234533,
-      "rank": 42,
-      "category": "情感"
+      "raw_hot": 112073,
+      "num": 112073,
+      "word": "郭艾伦工作室否认续约",
+      "onboard_time": 1663235611,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 111921,
@@ -6913,14 +7009,6 @@
       "onboard_time": 1662972458,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 108787,
-      "num": 108787,
-      "word": "婴儿水价格翻倍成分和普通水无区别",
-      "onboard_time": 1663233391,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108658,
@@ -7001,14 +7089,6 @@
       "onboard_time": 1663085910,
       "rank": 45,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 96195,
-      "num": 96195,
-      "word": "7岁男童摘苍耳粘满头",
-      "onboard_time": 1663234772,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 94992,
@@ -7201,6 +7281,14 @@
       "onboard_time": 1662904851,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57154,
+      "num": 884389,
+      "word": "这些遗物静静诉说着英雄的过往",
+      "onboard_time": 1663235671,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 57152,
