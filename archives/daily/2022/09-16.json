@@ -1,6 +1,6 @@
 {
   "startTime": 1663259654662,
-  "endTime": 1663261105147,
+  "endTime": 1663262939106,
   "band_list": [
     {
       "raw_hot": 1077199,
@@ -57,6 +57,14 @@
       "onboard_time": 1663247792,
       "rank": 6,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 488419,
+      "num": 161600,
+      "word": "谁能拒绝川渝男人的魅力呢",
+      "onboard_time": 1663260383,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 486912,
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 220449,
-      "num": 187998,
+      "num": 205794,
       "word": "C罗最新身价2000万欧",
       "onboard_time": 1663258705,
       "rank": 33,
@@ -203,14 +211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161600,
-      "num": 161600,
-      "word": "谁能拒绝川渝男人的魅力呢",
-      "onboard_time": 1663260383,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 153216,
       "num": 153216,
       "word": "陈晓给李沁新剧打call",
@@ -235,7 +235,7 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 126908,
+      "raw_hot": 129234,
       "num": 196644,
       "word": "这段视频肉食爱好者都扛不住",
       "onboard_time": 1663257391,
@@ -379,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 68026,
+      "num": 52468,
+      "word": "很难不对明艳大美人心动吧",
+      "onboard_time": 1663261819,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 66602,
       "num": 66602,
       "word": "张朝阳出物理题考网友仅一人答出",
@@ -417,6 +425,14 @@
       "onboard_time": 1663240711,
       "rank": 2,
       "category": "其它"
+    },
+    {
+      "raw_hot": 42036,
+      "num": 37850,
+      "word": "中了陈小春的美男计",
+      "onboard_time": 1663260320,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 37993,

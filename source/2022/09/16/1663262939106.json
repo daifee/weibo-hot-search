@@ -1,0 +1,410 @@
+{
+  "runTime": 1663262939106,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 692747,
+        "num": 692747,
+        "word": "海南免税版iPhone14系列价格",
+        "onboard_time": 1663256795,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 205794,
+        "num": 205794,
+        "word": "C罗最新身价2000万欧",
+        "onboard_time": 1663258705,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25950,
+        "num": 202164,
+        "word": "打击网络谣言共建清朗家园",
+        "onboard_time": 1663240711,
+        "rank": 2,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 481795,
+        "num": 201838,
+        "word": "霍麻辣没了",
+        "onboard_time": 1663257212,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 216229,
+        "num": 201713,
+        "word": "教育局回应一中学限制上厕所人次",
+        "onboard_time": 1663254340,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 201379,
+        "num": 201379,
+        "word": "矿大回应男生打架被取消保研",
+        "onboard_time": 1663252121,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 163718,
+        "num": 163718,
+        "word": "女儿送务农爸爸跑步机让他健身",
+        "onboard_time": 1663251940,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163137,
+        "num": 163137,
+        "word": "任嘉伦原声",
+        "onboard_time": 1663252782,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142011,
+        "num": 142011,
+        "word": "从脸看脾胃好不好",
+        "onboard_time": 1663244191,
+        "rank": 8,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 129234,
+        "num": 141790,
+        "word": "这段视频肉食爱好者都扛不住",
+        "onboard_time": 1663257391,
+        "rank": 9,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 488419,
+        "num": 141489,
+        "word": "谁能拒绝川渝男人的魅力呢",
+        "onboard_time": 1663260383,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396500,
+        "num": 141354,
+        "word": "因为是虞书欣",
+        "onboard_time": 1663260501,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 270058,
+        "num": 140842,
+        "word": "杨超越好像把我骂醒了",
+        "onboard_time": 1663251279,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140781,
+        "num": 140781,
+        "word": "4岁孩子担心家中变故患抑郁症",
+        "onboard_time": 1663246592,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138709,
+        "num": 138709,
+        "word": "年轻人宁买万元手机不花4元充电",
+        "onboard_time": 1663246352,
+        "rank": 14,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 127945,
+        "num": 127945,
+        "word": "请君",
+        "onboard_time": 1663248457,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121383,
+        "num": 121383,
+        "word": "乌兹别克斯坦首枚最高友谊勋章",
+        "onboard_time": 1663255538,
+        "rank": 16,
+        "category": "国外要闻,国内要闻"
+      },
+      {
+        "raw_hot": 100360,
+        "num": 100360,
+        "word": "中产家庭一年养娃花多少钱",
+        "onboard_time": 1663254461,
+        "rank": 17,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 94829,
+        "num": 94829,
+        "word": "祖传秘方掏耳屎其实是话梅和面粉",
+        "onboard_time": 1663250376,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80855,
+        "num": 80855,
+        "word": "被家长撞见自嗨真的很尴尬",
+        "onboard_time": 1663250737,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96411,
+        "num": 80151,
+        "word": "东八区的先生们 离谱",
+        "onboard_time": 1663240172,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 77718,
+        "num": 77718,
+        "word": "赵丽颖和刘威又杠上了",
+        "onboard_time": 1663245870,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 74539,
+        "num": 74539,
+        "word": "Angelababy说我是露娜画中见",
+        "onboard_time": 1663226190,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 68884,
+        "num": 68884,
+        "word": "LBL",
+        "onboard_time": 1663237713,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 67517,
+        "num": 67517,
+        "word": "女子手机密码6个0被盗19万",
+        "onboard_time": 1663239510,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63205,
+        "num": 63205,
+        "word": "女子网购鸡胸肉一捏似豆腐",
+        "onboard_time": 1663240349,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60080,
+        "num": 60080,
+        "word": "费德勒宣布退役",
+        "onboard_time": 1663248817,
+        "rank": 26,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 60048,
+        "num": 60048,
+        "word": "胃胀气一下子就缓解了",
+        "onboard_time": 1663232732,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 58069,
+        "num": 58069,
+        "word": "7岁男孩1分钟3次横穿马路被撞",
+        "onboard_time": 1663235070,
+        "rank": 28,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 52489,
+        "num": 52489,
+        "word": "酸奶产品宣称从老人肠道采集益生菌",
+        "onboard_time": 1663243290,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77627,
+        "num": 52486,
+        "word": "乌鲁木齐疫情防控",
+        "onboard_time": 1663249417,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68026,
+        "num": 52468,
+        "word": "很难不对明艳大美人心动吧",
+        "onboard_time": 1663261819,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 64659,
+        "num": 52440,
+        "word": "丁禹兮新剧片花换了10套造型",
+        "onboard_time": 1663259543,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 64163,
+        "num": 52440,
+        "word": "贺峻霖主持大影节登上学习强国",
+        "onboard_time": 1663256437,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52424,
+        "num": 52424,
+        "word": "人民币三年三次破7",
+        "onboard_time": 1663244849,
+        "rank": 34,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 56449,
+        "num": 52197,
+        "word": "难听",
+        "onboard_time": 1663234591,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 48513,
+        "num": 48513,
+        "word": "为什么恋爱会让人降智",
+        "onboard_time": 1663242392,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 48140,
+        "num": 48140,
+        "word": "武汉一鱼塘疑遭投毒2万斤鱼死亡",
+        "onboard_time": 1663245393,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44236,
+        "num": 44236,
+        "word": "猫猫过上了我的理想生活",
+        "onboard_time": 1663254101,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 38712,
+        "num": 38712,
+        "word": "Adobe宣布收购Figma",
+        "onboard_time": 1663252961,
+        "rank": 39,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 49391,
+        "num": 38101,
+        "word": "陈晓给李沁新剧打call",
+        "onboard_time": 1663254583,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 42036,
+        "num": 37850,
+        "word": "中了陈小春的美男计",
+        "onboard_time": 1663260320,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40588,
+        "num": 37767,
+        "word": "莲花楼",
+        "onboard_time": 1663237414,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 37218,
+        "num": 37218,
+        "word": "狗狗进饭店站婴儿座椅里进食",
+        "onboard_time": 1663241128,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35277,
+        "num": 35277,
+        "word": "谢谢你罗杰",
+        "onboard_time": 1663252483,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34112,
+        "num": 34112,
+        "word": "张朝阳出物理题考网友仅一人答出",
+        "onboard_time": 1663236273,
+        "rank": 45,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 33467,
+        "num": 33467,
+        "word": "11岁女孩自学建模实现盲盒自由",
+        "onboard_time": 1663238670,
+        "rank": 46,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 33317,
+        "num": 33317,
+        "word": "白血病男孩想捐出剩余的200多万善款",
+        "onboard_time": 1663251821,
+        "rank": 47,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 31295,
+        "num": 31295,
+        "word": "落霞与白鹭齐飞原来这么美",
+        "onboard_time": 1663238193,
+        "rank": 48,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 30303,
+        "num": 30303,
+        "word": "平价下饭神器",
+        "onboard_time": 1663246832,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席中亚之行#"
+    }
+  }
+}
