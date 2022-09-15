@@ -1,0 +1,410 @@
+{
+  "runTime": 1663238659661,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1427727,
+        "num": 1427727,
+        "word": "王鹤棣给虞书欣新剧打call",
+        "onboard_time": 1663237233,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1070037,
+        "num": 1070037,
+        "word": "明媒善娶",
+        "onboard_time": 1663234052,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 67467,
+        "num": 910636,
+        "word": "这些遗物静静诉说着英雄的过往",
+        "onboard_time": 1663235671,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1161986,
+        "num": 851701,
+        "word": "7岁男孩1分钟3次横穿马路被撞",
+        "onboard_time": 1663235070,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 791197,
+        "num": 791197,
+        "word": "任嘉伦李沁新剧刚开播就大婚",
+        "onboard_time": 1663234409,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 559936,
+        "num": 559936,
+        "word": "文在寅过中秋为妻女切西瓜",
+        "onboard_time": 1663233088,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 526377,
+        "num": 526377,
+        "word": "胃胀气一下子就缓解了",
+        "onboard_time": 1663232732,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 514037,
+        "num": 514037,
+        "word": "公司转正交五险女子拒入职反被骂",
+        "onboard_time": 1663235731,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506574,
+        "num": 506574,
+        "word": "哥哥睡觉被弟弟剃成地中海",
+        "onboard_time": 1663228352,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462547,
+        "num": 462547,
+        "word": "7岁男童摘苍耳粘满头",
+        "onboard_time": 1663234772,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1295743,
+        "num": 462077,
+        "word": "难听",
+        "onboard_time": 1663234591,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 876505,
+        "num": 452524,
+        "word": "李秀满将与公司结束制作人合约",
+        "onboard_time": 1663234956,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475224,
+        "num": 440114,
+        "word": "整个kpop都在等星河集美回应",
+        "onboard_time": 1663230030,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 423808,
+        "num": 423808,
+        "word": "LBL",
+        "onboard_time": 1663237713,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 383208,
+        "num": 383208,
+        "word": "7旬老人用水勾兑假油上门售卖",
+        "onboard_time": 1663229612,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474478,
+        "num": 378407,
+        "word": "四个人的小森林",
+        "onboard_time": 1663231769,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 373590,
+        "num": 373590,
+        "word": "东北人抄底西双版纳楼市",
+        "onboard_time": 1663230452,
+        "rank": 16,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 362737,
+        "num": 362737,
+        "word": "张朝阳出物理题考网友仅一人答出",
+        "onboard_time": 1663236273,
+        "rank": 17,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 297982,
+        "num": 297982,
+        "word": "曝郭艾伦续约辽宁男篮",
+        "onboard_time": 1663234293,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 571042,
+        "num": 289617,
+        "word": "官方通报网传多名儿童被幼师剪嘴",
+        "onboard_time": 1663227630,
+        "rank": 19,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 393231,
+        "num": 281751,
+        "word": "五哈硬汉季拟邀嘉宾",
+        "onboard_time": 1663238493,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331618,
+        "num": 281098,
+        "word": "莲花楼",
+        "onboard_time": 1663237414,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262425,
+        "num": 262425,
+        "word": "乐视30天直播14场带货2万元",
+        "onboard_time": 1663232732,
+        "rank": 22,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 253975,
+        "num": 253975,
+        "word": "晚上7点后吃饭都算夜宵",
+        "onboard_time": 1663231353,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229605,
+        "num": 229605,
+        "word": "杜富国被炸烂的防护服首次公开",
+        "onboard_time": 1663227929,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200148,
+        "num": 200148,
+        "word": "动画片还是拍保守了",
+        "onboard_time": 1663228411,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187689,
+        "num": 187689,
+        "word": "陪猫猫再多走一段路",
+        "onboard_time": 1663234533,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179551,
+        "num": 179551,
+        "word": "成都人出门的第一件事",
+        "onboard_time": 1663226669,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171106,
+        "num": 171106,
+        "word": "蔚来手机将走高端路线",
+        "onboard_time": 1663228291,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 170669,
+        "num": 170669,
+        "word": "教育部已取消5类全国性高考加分项目",
+        "onboard_time": 1663210829,
+        "rank": 29,
+        "category": "教育,国内要闻"
+      },
+      {
+        "raw_hot": 304677,
+        "num": 170414,
+        "word": "男明星原声台词对比",
+        "onboard_time": 1663236693,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279401,
+        "num": 168908,
+        "word": "Angelababy说我是露娜画中见",
+        "onboard_time": 1663226190,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273274,
+        "num": 168346,
+        "word": "赵丽颖演的许半夏好飒",
+        "onboard_time": 1663224269,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266198,
+        "num": 167647,
+        "word": "冰雨火",
+        "onboard_time": 1663238550,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246069,
+        "num": 166185,
+        "word": "贺峻霖中传用英语自我介绍",
+        "onboard_time": 1663232793,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166042,
+        "num": 166042,
+        "word": "你觉得搞科研的女生酷吗",
+        "onboard_time": 1663226430,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165571,
+        "num": 165571,
+        "word": "这小熊猫应该没少被提着走",
+        "onboard_time": 1663237052,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162200,
+        "num": 162200,
+        "word": "婴儿水价格翻倍成分和普通水无区别",
+        "onboard_time": 1663233391,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138821,
+        "num": 138821,
+        "word": "95后金融男跨行做饮料月销破亿",
+        "onboard_time": 1663229131,
+        "rank": 38,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 135960,
+        "num": 135960,
+        "word": "苹果占国内高端机70%份额",
+        "onboard_time": 1663223309,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 229136,
+        "num": 126270,
+        "word": "成毅莲花楼红绸舞剑",
+        "onboard_time": 1663235434,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172333,
+        "num": 123251,
+        "word": "NCT127新歌公开",
+        "onboard_time": 1663234533,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 114900,
+        "num": 114900,
+        "word": "女子被男友控制办证时写纸条求助",
+        "onboard_time": 1663220613,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113812,
+        "num": 113812,
+        "word": "落霞与白鹭齐飞原来这么美",
+        "onboard_time": 1663238193,
+        "rank": 43,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 113468,
+        "num": 113468,
+        "word": "男子私下称53岁老板为老太太被辞退",
+        "onboard_time": 1663216364,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113120,
+        "num": 113120,
+        "word": "这居然是只猫",
+        "onboard_time": 1663221329,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111964,
+        "num": 111964,
+        "word": "苹果官网崩了",
+        "onboard_time": 1663215158,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 109851,
+        "num": 109851,
+        "word": "一些无用但很喜欢的东西",
+        "onboard_time": 1663219475,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104995,
+        "num": 104995,
+        "word": "郭艾伦工作室否认续约",
+        "onboard_time": 1663235611,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88583,
+        "num": 88583,
+        "word": "青岛二手房不再限购",
+        "onboard_time": 1663231472,
+        "rank": 49,
+        "category": "财经,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席中亚之行#"
+    }
+  }
+}
