@@ -1,0 +1,410 @@
+{
+  "runTime": 1663253094003,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1613835,
+        "num": 1613835,
+        "word": "费德勒宣布退役",
+        "onboard_time": 1663248817,
+        "rank": 0,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 795295,
+        "num": 795295,
+        "word": "新闻联播",
+        "onboard_time": 1663250677,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92437,
+        "num": 781819,
+        "word": "打击网络谣言共建清朗家园",
+        "onboard_time": 1663240711,
+        "rank": 2,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 1552378,
+        "num": 769950,
+        "word": "专家称三年内全球或发生金融危机",
+        "onboard_time": 1663247792,
+        "rank": 3,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 958272,
+        "num": 756318,
+        "word": "4岁孩子担心家中变故患抑郁症",
+        "onboard_time": 1663246592,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 890461,
+        "num": 737910,
+        "word": "赵丽颖和刘威又杠上了",
+        "onboard_time": 1663245870,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 734654,
+        "num": 734654,
+        "word": "从脸看脾胃好不好",
+        "onboard_time": 1663244191,
+        "rank": 6,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 687617,
+        "num": 687617,
+        "word": "虞书欣新剧相亲对象是觞阙",
+        "onboard_time": 1663244191,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 579139,
+        "num": 579139,
+        "word": "女子手机密码6个0被盗19万",
+        "onboard_time": 1663239510,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484133,
+        "num": 484133,
+        "word": "请君",
+        "onboard_time": 1663248457,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1050275,
+        "num": 484078,
+        "word": "杨超越好像把我骂醒了",
+        "onboard_time": 1663251279,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 913879,
+        "num": 483894,
+        "word": "年轻人宁买万元手机不花4元充电",
+        "onboard_time": 1663246352,
+        "rank": 11,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 483366,
+        "num": 483366,
+        "word": "张朝阳出物理题考网友仅一人答出",
+        "onboard_time": 1663236273,
+        "rank": 12,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 431846,
+        "num": 431846,
+        "word": "任嘉伦原声",
+        "onboard_time": 1663252782,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 411306,
+        "num": 411306,
+        "word": "乌鲁木齐疫情防控",
+        "onboard_time": 1663249417,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407859,
+        "num": 407859,
+        "word": "欢瑞世纪股东被列为老赖",
+        "onboard_time": 1663245571,
+        "rank": 15,
+        "category": "财经,艺人"
+      },
+      {
+        "raw_hot": 397634,
+        "num": 397634,
+        "word": "人民币三年三次破7",
+        "onboard_time": 1663244849,
+        "rank": 16,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 384466,
+        "num": 384466,
+        "word": "矿大回应男生打架被取消保研",
+        "onboard_time": 1663252121,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 363792,
+        "num": 363792,
+        "word": "胃胀气一下子就缓解了",
+        "onboard_time": 1663232732,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 323314,
+        "num": 323314,
+        "word": "祖传秘方掏耳屎其实是话梅和面粉",
+        "onboard_time": 1663250376,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391972,
+        "num": 306781,
+        "word": "太湖湾音乐节",
+        "onboard_time": 1663251700,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 385428,
+        "num": 296368,
+        "word": "东八区的先生们 离谱",
+        "onboard_time": 1663240172,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 338377,
+        "num": 295870,
+        "word": "王鹤棣 好笑",
+        "onboard_time": 1663247069,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284122,
+        "num": 284122,
+        "word": "平价下饭神器",
+        "onboard_time": 1663246832,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 282555,
+        "num": 282555,
+        "word": "武汉一鱼塘疑遭投毒2万斤鱼死亡",
+        "onboard_time": 1663245393,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265842,
+        "num": 265842,
+        "word": "被家长撞见自嗨真的很尴尬",
+        "onboard_time": 1663250737,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 265752,
+        "num": 265752,
+        "word": "女子网购鸡胸肉一捏似豆腐",
+        "onboard_time": 1663240349,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264927,
+        "num": 264927,
+        "word": "酸奶产品宣称从老人肠道采集益生菌",
+        "onboard_time": 1663243290,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243186,
+        "num": 243186,
+        "word": "7岁男孩1分钟3次横穿马路被撞",
+        "onboard_time": 1663235070,
+        "rank": 28,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 179280,
+        "num": 242764,
+        "word": "7岁男童摘苍耳粘满头",
+        "onboard_time": 1663234772,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248046,
+        "num": 242758,
+        "word": "难听",
+        "onboard_time": 1663234591,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 242709,
+        "num": 242709,
+        "word": "莲花楼",
+        "onboard_time": 1663237414,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228295,
+        "num": 228295,
+        "word": "LBL",
+        "onboard_time": 1663237713,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 218606,
+        "num": 218606,
+        "word": "整个kpop都在等星河集美回应",
+        "onboard_time": 1663230030,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202982,
+        "num": 202982,
+        "word": "狗狗进饭店站婴儿座椅里进食",
+        "onboard_time": 1663241128,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200918,
+        "num": 200918,
+        "word": "Angelababy说我是露娜画中见",
+        "onboard_time": 1663226190,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191946,
+        "num": 191946,
+        "word": "谢谢你罗杰",
+        "onboard_time": 1663252483,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184004,
+        "num": 184004,
+        "word": "白血病男孩想捐出剩余的200多万善款",
+        "onboard_time": 1663251821,
+        "rank": 37,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 179002,
+        "num": 179002,
+        "word": "女儿送务农爸爸跑步机让他健身",
+        "onboard_time": 1663251940,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178349,
+        "num": 178349,
+        "word": "AppleWatchUltra评测",
+        "onboard_time": 1663252961,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 184000,
+        "num": 177866,
+        "word": "男明星原声台词对比",
+        "onboard_time": 1663236693,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174385,
+        "num": 174385,
+        "word": "山东小伙放弃公务员工作回村种地",
+        "onboard_time": 1663242028,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172954,
+        "num": 172954,
+        "word": "为什么恋爱会让人降智",
+        "onboard_time": 1663242392,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147597,
+        "num": 147597,
+        "word": "北京朝阳通报1例初筛阳性",
+        "onboard_time": 1663247012,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146939,
+        "num": 146939,
+        "word": "离岸人民币兑美元跌破7.0关口",
+        "onboard_time": 1663239871,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 145359,
+        "num": 145359,
+        "word": "11岁女孩自学建模实现盲盒自由",
+        "onboard_time": 1663238670,
+        "rank": 45,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 141903,
+        "num": 141903,
+        "word": "狐妖小红娘月红篇非遗文化",
+        "onboard_time": 1663245930,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134224,
+        "num": 134224,
+        "word": "落霞与白鹭齐飞原来这么美",
+        "onboard_time": 1663238193,
+        "rank": 47,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 130844,
+        "num": 130844,
+        "word": "费德勒 永远的传奇",
+        "onboard_time": 1663252782,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124423,
+        "num": 124423,
+        "word": "Adobe宣布收购Figma",
+        "onboard_time": 1663252961,
+        "rank": 49,
+        "category": "科技,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#英雄回家#"
+    }
+  }
+}

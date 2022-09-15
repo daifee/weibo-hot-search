@@ -1,6 +1,6 @@
 {
   "startTime": 1663173270447,
-  "endTime": 1663252144656,
+  "endTime": 1663253094003,
   "band_list": [
     {
       "raw_hot": 5379560,
@@ -91,6 +91,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1552378,
+      "num": 1394875,
+      "word": "专家称三年内全球或发生金融危机",
+      "onboard_time": 1663247792,
+      "rank": 39,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1542866,
       "num": 1542866,
       "word": "张国立王刚张铁林周涛新剧预告",
@@ -129,14 +137,6 @@
       "onboard_time": 1663230030,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1394875,
-      "num": 1394875,
-      "word": "专家称三年内全球或发生金融危机",
-      "onboard_time": 1663247792,
-      "rank": 39,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1377848,
@@ -263,6 +263,14 @@
       "num": 522086,
       "word": "李秀满将与公司结束制作人合约",
       "onboard_time": 1663234956,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1050275,
+      "num": 523946,
+      "word": "杨超越好像把我骂醒了",
+      "onboard_time": 1663251279,
       "rank": 11,
       "category": "艺人"
     },
@@ -409,6 +417,14 @@
       "onboard_time": 1663226190,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 795295,
+      "num": 795295,
+      "word": "新闻联播",
+      "onboard_time": 1663250677,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 792370,
@@ -577,14 +593,6 @@
       "onboard_time": 1663215158,
       "rank": 14,
       "category": "科技"
-    },
-    {
-      "raw_hot": 612803,
-      "num": 523946,
-      "word": "杨超越好像把我骂醒了",
-      "onboard_time": 1663251279,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 608315,
@@ -811,6 +819,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 431846,
+      "num": 431846,
+      "word": "任嘉伦原声",
+      "onboard_time": 1663252782,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 423235,
       "num": 423235,
       "word": "乌鲁木齐疫情防控",
@@ -939,6 +955,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 384466,
+      "num": 384466,
+      "word": "矿大回应男生打架被取消保研",
+      "onboard_time": 1663252121,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 377583,
       "num": 377583,
       "word": "任嘉伦 请君",
@@ -985,14 +1009,6 @@
       "onboard_time": 1663215459,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 363128,
-      "num": 363128,
-      "word": "新闻联播",
-      "onboard_time": 1663250677,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 361056,
@@ -1105,6 +1121,14 @@
       "onboard_time": 1663209266,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 323314,
+      "num": 323314,
+      "word": "祖传秘方掏耳屎其实是话梅和面粉",
+      "onboard_time": 1663250376,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 322834,
@@ -1347,6 +1371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 265842,
+      "num": 265842,
+      "word": "被家长撞见自嗨真的很尴尬",
+      "onboard_time": 1663250737,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 265328,
       "num": 193628,
       "word": "昆仑神宫",
@@ -1539,14 +1571,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 209370,
-      "num": 209370,
-      "word": "祖传秘方掏耳屎其实是话梅和面粉",
-      "onboard_time": 1663250376,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 207110,
       "num": 112229,
       "word": "祝福费德勒",
@@ -1635,6 +1659,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 191946,
+      "num": 191946,
+      "word": "谢谢你罗杰",
+      "onboard_time": 1663252483,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191899,
       "num": 191899,
       "word": "天津疫情防控",
@@ -1707,6 +1739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184004,
+      "num": 184004,
+      "word": "白血病男孩想捐出剩余的200多万善款",
+      "onboard_time": 1663251821,
+      "rank": 45,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 183548,
       "num": 183548,
       "word": "商家月花10万请带货3个月卖出690元",
@@ -1739,12 +1779,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 179002,
+      "num": 179002,
+      "word": "女儿送务农爸爸跑步机让他健身",
+      "onboard_time": 1663251940,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178999,
       "num": 146915,
       "word": "中国说唱巅峰对决2023拟邀职业经理人",
       "onboard_time": 1663242690,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178349,
+      "num": 178349,
+      "word": "AppleWatchUltra评测",
+      "onboard_time": 1663252961,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 176564,
@@ -1915,22 +1971,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 142672,
-      "num": 142672,
-      "word": "被家长撞见自嗨真的很尴尬",
-      "onboard_time": 1663250737,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 141911,
-      "num": 111689,
-      "word": "矿大回应男生打架被取消保研",
-      "onboard_time": 1663252121,
-      "rank": 48,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 134900,
       "num": 134900,
       "word": "覆流年",
@@ -1969,6 +2009,14 @@
       "onboard_time": 1663251161,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130844,
+      "num": 130844,
+      "word": "费德勒 永远的传奇",
+      "onboard_time": 1663252782,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 130736,
@@ -2011,14 +2059,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 127767,
-      "num": 127767,
-      "word": "白血病男孩想捐出剩余的200多万善款",
-      "onboard_time": 1663251821,
-      "rank": 45,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 127736,
       "num": 127736,
       "word": "车辆检验周期10月1日起有调整",
@@ -2033,6 +2073,14 @@
       "onboard_time": 1663198046,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124423,
+      "num": 124423,
+      "word": "Adobe宣布收购Figma",
+      "onboard_time": 1663252961,
+      "rank": 49,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 124352,
@@ -2128,14 +2176,6 @@
       "word": "北京已有6名感染者到过民航总医院",
       "onboard_time": 1663150830,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 106448,
-      "num": 106448,
-      "word": "女儿送务农爸爸跑步机让他健身",
-      "onboard_time": 1663251940,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
