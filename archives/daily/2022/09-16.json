@@ -1,10 +1,10 @@
 {
   "startTime": 1663259654662,
-  "endTime": 1663317016475,
+  "endTime": 1663318008673,
   "band_list": [
     {
-      "raw_hot": 3513594,
-      "num": 3513594,
+      "raw_hot": 18693707,
+      "num": 18693707,
       "word": "长沙电信大楼起火",
       "onboard_time": 1663316848,
       "rank": 0,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2273021,
-      "num": 1110583,
+      "num": 1450371,
       "word": "赵丽颖发文回应为角色增肥",
       "onboard_time": 1663315946,
       "rank": 3,
@@ -28,10 +28,18 @@
     },
     {
       "raw_hot": 2038828,
-      "num": 1110214,
+      "num": 1384462,
       "word": "女子称高铁上来例假买不到卫生巾",
       "onboard_time": 1663305270,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1950842,
+      "num": 1950842,
+      "word": "王室仆人曝查尔斯三世难伺候",
+      "onboard_time": 1663314987,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -139,14 +147,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1116373,
-      "num": 1116373,
-      "word": "王室仆人曝查尔斯三世难伺候",
-      "onboard_time": 1663314987,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1098740,
       "num": 1098740,
       "word": "王者荣耀8月收入2.22亿美金",
@@ -243,8 +243,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 781382,
-      "num": 781382,
+      "raw_hot": 813385,
+      "num": 813385,
       "word": "考研比高考还累吗",
       "onboard_time": 1663309167,
       "rank": 33,
@@ -257,6 +257,14 @@
       "onboard_time": 1663294528,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 756142,
+      "num": 756142,
+      "word": "人民币破7",
+      "onboard_time": 1663314627,
+      "rank": 10,
+      "category": "财经"
     },
     {
       "raw_hot": 755281,
@@ -331,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 588100,
+      "num": 588100,
+      "word": "华强北AirPods破解iOS16盗版检测",
+      "onboard_time": 1663316668,
+      "rank": 43,
+      "category": "科技"
+    },
+    {
       "raw_hot": 583713,
       "num": 583713,
       "word": "BLACKPINK 粉墨",
@@ -395,14 +411,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 528051,
-      "num": 528051,
-      "word": "人民币破7",
-      "onboard_time": 1663314627,
-      "rank": 10,
-      "category": "财经"
-    },
-    {
       "raw_hot": 514455,
       "num": 514455,
       "word": "一天工作下来没人说话",
@@ -457,6 +465,14 @@
       "onboard_time": 1663251940,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 481578,
+      "num": 481578,
+      "word": "什么行为容易伤大脑",
+      "onboard_time": 1663313366,
+      "rank": 47,
+      "category": "其它"
     },
     {
       "raw_hot": 478212,
@@ -539,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 410768,
+      "num": 410768,
+      "word": "茶颜悦色英文招牌SexyTea引争议",
+      "onboard_time": 1663312407,
+      "rank": 46,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 384067,
       "num": 243108,
       "word": "龚俊 LV阿那亚大秀",
@@ -571,28 +595,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 374101,
-      "num": 374101,
-      "word": "什么行为容易伤大脑",
-      "onboard_time": 1663313366,
-      "rank": 47,
-      "category": "其它"
-    },
-    {
       "raw_hot": 373623,
       "num": 373623,
       "word": "金价下跌杭州年轻人成购买主力",
       "onboard_time": 1663302033,
       "rank": 27,
       "category": "财经"
-    },
-    {
-      "raw_hot": 368723,
-      "num": 368723,
-      "word": "茶颜悦色英文招牌SexyTea引争议",
-      "onboard_time": 1663312407,
-      "rank": 46,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 360957,
@@ -633,6 +641,14 @@
       "onboard_time": 1663299150,
       "rank": 22,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 332916,
+      "num": 332916,
+      "word": "妈妈从不给我任何压力",
+      "onboard_time": 1663313787,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 331047,
@@ -683,6 +699,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 315122,
+      "num": 315122,
+      "word": "一帧封神的Rose",
+      "onboard_time": 1663316911,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 312566,
       "num": 229256,
       "word": "BLACKPINK新歌Lisa的rap",
@@ -721,6 +745,22 @@
       "onboard_time": 1663288648,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 294285,
+      "num": 294285,
+      "word": "A股调整后中长期投资价值已具备",
+      "onboard_time": 1663315828,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 292394,
+      "num": 292394,
+      "word": "胡一天陈钰琪自曝曾被换角",
+      "onboard_time": 1663317519,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 290956,
@@ -779,14 +819,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 273744,
-      "num": 273744,
-      "word": "一帧封神的Rose",
-      "onboard_time": 1663316911,
-      "rank": 21,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 271347,
       "num": 248481,
       "word": "任贤齐苏有朋林峯阿嬷的话",
@@ -841,14 +873,6 @@
       "onboard_time": 1663304014,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 257064,
-      "num": 257064,
-      "word": "妈妈从不给我任何压力",
-      "onboard_time": 1663313787,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 255372,
@@ -971,6 +995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 218539,
+      "num": 205419,
+      "word": "typa girl",
+      "onboard_time": 1663317273,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 218338,
       "num": 218338,
       "word": "赵丽颖和刘威又杠上了",
@@ -1019,6 +1051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196286,
+      "num": 196286,
+      "word": "多人在易联购小程序抢购iPhone14被骗",
+      "onboard_time": 1663316245,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196250,
       "num": 196250,
       "word": "88位英雄踏上回家路",
@@ -1033,14 +1073,6 @@
       "onboard_time": 1663256437,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 192800,
-      "num": 192800,
-      "word": "A股调整后中长期投资价值已具备",
-      "onboard_time": 1663315828,
-      "rank": 35,
-      "category": "财经"
     },
     {
       "raw_hot": 192481,
@@ -1067,6 +1099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 188648,
+      "num": 1481776,
+      "word": "88名在韩志愿军烈士回家",
+      "onboard_time": 1663297234,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187502,
       "num": 187502,
       "word": "养两只狗有多快乐",
@@ -1089,14 +1129,6 @@
       "onboard_time": 1663312589,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 176472,
-      "num": 176472,
-      "word": "多人在易联购小程序抢购iPhone14被骗",
-      "onboard_time": 1663316245,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 175467,
@@ -1219,14 +1251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 157295,
-      "num": 1111375,
-      "word": "88名在韩志愿军烈士回家",
-      "onboard_time": 1663297234,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155726,
       "num": 155726,
       "word": "学长在新生军训场外狂炫奶茶",
@@ -1241,14 +1265,6 @@
       "onboard_time": 1663307368,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 154669,
-      "num": 154669,
-      "word": "华强北AirPods破解iOS16盗版检测",
-      "onboard_time": 1663316668,
-      "rank": 43,
-      "category": "科技"
     },
     {
       "raw_hot": 153216,
@@ -1435,12 +1451,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 114356,
+      "num": 114356,
+      "word": "生活里藏了多少黑科技",
+      "onboard_time": 1663317702,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
       "raw_hot": 113966,
       "num": 113966,
       "word": "TES世界赛新造型",
       "onboard_time": 1663286607,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 112313,
+      "num": 112313,
+      "word": "陕西倡导就地过节休假",
+      "onboard_time": 1663317273,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108952,

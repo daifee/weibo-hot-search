@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1663317016475,
+  "endTime": 1663318008673,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -25,6 +25,14 @@
       "onboard_time": 1662821989,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 18693707,
+      "num": 18693707,
+      "word": "长沙电信大楼起火",
+      "onboard_time": 1663316848,
+      "rank": 0,
+      "category": "社会负面"
     },
     {
       "raw_hot": 14263487,
@@ -401,14 +409,6 @@
       "onboard_time": 1662385952,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3513594,
-      "num": 3513594,
-      "word": "长沙电信大楼起火",
-      "onboard_time": 1663316848,
-      "rank": 0,
-      "category": "社会负面"
     },
     {
       "raw_hot": 3511860,
@@ -1204,7 +1204,7 @@
     },
     {
       "raw_hot": 2273021,
-      "num": 1110583,
+      "num": 1450371,
       "word": "赵丽颖发文回应为角色增肥",
       "onboard_time": 1663315946,
       "rank": 3,
@@ -1492,7 +1492,7 @@
     },
     {
       "raw_hot": 2038828,
-      "num": 1110214,
+      "num": 1384462,
       "word": "女子称高铁上来例假买不到卫生巾",
       "onboard_time": 1663305270,
       "rank": 3,
@@ -1609,6 +1609,14 @@
       "onboard_time": 1662529405,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1950842,
+      "num": 1950842,
+      "word": "王室仆人曝查尔斯三世难伺候",
+      "onboard_time": 1663314987,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1941222,
@@ -4547,14 +4555,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1116373,
-      "num": 1116373,
-      "word": "王室仆人曝查尔斯三世难伺候",
-      "onboard_time": 1663314987,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1115775,
       "num": 1115775,
       "word": "长春市传染病医院发现5例阳性",
@@ -7179,6 +7179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 813385,
+      "num": 813385,
+      "word": "考研比高考还累吗",
+      "onboard_time": 1663309167,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 812485,
       "num": 812485,
       "word": "周杰伦说做事要做到极致",
@@ -7491,14 +7499,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 781382,
-      "num": 781382,
-      "word": "考研比高考还累吗",
-      "onboard_time": 1663309167,
-      "rank": 33,
-      "category": "教育"
-    },
-    {
       "raw_hot": 780651,
       "num": 579544,
       "word": "刘彰livehouse",
@@ -7769,6 +7769,14 @@
       "onboard_time": 1662041793,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 756142,
+      "num": 756142,
+      "word": "人民币破7",
+      "onboard_time": 1663314627,
+      "rank": 10,
+      "category": "财经"
     },
     {
       "raw_hot": 756055,
@@ -9827,6 +9835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 588100,
+      "num": 588100,
+      "word": "华强北AirPods破解iOS16盗版检测",
+      "onboard_time": 1663316668,
+      "rank": 43,
+      "category": "科技"
+    },
+    {
       "raw_hot": 587650,
       "num": 430740,
       "word": "许嵩中秋之夜金曲串烧",
@@ -10899,14 +10915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 528051,
-      "num": 528051,
-      "word": "人民币破7",
-      "onboard_time": 1663314627,
-      "rank": 10,
-      "category": "财经"
-    },
-    {
       "raw_hot": 527613,
       "num": 413338,
       "word": "黄晓明杨幂沈腾为狼队打call",
@@ -11961,6 +11969,14 @@
       "onboard_time": 1662908812,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 481578,
+      "num": 481578,
+      "word": "什么行为容易伤大脑",
+      "onboard_time": 1663313366,
+      "rank": 47,
+      "category": "其它"
     },
     {
       "raw_hot": 481529,
@@ -13947,6 +13963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 410768,
+      "num": 410768,
+      "word": "茶颜悦色英文招牌SexyTea引争议",
+      "onboard_time": 1663312407,
+      "rank": 46,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 410434,
       "num": 410434,
       "word": "女子震中被埋4小时成功脱险",
@@ -15323,14 +15347,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 374101,
-      "num": 374101,
-      "word": "什么行为容易伤大脑",
-      "onboard_time": 1663313366,
-      "rank": 47,
-      "category": "其它"
-    },
-    {
       "raw_hot": 374068,
       "num": 374068,
       "word": "残疾老人打封闭针搬货救重病外孙",
@@ -15585,14 +15601,6 @@
       "onboard_time": 1662004587,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 368723,
-      "num": 368723,
-      "word": "茶颜悦色英文招牌SexyTea引争议",
-      "onboard_time": 1663312407,
-      "rank": 46,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 368642,
@@ -17099,6 +17107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 332916,
+      "num": 332916,
+      "word": "妈妈从不给我任何压力",
+      "onboard_time": 1663313787,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 332800,
       "num": 332800,
       "word": "如何对待喊男友哥哥的女生",
@@ -17961,6 +17977,14 @@
       "onboard_time": 1662795750,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 315122,
+      "num": 315122,
+      "word": "一帧封神的Rose",
+      "onboard_time": 1663316911,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 315076,
@@ -19147,6 +19171,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 294285,
+      "num": 294285,
+      "word": "A股调整后中长期投资价值已具备",
+      "onboard_time": 1663315828,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 293786,
       "num": 293786,
       "word": "四川疫情防控",
@@ -19305,6 +19337,14 @@
       "onboard_time": 1662474933,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 292394,
+      "num": 292394,
+      "word": "胡一天陈钰琪自曝曾被换角",
+      "onboard_time": 1663317519,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 292281,
@@ -20547,14 +20587,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 273744,
-      "num": 273744,
-      "word": "一帧封神的Rose",
-      "onboard_time": 1663316911,
-      "rank": 21,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 273607,
       "num": 273607,
       "word": "中产家庭一年养娃花多少钱",
@@ -21641,14 +21673,6 @@
       "onboard_time": 1662108266,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 257064,
-      "num": 257064,
-      "word": "妈妈从不给我任何压力",
-      "onboard_time": 1663313787,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 257020,
@@ -24059,6 +24083,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 218539,
+      "num": 205419,
+      "word": "typa girl",
+      "onboard_time": 1663317273,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 218521,
       "num": 218521,
       "word": "陪猫咪躺在游泳池的小朋友",
@@ -25411,6 +25443,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 196286,
+      "num": 196286,
+      "word": "多人在易联购小程序抢购iPhone14被骗",
+      "onboard_time": 1663316245,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196262,
       "num": 164506,
       "word": "极限挑战龙虾争霸赛",
@@ -25657,14 +25697,6 @@
       "onboard_time": 1662519567,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 192800,
-      "num": 192800,
-      "word": "A股调整后中长期投资价值已具备",
-      "onboard_time": 1663315828,
-      "rank": 35,
-      "category": "财经"
     },
     {
       "raw_hot": 192726,
@@ -25953,6 +25985,14 @@
       "onboard_time": 1662535887,
       "rank": 37,
       "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 188648,
+      "num": 1481776,
+      "word": "88名在韩志愿军烈士回家",
+      "onboard_time": 1663211789,
+      "rank": 29,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 188559,
@@ -26712,14 +26752,6 @@
       "word": "北京近期报告114例本土感染者",
       "onboard_time": 1663201832,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176472,
-      "num": 176472,
-      "word": "多人在易联购小程序抢购iPhone14被骗",
-      "onboard_time": 1663316245,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -27971,14 +28003,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 157295,
-      "num": 1111375,
-      "word": "88名在韩志愿军烈士回家",
-      "onboard_time": 1663211789,
-      "rank": 29,
-      "category": "军事,国内要闻"
-    },
-    {
       "raw_hot": 157240,
       "num": 157240,
       "word": "武汉新增12例本土无症状",
@@ -28209,14 +28233,6 @@
       "onboard_time": 1662030631,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 154669,
-      "num": 154669,
-      "word": "华强北AirPods破解iOS16盗版检测",
-      "onboard_time": 1663316668,
-      "rank": 43,
-      "category": "科技"
     },
     {
       "raw_hot": 154541,
@@ -30331,6 +30347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114356,
+      "num": 114356,
+      "word": "生活里藏了多少黑科技",
+      "onboard_time": 1663317702,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
       "raw_hot": 114167,
       "num": 114167,
       "word": "为什么想感谢张桂梅校长",
@@ -30425,6 +30449,14 @@
       "onboard_time": 1661947468,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112313,
+      "num": 112313,
+      "word": "陕西倡导就地过节休假",
+      "onboard_time": 1663317273,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112181,
