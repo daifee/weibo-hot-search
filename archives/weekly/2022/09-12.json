@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663359941092,
+  "endTime": 1663360925813,
   "band_list": [
     {
       "raw_hot": 20529209,
@@ -10195,6 +10195,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38190,
+      "num": 38190,
+      "word": "秦海璐说都这岁数了要什么美颜",
+      "onboard_time": 1663357511,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 36952,
+      "num": 36952,
+      "word": "古剑奇谭手游停服",
+      "onboard_time": 1663356013,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 36103,
       "num": 38431,
       "word": "中秋节北京黄金卖场现扫金热",
@@ -10209,14 +10225,6 @@
       "onboard_time": 1662917602,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 34140,
-      "num": 34140,
-      "word": "古剑奇谭手游停服",
-      "onboard_time": 1663356013,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 33771,
@@ -10241,14 +10249,6 @@
       "onboard_time": 1662920718,
       "rank": 49,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 28068,
-      "num": 28068,
-      "word": "秦海璐说都这岁数了要什么美颜",
-      "onboard_time": 1663357511,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 25872,
@@ -10299,6 +10299,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 13455,
+      "num": 13455,
+      "word": "李克勤说歌手是没有人体谅的",
+      "onboard_time": 1663360690,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 12395,
+      "num": 12395,
+      "word": "澳门去年每分钟受3.4次网络攻击",
+      "onboard_time": 1663360391,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11610,
+      "num": 11610,
+      "word": "10岁娃打赏主播3个月花掉两万五",
+      "onboard_time": 1663359909,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 11147,
       "num": 1916671,
       "word": "绿水青山是我家",
@@ -10336,14 +10360,6 @@
       "word": "辅警7秒飞身救下扶梯摔倒老人",
       "onboard_time": 1663014610,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8049,
-      "num": 8049,
-      "word": "10岁娃打赏主播3个月花掉两万五",
-      "onboard_time": 1663359909,
-      "rank": 49,
       "category": "社会新闻"
     },
     {

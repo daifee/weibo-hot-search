@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1663359941092,
+  "endTime": 1663360925813,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -32803,6 +32803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38190,
+      "num": 38190,
+      "word": "秦海璐说都这岁数了要什么美颜",
+      "onboard_time": 1663357511,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 38077,
       "num": 193643,
       "word": "首个保险数字化经营平台发布",
@@ -32825,6 +32833,14 @@
       "onboard_time": 1662714148,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36952,
+      "num": 36952,
+      "word": "古剑奇谭手游停服",
+      "onboard_time": 1663356013,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 36686,
@@ -32873,14 +32889,6 @@
       "onboard_time": 1662805299,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34140,
-      "num": 34140,
-      "word": "古剑奇谭手游停服",
-      "onboard_time": 1663356013,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 33771,
@@ -32937,14 +32945,6 @@
       "onboard_time": 1662836354,
       "rank": 49,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 28068,
-      "num": 28068,
-      "word": "秦海璐说都这岁数了要什么美颜",
-      "onboard_time": 1663357511,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 27800,
@@ -33147,6 +33147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 13455,
+      "num": 13455,
+      "word": "李克勤说歌手是没有人体谅的",
+      "onboard_time": 1663360690,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 13153,
       "num": 13153,
       "word": "中秋节的花式快乐",
@@ -33169,6 +33177,22 @@
       "onboard_time": 1662060791,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 12395,
+      "num": 12395,
+      "word": "澳门去年每分钟受3.4次网络攻击",
+      "onboard_time": 1663360391,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11610,
+      "num": 11610,
+      "word": "10岁娃打赏主播3个月花掉两万五",
+      "onboard_time": 1663359909,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10518,
@@ -33233,14 +33257,6 @@
       "onboard_time": 1662721229,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 8049,
-      "num": 8049,
-      "word": "10岁娃打赏主播3个月花掉两万五",
-      "onboard_time": 1663359909,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 7488,
