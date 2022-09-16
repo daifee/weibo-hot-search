@@ -1,6 +1,6 @@
 {
   "startTime": 1663259654662,
-  "endTime": 1663341925696,
+  "endTime": 1663343045836,
   "band_list": [
     {
       "raw_hot": 20529209,
@@ -372,7 +372,7 @@
     },
     {
       "raw_hot": 1003241,
-      "num": 360927,
+      "num": 391956,
       "word": "檀健次 鞋跟",
       "onboard_time": 1663335394,
       "rank": 20,
@@ -539,8 +539,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 634642,
-      "num": 634642,
+      "raw_hot": 644831,
+      "num": 644831,
       "word": "iPhone14顶配首发价格即破发",
       "onboard_time": 1663339112,
       "rank": 38,
@@ -731,6 +731,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 502115,
+      "num": 502115,
+      "word": "小偷看老人可怜留下1000元",
+      "onboard_time": 1663341394,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 494633,
       "num": 494633,
       "word": "雷军称微博都是自己发的",
@@ -777,6 +785,14 @@
       "onboard_time": 1663252782,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 476397,
+      "num": 476397,
+      "word": "原神 凯迪拉克",
+      "onboard_time": 1663339233,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 473344,
@@ -835,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 451373,
+      "num": 451373,
+      "word": "ale",
+      "onboard_time": 1663342114,
+      "rank": 16,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 448669,
       "num": 448669,
       "word": "陆炎三千年初吻没了",
@@ -851,12 +875,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 444395,
-      "num": 444395,
-      "word": "原神 凯迪拉克",
-      "onboard_time": 1663339233,
-      "rank": 35,
-      "category": "游戏"
+      "raw_hot": 444757,
+      "num": 444757,
+      "word": "颖儿全素颜出演新剧",
+      "onboard_time": 1663335033,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 439301,
@@ -881,6 +905,14 @@
       "onboard_time": 1663300113,
       "rank": 16,
       "category": "财经"
+    },
+    {
+      "raw_hot": 423491,
+      "num": 423491,
+      "word": "四六级",
+      "onboard_time": 1663339049,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 420085,
@@ -915,14 +947,6 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 412762,
-      "num": 412762,
-      "word": "四六级",
-      "onboard_time": 1663339049,
-      "rank": 36,
-      "category": "教育"
-    },
-    {
       "raw_hot": 412556,
       "num": 412556,
       "word": "母子祭祖引火灾被判赔近60万",
@@ -953,14 +977,6 @@
       "onboard_time": 1663320338,
       "rank": 47,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 384304,
-      "num": 384304,
-      "word": "颖儿全素颜出演新剧",
-      "onboard_time": 1663335033,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 384067,
@@ -1019,12 +1035,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 362360,
-      "num": 362360,
+      "raw_hot": 368089,
+      "num": 368089,
       "word": "黑话律师",
       "onboard_time": 1663340194,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 367825,
+      "num": 367825,
+      "word": "退休县委书记卖房在沙漠植树13年",
+      "onboard_time": 1663340738,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 360957,
@@ -1427,6 +1451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 262847,
+      "num": 262847,
+      "word": "女子捡回流浪狗40天变化让人破防",
+      "onboard_time": 1663341156,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261103,
       "num": 261103,
       "word": "别让孩子成为流泪的蜗牛",
@@ -1537,14 +1569,6 @@
       "onboard_time": 1663311564,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 241990,
-      "num": 241990,
-      "word": "退休县委书记卖房在沙漠植树13年",
-      "onboard_time": 1663340738,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 237392,
@@ -1731,6 +1755,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 201430,
+      "num": 201430,
+      "word": "已经提前感受到了考研的氛围",
+      "onboard_time": 1663340855,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 196250,
       "num": 196250,
       "word": "88位英雄踏上回家路",
@@ -1753,14 +1785,6 @@
       "onboard_time": 1663308207,
       "rank": 30,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 190793,
-      "num": 190793,
-      "word": "小偷看老人可怜留下1000元",
-      "onboard_time": 1663341394,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 190706,
@@ -1787,20 +1811,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187646,
+      "num": 187646,
+      "word": "法考",
+      "onboard_time": 1663338934,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 187502,
       "num": 187502,
       "word": "养两只狗有多快乐",
       "onboard_time": 1663304014,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 185432,
-      "num": 185432,
-      "word": "女子捡回流浪狗40天变化让人破防",
-      "onboard_time": 1663341156,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 184845,
@@ -1819,20 +1843,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 179463,
-      "num": 179463,
-      "word": "已经提前感受到了考研的氛围",
-      "onboard_time": 1663340855,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 177346,
-      "num": 177346,
-      "word": "法考",
-      "onboard_time": 1663338934,
-      "rank": 42,
-      "category": "教育"
+      "raw_hot": 177776,
+      "num": 177776,
+      "word": "女婴吃梨被卡妈妈海姆立克急救",
+      "onboard_time": 1663341693,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175467,
@@ -2048,14 +2064,6 @@
       "word": "妈妈帮女儿装房子秒变老年风",
       "onboard_time": 1663327830,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 140375,
-      "num": 150797,
-      "word": "女婴吃梨被卡妈妈海姆立克急救",
-      "onboard_time": 1663341693,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -2732,6 +2740,9 @@
     },
     {
       "word": "#此次中亚之行有何特殊之处#"
+    },
+    {
+      "word": "#为烈士寻亲#"
     }
   ]
 }
