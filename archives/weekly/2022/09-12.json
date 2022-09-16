@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663350774494,
+  "endTime": 1663352984033,
   "band_list": [
     {
       "raw_hot": 20529209,
@@ -7659,6 +7659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212808,
+      "num": 126267,
+      "word": "澳门健康码遭300多万次网络攻击",
+      "onboard_time": 1663350377,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212721,
       "num": 197158,
       "word": "BLACKPINK新歌ShutDown预告",
@@ -10121,14 +10129,6 @@
       "onboard_time": 1663175599,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 44986,
-      "num": 44986,
-      "word": "澳门健康码遭300多万次网络攻击",
-      "onboard_time": 1663350377,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 43531,
