@@ -1,6 +1,6 @@
 {
   "startTime": 1663259654662,
-  "endTime": 1663332393645,
+  "endTime": 1663333941809,
   "band_list": [
     {
       "raw_hot": 20529209,
@@ -19,8 +19,8 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 9104681,
-      "num": 9104681,
+      "raw_hot": 12191930,
+      "num": 12191930,
       "word": "重庆市发现1例境外输入猴痘病例",
       "onboard_time": 1663331430,
       "rank": 0,
@@ -153,6 +153,14 @@
       "onboard_time": 1663323691,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1438909,
+      "num": 662792,
+      "word": "金晨生图",
+      "onboard_time": 1663332696,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1348579,
@@ -315,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 936440,
+      "num": 936440,
+      "word": "12306回应女乘客买不到卫生巾",
+      "onboard_time": 1663329390,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 929854,
       "num": 929854,
       "word": "成都沃尔玛现3238元天价白菜",
@@ -371,20 +387,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 822478,
+      "num": 822478,
+      "word": "山东财经大学奖学金",
+      "onboard_time": 1663328311,
+      "rank": 9,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 813385,
       "num": 813385,
       "word": "考研比高考还累吗",
       "onboard_time": 1663309167,
       "rank": 33,
       "category": "教育"
-    },
-    {
-      "raw_hot": 768025,
-      "num": 768025,
-      "word": "山东财经大学奖学金",
-      "onboard_time": 1663328311,
-      "rank": 9,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 761949,
@@ -411,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 741924,
+      "num": 636125,
+      "word": "肖战蓝色衬衫直播造型",
+      "onboard_time": 1663333655,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 739897,
       "num": 739897,
       "word": "考研大纲",
@@ -432,14 +456,6 @@
       "word": "男子花15万买iPhone平台疑跑路",
       "onboard_time": 1663322855,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 684894,
-      "num": 684894,
-      "word": "12306回应女乘客买不到卫生巾",
-      "onboard_time": 1663329390,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -699,7 +715,7 @@
       "category": "教育"
     },
     {
-      "raw_hot": 461051,
+      "raw_hot": 461219,
       "num": 461051,
       "word": "白鸽",
       "onboard_time": 1663330710,
@@ -745,6 +761,14 @@
       "onboard_time": 1663246352,
       "rank": 14,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 436424,
+      "num": 263479,
+      "word": "小半",
+      "onboard_time": 1663332876,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 429692,
@@ -947,6 +971,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 333374,
+      "num": 320484,
+      "word": "覆流年",
+      "onboard_time": 1663330588,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 333173,
       "num": 290786,
       "word": "中餐厅合伙人全员晒体重",
@@ -1011,14 +1043,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 320484,
-      "num": 320484,
-      "word": "覆流年",
-      "onboard_time": 1663330588,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 320387,
       "num": 320387,
       "word": "东方财富",
@@ -1048,6 +1072,14 @@
       "word": "檀健次周也新剧开机",
       "onboard_time": 1663296991,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 309553,
+      "num": 187967,
+      "word": "冰雨火演员全员告别角色",
+      "onboard_time": 1663332636,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -1363,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223793,
+      "num": 223793,
+      "word": "成都17日再开展一次全员核酸检测",
+      "onboard_time": 1663332272,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221938,
       "num": 221938,
       "word": "苹果14",
@@ -1387,6 +1427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 214893,
+      "num": 214893,
+      "word": "你喝过便宜又好喝的奶茶吗",
+      "onboard_time": 1663333298,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 214082,
       "num": 214082,
       "word": "祖传秘方掏耳屎其实是话梅和面粉",
@@ -1401,6 +1449,14 @@
       "onboard_time": 1663328970,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211207,
+      "num": 211207,
+      "word": "用面条包了顿饺子",
+      "onboard_time": 1663329989,
+      "rank": 35,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 209928,
@@ -1515,20 +1571,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 184946,
+      "num": 184946,
+      "word": "哪一刻你后悔没有好好读书",
+      "onboard_time": 1663333775,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 184845,
       "num": 184845,
       "word": "大龄高考是在浪费资源吗",
       "onboard_time": 1663301915,
       "rank": 32,
       "category": "情感,教育"
-    },
-    {
-      "raw_hot": 184786,
-      "num": 184786,
-      "word": "用面条包了顿饺子",
-      "onboard_time": 1663329989,
-      "rank": 35,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 183191,
@@ -1595,6 +1651,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 166851,
+      "num": 166851,
+      "word": "原神兑换码",
+      "onboard_time": 1663333832,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 166616,
       "num": 166616,
       "word": "研招网开通考生信息填写入口",
@@ -1633,6 +1697,14 @@
       "onboard_time": 1663297112,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 162387,
+      "num": 162387,
+      "word": "男子刷短视频赚红包提现遭拒胜诉",
+      "onboard_time": 1663332034,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162206,
@@ -1827,14 +1899,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 122373,
-      "num": 122373,
-      "word": "成都17日再开展一次全员核酸检测",
-      "onboard_time": 1663332272,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121901,
       "num": 108033,
       "word": "乌鲁木齐疫情防控",
@@ -1953,6 +2017,14 @@
       "onboard_time": 1663330651,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107658,
+      "num": 107658,
+      "word": "王者官网琉璃化",
+      "onboard_time": 1663333717,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 107622,

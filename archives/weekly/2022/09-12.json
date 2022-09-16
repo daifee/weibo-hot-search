@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663332393645,
+  "endTime": 1663333941809,
   "band_list": [
     {
       "raw_hot": 20529209,
@@ -17,6 +17,14 @@
       "onboard_time": 1663316848,
       "rank": 0,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 12191930,
+      "num": 12191930,
+      "word": "重庆市发现1例境外输入猴痘病例",
+      "onboard_time": 1663331430,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9835748,
@@ -41,14 +49,6 @@
       "onboard_time": 1663077877,
       "rank": 47,
       "category": "影视,社会新闻"
-    },
-    {
-      "raw_hot": 9104681,
-      "num": 9104681,
-      "word": "重庆市发现1例境外输入猴痘病例",
-      "onboard_time": 1663331430,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 8475341,
@@ -881,6 +881,14 @@
       "onboard_time": 1663038513,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1438909,
+      "num": 662792,
+      "word": "金晨生图",
+      "onboard_time": 1663332696,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1438869,
@@ -1803,6 +1811,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 936440,
+      "num": 936440,
+      "word": "12306回应女乘客买不到卫生巾",
+      "onboard_time": 1663329390,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 933070,
       "num": 933070,
       "word": "产妇回应家属不知全名护士拒给娃",
@@ -2139,6 +2155,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 822478,
+      "num": 822478,
+      "word": "山东财经大学奖学金",
+      "onboard_time": 1663328311,
+      "rank": 9,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 818118,
       "num": 818118,
       "word": "任嘉伦李沁新剧刚开播就大婚",
@@ -2315,14 +2339,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 768025,
-      "num": 768025,
-      "word": "山东财经大学奖学金",
-      "onboard_time": 1663328311,
-      "rank": 9,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 765370,
       "num": 765370,
       "word": "你安全吗",
@@ -2425,6 +2441,14 @@
       "onboard_time": 1663109777,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 741924,
+      "num": 636125,
+      "word": "肖战蓝色衬衫直播造型",
+      "onboard_time": 1663333655,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 739897,
@@ -2561,14 +2585,6 @@
       "onboard_time": 1662960876,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 684894,
-      "num": 684894,
-      "word": "12306回应女乘客买不到卫生巾",
-      "onboard_time": 1663329390,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 682538,
@@ -3827,7 +3843,7 @@
       "category": "科技"
     },
     {
-      "raw_hot": 461051,
+      "raw_hot": 461219,
       "num": 461051,
       "word": "白鸽",
       "onboard_time": 1663330710,
@@ -4033,6 +4049,14 @@
       "onboard_time": 1663206145,
       "rank": 15,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 436424,
+      "num": 263479,
+      "word": "小半",
+      "onboard_time": 1663332876,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 435501,
@@ -5595,6 +5619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 309553,
+      "num": 187967,
+      "word": "冰雨火演员全员告别角色",
+      "onboard_time": 1663332636,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 308553,
       "num": 130968,
       "word": "宁安如梦首支预告",
@@ -7147,6 +7179,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 223793,
+      "num": 223793,
+      "word": "成都17日再开展一次全员核酸检测",
+      "onboard_time": 1663332272,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222945,
       "num": 167885,
       "word": "2022艾美奖获奖名单",
@@ -7275,6 +7315,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 214893,
+      "num": 214893,
+      "word": "你喝过便宜又好喝的奶茶吗",
+      "onboard_time": 1663333298,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 214549,
       "num": 214549,
       "word": "被吓到紧紧抱着主人的猫咪",
@@ -7345,6 +7393,14 @@
       "onboard_time": 1663079863,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 211207,
+      "num": 211207,
+      "word": "用面条包了顿饺子",
+      "onboard_time": 1663329989,
+      "rank": 35,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 210279,
@@ -7883,20 +7939,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184946,
+      "num": 184946,
+      "word": "哪一刻你后悔没有好好读书",
+      "onboard_time": 1663333775,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 184845,
       "num": 184845,
       "word": "大龄高考是在浪费资源吗",
       "onboard_time": 1663301915,
       "rank": 32,
       "category": "情感,教育"
-    },
-    {
-      "raw_hot": 184786,
-      "num": 184786,
-      "word": "用面条包了顿饺子",
-      "onboard_time": 1663329989,
-      "rank": 35,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 184342,
@@ -8203,6 +8259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 166851,
+      "num": 166851,
+      "word": "原神兑换码",
+      "onboard_time": 1663333832,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 166632,
       "num": 166632,
       "word": "9月13日新增确诊237例",
@@ -8265,6 +8329,14 @@
       "onboard_time": 1663111285,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162387,
+      "num": 162387,
+      "word": "男子刷短视频赚红包提现遭拒胜诉",
+      "onboard_time": 1663332034,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162206,
@@ -8907,14 +8979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 122373,
-      "num": 122373,
-      "word": "成都17日再开展一次全员核酸检测",
-      "onboard_time": 1663332272,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120503,
       "num": 120503,
       "word": "2022护师成绩",
@@ -9209,6 +9273,14 @@
       "onboard_time": 1662898918,
       "rank": 26,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 107658,
+      "num": 107658,
+      "word": "王者官网琉璃化",
+      "onboard_time": 1663333717,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 107622,
