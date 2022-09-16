@@ -1,6 +1,6 @@
 {
   "startTime": 1663259654662,
-  "endTime": 1663304049531,
+  "endTime": 1663304747490,
   "band_list": [
     {
       "raw_hot": 2124625,
@@ -27,6 +27,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1871827,
+      "num": 1161130,
+      "word": "鹿晗王鹤棣十月杂志封面",
+      "onboard_time": 1663304132,
+      "rank": 3,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1713832,
       "num": 1379293,
       "word": "用户发现iPhone14灵动岛色差严重",
@@ -35,8 +43,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1360711,
-      "num": 1360711,
+      "raw_hot": 1584259,
+      "num": 1584259,
       "word": "天津发现多管社会面核酸样本异常",
       "onboard_time": 1663298912,
       "rank": 4,
@@ -49,6 +57,14 @@
       "onboard_time": 1663301613,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1278675,
+      "num": 1158733,
+      "word": "男子称再婚难向妻子要离婚补偿",
+      "onboard_time": 1663299751,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1275127,
@@ -65,14 +81,6 @@
       "onboard_time": 1663298133,
       "rank": 10,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1114039,
-      "num": 1114039,
-      "word": "男子称再婚难向妻子要离婚补偿",
-      "onboard_time": 1663299751,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1098524,
@@ -121,6 +129,14 @@
       "onboard_time": 1663296271,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 865731,
+      "num": 865731,
+      "word": "女生考研上岸家人横幅拉满两层楼",
+      "onboard_time": 1663301675,
+      "rank": 11,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 838698,
@@ -187,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 623091,
+      "num": 548501,
+      "word": "苹果确认iOS16存漏洞影响新机激活",
+      "onboard_time": 1663302631,
+      "rank": 21,
+      "category": "科技"
+    },
+    {
       "raw_hot": 617171,
       "num": 617171,
       "word": "台湾在福岛进口食品中检出微量辐射",
@@ -201,14 +225,6 @@
       "onboard_time": 1663294651,
       "rank": 6,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 578614,
-      "num": 578614,
-      "word": "女生考研上岸家人横幅拉满两层楼",
-      "onboard_time": 1663301675,
-      "rank": 11,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 576946,
@@ -307,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 448669,
+      "num": 448669,
+      "word": "陆炎三千年初吻没了",
+      "onboard_time": 1663302392,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 446916,
       "num": 425884,
       "word": "王鹤棣在密逃被吓到大喘气",
@@ -329,14 +353,6 @@
       "onboard_time": 1663300113,
       "rank": 16,
       "category": "财经"
-    },
-    {
-      "raw_hot": 421374,
-      "num": 421374,
-      "word": "陆炎三千年初吻没了",
-      "onboard_time": 1663302392,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 412813,
@@ -363,14 +379,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 348265,
-      "num": 348265,
-      "word": "苹果确认iOS16存漏洞影响新机激活",
-      "onboard_time": 1663302631,
-      "rank": 21,
-      "category": "科技"
-    },
-    {
       "raw_hot": 342902,
       "num": 342902,
       "word": "玉骨遥",
@@ -385,6 +393,14 @@
       "onboard_time": 1663299150,
       "rank": 22,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 332556,
+      "num": 332556,
+      "word": "金价下跌杭州年轻人成购买主力",
+      "onboard_time": 1663302033,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 331047,
@@ -451,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 284396,
+      "num": 284396,
+      "word": "阿那亚大秀",
+      "onboard_time": 1663303710,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 281436,
       "num": 281436,
       "word": "公司回应招人事不录用单身人士",
@@ -492,7 +516,7 @@
     },
     {
       "raw_hot": 257670,
-      "num": 104977,
+      "num": 228846,
       "word": "见面吧就现在",
       "onboard_time": 1663304014,
       "rank": 47,
@@ -539,14 +563,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 245450,
-      "num": 245450,
-      "word": "金价下跌杭州年轻人成购买主力",
-      "onboard_time": 1663302033,
-      "rank": 27,
-      "category": "财经"
-    },
-    {
       "raw_hot": 237392,
       "num": 237392,
       "word": "杨超越直播",
@@ -563,12 +579,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 230078,
+      "num": 230078,
+      "word": "当代年轻人都有两副面孔",
+      "onboard_time": 1663304493,
+      "rank": 29,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 227988,
       "num": 227988,
       "word": "西藏疫情防控",
       "onboard_time": 1663284383,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223687,
+      "num": 223687,
+      "word": "歼20超低空飞行致敬英烈",
+      "onboard_time": 1663301316,
+      "rank": 35,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 219022,
@@ -611,6 +643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 205039,
+      "num": 205039,
+      "word": "魏大勋父子重现沙发二子名场面",
+      "onboard_time": 1663303774,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196250,
       "num": 196250,
       "word": "88位英雄踏上回家路",
@@ -643,20 +683,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 180046,
-      "num": 180046,
+      "raw_hot": 184845,
+      "num": 184845,
       "word": "大龄高考是在浪费资源吗",
       "onboard_time": 1663301915,
       "rank": 32,
       "category": "情感,教育"
-    },
-    {
-      "raw_hot": 179794,
-      "num": 179794,
-      "word": "阿那亚大秀",
-      "onboard_time": 1663303710,
-      "rank": 33,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 175467,
@@ -731,20 +763,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 161174,
-      "num": 161174,
-      "word": "歼20超低空飞行致敬英烈",
-      "onboard_time": 1663301316,
-      "rank": 35,
-      "category": "军事,社会新闻"
-    },
-    {
       "raw_hot": 160429,
       "num": 160429,
       "word": "宝宝刚出生就像混入了中年圈",
       "onboard_time": 1663241372,
       "rank": 24,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 160386,
+      "num": 138961,
+      "word": "王勉说自己不去脱口秀的原因",
+      "onboard_time": 1663302573,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 155726,
+      "num": 155726,
+      "word": "学长在新生军训场外狂炫奶茶",
+      "onboard_time": 1663301132,
+      "rank": 36,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 153216,
@@ -755,20 +795,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 151990,
+      "num": 151990,
+      "word": "如何评价二合一青年",
+      "onboard_time": 1663304374,
+      "rank": 38,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 147326,
       "num": 147326,
       "word": "日本人的投诉电话能有多奇葩",
       "onboard_time": 1663286548,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 145074,
-      "num": 145074,
-      "word": "学长在新生军训场外狂炫奶茶",
-      "onboard_time": 1663301132,
-      "rank": 36,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 144083,
@@ -787,20 +827,12 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 141758,
-      "num": 141758,
-      "word": "魏大勋父子重现沙发二子名场面",
-      "onboard_time": 1663303774,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 138961,
-      "num": 138961,
-      "word": "王勉说自己不去脱口秀的原因",
-      "onboard_time": 1663302573,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 133745,
+      "num": 133745,
+      "word": "养两只狗有多快乐",
+      "onboard_time": 1663304014,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 130403,
@@ -841,6 +873,14 @@
       "onboard_time": 1663298672,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124489,
+      "num": 124489,
+      "word": "理想汽车法务部官微第一条起诉通告",
+      "onboard_time": 1663303774,
+      "rank": 44,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 123337,
@@ -923,14 +963,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 114387,
-      "num": 114387,
-      "word": "理想汽车法务部官微第一条起诉通告",
-      "onboard_time": 1663303774,
-      "rank": 44,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 113966,
       "num": 113966,
       "word": "TES世界赛新造型",
@@ -985,14 +1017,6 @@
       "onboard_time": 1663303710,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 102696,
-      "num": 102696,
-      "word": "养两只狗有多快乐",
-      "onboard_time": 1663304014,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 99350,
@@ -1171,20 +1195,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 51268,
+      "num": 475147,
+      "word": "你们的牺牲和奉献我们永志不忘",
+      "onboard_time": 1663301255,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49409,
       "num": 1361922,
       "word": "打击网络谣言共建清朗家园",
       "onboard_time": 1663240711,
       "rank": 2,
       "category": "其它"
-    },
-    {
-      "raw_hot": 49203,
-      "num": 475147,
-      "word": "你们的牺牲和奉献我们永志不忘",
-      "onboard_time": 1663301255,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 48348,
@@ -1217,6 +1241,14 @@
       "onboard_time": 1663263914,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 21805,
+      "num": 472313,
+      "word": "折叠屏用了会上瘾",
+      "onboard_time": 1663304431,
+      "rank": 14,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 10518,

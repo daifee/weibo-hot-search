@@ -1,0 +1,410 @@
+{
+  "runTime": 1663304747490,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1584259,
+        "num": 1584259,
+        "word": "天津发现多管社会面核酸样本异常",
+        "onboard_time": 1663298912,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1163631,
+        "num": 1163631,
+        "word": "停止内耗的9个建议",
+        "onboard_time": 1663285346,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 10430,
+        "num": 1162520,
+        "word": "打击网络谣言共建清朗家园",
+        "onboard_time": 1663240711,
+        "rank": 2,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 1871827,
+        "num": 1161130,
+        "word": "鹿晗王鹤棣十月杂志封面",
+        "onboard_time": 1663304132,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1769529,
+        "num": 1160725,
+        "word": "妻子患尿毒症丈夫3次起诉离婚获准",
+        "onboard_time": 1663299751,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1278675,
+        "num": 1158733,
+        "word": "男子称再婚难向妻子要离婚补偿",
+        "onboard_time": 1663299751,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1158271,
+        "num": 1158271,
+        "word": "BLACKPINK新歌发行",
+        "onboard_time": 1663301613,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 865731,
+        "num": 865731,
+        "word": "女生考研上岸家人横幅拉满两层楼",
+        "onboard_time": 1663301675,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 670687,
+        "num": 670687,
+        "word": "女孩穿露脐装被陌生女子说不得体",
+        "onboard_time": 1663291288,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 555542,
+        "num": 555542,
+        "word": "林志颖谈身体恢复情况",
+        "onboard_time": 1663296271,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 845879,
+        "num": 550900,
+        "word": "任权 于希涵",
+        "onboard_time": 1663298850,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 623091,
+        "num": 548501,
+        "word": "苹果确认iOS16存漏洞影响新机激活",
+        "onboard_time": 1663302631,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 542485,
+        "num": 542485,
+        "word": "灵动岛",
+        "onboard_time": 1663297651,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 498804,
+        "num": 498804,
+        "word": "10岁娃睡迷糊翻窗坠落至22楼外",
+        "onboard_time": 1663298431,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21805,
+        "num": 472313,
+        "word": "折叠屏用了会上瘾",
+        "onboard_time": 1663304431,
+        "rank": 14,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 448669,
+        "num": 448669,
+        "word": "陆炎三千年初吻没了",
+        "onboard_time": 1663302392,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 409490,
+        "num": 409490,
+        "word": "于正夸赵丽颖她从来都是第一名",
+        "onboard_time": 1663295670,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 391401,
+        "num": 391401,
+        "word": "比亚迪回应美国禁用中国电池传闻",
+        "onboard_time": 1663300113,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 383779,
+        "num": 383779,
+        "word": "一天工作下来没人说话",
+        "onboard_time": 1663294471,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 361472,
+        "num": 361472,
+        "word": "研招网",
+        "onboard_time": 1663295970,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 404889,
+        "num": 353881,
+        "word": "很想很想你",
+        "onboard_time": 1663298013,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 332556,
+        "num": 332556,
+        "word": "金价下跌杭州年轻人成购买主力",
+        "onboard_time": 1663302033,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 321158,
+        "num": 321158,
+        "word": "95后大厂女生裸辞进养老院做义工",
+        "onboard_time": 1663295849,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307521,
+        "num": 307521,
+        "word": "歼20为运20护航画面",
+        "onboard_time": 1663299150,
+        "rank": 23,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 284396,
+        "num": 284396,
+        "word": "阿那亚大秀",
+        "onboard_time": 1663303710,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 274037,
+        "num": 274037,
+        "word": "iPhone14卫星通讯功能将支持更多地区",
+        "onboard_time": 1663300893,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 270272,
+        "num": 270272,
+        "word": "苏醒说请给35岁男人再就业机会",
+        "onboard_time": 1663292488,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248767,
+        "num": 248767,
+        "word": "女生走出精神内耗后有多爽",
+        "onboard_time": 1663288290,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 246982,
+        "num": 246982,
+        "word": "沃尔玛面包上蟑螂活蹦乱跳",
+        "onboard_time": 1663294890,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230078,
+        "num": 230078,
+        "word": "当代年轻人都有两副面孔",
+        "onboard_time": 1663304493,
+        "rank": 29,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 267121,
+        "num": 229938,
+        "word": "玉骨遥",
+        "onboard_time": 1663297651,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230714,
+        "num": 228846,
+        "word": "见面吧就现在",
+        "onboard_time": 1663304014,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223687,
+        "num": 223687,
+        "word": "歼20超低空飞行致敬英烈",
+        "onboard_time": 1663301316,
+        "rank": 32,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 206113,
+        "num": 206113,
+        "word": "谁能拒绝川渝男人的魅力呢",
+        "onboard_time": 1663260383,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205039,
+        "num": 205039,
+        "word": "魏大勋父子重现沙发二子名场面",
+        "onboard_time": 1663303774,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184845,
+        "num": 184845,
+        "word": "大龄高考是在浪费资源吗",
+        "onboard_time": 1663301915,
+        "rank": 35,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 164677,
+        "num": 164677,
+        "word": "奥比岛",
+        "onboard_time": 1663287750,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155726,
+        "num": 155726,
+        "word": "学长在新生军训场外狂炫奶茶",
+        "onboard_time": 1663301132,
+        "rank": 37,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 151990,
+        "num": 151990,
+        "word": "如何评价二合一青年",
+        "onboard_time": 1663304374,
+        "rank": 38,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 145086,
+        "num": 145086,
+        "word": "券商",
+        "onboard_time": 1663296330,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 188999,
+        "num": 140579,
+        "word": "杨超越直播",
+        "onboard_time": 1663302873,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1371552,
+        "num": 137834,
+        "word": "用户发现iPhone14灵动岛色差严重",
+        "onboard_time": 1663299811,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 160386,
+        "num": 136940,
+        "word": "王勉说自己不去脱口秀的原因",
+        "onboard_time": 1663302573,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133745,
+        "num": 133745,
+        "word": "养两只狗有多快乐",
+        "onboard_time": 1663304014,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 51268,
+        "num": 127406,
+        "word": "你们的牺牲和奉献我们永志不忘",
+        "onboard_time": 1663301255,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126624,
+        "num": 126624,
+        "word": "老人请落魄男子到家吃饭反遭盗窃",
+        "onboard_time": 1663288648,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124489,
+        "num": 124489,
+        "word": "理想汽车法务部官微第一条起诉通告",
+        "onboard_time": 1663303774,
+        "rank": 46,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 120894,
+        "num": 120894,
+        "word": "志愿军8勇士拒绝被俘集体跳崖",
+        "onboard_time": 1663292067,
+        "rank": 47,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 114368,
+        "num": 114368,
+        "word": "52岁新生回应被质疑浪费资源",
+        "onboard_time": 1663288233,
+        "rank": 48,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 103828,
+        "num": 103828,
+        "word": "郑州商城贵族墓葬首次发现金面罩",
+        "onboard_time": 1663298672,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#英雄回家#"
+    }
+  }
+}
