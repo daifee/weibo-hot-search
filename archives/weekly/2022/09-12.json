@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663368182303,
+  "endTime": 1663370729312,
   "band_list": [
     {
       "raw_hot": 20529209,
@@ -1067,6 +1067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1308758,
+      "num": 1308758,
+      "word": "腰好像一下子就舒服了",
+      "onboard_time": 1663335814,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1305314,
       "num": 1305314,
       "word": "华强北AirPods破解iOS16盗版检测",
@@ -1265,14 +1273,6 @@
       "onboard_time": 1663246352,
       "rank": 29,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 1190323,
-      "num": 1190323,
-      "word": "腰好像一下子就舒服了",
-      "onboard_time": 1663335814,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 1189353,
@@ -2481,6 +2481,14 @@
       "onboard_time": 1663053636,
       "rank": 8,
       "category": "教育,艺人"
+    },
+    {
+      "raw_hot": 748934,
+      "num": 748934,
+      "word": "澳门健康码遭300多万次网络攻击",
+      "onboard_time": 1663350377,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 746782,
@@ -4683,14 +4691,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 390810,
-      "num": 390810,
-      "word": "澳门健康码遭300多万次网络攻击",
-      "onboard_time": 1663350377,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 390234,
       "num": 390234,
       "word": "酸奶产品宣称从老人肠道采集益生菌",
@@ -5040,6 +5040,14 @@
       "word": "成都发布",
       "onboard_time": 1662941971,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 361942,
+      "num": 361942,
+      "word": "逃犯在缅甸完不成业绩罚做2千深蹲",
+      "onboard_time": 1663346662,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -5875,14 +5883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 307837,
-      "num": 307837,
-      "word": "逃犯在缅甸完不成业绩罚做2千深蹲",
-      "onboard_time": 1663346662,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 307513,
       "num": 307513,
       "word": "iOS15.7",
@@ -6297,6 +6297,14 @@
       "onboard_time": 1663232732,
       "rank": 35,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 284469,
+      "num": 284469,
+      "word": "10岁娃打赏主播3个月花掉两万五",
+      "onboard_time": 1663359909,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 284396,
@@ -7011,6 +7019,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 246949,
+      "num": 246949,
+      "word": "天津发布房地产调控新政",
+      "onboard_time": 1663366455,
+      "rank": 47,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 246755,
       "num": 246755,
       "word": "两个人的小森林",
@@ -7153,6 +7169,14 @@
       "onboard_time": 1663219475,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 239068,
+      "num": 239068,
+      "word": "考研",
+      "onboard_time": 1663370181,
+      "rank": 11,
+      "category": "教育"
     },
     {
       "raw_hot": 238947,
@@ -7441,6 +7465,14 @@
       "onboard_time": 1663044709,
       "rank": 49,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 225790,
+      "num": 225790,
+      "word": "陆炎追妻火葬场",
+      "onboard_time": 1663365492,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 225752,
@@ -8843,14 +8875,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 154061,
-      "num": 154061,
-      "word": "10岁娃打赏主播3个月花掉两万五",
-      "onboard_time": 1663359909,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 153769,
       "num": 153533,
       "word": "欧冠",
@@ -9331,6 +9355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122884,
+      "num": 122884,
+      "word": "澳门去年每分钟受3.4次网络攻击",
+      "onboard_time": 1663360391,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122277,
       "num": 150772,
       "word": "我国首次发现商文化金覆面",
@@ -9603,6 +9635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108802,
+      "num": 108802,
+      "word": "李克勤说歌手是没有人体谅的",
+      "onboard_time": 1663360690,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108658,
       "num": 108658,
       "word": "严禁以分班为名强制学生购买平板",
@@ -9617,6 +9657,14 @@
       "onboard_time": 1663330651,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107940,
+      "num": 107940,
+      "word": "谢娜十三角关系首演",
+      "onboard_time": 1663364711,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 107851,
@@ -9779,6 +9827,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 93272,
+      "num": 93272,
+      "word": "爱上一个人需要理由吗",
+      "onboard_time": 1663355112,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 92255,
       "num": 92255,
       "word": "原来龙猫是这样洗澡",
@@ -9801,6 +9857,14 @@
       "onboard_time": 1663111824,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 91266,
+      "num": 91266,
+      "word": "人到中老年还能遇到真爱吗",
+      "onboard_time": 1663363750,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 89627,
@@ -9923,28 +9987,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 78004,
-      "num": 78004,
-      "word": "李克勤说歌手是没有人体谅的",
-      "onboard_time": 1663360690,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 76658,
       "num": 76658,
       "word": "温岭公安通报时代广场持刀伤人事件",
       "onboard_time": 1662893041,
       "rank": 37,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 76072,
-      "num": 76072,
-      "word": "天津发布房地产调控新政",
-      "onboard_time": 1663366455,
-      "rank": 47,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 73331,
@@ -9967,14 +10015,6 @@
       "num": 71753,
       "word": "实力诠释了什么叫心灵手巧",
       "onboard_time": 1663023802,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 71424,
-      "num": 71424,
-      "word": "澳门去年每分钟受3.4次网络攻击",
-      "onboard_time": 1663360391,
       "rank": 46,
       "category": "社会新闻"
     },
@@ -10011,14 +10051,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 69682,
-      "num": 69682,
-      "word": "人到中老年还能遇到真爱吗",
-      "onboard_time": 1663363750,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 69368,
       "num": 69368,
       "word": "美网2022",
@@ -10043,20 +10075,20 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 63602,
-      "num": 63602,
-      "word": "陆炎追妻火葬场",
-      "onboard_time": 1663365492,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 62043,
       "num": 41097,
       "word": "鹿晗运动天赋",
       "onboard_time": 1662918679,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 61512,
+      "num": 61512,
+      "word": "古剑奇谭手游停服",
+      "onboard_time": 1663356013,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 61377,
@@ -10073,6 +10105,14 @@
       "onboard_time": 1663084651,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 60819,
+      "num": 60819,
+      "word": "新研究称导致恐龙灭绝的是火山",
+      "onboard_time": 1663369939,
+      "rank": 46,
+      "category": "其它"
     },
     {
       "raw_hot": 60010,
@@ -10131,6 +10171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54510,
+      "num": 54510,
+      "word": "橘子味的杭州晚霞刷屏了",
+      "onboard_time": 1663370659,
+      "rank": 49,
+      "category": "自然"
+    },
+    {
       "raw_hot": 53612,
       "num": 53612,
       "word": "58岁自驾阿姨苏敏称会继续出发",
@@ -10171,14 +10219,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 46364,
-      "num": 46364,
-      "word": "谢娜十三角关系首演",
-      "onboard_time": 1663364711,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 46348,
       "num": 46348,
       "word": "北方朋友不加儿化音挑战",
@@ -10193,14 +10233,6 @@
       "onboard_time": 1663175599,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 44422,
-      "num": 44422,
-      "word": "爱上一个人需要理由吗",
-      "onboard_time": 1663355112,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 43531,
@@ -10249,14 +10281,6 @@
       "onboard_time": 1663157130,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39839,
-      "num": 39839,
-      "word": "古剑奇谭手游停服",
-      "onboard_time": 1663356013,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 38291,
