@@ -1,6 +1,6 @@
 {
   "startTime": 1663259654662,
-  "endTime": 1663309689426,
+  "endTime": 1663311932379,
   "band_list": [
     {
       "raw_hot": 2124625,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1972656,
-      "num": 737010,
+      "num": 855934,
       "word": "女子称高铁上来例假买不到卫生巾",
       "onboard_time": 1663305270,
       "rank": 3,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1768588,
-      "num": 428767,
+      "num": 492477,
       "word": "张一鸣爸爸",
       "onboard_time": 1663304972,
       "rank": 10,
@@ -91,12 +91,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1276574,
+      "num": 1276574,
+      "word": "A股",
+      "onboard_time": 1663310066,
+      "rank": 0,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1275127,
       "num": 1275127,
       "word": "研招网",
       "onboard_time": 1663295970,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1266463,
+      "num": 1266463,
+      "word": "杨紫诉拉夏贝尔旗下公司获赔25万",
+      "onboard_time": 1663310367,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1128563,
@@ -163,12 +179,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 852231,
+      "num": 852231,
+      "word": "林志颖目前体重55公斤跟kimi一样",
+      "onboard_time": 1663305510,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 838698,
       "num": 838698,
       "word": "52岁新生回应被质疑浪费资源",
       "onboard_time": 1663288233,
       "rank": 1,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 835620,
+      "num": 835620,
+      "word": "贵阳警方通报女子下跪求物资",
+      "onboard_time": 1663305510,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 826788,
@@ -227,14 +259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 649475,
-      "num": 649475,
-      "word": "贵阳警方通报女子下跪求物资",
-      "onboard_time": 1663305510,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 633645,
       "num": 633645,
       "word": "灵动岛",
@@ -249,14 +273,6 @@
       "onboard_time": 1663246592,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 619461,
-      "num": 427329,
-      "word": "林志颖目前体重55公斤跟kimi一样",
-      "onboard_time": 1663305510,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 617171,
@@ -315,6 +331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 517869,
+      "num": 517869,
+      "word": "辽宁高校学生等待返校",
+      "onboard_time": 1663307368,
+      "rank": 17,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 514455,
       "num": 514455,
       "word": "一天工作下来没人说话",
@@ -347,6 +371,22 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 494633,
+      "num": 494633,
+      "word": "雷军称微博都是自己发的",
+      "onboard_time": 1663306891,
+      "rank": 24,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 489017,
+      "num": 489017,
+      "word": "金智秀声音",
+      "onboard_time": 1663309767,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 486912,
       "num": 486912,
       "word": "女儿送务农爸爸跑步机让他健身",
@@ -360,6 +400,14 @@
       "word": "任嘉伦原声",
       "onboard_time": 1663252782,
       "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 473344,
+      "num": 245478,
+      "word": "宋茜 姐狗天菜",
+      "onboard_time": 1663310785,
+      "rank": 20,
       "category": "影视"
     },
     {
@@ -403,6 +451,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 420085,
+      "num": 244992,
+      "word": "BLACKPINK新歌Jennie的rap",
+      "onboard_time": 1663309288,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 412813,
       "num": 412813,
       "word": "志愿军8勇士拒绝被俘集体跳崖",
@@ -411,20 +467,20 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 394157,
-      "num": 394157,
-      "word": "辽宁高校学生等待返校",
-      "onboard_time": 1663307368,
-      "rank": 17,
-      "category": "教育,社会新闻"
+      "raw_hot": 407894,
+      "num": 407894,
+      "word": "白俄总统劈柴称不会让欧洲受冻",
+      "onboard_time": 1663308147,
+      "rank": 45,
+      "category": "国外要闻"
     },
     {
-      "raw_hot": 379087,
-      "num": 379087,
-      "word": "雷军称微博都是自己发的",
-      "onboard_time": 1663306891,
-      "rank": 24,
-      "category": "科技"
+      "raw_hot": 384067,
+      "num": 243108,
+      "word": "龚俊 LV阿那亚大秀",
+      "onboard_time": 1663311326,
+      "rank": 22,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 374653,
@@ -499,6 +555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 327351,
+      "num": 327351,
+      "word": "手机壳为什么会发黄",
+      "onboard_time": 1663306229,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 320387,
       "num": 320387,
       "word": "东方财富",
@@ -507,12 +571,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 316918,
-      "num": 316918,
-      "word": "手机壳为什么会发黄",
-      "onboard_time": 1663306229,
-      "rank": 19,
-      "category": "科技"
+      "raw_hot": 312566,
+      "num": 229256,
+      "word": "BLACKPINK新歌Lisa的rap",
+      "onboard_time": 1663311205,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 311977,
@@ -587,12 +651,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 273889,
-      "num": 239092,
-      "word": "BLACKPINK新歌Jennie的rap",
-      "onboard_time": 1663309288,
-      "rank": 21,
-      "category": "音乐"
+      "raw_hot": 271300,
+      "num": 175564,
+      "word": "任贤齐苏有朋林峯阿嬷的话",
+      "onboard_time": 1663310367,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 267789,
@@ -675,6 +739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236672,
+      "num": 153124,
+      "word": "朱嘉琦淘汰",
+      "onboard_time": 1663310667,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231758,
       "num": 231758,
       "word": "虞书欣新剧相亲对象是觞阙",
@@ -691,6 +763,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 229742,
+      "num": 229742,
+      "word": "苏州多区外地户籍购房恢复至原政策",
+      "onboard_time": 1663306649,
+      "rank": 34,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 228988,
       "num": 228988,
       "word": "歼20超低空飞行致敬英烈",
@@ -699,11 +779,35 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 228455,
+      "num": 228455,
+      "word": "女生坚持读书的意义有多大",
+      "onboard_time": 1663311027,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 227988,
       "num": 227988,
       "word": "西藏疫情防控",
       "onboard_time": 1663284383,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224562,
+      "num": 121939,
+      "word": "陈小春张智霖同盟第一",
+      "onboard_time": 1663311564,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 221634,
+      "num": 221634,
+      "word": "95后爸爸用毛线为女儿织生日蛋糕",
+      "onboard_time": 1663308806,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -747,28 +851,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 207090,
-      "num": 207090,
-      "word": "白俄总统劈柴称不会让欧洲受冻",
-      "onboard_time": 1663308147,
-      "rank": 45,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 205039,
       "num": 205039,
       "word": "魏大勋父子重现沙发二子名场面",
       "onboard_time": 1663303774,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 204661,
-      "num": 204661,
-      "word": "苏州多区外地户籍购房恢复至原政策",
-      "onboard_time": 1663306649,
-      "rank": 34,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 196250,
@@ -841,6 +929,14 @@
       "onboard_time": 1663291166,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171984,
+      "num": 171984,
+      "word": "考研比高考还累吗",
+      "onboard_time": 1663309167,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 171216,
@@ -955,6 +1051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 152100,
+      "num": 89018,
+      "word": "优乐购机",
+      "onboard_time": 1663311927,
+      "rank": 47,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 151990,
       "num": 151990,
       "word": "如何评价二合一青年",
@@ -1027,6 +1131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123763,
+      "num": 859283,
+      "word": "第九批在韩志愿军烈士遗骸归国",
+      "onboard_time": 1663306048,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123337,
       "num": 123337,
       "word": "有一种安心叫中国军人",
@@ -1067,12 +1179,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 117849,
-      "num": 742302,
-      "word": "第九批在韩志愿军烈士遗骸归国",
-      "onboard_time": 1663306048,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 117409,
+      "num": 117409,
+      "word": "志愿军回家路这些细节太戳了",
+      "onboard_time": 1663311507,
+      "rank": 43,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 117261,
@@ -1121,6 +1233,14 @@
       "onboard_time": 1663286607,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 112030,
+      "num": 112030,
+      "word": "母子祭祖引火灾被判赔近60万",
+      "onboard_time": 1663311507,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108952,
@@ -1203,11 +1323,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 92516,
-      "num": 92516,
-      "word": "95后爸爸用毛线为女儿织生日蛋糕",
-      "onboard_time": 1663308806,
-      "rank": 46,
+      "raw_hot": 92498,
+      "num": 92498,
+      "word": "梅花为本世纪首个登陆辽宁的台风",
+      "onboard_time": 1663310726,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1281,6 +1401,14 @@
       "onboard_time": 1663307967,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 83858,
+      "num": 83858,
+      "word": "七匹狼与特步家族联姻",
+      "onboard_time": 1663311866,
+      "rank": 49,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 83501,
