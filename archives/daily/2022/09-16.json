@@ -1,6 +1,6 @@
 {
   "startTime": 1663259654662,
-  "endTime": 1663324024290,
+  "endTime": 1663325190658,
   "band_list": [
     {
       "raw_hot": 20529209,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1757091,
+      "num": 656017,
+      "word": "罗一舟国家话剧院演出照",
+      "onboard_time": 1663320876,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1713832,
       "num": 1379293,
       "word": "用户发现iPhone14灵动岛色差严重",
@@ -121,14 +129,6 @@
       "onboard_time": 1663298912,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1541220,
-      "num": 625676,
-      "word": "罗一舟国家话剧院演出照",
-      "onboard_time": 1663320876,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 1348579,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 1185895,
-      "num": 623819,
+      "num": 652345,
       "word": "南昌一女子遭酒后男子入室猥亵",
       "onboard_time": 1663319081,
       "rank": 11,
@@ -267,8 +267,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 929537,
-      "num": 929537,
+      "raw_hot": 955108,
+      "num": 955108,
       "word": "电视剧底线",
       "onboard_time": 1663320815,
       "rank": 17,
@@ -339,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 739897,
+      "num": 739897,
+      "word": "考研大纲",
+      "onboard_time": 1663319442,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 714559,
       "num": 479301,
       "word": "杨超越好像把我骂醒了",
@@ -371,20 +379,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 656890,
+      "num": 656890,
+      "word": "成都沃尔玛现3238元天价白菜",
+      "onboard_time": 1663322913,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 644987,
+      "num": 644987,
+      "word": "长沙电信信号",
+      "onboard_time": 1663323691,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 633645,
       "num": 633645,
       "word": "灵动岛",
       "onboard_time": 1663297651,
       "rank": 12,
       "category": "科技"
-    },
-    {
-      "raw_hot": 626835,
-      "num": 626835,
-      "word": "考研大纲",
-      "onboard_time": 1663319442,
-      "rank": 39,
-      "category": "教育"
     },
     {
       "raw_hot": 624242,
@@ -403,12 +419,28 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 620518,
+      "num": 620518,
+      "word": "男子花15万买iPhone平台疑跑路",
+      "onboard_time": 1663322855,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 617171,
       "num": 617171,
       "word": "台湾在福岛进口食品中检出微量辐射",
       "onboard_time": 1663275490,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 600628,
+      "num": 600628,
+      "word": "杜淳说绝不允许女儿出国上学",
+      "onboard_time": 1663323691,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 583713,
@@ -563,6 +595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 459552,
+      "num": 459552,
+      "word": "被温州猪内脏米粉惊艳住了",
+      "onboard_time": 1663323453,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 456335,
       "num": 456335,
       "word": "胡一天陈钰琪自曝曾被换角",
@@ -627,6 +667,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 415731,
+      "num": 415731,
+      "word": "弟弟酒驾离开哥哥不放心酒驾追来",
+      "onboard_time": 1663320998,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 412813,
       "num": 412813,
       "word": "志愿军8勇士拒绝被俘集体跳崖",
@@ -659,28 +707,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 400793,
-      "num": 400793,
-      "word": "成都沃尔玛现3238元天价白菜",
-      "onboard_time": 1663322913,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 395695,
       "num": 384780,
       "word": "龚俊白敬亭王鹤棣刘耀文看秀造型",
       "onboard_time": 1663320338,
       "rank": 47,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 389504,
-      "num": 389504,
-      "word": "弟弟酒驾离开哥哥不放心酒驾追来",
-      "onboard_time": 1663320998,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 384067,
@@ -728,6 +760,14 @@
       "word": "虞书欣王鹤棣说很幸运遇见苍兰诀",
       "onboard_time": 1663323453,
       "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 368654,
+      "num": 368654,
+      "word": "底线定档9月19日开播",
+      "onboard_time": 1663324894,
+      "rank": 20,
       "category": "影视"
     },
     {
@@ -875,14 +915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 305442,
-      "num": 305442,
-      "word": "男子花15万买iPhone平台疑跑路",
-      "onboard_time": 1663322855,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 302772,
       "num": 302772,
       "word": "人民网评她们的名字贴近女性现实",
@@ -1003,6 +1035,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 267273,
+      "num": 267273,
+      "word": "喜欢一个人不能只看外表",
+      "onboard_time": 1663322673,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 263256,
       "num": 233645,
       "word": "冰雨火",
@@ -1049,14 +1089,6 @@
       "onboard_time": 1663304014,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 257025,
-      "num": 257025,
-      "word": "被温州猪内脏米粉惊艳住了",
-      "onboard_time": 1663323453,
-      "rank": 27,
-      "category": "美食"
     },
     {
       "raw_hot": 255372,
@@ -1163,20 +1195,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 227426,
-      "num": 227426,
-      "word": "喜欢一个人不能只看外表",
-      "onboard_time": 1663322673,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 221938,
       "num": 221938,
       "word": "苹果14",
       "onboard_time": 1663315045,
       "rank": 28,
       "category": "科技"
+    },
+    {
+      "raw_hot": 219914,
+      "num": 219914,
+      "word": "中国政府决定制裁波音防务公司CEO",
+      "onboard_time": 1663324232,
+      "rank": 33,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 219022,
@@ -1203,14 +1235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 212860,
-      "num": 212860,
-      "word": "长沙电信信号",
-      "onboard_time": 1663323691,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 209928,
       "num": 166161,
       "word": "陈楚生与天天向上BGM的适配度",
@@ -1233,14 +1257,6 @@
       "onboard_time": 1663240172,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 208597,
-      "num": 208597,
-      "word": "杜淳说绝不允许女儿出国上学",
-      "onboard_time": 1663323691,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 206235,
@@ -1459,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155999,
+      "num": 155999,
+      "word": "长沙应急管理局回应电信大楼着火",
+      "onboard_time": 1663323811,
+      "rank": 46,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 155726,
       "num": 155726,
       "word": "学长在新生军训场外狂炫奶茶",
@@ -1537,14 +1561,6 @@
       "onboard_time": 1663257391,
       "rank": 37,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 129124,
-      "num": 129124,
-      "word": "长沙应急管理局回应电信大楼着火",
-      "onboard_time": 1663323811,
-      "rank": 46,
-      "category": "社会负面"
     },
     {
       "raw_hot": 128994,
@@ -1779,6 +1795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95392,
+      "num": 95392,
+      "word": "高铁不售卖卫生巾合理吗",
+      "onboard_time": 1663325072,
+      "rank": 48,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 93603,
       "num": 93603,
       "word": "LBL",
@@ -1809,6 +1833,14 @@
       "onboard_time": 1663251700,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 91108,
+      "num": 91108,
+      "word": "iPhone14提前发货",
+      "onboard_time": 1663325131,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 90159,
@@ -1980,7 +2012,7 @@
     },
     {
       "raw_hot": 25872,
-      "num": 413786,
+      "num": 601068,
       "word": "阿那亚大秀他们都来了",
       "onboard_time": 1663322435,
       "rank": 14,
