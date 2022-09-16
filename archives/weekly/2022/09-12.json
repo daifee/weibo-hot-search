@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663308553764,
+  "endTime": 1663309689426,
   "band_list": [
     {
       "raw_hot": 9835748,
@@ -435,6 +435,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1972656,
+      "num": 737010,
+      "word": "女子称高铁上来例假买不到卫生巾",
+      "onboard_time": 1663305270,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1931589,
       "num": 1361534,
       "word": "妻子患尿毒症丈夫3次起诉离婚获准",
@@ -568,14 +576,6 @@
       "word": "张一鸣爸爸",
       "onboard_time": 1663304972,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1760285,
-      "num": 737010,
-      "word": "女子称高铁上来例假买不到卫生巾",
-      "onboard_time": 1663305270,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -2483,6 +2483,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 649475,
+      "num": 649475,
+      "word": "贵阳警方通报女子下跪求物资",
+      "onboard_time": 1663305510,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 649445,
       "num": 649445,
       "word": "浙江教师业绩突出获奖一套房",
@@ -2561,6 +2569,14 @@
       "onboard_time": 1663047701,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 619461,
+      "num": 427329,
+      "word": "林志颖目前体重55公斤跟kimi一样",
+      "onboard_time": 1663305510,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 619416,
@@ -2705,14 +2721,6 @@
       "onboard_time": 1663240349,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 583166,
-      "num": 427329,
-      "word": "林志颖目前体重55公斤跟kimi一样",
-      "onboard_time": 1663305510,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 582150,
@@ -3555,14 +3563,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 453239,
-      "num": 453239,
-      "word": "贵阳警方通报女子下跪求物资",
-      "onboard_time": 1663305510,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 450962,
       "num": 450962,
       "word": "罗一舟张凌赫陈星旭天天向上路透",
@@ -4067,6 +4067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 394157,
+      "num": 394157,
+      "word": "辽宁高校学生等待返校",
+      "onboard_time": 1663307368,
+      "rank": 17,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 393231,
       "num": 281751,
       "word": "五哈硬汉季拟邀嘉宾",
@@ -4161,6 +4169,14 @@
       "onboard_time": 1663059096,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 379087,
+      "num": 379087,
+      "word": "雷军称微博都是自己发的",
+      "onboard_time": 1663306891,
+      "rank": 24,
+      "category": "科技"
     },
     {
       "raw_hot": 378582,
@@ -4987,6 +5003,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 316918,
+      "num": 316918,
+      "word": "手机壳为什么会发黄",
+      "onboard_time": 1663306229,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 315076,
       "num": 315076,
       "word": "女子丢手机3个月没挂失被盗19万",
@@ -5137,14 +5161,6 @@
       "onboard_time": 1663128637,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 305280,
-      "num": 305280,
-      "word": "辽宁高校学生等待返校",
-      "onboard_time": 1663307368,
-      "rank": 17,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 304930,
@@ -5507,14 +5523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 280294,
-      "num": 280294,
-      "word": "手机壳为什么会发黄",
-      "onboard_time": 1663306229,
-      "rank": 19,
-      "category": "科技"
-    },
-    {
       "raw_hot": 279401,
       "num": 279401,
       "word": "ST洲际开盘一字涨停",
@@ -5545,6 +5553,14 @@
       "onboard_time": 1663259543,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 278212,
+      "num": 259917,
+      "word": "罗云熙吴倩追光者搂腰杀",
+      "onboard_time": 1663306769,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 277566,
@@ -5601,6 +5617,14 @@
       "onboard_time": 1663150527,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 273889,
+      "num": 239092,
+      "word": "BLACKPINK新歌Jennie的rap",
+      "onboard_time": 1663309288,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 273872,
@@ -5772,7 +5796,7 @@
     },
     {
       "raw_hot": 266198,
-      "num": 167647,
+      "num": 233645,
       "word": "冰雨火",
       "onboard_time": 1662979419,
       "rank": 47,
@@ -5857,14 +5881,6 @@
       "onboard_time": 1663290029,
       "rank": 20,
       "category": "科技"
-    },
-    {
-      "raw_hot": 259917,
-      "num": 259917,
-      "word": "罗云熙吴倩追光者搂腰杀",
-      "onboard_time": 1663306769,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 258553,
@@ -6225,14 +6241,6 @@
       "onboard_time": 1663053636,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 237929,
-      "num": 237929,
-      "word": "雷军称微博都是自己发的",
-      "onboard_time": 1663306891,
-      "rank": 24,
-      "category": "科技"
     },
     {
       "raw_hot": 237517,
@@ -6731,6 +6739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207090,
+      "num": 207090,
+      "word": "白俄总统劈柴称不会让欧洲受冻",
+      "onboard_time": 1663308147,
+      "rank": 45,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 206856,
       "num": 85288,
       "word": "中新网评李易峰嫖娼被警方通报",
@@ -6777,6 +6793,14 @@
       "onboard_time": 1663303774,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204661,
+      "num": 204661,
+      "word": "苏州多区外地户籍购房恢复至原政策",
+      "onboard_time": 1663306649,
+      "rank": 34,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 204181,
@@ -7403,6 +7427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170575,
+      "num": 170575,
+      "word": "雨中的烈士遗骸迎回仪式",
+      "onboard_time": 1663309526,
+      "rank": 35,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 170503,
       "num": 170503,
       "word": "任嘉伦新剧从壁画走出来",
@@ -7561,14 +7593,6 @@
       "onboard_time": 1663122089,
       "rank": 46,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 160830,
-      "num": 160830,
-      "word": "苏州多区外地户籍购房恢复至原政策",
-      "onboard_time": 1663306649,
-      "rank": 34,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 160462,
@@ -8459,14 +8483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 98494,
-      "num": 98494,
-      "word": "白俄总统劈柴称不会让欧洲受冻",
-      "onboard_time": 1663308147,
-      "rank": 45,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 98249,
       "num": 98249,
       "word": "英雄联盟",
@@ -8513,6 +8529,14 @@
       "onboard_time": 1663249899,
       "rank": 49,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 92516,
+      "num": 92516,
+      "word": "95后爸爸用毛线为女儿织生日蛋糕",
+      "onboard_time": 1663308806,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92255,
