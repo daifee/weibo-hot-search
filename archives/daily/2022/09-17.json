@@ -1,6 +1,6 @@
 {
   "startTime": 1663346071384,
-  "endTime": 1663357012501,
+  "endTime": 1663359941092,
   "band_list": [
     {
       "raw_hot": 1384787,
@@ -467,6 +467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 34140,
+      "num": 34140,
+      "word": "古剑奇谭手游停服",
+      "onboard_time": 1663356013,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 32888,
       "num": 32888,
       "word": "爱上一个人需要理由吗",
@@ -475,12 +483,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 18439,
-      "num": 18439,
-      "word": "古剑奇谭手游停服",
-      "onboard_time": 1663356013,
+      "raw_hot": 28068,
+      "num": 28068,
+      "word": "秦海璐说都这岁数了要什么美颜",
+      "onboard_time": 1663357511,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 8049,
+      "num": 8049,
+      "word": "10岁娃打赏主播3个月花掉两万五",
+      "onboard_time": 1663359909,
       "rank": 49,
-      "category": "游戏"
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
