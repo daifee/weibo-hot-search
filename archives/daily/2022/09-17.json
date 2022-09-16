@@ -1,6 +1,6 @@
 {
   "startTime": 1663346071384,
-  "endTime": 1663364362214,
+  "endTime": 1663367157503,
   "band_list": [
     {
       "raw_hot": 1384787,
@@ -339,6 +339,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 134981,
+      "num": 134981,
+      "word": "10岁娃打赏主播3个月花掉两万五",
+      "onboard_time": 1663359909,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134838,
       "num": 134838,
       "word": "魈手办",
@@ -443,11 +451,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 76356,
-      "num": 49664,
-      "word": "10岁娃打赏主播3个月花掉两万五",
-      "onboard_time": 1663359909,
-      "rank": 49,
+      "raw_hot": 70308,
+      "num": 70308,
+      "word": "李克勤说歌手是没有人体谅的",
+      "onboard_time": 1663360690,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 68478,
+      "num": 65229,
+      "word": "澳门去年每分钟受3.4次网络攻击",
+      "onboard_time": 1663360391,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -475,14 +491,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 39825,
-      "num": 39825,
-      "word": "李克勤说歌手是没有人体谅的",
-      "onboard_time": 1663360690,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 38190,
       "num": 38190,
       "word": "秦海璐说都这岁数了要什么美颜",
@@ -491,12 +499,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 38056,
-      "num": 33145,
-      "word": "澳门去年每分钟受3.4次网络攻击",
-      "onboard_time": 1663360391,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 37257,
+      "num": 37257,
+      "word": "人到中老年还能遇到真爱吗",
+      "onboard_time": 1663363750,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 36952,
@@ -507,20 +515,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 32888,
-      "num": 32888,
+      "raw_hot": 33509,
+      "num": 33509,
       "word": "爱上一个人需要理由吗",
       "onboard_time": 1663355112,
       "rank": 37,
       "category": "情感"
     },
     {
-      "raw_hot": 12553,
-      "num": 12553,
-      "word": "人到中老年还能遇到真爱吗",
-      "onboard_time": 1663363750,
+      "raw_hot": 26591,
+      "num": 26591,
+      "word": "陆炎追妻火葬场",
+      "onboard_time": 1663365492,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 19585,
+      "num": 19585,
+      "word": "天津发布房地产调控新政",
+      "onboard_time": 1663366455,
       "rank": 47,
-      "category": "情感"
+      "category": "财经,社会新闻"
     }
   ],
   "hotgov_list": [
