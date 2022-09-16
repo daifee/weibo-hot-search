@@ -1,6 +1,6 @@
 {
   "startTime": 1663259654662,
-  "endTime": 1663325190658,
+  "endTime": 1663327235780,
   "band_list": [
     {
       "raw_hot": 20529209,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 1757091,
-      "num": 656017,
+      "num": 777935,
       "word": "罗一舟国家话剧院演出照",
       "onboard_time": 1663320876,
       "rank": 26,
@@ -179,12 +179,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1228870,
+      "num": 1228870,
+      "word": "杜淳说绝不允许女儿出国上学",
+      "onboard_time": 1663323691,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1185895,
-      "num": 652345,
+      "num": 760337,
       "word": "南昌一女子遭酒后男子入室猥亵",
       "onboard_time": 1663319081,
       "rank": 11,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1133700,
+      "num": 1133700,
+      "word": "长沙电信信号",
+      "onboard_time": 1663323691,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1128563,
@@ -243,6 +259,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1027233,
+      "num": 1027233,
+      "word": "电视剧底线",
+      "onboard_time": 1663320815,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1015914,
       "num": 610996,
       "word": "任权 于希涵",
@@ -267,12 +291,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 955108,
-      "num": 955108,
-      "word": "电视剧底线",
-      "onboard_time": 1663320815,
-      "rank": 17,
-      "category": "影视"
+      "raw_hot": 919410,
+      "num": 919410,
+      "word": "成都沃尔玛现3238元天价白菜",
+      "onboard_time": 1663322913,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 852231,
@@ -313,6 +337,14 @@
       "onboard_time": 1663309167,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 793325,
+      "num": 793325,
+      "word": "中国政府决定制裁波音防务公司CEO",
+      "onboard_time": 1663324232,
+      "rank": 33,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 761949,
@@ -371,27 +403,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 668956,
+      "num": 668956,
+      "word": "男子花15万买iPhone平台疑跑路",
+      "onboard_time": 1663322855,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 658736,
       "num": 658736,
       "word": "沃尔玛面包上蟑螂活蹦乱跳",
       "onboard_time": 1663294890,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 656890,
-      "num": 656890,
-      "word": "成都沃尔玛现3238元天价白菜",
-      "onboard_time": 1663322913,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 644987,
-      "num": 644987,
-      "word": "长沙电信信号",
-      "onboard_time": 1663323691,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -419,14 +443,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 620518,
-      "num": 620518,
-      "word": "男子花15万买iPhone平台疑跑路",
-      "onboard_time": 1663322855,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 617171,
       "num": 617171,
       "word": "台湾在福岛进口食品中检出微量辐射",
@@ -435,20 +451,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 600628,
-      "num": 600628,
-      "word": "杜淳说绝不允许女儿出国上学",
-      "onboard_time": 1663323691,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 583713,
       "num": 583713,
       "word": "BLACKPINK 粉墨",
       "onboard_time": 1663294651,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 582146,
+      "num": 582146,
+      "word": "男明星阿那亚大秀生图",
+      "onboard_time": 1663326212,
+      "rank": 13,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 576946,
@@ -497,6 +513,14 @@
       "onboard_time": 1663288290,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 542197,
+      "num": 542197,
+      "word": "韩庚王一博十年前后合照对比",
+      "onboard_time": 1663326146,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 538913,
@@ -555,6 +579,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 491505,
+      "num": 375106,
+      "word": "王鹤棣 潮人不怕热",
+      "onboard_time": 1663325613,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 489017,
       "num": 489017,
       "word": "金智秀声音",
@@ -569,6 +601,14 @@
       "onboard_time": 1663251940,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 485358,
+      "num": 485358,
+      "word": "被温州猪内脏米粉惊艳住了",
+      "onboard_time": 1663323453,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 481578,
@@ -593,14 +633,6 @@
       "onboard_time": 1663310785,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 459552,
-      "num": 459552,
-      "word": "被温州猪内脏米粉惊艳住了",
-      "onboard_time": 1663323453,
-      "rank": 27,
-      "category": "美食"
     },
     {
       "raw_hot": 456335,
@@ -715,6 +747,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 392473,
+      "num": 392473,
+      "word": "iPhone14提前发货",
+      "onboard_time": 1663325131,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 384067,
       "num": 243108,
       "word": "龚俊 LV阿那亚大秀",
@@ -811,6 +851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 342121,
+      "num": 342121,
+      "word": "BLACKPINK新专首日销量破百万",
+      "onboard_time": 1663326927,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 338795,
       "num": 338795,
       "word": "歼20为运20护航画面",
@@ -825,6 +873,14 @@
       "onboard_time": 1663321776,
       "rank": 20,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 333173,
+      "num": 249386,
+      "word": "中餐厅合伙人全员晒体重",
+      "onboard_time": 1663325312,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 332697,
@@ -921,6 +977,14 @@
       "onboard_time": 1663318368,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 302200,
+      "num": 302200,
+      "word": "女子野山摘了一株花被刑拘",
+      "onboard_time": 1663325852,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 301603,
@@ -1043,6 +1107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 264047,
+      "num": 264047,
+      "word": "考研英语",
+      "onboard_time": 1663326752,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 263256,
       "num": 233645,
       "word": "冰雨火",
@@ -1155,6 +1227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236045,
+      "num": 236045,
+      "word": "如何看待考研缩招",
+      "onboard_time": 1663324773,
+      "rank": 32,
+      "category": "教育,社会议题"
+    },
+    {
       "raw_hot": 231758,
       "num": 231758,
       "word": "虞书欣新剧相亲对象是觞阙",
@@ -1201,14 +1281,6 @@
       "onboard_time": 1663315045,
       "rank": 28,
       "category": "科技"
-    },
-    {
-      "raw_hot": 219914,
-      "num": 219914,
-      "word": "中国政府决定制裁波音防务公司CEO",
-      "onboard_time": 1663324232,
-      "rank": 33,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 219022,
@@ -1355,6 +1427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176340,
+      "num": 176340,
+      "word": "长沙应急管理局回应电信大楼着火",
+      "onboard_time": 1663323811,
+      "rank": 46,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 175467,
       "num": 175467,
       "word": "恋爱遭家里反对小伙爬上10米高塔",
@@ -1409,6 +1489,14 @@
       "onboard_time": 1663311927,
       "rank": 47,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 168135,
+      "num": 168135,
+      "word": "马丽哺乳期带伤拍戏太拼了",
+      "onboard_time": 1663326270,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 166616,
@@ -1475,14 +1563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 155999,
-      "num": 155999,
-      "word": "长沙应急管理局回应电信大楼着火",
-      "onboard_time": 1663323811,
-      "rank": 46,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 155726,
       "num": 155726,
       "word": "学长在新生军训场外狂炫奶茶",
@@ -1523,12 +1603,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 145963,
-      "num": 145963,
+      "raw_hot": 146389,
+      "num": 146389,
       "word": "第一次见在操场上游泳的鱼",
       "onboard_time": 1663320580,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145049,
+      "num": 145049,
+      "word": "台风过后海滩上被吹来大量海鲜",
+      "onboard_time": 1663326632,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144083,
@@ -1553,6 +1641,14 @@
       "onboard_time": 1663293993,
       "rank": 39,
       "category": "国内要闻,军事"
+    },
+    {
+      "raw_hot": 129686,
+      "num": 129686,
+      "word": "水月与深蓝之树",
+      "onboard_time": 1663326692,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 129234,
@@ -1747,6 +1843,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 106803,
+      "num": 106803,
+      "word": "运20歼20飞行员空中对话公开",
+      "onboard_time": 1663325911,
+      "rank": 49,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 106682,
       "num": 106682,
       "word": "女子网购鸡胸肉一捏似豆腐",
@@ -1833,14 +1937,6 @@
       "onboard_time": 1663251700,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 91108,
-      "num": 91108,
-      "word": "iPhone14提前发货",
-      "onboard_time": 1663325131,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 90159,
@@ -2027,6 +2123,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 18025,
+      "num": 575710,
+      "word": "没见过这么想凉的脱毛仪",
+      "onboard_time": 1663326871,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 10518,
       "num": 10518,
       "word": "蛋仔派对",
@@ -2153,6 +2257,9 @@
     },
     {
       "word": "#英雄回家#"
+    },
+    {
+      "word": "#此次中亚之行有何特殊之处#"
     }
   ]
 }
