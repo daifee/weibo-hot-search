@@ -1,0 +1,410 @@
+{
+  "runTime": 1663347895799,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1014739,
+        "num": 1014739,
+        "word": "腰好像一下子就舒服了",
+        "onboard_time": 1663335814,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1009206,
+        "num": 1009206,
+        "word": "考研缩招",
+        "onboard_time": 1663318845,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 32190,
+        "num": 697873,
+        "word": "谁是最可爱的人接力诵读",
+        "onboard_time": 1663335154,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 630412,
+        "num": 630412,
+        "word": "重庆市发现1例境外输入猴痘病例",
+        "onboard_time": 1663331430,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 625207,
+        "num": 625207,
+        "word": "从此校园文男主有了脸",
+        "onboard_time": 1663346244,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 581066,
+        "num": 581066,
+        "word": "覆流年大结局",
+        "onboard_time": 1663343729,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 553315,
+        "num": 553315,
+        "word": "小偷看老人可怜留下1000元",
+        "onboard_time": 1663341394,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419260,
+        "num": 419260,
+        "word": "退退退",
+        "onboard_time": 1663338575,
+        "rank": 7,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 415177,
+        "num": 415177,
+        "word": "35岁男子地铁猥亵女子被拘14日",
+        "onboard_time": 1663345107,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406788,
+        "num": 406788,
+        "word": "阿娇说张韶涵是自己主动追来的朋友",
+        "onboard_time": 1663344866,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 579541,
+        "num": 406325,
+        "word": "ale",
+        "onboard_time": 1663342114,
+        "rank": 10,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 384849,
+        "num": 384849,
+        "word": "男子吃火锅发现头顶有老鼠",
+        "onboard_time": 1663344029,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343752,
+        "num": 343752,
+        "word": "长沙高楼火灾",
+        "onboard_time": 1663316848,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 324048,
+        "num": 324048,
+        "word": "长月烬明集变更为34集",
+        "onboard_time": 1663341095,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 312787,
+        "num": 312787,
+        "word": "iPhone14顶配首发价格即破发",
+        "onboard_time": 1663339112,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 265887,
+        "num": 265887,
+        "word": "专家称重庆猴痘疫情传播风险很低",
+        "onboard_time": 1663336955,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237372,
+        "num": 237372,
+        "word": "披荆斩棘二公观后感",
+        "onboard_time": 1663346302,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224212,
+        "num": 224212,
+        "word": "大爷外出避暑一个月家中漏水458吨",
+        "onboard_time": 1663336113,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203224,
+        "num": 203224,
+        "word": "原神 凯迪拉克",
+        "onboard_time": 1663339233,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 197578,
+        "num": 197578,
+        "word": "女子捡回流浪狗40天变化让人破防",
+        "onboard_time": 1663341156,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232445,
+        "num": 196784,
+        "word": "黑话律师",
+        "onboard_time": 1663340194,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223605,
+        "num": 194991,
+        "word": "王鹤棣一口气炫瓜",
+        "onboard_time": 1663345526,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192301,
+        "num": 192301,
+        "word": "金晨生图",
+        "onboard_time": 1663332696,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170351,
+        "num": 170351,
+        "word": "灵动岛值得冲吗",
+        "onboard_time": 1663343608,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 157971,
+        "num": 157971,
+        "word": "退休县委书记卖房在沙漠植树13年",
+        "onboard_time": 1663340738,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154800,
+        "num": 154800,
+        "word": "专家称预制菜如同猪狗食",
+        "onboard_time": 1663336832,
+        "rank": 25,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 152718,
+        "num": 152718,
+        "word": "中国政府决定制裁波音防务公司CEO",
+        "onboard_time": 1663324232,
+        "rank": 26,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 144121,
+        "num": 144121,
+        "word": "男子花15万买iPhone平台疑跑路",
+        "onboard_time": 1663322855,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143946,
+        "num": 143946,
+        "word": "四六级",
+        "onboard_time": 1663339049,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 143520,
+        "num": 143520,
+        "word": "女婴吃梨被卡妈妈海姆立克急救",
+        "onboard_time": 1663341693,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148100,
+        "num": 143318,
+        "word": "小半",
+        "onboard_time": 1663332876,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146758,
+        "num": 143301,
+        "word": "杜淳说绝不允许女儿出国上学",
+        "onboard_time": 1663323691,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142185,
+        "num": 142185,
+        "word": "檀健次 鞋跟",
+        "onboard_time": 1663335394,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138842,
+        "num": 138842,
+        "word": "世间有她易烊千玺黄米依片段",
+        "onboard_time": 1663339532,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136492,
+        "num": 136492,
+        "word": "哪一刻你后悔没有好好读书",
+        "onboard_time": 1663333775,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129046,
+        "num": 129046,
+        "word": "你喝过便宜又好喝的奶茶吗",
+        "onboard_time": 1663333298,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 121333,
+        "num": 121333,
+        "word": "逃犯在缅甸完不成业绩罚做2千深蹲",
+        "onboard_time": 1663346662,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111895,
+        "num": 111895,
+        "word": "见过最有压迫感的猫",
+        "onboard_time": 1663342893,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 101497,
+        "num": 101497,
+        "word": "成都沃尔玛现3238元天价白菜",
+        "onboard_time": 1663322913,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91064,
+        "num": 91064,
+        "word": "原神散兵",
+        "onboard_time": 1663334912,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111647,
+        "num": 91036,
+        "word": "颖儿全素颜出演新剧",
+        "onboard_time": 1663335033,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 90875,
+        "num": 90875,
+        "word": "肖秀荣",
+        "onboard_time": 1663328549,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 90560,
+        "num": 90560,
+        "word": "赵丽颖发文回应为角色增肥",
+        "onboard_time": 1663315946,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 85490,
+        "num": 85490,
+        "word": "很担心打工人的精神状态",
+        "onboard_time": 1663337853,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 79784,
+        "num": 79784,
+        "word": "山东财经大学奖学金",
+        "onboard_time": 1663328311,
+        "rank": 44,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 79380,
+        "num": 79380,
+        "word": "男子刷短视频赚红包提现遭拒胜诉",
+        "onboard_time": 1663332034,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74506,
+        "num": 74506,
+        "word": "南昌一女子遭酒后男子入室猥亵",
+        "onboard_time": 1663319081,
+        "rank": 46,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 73549,
+        "num": 73549,
+        "word": "法考",
+        "onboard_time": 1663338934,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 72008,
+        "num": 72008,
+        "word": "考研英语",
+        "onboard_time": 1663326752,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 71562,
+        "num": 71562,
+        "word": "已经提前感受到了考研的氛围",
+        "onboard_time": 1663340855,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#此次中亚之行有何特殊之处#"
+    }
+  }
+}

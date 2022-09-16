@@ -1,6 +1,6 @@
 {
   "startTime": 1663346071384,
-  "endTime": 1663346071384,
+  "endTime": 1663347895799,
   "band_list": [
     {
       "raw_hot": 1384787,
@@ -51,6 +51,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 625207,
+      "num": 625207,
+      "word": "从此校园文男主有了脸",
+      "onboard_time": 1663346244,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 607833,
       "num": 607833,
       "word": "长月烬明集变更为34集",
@@ -59,8 +67,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 529952,
-      "num": 529952,
+      "raw_hot": 581066,
+      "num": 581066,
       "word": "覆流年大结局",
       "onboard_time": 1663343729,
       "rank": 7,
@@ -97,6 +105,22 @@
       "onboard_time": 1663344866,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 415177,
+      "num": 415177,
+      "word": "35岁男子地铁猥亵女子被拘14日",
+      "onboard_time": 1663345107,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 384849,
+      "num": 384849,
+      "word": "男子吃火锅发现头顶有老鼠",
+      "onboard_time": 1663344029,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 353252,
@@ -147,14 +171,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 277759,
-      "num": 277759,
-      "word": "男子吃火锅发现头顶有老鼠",
-      "onboard_time": 1663344029,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 264499,
       "num": 264499,
       "word": "世间有她易烊千玺黄米依片段",
@@ -185,6 +201,14 @@
       "onboard_time": 1663339049,
       "rank": 23,
       "category": "教育"
+    },
+    {
+      "raw_hot": 237372,
+      "num": 237372,
+      "word": "披荆斩棘二公观后感",
+      "onboard_time": 1663346302,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 229308,
@@ -251,20 +275,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 170351,
+      "num": 170351,
+      "word": "灵动岛值得冲吗",
+      "onboard_time": 1663343608,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
       "raw_hot": 163414,
       "num": 163414,
       "word": "颖儿全素颜出演新剧",
       "onboard_time": 1663335033,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 159120,
-      "num": 159120,
-      "word": "35岁男子地铁猥亵女子被拘14日",
-      "onboard_time": 1663345107,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158704,
@@ -315,6 +339,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 121333,
+      "num": 121333,
+      "word": "逃犯在缅甸完不成业绩罚做2千深蹲",
+      "onboard_time": 1663346662,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121292,
       "num": 121292,
       "word": "很担心打工人的精神状态",
@@ -353,14 +385,6 @@
       "onboard_time": 1663338934,
       "rank": 44,
       "category": "教育"
-    },
-    {
-      "raw_hot": 110184,
-      "num": 110184,
-      "word": "灵动岛值得冲吗",
-      "onboard_time": 1663343608,
-      "rank": 45,
-      "category": "科技"
     },
     {
       "raw_hot": 109826,
