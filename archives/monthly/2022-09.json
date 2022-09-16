@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1663349872148,
+  "endTime": 1663350774494,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -18947,6 +18947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 307837,
+      "num": 307837,
+      "word": "逃犯在缅甸完不成业绩罚做2千深蹲",
+      "onboard_time": 1663346662,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 307550,
       "num": 307550,
       "word": "泸定地震后首个宝宝平安降生",
@@ -20648,14 +20656,6 @@
       "word": "公司回应招人事不录用单身人士",
       "onboard_time": 1663274231,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 281302,
-      "num": 233586,
-      "word": "逃犯在缅甸完不成业绩罚做2千深蹲",
-      "onboard_time": 1663346662,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -30179,6 +30179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134838,
+      "num": 134838,
+      "word": "魈手办",
+      "onboard_time": 1663348100,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 134784,
       "num": 88685,
       "word": "Apple Watch",
@@ -31233,14 +31241,6 @@
       "onboard_time": 1662573495,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 113348,
-      "num": 113348,
-      "word": "魈手办",
-      "onboard_time": 1663348100,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 113250,
@@ -32697,6 +32697,14 @@
       "onboard_time": 1662228194,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 44986,
+      "num": 44986,
+      "word": "澳门健康码遭300多万次网络攻击",
+      "onboard_time": 1663350377,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44464,

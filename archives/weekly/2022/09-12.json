@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663349872148,
+  "endTime": 1663350774494,
   "band_list": [
     {
       "raw_hot": 20529209,
@@ -5867,6 +5867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 307837,
+      "num": 307837,
+      "word": "逃犯在缅甸完不成业绩罚做2千深蹲",
+      "onboard_time": 1663346662,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 307513,
       "num": 307513,
       "word": "iOS15.7",
@@ -6336,14 +6344,6 @@
       "word": "公司回应招人事不录用单身人士",
       "onboard_time": 1663274231,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 281302,
-      "num": 233586,
-      "word": "逃犯在缅甸完不成业绩罚做2千深蹲",
-      "onboard_time": 1663346662,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -9067,6 +9067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134838,
+      "num": 134838,
+      "word": "魈手办",
+      "onboard_time": 1663348100,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 134480,
       "num": 249196,
       "word": "被秋天的昆仑山惊艳到了",
@@ -9480,14 +9488,6 @@
       "word": "原神",
       "onboard_time": 1663230270,
       "rank": 45,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 113348,
-      "num": 113348,
-      "word": "魈手办",
-      "onboard_time": 1663348100,
-      "rank": 26,
       "category": "游戏"
     },
     {
@@ -10121,6 +10121,14 @@
       "onboard_time": 1663175599,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 44986,
+      "num": 44986,
+      "word": "澳门健康码遭300多万次网络攻击",
+      "onboard_time": 1663350377,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 43531,
