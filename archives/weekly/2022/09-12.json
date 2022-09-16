@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663347895799,
+  "endTime": 1663349872148,
   "band_list": [
     {
       "raw_hot": 20529209,
@@ -2523,6 +2523,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 737721,
+      "num": 625207,
+      "word": "从此校园文男主有了脸",
+      "onboard_time": 1663346244,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 735388,
       "num": 735388,
       "word": "河南引进全日制博士可享国企中层副职待遇",
@@ -2641,6 +2649,14 @@
       "onboard_time": 1663045726,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 692120,
+      "num": 692120,
+      "word": "35岁男子地铁猥亵女子被拘14日",
+      "onboard_time": 1663345107,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 690921,
@@ -2897,14 +2913,6 @@
       "onboard_time": 1663325613,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 625207,
-      "num": 625207,
-      "word": "从此校园文男主有了脸",
-      "onboard_time": 1663346244,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 621010,
@@ -4425,14 +4433,6 @@
       "onboard_time": 1663049556,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 415177,
-      "num": 415177,
-      "word": "35岁男子地铁猥亵女子被拘14日",
-      "onboard_time": 1663345107,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 415056,
@@ -6336,6 +6336,14 @@
       "word": "公司回应招人事不录用单身人士",
       "onboard_time": 1663274231,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281302,
+      "num": 233586,
+      "word": "逃犯在缅甸完不成业绩罚做2千深蹲",
+      "onboard_time": 1663346662,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -9299,14 +9307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 121333,
-      "num": 121333,
-      "word": "逃犯在缅甸完不成业绩罚做2千深蹲",
-      "onboard_time": 1663346662,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120503,
       "num": 120503,
       "word": "2022护师成绩",
@@ -9480,6 +9480,14 @@
       "word": "原神",
       "onboard_time": 1663230270,
       "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 113348,
+      "num": 113348,
+      "word": "魈手办",
+      "onboard_time": 1663348100,
+      "rank": 26,
       "category": "游戏"
     },
     {
@@ -9985,6 +9993,14 @@
       "onboard_time": 1662918679,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 61377,
+      "num": 61377,
+      "word": "庄羽公主抱虞美人",
+      "onboard_time": 1663343308,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 61045,

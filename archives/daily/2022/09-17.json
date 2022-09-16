@@ -1,6 +1,6 @@
 {
   "startTime": 1663346071384,
-  "endTime": 1663347895799,
+  "endTime": 1663349872148,
   "band_list": [
     {
       "raw_hot": 1384787,
@@ -51,12 +51,20 @@
       "category": "其它"
     },
     {
-      "raw_hot": 625207,
+      "raw_hot": 737721,
       "num": 625207,
       "word": "从此校园文男主有了脸",
       "onboard_time": 1663346244,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 692120,
+      "num": 692120,
+      "word": "35岁男子地铁猥亵女子被拘14日",
+      "onboard_time": 1663345107,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 607833,
@@ -107,14 +115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 415177,
-      "num": 415177,
-      "word": "35岁男子地铁猥亵女子被拘14日",
-      "onboard_time": 1663345107,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 384849,
       "num": 384849,
       "word": "男子吃火锅发现头顶有老鼠",
@@ -153,6 +153,14 @@
       "onboard_time": 1663339233,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 281302,
+      "num": 233586,
+      "word": "逃犯在缅甸完不成业绩罚做2千深蹲",
+      "onboard_time": 1663346662,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 281167,
@@ -339,14 +347,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 121333,
-      "num": 121333,
-      "word": "逃犯在缅甸完不成业绩罚做2千深蹲",
-      "onboard_time": 1663346662,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121292,
       "num": 121292,
       "word": "很担心打工人的精神状态",
@@ -377,6 +377,14 @@
       "onboard_time": 1663340855,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 113348,
+      "num": 113348,
+      "word": "魈手办",
+      "onboard_time": 1663348100,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 112251,
@@ -417,6 +425,14 @@
       "onboard_time": 1663339833,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61377,
+      "num": 61377,
+      "word": "庄羽公主抱虞美人",
+      "onboard_time": 1663343308,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 44199,
