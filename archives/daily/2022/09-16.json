@@ -1,6 +1,6 @@
 {
   "startTime": 1663259654662,
-  "endTime": 1663333941809,
+  "endTime": 1663336426455,
   "band_list": [
     {
       "raw_hot": 20529209,
@@ -219,6 +219,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1188804,
+      "num": 1188804,
+      "word": "12306回应女乘客买不到卫生巾",
+      "onboard_time": 1663329390,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1185895,
       "num": 760337,
       "word": "南昌一女子遭酒后男子入室猥亵",
@@ -323,12 +331,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 936440,
-      "num": 936440,
-      "word": "12306回应女乘客买不到卫生巾",
-      "onboard_time": 1663329390,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 1003241,
+      "num": 310770,
+      "word": "檀健次 鞋跟",
+      "onboard_time": 1663335394,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 929854,
@@ -443,6 +451,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 723380,
+      "num": 723380,
+      "word": "你喝过便宜又好喝的奶茶吗",
+      "onboard_time": 1663333298,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 714559,
       "num": 479301,
       "word": "杨超越好像把我骂醒了",
@@ -523,6 +539,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 592599,
+      "num": 592599,
+      "word": "小半",
+      "onboard_time": 1663332876,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 588665,
+      "num": 588665,
+      "word": "虞书欣两个人的小森林6集换了28套造型",
+      "onboard_time": 1663331013,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 583713,
       "num": 583713,
       "word": "BLACKPINK 粉墨",
@@ -553,14 +585,6 @@
       "onboard_time": 1663252121,
       "rank": 4,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 563976,
-      "num": 563976,
-      "word": "虞书欣两个人的小森林6集换了28套造型",
-      "onboard_time": 1663331013,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 553764,
@@ -739,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 449933,
+      "num": 449933,
+      "word": "男子刷短视频赚红包提现遭拒胜诉",
+      "onboard_time": 1663332034,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 448669,
       "num": 448669,
       "word": "陆炎三千年初吻没了",
@@ -761,14 +793,6 @@
       "onboard_time": 1663246352,
       "rank": 14,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 436424,
-      "num": 263479,
-      "word": "小半",
-      "onboard_time": 1663332876,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 429692,
@@ -1075,8 +1099,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 311034,
+      "num": 211340,
+      "word": "颖儿全素颜出演新剧",
+      "onboard_time": 1663335033,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 309553,
-      "num": 187967,
+      "num": 192117,
       "word": "冰雨火演员全员告别角色",
       "onboard_time": 1663332636,
       "rank": 31,
@@ -1121,6 +1153,14 @@
       "onboard_time": 1663288648,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 292686,
+      "num": 292686,
+      "word": "原神动画",
+      "onboard_time": 1663334671,
+      "rank": 24,
+      "category": "动漫"
     },
     {
       "raw_hot": 292266,
@@ -1235,6 +1275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 264434,
+      "num": 264434,
+      "word": "原神散兵",
+      "onboard_time": 1663334912,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 263256,
       "num": 233645,
       "word": "冰雨火",
@@ -1347,6 +1395,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 242135,
+      "num": 242135,
+      "word": "哪一刻你后悔没有好好读书",
+      "onboard_time": 1663333775,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 239398,
+      "num": 239398,
+      "word": "阿贝多",
+      "onboard_time": 1663334975,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 237392,
       "num": 237392,
       "word": "杨超越直播",
@@ -1425,14 +1489,6 @@
       "onboard_time": 1663245870,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 214893,
-      "num": 214893,
-      "word": "你喝过便宜又好喝的奶茶吗",
-      "onboard_time": 1663333298,
-      "rank": 26,
-      "category": "美食"
     },
     {
       "raw_hot": 214082,
@@ -1523,12 +1579,28 @@
       "category": "国内要闻,军事"
     },
     {
+      "raw_hot": 194992,
+      "num": 194992,
+      "word": "腰好像一下子就舒服了",
+      "onboard_time": 1663335814,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194253,
       "num": 194253,
       "word": "贺峻霖主持大影节登上学习强国",
       "onboard_time": 1663256437,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193432,
+      "num": 193432,
+      "word": "小猫让我得了红眼病",
+      "onboard_time": 1663335333,
+      "rank": 35,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 192481,
@@ -1571,14 +1643,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 184946,
-      "num": 184946,
-      "word": "哪一刻你后悔没有好好读书",
-      "onboard_time": 1663333775,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 184845,
       "num": 184845,
       "word": "大龄高考是在浪费资源吗",
@@ -1593,6 +1657,14 @@
       "onboard_time": 1663312589,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182221,
+      "num": 158338,
+      "word": "郑云龙带人形生物回上海",
+      "onboard_time": 1663336353,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 175467,
@@ -1699,14 +1771,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 162387,
-      "num": 162387,
-      "word": "男子刷短视频赚红包提现遭拒胜诉",
-      "onboard_time": 1663332034,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 162206,
       "num": 153213,
       "word": "白冰新剧用30万与原生家庭和解",
@@ -1753,6 +1817,14 @@
       "onboard_time": 1663307368,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 154379,
+      "num": 154379,
+      "word": "大爷外出避暑一个月家中漏水458吨",
+      "onboard_time": 1663336113,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153216,
@@ -2273,6 +2345,14 @@
       "onboard_time": 1663240711,
       "rank": 2,
       "category": "其它"
+    },
+    {
+      "raw_hot": 48562,
+      "num": 1350423,
+      "word": "谁是最可爱的人接力诵读",
+      "onboard_time": 1663335154,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 48348,
