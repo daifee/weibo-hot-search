@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663328269428,
+  "endTime": 1663332393645,
   "band_list": [
     {
       "raw_hot": 20529209,
@@ -41,6 +41,14 @@
       "onboard_time": 1663077877,
       "rank": 47,
       "category": "影视,社会新闻"
+    },
+    {
+      "raw_hot": 9104681,
+      "num": 9104681,
+      "word": "重庆市发现1例境外输入猴痘病例",
+      "onboard_time": 1663331430,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 8475341,
@@ -705,6 +713,14 @@
       "onboard_time": 1663049377,
       "rank": 42,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 1651446,
+      "num": 1651446,
+      "word": "肖秀荣",
+      "onboard_time": 1663328549,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 1631807,
@@ -1827,6 +1843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 928142,
+      "num": 928142,
+      "word": "女子野山摘了一株花被刑拘",
+      "onboard_time": 1663325852,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 926482,
       "num": 313230,
       "word": "杨幂出道20周年",
@@ -1953,6 +1977,14 @@
       "onboard_time": 1663129833,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 876233,
+      "num": 733340,
+      "word": "王鹤棣穿貂热到吐舌头",
+      "onboard_time": 1663329390,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 868766,
@@ -2283,6 +2315,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 768025,
+      "num": 768025,
+      "word": "山东财经大学奖学金",
+      "onboard_time": 1663328311,
+      "rank": 9,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 765370,
       "num": 765370,
       "word": "你安全吗",
@@ -2521,6 +2561,14 @@
       "onboard_time": 1662960876,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 684894,
+      "num": 684894,
+      "word": "12306回应女乘客买不到卫生巾",
+      "onboard_time": 1663329390,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 682538,
@@ -3001,6 +3049,14 @@
       "onboard_time": 1662992502,
       "rank": 44,
       "category": "科技"
+    },
+    {
+      "raw_hot": 563976,
+      "num": 563976,
+      "word": "虞书欣两个人的小森林6集换了28套造型",
+      "onboard_time": 1663331013,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 563670,
@@ -3619,14 +3675,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 474263,
-      "num": 474263,
-      "word": "女子野山摘了一株花被刑拘",
-      "onboard_time": 1663325852,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 473859,
       "num": 223761,
       "word": "贺峻霖中传用英语自我介绍",
@@ -3665,6 +3713,14 @@
       "onboard_time": 1663247069,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 470075,
+      "num": 470075,
+      "word": "考研英语",
+      "onboard_time": 1663326752,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 469840,
@@ -3769,6 +3825,14 @@
       "onboard_time": 1663062036,
       "rank": 47,
       "category": "科技"
+    },
+    {
+      "raw_hot": 461051,
+      "num": 461051,
+      "word": "白鸽",
+      "onboard_time": 1663330710,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 460818,
@@ -4457,14 +4521,6 @@
       "onboard_time": 1663078780,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 387993,
-      "num": 387993,
-      "word": "考研英语",
-      "onboard_time": 1663326752,
-      "rank": 28,
-      "category": "教育"
     },
     {
       "raw_hot": 386471,
@@ -5217,6 +5273,14 @@
       "onboard_time": 1663287750,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 329333,
+      "num": 329333,
+      "word": "陈宇说我身份从来没变过",
+      "onboard_time": 1663332154,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 328753,
@@ -6155,6 +6219,14 @@
       "category": "教育,情感"
     },
     {
+      "raw_hot": 273131,
+      "num": 200187,
+      "word": "马丽哺乳期带伤拍戏太拼了",
+      "onboard_time": 1663326270,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 272730,
       "num": 272730,
       "word": "小偷走路嗑瓜子民警顺瓜子皮抓人",
@@ -6169,6 +6241,14 @@
       "onboard_time": 1663310367,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 270909,
+      "num": 270909,
+      "word": "如何看待考研缩招",
+      "onboard_time": 1663324773,
+      "rank": 32,
+      "category": "教育,社会议题"
     },
     {
       "raw_hot": 270278,
@@ -6529,14 +6609,6 @@
       "onboard_time": 1663313008,
       "rank": 31,
       "category": "音乐,音乐"
-    },
-    {
-      "raw_hot": 251329,
-      "num": 251329,
-      "word": "如何看待考研缩招",
-      "onboard_time": 1663324773,
-      "rank": 32,
-      "category": "教育,社会议题"
     },
     {
       "raw_hot": 251185,
@@ -7259,6 +7331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 212672,
+      "num": 161521,
+      "word": "星星的约定开播",
+      "onboard_time": 1663328970,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211241,
       "num": 211241,
       "word": "9月13日任天堂直面会",
@@ -7369,6 +7449,14 @@
       "onboard_time": 1663221092,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 205282,
+      "num": 205282,
+      "word": "台风过后海滩上被吹来大量海鲜",
+      "onboard_time": 1663326632,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205039,
@@ -7499,14 +7587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 200187,
-      "num": 200187,
-      "word": "马丽哺乳期带伤拍戏太拼了",
-      "onboard_time": 1663326270,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 200164,
       "num": 200164,
       "word": "香港故宫展出国宝级南宋名画",
@@ -7529,14 +7609,6 @@
       "onboard_time": 1662913714,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 198919,
-      "num": 198919,
-      "word": "台风过后海滩上被吹来大量海鲜",
-      "onboard_time": 1663326632,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 198098,
@@ -7817,6 +7889,14 @@
       "onboard_time": 1663301915,
       "rank": 32,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 184786,
+      "num": 184786,
+      "word": "用面条包了顿饺子",
+      "onboard_time": 1663329989,
+      "rank": 35,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 184342,
@@ -8827,6 +8907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122373,
+      "num": 122373,
+      "word": "成都17日再开展一次全员核酸检测",
+      "onboard_time": 1663332272,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120503,
       "num": 120503,
       "word": "2022护师成绩",
@@ -8963,6 +9051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114956,
+      "num": 114956,
+      "word": "好像找到了变快乐的秘诀",
+      "onboard_time": 1663331910,
+      "rank": 48,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 114356,
       "num": 114356,
       "word": "生活里藏了多少黑科技",
@@ -9089,6 +9185,14 @@
       "onboard_time": 1663234052,
       "rank": 45,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 108443,
+      "num": 108443,
+      "word": "新版道路交通标志国家标准十月起实施",
+      "onboard_time": 1663330651,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107851,
@@ -9881,6 +9985,14 @@
       "onboard_time": 1663293629,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4184,
+      "num": 490307,
+      "word": "原神3.1全球直播",
+      "onboard_time": 1663329629,
+      "rank": 14,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [
