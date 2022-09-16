@@ -1,6 +1,6 @@
 {
   "startTime": 1663259654662,
-  "endTime": 1663320379537,
+  "endTime": 1663321397513,
   "band_list": [
     {
       "raw_hot": 20529209,
@@ -11,12 +11,28 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 2707790,
-      "num": 2707790,
+      "raw_hot": 18813781,
+      "num": 18813781,
+      "word": "长沙高楼火灾",
+      "onboard_time": 1663316848,
+      "rank": 0,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 3362939,
+      "num": 3362939,
       "word": "长沙高楼火灾外部明火已扑灭",
       "onboard_time": 1663319081,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3270559,
+      "num": 3270559,
+      "word": "考研缩招",
+      "onboard_time": 1663318845,
+      "rank": 3,
+      "category": "教育"
     },
     {
       "raw_hot": 2273021,
@@ -33,14 +49,6 @@
       "onboard_time": 1663291288,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2093040,
-      "num": 2093040,
-      "word": "考研缩招",
-      "onboard_time": 1663318845,
-      "rank": 3,
-      "category": "教育"
     },
     {
       "raw_hot": 2038828,
@@ -195,6 +203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1094725,
+      "num": 554285,
+      "word": "南昌一女子遭酒后男子入室猥亵",
+      "onboard_time": 1663319081,
+      "rank": 11,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1082088,
       "num": 1082088,
       "word": "女生考研上岸家人横幅拉满两层楼",
@@ -283,6 +299,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 761949,
+      "num": 761949,
+      "word": "雨天女子车窗被挂6只虾",
+      "onboard_time": 1663318368,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 758910,
       "num": 438384,
       "word": "成华区胜天人居小区志愿者",
@@ -363,14 +387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 588597,
-      "num": 588597,
-      "word": "雨天女子车窗被挂6只虾",
-      "onboard_time": 1663318368,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 583713,
       "num": 583713,
       "word": "BLACKPINK 粉墨",
@@ -393,14 +409,6 @@
       "onboard_time": 1663252121,
       "rank": 4,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 554285,
-      "num": 554285,
-      "word": "南昌一女子遭酒后男子入室猥亵",
-      "onboard_time": 1663319081,
-      "rank": 11,
-      "category": "社会负面"
     },
     {
       "raw_hot": 553764,
@@ -441,6 +449,14 @@
       "onboard_time": 1663307368,
       "rank": 17,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 521877,
+      "num": 521877,
+      "word": "长沙高楼火灾暂未发现人员伤亡",
+      "onboard_time": 1663319920,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 514455,
@@ -521,6 +537,14 @@
       "onboard_time": 1663310785,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 456335,
+      "num": 456335,
+      "word": "胡一天陈钰琪自曝曾被换角",
+      "onboard_time": 1663317519,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 455120,
@@ -612,7 +636,7 @@
     },
     {
       "raw_hot": 395695,
-      "num": 148227,
+      "num": 384780,
       "word": "龚俊白敬亭王鹤棣刘耀文看秀造型",
       "onboard_time": 1663320338,
       "rank": 47,
@@ -657,6 +681,22 @@
       "onboard_time": 1663302033,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 363470,
+      "num": 363470,
+      "word": "电视剧底线",
+      "onboard_time": 1663320815,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 361650,
+      "num": 361650,
+      "word": "考研大纲",
+      "onboard_time": 1663319442,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 360957,
@@ -739,14 +779,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 321718,
-      "num": 321718,
-      "word": "胡一天陈钰琪自曝曾被换角",
-      "onboard_time": 1663317519,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 321467,
       "num": 277943,
       "word": "BLACKPINK空降",
@@ -819,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294178,
+      "num": 294178,
+      "word": "北京一小熊猫逃跑被抓包",
+      "onboard_time": 1663319560,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 292266,
       "num": 292266,
       "word": "多人在易联购小程序抢购iPhone14被骗",
@@ -867,6 +907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 278195,
+      "num": 278195,
+      "word": "罗一舟国家话剧院演出照",
+      "onboard_time": 1663320876,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 277270,
       "num": 277270,
       "word": "朱嘉琦淘汰",
@@ -883,6 +931,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 273753,
+      "num": 273753,
+      "word": "中方制裁参与售台武器的美方相关人士",
+      "onboard_time": 1663319264,
+      "rank": 37,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 271347,
       "num": 248481,
       "word": "任贤齐苏有朋林峯阿嬷的话",
@@ -897,14 +953,6 @@
       "onboard_time": 1663296632,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 267568,
-      "num": 267568,
-      "word": "长沙高楼火灾暂未发现人员伤亡",
-      "onboard_time": 1663319920,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 263256,
@@ -1131,22 +1179,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 202811,
-      "num": 202811,
-      "word": "北京一小熊猫逃跑被抓包",
-      "onboard_time": 1663319560,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196585,
-      "num": 196585,
-      "word": "中方制裁参与售台武器的美方相关人士",
-      "onboard_time": 1663319264,
-      "rank": 37,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 196250,
       "num": 196250,
       "word": "88位英雄踏上回家路",
@@ -1188,7 +1220,7 @@
     },
     {
       "raw_hot": 188648,
-      "num": 2391197,
+      "num": 3274788,
       "word": "88名在韩志愿军烈士回家",
       "onboard_time": 1663297234,
       "rank": 14,
@@ -1211,20 +1243,20 @@
       "category": "情感,教育"
     },
     {
-      "raw_hot": 184624,
-      "num": 184624,
-      "word": "考研大纲",
-      "onboard_time": 1663319442,
-      "rank": 39,
-      "category": "教育"
-    },
-    {
       "raw_hot": 183191,
       "num": 155217,
       "word": "苏醒程璐赵晓卉吐槽职场不说人话",
       "onboard_time": 1663312589,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178645,
+      "num": 178645,
+      "word": "为什么劝年轻人远离股市",
+      "onboard_time": 1663320044,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 175467,
@@ -1347,14 +1379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160225,
-      "num": 160225,
-      "word": "为什么劝年轻人远离股市",
-      "onboard_time": 1663320044,
-      "rank": 45,
-      "category": "财经"
-    },
-    {
       "raw_hot": 155726,
       "num": 155726,
       "word": "学长在新生军训场外狂炫奶茶",
@@ -1395,6 +1419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145963,
+      "num": 145963,
+      "word": "第一次见在操场上游泳的鱼",
+      "onboard_time": 1663320580,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 144083,
       "num": 144083,
       "word": "猫猫过上了我的理想生活",
@@ -1409,6 +1441,14 @@
       "onboard_time": 1663252961,
       "rank": 26,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 139966,
+      "num": 139966,
+      "word": "弟弟酒驾离开哥哥不放心酒驾追来",
+      "onboard_time": 1663320998,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130403,
