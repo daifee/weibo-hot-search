@@ -1,6 +1,6 @@
 {
   "startTime": 1663259654662,
-  "endTime": 1663298665083,
+  "endTime": 1663304049531,
   "band_list": [
     {
       "raw_hot": 2124625,
@@ -11,12 +11,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1931589,
+      "num": 1361534,
+      "word": "妻子患尿毒症丈夫3次起诉离婚获准",
+      "onboard_time": 1663299751,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1881957,
       "num": 1881957,
       "word": "停止内耗的9个建议",
       "onboard_time": 1663285346,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1713832,
+      "num": 1379293,
+      "word": "用户发现iPhone14灵动岛色差严重",
+      "onboard_time": 1663299811,
+      "rank": 1,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 1360711,
+      "num": 1360711,
+      "word": "天津发现多管社会面核酸样本异常",
+      "onboard_time": 1663298912,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1309961,
+      "num": 1309961,
+      "word": "BLACKPINK新歌发行",
+      "onboard_time": 1663301613,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 1275127,
@@ -33,6 +65,14 @@
       "onboard_time": 1663298133,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1114039,
+      "num": 1114039,
+      "word": "男子称再婚难向妻子要离婚补偿",
+      "onboard_time": 1663299751,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1098524,
@@ -56,6 +96,14 @@
       "word": "霍麻辣没了",
       "onboard_time": 1663257212,
       "rank": 3,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 1015914,
+      "num": 610996,
+      "word": "任权 于希涵",
+      "onboard_time": 1663298850,
+      "rank": 10,
       "category": "网红"
     },
     {
@@ -123,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 633645,
+      "num": 633645,
+      "word": "灵动岛",
+      "onboard_time": 1663297651,
+      "rank": 12,
+      "category": "科技"
+    },
+    {
       "raw_hot": 624242,
       "num": 535594,
       "word": "4岁孩子担心家中变故患抑郁症",
@@ -145,6 +201,14 @@
       "onboard_time": 1663294651,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 578614,
+      "num": 578614,
+      "word": "女生考研上岸家人横幅拉满两层楼",
+      "onboard_time": 1663301675,
+      "rank": 11,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 576946,
@@ -171,6 +235,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 546729,
+      "num": 546729,
+      "word": "10岁娃睡迷糊翻窗坠落至22楼外",
+      "onboard_time": 1663298431,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 545654,
       "num": 545654,
       "word": "女生走出精神内耗后有多爽",
@@ -185,6 +257,14 @@
       "onboard_time": 1663294471,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 513311,
+      "num": 513311,
+      "word": "很想很想你",
+      "onboard_time": 1663298013,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 507389,
@@ -227,14 +307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 454692,
-      "num": 454692,
-      "word": "灵动岛",
-      "onboard_time": 1663297651,
-      "rank": 12,
-      "category": "科技"
-    },
-    {
       "raw_hot": 446916,
       "num": 425884,
       "word": "王鹤棣在密逃被吓到大喘气",
@@ -249,6 +321,22 @@
       "onboard_time": 1663246352,
       "rank": 14,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 429119,
+      "num": 429119,
+      "word": "比亚迪回应美国禁用中国电池传闻",
+      "onboard_time": 1663300113,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 421374,
+      "num": 421374,
+      "word": "陆炎三千年初吻没了",
+      "onboard_time": 1663302392,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 412813,
@@ -275,12 +363,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 348265,
+      "num": 348265,
+      "word": "苹果确认iOS16存漏洞影响新机激活",
+      "onboard_time": 1663302631,
+      "rank": 21,
+      "category": "科技"
+    },
+    {
       "raw_hot": 342902,
       "num": 342902,
       "word": "玉骨遥",
       "onboard_time": 1663297651,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 338795,
+      "num": 338795,
+      "word": "歼20为运20护航画面",
+      "onboard_time": 1663299150,
+      "rank": 22,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 331047,
@@ -363,6 +467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 275365,
+      "num": 275365,
+      "word": "iPhone14卫星通讯功能将支持更多地区",
+      "onboard_time": 1663300893,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
       "raw_hot": 267789,
       "num": 267789,
       "word": "LOL手游灵罗娃娃",
@@ -377,6 +489,14 @@
       "onboard_time": 1663290029,
       "rank": 20,
       "category": "科技"
+    },
+    {
+      "raw_hot": 257670,
+      "num": 104977,
+      "word": "见面吧就现在",
+      "onboard_time": 1663304014,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 255372,
@@ -419,6 +539,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 245450,
+      "num": 245450,
+      "word": "金价下跌杭州年轻人成购买主力",
+      "onboard_time": 1663302033,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 237392,
+      "num": 237392,
+      "word": "杨超越直播",
+      "onboard_time": 1663302873,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231758,
       "num": 231758,
       "word": "虞书欣新剧相亲对象是觞阙",
@@ -433,14 +569,6 @@
       "onboard_time": 1663284383,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 221049,
-      "num": 221049,
-      "word": "很想很想你",
-      "onboard_time": 1663298013,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 219022,
@@ -515,6 +643,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 180046,
+      "num": 180046,
+      "word": "大龄高考是在浪费资源吗",
+      "onboard_time": 1663301915,
+      "rank": 32,
+      "category": "情感,教育"
+    },
+    {
+      "raw_hot": 179794,
+      "num": 179794,
+      "word": "阿那亚大秀",
+      "onboard_time": 1663303710,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 175467,
       "num": 175467,
       "word": "恋爱遭家里反对小伙爬上10米高塔",
@@ -587,6 +731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 161174,
+      "num": 161174,
+      "word": "歼20超低空飞行致敬英烈",
+      "onboard_time": 1663301316,
+      "rank": 35,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 160429,
       "num": 160429,
       "word": "宝宝刚出生就像混入了中年圈",
@@ -611,6 +763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145074,
+      "num": 145074,
+      "word": "学长在新生军训场外狂炫奶茶",
+      "onboard_time": 1663301132,
+      "rank": 36,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 144083,
       "num": 144083,
       "word": "猫猫过上了我的理想生活",
@@ -627,20 +787,28 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 141758,
+      "num": 141758,
+      "word": "魏大勋父子重现沙发二子名场面",
+      "onboard_time": 1663303774,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 138961,
+      "num": 138961,
+      "word": "王勉说自己不去脱口秀的原因",
+      "onboard_time": 1663302573,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130403,
       "num": 130403,
       "word": "运20搭载88位志愿军烈士遗骸起飞回国",
       "onboard_time": 1663293993,
       "rank": 39,
       "category": "国内要闻,军事"
-    },
-    {
-      "raw_hot": 129585,
-      "num": 129585,
-      "word": "10岁娃睡迷糊翻窗坠落至22楼外",
-      "onboard_time": 1663298431,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129234,
@@ -665,6 +833,14 @@
       "onboard_time": 1663226190,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 124497,
+      "num": 124497,
+      "word": "郑州商城贵族墓葬首次发现金面罩",
+      "onboard_time": 1663298672,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123337,
@@ -747,6 +923,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 114387,
+      "num": 114387,
+      "word": "理想汽车法务部官微第一条起诉通告",
+      "onboard_time": 1663303774,
+      "rank": 44,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 113966,
       "num": 113966,
       "word": "TES世界赛新造型",
@@ -771,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107550,
+      "num": 107550,
+      "word": "接迎志愿军忠烈的机长与塔台对话",
+      "onboard_time": 1663302093,
+      "rank": 45,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 106682,
       "num": 106682,
       "word": "女子网购鸡胸肉一捏似豆腐",
@@ -785,6 +977,22 @@
       "onboard_time": 1663297411,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 106022,
+      "num": 106022,
+      "word": "94岁太爷爷骑1小时三轮车看望重孙",
+      "onboard_time": 1663303710,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102696,
+      "num": 102696,
+      "word": "养两只狗有多快乐",
+      "onboard_time": 1663304014,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 99350,
@@ -964,11 +1172,19 @@
     },
     {
       "raw_hot": 49409,
-      "num": 1174765,
+      "num": 1361922,
       "word": "打击网络谣言共建清朗家园",
       "onboard_time": 1663240711,
       "rank": 2,
       "category": "其它"
+    },
+    {
+      "raw_hot": 49203,
+      "num": 475147,
+      "word": "你们的牺牲和奉献我们永志不忘",
+      "onboard_time": 1663301255,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 48348,
