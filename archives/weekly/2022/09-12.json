@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663327235780,
+  "endTime": 1663328269428,
   "band_list": [
     {
       "raw_hot": 20529209,
@@ -803,6 +803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1532718,
+      "num": 1532718,
+      "word": "杜淳说绝不允许女儿出国上学",
+      "onboard_time": 1663323691,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1518132,
       "num": 1518132,
       "word": "B站诉争哔哩哔哩商标被驳回",
@@ -1171,14 +1179,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1228870,
-      "num": 1228870,
-      "word": "杜淳说绝不允许女儿出国上学",
-      "onboard_time": 1663323691,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1223157,
       "num": 1223157,
       "word": "男子私下称53岁老板为老太太被辞退",
@@ -1193,6 +1193,14 @@
       "onboard_time": 1663164334,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1208056,
+      "num": 1208056,
+      "word": "中国政府决定制裁波音防务公司CEO",
+      "onboard_time": 1663324232,
+      "rank": 33,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1207970,
@@ -1313,6 +1321,14 @@
       "onboard_time": 1663139368,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1141964,
+      "num": 1141964,
+      "word": "电视剧底线",
+      "onboard_time": 1663320815,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 1139053,
@@ -1587,14 +1603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1027233,
-      "num": 1027233,
-      "word": "电视剧底线",
-      "onboard_time": 1663320815,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1025639,
       "num": 1025639,
       "word": "夫妻疑因吵架把狗推下4楼",
@@ -1787,6 +1795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 929854,
+      "num": 929854,
+      "word": "成都沃尔玛现3238元天价白菜",
+      "onboard_time": 1663322913,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 929618,
       "num": 929618,
       "word": "陆虎的真实身份是艺人统筹吧",
@@ -1833,14 +1849,6 @@
       "onboard_time": 1663120349,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 919410,
-      "num": 919410,
-      "word": "成都沃尔玛现3238元天价白菜",
-      "onboard_time": 1663322913,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 914474,
@@ -2171,14 +2179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 793325,
-      "num": 793325,
-      "word": "中国政府决定制裁波音防务公司CEO",
-      "onboard_time": 1663324232,
-      "rank": 33,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 792370,
       "num": 461936,
       "word": "王嘉尔四天连开三场海外签售",
@@ -2451,6 +2451,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 712119,
+      "num": 712119,
+      "word": "男子花15万买iPhone平台疑跑路",
+      "onboard_time": 1663322855,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 711263,
       "num": 608353,
       "word": "西藏新增无症状感染者60例",
@@ -2592,14 +2600,6 @@
       "word": "成都疫情防控",
       "onboard_time": 1662902989,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 668956,
-      "num": 668956,
-      "word": "男子花15万买iPhone平台疑跑路",
-      "onboard_time": 1663322855,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -2745,6 +2745,14 @@
       "onboard_time": 1662894227,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 625793,
+      "num": 625793,
+      "word": "王鹤棣 潮人不怕热",
+      "onboard_time": 1663325613,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 621010,
@@ -3507,14 +3515,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 491505,
-      "num": 375106,
-      "word": "王鹤棣 潮人不怕热",
-      "onboard_time": 1663325613,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 490657,
       "num": 411065,
       "word": "欢迎来到蘑菇屋",
@@ -3617,6 +3617,14 @@
       "onboard_time": 1662991483,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 474263,
+      "num": 474263,
+      "word": "女子野山摘了一株花被刑拘",
+      "onboard_time": 1663325852,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 473859,
@@ -4001,6 +4009,14 @@
       "onboard_time": 1663075834,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 429692,
+      "num": 429692,
+      "word": "iPhone14提前发货",
+      "onboard_time": 1663325131,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 429556,
@@ -4403,14 +4419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 392473,
-      "num": 392473,
-      "word": "iPhone14提前发货",
-      "onboard_time": 1663325131,
-      "rank": 49,
-      "category": "科技"
-    },
-    {
       "raw_hot": 391611,
       "num": 391611,
       "word": "你觉得搞科研的女生酷吗",
@@ -4449,6 +4457,14 @@
       "onboard_time": 1663078780,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 387993,
+      "num": 387993,
+      "word": "考研英语",
+      "onboard_time": 1663326752,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 386471,
@@ -5100,7 +5116,7 @@
     },
     {
       "raw_hot": 333173,
-      "num": 249386,
+      "num": 290786,
       "word": "中餐厅合伙人全员晒体重",
       "onboard_time": 1663325312,
       "rank": 30,
@@ -5633,14 +5649,6 @@
       "onboard_time": 1663318368,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 302200,
-      "num": 302200,
-      "word": "女子野山摘了一株花被刑拘",
-      "onboard_time": 1663325852,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 300669,
@@ -6331,14 +6339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 264047,
-      "num": 264047,
-      "word": "考研英语",
-      "onboard_time": 1663326752,
-      "rank": 28,
-      "category": "教育"
-    },
-    {
       "raw_hot": 263713,
       "num": 263713,
       "word": "羊了个羊真的很烦人",
@@ -6531,6 +6531,14 @@
       "category": "音乐,音乐"
     },
     {
+      "raw_hot": 251329,
+      "num": 251329,
+      "word": "如何看待考研缩招",
+      "onboard_time": 1663324773,
+      "rank": 32,
+      "category": "教育,社会议题"
+    },
+    {
       "raw_hot": 251185,
       "num": 251185,
       "word": "唐嫣初秋毛衣随拍",
@@ -6657,6 +6665,14 @@
       "onboard_time": 1663199730,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 244958,
+      "num": 244958,
+      "word": "长沙应急管理局回应电信大楼着火",
+      "onboard_time": 1663323811,
+      "rank": 46,
+      "category": "社会负面"
     },
     {
       "raw_hot": 243760,
@@ -6809,14 +6825,6 @@
       "onboard_time": 1662905633,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 236045,
-      "num": 236045,
-      "word": "如何看待考研缩招",
-      "onboard_time": 1663324773,
-      "rank": 32,
-      "category": "教育,社会议题"
     },
     {
       "raw_hot": 235884,
@@ -7491,6 +7499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200187,
+      "num": 200187,
+      "word": "马丽哺乳期带伤拍戏太拼了",
+      "onboard_time": 1663326270,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 200164,
       "num": 200164,
       "word": "香港故宫展出国宝级南宋名画",
@@ -7513,6 +7529,14 @@
       "onboard_time": 1662913714,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198919,
+      "num": 198919,
+      "word": "台风过后海滩上被吹来大量海鲜",
+      "onboard_time": 1663326632,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198098,
@@ -7923,14 +7947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 176340,
-      "num": 176340,
-      "word": "长沙应急管理局回应电信大楼着火",
-      "onboard_time": 1663323811,
-      "rank": 46,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 176157,
       "num": 176157,
       "word": "鬼吹灯团建式cue开工",
@@ -8099,14 +8115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 168135,
-      "num": 168135,
-      "word": "马丽哺乳期带伤拍戏太拼了",
-      "onboard_time": 1663326270,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 167664,
       "num": 167664,
       "word": "谭松韵新剧归路状态",
@@ -8241,6 +8249,14 @@
       "onboard_time": 1663302573,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160041,
+      "num": 160041,
+      "word": "考研政治",
+      "onboard_time": 1663327350,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 159200,
@@ -8443,14 +8459,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 145049,
-      "num": 145049,
-      "word": "台风过后海滩上被吹来大量海鲜",
-      "onboard_time": 1663326632,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145011,
       "num": 145011,
       "word": "熊猫的背影有多萌",
@@ -8497,6 +8505,14 @@
       "onboard_time": 1663164995,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141294,
+      "num": 141294,
+      "word": "妈妈帮女儿装房子秒变老年风",
+      "onboard_time": 1663327830,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140864,
@@ -9692,7 +9708,7 @@
     },
     {
       "raw_hot": 18025,
-      "num": 575710,
+      "num": 584425,
       "word": "没见过这么想凉的脱毛仪",
       "onboard_time": 1663326871,
       "rank": 14,

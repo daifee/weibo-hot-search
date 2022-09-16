@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/16 19:20:35
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/16 19:37:49
 </p>
 </blockquote>
 <p>
@@ -2085,6 +2085,12 @@ iPhone14颜色（热度：1547377）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B7%B3%E8%AF%B4%E7%BB%9D%E4%B8%8D%E5%85%81%E8%AE%B8%E5%A5%B3%E5%84%BF%E5%87%BA%E5%9B%BD%E4%B8%8A%E5%AD%A6%23" target="weibo">
+杜淳说绝不允许女儿出国上学（热度：1532718）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BF%9E%E5%90%83%E6%95%B0%E9%A1%BF%E7%81%AB%E9%94%85%E8%A1%80%E6%88%90%E7%89%9B%E5%A5%B6%E8%89%B2%23" target="weibo">
 女子连吃数顿火锅血成牛奶色（热度：1531932）
 </a>
@@ -3021,12 +3027,6 @@ Twins不承认吴谨言的粤语是自己教的（热度：1255504）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B7%B3%E8%AF%B4%E7%BB%9D%E4%B8%8D%E5%85%81%E8%AE%B8%E5%A5%B3%E5%84%BF%E5%87%BA%E5%9B%BD%E4%B8%8A%E5%AD%A6%23" target="weibo">
-杜淳说绝不允许女儿出国上学（热度：1228870）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A0%8E%E9%91%AB%E7%BB%99%E5%AE%A0%E7%89%A9%E7%8C%AA%E5%8F%96%E5%90%8Dallen%23" target="weibo">
 王栎鑫给宠物猪取名allen（热度：1227386）
 </a>
@@ -3089,6 +3089,12 @@ Twins不承认吴谨言的粤语是自己教的（热度：1255504）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E4%BF%A1%E5%81%8F%E6%96%B9%E8%AE%A98%E5%B2%81%E5%A5%B3%E5%84%BF%E6%8A%BD%E6%97%B1%E7%83%9F%E6%B2%BB%E8%84%B8%E9%BB%84%23" target="weibo">
 父亲信偏方让8岁女儿抽旱烟治脸黄（热度：1208599）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%86%B3%E5%AE%9A%E5%88%B6%E8%A3%81%E6%B3%A2%E9%9F%B3%E9%98%B2%E5%8A%A1%E5%85%AC%E5%8F%B8CEO%23" target="weibo">
+中国政府决定制裁波音防务公司CEO（热度：1208056）
 </a>
 </li>
 
@@ -3335,6 +3341,12 @@ boss直聘公示涉性骚扰违规账号（热度：1144916）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%B0%A2%E6%B0%94%E7%90%83%E5%B8%A6%E8%B5%B0%E7%94%B7%E5%AD%90%E9%A3%98%E4%BA%86300%E5%A4%9A%E5%85%AC%E9%87%8C%23" target="weibo">
 被氢气球带走男子飘了300多公里（热度：1144800）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E8%A7%86%E5%89%A7%E5%BA%95%E7%BA%BF%23" target="weibo">
+电视剧底线（热度：1141964）
 </a>
 </li>
 
@@ -3953,12 +3965,6 @@ iPhone14Pro系列占中国订单85%（热度：1059806）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E4%B8%8E%E6%88%88%E5%B0%94%E5%B7%B4%E4%B9%94%E5%A4%AB%E9%81%97%E4%BD%93%E5%91%8A%E5%88%AB%23" target="weibo">
 普京与戈尔巴乔夫遗体告别（热度：1027764）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E8%A7%86%E5%89%A7%E5%BA%95%E7%BA%BF%23" target="weibo">
-电视剧底线（热度：1027233）
 </a>
 </li>
 
@@ -4593,6 +4599,12 @@ iPhone14涨价或低于预期（热度：932859）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E6%B2%83%E5%B0%94%E7%8E%9B%E7%8E%B03238%E5%85%83%E5%A4%A9%E4%BB%B7%E7%99%BD%E8%8F%9C%23" target="weibo">
+成都沃尔玛现3238元天价白菜（热度：929854）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%86%E8%99%8E%E7%9A%84%E7%9C%9F%E5%AE%9E%E8%BA%AB%E4%BB%BD%E6%98%AF%E8%89%BA%E4%BA%BA%E7%BB%9F%E7%AD%B9%E5%90%A7%23" target="weibo">
 陆虎的真实身份是艺人统筹吧（热度：929618）
 </a>
@@ -4721,12 +4733,6 @@ LPL三号种子EDG（热度：926061）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E6%8B%A5%E6%9C%89%E5%A4%A7%E5%AD%A6%E6%96%87%E5%8C%96%E7%A8%8B%E5%BA%A6%E7%9A%84%E4%BA%BA%E5%8F%A3%E8%B6%852.18%E4%BA%BF%23" target="weibo">
 全国拥有大学文化程度的人口超2.18亿（热度：920567）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E6%B2%83%E5%B0%94%E7%8E%9B%E7%8E%B03238%E5%85%83%E5%A4%A9%E4%BB%B7%E7%99%BD%E8%8F%9C%23" target="weibo">
-成都沃尔玛现3238元天价白菜（热度：919410）
 </a>
 </li>
 
@@ -5603,12 +5609,6 @@ Angelababy说我是露娜画中见（热度：808989）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Ale%23" target="weibo">
 Ale（热度：793817）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%86%B3%E5%AE%9A%E5%88%B6%E8%A3%81%E6%B3%A2%E9%9F%B3%E9%98%B2%E5%8A%A1%E5%85%AC%E5%8F%B8CEO%23" target="weibo">
-中国政府决定制裁波音防务公司CEO（热度：793325）
 </a>
 </li>
 

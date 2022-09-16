@@ -1,6 +1,6 @@
 {
   "startTime": 1663259654662,
-  "endTime": 1663327235780,
+  "endTime": 1663328269428,
   "band_list": [
     {
       "raw_hot": 20529209,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1532718,
+      "num": 1532718,
+      "word": "杜淳说绝不允许女儿出国上学",
+      "onboard_time": 1663323691,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1348579,
       "num": 1276574,
       "word": "A股",
@@ -179,12 +187,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1228870,
-      "num": 1228870,
-      "word": "杜淳说绝不允许女儿出国上学",
-      "onboard_time": 1663323691,
-      "rank": 34,
-      "category": "综艺"
+      "raw_hot": 1208056,
+      "num": 1208056,
+      "word": "中国政府决定制裁波音防务公司CEO",
+      "onboard_time": 1663324232,
+      "rank": 33,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1185895,
@@ -193,6 +201,14 @@
       "onboard_time": 1663319081,
       "rank": 11,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1141964,
+      "num": 1141964,
+      "word": "电视剧底线",
+      "onboard_time": 1663320815,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 1133700,
@@ -259,14 +275,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1027233,
-      "num": 1027233,
-      "word": "电视剧底线",
-      "onboard_time": 1663320815,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1015914,
       "num": 610996,
       "word": "任权 于希涵",
@@ -291,8 +299,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 919410,
-      "num": 919410,
+      "raw_hot": 929854,
+      "num": 929854,
       "word": "成都沃尔玛现3238元天价白菜",
       "onboard_time": 1663322913,
       "rank": 16,
@@ -339,14 +347,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 793325,
-      "num": 793325,
-      "word": "中国政府决定制裁波音防务公司CEO",
-      "onboard_time": 1663324232,
-      "rank": 33,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 761949,
       "num": 761949,
       "word": "雨天女子车窗被挂6只虾",
@@ -387,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 712119,
+      "num": 712119,
+      "word": "男子花15万买iPhone平台疑跑路",
+      "onboard_time": 1663322855,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 682538,
       "num": 682538,
       "word": "苹果确认iOS16存漏洞影响新机激活",
@@ -400,14 +408,6 @@
       "word": "95后大厂女生裸辞进养老院做义工",
       "onboard_time": 1663295849,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 668956,
-      "num": 668956,
-      "word": "男子花15万买iPhone平台疑跑路",
-      "onboard_time": 1663322855,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -425,6 +425,14 @@
       "onboard_time": 1663297651,
       "rank": 12,
       "category": "科技"
+    },
+    {
+      "raw_hot": 625793,
+      "num": 625793,
+      "word": "王鹤棣 潮人不怕热",
+      "onboard_time": 1663325613,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 624242,
@@ -579,14 +587,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 491505,
-      "num": 375106,
-      "word": "王鹤棣 潮人不怕热",
-      "onboard_time": 1663325613,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 489017,
       "num": 489017,
       "word": "金智秀声音",
@@ -625,6 +625,14 @@
       "onboard_time": 1663252782,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 474263,
+      "num": 474263,
+      "word": "女子野山摘了一株花被刑拘",
+      "onboard_time": 1663325852,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 473344,
@@ -673,6 +681,14 @@
       "onboard_time": 1663246352,
       "rank": 14,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 429692,
+      "num": 429692,
+      "word": "iPhone14提前发货",
+      "onboard_time": 1663325131,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 429119,
@@ -747,12 +763,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 392473,
-      "num": 392473,
-      "word": "iPhone14提前发货",
-      "onboard_time": 1663325131,
-      "rank": 49,
-      "category": "科技"
+      "raw_hot": 387993,
+      "num": 387993,
+      "word": "考研英语",
+      "onboard_time": 1663326752,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 384067,
@@ -876,7 +892,7 @@
     },
     {
       "raw_hot": 333173,
-      "num": 249386,
+      "num": 290786,
       "word": "中餐厅合伙人全员晒体重",
       "onboard_time": 1663325312,
       "rank": 30,
@@ -977,14 +993,6 @@
       "onboard_time": 1663318368,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 302200,
-      "num": 302200,
-      "word": "女子野山摘了一株花被刑拘",
-      "onboard_time": 1663325852,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 301603,
@@ -1107,14 +1115,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 264047,
-      "num": 264047,
-      "word": "考研英语",
-      "onboard_time": 1663326752,
-      "rank": 28,
-      "category": "教育"
-    },
-    {
       "raw_hot": 263256,
       "num": 233645,
       "word": "冰雨火",
@@ -1187,6 +1187,14 @@
       "category": "音乐,音乐"
     },
     {
+      "raw_hot": 251329,
+      "num": 251329,
+      "word": "如何看待考研缩招",
+      "onboard_time": 1663324773,
+      "rank": 32,
+      "category": "教育,社会议题"
+    },
+    {
       "raw_hot": 250379,
       "num": 250379,
       "word": "中产家庭一年养娃花多少钱",
@@ -1211,6 +1219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 244958,
+      "num": 244958,
+      "word": "长沙应急管理局回应电信大楼着火",
+      "onboard_time": 1663323811,
+      "rank": 46,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 243760,
       "num": 215292,
       "word": "陈小春张智霖同盟第一",
@@ -1225,14 +1241,6 @@
       "onboard_time": 1663302873,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 236045,
-      "num": 236045,
-      "word": "如何看待考研缩招",
-      "onboard_time": 1663324773,
-      "rank": 32,
-      "category": "教育,社会议题"
     },
     {
       "raw_hot": 231758,
@@ -1355,6 +1363,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 200187,
+      "num": 200187,
+      "word": "马丽哺乳期带伤拍戏太拼了",
+      "onboard_time": 1663326270,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 198919,
+      "num": 198919,
+      "word": "台风过后海滩上被吹来大量海鲜",
+      "onboard_time": 1663326632,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196250,
       "num": 196250,
       "word": "88位英雄踏上回家路",
@@ -1427,14 +1451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 176340,
-      "num": 176340,
-      "word": "长沙应急管理局回应电信大楼着火",
-      "onboard_time": 1663323811,
-      "rank": 46,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 175467,
       "num": 175467,
       "word": "恋爱遭家里反对小伙爬上10米高塔",
@@ -1489,14 +1505,6 @@
       "onboard_time": 1663311927,
       "rank": 47,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 168135,
-      "num": 168135,
-      "word": "马丽哺乳期带伤拍戏太拼了",
-      "onboard_time": 1663326270,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 166616,
@@ -1563,6 +1571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160041,
+      "num": 160041,
+      "word": "考研政治",
+      "onboard_time": 1663327350,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 155726,
       "num": 155726,
       "word": "学长在新生军训场外狂炫奶茶",
@@ -1611,14 +1627,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 145049,
-      "num": 145049,
-      "word": "台风过后海滩上被吹来大量海鲜",
-      "onboard_time": 1663326632,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 144083,
       "num": 144083,
       "word": "猫猫过上了我的理想生活",
@@ -1633,6 +1641,14 @@
       "onboard_time": 1663252961,
       "rank": 26,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 141294,
+      "num": 141294,
+      "word": "妈妈帮女儿装房子秒变老年风",
+      "onboard_time": 1663327830,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130403,
@@ -2124,7 +2140,7 @@
     },
     {
       "raw_hot": 18025,
-      "num": 575710,
+      "num": 584425,
       "word": "没见过这么想凉的脱毛仪",
       "onboard_time": 1663326871,
       "rank": 14,
