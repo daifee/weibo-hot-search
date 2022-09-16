@@ -1,6 +1,6 @@
 {
   "startTime": 1663259654662,
-  "endTime": 1663336426455,
+  "endTime": 1663337152045,
   "band_list": [
     {
       "raw_hot": 20529209,
@@ -339,6 +339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 953439,
+      "num": 953439,
+      "word": "你喝过便宜又好喝的奶茶吗",
+      "onboard_time": 1663333298,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 929854,
       "num": 929854,
       "word": "成都沃尔玛现3238元天价白菜",
@@ -449,14 +457,6 @@
       "onboard_time": 1663319442,
       "rank": 39,
       "category": "教育"
-    },
-    {
-      "raw_hot": 723380,
-      "num": 723380,
-      "word": "你喝过便宜又好喝的奶茶吗",
-      "onboard_time": 1663333298,
-      "rank": 26,
-      "category": "美食"
     },
     {
       "raw_hot": 714559,
@@ -755,19 +755,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 455778,
+      "num": 455778,
+      "word": "男子刷短视频赚红包提现遭拒胜诉",
+      "onboard_time": 1663332034,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 455120,
       "num": 455120,
       "word": "天津新增",
       "onboard_time": 1663291228,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 449933,
-      "num": 449933,
-      "word": "男子刷短视频赚红包提现遭拒胜诉",
-      "onboard_time": 1663332034,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -939,6 +939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 350724,
+      "num": 350724,
+      "word": "腰好像一下子就舒服了",
+      "onboard_time": 1663335814,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 348755,
       "num": 348755,
       "word": "天津新增36例本土阳性",
@@ -977,6 +985,14 @@
       "onboard_time": 1663326927,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 339157,
+      "num": 300589,
+      "word": "颖儿全素颜出演新剧",
+      "onboard_time": 1663335033,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 338795,
@@ -1075,12 +1091,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 315950,
+      "num": 300299,
+      "word": "请君刚甜就开虐",
+      "onboard_time": 1663336714,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 315122,
       "num": 315122,
       "word": "一帧封神的Rose",
       "onboard_time": 1663316911,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 312609,
+      "num": 312609,
+      "word": "原神散兵",
+      "onboard_time": 1663334912,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 312566,
@@ -1096,14 +1128,6 @@
       "word": "檀健次周也新剧开机",
       "onboard_time": 1663296991,
       "rank": 21,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 311034,
-      "num": 211340,
-      "word": "颖儿全素颜出演新剧",
-      "onboard_time": 1663335033,
-      "rank": 31,
       "category": "影视"
     },
     {
@@ -1147,6 +1171,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 295851,
+      "num": 295851,
+      "word": "大爷外出避暑一个月家中漏水458吨",
+      "onboard_time": 1663336113,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294830,
       "num": 294830,
       "word": "老人请落魄男子到家吃饭反遭盗窃",
@@ -1161,6 +1193,14 @@
       "onboard_time": 1663334671,
       "rank": 24,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 292676,
+      "num": 292676,
+      "word": "专家称重庆猴痘疫情传播风险很低",
+      "onboard_time": 1663336955,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 292266,
@@ -1275,11 +1315,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 264434,
-      "num": 264434,
-      "word": "原神散兵",
-      "onboard_time": 1663334912,
-      "rank": 25,
+      "raw_hot": 263824,
+      "num": 263824,
+      "word": "阿贝多",
+      "onboard_time": 1663334975,
+      "rank": 27,
       "category": "游戏"
     },
     {
@@ -1371,6 +1411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 248215,
+      "num": 248215,
+      "word": "哪一刻你后悔没有好好读书",
+      "onboard_time": 1663333775,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 246755,
       "num": 246755,
       "word": "两个人的小森林",
@@ -1393,22 +1441,6 @@
       "onboard_time": 1663311564,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 242135,
-      "num": 242135,
-      "word": "哪一刻你后悔没有好好读书",
-      "onboard_time": 1663333775,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 239398,
-      "num": 239398,
-      "word": "阿贝多",
-      "onboard_time": 1663334975,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 237392,
@@ -1539,6 +1571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206688,
+      "num": 206688,
+      "word": "小猫让我得了红眼病",
+      "onboard_time": 1663335333,
+      "rank": 35,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 206235,
       "num": 221635,
       "word": "梅花为本世纪首个登陆辽宁的台风",
@@ -1571,6 +1611,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 199937,
+      "num": 164877,
+      "word": "郑云龙带人形生物回上海",
+      "onboard_time": 1663336353,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 196250,
       "num": 196250,
       "word": "88位英雄踏上回家路",
@@ -1579,28 +1627,12 @@
       "category": "国内要闻,军事"
     },
     {
-      "raw_hot": 194992,
-      "num": 194992,
-      "word": "腰好像一下子就舒服了",
-      "onboard_time": 1663335814,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 194253,
       "num": 194253,
       "word": "贺峻霖主持大影节登上学习强国",
       "onboard_time": 1663256437,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 193432,
-      "num": 193432,
-      "word": "小猫让我得了红眼病",
-      "onboard_time": 1663335333,
-      "rank": 35,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 192481,
@@ -1657,14 +1689,6 @@
       "onboard_time": 1663312589,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 182221,
-      "num": 158338,
-      "word": "郑云龙带人形生物回上海",
-      "onboard_time": 1663336353,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 175467,
@@ -1817,14 +1841,6 @@
       "onboard_time": 1663307368,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 154379,
-      "num": 154379,
-      "word": "大爷外出避暑一个月家中漏水458吨",
-      "onboard_time": 1663336113,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 153216,
@@ -2065,6 +2081,14 @@
       "onboard_time": 1663286607,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 113965,
+      "num": 113965,
+      "word": "专家称预制菜如同猪狗食",
+      "onboard_time": 1663336832,
+      "rank": 49,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 112313,
@@ -2315,6 +2339,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 59648,
+      "num": 1350423,
+      "word": "谁是最可爱的人接力诵读",
+      "onboard_time": 1663335154,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 57043,
       "num": 57043,
       "word": "落霞与白鹭齐飞原来这么美",
@@ -2345,14 +2377,6 @@
       "onboard_time": 1663240711,
       "rank": 2,
       "category": "其它"
-    },
-    {
-      "raw_hot": 48562,
-      "num": 1350423,
-      "word": "谁是最可爱的人接力诵读",
-      "onboard_time": 1663335154,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 48348,
