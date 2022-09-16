@@ -1,10 +1,10 @@
 {
   "startTime": 1663259654662,
-  "endTime": 1663295982019,
+  "endTime": 1663298665083,
   "band_list": [
     {
       "raw_hot": 2124625,
-      "num": 759945,
+      "num": 1140030,
       "word": "女孩穿露脐装被陌生女子说不得体",
       "onboard_time": 1663291288,
       "rank": 3,
@@ -19,8 +19,24 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1275127,
+      "num": 1275127,
+      "word": "研招网",
+      "onboard_time": 1663295970,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 1128563,
+      "num": 485801,
+      "word": "金泰亨出席BLACKPINK新专私人试听Party",
+      "onboard_time": 1663298133,
+      "rank": 10,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1098524,
-      "num": 759432,
+      "num": 960123,
       "word": "于正夸赵丽颖她从来都是第一名",
       "onboard_time": 1663295670,
       "rank": 4,
@@ -51,12 +67,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1007092,
+      "num": 1007092,
+      "word": "林志颖谈身体恢复情况",
+      "onboard_time": 1663296271,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 838698,
       "num": 838698,
       "word": "52岁新生回应被质疑浪费资源",
       "onboard_time": 1663288233,
       "rank": 1,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 758910,
+      "num": 438384,
+      "word": "成华区胜天人居小区志愿者",
+      "onboard_time": 1663294528,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 755281,
@@ -68,11 +100,27 @@
     },
     {
       "raw_hot": 714559,
-      "num": 434120,
+      "num": 479301,
       "word": "杨超越好像把我骂醒了",
       "onboard_time": 1663251279,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 680550,
+      "num": 680550,
+      "word": "95后大厂女生裸辞进养老院做义工",
+      "onboard_time": 1663295849,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 658736,
+      "num": 658736,
+      "word": "沃尔玛面包上蟑螂活蹦乱跳",
+      "onboard_time": 1663294890,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 624242,
@@ -131,6 +179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 514455,
+      "num": 514455,
+      "word": "一天工作下来没人说话",
+      "onboard_time": 1663294471,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 507389,
       "num": 194920,
       "word": "因为是虞书欣",
@@ -171,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 454692,
+      "num": 454692,
+      "word": "灵动岛",
+      "onboard_time": 1663297651,
+      "rank": 12,
+      "category": "科技"
+    },
+    {
       "raw_hot": 446916,
       "num": 425884,
       "word": "王鹤棣在密逃被吓到大喘气",
@@ -185,14 +249,6 @@
       "onboard_time": 1663246352,
       "rank": 14,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 438384,
-      "num": 438384,
-      "word": "成华区胜天人居小区志愿者",
-      "onboard_time": 1663294528,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 412813,
@@ -217,6 +273,14 @@
       "onboard_time": 1663284684,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 342902,
+      "num": 342902,
+      "word": "玉骨遥",
+      "onboard_time": 1663297651,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 331047,
@@ -251,6 +315,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 311977,
+      "num": 284499,
+      "word": "檀健次周也新剧开机",
+      "onboard_time": 1663296991,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 307259,
       "num": 307259,
       "word": "女子包500亩地种红薯被村民偷挖",
@@ -275,14 +347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 293539,
-      "num": 293539,
-      "word": "沃尔玛面包上蟑螂活蹦乱跳",
-      "onboard_time": 1663294890,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 281436,
       "num": 281436,
       "word": "公司回应招人事不录用单身人士",
@@ -299,12 +363,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 267789,
+      "num": 267789,
+      "word": "LOL手游灵罗娃娃",
+      "onboard_time": 1663296632,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 259967,
       "num": 259967,
       "word": "工信部研究推进eSIM应用",
       "onboard_time": 1663290029,
       "rank": 20,
       "category": "科技"
+    },
+    {
+      "raw_hot": 255372,
+      "num": 255372,
+      "word": "券商",
+      "onboard_time": 1663296330,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 253586,
@@ -355,6 +435,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221049,
+      "num": 221049,
+      "word": "很想很想你",
+      "onboard_time": 1663298013,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 219022,
+      "num": 187982,
+      "word": "白雪公主真人电影定档",
+      "onboard_time": 1663293390,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 218338,
       "num": 218338,
       "word": "赵丽颖和刘威又杠上了",
@@ -369,6 +465,14 @@
       "onboard_time": 1663250376,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209928,
+      "num": 166161,
+      "word": "陈楚生与天天向上BGM的适配度",
+      "onboard_time": 1663298490,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 208970,
@@ -411,14 +515,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 187982,
-      "num": 187982,
-      "word": "白雪公主真人电影定档",
-      "onboard_time": 1663293390,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 175467,
       "num": 175467,
       "word": "恋爱遭家里反对小伙爬上10米高塔",
@@ -435,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171216,
+      "num": 166035,
+      "word": "吴建豪教吴克群跳舞",
+      "onboard_time": 1663298550,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170503,
       "num": 170503,
       "word": "任嘉伦新剧从壁画走出来",
@@ -443,12 +547,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 168350,
-      "num": 168350,
-      "word": "一天工作下来没人说话",
-      "onboard_time": 1663294471,
-      "rank": 31,
-      "category": "情感"
+      "raw_hot": 166616,
+      "num": 166616,
+      "word": "研招网开通考生信息填写入口",
+      "onboard_time": 1663298133,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 165959,
@@ -457,6 +561,22 @@
       "onboard_time": 1663239510,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165862,
+      "num": 165862,
+      "word": "这怎么不算英语好呢",
+      "onboard_time": 1663293931,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 163400,
+      "num": 129224,
+      "word": "张艺兴大航海2马来西亚登船指南",
+      "onboard_time": 1663297112,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 162206,
@@ -473,14 +593,6 @@
       "onboard_time": 1663241372,
       "rank": 24,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 155348,
-      "num": 155348,
-      "word": "这怎么不算英语好呢",
-      "onboard_time": 1663293931,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 153216,
@@ -523,6 +635,14 @@
       "category": "国内要闻,军事"
     },
     {
+      "raw_hot": 129585,
+      "num": 129585,
+      "word": "10岁娃睡迷糊翻窗坠落至22楼外",
+      "onboard_time": 1663298431,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129234,
       "num": 196644,
       "word": "这段视频肉食爱好者都扛不住",
@@ -545,6 +665,14 @@
       "onboard_time": 1663226190,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 123337,
+      "num": 123337,
+      "word": "有一种安心叫中国军人",
+      "onboard_time": 1663297531,
+      "rank": 42,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 123232,
@@ -587,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116714,
+      "num": 116714,
+      "word": "厦门疫情防控",
+      "onboard_time": 1663293271,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116193,
       "num": 116193,
       "word": "台风梅花三登我国",
@@ -609,14 +745,6 @@
       "onboard_time": 1663275971,
       "rank": 47,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 114265,
-      "num": 114265,
-      "word": "厦门疫情防控",
-      "onboard_time": 1663293271,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113966,
@@ -651,12 +779,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 106399,
-      "num": 106399,
-      "word": "研招网",
-      "onboard_time": 1663295970,
+      "raw_hot": 106229,
+      "num": 106229,
+      "word": "8月份70城最新房价出炉",
+      "onboard_time": 1663297411,
       "rank": 49,
-      "category": "教育"
+      "category": "财经"
     },
     {
       "raw_hot": 99350,
@@ -763,6 +891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 72647,
+      "num": 390428,
+      "word": "88名在韩志愿军烈士回家",
+      "onboard_time": 1663297234,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72103,
       "num": 72103,
       "word": "张朝阳出物理题考网友仅一人答出",
@@ -828,7 +964,7 @@
     },
     {
       "raw_hot": 49409,
-      "num": 760682,
+      "num": 1174765,
       "word": "打击网络谣言共建清朗家园",
       "onboard_time": 1663240711,
       "rank": 2,
