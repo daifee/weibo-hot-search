@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/16 16:46:48
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/16 17:26:19
 </p>
 </blockquote>
 <p>
@@ -34,7 +34,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E7%94%B5%E4%BF%A1%E5%A4%A7%E6%A5%BC%E8%B5%B7%E7%81%AB%23" target="weibo">
-长沙电信大楼起火（热度：18693707）
+长沙电信大楼起火（热度：20529209）
 </a>
 </li>
 
@@ -645,6 +645,12 @@ UR被曝抄袭（热度：2730773）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E9%AB%98%E6%A5%BC%E7%81%AB%E7%81%BE%E5%A4%96%E9%83%A8%E6%98%8E%E7%81%AB%E5%B7%B2%E6%89%91%E7%81%AD%23" target="weibo">
+长沙高楼火灾外部明火已扑灭（热度：2707790）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2336%E5%B2%81%E6%AD%8C%E6%89%8B%E5%82%85%E6%9D%BE%E5%9B%A0%E5%8F%A3%E8%85%94%E7%99%8C%E5%8E%BB%E4%B8%96%23" target="weibo">
 36岁歌手傅松因口腔癌去世（热度：2702395）
 </a>
@@ -1079,6 +1085,12 @@ JDG夺冠（热度：2394767）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%BC%A0%E5%BD%AC%E5%BD%AC%E5%90%8C%E6%A1%86%23" target="weibo">
 王鹤棣虞书欣张彬彬同框（热度：2097199）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E7%BC%A9%E6%8B%9B%23" target="weibo">
+考研缩招（热度：2093040）
 </a>
 </li>
 
@@ -2733,6 +2745,12 @@ Karry王 Carry王（热度：1306777）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E5%BC%BA%E5%8C%97AirPods%E7%A0%B4%E8%A7%A3iOS16%E7%9B%97%E7%89%88%E6%A3%80%E6%B5%8B%23" target="weibo">
+华强北AirPods破解iOS16盗版检测（热度：1305314）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%89%BF%E8%AE%A4%E5%B0%86%E5%A2%9E%E5%8A%A0%E7%B3%BB%E7%BB%9F%E5%B9%BF%E5%91%8A%23" target="weibo">
 苹果承认将增加系统广告（热度：1303393）
 </a>
@@ -3485,6 +3503,12 @@ boss直聘公示涉性骚扰违规账号（热度：1144916）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%AE%81%E4%BA%8C%E4%B8%AD%23" target="weibo">
 武宁二中（热度：1106578）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E5%B8%81%E7%A0%B47%23" target="weibo">
+人民币破7（热度：1106219）
 </a>
 </li>
 
@@ -5841,12 +5865,6 @@ iPhone全系支持电量百分比（热度：758471）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E5%B8%81%E7%A0%B47%23" target="weibo">
-人民币破7（热度：756142）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E4%B8%80%E5%85%AC%E5%8F%B8%E5%8E%95%E6%89%80%E9%9A%94%E9%97%B4%E8%A3%85%E7%9B%91%E6%8E%A7%23" target="weibo">
 网传一公司厕所隔间装监控（热度：756055）
 </a>
@@ -5993,24 +6011,6 @@ iPhone14Pro灭霸紫（热度：743476）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23AirPods%20Pro%202%20%E5%80%BC%E5%BE%97%E4%B9%B0%E5%90%97%23" target="weibo">
 AirPods Pro 2 值得买吗（热度：732878）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%9E%97%E6%9B%B4%E6%96%B0%E4%B8%80%E8%B5%B7%E5%90%8A%E5%A8%81%E4%BA%9A%E8%B7%AF%E9%80%8F%23" target="weibo">
-赵丽颖林更新一起吊威亚路透（热度：730350）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%B0%8F%E5%8C%BA%23" target="weibo">
-成都小区（热度：727722）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%8F%B8%E6%9C%BA%E9%85%92%E9%A9%BE%E6%92%9E%E4%BA%BA%E6%8B%96%E8%A1%8C%E4%BA%8B%E4%BB%B6%23" target="weibo">
-警方回应女司机酒驾撞人拖行事件（热度：725908）
 </a>
 </li>
 

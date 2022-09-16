@@ -1,18 +1,26 @@
 {
   "startTime": 1663259654662,
-  "endTime": 1663318008673,
+  "endTime": 1663320379537,
   "band_list": [
     {
-      "raw_hot": 18693707,
-      "num": 18693707,
+      "raw_hot": 20529209,
+      "num": 20529209,
       "word": "长沙电信大楼起火",
       "onboard_time": 1663316848,
       "rank": 0,
       "category": "社会负面"
     },
     {
+      "raw_hot": 2707790,
+      "num": 2707790,
+      "word": "长沙高楼火灾外部明火已扑灭",
+      "onboard_time": 1663319081,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2273021,
-      "num": 1450371,
+      "num": 1560068,
       "word": "赵丽颖发文回应为角色增肥",
       "onboard_time": 1663315946,
       "rank": 3,
@@ -27,8 +35,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2093040,
+      "num": 2093040,
+      "word": "考研缩招",
+      "onboard_time": 1663318845,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 2038828,
-      "num": 1384462,
+      "num": 1458756,
       "word": "女子称高铁上来例假买不到卫生巾",
       "onboard_time": 1663305270,
       "rank": 3,
@@ -123,6 +139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1305314,
+      "num": 1305314,
+      "word": "华强北AirPods破解iOS16盗版检测",
+      "onboard_time": 1663316668,
+      "rank": 43,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1278675,
       "num": 1158733,
       "word": "男子称再婚难向妻子要离婚补偿",
@@ -145,6 +169,14 @@
       "onboard_time": 1663298133,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1106219,
+      "num": 756142,
+      "word": "人民币破7",
+      "onboard_time": 1663314627,
+      "rank": 10,
+      "category": "财经"
     },
     {
       "raw_hot": 1098740,
@@ -259,14 +291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 756142,
-      "num": 756142,
-      "word": "人民币破7",
-      "onboard_time": 1663314627,
-      "rank": 10,
-      "category": "财经"
-    },
-    {
       "raw_hot": 755281,
       "num": 755281,
       "word": "苏醒说请给35岁男人再就业机会",
@@ -339,12 +363,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 588100,
-      "num": 588100,
-      "word": "华强北AirPods破解iOS16盗版检测",
-      "onboard_time": 1663316668,
-      "rank": 43,
-      "category": "科技"
+      "raw_hot": 588597,
+      "num": 588597,
+      "word": "雨天女子车窗被挂6只虾",
+      "onboard_time": 1663318368,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 583713,
@@ -369,6 +393,14 @@
       "onboard_time": 1663252121,
       "rank": 4,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 554285,
+      "num": 554285,
+      "word": "南昌一女子遭酒后男子入室猥亵",
+      "onboard_time": 1663319081,
+      "rank": 11,
+      "category": "社会负面"
     },
     {
       "raw_hot": 553764,
@@ -539,6 +571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 419292,
+      "num": 419292,
+      "word": "朱一龙LV阿那亚男装大秀",
+      "onboard_time": 1663319318,
+      "rank": 14,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 412813,
       "num": 412813,
       "word": "志愿军8勇士拒绝被俘集体跳崖",
@@ -561,6 +601,22 @@
       "onboard_time": 1663312407,
       "rank": 46,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 401550,
+      "num": 401550,
+      "word": "妈妈从不给我任何压力",
+      "onboard_time": 1663313787,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 395695,
+      "num": 148227,
+      "word": "龚俊白敬亭王鹤棣刘耀文看秀造型",
+      "onboard_time": 1663320338,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 384067,
@@ -643,12 +699,12 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 332916,
-      "num": 332916,
-      "word": "妈妈从不给我任何压力",
-      "onboard_time": 1663313787,
-      "rank": 47,
-      "category": "情感"
+      "raw_hot": 332697,
+      "num": 332697,
+      "word": "A股调整后中长期投资价值已具备",
+      "onboard_time": 1663315828,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 331047,
@@ -681,6 +737,14 @@
       "onboard_time": 1663306229,
       "rank": 19,
       "category": "科技"
+    },
+    {
+      "raw_hot": 321718,
+      "num": 321718,
+      "word": "胡一天陈钰琪自曝曾被换角",
+      "onboard_time": 1663317519,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 321467,
@@ -731,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302772,
+      "num": 302772,
+      "word": "人民网评她们的名字贴近女性现实",
+      "onboard_time": 1663318368,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 301603,
       "num": 301603,
       "word": "从脸看脾胃好不好",
@@ -747,20 +819,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 294285,
-      "num": 294285,
-      "word": "A股调整后中长期投资价值已具备",
-      "onboard_time": 1663315828,
-      "rank": 35,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 292394,
-      "num": 292394,
-      "word": "胡一天陈钰琪自曝曾被换角",
-      "onboard_time": 1663317519,
-      "rank": 24,
-      "category": "作品衍生"
+      "raw_hot": 292266,
+      "num": 292266,
+      "word": "多人在易联购小程序抢购iPhone14被骗",
+      "onboard_time": 1663316245,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 290956,
@@ -835,6 +899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 267568,
+      "num": 267568,
+      "word": "长沙高楼火灾暂未发现人员伤亡",
+      "onboard_time": 1663319920,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263256,
       "num": 233645,
       "word": "冰雨火",
@@ -864,6 +936,14 @@
       "word": "BLACKPINK新歌ShutDown",
       "onboard_time": 1663316848,
       "rank": 23,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 258117,
+      "num": 258117,
+      "word": "typa girl",
+      "onboard_time": 1663317273,
+      "rank": 31,
       "category": "音乐"
     },
     {
@@ -995,14 +1075,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 218539,
-      "num": 205419,
-      "word": "typa girl",
-      "onboard_time": 1663317273,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 218338,
       "num": 218338,
       "word": "赵丽颖和刘威又杠上了",
@@ -1051,12 +1123,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 196286,
-      "num": 196286,
-      "word": "多人在易联购小程序抢购iPhone14被骗",
-      "onboard_time": 1663316245,
-      "rank": 37,
+      "raw_hot": 203877,
+      "num": 203877,
+      "word": "关晓彤落花风雪大片",
+      "onboard_time": 1663320159,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 202811,
+      "num": 202811,
+      "word": "北京一小熊猫逃跑被抓包",
+      "onboard_time": 1663319560,
+      "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196585,
+      "num": 196585,
+      "word": "中方制裁参与售台武器的美方相关人士",
+      "onboard_time": 1663319264,
+      "rank": 37,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 196250,
@@ -1100,7 +1188,7 @@
     },
     {
       "raw_hot": 188648,
-      "num": 1481776,
+      "num": 2391197,
       "word": "88名在韩志愿军烈士回家",
       "onboard_time": 1663297234,
       "rank": 14,
@@ -1121,6 +1209,14 @@
       "onboard_time": 1663301915,
       "rank": 32,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 184624,
+      "num": 184624,
+      "word": "考研大纲",
+      "onboard_time": 1663319442,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 183191,
@@ -1147,6 +1243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171226,
+      "num": 171226,
+      "word": "为什么歼20是长空之王",
+      "onboard_time": 1663315706,
+      "rank": 38,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 171216,
       "num": 166035,
       "word": "吴建豪教吴克群跳舞",
@@ -1169,14 +1273,6 @@
       "onboard_time": 1663288769,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 170126,
-      "num": 170126,
-      "word": "为什么歼20是长空之王",
-      "onboard_time": 1663315706,
-      "rank": 38,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 169840,
@@ -1249,6 +1345,14 @@
       "onboard_time": 1663302573,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160225,
+      "num": 160225,
+      "word": "为什么劝年轻人远离股市",
+      "onboard_time": 1663320044,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 155726,
@@ -1329,6 +1433,14 @@
       "onboard_time": 1663289371,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 126104,
+      "num": 126104,
+      "word": "高考和考研的不同之处",
+      "onboard_time": 1663319680,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 124977,
