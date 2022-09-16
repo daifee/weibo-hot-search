@@ -1,6 +1,6 @@
 {
   "startTime": 1663259654662,
-  "endTime": 1663339632189,
+  "endTime": 1663341925696,
   "band_list": [
     {
       "raw_hot": 20529209,
@@ -80,6 +80,14 @@
       "word": "妻子患尿毒症丈夫3次起诉离婚获准",
       "onboard_time": 1663299751,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1901612,
+      "num": 1162935,
+      "word": "退退退",
+      "onboard_time": 1663338575,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -163,6 +171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1406622,
+      "num": 1406622,
+      "word": "专家称重庆猴痘疫情传播风险很低",
+      "onboard_time": 1663336955,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1348579,
       "num": 1276574,
       "word": "A股",
@@ -219,6 +235,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1190323,
+      "num": 1190323,
+      "word": "腰好像一下子就舒服了",
+      "onboard_time": 1663335814,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1188804,
       "num": 1188804,
       "word": "12306回应女乘客买不到卫生巾",
@@ -235,14 +259,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 1152026,
-      "num": 1152026,
-      "word": "专家称重庆猴痘疫情传播风险很低",
-      "onboard_time": 1663336955,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1141964,
       "num": 1141964,
       "word": "电视剧底线",
@@ -257,6 +273,14 @@
       "onboard_time": 1663323691,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1131339,
+      "num": 1131339,
+      "word": "长月烬明集变更为34集",
+      "onboard_time": 1663341095,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 1128563,
@@ -348,7 +372,7 @@
     },
     {
       "raw_hot": 1003241,
-      "num": 310770,
+      "num": 360927,
       "word": "檀健次 鞋跟",
       "onboard_time": 1663335394,
       "rank": 20,
@@ -427,14 +451,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 796455,
-      "num": 796455,
-      "word": "退退退",
-      "onboard_time": 1663338575,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 761949,
       "num": 761949,
       "word": "雨天女子车窗被挂6只虾",
@@ -475,12 +491,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 720765,
-      "num": 720765,
-      "word": "腰好像一下子就舒服了",
-      "onboard_time": 1663335814,
-      "rank": 34,
-      "category": "体育"
+      "raw_hot": 729852,
+      "num": 729852,
+      "word": "大爷外出避暑一个月家中漏水458吨",
+      "onboard_time": 1663336113,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 714559,
@@ -523,12 +539,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 642419,
-      "num": 642419,
-      "word": "大爷外出避暑一个月家中漏水458吨",
-      "onboard_time": 1663336113,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 634642,
+      "num": 634642,
+      "word": "iPhone14顶配首发价格即破发",
+      "onboard_time": 1663339112,
+      "rank": 38,
+      "category": "科技"
     },
     {
       "raw_hot": 633645,
@@ -667,6 +683,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 533134,
+      "num": 533134,
+      "word": "世间有她易烊千玺黄米依片段",
+      "onboard_time": 1663339532,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 521877,
       "num": 521877,
       "word": "长沙高楼火灾暂未发现人员伤亡",
@@ -771,6 +795,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 461355,
+      "num": 461355,
+      "word": "专家称预制菜如同猪狗食",
+      "onboard_time": 1663336832,
+      "rank": 49,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 461219,
       "num": 461051,
       "word": "白鸽",
@@ -819,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 444395,
+      "num": 444395,
+      "word": "原神 凯迪拉克",
+      "onboard_time": 1663339233,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 439301,
       "num": 315952,
       "word": "年轻人宁买万元手机不花4元充电",
@@ -841,14 +881,6 @@
       "onboard_time": 1663300113,
       "rank": 16,
       "category": "财经"
-    },
-    {
-      "raw_hot": 421191,
-      "num": 421191,
-      "word": "世间有她易烊千玺黄米依片段",
-      "onboard_time": 1663339532,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 420085,
@@ -883,6 +915,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 412762,
+      "num": 412762,
+      "word": "四六级",
+      "onboard_time": 1663339049,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 412556,
       "num": 412556,
       "word": "母子祭祖引火灾被判赔近60万",
@@ -913,6 +953,14 @@
       "onboard_time": 1663320338,
       "rank": 47,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 384304,
+      "num": 384304,
+      "word": "颖儿全素颜出演新剧",
+      "onboard_time": 1663335033,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 384067,
@@ -971,19 +1019,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 362360,
+      "num": 362360,
+      "word": "黑话律师",
+      "onboard_time": 1663340194,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 360957,
       "num": 360957,
       "word": "张彬彬吻戏从奶狗到狼狗",
       "onboard_time": 1663316550,
       "rank": 19,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 353468,
-      "num": 353468,
-      "word": "颖儿全素颜出演新剧",
-      "onboard_time": 1663335033,
-      "rank": 31,
       "category": "影视"
     },
     {
@@ -1219,12 +1267,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 295956,
-      "num": 295956,
-      "word": "专家称预制菜如同猪狗食",
-      "onboard_time": 1663336832,
-      "rank": 49,
-      "category": "社会新闻,美食"
+      "raw_hot": 296030,
+      "num": 296030,
+      "word": "王心凌和姐姐们合唱当你",
+      "onboard_time": 1663339414,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 294830,
@@ -1363,14 +1411,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 266302,
-      "num": 241677,
-      "word": "王心凌和姐姐们合唱当你",
-      "onboard_time": 1663339414,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 263824,
       "num": 263824,
       "word": "阿贝多",
@@ -1499,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 241990,
+      "num": 241990,
+      "word": "退休县委书记卖房在沙漠植树13年",
+      "onboard_time": 1663340738,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237392,
       "num": 237392,
       "word": "杨超越直播",
@@ -1555,20 +1603,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 223039,
-      "num": 223039,
-      "word": "原神 凯迪拉克",
-      "onboard_time": 1663339233,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 221938,
       "num": 221938,
       "word": "苹果14",
       "onboard_time": 1663315045,
       "rank": 28,
       "category": "科技"
+    },
+    {
+      "raw_hot": 219435,
+      "num": 192363,
+      "word": "郑云龙带人形生物回上海",
+      "onboard_time": 1663336353,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 219022,
@@ -1585,14 +1633,6 @@
       "onboard_time": 1663245870,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 218145,
-      "num": 218145,
-      "word": "四六级",
-      "onboard_time": 1663339049,
-      "rank": 36,
-      "category": "教育"
     },
     {
       "raw_hot": 214082,
@@ -1683,20 +1723,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 203474,
-      "num": 203474,
-      "word": "iPhone14顶配首发价格即破发",
-      "onboard_time": 1663339112,
-      "rank": 38,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 199937,
-      "num": 192363,
-      "word": "郑云龙带人形生物回上海",
-      "onboard_time": 1663336353,
-      "rank": 41,
-      "category": "影视"
+      "raw_hot": 203180,
+      "num": 203180,
+      "word": "很担心打工人的精神状态",
+      "onboard_time": 1663337853,
+      "rank": 44,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 196250,
@@ -1721,6 +1753,14 @@
       "onboard_time": 1663308207,
       "rank": 30,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 190793,
+      "num": 190793,
+      "word": "小偷看老人可怜留下1000元",
+      "onboard_time": 1663341394,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190706,
@@ -1755,6 +1795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 185432,
+      "num": 185432,
+      "word": "女子捡回流浪狗40天变化让人破防",
+      "onboard_time": 1663341156,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184845,
       "num": 184845,
       "word": "大龄高考是在浪费资源吗",
@@ -1769,6 +1817,14 @@
       "onboard_time": 1663312589,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179463,
+      "num": 179463,
+      "word": "已经提前感受到了考研的氛围",
+      "onboard_time": 1663340855,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 177346,
@@ -1792,6 +1848,14 @@
       "word": "北京新增2例本土确诊",
       "onboard_time": 1663291166,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173671,
+      "num": 173671,
+      "word": "郑州商城金覆面覆盖整张人脸",
+      "onboard_time": 1663339833,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1881,14 +1945,6 @@
       "onboard_time": 1663297112,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 162740,
-      "num": 162740,
-      "word": "很担心打工人的精神状态",
-      "onboard_time": 1663337853,
-      "rank": 44,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 162206,
@@ -1995,6 +2051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140375,
+      "num": 150797,
+      "word": "女婴吃梨被卡妈妈海姆立克急救",
+      "onboard_time": 1663341693,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130403,
       "num": 130403,
       "word": "运20搭载88位志愿军烈士遗骸起飞回国",
@@ -2081,6 +2145,14 @@
       "onboard_time": 1663244849,
       "rank": 28,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 122277,
+      "num": 150772,
+      "word": "我国首次发现商文化金覆面",
+      "onboard_time": 1663341638,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121901,
@@ -2379,7 +2451,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 72756,
+      "raw_hot": 72907,
       "num": 1454373,
       "word": "谁是最可爱的人接力诵读",
       "onboard_time": 1663335154,
