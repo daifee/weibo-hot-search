@@ -1,6 +1,6 @@
 {
   "startTime": 1663346071384,
-  "endTime": 1663367157503,
+  "endTime": 1663368182303,
   "band_list": [
     {
       "raw_hot": 1384787,
@@ -115,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 390810,
+      "num": 390810,
+      "word": "澳门健康码遭300多万次网络攻击",
+      "onboard_time": 1663350377,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 384849,
       "num": 384849,
       "word": "男子吃火锅发现头顶有老鼠",
@@ -136,14 +144,6 @@
       "word": "退休县委书记卖房在沙漠植树13年",
       "onboard_time": 1663340738,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 309078,
-      "num": 309078,
-      "word": "澳门健康码遭300多万次网络攻击",
-      "onboard_time": 1663350377,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -315,6 +315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 154061,
+      "num": 154061,
+      "word": "10岁娃打赏主播3个月花掉两万五",
+      "onboard_time": 1663359909,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148213,
       "num": 119844,
       "word": "李沁眼眶含泪感染力",
@@ -337,14 +345,6 @@
       "onboard_time": 1663328549,
       "rank": 36,
       "category": "教育"
-    },
-    {
-      "raw_hot": 134981,
-      "num": 134981,
-      "word": "10岁娃打赏主播3个月花掉两万五",
-      "onboard_time": 1663359909,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134838,
@@ -451,20 +451,44 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 70308,
-      "num": 70308,
+      "raw_hot": 78004,
+      "num": 78004,
       "word": "李克勤说歌手是没有人体谅的",
       "onboard_time": 1663360690,
       "rank": 41,
       "category": "综艺"
     },
     {
-      "raw_hot": 68478,
-      "num": 65229,
+      "raw_hot": 76072,
+      "num": 76072,
+      "word": "天津发布房地产调控新政",
+      "onboard_time": 1663366455,
+      "rank": 47,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 71424,
+      "num": 71424,
       "word": "澳门去年每分钟受3.4次网络攻击",
       "onboard_time": 1663360391,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69682,
+      "num": 69682,
+      "word": "人到中老年还能遇到真爱吗",
+      "onboard_time": 1663363750,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 63602,
+      "num": 63602,
+      "word": "陆炎追妻火葬场",
+      "onboard_time": 1663365492,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 61377,
@@ -473,6 +497,22 @@
       "onboard_time": 1663343308,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 46364,
+      "num": 46364,
+      "word": "谢娜十三角关系首演",
+      "onboard_time": 1663364711,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 44422,
+      "num": 44422,
+      "word": "爱上一个人需要理由吗",
+      "onboard_time": 1663355112,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 44199,
@@ -491,52 +531,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 38190,
-      "num": 38190,
-      "word": "秦海璐说都这岁数了要什么美颜",
-      "onboard_time": 1663357511,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 37257,
-      "num": 37257,
-      "word": "人到中老年还能遇到真爱吗",
-      "onboard_time": 1663363750,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 36952,
-      "num": 36952,
+      "raw_hot": 39839,
+      "num": 39839,
       "word": "古剑奇谭手游停服",
       "onboard_time": 1663356013,
       "rank": 49,
       "category": "游戏"
     },
     {
-      "raw_hot": 33509,
-      "num": 33509,
-      "word": "爱上一个人需要理由吗",
-      "onboard_time": 1663355112,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 26591,
-      "num": 26591,
-      "word": "陆炎追妻火葬场",
-      "onboard_time": 1663365492,
-      "rank": 42,
+      "raw_hot": 38190,
+      "num": 38190,
+      "word": "秦海璐说都这岁数了要什么美颜",
+      "onboard_time": 1663357511,
+      "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 19585,
-      "num": 19585,
-      "word": "天津发布房地产调控新政",
-      "onboard_time": 1663366455,
-      "rank": 47,
-      "category": "财经,社会新闻"
     }
   ],
   "hotgov_list": [

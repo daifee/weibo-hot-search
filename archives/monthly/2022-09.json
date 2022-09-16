@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1663367157503,
+  "endTime": 1663368182303,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -15099,6 +15099,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 390810,
+      "num": 390810,
+      "word": "澳门健康码遭300多万次网络攻击",
+      "onboard_time": 1663350377,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 390444,
       "num": 390444,
       "word": "黄景瑜 消防员",
@@ -18889,14 +18897,6 @@
       "onboard_time": 1662118407,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 309078,
-      "num": 309078,
-      "word": "澳门健康码遭300多万次网络攻击",
-      "onboard_time": 1663350377,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 308784,
@@ -29059,6 +29059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 154061,
+      "num": 154061,
+      "word": "10岁娃打赏主播3个月花掉两万五",
+      "onboard_time": 1663359909,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154052,
       "num": 154052,
       "word": "9月2日新增确诊502例",
@@ -30177,14 +30185,6 @@
       "onboard_time": 1662182246,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134981,
-      "num": 134981,
-      "word": "10岁娃打赏主播3个月花掉两万五",
-      "onboard_time": 1663359909,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134926,
@@ -32243,6 +32243,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 78004,
+      "num": 78004,
+      "word": "李克勤说歌手是没有人体谅的",
+      "onboard_time": 1663360690,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 77941,
       "num": 77941,
       "word": "巴布亚新几内亚暂无中国公民伤亡报告",
@@ -32297,6 +32305,14 @@
       "onboard_time": 1661938049,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76072,
+      "num": 76072,
+      "word": "天津发布房地产调控新政",
+      "onboard_time": 1663366455,
+      "rank": 47,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 75939,
@@ -32411,6 +32427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71424,
+      "num": 71424,
+      "word": "澳门去年每分钟受3.4次网络攻击",
+      "onboard_time": 1663360391,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70875,
       "num": 70875,
       "word": "张帅无缘美网女单八强",
@@ -32425,14 +32449,6 @@
       "onboard_time": 1663261819,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 70308,
-      "num": 70308,
-      "word": "李克勤说歌手是没有人体谅的",
-      "onboard_time": 1663360690,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 70272,
@@ -32475,12 +32491,12 @@
       "category": "其它"
     },
     {
-      "raw_hot": 68478,
-      "num": 65229,
-      "word": "澳门去年每分钟受3.4次网络攻击",
-      "onboard_time": 1663360391,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 69682,
+      "num": 69682,
+      "word": "人到中老年还能遇到真爱吗",
+      "onboard_time": 1663363750,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 67728,
@@ -32505,6 +32521,14 @@
       "onboard_time": 1662789146,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 63602,
+      "num": 63602,
+      "word": "陆炎追妻火葬场",
+      "onboard_time": 1663365492,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 63430,
@@ -32707,6 +32731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 46364,
+      "num": 46364,
+      "word": "谢娜十三角关系首演",
+      "onboard_time": 1663364711,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 46348,
       "num": 46348,
       "word": "北方朋友不加儿化音挑战",
@@ -32745,6 +32777,14 @@
       "onboard_time": 1662585491,
       "rank": 48,
       "category": "科技"
+    },
+    {
+      "raw_hot": 44422,
+      "num": 44422,
+      "word": "爱上一个人需要理由吗",
+      "onboard_time": 1663355112,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 42827,
@@ -32811,6 +32851,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 39839,
+      "num": 39839,
+      "word": "古剑奇谭手游停服",
+      "onboard_time": 1663356013,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 39390,
       "num": 39390,
       "word": "晒出你的中秋月圆照",
@@ -32851,28 +32899,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 37257,
-      "num": 37257,
-      "word": "人到中老年还能遇到真爱吗",
-      "onboard_time": 1663363750,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 37006,
       "num": 149080,
       "word": "中秋你家有哪些保留节目",
       "onboard_time": 1662714148,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36952,
-      "num": 36952,
-      "word": "古剑奇谭手游停服",
-      "onboard_time": 1663356013,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 36686,
@@ -32931,14 +32963,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 33509,
-      "num": 33509,
-      "word": "爱上一个人需要理由吗",
-      "onboard_time": 1663355112,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 31791,
       "num": 31791,
       "word": "感觉这杯子会飞走",
@@ -32991,14 +33015,6 @@
       "num": 26968,
       "word": "偷偷藏不住路透配音",
       "onboard_time": 1662143953,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 26591,
-      "num": 26591,
-      "word": "陆炎追妻火葬场",
-      "onboard_time": 1663365492,
       "rank": 42,
       "category": "影视"
     },
@@ -33129,14 +33145,6 @@
       "onboard_time": 1662147550,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 19585,
-      "num": 19585,
-      "word": "天津发布房地产调控新政",
-      "onboard_time": 1663366455,
-      "rank": 47,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 18787,
