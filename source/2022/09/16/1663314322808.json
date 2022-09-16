@@ -1,0 +1,410 @@
+{
+  "runTime": 1663314322808,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1685057,
+        "num": 1685057,
+        "word": "杨紫诉拉夏贝尔旗下公司获赔25万",
+        "onboard_time": 1663310367,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 862084,
+        "num": 862084,
+        "word": "王者荣耀8月收入2.22亿美金",
+        "onboard_time": 1663312107,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117041,
+        "num": 771941,
+        "word": "88名在韩志愿军烈士回家",
+        "onboard_time": 1663297234,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1896162,
+        "num": 761638,
+        "word": "女子称高铁上来例假买不到卫生巾",
+        "onboard_time": 1663305270,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1027782,
+        "num": 752062,
+        "word": "A股",
+        "onboard_time": 1663310066,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 723999,
+        "num": 723999,
+        "word": "林志颖目前体重55公斤跟kimi一样",
+        "onboard_time": 1663305510,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 553582,
+        "num": 553582,
+        "word": "白俄总统劈柴称不会让欧洲受冻",
+        "onboard_time": 1663308147,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 548749,
+        "num": 548749,
+        "word": "考研比高考还累吗",
+        "onboard_time": 1663309167,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 545705,
+        "num": 545705,
+        "word": "朴彩英solo",
+        "onboard_time": 1663304972,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 523360,
+        "num": 523360,
+        "word": "辽宁高校学生等待返校",
+        "onboard_time": 1663307368,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 489168,
+        "num": 489168,
+        "word": "张一鸣爸爸",
+        "onboard_time": 1663304972,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452687,
+        "num": 452687,
+        "word": "贵阳警方通报女子下跪求物资",
+        "onboard_time": 1663305510,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406112,
+        "num": 406112,
+        "word": "鹿晗王鹤棣十月杂志封面",
+        "onboard_time": 1663304132,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 376482,
+        "num": 376482,
+        "word": "金智秀声音",
+        "onboard_time": 1663309767,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 366660,
+        "num": 366660,
+        "word": "宋茜 姐狗天菜",
+        "onboard_time": 1663310785,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 328917,
+        "num": 328917,
+        "word": "女生坚持读书的意义有多大",
+        "onboard_time": 1663311027,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 325449,
+        "num": 325449,
+        "word": "母子祭祖引火灾被判赔近60万",
+        "onboard_time": 1663311507,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314239,
+        "num": 314239,
+        "word": "雷军称微博都是自己发的",
+        "onboard_time": 1663306891,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 307312,
+        "num": 307312,
+        "word": "女生考研上岸家人横幅拉满两层楼",
+        "onboard_time": 1663301675,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 292072,
+        "num": 292072,
+        "word": "七匹狼与特步家族联姻",
+        "onboard_time": 1663311866,
+        "rank": 19,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 340307,
+        "num": 278087,
+        "word": "赵丽颖为角色增肥",
+        "onboard_time": 1663305567,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 321467,
+        "num": 277943,
+        "word": "BLACKPINK空降",
+        "onboard_time": 1663313846,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 257764,
+        "num": 257764,
+        "word": "95后爸爸用毛线为女儿织生日蛋糕",
+        "onboard_time": 1663308806,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226547,
+        "num": 226547,
+        "word": "10岁娃睡迷糊翻窗坠落至22楼外",
+        "onboard_time": 1663298431,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287582,
+        "num": 225221,
+        "word": "BLACKPINK新歌Jennie的rap",
+        "onboard_time": 1663309288,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 218862,
+        "num": 218862,
+        "word": "手机壳为什么会发黄",
+        "onboard_time": 1663306229,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 206069,
+        "num": 206069,
+        "word": "天津发现多管社会面核酸样本异常",
+        "onboard_time": 1663298912,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191702,
+        "num": 191702,
+        "word": "灵动岛",
+        "onboard_time": 1663297651,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 190382,
+        "num": 190382,
+        "word": "梅花为本世纪首个登陆辽宁的台风",
+        "onboard_time": 1663310726,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178538,
+        "num": 178538,
+        "word": "天津新增36例本土阳性",
+        "onboard_time": 1663306108,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274576,
+        "num": 178531,
+        "word": "苹果确认iOS16存漏洞影响新机激活",
+        "onboard_time": 1663302631,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 268726,
+        "num": 178010,
+        "word": "朱嘉琦淘汰",
+        "onboard_time": 1663310667,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217500,
+        "num": 177583,
+        "word": "任权 于希涵",
+        "onboard_time": 1663298850,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 255375,
+        "num": 177344,
+        "word": "任贤齐苏有朋林峯阿嬷的话",
+        "onboard_time": 1663310367,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177196,
+        "num": 177196,
+        "word": "什么行为容易伤大脑",
+        "onboard_time": 1663313366,
+        "rank": 34,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 243760,
+        "num": 176634,
+        "word": "陈小春张智霖同盟第一",
+        "onboard_time": 1663311564,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172366,
+        "num": 172366,
+        "word": "茶颜悦色英文招牌SexyTea引争议",
+        "onboard_time": 1663312407,
+        "rank": 36,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 164264,
+        "num": 164264,
+        "word": "别让孩子成为流泪的蜗牛",
+        "onboard_time": 1663313067,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144157,
+        "num": 144157,
+        "word": "优乐购机",
+        "onboard_time": 1663311927,
+        "rank": 38,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 142403,
+        "num": 142403,
+        "word": "苏州多区外地户籍购房恢复至原政策",
+        "onboard_time": 1663306649,
+        "rank": 39,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 203353,
+        "num": 139967,
+        "word": "龚俊 LV阿那亚大秀",
+        "onboard_time": 1663311326,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 164616,
+        "num": 135320,
+        "word": "罗云熙吴倩追光者搂腰杀",
+        "onboard_time": 1663306769,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124963,
+        "num": 124963,
+        "word": "95后大厂女生裸辞进养老院做义工",
+        "onboard_time": 1663295849,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124278,
+        "num": 124278,
+        "word": "歼20超低空飞行致敬英烈",
+        "onboard_time": 1663301316,
+        "rank": 43,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 123106,
+        "num": 123106,
+        "word": "女孩穿露脐装被陌生女子说不得体",
+        "onboard_time": 1663291288,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119267,
+        "num": 119267,
+        "word": "研招网",
+        "onboard_time": 1663295970,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 117048,
+        "num": 117048,
+        "word": "第九批烈士遗骸将进行DNA鉴定",
+        "onboard_time": 1663313907,
+        "rank": 46,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 108430,
+        "num": 108430,
+        "word": "妈妈从不给我任何压力",
+        "onboard_time": 1663313787,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105946,
+        "num": 105946,
+        "word": "iPhone14卫星通讯功能将支持更多地区",
+        "onboard_time": 1663300893,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 105705,
+        "num": 105705,
+        "word": "金价下跌杭州年轻人成购买主力",
+        "onboard_time": 1663302033,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席中亚之行#"
+    }
+  }
+}

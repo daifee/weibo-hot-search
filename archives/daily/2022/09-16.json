@@ -1,6 +1,6 @@
 {
   "startTime": 1663259654662,
-  "endTime": 1663313524405,
+  "endTime": 1663314322808,
   "band_list": [
     {
       "raw_hot": 2124625,
@@ -179,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 862084,
+      "num": 862084,
+      "word": "王者荣耀8月收入2.22亿美金",
+      "onboard_time": 1663312107,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 852231,
       "num": 852231,
       "word": "林志颖目前体重55公斤跟kimi一样",
@@ -315,6 +323,22 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 553582,
+      "num": 553582,
+      "word": "白俄总统劈柴称不会让欧洲受冻",
+      "onboard_time": 1663308147,
+      "rank": 45,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 548749,
+      "num": 548749,
+      "word": "考研比高考还累吗",
+      "onboard_time": 1663309167,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 546729,
       "num": 546729,
       "word": "10岁娃睡迷糊翻窗坠落至22楼外",
@@ -337,14 +361,6 @@
       "onboard_time": 1663307368,
       "rank": 17,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 526702,
-      "num": 526702,
-      "word": "白俄总统劈柴称不会让欧洲受冻",
-      "onboard_time": 1663308147,
-      "rank": 45,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 514455,
@@ -377,14 +393,6 @@
       "onboard_time": 1663247792,
       "rank": 6,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 503610,
-      "num": 503610,
-      "word": "王者荣耀8月收入2.22亿美金",
-      "onboard_time": 1663312107,
-      "rank": 8,
-      "category": "游戏"
     },
     {
       "raw_hot": 494633,
@@ -491,14 +499,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 383121,
-      "num": 383121,
-      "word": "考研比高考还累吗",
-      "onboard_time": 1663309167,
-      "rank": 33,
-      "category": "教育"
-    },
-    {
       "raw_hot": 374653,
       "num": 374653,
       "word": "工作到92岁是什么体验",
@@ -587,6 +587,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 325449,
+      "num": 325449,
+      "word": "母子祭祖引火灾被判赔近60万",
+      "onboard_time": 1663311507,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321467,
+      "num": 277943,
+      "word": "BLACKPINK空降",
+      "onboard_time": 1663313846,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 320387,
       "num": 320387,
       "word": "东方财富",
@@ -633,6 +649,14 @@
       "onboard_time": 1663288648,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 292072,
+      "num": 292072,
+      "word": "七匹狼与特步家族联姻",
+      "onboard_time": 1663311866,
+      "rank": 49,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 290956,
@@ -747,14 +771,6 @@
       "category": "国外要闻,国内要闻"
     },
     {
-      "raw_hot": 252837,
-      "num": 252837,
-      "word": "母子祭祖引火灾被判赔近60万",
-      "onboard_time": 1663311507,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 251457,
       "num": 218257,
       "word": "BLACKPINK MV",
@@ -787,7 +803,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 238048,
+      "raw_hot": 243760,
       "num": 215292,
       "word": "陈小春张智霖同盟第一",
       "onboard_time": 1663311564,
@@ -801,14 +817,6 @@
       "onboard_time": 1663302873,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 233842,
-      "num": 233842,
-      "word": "七匹狼与特步家族联姻",
-      "onboard_time": 1663311866,
-      "rank": 49,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 231758,
@@ -939,6 +947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 190382,
+      "num": 221635,
+      "word": "梅花为本世纪首个登陆辽宁的台风",
+      "onboard_time": 1663310726,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187502,
       "num": 187502,
       "word": "养两只狗有多快乐",
@@ -955,6 +971,14 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 177196,
+      "num": 177196,
+      "word": "什么行为容易伤大脑",
+      "onboard_time": 1663313366,
+      "rank": 47,
+      "category": "其它"
+    },
+    {
       "raw_hot": 175467,
       "num": 175467,
       "word": "恋爱遭家里反对小伙爬上10米高塔",
@@ -969,6 +993,14 @@
       "onboard_time": 1663291166,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172366,
+      "num": 172366,
+      "word": "茶颜悦色英文招牌SexyTea引争议",
+      "onboard_time": 1663312407,
+      "rank": 46,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 171216,
@@ -1025,6 +1057,14 @@
       "onboard_time": 1663293931,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 164264,
+      "num": 164264,
+      "word": "别让孩子成为流泪的蜗牛",
+      "onboard_time": 1663313067,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 163923,
@@ -1115,14 +1155,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 146856,
-      "num": 221635,
-      "word": "梅花为本世纪首个登陆辽宁的台风",
-      "onboard_time": 1663310726,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 144083,
       "num": 144083,
       "word": "猫猫过上了我的理想生活",
@@ -1211,14 +1243,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 122504,
-      "num": 122504,
-      "word": "别让孩子成为流泪的蜗牛",
-      "onboard_time": 1663313067,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 121901,
       "num": 108033,
       "word": "乌鲁木齐疫情防控",
@@ -1251,6 +1275,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117048,
+      "num": 117048,
+      "word": "第九批烈士遗骸将进行DNA鉴定",
+      "onboard_time": 1663313907,
+      "rank": 46,
+      "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 117041,
+      "num": 771941,
+      "word": "88名在韩志愿军烈士回家",
+      "onboard_time": 1663297234,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116714,
       "num": 116714,
       "word": "厦门疫情防控",
@@ -1264,14 +1304,6 @@
       "word": "台风梅花三登我国",
       "onboard_time": 1663277051,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 116104,
-      "num": 554197,
-      "word": "88名在韩志愿军烈士回家",
-      "onboard_time": 1663297234,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1299,28 +1331,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 110730,
-      "num": 110730,
-      "word": "茶颜悦色英文招牌SexyTea引争议",
-      "onboard_time": 1663312407,
-      "rank": 46,
-      "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 110225,
-      "num": 110225,
-      "word": "什么行为容易伤大脑",
-      "onboard_time": 1663313366,
-      "rank": 47,
-      "category": "其它"
-    },
-    {
       "raw_hot": 108952,
       "num": 108952,
       "word": "谢谢你罗杰",
       "onboard_time": 1663252483,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108430,
+      "num": 108430,
+      "word": "妈妈从不给我任何压力",
+      "onboard_time": 1663313787,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 107622,
