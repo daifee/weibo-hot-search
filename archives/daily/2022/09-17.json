@@ -1,6 +1,6 @@
 {
   "startTime": 1663346071384,
-  "endTime": 1663360925813,
+  "endTime": 1663363237122,
   "band_list": [
     {
       "raw_hot": 1384787,
@@ -451,6 +451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 50974,
+      "num": 43661,
+      "word": "10岁娃打赏主播3个月花掉两万五",
+      "onboard_time": 1663359909,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44199,
       "num": 1032904,
       "word": "谁是最可爱的人接力诵读",
@@ -491,27 +499,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 13455,
-      "num": 13455,
+      "raw_hot": 29125,
+      "num": 29125,
       "word": "李克勤说歌手是没有人体谅的",
       "onboard_time": 1663360690,
       "rank": 41,
       "category": "综艺"
     },
     {
-      "raw_hot": 12395,
-      "num": 12395,
+      "raw_hot": 22690,
+      "num": 22690,
       "word": "澳门去年每分钟受3.4次网络攻击",
       "onboard_time": 1663360391,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11610,
-      "num": 11610,
-      "word": "10岁娃打赏主播3个月花掉两万五",
-      "onboard_time": 1663359909,
-      "rank": 49,
       "category": "社会新闻"
     }
   ],
