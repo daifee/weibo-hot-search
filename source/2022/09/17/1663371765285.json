@@ -1,0 +1,410 @@
+{
+  "runTime": 1663371765285,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1376570,
+        "num": 1376570,
+        "word": "腰好像一下子就舒服了",
+        "onboard_time": 1663335814,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 767412,
+        "num": 767412,
+        "word": "澳门健康码遭300多万次网络攻击",
+        "onboard_time": 1663350377,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62855,
+        "num": 575345,
+        "word": "谁是最可爱的人接力诵读",
+        "onboard_time": 1663335154,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 478547,
+        "num": 478547,
+        "word": "从此校园文男主有了脸",
+        "onboard_time": 1663346244,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 441589,
+        "num": 441589,
+        "word": "小偷看老人可怜留下1000元",
+        "onboard_time": 1663341394,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454583,
+        "num": 433465,
+        "word": "重庆市发现1例境外输入猴痘病例",
+        "onboard_time": 1663331430,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399997,
+        "num": 399997,
+        "word": "逃犯在缅甸完不成业绩罚做2千深蹲",
+        "onboard_time": 1663346662,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397790,
+        "num": 397790,
+        "word": "考研",
+        "onboard_time": 1663370181,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 397585,
+        "num": 397585,
+        "word": "35岁男子地铁猥亵女子被拘14日",
+        "onboard_time": 1663345107,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344744,
+        "num": 344744,
+        "word": "男子吃火锅发现头顶有老鼠",
+        "onboard_time": 1663344029,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318326,
+        "num": 318326,
+        "word": "天津发布房地产调控新政",
+        "onboard_time": 1663366455,
+        "rank": 10,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 311228,
+        "num": 311228,
+        "word": "10岁娃打赏主播3个月花掉两万五",
+        "onboard_time": 1663359909,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299219,
+        "num": 299219,
+        "word": "颖儿全素颜出演新剧",
+        "onboard_time": 1663335033,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 289744,
+        "num": 289744,
+        "word": "考研缩招",
+        "onboard_time": 1663318845,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 278802,
+        "num": 278802,
+        "word": "陆炎追妻火葬场",
+        "onboard_time": 1663365492,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 277019,
+        "num": 277019,
+        "word": "阿娇说张韶涵是自己主动追来的朋友",
+        "onboard_time": 1663344866,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260587,
+        "num": 260587,
+        "word": "大爷外出避暑一个月家中漏水458吨",
+        "onboard_time": 1663336113,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255009,
+        "num": 255009,
+        "word": "iPhone14顶配首发价格即破发",
+        "onboard_time": 1663339112,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 220124,
+        "num": 220124,
+        "word": "覆流年大结局",
+        "onboard_time": 1663343729,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206921,
+        "num": 206921,
+        "word": "专家称预制菜如同猪狗食",
+        "onboard_time": 1663336832,
+        "rank": 19,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 190799,
+        "num": 190799,
+        "word": "长沙高楼火灾",
+        "onboard_time": 1663316848,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 188158,
+        "num": 188158,
+        "word": "新研究称导致恐龙灭绝的是火山",
+        "onboard_time": 1663369939,
+        "rank": 21,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 171591,
+        "num": 171591,
+        "word": "女子捡回流浪狗40天变化让人破防",
+        "onboard_time": 1663341156,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161147,
+        "num": 161147,
+        "word": "女婴吃梨被卡妈妈海姆立克急救",
+        "onboard_time": 1663341693,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155193,
+        "num": 155193,
+        "word": "退休县委书记卖房在沙漠植树13年",
+        "onboard_time": 1663340738,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154414,
+        "num": 154414,
+        "word": "澳门去年每分钟受3.4次网络攻击",
+        "onboard_time": 1663360391,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153830,
+        "num": 153830,
+        "word": "杜淳说绝不允许女儿出国上学",
+        "onboard_time": 1663323691,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151203,
+        "num": 151203,
+        "word": "长月烬明集变更为34集",
+        "onboard_time": 1663341095,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151154,
+        "num": 151154,
+        "word": "ale",
+        "onboard_time": 1663342114,
+        "rank": 28,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 147110,
+        "num": 147110,
+        "word": "专家称重庆猴痘疫情传播风险很低",
+        "onboard_time": 1663336955,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144155,
+        "num": 144155,
+        "word": "不要轻易翻开孩子的作业本",
+        "onboard_time": 1663370901,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137640,
+        "num": 137640,
+        "word": "中国政府决定制裁波音防务公司CEO",
+        "onboard_time": 1663324232,
+        "rank": 31,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 135335,
+        "num": 135335,
+        "word": "谢娜十三角关系首演",
+        "onboard_time": 1663364711,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132572,
+        "num": 132572,
+        "word": "四六级",
+        "onboard_time": 1663339049,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 131767,
+        "num": 131767,
+        "word": "李克勤说歌手是没有人体谅的",
+        "onboard_time": 1663360690,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128361,
+        "num": 128361,
+        "word": "哪一刻你后悔没有好好读书",
+        "onboard_time": 1663333775,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126362,
+        "num": 126362,
+        "word": "檀健次 鞋跟",
+        "onboard_time": 1663335394,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123986,
+        "num": 123986,
+        "word": "原神 凯迪拉克",
+        "onboard_time": 1663339233,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121455,
+        "num": 121455,
+        "word": "退退退",
+        "onboard_time": 1663338575,
+        "rank": 38,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 105344,
+        "num": 105344,
+        "word": "披荆斩棘二公观后感",
+        "onboard_time": 1663346302,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102356,
+        "num": 102356,
+        "word": "成都沃尔玛现3238元天价白菜",
+        "onboard_time": 1663322913,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96975,
+        "num": 96975,
+        "word": "爱上一个人需要理由吗",
+        "onboard_time": 1663355112,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96863,
+        "num": 96863,
+        "word": "男子花15万买iPhone平台疑跑路",
+        "onboard_time": 1663322855,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77823,
+        "num": 77823,
+        "word": "官方回应贵阳部分社区凌晨做核酸",
+        "onboard_time": 1663371501,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75180,
+        "num": 75180,
+        "word": "见过最有压迫感的猫",
+        "onboard_time": 1663342893,
+        "rank": 44,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 72058,
+        "num": 72058,
+        "word": "人到中老年还能遇到真爱吗",
+        "onboard_time": 1663363750,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 69129,
+        "num": 69129,
+        "word": "王鹤棣一口气炫瓜",
+        "onboard_time": 1663345526,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68637,
+        "num": 68637,
+        "word": "古剑奇谭手游停服",
+        "onboard_time": 1663356013,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 67540,
+        "num": 67540,
+        "word": "南昌一女子遭酒后男子入室猥亵",
+        "onboard_time": 1663319081,
+        "rank": 48,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 66560,
+        "num": 66560,
+        "word": "赤土之王与三朝圣者",
+        "onboard_time": 1663371384,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#英雄回家#"
+    }
+  }
+}

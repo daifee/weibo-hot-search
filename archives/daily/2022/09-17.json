@@ -1,6 +1,6 @@
 {
   "startTime": 1663346071384,
-  "endTime": 1663370729312,
+  "endTime": 1663371765285,
   "band_list": [
     {
       "raw_hot": 1384787,
@@ -11,8 +11,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1308758,
-      "num": 1308758,
+      "raw_hot": 1376570,
+      "num": 1376570,
       "word": "腰好像一下子就舒服了",
       "onboard_time": 1663335814,
       "rank": 1,
@@ -43,20 +43,20 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 767412,
+      "num": 767412,
+      "word": "澳门健康码遭300多万次网络攻击",
+      "onboard_time": 1663350377,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 758037,
       "num": 758037,
       "word": "退退退",
       "onboard_time": 1663338575,
       "rank": 5,
       "category": "其它"
-    },
-    {
-      "raw_hot": 748934,
-      "num": 748934,
-      "word": "澳门健康码遭300多万次网络攻击",
-      "onboard_time": 1663350377,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 737721,
@@ -123,19 +123,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 399997,
+      "num": 399997,
+      "word": "逃犯在缅甸完不成业绩罚做2千深蹲",
+      "onboard_time": 1663346662,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 397790,
+      "num": 397790,
+      "word": "考研",
+      "onboard_time": 1663370181,
+      "rank": 11,
+      "category": "教育"
+    },
+    {
       "raw_hot": 384849,
       "num": 384849,
       "word": "男子吃火锅发现头顶有老鼠",
       "onboard_time": 1663344029,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 361942,
-      "num": 361942,
-      "word": "逃犯在缅甸完不成业绩罚做2千深蹲",
-      "onboard_time": 1663346662,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -147,11 +155,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 318326,
+      "num": 318326,
+      "word": "天津发布房地产调控新政",
+      "onboard_time": 1663366455,
+      "rank": 47,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 312364,
       "num": 312364,
       "word": "退休县委书记卖房在沙漠植树13年",
       "onboard_time": 1663340738,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 311228,
+      "num": 311228,
+      "word": "10岁娃打赏主播3个月花掉两万五",
+      "onboard_time": 1663359909,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -163,20 +187,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299219,
+      "num": 299219,
+      "word": "颖儿全素颜出演新剧",
+      "onboard_time": 1663335033,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 299120,
       "num": 299120,
       "word": "原神 凯迪拉克",
       "onboard_time": 1663339233,
       "rank": 16,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 284469,
-      "num": 284469,
-      "word": "10岁娃打赏主播3个月花掉两万五",
-      "onboard_time": 1663359909,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 281167,
@@ -192,6 +216,14 @@
       "word": "黑话律师",
       "onboard_time": 1663340194,
       "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 278802,
+      "num": 278802,
+      "word": "陆炎追妻火葬场",
+      "onboard_time": 1663365492,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -227,22 +259,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 246949,
-      "num": 246949,
-      "word": "天津发布房地产调控新政",
-      "onboard_time": 1663366455,
-      "rank": 47,
-      "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 239068,
-      "num": 239068,
-      "word": "考研",
-      "onboard_time": 1663370181,
-      "rank": 11,
-      "category": "教育"
-    },
-    {
       "raw_hot": 237372,
       "num": 237372,
       "word": "披荆斩棘二公观后感",
@@ -251,28 +267,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 235795,
-      "num": 235795,
-      "word": "颖儿全素颜出演新剧",
-      "onboard_time": 1663335033,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 229308,
       "num": 229308,
       "word": "专家称预制菜如同猪狗食",
       "onboard_time": 1663336832,
       "rank": 24,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 225790,
-      "num": 225790,
-      "word": "陆炎追妻火葬场",
-      "onboard_time": 1663365492,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 219665,
@@ -315,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188158,
+      "num": 188158,
+      "word": "新研究称导致恐龙灭绝的是火山",
+      "onboard_time": 1663369939,
+      "rank": 46,
+      "category": "其它"
+    },
+    {
       "raw_hot": 177961,
       "num": 177961,
       "word": "你喝过便宜又好喝的奶茶吗",
@@ -347,12 +355,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 154414,
+      "num": 154414,
+      "word": "澳门去年每分钟受3.4次网络攻击",
+      "onboard_time": 1663360391,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148213,
       "num": 119844,
       "word": "李沁眼眶含泪感染力",
       "onboard_time": 1663337853,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 144155,
+      "num": 144155,
+      "word": "不要轻易翻开孩子的作业本",
+      "onboard_time": 1663370901,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 141862,
@@ -369,6 +393,14 @@
       "onboard_time": 1663328549,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 135335,
+      "num": 135335,
+      "word": "谢娜十三角关系首演",
+      "onboard_time": 1663364711,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 134838,
@@ -395,20 +427,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 131767,
+      "num": 131767,
+      "word": "李克勤说歌手是没有人体谅的",
+      "onboard_time": 1663360690,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126749,
       "num": 126749,
       "word": "见过最有压迫感的猫",
       "onboard_time": 1663342893,
       "rank": 37,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 122884,
-      "num": 122884,
-      "word": "澳门去年每分钟受3.4次网络攻击",
-      "onboard_time": 1663360391,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121292,
@@ -459,22 +491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 108802,
-      "num": 108802,
-      "word": "李克勤说歌手是没有人体谅的",
-      "onboard_time": 1663360690,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 107940,
-      "num": 107940,
-      "word": "谢娜十三角关系首演",
-      "onboard_time": 1663364711,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 106756,
       "num": 106756,
       "word": "南昌一女子遭酒后男子入室猥亵",
@@ -491,8 +507,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 93272,
-      "num": 93272,
+      "raw_hot": 96975,
+      "num": 96975,
       "word": "爱上一个人需要理由吗",
       "onboard_time": 1663355112,
       "rank": 37,
@@ -515,12 +531,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 61512,
-      "num": 61512,
+      "raw_hot": 77823,
+      "num": 77823,
+      "word": "官方回应贵阳部分社区凌晨做核酸",
+      "onboard_time": 1663371501,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68637,
+      "num": 68637,
       "word": "古剑奇谭手游停服",
       "onboard_time": 1663356013,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 66560,
+      "num": 66560,
+      "word": "赤土之王与三朝圣者",
+      "onboard_time": 1663371384,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 62855,
+      "num": 1032904,
+      "word": "谁是最可爱的人接力诵读",
+      "onboard_time": 1663335154,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 61377,
@@ -531,28 +571,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 60819,
-      "num": 60819,
-      "word": "新研究称导致恐龙灭绝的是火山",
-      "onboard_time": 1663369939,
-      "rank": 46,
-      "category": "其它"
-    },
-    {
       "raw_hot": 54510,
       "num": 54510,
       "word": "橘子味的杭州晚霞刷屏了",
       "onboard_time": 1663370659,
       "rank": 49,
       "category": "自然"
-    },
-    {
-      "raw_hot": 54491,
-      "num": 1032904,
-      "word": "谁是最可爱的人接力诵读",
-      "onboard_time": 1663335154,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 41528,
