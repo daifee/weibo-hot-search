@@ -1,0 +1,410 @@
+{
+  "runTime": 1663324024290,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9394668,
+        "num": 9394668,
+        "word": "长沙高楼火灾",
+        "onboard_time": 1663316848,
+        "rank": 0,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 3727467,
+        "num": 3727467,
+        "word": "考研缩招",
+        "onboard_time": 1663318845,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 115516,
+        "num": 1279371,
+        "word": "88名在韩志愿军烈士回家",
+        "onboard_time": 1663297234,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1013306,
+        "num": 1013306,
+        "word": "赵丽颖发文回应为角色增肥",
+        "onboard_time": 1663315946,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 998681,
+        "num": 998681,
+        "word": "长沙高楼火灾外部明火已扑灭",
+        "onboard_time": 1663319081,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 929537,
+        "num": 929537,
+        "word": "电视剧底线",
+        "onboard_time": 1663320815,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 906085,
+        "num": 906085,
+        "word": "女子称高铁上来例假买不到卫生巾",
+        "onboard_time": 1663305270,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 789043,
+        "num": 789043,
+        "word": "华强北AirPods破解iOS16盗版检测",
+        "onboard_time": 1663316668,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 665530,
+        "num": 665530,
+        "word": "王室仆人曝查尔斯三世难伺候",
+        "onboard_time": 1663314987,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 626835,
+        "num": 626835,
+        "word": "考研大纲",
+        "onboard_time": 1663319442,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1541220,
+        "num": 625676,
+        "word": "罗一舟国家话剧院演出照",
+        "onboard_time": 1663320876,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1185895,
+        "num": 623819,
+        "word": "南昌一女子遭酒后男子入室猥亵",
+        "onboard_time": 1663319081,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 620727,
+        "num": 620727,
+        "word": "雨天女子车窗被挂6只虾",
+        "onboard_time": 1663318368,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423305,
+        "num": 423305,
+        "word": "考研比高考还累吗",
+        "onboard_time": 1663309167,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 25872,
+        "num": 413786,
+        "word": "阿那亚大秀他们都来了",
+        "onboard_time": 1663322435,
+        "rank": 14,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 412953,
+        "num": 412953,
+        "word": "胡一天陈钰琪自曝曾被换角",
+        "onboard_time": 1663317519,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 400793,
+        "num": 400793,
+        "word": "成都沃尔玛现3238元天价白菜",
+        "onboard_time": 1663322913,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389504,
+        "num": 389504,
+        "word": "弟弟酒驾离开哥哥不放心酒驾追来",
+        "onboard_time": 1663320998,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370327,
+        "num": 370327,
+        "word": "虞书欣王鹤棣说很幸运遇见苍兰诀",
+        "onboard_time": 1663323453,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 346566,
+        "num": 346566,
+        "word": "北京一小熊猫逃跑被抓包",
+        "onboard_time": 1663319560,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338249,
+        "num": 338249,
+        "word": "湖南电信通报大楼火灾",
+        "onboard_time": 1663321776,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 324963,
+        "num": 324963,
+        "word": "杨紫诉拉夏贝尔旗下公司获赔25万",
+        "onboard_time": 1663310367,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305442,
+        "num": 305442,
+        "word": "男子花15万买iPhone平台疑跑路",
+        "onboard_time": 1663322855,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300438,
+        "num": 300438,
+        "word": "中方制裁参与售台武器的美方相关人士",
+        "onboard_time": 1663319264,
+        "rank": 23,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 292010,
+        "num": 292010,
+        "word": "时代少年团夏令营收官",
+        "onboard_time": 1663323273,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291586,
+        "num": 291586,
+        "word": "什么行为容易伤大脑",
+        "onboard_time": 1663313366,
+        "rank": 25,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 277983,
+        "num": 277983,
+        "word": "朴彩英solo",
+        "onboard_time": 1663304972,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 257025,
+        "num": 257025,
+        "word": "被温州猪内脏米粉惊艳住了",
+        "onboard_time": 1663323453,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 250452,
+        "num": 250452,
+        "word": "妈妈从不给我任何压力",
+        "onboard_time": 1663313787,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227426,
+        "num": 227426,
+        "word": "喜欢一个人不能只看外表",
+        "onboard_time": 1663322673,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 249545,
+        "num": 226886,
+        "word": "朱一龙LV阿那亚男装大秀",
+        "onboard_time": 1663319318,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 219930,
+        "num": 219930,
+        "word": "长沙高楼火灾暂未发现人员伤亡",
+        "onboard_time": 1663319920,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212860,
+        "num": 212860,
+        "word": "长沙电信信号",
+        "onboard_time": 1663323691,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209001,
+        "num": 209001,
+        "word": "为什么劝年轻人远离股市",
+        "onboard_time": 1663320044,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 208597,
+        "num": 208597,
+        "word": "杜淳说绝不允许女儿出国上学",
+        "onboard_time": 1663323691,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194316,
+        "num": 194316,
+        "word": "人民网评她们的名字贴近女性现实",
+        "onboard_time": 1663318368,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192035,
+        "num": 192035,
+        "word": "辽宁高校学生等待返校",
+        "onboard_time": 1663307368,
+        "rank": 36,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 191882,
+        "num": 191882,
+        "word": "茶颜悦色英文招牌SexyTea引争议",
+        "onboard_time": 1663312407,
+        "rank": 37,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 191442,
+        "num": 191442,
+        "word": "王者荣耀8月收入2.22亿美金",
+        "onboard_time": 1663312107,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 185045,
+        "num": 185045,
+        "word": "typa girl",
+        "onboard_time": 1663317273,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 172715,
+        "num": 172715,
+        "word": "BLACKPINK新歌Jennie的rap",
+        "onboard_time": 1663309288,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 167733,
+        "num": 167733,
+        "word": "黄明昊说别给我立人设",
+        "onboard_time": 1663316727,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153445,
+        "num": 153445,
+        "word": "七匹狼与特步家族联姻",
+        "onboard_time": 1663311866,
+        "rank": 42,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 144735,
+        "num": 144735,
+        "word": "女生坚持读书的意义有多大",
+        "onboard_time": 1663311027,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143253,
+        "num": 143253,
+        "word": "A股调整后中长期投资价值已具备",
+        "onboard_time": 1663315828,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 131215,
+        "num": 131215,
+        "word": "第一次见在操场上游泳的鱼",
+        "onboard_time": 1663320580,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129124,
+        "num": 129124,
+        "word": "长沙应急管理局回应电信大楼着火",
+        "onboard_time": 1663323811,
+        "rank": 46,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 111732,
+        "num": 111732,
+        "word": "母子祭祖引火灾被判赔近60万",
+        "onboard_time": 1663311507,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109176,
+        "num": 109176,
+        "word": "白俄总统劈柴称不会让欧洲受冻",
+        "onboard_time": 1663308147,
+        "rank": 48,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 107099,
+        "num": 107099,
+        "word": "多人在易联购小程序抢购iPhone14被骗",
+        "onboard_time": 1663316245,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席中亚之行#"
+    }
+  }
+}
