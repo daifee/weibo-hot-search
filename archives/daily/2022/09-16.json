@@ -1,7 +1,23 @@
 {
   "startTime": 1663259654662,
-  "endTime": 1663314322808,
+  "endTime": 1663317016475,
   "band_list": [
+    {
+      "raw_hot": 3513594,
+      "num": 3513594,
+      "word": "长沙电信大楼起火",
+      "onboard_time": 1663316848,
+      "rank": 0,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 2273021,
+      "num": 1110583,
+      "word": "赵丽颖发文回应为角色增肥",
+      "onboard_time": 1663315946,
+      "rank": 3,
+      "category": "影视"
+    },
     {
       "raw_hot": 2124625,
       "num": 1140030,
@@ -12,7 +28,7 @@
     },
     {
       "raw_hot": 2038828,
-      "num": 855934,
+      "num": 1110214,
       "word": "女子称高铁上来例假买不到卫生巾",
       "onboard_time": 1663305270,
       "rank": 3,
@@ -123,6 +139,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1116373,
+      "num": 1116373,
+      "word": "王室仆人曝查尔斯三世难伺候",
+      "onboard_time": 1663314987,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1098740,
+      "num": 1098740,
+      "word": "王者荣耀8月收入2.22亿美金",
+      "onboard_time": 1663312107,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1098524,
       "num": 960123,
       "word": "于正夸赵丽颖她从来都是第一名",
@@ -179,14 +211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 862084,
-      "num": 862084,
-      "word": "王者荣耀8月收入2.22亿美金",
-      "onboard_time": 1663312107,
-      "rank": 8,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 852231,
       "num": 852231,
       "word": "林志颖目前体重55公斤跟kimi一样",
@@ -217,6 +241,14 @@
       "onboard_time": 1663305567,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 781382,
+      "num": 781382,
+      "word": "考研比高考还累吗",
+      "onboard_time": 1663309167,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 758910,
@@ -283,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 620594,
+      "num": 620594,
+      "word": "七匹狼与特步家族联姻",
+      "onboard_time": 1663311866,
+      "rank": 49,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 617171,
       "num": 617171,
       "word": "台湾在福岛进口食品中检出微量辐射",
@@ -331,14 +371,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 548749,
-      "num": 548749,
-      "word": "考研比高考还累吗",
-      "onboard_time": 1663309167,
-      "rank": 33,
-      "category": "教育"
-    },
-    {
       "raw_hot": 546729,
       "num": 546729,
       "word": "10岁娃睡迷糊翻窗坠落至22楼外",
@@ -361,6 +393,14 @@
       "onboard_time": 1663307368,
       "rank": 17,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 528051,
+      "num": 528051,
+      "word": "人民币破7",
+      "onboard_time": 1663314627,
+      "rank": 10,
+      "category": "财经"
     },
     {
       "raw_hot": 514455,
@@ -491,6 +531,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 412556,
+      "num": 412556,
+      "word": "母子祭祖引火灾被判赔近60万",
+      "onboard_time": 1663311507,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 384067,
       "num": 243108,
       "word": "龚俊 LV阿那亚大秀",
@@ -507,6 +555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 374647,
+      "num": 374647,
+      "word": "黄明昊说别给我立人设",
+      "onboard_time": 1663316727,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 374141,
       "num": 374141,
       "word": "BLACKPINK 回归",
@@ -515,12 +571,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 374101,
+      "num": 374101,
+      "word": "什么行为容易伤大脑",
+      "onboard_time": 1663313366,
+      "rank": 47,
+      "category": "其它"
+    },
+    {
       "raw_hot": 373623,
       "num": 373623,
       "word": "金价下跌杭州年轻人成购买主力",
       "onboard_time": 1663302033,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 368723,
+      "num": 368723,
+      "word": "茶颜悦色英文招牌SexyTea引争议",
+      "onboard_time": 1663312407,
+      "rank": 46,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 360957,
+      "num": 360957,
+      "word": "张彬彬吻戏从奶狗到狼狗",
+      "onboard_time": 1663316550,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 348755,
@@ -587,14 +667,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 325449,
-      "num": 325449,
-      "word": "母子祭祖引火灾被判赔近60万",
-      "onboard_time": 1663311507,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 321467,
       "num": 277943,
       "word": "BLACKPINK空降",
@@ -649,14 +721,6 @@
       "onboard_time": 1663288648,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 292072,
-      "num": 292072,
-      "word": "七匹狼与特步家族联姻",
-      "onboard_time": 1663311866,
-      "rank": 49,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 290956,
@@ -715,6 +779,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 273744,
+      "num": 273744,
+      "word": "一帧封神的Rose",
+      "onboard_time": 1663316911,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 271347,
       "num": 248481,
       "word": "任贤齐苏有朋林峯阿嬷的话",
@@ -739,6 +811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 261103,
+      "num": 261103,
+      "word": "别让孩子成为流泪的蜗牛",
+      "onboard_time": 1663313067,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 259967,
       "num": 259967,
       "word": "工信部研究推进eSIM应用",
@@ -747,12 +827,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 258265,
+      "num": 258265,
+      "word": "BLACKPINK新歌ShutDown",
+      "onboard_time": 1663316848,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 257670,
       "num": 228846,
       "word": "见面吧就现在",
       "onboard_time": 1663304014,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 257064,
+      "num": 257064,
+      "word": "妈妈从不给我任何压力",
+      "onboard_time": 1663313787,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 255372,
@@ -859,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221938,
+      "num": 221938,
+      "word": "苹果14",
+      "onboard_time": 1663315045,
+      "rank": 28,
+      "category": "科技"
+    },
+    {
       "raw_hot": 219022,
       "num": 187982,
       "word": "白雪公主真人电影定档",
@@ -899,6 +1003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206235,
+      "num": 221635,
+      "word": "梅花为本世纪首个登陆辽宁的台风",
+      "onboard_time": 1663310726,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205039,
       "num": 205039,
       "word": "魏大勋父子重现沙发二子名场面",
@@ -921,6 +1033,14 @@
       "onboard_time": 1663256437,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192800,
+      "num": 192800,
+      "word": "A股调整后中长期投资价值已具备",
+      "onboard_time": 1663315828,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 192481,
@@ -947,14 +1067,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 190382,
-      "num": 221635,
-      "word": "梅花为本世纪首个登陆辽宁的台风",
-      "onboard_time": 1663310726,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 187502,
       "num": 187502,
       "word": "养两只狗有多快乐",
@@ -971,12 +1083,20 @@
       "category": "情感,教育"
     },
     {
-      "raw_hot": 177196,
-      "num": 177196,
-      "word": "什么行为容易伤大脑",
-      "onboard_time": 1663313366,
-      "rank": 47,
-      "category": "其它"
+      "raw_hot": 183191,
+      "num": 155217,
+      "word": "苏醒程璐赵晓卉吐槽职场不说人话",
+      "onboard_time": 1663312589,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 176472,
+      "num": 176472,
+      "word": "多人在易联购小程序抢购iPhone14被骗",
+      "onboard_time": 1663316245,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175467,
@@ -993,14 +1113,6 @@
       "onboard_time": 1663291166,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 172366,
-      "num": 172366,
-      "word": "茶颜悦色英文招牌SexyTea引争议",
-      "onboard_time": 1663312407,
-      "rank": 46,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 171216,
@@ -1025,6 +1137,14 @@
       "onboard_time": 1663288769,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 170126,
+      "num": 170126,
+      "word": "为什么歼20是长空之王",
+      "onboard_time": 1663315706,
+      "rank": 38,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 169840,
@@ -1057,22 +1177,6 @@
       "onboard_time": 1663293931,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 164264,
-      "num": 164264,
-      "word": "别让孩子成为流泪的蜗牛",
-      "onboard_time": 1663313067,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 163923,
-      "num": 129560,
-      "word": "苏醒程璐赵晓卉吐槽职场不说人话",
-      "onboard_time": 1663312589,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 163654,
@@ -1115,6 +1219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157295,
+      "num": 1111375,
+      "word": "88名在韩志愿军烈士回家",
+      "onboard_time": 1663297234,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155726,
       "num": 155726,
       "word": "学长在新生军训场外狂炫奶茶",
@@ -1129,6 +1241,14 @@
       "onboard_time": 1663307368,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 154669,
+      "num": 154669,
+      "word": "华强北AirPods破解iOS16盗版检测",
+      "onboard_time": 1663316668,
+      "rank": 43,
+      "category": "科技"
     },
     {
       "raw_hot": 153216,
@@ -1283,14 +1403,6 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 117041,
-      "num": 771941,
-      "word": "88名在韩志愿军烈士回家",
-      "onboard_time": 1663297234,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 116714,
       "num": 116714,
       "word": "厦门疫情防控",
@@ -1337,14 +1449,6 @@
       "onboard_time": 1663252483,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 108430,
-      "num": 108430,
-      "word": "妈妈从不给我任何压力",
-      "onboard_time": 1663313787,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 107622,
