@@ -1,6 +1,6 @@
 {
   "startTime": 1663259654662,
-  "endTime": 1663304747490,
+  "endTime": 1663308553764,
   "band_list": [
     {
       "raw_hot": 2124625,
@@ -35,6 +35,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1768588,
+      "num": 428767,
+      "word": "张一鸣爸爸",
+      "onboard_time": 1663304972,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1760285,
+      "num": 737010,
+      "word": "女子称高铁上来例假买不到卫生巾",
+      "onboard_time": 1663305270,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1713832,
       "num": 1379293,
       "word": "用户发现iPhone14灵动岛色差严重",
@@ -49,6 +65,14 @@
       "onboard_time": 1663298912,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1312544,
+      "num": 720025,
+      "word": "朴彩英solo",
+      "onboard_time": 1663304972,
+      "rank": 4,
+      "category": "音乐"
     },
     {
       "raw_hot": 1309961,
@@ -91,6 +115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1082088,
+      "num": 1082088,
+      "word": "女生考研上岸家人横幅拉满两层楼",
+      "onboard_time": 1663301675,
+      "rank": 11,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1081866,
       "num": 1081866,
       "word": "海南免税版iPhone14系列价格",
@@ -131,20 +163,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 865731,
-      "num": 865731,
-      "word": "女生考研上岸家人横幅拉满两层楼",
-      "onboard_time": 1663301675,
-      "rank": 11,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 838698,
       "num": 838698,
       "word": "52岁新生回应被质疑浪费资源",
       "onboard_time": 1663288233,
       "rank": 1,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 826788,
+      "num": 684323,
+      "word": "赵丽颖为角色增肥",
+      "onboard_time": 1663305567,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 758910,
@@ -169,6 +201,14 @@
       "onboard_time": 1663251279,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 682538,
+      "num": 682538,
+      "word": "苹果确认iOS16存漏洞影响新机激活",
+      "onboard_time": 1663302631,
+      "rank": 21,
+      "category": "科技"
     },
     {
       "raw_hot": 680550,
@@ -203,14 +243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 623091,
-      "num": 548501,
-      "word": "苹果确认iOS16存漏洞影响新机激活",
-      "onboard_time": 1663302631,
-      "rank": 21,
-      "category": "科技"
-    },
-    {
       "raw_hot": 617171,
       "num": 617171,
       "word": "台湾在福岛进口食品中检出微量辐射",
@@ -225,6 +257,14 @@
       "onboard_time": 1663294651,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 583166,
+      "num": 427329,
+      "word": "林志颖目前体重55公斤跟kimi一样",
+      "onboard_time": 1663305510,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 576946,
@@ -323,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 453239,
+      "num": 453239,
+      "word": "贵阳警方通报女子下跪求物资",
+      "onboard_time": 1663305510,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 448669,
       "num": 448669,
       "word": "陆炎三千年初吻没了",
@@ -379,6 +427,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 373623,
+      "num": 373623,
+      "word": "金价下跌杭州年轻人成购买主力",
+      "onboard_time": 1663302033,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 348755,
+      "num": 348755,
+      "word": "天津新增36例本土阳性",
+      "onboard_time": 1663306108,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 342902,
       "num": 342902,
       "word": "玉骨遥",
@@ -393,14 +457,6 @@
       "onboard_time": 1663299150,
       "rank": 22,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 332556,
-      "num": 332556,
-      "word": "金价下跌杭州年轻人成购买主力",
-      "onboard_time": 1663302033,
-      "rank": 27,
-      "category": "财经"
     },
     {
       "raw_hot": 331047,
@@ -451,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 305280,
+      "num": 305280,
+      "word": "辽宁高校学生等待返校",
+      "onboard_time": 1663307368,
+      "rank": 17,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 301603,
       "num": 301603,
       "word": "从脸看脾胃好不好",
@@ -483,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 280294,
+      "num": 280294,
+      "word": "手机壳为什么会发黄",
+      "onboard_time": 1663306229,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 278435,
       "num": 278435,
       "word": "丁禹兮新剧片花换了10套造型",
@@ -513,6 +585,14 @@
       "onboard_time": 1663290029,
       "rank": 20,
       "category": "科技"
+    },
+    {
+      "raw_hot": 259917,
+      "num": 259917,
+      "word": "罗云熙吴倩追光者搂腰杀",
+      "onboard_time": 1663306769,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 257670,
@@ -563,6 +643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 237929,
+      "num": 237929,
+      "word": "雷军称微博都是自己发的",
+      "onboard_time": 1663306891,
+      "rank": 24,
+      "category": "科技"
+    },
+    {
       "raw_hot": 237392,
       "num": 237392,
       "word": "杨超越直播",
@@ -587,20 +675,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 228988,
+      "num": 228988,
+      "word": "歼20超低空飞行致敬英烈",
+      "onboard_time": 1663301316,
+      "rank": 35,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 227988,
       "num": 227988,
       "word": "西藏疫情防控",
       "onboard_time": 1663284383,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 223687,
-      "num": 223687,
-      "word": "歼20超低空飞行致敬英烈",
-      "onboard_time": 1663301316,
-      "rank": 35,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 219022,
@@ -667,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192481,
+      "num": 192481,
+      "word": "人们往往高估了外界对自己的关注程度",
+      "onboard_time": 1663308207,
+      "rank": 30,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 190706,
       "num": 186301,
       "word": "檀健次开挂了公司不打卡",
@@ -681,6 +777,14 @@
       "onboard_time": 1663250737,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 187502,
+      "num": 187502,
+      "word": "养两只狗有多快乐",
+      "onboard_time": 1663304014,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 184845,
@@ -747,6 +851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 163654,
+      "num": 163654,
+      "word": "理想汽车法务部官微第一条起诉通告",
+      "onboard_time": 1663303774,
+      "rank": 44,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 163400,
       "num": 129224,
       "word": "张艺兴大航海2马来西亚登船指南",
@@ -761,6 +873,14 @@
       "onboard_time": 1663269492,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 160830,
+      "num": 160830,
+      "word": "苏州多区外地户籍购房恢复至原政策",
+      "onboard_time": 1663306649,
+      "rank": 34,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 160429,
@@ -785,6 +905,14 @@
       "onboard_time": 1663301132,
       "rank": 36,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 155322,
+      "num": 155322,
+      "word": "00后整顿职场的底气到底是什么",
+      "onboard_time": 1663307368,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 153216,
@@ -827,14 +955,6 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 133745,
-      "num": 133745,
-      "word": "养两只狗有多快乐",
-      "onboard_time": 1663304014,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 130403,
       "num": 130403,
       "word": "运20搭载88位志愿军烈士遗骸起飞回国",
@@ -875,14 +995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 124489,
-      "num": 124489,
-      "word": "理想汽车法务部官微第一条起诉通告",
-      "onboard_time": 1663303774,
-      "rank": 44,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 123337,
       "num": 123337,
       "word": "有一种安心叫中国军人",
@@ -921,6 +1033,14 @@
       "onboard_time": 1663285165,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 117849,
+      "num": 742302,
+      "word": "第九批在韩志愿军烈士遗骸归国",
+      "onboard_time": 1663306048,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117261,
@@ -1035,6 +1155,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 98494,
+      "num": 98494,
+      "word": "白俄总统劈柴称不会让欧洲受冻",
+      "onboard_time": 1663308147,
+      "rank": 45,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 98296,
       "num": 98296,
       "word": "王鹤棣 好笑",
@@ -1113,6 +1241,14 @@
       "onboard_time": 1663285225,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84138,
+      "num": 84138,
+      "word": "这样说话好像能记很多单词",
+      "onboard_time": 1663307967,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 83501,
