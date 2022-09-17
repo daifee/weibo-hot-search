@@ -1,6 +1,6 @@
 {
   "startTime": 1663432368625,
-  "endTime": 1663436589114,
+  "endTime": 1663439340003,
   "band_list": [
     {
       "raw_hot": 1783236,
@@ -411,20 +411,20 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 84025,
+      "num": 84025,
+      "word": "为什么有人热衷于美黑",
+      "onboard_time": 1663434741,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 71810,
       "num": 71810,
       "word": "定期做产检到底有没有必要",
       "onboard_time": 1663414464,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 71366,
-      "num": 71366,
-      "word": "为什么有人热衷于美黑",
-      "onboard_time": 1663434741,
-      "rank": 46,
-      "category": "美妆"
     },
     {
       "raw_hot": 68661,
@@ -457,6 +457,14 @@
       "onboard_time": 1663410025,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 61454,
+      "num": 43806,
+      "word": "丁禹兮跳小天鹅有模有样",
+      "onboard_time": 1663437137,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 38571,
