@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663371765285,
+  "endTime": 1663381553390,
   "band_list": [
     {
       "raw_hot": 20529209,
@@ -321,6 +321,14 @@
       "onboard_time": 1663040554,
       "rank": 20,
       "category": "艺人,科技"
+    },
+    {
+      "raw_hot": 2464796,
+      "num": 2464796,
+      "word": "这样的睡姿最毁腰",
+      "onboard_time": 1663377147,
+      "rank": 0,
+      "category": "其它"
     },
     {
       "raw_hot": 2411747,
@@ -857,6 +865,14 @@
       "onboard_time": 1662951875,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1469126,
+      "num": 1469126,
+      "word": "考研",
+      "onboard_time": 1663370181,
+      "rank": 11,
+      "category": "教育"
     },
     {
       "raw_hot": 1468683,
@@ -2043,6 +2059,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 880256,
+      "num": 880256,
+      "word": "男子欲捐款被保安拦转头捐另一学校",
+      "onboard_time": 1663375045,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 876233,
       "num": 733340,
       "word": "王鹤棣穿貂热到吐舌头",
@@ -2683,6 +2707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 683785,
+      "num": 683785,
+      "word": "任嘉伦演技",
+      "onboard_time": 1663378167,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 682538,
       "num": 682538,
       "word": "苹果确认iOS16存漏洞影响新机激活",
@@ -2835,6 +2867,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 650088,
+      "num": 650088,
+      "word": "为什么突然失去分享欲",
+      "onboard_time": 1663374926,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 649445,
       "num": 649445,
       "word": "浙江教师业绩突出获奖一套房",
@@ -2953,6 +2993,14 @@
       "onboard_time": 1663114651,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 617686,
+      "num": 617686,
+      "word": "第一次见这么多狗团建",
+      "onboard_time": 1663377325,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 617171,
@@ -3401,6 +3449,14 @@
       "onboard_time": 1663144170,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 531289,
+      "num": 531289,
+      "word": "北京今日部分区域试鸣防空警报",
+      "onboard_time": 1663380988,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 531040,
@@ -4155,6 +4211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 444954,
+      "num": 444954,
+      "word": "法国男篮41分大胜波兰男篮",
+      "onboard_time": 1663379968,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 444757,
       "num": 444757,
       "word": "颖儿全素颜出演新剧",
@@ -4297,6 +4361,14 @@
       "onboard_time": 1663047342,
       "rank": 17,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 427494,
+      "num": 427494,
+      "word": "王鹤棣杂志限时两小时卖出7万多",
+      "onboard_time": 1663375947,
+      "rank": 12,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 427235,
@@ -4633,14 +4705,6 @@
       "onboard_time": 1663346662,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 397790,
-      "num": 397790,
-      "word": "考研",
-      "onboard_time": 1663370181,
-      "rank": 11,
-      "category": "教育"
     },
     {
       "raw_hot": 397400,
@@ -5001,6 +5065,14 @@
       "onboard_time": 1663340194,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 368042,
+      "num": 368042,
+      "word": "四六级考试今天开考",
+      "onboard_time": 1663373727,
+      "rank": 13,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 367825,
@@ -5851,6 +5923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310708,
+      "num": 310708,
+      "word": "9月16日新增本土无症状505例",
+      "onboard_time": 1663377928,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310549,
       "num": 310549,
       "word": "今年假期余额还有7天",
@@ -6275,6 +6355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 287955,
+      "num": 287955,
+      "word": "年轻人的周末有多好玩",
+      "onboard_time": 1663378885,
+      "rank": 17,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 287770,
       "num": 287770,
       "word": "男子打拼10年养鸡2000万只",
@@ -6371,6 +6459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 281446,
+      "num": 281446,
+      "word": "这几条鱼吵架了吧",
+      "onboard_time": 1663372044,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 281436,
       "num": 281436,
       "word": "公司回应招人事不录用单身人士",
@@ -6385,6 +6481,14 @@
       "onboard_time": 1662975340,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 279609,
+      "num": 279609,
+      "word": "这就是街舞",
+      "onboard_time": 1663381168,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 279401,
@@ -6435,6 +6539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 277611,
+      "num": 277611,
+      "word": "日料店被举报卖核辐射产地食品",
+      "onboard_time": 1663380446,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277566,
       "num": 186447,
       "word": "朴彩英新歌预告海报",
@@ -6465,6 +6577,14 @@
       "onboard_time": 1663220613,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 276094,
+      "num": 276094,
+      "word": "国产大飞机C919即将取证交付",
+      "onboard_time": 1663375228,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 276046,
@@ -6817,6 +6937,14 @@
       "onboard_time": 1663290029,
       "rank": 20,
       "category": "科技"
+    },
+    {
+      "raw_hot": 259164,
+      "num": 259164,
+      "word": "不要轻易翻开孩子的作业本",
+      "onboard_time": 1663370901,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 258553,
@@ -7347,6 +7475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232012,
+      "num": 232012,
+      "word": "台风过后中学操场游来一条鱼",
+      "onboard_time": 1663379605,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231366,
       "num": 231366,
       "word": "四川泸定的雪山身披金光",
@@ -7507,6 +7643,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 224629,
+      "num": 224629,
+      "word": "李沁 哭戏",
+      "onboard_time": 1663372224,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 223793,
       "num": 223793,
       "word": "成都17日再开展一次全员核酸检测",
@@ -7577,6 +7721,14 @@
       "onboard_time": 1663153588,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 219670,
+      "num": 219670,
+      "word": "贺峻霖一个人凑不齐半个胆",
+      "onboard_time": 1663377386,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 219435,
@@ -7713,6 +7865,14 @@
       "onboard_time": 1663328970,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211315,
+      "num": 211315,
+      "word": "百老汇34年音乐剧歌剧魅影将永久停演",
+      "onboard_time": 1663381228,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 211241,
@@ -8379,6 +8539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 181961,
+      "num": 181961,
+      "word": "优秀的子女必定远离父母吗",
+      "onboard_time": 1663374084,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 181894,
       "num": 181894,
       "word": "蔡徐坤沸腾校园全黑造型路透",
@@ -8553,6 +8721,14 @@
       "onboard_time": 1663298550,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170694,
+      "num": 170694,
+      "word": "官方回应贵阳部分社区凌晨做核酸",
+      "onboard_time": 1663371501,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170575,
@@ -8899,6 +9075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153646,
+      "num": 153646,
+      "word": "陈立农一口炫完一桶果汁",
+      "onboard_time": 1663374748,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153390,
       "num": 113624,
       "word": "请君任嘉伦李沁宿命感好强",
@@ -8921,6 +9105,14 @@
       "onboard_time": 1662991001,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152191,
+      "num": 150797,
+      "word": "殷桃黄小蕾山城冤种姐妹",
+      "onboard_time": 1663379544,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 151990,
@@ -8979,11 +9171,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 146669,
+      "num": 146669,
+      "word": "湖人签回施罗德",
+      "onboard_time": 1663380386,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146389,
       "num": 146389,
       "word": "第一次见在操场上游泳的鱼",
       "onboard_time": 1663320580,
       "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 145096,
+      "num": 145096,
+      "word": "突然觉得这个蛋糕有点吵",
+      "onboard_time": 1663372945,
+      "rank": 39,
       "category": "幽默"
     },
     {
@@ -9001,14 +9209,6 @@
       "onboard_time": 1663076494,
       "rank": 46,
       "category": "美妆,时尚"
-    },
-    {
-      "raw_hot": 144155,
-      "num": 144155,
-      "word": "不要轻易翻开孩子的作业本",
-      "onboard_time": 1663370901,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 143971,
@@ -9411,6 +9611,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 120356,
+      "num": 120356,
+      "word": "山河已无恙忠骨请安息",
+      "onboard_time": 1663381405,
+      "rank": 46,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 120178,
       "num": 120178,
       "word": "house 逐张清点",
@@ -9635,10 +9843,26 @@
       "category": "自然,社会新闻"
     },
     {
+      "raw_hot": 111276,
+      "num": 111276,
+      "word": "中国女排世锦赛16人大名单出炉",
+      "onboard_time": 1663380807,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111270,
       "num": 111270,
       "word": "KSG战胜BOA",
       "onboard_time": 1663073853,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 111254,
+      "num": 111254,
+      "word": "小乖日记",
+      "onboard_time": 1663371865,
       "rank": 49,
       "category": "游戏"
     },
@@ -10001,14 +10225,6 @@
       "onboard_time": 1663235671,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 77823,
-      "num": 77823,
-      "word": "官方回应贵阳部分社区凌晨做核酸",
-      "onboard_time": 1663371501,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 76658,
