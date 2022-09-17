@@ -1,6 +1,6 @@
 {
   "startTime": 1663346071384,
-  "endTime": 1663400290596,
+  "endTime": 1663403379651,
   "band_list": [
     {
       "raw_hot": 2990615,
@@ -99,6 +99,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1045644,
+      "num": 1045644,
+      "word": "考研和读研哪个更累",
+      "onboard_time": 1663397426,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 1038866,
+      "num": 402492,
+      "word": "网传华伦天奴大秀出席艺人",
+      "onboard_time": 1663400786,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1000422,
       "num": 659435,
       "word": "虞书欣素颜出镜好真实",
@@ -163,6 +179,22 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 786222,
+      "num": 786222,
+      "word": "你好星期六今晚修罗场",
+      "onboard_time": 1663399046,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 780800,
+      "num": 780800,
+      "word": "印度多地暴发牛块状皮肤病",
+      "onboard_time": 1663397245,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 767412,
       "num": 767412,
       "word": "澳门健康码遭300多万次网络攻击",
@@ -185,6 +217,14 @@
       "onboard_time": 1663390834,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 738924,
+      "num": 738924,
+      "word": "TypaGirl原本是Lisa的solo歌曲",
+      "onboard_time": 1663400964,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 737721,
@@ -267,14 +307,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 613986,
-      "num": 613986,
-      "word": "你好星期六今晚修罗场",
-      "onboard_time": 1663399046,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 607833,
       "num": 607833,
       "word": "长月烬明集变更为34集",
@@ -289,6 +321,14 @@
       "onboard_time": 1663386567,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 584166,
+      "num": 378152,
+      "word": "虞书欣今天好忙",
+      "onboard_time": 1663400845,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 581066,
@@ -315,20 +355,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 555670,
-      "num": 555670,
-      "word": "印度多地暴发牛块状皮肤病",
-      "onboard_time": 1663397245,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 543928,
       "num": 543928,
       "word": "李沁晒瓜子约小沈阳聊天",
       "onboard_time": 1663397484,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 540154,
+      "num": 319398,
+      "word": "大张伟说录十个综艺为唱一次歌",
+      "onboard_time": 1663401087,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 531289,
@@ -371,14 +411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 487649,
-      "num": 487649,
-      "word": "考研和读研哪个更累",
-      "onboard_time": 1663397426,
-      "rank": 22,
-      "category": "教育"
-    },
-    {
       "raw_hot": 476371,
       "num": 476371,
       "word": "四六级考试今天开考",
@@ -393,6 +425,14 @@
       "onboard_time": 1663344866,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 455198,
+      "num": 455198,
+      "word": "高铁不售卖卫生巾合理吗",
+      "onboard_time": 1663401506,
+      "rank": 8,
+      "category": "社会议题"
     },
     {
       "raw_hot": 444954,
@@ -425,6 +465,14 @@
       "onboard_time": 1663375947,
       "rank": 12,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 426284,
+      "num": 426284,
+      "word": "才知道这种体态不是驼背",
+      "onboard_time": 1663400427,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 405124,
@@ -619,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 289265,
+      "num": 289265,
+      "word": "女子买600个搪瓷缸装喜糖",
+      "onboard_time": 1663401326,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283219,
       "num": 283219,
       "word": "迪丽热巴学鸟叫呱呱",
@@ -771,6 +827,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 250724,
+      "num": 250724,
+      "word": "深圳一男婴出生时4手4脚",
+      "onboard_time": 1663403187,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 246167,
+      "num": 246167,
+      "word": "91岁太奶奶从百宝箱给2岁重孙拿零花钱",
+      "onboard_time": 1663400723,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243343,
       "num": 168140,
       "word": "电视剧底线发布会",
@@ -811,6 +883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 221276,
+      "num": 195956,
+      "word": "苏有朋生图状态",
+      "onboard_time": 1663402046,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 219767,
       "num": 219767,
       "word": "四级翻译又又翻车了",
@@ -832,6 +912,14 @@
       "word": "檀健次 鞋跟",
       "onboard_time": 1663335394,
       "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 215120,
+      "num": 193592,
+      "word": "去年大秀女明星生图",
+      "onboard_time": 1663401025,
+      "rank": 31,
       "category": "作品衍生"
     },
     {
@@ -859,12 +947,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 206360,
+      "num": 192024,
+      "word": "请君",
+      "onboard_time": 1663402765,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 206121,
       "num": 206121,
       "word": "用手分拣小龙虾快到像开了3倍速",
       "onboard_time": 1663396645,
       "rank": 39,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 201200,
+      "num": 201200,
+      "word": "600年前的明朝贵妇奢侈品",
+      "onboard_time": 1663398445,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199955,
@@ -897,6 +1001,14 @@
       "onboard_time": 1663324232,
       "rank": 26,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 190434,
+      "num": 190434,
+      "word": "科学家开发出无痛纹身",
+      "onboard_time": 1663399825,
+      "rank": 48,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 189595,
@@ -1075,20 +1187,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 146640,
+      "num": 141185,
+      "word": "李克勤今天开始不跟李荣浩说话",
+      "onboard_time": 1663401266,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145096,
       "num": 145096,
       "word": "突然觉得这个蛋糕有点吵",
       "onboard_time": 1663372945,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 145076,
-      "num": 145076,
-      "word": "600年前的明朝贵妇奢侈品",
-      "onboard_time": 1663398445,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 144257,
@@ -1347,14 +1459,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 96640,
-      "num": 96640,
-      "word": "科学家开发出无痛纹身",
-      "onboard_time": 1663399825,
-      "rank": 48,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 91372,
       "num": 91372,
       "word": "住院爷爷给夜班护士送泡面",
@@ -1490,6 +1594,9 @@
     },
     {
       "word": "#安全保障发展发展促进安全#"
+    },
+    {
+      "word": "#第九批在韩志愿军烈士安葬仪式#"
     }
   ]
 }
