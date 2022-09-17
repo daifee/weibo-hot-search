@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663406581078,
+  "endTime": 1663407630187,
   "band_list": [
     {
       "raw_hot": 20529209,
@@ -307,6 +307,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 2595568,
+      "num": 655862,
+      "word": "深圳一男婴出生时4手4脚",
+      "onboard_time": 1663403187,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2555826,
       "num": 2555826,
       "word": "官方回应去世老人核酸报告还在更新",
@@ -329,14 +337,6 @@
       "onboard_time": 1663040554,
       "rank": 20,
       "category": "艺人,科技"
-    },
-    {
-      "raw_hot": 2525473,
-      "num": 644497,
-      "word": "深圳一男婴出生时4手4脚",
-      "onboard_time": 1663403187,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2411747,
@@ -2371,6 +2371,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 822905,
+      "num": 455464,
+      "word": "月经贫困纪录片",
+      "onboard_time": 1663403605,
+      "rank": 18,
+      "category": "其它"
+    },
+    {
       "raw_hot": 822478,
       "num": 822478,
       "word": "山东财经大学奖学金",
@@ -2971,6 +2979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 668468,
+      "num": 668468,
+      "word": "张雪峰称考研头铁的人很多",
+      "onboard_time": 1663405947,
+      "rank": 28,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 666417,
       "num": 666417,
       "word": "六公主报道宋亚轩中戏入学",
@@ -3017,14 +3033,6 @@
       "onboard_time": 1663294890,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 657815,
-      "num": 455464,
-      "word": "月经贫困纪录片",
-      "onboard_time": 1663403605,
-      "rank": 18,
-      "category": "其它"
     },
     {
       "raw_hot": 655004,
@@ -5651,6 +5659,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 343791,
+      "num": 343791,
+      "word": "苍兰诀见面会",
+      "onboard_time": 1663406725,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 342902,
       "num": 342902,
       "word": "玉骨遥",
@@ -6899,6 +6915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 280939,
+      "num": 280939,
+      "word": "什么是陈正Cat",
+      "onboard_time": 1663405527,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 280532,
       "num": 280532,
       "word": "杀猪盘骗子屋里搜出一摞撩汉秘籍",
@@ -6993,6 +7017,14 @@
       "onboard_time": 1663310667,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 277167,
+      "num": 277167,
+      "word": "美国房贷利率超6%",
+      "onboard_time": 1663406845,
+      "rank": 16,
+      "category": "财经,国外要闻"
     },
     {
       "raw_hot": 277047,
@@ -7593,6 +7625,14 @@
       "onboard_time": 1663209086,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 249940,
+      "num": 92298,
+      "word": "六级答案",
+      "onboard_time": 1663407626,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 249319,
@@ -8467,14 +8507,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 208340,
-      "num": 208340,
-      "word": "什么是陈正Cat",
-      "onboard_time": 1663405527,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 207345,
       "num": 207345,
       "word": "只有真正的正能量才有长长久久的流量",
@@ -9187,6 +9219,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 177306,
+      "num": 177306,
+      "word": "阴阳师",
+      "onboard_time": 1663026029,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 176888,
       "num": 207391,
       "word": "山东新增本土确诊10例无症状35例",
@@ -9235,6 +9275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 175209,
+      "num": 175209,
+      "word": "Uzi参加LBL",
+      "onboard_time": 1663407267,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 175125,
       "num": 175125,
       "word": "北京新增2例本土确诊",
@@ -9257,14 +9305,6 @@
       "onboard_time": 1663205369,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 174388,
-      "num": 174388,
-      "word": "张雪峰称考研头铁的人很多",
-      "onboard_time": 1663405947,
-      "rank": 28,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 173671,
@@ -9401,14 +9441,6 @@
       "onboard_time": 1663131697,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 168274,
-      "num": 168274,
-      "word": "阴阳师",
-      "onboard_time": 1663026029,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 168244,
@@ -9875,6 +9907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143619,
+      "num": 143619,
+      "word": "肇庆再现卧佛含丹天象奇观",
+      "onboard_time": 1663406607,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143123,
       "num": 143123,
       "word": "钟辰乐钱银",
@@ -9953,6 +9993,14 @@
       "onboard_time": 1663166917,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 138663,
+      "num": 138663,
+      "word": "小柯基忙碌的一周",
+      "onboard_time": 1663406304,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 137531,
@@ -10515,6 +10563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 111914,
+      "num": 111914,
+      "word": "航天员陈冬视角下的地球太美了",
+      "onboard_time": 1663407207,
+      "rank": 42,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 111903,
       "num": 111903,
       "word": "多家国有大行15日起下调个人存款利率",
@@ -10739,6 +10795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101997,
+      "num": 91485,
+      "word": "饿了么免单",
+      "onboard_time": 1663407626,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 101609,
       "num": 101609,
       "word": "周冠宇F1意大利站第10",
@@ -10817,14 +10881,6 @@
       "onboard_time": 1663249899,
       "rank": 49,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 93941,
-      "num": 93941,
-      "word": "小柯基忙碌的一周",
-      "onboard_time": 1663406304,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 92255,

@@ -1,6 +1,6 @@
 {
   "startTime": 1663346071384,
-  "endTime": 1663406581078,
+  "endTime": 1663407630187,
   "band_list": [
     {
       "raw_hot": 2990615,
@@ -11,8 +11,8 @@
       "category": "其它"
     },
     {
-      "raw_hot": 2525473,
-      "num": 644497,
+      "raw_hot": 2595568,
+      "num": 655862,
       "word": "深圳一男婴出生时4手4脚",
       "onboard_time": 1663403187,
       "rank": 17,
@@ -195,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 822905,
+      "num": 455464,
+      "word": "月经贫困纪录片",
+      "onboard_time": 1663403605,
+      "rank": 18,
+      "category": "其它"
+    },
+    {
       "raw_hot": 789126,
       "num": 515265,
       "word": "ale",
@@ -283,12 +291,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 657815,
-      "num": 455464,
-      "word": "月经贫困纪录片",
-      "onboard_time": 1663403605,
-      "rank": 18,
-      "category": "其它"
+      "raw_hot": 668468,
+      "num": 668468,
+      "word": "张雪峰称考研头铁的人很多",
+      "onboard_time": 1663405947,
+      "rank": 28,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 653776,
@@ -563,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 343791,
+      "num": 343791,
+      "word": "苍兰诀见面会",
+      "onboard_time": 1663406725,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 337667,
       "num": 337667,
       "word": "没想到上个厕所也能社死",
@@ -739,6 +755,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 280939,
+      "num": 280939,
+      "word": "什么是陈正Cat",
+      "onboard_time": 1663405527,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 280546,
       "num": 280546,
       "word": "黑话律师",
@@ -769,6 +793,14 @@
       "onboard_time": 1663365492,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 277167,
+      "num": 277167,
+      "word": "美国房贷利率超6%",
+      "onboard_time": 1663406845,
+      "rank": 16,
+      "category": "财经,国外要闻"
     },
     {
       "raw_hot": 276094,
@@ -883,6 +915,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 249940,
+      "num": 92298,
+      "word": "六级答案",
+      "onboard_time": 1663407626,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 245669,
       "num": 245669,
       "word": "咒术回战第2季海报",
@@ -993,14 +1033,6 @@
       "onboard_time": 1663385247,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 208340,
-      "num": 208340,
-      "word": "什么是陈正Cat",
-      "onboard_time": 1663405527,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 206360,
@@ -1123,6 +1155,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 177306,
+      "num": 177306,
+      "word": "阴阳师",
+      "onboard_time": 1663405285,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 176883,
       "num": 176883,
       "word": "养生年轻人的煲汤指南",
@@ -1131,12 +1171,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 174388,
-      "num": 174388,
-      "word": "张雪峰称考研头铁的人很多",
-      "onboard_time": 1663405947,
-      "rank": 28,
-      "category": "教育,社会新闻"
+      "raw_hot": 175209,
+      "num": 175209,
+      "word": "Uzi参加LBL",
+      "onboard_time": 1663407267,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 171081,
@@ -1161,14 +1201,6 @@
       "onboard_time": 1663343608,
       "rank": 45,
       "category": "科技"
-    },
-    {
-      "raw_hot": 168274,
-      "num": 168274,
-      "word": "阴阳师",
-      "onboard_time": 1663405285,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 166038,
@@ -1283,6 +1315,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 143619,
+      "num": 143619,
+      "word": "肇庆再现卧佛含丹天象奇观",
+      "onboard_time": 1663406607,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141862,
       "num": 141862,
       "word": "成都沃尔玛现3238元天价白菜",
@@ -1297,6 +1337,14 @@
       "onboard_time": 1663328549,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 138663,
+      "num": 138663,
+      "word": "小柯基忙碌的一周",
+      "onboard_time": 1663406304,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 137531,
@@ -1419,6 +1467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 111914,
+      "num": 111914,
+      "word": "航天员陈冬视角下的地球太美了",
+      "onboard_time": 1663407207,
+      "rank": 42,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 111276,
       "num": 111276,
       "word": "中国女排世锦赛16人大名单出炉",
@@ -1507,6 +1563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101997,
+      "num": 91485,
+      "word": "饿了么免单",
+      "onboard_time": 1663407626,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 97493,
       "num": 97493,
       "word": "Faithbian称TI11后将退役",
@@ -1529,14 +1593,6 @@
       "onboard_time": 1663399106,
       "rank": 47,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 93941,
-      "num": 93941,
-      "word": "小柯基忙碌的一周",
-      "onboard_time": 1663406304,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 91372,
@@ -1677,6 +1733,9 @@
     },
     {
       "word": "#第九批在韩志愿军烈士安葬仪式#"
+    },
+    {
+      "word": "#坐标中国#"
     }
   ]
 }

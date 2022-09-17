@@ -1,0 +1,410 @@
+{
+  "runTime": 1663407630187,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 904496,
+        "num": 904496,
+        "word": "你好星期六今晚修罗场",
+        "onboard_time": 1663399046,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 668468,
+        "num": 668468,
+        "word": "张雪峰称考研头铁的人很多",
+        "onboard_time": 1663405947,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 113800,
+        "num": 657022,
+        "word": "英雄回家",
+        "onboard_time": 1663384585,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 2595568,
+        "num": 655862,
+        "word": "深圳一男婴出生时4手4脚",
+        "onboard_time": 1663403187,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 654578,
+        "num": 654578,
+        "word": "茶颜悦色声明撤下Sexytea标识",
+        "onboard_time": 1663396285,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 590427,
+        "num": 590427,
+        "word": "这样的睡姿最毁腰",
+        "onboard_time": 1663377147,
+        "rank": 5,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 588605,
+        "num": 588605,
+        "word": "TypaGirl原本是Lisa的solo歌曲",
+        "onboard_time": 1663400964,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 576401,
+        "num": 576401,
+        "word": "考研和读研哪个更累",
+        "onboard_time": 1663397426,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 469199,
+        "num": 469199,
+        "word": "才知道这种体态不是驼背",
+        "onboard_time": 1663400427,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 447375,
+        "num": 447375,
+        "word": "大张伟说录十个综艺为唱一次歌",
+        "onboard_time": 1663401087,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 411379,
+        "num": 411379,
+        "word": "女子买600个搪瓷缸装喜糖",
+        "onboard_time": 1663401326,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380643,
+        "num": 380643,
+        "word": "网传华伦天奴大秀出席艺人",
+        "onboard_time": 1663400786,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377888,
+        "num": 377888,
+        "word": "妹妹为照顾外甥与姐夫重组家庭",
+        "onboard_time": 1663390708,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343791,
+        "num": 343791,
+        "word": "苍兰诀见面会",
+        "onboard_time": 1663406725,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 337319,
+        "num": 337319,
+        "word": "虞书欣公主风造型九宫格",
+        "onboard_time": 1663406065,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 280939,
+        "num": 280939,
+        "word": "什么是陈正Cat",
+        "onboard_time": 1663405527,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 277167,
+        "num": 277167,
+        "word": "美国房贷利率超6%",
+        "onboard_time": 1663406845,
+        "rank": 16,
+        "category": "财经,国外要闻"
+      },
+      {
+        "raw_hot": 255105,
+        "num": 255105,
+        "word": "27岁女子婚外产子后弃婴获刑",
+        "onboard_time": 1663391187,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240173,
+        "num": 240173,
+        "word": "咒术回战第2季海报",
+        "onboard_time": 1663403666,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 238598,
+        "num": 238598,
+        "word": "印度多地暴发牛块状皮肤病",
+        "onboard_time": 1663397245,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 822905,
+        "num": 236788,
+        "word": "月经贫困纪录片",
+        "onboard_time": 1663403605,
+        "rank": 20,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 279137,
+        "num": 229618,
+        "word": "檀健次你安全吗尺度好大",
+        "onboard_time": 1663392088,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278646,
+        "num": 219386,
+        "word": "雨神来了但河南没下雨",
+        "onboard_time": 1663404865,
+        "rank": 22,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 258119,
+        "num": 216661,
+        "word": "苏有朋生图状态",
+        "onboard_time": 1663402046,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1101849,
+        "num": 208682,
+        "word": "高铁不售卖卫生巾合理吗",
+        "onboard_time": 1663401506,
+        "rank": 24,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 205282,
+        "num": 205282,
+        "word": "91岁太奶奶从百宝箱给2岁重孙拿零花钱",
+        "onboard_time": 1663400723,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192963,
+        "num": 192963,
+        "word": "上海合格考",
+        "onboard_time": 1663406126,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 188923,
+        "num": 188923,
+        "word": "男子买糖葫芦发现黑虫大妈当场吃掉",
+        "onboard_time": 1663389567,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182998,
+        "num": 182998,
+        "word": "JackeyLove新发色",
+        "onboard_time": 1663393768,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 177306,
+        "num": 177306,
+        "word": "阴阳师",
+        "onboard_time": 1663405285,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 209527,
+        "num": 176921,
+        "word": "星汉灿烂收官战报",
+        "onboard_time": 1663390834,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208280,
+        "num": 176240,
+        "word": "韩剧最令人意难平的男2",
+        "onboard_time": 1663396410,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175209,
+        "num": 175209,
+        "word": "Uzi参加LBL",
+        "onboard_time": 1663407267,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150472,
+        "num": 150472,
+        "word": "消防员放生果子狸反被追得满山跑",
+        "onboard_time": 1663393288,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144116,
+        "num": 144116,
+        "word": "为什么突然失去分享欲",
+        "onboard_time": 1663374926,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143619,
+        "num": 143619,
+        "word": "肇庆再现卧佛含丹天象奇观",
+        "onboard_time": 1663406607,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138663,
+        "num": 138663,
+        "word": "小柯基忙碌的一周",
+        "onboard_time": 1663406304,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129867,
+        "num": 129867,
+        "word": "科学家开发出无痛纹身",
+        "onboard_time": 1663399825,
+        "rank": 37,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 129145,
+        "num": 129145,
+        "word": "普京称将尽快结束乌克兰冲突",
+        "onboard_time": 1663384706,
+        "rank": 38,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 128091,
+        "num": 128091,
+        "word": "没想到上个厕所也能社死",
+        "onboard_time": 1663395565,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127766,
+        "num": 127766,
+        "word": "去年大秀女明星生图",
+        "onboard_time": 1663401025,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114517,
+        "num": 114517,
+        "word": "吴尊友谈如何预防猴痘感染",
+        "onboard_time": 1663399467,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111914,
+        "num": 111914,
+        "word": "航天员陈冬视角下的地球太美了",
+        "onboard_time": 1663407207,
+        "rank": 42,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 109899,
+        "num": 109899,
+        "word": "600年前的明朝贵妇奢侈品",
+        "onboard_time": 1663398445,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103902,
+        "num": 103902,
+        "word": "李沁晒瓜子约小沈阳聊天",
+        "onboard_time": 1663397484,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103225,
+        "num": 103225,
+        "word": "被小朋友的豆豆本震惊到",
+        "onboard_time": 1663391908,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95826,
+        "num": 95826,
+        "word": "迪丽热巴黑色镶钻礼服拍摄花絮",
+        "onboard_time": 1663395324,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 249940,
+        "num": 92298,
+        "word": "六级答案",
+        "onboard_time": 1663407626,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 101997,
+        "num": 91485,
+        "word": "饿了么免单",
+        "onboard_time": 1663407626,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 88223,
+        "num": 88223,
+        "word": "男子为泄愤放火烧自己家被判刑",
+        "onboard_time": 1663386927,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#坐标中国#"
+    }
+  }
+}
