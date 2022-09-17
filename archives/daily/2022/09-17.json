@@ -1,6 +1,6 @@
 {
   "startTime": 1663346071384,
-  "endTime": 1663393933493,
+  "endTime": 1663396181578,
   "band_list": [
     {
       "raw_hot": 2990615,
@@ -59,12 +59,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1224808,
+      "raw_hot": 1339057,
+      "num": 676244,
+      "word": "妹妹为照顾外甥与姐夫重组家庭",
+      "onboard_time": 1663390708,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1291277,
       "num": 924022,
       "word": "27岁女子婚外产子后弃婴获刑",
       "onboard_time": 1663391187,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1095436,
+      "num": 1095436,
+      "word": "檀健次你安全吗尺度好大",
+      "onboard_time": 1663392088,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 1090549,
@@ -73,6 +89,14 @@
       "onboard_time": 1663383147,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1000422,
+      "num": 659435,
+      "word": "虞书欣素颜出镜好真实",
+      "onboard_time": 1663392148,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 980284,
@@ -131,14 +155,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 786375,
-      "num": 659435,
-      "word": "虞书欣素颜出镜好真实",
-      "onboard_time": 1663392148,
-      "rank": 10,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 767412,
       "num": 767412,
       "word": "澳门健康码遭300多万次网络攻击",
@@ -160,14 +176,6 @@
       "word": "星汉灿烂收官战报",
       "onboard_time": 1663390834,
       "rank": 6,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 737804,
-      "num": 737804,
-      "word": "檀健次你安全吗尺度好大",
-      "onboard_time": 1663392088,
-      "rank": 11,
       "category": "影视"
     },
     {
@@ -203,12 +211,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 676244,
-      "num": 676244,
-      "word": "妹妹为照顾外甥与姐夫重组家庭",
-      "onboard_time": 1663390708,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 653776,
+      "num": 389131,
+      "word": "JackeyLove新发色",
+      "onboard_time": 1663393768,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 651574,
@@ -355,6 +363,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 407352,
+      "num": 407352,
+      "word": "消防员放生果子狸反被追得满山跑",
+      "onboard_time": 1663393288,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 405124,
       "num": 405124,
       "word": "张杰现身支持谢娜话剧首演",
@@ -425,6 +441,14 @@
       "onboard_time": 1663385908,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 332076,
+      "num": 251975,
+      "word": "迪丽热巴黑色镶钻礼服拍摄花絮",
+      "onboard_time": 1663395324,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 323050,
@@ -668,7 +692,7 @@
     },
     {
       "raw_hot": 238811,
-      "num": 153790,
+      "num": 160749,
       "word": "你好星期六",
       "onboard_time": 1663393526,
       "rank": 32,
@@ -729,6 +753,14 @@
       "onboard_time": 1663385247,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 207069,
+      "num": 207069,
+      "word": "四级翻译又又翻车了",
+      "onboard_time": 1663388968,
+      "rank": 43,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 199955,
@@ -843,6 +875,22 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 162942,
+      "num": 162942,
+      "word": "被小朋友的豆豆本震惊到",
+      "onboard_time": 1663391908,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 161356,
+      "num": 161356,
+      "word": "我眼中的啊泽",
+      "onboard_time": 1663394906,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 159168,
       "num": 1453332,
       "word": "英雄回家",
@@ -865,14 +913,6 @@
       "onboard_time": 1663392630,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 154806,
-      "num": 154806,
-      "word": "消防员放生果子狸反被追得满山跑",
-      "onboard_time": 1663393288,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 154414,
@@ -921,14 +961,6 @@
       "onboard_time": 1663337853,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 146219,
-      "num": 146219,
-      "word": "四级翻译又又翻车了",
-      "onboard_time": 1663388968,
-      "rank": 43,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 145096,
@@ -1017,14 +1049,6 @@
       "onboard_time": 1663360690,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 127586,
-      "num": 127586,
-      "word": "JackeyLove新发色",
-      "onboard_time": 1663393768,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 126749,
@@ -1139,6 +1163,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 106968,
+      "num": 106968,
+      "word": "这是把画玩出花来了",
+      "onboard_time": 1663395627,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106756,
       "num": 106756,
       "word": "南昌一女子遭酒后男子入室猥亵",
@@ -1163,6 +1195,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102097,
+      "num": 102097,
+      "word": "没想到上个厕所也能社死",
+      "onboard_time": 1663395565,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 97493,
+      "num": 97493,
+      "word": "Faithbian称TI11后将退役",
+      "onboard_time": 1663390834,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 96975,
       "num": 96975,
       "word": "爱上一个人需要理由吗",
@@ -1171,20 +1219,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 94832,
+      "num": 94832,
+      "word": "山东大姐把煎饼卷成花花世界",
+      "onboard_time": 1663395985,
+      "rank": 46,
+      "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 91372,
+      "num": 91372,
+      "word": "住院爷爷给夜班护士送泡面",
+      "onboard_time": 1663395206,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91266,
       "num": 91266,
       "word": "人到中老年还能遇到真爱吗",
       "onboard_time": 1663363750,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 89773,
-      "num": 89773,
-      "word": "Faithbian称TI11后将退役",
-      "onboard_time": 1663390834,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 89718,
@@ -1273,6 +1329,14 @@
       "onboard_time": 1663357511,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 4988,
+      "num": 382226,
+      "word": "那些特别的涂鸦设计",
+      "onboard_time": 1663395324,
+      "rank": 14,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
