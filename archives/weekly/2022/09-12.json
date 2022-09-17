@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663396181578,
+  "endTime": 1663397299371,
   "band_list": [
     {
       "raw_hot": 20529209,
@@ -1211,6 +1211,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1267706,
+      "num": 1267706,
+      "word": "檀健次你安全吗尺度好大",
+      "onboard_time": 1663392088,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1255504,
       "num": 1255504,
       "word": "Twins不承认吴谨言的粤语是自己教的",
@@ -1560,14 +1568,6 @@
       "word": "荣梓杉 美甲",
       "onboard_time": 1663036411,
       "rank": 5,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1095436,
-      "num": 1095436,
-      "word": "檀健次你安全吗尺度好大",
-      "onboard_time": 1663392088,
-      "rank": 11,
       "category": "影视"
     },
     {
@@ -2673,6 +2673,14 @@
       "onboard_time": 1663168655,
       "rank": 35,
       "category": "科技"
+    },
+    {
+      "raw_hot": 731402,
+      "num": 232148,
+      "word": "肖战入选推特时尚热门人物",
+      "onboard_time": 1663396645,
+      "rank": 20,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 729852,
@@ -4003,6 +4011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 477081,
+      "num": 477081,
+      "word": "消防员放生果子狸反被追得满山跑",
+      "onboard_time": 1663393288,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 476551,
       "num": 476551,
       "word": "男生将头伸进床头护栏被一秒封印",
@@ -4777,14 +4793,6 @@
       "onboard_time": 1663137146,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 407352,
-      "num": 407352,
-      "word": "消防员放生果子狸反被追得满山跑",
-      "onboard_time": 1663393288,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 406487,
@@ -7339,6 +7347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 252576,
+      "num": 252576,
+      "word": "被小朋友的豆豆本震惊到",
+      "onboard_time": 1663391908,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 252548,
       "num": 252548,
       "word": "檀健次新剧状态",
@@ -7643,6 +7659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 238192,
+      "num": 220679,
+      "word": "韩剧最令人意难平的男2",
+      "onboard_time": 1663396410,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 237947,
       "num": 237947,
       "word": "河南一快递点10秒传送300件快递",
@@ -7769,6 +7793,14 @@
       "onboard_time": 1663049915,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232428,
+      "num": 232428,
+      "word": "我眼中的啊泽",
+      "onboard_time": 1663394906,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 231366,
@@ -8001,6 +8033,14 @@
       "onboard_time": 1663165656,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219767,
+      "num": 219767,
+      "word": "四级翻译又又翻车了",
+      "onboard_time": 1663388968,
+      "rank": 43,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 219765,
@@ -8241,14 +8281,6 @@
       "onboard_time": 1663252121,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 207069,
-      "num": 207069,
-      "word": "四级翻译又又翻车了",
-      "onboard_time": 1663388968,
-      "rank": 43,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 206856,
@@ -8611,6 +8643,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 192985,
+      "num": 192985,
+      "word": "茶颜悦色声明撤下Sexytea标识",
+      "onboard_time": 1663396285,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192481,
       "num": 192481,
       "word": "人们往往高估了外界对自己的关注程度",
@@ -8657,6 +8697,14 @@
       "onboard_time": 1662984276,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190465,
+      "num": 190465,
+      "word": "没想到上个厕所也能社死",
+      "onboard_time": 1663395565,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 190412,
@@ -8849,6 +8897,14 @@
       "onboard_time": 1663247852,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 182608,
+      "num": 182608,
+      "word": "山东大姐把煎饼卷成花花世界",
+      "onboard_time": 1663395985,
+      "rank": 46,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 181961,
@@ -9211,14 +9267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 162942,
-      "num": 162942,
-      "word": "被小朋友的豆豆本震惊到",
-      "onboard_time": 1663391908,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 162206,
       "num": 153213,
       "word": "白冰新剧用30万与原生家庭和解",
@@ -9249,14 +9297,6 @@
       "onboard_time": 1663076555,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161356,
-      "num": 161356,
-      "word": "我眼中的啊泽",
-      "onboard_time": 1663394906,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 161065,
@@ -10307,6 +10347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109352,
+      "num": 109352,
+      "word": "用手分拣小龙虾快到像开了3倍速",
+      "onboard_time": 1663396645,
+      "rank": 39,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 108658,
       "num": 108658,
       "word": "严禁以分班为名强制学生购买平板",
@@ -10443,14 +10491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 102097,
-      "num": 102097,
-      "word": "没想到上个厕所也能社死",
-      "onboard_time": 1663395565,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 101609,
       "num": 101609,
       "word": "周冠宇F1意大利站第10",
@@ -10521,14 +10561,6 @@
       "onboard_time": 1662914671,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 94832,
-      "num": 94832,
-      "word": "山东大姐把煎饼卷成花花世界",
-      "onboard_time": 1663395985,
-      "rank": 46,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 94709,
@@ -10721,6 +10753,14 @@
       "onboard_time": 1662893041,
       "rank": 37,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 75840,
+      "num": 75840,
+      "word": "印度多地暴发牛块状皮肤病",
+      "onboard_time": 1663397245,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74171,
