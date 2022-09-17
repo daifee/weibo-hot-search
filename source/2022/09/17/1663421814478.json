@@ -1,0 +1,410 @@
+{
+  "runTime": 1663421814478,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1367712,
+        "num": 1367712,
+        "word": "苍兰诀直播",
+        "onboard_time": 1663410025,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1092457,
+        "num": 1092457,
+        "word": "女生走5分钟到距家600米大学报到",
+        "onboard_time": 1663413204,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 35375,
+        "num": 1031218,
+        "word": "英雄回家",
+        "onboard_time": 1663384585,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1373839,
+        "num": 1005514,
+        "word": "深圳一男婴出生时4手4脚",
+        "onboard_time": 1663403187,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1292937,
+        "num": 999585,
+        "word": "张凌赫看虞书欣抱王鹤棣的表情",
+        "onboard_time": 1663419508,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 973149,
+        "num": 973149,
+        "word": "这就是顶级破碎感吧",
+        "onboard_time": 1663410926,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 686071,
+        "num": 686071,
+        "word": "男子买大盒鱿鱼片拆后仅有一小片",
+        "onboard_time": 1663414707,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 660803,
+        "num": 660803,
+        "word": "拉萨市领导就疫情防控工作不足致歉",
+        "onboard_time": 1663418848,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410223,
+        "num": 410223,
+        "word": "你有多久没被拥抱过了",
+        "onboard_time": 1663410446,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 350685,
+        "num": 350685,
+        "word": "定期做产检到底有没有必要",
+        "onboard_time": 1663414464,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 721044,
+        "num": 339904,
+        "word": "这就是打磨了四年的剧本吗",
+        "onboard_time": 1663410146,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 665880,
+        "num": 333873,
+        "word": "你好星期六修罗场观后感",
+        "onboard_time": 1663419208,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 653749,
+        "num": 319285,
+        "word": "IU演唱会上的草莓月亮",
+        "onboard_time": 1663419268,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 285784,
+        "num": 285784,
+        "word": "硕士毕业送外卖当事人回应争议",
+        "onboard_time": 1663408706,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278405,
+        "num": 278405,
+        "word": "当女朋友打游戏被欺负了时",
+        "onboard_time": 1663416809,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 271818,
+        "num": 271818,
+        "word": "大妈顺走外卖被失主次日偶遇认出",
+        "onboard_time": 1663409425,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267130,
+        "num": 267130,
+        "word": "Uzi参加LBL",
+        "onboard_time": 1663407267,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 256499,
+        "num": 256499,
+        "word": "德国正式接管俄石油公司在德业务",
+        "onboard_time": 1663409608,
+        "rank": 17,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 229860,
+        "num": 229860,
+        "word": "男童滑板失控瞬间少年一把拉住",
+        "onboard_time": 1663416027,
+        "rank": 18,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 203693,
+        "num": 203693,
+        "word": "六级答案",
+        "onboard_time": 1663407626,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 647944,
+        "num": 203377,
+        "word": "徐梦洁关晓彤姐妹合拍模板",
+        "onboard_time": 1663421549,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 496107,
+        "num": 200994,
+        "word": "井胧 彼岸",
+        "onboard_time": 1663414827,
+        "rank": 21,
+        "category": "影视,音乐"
+      },
+      {
+        "raw_hot": 568068,
+        "num": 200070,
+        "word": "成毅你好星期六下期预告",
+        "onboard_time": 1663419750,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198382,
+        "num": 198382,
+        "word": "2000元空调维修要价1000元",
+        "onboard_time": 1663411828,
+        "rank": 23,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 180721,
+        "num": 180721,
+        "word": "张雪峰称考研头铁的人很多",
+        "onboard_time": 1663405947,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 178511,
+        "num": 178511,
+        "word": "Doinb",
+        "onboard_time": 1663409906,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173953,
+        "num": 173953,
+        "word": "深圳人的周末有多快乐",
+        "onboard_time": 1663412966,
+        "rank": 26,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 170776,
+        "num": 170776,
+        "word": "赵一曼海外留学档案被征集回国",
+        "onboard_time": 1663418784,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155857,
+        "num": 155857,
+        "word": "哈兰德破门",
+        "onboard_time": 1663416989,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137391,
+        "num": 137391,
+        "word": "航天员开舱门瞬间遇上日出",
+        "onboard_time": 1663418126,
+        "rank": 29,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 279129,
+        "num": 137298,
+        "word": "朱亚文万茜新剧桌下吻",
+        "onboard_time": 1663417647,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 705663,
+        "num": 137260,
+        "word": "国内6大航司回复是否售卖卫生巾",
+        "onboard_time": 1663416270,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254299,
+        "num": 137088,
+        "word": "王太 苍兰诀",
+        "onboard_time": 1663411887,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219364,
+        "num": 136964,
+        "word": "玉骨遥",
+        "onboard_time": 1663418905,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204479,
+        "num": 136831,
+        "word": "苍兰诀见面会全员合影",
+        "onboard_time": 1663413688,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136811,
+        "num": 136811,
+        "word": "考公考研热带火付费自习室",
+        "onboard_time": 1663420827,
+        "rank": 35,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 113616,
+        "num": 113616,
+        "word": "男童坐滑板急速冲坡少年飞身拦抱",
+        "onboard_time": 1663414104,
+        "rank": 36,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 112982,
+        "num": 112982,
+        "word": "狼队vs曼城",
+        "onboard_time": 1663416929,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109469,
+        "num": 109469,
+        "word": "为什么突然失去分享欲",
+        "onboard_time": 1663374926,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104530,
+        "num": 104530,
+        "word": "美国房贷利率超6%",
+        "onboard_time": 1663406845,
+        "rank": 39,
+        "category": "财经,国外要闻"
+      },
+      {
+        "raw_hot": 178629,
+        "num": 104070,
+        "word": "王一博简洁黑白T叠搭造型",
+        "onboard_time": 1663417647,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156237,
+        "num": 104019,
+        "word": "蔡徐坤从学员舞台中看到坚持",
+        "onboard_time": 1663416568,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103571,
+        "num": 103571,
+        "word": "女子买600个搪瓷缸装喜糖",
+        "onboard_time": 1663401326,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99384,
+        "num": 99384,
+        "word": "考研和读研哪个更累",
+        "onboard_time": 1663397426,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 91424,
+        "num": 91424,
+        "word": "茶颜悦色声明撤下Sexytea标识",
+        "onboard_time": 1663396285,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83603,
+        "num": 83603,
+        "word": "六级翻译cctv",
+        "onboard_time": 1663409906,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 79769,
+        "num": 79769,
+        "word": "妹妹为照顾外甥与姐夫重组家庭",
+        "onboard_time": 1663390708,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74966,
+        "num": 74966,
+        "word": "郭艾伦",
+        "onboard_time": 1663408944,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71341,
+        "num": 71341,
+        "word": "咒术回战第2季海报",
+        "onboard_time": 1663403666,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 64399,
+        "num": 64399,
+        "word": "才知道这种体态不是驼背",
+        "onboard_time": 1663400427,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#神十四航天员再出舱#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1663346071384,
-  "endTime": 1663419898802,
+  "endTime": 1663421814478,
   "band_list": [
     {
       "raw_hot": 2990615,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2098897,
-      "num": 929116,
+      "num": 999585,
       "word": "张凌赫看虞书欣抱王鹤棣的表情",
       "onboard_time": 1663419508,
       "rank": 3,
@@ -235,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 973149,
+      "num": 973149,
+      "word": "这就是顶级破碎感吧",
+      "onboard_time": 1663410926,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 967355,
       "num": 967355,
       "word": "德国正式接管俄石油公司在德业务",
@@ -289,14 +297,6 @@
       "onboard_time": 1663341394,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 850586,
-      "num": 432040,
-      "word": "这就是顶级破碎感吧",
-      "onboard_time": 1663410926,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 846949,
@@ -411,6 +411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 705663,
+      "num": 143149,
+      "word": "国内6大航司回复是否售卖卫生巾",
+      "onboard_time": 1663416270,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 692539,
       "num": 357486,
       "word": "成毅你好星期六下期预告",
@@ -435,12 +443,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 665880,
+      "num": 333873,
+      "word": "你好星期六修罗场观后感",
+      "onboard_time": 1663419208,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 660803,
+      "num": 660803,
+      "word": "拉萨市领导就疫情防控工作不足致歉",
+      "onboard_time": 1663418848,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 653776,
       "num": 391537,
       "word": "JackeyLove新发色",
       "onboard_time": 1663393768,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 653749,
+      "num": 319285,
+      "word": "IU演唱会上的草莓月亮",
+      "onboard_time": 1663419268,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 651574,
@@ -465,6 +497,14 @@
       "onboard_time": 1663374926,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 647944,
+      "num": 203377,
+      "word": "徐梦洁关晓彤姐妹合拍模板",
+      "onboard_time": 1663421549,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 639228,
@@ -528,14 +568,6 @@
       "word": "男子买糖葫芦发现黑虫大妈当场吃掉",
       "onboard_time": 1663389567,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 548960,
-      "num": 143149,
-      "word": "国内6大航司回复是否售卖卫生巾",
-      "onboard_time": 1663416270,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -753,14 +785,6 @@
       "onboard_time": 1663409608,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 379309,
-      "num": 219648,
-      "word": "你好星期六修罗场观后感",
-      "onboard_time": 1663419208,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 373044,
@@ -1212,7 +1236,7 @@
     },
     {
       "raw_hot": 239463,
-      "num": 136888,
+      "num": 136964,
       "word": "玉骨遥",
       "onboard_time": 1663418905,
       "rank": 32,
@@ -1241,6 +1265,14 @@
       "onboard_time": 1663406607,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229860,
+      "num": 229860,
+      "word": "男童滑板失控瞬间少年一把拉住",
+      "onboard_time": 1663416027,
+      "rank": 39,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 229308,
@@ -1355,14 +1387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 200559,
-      "num": 200559,
-      "word": "拉萨市领导就疫情防控工作不足致歉",
-      "onboard_time": 1663418848,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 199955,
       "num": 199955,
       "word": "光与夜之恋",
@@ -1377,14 +1401,6 @@
       "onboard_time": 1663341693,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 199200,
-      "num": 118577,
-      "word": "IU演唱会上的草莓月亮",
-      "onboard_time": 1663419268,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 194501,
@@ -1539,6 +1555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 170776,
+      "num": 170776,
+      "word": "赵一曼海外留学档案被征集回国",
+      "onboard_time": 1663418784,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170694,
       "num": 170694,
       "word": "官方回应贵阳部分社区凌晨做核酸",
@@ -1617,6 +1641,14 @@
       "onboard_time": 1663392630,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 155857,
+      "num": 155857,
+      "word": "哈兰德破门",
+      "onboard_time": 1663416989,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 154414,
@@ -1731,20 +1763,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 137520,
-      "num": 137520,
-      "word": "哈兰德破门",
-      "onboard_time": 1663416989,
-      "rank": 36,
-      "category": "体育"
+      "raw_hot": 137391,
+      "num": 137391,
+      "word": "航天员开舱门瞬间遇上日出",
+      "onboard_time": 1663418126,
+      "rank": 48,
+      "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 135804,
-      "num": 135804,
-      "word": "男童滑板失控瞬间少年一把拉住",
-      "onboard_time": 1663416027,
-      "rank": 39,
-      "category": "社会正能量"
+      "raw_hot": 136811,
+      "num": 136811,
+      "word": "考公考研热带火付费自习室",
+      "onboard_time": 1663420827,
+      "rank": 35,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 135335,
@@ -1857,14 +1889,6 @@
       "onboard_time": 1663328311,
       "rank": 42,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 119248,
-      "num": 119248,
-      "word": "赵一曼海外留学档案被征集回国",
-      "onboard_time": 1663418784,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 114402,
@@ -2025,14 +2049,6 @@
       "onboard_time": 1663387648,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 86164,
-      "num": 86164,
-      "word": "航天员开舱门瞬间遇上日出",
-      "onboard_time": 1663418126,
-      "rank": 48,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 80147,
