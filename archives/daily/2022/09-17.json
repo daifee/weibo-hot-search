@@ -1,6 +1,6 @@
 {
   "startTime": 1663346071384,
-  "endTime": 1663413587741,
+  "endTime": 1663414612801,
   "band_list": [
     {
       "raw_hot": 2990615,
@@ -211,20 +211,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 967355,
+      "num": 967355,
+      "word": "德国正式接管俄石油公司在德业务",
+      "onboard_time": 1663409608,
+      "rank": 35,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 953000,
       "num": 953000,
       "word": "四级答案",
       "onboard_time": 1663386327,
       "rank": 5,
       "category": "教育"
-    },
-    {
-      "raw_hot": 882946,
-      "num": 882946,
-      "word": "德国正式接管俄石油公司在德业务",
-      "onboard_time": 1663409608,
-      "rank": 35,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 880256,
@@ -273,6 +273,14 @@
       "onboard_time": 1663403605,
       "rank": 18,
       "category": "其它"
+    },
+    {
+      "raw_hot": 813130,
+      "num": 813130,
+      "word": "这就是打磨了四年的剧本吗",
+      "onboard_time": 1663410146,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 789126,
@@ -411,6 +419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 639228,
+      "num": 449753,
+      "word": "王鹤棣苍兰诀见面会造型",
+      "onboard_time": 1663414046,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 617686,
       "num": 617686,
       "word": "第一次见这么多狗团建",
@@ -432,14 +448,6 @@
       "word": "苍兰诀",
       "onboard_time": 1663386567,
       "rank": 9,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 590345,
-      "num": 590345,
-      "word": "这就是打磨了四年的剧本吗",
-      "onboard_time": 1663410146,
-      "rank": 34,
       "category": "影视"
     },
     {
@@ -587,11 +595,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 436144,
+      "num": 436144,
+      "word": "你有多久没被拥抱过了",
+      "onboard_time": 1663410446,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 436049,
       "num": 436049,
       "word": "颖儿发文回应全素颜上镜",
       "onboard_time": 1663387769,
       "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 432040,
+      "num": 432040,
+      "word": "这就是顶级破碎感吧",
+      "onboard_time": 1663410926,
+      "rank": 36,
       "category": "影视"
     },
     {
@@ -611,20 +635,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 422782,
+      "num": 422782,
+      "word": "2000元空调维修要价1000元",
+      "onboard_time": 1663411828,
+      "rank": 18,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 405124,
       "num": 405124,
       "word": "张杰现身支持谢娜话剧首演",
       "onboard_time": 1663390406,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 403755,
-      "num": 403755,
-      "word": "你有多久没被拥抱过了",
-      "onboard_time": 1663410446,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 403233,
@@ -673,14 +697,6 @@
       "onboard_time": 1663378885,
       "rank": 17,
       "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 363015,
-      "num": 363015,
-      "word": "这就是顶级破碎感吧",
-      "onboard_time": 1663410926,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 359165,
@@ -803,20 +819,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 307367,
+      "num": 307367,
+      "word": "女生走5分钟到距家600米大学报到",
+      "onboard_time": 1663413204,
+      "rank": 37,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 304698,
       "num": 304698,
       "word": "女子捡回流浪狗40天变化让人破防",
       "onboard_time": 1663341156,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 304270,
-      "num": 304270,
-      "word": "2000元空调维修要价1000元",
-      "onboard_time": 1663411828,
-      "rank": 18,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 302132,
@@ -945,6 +961,14 @@
       "onboard_time": 1663375228,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274905,
+      "num": 274905,
+      "word": "定期做产检到底有没有必要",
+      "onboard_time": 1663414464,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 273249,
@@ -1251,6 +1275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188689,
+      "num": 188689,
+      "word": "深圳人的周末有多快乐",
+      "onboard_time": 1663412966,
+      "rank": 42,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 188599,
       "num": 188599,
       "word": "男子花15万买iPhone平台疑跑路",
@@ -1332,7 +1364,7 @@
     },
     {
       "raw_hot": 173578,
-      "num": 139927,
+      "num": 142794,
       "word": "焦俊艳与妈妈是跨时空工友",
       "onboard_time": 1663407747,
       "rank": 41,
@@ -1393,6 +1425,14 @@
       "onboard_time": 1663405765,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 163125,
+      "num": 161178,
+      "word": "虞书欣喊话王一栩二搭校园剧",
+      "onboard_time": 1663414528,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 159168,
@@ -1523,8 +1563,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 137758,
-      "num": 120690,
+      "raw_hot": 138597,
+      "num": 138597,
       "word": "李沁小沈阳直播剧透大结局",
       "onboard_time": 1663412246,
       "rank": 41,
@@ -1595,14 +1635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 128843,
-      "num": 128843,
-      "word": "女生走5分钟到距家600米大学报到",
-      "onboard_time": 1663413204,
-      "rank": 37,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 127455,
       "num": 127455,
       "word": "六级听力",
@@ -1657,14 +1689,6 @@
       "onboard_time": 1663328311,
       "rank": 42,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 118696,
-      "num": 118696,
-      "word": "深圳人的周末有多快乐",
-      "onboard_time": 1663412966,
-      "rank": 42,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 114402,
