@@ -1,6 +1,6 @@
 {
   "startTime": 1663346071384,
-  "endTime": 1663428273396,
+  "endTime": 1663429363126,
   "band_list": [
     {
       "raw_hot": 8423913,
@@ -51,20 +51,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1982284,
+      "num": 1982284,
+      "word": "情侣间需要每天聊天吗",
+      "onboard_time": 1663426594,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1788762,
+      "num": 1788762,
+      "word": "张彬彬说拿命宣传的小森林别忘了看",
+      "onboard_time": 1663429112,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1700377,
       "num": 1700377,
       "word": "硕士毕业送外卖当事人回应争议",
       "onboard_time": 1663408706,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1697989,
-      "num": 1697989,
-      "word": "情侣间需要每天聊天吗",
-      "onboard_time": 1663426594,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 1597158,
@@ -259,6 +267,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1018407,
+      "num": 367170,
+      "word": "田馥甄演唱会",
+      "onboard_time": 1663427794,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1018070,
       "num": 1018070,
       "word": "王太 苍兰诀",
@@ -313,6 +329,14 @@
       "onboard_time": 1663386327,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 941412,
+      "num": 235029,
+      "word": "田柾国IU演唱会",
+      "onboard_time": 1663428633,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 926357,
@@ -379,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 836238,
+      "num": 350494,
+      "word": "王一博喊自己一博",
+      "onboard_time": 1663428513,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 832010,
       "num": 660803,
       "word": "拉萨市领导就疫情防控工作不足致歉",
@@ -417,6 +449,22 @@
       "onboard_time": 1663397245,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 778417,
+      "num": 230600,
+      "word": "高美好死了",
+      "onboard_time": 1663427135,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 771845,
+      "num": 239663,
+      "word": "黑话律师大结局",
+      "onboard_time": 1663425875,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 767412,
@@ -497,14 +545,6 @@
       "onboard_time": 1663416270,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 704618,
-      "num": 211973,
-      "word": "黑话律师大结局",
-      "onboard_time": 1663425875,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 695942,
@@ -697,14 +737,6 @@
       "onboard_time": 1663407267,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 524040,
-      "num": 152530,
-      "word": "高美好死了",
-      "onboard_time": 1663427135,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 520641,
@@ -907,14 +939,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 380337,
-      "num": 149683,
-      "word": "田馥甄演唱会",
-      "onboard_time": 1663427794,
-      "rank": 32,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 380176,
       "num": 251780,
       "word": "马嘉祺黑色西装随拍",
@@ -963,20 +987,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 339331,
+      "num": 339331,
+      "word": "校方回应教授自嘲式简历走红",
+      "onboard_time": 1663423593,
+      "rank": 44,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 337667,
       "num": 337667,
       "word": "没想到上个厕所也能社死",
       "onboard_time": 1663395565,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 335879,
-      "num": 335879,
-      "word": "校方回应教授自嘲式简历走红",
-      "onboard_time": 1663423593,
-      "rank": 44,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 335365,
@@ -1075,6 +1099,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 304841,
+      "num": 304841,
+      "word": "女子落网不忘喝光最后一口奶茶",
+      "onboard_time": 1663427254,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304698,
       "num": 304698,
       "word": "女子捡回流浪狗40天变化让人破防",
@@ -1171,6 +1203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 284481,
+      "num": 284481,
+      "word": "顾客过生日饭店墙体地面被涂满蛋糕",
+      "onboard_time": 1663425334,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283219,
       "num": 283219,
       "word": "迪丽热巴学鸟叫呱呱",
@@ -1243,16 +1283,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 273246,
-      "num": 273246,
-      "word": "顾客过生日饭店墙体地面被涂满蛋糕",
-      "onboard_time": 1663425334,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 272764,
-      "num": 100952,
+      "num": 209610,
       "word": "广东女子收男友黄金项链掉色",
       "onboard_time": 1663428213,
       "rank": 47,
@@ -1281,6 +1313,14 @@
       "onboard_time": 1663379605,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265494,
+      "num": 265494,
+      "word": "狗狗有点礼貌但不多",
+      "onboard_time": 1663427914,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 264704,
@@ -1489,6 +1529,14 @@
       "onboard_time": 1663335394,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 217066,
+      "num": 217066,
+      "word": "台湾地震南京震感明显",
+      "onboard_time": 1663427673,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215645,
@@ -1819,14 +1867,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 160282,
-      "num": 160282,
-      "word": "台湾地震南京震感明显",
-      "onboard_time": 1663427673,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159168,
       "num": 2719502,
       "word": "英雄回家",
@@ -2115,12 +2155,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 117626,
-      "num": 117626,
-      "word": "狗狗有点礼貌但不多",
-      "onboard_time": 1663427914,
+      "raw_hot": 118917,
+      "num": 118917,
+      "word": "这届大学生有多会答题",
+      "onboard_time": 1663428574,
       "rank": 42,
-      "category": "幽默"
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 117081,
@@ -2192,14 +2232,6 @@
       "word": "男子刷短视频赚红包提现遭拒胜诉",
       "onboard_time": 1663332034,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 109821,
-      "num": 109821,
-      "word": "女子落网不忘喝光最后一口奶茶",
-      "onboard_time": 1663427254,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -2297,6 +2329,14 @@
       "onboard_time": 1663392565,
       "rank": 45,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 87681,
+      "num": 87681,
+      "word": "重新冰冻地球两极可行且便宜",
+      "onboard_time": 1663429051,
+      "rank": 49,
+      "category": "其它"
     },
     {
       "raw_hot": 87333,

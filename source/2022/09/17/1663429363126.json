@@ -1,0 +1,410 @@
+{
+  "runTime": 1663429363126,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2225669,
+        "num": 2225669,
+        "word": "台湾6.5级地震",
+        "onboard_time": 1663423234,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1982284,
+        "num": 1982284,
+        "word": "情侣间需要每天聊天吗",
+        "onboard_time": 1663426594,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 35389,
+        "num": 1829856,
+        "word": "英雄回家",
+        "onboard_time": 1663384585,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1788762,
+        "num": 1788762,
+        "word": "张彬彬说拿命宣传的小森林别忘了看",
+        "onboard_time": 1663429112,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1419685,
+        "num": 1419685,
+        "word": "井胧井迪苍兰诀车祸现场",
+        "onboard_time": 1663424254,
+        "rank": 4,
+        "category": "影视,音乐"
+      },
+      {
+        "raw_hot": 1177062,
+        "num": 1177062,
+        "word": "南非向英王室讨要非洲之星钻石",
+        "onboard_time": 1663424076,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 707910,
+        "num": 707910,
+        "word": "深圳一男婴出生时4手4脚",
+        "onboard_time": 1663403187,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398571,
+        "num": 398571,
+        "word": "女生走5分钟到距家600米大学报到",
+        "onboard_time": 1663413204,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 393193,
+        "num": 393193,
+        "word": "杭州震感",
+        "onboard_time": 1663424916,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375778,
+        "num": 375778,
+        "word": "罗伊斯",
+        "onboard_time": 1663424976,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1018407,
+        "num": 367170,
+        "word": "田馥甄演唱会",
+        "onboard_time": 1663427794,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 854342,
+        "num": 359590,
+        "word": "蔡依林登上2023吉尼斯世界纪录",
+        "onboard_time": 1663422814,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 836238,
+        "num": 350494,
+        "word": "王一博喊自己一博",
+        "onboard_time": 1663428513,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339331,
+        "num": 339331,
+        "word": "校方回应教授自嘲式简历走红",
+        "onboard_time": 1663423593,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 316400,
+        "num": 316400,
+        "word": "有哪些30岁后才明白的人生真相",
+        "onboard_time": 1663422208,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 825781,
+        "num": 314793,
+        "word": "虞书欣王鹤棣的肤色差",
+        "onboard_time": 1663425515,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 304841,
+        "num": 304841,
+        "word": "女子落网不忘喝光最后一口奶茶",
+        "onboard_time": 1663427254,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284481,
+        "num": 284481,
+        "word": "顾客过生日饭店墙体地面被涂满蛋糕",
+        "onboard_time": 1663425334,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265494,
+        "num": 265494,
+        "word": "狗狗有点礼貌但不多",
+        "onboard_time": 1663427914,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 258021,
+        "num": 258021,
+        "word": "考公考研热带火付费自习室",
+        "onboard_time": 1663420827,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 771845,
+        "num": 239663,
+        "word": "黑话律师大结局",
+        "onboard_time": 1663425875,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 941412,
+        "num": 235029,
+        "word": "田柾国IU演唱会",
+        "onboard_time": 1663428633,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 778417,
+        "num": 230600,
+        "word": "高美好死了",
+        "onboard_time": 1663427135,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217066,
+        "num": 217066,
+        "word": "台湾地震南京震感明显",
+        "onboard_time": 1663427673,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209610,
+        "num": 209610,
+        "word": "广东女子收男友黄金项链掉色",
+        "onboard_time": 1663428213,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207635,
+        "num": 207635,
+        "word": "你有多久没被拥抱过了",
+        "onboard_time": 1663410446,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192707,
+        "num": 192707,
+        "word": "男子买大盒鱿鱼片拆后仅有一小片",
+        "onboard_time": 1663414707,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181406,
+        "num": 181406,
+        "word": "男童滑板失控瞬间少年一把拉住",
+        "onboard_time": 1663416027,
+        "rank": 27,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 165899,
+        "num": 165899,
+        "word": "2022LBL",
+        "onboard_time": 1663422452,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154976,
+        "num": 154976,
+        "word": "深圳人的周末有多快乐",
+        "onboard_time": 1663412966,
+        "rank": 29,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 605013,
+        "num": 154184,
+        "word": "这就是顶级破碎感吧",
+        "onboard_time": 1663410926,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 521064,
+        "num": 152760,
+        "word": "长相思",
+        "onboard_time": 1663427014,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 409016,
+        "num": 152177,
+        "word": "棣欣引力悄悄话",
+        "onboard_time": 1663424313,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259623,
+        "num": 151082,
+        "word": "国内6大航司回复是否售卖卫生巾",
+        "onboard_time": 1663416270,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150222,
+        "num": 150222,
+        "word": "定期做产检到底有没有必要",
+        "onboard_time": 1663414464,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141539,
+        "num": 141539,
+        "word": "台东地震浙江多地有震感",
+        "onboard_time": 1663424556,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123855,
+        "num": 123855,
+        "word": "牛妈妈不舍牛犊奋力追赶运输车",
+        "onboard_time": 1663423173,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121854,
+        "num": 121854,
+        "word": "德国正式接管俄石油公司在德业务",
+        "onboard_time": 1663409608,
+        "rank": 37,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 119954,
+        "num": 119954,
+        "word": "湖南新增1例境外输入无症状转确诊病例",
+        "onboard_time": 1663426776,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119144,
+        "num": 119144,
+        "word": "航天员开舱门瞬间遇上日出",
+        "onboard_time": 1663418126,
+        "rank": 39,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 319684,
+        "num": 119113,
+        "word": "黑话律师",
+        "onboard_time": 1663425637,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246803,
+        "num": 119029,
+        "word": "你好星期六修罗场观后感",
+        "onboard_time": 1663419208,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118917,
+        "num": 118917,
+        "word": "这届大学生有多会答题",
+        "onboard_time": 1663428574,
+        "rank": 42,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 118496,
+        "num": 118496,
+        "word": "Uzi参加LBL",
+        "onboard_time": 1663407267,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114519,
+        "num": 114519,
+        "word": "大妈顺走外卖被失主次日偶遇认出",
+        "onboard_time": 1663409425,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109034,
+        "num": 109034,
+        "word": "拉萨市领导就疫情防控工作不足致歉",
+        "onboard_time": 1663418848,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98975,
+        "num": 98975,
+        "word": "揭露九一八事变真相",
+        "onboard_time": 1663423416,
+        "rank": 46,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 98652,
+        "num": 98652,
+        "word": "硕士毕业送外卖当事人回应争议",
+        "onboard_time": 1663408706,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93480,
+        "num": 93480,
+        "word": "暖阳的澜",
+        "onboard_time": 1663426238,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 87681,
+        "num": 87681,
+        "word": "重新冰冻地球两极可行且便宜",
+        "onboard_time": 1663429051,
+        "rank": 49,
+        "category": "其它"
+      }
+    ],
+    "hotgov": {
+      "word": "#神十四航天员再出舱#"
+    }
+  }
+}
