@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663404369545,
+  "endTime": 1663406581078,
   "band_list": [
     {
       "raw_hot": 20529209,
@@ -329,6 +329,14 @@
       "onboard_time": 1663040554,
       "rank": 20,
       "category": "艺人,科技"
+    },
+    {
+      "raw_hot": 2525473,
+      "num": 644497,
+      "word": "深圳一男婴出生时4手4脚",
+      "onboard_time": 1663403187,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2411747,
@@ -979,14 +987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1382964,
-      "num": 447650,
-      "word": "深圳一男婴出生时4手4脚",
-      "onboard_time": 1663403187,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1381094,
       "num": 1381094,
       "word": "张朝阳称iPhone14紫色光谱里不存在",
@@ -1169,6 +1169,14 @@
       "onboard_time": 1663142309,
       "rank": 4,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1292501,
+      "num": 716650,
+      "word": "高铁不售卖卫生巾合理吗",
+      "onboard_time": 1663325072,
+      "rank": 48,
+      "category": "社会议题"
     },
     {
       "raw_hot": 1291277,
@@ -1772,7 +1780,7 @@
     },
     {
       "raw_hot": 1038866,
-      "num": 429682,
+      "num": 453351,
       "word": "网传华伦天奴大秀出席艺人",
       "onboard_time": 1663400786,
       "rank": 10,
@@ -1897,6 +1905,14 @@
       "onboard_time": 1663392148,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 996055,
+      "num": 996055,
+      "word": "你好星期六今晚修罗场",
+      "onboard_time": 1663399046,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 992242,
@@ -2265,14 +2281,6 @@
       "onboard_time": 1662980860,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 848884,
-      "num": 848884,
-      "word": "你好星期六今晚修罗场",
-      "onboard_time": 1663399046,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 845993,
@@ -2795,14 +2803,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 716650,
-      "num": 716650,
-      "word": "高铁不售卖卫生巾合理吗",
-      "onboard_time": 1663325072,
-      "rank": 48,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 712119,
       "num": 712119,
       "word": "男子花15万买iPhone平台疑跑路",
@@ -3017,6 +3017,14 @@
       "onboard_time": 1663294890,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 657815,
+      "num": 455464,
+      "word": "月经贫困纪录片",
+      "onboard_time": 1663403605,
+      "rank": 18,
+      "category": "其它"
     },
     {
       "raw_hot": 655004,
@@ -3628,7 +3636,7 @@
     },
     {
       "raw_hot": 540154,
-      "num": 398401,
+      "num": 455584,
       "word": "大张伟说录十个综艺为唱一次歌",
       "onboard_time": 1663401087,
       "rank": 13,
@@ -4019,6 +4027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 495378,
+      "num": 495378,
+      "word": "才知道这种体态不是驼背",
+      "onboard_time": 1663400427,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 494633,
       "num": 494633,
       "word": "雷军称微博都是自己发的",
@@ -4243,14 +4259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 465976,
-      "num": 465976,
-      "word": "才知道这种体态不是驼背",
-      "onboard_time": 1663400427,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 465877,
       "num": 465877,
       "word": "自驾阿姨苏敏出走2年后首次回家",
@@ -4337,6 +4345,14 @@
       "onboard_time": 1663043925,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 460778,
+      "num": 460778,
+      "word": "女子买600个搪瓷缸装喜糖",
+      "onboard_time": 1663401326,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 459595,
@@ -4939,6 +4955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 403233,
+      "num": 403233,
+      "word": "虞书欣公主风造型九宫格",
+      "onboard_time": 1663406065,
+      "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 403142,
       "num": 403142,
       "word": "大爷修鞋被熏到拿纸塞鼻孔",
@@ -5523,14 +5547,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 354131,
-      "num": 354131,
-      "word": "女子买600个搪瓷缸装喜糖",
-      "onboard_time": 1663401326,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 353998,
       "num": 353998,
       "word": "杜华带吴宣仪胡春杨录节目",
@@ -6057,6 +6073,14 @@
       "onboard_time": 1663223309,
       "rank": 28,
       "category": "科技"
+    },
+    {
+      "raw_hot": 322104,
+      "num": 263587,
+      "word": "苏有朋生图状态",
+      "onboard_time": 1663402046,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 321752,
@@ -6667,6 +6691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 292058,
+      "num": 233606,
+      "word": "雨神来了但河南没下雨",
+      "onboard_time": 1663404865,
+      "rank": 22,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 292010,
       "num": 292010,
       "word": "时代少年团夏令营收官",
@@ -7051,6 +7083,14 @@
       "category": "教育,情感"
     },
     {
+      "raw_hot": 273249,
+      "num": 273249,
+      "word": "上海合格考",
+      "onboard_time": 1663406126,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 273131,
       "num": 200187,
       "word": "马丽哺乳期带伤拍戏太拼了",
@@ -7065,14 +7105,6 @@
       "onboard_time": 1662946057,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 272714,
-      "num": 272714,
-      "word": "月经贫困纪录片",
-      "onboard_time": 1663403605,
-      "rank": 18,
-      "category": "其它"
     },
     {
       "raw_hot": 271347,
@@ -7321,14 +7353,6 @@
       "onboard_time": 1662902928,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 263587,
-      "num": 263587,
-      "word": "苏有朋生图状态",
-      "onboard_time": 1663402046,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 262411,
@@ -7665,6 +7689,14 @@
       "onboard_time": 1663058015,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 245669,
+      "num": 245669,
+      "word": "咒术回战第2季海报",
+      "onboard_time": 1663403666,
+      "rank": 38,
+      "category": "动漫"
     },
     {
       "raw_hot": 245508,
@@ -8433,6 +8465,14 @@
       "onboard_time": 1663320044,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 208340,
+      "num": 208340,
+      "word": "什么是陈正Cat",
+      "onboard_time": 1663405527,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 207345,
@@ -9219,6 +9259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174388,
+      "num": 174388,
+      "word": "张雪峰称考研头铁的人很多",
+      "onboard_time": 1663405947,
+      "rank": 28,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 173671,
       "num": 173671,
       "word": "郑州商城金覆面覆盖整张人脸",
@@ -9355,6 +9403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168274,
+      "num": 168274,
+      "word": "阴阳师",
+      "onboard_time": 1663026029,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 168244,
       "num": 168244,
       "word": "流浪猫带3猫崽投奔喂它的小姐姐",
@@ -9425,6 +9481,14 @@
       "onboard_time": 1662942273,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163748,
+      "num": 163748,
+      "word": "王鹤棣西装白衬衫浴室照",
+      "onboard_time": 1663405765,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 163654,
@@ -9521,14 +9585,6 @@
       "onboard_time": 1663327350,
       "rank": 39,
       "category": "教育"
-    },
-    {
-      "raw_hot": 159200,
-      "num": 159200,
-      "word": "阴阳师",
-      "onboard_time": 1663026029,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 159168,
@@ -9963,6 +10019,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 134557,
+      "num": 134557,
+      "word": "吴尊友谈如何预防猴痘感染",
+      "onboard_time": 1663399467,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134480,
       "num": 249196,
       "word": "被秋天的昆仑山惊艳到了",
@@ -10099,14 +10163,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 129327,
-      "num": 129327,
-      "word": "咒术回战第2季海报",
-      "onboard_time": 1663403666,
-      "rank": 38,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 129234,
       "num": 196644,
       "word": "这段视频肉食爱好者都扛不住",
@@ -10192,14 +10248,6 @@
       "word": "郑州商城贵族墓葬首次发现金面罩",
       "onboard_time": 1663298672,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 124167,
-      "num": 124167,
-      "word": "吴尊友谈如何预防猴痘感染",
-      "onboard_time": 1663399467,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -10769,6 +10817,14 @@
       "onboard_time": 1663249899,
       "rank": 49,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 93941,
+      "num": 93941,
+      "word": "小柯基忙碌的一周",
+      "onboard_time": 1663406304,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 92255,
