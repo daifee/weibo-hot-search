@@ -1,0 +1,410 @@
+{
+  "runTime": 1663422549891,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1379731,
+        "num": 1379731,
+        "word": "苍兰诀直播",
+        "onboard_time": 1663410025,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1058244,
+        "num": 1058244,
+        "word": "女生走5分钟到距家600米大学报到",
+        "onboard_time": 1663413204,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 37481,
+        "num": 1046575,
+        "word": "英雄回家",
+        "onboard_time": 1663384585,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1373005,
+        "num": 1043778,
+        "word": "深圳一男婴出生时4手4脚",
+        "onboard_time": 1663403187,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1178448,
+        "num": 1040389,
+        "word": "张凌赫看虞书欣抱王鹤棣的表情",
+        "onboard_time": 1663419508,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1036986,
+        "num": 1036986,
+        "word": "这就是顶级破碎感吧",
+        "onboard_time": 1663410926,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 620701,
+        "num": 620701,
+        "word": "男子买大盒鱿鱼片拆后仅有一小片",
+        "onboard_time": 1663414707,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 832010,
+        "num": 558066,
+        "word": "拉萨市领导就疫情防控工作不足致歉",
+        "onboard_time": 1663418848,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411743,
+        "num": 411743,
+        "word": "你有多久没被拥抱过了",
+        "onboard_time": 1663410446,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 338588,
+        "num": 338588,
+        "word": "定期做产检到底有没有必要",
+        "onboard_time": 1663414464,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 790714,
+        "num": 332193,
+        "word": "IU演唱会上的草莓月亮",
+        "onboard_time": 1663419268,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 763476,
+        "num": 320263,
+        "word": "你好星期六修罗场观后感",
+        "onboard_time": 1663419208,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268290,
+        "num": 268290,
+        "word": "当女朋友打游戏被欺负了时",
+        "onboard_time": 1663416809,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 695942,
+        "num": 268088,
+        "word": "徐梦洁关晓彤姐妹合拍模板",
+        "onboard_time": 1663421549,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267253,
+        "num": 267253,
+        "word": "硕士毕业送外卖当事人回应争议",
+        "onboard_time": 1663408706,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263747,
+        "num": 263747,
+        "word": "2022LBL",
+        "onboard_time": 1663422452,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 260053,
+        "num": 260053,
+        "word": "德国正式接管俄石油公司在德业务",
+        "onboard_time": 1663409608,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 249336,
+        "num": 249336,
+        "word": "大妈顺走外卖被失主次日偶遇认出",
+        "onboard_time": 1663409425,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248788,
+        "num": 248788,
+        "word": "Uzi参加LBL",
+        "onboard_time": 1663407267,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 236436,
+        "num": 236436,
+        "word": "考公考研热带火付费自习室",
+        "onboard_time": 1663420827,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 657385,
+        "num": 233103,
+        "word": "这就是打磨了四年的剧本吗",
+        "onboard_time": 1663410146,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 434145,
+        "num": 230633,
+        "word": "成毅你好星期六下期预告",
+        "onboard_time": 1663419750,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342210,
+        "num": 230213,
+        "word": "井胧 彼岸",
+        "onboard_time": 1663414827,
+        "rank": 22,
+        "category": "影视,音乐"
+      },
+      {
+        "raw_hot": 227910,
+        "num": 227910,
+        "word": "男童滑板失控瞬间少年一把拉住",
+        "onboard_time": 1663416027,
+        "rank": 23,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 196335,
+        "num": 196335,
+        "word": "六级答案",
+        "onboard_time": 1663407626,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 193754,
+        "num": 193754,
+        "word": "Doinb",
+        "onboard_time": 1663409906,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189386,
+        "num": 189386,
+        "word": "2000元空调维修要价1000元",
+        "onboard_time": 1663411828,
+        "rank": 26,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 184703,
+        "num": 184703,
+        "word": "赵一曼海外留学档案被征集回国",
+        "onboard_time": 1663418784,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183609,
+        "num": 183609,
+        "word": "张雪峰称考研头铁的人很多",
+        "onboard_time": 1663405947,
+        "rank": 28,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 179191,
+        "num": 179191,
+        "word": "航天员开舱门瞬间遇上日出",
+        "onboard_time": 1663418126,
+        "rank": 29,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 267323,
+        "num": 177253,
+        "word": "朱亚文万茜新剧桌下吻",
+        "onboard_time": 1663417647,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 579443,
+        "num": 176685,
+        "word": "国内6大航司回复是否售卖卫生巾",
+        "onboard_time": 1663416270,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257109,
+        "num": 174290,
+        "word": "特优声2首次户外舞台",
+        "onboard_time": 1663422028,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243682,
+        "num": 170750,
+        "word": "玉骨遥",
+        "onboard_time": 1663418905,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219075,
+        "num": 168768,
+        "word": "王太 苍兰诀",
+        "onboard_time": 1663411887,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168048,
+        "num": 168048,
+        "word": "深圳人的周末有多快乐",
+        "onboard_time": 1663412966,
+        "rank": 35,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 148291,
+        "num": 148291,
+        "word": "哈兰德破门",
+        "onboard_time": 1663416989,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119481,
+        "num": 119481,
+        "word": "为什么突然失去分享欲",
+        "onboard_time": 1663374926,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102796,
+        "num": 102796,
+        "word": "狼队vs曼城",
+        "onboard_time": 1663416929,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102261,
+        "num": 102261,
+        "word": "美国房贷利率超6%",
+        "onboard_time": 1663406845,
+        "rank": 39,
+        "category": "财经,国外要闻"
+      },
+      {
+        "raw_hot": 185409,
+        "num": 102055,
+        "word": "陈立农你好星期六",
+        "onboard_time": 1663422150,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169972,
+        "num": 101621,
+        "word": "苍兰诀见面会全员合影",
+        "onboard_time": 1663413688,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 100965,
+        "num": 100965,
+        "word": "女子买600个搪瓷缸装喜糖",
+        "onboard_time": 1663401326,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97387,
+        "num": 97387,
+        "word": "男童坐滑板急速冲坡少年飞身拦抱",
+        "onboard_time": 1663414104,
+        "rank": 43,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 91736,
+        "num": 91736,
+        "word": "考研和读研哪个更累",
+        "onboard_time": 1663397426,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 89816,
+        "num": 89816,
+        "word": "郭艾伦",
+        "onboard_time": 1663408944,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86974,
+        "num": 86974,
+        "word": "六级翻译cctv",
+        "onboard_time": 1663409906,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 84910,
+        "num": 84910,
+        "word": "茶颜悦色声明撤下Sexytea标识",
+        "onboard_time": 1663396285,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76769,
+        "num": 76769,
+        "word": "有哪些30岁后才明白的人生真相",
+        "onboard_time": 1663422208,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 70870,
+        "num": 70870,
+        "word": "妹妹为照顾外甥与姐夫重组家庭",
+        "onboard_time": 1663390708,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#第九批在韩志愿军烈士安葬仪式#"
+    }
+  }
+}

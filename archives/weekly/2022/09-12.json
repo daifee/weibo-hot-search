@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663421814478,
+  "endTime": 1663422549891,
   "band_list": [
     {
       "raw_hot": 20529209,
@@ -452,7 +452,7 @@
     },
     {
       "raw_hot": 2098897,
-      "num": 999585,
+      "num": 1040389,
       "word": "张凌赫看虞书欣抱王鹤棣的表情",
       "onboard_time": 1663419508,
       "rank": 3,
@@ -1851,6 +1851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1036986,
+      "num": 1036986,
+      "word": "这就是顶级破碎感吧",
+      "onboard_time": 1663410926,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1025639,
       "num": 1025639,
       "word": "夫妻疑因吵架把狗推下4楼",
@@ -2033,14 +2041,6 @@
       "onboard_time": 1663071630,
       "rank": 4,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 973149,
-      "num": 973149,
-      "word": "这就是顶级破碎感吧",
-      "onboard_time": 1663410926,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 967355,
@@ -2459,6 +2459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 832010,
+      "num": 660803,
+      "word": "拉萨市领导就疫情防控工作不足致歉",
+      "onboard_time": 1663418848,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 829568,
       "num": 829568,
       "word": "长大就瘦了是真的吗",
@@ -2611,6 +2619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 790714,
+      "num": 332193,
+      "word": "IU演唱会上的草莓月亮",
+      "onboard_time": 1663419268,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 789333,
       "num": 789333,
       "word": "哥大承认排名数据造假",
@@ -2721,6 +2737,14 @@
       "onboard_time": 1663239871,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 763476,
+      "num": 333873,
+      "word": "你好星期六修罗场观后感",
+      "onboard_time": 1663419208,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 762337,
@@ -2972,7 +2996,7 @@
     },
     {
       "raw_hot": 705663,
-      "num": 143149,
+      "num": 176685,
       "word": "国内6大航司回复是否售卖卫生巾",
       "onboard_time": 1663416270,
       "rank": 30,
@@ -2992,6 +3016,14 @@
       "word": "蔡徐坤姨父笑",
       "onboard_time": 1662945994,
       "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 695942,
+      "num": 268088,
+      "word": "徐梦洁关晓彤姐妹合拍模板",
+      "onboard_time": 1663421549,
+      "rank": 20,
       "category": "综艺"
     },
     {
@@ -3139,14 +3171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 665880,
-      "num": 333873,
-      "word": "你好星期六修罗场观后感",
-      "onboard_time": 1663419208,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 664216,
       "num": 664216,
       "word": "空军直升机在震区危房单轮悬停",
@@ -3169,14 +3193,6 @@
       "onboard_time": 1663231769,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 660803,
-      "num": 660803,
-      "word": "拉萨市领导就疫情防控工作不足致歉",
-      "onboard_time": 1663418848,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 660564,
@@ -3227,14 +3243,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 653749,
-      "num": 319285,
-      "word": "IU演唱会上的草莓月亮",
-      "onboard_time": 1663419268,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 651574,
       "num": 651574,
       "word": "中国传媒大学解除临时封闭管理",
@@ -3265,14 +3273,6 @@
       "onboard_time": 1662980439,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 647944,
-      "num": 203377,
-      "word": "徐梦洁关晓彤姐妹合拍模板",
-      "onboard_time": 1663421549,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 645557,
@@ -7643,6 +7643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 263747,
+      "num": 263747,
+      "word": "2022LBL",
+      "onboard_time": 1663422452,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 263713,
       "num": 263713,
       "word": "羊了个羊真的很烦人",
@@ -7769,6 +7777,14 @@
       "onboard_time": 1663218638,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257109,
+      "num": 174290,
+      "word": "特优声2首次户外舞台",
+      "onboard_time": 1663422028,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 257020,
@@ -8217,6 +8233,14 @@
       "onboard_time": 1663346302,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 236436,
+      "num": 236436,
+      "word": "考公考研热带火付费自习室",
+      "onboard_time": 1663420827,
+      "rank": 35,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 236198,
@@ -9403,12 +9427,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185409,
+      "num": 102055,
+      "word": "陈立农你好星期六",
+      "onboard_time": 1663422150,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184845,
       "num": 184845,
       "word": "大龄高考是在浪费资源吗",
       "onboard_time": 1663301915,
       "rank": 32,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 184703,
+      "num": 184703,
+      "word": "赵一曼海外留学档案被征集回国",
+      "onboard_time": 1663418784,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184342,
@@ -9529,6 +9569,14 @@
       "onboard_time": 1663387286,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179191,
+      "num": 179191,
+      "word": "航天员开舱门瞬间遇上日出",
+      "onboard_time": 1663418126,
+      "rank": 48,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 178999,
@@ -9721,14 +9769,6 @@
       "onboard_time": 1663298550,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 170776,
-      "num": 170776,
-      "word": "赵一曼海外留学档案被征集回国",
-      "onboard_time": 1663418784,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 170694,
@@ -10403,28 +10443,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 137391,
-      "num": 137391,
-      "word": "航天员开舱门瞬间遇上日出",
-      "onboard_time": 1663418126,
-      "rank": 48,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 137315,
       "num": 137315,
       "word": "江苏全力迎战台风梅花",
       "onboard_time": 1663163973,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136811,
-      "num": 136811,
-      "word": "考公考研热带火付费自习室",
-      "onboard_time": 1663420827,
-      "rank": 35,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 135393,
@@ -11465,6 +11489,14 @@
       "onboard_time": 1663235671,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 76769,
+      "num": 76769,
+      "word": "有哪些30岁后才明白的人生真相",
+      "onboard_time": 1663422208,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 76658,
