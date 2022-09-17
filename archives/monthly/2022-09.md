@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/17 22:21:23
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/17 22:38:06
 </p>
 </blockquote>
 <p>
@@ -111,14 +111,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%96%B9%E8%BE%9F%E8%B0%A3%23" target="weibo">
-王一博方辟谣（热度：7984319）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE6.5%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
+台湾6.5级地震（热度：8423913）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE6.5%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
-台湾6.5级地震（热度：7855340）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%96%B9%E8%BE%9F%E8%B0%A3%23" target="weibo">
+王一博方辟谣（热度：7984319）
 </a>
 </li>
 
@@ -489,6 +489,12 @@ LPL四号种子RNG（热度：3079936）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%95%E8%83%A7%E4%BA%95%E8%BF%AA%E8%8B%8D%E5%85%B0%E8%AF%80%E8%BD%A6%E7%A5%B8%E7%8E%B0%E5%9C%BA%23" target="weibo">
+井胧井迪苍兰诀车祸现场（热度：3048177）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%83%9E%E8%83%8E%E5%9C%A8%E8%82%9A%E9%87%8C%E6%89%93%E6%9E%B6%E5%87%BA%E7%94%9F%E5%90%8E%E6%B5%91%E8%BA%AB%E6%B7%A4%E9%9D%92%23" target="weibo">
 双胞胎在肚里打架出生后浑身淤青（热度：3032807）
 </a>
@@ -851,12 +857,6 @@ zzr（热度：2585830）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%88%87%E5%BC%80%E8%A5%BF%E7%93%9C%E5%8F%91%E7%8E%B0%E9%BB%84%E8%B1%86%E8%8A%BD%23" target="weibo">
 女子切开西瓜发现黄豆芽（热度：2462614）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%95%E8%83%A7%E4%BA%95%E8%BF%AA%E8%8B%8D%E5%85%B0%E8%AF%80%E8%BD%A6%E7%A5%B8%E7%8E%B0%E5%9C%BA%23" target="weibo">
-井胧井迪苍兰诀车祸现场（热度：2448379）
 </a>
 </li>
 
@@ -4137,6 +4137,12 @@ iPhone14Pro系列占中国订单85%（热度：1059806）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23IU%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E7%9A%84%E8%8D%89%E8%8E%93%E6%9C%88%E4%BA%AE%23" target="weibo">
+IU演唱会上的草莓月亮（热度：1037515）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E5%91%98%E8%80%83%E7%A7%91%E7%9B%AE%E4%BA%8C%E6%8A%8A%E8%80%83%E8%AF%95%E5%A4%A7%E5%8E%85%E6%92%9E%E7%A9%BF%23" target="weibo">
 学员考科目二把考试大厅撞穿（热度：1037437）
 </a>
@@ -4563,6 +4569,12 @@ BLACKPINK新歌未通过KBS审议（热度：999636）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%9D%9E%E5%90%91%E8%8B%B1%E7%8E%8B%E5%AE%A4%E8%AE%A8%E8%A6%81%E9%9D%9E%E6%B4%B2%E4%B9%8B%E6%98%9F%E9%92%BB%E7%9F%B3%23" target="weibo">
+南非向英王室讨要非洲之星钻石（热度：970976）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%95%86%E4%B8%9A%E5%B9%BF%E5%9C%BA%E9%9B%95%E5%A1%91%E8%A2%AB%E6%8C%87%E6%80%A7%E6%9A%97%E7%A4%BA%23" target="weibo">
 上海一商业广场雕塑被指性暗示（热度：970607）
 </a>
@@ -4899,6 +4911,12 @@ iPhone14涨价或低于预期（热度：932859）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E4%BE%9D%E6%9E%97%E7%99%BB%E4%B8%8A2023%E5%90%89%E5%B0%BC%E6%96%AF%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%23" target="weibo">
+蔡依林登上2023吉尼斯世界纪录（热度：926202）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23LPL%E4%B8%89%E5%8F%B7%E7%A7%8D%E5%AD%90EDG%23" target="weibo">
 LPL三号种子EDG（热度：926061）
 </a>
@@ -5057,12 +5075,6 @@ iPhone14ProMax史上最重iPhone（热度：914474）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8D%E5%85%B0%E8%AF%80OST%E4%BB%8A%E5%A4%8F%E5%B0%81%E7%A5%9E%23" target="weibo">
 苍兰诀OST今夏封神（热度：911505）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23IU%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E7%9A%84%E8%8D%89%E8%8E%93%E6%9C%88%E4%BA%AE%23" target="weibo">
-IU演唱会上的草莓月亮（热度：910937）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ ale（热度：789126）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AC%B2%E5%BD%95%E8%A7%86%E9%A2%91%E6%89%B6%E6%91%94%E5%80%92%E5%A4%A7%E5%8F%94%E5%8F%8D%E8%A2%AB%E9%AA%82%23" target="weibo">
 男子欲录视频扶摔倒大叔反被骂（热度：789043）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%B0%B1%E7%BE%8E%E5%AF%B9%E8%A5%BF%E5%B7%A5%E5%A4%A7%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB%E7%AA%83%E5%AF%86%E6%8F%90%E5%87%BA%E4%B8%A5%E6%AD%A3%E4%BA%A4%E6%B6%89%23" target="weibo">
-中方就美对西工大网络攻击窃密提出严正交涉（热度：787864）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%B8%96%E4%BD%B3%E5%90%BB%E6%88%8F%E6%8D%8F%E6%89%8B%E5%A5%BD%E8%8B%8F%23" target="weibo">
-金世佳吻戏捏手好苏（热度：787499）
 </a>
 </li>
 
