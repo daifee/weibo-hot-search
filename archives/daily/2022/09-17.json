@@ -1,6 +1,6 @@
 {
   "startTime": 1663346071384,
-  "endTime": 1663425486548,
+  "endTime": 1663428273396,
   "band_list": [
     {
       "raw_hot": 8423913,
@@ -57,6 +57,14 @@
       "onboard_time": 1663408706,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1697989,
+      "num": 1697989,
+      "word": "情侣间需要每天聊天吗",
+      "onboard_time": 1663426594,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 1597158,
@@ -155,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1336010,
+      "num": 1336010,
+      "word": "南非向英王室讨要非洲之星钻石",
+      "onboard_time": 1663424076,
+      "rank": 9,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1328788,
       "num": 1328788,
       "word": "苍兰诀见面会",
@@ -209,6 +225,14 @@
       "onboard_time": 1663383147,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1081841,
+      "num": 507526,
+      "word": "蔡依林登上2023吉尼斯世界纪录",
+      "onboard_time": 1663422814,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1045644,
@@ -275,14 +299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 970976,
-      "num": 970976,
-      "word": "南非向英王室讨要非洲之星钻石",
-      "onboard_time": 1663424076,
-      "rank": 9,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 967355,
       "num": 967355,
       "word": "德国正式接管俄石油公司在德业务",
@@ -299,12 +315,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 926202,
-      "num": 507526,
-      "word": "蔡依林登上2023吉尼斯世界纪录",
-      "onboard_time": 1663422814,
-      "rank": 20,
-      "category": "艺人"
+      "raw_hot": 926357,
+      "num": 403661,
+      "word": "虞书欣王鹤棣的肤色差",
+      "onboard_time": 1663425515,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 893963,
@@ -483,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 704618,
+      "num": 211973,
+      "word": "黑话律师大结局",
+      "onboard_time": 1663425875,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 695942,
       "num": 268088,
       "word": "徐梦洁关晓彤姐妹合拍模板",
@@ -595,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 581901,
+      "num": 280546,
+      "word": "黑话律师",
+      "onboard_time": 1663340194,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 581066,
       "num": 581066,
       "word": "覆流年大结局",
@@ -617,6 +649,14 @@
       "onboard_time": 1663389567,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 554673,
+      "num": 210008,
+      "word": "长相思",
+      "onboard_time": 1663427014,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 543928,
@@ -659,6 +699,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 524040,
+      "num": 152530,
+      "word": "高美好死了",
+      "onboard_time": 1663427135,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 520641,
       "num": 520641,
       "word": "iPhone14顶配首发价格即破发",
@@ -688,6 +736,14 @@
       "word": "消防员放生果子狸反被追得满山跑",
       "onboard_time": 1663393288,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 496035,
+      "num": 496035,
+      "word": "杭州震感",
+      "onboard_time": 1663424916,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -803,6 +859,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 412313,
+      "num": 412313,
+      "word": "罗伊斯",
+      "onboard_time": 1663424976,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 405124,
       "num": 405124,
       "word": "张杰现身支持谢娜话剧首演",
@@ -833,6 +897,22 @@
       "onboard_time": 1663344029,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 384557,
+      "num": 384557,
+      "word": "有哪些30岁后才明白的人生真相",
+      "onboard_time": 1663422208,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 380337,
+      "num": 149683,
+      "word": "田馥甄演唱会",
+      "onboard_time": 1663427794,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 380176,
@@ -891,6 +971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 335879,
+      "num": 335879,
+      "word": "校方回应教授自嘲式简历走红",
+      "onboard_time": 1663423593,
+      "rank": 44,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 335365,
       "num": 335365,
       "word": "上海试鸣防空警报",
@@ -905,14 +993,6 @@
       "onboard_time": 1663385908,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 333192,
-      "num": 333192,
-      "word": "有哪些30岁后才明白的人生真相",
-      "onboard_time": 1663422208,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 332076,
@@ -1123,14 +1203,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 280546,
-      "num": 280546,
-      "word": "黑话律师",
-      "onboard_time": 1663340194,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 279609,
       "num": 279609,
       "word": "这就是街舞",
@@ -1169,6 +1241,22 @@
       "onboard_time": 1663406126,
       "rank": 18,
       "category": "教育"
+    },
+    {
+      "raw_hot": 273246,
+      "num": 273246,
+      "word": "顾客过生日饭店墙体地面被涂满蛋糕",
+      "onboard_time": 1663425334,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272764,
+      "num": 100952,
+      "word": "广东女子收男友黄金项链掉色",
+      "onboard_time": 1663428213,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269303,
@@ -1339,14 +1427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 237286,
-      "num": 237286,
-      "word": "罗伊斯",
-      "onboard_time": 1663424976,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 232725,
       "num": 232725,
       "word": "肇庆再现卧佛含丹天象奇观",
@@ -1377,14 +1457,6 @@
       "onboard_time": 1663372224,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 222173,
-      "num": 222173,
-      "word": "杭州震感",
-      "onboard_time": 1663424916,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 221375,
@@ -1651,14 +1723,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 177185,
-      "num": 177185,
-      "word": "校方回应教授自嘲式简历走红",
-      "onboard_time": 1663423593,
-      "rank": 44,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 176883,
       "num": 176883,
       "word": "养生年轻人的煲汤指南",
@@ -1755,6 +1819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 160282,
+      "num": 160282,
+      "word": "台湾地震南京震感明显",
+      "onboard_time": 1663427673,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159168,
       "num": 2719502,
       "word": "英雄回家",
@@ -1800,6 +1872,14 @@
       "word": "澳门去年每分钟受3.4次网络攻击",
       "onboard_time": 1663360391,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154172,
+      "num": 154172,
+      "word": "牛妈妈不舍牛犊奋力追赶运输车",
+      "onboard_time": 1663423173,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -1851,6 +1931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146204,
+      "num": 146204,
+      "word": "湖南新增1例境外输入无症状转确诊病例",
+      "onboard_time": 1663426776,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145096,
       "num": 145096,
       "word": "突然觉得这个蛋糕有点吵",
@@ -1872,14 +1960,6 @@
       "word": "成都沃尔玛现3238元天价白菜",
       "onboard_time": 1663322913,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 140910,
-      "num": 140910,
-      "word": "牛妈妈不舍牛犊奋力追赶运输车",
-      "onboard_time": 1663423173,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -2011,14 +2091,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 120662,
-      "num": 120662,
-      "word": "顾客过生日饭店墙体地面被涂满蛋糕",
-      "onboard_time": 1663425334,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120356,
       "num": 120356,
       "word": "山河已无恙忠骨请安息",
@@ -2041,6 +2113,14 @@
       "onboard_time": 1663328311,
       "rank": 42,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 117626,
+      "num": 117626,
+      "word": "狗狗有点礼貌但不多",
+      "onboard_time": 1663427914,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 117081,
@@ -2113,6 +2193,22 @@
       "onboard_time": 1663332034,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109821,
+      "num": 109821,
+      "word": "女子落网不忘喝光最后一口奶茶",
+      "onboard_time": 1663427254,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108055,
+      "num": 108055,
+      "word": "暖阳的澜",
+      "onboard_time": 1663426238,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 107355,

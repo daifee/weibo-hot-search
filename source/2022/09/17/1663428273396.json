@@ -1,0 +1,410 @@
+{
+  "runTime": 1663428273396,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3274809,
+        "num": 3274809,
+        "word": "台湾6.5级地震",
+        "onboard_time": 1663423234,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1859935,
+        "num": 1859935,
+        "word": "井胧井迪苍兰诀车祸现场",
+        "onboard_time": 1663424254,
+        "rank": 1,
+        "category": "影视,音乐"
+      },
+      {
+        "raw_hot": 39772,
+        "num": 1702279,
+        "word": "英雄回家",
+        "onboard_time": 1663384585,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1697989,
+        "num": 1697989,
+        "word": "情侣间需要每天聊天吗",
+        "onboard_time": 1663426594,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1336010,
+        "num": 1336010,
+        "word": "南非向英王室讨要非洲之星钻石",
+        "onboard_time": 1663424076,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 907390,
+        "num": 907390,
+        "word": "IU演唱会上的草莓月亮",
+        "onboard_time": 1663419268,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 867318,
+        "num": 867318,
+        "word": "深圳一男婴出生时4手4脚",
+        "onboard_time": 1663403187,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496035,
+        "num": 496035,
+        "word": "杭州震感",
+        "onboard_time": 1663424916,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459817,
+        "num": 459817,
+        "word": "女生走5分钟到距家600米大学报到",
+        "onboard_time": 1663413204,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 412313,
+        "num": 412313,
+        "word": "罗伊斯",
+        "onboard_time": 1663424976,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1081841,
+        "num": 409039,
+        "word": "蔡依林登上2023吉尼斯世界纪录",
+        "onboard_time": 1663422814,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 926357,
+        "num": 403661,
+        "word": "虞书欣王鹤棣的肤色差",
+        "onboard_time": 1663425515,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 742577,
+        "num": 400590,
+        "word": "这就是顶级破碎感吧",
+        "onboard_time": 1663410926,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 384557,
+        "num": 384557,
+        "word": "有哪些30岁后才明白的人生真相",
+        "onboard_time": 1663422208,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 335879,
+        "num": 335879,
+        "word": "校方回应教授自嘲式简历走红",
+        "onboard_time": 1663423593,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 321780,
+        "num": 321780,
+        "word": "考公考研热带火付费自习室",
+        "onboard_time": 1663420827,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 273246,
+        "num": 273246,
+        "word": "顾客过生日饭店墙体地面被涂满蛋糕",
+        "onboard_time": 1663425334,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248712,
+        "num": 248712,
+        "word": "你有多久没被拥抱过了",
+        "onboard_time": 1663410446,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 245899,
+        "num": 245899,
+        "word": "男子买大盒鱿鱼片拆后仅有一小片",
+        "onboard_time": 1663414707,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215232,
+        "num": 215232,
+        "word": "男童滑板失控瞬间少年一把拉住",
+        "onboard_time": 1663416027,
+        "rank": 19,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 704618,
+        "num": 211973,
+        "word": "黑话律师大结局",
+        "onboard_time": 1663425875,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 554673,
+        "num": 210008,
+        "word": "长相思",
+        "onboard_time": 1663427014,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 581901,
+        "num": 209357,
+        "word": "黑话律师",
+        "onboard_time": 1663425637,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206021,
+        "num": 206021,
+        "word": "2022LBL",
+        "onboard_time": 1663422452,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 197543,
+        "num": 197543,
+        "word": "定期做产检到底有没有必要",
+        "onboard_time": 1663414464,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183283,
+        "num": 183283,
+        "word": "台东地震浙江多地有震感",
+        "onboard_time": 1663424556,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175214,
+        "num": 175214,
+        "word": "深圳人的周末有多快乐",
+        "onboard_time": 1663412966,
+        "rank": 26,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 161227,
+        "num": 161227,
+        "word": "大妈顺走外卖被失主次日偶遇认出",
+        "onboard_time": 1663409425,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160282,
+        "num": 160282,
+        "word": "台湾地震南京震感明显",
+        "onboard_time": 1663427673,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154172,
+        "num": 154172,
+        "word": "牛妈妈不舍牛犊奋力追赶运输车",
+        "onboard_time": 1663423173,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524040,
+        "num": 152530,
+        "word": "高美好死了",
+        "onboard_time": 1663427135,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 489148,
+        "num": 150493,
+        "word": "棣欣引力悄悄话",
+        "onboard_time": 1663424313,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 380337,
+        "num": 149683,
+        "word": "田馥甄演唱会",
+        "onboard_time": 1663427794,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 367238,
+        "num": 147146,
+        "word": "你好星期六修罗场观后感",
+        "onboard_time": 1663419208,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146204,
+        "num": 146204,
+        "word": "湖南新增1例境外输入无症状转确诊病例",
+        "onboard_time": 1663426776,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280215,
+        "num": 145307,
+        "word": "国内6大航司回复是否售卖卫生巾",
+        "onboard_time": 1663416270,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141121,
+        "num": 141121,
+        "word": "拉萨市领导就疫情防控工作不足致歉",
+        "onboard_time": 1663418848,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136160,
+        "num": 136160,
+        "word": "Uzi参加LBL",
+        "onboard_time": 1663407267,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135869,
+        "num": 135869,
+        "word": "德国正式接管俄石油公司在德业务",
+        "onboard_time": 1663409608,
+        "rank": 38,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 127722,
+        "num": 127722,
+        "word": "硕士毕业送外卖当事人回应争议",
+        "onboard_time": 1663408706,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285720,
+        "num": 122762,
+        "word": "这就是打磨了四年的剧本吗",
+        "onboard_time": 1663410146,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217087,
+        "num": 122150,
+        "word": "苍兰诀直播",
+        "onboard_time": 1663410025,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 117626,
+        "num": 117626,
+        "word": "狗狗有点礼貌但不多",
+        "onboard_time": 1663427914,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109821,
+        "num": 109821,
+        "word": "女子落网不忘喝光最后一口奶茶",
+        "onboard_time": 1663427254,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108055,
+        "num": 108055,
+        "word": "暖阳的澜",
+        "onboard_time": 1663426238,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104369,
+        "num": 104369,
+        "word": "航天员开舱门瞬间遇上日出",
+        "onboard_time": 1663418126,
+        "rank": 45,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 102520,
+        "num": 102520,
+        "word": "揭露九一八事变真相",
+        "onboard_time": 1663423416,
+        "rank": 46,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 272764,
+        "num": 100952,
+        "word": "广东女子收男友黄金项链掉色",
+        "onboard_time": 1663428213,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96408,
+        "num": 96408,
+        "word": "张雪峰称考研头铁的人很多",
+        "onboard_time": 1663405947,
+        "rank": 48,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 93846,
+        "num": 93846,
+        "word": "当女朋友打游戏被欺负了时",
+        "onboard_time": 1663416809,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#神十四航天员再出舱#"
+    }
+  }
+}
