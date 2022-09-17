@@ -1,6 +1,6 @@
 {
   "startTime": 1663432368625,
-  "endTime": 1663449652146,
+  "endTime": 1663450734358,
   "band_list": [
     {
       "raw_hot": 1783236,
@@ -483,11 +483,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 43443,
-      "num": 38362,
+      "raw_hot": 50698,
+      "num": 42649,
       "word": "小伙租房失联留满屋垃圾熏吐房主",
       "onboard_time": 1663444271,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44930,
+      "num": 42648,
+      "word": "92岁老人突发中风教科书式自救",
+      "onboard_time": 1663447210,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -499,18 +507,18 @@
       "category": "军事"
     },
     {
-      "raw_hot": 30526,
-      "num": 30526,
-      "word": "92岁老人突发中风教科书式自救",
-      "onboard_time": 1663447210,
-      "rank": 49,
+      "raw_hot": 32347,
+      "num": 32347,
+      "word": "关注超强台风南玛都",
+      "onboard_time": 1663444990,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 27519,
-      "num": 27519,
-      "word": "关注超强台风南玛都",
-      "onboard_time": 1663444990,
+      "raw_hot": 24344,
+      "num": 24344,
+      "word": "哪种睡姿最健康",
+      "onboard_time": 1663447753,
       "rank": 28,
       "category": "社会新闻"
     },
@@ -523,11 +531,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 17499,
-      "num": 17499,
-      "word": "哪种睡姿最健康",
-      "onboard_time": 1663447753,
-      "rank": 28,
+      "raw_hot": 9256,
+      "num": 9451,
+      "word": "官方回应洒水车喷村民家溅路人水",
+      "onboard_time": 1663450032,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
