@@ -1,6 +1,6 @@
 {
   "startTime": 1663346071384,
-  "endTime": 1663410326090,
+  "endTime": 1663411360764,
   "band_list": [
     {
       "raw_hot": 2990615,
@@ -43,6 +43,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1461930,
+      "num": 1461930,
+      "word": "张雪峰称考研头铁的人很多",
+      "onboard_time": 1663405947,
+      "rank": 28,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1457055,
       "num": 1457055,
       "word": "六级答案",
@@ -81,14 +89,6 @@
       "onboard_time": 1663384167,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1344580,
-      "num": 1344580,
-      "word": "张雪峰称考研头铁的人很多",
-      "onboard_time": 1663405947,
-      "rank": 28,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1339057,
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 841257,
+      "num": 694624,
+      "word": "苍兰诀直播",
+      "onboard_time": 1663410025,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 822905,
       "num": 455464,
       "word": "月经贫困纪录片",
@@ -256,6 +264,14 @@
       "word": "澳门健康码遭300多万次网络攻击",
       "onboard_time": 1663350377,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 766027,
+      "num": 766027,
+      "word": "硕士毕业送外卖当事人回应争议",
+      "onboard_time": 1663408706,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -312,6 +328,14 @@
       "word": "东八区的先生们 台词",
       "onboard_time": 1663386147,
       "rank": 11,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 714030,
+      "num": 588049,
+      "word": "苍兰诀 爱奇艺",
+      "onboard_time": 1663409666,
+      "rank": 12,
       "category": "影视"
     },
     {
@@ -435,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 534810,
+      "num": 534810,
+      "word": "德国正式接管俄石油公司在德业务",
+      "onboard_time": 1663409608,
+      "rank": 35,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 531289,
       "num": 531289,
       "word": "北京今日部分区域试鸣防空警报",
@@ -523,14 +555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 441926,
-      "num": 441926,
-      "word": "硕士毕业送外卖当事人回应争议",
-      "onboard_time": 1663408706,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 438043,
       "num": 392364,
       "word": "韩剧最令人意难平的男2",
@@ -555,14 +579,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 422560,
-      "num": 422560,
-      "word": "苍兰诀 爱奇艺",
-      "onboard_time": 1663409666,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 405124,
       "num": 405124,
       "word": "张杰现身支持谢娜话剧首演",
@@ -584,6 +600,14 @@
       "word": "逃犯在缅甸完不成业绩罚做2千深蹲",
       "onboard_time": 1663346662,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 399752,
+      "num": 399752,
+      "word": "大妈顺走外卖被失主次日偶遇认出",
+      "onboard_time": 1663409425,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -707,6 +731,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 315065,
+      "num": 315065,
+      "word": "Doinb",
+      "onboard_time": 1663409906,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 312364,
       "num": 312364,
       "word": "退休县委书记卖房在沙漠植树13年",
@@ -785,14 +817,6 @@
       "onboard_time": 1663390888,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 290699,
-      "num": 241743,
-      "word": "苍兰诀直播",
-      "onboard_time": 1663410025,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 290188,
@@ -881,6 +905,14 @@
       "onboard_time": 1663406126,
       "rank": 18,
       "category": "教育"
+    },
+    {
+      "raw_hot": 271181,
+      "num": 271181,
+      "word": "这就是打磨了四年的剧本吗",
+      "onboard_time": 1663410146,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 269303,
@@ -972,7 +1004,7 @@
     },
     {
       "raw_hot": 254969,
-      "num": 172320,
+      "num": 174987,
       "word": "爱情而已全员手写网球说再见",
       "onboard_time": 1663408166,
       "rank": 30,
@@ -1011,6 +1043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 241665,
+      "num": 241665,
+      "word": "六级翻译cctv",
+      "onboard_time": 1663409906,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 238811,
       "num": 160749,
       "word": "你好星期六",
@@ -1027,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232725,
+      "num": 232725,
+      "word": "肇庆再现卧佛含丹天象奇观",
+      "onboard_time": 1663406607,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229308,
       "num": 229308,
       "word": "专家称预制菜如同猪狗食",
@@ -1041,14 +1089,6 @@
       "onboard_time": 1663372224,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 223138,
-      "num": 223138,
-      "word": "肇庆再现卧佛含丹天象奇观",
-      "onboard_time": 1663406607,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 219767,
@@ -1155,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198960,
+      "num": 198960,
+      "word": "你有多久没被拥抱过了",
+      "onboard_time": 1663410446,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 194501,
       "num": 194501,
       "word": "山东大姐把煎饼卷成花花世界",
@@ -1227,12 +1275,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 179988,
-      "num": 169009,
-      "word": "这就是打磨了四年的剧本吗",
-      "onboard_time": 1663410146,
-      "rank": 34,
-      "category": "影视"
+      "raw_hot": 178639,
+      "num": 178639,
+      "word": "郭艾伦",
+      "onboard_time": 1663408944,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 177961,
@@ -1267,6 +1315,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 171311,
+      "num": 171311,
+      "word": "这就是顶级破碎感吧",
+      "onboard_time": 1663410926,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 171081,
       "num": 171081,
       "word": "哪一刻你后悔没有好好读书",
@@ -1291,12 +1347,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 168250,
-      "num": 168250,
-      "word": "德国正式接管俄石油公司在德业务",
-      "onboard_time": 1663409608,
-      "rank": 35,
-      "category": "国外要闻"
+      "raw_hot": 168170,
+      "num": 136415,
+      "word": "焦俊艳与妈妈是跨时空工友",
+      "onboard_time": 1663407747,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 166038,
@@ -1321,6 +1377,14 @@
       "onboard_time": 1663384585,
       "rank": 2,
       "category": "军事"
+    },
+    {
+      "raw_hot": 159095,
+      "num": 119342,
+      "word": "想看爱情而已",
+      "onboard_time": 1663411347,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 158704,
@@ -1395,14 +1459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 145423,
-      "num": 145423,
-      "word": "Doinb",
-      "onboard_time": 1663409906,
-      "rank": 41,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 145096,
       "num": 145096,
       "word": "突然觉得这个蛋糕有点吵",
@@ -1451,14 +1507,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 135680,
-      "num": 135680,
-      "word": "大妈顺走外卖被失主次日偶遇认出",
-      "onboard_time": 1663409425,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135335,
       "num": 135335,
       "word": "谢娜十三角关系首演",
@@ -1489,14 +1537,6 @@
       "onboard_time": 1663399467,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 134356,
-      "num": 134356,
-      "word": "六级翻译cctv",
-      "onboard_time": 1663409906,
-      "rank": 43,
-      "category": "教育"
     },
     {
       "raw_hot": 133652,
@@ -1617,14 +1657,6 @@
       "onboard_time": 1663393288,
       "rank": 44,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 110709,
-      "num": 110709,
-      "word": "郭艾伦",
-      "onboard_time": 1663408944,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 110313,
