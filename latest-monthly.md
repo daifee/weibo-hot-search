@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/18 07:23:56
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/18 07:42:05
 </p>
 </blockquote>
 <p>
@@ -5775,6 +5775,12 @@ iPhone14系列没涨价（热度：892829）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%95%E8%83%A7%E4%BA%95%E8%BF%AA%E5%8F%91%E6%96%87%E5%9B%9E%E5%BA%94%E8%BD%A6%E7%A5%B8%E7%8E%B0%E5%9C%BA%23" target="weibo">
+井胧井迪发文回应车祸现场（热度：824001）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%80%E4%B8%8D%E6%83%B3%E5%BC%9F%E5%BC%9F%E5%BC%80%E5%AD%A6%E7%9A%84%E6%98%AF%E5%A7%90%E5%A7%90%23" target="weibo">
 最不想弟弟开学的是姐姐（热度：823420）
 </a>
@@ -6005,12 +6011,6 @@ Angelababy说我是露娜画中见（热度：808989）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Ale%23" target="weibo">
 Ale（热度：793817）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E7%BD%91%E8%AF%BE%E4%BC%91%E6%81%AF%E7%8B%82%E7%82%AB%E9%B8%A1%E8%85%BF%E6%88%90%E5%90%83%E6%92%AD%E7%8E%B0%E5%9C%BA%23" target="weibo">
-女生网课休息狂炫鸡腿成吃播现场（热度：792822）
 </a>
 </li>
 
