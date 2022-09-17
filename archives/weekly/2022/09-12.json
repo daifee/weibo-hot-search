@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663383863389,
+  "endTime": 1663388426804,
   "band_list": [
     {
       "raw_hot": 20529209,
@@ -771,6 +771,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1597158,
+      "num": 1597158,
+      "word": "普京称将尽快结束乌克兰冲突",
+      "onboard_time": 1663384706,
+      "rank": 1,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 1588541,
       "num": 1588541,
       "word": "iPhone14ProMax电池容量不增反降",
@@ -1387,6 +1395,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1161265,
+      "num": 1161265,
+      "word": "厦门六中证实接受100万元捐款",
+      "onboard_time": 1663384889,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1148327,
       "num": 1148327,
       "word": "羊了个羊急招后端开发",
@@ -1544,6 +1560,14 @@
       "word": "90后小伙为工作9年不炫火锅",
       "onboard_time": 1662948517,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1090549,
+      "num": 1090549,
+      "word": "女孩带薪撸猫月薪6000元",
+      "onboard_time": 1663383147,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -1875,6 +1899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 953000,
+      "num": 953000,
+      "word": "四级答案",
+      "onboard_time": 1663386327,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
       "raw_hot": 941555,
       "num": 941555,
       "word": "ios16",
@@ -1928,6 +1960,14 @@
       "word": "女子野山摘了一株花被刑拘",
       "onboard_time": 1663325852,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 927670,
+      "num": 927670,
+      "word": "南开胡金牛教授简历太好笑了",
+      "onboard_time": 1663384167,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -2875,6 +2915,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 651574,
+      "num": 651574,
+      "word": "中国传媒大学解除临时封闭管理",
+      "onboard_time": 1663384107,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 650088,
       "num": 650088,
       "word": "为什么突然失去分享欲",
@@ -3059,6 +3107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 607776,
+      "num": 607776,
+      "word": "苍兰诀",
+      "onboard_time": 1662944074,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 605027,
       "num": 605027,
       "word": "司仪婚礼上被狗追啃脚坚持主持",
@@ -3233,6 +3289,14 @@
       "onboard_time": 1663154131,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 570753,
+      "num": 570753,
+      "word": "为什么越来越多的人选择逆向考研",
+      "onboard_time": 1663381047,
+      "rank": 13,
+      "category": "教育,社会议题"
     },
     {
       "raw_hot": 570507,
@@ -3481,6 +3545,14 @@
       "onboard_time": 1663072413,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 529675,
+      "num": 529675,
+      "word": "东八区的先生们 台词",
+      "onboard_time": 1663386147,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 529538,
@@ -3873,6 +3945,14 @@
       "onboard_time": 1663339233,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 476371,
+      "num": 476371,
+      "word": "四六级考试今天开考",
+      "onboard_time": 1663373727,
+      "rank": 13,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 474983,
@@ -4275,6 +4355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 440147,
+      "num": 440147,
+      "word": "陆登夫妇真的be了吗",
+      "onboard_time": 1663386985,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 439195,
       "num": 439195,
       "word": "EDG发布处罚公告",
@@ -4289,6 +4377,14 @@
       "onboard_time": 1663206145,
       "rank": 15,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 436049,
+      "num": 436049,
+      "word": "颖儿发文回应全素颜上镜",
+      "onboard_time": 1663387769,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 435501,
@@ -5083,14 +5179,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 368042,
-      "num": 368042,
-      "word": "四六级考试今天开考",
-      "onboard_time": 1663373727,
-      "rank": 13,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 367825,
       "num": 367825,
       "word": "退休县委书记卖房在沙漠植树13年",
@@ -5193,6 +5281,14 @@
       "onboard_time": 1663160432,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 359165,
+      "num": 359165,
+      "word": "张彬彬分享工作中的虞书欣",
+      "onboard_time": 1663386388,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 357366,
@@ -5339,14 +5435,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 343596,
-      "num": 343596,
-      "word": "为什么越来越多的人选择逆向考研",
-      "onboard_time": 1663381047,
-      "rank": 13,
-      "category": "教育,社会议题"
-    },
-    {
       "raw_hot": 342902,
       "num": 342902,
       "word": "玉骨遥",
@@ -5473,6 +5561,14 @@
       "onboard_time": 1663038093,
       "rank": 32,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 335365,
+      "num": 335365,
+      "word": "上海试鸣防空警报",
+      "onboard_time": 1663386670,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 335168,
@@ -5715,6 +5811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 323050,
+      "num": 323050,
+      "word": "IU2022TheGoldenHour蚕室演唱会",
+      "onboard_time": 1663386985,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 322855,
       "num": 322855,
       "word": "台风梅花预计14日登陆",
@@ -5811,6 +5915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 318605,
+      "num": 318605,
+      "word": "王鹤棣刘耀文大秀同框看秀",
+      "onboard_time": 1663385605,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 318326,
       "num": 318326,
       "word": "天津发布房地产调控新政",
@@ -5881,6 +5993,14 @@
       "onboard_time": 1663139006,
       "rank": 24,
       "category": "科技"
+    },
+    {
+      "raw_hot": 313635,
+      "num": 313635,
+      "word": "男子为泄愤放火烧自己家被判刑",
+      "onboard_time": 1663386927,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 313459,
@@ -6328,6 +6448,14 @@
       "word": "95后爸爸用毛线为女儿织生日蛋糕",
       "onboard_time": 1663308806,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290188,
+      "num": 290188,
+      "word": "宝妈买橘子先让娃测试酸不酸",
+      "onboard_time": 1663382366,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -7123,6 +7251,14 @@
       "category": "社会正能量,教育"
     },
     {
+      "raw_hot": 250711,
+      "num": 250711,
+      "word": "奶奶用布缝了一桌山东特产",
+      "onboard_time": 1663385908,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250072,
       "num": 250072,
       "word": "护考",
@@ -7795,14 +7931,6 @@
       "category": "军事,国内要闻"
     },
     {
-      "raw_hot": 216536,
-      "num": 216536,
-      "word": "女孩带薪撸猫月薪6000元",
-      "onboard_time": 1663383147,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 215865,
       "num": 215865,
       "word": "BLACKPINK新专回归倒计时海报",
@@ -8120,14 +8248,6 @@
       "word": "艾美奖",
       "onboard_time": 1663033895,
       "rank": 38,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 201532,
-      "num": 120671,
-      "word": "苍兰诀",
-      "onboard_time": 1662944074,
-      "rank": 45,
       "category": "影视"
     },
     {
@@ -8481,6 +8601,14 @@
       "onboard_time": 1663035695,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186460,
+      "num": 186460,
+      "word": "欺负同类老实的猫咪",
+      "onboard_time": 1663385247,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 186023,
@@ -9035,14 +9163,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 155446,
-      "num": 155446,
-      "word": "宝妈买橘子先让娃测试酸不酸",
-      "onboard_time": 1663382366,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155440,
       "num": 155440,
       "word": "猫猫真的可以治愈一切",
@@ -9475,6 +9595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130554,
+      "num": 1212551,
+      "word": "英雄回家",
+      "onboard_time": 1663384585,
+      "rank": 2,
+      "category": "军事"
+    },
+    {
       "raw_hot": 130403,
       "num": 130403,
       "word": "运20搭载88位志愿军烈士遗骸起飞回国",
@@ -9625,6 +9753,14 @@
       "onboard_time": 1663295849,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122762,
+      "num": 122762,
+      "word": "Cat登场KPL六周年",
+      "onboard_time": 1663385488,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 122277,
@@ -9915,12 +10051,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 110226,
+      "num": 110226,
+      "word": "刘雨昕直拍墨镜一戴谁也不爱",
+      "onboard_time": 1663387047,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110107,
       "num": 110107,
       "word": "两个动作锻炼腰部力量",
       "onboard_time": 1662972458,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108664,
+      "num": 108664,
+      "word": "军人救人又救火获10万奖金全捐了",
+      "onboard_time": 1663387286,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108658,
@@ -10033,6 +10185,14 @@
       "onboard_time": 1662879629,
       "rank": 28,
       "category": "科技,情感"
+    },
+    {
+      "raw_hot": 102239,
+      "num": 102239,
+      "word": "广州试鸣防空警报",
+      "onboard_time": 1663383867,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101609,
@@ -10177,6 +10337,14 @@
       "onboard_time": 1663089678,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 87333,
+      "num": 437518,
+      "word": "12响鸣枪致敬志愿军烈士",
+      "onboard_time": 1663387648,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 86305,
@@ -10870,6 +11038,9 @@
     },
     {
       "word": "#为烈士寻亲#"
+    },
+    {
+      "word": "#安全保障发展发展促进安全#"
     }
   ]
 }
