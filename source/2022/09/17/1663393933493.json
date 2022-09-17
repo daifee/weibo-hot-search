@@ -1,0 +1,410 @@
+{
+  "runTime": 1663393933493,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1808922,
+        "num": 1808922,
+        "word": "这样的睡姿最毁腰",
+        "onboard_time": 1663377147,
+        "rank": 0,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 1005962,
+        "num": 1005962,
+        "word": "南开胡金牛教授简历太好笑了",
+        "onboard_time": 1663384167,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148790,
+        "num": 793797,
+        "word": "英雄回家",
+        "onboard_time": 1663384585,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1224808,
+        "num": 786606,
+        "word": "27岁女子婚外产子后弃婴获刑",
+        "onboard_time": 1663391187,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 737804,
+        "num": 737804,
+        "word": "檀健次你安全吗尺度好大",
+        "onboard_time": 1663392088,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 692072,
+        "num": 692072,
+        "word": "普京称将尽快结束乌克兰冲突",
+        "onboard_time": 1663384706,
+        "rank": 5,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 684205,
+        "num": 684205,
+        "word": "星汉灿烂收官战报",
+        "onboard_time": 1663390834,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 682627,
+        "num": 682627,
+        "word": "厦门六中证实接受100万元捐款",
+        "onboard_time": 1663384889,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 676244,
+        "num": 676244,
+        "word": "妹妹为照顾外甥与姐夫重组家庭",
+        "onboard_time": 1663390708,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 647960,
+        "num": 647960,
+        "word": "陆登夫妇真的be了吗",
+        "onboard_time": 1663386985,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 759805,
+        "num": 638475,
+        "word": "虞书欣素颜出镜好真实",
+        "onboard_time": 1663392148,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 564638,
+        "num": 564638,
+        "word": "男子买糖葫芦发现黑虫大妈当场吃掉",
+        "onboard_time": 1663389567,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561105,
+        "num": 561105,
+        "word": "女孩带薪撸猫月薪6000元",
+        "onboard_time": 1663383147,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 527704,
+        "num": 527704,
+        "word": "东八区的先生们 台词",
+        "onboard_time": 1663386147,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 471026,
+        "num": 471026,
+        "word": "男子为泄愤放火烧自己家被判刑",
+        "onboard_time": 1663386927,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443773,
+        "num": 443773,
+        "word": "四级答案",
+        "onboard_time": 1663386327,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 405124,
+        "num": 405124,
+        "word": "张杰现身支持谢娜话剧首演",
+        "onboard_time": 1663390406,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 299015,
+        "num": 299015,
+        "word": "四级翻译考了传统文化",
+        "onboard_time": 1663389208,
+        "rank": 17,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 292922,
+        "num": 292922,
+        "word": "为什么越来越多的人选择逆向考研",
+        "onboard_time": 1663381047,
+        "rank": 18,
+        "category": "教育,社会议题"
+      },
+      {
+        "raw_hot": 291553,
+        "num": 291553,
+        "word": "四川新增本土确诊34例",
+        "onboard_time": 1663390888,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310394,
+        "num": 289627,
+        "word": "苍兰诀",
+        "onboard_time": 1663386567,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 283219,
+        "num": 283219,
+        "word": "迪丽热巴学鸟叫呱呱",
+        "onboard_time": 1663393227,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 274305,
+        "num": 274305,
+        "word": "奶奶用布缝了一桌山东特产",
+        "onboard_time": 1663385908,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262761,
+        "num": 262761,
+        "word": "任嘉伦说最近迷陆炎迷的得了炎症",
+        "onboard_time": 1663391669,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211658,
+        "num": 211658,
+        "word": "考研",
+        "onboard_time": 1663370181,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 176820,
+        "num": 176820,
+        "word": "中国传媒大学解除临时封闭管理",
+        "onboard_time": 1663384107,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175139,
+        "num": 175139,
+        "word": "男子欲捐款被保安拦转头捐另一学校",
+        "onboard_time": 1663375045,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163623,
+        "num": 163623,
+        "word": "光与夜之恋",
+        "onboard_time": 1663391007,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155435,
+        "num": 155435,
+        "word": "军人救人又救火获10万奖金全捐了",
+        "onboard_time": 1663387286,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154806,
+        "num": 154806,
+        "word": "消防员放生果子狸反被追得满山跑",
+        "onboard_time": 1663393288,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250354,
+        "num": 153904,
+        "word": "颖儿发文回应全素颜上镜",
+        "onboard_time": 1663387769,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243343,
+        "num": 153887,
+        "word": "电视剧底线发布会",
+        "onboard_time": 1663392387,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238811,
+        "num": 153790,
+        "word": "你好星期六",
+        "onboard_time": 1663393526,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152771,
+        "num": 152771,
+        "word": "日料店被举报卖核辐射产地食品",
+        "onboard_time": 1663380446,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166285,
+        "num": 151863,
+        "word": "王俊凯大衣贝雷帽造型大片",
+        "onboard_time": 1663389748,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150474,
+        "num": 150474,
+        "word": "四级作文",
+        "onboard_time": 1663388431,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 146337,
+        "num": 146337,
+        "word": "为什么突然失去分享欲",
+        "onboard_time": 1663374926,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146219,
+        "num": 146219,
+        "word": "四级翻译又又翻车了",
+        "onboard_time": 1663388968,
+        "rank": 37,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 145868,
+        "num": 145868,
+        "word": "宝妈买橘子先让娃测试酸不酸",
+        "onboard_time": 1663382366,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127586,
+        "num": 127586,
+        "word": "JackeyLove新发色",
+        "onboard_time": 1663393768,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154359,
+        "num": 127518,
+        "word": "IU2022TheGoldenHour蚕室演唱会",
+        "onboard_time": 1663386985,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 127968,
+        "num": 127485,
+        "word": "见面吧就现在",
+        "onboard_time": 1663392630,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127447,
+        "num": 127447,
+        "word": "法考",
+        "onboard_time": 1663338934,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 125310,
+        "num": 125310,
+        "word": "欺负同类老实的猫咪",
+        "onboard_time": 1663385247,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111132,
+        "num": 111132,
+        "word": "2023考研报考指南",
+        "onboard_time": 1663393288,
+        "rank": 44,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 98997,
+        "num": 98997,
+        "word": "法国男篮41分大胜波兰男篮",
+        "onboard_time": 1663379968,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96917,
+        "num": 96917,
+        "word": "逆向考研有必要吗",
+        "onboard_time": 1663390947,
+        "rank": 46,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 148902,
+        "num": 95236,
+        "word": "断桥网播热度日冠",
+        "onboard_time": 1663393885,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 89773,
+        "num": 89773,
+        "word": "Faithbian称TI11后将退役",
+        "onboard_time": 1663390834,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 87737,
+        "num": 87737,
+        "word": "第一次见这么多狗团建",
+        "onboard_time": 1663377325,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#安全保障发展发展促进安全#"
+    }
+  }
+}
