@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/12 00:31:49 ~ 2022/09/18 03:18:34
+本榜单时间：2022/09/12 00:31:49 ~ 2022/09/18 03:34:48
 </p>
 </blockquote>
 <p>
@@ -9087,6 +9087,12 @@ F1意大利大奖赛（热度：57047）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8C%B4%E7%97%98%E6%BD%9C%E4%BC%8F%E6%9C%9F%E6%9C%80%E9%95%BF23%E5%A4%A9%23" target="weibo">
+猴痘潜伏期最长23天（热度：49506）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%A8%E6%98%9F%E5%90%88%E6%9C%88%E7%BE%8E%E6%99%AF%E6%95%B4%E5%A4%9C%E5%8F%AF%E8%A7%81%23" target="weibo">
 木星合月美景整夜可见（热度：48486）
 </a>
@@ -9173,12 +9179,6 @@ F1意大利大奖赛（热度：57047）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%A3%AE%E6%9E%97%E4%BA%B2%E5%8F%8B%E5%9B%A2%E9%9B%86%E9%BD%90%E4%BA%86%E6%88%91%E7%9A%84%E7%94%9C%E5%89%A7%E5%A2%99%E5%A4%B4%23" target="weibo">
 小森林亲友团集齐了我的甜剧墙头（热度：33771）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8C%B4%E7%97%98%E6%BD%9C%E4%BC%8F%E6%9C%9F%E6%9C%80%E9%95%BF23%E5%A4%A9%23" target="weibo">
-猴痘潜伏期最长23天（热度：31355）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663442314752,
+  "endTime": 1663443288039,
   "band_list": [
     {
       "raw_hot": 20529209,
@@ -12099,6 +12099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49506,
+      "num": 49506,
+      "word": "猴痘潜伏期最长23天",
+      "onboard_time": 1663441152,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48486,
       "num": 48486,
       "word": "木星合月美景整夜可见",
@@ -12217,14 +12225,6 @@
       "onboard_time": 1663263914,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 31355,
-      "num": 31355,
-      "word": "猴痘潜伏期最长23天",
-      "onboard_time": 1663441152,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30768,
