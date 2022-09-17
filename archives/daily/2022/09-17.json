@@ -1,6 +1,6 @@
 {
   "startTime": 1663346071384,
-  "endTime": 1663388426804,
+  "endTime": 1663389747347,
   "band_list": [
     {
       "raw_hot": 2990615,
@@ -27,6 +27,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1424116,
+      "num": 1424116,
+      "word": "厦门六中证实接受100万元捐款",
+      "onboard_time": 1663384889,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1384787,
       "num": 1384787,
       "word": "考研缩招",
@@ -43,11 +51,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1161265,
-      "num": 1161265,
-      "word": "厦门六中证实接受100万元捐款",
-      "onboard_time": 1663384889,
-      "rank": 3,
+      "raw_hot": 1361182,
+      "num": 1361182,
+      "word": "南开胡金牛教授简历太好笑了",
+      "onboard_time": 1663384167,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -75,20 +83,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 927670,
-      "num": 927670,
-      "word": "南开胡金牛教授简历太好笑了",
-      "onboard_time": 1663384167,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 880256,
       "num": 880256,
       "word": "男子欲捐款被保安拦转头捐另一学校",
       "onboard_time": 1663375045,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 867083,
+      "num": 867083,
+      "word": "陆登夫妇真的be了吗",
+      "onboard_time": 1663386985,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 855306,
@@ -136,6 +144,14 @@
       "word": "从此校园文男主有了脸",
       "onboard_time": 1663346244,
       "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 719414,
+      "num": 719414,
+      "word": "东八区的先生们 台词",
+      "onboard_time": 1663386147,
+      "rank": 11,
       "category": "影视"
     },
     {
@@ -211,20 +227,20 @@
       "category": "教育,社会议题"
     },
     {
+      "raw_hot": 540479,
+      "num": 540479,
+      "word": "男子为泄愤放火烧自己家被判刑",
+      "onboard_time": 1663386927,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 531289,
       "num": 531289,
       "word": "北京今日部分区域试鸣防空警报",
       "onboard_time": 1663380988,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 529675,
-      "num": 529675,
-      "word": "东八区的先生们 台词",
-      "onboard_time": 1663386147,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 520641,
@@ -273,14 +289,6 @@
       "onboard_time": 1663379968,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 440147,
-      "num": 440147,
-      "word": "陆登夫妇真的be了吗",
-      "onboard_time": 1663386985,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 436049,
@@ -355,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 333316,
+      "num": 333316,
+      "word": "奶奶用布缝了一桌山东特产",
+      "onboard_time": 1663385908,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 323050,
       "num": 323050,
       "word": "IU2022TheGoldenHour蚕室演唱会",
@@ -377,14 +393,6 @@
       "onboard_time": 1663366455,
       "rank": 47,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 313635,
-      "num": 313635,
-      "word": "男子为泄愤放火烧自己家被判刑",
-      "onboard_time": 1663386927,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 312364,
@@ -507,6 +515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 264205,
+      "num": 264205,
+      "word": "四级作文",
+      "onboard_time": 1663388431,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 263059,
       "num": 263059,
       "word": "杜淳说绝不允许女儿出国上学",
@@ -545,14 +561,6 @@
       "onboard_time": 1663339049,
       "rank": 23,
       "category": "教育"
-    },
-    {
-      "raw_hot": 250711,
-      "num": 250711,
-      "word": "奶奶用布缝了一桌山东特产",
-      "onboard_time": 1663385908,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 237372,
@@ -603,6 +611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 210932,
+      "num": 210932,
+      "word": "欺负同类老实的猫咪",
+      "onboard_time": 1663385247,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 199384,
       "num": 199384,
       "word": "女婴吃梨被卡妈妈海姆立克急救",
@@ -643,14 +659,6 @@
       "category": "其它"
     },
     {
-      "raw_hot": 186460,
-      "num": 186460,
-      "word": "欺负同类老实的猫咪",
-      "onboard_time": 1663385247,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 181961,
       "num": 181961,
       "word": "优秀的子女必定远离父母吗",
@@ -689,6 +697,14 @@
       "onboard_time": 1663343608,
       "rank": 45,
       "category": "科技"
+    },
+    {
+      "raw_hot": 166038,
+      "num": 166038,
+      "word": "四级翻译戏曲",
+      "onboard_time": 1663388848,
+      "rank": 31,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 158704,
@@ -747,12 +763,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 144257,
+      "num": 144257,
+      "word": "四级听力",
+      "onboard_time": 1663388848,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 141862,
       "num": 141862,
       "word": "成都沃尔玛现3238元天价白菜",
       "onboard_time": 1663322913,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139715,
+      "num": 139715,
+      "word": "四级翻译考了传统文化",
+      "onboard_time": 1663389208,
+      "rank": 37,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 139280,
@@ -763,11 +795,27 @@
       "category": "教育"
     },
     {
+      "raw_hot": 138531,
+      "num": 138531,
+      "word": "军人救人又救火获10万奖金全捐了",
+      "onboard_time": 1663387286,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135335,
       "num": 135335,
       "word": "谢娜十三角关系首演",
       "onboard_time": 1663364711,
       "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 135258,
+      "num": 135258,
+      "word": "秦海璐没演过挨欺负的角色吧",
+      "onboard_time": 1663389389,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -804,7 +852,7 @@
     },
     {
       "raw_hot": 130554,
-      "num": 1212551,
+      "num": 1453332,
       "word": "英雄回家",
       "onboard_time": 1663384585,
       "rank": 2,
@@ -817,6 +865,14 @@
       "onboard_time": 1663342893,
       "rank": 37,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 124409,
+      "num": 124409,
+      "word": "男子买糖葫芦发现黑虫大妈当场吃掉",
+      "onboard_time": 1663389567,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122762,
@@ -899,12 +955,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 108664,
-      "num": 108664,
-      "word": "军人救人又救火获10万奖金全捐了",
-      "onboard_time": 1663387286,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 107355,
+      "num": 107355,
+      "word": "六级预测",
+      "onboard_time": 1663389030,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 106756,

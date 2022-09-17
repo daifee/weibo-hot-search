@@ -1,0 +1,410 @@
+{
+  "runTime": 1663389747347,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2556886,
+        "num": 2556886,
+        "word": "这样的睡姿最毁腰",
+        "onboard_time": 1663377147,
+        "rank": 0,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 1516619,
+        "num": 1516619,
+        "word": "普京称将尽快结束乌克兰冲突",
+        "onboard_time": 1663384706,
+        "rank": 1,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 128273,
+        "num": 1453332,
+        "word": "英雄回家",
+        "onboard_time": 1663384585,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1424116,
+        "num": 1424116,
+        "word": "厦门六中证实接受100万元捐款",
+        "onboard_time": 1663384889,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1361182,
+        "num": 1361182,
+        "word": "南开胡金牛教授简历太好笑了",
+        "onboard_time": 1663384167,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1003900,
+        "num": 1003900,
+        "word": "女孩带薪撸猫月薪6000元",
+        "onboard_time": 1663383147,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 902507,
+        "num": 902507,
+        "word": "四级答案",
+        "onboard_time": 1663386327,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 867083,
+        "num": 867083,
+        "word": "陆登夫妇真的be了吗",
+        "onboard_time": 1663386985,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 719414,
+        "num": 719414,
+        "word": "东八区的先生们 台词",
+        "onboard_time": 1663386147,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 665117,
+        "num": 665117,
+        "word": "考研",
+        "onboard_time": 1663370181,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 594465,
+        "num": 594465,
+        "word": "苍兰诀",
+        "onboard_time": 1663386567,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 572427,
+        "num": 572427,
+        "word": "中国传媒大学解除临时封闭管理",
+        "onboard_time": 1663384107,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 540479,
+        "num": 540479,
+        "word": "男子为泄愤放火烧自己家被判刑",
+        "onboard_time": 1663386927,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480249,
+        "num": 480249,
+        "word": "为什么越来越多的人选择逆向考研",
+        "onboard_time": 1663381047,
+        "rank": 13,
+        "category": "教育,社会议题"
+      },
+      {
+        "raw_hot": 57607,
+        "num": 421239,
+        "word": "12响鸣枪致敬志愿军烈士",
+        "onboard_time": 1663387648,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387715,
+        "num": 387715,
+        "word": "颖儿发文回应全素颜上镜",
+        "onboard_time": 1663387769,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 334587,
+        "num": 334587,
+        "word": "法考",
+        "onboard_time": 1663338934,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 333316,
+        "num": 333316,
+        "word": "奶奶用布缝了一桌山东特产",
+        "onboard_time": 1663385908,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302741,
+        "num": 302741,
+        "word": "男子欲捐款被保安拦转头捐另一学校",
+        "onboard_time": 1663375045,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299270,
+        "num": 299270,
+        "word": "日料店被举报卖核辐射产地食品",
+        "onboard_time": 1663380446,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284281,
+        "num": 284281,
+        "word": "王鹤棣刘耀文大秀同框看秀",
+        "onboard_time": 1663385605,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 273304,
+        "num": 273304,
+        "word": "IU2022TheGoldenHour蚕室演唱会",
+        "onboard_time": 1663386985,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 265611,
+        "num": 265611,
+        "word": "张彬彬分享工作中的虞书欣",
+        "onboard_time": 1663386388,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 264205,
+        "num": 264205,
+        "word": "四级作文",
+        "onboard_time": 1663388431,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 251082,
+        "num": 251082,
+        "word": "宝妈买橘子先让娃测试酸不酸",
+        "onboard_time": 1663382366,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250025,
+        "num": 250025,
+        "word": "四六级考试今天开考",
+        "onboard_time": 1663373727,
+        "rank": 25,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 210932,
+        "num": 210932,
+        "word": "欺负同类老实的猫咪",
+        "onboard_time": 1663385247,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183205,
+        "num": 183205,
+        "word": "任嘉伦演技",
+        "onboard_time": 1663378167,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182139,
+        "num": 182139,
+        "word": "腰好像一下子就舒服了",
+        "onboard_time": 1663335814,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177116,
+        "num": 177116,
+        "word": "法国男篮41分大胜波兰男篮",
+        "onboard_time": 1663379968,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168560,
+        "num": 168560,
+        "word": "第一次见这么多狗团建",
+        "onboard_time": 1663377325,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166038,
+        "num": 166038,
+        "word": "四级翻译戏曲",
+        "onboard_time": 1663388848,
+        "rank": 31,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 156725,
+        "num": 156725,
+        "word": "上海试鸣防空警报",
+        "onboard_time": 1663386670,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153365,
+        "num": 153365,
+        "word": "为什么突然失去分享欲",
+        "onboard_time": 1663374926,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149599,
+        "num": 149599,
+        "word": "年轻人的周末有多好玩",
+        "onboard_time": 1663378885,
+        "rank": 34,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 147528,
+        "num": 147528,
+        "word": "国产大飞机C919即将取证交付",
+        "onboard_time": 1663375228,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144257,
+        "num": 144257,
+        "word": "四级听力",
+        "onboard_time": 1663388848,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 139715,
+        "num": 139715,
+        "word": "四级翻译考了传统文化",
+        "onboard_time": 1663389208,
+        "rank": 37,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 138597,
+        "num": 138597,
+        "word": "这就是街舞",
+        "onboard_time": 1663381168,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138531,
+        "num": 138531,
+        "word": "军人救人又救火获10万奖金全捐了",
+        "onboard_time": 1663387286,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135258,
+        "num": 135258,
+        "word": "秦海璐没演过挨欺负的角色吧",
+        "onboard_time": 1663389389,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133048,
+        "num": 133048,
+        "word": "贺峻霖一个人凑不齐半个胆",
+        "onboard_time": 1663377386,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131756,
+        "num": 131756,
+        "word": "iPhone14顶配首发价格即破发",
+        "onboard_time": 1663339112,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 124409,
+        "num": 124409,
+        "word": "男子买糖葫芦发现黑虫大妈当场吃掉",
+        "onboard_time": 1663389567,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119327,
+        "num": 119327,
+        "word": "这几条鱼吵架了吧",
+        "onboard_time": 1663372044,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115187,
+        "num": 115187,
+        "word": "Cat登场KPL六周年",
+        "onboard_time": 1663385488,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113670,
+        "num": 113670,
+        "word": "35岁男子地铁猥亵女子被拘14日",
+        "onboard_time": 1663345107,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111899,
+        "num": 111899,
+        "word": "从此校园文男主有了脸",
+        "onboard_time": 1663346244,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 107355,
+        "num": 107355,
+        "word": "六级预测",
+        "onboard_time": 1663389030,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 106389,
+        "num": 106389,
+        "word": "台风过后中学操场游来一条鱼",
+        "onboard_time": 1663379605,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#安全保障发展发展促进安全#"
+    }
+  }
+}
