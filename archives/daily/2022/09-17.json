@@ -1,6 +1,6 @@
 {
   "startTime": 1663346071384,
-  "endTime": 1663407630187,
+  "endTime": 1663410326090,
   "band_list": [
     {
       "raw_hot": 2990615,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2595568,
-      "num": 655862,
+      "num": 1333990,
       "word": "深圳一男婴出生时4手4脚",
       "onboard_time": 1663403187,
       "rank": 17,
@@ -40,6 +40,14 @@
       "word": "考研",
       "onboard_time": 1663370181,
       "rank": 11,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 1457055,
+      "num": 1457055,
+      "word": "六级答案",
+      "onboard_time": 1663407626,
+      "rank": 47,
       "category": "教育"
     },
     {
@@ -75,12 +83,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1344580,
+      "num": 1344580,
+      "word": "张雪峰称考研头铁的人很多",
+      "onboard_time": 1663405947,
+      "rank": 28,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1339057,
       "num": 676244,
       "word": "妹妹为照顾外甥与姐夫重组家庭",
       "onboard_time": 1663390708,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1328788,
+      "num": 1328788,
+      "word": "苍兰诀见面会",
+      "onboard_time": 1663406725,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 1292501,
@@ -104,6 +128,14 @@
       "word": "檀健次你安全吗尺度好大",
       "onboard_time": 1663392088,
       "rank": 11,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1144601,
+      "num": 745341,
+      "word": "王鹤棣说和本座一起共赴盛宴",
+      "onboard_time": 1663407747,
+      "rank": 6,
       "category": "影视"
     },
     {
@@ -251,6 +283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 745517,
+      "num": 745517,
+      "word": "美国房贷利率超6%",
+      "onboard_time": 1663406845,
+      "rank": 16,
+      "category": "财经,国外要闻"
+    },
+    {
       "raw_hot": 737721,
       "num": 625207,
       "word": "从此校园文男主有了脸",
@@ -289,14 +329,6 @@
       "onboard_time": 1663378167,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 668468,
-      "num": 668468,
-      "word": "张雪峰称考研头铁的人很多",
-      "onboard_time": 1663405947,
-      "rank": 28,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 653776,
@@ -411,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 526578,
+      "num": 526578,
+      "word": "Uzi参加LBL",
+      "onboard_time": 1663407267,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 520641,
       "num": 520641,
       "word": "iPhone14顶配首发价格即破发",
@@ -483,6 +523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 441926,
+      "num": 441926,
+      "word": "硕士毕业送外卖当事人回应争议",
+      "onboard_time": 1663408706,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 438043,
       "num": 392364,
       "word": "韩剧最令人意难平的男2",
@@ -505,6 +553,14 @@
       "onboard_time": 1663375947,
       "rank": 12,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 422560,
+      "num": 422560,
+      "word": "苍兰诀 爱奇艺",
+      "onboard_time": 1663409666,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 405124,
@@ -539,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 380176,
+      "num": 251780,
+      "word": "马嘉祺黑色西装随拍",
+      "onboard_time": 1663409608,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 373044,
       "num": 373044,
       "word": "法考",
@@ -571,14 +635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 343791,
-      "num": 343791,
-      "word": "苍兰诀见面会",
-      "onboard_time": 1663406725,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 337667,
       "num": 337667,
       "word": "没想到上个厕所也能社死",
@@ -609,6 +665,14 @@
       "onboard_time": 1663395324,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 328149,
+      "num": 328149,
+      "word": "六级作文",
+      "onboard_time": 1663408048,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 323050,
@@ -723,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 290699,
+      "num": 241743,
+      "word": "苍兰诀直播",
+      "onboard_time": 1663410025,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 290188,
       "num": 290188,
       "word": "宝妈买橘子先让娃测试酸不酸",
@@ -793,14 +865,6 @@
       "onboard_time": 1663365492,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 277167,
-      "num": 277167,
-      "word": "美国房贷利率超6%",
-      "onboard_time": 1663406845,
-      "rank": 16,
-      "category": "财经,国外要闻"
     },
     {
       "raw_hot": 276094,
@@ -883,6 +947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 260324,
+      "num": 260324,
+      "word": "六级翻译",
+      "onboard_time": 1663408105,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 259164,
       "num": 259164,
       "word": "不要轻易翻开孩子的作业本",
@@ -899,6 +971,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 254969,
+      "num": 172320,
+      "word": "爱情而已全员手写网球说再见",
+      "onboard_time": 1663408166,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 252576,
       "num": 252576,
       "word": "被小朋友的豆豆本震惊到",
@@ -912,14 +992,6 @@
       "word": "四六级",
       "onboard_time": 1663339049,
       "rank": 23,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 249940,
-      "num": 92298,
-      "word": "六级答案",
-      "onboard_time": 1663407626,
-      "rank": 47,
       "category": "教育"
     },
     {
@@ -969,6 +1041,14 @@
       "onboard_time": 1663372224,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 223138,
+      "num": 223138,
+      "word": "肇庆再现卧佛含丹天象奇观",
+      "onboard_time": 1663406607,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219767,
@@ -1147,6 +1227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179988,
+      "num": 169009,
+      "word": "这就是打磨了四年的剧本吗",
+      "onboard_time": 1663410146,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 177961,
       "num": 177961,
       "word": "你喝过便宜又好喝的奶茶吗",
@@ -1171,12 +1259,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 175209,
-      "num": 175209,
-      "word": "Uzi参加LBL",
-      "onboard_time": 1663407267,
-      "rank": 32,
-      "category": "游戏"
+      "raw_hot": 172591,
+      "num": 172591,
+      "word": "饿了么免单",
+      "onboard_time": 1663407626,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 171081,
@@ -1201,6 +1289,14 @@
       "onboard_time": 1663343608,
       "rank": 45,
       "category": "科技"
+    },
+    {
+      "raw_hot": 168250,
+      "num": 168250,
+      "word": "德国正式接管俄石油公司在德业务",
+      "onboard_time": 1663409608,
+      "rank": 35,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 166038,
@@ -1299,6 +1395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145423,
+      "num": 145423,
+      "word": "Doinb",
+      "onboard_time": 1663409906,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 145096,
       "num": 145096,
       "word": "突然觉得这个蛋糕有点吵",
@@ -1313,14 +1417,6 @@
       "onboard_time": 1663388848,
       "rank": 36,
       "category": "教育"
-    },
-    {
-      "raw_hot": 143619,
-      "num": 143619,
-      "word": "肇庆再现卧佛含丹天象奇观",
-      "onboard_time": 1663406607,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141862,
@@ -1355,6 +1451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 135680,
+      "num": 135680,
+      "word": "大妈顺走外卖被失主次日偶遇认出",
+      "onboard_time": 1663409425,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135335,
       "num": 135335,
       "word": "谢娜十三角关系首演",
@@ -1387,6 +1491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134356,
+      "num": 134356,
+      "word": "六级翻译cctv",
+      "onboard_time": 1663409906,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 133652,
       "num": 119809,
       "word": "赵丽颖发文回应为角色增肥",
@@ -1409,6 +1521,14 @@
       "onboard_time": 1663360690,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127455,
+      "num": 127455,
+      "word": "六级听力",
+      "onboard_time": 1663409367,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 126749,
@@ -1499,6 +1619,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 110709,
+      "num": 110709,
+      "word": "郭艾伦",
+      "onboard_time": 1663408944,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110313,
       "num": 110313,
       "word": "逆向考研有必要吗",
@@ -1561,14 +1689,6 @@
       "onboard_time": 1663383867,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 101997,
-      "num": 91485,
-      "word": "饿了么免单",
-      "onboard_time": 1663407626,
-      "rank": 48,
-      "category": "科技"
     },
     {
       "raw_hot": 97493,
@@ -1736,6 +1856,9 @@
     },
     {
       "word": "#坐标中国#"
+    },
+    {
+      "word": "#神十四航天员再出舱#"
     }
   ]
 }

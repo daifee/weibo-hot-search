@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1663407630187,
+  "endTime": 1663410326090,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -972,7 +972,7 @@
     },
     {
       "raw_hot": 2595568,
-      "num": 655862,
+      "num": 1333990,
       "word": "深圳一男婴出生时4手4脚",
       "onboard_time": 1663403187,
       "rank": 17,
@@ -3051,6 +3051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1457055,
+      "num": 1457055,
+      "word": "六级答案",
+      "onboard_time": 1663407626,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1453215,
       "num": 1453215,
       "word": "当代年轻人离婚成本有多高",
@@ -3571,6 +3579,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1344580,
+      "num": 1344580,
+      "word": "张雪峰称考研头铁的人很多",
+      "onboard_time": 1663405947,
+      "rank": 28,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1343092,
       "num": 1343092,
       "word": "4岁男孩17楼坠落奇迹生还",
@@ -3649,6 +3665,14 @@
       "onboard_time": 1662445167,
       "rank": 5,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1328788,
+      "num": 1328788,
+      "word": "苍兰诀见面会",
+      "onboard_time": 1663406725,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 1328202,
@@ -4585,6 +4609,14 @@
       "onboard_time": 1662514528,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1144601,
+      "num": 745341,
+      "word": "王鹤棣说和本座一起共赴盛宴",
+      "onboard_time": 1663407747,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 1141964,
@@ -8291,6 +8323,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 745517,
+      "num": 745517,
+      "word": "美国房贷利率超6%",
+      "onboard_time": 1663406845,
+      "rank": 16,
+      "category": "财经,国外要闻"
+    },
+    {
       "raw_hot": 745024,
       "num": 745024,
       "word": "涉事公司回应一瓶饮料232种配料",
@@ -9193,14 +9233,6 @@
       "onboard_time": 1662546090,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 668468,
-      "num": 668468,
-      "word": "张雪峰称考研头铁的人很多",
-      "onboard_time": 1663405947,
-      "rank": 28,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 668448,
@@ -11587,6 +11619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 526578,
+      "num": 526578,
+      "word": "Uzi参加LBL",
+      "onboard_time": 1663407267,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 526409,
       "num": 526409,
       "word": "1分钟仰卧起坐自测腰力",
@@ -13795,6 +13835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 441926,
+      "num": 441926,
+      "word": "硕士毕业送外卖当事人回应争议",
+      "onboard_time": 1663408706,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 441764,
       "num": 441764,
       "word": "中级会计",
@@ -14353,6 +14401,14 @@
       "onboard_time": 1662953194,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 422560,
+      "num": 422560,
+      "word": "苍兰诀 爱奇艺",
+      "onboard_time": 1663409666,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 422318,
@@ -15920,6 +15976,14 @@
       "word": "Twins互相说下辈子约定你",
       "onboard_time": 1662103586,
       "rank": 47,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 380176,
+      "num": 251780,
+      "word": "马嘉祺黑色西装随拍",
+      "onboard_time": 1663409608,
+      "rank": 21,
       "category": "作品衍生"
     },
     {
@@ -17523,14 +17587,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 343791,
-      "num": 343791,
-      "word": "苍兰诀见面会",
-      "onboard_time": 1663406725,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 343698,
       "num": 343698,
       "word": "淄博市发现2例阳性感染者",
@@ -18345,6 +18401,14 @@
       "onboard_time": 1662000446,
       "rank": 30,
       "category": "科技"
+    },
+    {
+      "raw_hot": 328149,
+      "num": 328149,
+      "word": "六级作文",
+      "onboard_time": 1663408048,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 327927,
@@ -20587,6 +20651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 290699,
+      "num": 241743,
+      "word": "苍兰诀直播",
+      "onboard_time": 1663410025,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 290664,
       "num": 290664,
       "word": "汪涵保剑锋70后的共鸣",
@@ -21553,14 +21625,6 @@
       "onboard_time": 1663310667,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 277167,
-      "num": 277167,
-      "word": "美国房贷利率超6%",
-      "onboard_time": 1663406845,
-      "rank": 16,
-      "category": "财经,国外要闻"
     },
     {
       "raw_hot": 277157,
@@ -22779,6 +22843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 260324,
+      "num": 260324,
+      "word": "六级翻译",
+      "onboard_time": 1663408105,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 260092,
       "num": 260092,
       "word": "翟潇闻罗一舟直播截图",
@@ -23147,6 +23219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254969,
+      "num": 172320,
+      "word": "爱情而已全员手写网球说再见",
+      "onboard_time": 1663408166,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 254949,
       "num": 254949,
       "word": "14年前他被救14年后他救人",
@@ -23457,14 +23537,6 @@
       "onboard_time": 1663209086,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 249940,
-      "num": 92298,
-      "word": "六级答案",
-      "onboard_time": 1663407626,
-      "rank": 47,
-      "category": "教育"
     },
     {
       "raw_hot": 249319,
@@ -25225,6 +25297,14 @@
       "onboard_time": 1662277526,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 223138,
+      "num": 223138,
+      "word": "肇庆再现卧佛含丹天象奇观",
+      "onboard_time": 1663406607,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222945,
@@ -28219,6 +28299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179988,
+      "num": 169009,
+      "word": "这就是打磨了四年的剧本吗",
+      "onboard_time": 1663410146,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 179667,
       "num": 179667,
       "word": "后羿与三星堆有什么关系",
@@ -28409,14 +28497,6 @@
       "onboard_time": 1663237052,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 175209,
-      "num": 175209,
-      "word": "Uzi参加LBL",
-      "onboard_time": 1663407267,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 175164,
@@ -28897,6 +28977,14 @@
       "onboard_time": 1662292637,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 168250,
+      "num": 168250,
+      "word": "德国正式接管俄石油公司在德业务",
+      "onboard_time": 1663409608,
+      "rank": 35,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 168244,
@@ -30491,6 +30579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 145423,
+      "num": 145423,
+      "word": "Doinb",
+      "onboard_time": 1663409906,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 145244,
       "num": 145244,
       "word": "辽宁新增本土确诊2例本土无症状89例",
@@ -30576,14 +30672,6 @@
       "word": "歼20为志愿军烈士遗骸护航",
       "onboard_time": 1663161814,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 143619,
-      "num": 143619,
-      "word": "肇庆再现卧佛含丹天象奇观",
-      "onboard_time": 1663406607,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -31083,6 +31171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 135680,
+      "num": 135680,
+      "word": "大妈顺走外卖被失主次日偶遇认出",
+      "onboard_time": 1663409425,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135648,
       "num": 135648,
       "word": "金珉锡将9月26日solo出道",
@@ -31193,6 +31289,14 @@
       "onboard_time": 1662877950,
       "rank": 38,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 134356,
+      "num": 134356,
+      "word": "六级翻译cctv",
+      "onboard_time": 1663409906,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 134228,
@@ -31713,6 +31817,14 @@
       "onboard_time": 1662383370,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127455,
+      "num": 127455,
+      "word": "六级听力",
+      "onboard_time": 1663409367,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 126895,
@@ -32441,6 +32553,14 @@
       "onboard_time": 1662428307,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110709,
+      "num": 110709,
+      "word": "郭艾伦",
+      "onboard_time": 1663408944,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 110652,
@@ -34715,6 +34835,9 @@
     },
     {
       "word": "#第九批在韩志愿军烈士安葬仪式#"
+    },
+    {
+      "word": "#神十四航天员再出舱#"
     }
   ]
 }
