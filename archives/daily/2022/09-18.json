@@ -1,7 +1,15 @@
 {
   "startTime": 1663432368625,
-  "endTime": 1663454447332,
+  "endTime": 1663457036226,
   "band_list": [
+    {
+      "raw_hot": 2531250,
+      "num": 2531250,
+      "word": "今日中国再不是1931年的中国",
+      "onboard_time": 1663432226,
+      "rank": 26,
+      "category": "国内要闻"
+    },
     {
       "raw_hot": 1783236,
       "num": 1783236,
@@ -9,14 +17,6 @@
       "onboard_time": 1663426594,
       "rank": 0,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1614141,
-      "num": 1614141,
-      "word": "今日中国再不是1931年的中国",
-      "onboard_time": 1663432226,
-      "rank": 26,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 1213207,
@@ -75,6 +75,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 675277,
+      "num": 675277,
+      "word": "井胧井迪发文回应车祸现场",
+      "onboard_time": 1663451832,
+      "rank": 3,
+      "category": "影视,音乐"
+    },
+    {
       "raw_hot": 665593,
       "num": 665593,
       "word": "女子落网不忘喝光最后一口奶茶",
@@ -105,6 +113,14 @@
       "onboard_time": 1663429891,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 461943,
+      "num": 461943,
+      "word": "大量肥美海肠涌上烟台海滩",
+      "onboard_time": 1663430609,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 442020,
@@ -163,28 +179,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 323650,
-      "num": 323650,
-      "word": "大量肥美海肠涌上烟台海滩",
-      "onboard_time": 1663430609,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 301522,
       "num": 301522,
       "word": "哈萨克斯坦将首都重新命名为阿斯塔纳",
       "onboard_time": 1663430849,
       "rank": 17,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 296945,
-      "num": 296945,
-      "word": "井胧井迪发文回应车祸现场",
-      "onboard_time": 1663451832,
-      "rank": 3,
-      "category": "影视,音乐"
     },
     {
       "raw_hot": 291116,
@@ -212,11 +212,19 @@
     },
     {
       "raw_hot": 267551,
-      "num": 200722,
+      "num": 264402,
       "word": "黑话律师",
       "onboard_time": 1663425637,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 254908,
+      "num": 254908,
+      "word": "92岁老人突发中风教科书式自救",
+      "onboard_time": 1663447210,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 251453,
@@ -225,6 +233,14 @@
       "onboard_time": 1663427014,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 236172,
+      "num": 236172,
+      "word": "湖南地震",
+      "onboard_time": 1663456519,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235892,
@@ -291,6 +307,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 159001,
+      "num": 159001,
+      "word": "官方回应洒水车喷村民家溅路人水",
+      "onboard_time": 1663450032,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158875,
       "num": 158875,
       "word": "顾客过生日饭店墙体地面被涂满蛋糕",
@@ -307,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158326,
+      "num": 158326,
+      "word": "小伙租房失联留满屋垃圾熏吐房主",
+      "onboard_time": 1663444271,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157437,
       "num": 157437,
       "word": "你有多久没被拥抱过了",
@@ -315,12 +347,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 149038,
-      "num": 149038,
-      "word": "92岁老人突发中风教科书式自救",
-      "onboard_time": 1663447210,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 148273,
+      "num": 148273,
+      "word": "妻子刷新闻看到老公救人",
+      "onboard_time": 1663432467,
+      "rank": 47,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 143165,
@@ -347,20 +379,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 125647,
-      "num": 125647,
-      "word": "妻子刷新闻看到老公救人",
-      "onboard_time": 1663432467,
-      "rank": 47,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 123377,
       "num": 123377,
       "word": "这届大学生有多会答题",
       "onboard_time": 1663428574,
       "rank": 37,
       "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 121845,
+      "num": 121845,
+      "word": "王鹤棣看张彬彬叫虞书欣的表情",
+      "onboard_time": 1663441512,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 118479,
@@ -371,19 +403,19 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 118410,
+      "num": 118410,
+      "word": "九一八91周年",
+      "onboard_time": 1663456456,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114011,
       "num": 114011,
       "word": "男子买大盒鱿鱼片拆后仅有一小片",
       "onboard_time": 1663414707,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 112805,
-      "num": 112805,
-      "word": "官方回应洒水车喷村民家溅路人水",
-      "onboard_time": 1663450032,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -427,14 +459,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 100065,
-      "num": 66463,
-      "word": "王鹤棣看张彬彬叫虞书欣的表情",
-      "onboard_time": 1663441512,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 88650,
       "num": 88650,
       "word": "为什么有人热衷于美黑",
@@ -451,6 +475,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 80871,
+      "num": 80871,
+      "word": "哪种睡姿最健康",
+      "onboard_time": 1663447753,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71810,
       "num": 71810,
       "word": "定期做产检到底有没有必要",
@@ -459,11 +491,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 69071,
-      "num": 69071,
-      "word": "小伙租房失联留满屋垃圾熏吐房主",
-      "onboard_time": 1663444271,
-      "rank": 15,
+      "raw_hot": 71541,
+      "num": 71541,
+      "word": "关注超强台风南玛都",
+      "onboard_time": 1663444990,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -507,28 +539,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 60635,
-      "num": 60635,
+      "raw_hot": 60692,
+      "num": 60692,
       "word": "猴痘潜伏期最长23天",
       "onboard_time": 1663441152,
       "rank": 27,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 49949,
-      "num": 49949,
-      "word": "哪种睡姿最健康",
-      "onboard_time": 1663447753,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 51096,
+      "num": 51096,
+      "word": "盛唐时期的霓裳羽衣舞有多美",
+      "onboard_time": 1663450872,
+      "rank": 35,
+      "category": "综艺"
     },
     {
-      "raw_hot": 44338,
-      "num": 44338,
-      "word": "关注超强台风南玛都",
-      "onboard_time": 1663444990,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 41236,
+      "num": 41236,
+      "word": "考研报名系统开通",
+      "onboard_time": 1663455316,
+      "rank": 48,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 39601,
+      "num": 39601,
+      "word": "热刺6比2莱斯特城",
+      "onboard_time": 1663456939,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 38571,
@@ -537,14 +577,6 @@
       "onboard_time": 1663384585,
       "rank": 2,
       "category": "军事"
-    },
-    {
-      "raw_hot": 25839,
-      "num": 25839,
-      "word": "盛唐时期的霓裳羽衣舞有多美",
-      "onboard_time": 1663450872,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 19731,
