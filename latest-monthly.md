@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/17 23:42:43
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/18 00:32:48
 </p>
 </blockquote>
 <p>
@@ -3267,6 +3267,12 @@ Twins不承认吴谨言的粤语是自己教的（热度：1255504）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E7%BE%8E%E5%A5%BD%E6%AD%BB%E4%BA%86%23" target="weibo">
+高美好死了（热度：1213207）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E6%99%93%E5%A9%B7%E6%99%92%E5%92%8C%E6%9E%97%E5%AD%90%E8%81%AA%E5%90%88%E7%85%A7%23" target="weibo">
 郭晓婷晒和林子聪合照（热度：1211519）
 </a>
@@ -5625,6 +5631,12 @@ iPhone14系列没涨价（热度：892829）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%96%8A%E8%87%AA%E5%B7%B1%E4%B8%80%E5%8D%9A%23" target="weibo">
+王一博喊自己一博（热度：843528）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%23" target="weibo">
 上海地铁（热度：843224）
 </a>
@@ -5657,12 +5669,6 @@ iPhone14系列没涨价（热度：892829）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AF%84%E5%85%BB%E5%A7%91%E5%A7%91%E5%AE%B6%E5%A5%B3%E5%AD%A9%E7%BB%99%E8%A1%A8%E5%BC%9F%E4%B9%B0%E4%BA%86%E4%B8%80%E5%A5%97%E6%88%BF%23" target="weibo">
 寄养姑姑家女孩给表弟买了一套房（热度：837849）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%96%8A%E8%87%AA%E5%B7%B1%E4%B8%80%E5%8D%9A%23" target="weibo">
-王一博喊自己一博（热度：836238）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Ale（热度：793817）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E5%9B%9B%E5%A4%A9%E8%BF%9E%E5%BC%80%E4%B8%89%E5%9C%BA%E6%B5%B7%E5%A4%96%E7%AD%BE%E5%94%AE%23" target="weibo">
 王嘉尔四天连开三场海外签售（热度：792370）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E4%BD%93%E6%A3%80%E5%9B%9E%E5%AE%B6%E5%90%8E%E8%A2%AB3%E5%B2%81%E9%87%8D%E5%AD%99%E4%B8%89%E8%BF%9E%E9%97%AE%23" target="weibo">
-老人体检回家后被3岁重孙三连问（热度：792102）
 </a>
 </li>
 
