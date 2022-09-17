@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/18 01:26:51
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/18 01:43:09
 </p>
 </blockquote>
 <p>
@@ -1935,6 +1935,12 @@ iPhone14 Plus（热度：1672968）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%97%A5%E4%B8%AD%E5%9B%BD%E5%86%8D%E4%B8%8D%E6%98%AF1931%E5%B9%B4%E7%9A%84%E4%B8%AD%E5%9B%BD%23" target="weibo">
+今日中国再不是1931年的中国（热度：1614141）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E9%A2%96%E5%90%8E%E6%8F%B4%E4%BC%9A%E9%80%81%E6%95%91%E5%91%BD%E6%81%A9%E4%BA%BA%E7%A4%BC%E7%89%A9%23" target="weibo">
 林志颖后援会送救命恩人礼物（热度：1613934）
 </a>
@@ -2159,12 +2165,6 @@ iPhone14颜色（热度：1547377）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E8%B4%9D%E7%94%9C%23" target="weibo">
 巴黎贝甜（热度：1539853）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%97%A5%E4%B8%AD%E5%9B%BD%E5%86%8D%E4%B8%8D%E6%98%AF1931%E5%B9%B4%E7%9A%84%E4%B8%AD%E5%9B%BD%23" target="weibo">
-今日中国再不是1931年的中国（热度：1538917）
 </a>
 </li>
 
