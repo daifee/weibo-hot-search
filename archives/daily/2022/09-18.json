@@ -1,6 +1,6 @@
 {
   "startTime": 1663432368625,
-  "endTime": 1663439340003,
+  "endTime": 1663440392200,
   "band_list": [
     {
       "raw_hot": 1783236,
@@ -403,20 +403,20 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 88650,
+      "num": 88650,
+      "word": "为什么有人热衷于美黑",
+      "onboard_time": 1663434741,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 84373,
       "num": 84373,
       "word": "德国正式接管俄石油公司在德业务",
       "onboard_time": 1663409608,
       "rank": 45,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 84025,
-      "num": 84025,
-      "word": "为什么有人热衷于美黑",
-      "onboard_time": 1663434741,
-      "rank": 46,
-      "category": "美妆"
     },
     {
       "raw_hot": 71810,

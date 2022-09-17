@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/12 00:31:49 ~ 2022/09/18 02:29:00
+本榜单时间：2022/09/12 00:31:49 ~ 2022/09/18 02:46:32
 </p>
 </blockquote>
 <p>
@@ -8811,6 +8811,12 @@ Faithbian称TI11后将退役（热度：97493）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%BA%E7%83%AD%E8%A1%B7%E4%BA%8E%E7%BE%8E%E9%BB%91%23" target="weibo">
+为什么有人热衷于美黑（热度：88650）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%99%A8%E4%B8%8B%E7%BA%BF%23" target="weibo">
 肖晨下线（热度：88450）
 </a>
@@ -8855,12 +8861,6 @@ Faithbian称TI11后将退役（热度：97493）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%A0%B7%E8%AF%B4%E8%AF%9D%E5%A5%BD%E5%83%8F%E8%83%BD%E8%AE%B0%E5%BE%88%E5%A4%9A%E5%8D%95%E8%AF%8D%23" target="weibo">
 这样说话好像能记很多单词（热度：84138）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%BA%E7%83%AD%E8%A1%B7%E4%BA%8E%E7%BE%8E%E9%BB%91%23" target="weibo">
-为什么有人热衷于美黑（热度：84025）
 </a>
 </li>
 
