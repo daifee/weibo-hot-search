@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/17 15:22:21
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/17 15:38:10
 </p>
 </blockquote>
 <p>
@@ -2133,6 +2133,12 @@ iPhone14颜色（热度：1547377）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2%E5%A3%B0%E6%98%8E%E6%92%A4%E4%B8%8BSexytea%E6%A0%87%E8%AF%86%23" target="weibo">
+茶颜悦色声明撤下Sexytea标识（热度：1527777）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D1%E5%B0%8F%E6%97%B6%E5%86%85%E8%BF%9E%E5%8F%917%E6%AC%A1%E5%9C%B0%E9%9C%87%23" target="weibo">
 四川1小时内连发7次地震（热度：1522421）
 </a>
@@ -3761,12 +3767,6 @@ Light身体不适（热度：1095817）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23QQ%E6%8E%A8%E5%87%BAQQ%E5%AD%A6%E7%94%9F%E5%8D%A1%23" target="weibo">
 QQ推出QQ学生卡（热度：1084298）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2%E5%A3%B0%E6%98%8E%E6%92%A4%E4%B8%8BSexytea%E6%A0%87%E8%AF%86%23" target="weibo">
-茶颜悦色声明撤下Sexytea标识（热度：1083124）
 </a>
 </li>
 

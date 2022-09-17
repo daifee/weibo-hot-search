@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663399341013,
+  "endTime": 1663400290596,
   "band_list": [
     {
       "raw_hot": 20529209,
@@ -851,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1527777,
+      "num": 1527777,
+      "word": "茶颜悦色声明撤下Sexytea标识",
+      "onboard_time": 1663396285,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1518132,
       "num": 1518132,
       "word": "B站诉争哔哩哔哩商标被驳回",
@@ -1625,14 +1633,6 @@
       "onboard_time": 1663207707,
       "rank": 12,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1083124,
-      "num": 1083124,
-      "word": "茶颜悦色声明撤下Sexytea标识",
-      "onboard_time": 1663396285,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1082564,
@@ -2988,7 +2988,7 @@
     },
     {
       "raw_hot": 653776,
-      "num": 389131,
+      "num": 391537,
       "word": "JackeyLove新发色",
       "onboard_time": 1663393768,
       "rank": 39,
@@ -3177,6 +3177,14 @@
       "onboard_time": 1663072112,
       "rank": 47,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 613986,
+      "num": 613986,
+      "word": "你好星期六今晚修罗场",
+      "onboard_time": 1663399046,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 612255,
@@ -3467,12 +3475,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 557037,
-      "num": 557037,
-      "word": "你好星期六今晚修罗场",
-      "onboard_time": 1663399046,
-      "rank": 5,
-      "category": "综艺"
+      "raw_hot": 555670,
+      "num": 555670,
+      "word": "印度多地暴发牛块状皮肤病",
+      "onboard_time": 1663397245,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 555146,
@@ -3995,6 +4003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 487649,
+      "num": 487649,
+      "word": "考研和读研哪个更累",
+      "onboard_time": 1663397426,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 486846,
       "num": 486846,
       "word": "开美甲店的阿姨接待儿子朋友",
@@ -4473,6 +4489,14 @@
       "onboard_time": 1663150648,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 438043,
+      "num": 392364,
+      "word": "韩剧最令人意难平的男2",
+      "onboard_time": 1663396410,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 437115,
@@ -5211,14 +5235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 372727,
-      "num": 372727,
-      "word": "印度多地暴发牛块状皮肤病",
-      "onboard_time": 1663397245,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 372390,
       "num": 372390,
       "word": "年轻人的周末有多好玩",
@@ -5659,20 +5675,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 337667,
+      "num": 337667,
+      "word": "没想到上个厕所也能社死",
+      "onboard_time": 1663395565,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 336310,
       "num": 336310,
       "word": "杭州台风",
       "onboard_time": 1663138768,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 335964,
-      "num": 335964,
-      "word": "韩剧最令人意难平的男2",
-      "onboard_time": 1663396410,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 335757,
@@ -6883,14 +6899,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 276890,
-      "num": 276890,
-      "word": "没想到上个厕所也能社死",
-      "onboard_time": 1663395565,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 276094,
       "num": 276094,
       "word": "国产大飞机C919即将取证交付",
@@ -6929,14 +6937,6 @@
       "onboard_time": 1663150527,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 274799,
-      "num": 274799,
-      "word": "考研和读研哪个更累",
-      "onboard_time": 1663397426,
-      "rank": 22,
-      "category": "教育"
     },
     {
       "raw_hot": 273872,
@@ -7041,6 +7041,14 @@
       "onboard_time": 1662962433,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269303,
+      "num": 269303,
+      "word": "赞多李斯丹妮街头合跳美了没",
+      "onboard_time": 1663400065,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 269037,
@@ -8371,6 +8379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206121,
+      "num": 206121,
+      "word": "用手分拣小龙虾快到像开了3倍速",
+      "onboard_time": 1663396645,
+      "rank": 39,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 205928,
       "num": 205928,
       "word": "何洛洛军训",
@@ -8651,6 +8667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 194501,
+      "num": 194501,
+      "word": "山东大姐把煎饼卷成花花世界",
+      "onboard_time": 1663395985,
+      "rank": 46,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 194316,
       "num": 194316,
       "word": "老人去世金毛趴灵前守5天5夜",
@@ -8745,14 +8769,6 @@
       "onboard_time": 1662984276,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 190642,
-      "num": 190642,
-      "word": "用手分拣小龙虾快到像开了3倍速",
-      "onboard_time": 1663396645,
-      "rank": 39,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 190412,
@@ -8953,14 +8969,6 @@
       "onboard_time": 1663397484,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 182608,
-      "num": 182608,
-      "word": "山东大姐把煎饼卷成花花世界",
-      "onboard_time": 1663395985,
-      "rank": 46,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 181961,
@@ -9657,6 +9665,14 @@
       "onboard_time": 1663372945,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145076,
+      "num": 145076,
+      "word": "600年前的明朝贵妇奢侈品",
+      "onboard_time": 1663398445,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145011,
@@ -10411,6 +10427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109851,
+      "num": 109851,
+      "word": "吴尊友谈如何预防猴痘感染",
+      "onboard_time": 1663399467,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108658,
       "num": 108658,
       "word": "严禁以分班为名强制学生购买平板",
@@ -10555,14 +10579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 98323,
-      "num": 98323,
-      "word": "600年前的明朝贵妇奢侈品",
-      "onboard_time": 1663398445,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 98249,
       "num": 98249,
       "word": "英雄联盟",
@@ -10603,6 +10619,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 96726,
+      "num": 96726,
+      "word": "大学生为高校答题上分",
+      "onboard_time": 1663399106,
+      "rank": 47,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 96640,
+      "num": 96640,
+      "word": "科学家开发出无痛纹身",
+      "onboard_time": 1663399825,
+      "rank": 48,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 96522,
       "num": 96522,
       "word": "生化危机4重制版登陆PS4",
@@ -10633,14 +10665,6 @@
       "onboard_time": 1663249899,
       "rank": 49,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 93799,
-      "num": 93799,
-      "word": "大学生为高校答题上分",
-      "onboard_time": 1663399106,
-      "rank": 47,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 92255,
@@ -11171,6 +11195,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 30684,
+      "num": 391788,
+      "word": "微博网友给志愿军烈士的留言",
+      "onboard_time": 1663398687,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25872,
       "num": 601068,
       "word": "阿那亚大秀他们都来了",
@@ -11199,14 +11231,6 @@
       "num": 527464,
       "word": "短片凡心微光",
       "onboard_time": 1663135229,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18490,
-      "num": 351035,
-      "word": "微博网友给志愿军烈士的留言",
-      "onboard_time": 1663398687,
       "rank": 14,
       "category": "社会新闻"
     },
