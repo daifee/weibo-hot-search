@@ -1,6 +1,6 @@
 {
   "startTime": 1663432368625,
-  "endTime": 1663432368625,
+  "endTime": 1663433768139,
   "band_list": [
     {
       "raw_hot": 1783236,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 856719,
-      "num": 366191,
+      "num": 715236,
       "word": "井胧井迪苍兰诀车祸现场",
       "onboard_time": 1663424254,
       "rank": 10,
@@ -59,6 +59,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 696431,
+      "num": 365901,
+      "word": "唐山铁矿透水事故致14人遇难",
+      "onboard_time": 1663430251,
+      "rank": 11,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 665593,
       "num": 665593,
       "word": "女子落网不忘喝光最后一口奶茶",
@@ -67,12 +75,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 508530,
-      "num": 365901,
-      "word": "唐山铁矿透水事故致14人遇难",
-      "onboard_time": 1663430251,
-      "rank": 11,
-      "category": "社会负面"
+      "raw_hot": 540711,
+      "num": 311530,
+      "word": "SG原本是BLACKPINK合作曲",
+      "onboard_time": 1663432405,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 493436,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 464577,
-      "num": 181926,
+      "num": 198021,
       "word": "芒果台的剪辑好会",
       "onboard_time": 1663429891,
       "rank": 20,
@@ -105,6 +113,22 @@
       "onboard_time": 1663425515,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 383178,
+      "num": 200024,
+      "word": "IU演唱会嘉宾是ITZY",
+      "onboard_time": 1663432765,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 382862,
+      "num": 382862,
+      "word": "今日中国再不是1931年的中国",
+      "onboard_time": 1663432226,
+      "rank": 26,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 369750,
@@ -139,6 +163,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 307282,
+      "num": 307282,
+      "word": "大量肥美海肠涌上烟台海滩",
+      "onboard_time": 1663430609,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301522,
+      "num": 301522,
+      "word": "哈萨克斯坦将首都重新命名为阿斯塔纳",
+      "onboard_time": 1663430849,
+      "rank": 17,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 291116,
       "num": 291116,
       "word": "狗狗有点礼貌但不多",
@@ -147,20 +187,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 275075,
+      "num": 275075,
+      "word": "台风过境女子家窗外刮来百元大钞",
+      "onboard_time": 1663429709,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271639,
       "num": 158190,
       "word": "这就是顶级破碎感吧",
       "onboard_time": 1663410926,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 260988,
-      "num": 260988,
-      "word": "台风过境女子家窗外刮来百元大钞",
-      "onboard_time": 1663429709,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 251453,
@@ -179,12 +219,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229957,
+      "num": 111372,
+      "word": "黑话律师",
+      "onboard_time": 1663425637,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 228199,
+      "num": 104323,
+      "word": "这就是街舞",
+      "onboard_time": 1663433124,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224582,
       "num": 224582,
       "word": "女生走5分钟到距家600米大学报到",
       "onboard_time": 1663413204,
       "rank": 16,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 222593,
+      "num": 222593,
+      "word": "重新冰冻地球两极可行且便宜",
+      "onboard_time": 1663429051,
+      "rank": 19,
+      "category": "其它"
     },
     {
       "raw_hot": 212926,
@@ -195,22 +259,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 204413,
-      "num": 111372,
-      "word": "黑话律师",
-      "onboard_time": 1663425637,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 199042,
-      "num": 199042,
-      "word": "哈萨克斯坦将首都重新命名为阿斯塔纳",
-      "onboard_time": 1663430849,
-      "rank": 17,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 190407,
       "num": 190407,
       "word": "有哪些30岁后才明白的人生真相",
@@ -219,36 +267,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 185310,
-      "num": 185310,
-      "word": "重新冰冻地球两极可行且便宜",
-      "onboard_time": 1663429051,
-      "rank": 19,
-      "category": "其它"
-    },
-    {
-      "raw_hot": 175063,
-      "num": 175063,
-      "word": "大量肥美海肠涌上烟台海滩",
-      "onboard_time": 1663430609,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 173576,
       "num": 173576,
       "word": "罗伊斯",
       "onboard_time": 1663424976,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 170642,
-      "num": 170642,
-      "word": "今日中国再不是1931年的中国",
-      "onboard_time": 1663432226,
-      "rank": 26,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 163524,
@@ -393,6 +417,22 @@
       "onboard_time": 1663418848,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 64623,
+      "num": 64623,
+      "word": "Doinb",
+      "onboard_time": 1663409906,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 56627,
+      "num": 56627,
+      "word": "妻子刷新闻看到老公救人",
+      "onboard_time": 1663432467,
+      "rank": 47,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 38571,
