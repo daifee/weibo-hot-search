@@ -1,6 +1,6 @@
 {
   "startTime": 1663432368625,
-  "endTime": 1663433768139,
+  "endTime": 1663435611549,
   "band_list": [
     {
       "raw_hot": 1783236,
@@ -9,6 +9,14 @@
       "onboard_time": 1663426594,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1538917,
+      "num": 1538917,
+      "word": "今日中国再不是1931年的中国",
+      "onboard_time": 1663432226,
+      "rank": 26,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1213207,
@@ -116,19 +124,11 @@
     },
     {
       "raw_hot": 383178,
-      "num": 200024,
+      "num": 303574,
       "word": "IU演唱会嘉宾是ITZY",
       "onboard_time": 1663432765,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 382862,
-      "num": 382862,
-      "word": "今日中国再不是1931年的中国",
-      "onboard_time": 1663432226,
-      "rank": 26,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 369750,
@@ -163,8 +163,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 307282,
-      "num": 307282,
+      "raw_hot": 323650,
+      "num": 323650,
       "word": "大量肥美海肠涌上烟台海滩",
       "onboard_time": 1663430609,
       "rank": 23,
@@ -203,6 +203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 267551,
+      "num": 128510,
+      "word": "黑话律师",
+      "onboard_time": 1663425637,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 251453,
       "num": 157932,
       "word": "长相思",
@@ -217,14 +225,6 @@
       "onboard_time": 1663416270,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 229957,
-      "num": 111372,
-      "word": "黑话律师",
-      "onboard_time": 1663425637,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 228199,
@@ -371,11 +371,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104673,
+      "num": 83342,
+      "word": "这就是打磨了四年的剧本吗",
+      "onboard_time": 1663410146,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 104519,
       "num": 104519,
       "word": "男童滑板失控瞬间少年一把拉住",
       "onboard_time": 1663416027,
       "rank": 44,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 100653,
+      "num": 100653,
+      "word": "Doinb",
+      "onboard_time": 1663409906,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 100315,
+      "num": 100315,
+      "word": "妻子刷新闻看到老公救人",
+      "onboard_time": 1663432467,
+      "rank": 47,
       "category": "社会正能量"
     },
     {
@@ -419,20 +443,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 64623,
-      "num": 64623,
-      "word": "Doinb",
-      "onboard_time": 1663409906,
-      "rank": 44,
-      "category": "游戏"
+      "raw_hot": 64761,
+      "num": 64761,
+      "word": "苍兰诀直播",
+      "onboard_time": 1663410025,
+      "rank": 41,
+      "category": "影视"
     },
     {
-      "raw_hot": 56627,
-      "num": 56627,
-      "word": "妻子刷新闻看到老公救人",
-      "onboard_time": 1663432467,
-      "rank": 47,
-      "category": "社会正能量"
+      "raw_hot": 47046,
+      "num": 47046,
+      "word": "为什么有人热衷于美黑",
+      "onboard_time": 1663434741,
+      "rank": 46,
+      "category": "美妆"
     },
     {
       "raw_hot": 38571,
