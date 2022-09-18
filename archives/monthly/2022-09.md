@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/18 16:28:21
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/18 16:45:15
 </p>
 </blockquote>
 <p>
@@ -1023,6 +1023,12 @@ JDG夺冠（热度：2394767）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%BA%BA%E6%94%B6%E8%B4%AD%E5%AD%95%E5%A6%87%E5%B0%BF%E6%B6%B2%E6%AF%8F%E5%85%AC%E6%96%A412%E5%85%83%23" target="weibo">
+有人收购孕妇尿液每公斤12元（热度：2258991）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E9%9F%A9%E5%89%A7%E9%AC%BC%E6%80%AA%E5%B0%86%E7%BF%BB%E6%8B%8D%E4%B8%AD%E5%9B%BD%E7%89%88%23" target="weibo">
 网传韩剧鬼怪将翻拍中国版（热度：2236954）
 </a>
@@ -1085,12 +1091,6 @@ JDG夺冠（热度：2394767）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%9C%E7%A6%BB%E5%AB%96%E5%A8%BC%E5%88%AB%E5%BF%83%E5%8A%A8%E6%9B%B4%E5%88%AB%E8%A1%8C%E5%8A%A8%23" target="weibo">
 远离嫖娼别心动更别行动（热度：2186770）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%BA%BA%E6%94%B6%E8%B4%AD%E5%AD%95%E5%A6%87%E5%B0%BF%E6%B6%B2%E6%AF%8F%E5%85%AC%E6%96%A412%E5%85%83%23" target="weibo">
-有人收购孕妇尿液每公斤12元（热度：2183899）
 </a>
 </li>
 
@@ -1467,6 +1467,12 @@ Doinb升级当爸爸（热度：2008327）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E7%BB%992%E5%B2%81%E5%A5%B3%E5%84%BF%E8%84%B1%E8%A1%A3%E6%B4%97%E6%BC%B1%E8%A2%AB%E9%AA%82%E6%B5%81%E6%B0%93%23" target="weibo">
+爸爸给2岁女儿脱衣洗漱被骂流氓（热度：1892092）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E7%A7%B0%E5%AE%9D%E9%A9%AC%E5%A5%B3%E5%8F%B8%E6%9C%BA%E6%88%96%E6%B6%89%E6%95%85%E6%84%8F%E6%9D%80%E4%BA%BA%E7%BD%AA%23" target="weibo">
 律师称宝马女司机或涉故意杀人罪（热度：1890323）
 </a>
@@ -1721,12 +1727,6 @@ Angelababy晒与狗狗合照（热度：1779691）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%AF%89%E6%8B%89%E5%A4%8F%E8%B4%9D%E5%B0%94%E6%97%97%E4%B8%8B%E5%85%AC%E5%8F%B8%E8%8E%B7%E8%B5%9425%E4%B8%87%23" target="weibo">
 杨紫诉拉夏贝尔旗下公司获赔25万（热度：1765131）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E7%BB%992%E5%B2%81%E5%A5%B3%E5%84%BF%E8%84%B1%E8%A1%A3%E6%B4%97%E6%BC%B1%E8%A2%AB%E9%AA%82%E6%B5%81%E6%B0%93%23" target="weibo">
-爸爸给2岁女儿脱衣洗漱被骂流氓（热度：1758755）
 </a>
 </li>
 
