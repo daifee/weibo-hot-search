@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1663533673314,
+  "endTime": 1663536041264,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -36731,6 +36731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 13156,
+      "num": 13156,
+      "word": "大兴安岭迎来入秋后第一场雪",
+      "onboard_time": 1663533611,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13153,
       "num": 13153,
       "word": "中秋节的花式快乐",
@@ -36843,6 +36851,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 7544,
+      "num": 9078,
+      "word": "英超史上最年轻出场球员",
+      "onboard_time": 1663535351,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 7488,
       "num": 7488,
       "word": "乌方称泽连斯基伤势不严重",
@@ -36897,14 +36913,6 @@
       "onboard_time": 1662323950,
       "rank": 49,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 7008,
-      "num": 7008,
-      "word": "大兴安岭迎来入秋后第一场雪",
-      "onboard_time": 1663533611,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 6857,
@@ -37001,6 +37009,14 @@
       "onboard_time": 1663276871,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6074,
+      "num": 8907,
+      "word": "这球怎么说",
+      "onboard_time": 1663535711,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 5926,
