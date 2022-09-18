@@ -1,6 +1,6 @@
 {
   "startTime": 1663432368625,
-  "endTime": 1663508311423,
+  "endTime": 1663509060498,
   "band_list": [
     {
       "raw_hot": 5286401,
@@ -11,8 +11,8 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 4606614,
-      "num": 4713229,
+      "raw_hot": 4944097,
+      "num": 5388195,
       "word": "贵州高速事故车辆为隔离转运车",
       "onboard_time": 1663501172,
       "rank": 0,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1997536,
-      "num": 295401,
+      "num": 318109,
       "word": "王欣凌",
       "onboard_time": 1663499429,
       "rank": 22,
@@ -235,8 +235,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1312084,
+      "num": 186502,
+      "word": "微信支付",
+      "onboard_time": 1663503570,
+      "rank": 31,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1222594,
-      "num": 179715,
+      "num": 184339,
       "word": "微信小程序崩了",
       "onboard_time": 1663502729,
       "rank": 30,
@@ -249,14 +257,6 @@
       "onboard_time": 1663427135,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1195850,
-      "num": 180556,
-      "word": "微信支付",
-      "onboard_time": 1663503570,
-      "rank": 31,
-      "category": "科技"
     },
     {
       "raw_hot": 1192960,
@@ -315,19 +315,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 992662,
+      "num": 992662,
+      "word": "731部队用跳蚤感染鼠疫后咬人",
+      "onboard_time": 1663501832,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 983396,
       "num": 983396,
       "word": "210斤小伙减重80斤后颜值大变",
       "onboard_time": 1663474948,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 925604,
-      "num": 925604,
-      "word": "731部队用跳蚤感染鼠疫后咬人",
-      "onboard_time": 1663501832,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -411,6 +411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 779106,
+      "num": 779106,
+      "word": "罚罪",
+      "onboard_time": 1663502850,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 775551,
       "num": 542618,
       "word": "田馥甄高雄演唱会取消",
@@ -459,14 +467,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 695402,
-      "num": 695402,
-      "word": "罚罪",
-      "onboard_time": 1663502850,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 682746,
       "num": 682746,
       "word": "台湾1小时内发生3次地震",
@@ -513,6 +513,14 @@
       "onboard_time": 1663472128,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 630645,
+      "num": 630645,
+      "word": "减肥对颜值的影响有多重要",
+      "onboard_time": 1663504049,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 614533,
@@ -579,6 +587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 528542,
+      "num": 528542,
+      "word": "TVB刑侦悬疑剧OST大赏",
+      "onboard_time": 1663508131,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 526661,
       "num": 526661,
       "word": "关晓彤往前走一步看王鹤棣虞书欣",
@@ -587,12 +603,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 523227,
-      "num": 523227,
-      "word": "减肥对颜值的影响有多重要",
-      "onboard_time": 1663504049,
-      "rank": 29,
-      "category": "情感"
+      "raw_hot": 510825,
+      "num": 510825,
+      "word": "成毅周亦安明天见",
+      "onboard_time": 1663508312,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 495174,
@@ -627,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 481866,
+      "num": 481866,
+      "word": "著名导演伍迪艾伦宣布退休",
+      "onboard_time": 1663505733,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 475579,
       "num": 475579,
       "word": "湖南地震",
@@ -651,20 +675,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 455051,
-      "num": 455051,
-      "word": "著名导演伍迪艾伦宣布退休",
-      "onboard_time": 1663505733,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 448631,
       "num": 448631,
       "word": "郭艾伦官宣续约辽宁男篮",
       "onboard_time": 1663486895,
       "rank": 14,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 446709,
+      "num": 446709,
+      "word": "男子自酿葡萄酒3天开盖喷3米高",
+      "onboard_time": 1663505613,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 442224,
@@ -696,14 +720,6 @@
       "word": "日军故意炸毁铁路栽赃中国军队",
       "onboard_time": 1663466246,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 412669,
-      "num": 412669,
-      "word": "男子自酿葡萄酒3天开盖喷3米高",
-      "onboard_time": 1663505613,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -867,20 +883,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 341579,
+      "num": 341579,
+      "word": "专家称美元资产越来越不值钱",
+      "onboard_time": 1663505492,
+      "rank": 38,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 339104,
       "num": 339104,
       "word": "朴彩英Hard To love",
       "onboard_time": 1663460304,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 334772,
-      "num": 294918,
-      "word": "TVB刑侦悬疑剧OST大赏",
-      "onboard_time": 1663508131,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 330742,
@@ -921,6 +937,14 @@
       "onboard_time": 1663498531,
       "rank": 30,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 302851,
+      "num": 302851,
+      "word": "运动超过半小时才是有效减肥",
+      "onboard_time": 1663507171,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 302361,
@@ -971,14 +995,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 291015,
-      "num": 291015,
-      "word": "专家称美元资产越来越不值钱",
-      "onboard_time": 1663505492,
-      "rank": 38,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 283448,
       "num": 283448,
       "word": "医生叫停宋亚东比赛",
@@ -1017,6 +1033,14 @@
       "onboard_time": 1663474888,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270284,
+      "num": 176386,
+      "word": "你安全吗丁阿姨信息泄漏被骗20万",
+      "onboard_time": 1663508911,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 266034,
@@ -1075,6 +1099,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249993,
+      "num": 249993,
+      "word": "冷空气下周发货",
+      "onboard_time": 1663507832,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248599,
+      "num": 248599,
+      "word": "以为军训队伍混进了一小孩",
+      "onboard_time": 1663505251,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 245948,
       "num": 245948,
       "word": "侵华日军100部队细菌战新罪证",
@@ -1120,6 +1160,14 @@
       "word": "超强台风南玛都即将横扫日本全境",
       "onboard_time": 1663479209,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233783,
+      "num": 233783,
+      "word": "上海国庆假期倡导本地过节",
+      "onboard_time": 1663508611,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -1219,14 +1267,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 211706,
-      "num": 211706,
-      "word": "以为军训队伍混进了一小孩",
-      "onboard_time": 1663505251,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 211405,
       "num": 178243,
       "word": "你安全吗",
@@ -1288,14 +1328,6 @@
       "word": "9月18日9时18分9条路18条街",
       "onboard_time": 1663467034,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 195777,
-      "num": 195777,
-      "word": "运动超过半小时才是有效减肥",
-      "onboard_time": 1663507171,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -1571,12 +1603,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 137063,
-      "num": 137063,
-      "word": "冷空气下周发货",
-      "onboard_time": 1663507832,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 138111,
+      "num": 138111,
+      "word": "极限挑战",
+      "onboard_time": 1663508252,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 136724,
@@ -1739,20 +1771,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 103126,
+      "num": 103126,
+      "word": "解说杯",
+      "onboard_time": 1663506332,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 101860,
       "num": 101860,
       "word": "4学生听见918防空警报驻足默哀",
       "onboard_time": 1663490550,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 101753,
-      "num": 101753,
-      "word": "解说杯",
-      "onboard_time": 1663506332,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 96657,
@@ -1801,14 +1833,6 @@
       "onboard_time": 1663434741,
       "rank": 46,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 87741,
-      "num": 87741,
-      "word": "极限挑战",
-      "onboard_time": 1663508252,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 87712,

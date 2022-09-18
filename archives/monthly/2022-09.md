@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/18 21:38:31
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/18 21:51:00
 </p>
 </blockquote>
 <p>
@@ -171,6 +171,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E%E9%AB%98%E9%80%9F%E4%BA%8B%E6%95%85%E8%BD%A6%E8%BE%86%E4%B8%BA%E9%9A%94%E7%A6%BB%E8%BD%AC%E8%BF%90%E8%BD%A6%23" target="weibo">
+贵州高速事故车辆为隔离转运车（热度：4944097）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%E8%AF%B4%E6%BC%8F%E5%98%B4%23" target="weibo">
 当经纪公司说漏嘴（热度：4705773）
 </a>
@@ -185,12 +191,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%9C%B0%E9%9C%87%23" target="weibo">
 四川地震（热度：4644891）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E%E9%AB%98%E9%80%9F%E4%BA%8B%E6%95%85%E8%BD%A6%E8%BE%86%E4%B8%BA%E9%9A%94%E7%A6%BB%E8%BD%AC%E8%BF%90%E8%BD%A6%23" target="weibo">
-贵州高速事故车辆为隔离转运车（热度：4606614）
 </a>
 </li>
 
@@ -3051,6 +3051,12 @@ RNG战胜LNG（热度：1320456）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%23" target="weibo">
+微信支付（热度：1312084）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%AE%89%E5%85%A8%E5%90%97%23" target="weibo">
 你安全吗（热度：1312045）
 </a>
@@ -3497,12 +3503,6 @@ Twins不承认吴谨言的粤语是自己教的（热度：1255504）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%AF%E4%BA%AE%23" target="weibo">
 李景亮（热度：1198924）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%23" target="weibo">
-微信支付（热度：1195850）
 </a>
 </li>
 
@@ -4671,6 +4671,12 @@ BLACKPINK新歌未通过KBS审议（热度：999636）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23731%E9%83%A8%E9%98%9F%E7%94%A8%E8%B7%B3%E8%9A%A4%E6%84%9F%E6%9F%93%E9%BC%A0%E7%96%AB%E5%90%8E%E5%92%AC%E4%BA%BA%23" target="weibo">
+731部队用跳蚤感染鼠疫后咬人（热度：992662）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%B7%B1%E5%A4%9C%E6%8C%81%E5%88%80%E7%8B%82%E7%A0%8D%E9%82%BB%E5%B1%85%E5%AE%B6%E9%97%A83%E5%88%86%E9%92%9F%23" target="weibo">
 男子深夜持刀狂砍邻居家门3分钟（热度：992497）
 </a>
@@ -5183,12 +5189,6 @@ LPL三号种子EDG（热度：926061）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%88%90%E6%AF%85%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E4%B8%8A%E7%8F%AD%E8%B7%AF%E9%80%8F%23" target="weibo">
 王鹤棣成毅你好星期六上班路透（热度：925860）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23731%E9%83%A8%E9%98%9F%E7%94%A8%E8%B7%B3%E8%9A%A4%E6%84%9F%E6%9F%93%E9%BC%A0%E7%96%AB%E5%90%8E%E5%92%AC%E4%BA%BA%23" target="weibo">
-731部队用跳蚤感染鼠疫后咬人（热度：925604）
 </a>
 </li>
 
