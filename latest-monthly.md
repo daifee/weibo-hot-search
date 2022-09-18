@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/19 07:24:34
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/19 07:42:37
 </p>
 </blockquote>
 <p>
@@ -448,7 +448,7 @@ iPhone14（热度：4450676）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%B5%E9%98%B3%E9%80%9A%E6%8A%A5%E5%90%91%E5%85%A8%E7%A4%BE%E4%BC%9A%E4%BD%9C%E5%87%BA%E8%AF%9A%E6%81%B3%E9%81%93%E6%AD%89%23" target="weibo">
-贵阳通报向全社会作出诚恳道歉（热度：3292318）
+贵阳通报向全社会作出诚恳道歉（热度：3307531）
 </a>
 </li>
 
@@ -1989,6 +1989,12 @@ iPhone14 Plus（热度：1672968）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%A4%AA%E5%88%87%E9%99%A4%E5%A4%9A%E5%99%A8%E5%AE%983%E4%B8%AA%E6%9C%88%E5%90%8E%E5%8E%BB%E4%B8%96%23" target="weibo">
+老太切除多器官3个月后去世（热度：1658529）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E6%9D%BF%E8%BF%9E%E6%91%8A4%E5%BC%A0%E9%A5%BC%E9%83%BD%E5%A4%B1%E8%B4%A5%E7%9B%B4%E6%8E%A5%E6%AD%87%E4%B8%9A%23" target="weibo">
 老板连摊4张饼都失败直接歇业（热度：1658013）
 </a>
@@ -2057,12 +2063,6 @@ iPhone14 Plus（热度：1672968）
 <li>
 <a href="https://s.weibo.com/weibo?q=%239%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%BE%97%E7%B3%96%E5%B0%BF%E7%97%85%E8%A1%80%E6%B6%B2%E4%BC%BC%E5%86%BB%E7%8C%AA%E6%B2%B9%23" target="weibo">
 9岁女孩得糖尿病血液似冻猪油（热度：1627039）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%A4%AA%E5%88%87%E9%99%A4%E5%A4%9A%E5%99%A8%E5%AE%983%E4%B8%AA%E6%9C%88%E5%90%8E%E5%8E%BB%E4%B8%96%23" target="weibo">
-老太切除多器官3个月后去世（热度：1623282）
 </a>
 </li>
 
