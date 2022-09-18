@@ -1,0 +1,410 @@
+{
+  "runTime": 1663494030942,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1478565,
+        "num": 1478565,
+        "word": "女生每天运动1.5小时9个月瘦45斤",
+        "onboard_time": 1663484317,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 933546,
+        "num": 933546,
+        "word": "台湾花莲6.9级地震",
+        "onboard_time": 1663484914,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11353,
+        "num": 838955,
+        "word": "英雄回家",
+        "onboard_time": 1663384585,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1127072,
+        "num": 826382,
+        "word": "爸爸给2岁女儿脱衣洗漱被骂流氓",
+        "onboard_time": 1663485514,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1099963,
+        "num": 821830,
+        "word": "日本女教师给全班午餐下毒",
+        "onboard_time": 1663483528,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 799505,
+        "num": 799505,
+        "word": "爸爸脸缠保鲜膜狂亲2月大女儿",
+        "onboard_time": 1663491449,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 611066,
+        "num": 611066,
+        "word": "东八区的先生们登顶腾讯电视剧热播榜",
+        "onboard_time": 1663484677,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 564529,
+        "num": 564529,
+        "word": "雪中悍刀行原摄影师评论垫底辣孩",
+        "onboard_time": 1663485036,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 476222,
+        "num": 476222,
+        "word": "台湾1小时内发生3次地震",
+        "onboard_time": 1663485752,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405617,
+        "num": 405617,
+        "word": "论川渝地区女人的家庭地位",
+        "onboard_time": 1663488453,
+        "rank": 9,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 2738024,
+        "num": 401281,
+        "word": "贵州高速客车侧翻27人遇难",
+        "onboard_time": 1663477888,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1932764,
+        "num": 400942,
+        "word": "有人收购孕妇尿液每公斤12元",
+        "onboard_time": 1663486114,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 576209,
+        "num": 398901,
+        "word": "张凌赫 花环",
+        "onboard_time": 1663492170,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394978,
+        "num": 394978,
+        "word": "上海疫情防控",
+        "onboard_time": 1663492831,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367339,
+        "num": 367339,
+        "word": "上海震感",
+        "onboard_time": 1663485814,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347909,
+        "num": 347909,
+        "word": "日本发布最高级别预警",
+        "onboard_time": 1663475188,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338883,
+        "num": 338883,
+        "word": "李诞知道自己是虾系男友",
+        "onboard_time": 1663485333,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329068,
+        "num": 329068,
+        "word": "成都市普通中小学幼儿园有序返校复学",
+        "onboard_time": 1663489472,
+        "rank": 17,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 324712,
+        "num": 324712,
+        "word": "我可能不会爱你首播11周年",
+        "onboard_time": 1663490731,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 270420,
+        "num": 270420,
+        "word": "印度首富成世界第2富豪刷新亚洲纪录",
+        "onboard_time": 1663481247,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1512137,
+        "num": 269275,
+        "word": "46岁的曾黎和李小冉",
+        "onboard_time": 1663492050,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 266595,
+        "num": 266595,
+        "word": "孩子吐血爸爸开车紧张到四肢抽搐",
+        "onboard_time": 1663472668,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266034,
+        "num": 266034,
+        "word": "福建广东江苏上海震感明显",
+        "onboard_time": 1663488631,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235791,
+        "num": 235791,
+        "word": "SofM新冠确诊",
+        "onboard_time": 1663482928,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 233993,
+        "num": 233993,
+        "word": "郭艾伦官宣续约辽宁男篮",
+        "onboard_time": 1663486895,
+        "rank": 24,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 227432,
+        "num": 227432,
+        "word": "8岁小孩偷家里钱买800元奥特曼卡片",
+        "onboard_time": 1663483833,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227408,
+        "num": 227408,
+        "word": "赵露思说自己并非一路顺风顺水",
+        "onboard_time": 1663465289,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211005,
+        "num": 211005,
+        "word": "烂尾的韩剧",
+        "onboard_time": 1663472066,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210967,
+        "num": 210967,
+        "word": "法考",
+        "onboard_time": 1663476268,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 210506,
+        "num": 210506,
+        "word": "民警用印有走失儿童胶带封箱",
+        "onboard_time": 1663488811,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195581,
+        "num": 195581,
+        "word": "贵州新增本土无症状662例",
+        "onboard_time": 1663477708,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176712,
+        "num": 176712,
+        "word": "男子从重庆徒步走到成都干粮吃尽",
+        "onboard_time": 1663491271,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176299,
+        "num": 176299,
+        "word": "花莲高寮大桥断裂成数截",
+        "onboard_time": 1663490731,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157070,
+        "num": 157070,
+        "word": "台媒称花莲县有大楼震后倒塌",
+        "onboard_time": 1663487014,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156934,
+        "num": 156934,
+        "word": "女生手卡课桌同桌好奇也被卡",
+        "onboard_time": 1663488155,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155992,
+        "num": 155992,
+        "word": "花莲地震杭州有人晃晕从18楼跑下",
+        "onboard_time": 1663490370,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152603,
+        "num": 152603,
+        "word": "台气象部门称6.9级地震才是主震",
+        "onboard_time": 1663489290,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136724,
+        "num": 136724,
+        "word": "在东北拍外景有多难",
+        "onboard_time": 1663493610,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135244,
+        "num": 135244,
+        "word": "210斤小伙减重80斤后颜值大变",
+        "onboard_time": 1663474948,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125627,
+        "num": 125627,
+        "word": "女子求职开口问月休被HR怼",
+        "onboard_time": 1663479808,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118079,
+        "num": 118079,
+        "word": "731部队解剖活人用来培养细菌",
+        "onboard_time": 1663476629,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110985,
+        "num": 110985,
+        "word": "女子网购外套在内衬里发现一锥子",
+        "onboard_time": 1663480646,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108143,
+        "num": 108143,
+        "word": "乖乖打针的小奶狗",
+        "onboard_time": 1663483894,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106062,
+        "num": 106062,
+        "word": "贵州疫情防控",
+        "onboard_time": 1663469309,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95188,
+        "num": 95188,
+        "word": "空军机械技师为救人手指被缝13针",
+        "onboard_time": 1663493070,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94399,
+        "num": 94399,
+        "word": "50岁奥尼尔身材",
+        "onboard_time": 1663478907,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89045,
+        "num": 89045,
+        "word": "男子8杯酒下肚打110约战被KO",
+        "onboard_time": 1663476089,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88520,
+        "num": 88520,
+        "word": "昆铁卫生巾累计销量超1万包",
+        "onboard_time": 1663493968,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88126,
+        "num": 88126,
+        "word": "黑话律师或将制作第2季",
+        "onboard_time": 1663481430,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 86279,
+        "num": 86279,
+        "word": "超强台风南玛都即将横扫日本全境",
+        "onboard_time": 1663479209,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#牢记九一八#"
+    }
+  }
+}
