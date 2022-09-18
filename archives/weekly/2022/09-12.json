@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663458125777,
+  "endTime": 1663469081810,
   "band_list": [
     {
       "raw_hot": 20529209,
@@ -411,6 +411,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 2348262,
+      "num": 1842058,
+      "word": "600亿豪门姻亲圈",
+      "onboard_time": 1663464628,
+      "rank": 1,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 2335033,
       "num": 2335033,
       "word": "北京警方通报李易峰多次嫖娼",
@@ -587,6 +595,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1906753,
+      "num": 1906753,
+      "word": "勿忘九一八",
+      "onboard_time": 1663459704,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1901612,
       "num": 1162935,
       "word": "退退退",
@@ -633,6 +649,14 @@
       "onboard_time": 1663304132,
       "rank": 3,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1867072,
+      "num": 1551634,
+      "word": "赵露思说自己并非一路顺风顺水",
+      "onboard_time": 1663465289,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1866673,
@@ -721,6 +745,14 @@
       "onboard_time": 1663310367,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1758036,
+      "num": 1758036,
+      "word": "黄牛诉苦苹果14倒贴100元出",
+      "onboard_time": 1663463667,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1757442,
@@ -889,6 +921,14 @@
       "onboard_time": 1663234591,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1552482,
+      "num": 1552482,
+      "word": "男孩割坏店内香蕉妈妈斥责全买致歉",
+      "onboard_time": 1663463906,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1552378,
@@ -1411,6 +1451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1238029,
+      "num": 1238029,
+      "word": "未满16岁女孩偷外卖引出坎坷身世",
+      "onboard_time": 1663465469,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1235152,
       "num": 1235152,
       "word": "顺丰回应寄丢20克黄金只赔2000",
@@ -1472,6 +1520,14 @@
       "word": "上海一公园被指摆放日本人雕塑群",
       "onboard_time": 1663076253,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1192960,
+      "num": 1192960,
+      "word": "百斤大蟒蛇潜伏在村民鱼塘内偷吃",
+      "onboard_time": 1663465170,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -2377,6 +2433,14 @@
       "onboard_time": 1663244849,
       "rank": 13,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 885407,
+      "num": 885407,
+      "word": "黑话律师烂尾",
+      "onboard_time": 1663460665,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 884792,
@@ -3587,6 +3651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 609880,
+      "num": 609880,
+      "word": "网友总结男明星演戏的规则",
+      "onboard_time": 1663465230,
+      "rank": 10,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 608315,
       "num": 608315,
       "word": "7岁男童摘苍耳粘满头",
@@ -3811,6 +3883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 570405,
+      "num": 570405,
+      "word": "能不能不卷了",
+      "onboard_time": 1663458623,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 569119,
       "num": 569119,
       "word": "台积电2纳米预计2025年量产",
@@ -3881,6 +3961,14 @@
       "onboard_time": 1663256437,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 556231,
+      "num": 556231,
+      "word": "其实是我孤立了全班",
+      "onboard_time": 1663467511,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 555146,
@@ -4075,6 +4163,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 531944,
+      "num": 531944,
+      "word": "听说是中国人必会的填空题",
+      "onboard_time": 1663464749,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 531289,
       "num": 531289,
       "word": "北京今日部分区域试鸣防空警报",
@@ -4145,6 +4241,14 @@
       "onboard_time": 1663215758,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 526661,
+      "num": 526661,
+      "word": "关晓彤往前走一步看王鹤棣虞书欣",
+      "onboard_time": 1663464449,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 526578,
@@ -4473,6 +4577,14 @@
       "onboard_time": 1663141650,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 486607,
+      "num": 486607,
+      "word": "九一八事变日军蓄谋已久",
+      "onboard_time": 1663461625,
+      "rank": 15,
+      "category": "社会新闻,国内要闻"
     },
     {
       "raw_hot": 485358,
@@ -4961,6 +5073,14 @@
       "onboard_time": 1663075053,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 442224,
+      "num": 442224,
+      "word": "成都防空警报",
+      "onboard_time": 1663467450,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 440179,
@@ -5891,6 +6011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 364363,
+      "num": 364363,
+      "word": "江苏防空警报",
+      "onboard_time": 1663467094,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 364314,
       "num": 364314,
       "word": "保罗詹姆斯怒批太阳老板",
@@ -6163,6 +6291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 342710,
+      "num": 342710,
+      "word": "9月17日增930例本土无症状",
+      "onboard_time": 1663464149,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 342262,
       "num": 289756,
       "word": "周寻说有些遗憾是可以弥补的",
@@ -6241,6 +6377,14 @@
       "onboard_time": 1663423593,
       "rank": 44,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 339104,
+      "num": 339104,
+      "word": "朴彩英Hard To love",
+      "onboard_time": 1663460304,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 338795,
@@ -6891,12 +7035,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 308044,
+      "num": 308044,
+      "word": "美国竟用这个词来美化日本侵华",
+      "onboard_time": 1663467331,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 307513,
       "num": 307513,
       "word": "iOS15.7",
       "onboard_time": 1663026149,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 307404,
+      "num": 307404,
+      "word": "日军故意炸毁铁路栽赃中国军队",
+      "onboard_time": 1663466246,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 307259,
@@ -7763,6 +7923,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 269286,
+      "num": 269286,
+      "word": "宋亚东伤口好深",
+      "onboard_time": 1663467990,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 269037,
       "num": 269037,
       "word": "明日方舟",
@@ -8411,6 +8579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 241810,
+      "num": 241810,
+      "word": "佳木斯发现2例初筛阳性",
+      "onboard_time": 1663461865,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241347,
       "num": 241347,
       "word": "以太坊",
@@ -8545,6 +8721,14 @@
       "onboard_time": 1663210468,
       "rank": 27,
       "category": "教育"
+    },
+    {
+      "raw_hot": 235781,
+      "num": 235781,
+      "word": "网红地肤草遭游客踩踏",
+      "onboard_time": 1663467331,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235579,
@@ -8801,6 +8985,14 @@
       "onboard_time": 1663372224,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 224616,
+      "num": 224616,
+      "word": "桑德哈根vs宋亚东",
+      "onboard_time": 1663466973,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 223793,
@@ -9163,6 +9355,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 206809,
+      "num": 206809,
+      "word": "北京石景山一户人家高空泼尿",
+      "onboard_time": 1663457601,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206688,
       "num": 206688,
       "word": "小猫让我得了红眼病",
@@ -9339,6 +9539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201185,
+      "num": 201185,
+      "word": "医生叫停宋亚东比赛",
+      "onboard_time": 1663468410,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201167,
       "num": 201167,
       "word": "猫猫过上了我的理想生活",
@@ -9457,6 +9665,22 @@
       "onboard_time": 1663211429,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197075,
+      "num": 197075,
+      "word": "妻子刷新闻看到老公救人",
+      "onboard_time": 1663432467,
+      "rank": 47,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 196853,
+      "num": 196853,
+      "word": "9月18日9时18分9条路18条街",
+      "onboard_time": 1663467034,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196493,
@@ -9609,6 +9833,14 @@
       "onboard_time": 1662984276,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190418,
+      "num": 190418,
+      "word": "UFC",
+      "onboard_time": 1663461264,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 190412,
@@ -9865,6 +10097,14 @@
       "onboard_time": 1662889596,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181343,
+      "num": 181343,
+      "word": "TF家族恭喜你发现了宝藏",
+      "onboard_time": 1663466428,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 180467,
@@ -10299,6 +10539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161915,
+      "num": 161915,
+      "word": "沈阳敲响14声警钟",
+      "onboard_time": 1663466853,
+      "rank": 38,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 161668,
       "num": 161668,
       "word": "INTO1套圈把摊位给端了",
@@ -10345,6 +10593,14 @@
       "onboard_time": 1663302573,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160089,
+      "num": 160089,
+      "word": "九位爱国知识分子冒死搜集日军侵华罪证",
+      "onboard_time": 1663468350,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160041,
@@ -10499,10 +10755,26 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154253,
+      "num": 154253,
+      "word": "和猫咪独处时的状态",
+      "onboard_time": 1663462585,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 154172,
       "num": 154172,
       "word": "牛妈妈不舍牛犊奋力追赶运输车",
       "onboard_time": 1663423173,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153839,
+      "num": 153839,
+      "word": "沈阳连续28年鸣响防空警报",
+      "onboard_time": 1663468710,
       "rank": 42,
       "category": "社会新闻"
     },
@@ -10619,12 +10891,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148273,
-      "num": 148273,
-      "word": "妻子刷新闻看到老公救人",
-      "onboard_time": 1663432467,
-      "rank": 47,
-      "category": "社会正能量"
+      "raw_hot": 148118,
+      "num": 148118,
+      "word": "侵华日军100部队细菌战新罪证",
+      "onboard_time": 1663466005,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147919,
@@ -10643,14 +10915,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 147050,
-      "num": 147050,
-      "word": "北京石景山一户人家高空泼尿",
-      "onboard_time": 1663457601,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146640,
       "num": 141185,
       "word": "李克勤今天开始不跟李荣浩说话",
@@ -10665,6 +10929,14 @@
       "onboard_time": 1663320580,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 146255,
+      "num": 146255,
+      "word": "日军100部队曾进行人体实验",
+      "onboard_time": 1663468109,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146204,
@@ -10729,6 +11001,14 @@
       "onboard_time": 1663154131,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 142552,
+      "num": 140347,
+      "word": "默哀",
+      "onboard_time": 1663469070,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141884,

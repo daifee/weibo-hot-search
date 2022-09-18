@@ -1,6 +1,6 @@
 {
   "startTime": 1663432368625,
-  "endTime": 1663458125777,
+  "endTime": 1663469081810,
   "band_list": [
     {
       "raw_hot": 2531250,
@@ -11,12 +11,60 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 2348262,
+      "num": 1842058,
+      "word": "600亿豪门姻亲圈",
+      "onboard_time": 1663464628,
+      "rank": 1,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1906753,
+      "num": 1906753,
+      "word": "勿忘九一八",
+      "onboard_time": 1663459704,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1867072,
+      "num": 1551634,
+      "word": "赵露思说自己并非一路顺风顺水",
+      "onboard_time": 1663465289,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1783236,
       "num": 1783236,
       "word": "情侣间需要每天聊天吗",
       "onboard_time": 1663426594,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1758036,
+      "num": 1758036,
+      "word": "黄牛诉苦苹果14倒贴100元出",
+      "onboard_time": 1663463667,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1552482,
+      "num": 1552482,
+      "word": "男孩割坏店内香蕉妈妈斥责全买致歉",
+      "onboard_time": 1663463906,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1238029,
+      "num": 1238029,
+      "word": "未满16岁女孩偷外卖引出坎坷身世",
+      "onboard_time": 1663465469,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1213207,
@@ -27,12 +75,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1192960,
+      "num": 1192960,
+      "word": "百斤大蟒蛇潜伏在村民鱼塘内偷吃",
+      "onboard_time": 1663465170,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1030304,
       "num": 1030304,
       "word": "台湾6.5级地震",
       "onboard_time": 1663423234,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 885407,
+      "num": 885407,
+      "word": "黑话律师烂尾",
+      "onboard_time": 1663460665,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 858526,
@@ -91,6 +155,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 609880,
+      "num": 609880,
+      "word": "网友总结男明星演戏的规则",
+      "onboard_time": 1663465230,
+      "rank": 10,
+      "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 570405,
+      "num": 570405,
+      "word": "能不能不卷了",
+      "onboard_time": 1663458623,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 556231,
+      "num": 556231,
+      "word": "其实是我孤立了全班",
+      "onboard_time": 1663467511,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 540711,
       "num": 311530,
       "word": "SG原本是BLACKPINK合作曲",
@@ -99,12 +187,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 531944,
+      "num": 531944,
+      "word": "听说是中国人必会的填空题",
+      "onboard_time": 1663464749,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 526661,
+      "num": 526661,
+      "word": "关晓彤往前走一步看王鹤棣虞书欣",
+      "onboard_time": 1663464449,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 493436,
       "num": 364392,
       "word": "蔡依林登上2023吉尼斯世界纪录",
       "onboard_time": 1663422814,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 486607,
+      "num": 486607,
+      "word": "九一八事变日军蓄谋已久",
+      "onboard_time": 1663461625,
+      "rank": 15,
+      "category": "社会新闻,国内要闻"
     },
     {
       "raw_hot": 475579,
@@ -129,6 +241,14 @@
       "onboard_time": 1663429891,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 442224,
+      "num": 442224,
+      "word": "成都防空警报",
+      "onboard_time": 1663467450,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 442020,
@@ -163,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 364363,
+      "num": 364363,
+      "word": "江苏防空警报",
+      "onboard_time": 1663467094,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 353221,
       "num": 353221,
       "word": "台湾地震南京震感明显",
@@ -187,12 +315,44 @@
       "category": "影视"
     },
     {
+      "raw_hot": 342710,
+      "num": 342710,
+      "word": "9月17日增930例本土无症状",
+      "onboard_time": 1663464149,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 339104,
+      "num": 339104,
+      "word": "朴彩英Hard To love",
+      "onboard_time": 1663460304,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 330742,
       "num": 330742,
       "word": "黑话律师",
       "onboard_time": 1663425637,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 308044,
+      "num": 308044,
+      "word": "美国竟用这个词来美化日本侵华",
+      "onboard_time": 1663467331,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 307404,
+      "num": 307404,
+      "word": "日军故意炸毁铁路栽赃中国军队",
+      "onboard_time": 1663466246,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 301522,
@@ -235,12 +395,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 269286,
+      "num": 269286,
+      "word": "宋亚东伤口好深",
+      "onboard_time": 1663467990,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 251453,
       "num": 157932,
       "word": "长相思",
       "onboard_time": 1663427014,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 241810,
+      "num": 241810,
+      "word": "佳木斯发现2例初筛阳性",
+      "onboard_time": 1663461865,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235892,
@@ -251,12 +427,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235781,
+      "num": 235781,
+      "word": "网红地肤草遭游客踩踏",
+      "onboard_time": 1663467331,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228199,
       "num": 104323,
       "word": "这就是街舞",
       "onboard_time": 1663433124,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 224616,
+      "num": 224616,
+      "word": "桑德哈根vs宋亚东",
+      "onboard_time": 1663466973,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 224582,
@@ -283,12 +475,60 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206809,
+      "num": 206809,
+      "word": "北京石景山一户人家高空泼尿",
+      "onboard_time": 1663457601,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201185,
+      "num": 201185,
+      "word": "医生叫停宋亚东比赛",
+      "onboard_time": 1663468410,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 197075,
+      "num": 197075,
+      "word": "妻子刷新闻看到老公救人",
+      "onboard_time": 1663432467,
+      "rank": 47,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 196853,
+      "num": 196853,
+      "word": "9月18日9时18分9条路18条街",
+      "onboard_time": 1663467034,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190418,
+      "num": 190418,
+      "word": "UFC",
+      "onboard_time": 1663461264,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190407,
       "num": 190407,
       "word": "有哪些30岁后才明白的人生真相",
       "onboard_time": 1663422208,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 181343,
+      "num": 181343,
+      "word": "TF家族恭喜你发现了宝藏",
+      "onboard_time": 1663466428,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 173576,
@@ -313,6 +553,22 @@
       "onboard_time": 1663420827,
       "rank": 27,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 161915,
+      "num": 161915,
+      "word": "沈阳敲响14声警钟",
+      "onboard_time": 1663466853,
+      "rank": 38,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 160089,
+      "num": 160089,
+      "word": "九位爱国知识分子冒死搜集日军侵华罪证",
+      "onboard_time": 1663468350,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159001,
@@ -355,12 +611,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 148273,
-      "num": 148273,
-      "word": "妻子刷新闻看到老公救人",
-      "onboard_time": 1663432467,
-      "rank": 47,
-      "category": "社会正能量"
+      "raw_hot": 154253,
+      "num": 154253,
+      "word": "和猫咪独处时的状态",
+      "onboard_time": 1663462585,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 153839,
+      "num": 153839,
+      "word": "沈阳连续28年鸣响防空警报",
+      "onboard_time": 1663468710,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148118,
+      "num": 148118,
+      "word": "侵华日军100部队细菌战新罪证",
+      "onboard_time": 1663466005,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147919,
@@ -368,14 +640,6 @@
       "word": "九一八91周年",
       "onboard_time": 1663456456,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147050,
-      "num": 147050,
-      "word": "北京石景山一户人家高空泼尿",
-      "onboard_time": 1663457601,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -387,6 +651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 146255,
+      "num": 146255,
+      "word": "日军100部队曾进行人体实验",
+      "onboard_time": 1663468109,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143165,
       "num": 110315,
       "word": "你好星期六修罗场观后感",
@@ -395,12 +667,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142552,
+      "num": 140347,
+      "word": "默哀",
+      "onboard_time": 1663469070,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141455,
       "num": 141455,
       "word": "校方回应教授自嘲式简历走红",
       "onboard_time": 1663423593,
       "rank": 35,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 140704,
+      "num": 140704,
+      "word": "小小姐们",
+      "onboard_time": 1663459222,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 132884,
@@ -620,7 +908,7 @@
     },
     {
       "raw_hot": 38571,
-      "num": 1053339,
+      "num": 1775303,
       "word": "英雄回家",
       "onboard_time": 1663384585,
       "rank": 2,
