@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1663526817677,
+  "endTime": 1663528736848,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -36705,6 +36705,14 @@
       "onboard_time": 1662059291,
       "rank": 38,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 14578,
+      "num": 14578,
+      "word": "电影妈妈票房破5000万",
+      "onboard_time": 1663527853,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 13813,
