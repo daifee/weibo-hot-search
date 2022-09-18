@@ -1,18 +1,34 @@
 {
   "startTime": 1663432368625,
-  "endTime": 1663483756660,
+  "endTime": 1663485727898,
   "band_list": [
     {
-      "raw_hot": 5058490,
-      "num": 5058490,
+      "raw_hot": 5286401,
+      "num": 5286401,
       "word": "贵州高速客车侧翻27人遇难",
       "onboard_time": 1663477888,
       "rank": 0,
       "category": "社会负面"
     },
     {
+      "raw_hot": 3447866,
+      "num": 3447866,
+      "word": "台湾花莲6.9级地震",
+      "onboard_time": 1663484914,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2937956,
+      "num": 1708450,
+      "word": "中国台湾台东发生5.7级地震",
+      "onboard_time": 1663481430,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2594721,
-      "num": 1361811,
+      "num": 1750052,
       "word": "日本发布最高级别预警",
       "onboard_time": 1663475188,
       "rank": 23,
@@ -41,6 +57,14 @@
       "onboard_time": 1663464628,
       "rank": 1,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 2000961,
+      "num": 2000961,
+      "word": "日本女教师给全班午餐下毒",
+      "onboard_time": 1663483528,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1906753,
@@ -107,6 +131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1503337,
+      "num": 1503337,
+      "word": "泉州震感",
+      "onboard_time": 1663483833,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1433775,
       "num": 1433775,
       "word": "未满16岁女孩偷外卖引出坎坷身世",
@@ -140,7 +172,7 @@
     },
     {
       "raw_hot": 1149853,
-      "num": 606968,
+      "num": 827250,
       "word": "北京健康宝弹窗3",
       "onboard_time": 1663481008,
       "rank": 11,
@@ -219,6 +251,14 @@
       "category": "影视,音乐"
     },
     {
+      "raw_hot": 809130,
+      "num": 809130,
+      "word": "印度首富成世界第2富豪刷新亚洲纪录",
+      "onboard_time": 1663481247,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 755076,
       "num": 755076,
       "word": "男子趁乱摘走急救病人金戒指",
@@ -267,14 +307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 637752,
-      "num": 265926,
-      "word": "印度首富成世界第2富豪刷新亚洲纪录",
-      "onboard_time": 1663481247,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 632106,
       "num": 632106,
       "word": "日本台风",
@@ -291,12 +323,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 546117,
+      "num": 546117,
+      "word": "SofM新冠确诊",
+      "onboard_time": 1663482928,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 540711,
       "num": 311530,
       "word": "SG原本是BLACKPINK合作曲",
       "onboard_time": 1663432405,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 536885,
+      "num": 536885,
+      "word": "女生每天运动1.5小时9月瘦45斤",
+      "onboard_time": 1663484317,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 531944,
@@ -355,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 457874,
+      "num": 457874,
+      "word": "东八区的先生们登顶腾讯电视剧热播榜",
+      "onboard_time": 1663484677,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 442224,
       "num": 442224,
       "word": "成都防空警报",
@@ -379,20 +435,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 407872,
+      "num": 407872,
+      "word": "女子网购外套在内衬里发现一锥子",
+      "onboard_time": 1663480646,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 403831,
       "num": 403831,
       "word": "男子8杯酒下肚打110约战被KO",
       "onboard_time": 1663476089,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 392007,
-      "num": 257915,
-      "word": "SofM新冠确诊",
-      "onboard_time": 1663482928,
-      "rank": 21,
-      "category": "游戏"
     },
     {
       "raw_hot": 391923,
@@ -403,12 +459,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 389080,
+      "num": 389080,
+      "word": "黑话律师或将制作第2季",
+      "onboard_time": 1663481430,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 383178,
       "num": 303574,
       "word": "IU演唱会嘉宾是ITZY",
       "onboard_time": 1663432765,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 380229,
+      "num": 380229,
+      "word": "成都有序恢复生产生活秩序",
+      "onboard_time": 1663484736,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 375333,
@@ -473,14 +545,6 @@
       "onboard_time": 1663425875,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 348558,
-      "num": 348558,
-      "word": "女子网购外套在内衬里发现一锥子",
-      "onboard_time": 1663480646,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 346005,
@@ -619,28 +683,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 259153,
-      "num": 259153,
-      "word": "黑话律师或将制作第2季",
-      "onboard_time": 1663481430,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 258623,
       "num": 258623,
       "word": "网友总结95生代表角色",
       "onboard_time": 1663475069,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 255960,
-      "num": 255960,
-      "word": "中国台湾台东发生5.7级地震",
-      "onboard_time": 1663481430,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 252139,
@@ -683,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235532,
+      "num": 235532,
+      "word": "超强台风南玛都即将横扫日本全境",
+      "onboard_time": 1663479209,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228199,
       "num": 104323,
       "word": "这就是街舞",
@@ -715,6 +771,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 218151,
+      "num": 218151,
+      "word": "8岁小孩偷家里钱买800元奥特曼卡片",
+      "onboard_time": 1663483833,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215163,
       "num": 215163,
       "word": "家长带孩子在店铺玻璃前小便",
@@ -731,6 +795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207378,
+      "num": 207378,
+      "word": "杭州震感",
+      "onboard_time": 1663424916,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206809,
       "num": 206809,
       "word": "北京石景山一户人家高空泼尿",
@@ -745,6 +817,30 @@
       "onboard_time": 1663476629,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204378,
+      "num": 204378,
+      "word": "爸爸给2岁女儿脱衣洗漱被骂流氓",
+      "onboard_time": 1663485514,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199843,
+      "num": 199843,
+      "word": "这些文物好像不是很正经",
+      "onboard_time": 1663482090,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 199622,
+      "num": 199622,
+      "word": "雪中悍刀行原摄影师评论垫底辣孩",
+      "onboard_time": 1663485036,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 197075,
@@ -803,12 +899,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 184658,
-      "num": 184658,
-      "word": "超强台风南玛都即将横扫日本全境",
-      "onboard_time": 1663479209,
+      "raw_hot": 186808,
+      "num": 186808,
+      "word": "乖乖打针的小奶狗",
+      "onboard_time": 1663483894,
       "rank": 35,
-      "category": "社会新闻"
+      "category": "情感"
     },
     {
       "raw_hot": 181343,
@@ -819,6 +915,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 178769,
+      "num": 178769,
+      "word": "福建多地有明显震感",
+      "onboard_time": 1663427194,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173576,
       "num": 173576,
       "word": "罗伊斯",
@@ -827,20 +931,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173360,
+      "num": 173360,
+      "word": "李诞知道自己是虾系男友",
+      "onboard_time": 1663485333,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172840,
       "num": 172840,
       "word": "高校用7千名新生大头贴做迎新墙",
       "onboard_time": 1663477109,
       "rank": 34,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 166970,
-      "num": 166970,
-      "word": "这些文物好像不是很正经",
-      "onboard_time": 1663482090,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 165663,
@@ -888,14 +992,6 @@
       "word": "顾客过生日饭店墙体地面被涂满蛋糕",
       "onboard_time": 1663425334,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158344,
-      "num": 158344,
-      "word": "杭州震感",
-      "onboard_time": 1663424916,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1025,14 +1121,6 @@
       "onboard_time": 1663428574,
       "rank": 37,
       "category": "幽默,教育"
-    },
-    {
-      "raw_hot": 120571,
-      "num": 120571,
-      "word": "日本女教师给全班午餐下毒",
-      "onboard_time": 1663483528,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118479,
@@ -1276,7 +1364,7 @@
     },
     {
       "raw_hot": 38571,
-      "num": 1775303,
+      "num": 2034074,
       "word": "英雄回家",
       "onboard_time": 1663384585,
       "rank": 2,

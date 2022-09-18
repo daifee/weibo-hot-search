@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/18 14:49:16
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/18 15:22:07
 </p>
 </blockquote>
 <p>
@@ -153,6 +153,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E%E9%AB%98%E9%80%9F%E5%AE%A2%E8%BD%A6%E4%BE%A7%E7%BF%BB27%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
+贵州高速客车侧翻27人遇难（热度：5286401）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%A5%E5%B0%94%E6%96%AF%E6%88%90%E4%B8%BA%E8%8B%B1%E5%9B%BD%E5%9B%BD%E7%8E%8B%23" target="weibo">
 查尔斯成为英国国王（热度：5258095）
 </a>
@@ -161,12 +167,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E4%BB%8A%E6%97%A518%E6%97%B6%E8%B5%B7%E5%85%A8%E4%BD%93%E5%B1%85%E6%B0%91%E5%8E%9F%E5%88%99%E5%B1%85%E5%AE%B6%23" target="weibo">
 成都今日18时起全体居民原则居家（热度：5121210）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E%E9%AB%98%E9%80%9F%E5%AE%A2%E8%BD%A6%E4%BE%A7%E7%BF%BB27%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
-贵州高速客车侧翻27人遇难（热度：5058490）
 </a>
 </li>
 
@@ -369,6 +369,12 @@ iPhone14（热度：4450676）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E8%8A%B1%E8%8E%B26.9%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
+台湾花莲6.9级地震（热度：3447866）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%98%89%E8%A1%8C%E4%BC%A0%E5%AA%92%23" target="weibo">
 嘉行传媒（热度：3412296）
 </a>
@@ -551,6 +557,12 @@ LPL四号种子RNG（热度：3079936）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%85%92%E9%A9%BE%E6%92%9E%E4%BA%BA%E6%8B%96%E8%A1%8C1%E5%85%AC%E9%87%8C%23" target="weibo">
 女子酒驾撞人拖行1公里（热度：2949797）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E5%8F%B0%E4%B8%9C%E5%8F%91%E7%94%9F5.7%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
+中国台湾台东发生5.7级地震（热度：2937956）
 </a>
 </li>
 
@@ -1277,6 +1289,12 @@ Doinb升级当爸爸（热度：2008327）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%911500%E4%BA%BF%E7%BE%8E%E5%85%83%23" target="weibo">
 苹果市值一夜蒸发1500亿美元（热度：2002288）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%95%99%E5%B8%88%E7%BB%99%E5%85%A8%E7%8F%AD%E5%8D%88%E9%A4%90%E4%B8%8B%E6%AF%92%23" target="weibo">
+日本女教师给全班午餐下毒（热度：2000961）
 </a>
 </li>
 
@@ -2285,6 +2303,12 @@ B站诉争哔哩哔哩商标被驳回（热度：1518132）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E7%8E%B0%E9%A6%96%E4%BE%8B%E7%8C%B4%E7%97%98%E8%BE%93%E5%85%A5%E7%97%85%E4%BE%8B%23" target="weibo">
 香港现首例猴痘输入病例（热度：1514949）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%89%E5%B7%9E%E9%9C%87%E6%84%9F%23" target="weibo">
+泉州震感（热度：1503337）
 </a>
 </li>
 
@@ -5987,30 +6011,6 @@ icon登顶（热度：815327）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%AF%B4%E5%81%9A%E4%BA%8B%E8%A6%81%E5%81%9A%E5%88%B0%E6%9E%81%E8%87%B4%23" target="weibo">
 周杰伦说做事要做到极致（热度：812485）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%9B%E5%90%88%23" target="weibo">
-君合（热度：811545）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E9%87%91%E4%B9%9D%E5%B0%81%E9%9D%A2%E9%A2%84%E5%91%8A%23" target="weibo">
-赵丽颖金九封面预告（热度：810694）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23RNG%E6%99%8B%E7%BA%A7TI11%23" target="weibo">
-RNG晋级TI11（热度：809926）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Angelababy%E8%AF%B4%E6%88%91%E6%98%AF%E9%9C%B2%E5%A8%9C%E7%94%BB%E4%B8%AD%E8%A7%81%23" target="weibo">
-Angelababy说我是露娜画中见（热度：808989）
 </a>
 </li>
 

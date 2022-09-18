@@ -1,0 +1,410 @@
+{
+  "runTime": 1663485727898,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5286401,
+        "num": 5286401,
+        "word": "贵州高速客车侧翻27人遇难",
+        "onboard_time": 1663477888,
+        "rank": 0,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 3447866,
+        "num": 3447866,
+        "word": "台湾花莲6.9级地震",
+        "onboard_time": 1663484914,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19971,
+        "num": 2034074,
+        "word": "英雄回家",
+        "onboard_time": 1663384585,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2000961,
+        "num": 2000961,
+        "word": "日本女教师给全班午餐下毒",
+        "onboard_time": 1663483528,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1750052,
+        "num": 1750052,
+        "word": "日本发布最高级别预警",
+        "onboard_time": 1663475188,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2937956,
+        "num": 1708450,
+        "word": "中国台湾台东发生5.7级地震",
+        "onboard_time": 1663481430,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1503337,
+        "num": 1503337,
+        "word": "泉州震感",
+        "onboard_time": 1663483833,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1242154,
+        "num": 1242154,
+        "word": "孩子吐血爸爸开车紧张到四肢抽搐",
+        "onboard_time": 1663472668,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 941170,
+        "num": 941170,
+        "word": "日军731部队曾用幼儿制作标本",
+        "onboard_time": 1663471947,
+        "rank": 8,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 832329,
+        "num": 832329,
+        "word": "贵州新增本土无症状662例",
+        "onboard_time": 1663477708,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1011546,
+        "num": 827250,
+        "word": "北京健康宝弹窗3",
+        "onboard_time": 1663481008,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 809130,
+        "num": 809130,
+        "word": "印度首富成世界第2富豪刷新亚洲纪录",
+        "onboard_time": 1663481247,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619621,
+        "num": 619621,
+        "word": "烂尾的韩剧",
+        "onboard_time": 1663472066,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 591368,
+        "num": 591368,
+        "word": "赵露思说自己并非一路顺风顺水",
+        "onboard_time": 1663465289,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 546117,
+        "num": 546117,
+        "word": "SofM新冠确诊",
+        "onboard_time": 1663482928,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 536885,
+        "num": 536885,
+        "word": "女生每天运动1.5小时9月瘦45斤",
+        "onboard_time": 1663484317,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515879,
+        "num": 515879,
+        "word": "210斤小伙减重80斤后颜值大变",
+        "onboard_time": 1663474948,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457874,
+        "num": 457874,
+        "word": "东八区的先生们登顶腾讯电视剧热播榜",
+        "onboard_time": 1663484677,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 407872,
+        "num": 407872,
+        "word": "女子网购外套在内衬里发现一锥子",
+        "onboard_time": 1663480646,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389080,
+        "num": 389080,
+        "word": "黑话律师或将制作第2季",
+        "onboard_time": 1663481430,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 380229,
+        "num": 380229,
+        "word": "成都有序恢复生产生活秩序",
+        "onboard_time": 1663484736,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297456,
+        "num": 297456,
+        "word": "女子求职开口问月休被HR怼",
+        "onboard_time": 1663479808,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265642,
+        "num": 265642,
+        "word": "两位新娘偶遇互换捧花祝福",
+        "onboard_time": 1663475729,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263213,
+        "num": 263213,
+        "word": "男孩割坏店内香蕉妈妈斥责全买致歉",
+        "onboard_time": 1663463906,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245810,
+        "num": 245810,
+        "word": "50岁奥尼尔身材",
+        "onboard_time": 1663478907,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235532,
+        "num": 235532,
+        "word": "超强台风南玛都即将横扫日本全境",
+        "onboard_time": 1663479209,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233022,
+        "num": 233022,
+        "word": "其实是我孤立了全班",
+        "onboard_time": 1663467511,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 232652,
+        "num": 232652,
+        "word": "苍兰诀男模团",
+        "onboard_time": 1663481729,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 218151,
+        "num": 218151,
+        "word": "8岁小孩偷家里钱买800元奥特曼卡片",
+        "onboard_time": 1663483833,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213313,
+        "num": 213313,
+        "word": "男子8杯酒下肚打110约战被KO",
+        "onboard_time": 1663476089,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207378,
+        "num": 207378,
+        "word": "杭州震感",
+        "onboard_time": 1663424916,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204378,
+        "num": 204378,
+        "word": "爸爸给2岁女儿脱衣洗漱被骂流氓",
+        "onboard_time": 1663485514,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199843,
+        "num": 199843,
+        "word": "这些文物好像不是很正经",
+        "onboard_time": 1663482090,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199622,
+        "num": 199622,
+        "word": "雪中悍刀行原摄影师评论垫底辣孩",
+        "onboard_time": 1663485036,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 198923,
+        "num": 198923,
+        "word": "黄牛诉苦苹果14倒贴100元出",
+        "onboard_time": 1663463667,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186808,
+        "num": 186808,
+        "word": "乖乖打针的小奶狗",
+        "onboard_time": 1663483894,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184811,
+        "num": 184811,
+        "word": "贵州疫情防控",
+        "onboard_time": 1663469309,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178769,
+        "num": 178769,
+        "word": "福建多地有明显震感",
+        "onboard_time": 1663427194,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173360,
+        "num": 173360,
+        "word": "李诞知道自己是虾系男友",
+        "onboard_time": 1663485333,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167815,
+        "num": 167815,
+        "word": "未满16岁女孩偷外卖引出坎坷身世",
+        "onboard_time": 1663465469,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163723,
+        "num": 163723,
+        "word": "美国竟用这个词来美化日本侵华",
+        "onboard_time": 1663467331,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154327,
+        "num": 154327,
+        "word": "男子趁乱摘走急救病人金戒指",
+        "onboard_time": 1663470568,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142082,
+        "num": 142082,
+        "word": "日本战犯土肥原贤二的罪恶档案",
+        "onboard_time": 1663472305,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135769,
+        "num": 135769,
+        "word": "731部队解剖活人用来培养细菌",
+        "onboard_time": 1663476629,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124782,
+        "num": 124782,
+        "word": "黑话律师烂尾",
+        "onboard_time": 1663460665,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121437,
+        "num": 121437,
+        "word": "男子境外诈骗业绩差被公司3万卖掉",
+        "onboard_time": 1663474888,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112633,
+        "num": 112633,
+        "word": "网友总结95生代表角色",
+        "onboard_time": 1663475069,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110189,
+        "num": 110189,
+        "word": "关晓彤往前走一步看王鹤棣虞书欣",
+        "onboard_time": 1663464449,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103978,
+        "num": 103978,
+        "word": "一生要强的范丞丞",
+        "onboard_time": 1663477648,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91022,
+        "num": 91022,
+        "word": "听说是中国人必会的填空题",
+        "onboard_time": 1663464749,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#神十四航天员再出舱#"
+    }
+  }
+}
