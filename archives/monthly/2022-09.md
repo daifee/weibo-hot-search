@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/19 01:26:26
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/19 01:43:28
 </p>
 </blockquote>
 <p>
@@ -3771,6 +3771,12 @@ boss直聘公示涉性骚扰违规账号（热度：1144916）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B4%B5%E9%98%B3%E9%80%9A%E6%8A%A5%E5%90%91%E5%85%A8%E7%A4%BE%E4%BC%9A%E4%BD%9C%E5%87%BA%E8%AF%9A%E6%81%B3%E9%81%93%E6%AD%89%23" target="weibo">
+贵阳通报向全社会作出诚恳道歉（热度：1142212）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E8%A7%86%E5%89%A7%E5%BA%95%E7%BA%BF%23" target="weibo">
 电视剧底线（热度：1141964）
 </a>
@@ -6005,12 +6011,6 @@ iPhone14系列没涨价（热度：892829）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%A4%A7%E5%B0%B1%E7%98%A6%E4%BA%86%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%97%23" target="weibo">
 长大就瘦了是真的吗（热度：829568）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E7%89%B9%E5%88%AB%E5%AD%A3%E5%B0%869%E6%9C%88%E4%B8%8B%E6%97%AC%E5%BD%95%E5%88%B6%23" target="weibo">
-奔跑吧特别季将9月下旬录制（热度：829502）
 </a>
 </li>
 
