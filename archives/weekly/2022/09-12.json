@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663469081810,
+  "endTime": 1663471527488,
   "band_list": [
     {
       "raw_hot": 20529209,
@@ -803,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1738888,
+      "num": 1738888,
+      "word": "男孩割坏店内香蕉妈妈斥责全买致歉",
+      "onboard_time": 1663463906,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1724725,
       "num": 351579,
       "word": "安妮海瑟薇近照重回穿普拉达的女王",
@@ -915,20 +923,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1568341,
+      "num": 1568341,
+      "word": "其实是我孤立了全班",
+      "onboard_time": 1663467511,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1560442,
       "num": 524534,
       "word": "难听",
       "onboard_time": 1663234591,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1552482,
-      "num": 1552482,
-      "word": "男孩割坏店内香蕉妈妈斥责全买致歉",
-      "onboard_time": 1663463906,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1552378,
@@ -1081,6 +1089,14 @@
       "onboard_time": 1663237233,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1433775,
+      "num": 1433775,
+      "word": "未满16岁女孩偷外卖引出坎坷身世",
+      "onboard_time": 1663465469,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1424116,
@@ -1448,14 +1464,6 @@
       "word": "58岁自驾阿姨苏敏决定离婚",
       "onboard_time": 1663167938,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1238029,
-      "num": 1238029,
-      "word": "未满16岁女孩偷外卖引出坎坷身世",
-      "onboard_time": 1663465469,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -3099,6 +3107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 725652,
+      "num": 725652,
+      "word": "美国竟用这个词来美化日本侵华",
+      "onboard_time": 1663467331,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 722846,
       "num": 722846,
       "word": "长沙疫情防控",
@@ -3361,6 +3377,14 @@
       "onboard_time": 1662902989,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 670903,
+      "num": 670903,
+      "word": "网友总结男明星演戏的规则",
+      "onboard_time": 1663465230,
+      "rank": 10,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 666417,
@@ -3649,14 +3673,6 @@
       "onboard_time": 1663050277,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 609880,
-      "num": 609880,
-      "word": "网友总结男明星演戏的规则",
-      "onboard_time": 1663465230,
-      "rank": 10,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 608315,
@@ -3961,14 +3977,6 @@
       "onboard_time": 1663256437,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 556231,
-      "num": 556231,
-      "word": "其实是我孤立了全班",
-      "onboard_time": 1663467511,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 555146,
@@ -5315,6 +5323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 421359,
+      "num": 421359,
+      "word": "日军故意炸毁铁路栽赃中国军队",
+      "onboard_time": 1663466246,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 420085,
       "num": 251160,
       "word": "BLACKPINK新歌Jennie的rap",
@@ -6075,6 +6091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 361242,
+      "num": 361242,
+      "word": "宋亚东伤口好深",
+      "onboard_time": 1663467990,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 361056,
       "num": 361056,
       "word": "平价下饭神器",
@@ -6281,6 +6305,14 @@
       "onboard_time": 1663057235,
       "rank": 23,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 343734,
+      "num": 343734,
+      "word": "网红地肤草遭游客踩踏",
+      "onboard_time": 1663467331,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 342902,
@@ -7035,28 +7067,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 308044,
-      "num": 308044,
-      "word": "美国竟用这个词来美化日本侵华",
-      "onboard_time": 1663467331,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 307513,
       "num": 307513,
       "word": "iOS15.7",
       "onboard_time": 1663026149,
       "rank": 49,
       "category": "科技"
-    },
-    {
-      "raw_hot": 307404,
-      "num": 307404,
-      "word": "日军故意炸毁铁路栽赃中国军队",
-      "onboard_time": 1663466246,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 307259,
@@ -7579,6 +7595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 283448,
+      "num": 283448,
+      "word": "医生叫停宋亚东比赛",
+      "onboard_time": 1663468410,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 283219,
       "num": 283219,
       "word": "迪丽热巴学鸟叫呱呱",
@@ -7923,14 +7947,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 269286,
-      "num": 269286,
-      "word": "宋亚东伤口好深",
-      "onboard_time": 1663467990,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 269037,
       "num": 269037,
       "word": "明日方舟",
@@ -8219,6 +8235,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 258170,
+      "num": 258170,
+      "word": "男子趁乱摘走急救病人金戒指",
+      "onboard_time": 1663470568,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258117,
       "num": 258117,
       "word": "typa girl",
@@ -8363,6 +8387,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 252139,
+      "num": 252139,
+      "word": "九位爱国知识分子冒死搜集日军侵华罪证",
+      "onboard_time": 1663468350,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251457,
       "num": 218257,
       "word": "BLACKPINK MV",
@@ -8451,6 +8483,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 247785,
+      "num": 247785,
+      "word": "贵州疫情防控",
+      "onboard_time": 1663469309,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247459,
       "num": 193655,
       "word": "恒大已复工项目668个",
@@ -8489,6 +8529,14 @@
       "onboard_time": 1663046979,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 245948,
+      "num": 245948,
+      "word": "侵华日军100部队细菌战新罪证",
+      "onboard_time": 1663466005,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 245715,
@@ -8721,14 +8769,6 @@
       "onboard_time": 1663210468,
       "rank": 27,
       "category": "教育"
-    },
-    {
-      "raw_hot": 235781,
-      "num": 235781,
-      "word": "网红地肤草遭游客踩踏",
-      "onboard_time": 1663467331,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 235579,
@@ -9539,14 +9579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 201185,
-      "num": 201185,
-      "word": "医生叫停宋亚东比赛",
-      "onboard_time": 1663468410,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 201167,
       "num": 201167,
       "word": "猫猫过上了我的理想生活",
@@ -9745,6 +9777,14 @@
       "onboard_time": 1663073371,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193906,
+      "num": 193906,
+      "word": "防空警报",
+      "onboard_time": 1663469369,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193713,
@@ -10595,12 +10635,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160089,
-      "num": 160089,
-      "word": "九位爱国知识分子冒死搜集日军侵华罪证",
-      "onboard_time": 1663468350,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 160177,
+      "num": 160177,
+      "word": "被学校的食堂震撼到了",
+      "onboard_time": 1663470327,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 160041,
@@ -10889,14 +10929,6 @@
       "onboard_time": 1663380386,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 148118,
-      "num": 148118,
-      "word": "侵华日军100部队细菌战新罪证",
-      "onboard_time": 1663466005,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147919,
@@ -11371,6 +11403,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 126577,
+      "num": 126577,
+      "word": "航拍钱塘江鱼鳞潮",
+      "onboard_time": 1663471047,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126356,
       "num": 126356,
       "word": "杨莉娜正式加盟巴黎",
@@ -11803,6 +11843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108113,
+      "num": 108113,
+      "word": "河南新增无症状2例",
+      "onboard_time": 1663470388,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108055,
       "num": 108055,
       "word": "暖阳的澜",
@@ -11913,6 +11961,14 @@
       "onboard_time": 1662946355,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105202,
+      "num": 105202,
+      "word": "00后自主开发火箭垂直起降程序",
+      "onboard_time": 1663471227,
+      "rank": 48,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 103914,
