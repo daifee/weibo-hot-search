@@ -1,6 +1,6 @@
 {
   "startTime": 1663432368625,
-  "endTime": 1663506363202,
+  "endTime": 1663508311423,
   "band_list": [
     {
       "raw_hot": 5286401,
@@ -11,8 +11,8 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 4547693,
-      "num": 4595387,
+      "raw_hot": 4606614,
+      "num": 4713229,
       "word": "贵州高速事故车辆为隔离转运车",
       "onboard_time": 1663501172,
       "rank": 0,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1997536,
-      "num": 255194,
+      "num": 295401,
       "word": "王欣凌",
       "onboard_time": 1663499429,
       "rank": 22,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 1764029,
-      "num": 269275,
+      "num": 293780,
       "word": "46岁的曾黎和李小冉",
       "onboard_time": 1663492050,
       "rank": 20,
@@ -251,6 +251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1195850,
+      "num": 180556,
+      "word": "微信支付",
+      "onboard_time": 1663503570,
+      "rank": 31,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1192960,
       "num": 1192960,
       "word": "百斤大蟒蛇潜伏在村民鱼塘内偷吃",
@@ -299,14 +307,6 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 1033053,
-      "num": 177673,
-      "word": "微信支付",
-      "onboard_time": 1663503570,
-      "rank": 31,
-      "category": "科技"
-    },
-    {
       "raw_hot": 1030304,
       "num": 1030304,
       "word": "台湾6.5级地震",
@@ -323,8 +323,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 925461,
-      "num": 925461,
+      "raw_hot": 925604,
+      "num": 925604,
       "word": "731部队用跳蚤感染鼠疫后咬人",
       "onboard_time": 1663501832,
       "rank": 7,
@@ -459,6 +459,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 695402,
+      "num": 695402,
+      "word": "罚罪",
+      "onboard_time": 1663502850,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 682746,
       "num": 682746,
       "word": "台湾1小时内发生3次地震",
@@ -523,8 +531,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 594526,
-      "num": 594526,
+      "raw_hot": 601827,
+      "num": 601827,
       "word": "王者荣耀",
       "onboard_time": 1663503090,
       "rank": 9,
@@ -577,6 +585,14 @@
       "onboard_time": 1663464449,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 523227,
+      "num": 523227,
+      "word": "减肥对颜值的影响有多重要",
+      "onboard_time": 1663504049,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 495174,
@@ -635,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 455051,
+      "num": 455051,
+      "word": "著名导演伍迪艾伦宣布退休",
+      "onboard_time": 1663505733,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 448631,
       "num": 448631,
       "word": "郭艾伦官宣续约辽宁男篮",
@@ -675,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 412669,
+      "num": 412669,
+      "word": "男子自酿葡萄酒3天开盖喷3米高",
+      "onboard_time": 1663505613,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 410562,
       "num": 410562,
       "word": "论川渝地区女人的家庭地位",
@@ -689,14 +721,6 @@
       "onboard_time": 1663480646,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 407686,
-      "num": 407686,
-      "word": "罚罪",
-      "onboard_time": 1663502850,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 403831,
@@ -771,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 363864,
+      "num": 363864,
+      "word": "邱涛下线",
+      "onboard_time": 1663506033,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 361242,
       "num": 361242,
       "word": "宋亚东伤口好深",
@@ -793,14 +825,6 @@
       "onboard_time": 1663428633,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 352977,
-      "num": 352977,
-      "word": "减肥对颜值的影响有多重要",
-      "onboard_time": 1663504049,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 351874,
@@ -849,6 +873,14 @@
       "onboard_time": 1663460304,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 334772,
+      "num": 294918,
+      "word": "TVB刑侦悬疑剧OST大赏",
+      "onboard_time": 1663508131,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 330742,
@@ -937,6 +969,14 @@
       "onboard_time": 1663427914,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 291015,
+      "num": 291015,
+      "word": "专家称美元资产越来越不值钱",
+      "onboard_time": 1663505492,
+      "rank": 38,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 283448,
@@ -1067,14 +1107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 236972,
-      "num": 236972,
-      "word": "著名导演伍迪艾伦宣布退休",
-      "onboard_time": 1663505733,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 235892,
       "num": 157830,
       "word": "国内6大航司回复是否售卖卫生巾",
@@ -1089,14 +1121,6 @@
       "onboard_time": 1663479209,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 232647,
-      "num": 232647,
-      "word": "邱涛下线",
-      "onboard_time": 1663506033,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 228199,
@@ -1195,6 +1219,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 211706,
+      "num": 211706,
+      "word": "以为军训队伍混进了一小孩",
+      "onboard_time": 1663505251,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 211405,
+      "num": 178243,
+      "word": "你安全吗",
+      "onboard_time": 1663507352,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 210506,
       "num": 210506,
       "word": "民警用印有走失儿童胶带封箱",
@@ -1248,6 +1288,14 @@
       "word": "9月18日9时18分9条路18条街",
       "onboard_time": 1663467034,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195777,
+      "num": 195777,
+      "word": "运动超过半小时才是有效减肥",
+      "onboard_time": 1663507171,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -1377,14 +1425,6 @@
       "onboard_time": 1663444271,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 164461,
-      "num": 164461,
-      "word": "以为军训队伍混进了一小孩",
-      "onboard_time": 1663505251,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 163524,
@@ -1531,12 +1571,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 139686,
-      "num": 139686,
-      "word": "专家称美元资产越来越不值钱",
-      "onboard_time": 1663505492,
-      "rank": 38,
-      "category": "财经,社会新闻"
+      "raw_hot": 137063,
+      "num": 137063,
+      "word": "冷空气下周发货",
+      "onboard_time": 1663507832,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136724,
@@ -1568,14 +1608,6 @@
       "word": "航拍钱塘江鱼鳞潮",
       "onboard_time": 1663471047,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 126084,
-      "num": 126084,
-      "word": "男子自酿葡萄酒3天开盖喷3米高",
-      "onboard_time": 1663505613,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -1715,6 +1747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101753,
+      "num": 101753,
+      "word": "解说杯",
+      "onboard_time": 1663506332,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 96657,
       "num": 96657,
       "word": "幸福到万家",
@@ -1761,6 +1801,14 @@
       "onboard_time": 1663434741,
       "rank": 46,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 87741,
+      "num": 87741,
+      "word": "极限挑战",
+      "onboard_time": 1663508252,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 87712,
@@ -1817,14 +1865,6 @@
       "onboard_time": 1663441152,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 73452,
-      "num": 73452,
-      "word": "解说杯",
-      "onboard_time": 1663506332,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 71810,
