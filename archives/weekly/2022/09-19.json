@@ -1,6 +1,6 @@
 {
   "startTime": 1663518759246,
-  "endTime": 1663523008399,
+  "endTime": 1663525741206,
   "band_list": [
     {
       "raw_hot": 2554636,
@@ -19,19 +19,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2069906,
+      "num": 2069906,
+      "word": "贵阳通报向全社会作出诚恳道歉",
+      "onboard_time": 1663521680,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1298885,
       "num": 1298885,
       "word": "老太切除多器官3个月后去世",
       "onboard_time": 1663517968,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1142212,
-      "num": 1142212,
-      "word": "贵阳通报向全社会作出诚恳道歉",
-      "onboard_time": 1663521680,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
