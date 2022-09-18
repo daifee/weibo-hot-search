@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663471527488,
+  "endTime": 1663476060749,
   "band_list": [
     {
       "raw_hot": 20529209,
@@ -369,6 +369,14 @@
       "onboard_time": 1663432226,
       "rank": 26,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 2527648,
+      "num": 2527648,
+      "word": "孩子吐血爸爸开车紧张到四肢抽搐",
+      "onboard_time": 1663472668,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2411747,
@@ -1065,6 +1073,14 @@
       "onboard_time": 1663407626,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1440745,
+      "num": 1440745,
+      "word": "烂尾的韩剧",
+      "onboard_time": 1663472066,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1438909,
@@ -2995,6 +3011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 755076,
+      "num": 755076,
+      "word": "男子趁乱摘走急救病人金戒指",
+      "onboard_time": 1663470568,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 754603,
       "num": 754603,
       "word": "女子手机密码6个0被盗19万",
@@ -3107,8 +3131,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 725652,
-      "num": 725652,
+      "raw_hot": 729499,
+      "num": 729499,
       "word": "美国竟用这个词来美化日本侵华",
       "onboard_time": 1663467331,
       "rank": 23,
@@ -3577,6 +3601,22 @@
       "onboard_time": 1662893443,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 632106,
+      "num": 632106,
+      "word": "日本台风",
+      "onboard_time": 1663472128,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 627170,
+      "num": 627170,
+      "word": "日军731部队曾用幼儿制作标本",
+      "onboard_time": 1663471947,
+      "rank": 13,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 626912,
@@ -6027,6 +6067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 364588,
+      "num": 364588,
+      "word": "日本战犯土肥原贤二的罪恶档案",
+      "onboard_time": 1663472305,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 364363,
       "num": 364363,
       "word": "江苏防空警报",
@@ -6451,6 +6499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 336906,
+      "num": 336906,
+      "word": "210斤小伙减重80斤后颜值大变",
+      "onboard_time": 1663474948,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 336310,
       "num": 336310,
       "word": "杭州台风",
@@ -6697,6 +6753,14 @@
       "onboard_time": 1663038093,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 326828,
+      "num": 326828,
+      "word": "被学校的食堂震撼到了",
+      "onboard_time": 1663470327,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 326278,
@@ -7256,6 +7320,14 @@
       "word": "三河全域实行4天静默管理",
       "onboard_time": 1663029813,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300020,
+      "num": 300020,
+      "word": "贵州疫情防控",
+      "onboard_time": 1663469309,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -8235,14 +8307,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 258170,
-      "num": 258170,
-      "word": "男子趁乱摘走急救病人金戒指",
-      "onboard_time": 1663470568,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 258117,
       "num": 258117,
       "word": "typa girl",
@@ -8483,14 +8547,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 247785,
-      "num": 247785,
-      "word": "贵州疫情防控",
-      "onboard_time": 1663469309,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 247459,
       "num": 193655,
       "word": "恒大已复工项目668个",
@@ -8563,6 +8619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 245211,
+      "num": 245211,
+      "word": "粉笔模考",
+      "onboard_time": 1663472547,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 244958,
       "num": 244958,
       "word": "长沙应急管理局回应电信大楼着火",
@@ -8609,6 +8673,14 @@
       "onboard_time": 1663150648,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 243154,
+      "num": 243154,
+      "word": "日本发布最高级别预警",
+      "onboard_time": 1663475188,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242921,
@@ -9331,6 +9403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 210718,
+      "num": 210718,
+      "word": "家长带孩子在店铺玻璃前小便",
+      "onboard_time": 1663474109,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210279,
       "num": 210279,
       "word": "天府新区解除风险区",
@@ -9843,6 +9923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191713,
+      "num": 191713,
+      "word": "男子境外诈骗业绩差被公司3万卖掉",
+      "onboard_time": 1663474888,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191109,
       "num": 191109,
       "word": "当孕妇穿上男装",
@@ -9889,6 +9977,14 @@
       "onboard_time": 1663131634,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 190152,
+      "num": 190152,
+      "word": "00后自主开发火箭垂直起降程序",
+      "onboard_time": 1663471227,
+      "rank": 48,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 189987,
@@ -10635,20 +10731,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160177,
-      "num": 160177,
-      "word": "被学校的食堂震撼到了",
-      "onboard_time": 1663470327,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 160041,
       "num": 160041,
       "word": "考研政治",
       "onboard_time": 1663327350,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 159335,
+      "num": 159335,
+      "word": "网友总结95生代表角色",
+      "onboard_time": 1663475069,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 159168,
@@ -10777,6 +10873,14 @@
       "onboard_time": 1663441512,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154542,
+      "num": 154542,
+      "word": "手机直连卫星时代来了",
+      "onboard_time": 1663473748,
+      "rank": 35,
+      "category": "科技"
     },
     {
       "raw_hot": 154482,
@@ -10953,6 +11057,14 @@
       "onboard_time": 1663401266,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146539,
+      "num": 146539,
+      "word": "洪潇说想用结黎换东方青苍",
+      "onboard_time": 1663475608,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 146389,
@@ -11193,6 +11305,14 @@
       "onboard_time": 1663348100,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 134651,
+      "num": 134651,
+      "word": "两位新娘偶遇互换捧花祝福",
+      "onboard_time": 1663475729,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134557,
@@ -11963,12 +12083,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 105202,
-      "num": 105202,
-      "word": "00后自主开发火箭垂直起降程序",
-      "onboard_time": 1663471227,
+      "raw_hot": 104282,
+      "num": 104282,
+      "word": "棣欣引力",
+      "onboard_time": 1663474709,
       "rank": 48,
-      "category": "科技,社会新闻"
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 104064,
+      "num": 104064,
+      "word": "这个牙刷好像有自己想法",
+      "onboard_time": 1663476028,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 103914,
@@ -13015,6 +13143,9 @@
     },
     {
       "word": "#神十四航天员再出舱#"
+    },
+    {
+      "word": "#牢记九一八#"
     }
   ]
 }

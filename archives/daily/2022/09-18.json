@@ -1,6 +1,6 @@
 {
   "startTime": 1663432368625,
-  "endTime": 1663471527488,
+  "endTime": 1663476060749,
   "band_list": [
     {
       "raw_hot": 2531250,
@@ -9,6 +9,14 @@
       "onboard_time": 1663432226,
       "rank": 26,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 2527648,
+      "num": 2527648,
+      "word": "孩子吐血爸爸开车紧张到四肢抽搐",
+      "onboard_time": 1663472668,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2348262,
@@ -65,6 +73,14 @@
       "onboard_time": 1663467511,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1440745,
+      "num": 1440745,
+      "word": "烂尾的韩剧",
+      "onboard_time": 1663472066,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1433775,
@@ -139,8 +155,16 @@
       "category": "影视,音乐"
     },
     {
-      "raw_hot": 725652,
-      "num": 725652,
+      "raw_hot": 755076,
+      "num": 755076,
+      "word": "男子趁乱摘走急救病人金戒指",
+      "onboard_time": 1663470568,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 729499,
+      "num": 729499,
       "word": "美国竟用这个词来美化日本侵华",
       "onboard_time": 1663467331,
       "rank": 23,
@@ -177,6 +201,22 @@
       "onboard_time": 1663427254,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 632106,
+      "num": 632106,
+      "word": "日本台风",
+      "onboard_time": 1663472128,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 627170,
+      "num": 627170,
+      "word": "日军731部队曾用幼儿制作标本",
+      "onboard_time": 1663471947,
+      "rank": 13,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 570405,
@@ -299,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 364588,
+      "num": 364588,
+      "word": "日本战犯土肥原贤二的罪恶档案",
+      "onboard_time": 1663472305,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 364363,
       "num": 364363,
       "word": "江苏防空警报",
@@ -363,6 +411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 336906,
+      "num": 336906,
+      "word": "210斤小伙减重80斤后颜值大变",
+      "onboard_time": 1663474948,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 330742,
       "num": 330742,
       "word": "黑话律师",
@@ -371,12 +427,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 326828,
+      "num": 326828,
+      "word": "被学校的食堂震撼到了",
+      "onboard_time": 1663470327,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 301522,
       "num": 301522,
       "word": "哈萨克斯坦将首都重新命名为阿斯塔纳",
       "onboard_time": 1663430849,
       "rank": 17,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 300020,
+      "num": 300020,
+      "word": "贵州疫情防控",
+      "onboard_time": 1663469309,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 291116,
@@ -419,14 +491,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 258170,
-      "num": 258170,
-      "word": "男子趁乱摘走急救病人金戒指",
-      "onboard_time": 1663470568,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 252139,
       "num": 252139,
       "word": "九位爱国知识分子冒死搜集日军侵华罪证",
@@ -443,19 +507,27 @@
       "category": "影视"
     },
     {
-      "raw_hot": 247785,
-      "num": 247785,
-      "word": "贵州疫情防控",
-      "onboard_time": 1663469309,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 245948,
       "num": 245948,
       "word": "侵华日军100部队细菌战新罪证",
       "onboard_time": 1663466005,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245211,
+      "num": 245211,
+      "word": "粉笔模考",
+      "onboard_time": 1663472547,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 243154,
+      "num": 243154,
+      "word": "日本发布最高级别预警",
+      "onboard_time": 1663475188,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -515,6 +587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 210718,
+      "num": 210718,
+      "word": "家长带孩子在店铺玻璃前小便",
+      "onboard_time": 1663474109,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206809,
       "num": 206809,
       "word": "北京石景山一户人家高空泼尿",
@@ -547,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191713,
+      "num": 191713,
+      "word": "男子境外诈骗业绩差被公司3万卖掉",
+      "onboard_time": 1663474888,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190418,
       "num": 190418,
       "word": "UFC",
@@ -561,6 +649,14 @@
       "onboard_time": 1663422208,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 190152,
+      "num": 190152,
+      "word": "00后自主开发火箭垂直起降程序",
+      "onboard_time": 1663471227,
+      "rank": 48,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 181343,
@@ -603,12 +699,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 160177,
-      "num": 160177,
-      "word": "被学校的食堂震撼到了",
-      "onboard_time": 1663470327,
-      "rank": 33,
-      "category": "情感"
+      "raw_hot": 159335,
+      "num": 159335,
+      "word": "网友总结95生代表角色",
+      "onboard_time": 1663475069,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 159001,
@@ -651,6 +747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154542,
+      "num": 154542,
+      "word": "手机直连卫星时代来了",
+      "onboard_time": 1663473748,
+      "rank": 35,
+      "category": "科技"
+    },
+    {
       "raw_hot": 154253,
       "num": 154253,
       "word": "和猫咪独处时的状态",
@@ -667,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150602,
+      "num": 150602,
+      "word": "两个人的小森林",
+      "onboard_time": 1663457359,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 147919,
       "num": 147919,
       "word": "九一八91周年",
@@ -675,12 +787,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146815,
-      "num": 146815,
-      "word": "两个人的小森林",
-      "onboard_time": 1663457359,
-      "rank": 23,
-      "category": "影视"
+      "raw_hot": 146539,
+      "num": 146539,
+      "word": "洪潇说想用结黎换东方青苍",
+      "onboard_time": 1663475608,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 146255,
@@ -721,6 +833,14 @@
       "onboard_time": 1663459222,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 134651,
+      "num": 134651,
+      "word": "两位新娘偶遇互换捧花祝福",
+      "onboard_time": 1663475729,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132884,
@@ -795,14 +915,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 105202,
-      "num": 105202,
-      "word": "00后自主开发火箭垂直起降程序",
-      "onboard_time": 1663471227,
-      "rank": 48,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 104968,
       "num": 104968,
       "word": "湖南新增1例境外输入无症状转确诊病例",
@@ -825,6 +937,22 @@
       "onboard_time": 1663416027,
       "rank": 44,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 104282,
+      "num": 104282,
+      "word": "棣欣引力",
+      "onboard_time": 1663474709,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 104064,
+      "num": 104064,
+      "word": "这个牙刷好像有自己想法",
+      "onboard_time": 1663476028,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 96657,
@@ -998,6 +1126,9 @@
   "hotgov_list": [
     {
       "word": "#神十四航天员再出舱#"
+    },
+    {
+      "word": "#牢记九一八#"
     }
   ]
 }
