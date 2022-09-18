@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663514681074,
+  "endTime": 1663515784432,
   "band_list": [
     {
       "raw_hot": 20529209,
@@ -369,6 +369,14 @@
       "onboard_time": 1663063053,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2616118,
+      "num": 896824,
+      "word": "垫底辣孩再次致歉",
+      "onboard_time": 1663515272,
+      "rank": 4,
+      "category": "网红"
     },
     {
       "raw_hot": 2606421,
@@ -1452,7 +1460,7 @@
     },
     {
       "raw_hot": 1312084,
-      "num": 208956,
+      "num": 216157,
       "word": "微信支付",
       "onboard_time": 1663503570,
       "rank": 31,
@@ -5083,6 +5091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 477845,
+      "num": 477845,
+      "word": "iOS16复制粘贴被吐槽太繁琐",
+      "onboard_time": 1663514613,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
       "raw_hot": 477319,
       "num": 477319,
       "word": "吃饱后肚子大有救了",
@@ -5571,6 +5587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 439268,
+      "num": 439268,
+      "word": "这样的雨伞建议量产",
+      "onboard_time": 1663514493,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 439195,
       "num": 439195,
       "word": "EDG发布处罚公告",
@@ -5960,6 +5984,14 @@
       "word": "男孩刮花车辆车主索赔遭家长辱骂",
       "onboard_time": 1662966996,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 410956,
+      "num": 410956,
+      "word": "美为获取731实验资料对日军战犯豁免",
+      "onboard_time": 1663510832,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -6641,14 +6673,6 @@
       "onboard_time": 1663467990,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 361169,
-      "num": 361169,
-      "word": "美为获取731实验资料对日军战犯豁免",
-      "onboard_time": 1663510832,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 361056,
@@ -8187,6 +8211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 287269,
+      "num": 287269,
+      "word": "嫉妒真的会使人面目全非",
+      "onboard_time": 1663513473,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 286239,
       "num": 158003,
       "word": "光遇",
@@ -8209,6 +8241,14 @@
       "onboard_time": 1663232732,
       "rank": 35,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 284567,
+      "num": 284567,
+      "word": "罚罪编剧",
+      "onboard_time": 1663515272,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 284481,
@@ -8723,6 +8763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 266855,
+      "num": 266855,
+      "word": "天天向上嘉宾回应",
+      "onboard_time": 1663515333,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 266648,
       "num": 266648,
       "word": "金泰亨VOGUE银十6版封面",
@@ -8889,6 +8937,14 @@
       "onboard_time": 1663370901,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 258903,
+      "num": 258903,
+      "word": "孙芮跳的采茶舞",
+      "onboard_time": 1663515154,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 258689,
@@ -10163,14 +10219,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 208696,
-      "num": 208696,
-      "word": "嫉妒真的会使人面目全非",
-      "onboard_time": 1663513473,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 207345,
       "num": 207345,
       "word": "只有真正的正能量才有长长久久的流量",
@@ -10921,6 +10969,14 @@
       "onboard_time": 1663246832,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183901,
+      "num": 183901,
+      "word": "福建人都要晃晕了",
+      "onboard_time": 1663515032,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183592,
@@ -11747,6 +11803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153603,
+      "num": 153603,
+      "word": "小男生给女同学撑伞全然不顾老妈",
+      "onboard_time": 1663515154,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153390,
       "num": 113624,
       "word": "请君任嘉伦李沁宿命感好强",
@@ -12065,14 +12129,6 @@
       "onboard_time": 1663163973,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136743,
-      "num": 136743,
-      "word": "这样的雨伞建议量产",
-      "onboard_time": 1663514493,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 136724,
@@ -12563,14 +12619,6 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 116838,
-      "num": 116838,
-      "word": "iOS16复制粘贴被吐槽太繁琐",
-      "onboard_time": 1663514613,
-      "rank": 47,
-      "category": "科技"
-    },
-    {
       "raw_hot": 116714,
       "num": 116714,
       "word": "厦门疫情防控",
@@ -12675,6 +12723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 113378,
+      "num": 113378,
+      "word": "迪马利亚直红下场",
+      "onboard_time": 1663514493,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113192,
       "num": 113192,
       "word": "残疾小伙跳河救人被游泳队相中",
@@ -12705,6 +12761,14 @@
       "onboard_time": 1663317273,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112213,
+      "num": 112213,
+      "word": "它怎么叫得乱七八糟的",
+      "onboard_time": 1663515572,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 112177,
@@ -12873,14 +12937,6 @@
       "onboard_time": 1662898918,
       "rank": 26,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 107663,
-      "num": 107663,
-      "word": "迪马利亚直红下场",
-      "onboard_time": 1663514493,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 107658,

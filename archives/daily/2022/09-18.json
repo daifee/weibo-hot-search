@@ -1,6 +1,6 @@
 {
   "startTime": 1663432368625,
-  "endTime": 1663514681074,
+  "endTime": 1663515784432,
   "band_list": [
     {
       "raw_hot": 5286401,
@@ -49,6 +49,14 @@
       "onboard_time": 1663481430,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2616118,
+      "num": 896824,
+      "word": "垫底辣孩再次致歉",
+      "onboard_time": 1663515272,
+      "rank": 4,
+      "category": "网红"
     },
     {
       "raw_hot": 2594721,
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 1312084,
-      "num": 208956,
+      "num": 216157,
       "word": "微信支付",
       "onboard_time": 1663503570,
       "rank": 31,
@@ -691,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 477845,
+      "num": 477845,
+      "word": "iOS16复制粘贴被吐槽太繁琐",
+      "onboard_time": 1663514613,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
       "raw_hot": 475579,
       "num": 475579,
       "word": "湖南地震",
@@ -747,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 439268,
+      "num": 439268,
+      "word": "这样的雨伞建议量产",
+      "onboard_time": 1663514493,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 426742,
       "num": 426742,
       "word": "谁说女生天生就会照顾人",
@@ -760,6 +784,14 @@
       "word": "日军故意炸毁铁路栽赃中国军队",
       "onboard_time": 1663466246,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 410956,
+      "num": 410956,
+      "word": "美为获取731实验资料对日军战犯豁免",
+      "onboard_time": 1663510832,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -865,14 +897,6 @@
       "onboard_time": 1663467990,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 361169,
-      "num": 361169,
-      "word": "美为获取731实验资料对日军战犯豁免",
-      "onboard_time": 1663510832,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 353221,
@@ -1043,6 +1067,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 287269,
+      "num": 287269,
+      "word": "嫉妒真的会使人面目全非",
+      "onboard_time": 1663513473,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 284567,
+      "num": 284567,
+      "word": "罚罪编剧",
+      "onboard_time": 1663515272,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 283448,
       "num": 283448,
       "word": "医生叫停宋亚东比赛",
@@ -1107,6 +1147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 266855,
+      "num": 266855,
+      "word": "天天向上嘉宾回应",
+      "onboard_time": 1663515333,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 266034,
       "num": 266034,
       "word": "福建广东江苏上海震感明显",
@@ -1121,6 +1169,14 @@
       "onboard_time": 1663472547,
       "rank": 22,
       "category": "教育"
+    },
+    {
+      "raw_hot": 258903,
+      "num": 258903,
+      "word": "孙芮跳的采茶舞",
+      "onboard_time": 1663515154,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 258689,
@@ -1339,14 +1395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 208696,
-      "num": 208696,
-      "word": "嫉妒真的会使人面目全非",
-      "onboard_time": 1663513473,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 207378,
       "num": 207378,
       "word": "杭州震感",
@@ -1465,6 +1513,14 @@
       "onboard_time": 1663502610,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 183901,
+      "num": 183901,
+      "word": "福建人都要晃晕了",
+      "onboard_time": 1663515032,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182698,
@@ -1619,6 +1675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153603,
+      "num": 153603,
+      "word": "小男生给女同学撑伞全然不顾老妈",
+      "onboard_time": 1663515154,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150943,
       "num": 150943,
       "word": "两个人的小森林",
@@ -1681,14 +1745,6 @@
       "onboard_time": 1663459222,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 136743,
-      "num": 136743,
-      "word": "这样的雨伞建议量产",
-      "onboard_time": 1663514493,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 136724,
@@ -1771,14 +1827,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 116838,
-      "num": 116838,
-      "word": "iOS16复制粘贴被吐槽太繁琐",
-      "onboard_time": 1663514613,
-      "rank": 47,
-      "category": "科技"
-    },
-    {
       "raw_hot": 115296,
       "num": 115296,
       "word": "这个牙刷好像有自己想法",
@@ -1795,12 +1843,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 113378,
+      "num": 113378,
+      "word": "迪马利亚直红下场",
+      "onboard_time": 1663514493,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113048,
       "num": 113048,
       "word": "台风",
       "onboard_time": 1663499849,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112213,
+      "num": 112213,
+      "word": "它怎么叫得乱七八糟的",
+      "onboard_time": 1663515572,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 112177,
@@ -1833,14 +1897,6 @@
       "onboard_time": 1663470388,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 107663,
-      "num": 107663,
-      "word": "迪马利亚直红下场",
-      "onboard_time": 1663514493,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 107050,
