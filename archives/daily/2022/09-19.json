@@ -1,6 +1,6 @@
 {
   "startTime": 1663518759246,
-  "endTime": 1663529694353,
+  "endTime": 1663532700460,
   "band_list": [
     {
       "raw_hot": 2554636,
@@ -443,19 +443,27 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 16270,
-      "num": 16270,
+      "raw_hot": 24249,
+      "num": 24249,
       "word": "电影妈妈票房破5000万",
       "onboard_time": 1663527853,
       "rank": 41,
       "category": "影视"
     },
     {
-      "raw_hot": 12766,
-      "num": 12766,
+      "raw_hot": 16903,
+      "num": 16903,
       "word": "娘家人排长队给宝宝送满月礼",
       "onboard_time": 1663529111,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11141,
+      "num": 11141,
+      "word": "天花板级别的军训汇演",
+      "onboard_time": 1663528032,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -464,14 +472,6 @@
       "word": "英雄回家",
       "onboard_time": 1663384585,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8833,
-      "num": 8833,
-      "word": "天花板级别的军训汇演",
-      "onboard_time": 1663528032,
-      "rank": 48,
       "category": "社会新闻"
     }
   ],
