@@ -1,6 +1,6 @@
 {
   "startTime": 1663432368625,
-  "endTime": 1663499977937,
+  "endTime": 1663501007380,
   "band_list": [
     {
       "raw_hot": 5286401,
@@ -195,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1462012,
+      "num": 1462012,
+      "word": "上海疫情防控",
+      "onboard_time": 1663492831,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1433775,
       "num": 1433775,
       "word": "未满16岁女孩偷外卖引出坎坷身世",
@@ -211,20 +219,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1235835,
-      "num": 1235835,
-      "word": "上海疫情防控",
-      "onboard_time": 1663492831,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1213207,
       "num": 1213207,
       "word": "高美好死了",
       "onboard_time": 1663427135,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1199533,
+      "num": 222941,
+      "word": "王欣凌",
+      "onboard_time": 1663499429,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 1192960,
@@ -248,6 +256,14 @@
       "word": "东八区的先生们登顶腾讯电视剧热播榜",
       "onboard_time": 1663484677,
       "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1065687,
+      "num": 1065687,
+      "word": "骄阳伴我",
+      "onboard_time": 1663499368,
+      "rank": 8,
       "category": "影视"
     },
     {
@@ -347,7 +363,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 772146,
+      "raw_hot": 775551,
       "num": 542618,
       "word": "田馥甄高雄演唱会取消",
       "onboard_time": 1663496670,
@@ -425,14 +441,6 @@
       "onboard_time": 1663493968,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 650400,
-      "num": 650400,
-      "word": "骄阳伴我",
-      "onboard_time": 1663499368,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 632106,
@@ -531,6 +539,14 @@
       "category": "社会新闻,国内要闻"
     },
     {
+      "raw_hot": 485655,
+      "num": 485655,
+      "word": "饭店女员工边抽烟边包馄饨",
+      "onboard_time": 1663496971,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 475579,
       "num": 475579,
       "word": "湖南地震",
@@ -563,14 +579,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 443762,
-      "num": 443762,
-      "word": "饭店女员工边抽烟边包馄饨",
-      "onboard_time": 1663496971,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 442224,
       "num": 442224,
       "word": "成都防空警报",
@@ -585,6 +593,14 @@
       "onboard_time": 1663403187,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 426742,
+      "num": 426742,
+      "word": "谁说女生天生就会照顾人",
+      "onboard_time": 1663499011,
+      "rank": 15,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 421359,
@@ -633,6 +649,14 @@
       "onboard_time": 1663481430,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 384345,
+      "num": 384345,
+      "word": "我正在清醒的堕落着",
+      "onboard_time": 1663499368,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 383178,
@@ -689,14 +713,6 @@
       "onboard_time": 1663467990,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 353628,
-      "num": 353628,
-      "word": "谁说女生天生就会照顾人",
-      "onboard_time": 1663499011,
-      "rank": 15,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 353221,
@@ -763,14 +779,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 334162,
-      "num": 213506,
-      "word": "王欣凌",
-      "onboard_time": 1663499429,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 330742,
       "num": 330742,
       "word": "黑话律师",
@@ -827,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299538,
+      "num": 299538,
+      "word": "杨戬",
+      "onboard_time": 1663499429,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 298163,
       "num": 298163,
       "word": "法考",
@@ -841,6 +857,14 @@
       "onboard_time": 1663427914,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 284164,
+      "num": 284164,
+      "word": "男生用身体挡住滑板救下男童",
+      "onboard_time": 1663498531,
+      "rank": 30,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 283448,
@@ -985,14 +1009,6 @@
       "onboard_time": 1663479209,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 233747,
-      "num": 211660,
-      "word": "杨戬",
-      "onboard_time": 1663499429,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 228199,
@@ -1235,14 +1251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 167301,
-      "num": 167301,
-      "word": "男生用身体挡住滑板救下男童",
-      "onboard_time": 1663498531,
-      "rank": 30,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 165663,
       "num": 165663,
       "word": "小伙租房失联留满屋垃圾熏吐房主",
@@ -1299,12 +1307,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 156895,
-      "num": 156895,
-      "word": "我正在清醒的堕落着",
-      "onboard_time": 1663499368,
-      "rank": 31,
-      "category": "情感"
+      "raw_hot": 154762,
+      "num": 154762,
+      "word": "辽宁男篮正式续约郭艾伦",
+      "onboard_time": 1663499011,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 154569,
@@ -1427,14 +1435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 126129,
-      "num": 126129,
-      "word": "辽宁男篮正式续约郭艾伦",
-      "onboard_time": 1663499011,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 123377,
       "num": 123377,
       "word": "这届大学生有多会答题",
@@ -1472,6 +1472,14 @@
       "word": "男子买大盒鱿鱼片拆后仅有一小片",
       "onboard_time": 1663414707,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113048,
+      "num": 113048,
+      "word": "台风",
+      "onboard_time": 1663499849,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1571,14 +1579,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 95189,
-      "num": 95189,
-      "word": "台风",
-      "onboard_time": 1663499849,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 95188,
       "num": 95188,
       "word": "空军机械技师为救人手指被缝13针",
@@ -1641,6 +1641,14 @@
       "onboard_time": 1663409608,
       "rank": 45,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 81956,
+      "num": 81956,
+      "word": "笨贼偷电动车不会骑蹬着走",
+      "onboard_time": 1663500872,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 80871,
@@ -1780,6 +1788,9 @@
     },
     {
       "word": "#我国火星探测一批科学研究成果发布#"
+    },
+    {
+      "word": "#强军有我使命在肩#"
     }
   ]
 }
