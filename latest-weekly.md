@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/19 00:32:39 ~ 2022/09/19 06:23:08
+本榜单时间：2022/09/19 00:32:39 ~ 2022/09/19 06:41:10
 </p>
 </blockquote>
 <p>
@@ -207,6 +207,12 @@ iOS16复制粘贴被吐槽太繁琐（热度：796067）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%A4%B1%E8%B6%B35%E6%A5%BC%E6%8E%89%E4%B8%8B%E6%8C%82%E5%9C%A83%E6%A5%BC%E9%9B%A8%E6%A3%9A%23" target="weibo">
+女子失足5楼掉下挂在3楼雨棚（热度：160340）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%9766%E4%BA%BF%E5%85%83%E7%9A%84%E8%B6%85%E5%A4%A7%E5%85%85%E7%94%B5%E5%AE%9D%E6%9D%A5%E4%BA%86%23" target="weibo">
 河南66亿元的超大充电宝来了（热度：154017）
 </a>
@@ -255,6 +261,12 @@ iOS16复制粘贴被吐槽太繁琐（热度：796067）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E8%8A%B1%E8%8E%B27%E5%8D%83%E5%A4%9A%E6%88%B7%E5%81%9C%E7%94%B5%23" target="weibo">
+台湾花莲7千多户停电（热度：116974）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E7%9C%9F%E7%9A%84%E6%9C%89%E7%A7%8B%E5%A4%A9%E5%90%97%23" target="weibo">
 广东真的有秋天吗（热度：114276）
 </a>
@@ -297,6 +309,12 @@ TVB刑侦悬疑剧OST大赏（热度：110708）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A8%98%E5%AE%B6%E4%BA%BA%E6%8E%92%E9%95%BF%E9%98%9F%E7%BB%99%E5%AE%9D%E5%AE%9D%E9%80%81%E6%BB%A1%E6%9C%88%E7%A4%BC%23" target="weibo">
+娘家人排长队给宝宝送满月礼（热度：98891）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E6%A0%96%E9%9C%9E%E5%8C%BA%E5%85%A8%E5%9F%9F%E8%B0%83%E6%95%B4%E4%B8%BA%E5%B8%B8%E6%80%81%E5%8C%96%E9%98%B2%E6%8E%A7%23" target="weibo">
 南京栖霞区全域调整为常态化防控（热度：98886）
 </a>
@@ -333,14 +351,8 @@ TVB刑侦悬疑剧OST大赏（热度：110708）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A8%98%E5%AE%B6%E4%BA%BA%E6%8E%92%E9%95%BF%E9%98%9F%E7%BB%99%E5%AE%9D%E5%AE%9D%E9%80%81%E6%BB%A1%E6%9C%88%E7%A4%BC%23" target="weibo">
-娘家人排长队给宝宝送满月礼（热度：77073）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E8%8A%B1%E8%8E%B27%E5%8D%83%E5%A4%9A%E6%88%B7%E5%81%9C%E7%94%B5%23" target="weibo">
-台湾花莲7千多户停电（热度：61978）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%85%B4%E5%AE%89%E5%B2%AD%E8%BF%8E%E6%9D%A5%E5%85%A5%E7%A7%8B%E5%90%8E%E7%AC%AC%E4%B8%80%E5%9C%BA%E9%9B%AA%23" target="weibo">
+大兴安岭迎来入秋后第一场雪（热度：69658）
 </a>
 </li>
 
@@ -351,20 +363,8 @@ TVB刑侦悬疑剧OST大赏（热度：110708）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%85%B4%E5%AE%89%E5%B2%AD%E8%BF%8E%E6%9D%A5%E5%85%A5%E7%A7%8B%E5%90%8E%E7%AC%AC%E4%B8%80%E5%9C%BA%E9%9B%AA%23" target="weibo">
-大兴安岭迎来入秋后第一场雪（热度：56811）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%2346%E5%B2%81%E7%9A%84%E6%9B%BE%E9%BB%8E%E5%92%8C%E6%9D%8E%E5%B0%8F%E5%86%89%23" target="weibo">
 46岁的曾黎和李小冉（热度：38091）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%A4%B1%E8%B6%B35%E6%A5%BC%E6%8E%89%E4%B8%8B%E6%8C%82%E5%9C%A83%E6%A5%BC%E9%9B%A8%E6%A3%9A%23" target="weibo">
-女子失足5楼掉下挂在3楼雨棚（热度：36927）
 </a>
 </li>
 
@@ -376,7 +376,7 @@ TVB刑侦悬疑剧OST大赏（热度：110708）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E8%8A%B1%E6%9D%BF%E7%BA%A7%E5%88%AB%E7%9A%84%E5%86%9B%E8%AE%AD%E6%B1%87%E6%BC%94%23" target="weibo">
-天花板级别的军训汇演（热度：14177）
+天花板级别的军训汇演（热度：18203）
 </a>
 </li>
 

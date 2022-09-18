@@ -1,0 +1,410 @@
+{
+  "runTime": 1663540870379,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 909501,
+        "num": 909501,
+        "word": "老太切除多器官3个月后去世",
+        "onboard_time": 1663517968,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343785,
+        "num": 343785,
+        "word": "高开高走的韩剧",
+        "onboard_time": 1663502910,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1879,
+        "num": 336867,
+        "word": "英雄回家",
+        "onboard_time": 1663384585,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2004096,
+        "num": 336482,
+        "word": "贵阳通报向全社会作出诚恳道歉",
+        "onboard_time": 1663521680,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619681,
+        "num": 334863,
+        "word": "垫底辣孩再次致歉",
+        "onboard_time": 1663515272,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 333230,
+        "num": 333230,
+        "word": "贵州高速事故车辆为隔离转运车",
+        "onboard_time": 1663501172,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323254,
+        "num": 323254,
+        "word": "男子走夜路遇蛇被猫拦下",
+        "onboard_time": 1663519225,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246621,
+        "num": 246621,
+        "word": "花莲地震是今年以来我国最大地震",
+        "onboard_time": 1663516169,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208362,
+        "num": 208362,
+        "word": "小男生给女同学撑伞全然不顾老妈",
+        "onboard_time": 1663515154,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160340,
+        "num": 160340,
+        "word": "女子失足5楼掉下挂在3楼雨棚",
+        "onboard_time": 1663537992,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303011,
+        "num": 141288,
+        "word": "天天向上嘉宾回应",
+        "onboard_time": 1663515333,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119231,
+        "num": 119231,
+        "word": "上海警方回应黄浦江畔出现鳄鱼",
+        "onboard_time": 1663509992,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117060,
+        "num": 117060,
+        "word": "员工故意旷工被开除起诉索赔12万",
+        "onboard_time": 1663509811,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116974,
+        "num": 116974,
+        "word": "台湾花莲7千多户停电",
+        "onboard_time": 1663536671,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109186,
+        "num": 109186,
+        "word": "正确使用耳机应遵循三个60原则",
+        "onboard_time": 1663516831,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108294,
+        "num": 108294,
+        "word": "日本女教师给全班午餐下毒",
+        "onboard_time": 1663483528,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98891,
+        "num": 98891,
+        "word": "娘家人排长队给宝宝送满月礼",
+        "onboard_time": 1663529111,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97017,
+        "num": 97017,
+        "word": "女生每天运动1.5小时9个月瘦45斤",
+        "onboard_time": 1663484317,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76708,
+        "num": 76708,
+        "word": "骄阳伴我",
+        "onboard_time": 1663499368,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 74080,
+        "num": 74080,
+        "word": "上海国庆假期倡导本地过节",
+        "onboard_time": 1663508611,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388353,
+        "num": 73763,
+        "word": "疑似天天向上嘉宾吐槽汪涵",
+        "onboard_time": 1663496248,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69658,
+        "num": 69658,
+        "word": "大兴安岭迎来入秋后第一场雪",
+        "onboard_time": 1663533611,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68189,
+        "num": 68189,
+        "word": "减肥对颜值的影响有多重要",
+        "onboard_time": 1663504049,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 59557,
+        "num": 59557,
+        "word": "男子自酿葡萄酒3天开盖喷3米高",
+        "onboard_time": 1663505613,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52206,
+        "num": 52206,
+        "word": "731部队用跳蚤感染鼠疫后咬人",
+        "onboard_time": 1663501832,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51733,
+        "num": 51733,
+        "word": "运动超过半小时才是有效减肥",
+        "onboard_time": 1663507171,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51433,
+        "num": 51433,
+        "word": "河南66亿元的超大充电宝来了",
+        "onboard_time": 1663517907,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50281,
+        "num": 50281,
+        "word": "男子车上脱鞋光脚搭前座女子头上",
+        "onboard_time": 1663501049,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46207,
+        "num": 46207,
+        "word": "爸爸给2岁女儿脱衣洗漱被骂流氓",
+        "onboard_time": 1663485514,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45270,
+        "num": 45270,
+        "word": "这样的雨伞建议量产",
+        "onboard_time": 1663514493,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 41857,
+        "num": 41857,
+        "word": "美为获取731实验资料对日军战犯豁免",
+        "onboard_time": 1663510832,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41136,
+        "num": 41136,
+        "word": "我正在清醒的堕落着",
+        "onboard_time": 1663499368,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 38672,
+        "num": 38672,
+        "word": "你安全吗丁阿姨信息泄漏被骗20万",
+        "onboard_time": 1663508911,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 37193,
+        "num": 37193,
+        "word": "客车侧翻致27人遇难20人受伤",
+        "onboard_time": 1663495650,
+        "rank": 33,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 35409,
+        "num": 35409,
+        "word": "王者荣耀",
+        "onboard_time": 1663503090,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 35397,
+        "num": 35397,
+        "word": "罚罪编剧",
+        "onboard_time": 1663515272,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 32041,
+        "num": 32041,
+        "word": "嫉妒真的会使人面目全非",
+        "onboard_time": 1663513473,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 30684,
+        "num": 30684,
+        "word": "福建人都要晃晕了",
+        "onboard_time": 1663515032,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29596,
+        "num": 29596,
+        "word": "虞书欣王鹤棣张凌赫三十秒文学",
+        "onboard_time": 1663499368,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26953,
+        "num": 26953,
+        "word": "烟火成都归来",
+        "onboard_time": 1663519823,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25565,
+        "num": 25565,
+        "word": "46岁的曾黎和李小冉",
+        "onboard_time": 1663492050,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 25014,
+        "num": 25014,
+        "word": "王欣凌",
+        "onboard_time": 1663499429,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24093,
+        "num": 24093,
+        "word": "成毅周亦安明天见",
+        "onboard_time": 1663508312,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21621,
+        "num": 21621,
+        "word": "广东真的有秋天吗",
+        "onboard_time": 1663510413,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20198,
+        "num": 20198,
+        "word": "电影妈妈票房破5000万",
+        "onboard_time": 1663527853,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19512,
+        "num": 19512,
+        "word": "微信小程序崩了",
+        "onboard_time": 1663502729,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 18748,
+        "num": 18748,
+        "word": "著名导演伍迪艾伦宣布退休",
+        "onboard_time": 1663505733,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18203,
+        "num": 18203,
+        "word": "天花板级别的军训汇演",
+        "onboard_time": 1663528032,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17174,
+        "num": 17174,
+        "word": "罚罪",
+        "onboard_time": 1663502850,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 12659,
+        "num": 12659,
+        "word": "奥格斯堡1比0拜仁",
+        "onboard_time": 1663536371,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国火星探测一批科学研究成果发布#"
+    }
+  }
+}
