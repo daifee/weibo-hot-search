@@ -1,6 +1,6 @@
 {
   "startTime": 1663432368625,
-  "endTime": 1663497758886,
+  "endTime": 1663499977937,
   "band_list": [
     {
       "raw_hot": 5286401,
@@ -11,12 +11,20 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 4069769,
-      "num": 4069769,
+      "raw_hot": 4445660,
+      "num": 4445660,
       "word": "客车侧翻致27人遇难20人受伤",
       "onboard_time": 1663495650,
       "rank": 1,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 4116263,
+      "num": 4116263,
+      "word": "疑似天天向上嘉宾吐槽汪涵",
+      "onboard_time": 1663496248,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 3645205,
@@ -25,14 +33,6 @@
       "onboard_time": 1663484914,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3256131,
-      "num": 487570,
-      "word": "疑似天天向上嘉宾吐槽汪涵",
-      "onboard_time": 1663496248,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 2937956,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1235835,
+      "num": 1235835,
+      "word": "上海疫情防控",
+      "onboard_time": 1663492831,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1213207,
       "num": 1213207,
       "word": "高美好死了",
@@ -272,14 +280,6 @@
       "word": "女生每天运动1.5小时9月瘦45斤",
       "onboard_time": 1663484317,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 895848,
-      "num": 895848,
-      "word": "上海疫情防控",
-      "onboard_time": 1663492831,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -345,6 +345,14 @@
       "onboard_time": 1663481247,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 772146,
+      "num": 542618,
+      "word": "田馥甄高雄演唱会取消",
+      "onboard_time": 1663496670,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 755076,
@@ -419,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 650400,
+      "num": 650400,
+      "word": "骄阳伴我",
+      "onboard_time": 1663499368,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 632106,
       "num": 632106,
       "word": "日本台风",
@@ -451,6 +467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 570318,
+      "num": 570318,
+      "word": "过度使用耳机会怎样",
+      "onboard_time": 1663494090,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 546117,
       "num": 546117,
       "word": "SofM新冠确诊",
@@ -475,20 +499,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 531240,
-      "num": 531240,
-      "word": "过度使用耳机会怎样",
-      "onboard_time": 1663494090,
-      "rank": 15,
-      "category": "情感"
-    },
-    {
       "raw_hot": 526661,
       "num": 526661,
       "word": "关晓彤往前走一步看王鹤棣虞书欣",
       "onboard_time": 1663464449,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 495174,
+      "num": 495174,
+      "word": "虞书欣王鹤棣张凌赫三十秒文学",
+      "onboard_time": 1663499368,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 493436,
@@ -537,6 +561,14 @@
       "onboard_time": 1663486895,
       "rank": 14,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 443762,
+      "num": 443762,
+      "word": "饭店女员工边抽烟边包馄饨",
+      "onboard_time": 1663496971,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 442224,
@@ -659,6 +691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 353628,
+      "num": 353628,
+      "word": "谁说女生天生就会照顾人",
+      "onboard_time": 1663499011,
+      "rank": 15,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 353221,
       "num": 353221,
       "word": "台湾地震南京震感明显",
@@ -723,11 +763,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 336113,
-      "num": 336113,
-      "word": "田馥甄高雄演唱会取消",
-      "onboard_time": 1663496670,
-      "rank": 43,
+      "raw_hot": 334162,
+      "num": 213506,
+      "word": "王欣凌",
+      "onboard_time": 1663499429,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -947,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233747,
+      "num": 211660,
+      "word": "杨戬",
+      "onboard_time": 1663499429,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 228199,
       "num": 104323,
       "word": "这就是街舞",
@@ -1003,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217135,
+      "num": 217135,
+      "word": "6岁女儿心疼妈妈生二胎号啕大哭",
+      "onboard_time": 1663494570,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215163,
       "num": 215163,
       "word": "家长带孩子在店铺玻璃前小便",
@@ -1032,14 +1088,6 @@
       "word": "杭州震感",
       "onboard_time": 1663424916,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 207317,
-      "num": 207317,
-      "word": "6岁女儿心疼妈妈生二胎号啕大哭",
-      "onboard_time": 1663494570,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1187,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167301,
+      "num": 167301,
+      "word": "男生用身体挡住滑板救下男童",
+      "onboard_time": 1663498531,
+      "rank": 30,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 165663,
       "num": 165663,
       "word": "小伙租房失联留满屋垃圾熏吐房主",
@@ -1243,6 +1299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 156895,
+      "num": 156895,
+      "word": "我正在清醒的堕落着",
+      "onboard_time": 1663499368,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 154569,
       "num": 154569,
       "word": "王鹤棣看张彬彬叫虞书欣的表情",
@@ -1280,14 +1344,6 @@
       "word": "九一八91周年",
       "onboard_time": 1663456456,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147206,
-      "num": 147206,
-      "word": "饭店女员工边抽烟边包馄饨",
-      "onboard_time": 1663496971,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -1369,6 +1425,14 @@
       "onboard_time": 1663471047,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126129,
+      "num": 126129,
+      "word": "辽宁男篮正式续约郭艾伦",
+      "onboard_time": 1663499011,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 123377,
@@ -1505,6 +1569,14 @@
       "onboard_time": 1663476688,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 95189,
+      "num": 95189,
+      "word": "台风",
+      "onboard_time": 1663499849,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 95188,
