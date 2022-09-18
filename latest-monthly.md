@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/18 15:22:07
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/18 15:38:35
 </p>
 </blockquote>
 <p>
@@ -297,6 +297,12 @@ iPhone14（热度：4450676）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E8%8A%B1%E8%8E%B26.9%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
+台湾花莲6.9级地震（热度：3645205）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%B0%8F%E5%8D%8E%E6%AD%A3%E4%B8%8E%E7%96%91%E4%BC%BC%E5%B0%8F%E7%B1%B3%E5%A5%87%E7%94%B7%E5%AD%A9%E8%BF%9B%E8%A1%8CDNA%E6%AF%94%E5%AF%B9%23" target="weibo">
 杜小华正与疑似小米奇男孩进行DNA比对（热度：3644687）
 </a>
@@ -365,12 +371,6 @@ iPhone14（热度：4450676）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E5%94%90%E8%89%BA%E6%98%95%E6%96%B9%E5%B8%8C%E6%9C%9B%E4%B8%8D%E5%86%8D%E4%BC%A0%E6%92%AD%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87%23" target="weibo">
 张若昀唐艺昕方希望不再传播相关图片（热度：3501565）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E8%8A%B1%E8%8E%B26.9%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
-台湾花莲6.9级地震（热度：3447866）
 </a>
 </li>
 
@@ -999,6 +999,12 @@ JDG夺冠（热度：2394767）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%95%99%E5%B8%88%E7%BB%99%E5%85%A8%E7%8F%AD%E5%8D%88%E9%A4%90%E4%B8%8B%E6%AF%92%23" target="weibo">
+日本女教师给全班午餐下毒（热度：2281066）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%8F%AF%E5%AF%85%E8%BF%9D%E7%AB%A0%E5%81%9C%E8%BD%A6%23" target="weibo">
 谢可寅违章停车（热度：2280605）
 </a>
@@ -1289,12 +1295,6 @@ Doinb升级当爸爸（热度：2008327）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%911500%E4%BA%BF%E7%BE%8E%E5%85%83%23" target="weibo">
 苹果市值一夜蒸发1500亿美元（热度：2002288）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%95%99%E5%B8%88%E7%BB%99%E5%85%A8%E7%8F%AD%E5%8D%88%E9%A4%90%E4%B8%8B%E6%AF%92%23" target="weibo">
-日本女教师给全班午餐下毒（热度：2000961）
 </a>
 </li>
 
@@ -4653,6 +4653,12 @@ BLACKPINK新歌未通过KBS审议（热度：999636）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%85%AB%E5%8C%BA%E7%9A%84%E5%85%88%E7%94%9F%E4%BB%AC%E7%99%BB%E9%A1%B6%E8%85%BE%E8%AE%AF%E7%94%B5%E8%A7%86%E5%89%A7%E7%83%AD%E6%92%AD%E6%A6%9C%23" target="weibo">
+东八区的先生们登顶腾讯电视剧热播榜（热度：986559）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%9E%97%E9%97%B4%E5%90%AC%E7%80%91%E8%8A%AD%E8%8E%8E%E5%A4%A7%E7%89%87%23" target="weibo">
 迪丽热巴林间听瀑芭莎大片（热度：985589）
 </a>
@@ -5321,6 +5327,12 @@ wps（热度：903646）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BC%A0%E5%AA%92%E5%A4%A7%E5%AD%A624%E5%B0%8F%E6%97%B6%E6%96%B0%E5%A2%9E6%E4%BE%8B%E7%A1%AE%E8%AF%8A%23" target="weibo">
 中国传媒大学24小时新增6例确诊（热度：900368）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%AF%8F%E5%A4%A9%E8%BF%90%E5%8A%A81.5%E5%B0%8F%E6%97%B69%E6%9C%88%E7%98%A645%E6%96%A4%23" target="weibo">
+女生每天运动1.5小时9月瘦45斤（热度：900100）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ icon登顶（热度：815327）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E4%BA%BA%E4%B8%AA%E4%B8%AA%E9%83%BD%E6%98%AF%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86%E9%AB%98%E6%89%8B%23" target="weibo">
 成都人个个都是时间管理高手（热度：814178）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E6%AF%94%E9%AB%98%E8%80%83%E8%BF%98%E7%B4%AF%E5%90%97%23" target="weibo">
-考研比高考还累吗（热度：813385）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%AF%B4%E5%81%9A%E4%BA%8B%E8%A6%81%E5%81%9A%E5%88%B0%E6%9E%81%E8%87%B4%23" target="weibo">
-周杰伦说做事要做到极致（热度：812485）
 </a>
 </li>
 
