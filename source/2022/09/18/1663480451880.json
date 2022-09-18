@@ -1,0 +1,410 @@
+{
+  "runTime": 1663480451880,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4576562,
+        "num": 4576562,
+        "word": "贵州高速客车侧翻27人遇难",
+        "onboard_time": 1663477888,
+        "rank": 0,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1903913,
+        "num": 1903913,
+        "word": "孩子吐血爸爸开车紧张到四肢抽搐",
+        "onboard_time": 1663472668,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22647,
+        "num": 1027334,
+        "word": "英雄回家",
+        "onboard_time": 1663384585,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 2594721,
+        "num": 1023449,
+        "word": "日本发布最高级别预警",
+        "onboard_time": 1663475188,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 962446,
+        "num": 962446,
+        "word": "烂尾的韩剧",
+        "onboard_time": 1663472066,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 924968,
+        "num": 924968,
+        "word": "210斤小伙减重80斤后颜值大变",
+        "onboard_time": 1663474948,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 912202,
+        "num": 912202,
+        "word": "贵州新增本土无症状662例",
+        "onboard_time": 1663477708,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 834466,
+        "num": 834466,
+        "word": "两位新娘偶遇互换捧花祝福",
+        "onboard_time": 1663475729,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 786208,
+        "num": 786208,
+        "word": "赵露思说自己并非一路顺风顺水",
+        "onboard_time": 1663465289,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 686522,
+        "num": 686522,
+        "word": "日军731部队曾用幼儿制作标本",
+        "onboard_time": 1663471947,
+        "rank": 9,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 1727999,
+        "num": 643152,
+        "word": "荔波",
+        "onboard_time": 1663477888,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 580693,
+        "num": 580693,
+        "word": "其实是我孤立了全班",
+        "onboard_time": 1663467511,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 447829,
+        "num": 447829,
+        "word": "黄牛诉苦苹果14倒贴100元出",
+        "onboard_time": 1663463667,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397847,
+        "num": 397847,
+        "word": "男子8杯酒下肚打110约战被KO",
+        "onboard_time": 1663476089,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394151,
+        "num": 394151,
+        "word": "未满16岁女孩偷外卖引出坎坷身世",
+        "onboard_time": 1663465469,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365196,
+        "num": 365196,
+        "word": "男孩割坏店内香蕉妈妈斥责全买致歉",
+        "onboard_time": 1663463906,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330824,
+        "num": 330824,
+        "word": "美国竟用这个词来美化日本侵华",
+        "onboard_time": 1663467331,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327883,
+        "num": 327883,
+        "word": "黑话律师烂尾",
+        "onboard_time": 1663460665,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 302104,
+        "num": 302104,
+        "word": "日本战犯土肥原贤二的罪恶档案",
+        "onboard_time": 1663472305,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301320,
+        "num": 301320,
+        "word": "男子趁乱摘走急救病人金戒指",
+        "onboard_time": 1663470568,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259731,
+        "num": 259731,
+        "word": "贵州疫情防控",
+        "onboard_time": 1663469309,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258623,
+        "num": 258623,
+        "word": "网友总结95生代表角色",
+        "onboard_time": 1663475069,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257839,
+        "num": 257839,
+        "word": "男子境外诈骗业绩差被公司3万卖掉",
+        "onboard_time": 1663474888,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247537,
+        "num": 247537,
+        "word": "网友总结男明星演戏的规则",
+        "onboard_time": 1663465230,
+        "rank": 23,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 222318,
+        "num": 222318,
+        "word": "听说是中国人必会的填空题",
+        "onboard_time": 1663464749,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204698,
+        "num": 204698,
+        "word": "731部队解剖活人用来培养细菌",
+        "onboard_time": 1663476629,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200875,
+        "num": 200875,
+        "word": "50岁奥尼尔身材",
+        "onboard_time": 1663478907,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184044,
+        "num": 184044,
+        "word": "家长带孩子在店铺玻璃前小便",
+        "onboard_time": 1663474109,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174737,
+        "num": 174737,
+        "word": "一生要强的范丞丞",
+        "onboard_time": 1663477648,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168499,
+        "num": 168499,
+        "word": "超强台风南玛都即将横扫日本全境",
+        "onboard_time": 1663479209,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158432,
+        "num": 158432,
+        "word": "日军故意炸毁铁路栽赃中国军队",
+        "onboard_time": 1663466246,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155092,
+        "num": 155092,
+        "word": "能不能不卷了",
+        "onboard_time": 1663458623,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154074,
+        "num": 154074,
+        "word": "被学校的食堂震撼到了",
+        "onboard_time": 1663470327,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153885,
+        "num": 153885,
+        "word": "关晓彤往前走一步看王鹤棣虞书欣",
+        "onboard_time": 1663464449,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150310,
+        "num": 150310,
+        "word": "高校用7千名新生大头贴做迎新墙",
+        "onboard_time": 1663477109,
+        "rank": 34,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 148066,
+        "num": 148066,
+        "word": "女子求职开口问月休被HR怼",
+        "onboard_time": 1663479808,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146913,
+        "num": 146913,
+        "word": "今日中国再不是1931年的中国",
+        "onboard_time": 1663432226,
+        "rank": 36,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 143945,
+        "num": 143945,
+        "word": "法考",
+        "onboard_time": 1663476268,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 135222,
+        "num": 135222,
+        "word": "情侣间需要每天聊天吗",
+        "onboard_time": 1663426594,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127570,
+        "num": 127570,
+        "word": "不同人群更适合哪种睡姿",
+        "onboard_time": 1663478126,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127255,
+        "num": 127255,
+        "word": "日本台风",
+        "onboard_time": 1663472128,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126093,
+        "num": 126093,
+        "word": "朴彩英Hard To love",
+        "onboard_time": 1663460304,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 119697,
+        "num": 119697,
+        "word": "手机直连卫星时代来了",
+        "onboard_time": 1663473748,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 119677,
+        "num": 119677,
+        "word": "宋亚东伤口好深",
+        "onboard_time": 1663467990,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106703,
+        "num": 106703,
+        "word": "两个人的小森林",
+        "onboard_time": 1663457359,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104793,
+        "num": 104793,
+        "word": "粉笔模考",
+        "onboard_time": 1663472547,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 103310,
+        "num": 103310,
+        "word": "9月17日增930例本土无症状",
+        "onboard_time": 1663464149,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96957,
+        "num": 96957,
+        "word": "九位爱国知识分子冒死搜集日军侵华罪证",
+        "onboard_time": 1663468350,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92544,
+        "num": 92544,
+        "word": "终于见到正宗的面包蟹了",
+        "onboard_time": 1663476688,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89353,
+        "num": 89353,
+        "word": "洪潇说想用结黎换东方青苍",
+        "onboard_time": 1663475608,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#牢记九一八#"
+    }
+  }
+}
