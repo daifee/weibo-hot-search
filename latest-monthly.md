@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/18 22:38:02
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/18 23:24:41
 </p>
 </blockquote>
 <p>
@@ -1725,6 +1725,12 @@ Angelababy晒与狗狗合照（热度：1779691）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23731%E9%83%A8%E9%98%9F%E7%94%A8%E8%B7%B3%E8%9A%A4%E6%84%9F%E6%9F%93%E9%BC%A0%E7%96%AB%E5%90%8E%E5%92%AC%E4%BA%BA%23" target="weibo">
+731部队用跳蚤感染鼠疫后咬人（热度：1773658）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E7%8E%B2%E5%92%8C%E6%9C%A8%E6%9D%91%E6%8B%93%E5%93%89%E8%B5%B0%E7%A7%80%23" target="weibo">
 林志玲和木村拓哉走秀（热度：1772560）
 </a>
@@ -2625,6 +2631,12 @@ YJJ女流领结婚证（热度：1438466）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%BC%80%E9%AB%98%E8%B5%B0%E7%9A%84%E9%9F%A9%E5%89%A7%23" target="weibo">
+高开高走的韩剧（热度：1421351）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%94%BE%E5%BC%83%E9%80%83%E7%94%9F%E6%8B%89%E9%97%B8%E6%B3%84%E6%B4%AA%E6%95%91%E4%BA%86%E5%87%A0%E7%99%BE%E4%BA%BA%23" target="weibo">
 男子放弃逃生拉闸泄洪救了几百人（热度：1420009）
 </a>
@@ -2735,12 +2747,6 @@ B站二季度净亏损20亿（热度：1413487）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%B5%E9%98%B3%E4%B8%80%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E5%BC%80%E5%85%AC%E8%BD%A6%E7%BB%99%E6%9C%8B%E5%8F%8B%E9%80%81%E8%8F%9C%23" target="weibo">
 贵阳一公职人员开公车给朋友送菜（热度：1382678）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23731%E9%83%A8%E9%98%9F%E7%94%A8%E8%B7%B3%E8%9A%A4%E6%84%9F%E6%9F%93%E9%BC%A0%E7%96%AB%E5%90%8E%E5%92%AC%E4%BA%BA%23" target="weibo">
-731部队用跳蚤感染鼠疫后咬人（热度：1381450）
 </a>
 </li>
 
@@ -4035,12 +4041,6 @@ Light身体不适（热度：1095817）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%BC%80%E9%AB%98%E8%B5%B0%E7%9A%84%E9%9F%A9%E5%89%A7%23" target="weibo">
-高开高走的韩剧（热度：1093054）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23369%23" target="weibo">
 369（热度：1091241）
 </a>
@@ -4265,6 +4265,12 @@ iPhone14比13更香吗（热度：1070956）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%80%E4%B9%88%E5%8F%AB%E5%A4%A9%E7%94%9F%E5%8F%8D%E9%AA%A8%23" target="weibo">
 什么叫天生反骨（热度：1063057）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E9%BB%84%E6%B5%A6%E6%B1%9F%E7%95%94%E5%87%BA%E7%8E%B0%E9%B3%84%E9%B1%BC%23" target="weibo">
+上海警方回应黄浦江畔出现鳄鱼（热度：1062614）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ iPhone14系列没涨价（热度：892829）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%85%B6%E5%AE%9E%E6%8A%8A%E4%BD%A0%E5%85%BB%E5%BE%97%E5%BE%88%E5%A5%BD%23" target="weibo">
 妈妈其实把你养得很好（热度：827093）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B8%BA%E8%A7%92%E8%89%B2%E5%A2%9E%E8%82%A5%23" target="weibo">
-赵丽颖为角色增肥（热度：826788）
 </a>
 </li>
 
