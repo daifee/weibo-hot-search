@@ -1,6 +1,6 @@
 {
   "startTime": 1663518759246,
-  "endTime": 1663537132953,
+  "endTime": 1663539788449,
   "band_list": [
     {
       "raw_hot": 2554636,
@@ -427,12 +427,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 77073,
+      "num": 77073,
+      "word": "娘家人排长队给宝宝送满月礼",
+      "onboard_time": 1663529111,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61978,
+      "num": 61978,
+      "word": "台湾花莲7千多户停电",
+      "onboard_time": 1663536671,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60942,
       "num": 60942,
       "word": "虞书欣王鹤棣张凌赫三十秒文学",
       "onboard_time": 1663499368,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 56811,
+      "num": 56811,
+      "word": "大兴安岭迎来入秋后第一场雪",
+      "onboard_time": 1663533611,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38091,
@@ -443,6 +467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 36927,
+      "num": 36927,
+      "word": "女子失足5楼掉下挂在3楼雨棚",
+      "onboard_time": 1663537992,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24436,
       "num": 24436,
       "word": "电影妈妈票房破5000万",
@@ -451,32 +483,16 @@
       "category": "影视"
     },
     {
-      "raw_hot": 20849,
-      "num": 20849,
-      "word": "娘家人排长队给宝宝送满月礼",
-      "onboard_time": 1663529111,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20080,
-      "num": 20080,
-      "word": "大兴安岭迎来入秋后第一场雪",
-      "onboard_time": 1663533611,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11204,
-      "num": 11204,
+      "raw_hot": 14177,
+      "num": 14177,
       "word": "天花板级别的军训汇演",
       "onboard_time": 1663528032,
       "rank": 48,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 9042,
-      "num": 9042,
+      "raw_hot": 13142,
+      "num": 13142,
       "word": "奥格斯堡1比0拜仁",
       "onboard_time": 1663536371,
       "rank": 40,
@@ -488,14 +504,6 @@
       "word": "英雄回家",
       "onboard_time": 1663384585,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 7563,
-      "num": 8917,
-      "word": "台湾花莲7千多户停电",
-      "onboard_time": 1663536671,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
