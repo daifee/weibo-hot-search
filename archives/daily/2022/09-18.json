@@ -1,6 +1,6 @@
 {
   "startTime": 1663432368625,
-  "endTime": 1663509060498,
+  "endTime": 1663510848355,
   "band_list": [
     {
       "raw_hot": 5286401,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1997536,
-      "num": 318109,
+      "num": 384840,
       "word": "王欣凌",
       "onboard_time": 1663499429,
       "rank": 22,
@@ -235,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1313828,
+      "num": 1313828,
+      "word": "731部队用跳蚤感染鼠疫后咬人",
+      "onboard_time": 1663501832,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1312084,
       "num": 186502,
       "word": "微信支付",
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 1222594,
-      "num": 184339,
+      "num": 184776,
       "word": "微信小程序崩了",
       "onboard_time": 1663502729,
       "rank": 30,
@@ -312,14 +320,6 @@
       "word": "台湾6.5级地震",
       "onboard_time": 1663423234,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 992662,
-      "num": 992662,
-      "word": "731部队用跳蚤感染鼠疫后咬人",
-      "onboard_time": 1663501832,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -443,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 727423,
+      "num": 727423,
+      "word": "上海国庆假期倡导本地过节",
+      "onboard_time": 1663508611,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 714727,
       "num": 714727,
       "word": "南非向英王室讨要非洲之星钻石",
@@ -473,6 +481,14 @@
       "onboard_time": 1663485752,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 682114,
+      "num": 682114,
+      "word": "减肥对颜值的影响有多重要",
+      "onboard_time": 1663504049,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 670903,
@@ -515,14 +531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 630645,
-      "num": 630645,
-      "word": "减肥对颜值的影响有多重要",
-      "onboard_time": 1663504049,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 614533,
       "num": 438979,
       "word": "张凌赫 花环",
@@ -547,6 +555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 573223,
+      "num": 573223,
+      "word": "运动超过半小时才是有效减肥",
+      "onboard_time": 1663507171,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 570405,
       "num": 570405,
       "word": "能不能不卷了",
@@ -561,6 +577,14 @@
       "onboard_time": 1663494090,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 561001,
+      "num": 561001,
+      "word": "TVB刑侦悬疑剧OST大赏",
+      "onboard_time": 1663508131,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 546117,
@@ -587,20 +611,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 528542,
-      "num": 528542,
-      "word": "TVB刑侦悬疑剧OST大赏",
-      "onboard_time": 1663508131,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 526661,
       "num": 526661,
       "word": "关晓彤往前走一步看王鹤棣虞书欣",
       "onboard_time": 1663464449,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 513328,
+      "num": 513328,
+      "word": "著名导演伍迪艾伦宣布退休",
+      "onboard_time": 1663505733,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 510825,
@@ -643,14 +667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 481866,
-      "num": 481866,
-      "word": "著名导演伍迪艾伦宣布退休",
-      "onboard_time": 1663505733,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 475579,
       "num": 475579,
       "word": "湖南地震",
@@ -675,20 +691,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 453112,
+      "num": 453112,
+      "word": "男子自酿葡萄酒3天开盖喷3米高",
+      "onboard_time": 1663505613,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 448631,
       "num": 448631,
       "word": "郭艾伦官宣续约辽宁男篮",
       "onboard_time": 1663486895,
       "rank": 14,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 446709,
-      "num": 446709,
-      "word": "男子自酿葡萄酒3天开盖喷3米高",
-      "onboard_time": 1663505613,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 442224,
@@ -744,6 +760,14 @@
       "word": "男子8杯酒下肚打110约战被KO",
       "onboard_time": 1663476089,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 398224,
+      "num": 398224,
+      "word": "冷空气下周发货",
+      "onboard_time": 1663507832,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -899,6 +923,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 335915,
+      "num": 335915,
+      "word": "上海警方回应黄浦江畔出现鳄鱼",
+      "onboard_time": 1663509992,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 330742,
       "num": 330742,
       "word": "黑话律师",
@@ -939,11 +971,11 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 302851,
-      "num": 302851,
-      "word": "运动超过半小时才是有效减肥",
-      "onboard_time": 1663507171,
-      "rank": 26,
+      "raw_hot": 302586,
+      "num": 302586,
+      "word": "员工故意旷工被开除起诉索赔12万",
+      "onboard_time": 1663509811,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -985,6 +1017,14 @@
       "onboard_time": 1663476268,
       "rank": 20,
       "category": "教育"
+    },
+    {
+      "raw_hot": 293220,
+      "num": 109362,
+      "word": "美为获取731实验资料对日军战犯豁免",
+      "onboard_time": 1663510832,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 291116,
@@ -1036,7 +1076,7 @@
     },
     {
       "raw_hot": 270284,
-      "num": 176386,
+      "num": 183845,
       "word": "你安全吗丁阿姨信息泄漏被骗20万",
       "onboard_time": 1663508911,
       "rank": 33,
@@ -1099,14 +1139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 249993,
-      "num": 249993,
-      "word": "冷空气下周发货",
-      "onboard_time": 1663507832,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 248599,
       "num": 248599,
       "word": "以为军训队伍混进了一小孩",
@@ -1163,14 +1195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 233783,
-      "num": 233783,
-      "word": "上海国庆假期倡导本地过节",
-      "onboard_time": 1663508611,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 228199,
       "num": 104323,
       "word": "这就是街舞",
@@ -1201,6 +1225,14 @@
       "onboard_time": 1663413204,
       "rank": 16,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 223724,
+      "num": 181762,
+      "word": "极限挑战",
+      "onboard_time": 1663508252,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 223124,
@@ -1411,6 +1443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 179669,
+      "num": 179669,
+      "word": "广东真的有秋天吗",
+      "onboard_time": 1663510413,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178769,
       "num": 178769,
       "word": "福建多地有明显震感",
@@ -1505,6 +1545,14 @@
       "onboard_time": 1663410446,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 156940,
+      "num": 156940,
+      "word": "当狗狗有了新玩具",
+      "onboard_time": 1663509514,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 154762,
@@ -1603,14 +1651,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 138111,
-      "num": 138111,
-      "word": "极限挑战",
-      "onboard_time": 1663508252,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 136724,
       "num": 136724,
       "word": "在东北拍外景有多难",
@@ -1633,6 +1673,14 @@
       "onboard_time": 1663478126,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126802,
+      "num": 126802,
+      "word": "解说杯",
+      "onboard_time": 1663506332,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 126577,
@@ -1769,14 +1817,6 @@
       "onboard_time": 1663474709,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 103126,
-      "num": 103126,
-      "word": "解说杯",
-      "onboard_time": 1663506332,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 101860,

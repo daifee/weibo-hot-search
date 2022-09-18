@@ -1,6 +1,6 @@
 {
   "startTime": 1662913909726,
-  "endTime": 1663509060498,
+  "endTime": 1663510848355,
   "band_list": [
     {
       "raw_hot": 20529209,
@@ -628,7 +628,7 @@
     },
     {
       "raw_hot": 1997536,
-      "num": 318109,
+      "num": 384840,
       "word": "王欣凌",
       "onboard_time": 1663499429,
       "rank": 22,
@@ -1427,6 +1427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1313828,
+      "num": 1313828,
+      "word": "731部队用跳蚤感染鼠疫后咬人",
+      "onboard_time": 1663501832,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1312544,
       "num": 720025,
       "word": "朴彩英solo",
@@ -1668,7 +1676,7 @@
     },
     {
       "raw_hot": 1222594,
-      "num": 184339,
+      "num": 184776,
       "word": "微信小程序崩了",
       "onboard_time": 1663502729,
       "rank": 30,
@@ -2369,14 +2377,6 @@
       "onboard_time": 1663399046,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 992662,
-      "num": 992662,
-      "word": "731部队用跳蚤感染鼠疫后咬人",
-      "onboard_time": 1663501832,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 992242,
@@ -3411,6 +3411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 727423,
+      "num": 727423,
+      "word": "上海国庆假期倡导本地过节",
+      "onboard_time": 1663508611,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 722846,
       "num": 722846,
       "word": "长沙疫情防控",
@@ -3617,6 +3625,14 @@
       "onboard_time": 1663302631,
       "rank": 21,
       "category": "科技"
+    },
+    {
+      "raw_hot": 682114,
+      "num": 682114,
+      "word": "减肥对颜值的影响有多重要",
+      "onboard_time": 1663504049,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 680550,
@@ -3913,14 +3929,6 @@
       "onboard_time": 1663472128,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 630645,
-      "num": 630645,
-      "word": "减肥对颜值的影响有多重要",
-      "onboard_time": 1663504049,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 626912,
@@ -4243,6 +4251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 573223,
+      "num": 573223,
+      "word": "运动超过半小时才是有效减肥",
+      "onboard_time": 1663507171,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 572655,
       "num": 572655,
       "word": "羊了个羊为何突然爆火",
@@ -4313,6 +4329,14 @@
       "onboard_time": 1663127194,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 561001,
+      "num": 561001,
+      "word": "TVB刑侦悬疑剧OST大赏",
+      "onboard_time": 1663508131,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 560955,
@@ -4627,14 +4651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 528542,
-      "num": 528542,
-      "word": "TVB刑侦悬疑剧OST大赏",
-      "onboard_time": 1663508131,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 528258,
       "num": 528258,
       "word": "男子5万承包野鱼塘仅捞出4条鱼",
@@ -4737,6 +4753,14 @@
       "onboard_time": 1663294471,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 513328,
+      "num": 513328,
+      "word": "著名导演伍迪艾伦宣布退休",
+      "onboard_time": 1663505733,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 513311,
@@ -5009,14 +5033,6 @@
       "onboard_time": 1663323453,
       "rank": 27,
       "category": "美食"
-    },
-    {
-      "raw_hot": 481866,
-      "num": 481866,
-      "word": "著名导演伍迪艾伦宣布退休",
-      "onboard_time": 1663505733,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 481621,
@@ -5379,6 +5395,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 453112,
+      "num": 453112,
+      "word": "男子自酿葡萄酒3天开盖喷3米高",
+      "onboard_time": 1663505613,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 450962,
       "num": 450962,
       "word": "罗一舟张凌赫陈星旭天天向上路透",
@@ -5449,14 +5473,6 @@
       "onboard_time": 1663290089,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 446709,
-      "num": 446709,
-      "word": "男子自酿葡萄酒3天开盖喷3米高",
-      "onboard_time": 1663505613,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 445310,
@@ -6088,6 +6104,14 @@
       "word": "逃犯在缅甸完不成业绩罚做2千深蹲",
       "onboard_time": 1663346662,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 398224,
+      "num": 398224,
+      "word": "冷空气下周发货",
+      "onboard_time": 1663507832,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -6987,6 +7011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 335915,
+      "num": 335915,
+      "word": "上海警方回应黄浦江畔出现鳄鱼",
+      "onboard_time": 1663509992,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 335757,
       "num": 335757,
       "word": "覆流年",
@@ -7723,14 +7755,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 302851,
-      "num": 302851,
-      "word": "运动超过半小时才是有效减肥",
-      "onboard_time": 1663507171,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 302843,
       "num": 242967,
       "word": "周迅脱口秀",
@@ -7745,6 +7769,14 @@
       "onboard_time": 1663318368,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 302586,
+      "num": 302586,
+      "word": "员工故意旷工被开除起诉索赔12万",
+      "onboard_time": 1663509811,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 302515,
@@ -7977,6 +8009,14 @@
       "onboard_time": 1663051174,
       "rank": 33,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 293220,
+      "num": 109362,
+      "word": "美为获取731实验资料对日军战犯豁免",
+      "onboard_time": 1663510832,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 292686,
@@ -8508,7 +8548,7 @@
     },
     {
       "raw_hot": 270284,
-      "num": 176386,
+      "num": 183845,
       "word": "你安全吗丁阿姨信息泄漏被骗20万",
       "onboard_time": 1663508911,
       "rank": 33,
@@ -9075,14 +9115,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 249993,
-      "num": 249993,
-      "word": "冷空气下周发货",
-      "onboard_time": 1663507832,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 249319,
       "num": 216813,
       "word": "莲花楼角色概念片",
@@ -9491,14 +9523,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 233783,
-      "num": 233783,
-      "word": "上海国庆假期倡导本地过节",
-      "onboard_time": 1663508611,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 232938,
       "num": 232938,
       "word": "东软",
@@ -9729,6 +9753,14 @@
       "onboard_time": 1663332272,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223724,
+      "num": 181762,
+      "word": "极限挑战",
+      "onboard_time": 1662900715,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 223124,
@@ -10435,14 +10467,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 197717,
-      "num": 138111,
-      "word": "极限挑战",
-      "onboard_time": 1662900715,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 197261,
       "num": 197261,
       "word": "田曦薇新剧抱了只鸡",
@@ -10960,6 +10984,14 @@
       "word": "军人救人又救火获10万奖金全捐了",
       "onboard_time": 1663387286,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179669,
+      "num": 179669,
+      "word": "广东真的有秋天吗",
+      "onboard_time": 1663510413,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -11529,6 +11561,14 @@
       "onboard_time": 1663235611,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156940,
+      "num": 156940,
+      "word": "当狗狗有了新玩具",
+      "onboard_time": 1663509514,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 156174,
@@ -12259,6 +12299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126802,
+      "num": 126802,
+      "word": "解说杯",
+      "onboard_time": 1663506332,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 126749,
       "num": 126749,
       "word": "见过最有压迫感的猫",
@@ -12873,14 +12921,6 @@
       "onboard_time": 1662879629,
       "rank": 28,
       "category": "科技,情感"
-    },
-    {
-      "raw_hot": 103126,
-      "num": 103126,
-      "word": "解说杯",
-      "onboard_time": 1663506332,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 102239,

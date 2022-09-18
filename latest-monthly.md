@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/18 21:51:00
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/18 22:20:48
 </p>
 </blockquote>
 <p>
@@ -3039,6 +3039,12 @@ RNG战胜LNG（热度：1320456）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23731%E9%83%A8%E9%98%9F%E7%94%A8%E8%B7%B3%E8%9A%A4%E6%84%9F%E6%9F%93%E9%BC%A0%E7%96%AB%E5%90%8E%E5%92%AC%E4%BA%BA%23" target="weibo">
+731部队用跳蚤感染鼠疫后咬人（热度：1313828）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%9A%84%E4%B8%80%E4%B8%AA%E7%9C%81%E6%B2%A1%E6%9C%89%E4%BB%80%E4%B9%88%E5%9B%BD%E9%98%B2%E9%83%A8%23" target="weibo">
 台湾是中国的一个省没有什么国防部（热度：1313804）
 </a>
@@ -4667,12 +4673,6 @@ BLACKPINK新歌未通过KBS审议（热度：999636）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E6%A3%A3%E6%AC%A3%E5%BC%95%E5%8A%9B%E7%9A%84%E4%BD%9C%E7%94%A8%E4%B8%8B%E7%99%BD%E8%B6%8A%E5%85%89%E4%BD%A0%E5%B0%86%E5%90%B4%E9%9C%B2%E5%8F%AF%E9%80%83%23" target="weibo">
 在棣欣引力的作用下白越光你将吴露可逃（热度：992832）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23731%E9%83%A8%E9%98%9F%E7%94%A8%E8%B7%B3%E8%9A%A4%E6%84%9F%E6%9F%93%E9%BC%A0%E7%96%AB%E5%90%8E%E5%92%AC%E4%BA%BA%23" target="weibo">
-731部队用跳蚤感染鼠疫后咬人（热度：992662）
 </a>
 </li>
 
