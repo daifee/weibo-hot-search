@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/19 06:41:10
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/19 07:24:34
 </p>
 </blockquote>
 <p>
@@ -443,6 +443,12 @@ iPhone14（热度：4450676）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%B8%E5%AE%9A%E5%9C%B0%E9%9C%877%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
 泸定地震7人遇难（热度：3314612）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B4%B5%E9%98%B3%E9%80%9A%E6%8A%A5%E5%90%91%E5%85%A8%E7%A4%BE%E4%BC%9A%E4%BD%9C%E5%87%BA%E8%AF%9A%E6%81%B3%E9%81%93%E6%AD%89%23" target="weibo">
+贵阳通报向全社会作出诚恳道歉（热度：3292318）
 </a>
 </li>
 
@@ -1241,12 +1247,6 @@ EDG让二追三RNG（热度：2082083）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C98%E5%85%83%E6%8C%82%E7%BB%B3%E5%B7%B2%E7%BC%BA%E8%B4%A7%23" target="weibo">
 苹果98元挂绳已缺货（热度：2070239）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B4%B5%E9%98%B3%E9%80%9A%E6%8A%A5%E5%90%91%E5%85%A8%E7%A4%BE%E4%BC%9A%E4%BD%9C%E5%87%BA%E8%AF%9A%E6%81%B3%E9%81%93%E6%AD%89%23" target="weibo">
-贵阳通报向全社会作出诚恳道歉（热度：2069906）
 </a>
 </li>
 
@@ -2057,6 +2057,12 @@ iPhone14 Plus（热度：1672968）
 <li>
 <a href="https://s.weibo.com/weibo?q=%239%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%BE%97%E7%B3%96%E5%B0%BF%E7%97%85%E8%A1%80%E6%B6%B2%E4%BC%BC%E5%86%BB%E7%8C%AA%E6%B2%B9%23" target="weibo">
 9岁女孩得糖尿病血液似冻猪油（热度：1627039）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%A4%AA%E5%88%87%E9%99%A4%E5%A4%9A%E5%99%A8%E5%AE%983%E4%B8%AA%E6%9C%88%E5%90%8E%E5%8E%BB%E4%B8%96%23" target="weibo">
+老太切除多器官3个月后去世（热度：1623282）
 </a>
 </li>
 
@@ -3149,12 +3155,6 @@ Uzi解说（热度：1300820）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B6%E8%8C%B6%E6%BA%85%E5%85%A5%E7%94%B5%E8%84%91%E6%98%BE%E7%A4%BA%E5%B1%8F%E8%87%B4%E8%9A%82%E8%9A%81%E7%AD%91%E5%B7%A2%23" target="weibo">
 奶茶溅入电脑显示屏致蚂蚁筑巢（热度：1299254）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%A4%AA%E5%88%87%E9%99%A4%E5%A4%9A%E5%99%A8%E5%AE%983%E4%B8%AA%E6%9C%88%E5%90%8E%E5%8E%BB%E4%B8%96%23" target="weibo">
-老太切除多器官3个月后去世（热度：1298885）
 </a>
 </li>
 
