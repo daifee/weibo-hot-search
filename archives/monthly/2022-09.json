@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1663536041264,
+  "endTime": 1663537132953,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -36643,11 +36643,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20849,
+      "num": 20849,
+      "word": "娘家人排长队给宝宝送满月礼",
+      "onboard_time": 1663529111,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20412,
       "num": 527464,
       "word": "短片凡心微光",
       "onboard_time": 1663135229,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20080,
+      "num": 20080,
+      "word": "大兴安岭迎来入秋后第一场雪",
+      "onboard_time": 1663533611,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -36699,14 +36715,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 16903,
-      "num": 16903,
-      "word": "娘家人排长队给宝宝送满月礼",
-      "onboard_time": 1663529111,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 14889,
       "num": 197489,
       "word": "跑鞋你可能没选对",
@@ -36729,14 +36737,6 @@
       "onboard_time": 1663018933,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 13156,
-      "num": 13156,
-      "word": "大兴安岭迎来入秋后第一场雪",
-      "onboard_time": 1663533611,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13153,
@@ -36763,8 +36763,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 11195,
-      "num": 11195,
+      "raw_hot": 11204,
+      "num": 11204,
       "word": "天花板级别的军训汇演",
       "onboard_time": 1663528032,
       "rank": 48,
@@ -36819,6 +36819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 9042,
+      "num": 9042,
+      "word": "奥格斯堡1比0拜仁",
+      "onboard_time": 1663536371,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 8649,
       "num": 8649,
       "word": "辅警7秒飞身救下扶梯摔倒老人",
@@ -36849,6 +36857,14 @@
       "onboard_time": 1662721229,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 7563,
+      "num": 8917,
+      "word": "台湾花莲7千多户停电",
+      "onboard_time": 1663536671,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 7544,
@@ -36995,6 +37011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 6328,
+      "num": 8875,
+      "word": "宋亚东报平安",
+      "onboard_time": 1663536733,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 6272,
       "num": 6391,
       "word": "星轨划过故宫午门",
@@ -37025,6 +37049,22 @@
       "onboard_time": 1662548429,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5844,
+      "num": 8847,
+      "word": "维埃拉英超处子球",
+      "onboard_time": 1663536431,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 5652,
+      "num": 8827,
+      "word": "小学生吵架老师让两人互夸化解矛盾",
+      "onboard_time": 1663534931,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 4988,
