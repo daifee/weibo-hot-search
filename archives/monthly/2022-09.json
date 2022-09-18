@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1663532700460,
+  "endTime": 1663533673314,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -36547,6 +36547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24436,
+      "num": 24436,
+      "word": "电影妈妈票房破5000万",
+      "onboard_time": 1663527853,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 24362,
       "num": 401020,
       "word": "特步发布会",
@@ -36561,14 +36569,6 @@
       "onboard_time": 1663179315,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 24249,
-      "num": 24249,
-      "word": "电影妈妈票房破5000万",
-      "onboard_time": 1663527853,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 24223,
@@ -36755,8 +36755,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 11141,
-      "num": 11141,
+      "raw_hot": 11195,
+      "num": 11195,
       "word": "天花板级别的军训汇演",
       "onboard_time": 1663528032,
       "rank": 48,
@@ -36875,6 +36875,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 7206,
+      "num": 7206,
+      "word": "孙女为9旬奶奶拍少女感生日照",
+      "onboard_time": 1663533371,
+      "rank": 48,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 7199,
       "num": 7199,
       "word": "国足选帅倾向外教",
@@ -36889,6 +36897,14 @@
       "onboard_time": 1662323950,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 7008,
+      "num": 7008,
+      "word": "大兴安岭迎来入秋后第一场雪",
+      "onboard_time": 1663533611,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 6857,
