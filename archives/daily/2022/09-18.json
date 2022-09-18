@@ -1,7 +1,15 @@
 {
   "startTime": 1663432368625,
-  "endTime": 1663476060749,
+  "endTime": 1663476407378,
   "band_list": [
+    {
+      "raw_hot": 2590116,
+      "num": 2590116,
+      "word": "孩子吐血爸爸开车紧张到四肢抽搐",
+      "onboard_time": 1663472668,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2531250,
       "num": 2531250,
@@ -9,14 +17,6 @@
       "onboard_time": 1663432226,
       "rank": 26,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 2527648,
-      "num": 2527648,
-      "word": "孩子吐血爸爸开车紧张到四肢抽搐",
-      "onboard_time": 1663472668,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2348262,
@@ -67,20 +67,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1576939,
+      "num": 1576939,
+      "word": "烂尾的韩剧",
+      "onboard_time": 1663472066,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1568341,
       "num": 1568341,
       "word": "其实是我孤立了全班",
       "onboard_time": 1663467511,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1440745,
-      "num": 1440745,
-      "word": "烂尾的韩剧",
-      "onboard_time": 1663472066,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 1433775,
@@ -203,20 +203,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 643629,
+      "num": 643629,
+      "word": "日军731部队曾用幼儿制作标本",
+      "onboard_time": 1663471947,
+      "rank": 13,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 632106,
       "num": 632106,
       "word": "日本台风",
       "onboard_time": 1663472128,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 627170,
-      "num": 627170,
-      "word": "日军731部队曾用幼儿制作标本",
-      "onboard_time": 1663471947,
-      "rank": 13,
-      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 570405,
@@ -291,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 453071,
+      "num": 453071,
+      "word": "210斤小伙减重80斤后颜值大变",
+      "onboard_time": 1663474948,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 442224,
       "num": 442224,
       "word": "成都防空警报",
@@ -331,19 +339,19 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 374283,
+      "num": 374283,
+      "word": "日本战犯土肥原贤二的罪恶档案",
+      "onboard_time": 1663472305,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 369750,
       "num": 369750,
       "word": "广东女子收男友黄金项链掉色",
       "onboard_time": 1663428213,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 364588,
-      "num": 364588,
-      "word": "日本战犯土肥原贤二的罪恶档案",
-      "onboard_time": 1663472305,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -411,11 +419,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 336906,
-      "num": 336906,
-      "word": "210斤小伙减重80斤后颜值大变",
-      "onboard_time": 1663474948,
-      "rank": 17,
+      "raw_hot": 332135,
+      "num": 332135,
+      "word": "日本发布最高级别预警",
+      "onboard_time": 1663475188,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -449,6 +457,14 @@
       "onboard_time": 1663469309,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 298163,
+      "num": 298163,
+      "word": "法考",
+      "onboard_time": 1663476268,
+      "rank": 20,
+      "category": "教育"
     },
     {
       "raw_hot": 291116,
@@ -491,6 +507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 261598,
+      "num": 261598,
+      "word": "粉笔模考",
+      "onboard_time": 1663472547,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 252139,
       "num": 252139,
       "word": "九位爱国知识分子冒死搜集日军侵华罪证",
@@ -512,22 +536,6 @@
       "word": "侵华日军100部队细菌战新罪证",
       "onboard_time": 1663466005,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 245211,
-      "num": 245211,
-      "word": "粉笔模考",
-      "onboard_time": 1663472547,
-      "rank": 22,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 243154,
-      "num": 243154,
-      "word": "日本发布最高级别预警",
-      "onboard_time": 1663475188,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -579,20 +587,28 @@
       "category": "其它"
     },
     {
+      "raw_hot": 221722,
+      "num": 221722,
+      "word": "男子境外诈骗业绩差被公司3万卖掉",
+      "onboard_time": 1663474888,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215163,
+      "num": 215163,
+      "word": "家长带孩子在店铺玻璃前小便",
+      "onboard_time": 1663474109,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212926,
       "num": 157550,
       "word": "棣欣引力悄悄话",
       "onboard_time": 1663424313,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 210718,
-      "num": 210718,
-      "word": "家长带孩子在店铺玻璃前小便",
-      "onboard_time": 1663474109,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 206809,
@@ -623,14 +639,6 @@
       "num": 193906,
       "word": "防空警报",
       "onboard_time": 1663469369,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 191713,
-      "num": 191713,
-      "word": "男子境外诈骗业绩差被公司3万卖掉",
-      "onboard_time": 1663474888,
       "rank": 29,
       "category": "社会新闻"
     },
@@ -667,6 +675,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 176181,
+      "num": 176181,
+      "word": "网友总结95生代表角色",
+      "onboard_time": 1663475069,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 173576,
       "num": 173576,
       "word": "罗伊斯",
@@ -691,6 +707,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 162551,
+      "num": 162551,
+      "word": "两位新娘偶遇互换捧花祝福",
+      "onboard_time": 1663475729,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161915,
       "num": 161915,
       "word": "沈阳敲响14声警钟",
@@ -699,12 +723,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 159335,
-      "num": 159335,
-      "word": "网友总结95生代表角色",
-      "onboard_time": 1663475069,
-      "rank": 34,
-      "category": "影视"
+      "raw_hot": 159612,
+      "num": 159612,
+      "word": "手机直连卫星时代来了",
+      "onboard_time": 1663473748,
+      "rank": 35,
+      "category": "科技"
     },
     {
       "raw_hot": 159001,
@@ -747,14 +771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 154542,
-      "num": 154542,
-      "word": "手机直连卫星时代来了",
-      "onboard_time": 1663473748,
-      "rank": 35,
-      "category": "科技"
-    },
-    {
       "raw_hot": 154253,
       "num": 154253,
       "word": "和猫咪独处时的状态",
@@ -771,8 +787,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 150602,
-      "num": 150602,
+      "raw_hot": 150943,
+      "num": 150943,
       "word": "两个人的小森林",
       "onboard_time": 1663457359,
       "rank": 23,
@@ -835,14 +851,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 134651,
-      "num": 134651,
-      "word": "两位新娘偶遇互换捧花祝福",
-      "onboard_time": 1663475729,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132884,
       "num": 132884,
       "word": "2022LBL",
@@ -867,12 +875,28 @@
       "category": "幽默,教育"
     },
     {
+      "raw_hot": 119544,
+      "num": 119544,
+      "word": "男子8杯酒下肚打110约战被KO",
+      "onboard_time": 1663476089,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118479,
       "num": 118479,
       "word": "深圳人的周末有多快乐",
       "onboard_time": 1663412966,
       "rank": 38,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 115296,
+      "num": 115296,
+      "word": "这个牙刷好像有自己想法",
+      "onboard_time": 1663476028,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 114011,
@@ -945,14 +969,6 @@
       "onboard_time": 1663474709,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 104064,
-      "num": 104064,
-      "word": "这个牙刷好像有自己想法",
-      "onboard_time": 1663476028,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 96657,
