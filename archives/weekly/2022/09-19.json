@@ -1,7 +1,15 @@
 {
   "startTime": 1663518759246,
-  "endTime": 1663564202438,
+  "endTime": 1663568223996,
   "band_list": [
+    {
+      "raw_hot": 3431325,
+      "num": 3431325,
+      "word": "我的县长父亲",
+      "onboard_time": 1663562432,
+      "rank": 8,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 3307531,
       "num": 2069906,
@@ -41,14 +49,6 @@
       "onboard_time": 1663553728,
       "rank": 0,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2125509,
-      "num": 2125509,
-      "word": "我的县长父亲",
-      "onboard_time": 1663562432,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1972549,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1157020,
+      "num": 636636,
+      "word": "Angelababy银色短发造型封面",
+      "onboard_time": 1663567110,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1123869,
       "num": 1123869,
       "word": "iPhone14Pro被吐槽后盖不耐划",
@@ -121,6 +129,14 @@
       "onboard_time": 1663554207,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1091297,
+      "num": 1091297,
+      "word": "老人头痛欲裂竟是被蜱虫连吸数日",
+      "onboard_time": 1663563513,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1063148,
@@ -153,6 +169,14 @@
       "onboard_time": 1663553666,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 953314,
+      "num": 953314,
+      "word": "英女王葬礼举行",
+      "onboard_time": 1663565488,
+      "rank": 4,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 900658,
@@ -211,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 713773,
+      "num": 713773,
+      "word": "戴美瞳会把泪膜一分为二",
+      "onboard_time": 1663561351,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 686360,
       "num": 686360,
       "word": "杨紫长相思大婚路透",
@@ -219,12 +251,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 670598,
-      "num": 670598,
-      "word": "戴美瞳会把泪膜一分为二",
-      "onboard_time": 1663561351,
-      "rank": 15,
+      "raw_hot": 645644,
+      "num": 645644,
+      "word": "爸爸为救4月大女儿日拌涂料20吨",
+      "onboard_time": 1663563331,
+      "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 645345,
+      "num": 645345,
+      "word": "百分百开麦官宣",
+      "onboard_time": 1663567769,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 624945,
@@ -275,12 +315,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 563018,
+      "num": 563018,
+      "word": "网红烹食大白鲨后续",
+      "onboard_time": 1663566209,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 545550,
       "num": 545550,
       "word": "小青和法海竟然是be美学",
       "onboard_time": 1663547610,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 496680,
+      "num": 496680,
+      "word": "前车突然变道SUV被迫刀片超车",
+      "onboard_time": 1663564650,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 459523,
@@ -331,6 +387,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 388683,
+      "num": 388683,
+      "word": "为什么不建议学龄前儿童自己刷牙",
+      "onboard_time": 1663563092,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 379247,
       "num": 329772,
       "word": "那英加盟喜剧大赛2",
@@ -376,6 +440,22 @@
       "word": "广安区暂停一切非必要人员流动",
       "onboard_time": 1663555709,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351083,
+      "num": 351083,
+      "word": "iPhone14采用高通卫星芯片",
+      "onboard_time": 1663566029,
+      "rank": 17,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 348947,
+      "num": 348947,
+      "word": "日本65岁以上就业人数达909万",
+      "onboard_time": 1663564113,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -427,8 +507,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 316940,
+      "num": 316940,
+      "word": "男生发现3年前学长留下的千字书信",
+      "onboard_time": 1663562855,
+      "rank": 43,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 315092,
-      "num": 240741,
+      "num": 265562,
       "word": "任嘉伦新剧战损妆",
       "onboard_time": 1663563513,
       "rank": 32,
@@ -531,14 +619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 245957,
-      "num": 245957,
-      "word": "男生发现3年前学长留下的千字书信",
-      "onboard_time": 1663562855,
-      "rank": 43,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 243882,
       "num": 100157,
       "word": "小鬼王琳凯DEADLINE实体专辑",
@@ -587,6 +667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 231212,
+      "num": 231212,
+      "word": "四川新增本土确诊48例无症状47例",
+      "onboard_time": 1663565431,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230399,
       "num": 230399,
       "word": "正确使用耳机应遵循三个60原则",
@@ -627,12 +715,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 220485,
-      "num": 220485,
-      "word": "为什么不建议学龄前儿童自己刷牙",
-      "onboard_time": 1663563092,
-      "rank": 44,
-      "category": "教育"
+      "raw_hot": 217881,
+      "num": 217881,
+      "word": "小米11系列屡曝质量问题遭维权",
+      "onboard_time": 1663567167,
+      "rank": 29,
+      "category": "科技"
     },
     {
       "raw_hot": 210423,
@@ -641,22 +729,6 @@
       "onboard_time": 1663546769,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 209352,
-      "num": 209352,
-      "word": "老人头痛欲裂竟是被蜱虫连吸数日",
-      "onboard_time": 1663563513,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 207212,
-      "num": 207212,
-      "word": "爸爸为救4月大女儿日拌涂料20吨",
-      "onboard_time": 1663563331,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204585,
@@ -689,6 +761,14 @@
       "onboard_time": 1663543221,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199143,
+      "num": 199143,
+      "word": "周琦将继续效力海外联赛",
+      "onboard_time": 1663566450,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 198809,
@@ -739,6 +819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 186119,
+      "num": 186119,
+      "word": "蓝色生命线",
+      "onboard_time": 1663567529,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185516,
       "num": 185516,
       "word": "减肥对颜值的影响有多重要",
@@ -787,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165799,
+      "num": 165799,
+      "word": "爱情而已吴磊周雨彤吻戏好甜",
+      "onboard_time": 1663566270,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 164755,
       "num": 164755,
       "word": "冷空气下周发货",
@@ -801,6 +897,14 @@
       "onboard_time": 1663499368,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 163789,
+      "num": 163789,
+      "word": "网剧罚罪",
+      "onboard_time": 1663566329,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 163655,
@@ -947,14 +1051,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 121393,
-      "num": 135871,
-      "word": "日本65岁以上就业人数达909万",
-      "onboard_time": 1663564113,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120824,
       "num": 120824,
       "word": "孙芮跳的采茶舞",
@@ -1024,6 +1120,14 @@
       "word": "爸爸给2岁女儿脱衣洗漱被骂流氓",
       "onboard_time": 1663485514,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102349,
+      "num": 102349,
+      "word": "这段录音记录下地震瞬间的生死抉择",
+      "onboard_time": 1663568009,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
