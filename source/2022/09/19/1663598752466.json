@@ -1,0 +1,410 @@
+{
+  "runTime": 1663598752466,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2752036,
+        "num": 2752036,
+        "word": "148一盒的敷尔佳面膜成本仅10元",
+        "onboard_time": 1663593387,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1728554,
+        "num": 1728554,
+        "word": "虞书欣爷爷友情客串两个人的小森林",
+        "onboard_time": 1663596391,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110169,
+        "num": 1473329,
+        "word": "让禾下乘凉梦遍地开花",
+        "onboard_time": 1663591949,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2277556,
+        "num": 1420322,
+        "word": "IU耳朵出问题已长达1年",
+        "onboard_time": 1663598371,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1358879,
+        "num": 1358879,
+        "word": "浙江义乌要求下架槟榔",
+        "onboard_time": 1663595370,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 961104,
+        "num": 961104,
+        "word": "贵阳市三名干部被停职检查",
+        "onboard_time": 1663585887,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 758866,
+        "num": 758866,
+        "word": "中免日上",
+        "onboard_time": 1663592607,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 685775,
+        "num": 685775,
+        "word": "iPhone14截屏带岛",
+        "onboard_time": 1663582526,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 645725,
+        "num": 645725,
+        "word": "任嘉伦被摸美人骨梦回周生辰",
+        "onboard_time": 1663588408,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 576764,
+        "num": 635233,
+        "word": "广东廉江",
+        "onboard_time": 1663594106,
+        "rank": 9,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 734969,
+        "num": 631896,
+        "word": "王鹤棣换微博头像",
+        "onboard_time": 1663592428,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 625402,
+        "num": 625402,
+        "word": "陈都灵狐妖小红娘绿衣造型",
+        "onboard_time": 1663590927,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 620302,
+        "num": 620302,
+        "word": "任命张翰为黄晓明负责油腻工作",
+        "onboard_time": 1663597952,
+        "rank": 12,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 450477,
+        "num": 450477,
+        "word": "月销千万元的牛肉干里没牛肉",
+        "onboard_time": 1663588767,
+        "rank": 13,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 418725,
+        "num": 418725,
+        "word": "小米回应11系列屡曝质量问题",
+        "onboard_time": 1663596689,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 396007,
+        "num": 396007,
+        "word": "小狗带车撞人",
+        "onboard_time": 1663573647,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 381907,
+        "num": 381907,
+        "word": "董宇辉解释玉米贵",
+        "onboard_time": 1663594586,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347289,
+        "num": 347289,
+        "word": "男子养8年猫被邻居捡走拒归还",
+        "onboard_time": 1663593026,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322618,
+        "num": 322618,
+        "word": "三只松鼠被曝吃出油炸壁虎",
+        "onboard_time": 1663577967,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321874,
+        "num": 321874,
+        "word": "大庆疫情防控",
+        "onboard_time": 1663597282,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 547768,
+        "num": 320889,
+        "word": "成毅新剧又被扒拉",
+        "onboard_time": 1663598311,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 437018,
+        "num": 317202,
+        "word": "低开高走的国产剧",
+        "onboard_time": 1663580065,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 336568,
+        "num": 312266,
+        "word": "张艺兴马来西亚演唱会门票开售",
+        "onboard_time": 1663592847,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 304069,
+        "num": 304069,
+        "word": "姥姥送的兔子被宰7岁娃崩溃大哭",
+        "onboard_time": 1663584147,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285935,
+        "num": 285935,
+        "word": "我的县长父亲作者回应",
+        "onboard_time": 1663586247,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301669,
+        "num": 279443,
+        "word": "李沁请君顶级BE美学",
+        "onboard_time": 1663596331,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266298,
+        "num": 266298,
+        "word": "受困狗妈皮包骨5个崽却胖乎乎",
+        "onboard_time": 1663592187,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261912,
+        "num": 261912,
+        "word": "重庆猴痘病例病毒与德国病毒高度同源",
+        "onboard_time": 1663568788,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261867,
+        "num": 261867,
+        "word": "女子乘高铁光脚搭前排座椅",
+        "onboard_time": 1663595489,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242831,
+        "num": 242831,
+        "word": "我的心居然被烘焙偷走了",
+        "onboard_time": 1663593327,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 347957,
+        "num": 237888,
+        "word": "北电20导演赵韦弦",
+        "onboard_time": 1663589428,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228912,
+        "num": 228912,
+        "word": "网购移动电源爆燃致父母烧伤进ICU",
+        "onboard_time": 1663592367,
+        "rank": 31,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 224871,
+        "num": 224871,
+        "word": "恒大归化球员0出场赚千万后回家",
+        "onboard_time": 1663586669,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222033,
+        "num": 222033,
+        "word": "Uzi",
+        "onboard_time": 1663585588,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 217404,
+        "num": 217404,
+        "word": "小鸟撞晕被救后赖在消防队不走了",
+        "onboard_time": 1663592367,
+        "rank": 34,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 201274,
+        "num": 201274,
+        "word": "专家说丁程鑫表演有质感",
+        "onboard_time": 1663591105,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192751,
+        "num": 192751,
+        "word": "男子躲粪逃脱800公斤野牦牛袭击",
+        "onboard_time": 1663589966,
+        "rank": 36,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 187958,
+        "num": 187958,
+        "word": "7只猫半年把高档窗帘抓成流苏",
+        "onboard_time": 1663587747,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173099,
+        "num": 173099,
+        "word": "最适合演校园文女主的演员",
+        "onboard_time": 1663587445,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171000,
+        "num": 171000,
+        "word": "敖子逸澳门科技大学报到图",
+        "onboard_time": 1663590747,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169375,
+        "num": 169375,
+        "word": "狐妖小红娘",
+        "onboard_time": 1663595429,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166079,
+        "num": 166079,
+        "word": "女生买打折眼影收货很脏爬满小虫",
+        "onboard_time": 1663590628,
+        "rank": 41,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 163318,
+        "num": 163318,
+        "word": "LWX被LBL禁赛",
+        "onboard_time": 1663581808,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159298,
+        "num": 159298,
+        "word": "我的县长父亲",
+        "onboard_time": 1663562432,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158358,
+        "num": 158358,
+        "word": "陈哲远身携巨款笑哭沈月",
+        "onboard_time": 1663593665,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155060,
+        "num": 155060,
+        "word": "虾皮",
+        "onboard_time": 1663587149,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 139264,
+        "num": 139264,
+        "word": "糯米才是莲藕的最佳拍挡",
+        "onboard_time": 1663597891,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 122069,
+        "num": 122069,
+        "word": "英女王葬礼举行",
+        "onboard_time": 1663565488,
+        "rank": 47,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 118868,
+        "num": 118868,
+        "word": "女学生频繁掉发索性剃成光头",
+        "onboard_time": 1663572267,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113774,
+        "num": 113774,
+        "word": "赛博朋克边缘行者",
+        "onboard_time": 1663598609,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#生态环境保护任重道远#"
+    }
+  }
+}

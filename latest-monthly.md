@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/19 22:29:48
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/19 22:45:52
 </p>
 </blockquote>
 <p>
@@ -711,6 +711,12 @@ iPhone14价格（热度：2774665）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23148%E4%B8%80%E7%9B%92%E7%9A%84%E6%95%B7%E5%B0%94%E4%BD%B3%E9%9D%A2%E8%86%9C%E6%88%90%E6%9C%AC%E4%BB%8510%E5%85%83%23" target="weibo">
+148一盒的敷尔佳面膜成本仅10元（热度：2752036）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%8B%A5%E4%BB%AA%E5%9B%9E%E5%BA%94%E5%84%BF%E5%AD%90%E8%BD%A6%E7%A5%B8%E5%90%8E%E7%AC%AC%E4%B8%80%E5%8F%A5%E8%AF%9D%23" target="weibo">
 陈若仪回应儿子车祸后第一句话（热度：2740950）
 </a>
@@ -737,12 +743,6 @@ UR被曝抄袭（热度：2730773）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD40%E4%BB%A3%E7%94%B7%E6%BC%94%E5%91%98%E5%90%B8%E6%AF%92%E8%A2%AB%E9%80%AE%E6%8D%95%23" target="weibo">
 韩国40代男演员吸毒被逮捕（热度：2729008）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23148%E4%B8%80%E7%9B%92%E7%9A%84%E6%95%B7%E5%B0%94%E4%BD%B3%E9%9D%A2%E8%86%9C%E6%88%90%E6%9C%AC%E4%BB%8510%E5%85%83%23" target="weibo">
-148一盒的敷尔佳面膜成本仅10元（热度：2723024）
 </a>
 </li>
 
@@ -1073,6 +1073,12 @@ JDG夺冠（热度：2394767）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%8F%AF%E5%AF%85%E8%BF%9D%E7%AB%A0%E5%81%9C%E8%BD%A6%23" target="weibo">
 谢可寅违章停车（热度：2280605）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23IU%E8%80%B3%E6%9C%B5%E5%87%BA%E9%97%AE%E9%A2%98%E5%B7%B2%E9%95%BF%E8%BE%BE1%E5%B9%B4%23" target="weibo">
+IU耳朵出问题已长达1年（热度：2277556）
 </a>
 </li>
 
@@ -2973,6 +2979,12 @@ LBL（热度：1377848）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E4%B9%89%E4%B9%8C%E8%A6%81%E6%B1%82%E4%B8%8B%E6%9E%B6%E6%A7%9F%E6%A6%94%23" target="weibo">
+浙江义乌要求下架槟榔（热度：1358879）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E6%89%8B%E6%9C%BA%E5%B1%8F%E4%BF%9D%E6%98%AF%E5%AE%81%E8%BF%9C%E8%88%9F%23" target="weibo">
 刘宇宁手机屏保是宁远舟（热度：1357151）
 </a>
@@ -3167,12 +3179,6 @@ UR成本91元连衣裙翻4倍卖369元（热度：1327788）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23RNG%E6%88%98%E8%83%9CLNG%23" target="weibo">
 RNG战胜LNG（热度：1320456）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E4%B9%89%E4%B9%8C%E8%A6%81%E6%B1%82%E4%B8%8B%E6%9E%B6%E6%A7%9F%E6%A6%94%23" target="weibo">
-浙江义乌要求下架槟榔（热度：1318403）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ iPhone14系列没涨价（热度：892829）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A6%88%E5%B8%A6%E6%B3%A1%E6%B3%A1%E6%9D%86%E4%B9%98%E8%BD%A6%E8%A2%AB%E8%B8%B9%E4%B8%8B%E8%BD%A6%23" target="weibo">
 大妈带泡泡杆乘车被踹下车（热度：858990）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%96%B0%E5%A2%9E87%E4%BE%8B%E9%98%B3%E6%80%A7%E7%97%85%E4%BE%8B%23" target="weibo">
-深圳新增87例阳性病例（热度：858922）
 </a>
 </li>
 
