@@ -1,0 +1,410 @@
+{
+  "runTime": 1663563365647,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2389085,
+        "num": 2389085,
+        "word": "盛光祖被开除党籍",
+        "onboard_time": 1663557868,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1881845,
+        "num": 1881845,
+        "word": "张翰曾带实习生看东八区的先生们",
+        "onboard_time": 1663553728,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 11509,
+        "num": 1869361,
+        "word": "英雄回家",
+        "onboard_time": 1663384585,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1868446,
+        "num": 1868446,
+        "word": "顺丰保价1.8万的单子只赔500",
+        "onboard_time": 1663559487,
+        "rank": 3,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1813606,
+        "num": 1813606,
+        "word": "贵阳通报向全社会作出诚恳道歉",
+        "onboard_time": 1663521680,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1250186,
+        "num": 1250186,
+        "word": "217054",
+        "onboard_time": 1663561469,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1091854,
+        "num": 1091854,
+        "word": "用女主名命名的电视剧",
+        "onboard_time": 1663554207,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 837564,
+        "num": 837564,
+        "word": "长期不吃晚饭或致代谢率下降",
+        "onboard_time": 1663549289,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 827421,
+        "num": 827421,
+        "word": "我的县长父亲",
+        "onboard_time": 1663562432,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 797888,
+        "num": 797888,
+        "word": "老牛被卖时跪地不起主人当场反悔",
+        "onboard_time": 1663553666,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 686360,
+        "num": 686360,
+        "word": "杨紫长相思大婚路透",
+        "onboard_time": 1663559907,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 661535,
+        "num": 661535,
+        "word": "龙族",
+        "onboard_time": 1663553666,
+        "rank": 11,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 630014,
+        "num": 630014,
+        "word": "湖北一派出所副所长遭拒捕牺牲",
+        "onboard_time": 1663551687,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572214,
+        "num": 572214,
+        "word": "垫底辣孩再次致歉",
+        "onboard_time": 1663515272,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 565516,
+        "num": 565516,
+        "word": "听刘敏涛2.5倍速说台词不用看字幕",
+        "onboard_time": 1663561291,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 562112,
+        "num": 562112,
+        "word": "戴美瞳会把泪膜一分为二",
+        "onboard_time": 1663561351,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503376,
+        "num": 503376,
+        "word": "胰腺癌为何被称为癌中之王",
+        "onboard_time": 1663551446,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369779,
+        "num": 369779,
+        "word": "未按要求去冰女子将饮品倒进操作间",
+        "onboard_time": 1663549465,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368689,
+        "num": 368689,
+        "word": "广安区暂停一切非必要人员流动",
+        "onboard_time": 1663555709,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330720,
+        "num": 330720,
+        "word": "小伙偷合租女同事口红送女友",
+        "onboard_time": 1663554146,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488169,
+        "num": 330596,
+        "word": "吴磊周雨彤新剧cp感",
+        "onboard_time": 1663556188,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 437086,
+        "num": 330355,
+        "word": "陆炎进入于登登失信名单",
+        "onboard_time": 1663560209,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 379247,
+        "num": 329772,
+        "word": "那英加盟喜剧大赛2",
+        "onboard_time": 1663561713,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329188,
+        "num": 329188,
+        "word": "第一次见这么凶的小狗",
+        "onboard_time": 1663556368,
+        "rank": 23,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 316921,
+        "num": 316921,
+        "word": "8岁男孩认错妈吓得女孩连走带跑",
+        "onboard_time": 1663551867,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298177,
+        "num": 298177,
+        "word": "到底有多少种食物不能空腹吃",
+        "onboard_time": 1663559789,
+        "rank": 25,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 286380,
+        "num": 286380,
+        "word": "老太切除多器官3个月后去世",
+        "onboard_time": 1663517968,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277925,
+        "num": 277925,
+        "word": "女子没喝酒遇查酒驾却吹出94",
+        "onboard_time": 1663545988,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277592,
+        "num": 277592,
+        "word": "熊孩子将整层楼道灭火器呲光光",
+        "onboard_time": 1663555406,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241585,
+        "num": 241585,
+        "word": "国内成品油价或迎年内第七跌",
+        "onboard_time": 1663557987,
+        "rank": 29,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1318731,
+        "num": 238382,
+        "word": "抖音崩了",
+        "onboard_time": 1663561713,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 350211,
+        "num": 237367,
+        "word": "我们的歌4官宣马嘉祺加盟",
+        "onboard_time": 1663557387,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320970,
+        "num": 233593,
+        "word": "近三年指数TOP20的电视剧",
+        "onboard_time": 1663563035,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266897,
+        "num": 229079,
+        "word": "脱口秀大会5官宣于文文",
+        "onboard_time": 1663557927,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228313,
+        "num": 228313,
+        "word": "广州越秀发现1人核酸检测阳性",
+        "onboard_time": 1663551804,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216705,
+        "num": 216705,
+        "word": "美方将审计中概股",
+        "onboard_time": 1663560750,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 211825,
+        "num": 211825,
+        "word": "哈尔滨疫情防控",
+        "onboard_time": 1663555165,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197742,
+        "num": 197742,
+        "word": "恋爱中真的需要事事回应吗",
+        "onboard_time": 1663546769,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196398,
+        "num": 196398,
+        "word": "只要我还在我就一定能接起电话",
+        "onboard_time": 1663558947,
+        "rank": 38,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 184854,
+        "num": 184854,
+        "word": "初三生蹭花车被要求做一套试卷",
+        "onboard_time": 1663547789,
+        "rank": 39,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 177626,
+        "num": 177626,
+        "word": "台湾花莲地震已致1死142伤",
+        "onboard_time": 1663549527,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173920,
+        "num": 173920,
+        "word": "小青和法海竟然是be美学",
+        "onboard_time": 1663547610,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173032,
+        "num": 173032,
+        "word": "张彬彬原声台词",
+        "onboard_time": 1663561111,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138599,
+        "num": 138599,
+        "word": "男生发现3年前学长留下的千字书信",
+        "onboard_time": 1663562855,
+        "rank": 43,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 135268,
+        "num": 135268,
+        "word": "为什么不建议学龄前儿童自己刷牙",
+        "onboard_time": 1663563092,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 128289,
+        "num": 128289,
+        "word": "不吃晚饭可能加速肥胖",
+        "onboard_time": 1663558705,
+        "rank": 45,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 123856,
+        "num": 123856,
+        "word": "我国近十年GDP年均增长6.6%",
+        "onboard_time": 1663549049,
+        "rank": 46,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 372303,
+        "num": 123270,
+        "word": "虚拟偶像有真感情吗",
+        "onboard_time": 1663563331,
+        "rank": 47,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 118615,
+        "num": 118615,
+        "word": "爸爸为救4月大女儿日拌涂料20吨",
+        "onboard_time": 1663563331,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115742,
+        "num": 115742,
+        "word": "江南新书开更",
+        "onboard_time": 1663556607,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#生态环境保护任重道远#"
+    }
+  }
+}

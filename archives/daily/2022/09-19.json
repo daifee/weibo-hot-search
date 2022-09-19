@@ -1,6 +1,6 @@
 {
   "startTime": 1663518759246,
-  "endTime": 1663557812234,
+  "endTime": 1663563365647,
   "band_list": [
     {
       "raw_hot": 3307531,
@@ -27,12 +27,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2389085,
+      "num": 2389085,
+      "word": "盛光祖被开除党籍",
+      "onboard_time": 1663557868,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2289595,
       "num": 2289595,
       "word": "张翰曾带实习生看东八区的先生们",
       "onboard_time": 1663553728,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1868446,
+      "num": 1868446,
+      "word": "顺丰保价1.8万的单子只赔500",
+      "onboard_time": 1663559487,
+      "rank": 3,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1843514,
@@ -59,6 +75,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1318731,
+      "num": 238382,
+      "word": "抖音崩了",
+      "onboard_time": 1663561713,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 1250186,
+      "num": 1250186,
+      "word": "217054",
+      "onboard_time": 1663561469,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1201209,
       "num": 1201209,
       "word": "湖北一派出所副所长遭拒捕牺牲",
@@ -73,6 +105,14 @@
       "onboard_time": 1663551147,
       "rank": 5,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1091854,
+      "num": 1091854,
+      "word": "用女主名命名的电视剧",
+      "onboard_time": 1663554207,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 1063148,
@@ -123,20 +163,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 827421,
+      "num": 827421,
+      "word": "我的县长父亲",
+      "onboard_time": 1663562432,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 796067,
       "num": 223113,
       "word": "iOS16复制粘贴被吐槽太繁琐",
       "onboard_time": 1663514613,
       "rank": 20,
       "category": "科技"
-    },
-    {
-      "raw_hot": 756556,
-      "num": 612357,
-      "word": "用女主名命名的电视剧",
-      "onboard_time": 1663554207,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 745397,
@@ -169,6 +209,14 @@
       "onboard_time": 1663545988,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 686360,
+      "num": 686360,
+      "word": "杨紫长相思大婚路透",
+      "onboard_time": 1663559907,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 624945,
@@ -211,6 +259,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 565516,
+      "num": 565516,
+      "word": "听刘敏涛2.5倍速说台词不用看字幕",
+      "onboard_time": 1663561291,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 562112,
+      "num": 562112,
+      "word": "戴美瞳会把泪膜一分为二",
+      "onboard_time": 1663561351,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 545550,
       "num": 545550,
       "word": "小青和法海竟然是be美学",
@@ -225,6 +289,14 @@
       "onboard_time": 1663501832,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 437086,
+      "num": 330355,
+      "word": "陆炎进入于登登失信名单",
+      "onboard_time": 1663560209,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 409552,
@@ -259,6 +331,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 379247,
+      "num": 329772,
+      "word": "那英加盟喜剧大赛2",
+      "onboard_time": 1663561713,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 378320,
       "num": 378320,
       "word": "初三生蹭花车被要求做一套试卷",
@@ -281,6 +361,22 @@
       "onboard_time": 1663552347,
       "rank": 17,
       "category": "科技"
+    },
+    {
+      "raw_hot": 372303,
+      "num": 123270,
+      "word": "虚拟偶像有真感情吗",
+      "onboard_time": 1663563331,
+      "rank": 47,
+      "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 368689,
+      "num": 368689,
+      "word": "广安区暂停一切非必要人员流动",
+      "onboard_time": 1663555709,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 347076,
@@ -307,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 329188,
+      "num": 329188,
+      "word": "第一次见这么凶的小狗",
+      "onboard_time": 1663556368,
+      "rank": 31,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 324648,
       "num": 324648,
       "word": "广州越秀发现1人核酸检测阳性",
@@ -315,12 +419,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320970,
+      "num": 233593,
+      "word": "近三年指数TOP20的电视剧",
+      "onboard_time": 1663563035,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 305727,
       "num": 305727,
       "word": "日本女教师给全班午餐下毒",
       "onboard_time": 1663483528,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 298177,
+      "num": 298177,
+      "word": "到底有多少种食物不能空腹吃",
+      "onboard_time": 1663559789,
+      "rank": 25,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 293460,
@@ -355,6 +475,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 277592,
+      "num": 277592,
+      "word": "熊孩子将整层楼道灭火器呲光光",
+      "onboard_time": 1663555406,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 266897,
+      "num": 229079,
+      "word": "脱口秀大会5官宣于文文",
+      "onboard_time": 1663557927,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263361,
       "num": 263361,
       "word": "KARA将11月完整体回归",
@@ -379,14 +515,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 252354,
-      "num": 252354,
-      "word": "熊孩子将整层楼道灭火器呲光光",
-      "onboard_time": 1663555406,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 247466,
       "num": 247466,
       "word": "有人收购孕妇尿液每公斤12元",
@@ -409,6 +537,14 @@
       "onboard_time": 1663551027,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241585,
+      "num": 241585,
+      "word": "国内成品油价或迎年内第七跌",
+      "onboard_time": 1663557987,
+      "rank": 29,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 241386,
@@ -467,12 +603,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 214103,
-      "num": 214103,
-      "word": "广安区暂停一切非必要人员流动",
-      "onboard_time": 1663555709,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 216705,
+      "num": 216705,
+      "word": "美方将审计中概股",
+      "onboard_time": 1663560750,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 210423,
@@ -531,12 +667,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 193199,
-      "num": 193199,
-      "word": "第一次见这么凶的小狗",
-      "onboard_time": 1663556368,
-      "rank": 31,
-      "category": "幽默,情感"
+      "raw_hot": 196398,
+      "num": 196398,
+      "word": "只要我还在我就一定能接起电话",
+      "onboard_time": 1663558947,
+      "rank": 38,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 189051,
@@ -593,6 +729,14 @@
       "onboard_time": 1663551206,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173032,
+      "num": 173032,
+      "word": "张彬彬原声台词",
+      "onboard_time": 1663561111,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 168466,
@@ -699,6 +843,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138599,
+      "num": 138599,
+      "word": "男生发现3年前学长留下的千字书信",
+      "onboard_time": 1663562855,
+      "rank": 43,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 135268,
+      "num": 135268,
+      "word": "为什么不建议学龄前儿童自己刷牙",
+      "onboard_time": 1663563092,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 133537,
       "num": 133537,
       "word": "骄阳伴我",
@@ -729,6 +889,14 @@
       "onboard_time": 1663518926,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128289,
+      "num": 128289,
+      "word": "不吃晚饭可能加速肥胖",
+      "onboard_time": 1663558705,
+      "rank": 45,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 128128,
@@ -769,6 +937,14 @@
       "onboard_time": 1663545927,
       "rank": 45,
       "category": "军事,国外要闻"
+    },
+    {
+      "raw_hot": 118615,
+      "num": 118615,
+      "word": "爸爸为救4月大女儿日拌涂料20吨",
+      "onboard_time": 1663563331,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114358,
@@ -947,8 +1123,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 10811,
-      "num": 1238922,
+      "raw_hot": 11509,
+      "num": 1869361,
       "word": "英雄回家",
       "onboard_time": 1663384585,
       "rank": 2,
@@ -1012,6 +1188,9 @@
     },
     {
       "word": "#强军有我使命在肩#"
+    },
+    {
+      "word": "#生态环境保护任重道远#"
     }
   ]
 }
