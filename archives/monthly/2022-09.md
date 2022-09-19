@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/19 23:45:13
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/20 00:35:42
 </p>
 </blockquote>
 <p>
@@ -2429,6 +2429,12 @@ iPhone14颜色（热度：1547377）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E4%B8%8D%E5%90%83%E6%99%9A%E9%A5%AD%E6%88%96%E8%87%B4%E4%BB%A3%E8%B0%A2%E7%8E%87%E4%B8%8B%E9%99%8D%23" target="weibo">
 长期不吃晚饭或致代谢率下降（热度：1536493）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%90%90%E6%A7%BD%E5%85%AC%E5%8F%B8%E8%A2%AB%E5%BC%80%E9%99%A4%23" target="weibo">
+00后发朋友圈吐槽公司被开除（热度：1534932）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ iPhone14系列没涨价（热度：892829）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E6%B9%96%23" target="weibo">
 西湖（热度：861980）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%BE%BD%E4%B8%80%E4%B8%AD%E5%AD%A6%E7%8F%AD%E8%B4%B9%E6%AF%8F%E4%BA%BA2000%E5%85%A8%E7%8F%AD8%E4%B8%87%23" target="weibo">
-安徽一中学班费每人2000全班8万（热度：861940）
 </a>
 </li>
 

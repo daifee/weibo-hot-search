@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1663602313056,
+  "endTime": 1663605342095,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -3225,6 +3225,14 @@
       "onboard_time": 1663549289,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1534932,
+      "num": 1534932,
+      "word": "00后发朋友圈吐槽公司被开除",
+      "onboard_time": 1663600291,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 1532718,
@@ -10953,14 +10961,6 @@
       "onboard_time": 1662599965,
       "rank": 15,
       "category": "科技"
-    },
-    {
-      "raw_hot": 636264,
-      "num": 636264,
-      "word": "00后发朋友圈吐槽公司被开除",
-      "onboard_time": 1663600291,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 635707,
@@ -24827,6 +24827,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 267936,
+      "num": 223725,
+      "word": "刘诗诗刘宇宁同框对视路透",
+      "onboard_time": 1663603348,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 267881,
       "num": 267881,
       "word": "新川日常阵容官宣",
@@ -26169,6 +26177,14 @@
       "onboard_time": 1662126633,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 250945,
+      "num": 250945,
+      "word": "德牧鼻梁被打裂跑进医院和派出所",
+      "onboard_time": 1663600352,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 250528,
@@ -27843,6 +27859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227160,
+      "num": 227160,
+      "word": "有孩子之后不要养猫",
+      "onboard_time": 1663601247,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 227091,
       "num": 194207,
       "word": "熙娣想聊",
@@ -29073,6 +29097,14 @@
       "onboard_time": 1662086604,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 210427,
+      "num": 183717,
+      "word": "星星的约定豆瓣开分8.9",
+      "onboard_time": 1663602927,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 210423,
@@ -31235,6 +31267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183871,
+      "num": 183871,
+      "word": "R星官方回应给他爱新作泄露",
+      "onboard_time": 1663601607,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 183721,
       "num": 183721,
       "word": "袁隆平纪念邮票发行",
@@ -32513,14 +32553,6 @@
       "onboard_time": 1662197548,
       "rank": 41,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 165907,
-      "num": 165907,
-      "word": "德牧鼻梁被打裂跑进医院和派出所",
-      "onboard_time": 1663600352,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165862,
@@ -36995,14 +37027,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 94362,
-      "num": 94362,
-      "word": "R星官方回应给他爱新作泄露",
-      "onboard_time": 1663601607,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 94033,
       "num": 94033,
       "word": "水雉踏莲育雏唯美画面",
@@ -37817,14 +37841,6 @@
       "onboard_time": 1661951730,
       "rank": 48,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 67368,
-      "num": 67368,
-      "word": "有孩子之后不要养猫",
-      "onboard_time": 1663601247,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 66560,
