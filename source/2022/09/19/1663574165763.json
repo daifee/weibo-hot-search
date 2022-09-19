@@ -1,0 +1,410 @@
+{
+  "runTime": 1663574165763,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3260037,
+        "num": 3260037,
+        "word": "重庆猴痘病例病毒与德国病毒高度同源",
+        "onboard_time": 1663568788,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2668185,
+        "num": 2668185,
+        "word": "我的县长父亲",
+        "onboard_time": 1663562432,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6470,
+        "num": 2084656,
+        "word": "英雄回家",
+        "onboard_time": 1663384585,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1822794,
+        "num": 1822794,
+        "word": "张翰 明星版恋与制作人",
+        "onboard_time": 1663569866,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1009256,
+        "num": 1009256,
+        "word": "呼兰",
+        "onboard_time": 1663572328,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 852828,
+        "num": 852828,
+        "word": "父母怕重名给儿子取名李不尚书",
+        "onboard_time": 1663569749,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623370,
+        "num": 623370,
+        "word": "男子吸毒后到派出所开无犯罪证明",
+        "onboard_time": 1663570768,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 563482,
+        "num": 563482,
+        "word": "网红烹食大白鲨后续",
+        "onboard_time": 1663566209,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542646,
+        "num": 542646,
+        "word": "女学生频繁掉发索性剃成光头",
+        "onboard_time": 1663572267,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528578,
+        "num": 528578,
+        "word": "罗永浩批灵动岛视频造假",
+        "onboard_time": 1663571968,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 830658,
+        "num": 525052,
+        "word": "虞书欣王鹤棣对镜自拍照",
+        "onboard_time": 1663569447,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 632899,
+        "num": 522759,
+        "word": "Angelababy银色短发造型封面",
+        "onboard_time": 1663567110,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 579551,
+        "num": 521203,
+        "word": "何洛洛严浩翔马启越进入北电表演实验班",
+        "onboard_time": 1663571067,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 515392,
+        "num": 515392,
+        "word": "英女王葬礼举行",
+        "onboard_time": 1663565488,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 431200,
+        "num": 431200,
+        "word": "老人头痛欲裂竟是被蜱虫连吸数日",
+        "onboard_time": 1663563513,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391722,
+        "num": 391722,
+        "word": "爸爸为救4月大女儿日拌涂料20吨",
+        "onboard_time": 1663563331,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390990,
+        "num": 390990,
+        "word": "苍兰诀 售后",
+        "onboard_time": 1663573707,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 290780,
+        "num": 290780,
+        "word": "四六级报名",
+        "onboard_time": 1663573167,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 275855,
+        "num": 275855,
+        "word": "小米11系列屡曝质量问题遭维权",
+        "onboard_time": 1663567167,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 262431,
+        "num": 262431,
+        "word": "戴美瞳会把泪膜一分为二",
+        "onboard_time": 1663561351,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 698537,
+        "num": 256905,
+        "word": "A股",
+        "onboard_time": 1663569987,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 235112,
+        "num": 235112,
+        "word": "47岁牺牲民警一家三代四名警察",
+        "onboard_time": 1663571186,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227519,
+        "num": 227519,
+        "word": "小狗带车撞人",
+        "onboard_time": 1663573647,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225483,
+        "num": 225483,
+        "word": "这段录音记录下地震瞬间的生死抉择",
+        "onboard_time": 1663568009,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212306,
+        "num": 212306,
+        "word": "失控滑板男童家人送锦旗感谢少年",
+        "onboard_time": 1663568726,
+        "rank": 24,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 204881,
+        "num": 204881,
+        "word": "顺丰保价1.8万的单子只赔500",
+        "onboard_time": 1663559487,
+        "rank": 25,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 197491,
+        "num": 197491,
+        "word": "为什么不建议学龄前儿童自己刷牙",
+        "onboard_time": 1663563092,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 188538,
+        "num": 188538,
+        "word": "前车突然变道SUV被迫刀片超车",
+        "onboard_time": 1663564650,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185395,
+        "num": 185395,
+        "word": "重庆市发现1例境外输入猴痘病例",
+        "onboard_time": 1663573588,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184246,
+        "num": 184246,
+        "word": "基金",
+        "onboard_time": 1663570048,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 252269,
+        "num": 183833,
+        "word": "抖音崩了",
+        "onboard_time": 1663561713,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 183078,
+        "num": 183078,
+        "word": "百分百开麦官宣",
+        "onboard_time": 1663567769,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180609,
+        "num": 180609,
+        "word": "杨紫长相思大婚路透",
+        "onboard_time": 1663559907,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177103,
+        "num": 177103,
+        "word": "苍兰诀",
+        "onboard_time": 1663570768,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172751,
+        "num": 172751,
+        "word": "217054",
+        "onboard_time": 1663561469,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161695,
+        "num": 161695,
+        "word": "用女主名命名的电视剧",
+        "onboard_time": 1663554207,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158485,
+        "num": 158485,
+        "word": "钱塘江退潮后惊现大地之树",
+        "onboard_time": 1663573466,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151737,
+        "num": 151737,
+        "word": "人们为何宁愿养宠物也不愿谈恋爱",
+        "onboard_time": 1663571010,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 983099,
+        "num": 151540,
+        "word": "iPhone灵动岛无法适配大部分应用",
+        "onboard_time": 1663570708,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 151268,
+        "num": 151268,
+        "word": "男生发现3年前学长留下的千字书信",
+        "onboard_time": 1663562855,
+        "rank": 39,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 151020,
+        "num": 151020,
+        "word": "底线全员换证件照",
+        "onboard_time": 1663571727,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137613,
+        "num": 137613,
+        "word": "周雨彤说吴磊夸夸费看着给",
+        "onboard_time": 1663571786,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141128,
+        "num": 137022,
+        "word": "成毅说周亦安初心如磐",
+        "onboard_time": 1663571427,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135970,
+        "num": 135970,
+        "word": "听刘敏涛2.5倍速说台词不用看字幕",
+        "onboard_time": 1663561291,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123904,
+        "num": 123904,
+        "word": "日本65岁以上就业人数达909万",
+        "onboard_time": 1663564113,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121863,
+        "num": 121863,
+        "word": "盛光祖被开除党籍",
+        "onboard_time": 1663557868,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120225,
+        "num": 120225,
+        "word": "爸爸想女儿来学校找女儿吃宵夜",
+        "onboard_time": 1663570348,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113134,
+        "num": 113134,
+        "word": "交个朋友卖iPhone14便宜一元",
+        "onboard_time": 1663574066,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 103451,
+        "num": 103451,
+        "word": "四川新增本土确诊48例无症状47例",
+        "onboard_time": 1663565431,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102438,
+        "num": 102438,
+        "word": "湖北一派出所副所长遭拒捕牺牲",
+        "onboard_time": 1663551687,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国航天的每个首次都是突破#"
+    }
+  }
+}
