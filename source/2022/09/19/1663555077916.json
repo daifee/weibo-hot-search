@@ -1,0 +1,410 @@
+{
+  "runTime": 1663555077916,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2289595,
+        "num": 2289595,
+        "word": "张翰曾带实习生看东八区的先生们",
+        "onboard_time": 1663553728,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1536493,
+        "num": 1536493,
+        "word": "长期不吃晚饭或致代谢率下降",
+        "onboard_time": 1663549289,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6253,
+        "num": 1238922,
+        "word": "英雄回家",
+        "onboard_time": 1663384585,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2102888,
+        "num": 1233644,
+        "word": "贵阳通报向全社会作出诚恳道歉",
+        "onboard_time": 1663521680,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1201209,
+        "num": 1201209,
+        "word": "湖北一派出所副所长遭拒捕牺牲",
+        "onboard_time": 1663551687,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1123869,
+        "num": 1123869,
+        "word": "iPhone14Pro被吐槽后盖不耐划",
+        "onboard_time": 1663551147,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1063148,
+        "num": 1063148,
+        "word": "未按要求去冰女子将饮品倒进操作间",
+        "onboard_time": 1663549465,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 951157,
+        "num": 951157,
+        "word": "垫底辣孩再次致歉",
+        "onboard_time": 1663515272,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 721697,
+        "num": 721697,
+        "word": "龙族",
+        "onboard_time": 1663553666,
+        "rank": 8,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 717764,
+        "num": 717764,
+        "word": "女子没喝酒遇查酒驾却吹出94",
+        "onboard_time": 1663545988,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 612203,
+        "num": 612203,
+        "word": "iPhone15或全系列搭载灵动岛",
+        "onboard_time": 1663545446,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 545550,
+        "num": 545550,
+        "word": "小青和法海竟然是be美学",
+        "onboard_time": 1663547610,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 491648,
+        "num": 491648,
+        "word": "胰腺癌为何被称为癌中之王",
+        "onboard_time": 1663551446,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419311,
+        "num": 419311,
+        "word": "老太切除多器官3个月后去世",
+        "onboard_time": 1663517968,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397169,
+        "num": 397169,
+        "word": "8岁男孩认错妈吓得女孩连走带跑",
+        "onboard_time": 1663551867,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396674,
+        "num": 396674,
+        "word": "iPhone系统功能被用于推送骚扰信息",
+        "onboard_time": 1663551147,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 378320,
+        "num": 378320,
+        "word": "初三生蹭花车被要求做一套试卷",
+        "onboard_time": 1663547789,
+        "rank": 16,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 373490,
+        "num": 373490,
+        "word": "iPhone14Pro机型数据传输后卡死",
+        "onboard_time": 1663552347,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 358114,
+        "num": 358114,
+        "word": "老牛被卖时跪地不起主人当场反悔",
+        "onboard_time": 1663553666,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324648,
+        "num": 324648,
+        "word": "广州越秀发现1人核酸检测阳性",
+        "onboard_time": 1663551804,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283191,
+        "num": 283191,
+        "word": "台湾花莲地震已致1死142伤",
+        "onboard_time": 1663549527,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263361,
+        "num": 263361,
+        "word": "KARA将11月完整体回归",
+        "onboard_time": 1663551085,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255309,
+        "num": 255309,
+        "word": "我国近十年GDP年均增长6.6%",
+        "onboard_time": 1663549049,
+        "rank": 22,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 242802,
+        "num": 242802,
+        "word": "乌鲁木齐疫情防控",
+        "onboard_time": 1663551027,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232692,
+        "num": 232692,
+        "word": "用女主名命名的电视剧",
+        "onboard_time": 1663554207,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202204,
+        "num": 202204,
+        "word": "贵州高速事故车辆为隔离转运车",
+        "onboard_time": 1663501172,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202192,
+        "num": 202192,
+        "word": "47岁民警抓捕嫌疑人时牺牲",
+        "onboard_time": 1663554808,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201984,
+        "num": 201984,
+        "word": "恋爱中真的需要事事回应吗",
+        "onboard_time": 1663546769,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200736,
+        "num": 200736,
+        "word": "天天向上嘉宾回应",
+        "onboard_time": 1663515333,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198809,
+        "num": 198809,
+        "word": "黄明昊流水的收官铁打的藏头诗",
+        "onboard_time": 1663552107,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189051,
+        "num": 189051,
+        "word": "山东大姐用煎饼复刻世界名画",
+        "onboard_time": 1663549527,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186627,
+        "num": 186627,
+        "word": "爱情而已首支片花",
+        "onboard_time": 1663554808,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176607,
+        "num": 176607,
+        "word": "北京9月18日本土无新增",
+        "onboard_time": 1663551206,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174483,
+        "num": 174483,
+        "word": "小伙偷合租女同事口红送女友",
+        "onboard_time": 1663554146,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164392,
+        "num": 164392,
+        "word": "高开高走的韩剧",
+        "onboard_time": 1663502910,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163655,
+        "num": 163655,
+        "word": "店主晚打烊1小时为患病熟客留饭",
+        "onboard_time": 1663550548,
+        "rank": 35,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 161603,
+        "num": 161603,
+        "word": "女子失足5楼掉下挂在3楼雨棚",
+        "onboard_time": 1663537992,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154343,
+        "num": 154343,
+        "word": "山东新增本土确诊4例无症状5例",
+        "onboard_time": 1663550489,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149076,
+        "num": 149076,
+        "word": "4岁萌娃用妈妈手机网购35份洋葱",
+        "onboard_time": 1663543221,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146010,
+        "num": 146010,
+        "word": "原来小猫咪也会羡慕",
+        "onboard_time": 1663545867,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 145994,
+        "num": 145994,
+        "word": "男子走夜路遇蛇被猫拦下",
+        "onboard_time": 1663519225,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142144,
+        "num": 142144,
+        "word": "27位大学校长的人生寄语",
+        "onboard_time": 1663548089,
+        "rank": 41,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 133073,
+        "num": 133073,
+        "word": "北京WB",
+        "onboard_time": 1663545026,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128525,
+        "num": 128525,
+        "word": "花莲地震是今年以来我国最大地震",
+        "onboard_time": 1663516169,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127720,
+        "num": 127720,
+        "word": "电视剧底线",
+        "onboard_time": 1663548809,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119349,
+        "num": 119349,
+        "word": "美军在叙非法驻军基地遭导弹袭击",
+        "onboard_time": 1663545927,
+        "rank": 45,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 114358,
+        "num": 114358,
+        "word": "对小朋友用的东西很是心动",
+        "onboard_time": 1663547129,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 102798,
+        "num": 102798,
+        "word": "疑似天天向上嘉宾吐槽汪涵",
+        "onboard_time": 1663496248,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102359,
+        "num": 102359,
+        "word": "这样的雨伞建议量产",
+        "onboard_time": 1663514493,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94233,
+        "num": 94233,
+        "word": "小男生给女同学撑伞全然不顾老妈",
+        "onboard_time": 1663515154,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#强军有我使命在肩#"
+    }
+  }
+}
