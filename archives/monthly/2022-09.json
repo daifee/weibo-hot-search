@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1663555077916,
+  "endTime": 1663557812234,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -2129,6 +2129,14 @@
       "onboard_time": 1662353130,
       "rank": 43,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1843514,
+      "num": 1843514,
+      "word": "龙族",
+      "onboard_time": 1663553666,
+      "rank": 8,
+      "category": "其它"
     },
     {
       "raw_hot": 1842563,
@@ -6283,6 +6291,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 998271,
+      "num": 998271,
+      "word": "老牛被卖时跪地不起主人当场反悔",
+      "onboard_time": 1663553666,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 996116,
       "num": 996116,
       "word": "金世佳回应二十不惑2没署名",
@@ -7513,6 +7529,14 @@
       "onboard_time": 1662440134,
       "rank": 10,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 885239,
+      "num": 885239,
+      "word": "我们的歌4官宣马嘉祺加盟",
+      "onboard_time": 1663557387,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 884792,
@@ -8923,6 +8947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 756556,
+      "num": 612357,
+      "word": "用女主名命名的电视剧",
+      "onboard_time": 1663554207,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 756055,
       "num": 756055,
       "word": "网传一公司厕所隔间装监控",
@@ -9089,6 +9121,14 @@
       "onboard_time": 1662436828,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 740170,
+      "num": 600390,
+      "word": "吴磊周雨彤新剧cp感",
+      "onboard_time": 1663556188,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 739897,
@@ -9289,14 +9329,6 @@
       "onboard_time": 1662872673,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 721697,
-      "num": 721697,
-      "word": "龙族",
-      "onboard_time": 1663553666,
-      "rank": 8,
-      "category": "其它"
     },
     {
       "raw_hot": 720567,
@@ -10697,6 +10729,14 @@
       "onboard_time": 1663325613,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 624945,
+      "num": 624945,
+      "word": "胰腺癌为何被称为癌中之王",
+      "onboard_time": 1663551446,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 622617,
@@ -13435,14 +13475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 491648,
-      "num": 491648,
-      "word": "胰腺癌为何被称为癌中之王",
-      "onboard_time": 1663551446,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 491460,
       "num": 491460,
       "word": "德国拒绝波兰巨额二战索赔",
@@ -16051,6 +16083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 409552,
+      "num": 409552,
+      "word": "小伙偷合租女同事口红送女友",
+      "onboard_time": 1663554146,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 409496,
       "num": 409496,
       "word": "中国卫生人才网",
@@ -18307,14 +18347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 358114,
-      "num": 358114,
-      "word": "老牛被卖时跪地不起主人当场反悔",
-      "onboard_time": 1663553666,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 358046,
       "num": 358046,
       "word": "杨幂叫自己幂姐",
@@ -19128,6 +19160,14 @@
       "word": "南京江宁警方回应190万诈骗案拒不立案",
       "onboard_time": 1662348268,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 340282,
+      "num": 340282,
+      "word": "哈尔滨疫情防控",
+      "onboard_time": 1663204709,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -22947,6 +22987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 280229,
+      "num": 280229,
+      "word": "长空之王人物海报",
+      "onboard_time": 1663556966,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 280208,
       "num": 280208,
       "word": "RNG对战LNG",
@@ -25051,6 +25099,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 252354,
+      "num": 252354,
+      "word": "熊孩子将整层楼道灭火器呲光光",
+      "onboard_time": 1663555406,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252200,
       "num": 142411,
       "word": "IU演唱会大合唱",
@@ -25579,6 +25635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243882,
+      "num": 100157,
+      "word": "小鬼王琳凯DEADLINE实体专辑",
+      "onboard_time": 1663557808,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 243776,
       "num": 205516,
       "word": "东八区的先生们里的台词",
@@ -25849,6 +25913,14 @@
       "onboard_time": 1663011673,
       "rank": 22,
       "category": "国外要闻,财经"
+    },
+    {
+      "raw_hot": 240258,
+      "num": 240258,
+      "word": "江南新书开更",
+      "onboard_time": 1663556607,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 240126,
@@ -26329,14 +26401,6 @@
       "onboard_time": 1663406607,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 232692,
-      "num": 232692,
-      "word": "用女主名命名的电视剧",
-      "onboard_time": 1663554207,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 232604,
@@ -27691,6 +27755,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 214103,
+      "num": 214103,
+      "word": "广安区暂停一切非必要人员流动",
+      "onboard_time": 1663555709,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214099,
       "num": 214099,
       "word": "9月5日新增确诊310例",
@@ -27953,6 +28025,14 @@
       "onboard_time": 1662086604,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 210423,
+      "num": 210423,
+      "word": "恋爱中真的需要事事回应吗",
+      "onboard_time": 1663546769,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 210318,
@@ -28513,14 +28593,6 @@
       "onboard_time": 1662220111,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 201984,
-      "num": 201984,
-      "word": "恋爱中真的需要事事回应吗",
-      "onboard_time": 1663546769,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 201981,
@@ -29233,6 +29305,14 @@
       "onboard_time": 1663204231,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 193199,
+      "num": 193199,
+      "word": "第一次见这么凶的小狗",
+      "onboard_time": 1663556368,
+      "rank": 31,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 193040,
@@ -30649,14 +30729,6 @@
       "onboard_time": 1662864990,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 174483,
-      "num": 174483,
-      "word": "小伙偷合租女同事口红送女友",
-      "onboard_time": 1663554146,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 174265,
@@ -32121,14 +32193,6 @@
       "onboard_time": 1663307368,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 155291,
-      "num": 155291,
-      "word": "哈尔滨疫情防控",
-      "onboard_time": 1663204709,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 155194,
@@ -34155,6 +34219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 128128,
+      "num": 128128,
+      "word": "台湾花莲县发生5.7级地震",
+      "onboard_time": 1663555165,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128043,
       "num": 128043,
       "word": "偶像梦幻祭",
@@ -35155,6 +35227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 107997,
+      "num": 107997,
+      "word": "还以为学的是甲骨文",
+      "onboard_time": 1663557209,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 107851,
       "num": 107851,
       "word": "被棉花糖小狗治愈了",
@@ -35353,6 +35433,14 @@
       "onboard_time": 1662106646,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 99497,
+      "num": 99497,
+      "word": "万里归途新预告紧张感拉满",
+      "onboard_time": 1663556427,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 99181,

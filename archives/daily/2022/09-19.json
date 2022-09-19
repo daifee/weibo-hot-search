@@ -1,6 +1,6 @@
 {
   "startTime": 1663518759246,
-  "endTime": 1663555077916,
+  "endTime": 1663557812234,
   "band_list": [
     {
       "raw_hot": 3307531,
@@ -33,6 +33,14 @@
       "onboard_time": 1663553728,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1843514,
+      "num": 1843514,
+      "word": "龙族",
+      "onboard_time": 1663553666,
+      "rank": 8,
+      "category": "其它"
     },
     {
       "raw_hot": 1658529,
@@ -91,12 +99,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 998271,
+      "num": 998271,
+      "word": "老牛被卖时跪地不起主人当场反悔",
+      "onboard_time": 1663553666,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 900658,
       "num": 900658,
       "word": "这样的雨伞建议量产",
       "onboard_time": 1663514493,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 885239,
+      "num": 885239,
+      "word": "我们的歌4官宣马嘉祺加盟",
+      "onboard_time": 1663557387,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 796067,
@@ -107,12 +131,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 756556,
+      "num": 612357,
+      "word": "用女主名命名的电视剧",
+      "onboard_time": 1663554207,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 745397,
       "num": 222324,
       "word": "疑似天天向上嘉宾吐槽汪涵",
       "onboard_time": 1663496248,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 740170,
+      "num": 600390,
+      "word": "吴磊周雨彤新剧cp感",
+      "onboard_time": 1663556188,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 737957,
@@ -123,19 +163,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 721697,
-      "num": 721697,
-      "word": "龙族",
-      "onboard_time": 1663553666,
-      "rank": 8,
-      "category": "其它"
-    },
-    {
       "raw_hot": 717764,
       "num": 717764,
       "word": "女子没喝酒遇查酒驾却吹出94",
       "onboard_time": 1663545988,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 624945,
+      "num": 624945,
+      "word": "胰腺癌为何被称为癌中之王",
+      "onboard_time": 1663551446,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -179,19 +219,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 491648,
-      "num": 491648,
-      "word": "胰腺癌为何被称为癌中之王",
-      "onboard_time": 1663551446,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 459523,
       "num": 459523,
       "word": "731部队用跳蚤感染鼠疫后咬人",
       "onboard_time": 1663501832,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 409552,
+      "num": 409552,
+      "word": "小伙偷合租女同事口红送女友",
+      "onboard_time": 1663554146,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -243,20 +283,20 @@
       "category": "科技"
     },
     {
-      "raw_hot": 358114,
-      "num": 358114,
-      "word": "老牛被卖时跪地不起主人当场反悔",
-      "onboard_time": 1663553666,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 347076,
       "num": 221831,
       "word": "王欣凌",
       "onboard_time": 1663499429,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 340282,
+      "num": 340282,
+      "word": "哈尔滨疫情防控",
+      "onboard_time": 1663555165,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 335542,
@@ -307,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 280229,
+      "num": 280229,
+      "word": "长空之王人物海报",
+      "onboard_time": 1663556966,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 263361,
       "num": 263361,
       "word": "KARA将11月完整体回归",
@@ -331,12 +379,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 252354,
+      "num": 252354,
+      "word": "熊孩子将整层楼道灭火器呲光光",
+      "onboard_time": 1663555406,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247466,
       "num": 247466,
       "word": "有人收购孕妇尿液每公斤12元",
       "onboard_time": 1663486114,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243882,
+      "num": 100157,
+      "word": "小鬼王琳凯DEADLINE实体专辑",
+      "onboard_time": 1663557808,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 242802,
@@ -355,12 +419,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 232692,
-      "num": 232692,
-      "word": "用女主名命名的电视剧",
-      "onboard_time": 1663554207,
-      "rank": 24,
-      "category": "影视"
+      "raw_hot": 240258,
+      "num": 240258,
+      "word": "江南新书开更",
+      "onboard_time": 1663556607,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 230399,
@@ -403,6 +467,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 214103,
+      "num": 214103,
+      "word": "广安区暂停一切非必要人员流动",
+      "onboard_time": 1663555709,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210423,
+      "num": 210423,
+      "word": "恋爱中真的需要事事回应吗",
+      "onboard_time": 1663546769,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 204585,
       "num": 204585,
       "word": "广州台风",
@@ -427,14 +507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 201984,
-      "num": 201984,
-      "word": "恋爱中真的需要事事回应吗",
-      "onboard_time": 1663546769,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 201903,
       "num": 201903,
       "word": "4岁萌娃用妈妈手机网购35份洋葱",
@@ -457,6 +529,14 @@
       "onboard_time": 1663507171,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193199,
+      "num": 193199,
+      "word": "第一次见这么凶的小狗",
+      "onboard_time": 1663556368,
+      "rank": 31,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 189051,
@@ -512,14 +592,6 @@
       "word": "北京9月18日本土无新增",
       "onboard_time": 1663551206,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 174483,
-      "num": 174483,
-      "word": "小伙偷合租女同事口红送女友",
-      "onboard_time": 1663554146,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -659,12 +731,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128128,
+      "num": 128128,
+      "word": "台湾花莲县发生5.7级地震",
+      "onboard_time": 1663555165,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127720,
       "num": 127720,
       "word": "电视剧底线",
       "onboard_time": 1663548809,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 121867,
+      "num": 121867,
+      "word": "这样的睡姿最毁腰",
+      "onboard_time": 1663557447,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 120824,
@@ -715,6 +803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 107997,
+      "num": 107997,
+      "word": "还以为学的是甲骨文",
+      "onboard_time": 1663557209,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 106750,
       "num": 106750,
       "word": "著名导演伍迪艾伦宣布退休",
@@ -736,6 +832,14 @@
       "word": "成毅周亦安明天见",
       "onboard_time": 1663508312,
       "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 99497,
+      "num": 99497,
+      "word": "万里归途新预告紧张感拉满",
+      "onboard_time": 1663556427,
+      "rank": 49,
       "category": "影视"
     },
     {
@@ -843,7 +947,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 8902,
+      "raw_hot": 10811,
       "num": 1238922,
       "word": "英雄回家",
       "onboard_time": 1663384585,
