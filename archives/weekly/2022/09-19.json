@@ -1,6 +1,6 @@
 {
   "startTime": 1663518759246,
-  "endTime": 1663583321881,
+  "endTime": 1663584473944,
   "band_list": [
     {
       "raw_hot": 3530440,
@@ -139,6 +139,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1248559,
+      "num": 1248559,
+      "word": "iPhone14截屏带岛",
+      "onboard_time": 1663582526,
+      "rank": 16,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1201209,
       "num": 1201209,
       "word": "湖北一派出所副所长遭拒捕牺牲",
@@ -259,6 +267,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 996191,
+      "num": 996191,
+      "word": "低开高走的国产剧",
+      "onboard_time": 1663580065,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 958600,
+      "num": 958600,
+      "word": "LWX被LBL禁赛",
+      "onboard_time": 1663581808,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 900658,
       "num": 900658,
       "word": "这样的雨伞建议量产",
@@ -273,14 +297,6 @@
       "onboard_time": 1663557387,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 880201,
-      "num": 880201,
-      "word": "LWX被LBL禁赛",
-      "onboard_time": 1663581808,
-      "rank": 6,
-      "category": "游戏"
     },
     {
       "raw_hot": 867865,
@@ -299,14 +315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 834037,
-      "num": 834037,
-      "word": "低开高走的国产剧",
-      "onboard_time": 1663580065,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 816305,
       "num": 816305,
       "word": "A股",
@@ -321,6 +329,14 @@
       "onboard_time": 1663514613,
       "rank": 20,
       "category": "科技"
+    },
+    {
+      "raw_hot": 781116,
+      "num": 781116,
+      "word": "这是在明涵吧",
+      "onboard_time": 1663580786,
+      "rank": 15,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 745397,
@@ -563,14 +579,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 450639,
-      "num": 450639,
-      "word": "这是在明涵吧",
-      "onboard_time": 1663580786,
-      "rank": 15,
-      "category": "综艺,幽默"
-    },
-    {
       "raw_hot": 439628,
       "num": 439628,
       "word": "小米11系列屡曝质量问题遭维权",
@@ -604,7 +612,7 @@
     },
     {
       "raw_hot": 410129,
-      "num": 307053,
+      "num": 332016,
       "word": "虞书欣晒苍兰诀见面会plog",
       "onboard_time": 1663582165,
       "rank": 20,
@@ -617,14 +625,6 @@
       "onboard_time": 1663554146,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 406172,
-      "num": 406172,
-      "word": "iPhone14截屏带岛",
-      "onboard_time": 1663582526,
-      "rank": 16,
-      "category": "科技"
     },
     {
       "raw_hot": 405603,
@@ -747,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 362771,
+      "num": 362771,
+      "word": "丈夫深夜背妻子双双仰翻进狗笼",
+      "onboard_time": 1663579948,
+      "rank": 43,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 347076,
       "num": 221831,
       "word": "王欣凌",
@@ -819,6 +827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 311860,
+      "num": 305893,
+      "word": "王俊凯说我们目标是把同胞带回家",
+      "onboard_time": 1663584212,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 310435,
       "num": 310435,
       "word": "保时捷拟定9月29日上市",
@@ -827,20 +843,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 307091,
-      "num": 307091,
-      "word": "丈夫深夜背妻子双双仰翻进狗笼",
-      "onboard_time": 1663579948,
-      "rank": 43,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 305727,
       "num": 305727,
       "word": "日本女教师给全班午餐下毒",
       "onboard_time": 1663483528,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302521,
+      "num": 302521,
+      "word": "骄阳伴我",
+      "onboard_time": 1663499368,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 298177,
@@ -865,6 +881,14 @@
       "onboard_time": 1663575809,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 285318,
+      "num": 173423,
+      "word": "DICE好听",
+      "onboard_time": 1663583667,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 283318,
@@ -937,6 +961,14 @@
       "onboard_time": 1663551085,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 259754,
+      "num": 219936,
+      "word": "小美人鱼扮演者halle发文",
+      "onboard_time": 1663579165,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 259063,
@@ -1075,14 +1107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 228893,
-      "num": 219936,
-      "word": "小美人鱼扮演者halle发文",
-      "onboard_time": 1663579165,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 228837,
       "num": 228837,
       "word": "美为获取731实验资料对日军战犯豁免",
@@ -1145,6 +1169,14 @@
       "onboard_time": 1663577309,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 204836,
+      "num": 204836,
+      "word": "被这部十年前的动画鼓励到了",
+      "onboard_time": 1663581208,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 204585,
@@ -1248,14 +1280,6 @@
       "word": "减肥对颜值的影响有多重要",
       "onboard_time": 1663504049,
       "rank": 25,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 185469,
-      "num": 185469,
-      "word": "被这部十年前的动画鼓励到了",
-      "onboard_time": 1663581208,
-      "rank": 36,
       "category": "情感"
     },
     {
@@ -1459,6 +1483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144195,
+      "num": 144195,
+      "word": "喜欢兜风的小狗",
+      "onboard_time": 1663583068,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 143104,
       "num": 143104,
       "word": "烟火成都归来",
@@ -1481,14 +1513,6 @@
       "onboard_time": 1663575088,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 139676,
-      "num": 139676,
-      "word": "喜欢兜风的小狗",
-      "onboard_time": 1663583068,
-      "rank": 44,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 138865,
@@ -1521,14 +1545,6 @@
       "onboard_time": 1663578746,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 133537,
-      "num": 133537,
-      "word": "骄阳伴我",
-      "onboard_time": 1663499368,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 133073,
@@ -1640,6 +1656,14 @@
       "word": "广东真的有秋天吗",
       "onboard_time": 1663510413,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112740,
+      "num": 112740,
+      "word": "姥姥送的兔子被宰7岁娃崩溃大哭",
+      "onboard_time": 1663584147,
+      "rank": 48,
       "category": "社会新闻"
     },
     {

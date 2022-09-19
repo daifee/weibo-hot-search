@@ -1,0 +1,410 @@
+{
+  "runTime": 1663584473944,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2305889,
+        "num": 2305889,
+        "word": "小狗带车撞人",
+        "onboard_time": 1663573647,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1769962,
+        "num": 1769962,
+        "word": "三只松鼠被曝吃出油炸壁虎",
+        "onboard_time": 1663577967,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46780,
+        "num": 1408993,
+        "word": "金秋丰收画卷",
+        "onboard_time": 1663575509,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1248559,
+        "num": 1248559,
+        "word": "iPhone14截屏带岛",
+        "onboard_time": 1663582526,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1226349,
+        "num": 1226349,
+        "word": "重庆猴痘病例病毒与德国病毒高度同源",
+        "onboard_time": 1663568788,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1148699,
+        "num": 1148699,
+        "word": "我的县长父亲",
+        "onboard_time": 1663562432,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 996191,
+        "num": 996191,
+        "word": "低开高走的国产剧",
+        "onboard_time": 1663580065,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 958600,
+        "num": 958600,
+        "word": "LWX被LBL禁赛",
+        "onboard_time": 1663581808,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 781116,
+        "num": 781116,
+        "word": "这是在明涵吧",
+        "onboard_time": 1663580786,
+        "rank": 8,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 463207,
+        "num": 463207,
+        "word": "英女王葬礼举行",
+        "onboard_time": 1663565488,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 969671,
+        "num": 462616,
+        "word": "难听",
+        "onboard_time": 1663580847,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 591383,
+        "num": 452369,
+        "word": "成毅换头像了",
+        "onboard_time": 1663579767,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 431166,
+        "num": 431166,
+        "word": "女装店用壮硕模特展示衣服引热议",
+        "onboard_time": 1663576467,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362771,
+        "num": 362771,
+        "word": "丈夫深夜背妻子双双仰翻进狗笼",
+        "onboard_time": 1663579948,
+        "rank": 13,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 2740,
+        "num": 345806,
+        "word": "苏炳添的300万新学生",
+        "onboard_time": 1663581867,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1186710,
+        "num": 345590,
+        "word": "张翰 明星版恋与制作人",
+        "onboard_time": 1663569866,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 345145,
+        "num": 345145,
+        "word": "交个朋友卖iPhone14便宜一元",
+        "onboard_time": 1663574066,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 332016,
+        "num": 332016,
+        "word": "虞书欣晒苍兰诀见面会plog",
+        "onboard_time": 1663582165,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 328058,
+        "num": 328058,
+        "word": "女学生频繁掉发索性剃成光头",
+        "onboard_time": 1663572267,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307703,
+        "num": 307703,
+        "word": "猴痘传播途径",
+        "onboard_time": 1663577729,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311860,
+        "num": 305893,
+        "word": "王俊凯说我们目标是把同胞带回家",
+        "onboard_time": 1663584212,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 302521,
+        "num": 302521,
+        "word": "骄阳伴我",
+        "onboard_time": 1663583368,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297808,
+        "num": 297808,
+        "word": "魏晨说消失的孩子不烂尾",
+        "onboard_time": 1663577847,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 262744,
+        "num": 262744,
+        "word": "边抽血边踩奶的猫咪",
+        "onboard_time": 1663576710,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 237155,
+        "num": 237155,
+        "word": "余承东称中国一些企业抄袭华为",
+        "onboard_time": 1663576411,
+        "rank": 24,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 204836,
+        "num": 204836,
+        "word": "被这部十年前的动画鼓励到了",
+        "onboard_time": 1663581208,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195985,
+        "num": 195985,
+        "word": "钱塘江退潮后惊现大地之树",
+        "onboard_time": 1663573466,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192148,
+        "num": 192148,
+        "word": "父母怕重名给儿子取名李不尚书",
+        "onboard_time": 1663569749,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180501,
+        "num": 180501,
+        "word": "谁能拒绝一只戴假牙的小狗",
+        "onboard_time": 1663577248,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173681,
+        "num": 173681,
+        "word": "保时捷拟定9月29日上市",
+        "onboard_time": 1663577188,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 285318,
+        "num": 173423,
+        "word": "DICE好听",
+        "onboard_time": 1663583667,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 259754,
+        "num": 172795,
+        "word": "小美人鱼扮演者halle发文",
+        "onboard_time": 1663579165,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207402,
+        "num": 171612,
+        "word": "网传骄阳伴我明日重庆开机",
+        "onboard_time": 1663577547,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205477,
+        "num": 171258,
+        "word": "北电2022级表演实验班名单",
+        "onboard_time": 1663577009,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205366,
+        "num": 170305,
+        "word": "呼兰",
+        "onboard_time": 1663572328,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202468,
+        "num": 169859,
+        "word": "醉驾女司机超速逆行撞死老人获刑2年",
+        "onboard_time": 1663575627,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169478,
+        "num": 169478,
+        "word": "47岁牺牲民警一家三代四名警察",
+        "onboard_time": 1663571186,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161604,
+        "num": 161604,
+        "word": "爸爸想女儿来学校找女儿吃宵夜",
+        "onboard_time": 1663570348,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152461,
+        "num": 152461,
+        "word": "重庆市发现1例境外输入猴痘病例",
+        "onboard_time": 1663573588,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150460,
+        "num": 150460,
+        "word": "华为称正在推进5.5G",
+        "onboard_time": 1663574668,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 198679,
+        "num": 150427,
+        "word": "Angelababy银色短发造型封面",
+        "onboard_time": 1663567110,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 156068,
+        "num": 150358,
+        "word": "NMIXX回归",
+        "onboard_time": 1663582044,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 150273,
+        "num": 150273,
+        "word": "A股",
+        "onboard_time": 1663569987,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 144195,
+        "num": 144195,
+        "word": "喜欢兜风的小狗",
+        "onboard_time": 1663583068,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 139372,
+        "num": 139372,
+        "word": "原来流浪猫真的有情报网",
+        "onboard_time": 1663574369,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125870,
+        "num": 125870,
+        "word": "爸爸为救4月大女儿日拌涂料20吨",
+        "onboard_time": 1663563331,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119966,
+        "num": 119966,
+        "word": "四六级报名",
+        "onboard_time": 1663573167,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 119155,
+        "num": 119155,
+        "word": "网红烹食大白鲨后续",
+        "onboard_time": 1663566209,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112740,
+        "num": 112740,
+        "word": "姥姥送的兔子被宰7岁娃崩溃大哭",
+        "onboard_time": 1663584147,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111486,
+        "num": 111486,
+        "word": "男子吸毒后到派出所开无犯罪证明",
+        "onboard_time": 1663570768,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#生态环境保护任重道远#"
+    }
+  }
+}
