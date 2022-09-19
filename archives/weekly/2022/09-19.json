@@ -1,6 +1,6 @@
 {
   "startTime": 1663518759246,
-  "endTime": 1663609082150,
+  "endTime": 1663610107401,
   "band_list": [
     {
       "raw_hot": 3530440,
@@ -1345,6 +1345,14 @@
       "onboard_time": 1663551085,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 262502,
+      "num": 77848,
+      "word": "邢菲趋势封面大片",
+      "onboard_time": 1663609634,
+      "rank": 11,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 259754,
