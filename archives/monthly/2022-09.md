@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/19 21:23:44
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/19 21:55:00
 </p>
 </blockquote>
 <p>
@@ -2847,6 +2847,12 @@ B站二季度净亏损20亿（热度：1413487）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23148%E4%B8%80%E7%9B%92%E7%9A%84%E6%95%B7%E5%B0%94%E4%BD%B3%E9%9D%A2%E8%86%9C%E6%88%90%E6%9C%AC%E4%BB%8510%E5%85%83%23" target="weibo">
+148一盒的敷尔佳面膜成本仅10元（热度：1394699）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E5%B8%A6%E5%89%8D%E5%A5%B3%E5%8F%8B%E7%9B%B8%E4%BA%B2%E7%9A%84%23" target="weibo">
 第一次见带前女友相亲的（热度：1389710）
 </a>
@@ -3407,6 +3413,12 @@ iPhone13官网降价销售（热度：1271944）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E9%98%BB%E6%8B%A6%E5%A4%8D%E8%AF%BB%E5%90%8E%E5%AD%A9%E5%AD%90%E8%80%83%E4%B8%8A%E5%8C%97%E5%A4%A7%23" target="weibo">
 父亲阻拦复读后孩子考上北大（热度：1260006）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%85%8D%E6%97%A5%E4%B8%8A%23" target="weibo">
+中免日上（热度：1257404）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ iPhone14系列没涨价（热度：892829）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%23" target="weibo">
 英伟达（热度：858161）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E5%AE%89%E6%8E%9280%E4%B8%AA%E5%AD%A6%E7%94%9F%E4%BD%8F%E4%B8%80%E9%97%B4%E5%AE%BF%E8%88%8D%23" target="weibo">
-学校安排80个学生住一间宿舍（热度：858021）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E4%B8%80%E5%A5%B3%E5%AD%A9%E5%B0%8F%E5%8C%BA%E7%8E%A9%E8%80%8D%E8%A2%AB2%E6%9D%A1%E6%81%B6%E7%8A%AC%E8%BF%BD%E5%92%AC%23" target="weibo">
-广西一女孩小区玩耍被2条恶犬追咬（热度：856195）
 </a>
 </li>
 
