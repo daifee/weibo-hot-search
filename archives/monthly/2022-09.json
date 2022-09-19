@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1663580695698,
+  "endTime": 1663583321881,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -1035,6 +1035,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 2635194,
+      "num": 2635194,
+      "word": "小狗带车撞人",
+      "onboard_time": 1663573647,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2629328,
       "num": 2629328,
       "word": "沉香重华be",
@@ -1427,14 +1435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2254520,
-      "num": 2254520,
-      "word": "小狗带车撞人",
-      "onboard_time": 1663573647,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 2236954,
       "num": 2236954,
       "word": "网传韩剧鬼怪将翻拍中国版",
@@ -1817,6 +1817,14 @@
       "onboard_time": 1663499429,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1991415,
+      "num": 1991415,
+      "word": "三只松鼠被曝吃出油炸壁虎",
+      "onboard_time": 1663577967,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1982284,
@@ -3920,14 +3928,6 @@
       "word": "女生宿舍辣酱爆炸似案发现场",
       "onboard_time": 1662357873,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1355458,
-      "num": 1355458,
-      "word": "三只松鼠被曝吃出油炸壁虎",
-      "onboard_time": 1663577967,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -7731,6 +7731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 880201,
+      "num": 880201,
+      "word": "LWX被LBL禁赛",
+      "onboard_time": 1663581808,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 876233,
       "num": 733340,
       "word": "王鹤棣穿貂热到吐舌头",
@@ -8177,6 +8185,14 @@
       "onboard_time": 1663475729,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 834037,
+      "num": 834037,
+      "word": "低开高走的国产剧",
+      "onboard_time": 1663580065,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 833089,
@@ -9329,6 +9345,14 @@
       "onboard_time": 1662450565,
       "rank": 31,
       "category": "科技"
+    },
+    {
+      "raw_hot": 735411,
+      "num": 498036,
+      "word": "成毅换头像了",
+      "onboard_time": 1663579767,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 735388,
@@ -11995,6 +12019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 566387,
+      "num": 566387,
+      "word": "女装店用壮硕模特展示衣服引热议",
+      "onboard_time": 1663576467,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 565851,
       "num": 565851,
       "word": "这猫怎么做到又瘦又胖的",
@@ -13379,14 +13411,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 504608,
-      "num": 504608,
-      "word": "女装店用壮硕模特展示衣服引热议",
-      "onboard_time": 1663576467,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 503765,
       "num": 503765,
       "word": "王鹤棣我可太中二了",
@@ -13528,14 +13552,6 @@
       "word": "李栋旭41岁状态",
       "onboard_time": 1662453148,
       "rank": 21,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 498036,
-      "num": 498036,
-      "word": "成毅换头像了",
-      "onboard_time": 1663579767,
-      "rank": 11,
       "category": "作品衍生"
     },
     {
@@ -14835,6 +14851,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 454470,
+      "num": 454470,
+      "word": "魏晨说消失的孩子不烂尾",
+      "onboard_time": 1663577847,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 454088,
       "num": 454088,
       "word": "男生摘眼镜视力听力一起下降",
@@ -14969,6 +14993,14 @@
       "onboard_time": 1663207768,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 450639,
+      "num": 450639,
+      "word": "这是在明涵吧",
+      "onboard_time": 1663580786,
+      "rank": 15,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 450624,
@@ -16371,6 +16403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 410129,
+      "num": 307053,
+      "word": "虞书欣晒苍兰诀见面会plog",
+      "onboard_time": 1663582165,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 409900,
       "num": 409900,
       "word": "长大以后更羡慕夏雪了",
@@ -16547,6 +16587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 406172,
+      "num": 406172,
+      "word": "iPhone14截屏带岛",
+      "onboard_time": 1663582526,
+      "rank": 16,
+      "category": "科技"
+    },
+    {
       "raw_hot": 406100,
       "num": 298495,
       "word": "被忽然之间唱哭了",
@@ -16577,6 +16625,14 @@
       "onboard_time": 1663215882,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 405603,
+      "num": 405603,
+      "word": "猴痘传播途径",
+      "onboard_time": 1663577729,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 405526,
@@ -18643,14 +18699,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 359732,
-      "num": 359732,
-      "word": "猴痘传播途径",
-      "onboard_time": 1663577729,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 359661,
       "num": 359661,
       "word": "考教资有什么用",
@@ -19033,14 +19081,6 @@
       "onboard_time": 1662280649,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 352037,
-      "num": 331961,
-      "word": "魏晨说消失的孩子不烂尾",
-      "onboard_time": 1663577847,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 351900,
@@ -21467,6 +21507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 307091,
+      "num": 307091,
+      "word": "丈夫深夜背妻子双双仰翻进狗笼",
+      "onboard_time": 1663579948,
+      "rank": 43,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 307028,
       "num": 307028,
       "word": "首批领证电竞人",
@@ -23176,6 +23224,14 @@
       "word": "NCTDREAM将开启世界巡演",
       "onboard_time": 1662631527,
       "rank": 30,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 282829,
+      "num": 282829,
+      "word": "NMIXX回归",
+      "onboard_time": 1663582044,
+      "rank": 22,
       "category": "音乐"
     },
     {
@@ -26259,14 +26315,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 242365,
-      "num": 225561,
-      "word": "低开高走的国产剧",
-      "onboard_time": 1663580065,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 242346,
       "num": 242346,
       "word": "第一视角下的小狗有多可爱",
@@ -27283,6 +27331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228893,
+      "num": 219936,
+      "word": "小美人鱼扮演者halle发文",
+      "onboard_time": 1663579165,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 228783,
       "num": 228783,
       "word": "泸定连发多次地震",
@@ -27897,14 +27953,6 @@
       "onboard_time": 1662948395,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 219936,
-      "num": 219936,
-      "word": "小美人鱼扮演者halle发文",
-      "onboard_time": 1663579165,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 219810,
@@ -30547,6 +30595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 185469,
+      "num": 185469,
+      "word": "被这部十年前的动画鼓励到了",
+      "onboard_time": 1663581208,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 185409,
       "num": 102055,
       "word": "陈立农你好星期六",
@@ -33123,6 +33179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152269,
+      "num": 150286,
+      "word": "丁程鑫晒五宫格plog",
+      "onboard_time": 1663582467,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152191,
       "num": 150797,
       "word": "殷桃黄小蕾山城冤种姐妹",
@@ -33993,6 +34057,14 @@
       "onboard_time": 1662433766,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 139676,
+      "num": 139676,
+      "word": "喜欢兜风的小狗",
+      "onboard_time": 1663583068,
+      "rank": 44,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 139659,
@@ -34969,14 +35041,6 @@
       "onboard_time": 1663409367,
       "rank": 46,
       "category": "教育"
-    },
-    {
-      "raw_hot": 126980,
-      "num": 126980,
-      "word": "丈夫深夜背妻子双双仰翻进狗笼",
-      "onboard_time": 1663579948,
-      "rank": 43,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 126895,
@@ -36129,6 +36193,14 @@
       "onboard_time": 1662946355,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105310,
+      "num": 105310,
+      "word": "房企花式促销卖一套房奖中介200万",
+      "onboard_time": 1663583126,
+      "rank": 49,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 103022,
@@ -38089,6 +38161,14 @@
       "onboard_time": 1661973492,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 7263,
+      "num": 451851,
+      "word": "苏炳添的300万新学生",
+      "onboard_time": 1663581867,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 7206,
