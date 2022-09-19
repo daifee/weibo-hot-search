@@ -1,0 +1,410 @@
+{
+  "runTime": 1663569628244,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3530440,
+        "num": 3530440,
+        "word": "我的县长父亲",
+        "onboard_time": 1663562432,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1074074,
+        "num": 1074074,
+        "word": "英女王葬礼举行",
+        "onboard_time": 1663565488,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 7918,
+        "num": 1024896,
+        "word": "英雄回家",
+        "onboard_time": 1663384585,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 986027,
+        "num": 986027,
+        "word": "老人头痛欲裂竟是被蜱虫连吸数日",
+        "onboard_time": 1663563513,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 971218,
+        "num": 971218,
+        "word": "217054",
+        "onboard_time": 1663561469,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 867865,
+        "num": 867865,
+        "word": "网红烹食大白鲨后续",
+        "onboard_time": 1663566209,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 671897,
+        "num": 671897,
+        "word": "重庆猴痘病例病毒与德国病毒高度同源",
+        "onboard_time": 1663568788,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 654917,
+        "num": 654917,
+        "word": "爸爸为救4月大女儿日拌涂料20吨",
+        "onboard_time": 1663563331,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497078,
+        "num": 497078,
+        "word": "顺丰保价1.8万的单子只赔500",
+        "onboard_time": 1663559487,
+        "rank": 8,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 488320,
+        "num": 488320,
+        "word": "戴美瞳会把泪膜一分为二",
+        "onboard_time": 1663561351,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2025608,
+        "num": 482891,
+        "word": "虞书欣王鹤棣对镜自拍照",
+        "onboard_time": 1663569447,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1141906,
+        "num": 478748,
+        "word": "Angelababy银色短发造型封面",
+        "onboard_time": 1663567110,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 448083,
+        "num": 448083,
+        "word": "前车突然变道SUV被迫刀片超车",
+        "onboard_time": 1663564650,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439628,
+        "num": 439628,
+        "word": "小米11系列屡曝质量问题遭维权",
+        "onboard_time": 1663567167,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 420917,
+        "num": 420917,
+        "word": "百分百开麦官宣",
+        "onboard_time": 1663567769,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382783,
+        "num": 382783,
+        "word": "日本65岁以上就业人数达909万",
+        "onboard_time": 1663564113,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376607,
+        "num": 376607,
+        "word": "iPhone14采用高通卫星芯片",
+        "onboard_time": 1663566029,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 354561,
+        "num": 354561,
+        "word": "用女主名命名的电视剧",
+        "onboard_time": 1663554207,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 338023,
+        "num": 338023,
+        "word": "贵阳通报向全社会作出诚恳道歉",
+        "onboard_time": 1663521680,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295712,
+        "num": 295712,
+        "word": "为什么不建议学龄前儿童自己刷牙",
+        "onboard_time": 1663563092,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 271964,
+        "num": 271964,
+        "word": "盛光祖被开除党籍",
+        "onboard_time": 1663557868,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267971,
+        "num": 267971,
+        "word": "听刘敏涛2.5倍速说台词不用看字幕",
+        "onboard_time": 1663561291,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243980,
+        "num": 243980,
+        "word": "男生发现3年前学长留下的千字书信",
+        "onboard_time": 1663562855,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 233616,
+        "num": 233616,
+        "word": "周琦将继续效力海外联赛",
+        "onboard_time": 1663566450,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232612,
+        "num": 232612,
+        "word": "长期不吃晚饭或致代谢率下降",
+        "onboard_time": 1663549289,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228712,
+        "num": 228712,
+        "word": "四川新增本土确诊48例无症状47例",
+        "onboard_time": 1663565431,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227380,
+        "num": 227380,
+        "word": "杨紫长相思大婚路透",
+        "onboard_time": 1663559907,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 658777,
+        "num": 227161,
+        "word": "张翰曾带实习生看东八区的先生们",
+        "onboard_time": 1663553728,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207879,
+        "num": 207879,
+        "word": "任嘉伦新剧战损妆",
+        "onboard_time": 1663563513,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204800,
+        "num": 204800,
+        "word": "老牛被卖时跪地不起主人当场反悔",
+        "onboard_time": 1663553666,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 925590,
+        "num": 203914,
+        "word": "抖音崩了",
+        "onboard_time": 1663561713,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 207311,
+        "num": 203323,
+        "word": "于和伟回归喜剧大赛",
+        "onboard_time": 1663569086,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202329,
+        "num": 202329,
+        "word": "湖北一派出所副所长遭拒捕牺牲",
+        "onboard_time": 1663551687,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193851,
+        "num": 193851,
+        "word": "胰腺癌为何被称为癌中之王",
+        "onboard_time": 1663551446,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191687,
+        "num": 191687,
+        "word": "龙族",
+        "onboard_time": 1663553666,
+        "rank": 34,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 165701,
+        "num": 165701,
+        "word": "垫底辣孩再次致歉",
+        "onboard_time": 1663515272,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 149826,
+        "num": 149826,
+        "word": "网剧罚罪",
+        "onboard_time": 1663566329,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141838,
+        "num": 141838,
+        "word": "未按要求去冰女子将饮品倒进操作间",
+        "onboard_time": 1663549465,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137777,
+        "num": 137777,
+        "word": "失控滑板男童家人送锦旗感谢少年",
+        "onboard_time": 1663568726,
+        "rank": 38,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 129903,
+        "num": 129903,
+        "word": "爱情而已吴磊周雨彤吻戏好甜",
+        "onboard_time": 1663566270,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128078,
+        "num": 128078,
+        "word": "广安区暂停一切非必要人员流动",
+        "onboard_time": 1663555709,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127306,
+        "num": 127306,
+        "word": "这段录音记录下地震瞬间的生死抉择",
+        "onboard_time": 1663568009,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125200,
+        "num": 125200,
+        "word": "第一次见这么凶的小狗",
+        "onboard_time": 1663556368,
+        "rank": 42,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 123072,
+        "num": 123072,
+        "word": "8岁男孩认错妈吓得女孩连走带跑",
+        "onboard_time": 1663551867,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116021,
+        "num": 116021,
+        "word": "小伙偷合租女同事口红送女友",
+        "onboard_time": 1663554146,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112161,
+        "num": 112161,
+        "word": "虚拟偶像有真感情吗",
+        "onboard_time": 1663563331,
+        "rank": 45,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 104844,
+        "num": 104844,
+        "word": "小青和法海竟然是be美学",
+        "onboard_time": 1663547610,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104837,
+        "num": 104837,
+        "word": "到底有多少种食物不能空腹吃",
+        "onboard_time": 1663559789,
+        "rank": 47,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 95860,
+        "num": 95860,
+        "word": "苏大开发出可分可聚液体机器人",
+        "onboard_time": 1663569086,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 86510,
+        "num": 86510,
+        "word": "女子没喝酒遇查酒驾却吹出94",
+        "onboard_time": 1663545988,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#生态环境保护任重道远#"
+    }
+  }
+}
