@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1663620191139,
+  "endTime": 1663622566779,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -37811,6 +37811,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 70766,
+      "num": 28711,
+      "word": "231名中国公民在菲律宾获救",
+      "onboard_time": 1663616351,
+      "rank": 11,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 70351,
       "num": 70351,
       "word": "很难不对明艳大美人心动吧",
@@ -38123,14 +38131,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 47005,
-      "num": 27267,
-      "word": "231名中国公民在菲律宾获救",
-      "onboard_time": 1663616351,
-      "rank": 11,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 46687,
       "num": 46687,
       "word": "这只猫怎么还会外语",
@@ -38248,6 +38248,14 @@
       "word": "康辉的vlog上新了",
       "onboard_time": 1663157130,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40429,
+      "num": 28665,
+      "word": "北京10月31日前禁飞低慢小航空器",
+      "onboard_time": 1663619771,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -38457,6 +38465,14 @@
       "onboard_time": 1663322435,
       "rank": 14,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 25489,
+      "num": 25489,
+      "word": "家有贤妻剧组",
+      "onboard_time": 1663621931,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 24483,
@@ -38699,6 +38715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 10618,
+      "num": 10618,
+      "word": "河北一县城开办超10家共享自习室",
+      "onboard_time": 1663620971,
+      "rank": 44,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 10518,
       "num": 10518,
       "word": "蛋仔派对",
@@ -38747,20 +38771,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 9655,
+      "num": 9655,
+      "word": "佳木斯疫情防控",
+      "onboard_time": 1663621810,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 9641,
       "num": 13105,
       "word": "范世錡Mike互动好有梗",
       "onboard_time": 1662754990,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 9597,
-      "num": 9597,
-      "word": "北京10月31日前禁飞低慢小航空器",
-      "onboard_time": 1663619771,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 8649,
@@ -38897,6 +38921,14 @@
       "onboard_time": 1663277650,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 6731,
+      "num": 6731,
+      "word": "研究称肠道微生物随人类一同进化",
+      "onboard_time": 1663622531,
+      "rank": 49,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 6674,
