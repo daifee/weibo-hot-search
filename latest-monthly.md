@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/19 16:34:04
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/19 16:53:30
 </p>
 </blockquote>
 <p>
@@ -4425,6 +4425,12 @@ iPhone14Pro系列占中国订单85%（热度：1059806）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A6%E7%94%9F%E9%A2%91%E7%B9%81%E6%8E%89%E5%8F%91%E7%B4%A2%E6%80%A7%E5%89%83%E6%88%90%E5%85%89%E5%A4%B4%23" target="weibo">
+女学生频繁掉发索性剃成光头（热度：1056616）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E5%A5%BD%E5%83%8F%E6%8A%8A%E6%88%91%E9%AA%82%E9%86%92%E4%BA%86%23" target="weibo">
 杨超越好像把我骂醒了（热度：1055132）
 </a>
@@ -4455,6 +4461,12 @@ iPhone14Pro系列占中国订单85%（热度：1059806）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8B%97%E5%B8%A6%E8%BD%A6%E6%92%9E%E4%BA%BA%23" target="weibo">
+小狗带车撞人（热度：1050292）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E7%9B%B4%E6%92%AD%23" target="weibo">
 白鹿直播（热度：1050116）
 </a>
@@ -4481,12 +4493,6 @@ iPhone14Pro系列占中国订单85%（热度：1059806）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E5%92%8C%E8%AF%BB%E7%A0%94%E5%93%AA%E4%B8%AA%E6%9B%B4%E7%B4%AF%23" target="weibo">
 考研和读研哪个更累（热度：1045644）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A6%E7%94%9F%E9%A2%91%E7%B9%81%E6%8E%89%E5%8F%91%E7%B4%A2%E6%80%A7%E5%89%83%E6%88%90%E5%85%89%E5%A4%B4%23" target="weibo">
-女学生频繁掉发索性剃成光头（热度：1045357）
 </a>
 </li>
 
@@ -4679,6 +4685,12 @@ iPhone14真机测评（热度：1014858）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%96%B0%E5%89%A7%E7%9B%B4%E7%90%83%E6%92%A9%E5%BC%A0%E5%BD%AC%E5%BD%AC%23" target="weibo">
 虞书欣新剧直球撩张彬彬（热度：1013890）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%A4%E4%B8%AA%E6%9C%8B%E5%8F%8B%E5%8D%96iPhone14%E4%BE%BF%E5%AE%9C%E4%B8%80%E5%85%83%23" target="weibo">
+交个朋友卖iPhone14便宜一元（热度：1012682）
 </a>
 </li>
 
@@ -5181,12 +5193,6 @@ Light哭了（热度：949347）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8B%97%E5%B8%A6%E8%BD%A6%E6%92%9E%E4%BA%BA%23" target="weibo">
-小狗带车撞人（热度：943580）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E9%9C%87%E6%84%9F%23" target="weibo">
 西安震感（热度：943516）
 </a>
@@ -5225,12 +5231,6 @@ ios16（热度：941555）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AD%E7%89%88%E9%81%93%E6%98%8E%E5%AF%BA%23" target="weibo">
 六版道明寺（热度：940936）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%A4%E4%B8%AA%E6%9C%8B%E5%8F%8B%E5%8D%96iPhone14%E4%BE%BF%E5%AE%9C%E4%B8%80%E5%85%83%23" target="weibo">
-交个朋友卖iPhone14便宜一元（热度：937872）
 </a>
 </li>
 

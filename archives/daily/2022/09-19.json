@@ -1,6 +1,6 @@
 {
   "startTime": 1663518759246,
-  "endTime": 1663576444904,
+  "endTime": 1663577610748,
   "band_list": [
     {
       "raw_hot": 3530440,
@@ -179,12 +179,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1045357,
-      "num": 1045357,
+      "raw_hot": 1056616,
+      "num": 1056616,
       "word": "女学生频繁掉发索性剃成光头",
       "onboard_time": 1663572267,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1050292,
+      "num": 1050292,
+      "word": "小狗带车撞人",
+      "onboard_time": 1663573647,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 1012682,
+      "num": 1012682,
+      "word": "交个朋友卖iPhone14便宜一元",
+      "onboard_time": 1663574066,
+      "rank": 47,
+      "category": "科技"
     },
     {
       "raw_hot": 1012664,
@@ -225,22 +241,6 @@
       "onboard_time": 1663553666,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 943580,
-      "num": 943580,
-      "word": "小狗带车撞人",
-      "onboard_time": 1663573647,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 937872,
-      "num": 937872,
-      "word": "交个朋友卖iPhone14便宜一元",
-      "onboard_time": 1663574066,
-      "rank": 47,
-      "category": "科技"
     },
     {
       "raw_hot": 900658,
@@ -443,6 +443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 562058,
+      "num": 327207,
+      "word": "唐嫣晒随拍照",
+      "onboard_time": 1663577309,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 545550,
       "num": 545550,
       "word": "小青和法海竟然是be美学",
@@ -467,6 +475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 475699,
+      "num": 475699,
+      "word": "北电2022级表演实验班名单",
+      "onboard_time": 1663577009,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 459523,
       "num": 459523,
       "word": "731部队用跳蚤感染鼠疫后咬人",
@@ -489,6 +505,22 @@
       "onboard_time": 1663560209,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 414701,
+      "num": 414701,
+      "word": "重庆市发现1例境外输入猴痘病例",
+      "onboard_time": 1663573588,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 410745,
+      "num": 410745,
+      "word": "华为称正在推进5.5G",
+      "onboard_time": 1663574668,
+      "rank": 18,
+      "category": "科技"
     },
     {
       "raw_hot": 409552,
@@ -521,14 +553,6 @@
       "onboard_time": 1663551147,
       "rank": 15,
       "category": "科技"
-    },
-    {
-      "raw_hot": 388977,
-      "num": 388977,
-      "word": "重庆市发现1例境外输入猴痘病例",
-      "onboard_time": 1663573588,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 388683,
@@ -611,19 +635,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 343072,
-      "num": 343072,
-      "word": "华为称正在推进5.5G",
-      "onboard_time": 1663574668,
-      "rank": 18,
-      "category": "科技"
-    },
-    {
       "raw_hot": 340282,
       "num": 340282,
       "word": "哈尔滨疫情防控",
       "onboard_time": 1663555165,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 338244,
+      "num": 338244,
+      "word": "钱塘江退潮后惊现大地之树",
+      "onboard_time": 1663573466,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -739,14 +763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 277159,
-      "num": 277159,
-      "word": "钱塘江退潮后惊现大地之树",
-      "onboard_time": 1663573466,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 276652,
       "num": 276652,
       "word": "这段录音记录下地震瞬间的生死抉择",
@@ -761,6 +777,14 @@
       "onboard_time": 1663557927,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 266753,
+      "num": 266753,
+      "word": "原来流浪猫真的有情报网",
+      "onboard_time": 1663574369,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 263361,
@@ -843,14 +867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 240891,
-      "num": 240891,
-      "word": "原来流浪猫真的有情报网",
-      "onboard_time": 1663574369,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 240258,
       "num": 240258,
       "word": "江南新书开更",
@@ -915,6 +931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 221353,
+      "num": 221353,
+      "word": "女装店用壮硕模特展示衣服引热议",
+      "onboard_time": 1663576467,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221093,
       "num": 221093,
       "word": "嫉妒真的会使人面目全非",
@@ -923,12 +947,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 217179,
-      "num": 217179,
+      "raw_hot": 220364,
+      "num": 220364,
       "word": "爸爸想女儿来学校找女儿吃宵夜",
       "onboard_time": 1663570348,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 213369,
+      "num": 213369,
+      "word": "余承东称中国一些企业抄袭华为",
+      "onboard_time": 1663576411,
+      "rank": 48,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 212306,
@@ -937,6 +969,14 @@
       "onboard_time": 1663568726,
       "rank": 38,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 210979,
+      "num": 210979,
+      "word": "边抽血边踩奶的猫咪",
+      "onboard_time": 1663576710,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 210423,
@@ -955,6 +995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206816,
+      "num": 206816,
+      "word": "黄景瑜说今天常征黑化",
+      "onboard_time": 1663577309,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 204585,
       "num": 204585,
       "word": "广州台风",
@@ -968,6 +1016,14 @@
       "word": "上海国庆假期倡导本地过节",
       "onboard_time": 1663508611,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203519,
+      "num": 203519,
+      "word": "醉驾女司机超速逆行撞死老人获刑2年",
+      "onboard_time": 1663575627,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -1099,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176207,
+      "num": 176207,
+      "word": "获奖征文名撞梗讽刺电影被删除",
+      "onboard_time": 1663574847,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173032,
       "num": 173032,
       "word": "张彬彬原声台词",
@@ -1155,14 +1219,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 156036,
-      "num": 156036,
-      "word": "获奖征文名撞梗讽刺电影被删除",
-      "onboard_time": 1663574847,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155951,
       "num": 151198,
       "word": "周雨彤说吴磊夸夸费看着给",
@@ -1185,14 +1241,6 @@
       "onboard_time": 1663503570,
       "rank": 31,
       "category": "科技"
-    },
-    {
-      "raw_hot": 152133,
-      "num": 152133,
-      "word": "醉驾女司机超速逆行撞死老人获刑2年",
-      "onboard_time": 1663575627,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151737,
@@ -1283,6 +1331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137297,
+      "num": 137297,
+      "word": "保时捷拟定9月29日上市",
+      "onboard_time": 1663577188,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 136756,
       "num": 136756,
       "word": "不吃晚饭可能加速肥胖",
@@ -1331,6 +1387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127994,
+      "num": 127994,
+      "word": "两个人的小森林的浪漫好上头",
+      "onboard_time": 1663573047,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 127720,
       "num": 127720,
       "word": "电视剧底线",
@@ -1345,6 +1409,14 @@
       "onboard_time": 1663571129,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122638,
+      "num": 122638,
+      "word": "谁能拒绝一只戴假牙的小狗",
+      "onboard_time": 1663577248,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 121867,
@@ -1371,12 +1443,12 @@
       "category": "军事,国外要闻"
     },
     {
-      "raw_hot": 119007,
-      "num": 119007,
-      "word": "两个人的小森林的浪漫好上头",
-      "onboard_time": 1663573047,
+      "raw_hot": 115575,
+      "num": 115575,
+      "word": "如果可以穿越时空",
+      "onboard_time": 1663577309,
       "rank": 45,
-      "category": "影视"
+      "category": "游戏,情感"
     },
     {
       "raw_hot": 114358,
@@ -1435,20 +1507,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105346,
+      "num": 105346,
+      "word": "网传骄阳伴我明日重庆开机",
+      "onboard_time": 1663577547,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 100383,
       "num": 100383,
       "word": "成毅周亦安明天见",
       "onboard_time": 1663508312,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 99725,
-      "num": 99725,
-      "word": "余承东称中国一些企业抄袭华为",
-      "onboard_time": 1663576411,
-      "rank": 48,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 99497,
@@ -1539,6 +1611,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 48747,
+      "num": 2149479,
+      "word": "金秋丰收画卷",
+      "onboard_time": 1663575509,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45833,
       "num": 45833,
       "word": "46岁的曾黎和李小冉",
@@ -1553,14 +1633,6 @@
       "onboard_time": 1663527853,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 27141,
-      "num": 2149479,
-      "word": "金秋丰收画卷",
-      "onboard_time": 1663575509,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 18203,
