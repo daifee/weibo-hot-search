@@ -1,6 +1,6 @@
 {
   "startTime": 1663518759246,
-  "endTime": 1663630189950,
+  "endTime": 1663631151730,
   "band_list": [
     {
       "raw_hot": 3530440,
@@ -435,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 822977,
+      "num": 822977,
+      "word": "231名中国公民在菲律宾获救",
+      "onboard_time": 1663616351,
+      "rank": 11,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 816305,
       "num": 816305,
       "word": "A股",
@@ -457,6 +465,14 @@
       "onboard_time": 1663496248,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 740994,
+      "num": 740994,
+      "word": "老人连续10个月偷拿鞋店摆货鞋盒",
+      "onboard_time": 1663612392,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 740170,
@@ -505,14 +521,6 @@
       "onboard_time": 1663561351,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 702810,
-      "num": 702810,
-      "word": "231名中国公民在菲律宾获救",
-      "onboard_time": 1663616351,
-      "rank": 11,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 702373,
@@ -569,14 +577,6 @@
       "onboard_time": 1663585588,
       "rank": 13,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 625582,
-      "num": 625582,
-      "word": "老人连续10个月偷拿鞋店摆货鞋盒",
-      "onboard_time": 1663612392,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 624945,
@@ -739,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 504009,
+      "num": 504009,
+      "word": "男子查阅古籍定位盗窃古墓葬",
+      "onboard_time": 1663611072,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 496680,
       "num": 496680,
       "word": "前车突然变道SUV被迫刀片超车",
@@ -785,14 +793,6 @@
       "onboard_time": 1663591105,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 462312,
-      "num": 462312,
-      "word": "男子查阅古籍定位盗窃古墓葬",
-      "onboard_time": 1663611072,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 459523,
@@ -849,6 +849,14 @@
       "onboard_time": 1663598912,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 420602,
+      "num": 420602,
+      "word": "董宇辉解释玉米贵",
+      "onboard_time": 1663594586,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 419682,
@@ -913,14 +921,6 @@
       "onboard_time": 1663576710,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 398304,
-      "num": 398304,
-      "word": "董宇辉解释玉米贵",
-      "onboard_time": 1663594586,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 397169,
@@ -1051,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 351457,
+      "num": 351457,
+      "word": "北京10月31日前禁飞低慢小航空器",
+      "onboard_time": 1663619771,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 347076,
       "num": 221831,
       "word": "王欣凌",
@@ -1176,6 +1184,14 @@
       "word": "日本女教师给全班午餐下毒",
       "onboard_time": 1663483528,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305378,
+      "num": 305378,
+      "word": "男子偷外卖骑手当场抓获绑路杆上",
+      "onboard_time": 1663629440,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -1451,14 +1467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 249685,
-      "num": 249685,
-      "word": "北京10月31日前禁飞低慢小航空器",
-      "onboard_time": 1663619771,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 247466,
       "num": 247466,
       "word": "有人收购孕妇尿液每公斤12元",
@@ -1619,6 +1627,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 223865,
+      "num": 223865,
+      "word": "河北一县城开办超10家共享自习室",
+      "onboard_time": 1663620971,
+      "rank": 44,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 223247,
+      "num": 223247,
+      "word": "猫狗都嫌的年纪有多可怕",
+      "onboard_time": 1663630584,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 221093,
       "num": 221093,
       "word": "嫉妒真的会使人面目全非",
@@ -1681,14 +1705,6 @@
       "onboard_time": 1663599511,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 207775,
-      "num": 207775,
-      "word": "河北一县城开办超10家共享自习室",
-      "onboard_time": 1663620971,
-      "rank": 44,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 207311,
@@ -1899,6 +1915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175208,
+      "num": 175208,
+      "word": "牙不齐可能是因为脸小",
+      "onboard_time": 1663630402,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173032,
       "num": 173032,
       "word": "张彬彬原声台词",
@@ -1985,6 +2009,14 @@
       "onboard_time": 1663503570,
       "rank": 31,
       "category": "科技"
+    },
+    {
+      "raw_hot": 152473,
+      "num": 152473,
+      "word": "当猫咪是个工作狂",
+      "onboard_time": 1663628540,
+      "rank": 33,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 152269,
@@ -2299,12 +2331,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 111178,
-      "num": 111178,
-      "word": "当猫咪是个工作狂",
-      "onboard_time": 1663628540,
-      "rank": 33,
-      "category": "幽默,情感"
+      "raw_hot": 111518,
+      "num": 111518,
+      "word": "三只松鼠回应零食里吃出油炸壁虎",
+      "onboard_time": 1663589606,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110708,
@@ -2328,14 +2360,6 @@
       "word": "让禾下乘凉梦遍地开花",
       "onboard_time": 1663591949,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110122,
-      "num": 110122,
-      "word": "男子偷外卖骑手当场抓获绑路杆上",
-      "onboard_time": 1663629440,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -2435,6 +2459,14 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 96555,
+      "num": 96555,
+      "word": "佳木斯疫情防控",
+      "onboard_time": 1663621810,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95860,
       "num": 95860,
       "word": "苏大开发出可分可聚液体机器人",
@@ -2483,12 +2515,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 87424,
-      "num": 87424,
-      "word": "佳木斯疫情防控",
-      "onboard_time": 1663621810,
+      "raw_hot": 87135,
+      "num": 87135,
+      "word": "原来是妈妈主动选择了我",
+      "onboard_time": 1663630946,
       "rank": 46,
-      "category": "社会新闻"
+      "category": "幽默"
     },
     {
       "raw_hot": 86527,
@@ -2507,14 +2539,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 84810,
-      "num": 84810,
-      "word": "三只松鼠回应零食里吃出油炸壁虎",
-      "onboard_time": 1663589606,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 81471,
       "num": 81471,
       "word": "借个东西可太难了",
@@ -2523,12 +2547,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 77618,
+      "num": 77618,
+      "word": "薛之谦专辑文案",
+      "onboard_time": 1663631126,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 76698,
       "num": 76698,
       "word": "虞书欣王鹤棣张凌赫三十秒文学",
       "onboard_time": 1663499368,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 69305,
+      "num": 69305,
+      "word": "你真的会正确刷牙吗",
+      "onboard_time": 1663631126,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57935,
