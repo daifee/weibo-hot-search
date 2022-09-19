@@ -1,6 +1,6 @@
 {
   "startTime": 1663605342095,
-  "endTime": 1663613493433,
+  "endTime": 1663615279081,
   "band_list": [
     {
       "raw_hot": 1534932,
@@ -355,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92656,
+      "num": 46017,
+      "word": "男子查阅古籍定位盗窃古墓葬",
+      "onboard_time": 1663611072,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87654,
       "num": 87654,
       "word": "怎么做到一身正气地跳舞的",
@@ -403,14 +411,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 66184,
-      "num": 46017,
-      "word": "男子查阅古籍定位盗窃古墓葬",
-      "onboard_time": 1663611072,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 58656,
       "num": 58656,
       "word": "我的县长父亲",
@@ -451,20 +451,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 25940,
-      "num": 22586,
-      "word": "电视剧底线",
-      "onboard_time": 1663600710,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 19976,
-      "num": 19976,
+      "raw_hot": 30123,
+      "num": 25277,
       "word": "老人连续10个月偷拿鞋店摆货鞋盒",
       "onboard_time": 1663612392,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25940,
+      "num": 23346,
+      "word": "电视剧底线",
+      "onboard_time": 1663600710,
+      "rank": 40,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
