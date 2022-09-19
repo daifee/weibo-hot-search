@@ -1,6 +1,6 @@
 {
   "startTime": 1663518759246,
-  "endTime": 1663587477615,
+  "endTime": 1663591947796,
   "band_list": [
     {
       "raw_hot": 3530440,
@@ -65,6 +65,14 @@
       "onboard_time": 1663553728,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2071347,
+      "num": 862282,
+      "word": "陈都灵狐妖小红娘绿衣造型",
+      "onboard_time": 1663590927,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2025608,
@@ -291,6 +299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 965228,
+      "num": 965228,
+      "word": "任嘉伦被摸美人骨梦回周生辰",
+      "onboard_time": 1663588408,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 958600,
       "num": 958600,
       "word": "LWX被LBL禁赛",
@@ -435,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 646941,
+      "num": 646941,
+      "word": "姥姥送的兔子被宰7岁娃崩溃大哭",
+      "onboard_time": 1663584147,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 645345,
       "num": 645345,
       "word": "百分百开麦官宣",
@@ -465,6 +489,14 @@
       "onboard_time": 1663570768,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 612708,
+      "num": 612708,
+      "word": "月销千万元的牛肉干里没牛肉",
+      "onboard_time": 1663588767,
+      "rank": 9,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 612203,
@@ -505,14 +537,6 @@
       "onboard_time": 1663571968,
       "rank": 16,
       "category": "科技"
-    },
-    {
-      "raw_hot": 573637,
-      "num": 573637,
-      "word": "姥姥送的兔子被宰7岁娃崩溃大哭",
-      "onboard_time": 1663584147,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 568848,
@@ -563,6 +587,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 526937,
+      "num": 526937,
+      "word": "虾皮",
+      "onboard_time": 1663587149,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 519596,
+      "num": 519596,
+      "word": "我的县长父亲作者回应",
+      "onboard_time": 1663586247,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 496680,
       "num": 496680,
       "word": "前车突然变道SUV被迫刀片超车",
@@ -595,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 470544,
+      "num": 470544,
+      "word": "专家说丁程鑫表演有质感",
+      "onboard_time": 1663591105,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 459523,
       "num": 459523,
       "word": "731部队用跳蚤感染鼠疫后咬人",
@@ -611,6 +659,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 452706,
+      "num": 452706,
+      "word": "敖子逸澳门科技大学报到图",
+      "onboard_time": 1663590747,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 439628,
       "num": 439628,
       "word": "小米11系列屡曝质量问题遭维权",
@@ -619,12 +675,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 437540,
+      "num": 437540,
+      "word": "北电20导演赵韦弦",
+      "onboard_time": 1663589428,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 437086,
       "num": 330355,
       "word": "陆炎进入于登登失信名单",
       "onboard_time": 1663560209,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 419682,
+      "num": 419682,
+      "word": "恒大归化球员0出场赚千万后回家",
+      "onboard_time": 1663586669,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 414701,
@@ -883,20 +955,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 305115,
+      "num": 305115,
+      "word": "7只猫半年把高档窗帘抓成流苏",
+      "onboard_time": 1663587747,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 302521,
       "num": 302521,
       "word": "骄阳伴我",
       "onboard_time": 1663499368,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 301999,
-      "num": 301999,
-      "word": "我的县长父亲作者回应",
-      "onboard_time": 1663586247,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 298177,
@@ -1025,6 +1097,14 @@
       "onboard_time": 1663575627,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258472,
+      "num": 258472,
+      "word": "男子躲粪逃脱800公斤野牦牛袭击",
+      "onboard_time": 1663589966,
+      "rank": 23,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 255309,
@@ -1171,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225396,
+      "num": 225396,
+      "word": "最适合演校园文女主的演员",
+      "onboard_time": 1663587445,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 224166,
       "num": 224166,
       "word": "罚罪编剧",
@@ -1193,6 +1281,22 @@
       "onboard_time": 1663570348,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 218645,
+      "num": 160996,
+      "word": "五十公里桃花坞",
+      "onboard_time": 1663587984,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 216481,
+      "num": 156972,
+      "word": "李沁雪地剖丹撕裂感好强",
+      "onboard_time": 1663587747,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 212306,
@@ -1299,6 +1403,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 192590,
+      "num": 109075,
+      "word": "等风热吻你广播剧",
+      "onboard_time": 1663591228,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 189051,
       "num": 189051,
       "word": "山东大姐用煎饼复刻世界名画",
@@ -1385,14 +1497,6 @@
       "onboard_time": 1663574847,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 173139,
-      "num": 173139,
-      "word": "恒大归化球员0出场赚千万后回家",
-      "onboard_time": 1663586669,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 173032,
@@ -1611,14 +1715,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 135176,
-      "num": 135176,
-      "word": "虾皮",
-      "onboard_time": 1663587149,
-      "rank": 42,
-      "category": "财经"
-    },
-    {
       "raw_hot": 134961,
       "num": 134961,
       "word": "我也好想这么潇洒啊",
@@ -1649,14 +1745,6 @@
       "onboard_time": 1663510472,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 129308,
-      "num": 116502,
-      "word": "最适合演校园文女主的演员",
-      "onboard_time": 1663587445,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 128677,
@@ -1707,6 +1795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123884,
+      "num": 93537,
+      "word": "有被这样的人生态度开解到",
+      "onboard_time": 1663591885,
+      "rank": 47,
+      "category": "综艺,情感"
+    },
+    {
       "raw_hot": 121867,
       "num": 121867,
       "word": "这样的睡姿最毁腰",
@@ -1739,6 +1835,14 @@
       "category": "游戏,情感"
     },
     {
+      "raw_hot": 114748,
+      "num": 114748,
+      "word": "女生买打折眼影收货很脏爬满小虫",
+      "onboard_time": 1663590628,
+      "rank": 38,
+      "category": "美妆,社会新闻"
+    },
+    {
       "raw_hot": 114358,
       "num": 114358,
       "word": "对小朋友用的东西很是心动",
@@ -1763,6 +1867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 110571,
+      "num": 110571,
+      "word": "外卖小哥的统一手势",
+      "onboard_time": 1663591286,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 109241,
       "num": 109241,
       "word": "它怎么叫得乱七八糟的",
@@ -1785,6 +1897,14 @@
       "onboard_time": 1663557209,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 106905,
+      "num": 106905,
+      "word": "残疾大叔山里自学20年成全国专家",
+      "onboard_time": 1663588346,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106750,
@@ -1849,6 +1969,22 @@
       "onboard_time": 1663569086,
       "rank": 48,
       "category": "科技"
+    },
+    {
+      "raw_hot": 94030,
+      "num": 94030,
+      "word": "原来骆驼是这样叫的",
+      "onboard_time": 1663591705,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 93559,
+      "num": 93559,
+      "word": "肌肉小腿终于放松下来了",
+      "onboard_time": 1663588047,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 93448,
@@ -2050,6 +2186,9 @@
     },
     {
       "word": "#中国航天的每个首次都是突破#"
+    },
+    {
+      "word": "#不负嘱托更奋发#"
     }
   ]
 }

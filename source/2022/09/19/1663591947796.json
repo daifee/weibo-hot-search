@@ -1,0 +1,410 @@
+{
+  "runTime": 1663591947796,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1509596,
+        "num": 1509596,
+        "word": "小狗带车撞人",
+        "onboard_time": 1663573647,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 965228,
+        "num": 965228,
+        "word": "任嘉伦被摸美人骨梦回周生辰",
+        "onboard_time": 1663588408,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 43729,
+        "num": 893979,
+        "word": "金秋丰收画卷",
+        "onboard_time": 1663575509,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2071347,
+        "num": 862282,
+        "word": "陈都灵狐妖小红娘绿衣造型",
+        "onboard_time": 1663590927,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 828130,
+        "num": 828130,
+        "word": "iPhone14截屏带岛",
+        "onboard_time": 1663582526,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1148968,
+        "num": 827476,
+        "word": "贵阳市三名干部被停职检查",
+        "onboard_time": 1663585887,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 825016,
+        "num": 825016,
+        "word": "我的县长父亲",
+        "onboard_time": 1663562432,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 807150,
+        "num": 807150,
+        "word": "重庆猴痘病例病毒与德国病毒高度同源",
+        "onboard_time": 1663568788,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 646941,
+        "num": 646941,
+        "word": "姥姥送的兔子被宰7岁娃崩溃大哭",
+        "onboard_time": 1663584147,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 612708,
+        "num": 612708,
+        "word": "月销千万元的牛肉干里没牛肉",
+        "onboard_time": 1663588767,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 547263,
+        "num": 547263,
+        "word": "张翰曾向杨超越撒娇",
+        "onboard_time": 1663584810,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 526937,
+        "num": 526937,
+        "word": "虾皮",
+        "onboard_time": 1663587149,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 519844,
+        "num": 519844,
+        "word": "三只松鼠被曝吃出油炸壁虎",
+        "onboard_time": 1663577967,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519596,
+        "num": 519596,
+        "word": "我的县长父亲作者回应",
+        "onboard_time": 1663586247,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470544,
+        "num": 470544,
+        "word": "专家说丁程鑫表演有质感",
+        "onboard_time": 1663591105,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 460148,
+        "num": 460148,
+        "word": "低开高走的国产剧",
+        "onboard_time": 1663580065,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 452706,
+        "num": 452706,
+        "word": "敖子逸澳门科技大学报到图",
+        "onboard_time": 1663590747,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 437540,
+        "num": 437540,
+        "word": "北电20导演赵韦弦",
+        "onboard_time": 1663589428,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419682,
+        "num": 419682,
+        "word": "恒大归化球员0出场赚千万后回家",
+        "onboard_time": 1663586669,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 357631,
+        "num": 357631,
+        "word": "Uzi",
+        "onboard_time": 1663585588,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 448694,
+        "num": 334630,
+        "word": "这是在明涵吧",
+        "onboard_time": 1663580786,
+        "rank": 20,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 305115,
+        "num": 305115,
+        "word": "7只猫半年把高档窗帘抓成流苏",
+        "onboard_time": 1663587747,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264515,
+        "num": 264515,
+        "word": "LWX被LBL禁赛",
+        "onboard_time": 1663581808,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 258472,
+        "num": 258472,
+        "word": "男子躲粪逃脱800公斤野牦牛袭击",
+        "onboard_time": 1663589966,
+        "rank": 23,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 245177,
+        "num": 245177,
+        "word": "虞书欣晒苍兰诀见面会plog",
+        "onboard_time": 1663582165,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 225396,
+        "num": 225396,
+        "word": "最适合演校园文女主的演员",
+        "onboard_time": 1663587445,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223814,
+        "num": 223814,
+        "word": "女装店用壮硕模特展示衣服引热议",
+        "onboard_time": 1663576467,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222618,
+        "num": 222618,
+        "word": "英女王葬礼举行",
+        "onboard_time": 1663565488,
+        "rank": 27,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 221684,
+        "num": 221684,
+        "word": "天安门广场国庆大花篮",
+        "onboard_time": 1663585947,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165020,
+        "num": 165020,
+        "word": "女学生频繁掉发索性剃成光头",
+        "onboard_time": 1663572267,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218645,
+        "num": 160996,
+        "word": "五十公里桃花坞",
+        "onboard_time": 1663587984,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216481,
+        "num": 156972,
+        "word": "李沁雪地剖丹撕裂感好强",
+        "onboard_time": 1663587747,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201089,
+        "num": 152733,
+        "word": "难听",
+        "onboard_time": 1663580847,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200161,
+        "num": 149149,
+        "word": "成毅换头像了",
+        "onboard_time": 1663579767,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146027,
+        "num": 146027,
+        "word": "丈夫深夜背妻子双双仰翻进狗笼",
+        "onboard_time": 1663579948,
+        "rank": 34,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 139218,
+        "num": 139218,
+        "word": "交个朋友卖iPhone14便宜一元",
+        "onboard_time": 1663574066,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 138031,
+        "num": 138031,
+        "word": "边抽血边踩奶的猫咪",
+        "onboard_time": 1663576710,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135050,
+        "num": 135050,
+        "word": "猴痘传播途径",
+        "onboard_time": 1663577729,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114748,
+        "num": 114748,
+        "word": "女生买打折眼影收货很脏爬满小虫",
+        "onboard_time": 1663590628,
+        "rank": 38,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 110571,
+        "num": 110571,
+        "word": "外卖小哥的统一手势",
+        "onboard_time": 1663591286,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192590,
+        "num": 109075,
+        "word": "等风热吻你广播剧",
+        "onboard_time": 1663591228,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141492,
+        "num": 108870,
+        "word": "底线一口气炫六集",
+        "onboard_time": 1663584629,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 106905,
+        "num": 106905,
+        "word": "残疾大叔山里自学20年成全国专家",
+        "onboard_time": 1663588346,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100190,
+        "num": 100190,
+        "word": "钱塘江退潮后惊现大地之树",
+        "onboard_time": 1663573466,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94545,
+        "num": 94545,
+        "word": "余承东称中国一些企业抄袭华为",
+        "onboard_time": 1663576411,
+        "rank": 44,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 94030,
+        "num": 94030,
+        "word": "原来骆驼是这样叫的",
+        "onboard_time": 1663591705,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93559,
+        "num": 93559,
+        "word": "肌肉小腿终于放松下来了",
+        "onboard_time": 1663588047,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123884,
+        "num": 93537,
+        "word": "有被这样的人生态度开解到",
+        "onboard_time": 1663591885,
+        "rank": 47,
+        "category": "综艺,情感"
+      },
+      {
+        "raw_hot": 92648,
+        "num": 92648,
+        "word": "47岁牺牲民警一家三代四名警察",
+        "onboard_time": 1663571186,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91476,
+        "num": 91476,
+        "word": "lbl赛事",
+        "onboard_time": 1663587445,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#不负嘱托更奋发#"
+    }
+  }
+}
