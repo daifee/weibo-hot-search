@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1663605342095,
+  "endTime": 1663606960370,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -29523,6 +29523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204636,
+      "num": 204636,
+      "word": "R星官方回应给他爱新作泄露",
+      "onboard_time": 1663601607,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 204625,
       "num": 204625,
       "word": "iPhone14代抢最高加价2000",
@@ -31265,14 +31273,6 @@
       "onboard_time": 1662357577,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 183871,
-      "num": 183871,
-      "word": "R星官方回应给他爱新作泄露",
-      "onboard_time": 1663601607,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 183721,
@@ -33952,6 +33952,14 @@
       "word": "成毅底线追剧日历",
       "onboard_time": 1663542622,
       "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 149036,
+      "num": 125129,
+      "word": "靳东成毅底线观后感",
+      "onboard_time": 1663606039,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -38321,6 +38329,14 @@
       "onboard_time": 1663263914,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 33731,
+      "num": 42824,
+      "word": "钱塘江退潮后宛如巨幅水墨画",
+      "onboard_time": 1663605680,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 31791,
