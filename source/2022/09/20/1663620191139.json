@@ -1,0 +1,410 @@
+{
+  "runTime": 1663620191139,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 66094,
+        "num": 66094,
+        "word": "148一盒的敷尔佳面膜成本仅10元",
+        "onboard_time": 1663593387,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59629,
+        "num": 59629,
+        "word": "00后发朋友圈吐槽公司被开除",
+        "onboard_time": 1663600291,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 6232,
+        "num": 51099,
+        "word": "让禾下乘凉梦遍地开花",
+        "onboard_time": 1663591949,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49509,
+        "num": 49509,
+        "word": "IU耳朵出问题已长达1年",
+        "onboard_time": 1663598371,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42473,
+        "num": 42473,
+        "word": "iPhone14截屏带岛",
+        "onboard_time": 1663582526,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 41272,
+        "num": 41272,
+        "word": "男子查阅古籍定位盗窃古墓葬",
+        "onboard_time": 1663611072,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38162,
+        "num": 38162,
+        "word": "胰腺癌一旦发现往往已是中晚期",
+        "onboard_time": 1663599090,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32463,
+        "num": 32463,
+        "word": "董宇辉解释玉米贵",
+        "onboard_time": 1663594586,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30149,
+        "num": 30149,
+        "word": "浙江义乌要求下架槟榔",
+        "onboard_time": 1663595370,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26436,
+        "num": 26436,
+        "word": "月销千万元的牛肉干里没牛肉",
+        "onboard_time": 1663588767,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 114404,
+        "num": 26232,
+        "word": "任命张翰为黄晓明负责油腻工作",
+        "onboard_time": 1663597952,
+        "rank": 10,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 47005,
+        "num": 25487,
+        "word": "231名中国公民在菲律宾获救",
+        "onboard_time": 1663616351,
+        "rank": 11,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 23950,
+        "num": 23950,
+        "word": "姥姥送的兔子被宰7岁娃崩溃大哭",
+        "onboard_time": 1663584147,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22651,
+        "num": 22651,
+        "word": "电视剧底线",
+        "onboard_time": 1663600710,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21988,
+        "num": 21988,
+        "word": "贵阳市三名干部被停职检查",
+        "onboard_time": 1663585887,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21414,
+        "num": 21414,
+        "word": "我的县长父亲作者回应",
+        "onboard_time": 1663586247,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21183,
+        "num": 21183,
+        "word": "受困狗妈皮包骨5个崽却胖乎乎",
+        "onboard_time": 1663592187,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20498,
+        "num": 20498,
+        "word": "男子养8年猫被邻居捡走拒归还",
+        "onboard_time": 1663593026,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20176,
+        "num": 20176,
+        "word": "虞书欣爷爷友情客串两个人的小森林",
+        "onboard_time": 1663596391,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19830,
+        "num": 19830,
+        "word": "王鹤棣换微博头像",
+        "onboard_time": 1663592428,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 33903,
+        "num": 19785,
+        "word": "老人连续10个月偷拿鞋店摆货鞋盒",
+        "onboard_time": 1663612392,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19393,
+        "num": 19393,
+        "word": "有孩子之后不要养猫",
+        "onboard_time": 1663601247,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19185,
+        "num": 19185,
+        "word": "低开高走的国产剧",
+        "onboard_time": 1663580065,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18605,
+        "num": 18605,
+        "word": "刘诗诗刘宇宁同框对视路透",
+        "onboard_time": 1663603348,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18203,
+        "num": 18203,
+        "word": "影路站台杜英哲",
+        "onboard_time": 1663613353,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17827,
+        "num": 17827,
+        "word": "小鸟撞晕被救后赖在消防队不走了",
+        "onboard_time": 1663592367,
+        "rank": 25,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 17192,
+        "num": 17192,
+        "word": "中免日上",
+        "onboard_time": 1663592607,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17110,
+        "num": 17110,
+        "word": "靳东成毅底线观后感",
+        "onboard_time": 1663606039,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16788,
+        "num": 16788,
+        "word": "三只松鼠被曝吃出油炸壁虎",
+        "onboard_time": 1663577967,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16319,
+        "num": 16319,
+        "word": "小米回应11系列屡曝质量问题",
+        "onboard_time": 1663596689,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 53317,
+        "num": 16314,
+        "word": "北电20导演赵韦弦",
+        "onboard_time": 1663589428,
+        "rank": 30,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 16772,
+        "num": 16311,
+        "word": "狐妖小红娘胡连馨涂山容容造型",
+        "onboard_time": 1663598912,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 16309,
+        "num": 16309,
+        "word": "任嘉伦被摸美人骨梦回周生辰",
+        "onboard_time": 1663588408,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 15985,
+        "num": 15985,
+        "word": "最适合演校园文女主的演员",
+        "onboard_time": 1663587445,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 15963,
+        "num": 15963,
+        "word": "女子乘高铁光脚搭前排座椅",
+        "onboard_time": 1663595489,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14879,
+        "num": 14879,
+        "word": "德牧鼻梁被打裂跑进医院和派出所",
+        "onboard_time": 1663600352,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14318,
+        "num": 14318,
+        "word": "恒大归化球员0出场赚千万后回家",
+        "onboard_time": 1663586669,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13915,
+        "num": 13915,
+        "word": "赛博朋克边缘行者",
+        "onboard_time": 1663598609,
+        "rank": 37,
+        "category": "动漫,游戏"
+      },
+      {
+        "raw_hot": 13570,
+        "num": 13570,
+        "word": "Uzi",
+        "onboard_time": 1663585588,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 13292,
+        "num": 13292,
+        "word": "网购移动电源爆燃致父母烧伤进ICU",
+        "onboard_time": 1663592367,
+        "rank": 39,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 14692,
+        "num": 12806,
+        "word": "陈都灵狐妖小红娘绿衣造型",
+        "onboard_time": 1663590927,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 12269,
+        "num": 12269,
+        "word": "大庆疫情防控",
+        "onboard_time": 1663597282,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14163,
+        "num": 11828,
+        "word": "狐妖小红娘的服化道",
+        "onboard_time": 1663598852,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 10998,
+        "num": 10998,
+        "word": "LWX被LBL禁赛",
+        "onboard_time": 1663581808,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 9632,
+        "num": 9632,
+        "word": "情绪被这些BGM操控了",
+        "onboard_time": 1663615813,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 9597,
+        "num": 9597,
+        "word": "北京10月31日前禁飞低慢小航空器",
+        "onboard_time": 1663619771,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9289,
+        "num": 9289,
+        "word": "R星官方回应给他爱新作泄露",
+        "onboard_time": 1663601607,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 8283,
+        "num": 8283,
+        "word": "张镇麟参加辽宁男篮合练",
+        "onboard_time": 1663619651,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7917,
+        "num": 7917,
+        "word": "7只猫半年把高档窗帘抓成流苏",
+        "onboard_time": 1663587747,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7174,
+        "num": 7174,
+        "word": "虾皮",
+        "onboard_time": 1663587149,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#不负嘱托更奋发#"
+    }
+  }
+}
