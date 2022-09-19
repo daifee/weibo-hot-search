@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/19 15:56:05
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/19 16:34:04
 </p>
 </blockquote>
 <p>
@@ -4485,6 +4485,12 @@ iPhone14Pro系列占中国订单85%（热度：1059806）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A6%E7%94%9F%E9%A2%91%E7%B9%81%E6%8E%89%E5%8F%91%E7%B4%A2%E6%80%A7%E5%89%83%E6%88%90%E5%85%89%E5%A4%B4%23" target="weibo">
+女学生频繁掉发索性剃成光头（热度：1045357）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%B4%A8%E7%96%91%E7%89%99%E5%88%B7%E6%A0%87%E6%B3%A81%E4%B8%87%E6%A0%B9%E6%AF%9B%E4%BA%B2%E8%87%AA%E6%95%B0%23" target="weibo">
 男子质疑牙刷标注1万根毛亲自数（热度：1044101）
 </a>
@@ -5175,6 +5181,12 @@ Light哭了（热度：949347）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8B%97%E5%B8%A6%E8%BD%A6%E6%92%9E%E4%BA%BA%23" target="weibo">
+小狗带车撞人（热度：943580）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E9%9C%87%E6%84%9F%23" target="weibo">
 西安震感（热度：943516）
 </a>
@@ -5213,6 +5225,12 @@ ios16（热度：941555）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AD%E7%89%88%E9%81%93%E6%98%8E%E5%AF%BA%23" target="weibo">
 六版道明寺（热度：940936）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%A4%E4%B8%AA%E6%9C%8B%E5%8F%8B%E5%8D%96iPhone14%E4%BE%BF%E5%AE%9C%E4%B8%80%E5%85%83%23" target="weibo">
+交个朋友卖iPhone14便宜一元（热度：937872）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ iPhone14系列没涨价（热度：892829）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E8%A6%81%E6%B1%82%E7%BE%8E%E6%96%B9%E7%AB%8B%E5%8D%B3%E5%81%9C%E6%AD%A2%E4%B8%8D%E6%B3%95%E8%A1%8C%E4%B8%BA%23" target="weibo">
 中方要求美方立即停止不法行为（热度：851041）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E4%BF%9D%E5%A7%86%E6%8E%8C%E6%8E%B41%E5%B2%81%E5%AE%9D%E5%AE%9D%E5%BC%BA%E5%96%82%E8%BE%A3%E6%A4%92%23" target="weibo">
-女子称保姆掌掴1岁宝宝强喂辣椒（热度：849813）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E4%B8%8D%E6%83%912%E5%A4%A7%E7%BB%93%E5%B1%80%23" target="weibo">
-二十不惑2大结局（热度：849503）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%A6%96%E6%B0%94%E6%BC%AB%E7%94%BB%E5%85%B3%E5%81%9C%23" target="weibo">
-有妖气漫画关停（热度：846972）
 </a>
 </li>
 
