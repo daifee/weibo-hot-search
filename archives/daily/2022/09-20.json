@@ -1,6 +1,6 @@
 {
   "startTime": 1663605342095,
-  "endTime": 1663610107401,
+  "endTime": 1663612372460,
   "band_list": [
     {
       "raw_hot": 1534932,
@@ -433,6 +433,14 @@
       "onboard_time": 1663605680,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 38734,
+      "num": 44044,
+      "word": "男子查阅古籍定位盗窃古墓葬",
+      "onboard_time": 1663611072,
+      "rank": 19,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
