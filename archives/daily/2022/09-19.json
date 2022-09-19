@@ -1,6 +1,6 @@
 {
   "startTime": 1663518759246,
-  "endTime": 1663577610748,
+  "endTime": 1663579662626,
   "band_list": [
     {
       "raw_hot": 3530440,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1574367,
+      "num": 1574367,
+      "word": "小狗带车撞人",
+      "onboard_time": 1663573647,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1536493,
       "num": 1536493,
       "word": "长期不吃晚饭或致代谢率下降",
@@ -185,14 +193,6 @@
       "onboard_time": 1663572267,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1050292,
-      "num": 1050292,
-      "word": "小狗带车撞人",
-      "onboard_time": 1663573647,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 1012682,
@@ -355,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 674953,
+      "num": 674953,
+      "word": "三只松鼠被曝吃出油炸壁虎",
+      "onboard_time": 1663577967,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 654917,
       "num": 654917,
       "word": "爸爸为救4月大女儿日拌涂料20吨",
@@ -467,6 +475,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 491758,
+      "num": 125979,
+      "word": "NMIXX新曲",
+      "onboard_time": 1663579649,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 486225,
+      "num": 486225,
+      "word": "网传骄阳伴我明日重庆开机",
+      "onboard_time": 1663577547,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 479938,
       "num": 479938,
       "word": "苍兰诀 售后",
@@ -505,6 +529,14 @@
       "onboard_time": 1663560209,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 432895,
+      "num": 432895,
+      "word": "女装店用壮硕模特展示衣服引热议",
+      "onboard_time": 1663576467,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 414701,
@@ -553,6 +585,14 @@
       "onboard_time": 1663551147,
       "rank": 15,
       "category": "科技"
+    },
+    {
+      "raw_hot": 394092,
+      "num": 394092,
+      "word": "边抽血边踩奶的猫咪",
+      "onboard_time": 1663576710,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 388683,
@@ -635,6 +675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 340955,
+      "num": 340955,
+      "word": "余承东称中国一些企业抄袭华为",
+      "onboard_time": 1663576411,
+      "rank": 48,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 340282,
       "num": 340282,
       "word": "哈尔滨疫情防控",
@@ -697,6 +745,22 @@
       "onboard_time": 1663563513,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 310257,
+      "num": 310257,
+      "word": "猴痘传播途径",
+      "onboard_time": 1663577729,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 306929,
+      "num": 306929,
+      "word": "魏晨说消失的孩子不烂尾",
+      "onboard_time": 1663577847,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 305727,
@@ -811,6 +875,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 251698,
+      "num": 251698,
+      "word": "保时捷拟定9月29日上市",
+      "onboard_time": 1663577188,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 247670,
+      "num": 247670,
+      "word": "醉驾女司机超速逆行撞死老人获刑2年",
+      "onboard_time": 1663575627,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247466,
       "num": 247466,
       "word": "有人收购孕妇尿液每公斤12元",
@@ -839,6 +919,14 @@
       "num": 242802,
       "word": "乌鲁木齐疫情防控",
       "onboard_time": 1663551027,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242775,
+      "num": 242775,
+      "word": "47岁牺牲民警一家三代四名警察",
+      "onboard_time": 1663571186,
       "rank": 23,
       "category": "社会新闻"
     },
@@ -873,14 +961,6 @@
       "onboard_time": 1663556607,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 235112,
-      "num": 235112,
-      "word": "47岁牺牲民警一家三代四名警察",
-      "onboard_time": 1663571186,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 233616,
@@ -931,14 +1011,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 221353,
-      "num": 221353,
-      "word": "女装店用壮硕模特展示衣服引热议",
-      "onboard_time": 1663576467,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 221093,
       "num": 221093,
       "word": "嫉妒真的会使人面目全非",
@@ -955,12 +1027,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 213369,
-      "num": 213369,
-      "word": "余承东称中国一些企业抄袭华为",
-      "onboard_time": 1663576411,
-      "rank": 48,
-      "category": "科技,社会新闻"
+      "raw_hot": 213566,
+      "num": 213566,
+      "word": "谁能拒绝一只戴假牙的小狗",
+      "onboard_time": 1663577248,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 212306,
@@ -969,14 +1041,6 @@
       "onboard_time": 1663568726,
       "rank": 38,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 210979,
-      "num": 210979,
-      "word": "边抽血边踩奶的猫咪",
-      "onboard_time": 1663576710,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 210423,
@@ -1016,14 +1080,6 @@
       "word": "上海国庆假期倡导本地过节",
       "onboard_time": 1663508611,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203519,
-      "num": 203519,
-      "word": "醉驾女司机超速逆行撞死老人获刑2年",
-      "onboard_time": 1663575627,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -1219,6 +1275,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 161654,
+      "num": 161654,
+      "word": "喜欢坐着睡觉的猫咪",
+      "onboard_time": 1663578028,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 155951,
       "num": 151198,
       "word": "周雨彤说吴磊夸夸费看着给",
@@ -1243,6 +1307,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 152026,
+      "num": 152026,
+      "word": "河南增确诊2例本土无症状5例",
+      "onboard_time": 1663579228,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151737,
       "num": 151737,
       "word": "人们为何宁愿养宠物也不愿谈恋爱",
@@ -1257,6 +1329,14 @@
       "onboard_time": 1663573286,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 149383,
+      "num": 149383,
+      "word": "小美人鱼扮演者halle发文",
+      "onboard_time": 1663579165,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 149306,
@@ -1331,20 +1411,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 137297,
-      "num": 137297,
-      "word": "保时捷拟定9月29日上市",
-      "onboard_time": 1663577188,
-      "rank": 40,
-      "category": "财经"
-    },
-    {
       "raw_hot": 136756,
       "num": 136756,
       "word": "不吃晚饭可能加速肥胖",
       "onboard_time": 1663558705,
       "rank": 45,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 134961,
+      "num": 134961,
+      "word": "我也好想这么潇洒啊",
+      "onboard_time": 1663578746,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 133537,
@@ -1411,12 +1491,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 122638,
-      "num": 122638,
-      "word": "谁能拒绝一只戴假牙的小狗",
-      "onboard_time": 1663577248,
-      "rank": 42,
-      "category": "幽默"
+      "raw_hot": 124956,
+      "num": 124956,
+      "word": "预防猴痘要戴好口罩做好手部清洁",
+      "onboard_time": 1663578209,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121867,
@@ -1507,14 +1587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 105346,
-      "num": 105346,
-      "word": "网传骄阳伴我明日重庆开机",
-      "onboard_time": 1663577547,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 100383,
       "num": 100383,
       "word": "成毅周亦安明天见",
@@ -1603,20 +1675,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 56938,
+      "num": 2149479,
+      "word": "金秋丰收画卷",
+      "onboard_time": 1663575509,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49591,
       "num": 49591,
       "word": "雪中悍刀行原摄影师评论垫底辣孩",
       "onboard_time": 1663485036,
       "rank": 44,
       "category": "网红"
-    },
-    {
-      "raw_hot": 48747,
-      "num": 2149479,
-      "word": "金秋丰收画卷",
-      "onboard_time": 1663575509,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 45833,
@@ -1649,6 +1721,14 @@
       "onboard_time": 1663536371,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 12478,
+      "num": 380462,
+      "word": "华为Mate50评测",
+      "onboard_time": 1663578506,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11509,
