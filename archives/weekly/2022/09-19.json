@@ -1,6 +1,6 @@
 {
   "startTime": 1663518759246,
-  "endTime": 1663627295110,
+  "endTime": 1663630189950,
   "band_list": [
     {
       "raw_hot": 3530440,
@@ -507,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 702810,
+      "num": 702810,
+      "word": "231名中国公民在菲律宾获救",
+      "onboard_time": 1663616351,
+      "rank": 11,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 702373,
       "num": 702373,
       "word": "虞书欣要求王鹤棣认真接受跪拜礼",
@@ -561,6 +569,14 @@
       "onboard_time": 1663585588,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 625582,
+      "num": 625582,
+      "word": "老人连续10个月偷拿鞋店摆货鞋盒",
+      "onboard_time": 1663612392,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 624945,
@@ -771,6 +787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 462312,
+      "num": 462312,
+      "word": "男子查阅古籍定位盗窃古墓葬",
+      "onboard_time": 1663611072,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 459523,
       "num": 459523,
       "word": "731部队用跳蚤感染鼠疫后咬人",
@@ -891,6 +915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 398304,
+      "num": 398304,
+      "word": "董宇辉解释玉米贵",
+      "onboard_time": 1663594586,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 397169,
       "num": 397169,
       "word": "8岁男孩认错妈吓得女孩连走带跑",
@@ -905,14 +937,6 @@
       "onboard_time": 1663551147,
       "rank": 15,
       "category": "科技"
-    },
-    {
-      "raw_hot": 395859,
-      "num": 395859,
-      "word": "董宇辉解释玉米贵",
-      "onboard_time": 1663594586,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 388683,
@@ -1427,6 +1451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249685,
+      "num": 249685,
+      "word": "北京10月31日前禁飞低慢小航空器",
+      "onboard_time": 1663619771,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247466,
       "num": 247466,
       "word": "有人收购孕妇尿液每公斤12元",
@@ -1643,20 +1675,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 208912,
-      "num": 208912,
-      "word": "231名中国公民在菲律宾获救",
-      "onboard_time": 1663616351,
-      "rank": 11,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 208147,
       "num": 140545,
       "word": "消失的孩子",
       "onboard_time": 1663599511,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 207775,
+      "num": 207775,
+      "word": "河北一县城开办超10家共享自习室",
+      "onboard_time": 1663620971,
+      "rank": 44,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 207311,
@@ -1673,14 +1705,6 @@
       "onboard_time": 1663577309,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 205897,
-      "num": 128983,
-      "word": "老人连续10个月偷拿鞋店摆货鞋盒",
-      "onboard_time": 1663612392,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204836,
@@ -1761,14 +1785,6 @@
       "onboard_time": 1663570048,
       "rank": 29,
       "category": "财经"
-    },
-    {
-      "raw_hot": 196715,
-      "num": 196715,
-      "word": "男子查阅古籍定位盗窃古墓葬",
-      "onboard_time": 1663611072,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196398,
@@ -2171,6 +2187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 129134,
+      "num": 129134,
+      "word": "研究称肠道微生物随人类一同进化",
+      "onboard_time": 1663622531,
+      "rank": 49,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 128677,
       "num": 128677,
       "word": "世界上最神秘的鸟原来长这样",
@@ -2209,22 +2233,6 @@
       "onboard_time": 1663578209,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 124224,
-      "num": 124224,
-      "word": "北京10月31日前禁飞低慢小航空器",
-      "onboard_time": 1663619771,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 123893,
-      "num": 123893,
-      "word": "河北一县城开办超10家共享自习室",
-      "onboard_time": 1663620971,
-      "rank": 44,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 123884,
@@ -2291,6 +2299,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 111178,
+      "num": 111178,
+      "word": "当猫咪是个工作狂",
+      "onboard_time": 1663628540,
+      "rank": 33,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 110708,
       "num": 110708,
       "word": "TVB刑侦悬疑剧OST大赏",
@@ -2312,6 +2328,14 @@
       "word": "让禾下乘凉梦遍地开花",
       "onboard_time": 1663591949,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110122,
+      "num": 110122,
+      "word": "男子偷外卖骑手当场抓获绑路杆上",
+      "onboard_time": 1663629440,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -2459,8 +2483,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 86727,
-      "num": 86727,
+      "raw_hot": 87424,
+      "num": 87424,
       "word": "佳木斯疫情防控",
       "onboard_time": 1663621810,
       "rank": 46,
@@ -2483,20 +2507,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 84810,
+      "num": 84810,
+      "word": "三只松鼠回应零食里吃出油炸壁虎",
+      "onboard_time": 1663589606,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81471,
       "num": 81471,
       "word": "借个东西可太难了",
       "onboard_time": 1663513892,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 77983,
-      "num": 77983,
-      "word": "研究称肠道微生物随人类一同进化",
-      "onboard_time": 1663622531,
-      "rank": 49,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 76698,
@@ -2513,6 +2537,14 @@
       "onboard_time": 1663575509,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56343,
+      "num": 56343,
+      "word": "梅西达成1000次成功过人成就",
+      "onboard_time": 1663622891,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 49591,
@@ -2545,14 +2577,6 @@
       "onboard_time": 1663527853,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 33514,
-      "num": 33514,
-      "word": "梅西达成1000次成功过人成就",
-      "onboard_time": 1663622891,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 21836,

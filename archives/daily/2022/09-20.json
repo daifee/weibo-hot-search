@@ -1,6 +1,6 @@
 {
   "startTime": 1663605342095,
-  "endTime": 1663627295110,
+  "endTime": 1663630189950,
   "band_list": [
     {
       "raw_hot": 1534932,
@@ -11,8 +11,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1287525,
-      "num": 240265,
+      "raw_hot": 1328239,
+      "num": 291190,
       "word": "任命张翰为黄晓明负责油腻工作",
       "onboard_time": 1663597952,
       "rank": 10,
@@ -32,6 +32,22 @@
       "word": "148一盒的敷尔佳面膜成本仅10元",
       "onboard_time": 1663593387,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 702810,
+      "num": 702810,
+      "word": "231名中国公民在菲律宾获救",
+      "onboard_time": 1663616351,
+      "rank": 11,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 625582,
+      "num": 625582,
+      "word": "老人连续10个月偷拿鞋店摆货鞋盒",
+      "onboard_time": 1663612392,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -67,12 +83,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 462312,
+      "num": 462312,
+      "word": "男子查阅古籍定位盗窃古墓葬",
+      "onboard_time": 1663611072,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 425988,
       "num": 183756,
       "word": "偶遇王一博逛街",
       "onboard_time": 1663598852,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 398304,
+      "num": 398304,
+      "word": "董宇辉解释玉米贵",
+      "onboard_time": 1663594586,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 362187,
@@ -147,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249685,
+      "num": 249685,
+      "word": "北京10月31日前禁飞低慢小航空器",
+      "onboard_time": 1663619771,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229557,
       "num": 229557,
       "word": "小米回应11系列屡曝质量问题",
@@ -161,6 +201,14 @@
       "onboard_time": 1663601247,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 226619,
+      "num": 226619,
+      "word": "受困狗妈皮包骨5个崽却胖乎乎",
+      "onboard_time": 1663592187,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214957,
@@ -179,28 +227,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208912,
-      "num": 208912,
-      "word": "231名中国公民在菲律宾获救",
-      "onboard_time": 1663616351,
-      "rank": 11,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 208093,
-      "num": 208093,
-      "word": "董宇辉解释玉米贵",
-      "onboard_time": 1663594586,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 205897,
-      "num": 128983,
-      "word": "老人连续10个月偷拿鞋店摆货鞋盒",
-      "onboard_time": 1663612392,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 207775,
+      "num": 207775,
+      "word": "河北一县城开办超10家共享自习室",
+      "onboard_time": 1663620971,
+      "rank": 44,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 204636,
@@ -212,19 +244,11 @@
     },
     {
       "raw_hot": 198352,
-      "num": 127157,
+      "num": 127322,
       "word": "狐妖小红娘胡连馨涂山容容造型",
       "onboard_time": 1663598912,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 196715,
-      "num": 196715,
-      "word": "男子查阅古籍定位盗窃古墓葬",
-      "onboard_time": 1663611072,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 190253,
@@ -233,6 +257,14 @@
       "onboard_time": 1663590927,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 187367,
+      "num": 187367,
+      "word": "月销千万元的牛肉干里没牛肉",
+      "onboard_time": 1663588767,
+      "rank": 23,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 186123,
@@ -251,32 +283,32 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 172405,
-      "num": 172405,
-      "word": "月销千万元的牛肉干里没牛肉",
-      "onboard_time": 1663588767,
-      "rank": 23,
-      "category": "社会新闻,财经"
+      "raw_hot": 177837,
+      "num": 177837,
+      "word": "小鸟撞晕被救后赖在消防队不走了",
+      "onboard_time": 1663592367,
+      "rank": 44,
+      "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 168209,
-      "num": 168209,
+      "raw_hot": 177067,
+      "num": 177067,
       "word": "三只松鼠被曝吃出油炸壁虎",
       "onboard_time": 1663577967,
       "rank": 24,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162456,
-      "num": 162456,
-      "word": "受困狗妈皮包骨5个崽却胖乎乎",
-      "onboard_time": 1663592187,
-      "rank": 25,
+      "raw_hot": 169425,
+      "num": 169425,
+      "word": "女子乘高铁光脚搭前排座椅",
+      "onboard_time": 1663595489,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154336,
-      "num": 154336,
+      "raw_hot": 154765,
+      "num": 154765,
       "word": "男子养8年猫被邻居捡走拒归还",
       "onboard_time": 1663593026,
       "rank": 26,
@@ -308,19 +340,11 @@
     },
     {
       "raw_hot": 137961,
-      "num": 92685,
+      "num": 98240,
       "word": "低开高走的国产剧",
       "onboard_time": 1663580065,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 133492,
-      "num": 133492,
-      "word": "女子乘高铁光脚搭前排座椅",
-      "onboard_time": 1663595489,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131034,
@@ -332,27 +356,19 @@
     },
     {
       "raw_hot": 129726,
-      "num": 90913,
+      "num": 104731,
       "word": "任嘉伦被摸美人骨梦回周生辰",
       "onboard_time": 1663588408,
       "rank": 41,
       "category": "影视"
     },
     {
-      "raw_hot": 124224,
-      "num": 124224,
-      "word": "北京10月31日前禁飞低慢小航空器",
-      "onboard_time": 1663619771,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 123893,
-      "num": 123893,
-      "word": "河北一县城开办超10家共享自习室",
-      "onboard_time": 1663620971,
-      "rank": 44,
-      "category": "教育,社会新闻"
+      "raw_hot": 129134,
+      "num": 129134,
+      "word": "研究称肠道微生物随人类一同进化",
+      "onboard_time": 1663622531,
+      "rank": 49,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 121780,
@@ -369,6 +385,22 @@
       "onboard_time": 1663586669,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111178,
+      "num": 111178,
+      "word": "当猫咪是个工作狂",
+      "onboard_time": 1663628540,
+      "rank": 33,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 110122,
+      "num": 110122,
+      "word": "男子偷外卖骑手当场抓获绑路杆上",
+      "onboard_time": 1663629440,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97731,
@@ -403,14 +435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 88505,
-      "num": 88505,
-      "word": "小鸟撞晕被救后赖在消防队不走了",
-      "onboard_time": 1663592367,
-      "rank": 44,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 87654,
       "num": 87654,
       "word": "怎么做到一身正气地跳舞的",
@@ -419,12 +443,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 86727,
-      "num": 86727,
+      "raw_hot": 87424,
+      "num": 87424,
       "word": "佳木斯疫情防控",
       "onboard_time": 1663621810,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84810,
+      "num": 84810,
+      "word": "三只松鼠回应零食里吃出油炸壁虎",
+      "onboard_time": 1663589606,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82946,
+      "num": 82946,
+      "word": "最适合演校园文女主的演员",
+      "onboard_time": 1663587445,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 81585,
@@ -443,14 +483,6 @@
       "category": "美妆,社会新闻"
     },
     {
-      "raw_hot": 77983,
-      "num": 77983,
-      "word": "研究称肠道微生物随人类一同进化",
-      "onboard_time": 1663622531,
-      "rank": 49,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 77698,
       "num": 77698,
       "word": "虾皮",
@@ -459,12 +491,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 70628,
-      "num": 65173,
-      "word": "最适合演校园文女主的演员",
-      "onboard_time": 1663587445,
-      "rank": 41,
-      "category": "影视"
+      "raw_hot": 73679,
+      "num": 650766,
+      "word": "让禾下乘凉梦遍地开花",
+      "onboard_time": 1663591949,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 58656,
@@ -475,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56343,
+      "num": 56343,
+      "word": "梅西达成1000次成功过人成就",
+      "onboard_time": 1663622891,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51910,
       "num": 51910,
       "word": "赛博朋克边缘行者",
@@ -483,12 +523,12 @@
       "category": "动漫,游戏"
     },
     {
-      "raw_hot": 48171,
-      "num": 650766,
-      "word": "让禾下乘凉梦遍地开花",
-      "onboard_time": 1663591949,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 49776,
+      "num": 49776,
+      "word": "电视剧底线",
+      "onboard_time": 1663600710,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 47151,
@@ -505,22 +545,6 @@
       "onboard_time": 1663605680,
       "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 40127,
-      "num": 34435,
-      "word": "电视剧底线",
-      "onboard_time": 1663600710,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 33514,
-      "num": 33514,
-      "word": "梅西达成1000次成功过人成就",
-      "onboard_time": 1663622891,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 21836,
