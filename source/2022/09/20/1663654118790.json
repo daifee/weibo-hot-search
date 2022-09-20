@@ -1,0 +1,410 @@
+{
+  "runTime": 1663654118790,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 929916,
+        "num": 929916,
+        "word": "你会反复喜欢同一个人吗",
+        "onboard_time": 1663640785,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 914739,
+        "num": 914739,
+        "word": "龚俊向丰巢快递柜索赔101万",
+        "onboard_time": 1663653565,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15539,
+        "num": 861617,
+        "word": "让禾下乘凉梦遍地开花",
+        "onboard_time": 1663591949,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 829503,
+        "num": 829503,
+        "word": "如何看待社科院女研究生休学待产",
+        "onboard_time": 1663642947,
+        "rank": 3,
+        "category": "社会议题,教育"
+      },
+      {
+        "raw_hot": 638005,
+        "num": 638005,
+        "word": "杨颖马天宇吻戏",
+        "onboard_time": 1663649132,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1540621,
+        "num": 625675,
+        "word": "知名艺考机构老师被曝诱奸未成年",
+        "onboard_time": 1663639709,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 543940,
+        "num": 543940,
+        "word": "BLACKPINK新歌舞台造型",
+        "onboard_time": 1663649132,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 495795,
+        "num": 495795,
+        "word": "南京女大学生被害案二审维持原判",
+        "onboard_time": 1663645409,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481014,
+        "num": 481014,
+        "word": "2035年左右中国将进入重度老龄化",
+        "onboard_time": 1663652008,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443263,
+        "num": 443263,
+        "word": "小伙打游戏太猛主机突然冒火花",
+        "onboard_time": 1663648052,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 708607,
+        "num": 442962,
+        "word": "为什么没有男性避孕药",
+        "onboard_time": 1663631247,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581369,
+        "num": 441184,
+        "word": "狐妖小红娘 全是美女",
+        "onboard_time": 1663653087,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 438948,
+        "num": 438948,
+        "word": "走不出虞书欣顶桶的画面了",
+        "onboard_time": 1663647873,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 382925,
+        "num": 382925,
+        "word": "超八成留学人员学成归国",
+        "onboard_time": 1663647810,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19933,
+        "num": 359244,
+        "word": "神仙打架的新势力旗舰",
+        "onboard_time": 1663653624,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 356460,
+        "num": 356460,
+        "word": "理解了张桂梅校长",
+        "onboard_time": 1663648832,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 275539,
+        "num": 275539,
+        "word": "河南婚俗改革目标直指零彩礼",
+        "onboard_time": 1663641269,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266543,
+        "num": 266543,
+        "word": "四级报名",
+        "onboard_time": 1663652367,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 260148,
+        "num": 260148,
+        "word": "济宁疫情防控",
+        "onboard_time": 1663650269,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251009,
+        "num": 251009,
+        "word": "玄孙患病百岁老人含泪捧出一盒子零钱",
+        "onboard_time": 1663651828,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1170738,
+        "num": 250939,
+        "word": "李诞 假发",
+        "onboard_time": 1663648832,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 343567,
+        "num": 250791,
+        "word": "南依",
+        "onboard_time": 1663639469,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 250586,
+        "num": 250586,
+        "word": "中国城市人口密度榜",
+        "onboard_time": 1663650688,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243608,
+        "num": 243608,
+        "word": "吃东西老塞牙可能是牙齿在求救",
+        "onboard_time": 1663641085,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237896,
+        "num": 237896,
+        "word": "喝碳酸饮料半小时后再刷牙",
+        "onboard_time": 1663635746,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231898,
+        "num": 231898,
+        "word": "被告洪峤听到结果后瘫坐椅子上",
+        "onboard_time": 1663650808,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223110,
+        "num": 223110,
+        "word": "大妈做煎饼果子10年技术一言难尽",
+        "onboard_time": 1663653267,
+        "rank": 26,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 220258,
+        "num": 220258,
+        "word": "任命张翰为黄晓明负责油腻工作",
+        "onboard_time": 1663597952,
+        "rank": 27,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 190988,
+        "num": 190988,
+        "word": "洗米华被控289项罪",
+        "onboard_time": 1663645109,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190174,
+        "num": 190174,
+        "word": "武汉疫情防控",
+        "onboard_time": 1663652604,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314565,
+        "num": 190172,
+        "word": "索尼前CEO加入腾讯",
+        "onboard_time": 1663651228,
+        "rank": 30,
+        "category": "游戏,科技"
+      },
+      {
+        "raw_hot": 190169,
+        "num": 190169,
+        "word": "王者荣耀将对部分iPhone开放120帧",
+        "onboard_time": 1663643486,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 185524,
+        "num": 185524,
+        "word": "被火龙果花开瞬间惊艳到了",
+        "onboard_time": 1663652124,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185018,
+        "num": 185018,
+        "word": "想和晴儿学学说话的艺术",
+        "onboard_time": 1663650507,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181114,
+        "num": 181114,
+        "word": "四川营山等地要求下架槟榔",
+        "onboard_time": 1663647450,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177367,
+        "num": 177367,
+        "word": "猫咪开门让扫地机器人下27楼",
+        "onboard_time": 1663638267,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173328,
+        "num": 173328,
+        "word": "我国与58个国家签署学历学位互认协议",
+        "onboard_time": 1663652844,
+        "rank": 36,
+        "category": "教育,国内要闻"
+      },
+      {
+        "raw_hot": 161245,
+        "num": 161245,
+        "word": "南京被害女大学生家属回应二审维持原判",
+        "onboard_time": 1663651646,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156397,
+        "num": 156397,
+        "word": "小伙吃自热锅将发热包与食材同煮",
+        "onboard_time": 1663639289,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147376,
+        "num": 147376,
+        "word": "丈夫出轨2人赠与千万妻子起诉要回",
+        "onboard_time": 1663653927,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144164,
+        "num": 144164,
+        "word": "苍兰诀豆瓣评分人数破50万",
+        "onboard_time": 1663644927,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141822,
+        "num": 141822,
+        "word": "罚罪全员收伞",
+        "onboard_time": 1663649310,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139281,
+        "num": 139281,
+        "word": "狐妖小红娘 百花齐放",
+        "onboard_time": 1663653026,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132687,
+        "num": 132687,
+        "word": "95花的侧颜",
+        "onboard_time": 1663644748,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 129064,
+        "num": 129064,
+        "word": "杨幂旷野秋冬大片",
+        "onboard_time": 1663651828,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125456,
+        "num": 125456,
+        "word": "当狗狗身上长满了鸭子",
+        "onboard_time": 1663633648,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125237,
+        "num": 125237,
+        "word": "女生遭遇性骚扰应该怎么办",
+        "onboard_time": 1663646069,
+        "rank": 46,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 225143,
+        "num": 124385,
+        "word": "喜剧大赛2选手使相官宣",
+        "onboard_time": 1663654107,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121184,
+        "num": 121184,
+        "word": "硕士送外卖是基于理性和现实",
+        "onboard_time": 1663636767,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118825,
+        "num": 118825,
+        "word": "任泽平称苹果灵动岛是伪创新",
+        "onboard_time": 1663643008,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#不负嘱托更奋发#"
+    }
+  }
+}
