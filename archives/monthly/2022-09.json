@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1663680113532,
+  "endTime": 1663682165413,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -169,6 +169,14 @@
       "onboard_time": 1662005851,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 6029244,
+      "num": 1367337,
+      "word": "旺旺",
+      "onboard_time": 1663679552,
+      "rank": 6,
+      "category": "网红"
     },
     {
       "raw_hot": 5466567,
@@ -753,6 +761,14 @@
       "onboard_time": 1662290906,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2986366,
+      "num": 1638329,
+      "word": "你拿的是工资吗",
+      "onboard_time": 1663677750,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 2984335,
@@ -2979,14 +2995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1625202,
-      "num": 1625202,
-      "word": "你拿的是工资吗",
-      "onboard_time": 1663677750,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1619991,
       "num": 1619991,
       "word": "为什么不上jiejie",
@@ -4097,14 +4105,6 @@
       "onboard_time": 1662820066,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1367337,
-      "num": 1367337,
-      "word": "旺旺",
-      "onboard_time": 1663679552,
-      "rank": 6,
-      "category": "网红"
     },
     {
       "raw_hot": 1366564,
@@ -10547,6 +10547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 686928,
+      "num": 466982,
+      "word": "杜英哲",
+      "onboard_time": 1663667608,
+      "rank": 13,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 686360,
       "num": 686360,
       "word": "杨紫长相思大婚路透",
@@ -14363,6 +14371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 495635,
+      "num": 495635,
+      "word": "为什么不建议你劝别人分手",
+      "onboard_time": 1663678891,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 495378,
       "num": 495378,
       "word": "才知道这种体态不是驼背",
@@ -16059,14 +16075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 442053,
-      "num": 442053,
-      "word": "杜英哲",
-      "onboard_time": 1663667608,
-      "rank": 13,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 441764,
       "num": 441764,
       "word": "中级会计",
@@ -16305,6 +16313,14 @@
       "onboard_time": 1662557432,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 435001,
+      "num": 435001,
+      "word": "清华隔空喊话丁同学没你不行",
+      "onboard_time": 1663678770,
+      "rank": 38,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 434748,
@@ -21179,6 +21195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 330056,
+      "num": 330056,
+      "word": "猫猫是怎么表达肚子疼的",
+      "onboard_time": 1663678288,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 329837,
       "num": 329837,
       "word": "Adobe宣布收购Figma",
@@ -21449,6 +21473,14 @@
       "onboard_time": 1663510472,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 326123,
+      "num": 199227,
+      "word": "孟川CP文",
+      "onboard_time": 1663681655,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 325993,
@@ -23161,6 +23193,14 @@
       "onboard_time": 1663060055,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299747,
+      "num": 194118,
+      "word": "翰了汗了",
+      "onboard_time": 1663681595,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 299630,
@@ -30739,14 +30779,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 203805,
-      "num": 203805,
-      "word": "为什么不建议你劝别人分手",
-      "onboard_time": 1663678891,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 203559,
       "num": 203559,
       "word": "胰岛素含片或将问世",
@@ -32505,6 +32537,14 @@
       "onboard_time": 1662357577,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183894,
+      "num": 183894,
+      "word": "王毅会见美国前国务卿基辛格",
+      "onboard_time": 1663680217,
+      "rank": 36,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 183721,
@@ -34539,14 +34579,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 157396,
-      "num": 157396,
-      "word": "猫猫是怎么表达肚子疼的",
-      "onboard_time": 1663678288,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 157240,
       "num": 157240,
       "word": "武汉新增12例本土无症状",
@@ -36243,6 +36275,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 136464,
+      "num": 136464,
+      "word": "本周末考研预报名",
+      "onboard_time": 1663679795,
+      "rank": 45,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 136389,
       "num": 136389,
       "word": "北体健身房里什么样",
@@ -36907,6 +36947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 128922,
+      "num": 128922,
+      "word": "小浣熊头卡栅栏被救时吓尿了",
+      "onboard_time": 1663680935,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128868,
       "num": 128868,
       "word": "男孩地震后与父母重逢呼唤爸爸",
@@ -37347,6 +37395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119611,
+      "num": 119611,
+      "word": "武磊回归中超首秀",
+      "onboard_time": 1663681114,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119487,
       "num": 119487,
       "word": "陈幸同",
@@ -37473,14 +37529,6 @@
       "onboard_time": 1662708268,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 117566,
-      "num": 117566,
-      "word": "清华隔空喊话丁同学没你不行",
-      "onboard_time": 1663678770,
-      "rank": 38,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 117409,
@@ -38291,6 +38339,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 102807,
+      "num": 102807,
+      "word": "主人被自家宠物狗严重咬伤",
+      "onboard_time": 1663681476,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102543,
       "num": 102543,
       "word": "梦泪结婚一周年",
@@ -38619,14 +38675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 93176,
-      "num": 93176,
-      "word": "本周末考研预报名",
-      "onboard_time": 1663679795,
-      "rank": 45,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 92948,
       "num": 92948,
       "word": "大学要参加社团吗",
@@ -38641,6 +38689,14 @@
       "onboard_time": 1662188184,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 92570,
+      "num": 92570,
+      "word": "年轻人如何慢慢失去健康",
+      "onboard_time": 1663681114,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92274,
@@ -39297,6 +39353,14 @@
       "onboard_time": 1663335154,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 72768,
+      "num": 85231,
+      "word": "大连人",
+      "onboard_time": 1663682134,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 72670,

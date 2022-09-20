@@ -1,7 +1,15 @@
 {
   "startTime": 1663605342095,
-  "endTime": 1663680113532,
+  "endTime": 1663682165413,
   "band_list": [
+    {
+      "raw_hot": 6029244,
+      "num": 1367337,
+      "word": "旺旺",
+      "onboard_time": 1663679552,
+      "rank": 6,
+      "category": "网红"
+    },
     {
       "raw_hot": 5466567,
       "num": 744539,
@@ -17,6 +25,14 @@
       "onboard_time": 1663639469,
       "rank": 4,
       "category": "网红"
+    },
+    {
+      "raw_hot": 2986366,
+      "num": 1638329,
+      "word": "你拿的是工资吗",
+      "onboard_time": 1663677750,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 2913274,
@@ -115,14 +131,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1625202,
-      "num": 1625202,
-      "word": "你拿的是工资吗",
-      "onboard_time": 1663677750,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1600552,
       "num": 1600552,
       "word": "你会反复喜欢同一个人吗",
@@ -177,14 +185,6 @@
       "onboard_time": 1663678770,
       "rank": 5,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1367337,
-      "num": 1367337,
-      "word": "旺旺",
-      "onboard_time": 1663679552,
-      "rank": 6,
-      "category": "网红"
     },
     {
       "raw_hot": 1363240,
@@ -387,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 686928,
+      "num": 466982,
+      "word": "杜英哲",
+      "onboard_time": 1663667608,
+      "rank": 13,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 654330,
       "num": 654330,
       "word": "大妈做煎饼果子10年技术一言难尽",
@@ -547,6 +555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 495635,
+      "num": 495635,
+      "word": "为什么不建议你劝别人分手",
+      "onboard_time": 1663678891,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 476361,
       "num": 476361,
       "word": "原来是妈妈主动选择了我",
@@ -611,14 +627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 442053,
-      "num": 442053,
-      "word": "杜英哲",
-      "onboard_time": 1663667608,
-      "rank": 13,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 438711,
       "num": 438711,
       "word": "墨西哥发生7.7级地震",
@@ -633,6 +641,14 @@
       "onboard_time": 1663637605,
       "rank": 15,
       "category": "科技"
+    },
+    {
+      "raw_hot": 435001,
+      "num": 435001,
+      "word": "清华隔空喊话丁同学没你不行",
+      "onboard_time": 1663678770,
+      "rank": 38,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 425988,
@@ -665,6 +681,14 @@
       "onboard_time": 1663665568,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 411266,
+      "num": 290252,
+      "word": "鬼吹灯",
+      "onboard_time": 1663678711,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 403668,
@@ -811,14 +835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 346085,
-      "num": 282983,
-      "word": "鬼吹灯",
-      "onboard_time": 1663678711,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 338669,
       "num": 338669,
       "word": "小学生把栓Q写进作文",
@@ -835,6 +851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 336712,
+      "num": 287852,
+      "word": "脱口秀大会",
+      "onboard_time": 1663677569,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 330327,
       "num": 330327,
       "word": "洗牙会不会有危害",
@@ -843,12 +867,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 330056,
+      "num": 330056,
+      "word": "猫猫是怎么表达肚子疼的",
+      "onboard_time": 1663678288,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 327120,
       "num": 292582,
       "word": "明年待播的古偶剧",
       "onboard_time": 1663674273,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 326123,
+      "num": 199227,
+      "word": "孟川CP文",
+      "onboard_time": 1663681655,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 324862,
@@ -931,6 +971,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 299747,
+      "num": 194118,
+      "word": "翰了汗了",
+      "onboard_time": 1663681595,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 295883,
       "num": 295883,
       "word": "我国与58个国家签署学历学位互认协议",
@@ -969,14 +1017,6 @@
       "onboard_time": 1663674514,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 284808,
-      "num": 189417,
-      "word": "脱口秀大会",
-      "onboard_time": 1663677569,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 284168,
@@ -1024,6 +1064,14 @@
       "word": "罚罪全员收伞",
       "onboard_time": 1663649310,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 276118,
+      "num": 256600,
+      "word": "罚罪",
+      "onboard_time": 1663671449,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -1129,14 +1177,6 @@
       "onboard_time": 1663638566,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 256600,
-      "num": 256600,
-      "word": "罚罪",
-      "onboard_time": 1663671449,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 256442,
@@ -1419,14 +1459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 203805,
-      "num": 203805,
-      "word": "为什么不建议你劝别人分手",
-      "onboard_time": 1663678891,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 203245,
       "num": 203245,
       "word": "智齿要不要去拔",
@@ -1547,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183894,
+      "num": 183894,
+      "word": "王毅会见美国前国务卿基辛格",
+      "onboard_time": 1663680217,
+      "rank": 36,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 182415,
       "num": 182415,
       "word": "北京新增8例境外输入确诊",
@@ -1649,14 +1689,6 @@
       "onboard_time": 1663651646,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157396,
-      "num": 157396,
-      "word": "猫猫是怎么表达肚子疼的",
-      "onboard_time": 1663678288,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 152975,
@@ -1779,6 +1811,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 136464,
+      "num": 136464,
+      "word": "本周末考研预报名",
+      "onboard_time": 1663679795,
+      "rank": 45,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 136098,
       "num": 135049,
       "word": "南依发文称别人意见不喜欢不会参考",
@@ -1851,6 +1891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 128922,
+      "num": 128922,
+      "word": "小浣熊头卡栅栏被救时吓尿了",
+      "onboard_time": 1663680935,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121780,
       "num": 121780,
       "word": "Uzi",
@@ -1859,20 +1907,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 119611,
+      "num": 119611,
+      "word": "武磊回归中超首秀",
+      "onboard_time": 1663681114,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118827,
       "num": 118827,
       "word": "恒大归化球员0出场赚千万后回家",
       "onboard_time": 1663586669,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 117566,
-      "num": 117566,
-      "word": "清华隔空喊话丁同学没你不行",
-      "onboard_time": 1663678770,
-      "rank": 38,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 115496,
@@ -1913,6 +1961,14 @@
       "onboard_time": 1663656445,
       "rank": 47,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 102807,
+      "num": 102807,
+      "word": "主人被自家宠物狗严重咬伤",
+      "onboard_time": 1663681476,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101969,
@@ -1987,19 +2043,19 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 93176,
-      "num": 93176,
-      "word": "本周末考研预报名",
-      "onboard_time": 1663679795,
-      "rank": 45,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 92817,
       "num": 92817,
       "word": "7只猫半年把高档窗帘抓成流苏",
       "onboard_time": 1663587747,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92570,
+      "num": 92570,
+      "word": "年轻人如何慢慢失去健康",
+      "onboard_time": 1663681114,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -2065,6 +2121,14 @@
       "onboard_time": 1663678109,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 72768,
+      "num": 85231,
+      "word": "大连人",
+      "onboard_time": 1663682134,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 69305,
