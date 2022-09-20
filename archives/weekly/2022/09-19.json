@@ -1,6 +1,6 @@
 {
   "startTime": 1663518759246,
-  "endTime": 1663649453319,
+  "endTime": 1663650388802,
   "band_list": [
     {
       "raw_hot": 3530440,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 1564265,
-      "num": 940809,
+      "num": 1014155,
       "word": "如何看待社科院女研究生休学待产",
       "onboard_time": 1663642947,
       "rank": 29,
@@ -267,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1332360,
+      "num": 356060,
+      "word": "李诞 假发",
+      "onboard_time": 1663648832,
+      "rank": 20,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 1308240,
       "num": 1308240,
       "word": "任嘉伦被摸美人骨梦回周生辰",
@@ -291,20 +299,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1224387,
+      "num": 936967,
+      "word": "杨颖新剧九尾狐造型",
+      "onboard_time": 1663646431,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1201209,
       "num": 1201209,
       "word": "湖北一派出所副所长遭拒捕牺牲",
       "onboard_time": 1663551687,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1182348,
-      "num": 936967,
-      "word": "杨颖新剧九尾狐造型",
-      "onboard_time": 1663646431,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 1165110,
@@ -329,6 +337,14 @@
       "onboard_time": 1663598852,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1125691,
+      "num": 1125691,
+      "word": "南京女大学生被害案二审维持原判",
+      "onboard_time": 1663645409,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1123869,
@@ -483,14 +499,6 @@
       "category": "综艺,幽默"
     },
     {
-      "raw_hot": 919424,
-      "num": 919424,
-      "word": "南京女大学生被害案二审维持原判",
-      "onboard_time": 1663645409,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 900658,
       "num": 900658,
       "word": "这样的雨伞建议量产",
@@ -553,6 +561,14 @@
       "onboard_time": 1663633648,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 762399,
+      "num": 762399,
+      "word": "走不出虞书欣顶桶的画面了",
+      "onboard_time": 1663647873,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 745397,
@@ -681,14 +697,6 @@
       "onboard_time": 1663585588,
       "rank": 13,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 628038,
-      "num": 628038,
-      "word": "走不出虞书欣顶桶的画面了",
-      "onboard_time": 1663647873,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 624945,
@@ -843,6 +851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 552124,
+      "num": 552124,
+      "word": "杨颖马天宇吻戏",
+      "onboard_time": 1663649132,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 547768,
       "num": 320889,
       "word": "成毅新剧又被扒拉",
@@ -881,6 +897,14 @@
       "onboard_time": 1663587149,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 525375,
+      "num": 525375,
+      "word": "BLACKPINK新歌舞台造型",
+      "onboard_time": 1663649132,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 519596,
@@ -947,14 +971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 474865,
-      "num": 356060,
-      "word": "李诞 假发",
-      "onboard_time": 1663648832,
-      "rank": 20,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 470544,
       "num": 470544,
       "word": "专家说丁程鑫表演有质感",
@@ -993,14 +1009,6 @@
       "onboard_time": 1663590747,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 450571,
-      "num": 450571,
-      "word": "杨颖马天宇吻戏",
-      "onboard_time": 1663649132,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 446087,
@@ -1137,14 +1145,6 @@
       "onboard_time": 1663576710,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 397652,
-      "num": 352679,
-      "word": "BLACKPINK新歌舞台造型",
-      "onboard_time": 1663649132,
-      "rank": 21,
-      "category": "音乐"
     },
     {
       "raw_hot": 397169,
@@ -1300,7 +1300,7 @@
     },
     {
       "raw_hot": 354227,
-      "num": 250668,
+      "num": 268163,
       "word": "95花的侧颜",
       "onboard_time": 1663644748,
       "rank": 30,
@@ -1323,6 +1323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 346525,
+      "num": 346525,
+      "word": "济宁疫情防控",
+      "onboard_time": 1663650269,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 340282,
       "num": 340282,
       "word": "哈尔滨疫情防控",
@@ -1340,7 +1348,7 @@
     },
     {
       "raw_hot": 337076,
-      "num": 250282,
+      "num": 263704,
       "word": "像你这样的朋友好上头",
       "onboard_time": 1663649190,
       "rank": 31,
@@ -1352,6 +1360,14 @@
       "word": "员工故意旷工被开除起诉索赔12万",
       "onboard_time": 1663509811,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 335247,
+      "num": 335247,
+      "word": "小伙打游戏太猛主机突然冒火花",
+      "onboard_time": 1663648052,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1465,6 +1481,14 @@
       "onboard_time": 1663643486,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 305966,
+      "num": 305966,
+      "word": "理解了张桂梅校长",
+      "onboard_time": 1663648832,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 305727,
@@ -1644,7 +1668,7 @@
     },
     {
       "raw_hot": 278701,
-      "num": 248723,
+      "num": 254436,
       "word": "罚罪全员收伞",
       "onboard_time": 1663649310,
       "rank": 34,
@@ -1787,6 +1811,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 254554,
+      "num": 254554,
+      "word": "女生遭遇性骚扰应该怎么办",
+      "onboard_time": 1663646069,
+      "rank": 36,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 253686,
       "num": 253686,
       "word": "陈哲远身携巨款笑哭沈月",
@@ -1816,6 +1848,14 @@
       "word": "四川营山等地要求下架槟榔",
       "onboard_time": 1663647450,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248457,
+      "num": 248457,
+      "word": "超八成留学人员学成归国",
+      "onboard_time": 1663647810,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1915,14 +1955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 233219,
-      "num": 233219,
-      "word": "女生遭遇性骚扰应该怎么办",
-      "onboard_time": 1663646069,
-      "rank": 36,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 231212,
       "num": 231212,
       "word": "四川新增本土确诊48例无症状47例",
@@ -1963,6 +1995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228537,
+      "num": 191079,
+      "word": "马嘉祺说音乐就是快乐星球",
+      "onboard_time": 1663644808,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227354,
       "num": 227354,
       "word": "天安门广场国庆大花篮",
@@ -2001,14 +2041,6 @@
       "onboard_time": 1663620971,
       "rank": 44,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 223288,
-      "num": 223288,
-      "word": "理解了张桂梅校长",
-      "onboard_time": 1663648832,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 223247,
@@ -2179,14 +2211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 201327,
-      "num": 201327,
-      "word": "超八成留学人员学成归国",
-      "onboard_time": 1663647810,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198809,
       "num": 198809,
       "word": "黄明昊流水的收官铁打的藏头诗",
@@ -2257,14 +2281,6 @@
       "onboard_time": 1663542560,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 188532,
-      "num": 188532,
-      "word": "小伙打游戏太猛主机突然冒火花",
-      "onboard_time": 1663648052,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 188324,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/20 12:50:53
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/20 13:06:28
 </p>
 </blockquote>
 <p>
@@ -3177,6 +3177,12 @@ Rookie泪目（热度：1345777）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%AF%9E%20%E5%81%87%E5%8F%91%23" target="weibo">
+李诞 假发（热度：1332360）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E5%AE%B6%E4%BD%B3%E5%8D%8E%E9%BC%8E%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%E8%A7%92%23" target="weibo">
 邓家佳华鼎奖最佳女主角（热度：1332131）
 </a>
@@ -3615,6 +3621,12 @@ Twins不承认吴谨言的粤语是自己教的（热度：1255504）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%A2%96%E6%96%B0%E5%89%A7%E4%B9%9D%E5%B0%BE%E7%8B%90%E9%80%A0%E5%9E%8B%23" target="weibo">
+杨颖新剧九尾狐造型（热度：1224387）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%A7%E7%A7%91%E5%8C%BB%E7%94%9F%E8%BE%9F%E8%B0%A3%E5%8F%8C%E8%83%9E%E8%83%8E%E8%82%9A%E5%86%85%E6%89%93%E6%9E%B6%23" target="weibo">
 产科医生辟谣双胞胎肚内打架（热度：1223927）
 </a>
@@ -3809,12 +3821,6 @@ LWX直播（热度：1190598）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%B0%86%E6%8D%90%E6%AC%BE%E6%94%AF%E6%8C%81%E5%9B%9B%E5%B7%9D%E6%95%91%E6%8F%B4%E5%92%8C%E9%87%8D%E5%BB%BA%23" target="weibo">
 苹果将捐款支持四川救援和重建（热度：1185369）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%A2%96%E6%96%B0%E5%89%A7%E4%B9%9D%E5%B0%BE%E7%8B%90%E9%80%A0%E5%9E%8B%23" target="weibo">
-杨颖新剧九尾狐造型（热度：1182348）
 </a>
 </li>
 
@@ -4079,6 +4085,12 @@ boss直聘公示涉性骚扰违规账号（热度：1144916）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BD%A6%E4%BF%8A%E6%96%87%E6%A1%88%E6%8A%84%E8%A2%AD%23" target="weibo">
 林彦俊文案抄袭（热度：1127618）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%AE%B3%E6%A1%88%E4%BA%8C%E5%AE%A1%E7%BB%B4%E6%8C%81%E5%8E%9F%E5%88%A4%23" target="weibo">
+南京女大学生被害案二审维持原判（热度：1125691）
 </a>
 </li>
 
@@ -5631,12 +5643,6 @@ LPL三号种子EDG（热度：926061）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%AE%B3%E6%A1%88%E4%BA%8C%E5%AE%A1%E7%BB%B4%E6%8C%81%E5%8E%9F%E5%88%A4%23" target="weibo">
-南京女大学生被害案二审维持原判（热度：919424）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E5%AE%BF%E8%88%8D%E7%82%96%E9%B2%AB%E9%B1%BC%E6%B1%A4%E8%A2%AB%E7%BD%91%E5%8F%8B%E4%B8%BE%E6%8A%A5%23" target="weibo">
 学生宿舍炖鲫鱼汤被网友举报（热度：919100）
 </a>
@@ -6005,12 +6011,6 @@ iPhone14系列没涨价（热度：892829）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%98%8C%E4%B8%8A%E7%A9%BA%E5%87%BA%E7%8E%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9%23" target="weibo">
 南昌上空出现不明飞行物（热度：872837）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%AF%A8iPhone14ProMax%E5%B7%B2%E4%B8%8A%E5%B8%82%23" target="weibo">
-山寨iPhone14ProMax已上市（热度：870844）
 </a>
 </li>
 
