@@ -1,6 +1,6 @@
 {
   "startTime": 1663691674200,
-  "endTime": 1663693125405,
+  "endTime": 1663695037992,
   "band_list": [
     {
       "raw_hot": 973946,
@@ -9,6 +9,14 @@
       "onboard_time": 1663663289,
       "rank": 0,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 948801,
+      "num": 948801,
+      "word": "张雪峰批明星带娃类综艺",
+      "onboard_time": 1663690288,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 898247,
@@ -41,14 +49,6 @@
       "onboard_time": 1663688309,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 726706,
-      "num": 726706,
-      "word": "张雪峰批明星带娃类综艺",
-      "onboard_time": 1663690288,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 709356,
@@ -171,8 +171,8 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 268083,
-      "num": 268083,
+      "raw_hot": 273986,
+      "num": 273986,
       "word": "思文",
       "onboard_time": 1663691006,
       "rank": 22,
@@ -225,6 +225,14 @@
       "onboard_time": 1663671030,
       "rank": 26,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 179250,
+      "num": 171100,
+      "word": "河南一大学招聘洗刷工限30岁以下",
+      "onboard_time": 1663692921,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170078,
@@ -307,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132439,
+      "num": 132439,
+      "word": "浙江每6人中有1个念过大学",
+      "onboard_time": 1663692261,
+      "rank": 44,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 123168,
       "num": 123168,
       "word": "首部中西结合末日题材小说漫画化",
@@ -363,6 +379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 90770,
+      "num": 90770,
+      "word": "暗恋一个人最苦涩的是什么",
+      "onboard_time": 1663693160,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 90062,
       "num": 90062,
       "word": "石家庄疫情防控",
@@ -395,19 +419,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 60524,
-      "num": 60524,
-      "word": "浙江每6人中有1个念过大学",
-      "onboard_time": 1663692261,
-      "rank": 44,
-      "category": "教育,社会新闻"
+      "raw_hot": 60440,
+      "num": 50543,
+      "word": "赵露思首部上星剧",
+      "onboard_time": 1663663948,
+      "rank": 41,
+      "category": "影视"
     },
     {
-      "raw_hot": 48696,
-      "num": 49448,
-      "word": "河南一大学招聘洗刷工限30岁以下",
-      "onboard_time": 1663692921,
+      "raw_hot": 32239,
+      "num": 32239,
+      "word": "河南省夏粮总产量全国第一",
+      "onboard_time": 1663691064,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28101,
+      "num": 28101,
+      "word": "遂宁疫情防控",
+      "onboard_time": 1663675593,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -425,6 +457,9 @@
     },
     {
       "word": "#强国之路正扬帆#"
+    },
+    {
+      "word": "#激发全社会向上向善的正能量#"
     }
   ]
 }
