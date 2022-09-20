@@ -1,6 +1,6 @@
 {
   "startTime": 1663518759246,
-  "endTime": 1663716471927,
+  "endTime": 1663717443685,
   "band_list": [
     {
       "raw_hot": 6029244,
@@ -427,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1263240,
+      "num": 1263240,
+      "word": "张雪峰批明星带娃类综艺",
+      "onboard_time": 1663690288,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1257404,
       "num": 1257404,
       "word": "中免日上",
@@ -443,20 +451,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1226849,
-      "num": 1226849,
-      "word": "张雪峰批明星带娃类综艺",
-      "onboard_time": 1663690288,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1224387,
       "num": 936967,
       "word": "杨颖新剧九尾狐造型",
       "onboard_time": 1663646431,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1219979,
+      "num": 1219979,
+      "word": "2022国庆节放假调休安排",
+      "onboard_time": 1663714279,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1201209,
@@ -1059,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 598921,
+      "num": 598921,
+      "word": "女子取消顺风车后被司机辱骂",
+      "onboard_time": 1663704491,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 598110,
       "num": 598110,
       "word": "四六级报名",
@@ -1121,6 +1137,14 @@
       "onboard_time": 1663653087,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 579506,
+      "num": 579506,
+      "word": "吴世勋街头男战士舞台",
+      "onboard_time": 1663716203,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 579300,
@@ -1211,6 +1235,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 559015,
+      "num": 559015,
+      "word": "孙海洋女儿出书记录父亲寻子14年",
+      "onboard_time": 1663707430,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 556999,
+      "num": 556999,
+      "word": "RTX4090",
+      "onboard_time": 1663715661,
+      "rank": 16,
+      "category": "科技"
+    },
+    {
       "raw_hot": 553940,
       "num": 553940,
       "word": "林峯吴卓羲邀黄宗泽参加哥哥",
@@ -1283,27 +1323,11 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 524976,
-      "num": 524976,
-      "word": "2022国庆节放假调休安排",
-      "onboard_time": 1663714279,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 519596,
       "num": 519596,
       "word": "我的县长父亲作者回应",
       "onboard_time": 1663586247,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 511103,
-      "num": 511103,
-      "word": "孙海洋女儿出书记录父亲寻子14年",
-      "onboard_time": 1663707430,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1353,14 +1377,6 @@
       "onboard_time": 1663589966,
       "rank": 23,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 483008,
-      "num": 483008,
-      "word": "女子取消顺风车后被司机辱骂",
-      "onboard_time": 1663704491,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 479938,
@@ -2075,6 +2091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 317141,
+      "num": 317141,
+      "word": "王毅强调当务之急是妥善管控台湾问题",
+      "onboard_time": 1663715001,
+      "rank": 22,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 316940,
       "num": 316940,
       "word": "男生发现3年前学长留下的千字书信",
@@ -2281,6 +2305,14 @@
       "onboard_time": 1663575809,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 290088,
+      "num": 290088,
+      "word": "河南一大学招聘洗刷工限30岁以下",
+      "onboard_time": 1663692921,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 288708,
@@ -2531,14 +2563,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 266695,
-      "num": 266695,
-      "word": "吴世勋街头男战士舞台",
-      "onboard_time": 1663716203,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 266438,
       "num": 266438,
       "word": "李沁雪地剖丹撕裂感好强",
@@ -2603,6 +2627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 260289,
+      "num": 260289,
+      "word": "浙江每6人中有1个念过大学",
+      "onboard_time": 1663692261,
+      "rank": 44,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 259754,
       "num": 219936,
       "word": "小美人鱼扮演者halle发文",
@@ -2635,14 +2667,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 256979,
-      "num": 256979,
-      "word": "河南一大学招聘洗刷工限30岁以下",
-      "onboard_time": 1663692921,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 256442,
       "num": 256442,
       "word": "LPR",
@@ -2657,6 +2681,14 @@
       "onboard_time": 1663658005,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 255876,
+      "num": 255876,
+      "word": "一群孩子捡到4岁男童交给警察叔叔",
+      "onboard_time": 1663701673,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 255328,
@@ -3059,14 +3091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 219545,
-      "num": 219545,
-      "word": "RTX4090",
-      "onboard_time": 1663715661,
-      "rank": 16,
-      "category": "科技"
-    },
-    {
       "raw_hot": 219513,
       "num": 215483,
       "word": "等风热吻你广播剧",
@@ -3083,12 +3107,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217831,
+      "num": 217831,
+      "word": "请君在播剧最高分",
+      "onboard_time": 1663696274,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 216756,
       "num": 216756,
       "word": "倪妮玫瑰转场大片",
       "onboard_time": 1663640669,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 216437,
+      "num": 216437,
+      "word": "英雄联盟",
+      "onboard_time": 1663716203,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 215529,
@@ -3105,22 +3145,6 @@
       "onboard_time": 1663683756,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 213663,
-      "num": 213663,
-      "word": "一群孩子捡到4岁男童交给警察叔叔",
-      "onboard_time": 1663701673,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212516,
-      "num": 212516,
-      "word": "浙江每6人中有1个念过大学",
-      "onboard_time": 1663692261,
-      "rank": 44,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 212306,
@@ -3177,6 +3201,14 @@
       "onboard_time": 1663569086,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207233,
+      "num": 207233,
+      "word": "女子帮卖棉花糖满天飞变白发魔女",
+      "onboard_time": 1663703589,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206816,
@@ -3299,14 +3331,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 195198,
-      "num": 195198,
-      "word": "请君在播剧最高分",
-      "onboard_time": 1663696274,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 193902,
       "num": 193902,
       "word": "拔智齿能够瘦脸吗",
@@ -3377,14 +3401,6 @@
       "onboard_time": 1663636648,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 187144,
-      "num": 187144,
-      "word": "王毅强调当务之急是妥善管控台湾问题",
-      "onboard_time": 1663715001,
-      "rank": 22,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 186627,
@@ -3491,6 +3507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 177853,
+      "num": 81990,
+      "word": "阿尔茨海默病日",
+      "onboard_time": 1663717403,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177748,
       "num": 177748,
       "word": "底线全员换证件照",
@@ -3512,14 +3536,6 @@
       "word": "天津新增18例本土阳性感染者",
       "onboard_time": 1663641385,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176849,
-      "num": 176849,
-      "word": "女子帮卖棉花糖满天飞变白发魔女",
-      "onboard_time": 1663703589,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -3593,6 +3609,14 @@
       "onboard_time": 1663517907,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166409,
+      "num": 166409,
+      "word": "李沁新剧手势跟沈腾学的吧",
+      "onboard_time": 1663701011,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 165799,
@@ -4147,20 +4171,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 120099,
-      "num": 120099,
-      "word": "李沁新剧手势跟沈腾学的吧",
-      "onboard_time": 1663701011,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
       "raw_hot": 119349,
       "num": 119349,
       "word": "美军在叙非法驻军基地遭导弹袭击",
       "onboard_time": 1663545927,
       "rank": 45,
       "category": "军事,国外要闻"
+    },
+    {
+      "raw_hot": 115624,
+      "num": 115624,
+      "word": "显卡",
+      "onboard_time": 1663715723,
+      "rank": 39,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 115575,
@@ -4201,6 +4225,14 @@
       "onboard_time": 1663598609,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 113035,
+      "num": 113035,
+      "word": "RTX4080",
+      "onboard_time": 1663716384,
+      "rank": 44,
+      "category": "科技"
     },
     {
       "raw_hot": 111518,
@@ -4483,14 +4515,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 81249,
-      "num": 81249,
-      "word": "显卡",
-      "onboard_time": 1663715723,
-      "rank": 39,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 77618,
       "num": 77618,
       "word": "薛之谦专辑文案",
@@ -4529,22 +4553,6 @@
       "onboard_time": 1663671627,
       "rank": 49,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 68913,
-      "num": 68913,
-      "word": "RTX4080",
-      "onboard_time": 1663716384,
-      "rank": 44,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 67120,
-      "num": 67120,
-      "word": "英雄联盟",
-      "onboard_time": 1663716203,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 58012,
