@@ -1,6 +1,6 @@
 {
   "startTime": 1663605342095,
-  "endTime": 1663687591300,
+  "endTime": 1663688739051,
   "band_list": [
     {
       "raw_hot": 6029244,
@@ -283,6 +283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1002221,
+      "num": 846361,
+      "word": "北京一男子酒后称后悔结婚",
+      "onboard_time": 1663684831,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 992671,
       "num": 650498,
       "word": "IU耳朵出问题已长达1年",
@@ -321,14 +329,6 @@
       "onboard_time": 1663662326,
       "rank": 5,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 846361,
-      "num": 846361,
-      "word": "北京一男子酒后称后悔结婚",
-      "onboard_time": 1663684831,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 827896,
@@ -465,6 +465,14 @@
       "onboard_time": 1663645109,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 593428,
+      "num": 593428,
+      "word": "张远 勇气",
+      "onboard_time": 1663688309,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 581369,
@@ -819,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 368124,
+      "num": 368124,
+      "word": "胡歌是被演员事业耽误的歌手吧",
+      "onboard_time": 1663688189,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 362187,
       "num": 362187,
       "word": "浙江义乌要求下架槟榔",
@@ -843,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 356864,
+      "num": 356864,
+      "word": "执业医师",
+      "onboard_time": 1663686753,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 356460,
       "num": 356460,
       "word": "理解了张桂梅校长",
@@ -857,6 +881,14 @@
       "onboard_time": 1663644748,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 353954,
+      "num": 353954,
+      "word": "杨祐宁演技",
+      "onboard_time": 1663686930,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 353881,
@@ -915,6 +947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 334550,
+      "num": 238240,
+      "word": "刘宇宁直播",
+      "onboard_time": 1663687951,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 330327,
       "num": 330327,
       "word": "洗牙会不会有危害",
@@ -937,14 +977,6 @@
       "onboard_time": 1663665689,
       "rank": 24,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 320223,
-      "num": 320223,
-      "word": "执业医师",
-      "onboard_time": 1663686753,
-      "rank": 16,
-      "category": "教育"
     },
     {
       "raw_hot": 318815,
@@ -1123,6 +1155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 275444,
+      "num": 216430,
+      "word": "消失的孩子",
+      "onboard_time": 1663686029,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 274298,
       "num": 233395,
       "word": "王鹤棣换微博头像",
@@ -1185,14 +1225,6 @@
       "onboard_time": 1663592187,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 267013,
-      "num": 216430,
-      "word": "消失的孩子",
-      "onboard_time": 1663686029,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 265741,
@@ -1323,14 +1355,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 245415,
-      "num": 211877,
-      "word": "杨祐宁演技",
-      "onboard_time": 1663686930,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 245098,
       "num": 245098,
       "word": "当代年轻人养生图鉴",
@@ -1355,20 +1379,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243143,
+      "num": 243143,
+      "word": "真诚是打败阴阳怪气的必杀技",
+      "onboard_time": 1663683633,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 238596,
       "num": 238596,
       "word": "南依称一年后会返校投入学习",
       "onboard_time": 1663658126,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 236984,
-      "num": 236984,
-      "word": "真诚是打败阴阳怪气的必杀技",
-      "onboard_time": 1663683633,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 236683,
@@ -1491,6 +1515,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 216709,
+      "num": 216709,
+      "word": "用了卸妆油还要用洗面奶吗",
+      "onboard_time": 1663687591,
+      "rank": 26,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 215529,
       "num": 215529,
       "word": "南京疫情防控",
@@ -1520,6 +1552,14 @@
       "word": "中免日上",
       "onboard_time": 1663592607,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214145,
+      "num": 214145,
+      "word": "受害者称杜英哲妻子是帮凶",
+      "onboard_time": 1663687471,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1553,6 +1593,14 @@
       "onboard_time": 1663656987,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 208466,
+      "num": 165976,
+      "word": "徐志胜普通话不好的原因找到了",
+      "onboard_time": 1663685014,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 204636,
@@ -1657,6 +1705,14 @@
       "onboard_time": 1663636648,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 187222,
+      "num": 187222,
+      "word": "原来00后都在偷偷养生",
+      "onboard_time": 1663686989,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186123,
@@ -1803,14 +1859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 165976,
-      "num": 165976,
-      "word": "徐志胜普通话不好的原因找到了",
-      "onboard_time": 1663685014,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 165304,
       "num": 165304,
       "word": "槟郎近千亿产业或被按下暂停键",
@@ -1835,11 +1883,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 160662,
-      "num": 160662,
-      "word": "原来00后都在偷偷养生",
-      "onboard_time": 1663686989,
-      "rank": 39,
+      "raw_hot": 160480,
+      "num": 160480,
+      "word": "中国人民大学核酸异常学生复核阴性",
+      "onboard_time": 1663688488,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -2019,6 +2067,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 132297,
+      "num": 132297,
+      "word": "原来自信的样子真的最美",
+      "onboard_time": 1663687831,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 132287,
       "num": 132287,
       "word": "熊猫摔下床像极了小时候的我",
@@ -2067,6 +2123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 128000,
+      "num": 128000,
+      "word": "和室友的差距实在太大了",
+      "onboard_time": 1663688130,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 124637,
       "num": 124637,
       "word": "大江山乐队",
@@ -2081,14 +2145,6 @@
       "onboard_time": 1663585588,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 120538,
-      "num": 120538,
-      "word": "受害者称杜英哲妻子是帮凶",
-      "onboard_time": 1663687471,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118827,
