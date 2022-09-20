@@ -1,6 +1,6 @@
 {
   "startTime": 1663518759246,
-  "endTime": 1663673924676,
+  "endTime": 1663678177934,
   "band_list": [
     {
       "raw_hot": 3530440,
@@ -75,6 +75,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 2515384,
+      "num": 611190,
+      "word": "谁能顶得住张翰",
+      "onboard_time": 1663672772,
+      "rank": 20,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 2502396,
       "num": 1744661,
       "word": "女子体内排出4.95米长绦虫",
@@ -105,6 +113,14 @@
       "onboard_time": 1663557868,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2297781,
+      "num": 2297781,
+      "word": "社科院女研究生回应怀孕休学待产",
+      "onboard_time": 1663663289,
+      "rank": 35,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 2289595,
@@ -171,11 +187,11 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 1904849,
-      "num": 1904849,
-      "word": "社科院女研究生回应怀孕休学待产",
-      "onboard_time": 1663663289,
-      "rank": 35,
+      "raw_hot": 1902865,
+      "num": 1902865,
+      "word": "女研究生休学待产为何引来爹味说教",
+      "onboard_time": 1663669770,
+      "rank": 22,
       "category": "社会新闻,教育"
     },
     {
@@ -385,6 +401,14 @@
       "onboard_time": 1663669587,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1234743,
+      "num": 514725,
+      "word": "房思琪",
+      "onboard_time": 1663677991,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 1224387,
@@ -611,14 +635,6 @@
       "category": "综艺,幽默"
     },
     {
-      "raw_hot": 938019,
-      "num": 611190,
-      "word": "谁能顶得住张翰",
-      "onboard_time": 1663672772,
-      "rank": 20,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 916683,
       "num": 916683,
       "word": "男子朋友圈称像坐牢3小时后成真",
@@ -721,6 +737,14 @@
       "onboard_time": 1663633648,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 765919,
+      "num": 765919,
+      "word": "共情能力太强不适合学医",
+      "onboard_time": 1663671750,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 762399,
@@ -873,14 +897,6 @@
       "onboard_time": 1663649132,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 634588,
-      "num": 634588,
-      "word": "女研究生休学待产为何引来爹味说教",
-      "onboard_time": 1663669770,
-      "rank": 22,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 624945,
@@ -1115,6 +1131,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 531659,
+      "num": 531659,
+      "word": "鹿晗演唱会预告视频",
+      "onboard_time": 1663675231,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 528361,
       "num": 528361,
       "word": "NMIXX新曲",
@@ -1331,12 +1355,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 426544,
+      "num": 296942,
+      "word": "昆仑神宫",
+      "onboard_time": 1663677449,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 420602,
       "num": 420602,
       "word": "董宇辉解释玉米贵",
       "onboard_time": 1663594586,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 420309,
+      "num": 302382,
+      "word": "Lily翻唱Psycho",
+      "onboard_time": 1663674514,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 419682,
@@ -1443,6 +1483,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 385856,
+      "num": 385856,
+      "word": "九尾又双叒换发色了",
+      "onboard_time": 1663673733,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 382925,
       "num": 382925,
       "word": "超八成留学人员学成归国",
@@ -1457,6 +1505,14 @@
       "onboard_time": 1663564113,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 381481,
+      "num": 381481,
+      "word": "槟榔近千亿产业或被按下暂停键",
+      "onboard_time": 1663671030,
+      "rank": 21,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 379945,
@@ -1529,6 +1585,22 @@
       "onboard_time": 1663515032,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 375300,
+      "num": 375300,
+      "word": "男子打赏女主播74万老婆不知情",
+      "onboard_time": 1663672893,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 373850,
+      "num": 373850,
+      "word": "维修店称小米11系列近5成都有问题",
+      "onboard_time": 1663675890,
+      "rank": 17,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 373490,
@@ -1691,14 +1763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 333985,
-      "num": 333985,
-      "word": "共情能力太强不适合学医",
-      "onboard_time": 1663671750,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 330327,
       "num": 330327,
       "word": "洗牙会不会有危害",
@@ -1721,6 +1785,14 @@
       "onboard_time": 1663556368,
       "rank": 31,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 327120,
+      "num": 292582,
+      "word": "明年待播的古偶剧",
+      "onboard_time": 1663674273,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 326329,
@@ -1867,6 +1939,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 303191,
+      "num": 303191,
+      "word": "遂宁疫情防控",
+      "onboard_time": 1663675593,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 302521,
       "num": 302521,
       "word": "骄阳伴我",
@@ -1979,12 +2059,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 287357,
+      "num": 287357,
+      "word": "石家庄疫情防控",
+      "onboard_time": 1663674514,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285318,
       "num": 173423,
       "word": "DICE好听",
       "onboard_time": 1663583667,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 284808,
+      "num": 174572,
+      "word": "脱口秀大会",
+      "onboard_time": 1663677569,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 284168,
@@ -2107,11 +2203,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 271805,
+      "num": 271805,
+      "word": "乒乒乓乓我来唱",
+      "onboard_time": 1663676911,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 271225,
       "num": 175948,
       "word": "电视剧底线",
       "onboard_time": 1663548809,
       "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 271115,
+      "num": 169128,
+      "word": "罚罪大结局",
+      "onboard_time": 1663674032,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -2233,6 +2345,14 @@
       "onboard_time": 1663639045,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 256421,
+      "num": 256421,
+      "word": "你拿的是工资吗",
+      "onboard_time": 1663677750,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 256209,
@@ -2507,6 +2627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228571,
+      "num": 166006,
+      "word": "虞书欣说我觉得虞美人坠入爱河了",
+      "onboard_time": 1663674032,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 228537,
       "num": 191079,
       "word": "马嘉祺说音乐就是快乐星球",
@@ -2529,14 +2657,6 @@
       "onboard_time": 1663601247,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 225553,
-      "num": 225553,
-      "word": "槟榔近千亿产业或被按下暂停键",
-      "onboard_time": 1663671030,
-      "rank": 21,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 225396,
@@ -2907,6 +3027,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 186020,
+      "num": 135337,
+      "word": "王一博待映新片想看数破120万",
+      "onboard_time": 1663675952,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 185516,
       "num": 185516,
       "word": "减肥对颜值的影响有多重要",
@@ -2947,6 +3075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179316,
+      "num": 179316,
+      "word": "杨旭绝杀",
+      "onboard_time": 1663675292,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177748,
       "num": 177748,
       "word": "底线全员换证件照",
@@ -2984,6 +3120,14 @@
       "word": "获奖征文名撞梗讽刺电影被删除",
       "onboard_time": 1663574847,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175201,
+      "num": 175201,
+      "word": "老人拿破烂纸板鞋向店主换盐被拒",
+      "onboard_time": 1663670611,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -3089,6 +3233,14 @@
       "onboard_time": 1663651646,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160914,
+      "num": 160914,
+      "word": "5岁男童去世捐肾救2人",
+      "onboard_time": 1663675711,
+      "rank": 34,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 155951,
@@ -3233,14 +3385,6 @@
       "onboard_time": 1663660165,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 146645,
-      "num": 146645,
-      "word": "男子打赏女主播74万老婆不知情",
-      "onboard_time": 1663672893,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146010,
@@ -3595,14 +3739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 109430,
-      "num": 109430,
-      "word": "九尾又双叒换发色了",
-      "onboard_time": 1663673733,
-      "rank": 40,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 109294,
       "num": 109294,
       "word": "种牙凭什么这么贵",
@@ -3851,11 +3987,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 74237,
-      "num": 74237,
-      "word": "老人拿破烂纸板鞋向店主换盐被拒",
-      "onboard_time": 1663670611,
-      "rank": 49,
+      "raw_hot": 76676,
+      "num": 76676,
+      "word": "槟榔是如何危害健康的",
+      "onboard_time": 1663678109,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -4104,6 +4240,9 @@
     },
     {
       "word": "#激发全社会向上向善的正能量#"
+    },
+    {
+      "word": "#十年来我国自然资源事业发展成绩单#"
     }
   ]
 }
