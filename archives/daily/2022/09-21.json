@@ -1,6 +1,6 @@
 {
   "startTime": 1663691674200,
-  "endTime": 1663698646459,
+  "endTime": 1663699741208,
   "band_list": [
     {
       "raw_hot": 973946,
@@ -291,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144331,
+      "num": 47849,
+      "word": "我国贷款利率约为4%至5%",
+      "onboard_time": 1663696215,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142151,
       "num": 142151,
       "word": "原来自信的样子真的最美",
@@ -353,14 +361,6 @@
       "onboard_time": 1663671449,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 114008,
-      "num": 47849,
-      "word": "我国贷款利率约为4%至5%",
-      "onboard_time": 1663696215,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 109011,
@@ -427,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66428,
+      "num": 62251,
+      "word": "请各位帅哥正确用脸",
+      "onboard_time": 1663697594,
+      "rank": 17,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 60440,
       "num": 50543,
       "word": "赵露思首部上星剧",
@@ -435,20 +443,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 56251,
-      "num": 56251,
-      "word": "请各位帅哥正确用脸",
-      "onboard_time": 1663697594,
-      "rank": 17,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 48103,
       "num": 47429,
       "word": "请君在播剧最高分",
       "onboard_time": 1663696274,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 40340,
+      "num": 40340,
+      "word": "中国制造出海的能力有多强",
+      "onboard_time": 1663699332,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32239,
