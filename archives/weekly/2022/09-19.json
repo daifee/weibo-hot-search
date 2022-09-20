@@ -1,6 +1,6 @@
 {
   "startTime": 1663518759246,
-  "endTime": 1663685343422,
+  "endTime": 1663687591300,
   "band_list": [
     {
       "raw_hot": 6029244,
@@ -283,7 +283,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1658912,
+      "raw_hot": 1685515,
       "num": 1002336,
       "word": "翰了汗了",
       "onboard_time": 1663681595,
@@ -728,6 +728,14 @@
       "word": "父母怕重名给儿子取名李不尚书",
       "onboard_time": 1663569749,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 846361,
+      "num": 846361,
+      "word": "北京一男子酒后称后悔结婚",
+      "onboard_time": 1663684831,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1348,7 +1356,7 @@
     },
     {
       "raw_hot": 457407,
-      "num": 304507,
+      "num": 358554,
       "word": "脱口秀大会淘汰",
       "onboard_time": 1663683756,
       "rank": 31,
@@ -1939,6 +1947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320223,
+      "num": 320223,
+      "word": "执业医师",
+      "onboard_time": 1663686753,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 318815,
       "num": 318815,
       "word": "杨幂郭晓婷狐妖造型梦回雪见花楹",
@@ -2331,12 +2347,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 269770,
+      "num": 257688,
+      "word": "那些百看不厌的仙女施法",
+      "onboard_time": 1663687233,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 267936,
       "num": 223725,
       "word": "刘诗诗刘宇宁同框对视路透",
       "onboard_time": 1663603348,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 267013,
+      "num": 216430,
+      "word": "消失的孩子",
+      "onboard_time": 1663599511,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 266897,
@@ -2491,6 +2523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 253499,
+      "num": 253499,
+      "word": "大连人",
+      "onboard_time": 1663682134,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 253101,
       "num": 253101,
       "word": "无畏一诺综艺感有多强",
@@ -2545,6 +2585,14 @@
       "onboard_time": 1663669289,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 245415,
+      "num": 211877,
+      "word": "杨祐宁演技",
+      "onboard_time": 1663686930,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 245098,
@@ -2923,14 +2971,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 208147,
-      "num": 140545,
-      "word": "消失的孩子",
-      "onboard_time": 1663599511,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 207311,
       "num": 203323,
       "word": "于和伟回归喜剧大赛",
@@ -3049,14 +3089,6 @@
       "onboard_time": 1663558947,
       "rank": 38,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 196322,
-      "num": 196322,
-      "word": "大连人",
-      "onboard_time": 1663682134,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 195270,
@@ -3307,6 +3339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 170775,
+      "num": 160132,
+      "word": "心动的信号",
+      "onboard_time": 1663685615,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170527,
       "num": 170527,
       "word": "小浣熊头卡栅栏被救时吓尿了",
@@ -3411,6 +3451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160662,
+      "num": 160662,
+      "word": "原来00后都在偷偷养生",
+      "onboard_time": 1663686989,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159754,
       "num": 159754,
       "word": "00后国乒选手唱成都",
@@ -3497,14 +3545,6 @@
       "onboard_time": 1663573286,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 149692,
-      "num": 149692,
-      "word": "北京一男子酒后称后悔结婚",
-      "onboard_time": 1663684831,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149385,
@@ -3843,6 +3883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124637,
+      "num": 124637,
+      "word": "大江山乐队",
+      "onboard_time": 1663686812,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 123884,
       "num": 93537,
       "word": "有被这样的人生态度开解到",
@@ -3865,6 +3913,14 @@
       "onboard_time": 1663515154,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120538,
+      "num": 120538,
+      "word": "受害者称杜英哲妻子是帮凶",
+      "onboard_time": 1663687471,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119349,

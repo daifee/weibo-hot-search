@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/20 22:49:03
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/20 23:26:31
 </p>
 </blockquote>
 <p>
@@ -2133,6 +2133,12 @@ JDG与TES决胜局（热度：1719216）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BF%B0%E4%BA%86%E6%B1%97%E4%BA%86%23" target="weibo">
+翰了汗了（热度：1685515）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%89%BA%E4%BA%BA%E8%BF%9D%E6%B3%95%E9%9C%80%E8%B5%94%E5%93%81%E7%89%8C%E5%A4%9A%E5%B0%91%E9%92%B1%23" target="weibo">
 艺人违法需赔品牌多少钱（热度：1680704）
 </a>
@@ -2177,12 +2183,6 @@ iPhone14 Plus（热度：1672968）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E6%95%B0%E5%AD%A6%E5%A4%A9%E6%89%8D%E6%9F%B3%E6%99%BA%E5%AE%87%E4%B8%8B%E5%B1%B1%E8%BF%98%E4%BF%97%23" target="weibo">
 北大数学天才柳智宇下山还俗（热度：1664567）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BF%B0%E4%BA%86%E6%B1%97%E4%BA%86%23" target="weibo">
-翰了汗了（热度：1658912）
 </a>
 </li>
 
