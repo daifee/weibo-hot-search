@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1663684362896,
+  "endTime": 1663685343422,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -2891,6 +2891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1658912,
+      "num": 1002336,
+      "word": "翰了汗了",
+      "onboard_time": 1663681595,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1658529,
       "num": 1658529,
       "word": "老太切除多器官3个月后去世",
@@ -4409,14 +4417,6 @@
       "onboard_time": 1662435089,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1326448,
-      "num": 1002336,
-      "word": "翰了汗了",
-      "onboard_time": 1663681595,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 1323862,
@@ -12379,6 +12379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 578769,
+      "num": 570447,
+      "word": "孟川CP文",
+      "onboard_time": 1663681655,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 577959,
       "num": 577959,
       "word": "东北人抄底西双版纳楼市",
@@ -12561,14 +12569,6 @@
       "onboard_time": 1662681638,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 570447,
-      "num": 570447,
-      "word": "孟川CP文",
-      "onboard_time": 1663681655,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 570405,
@@ -15555,6 +15555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 457407,
+      "num": 304507,
+      "word": "脱口秀大会淘汰",
+      "onboard_time": 1663683756,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 456517,
       "num": 456517,
       "word": "男朋友把求婚现场搞得像施工",
@@ -18059,6 +18067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 391428,
+      "num": 391428,
+      "word": "主人被自家宠物狗严重咬伤",
+      "onboard_time": 1663681476,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 391005,
       "num": 391005,
       "word": "灵动岛可显示30多种信息",
@@ -18417,6 +18433,14 @@
       "onboard_time": 1662981578,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 383957,
+      "num": 383957,
+      "word": "王毅会见美国前国务卿基辛格",
+      "onboard_time": 1663680217,
+      "rank": 36,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 383178,
@@ -19705,14 +19729,6 @@
       "onboard_time": 1663160432,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 359502,
-      "num": 359502,
-      "word": "王毅会见美国前国务卿基辛格",
-      "onboard_time": 1663680217,
-      "rank": 36,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 359441,
@@ -22435,14 +22451,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 310390,
-      "num": 198198,
-      "word": "脱口秀大会淘汰",
-      "onboard_time": 1663683756,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 310163,
       "num": 227482,
       "word": "任敏中秋造型梦回徽柔",
@@ -23425,14 +23433,6 @@
       "onboard_time": 1662527966,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 296817,
-      "num": 296817,
-      "word": "主人被自家宠物狗严重咬伤",
-      "onboard_time": 1663681476,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 296804,
@@ -27691,6 +27691,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 244086,
+      "num": 244086,
+      "word": "年轻人如何慢慢失去健康",
+      "onboard_time": 1663681114,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243884,
       "num": 243884,
       "word": "9月4日新增确诊349例",
@@ -28273,6 +28281,14 @@
       "onboard_time": 1662739586,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 236984,
+      "num": 236984,
+      "word": "真诚是打败阴阳怪气的必杀技",
+      "onboard_time": 1663683633,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 236902,
@@ -29979,6 +29995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215011,
+      "num": 215011,
+      "word": "阴阳师",
+      "onboard_time": 1662045267,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 214839,
       "num": 214839,
       "word": "你手机地震预警功能开了吗",
@@ -30649,14 +30673,6 @@
       "onboard_time": 1663396645,
       "rank": 39,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 206080,
-      "num": 206080,
-      "word": "真诚是打败阴阳怪气的必杀技",
-      "onboard_time": 1663683633,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 205928,
@@ -32811,12 +32827,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 181733,
-      "num": 181733,
-      "word": "阴阳师",
-      "onboard_time": 1662045267,
-      "rank": 42,
-      "category": "游戏"
+      "raw_hot": 181688,
+      "num": 181688,
+      "word": "如何停止过度焦虑",
+      "onboard_time": 1663683756,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 181648,
@@ -33555,6 +33571,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 170527,
+      "num": 170527,
+      "word": "小浣熊头卡栅栏被救时吓尿了",
+      "onboard_time": 1663680935,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170503,
       "num": 170503,
       "word": "任嘉伦新剧从壁画走出来",
@@ -33705,14 +33729,6 @@
       "onboard_time": 1662711449,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 168872,
-      "num": 168872,
-      "word": "年轻人如何慢慢失去健康",
-      "onboard_time": 1663681114,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168867,
@@ -33931,6 +33947,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 165976,
+      "num": 165976,
+      "word": "徐志胜普通话不好的原因找到了",
+      "onboard_time": 1663685014,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165949,
       "num": 157699,
       "word": "向前冲整活没有瓶颈期吗",
@@ -34041,14 +34065,6 @@
       "onboard_time": 1662748754,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 164331,
-      "num": 164331,
-      "word": "如何停止过度焦虑",
-      "onboard_time": 1663683756,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 164251,
@@ -34569,14 +34585,6 @@
       "onboard_time": 1662763576,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 158362,
-      "num": 158362,
-      "word": "小浣熊头卡栅栏被救时吓尿了",
-      "onboard_time": 1663680935,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158076,
@@ -35376,6 +35384,14 @@
       "word": "10岁男孩8个月学会6种字体",
       "onboard_time": 1662373352,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149692,
+      "num": 149692,
+      "word": "北京一男子酒后称后悔结婚",
+      "onboard_time": 1663684831,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -36361,6 +36377,14 @@
       "onboard_time": 1662625047,
       "rank": 48,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 136629,
+      "num": 136629,
+      "word": "oip",
+      "onboard_time": 1663684955,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 136464,
@@ -39649,6 +39673,14 @@
       "onboard_time": 1662368429,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58012,
+      "num": 150028,
+      "word": "教官教的vs学生学的",
+      "onboard_time": 1663685014,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 57935,
