@@ -1,0 +1,410 @@
+{
+  "runTime": 1663673924676,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1904849,
+        "num": 1904849,
+        "word": "社科院女研究生回应怀孕休学待产",
+        "onboard_time": 1663663289,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1754645,
+        "num": 1754645,
+        "word": "全面禁售槟榔该下决心了",
+        "onboard_time": 1663670187,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20352,
+        "num": 1747456,
+        "word": "丰收的色彩惊艳了秋天",
+        "onboard_time": 1663635331,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2430653,
+        "num": 1744661,
+        "word": "女子体内排出4.95米长绦虫",
+        "onboard_time": 1663667967,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1740356,
+        "num": 1740356,
+        "word": "龚俊 韩烨太子",
+        "onboard_time": 1663671389,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1242575,
+        "num": 1242575,
+        "word": "国际象棋比赛疑用智能肛珠作弊",
+        "onboard_time": 1663669587,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1072941,
+        "num": 1072941,
+        "word": "游客爬完黄山下楼梯似丧尸集体出动",
+        "onboard_time": 1663671150,
+        "rank": 6,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 759883,
+        "num": 759883,
+        "word": "人民文娱评苍兰诀走出国门",
+        "onboard_time": 1663667907,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 660965,
+        "num": 660965,
+        "word": "男子朋友圈称像坐牢3小时后成真",
+        "onboard_time": 1663663650,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634588,
+        "num": 634588,
+        "word": "女研究生休学待产为何引来爹味说教",
+        "onboard_time": 1663669770,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 938019,
+        "num": 611190,
+        "word": "谁能顶得住张翰",
+        "onboard_time": 1663672772,
+        "rank": 10,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 559571,
+        "num": 559571,
+        "word": "95生颜值天花板",
+        "onboard_time": 1663665807,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 550194,
+        "num": 550194,
+        "word": "赵露思首部上星剧",
+        "onboard_time": 1663663948,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 525464,
+        "num": 525464,
+        "word": "丈夫出轨2人赠与千万妻子起诉要回",
+        "onboard_time": 1663653927,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343079,
+        "num": 343079,
+        "word": "杜英哲",
+        "onboard_time": 1663667608,
+        "rank": 14,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 333985,
+        "num": 333985,
+        "word": "共情能力太强不适合学医",
+        "onboard_time": 1663671750,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 288570,
+        "num": 288570,
+        "word": "百万奢侈品在快递点浸水损毁",
+        "onboard_time": 1663667548,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256600,
+        "num": 256600,
+        "word": "罚罪",
+        "onboard_time": 1663671449,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245967,
+        "num": 245967,
+        "word": "好吃又大碗的平价早餐酸奶",
+        "onboard_time": 1663669289,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 242593,
+        "num": 242593,
+        "word": "日德战机将在日本国内首次共同训练",
+        "onboard_time": 1663665448,
+        "rank": 19,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 234347,
+        "num": 234347,
+        "word": "不想爱了也不想劳动了",
+        "onboard_time": 1663662869,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 225553,
+        "num": 225553,
+        "word": "槟榔近千亿产业或被按下暂停键",
+        "onboard_time": 1663671030,
+        "rank": 21,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 206796,
+        "num": 206796,
+        "word": "王者花泽香菜合作",
+        "onboard_time": 1663665689,
+        "rank": 22,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 203159,
+        "num": 203159,
+        "word": "女子入职虚报婚育情况被解除劳动合同",
+        "onboard_time": 1663662807,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193913,
+        "num": 193913,
+        "word": "苹果是牙口的试金石",
+        "onboard_time": 1663666708,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177387,
+        "num": 177387,
+        "word": "你安全吗",
+        "onboard_time": 1663672650,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173066,
+        "num": 173066,
+        "word": "大部分四天工作制试点公司成功了",
+        "onboard_time": 1663654947,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168510,
+        "num": 168510,
+        "word": "林峯吴卓羲邀黄宗泽参加哥哥",
+        "onboard_time": 1663657767,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164360,
+        "num": 164360,
+        "word": "大妈做煎饼果子10年技术一言难尽",
+        "onboard_time": 1663653267,
+        "rank": 28,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 154932,
+        "num": 154932,
+        "word": "黛玉压弯",
+        "onboard_time": 1663664610,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154704,
+        "num": 154704,
+        "word": "知名艺考机构老师被曝诱奸未成年",
+        "onboard_time": 1663639709,
+        "rank": 30,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 153401,
+        "num": 153401,
+        "word": "虞美人头像",
+        "onboard_time": 1663667728,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147897,
+        "num": 147897,
+        "word": "西南政法大学72周年校庆",
+        "onboard_time": 1663666170,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 146645,
+        "num": 146645,
+        "word": "男子打赏女主播74万老婆不知情",
+        "onboard_time": 1663672893,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137258,
+        "num": 137258,
+        "word": "北电成立专班调查赵韦弦事件",
+        "onboard_time": 1663655847,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136256,
+        "num": 136256,
+        "word": "2035年左右中国将进入重度老龄化",
+        "onboard_time": 1663652008,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122477,
+        "num": 122477,
+        "word": "无畏一诺综艺感有多强",
+        "onboard_time": 1663665749,
+        "rank": 36,
+        "category": "游戏,综艺"
+      },
+      {
+        "raw_hot": 119747,
+        "num": 119747,
+        "word": "68岁奶奶忘带钥匙现场挖洞回家",
+        "onboard_time": 1663658426,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116370,
+        "num": 116370,
+        "word": "电视剧底线",
+        "onboard_time": 1663670309,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114293,
+        "num": 114293,
+        "word": "南依发文称别人意见不喜欢不会参考",
+        "onboard_time": 1663667489,
+        "rank": 39,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 109430,
+        "num": 109430,
+        "word": "九尾又双叒换发色了",
+        "onboard_time": 1663673733,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 100151,
+        "num": 100151,
+        "word": "王者新赛季倒计时",
+        "onboard_time": 1663673612,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 100066,
+        "num": 100066,
+        "word": "小学生把栓Q写进作文",
+        "onboard_time": 1663656387,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 99097,
+        "num": 99097,
+        "word": "1岁宝宝误将樟脑丸当糖果吞下",
+        "onboard_time": 1663656627,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93099,
+        "num": 93099,
+        "word": "狐妖小红娘 全是美女",
+        "onboard_time": 1663653087,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 88274,
+        "num": 88274,
+        "word": "科学家发现已知最古老心脏",
+        "onboard_time": 1663659087,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87579,
+        "num": 87579,
+        "word": "现在孩子的被卡黑历史都是高清的",
+        "onboard_time": 1663663948,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82932,
+        "num": 82932,
+        "word": "新乡各单位原则上居家办公",
+        "onboard_time": 1663669171,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80997,
+        "num": 80997,
+        "word": "她们的名字",
+        "onboard_time": 1663672046,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 69256,
+        "num": 76498,
+        "word": "清华老师的一手好字",
+        "onboard_time": 1663671627,
+        "rank": 49,
+        "category": "教育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#激发全社会向上向善的正能量#"
+    }
+  }
+}
