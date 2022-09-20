@@ -1,6 +1,6 @@
 {
   "startTime": 1663518759246,
-  "endTime": 1663662920606,
+  "endTime": 1663663989892,
   "band_list": [
     {
       "raw_hot": 3530440,
@@ -51,20 +51,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2739190,
+      "num": 2739190,
+      "word": "二舅",
+      "onboard_time": 1663660287,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2635194,
       "num": 2635194,
       "word": "小狗带车撞人",
       "onboard_time": 1663573647,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 2605531,
-      "num": 2605531,
-      "word": "二舅",
-      "onboard_time": 1663660287,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2554636,
@@ -185,6 +185,14 @@
       "onboard_time": 1663569866,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1747758,
+      "num": 95954,
+      "word": "赵露思首部上星剧",
+      "onboard_time": 1663663948,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 1717197,
@@ -555,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 874335,
+      "num": 874335,
+      "word": "易烊千玺新歌沙金上线",
+      "onboard_time": 1663662326,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 867865,
       "num": 867865,
       "word": "网红烹食大白鲨后续",
@@ -585,14 +601,6 @@
       "onboard_time": 1663616351,
       "rank": 11,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 818998,
-      "num": 818998,
-      "word": "易烊千玺新歌沙金上线",
-      "onboard_time": 1663662326,
-      "rank": 5,
-      "category": "音乐"
     },
     {
       "raw_hot": 816305,
@@ -1075,6 +1083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 466446,
+      "num": 466446,
+      "word": "科学家发现已知最古老心脏",
+      "onboard_time": 1663659087,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 466341,
       "num": 466341,
       "word": "iPhone14系列5G网速提升38%",
@@ -1249,14 +1265,6 @@
       "onboard_time": 1663576710,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 398413,
-      "num": 398413,
-      "word": "科学家发现已知最古老心脏",
-      "onboard_time": 1663659087,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 397169,
@@ -1553,6 +1561,14 @@
       "onboard_time": 1663551804,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 324617,
+      "num": 324617,
+      "word": "不想爱了也不想劳动了",
+      "onboard_time": 1663662869,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 323343,
@@ -1891,12 +1907,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 271918,
+      "num": 271918,
+      "word": "7岁儿子帮民警带路抓嫌犯爸爸",
+      "onboard_time": 1663660227,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271225,
       "num": 150051,
       "word": "电视剧底线",
       "onboard_time": 1663548809,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 270717,
+      "num": 270717,
+      "word": "女子入职虚报婚育情况被解除劳动合同",
+      "onboard_time": 1663662807,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267936,
@@ -1953,6 +1985,14 @@
       "onboard_time": 1663609634,
       "rank": 11,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 261838,
+      "num": 95511,
+      "word": "马龙樊振东适应场地训练",
+      "onboard_time": 1663663948,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 261405,
@@ -2331,28 +2371,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 219961,
-      "num": 219961,
-      "word": "7岁儿子帮民警带路抓嫌犯爸爸",
-      "onboard_time": 1663660227,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 219513,
       "num": 215483,
       "word": "等风热吻你广播剧",
       "onboard_time": 1663591228,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 219016,
-      "num": 95888,
-      "word": "不想爱了也不想劳动了",
-      "onboard_time": 1663662869,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 218645,
@@ -2571,6 +2595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 189104,
+      "num": 172053,
+      "word": "李沁请君演的云羲好美",
+      "onboard_time": 1663663650,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 189051,
       "num": 189051,
       "word": "山东大姐用煎饼复刻世界名画",
@@ -2715,6 +2747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173293,
+      "num": 173293,
+      "word": "老年痴呆症10大危险信号",
+      "onboard_time": 1663659447,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173032,
       "num": 173032,
       "word": "张彬彬原声台词",
@@ -2819,6 +2859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154184,
+      "num": 154184,
+      "word": "社科院女研究生回应怀孕休学待产",
+      "onboard_time": 1663663289,
+      "rank": 35,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 153918,
       "num": 153918,
       "word": "微信支付",
@@ -2875,14 +2923,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 150137,
-      "num": 150137,
-      "word": "老年痴呆症10大危险信号",
-      "onboard_time": 1663659447,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 149385,
       "num": 149385,
       "word": "怎么做到一身正气地跳舞的",
@@ -2928,6 +2968,14 @@
       "word": "成毅演的新晋法官",
       "onboard_time": 1663596570,
       "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 146973,
+      "num": 146973,
+      "word": "白冰演的任多美终于支棱起来了",
+      "onboard_time": 1663660165,
+      "rank": 36,
       "category": "影视"
     },
     {
@@ -3035,6 +3083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136771,
+      "num": 136771,
+      "word": "百度糯米APP关停",
+      "onboard_time": 1663662085,
+      "rank": 44,
+      "category": "科技"
+    },
+    {
       "raw_hot": 136756,
       "num": 136756,
       "word": "不吃晚饭可能加速肥胖",
@@ -3075,12 +3131,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 133538,
+      "num": 133538,
+      "word": "男子朋友圈称像坐牢3小时后成真",
+      "onboard_time": 1663663650,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133073,
       "num": 133073,
       "word": "北京WB",
       "onboard_time": 1663545026,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 132287,
+      "num": 132287,
+      "word": "熊猫摔下床像极了小时候的我",
+      "onboard_time": 1663661308,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131999,
@@ -3105,14 +3177,6 @@
       "onboard_time": 1663596991,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 130015,
-      "num": 130015,
-      "word": "熊猫摔下床像极了小时候的我",
-      "onboard_time": 1663661308,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129134,
@@ -3355,14 +3419,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 103488,
-      "num": 103488,
-      "word": "百度糯米APP关停",
-      "onboard_time": 1663662085,
-      "rank": 44,
-      "category": "科技"
-    },
-    {
       "raw_hot": 101969,
       "num": 101969,
       "word": "河南增本土确诊1例无症状7例",
@@ -3433,6 +3489,14 @@
       "onboard_time": 1663588047,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94990,
+      "num": 94990,
+      "word": "现在孩子的被卡黑历史都是高清的",
+      "onboard_time": 1663663948,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94030,
@@ -3532,7 +3596,7 @@
     },
     {
       "raw_hot": 55850,
-      "num": 1371467,
+      "num": 1451886,
       "word": "丰收的色彩惊艳了秋天",
       "onboard_time": 1663635331,
       "rank": 2,
