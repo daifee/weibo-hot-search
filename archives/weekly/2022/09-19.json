@@ -1,6 +1,6 @@
 {
   "startTime": 1663518759246,
-  "endTime": 1663643610567,
+  "endTime": 1663649453319,
   "band_list": [
     {
       "raw_hot": 3530440,
@@ -57,6 +57,14 @@
       "onboard_time": 1663515272,
       "rank": 3,
       "category": "网红"
+    },
+    {
+      "raw_hot": 2488343,
+      "num": 926818,
+      "word": "知名艺考机构老师被曝诱奸未成年",
+      "onboard_time": 1663639709,
+      "rank": 13,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 2479288,
@@ -139,14 +147,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 1931123,
-      "num": 669427,
-      "word": "知名艺考机构老师被曝诱奸未成年",
-      "onboard_time": 1663639709,
-      "rank": 13,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 1843514,
       "num": 1843514,
       "word": "龙族",
@@ -179,12 +179,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1600552,
+      "num": 1600552,
+      "word": "你会反复喜欢同一个人吗",
+      "onboard_time": 1663640785,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1580897,
       "num": 775645,
       "word": "中国人民大学 疫情防控",
       "onboard_time": 1663637125,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1564265,
+      "num": 940809,
+      "word": "如何看待社科院女研究生休学待产",
+      "onboard_time": 1663642947,
+      "rank": 29,
+      "category": "社会议题,教育"
     },
     {
       "raw_hot": 1557186,
@@ -235,6 +251,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1363240,
+      "num": 591874,
+      "word": "为什么没有男性避孕药",
+      "onboard_time": 1663631247,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1358879,
       "num": 1358879,
       "word": "浙江义乌要求下架槟榔",
@@ -275,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1182348,
+      "num": 936967,
+      "word": "杨颖新剧九尾狐造型",
+      "onboard_time": 1663646431,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1165110,
       "num": 721297,
       "word": "难听",
@@ -289,14 +321,6 @@
       "onboard_time": 1663567110,
       "rank": 10,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 1154752,
-      "num": 553158,
-      "word": "为什么没有男性避孕药",
-      "onboard_time": 1663631247,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1134191,
@@ -443,12 +467,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 955773,
+      "num": 955773,
+      "word": "小伙吃自热锅将发热包与食材同煮",
+      "onboard_time": 1663639289,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 951907,
       "num": 951907,
       "word": "这是在明涵吧",
       "onboard_time": 1663580786,
       "rank": 15,
       "category": "综艺,幽默"
+    },
+    {
+      "raw_hot": 919424,
+      "num": 919424,
+      "word": "南京女大学生被害案二审维持原判",
+      "onboard_time": 1663645409,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 900658,
@@ -563,11 +603,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 717886,
-      "num": 717886,
-      "word": "小伙吃自热锅将发热包与食材同煮",
-      "onboard_time": 1663639289,
-      "rank": 22,
+      "raw_hot": 719205,
+      "num": 578072,
+      "word": "河南婚俗改革目标直指零彩礼",
+      "onboard_time": 1663641269,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -643,6 +683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 628038,
+      "num": 628038,
+      "word": "走不出虞书欣顶桶的画面了",
+      "onboard_time": 1663647873,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 624945,
       "num": 624945,
       "word": "胰腺癌为何被称为癌中之王",
@@ -683,6 +731,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 611716,
+      "num": 611716,
+      "word": "吃东西老塞牙可能是牙齿在求救",
+      "onboard_time": 1663641085,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 601055,
       "num": 310566,
       "word": "客车侧翻致27人遇难20人受伤",
@@ -720,6 +776,14 @@
       "word": "花莲地震是今年以来我国最大地震",
       "onboard_time": 1663516169,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 594709,
+      "num": 594709,
+      "word": "洗米华被控289项罪",
+      "onboard_time": 1663645109,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -777,14 +841,6 @@
       "onboard_time": 1663577309,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 549626,
-      "num": 549626,
-      "word": "河南婚俗改革目标直指零彩礼",
-      "onboard_time": 1663641269,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 547768,
@@ -891,6 +947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 474865,
+      "num": 356060,
+      "word": "李诞 假发",
+      "onboard_time": 1663648832,
+      "rank": 20,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 470544,
       "num": 470544,
       "word": "专家说丁程鑫表演有质感",
@@ -931,12 +995,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 443146,
-      "num": 443146,
-      "word": "你会反复喜欢同一个人吗",
-      "onboard_time": 1663640785,
-      "rank": 46,
-      "category": "情感"
+      "raw_hot": 450571,
+      "num": 450571,
+      "word": "杨颖马天宇吻戏",
+      "onboard_time": 1663649132,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 446087,
+      "num": 446087,
+      "word": "苍兰诀豆瓣评分人数破50万",
+      "onboard_time": 1663644927,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 439628,
@@ -1067,6 +1139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 397652,
+      "num": 352679,
+      "word": "BLACKPINK新歌舞台造型",
+      "onboard_time": 1663649132,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 397169,
       "num": 397169,
       "word": "8岁男孩认错妈吓得女孩连走带跑",
@@ -1105,6 +1185,14 @@
       "onboard_time": 1663561713,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 378832,
+      "num": 378832,
+      "word": "光遇",
+      "onboard_time": 1663645708,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 378610,
@@ -1203,6 +1291,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 359238,
+      "num": 359238,
+      "word": "任泽平称苹果灵动岛是伪创新",
+      "onboard_time": 1663643008,
+      "rank": 34,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 354227,
+      "num": 250668,
+      "word": "95花的侧颜",
+      "onboard_time": 1663644748,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 351457,
       "num": 351457,
       "word": "北京10月31日前禁飞低慢小航空器",
@@ -1233,6 +1337,14 @@
       "onboard_time": 1663573466,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 337076,
+      "num": 250282,
+      "word": "像你这样的朋友好上头",
+      "onboard_time": 1663649190,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 335542,
@@ -1339,12 +1451,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 307898,
-      "num": 307898,
-      "word": "吃东西老塞牙可能是牙齿在求救",
-      "onboard_time": 1663641085,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 308875,
+      "num": 308875,
+      "word": "贵州茅台成被执行人",
+      "onboard_time": 1663643486,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 308136,
+      "num": 282279,
+      "word": "王者荣耀将对部分iPhone开放120帧",
+      "onboard_time": 1663643486,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 305727,
@@ -1507,11 +1627,27 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 281330,
+      "num": 249295,
+      "word": "胡同",
+      "onboard_time": 1663645647,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 280229,
       "num": 280229,
       "word": "长空之王人物海报",
       "onboard_time": 1663556966,
       "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 278701,
+      "num": 248723,
+      "word": "罚罪全员收伞",
+      "onboard_time": 1663649310,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -1577,6 +1713,14 @@
       "onboard_time": 1663587747,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 265741,
+      "num": 193513,
+      "word": "王一栩说杨幂造型最多上镜更是绝美",
+      "onboard_time": 1663643668,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 263361,
@@ -1664,6 +1808,14 @@
       "word": "德牧鼻梁被打裂跑进医院和派出所",
       "onboard_time": 1663600352,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248679,
+      "num": 248679,
+      "word": "四川营山等地要求下架槟榔",
+      "onboard_time": 1663647450,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -1763,6 +1915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 233219,
+      "num": 233219,
+      "word": "女生遭遇性骚扰应该怎么办",
+      "onboard_time": 1663646069,
+      "rank": 36,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 231212,
       "num": 231212,
       "word": "四川新增本土确诊48例无症状47例",
@@ -1841,6 +2001,14 @@
       "onboard_time": 1663620971,
       "rank": 44,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 223288,
+      "num": 223288,
+      "word": "理解了张桂梅校长",
+      "onboard_time": 1663648832,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 223247,
@@ -2011,6 +2179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201327,
+      "num": 201327,
+      "word": "超八成留学人员学成归国",
+      "onboard_time": 1663647810,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198809,
       "num": 198809,
       "word": "黄明昊流水的收官铁打的藏头诗",
@@ -2083,6 +2259,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 188532,
+      "num": 188532,
+      "word": "小伙打游戏太猛主机突然冒火花",
+      "onboard_time": 1663648052,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188324,
       "num": 188324,
       "word": "见过最扁的猫猫",
@@ -2137,14 +2321,6 @@
       "onboard_time": 1663637844,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 182038,
-      "num": 182038,
-      "word": "如何看待社科院女研究生休学待产",
-      "onboard_time": 1663642947,
-      "rank": 29,
-      "category": "社会议题,教育"
     },
     {
       "raw_hot": 181924,
@@ -2281,14 +2457,6 @@
       "onboard_time": 1663571786,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 155128,
-      "num": 155128,
-      "word": "任泽平称苹果灵动岛是伪创新",
-      "onboard_time": 1663643008,
-      "rank": 34,
-      "category": "科技"
     },
     {
       "raw_hot": 154343,
@@ -2705,14 +2873,6 @@
       "onboard_time": 1663591949,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 109623,
-      "num": 109623,
-      "word": "王者荣耀将对部分iPhone开放120帧",
-      "onboard_time": 1663643486,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 109294,
