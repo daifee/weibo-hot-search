@@ -1,6 +1,6 @@
 {
   "startTime": 1663518759246,
-  "endTime": 1663667112678,
+  "endTime": 1663669670803,
   "band_list": [
     {
       "raw_hot": 3530440,
@@ -259,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1520672,
+      "num": 1143954,
+      "word": "女子体内排出4.95米长绦虫",
+      "onboard_time": 1663667967,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1504199,
       "num": 850320,
       "word": "施子怡",
@@ -321,6 +329,14 @@
       "onboard_time": 1663588408,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1270152,
+      "num": 1270152,
+      "word": "2023年央视春晚正式建组",
+      "onboard_time": 1663666588,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 1265571,
@@ -531,6 +547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 992484,
+      "num": 992484,
+      "word": "社科院女研究生回应怀孕休学待产",
+      "onboard_time": 1663663289,
+      "rank": 35,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 958600,
       "num": 958600,
       "word": "LWX被LBL禁赛",
@@ -553,6 +577,14 @@
       "onboard_time": 1663580786,
       "rank": 15,
       "category": "综艺,幽默"
+    },
+    {
+      "raw_hot": 908155,
+      "num": 908155,
+      "word": "男子朋友圈称像坐牢3小时后成真",
+      "onboard_time": 1663663650,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 906362,
@@ -595,14 +627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 861190,
-      "num": 861190,
-      "word": "社科院女研究生回应怀孕休学待产",
-      "onboard_time": 1663663289,
-      "rank": 35,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 852828,
       "num": 852828,
       "word": "父母怕重名给儿子取名李不尚书",
@@ -633,14 +657,6 @@
       "onboard_time": 1663569987,
       "rank": 4,
       "category": "财经"
-    },
-    {
-      "raw_hot": 803972,
-      "num": 803972,
-      "word": "男子朋友圈称像坐牢3小时后成真",
-      "onboard_time": 1663663650,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 796067,
@@ -939,6 +955,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 570537,
+      "num": 570537,
+      "word": "日德战机将在日本国内首次共同训练",
+      "onboard_time": 1663665448,
+      "rank": 46,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 569655,
       "num": 569655,
       "word": "牙不齐可能是因为脸小",
@@ -1041,6 +1065,14 @@
       "onboard_time": 1663587149,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 521124,
+      "num": 521124,
+      "word": "人民文娱评苍兰诀走出国门",
+      "onboard_time": 1663667907,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 519596,
@@ -1347,12 +1379,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 387553,
-      "num": 387553,
-      "word": "日德战机将在日本国内首次共同训练",
-      "onboard_time": 1663665448,
-      "rank": 46,
-      "category": "军事,国外要闻"
+      "raw_hot": 382959,
+      "num": 382959,
+      "word": "杜英哲",
+      "onboard_time": 1663667608,
+      "rank": 13,
+      "category": "社会负面"
     },
     {
       "raw_hot": 382925,
@@ -1369,6 +1401,14 @@
       "onboard_time": 1663564113,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 379945,
+      "num": 379945,
+      "word": "西南政法大学72周年校庆",
+      "onboard_time": 1663666170,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 379247,
@@ -1587,6 +1627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334016,
+      "num": 334016,
+      "word": "95生颜值天花板",
+      "onboard_time": 1663665807,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 330327,
       "num": 330327,
       "word": "洗牙会不会有危害",
@@ -1619,6 +1667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 324862,
+      "num": 324862,
+      "word": "王者花泽香菜合作",
+      "onboard_time": 1663665689,
+      "rank": 24,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 324648,
       "num": 324648,
       "word": "广州越秀发现1人核酸检测阳性",
@@ -1641,14 +1697,6 @@
       "onboard_time": 1663597282,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 320411,
-      "num": 320411,
-      "word": "王者花泽香菜合作",
-      "onboard_time": 1663665689,
-      "rank": 24,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 318815,
@@ -2187,6 +2235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244280,
+      "num": 244280,
+      "word": "现在孩子的被卡黑历史都是高清的",
+      "onboard_time": 1663663948,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243882,
       "num": 100157,
       "word": "小鬼王琳凯DEADLINE实体专辑",
@@ -2267,6 +2323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238030,
+      "num": 238030,
+      "word": "虞美人头像",
+      "onboard_time": 1663667728,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 236683,
       "num": 236683,
       "word": "三安光电",
@@ -2289,6 +2353,14 @@
       "onboard_time": 1663577248,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 234877,
+      "num": 234877,
+      "word": "苹果是牙口的试金石",
+      "onboard_time": 1663666708,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233616,
@@ -2424,14 +2496,6 @@
       "word": "Shopee中国宣布裁员",
       "onboard_time": 1663631967,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 222570,
-      "num": 222570,
-      "word": "现在孩子的被卡黑历史都是高清的",
-      "onboard_time": 1663663948,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -2763,14 +2827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 182338,
-      "num": 182338,
-      "word": "2023年央视春晚正式建组",
-      "onboard_time": 1663666588,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 181924,
       "num": 181924,
       "word": "成毅说周亦安初心如磐",
@@ -2785,14 +2841,6 @@
       "onboard_time": 1663543161,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 181094,
-      "num": 155998,
-      "word": "95生颜值天花板",
-      "onboard_time": 1663665807,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 181027,
@@ -2840,6 +2888,14 @@
       "word": "获奖征文名撞梗讽刺电影被删除",
       "onboard_time": 1663574847,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173448,
+      "num": 173448,
+      "word": "百万奢侈品在快递点浸水损毁",
+      "onboard_time": 1663667548,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -2952,6 +3008,14 @@
       "word": "山东新增本土确诊4例无症状5例",
       "onboard_time": 1663550489,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153965,
+      "num": 153965,
+      "word": "国际象棋比赛疑用智能肛珠作弊",
+      "onboard_time": 1663669587,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -3147,14 +3211,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 141753,
-      "num": 141753,
-      "word": "西南政法大学72周年校庆",
-      "onboard_time": 1663666170,
-      "rank": 36,
-      "category": "教育"
-    },
-    {
       "raw_hot": 141570,
       "num": 141570,
       "word": "请君",
@@ -3217,6 +3273,14 @@
       "onboard_time": 1663632627,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 135049,
+      "num": 135049,
+      "word": "南依发文称别人意见不喜欢不会参考",
+      "onboard_time": 1663667489,
+      "rank": 36,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 134961,
@@ -3419,14 +3483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 110862,
-      "num": 110862,
-      "word": "苹果是牙口的试金石",
-      "onboard_time": 1663666708,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110708,
       "num": 110708,
       "word": "TVB刑侦悬疑剧OST大赏",
@@ -3561,6 +3617,14 @@
       "onboard_time": 1663508312,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 100180,
+      "num": 100180,
+      "word": "好吃又大碗的平价早餐酸奶",
+      "onboard_time": 1663669289,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 99497,

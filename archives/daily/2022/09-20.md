@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/20 00:35:42 ~ 2022/09/20 17:45:12
+本榜单时间：2022/09/20 00:35:42 ~ 2022/09/20 18:27:50
 </p>
 </blockquote>
 <p>
@@ -75,6 +75,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%BD%93%E5%86%85%E6%8E%92%E5%87%BA4.95%E7%B1%B3%E9%95%BF%E7%BB%A6%E8%99%AB%23" target="weibo">
+女子体内排出4.95米长绦虫（热度：1520672）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%91%BD%E5%BC%A0%E7%BF%B0%E4%B8%BA%E9%BB%84%E6%99%93%E6%98%8E%E8%B4%9F%E8%B4%A3%E6%B2%B9%E8%85%BB%E5%B7%A5%E4%BD%9C%23" target="weibo">
 任命张翰为黄晓明负责油腻工作（热度：1515431）
 </a>
@@ -101,6 +107,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%AF%9E%20%E5%81%87%E5%8F%91%23" target="weibo">
 李诞 假发（热度：1332360）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E6%AD%A3%E5%BC%8F%E5%BB%BA%E7%BB%84%23" target="weibo">
+2023年央视春晚正式建组（热度：1270152）
 </a>
 </li>
 
@@ -141,8 +153,20 @@ IU耳朵出问题已长达1年（热度：992671）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A4%BE%E7%A7%91%E9%99%A2%E5%A5%B3%E7%A0%94%E7%A9%B6%E7%94%9F%E5%9B%9E%E5%BA%94%E6%80%80%E5%AD%95%E4%BC%91%E5%AD%A6%E5%BE%85%E4%BA%A7%23" target="weibo">
+社科院女研究生回应怀孕休学待产（热度：992484）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E5%90%83%E8%87%AA%E7%83%AD%E9%94%85%E5%B0%86%E5%8F%91%E7%83%AD%E5%8C%85%E4%B8%8E%E9%A3%9F%E6%9D%90%E5%90%8C%E7%85%AE%23" target="weibo">
 小伙吃自热锅将发热包与食材同煮（热度：955773）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%A7%B0%E5%83%8F%E5%9D%90%E7%89%A23%E5%B0%8F%E6%97%B6%E5%90%8E%E6%88%90%E7%9C%9F%23" target="weibo">
+男子朋友圈称像坐牢3小时后成真（热度：908155）
 </a>
 </li>
 
@@ -159,12 +183,6 @@ IU耳朵出问题已长达1年（热度：992671）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A4%BE%E7%A7%91%E9%99%A2%E5%A5%B3%E7%A0%94%E7%A9%B6%E7%94%9F%E5%9B%9E%E5%BA%94%E6%80%80%E5%AD%95%E4%BC%91%E5%AD%A6%E5%BE%85%E4%BA%A7%23" target="weibo">
-社科院女研究生回应怀孕休学待产（热度：861190）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E7%94%B5%E6%88%90%E7%AB%8B%E4%B8%93%E7%8F%AD%E8%B0%83%E6%9F%A5%E8%B5%B5%E9%9F%A6%E5%BC%A6%E4%BA%8B%E4%BB%B6%23" target="weibo">
 北电成立专班调查赵韦弦事件（热度：827896）
 </a>
@@ -173,12 +191,6 @@ IU耳朵出问题已长达1年（热度：992671）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23231%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E8%8F%B2%E5%BE%8B%E5%AE%BE%E8%8E%B7%E6%95%91%23" target="weibo">
 231名中国公民在菲律宾获救（热度：822977）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%A7%B0%E5%83%8F%E5%9D%90%E7%89%A23%E5%B0%8F%E6%97%B6%E5%90%8E%E6%88%90%E7%9C%9F%23" target="weibo">
-男子朋友圈称像坐牢3小时后成真（热度：803972）
 </a>
 </li>
 
@@ -267,6 +279,12 @@ IU耳朵出问题已长达1年（热度：992671）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%BE%B7%E6%88%98%E6%9C%BA%E5%B0%86%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%86%85%E9%A6%96%E6%AC%A1%E5%85%B1%E5%90%8C%E8%AE%AD%E7%BB%83%23" target="weibo">
+日德战机将在日本国内首次共同训练（热度：570537）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%99%E4%B8%8D%E9%BD%90%E5%8F%AF%E8%83%BD%E6%98%AF%E5%9B%A0%E4%B8%BA%E8%84%B8%E5%B0%8F%23" target="weibo">
 牙不齐可能是因为脸小（热度：569655）
 </a>
@@ -287,6 +305,12 @@ IU耳朵出问题已长达1年（热度：992671）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23BLACKPINK%E6%96%B0%E6%AD%8C%E8%88%9E%E5%8F%B0%E9%80%A0%E5%9E%8B%23" target="weibo">
 BLACKPINK新歌舞台造型（热度：543940）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%96%87%E5%A8%B1%E8%AF%84%E8%8B%8D%E5%85%B0%E8%AF%80%E8%B5%B0%E5%87%BA%E5%9B%BD%E9%97%A8%23" target="weibo">
+人民文娱评苍兰诀走出国门（热度：521124）
 </a>
 </li>
 
@@ -393,20 +417,26 @@ iPhone14系列5G网速提升38%（热度：466341）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%BE%B7%E6%88%98%E6%9C%BA%E5%B0%86%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%86%85%E9%A6%96%E6%AC%A1%E5%85%B1%E5%90%8C%E8%AE%AD%E7%BB%83%23" target="weibo">
-日德战机将在日本国内首次共同训练（热度：387553）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E7%94%B520%E5%AF%BC%E6%BC%94%E8%B5%B5%E9%9F%A6%E5%BC%A6%23" target="weibo">
 北电20导演赵韦弦（热度：385972）
 </a>
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E8%8B%B1%E5%93%B2%23" target="weibo">
+杜英哲（热度：382959）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B6%85%E5%85%AB%E6%88%90%E7%95%99%E5%AD%A6%E4%BA%BA%E5%91%98%E5%AD%A6%E6%88%90%E5%BD%92%E5%9B%BD%23" target="weibo">
 超八成留学人员学成归国（热度：382925）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%8D%97%E6%94%BF%E6%B3%95%E5%A4%A7%E5%AD%A672%E5%91%A8%E5%B9%B4%E6%A0%A1%E5%BA%86%23" target="weibo">
+西南政法大学72周年校庆（热度：379945）
 </a>
 </li>
 
@@ -483,6 +513,12 @@ iPhone14系列5G网速提升38%（热度：466341）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2395%E7%94%9F%E9%A2%9C%E5%80%BC%E5%A4%A9%E8%8A%B1%E6%9D%BF%23" target="weibo">
+95生颜值天花板（热度：334016）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B4%97%E7%89%99%E4%BC%9A%E4%B8%8D%E4%BC%9A%E6%9C%89%E5%8D%B1%E5%AE%B3%23" target="weibo">
 洗牙会不会有危害（热度：330327）
 </a>
@@ -490,7 +526,7 @@ iPhone14系列5G网速提升38%（热度：466341）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8A%B1%E6%B3%BD%E9%A6%99%E8%8F%9C%E5%90%88%E4%BD%9C%23" target="weibo">
-王者花泽香菜合作（热度：320411）
+王者花泽香菜合作（热度：324862）
 </a>
 </li>
 
@@ -699,8 +735,20 @@ LPR（热度：256442）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E5%AD%A9%E5%AD%90%E7%9A%84%E8%A2%AB%E5%8D%A1%E9%BB%91%E5%8E%86%E5%8F%B2%E9%83%BD%E6%98%AF%E9%AB%98%E6%B8%85%E7%9A%84%23" target="weibo">
+现在孩子的被卡黑历史都是高清的（热度：244280）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BE%9D%E7%A7%B0%E4%B8%80%E5%B9%B4%E5%90%8E%E4%BC%9A%E8%BF%94%E6%A0%A1%E6%8A%95%E5%85%A5%E5%AD%A6%E4%B9%A0%23" target="weibo">
 南依称一年后会返校投入学习（热度：238596）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E7%BE%8E%E4%BA%BA%E5%A4%B4%E5%83%8F%23" target="weibo">
+虞美人头像（热度：238030）
 </a>
 </li>
 
@@ -713,6 +761,12 @@ LPR（热度：256442）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%83%B3%E5%92%8C%E6%99%B4%E5%84%BF%E5%AD%A6%E5%AD%A6%E8%AF%B4%E8%AF%9D%E7%9A%84%E8%89%BA%E6%9C%AF%23" target="weibo">
 想和晴儿学学说话的艺术（热度：236355）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%98%AF%E7%89%99%E5%8F%A3%E7%9A%84%E8%AF%95%E9%87%91%E7%9F%B3%23" target="weibo">
+苹果是牙口的试金石（热度：234877）
 </a>
 </li>
 
@@ -773,12 +827,6 @@ LPR（热度：256442）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Shopee%E4%B8%AD%E5%9B%BD%E5%AE%A3%E5%B8%83%E8%A3%81%E5%91%98%23" target="weibo">
 Shopee中国宣布裁员（热度：222591）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E5%AD%A9%E5%AD%90%E7%9A%84%E8%A2%AB%E5%8D%A1%E9%BB%91%E5%8E%86%E5%8F%B2%E9%83%BD%E6%98%AF%E9%AB%98%E6%B8%85%E7%9A%84%23" target="weibo">
-现在孩子的被卡黑历史都是高清的（热度：222570）
 </a>
 </li>
 
@@ -927,18 +975,6 @@ R星官方回应给他爱新作泄露（热度：204636）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E6%AD%A3%E5%BC%8F%E5%BB%BA%E7%BB%84%23" target="weibo">
-2023年央视春晚正式建组（热度：182338）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2395%E7%94%9F%E9%A2%9C%E5%80%BC%E5%A4%A9%E8%8A%B1%E6%9D%BF%23" target="weibo">
-95生颜值天花板（热度：181094）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B9%A1%E5%90%84%E5%8D%95%E4%BD%8D%E5%8E%9F%E5%88%99%E4%B8%8A%E5%B1%85%E5%AE%B6%E5%8A%9E%E5%85%AC%23" target="weibo">
 新乡各单位原则上居家办公（热度：181027）
 </a>
@@ -947,6 +983,12 @@ R星官方回应给他爱新作泄露（热度：204636）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E6%96%B0%E5%A2%9E18%E4%BE%8B%E6%9C%AC%E5%9C%9F%E9%98%B3%E6%80%A7%E6%84%9F%E6%9F%93%E8%80%85%23" target="weibo">
 天津新增18例本土阳性感染者（热度：177036）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BE%E4%B8%87%E5%A5%A2%E4%BE%88%E5%93%81%E5%9C%A8%E5%BF%AB%E9%80%92%E7%82%B9%E6%B5%B8%E6%B0%B4%E6%8D%9F%E6%AF%81%23" target="weibo">
+百万奢侈品在快递点浸水损毁（热度：173448）
 </a>
 </li>
 
@@ -977,6 +1019,12 @@ R星官方回应给他爱新作泄露（热度：204636）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E8%A2%AB%E5%AE%B3%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%AE%B6%E5%B1%9E%E5%9B%9E%E5%BA%94%E4%BA%8C%E5%AE%A1%E7%BB%B4%E6%8C%81%E5%8E%9F%E5%88%A4%23" target="weibo">
 南京被害女大学生家属回应二审维持原判（热度：161245）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E8%B1%A1%E6%A3%8B%E6%AF%94%E8%B5%9B%E7%96%91%E7%94%A8%E6%99%BA%E8%83%BD%E8%82%9B%E7%8F%A0%E4%BD%9C%E5%BC%8A%23" target="weibo">
+国际象棋比赛疑用智能肛珠作弊（热度：153965）
 </a>
 </li>
 
@@ -1047,12 +1095,6 @@ R星官方回应给他爱新作泄露（热度：204636）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%8D%97%E6%94%BF%E6%B3%95%E5%A4%A7%E5%AD%A672%E5%91%A8%E5%B9%B4%E6%A0%A1%E5%BA%86%23" target="weibo">
-西南政法大学72周年校庆（热度：141753）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E8%88%85%E4%BD%9C%E8%80%85%E5%9B%9E%E5%BA%94%E7%BD%91%E7%BB%9C%E8%B4%A8%E7%96%91%23" target="weibo">
 二舅作者回应网络质疑（热度：139720）
 </a>
@@ -1079,6 +1121,12 @@ R星官方回应给他爱新作泄露（热度：204636）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23S12%E5%AE%A3%E4%BC%A0%E7%89%87%23" target="weibo">
 S12宣传片（热度：135829）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BE%9D%E5%8F%91%E6%96%87%E7%A7%B0%E5%88%AB%E4%BA%BA%E6%84%8F%E8%A7%81%E4%B8%8D%E5%96%9C%E6%AC%A2%E4%B8%8D%E4%BC%9A%E5%8F%82%E8%80%83%23" target="weibo">
+南依发文称别人意见不喜欢不会参考（热度：135049）
 </a>
 </li>
 
@@ -1149,12 +1197,6 @@ Uzi（热度：121780）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%98%AF%E7%89%99%E5%8F%A3%E7%9A%84%E8%AF%95%E9%87%91%E7%9F%B3%23" target="weibo">
-苹果是牙口的试金石（热度：110862）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%8D%E7%89%99%E5%87%AD%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E8%B4%B5%23" target="weibo">
 种牙凭什么这么贵（热度：109294）
 </a>
@@ -1175,6 +1217,12 @@ Uzi（热度：121780）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A1%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B67%E4%BE%8B%23" target="weibo">
 河南增本土确诊1例无症状7例（热度：101969）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%BD%E5%90%83%E5%8F%88%E5%A4%A7%E7%A2%97%E7%9A%84%E5%B9%B3%E4%BB%B7%E6%97%A9%E9%A4%90%E9%85%B8%E5%A5%B6%23" target="weibo">
+好吃又大碗的平价早餐酸奶（热度：100180）
 </a>
 </li>
 
