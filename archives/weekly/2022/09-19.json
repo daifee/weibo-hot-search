@@ -1,6 +1,6 @@
 {
   "startTime": 1663518759246,
-  "endTime": 1663682165413,
+  "endTime": 1663682808830,
   "band_list": [
     {
       "raw_hot": 6029244,
@@ -763,6 +763,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 785509,
+      "num": 530026,
+      "word": "杜英哲",
+      "onboard_time": 1663667608,
+      "rank": 13,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 770506,
       "num": 770506,
       "word": "当狗狗身上长满了鸭子",
@@ -875,14 +883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 686928,
-      "num": 466982,
-      "word": "杜英哲",
-      "onboard_time": 1663667608,
-      "rank": 13,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 686360,
       "num": 686360,
       "word": "杨紫长相思大婚路透",
@@ -961,6 +961,14 @@
       "onboard_time": 1663570768,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 623025,
+      "num": 623025,
+      "word": "为什么不建议你劝别人分手",
+      "onboard_time": 1663678891,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 612203,
@@ -1171,6 +1179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 532172,
+      "num": 532172,
+      "word": "翰了汗了",
+      "onboard_time": 1663681595,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 531659,
       "num": 531659,
       "word": "鹿晗演唱会预告视频",
@@ -1219,20 +1235,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 499350,
+      "num": 499350,
+      "word": "清华隔空喊话丁同学没你不行",
+      "onboard_time": 1663678770,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 496680,
       "num": 496680,
       "word": "前车突然变道SUV被迫刀片超车",
       "onboard_time": 1663564650,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 495635,
-      "num": 495635,
-      "word": "为什么不建议你劝别人分手",
-      "onboard_time": 1663678891,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 486225,
@@ -1339,6 +1355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 448654,
+      "num": 448654,
+      "word": "孟川CP文",
+      "onboard_time": 1663681655,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 446087,
       "num": 446087,
       "word": "苍兰诀豆瓣评分人数破50万",
@@ -1385,14 +1409,6 @@
       "onboard_time": 1663560209,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 435001,
-      "num": 435001,
-      "word": "清华隔空喊话丁同学没你不行",
-      "onboard_time": 1663678770,
-      "rank": 38,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 433162,
@@ -1715,6 +1731,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 358904,
+      "num": 287852,
+      "word": "脱口秀大会",
+      "onboard_time": 1663677569,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 356460,
       "num": 356460,
       "word": "理解了张桂梅校长",
@@ -1745,6 +1769,14 @@
       "onboard_time": 1663619771,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348678,
+      "num": 348678,
+      "word": "猫猫是怎么表达肚子疼的",
+      "onboard_time": 1663678288,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 347076,
@@ -1803,14 +1835,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 336712,
-      "num": 287852,
-      "word": "脱口秀大会",
-      "onboard_time": 1663677569,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 335542,
       "num": 335542,
       "word": "员工故意旷工被开除起诉索赔12万",
@@ -1825,14 +1849,6 @@
       "onboard_time": 1663633948,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 330056,
-      "num": 330056,
-      "word": "猫猫是怎么表达肚子疼的",
-      "onboard_time": 1663678288,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 329799,
@@ -1865,14 +1881,6 @@
       "onboard_time": 1663563035,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 326123,
-      "num": 199227,
-      "word": "孟川CP文",
-      "onboard_time": 1663681655,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 324862,
@@ -2041,14 +2049,6 @@
       "onboard_time": 1663652367,
       "rank": 17,
       "category": "教育"
-    },
-    {
-      "raw_hot": 299747,
-      "num": 194118,
-      "word": "翰了汗了",
-      "onboard_time": 1663681595,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 298177,
@@ -2515,6 +2515,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 245098,
+      "num": 245098,
+      "word": "当代年轻人养生图鉴",
+      "onboard_time": 1663682493,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 244280,
       "num": 244280,
       "word": "现在孩子的被卡黑历史都是高清的",
@@ -2569,6 +2577,14 @@
       "onboard_time": 1663557987,
       "rank": 29,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 241572,
+      "num": 241572,
+      "word": "王毅会见美国前国务卿基辛格",
+      "onboard_time": 1663680217,
+      "rank": 36,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 241568,
@@ -2684,7 +2700,7 @@
     },
     {
       "raw_hot": 229294,
-      "num": 116370,
+      "num": 155598,
       "word": "东方玄幻有多绝",
       "onboard_time": 1663678229,
       "rank": 41,
@@ -3115,14 +3131,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 183894,
-      "num": 183894,
-      "word": "王毅会见美国前国务卿基辛格",
-      "onboard_time": 1663680217,
-      "rank": 36,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 182415,
       "num": 182415,
       "word": "北京新增8例境外输入确诊",
@@ -3323,6 +3331,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158204,
+      "num": 158204,
+      "word": "小浣熊头卡栅栏被救时吓尿了",
+      "onboard_time": 1663680935,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157025,
+      "num": 157025,
+      "word": "小猫也喜欢看电视",
+      "onboard_time": 1663682670,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 155951,
       "num": 151198,
       "word": "周雨彤说吴磊夸夸费看着给",
@@ -3403,6 +3427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 150953,
+      "num": 150953,
+      "word": "主人被自家宠物狗严重咬伤",
+      "onboard_time": 1663681476,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149385,
       "num": 149385,
       "word": "怎么做到一身正气地跳舞的",
@@ -3481,6 +3513,14 @@
       "onboard_time": 1663594047,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 145607,
+      "num": 145607,
+      "word": "武磊回归中超首秀",
+      "onboard_time": 1663681114,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 145267,
@@ -3683,14 +3723,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 128922,
-      "num": 128922,
-      "word": "小浣熊头卡栅栏被救时吓尿了",
-      "onboard_time": 1663680935,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 128677,
       "num": 128677,
       "word": "世界上最神秘的鸟原来长这样",
@@ -3731,6 +3763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124745,
+      "num": 124745,
+      "word": "年轻人如何慢慢失去健康",
+      "onboard_time": 1663681114,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123884,
       "num": 93537,
       "word": "有被这样的人生态度开解到",
@@ -3755,11 +3795,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 119611,
-      "num": 119611,
-      "word": "武磊回归中超首秀",
-      "onboard_time": 1663681114,
-      "rank": 42,
+      "raw_hot": 120433,
+      "num": 120433,
+      "word": "大连人",
+      "onboard_time": 1663682134,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -3931,14 +3971,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 102807,
-      "num": 102807,
-      "word": "主人被自家宠物狗严重咬伤",
-      "onboard_time": 1663681476,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 101969,
       "num": 101969,
       "word": "河南增本土确诊1例无症状7例",
@@ -4043,14 +4075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 92570,
-      "num": 92570,
-      "word": "年轻人如何慢慢失去健康",
-      "onboard_time": 1663681114,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 89149,
       "num": 89149,
       "word": "大兴安岭迎来入秋后第一场雪",
@@ -4113,14 +4137,6 @@
       "onboard_time": 1663678109,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 72768,
-      "num": 85231,
-      "word": "大连人",
-      "onboard_time": 1663682134,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 69305,
