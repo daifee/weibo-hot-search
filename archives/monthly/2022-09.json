@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1663682808830,
+  "endTime": 1663684362896,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -4409,6 +4409,14 @@
       "onboard_time": 1662435089,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1326448,
+      "num": 1002336,
+      "word": "翰了汗了",
+      "onboard_time": 1663681595,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 1323862,
@@ -8891,6 +8899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 811072,
+      "num": 574792,
+      "word": "杜英哲",
+      "onboard_time": 1663667608,
+      "rank": 13,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 810694,
       "num": 609861,
       "word": "赵丽颖金九封面预告",
@@ -9193,14 +9209,6 @@
       "onboard_time": 1662120867,
       "rank": 12,
       "category": "科技"
-    },
-    {
-      "raw_hot": 785509,
-      "num": 530026,
-      "word": "杜英哲",
-      "onboard_time": 1663667608,
-      "rank": 13,
-      "category": "社会负面"
     },
     {
       "raw_hot": 785269,
@@ -10691,6 +10699,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 678981,
+      "num": 678981,
+      "word": "为什么不建议你劝别人分手",
+      "onboard_time": 1663678891,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 678801,
       "num": 528040,
       "word": "何洛洛严浩翔马启越进入北电表演实验班",
@@ -11505,14 +11521,6 @@
       "onboard_time": 1663570768,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 623025,
-      "num": 623025,
-      "word": "为什么不建议你劝别人分手",
-      "onboard_time": 1663678891,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 622617,
@@ -12555,6 +12563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 570447,
+      "num": 570447,
+      "word": "孟川CP文",
+      "onboard_time": 1663681655,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 570405,
       "num": 570405,
       "word": "能不能不卷了",
@@ -13451,14 +13467,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 532172,
-      "num": 532172,
-      "word": "翰了汗了",
-      "onboard_time": 1663681595,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 531944,
       "num": 531944,
       "word": "听说是中国人必会的填空题",
@@ -14139,6 +14147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 503383,
+      "num": 503383,
+      "word": "清华隔空喊话丁同学没你不行",
+      "onboard_time": 1663678770,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 503051,
       "num": 503051,
       "word": "中国产出了全球几乎全部杨梅",
@@ -14249,14 +14265,6 @@
       "onboard_time": 1661955930,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 499350,
-      "num": 499350,
-      "word": "清华隔空喊话丁同学没你不行",
-      "onboard_time": 1663678770,
-      "rank": 38,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 499079,
@@ -15873,14 +15881,6 @@
       "onboard_time": 1663302392,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 448654,
-      "num": 448654,
-      "word": "孟川CP文",
-      "onboard_time": 1663681655,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 448631,
@@ -19707,6 +19707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 359502,
+      "num": 359502,
+      "word": "王毅会见美国前国务卿基辛格",
+      "onboard_time": 1663680217,
+      "rank": 36,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 359441,
       "num": 359441,
       "word": "EDG BP",
@@ -22427,6 +22435,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 310390,
+      "num": 198198,
+      "word": "脱口秀大会淘汰",
+      "onboard_time": 1663683756,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 310163,
       "num": 227482,
       "word": "任敏中秋造型梦回徽柔",
@@ -23409,6 +23425,14 @@
       "onboard_time": 1662527966,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 296817,
+      "num": 296817,
+      "word": "主人被自家宠物狗严重咬伤",
+      "onboard_time": 1663681476,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 296804,
@@ -27891,14 +27915,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 241572,
-      "num": 241572,
-      "word": "王毅会见美国前国务卿基辛格",
-      "onboard_time": 1663680217,
-      "rank": 36,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 241551,
       "num": 241551,
       "word": "国产大型通信无人机飞赴震中",
@@ -30635,6 +30651,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 206080,
+      "num": 206080,
+      "word": "真诚是打败阴阳怪气的必杀技",
+      "onboard_time": 1663683633,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 205928,
       "num": 205928,
       "word": "何洛洛军训",
@@ -31401,6 +31425,14 @@
       "onboard_time": 1663558947,
       "rank": 38,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 196322,
+      "num": 196322,
+      "word": "大连人",
+      "onboard_time": 1663682134,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 196262,
@@ -32779,6 +32811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181733,
+      "num": 181733,
+      "word": "阴阳师",
+      "onboard_time": 1662045267,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 181648,
       "num": 181648,
       "word": "西班牙男篮欧洲杯冠军",
@@ -33011,6 +33051,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 178259,
+      "num": 178259,
+      "word": "小猫也喜欢看电视",
+      "onboard_time": 1663682670,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 177985,
       "num": 177985,
       "word": "怎么做到每一笔都出乎意料",
@@ -33033,14 +33081,6 @@
       "onboard_time": 1663571727,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 177306,
-      "num": 177306,
-      "word": "阴阳师",
-      "onboard_time": 1662045267,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 177036,
@@ -33667,6 +33707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168872,
+      "num": 168872,
+      "word": "年轻人如何慢慢失去健康",
+      "onboard_time": 1663681114,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168867,
       "num": 158694,
       "word": "宋茜演的杜帝不是杜娣",
@@ -33993,6 +34041,14 @@
       "onboard_time": 1662748754,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164331,
+      "num": 164331,
+      "word": "如何停止过度焦虑",
+      "onboard_time": 1663683756,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 164251,
@@ -34427,6 +34483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159754,
+      "num": 159754,
+      "word": "00后国乒选手唱成都",
+      "onboard_time": 1663683275,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159612,
       "num": 159612,
       "word": "手机直连卫星时代来了",
@@ -34507,8 +34571,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 158204,
-      "num": 158204,
+      "raw_hot": 158362,
+      "num": 158362,
       "word": "小浣熊头卡栅栏被救时吓尿了",
       "onboard_time": 1663680935,
       "rank": 39,
@@ -34609,14 +34673,6 @@
       "onboard_time": 1662765379,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157025,
-      "num": 157025,
-      "word": "小猫也喜欢看电视",
-      "onboard_time": 1663682670,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 156970,
@@ -35193,14 +35249,6 @@
       "onboard_time": 1663573286,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 150953,
-      "num": 150953,
-      "word": "主人被自家宠物狗严重咬伤",
-      "onboard_time": 1663681476,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 150683,
@@ -37251,14 +37299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 124745,
-      "num": 124745,
-      "word": "年轻人如何慢慢失去健康",
-      "onboard_time": 1663681114,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 124497,
       "num": 124497,
       "word": "郑州商城贵族墓葬首次发现金面罩",
@@ -37401,14 +37441,6 @@
       "onboard_time": 1663197924,
       "rank": 45,
       "category": "教育"
-    },
-    {
-      "raw_hot": 120433,
-      "num": 120433,
-      "word": "大连人",
-      "onboard_time": 1663682134,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 120356,
