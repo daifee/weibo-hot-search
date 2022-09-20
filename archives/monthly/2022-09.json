@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1663701649508,
+  "endTime": 1663702599773,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -40649,6 +40649,14 @@
       "onboard_time": 1662060791,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 12734,
+      "num": 12734,
+      "word": "一群孩子捡到4岁男童交给警察叔叔",
+      "onboard_time": 1663701673,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12478,
