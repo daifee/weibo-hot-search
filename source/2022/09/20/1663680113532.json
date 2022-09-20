@@ -1,0 +1,410 @@
+{
+  "runTime": 1663680113532,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2124038,
+        "num": 2124038,
+        "word": "社科院女研究生回应怀孕休学待产",
+        "onboard_time": 1663663289,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1625202,
+        "num": 1625202,
+        "word": "你拿的是工资吗",
+        "onboard_time": 1663677750,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 18232,
+        "num": 1603235,
+        "word": "丰收的色彩惊艳了秋天",
+        "onboard_time": 1663635331,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1849827,
+        "num": 1602627,
+        "word": "女子体内排出4.95米长绦虫",
+        "onboard_time": 1663667967,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1591869,
+        "num": 1591869,
+        "word": "女研究生休学待产为何引来爹味说教",
+        "onboard_time": 1663669770,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1407611,
+        "num": 1407611,
+        "word": "张远自荐上春晚",
+        "onboard_time": 1663678770,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1367337,
+        "num": 1367337,
+        "word": "旺旺",
+        "onboard_time": 1663679552,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1007680,
+        "num": 1007680,
+        "word": "国际象棋比赛疑用智能肛珠作弊",
+        "onboard_time": 1663669587,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1007409,
+        "num": 1007409,
+        "word": "昆仑神宫",
+        "onboard_time": 1663677449,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 797717,
+        "num": 797717,
+        "word": "游客爬完黄山下楼梯似丧尸集体出动",
+        "onboard_time": 1663671150,
+        "rank": 9,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 5466567,
+        "num": 744539,
+        "word": "房思琪",
+        "onboard_time": 1663677991,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1708685,
+        "num": 717326,
+        "word": "谁能顶得住张翰",
+        "onboard_time": 1663672772,
+        "rank": 11,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 669509,
+        "num": 669509,
+        "word": "全面禁售槟榔该下决心了",
+        "onboard_time": 1663670187,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 599327,
+        "num": 599327,
+        "word": "龚俊 韩烨太子",
+        "onboard_time": 1663671389,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 524991,
+        "num": 524991,
+        "word": "维修店称小米11系列近5成都有问题",
+        "onboard_time": 1663675890,
+        "rank": 14,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 462005,
+        "num": 462005,
+        "word": "共情能力太强不适合学医",
+        "onboard_time": 1663671750,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 413432,
+        "num": 413432,
+        "word": "杜英哲",
+        "onboard_time": 1663667608,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 335697,
+        "num": 335697,
+        "word": "槟榔近千亿产业或被按下暂停键",
+        "onboard_time": 1663671030,
+        "rank": 17,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 290269,
+        "num": 290269,
+        "word": "九尾又双叒换发色了",
+        "onboard_time": 1663673733,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 283923,
+        "num": 283923,
+        "word": "石家庄疫情防控",
+        "onboard_time": 1663674514,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385201,
+        "num": 283481,
+        "word": "95生颜值天花板",
+        "onboard_time": 1663665807,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351831,
+        "num": 282984,
+        "word": "赵露思首部上星剧",
+        "onboard_time": 1663663948,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 346085,
+        "num": 282983,
+        "word": "鬼吹灯",
+        "onboard_time": 1663678711,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281797,
+        "num": 281797,
+        "word": "男子打赏女主播74万老婆不知情",
+        "onboard_time": 1663672893,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280390,
+        "num": 280390,
+        "word": "遂宁疫情防控",
+        "onboard_time": 1663675593,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341959,
+        "num": 272551,
+        "word": "Lily翻唱Psycho",
+        "onboard_time": 1663674514,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 231119,
+        "num": 231119,
+        "word": "男子朋友圈称像坐牢3小时后成真",
+        "onboard_time": 1663663650,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219211,
+        "num": 219211,
+        "word": "乒乒乓乓我来唱",
+        "onboard_time": 1663676911,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203805,
+        "num": 203805,
+        "word": "为什么不建议你劝别人分手",
+        "onboard_time": 1663678891,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197771,
+        "num": 197771,
+        "word": "丈夫出轨2人赠与千万妻子起诉要回",
+        "onboard_time": 1663653927,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330661,
+        "num": 193631,
+        "word": "鹿晗演唱会预告视频",
+        "onboard_time": 1663675231,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 295732,
+        "num": 191108,
+        "word": "明年待播的古偶剧",
+        "onboard_time": 1663674273,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 279040,
+        "num": 189417,
+        "word": "脱口秀大会",
+        "onboard_time": 1663677569,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183886,
+        "num": 183886,
+        "word": "知名艺考机构老师被曝诱奸未成年",
+        "onboard_time": 1663639709,
+        "rank": 33,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 181019,
+        "num": 181019,
+        "word": "5岁男童去世捐肾救2人",
+        "onboard_time": 1663675711,
+        "rank": 34,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 157396,
+        "num": 157396,
+        "word": "猫猫是怎么表达肚子疼的",
+        "onboard_time": 1663678288,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145357,
+        "num": 145357,
+        "word": "老人拿破烂纸板鞋向店主换盐被拒",
+        "onboard_time": 1663670611,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133277,
+        "num": 133277,
+        "word": "日德战机将在日本国内首次共同训练",
+        "onboard_time": 1663665448,
+        "rank": 37,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 117566,
+        "num": 117566,
+        "word": "清华隔空喊话丁同学没你不行",
+        "onboard_time": 1663678770,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 116416,
+        "num": 116416,
+        "word": "不想爱了也不想劳动了",
+        "onboard_time": 1663662869,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 237044,
+        "num": 116416,
+        "word": "罚罪大结局",
+        "onboard_time": 1663674032,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229294,
+        "num": 116370,
+        "word": "东方玄幻有多绝",
+        "onboard_time": 1663678229,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115473,
+        "num": 115473,
+        "word": "女子入职虚报婚育情况被解除劳动合同",
+        "onboard_time": 1663662807,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111822,
+        "num": 111822,
+        "word": "杨旭绝杀",
+        "onboard_time": 1663675292,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104035,
+        "num": 104035,
+        "word": "黛玉压弯",
+        "onboard_time": 1663664610,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93176,
+        "num": 93176,
+        "word": "本周末考研预报名",
+        "onboard_time": 1663679795,
+        "rank": 45,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 91053,
+        "num": 91053,
+        "word": "好吃又大碗的平价早餐酸奶",
+        "onboard_time": 1663669289,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 85280,
+        "num": 85280,
+        "word": "苹果是牙口的试金石",
+        "onboard_time": 1663666708,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78608,
+        "num": 78608,
+        "word": "百万奢侈品在快递点浸水损毁",
+        "onboard_time": 1663667548,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56970,
+        "num": 56970,
+        "word": "槟榔是如何危害健康的",
+        "onboard_time": 1663678109,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#激发全社会向上向善的正能量#"
+    }
+  }
+}

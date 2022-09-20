@@ -1,7 +1,15 @@
 {
   "startTime": 1663518759246,
-  "endTime": 1663678177934,
+  "endTime": 1663680113532,
   "band_list": [
+    {
+      "raw_hot": 5466567,
+      "num": 744539,
+      "word": "房思琪",
+      "onboard_time": 1663677991,
+      "rank": 11,
+      "category": "网红"
+    },
     {
       "raw_hot": 3530440,
       "num": 3530440,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 2515384,
-      "num": 611190,
+      "num": 717326,
       "word": "谁能顶得住张翰",
       "onboard_time": 1663672772,
       "rank": 20,
@@ -267,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1625202,
+      "num": 1625202,
+      "word": "你拿的是工资吗",
+      "onboard_time": 1663677750,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1600552,
       "num": 1600552,
       "word": "你会反复喜欢同一个人吗",
@@ -339,6 +355,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1407611,
+      "num": 1407611,
+      "word": "张远自荐上春晚",
+      "onboard_time": 1663678770,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 1367337,
+      "num": 1367337,
+      "word": "旺旺",
+      "onboard_time": 1663679552,
+      "rank": 6,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1363240,
       "num": 591874,
       "word": "为什么没有男性避孕药",
@@ -401,14 +433,6 @@
       "onboard_time": 1663669587,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1234743,
-      "num": 514725,
-      "word": "房思琪",
-      "onboard_time": 1663677991,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 1224387,
@@ -577,6 +601,14 @@
       "onboard_time": 1663572328,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1007409,
+      "num": 1007409,
+      "word": "昆仑神宫",
+      "onboard_time": 1663677449,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 1003322,
@@ -1155,6 +1187,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 524991,
+      "num": 524991,
+      "word": "维修店称小米11系列近5成都有问题",
+      "onboard_time": 1663675890,
+      "rank": 17,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 519596,
       "num": 519596,
       "word": "我的县长父亲作者回应",
@@ -1353,14 +1393,6 @@
       "onboard_time": 1663598912,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 426544,
-      "num": 296942,
-      "word": "昆仑神宫",
-      "onboard_time": 1663677449,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 420602,
@@ -1595,14 +1627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 373850,
-      "num": 373850,
-      "word": "维修店称小米11系列近5成都有问题",
-      "onboard_time": 1663675890,
-      "rank": 17,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 373490,
       "num": 373490,
       "word": "iPhone14Pro机型数据传输后卡死",
@@ -1721,6 +1745,14 @@
       "onboard_time": 1663650269,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 346085,
+      "num": 282983,
+      "word": "鬼吹灯",
+      "onboard_time": 1663678711,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 340282,
@@ -2076,7 +2108,7 @@
     },
     {
       "raw_hot": 284808,
-      "num": 174572,
+      "num": 189417,
       "word": "脱口秀大会",
       "onboard_time": 1663677569,
       "rank": 30,
@@ -2347,14 +2379,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 256421,
-      "num": 256421,
-      "word": "你拿的是工资吗",
-      "onboard_time": 1663677750,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 256209,
       "num": 250002,
       "word": "刻在四川人DNA里的歌单",
@@ -2619,6 +2643,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 229294,
+      "num": 116370,
+      "word": "东方玄幻有多绝",
+      "onboard_time": 1663678229,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 228837,
       "num": 228837,
       "word": "美为获取731实验资料对日军战犯豁免",
@@ -2851,6 +2883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203805,
+      "num": 203805,
+      "word": "为什么不建议你劝别人分手",
+      "onboard_time": 1663678891,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 203776,
       "num": 203776,
       "word": "上海国庆假期倡导本地过节",
@@ -3075,6 +3115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181019,
+      "num": 181019,
+      "word": "5岁男童去世捐肾救2人",
+      "onboard_time": 1663675711,
+      "rank": 34,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 179316,
       "num": 179316,
       "word": "杨旭绝杀",
@@ -3235,12 +3283,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 160914,
-      "num": 160914,
-      "word": "5岁男童去世捐肾救2人",
-      "onboard_time": 1663675711,
-      "rank": 34,
-      "category": "社会正能量"
+      "raw_hot": 157396,
+      "num": 157396,
+      "word": "猫猫是怎么表达肚子疼的",
+      "onboard_time": 1663678288,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 155951,
@@ -3667,6 +3715,14 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 117566,
+      "num": 117566,
+      "word": "清华隔空喊话丁同学没你不行",
+      "onboard_time": 1663678770,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 115575,
       "num": 115575,
       "word": "如果可以穿越时空",
@@ -3929,6 +3985,14 @@
       "onboard_time": 1663491449,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 93176,
+      "num": 93176,
+      "word": "本周末考研预报名",
+      "onboard_time": 1663679795,
+      "rank": 45,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 89149,
