@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/20 15:31:22
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/20 15:46:16
 </p>
 </blockquote>
 <p>
@@ -4665,6 +4665,12 @@ iPhone14Pro系列占中国订单85%（热度：1059806）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%83%A8%E5%88%86%E5%9B%9B%E5%A4%A9%E5%B7%A5%E4%BD%9C%E5%88%B6%E8%AF%95%E7%82%B9%E5%85%AC%E5%8F%B8%E6%88%90%E5%8A%9F%E4%BA%86%23" target="weibo">
+大部分四天工作制试点公司成功了（热度：1045864）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E5%92%8C%E8%AF%BB%E7%A0%94%E5%93%AA%E4%B8%AA%E6%9B%B4%E7%B4%AF%23" target="weibo">
 考研和读研哪个更累（热度：1045644）
 </a>
@@ -5993,12 +5999,6 @@ iPhone14系列没涨价（热度：892829）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%BA%E9%81%93%E6%88%98%23" target="weibo">
 出道战（热度：882087）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%83%A8%E5%88%86%E5%9B%9B%E5%A4%A9%E5%B7%A5%E4%BD%9C%E5%88%B6%E8%AF%95%E7%82%B9%E5%85%AC%E5%8F%B8%E6%88%90%E5%8A%9F%E4%BA%86%23" target="weibo">
-大部分四天工作制试点公司成功了（热度：881123）
 </a>
 </li>
 
