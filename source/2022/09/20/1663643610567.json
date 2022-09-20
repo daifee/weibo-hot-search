@@ -1,0 +1,410 @@
+{
+  "runTime": 1663643610567,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3070153,
+        "num": 3070153,
+        "word": "南依",
+        "onboard_time": 1663639469,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 841392,
+        "num": 841392,
+        "word": "00后发朋友圈吐槽公司被开除",
+        "onboard_time": 1663600291,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30258,
+        "num": 779890,
+        "word": "让禾下乘凉梦遍地开花",
+        "onboard_time": 1663591949,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1504199,
+        "num": 766643,
+        "word": "施子怡",
+        "onboard_time": 1663637965,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 721796,
+        "num": 721796,
+        "word": "喝碳酸饮料半小时后再刷牙",
+        "onboard_time": 1663635746,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 717886,
+        "num": 717886,
+        "word": "小伙吃自热锅将发热包与食材同煮",
+        "onboard_time": 1663639289,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1931123,
+        "num": 669427,
+        "word": "知名艺考机构老师被曝诱奸未成年",
+        "onboard_time": 1663639709,
+        "rank": 6,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 561084,
+        "num": 561084,
+        "word": "苹果将修复iPhone14Pro系列摄像头缺陷",
+        "onboard_time": 1663636407,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 549626,
+        "num": 549626,
+        "word": "河南婚俗改革目标直指零彩礼",
+        "onboard_time": 1663641269,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 532645,
+        "num": 532645,
+        "word": "硕士送外卖是基于理性和现实",
+        "onboard_time": 1663636767,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 938301,
+        "num": 508627,
+        "word": "为什么没有男性避孕药",
+        "onboard_time": 1663631247,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 815886,
+        "num": 503145,
+        "word": "任命张翰为黄晓明负责油腻工作",
+        "onboard_time": 1663597952,
+        "rank": 11,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 469943,
+        "num": 469943,
+        "word": "看小森林得了森精病",
+        "onboard_time": 1663641206,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 443146,
+        "num": 443146,
+        "word": "你会反复喜欢同一个人吗",
+        "onboard_time": 1663640785,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 403668,
+        "num": 403668,
+        "word": "河南发布国庆放假通知",
+        "onboard_time": 1663639949,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400555,
+        "num": 400555,
+        "word": "当狗狗身上长满了鸭子",
+        "onboard_time": 1663633648,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 377862,
+        "num": 377862,
+        "word": "猫咪开门让扫地机器人下27楼",
+        "onboard_time": 1663638267,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371965,
+        "num": 371965,
+        "word": "苹果将iPhone14Pro系列出货量提升10%",
+        "onboard_time": 1663637605,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 307898,
+        "num": 307898,
+        "word": "吃东西老塞牙可能是牙齿在求救",
+        "onboard_time": 1663641085,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286494,
+        "num": 286494,
+        "word": "IU耳朵出问题已长达1年",
+        "onboard_time": 1663598371,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274413,
+        "num": 274413,
+        "word": "牙不齐可能是因为脸小",
+        "onboard_time": 1663630402,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263964,
+        "num": 263964,
+        "word": "原来是妈妈主动选择了我",
+        "onboard_time": 1663630946,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 256442,
+        "num": 256442,
+        "word": "LPR",
+        "onboard_time": 1663639045,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 239353,
+        "num": 239353,
+        "word": "墨西哥发生7.7级地震",
+        "onboard_time": 1663634128,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237035,
+        "num": 237035,
+        "word": "广州增城一业主出售4套房亏损200万",
+        "onboard_time": 1663637726,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229402,
+        "num": 229402,
+        "word": "张艺兴新歌面纱预告",
+        "onboard_time": 1663642648,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 225291,
+        "num": 225291,
+        "word": "姆巴佩因肖像权争议拒绝参加法国队合影",
+        "onboard_time": 1663638566,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215529,
+        "num": 215529,
+        "word": "南京疫情防控",
+        "onboard_time": 1663641687,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214448,
+        "num": 214448,
+        "word": "洗牙会不会有危害",
+        "onboard_time": 1663633948,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182038,
+        "num": 182038,
+        "word": "如何看待社科院女研究生休学待产",
+        "onboard_time": 1663642947,
+        "rank": 29,
+        "category": "社会议题,教育"
+      },
+      {
+        "raw_hot": 321630,
+        "num": 180729,
+        "word": "北电20导演赵韦弦",
+        "onboard_time": 1663589428,
+        "rank": 30,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 177334,
+        "num": 177334,
+        "word": "智齿要不要去拔",
+        "onboard_time": 1663639169,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177036,
+        "num": 177036,
+        "word": "天津新增18例本土阳性感染者",
+        "onboard_time": 1663641385,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172901,
+        "num": 172901,
+        "word": "倪妮玫瑰转场大片",
+        "onboard_time": 1663640669,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155128,
+        "num": 155128,
+        "word": "任泽平称苹果灵动岛是伪创新",
+        "onboard_time": 1663643008,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 152492,
+        "num": 152492,
+        "word": "什么运动最减脂",
+        "onboard_time": 1663635627,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148512,
+        "num": 148512,
+        "word": "苍兰诀",
+        "onboard_time": 1663642707,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147057,
+        "num": 147057,
+        "word": "148一盒的敷尔佳面膜成本仅10元",
+        "onboard_time": 1663593387,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134898,
+        "num": 134898,
+        "word": "猫狗都嫌的年纪有多可怕",
+        "onboard_time": 1663630584,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134418,
+        "num": 134418,
+        "word": "安宥真说啊对对对",
+        "onboard_time": 1663631667,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129279,
+        "num": 129279,
+        "word": "虞书欣爷爷友情客串两个人的小森林",
+        "onboard_time": 1663596391,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124127,
+        "num": 124127,
+        "word": "男子偷外卖骑手当场抓获绑路杆上",
+        "onboard_time": 1663629440,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123181,
+        "num": 123181,
+        "word": "底线首播成绩",
+        "onboard_time": 1663636648,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121958,
+        "num": 121958,
+        "word": "北京新增8例境外输入确诊",
+        "onboard_time": 1663637844,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117336,
+        "num": 117336,
+        "word": "胰腺癌一旦发现往往已是中晚期",
+        "onboard_time": 1663599090,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109623,
+        "num": 109623,
+        "word": "王者荣耀将对部分iPhone开放120帧",
+        "onboard_time": 1663643486,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109294,
+        "num": 109294,
+        "word": "种牙凭什么这么贵",
+        "onboard_time": 1663642347,
+        "rank": 46,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 187858,
+        "num": 109270,
+        "word": "孙珍妮西域风写真",
+        "onboard_time": 1663643606,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 109209,
+        "num": 109209,
+        "word": "S12宣传片",
+        "onboard_time": 1663632627,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108855,
+        "num": 108855,
+        "word": "老人连续10个月偷拿鞋店摆货鞋盒",
+        "onboard_time": 1663612392,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国航天的每个首次都是突破#"
+    }
+  }
+}

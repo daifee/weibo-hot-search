@@ -1,7 +1,23 @@
 {
   "startTime": 1663605342095,
-  "endTime": 1663640921543,
+  "endTime": 1663643610567,
   "band_list": [
+    {
+      "raw_hot": 3070153,
+      "num": 3070153,
+      "word": "南依",
+      "onboard_time": 1663639469,
+      "rank": 4,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 1931123,
+      "num": 669427,
+      "word": "知名艺考机构老师被曝诱奸未成年",
+      "onboard_time": 1663639709,
+      "rank": 13,
+      "category": "教育,社会新闻"
+    },
     {
       "raw_hot": 1580897,
       "num": 775645,
@@ -27,7 +43,7 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 1426581,
+      "raw_hot": 1504199,
       "num": 850320,
       "word": "施子怡",
       "onboard_time": 1663637965,
@@ -75,14 +91,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 776011,
-      "num": 776011,
-      "word": "南依",
-      "onboard_time": 1663639469,
-      "rank": 4,
-      "category": "网红"
-    },
-    {
       "raw_hot": 770506,
       "num": 770506,
       "word": "当狗狗身上长满了鸭子",
@@ -96,6 +104,14 @@
       "word": "老人连续10个月偷拿鞋店摆货鞋盒",
       "onboard_time": 1663612392,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 717886,
+      "num": 717886,
+      "word": "小伙吃自热锅将发热包与食材同煮",
+      "onboard_time": 1663639289,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -128,6 +144,14 @@
       "word": "牙不齐可能是因为脸小",
       "onboard_time": 1663630402,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 549626,
+      "num": 549626,
+      "word": "河南婚俗改革目标直指零彩礼",
+      "onboard_time": 1663641269,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -171,12 +195,20 @@
       "category": "科技"
     },
     {
-      "raw_hot": 464374,
-      "num": 464374,
-      "word": "知名艺考机构老师被曝诱奸未成年",
-      "onboard_time": 1663639709,
-      "rank": 13,
-      "category": "教育,社会新闻"
+      "raw_hot": 469943,
+      "num": 469943,
+      "word": "看小森林得了森精病",
+      "onboard_time": 1663641206,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 443146,
+      "num": 443146,
+      "word": "你会反复喜欢同一个人吗",
+      "onboard_time": 1663640785,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 438711,
@@ -211,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 403668,
+      "num": 403668,
+      "word": "河南发布国庆放假通知",
+      "onboard_time": 1663639949,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 385972,
       "num": 186442,
       "word": "北电20导演赵韦弦",
@@ -219,8 +259,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 377175,
-      "num": 377175,
+      "raw_hot": 377862,
+      "num": 377862,
       "word": "猫咪开门让扫地机器人下27楼",
       "onboard_time": 1663638267,
       "rank": 16,
@@ -247,6 +287,14 @@
       "num": 330327,
       "word": "洗牙会不会有危害",
       "onboard_time": 1663633948,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 307898,
+      "num": 307898,
+      "word": "吃东西老塞牙可能是牙齿在求救",
+      "onboard_time": 1663641085,
       "rank": 18,
       "category": "社会新闻"
     },
@@ -331,20 +379,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 259284,
-      "num": 259284,
-      "word": "小伙吃自热锅将发热包与食材同煮",
-      "onboard_time": 1663639289,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 258396,
       "num": 258396,
       "word": "姆巴佩因肖像权争议拒绝参加法国队合影",
       "onboard_time": 1663638566,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 256442,
+      "num": 256442,
+      "word": "LPR",
+      "onboard_time": 1663639045,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 250945,
@@ -361,6 +409,14 @@
       "onboard_time": 1663596689,
       "rank": 13,
       "category": "科技"
+    },
+    {
+      "raw_hot": 229402,
+      "num": 229402,
+      "word": "张艺兴新歌面纱预告",
+      "onboard_time": 1663642648,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 227160,
@@ -401,6 +457,14 @@
       "onboard_time": 1663640669,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 215529,
+      "num": 215529,
+      "word": "南京疫情防控",
+      "onboard_time": 1663641687,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215398,
@@ -491,6 +555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 187858,
+      "num": 109270,
+      "word": "孙珍妮西域风写真",
+      "onboard_time": 1663643606,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 187751,
       "num": 187751,
       "word": "底线首播成绩",
@@ -523,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182038,
+      "num": 182038,
+      "word": "如何看待社科院女研究生休学待产",
+      "onboard_time": 1663642947,
+      "rank": 29,
+      "category": "社会议题,教育"
+    },
+    {
       "raw_hot": 181027,
       "num": 181027,
       "word": "新乡各单位原则上居家办公",
@@ -531,11 +611,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 176932,
-      "num": 176932,
-      "word": "河南发布国庆放假通知",
-      "onboard_time": 1663639949,
-      "rank": 34,
+      "raw_hot": 177036,
+      "num": 177036,
+      "word": "天津新增18例本土阳性感染者",
+      "onboard_time": 1663641385,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -547,12 +627,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 168674,
-      "num": 168674,
-      "word": "LPR",
-      "onboard_time": 1663639045,
-      "rank": 35,
-      "category": "财经"
+      "raw_hot": 155128,
+      "num": 155128,
+      "word": "任泽平称苹果灵动岛是伪创新",
+      "onboard_time": 1663643008,
+      "rank": 34,
+      "category": "科技"
     },
     {
       "raw_hot": 152975,
@@ -601,6 +681,14 @@
       "onboard_time": 1663637546,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148512,
+      "num": 148512,
+      "word": "苍兰诀",
+      "onboard_time": 1663642707,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 137961,
@@ -667,14 +755,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 120359,
-      "num": 120359,
-      "word": "你会反复喜欢同一个人吗",
-      "onboard_time": 1663640785,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 118827,
       "num": 118827,
       "word": "恒大归化球员0出场赚千万后回家",
@@ -697,6 +777,22 @@
       "onboard_time": 1663589606,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109623,
+      "num": 109623,
+      "word": "王者荣耀将对部分iPhone开放120帧",
+      "onboard_time": 1663643486,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 109294,
+      "num": 109294,
+      "word": "种牙凭什么这么贵",
+      "onboard_time": 1663642347,
+      "rank": 46,
+      "category": "社会议题"
     },
     {
       "raw_hot": 101969,
