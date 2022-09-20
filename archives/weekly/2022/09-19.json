@@ -1,6 +1,6 @@
 {
   "startTime": 1663518759246,
-  "endTime": 1663631151730,
+  "endTime": 1663640921543,
   "band_list": [
     {
       "raw_hot": 3530440,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1580897,
+      "num": 775645,
+      "word": "中国人民大学 疫情防控",
+      "onboard_time": 1663637125,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1557186,
       "num": 1271907,
       "word": "iPhone14截屏带岛",
@@ -193,6 +201,14 @@
       "onboard_time": 1663561469,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1426581,
+      "num": 850320,
+      "word": "施子怡",
+      "onboard_time": 1663637965,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1418197,
@@ -259,6 +275,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1154752,
+      "num": 553158,
+      "word": "为什么没有男性避孕药",
+      "onboard_time": 1663631247,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1134191,
       "num": 290040,
       "word": "偶遇王一博逛街",
@@ -320,6 +344,14 @@
       "word": "女学生频繁掉发索性剃成光头",
       "onboard_time": 1663572267,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1052098,
+      "num": 1052098,
+      "word": "喝碳酸饮料半小时后再刷牙",
+      "onboard_time": 1663635746,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -457,6 +489,22 @@
       "onboard_time": 1663514613,
       "rank": 20,
       "category": "科技"
+    },
+    {
+      "raw_hot": 776011,
+      "num": 776011,
+      "word": "南依",
+      "onboard_time": 1663639469,
+      "rank": 4,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 770506,
+      "num": 770506,
+      "word": "当狗狗身上长满了鸭子",
+      "onboard_time": 1663633648,
+      "rank": 6,
+      "category": "幽默"
     },
     {
       "raw_hot": 745397,
@@ -611,6 +659,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 612003,
+      "num": 612003,
+      "word": "苹果将修复iPhone14Pro系列摄像头缺陷",
+      "onboard_time": 1663636407,
+      "rank": 7,
+      "category": "科技"
+    },
+    {
       "raw_hot": 601055,
       "num": 310566,
       "word": "客车侧翻致27人遇难20人受伤",
@@ -635,6 +691,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 596732,
+      "num": 596732,
+      "word": "硕士送外卖是基于理性和现实",
+      "onboard_time": 1663636767,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 596647,
       "num": 596647,
       "word": "花莲地震是今年以来我国最大地震",
@@ -657,6 +721,14 @@
       "onboard_time": 1663594106,
       "rank": 17,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 569655,
+      "num": 569655,
+      "word": "牙不齐可能是因为脸小",
+      "onboard_time": 1663630402,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 568848,
@@ -779,6 +851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 476361,
+      "num": 476361,
+      "word": "原来是妈妈主动选择了我",
+      "onboard_time": 1663630946,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 475699,
       "num": 475699,
       "word": "北电2022级表演实验班名单",
@@ -793,6 +873,14 @@
       "onboard_time": 1663591105,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 464374,
+      "num": 464374,
+      "word": "知名艺考机构老师被曝诱奸未成年",
+      "onboard_time": 1663639709,
+      "rank": 13,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 459523,
@@ -824,6 +912,22 @@
       "word": "小米11系列屡曝质量问题遭维权",
       "onboard_time": 1663567167,
       "rank": 29,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 438711,
+      "num": 438711,
+      "word": "墨西哥发生7.7级地震",
+      "onboard_time": 1663634128,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 438225,
+      "num": 438225,
+      "word": "苹果将iPhone14Pro系列出货量提升10%",
+      "onboard_time": 1663637605,
+      "rank": 15,
       "category": "科技"
     },
     {
@@ -979,6 +1083,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 377175,
+      "num": 377175,
+      "word": "猫咪开门让扫地机器人下27楼",
+      "onboard_time": 1663638267,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 376607,
       "num": 376607,
       "word": "iPhone14采用高通卫星芯片",
@@ -1088,6 +1200,14 @@
       "word": "员工故意旷工被开除起诉索赔12万",
       "onboard_time": 1663509811,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 330327,
+      "num": 330327,
+      "word": "洗牙会不会有危害",
+      "onboard_time": 1663633948,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -1291,6 +1411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 284168,
+      "num": 284168,
+      "word": "广州增城一业主出售4套房亏损200万",
+      "onboard_time": 1663637726,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283318,
       "num": 283318,
       "word": "罚罪",
@@ -1353,6 +1481,14 @@
       "onboard_time": 1663568009,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272892,
+      "num": 272892,
+      "word": "什么运动最减脂",
+      "onboard_time": 1663635627,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 271225,
@@ -1419,12 +1555,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 259284,
+      "num": 259284,
+      "word": "小伙吃自热锅将发热包与食材同煮",
+      "onboard_time": 1663639289,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259063,
       "num": 247670,
       "word": "醉驾女司机超速逆行撞死老人获刑2年",
       "onboard_time": 1663575627,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258396,
+      "num": 258396,
+      "word": "姆巴佩因肖像权争议拒绝参加法国队合影",
+      "onboard_time": 1663638566,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 258293,
@@ -1643,6 +1795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 222591,
+      "num": 222591,
+      "word": "Shopee中国宣布裁员",
+      "onboard_time": 1663631967,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221093,
       "num": 221093,
       "word": "嫉妒真的会使人面目全非",
@@ -1673,6 +1833,14 @@
       "onboard_time": 1663587984,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 216756,
+      "num": 216756,
+      "word": "倪妮玫瑰转场大片",
+      "onboard_time": 1663640669,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 212306,
@@ -1755,6 +1923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203245,
+      "num": 203245,
+      "word": "智齿要不要去拔",
+      "onboard_time": 1663639169,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202192,
       "num": 202192,
       "word": "47岁民警抓捕嫌疑人时牺牲",
@@ -1811,6 +1987,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 195270,
+      "num": 195270,
+      "word": "安宥真说啊对对对",
+      "onboard_time": 1663631667,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 193603,
       "num": 193603,
       "word": "悬疑剧能有多带感",
@@ -1843,6 +2027,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 187751,
+      "num": 187751,
+      "word": "底线首播成绩",
+      "onboard_time": 1663636648,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 186627,
       "num": 186627,
       "word": "爱情而已首支片花",
@@ -1867,6 +2059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 182415,
+      "num": 182415,
+      "word": "北京新增8例境外输入确诊",
+      "onboard_time": 1663637844,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181924,
       "num": 181924,
       "word": "成毅说周亦安初心如磐",
@@ -1883,6 +2083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181027,
+      "num": 181027,
+      "word": "新乡各单位原则上居家办公",
+      "onboard_time": 1663633530,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177748,
       "num": 177748,
       "word": "底线全员换证件照",
@@ -1896,6 +2104,14 @@
       "word": "女生每天运动1.5小时9个月瘦45斤",
       "onboard_time": 1663484317,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176932,
+      "num": 176932,
+      "word": "河南发布国庆放假通知",
+      "onboard_time": 1663639949,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -1915,20 +2131,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 175208,
-      "num": 175208,
-      "word": "牙不齐可能是因为脸小",
-      "onboard_time": 1663630402,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 173032,
       "num": 173032,
       "word": "张彬彬原声台词",
       "onboard_time": 1663561111,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 168674,
+      "num": 168674,
+      "word": "LPR",
+      "onboard_time": 1663639045,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 168466,
@@ -2011,6 +2227,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 152975,
+      "num": 152975,
+      "word": "墨西哥三次在9月19日发生大地震",
+      "onboard_time": 1663640307,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152473,
       "num": 152473,
       "word": "当猫咪是个工作狂",
@@ -2073,6 +2297,14 @@
       "onboard_time": 1663606039,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 148717,
+      "num": 148717,
+      "word": "9月19日新增本土无症状525例",
+      "onboard_time": 1663637546,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147660,
@@ -2179,6 +2411,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 135829,
+      "num": 135829,
+      "word": "S12宣传片",
+      "onboard_time": 1663632627,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 134961,
       "num": 134961,
       "word": "我也好想这么潇洒啊",
@@ -2195,12 +2435,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 133847,
+      "num": 133847,
+      "word": "王嘉尔新专辑创B榜中国歌手最高纪录",
+      "onboard_time": 1663637125,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 133073,
       "num": 133073,
       "word": "北京WB",
       "onboard_time": 1663545026,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 131999,
+      "num": 131999,
+      "word": "吵架的时候别坐摇摇椅",
+      "onboard_time": 1663631967,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 131759,
@@ -2291,6 +2547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120359,
+      "num": 120359,
+      "word": "你会反复喜欢同一个人吗",
+      "onboard_time": 1663640785,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 119349,
       "num": 119349,
       "word": "美军在叙非法驻军基地遭导弹袭击",
@@ -2305,6 +2569,14 @@
       "onboard_time": 1663577309,
       "rank": 45,
       "category": "游戏,情感"
+    },
+    {
+      "raw_hot": 115496,
+      "num": 115496,
+      "word": "哪些生活习惯容易导致胰腺癌",
+      "onboard_time": 1663632449,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114358,
@@ -2427,6 +2699,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 101969,
+      "num": 101969,
+      "word": "河南增本土确诊1例无症状7例",
+      "onboard_time": 1663638267,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101020,
       "num": 101020,
       "word": "舞蹈生的运动会",
@@ -2513,14 +2793,6 @@
       "onboard_time": 1663502729,
       "rank": 46,
       "category": "科技"
-    },
-    {
-      "raw_hot": 87135,
-      "num": 87135,
-      "word": "原来是妈妈主动选择了我",
-      "onboard_time": 1663630946,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 86527,
