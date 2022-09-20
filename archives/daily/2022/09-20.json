@@ -1,6 +1,6 @@
 {
   "startTime": 1663605342095,
-  "endTime": 1663655494245,
+  "endTime": 1663659082183,
   "band_list": [
     {
       "raw_hot": 3070153,
@@ -11,8 +11,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 2881425,
-      "num": 2881425,
+      "raw_hot": 2913274,
+      "num": 2913274,
       "word": "龚俊向丰巢快递柜索赔101万",
       "onboard_time": 1663653565,
       "rank": 1,
@@ -25,6 +25,14 @@
       "onboard_time": 1663639709,
       "rank": 13,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1839152,
+      "num": 946671,
+      "word": "丈夫出轨2人赠与千万妻子起诉要回",
+      "onboard_time": 1663653927,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1600552,
@@ -99,19 +107,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1165523,
+      "num": 1165523,
+      "word": "2035年左右中国将进入重度老龄化",
+      "onboard_time": 1663652008,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1125691,
       "num": 1125691,
       "word": "南京女大学生被害案二审维持原判",
       "onboard_time": 1663645409,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1116207,
-      "num": 1116207,
-      "word": "2035年左右中国将进入重度老龄化",
-      "onboard_time": 1663652008,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -139,11 +147,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 946671,
-      "num": 946671,
-      "word": "丈夫出轨2人赠与千万妻子起诉要回",
-      "onboard_time": 1663653927,
-      "rank": 39,
+      "raw_hot": 881123,
+      "num": 881123,
+      "word": "大部分四天工作制试点公司成功了",
+      "onboard_time": 1663654947,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -153,6 +161,14 @@
       "onboard_time": 1663616351,
       "rank": 11,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 817473,
+      "num": 817473,
+      "word": "北电成立专班调查赵韦弦事件",
+      "onboard_time": 1663655847,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 787523,
@@ -193,6 +209,14 @@
       "onboard_time": 1663641269,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 654330,
+      "num": 654330,
+      "word": "大妈做煎饼果子10年技术一言难尽",
+      "onboard_time": 1663653267,
+      "rank": 26,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 638005,
@@ -259,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 553940,
+      "num": 553940,
+      "word": "林峯吴卓羲邀黄宗泽参加哥哥",
+      "onboard_time": 1663657767,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 543940,
       "num": 543940,
       "word": "BLACKPINK新歌舞台造型",
@@ -307,20 +339,20 @@
       "category": "科技"
     },
     {
-      "raw_hot": 472075,
-      "num": 472075,
-      "word": "大妈做煎饼果子10年技术一言难尽",
-      "onboard_time": 1663653267,
-      "rank": 26,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 469943,
       "num": 469943,
       "word": "看小森林得了森精病",
       "onboard_time": 1663641206,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 446373,
+      "num": 446373,
+      "word": "iPhone14系列5G网速提升38%",
+      "onboard_time": 1663657584,
+      "rank": 9,
+      "category": "科技"
     },
     {
       "raw_hot": 446087,
@@ -409,6 +441,14 @@
       "onboard_time": 1663638267,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 376521,
+      "num": 376521,
+      "word": "张桂梅解释为何不给学生办毕业典礼",
+      "onboard_time": 1663655244,
+      "rank": 46,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 362187,
@@ -531,12 +571,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 295883,
+      "num": 295883,
+      "word": "我国与58个国家签署学历学位互认协议",
+      "onboard_time": 1663652844,
+      "rank": 36,
+      "category": "教育,国内要闻"
+    },
+    {
       "raw_hot": 294364,
       "num": 294364,
       "word": "玄孙患病百岁老人含泪捧出一盒子零钱",
       "onboard_time": 1663651828,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289443,
+      "num": 289443,
+      "word": "杨幂郭晓婷狐妖造型梦回雪见花楹",
+      "onboard_time": 1663657767,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 284168,
@@ -552,6 +608,14 @@
       "word": "影路站台杜英哲",
       "onboard_time": 1663613353,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281813,
+      "num": 281813,
+      "word": "义乌密接主动报告奖励5000元",
+      "onboard_time": 1663654828,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -635,6 +699,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 256209,
+      "num": 250002,
+      "word": "刻在四川人DNA里的歌单",
+      "onboard_time": 1663658005,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 254554,
       "num": 254554,
       "word": "女生遭遇性骚扰应该怎么办",
@@ -656,6 +728,14 @@
       "word": "中国城市人口密度榜",
       "onboard_time": 1663650688,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249823,
+      "num": 249823,
+      "word": "1岁宝宝误将樟脑丸当糖果吞下",
+      "onboard_time": 1663656627,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -755,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217046,
+      "num": 217046,
+      "word": "小学生把栓Q写进作文",
+      "onboard_time": 1663656387,
+      "rank": 24,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 216756,
       "num": 216756,
       "word": "倪妮玫瑰转场大片",
@@ -795,12 +883,12 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 212139,
-      "num": 212139,
-      "word": "我国与58个国家签署学历学位互认协议",
-      "onboard_time": 1663652844,
-      "rank": 36,
-      "category": "教育,国内要闻"
+      "raw_hot": 212595,
+      "num": 212595,
+      "word": "三安光电",
+      "onboard_time": 1663655847,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 210427,
@@ -809,6 +897,14 @@
       "onboard_time": 1663602927,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208593,
+      "num": 208593,
+      "word": "成毅应渊周亦安反差感",
+      "onboard_time": 1663656987,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 204636,
@@ -824,6 +920,14 @@
       "word": "武汉疫情防控",
       "onboard_time": 1663652604,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204018,
+      "num": 204018,
+      "word": "南依称一年后会返校投入学习",
+      "onboard_time": 1663658126,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -867,6 +971,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 193653,
+      "num": 184625,
+      "word": "虞书欣晒十宫格plog",
+      "onboard_time": 1663657645,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 190253,
       "num": 138550,
       "word": "陈都灵狐妖小红娘绿衣造型",
@@ -897,6 +1009,14 @@
       "onboard_time": 1663599631,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 186086,
+      "num": 184625,
+      "word": "任嘉伦晒车内侧颜照",
+      "onboard_time": 1663656686,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 185432,
@@ -963,14 +1083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 158860,
-      "num": 158860,
-      "word": "大部分四天工作制试点公司成功了",
-      "onboard_time": 1663654947,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 152975,
       "num": 152975,
       "word": "墨西哥三次在9月19日发生大地震",
@@ -1027,8 +1139,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 141069,
-      "num": 141069,
+      "raw_hot": 144456,
+      "num": 144456,
       "word": "黑龙江新增本土无症状44例",
       "onboard_time": 1663654707,
       "rank": 37,
@@ -1059,10 +1171,10 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 134074,
-      "num": 134074,
-      "word": "义乌密接主动报告奖励5000元",
-      "onboard_time": 1663654828,
+      "raw_hot": 134975,
+      "num": 134975,
+      "word": "拔智齿能够瘦脸吗",
+      "onboard_time": 1663658725,
       "rank": 40,
       "category": "社会新闻"
     },
@@ -1088,6 +1200,14 @@
       "word": "姥姥送的兔子被宰7岁娃崩溃大哭",
       "onboard_time": 1663584147,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129911,
+      "num": 129911,
+      "word": "68岁奶奶忘带钥匙现场挖洞回家",
+      "onboard_time": 1663658426,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -1139,14 +1259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 115461,
-      "num": 115461,
-      "word": "张桂梅解释为何不给学生办毕业典礼",
-      "onboard_time": 1663655244,
-      "rank": 46,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 111518,
       "num": 111518,
       "word": "三只松鼠回应零食里吃出油炸壁虎",
@@ -1161,6 +1273,14 @@
       "onboard_time": 1663642347,
       "rank": 46,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 106643,
+      "num": 106643,
+      "word": "被图层里的世界惊艳了",
+      "onboard_time": 1663656445,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 101969,
@@ -1321,6 +1441,14 @@
       "onboard_time": 1663605680,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 45549,
+      "num": 960645,
+      "word": "丰收的色彩惊艳了秋天",
+      "onboard_time": 1663635331,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 21836,
