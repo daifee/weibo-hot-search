@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/20 18:44:54
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/20 19:21:09
 </p>
 </blockquote>
 <p>
@@ -939,6 +939,12 @@ zzr（热度：2585830）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%BD%93%E5%86%85%E6%8E%92%E5%87%BA4.95%E7%B1%B3%E9%95%BF%E7%BB%A6%E8%99%AB%23" target="weibo">
+女子体内排出4.95米长绦虫（热度：2502396）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E6%AF%85%20%E6%B2%A1%E6%9D%A5%23" target="weibo">
 曾毅 没来（热度：2490683）
 </a>
@@ -1193,12 +1199,6 @@ IU耳朵出问题已长达1年（热度：2277556）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E5%9D%87%E5%8D%9A%E5%A3%AB%E5%A5%B3%E5%84%BF%E5%AD%A6%E4%B8%9A%E5%8E%8B%E5%8A%9B%E5%A4%A7%E8%BD%BB%E7%94%9F%23" target="weibo">
 父母均博士女儿学业压力大轻生（热度：2180169）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%BD%93%E5%86%85%E6%8E%92%E5%87%BA4.95%E7%B1%B3%E9%95%BF%E7%BB%A6%E8%99%AB%23" target="weibo">
-女子体内排出4.95米长绦虫（热度：2173368）
 </a>
 </li>
 
@@ -2313,6 +2313,12 @@ iPhone14ProMax电池容量不增反降（热度：1588541）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%20%E9%9F%A9%E7%83%A8%E5%A4%AA%E5%AD%90%23" target="weibo">
+龚俊 韩烨太子（热度：1586852）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E5%8F%91%E7%8E%B0%E5%A4%9A%E7%AE%A1%E7%A4%BE%E4%BC%9A%E9%9D%A2%E6%A0%B8%E9%85%B8%E6%A0%B7%E6%9C%AC%E5%BC%82%E5%B8%B8%23" target="weibo">
 天津发现多管社会面核酸样本异常（热度：1584259）
 </a>
@@ -2963,6 +2969,12 @@ B站二季度净亏损20亿（热度：1413487）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%B5%E9%98%B3%E4%B8%80%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E5%BC%80%E5%85%AC%E8%BD%A6%E7%BB%99%E6%9C%8B%E5%8F%8B%E9%80%81%E8%8F%9C%23" target="weibo">
 贵阳一公职人员开公车给朋友送菜（热度：1382678）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A4%BE%E7%A7%91%E9%99%A2%E5%A5%B3%E7%A0%94%E7%A9%B6%E7%94%9F%E5%9B%9E%E5%BA%94%E6%80%80%E5%AD%95%E4%BC%91%E5%AD%A6%E5%BE%85%E4%BA%A7%23" target="weibo">
+社科院女研究生回应怀孕休学待产（热度：1381864）
 </a>
 </li>
 
@@ -3639,6 +3651,12 @@ Twins不承认吴谨言的粤语是自己教的（热度：1255504）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E9%9D%A2%E7%A6%81%E5%94%AE%E6%A7%9F%E6%A6%94%E8%AF%A5%E4%B8%8B%E5%86%B3%E5%BF%83%E4%BA%86%23" target="weibo">
+全面禁售槟榔该下决心了（热度：1235043）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%8B%E7%93%B7%E7%82%AB%E6%96%B0%E5%89%A7%E5%BC%80%E6%92%AD%E5%B0%B1%E4%B8%8B%E7%BA%BF%23" target="weibo">
 秋瓷炫新剧开播就下线（热度：1233195）
 </a>
@@ -4221,6 +4239,12 @@ iPhone14Pro被吐槽后盖不耐划（热度：1123869）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E8%B1%A1%E6%A3%8B%E6%AF%94%E8%B5%9B%E7%96%91%E7%94%A8%E6%99%BA%E8%83%BD%E8%82%9B%E7%8F%A0%E4%BD%9C%E5%BC%8A%23" target="weibo">
+国际象棋比赛疑用智能肛珠作弊（热度：1115594）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E6%8D%90%E9%AA%A8%E9%AB%93%E5%85%AC%E5%8F%B8%E5%B0%86%E4%BA%8B%E5%81%87%E5%8F%982%E5%91%A8%E5%B8%A6%E8%96%AA%E5%81%87%23" target="weibo">
 小伙捐骨髓公司将事假变2周带薪假（热度：1115571）
 </a>
@@ -4769,12 +4793,6 @@ IU演唱会上的草莓月亮（热度：1037515）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%9B%B4%E6%92%AD%23" target="weibo">
 王鹤棣直播（热度：1034717）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A4%BE%E7%A7%91%E9%99%A2%E5%A5%B3%E7%A0%94%E7%A9%B6%E7%94%9F%E5%9B%9E%E5%BA%94%E6%80%80%E5%AD%95%E4%BC%91%E5%AD%A6%E5%BE%85%E4%BA%A7%23" target="weibo">
-社科院女研究生回应怀孕休学待产（热度：1032894）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ iPhone14系列没涨价（热度：892829）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%A7%E8%BD%A6%E9%AB%98%E9%80%9F%E6%95%A3%E8%90%BD6000%E9%A2%97%E9%92%89%E5%AD%9030%E8%BE%86%E8%BD%A6%E8%A2%AB%E6%89%8E%23" target="weibo">
 货车高速散落6000颗钉子30辆车被扎（热度：886862）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E5%B8%81%E4%B8%89%E5%B9%B4%E4%B8%89%E6%AC%A1%E7%A0%B47%23" target="weibo">
-人民币三年三次破7（热度：886143）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%91%E8%AF%9D%E5%BE%8B%E5%B8%88%E7%83%82%E5%B0%BE%23" target="weibo">
-黑话律师烂尾（热度：885407）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%88%90%E6%AF%85%E6%96%B0%E5%89%A7%E5%90%BB11%E6%AC%A1%E8%99%9011%E6%AC%A1%23" target="weibo">
-杨紫成毅新剧吻11次虐11次（热度：885288）
 </a>
 </li>
 
