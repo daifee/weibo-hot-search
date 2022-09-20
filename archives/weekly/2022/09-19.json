@@ -1,6 +1,6 @@
 {
   "startTime": 1663518759246,
-  "endTime": 1663695037992,
+  "endTime": 1663696054376,
   "band_list": [
     {
       "raw_hot": 6029244,
@@ -3243,6 +3243,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 191157,
+      "num": 191157,
+      "word": "河南一大学招聘洗刷工限30岁以下",
+      "onboard_time": 1663692921,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189104,
       "num": 172053,
       "word": "李沁请君演的云羲好美",
@@ -3385,14 +3393,6 @@
       "onboard_time": 1663675292,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 179250,
-      "num": 171100,
-      "word": "河南一大学招聘洗刷工限30岁以下",
-      "onboard_time": 1663692921,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 178259,
@@ -3657,6 +3657,14 @@
       "onboard_time": 1663573286,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 150757,
+      "num": 134125,
+      "word": "浙江每6人中有1个念过大学",
+      "onboard_time": 1663692261,
+      "rank": 44,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 149385,
@@ -3929,14 +3937,6 @@
       "onboard_time": 1663545026,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 132439,
-      "num": 132439,
-      "word": "浙江每6人中有1个念过大学",
-      "onboard_time": 1663692261,
-      "rank": 44,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 132287,
@@ -4235,6 +4235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101686,
+      "num": 101686,
+      "word": "暗恋一个人最苦涩的是什么",
+      "onboard_time": 1663693160,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 101020,
       "num": 101020,
       "word": "舞蹈生的运动会",
@@ -4329,14 +4337,6 @@
       "onboard_time": 1663491449,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 90770,
-      "num": 90770,
-      "word": "暗恋一个人最苦涩的是什么",
-      "onboard_time": 1663693160,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 89149,

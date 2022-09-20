@@ -1,6 +1,6 @@
 {
   "startTime": 1663691674200,
-  "endTime": 1663695037992,
+  "endTime": 1663696054376,
   "band_list": [
     {
       "raw_hot": 973946,
@@ -219,20 +219,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191157,
+      "num": 191157,
+      "word": "河南一大学招聘洗刷工限30岁以下",
+      "onboard_time": 1663692921,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184012,
       "num": 184012,
       "word": "槟榔近千亿产业或被按下暂停键",
       "onboard_time": 1663671030,
       "rank": 26,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 179250,
-      "num": 171100,
-      "word": "河南一大学招聘洗刷工限30岁以下",
-      "onboard_time": 1663692921,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 170078,
@@ -265,6 +265,14 @@
       "onboard_time": 1663665807,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150757,
+      "num": 134125,
+      "word": "浙江每6人中有1个念过大学",
+      "onboard_time": 1663692261,
+      "rank": 44,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 149314,
@@ -315,14 +323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132439,
-      "num": 132439,
-      "word": "浙江每6人中有1个念过大学",
-      "onboard_time": 1663692261,
-      "rank": 44,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 123168,
       "num": 123168,
       "word": "首部中西结合末日题材小说漫画化",
@@ -371,19 +371,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 101686,
+      "num": 101686,
+      "word": "暗恋一个人最苦涩的是什么",
+      "onboard_time": 1663693160,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 95559,
       "num": 95559,
       "word": "共情能力太强不适合学医",
       "onboard_time": 1663671750,
       "rank": 44,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 90770,
-      "num": 90770,
-      "word": "暗恋一个人最苦涩的是什么",
-      "onboard_time": 1663693160,
-      "rank": 24,
       "category": "情感"
     },
     {
@@ -435,12 +435,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28101,
-      "num": 28101,
+      "raw_hot": 28510,
+      "num": 28510,
       "word": "遂宁疫情防控",
       "onboard_time": 1663675593,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27823,
+      "num": 27823,
+      "word": "阴阳师",
+      "onboard_time": 1663683756,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 10187,
