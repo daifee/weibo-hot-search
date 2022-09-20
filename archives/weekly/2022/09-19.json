@@ -1,6 +1,6 @@
 {
   "startTime": 1663518759246,
-  "endTime": 1663708955508,
+  "endTime": 1663710045631,
   "band_list": [
     {
       "raw_hot": 6029244,
@@ -3788,7 +3788,7 @@
     },
     {
       "raw_hot": 144331,
-      "num": 75838,
+      "num": 88348,
       "word": "我国贷款利率约为4%至5%",
       "onboard_time": 1663696215,
       "rank": 21,
@@ -4379,20 +4379,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 85735,
+      "num": 42010,
+      "word": "女子取消顺风车后被司机辱骂",
+      "onboard_time": 1663704491,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81471,
       "num": 81471,
       "word": "借个东西可太难了",
       "onboard_time": 1663513892,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 78296,
-      "num": 34307,
-      "word": "女子取消顺风车后被司机辱骂",
-      "onboard_time": 1663704491,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 77618,
@@ -4515,6 +4515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39826,
+      "num": 39826,
+      "word": "孙海洋女儿出书记录父亲寻子14年",
+      "onboard_time": 1663707430,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36864,
       "num": 36864,
       "word": "电影妈妈票房破5000万",
@@ -4547,6 +4555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28966,
+      "num": 28966,
+      "word": "女子帮卖棉花糖满天飞变白发魔女",
+      "onboard_time": 1663703589,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21836,
       "num": 21836,
       "word": "情绪被这些BGM操控了",
@@ -4571,14 +4587,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 19844,
-      "num": 18851,
-      "word": "女子帮卖棉花糖满天飞变白发魔女",
-      "onboard_time": 1663703589,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 18203,
       "num": 18203,
       "word": "天花板级别的军训汇演",
@@ -4587,20 +4595,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 16579,
+      "num": 16579,
+      "word": "当代女性值得更多保护",
+      "onboard_time": 1663709171,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 15644,
       "num": 15644,
       "word": "狐妖小红娘的服化道",
       "onboard_time": 1663598852,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 14417,
-      "num": 14417,
-      "word": "孙海洋女儿出书记录父亲寻子14年",
-      "onboard_time": 1663707430,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13142,
@@ -4619,11 +4627,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 11537,
+      "num": 11537,
+      "word": "赵露思陈哲远最新同框路透",
+      "onboard_time": 1663709591,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 11509,
       "num": 2236696,
       "word": "英雄回家",
       "onboard_time": 1663384585,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9834,
+      "num": 9834,
+      "word": "59岁大爷沉迷游乐场办年卡玩过山车",
+      "onboard_time": 1663709711,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
