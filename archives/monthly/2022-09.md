@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/20 18:27:50
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/20 18:44:54
 </p>
 </blockquote>
 <p>
@@ -1197,6 +1197,12 @@ IU耳朵出问题已长达1年（热度：2277556）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%BD%93%E5%86%85%E6%8E%92%E5%87%BA4.95%E7%B1%B3%E9%95%BF%E7%BB%A6%E8%99%AB%23" target="weibo">
+女子体内排出4.95米长绦虫（热度：2173368）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%AE%B6%E9%95%BF%E6%8B%92%E7%BB%9D%E9%80%81%E7%A4%BC%E8%A2%AB%E9%80%BC%E9%80%80%E7%BE%A4%23" target="weibo">
 教育局回应家长拒绝送礼被逼退群（热度：2155388）
 </a>
@@ -1715,6 +1721,12 @@ iPhone14Pro叹号孔可显示为药丸形（热度：1885662）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone14Pro%E7%81%B5%E5%8A%A8%E5%B2%9B%23" target="weibo">
 iPhone14Pro灵动岛（热度：1842563）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E6%AD%A3%E5%BC%8F%E5%BB%BA%E7%BB%84%23" target="weibo">
+2023年央视春晚正式建组（热度：1840974）
 </a>
 </li>
 
@@ -2519,12 +2531,6 @@ iPhone14颜色（热度：1547377）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D1%E5%B0%8F%E6%97%B6%E5%86%85%E8%BF%9E%E5%8F%917%E6%AC%A1%E5%9C%B0%E9%9C%87%23" target="weibo">
 四川1小时内连发7次地震（热度：1522421）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%BD%93%E5%86%85%E6%8E%92%E5%87%BA4.95%E7%B1%B3%E9%95%BF%E7%BB%A6%E8%99%AB%23" target="weibo">
-女子体内排出4.95米长绦虫（热度：1520672）
 </a>
 </li>
 
@@ -3491,12 +3497,6 @@ iPhone13官网降价销售（热度：1271944）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%B8%B9%E4%B8%B9%E5%84%BF%E5%AA%B3%E6%83%85%E5%95%86%23" target="weibo">
 宋丹丹儿媳情商（热度：1271006）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E6%AD%A3%E5%BC%8F%E5%BB%BA%E7%BB%84%23" target="weibo">
-2023年央视春晚正式建组（热度：1270152）
 </a>
 </li>
 
@@ -4773,6 +4773,12 @@ IU演唱会上的草莓月亮（热度：1037515）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A4%BE%E7%A7%91%E9%99%A2%E5%A5%B3%E7%A0%94%E7%A9%B6%E7%94%9F%E5%9B%9E%E5%BA%94%E6%80%80%E5%AD%95%E4%BC%91%E5%AD%A6%E5%BE%85%E4%BA%A7%23" target="weibo">
+社科院女研究生回应怀孕休学待产（热度：1032894）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E4%B8%8A%E7%A9%BA%E7%8E%B0%E5%A4%A7%E7%89%87%E4%B8%83%E5%BD%A9%E4%BA%91%23" target="weibo">
 成都上空现大片七彩云（热度：1031823）
 </a>
@@ -5081,12 +5087,6 @@ BLACKPINK新歌未通过KBS审议（热度：999636）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%B7%B1%E5%A4%9C%E6%8C%81%E5%88%80%E7%8B%82%E7%A0%8D%E9%82%BB%E5%B1%85%E5%AE%B6%E9%97%A83%E5%88%86%E9%92%9F%23" target="weibo">
 男子深夜持刀狂砍邻居家门3分钟（热度：992497）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A4%BE%E7%A7%91%E9%99%A2%E5%A5%B3%E7%A0%94%E7%A9%B6%E7%94%9F%E5%9B%9E%E5%BA%94%E6%80%80%E5%AD%95%E4%BC%91%E5%AD%A6%E5%BE%85%E4%BA%A7%23" target="weibo">
-社科院女研究生回应怀孕休学待产（热度：992484）
 </a>
 </li>
 
@@ -5721,6 +5721,12 @@ LPL三号种子EDG（热度：926061）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%A7%B0%E5%83%8F%E5%9D%90%E7%89%A23%E5%B0%8F%E6%97%B6%E5%90%8E%E6%88%90%E7%9C%9F%23" target="weibo">
+男子朋友圈称像坐牢3小时后成真（热度：916683）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A9%B4%E5%84%BF%E6%9C%8D%E8%A3%85%E7%A4%BC%E7%9B%92%E6%8B%86%E5%87%BA40%E5%A4%9A%E6%A0%B9%E9%92%88%23" target="weibo">
 婴儿服装礼盒拆出40多根针（热度：916088）
 </a>
@@ -5783,12 +5789,6 @@ iPhone14ProMax史上最重iPhone（热度：914474）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8E%8E%E6%97%BB%E5%AD%90%E6%96%87%E7%A7%91%E7%94%9F%E7%9A%84%E9%AB%98%E5%85%89%E6%97%B6%E5%88%BB%23" target="weibo">
 李莎旻子文科生的高光时刻（热度：909206）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%A7%B0%E5%83%8F%E5%9D%90%E7%89%A23%E5%B0%8F%E6%97%B6%E5%90%8E%E6%88%90%E7%9C%9F%23" target="weibo">
-男子朋友圈称像坐牢3小时后成真（热度：908155）
 </a>
 </li>
 

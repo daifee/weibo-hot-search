@@ -1,6 +1,6 @@
 {
   "startTime": 1663605342095,
-  "endTime": 1663669670803,
+  "endTime": 1663670694611,
   "band_list": [
     {
       "raw_hot": 3070153,
@@ -33,6 +33,22 @@
       "onboard_time": 1663639709,
       "rank": 13,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 2173368,
+      "num": 1143954,
+      "word": "女子体内排出4.95米长绦虫",
+      "onboard_time": 1663667967,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1840974,
+      "num": 1840974,
+      "word": "2023年央视春晚正式建组",
+      "onboard_time": 1663666588,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 1839152,
@@ -83,14 +99,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1520672,
-      "num": 1143954,
-      "word": "女子体内排出4.95米长绦虫",
-      "onboard_time": 1663667967,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1515431,
       "num": 539613,
       "word": "任命张翰为黄晓明负责油腻工作",
@@ -129,14 +137,6 @@
       "onboard_time": 1663648832,
       "rank": 20,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 1270152,
-      "num": 1270152,
-      "word": "2023年央视春晚正式建组",
-      "onboard_time": 1663666588,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 1224387,
@@ -179,20 +179,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1032894,
+      "num": 1032894,
+      "word": "社科院女研究生回应怀孕休学待产",
+      "onboard_time": 1663663289,
+      "rank": 35,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 992671,
       "num": 650498,
       "word": "IU耳朵出问题已长达1年",
       "onboard_time": 1663598371,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 992484,
-      "num": 992484,
-      "word": "社科院女研究生回应怀孕休学待产",
-      "onboard_time": 1663663289,
-      "rank": 35,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 955773,
@@ -203,8 +203,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 908155,
-      "num": 908155,
+      "raw_hot": 916683,
+      "num": 916683,
       "word": "男子朋友圈称像坐牢3小时后成真",
       "onboard_time": 1663663650,
       "rank": 39,
@@ -379,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 557697,
+      "num": 521124,
+      "word": "人民文娱评苍兰诀走出国门",
+      "onboard_time": 1663667907,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 553940,
       "num": 553940,
       "word": "林峯吴卓羲邀黄宗泽参加哥哥",
@@ -393,14 +401,6 @@
       "onboard_time": 1663649132,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 521124,
-      "num": 521124,
-      "word": "人民文娱评苍兰诀走出国门",
-      "onboard_time": 1663667907,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 515917,
@@ -483,6 +483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 444243,
+      "num": 444243,
+      "word": "95生颜值天花板",
+      "onboard_time": 1663665807,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 443263,
       "num": 443263,
       "word": "小伙打游戏太猛主机突然冒火花",
@@ -531,6 +539,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 405835,
+      "num": 405835,
+      "word": "杜英哲",
+      "onboard_time": 1663667608,
+      "rank": 13,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 403668,
       "num": 403668,
       "word": "河南发布国庆放假通知",
@@ -545,14 +561,6 @@
       "onboard_time": 1663589428,
       "rank": 30,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 382959,
-      "num": 382959,
-      "word": "杜英哲",
-      "onboard_time": 1663667608,
-      "rank": 13,
-      "category": "社会负面"
     },
     {
       "raw_hot": 382925,
@@ -667,19 +675,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 334016,
-      "num": 334016,
-      "word": "95生颜值天花板",
-      "onboard_time": 1663665807,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 330327,
       "num": 330327,
       "word": "洗牙会不会有危害",
       "onboard_time": 1663633948,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 326374,
+      "num": 326374,
+      "word": "国际象棋比赛疑用智能肛珠作弊",
+      "onboard_time": 1663669587,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -755,6 +763,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 297951,
+      "num": 297951,
+      "word": "百万奢侈品在快递点浸水损毁",
+      "onboard_time": 1663667548,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295883,
       "num": 295883,
       "word": "我国与58个国家签署学历学位互认协议",
@@ -809,6 +825,14 @@
       "onboard_time": 1663645647,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 280577,
+      "num": 280577,
+      "word": "苹果是牙口的试金石",
+      "onboard_time": 1663666708,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 278701,
@@ -867,6 +891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 264420,
+      "num": 264420,
+      "word": "女研究生休学待产为何引来爹味说教",
+      "onboard_time": 1663669770,
+      "rank": 22,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 262502,
       "num": 77848,
       "word": "邢菲趋势封面大片",
@@ -921,6 +953,14 @@
       "onboard_time": 1663658005,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 255328,
+      "num": 255328,
+      "word": "虞美人头像",
+      "onboard_time": 1663667728,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 254554,
@@ -979,14 +1019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 238030,
-      "num": 238030,
-      "word": "虞美人头像",
-      "onboard_time": 1663667728,
-      "rank": 21,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 236683,
       "num": 236683,
       "word": "三安光电",
@@ -1001,14 +1033,6 @@
       "onboard_time": 1663650507,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 234877,
-      "num": 234877,
-      "word": "苹果是牙口的试金石",
-      "onboard_time": 1663666708,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 233540,
@@ -1299,10 +1323,18 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173448,
-      "num": 173448,
-      "word": "百万奢侈品在快递点浸水损毁",
-      "onboard_time": 1663667548,
+      "raw_hot": 175948,
+      "num": 175948,
+      "word": "电视剧底线",
+      "onboard_time": 1663600710,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 175901,
+      "num": 175901,
+      "word": "全面禁售槟榔该下决心了",
+      "onboard_time": 1663670187,
       "rank": 29,
       "category": "社会新闻"
     },
@@ -1344,14 +1376,6 @@
       "word": "南京被害女大学生家属回应二审维持原判",
       "onboard_time": 1663651646,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153965,
-      "num": 153965,
-      "word": "国际象棋比赛疑用智能肛珠作弊",
-      "onboard_time": 1663669587,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1523,6 +1547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130218,
+      "num": 130218,
+      "word": "好吃又大碗的平价早餐酸奶",
+      "onboard_time": 1663669289,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 129726,
       "num": 115329,
       "word": "任嘉伦被摸美人骨梦回周生辰",
@@ -1609,14 +1641,6 @@
       "onboard_time": 1663638267,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 100180,
-      "num": 100180,
-      "word": "好吃又大碗的平价早餐酸奶",
-      "onboard_time": 1663669289,
-      "rank": 45,
-      "category": "美食"
     },
     {
       "raw_hot": 97731,
@@ -1723,6 +1747,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 74237,
+      "num": 74237,
+      "word": "老人拿破烂纸板鞋向店主换盐被拒",
+      "onboard_time": 1663670611,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69305,
       "num": 69305,
       "word": "你真的会正确刷牙吗",
@@ -1761,14 +1793,6 @@
       "onboard_time": 1663598609,
       "rank": 48,
       "category": "动漫,游戏"
-    },
-    {
-      "raw_hot": 49776,
-      "num": 49776,
-      "word": "电视剧底线",
-      "onboard_time": 1663600710,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 47151,
