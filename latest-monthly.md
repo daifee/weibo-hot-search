@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/21 06:45:05
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/21 07:27:51
 </p>
 </blockquote>
 <p>
@@ -3729,6 +3729,12 @@ Twins不承认吴谨言的粤语是自己教的（热度：1255504）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E6%89%B9%E6%98%8E%E6%98%9F%E5%B8%A6%E5%A8%83%E7%B1%BB%E7%BB%BC%E8%89%BA%23" target="weibo">
+张雪峰批明星带娃类综艺（热度：1226849）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%A2%96%E6%96%B0%E5%89%A7%E4%B9%9D%E5%B0%BE%E7%8B%90%E9%80%A0%E5%9E%8B%23" target="weibo">
 杨颖新剧九尾狐造型（热度：1224387）
 </a>
@@ -5477,12 +5483,6 @@ Light哭了（热度：949347）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%BE%B7%E4%BC%9F%E7%AC%AC%E5%85%AB%E5%8F%B7%E5%BD%93%E9%93%BA%E9%80%A0%E5%9E%8B%23" target="weibo">
 杜德伟第八号当铺造型（热度：948976）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E6%89%B9%E6%98%8E%E6%98%9F%E5%B8%A6%E5%A8%83%E7%B1%BB%E7%BB%BC%E8%89%BA%23" target="weibo">
-张雪峰批明星带娃类综艺（热度：948801）
 </a>
 </li>
 

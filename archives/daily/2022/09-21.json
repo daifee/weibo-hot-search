@@ -1,7 +1,15 @@
 {
   "startTime": 1663691674200,
-  "endTime": 1663713905071,
+  "endTime": 1663716471927,
   "band_list": [
+    {
+      "raw_hot": 1226849,
+      "num": 1226849,
+      "word": "张雪峰批明星带娃类综艺",
+      "onboard_time": 1663690288,
+      "rank": 16,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 973946,
       "num": 973946,
@@ -9,14 +17,6 @@
       "onboard_time": 1663663289,
       "rank": 0,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 948801,
-      "num": 948801,
-      "word": "张雪峰批明星带娃类综艺",
-      "onboard_time": 1663690288,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 898247,
@@ -67,11 +67,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 588230,
+      "num": 588230,
+      "word": "我国贷款利率约为4%至5%",
+      "onboard_time": 1663696215,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 587306,
       "num": 587306,
       "word": "中国人民大学核酸异常学生复核阴性",
       "onboard_time": 1663688488,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 524976,
+      "num": 524976,
+      "word": "2022国庆节放假调休安排",
+      "onboard_time": 1663714279,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -83,11 +99,27 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 511103,
+      "num": 511103,
+      "word": "孙海洋女儿出书记录父亲寻子14年",
+      "onboard_time": 1663707430,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 501864,
       "num": 396594,
       "word": "陈昕",
       "onboard_time": 1663688789,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 483008,
+      "num": 483008,
+      "word": "女子取消顺风车后被司机辱骂",
+      "onboard_time": 1663704491,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -115,6 +147,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 381435,
+      "num": 381435,
+      "word": "59岁大爷沉迷游乐场办年卡玩过山车",
+      "onboard_time": 1663709711,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 352468,
       "num": 352468,
       "word": "昆仑神宫",
@@ -123,28 +163,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 345222,
-      "num": 345222,
-      "word": "我国贷款利率约为4%至5%",
-      "onboard_time": 1663696215,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 331831,
       "num": 331831,
       "word": "国际象棋比赛疑用智能肛珠作弊",
       "onboard_time": 1663669587,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 319152,
-      "num": 319152,
-      "word": "孙海洋女儿出书记录父亲寻子14年",
-      "onboard_time": 1663707430,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 305249,
@@ -163,8 +187,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 278927,
-      "num": 278927,
+      "raw_hot": 283149,
+      "num": 283149,
       "word": "游客爬完黄山下楼梯似丧尸集体出动",
       "onboard_time": 1663671150,
       "rank": 17,
@@ -195,12 +219,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 266695,
+      "num": 266695,
+      "word": "吴世勋街头男战士舞台",
+      "onboard_time": 1663716203,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261467,
       "num": 261467,
       "word": "和室友的差距实在太大了",
       "onboard_time": 1663688130,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 256979,
+      "num": 256979,
+      "word": "河南一大学招聘洗刷工限30岁以下",
+      "onboard_time": 1663692921,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 237267,
@@ -219,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219545,
+      "num": 219545,
+      "word": "RTX4090",
+      "onboard_time": 1663715661,
+      "rank": 16,
+      "category": "科技"
+    },
+    {
       "raw_hot": 216701,
       "num": 216701,
       "word": "执业医师",
@@ -227,12 +275,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 209509,
-      "num": 209509,
-      "word": "女子取消顺风车后被司机辱骂",
-      "onboard_time": 1663704491,
-      "rank": 47,
+      "raw_hot": 213663,
+      "num": 213663,
+      "word": "一群孩子捡到4岁男童交给警察叔叔",
+      "onboard_time": 1663701673,
+      "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212516,
+      "num": 212516,
+      "word": "浙江每6人中有1个念过大学",
+      "onboard_time": 1663692261,
+      "rank": 44,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 204601,
@@ -243,20 +299,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 191157,
-      "num": 191157,
-      "word": "河南一大学招聘洗刷工限30岁以下",
-      "onboard_time": 1663692921,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 195198,
+      "num": 195198,
+      "word": "请君在播剧最高分",
+      "onboard_time": 1663696274,
+      "rank": 25,
+      "category": "影视"
     },
     {
-      "raw_hot": 190434,
-      "num": 190434,
-      "word": "59岁大爷沉迷游乐场办年卡玩过山车",
-      "onboard_time": 1663709711,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 187144,
+      "num": 187144,
+      "word": "王毅强调当务之急是妥善管控台湾问题",
+      "onboard_time": 1663715001,
+      "rank": 22,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 184012,
@@ -265,6 +321,14 @@
       "onboard_time": 1663671030,
       "rank": 26,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 176849,
+      "num": 176849,
+      "word": "女子帮卖棉花糖满天飞变白发魔女",
+      "onboard_time": 1663703589,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170078,
@@ -299,14 +363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 150757,
-      "num": 134125,
-      "word": "浙江每6人中有1个念过大学",
-      "onboard_time": 1663692261,
-      "rank": 44,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 149314,
       "num": 149314,
       "word": "猫猫是怎么表达肚子疼的",
@@ -332,7 +388,7 @@
     },
     {
       "raw_hot": 139201,
-      "num": 102052,
+      "num": 115077,
       "word": "刘宇宁直播",
       "onboard_time": 1663687951,
       "rank": 40,
@@ -379,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120099,
+      "num": 120099,
+      "word": "李沁新剧手势跟沈腾学的吧",
+      "onboard_time": 1663701011,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 114566,
       "num": 100345,
       "word": "罚罪",
@@ -411,28 +475,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 97708,
-      "num": 75054,
-      "word": "一群孩子捡到4岁男童交给警察叔叔",
-      "onboard_time": 1663701673,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 95559,
       "num": 95559,
       "word": "共情能力太强不适合学医",
       "onboard_time": 1663671750,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 90918,
-      "num": 90918,
-      "word": "女子帮卖棉花糖满天飞变白发魔女",
-      "onboard_time": 1663703589,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 90062,
@@ -443,12 +491,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 86075,
-      "num": 86075,
-      "word": "请君在播剧最高分",
-      "onboard_time": 1663696274,
-      "rank": 25,
-      "category": "影视"
+      "raw_hot": 85869,
+      "num": 85869,
+      "word": "请各位帅哥正确用脸",
+      "onboard_time": 1663697594,
+      "rank": 17,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 84713,
@@ -457,6 +505,14 @@
       "onboard_time": 1663683756,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 81249,
+      "num": 81249,
+      "word": "显卡",
+      "onboard_time": 1663715723,
+      "rank": 39,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 77005,
@@ -475,12 +531,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 66428,
-      "num": 62251,
-      "word": "请各位帅哥正确用脸",
-      "onboard_time": 1663697594,
-      "rank": 17,
-      "category": "幽默,艺人"
+      "raw_hot": 68913,
+      "num": 68913,
+      "word": "RTX4080",
+      "onboard_time": 1663716384,
+      "rank": 44,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 67120,
+      "num": 67120,
+      "word": "英雄联盟",
+      "onboard_time": 1663716203,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 60440,
@@ -488,14 +552,6 @@
       "word": "赵露思首部上星剧",
       "onboard_time": 1663663948,
       "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 57559,
-      "num": 57559,
-      "word": "李沁新剧手势跟沈腾学的吧",
-      "onboard_time": 1663701011,
-      "rank": 9,
       "category": "影视"
     },
     {
@@ -539,20 +595,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 17272,
+      "num": 842738,
+      "word": "丰收的色彩惊艳了秋天",
+      "onboard_time": 1663635331,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 11537,
       "num": 11537,
       "word": "赵露思陈哲远最新同框路透",
       "onboard_time": 1663709591,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 10187,
-      "num": 842738,
-      "word": "丰收的色彩惊艳了秋天",
-      "onboard_time": 1663635331,
-      "rank": 2,
-      "category": "国内要闻"
     }
   ],
   "hotgov_list": [
