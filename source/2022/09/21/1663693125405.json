@@ -1,0 +1,410 @@
+{
+  "runTime": 1663693125405,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 898247,
+        "num": 898247,
+        "word": "受害者称杜英哲妻子是帮凶",
+        "onboard_time": 1663687471,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 726706,
+        "num": 726706,
+        "word": "张雪峰批明星带娃类综艺",
+        "onboard_time": 1663690288,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7333,
+        "num": 641914,
+        "word": "丰收的色彩惊艳了秋天",
+        "onboard_time": 1663635331,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 633741,
+        "num": 633741,
+        "word": "女子体内排出4.95米长绦虫",
+        "onboard_time": 1663667967,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 618626,
+        "num": 618626,
+        "word": "社科院女研究生回应怀孕休学待产",
+        "onboard_time": 1663663289,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 584165,
+        "num": 584165,
+        "word": "胡歌是被演员事业耽误的歌手吧",
+        "onboard_time": 1663688189,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 482270,
+        "num": 482270,
+        "word": "张远 勇气",
+        "onboard_time": 1663688309,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 479730,
+        "num": 479730,
+        "word": "中国人民大学核酸异常学生复核阴性",
+        "onboard_time": 1663688488,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434818,
+        "num": 434818,
+        "word": "北京一男子酒后称后悔结婚",
+        "onboard_time": 1663684831,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282166,
+        "num": 282166,
+        "word": "为什么不建议你劝别人分手",
+        "onboard_time": 1663678891,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 425078,
+        "num": 281691,
+        "word": "陈昕",
+        "onboard_time": 1663688789,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363440,
+        "num": 281679,
+        "word": "徐海乔郭晓婷杂志大片",
+        "onboard_time": 1663689988,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 280468,
+        "num": 280468,
+        "word": "年上原来这么好嗑",
+        "onboard_time": 1663689568,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 256427,
+        "num": 256427,
+        "word": "用了卸妆油还要用洗面奶吗",
+        "onboard_time": 1663687591,
+        "rank": 13,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 251292,
+        "num": 251292,
+        "word": "思文",
+        "onboard_time": 1663691006,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239868,
+        "num": 239868,
+        "word": "昆仑神宫",
+        "onboard_time": 1663677449,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227331,
+        "num": 227331,
+        "word": "和室友的差距实在太大了",
+        "onboard_time": 1663688130,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197897,
+        "num": 197897,
+        "word": "国际象棋比赛疑用智能肛珠作弊",
+        "onboard_time": 1663669587,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189358,
+        "num": 189358,
+        "word": "女研究生休学待产为何引来爹味说教",
+        "onboard_time": 1663669770,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 186528,
+        "num": 186528,
+        "word": "游客爬完黄山下楼梯似丧尸集体出动",
+        "onboard_time": 1663671150,
+        "rank": 19,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 468443,
+        "num": 181679,
+        "word": "翰了汗了",
+        "onboard_time": 1663681595,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 397040,
+        "num": 177021,
+        "word": "谁能顶得住张翰",
+        "onboard_time": 1663672772,
+        "rank": 21,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 203994,
+        "num": 175154,
+        "word": "庞博接梗",
+        "onboard_time": 1663688909,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164354,
+        "num": 164354,
+        "word": "原来00后都在偷偷养生",
+        "onboard_time": 1663686989,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155867,
+        "num": 155867,
+        "word": "执业医师",
+        "onboard_time": 1663686753,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 148411,
+        "num": 148411,
+        "word": "反思房思琪式悲剧",
+        "onboard_time": 1663683633,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127086,
+        "num": 127086,
+        "word": "主人被自家宠物狗严重咬伤",
+        "onboard_time": 1663681476,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123168,
+        "num": 123168,
+        "word": "首部中西结合末日题材小说漫画化",
+        "onboard_time": 1663689507,
+        "rank": 27,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 117252,
+        "num": 117252,
+        "word": "猫猫是怎么表达肚子疼的",
+        "onboard_time": 1663678288,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 103740,
+        "num": 103740,
+        "word": "原来自信的样子真的最美",
+        "onboard_time": 1663687831,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162778,
+        "num": 103250,
+        "word": "杨祐宁演技",
+        "onboard_time": 1663686930,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121158,
+        "num": 102469,
+        "word": "乌鲁木齐疫情防控",
+        "onboard_time": 1663684713,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118819,
+        "num": 101310,
+        "word": "孟川CP文",
+        "onboard_time": 1663681655,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114840,
+        "num": 99744,
+        "word": "95生颜值天花板",
+        "onboard_time": 1663665807,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110760,
+        "num": 98484,
+        "word": "消失的孩子",
+        "onboard_time": 1663686029,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 98262,
+        "num": 98262,
+        "word": "男子打赏女主播74万老婆不知情",
+        "onboard_time": 1663672893,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87409,
+        "num": 87409,
+        "word": "王毅会见美国前国务卿基辛格",
+        "onboard_time": 1663680217,
+        "rank": 36,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 86200,
+        "num": 86200,
+        "word": "真诚是打败阴阳怪气的必杀技",
+        "onboard_time": 1663683633,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86135,
+        "num": 86135,
+        "word": "清华隔空喊话丁同学没你不行",
+        "onboard_time": 1663678770,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 71204,
+        "num": 71204,
+        "word": "九尾又双叒换发色了",
+        "onboard_time": 1663673733,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 97873,
+        "num": 71069,
+        "word": "刘宇宁直播",
+        "onboard_time": 1663687951,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 92850,
+        "num": 70862,
+        "word": "罚罪",
+        "onboard_time": 1663671449,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 70567,
+        "num": 70567,
+        "word": "共情能力太强不适合学医",
+        "onboard_time": 1663671750,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 62144,
+        "num": 62144,
+        "word": "石家庄疫情防控",
+        "onboard_time": 1663674514,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60524,
+        "num": 60524,
+        "word": "浙江每6人中有1个念过大学",
+        "onboard_time": 1663692261,
+        "rank": 44,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 59695,
+        "num": 59695,
+        "word": "如何停止过度焦虑",
+        "onboard_time": 1663683756,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 50414,
+        "num": 50414,
+        "word": "年轻人如何慢慢失去健康",
+        "onboard_time": 1663681114,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49449,
+        "num": 49449,
+        "word": "男子朋友圈称像坐牢3小时后成真",
+        "onboard_time": 1663663650,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48696,
+        "num": 49448,
+        "word": "河南一大学招聘洗刷工限30岁以下",
+        "onboard_time": 1663692921,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199201,
+        "num": 49444,
+        "word": "全面禁售槟榔该下决心了",
+        "onboard_time": 1663670187,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#强国之路正扬帆#"
+    }
+  }
+}

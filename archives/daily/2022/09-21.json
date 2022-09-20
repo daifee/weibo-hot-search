@@ -1,6 +1,6 @@
 {
   "startTime": 1663691674200,
-  "endTime": 1663691674200,
+  "endTime": 1663693125405,
   "band_list": [
     {
       "raw_hot": 973946,
@@ -9,6 +9,14 @@
       "onboard_time": 1663663289,
       "rank": 0,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 898247,
+      "num": 898247,
+      "word": "受害者称杜英哲妻子是帮凶",
+      "onboard_time": 1663687471,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 855324,
@@ -35,20 +43,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 726706,
+      "num": 726706,
+      "word": "张雪峰批明星带娃类综艺",
+      "onboard_time": 1663690288,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 709356,
       "num": 273531,
       "word": "翰了汗了",
       "onboard_time": 1663681595,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 705642,
-      "num": 705642,
-      "word": "受害者称杜英哲妻子是帮凶",
-      "onboard_time": 1663687471,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 676757,
@@ -137,14 +145,6 @@
       "onboard_time": 1663688909,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 290639,
-      "num": 290639,
-      "word": "张雪峰批明星带娃类综艺",
-      "onboard_time": 1663690288,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 278927,
@@ -267,6 +267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148411,
+      "num": 148411,
+      "word": "反思房思琪式悲剧",
+      "onboard_time": 1663683633,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142151,
       "num": 142151,
       "word": "原来自信的样子真的最美",
@@ -297,6 +305,14 @@
       "onboard_time": 1663672893,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123168,
+      "num": 123168,
+      "word": "首部中西结合末日题材小说漫画化",
+      "onboard_time": 1663689507,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 122849,
@@ -339,28 +355,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 97736,
-      "num": 97736,
-      "word": "首部中西结合末日题材小说漫画化",
-      "onboard_time": 1663689507,
-      "rank": 43,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 95559,
       "num": 95559,
       "word": "共情能力太强不适合学医",
       "onboard_time": 1663671750,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 95355,
-      "num": 95355,
-      "word": "反思房思琪式悲剧",
-      "onboard_time": 1663683633,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 90062,
@@ -395,6 +395,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60524,
+      "num": 60524,
+      "word": "浙江每6人中有1个念过大学",
+      "onboard_time": 1663692261,
+      "rank": 44,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 48696,
+      "num": 49448,
+      "word": "河南一大学招聘洗刷工限30岁以下",
+      "onboard_time": 1663692921,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 10187,
       "num": 842738,
       "word": "丰收的色彩惊艳了秋天",
@@ -406,6 +422,9 @@
   "hotgov_list": [
     {
       "word": "#十年来我国自然资源事业发展成绩单#"
+    },
+    {
+      "word": "#强国之路正扬帆#"
     }
   ]
 }
