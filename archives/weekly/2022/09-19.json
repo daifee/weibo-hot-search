@@ -1,6 +1,6 @@
 {
   "startTime": 1663518759246,
-  "endTime": 1663771630180,
+  "endTime": 1663773971309,
   "band_list": [
     {
       "raw_hot": 8415894,
@@ -499,6 +499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1400465,
+      "num": 291064,
+      "word": "离婚梗",
+      "onboard_time": 1663772313,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1385371,
       "num": 1385371,
       "word": "韩国菜价飙涨中国泡菜成救兵",
@@ -691,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1132417,
+      "num": 1132417,
+      "word": "上戏退役",
+      "onboard_time": 1663769855,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1125691,
       "num": 1125691,
       "word": "南京女大学生被害案二审维持原判",
@@ -777,6 +793,14 @@
       "onboard_time": 1663762410,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1064319,
+      "num": 1064319,
+      "word": "吴世勋为张艺兴新歌面纱打call",
+      "onboard_time": 1663773032,
+      "rank": 3,
+      "category": "音乐"
     },
     {
       "raw_hot": 1063604,
@@ -1121,6 +1145,14 @@
       "onboard_time": 1663767035,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 837884,
+      "num": 837884,
+      "word": "张予曦疯狂报班只为演好戏",
+      "onboard_time": 1663771534,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 827896,
@@ -1747,14 +1779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 549861,
-      "num": 549861,
-      "word": "上戏退役",
-      "onboard_time": 1663769855,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 547768,
       "num": 320889,
       "word": "成毅新剧又被扒拉",
@@ -1955,6 +1979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 475729,
+      "num": 475729,
+      "word": "日式快餐为什么不火了",
+      "onboard_time": 1663760008,
+      "rank": 47,
+      "category": "社会新闻,社会新闻"
+    },
+    {
       "raw_hot": 475699,
       "num": 475699,
       "word": "北电2022级表演实验班名单",
@@ -2083,12 +2115,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 443635,
-      "num": 443635,
-      "word": "日式快餐为什么不火了",
-      "onboard_time": 1663760008,
-      "rank": 47,
-      "category": "社会新闻,社会新闻"
+      "raw_hot": 443885,
+      "num": 443885,
+      "word": "河北一高校叫停线上军训",
+      "onboard_time": 1663770394,
+      "rank": 44,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 443263,
@@ -2097,6 +2129,14 @@
       "onboard_time": 1663648052,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 442907,
+      "num": 442907,
+      "word": "外交部敦促美军不要再偷油",
+      "onboard_time": 1663769074,
+      "rank": 48,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 439628,
@@ -2291,6 +2331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 405411,
+      "num": 289237,
+      "word": "地铁座有污渍两女生默默擦净",
+      "onboard_time": 1663770696,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 403668,
       "num": 403668,
       "word": "河南发布国庆放假通知",
@@ -2449,14 +2497,6 @@
       "onboard_time": 1663709711,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 380917,
-      "num": 380917,
-      "word": "外交部敦促美军不要再偷油",
-      "onboard_time": 1663769074,
-      "rank": 48,
-      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 379945,
@@ -3147,6 +3187,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 298194,
+      "num": 275176,
+      "word": "罗勇 甘宇",
+      "onboard_time": 1663772615,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298177,
       "num": 298177,
       "word": "到底有多少种食物不能空腹吃",
@@ -3481,14 +3529,6 @@
       "onboard_time": 1663674032,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 270747,
-      "num": 252739,
-      "word": "张予曦疯狂报班只为演好戏",
-      "onboard_time": 1663771534,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 269770,
@@ -4355,6 +4395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 209642,
+      "num": 209642,
+      "word": "情侣吵架是全国统一的吧",
+      "onboard_time": 1663772615,
+      "rank": 25,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 208982,
       "num": 208982,
       "word": "甘宇被村民救起后大哭了一场",
@@ -4387,6 +4435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207374,
+      "num": 207374,
+      "word": "老师和家长都沉默了",
+      "onboard_time": 1663772135,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 207311,
       "num": 203323,
       "word": "于和伟回归喜剧大赛",
@@ -4401,6 +4457,14 @@
       "onboard_time": 1663703589,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207223,
+      "num": 175458,
+      "word": "梁海源再见脱口秀大会",
+      "onboard_time": 1663773274,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 206879,
@@ -4721,14 +4785,6 @@
       "onboard_time": 1663738950,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 182816,
-      "num": 182816,
-      "word": "河北一高校叫停线上军训",
-      "onboard_time": 1663770394,
-      "rank": 44,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 182534,
@@ -5283,20 +5339,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147537,
+      "num": 147537,
+      "word": "c63",
+      "onboard_time": 1663773393,
+      "rank": 38,
+      "category": "科技"
+    },
+    {
       "raw_hot": 147495,
       "num": 147495,
       "word": "她们的名字",
       "onboard_time": 1663585528,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 147391,
-      "num": 147391,
-      "word": "地铁座有污渍两女生默默擦净",
-      "onboard_time": 1663770696,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147223,
@@ -5611,6 +5667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125251,
+      "num": 125251,
+      "word": "当我妈在家办了场脱口秀大会",
+      "onboard_time": 1663772734,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125216,
       "num": 125216,
       "word": "何小鹏称G9将接棒保时捷",
@@ -5923,6 +5987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101800,
+      "num": 101800,
+      "word": "怎样能交到新的朋友",
+      "onboard_time": 1663773393,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 101686,
       "num": 101686,
       "word": "暗恋一个人最苦涩的是什么",
@@ -6188,7 +6260,7 @@
     },
     {
       "raw_hot": 47784,
-      "num": 970253,
+      "num": 1079594,
       "word": "中国载人航天高光时刻",
       "onboard_time": 1663754431,
       "rank": 14,
@@ -6417,6 +6489,14 @@
       "onboard_time": 1663534931,
       "rank": 49,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 5228,
+      "num": 284421,
+      "word": "智能汽车的极限在哪里",
+      "onboard_time": 1663772432,
+      "rank": 14,
+      "category": "科技"
     }
   ],
   "hotgov_list": [
