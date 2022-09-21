@@ -1,0 +1,410 @@
+{
+  "runTime": 1663803791472,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1081838,
+        "num": 1081838,
+        "word": "李诞 不拍灯",
+        "onboard_time": 1663801520,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 901195,
+        "num": 901195,
+        "word": "张国伟说女生不要刻意追求马甲线",
+        "onboard_time": 1663795570,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20819,
+        "num": 742695,
+        "word": "中国载人航天高光时刻",
+        "onboard_time": 1663754431,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 621603,
+        "num": 621603,
+        "word": "老人误把窗户当门迈出悬挂阳台",
+        "onboard_time": 1663780994,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 599632,
+        "num": 599632,
+        "word": "24小时便利店靠什么赚钱",
+        "onboard_time": 1663801582,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490798,
+        "num": 490798,
+        "word": "澳大利亚一海滩约230头鲸发生搁浅",
+        "onboard_time": 1663789271,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482523,
+        "num": 482523,
+        "word": "一家三代患病7岁妹妹捡瓶子救哥",
+        "onboard_time": 1663796713,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476402,
+        "num": 476402,
+        "word": "中国人确实有点种菜天赋在身上的",
+        "onboard_time": 1663785673,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454446,
+        "num": 454446,
+        "word": "为什么和父母诉苦会得到双倍痛苦",
+        "onboard_time": 1663768593,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 333194,
+        "num": 333194,
+        "word": "日式快餐为什么不火了",
+        "onboard_time": 1663760008,
+        "rank": 9,
+        "category": "社会新闻,社会新闻"
+      },
+      {
+        "raw_hot": 716478,
+        "num": 332799,
+        "word": "马来西亚男子性侵俩女儿被判428年",
+        "onboard_time": 1663768353,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329450,
+        "num": 329450,
+        "word": "黄晓明一直在听取观众意见",
+        "onboard_time": 1663774052,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 321635,
+        "num": 321635,
+        "word": "浙大博士生外卖员孟伟最新回应",
+        "onboard_time": 1663794192,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315469,
+        "num": 315469,
+        "word": "吴世勋为张艺兴新歌面纱打call",
+        "onboard_time": 1663773032,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 273751,
+        "num": 273751,
+        "word": "离婚梗",
+        "onboard_time": 1663772313,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267228,
+        "num": 267228,
+        "word": "大妈脱鞋躺地铁座椅鞋被乘客踢下车",
+        "onboard_time": 1663802662,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260347,
+        "num": 260347,
+        "word": "央媒集体点赞的退伍女兵找到了",
+        "onboard_time": 1663792149,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237009,
+        "num": 237009,
+        "word": "老师和家长都沉默了",
+        "onboard_time": 1663772135,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194853,
+        "num": 194853,
+        "word": "外交部敦促美军不要再偷油",
+        "onboard_time": 1663769074,
+        "rank": 18,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 193346,
+        "num": 193346,
+        "word": "女子2折出售迪士尼年卡卷走1300万",
+        "onboard_time": 1663759469,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1159154,
+        "num": 191470,
+        "word": "北电赵韦弦被刑拘",
+        "onboard_time": 1663776088,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258964,
+        "num": 189619,
+        "word": "张翰让我戒掉了手机",
+        "onboard_time": 1663752271,
+        "rank": 21,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 187358,
+        "num": 187358,
+        "word": "华为Mate50系列黄牛最高加价8000",
+        "onboard_time": 1663774291,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 163441,
+        "num": 163441,
+        "word": "思文程璐HBE",
+        "onboard_time": 1663803384,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162473,
+        "num": 162473,
+        "word": "张予曦疯狂报班只为演好戏",
+        "onboard_time": 1663771534,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 295863,
+        "num": 160599,
+        "word": "北电回应赵韦弦被刑拘",
+        "onboard_time": 1663775670,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151578,
+        "num": 151578,
+        "word": "Kid淘汰",
+        "onboard_time": 1663767633,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138428,
+        "num": 138428,
+        "word": "专硕学制延长至3年是否必要",
+        "onboard_time": 1663762771,
+        "rank": 27,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 136894,
+        "num": 136894,
+        "word": "河北一高校叫停线上军训",
+        "onboard_time": 1663770394,
+        "rank": 28,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 132498,
+        "num": 132498,
+        "word": "用100分的努力争100天的勇气",
+        "onboard_time": 1663802722,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135053,
+        "num": 130450,
+        "word": "苏有朋这张嘴怎么没长我身上",
+        "onboard_time": 1663761147,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127155,
+        "num": 127155,
+        "word": "白天常犯困秒睡可能是种病",
+        "onboard_time": 1663803384,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113907,
+        "num": 113907,
+        "word": "距离2022年结束还有100天",
+        "onboard_time": 1663802722,
+        "rank": 32,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 111011,
+        "num": 111011,
+        "word": "苍兰诀角色号微博藏头诗",
+        "onboard_time": 1663765772,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109357,
+        "num": 109357,
+        "word": "杜帝没有妈妈了",
+        "onboard_time": 1663768174,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104018,
+        "num": 104018,
+        "word": "2022年最后100天",
+        "onboard_time": 1663802122,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103310,
+        "num": 103310,
+        "word": "真的会担心王栎鑫的精神状态",
+        "onboard_time": 1663768291,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 103210,
+        "num": 103210,
+        "word": "c63",
+        "onboard_time": 1663773393,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 99724,
+        "num": 99724,
+        "word": "苹果手表Ultra与S8该怎么选",
+        "onboard_time": 1663767456,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 95986,
+        "num": 95986,
+        "word": "再催婚就不礼貌了",
+        "onboard_time": 1663759469,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95041,
+        "num": 95041,
+        "word": "外交部回应普京俄乌局势最新言论",
+        "onboard_time": 1663756051,
+        "rank": 40,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 94017,
+        "num": 94017,
+        "word": "罗勇 甘宇",
+        "onboard_time": 1663772615,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93142,
+        "num": 93142,
+        "word": "点外卖备注要个鸭屁股喂狗被赠2斤",
+        "onboard_time": 1663751794,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92244,
+        "num": 92244,
+        "word": "长月烬明",
+        "onboard_time": 1663803025,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 89966,
+        "num": 89966,
+        "word": "大妈连续两天到邻居家中摔乌龟",
+        "onboard_time": 1663803264,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88506,
+        "num": 88506,
+        "word": "一眼沦陷的神级美图",
+        "onboard_time": 1663764036,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 87190,
+        "num": 87190,
+        "word": "老伴贪玩弄丢自己大妈狂擂大爷",
+        "onboard_time": 1663789631,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86927,
+        "num": 86927,
+        "word": "丹麦女王新冠病毒检测结果再次呈阳性",
+        "onboard_time": 1663761570,
+        "rank": 47,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 81183,
+        "num": 81183,
+        "word": "美联储今年累计加息300个基点",
+        "onboard_time": 1663803683,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 79443,
+        "num": 79443,
+        "word": "研究表明微塑料会伤肝肺",
+        "onboard_time": 1663794970,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记看中国#"
+    }
+  }
+}

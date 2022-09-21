@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/22 00:37:11 ~ 2022/09/22 07:26:40
+本榜单时间：2022/09/22 00:37:11 ~ 2022/09/22 07:43:11
 </p>
 </blockquote>
 <p>
@@ -17,6 +17,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E7%94%B5%E8%B5%B5%E9%9F%A6%E5%BC%A6%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
 北电赵韦弦被刑拘（热度：2150709）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%AF%9E%20%E4%B8%8D%E6%8B%8D%E7%81%AF%23" target="weibo">
+李诞 不拍灯（热度：1081838）
 </a>
 </li>
 
@@ -40,7 +46,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%9B%BD%E4%BC%9F%E8%AF%B4%E5%A5%B3%E7%94%9F%E4%B8%8D%E8%A6%81%E5%88%BB%E6%84%8F%E8%BF%BD%E6%B1%82%E9%A9%AC%E7%94%B2%E7%BA%BF%23" target="weibo">
-张国伟说女生不要刻意追求马甲线（热度：858769）
+张国伟说女生不要刻意追求马甲线（热度：901195）
 </a>
 </li>
 
@@ -51,26 +57,26 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%AF%9E%20%E4%B8%8D%E6%8B%8D%E7%81%AF%23" target="weibo">
-李诞 不拍灯（热度：734095）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E7%94%B5%E5%9B%9E%E5%BA%94%E8%B5%B5%E9%9F%A6%E5%BC%A6%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
 北电回应赵韦弦被刑拘（热度：690814）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%88%E6%9B%A6%E7%96%AF%E7%8B%82%E6%8A%A5%E7%8F%AD%E5%8F%AA%E4%B8%BA%E6%BC%94%E5%A5%BD%E6%88%8F%23" target="weibo">
-张予曦疯狂报班只为演好戏（热度：567423）
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E8%AF%AF%E6%8A%8A%E7%AA%97%E6%88%B7%E5%BD%93%E9%97%A8%E8%BF%88%E5%87%BA%E6%82%AC%E6%8C%82%E9%98%B3%E5%8F%B0%23" target="weibo">
+老人误把窗户当门迈出悬挂阳台（热度：621603）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E8%AF%AF%E6%8A%8A%E7%AA%97%E6%88%B7%E5%BD%93%E9%97%A8%E8%BF%88%E5%87%BA%E6%82%AC%E6%8C%82%E9%98%B3%E5%8F%B0%23" target="weibo">
-老人误把窗户当门迈出悬挂阳台（热度：566779）
+<a href="https://s.weibo.com/weibo?q=%2324%E5%B0%8F%E6%97%B6%E4%BE%BF%E5%88%A9%E5%BA%97%E9%9D%A0%E4%BB%80%E4%B9%88%E8%B5%9A%E9%92%B1%23" target="weibo">
+24小时便利店靠什么赚钱（热度：599632）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%88%E6%9B%A6%E7%96%AF%E7%8B%82%E6%8A%A5%E7%8F%AD%E5%8F%AA%E4%B8%BA%E6%BC%94%E5%A5%BD%E6%88%8F%23" target="weibo">
+张予曦疯狂报班只为演好戏（热度：567423）
 </a>
 </li>
 
@@ -87,32 +93,32 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E4%B8%80%E6%B5%B7%E6%BB%A9%E7%BA%A6230%E5%A4%B4%E9%B2%B8%E5%8F%91%E7%94%9F%E6%90%81%E6%B5%85%23" target="weibo">
+澳大利亚一海滩约230头鲸发生搁浅（热度：490798）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AE%B6%E4%B8%89%E4%BB%A3%E6%82%A3%E7%97%857%E5%B2%81%E5%A6%B9%E5%A6%B9%E6%8D%A1%E7%93%B6%E5%AD%90%E6%95%91%E5%93%A5%23" target="weibo">
-一家三代患病7岁妹妹捡瓶子救哥（热度：427584）
+一家三代患病7岁妹妹捡瓶子救哥（热度：482523）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%A1%AE%E5%AE%9E%E6%9C%89%E7%82%B9%E7%A7%8D%E8%8F%9C%E5%A4%A9%E8%B5%8B%E5%9C%A8%E8%BA%AB%E4%B8%8A%E7%9A%84%23" target="weibo">
-中国人确实有点种菜天赋在身上的（热度：412304）
+中国人确实有点种菜天赋在身上的（热度：476402）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E4%B8%80%E6%B5%B7%E6%BB%A9%E7%BA%A6230%E5%A4%B4%E9%B2%B8%E5%8F%91%E7%94%9F%E6%90%81%E6%B5%85%23" target="weibo">
-澳大利亚一海滩约230头鲸发生搁浅（热度：409549）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%92%8C%E7%88%B6%E6%AF%8D%E8%AF%89%E8%8B%A6%E4%BC%9A%E5%BE%97%E5%88%B0%E5%8F%8C%E5%80%8D%E7%97%9B%E8%8B%A6%23" target="weibo">
+为什么和父母诉苦会得到双倍痛苦（热度：454446）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%93%81%E5%BA%A7%E6%9C%89%E6%B1%A1%E6%B8%8D%E4%B8%A4%E5%A5%B3%E7%94%9F%E9%BB%98%E9%BB%98%E6%93%A6%E5%87%80%23" target="weibo">
 地铁座有污渍两女生默默擦净（热度：389803）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%92%8C%E7%88%B6%E6%AF%8D%E8%AF%89%E8%8B%A6%E4%BC%9A%E5%BE%97%E5%88%B0%E5%8F%8C%E5%80%8D%E7%97%9B%E8%8B%A6%23" target="weibo">
-为什么和父母诉苦会得到双倍痛苦（热度：384601）
 </a>
 </li>
 
@@ -135,8 +141,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2324%E5%B0%8F%E6%97%B6%E4%BE%BF%E5%88%A9%E5%BA%97%E9%9D%A0%E4%BB%80%E4%B9%88%E8%B5%9A%E9%92%B1%23" target="weibo">
-24小时便利店靠什么赚钱（热度：314670）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E5%A4%A7%E5%8D%9A%E5%A3%AB%E7%94%9F%E5%A4%96%E5%8D%96%E5%91%98%E5%AD%9F%E4%BC%9F%E6%9C%80%E6%96%B0%E5%9B%9E%E5%BA%94%23" target="weibo">
+浙大博士生外卖员孟伟最新回应（热度：321635）
 </a>
 </li>
 
@@ -153,8 +159,20 @@ c63（热度：269317）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A6%88%E8%84%B1%E9%9E%8B%E8%BA%BA%E5%9C%B0%E9%93%81%E5%BA%A7%E6%A4%85%E9%9E%8B%E8%A2%AB%E4%B9%98%E5%AE%A2%E8%B8%A2%E4%B8%8B%E8%BD%A6%23" target="weibo">
+大妈脱鞋躺地铁座椅鞋被乘客踢下车（热度：267228）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E4%B8%80%E9%AB%98%E6%A0%A1%E5%8F%AB%E5%81%9C%E7%BA%BF%E4%B8%8A%E5%86%9B%E8%AE%AD%23" target="weibo">
 河北一高校叫停线上军训（热度：261187）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E5%AA%92%E9%9B%86%E4%BD%93%E7%82%B9%E8%B5%9E%E7%9A%84%E9%80%80%E4%BC%8D%E5%A5%B3%E5%85%B5%E6%89%BE%E5%88%B0%E4%BA%86%23" target="weibo">
+央媒集体点赞的退伍女兵找到了（热度：260347）
 </a>
 </li>
 
@@ -177,8 +195,8 @@ Kid淘汰（热度：257126）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E5%AA%92%E9%9B%86%E4%BD%93%E7%82%B9%E8%B5%9E%E7%9A%84%E9%80%80%E4%BC%8D%E5%A5%B3%E5%85%B5%E6%89%BE%E5%88%B0%E4%BA%86%23" target="weibo">
-央媒集体点赞的退伍女兵找到了（热度：242259）
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E5%92%8C%E5%AE%B6%E9%95%BF%E9%83%BD%E6%B2%89%E9%BB%98%E4%BA%86%23" target="weibo">
+老师和家长都沉默了（热度：237009）
 </a>
 </li>
 
@@ -189,20 +207,8 @@ Kid淘汰（热度：257126）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E5%A4%A7%E5%8D%9A%E5%A3%AB%E7%94%9F%E5%A4%96%E5%8D%96%E5%91%98%E5%AD%9F%E4%BC%9F%E6%9C%80%E6%96%B0%E5%9B%9E%E5%BA%94%23" target="weibo">
-浙大博士生外卖员孟伟最新回应（热度：224078）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%232022%E5%B9%B4%E6%9C%80%E5%90%8E100%E5%A4%A9%23" target="weibo">
 2022年最后100天（热度：219655）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E5%92%8C%E5%AE%B6%E9%95%BF%E9%83%BD%E6%B2%89%E9%BB%98%E4%BA%86%23" target="weibo">
-老师和家长都沉默了（热度：206927）
 </a>
 </li>
 
@@ -219,20 +225,26 @@ Kid淘汰（热度：257126）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%902%E6%8A%98%E5%87%BA%E5%94%AE%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%B9%B4%E5%8D%A1%E5%8D%B7%E8%B5%B01300%E4%B8%87%23" target="weibo">
-女子2折出售迪士尼年卡卷走1300万（热度：189138）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E6%95%A6%E4%BF%83%E7%BE%8E%E5%86%9B%E4%B8%8D%E8%A6%81%E5%86%8D%E5%81%B7%E6%B2%B9%23" target="weibo">
+外交部敦促美军不要再偷油（热度：194853）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E6%95%A6%E4%BF%83%E7%BE%8E%E5%86%9B%E4%B8%8D%E8%A6%81%E5%86%8D%E5%81%B7%E6%B2%B9%23" target="weibo">
-外交部敦促美军不要再偷油（热度：180599）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%902%E6%8A%98%E5%87%BA%E5%94%AE%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%B9%B4%E5%8D%A1%E5%8D%B7%E8%B5%B01300%E4%B8%87%23" target="weibo">
+女子2折出售迪士尼年卡卷走1300万（热度：193346）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%B8%9D%E6%B2%A1%E6%9C%89%E5%A6%88%E5%A6%88%E4%BA%86%23" target="weibo">
 杜帝没有妈妈了（热度：174275）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%80%9D%E6%96%87%E7%A8%8B%E7%92%90HBE%23" target="weibo">
+思文程璐HBE（热度：163441）
 </a>
 </li>
 
@@ -273,14 +285,20 @@ Kid淘汰（热度：257126）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E7%A1%95%E5%AD%A6%E5%88%B6%E5%BB%B6%E9%95%BF%E8%87%B33%E5%B9%B4%E6%98%AF%E5%90%A6%E5%BF%85%E8%A6%81%23" target="weibo">
+专硕学制延长至3年是否必要（热度：138428）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B7%9D%E7%A6%BB2022%E5%B9%B4%E7%BB%93%E6%9D%9F%E8%BF%98%E6%9C%89100%E5%A4%A9%23" target="weibo">
 距离2022年结束还有100天（热度：135282）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E7%A1%95%E5%AD%A6%E5%88%B6%E5%BB%B6%E9%95%BF%E8%87%B33%E5%B9%B4%E6%98%AF%E5%90%A6%E5%BF%85%E8%A6%81%23" target="weibo">
-专硕学制延长至3年是否必要（热度：132704）
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%A4%A9%E5%B8%B8%E7%8A%AF%E5%9B%B0%E7%A7%92%E7%9D%A1%E5%8F%AF%E8%83%BD%E6%98%AF%E7%A7%8D%E7%97%85%23" target="weibo">
+白天常犯困秒睡可能是种病（热度：127155）
 </a>
 </li>
 
@@ -328,13 +346,19 @@ Kid淘汰（热度：257126）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%99%AE%E4%BA%AC%E4%BF%84%E4%B9%8C%E5%B1%80%E5%8A%BF%E6%9C%80%E6%96%B0%E8%A8%80%E8%AE%BA%23" target="weibo">
-外交部回应普京俄乌局势最新言论（热度：91454）
+外交部回应普京俄乌局势最新言论（热度：95041）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A6%88%E8%84%B1%E9%9E%8B%E8%BA%BA%E5%9C%B0%E9%93%81%E5%BA%A7%E6%A4%85%E9%9E%8B%E8%A2%AB%E4%B9%98%E5%AE%A2%E8%B8%A2%E4%B8%8B%E8%BD%A6%23" target="weibo">
-大妈脱鞋躺地铁座椅鞋被乘客踢下车（热度：91232）
+<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%88%E7%83%AC%E6%98%8E%23" target="weibo">
+长月烬明（热度：92244）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A6%88%E8%BF%9E%E7%BB%AD%E4%B8%A4%E5%A4%A9%E5%88%B0%E9%82%BB%E5%B1%85%E5%AE%B6%E4%B8%AD%E6%91%94%E4%B9%8C%E9%BE%9F%23" target="weibo">
+大妈连续两天到邻居家中摔乌龟（热度：89966）
 </a>
 </li>
 
@@ -345,8 +369,20 @@ Kid淘汰（热度：257126）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BC%B4%E8%B4%AA%E7%8E%A9%E5%BC%84%E4%B8%A2%E8%87%AA%E5%B7%B1%E5%A4%A7%E5%A6%88%E7%8B%82%E6%93%82%E5%A4%A7%E7%88%B7%23" target="weibo">
+老伴贪玩弄丢自己大妈狂擂大爷（热度：87190）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E8%A1%A8%E6%98%8E%E5%BE%AE%E5%A1%91%E6%96%99%E4%BC%9A%E4%BC%A4%E8%82%9D%E8%82%BA%23" target="weibo">
 研究表明微塑料会伤肝肺（热度：84910）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%81%94%E5%82%A8%E4%BB%8A%E5%B9%B4%E7%B4%AF%E8%AE%A1%E5%8A%A0%E6%81%AF300%E4%B8%AA%E5%9F%BA%E7%82%B9%23" target="weibo">
+美联储今年累计加息300个基点（热度：81183）
 </a>
 </li>
 
@@ -383,12 +419,6 @@ NBA新赛季百大球员詹姆斯第七（热度：72866）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B1%E6%83%85%E8%83%BD%E5%8A%9B%E5%BC%BA%E5%88%B0%E5%BA%95%E5%A5%BD%E4%B8%8D%E5%A5%BD%23" target="weibo">
 共情能力强到底好不好（热度：61993）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BC%B4%E8%B4%AA%E7%8E%A9%E5%BC%84%E4%B8%A2%E8%87%AA%E5%B7%B1%E5%A4%A7%E5%A6%88%E7%8B%82%E6%93%82%E5%A4%A7%E7%88%B7%23" target="weibo">
-老伴贪玩弄丢自己大妈狂擂大爷（热度：58138）
 </a>
 </li>
 

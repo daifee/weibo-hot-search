@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/22 07:26:40
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/22 07:43:11
 </p>
 </blockquote>
 <p>
@@ -4683,6 +4683,12 @@ QQ推出QQ学生卡（热度：1084298）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%AF%9E%20%E4%B8%8D%E6%8B%8D%E7%81%AF%23" target="weibo">
+李诞 不拍灯（热度：1081838）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E6%8F%90%E8%AE%AE%E5%85%A8%E9%9D%A2%E6%B6%88%E7%81%AD%E8%9A%8A%E5%AD%90%23" target="weibo">
 全国人大代表提议全面消灭蚊子（热度：1081710）
 </a>
@@ -6005,12 +6011,6 @@ LPL三号种子EDG（热度：926061）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%AE%E5%9B%BE%E7%BC%98%23" target="weibo">
 浮图缘（热度：922134）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E7%BC%BA%E7%88%B1%E6%98%AF%E5%A6%82%E4%BD%95%E6%AF%81%E6%8E%89%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%23" target="weibo">
-长期缺爱是如何毁掉一个人的（热度：922019）
 </a>
 </li>
 
