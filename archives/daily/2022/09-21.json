@@ -1,6 +1,6 @@
 {
   "startTime": 1663691674200,
-  "endTime": 1663760295709,
+  "endTime": 1663764797473,
   "band_list": [
     {
       "raw_hot": 8415894,
@@ -123,8 +123,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1319631,
+      "num": 1319631,
+      "word": "母猫被封公司独自产崽啃方便面求生",
+      "onboard_time": 1663758990,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1319406,
-      "num": 416739,
+      "num": 527084,
       "word": "乐华对哇唧唧哇放狠话",
       "onboard_time": 1663754549,
       "rank": 10,
@@ -195,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1069796,
+      "num": 1002361,
+      "word": "王俊凯直播",
+      "onboard_time": 1663762410,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1063604,
       "num": 414279,
       "word": "杜高",
@@ -204,7 +220,7 @@
     },
     {
       "raw_hot": 1027195,
-      "num": 388143,
+      "num": 526508,
       "word": "我读研一年都学会了什么",
       "onboard_time": 1663755090,
       "rank": 28,
@@ -219,12 +235,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1023331,
+      "num": 1023331,
+      "word": "我保研了先跑为敬",
+      "onboard_time": 1663761448,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1022555,
       "num": 1022555,
       "word": "泸定地震中失联17天的甘宇找到了",
       "onboard_time": 1663729645,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 999513,
+      "num": 999513,
+      "word": "再催婚就不礼貌了",
+      "onboard_time": 1663759469,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 973946,
@@ -288,6 +320,14 @@
       "word": "农村老人说有厕所孩子更愿回家了",
       "onboard_time": 1663743989,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 870124,
+      "num": 870124,
+      "word": "女子2折出售迪士尼年卡卷走1300万",
+      "onboard_time": 1663759469,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -387,12 +427,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 704757,
+      "num": 704757,
+      "word": "苏有朋这张嘴怎么没长我身上",
+      "onboard_time": 1663761147,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 676757,
       "num": 676757,
       "word": "北京一男子酒后称后悔结婚",
       "onboard_time": 1663684831,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 652581,
+      "num": 652581,
+      "word": "北京一大学全班只有一个男生",
+      "onboard_time": 1663759232,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 636117,
@@ -483,6 +539,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 528187,
+      "num": 528187,
+      "word": "丹麦女王新冠病毒检测结果再次呈阳性",
+      "onboard_time": 1663761570,
+      "rank": 9,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 525823,
+      "num": 525823,
+      "word": "王鹤棣是陈立农的专业伴奏",
+      "onboard_time": 1663763070,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 523747,
       "num": 272001,
       "word": "谁能顶得住张翰",
@@ -563,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 465394,
+      "num": 465394,
+      "word": "两个人的小森林豆瓣6.6分",
+      "onboard_time": 1663764515,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 463686,
       "num": 463686,
       "word": "大考",
@@ -635,6 +715,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 408518,
+      "num": 408518,
+      "word": "日式快餐为什么不火了",
+      "onboard_time": 1663760008,
+      "rank": 47,
+      "category": "社会新闻,社会新闻"
+    },
+    {
       "raw_hot": 401980,
       "num": 401980,
       "word": "赵露思桑稚校服造型花絮照",
@@ -681,14 +769,6 @@
       "onboard_time": 1663751910,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 388293,
-      "num": 321777,
-      "word": "母猫被封公司独自产崽啃方便面求生",
-      "onboard_time": 1663758990,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 387366,
@@ -745,6 +825,14 @@
       "onboard_time": 1663759769,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 357769,
+      "num": 357769,
+      "word": "今晚调油价",
+      "onboard_time": 1663760309,
+      "rank": 15,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 352468,
@@ -963,6 +1051,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 276636,
+      "num": 276636,
+      "word": "成毅演员的可塑性",
+      "onboard_time": 1663763733,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 275198,
       "num": 275198,
       "word": "嫌弃脸可不能随便乱用",
@@ -993,6 +1089,14 @@
       "onboard_time": 1663728379,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263235,
+      "num": 263235,
+      "word": "一家3代13人考入同一所大学",
+      "onboard_time": 1663761991,
+      "rank": 18,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 263206,
@@ -1027,6 +1131,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 260258,
+      "num": 228035,
+      "word": "脱口秀大会",
+      "onboard_time": 1663764694,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 255876,
       "num": 255876,
       "word": "一群孩子捡到4岁男童交给警察叔叔",
@@ -1035,12 +1147,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 247620,
-      "num": 247620,
-      "word": "再催婚就不礼貌了",
-      "onboard_time": 1663759469,
-      "rank": 22,
-      "category": "幽默"
+      "raw_hot": 248721,
+      "num": 182069,
+      "word": "任嘉伦陆炎的霸道随了陆绎",
+      "onboard_time": 1663764575,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 248440,
+      "num": 211264,
+      "word": "newjeans校庆舞台",
+      "onboard_time": 1663764036,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 245483,
@@ -1081,14 +1201,6 @@
       "onboard_time": 1663744110,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 237630,
-      "num": 237630,
-      "word": "女子2折出售迪士尼年卡卷走1300万",
-      "onboard_time": 1663759469,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 237267,
@@ -1251,20 +1363,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 209940,
-      "num": 209940,
-      "word": "北京一大学全班只有一个男生",
-      "onboard_time": 1663759232,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 208982,
       "num": 208982,
       "word": "甘宇被村民救起后大哭了一场",
       "onboard_time": 1663756531,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208908,
+      "num": 162568,
+      "word": "正常的年轻人",
+      "onboard_time": 1663759711,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 207233,
@@ -1281,6 +1393,14 @@
       "onboard_time": 1663745908,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206673,
+      "num": 206673,
+      "word": "地震时他开车挡石救7人",
+      "onboard_time": 1663760250,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 205093,
@@ -1337,6 +1457,14 @@
       "onboard_time": 1663746751,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 193451,
+      "num": 193451,
+      "word": "专硕学制延长至3年是否必要",
+      "onboard_time": 1663762771,
+      "rank": 28,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 188166,
@@ -1411,6 +1539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176794,
+      "num": 187275,
+      "word": "小鹏G9售价309900元起",
+      "onboard_time": 1663763975,
+      "rank": 29,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 170389,
       "num": 170389,
       "word": "cos能还原到什么程度",
@@ -1449,6 +1585,14 @@
       "onboard_time": 1663736310,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169233,
+      "num": 160949,
+      "word": "一眼沦陷的神级美图",
+      "onboard_time": 1663764036,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 168069,
@@ -1571,6 +1715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 144535,
+      "num": 144535,
+      "word": "北京小伙研究无土种菜年产300吨",
+      "onboard_time": 1663764635,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142151,
       "num": 142151,
       "word": "原来自信的样子真的最美",
@@ -1585,6 +1737,14 @@
       "onboard_time": 1663723110,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136242,
+      "num": 136242,
+      "word": "千万别买厨房神器",
+      "onboard_time": 1663763554,
+      "rank": 41,
+      "category": "其它"
     },
     {
       "raw_hot": 134493,
@@ -1675,14 +1835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 119979,
-      "num": 119979,
-      "word": "正常的年轻人",
-      "onboard_time": 1663759711,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 116690,
       "num": 116690,
       "word": "烈士肖思远弟弟成杨根思部队新兵",
@@ -1699,20 +1851,20 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 114865,
+      "num": 114865,
+      "word": "厦门闭环管理人员中检出1例确诊",
+      "onboard_time": 1663764274,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114607,
       "num": 114607,
       "word": "刘新云一审获刑14年",
       "onboard_time": 1663755751,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 114594,
-      "num": 114594,
-      "word": "日式快餐为什么不火了",
-      "onboard_time": 1663760008,
-      "rank": 47,
-      "category": "社会新闻,社会新闻"
     },
     {
       "raw_hot": 114566,
@@ -1745,14 +1897,6 @@
       "onboard_time": 1663673733,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 103036,
-      "num": 103036,
-      "word": "地震时他开车挡石救7人",
-      "onboard_time": 1663760250,
-      "rank": 49,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 101686,
@@ -1793,6 +1937,14 @@
       "onboard_time": 1663683756,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 82677,
+      "num": 82677,
+      "word": "男子开面包车拉了40头小猪上高速",
+      "onboard_time": 1663763852,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82621,
