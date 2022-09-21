@@ -1,6 +1,6 @@
 {
   "startTime": 1663691674200,
-  "endTime": 1663740824387,
+  "endTime": 1663742167003,
   "band_list": [
     {
       "raw_hot": 8415894,
@@ -43,20 +43,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1524134,
+      "num": 1524134,
+      "word": "法大32名研究生放弃入学资格",
+      "onboard_time": 1663736972,
+      "rank": 3,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1500309,
       "num": 1500309,
       "word": "可不可以不调休",
       "onboard_time": 1663721069,
       "rank": 1,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1451475,
-      "num": 1451475,
-      "word": "法大32名研究生放弃入学资格",
-      "onboard_time": 1663736972,
-      "rank": 3,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1420759,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 809863,
-      "num": 269254,
+      "num": 273592,
       "word": "泰迪被2只杜高撕咬主人跪地呼救",
       "onboard_time": 1663735834,
       "rank": 49,
@@ -403,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 469155,
+      "num": 469155,
+      "word": "妇联回应21岁送外卖单亲妈妈事件",
+      "onboard_time": 1663739246,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 427420,
       "num": 427420,
       "word": "多所高校延长专硕学制至3年",
@@ -491,6 +499,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 331022,
+      "num": 331022,
+      "word": "这手机系统够我玩一整天了",
+      "onboard_time": 1663740032,
+      "rank": 29,
+      "category": "幽默,科技"
+    },
+    {
+      "raw_hot": 328244,
+      "num": 328244,
+      "word": "迪丽热巴龚俊新剧宿命感",
+      "onboard_time": 1663741229,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 317141,
       "num": 317141,
       "word": "王毅强调当务之急是妥善管控台湾问题",
@@ -521,6 +545,14 @@
       "onboard_time": 1663721128,
       "rank": 15,
       "category": "科技"
+    },
+    {
+      "raw_hot": 309591,
+      "num": 309591,
+      "word": "俄罗斯宣布进行部分动员",
+      "onboard_time": 1663741889,
+      "rank": 17,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 309527,
@@ -577,14 +609,6 @@
       "onboard_time": 1663725987,
       "rank": 17,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 294995,
-      "num": 294995,
-      "word": "妇联回应21岁送外卖单亲妈妈事件",
-      "onboard_time": 1663739246,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 293723,
@@ -731,6 +755,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 228869,
+      "num": 228869,
+      "word": "老人听说顺其自然事迹后捐了100万",
+      "onboard_time": 1663737450,
+      "rank": 24,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 221907,
       "num": 221907,
       "word": "坐等国庆放假的我",
@@ -763,14 +795,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 216867,
-      "num": 216867,
-      "word": "老人听说顺其自然事迹后捐了100万",
-      "onboard_time": 1663737450,
-      "rank": 24,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 216701,
       "num": 216701,
       "word": "执业医师",
@@ -785,6 +809,22 @@
       "onboard_time": 1663716203,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 213933,
+      "num": 213933,
+      "word": "两不疑第二季定档",
+      "onboard_time": 1663740631,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 212578,
+      "num": 212578,
+      "word": "美版iPhone14仍有SIM卡空间",
+      "onboard_time": 1663734811,
+      "rank": 47,
+      "category": "科技"
     },
     {
       "raw_hot": 211851,
@@ -803,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205093,
+      "num": 205093,
+      "word": "一诺落水是为了独享经济",
+      "onboard_time": 1663742007,
+      "rank": 30,
+      "category": "游戏,综艺"
+    },
+    {
       "raw_hot": 204974,
       "num": 204974,
       "word": "电视剧底线",
@@ -817,14 +865,6 @@
       "onboard_time": 1663681655,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 200887,
-      "num": 180374,
-      "word": "美版iPhone14仍有SIM卡空间",
-      "onboard_time": 1663734811,
-      "rank": 47,
-      "category": "科技"
     },
     {
       "raw_hot": 185390,
@@ -843,12 +883,12 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 181351,
-      "num": 181351,
-      "word": "这手机系统够我玩一整天了",
-      "onboard_time": 1663740032,
-      "rank": 29,
-      "category": "幽默,科技"
+      "raw_hot": 182534,
+      "num": 182534,
+      "word": "陆虎推荐再就业男团上春晚",
+      "onboard_time": 1663738888,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 179899,
@@ -865,6 +905,22 @@
       "onboard_time": 1663732831,
       "rank": 44,
       "category": "科技"
+    },
+    {
+      "raw_hot": 179430,
+      "num": 179430,
+      "word": "黑龙江新增本土感染者111例",
+      "onboard_time": 1663740392,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178716,
+      "num": 178716,
+      "word": "男子蹲马桶点烟引甲烷爆燃",
+      "onboard_time": 1663740991,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177853,
@@ -904,14 +960,6 @@
       "word": "向前冲",
       "onboard_time": 1663736310,
       "rank": 43,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 168199,
-      "num": 168199,
-      "word": "陆虎推荐再就业男团上春晚",
-      "onboard_time": 1663738888,
-      "rank": 35,
       "category": "综艺"
     },
     {
@@ -955,6 +1003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158639,
+      "num": 158639,
+      "word": "这就是千禧甜妹吧",
+      "onboard_time": 1663741290,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 157193,
       "num": 136213,
       "word": "消失的孩子",
@@ -969,6 +1025,14 @@
       "onboard_time": 1663687951,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 151405,
+      "num": 151405,
+      "word": "黄景瑜罚罪角色热度第一",
+      "onboard_time": 1663741889,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 151286,
@@ -1008,14 +1072,6 @@
       "word": "北京9月20日本土无新增",
       "onboard_time": 1663723110,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 140483,
-      "num": 140483,
-      "word": "黑龙江新增本土感染者111例",
-      "onboard_time": 1663740392,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -1075,12 +1131,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 118532,
-      "num": 118532,
-      "word": "两不疑第二季定档",
-      "onboard_time": 1663740631,
-      "rank": 48,
-      "category": "动漫"
+      "raw_hot": 117540,
+      "num": 117540,
+      "word": "王者荣耀新赛季",
+      "onboard_time": 1663741588,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 115624,
@@ -1163,19 +1219,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71794,
+      "num": 158214,
+      "word": "现在是买电车的好时机吗",
+      "onboard_time": 1663740032,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70382,
       "num": 70382,
       "word": "男子朋友圈称像坐牢3小时后成真",
       "onboard_time": 1663663650,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 69382,
-      "num": 148013,
-      "word": "现在是买电车的好时机吗",
-      "onboard_time": 1663740032,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1235,6 +1291,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 12449,
+      "num": 334086,
+      "word": "带你穿越海上森林",
+      "onboard_time": 1663741290,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 11537,
       "num": 11537,
       "word": "赵露思陈哲远最新同框路透",
@@ -1252,6 +1316,9 @@
     },
     {
       "word": "#激发全社会向上向善的正能量#"
+    },
+    {
+      "word": "#普通人故事里的非凡十年#"
     }
   ]
 }
