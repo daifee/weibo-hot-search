@@ -1,6 +1,6 @@
 {
   "startTime": 1663691674200,
-  "endTime": 1663746957984,
+  "endTime": 1663749287728,
   "band_list": [
     {
       "raw_hot": 8415894,
@@ -91,6 +91,22 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1365773,
+      "num": 885415,
+      "word": "研究发现男性当爹大脑皮层会萎缩",
+      "onboard_time": 1663743568,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1264121,
+      "num": 492275,
+      "word": "内娱经纪公司互放狠话",
+      "onboard_time": 1663747768,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1263240,
       "num": 1263240,
       "word": "张雪峰批明星带娃类综艺",
@@ -148,7 +164,7 @@
     },
     {
       "raw_hot": 1024527,
-      "num": 448386,
+      "num": 483296,
       "word": "男子隐瞒已婚与他人同居生子",
       "onboard_time": 1663743387,
       "rank": 11,
@@ -195,12 +211,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 878189,
+      "num": 878189,
+      "word": "俄称5937名俄军官兵牺牲",
+      "onboard_time": 1663744470,
+      "rank": 13,
+      "category": "军事"
+    },
+    {
       "raw_hot": 876576,
       "num": 876576,
       "word": "解放军坚决反制一切威胁挑衅",
       "onboard_time": 1663726106,
       "rank": 6,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 874808,
+      "num": 874808,
+      "word": "农村老人说有厕所孩子更愿回家了",
+      "onboard_time": 1663743989,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 855324,
@@ -219,28 +251,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 835980,
-      "num": 835980,
-      "word": "研究发现男性当爹大脑皮层会萎缩",
-      "onboard_time": 1663743568,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 835787,
       "num": 835787,
       "word": "女子体内排出4.95米长绦虫",
       "onboard_time": 1663667967,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 822411,
-      "num": 822411,
-      "word": "俄称5937名俄军官兵牺牲",
-      "onboard_time": 1663744470,
-      "rank": 13,
-      "category": "军事"
     },
     {
       "raw_hot": 811140,
@@ -395,6 +411,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 514116,
+      "num": 514116,
+      "word": "普京宣布支持顿巴斯等地区公投",
+      "onboard_time": 1663744707,
+      "rank": 18,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 512365,
       "num": 512365,
       "word": "65岁老人坚持24年向前男友讨分手费",
@@ -443,14 +467,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 477479,
-      "num": 477479,
-      "word": "农村老人说有厕所孩子更愿回家了",
-      "onboard_time": 1663743989,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 474203,
       "num": 474203,
       "word": "禁售槟榔不仅因为它致癌",
@@ -473,14 +489,6 @@
       "onboard_time": 1663740032,
       "rank": 29,
       "category": "幽默,科技"
-    },
-    {
-      "raw_hot": 432411,
-      "num": 432411,
-      "word": "普京宣布支持顿巴斯等地区公投",
-      "onboard_time": 1663744707,
-      "rank": 18,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 427420,
@@ -571,6 +579,22 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 349668,
+      "num": 349668,
+      "word": "赵露思桑稚校服造型花絮照",
+      "onboard_time": 1663746271,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 348131,
+      "num": 348131,
+      "word": "安乐传配音",
+      "onboard_time": 1663745609,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 346335,
       "num": 346335,
       "word": "灿烂灿烂",
@@ -585,6 +609,14 @@
       "onboard_time": 1663732410,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 333998,
+      "num": 333998,
+      "word": "国产电视剧片头统一标识",
+      "onboard_time": 1663747710,
+      "rank": 18,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 331831,
@@ -625,6 +657,14 @@
       "onboard_time": 1663721128,
       "rank": 15,
       "category": "科技"
+    },
+    {
+      "raw_hot": 312399,
+      "num": 312399,
+      "word": "王鹤棣密逃4惊心offer下高清剧照",
+      "onboard_time": 1663748727,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 309527,
@@ -691,14 +731,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 298248,
-      "num": 298248,
-      "word": "安乐传配音",
-      "onboard_time": 1663745609,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 293723,
       "num": 293723,
       "word": "庞博接梗",
@@ -763,12 +795,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 268864,
-      "num": 268864,
-      "word": "赵露思桑稚校服造型花絮照",
-      "onboard_time": 1663746271,
-      "rank": 47,
-      "category": "作品衍生"
+      "raw_hot": 269956,
+      "num": 320645,
+      "word": "杜高",
+      "onboard_time": 1663748429,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 265580,
@@ -835,6 +867,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 238248,
+      "num": 238248,
+      "word": "论爸爸喂猫能有多反骨",
+      "onboard_time": 1663744110,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 237267,
       "num": 141116,
       "word": "杨祐宁演技",
@@ -867,12 +907,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 224081,
+      "num": 224081,
+      "word": "四川村民徒步找到甘宇",
+      "onboard_time": 1663746450,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221907,
       "num": 221907,
       "word": "坐等国庆放假的我",
       "onboard_time": 1663740091,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 221469,
+      "num": 221469,
+      "word": "甘宇回应失联17天后获救",
+      "onboard_time": 1663745007,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220267,
@@ -913,6 +969,14 @@
       "onboard_time": 1663716203,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 215711,
+      "num": 215711,
+      "word": "如何看待研究生录而不读",
+      "onboard_time": 1663742367,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 212578,
@@ -987,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184250,
+      "num": 184250,
+      "word": "杨迪已经把恋综看穿了",
+      "onboard_time": 1663745729,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184012,
       "num": 184012,
       "word": "槟榔近千亿产业或被按下暂停键",
@@ -1035,11 +1107,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179217,
+      "num": 179217,
+      "word": "女孩对爱情的态度有多清醒",
+      "onboard_time": 1663746751,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 177853,
       "num": 81990,
       "word": "阿尔茨海默病日",
       "onboard_time": 1663717403,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176852,
+      "num": 176852,
+      "word": "这175家都是假央企",
+      "onboard_time": 1663748670,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -1099,14 +1187,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 166071,
-      "num": 166071,
-      "word": "论爸爸喂猫能有多反骨",
-      "onboard_time": 1663744110,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 163379,
       "num": 163379,
       "word": "顿巴斯拟于本周开始入俄公投",
@@ -1131,6 +1211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157264,
+      "num": 157264,
+      "word": "为了我们的荣耀",
+      "onboard_time": 1663748251,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157193,
       "num": 136213,
       "word": "消失的孩子",
@@ -1145,14 +1233,6 @@
       "onboard_time": 1663687951,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 153044,
-      "num": 153044,
-      "word": "如何看待研究生录而不读",
-      "onboard_time": 1663742367,
-      "rank": 41,
-      "category": "教育"
     },
     {
       "raw_hot": 151405,
@@ -1187,14 +1267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146149,
-      "num": 146149,
-      "word": "杨迪已经把恋综看穿了",
-      "onboard_time": 1663745729,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 142151,
       "num": 142151,
       "word": "原来自信的样子真的最美",
@@ -1208,14 +1280,6 @@
       "word": "北京9月20日本土无新增",
       "onboard_time": 1663723110,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 135354,
-      "num": 135354,
-      "word": "四川村民徒步找到甘宇",
-      "onboard_time": 1663746450,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -1241,6 +1305,14 @@
       "onboard_time": 1663672893,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130563,
+      "num": 130563,
+      "word": "护士拦停失控公交救下脑出血司机",
+      "onboard_time": 1663748127,
+      "rank": 41,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 123168,
@@ -1273,14 +1345,6 @@
       "onboard_time": 1663683756,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 119489,
-      "num": 119489,
-      "word": "甘宇回应失联17天后获救",
-      "onboard_time": 1663745007,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 115624,
@@ -1323,20 +1387,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 103674,
-      "num": 103674,
-      "word": "女孩对爱情的态度有多清醒",
-      "onboard_time": 1663746751,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 101686,
       "num": 101686,
       "word": "暗恋一个人最苦涩的是什么",
       "onboard_time": 1663693160,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 99819,
+      "num": 99819,
+      "word": "44年前他独自解说了整届世界杯",
+      "onboard_time": 1663749268,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 95559,
@@ -1371,11 +1435,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73939,
+      "num": 1339952,
+      "word": "普通人故事里的非凡十年",
+      "onboard_time": 1663743806,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 71794,
       "num": 158214,
       "word": "现在是买电车的好时机吗",
       "onboard_time": 1663740032,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71322,
+      "num": 406160,
+      "word": "消防员6小时灭火妻子偶遇心疼送晚餐",
+      "onboard_time": 1663747288,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1385,14 +1465,6 @@
       "onboard_time": 1663663650,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 63640,
-      "num": 1339952,
-      "word": "普通人故事里的非凡十年",
-      "onboard_time": 1663743806,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 60440,

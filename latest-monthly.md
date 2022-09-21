@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/21 15:55:57
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/21 16:34:47
 </p>
 </blockquote>
 <p>
@@ -3171,6 +3171,12 @@ LBL（热度：1377848）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E5%8F%91%E7%8E%B0%E7%94%B7%E6%80%A7%E5%BD%93%E7%88%B9%E5%A4%A7%E8%84%91%E7%9A%AE%E5%B1%82%E4%BC%9A%E8%90%8E%E7%BC%A9%23" target="weibo">
+研究发现男性当爹大脑皮层会萎缩（热度：1365773）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89%E7%94%B7%E6%80%A7%E9%81%BF%E5%AD%95%E8%8D%AF%23" target="weibo">
 为什么没有男性避孕药（热度：1363240）
 </a>
@@ -3647,6 +3653,12 @@ iPhone13官网降价销售（热度：1271944）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%BE%E8%BE%89%E5%BE%8B%E6%89%80%23" target="weibo">
 达辉律所（热度：1265393）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%E4%BA%92%E6%94%BE%E7%8B%A0%E8%AF%9D%23" target="weibo">
+内娱经纪公司互放狠话（热度：1264121）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ iPhone14ProMax史上最重iPhone（热度：914474）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E5%86%9B%E8%AE%AD7%E5%A4%A9%E6%8D%A14%E9%BA%BB%E8%A2%8B%E7%93%B6%E5%AD%90%E9%80%81%E5%A5%B6%E5%A5%B6%23" target="weibo">
 男生军训7天捡4麻袋瓶子送奶奶（热度：907054）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%85%A5%E8%81%8C%E8%99%9A%E6%8A%A5%E5%A9%9A%E8%82%B2%E6%83%85%E5%86%B5%E8%A2%AB%E8%A7%A3%E9%99%A4%E5%8A%B3%E5%8A%A8%E5%90%88%E5%90%8C%23" target="weibo">
-女子入职虚报婚育情况被解除劳动合同（热度：906362）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%89%AF%E5%93%81%E9%93%BA%E5%AD%90%E6%9C%88%E9%A5%BC%E8%A2%AB%E6%9B%9D%E5%90%83%E5%87%BA%E5%A1%91%E6%96%99%23" target="weibo">
-良品铺子月饼被曝吃出塑料（热度：906026）
 </a>
 </li>
 

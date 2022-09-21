@@ -1,6 +1,6 @@
 {
   "startTime": 1663518759246,
-  "endTime": 1663746957984,
+  "endTime": 1663749287728,
   "band_list": [
     {
       "raw_hot": 8415894,
@@ -467,6 +467,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1365773,
+      "num": 885415,
+      "word": "研究发现男性当爹大脑皮层会萎缩",
+      "onboard_time": 1663743568,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1363240,
       "num": 591874,
       "word": "为什么没有男性避孕药",
@@ -513,6 +521,14 @@
       "onboard_time": 1663584810,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1264121,
+      "num": 492275,
+      "word": "内娱经纪公司互放狠话",
+      "onboard_time": 1663747768,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1263240,
@@ -724,7 +740,7 @@
     },
     {
       "raw_hot": 1024527,
-      "num": 448386,
+      "num": 483296,
       "word": "男子隐瞒已婚与他人同居生子",
       "onboard_time": 1663743387,
       "rank": 11,
@@ -899,12 +915,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 878189,
+      "num": 878189,
+      "word": "俄称5937名俄军官兵牺牲",
+      "onboard_time": 1663744470,
+      "rank": 13,
+      "category": "军事"
+    },
+    {
       "raw_hot": 876576,
       "num": 876576,
       "word": "解放军坚决反制一切威胁挑衅",
       "onboard_time": 1663726106,
       "rank": 6,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 874808,
+      "num": 874808,
+      "word": "农村老人说有厕所孩子更愿回家了",
+      "onboard_time": 1663743989,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 874335,
@@ -947,14 +979,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 835980,
-      "num": 835980,
-      "word": "研究发现男性当爹大脑皮层会萎缩",
-      "onboard_time": 1663743568,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 827896,
       "num": 827896,
       "word": "北电成立专班调查赵韦弦事件",
@@ -969,14 +993,6 @@
       "onboard_time": 1663616351,
       "rank": 11,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 822411,
-      "num": 822411,
-      "word": "俄称5937名俄军官兵牺牲",
-      "onboard_time": 1663744470,
-      "rank": 13,
-      "category": "军事"
     },
     {
       "raw_hot": 816305,
@@ -1595,6 +1611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 514116,
+      "num": 514116,
+      "word": "普京宣布支持顿巴斯等地区公投",
+      "onboard_time": 1663744707,
+      "rank": 18,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 512365,
       "num": 512365,
       "word": "65岁老人坚持24年向前男友讨分手费",
@@ -1689,14 +1713,6 @@
       "onboard_time": 1663727785,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 477479,
-      "num": 477479,
-      "word": "农村老人说有厕所孩子更愿回家了",
-      "onboard_time": 1663743989,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 476361,
@@ -1865,14 +1881,6 @@
       "onboard_time": 1663592847,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 432411,
-      "num": 432411,
-      "word": "普京宣布支持顿巴斯等地区公投",
-      "onboard_time": 1663744707,
-      "rank": 18,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 428362,
@@ -2323,12 +2331,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 349668,
+      "num": 349668,
+      "word": "赵露思桑稚校服造型花絮照",
+      "onboard_time": 1663746271,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 348678,
       "num": 348678,
       "word": "猫猫是怎么表达肚子疼的",
       "onboard_time": 1663678288,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 348131,
+      "num": 348131,
+      "word": "安乐传配音",
+      "onboard_time": 1663745609,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 347076,
@@ -2417,6 +2441,14 @@
       "onboard_time": 1663687951,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 333998,
+      "num": 333998,
+      "word": "国产电视剧片头统一标识",
+      "onboard_time": 1663747710,
+      "rank": 18,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 330327,
@@ -2553,6 +2585,14 @@
       "onboard_time": 1663651228,
       "rank": 30,
       "category": "游戏,科技"
+    },
+    {
+      "raw_hot": 312399,
+      "num": 312399,
+      "word": "王鹤棣密逃4惊心offer下高清剧照",
+      "onboard_time": 1663748727,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 311860,
@@ -2713,14 +2753,6 @@
       "onboard_time": 1663725987,
       "rank": 17,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 298248,
-      "num": 298248,
-      "word": "安乐传配音",
-      "onboard_time": 1663745609,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 298177,
@@ -3043,20 +3075,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 269956,
+      "num": 320645,
+      "word": "杜高",
+      "onboard_time": 1663748429,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 269770,
       "num": 257688,
       "word": "那些百看不厌的仙女施法",
       "onboard_time": 1663687233,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 268864,
-      "num": 268864,
-      "word": "赵露思桑稚校服造型花絮照",
-      "onboard_time": 1663746271,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 267936,
@@ -3443,6 +3475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238248,
+      "num": 238248,
+      "word": "论爸爸喂猫能有多反骨",
+      "onboard_time": 1663744110,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 236683,
       "num": 236683,
       "word": "三安光电",
@@ -3619,6 +3659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 224081,
+      "num": 224081,
+      "word": "四川村民徒步找到甘宇",
+      "onboard_time": 1663746450,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223865,
       "num": 223865,
       "word": "河北一县城开办超10家共享自习室",
@@ -3649,6 +3697,14 @@
       "onboard_time": 1663740091,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 221469,
+      "num": 221469,
+      "word": "甘宇回应失联17天后获救",
+      "onboard_time": 1663745007,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221093,
@@ -3721,6 +3777,14 @@
       "onboard_time": 1663716203,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 215711,
+      "num": 215711,
+      "word": "如何看待研究生录而不读",
+      "onboard_time": 1663742367,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 215529,
@@ -4083,6 +4147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184250,
+      "num": 184250,
+      "word": "杨迪已经把恋综看穿了",
+      "onboard_time": 1663745729,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182534,
       "num": 182534,
       "word": "陆虎推荐再就业男团上春晚",
@@ -4179,6 +4251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179217,
+      "num": 179217,
+      "word": "女孩对爱情的态度有多清醒",
+      "onboard_time": 1663746751,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 178259,
       "num": 178259,
       "word": "小猫也喜欢看电视",
@@ -4216,6 +4296,14 @@
       "word": "天津新增18例本土阳性感染者",
       "onboard_time": 1663641385,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176852,
+      "num": 176852,
+      "word": "这175家都是假央企",
+      "onboard_time": 1663748670,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -4339,14 +4427,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 166071,
-      "num": 166071,
-      "word": "论爸爸喂猫能有多反骨",
-      "onboard_time": 1663744110,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 165799,
       "num": 165799,
       "word": "爱情而已吴磊周雨彤吻戏好甜",
@@ -4443,6 +4523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157264,
+      "num": 157264,
+      "word": "为了我们的荣耀",
+      "onboard_time": 1663748251,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155951,
       "num": 151198,
       "word": "周雨彤说吴磊夸夸费看着给",
@@ -4465,14 +4553,6 @@
       "onboard_time": 1663503570,
       "rank": 31,
       "category": "科技"
-    },
-    {
-      "raw_hot": 153044,
-      "num": 153044,
-      "word": "如何看待研究生录而不读",
-      "onboard_time": 1663742367,
-      "rank": 41,
-      "category": "教育"
     },
     {
       "raw_hot": 152975,
@@ -4609,14 +4689,6 @@
       "onboard_time": 1663660165,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 146149,
-      "num": 146149,
-      "word": "杨迪已经把恋综看穿了",
-      "onboard_time": 1663745729,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 146010,
@@ -4795,14 +4867,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 135354,
-      "num": 135354,
-      "word": "四川村民徒步找到甘宇",
-      "onboard_time": 1663746450,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 134961,
       "num": 134961,
       "word": "我也好想这么潇洒啊",
@@ -4865,6 +4929,14 @@
       "onboard_time": 1663510472,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130563,
+      "num": 130563,
+      "word": "护士拦停失控公交救下脑出血司机",
+      "onboard_time": 1663748127,
+      "rank": 41,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 129134,
@@ -4969,14 +5041,6 @@
       "onboard_time": 1663515154,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 119489,
-      "num": 119489,
-      "word": "甘宇回应失联17天后获救",
-      "onboard_time": 1663745007,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119349,
@@ -5163,14 +5227,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 103674,
-      "num": 103674,
-      "word": "女孩对爱情的态度有多清醒",
-      "onboard_time": 1663746751,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 101969,
       "num": 101969,
       "word": "河南增本土确诊1例无症状7例",
@@ -5209,6 +5265,14 @@
       "onboard_time": 1663673612,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 99819,
+      "num": 99819,
+      "word": "44年前他独自解说了整届世界杯",
+      "onboard_time": 1663749268,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 99497,
@@ -5347,11 +5411,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73939,
+      "num": 1339952,
+      "word": "普通人故事里的非凡十年",
+      "onboard_time": 1663743806,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 71794,
       "num": 158214,
       "word": "现在是买电车的好时机吗",
       "onboard_time": 1663740032,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71322,
+      "num": 406160,
+      "word": "消防员6小时灭火妻子偶遇心疼送晚餐",
+      "onboard_time": 1663747288,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -5369,14 +5449,6 @@
       "onboard_time": 1663671627,
       "rank": 49,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 63640,
-      "num": 1339952,
-      "word": "普通人故事里的非凡十年",
-      "onboard_time": 1663743806,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 58012,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1663749287728,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1010929,
+        "num": 1010929,
+        "word": "两岸和平统一将给台湾同胞带来实实在在的好处",
+        "onboard_time": 1663735773,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 958572,
+        "num": 958572,
+        "word": "俄罗斯宣布进行部分动员",
+        "onboard_time": 1663741889,
+        "rank": 1,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 73939,
+        "num": 890781,
+        "word": "普通人故事里的非凡十年",
+        "onboard_time": 1663743806,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1365773,
+        "num": 885415,
+        "word": "研究发现男性当爹大脑皮层会萎缩",
+        "onboard_time": 1663743568,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 878189,
+        "num": 878189,
+        "word": "俄称5937名俄军官兵牺牲",
+        "onboard_time": 1663744470,
+        "rank": 4,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 874808,
+        "num": 874808,
+        "word": "农村老人说有厕所孩子更愿回家了",
+        "onboard_time": 1663743989,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 676165,
+        "num": 676165,
+        "word": "优酷今天好多剧",
+        "onboard_time": 1663731388,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 560559,
+        "num": 560559,
+        "word": "孙红雷说张艺兴是五心好友",
+        "onboard_time": 1663735111,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 543447,
+        "num": 543447,
+        "word": "妇联回应21岁送外卖单亲妈妈事件",
+        "onboard_time": 1663739246,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514116,
+        "num": 514116,
+        "word": "普京宣布支持顿巴斯等地区公投",
+        "onboard_time": 1663744707,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1264121,
+        "num": 492275,
+        "word": "内娱经纪公司互放狠话",
+        "onboard_time": 1663747768,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1013783,
+        "num": 483296,
+        "word": "男子隐瞒已婚与他人同居生子",
+        "onboard_time": 1663743387,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 936273,
+        "num": 453609,
+        "word": "女子网购毒蛇被咬致死家属获赔33万",
+        "onboard_time": 1663743209,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 757561,
+        "num": 440233,
+        "word": "国庆休7上7是种啥体验",
+        "onboard_time": 1663725268,
+        "rank": 13,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 71322,
+        "num": 406160,
+        "word": "消防员6小时灭火妻子偶遇心疼送晚餐",
+        "onboard_time": 1663747288,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394502,
+        "num": 394502,
+        "word": "法大32名研究生放弃入学资格",
+        "onboard_time": 1663736972,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 349668,
+        "num": 349668,
+        "word": "赵露思桑稚校服造型花絮照",
+        "onboard_time": 1663746271,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 348131,
+        "num": 348131,
+        "word": "安乐传配音",
+        "onboard_time": 1663745609,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 333998,
+        "num": 333998,
+        "word": "国产电视剧片头统一标识",
+        "onboard_time": 1663747710,
+        "rank": 18,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 269956,
+        "num": 320645,
+        "word": "杜高",
+        "onboard_time": 1663748429,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312399,
+        "num": 312399,
+        "word": "王鹤棣密逃4惊心offer下高清剧照",
+        "onboard_time": 1663748727,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275082,
+        "num": 275082,
+        "word": "泰迪被2只杜高撕咬主人跪地呼救",
+        "onboard_time": 1663735834,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256843,
+        "num": 256843,
+        "word": "一名男子在日本首相官邸附近自焚",
+        "onboard_time": 1663742249,
+        "rank": 22,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 255205,
+        "num": 255205,
+        "word": "iPhone14ProMax创最长发货时间",
+        "onboard_time": 1663737210,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 250696,
+        "num": 250696,
+        "word": "男子蹲马桶点烟引甲烷爆燃",
+        "onboard_time": 1663740991,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238248,
+        "num": 238248,
+        "word": "论爸爸喂猫能有多反骨",
+        "onboard_time": 1663744110,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 224081,
+        "num": 224081,
+        "word": "四川村民徒步找到甘宇",
+        "onboard_time": 1663746450,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221469,
+        "num": 221469,
+        "word": "甘宇回应失联17天后获救",
+        "onboard_time": 1663745007,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215711,
+        "num": 215711,
+        "word": "如何看待研究生录而不读",
+        "onboard_time": 1663742367,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 184250,
+        "num": 184250,
+        "word": "杨迪已经把恋综看穿了",
+        "onboard_time": 1663745729,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179217,
+        "num": 179217,
+        "word": "女孩对爱情的态度有多清醒",
+        "onboard_time": 1663746751,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176852,
+        "num": 176852,
+        "word": "这175家都是假央企",
+        "onboard_time": 1663748670,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172971,
+        "num": 172971,
+        "word": "两不疑第二季定档",
+        "onboard_time": 1663740631,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 170025,
+        "num": 170025,
+        "word": "韩国菜价飙涨中国泡菜成救兵",
+        "onboard_time": 1663731505,
+        "rank": 33,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 169512,
+        "num": 169512,
+        "word": "这手机系统够我玩一整天了",
+        "onboard_time": 1663740032,
+        "rank": 34,
+        "category": "幽默,科技"
+      },
+      {
+        "raw_hot": 157264,
+        "num": 157264,
+        "word": "为了我们的荣耀",
+        "onboard_time": 1663748251,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150722,
+        "num": 150722,
+        "word": "这就是千禧甜妹吧",
+        "onboard_time": 1663741290,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140999,
+        "num": 140999,
+        "word": "长月烬明",
+        "onboard_time": 1663727725,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137637,
+        "num": 137637,
+        "word": "王者荣耀新赛季",
+        "onboard_time": 1663741588,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137448,
+        "num": 137448,
+        "word": "泸定地震中失联17天的甘宇找到了",
+        "onboard_time": 1663729645,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132849,
+        "num": 132849,
+        "word": "宠物大闸蟹被煮兄弟俩边吃边哭",
+        "onboard_time": 1663727427,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130563,
+        "num": 130563,
+        "word": "护士拦停失控公交救下脑出血司机",
+        "onboard_time": 1663748127,
+        "rank": 41,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 129679,
+        "num": 129679,
+        "word": "陈奕迅巡回演唱会官宣",
+        "onboard_time": 1663733853,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 124587,
+        "num": 124587,
+        "word": "反独促统大势不断增强",
+        "onboard_time": 1663742547,
+        "rank": 43,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 118382,
+        "num": 118382,
+        "word": "孔子的老师是河南周口的",
+        "onboard_time": 1663745908,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117743,
+        "num": 117743,
+        "word": "安乐传",
+        "onboard_time": 1663730368,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 112796,
+        "num": 112796,
+        "word": "黑龙江新增本土感染者111例",
+        "onboard_time": 1663740392,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108266,
+        "num": 108266,
+        "word": "女子被亲妹盗用身份证登记结婚",
+        "onboard_time": 1663731630,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99819,
+        "num": 99819,
+        "word": "44年前他独自解说了整届世界杯",
+        "onboard_time": 1663749268,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98081,
+        "num": 98081,
+        "word": "潮汕生腌的正确打开方式",
+        "onboard_time": 1663745850,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国载人航天实施30周年#"
+    }
+  }
+}
