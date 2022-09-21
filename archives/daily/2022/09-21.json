@@ -1,7 +1,15 @@
 {
   "startTime": 1663691674200,
-  "endTime": 1663736731792,
+  "endTime": 1663740824387,
   "band_list": [
+    {
+      "raw_hot": 8415894,
+      "num": 9665894,
+      "word": "统一后台湾可实行不同于大陆的社会制度",
+      "onboard_time": 1663735773,
+      "rank": 23,
+      "category": "国内要闻"
+    },
     {
       "raw_hot": 3924143,
       "num": 3924143,
@@ -43,6 +51,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1451475,
+      "num": 1451475,
+      "word": "法大32名研究生放弃入学资格",
+      "onboard_time": 1663736972,
+      "rank": 3,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1420759,
       "num": 1420759,
       "word": "孙红雷说张艺兴是五心好友",
@@ -57,14 +73,6 @@
       "onboard_time": 1663731505,
       "rank": 3,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 1322724,
-      "num": 1322724,
-      "word": "统一后台湾可实行不同于大陆的社会制度",
-      "onboard_time": 1663735773,
-      "rank": 23,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 1263240,
@@ -195,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 809863,
+      "num": 269254,
+      "word": "泰迪被2只杜高撕咬主人跪地呼救",
+      "onboard_time": 1663735834,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 789576,
       "num": 545070,
       "word": "打火机与公主裙首支预告",
@@ -236,7 +252,7 @@
     },
     {
       "raw_hot": 629437,
-      "num": 531938,
+      "num": 547839,
       "word": "安乐传",
       "onboard_time": 1663730368,
       "rank": 26,
@@ -347,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 489464,
+      "num": 489464,
+      "word": "iPhone14ProMax创最长发货时间",
+      "onboard_time": 1663737210,
+      "rank": 9,
+      "category": "科技"
+    },
+    {
       "raw_hot": 480408,
       "num": 394831,
       "word": "千金丫环大结局",
@@ -424,6 +448,14 @@
       "word": "59岁大爷沉迷游乐场办年卡玩过山车",
       "onboard_time": 1663709711,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 371031,
+      "num": 371031,
+      "word": "重庆市原副市长邓恢林一审获刑15年",
+      "onboard_time": 1663735952,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -523,14 +555,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 304881,
-      "num": 304881,
-      "word": "重庆市原副市长邓恢林一审获刑15年",
-      "onboard_time": 1663735952,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 303773,
       "num": 303773,
       "word": "黄磊为张艺兴新歌面纱打call",
@@ -553,6 +577,14 @@
       "onboard_time": 1663725987,
       "rank": 17,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 294995,
+      "num": 294995,
+      "word": "妇联回应21岁送外卖单亲妈妈事件",
+      "onboard_time": 1663739246,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 293723,
@@ -683,14 +715,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 239138,
-      "num": 239138,
-      "word": "泰迪被2只杜高撕咬主人跪地呼救",
-      "onboard_time": 1663735834,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 237267,
       "num": 141116,
       "word": "杨祐宁演技",
@@ -705,6 +729,14 @@
       "onboard_time": 1663729348,
       "rank": 28,
       "category": "科技"
+    },
+    {
+      "raw_hot": 221907,
+      "num": 221907,
+      "word": "坐等国庆放假的我",
+      "onboard_time": 1663740091,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 220267,
@@ -731,6 +763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 216867,
+      "num": 216867,
+      "word": "老人听说顺其自然事迹后捐了100万",
+      "onboard_time": 1663737450,
+      "rank": 24,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 216701,
       "num": 216701,
       "word": "执业医师",
@@ -745,6 +785,14 @@
       "onboard_time": 1663716203,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 211851,
+      "num": 211851,
+      "word": "田曦薇新剧婚服造型",
+      "onboard_time": 1663736791,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 207233,
@@ -772,11 +820,19 @@
     },
     {
       "raw_hot": 200887,
-      "num": 171502,
+      "num": 180374,
       "word": "美版iPhone14仍有SIM卡空间",
       "onboard_time": 1663734811,
       "rank": 47,
       "category": "科技"
+    },
+    {
+      "raw_hot": 185390,
+      "num": 185390,
+      "word": "龚道安一审被判无期徒刑",
+      "onboard_time": 1663738950,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184012,
@@ -785,6 +841,14 @@
       "onboard_time": 1663671030,
       "rank": 26,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 181351,
+      "num": 181351,
+      "word": "这手机系统够我玩一整天了",
+      "onboard_time": 1663740032,
+      "rank": 29,
+      "category": "幽默,科技"
     },
     {
       "raw_hot": 179899,
@@ -843,6 +907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168199,
+      "num": 168199,
+      "word": "陆虎推荐再就业男团上春晚",
+      "onboard_time": 1663738888,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168069,
       "num": 168069,
       "word": "昆仑神宫节奏",
@@ -873,6 +945,14 @@
       "onboard_time": 1663684713,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159706,
+      "num": 159706,
+      "word": "百分百开麦15S艺人清唱",
+      "onboard_time": 1663739489,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 157193,
@@ -931,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140483,
+      "num": 140483,
+      "word": "黑龙江新增本土感染者111例",
+      "onboard_time": 1663740392,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134493,
       "num": 134493,
       "word": "真诚是打败阴阳怪气的必杀技",
@@ -985,6 +1073,14 @@
       "onboard_time": 1663683756,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118532,
+      "num": 118532,
+      "word": "两不疑第二季定档",
+      "onboard_time": 1663740631,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 115624,
@@ -1072,6 +1168,14 @@
       "word": "男子朋友圈称像坐牢3小时后成真",
       "onboard_time": 1663663650,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69382,
+      "num": 148013,
+      "word": "现在是买电车的好时机吗",
+      "onboard_time": 1663740032,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
