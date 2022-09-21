@@ -1,6 +1,6 @@
 {
   "startTime": 1663691674200,
-  "endTime": 1663753465062,
+  "endTime": 1663756048737,
   "band_list": [
     {
       "raw_hot": 8415894,
@@ -43,6 +43,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1707058,
+      "num": 361367,
+      "word": "张翰让我戒掉了手机",
+      "onboard_time": 1663752271,
+      "rank": 20,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 1675416,
       "num": 1675416,
       "word": "俄罗斯宣布进行部分动员",
@@ -57,6 +65,14 @@
       "onboard_time": 1663729168,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1557332,
+      "num": 1557332,
+      "word": "点外卖备注要个鸭屁股喂狗被赠2斤",
+      "onboard_time": 1663751794,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1524134,
@@ -179,14 +195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1057576,
-      "num": 293475,
-      "word": "张翰让我戒掉了手机",
-      "onboard_time": 1663752271,
-      "rank": 20,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 1024527,
       "num": 483296,
       "word": "男子隐瞒已婚与他人同居生子",
@@ -305,6 +313,14 @@
       "onboard_time": 1663733731,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 743236,
+      "num": 416739,
+      "word": "乐华对哇唧唧哇放狠话",
+      "onboard_time": 1663754549,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 740566,
@@ -427,6 +443,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 543265,
+      "num": 543265,
+      "word": "21岁送外卖单亲妈妈回应",
+      "onboard_time": 1663752392,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 531865,
       "num": 531865,
       "word": "亚洲最大医院成绩单",
@@ -515,6 +539,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 468474,
+      "num": 468474,
+      "word": "李沁不是鸡腿姑娘是鸡腿刺客",
+      "onboard_time": 1663755154,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 445297,
+      "num": 445297,
+      "word": "沉香如屑灯塔舆情热度全平台冠军",
+      "onboard_time": 1663755271,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 434877,
       "num": 434877,
       "word": "这手机系统够我玩一整天了",
@@ -545,14 +585,6 @@
       "onboard_time": 1663733853,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 417287,
-      "num": 389992,
-      "word": "点外卖备注要个鸭屁股喂狗被赠2斤",
-      "onboard_time": 1663751794,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 416048,
@@ -640,6 +672,14 @@
       "word": "重庆市原副市长邓恢林一审获刑15年",
       "onboard_time": 1663735952,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 367394,
+      "num": 367394,
+      "word": "爷爷第一次进城见孙子一脸宠溺",
+      "onboard_time": 1663750948,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -923,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245490,
+      "num": 245490,
+      "word": "嫌弃脸可不能随便乱用",
+      "onboard_time": 1663753829,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 245483,
       "num": 245483,
       "word": "风雨浓胭脂乱",
@@ -979,6 +1027,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 236152,
+      "num": 236152,
+      "word": "郑钦文",
+      "onboard_time": 1663752928,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 231347,
       "num": 231347,
       "word": "华为Mate50开售",
@@ -995,20 +1051,20 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 227152,
-      "num": 227152,
-      "word": "21岁送外卖单亲妈妈回应",
-      "onboard_time": 1663752392,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 227028,
       "num": 227028,
       "word": "潮汕生腌的正确打开方式",
       "onboard_time": 1663745850,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 224000,
+      "num": 224000,
+      "word": "我读研一年都学会了什么",
+      "onboard_time": 1663755090,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 222992,
@@ -1040,6 +1096,14 @@
       "word": "原来00后都在偷偷养生",
       "onboard_time": 1663686989,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220136,
+      "num": 220136,
+      "word": "男子实习期醉驾坚称自己是女人",
+      "onboard_time": 1663754252,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1075,6 +1139,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 213932,
+      "num": 213932,
+      "word": "长空之王胡军帮王一博走戏",
+      "onboard_time": 1663755509,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 212578,
       "num": 212578,
       "word": "美版iPhone14仍有SIM卡空间",
@@ -1088,6 +1160,14 @@
       "word": "田曦薇新剧婚服造型",
       "onboard_time": 1663736791,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 211450,
+      "num": 211450,
+      "word": "大考",
+      "onboard_time": 1663755930,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -1155,11 +1235,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 188271,
-      "num": 188271,
-      "word": "爷爷第一次进城见孙子一脸宠溺",
-      "onboard_time": 1663750948,
-      "rank": 46,
+      "raw_hot": 188550,
+      "num": 188550,
+      "word": "湖南疾控发布国庆出行健康提示",
+      "onboard_time": 1663753652,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -1371,14 +1451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146053,
-      "num": 146053,
-      "word": "郑钦文",
-      "onboard_time": 1663752928,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 142151,
       "num": 142151,
       "word": "原来自信的样子真的最美",
@@ -1393,6 +1465,14 @@
       "onboard_time": 1663723110,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139551,
+      "num": 139551,
+      "word": "小猫咪的十级弹跳力",
+      "onboard_time": 1663755930,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 134493,
@@ -1433,6 +1513,14 @@
       "onboard_time": 1663749268,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124333,
+      "num": 124333,
+      "word": "加满一箱油将少花11.5元",
+      "onboard_time": 1663754013,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 123168,
@@ -1481,6 +1569,14 @@
       "onboard_time": 1663715723,
       "rank": 39,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 114607,
+      "num": 114607,
+      "word": "刘新云一审获刑14年",
+      "onboard_time": 1663755751,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114566,
@@ -1616,6 +1712,14 @@
       "word": "河南省夏粮总产量全国第一",
       "onboard_time": 1663691064,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29883,
+      "num": 412036,
+      "word": "中国载人航天高光时刻",
+      "onboard_time": 1663754431,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
