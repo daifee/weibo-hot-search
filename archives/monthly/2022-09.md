@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/21 22:09:00
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/21 22:32:23
 </p>
 </blockquote>
 <p>
@@ -1599,6 +1599,12 @@ Doinb升级当爸爸（热度：2008327）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E7%94%B7%E5%AD%90%E6%80%A7%E4%BE%B5%E4%BF%A9%E5%A5%B3%E5%84%BF%E8%A2%AB%E5%88%A4428%E5%B9%B4%23" target="weibo">
+马来西亚男子性侵俩女儿被判428年（热度：1922680）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E7%A7%B037%E5%B2%81%E5%B7%B2%E8%B4%A2%E5%8A%A1%E8%87%AA%E7%94%B1%23" target="weibo">
 雷军称37岁已财务自由（热度：1921041）
 </a>
@@ -2109,6 +2115,12 @@ JDG与TES决胜局（热度：1719216）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%B8%9D%E6%B2%A1%E6%9C%89%E5%A6%88%E5%A6%88%E4%BA%86%23" target="weibo">
+杜帝没有妈妈了（热度：1718214）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%96%E6%B6%88%E5%85%AC%E6%91%8A%E9%9D%A2%E7%A7%AF%E6%88%96%E7%BB%99%E6%B6%88%E8%B4%B9%E8%80%85%E5%9F%8B%E4%B8%8B%E6%9A%97%E5%9D%91%23" target="weibo">
 取消公摊面积或给消费者埋下暗坑（热度：1717208）
 </a>
@@ -2447,12 +2459,6 @@ iPhone14ProMax电池容量不增反降（热度：1588541）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%83%82%E5%B0%BE%E7%9A%84%E9%9F%A9%E5%89%A7%23" target="weibo">
 烂尾的韩剧（热度：1576939）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%B8%9D%E6%B2%A1%E6%9C%89%E5%A6%88%E5%A6%88%E4%BA%86%23" target="weibo">
-杜帝没有妈妈了（热度：1575170）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ LPL三号种子EDG（热度：926061）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%A7%B0%E5%83%8F%E5%9D%90%E7%89%A23%E5%B0%8F%E6%97%B6%E5%90%8E%E6%88%90%E7%9C%9F%23" target="weibo">
 男子朋友圈称像坐牢3小时后成真（热度：916683）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A9%B4%E5%84%BF%E6%9C%8D%E8%A3%85%E7%A4%BC%E7%9B%92%E6%8B%86%E5%87%BA40%E5%A4%9A%E6%A0%B9%E9%92%88%23" target="weibo">
-婴儿服装礼盒拆出40多根针（热度：916088）
 </a>
 </li>
 

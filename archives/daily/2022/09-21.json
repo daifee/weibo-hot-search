@@ -1,6 +1,6 @@
 {
   "startTime": 1663691674200,
-  "endTime": 1663769340539,
+  "endTime": 1663770743073,
   "band_list": [
     {
       "raw_hot": 8415894,
@@ -43,12 +43,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1922680,
+      "num": 370149,
+      "word": "马来西亚男子性侵俩女儿被判428年",
+      "onboard_time": 1663768353,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1756922,
       "num": 1756922,
       "word": "点外卖备注要个鸭屁股喂狗被赠2斤",
       "onboard_time": 1663751794,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1718214,
+      "num": 1718214,
+      "word": "杜帝没有妈妈了",
+      "onboard_time": 1663768174,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1707058,
@@ -65,14 +81,6 @@
       "onboard_time": 1663741889,
       "rank": 17,
       "category": "国外要闻,军事"
-    },
-    {
-      "raw_hot": 1575170,
-      "num": 1575170,
-      "word": "杜帝没有妈妈了",
-      "onboard_time": 1663768174,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 1570518,
@@ -387,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 835453,
+      "num": 835453,
+      "word": "思文 脱口秀太后",
+      "onboard_time": 1663767035,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 811140,
       "num": 811140,
       "word": "张远 勇气",
@@ -403,20 +419,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 809362,
-      "num": 809362,
-      "word": "思文 脱口秀太后",
-      "onboard_time": 1663767035,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 789576,
       "num": 545070,
       "word": "打火机与公主裙首支预告",
       "onboard_time": 1663733731,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 780954,
+      "num": 386239,
+      "word": "Kid淘汰",
+      "onboard_time": 1663767633,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 740566,
@@ -473,14 +489,6 @@
       "onboard_time": 1663684831,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 666673,
-      "num": 386239,
-      "word": "Kid淘汰",
-      "onboard_time": 1663767633,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 654604,
@@ -595,6 +603,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 545091,
+      "num": 371110,
+      "word": "真的会担心王栎鑫的精神状态",
+      "onboard_time": 1663768291,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 531865,
       "num": 531865,
       "word": "亚洲最大医院成绩单",
@@ -617,14 +633,6 @@
       "onboard_time": 1663672772,
       "rank": 21,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 514174,
-      "num": 371110,
-      "word": "真的会担心王栎鑫的精神状态",
-      "onboard_time": 1663768291,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 514116,
@@ -665,14 +673,6 @@
       "onboard_time": 1663737210,
       "rank": 9,
       "category": "科技"
-    },
-    {
-      "raw_hot": 487448,
-      "num": 370149,
-      "word": "马来西亚男子性侵俩女儿被判428年",
-      "onboard_time": 1663768353,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 480408,
@@ -915,6 +915,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 356106,
+      "num": 356106,
+      "word": "妈妈骂人真的很有一套",
+      "onboard_time": 1663765713,
+      "rank": 38,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 352468,
       "num": 352468,
       "word": "昆仑神宫",
@@ -971,12 +979,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 328840,
+      "num": 243564,
+      "word": "脱口秀大会5生存赛又哭又笑",
+      "onboard_time": 1663768894,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 317141,
       "num": 317141,
       "word": "王毅强调当务之急是妥善管控台湾问题",
       "onboard_time": 1663715001,
       "rank": 22,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 317122,
+      "num": 243433,
+      "word": "为什么和父母诉苦会得到双倍痛苦",
+      "onboard_time": 1663768593,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 316388,
@@ -1075,6 +1099,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 300295,
+      "num": 300295,
+      "word": "苹果手表Ultra与S8该怎么选",
+      "onboard_time": 1663767456,
+      "rank": 43,
+      "category": "科技"
+    },
+    {
       "raw_hot": 298430,
       "num": 298430,
       "word": "当代宿舍现状",
@@ -1137,14 +1169,6 @@
       "onboard_time": 1663763733,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 275565,
-      "num": 239253,
-      "word": "脱口秀大会5生存赛又哭又笑",
-      "onboard_time": 1663768894,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 275198,
@@ -1211,14 +1235,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 261453,
-      "num": 261453,
-      "word": "妈妈骂人真的很有一套",
-      "onboard_time": 1663765713,
-      "rank": 38,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 260289,
       "num": 260289,
       "word": "浙江每6人中有1个念过大学",
@@ -1275,6 +1291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243930,
+      "num": 243930,
+      "word": "上戏退役",
+      "onboard_time": 1663769855,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 242993,
       "num": 242993,
       "word": "油价",
@@ -1283,20 +1307,20 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 241836,
+      "num": 241836,
+      "word": "甘宇和父母在医院相见",
+      "onboard_time": 1663767212,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240263,
       "num": 240263,
       "word": "河南一高校通报学信网信息被泄露",
       "onboard_time": 1663730069,
       "rank": 35,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 239313,
-      "num": 239313,
-      "word": "甘宇和父母在医院相见",
-      "onboard_time": 1663767212,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 238248,
@@ -1345,6 +1369,14 @@
       "onboard_time": 1663729348,
       "rank": 28,
       "category": "科技"
+    },
+    {
+      "raw_hot": 229914,
+      "num": 229914,
+      "word": "外交部敦促美军不要再偷油",
+      "onboard_time": 1663769074,
+      "rank": 48,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 228869,
@@ -1467,14 +1499,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 209268,
-      "num": 115684,
-      "word": "为什么和父母诉苦会得到双倍痛苦",
-      "onboard_time": 1663768593,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 208982,
       "num": 208982,
       "word": "甘宇被村民救起后大哭了一场",
@@ -1572,7 +1596,7 @@
     },
     {
       "raw_hot": 199730,
-      "num": 123571,
+      "num": 176364,
       "word": "金晨新剧被偷亲",
       "onboard_time": 1663767152,
       "rank": 41,
@@ -1665,6 +1689,14 @@
       "onboard_time": 1663717403,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172475,
+      "num": 172475,
+      "word": "共情能力强到底好不好",
+      "onboard_time": 1663770154,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 170389,
@@ -1859,6 +1891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134714,
+      "num": 134714,
+      "word": "甘宇和父母重逢不停流泪",
+      "onboard_time": 1663770394,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134493,
       "num": 134493,
       "word": "真诚是打败阴阳怪气的必杀技",
@@ -2011,14 +2051,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 105057,
-      "num": 105057,
-      "word": "苹果手表Ultra与S8该怎么选",
-      "onboard_time": 1663767456,
-      "rank": 43,
-      "category": "科技"
-    },
-    {
       "raw_hot": 103855,
       "num": 103855,
       "word": "九尾又双叒换发色了",
@@ -2033,6 +2065,14 @@
       "onboard_time": 1663693160,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 98840,
+      "num": 98840,
+      "word": "河北一高校叫停线上军训",
+      "onboard_time": 1663770394,
+      "rank": 44,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 95559,
@@ -2059,14 +2099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 88979,
-      "num": 88979,
-      "word": "外交部敦促美军不要再偷油",
-      "onboard_time": 1663769074,
-      "rank": 48,
-      "category": "军事,国内要闻"
-    },
-    {
       "raw_hot": 86361,
       "num": 86361,
       "word": "消防员版马甲线教程",
@@ -2089,6 +2121,22 @@
       "onboard_time": 1663747288,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81917,
+      "num": 81917,
+      "word": "地铁座有污渍两女生默默擦净",
+      "onboard_time": 1663770696,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80638,
+      "num": 86131,
+      "word": "50万以内SUV你选谁",
+      "onboard_time": 1663770096,
+      "rank": 47,
+      "category": "社会议题"
     },
     {
       "raw_hot": 77005,
@@ -2131,6 +2179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 45195,
+      "num": 970253,
+      "word": "中国载人航天高光时刻",
+      "onboard_time": 1663754431,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40340,
       "num": 40340,
       "word": "中国制造出海的能力有多强",
@@ -2144,14 +2200,6 @@
       "word": "河南省夏粮总产量全国第一",
       "onboard_time": 1663691064,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29883,
-      "num": 970253,
-      "word": "中国载人航天高光时刻",
-      "onboard_time": 1663754431,
-      "rank": 14,
       "category": "社会新闻"
     },
     {

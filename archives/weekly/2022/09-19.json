@@ -1,6 +1,6 @@
 {
   "startTime": 1663518759246,
-  "endTime": 1663769340539,
+  "endTime": 1663770743073,
   "band_list": [
     {
       "raw_hot": 8415894,
@@ -251,6 +251,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1922680,
+      "num": 370149,
+      "word": "马来西亚男子性侵俩女儿被判428年",
+      "onboard_time": 1663768353,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1902865,
       "num": 1902865,
       "word": "女研究生休学待产为何引来爹味说教",
@@ -323,6 +331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1718214,
+      "num": 1718214,
+      "word": "杜帝没有妈妈了",
+      "onboard_time": 1663768174,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1717197,
       "num": 1025985,
       "word": "贵阳市三名干部被停职检查",
@@ -377,14 +393,6 @@
       "onboard_time": 1663637125,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1575170,
-      "num": 1575170,
-      "word": "杜帝没有妈妈了",
-      "onboard_time": 1663768174,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 1570518,
@@ -1107,6 +1115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 835453,
+      "num": 835453,
+      "word": "思文 脱口秀太后",
+      "onboard_time": 1663767035,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 827896,
       "num": 827896,
       "word": "北电成立专班调查赵韦弦事件",
@@ -1155,14 +1171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 809362,
-      "num": 809362,
-      "word": "思文 脱口秀太后",
-      "onboard_time": 1663767035,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 799174,
       "num": 799174,
       "word": "人民文娱评苍兰诀走出国门",
@@ -1185,6 +1193,14 @@
       "onboard_time": 1663733731,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 780954,
+      "num": 386239,
+      "word": "Kid淘汰",
+      "onboard_time": 1663767633,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 770506,
@@ -1361,14 +1377,6 @@
       "onboard_time": 1663571067,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 666673,
-      "num": 386239,
-      "word": "Kid淘汰",
-      "onboard_time": 1663767633,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 654917,
@@ -1755,6 +1763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 545091,
+      "num": 371110,
+      "word": "真的会担心王栎鑫的精神状态",
+      "onboard_time": 1663768291,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 543940,
       "num": 543940,
       "word": "BLACKPINK新歌舞台造型",
@@ -1819,14 +1835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 514174,
-      "num": 371110,
-      "word": "真的会担心王栎鑫的精神状态",
-      "onboard_time": 1663768291,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 514116,
       "num": 514116,
       "word": "普京宣布支持顿巴斯等地区公投",
@@ -1889,14 +1897,6 @@
       "onboard_time": 1663737210,
       "rank": 9,
       "category": "科技"
-    },
-    {
-      "raw_hot": 487448,
-      "num": 370149,
-      "word": "马来西亚男子性侵俩女儿被判428年",
-      "onboard_time": 1663768353,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 486225,
@@ -2635,6 +2635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 356106,
+      "num": 356106,
+      "word": "妈妈骂人真的很有一套",
+      "onboard_time": 1663765713,
+      "rank": 38,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 354227,
       "num": 268163,
       "word": "95花的侧颜",
@@ -2811,6 +2819,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 328840,
+      "num": 243564,
+      "word": "脱口秀大会5生存赛又哭又笑",
+      "onboard_time": 1663768894,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 327120,
       "num": 292582,
       "word": "明年待播的古偶剧",
@@ -2873,6 +2889,14 @@
       "onboard_time": 1663715001,
       "rank": 22,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 317122,
+      "num": 243433,
+      "word": "为什么和父母诉苦会得到双倍痛苦",
+      "onboard_time": 1663768593,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 316940,
@@ -3089,6 +3113,14 @@
       "onboard_time": 1663740631,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 300295,
+      "num": 300295,
+      "word": "苹果手表Ultra与S8该怎么选",
+      "onboard_time": 1663767456,
+      "rank": 43,
+      "category": "科技"
     },
     {
       "raw_hot": 298430,
@@ -3363,14 +3395,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 275565,
-      "num": 239253,
-      "word": "脱口秀大会5生存赛又哭又笑",
-      "onboard_time": 1663768894,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 275444,
       "num": 216430,
       "word": "消失的孩子",
@@ -3553,14 +3577,6 @@
       "onboard_time": 1663688130,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 261453,
-      "num": 261453,
-      "word": "妈妈骂人真的很有一套",
-      "onboard_time": 1663765713,
-      "rank": 38,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 261405,
@@ -3795,6 +3811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243930,
+      "num": 243930,
+      "word": "上戏退役",
+      "onboard_time": 1663769855,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 243882,
       "num": 100157,
       "word": "小鬼王琳凯DEADLINE实体专辑",
@@ -3843,6 +3867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241836,
+      "num": 241836,
+      "word": "甘宇和父母在医院相见",
+      "onboard_time": 1663767212,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241585,
       "num": 241585,
       "word": "国内成品油价或迎年内第七跌",
@@ -3881,14 +3913,6 @@
       "onboard_time": 1663556607,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 239313,
-      "num": 239313,
-      "word": "甘宇和父母在医院相见",
-      "onboard_time": 1663767212,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 238596,
@@ -4001,6 +4025,14 @@
       "onboard_time": 1663516831,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229914,
+      "num": 229914,
+      "word": "外交部敦促美军不要再偷油",
+      "onboard_time": 1663769074,
+      "rank": 48,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 229772,
@@ -4315,14 +4347,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 209268,
-      "num": 115684,
-      "word": "为什么和父母诉苦会得到双倍痛苦",
-      "onboard_time": 1663768593,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 208982,
       "num": 208982,
       "word": "甘宇被村民救起后大哭了一场",
@@ -4500,7 +4524,7 @@
     },
     {
       "raw_hot": 199730,
-      "num": 123571,
+      "num": 176364,
       "word": "金晨新剧被偷亲",
       "onboard_time": 1663767152,
       "rank": 41,
@@ -4873,6 +4897,14 @@
       "onboard_time": 1663561111,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 172475,
+      "num": 172475,
+      "word": "共情能力强到底好不好",
+      "onboard_time": 1663770154,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 170775,
@@ -5435,6 +5467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134714,
+      "num": 134714,
+      "word": "甘宇和父母重逢不停流泪",
+      "onboard_time": 1663770394,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134158,
       "num": 134158,
       "word": "张萌新剧拿了月老剧本",
@@ -5843,14 +5883,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 105057,
-      "num": 105057,
-      "word": "苹果手表Ultra与S8该怎么选",
-      "onboard_time": 1663767456,
-      "rank": 43,
-      "category": "科技"
-    },
-    {
       "raw_hot": 101969,
       "num": 101969,
       "word": "河南增本土确诊1例无症状7例",
@@ -5913,6 +5945,14 @@
       "onboard_time": 1663511374,
       "rank": 44,
       "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 98840,
+      "num": 98840,
+      "word": "河北一高校叫停线上军训",
+      "onboard_time": 1663770394,
+      "rank": 44,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 96555,
@@ -5979,14 +6019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 88979,
-      "num": 88979,
-      "word": "外交部敦促美军不要再偷油",
-      "onboard_time": 1663769074,
-      "rank": 48,
-      "category": "军事,国内要闻"
-    },
-    {
       "raw_hot": 87729,
       "num": 87729,
       "word": "微信小程序崩了",
@@ -6027,12 +6059,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 81917,
+      "num": 81917,
+      "word": "地铁座有污渍两女生默默擦净",
+      "onboard_time": 1663770696,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81471,
       "num": 81471,
       "word": "借个东西可太难了",
       "onboard_time": 1663513892,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 80638,
+      "num": 86131,
+      "word": "50万以内SUV你选谁",
+      "onboard_time": 1663770096,
+      "rank": 47,
+      "category": "社会议题"
     },
     {
       "raw_hot": 77618,
@@ -6147,6 +6195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 45195,
+      "num": 970253,
+      "word": "中国载人航天高光时刻",
+      "onboard_time": 1663754431,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40340,
       "num": 40340,
       "word": "中国制造出海的能力有多强",
@@ -6176,14 +6232,6 @@
       "word": "冷空气对广东有点抠",
       "onboard_time": 1663665207,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29883,
-      "num": 970253,
-      "word": "中国载人航天高光时刻",
-      "onboard_time": 1663754431,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
