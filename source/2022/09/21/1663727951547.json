@@ -1,0 +1,410 @@
+{
+  "runTime": 1663727951547,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2096212,
+        "num": 2096212,
+        "word": "刘涛刘宇宁新剧姐弟恋",
+        "onboard_time": 1663727368,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1500309,
+        "num": 1500309,
+        "word": "可不可以不调休",
+        "onboard_time": 1663721069,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17902,
+        "num": 1487164,
+        "word": "丰收的色彩惊艳了秋天",
+        "onboard_time": 1663635331,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1476530,
+        "num": 1476530,
+        "word": "国庆休7上7是种啥体验",
+        "onboard_time": 1663725268,
+        "rank": 3,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 891895,
+        "num": 891895,
+        "word": "女子被骗50万后哭求民警要再转20万",
+        "onboard_time": 1663724848,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 718244,
+        "num": 718244,
+        "word": "电影票不能退改属霸王条款",
+        "onboard_time": 1663724066,
+        "rank": 5,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 692411,
+        "num": 692411,
+        "word": "解放军坚决反制一切威胁挑衅",
+        "onboard_time": 1663726106,
+        "rank": 6,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 618420,
+        "num": 618420,
+        "word": "请不要再美化阿尔茨海默症",
+        "onboard_time": 1663725687,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586897,
+        "num": 586897,
+        "word": "男子骑马回国被多人举报虐待动物",
+        "onboard_time": 1663718668,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 566498,
+        "num": 566498,
+        "word": "Pro机型将占iPhone14出货量65%",
+        "onboard_time": 1663723348,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 899425,
+        "num": 552114,
+        "word": "蔡姓顶流基金经理本周失联",
+        "onboard_time": 1663720831,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 442474,
+        "num": 442474,
+        "word": "2022国庆节放假调休安排",
+        "onboard_time": 1663714279,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434651,
+        "num": 434651,
+        "word": "男子烧毁妻子衣服被判三缓四",
+        "onboard_time": 1663726707,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427420,
+        "num": 427420,
+        "word": "多所高校延长专硕学制至3年",
+        "onboard_time": 1663720590,
+        "rank": 13,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 378993,
+        "num": 378993,
+        "word": "女子体内排出4.95米长绦虫",
+        "onboard_time": 1663667967,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314984,
+        "num": 314984,
+        "word": "iOS16主动粘贴不再弹窗",
+        "onboard_time": 1663721128,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 309527,
+        "num": 309527,
+        "word": "莫斯科交易所宣布将暂停英镑交易",
+        "onboard_time": 1663722450,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 283415,
+        "num": 283415,
+        "word": "当代宿舍现状",
+        "onboard_time": 1663725987,
+        "rank": 17,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 277542,
+        "num": 277542,
+        "word": "张雪峰批明星带娃类综艺",
+        "onboard_time": 1663690288,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263577,
+        "num": 263577,
+        "word": "偷偷藏不住",
+        "onboard_time": 1663727785,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271238,
+        "num": 262436,
+        "word": "翰了汗了",
+        "onboard_time": 1663681595,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258132,
+        "num": 258132,
+        "word": "长月烬明",
+        "onboard_time": 1663727725,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245483,
+        "num": 245483,
+        "word": "风雨浓胭脂乱",
+        "onboard_time": 1663726106,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245386,
+        "num": 245386,
+        "word": "禁售槟榔不仅因为它致癌",
+        "onboard_time": 1663726647,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242993,
+        "num": 242993,
+        "word": "油价",
+        "onboard_time": 1663719329,
+        "rank": 24,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 240737,
+        "num": 240737,
+        "word": "女子取消顺风车后被司机辱骂",
+        "onboard_time": 1663704491,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225350,
+        "num": 225350,
+        "word": "RTX4090",
+        "onboard_time": 1663715661,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 217365,
+        "num": 217365,
+        "word": "吴世勋街头男战士舞台",
+        "onboard_time": 1663716203,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211490,
+        "num": 211490,
+        "word": "95号汽油有望全面降至9元以下",
+        "onboard_time": 1663724727,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 209181,
+        "num": 209181,
+        "word": "夫妻吵架双双落水被17岁少年救起",
+        "onboard_time": 1663725029,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189049,
+        "num": 189049,
+        "word": "一群孩子捡到4岁男童交给警察叔叔",
+        "onboard_time": 1663701673,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187769,
+        "num": 187769,
+        "word": "胡歌是被演员事业耽误的歌手吧",
+        "onboard_time": 1663688189,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 186080,
+        "num": 186080,
+        "word": "谁能顶得住张翰",
+        "onboard_time": 1663672772,
+        "rank": 32,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 178078,
+        "num": 178078,
+        "word": "宠物大闸蟹被煮兄弟俩边吃边哭",
+        "onboard_time": 1663727427,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175219,
+        "num": 175219,
+        "word": "孙海洋女儿出书记录父亲寻子14年",
+        "onboard_time": 1663707430,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170235,
+        "num": 170235,
+        "word": "为什么不建议你劝别人分手",
+        "onboard_time": 1663678891,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168069,
+        "num": 168069,
+        "word": "昆仑神宫节奏",
+        "onboard_time": 1663720231,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166669,
+        "num": 166669,
+        "word": "英雄联盟",
+        "onboard_time": 1663716203,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 165179,
+        "num": 165179,
+        "word": "请各位帅哥正确用脸",
+        "onboard_time": 1663697594,
+        "rank": 38,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 163793,
+        "num": 163793,
+        "word": "北京一男子酒后称后悔结婚",
+        "onboard_time": 1663684831,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163379,
+        "num": 163379,
+        "word": "顿巴斯拟于本周开始入俄公投",
+        "onboard_time": 1663725568,
+        "rank": 40,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 141834,
+        "num": 141834,
+        "word": "北京9月20日本土无新增",
+        "onboard_time": 1663723110,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134246,
+        "num": 134246,
+        "word": "如何维护长期恋爱关系",
+        "onboard_time": 1663725987,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134083,
+        "num": 134083,
+        "word": "河南增1例本土确诊无症状8例",
+        "onboard_time": 1663725088,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131354,
+        "num": 131354,
+        "word": "和室友的差距实在太大了",
+        "onboard_time": 1663688130,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126489,
+        "num": 126489,
+        "word": "李沁新剧手势跟沈腾学的吧",
+        "onboard_time": 1663701011,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119284,
+        "num": 119284,
+        "word": "徐海乔郭晓婷杂志大片",
+        "onboard_time": 1663689988,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 110238,
+        "num": 110238,
+        "word": "59岁大爷沉迷游乐场办年卡玩过山车",
+        "onboard_time": 1663709711,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101045,
+        "num": 101045,
+        "word": "请君在播剧最高分",
+        "onboard_time": 1663696274,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 98907,
+        "num": 98907,
+        "word": "女子帮卖棉花糖满天飞变白发魔女",
+        "onboard_time": 1663703589,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#强国之路正扬帆#"
+    }
+  }
+}

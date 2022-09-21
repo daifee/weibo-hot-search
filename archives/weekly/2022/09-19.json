@@ -1,6 +1,6 @@
 {
   "startTime": 1663518759246,
-  "endTime": 1663717443685,
+  "endTime": 1663727951547,
   "band_list": [
     {
       "raw_hot": 6029244,
@@ -161,6 +161,14 @@
       "onboard_time": 1663598371,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2096212,
+      "num": 2096212,
+      "word": "刘涛刘宇宁新剧姐弟恋",
+      "onboard_time": 1663727368,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 2076337,
@@ -353,6 +361,22 @@
       "onboard_time": 1663637965,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1500309,
+      "num": 1500309,
+      "word": "可不可以不调休",
+      "onboard_time": 1663721069,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1476530,
+      "num": 1476530,
+      "word": "国庆休7上7是种啥体验",
+      "onboard_time": 1663725268,
+      "rank": 3,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 1440108,
@@ -723,11 +747,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 899425,
+      "num": 552114,
+      "word": "蔡姓顶流基金经理本周失联",
+      "onboard_time": 1663720831,
+      "rank": 10,
+      "category": "财经"
+    },
+    {
       "raw_hot": 898247,
       "num": 898247,
       "word": "受害者称杜英哲妻子是帮凶",
       "onboard_time": 1663687471,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 891895,
+      "num": 891895,
+      "word": "女子被骗50万后哭求民警要再转20万",
+      "onboard_time": 1663724848,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -907,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 718244,
+      "num": 718244,
+      "word": "电影票不能退改属霸王条款",
+      "onboard_time": 1663724066,
+      "rank": 5,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 717764,
       "num": 717764,
       "word": "女子没喝酒遇查酒驾却吹出94",
@@ -937,6 +985,14 @@
       "onboard_time": 1663584147,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 692411,
+      "num": 692411,
+      "word": "解放军坚决反制一切威胁挑衅",
+      "onboard_time": 1663726106,
+      "rank": 6,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 686360,
@@ -1024,6 +1080,14 @@
       "word": "男子吸毒后到派出所开无犯罪证明",
       "onboard_time": 1663570768,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 618420,
+      "num": 618420,
+      "word": "请不要再美化阿尔茨海默症",
+      "onboard_time": 1663725687,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -1131,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 586897,
+      "num": 586897,
+      "word": "男子骑马回国被多人举报虐待动物",
+      "onboard_time": 1663718668,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 581369,
       "num": 441184,
       "word": "狐妖小红娘 全是美女",
@@ -1201,6 +1273,14 @@
       "onboard_time": 1663656627,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 566498,
+      "num": 566498,
+      "word": "Pro机型将占iPhone14出货量65%",
+      "onboard_time": 1663723348,
+      "rank": 9,
+      "category": "科技"
     },
     {
       "raw_hot": 566387,
@@ -1523,6 +1603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 434651,
+      "num": 434651,
+      "word": "男子烧毁妻子衣服被判三缓四",
+      "onboard_time": 1663726707,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 433162,
       "num": 433162,
       "word": "张艺兴马来西亚演唱会门票开售",
@@ -1537,6 +1625,14 @@
       "onboard_time": 1663598912,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 427420,
+      "num": 427420,
+      "word": "多所高校延长专硕学制至3年",
+      "onboard_time": 1663720590,
+      "rank": 13,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 420602,
@@ -2115,6 +2211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 314984,
+      "num": 314984,
+      "word": "iOS16主动粘贴不再弹窗",
+      "onboard_time": 1663721128,
+      "rank": 15,
+      "category": "科技"
+    },
+    {
       "raw_hot": 314565,
       "num": 202456,
       "word": "索尼前CEO加入腾讯",
@@ -2145,6 +2249,14 @@
       "onboard_time": 1663595429,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 309527,
+      "num": 309527,
+      "word": "莫斯科交易所宣布将暂停英镑交易",
+      "onboard_time": 1663722450,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 308875,
@@ -2371,6 +2483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283415,
+      "num": 283415,
+      "word": "当代宿舍现状",
+      "onboard_time": 1663725987,
+      "rank": 17,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 283318,
       "num": 283318,
       "word": "罚罪",
@@ -2579,6 +2699,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 263577,
+      "num": 263577,
+      "word": "偷偷藏不住",
+      "onboard_time": 1663727785,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 263361,
       "num": 263361,
       "word": "KARA将11月完整体回归",
@@ -2664,6 +2792,14 @@
       "word": "底线雷星宇是一年级王润泽",
       "onboard_time": 1663601132,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 258132,
+      "num": 258132,
+      "word": "长月烬明",
+      "onboard_time": 1663727725,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -2787,6 +2923,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 245483,
+      "num": 245483,
+      "word": "风雨浓胭脂乱",
+      "onboard_time": 1663726106,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 245386,
+      "num": 245386,
+      "word": "禁售槟榔不仅因为它致癌",
+      "onboard_time": 1663726647,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245098,
       "num": 245098,
       "word": "当代年轻人养生图鉴",
@@ -2833,6 +2985,14 @@
       "onboard_time": 1663683633,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 242993,
+      "num": 242993,
+      "word": "油价",
+      "onboard_time": 1663719329,
+      "rank": 24,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 242831,
@@ -3155,6 +3315,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 211490,
+      "num": 211490,
+      "word": "95号汽油有望全面降至9元以下",
+      "onboard_time": 1663724727,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 210427,
       "num": 183717,
       "word": "星星的约定豆瓣开分8.9",
@@ -3177,6 +3345,14 @@
       "onboard_time": 1663657645,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 209181,
+      "num": 209181,
+      "word": "夫妻吵架双双落水被17岁少年救起",
+      "onboard_time": 1663725029,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208593,
@@ -3507,6 +3683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 178078,
+      "num": 178078,
+      "word": "宠物大闸蟹被煮兄弟俩边吃边哭",
+      "onboard_time": 1663727427,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177853,
       "num": 81990,
       "word": "阿尔茨海默病日",
@@ -3611,6 +3795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168069,
+      "num": 168069,
+      "word": "昆仑神宫节奏",
+      "onboard_time": 1663720231,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 166409,
       "num": 166409,
       "word": "李沁新剧手势跟沈腾学的吧",
@@ -3633,6 +3825,14 @@
       "onboard_time": 1663671030,
       "rank": 34,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 165179,
+      "num": 165179,
+      "word": "请各位帅哥正确用脸",
+      "onboard_time": 1663697594,
+      "rank": 17,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 164755,
@@ -3665,6 +3865,14 @@
       "onboard_time": 1663550548,
       "rank": 35,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 163379,
+      "num": 163379,
+      "word": "顿巴斯拟于本周开始入俄公投",
+      "onboard_time": 1663725568,
+      "rank": 40,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 162097,
@@ -3931,6 +4139,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 141834,
+      "num": 141834,
+      "word": "北京9月20日本土无新增",
+      "onboard_time": 1663723110,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141570,
       "num": 141570,
       "word": "请君",
@@ -4027,12 +4243,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134246,
+      "num": 134246,
+      "word": "如何维护长期恋爱关系",
+      "onboard_time": 1663725987,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 134158,
       "num": 134158,
       "word": "张萌新剧拿了月老剧本",
       "onboard_time": 1663586547,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 134083,
+      "num": 134083,
+      "word": "河南增1例本土确诊无症状8例",
+      "onboard_time": 1663725088,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133847,
@@ -4497,14 +4729,6 @@
       "onboard_time": 1663513955,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 85869,
-      "num": 85869,
-      "word": "请各位帅哥正确用脸",
-      "onboard_time": 1663697594,
-      "rank": 17,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 81471,

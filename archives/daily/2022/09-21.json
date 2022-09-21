@@ -1,7 +1,31 @@
 {
   "startTime": 1663691674200,
-  "endTime": 1663717443685,
+  "endTime": 1663727951547,
   "band_list": [
+    {
+      "raw_hot": 2096212,
+      "num": 2096212,
+      "word": "刘涛刘宇宁新剧姐弟恋",
+      "onboard_time": 1663727368,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1500309,
+      "num": 1500309,
+      "word": "可不可以不调休",
+      "onboard_time": 1663721069,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1476530,
+      "num": 1476530,
+      "word": "国庆休7上7是种啥体验",
+      "onboard_time": 1663725268,
+      "rank": 3,
+      "category": "情感,社会新闻"
+    },
     {
       "raw_hot": 1263240,
       "num": 1263240,
@@ -27,11 +51,27 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 899425,
+      "num": 552114,
+      "word": "蔡姓顶流基金经理本周失联",
+      "onboard_time": 1663720831,
+      "rank": 10,
+      "category": "财经"
+    },
+    {
       "raw_hot": 898247,
       "num": 898247,
       "word": "受害者称杜英哲妻子是帮凶",
       "onboard_time": 1663687471,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 891895,
+      "num": 891895,
+      "word": "女子被骗50万后哭求民警要再转20万",
+      "onboard_time": 1663724848,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -59,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 718244,
+      "num": 718244,
+      "word": "电影票不能退改属霸王条款",
+      "onboard_time": 1663724066,
+      "rank": 5,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 709356,
       "num": 273531,
       "word": "翰了汗了",
@@ -67,11 +115,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 692411,
+      "num": 692411,
+      "word": "解放军坚决反制一切威胁挑衅",
+      "onboard_time": 1663726106,
+      "rank": 6,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 676757,
       "num": 676757,
       "word": "北京一男子酒后称后悔结婚",
       "onboard_time": 1663684831,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 618420,
+      "num": 618420,
+      "word": "请不要再美化阿尔茨海默症",
+      "onboard_time": 1663725687,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -99,12 +163,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 586897,
+      "num": 586897,
+      "word": "男子骑马回国被多人举报虐待动物",
+      "onboard_time": 1663718668,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 579506,
       "num": 579506,
       "word": "吴世勋街头男战士舞台",
       "onboard_time": 1663716203,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 566498,
+      "num": 566498,
+      "word": "Pro机型将占iPhone14出货量65%",
+      "onboard_time": 1663723348,
+      "rank": 9,
+      "category": "科技"
     },
     {
       "raw_hot": 559015,
@@ -137,6 +217,22 @@
       "onboard_time": 1663688789,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 434651,
+      "num": 434651,
+      "word": "男子烧毁妻子衣服被判三缓四",
+      "onboard_time": 1663726707,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 427420,
+      "num": 427420,
+      "word": "多所高校延长专硕学制至3年",
+      "onboard_time": 1663720590,
+      "rank": 13,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 412639,
@@ -195,6 +291,22 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 314984,
+      "num": 314984,
+      "word": "iOS16主动粘贴不再弹窗",
+      "onboard_time": 1663721128,
+      "rank": 15,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 309527,
+      "num": 309527,
+      "word": "莫斯科交易所宣布将暂停英镑交易",
+      "onboard_time": 1663722450,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 305840,
       "num": 305840,
       "word": "游客爬完黄山下楼梯似丧尸集体出动",
@@ -227,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283415,
+      "num": 283415,
+      "word": "当代宿舍现状",
+      "onboard_time": 1663725987,
+      "rank": 17,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 278705,
       "num": 278705,
       "word": "全面禁售槟榔该下决心了",
@@ -251,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 263577,
+      "num": 263577,
+      "word": "偷偷藏不住",
+      "onboard_time": 1663727785,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 261467,
       "num": 261467,
       "word": "和室友的差距实在太大了",
@@ -267,12 +395,44 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 258132,
+      "num": 258132,
+      "word": "长月烬明",
+      "onboard_time": 1663727725,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 255876,
       "num": 255876,
       "word": "一群孩子捡到4岁男童交给警察叔叔",
       "onboard_time": 1663701673,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245483,
+      "num": 245483,
+      "word": "风雨浓胭脂乱",
+      "onboard_time": 1663726106,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 245386,
+      "num": 245386,
+      "word": "禁售槟榔不仅因为它致癌",
+      "onboard_time": 1663726647,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242993,
+      "num": 242993,
+      "word": "油价",
+      "onboard_time": 1663719329,
+      "rank": 24,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 237267,
@@ -315,6 +475,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 211490,
+      "num": 211490,
+      "word": "95号汽油有望全面降至9元以下",
+      "onboard_time": 1663724727,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 209181,
+      "num": 209181,
+      "word": "夫妻吵架双双落水被17岁少年救起",
+      "onboard_time": 1663725029,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207233,
       "num": 207233,
       "word": "女子帮卖棉花糖满天飞变白发魔女",
@@ -339,6 +515,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 178078,
+      "num": 178078,
+      "word": "宠物大闸蟹被煮兄弟俩边吃边哭",
+      "onboard_time": 1663727427,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177853,
       "num": 81990,
       "word": "阿尔茨海默病日",
@@ -355,12 +539,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168069,
+      "num": 168069,
+      "word": "昆仑神宫节奏",
+      "onboard_time": 1663720231,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 166409,
       "num": 166409,
       "word": "李沁新剧手势跟沈腾学的吧",
       "onboard_time": 1663701011,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 165179,
+      "num": 165179,
+      "word": "请各位帅哥正确用脸",
+      "onboard_time": 1663697594,
+      "rank": 17,
+      "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 163379,
+      "num": 163379,
+      "word": "顿巴斯拟于本周开始入俄公投",
+      "onboard_time": 1663725568,
+      "rank": 40,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 160704,
@@ -419,12 +627,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 141834,
+      "num": 141834,
+      "word": "北京9月20日本土无新增",
+      "onboard_time": 1663723110,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134493,
       "num": 134493,
       "word": "真诚是打败阴阳怪气的必杀技",
       "onboard_time": 1663683633,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 134246,
+      "num": 134246,
+      "word": "如何维护长期恋爱关系",
+      "onboard_time": 1663725987,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 134083,
+      "num": 134083,
+      "word": "河南增1例本土确诊无症状8例",
+      "onboard_time": 1663725088,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132757,
@@ -523,14 +755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 85869,
-      "num": 85869,
-      "word": "请各位帅哥正确用脸",
-      "onboard_time": 1663697594,
-      "rank": 17,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 84713,
       "num": 84713,
       "word": "如何停止过度焦虑",
@@ -604,7 +828,7 @@
     },
     {
       "raw_hot": 19273,
-      "num": 883527,
+      "num": 1487164,
       "word": "丰收的色彩惊艳了秋天",
       "onboard_time": 1663635331,
       "rank": 2,
