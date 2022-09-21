@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/19 00:32:39 ~ 2022/09/22 00:37:11
+本榜单时间：2022/09/19 00:32:39 ~ 2022/09/22 01:04:51
 </p>
 </blockquote>
 <p>
@@ -159,6 +159,12 @@ IU耳朵出问题已长达1年（热度：2277556）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E7%94%B5%E8%B5%B5%E9%9F%A6%E5%BC%A6%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
+北电赵韦弦被刑拘（热度：2150709）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E7%94%B7%E5%AD%90%E6%80%A7%E4%BE%B5%E4%BF%A9%E5%A5%B3%E5%84%BF%E8%A2%AB%E5%88%A4428%E5%B9%B4%23" target="weibo">
 马来西亚男子性侵俩女儿被判428年（热度：2102861）
 </a>
@@ -203,12 +209,6 @@ IU耳朵出问题已长达1年（热度：2277556）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A1%BA%E4%B8%B0%E4%BF%9D%E4%BB%B71.8%E4%B8%87%E7%9A%84%E5%8D%95%E5%AD%90%E5%8F%AA%E8%B5%94500%23" target="weibo">
 顺丰保价1.8万的单子只赔500（热度：1972549）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E7%94%B5%E8%B5%B5%E9%9F%A6%E5%BC%A6%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
-北电赵韦弦被刑拘（热度：1931074）
 </a>
 </li>
 
@@ -1065,6 +1065,12 @@ Kid淘汰（热度：780954）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E7%94%B5%E5%9B%9E%E5%BA%94%E8%B5%B5%E9%9F%A6%E5%BC%A6%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
+北电回应赵韦弦被刑拘（热度：690814）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E9%95%BF%E7%9B%B8%E6%80%9D%E5%A4%A7%E5%A9%9A%E8%B7%AF%E9%80%8F%23" target="weibo">
 杨紫长相思大婚路透（热度：686360）
 </a>
@@ -1121,12 +1127,6 @@ Uzi（热度：644027）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%A2%96%E9%A9%AC%E5%A4%A9%E5%AE%87%E5%90%BB%E6%88%8F%23" target="weibo">
 杨颖马天宇吻戏（热度：638005）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E7%94%B5%E5%9B%9E%E5%BA%94%E8%B5%B5%E9%9F%A6%E5%BC%A6%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
-北电回应赵韦弦被刑拘（热度：637737）
 </a>
 </li>
 

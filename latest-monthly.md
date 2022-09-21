@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/22 00:37:11
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/22 01:04:51
 </p>
 </blockquote>
 <p>
@@ -1263,6 +1263,12 @@ IU耳朵出问题已长达1年（热度：2277556）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E7%94%B5%E8%B5%B5%E9%9F%A6%E5%BC%A6%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
+北电赵韦弦被刑拘（热度：2150709）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%A7%E5%A6%87%E5%87%8C%E6%99%A8%E5%9C%A8%E5%AE%B6%E6%99%95%E5%80%92%E5%91%BC%E5%90%B8%E5%81%9C%E6%AD%A2%23" target="weibo">
 产妇凌晨在家晕倒呼吸停止（热度：2149536）
 </a>
@@ -1577,12 +1583,6 @@ Doinb升级当爸爸（热度：2008327）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E6%82%A3%E5%B0%BF%E6%AF%92%E7%97%87%E4%B8%88%E5%A4%AB3%E6%AC%A1%E8%B5%B7%E8%AF%89%E7%A6%BB%E5%A9%9A%E8%8E%B7%E5%87%86%23" target="weibo">
 妻子患尿毒症丈夫3次起诉离婚获准（热度：1931589）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E7%94%B5%E8%B5%B5%E9%9F%A6%E5%BC%A6%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
-北电赵韦弦被刑拘（热度：1931074）
 </a>
 </li>
 
