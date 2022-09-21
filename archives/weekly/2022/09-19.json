@@ -1,6 +1,6 @@
 {
   "startTime": 1663518759246,
-  "endTime": 1663752390868,
+  "endTime": 1663753465062,
   "band_list": [
     {
       "raw_hot": 8415894,
@@ -699,11 +699,27 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 1072529,
+      "num": 1072529,
+      "word": "这175家都是假央企",
+      "onboard_time": 1663748670,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1070564,
       "num": 555197,
       "word": "男子烧毁妻子衣服被判三缓四",
       "onboard_time": 1663726707,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1063604,
+      "num": 414279,
+      "word": "杜高",
+      "onboard_time": 1663748429,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -713,6 +729,14 @@
       "onboard_time": 1663549465,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1057576,
+      "num": 293475,
+      "word": "张翰让我戒掉了手机",
+      "onboard_time": 1663752271,
+      "rank": 20,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 1056616,
@@ -728,14 +752,6 @@
       "word": "喝碳酸饮料半小时后再刷牙",
       "onboard_time": 1663635746,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1047239,
-      "num": 414279,
-      "word": "杜高",
-      "onboard_time": 1663748429,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1057,14 +1073,6 @@
       "onboard_time": 1663733731,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 779891,
-      "num": 779891,
-      "word": "这175家都是假央企",
-      "onboard_time": 1663748670,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 770506,
@@ -1924,7 +1932,7 @@
     },
     {
       "raw_hot": 423742,
-      "num": 350832,
+      "num": 353782,
       "word": "龚俊掀头纱镜头",
       "onboard_time": 1663749447,
       "rank": 22,
@@ -1971,6 +1979,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 417287,
+      "num": 389992,
+      "word": "点外卖备注要个鸭屁股喂狗被赠2斤",
+      "onboard_time": 1663751794,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 416048,
+      "num": 416048,
+      "word": "安乐传滤镜",
+      "onboard_time": 1663751610,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 414701,
       "num": 414701,
       "word": "重庆市发现1例境外输入猴痘病例",
@@ -1993,6 +2017,14 @@
       "onboard_time": 1663678711,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 411044,
+      "num": 411044,
+      "word": "护士拦停失控公交救下脑出血司机",
+      "onboard_time": 1663748127,
+      "rank": 41,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 410745,
@@ -2099,12 +2131,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 388567,
+      "num": 388567,
+      "word": "坤音娱乐说这辈子没怕过谁",
+      "onboard_time": 1663751910,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 385856,
       "num": 385856,
       "word": "九尾又双叒换发色了",
       "onboard_time": 1663673733,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 385061,
+      "num": 385061,
+      "word": "被贵州烤鸡馋到了",
+      "onboard_time": 1663751250,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 383957,
@@ -2201,14 +2249,6 @@
       "onboard_time": 1663638267,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 377770,
-      "num": 377770,
-      "word": "护士拦停失控公交救下脑出血司机",
-      "onboard_time": 1663748127,
-      "rank": 41,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 376607,
@@ -2379,14 +2419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 350091,
-      "num": 350091,
-      "word": "坤音娱乐说这辈子没怕过谁",
-      "onboard_time": 1663751910,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 348678,
       "num": 348678,
       "word": "猫猫是怎么表达肚子疼的",
@@ -2481,14 +2513,6 @@
       "onboard_time": 1663503090,
       "rank": 16,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 334731,
-      "num": 293475,
-      "word": "张翰让我戒掉了手机",
-      "onboard_time": 1663752271,
-      "rank": 20,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 334550,
@@ -2643,6 +2667,14 @@
       "category": "游戏,科技"
     },
     {
+      "raw_hot": 313719,
+      "num": 281585,
+      "word": "成毅新剧咪咕播放量破亿",
+      "onboard_time": 1663752151,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 311860,
       "num": 305893,
       "word": "王俊凯说我们目标是把同胞带回家",
@@ -2664,14 +2696,6 @@
       "word": "狐妖小红娘",
       "onboard_time": 1663595429,
       "rank": 29,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 310011,
-      "num": 291355,
-      "word": "安乐传滤镜",
-      "onboard_time": 1663751610,
-      "rank": 21,
       "category": "影视"
     },
     {
@@ -2875,14 +2899,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 291556,
-      "num": 273970,
-      "word": "成毅新剧咪咕播放量破亿",
-      "onboard_time": 1663752151,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 291551,
       "num": 291551,
       "word": "万里归途王俊凯心脏复苏花絮",
@@ -2897,14 +2913,6 @@
       "onboard_time": 1663692921,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 289218,
-      "num": 289218,
-      "word": "被贵州烤鸡馋到了",
-      "onboard_time": 1663751250,
-      "rank": 23,
-      "category": "美食"
     },
     {
       "raw_hot": 288708,
@@ -3715,6 +3723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 227152,
+      "num": 227152,
+      "word": "21岁送外卖单亲妈妈回应",
+      "onboard_time": 1663752392,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227028,
       "num": 227028,
       "word": "潮汕生腌的正确打开方式",
@@ -3761,6 +3777,14 @@
       "onboard_time": 1663630584,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 222992,
+      "num": 222992,
+      "word": "原来养猫真的会上瘾",
+      "onboard_time": 1663751310,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 222591,
@@ -4067,14 +4091,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 198434,
-      "num": 198434,
-      "word": "原来养猫真的会上瘾",
-      "onboard_time": 1663751310,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 198294,
       "num": 198294,
       "word": "女友视角的张翰",
@@ -4097,14 +4113,6 @@
       "onboard_time": 1663570048,
       "rank": 29,
       "category": "财经"
-    },
-    {
-      "raw_hot": 197718,
-      "num": 197718,
-      "word": "点外卖备注要个鸭屁股喂狗被赠2斤",
-      "onboard_time": 1663751794,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196398,
@@ -4185,6 +4193,14 @@
       "onboard_time": 1663599631,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 188271,
+      "num": 188271,
+      "word": "爷爷第一次进城见孙子一脸宠溺",
+      "onboard_time": 1663750948,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187858,
@@ -4563,6 +4579,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 163230,
+      "num": 163230,
+      "word": "成都世乒赛团体赛将组织观众观赛",
+      "onboard_time": 1663751910,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162097,
       "num": 162097,
       "word": "李政宰确诊新冠",
@@ -4771,6 +4795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 146053,
+      "num": 146053,
+      "word": "郑钦文",
+      "onboard_time": 1663752928,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146010,
       "num": 146010,
       "word": "原来小猫咪也会羡慕",
@@ -4899,14 +4931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138143,
-      "num": 138143,
-      "word": "成都世乒赛团体赛将组织观众观赛",
-      "onboard_time": 1663751910,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 136771,
       "num": 148926,
       "word": "百度糯米APP关停",
@@ -5019,6 +5043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131109,
+      "num": 131109,
+      "word": "肖思远母亲送小儿子入伍的一幕看哭",
+      "onboard_time": 1663752151,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129134,
       "num": 129134,
       "word": "研究称肠道微生物随人类一同进化",
@@ -5091,14 +5123,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 123987,
-      "num": 123987,
-      "word": "爷爷第一次进城见孙子一脸宠溺",
-      "onboard_time": 1663750948,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 123884,
       "num": 93537,
       "word": "有被这样的人生态度开解到",
@@ -5121,14 +5145,6 @@
       "onboard_time": 1663557447,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 121014,
-      "num": 121014,
-      "word": "肖思远母亲送小儿子入伍的一幕看哭",
-      "onboard_time": 1663752151,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 120907,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1663753465062,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1072529,
+        "num": 1072529,
+        "word": "这175家都是假央企",
+        "onboard_time": 1663748670,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 981922,
+        "num": 981922,
+        "word": "俄罗斯宣布进行部分动员",
+        "onboard_time": 1663741889,
+        "rank": 1,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 56906,
+        "num": 872421,
+        "word": "普通人故事里的非凡十年",
+        "onboard_time": 1663743806,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 859558,
+        "num": 859558,
+        "word": "研究发现男性当爹大脑皮层会萎缩",
+        "onboard_time": 1663743568,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 825481,
+        "num": 825481,
+        "word": "优酷今天好多剧",
+        "onboard_time": 1663731388,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 604649,
+        "num": 604649,
+        "word": "国产电视剧片头统一标识",
+        "onboard_time": 1663747710,
+        "rank": 5,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 604201,
+        "num": 604201,
+        "word": "农村老人说有厕所孩子更愿回家了",
+        "onboard_time": 1663743989,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442656,
+        "num": 442656,
+        "word": "俄称5937名俄军官兵牺牲",
+        "onboard_time": 1663744470,
+        "rank": 7,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 416048,
+        "num": 416048,
+        "word": "安乐传滤镜",
+        "onboard_time": 1663751610,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 411044,
+        "num": 411044,
+        "word": "护士拦停失控公交救下脑出血司机",
+        "onboard_time": 1663748127,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1196567,
+        "num": 409249,
+        "word": "内娱经纪公司互放狠话",
+        "onboard_time": 1663747768,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1063604,
+        "num": 406171,
+        "word": "杜高",
+        "onboard_time": 1663748429,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 722932,
+        "num": 402635,
+        "word": "男子隐瞒已婚与他人同居生子",
+        "onboard_time": 1663743387,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 627634,
+        "num": 397509,
+        "word": "女子网购毒蛇被咬致死家属获赔33万",
+        "onboard_time": 1663743209,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575843,
+        "num": 394797,
+        "word": "国庆休7上7是种啥体验",
+        "onboard_time": 1663725268,
+        "rank": 14,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 417287,
+        "num": 389992,
+        "word": "点外卖备注要个鸭屁股喂狗被赠2斤",
+        "onboard_time": 1663751794,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388567,
+        "num": 388567,
+        "word": "坤音娱乐说这辈子没怕过谁",
+        "onboard_time": 1663751910,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385061,
+        "num": 385061,
+        "word": "被贵州烤鸡馋到了",
+        "onboard_time": 1663751250,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 353782,
+        "num": 353782,
+        "word": "龚俊掀头纱镜头",
+        "onboard_time": 1663749447,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 303146,
+        "num": 303146,
+        "word": "普京宣布支持顿巴斯等地区公投",
+        "onboard_time": 1663744707,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1057576,
+        "num": 289641,
+        "word": "张翰让我戒掉了手机",
+        "onboard_time": 1663752271,
+        "rank": 20,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 313719,
+        "num": 281585,
+        "word": "成毅新剧咪咕播放量破亿",
+        "onboard_time": 1663752151,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271490,
+        "num": 271490,
+        "word": "法大32名研究生放弃入学资格",
+        "onboard_time": 1663736972,
+        "rank": 22,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 260314,
+        "num": 260314,
+        "word": "王鹤棣密逃4惊心offer下高清剧照",
+        "onboard_time": 1663748727,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233655,
+        "num": 233655,
+        "word": "iPhone14ProMax创最长发货时间",
+        "onboard_time": 1663737210,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 233088,
+        "num": 233088,
+        "word": "戈娅危途狂花皮肤",
+        "onboard_time": 1663750890,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 227318,
+        "num": 227318,
+        "word": "泰迪被2只杜高撕咬主人跪地呼救",
+        "onboard_time": 1663735834,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227152,
+        "num": 227152,
+        "word": "21岁送外卖单亲妈妈回应",
+        "onboard_time": 1663752392,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222992,
+        "num": 222992,
+        "word": "原来养猫真的会上瘾",
+        "onboard_time": 1663751310,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204752,
+        "num": 204752,
+        "word": "男子蹲马桶点烟引甲烷爆燃",
+        "onboard_time": 1663740991,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256567,
+        "num": 204228,
+        "word": "赵露思桑稚校服造型花絮照",
+        "onboard_time": 1663746271,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188271,
+        "num": 188271,
+        "word": "爷爷第一次进城见孙子一脸宠溺",
+        "onboard_time": 1663750948,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185900,
+        "num": 185900,
+        "word": "两岸和平统一将给台湾同胞带来实实在在的好处",
+        "onboard_time": 1663735773,
+        "rank": 32,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 165900,
+        "num": 165900,
+        "word": "四川村民徒步找到甘宇",
+        "onboard_time": 1663746450,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163230,
+        "num": 163230,
+        "word": "成都世乒赛团体赛将组织观众观赛",
+        "onboard_time": 1663751910,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162430,
+        "num": 162430,
+        "word": "如何看待研究生录而不读",
+        "onboard_time": 1663742367,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 152579,
+        "num": 152579,
+        "word": "孙红雷说张艺兴是五心好友",
+        "onboard_time": 1663735111,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149611,
+        "num": 149611,
+        "word": "杨迪已经把恋综看穿了",
+        "onboard_time": 1663745729,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146053,
+        "num": 146053,
+        "word": "郑钦文",
+        "onboard_time": 1663752928,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142275,
+        "num": 142275,
+        "word": "安乐传配音",
+        "onboard_time": 1663745609,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139740,
+        "num": 139740,
+        "word": "女孩对爱情的态度有多清醒",
+        "onboard_time": 1663746751,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131109,
+        "num": 131109,
+        "word": "肖思远母亲送小儿子入伍的一幕看哭",
+        "onboard_time": 1663752151,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126466,
+        "num": 126466,
+        "word": "两不疑第二季定档",
+        "onboard_time": 1663740631,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 119779,
+        "num": 119779,
+        "word": "甘宇回应失联17天后获救",
+        "onboard_time": 1663745007,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112209,
+        "num": 112209,
+        "word": "44年前他独自解说了整届世界杯",
+        "onboard_time": 1663749268,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111791,
+        "num": 111791,
+        "word": "韩国菜价飙涨中国泡菜成救兵",
+        "onboard_time": 1663731505,
+        "rank": 45,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 111436,
+        "num": 111436,
+        "word": "陈奕迅巡回演唱会官宣",
+        "onboard_time": 1663733853,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 110264,
+        "num": 110264,
+        "word": "长月烬明",
+        "onboard_time": 1663727725,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 106747,
+        "num": 106747,
+        "word": "一名男子在日本首相官邸附近自焚",
+        "onboard_time": 1663742249,
+        "rank": 48,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 106648,
+        "num": 106648,
+        "word": "论爸爸喂猫能有多反骨",
+        "onboard_time": 1663744110,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定文化自信建设文化强国#"
+    }
+  }
+}

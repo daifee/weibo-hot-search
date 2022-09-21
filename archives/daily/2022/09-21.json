@@ -1,6 +1,6 @@
 {
   "startTime": 1663691674200,
-  "endTime": 1663752390868,
+  "endTime": 1663753465062,
   "band_list": [
     {
       "raw_hot": 8415894,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1072529,
+      "num": 1072529,
+      "word": "这175家都是假央企",
+      "onboard_time": 1663748670,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1070564,
       "num": 555197,
       "word": "男子烧毁妻子衣服被判三缓四",
@@ -163,12 +171,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1047239,
+      "raw_hot": 1063604,
       "num": 414279,
       "word": "杜高",
       "onboard_time": 1663748429,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1057576,
+      "num": 293475,
+      "word": "张翰让我戒掉了手机",
+      "onboard_time": 1663752271,
+      "rank": 20,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 1024527,
@@ -289,14 +305,6 @@
       "onboard_time": 1663733731,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 779891,
-      "num": 779891,
-      "word": "这175家都是假央企",
-      "onboard_time": 1663748670,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 740566,
@@ -524,7 +532,7 @@
     },
     {
       "raw_hot": 423742,
-      "num": 350832,
+      "num": 353782,
       "word": "龚俊掀头纱镜头",
       "onboard_time": 1663749447,
       "rank": 22,
@@ -539,12 +547,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 417287,
+      "num": 389992,
+      "word": "点外卖备注要个鸭屁股喂狗被赠2斤",
+      "onboard_time": 1663751794,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 416048,
+      "num": 416048,
+      "word": "安乐传滤镜",
+      "onboard_time": 1663751610,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 412639,
       "num": 377669,
       "word": "徐海乔郭晓婷杂志大片",
       "onboard_time": 1663689988,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 411044,
+      "num": 411044,
+      "word": "护士拦停失控公交救下脑出血司机",
+      "onboard_time": 1663748127,
+      "rank": 41,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 401980,
@@ -579,20 +611,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 388567,
+      "num": 388567,
+      "word": "坤音娱乐说这辈子没怕过谁",
+      "onboard_time": 1663751910,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 385061,
+      "num": 385061,
+      "word": "被贵州烤鸡馋到了",
+      "onboard_time": 1663751250,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 381435,
       "num": 381435,
       "word": "59岁大爷沉迷游乐场办年卡玩过山车",
       "onboard_time": 1663709711,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 377770,
-      "num": 377770,
-      "word": "护士拦停失控公交救下脑出血司机",
-      "onboard_time": 1663748127,
-      "rank": 41,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 371031,
@@ -627,14 +667,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 350091,
-      "num": 350091,
-      "word": "坤音娱乐说这辈子没怕过谁",
-      "onboard_time": 1663751910,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 348131,
       "num": 348131,
       "word": "安乐传配音",
@@ -657,14 +689,6 @@
       "onboard_time": 1663732410,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 334731,
-      "num": 293475,
-      "word": "张翰让我戒掉了手机",
-      "onboard_time": 1663752271,
-      "rank": 20,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 331831,
@@ -715,11 +739,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 310011,
-      "num": 291355,
-      "word": "安乐传滤镜",
-      "onboard_time": 1663751610,
-      "rank": 21,
+      "raw_hot": 313719,
+      "num": 281585,
+      "word": "成毅新剧咪咕播放量破亿",
+      "onboard_time": 1663752151,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -795,28 +819,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 291556,
-      "num": 273970,
-      "word": "成毅新剧咪咕播放量破亿",
-      "onboard_time": 1663752151,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 290088,
       "num": 290088,
       "word": "河南一大学招聘洗刷工限30岁以下",
       "onboard_time": 1663692921,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 289218,
-      "num": 289218,
-      "word": "被贵州烤鸡馋到了",
-      "onboard_time": 1663751250,
-      "rank": 23,
-      "category": "美食"
     },
     {
       "raw_hot": 284640,
@@ -987,12 +995,28 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 227152,
+      "num": 227152,
+      "word": "21岁送外卖单亲妈妈回应",
+      "onboard_time": 1663752392,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227028,
       "num": 227028,
       "word": "潮汕生腌的正确打开方式",
       "onboard_time": 1663745850,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 222992,
+      "num": 222992,
+      "word": "原来养猫真的会上瘾",
+      "onboard_time": 1663751310,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 221907,
@@ -1123,28 +1147,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 198434,
-      "num": 198434,
-      "word": "原来养猫真的会上瘾",
-      "onboard_time": 1663751310,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 197718,
-      "num": 197718,
-      "word": "点外卖备注要个鸭屁股喂狗被赠2斤",
-      "onboard_time": 1663751794,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 193991,
       "num": 193991,
       "word": "女孩对爱情的态度有多清醒",
       "onboard_time": 1663746751,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 188271,
+      "num": 188271,
+      "word": "爷爷第一次进城见孙子一脸宠溺",
+      "onboard_time": 1663750948,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185390,
@@ -1275,6 +1291,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 163230,
+      "num": 163230,
+      "word": "成都世乒赛团体赛将组织观众观赛",
+      "onboard_time": 1663751910,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160704,
       "num": 138848,
       "word": "乌鲁木齐疫情防控",
@@ -1347,6 +1371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146053,
+      "num": 146053,
+      "word": "郑钦文",
+      "onboard_time": 1663752928,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142151,
       "num": 142151,
       "word": "原来自信的样子真的最美",
@@ -1361,14 +1393,6 @@
       "onboard_time": 1663723110,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 138143,
-      "num": 138143,
-      "word": "成都世乒赛团体赛将组织观众观赛",
-      "onboard_time": 1663751910,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 134493,
@@ -1395,20 +1419,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131109,
+      "num": 131109,
+      "word": "肖思远母亲送小儿子入伍的一幕看哭",
+      "onboard_time": 1663752151,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124900,
       "num": 124900,
       "word": "44年前他独自解说了整届世界杯",
       "onboard_time": 1663749268,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 123987,
-      "num": 123987,
-      "word": "爷爷第一次进城见孙子一脸宠溺",
-      "onboard_time": 1663750948,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 123168,
@@ -1425,14 +1449,6 @@
       "onboard_time": 1663678770,
       "rank": 37,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 121014,
-      "num": 121014,
-      "word": "肖思远母亲送小儿子入伍的一幕看哭",
-      "onboard_time": 1663752151,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 120907,
