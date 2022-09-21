@@ -1,0 +1,410 @@
+{
+  "runTime": 1663781720627,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 208619,
+        "num": 208619,
+        "word": "张予曦疯狂报班只为演好戏",
+        "onboard_time": 1663771534,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172803,
+        "num": 172803,
+        "word": "情侣吵架是全国统一的吧",
+        "onboard_time": 1663772615,
+        "rank": 1,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 9315,
+        "num": 149216,
+        "word": "中国载人航天高光时刻",
+        "onboard_time": 1663754431,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226776,
+        "num": 147089,
+        "word": "武艺一出现就有新笑料",
+        "onboard_time": 1663776806,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185791,
+        "num": 144506,
+        "word": "吴世勋为张艺兴新歌面纱打call",
+        "onboard_time": 1663773032,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 140903,
+        "num": 140903,
+        "word": "日式快餐为什么不火了",
+        "onboard_time": 1663760008,
+        "rank": 5,
+        "category": "社会新闻,社会新闻"
+      },
+      {
+        "raw_hot": 137242,
+        "num": 137242,
+        "word": "广外招生增章",
+        "onboard_time": 1663774771,
+        "rank": 6,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 123379,
+        "num": 123379,
+        "word": "地铁座有污渍两女生默默擦净",
+        "onboard_time": 1663770696,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106478,
+        "num": 106478,
+        "word": "华为Mate50系列黄牛最高加价8000",
+        "onboard_time": 1663774291,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 91830,
+        "num": 91830,
+        "word": "外交部敦促美军不要再偷油",
+        "onboard_time": 1663769074,
+        "rank": 9,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 1634711,
+        "num": 91780,
+        "word": "北电赵韦弦被刑拘",
+        "onboard_time": 1663776088,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459106,
+        "num": 91684,
+        "word": "北电回应赵韦弦被刑拘",
+        "onboard_time": 1663775670,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379117,
+        "num": 91654,
+        "word": "马来西亚男子性侵俩女儿被判428年",
+        "onboard_time": 1663768353,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338351,
+        "num": 91542,
+        "word": "黄晓明一直在听取观众意见",
+        "onboard_time": 1663774052,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 230775,
+        "num": 91422,
+        "word": "离婚梗",
+        "onboard_time": 1663772313,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108916,
+        "num": 91342,
+        "word": "我读研一年都学会了什么",
+        "onboard_time": 1663755090,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120154,
+        "num": 91261,
+        "word": "Kid淘汰",
+        "onboard_time": 1663767633,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91215,
+        "num": 91215,
+        "word": "女子2折出售迪士尼年卡卷走1300万",
+        "onboard_time": 1663759469,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81191,
+        "num": 81191,
+        "word": "c63",
+        "onboard_time": 1663773393,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 78452,
+        "num": 78452,
+        "word": "老师和家长都沉默了",
+        "onboard_time": 1663772135,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164537,
+        "num": 76999,
+        "word": "张翰让我戒掉了手机",
+        "onboard_time": 1663752271,
+        "rank": 20,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 80368,
+        "num": 76906,
+        "word": "苍兰诀角色号微博藏头诗",
+        "onboard_time": 1663765772,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 75197,
+        "num": 75197,
+        "word": "女孩酷爱躺着玩手机双眼无法聚焦",
+        "onboard_time": 1663756831,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74059,
+        "num": 74059,
+        "word": "为什么和父母诉苦会得到双倍痛苦",
+        "onboard_time": 1663768593,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 69856,
+        "num": 69856,
+        "word": "北京一大学全班只有一个男生",
+        "onboard_time": 1663759232,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 59952,
+        "num": 59952,
+        "word": "再催婚就不礼貌了",
+        "onboard_time": 1663759469,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 59441,
+        "num": 59441,
+        "word": "罗勇 甘宇",
+        "onboard_time": 1663772615,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59242,
+        "num": 59242,
+        "word": "专硕学制延长至3年是否必要",
+        "onboard_time": 1663762771,
+        "rank": 27,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 53091,
+        "num": 53091,
+        "word": "苹果手表Ultra与S8该怎么选",
+        "onboard_time": 1663767456,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 49181,
+        "num": 49181,
+        "word": "上戏退役",
+        "onboard_time": 1663769855,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 68467,
+        "num": 49169,
+        "word": "思文 脱口秀太后",
+        "onboard_time": 1663767035,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62148,
+        "num": 49141,
+        "word": "苏有朋这张嘴怎么没长我身上",
+        "onboard_time": 1663761147,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 61854,
+        "num": 49116,
+        "word": "一眼沦陷的神级美图",
+        "onboard_time": 1663764036,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 55614,
+        "num": 49104,
+        "word": "真的会担心王栎鑫的精神状态",
+        "onboard_time": 1663768291,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 49081,
+        "num": 49081,
+        "word": "点外卖备注要个鸭屁股喂狗被赠2斤",
+        "onboard_time": 1663751794,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46148,
+        "num": 46148,
+        "word": "丹麦女王新冠病毒检测结果再次呈阳性",
+        "onboard_time": 1663761570,
+        "rank": 35,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 46014,
+        "num": 46014,
+        "word": "外交部回应普京俄乌局势最新言论",
+        "onboard_time": 1663756051,
+        "rank": 36,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 45311,
+        "num": 45311,
+        "word": "河北一高校叫停线上军训",
+        "onboard_time": 1663770394,
+        "rank": 37,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 45136,
+        "num": 45136,
+        "word": "男子开面包车拉了40头小猪上高速",
+        "onboard_time": 1663763852,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44750,
+        "num": 44750,
+        "word": "当我妈在家办了场脱口秀大会",
+        "onboard_time": 1663772734,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 55595,
+        "num": 41923,
+        "word": "杜帝没有妈妈了",
+        "onboard_time": 1663768174,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 47236,
+        "num": 40155,
+        "word": "梁海源再见脱口秀大会",
+        "onboard_time": 1663773274,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37266,
+        "num": 37266,
+        "word": "一家3代13人考入同一所大学",
+        "onboard_time": 1663761991,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 36184,
+        "num": 36184,
+        "word": "NBA新赛季百大球员詹姆斯第七",
+        "onboard_time": 1663766613,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35313,
+        "num": 35313,
+        "word": "被微笑袋鼠治愈了",
+        "onboard_time": 1663774353,
+        "rank": 44,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 33316,
+        "num": 33316,
+        "word": "共情能力强到底好不好",
+        "onboard_time": 1663770154,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31853,
+        "num": 31853,
+        "word": "妈妈骂人真的很有一套",
+        "onboard_time": 1663765713,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 31416,
+        "num": 31416,
+        "word": "老人误把窗户当门迈出悬挂阳台",
+        "onboard_time": 1663780994,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30342,
+        "num": 30342,
+        "word": "甘宇获救时哭着说遇到好人了",
+        "onboard_time": 1663766372,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25743,
+        "num": 25743,
+        "word": "甘宇和父母在医院相见",
+        "onboard_time": 1663767212,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记看中国#"
+    }
+  }
+}
