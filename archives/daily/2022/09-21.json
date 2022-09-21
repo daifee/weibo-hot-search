@@ -1,6 +1,6 @@
 {
   "startTime": 1663691674200,
-  "endTime": 1663764797473,
+  "endTime": 1663766675232,
   "band_list": [
     {
       "raw_hot": 8415894,
@@ -139,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1280918,
+      "num": 1280918,
+      "word": "苍兰诀角色号微博藏头诗",
+      "onboard_time": 1663765772,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1263240,
       "num": 1263240,
       "word": "张雪峰批明星带娃类综艺",
@@ -265,6 +273,14 @@
       "onboard_time": 1663663289,
       "rank": 0,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 906172,
+      "num": 906172,
+      "word": "苏有朋这张嘴怎么没长我身上",
+      "onboard_time": 1663761147,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 899425,
@@ -403,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 727944,
+      "num": 727944,
+      "word": "丹麦女王新冠病毒检测结果再次呈阳性",
+      "onboard_time": 1663761570,
+      "rank": 9,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 718244,
       "num": 718244,
       "word": "电影票不能退改属霸王条款",
@@ -425,14 +449,6 @@
       "onboard_time": 1663752392,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 704757,
-      "num": 704757,
-      "word": "苏有朋这张嘴怎么没长我身上",
-      "onboard_time": 1663761147,
-      "rank": 6,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 676757,
@@ -515,6 +531,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 565734,
+      "num": 565734,
+      "word": "脱口秀大会",
+      "onboard_time": 1663764694,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 559015,
       "num": 559015,
       "word": "孙海洋女儿出书记录父亲寻子14年",
@@ -537,14 +561,6 @@
       "onboard_time": 1663728267,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 528187,
-      "num": 528187,
-      "word": "丹麦女王新冠病毒检测结果再次呈阳性",
-      "onboard_time": 1663761570,
-      "rank": 9,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 525823,
@@ -603,6 +619,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 487305,
+      "num": 487305,
+      "word": "小鹏G9售价309900元起",
+      "onboard_time": 1663763975,
+      "rank": 29,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 480408,
       "num": 394831,
       "word": "千金丫环大结局",
@@ -657,6 +681,14 @@
       "onboard_time": 1663755271,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 438090,
+      "num": 438090,
+      "word": "一家3代13人考入同一所大学",
+      "onboard_time": 1663761991,
+      "rank": 18,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 434877,
@@ -891,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 327148,
+      "num": 327148,
+      "word": "专硕学制延长至3年是否必要",
+      "onboard_time": 1663762771,
+      "rank": 28,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 317141,
       "num": 317141,
       "word": "王毅强调当务之急是妥善管控台湾问题",
@@ -1083,20 +1123,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 268408,
+      "num": 268408,
+      "word": "newjeans校庆舞台",
+      "onboard_time": 1663764036,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 265580,
       "num": 265580,
       "word": "广州疫情防控",
       "onboard_time": 1663728379,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 263235,
-      "num": 263235,
-      "word": "一家3代13人考入同一所大学",
-      "onboard_time": 1663761991,
-      "rank": 18,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 263206,
@@ -1131,14 +1171,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 260258,
-      "num": 228035,
-      "word": "脱口秀大会",
-      "onboard_time": 1663764694,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 255876,
       "num": 255876,
       "word": "一群孩子捡到4岁男童交给警察叔叔",
@@ -1148,19 +1180,11 @@
     },
     {
       "raw_hot": 248721,
-      "num": 182069,
+      "num": 220172,
       "word": "任嘉伦陆炎的霸道随了陆绎",
       "onboard_time": 1663764575,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 248440,
-      "num": 211264,
-      "word": "newjeans校庆舞台",
-      "onboard_time": 1663764036,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 245483,
@@ -1403,6 +1427,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 206425,
+      "num": 206425,
+      "word": "一眼沦陷的神级美图",
+      "onboard_time": 1663764036,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 205093,
       "num": 205093,
       "word": "一诺落水是为了独享经济",
@@ -1459,12 +1491,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 193451,
-      "num": 193451,
-      "word": "专硕学制延长至3年是否必要",
-      "onboard_time": 1663762771,
-      "rank": 28,
-      "category": "教育,社会新闻"
+      "raw_hot": 189555,
+      "num": 189555,
+      "word": "千万别买厨房神器",
+      "onboard_time": 1663763554,
+      "rank": 41,
+      "category": "其它"
     },
     {
       "raw_hot": 188166,
@@ -1539,14 +1571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 176794,
-      "num": 187275,
-      "word": "小鹏G9售价309900元起",
-      "onboard_time": 1663763975,
-      "rank": 29,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 170389,
       "num": 170389,
       "word": "cos能还原到什么程度",
@@ -1585,14 +1609,6 @@
       "onboard_time": 1663736310,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 169233,
-      "num": 160949,
-      "word": "一眼沦陷的神级美图",
-      "onboard_time": 1663764036,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 168069,
@@ -1651,6 +1667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159382,
+      "num": 159382,
+      "word": "北京小伙研究无土种菜年产300吨",
+      "onboard_time": 1663764635,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157264,
       "num": 157264,
       "word": "为了我们的荣耀",
@@ -1665,6 +1689,14 @@
       "onboard_time": 1663686029,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 156848,
+      "num": 156848,
+      "word": "甘宇获救时哭着说遇到好人了",
+      "onboard_time": 1663766372,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156020,
@@ -1715,14 +1747,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 144535,
-      "num": 144535,
-      "word": "北京小伙研究无土种菜年产300吨",
-      "onboard_time": 1663764635,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 142151,
       "num": 142151,
       "word": "原来自信的样子真的最美",
@@ -1737,14 +1761,6 @@
       "onboard_time": 1663723110,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136242,
-      "num": 136242,
-      "word": "千万别买厨房神器",
-      "onboard_time": 1663763554,
-      "rank": 41,
-      "category": "其它"
     },
     {
       "raw_hot": 134493,
@@ -1769,6 +1785,14 @@
       "onboard_time": 1663672893,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131434,
+      "num": 131434,
+      "word": "妈妈骂人真的很有一套",
+      "onboard_time": 1663765713,
+      "rank": 38,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 131109,
@@ -1883,6 +1907,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 110335,
+      "num": 110335,
+      "word": "男子开面包车拉了40头小猪上高速",
+      "onboard_time": 1663763852,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109011,
       "num": 109011,
       "word": "王毅会见美国前国务卿基辛格",
@@ -1923,6 +1955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 91810,
+      "num": 94794,
+      "word": "何小鹏称G9将接棒保时捷",
+      "onboard_time": 1663765352,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
       "raw_hot": 90742,
       "num": 90742,
       "word": "石家庄疫情防控",
@@ -1937,14 +1977,6 @@
       "onboard_time": 1663683756,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 82677,
-      "num": 82677,
-      "word": "男子开面包车拉了40头小猪上高速",
-      "onboard_time": 1663763852,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 82621,
@@ -1985,6 +2017,14 @@
       "onboard_time": 1663663650,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67021,
+      "num": 81783,
+      "word": "NBA新赛季百大球员詹姆斯第七",
+      "onboard_time": 1663766613,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 60440,
