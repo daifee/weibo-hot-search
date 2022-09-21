@@ -1,0 +1,410 @@
+{
+  "runTime": 1663759283894,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1334374,
+        "num": 1334374,
+        "word": "点外卖备注要个鸭屁股喂狗被赠2斤",
+        "onboard_time": 1663751794,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 854244,
+        "num": 854244,
+        "word": "李沁不是鸡腿姑娘是鸡腿刺客",
+        "onboard_time": 1663755154,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 30558,
+        "num": 781827,
+        "word": "普通人故事里的非凡十年",
+        "onboard_time": 1663743806,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 766141,
+        "num": 766141,
+        "word": "外交部回应普京俄乌局势最新言论",
+        "onboard_time": 1663756051,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 706844,
+        "num": 706844,
+        "word": "21岁送外卖单亲妈妈回应",
+        "onboard_time": 1663752392,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565161,
+        "num": 565161,
+        "word": "研究发现男性当爹大脑皮层会萎缩",
+        "onboard_time": 1663743568,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454021,
+        "num": 454021,
+        "word": "优酷今天好多剧",
+        "onboard_time": 1663731388,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 446991,
+        "num": 446991,
+        "word": "俄罗斯宣布进行部分动员",
+        "onboard_time": 1663741889,
+        "rank": 7,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 403314,
+        "num": 403314,
+        "word": "大考",
+        "onboard_time": 1663755930,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 388530,
+        "num": 388530,
+        "word": "这175家都是假央企",
+        "onboard_time": 1663748670,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1319406,
+        "num": 388371,
+        "word": "乐华对哇唧唧哇放狠话",
+        "onboard_time": 1663754549,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1018557,
+        "num": 388143,
+        "word": "我读研一年都学会了什么",
+        "onboard_time": 1663755090,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 482151,
+        "num": 387928,
+        "word": "女子网购毒蛇被咬致死家属获赔33万",
+        "onboard_time": 1663743209,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387366,
+        "num": 387366,
+        "word": "男子实习期醉驾坚称自己是女人",
+        "onboard_time": 1663754252,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10655,
+        "num": 370129,
+        "word": "小鹏G9发布会",
+        "onboard_time": 1663758031,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368288,
+        "num": 368288,
+        "word": "男子隐瞒已婚与他人同居生子",
+        "onboard_time": 1663743387,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310462,
+        "num": 310462,
+        "word": "国庆休7上7是种啥体验",
+        "onboard_time": 1663725268,
+        "rank": 16,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 296658,
+        "num": 296658,
+        "word": "内娱经纪公司互放狠话",
+        "onboard_time": 1663747768,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275198,
+        "num": 275198,
+        "word": "嫌弃脸可不能随便乱用",
+        "onboard_time": 1663753829,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 263167,
+        "num": 263167,
+        "word": "农村老人说有厕所孩子更愿回家了",
+        "onboard_time": 1663743989,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1277854,
+        "num": 261918,
+        "word": "张翰让我戒掉了手机",
+        "onboard_time": 1663752271,
+        "rank": 20,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 259787,
+        "num": 259787,
+        "word": "英文科普台湾为何属于中国",
+        "onboard_time": 1663757671,
+        "rank": 21,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 253168,
+        "num": 253168,
+        "word": "沉香如屑灯塔舆情热度全平台冠军",
+        "onboard_time": 1663755271,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228950,
+        "num": 228950,
+        "word": "女孩酷爱躺着玩手机双眼无法聚焦",
+        "onboard_time": 1663756831,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225184,
+        "num": 225184,
+        "word": "安乐传滤镜",
+        "onboard_time": 1663751610,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224532,
+        "num": 224532,
+        "word": "爷爷第一次进城见孙子一脸宠溺",
+        "onboard_time": 1663750948,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216686,
+        "num": 216686,
+        "word": "关羽赤影疾锋",
+        "onboard_time": 1663757371,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 205582,
+        "num": 205582,
+        "word": "湖南疾控发布国庆出行健康提示",
+        "onboard_time": 1663753652,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194400,
+        "num": 194400,
+        "word": "国产电视剧片头统一标识",
+        "onboard_time": 1663747710,
+        "rank": 28,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 193219,
+        "num": 193219,
+        "word": "甘宇被村民救起后大哭了一场",
+        "onboard_time": 1663756531,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184457,
+        "num": 184457,
+        "word": "俄称5937名俄军官兵牺牲",
+        "onboard_time": 1663744470,
+        "rank": 30,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 183097,
+        "num": 183097,
+        "word": "普京宣布支持顿巴斯等地区公投",
+        "onboard_time": 1663744707,
+        "rank": 31,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 172625,
+        "num": 172625,
+        "word": "法大32名研究生放弃入学资格",
+        "onboard_time": 1663736972,
+        "rank": 32,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 166158,
+        "num": 166158,
+        "word": "龚俊掀头纱镜头",
+        "onboard_time": 1663749447,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165565,
+        "num": 165565,
+        "word": "到底怎么才算抄袭呢",
+        "onboard_time": 1663757970,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 155884,
+        "num": 155884,
+        "word": "被贵州烤鸡馋到了",
+        "onboard_time": 1663751250,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 153797,
+        "num": 153797,
+        "word": "张彬彬不懂彩云之南是什么意思",
+        "onboard_time": 1663757191,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152344,
+        "num": 152344,
+        "word": "赵露思桑稚校服造型花絮照",
+        "onboard_time": 1663746271,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144540,
+        "num": 144540,
+        "word": "杜高",
+        "onboard_time": 1663748429,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132358,
+        "num": 132358,
+        "word": "母猫被封公司独自产崽啃方便面求生",
+        "onboard_time": 1663758990,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128231,
+        "num": 128231,
+        "word": "男子蹲马桶点烟引甲烷爆燃",
+        "onboard_time": 1663740991,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121250,
+        "num": 128123,
+        "word": "快充更能解决里程焦虑吗",
+        "onboard_time": 1663758332,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119532,
+        "num": 119532,
+        "word": "iPhone14ProMax创最长发货时间",
+        "onboard_time": 1663737210,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 117611,
+        "num": 117611,
+        "word": "泰迪被2只杜高撕咬主人跪地呼救",
+        "onboard_time": 1663735834,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115771,
+        "num": 115771,
+        "word": "长空之王胡军帮王一博走戏",
+        "onboard_time": 1663755509,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114714,
+        "num": 114714,
+        "word": "小猫咪的十级弹跳力",
+        "onboard_time": 1663755930,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107479,
+        "num": 107479,
+        "word": "郑钦文",
+        "onboard_time": 1663752928,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105292,
+        "num": 105292,
+        "word": "坤音娱乐说这辈子没怕过谁",
+        "onboard_time": 1663751910,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100592,
+        "num": 100592,
+        "word": "如何看待研究生录而不读",
+        "onboard_time": 1663742367,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 99985,
+        "num": 99985,
+        "word": "北京一大学全班只有一个男生",
+        "onboard_time": 1663759232,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定文化自信建设文化强国#"
+    }
+  }
+}
