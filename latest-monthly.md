@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/21 23:44:50
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/22 00:37:11
 </p>
 </blockquote>
 <p>
@@ -1577,6 +1577,12 @@ Doinb升级当爸爸（热度：2008327）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E6%82%A3%E5%B0%BF%E6%AF%92%E7%97%87%E4%B8%88%E5%A4%AB3%E6%AC%A1%E8%B5%B7%E8%AF%89%E7%A6%BB%E5%A9%9A%E8%8E%B7%E5%87%86%23" target="weibo">
 妻子患尿毒症丈夫3次起诉离婚获准（热度：1931589）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E7%94%B5%E8%B5%B5%E9%9F%A6%E5%BC%A6%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
+北电赵韦弦被刑拘（热度：1931074）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ LPL三号种子EDG（热度：926061）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E7%BC%BA%E7%88%B1%E6%98%AF%E5%A6%82%E4%BD%95%E6%AF%81%E6%8E%89%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%23" target="weibo">
 长期缺爱是如何毁掉一个人的（热度：922019）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E6%8B%A5%E6%9C%89%E5%A4%A7%E5%AD%A6%E6%96%87%E5%8C%96%E7%A8%8B%E5%BA%A6%E7%9A%84%E4%BA%BA%E5%8F%A3%E8%B6%852.18%E4%BA%BF%23" target="weibo">
-全国拥有大学文化程度的人口超2.18亿（热度：920567）
 </a>
 </li>
 
