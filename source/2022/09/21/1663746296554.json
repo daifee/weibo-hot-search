@@ -1,0 +1,410 @@
+{
+  "runTime": 1663746296554,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3695968,
+        "num": 3695968,
+        "word": "统一后台湾可实行不同于大陆的社会制度",
+        "onboard_time": 1663735773,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1675416,
+        "num": 1675416,
+        "word": "俄罗斯宣布进行部分动员",
+        "onboard_time": 1663741889,
+        "rank": 1,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 63640,
+        "num": 1339952,
+        "word": "普通人故事里的非凡十年",
+        "onboard_time": 1663743806,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1045799,
+        "num": 1045799,
+        "word": "孙红雷说张艺兴是五心好友",
+        "onboard_time": 1663735111,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1022879,
+        "num": 1022879,
+        "word": "优酷今天好多剧",
+        "onboard_time": 1663731388,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 739303,
+        "num": 739303,
+        "word": "妇联回应21岁送外卖单亲妈妈事件",
+        "onboard_time": 1663739246,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 635541,
+        "num": 635541,
+        "word": "研究发现男性当爹大脑皮层会萎缩",
+        "onboard_time": 1663743568,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634362,
+        "num": 634362,
+        "word": "法大32名研究生放弃入学资格",
+        "onboard_time": 1663736972,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 434877,
+        "num": 434877,
+        "word": "这手机系统够我玩一整天了",
+        "onboard_time": 1663740032,
+        "rank": 8,
+        "category": "幽默,科技"
+      },
+      {
+        "raw_hot": 386043,
+        "num": 386043,
+        "word": "迪丽热巴龚俊新剧宿命感",
+        "onboard_time": 1663741229,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 996635,
+        "num": 384847,
+        "word": "女子网购毒蛇被咬致死家属获赔33万",
+        "onboard_time": 1663743209,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 911261,
+        "num": 379536,
+        "word": "男子隐瞒已婚与他人同居生子",
+        "onboard_time": 1663743387,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 773752,
+        "num": 375941,
+        "word": "国庆休7上7是种啥体验",
+        "onboard_time": 1663725268,
+        "rank": 12,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 700698,
+        "num": 370469,
+        "word": "俄称5937名俄军官兵牺牲",
+        "onboard_time": 1663744470,
+        "rank": 13,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 386852,
+        "num": 367534,
+        "word": "农村老人说有厕所孩子更愿回家了",
+        "onboard_time": 1663743989,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364354,
+        "num": 364354,
+        "word": "男子蹲马桶点烟引甲烷爆燃",
+        "onboard_time": 1663740991,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351703,
+        "num": 351703,
+        "word": "一名男子在日本首相官邸附近自焚",
+        "onboard_time": 1663742249,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 341738,
+        "num": 341738,
+        "word": "韩国菜价飙涨中国泡菜成救兵",
+        "onboard_time": 1663731505,
+        "rank": 17,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 333805,
+        "num": 333805,
+        "word": "普京宣布支持顿巴斯等地区公投",
+        "onboard_time": 1663744707,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 326843,
+        "num": 326843,
+        "word": "安乐传",
+        "onboard_time": 1663730368,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 350599,
+        "num": 322731,
+        "word": "泰迪被2只杜高撕咬主人跪地呼救",
+        "onboard_time": 1663735834,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300495,
+        "num": 300495,
+        "word": "两不疑第二季定档",
+        "onboard_time": 1663740631,
+        "rank": 21,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 288839,
+        "num": 288839,
+        "word": "iPhone14ProMax创最长发货时间",
+        "onboard_time": 1663737210,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 227028,
+        "num": 227028,
+        "word": "潮汕生腌的正确打开方式",
+        "onboard_time": 1663745850,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 226706,
+        "num": 226706,
+        "word": "泸定地震中失联17天的甘宇找到了",
+        "onboard_time": 1663729645,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213689,
+        "num": 213689,
+        "word": "长月烬明",
+        "onboard_time": 1663727725,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210908,
+        "num": 210908,
+        "word": "宠物大闸蟹被煮兄弟俩边吃边哭",
+        "onboard_time": 1663727427,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206735,
+        "num": 206735,
+        "word": "安乐传配音",
+        "onboard_time": 1663745609,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206709,
+        "num": 206709,
+        "word": "孔子的老师是河南周口的",
+        "onboard_time": 1663745908,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199036,
+        "num": 199036,
+        "word": "王者荣耀新赛季",
+        "onboard_time": 1663741588,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 181826,
+        "num": 181826,
+        "word": "这就是千禧甜妹吧",
+        "onboard_time": 1663741290,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179348,
+        "num": 179348,
+        "word": "千金丫环大结局",
+        "onboard_time": 1663735171,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166599,
+        "num": 166599,
+        "word": "反独促统大势不断增强",
+        "onboard_time": 1663742547,
+        "rank": 32,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 162064,
+        "num": 162064,
+        "word": "女子被亲妹盗用身份证登记结婚",
+        "onboard_time": 1663731630,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161593,
+        "num": 161593,
+        "word": "论爸爸喂猫能有多反骨",
+        "onboard_time": 1663744110,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159913,
+        "num": 159913,
+        "word": "陈奕迅巡回演唱会官宣",
+        "onboard_time": 1663733853,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157519,
+        "num": 157519,
+        "word": "黑龙江新增本土感染者111例",
+        "onboard_time": 1663740392,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150761,
+        "num": 150761,
+        "word": "一诺落水是为了独享经济",
+        "onboard_time": 1663742007,
+        "rank": 37,
+        "category": "游戏,综艺"
+      },
+      {
+        "raw_hot": 146149,
+        "num": 146149,
+        "word": "杨迪已经把恋综看穿了",
+        "onboard_time": 1663745729,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142371,
+        "num": 142371,
+        "word": "65岁老人坚持24年向前男友讨分手费",
+        "onboard_time": 1663733132,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135241,
+        "num": 135241,
+        "word": "男子烧毁妻子衣服被判三缓四",
+        "onboard_time": 1663726707,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131079,
+        "num": 131079,
+        "word": "如何看待研究生录而不读",
+        "onboard_time": 1663742367,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 128490,
+        "num": 128490,
+        "word": "田曦薇新剧婚服造型",
+        "onboard_time": 1663736791,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128164,
+        "num": 128164,
+        "word": "偷偷藏不住",
+        "onboard_time": 1663727785,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122458,
+        "num": 122458,
+        "word": "浙大博士生回应送外卖",
+        "onboard_time": 1663734209,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119598,
+        "num": 119598,
+        "word": "陆虎推荐再就业男团上春晚",
+        "onboard_time": 1663738888,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118186,
+        "num": 118186,
+        "word": "甘宇回应失联17天后获救",
+        "onboard_time": 1663745007,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229075,
+        "num": 118052,
+        "word": "赵露思桑稚校服造型花絮照",
+        "onboard_time": 1663746271,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117235,
+        "num": 117235,
+        "word": "重庆市原副市长邓恢林一审获刑15年",
+        "onboard_time": 1663735952,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111595,
+        "num": 111595,
+        "word": "女子被骗50万后哭求民警要再转20万",
+        "onboard_time": 1663724848,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国载人航天实施30周年#"
+    }
+  }
+}
