@@ -1,0 +1,410 @@
+{
+  "runTime": 1663791979663,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 59621,
+        "num": 59621,
+        "word": "日式快餐为什么不火了",
+        "onboard_time": 1663760008,
+        "rank": 0,
+        "category": "社会新闻,社会新闻"
+      },
+      {
+        "raw_hot": 30617,
+        "num": 30617,
+        "word": "女孩酷爱躺着玩手机双眼无法聚焦",
+        "onboard_time": 1663756831,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5773,
+        "num": 27636,
+        "word": "中国载人航天高光时刻",
+        "onboard_time": 1663754431,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31628,
+        "num": 27038,
+        "word": "女子2折出售迪士尼年卡卷走1300万",
+        "onboard_time": 1663759469,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25192,
+        "num": 25192,
+        "word": "吴世勋为张艺兴新歌面纱打call",
+        "onboard_time": 1663773032,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 22936,
+        "num": 22936,
+        "word": "华为Mate50系列黄牛最高加价8000",
+        "onboard_time": 1663774291,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 20011,
+        "num": 20011,
+        "word": "丹麦女王新冠病毒检测结果再次呈阳性",
+        "onboard_time": 1663761570,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 18867,
+        "num": 18867,
+        "word": "Kid淘汰",
+        "onboard_time": 1663767633,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18412,
+        "num": 18412,
+        "word": "张予曦疯狂报班只为演好戏",
+        "onboard_time": 1663771534,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18065,
+        "num": 18065,
+        "word": "甘宇和父母在医院相见",
+        "onboard_time": 1663767212,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73842,
+        "num": 18041,
+        "word": "中国人确实有点种菜天赋在身上的",
+        "onboard_time": 1663785673,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69243,
+        "num": 17980,
+        "word": "马来西亚男子性侵俩女儿被判428年",
+        "onboard_time": 1663768353,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40033,
+        "num": 17935,
+        "word": "老人误把窗户当门迈出悬挂阳台",
+        "onboard_time": 1663780994,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36001,
+        "num": 17931,
+        "word": "黄晓明一直在听取观众意见",
+        "onboard_time": 1663774052,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 33788,
+        "num": 17866,
+        "word": "离婚梗",
+        "onboard_time": 1663772313,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30399,
+        "num": 17833,
+        "word": "澳大利亚一海滩约230头鲸发生搁浅",
+        "onboard_time": 1663789271,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20968,
+        "num": 17776,
+        "word": "真的会担心王栎鑫的精神状态",
+        "onboard_time": 1663768291,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 17752,
+        "num": 17752,
+        "word": "情侣吵架是全国统一的吧",
+        "onboard_time": 1663772615,
+        "rank": 17,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 17252,
+        "num": 17252,
+        "word": "河北一高校叫停线上军训",
+        "onboard_time": 1663770394,
+        "rank": 18,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 17201,
+        "num": 17201,
+        "word": "外交部回应普京俄乌局势最新言论",
+        "onboard_time": 1663756051,
+        "rank": 19,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 128069,
+        "num": 17157,
+        "word": "北电赵韦弦被刑拘",
+        "onboard_time": 1663776088,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49001,
+        "num": 16979,
+        "word": "张翰让我戒掉了手机",
+        "onboard_time": 1663752271,
+        "rank": 21,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 18218,
+        "num": 16864,
+        "word": "为什么和父母诉苦会得到双倍痛苦",
+        "onboard_time": 1663768593,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16650,
+        "num": 16650,
+        "word": "再催婚就不礼貌了",
+        "onboard_time": 1663759469,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 16292,
+        "num": 16292,
+        "word": "苍兰诀角色号微博藏头诗",
+        "onboard_time": 1663765772,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 45479,
+        "num": 16211,
+        "word": "北电回应赵韦弦被刑拘",
+        "onboard_time": 1663775670,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15765,
+        "num": 15765,
+        "word": "罗勇 甘宇",
+        "onboard_time": 1663772615,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14974,
+        "num": 14974,
+        "word": "c63",
+        "onboard_time": 1663773393,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 14402,
+        "num": 14402,
+        "word": "逆水寒微光渲染实机演示",
+        "onboard_time": 1663775190,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 13937,
+        "num": 13937,
+        "word": "老师和家长都沉默了",
+        "onboard_time": 1663772135,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15119,
+        "num": 13926,
+        "word": "武艺一出现就有新笑料",
+        "onboard_time": 1663776806,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14451,
+        "num": 13800,
+        "word": "思文说自己和程璐不含糖就是甜",
+        "onboard_time": 1663789271,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14210,
+        "num": 13636,
+        "word": "苏有朋这张嘴怎么没长我身上",
+        "onboard_time": 1663761147,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14037,
+        "num": 13494,
+        "word": "梁海源再见脱口秀大会",
+        "onboard_time": 1663773274,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13467,
+        "num": 13467,
+        "word": "点外卖备注要个鸭屁股喂狗被赠2斤",
+        "onboard_time": 1663751794,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11435,
+        "num": 11435,
+        "word": "专硕学制延长至3年是否必要",
+        "onboard_time": 1663762771,
+        "rank": 35,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 10933,
+        "num": 10933,
+        "word": "我读研一年都学会了什么",
+        "onboard_time": 1663755090,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 10790,
+        "num": 10790,
+        "word": "当我妈在家办了场脱口秀大会",
+        "onboard_time": 1663772734,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 10679,
+        "num": 10679,
+        "word": "苹果手表Ultra与S8该怎么选",
+        "onboard_time": 1663767456,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 10566,
+        "num": 10566,
+        "word": "共情能力强到底好不好",
+        "onboard_time": 1663770154,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13080,
+        "num": 10488,
+        "word": "杜帝没有妈妈了",
+        "onboard_time": 1663768174,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 11032,
+        "num": 10324,
+        "word": "两个人的小森林豆瓣6.6分",
+        "onboard_time": 1663764515,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 10071,
+        "num": 10071,
+        "word": "上戏退役",
+        "onboard_time": 1663769855,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 9656,
+        "num": 9656,
+        "word": "外交部敦促美军不要再偷油",
+        "onboard_time": 1663769074,
+        "rank": 43,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 9247,
+        "num": 9247,
+        "word": "甘宇获救时哭着说遇到好人了",
+        "onboard_time": 1663766372,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9221,
+        "num": 9221,
+        "word": "立体书中藏着怎样的世界",
+        "onboard_time": 1663786091,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 9036,
+        "num": 9036,
+        "word": "妈妈骂人真的很有一套",
+        "onboard_time": 1663765713,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 7303,
+        "num": 7303,
+        "word": "广外招生增章",
+        "onboard_time": 1663774771,
+        "rank": 47,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 6729,
+        "num": 7296,
+        "word": "德国人在足球场上才更爱国",
+        "onboard_time": 1663790590,
+        "rank": 48,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 6634,
+        "num": 7287,
+        "word": "甘宇被找到时双手发抖",
+        "onboard_time": 1663791731,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国载人航天实施30周年#"
+    }
+  }
+}
