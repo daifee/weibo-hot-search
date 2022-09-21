@@ -1,6 +1,6 @@
 {
   "startTime": 1663518759246,
-  "endTime": 1663766675232,
+  "endTime": 1663768632784,
   "band_list": [
     {
       "raw_hot": 8415894,
@@ -547,19 +547,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1314421,
+      "num": 1314421,
+      "word": "苍兰诀角色号微博藏头诗",
+      "onboard_time": 1663765772,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1308240,
       "num": 1308240,
       "word": "任嘉伦被摸美人骨梦回周生辰",
       "onboard_time": 1663588408,
       "rank": 1,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1280918,
-      "num": 1280918,
-      "word": "苍兰诀角色号微博藏头诗",
-      "onboard_time": 1663765772,
-      "rank": 0,
       "category": "影视"
     },
     {
@@ -801,6 +801,14 @@
       "onboard_time": 1663654947,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1038842,
+      "num": 1038842,
+      "word": "杜帝没有妈妈了",
+      "onboard_time": 1663768174,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1027195,
@@ -1347,12 +1355,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 675055,
+      "num": 410533,
+      "word": "思文 脱口秀太后",
+      "onboard_time": 1663767035,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 654917,
       "num": 654917,
       "word": "爸爸为救4月大女儿日拌涂料20吨",
       "onboard_time": 1663563331,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 654604,
+      "num": 654604,
+      "word": "小鹏G9售价309900元起",
+      "onboard_time": 1663763975,
+      "rank": 29,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 654330,
@@ -1457,6 +1481,14 @@
       "onboard_time": 1663641085,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 602879,
+      "num": 602879,
+      "word": "一家3代13人考入同一所大学",
+      "onboard_time": 1663761991,
+      "rank": 18,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 601055,
@@ -1843,12 +1875,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 487305,
-      "num": 487305,
-      "word": "小鹏G9售价309900元起",
-      "onboard_time": 1663763975,
-      "rank": 29,
-      "category": "科技,财经"
+      "raw_hot": 489264,
+      "num": 386239,
+      "word": "Kid淘汰",
+      "onboard_time": 1663767633,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 486225,
@@ -2011,6 +2043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 447240,
+      "num": 245825,
+      "word": "真的会担心王栎鑫的精神状态",
+      "onboard_time": 1663768291,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 446087,
       "num": 446087,
       "word": "苍兰诀豆瓣评分人数破50万",
@@ -2057,14 +2097,6 @@
       "onboard_time": 1663637605,
       "rank": 15,
       "category": "科技"
-    },
-    {
-      "raw_hot": 438090,
-      "num": 438090,
-      "word": "一家3代13人考入同一所大学",
-      "onboard_time": 1663761991,
-      "rank": 18,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 437086,
@@ -2169,6 +2201,14 @@
       "onboard_time": 1663573588,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 412924,
+      "num": 412924,
+      "word": "专硕学制延长至3年是否必要",
+      "onboard_time": 1663762771,
+      "rank": 28,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 412639,
@@ -2761,14 +2801,6 @@
       "onboard_time": 1663556368,
       "rank": 31,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 327148,
-      "num": 327148,
-      "word": "专硕学制延长至3年是否必要",
-      "onboard_time": 1663762771,
-      "rank": 28,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 327120,
@@ -3643,6 +3675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250913,
+      "num": 206425,
+      "word": "一眼沦陷的神级美图",
+      "onboard_time": 1663764036,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 250586,
       "num": 250586,
       "word": "中国城市人口密度榜",
@@ -3673,6 +3713,14 @@
       "onboard_time": 1663486114,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247122,
+      "num": 247122,
+      "word": "千万别买厨房神器",
+      "onboard_time": 1663763554,
+      "rank": 41,
+      "category": "其它"
     },
     {
       "raw_hot": 245967,
@@ -3819,6 +3867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238580,
+      "num": 238580,
+      "word": "妈妈骂人真的很有一套",
+      "onboard_time": 1663765713,
+      "rank": 38,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 238248,
       "num": 238248,
       "word": "论爸爸喂猫能有多反骨",
@@ -3888,6 +3944,14 @@
       "word": "被火龙果花开瞬间惊艳到了",
       "onboard_time": 1663652124,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232275,
+      "num": 232275,
+      "word": "甘宇和父母在医院相见",
+      "onboard_time": 1663767212,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -4307,14 +4371,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 206425,
-      "num": 206425,
-      "word": "一眼沦陷的神级美图",
-      "onboard_time": 1663764036,
-      "rank": 36,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 205093,
       "num": 205093,
       "word": "一诺落水是为了独享经济",
@@ -4475,6 +4531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193861,
+      "num": 193861,
+      "word": "北京小伙研究无土种菜年产300吨",
+      "onboard_time": 1663764635,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193603,
       "num": 193603,
       "word": "悬疑剧能有多带感",
@@ -4489,14 +4553,6 @@
       "onboard_time": 1663672107,
       "rank": 30,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 189555,
-      "num": 189555,
-      "word": "千万别买厨房神器",
-      "onboard_time": 1663763554,
-      "rank": 41,
-      "category": "其它"
     },
     {
       "raw_hot": 189104,
@@ -4691,6 +4747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179421,
+      "num": 123571,
+      "word": "金晨新剧被偷亲",
+      "onboard_time": 1663767152,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 179316,
       "num": 179316,
       "word": "杨旭绝杀",
@@ -4835,6 +4899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169381,
+      "num": 169381,
+      "word": "NBA新赛季百大球员詹姆斯第七",
+      "onboard_time": 1663766613,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168466,
       "num": 168466,
       "word": "河南66亿元的超大充电宝来了",
@@ -4897,6 +4969,14 @@
       "onboard_time": 1663499368,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 163892,
+      "num": 163892,
+      "word": "甘宇获救时哭着说遇到好人了",
+      "onboard_time": 1663766372,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163789,
@@ -4971,11 +5051,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159382,
-      "num": 159382,
-      "word": "北京小伙研究无土种菜年产300吨",
-      "onboard_time": 1663764635,
-      "rank": 39,
+      "raw_hot": 157442,
+      "num": 157442,
+      "word": "男子开面包车拉了40头小猪上高速",
+      "onboard_time": 1663763852,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -4985,14 +5065,6 @@
       "onboard_time": 1663748251,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 156848,
-      "num": 156848,
-      "word": "甘宇获救时哭着说遇到好人了",
-      "onboard_time": 1663766372,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 155951,
@@ -5219,6 +5291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142603,
+      "num": 101036,
+      "word": "为什么和父母诉苦会得到双倍痛苦",
+      "onboard_time": 1663768593,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 142151,
       "num": 142151,
       "word": "原来自信的样子真的最美",
@@ -5249,6 +5329,14 @@
       "onboard_time": 1663575088,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 140627,
+      "num": 140627,
+      "word": "马来西亚男子性侵俩女儿被判428年",
+      "onboard_time": 1663768353,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139720,
@@ -5395,14 +5483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 131434,
-      "num": 131434,
-      "word": "妈妈骂人真的很有一套",
-      "onboard_time": 1663765713,
-      "rank": 38,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 131109,
       "num": 131109,
       "word": "肖思远母亲送小儿子入伍的一幕看哭",
@@ -5457,6 +5537,14 @@
       "onboard_time": 1663571129,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125216,
+      "num": 125216,
+      "word": "何小鹏称G9将接棒保时捷",
+      "onboard_time": 1663765352,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 124956,
@@ -5649,14 +5737,6 @@
       "onboard_time": 1663591286,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 110335,
-      "num": 110335,
-      "word": "男子开面包车拉了40头小猪上高速",
-      "onboard_time": 1663763852,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110169,
@@ -5875,14 +5955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 91810,
-      "num": 94794,
-      "word": "何小鹏称G9将接棒保时捷",
-      "onboard_time": 1663765352,
-      "rank": 45,
-      "category": "科技"
-    },
-    {
       "raw_hot": 89149,
       "num": 89149,
       "word": "大兴安岭迎来入秋后第一场雪",
@@ -5987,14 +6059,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 67021,
-      "num": 81783,
-      "word": "NBA新赛季百大球员詹姆斯第七",
-      "onboard_time": 1663766613,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 58012,
       "num": 150028,
       "word": "教官教的vs学生学的",
@@ -6084,7 +6148,7 @@
     },
     {
       "raw_hot": 29883,
-      "num": 412036,
+      "num": 837685,
       "word": "中国载人航天高光时刻",
       "onboard_time": 1663754431,
       "rank": 14,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1663768632784,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1314421,
+        "num": 1314421,
+        "word": "苍兰诀角色号微博藏头诗",
+        "onboard_time": 1663765772,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1038842,
+        "num": 1038842,
+        "word": "杜帝没有妈妈了",
+        "onboard_time": 1663768174,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16474,
+        "num": 837685,
+        "word": "中国载人航天高光时刻",
+        "onboard_time": 1663754431,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 766155,
+        "num": 766155,
+        "word": "苏有朋这张嘴怎么没长我身上",
+        "onboard_time": 1663761147,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 707775,
+        "num": 707775,
+        "word": "丹麦女王新冠病毒检测结果再次呈阳性",
+        "onboard_time": 1663761570,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 654604,
+        "num": 654604,
+        "word": "小鹏G9售价309900元起",
+        "onboard_time": 1663763975,
+        "rank": 5,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 602879,
+        "num": 602879,
+        "word": "一家3代13人考入同一所大学",
+        "onboard_time": 1663761991,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 595108,
+        "num": 595108,
+        "word": "再催婚就不礼貌了",
+        "onboard_time": 1663759469,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 446956,
+        "num": 446956,
+        "word": "女子2折出售迪士尼年卡卷走1300万",
+        "onboard_time": 1663759469,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412924,
+        "num": 412924,
+        "word": "专硕学制延长至3年是否必要",
+        "onboard_time": 1663762771,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 675055,
+        "num": 410533,
+        "word": "思文 脱口秀太后",
+        "onboard_time": 1663767035,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 582543,
+        "num": 408325,
+        "word": "母猫被封公司独自产崽啃方便面求生",
+        "onboard_time": 1663758990,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533360,
+        "num": 406855,
+        "word": "脱口秀大会",
+        "onboard_time": 1663764694,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400558,
+        "num": 400558,
+        "word": "点外卖备注要个鸭屁股喂狗被赠2斤",
+        "onboard_time": 1663751794,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489264,
+        "num": 386239,
+        "word": "Kid淘汰",
+        "onboard_time": 1663767633,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347881,
+        "num": 347881,
+        "word": "日式快餐为什么不火了",
+        "onboard_time": 1663760008,
+        "rank": 15,
+        "category": "社会新闻,社会新闻"
+      },
+      {
+        "raw_hot": 322635,
+        "num": 322635,
+        "word": "我读研一年都学会了什么",
+        "onboard_time": 1663755090,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 271560,
+        "num": 271560,
+        "word": "北京一大学全班只有一个男生",
+        "onboard_time": 1663759232,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 266448,
+        "num": 266448,
+        "word": "女孩酷爱躺着玩手机双眼无法聚焦",
+        "onboard_time": 1663756831,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247122,
+        "num": 247122,
+        "word": "千万别买厨房神器",
+        "onboard_time": 1663763554,
+        "rank": 19,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 447240,
+        "num": 245825,
+        "word": "真的会担心王栎鑫的精神状态",
+        "onboard_time": 1663768291,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 922445,
+        "num": 243952,
+        "word": "张翰让我戒掉了手机",
+        "onboard_time": 1663752271,
+        "rank": 21,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 322719,
+        "num": 242757,
+        "word": "两个人的小森林豆瓣6.6分",
+        "onboard_time": 1663764515,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 294811,
+        "num": 239508,
+        "word": "王鹤棣是陈立农的专业伴奏",
+        "onboard_time": 1663763070,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238580,
+        "num": 238580,
+        "word": "妈妈骂人真的很有一套",
+        "onboard_time": 1663765713,
+        "rank": 24,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 232275,
+        "num": 232275,
+        "word": "甘宇和父母在医院相见",
+        "onboard_time": 1663767212,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219940,
+        "num": 219940,
+        "word": "今晚调油价",
+        "onboard_time": 1663760309,
+        "rank": 26,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 17235,
+        "num": 205631,
+        "word": "普通人故事里的非凡十年",
+        "onboard_time": 1663743806,
+        "rank": 27,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 200551,
+        "num": 200551,
+        "word": "外交部回应普京俄乌局势最新言论",
+        "onboard_time": 1663756051,
+        "rank": 28,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 193861,
+        "num": 193861,
+        "word": "北京小伙研究无土种菜年产300吨",
+        "onboard_time": 1663764635,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250913,
+        "num": 182112,
+        "word": "一眼沦陷的神级美图",
+        "onboard_time": 1663764036,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 229305,
+        "num": 178548,
+        "word": "newjeans校庆舞台",
+        "onboard_time": 1663764036,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 224405,
+        "num": 175381,
+        "word": "李沁不是鸡腿姑娘是鸡腿刺客",
+        "onboard_time": 1663755154,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169381,
+        "num": 169381,
+        "word": "NBA新赛季百大球员詹姆斯第七",
+        "onboard_time": 1663766613,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165919,
+        "num": 165919,
+        "word": "女子网购毒蛇被咬致死家属获赔33万",
+        "onboard_time": 1663743209,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163892,
+        "num": 163892,
+        "word": "甘宇获救时哭着说遇到好人了",
+        "onboard_time": 1663766372,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157442,
+        "num": 157442,
+        "word": "男子开面包车拉了40头小猪上高速",
+        "onboard_time": 1663763852,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156659,
+        "num": 156659,
+        "word": "研究发现男性当爹大脑皮层会萎缩",
+        "onboard_time": 1663743568,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140627,
+        "num": 140627,
+        "word": "马来西亚男子性侵俩女儿被判428年",
+        "onboard_time": 1663768353,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125216,
+        "num": 125216,
+        "word": "何小鹏称G9将接棒保时捷",
+        "onboard_time": 1663765352,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 175658,
+        "num": 124190,
+        "word": "成毅演员的可塑性",
+        "onboard_time": 1663763733,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179421,
+        "num": 123571,
+        "word": "金晨新剧被偷亲",
+        "onboard_time": 1663767152,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122703,
+        "num": 122703,
+        "word": "21岁送外卖单亲妈妈回应",
+        "onboard_time": 1663752392,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121775,
+        "num": 121775,
+        "word": "国庆休7上7是种啥体验",
+        "onboard_time": 1663725268,
+        "rank": 43,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 118882,
+        "num": 118882,
+        "word": "地震时他开车挡石救7人",
+        "onboard_time": 1663760250,
+        "rank": 44,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 104335,
+        "num": 104335,
+        "word": "甘宇被村民救起后大哭了一场",
+        "onboard_time": 1663756531,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102196,
+        "num": 102196,
+        "word": "男子隐瞒已婚与他人同居生子",
+        "onboard_time": 1663743387,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142603,
+        "num": 101036,
+        "word": "为什么和父母诉苦会得到双倍痛苦",
+        "onboard_time": 1663768593,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 97782,
+        "num": 97782,
+        "word": "俄罗斯宣布进行部分动员",
+        "onboard_time": 1663741889,
+        "rank": 48,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 91482,
+        "num": 91482,
+        "word": "小猫咪的十级弹跳力",
+        "onboard_time": 1663755930,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国载人航天实施30周年#"
+    }
+  }
+}
