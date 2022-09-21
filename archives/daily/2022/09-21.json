@@ -1,6 +1,6 @@
 {
   "startTime": 1663691674200,
-  "endTime": 1663750366451,
+  "endTime": 1663752390868,
   "band_list": [
     {
       "raw_hot": 8415894,
@@ -75,7 +75,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1479911,
+      "raw_hot": 1495351,
       "num": 492275,
       "word": "内娱经纪公司互放狠话",
       "onboard_time": 1663747768,
@@ -160,6 +160,14 @@
       "word": "男子烧毁妻子衣服被判三缓四",
       "onboard_time": 1663726707,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1047239,
+      "num": 414279,
+      "word": "杜高",
+      "onboard_time": 1663748429,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -283,6 +291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 779891,
+      "num": 779891,
+      "word": "这175家都是假央企",
+      "onboard_time": 1663748670,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 740566,
       "num": 527535,
       "word": "字节回应网传外包员工偷拿下午茶被辞",
@@ -321,6 +337,14 @@
       "onboard_time": 1663684831,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 636117,
+      "num": 636117,
+      "word": "国产电视剧片头统一标识",
+      "onboard_time": 1663747710,
+      "rank": 18,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 629437,
@@ -483,14 +507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 440090,
-      "num": 414279,
-      "word": "杜高",
-      "onboard_time": 1663748429,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 434877,
       "num": 434877,
       "word": "这手机系统够我玩一整天了",
@@ -507,20 +523,20 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 423742,
+      "num": 350832,
+      "word": "龚俊掀头纱镜头",
+      "onboard_time": 1663749447,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 420245,
       "num": 391470,
       "word": "陈奕迅巡回演唱会官宣",
       "onboard_time": 1663733853,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 413211,
-      "num": 413211,
-      "word": "这175家都是假央企",
-      "onboard_time": 1663748670,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 412639,
@@ -563,20 +579,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 381891,
-      "num": 433531,
-      "word": "国产电视剧片头统一标识",
-      "onboard_time": 1663747710,
-      "rank": 18,
-      "category": "社会新闻,影视"
-    },
-    {
       "raw_hot": 381435,
       "num": 381435,
       "word": "59岁大爷沉迷游乐场办年卡玩过山车",
       "onboard_time": 1663709711,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 377770,
+      "num": 377770,
+      "word": "护士拦停失控公交救下脑出血司机",
+      "onboard_time": 1663748127,
+      "rank": 41,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 371031,
@@ -611,6 +627,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 350091,
+      "num": 350091,
+      "word": "坤音娱乐说这辈子没怕过谁",
+      "onboard_time": 1663751910,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 348131,
       "num": 348131,
       "word": "安乐传配音",
@@ -633,6 +657,14 @@
       "onboard_time": 1663732410,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 334731,
+      "num": 293475,
+      "word": "张翰让我戒掉了手机",
+      "onboard_time": 1663752271,
+      "rank": 20,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 331831,
@@ -683,11 +715,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 311676,
-      "num": 311676,
-      "word": "龚俊掀头纱镜头",
-      "onboard_time": 1663749447,
-      "rank": 22,
+      "raw_hot": 310011,
+      "num": 291355,
+      "word": "安乐传滤镜",
+      "onboard_time": 1663751610,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -763,12 +795,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 291556,
+      "num": 273970,
+      "word": "成毅新剧咪咕播放量破亿",
+      "onboard_time": 1663752151,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 290088,
       "num": 290088,
       "word": "河南一大学招聘洗刷工限30岁以下",
       "onboard_time": 1663692921,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289218,
+      "num": 289218,
+      "word": "被贵州烤鸡馋到了",
+      "onboard_time": 1663751250,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 284640,
@@ -915,6 +963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 236559,
+      "num": 236559,
+      "word": "戈娅危途狂花皮肤",
+      "onboard_time": 1663750890,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 231347,
       "num": 231347,
       "word": "华为Mate50开售",
@@ -1051,12 +1107,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203785,
+      "num": 203785,
+      "word": "杨迪已经把恋综看穿了",
+      "onboard_time": 1663745729,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201122,
       "num": 201122,
       "word": "王者荣耀新赛季",
       "onboard_time": 1663741588,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 198434,
+      "num": 198434,
+      "word": "原来养猫真的会上瘾",
+      "onboard_time": 1663751310,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 197718,
+      "num": 197718,
+      "word": "点外卖备注要个鸭屁股喂狗被赠2斤",
+      "onboard_time": 1663751794,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193991,
@@ -1067,28 +1147,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 187181,
-      "num": 187181,
-      "word": "护士拦停失控公交救下脑出血司机",
-      "onboard_time": 1663748127,
-      "rank": 41,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 185390,
       "num": 185390,
       "word": "龚道安一审被判无期徒刑",
       "onboard_time": 1663738950,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 184250,
-      "num": 184250,
-      "word": "杨迪已经把恋综看穿了",
-      "onboard_time": 1663745729,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 184012,
@@ -1299,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138143,
+      "num": 138143,
+      "word": "成都世乒赛团体赛将组织观众观赛",
+      "onboard_time": 1663751910,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134493,
       "num": 134493,
       "word": "真诚是打败阴阳怪气的必杀技",
@@ -1323,6 +1395,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124900,
+      "num": 124900,
+      "word": "44年前他独自解说了整届世界杯",
+      "onboard_time": 1663749268,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 123987,
+      "num": 123987,
+      "word": "爷爷第一次进城见孙子一脸宠溺",
+      "onboard_time": 1663750948,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123168,
       "num": 123168,
       "word": "首部中西结合末日题材小说漫画化",
@@ -1337,6 +1425,14 @@
       "onboard_time": 1663678770,
       "rank": 37,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 121014,
+      "num": 121014,
+      "word": "肖思远母亲送小儿子入伍的一幕看哭",
+      "onboard_time": 1663752151,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120907,
@@ -1355,6 +1451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116690,
+      "num": 116690,
+      "word": "烈士肖思远弟弟成杨根思部队新兵",
+      "onboard_time": 1663750948,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115624,
       "num": 115624,
       "word": "显卡",
@@ -1369,14 +1473,6 @@
       "onboard_time": 1663671449,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 114297,
-      "num": 114297,
-      "word": "44年前他独自解说了整届世界杯",
-      "onboard_time": 1663749268,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 113035,
@@ -1570,6 +1666,9 @@
     },
     {
       "word": "#中国载人航天实施30周年#"
+    },
+    {
+      "word": "#坚定文化自信建设文化强国#"
     }
   ]
 }
