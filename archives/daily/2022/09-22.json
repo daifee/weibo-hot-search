@@ -1,6 +1,6 @@
 {
   "startTime": 1663778231376,
-  "endTime": 1663786280767,
+  "endTime": 1663788137736,
   "band_list": [
     {
       "raw_hot": 2150709,
@@ -403,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46562,
+      "num": 24524,
+      "word": "中国人确实有点种菜天赋在身上的",
+      "onboard_time": 1663785673,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25643,
       "num": 25643,
       "word": "立体书中藏着怎样的世界",
@@ -419,20 +427,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19232,
-      "num": 19232,
-      "word": "中国人确实有点种菜天赋在身上的",
-      "onboard_time": 1663785673,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 17764,
       "num": 17764,
       "word": "两个人的小森林豆瓣6.6分",
       "onboard_time": 1663764515,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 14150,
+      "num": 14150,
+      "word": "逆水寒微光渲染实机演示",
+      "onboard_time": 1663775190,
+      "rank": 38,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [
