@@ -1,6 +1,6 @@
 {
   "startTime": 1663691674200,
-  "endTime": 1663749287728,
+  "endTime": 1663750366451,
   "band_list": [
     {
       "raw_hot": 8415894,
@@ -75,6 +75,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1479911,
+      "num": 492275,
+      "word": "内娱经纪公司互放狠话",
+      "onboard_time": 1663747768,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1420759,
       "num": 1420759,
       "word": "孙红雷说张艺兴是五心好友",
@@ -97,14 +105,6 @@
       "onboard_time": 1663743568,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1264121,
-      "num": 492275,
-      "word": "内娱经纪公司互放狠话",
-      "onboard_time": 1663747768,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1263240,
@@ -483,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 440090,
+      "num": 414279,
+      "word": "杜高",
+      "onboard_time": 1663748429,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 434877,
       "num": 434877,
       "word": "这手机系统够我玩一整天了",
@@ -507,11 +515,27 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 413211,
+      "num": 413211,
+      "word": "这175家都是假央企",
+      "onboard_time": 1663748670,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 412639,
       "num": 377669,
       "word": "徐海乔郭晓婷杂志大片",
       "onboard_time": 1663689988,
       "rank": 11,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 401980,
+      "num": 401980,
+      "word": "赵露思桑稚校服造型花絮照",
+      "onboard_time": 1663746271,
+      "rank": 47,
       "category": "作品衍生"
     },
     {
@@ -537,6 +561,14 @@
       "onboard_time": 1663741229,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 381891,
+      "num": 433531,
+      "word": "国产电视剧片头统一标识",
+      "onboard_time": 1663747710,
+      "rank": 18,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 381435,
@@ -579,14 +611,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 349668,
-      "num": 349668,
-      "word": "赵露思桑稚校服造型花絮照",
-      "onboard_time": 1663746271,
-      "rank": 47,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 348131,
       "num": 348131,
       "word": "安乐传配音",
@@ -609,14 +633,6 @@
       "onboard_time": 1663732410,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 333998,
-      "num": 333998,
-      "word": "国产电视剧片头统一标识",
-      "onboard_time": 1663747710,
-      "rank": 18,
-      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 331831,
@@ -659,12 +675,20 @@
       "category": "科技"
     },
     {
-      "raw_hot": 312399,
-      "num": 312399,
+      "raw_hot": 314829,
+      "num": 314829,
       "word": "王鹤棣密逃4惊心offer下高清剧照",
       "onboard_time": 1663748727,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 311676,
+      "num": 311676,
+      "word": "龚俊掀头纱镜头",
+      "onboard_time": 1663749447,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 309527,
@@ -795,14 +819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 269956,
-      "num": 320645,
-      "word": "杜高",
-      "onboard_time": 1663748429,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 265580,
       "num": 265580,
       "word": "广州疫情防控",
@@ -817,6 +833,14 @@
       "onboard_time": 1663730007,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 262758,
+      "num": 262758,
+      "word": "甘宇回应失联17天后获救",
+      "onboard_time": 1663745007,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 261467,
@@ -849,6 +873,14 @@
       "onboard_time": 1663726106,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 243977,
+      "num": 243977,
+      "word": "四川村民徒步找到甘宇",
+      "onboard_time": 1663746450,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242993,
@@ -907,28 +939,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 224081,
-      "num": 224081,
-      "word": "四川村民徒步找到甘宇",
-      "onboard_time": 1663746450,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 221907,
       "num": 221907,
       "word": "坐等国庆放假的我",
       "onboard_time": 1663740091,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 221469,
-      "num": 221469,
-      "word": "甘宇回应失联17天后获救",
-      "onboard_time": 1663745007,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 220267,
@@ -1043,6 +1059,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193991,
+      "num": 193991,
+      "word": "女孩对爱情的态度有多清醒",
+      "onboard_time": 1663746751,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 187181,
+      "num": 187181,
+      "word": "护士拦停失控公交救下脑出血司机",
+      "onboard_time": 1663748127,
+      "rank": 41,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 185390,
       "num": 185390,
       "word": "龚道安一审被判无期徒刑",
@@ -1107,27 +1139,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 179217,
-      "num": 179217,
-      "word": "女孩对爱情的态度有多清醒",
-      "onboard_time": 1663746751,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 177853,
       "num": 81990,
       "word": "阿尔茨海默病日",
       "onboard_time": 1663717403,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176852,
-      "num": 176852,
-      "word": "这175家都是假央企",
-      "onboard_time": 1663748670,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -1307,14 +1323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 130563,
-      "num": 130563,
-      "word": "护士拦停失控公交救下脑出血司机",
-      "onboard_time": 1663748127,
-      "rank": 41,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 123168,
       "num": 123168,
       "word": "首部中西结合末日题材小说漫画化",
@@ -1363,6 +1371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 114297,
+      "num": 114297,
+      "word": "44年前他独自解说了整届世界杯",
+      "onboard_time": 1663749268,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113035,
       "num": 113035,
       "word": "RTX4080",
@@ -1395,20 +1411,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 99819,
-      "num": 99819,
-      "word": "44年前他独自解说了整届世界杯",
-      "onboard_time": 1663749268,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 95559,
       "num": 95559,
       "word": "共情能力太强不适合学医",
       "onboard_time": 1663671750,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 95169,
+      "num": 95169,
+      "word": "韩乔生解说瓶子落水",
+      "onboard_time": 1663750349,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 90742,
@@ -1425,6 +1441,14 @@
       "onboard_time": 1663683756,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 82621,
+      "num": 418036,
+      "word": "消防员6小时灭火妻子偶遇心疼送晚餐",
+      "onboard_time": 1663747288,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77005,
@@ -1448,14 +1472,6 @@
       "word": "现在是买电车的好时机吗",
       "onboard_time": 1663740032,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 71322,
-      "num": 406160,
-      "word": "消防员6小时灭火妻子偶遇心疼送晚餐",
-      "onboard_time": 1663747288,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
