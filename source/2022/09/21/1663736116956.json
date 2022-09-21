@@ -1,0 +1,410 @@
+{
+  "runTime": 1663736116956,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3741901,
+        "num": 3741901,
+        "word": "国庆休7上7是种啥体验",
+        "onboard_time": 1663725268,
+        "rank": 0,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 3317238,
+        "num": 3317238,
+        "word": "优酷今天好多剧",
+        "onboard_time": 1663731388,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 14175,
+        "num": 1607107,
+        "word": "丰收的色彩惊艳了秋天",
+        "onboard_time": 1663635331,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1385371,
+        "num": 1385371,
+        "word": "韩国菜价飙涨中国泡菜成救兵",
+        "onboard_time": 1663731505,
+        "rank": 3,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1255665,
+        "num": 1255665,
+        "word": "孙红雷说张艺兴是五心好友",
+        "onboard_time": 1663735111,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1022555,
+        "num": 1022555,
+        "word": "泸定地震中失联17天的甘宇找到了",
+        "onboard_time": 1663729645,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1021605,
+        "num": 1021605,
+        "word": "宠物大闸蟹被煮兄弟俩边吃边哭",
+        "onboard_time": 1663727427,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 911571,
+        "num": 911571,
+        "word": "赵露思陈哲远新剧偷偷藏不住官宣",
+        "onboard_time": 1663729168,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 579413,
+        "num": 579413,
+        "word": "请不要再美化阿尔茨海默症",
+        "onboard_time": 1663725687,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 504975,
+        "num": 504975,
+        "word": "这猫咪竟然是站着的",
+        "onboard_time": 1663731809,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1249914,
+        "num": 504850,
+        "word": "女子被亲妹盗用身份证登记结婚",
+        "onboard_time": 1663731630,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 789576,
+        "num": 492714,
+        "word": "打火机与公主裙首支预告",
+        "onboard_time": 1663733731,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 740566,
+        "num": 487328,
+        "word": "字节回应网传外包员工偷拿下午茶被辞",
+        "onboard_time": 1663730486,
+        "rank": 12,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 535354,
+        "num": 483765,
+        "word": "长月烬明",
+        "onboard_time": 1663727725,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 533616,
+        "num": 478797,
+        "word": "男子烧毁妻子衣服被判三缓四",
+        "onboard_time": 1663726707,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474121,
+        "num": 474121,
+        "word": "安乐传",
+        "onboard_time": 1663730368,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 466499,
+        "num": 466499,
+        "word": "65岁老人坚持24年向前男友讨分手费",
+        "onboard_time": 1663733132,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447400,
+        "num": 447400,
+        "word": "可不可以不调休",
+        "onboard_time": 1663721069,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 432403,
+        "num": 432403,
+        "word": "亚洲最大医院成绩单",
+        "onboard_time": 1663728267,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394441,
+        "num": 394441,
+        "word": "蔡姓顶流基金经理本周失联",
+        "onboard_time": 1663720831,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 437803,
+        "num": 393911,
+        "word": "千金丫环大结局",
+        "onboard_time": 1663735171,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 420245,
+        "num": 388091,
+        "word": "陈奕迅巡回演唱会官宣",
+        "onboard_time": 1663733853,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 370386,
+        "num": 370386,
+        "word": "浙大博士生回应送外卖",
+        "onboard_time": 1663734209,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353021,
+        "num": 353021,
+        "word": "统一后台湾可实行不同于大陆的社会制度",
+        "onboard_time": 1663735773,
+        "rank": 23,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 335971,
+        "num": 335971,
+        "word": "女子被骗50万后哭求民警要再转20万",
+        "onboard_time": 1663724848,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334176,
+        "num": 334176,
+        "word": "刘涛刘宇宁新剧姐弟恋",
+        "onboard_time": 1663727368,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 303755,
+        "num": 303755,
+        "word": "禁售槟榔不仅因为它致癌",
+        "onboard_time": 1663726647,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295835,
+        "num": 295835,
+        "word": "解放军坚决反制一切威胁挑衅",
+        "onboard_time": 1663726106,
+        "rank": 27,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 292980,
+        "num": 292980,
+        "word": "王者荣耀",
+        "onboard_time": 1663732410,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 284640,
+        "num": 284640,
+        "word": "00后千字反向面评HR意外获offer",
+        "onboard_time": 1663730547,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318734,
+        "num": 282514,
+        "word": "灿烂灿烂",
+        "onboard_time": 1663728927,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 310452,
+        "num": 282174,
+        "word": "偷偷藏不住",
+        "onboard_time": 1663727785,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280232,
+        "num": 280232,
+        "word": "C罗希望参加2022世界杯",
+        "onboard_time": 1663733371,
+        "rank": 32,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 266511,
+        "num": 266511,
+        "word": "为什么遗忘比死亡更可怕",
+        "onboard_time": 1663732708,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 263206,
+        "num": 263206,
+        "word": "成年人的心动是什么",
+        "onboard_time": 1663730007,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240263,
+        "num": 240263,
+        "word": "河南一高校通报学信网信息被泄露",
+        "onboard_time": 1663730069,
+        "rank": 35,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 237122,
+        "num": 237122,
+        "word": "广州疫情防控",
+        "onboard_time": 1663728379,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220267,
+        "num": 220267,
+        "word": "昆仑神宫 特效",
+        "onboard_time": 1663733968,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211481,
+        "num": 211481,
+        "word": "苹果教育优惠即将结束",
+        "onboard_time": 1663729106,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 204974,
+        "num": 204974,
+        "word": "电视剧底线",
+        "onboard_time": 1663735111,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184297,
+        "num": 184297,
+        "word": "华为Mate50开售",
+        "onboard_time": 1663729348,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 188135,
+        "num": 183778,
+        "word": "Pro机型将占iPhone14出货量65%",
+        "onboard_time": 1663723348,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 176772,
+        "num": 176772,
+        "word": "男子骑马回国被多人举报虐待动物",
+        "onboard_time": 1663718668,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174460,
+        "num": 174460,
+        "word": "夫妻吵架双双落水被17岁少年救起",
+        "onboard_time": 1663725029,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179785,
+        "num": 174170,
+        "word": "iOS16.1beta2",
+        "onboard_time": 1663732831,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 171148,
+        "num": 171148,
+        "word": "重庆市原副市长邓恢林一审获刑15年",
+        "onboard_time": 1663735952,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170389,
+        "num": 170389,
+        "word": "cos能还原到什么程度",
+        "onboard_time": 1663734872,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 175882,
+        "num": 170039,
+        "word": "美版iPhone14仍有SIM卡空间",
+        "onboard_time": 1663734811,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 168952,
+        "num": 168952,
+        "word": "长月烬明执念相生海报",
+        "onboard_time": 1663728927,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155065,
+        "num": 155065,
+        "word": "泰迪被2只杜高撕咬主人跪地呼救",
+        "onboard_time": 1663735834,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#激发全社会向上向善的正能量#"
+    }
+  }
+}
