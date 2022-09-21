@@ -1,6 +1,6 @@
 {
   "startTime": 1663518759246,
-  "endTime": 1663773971309,
+  "endTime": 1663775090114,
   "band_list": [
     {
       "raw_hot": 8415894,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 2102861,
-      "num": 370149,
+      "num": 375041,
       "word": "马来西亚男子性侵俩女儿被判428年",
       "onboard_time": 1663768353,
       "rank": 38,
@@ -459,12 +459,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1500006,
+      "num": 370642,
+      "word": "离婚梗",
+      "onboard_time": 1663772313,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1495351,
       "num": 492275,
       "word": "内娱经纪公司互放狠话",
       "onboard_time": 1663747768,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1479557,
+      "num": 1064319,
+      "word": "吴世勋为张艺兴新歌面纱打call",
+      "onboard_time": 1663773032,
+      "rank": 3,
+      "category": "音乐"
     },
     {
       "raw_hot": 1440108,
@@ -497,14 +513,6 @@
       "onboard_time": 1663678770,
       "rank": 5,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1400465,
-      "num": 291064,
-      "word": "离婚梗",
-      "onboard_time": 1663772313,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 1385371,
@@ -643,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1202847,
+      "num": 1202847,
+      "word": "上戏退役",
+      "onboard_time": 1663769855,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1201209,
       "num": 1201209,
       "word": "湖北一派出所副所长遭拒捕牺牲",
@@ -699,14 +715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1132417,
-      "num": 1132417,
-      "word": "上戏退役",
-      "onboard_time": 1663769855,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 1125691,
       "num": 1125691,
       "word": "南京女大学生被害案二审维持原判",
@@ -721,6 +729,14 @@
       "onboard_time": 1663551147,
       "rank": 5,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1108197,
+      "num": 1108197,
+      "word": "张予曦疯狂报班只为演好戏",
+      "onboard_time": 1663771534,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1106112,
@@ -793,14 +809,6 @@
       "onboard_time": 1663762410,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1064319,
-      "num": 1064319,
-      "word": "吴世勋为张艺兴新歌面纱打call",
-      "onboard_time": 1663773032,
-      "rank": 3,
-      "category": "音乐"
     },
     {
       "raw_hot": 1063604,
@@ -1145,14 +1153,6 @@
       "onboard_time": 1663767035,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 837884,
-      "num": 837884,
-      "word": "张予曦疯狂报班只为演好戏",
-      "onboard_time": 1663771534,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 827896,
@@ -1779,6 +1779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 549236,
+      "num": 549236,
+      "word": "河北一高校叫停线上军训",
+      "onboard_time": 1663770394,
+      "rank": 44,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 547768,
       "num": 320889,
       "word": "成毅新剧又被扒拉",
@@ -1979,6 +1987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 476260,
+      "num": 366807,
+      "word": "黄晓明一直在听取观众意见",
+      "onboard_time": 1663774052,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 475729,
       "num": 475729,
       "word": "日式快餐为什么不火了",
@@ -2113,14 +2129,6 @@
       "onboard_time": 1663755271,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 443885,
-      "num": 443885,
-      "word": "河北一高校叫停线上军训",
-      "onboard_time": 1663770394,
-      "rank": 44,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 443263,
@@ -2332,7 +2340,7 @@
     },
     {
       "raw_hot": 405411,
-      "num": 289237,
+      "num": 389561,
       "word": "地铁座有污渍两女生默默擦净",
       "onboard_time": 1663770696,
       "rank": 49,
@@ -2705,6 +2713,14 @@
       "onboard_time": 1663765713,
       "rank": 38,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 355125,
+      "num": 355125,
+      "word": "罗勇 甘宇",
+      "onboard_time": 1663772615,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 354227,
@@ -3187,14 +3203,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 298194,
-      "num": 275176,
-      "word": "罗勇 甘宇",
-      "onboard_time": 1663772615,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 298177,
       "num": 298177,
       "word": "到底有多少种食物不能空腹吃",
@@ -3257,6 +3265,14 @@
       "onboard_time": 1663596991,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 292416,
+      "num": 292416,
+      "word": "老师和家长都沉默了",
+      "onboard_time": 1663772135,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 291551,
@@ -3385,6 +3401,14 @@
       "onboard_time": 1663654828,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281653,
+      "num": 281653,
+      "word": "情侣吵架是全国统一的吧",
+      "onboard_time": 1663772615,
+      "rank": 25,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 281330,
@@ -4395,14 +4419,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 209642,
-      "num": 209642,
-      "word": "情侣吵架是全国统一的吧",
-      "onboard_time": 1663772615,
-      "rank": 25,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 208982,
       "num": 208982,
       "word": "甘宇被村民救起后大哭了一场",
@@ -4435,12 +4451,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207374,
-      "num": 207374,
-      "word": "老师和家长都沉默了",
-      "onboard_time": 1663772135,
-      "rank": 26,
-      "category": "幽默"
+      "raw_hot": 207888,
+      "num": 175458,
+      "word": "梁海源再见脱口秀大会",
+      "onboard_time": 1663773274,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 207311,
@@ -4459,12 +4475,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 207223,
-      "num": 175458,
-      "word": "梁海源再见脱口秀大会",
-      "onboard_time": 1663773274,
-      "rank": 34,
-      "category": "综艺"
+      "raw_hot": 207167,
+      "num": 207167,
+      "word": "c63",
+      "onboard_time": 1663773393,
+      "rank": 38,
+      "category": "科技"
     },
     {
       "raw_hot": 206879,
@@ -4849,6 +4865,14 @@
       "onboard_time": 1663675711,
       "rank": 34,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 180377,
+      "num": 180377,
+      "word": "被微笑袋鼠治愈了",
+      "onboard_time": 1663774353,
+      "rank": 29,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 180323,
@@ -5339,14 +5363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 147537,
-      "num": 147537,
-      "word": "c63",
-      "onboard_time": 1663773393,
-      "rank": 38,
-      "category": "科技"
-    },
-    {
       "raw_hot": 147495,
       "num": 147495,
       "word": "她们的名字",
@@ -5539,6 +5555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 135704,
+      "num": 135704,
+      "word": "当我妈在家办了场脱口秀大会",
+      "onboard_time": 1663772734,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 134961,
       "num": 134961,
       "word": "我也好想这么潇洒啊",
@@ -5667,14 +5691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 125251,
-      "num": 125251,
-      "word": "当我妈在家办了场脱口秀大会",
-      "onboard_time": 1663772734,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 125216,
       "num": 125216,
       "word": "何小鹏称G9将接棒保时捷",
@@ -5771,6 +5787,14 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 117334,
+      "num": 117334,
+      "word": "广外招生增章",
+      "onboard_time": 1663774771,
+      "rank": 43,
+      "category": "教育,情感"
+    },
+    {
       "raw_hot": 116690,
       "num": 116690,
       "word": "烈士肖思远弟弟成杨根思部队新兵",
@@ -5841,6 +5865,14 @@
       "onboard_time": 1663598609,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 113241,
+      "num": 113241,
+      "word": "华为Mate50系列黄牛最高加价8000",
+      "onboard_time": 1663774291,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 113035,
@@ -6492,7 +6524,7 @@
     },
     {
       "raw_hot": 5228,
-      "num": 284421,
+      "num": 358977,
       "word": "智能汽车的极限在哪里",
       "onboard_time": 1663772432,
       "rank": 14,
