@@ -1,7 +1,15 @@
 {
   "startTime": 1663691674200,
-  "endTime": 1663727951547,
+  "endTime": 1663730690056,
   "band_list": [
+    {
+      "raw_hot": 3924143,
+      "num": 3924143,
+      "word": "国庆休7上7是种啥体验",
+      "onboard_time": 1663725268,
+      "rank": 3,
+      "category": "情感,社会新闻"
+    },
     {
       "raw_hot": 2096212,
       "num": 2096212,
@@ -11,20 +19,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1570518,
+      "num": 1570518,
+      "word": "赵露思陈哲远新剧偷偷藏不住官宣",
+      "onboard_time": 1663729168,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1500309,
       "num": 1500309,
       "word": "可不可以不调休",
       "onboard_time": 1663721069,
       "rank": 1,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1476530,
-      "num": 1476530,
-      "word": "国庆休7上7是种啥体验",
-      "onboard_time": 1663725268,
-      "rank": 3,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 1263240,
@@ -40,6 +48,30 @@
       "word": "2022国庆节放假调休安排",
       "onboard_time": 1663714279,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1165275,
+      "num": 1165275,
+      "word": "宠物大闸蟹被煮兄弟俩边吃边哭",
+      "onboard_time": 1663727427,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1163233,
+      "num": 1163233,
+      "word": "请不要再美化阿尔茨海默症",
+      "onboard_time": 1663725687,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1070564,
+      "num": 555197,
+      "word": "男子烧毁妻子衣服被判三缓四",
+      "onboard_time": 1663726707,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -75,12 +107,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 876576,
+      "num": 876576,
+      "word": "解放军坚决反制一切威胁挑衅",
+      "onboard_time": 1663726106,
+      "rank": 6,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 855324,
       "num": 855324,
       "word": "胡歌是被演员事业耽误的歌手吧",
       "onboard_time": 1663688189,
       "rank": 1,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 849448,
+      "num": 849448,
+      "word": "长月烬明",
+      "onboard_time": 1663727725,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 835787,
@@ -107,6 +155,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 716316,
+      "num": 553048,
+      "word": "泸定地震中失联17天的甘宇找到了",
+      "onboard_time": 1663729645,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 709356,
       "num": 273531,
       "word": "翰了汗了",
@@ -115,27 +171,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 692411,
-      "num": 692411,
-      "word": "解放军坚决反制一切威胁挑衅",
-      "onboard_time": 1663726106,
-      "rank": 6,
-      "category": "军事,国内要闻"
-    },
-    {
       "raw_hot": 676757,
       "num": 676757,
       "word": "北京一男子酒后称后悔结婚",
       "onboard_time": 1663684831,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 618420,
-      "num": 618420,
-      "word": "请不要再美化阿尔茨海默症",
-      "onboard_time": 1663725687,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -203,6 +243,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 531865,
+      "num": 531865,
+      "word": "亚洲最大医院成绩单",
+      "onboard_time": 1663728267,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 523747,
       "num": 272001,
       "word": "谁能顶得住张翰",
@@ -219,11 +267,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 434651,
-      "num": 434651,
-      "word": "男子烧毁妻子衣服被判三缓四",
-      "onboard_time": 1663726707,
-      "rank": 12,
+      "raw_hot": 478911,
+      "num": 478911,
+      "word": "偷偷藏不住",
+      "onboard_time": 1663727785,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 474203,
+      "num": 474203,
+      "word": "禁售槟榔不仅因为它致癌",
+      "onboard_time": 1663726647,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -275,6 +331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 346335,
+      "num": 346335,
+      "word": "灿烂灿烂",
+      "onboard_time": 1663728927,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 331831,
       "num": 331831,
       "word": "国际象棋比赛疑用智能肛珠作弊",
@@ -289,6 +353,22 @@
       "onboard_time": 1663715001,
       "rank": 22,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 316388,
+      "num": 316388,
+      "word": "夫妻吵架双双落水被17岁少年救起",
+      "onboard_time": 1663725029,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 315239,
+      "num": 314840,
+      "word": "苹果教育优惠即将结束",
+      "onboard_time": 1663729106,
+      "rank": 20,
+      "category": "科技"
     },
     {
       "raw_hot": 314984,
@@ -315,12 +395,36 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 305604,
+      "num": 305604,
+      "word": "长月烬明执念相生海报",
+      "onboard_time": 1663728927,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 305249,
       "num": 305249,
       "word": "年上原来这么好嗑",
       "onboard_time": 1663689568,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 303773,
+      "num": 303773,
+      "word": "黄磊为张艺兴新歌面纱打call",
+      "onboard_time": 1663730424,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 298430,
+      "num": 298430,
+      "word": "当代宿舍现状",
+      "onboard_time": 1663725987,
+      "rank": 17,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 293723,
@@ -339,12 +443,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 283415,
-      "num": 283415,
-      "word": "当代宿舍现状",
-      "onboard_time": 1663725987,
-      "rank": 17,
-      "category": "幽默,情感"
+      "raw_hot": 279509,
+      "num": 279509,
+      "word": "95号汽油有望全面降至9元以下",
+      "onboard_time": 1663724727,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 278705,
@@ -371,12 +475,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 263577,
-      "num": 263577,
-      "word": "偷偷藏不住",
-      "onboard_time": 1663727785,
-      "rank": 19,
+      "raw_hot": 273381,
+      "num": 273381,
+      "word": "安乐传",
+      "onboard_time": 1663730368,
+      "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 265580,
+      "num": 265580,
+      "word": "广州疫情防控",
+      "onboard_time": 1663728379,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 261467,
@@ -395,14 +507,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 258132,
-      "num": 258132,
-      "word": "长月烬明",
-      "onboard_time": 1663727725,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 255876,
       "num": 255876,
       "word": "一群孩子捡到4岁男童交给警察叔叔",
@@ -419,14 +523,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 245386,
-      "num": 245386,
-      "word": "禁售槟榔不仅因为它致癌",
-      "onboard_time": 1663726647,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 242993,
       "num": 242993,
       "word": "油价",
@@ -441,6 +537,14 @@
       "onboard_time": 1663686930,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 231347,
+      "num": 231347,
+      "word": "华为Mate50开售",
+      "onboard_time": 1663729348,
+      "rank": 28,
+      "category": "科技"
     },
     {
       "raw_hot": 220262,
@@ -475,22 +579,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 211490,
-      "num": 211490,
-      "word": "95号汽油有望全面降至9元以下",
-      "onboard_time": 1663724727,
-      "rank": 28,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 209181,
-      "num": 209181,
-      "word": "夫妻吵架双双落水被17岁少年救起",
-      "onboard_time": 1663725029,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 207233,
       "num": 207233,
       "word": "女子帮卖棉花糖满天飞变白发魔女",
@@ -515,12 +603,12 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 178078,
-      "num": 178078,
-      "word": "宠物大闸蟹被煮兄弟俩边吃边哭",
-      "onboard_time": 1663727427,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 179899,
+      "num": 179899,
+      "word": "如何维护长期恋爱关系",
+      "onboard_time": 1663725987,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 177853,
@@ -529,6 +617,22 @@
       "onboard_time": 1663717403,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176416,
+      "num": 176416,
+      "word": "河南一高校通报学信网信息被泄露",
+      "onboard_time": 1663730069,
+      "rank": 35,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 170212,
+      "num": 170212,
+      "word": "请各位帅哥正确用脸",
+      "onboard_time": 1663697594,
+      "rank": 17,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 170078,
@@ -555,12 +659,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 165179,
-      "num": 165179,
-      "word": "请各位帅哥正确用脸",
-      "onboard_time": 1663697594,
-      "rank": 17,
-      "category": "幽默,艺人"
+      "raw_hot": 164153,
+      "num": 164153,
+      "word": "00后千字反向面评HR意外获offer",
+      "onboard_time": 1663730547,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163379,
@@ -643,14 +747,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 134246,
-      "num": 134246,
-      "word": "如何维护长期恋爱关系",
-      "onboard_time": 1663725987,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 134083,
       "num": 134083,
       "word": "河南增1例本土确诊无症状8例",
@@ -683,12 +779,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 120907,
+      "num": 120907,
+      "word": "是不是你减肥时的心理活动",
+      "onboard_time": 1663729408,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120406,
       "num": 101354,
       "word": "脱口秀大会淘汰",
       "onboard_time": 1663683756,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115751,
+      "num": 115751,
+      "word": "成年人的心动是什么",
+      "onboard_time": 1663730007,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 115624,
@@ -705,6 +817,14 @@
       "onboard_time": 1663671449,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 114148,
+      "num": 114148,
+      "word": "字节回应网传外包员工偷拿下午茶被辞",
+      "onboard_time": 1663730486,
+      "rank": 49,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 113035,
