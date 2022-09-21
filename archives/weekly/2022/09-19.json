@@ -1,6 +1,6 @@
 {
   "startTime": 1663518759246,
-  "endTime": 1663795317487,
+  "endTime": 1663796412483,
   "band_list": [
     {
       "raw_hot": 8415894,
@@ -6196,7 +6196,7 @@
     },
     {
       "raw_hot": 86506,
-      "num": 24524,
+      "num": 45912,
       "word": "中国人确实有点种菜天赋在身上的",
       "onboard_time": 1663785673,
       "rank": 39,
@@ -6324,7 +6324,7 @@
     },
     {
       "raw_hot": 52476,
-      "num": 19211,
+      "num": 23531,
       "word": "澳大利亚一海滩约230头鲸发生搁浅",
       "onboard_time": 1663789271,
       "rank": 15,
@@ -6361,6 +6361,14 @@
       "onboard_time": 1663492050,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 42657,
+      "num": 23293,
+      "word": "央媒集体点赞的退伍女兵找到了",
+      "onboard_time": 1663792149,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40340,
@@ -6409,14 +6417,6 @@
       "onboard_time": 1663709171,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 27235,
-      "num": 19113,
-      "word": "央媒集体点赞的退伍女兵找到了",
-      "onboard_time": 1663792149,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25643,
@@ -6475,6 +6475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 12815,
+      "num": 12815,
+      "word": "研究表明微塑料会伤肝肺",
+      "onboard_time": 1663794970,
+      "rank": 44,
+      "category": "科技"
+    },
+    {
       "raw_hot": 12478,
       "num": 402532,
       "word": "华为Mate50评测",
@@ -6523,20 +6531,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 8454,
+      "num": 8454,
+      "word": "张国伟说女生不要刻意追求马甲线",
+      "onboard_time": 1663795570,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 8283,
       "num": 8283,
       "word": "张镇麟参加辽宁男篮合练",
       "onboard_time": 1663619651,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 7633,
-      "num": 7924,
-      "word": "研究表明微塑料会伤肝肺",
-      "onboard_time": 1663794970,
-      "rank": 44,
-      "category": "科技"
     },
     {
       "raw_hot": 7622,
@@ -6611,6 +6619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 6988,
+      "num": 6988,
+      "word": "老人发病公交司机冲进派出所求助",
+      "onboard_time": 1663795511,
+      "rank": 46,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 6871,
       "num": 6871,
       "word": "我国高速磁浮交通系统首次亮相欧洲",
@@ -6635,20 +6651,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 6593,
+      "num": 6593,
+      "word": "覆流年",
+      "onboard_time": 1663796111,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 6349,
+      "num": 7755,
+      "word": "视障老人寸步不离照顾阿尔茨海默病妻子",
+      "onboard_time": 1663795271,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 6328,
       "num": 8875,
       "word": "宋亚东报平安",
       "onboard_time": 1663536733,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 6117,
-      "num": 7755,
-      "word": "视障老人寸步不离照顾阿尔茨海默病妻子",
-      "onboard_time": 1663795271,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 6074,
@@ -6663,6 +6687,14 @@
       "num": 7690,
       "word": "甘宇从泸定水电站走到石棉猛虎岗",
       "onboard_time": 1663795151,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6035,
+      "num": 6339,
+      "word": "预防阿尔茨海默病的5个方法",
+      "onboard_time": 1663796351,
       "rank": 49,
       "category": "社会新闻"
     },
