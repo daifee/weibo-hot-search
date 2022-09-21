@@ -1,6 +1,6 @@
 {
   "startTime": 1663691674200,
-  "endTime": 1663756048737,
+  "endTime": 1663757061853,
   "band_list": [
     {
       "raw_hot": 8415894,
@@ -43,6 +43,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1756922,
+      "num": 1756922,
+      "word": "点外卖备注要个鸭屁股喂狗被赠2斤",
+      "onboard_time": 1663751794,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1707058,
       "num": 361367,
       "word": "张翰让我戒掉了手机",
@@ -65,14 +73,6 @@
       "onboard_time": 1663729168,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1557332,
-      "num": 1557332,
-      "word": "点外卖备注要个鸭屁股喂狗被赠2斤",
-      "onboard_time": 1663751794,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1524134,
@@ -161,6 +161,14 @@
       "onboard_time": 1663725687,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1120202,
+      "num": 416739,
+      "word": "乐华对哇唧唧哇放狠话",
+      "onboard_time": 1663754549,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1106112,
@@ -315,14 +323,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 743236,
-      "num": 416739,
-      "word": "乐华对哇唧唧哇放狠话",
-      "onboard_time": 1663754549,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 740566,
       "num": 527535,
       "word": "字节回应网传外包员工偷拿下午茶被辞",
@@ -347,12 +347,28 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 711359,
+      "num": 711359,
+      "word": "李沁不是鸡腿姑娘是鸡腿刺客",
+      "onboard_time": 1663755154,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 709356,
       "num": 273531,
       "word": "翰了汗了",
       "onboard_time": 1663681595,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 700196,
+      "num": 700196,
+      "word": "21岁送外卖单亲妈妈回应",
+      "onboard_time": 1663752392,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 676757,
@@ -411,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 586344,
+      "num": 355401,
+      "word": "我读研一年都学会了什么",
+      "onboard_time": 1663755090,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 579506,
       "num": 579506,
       "word": "吴世勋街头男战士舞台",
@@ -441,14 +465,6 @@
       "onboard_time": 1663715661,
       "rank": 16,
       "category": "科技"
-    },
-    {
-      "raw_hot": 543265,
-      "num": 543265,
-      "word": "21岁送外卖单亲妈妈回应",
-      "onboard_time": 1663752392,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 531865,
@@ -537,14 +553,6 @@
       "onboard_time": 1663734209,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 468474,
-      "num": 468474,
-      "word": "李沁不是鸡腿姑娘是鸡腿刺客",
-      "onboard_time": 1663755154,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 445297,
@@ -739,6 +747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 318153,
+      "num": 318153,
+      "word": "男子实习期醉驾坚称自己是女人",
+      "onboard_time": 1663754252,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317141,
       "num": 317141,
       "word": "王毅强调当务之急是妥善管控台湾问题",
@@ -859,6 +875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 292019,
+      "num": 292019,
+      "word": "大考",
+      "onboard_time": 1663755930,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 290088,
       "num": 290088,
       "word": "河南一大学招聘洗刷工限30岁以下",
@@ -923,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263647,
+      "num": 263647,
+      "word": "嫌弃脸可不能随便乱用",
+      "onboard_time": 1663753829,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 263206,
       "num": 263206,
       "word": "成年人的心动是什么",
@@ -961,14 +993,6 @@
       "onboard_time": 1663701673,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 245490,
-      "num": 245490,
-      "word": "嫌弃脸可不能随便乱用",
-      "onboard_time": 1663753829,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 245483,
@@ -1051,20 +1075,20 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 228727,
+      "num": 228727,
+      "word": "外交部回应普京俄乌局势最新言论",
+      "onboard_time": 1663756051,
+      "rank": 26,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 227028,
       "num": 227028,
       "word": "潮汕生腌的正确打开方式",
       "onboard_time": 1663745850,
       "rank": 23,
       "category": "美食"
-    },
-    {
-      "raw_hot": 224000,
-      "num": 224000,
-      "word": "我读研一年都学会了什么",
-      "onboard_time": 1663755090,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 222992,
@@ -1099,11 +1123,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 220136,
-      "num": 220136,
-      "word": "男子实习期醉驾坚称自己是女人",
-      "onboard_time": 1663754252,
-      "rank": 29,
+      "raw_hot": 219093,
+      "num": 219093,
+      "word": "湖南疾控发布国庆出行健康提示",
+      "onboard_time": 1663753652,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -1147,6 +1171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 212656,
+      "num": 212656,
+      "word": "89岁电台主持重现70年前台呼",
+      "onboard_time": 1663756709,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212578,
       "num": 212578,
       "word": "美版iPhone14仍有SIM卡空间",
@@ -1160,14 +1192,6 @@
       "word": "田曦薇新剧婚服造型",
       "onboard_time": 1663736791,
       "rank": 26,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 211450,
-      "num": 211450,
-      "word": "大考",
-      "onboard_time": 1663755930,
-      "rank": 32,
       "category": "影视"
     },
     {
@@ -1235,14 +1259,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 188550,
-      "num": 188550,
-      "word": "湖南疾控发布国庆出行健康提示",
-      "onboard_time": 1663753652,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 185390,
       "num": 185390,
       "word": "龚道安一审被判无期徒刑",
@@ -1291,6 +1307,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 179684,
+      "num": 179684,
+      "word": "甘宇被村民救起后大哭了一场",
+      "onboard_time": 1663756531,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179430,
       "num": 179430,
       "word": "黑龙江新增本土感染者111例",
@@ -1329,6 +1353,14 @@
       "onboard_time": 1663681476,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169617,
+      "num": 169617,
+      "word": "小猫咪的十级弹跳力",
+      "onboard_time": 1663755930,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 169572,
@@ -1467,14 +1499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139551,
-      "num": 139551,
-      "word": "小猫咪的十级弹跳力",
-      "onboard_time": 1663755930,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 134493,
       "num": 134493,
       "word": "真诚是打败阴阳怪气的必杀技",
@@ -1553,6 +1577,14 @@
       "onboard_time": 1663683756,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117328,
+      "num": 117328,
+      "word": "女孩酷爱躺着玩手机双眼无法聚焦",
+      "onboard_time": 1663756831,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116690,
