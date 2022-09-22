@@ -1,13 +1,45 @@
 {
   "startTime": 1663778231376,
-  "endTime": 1663803791472,
+  "endTime": 1663813677460,
   "band_list": [
+    {
+      "raw_hot": 2948927,
+      "num": 1100720,
+      "word": "捡到校园卡却被对方以为要追她",
+      "onboard_time": 1663806088,
+      "rank": 3,
+      "category": "幽默,情感"
+    },
     {
       "raw_hot": 2150709,
       "num": 268607,
       "word": "北电赵韦弦被刑拘",
       "onboard_time": 1663776088,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1780122,
+      "num": 1780122,
+      "word": "学生交完4500住宿费搬进12人间教室",
+      "onboard_time": 1663809328,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1335060,
+      "num": 406654,
+      "word": "梅四阿姨",
+      "onboard_time": 1663812566,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 1183605,
+      "num": 1183605,
+      "word": "甘宇多处骨折并伴有严重感染",
+      "onboard_time": 1663807649,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -19,12 +51,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1079253,
+      "num": 1079253,
+      "word": "求求演员别唱歌了",
+      "onboard_time": 1663806450,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1028729,
-      "num": 332799,
+      "num": 402611,
       "word": "马来西亚男子性侵俩女儿被判428年",
       "onboard_time": 1663768353,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 941469,
+      "num": 941469,
+      "word": "分手就该拉黑删除吗",
+      "onboard_time": 1663808549,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 928444,
@@ -59,11 +107,35 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 759138,
+      "num": 759138,
+      "word": "女子被骗40万元民警追回100万元",
+      "onboard_time": 1663810707,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 690814,
       "num": 261360,
       "word": "北电回应赵韦弦被刑拘",
       "onboard_time": 1663775670,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 643197,
+      "num": 643197,
+      "word": "华为门店排长队购新机",
+      "onboard_time": 1663809628,
+      "rank": 7,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 638538,
+      "num": 638538,
+      "word": "给43个未成年文身老板被判向社会道歉",
+      "onboard_time": 1663806691,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -139,11 +211,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 423467,
+      "num": 423467,
+      "word": "思文程璐HBE",
+      "onboard_time": 1663803384,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 389803,
       "num": 389803,
       "word": "地铁座有污渍两女生默默擦净",
       "onboard_time": 1663770696,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 380231,
+      "num": 380231,
+      "word": "男子被邀进店避雨趁机搂抱女店员",
+      "onboard_time": 1663811967,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -163,6 +251,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 329103,
+      "num": 329103,
+      "word": "大妈连续两天到邻居家中摔乌龟",
+      "onboard_time": 1663803264,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 323180,
       "num": 323180,
       "word": "武艺一出现就有新笑料",
@@ -179,12 +275,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 318345,
+      "num": 318345,
+      "word": "kid发文回应淘汰",
+      "onboard_time": 1663809507,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 307971,
+      "num": 307971,
+      "word": "武汉新增2例无症状感染者",
+      "onboard_time": 1663811246,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294397,
       "num": 294397,
       "word": "广外招生增章",
       "onboard_time": 1663774771,
       "rank": 7,
       "category": "教育,情感"
+    },
+    {
+      "raw_hot": 287807,
+      "num": 287807,
+      "word": "美对我电信基础设施渗透控制",
+      "onboard_time": 1663808788,
+      "rank": 17,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 269317,
@@ -251,6 +371,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 229556,
+      "num": 229556,
+      "word": "S12入围赛赛程",
+      "onboard_time": 1663807351,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 229110,
+      "num": 229110,
+      "word": "9月21日新增本土确诊114例",
+      "onboard_time": 1663810048,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228714,
       "num": 228714,
       "word": "华为Mate50系列黄牛最高加价8000",
@@ -259,11 +395,27 @@
       "category": "科技"
     },
     {
+      "raw_hot": 220808,
+      "num": 220808,
+      "word": "民警挨个手指试出醉汉手机指纹锁",
+      "onboard_time": 1663806026,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219655,
       "num": 219655,
       "word": "2022年最后100天",
       "onboard_time": 1663802122,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214582,
+      "num": 214582,
+      "word": "老伴贪玩弄丢自己大妈狂擂大爷",
+      "onboard_time": 1663789631,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -283,6 +435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 197877,
+      "num": 197877,
+      "word": "长月烬明",
+      "onboard_time": 1663803025,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 194853,
       "num": 194853,
       "word": "外交部敦促美军不要再偷油",
@@ -291,11 +451,27 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 193982,
+      "num": 193982,
+      "word": "好人遇见了好人",
+      "onboard_time": 1663812928,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193346,
       "num": 193346,
       "word": "女子2折出售迪士尼年卡卷走1300万",
       "onboard_time": 1663759469,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189402,
+      "num": 189402,
+      "word": "白天常犯困秒睡可能是种病",
+      "onboard_time": 1663803384,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -307,12 +483,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 163441,
-      "num": 163441,
-      "word": "思文程璐HBE",
-      "onboard_time": 1663803384,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 167781,
+      "num": 167781,
+      "word": "张国伟将在11月份出国比赛",
+      "onboard_time": 1663811485,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 162303,
@@ -329,6 +505,30 @@
       "onboard_time": 1663761147,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 158291,
+      "num": 158291,
+      "word": "我的反派男友全糖MV首发",
+      "onboard_time": 1663813227,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 150748,
+      "num": 150748,
+      "word": "社恐猫咪有多怕陌生人",
+      "onboard_time": 1663806868,
+      "rank": 33,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 149163,
+      "num": 149163,
+      "word": "太阳老板将出售球队",
+      "onboard_time": 1663807588,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 147023,
@@ -363,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139661,
+      "num": 139661,
+      "word": "河南增本土确诊3例无症状6例",
+      "onboard_time": 1663811668,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138428,
       "num": 138428,
       "word": "专硕学制延长至3年是否必要",
@@ -379,12 +587,12 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 127155,
-      "num": 127155,
-      "word": "白天常犯困秒睡可能是种病",
-      "onboard_time": 1663803384,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 129432,
+      "num": 129432,
+      "word": "你期待在国庆档看到哪部电影",
+      "onboard_time": 1663807471,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 127081,
@@ -393,6 +601,30 @@
       "onboard_time": 1663773274,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118428,
+      "num": 118428,
+      "word": "第五人格",
+      "onboard_time": 1663811246,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 115193,
+      "num": 115193,
+      "word": "王者新英雄海月",
+      "onboard_time": 1663813407,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 113941,
+      "num": 113941,
+      "word": "专家称中国股市能跑赢美国股市",
+      "onboard_time": 1663813166,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 113126,
@@ -417,6 +649,14 @@
       "onboard_time": 1663772734,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 99404,
+      "num": 99404,
+      "word": "专门针对学生的九大诈骗",
+      "onboard_time": 1663812089,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 99081,
@@ -451,35 +691,11 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 92244,
-      "num": 92244,
-      "word": "长月烬明",
-      "onboard_time": 1663803025,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 89966,
-      "num": 89966,
-      "word": "大妈连续两天到邻居家中摔乌龟",
-      "onboard_time": 1663803264,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 89494,
       "num": 89494,
       "word": "男子开面包车拉了40头小猪上高速",
       "onboard_time": 1663763852,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 87190,
-      "num": 87190,
-      "word": "老伴贪玩弄丢自己大妈狂擂大爷",
-      "onboard_time": 1663789631,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -580,7 +796,7 @@
     },
     {
       "raw_hot": 25351,
-      "num": 742695,
+      "num": 1111266,
       "word": "中国载人航天高光时刻",
       "onboard_time": 1663754431,
       "rank": 2,
