@@ -1,6 +1,6 @@
 {
   "startTime": 1663864508123,
-  "endTime": 1663872511128,
+  "endTime": 1663874434996,
   "band_list": [
     {
       "raw_hot": 1757360,
@@ -339,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79134,
+      "num": 45405,
+      "word": "女子办证时偷偷递纸条给民警求助",
+      "onboard_time": 1663869434,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78419,
       "num": 78419,
       "word": "天娱新男团官宣",
@@ -395,18 +403,18 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 65510,
-      "num": 45405,
-      "word": "女子办证时偷偷递纸条给民警求助",
-      "onboard_time": 1663869434,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 60976,
       "num": 60976,
       "word": "5岁男孩礼貌求摸警犬获众人鼓励",
       "onboard_time": 1663864761,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48654,
+      "num": 34979,
+      "word": "顾客称吃饭被收20元空调费",
+      "onboard_time": 1663870813,
       "rank": 49,
       "category": "社会新闻"
     },
@@ -441,14 +449,6 @@
       "onboard_time": 1663870514,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 19280,
-      "num": 19280,
-      "word": "顾客称吃饭被收20元空调费",
-      "onboard_time": 1663870813,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 10054,

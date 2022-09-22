@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/19 00:32:39 ~ 2022/09/23 02:48:31
+本榜单时间：2022/09/19 00:32:39 ~ 2022/09/23 03:20:34
 </p>
 </blockquote>
 <p>
@@ -6129,6 +6129,12 @@ NCT127新曲初舞台（热度：81381）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%8A%9E%E8%AF%81%E6%97%B6%E5%81%B7%E5%81%B7%E9%80%92%E7%BA%B8%E6%9D%A1%E7%BB%99%E6%B0%91%E8%AD%A6%E6%B1%82%E5%8A%A9%23" target="weibo">
+女子办证时偷偷递纸条给民警求助（热度：79134）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E4%B8%93%E8%BE%91%E6%96%87%E6%A1%88%23" target="weibo">
 薛之谦专辑文案（热度：77618）
 </a>
@@ -6189,12 +6195,6 @@ NCT127新曲初舞台（热度：81381）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%8A%9E%E8%AF%81%E6%97%B6%E5%81%B7%E5%81%B7%E9%80%92%E7%BA%B8%E6%9D%A1%E7%BB%99%E6%B0%91%E8%AD%A6%E6%B1%82%E5%8A%A9%23" target="weibo">
-女子办证时偷偷递纸条给民警求助（热度：65510）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%235%E5%B2%81%E7%94%B7%E5%AD%A9%E7%A4%BC%E8%B2%8C%E6%B1%82%E6%91%B8%E8%AD%A6%E7%8A%AC%E8%8E%B7%E4%BC%97%E4%BA%BA%E9%BC%93%E5%8A%B1%23" target="weibo">
 5岁男孩礼貌求摸警犬获众人鼓励（热度：60976）
 </a>
@@ -6233,6 +6233,12 @@ NCT127新曲初舞台（热度：81381）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%AA%E4%B8%AD%E6%82%8D%E5%88%80%E8%A1%8C%E5%8E%9F%E6%91%84%E5%BD%B1%E5%B8%88%E8%AF%84%E8%AE%BA%E5%9E%AB%E5%BA%95%E8%BE%A3%E5%AD%A9%23" target="weibo">
 雪中悍刀行原摄影师评论垫底辣孩（热度：49591）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E7%A7%B0%E5%90%83%E9%A5%AD%E8%A2%AB%E6%94%B620%E5%85%83%E7%A9%BA%E8%B0%83%E8%B4%B9%23" target="weibo">
+顾客称吃饭被收20元空调费（热度：48654）
 </a>
 </li>
 
@@ -6329,12 +6335,6 @@ NCT127新曲初舞台（热度：81381）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23S12%E9%80%89%E6%89%8B%E8%AF%84%E5%88%86%23" target="weibo">
 S12选手评分（热度：19425）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E7%A7%B0%E5%90%83%E9%A5%AD%E8%A2%AB%E6%94%B620%E5%85%83%E7%A9%BA%E8%B0%83%E8%B4%B9%23" target="weibo">
-顾客称吃饭被收20元空调费（热度：19280）
 </a>
 </li>
 
