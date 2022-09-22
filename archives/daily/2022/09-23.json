@@ -1,6 +1,6 @@
 {
   "startTime": 1663864508123,
-  "endTime": 1663885529000,
+  "endTime": 1663886575559,
   "band_list": [
     {
       "raw_hot": 1757360,
@@ -33,6 +33,14 @@
       "onboard_time": 1663860932,
       "rank": 11,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 564106,
+      "num": 564106,
+      "word": "南京一小学让孩子躺着午睡",
+      "onboard_time": 1663864282,
+      "rank": 46,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 531195,
@@ -75,14 +83,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 367628,
-      "num": 367628,
-      "word": "南京一小学让孩子躺着午睡",
-      "onboard_time": 1663864282,
-      "rank": 46,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 337594,
       "num": 337594,
       "word": "德国称希望成为安理会常任理事国",
@@ -99,20 +99,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 299683,
+      "num": 299683,
+      "word": "邻居骗走钥匙将下水管装满天花板",
+      "onboard_time": 1663857151,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272175,
       "num": 272175,
       "word": "覆流年 be",
       "onboard_time": 1663861352,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 271782,
-      "num": 271782,
-      "word": "邻居骗走钥匙将下水管装满天花板",
-      "onboard_time": 1663857151,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 258315,
@@ -136,6 +136,14 @@
       "word": "男子醉驾连撞6车甩锅给妹妹",
       "onboard_time": 1663858895,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193317,
+      "num": 193317,
+      "word": "顾客称吃饭被收20元空调费",
+      "onboard_time": 1663870813,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -169,6 +177,14 @@
       "onboard_time": 1663865001,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 173864,
+      "num": 173864,
+      "word": "朝鲜军方否认向俄出口武器弹药",
+      "onboard_time": 1663877651,
+      "rank": 42,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 168724,
@@ -227,27 +243,11 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 137844,
-      "num": 137844,
-      "word": "朝鲜军方否认向俄出口武器弹药",
-      "onboard_time": 1663877651,
-      "rank": 42,
-      "category": "国外要闻,军事"
-    },
-    {
       "raw_hot": 134723,
       "num": 134723,
       "word": "小偷得知失主癌症晚期改口认罪",
       "onboard_time": 1663841428,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 132024,
-      "num": 132024,
-      "word": "顾客称吃饭被收20元空调费",
-      "onboard_time": 1663870813,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -291,6 +291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110196,
+      "num": 110196,
+      "word": "女子办证时偷偷递纸条给民警求助",
+      "onboard_time": 1663869434,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107515,
       "num": 107515,
       "word": "秦皇岛巨型漫画云",
@@ -305,6 +313,14 @@
       "onboard_time": 1663846831,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104363,
+      "num": 104363,
+      "word": "2022年天安门广场摆花方案公布",
+      "onboard_time": 1663882451,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104360,
@@ -347,19 +363,19 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 82293,
+      "num": 82293,
+      "word": "男子骗39名女子56万获刑11年半",
+      "onboard_time": 1663878790,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80520,
       "num": 80520,
       "word": "北京大风网友吐槽头发保不住",
       "onboard_time": 1663854209,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 79134,
-      "num": 74605,
-      "word": "女子办证时偷偷递纸条给民警求助",
-      "onboard_time": 1663869434,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -369,14 +385,6 @@
       "onboard_time": 1663846168,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 74629,
-      "num": 74629,
-      "word": "男子骗39名女子56万获刑11年半",
-      "onboard_time": 1663878790,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 72072,
@@ -419,20 +427,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 67172,
+      "num": 67172,
+      "word": "美军连续三天偷叙利亚石油",
+      "onboard_time": 1663876331,
+      "rank": 16,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 66254,
       "num": 572196,
       "word": "惊艳了整个秋天的丰收色",
       "onboard_time": 1663849649,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 61318,
-      "num": 53879,
-      "word": "美军连续三天偷叙利亚石油",
-      "onboard_time": 1663876331,
-      "rank": 16,
-      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 60976,
@@ -443,11 +451,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 51418,
-      "num": 51418,
-      "word": "2022年天安门广场摆花方案公布",
-      "onboard_time": 1663882451,
-      "rank": 46,
+      "raw_hot": 50616,
+      "num": 50616,
+      "word": "世界在建规模最大水电工程投产发电",
+      "onboard_time": 1663884072,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -457,6 +465,14 @@
       "onboard_time": 1663878431,
       "rank": 37,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 39648,
+      "num": 39648,
+      "word": "婆婆跨越千里为待产儿媳送土特产",
+      "onboard_time": 1663877950,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38770,
@@ -475,12 +491,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 31258,
-      "num": 31258,
-      "word": "婆婆跨越千里为待产儿媳送土特产",
-      "onboard_time": 1663877950,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 32612,
+      "num": 32612,
+      "word": "昆仑神宫剧评",
+      "onboard_time": 1663878070,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 30765,
@@ -491,12 +507,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25399,
-      "num": 25399,
-      "word": "昆仑神宫剧评",
-      "onboard_time": 1663878070,
-      "rank": 32,
-      "category": "影视"
+      "raw_hot": 20493,
+      "num": 20493,
+      "word": "口腔种植体集采将开展",
+      "onboard_time": 1663877950,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19425,
@@ -507,36 +523,36 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 19347,
-      "num": 19347,
-      "word": "口腔种植体集采将开展",
-      "onboard_time": 1663877950,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18578,
-      "num": 18578,
-      "word": "世界在建规模最大水电工程投产发电",
-      "onboard_time": 1663884072,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15233,
-      "num": 15233,
+      "raw_hot": 16113,
+      "num": 16113,
       "word": "开学季",
       "onboard_time": 1663879750,
       "rank": 31,
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 14147,
-      "num": 14147,
+      "raw_hot": 14912,
+      "num": 14912,
       "word": "致敬平民英雄",
       "onboard_time": 1663882092,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13540,
+      "num": 13540,
+      "word": "老师教听障女孩摸喉咙练习发声",
+      "onboard_time": 1663880949,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 11558,
+      "num": 13539,
+      "word": "轨迹系列销量七百万份",
+      "onboard_time": 1663883472,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 10748,
@@ -547,14 +563,6 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 10345,
-      "num": 10345,
-      "word": "老师教听障女孩摸喉咙练习发声",
-      "onboard_time": 1663880949,
-      "rank": 47,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 10116,
       "num": 10116,
       "word": "王者新赛季今日开启",
@@ -563,16 +571,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 9222,
-      "num": 10339,
-      "word": "轨迹系列销量七百万份",
-      "onboard_time": 1663883472,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 7994,
-      "num": 10335,
+      "raw_hot": 8380,
+      "num": 13412,
       "word": "锡林浩特下半年初雪提前登场",
       "onboard_time": 1663883532,
       "rank": 49,
