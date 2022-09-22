@@ -1,6 +1,6 @@
 {
   "startTime": 1663778231376,
-  "endTime": 1663822042617,
+  "endTime": 1663822911704,
   "band_list": [
     {
       "raw_hot": 3165982,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2363918,
-      "num": 487980,
+      "num": 517053,
       "word": "梅四阿姨",
       "onboard_time": 1663812566,
       "rank": 10,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2072202,
-      "num": 489930,
+      "num": 539986,
       "word": "于正说可以试刘浩存",
       "onboard_time": 1663820551,
       "rank": 10,
@@ -51,8 +51,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1677476,
+      "num": 537071,
+      "word": "傅政华死缓",
+      "onboard_time": 1663821394,
+      "rank": 12,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1229447,
-      "num": 702719,
+      "num": 760775,
       "word": "女子剖腹产后回家被用箩筐抬上5楼",
       "onboard_time": 1663816168,
       "rank": 49,
@@ -139,20 +147,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 862111,
+      "num": 494534,
+      "word": "随手丢块肥猪肉哪知价值2万元",
+      "onboard_time": 1663818749,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 846516,
-      "num": 658253,
+      "num": 726374,
       "word": "老款iPhone升级iOS16续航崩了",
       "onboard_time": 1663816707,
       "rank": 5,
       "category": "科技"
-    },
-    {
-      "raw_hot": 828543,
-      "num": 486229,
-      "word": "傅政华死缓",
-      "onboard_time": 1663821394,
-      "rank": 12,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 821084,
@@ -161,14 +169,6 @@
       "onboard_time": 1663773032,
       "rank": 3,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 796594,
-      "num": 483499,
-      "word": "随手丢块肥猪肉哪知价值2万元",
-      "onboard_time": 1663818749,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 794166,
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 589784,
+      "num": 589784,
+      "word": "海南槟榔协会发布槟榔产业发展报告",
+      "onboard_time": 1663818387,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 567423,
       "num": 567423,
       "word": "张予曦疯狂报班只为演好戏",
@@ -240,6 +248,14 @@
       "word": "华为紧急增产Mate50系列",
       "onboard_time": 1663818928,
       "rank": 8,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 559293,
+      "num": 487904,
+      "word": "超23%iPhone用户升级iOS16",
+      "onboard_time": 1663819892,
+      "rank": 15,
       "category": "科技"
     },
     {
@@ -275,14 +291,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 494069,
-      "num": 480505,
-      "word": "超23%iPhone用户升级iOS16",
-      "onboard_time": 1663819892,
-      "rank": 15,
-      "category": "科技"
-    },
-    {
       "raw_hot": 490798,
       "num": 490798,
       "word": "澳大利亚一海滩约230头鲸发生搁浅",
@@ -291,19 +299,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 490123,
-      "num": 490123,
-      "word": "海南槟榔协会发布槟榔产业发展报告",
-      "onboard_time": 1663818387,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 482523,
       "num": 482523,
       "word": "一家三代患病7岁妹妹捡瓶子救哥",
       "onboard_time": 1663796713,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 479530,
+      "num": 479530,
+      "word": "甘宇失联17天中有9天淋雨致感染",
+      "onboard_time": 1663815807,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -355,20 +363,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 374060,
-      "num": 374060,
-      "word": "甘宇失联17天中有9天淋雨致感染",
-      "onboard_time": 1663815807,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 361069,
       "num": 361069,
       "word": "日式快餐为什么不火了",
       "onboard_time": 1663760008,
       "rank": 8,
       "category": "社会新闻,社会新闻"
+    },
+    {
+      "raw_hot": 333706,
+      "num": 333706,
+      "word": "那种一直不谈恋爱的最会玩",
+      "onboard_time": 1663822657,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 330848,
@@ -393,6 +401,14 @@
       "onboard_time": 1663776806,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 322989,
+      "num": 322989,
+      "word": "郭晓婷说无尽酒壶给我满上",
+      "onboard_time": 1663820973,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 321635,
@@ -451,12 +467,20 @@
       "category": "情感,时尚"
     },
     {
-      "raw_hot": 291096,
-      "num": 291096,
+      "raw_hot": 291350,
+      "num": 291350,
       "word": "S12主题曲封面Meiko",
       "onboard_time": 1663819652,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 288450,
+      "num": 288450,
+      "word": "大学生用纸折出1400个鳞片的龙神",
+      "onboard_time": 1663818148,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 287807,
@@ -467,20 +491,20 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 273259,
-      "num": 273259,
-      "word": "郭晓婷说无尽酒壶给我满上",
-      "onboard_time": 1663820973,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 269317,
       "num": 269317,
       "word": "c63",
       "onboard_time": 1663773393,
       "rank": 9,
       "category": "科技"
+    },
+    {
+      "raw_hot": 269293,
+      "num": 269293,
+      "word": "如何区分伴侣的占有欲和PUA",
+      "onboard_time": 1663820130,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 267228,
@@ -507,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257638,
+      "num": 257638,
+      "word": "这猫怎么睡得四仰八叉的",
+      "onboard_time": 1663821515,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 257126,
       "num": 257126,
       "word": "Kid淘汰",
@@ -523,14 +555,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 250526,
-      "num": 250526,
-      "word": "大学生用纸折出1400个鳞片的龙神",
-      "onboard_time": 1663818148,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 250146,
       "num": 250146,
       "word": "罗勇 甘宇",
@@ -539,12 +563,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 237924,
-      "num": 237924,
-      "word": "如何区分伴侣的占有欲和PUA",
-      "onboard_time": 1663820130,
-      "rank": 31,
-      "category": "影视"
+      "raw_hot": 239233,
+      "num": 122488,
+      "word": "警方通报某艺考机构杜某某已被刑拘",
+      "onboard_time": 1663822894,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 237040,
@@ -747,20 +771,20 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 163966,
-      "num": 163966,
-      "word": "这猫怎么睡得四仰八叉的",
-      "onboard_time": 1663821515,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 162303,
       "num": 162303,
       "word": "再催婚就不礼貌了",
       "onboard_time": 1663759469,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 161342,
+      "num": 161342,
+      "word": "甘宇哥哥发博感谢救人者和网友",
+      "onboard_time": 1663822057,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160651,
@@ -1073,6 +1097,14 @@
       "onboard_time": 1663775190,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 18830,
+      "num": 162047,
+      "word": "95后女孩带团队一天卖出千万羽绒服",
+      "onboard_time": 1663822833,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16850,

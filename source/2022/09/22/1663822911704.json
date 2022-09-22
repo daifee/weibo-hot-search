@@ -1,0 +1,410 @@
+{
+  "runTime": 1663822911704,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1628272,
+        "num": 1628272,
+        "word": "狐妖小红娘月红篇官宣全阵容",
+        "onboard_time": 1663814786,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 822834,
+        "num": 822834,
+        "word": "女子被骗40万元民警追回100万元",
+        "onboard_time": 1663810707,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228779,
+        "num": 761131,
+        "word": "好人遇见了好人",
+        "onboard_time": 1663812928,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2521193,
+        "num": 760812,
+        "word": "捡到校园卡却被对方以为要追她",
+        "onboard_time": 1663806088,
+        "rank": 3,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 1114173,
+        "num": 760775,
+        "word": "女子剖腹产后回家被用箩筐抬上5楼",
+        "onboard_time": 1663816168,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 760250,
+        "num": 760250,
+        "word": "甘宇多处骨折并伴有严重感染",
+        "onboard_time": 1663807649,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 726374,
+        "num": 726374,
+        "word": "老款iPhone升级iOS16续航崩了",
+        "onboard_time": 1663816707,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 605626,
+        "num": 605626,
+        "word": "女子上班时挪车被罚穿高跟鞋蛙跳",
+        "onboard_time": 1663816048,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 589784,
+        "num": 589784,
+        "word": "海南槟榔协会发布槟榔产业发展报告",
+        "onboard_time": 1663818387,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551624,
+        "num": 551624,
+        "word": "华为紧急增产Mate50系列",
+        "onboard_time": 1663818928,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1850720,
+        "num": 539986,
+        "word": "于正说可以试刘浩存",
+        "onboard_time": 1663820551,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1677476,
+        "num": 537071,
+        "word": "傅政华死缓",
+        "onboard_time": 1663821394,
+        "rank": 11,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1114936,
+        "num": 517053,
+        "word": "梅四阿姨",
+        "onboard_time": 1663812566,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 862111,
+        "num": 494534,
+        "word": "随手丢块肥猪肉哪知价值2万元",
+        "onboard_time": 1663818749,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559293,
+        "num": 487904,
+        "word": "超23%iPhone用户升级iOS16",
+        "onboard_time": 1663819892,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 479530,
+        "num": 479530,
+        "word": "甘宇失联17天中有9天淋雨致感染",
+        "onboard_time": 1663815807,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445474,
+        "num": 445474,
+        "word": "求求演员别唱歌了",
+        "onboard_time": 1663806450,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438834,
+        "num": 438834,
+        "word": "离岸人民币兑美元跌破7.10",
+        "onboard_time": 1663817427,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 408217,
+        "num": 408217,
+        "word": "谷爱凌参加斯坦福开学典礼",
+        "onboard_time": 1663815028,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 371354,
+        "num": 371354,
+        "word": "分手就该拉黑删除吗",
+        "onboard_time": 1663808549,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 369702,
+        "num": 369702,
+        "word": "北电赵韦弦被刑拘",
+        "onboard_time": 1663776088,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333706,
+        "num": 333706,
+        "word": "那种一直不谈恋爱的最会玩",
+        "onboard_time": 1663822657,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 322989,
+        "num": 322989,
+        "word": "郭晓婷说无尽酒壶给我满上",
+        "onboard_time": 1663820973,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 312777,
+        "num": 312777,
+        "word": "男子被邀进店避雨趁机搂抱女店员",
+        "onboard_time": 1663811967,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317295,
+        "num": 302167,
+        "word": "龚俊杨幂新剧宿命感",
+        "onboard_time": 1663816707,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291350,
+        "num": 291350,
+        "word": "S12主题曲封面Meiko",
+        "onboard_time": 1663819652,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 288450,
+        "num": 288450,
+        "word": "大学生用纸折出1400个鳞片的龙神",
+        "onboard_time": 1663818148,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269293,
+        "num": 269293,
+        "word": "如何区分伴侣的占有欲和PUA",
+        "onboard_time": 1663820130,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261226,
+        "num": 261226,
+        "word": "BLACKPINK新专初动销量破两百万",
+        "onboard_time": 1663818692,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 257638,
+        "num": 257638,
+        "word": "这猫怎么睡得四仰八叉的",
+        "onboard_time": 1663821515,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 256745,
+        "num": 256745,
+        "word": "给43个未成年文身老板被判向社会道歉",
+        "onboard_time": 1663806691,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237148,
+        "num": 237148,
+        "word": "马来西亚男子性侵俩女儿被判428年",
+        "onboard_time": 1663768353,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237072,
+        "num": 237072,
+        "word": "专家称中国股市能跑赢美国股市",
+        "onboard_time": 1663813166,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 225696,
+        "num": 225696,
+        "word": "总忘记自己也是大人了",
+        "onboard_time": 1663814248,
+        "rank": 33,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 217356,
+        "num": 217356,
+        "word": "终于看到专业的煎饼了",
+        "onboard_time": 1663815507,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193330,
+        "num": 193330,
+        "word": "李诞 不拍灯",
+        "onboard_time": 1663801520,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184109,
+        "num": 184109,
+        "word": "小个子如何摆脱幼稚感",
+        "onboard_time": 1663813707,
+        "rank": 36,
+        "category": "情感,时尚"
+      },
+      {
+        "raw_hot": 183449,
+        "num": 183449,
+        "word": "公司回应的哥提黑狗在车身涂狗血",
+        "onboard_time": 1663815450,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179578,
+        "num": 179578,
+        "word": "任嘉伦说有时无期请君共赏",
+        "onboard_time": 1663819652,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18830,
+        "num": 162047,
+        "word": "95后女孩带团队一天卖出千万羽绒服",
+        "onboard_time": 1663822833,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161342,
+        "num": 161342,
+        "word": "甘宇哥哥发博感谢救人者和网友",
+        "onboard_time": 1663822057,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158782,
+        "num": 158782,
+        "word": "大学可以有多浪漫",
+        "onboard_time": 1663818810,
+        "rank": 41,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 148618,
+        "num": 148618,
+        "word": "RNG比赛时间",
+        "onboard_time": 1663815987,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147706,
+        "num": 147706,
+        "word": "大妈脱鞋躺地铁座椅鞋被乘客踢下车",
+        "onboard_time": 1663802662,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131988,
+        "num": 131988,
+        "word": "特朗普涉财务欺诈被起诉",
+        "onboard_time": 1663815326,
+        "rank": 44,
+        "category": "国外要闻,社会新闻"
+      },
+      {
+        "raw_hot": 129479,
+        "num": 129479,
+        "word": "kid发文回应淘汰",
+        "onboard_time": 1663809507,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122494,
+        "num": 122494,
+        "word": "王者新英雄海月",
+        "onboard_time": 1663813407,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 239233,
+        "num": 122488,
+        "word": "警方通报某艺考机构杜某某已被刑拘",
+        "onboard_time": 1663822894,
+        "rank": 47,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 129188,
+        "num": 122206,
+        "word": "离婚梗",
+        "onboard_time": 1663772313,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121177,
+        "num": 121177,
+        "word": "成毅底线演员特辑",
+        "onboard_time": 1663820973,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记看中国#"
+    }
+  }
+}
