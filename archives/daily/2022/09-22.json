@@ -1,6 +1,6 @@
 {
   "startTime": 1663778231376,
-  "endTime": 1663850985889,
+  "endTime": 1663852563785,
   "band_list": [
     {
       "raw_hot": 3165982,
@@ -67,6 +67,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 1838710,
+      "num": 1838710,
+      "word": "韩总统私下吐槽美国会议员为崽子",
+      "onboard_time": 1663847189,
+      "rank": 0,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1780122,
       "num": 1780122,
       "word": "学生交完4500住宿费搬进12人间教室",
@@ -99,14 +107,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 1654497,
-      "num": 1654497,
-      "word": "韩总统私下吐槽美国会议员为崽子",
-      "onboard_time": 1663847189,
-      "rank": 0,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 1568472,
       "num": 808519,
       "word": "那种一直不谈恋爱的最会玩",
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 1295554,
-      "num": 425669,
+      "num": 450099,
       "word": "唐山打人案将于23日公开宣判",
       "onboard_time": 1663838488,
       "rank": 15,
@@ -323,6 +323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 696206,
+      "num": 643508,
+      "word": "父母忘接孩子男孩通宵徒步回家",
+      "onboard_time": 1663849050,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 690814,
       "num": 261360,
       "word": "北电回应赵韦弦被刑拘",
@@ -340,7 +348,7 @@
     },
     {
       "raw_hot": 668016,
-      "num": 346204,
+      "num": 439645,
       "word": "天娱新男团官宣",
       "onboard_time": 1663846168,
       "rank": 19,
@@ -361,6 +369,14 @@
       "onboard_time": 1663809628,
       "rank": 7,
       "category": "科技"
+    },
+    {
+      "raw_hot": 640940,
+      "num": 640940,
+      "word": "张翰说英语",
+      "onboard_time": 1663851626,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 640399,
@@ -603,6 +619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 423514,
+      "num": 423514,
+      "word": "张雨绮回应昆仑神宫开分",
+      "onboard_time": 1663851750,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 423467,
       "num": 423467,
       "word": "思文程璐HBE",
@@ -644,7 +668,7 @@
     },
     {
       "raw_hot": 397584,
-      "num": 345022,
+      "num": 373772,
       "word": "潘玮柏好像男版袁湘琴",
       "onboard_time": 1663847310,
       "rank": 13,
@@ -672,6 +696,14 @@
       "word": "女生送闺蜜物品反被吐槽人傻钱多",
       "onboard_time": 1663833867,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 365061,
+      "num": 365061,
+      "word": "厦航购买40架空客A320neo",
+      "onboard_time": 1663850308,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -707,28 +739,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 346030,
+      "num": 346030,
+      "word": "哪本小说让你看完后疯狂找代餐",
+      "onboard_time": 1663846770,
+      "rank": 15,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 345495,
       "num": 345495,
       "word": "外交部回应拜登称美不寻求冲突冷战",
       "onboard_time": 1663839748,
       "rank": 49,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 344969,
-      "num": 344969,
-      "word": "父母忘接孩子男孩通宵徒步回家",
-      "onboard_time": 1663849050,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 336701,
-      "num": 336701,
-      "word": "哪本小说让你看完后疯狂找代餐",
-      "onboard_time": 1663846770,
-      "rank": 15,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 334311,
@@ -996,7 +1020,7 @@
     },
     {
       "raw_hot": 259564,
-      "num": 214977,
+      "num": 230844,
       "word": "一年一度喜剧大赛2预告片",
       "onboard_time": 1663849229,
       "rank": 20,
@@ -1033,6 +1057,14 @@
       "onboard_time": 1663772615,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249590,
+      "num": 249590,
+      "word": "原来手机可以一键转移数据",
+      "onboard_time": 1663848329,
+      "rank": 22,
+      "category": "科技"
     },
     {
       "raw_hot": 242657,
@@ -1227,14 +1259,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 207240,
-      "num": 207240,
-      "word": "原来手机可以一键转移数据",
-      "onboard_time": 1663848329,
-      "rank": 22,
-      "category": "科技"
-    },
-    {
       "raw_hot": 204861,
       "num": 204861,
       "word": "流浪猫会羡慕家猫吗",
@@ -1272,6 +1296,14 @@
       "word": "苍兰诀角色号微博藏头诗",
       "onboard_time": 1663765772,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 198881,
+      "num": 139034,
+      "word": "虞书欣直播清唱雨过天晴",
+      "onboard_time": 1663852290,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -1363,6 +1395,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 186472,
+      "num": 138010,
+      "word": "亲爱的生命",
+      "onboard_time": 1663852409,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 185356,
+      "num": 136475,
+      "word": "龚俊狐妖小红娘水墨蓝衫造型",
+      "onboard_time": 1663851568,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 184433,
       "num": 184433,
       "word": "RNG比赛时间",
@@ -1392,6 +1440,14 @@
       "word": "杜帝没有妈妈了",
       "onboard_time": 1663768174,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 173117,
+      "num": 138042,
+      "word": "狐妖小红娘官宣陈都灵月啼暇",
+      "onboard_time": 1663848508,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -1571,14 +1627,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 138496,
-      "num": 138496,
-      "word": "厦航购买40架空客A320neo",
-      "onboard_time": 1663850308,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 138428,
       "num": 138428,
       "word": "专硕学制延长至3年是否必要",
@@ -1593,14 +1641,6 @@
       "onboard_time": 1663827510,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 138042,
-      "num": 138042,
-      "word": "狐妖小红娘官宣陈都灵月啼暇",
-      "onboard_time": 1663848508,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 136866,
@@ -1635,6 +1675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 133106,
+      "num": 133106,
+      "word": "北京大风有树被吹倒",
+      "onboard_time": 1663852108,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132712,
       "num": 132712,
       "word": "金铲铲神龙尊者卡莎",
@@ -1657,6 +1705,14 @@
       "onboard_time": 1663840406,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 131521,
+      "num": 131521,
+      "word": "别错过这杯新品奶茶",
+      "onboard_time": 1663847969,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 129432,
@@ -1683,12 +1739,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126866,
-      "num": 126866,
-      "word": "别错过这杯新品奶茶",
-      "onboard_time": 1663847969,
-      "rank": 35,
-      "category": "美食"
+      "raw_hot": 124183,
+      "num": 124183,
+      "word": "橘子单挑blue猪",
+      "onboard_time": 1663848809,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 123496,
@@ -1755,12 +1811,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 104476,
-      "num": 104476,
-      "word": "橘子单挑blue猪",
-      "onboard_time": 1663848809,
-      "rank": 41,
-      "category": "游戏"
+      "raw_hot": 106735,
+      "num": 777801,
+      "word": "惊艳了整个秋天的丰收色",
+      "onboard_time": 1663849649,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 103451,
@@ -1937,14 +1993,6 @@
       "onboard_time": 1663760309,
       "rank": 45,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 67566,
-      "num": 777801,
-      "word": "惊艳了整个秋天的丰收色",
-      "onboard_time": 1663849649,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 62844,
@@ -2176,6 +2224,14 @@
       "word": "预防阿尔茨海默病的5个方法",
       "onboard_time": 1663796351,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4544,
+      "num": 374350,
+      "word": "什么是电车补能终极形态",
+      "onboard_time": 1663851626,
+      "rank": 14,
       "category": "社会新闻"
     }
   ],

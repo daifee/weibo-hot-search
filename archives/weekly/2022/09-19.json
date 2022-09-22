@@ -1,6 +1,6 @@
 {
   "startTime": 1663518759246,
-  "endTime": 1663850985889,
+  "endTime": 1663852563785,
   "band_list": [
     {
       "raw_hot": 8415894,
@@ -355,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1838710,
+      "num": 1838710,
+      "word": "韩总统私下吐槽美国会议员为崽子",
+      "onboard_time": 1663847189,
+      "rank": 0,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1822794,
       "num": 1822794,
       "word": "张翰 明星版恋与制作人",
@@ -473,14 +481,6 @@
       "onboard_time": 1663517968,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1654497,
-      "num": 1654497,
-      "word": "韩总统私下吐槽美国会议员为崽子",
-      "onboard_time": 1663847189,
-      "rank": 0,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1600552,
@@ -708,7 +708,7 @@
     },
     {
       "raw_hot": 1295554,
-      "num": 425669,
+      "num": 450099,
       "word": "唐山打人案将于23日公开宣判",
       "onboard_time": 1663838488,
       "rank": 15,
@@ -1683,6 +1683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 696206,
+      "num": 643508,
+      "word": "父母忘接孩子男孩通宵徒步回家",
+      "onboard_time": 1663849050,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 690814,
       "num": 261360,
       "word": "北电回应赵韦弦被刑拘",
@@ -1724,7 +1732,7 @@
     },
     {
       "raw_hot": 668016,
-      "num": 346204,
+      "num": 439645,
       "word": "天娱新男团官宣",
       "onboard_time": 1663846168,
       "rank": 19,
@@ -1793,6 +1801,14 @@
       "onboard_time": 1663809628,
       "rank": 7,
       "category": "科技"
+    },
+    {
+      "raw_hot": 640940,
+      "num": 640940,
+      "word": "张翰说英语",
+      "onboard_time": 1663851626,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 640399,
@@ -2771,6 +2787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 423514,
+      "num": 423514,
+      "word": "张雨绮回应昆仑神宫开分",
+      "onboard_time": 1663851750,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 423467,
       "num": 423467,
       "word": "思文程璐HBE",
@@ -2980,7 +3004,7 @@
     },
     {
       "raw_hot": 397584,
-      "num": 345022,
+      "num": 373772,
       "word": "潘玮柏好像男版袁湘琴",
       "onboard_time": 1663847310,
       "rank": 13,
@@ -3251,6 +3275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 365061,
+      "num": 365061,
+      "word": "厦航购买40架空客A320neo",
+      "onboard_time": 1663850308,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 364354,
       "num": 364354,
       "word": "男子蹲马桶点烟引甲烷爆燃",
@@ -3451,20 +3483,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 346030,
+      "num": 346030,
+      "word": "哪本小说让你看完后疯狂找代餐",
+      "onboard_time": 1663846770,
+      "rank": 15,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 345495,
       "num": 345495,
       "word": "外交部回应拜登称美不寻求冲突冷战",
       "onboard_time": 1663839748,
       "rank": 49,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 344969,
-      "num": 344969,
-      "word": "父母忘接孩子男孩通宵徒步回家",
-      "onboard_time": 1663849050,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 340282,
@@ -3497,14 +3529,6 @@
       "onboard_time": 1663649190,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 336701,
-      "num": 336701,
-      "word": "哪本小说让你看完后疯狂找代餐",
-      "onboard_time": 1663846770,
-      "rank": 15,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 335930,
@@ -4596,7 +4620,7 @@
     },
     {
       "raw_hot": 259564,
-      "num": 214977,
+      "num": 230844,
       "word": "一年一度喜剧大赛2预告片",
       "onboard_time": 1663849229,
       "rank": 20,
@@ -4729,6 +4753,14 @@
       "onboard_time": 1663650688,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249590,
+      "num": 249590,
+      "word": "原来手机可以一键转移数据",
+      "onboard_time": 1663848329,
+      "rank": 22,
+      "category": "科技"
     },
     {
       "raw_hot": 248721,
@@ -5547,14 +5579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207240,
-      "num": 207240,
-      "word": "原来手机可以一键转移数据",
-      "onboard_time": 1663848329,
-      "rank": 22,
-      "category": "科技"
-    },
-    {
       "raw_hot": 207233,
       "num": 207233,
       "word": "女子帮卖棉花糖满天飞变白发魔女",
@@ -5728,6 +5752,14 @@
       "word": "金晨新剧被偷亲",
       "onboard_time": 1663767152,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 198881,
+      "num": 139034,
+      "word": "虞书欣直播清唱雨过天晴",
+      "onboard_time": 1663852290,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -5931,6 +5963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 186472,
+      "num": 145730,
+      "word": "亲爱的生命",
+      "onboard_time": 1663594047,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 186119,
       "num": 186119,
       "word": "蓝色生命线",
@@ -5969,6 +6009,14 @@
       "onboard_time": 1663738950,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185356,
+      "num": 136475,
+      "word": "龚俊狐妖小红娘水墨蓝衫造型",
+      "onboard_time": 1663851568,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 184433,
@@ -6177,6 +6225,14 @@
       "onboard_time": 1663659447,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173117,
+      "num": 138042,
+      "word": "狐妖小红娘官宣陈都灵月啼暇",
+      "onboard_time": 1663848508,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 173032,
@@ -6683,14 +6739,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 145730,
-      "num": 145730,
-      "word": "亲爱的生命",
-      "onboard_time": 1663594047,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 145607,
       "num": 145607,
       "word": "武磊回归中超首秀",
@@ -6827,28 +6875,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138496,
-      "num": 138496,
-      "word": "厦航购买40架空客A320neo",
-      "onboard_time": 1663850308,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 138315,
       "num": 138315,
       "word": "爸爸带孩子跑步会有什么变化",
       "onboard_time": 1663827510,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 138042,
-      "num": 138042,
-      "word": "狐妖小红娘官宣陈都灵月啼暇",
-      "onboard_time": 1663848508,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 136866,
@@ -6979,6 +7011,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 133106,
+      "num": 133106,
+      "word": "北京大风有树被吹倒",
+      "onboard_time": 1663852108,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133073,
       "num": 133073,
       "word": "北京WB",
@@ -7033,6 +7073,14 @@
       "onboard_time": 1663840406,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 131521,
+      "num": 131521,
+      "word": "别错过这杯新品奶茶",
+      "onboard_time": 1663847969,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 131109,
@@ -7099,14 +7147,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 126866,
-      "num": 126866,
-      "word": "别错过这杯新品奶茶",
-      "onboard_time": 1663847969,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 126003,
       "num": 126003,
       "word": "被蜱虫叮咬后切勿硬拽",
@@ -7153,6 +7193,14 @@
       "onboard_time": 1663754013,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 124183,
+      "num": 124183,
+      "word": "橘子单挑blue猪",
+      "onboard_time": 1663848809,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 123884,
@@ -7427,6 +7475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106735,
+      "num": 777801,
+      "word": "惊艳了整个秋天的丰收色",
+      "onboard_time": 1663849649,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 106643,
       "num": 106643,
       "word": "被图层里的世界惊艳了",
@@ -7465,14 +7521,6 @@
       "onboard_time": 1663770096,
       "rank": 47,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 104476,
-      "num": 104476,
-      "word": "橘子单挑blue猪",
-      "onboard_time": 1663848809,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 103451,
@@ -7817,14 +7865,6 @@
       "onboard_time": 1663671627,
       "rank": 49,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 67566,
-      "num": 777801,
-      "word": "惊艳了整个秋天的丰收色",
-      "onboard_time": 1663849649,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 58012,
@@ -8281,6 +8321,14 @@
       "onboard_time": 1663772432,
       "rank": 14,
       "category": "科技"
+    },
+    {
+      "raw_hot": 4544,
+      "num": 374350,
+      "word": "什么是电车补能终极形态",
+      "onboard_time": 1663851626,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

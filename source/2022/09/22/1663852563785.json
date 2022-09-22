@@ -1,0 +1,410 @@
+{
+  "runTime": 1663852563785,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1838710,
+        "num": 1838710,
+        "word": "韩总统私下吐槽美国会议员为崽子",
+        "onboard_time": 1663847189,
+        "rank": 0,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 693032,
+        "num": 693032,
+        "word": "21岁单亲妈妈回应不要亡夫赔偿金",
+        "onboard_time": 1663844430,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106735,
+        "num": 650938,
+        "word": "惊艳了整个秋天的丰收色",
+        "onboard_time": 1663849649,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 907250,
+        "num": 645987,
+        "word": "今天芭比粉谁驾驭住了",
+        "onboard_time": 1663846589,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 696206,
+        "num": 643508,
+        "word": "父母忘接孩子男孩通宵徒步回家",
+        "onboard_time": 1663849050,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 640940,
+        "num": 640940,
+        "word": "张翰说英语",
+        "onboard_time": 1663851626,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 580294,
+        "num": 580294,
+        "word": "富士康拆除iPhone部分产线",
+        "onboard_time": 1663845810,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 573989,
+        "num": 573989,
+        "word": "为啥年轻人都不买钻石了",
+        "onboard_time": 1663844252,
+        "rank": 7,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 563179,
+        "num": 563179,
+        "word": "小偷得知失主癌症晚期改口认罪",
+        "onboard_time": 1663841428,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 469253,
+        "num": 469253,
+        "word": "潘粤明新剧开分8.2",
+        "onboard_time": 1663844731,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 608917,
+        "num": 450099,
+        "word": "唐山打人案将于23日公开宣判",
+        "onboard_time": 1663838488,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511306,
+        "num": 439645,
+        "word": "天娱新男团官宣",
+        "onboard_time": 1663846168,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 423514,
+        "num": 423514,
+        "word": "张雨绮回应昆仑神宫开分",
+        "onboard_time": 1663851750,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 417019,
+        "num": 417019,
+        "word": "北京大风",
+        "onboard_time": 1663846531,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4544,
+        "num": 374350,
+        "word": "什么是电车补能终极形态",
+        "onboard_time": 1663851626,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373772,
+        "num": 373772,
+        "word": "潘玮柏好像男版袁湘琴",
+        "onboard_time": 1663847310,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 365061,
+        "num": 365061,
+        "word": "厦航购买40架空客A320neo",
+        "onboard_time": 1663850308,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346030,
+        "num": 346030,
+        "word": "哪本小说让你看完后疯狂找代餐",
+        "onboard_time": 1663846770,
+        "rank": 17,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 258876,
+        "num": 258876,
+        "word": "医生收下2千红包转手充进患者账户",
+        "onboard_time": 1663835726,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249590,
+        "num": 249590,
+        "word": "原来手机可以一键转移数据",
+        "onboard_time": 1663848329,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 358780,
+        "num": 240711,
+        "word": "黄明昊嗑棣欣引力reaction",
+        "onboard_time": 1663846831,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258794,
+        "num": 236912,
+        "word": "白鹿新歌你有没有看见一只小鹿",
+        "onboard_time": 1663849766,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 230844,
+        "num": 230844,
+        "word": "一年一度喜剧大赛2预告片",
+        "onboard_time": 1663849229,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201314,
+        "num": 201314,
+        "word": "妈妈担心白化病女儿上幼儿园被孤立",
+        "onboard_time": 1663842989,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199429,
+        "num": 199429,
+        "word": "研究称地球上共有2亿亿只蚂蚁",
+        "onboard_time": 1663841727,
+        "rank": 24,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 181961,
+        "num": 181961,
+        "word": "那种一直不谈恋爱的最会玩",
+        "onboard_time": 1663822657,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146414,
+        "num": 146414,
+        "word": "韩国女篮踢人",
+        "onboard_time": 1663844851,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144874,
+        "num": 144874,
+        "word": "大叔托管式养600头牛年入60万",
+        "onboard_time": 1663846531,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141418,
+        "num": 141418,
+        "word": "DR钻戒成本4000卖1.5万",
+        "onboard_time": 1663824989,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127406,
+        "num": 140978,
+        "word": "特朗普称FBI拿走了他的遗嘱",
+        "onboard_time": 1663838007,
+        "rank": 29,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 198881,
+        "num": 139034,
+        "word": "虞书欣直播清唱雨过天晴",
+        "onboard_time": 1663852290,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186472,
+        "num": 138010,
+        "word": "亲爱的生命",
+        "onboard_time": 1663852409,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185356,
+        "num": 136475,
+        "word": "龚俊狐妖小红娘水墨蓝衫造型",
+        "onboard_time": 1663851568,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135513,
+        "num": 135513,
+        "word": "墨迹天气",
+        "onboard_time": 1663839326,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 173117,
+        "num": 135212,
+        "word": "狐妖小红娘官宣陈都灵月啼暇",
+        "onboard_time": 1663848508,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133232,
+        "num": 133232,
+        "word": "邱勇任上交所党委书记",
+        "onboard_time": 1663845450,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133106,
+        "num": 133106,
+        "word": "北京大风有树被吹倒",
+        "onboard_time": 1663852108,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131521,
+        "num": 131521,
+        "word": "别错过这杯新品奶茶",
+        "onboard_time": 1663847969,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 124183,
+        "num": 124183,
+        "word": "橘子单挑blue猪",
+        "onboard_time": 1663848809,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108516,
+        "num": 108516,
+        "word": "中国女篮领先63分大胜韩国",
+        "onboard_time": 1663838907,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145360,
+        "num": 107495,
+        "word": "昆仑神宫",
+        "onboard_time": 1663846168,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140270,
+        "num": 107131,
+        "word": "狐妖小红娘杨幂开机照",
+        "onboard_time": 1663840828,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137558,
+        "num": 107025,
+        "word": "任嘉伦李沁请君断更了",
+        "onboard_time": 1663828289,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 105856,
+        "num": 105856,
+        "word": "男生约流浪猫吃烤串猫咪如约而至",
+        "onboard_time": 1663839866,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97820,
+        "num": 97820,
+        "word": "当酒店前台这么精彩的吗",
+        "onboard_time": 1663836926,
+        "rank": 44,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 91290,
+        "num": 91290,
+        "word": "新赛季不当老八",
+        "onboard_time": 1663840406,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 90984,
+        "num": 90984,
+        "word": "理想L8即将上市",
+        "onboard_time": 1663844070,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 87284,
+        "num": 87284,
+        "word": "外交部回应拜登称美不寻求冲突冷战",
+        "onboard_time": 1663839748,
+        "rank": 47,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 86757,
+        "num": 86757,
+        "word": "被牵牛的大叔大妈治愈了",
+        "onboard_time": 1663850727,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86313,
+        "num": 86313,
+        "word": "这只猫咪是用果冻做的吧",
+        "onboard_time": 1663840168,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快农业农村现代化步伐#"
+    }
+  }
+}
