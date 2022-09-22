@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/19 00:32:39 ~ 2022/09/23 01:01:14
+本榜单时间：2022/09/19 00:32:39 ~ 2022/09/23 01:33:44
 </p>
 </blockquote>
 <p>
@@ -3435,6 +3435,12 @@ NMIXX回归（热度：282829）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E4%B8%80%E5%B0%8F%E5%AD%A6%E8%AE%A9%E5%AD%A9%E5%AD%90%E8%BA%BA%E7%9D%80%E5%8D%88%E7%9D%A1%23" target="weibo">
+南京一小学让孩子躺着午睡（热度：277365）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%AE%B5%E5%BD%95%E9%9F%B3%E8%AE%B0%E5%BD%95%E4%B8%8B%E5%9C%B0%E9%9C%87%E7%9E%AC%E9%97%B4%E7%9A%84%E7%94%9F%E6%AD%BB%E6%8A%89%E6%8B%A9%23" target="weibo">
 这段录音记录下地震瞬间的生死抉择（热度：276652）
 </a>
@@ -5133,12 +5139,6 @@ cos能还原到什么程度（热度：170389）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E4%B8%80%E5%B0%8F%E5%AD%A6%E8%AE%A9%E5%AD%A9%E5%AD%90%E8%BA%BA%E7%9D%80%E5%8D%88%E7%9D%A1%23" target="weibo">
-南京一小学让孩子躺着午睡（热度：154326）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%23" target="weibo">
 微信支付（热度：153918）
 </a>
@@ -6189,6 +6189,12 @@ NCT127新曲初舞台（热度：81381）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%235%E5%B2%81%E7%94%B7%E5%AD%A9%E7%A4%BC%E8%B2%8C%E6%B1%82%E6%91%B8%E8%AD%A6%E7%8A%AC%E8%8E%B7%E4%BC%97%E4%BA%BA%E9%BC%93%E5%8A%B1%23" target="weibo">
+5岁男孩礼貌求摸警犬获众人鼓励（热度：60976）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E5%AE%98%E6%95%99%E7%9A%84vs%E5%AD%A6%E7%94%9F%E5%AD%A6%E7%9A%84%23" target="weibo">
 教官教的vs学生学的（热度：58012）
 </a>
@@ -6287,12 +6293,6 @@ NCT127新曲初舞台（热度：81381）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E4%B8%BA%E5%A6%BB%E5%86%99%E9%98%BF%E5%B0%94%E8%8C%A8%E6%B5%B7%E9%BB%98%E7%97%85%E7%85%A7%E6%8A%A4%E6%89%8B%E8%AE%B0%23" target="weibo">
 老人为妻写阿尔茨海默病照护手记（热度：27770）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%235%E5%B2%81%E7%94%B7%E5%AD%A9%E7%A4%BC%E8%B2%8C%E6%B1%82%E6%91%B8%E8%AD%A6%E7%8A%AC%E8%8E%B7%E4%BC%97%E4%BA%BA%E9%BC%93%E5%8A%B1%23" target="weibo">
-5岁男孩礼貌求摸警犬获众人鼓励（热度：27536）
 </a>
 </li>
 
