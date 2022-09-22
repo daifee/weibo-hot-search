@@ -1,6 +1,6 @@
 {
   "startTime": 1663864508123,
-  "endTime": 1663878389197,
+  "endTime": 1663879372030,
   "band_list": [
     {
       "raw_hot": 1757360,
@@ -419,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43245,
+      "num": 26015,
+      "word": "美军连续三天偷叙利亚石油",
+      "onboard_time": 1663876331,
+      "rank": 16,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 38770,
       "num": 38770,
       "word": "高质量居家好物",
@@ -443,12 +451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24530,
-      "num": 24530,
-      "word": "美军连续三天偷叙利亚石油",
-      "onboard_time": 1663876331,
-      "rank": 16,
-      "category": "军事,国外要闻"
+      "raw_hot": 27644,
+      "num": 27644,
+      "word": "朝鲜军方否认向俄出口武器弹药",
+      "onboard_time": 1663877651,
+      "rank": 42,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 19425,
@@ -483,20 +491,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 8468,
-      "num": 8468,
+      "raw_hot": 10055,
+      "num": 10055,
       "word": "婆婆跨越千里为待产儿媳送土特产",
       "onboard_time": 1663877950,
       "rank": 41,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 7548,
-      "num": 7548,
-      "word": "朝鲜军方否认向俄出口武器弹药",
-      "onboard_time": 1663877651,
-      "rank": 42,
-      "category": "国外要闻,军事"
+      "raw_hot": 9144,
+      "num": 9144,
+      "word": "日本时隔24年进行外汇干预",
+      "onboard_time": 1663878431,
+      "rank": 37,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 8781,
+      "num": 8781,
+      "word": "口腔种植体集采将开展",
+      "onboard_time": 1663877950,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 7267,
@@ -504,6 +520,14 @@
       "word": "5男生同骑一辆共享电动车",
       "onboard_time": 1663874530,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6736,
+      "num": 7126,
+      "word": "女子回应剖腹产后被用箩筐抬上楼",
+      "onboard_time": 1663878730,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -515,20 +539,28 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 6406,
-      "num": 6406,
-      "word": "口腔种植体集采将开展",
-      "onboard_time": 1663877950,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 6080,
       "num": 6080,
       "word": "地震中他开车挡石救7人",
       "onboard_time": 1663877590,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 5933,
+      "num": 7109,
+      "word": "男子骗39名女子56万获刑11年半",
+      "onboard_time": 1663878790,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5668,
+      "num": 7091,
+      "word": "男孩深夜桥上哭泣路人守护半小时",
+      "onboard_time": 1663878550,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
