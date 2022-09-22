@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/22 17:45:10
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/22 18:27:44
 </p>
 </blockquote>
 <p>
@@ -3657,6 +3657,12 @@ iPhone15或使用台积电3nm芯片（热度：1295662）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%B1%B1%E6%89%93%E4%BA%BA%E6%A1%88%E5%B0%86%E4%BA%8E23%E6%97%A5%E5%85%AC%E5%BC%80%E5%AE%A3%E5%88%A4%23" target="weibo">
+唐山打人案将于23日公开宣判（热度：1295554）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E6%B4%9B%E6%B4%9B%E4%B8%A5%E6%B5%A9%E7%BF%94%E5%86%9B%E8%AE%AD%E5%90%8C%E6%A1%86%23" target="weibo">
 何洛洛严浩翔军训同框（热度：1294630）
 </a>
@@ -6005,12 +6011,6 @@ iPhone14涨价或低于预期（热度：932859）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2%E5%8D%97%E4%BA%AC%E6%96%B0%E5%BA%97%E6%8B%9B%E7%89%8C%E5%BC%95%E4%BA%89%E8%AE%AE%23" target="weibo">
 茶颜悦色南京新店招牌引争议（热度：928310）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%87%8E%E5%B1%B1%E6%91%98%E4%BA%86%E4%B8%80%E6%A0%AA%E8%8A%B1%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
-女子野山摘了一株花被刑拘（热度：928142）
 </a>
 </li>
 

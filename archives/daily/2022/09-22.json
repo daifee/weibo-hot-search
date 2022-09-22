@@ -1,6 +1,6 @@
 {
   "startTime": 1663778231376,
-  "endTime": 1663839910962,
+  "endTime": 1663842464949,
   "band_list": [
     {
       "raw_hot": 3165982,
@@ -99,6 +99,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1295554,
+      "num": 331091,
+      "word": "唐山打人案将于23日公开宣判",
+      "onboard_time": 1663838488,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1237823,
       "num": 1237823,
       "word": "阿那亚大秀",
@@ -195,6 +203,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 915708,
+      "num": 915708,
+      "word": "特朗普称FBI拿走了他的遗嘱",
+      "onboard_time": 1663838007,
+      "rank": 16,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 902262,
+      "num": 902262,
+      "word": "墨迹天气",
+      "onboard_time": 1663839326,
+      "rank": 40,
+      "category": "科技"
+    },
+    {
       "raw_hot": 901195,
       "num": 901195,
       "word": "张国伟说女生不要刻意追求马甲线",
@@ -241,22 +265,6 @@
       "onboard_time": 1663811967,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 784376,
-      "num": 331091,
-      "word": "唐山打人案将于23日公开宣判",
-      "onboard_time": 1663838488,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 720395,
-      "num": 720395,
-      "word": "特朗普称FBI拿走了他的遗嘱",
-      "onboard_time": 1663838007,
-      "rank": 16,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 700566,
@@ -475,12 +483,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 461268,
+      "num": 461268,
+      "word": "狐妖小红娘杨幂开机照",
+      "onboard_time": 1663840828,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 454446,
       "num": 454446,
       "word": "为什么和父母诉苦会得到双倍痛苦",
       "onboard_time": 1663768593,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 427413,
+      "num": 427413,
+      "word": "中国女篮领先63分大胜韩国",
+      "onboard_time": 1663838907,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 423467,
@@ -504,6 +528,14 @@
       "word": "海底捞削减4个执董席位",
       "onboard_time": 1663830088,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 404498,
+      "num": 295153,
+      "word": "小偷得知失主癌症晚期改口认罪",
+      "onboard_time": 1663841428,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -539,12 +571,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 363919,
+      "num": 291102,
+      "word": "男生约流浪猫吃烤串猫咪如约而至",
+      "onboard_time": 1663839866,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 361069,
       "num": 361069,
       "word": "日式快餐为什么不火了",
       "onboard_time": 1663760008,
       "rank": 8,
       "category": "社会新闻,社会新闻"
+    },
+    {
+      "raw_hot": 359712,
+      "num": 289794,
+      "word": "陈紫函让戴向宇跪榴莲",
+      "onboard_time": 1663837464,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 348089,
@@ -577,6 +625,14 @@
       "onboard_time": 1663803264,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 325952,
+      "num": 288241,
+      "word": "当酒店前台这么精彩的吗",
+      "onboard_time": 1663836926,
+      "rank": 29,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 323180,
@@ -635,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 307804,
+      "num": 287031,
+      "word": "新疆多地拍到不明发光体",
+      "onboard_time": 1663841127,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 307068,
       "num": 307068,
       "word": "这猫怎么睡得四仰八叉的",
@@ -657,6 +721,14 @@
       "onboard_time": 1663827567,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 301834,
+      "num": 283798,
+      "word": "外交部回应拜登称美不寻求冲突冷战",
+      "onboard_time": 1663839748,
+      "rank": 49,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 300155,
@@ -739,14 +811,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 277744,
-      "num": 277744,
-      "word": "陈紫函让戴向宇跪榴莲",
-      "onboard_time": 1663837464,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 272895,
       "num": 272895,
       "word": "中国女篮vs韩国女篮",
@@ -827,6 +891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 252757,
+      "num": 252757,
+      "word": "张艺兴演唱会泰国站",
+      "onboard_time": 1663841368,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 250146,
       "num": 250146,
       "word": "罗勇 甘宇",
@@ -857,14 +929,6 @@
       "onboard_time": 1663772135,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 235122,
-      "num": 235122,
-      "word": "当酒店前台这么精彩的吗",
-      "onboard_time": 1663836926,
-      "rank": 29,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 234787,
@@ -955,6 +1019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 215110,
+      "num": 215110,
+      "word": "贺峻霖开学vlog",
+      "onboard_time": 1663840767,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214582,
       "num": 214582,
       "word": "老伴贪玩弄丢自己大妈狂擂大爷",
@@ -977,6 +1049,14 @@
       "onboard_time": 1663823131,
       "rank": 31,
       "category": "科技"
+    },
+    {
+      "raw_hot": 209004,
+      "num": 209004,
+      "word": "这只猫咪是用果冻做的吧",
+      "onboard_time": 1663840168,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 204861,
@@ -1115,14 +1195,6 @@
       "category": "国外要闻,社会新闻"
     },
     {
-      "raw_hot": 178466,
-      "num": 178466,
-      "word": "中国女篮领先63分大胜韩国",
-      "onboard_time": 1663838907,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 174386,
       "num": 174386,
       "word": "中国女篮加油",
@@ -1193,6 +1265,14 @@
       "onboard_time": 1663813227,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 156670,
+      "num": 153031,
+      "word": "王源品读老舍笔下北京的秋天",
+      "onboard_time": 1663840406,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 153273,
@@ -1291,6 +1371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139241,
+      "num": 139241,
+      "word": "郑钧苏见信的锅都在马頔身上",
+      "onboard_time": 1663841664,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 138428,
       "num": 138428,
       "word": "专硕学制延长至3年是否必要",
@@ -1371,14 +1459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 121715,
-      "num": 121715,
-      "word": "墨迹天气",
-      "onboard_time": 1663839326,
-      "rank": 40,
-      "category": "科技"
-    },
-    {
       "raw_hot": 118428,
       "num": 118428,
       "word": "第五人格",
@@ -1427,6 +1507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 105039,
+      "num": 105039,
+      "word": "新赛季不当老八",
+      "onboard_time": 1663840406,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 101401,
       "num": 101401,
       "word": "当我妈在家办了场脱口秀大会",
@@ -1467,22 +1555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 96362,
-      "num": 96362,
-      "word": "男生约流浪猫吃烤串猫咪如约而至",
-      "onboard_time": 1663839866,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 96345,
-      "num": 96345,
-      "word": "外交部回应拜登称美不寻求冲突冷战",
-      "onboard_time": 1663839748,
-      "rank": 49,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 95957,
       "num": 95957,
       "word": "点外卖备注要个鸭屁股喂狗被赠2斤",
@@ -1507,6 +1579,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 90959,
+      "num": 90959,
+      "word": "元宇宙在哪最容易实现",
+      "onboard_time": 1663842029,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
       "raw_hot": 89494,
       "num": 89494,
       "word": "男子开面包车拉了40头小猪上高速",
@@ -1529,6 +1609,14 @@
       "onboard_time": 1663830024,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 81224,
+      "num": 83486,
+      "word": "永远可以相信中国姑娘",
+      "onboard_time": 1663842450,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 81183,
