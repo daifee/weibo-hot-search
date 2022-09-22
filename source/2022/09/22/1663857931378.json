@@ -1,0 +1,410 @@
+{
+  "runTime": 1663857931378,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 901661,
+        "num": 901661,
+        "word": "韩总统私下吐槽美国会议员为崽子",
+        "onboard_time": 1663847189,
+        "rank": 0,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 593474,
+        "num": 593474,
+        "word": "德国称已准备好成为安理会常任理事国",
+        "onboard_time": 1663856611,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 138097,
+        "num": 592009,
+        "word": "惊艳了整个秋天的丰收色",
+        "onboard_time": 1663849649,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1205488,
+        "num": 585416,
+        "word": "云南镇雄县集中隔离场所开始实行收费管理",
+        "onboard_time": 1663854628,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 885271,
+        "num": 581730,
+        "word": "今天芭比粉谁驾驭住了",
+        "onboard_time": 1663846589,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 633690,
+        "num": 580195,
+        "word": "父母忘接孩子男孩通宵徒步回家",
+        "onboard_time": 1663849050,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 628736,
+        "num": 572823,
+        "word": "年轻人为什么不期待国庆了",
+        "onboard_time": 1663857272,
+        "rank": 6,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 610088,
+        "num": 569962,
+        "word": "为啥年轻人都不买钻石了",
+        "onboard_time": 1663844252,
+        "rank": 7,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 567003,
+        "num": 567003,
+        "word": "马嘉祺我们的歌造型花絮照",
+        "onboard_time": 1663857216,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 495132,
+        "num": 495132,
+        "word": "金智秀获韩流电视剧女子演技奖",
+        "onboard_time": 1663854570,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 574993,
+        "num": 493792,
+        "word": "AirPods Pro 2评测",
+        "onboard_time": 1663856370,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 491776,
+        "num": 491776,
+        "word": "唐山打人案将于23日公开宣判",
+        "onboard_time": 1663838488,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 487603,
+        "num": 487603,
+        "word": "小偷得知失主癌症晚期改口认罪",
+        "onboard_time": 1663841428,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438981,
+        "num": 438981,
+        "word": "重庆长寿区集中隔离场所实行收费管理",
+        "onboard_time": 1663857272,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395503,
+        "num": 395503,
+        "word": "王晓晨发长文告别亲爱的生命",
+        "onboard_time": 1663855353,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 348917,
+        "num": 348917,
+        "word": "哪本小说让你看完后疯狂找代餐",
+        "onboard_time": 1663846770,
+        "rank": 15,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 341277,
+        "num": 341277,
+        "word": "马伊琍说哭与年龄和性别无关",
+        "onboard_time": 1663856730,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327338,
+        "num": 327338,
+        "word": "95后在殡仪馆工作是什么体验",
+        "onboard_time": 1663853369,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268230,
+        "num": 268230,
+        "word": "北京大风有树被吹倒",
+        "onboard_time": 1663852108,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264818,
+        "num": 264818,
+        "word": "北京大风网友吐槽头发保不住",
+        "onboard_time": 1663854209,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304519,
+        "num": 260841,
+        "word": "虞书欣小森林在逃绿色小奶龙",
+        "onboard_time": 1663856192,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 299415,
+        "num": 259113,
+        "word": "潘粤明新剧开分8.2",
+        "onboard_time": 1663844731,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291671,
+        "num": 258365,
+        "word": "王祖蓝香港豪宅6年升值780万",
+        "onboard_time": 1663857331,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255088,
+        "num": 255088,
+        "word": "社恐猫咪躲厕所假扮马桶刷",
+        "onboard_time": 1663853909,
+        "rank": 23,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 254377,
+        "num": 254377,
+        "word": "厦航购买40架空客A320neo",
+        "onboard_time": 1663850308,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252579,
+        "num": 252579,
+        "word": "富士康拆除iPhone部分产线",
+        "onboard_time": 1663845810,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 214536,
+        "num": 214536,
+        "word": "秦皇岛巨型漫画云",
+        "onboard_time": 1663856370,
+        "rank": 26,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 209001,
+        "num": 209001,
+        "word": "医生收下2千红包转手充进患者账户",
+        "onboard_time": 1663835726,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204873,
+        "num": 204873,
+        "word": "妈妈担心白化病女儿上幼儿园被孤立",
+        "onboard_time": 1663842989,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90453,
+        "num": 204540,
+        "word": "被牵牛的大叔大妈治愈了",
+        "onboard_time": 1663850727,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215887,
+        "num": 204535,
+        "word": "黄明昊嗑棣欣引力reaction",
+        "onboard_time": 1663846831,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204505,
+        "num": 204505,
+        "word": "张雨绮回应昆仑神宫开分",
+        "onboard_time": 1663851750,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202115,
+        "num": 202115,
+        "word": "电视剧底线",
+        "onboard_time": 1663856370,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184253,
+        "num": 184253,
+        "word": "天娱新男团官宣",
+        "onboard_time": 1663846168,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152366,
+        "num": 152366,
+        "word": "研究称地球上共有2亿亿只蚂蚁",
+        "onboard_time": 1663841727,
+        "rank": 34,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 146884,
+        "num": 146884,
+        "word": "原来手机可以一键转移数据",
+        "onboard_time": 1663848329,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 138623,
+        "num": 138623,
+        "word": "那种一直不谈恋爱的最会玩",
+        "onboard_time": 1663822657,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129579,
+        "num": 129579,
+        "word": "永远会被小朋友的笑容打动",
+        "onboard_time": 1663857392,
+        "rank": 37,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 119095,
+        "num": 119095,
+        "word": "墨迹天气",
+        "onboard_time": 1663839326,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 107571,
+        "num": 107571,
+        "word": "孙杨10年后收到世界纪录证书",
+        "onboard_time": 1663857692,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183233,
+        "num": 106887,
+        "word": "潘玮柏好像男版袁湘琴",
+        "onboard_time": 1663847310,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174998,
+        "num": 106590,
+        "word": "龚俊狐妖小红娘水墨蓝衫造型",
+        "onboard_time": 1663851568,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104647,
+        "num": 104647,
+        "word": "韩国女篮踢人",
+        "onboard_time": 1663844851,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97041,
+        "num": 97041,
+        "word": "邻居骗走钥匙将下水管装满天花板",
+        "onboard_time": 1663857151,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85234,
+        "num": 85234,
+        "word": "男子称用顺丰寄鱼干到货只剩头尾",
+        "onboard_time": 1663857216,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84857,
+        "num": 84857,
+        "word": "北京大风",
+        "onboard_time": 1663846531,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83952,
+        "num": 83952,
+        "word": "特朗普称FBI拿走了他的遗嘱",
+        "onboard_time": 1663838007,
+        "rank": 46,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 77623,
+        "num": 77623,
+        "word": "大叔托管式养600头牛年入60万",
+        "onboard_time": 1663846531,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70930,
+        "num": 70930,
+        "word": "当酒店前台这么精彩的吗",
+        "onboard_time": 1663836926,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 70441,
+        "num": 70441,
+        "word": "理想L8即将上市",
+        "onboard_time": 1663844070,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国农民丰收节#"
+    }
+  }
+}

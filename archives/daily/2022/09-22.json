@@ -1,6 +1,6 @@
 {
   "startTime": 1663778231376,
-  "endTime": 1663857032736,
+  "endTime": 1663857931378,
   "band_list": [
     {
       "raw_hot": 3165982,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 1295554,
-      "num": 450099,
+      "num": 491776,
       "word": "唐山打人案将于23日公开宣判",
       "onboard_time": 1663838488,
       "rank": 15,
@@ -403,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 628736,
+      "num": 572823,
+      "word": "年轻人为什么不期待国庆了",
+      "onboard_time": 1663857272,
+      "rank": 6,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 621603,
       "num": 621603,
       "word": "老人误把窗户当门迈出悬挂阳台",
@@ -451,6 +459,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 593474,
+      "num": 593474,
+      "word": "德国称已准备好成为安理会常任理事国",
+      "onboard_time": 1663856611,
+      "rank": 35,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 592310,
       "num": 398217,
       "word": "夏天因剧火起来的4个男人",
@@ -467,11 +483,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 574993,
+      "num": 493792,
+      "word": "AirPods Pro 2评测",
+      "onboard_time": 1663856370,
+      "rank": 23,
+      "category": "科技"
+    },
+    {
       "raw_hot": 567423,
       "num": 567423,
       "word": "张予曦疯狂报班只为演好戏",
       "onboard_time": 1663771534,
       "rank": 0,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 567003,
+      "num": 567003,
+      "word": "马嘉祺我们的歌造型花絮照",
+      "onboard_time": 1663857216,
+      "rank": 8,
       "category": "作品衍生"
     },
     {
@@ -635,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 438981,
+      "num": 438981,
+      "word": "重庆长寿区集中隔离场所实行收费管理",
+      "onboard_time": 1663857272,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 427413,
       "num": 427413,
       "word": "中国女篮领先63分大胜韩国",
@@ -705,6 +745,14 @@
       "onboard_time": 1663847310,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 395503,
+      "num": 395503,
+      "word": "王晓晨发长文告别亲爱的生命",
+      "onboard_time": 1663855353,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 392243,
@@ -979,6 +1027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 291671,
+      "num": 258365,
+      "word": "王祖蓝香港豪宅6年升值780万",
+      "onboard_time": 1663857331,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 291350,
       "num": 291350,
       "word": "S12主题曲封面Meiko",
@@ -1016,14 +1072,6 @@
       "word": "任嘉伦李沁请君3000年宿命文学",
       "onboard_time": 1663823252,
       "rank": 23,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 279708,
-      "num": 238052,
-      "word": "王晓晨发长文告别亲爱的生命",
-      "onboard_time": 1663855353,
-      "rank": 41,
       "category": "影视"
     },
     {
@@ -1083,6 +1131,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 264818,
+      "num": 264818,
+      "word": "北京大风网友吐槽头发保不住",
+      "onboard_time": 1663854209,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263098,
       "num": 263098,
       "word": "DR钻戒商业版图",
@@ -1113,14 +1169,6 @@
       "onboard_time": 1663849229,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 258500,
-      "num": 258500,
-      "word": "北京大风网友吐槽头发保不住",
-      "onboard_time": 1663854209,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 257126,
@@ -1169,14 +1217,6 @@
       "onboard_time": 1663844851,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 237331,
-      "num": 237331,
-      "word": "AirPods Pro 2评测",
-      "onboard_time": 1663856370,
-      "rank": 23,
-      "category": "科技"
     },
     {
       "raw_hot": 237040,
@@ -1387,6 +1427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 202115,
+      "num": 202115,
+      "word": "电视剧底线",
+      "onboard_time": 1663856370,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 201230,
       "num": 201230,
       "word": "工作第一天就犯行业大忌是什么体验",
@@ -1561,14 +1609,6 @@
       "onboard_time": 1663818810,
       "rank": 41,
       "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 168742,
-      "num": 91116,
-      "word": "电视剧底线",
-      "onboard_time": 1663856370,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 164648,
@@ -1747,20 +1787,20 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 138352,
-      "num": 138352,
-      "word": "德国称已准备好成为安理会常任理事国",
-      "onboard_time": 1663856611,
-      "rank": 35,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 138315,
       "num": 138315,
       "word": "爸爸带孩子跑步会有什么变化",
       "onboard_time": 1663827510,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138097,
+      "num": 777801,
+      "word": "惊艳了整个秋天的丰收色",
+      "onboard_time": 1663849649,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 136866,
@@ -1827,6 +1867,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 129579,
+      "num": 129579,
+      "word": "永远会被小朋友的笑容打动",
+      "onboard_time": 1663857392,
+      "rank": 37,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 129432,
       "num": 129432,
       "word": "你期待在国庆档看到哪部电影",
@@ -1849,14 +1897,6 @@
       "onboard_time": 1663773274,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 124241,
-      "num": 777801,
-      "word": "惊艳了整个秋天的丰收色",
-      "onboard_time": 1663849649,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 124183,
@@ -1892,7 +1932,7 @@
     },
     {
       "raw_hot": 115150,
-      "num": 164090,
+      "num": 204540,
       "word": "被牵牛的大叔大妈治愈了",
       "onboard_time": 1663850727,
       "rank": 39,
@@ -1929,6 +1969,14 @@
       "onboard_time": 1663764036,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 107571,
+      "num": 107571,
+      "word": "孙杨10年后收到世界纪录证书",
+      "onboard_time": 1663857692,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 103451,
@@ -1969,6 +2017,14 @@
       "onboard_time": 1663761991,
       "rank": 36,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 97041,
+      "num": 97041,
+      "word": "邻居骗走钥匙将下水管装满天花板",
+      "onboard_time": 1663857151,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96768,
@@ -2016,6 +2072,14 @@
       "word": "男子开面包车拉了40头小猪上高速",
       "onboard_time": 1663763852,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85234,
+      "num": 85234,
+      "word": "男子称用顺丰寄鱼干到货只剩头尾",
+      "onboard_time": 1663857216,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
