@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/22 14:30:25
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/22 15:10:09
 </p>
 </blockquote>
 <p>
@@ -1053,6 +1053,12 @@ BLACKPINK成员照片遭黑客泄露（热度：2426678）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23DR%E9%92%BB%E6%88%92%E6%88%90%E6%9C%AC4000%E5%8D%961.5%E4%B8%87%23" target="weibo">
+DR钻戒成本4000卖1.5万（热度：2404192）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%B2%B8%E5%92%8C%E5%B9%B3%E7%BB%9F%E4%B8%80%E5%B0%86%E7%BB%99%E5%8F%B0%E6%B9%BE%E5%90%8C%E8%83%9E%E5%B8%A6%E6%9D%A5%E5%AE%9E%E5%AE%9E%E5%9C%A8%E5%9C%A8%E7%9A%84%E5%A5%BD%E5%A4%84%23" target="weibo">
 两岸和平统一将给台湾同胞带来实实在在的好处（热度：2400369）
 </a>
@@ -1775,12 +1781,6 @@ iPhone14Pro叹号孔可显示为药丸形（热度：1885662）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%8D%81%E6%9C%88%E6%9D%82%E5%BF%97%E5%B0%81%E9%9D%A2%23" target="weibo">
 鹿晗王鹤棣十月杂志封面（热度：1871827）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23DR%E9%92%BB%E6%88%92%E6%88%90%E6%9C%AC4000%E5%8D%961.5%E4%B8%87%23" target="weibo">
-DR钻戒成本4000卖1.5万（热度：1867564）
 </a>
 </li>
 
@@ -5679,6 +5679,12 @@ BLACKPINK新歌未通过KBS审议（热度：999636）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%B0%8F%E6%96%99%E6%B6%A8%E5%88%B011%E5%85%83%23" target="weibo">
+网友吐槽海底捞小料涨到11元（热度：966451）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%AF%BE%E5%85%A5%E4%BE%B5%23" target="weibo">
 网课入侵（热度：964962）
 </a>
@@ -6005,12 +6011,6 @@ iPhone14涨价或低于预期（热度：932859）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%87%BA%E9%81%9320%E5%91%A8%E5%B9%B4%23" target="weibo">
 杨幂出道20周年（热度：926482）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%9A%84%E8%82%A4%E8%89%B2%E5%B7%AE%23" target="weibo">
-虞书欣王鹤棣的肤色差（热度：926357）
 </a>
 </li>
 

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/22 00:37:11 ~ 2022/09/22 14:30:25
+本榜单时间：2022/09/22 00:37:11 ~ 2022/09/22 15:10:09
 </p>
 </blockquote>
 <p>
@@ -17,6 +17,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8D%A1%E5%88%B0%E6%A0%A1%E5%9B%AD%E5%8D%A1%E5%8D%B4%E8%A2%AB%E5%AF%B9%E6%96%B9%E4%BB%A5%E4%B8%BA%E8%A6%81%E8%BF%BD%E5%A5%B9%23" target="weibo">
 捡到校园卡却被对方以为要追她（热度：3165982）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23DR%E9%92%BB%E6%88%92%E6%88%90%E6%9C%AC4000%E5%8D%961.5%E4%B8%87%23" target="weibo">
+DR钻戒成本4000卖1.5万（热度：2404192）
 </a>
 </li>
 
@@ -41,12 +47,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%9F%90%E8%89%BA%E8%80%83%E6%9C%BA%E6%9E%84%E6%9D%9C%E6%9F%90%E6%9F%90%E5%B7%B2%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
 警方通报某艺考机构杜某某已被刑拘（热度：1933269）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23DR%E9%92%BB%E6%88%92%E6%88%90%E6%9C%AC4000%E5%8D%961.5%E4%B8%87%23" target="weibo">
-DR钻戒成本4000卖1.5万（热度：1867564）
 </a>
 </li>
 
@@ -107,6 +107,12 @@ DR钻戒成本4000卖1.5万（热度：1867564）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E7%94%B7%E5%AD%90%E6%80%A7%E4%BE%B5%E4%BF%A9%E5%A5%B3%E5%84%BF%E8%A2%AB%E5%88%A4428%E5%B9%B4%23" target="weibo">
 马来西亚男子性侵俩女儿被判428年（热度：1028729）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%B0%8F%E6%96%99%E6%B6%A8%E5%88%B011%E5%85%83%23" target="weibo">
+网友吐槽海底捞小料涨到11元（热度：966451）
 </a>
 </li>
 
@@ -195,6 +201,12 @@ DR钻戒成本4000卖1.5万（热度：1867564）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E6%9D%8E%E6%B2%81%E8%AF%B7%E5%90%9B%E6%96%AD%E6%9B%B4%E4%BA%86%23" target="weibo">
+任嘉伦李沁请君断更了（热度：637713）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E8%AF%AF%E6%8A%8A%E7%AA%97%E6%88%B7%E5%BD%93%E9%97%A8%E8%BF%88%E5%87%BA%E6%82%AC%E6%8C%82%E9%98%B3%E5%8F%B0%23" target="weibo">
 老人误把窗户当门迈出悬挂阳台（热度：621603）
 </a>
@@ -215,6 +227,12 @@ DR钻戒成本4000卖1.5万（热度：1867564）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%8D%97%E6%A7%9F%E6%A6%94%E5%8D%8F%E4%BC%9A%E5%8F%91%E5%B8%83%E6%A7%9F%E6%A6%94%E4%BA%A7%E4%B8%9A%E5%8F%91%E5%B1%95%E6%8A%A5%E5%91%8A%23" target="weibo">
 海南槟榔协会发布槟榔产业发展报告（热度：589784）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%98%E5%8F%A0%E5%BC%8FiPhone%E5%8F%AF%E8%87%AA%E8%A1%8C%E4%BF%AE%E5%A4%8D%E6%8A%98%E7%97%95%23" target="weibo">
+折叠式iPhone可自行修复折痕（热度：586399）
 </a>
 </li>
 
@@ -315,12 +333,6 @@ DR钻戒成本4000卖1.5万（热度：1867564）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%B0%8F%E6%96%99%E6%B6%A8%E5%88%B011%E5%85%83%23" target="weibo">
-网友吐槽海底捞小料涨到11元（热度：390218）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%93%81%E5%BA%A7%E6%9C%89%E6%B1%A1%E6%B8%8D%E4%B8%A4%E5%A5%B3%E7%94%9F%E9%BB%98%E9%BB%98%E6%93%A6%E5%87%80%23" target="weibo">
 地铁座有污渍两女生默默擦净（热度：389803）
 </a>
@@ -329,12 +341,6 @@ DR钻戒成本4000卖1.5万（热度：1867564）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%BC%8F%E5%BF%AB%E9%A4%90%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E7%81%AB%E4%BA%86%23" target="weibo">
 日式快餐为什么不火了（热度：361069）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8A%98%E5%8F%A0%E5%BC%8FiPhone%E5%8F%AF%E8%87%AA%E8%A1%8C%E4%BF%AE%E5%A4%8D%E6%8A%98%E7%97%95%23" target="weibo">
-折叠式iPhone可自行修复折痕（热度：351910）
 </a>
 </li>
 
@@ -405,6 +411,12 @@ kid发文回应淘汰（热度：318345）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E6%BC%94%E6%88%91%E4%B8%8B%E7%8F%AD%23" target="weibo">
+刘诗诗演我下班（热度：303326）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23BLACKPINK%E6%96%B0%E4%B8%93%E5%88%9D%E5%8A%A8%E9%94%80%E9%87%8F%E7%A0%B4%E4%B8%A4%E7%99%BE%E4%B8%87%23" target="weibo">
 BLACKPINK新专初动销量破两百万（热度：300155）
 </a>
@@ -435,6 +447,12 @@ S12主题曲封面Meiko（热度：291350）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E%23" target="weibo">
+原神（热度：288470）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%94%A8%E7%BA%B8%E6%8A%98%E5%87%BA1400%E4%B8%AA%E9%B3%9E%E7%89%87%E7%9A%84%E9%BE%99%E7%A5%9E%23" target="weibo">
 大学生用纸折出1400个鳞片的龙神（热度：288450）
 </a>
@@ -449,12 +467,6 @@ S12主题曲封面Meiko（热度：291350）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E6%9D%8E%E6%B2%81%E8%AF%B7%E5%90%9B3000%E5%B9%B4%E5%AE%BF%E5%91%BD%E6%96%87%E5%AD%A6%23" target="weibo">
 任嘉伦李沁请君3000年宿命文学（热度：280825）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E%23" target="weibo">
-原神（热度：280544）
 </a>
 </li>
 
@@ -507,8 +519,8 @@ Kid淘汰（热度：257126）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E6%BC%94%E6%88%91%E4%B8%8B%E7%8F%AD%23" target="weibo">
-刘诗诗演我下班（热度：242418）
+<a href="https://s.weibo.com/weibo?q=%23%E7%B1%B3%E5%8D%A1%E7%AD%89%E6%AF%94%E4%BE%8B%E9%95%BF%E5%A4%A7%23" target="weibo">
+米卡等比例长大（热度：240168）
 </a>
 </li>
 
@@ -681,6 +693,18 @@ RNG比赛时间（热度：184433）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23S12%E5%AE%9A%E5%A6%86%E7%85%A7%23" target="weibo">
+S12定妆照（热度：179351）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%8C%BA%E6%A5%BC%E4%B8%8B%E5%BC%80%E6%AE%A1%E8%91%AC%E5%BA%97%E5%B1%85%E6%B0%91%E5%80%92%E5%9E%83%E5%9C%BE%E6%8A%B5%E5%88%B6%23" target="weibo">
+小区楼下开殡葬店居民倒垃圾抵制（热度：179251）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%B8%9D%E6%B2%A1%E6%9C%89%E5%A6%88%E5%A6%88%E4%BA%86%23" target="weibo">
 杜帝没有妈妈了（热度：174275）
 </a>
@@ -695,6 +719,12 @@ RNG比赛时间（热度：184433）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%AF%E5%B0%94%E7%89%B9%E4%BA%BA%E4%B8%BB%E5%B8%85%E5%8F%AF%E8%83%BD%E8%A2%AB%E9%95%BF%E6%9C%9F%E5%81%9C%E8%B5%9B%23" target="weibo">
 凯尔特人主帅可能被长期停赛（热度：164648）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E7%8A%80%E7%89%9B%E6%97%A5%23" target="weibo">
+世界犀牛日（热度：163217）
 </a>
 </li>
 
@@ -719,6 +749,18 @@ RNG比赛时间（热度：184433）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E5%8F%8D%E6%B4%BE%E7%94%B7%E5%8F%8B%E5%85%A8%E7%B3%96MV%E9%A6%96%E5%8F%91%23" target="weibo">
 我的反派男友全糖MV首发（热度：158291）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%89%8A%E5%87%8F4%E4%B8%AA%E6%89%A7%E8%91%A3%E5%B8%AD%E4%BD%8D%23" target="weibo">
+海底捞削减4个执董席位（热度：156508）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%98%8E%E6%98%8A%E4%BB%A5%E4%B8%BA%E8%87%AA%E5%B7%B1%E8%97%8F%E5%BE%97%E5%BE%88%E5%A5%BD%23" target="weibo">
+黄明昊以为自己藏得很好（热度：152750）
 </a>
 </li>
 
@@ -783,8 +825,20 @@ RNG比赛时间（热度：184433）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E4%B8%BA%E5%90%B4%E5%8D%93%E7%BE%B2%E8%87%B4%E5%91%BD24%E5%B0%8F%E6%97%B6%E6%89%93call%23" target="weibo">
+披荆斩棘为吴卓羲致命24小时打call（热度：134550）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%93%B2%E9%93%B2%E7%A5%9E%E9%BE%99%E5%B0%8A%E8%80%85%E5%8D%A1%E8%8E%8E%23" target="weibo">
 金铲铲神龙尊者卡莎（热度：132712）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%81%E6%B5%AA%E7%8C%AB%E4%BC%9A%E7%BE%A1%E6%85%95%E5%AE%B6%E7%8C%AB%E5%90%97%23" target="weibo">
+流浪猫会羡慕家猫吗（热度：132525）
 </a>
 </li>
 
@@ -815,6 +869,12 @@ RNG比赛时间（热度：184433）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%23" target="weibo">
 第五人格（热度：118428）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23DR%E9%92%BB%E6%88%92%E9%9D%A0%E7%9C%9F%E7%88%B1%E8%90%A5%E9%94%80%E6%94%B6%E5%89%B22000%E4%B8%87%E5%B9%B4%E8%BD%BB%E4%BA%BA%23" target="weibo">
+DR钻戒靠真爱营销收割2000万年轻人（热度：113935）
 </a>
 </li>
 
@@ -957,6 +1017,12 @@ NBA新赛季百大球员詹姆斯第七（热度：72866）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAMate50%E5%8D%81%E7%A7%92%E5%94%AE%E7%BD%84%23" target="weibo">
+华为Mate50十秒售罄（热度：26413）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%8B%E4%BD%93%E4%B9%A6%E4%B8%AD%E8%97%8F%E7%9D%80%E6%80%8E%E6%A0%B7%E7%9A%84%E4%B8%96%E7%95%8C%23" target="weibo">
 立体书中藏着怎样的世界（热度：25643）
 </a>
@@ -1007,6 +1073,12 @@ NBA新赛季百大球员詹姆斯第七（热度：72866）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%B7%E5%90%9B%23" target="weibo">
 请君（热度：10147）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B6%B3%E7%90%83%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E7%90%86%E6%83%B3%23" target="weibo">
+足球是我们的理想（热度：8228）
 </a>
 </li>
 

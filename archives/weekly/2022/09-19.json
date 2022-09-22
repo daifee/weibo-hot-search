@@ -1,6 +1,6 @@
 {
   "startTime": 1663518759246,
-  "endTime": 1663828225888,
+  "endTime": 1663830609012,
   "band_list": [
     {
       "raw_hot": 8415894,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2404192,
+      "num": 2404192,
+      "word": "DR钻戒成本4000卖1.5万",
+      "onboard_time": 1663824989,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2400369,
       "num": 2400369,
       "word": "两岸和平统一将给台湾同胞带来实实在在的好处",
@@ -292,7 +300,7 @@
     },
     {
       "raw_hot": 1933269,
-      "num": 389572,
+      "num": 407618,
       "word": "警方通报某艺考机构杜某某已被刑拘",
       "onboard_time": 1663822894,
       "rank": 47,
@@ -305,14 +313,6 @@
       "onboard_time": 1663669770,
       "rank": 22,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1867564,
-      "num": 1867564,
-      "word": "DR钻戒成本4000卖1.5万",
-      "onboard_time": 1663824989,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1843514,
@@ -1091,6 +1091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 966451,
+      "num": 966451,
+      "word": "网友吐槽海底捞小料涨到11元",
+      "onboard_time": 1663825528,
+      "rank": 28,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 958600,
       "num": 958600,
       "word": "LWX被LBL禁赛",
@@ -1683,6 +1691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 637713,
+      "num": 637713,
+      "word": "任嘉伦李沁请君断更了",
+      "onboard_time": 1663828289,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 636117,
       "num": 636117,
       "word": "国产电视剧片头统一标识",
@@ -1873,6 +1889,14 @@
       "onboard_time": 1663718668,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 586399,
+      "num": 586399,
+      "word": "折叠式iPhone可自行修复折痕",
+      "onboard_time": 1663826128,
+      "rank": 36,
+      "category": "科技"
     },
     {
       "raw_hot": 581369,
@@ -2771,14 +2795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 390218,
-      "num": 390218,
-      "word": "网友吐槽海底捞小料涨到11元",
-      "onboard_time": 1663825528,
-      "rank": 28,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 388683,
       "num": 388683,
       "word": "为什么不建议学龄前儿童自己刷牙",
@@ -3105,14 +3121,6 @@
       "onboard_time": 1663667548,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 351910,
-      "num": 351910,
-      "word": "折叠式iPhone可自行修复折痕",
-      "onboard_time": 1663826128,
-      "rank": 36,
-      "category": "科技"
     },
     {
       "raw_hot": 351703,
@@ -3579,6 +3587,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 303326,
+      "num": 303326,
+      "word": "刘诗诗演我下班",
+      "onboard_time": 1663827567,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 303305,
       "num": 303305,
       "word": "网购移动电源爆燃致父母烧伤进ICU",
@@ -3795,6 +3811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 288470,
+      "num": 288470,
+      "word": "原神",
+      "onboard_time": 1663827567,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 288450,
       "num": 288450,
       "word": "大学生用纸折出1400个鳞片的龙神",
@@ -3921,14 +3945,6 @@
       "onboard_time": 1663666708,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 280544,
-      "num": 280544,
-      "word": "原神",
-      "onboard_time": 1663827567,
-      "rank": 21,
-      "category": "游戏"
     },
     {
       "raw_hot": 280229,
@@ -4491,14 +4507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 242418,
-      "num": 242418,
-      "word": "刘诗诗演我下班",
-      "onboard_time": 1663827567,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 241585,
       "num": 241585,
       "word": "国内成品油价或迎年内第七跌",
@@ -4537,6 +4545,14 @@
       "onboard_time": 1663556607,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 240168,
+      "num": 240168,
+      "word": "米卡等比例长大",
+      "onboard_time": 1663828707,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 238596,
@@ -5611,12 +5627,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179351,
+      "num": 179351,
+      "word": "S12定妆照",
+      "onboard_time": 1663828289,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 179316,
       "num": 179316,
       "word": "杨旭绝杀",
       "onboard_time": 1663675292,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179251,
+      "num": 179251,
+      "word": "小区楼下开殡葬店居民倒垃圾抵制",
+      "onboard_time": 1663829306,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178259,
@@ -5883,6 +5915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163217,
+      "num": 163217,
+      "word": "世界犀牛日",
+      "onboard_time": 1663829968,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162097,
       "num": 162097,
       "word": "李政宰确诊新冠",
@@ -5955,6 +5995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156508,
+      "num": 156508,
+      "word": "海底捞削减4个执董席位",
+      "onboard_time": 1663830088,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155951,
       "num": 151198,
       "word": "周雨彤说吴磊夸夸费看着给",
@@ -5985,6 +6033,14 @@
       "onboard_time": 1663640307,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152750,
+      "num": 152750,
+      "word": "黄明昊以为自己藏得很好",
+      "onboard_time": 1663828528,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 152473,
@@ -6363,6 +6419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134550,
+      "num": 134550,
+      "word": "披荆斩棘为吴卓羲致命24小时打call",
+      "onboard_time": 1663829367,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 134158,
       "num": 134158,
       "word": "张萌新剧拿了月老剧本",
@@ -6401,6 +6465,14 @@
       "onboard_time": 1663827148,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 132525,
+      "num": 132525,
+      "word": "流浪猫会羡慕家猫吗",
+      "onboard_time": 1663829607,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 132287,
@@ -6673,6 +6745,14 @@
       "onboard_time": 1663510413,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113935,
+      "num": 113935,
+      "word": "DR钻戒靠真爱营销收割2000万年轻人",
+      "onboard_time": 1663829367,
+      "rank": 47,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 113774,
@@ -7227,6 +7307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26413,
+      "num": 138388,
+      "word": "华为Mate50十秒售罄",
+      "onboard_time": 1663830024,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 25643,
       "num": 25643,
       "word": "立体书中藏着怎样的世界",
@@ -7368,6 +7456,14 @@
       "word": "张镇麟参加辽宁男篮合练",
       "onboard_time": 1663619651,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 8228,
+      "num": 361941,
+      "word": "足球是我们的理想",
+      "onboard_time": 1663830088,
+      "rank": 14,
       "category": "体育"
     },
     {

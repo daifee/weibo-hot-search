@@ -1,0 +1,410 @@
+{
+  "runTime": 1663830609012,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2404192,
+        "num": 2404192,
+        "word": "DR钻戒成本4000卖1.5万",
+        "onboard_time": 1663824989,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 966451,
+        "num": 966451,
+        "word": "网友吐槽海底捞小料涨到11元",
+        "onboard_time": 1663825528,
+        "rank": 1,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 234307,
+        "num": 856987,
+        "word": "好人遇见了好人",
+        "onboard_time": 1663812928,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 783813,
+        "num": 783813,
+        "word": "那种一直不谈恋爱的最会玩",
+        "onboard_time": 1663822657,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 637713,
+        "num": 637713,
+        "word": "任嘉伦李沁请君断更了",
+        "onboard_time": 1663828289,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 586399,
+        "num": 586399,
+        "word": "折叠式iPhone可自行修复折痕",
+        "onboard_time": 1663826128,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 554745,
+        "num": 554745,
+        "word": "宝妈给儿子穿粉色卫衣被大妈指责",
+        "onboard_time": 1663823430,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524073,
+        "num": 524073,
+        "word": "狐妖小红娘月红篇官宣全阵容",
+        "onboard_time": 1663814786,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 427091,
+        "num": 427091,
+        "word": "甘宇多处骨折并伴有严重感染",
+        "onboard_time": 1663807649,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418255,
+        "num": 418255,
+        "word": "你经常喝粥吗",
+        "onboard_time": 1663823492,
+        "rank": 9,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 1070409,
+        "num": 407618,
+        "word": "警方通报某艺考机构杜某某已被刑拘",
+        "onboard_time": 1663822894,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 656686,
+        "num": 405022,
+        "word": "捡到校园卡却被对方以为要追她",
+        "onboard_time": 1663806088,
+        "rank": 11,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 494920,
+        "num": 394050,
+        "word": "于正说可以试刘浩存",
+        "onboard_time": 1663820551,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368424,
+        "num": 368424,
+        "word": "梅四阿姨",
+        "onboard_time": 1663812566,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 8228,
+        "num": 361941,
+        "word": "足球是我们的理想",
+        "onboard_time": 1663830088,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 360705,
+        "num": 360705,
+        "word": "王鹤棣密室大逃脱撒娇",
+        "onboard_time": 1663824628,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 350765,
+        "num": 350765,
+        "word": "傅政华死缓",
+        "onboard_time": 1663821394,
+        "rank": 16,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 331453,
+        "num": 331453,
+        "word": "女子剖腹产后回家被用箩筐抬上5楼",
+        "onboard_time": 1663816168,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307847,
+        "num": 307847,
+        "word": "北京朝阳新增2名感染者",
+        "onboard_time": 1663826370,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303326,
+        "num": 303326,
+        "word": "刘诗诗演我下班",
+        "onboard_time": 1663827567,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 297595,
+        "num": 297595,
+        "word": "随手丢块肥猪肉哪知价值2万元",
+        "onboard_time": 1663818749,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289765,
+        "num": 289765,
+        "word": "谁不爱这样的大小姐呢",
+        "onboard_time": 1663826426,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 288470,
+        "num": 288470,
+        "word": "原神",
+        "onboard_time": 1663827567,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 240168,
+        "num": 240168,
+        "word": "米卡等比例长大",
+        "onboard_time": 1663828707,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211742,
+        "num": 211742,
+        "word": "老款iPhone升级iOS16续航崩了",
+        "onboard_time": 1663816707,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 198850,
+        "num": 198850,
+        "word": "1大勺1小勺到底是多少",
+        "onboard_time": 1663823908,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190306,
+        "num": 190306,
+        "word": "离岸人民币兑美元跌破7.10",
+        "onboard_time": 1663817427,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 191819,
+        "num": 187648,
+        "word": "超23%iPhone用户升级iOS16",
+        "onboard_time": 1663819892,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 182967,
+        "num": 182967,
+        "word": "陈建斌陈晓尘封十三载开机",
+        "onboard_time": 1663827269,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180047,
+        "num": 180047,
+        "word": "女子上班时挪车被罚穿高跟鞋蛙跳",
+        "onboard_time": 1663816048,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179351,
+        "num": 179351,
+        "word": "S12定妆照",
+        "onboard_time": 1663828289,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 179348,
+        "num": 179348,
+        "word": "这猫怎么睡得四仰八叉的",
+        "onboard_time": 1663821515,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179251,
+        "num": 179251,
+        "word": "小区楼下开殡葬店居民倒垃圾抵制",
+        "onboard_time": 1663829306,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163217,
+        "num": 163217,
+        "word": "世界犀牛日",
+        "onboard_time": 1663829968,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161987,
+        "num": 161987,
+        "word": "S12主题曲封面Meiko",
+        "onboard_time": 1663819652,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156508,
+        "num": 156508,
+        "word": "海底捞削减4个执董席位",
+        "onboard_time": 1663830088,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155019,
+        "num": 155019,
+        "word": "Mate50系列有望冲击千万销量",
+        "onboard_time": 1663823131,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 152750,
+        "num": 152750,
+        "word": "黄明昊以为自己藏得很好",
+        "onboard_time": 1663828528,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140398,
+        "num": 140398,
+        "word": "分手就该拉黑删除吗",
+        "onboard_time": 1663808549,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26413,
+        "num": 138388,
+        "word": "华为Mate50十秒售罄",
+        "onboard_time": 1663830024,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 137448,
+        "num": 137448,
+        "word": "王俊凯像极了过节回家见亲戚的我",
+        "onboard_time": 1663827210,
+        "rank": 40,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 134550,
+        "num": 134550,
+        "word": "披荆斩棘为吴卓羲致命24小时打call",
+        "onboard_time": 1663829367,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133487,
+        "num": 133487,
+        "word": "女子被骗40万元民警追回100万元",
+        "onboard_time": 1663810707,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132525,
+        "num": 132525,
+        "word": "流浪猫会羡慕家猫吗",
+        "onboard_time": 1663829607,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130772,
+        "num": 130772,
+        "word": "华为紧急增产Mate50系列",
+        "onboard_time": 1663818928,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 126687,
+        "num": 126687,
+        "word": "李现任敏群星闪耀时开通官微",
+        "onboard_time": 1663824510,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124325,
+        "num": 124325,
+        "word": "甘宇失联17天中有9天淋雨致感染",
+        "onboard_time": 1663815807,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113935,
+        "num": 113935,
+        "word": "DR钻戒靠真爱营销收割2000万年轻人",
+        "onboard_time": 1663829367,
+        "rank": 47,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 112980,
+        "num": 112980,
+        "word": "金铲铲神龙尊者卡莎",
+        "onboard_time": 1663827148,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109930,
+        "num": 109930,
+        "word": "如何区分伴侣的占有欲和PUA",
+        "onboard_time": 1663820130,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记看中国#"
+    }
+  }
+}
