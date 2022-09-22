@@ -1,6 +1,6 @@
 {
   "startTime": 1663864508123,
-  "endTime": 1663889194557,
+  "endTime": 1663890186940,
   "band_list": [
     {
       "raw_hot": 1757360,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1021731,
-      "num": 1021731,
+      "raw_hot": 1102365,
+      "num": 1102365,
       "word": "南京一小学让孩子躺着午睡",
       "onboard_time": 1663864282,
       "rank": 46,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 886014,
-      "num": 295268,
+      "num": 317491,
       "word": "张翰是不是想营造出虞书欣这种感觉",
       "onboard_time": 1663859609,
       "rank": 10,
@@ -36,18 +36,34 @@
     },
     {
       "raw_hot": 692186,
-      "num": 289006,
+      "num": 313056,
       "word": "成都一罐车侧翻压扁宝马致司机死亡",
       "onboard_time": 1663860932,
       "rank": 11,
       "category": "社会负面"
     },
     {
-      "raw_hot": 571762,
-      "num": 571762,
+      "raw_hot": 640256,
+      "num": 640256,
       "word": "邻居骗走钥匙将下水管装满天花板",
       "onboard_time": 1663857151,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 577265,
+      "num": 577265,
+      "word": "免费外卖饮料能放心喝吗",
+      "onboard_time": 1663888041,
+      "rank": 16,
+      "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 570903,
+      "num": 570903,
+      "word": "基金女主播真人与海报判若两人",
+      "onboard_time": 1663859671,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -67,11 +83,11 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 479219,
-      "num": 479219,
-      "word": "基金女主播真人与海报判若两人",
-      "onboard_time": 1663859671,
-      "rank": 7,
+      "raw_hot": 487217,
+      "num": 487217,
+      "word": "顾客称吃饭被收20元空调费",
+      "onboard_time": 1663870813,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -83,12 +99,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 418801,
-      "num": 418801,
-      "word": "顾客称吃饭被收20元空调费",
-      "onboard_time": 1663870813,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 407371,
+      "num": 407371,
+      "word": "朝鲜军方否认向俄出口武器弹药",
+      "onboard_time": 1663877651,
+      "rank": 42,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 395925,
@@ -99,12 +115,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 345066,
-      "num": 345066,
-      "word": "朝鲜军方否认向俄出口武器弹药",
-      "onboard_time": 1663877651,
-      "rank": 42,
-      "category": "国外要闻,军事"
+      "raw_hot": 371277,
+      "num": 299522,
+      "word": "银行柜员50当5元多给客户1万8",
+      "onboard_time": 1663888761,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 337594,
@@ -123,6 +139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 276647,
+      "num": 276647,
+      "word": "女子办证时偷偷递纸条给民警求助",
+      "onboard_time": 1663869434,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272175,
       "num": 272175,
       "word": "覆流年 be",
@@ -137,14 +161,6 @@
       "onboard_time": 1663857692,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 237405,
-      "num": 237405,
-      "word": "女子办证时偷偷递纸条给民警求助",
-      "onboard_time": 1663869434,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 224918,
@@ -163,14 +179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 202062,
-      "num": 202062,
-      "word": "免费外卖饮料能放心喝吗",
-      "onboard_time": 1663888041,
-      "rank": 16,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 200353,
       "num": 200353,
       "word": "韩总统私下吐槽美国会议员为崽子",
@@ -187,20 +195,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191255,
+      "num": 191255,
+      "word": "秋衣秋裤属于国粹",
+      "onboard_time": 1663889664,
+      "rank": 20,
+      "category": "其它"
+    },
+    {
+      "raw_hot": 190424,
+      "num": 190424,
+      "word": "为啥年轻人都不买钻石了",
+      "onboard_time": 1663844252,
+      "rank": 18,
+      "category": "其它"
+    },
+    {
       "raw_hot": 189239,
       "num": 189239,
       "word": "被淡颜美人惊艳的瞬间",
       "onboard_time": 1663863326,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 185913,
-      "num": 185913,
-      "word": "为啥年轻人都不买钻石了",
-      "onboard_time": 1663844252,
-      "rank": 18,
-      "category": "其它"
     },
     {
       "raw_hot": 184705,
@@ -219,6 +235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 171225,
+      "num": 171225,
+      "word": "男子骗39名女子56万获刑11年半",
+      "onboard_time": 1663878790,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168724,
       "num": 168724,
       "word": "吴青峰新歌催眠大师",
@@ -235,11 +259,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 155744,
-      "num": 155744,
-      "word": "男子骗39名女子56万获刑11年半",
-      "onboard_time": 1663878790,
-      "rank": 47,
+      "raw_hot": 157952,
+      "num": 157952,
+      "word": "新娘出嫁时跪谢83岁奶奶",
+      "onboard_time": 1663863506,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -275,14 +299,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 147068,
-      "num": 147068,
-      "word": "新娘出嫁时跪谢83岁奶奶",
-      "onboard_time": 1663863506,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 144167,
       "num": 144167,
       "word": "哪本小说让你看完后疯狂找代餐",
@@ -291,12 +307,36 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 137896,
+      "num": 137896,
+      "word": "富士康拆除iPhone部分产线",
+      "onboard_time": 1663845810,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 134723,
       "num": 134723,
       "word": "小偷得知失主癌症晚期改口认罪",
       "onboard_time": 1663841428,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133694,
+      "num": 695536,
+      "word": "惊艳了整个秋天的丰收色",
+      "onboard_time": 1663849649,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 133196,
+      "num": 133196,
+      "word": "美军连续三天偷叙利亚石油",
+      "onboard_time": 1663876331,
+      "rank": 16,
+      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 131108,
@@ -315,20 +355,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 126963,
-      "num": 126963,
-      "word": "富士康拆除iPhone部分产线",
-      "onboard_time": 1663845810,
-      "rank": 30,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 113717,
-      "num": 113717,
-      "word": "美军连续三天偷叙利亚石油",
-      "onboard_time": 1663876331,
-      "rank": 16,
-      "category": "军事,国外要闻"
+      "raw_hot": 125433,
+      "num": 125433,
+      "word": "社恐猫咪躲厕所假扮马桶刷",
+      "onboard_time": 1663853909,
+      "rank": 36,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 112673,
@@ -337,14 +369,6 @@
       "onboard_time": 1663861469,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 109337,
-      "num": 674855,
-      "word": "惊艳了整个秋天的丰收色",
-      "onboard_time": 1663849649,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 107515,
@@ -387,20 +411,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 97442,
-      "num": 97442,
-      "word": "社恐猫咪躲厕所假扮马桶刷",
-      "onboard_time": 1663853909,
-      "rank": 36,
-      "category": "幽默,社会新闻"
-    },
-    {
       "raw_hot": 88999,
       "num": 88999,
       "word": "马嘉祺我们的歌造型花絮照",
       "onboard_time": 1663857216,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 87471,
+      "num": 87471,
+      "word": "记得缺席S12解说",
+      "onboard_time": 1663886897,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 87369,
+      "num": 87369,
+      "word": "女排世锦赛中国14人名单",
+      "onboard_time": 1663889306,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 86618,
@@ -427,20 +459,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 75139,
-      "num": 75139,
-      "word": "银行柜员50当5元多给客户1万8",
-      "onboard_time": 1663888761,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 74195,
-      "num": 74195,
+      "raw_hot": 77318,
+      "num": 77318,
       "word": "婆婆跨越千里为待产儿媳送土特产",
       "onboard_time": 1663877950,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73668,
+      "num": 73668,
+      "word": "电视剧底线",
+      "onboard_time": 1663856370,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 72072,
@@ -483,28 +515,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 68263,
+      "num": 68263,
+      "word": "昆仑神宫剧评",
+      "onboard_time": 1663878070,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 60976,
       "num": 60976,
       "word": "5岁男孩礼貌求摸警犬获众人鼓励",
       "onboard_time": 1663864761,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 55570,
-      "num": 55570,
-      "word": "记得缺席S12解说",
-      "onboard_time": 1663886897,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 54861,
-      "num": 54861,
-      "word": "电视剧底线",
-      "onboard_time": 1663856370,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 44304,
@@ -521,14 +545,6 @@
       "onboard_time": 1663860093,
       "rank": 47,
       "category": "情感,时尚"
-    },
-    {
-      "raw_hot": 37582,
-      "num": 37582,
-      "word": "昆仑神宫剧评",
-      "onboard_time": 1663878070,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 32826,

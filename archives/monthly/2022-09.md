@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/23 07:26:34
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/23 07:43:06
 </p>
 </blockquote>
 <p>
@@ -4683,6 +4683,12 @@ iPhone14Pro被吐槽后盖不耐划（热度：1123869）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E4%B8%80%E5%B0%8F%E5%AD%A6%E8%AE%A9%E5%AD%A9%E5%AD%90%E8%BA%BA%E7%9D%80%E5%8D%88%E7%9D%A1%23" target="weibo">
+南京一小学让孩子躺着午睡（热度：1102365）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%90%83%E7%81%AB%E9%94%85%E6%84%8F%E5%A4%96%E8%BA%AB%E4%BA%A1%23" target="weibo">
 女孩海底捞吃火锅意外身亡（热度：1099721）
 </a>
@@ -5285,12 +5291,6 @@ IU演唱会上的草莓月亮（热度：1037515）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%B8%E5%AE%9A%E5%9C%B0%E9%9C%87%E4%B8%AD%E5%A4%B1%E8%81%9417%E5%A4%A9%E7%9A%84%E7%94%98%E5%AE%87%E6%89%BE%E5%88%B0%E4%BA%86%23" target="weibo">
 泸定地震中失联17天的甘宇找到了（热度：1022555）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E4%B8%80%E5%B0%8F%E5%AD%A6%E8%AE%A9%E5%AD%A9%E5%AD%90%E8%BA%BA%E7%9D%80%E5%8D%88%E7%9D%A1%23" target="weibo">
-南京一小学让孩子躺着午睡（热度：1021731）
 </a>
 </li>
 
