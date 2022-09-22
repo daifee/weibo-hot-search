@@ -1,14 +1,22 @@
 {
   "startTime": 1663778231376,
-  "endTime": 1663813677460,
+  "endTime": 1663816192934,
   "band_list": [
     {
-      "raw_hot": 2948927,
+      "raw_hot": 3165982,
       "num": 1100720,
       "word": "捡到校园卡却被对方以为要追她",
       "onboard_time": 1663806088,
       "rank": 3,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 2363918,
+      "num": 406654,
+      "word": "梅四阿姨",
+      "onboard_time": 1663812566,
+      "rank": 10,
+      "category": "幽默"
     },
     {
       "raw_hot": 2150709,
@@ -27,12 +35,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1335060,
-      "num": 406654,
-      "word": "梅四阿姨",
-      "onboard_time": 1663812566,
-      "rank": 10,
-      "category": "幽默"
+      "raw_hot": 1708449,
+      "num": 1708449,
+      "word": "狐妖小红娘月红篇官宣全阵容",
+      "onboard_time": 1663814786,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 1183605,
@@ -59,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1063600,
+      "num": 941469,
+      "word": "分手就该拉黑删除吗",
+      "onboard_time": 1663808549,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1028729,
       "num": 402611,
       "word": "马来西亚男子性侵俩女儿被判428年",
@@ -67,12 +83,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 941469,
-      "num": 941469,
-      "word": "分手就该拉黑删除吗",
-      "onboard_time": 1663808549,
-      "rank": 5,
-      "category": "情感"
+      "raw_hot": 955361,
+      "num": 955361,
+      "word": "女子被骗40万元民警追回100万元",
+      "onboard_time": 1663810707,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 928444,
@@ -107,11 +123,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 759138,
-      "num": 759138,
-      "word": "女子被骗40万元民警追回100万元",
-      "onboard_time": 1663810707,
-      "rank": 6,
+      "raw_hot": 794166,
+      "num": 794166,
+      "word": "男子被邀进店避雨趁机搂抱女店员",
+      "onboard_time": 1663811967,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -161,6 +177,14 @@
       "onboard_time": 1663771534,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 540883,
+      "num": 540883,
+      "word": "专家称中国股市能跑赢美国股市",
+      "onboard_time": 1663813166,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 526857,
@@ -227,14 +251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 380231,
-      "num": 380231,
-      "word": "男子被邀进店避雨趁机搂抱女店员",
-      "onboard_time": 1663811967,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 361069,
       "num": 361069,
       "word": "日式快餐为什么不火了",
@@ -257,6 +273,14 @@
       "onboard_time": 1663803264,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 327431,
+      "num": 327431,
+      "word": "谷爱凌参加斯坦福开学典礼",
+      "onboard_time": 1663815028,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 323180,
@@ -283,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 318173,
+      "num": 318173,
+      "word": "张国伟将在11月份出国比赛",
+      "onboard_time": 1663811485,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 307971,
       "num": 307971,
       "word": "武汉新增2例无症状感染者",
@@ -297,6 +329,14 @@
       "onboard_time": 1663774771,
       "rank": 7,
       "category": "教育,情感"
+    },
+    {
+      "raw_hot": 293244,
+      "num": 293244,
+      "word": "小个子如何摆脱幼稚感",
+      "onboard_time": 1663813707,
+      "rank": 17,
+      "category": "情感,时尚"
     },
     {
       "raw_hot": 287807,
@@ -371,6 +411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 234787,
+      "num": 234787,
+      "word": "狐妖小红娘",
+      "onboard_time": 1663814786,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 229556,
       "num": 229556,
       "word": "S12入围赛赛程",
@@ -443,6 +491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 195085,
+      "num": 195085,
+      "word": "王者新英雄海月",
+      "onboard_time": 1663813407,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 194853,
       "num": 194853,
       "word": "外交部敦促美军不要再偷油",
@@ -452,7 +508,7 @@
     },
     {
       "raw_hot": 193982,
-      "num": 193982,
+      "num": 857502,
       "word": "好人遇见了好人",
       "onboard_time": 1663812928,
       "rank": 26,
@@ -475,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177860,
+      "num": 177860,
+      "word": "总忘记自己也是大人了",
+      "onboard_time": 1663814248,
+      "rank": 28,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 174275,
       "num": 128381,
       "word": "杜帝没有妈妈了",
@@ -483,12 +547,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 167781,
-      "num": 167781,
-      "word": "张国伟将在11月份出国比赛",
-      "onboard_time": 1663811485,
-      "rank": 29,
-      "category": "体育"
+      "raw_hot": 165564,
+      "num": 165564,
+      "word": "特朗普涉财务欺诈被起诉",
+      "onboard_time": 1663815326,
+      "rank": 30,
+      "category": "国外要闻,社会新闻"
     },
     {
       "raw_hot": 162303,
@@ -587,12 +651,28 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 131713,
+      "num": 131713,
+      "word": "终于看到专业的煎饼了",
+      "onboard_time": 1663815507,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129432,
       "num": 129432,
       "word": "你期待在国庆档看到哪部电影",
       "onboard_time": 1663807471,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 127538,
+      "num": 127538,
+      "word": "公司回应的哥提黑狗在车身涂狗血",
+      "onboard_time": 1663815450,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127081,
@@ -611,20 +691,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 115193,
-      "num": 115193,
-      "word": "王者新英雄海月",
-      "onboard_time": 1663813407,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 113941,
-      "num": 113941,
-      "word": "专家称中国股市能跑赢美国股市",
-      "onboard_time": 1663813166,
+      "raw_hot": 116923,
+      "num": 116923,
+      "word": "甘宇失联17天中有9天淋雨致感染",
+      "onboard_time": 1663815807,
       "rank": 43,
-      "category": "财经"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113126,
@@ -635,6 +707,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 110204,
+      "num": 110204,
+      "word": "RNG比赛时间",
+      "onboard_time": 1663815987,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 109267,
       "num": 90366,
       "word": "一眼沦陷的神级美图",
@@ -643,12 +723,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 103765,
+      "num": 103765,
+      "word": "女子上班时挪车被罚穿高跟鞋蛙跳",
+      "onboard_time": 1663816048,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101401,
       "num": 101401,
       "word": "当我妈在家办了场脱口秀大会",
       "onboard_time": 1663772734,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 100347,
+      "num": 100347,
+      "word": "女子剖腹产后回家被用箩筐抬上5楼",
+      "onboard_time": 1663816168,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99404,
@@ -825,6 +921,14 @@
       "onboard_time": 1663795331,
       "rank": 46,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 13304,
+      "num": 310362,
+      "word": "时尚的尽头是优雅运动风",
+      "onboard_time": 1663815629,
+      "rank": 14,
+      "category": "时尚"
     },
     {
       "raw_hot": 11474,
