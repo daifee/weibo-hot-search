@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/22 15:52:48
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/22 16:32:34
 </p>
 </blockquote>
 <p>
@@ -3903,6 +3903,12 @@ Twins不承认吴谨言的粤语是自己教的（热度：1255504）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%A7%B0%E4%B8%8A%E7%8F%AD%E6%91%B8%E9%B1%BC%E6%98%AF%E5%A4%A7%E8%84%91%E5%9C%A8%E6%8E%92%E6%AF%92%23" target="weibo">
+研究称上班摸鱼是大脑在排毒（热度：1237289）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A1%BA%E4%B8%B0%E5%9B%9E%E5%BA%94%E5%AF%84%E4%B8%A220%E5%85%8B%E9%BB%84%E9%87%91%E5%8F%AA%E8%B5%942000%23" target="weibo">
 顺丰回应寄丢20克黄金只赔2000（热度：1235152）
 </a>
@@ -6005,12 +6011,6 @@ iPhone14涨价或低于预期（热度：932859）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9B%A0%E9%97%BA%E8%9C%9C%E4%B8%8D%E8%AF%86%E5%AD%97%E6%89%AE%E9%99%8C%E7%94%9F%E4%BA%BA%E9%AA%97%E5%A5%B9%E9%92%B1%23" target="weibo">
 女子因闺蜜不识字扮陌生人骗她钱（热度：926809）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%87%BA%E9%81%9320%E5%91%A8%E5%B9%B4%23" target="weibo">
-杨幂出道20周年（热度：926482）
 </a>
 </li>
 
