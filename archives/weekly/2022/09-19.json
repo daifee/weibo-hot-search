@@ -1,6 +1,6 @@
 {
   "startTime": 1663518759246,
-  "endTime": 1663816192934,
+  "endTime": 1663822042617,
   "band_list": [
     {
       "raw_hot": 8415894,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 2363918,
-      "num": 406654,
+      "num": 487980,
       "word": "梅四阿姨",
       "onboard_time": 1663812566,
       "rank": 10,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 2150709,
-      "num": 268607,
+      "num": 380111,
       "word": "北电赵韦弦被刑拘",
       "onboard_time": 1663776088,
       "rank": 10,
@@ -241,6 +241,14 @@
       "onboard_time": 1663597952,
       "rank": 12,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 2072202,
+      "num": 489930,
+      "word": "于正说可以试刘浩存",
+      "onboard_time": 1663820551,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2071347,
@@ -379,8 +387,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1708449,
-      "num": 1708449,
+      "raw_hot": 1716378,
+      "num": 1716378,
       "word": "狐妖小红娘月红篇官宣全阵容",
       "onboard_time": 1663814786,
       "rank": 0,
@@ -672,6 +680,14 @@
       "word": "国际象棋比赛疑用智能肛珠作弊",
       "onboard_time": 1663669587,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1229447,
+      "num": 702719,
+      "word": "女子剖腹产后回家被用箩筐抬上5楼",
+      "onboard_time": 1663816168,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1075,6 +1091,14 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 923652,
+      "num": 135027,
+      "word": "没头脑不高兴作者任溶溶去世",
+      "onboard_time": 1663816349,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 921660,
       "num": 366807,
       "word": "黄晓明一直在听取观众意见",
@@ -1251,6 +1275,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 846516,
+      "num": 658253,
+      "word": "老款iPhone升级iOS16续航崩了",
+      "onboard_time": 1663816707,
+      "rank": 5,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 828543,
+      "num": 486229,
+      "word": "傅政华死缓",
+      "onboard_time": 1663821394,
+      "rank": 12,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 827896,
       "num": 827896,
       "word": "北电成立专班调查赵韦弦事件",
@@ -1305,6 +1345,14 @@
       "onboard_time": 1663667907,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 796594,
+      "num": 483499,
+      "word": "随手丢块肥猪肉哪知价值2万元",
+      "onboard_time": 1663818749,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 796067,
@@ -1577,6 +1625,14 @@
       "onboard_time": 1663809628,
       "rank": 7,
       "category": "科技"
+    },
+    {
+      "raw_hot": 640399,
+      "num": 640399,
+      "word": "女子上班时挪车被罚穿高跟鞋蛙跳",
+      "onboard_time": 1663816048,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 638538,
@@ -1883,6 +1939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 561773,
+      "num": 561773,
+      "word": "华为紧急增产Mate50系列",
+      "onboard_time": 1663818928,
+      "rank": 8,
+      "category": "科技"
+    },
+    {
       "raw_hot": 559947,
       "num": 559947,
       "word": "95生颜值天花板",
@@ -2035,6 +2099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 518093,
+      "num": 481647,
+      "word": "谷爱凌参加斯坦福开学典礼",
+      "onboard_time": 1663815028,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 514116,
       "num": 514116,
       "word": "普京宣布支持顿巴斯等地区公投",
@@ -2091,11 +2163,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 494069,
+      "num": 480505,
+      "word": "超23%iPhone用户升级iOS16",
+      "onboard_time": 1663819892,
+      "rank": 15,
+      "category": "科技"
+    },
+    {
       "raw_hot": 490798,
       "num": 490798,
       "word": "澳大利亚一海滩约230头鲸发生搁浅",
       "onboard_time": 1663789271,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 490123,
+      "num": 490123,
+      "word": "海南槟榔协会发布槟榔产业发展报告",
+      "onboard_time": 1663818387,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2145,6 +2233,14 @@
       "onboard_time": 1663573707,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 479284,
+      "num": 479284,
+      "word": "离岸人民币兑美元跌破7.10",
+      "onboard_time": 1663817427,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 478911,
@@ -2603,6 +2699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 392243,
+      "num": 392243,
+      "word": "龚俊杨幂新剧宿命感",
+      "onboard_time": 1663816707,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 391428,
       "num": 391428,
       "word": "主人被自家宠物狗严重咬伤",
@@ -2768,6 +2872,14 @@
       "word": "男子打赏女主播74万老婆不知情",
       "onboard_time": 1663672893,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 374060,
+      "num": 374060,
+      "word": "甘宇失联17天中有9天淋雨致感染",
+      "onboard_time": 1663815807,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -3107,14 +3219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 327431,
-      "num": 327431,
-      "word": "谷爱凌参加斯坦福开学典礼",
-      "onboard_time": 1663815028,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 327120,
       "num": 292582,
       "word": "明年待播的古偶剧",
@@ -3435,6 +3539,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 300155,
+      "num": 300155,
+      "word": "BLACKPINK新专初动销量破两百万",
+      "onboard_time": 1663818692,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 298430,
       "num": 298430,
       "word": "当代宿舍现状",
@@ -3537,6 +3649,14 @@
       "onboard_time": 1663575809,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 291096,
+      "num": 291096,
+      "word": "S12主题曲封面Meiko",
+      "onboard_time": 1663819652,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 290088,
@@ -3769,6 +3889,14 @@
       "onboard_time": 1663691006,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 273259,
+      "num": 273259,
+      "word": "郭晓婷说无尽酒壶给我满上",
+      "onboard_time": 1663820973,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 272892,
@@ -4099,6 +4227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250526,
+      "num": 250526,
+      "word": "大学生用纸折出1400个鳞片的龙神",
+      "onboard_time": 1663818148,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248721,
       "num": 220172,
       "word": "任嘉伦陆炎的霸道随了陆绎",
@@ -4291,6 +4427,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 237924,
+      "num": 237924,
+      "word": "如何区分伴侣的占有欲和PUA",
+      "onboard_time": 1663820130,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 237040,
+      "num": 237040,
+      "word": "任嘉伦说有时无期请君共赏",
+      "onboard_time": 1663819652,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 236822,
       "num": 236822,
       "word": "关羽赤影疾锋",
@@ -4337,6 +4489,22 @@
       "onboard_time": 1663752928,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 234477,
+      "num": 857502,
+      "word": "好人遇见了好人",
+      "onboard_time": 1663812928,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233818,
+      "num": 233818,
+      "word": "总忘记自己也是大人了",
+      "onboard_time": 1663814248,
+      "rank": 28,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 233616,
@@ -4617,6 +4785,14 @@
       "onboard_time": 1663753652,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218722,
+      "num": 218722,
+      "word": "终于看到专业的煎饼了",
+      "onboard_time": 1663815507,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 218645,
@@ -4947,6 +5123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198603,
+      "num": 198603,
+      "word": "公司回应的哥提黑狗在车身涂狗血",
+      "onboard_time": 1663815450,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198294,
       "num": 198294,
       "word": "女友视角的张翰",
@@ -5001,14 +5185,6 @@
       "onboard_time": 1663746751,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 193982,
-      "num": 857502,
-      "word": "好人遇见了好人",
-      "onboard_time": 1663812928,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 193902,
@@ -5099,6 +5275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 186722,
+      "num": 186722,
+      "word": "成毅底线演员特辑",
+      "onboard_time": 1663820973,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 186627,
       "num": 186627,
       "word": "爱情而已首支片花",
@@ -5147,6 +5331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184433,
+      "num": 184433,
+      "word": "RNG比赛时间",
+      "onboard_time": 1663815987,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 182534,
       "num": 182534,
       "word": "陆虎推荐再就业男团上春晚",
@@ -5177,6 +5369,14 @@
       "onboard_time": 1663741290,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 181812,
+      "num": 181812,
+      "word": "特朗普涉财务欺诈被起诉",
+      "onboard_time": 1663815326,
+      "rank": 30,
+      "category": "国外要闻,社会新闻"
     },
     {
       "raw_hot": 181688,
@@ -5265,14 +5465,6 @@
       "onboard_time": 1663682670,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 177860,
-      "num": 177860,
-      "word": "总忘记自己也是大人了",
-      "onboard_time": 1663814248,
-      "rank": 28,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 177853,
@@ -5411,6 +5603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169186,
+      "num": 169186,
+      "word": "大学可以有多浪漫",
+      "onboard_time": 1663818810,
+      "rank": 41,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 168466,
       "num": 168466,
       "word": "河南66亿元的超大充电宝来了",
@@ -5459,14 +5659,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 165564,
-      "num": 165564,
-      "word": "特朗普涉财务欺诈被起诉",
-      "onboard_time": 1663815326,
-      "rank": 30,
-      "category": "国外要闻,社会新闻"
-    },
-    {
       "raw_hot": 165304,
       "num": 165304,
       "word": "槟郎近千亿产业或被按下暂停键",
@@ -5489,6 +5681,14 @@
       "onboard_time": 1663499368,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 163966,
+      "num": 163966,
+      "word": "这猫怎么睡得四仰八叉的",
+      "onboard_time": 1663821515,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 163789,
@@ -6043,14 +6243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 131713,
-      "num": 131713,
-      "word": "终于看到专业的煎饼了",
-      "onboard_time": 1663815507,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 131109,
       "num": 131109,
       "word": "肖思远母亲送小儿子入伍的一幕看哭",
@@ -6105,14 +6297,6 @@
       "onboard_time": 1663573047,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 127538,
-      "num": 127538,
-      "word": "公司回应的哥提黑狗在车身涂狗血",
-      "onboard_time": 1663815450,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126003,
@@ -6171,6 +6355,14 @@
       "category": "综艺,情感"
     },
     {
+      "raw_hot": 123496,
+      "num": 123496,
+      "word": "脱口秀比红楼梦幸运",
+      "onboard_time": 1663821994,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123168,
       "num": 123168,
       "word": "首部中西结合末日题材小说漫画化",
@@ -6225,14 +6417,6 @@
       "onboard_time": 1663811246,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 116923,
-      "num": 116923,
-      "word": "甘宇失联17天中有9天淋雨致感染",
-      "onboard_time": 1663815807,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116690,
@@ -6339,14 +6523,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 110204,
-      "num": 110204,
-      "word": "RNG比赛时间",
-      "onboard_time": 1663815987,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 110169,
       "num": 1504091,
       "word": "让禾下乘凉梦遍地开花",
@@ -6451,14 +6627,6 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 103765,
-      "num": 103765,
-      "word": "女子上班时挪车被罚穿高跟鞋蛙跳",
-      "onboard_time": 1663816048,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 101969,
       "num": 101969,
       "word": "河南增本土确诊1例无症状7例",
@@ -6497,14 +6665,6 @@
       "onboard_time": 1663508312,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 100347,
-      "num": 100347,
-      "word": "女子剖腹产后回家被用箩筐抬上5楼",
-      "onboard_time": 1663816168,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 100151,
