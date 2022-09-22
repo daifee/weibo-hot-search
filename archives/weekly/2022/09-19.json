@@ -1,6 +1,6 @@
 {
   "startTime": 1663518759246,
-  "endTime": 1663845643235,
+  "endTime": 1663846694533,
   "band_list": [
     {
       "raw_hot": 8415894,
@@ -403,6 +403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1727582,
+      "num": 1727582,
+      "word": "小偷得知失主癌症晚期改口认罪",
+      "onboard_time": 1663841428,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1718214,
       "num": 1718214,
       "word": "杜帝没有妈妈了",
@@ -464,14 +472,6 @@
       "word": "老太切除多器官3个月后去世",
       "onboard_time": 1663517968,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1647222,
-      "num": 1647222,
-      "word": "小偷得知失主癌症晚期改口认罪",
-      "onboard_time": 1663841428,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -700,7 +700,7 @@
     },
     {
       "raw_hot": 1295554,
-      "num": 383393,
+      "num": 425669,
       "word": "唐山打人案将于23日公开宣判",
       "onboard_time": 1663838488,
       "rank": 15,
@@ -1363,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 849534,
+      "num": 849534,
+      "word": "潘粤明新剧开分8.2",
+      "onboard_time": 1663844731,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 849448,
       "num": 849448,
       "word": "长月烬明",
@@ -1713,14 +1721,6 @@
       "onboard_time": 1663759232,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 647282,
-      "num": 647282,
-      "word": "潘粤明新剧开分8.2",
-      "onboard_time": 1663844731,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 645345,
@@ -2219,6 +2219,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 539217,
+      "num": 539217,
+      "word": "今天芭比粉谁驾驭住了",
+      "onboard_time": 1663846589,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 531865,
       "num": 531865,
       "word": "亚洲最大医院成绩单",
@@ -2393,6 +2401,14 @@
       "onboard_time": 1663796713,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 481346,
+      "num": 481346,
+      "word": "研究称地球上共有2亿亿只蚂蚁",
+      "onboard_time": 1663841727,
+      "rank": 27,
+      "category": "其它"
     },
     {
       "raw_hot": 480408,
@@ -2585,6 +2601,14 @@
       "onboard_time": 1663590747,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 450743,
+      "num": 450743,
+      "word": "21岁单亲妈妈回应不要亡夫赔偿金",
+      "onboard_time": 1663844430,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 446087,
@@ -3099,14 +3123,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 375805,
-      "num": 375805,
-      "word": "研究称地球上共有2亿亿只蚂蚁",
-      "onboard_time": 1663841727,
-      "rank": 27,
-      "category": "其它"
-    },
-    {
       "raw_hot": 375543,
       "num": 375543,
       "word": "福建人都要晃晕了",
@@ -3177,6 +3193,14 @@
       "onboard_time": 1663750948,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 366648,
+      "num": 366648,
+      "word": "为啥年轻人都不买钻石了",
+      "onboard_time": 1663844252,
+      "rank": 21,
+      "category": "其它"
     },
     {
       "raw_hot": 364354,
@@ -3699,6 +3723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 309719,
+      "num": 309719,
+      "word": "妈妈担心白化病女儿上幼儿园被孤立",
+      "onboard_time": 1663842989,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 309527,
       "num": 309527,
       "word": "莫斯科交易所宣布将暂停英镑交易",
@@ -4091,14 +4123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 284006,
-      "num": 284006,
-      "word": "妈妈担心白化病女儿上幼儿园被孤立",
-      "onboard_time": 1663842989,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 283318,
       "num": 283318,
       "word": "罚罪",
@@ -4185,6 +4209,14 @@
       "onboard_time": 1663724727,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 279354,
+      "num": 279354,
+      "word": "北京大风",
+      "onboard_time": 1663846531,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 278701,
@@ -4523,14 +4555,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 257077,
-      "num": 257077,
-      "word": "21岁单亲妈妈回应不要亡夫赔偿金",
-      "onboard_time": 1663844430,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 256442,
       "num": 256442,
       "word": "LPR",
@@ -4691,6 +4715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 245359,
+      "num": 245359,
+      "word": "天娱新男团官宣",
+      "onboard_time": 1663846168,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 245098,
       "num": 245098,
       "word": "当代年轻人养生图鉴",
@@ -4801,6 +4833,14 @@
       "onboard_time": 1663529111,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241351,
+      "num": 241351,
+      "word": "韩国女篮踢人",
+      "onboard_time": 1663844851,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 240263,
@@ -5059,6 +5099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 225185,
+      "num": 225185,
+      "word": "大叔托管式养600头牛年入60万",
+      "onboard_time": 1663846531,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225143,
       "num": 180737,
       "word": "喜剧大赛2选手使相官宣",
@@ -5313,14 +5361,6 @@
       "onboard_time": 1663756709,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212643,
-      "num": 212643,
-      "word": "为啥年轻人都不买钻石了",
-      "onboard_time": 1663844252,
-      "rank": 21,
-      "category": "其它"
     },
     {
       "raw_hot": 212578,
@@ -5659,6 +5699,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 197422,
+      "num": 197422,
+      "word": "富士康拆除iPhone部分产线",
+      "onboard_time": 1663845810,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
       "raw_hot": 196398,
       "num": 196398,
       "word": "只要我还在我就一定能接起电话",
@@ -5785,6 +5833,14 @@
       "onboard_time": 1663636648,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 186871,
+      "num": 186871,
+      "word": "这才是我想看的女友视角",
+      "onboard_time": 1663843350,
+      "rank": 44,
+      "category": "情感,艺人"
     },
     {
       "raw_hot": 186722,
@@ -6033,14 +6089,6 @@
       "onboard_time": 1663670611,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 174882,
-      "num": 174882,
-      "word": "这才是我想看的女友视角",
-      "onboard_time": 1663843350,
-      "rank": 44,
-      "category": "情感,艺人"
     },
     {
       "raw_hot": 174386,
@@ -6891,6 +6939,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131741,
+      "num": 131741,
+      "word": "新赛季不当老八",
+      "onboard_time": 1663840406,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 131136,
+      "num": 131136,
+      "word": "邱勇任上交所党委书记",
+      "onboard_time": 1663845450,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131109,
       "num": 131109,
       "word": "肖思远母亲送小儿子入伍的一幕看哭",
@@ -6905,6 +6969,14 @@
       "onboard_time": 1663807471,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 129323,
+      "num": 129323,
+      "word": "理想L8即将上市",
+      "onboard_time": 1663844070,
+      "rank": 32,
+      "category": "科技"
     },
     {
       "raw_hot": 129134,
@@ -7019,14 +7091,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 122229,
-      "num": 122229,
-      "word": "韩国女篮踢人",
-      "onboard_time": 1663844851,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 121867,
       "num": 121867,
       "word": "这样的睡姿最毁腰",
@@ -7059,14 +7123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 120485,
-      "num": 120485,
-      "word": "理想L8即将上市",
-      "onboard_time": 1663844070,
-      "rank": 32,
-      "category": "科技"
-    },
-    {
       "raw_hot": 119349,
       "num": 119349,
       "word": "美军在叙非法驻军基地遭导弹袭击",
@@ -7080,14 +7136,6 @@
       "word": "第五人格",
       "onboard_time": 1663811246,
       "rank": 41,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 117684,
-      "num": 117684,
-      "word": "新赛季不当老八",
-      "onboard_time": 1663840406,
-      "rank": 39,
       "category": "游戏"
     },
     {
@@ -7539,6 +7587,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 84050,
+      "num": 84050,
+      "word": "大熊猫幼崽摆摊现场",
+      "onboard_time": 1663846349,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82676,
       "num": 138388,
       "word": "华为Mate50十秒售罄",
@@ -7609,14 +7665,6 @@
       "onboard_time": 1663743806,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 72969,
-      "num": 72969,
-      "word": "邱勇任上交所党委书记",
-      "onboard_time": 1663845450,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 71794,
