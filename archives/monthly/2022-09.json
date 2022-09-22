@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1663838869265,
+  "endTime": 1663839910962,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -1891,6 +1891,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 2070041,
+      "num": 2070041,
+      "word": "医生收下2千红包转手充进患者账户",
+      "onboard_time": 1663835726,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2053007,
       "num": 2053007,
       "word": "女生极限通勤每天来回6.5小时",
@@ -3152,14 +3160,6 @@
       "word": "上完14天班又是小长假",
       "onboard_time": 1663036411,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1629265,
-      "num": 1629265,
-      "word": "医生收下2千红包转手充进患者账户",
-      "onboard_time": 1663835726,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -9891,6 +9891,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 784376,
+      "num": 331091,
+      "word": "唐山打人案将于23日公开宣判",
+      "onboard_time": 1663838488,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 784099,
       "num": 495605,
       "word": "赵露思直播",
@@ -10697,6 +10705,14 @@
       "onboard_time": 1662368012,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 720395,
+      "num": 720395,
+      "word": "特朗普称FBI拿走了他的遗嘱",
+      "onboard_time": 1663838007,
+      "rank": 16,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 720110,
@@ -22635,14 +22651,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 331091,
-      "num": 331091,
-      "word": "唐山打人案将于23日公开宣判",
-      "onboard_time": 1663838488,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 330958,
       "num": 330958,
       "word": "山东有了新slogan",
@@ -23041,14 +23049,6 @@
       "onboard_time": 1662280828,
       "rank": 48,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 324880,
-      "num": 324880,
-      "word": "特朗普称FBI拿走了他的遗嘱",
-      "onboard_time": 1663838007,
-      "rank": 16,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 324862,
@@ -26819,6 +26819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 277744,
+      "num": 277744,
+      "word": "陈紫函让戴向宇跪榴莲",
+      "onboard_time": 1663837464,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 277592,
       "num": 277592,
       "word": "熊孩子将整层楼道灭火器呲光光",
@@ -30483,6 +30491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235122,
+      "num": 235122,
+      "word": "当酒店前台这么精彩的吗",
+      "onboard_time": 1663836926,
+      "rank": 29,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 235102,
       "num": 235102,
       "word": "山东三支一扶",
@@ -32425,14 +32441,6 @@
       "onboard_time": 1663734811,
       "rank": 47,
       "category": "科技"
-    },
-    {
-      "raw_hot": 212488,
-      "num": 212488,
-      "word": "陈紫函让戴向宇跪榴莲",
-      "onboard_time": 1663837464,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 212353,
@@ -35611,6 +35619,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 178466,
+      "num": 178466,
+      "word": "中国女篮领先63分大胜韩国",
+      "onboard_time": 1663838907,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178349,
       "num": 178349,
       "word": "AppleWatchUltra评测",
@@ -35841,6 +35857,14 @@
       "onboard_time": 1662864990,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 174386,
+      "num": 174386,
+      "word": "中国女篮加油",
+      "onboard_time": 1663839326,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 174265,
@@ -36193,14 +36217,6 @@
       "onboard_time": 1663052737,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 170115,
-      "num": 188839,
-      "word": "当酒店前台这么精彩的吗",
-      "onboard_time": 1663836926,
-      "rank": 29,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 170003,
@@ -38251,6 +38267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148266,
+      "num": 345024,
+      "word": "7旬老人5天没晒衣邻居报警救回",
+      "onboard_time": 1663837287,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148228,
       "num": 148228,
       "word": "纳达尔无缘美网八强",
@@ -39123,6 +39147,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 136866,
+      "num": 136866,
+      "word": "90后助农小伙开辟卖葡萄新方式",
+      "onboard_time": 1663837648,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136771,
       "num": 148926,
       "word": "百度糯米APP关停",
@@ -39441,14 +39473,6 @@
       "onboard_time": 1662635669,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 133615,
-      "num": 133615,
-      "word": "90后助农小伙开辟卖葡萄新方式",
-      "onboard_time": 1663837648,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133593,
@@ -40337,6 +40361,14 @@
       "onboard_time": 1662854608,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121715,
+      "num": 121715,
+      "word": "墨迹天气",
+      "onboard_time": 1663839326,
+      "rank": 40,
+      "category": "科技"
     },
     {
       "raw_hot": 121673,
@@ -41579,14 +41611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 98815,
-      "num": 345024,
-      "word": "7旬老人5天没晒衣邻居报警救回",
-      "onboard_time": 1663837287,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 98786,
       "num": 98786,
       "word": "3个动作有效缓解眼部疲劳",
@@ -41721,6 +41745,22 @@
       "onboard_time": 1662663673,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 96362,
+      "num": 96362,
+      "word": "男生约流浪猫吃烤串猫咪如约而至",
+      "onboard_time": 1663839866,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96345,
+      "num": 96345,
+      "word": "外交部回应拜登称美不寻求冲突冷战",
+      "onboard_time": 1663839748,
+      "rank": 49,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 95860,

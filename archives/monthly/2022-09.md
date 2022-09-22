@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/22 17:27:49
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/22 17:45:10
 </p>
 </blockquote>
 <p>
@@ -1431,6 +1431,12 @@ EDG让二追三RNG（热度：2082083）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E6%94%B6%E4%B8%8B2%E5%8D%83%E7%BA%A2%E5%8C%85%E8%BD%AC%E6%89%8B%E5%85%85%E8%BF%9B%E6%82%A3%E8%80%85%E8%B4%A6%E6%88%B7%23" target="weibo">
+医生收下2千红包转手充进患者账户（热度：2070041）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%9E%81%E9%99%90%E9%80%9A%E5%8B%A4%E6%AF%8F%E5%A4%A9%E6%9D%A5%E5%9B%9E6.5%E5%B0%8F%E6%97%B6%23" target="weibo">
 女生极限通勤每天来回6.5小时（热度：2053007）
 </a>
@@ -2375,12 +2381,6 @@ iPhone14 Plus（热度：1672968）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%AE%8C14%E5%A4%A9%E7%8F%AD%E5%8F%88%E6%98%AF%E5%B0%8F%E9%95%BF%E5%81%87%23" target="weibo">
 上完14天班又是小长假（热度：1629316）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E6%94%B6%E4%B8%8B2%E5%8D%83%E7%BA%A2%E5%8C%85%E8%BD%AC%E6%89%8B%E5%85%85%E8%BF%9B%E6%82%A3%E8%80%85%E8%B4%A6%E6%88%B7%23" target="weibo">
-医生收下2千红包转手充进患者账户（热度：1629265）
 </a>
 </li>
 
