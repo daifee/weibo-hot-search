@@ -1,0 +1,410 @@
+{
+  "runTime": 1663860400981,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1518007,
+        "num": 1518007,
+        "word": "德国称已准备好成为安理会常任理事国",
+        "onboard_time": 1663856611,
+        "rank": 0,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 632225,
+        "num": 632225,
+        "word": "孙杨10年后收到世界纪录证书",
+        "onboard_time": 1663857692,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115783,
+        "num": 631256,
+        "word": "惊艳了整个秋天的丰收色",
+        "onboard_time": 1663849649,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1025073,
+        "num": 625851,
+        "word": "重庆长寿区集中隔离场所实行收费管理",
+        "onboard_time": 1663857272,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 742183,
+        "num": 620639,
+        "word": "今天芭比粉谁驾驭住了",
+        "onboard_time": 1663846589,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 646541,
+        "num": 614649,
+        "word": "王祖蓝香港豪宅6年升值780万",
+        "onboard_time": 1663857331,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 613015,
+        "num": 613015,
+        "word": "云南镇雄县集中隔离场所开始实行收费管理",
+        "onboard_time": 1663854628,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 597002,
+        "num": 597002,
+        "word": "韩总统私下吐槽美国会议员为崽子",
+        "onboard_time": 1663847189,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 580647,
+        "num": 580647,
+        "word": "AirPods Pro 2评测",
+        "onboard_time": 1663856370,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 524298,
+        "num": 524298,
+        "word": "男子称用顺丰寄鱼干到货只剩头尾",
+        "onboard_time": 1663857216,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1949964,
+        "num": 516870,
+        "word": "山东一高校宿舍发生刑案致1人死亡",
+        "onboard_time": 1663859075,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 915394,
+        "num": 515769,
+        "word": "张翰是不是想营造出虞书欣这种感觉",
+        "onboard_time": 1663859609,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 507647,
+        "num": 507647,
+        "word": "父母忘接孩子男孩通宵徒步回家",
+        "onboard_time": 1663849050,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501924,
+        "num": 501924,
+        "word": "王晓晨发长文告别亲爱的生命",
+        "onboard_time": 1663855353,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 439220,
+        "num": 439220,
+        "word": "这是一只23岁的猫猫",
+        "onboard_time": 1663858232,
+        "rank": 14,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 419352,
+        "num": 419352,
+        "word": "为啥年轻人都不买钻石了",
+        "onboard_time": 1663844252,
+        "rank": 15,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 337956,
+        "num": 337956,
+        "word": "邻居骗走钥匙将下水管装满天花板",
+        "onboard_time": 1663857151,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321006,
+        "num": 321006,
+        "word": "yolo延期",
+        "onboard_time": 1663858773,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 293770,
+        "num": 293770,
+        "word": "金智秀获韩流电视剧女子演技奖",
+        "onboard_time": 1663854570,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288553,
+        "num": 288553,
+        "word": "唐山打人案将于23日公开宣判",
+        "onboard_time": 1663838488,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259245,
+        "num": 259245,
+        "word": "小偷得知失主癌症晚期改口认罪",
+        "onboard_time": 1663841428,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242235,
+        "num": 242235,
+        "word": "潘粤明新剧开分8.2",
+        "onboard_time": 1663844731,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237642,
+        "num": 237642,
+        "word": "哪本小说让你看完后疯狂找代餐",
+        "onboard_time": 1663846770,
+        "rank": 22,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 233363,
+        "num": 233363,
+        "word": "95后在殡仪馆工作是什么体验",
+        "onboard_time": 1663853369,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223342,
+        "num": 223342,
+        "word": "马嘉祺我们的歌造型花絮照",
+        "onboard_time": 1663857216,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196374,
+        "num": 196374,
+        "word": "北京大风网友吐槽头发保不住",
+        "onboard_time": 1663854209,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184391,
+        "num": 184391,
+        "word": "秦皇岛巨型漫画云",
+        "onboard_time": 1663856370,
+        "rank": 26,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 170888,
+        "num": 170888,
+        "word": "富士康拆除iPhone部分产线",
+        "onboard_time": 1663845810,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 164289,
+        "num": 164289,
+        "word": "社恐猫咪躲厕所假扮马桶刷",
+        "onboard_time": 1663853909,
+        "rank": 28,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 88487,
+        "num": 157571,
+        "word": "印外长称与华关系恢复正常是印当下外交政策重点",
+        "onboard_time": 1663859852,
+        "rank": 29,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 216908,
+        "num": 156683,
+        "word": "马伊琍说哭与年龄和性别无关",
+        "onboard_time": 1663856730,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184100,
+        "num": 156308,
+        "word": "黄明昊嗑棣欣引力reaction",
+        "onboard_time": 1663846831,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155773,
+        "num": 155773,
+        "word": "男子醉驾连撞6车甩锅给妹妹",
+        "onboard_time": 1663858895,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144993,
+        "num": 144993,
+        "word": "电视剧底线",
+        "onboard_time": 1663856370,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139521,
+        "num": 139521,
+        "word": "龚俊狐妖小红娘水墨蓝衫造型",
+        "onboard_time": 1663851568,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139491,
+        "num": 139491,
+        "word": "天娱新男团官宣",
+        "onboard_time": 1663846168,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132657,
+        "num": 132657,
+        "word": "医生收下2千红包转手充进患者账户",
+        "onboard_time": 1663835726,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122038,
+        "num": 122038,
+        "word": "厦航购买40架空客A320neo",
+        "onboard_time": 1663850308,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121457,
+        "num": 121457,
+        "word": "妈妈担心白化病女儿上幼儿园被孤立",
+        "onboard_time": 1663842989,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109676,
+        "num": 109676,
+        "word": "北京大风有树被吹倒",
+        "onboard_time": 1663852108,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129712,
+        "num": 108295,
+        "word": "张雨绮回应昆仑神宫开分",
+        "onboard_time": 1663851750,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 105050,
+        "num": 105050,
+        "word": "原来手机可以一键转移数据",
+        "onboard_time": 1663848329,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 103458,
+        "num": 103458,
+        "word": "基金女主播真人与海报判若两人",
+        "onboard_time": 1663859671,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102743,
+        "num": 102743,
+        "word": "研究称地球上共有2亿亿只蚂蚁",
+        "onboard_time": 1663841727,
+        "rank": 43,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 102566,
+        "num": 102566,
+        "word": "高质量居家好物",
+        "onboard_time": 1663860093,
+        "rank": 44,
+        "category": "情感,时尚"
+      },
+      {
+        "raw_hot": 101279,
+        "num": 101279,
+        "word": "那种一直不谈恋爱的最会玩",
+        "onboard_time": 1663822657,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83789,
+        "num": 83789,
+        "word": "韩国女篮踢人",
+        "onboard_time": 1663844851,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79330,
+        "num": 79330,
+        "word": "特朗普称FBI拿走了他的遗嘱",
+        "onboard_time": 1663838007,
+        "rank": 47,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 75422,
+        "num": 75422,
+        "word": "石头剪刀布演示海姆立克急救法",
+        "onboard_time": 1663858294,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71184,
+        "num": 71184,
+        "word": "墨迹天气",
+        "onboard_time": 1663839326,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国农民丰收节#"
+    }
+  }
+}
