@@ -1,6 +1,6 @@
 {
   "startTime": 1663778231376,
-  "endTime": 1663822911704,
+  "endTime": 1663826772769,
   "band_list": [
     {
       "raw_hot": 3165982,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1806213,
+      "num": 368103,
+      "word": "警方通报某艺考机构杜某某已被刑拘",
+      "onboard_time": 1663822894,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1780122,
       "num": 1780122,
       "word": "学生交完4500住宿费搬进12人间教室",
@@ -57,6 +65,14 @@
       "onboard_time": 1663821394,
       "rank": 12,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1568472,
+      "num": 808519,
+      "word": "那种一直不谈恋爱的最会玩",
+      "onboard_time": 1663822657,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 1229447,
@@ -171,6 +187,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 803871,
+      "num": 803871,
+      "word": "DR钻戒成本4000卖1.5万",
+      "onboard_time": 1663824989,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 794166,
       "num": 794166,
       "word": "男子被邀进店避雨趁机搂抱女店员",
@@ -185,6 +209,14 @@
       "onboard_time": 1663775670,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 672967,
+      "num": 672967,
+      "word": "王鹤棣密室大逃脱撒娇",
+      "onboard_time": 1663824628,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 643197,
@@ -275,6 +307,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 524353,
+      "num": 524353,
+      "word": "宝妈给儿子穿粉色卫衣被大妈指责",
+      "onboard_time": 1663823430,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 518093,
       "num": 481647,
       "word": "谷爱凌参加斯坦福开学典礼",
@@ -363,20 +403,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 372003,
+      "num": 372003,
+      "word": "你经常喝粥吗",
+      "onboard_time": 1663823492,
+      "rank": 9,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 361069,
       "num": 361069,
       "word": "日式快餐为什么不火了",
       "onboard_time": 1663760008,
       "rank": 8,
       "category": "社会新闻,社会新闻"
-    },
-    {
-      "raw_hot": 333706,
-      "num": 333706,
-      "word": "那种一直不谈恋爱的最会玩",
-      "onboard_time": 1663822657,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 330848,
@@ -443,6 +483,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 307068,
+      "num": 307068,
+      "word": "这猫怎么睡得四仰八叉的",
+      "onboard_time": 1663821515,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 305913,
+      "num": 305913,
+      "word": "谁不爱这样的大小姐呢",
+      "onboard_time": 1663826426,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 300155,
       "num": 300155,
       "word": "BLACKPINK新专初动销量破两百万",
@@ -457,6 +513,14 @@
       "onboard_time": 1663774771,
       "rank": 7,
       "category": "教育,情感"
+    },
+    {
+      "raw_hot": 293598,
+      "num": 293598,
+      "word": "1大勺1小勺到底是多少",
+      "onboard_time": 1663823908,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 293244,
@@ -489,6 +553,14 @@
       "onboard_time": 1663808788,
       "rank": 17,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 280825,
+      "num": 280825,
+      "word": "任嘉伦李沁请君3000年宿命文学",
+      "onboard_time": 1663823252,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 269317,
@@ -531,14 +603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 257638,
-      "num": 257638,
-      "word": "这猫怎么睡得四仰八叉的",
-      "onboard_time": 1663821515,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 257126,
       "num": 257126,
       "word": "Kid淘汰",
@@ -563,12 +627,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 239233,
-      "num": 122488,
-      "word": "警方通报某艺考机构杜某某已被刑拘",
-      "onboard_time": 1663822894,
-      "rank": 47,
-      "category": "社会新闻,教育"
+      "raw_hot": 245926,
+      "num": 245926,
+      "word": "北京朝阳新增2名感染者",
+      "onboard_time": 1663826370,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 237040,
@@ -635,12 +699,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 221607,
+      "num": 221607,
+      "word": "网友吐槽海底捞小料涨到11元",
+      "onboard_time": 1663825528,
+      "rank": 28,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 220808,
       "num": 220808,
       "word": "民警挨个手指试出醉汉手机指纹锁",
       "onboard_time": 1663806026,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220279,
+      "num": 220279,
+      "word": "李现任敏群星闪耀时开通官微",
+      "onboard_time": 1663824510,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 219655,
@@ -665,6 +745,22 @@
       "onboard_time": 1663789631,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211002,
+      "num": 211002,
+      "word": "Mate50系列有望冲击千万销量",
+      "onboard_time": 1663823131,
+      "rank": 31,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 201230,
+      "num": 201230,
+      "word": "工作第一天就犯行业大忌是什么体验",
+      "onboard_time": 1663824451,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 200279,
@@ -755,6 +851,14 @@
       "category": "国外要闻,社会新闻"
     },
     {
+      "raw_hot": 180524,
+      "num": 180524,
+      "word": "折叠式iPhone可自行修复折痕",
+      "onboard_time": 1663826128,
+      "rank": 36,
+      "category": "科技"
+    },
+    {
       "raw_hot": 174275,
       "num": 128381,
       "word": "杜帝没有妈妈了",
@@ -769,6 +873,14 @@
       "onboard_time": 1663818810,
       "rank": 41,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 164648,
+      "num": 164648,
+      "word": "凯尔特人主帅可能被长期停赛",
+      "onboard_time": 1663823728,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 162303,
@@ -875,6 +987,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 131843,
+      "num": 131843,
+      "word": "被烂梗笑到是我的命运",
+      "onboard_time": 1663823971,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129432,
       "num": 129432,
       "word": "你期待在国庆档看到哪部电影",
@@ -915,6 +1035,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 111757,
+      "num": 111757,
+      "word": "甘宇哭着感谢发现他的倪太高",
+      "onboard_time": 1663826251,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109267,
       "num": 90366,
       "word": "一眼沦陷的神级美图",
@@ -945,6 +1073,14 @@
       "onboard_time": 1663761991,
       "rank": 36,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 96768,
+      "num": 96768,
+      "word": "送别任溶溶爷爷",
+      "onboard_time": 1663825051,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 95957,
@@ -1139,6 +1275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 9947,
+      "num": 348024,
+      "word": "老人为妻写阿尔茨海默病照护手记",
+      "onboard_time": 1663826426,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 7622,
       "num": 7885,
       "word": "敦促美方停止掠夺叙利亚国家资源",
@@ -1236,6 +1380,9 @@
     },
     {
       "word": "#跟着总书记看中国#"
+    },
+    {
+      "word": "#加快农业农村现代化步伐#"
     }
   ]
 }
