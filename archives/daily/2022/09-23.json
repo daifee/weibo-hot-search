@@ -1,6 +1,6 @@
 {
   "startTime": 1663864508123,
-  "endTime": 1663864508123,
+  "endTime": 1663866074892,
   "band_list": [
     {
       "raw_hot": 1757360,
@@ -19,20 +19,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 741928,
+      "num": 741928,
+      "word": "深圳楼盘604套千万豪宅一天卖光",
+      "onboard_time": 1663862127,
+      "rank": 1,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 692186,
       "num": 289006,
       "word": "成都一罐车侧翻压扁宝马致司机死亡",
       "onboard_time": 1663860932,
       "rank": 11,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 661509,
-      "num": 661509,
-      "word": "深圳楼盘604套千万豪宅一天卖光",
-      "onboard_time": 1663862127,
-      "rank": 1,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 531195,
@@ -131,8 +131,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 187252,
-      "num": 187252,
+      "raw_hot": 189239,
+      "num": 189239,
       "word": "被淡颜美人惊艳的瞬间",
       "onboard_time": 1663863326,
       "rank": 17,
@@ -145,6 +145,22 @@
       "onboard_time": 1663844252,
       "rank": 18,
       "category": "其它"
+    },
+    {
+      "raw_hot": 184705,
+      "num": 184705,
+      "word": "张远天天向上跳爱你好甜",
+      "onboard_time": 1663864761,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 183886,
+      "num": 183886,
+      "word": "甜椒cp",
+      "onboard_time": 1663865001,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 168724,
@@ -161,6 +177,14 @@
       "onboard_time": 1663860810,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 154326,
+      "num": 132729,
+      "word": "南京一小学让孩子躺着午睡",
+      "onboard_time": 1663864282,
+      "rank": 46,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 152690,
@@ -235,6 +259,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 126761,
+      "num": 126761,
+      "word": "新娘出嫁时跪谢83岁奶奶",
+      "onboard_time": 1663863506,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112673,
       "num": 112673,
       "word": "胡金秋小腿骨折",
@@ -281,14 +313,6 @@
       "onboard_time": 1663853909,
       "rank": 36,
       "category": "幽默,社会新闻"
-    },
-    {
-      "raw_hot": 90746,
-      "num": 90746,
-      "word": "新娘出嫁时跪谢83岁奶奶",
-      "onboard_time": 1663863506,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 88999,
@@ -371,14 +395,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 50637,
-      "num": 50637,
-      "word": "南京一小学让孩子躺着午睡",
-      "onboard_time": 1663864282,
-      "rank": 46,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 38770,
       "num": 38770,
       "word": "高质量居家好物",
@@ -401,11 +417,22 @@
       "onboard_time": 1663842989,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27536,
+      "num": 27536,
+      "word": "5岁男孩礼貌求摸警犬获众人鼓励",
+      "onboard_time": 1663864761,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#加快农业农村现代化步伐#"
+    },
+    {
+      "word": "#我们的时代我们的城#"
     }
   ]
 }
