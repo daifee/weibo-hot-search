@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/22 22:04:29
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/22 22:30:32
 </p>
 </blockquote>
 <p>
@@ -2777,6 +2777,12 @@ B站诉争哔哩哔哩商标被驳回（热度：1518132）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%89%E5%B7%9E%E9%9C%87%E6%84%9F%23" target="weibo">
 泉州震感（热度：1503337）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%8D%97%E9%95%87%E9%9B%84%E5%8E%BF%E9%9B%86%E4%B8%AD%E9%9A%94%E7%A6%BB%E5%9C%BA%E6%89%80%E5%BC%80%E5%A7%8B%E5%AE%9E%E8%A1%8C%E6%94%B6%E8%B4%B9%E7%AE%A1%E7%90%86%23" target="weibo">
+云南镇雄县集中隔离场所开始实行收费管理（热度：1500797）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ iPhone14涨价或低于预期（热度：932859）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2324%E5%B2%81%E5%B0%8F%E4%BC%99%E7%86%AC%E5%A4%9C%E5%8A%A0%E7%8F%AD%E5%90%8E%E5%8F%91%E7%8E%B0%E5%98%B4%E6%AD%AA%E4%BA%86%23" target="weibo">
 24岁小伙熬夜加班后发现嘴歪了（热度：930671）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%99%93%E7%94%A8%E4%B8%80%E5%B9%B4%E8%B5%B0%E5%87%BA%E5%90%B4%E6%8C%AF%E5%B3%B0%23" target="weibo">
-陈晓用一年走出吴振峰（热度：930158）
 </a>
 </li>
 

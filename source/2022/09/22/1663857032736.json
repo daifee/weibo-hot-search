@@ -1,0 +1,410 @@
+{
+  "runTime": 1663857032736,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 907392,
+        "num": 907392,
+        "word": "韩总统私下吐槽美国会议员为崽子",
+        "onboard_time": 1663847189,
+        "rank": 0,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1500797,
+        "num": 824200,
+        "word": "云南镇雄县集中隔离场所开始实行收费管理",
+        "onboard_time": 1663854628,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124241,
+        "num": 744484,
+        "word": "惊艳了整个秋天的丰收色",
+        "onboard_time": 1663849649,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 916887,
+        "num": 725518,
+        "word": "今天芭比粉谁驾驭住了",
+        "onboard_time": 1663846589,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 702962,
+        "num": 702962,
+        "word": "父母忘接孩子男孩通宵徒步回家",
+        "onboard_time": 1663849050,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581328,
+        "num": 581328,
+        "word": "为啥年轻人都不买钻石了",
+        "onboard_time": 1663844252,
+        "rank": 5,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 559059,
+        "num": 559059,
+        "word": "金智秀获韩流电视剧女子演技奖",
+        "onboard_time": 1663854570,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 514324,
+        "num": 514324,
+        "word": "小偷得知失主癌症晚期改口认罪",
+        "onboard_time": 1663841428,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407938,
+        "num": 407938,
+        "word": "马伊琍说哭与年龄和性别无关",
+        "onboard_time": 1663856730,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382340,
+        "num": 382340,
+        "word": "哪本小说让你看完后疯狂找代餐",
+        "onboard_time": 1663846770,
+        "rank": 9,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 496404,
+        "num": 381731,
+        "word": "唐山打人案将于23日公开宣判",
+        "onboard_time": 1663838488,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363360,
+        "num": 363360,
+        "word": "95后在殡仪馆工作是什么体验",
+        "onboard_time": 1663853369,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 354293,
+        "num": 354293,
+        "word": "厦航购买40架空客A320neo",
+        "onboard_time": 1663850308,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334831,
+        "num": 334831,
+        "word": "富士康拆除iPhone部分产线",
+        "onboard_time": 1663845810,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 321439,
+        "num": 321439,
+        "word": "潘粤明新剧开分8.2",
+        "onboard_time": 1663844731,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 316757,
+        "num": 316757,
+        "word": "北京大风有树被吹倒",
+        "onboard_time": 1663852108,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310058,
+        "num": 310058,
+        "word": "虞书欣小森林在逃绿色小奶龙",
+        "onboard_time": 1663856192,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268940,
+        "num": 268940,
+        "word": "社恐猫咪躲厕所假扮马桶刷",
+        "onboard_time": 1663853909,
+        "rank": 17,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 258500,
+        "num": 258500,
+        "word": "北京大风网友吐槽头发保不住",
+        "onboard_time": 1663854209,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238380,
+        "num": 238380,
+        "word": "医生收下2千红包转手充进患者账户",
+        "onboard_time": 1663835726,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282811,
+        "num": 238372,
+        "word": "金廷祐MCD舞台直拍",
+        "onboard_time": 1663856434,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279708,
+        "num": 238052,
+        "word": "王晓晨发长文告别亲爱的生命",
+        "onboard_time": 1663855353,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240890,
+        "num": 238009,
+        "word": "张雨绮回应昆仑神宫开分",
+        "onboard_time": 1663851750,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237331,
+        "num": 237331,
+        "word": "AirPods Pro 2评测",
+        "onboard_time": 1663856370,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 233004,
+        "num": 233004,
+        "word": "秦皇岛巨型漫画云",
+        "onboard_time": 1663856370,
+        "rank": 24,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 217674,
+        "num": 217674,
+        "word": "妈妈担心白化病女儿上幼儿园被孤立",
+        "onboard_time": 1663842989,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215128,
+        "num": 215128,
+        "word": "天娱新男团官宣",
+        "onboard_time": 1663846168,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177951,
+        "num": 177951,
+        "word": "原来手机可以一键转移数据",
+        "onboard_time": 1663848329,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 165727,
+        "num": 165727,
+        "word": "研究称地球上共有2亿亿只蚂蚁",
+        "onboard_time": 1663841727,
+        "rank": 28,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 101390,
+        "num": 164090,
+        "word": "被牵牛的大叔大妈治愈了",
+        "onboard_time": 1663850727,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1123206,
+        "num": 162254,
+        "word": "张翰说英语",
+        "onboard_time": 1663851626,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207286,
+        "num": 158619,
+        "word": "黄明昊嗑棣欣引力reaction",
+        "onboard_time": 1663846831,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201042,
+        "num": 155978,
+        "word": "潘玮柏好像男版袁湘琴",
+        "onboard_time": 1663847310,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196601,
+        "num": 153788,
+        "word": "龚俊狐妖小红娘水墨蓝衫造型",
+        "onboard_time": 1663851568,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151314,
+        "num": 151314,
+        "word": "那种一直不谈恋爱的最会玩",
+        "onboard_time": 1663822657,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138352,
+        "num": 138352,
+        "word": "德国称已准备好成为安理会常任理事国",
+        "onboard_time": 1663856611,
+        "rank": 35,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 128057,
+        "num": 128057,
+        "word": "墨迹天气",
+        "onboard_time": 1663839326,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 116304,
+        "num": 116304,
+        "word": "韩国女篮踢人",
+        "onboard_time": 1663844851,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100251,
+        "num": 100251,
+        "word": "特朗普称FBI拿走了他的遗嘱",
+        "onboard_time": 1663838007,
+        "rank": 38,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 91767,
+        "num": 91767,
+        "word": "北京大风",
+        "onboard_time": 1663846531,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169287,
+        "num": 91589,
+        "word": "狐妖小红娘官宣陈都灵月啼暇",
+        "onboard_time": 1663848508,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168742,
+        "num": 91116,
+        "word": "电视剧底线",
+        "onboard_time": 1663856370,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 89648,
+        "num": 89648,
+        "word": "大叔托管式养600头牛年入60万",
+        "onboard_time": 1663846531,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77825,
+        "num": 77825,
+        "word": "当酒店前台这么精彩的吗",
+        "onboard_time": 1663836926,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 72953,
+        "num": 72953,
+        "word": "理想L8即将上市",
+        "onboard_time": 1663844070,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 71763,
+        "num": 71763,
+        "word": "邱勇任上交所党委书记",
+        "onboard_time": 1663845450,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71034,
+        "num": 71034,
+        "word": "中国女篮领先63分大胜韩国",
+        "onboard_time": 1663838907,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70644,
+        "num": 70644,
+        "word": "DR钻戒成本4000卖1.5万",
+        "onboard_time": 1663824989,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69949,
+        "num": 69949,
+        "word": "别错过这杯新品奶茶",
+        "onboard_time": 1663847969,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 62033,
+        "num": 62033,
+        "word": "男生约流浪猫吃烤串猫咪如约而至",
+        "onboard_time": 1663839866,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#我们的时代我们的城#"
+    }
+  }
+}

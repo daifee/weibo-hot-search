@@ -1,6 +1,6 @@
 {
   "startTime": 1663778231376,
-  "endTime": 1663855469244,
+  "endTime": 1663857032736,
   "band_list": [
     {
       "raw_hot": 3165982,
@@ -113,6 +113,14 @@
       "onboard_time": 1663822657,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1500797,
+      "num": 824200,
+      "word": "云南镇雄县集中隔离场所开始实行收费管理",
+      "onboard_time": 1663854628,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1344019,
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 860621,
-      "num": 643508,
+      "num": 702962,
       "word": "父母忘接孩子男孩通宵徒步回家",
       "onboard_time": 1663849050,
       "rank": 14,
@@ -483,20 +491,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 559059,
+      "num": 559059,
+      "word": "金智秀获韩流电视剧女子演技奖",
+      "onboard_time": 1663854570,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 552448,
       "num": 552448,
       "word": "新疆多地拍到不明发光体",
       "onboard_time": 1663841127,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 542263,
-      "num": 542263,
-      "word": "金智秀获韩流电视剧女子演技奖",
-      "onboard_time": 1663854570,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 540883,
@@ -659,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 407938,
+      "num": 407938,
+      "word": "马伊琍说哭与年龄和性别无关",
+      "onboard_time": 1663856730,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 405317,
       "num": 340395,
       "word": "海底捞削减4个执董席位",
@@ -680,14 +696,6 @@
       "word": "男生约流浪猫吃烤串猫咪如约而至",
       "onboard_time": 1663839866,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 397678,
-      "num": 397678,
-      "word": "云南镇雄县集中隔离场所开始实行收费管理",
-      "onboard_time": 1663854628,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -723,6 +731,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 382340,
+      "num": 382340,
+      "word": "哪本小说让你看完后疯狂找代餐",
+      "onboard_time": 1663846770,
+      "rank": 15,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 363360,
+      "num": 363360,
+      "word": "95后在殡仪馆工作是什么体验",
+      "onboard_time": 1663853369,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 361069,
       "num": 361069,
       "word": "日式快餐为什么不火了",
@@ -737,14 +761,6 @@
       "onboard_time": 1663837464,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 359710,
-      "num": 359710,
-      "word": "哪本小说让你看完后疯狂找代餐",
-      "onboard_time": 1663846770,
-      "rank": 15,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 357060,
@@ -859,12 +875,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 312070,
-      "num": 312070,
+      "raw_hot": 316757,
+      "num": 316757,
       "word": "北京大风有树被吹倒",
       "onboard_time": 1663852108,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310058,
+      "num": 310058,
+      "word": "虞书欣小森林在逃绿色小奶龙",
+      "onboard_time": 1663856192,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 309719,
@@ -979,12 +1003,12 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 287731,
-      "num": 219701,
-      "word": "95后在殡仪馆工作是什么体验",
-      "onboard_time": 1663853369,
-      "rank": 22,
-      "category": "影视"
+      "raw_hot": 282811,
+      "num": 238372,
+      "word": "金廷祐MCD舞台直拍",
+      "onboard_time": 1663856434,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 280825,
@@ -992,6 +1016,14 @@
       "word": "任嘉伦李沁请君3000年宿命文学",
       "onboard_time": 1663823252,
       "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 279708,
+      "num": 238052,
+      "word": "王晓晨发长文告别亲爱的生命",
+      "onboard_time": 1663855353,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -1025,6 +1057,14 @@
       "onboard_time": 1663820130,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 268940,
+      "num": 268940,
+      "word": "社恐猫咪躲厕所假扮马桶刷",
+      "onboard_time": 1663853909,
+      "rank": 28,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 267228,
@@ -1075,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 258500,
+      "num": 258500,
+      "word": "北京大风网友吐槽头发保不住",
+      "onboard_time": 1663854209,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257126,
       "num": 257126,
       "word": "Kid淘汰",
@@ -1123,6 +1171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 237331,
+      "num": 237331,
+      "word": "AirPods Pro 2评测",
+      "onboard_time": 1663856370,
+      "rank": 23,
+      "category": "科技"
+    },
+    {
       "raw_hot": 237040,
       "num": 237040,
       "word": "任嘉伦说有时无期请君共赏",
@@ -1153,6 +1209,14 @@
       "onboard_time": 1663814248,
       "rank": 28,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 233004,
+      "num": 233004,
+      "word": "秦皇岛巨型漫画云",
+      "onboard_time": 1663856370,
+      "rank": 24,
+      "category": "自然"
     },
     {
       "raw_hot": 229556,
@@ -1315,14 +1379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 202591,
-      "num": 202591,
-      "word": "社恐猫咪躲厕所假扮马桶刷",
-      "onboard_time": 1663853909,
-      "rank": 28,
-      "category": "幽默,社会新闻"
-    },
-    {
       "raw_hot": 202285,
       "num": 202285,
       "word": "当代年轻人被理财拿捏了",
@@ -1372,7 +1428,7 @@
     },
     {
       "raw_hot": 197923,
-      "num": 136475,
+      "num": 153788,
       "word": "龚俊狐妖小红娘水墨蓝衫造型",
       "onboard_time": 1663851568,
       "rank": 32,
@@ -1499,20 +1555,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 172807,
-      "num": 172807,
-      "word": "北京大风网友吐槽头发保不住",
-      "onboard_time": 1663854209,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169186,
       "num": 169186,
       "word": "大学可以有多浪漫",
       "onboard_time": 1663818810,
       "rank": 41,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 168742,
+      "num": 91116,
+      "word": "电视剧底线",
+      "onboard_time": 1663856370,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 164648,
@@ -1691,20 +1747,20 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 138352,
+      "num": 138352,
+      "word": "德国称已准备好成为安理会常任理事国",
+      "onboard_time": 1663856611,
+      "rank": 35,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 138315,
       "num": 138315,
       "word": "爸爸带孩子跑步会有什么变化",
       "onboard_time": 1663827510,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 137359,
-      "num": 88337,
-      "word": "王晓晨发长文告别亲爱的生命",
-      "onboard_time": 1663855353,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 136866,
@@ -1795,6 +1851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124241,
+      "num": 777801,
+      "word": "惊艳了整个秋天的丰收色",
+      "onboard_time": 1663849649,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 124183,
       "num": 124183,
       "word": "橘子单挑blue猪",
@@ -1809,14 +1873,6 @@
       "onboard_time": 1663821994,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 122953,
-      "num": 777801,
-      "word": "惊艳了整个秋天的丰收色",
-      "onboard_time": 1663849649,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 118428,
@@ -1836,7 +1892,7 @@
     },
     {
       "raw_hot": 115150,
-      "num": 139948,
+      "num": 164090,
       "word": "被牵牛的大叔大妈治愈了",
       "onboard_time": 1663850727,
       "rank": 39,
