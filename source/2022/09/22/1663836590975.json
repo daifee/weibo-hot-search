@@ -1,0 +1,410 @@
+{
+  "runTime": 1663836590975,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1863824,
+        "num": 1863824,
+        "word": "研究称上班摸鱼是大脑在排毒",
+        "onboard_time": 1663832848,
+        "rank": 0,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 1016334,
+        "num": 1016334,
+        "word": "DR钻戒成本4000卖1.5万",
+        "onboard_time": 1663824989,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203509,
+        "num": 701190,
+        "word": "好人遇见了好人",
+        "onboard_time": 1663812928,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 648559,
+        "num": 648559,
+        "word": "小区楼下开殡葬店居民倒垃圾抵制",
+        "onboard_time": 1663829306,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634042,
+        "num": 634042,
+        "word": "那种一直不谈恋爱的最会玩",
+        "onboard_time": 1663822657,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 588092,
+        "num": 588092,
+        "word": "任嘉伦李沁请君断更了",
+        "onboard_time": 1663828289,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 519243,
+        "num": 519243,
+        "word": "贵阳辟谣志愿者讨论性骚扰隔离女生",
+        "onboard_time": 1663833507,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417281,
+        "num": 417281,
+        "word": "广工商回应网传性侵事件",
+        "onboard_time": 1663833147,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383951,
+        "num": 383951,
+        "word": "折叠式iPhone可自行修复折痕",
+        "onboard_time": 1663826128,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 344677,
+        "num": 344677,
+        "word": "女生送闺蜜物品反被吐槽人傻钱多",
+        "onboard_time": 1663833867,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592310,
+        "num": 340726,
+        "word": "夏天因剧火起来的4个男人",
+        "onboard_time": 1663834049,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 564214,
+        "num": 332602,
+        "word": "祝绪丹狐妖小红娘御妖国公主造型路透",
+        "onboard_time": 1663833147,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 496687,
+        "num": 327828,
+        "word": "捡到校园卡却被对方以为要追她",
+        "onboard_time": 1663806088,
+        "rank": 12,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 367074,
+        "num": 319836,
+        "word": "警方通报某艺考机构杜某某已被刑拘",
+        "onboard_time": 1663822894,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 25078,
+        "num": 310078,
+        "word": "武汉信义爷爷寻找南京好心人",
+        "onboard_time": 1663833688,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309618,
+        "num": 309618,
+        "word": "狐妖小红娘月红篇官宣全阵容",
+        "onboard_time": 1663814786,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 305645,
+        "num": 305645,
+        "word": "于正说可以试刘浩存",
+        "onboard_time": 1663820551,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300372,
+        "num": 300372,
+        "word": "宝妈给儿子穿粉色卫衣被大妈指责",
+        "onboard_time": 1663823430,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295362,
+        "num": 295362,
+        "word": "医生收下2千红包转手充进患者账户",
+        "onboard_time": 1663835726,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283038,
+        "num": 283038,
+        "word": "海底捞削减4个执董席位",
+        "onboard_time": 1663830088,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263098,
+        "num": 263098,
+        "word": "DR钻戒商业版图",
+        "onboard_time": 1663835966,
+        "rank": 20,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 256802,
+        "num": 256802,
+        "word": "虞书欣把张彬彬采紧张了",
+        "onboard_time": 1663835906,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 254017,
+        "num": 254017,
+        "word": "原神",
+        "onboard_time": 1663827567,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 244570,
+        "num": 244570,
+        "word": "甘宇失联17天中有9天淋雨致感染",
+        "onboard_time": 1663815807,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242867,
+        "num": 242867,
+        "word": "中国女篮vs韩国女篮",
+        "onboard_time": 1663833626,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242657,
+        "num": 242657,
+        "word": "蔡文静底线人设",
+        "onboard_time": 1663835786,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231078,
+        "num": 231078,
+        "word": "你经常喝粥吗",
+        "onboard_time": 1663823492,
+        "rank": 26,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 228612,
+        "num": 228612,
+        "word": "网友吐槽海底捞小料涨到11元",
+        "onboard_time": 1663825528,
+        "rank": 27,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 227707,
+        "num": 227707,
+        "word": "王鹤棣在看密逃",
+        "onboard_time": 1663831889,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202285,
+        "num": 202285,
+        "word": "当代年轻人被理财拿捏了",
+        "onboard_time": 1663832128,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196759,
+        "num": 196759,
+        "word": "随手丢块肥猪肉哪知价值2万元",
+        "onboard_time": 1663818749,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190952,
+        "num": 190952,
+        "word": "小狗也有喜欢的玩具",
+        "onboard_time": 1663833928,
+        "rank": 31,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 185710,
+        "num": 185710,
+        "word": "梅四阿姨",
+        "onboard_time": 1663812566,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185678,
+        "num": 185678,
+        "word": "女子剖腹产后回家被用箩筐抬上5楼",
+        "onboard_time": 1663816168,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159007,
+        "num": 159007,
+        "word": "刘诗诗演我下班",
+        "onboard_time": 1663827567,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154683,
+        "num": 154683,
+        "word": "滴滴崩了",
+        "onboard_time": 1663833266,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 151427,
+        "num": 151427,
+        "word": "米卡等比例长大",
+        "onboard_time": 1663828707,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149133,
+        "num": 149133,
+        "word": "老款iPhone升级iOS16续航崩了",
+        "onboard_time": 1663816707,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 147689,
+        "num": 147689,
+        "word": "谁不爱这样的大小姐呢",
+        "onboard_time": 1663826426,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137354,
+        "num": 137354,
+        "word": "S12定妆照",
+        "onboard_time": 1663828289,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142149,
+        "num": 136960,
+        "word": "超23%iPhone用户升级iOS16",
+        "onboard_time": 1663819892,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 133298,
+        "num": 133298,
+        "word": "流浪猫会羡慕家猫吗",
+        "onboard_time": 1663829607,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132580,
+        "num": 132580,
+        "word": "手腕从未如此轻松过",
+        "onboard_time": 1663831049,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125487,
+        "num": 125487,
+        "word": "北京朝阳新增2名感染者",
+        "onboard_time": 1663826370,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122338,
+        "num": 122338,
+        "word": "陈建斌陈晓尘封十三载开机",
+        "onboard_time": 1663827269,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 117478,
+        "num": 117478,
+        "word": "傅政华死缓",
+        "onboard_time": 1663821394,
+        "rank": 45,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 116025,
+        "num": 116025,
+        "word": "阿那亚大秀",
+        "onboard_time": 1663836449,
+        "rank": 46,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 112866,
+        "num": 112866,
+        "word": "Mate50系列有望冲击千万销量",
+        "onboard_time": 1663823131,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 105990,
+        "num": 105990,
+        "word": "这猫怎么睡得四仰八叉的",
+        "onboard_time": 1663821515,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105623,
+        "num": 105623,
+        "word": "甘宇多处骨折并伴有严重感染",
+        "onboard_time": 1663807649,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国农民丰收节#"
+    }
+  }
+}
