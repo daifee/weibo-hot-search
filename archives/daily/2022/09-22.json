@@ -1,6 +1,6 @@
 {
   "startTime": 1663778231376,
-  "endTime": 1663846694533,
+  "endTime": 1663850985889,
   "band_list": [
     {
       "raw_hot": 3165982,
@@ -99,6 +99,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1654497,
+      "num": 1654497,
+      "word": "韩总统私下吐槽美国会议员为崽子",
+      "onboard_time": 1663847189,
+      "rank": 0,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1568472,
       "num": 808519,
       "word": "那种一直不谈恋爱的最会玩",
@@ -169,6 +177,14 @@
       "onboard_time": 1663768353,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 993017,
+      "num": 777631,
+      "word": "今天芭比粉谁驾驭住了",
+      "onboard_time": 1663846589,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 966451,
@@ -283,6 +299,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 788860,
+      "num": 788860,
+      "word": "21岁单亲妈妈回应不要亡夫赔偿金",
+      "onboard_time": 1663844430,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 703347,
+      "num": 703347,
+      "word": "富士康拆除iPhone部分产线",
+      "onboard_time": 1663845810,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
       "raw_hot": 700566,
       "num": 700566,
       "word": "任嘉伦李沁请君断更了",
@@ -305,6 +337,22 @@
       "onboard_time": 1663824628,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 668016,
+      "num": 346204,
+      "word": "天娱新男团官宣",
+      "onboard_time": 1663846168,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 651384,
+      "num": 651384,
+      "word": "为啥年轻人都不买钻石了",
+      "onboard_time": 1663844252,
+      "rank": 21,
+      "category": "其它"
     },
     {
       "raw_hot": 643197,
@@ -435,12 +483,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 539217,
-      "num": 539217,
-      "word": "今天芭比粉谁驾驭住了",
-      "onboard_time": 1663846589,
-      "rank": 3,
-      "category": "作品衍生"
+      "raw_hot": 531450,
+      "num": 531450,
+      "word": "北京大风",
+      "onboard_time": 1663846531,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 526857,
@@ -539,12 +587,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 450743,
-      "num": 450743,
-      "word": "21岁单亲妈妈回应不要亡夫赔偿金",
-      "onboard_time": 1663844430,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 448044,
+      "num": 345496,
+      "word": "黄明昊嗑棣欣引力reaction",
+      "onboard_time": 1663846831,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 427413,
@@ -595,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 397584,
+      "num": 345022,
+      "word": "潘玮柏好像男版袁湘琴",
+      "onboard_time": 1663847310,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 392243,
       "num": 392243,
       "word": "龚俊杨幂新剧宿命感",
@@ -617,14 +673,6 @@
       "onboard_time": 1663833867,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 366648,
-      "num": 366648,
-      "word": "为啥年轻人都不买钻石了",
-      "onboard_time": 1663844252,
-      "rank": 21,
-      "category": "其它"
     },
     {
       "raw_hot": 361069,
@@ -651,12 +699,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 346326,
+      "num": 346326,
+      "word": "白鹿新歌你有没有看见一只小鹿",
+      "onboard_time": 1663849766,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 345495,
       "num": 345495,
       "word": "外交部回应拜登称美不寻求冲突冷战",
       "onboard_time": 1663839748,
       "rank": 49,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 344969,
+      "num": 344969,
+      "word": "父母忘接孩子男孩通宵徒步回家",
+      "onboard_time": 1663849050,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 336701,
+      "num": 336701,
+      "word": "哪本小说让你看完后疯狂找代餐",
+      "onboard_time": 1663846770,
+      "rank": 15,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 334311,
@@ -859,14 +931,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 279354,
-      "num": 279354,
-      "word": "北京大风",
-      "onboard_time": 1663846531,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 272895,
       "num": 272895,
       "word": "中国女篮vs韩国女篮",
@@ -931,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259564,
+      "num": 214977,
+      "word": "一年一度喜剧大赛2预告片",
+      "onboard_time": 1663849229,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 257126,
       "num": 257126,
       "word": "Kid淘汰",
@@ -961,14 +1033,6 @@
       "onboard_time": 1663772615,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 245359,
-      "num": 245359,
-      "word": "天娱新男团官宣",
-      "onboard_time": 1663846168,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 242657,
@@ -1099,6 +1163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 218597,
+      "num": 218597,
+      "word": "邱勇任上交所党委书记",
+      "onboard_time": 1663845450,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215784,
       "num": 215784,
       "word": "陈建斌陈晓尘封十三载开机",
@@ -1153,6 +1225,14 @@
       "onboard_time": 1663840168,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 207240,
+      "num": 207240,
+      "word": "原来手机可以一键转移数据",
+      "onboard_time": 1663848329,
+      "rank": 22,
+      "category": "科技"
     },
     {
       "raw_hot": 204861,
@@ -1225,14 +1305,6 @@
       "onboard_time": 1663803025,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 197422,
-      "num": 197422,
-      "word": "富士康拆除iPhone部分产线",
-      "onboard_time": 1663845810,
-      "rank": 26,
-      "category": "科技"
     },
     {
       "raw_hot": 195085,
@@ -1499,6 +1571,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 138496,
+      "num": 138496,
+      "word": "厦航购买40架空客A320neo",
+      "onboard_time": 1663850308,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138428,
       "num": 138428,
       "word": "专硕学制延长至3年是否必要",
@@ -1513,6 +1593,14 @@
       "onboard_time": 1663827510,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138042,
+      "num": 138042,
+      "word": "狐妖小红娘官宣陈都灵月啼暇",
+      "onboard_time": 1663848508,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 136866,
@@ -1571,14 +1659,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 131136,
-      "num": 131136,
-      "word": "邱勇任上交所党委书记",
-      "onboard_time": 1663845450,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 129432,
       "num": 129432,
       "word": "你期待在国庆档看到哪部电影",
@@ -1601,6 +1681,14 @@
       "onboard_time": 1663773274,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126866,
+      "num": 126866,
+      "word": "别错过这杯新品奶茶",
+      "onboard_time": 1663847969,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 123496,
@@ -1657,6 +1745,22 @@
       "onboard_time": 1663764036,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 109059,
+      "num": 109059,
+      "word": "被牵牛的大叔大妈治愈了",
+      "onboard_time": 1663850727,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104476,
+      "num": 104476,
+      "word": "橘子单挑blue猪",
+      "onboard_time": 1663848809,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 103451,
@@ -1771,6 +1875,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 81381,
+      "num": 81381,
+      "word": "NCT127新曲初舞台",
+      "onboard_time": 1663849169,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 81183,
       "num": 81183,
       "word": "美联储今年累计加息300个基点",
@@ -1779,12 +1891,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 80348,
+      "num": 80348,
+      "word": "费德勒谢幕战搭档纳达尔",
+      "onboard_time": 1663848927,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 74166,
       "num": 74166,
       "word": "王立科案一审宣判",
       "onboard_time": 1663844309,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73080,
+      "num": 73080,
+      "word": "核桃都没它长得复杂",
+      "onboard_time": 1663849587,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 72866,
@@ -1809,6 +1937,14 @@
       "onboard_time": 1663760309,
       "rank": 45,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 67566,
+      "num": 777801,
+      "word": "惊艳了整个秋天的丰收色",
+      "onboard_time": 1663849649,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 62844,
