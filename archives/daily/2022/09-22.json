@@ -1,6 +1,6 @@
 {
   "startTime": 1663778231376,
-  "endTime": 1663830609012,
+  "endTime": 1663832279671,
   "band_list": [
     {
       "raw_hot": 3165982,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 700566,
+      "num": 700566,
+      "word": "任嘉伦李沁请君断更了",
+      "onboard_time": 1663828289,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 690814,
       "num": 261360,
       "word": "北电回应赵韦弦被刑拘",
@@ -251,14 +259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 637713,
-      "num": 637713,
-      "word": "任嘉伦李沁请君断更了",
-      "onboard_time": 1663828289,
-      "rank": 4,
-      "category": "影视"
-    },
-    {
       "raw_hot": 621603,
       "num": 621603,
       "word": "老人误把窗户当门迈出悬挂阳台",
@@ -283,20 +283,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 597628,
+      "num": 597628,
+      "word": "折叠式iPhone可自行修复折痕",
+      "onboard_time": 1663826128,
+      "rank": 36,
+      "category": "科技"
+    },
+    {
       "raw_hot": 589784,
       "num": 589784,
       "word": "海南槟榔协会发布槟榔产业发展报告",
       "onboard_time": 1663818387,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 586399,
-      "num": 586399,
-      "word": "折叠式iPhone可自行修复折痕",
-      "onboard_time": 1663826128,
-      "rank": 36,
-      "category": "科技"
     },
     {
       "raw_hot": 567423,
@@ -353,6 +353,14 @@
       "onboard_time": 1663823492,
       "rank": 9,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 499583,
+      "num": 499583,
+      "word": "小区楼下开殡葬店居民倒垃圾抵制",
+      "onboard_time": 1663829306,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 496516,
@@ -491,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320239,
+      "num": 320239,
+      "word": "谁不爱这样的大小姐呢",
+      "onboard_time": 1663826426,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 318345,
       "num": 318345,
       "word": "kid发文回应淘汰",
@@ -507,6 +523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 316534,
+      "num": 316534,
+      "word": "原神",
+      "onboard_time": 1663827567,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 307971,
       "num": 307971,
       "word": "武汉新增2例无症状感染者",
@@ -521,14 +545,6 @@
       "onboard_time": 1663821515,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 305913,
-      "num": 305913,
-      "word": "谁不爱这样的大小姐呢",
-      "onboard_time": 1663826426,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 303326,
@@ -571,19 +587,19 @@
       "category": "情感,时尚"
     },
     {
+      "raw_hot": 292777,
+      "num": 292777,
+      "word": "米卡等比例长大",
+      "onboard_time": 1663828707,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 291350,
       "num": 291350,
       "word": "S12主题曲封面Meiko",
       "onboard_time": 1663819652,
       "rank": 25,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 288470,
-      "num": 288470,
-      "word": "原神",
-      "onboard_time": 1663827567,
-      "rank": 21,
       "category": "游戏"
     },
     {
@@ -609,6 +625,14 @@
       "onboard_time": 1663823252,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 272106,
+      "num": 272106,
+      "word": "王鹤棣在看密逃",
+      "onboard_time": 1663831889,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 269317,
@@ -675,14 +699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 240168,
-      "num": 240168,
-      "word": "米卡等比例长大",
-      "onboard_time": 1663828707,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 237040,
       "num": 237040,
       "word": "任嘉伦说有时无期请君共赏",
@@ -699,20 +715,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 235583,
+      "num": 857502,
+      "word": "好人遇见了好人",
+      "onboard_time": 1663812928,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234833,
+      "num": 234833,
+      "word": "海底捞削减4个执董席位",
+      "onboard_time": 1663830088,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234787,
       "num": 234787,
       "word": "狐妖小红娘",
       "onboard_time": 1663814786,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 234477,
-      "num": 857502,
-      "word": "好人遇见了好人",
-      "onboard_time": 1663812928,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 233818,
@@ -745,6 +769,14 @@
       "onboard_time": 1663774291,
       "rank": 19,
       "category": "科技"
+    },
+    {
+      "raw_hot": 221205,
+      "num": 221205,
+      "word": "S12定妆照",
+      "onboard_time": 1663828289,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 220808,
@@ -843,6 +875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 196526,
+      "num": 196526,
+      "word": "流浪猫会羡慕家猫吗",
+      "onboard_time": 1663829607,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 195085,
       "num": 195085,
       "word": "王者新英雄海月",
@@ -867,8 +907,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 189536,
-      "num": 189536,
+      "raw_hot": 190125,
+      "num": 190125,
       "word": "陈建斌陈晓尘封十三载开机",
       "onboard_time": 1663827269,
       "rank": 31,
@@ -905,22 +945,6 @@
       "onboard_time": 1663815326,
       "rank": 30,
       "category": "国外要闻,社会新闻"
-    },
-    {
-      "raw_hot": 179351,
-      "num": 179351,
-      "word": "S12定妆照",
-      "onboard_time": 1663828289,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 179251,
-      "num": 179251,
-      "word": "小区楼下开殡葬店居民倒垃圾抵制",
-      "onboard_time": 1663829306,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 174275,
@@ -987,14 +1011,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 156508,
-      "num": 156508,
-      "word": "海底捞削减4个执董席位",
-      "onboard_time": 1663830088,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 152750,
       "num": 152750,
       "word": "黄明昊以为自己藏得很好",
@@ -1016,6 +1032,14 @@
       "word": "太阳老板将出售球队",
       "onboard_time": 1663807588,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 148415,
+      "num": 148415,
+      "word": "女篮世界杯",
+      "onboard_time": 1663832128,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -1099,14 +1123,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 132525,
-      "num": 132525,
-      "word": "流浪猫会羡慕家猫吗",
-      "onboard_time": 1663829607,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 131843,
       "num": 131843,
       "word": "被烂梗笑到是我的命运",
@@ -1131,6 +1147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124605,
+      "num": 124605,
+      "word": "手腕从未如此轻松过",
+      "onboard_time": 1663831049,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123496,
       "num": 123496,
       "word": "脱口秀比红楼梦幸运",
@@ -1145,6 +1169,14 @@
       "onboard_time": 1663811246,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 116522,
+      "num": 116522,
+      "word": "海王都是语言艺术家",
+      "onboard_time": 1663831227,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 113935,
@@ -1177,6 +1209,14 @@
       "onboard_time": 1663764036,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 108063,
+      "num": 108063,
+      "word": "当代年轻人被理财拿捏了",
+      "onboard_time": 1663832128,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 101401,
@@ -1275,6 +1315,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 68995,
+      "num": 138388,
+      "word": "华为Mate50十秒售罄",
+      "onboard_time": 1663830024,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 68783,
       "num": 68783,
       "word": "今晚调油价",
@@ -1337,14 +1385,6 @@
       "onboard_time": 1663826426,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26413,
-      "num": 138388,
-      "word": "华为Mate50十秒售罄",
-      "onboard_time": 1663830024,
-      "rank": 39,
-      "category": "科技"
     },
     {
       "raw_hot": 25643,

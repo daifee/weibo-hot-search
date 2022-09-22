@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1663830609012,
+  "endTime": 1663832279671,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -11035,6 +11035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 700566,
+      "num": 700566,
+      "word": "任嘉伦李沁请君断更了",
+      "onboard_time": 1663828289,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 700533,
       "num": 700533,
       "word": "杜华情商",
@@ -12067,14 +12075,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 637713,
-      "num": 637713,
-      "word": "任嘉伦李沁请君断更了",
-      "onboard_time": 1663828289,
-      "rank": 4,
-      "category": "影视"
-    },
-    {
       "raw_hot": 637646,
       "num": 637646,
       "word": "孙女地震时公主抱瘫痪奶奶逃生",
@@ -12851,6 +12851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 597628,
+      "num": 597628,
+      "word": "折叠式iPhone可自行修复折痕",
+      "onboard_time": 1663826128,
+      "rank": 36,
+      "category": "科技"
+    },
+    {
       "raw_hot": 596934,
       "num": 596934,
       "word": "北京朝阳通报1例初筛阳性",
@@ -13073,14 +13081,6 @@
       "onboard_time": 1662898383,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 586399,
-      "num": 586399,
-      "word": "折叠式iPhone可自行修复折痕",
-      "onboard_time": 1663826128,
-      "rank": 36,
-      "category": "科技"
     },
     {
       "raw_hot": 584429,
@@ -15249,6 +15249,14 @@
       "onboard_time": 1662012929,
       "rank": 38,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 499583,
+      "num": 499583,
+      "word": "小区楼下开殡葬店居民倒垃圾抵制",
+      "onboard_time": 1663829306,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 499502,
@@ -23179,6 +23187,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 320239,
+      "num": 320239,
+      "word": "谁不爱这样的大小姐呢",
+      "onboard_time": 1663826426,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 320132,
       "num": 151056,
       "word": "众星为两个人的小森林打call",
@@ -23497,6 +23513,14 @@
       "onboard_time": 1662291266,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316534,
+      "num": 316534,
+      "word": "原神",
+      "onboard_time": 1662715106,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 316525,
@@ -24257,14 +24281,6 @@
       "onboard_time": 1663498531,
       "rank": 30,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 305913,
-      "num": 305913,
-      "word": "谁不爱这样的大小姐呢",
-      "onboard_time": 1663826426,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 305831,
@@ -25355,6 +25371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 292777,
+      "num": 292777,
+      "word": "米卡等比例长大",
+      "onboard_time": 1663828707,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 292686,
       "num": 292686,
       "word": "原神动画",
@@ -25729,14 +25753,6 @@
       "onboard_time": 1663658426,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 288470,
-      "num": 288470,
-      "word": "原神",
-      "onboard_time": 1662715106,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 288450,
@@ -27145,6 +27161,14 @@
       "onboard_time": 1662819585,
       "rank": 17,
       "category": "自然"
+    },
+    {
+      "raw_hot": 272106,
+      "num": 272106,
+      "word": "王鹤棣在看密逃",
+      "onboard_time": 1663831889,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 272053,
@@ -29915,14 +29939,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 240168,
-      "num": 240168,
-      "word": "米卡等比例长大",
-      "onboard_time": 1663828707,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 240126,
       "num": 240126,
       "word": "9月2日北京新增2例本土感染者",
@@ -30283,6 +30299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 235583,
+      "num": 857502,
+      "word": "好人遇见了好人",
+      "onboard_time": 1663812928,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235579,
       "num": 235579,
       "word": "1岁罕见病男童扛过移植又遇严重排异",
@@ -30395,20 +30419,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234833,
+      "num": 234833,
+      "word": "海底捞削减4个执董席位",
+      "onboard_time": 1663830088,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234483,
       "num": 164291,
       "word": "二十不惑2",
       "onboard_time": 1662387392,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 234477,
-      "num": 857502,
-      "word": "好人遇见了好人",
-      "onboard_time": 1663812928,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 234451,
@@ -31536,6 +31560,14 @@
       "word": "闪耀暖暖",
       "onboard_time": 1661999245,
       "rank": 32,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 221205,
+      "num": 221205,
+      "word": "S12定妆照",
+      "onboard_time": 1663828289,
+      "rank": 30,
       "category": "游戏"
     },
     {
@@ -33659,6 +33691,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 196526,
+      "num": 196526,
+      "word": "流浪猫会羡慕家猫吗",
+      "onboard_time": 1663829607,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 196493,
       "num": 196493,
       "word": "官方辟谣济宁隔离人员在菏泽住羊圈",
@@ -34211,6 +34251,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 190125,
+      "num": 190125,
+      "word": "陈建斌陈晓尘封十三载开机",
+      "onboard_time": 1663827269,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190087,
       "num": 132989,
       "word": "小威晋级美网女单32强",
@@ -34273,14 +34321,6 @@
       "onboard_time": 1662000927,
       "rank": 37,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 189536,
-      "num": 189536,
-      "word": "陈建斌陈晓尘封十三载开机",
-      "onboard_time": 1663827269,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 189457,
@@ -35339,28 +35379,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 179351,
-      "num": 179351,
-      "word": "S12定妆照",
-      "onboard_time": 1663828289,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 179316,
       "num": 179316,
       "word": "杨旭绝杀",
       "onboard_time": 1663675292,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 179251,
-      "num": 179251,
-      "word": "小区楼下开殡葬店居民倒垃圾抵制",
-      "onboard_time": 1663829306,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 179191,
@@ -37251,14 +37275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 156508,
-      "num": 156508,
-      "word": "海底捞削减4个执董席位",
-      "onboard_time": 1663830088,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156288,
       "num": 156288,
       "word": "昆明乘坐地铁公交等须持48小时核酸报告",
@@ -38040,6 +38056,14 @@
       "word": "吉诺比利正式进入名人堂",
       "onboard_time": 1662862953,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 148415,
+      "num": 148415,
+      "word": "女篮世界杯",
+      "onboard_time": 1663832128,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -39371,14 +39395,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 132525,
-      "num": 132525,
-      "word": "流浪猫会羡慕家猫吗",
-      "onboard_time": 1663829607,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 132287,
       "num": 132287,
       "word": "熊猫摔下床像极了小时候的我",
@@ -40019,6 +40035,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 124605,
+      "num": 124605,
+      "word": "手腕从未如此轻松过",
+      "onboard_time": 1663831049,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124497,
       "num": 124497,
       "word": "郑州商城贵族墓葬首次发现金面罩",
@@ -40417,6 +40441,14 @@
       "onboard_time": 1663017612,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116522,
+      "num": 116522,
+      "word": "海王都是语言艺术家",
+      "onboard_time": 1663831227,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 116417,
@@ -41017,6 +41049,14 @@
       "onboard_time": 1663470388,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108063,
+      "num": 108063,
+      "word": "当代年轻人被理财拿捏了",
+      "onboard_time": 1663832128,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 108055,
@@ -42451,6 +42491,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 68995,
+      "num": 138388,
+      "word": "华为Mate50十秒售罄",
+      "onboard_time": 1663830024,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 68637,
       "num": 68637,
       "word": "古剑奇谭手游停服",
@@ -43105,14 +43153,6 @@
       "onboard_time": 1662143953,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 26413,
-      "num": 138388,
-      "word": "华为Mate50十秒售罄",
-      "onboard_time": 1663830024,
-      "rank": 39,
-      "category": "科技"
     },
     {
       "raw_hot": 26395,
