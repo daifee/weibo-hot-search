@@ -1,6 +1,6 @@
 {
   "startTime": 1663778231376,
-  "endTime": 1663843475969,
+  "endTime": 1663845643235,
   "band_list": [
     {
       "raw_hot": 3165982,
@@ -89,6 +89,14 @@
       "onboard_time": 1663821394,
       "rank": 12,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1647222,
+      "num": 1647222,
+      "word": "小偷得知失主癌症晚期改口认罪",
+      "onboard_time": 1663841428,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1568472,
@@ -235,14 +243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 846783,
-      "num": 382296,
-      "word": "小偷得知失主癌症晚期改口认罪",
-      "onboard_time": 1663841428,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 846516,
       "num": 726374,
       "word": "老款iPhone升级iOS16续航崩了",
@@ -297,6 +297,14 @@
       "onboard_time": 1663824628,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 647282,
+      "num": 647282,
+      "word": "潘粤明新剧开分8.2",
+      "onboard_time": 1663844731,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 643197,
@@ -587,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 375805,
+      "num": 375805,
+      "word": "研究称地球上共有2亿亿只蚂蚁",
+      "onboard_time": 1663841727,
+      "rank": 27,
+      "category": "其它"
+    },
+    {
       "raw_hot": 361069,
       "num": 361069,
       "word": "日式快餐为什么不火了",
@@ -803,6 +819,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 284006,
+      "num": 284006,
+      "word": "妈妈担心白化病女儿上幼儿园被孤立",
+      "onboard_time": 1663842989,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280825,
       "num": 280825,
       "word": "任嘉伦李沁请君3000年宿命文学",
@@ -881,6 +905,14 @@
       "onboard_time": 1663767633,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 257077,
+      "num": 257077,
+      "word": "21岁单亲妈妈回应不要亡夫赔偿金",
+      "onboard_time": 1663844430,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257068,
@@ -995,6 +1027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 219776,
+      "num": 219776,
+      "word": "成毅底线小嘴叭叭",
+      "onboard_time": 1663843949,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 219655,
       "num": 219655,
       "word": "2022年最后100天",
@@ -1041,6 +1081,14 @@
       "onboard_time": 1663827210,
       "rank": 26,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 212643,
+      "num": 212643,
+      "word": "为啥年轻人都不买钻石了",
+      "onboard_time": 1663844252,
+      "rank": 21,
+      "category": "其它"
     },
     {
       "raw_hot": 211002,
@@ -1195,6 +1243,14 @@
       "category": "国外要闻,社会新闻"
     },
     {
+      "raw_hot": 174882,
+      "num": 174882,
+      "word": "这才是我想看的女友视角",
+      "onboard_time": 1663843350,
+      "rank": 44,
+      "category": "情感,艺人"
+    },
+    {
       "raw_hot": 174386,
       "num": 174386,
       "word": "中国女篮加油",
@@ -1225,14 +1281,6 @@
       "onboard_time": 1663823728,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 164354,
-      "num": 164354,
-      "word": "研究称地球上共有2亿亿只蚂蚁",
-      "onboard_time": 1663841727,
-      "rank": 27,
-      "category": "其它"
     },
     {
       "raw_hot": 163217,
@@ -1419,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135941,
+      "num": 135941,
+      "word": "蜜雪冰城发布招股书",
+      "onboard_time": 1663842930,
+      "rank": 40,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 135282,
       "num": 135282,
       "word": "距离2022年结束还有100天",
@@ -1473,6 +1529,22 @@
       "onboard_time": 1663821994,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122229,
+      "num": 122229,
+      "word": "韩国女篮踢人",
+      "onboard_time": 1663844851,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 120485,
+      "num": 120485,
+      "word": "理想L8即将上市",
+      "onboard_time": 1663844070,
+      "rank": 32,
+      "category": "科技"
     },
     {
       "raw_hot": 118428,
@@ -1531,20 +1603,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 104933,
-      "num": 104933,
-      "word": "妈妈担心白化病女儿上幼儿园被孤立",
-      "onboard_time": 1663842989,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 102472,
-      "num": 102472,
-      "word": "蜜雪冰城发布招股书",
-      "onboard_time": 1663842930,
-      "rank": 40,
-      "category": "财经,社会新闻"
+      "raw_hot": 103451,
+      "num": 103451,
+      "word": "永远可以相信中国姑娘",
+      "onboard_time": 1663842450,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 101401,
@@ -1611,28 +1675,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 91353,
-      "num": 91353,
-      "word": "永远可以相信中国姑娘",
-      "onboard_time": 1663842450,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 90959,
       "num": 90959,
       "word": "元宇宙在哪最容易实现",
       "onboard_time": 1663842029,
       "rank": 45,
       "category": "科技"
-    },
-    {
-      "raw_hot": 90763,
-      "num": 90763,
-      "word": "这才是我想看的女友视角",
-      "onboard_time": 1663843350,
-      "rank": 44,
-      "category": "情感,艺人"
     },
     {
       "raw_hot": 89494,
@@ -1665,6 +1713,22 @@
       "onboard_time": 1663803683,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 74166,
+      "num": 74166,
+      "word": "王立科案一审宣判",
+      "onboard_time": 1663844309,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 72969,
+      "num": 72969,
+      "word": "邱勇任上交所党委书记",
+      "onboard_time": 1663845450,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72866,
