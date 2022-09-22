@@ -1,0 +1,410 @@
+{
+  "runTime": 1663828225888,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1867564,
+        "num": 1867564,
+        "word": "DR钻戒成本4000卖1.5万",
+        "onboard_time": 1663824989,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 811701,
+        "num": 811701,
+        "word": "狐妖小红娘月红篇官宣全阵容",
+        "onboard_time": 1663814786,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224730,
+        "num": 725649,
+        "word": "好人遇见了好人",
+        "onboard_time": 1663812928,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1299090,
+        "num": 715934,
+        "word": "那种一直不谈恋爱的最会玩",
+        "onboard_time": 1663822657,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 642231,
+        "num": 642231,
+        "word": "王鹤棣密室大逃脱撒娇",
+        "onboard_time": 1663824628,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 614027,
+        "num": 614027,
+        "word": "甘宇多处骨折并伴有严重感染",
+        "onboard_time": 1663807649,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 607400,
+        "num": 607400,
+        "word": "宝妈给儿子穿粉色卫衣被大妈指责",
+        "onboard_time": 1663823430,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508067,
+        "num": 508067,
+        "word": "你经常喝粥吗",
+        "onboard_time": 1663823492,
+        "rank": 7,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 485179,
+        "num": 485179,
+        "word": "女子剖腹产后回家被用箩筐抬上5楼",
+        "onboard_time": 1663816168,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390218,
+        "num": 390218,
+        "word": "网友吐槽海底捞小料涨到11元",
+        "onboard_time": 1663825528,
+        "rank": 9,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 1933269,
+        "num": 389572,
+        "word": "警方通报某艺考机构杜某某已被刑拘",
+        "onboard_time": 1663822894,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 931431,
+        "num": 385934,
+        "word": "捡到校园卡却被对方以为要追她",
+        "onboard_time": 1663806088,
+        "rank": 11,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 778096,
+        "num": 381704,
+        "word": "傅政华死缓",
+        "onboard_time": 1663821394,
+        "rank": 12,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 728999,
+        "num": 377924,
+        "word": "于正说可以试刘浩存",
+        "onboard_time": 1663820551,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27770,
+        "num": 375802,
+        "word": "老人为妻写阿尔茨海默病照护手记",
+        "onboard_time": 1663826426,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417416,
+        "num": 371823,
+        "word": "梅四阿姨",
+        "onboard_time": 1663812566,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 370679,
+        "num": 370679,
+        "word": "随手丢块肥猪肉哪知价值2万元",
+        "onboard_time": 1663818749,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351910,
+        "num": 351910,
+        "word": "折叠式iPhone可自行修复折痕",
+        "onboard_time": 1663826128,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 348089,
+        "num": 348089,
+        "word": "北京朝阳新增2名感染者",
+        "onboard_time": 1663826370,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283051,
+        "num": 283051,
+        "word": "谁不爱这样的大小姐呢",
+        "onboard_time": 1663826426,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 280318,
+        "num": 280751,
+        "word": "超23%iPhone用户升级iOS16",
+        "onboard_time": 1663819892,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 280544,
+        "num": 280544,
+        "word": "原神",
+        "onboard_time": 1663827567,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 275764,
+        "num": 275764,
+        "word": "1大勺1小勺到底是多少",
+        "onboard_time": 1663823908,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 242418,
+        "num": 242418,
+        "word": "刘诗诗演我下班",
+        "onboard_time": 1663827567,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 242003,
+        "num": 242003,
+        "word": "这猫怎么睡得四仰八叉的",
+        "onboard_time": 1663821515,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 237396,
+        "num": 237396,
+        "word": "老款iPhone升级iOS16续航崩了",
+        "onboard_time": 1663816707,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 213806,
+        "num": 213806,
+        "word": "王俊凯像极了过节回家见亲戚的我",
+        "onboard_time": 1663827210,
+        "rank": 26,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 207447,
+        "num": 207447,
+        "word": "女子上班时挪车被罚穿高跟鞋蛙跳",
+        "onboard_time": 1663816048,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205645,
+        "num": 205645,
+        "word": "女子被骗40万元民警追回100万元",
+        "onboard_time": 1663810707,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203227,
+        "num": 203227,
+        "word": "离岸人民币兑美元跌破7.10",
+        "onboard_time": 1663817427,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 197454,
+        "num": 197454,
+        "word": "Mate50系列有望冲击千万销量",
+        "onboard_time": 1663823131,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 189536,
+        "num": 189536,
+        "word": "陈建斌陈晓尘封十三载开机",
+        "onboard_time": 1663827269,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187343,
+        "num": 187343,
+        "word": "海南槟榔协会发布槟榔产业发展报告",
+        "onboard_time": 1663818387,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182098,
+        "num": 182098,
+        "word": "S12主题曲封面Meiko",
+        "onboard_time": 1663819652,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 179989,
+        "num": 179989,
+        "word": "华为紧急增产Mate50系列",
+        "onboard_time": 1663818928,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 171907,
+        "num": 171907,
+        "word": "李现任敏群星闪耀时开通官微",
+        "onboard_time": 1663824510,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168801,
+        "num": 168801,
+        "word": "如何区分伴侣的占有欲和PUA",
+        "onboard_time": 1663820130,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160212,
+        "num": 160212,
+        "word": "甘宇失联17天中有9天淋雨致感染",
+        "onboard_time": 1663815807,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149599,
+        "num": 149599,
+        "word": "凯尔特人主帅可能被长期停赛",
+        "onboard_time": 1663823728,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147157,
+        "num": 147157,
+        "word": "谷爱凌参加斯坦福开学典礼",
+        "onboard_time": 1663815028,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146978,
+        "num": 146978,
+        "word": "工作第一天就犯行业大忌是什么体验",
+        "onboard_time": 1663824451,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141889,
+        "num": 141889,
+        "word": "分手就该拉黑删除吗",
+        "onboard_time": 1663808549,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138315,
+        "num": 138315,
+        "word": "爸爸带孩子跑步会有什么变化",
+        "onboard_time": 1663827510,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132712,
+        "num": 132712,
+        "word": "金铲铲神龙尊者卡莎",
+        "onboard_time": 1663827148,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128197,
+        "num": 128197,
+        "word": "给43个未成年文身老板被判向社会道歉",
+        "onboard_time": 1663806691,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123703,
+        "num": 123703,
+        "word": "男子被邀进店避雨趁机搂抱女店员",
+        "onboard_time": 1663811967,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119449,
+        "num": 119449,
+        "word": "北电赵韦弦被刑拘",
+        "onboard_time": 1663776088,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118652,
+        "num": 118652,
+        "word": "郭晓婷说无尽酒壶给我满上",
+        "onboard_time": 1663820973,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114286,
+        "num": 114286,
+        "word": "BLACKPINK新专初动销量破两百万",
+        "onboard_time": 1663818692,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 113893,
+        "num": 113893,
+        "word": "求求演员别唱歌了",
+        "onboard_time": 1663806450,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#我们的时代我们的城#"
+    }
+  }
+}

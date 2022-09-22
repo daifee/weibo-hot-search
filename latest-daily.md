@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/22 00:37:11 ~ 2022/09/22 14:06:12
+本榜单时间：2022/09/22 00:37:11 ~ 2022/09/22 14:30:25
 </p>
 </blockquote>
 <p>
@@ -40,7 +40,13 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%9F%90%E8%89%BA%E8%80%83%E6%9C%BA%E6%9E%84%E6%9D%9C%E6%9F%90%E6%9F%90%E5%B7%B2%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
-警方通报某艺考机构杜某某已被刑拘（热度：1806213）
+警方通报某艺考机构杜某某已被刑拘（热度：1933269）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23DR%E9%92%BB%E6%88%92%E6%88%90%E6%9C%AC4000%E5%8D%961.5%E4%B8%87%23" target="weibo">
+DR钻戒成本4000卖1.5万（热度：1867564）
 </a>
 </li>
 
@@ -153,12 +159,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23DR%E9%92%BB%E6%88%92%E6%88%90%E6%9C%AC4000%E5%8D%961.5%E4%B8%87%23" target="weibo">
-DR钻戒成本4000卖1.5万（热度：803871）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E9%82%80%E8%BF%9B%E5%BA%97%E9%81%BF%E9%9B%A8%E8%B6%81%E6%9C%BA%E6%90%82%E6%8A%B1%E5%A5%B3%E5%BA%97%E5%91%98%23" target="weibo">
 男子被邀进店避雨趁机搂抱女店员（热度：794166）
 </a>
@@ -197,6 +197,12 @@ DR钻戒成本4000卖1.5万（热度：803871）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E8%AF%AF%E6%8A%8A%E7%AA%97%E6%88%B7%E5%BD%93%E9%97%A8%E8%BF%88%E5%87%BA%E6%82%AC%E6%8C%82%E9%98%B3%E5%8F%B0%23" target="weibo">
 老人误把窗户当门迈出悬挂阳台（热度：621603）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%A6%88%E7%BB%99%E5%84%BF%E5%AD%90%E7%A9%BF%E7%B2%89%E8%89%B2%E5%8D%AB%E8%A1%A3%E8%A2%AB%E5%A4%A7%E5%A6%88%E6%8C%87%E8%B4%A3%23" target="weibo">
+宝妈给儿子穿粉色卫衣被大妈指责（热度：607400）
 </a>
 </li>
 
@@ -243,14 +249,14 @@ DR钻戒成本4000卖1.5万（热度：803871）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%A6%88%E7%BB%99%E5%84%BF%E5%AD%90%E7%A9%BF%E7%B2%89%E8%89%B2%E5%8D%AB%E8%A1%A3%E8%A2%AB%E5%A4%A7%E5%A6%88%E6%8C%87%E8%B4%A3%23" target="weibo">
-宝妈给儿子穿粉色卫衣被大妈指责（热度：524353）
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%8F%82%E5%8A%A0%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%BC%80%E5%AD%A6%E5%85%B8%E7%A4%BC%23" target="weibo">
+谷爱凌参加斯坦福开学典礼（热度：518093）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%8F%82%E5%8A%A0%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%BC%80%E5%AD%A6%E5%85%B8%E7%A4%BC%23" target="weibo">
-谷爱凌参加斯坦福开学典礼（热度：518093）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%BB%8F%E5%B8%B8%E5%96%9D%E7%B2%A5%E5%90%97%23" target="weibo">
+你经常喝粥吗（热度：508067）
 </a>
 </li>
 
@@ -309,20 +315,32 @@ DR钻戒成本4000卖1.5万（热度：803871）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%B0%8F%E6%96%99%E6%B6%A8%E5%88%B011%E5%85%83%23" target="weibo">
+网友吐槽海底捞小料涨到11元（热度：390218）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%93%81%E5%BA%A7%E6%9C%89%E6%B1%A1%E6%B8%8D%E4%B8%A4%E5%A5%B3%E7%94%9F%E9%BB%98%E9%BB%98%E6%93%A6%E5%87%80%23" target="weibo">
 地铁座有污渍两女生默默擦净（热度：389803）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%BB%8F%E5%B8%B8%E5%96%9D%E7%B2%A5%E5%90%97%23" target="weibo">
-你经常喝粥吗（热度：372003）
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%BC%8F%E5%BF%AB%E9%A4%90%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E7%81%AB%E4%BA%86%23" target="weibo">
+日式快餐为什么不火了（热度：361069）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%BC%8F%E5%BF%AB%E9%A4%90%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E7%81%AB%E4%BA%86%23" target="weibo">
-日式快餐为什么不火了（热度：361069）
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%98%E5%8F%A0%E5%BC%8FiPhone%E5%8F%AF%E8%87%AA%E8%A1%8C%E4%BF%AE%E5%A4%8D%E6%8A%98%E7%97%95%23" target="weibo">
+折叠式iPhone可自行修复折痕（热度：351910）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%9C%9D%E9%98%B3%E6%96%B0%E5%A2%9E2%E5%90%8D%E6%84%9F%E6%9F%93%E8%80%85%23" target="weibo">
+北京朝阳新增2名感染者（热度：348089）
 </a>
 </li>
 
@@ -435,6 +453,12 @@ S12主题曲封面Meiko（热度：291350）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E%23" target="weibo">
+原神（热度：280544）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23c63%23" target="weibo">
 c63（热度：269317）
 </a>
@@ -483,8 +507,8 @@ Kid淘汰（热度：257126）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%9C%9D%E9%98%B3%E6%96%B0%E5%A2%9E2%E5%90%8D%E6%84%9F%E6%9F%93%E8%80%85%23" target="weibo">
-北京朝阳新增2名感染者（热度：245926）
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E6%BC%94%E6%88%91%E4%B8%8B%E7%8F%AD%23" target="weibo">
+刘诗诗演我下班（热度：242418）
 </a>
 </li>
 
@@ -537,12 +561,6 @@ S12入围赛赛程（热度：229556）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%B0%8F%E6%96%99%E6%B6%A8%E5%88%B011%E5%85%83%23" target="weibo">
-网友吐槽海底捞小料涨到11元（热度：221607）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E6%8C%A8%E4%B8%AA%E6%89%8B%E6%8C%87%E8%AF%95%E5%87%BA%E9%86%89%E6%B1%89%E6%89%8B%E6%9C%BA%E6%8C%87%E7%BA%B9%E9%94%81%23" target="weibo">
 民警挨个手指试出醉汉手机指纹锁（热度：220808）
 </a>
@@ -569,6 +587,12 @@ S12入围赛赛程（热度：229556）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BC%B4%E8%B4%AA%E7%8E%A9%E5%BC%84%E4%B8%A2%E8%87%AA%E5%B7%B1%E5%A4%A7%E5%A6%88%E7%8B%82%E6%93%82%E5%A4%A7%E7%88%B7%23" target="weibo">
 老伴贪玩弄丢自己大妈狂擂大爷（热度：214582）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%83%8F%E6%9E%81%E4%BA%86%E8%BF%87%E8%8A%82%E5%9B%9E%E5%AE%B6%E8%A7%81%E4%BA%B2%E6%88%9A%E7%9A%84%E6%88%91%23" target="weibo">
+王俊凯像极了过节回家见亲戚的我（热度：213806）
 </a>
 </li>
 
@@ -627,6 +651,12 @@ Mate50系列有望冲击千万销量（热度：211002）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E6%96%8C%E9%99%88%E6%99%93%E5%B0%98%E5%B0%81%E5%8D%81%E4%B8%89%E8%BD%BD%E5%BC%80%E6%9C%BA%23" target="weibo">
+陈建斌陈晓尘封十三载开机（热度：189536）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%A4%A9%E5%B8%B8%E7%8A%AF%E5%9B%B0%E7%A7%92%E7%9D%A1%E5%8F%AF%E8%83%BD%E6%98%AF%E7%A7%8D%E7%97%85%23" target="weibo">
 白天常犯困秒睡可能是种病（热度：189402）
 </a>
@@ -647,12 +677,6 @@ RNG比赛时间（热度：184433）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E8%B4%A2%E5%8A%A1%E6%AC%BA%E8%AF%88%E8%A2%AB%E8%B5%B7%E8%AF%89%23" target="weibo">
 特朗普涉财务欺诈被起诉（热度：181812）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8A%98%E5%8F%A0%E5%BC%8FiPhone%E5%8F%AF%E8%87%AA%E8%A1%8C%E4%BF%AE%E5%A4%8D%E6%8A%98%E7%97%95%23" target="weibo">
-折叠式iPhone可自行修复折痕（热度：180524）
 </a>
 </li>
 
@@ -747,8 +771,20 @@ RNG比赛时间（热度：184433）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%B8%A6%E5%AD%A9%E5%AD%90%E8%B7%91%E6%AD%A5%E4%BC%9A%E6%9C%89%E4%BB%80%E4%B9%88%E5%8F%98%E5%8C%96%23" target="weibo">
+爸爸带孩子跑步会有什么变化（热度：138315）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B7%9D%E7%A6%BB2022%E5%B9%B4%E7%BB%93%E6%9D%9F%E8%BF%98%E6%9C%89100%E5%A4%A9%23" target="weibo">
 距离2022年结束还有100天（热度：135282）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%93%B2%E9%93%B2%E7%A5%9E%E9%BE%99%E5%B0%8A%E8%80%85%E5%8D%A1%E8%8E%8E%23" target="weibo">
+金铲铲神龙尊者卡莎（热度：132712）
 </a>
 </li>
 
@@ -915,6 +951,12 @@ NBA新赛季百大球员詹姆斯第七（热度：72866）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E4%B8%BA%E5%A6%BB%E5%86%99%E9%98%BF%E5%B0%94%E8%8C%A8%E6%B5%B7%E9%BB%98%E7%97%85%E7%85%A7%E6%8A%A4%E6%89%8B%E8%AE%B0%23" target="weibo">
+老人为妻写阿尔茨海默病照护手记（热度：27770）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%8B%E4%BD%93%E4%B9%A6%E4%B8%AD%E8%97%8F%E7%9D%80%E6%80%8E%E6%A0%B7%E7%9A%84%E4%B8%96%E7%95%8C%23" target="weibo">
 立体书中藏着怎样的世界（热度：25643）
 </a>
@@ -965,12 +1007,6 @@ NBA新赛季百大球员詹姆斯第七（热度：72866）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%B7%E5%90%9B%23" target="weibo">
 请君（热度：10147）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E4%B8%BA%E5%A6%BB%E5%86%99%E9%98%BF%E5%B0%94%E8%8C%A8%E6%B5%B7%E9%BB%98%E7%97%85%E7%85%A7%E6%8A%A4%E6%89%8B%E8%AE%B0%23" target="weibo">
-老人为妻写阿尔茨海默病照护手记（热度：9947）
 </a>
 </li>
 
@@ -1067,6 +1103,12 @@ NBA新赛季百大球员詹姆斯第七（热度：72866）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E5%8A%A0%E5%BF%AB%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91%E7%8E%B0%E4%BB%A3%E5%8C%96%E6%AD%A5%E4%BC%90%23%23" target="weibo">
 #加快农业农村现代化步伐#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%88%91%E4%BB%AC%E7%9A%84%E6%97%B6%E4%BB%A3%E6%88%91%E4%BB%AC%E7%9A%84%E5%9F%8E%23%23" target="weibo">
+#我们的时代我们的城#
 </a>
 </li>
 
