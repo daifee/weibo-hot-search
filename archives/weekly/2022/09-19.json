@@ -1,6 +1,6 @@
 {
   "startTime": 1663518759246,
-  "endTime": 1663868024361,
+  "endTime": 1663868989415,
   "band_list": [
     {
       "raw_hot": 8415894,
@@ -4555,20 +4555,20 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 278366,
+      "num": 278366,
+      "word": "南京一小学让孩子躺着午睡",
+      "onboard_time": 1663864282,
+      "rank": 46,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 277592,
       "num": 277592,
       "word": "熊孩子将整层楼道灭火器呲光光",
       "onboard_time": 1663555406,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 277365,
-      "num": 132729,
-      "word": "南京一小学让孩子躺着午睡",
-      "onboard_time": 1663864282,
-      "rank": 46,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 276652,
