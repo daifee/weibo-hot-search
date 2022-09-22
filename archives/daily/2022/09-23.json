@@ -1,6 +1,6 @@
 {
   "startTime": 1663864508123,
-  "endTime": 1663879372030,
+  "endTime": 1663881757092,
   "band_list": [
     {
       "raw_hot": 1757360,
@@ -395,12 +395,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 66895,
+      "num": 66895,
+      "word": "朝鲜军方否认向俄出口武器弹药",
+      "onboard_time": 1663877651,
+      "rank": 42,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 66254,
       "num": 572196,
       "word": "惊艳了整个秋天的丰收色",
       "onboard_time": 1663849649,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 61318,
+      "num": 30283,
+      "word": "美军连续三天偷叙利亚石油",
+      "onboard_time": 1663876331,
+      "rank": 16,
+      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 60976,
@@ -412,19 +428,11 @@
     },
     {
       "raw_hot": 56610,
-      "num": 34979,
+      "num": 46881,
       "word": "顾客称吃饭被收20元空调费",
       "onboard_time": 1663870813,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 43245,
-      "num": 26015,
-      "word": "美军连续三天偷叙利亚石油",
-      "onboard_time": 1663876331,
-      "rank": 16,
-      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 38770,
@@ -451,20 +459,44 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 27644,
-      "num": 27644,
-      "word": "朝鲜军方否认向俄出口武器弹药",
-      "onboard_time": 1663877651,
-      "rank": 42,
-      "category": "国外要闻,军事"
-    },
-    {
       "raw_hot": 19425,
       "num": 19425,
       "word": "S12选手评分",
       "onboard_time": 1663870514,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 15377,
+      "num": 15377,
+      "word": "日本时隔24年进行外汇干预",
+      "onboard_time": 1663878431,
+      "rank": 37,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 14716,
+      "num": 14716,
+      "word": "男子骗39名女子56万获刑11年半",
+      "onboard_time": 1663878790,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12502,
+      "num": 12502,
+      "word": "开学季",
+      "onboard_time": 1663879750,
+      "rank": 31,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 12327,
+      "num": 12327,
+      "word": "口腔种植体集采将开展",
+      "onboard_time": 1663877950,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10748,
@@ -496,22 +528,6 @@
       "word": "婆婆跨越千里为待产儿媳送土特产",
       "onboard_time": 1663877950,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9144,
-      "num": 9144,
-      "word": "日本时隔24年进行外汇干预",
-      "onboard_time": 1663878431,
-      "rank": 37,
-      "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 8781,
-      "num": 8781,
-      "word": "口腔种植体集采将开展",
-      "onboard_time": 1663877950,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -547,12 +563,20 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 5933,
-      "num": 7109,
-      "word": "男子骗39名女子56万获刑11年半",
-      "onboard_time": 1663878790,
+      "raw_hot": 6019,
+      "num": 7854,
+      "word": "我国基本形成北斗产业应用体系",
+      "onboard_time": 1663881311,
+      "rank": 46,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 5904,
+      "num": 7832,
+      "word": "老师教听障女孩摸喉咙练习发声",
+      "onboard_time": 1663880949,
       "rank": 47,
-      "category": "社会新闻"
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 5668,
