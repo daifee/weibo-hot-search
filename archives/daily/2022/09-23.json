@@ -1,6 +1,6 @@
 {
   "startTime": 1663864508123,
-  "endTime": 1663874434996,
+  "endTime": 1663875389879,
   "band_list": [
     {
       "raw_hot": 1757360,
@@ -411,7 +411,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 48654,
+      "raw_hot": 56610,
       "num": 34979,
       "word": "顾客称吃饭被收20元空调费",
       "onboard_time": 1663870813,
@@ -451,12 +451,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 10054,
-      "num": 10054,
+      "raw_hot": 10116,
+      "num": 10116,
       "word": "王者新赛季今日开启",
       "onboard_time": 1663865599,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 7536,
+      "num": 7536,
+      "word": "重庆首批地标菜名单",
+      "onboard_time": 1663874951,
+      "rank": 48,
+      "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 7267,
+      "num": 7267,
+      "word": "5男生同骑一辆共享电动车",
+      "onboard_time": 1663874530,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

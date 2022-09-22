@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/19 00:32:39 ~ 2022/09/23 03:20:34
+本榜单时间：2022/09/19 00:32:39 ~ 2022/09/23 03:36:29
 </p>
 </blockquote>
 <p>
@@ -6219,6 +6219,12 @@ NCT127新曲初舞台（热度：81381）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E7%A7%B0%E5%90%83%E9%A5%AD%E8%A2%AB%E6%94%B620%E5%85%83%E7%A9%BA%E8%B0%83%E8%B4%B9%23" target="weibo">
+顾客称吃饭被收20元空调费（热度：56610）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%BE%BE%E6%88%901000%E6%AC%A1%E6%88%90%E5%8A%9F%E8%BF%87%E4%BA%BA%E6%88%90%E5%B0%B1%23" target="weibo">
 梅西达成1000次成功过人成就（热度：56343）
 </a>
@@ -6233,12 +6239,6 @@ NCT127新曲初舞台（热度：81381）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%AA%E4%B8%AD%E6%82%8D%E5%88%80%E8%A1%8C%E5%8E%9F%E6%91%84%E5%BD%B1%E5%B8%88%E8%AF%84%E8%AE%BA%E5%9E%AB%E5%BA%95%E8%BE%A3%E5%AD%A9%23" target="weibo">
 雪中悍刀行原摄影师评论垫底辣孩（热度：49591）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E7%A7%B0%E5%90%83%E9%A5%AD%E8%A2%AB%E6%94%B620%E5%85%83%E7%A9%BA%E8%B0%83%E8%B4%B9%23" target="weibo">
-顾客称吃饭被收20元空调费（热度：48654）
 </a>
 </li>
 
@@ -6418,7 +6418,7 @@ S12选手评分（热度：19425）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E6%96%B0%E8%B5%9B%E5%AD%A3%E4%BB%8A%E6%97%A5%E5%BC%80%E5%90%AF%23" target="weibo">
-王者新赛季今日开启（热度：10054）
+王者新赛季今日开启（热度：10116）
 </a>
 </li>
 
@@ -6453,6 +6453,12 @@ S12选手评分（热度：19425）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E9%A6%96%E6%89%B9%E5%9C%B0%E6%A0%87%E8%8F%9C%E5%90%8D%E5%8D%95%23" target="weibo">
+重庆首批地标菜名单（热度：7536）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%AC%E8%87%AA%E4%B9%98%E6%9C%BA%E5%A5%B3%E5%AD%A9%E7%AA%81%E6%8A%BD%E6%90%90%E9%A3%9E%E6%9C%BA%E7%B4%A7%E6%80%A5%E5%A4%87%E9%99%8D%23" target="weibo">
 独自乘机女孩突抽搐飞机紧急备降（热度：7383）
 </a>
@@ -6467,6 +6473,12 @@ S12选手评分（热度：19425）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%98%E5%AE%87%E5%B7%B2%E8%A2%AB%E7%9B%B4%E5%8D%87%E6%9C%BA%E8%BD%AC%E8%BF%90%E8%87%B3%E5%8C%BB%E9%99%A2%E6%B2%BB%E7%96%97%23" target="weibo">
 甘宇已被直升机转运至医院治疗（热度：7307）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%235%E7%94%B7%E7%94%9F%E5%90%8C%E9%AA%91%E4%B8%80%E8%BE%86%E5%85%B1%E4%BA%AB%E7%94%B5%E5%8A%A8%E8%BD%A6%23" target="weibo">
+5男生同骑一辆共享电动车（热度：7267）
 </a>
 </li>
 
