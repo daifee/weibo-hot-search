@@ -1,6 +1,6 @@
 {
   "startTime": 1663864508123,
-  "endTime": 1663871371101,
+  "endTime": 1663872511128,
   "band_list": [
     {
       "raw_hot": 1757360,
@@ -395,19 +395,19 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 65510,
+      "num": 45405,
+      "word": "女子办证时偷偷递纸条给民警求助",
+      "onboard_time": 1663869434,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60976,
       "num": 60976,
       "word": "5岁男孩礼貌求摸警犬获众人鼓励",
       "onboard_time": 1663864761,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 45405,
-      "num": 45405,
-      "word": "女子办证时偷偷递纸条给民警求助",
-      "onboard_time": 1663869434,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -435,20 +435,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14959,
-      "num": 14959,
+      "raw_hot": 19425,
+      "num": 19425,
       "word": "S12选手评分",
       "onboard_time": 1663870514,
       "rank": 48,
       "category": "游戏"
     },
     {
-      "raw_hot": 12573,
-      "num": 12573,
+      "raw_hot": 19280,
+      "num": 19280,
       "word": "顾客称吃饭被收20元空调费",
       "onboard_time": 1663870813,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10054,
+      "num": 10054,
+      "word": "王者新赛季今日开启",
+      "onboard_time": 1663865599,
+      "rank": 49,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [

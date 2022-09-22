@@ -1,0 +1,410 @@
+{
+  "runTime": 1663872511128,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 185655,
+        "num": 185655,
+        "word": "上海不再全面禁止路边摊",
+        "onboard_time": 1663860451,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168034,
+        "num": 168034,
+        "word": "南京一小学让孩子躺着午睡",
+        "onboard_time": 1663864282,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 15225,
+        "num": 135297,
+        "word": "惊艳了整个秋天的丰收色",
+        "onboard_time": 1663849649,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 117715,
+        "num": 117715,
+        "word": "深圳楼盘604套千万豪宅一天卖光",
+        "onboard_time": 1663862127,
+        "rank": 3,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 80635,
+        "num": 80635,
+        "word": "王祖蓝香港豪宅6年升值780万",
+        "onboard_time": 1663857331,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68330,
+        "num": 68330,
+        "word": "基金女主播真人与海报判若两人",
+        "onboard_time": 1663859671,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62886,
+        "num": 62886,
+        "word": "今天芭比粉谁驾驭住了",
+        "onboard_time": 1663846589,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 61685,
+        "num": 61685,
+        "word": "这是一只23岁的猫猫",
+        "onboard_time": 1663858232,
+        "rank": 7,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 58597,
+        "num": 58597,
+        "word": "邻居骗走钥匙将下水管装满天花板",
+        "onboard_time": 1663857151,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48515,
+        "num": 48515,
+        "word": "德国称希望成为安理会常任理事国",
+        "onboard_time": 1663856611,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 139073,
+        "num": 47916,
+        "word": "分手就该拉黑删除吗",
+        "onboard_time": 1663860810,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129978,
+        "num": 46770,
+        "word": "张翰是不是想营造出虞书欣这种感觉",
+        "onboard_time": 1663859609,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 87635,
+        "num": 45217,
+        "word": "成都一罐车侧翻压扁宝马致司机死亡",
+        "onboard_time": 1663860932,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 65510,
+        "num": 45035,
+        "word": "女子办证时偷偷递纸条给民警求助",
+        "onboard_time": 1663869434,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44016,
+        "num": 44016,
+        "word": "韩总统私下吐槽美国会议员为崽子",
+        "onboard_time": 1663847189,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 41738,
+        "num": 41738,
+        "word": "被淡颜美人惊艳的瞬间",
+        "onboard_time": 1663863326,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 40490,
+        "num": 40490,
+        "word": "唐山打人案将于23日公开宣判",
+        "onboard_time": 1663838488,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38088,
+        "num": 38088,
+        "word": "为啥年轻人都不买钻石了",
+        "onboard_time": 1663844252,
+        "rank": 17,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 37752,
+        "num": 37752,
+        "word": "甜椒cp",
+        "onboard_time": 1663865001,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 37608,
+        "num": 37608,
+        "word": "男子称用顺丰寄鱼干到货只剩头尾",
+        "onboard_time": 1663857216,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33981,
+        "num": 33981,
+        "word": "一句话让人愧疚了一辈子",
+        "onboard_time": 1663861290,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 32493,
+        "num": 32493,
+        "word": "富士康拆除iPhone部分产线",
+        "onboard_time": 1663845810,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 32084,
+        "num": 32084,
+        "word": "下班后的独处好快乐",
+        "onboard_time": 1663860571,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30849,
+        "num": 30849,
+        "word": "新娘出嫁时跪谢83岁奶奶",
+        "onboard_time": 1663863506,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30699,
+        "num": 30699,
+        "word": "父母忘接孩子男孩通宵徒步回家",
+        "onboard_time": 1663849050,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30530,
+        "num": 30530,
+        "word": "覆流年 be",
+        "onboard_time": 1663861352,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 28673,
+        "num": 28673,
+        "word": "哪本小说让你看完后疯狂找代餐",
+        "onboard_time": 1663846770,
+        "rank": 26,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 25994,
+        "num": 25994,
+        "word": "王晓晨发长文告别亲爱的生命",
+        "onboard_time": 1663855353,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23790,
+        "num": 23790,
+        "word": "5岁男孩礼貌求摸警犬获众人鼓励",
+        "onboard_time": 1663864761,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23306,
+        "num": 23306,
+        "word": "小偷得知失主癌症晚期改口认罪",
+        "onboard_time": 1663841428,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23018,
+        "num": 23018,
+        "word": "金智秀获韩流电视剧女子演技奖",
+        "onboard_time": 1663854570,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22477,
+        "num": 22477,
+        "word": "黄明昊嗑棣欣引力reaction",
+        "onboard_time": 1663846831,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22272,
+        "num": 22272,
+        "word": "张远天天向上跳爱你好甜",
+        "onboard_time": 1663864761,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20541,
+        "num": 20541,
+        "word": "yolo延期",
+        "onboard_time": 1663858773,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 19887,
+        "num": 19887,
+        "word": "男子醉驾连撞6车甩锅给妹妹",
+        "onboard_time": 1663858895,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19707,
+        "num": 19707,
+        "word": "孙杨10年后收到世界纪录证书",
+        "onboard_time": 1663857692,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19425,
+        "num": 19425,
+        "word": "S12选手评分",
+        "onboard_time": 1663870514,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 19280,
+        "num": 19280,
+        "word": "顾客称吃饭被收20元空调费",
+        "onboard_time": 1663870813,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17842,
+        "num": 17842,
+        "word": "原来手机可以一键转移数据",
+        "onboard_time": 1663848329,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 17715,
+        "num": 17715,
+        "word": "潘粤明新剧开分8.2",
+        "onboard_time": 1663844731,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17689,
+        "num": 17689,
+        "word": "天娱新男团官宣",
+        "onboard_time": 1663846168,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17587,
+        "num": 17587,
+        "word": "白鹿新歌你有没有看见一只小鹿",
+        "onboard_time": 1663849766,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 16439,
+        "num": 16439,
+        "word": "厦航购买40架空客A320neo",
+        "onboard_time": 1663850308,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16395,
+        "num": 16395,
+        "word": "这里是流浪猫的天堂吧",
+        "onboard_time": 1663861050,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 16086,
+        "num": 16086,
+        "word": "为什么逛超市能够解压",
+        "onboard_time": 1663863862,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15636,
+        "num": 15636,
+        "word": "研究称地球上共有2亿亿只蚂蚁",
+        "onboard_time": 1663841727,
+        "rank": 45,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 14253,
+        "num": 14253,
+        "word": "秦皇岛巨型漫画云",
+        "onboard_time": 1663856370,
+        "rank": 46,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 13544,
+        "num": 13544,
+        "word": "那种一直不谈恋爱的最会玩",
+        "onboard_time": 1663822657,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 11054,
+        "num": 11054,
+        "word": "社恐猫咪躲厕所假扮马桶刷",
+        "onboard_time": 1663853909,
+        "rank": 48,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 10054,
+        "num": 10054,
+        "word": "王者新赛季今日开启",
+        "onboard_time": 1663865599,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国农民丰收节#"
+    }
+  }
+}
