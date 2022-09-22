@@ -1,6 +1,6 @@
 {
   "startTime": 1663518759246,
-  "endTime": 1663881757092,
+  "endTime": 1663882853415,
   "band_list": [
     {
       "raw_hot": 8415894,
@@ -8051,6 +8051,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 89182,
+      "num": 89182,
+      "word": "朝鲜军方否认向俄出口武器弹药",
+      "onboard_time": 1663877651,
+      "rank": 42,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 89149,
       "num": 89149,
       "word": "大兴安岭迎来入秋后第一场雪",
@@ -8243,16 +8251,8 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 66895,
-      "num": 66895,
-      "word": "朝鲜军方否认向俄出口武器弹药",
-      "onboard_time": 1663877651,
-      "rank": 42,
-      "category": "国外要闻,军事"
-    },
-    {
       "raw_hot": 61318,
-      "num": 30283,
+      "num": 31781,
       "word": "美军连续三天偷叙利亚石油",
       "onboard_time": 1663876331,
       "rank": 16,
@@ -8292,7 +8292,7 @@
     },
     {
       "raw_hot": 56610,
-      "num": 46881,
+      "num": 54961,
       "word": "顾客称吃饭被收20元空调费",
       "onboard_time": 1663870813,
       "rank": 49,
@@ -8361,6 +8361,14 @@
       "onboard_time": 1663527853,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 35436,
+      "num": 31616,
+      "word": "男子骗39名女子56万获刑11年半",
+      "onboard_time": 1663878790,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32826,
@@ -8467,6 +8475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18632,
+      "num": 18632,
+      "word": "昆仑神宫剧评",
+      "onboard_time": 1663878070,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 18203,
       "num": 18203,
       "word": "天花板级别的军训汇演",
@@ -8483,6 +8499,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 16588,
+      "num": 16588,
+      "word": "日本时隔24年进行外汇干预",
+      "onboard_time": 1663878431,
+      "rank": 37,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 15644,
       "num": 15644,
       "word": "狐妖小红娘的服化道",
@@ -8491,19 +8515,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 15377,
-      "num": 15377,
-      "word": "日本时隔24年进行外汇干预",
-      "onboard_time": 1663878431,
-      "rank": 37,
-      "category": "财经,社会新闻"
+      "raw_hot": 14786,
+      "num": 14786,
+      "word": "口腔种植体集采将开展",
+      "onboard_time": 1663877950,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 14716,
-      "num": 14716,
-      "word": "男子骗39名女子56万获刑11年半",
-      "onboard_time": 1663878790,
-      "rank": 47,
+      "raw_hot": 14147,
+      "num": 14147,
+      "word": "致敬平民英雄",
+      "onboard_time": 1663882092,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -8523,8 +8547,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 12502,
-      "num": 12502,
+      "raw_hot": 13047,
+      "num": 13047,
+      "word": "婆婆跨越千里为待产儿媳送土特产",
+      "onboard_time": 1663877950,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12750,
+      "num": 12750,
       "word": "开学季",
       "onboard_time": 1663879750,
       "rank": 31,
@@ -8544,14 +8576,6 @@
       "word": "带你穿越海上森林",
       "onboard_time": 1663741290,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12327,
-      "num": 12327,
-      "word": "口腔种植体集采将开展",
-      "onboard_time": 1663877950,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -8595,28 +8619,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 10621,
-      "num": 10621,
-      "word": "昆仑神宫剧评",
-      "onboard_time": 1663878070,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 10116,
       "num": 10116,
       "word": "王者新赛季今日开启",
       "onboard_time": 1663865599,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 10055,
-      "num": 10055,
-      "word": "婆婆跨越千里为待产儿媳送土特产",
-      "onboard_time": 1663877950,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 9764,
@@ -8739,6 +8747,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 6847,
+      "num": 9192,
+      "word": "老师教听障女孩摸喉咙练习发声",
+      "onboard_time": 1663880949,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 6736,
       "num": 7126,
       "word": "女子回应剖腹产后被用箩筐抬上楼",
@@ -8777,6 +8793,14 @@
       "onboard_time": 1663877710,
       "rank": 46,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 6536,
+      "num": 9187,
+      "word": "2022年天安门广场摆花方案公布",
+      "onboard_time": 1663882451,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 6328,
@@ -8827,20 +8851,28 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 5904,
-      "num": 7832,
-      "word": "老师教听障女孩摸喉咙练习发声",
-      "onboard_time": 1663880949,
-      "rank": 47,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 5844,
       "num": 8847,
       "word": "维埃拉英超处子球",
       "onboard_time": 1663536431,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 5754,
+      "num": 9186,
+      "word": "经超古装剧第4次be",
+      "onboard_time": 1663882631,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 5695,
+      "num": 9183,
+      "word": "南京野猪跑到田里听歌睡大觉",
+      "onboard_time": 1663881971,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 5668,
