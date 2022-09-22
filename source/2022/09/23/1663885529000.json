@@ -1,0 +1,410 @@
+{
+  "runTime": 1663885529000,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 399640,
+        "num": 399640,
+        "word": "上海不再全面禁止路边摊",
+        "onboard_time": 1663860451,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367628,
+        "num": 367628,
+        "word": "南京一小学让孩子躺着午睡",
+        "onboard_time": 1663864282,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 36154,
+        "num": 275812,
+        "word": "惊艳了整个秋天的丰收色",
+        "onboard_time": 1663849649,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 203408,
+        "num": 203408,
+        "word": "邻居骗走钥匙将下水管装满天花板",
+        "onboard_time": 1663857151,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153099,
+        "num": 153099,
+        "word": "深圳楼盘604套千万豪宅一天卖光",
+        "onboard_time": 1663862127,
+        "rank": 4,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 138943,
+        "num": 138943,
+        "word": "基金女主播真人与海报判若两人",
+        "onboard_time": 1663859671,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137844,
+        "num": 137844,
+        "word": "朝鲜军方否认向俄出口武器弹药",
+        "onboard_time": 1663877651,
+        "rank": 6,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 132024,
+        "num": 132024,
+        "word": "顾客称吃饭被收20元空调费",
+        "onboard_time": 1663870813,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86883,
+        "num": 86883,
+        "word": "王祖蓝香港豪宅6年升值780万",
+        "onboard_time": 1663857331,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78544,
+        "num": 78544,
+        "word": "男子称用顺丰寄鱼干到货只剩头尾",
+        "onboard_time": 1663857216,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159041,
+        "num": 78519,
+        "word": "成都一罐车侧翻压扁宝马致司机死亡",
+        "onboard_time": 1663860932,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 110468,
+        "num": 78485,
+        "word": "张翰是不是想营造出虞书欣这种感觉",
+        "onboard_time": 1663859609,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 80723,
+        "num": 78337,
+        "word": "分手就该拉黑删除吗",
+        "onboard_time": 1663860810,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 78014,
+        "num": 78014,
+        "word": "这是一只23岁的猫猫",
+        "onboard_time": 1663858232,
+        "rank": 13,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 74629,
+        "num": 74629,
+        "word": "男子骗39名女子56万获刑11年半",
+        "onboard_time": 1663878790,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74605,
+        "num": 74605,
+        "word": "女子办证时偷偷递纸条给民警求助",
+        "onboard_time": 1663869434,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62253,
+        "num": 62253,
+        "word": "父母忘接孩子男孩通宵徒步回家",
+        "onboard_time": 1663849050,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61146,
+        "num": 61146,
+        "word": "王晓晨发长文告别亲爱的生命",
+        "onboard_time": 1663855353,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 60916,
+        "num": 60916,
+        "word": "为啥年轻人都不买钻石了",
+        "onboard_time": 1663844252,
+        "rank": 18,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 58739,
+        "num": 58739,
+        "word": "新娘出嫁时跪谢83岁奶奶",
+        "onboard_time": 1663863506,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57848,
+        "num": 57848,
+        "word": "德国称希望成为安理会常任理事国",
+        "onboard_time": 1663856611,
+        "rank": 20,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 53879,
+        "num": 53879,
+        "word": "美军连续三天偷叙利亚石油",
+        "onboard_time": 1663876331,
+        "rank": 21,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 51961,
+        "num": 51961,
+        "word": "今天芭比粉谁驾驭住了",
+        "onboard_time": 1663846589,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 51418,
+        "num": 51418,
+        "word": "2022年天安门广场摆花方案公布",
+        "onboard_time": 1663882451,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48340,
+        "num": 48340,
+        "word": "日本时隔24年进行外汇干预",
+        "onboard_time": 1663878431,
+        "rank": 24,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 47801,
+        "num": 47801,
+        "word": "韩总统私下吐槽美国会议员为崽子",
+        "onboard_time": 1663847189,
+        "rank": 25,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 38128,
+        "num": 38128,
+        "word": "下班后的独处好快乐",
+        "onboard_time": 1663860571,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 36497,
+        "num": 36497,
+        "word": "男子醉驾连撞6车甩锅给妹妹",
+        "onboard_time": 1663858895,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35755,
+        "num": 35755,
+        "word": "覆流年 be",
+        "onboard_time": 1663861352,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33885,
+        "num": 33885,
+        "word": "唐山打人案将于23日公开宣判",
+        "onboard_time": 1663838488,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33386,
+        "num": 33386,
+        "word": "被淡颜美人惊艳的瞬间",
+        "onboard_time": 1663863326,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 32858,
+        "num": 32858,
+        "word": "富士康拆除iPhone部分产线",
+        "onboard_time": 1663845810,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 32294,
+        "num": 32294,
+        "word": "马嘉祺我们的歌造型花絮照",
+        "onboard_time": 1663857216,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31258,
+        "num": 31258,
+        "word": "婆婆跨越千里为待产儿媳送土特产",
+        "onboard_time": 1663877950,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27197,
+        "num": 27197,
+        "word": "哪本小说让你看完后疯狂找代餐",
+        "onboard_time": 1663846770,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 25399,
+        "num": 25399,
+        "word": "昆仑神宫剧评",
+        "onboard_time": 1663878070,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24353,
+        "num": 24353,
+        "word": "小偷得知失主癌症晚期改口认罪",
+        "onboard_time": 1663841428,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24226,
+        "num": 24226,
+        "word": "社恐猫咪躲厕所假扮马桶刷",
+        "onboard_time": 1663853909,
+        "rank": 37,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 22610,
+        "num": 22610,
+        "word": "原来手机可以一键转移数据",
+        "onboard_time": 1663848329,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 21343,
+        "num": 21343,
+        "word": "白鹿新歌你有没有看见一只小鹿",
+        "onboard_time": 1663849766,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 19347,
+        "num": 19347,
+        "word": "口腔种植体集采将开展",
+        "onboard_time": 1663877950,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18578,
+        "num": 18578,
+        "word": "世界在建规模最大水电工程投产发电",
+        "onboard_time": 1663884072,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18040,
+        "num": 18040,
+        "word": "潘粤明新剧开分8.2",
+        "onboard_time": 1663844731,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16519,
+        "num": 16519,
+        "word": "天娱新男团官宣",
+        "onboard_time": 1663846168,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15233,
+        "num": 15233,
+        "word": "开学季",
+        "onboard_time": 1663879750,
+        "rank": 44,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 13892,
+        "num": 13892,
+        "word": "致敬平民英雄",
+        "onboard_time": 1663882092,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12501,
+        "num": 12501,
+        "word": "一句话让人愧疚了一辈子",
+        "onboard_time": 1663861290,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 10345,
+        "num": 10345,
+        "word": "老师教听障女孩摸喉咙练习发声",
+        "onboard_time": 1663880949,
+        "rank": 47,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 9222,
+        "num": 10339,
+        "word": "轨迹系列销量七百万份",
+        "onboard_time": 1663883472,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 7994,
+        "num": 10335,
+        "word": "锡林浩特下半年初雪提前登场",
+        "onboard_time": 1663883532,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国农民丰收节#"
+    }
+  }
+}
