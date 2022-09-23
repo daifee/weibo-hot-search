@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1663959094763,
+  "endTime": 1663960897692,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -46139,6 +46139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22962,
+      "num": 22962,
+      "word": "台风奥鹿生成",
+      "onboard_time": 1663957933,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22887,
       "num": 22887,
       "word": "周柯宇直拍Fly落水",
@@ -46251,14 +46259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18812,
-      "num": 18812,
-      "word": "台风奥鹿生成",
-      "onboard_time": 1663957933,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 18787,
       "num": 20849,
       "word": "送月亮的人",
@@ -46307,8 +46307,8 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 16155,
-      "num": 16155,
+      "raw_hot": 16267,
+      "num": 16267,
       "word": "05后造出猫脸识别喂食器",
       "onboard_time": 1663958353,
       "rank": 44,
@@ -46537,6 +46537,14 @@
       "onboard_time": 1662754990,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 9303,
+      "num": 9303,
+      "word": "这些食物别生吃了",
+      "onboard_time": 1663960092,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 8649,
