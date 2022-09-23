@@ -1,6 +1,6 @@
 {
   "startTime": 1663864508123,
-  "endTime": 1663928843558,
+  "endTime": 1663929891057,
   "band_list": [
     {
       "raw_hot": 11177915,
@@ -51,8 +51,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1578429,
-      "num": 657953,
+      "raw_hot": 1692996,
+      "num": 722240,
       "word": "新晋妈妈一巴掌把老公打进医院",
       "onboard_time": 1663925065,
       "rank": 43,
@@ -267,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 641243,
+      "num": 388370,
+      "word": "21岁单亲妈妈已办理全职入职",
+      "onboard_time": 1663927645,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 640256,
       "num": 640256,
       "word": "邻居骗走钥匙将下水管装满天花板",
@@ -419,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 461679,
+      "num": 461679,
+      "word": "小猫丢脸丢大了",
+      "onboard_time": 1663926083,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 455155,
       "num": 424963,
       "word": "郭晓婷GQ采访",
@@ -483,6 +499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 416634,
+      "num": 416634,
+      "word": "女子闯红灯被撞质问为什么不让我",
+      "onboard_time": 1663927107,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 409263,
       "num": 409263,
       "word": "V5改名为NIP",
@@ -539,14 +563,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 386096,
-      "num": 386096,
-      "word": "小猫丢脸丢大了",
-      "onboard_time": 1663926083,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 381264,
       "num": 381264,
       "word": "义乌发现5例省外输入阳性感染者",
@@ -595,6 +611,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 368222,
+      "num": 368222,
+      "word": "近3.7亿个字的永乐大典是怎么诞生的",
+      "onboard_time": 1663926683,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 359806,
       "num": 359806,
       "word": "特斯拉召回近110万辆车",
@@ -624,14 +648,6 @@
       "word": "陈小春30年前给杜德伟当伴舞",
       "onboard_time": 1663920987,
       "rank": 15,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 337662,
-      "num": 337662,
-      "word": "近3.7亿个字的永乐大典是怎么诞生的",
-      "onboard_time": 1663926683,
-      "rank": 11,
       "category": "综艺"
     },
     {
@@ -699,20 +715,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 293362,
-      "num": 293362,
-      "word": "女子闯红灯被撞质问为什么不让我",
-      "onboard_time": 1663927107,
+      "raw_hot": 290857,
+      "num": 290857,
+      "word": "等风热吻你广播剧开播",
+      "onboard_time": 1663929747,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 284719,
-      "num": 284719,
-      "word": "21岁单亲妈妈已办理全职入职",
-      "onboard_time": 1663927645,
-      "rank": 16,
-      "category": "社会新闻"
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 280227,
@@ -729,6 +737,14 @@
       "onboard_time": 1663869434,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 275679,
+      "num": 275679,
+      "word": "老师对学生影响有多大",
+      "onboard_time": 1663926327,
+      "rank": 20,
+      "category": "教育,情感"
     },
     {
       "raw_hot": 275367,
@@ -889,14 +905,6 @@
       "onboard_time": 1663911630,
       "rank": 41,
       "category": "综艺,美食"
-    },
-    {
-      "raw_hot": 212514,
-      "num": 212514,
-      "word": "老师对学生影响有多大",
-      "onboard_time": 1663926327,
-      "rank": 20,
-      "category": "教育,情感"
     },
     {
       "raw_hot": 207439,
@@ -1187,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147252,
+      "num": 147252,
+      "word": "英国大英博物馆里的中国文物",
+      "onboard_time": 1663928726,
+      "rank": 49,
+      "category": "其它"
+    },
+    {
       "raw_hot": 145608,
       "num": 145608,
       "word": "国际金价连续五个月下跌",
@@ -1275,6 +1291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 131741,
+      "num": 131741,
+      "word": "汪苏泷带开心果录脱5",
+      "onboard_time": 1663927766,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130533,
       "num": 130533,
       "word": "潘粤明新剧开分8.2",
@@ -1297,14 +1321,6 @@
       "onboard_time": 1663896027,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 127953,
-      "num": 127953,
-      "word": "汪苏泷带开心果录脱5",
-      "onboard_time": 1663927766,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 125433,
@@ -1352,6 +1368,14 @@
       "word": "电视剧胡同首支预告",
       "onboard_time": 1663901312,
       "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 117575,
+      "num": 117575,
+      "word": "成毅演的周亦安",
+      "onboard_time": 1663929747,
+      "rank": 37,
       "category": "影视"
     },
     {
@@ -1443,20 +1467,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 102793,
+      "num": 102793,
+      "word": "王一博这就是街舞微电影造型",
+      "onboard_time": 1663925961,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100960,
       "num": 100960,
       "word": "即日起开展断号行动",
       "onboard_time": 1663919006,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 98543,
-      "num": 98543,
-      "word": "王一博这就是街舞微电影造型",
-      "onboard_time": 1663925961,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 88999,
@@ -1595,20 +1619,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 67678,
+      "num": 67678,
+      "word": "15人盗挖植物活化石金毛狗蕨10万株",
+      "onboard_time": 1663929747,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67283,
       "num": 67283,
       "word": "如何把纸画出透明感",
       "onboard_time": 1663928246,
       "rank": 48,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 66617,
-      "num": 66617,
-      "word": "英国大英博物馆里的中国文物",
-      "onboard_time": 1663928726,
-      "rank": 49,
-      "category": "其它"
     },
     {
       "raw_hot": 60976,
@@ -1651,20 +1675,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43548,
+      "num": 310358,
+      "word": "驻村书记为留守老人拍旗袍大片",
+      "onboard_time": 1663927225,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38770,
       "num": 38770,
       "word": "高质量居家好物",
       "onboard_time": 1663860093,
       "rank": 47,
       "category": "情感,时尚"
-    },
-    {
-      "raw_hot": 34282,
-      "num": 296336,
-      "word": "驻村书记为留守老人拍旗袍大片",
-      "onboard_time": 1663927225,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32826,
