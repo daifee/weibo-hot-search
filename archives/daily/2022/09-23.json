@@ -1,6 +1,6 @@
 {
   "startTime": 1663864508123,
-  "endTime": 1663919565012,
+  "endTime": 1663921876101,
   "band_list": [
     {
       "raw_hot": 11177915,
@@ -27,8 +27,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1863252,
-      "num": 1863252,
+      "raw_hot": 1941293,
+      "num": 1941293,
       "word": "女子深夜假装去世母亲给自己回微信",
       "onboard_time": 1663915226,
       "rank": 11,
@@ -81,6 +81,14 @@
       "onboard_time": 1663899267,
       "rank": 12,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1132382,
+      "num": 1132382,
+      "word": "改编不输原著的剧",
+      "onboard_time": 1663917568,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 1102365,
@@ -179,6 +187,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 821444,
+      "num": 429892,
+      "word": "警方通报滨州职业学院宿舍刑事案件",
+      "onboard_time": 1663920027,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 814489,
       "num": 814489,
       "word": "关晓彤赵露思新剧二搭",
@@ -187,11 +203,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 755663,
-      "num": 755663,
-      "word": "改编不输原著的剧",
-      "onboard_time": 1663917568,
-      "rank": 7,
+      "raw_hot": 766092,
+      "num": 766092,
+      "word": "鬓边不是海棠红",
+      "onboard_time": 1663919426,
+      "rank": 37,
       "category": "影视"
     },
     {
@@ -240,6 +256,14 @@
       "word": "女子恋爱2个月偷男友近万元",
       "onboard_time": 1663907854,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 633419,
+      "num": 633419,
+      "word": "顺丰回应男子寄鱼干到货只剩头尾",
+      "onboard_time": 1663919846,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -379,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 449794,
+      "num": 449794,
+      "word": "中国使馆通报柬埔寨沉船事故",
+      "onboard_time": 1663916908,
+      "rank": 15,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 444881,
       "num": 444881,
       "word": "男子暴晒1天钓上1条鱼却被猫抢走",
@@ -425,14 +457,6 @@
       "onboard_time": 1663908694,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 427556,
-      "num": 404342,
-      "word": "中国使馆通报柬埔寨沉船事故",
-      "onboard_time": 1663916908,
-      "rank": 15,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 409263,
@@ -563,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 330193,
+      "num": 330193,
+      "word": "陈小春30年前给杜德伟当伴舞",
+      "onboard_time": 1663920987,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 326991,
       "num": 326991,
       "word": "胡一天梁洁新剧杀青",
@@ -601,6 +633,14 @@
       "onboard_time": 1663912167,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 277470,
+      "num": 277470,
+      "word": "被山东硬核把子肉馋到了",
+      "onboard_time": 1663919606,
+      "rank": 19,
+      "category": "美食"
     },
     {
       "raw_hot": 276647,
@@ -643,6 +683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 253218,
+      "num": 253218,
+      "word": "柬埔寨沉船事故疑似事发画面",
+      "onboard_time": 1663917627,
+      "rank": 43,
+      "category": "国内要闻,国外要闻"
+    },
+    {
       "raw_hot": 251559,
       "num": 251559,
       "word": "饿了么",
@@ -665,6 +713,14 @@
       "onboard_time": 1663903114,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 238868,
+      "num": 238868,
+      "word": "郭晓婷GQ采访",
+      "onboard_time": 1663919426,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 237140,
@@ -739,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215728,
+      "num": 169308,
+      "word": "野蛮生长",
+      "onboard_time": 1663920564,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 214664,
       "num": 214664,
       "word": "生鱼片由我国唐朝传入日本",
@@ -785,6 +849,14 @@
       "onboard_time": 1663893809,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 192700,
+      "num": 169234,
+      "word": "长空之王预售票房破300万",
+      "onboard_time": 1663921525,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 191255,
@@ -899,14 +971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 170066,
-      "num": 170066,
-      "word": "柬埔寨沉船事故疑似事发画面",
-      "onboard_time": 1663917627,
-      "rank": 43,
-      "category": "国内要闻,国外要闻"
-    },
-    {
       "raw_hot": 168724,
       "num": 168724,
       "word": "吴青峰新歌催眠大师",
@@ -929,6 +993,14 @@
       "onboard_time": 1663906771,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166209,
+      "num": 166209,
+      "word": "这猫居然会嗑瓜子",
+      "onboard_time": 1663920927,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 162534,
@@ -1025,14 +1097,6 @@
       "onboard_time": 1663901791,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 140884,
-      "num": 140884,
-      "word": "鬓边不是海棠红",
-      "onboard_time": 1663919426,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 137896,
@@ -1147,6 +1211,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 122465,
+      "num": 122465,
+      "word": "柬埔寨称一艘载有中国公民的船只倾覆",
+      "onboard_time": 1663921106,
+      "rank": 45,
+      "category": "国内要闻,国外要闻"
+    },
+    {
       "raw_hot": 120278,
       "num": 120278,
       "word": "9月22日新增本土无症状627例",
@@ -1161,14 +1233,6 @@
       "onboard_time": 1663901312,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 119972,
-      "num": 119972,
-      "word": "郭晓婷GQ采访",
-      "onboard_time": 1663919426,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 114910,
@@ -1193,6 +1257,14 @@
       "onboard_time": 1663861469,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112637,
+      "num": 112637,
+      "word": "如何看待人类有望在元宇宙永生",
+      "onboard_time": 1663921646,
+      "rank": 47,
+      "category": "其它"
     },
     {
       "raw_hot": 107648,
@@ -1403,6 +1475,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 50015,
+      "num": 1431051,
+      "word": "24节气里的丰收底色",
+      "onboard_time": 1663919787,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 44304,
       "num": 44304,
       "word": "口腔种植体集采将开展",
@@ -1569,6 +1649,14 @@
       "onboard_time": 1663878550,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3447,
+      "num": 334073,
+      "word": "如果MPV有段位",
+      "onboard_time": 1663920027,
+      "rank": 14,
+      "category": "科技"
     }
   ],
   "hotgov_list": [
