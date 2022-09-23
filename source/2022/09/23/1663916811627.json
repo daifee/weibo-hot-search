@@ -1,0 +1,410 @@
+{
+  "runTime": 1663916811627,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3564125,
+        "num": 3564125,
+        "word": "央视揭秘羊了个羊通关诈骗陷阱",
+        "onboard_time": 1663909888,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1064522,
+        "num": 1064522,
+        "word": "唐山打人案一审宣判",
+        "onboard_time": 1663900829,
+        "rank": 1,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 29856,
+        "num": 869407,
+        "word": "惊艳了整个秋天的丰收色",
+        "onboard_time": 1663849649,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1210820,
+        "num": 856348,
+        "word": "网传一老师将收礼记录误发家长群",
+        "onboard_time": 1663910789,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 839350,
+        "num": 839350,
+        "word": "爱奇艺未来1年电视剧排播表",
+        "onboard_time": 1663915888,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 667961,
+        "num": 667961,
+        "word": "关晓彤赵露思新剧二搭",
+        "onboard_time": 1663911388,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 622606,
+        "num": 622606,
+        "word": "村民4只羊被偷民警找回6只",
+        "onboard_time": 1663912468,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572286,
+        "num": 572286,
+        "word": "美国核航母群抵达韩国",
+        "onboard_time": 1663907615,
+        "rank": 7,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 548648,
+        "num": 548648,
+        "word": "阿爽",
+        "onboard_time": 1663908155,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 498515,
+        "num": 498515,
+        "word": "女子恋爱2个月偷男友近万元",
+        "onboard_time": 1663907854,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 627923,
+        "num": 474208,
+        "word": "李现一天两封解锁金九银十",
+        "onboard_time": 1663911330,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 416242,
+        "num": 416242,
+        "word": "女子深夜假装去世母亲给自己回微信",
+        "onboard_time": 1663915226,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380691,
+        "num": 380691,
+        "word": "女子瘦20斤脑内取出27厘米长活虫",
+        "onboard_time": 1663893270,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366533,
+        "num": 366533,
+        "word": "16岁少年打工买奥迪无证上高速",
+        "onboard_time": 1663903472,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357043,
+        "num": 357043,
+        "word": "王鹤棣人物封面",
+        "onboard_time": 1663916065,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 352310,
+        "num": 352310,
+        "word": "辣到时吃什么解辣最管用",
+        "onboard_time": 1663910314,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 299286,
+        "num": 299286,
+        "word": "苍兰诀连婚茶都备好了",
+        "onboard_time": 1663899384,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267434,
+        "num": 267434,
+        "word": "以前的四川人捡到大熊猫",
+        "onboard_time": 1663907434,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 253507,
+        "num": 253507,
+        "word": "长沙车主百天0违法获奖1吨汽油",
+        "onboard_time": 1663909293,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233538,
+        "num": 233538,
+        "word": "乌克兰4地入俄公投从堪察加开始",
+        "onboard_time": 1663905991,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 230792,
+        "num": 230792,
+        "word": "底线拍了江歌案",
+        "onboard_time": 1663896746,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227920,
+        "num": 227920,
+        "word": "浙江衢州隧道车祸",
+        "onboard_time": 1663908991,
+        "rank": 21,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 224681,
+        "num": 224681,
+        "word": "戴眼镜的人到底有多苦恼",
+        "onboard_time": 1663910250,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221140,
+        "num": 221140,
+        "word": "成都新增本土确诊病例3例",
+        "onboard_time": 1663904491,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214664,
+        "num": 214664,
+        "word": "生鱼片由我国唐朝传入日本",
+        "onboard_time": 1663911630,
+        "rank": 24,
+        "category": "综艺,美食"
+      },
+      {
+        "raw_hot": 210826,
+        "num": 210826,
+        "word": "金晨王安宇沙滩吻花絮",
+        "onboard_time": 1663911268,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209910,
+        "num": 209910,
+        "word": "魏大勋被点名交换儿子",
+        "onboard_time": 1663915528,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194845,
+        "num": 194845,
+        "word": "老师目睹学生车祸后在原地站岗16年",
+        "onboard_time": 1663900706,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 184708,
+        "num": 184708,
+        "word": "V5改名为NIP",
+        "onboard_time": 1663904552,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184683,
+        "num": 184683,
+        "word": "月嫂临走前做各种面食塞满冰箱",
+        "onboard_time": 1663900286,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190062,
+        "num": 183772,
+        "word": "王一博第一部上映的电影",
+        "onboard_time": 1663908694,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182660,
+        "num": 182660,
+        "word": "男子玩密室逃脱被吓摔成十级伤残",
+        "onboard_time": 1663908813,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176462,
+        "num": 176462,
+        "word": "韩总统府称尹锡悦没有辱骂美国国会",
+        "onboard_time": 1663915948,
+        "rank": 32,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 173714,
+        "num": 173714,
+        "word": "邓紫棋MV荧幕初吻",
+        "onboard_time": 1663912167,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 168908,
+        "num": 168908,
+        "word": "DR回应成本4000卖1.5万",
+        "onboard_time": 1663906714,
+        "rank": 34,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 162534,
+        "num": 162534,
+        "word": "张彬彬说虞美人等于虞书欣",
+        "onboard_time": 1663913550,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159510,
+        "num": 159510,
+        "word": "司仪主持完婚礼上桌吃饭被扣尾款",
+        "onboard_time": 1663905812,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157122,
+        "num": 157122,
+        "word": "饿了么",
+        "onboard_time": 1663902874,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 155170,
+        "num": 155170,
+        "word": "苹果正研发两款折叠屏iPhone",
+        "onboard_time": 1663903413,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 19750,
+        "num": 152891,
+        "word": "高德地图界面变成3D立体风",
+        "onboard_time": 1663916428,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 152317,
+        "num": 152317,
+        "word": "女运动员回应穿铁三服被指太露骨",
+        "onboard_time": 1663902994,
+        "rank": 40,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 148372,
+        "num": 148372,
+        "word": "安卓灵动岛APP上架",
+        "onboard_time": 1663899267,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 148004,
+        "num": 148004,
+        "word": "总喜欢半夜找主人玩的猫咪",
+        "onboard_time": 1663914564,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131109,
+        "num": 131109,
+        "word": "为什么说买东西而不是买南北",
+        "onboard_time": 1663904071,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126438,
+        "num": 126438,
+        "word": "中国女篮vs波黑女篮",
+        "onboard_time": 1663910374,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125846,
+        "num": 125846,
+        "word": "男子暴晒1天钓上1条鱼却被猫抢走",
+        "onboard_time": 1663900167,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122651,
+        "num": 122651,
+        "word": "父亲再婚后起诉5岁儿子降抚养费",
+        "onboard_time": 1663893030,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113896,
+        "num": 113896,
+        "word": "义乌发现5例省外输入阳性感染者",
+        "onboard_time": 1663901853,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107648,
+        "num": 107648,
+        "word": "再耳背就不礼貌了",
+        "onboard_time": 1663915167,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106741,
+        "num": 106741,
+        "word": "徐艺洋mirrormirror舞蹈MV",
+        "onboard_time": 1663908211,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#端牢中国人的饭碗#"
+    }
+  }
+}
