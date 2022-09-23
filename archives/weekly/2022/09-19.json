@@ -1,6 +1,6 @@
 {
   "startTime": 1663518759246,
-  "endTime": 1663964776141,
+  "endTime": 1663965762393,
   "band_list": [
     {
       "raw_hot": 11177915,
@@ -10243,6 +10243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41900,
+      "num": 31386,
+      "word": "富士康内部人士回应拆除iPhone14部分产线",
+      "onboard_time": 1663961231,
+      "rank": 46,
+      "category": "科技"
+    },
+    {
       "raw_hot": 40340,
       "num": 40340,
       "word": "中国制造出海的能力有多强",
@@ -10289,14 +10297,6 @@
       "onboard_time": 1663665207,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30139,
-      "num": 30139,
-      "word": "富士康内部人士回应拆除iPhone14部分产线",
-      "onboard_time": 1663961231,
-      "rank": 46,
-      "category": "科技"
     },
     {
       "raw_hot": 29285,
@@ -10355,6 +10355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 21045,
+      "num": 21045,
+      "word": "杭州发放3441.71万餐饮消费券",
+      "onboard_time": 1663962731,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19933,
       "num": 359244,
       "word": "神仙打架的新势力旗舰",
@@ -10409,14 +10417,6 @@
       "onboard_time": 1663958353,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 16304,
-      "num": 16304,
-      "word": "杭州发放3441.71万餐饮消费券",
-      "onboard_time": 1663962731,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16113,
@@ -10555,6 +10555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 9317,
+      "num": 8821,
+      "word": "鬼吹灯铁三角三季三搭",
+      "onboard_time": 1663965071,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 9303,
       "num": 9303,
       "word": "这些食物别生吃了",
@@ -10601,6 +10609,14 @@
       "onboard_time": 1663535351,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 7461,
+      "num": 7461,
+      "word": "理想one停产后保障措施公布",
+      "onboard_time": 1663964831,
+      "rank": 43,
+      "category": "科技"
     },
     {
       "raw_hot": 7383,
@@ -10675,6 +10691,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 6990,
+      "num": 6990,
+      "word": "中国县域人口密度排行榜",
+      "onboard_time": 1663965371,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 6988,
       "num": 6988,
       "word": "老人发病公交司机冲进派出所求助",
@@ -10731,6 +10755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 6571,
+      "num": 6571,
+      "word": "北京试行二手房卖一买一并行办理",
+      "onboard_time": 1663964890,
+      "rank": 45,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 6570,
       "num": 6570,
       "word": "85岁老人捐遗体全家多人登记捐器官",
@@ -10753,6 +10785,14 @@
       "onboard_time": 1663536733,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 6278,
+      "num": 6278,
+      "word": "医院停水消防多次往返送水救人",
+      "onboard_time": 1663965490,
+      "rank": 46,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 6080,
@@ -10793,6 +10833,14 @@
       "onboard_time": 1663881311,
       "rank": 46,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 5972,
+      "num": 5972,
+      "word": "航母三兄弟最近都在忙什么",
+      "onboard_time": 1663965612,
+      "rank": 49,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 5844,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1663965762393,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 155824,
+        "num": 155824,
+        "word": "1家4人查出幽门螺杆菌孩子疼得打滚",
+        "onboard_time": 1663947746,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97378,
+        "num": 97378,
+        "word": "官方回应网红称1800万包下高邮湖",
+        "onboard_time": 1663946430,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9729,
+        "num": 81410,
+        "word": "中国航母这10年的那些名场面",
+        "onboard_time": 1663939107,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 76896,
+        "num": 76896,
+        "word": "凛冬将至欧洲狂买中国取暖设备",
+        "onboard_time": 1663948048,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60233,
+        "num": 60233,
+        "word": "自称骑马回国当事人道歉",
+        "onboard_time": 1663946307,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40887,
+        "num": 40887,
+        "word": "没有社交是什么感觉",
+        "onboard_time": 1663944330,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 38158,
+        "num": 38158,
+        "word": "你其实不喜欢谈恋爱",
+        "onboard_time": 1663946249,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 37712,
+        "num": 37712,
+        "word": "央视揭秘羊了个羊通关诈骗陷阱",
+        "onboard_time": 1663909888,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 33026,
+        "num": 33026,
+        "word": "大巴司机3小时车程玩2小时手机",
+        "onboard_time": 1663940370,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31698,
+        "num": 31698,
+        "word": "法考",
+        "onboard_time": 1663938925,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 41900,
+        "num": 31386,
+        "word": "富士康内部人士回应拆除iPhone14部分产线",
+        "onboard_time": 1663961231,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 30316,
+        "num": 30316,
+        "word": "女学霸凭6科第一7次霸榜光荣榜",
+        "onboard_time": 1663946850,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29905,
+        "num": 29905,
+        "word": "时尚芭莎镜头下的垫底辣孩",
+        "onboard_time": 1663931547,
+        "rank": 12,
+        "category": "网红,时尚"
+      },
+      {
+        "raw_hot": 26658,
+        "num": 26658,
+        "word": "为什么越来越难恋爱了",
+        "onboard_time": 1663932446,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26377,
+        "num": 26377,
+        "word": "灭活疫苗与肺结节风险没有关联",
+        "onboard_time": 1663942227,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22642,
+        "num": 22642,
+        "word": "骄阳伴我",
+        "onboard_time": 1663932505,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21137,
+        "num": 21137,
+        "word": "王嘉尔Spotify月收听人数破300万",
+        "onboard_time": 1663950384,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 21045,
+        "num": 21045,
+        "word": "杭州发放3441.71万餐饮消费券",
+        "onboard_time": 1663962731,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20330,
+        "num": 20330,
+        "word": "东八区的先生们",
+        "onboard_time": 1663936226,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19407,
+        "num": 19407,
+        "word": "哪一刻意识到爱自己很重要",
+        "onboard_time": 1663947629,
+        "rank": 19,
+        "category": "作品衍生,情感"
+      },
+      {
+        "raw_hot": 44664,
+        "num": 19341,
+        "word": "网曝上海迪士尼乐园内家长抱孩子在路边大便",
+        "onboard_time": 1663930046,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 37272,
+        "num": 19261,
+        "word": "21岁单亲妈妈已办理全职入职",
+        "onboard_time": 1663927645,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32533,
+        "num": 19002,
+        "word": "张翰让我学会了自拍",
+        "onboard_time": 1663944149,
+        "rank": 22,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 18574,
+        "num": 18574,
+        "word": "假如影视剧Bking在一个群",
+        "onboard_time": 1663948946,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18364,
+        "num": 18364,
+        "word": "当两个广东人努力用广普交流",
+        "onboard_time": 1663949067,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 17487,
+        "num": 17487,
+        "word": "家长掏万元给女儿全班换新桌椅",
+        "onboard_time": 1663933047,
+        "rank": 25,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 16736,
+        "num": 16736,
+        "word": "一年一度喜剧大赛真的在演我",
+        "onboard_time": 1663935266,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16213,
+        "num": 16213,
+        "word": "拒绝恋爱脑的主角",
+        "onboard_time": 1663948107,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 14121,
+        "num": 14121,
+        "word": "美决定不限制从中国进口钕磁体",
+        "onboard_time": 1663922548,
+        "rank": 28,
+        "category": "国内要闻,国外要闻"
+      },
+      {
+        "raw_hot": 13392,
+        "num": 13392,
+        "word": "女子闯红灯被撞质问为什么不让我",
+        "onboard_time": 1663927107,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15293,
+        "num": 13355,
+        "word": "电视剧底线",
+        "onboard_time": 1663943789,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 14186,
+        "num": 13336,
+        "word": "成为最低分的作品有多难",
+        "onboard_time": 1663939768,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 13272,
+        "num": 13272,
+        "word": "95后女子用数据分析帮家乡卖万斤桃",
+        "onboard_time": 1663935866,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12955,
+        "num": 12955,
+        "word": "房地产金融化泡沫化势头得到实质性扭转",
+        "onboard_time": 1663932146,
+        "rank": 33,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 12355,
+        "num": 12355,
+        "word": "黄大妈说不可能要求年轻人豁达",
+        "onboard_time": 1663953497,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 11316,
+        "num": 11316,
+        "word": "警方通报滨州职业学院宿舍刑事案件",
+        "onboard_time": 1663920027,
+        "rank": 35,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 11063,
+        "num": 11063,
+        "word": "狗狗真的可以治愈一切",
+        "onboard_time": 1663949666,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 11022,
+        "num": 11022,
+        "word": "鬓边不是海棠红",
+        "onboard_time": 1663919426,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 9159,
+        "num": 9159,
+        "word": "原来茄子不是麻的",
+        "onboard_time": 1663939408,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 8870,
+        "num": 8870,
+        "word": "四姑娘山今秋第一场雪",
+        "onboard_time": 1663950682,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9513,
+        "num": 8840,
+        "word": "内娱新生代帅哥颜值大赏",
+        "onboard_time": 1663933405,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 9317,
+        "num": 8821,
+        "word": "鬼吹灯铁三角三季三搭",
+        "onboard_time": 1663965071,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 8785,
+        "num": 8785,
+        "word": "女子深夜假装去世母亲给自己回微信",
+        "onboard_time": 1663915226,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7461,
+        "num": 7461,
+        "word": "理想one停产后保障措施公布",
+        "onboard_time": 1663964831,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 6990,
+        "num": 6990,
+        "word": "中国县域人口密度排行榜",
+        "onboard_time": 1663965371,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6571,
+        "num": 6571,
+        "word": "北京试行二手房卖一买一并行办理",
+        "onboard_time": 1663964890,
+        "rank": 45,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 6278,
+        "num": 6278,
+        "word": "医院停水消防多次往返送水救人",
+        "onboard_time": 1663965490,
+        "rank": 46,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 6195,
+        "num": 6195,
+        "word": "狗狗自己捡的小猫自己教",
+        "onboard_time": 1663945231,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 5975,
+        "num": 5975,
+        "word": "辣椒做成口红为啥不辣了",
+        "onboard_time": 1663941267,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5972,
+        "num": 5972,
+        "word": "航母三兄弟最近都在忙什么",
+        "onboard_time": 1663965612,
+        "rank": 49,
+        "category": "社会新闻,军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致信祝贺中国新闻社建社70周年#"
+    }
+  }
+}
