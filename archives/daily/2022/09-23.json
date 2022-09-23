@@ -1,6 +1,6 @@
 {
   "startTime": 1663864508123,
-  "endTime": 1663909489567,
+  "endTime": 1663913006680,
   "band_list": [
     {
       "raw_hot": 11177915,
@@ -9,6 +9,14 @@
       "onboard_time": 1663900829,
       "rank": 0,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 4117911,
+      "num": 4117911,
+      "word": "央视揭秘羊了个羊通关诈骗陷阱",
+      "onboard_time": 1663909888,
+      "rank": 0,
+      "category": "游戏"
     },
     {
       "raw_hot": 1987111,
@@ -41,6 +49,14 @@
       "onboard_time": 1663900706,
       "rank": 11,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1506369,
+      "num": 1506369,
+      "word": "阿爽",
+      "onboard_time": 1663908155,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 1185854,
@@ -83,12 +99,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 988150,
-      "num": 988150,
-      "word": "阿爽",
-      "onboard_time": 1663908155,
-      "rank": 21,
-      "category": "体育"
+      "raw_hot": 987256,
+      "num": 987256,
+      "word": "美国核航母群抵达韩国",
+      "onboard_time": 1663907615,
+      "rank": 13,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 978575,
@@ -131,6 +147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 814489,
+      "num": 814489,
+      "word": "关晓彤赵露思新剧二搭",
+      "onboard_time": 1663911388,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 741928,
       "num": 741928,
       "word": "深圳楼盘604套千万豪宅一天卖光",
@@ -145,6 +169,14 @@
       "onboard_time": 1663896984,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 724913,
+      "num": 724913,
+      "word": "网传一老师将收礼记录误发家长群",
+      "onboard_time": 1663910789,
+      "rank": 6,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 692186,
@@ -171,12 +203,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 622156,
-      "num": 622156,
-      "word": "美国核航母群抵达韩国",
-      "onboard_time": 1663907615,
-      "rank": 13,
-      "category": "国外要闻,军事"
+      "raw_hot": 633821,
+      "num": 633821,
+      "word": "女子恋爱2个月偷男友近万元",
+      "onboard_time": 1663907854,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 597633,
@@ -233,6 +265,14 @@
       "onboard_time": 1663857331,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 531058,
+      "num": 531058,
+      "word": "以前的四川人捡到大熊猫",
+      "onboard_time": 1663907434,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 518288,
@@ -331,6 +371,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 431041,
+      "num": 431041,
+      "word": "王一博第一部上映的电影",
+      "onboard_time": 1663908694,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 418642,
+      "num": 418642,
+      "word": "李现一天两封解锁金九银十",
+      "onboard_time": 1663911330,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 409263,
       "num": 409263,
       "word": "V5改名为NIP",
@@ -345,6 +401,14 @@
       "onboard_time": 1663877651,
       "rank": 42,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 406735,
+      "num": 406735,
+      "word": "浙江衢州隧道车祸",
+      "onboard_time": 1663908991,
+      "rank": 39,
+      "category": "社会负面"
     },
     {
       "raw_hot": 401925,
@@ -403,14 +467,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 341820,
-      "num": 341820,
-      "word": "以前的四川人捡到大熊猫",
-      "onboard_time": 1663907434,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 337594,
       "num": 337594,
       "word": "德国称希望成为安理会常任理事国",
@@ -459,20 +515,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 308530,
+      "num": 308530,
+      "word": "长沙车主百天0违法获奖1吨汽油",
+      "onboard_time": 1663909293,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305052,
+      "num": 305052,
+      "word": "邓紫棋MV荧幕初吻",
+      "onboard_time": 1663912167,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 276647,
       "num": 276647,
       "word": "女子办证时偷偷递纸条给民警求助",
       "onboard_time": 1663869434,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 274057,
-      "num": 274057,
-      "word": "王一博第一部上映的电影",
-      "onboard_time": 1663908694,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 273305,
@@ -491,12 +555,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 264787,
-      "num": 264787,
-      "word": "女子恋爱2个月偷男友近万元",
-      "onboard_time": 1663907854,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 266886,
+      "num": 266886,
+      "word": "辣到时吃什么解辣最管用",
+      "onboard_time": 1663910314,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 263390,
+      "num": 263390,
+      "word": "徐艺洋mirrormirror舞蹈MV",
+      "onboard_time": 1663908211,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 258315,
@@ -513,14 +585,6 @@
       "onboard_time": 1663902874,
       "rank": 26,
       "category": "科技"
-    },
-    {
-      "raw_hot": 251234,
-      "num": 251234,
-      "word": "徐艺洋mirrormirror舞蹈MV",
-      "onboard_time": 1663908211,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 240615,
@@ -563,6 +627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 222629,
+      "num": 222629,
+      "word": "男子玩密室逃脱被吓摔成十级伤残",
+      "onboard_time": 1663908813,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221167,
       "num": 221167,
       "word": "女主播是如何将你养成榜一大哥的",
@@ -577,6 +649,14 @@
       "onboard_time": 1663884072,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206392,
+      "num": 206392,
+      "word": "戴眼镜的人到底有多苦恼",
+      "onboard_time": 1663910250,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 203811,
@@ -691,6 +771,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 179907,
+      "num": 179907,
+      "word": "国庆档新片可以买票了",
+      "onboard_time": 1663912649,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 178233,
       "num": 178233,
       "word": "文俊辉单曲LIMBO上线",
@@ -707,12 +795,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 172257,
-      "num": 172257,
-      "word": "浙江衢州隧道车祸",
-      "onboard_time": 1663908991,
+      "raw_hot": 173480,
+      "num": 173480,
+      "word": "极限挑战宝藏行",
+      "onboard_time": 1663911448,
       "rank": 39,
-      "category": "社会负面"
+      "category": "综艺"
     },
     {
       "raw_hot": 171225,
@@ -720,6 +808,14 @@
       "word": "男子骗39名女子56万获刑11年半",
       "onboard_time": 1663878790,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170831,
+      "num": 170831,
+      "word": "村民4只羊被偷民警找回6只",
+      "onboard_time": 1663912468,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -747,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167303,
+      "num": 167303,
+      "word": "生鱼片由我国唐朝传入日本",
+      "onboard_time": 1663911630,
+      "rank": 41,
+      "category": "综艺,美食"
+    },
+    {
       "raw_hot": 157952,
       "num": 157952,
       "word": "新娘出嫁时跪谢83岁奶奶",
@@ -761,14 +865,6 @@
       "onboard_time": 1663861290,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 152519,
-      "num": 152519,
-      "word": "男子玩密室逃脱被吓摔成十级伤残",
-      "onboard_time": 1663908813,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151973,
@@ -827,12 +923,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 141019,
-      "num": 141019,
-      "word": "长沙车主百天0违法获奖1吨汽油",
-      "onboard_time": 1663909293,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 140704,
+      "num": 140704,
+      "word": "中国女篮vs波黑女篮",
+      "onboard_time": 1663910374,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 137896,
@@ -868,7 +964,7 @@
     },
     {
       "raw_hot": 133694,
-      "num": 1352288,
+      "num": 1542969,
       "word": "惊艳了整个秋天的丰收色",
       "onboard_time": 1663849649,
       "rank": 2,
@@ -881,6 +977,14 @@
       "onboard_time": 1663876331,
       "rank": 16,
       "category": "军事,国外要闻"
+    },
+    {
+      "raw_hot": 132216,
+      "num": 132216,
+      "word": "王俊凯说万里归途即将启程",
+      "onboard_time": 1663912107,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 130533,
@@ -905,6 +1009,14 @@
       "onboard_time": 1663853909,
       "rank": 36,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 123848,
+      "num": 123848,
+      "word": "金晨王安宇沙滩吻花絮",
+      "onboard_time": 1663911268,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 120278,
@@ -1176,6 +1288,14 @@
       "word": "致敬平民英雄",
       "onboard_time": 1663882092,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14912,
+      "num": 180631,
+      "word": "张扬带你看中国载人航天",
+      "onboard_time": 1663909771,
+      "rank": 34,
       "category": "社会新闻"
     },
     {

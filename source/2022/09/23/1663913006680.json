@@ -1,0 +1,410 @@
+{
+  "runTime": 1663913006680,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4117911,
+        "num": 4117911,
+        "word": "央视揭秘羊了个羊通关诈骗陷阱",
+        "onboard_time": 1663909888,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1649285,
+        "num": 1649285,
+        "word": "唐山打人案一审宣判",
+        "onboard_time": 1663900829,
+        "rank": 1,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 32716,
+        "num": 1542969,
+        "word": "惊艳了整个秋天的丰收色",
+        "onboard_time": 1663849649,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1506369,
+        "num": 1506369,
+        "word": "阿爽",
+        "onboard_time": 1663908155,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 987256,
+        "num": 987256,
+        "word": "美国核航母群抵达韩国",
+        "onboard_time": 1663907615,
+        "rank": 4,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 814489,
+        "num": 814489,
+        "word": "关晓彤赵露思新剧二搭",
+        "onboard_time": 1663911388,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 724913,
+        "num": 724913,
+        "word": "网传一老师将收礼记录误发家长群",
+        "onboard_time": 1663910789,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 687402,
+        "num": 687402,
+        "word": "女子瘦20斤脑内取出27厘米长活虫",
+        "onboard_time": 1663893270,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 633821,
+        "num": 633821,
+        "word": "女子恋爱2个月偷男友近万元",
+        "onboard_time": 1663907854,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 548248,
+        "num": 548248,
+        "word": "16岁少年打工买奥迪无证上高速",
+        "onboard_time": 1663903472,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537890,
+        "num": 537890,
+        "word": "老师目睹学生车祸后在原地站岗16年",
+        "onboard_time": 1663900706,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 531479,
+        "num": 531479,
+        "word": "王鹤棣我喜欢自己的全部",
+        "onboard_time": 1663904913,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 531058,
+        "num": 531058,
+        "word": "以前的四川人捡到大熊猫",
+        "onboard_time": 1663907434,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 432017,
+        "num": 432017,
+        "word": "苍兰诀连婚茶都备好了",
+        "onboard_time": 1663899384,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 431041,
+        "num": 431041,
+        "word": "王一博第一部上映的电影",
+        "onboard_time": 1663908694,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 418642,
+        "num": 418642,
+        "word": "李现一天两封解锁金九银十",
+        "onboard_time": 1663911330,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 406735,
+        "num": 406735,
+        "word": "浙江衢州隧道车祸",
+        "onboard_time": 1663908991,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 403865,
+        "num": 403865,
+        "word": "月嫂临走前做各种面食塞满冰箱",
+        "onboard_time": 1663900286,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377151,
+        "num": 377151,
+        "word": "底线拍了江歌案",
+        "onboard_time": 1663896746,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 356742,
+        "num": 356742,
+        "word": "司仪主持完婚礼上桌吃饭被扣尾款",
+        "onboard_time": 1663905812,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339355,
+        "num": 339355,
+        "word": "乌克兰4地入俄公投从堪察加开始",
+        "onboard_time": 1663905991,
+        "rank": 20,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 308530,
+        "num": 308530,
+        "word": "长沙车主百天0违法获奖1吨汽油",
+        "onboard_time": 1663909293,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305052,
+        "num": 305052,
+        "word": "邓紫棋MV荧幕初吻",
+        "onboard_time": 1663912167,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 266886,
+        "num": 266886,
+        "word": "辣到时吃什么解辣最管用",
+        "onboard_time": 1663910314,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 263390,
+        "num": 263390,
+        "word": "徐艺洋mirrormirror舞蹈MV",
+        "onboard_time": 1663908211,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 260768,
+        "num": 260768,
+        "word": "为什么说买东西而不是买南北",
+        "onboard_time": 1663904071,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256762,
+        "num": 256762,
+        "word": "成都新增本土确诊病例3例",
+        "onboard_time": 1663904491,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228128,
+        "num": 228128,
+        "word": "V5改名为NIP",
+        "onboard_time": 1663904552,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 227915,
+        "num": 227915,
+        "word": "安卓灵动岛APP上架",
+        "onboard_time": 1663899267,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 222629,
+        "num": 222629,
+        "word": "男子玩密室逃脱被吓摔成十级伤残",
+        "onboard_time": 1663908813,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209607,
+        "num": 209607,
+        "word": "铁人三项女运动员比赛服被批不得体",
+        "onboard_time": 1663899087,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206392,
+        "num": 206392,
+        "word": "戴眼镜的人到底有多苦恼",
+        "onboard_time": 1663910250,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201470,
+        "num": 201470,
+        "word": "DR回应成本4000卖1.5万",
+        "onboard_time": 1663906714,
+        "rank": 32,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 186673,
+        "num": 186673,
+        "word": "男子弃百万年薪种红薯3年挣350万",
+        "onboard_time": 1663904913,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14912,
+        "num": 180631,
+        "word": "张扬带你看中国载人航天",
+        "onboard_time": 1663909771,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179907,
+        "num": 179907,
+        "word": "国庆档新片可以买票了",
+        "onboard_time": 1663912649,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176184,
+        "num": 176184,
+        "word": "男子暴晒1天钓上1条鱼却被猫抢走",
+        "onboard_time": 1663900167,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173588,
+        "num": 173588,
+        "word": "中国最便宜的火车票仅售1元",
+        "onboard_time": 1663905034,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173562,
+        "num": 173562,
+        "word": "父亲再婚后起诉5岁儿子降抚养费",
+        "onboard_time": 1663893030,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173480,
+        "num": 173480,
+        "word": "极限挑战宝藏行",
+        "onboard_time": 1663911448,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170831,
+        "num": 170831,
+        "word": "村民4只羊被偷民警找回6只",
+        "onboard_time": 1663912468,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167303,
+        "num": 167303,
+        "word": "生鱼片由我国唐朝传入日本",
+        "onboard_time": 1663911630,
+        "rank": 41,
+        "category": "综艺,美食"
+      },
+      {
+        "raw_hot": 163397,
+        "num": 163397,
+        "word": "苹果正研发两款折叠屏iPhone",
+        "onboard_time": 1663903413,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 162103,
+        "num": 162103,
+        "word": "女运动员回应穿铁三服被指太露骨",
+        "onboard_time": 1663902994,
+        "rank": 43,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 140704,
+        "num": 140704,
+        "word": "中国女篮vs波黑女篮",
+        "onboard_time": 1663910374,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138592,
+        "num": 138592,
+        "word": "义乌发现5例省外输入阳性感染者",
+        "onboard_time": 1663901853,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132216,
+        "num": 132216,
+        "word": "王俊凯说万里归途即将启程",
+        "onboard_time": 1663912107,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131172,
+        "num": 131172,
+        "word": "男子网购鳄鱼养6年咬伤邻居",
+        "onboard_time": 1663899384,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123848,
+        "num": 123848,
+        "word": "金晨王安宇沙滩吻花絮",
+        "onboard_time": 1663911268,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121454,
+        "num": 121454,
+        "word": "女子陪闺蜜看病自己查出癌症",
+        "onboard_time": 1663893750,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#端牢中国人的饭碗#"
+    }
+  }
+}

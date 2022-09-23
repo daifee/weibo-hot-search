@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1663909489567,
+  "endTime": 1663913006680,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -345,6 +345,14 @@
       "onboard_time": 1662467728,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4117911,
+      "num": 4117911,
+      "word": "央视揭秘羊了个羊通关诈骗陷阱",
+      "onboard_time": 1663909888,
+      "rank": 0,
+      "category": "游戏"
     },
     {
       "raw_hot": 4116263,
@@ -3729,6 +3737,14 @@
       "onboard_time": 1662455849,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1506369,
+      "num": 1506369,
+      "word": "阿爽",
+      "onboard_time": 1663908155,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 1504199,
@@ -7555,20 +7571,20 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 988150,
-      "num": 988150,
-      "word": "阿爽",
-      "onboard_time": 1663908155,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 988062,
       "num": 988062,
       "word": "大连一社区抗原检测阳性奖励2000元",
       "onboard_time": 1662354351,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 987256,
+      "num": 987256,
+      "word": "美国核航母群抵达韩国",
+      "onboard_time": 1663907615,
+      "rank": 13,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 987199,
@@ -9723,6 +9739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 814489,
+      "num": 814489,
+      "word": "关晓彤赵露思新剧二搭",
+      "onboard_time": 1663911388,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 814178,
       "num": 814178,
       "word": "成都人个个都是时间管理高手",
@@ -10897,6 +10921,14 @@
       "onboard_time": 1662211230,
       "rank": 35,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 724913,
+      "num": 724913,
+      "word": "网传一老师将收礼记录误发家长群",
+      "onboard_time": 1663910789,
+      "rank": 6,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 724433,
@@ -12475,6 +12507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 633821,
+      "num": 633821,
+      "word": "女子恋爱2个月偷男友近万元",
+      "onboard_time": 1663907854,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 633645,
       "num": 633645,
       "word": "灵动岛",
@@ -12657,14 +12697,6 @@
       "onboard_time": 1662822114,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 622156,
-      "num": 622156,
-      "word": "美国核航母群抵达韩国",
-      "onboard_time": 1663907615,
-      "rank": 13,
-      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 621899,
@@ -14913,6 +14945,14 @@
       "onboard_time": 1663380988,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 531058,
+      "num": 531058,
+      "word": "以前的四川人捡到大熊猫",
+      "onboard_time": 1663907434,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 531040,
@@ -18179,6 +18219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 431041,
+      "num": 431041,
+      "word": "王一博第一部上映的电影",
+      "onboard_time": 1663908694,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 430721,
       "num": 430721,
       "word": "张彬彬拥抱虞书欣救赎感有了",
@@ -18712,6 +18760,14 @@
       "word": "王鹤棣人物封面",
       "onboard_time": 1663149928,
       "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 418642,
+      "num": 418642,
+      "word": "李现一天两封解锁金九银十",
+      "onboard_time": 1663911330,
+      "rank": 15,
       "category": "作品衍生,时尚"
     },
     {
@@ -19305,6 +19361,14 @@
       "onboard_time": 1662450087,
       "rank": 27,
       "category": "科技"
+    },
+    {
+      "raw_hot": 406735,
+      "num": 406735,
+      "word": "浙江衢州隧道车祸",
+      "onboard_time": 1663908991,
+      "rank": 39,
+      "category": "社会负面"
     },
     {
       "raw_hot": 406520,
@@ -22707,14 +22771,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 341820,
-      "num": 341820,
-      "word": "以前的四川人捡到大熊猫",
-      "onboard_time": 1663907434,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 341579,
       "num": 341579,
       "word": "专家称美元资产越来越不值钱",
@@ -25003,6 +25059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 308530,
+      "num": 308530,
+      "word": "长沙车主百天0违法获奖1吨汽油",
+      "onboard_time": 1663909293,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308349,
       "num": 308349,
       "word": "原来大象洗澡是会笑的",
@@ -25249,6 +25313,14 @@
       "onboard_time": 1663587747,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305052,
+      "num": 305052,
+      "word": "邓紫棋MV荧幕初吻",
+      "onboard_time": 1663912167,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 305031,
@@ -27931,14 +28003,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 274057,
-      "num": 274057,
-      "word": "王一博第一部上映的电影",
-      "onboard_time": 1663908694,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 273986,
       "num": 273986,
       "word": "思文",
@@ -28659,6 +28723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 266886,
+      "num": 266886,
+      "word": "辣到时吃什么解辣最管用",
+      "onboard_time": 1663910314,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 266753,
       "num": 266753,
       "word": "原来流浪猫真的有情报网",
@@ -28891,14 +28963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 264787,
-      "num": 264787,
-      "word": "女子恋爱2个月偷男友近万元",
-      "onboard_time": 1663907854,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 264704,
       "num": 262761,
       "word": "任嘉伦说最近迷陆炎迷的得了炎症",
@@ -28993,6 +29057,14 @@
       "onboard_time": 1662561631,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 263390,
+      "num": 263390,
+      "word": "徐艺洋mirrormirror舞蹈MV",
+      "onboard_time": 1663908211,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 263389,
@@ -30033,14 +30105,6 @@
       "onboard_time": 1663313008,
       "rank": 31,
       "category": "音乐,音乐"
-    },
-    {
-      "raw_hot": 251234,
-      "num": 251234,
-      "word": "徐艺洋mirrormirror舞蹈MV",
-      "onboard_time": 1663908211,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 251188,
@@ -32475,6 +32539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222629,
+      "num": 222629,
+      "word": "男子玩密室逃脱被吓摔成十级伤残",
+      "onboard_time": 1663908813,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222593,
       "num": 222593,
       "word": "重新冰冻地球两极可行且便宜",
@@ -33993,6 +34065,14 @@
       "onboard_time": 1663224149,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206392,
+      "num": 206392,
+      "word": "戴眼镜的人到底有多苦恼",
+      "onboard_time": 1663910250,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 206361,
@@ -36595,6 +36675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179907,
+      "num": 179907,
+      "word": "国庆档新片可以买票了",
+      "onboard_time": 1663912649,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 179899,
       "num": 179899,
       "word": "如何维护长期恋爱关系",
@@ -37035,6 +37123,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 173480,
+      "num": 173480,
+      "word": "极限挑战宝藏行",
+      "onboard_time": 1663911448,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173470,
       "num": 173470,
       "word": "华为汽车",
@@ -37145,14 +37241,6 @@
       "onboard_time": 1662530905,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 172257,
-      "num": 172257,
-      "word": "浙江衢州隧道车祸",
-      "onboard_time": 1663908991,
-      "rank": 39,
-      "category": "社会负面"
     },
     {
       "raw_hot": 171770,
@@ -37281,6 +37369,14 @@
       "onboard_time": 1662108807,
       "rank": 38,
       "category": "艺人,美食"
+    },
+    {
+      "raw_hot": 170831,
+      "num": 170831,
+      "word": "村民4只羊被偷民警找回6只",
+      "onboard_time": 1663912468,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170694,
@@ -37617,6 +37713,14 @@
       "onboard_time": 1662420985,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167303,
+      "num": 167303,
+      "word": "生鱼片由我国唐朝传入日本",
+      "onboard_time": 1663911630,
+      "rank": 41,
+      "category": "综艺,美食"
     },
     {
       "raw_hot": 167144,
@@ -39019,14 +39123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 152519,
-      "num": 152519,
-      "word": "男子玩密室逃脱被吓摔成十级伤残",
-      "onboard_time": 1663908813,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 152473,
       "num": 152473,
       "word": "当猫咪是个工作狂",
@@ -40003,14 +40099,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 141019,
-      "num": 141019,
-      "word": "长沙车主百天0违法获奖1吨汽油",
-      "onboard_time": 1663909293,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 140993,
       "num": 140993,
       "word": "陈幸同获成都世乒赛资格",
@@ -40057,6 +40145,14 @@
       "onboard_time": 1662045931,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 140704,
+      "num": 140704,
+      "word": "中国女篮vs波黑女篮",
+      "onboard_time": 1663910374,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 140556,
@@ -40284,7 +40380,7 @@
     },
     {
       "raw_hot": 138097,
-      "num": 1352288,
+      "num": 1542969,
       "word": "惊艳了整个秋天的丰收色",
       "onboard_time": 1663849649,
       "rank": 2,
@@ -40865,6 +40961,14 @@
       "onboard_time": 1663661308,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132216,
+      "num": 132216,
+      "word": "王俊凯说万里归途即将启程",
+      "onboard_time": 1663912107,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 132033,
@@ -41585,6 +41689,14 @@
       "onboard_time": 1663591885,
       "rank": 47,
       "category": "综艺,情感"
+    },
+    {
+      "raw_hot": 123848,
+      "num": 123848,
+      "word": "金晨王安宇沙滩吻花絮",
+      "onboard_time": 1663911268,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 123796,
@@ -45144,6 +45256,14 @@
       "word": "致敬平民英雄",
       "onboard_time": 1663882092,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14912,
+      "num": 180631,
+      "word": "张扬带你看中国载人航天",
+      "onboard_time": 1663909771,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
