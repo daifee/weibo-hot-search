@@ -1,6 +1,6 @@
 {
   "startTime": 1663864508123,
-  "endTime": 1663925206570,
+  "endTime": 1663926250846,
   "band_list": [
     {
       "raw_hot": 11177915,
@@ -211,20 +211,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 827399,
+      "num": 827399,
+      "word": "美决定不限制从中国进口钕磁体",
+      "onboard_time": 1663922548,
+      "rank": 27,
+      "category": "国内要闻,国外要闻"
+    },
+    {
       "raw_hot": 814489,
       "num": 814489,
       "word": "关晓彤赵露思新剧二搭",
       "onboard_time": 1663911388,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 786221,
-      "num": 786221,
-      "word": "美决定不限制从中国进口钕磁体",
-      "onboard_time": 1663922548,
-      "rank": 27,
-      "category": "国内要闻,国外要闻"
     },
     {
       "raw_hot": 741928,
@@ -328,6 +328,14 @@
       "word": "男生打游戏听出网友病危异地报警",
       "onboard_time": 1663899687,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 531691,
+      "num": 323815,
+      "word": "新晋妈妈一巴掌把老公打进医院",
+      "onboard_time": 1663925065,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -635,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 322205,
+      "num": 322205,
+      "word": "广东最干净的海",
+      "onboard_time": 1663923446,
+      "rank": 13,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 316713,
       "num": 316713,
       "word": "下班后的独处好快乐",
@@ -657,14 +673,6 @@
       "onboard_time": 1663912167,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 301717,
-      "num": 301717,
-      "word": "广东最干净的海",
-      "onboard_time": 1663923446,
-      "rank": 13,
-      "category": "旅游"
     },
     {
       "raw_hot": 280227,
@@ -705,6 +713,14 @@
       "onboard_time": 1663861352,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 267590,
+      "num": 267590,
+      "word": "上市2天小鹏G9调整价格配置",
+      "onboard_time": 1663924585,
+      "rank": 28,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 263390,
@@ -761,6 +777,14 @@
       "onboard_time": 1663891047,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233022,
+      "num": 233022,
+      "word": "川沙在逃玲娜贝儿",
+      "onboard_time": 1663924705,
+      "rank": 37,
+      "category": "动漫"
     },
     {
       "raw_hot": 230958,
@@ -865,6 +889,14 @@
       "onboard_time": 1663847189,
       "rank": 15,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 200028,
+      "num": 200028,
+      "word": "虞书欣张彬彬片场加戏嗨了",
+      "onboard_time": 1663922843,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 197119,
@@ -979,14 +1011,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 174218,
-      "num": 174218,
-      "word": "上市2天小鹏G9调整价格配置",
-      "onboard_time": 1663924585,
-      "rank": 28,
-      "category": "财经,科技"
-    },
-    {
       "raw_hot": 173975,
       "num": 173975,
       "word": "胡同官宣定档0925",
@@ -1001,14 +1025,6 @@
       "onboard_time": 1663911448,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 173142,
-      "num": 169648,
-      "word": "虞书欣张彬彬片场加戏嗨了",
-      "onboard_time": 1663922843,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 171225,
@@ -1057,6 +1073,14 @@
       "onboard_time": 1663913550,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 159134,
+      "num": 159134,
+      "word": "男孩给消防员送奶茶被卡进栅栏",
+      "onboard_time": 1663924286,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157952,
@@ -1211,14 +1235,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 131778,
-      "num": 131778,
-      "word": "川沙在逃玲娜贝儿",
-      "onboard_time": 1663924705,
-      "rank": 37,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 130533,
       "num": 130533,
       "word": "潘粤明新剧开分8.2",
@@ -1289,14 +1305,6 @@
       "onboard_time": 1663901312,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 118062,
-      "num": 118062,
-      "word": "新晋妈妈一巴掌把老公打进医院",
-      "onboard_time": 1663925065,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 114910,
@@ -1379,14 +1387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 104039,
-      "num": 104039,
-      "word": "男孩给消防员送奶茶被卡进栅栏",
-      "onboard_time": 1663924286,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 103494,
       "num": 103494,
       "word": "金智秀获韩流电视剧女子演技奖",
@@ -1401,6 +1401,22 @@
       "onboard_time": 1663919006,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98543,
+      "num": 98543,
+      "word": "王一博这就是街舞微电影造型",
+      "onboard_time": 1663925961,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 94047,
+      "num": 94047,
+      "word": "小猫丢脸丢大了",
+      "onboard_time": 1663926083,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 88999,
@@ -1676,7 +1692,7 @@
     },
     {
       "raw_hot": 7007,
-      "num": 281103,
+      "num": 319729,
       "word": "VR世界约球有多酷",
       "onboard_time": 1663924466,
       "rank": 14,
@@ -1762,6 +1778,9 @@
     },
     {
       "word": "#第5个中国农民丰收节#"
+    },
+    {
+      "word": "#重返太空的183天#"
     }
   ]
 }
