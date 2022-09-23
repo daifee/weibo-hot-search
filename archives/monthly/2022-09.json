@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1663972102017,
+  "endTime": 1663973108103,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -35539,6 +35539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 197672,
+      "num": 109986,
+      "word": "京东副总裁蔡磊开启直播带货",
+      "onboard_time": 1663968612,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197261,
       "num": 197261,
       "word": "田曦薇新剧抱了只鸡",
@@ -42779,6 +42787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119308,
+      "num": 105341,
+      "word": "江西95%区域达到特旱",
+      "onboard_time": 1663968552,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119119,
       "num": 119119,
       "word": "JDG拿到赛点",
@@ -42921,14 +42937,6 @@
       "onboard_time": 1663831227,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 116477,
-      "num": 39799,
-      "word": "京东副总裁蔡磊开启直播带货",
-      "onboard_time": 1663968612,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116417,
@@ -45091,6 +45099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74536,
+      "num": 74536,
+      "word": "北京试行二手房卖一买一并行办理",
+      "onboard_time": 1663964890,
+      "rank": 45,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 74418,
       "num": 74418,
       "word": "中秋家乡味",
@@ -45379,14 +45395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 64486,
-      "num": 64486,
-      "word": "江西95%区域达到特旱",
-      "onboard_time": 1663968552,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 63430,
       "num": 2083550,
       "word": "打卡2022服贸会",
@@ -45459,14 +45467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 60645,
-      "num": 60645,
-      "word": "北京试行二手房卖一买一并行办理",
-      "onboard_time": 1663964890,
-      "rank": 45,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 60205,
       "num": 511599,
       "word": "出发救援泸定我可以",
@@ -45537,6 +45537,14 @@
       "onboard_time": 1663789271,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 56812,
+      "num": 56812,
+      "word": "理想one停产后保障措施公布",
+      "onboard_time": 1663964831,
+      "rank": 43,
+      "category": "科技"
     },
     {
       "raw_hot": 56537,
@@ -45683,11 +45691,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 47645,
-      "num": 47645,
-      "word": "理想one停产后保障措施公布",
-      "onboard_time": 1663964831,
-      "rank": 43,
+      "raw_hot": 47510,
+      "num": 47510,
+      "word": "科学家设计出不能传播疟疾的蚊子",
+      "onboard_time": 1663968310,
+      "rank": 46,
       "category": "科技"
     },
     {
@@ -45729,6 +45737,14 @@
       "onboard_time": 1662419901,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 46158,
+      "num": 46158,
+      "word": "辽宁总冠军戒指曝光",
+      "onboard_time": 1663966391,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 45959,
@@ -45804,7 +45820,7 @@
     },
     {
       "raw_hot": 41900,
-      "num": 31386,
+      "num": 36686,
       "word": "富士康内部人士回应拆除iPhone14部分产线",
       "onboard_time": 1663961231,
       "rank": 46,
@@ -45857,14 +45873,6 @@
       "onboard_time": 1662207089,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 39844,
-      "num": 39844,
-      "word": "辽宁总冠军戒指曝光",
-      "onboard_time": 1663966391,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 39601,
@@ -46009,14 +46017,6 @@
       "onboard_time": 1663691064,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31993,
-      "num": 31993,
-      "word": "科学家设计出不能传播疟疾的蚊子",
-      "onboard_time": 1663968310,
-      "rank": 46,
-      "category": "科技"
     },
     {
       "raw_hot": 31791,
