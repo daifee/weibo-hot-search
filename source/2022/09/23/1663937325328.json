@@ -1,0 +1,410 @@
+{
+  "runTime": 1663937325328,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2210464,
+        "num": 2210464,
+        "word": "骄阳伴我",
+        "onboard_time": 1663932505,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1069805,
+        "num": 1069805,
+        "word": "央视揭秘羊了个羊通关诈骗陷阱",
+        "onboard_time": 1663909888,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 38950,
+        "num": 676793,
+        "word": "24节气里的丰收底色",
+        "onboard_time": 1663919787,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1073319,
+        "num": 664588,
+        "word": "家长掏万元给女儿全班换新桌椅",
+        "onboard_time": 1663933047,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 646449,
+        "num": 646449,
+        "word": "女子深夜假装去世母亲给自己回微信",
+        "onboard_time": 1663915226,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629849,
+        "num": 629849,
+        "word": "为什么越来越难恋爱了",
+        "onboard_time": 1663932446,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 560270,
+        "num": 560270,
+        "word": "教育局回应老师将收礼记录发群聊",
+        "onboard_time": 1663929924,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514280,
+        "num": 514280,
+        "word": "韩国空中出租车成功试飞",
+        "onboard_time": 1663931367,
+        "rank": 7,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 379798,
+        "num": 379798,
+        "word": "赵露思背肩摔侯明昊",
+        "onboard_time": 1663933285,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 336644,
+        "num": 336644,
+        "word": "电视剧骄阳伴我官微开通",
+        "onboard_time": 1663934847,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 457026,
+        "num": 335138,
+        "word": "小鬼 长发撕漫男",
+        "onboard_time": 1663931187,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 436951,
+        "num": 334440,
+        "word": "虞书欣立牌扫楼",
+        "onboard_time": 1663936165,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 331997,
+        "num": 331997,
+        "word": "鬓边不是海棠红",
+        "onboard_time": 1663919426,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 277673,
+        "num": 277673,
+        "word": "女子闯红灯被撞质问为什么不让我",
+        "onboard_time": 1663927107,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1664,
+        "num": 269795,
+        "word": "崩坏3六周年",
+        "onboard_time": 1663934427,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 264095,
+        "num": 264095,
+        "word": "福建舰正开展系泊试验",
+        "onboard_time": 1663935329,
+        "rank": 15,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 228048,
+        "num": 228048,
+        "word": "美决定不限制从中国进口钕磁体",
+        "onboard_time": 1663922548,
+        "rank": 16,
+        "category": "国内要闻,国外要闻"
+      },
+      {
+        "raw_hot": 199740,
+        "num": 199740,
+        "word": "英国大英博物馆里的中国文物",
+        "onboard_time": 1663928726,
+        "rank": 17,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 178597,
+        "num": 178597,
+        "word": "小猫丢脸丢大了",
+        "onboard_time": 1663926083,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174159,
+        "num": 174159,
+        "word": "老人蹬三轮捐35万资助贫困生",
+        "onboard_time": 1663931187,
+        "rank": 19,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 831682,
+        "num": 170004,
+        "word": "21岁单亲妈妈已办理全职入职",
+        "onboard_time": 1663927645,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 637168,
+        "num": 166910,
+        "word": "网曝上海迪士尼乐园内家长抱孩子在路边大便",
+        "onboard_time": 1663930046,
+        "rank": 21,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 538777,
+        "num": 156708,
+        "word": "房地产金融化泡沫化势头得到实质性扭转",
+        "onboard_time": 1663932146,
+        "rank": 22,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 228465,
+        "num": 156353,
+        "word": "时尚芭莎镜头下的垫底辣孩",
+        "onboard_time": 1663931547,
+        "rank": 23,
+        "category": "网红,时尚"
+      },
+      {
+        "raw_hot": 227056,
+        "num": 145216,
+        "word": "东八区的先生们",
+        "onboard_time": 1663936226,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211119,
+        "num": 141429,
+        "word": "一年一度喜剧大赛真的在演我",
+        "onboard_time": 1663935266,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139175,
+        "num": 139175,
+        "word": "都给我打印出来贴工位上",
+        "onboard_time": 1663933767,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127357,
+        "num": 127357,
+        "word": "老师一对多舌战群儒最终获胜",
+        "onboard_time": 1663934366,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 125554,
+        "num": 125554,
+        "word": "顺丰回应男子寄鱼干到货只剩头尾",
+        "onboard_time": 1663919846,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117850,
+        "num": 117850,
+        "word": "95后女子用数据分析帮家乡卖万斤桃",
+        "onboard_time": 1663935866,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456027,
+        "num": 117804,
+        "word": "内娱新生代帅哥颜值大赏",
+        "onboard_time": 1663933405,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202407,
+        "num": 117727,
+        "word": "警方通报滨州职业学院宿舍刑事案件",
+        "onboard_time": 1663920027,
+        "rank": 31,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 195709,
+        "num": 117598,
+        "word": "中餐厅6合伙人换分工",
+        "onboard_time": 1663931006,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190586,
+        "num": 117441,
+        "word": "改编不输原著的剧",
+        "onboard_time": 1663917568,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 117387,
+        "num": 117387,
+        "word": "上市2天小鹏G9调整价格配置",
+        "onboard_time": 1663924585,
+        "rank": 34,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 180887,
+        "num": 117256,
+        "word": "长空之王预售票房破1000万",
+        "onboard_time": 1663933828,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113715,
+        "num": 113715,
+        "word": "唐山打人案一审宣判",
+        "onboard_time": 1663900829,
+        "rank": 36,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 100174,
+        "num": 100174,
+        "word": "广东最干净的海",
+        "onboard_time": 1663923446,
+        "rank": 37,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 87833,
+        "num": 87833,
+        "word": "男孩送消防员奶茶还送工作量",
+        "onboard_time": 1663935329,
+        "rank": 38,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 84526,
+        "num": 84526,
+        "word": "川沙在逃玲娜贝儿",
+        "onboard_time": 1663924705,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 154859,
+        "num": 82558,
+        "word": "等风热吻你广播剧开播",
+        "onboard_time": 1663929747,
+        "rank": 40,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 144624,
+        "num": 79420,
+        "word": "内衣品牌擅用杨紫肖像被判赔30万",
+        "onboard_time": 1663935028,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75028,
+        "num": 75028,
+        "word": "一见钟情的宝藏香水",
+        "onboard_time": 1663930466,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 67313,
+        "num": 67313,
+        "word": "科学揭示土星环形成之谜",
+        "onboard_time": 1663936888,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 65916,
+        "num": 65916,
+        "word": "这猫居然会嗑瓜子",
+        "onboard_time": 1663920927,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 62652,
+        "num": 62652,
+        "word": "男孩给消防员送奶茶被卡进栅栏",
+        "onboard_time": 1663924286,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61705,
+        "num": 61705,
+        "word": "辣到时吃什么解辣最管用",
+        "onboard_time": 1663910314,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 55261,
+        "num": 55261,
+        "word": "成都新增本土确诊病例3例",
+        "onboard_time": 1663904491,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44518,
+        "num": 44518,
+        "word": "微信正式更新兼容iOS16",
+        "onboard_time": 1663937307,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 43063,
+        "num": 43063,
+        "word": "韩总统府称尹锡悦没有辱骂美国国会",
+        "onboard_time": 1663915948,
+        "rank": 49,
+        "category": "国外要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#第5个中国农民丰收节#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/23 19:38:48
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/23 20:48:45
 </p>
 </blockquote>
 <p>
@@ -1247,6 +1247,12 @@ IU耳朵出问题已长达1年（热度：2277556）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%A5%BD%E5%83%8F%E4%B8%AD%E4%BA%86%E7%A5%9F%E6%B0%94%23" target="weibo">
 王鹤棣好像中了祟气（热度：2211390）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AA%84%E9%98%B3%E4%BC%B4%E6%88%91%23" target="weibo">
+骄阳伴我（热度：2210464）
 </a>
 </li>
 
@@ -4965,6 +4971,12 @@ QQ推出QQ学生卡（热度：1084298）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E6%8E%8F%E4%B8%87%E5%85%83%E7%BB%99%E5%A5%B3%E5%84%BF%E5%85%A8%E7%8F%AD%E6%8D%A2%E6%96%B0%E6%A1%8C%E6%A4%85%23" target="weibo">
+家长掏万元给女儿全班换新桌椅（热度：1073319）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E7%BD%91%E8%B4%AD117%E5%8D%B7%E5%8D%AB%E7%94%9F%E7%BA%B825%E5%85%83%E5%8C%85%E9%82%AE%23" target="weibo">
 男生网购117卷卫生纸25元包邮（热度：1072985）
 </a>
@@ -5069,12 +5081,6 @@ iPhone14比13更香吗（热度：1070956）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E7%99%BD%E9%B9%BF%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%87%BA%E6%BC%94%E4%BB%99%E5%89%91%E4%BA%94%E5%89%8D%E4%BC%A0%23" target="weibo">
 网传白鹿王鹤棣出演仙剑五前传（热度：1067152）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AA%84%E9%98%B3%E4%BC%B4%E6%88%91%23" target="weibo">
-骄阳伴我（热度：1065687）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ LWX被LBL禁赛（热度：958600）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%B8%80%E5%8C%BB%E9%99%A27%E5%A4%A9%E6%8E%A5240%E5%90%8D%E5%BC%80%E5%AD%A6%E7%84%A6%E8%99%91%E5%A8%83%23" target="weibo">
 杭州一医院7天接240名开学焦虑娃（热度：952389）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%B7%B3%E8%88%9E%23" target="weibo">
-张凌赫跳舞（热度：952197）
 </a>
 </li>
 
