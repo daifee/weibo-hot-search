@@ -1,0 +1,410 @@
+{
+  "runTime": 1663933128674,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1308109,
+        "num": 1308109,
+        "word": "央视揭秘羊了个羊通关诈骗陷阱",
+        "onboard_time": 1663909888,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 956147,
+        "num": 956147,
+        "word": "女子深夜假装去世母亲给自己回微信",
+        "onboard_time": 1663915226,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47841,
+        "num": 855702,
+        "word": "24节气里的丰收底色",
+        "onboard_time": 1663919787,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1637715,
+        "num": 839734,
+        "word": "21岁单亲妈妈已办理全职入职",
+        "onboard_time": 1663927645,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 794975,
+        "num": 794975,
+        "word": "新晋妈妈一巴掌把老公打进医院",
+        "onboard_time": 1663925065,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 627008,
+        "num": 627008,
+        "word": "鬓边不是海棠红",
+        "onboard_time": 1663919426,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 553006,
+        "num": 553006,
+        "word": "女子闯红灯被撞质问为什么不让我",
+        "onboard_time": 1663927107,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482612,
+        "num": 482612,
+        "word": "教育局回应老师将收礼记录发群聊",
+        "onboard_time": 1663929924,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463044,
+        "num": 463044,
+        "word": "骄阳伴我",
+        "onboard_time": 1663932505,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 459630,
+        "num": 459630,
+        "word": "英国大英博物馆里的中国文物",
+        "onboard_time": 1663928726,
+        "rank": 9,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 696674,
+        "num": 458979,
+        "word": "小鬼 长发撕漫男",
+        "onboard_time": 1663931187,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 384017,
+        "num": 384017,
+        "word": "美决定不限制从中国进口钕磁体",
+        "onboard_time": 1663922548,
+        "rank": 11,
+        "category": "国内要闻,国外要闻"
+      },
+      {
+        "raw_hot": 346670,
+        "num": 346670,
+        "word": "中餐厅6合伙人换分工",
+        "onboard_time": 1663931006,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308571,
+        "num": 308571,
+        "word": "等风热吻你广播剧开播",
+        "onboard_time": 1663929747,
+        "rank": 13,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 38044,
+        "num": 304991,
+        "word": "甘宇堂哥讲述弟弟获救经历",
+        "onboard_time": 1663930826,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302590,
+        "num": 302590,
+        "word": "时尚芭莎镜头下的垫底辣孩",
+        "onboard_time": 1663931547,
+        "rank": 15,
+        "category": "网红,时尚"
+      },
+      {
+        "raw_hot": 249604,
+        "num": 249604,
+        "word": "小猫丢脸丢大了",
+        "onboard_time": 1663926083,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 237200,
+        "num": 237200,
+        "word": "网传一老师将收礼记录误发家长群",
+        "onboard_time": 1663910789,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 212423,
+        "num": 212423,
+        "word": "唐山打人案一审宣判",
+        "onboard_time": 1663900829,
+        "rank": 18,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 207085,
+        "num": 207085,
+        "word": "老师对学生影响有多大",
+        "onboard_time": 1663926327,
+        "rank": 19,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 1063333,
+        "num": 206750,
+        "word": "网曝上海迪士尼乐园内家长抱孩子在路边大便",
+        "onboard_time": 1663930046,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 274925,
+        "num": 205662,
+        "word": "近3.7亿个字的永乐大典是怎么诞生的",
+        "onboard_time": 1663926683,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254503,
+        "num": 205592,
+        "word": "改编不输原著的剧",
+        "onboard_time": 1663917568,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204020,
+        "num": 204020,
+        "word": "韩国空中出租车成功试飞",
+        "onboard_time": 1663931367,
+        "rank": 23,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 192631,
+        "num": 192631,
+        "word": "王一博长空之王倒计时视频",
+        "onboard_time": 1663931064,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185030,
+        "num": 185030,
+        "word": "顺丰回应男子寄鱼干到货只剩头尾",
+        "onboard_time": 1663919846,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160962,
+        "num": 160962,
+        "word": "上市2天小鹏G9调整价格配置",
+        "onboard_time": 1663924585,
+        "rank": 26,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 149320,
+        "num": 149320,
+        "word": "广东最干净的海",
+        "onboard_time": 1663923446,
+        "rank": 27,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 144632,
+        "num": 144632,
+        "word": "为什么越来越难恋爱了",
+        "onboard_time": 1663932446,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137808,
+        "num": 137808,
+        "word": "男孩给消防员送奶茶被卡进栅栏",
+        "onboard_time": 1663924286,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245890,
+        "num": 135248,
+        "word": "警方通报滨州职业学院宿舍刑事案件",
+        "onboard_time": 1663920027,
+        "rank": 30,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 172260,
+        "num": 134468,
+        "word": "成毅演的周亦安",
+        "onboard_time": 1663929747,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128486,
+        "num": 128486,
+        "word": "郭晓婷GQ采访",
+        "onboard_time": 1663919426,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124077,
+        "num": 124077,
+        "word": "房地产金融化泡沫化势头得到实质性扭转",
+        "onboard_time": 1663932146,
+        "rank": 33,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 122214,
+        "num": 122214,
+        "word": "川沙在逃玲娜贝儿",
+        "onboard_time": 1663924705,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 115762,
+        "num": 115762,
+        "word": "辣到时吃什么解辣最管用",
+        "onboard_time": 1663910314,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 111222,
+        "num": 111222,
+        "word": "栓Q哥决定参加唱歌比赛",
+        "onboard_time": 1663930703,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 105445,
+        "num": 105445,
+        "word": "这猫居然会嗑瓜子",
+        "onboard_time": 1663920927,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101377,
+        "num": 101377,
+        "word": "虞书欣张彬彬片场加戏嗨了",
+        "onboard_time": 1663922843,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 89588,
+        "num": 89588,
+        "word": "一见钟情的宝藏香水",
+        "onboard_time": 1663930466,
+        "rank": 39,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 100702,
+        "num": 89158,
+        "word": "爱奇艺未来1年电视剧排播表",
+        "onboard_time": 1663915888,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 86768,
+        "num": 86768,
+        "word": "沉香重华",
+        "onboard_time": 1663931964,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 85978,
+        "num": 85978,
+        "word": "老人蹬三轮捐35万资助贫困生",
+        "onboard_time": 1663931187,
+        "rank": 42,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 82079,
+        "num": 82079,
+        "word": "村民4只羊被偷民警找回6只",
+        "onboard_time": 1663912468,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81792,
+        "num": 81792,
+        "word": "阿爽",
+        "onboard_time": 1663908155,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81792,
+        "num": 81792,
+        "word": "成都新增本土确诊病例3例",
+        "onboard_time": 1663904491,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81357,
+        "num": 81357,
+        "word": "韩总统府称尹锡悦没有辱骂美国国会",
+        "onboard_time": 1663915948,
+        "rank": 46,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 78342,
+        "num": 78342,
+        "word": "家长掏万元给女儿全班换新桌椅",
+        "onboard_time": 1663933047,
+        "rank": 47,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 75134,
+        "num": 75134,
+        "word": "DR回应成本4000卖1.5万",
+        "onboard_time": 1663906714,
+        "rank": 48,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 74085,
+        "num": 74085,
+        "word": "中国使馆通报柬埔寨沉船事故",
+        "onboard_time": 1663916908,
+        "rank": 49,
+        "category": "国内要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#端牢中国人的饭碗#"
+    }
+  }
+}

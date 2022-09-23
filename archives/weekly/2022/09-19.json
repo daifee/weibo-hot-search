@@ -1,6 +1,6 @@
 {
   "startTime": 1663518759246,
-  "endTime": 1663932058427,
+  "endTime": 1663933128674,
   "band_list": [
     {
       "raw_hot": 11177915,
@@ -547,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1637715,
+      "num": 968206,
+      "word": "21岁单亲妈妈已办理全职入职",
+      "onboard_time": 1663927645,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1600552,
       "num": 1600552,
       "word": "你会反复喜欢同一个人吗",
@@ -601,14 +609,6 @@
       "onboard_time": 1663582526,
       "rank": 16,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1554263,
-      "num": 968206,
-      "word": "21岁单亲妈妈已办理全职入职",
-      "onboard_time": 1663927645,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1536493,
@@ -1147,6 +1147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1063333,
+      "num": 240974,
+      "word": "网曝上海迪士尼乐园内家长抱孩子在路边大便",
+      "onboard_time": 1663930046,
+      "rank": 20,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1063148,
       "num": 1063148,
       "word": "未按要求去冰女子将饮品倒进操作间",
@@ -1337,14 +1345,6 @@
       "onboard_time": 1663580065,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 994040,
-      "num": 240974,
-      "word": "网曝上海迪士尼乐园内家长抱孩子在路边大便",
-      "onboard_time": 1663930046,
-      "rank": 20,
-      "category": "社会负面"
     },
     {
       "raw_hot": 993017,
@@ -2009,6 +2009,14 @@
       "onboard_time": 1663584147,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 696674,
+      "num": 458979,
+      "word": "小鬼 长发撕漫男",
+      "onboard_time": 1663931187,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 692186,
@@ -2979,6 +2987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 482612,
+      "num": 482612,
+      "word": "教育局回应老师将收礼记录发群聊",
+      "onboard_time": 1663929924,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 482523,
       "num": 482523,
       "word": "一家三代患病7岁妹妹捡瓶子救哥",
@@ -3155,12 +3171,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 463044,
+      "num": 463044,
+      "word": "骄阳伴我",
+      "onboard_time": 1663499368,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 461679,
       "num": 461679,
       "word": "小猫丢脸丢大了",
       "onboard_time": 1663926083,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 459630,
+      "num": 459630,
+      "word": "英国大英博物馆里的中国文物",
+      "onboard_time": 1663928726,
+      "rank": 49,
+      "category": "其它"
     },
     {
       "raw_hot": 459523,
@@ -3409,14 +3441,6 @@
       "onboard_time": 1663803384,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 421339,
-      "num": 378272,
-      "word": "小鬼 长发撕漫男",
-      "onboard_time": 1663931187,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 420602,
@@ -4211,14 +4235,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 348528,
-      "num": 348528,
-      "word": "英国大英博物馆里的中国文物",
-      "onboard_time": 1663928726,
-      "rank": 49,
-      "category": "其它"
-    },
-    {
       "raw_hot": 348131,
       "num": 348131,
       "word": "安乐传配音",
@@ -4827,20 +4843,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302590,
+      "num": 302590,
+      "word": "时尚芭莎镜头下的垫底辣孩",
+      "onboard_time": 1663931547,
+      "rank": 21,
+      "category": "网红,时尚"
+    },
+    {
       "raw_hot": 302549,
       "num": 302549,
       "word": "C罗希望参加2022世界杯",
       "onboard_time": 1663733371,
       "rank": 32,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 302521,
-      "num": 302521,
-      "word": "骄阳伴我",
-      "onboard_time": 1663499368,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 301988,
@@ -5033,14 +5049,6 @@
       "onboard_time": 1663597352,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 288622,
-      "num": 288622,
-      "word": "教育局回应老师将收礼记录发群聊",
-      "onboard_time": 1663929924,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 288478,
@@ -5553,14 +5561,6 @@
       "onboard_time": 1663662509,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 261223,
-      "num": 235616,
-      "word": "时尚芭莎镜头下的垫底辣孩",
-      "onboard_time": 1663931547,
-      "rank": 21,
-      "category": "网红,时尚"
     },
     {
       "raw_hot": 260502,
@@ -6795,6 +6795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204020,
+      "num": 204020,
+      "word": "韩国空中出租车成功试飞",
+      "onboard_time": 1663931367,
+      "rank": 35,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 203811,
       "num": 203811,
       "word": "唐山烧烤店打人案28名被告获刑",
@@ -7031,6 +7039,14 @@
       "num": 169234,
       "word": "长空之王预售票房破300万",
       "onboard_time": 1663921525,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 192631,
+      "num": 192631,
+      "word": "王一博长空之王倒计时视频",
+      "onboard_time": 1663931064,
       "rank": 31,
       "category": "影视"
     },
@@ -7651,14 +7667,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 165813,
-      "num": 130793,
-      "word": "王一博长空之王倒计时视频",
-      "onboard_time": 1663931064,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 165799,
       "num": 165799,
       "word": "爱情而已吴磊周雨彤吻戏好甜",
@@ -8113,6 +8121,14 @@
       "onboard_time": 1663831049,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144632,
+      "num": 144632,
+      "word": "为什么越来越难恋爱了",
+      "onboard_time": 1663932446,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 144456,
@@ -8659,6 +8675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 124077,
+      "num": 124077,
+      "word": "房地产金融化泡沫化势头得到实质性扭转",
+      "onboard_time": 1663932146,
+      "rank": 33,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 123884,
       "num": 93537,
       "word": "有被这样的人生态度开解到",
@@ -8713,14 +8737,6 @@
       "onboard_time": 1663758332,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120908,
-      "num": 120908,
-      "word": "韩国空中出租车成功试飞",
-      "onboard_time": 1663931367,
-      "rank": 35,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 120907,
@@ -9283,6 +9299,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 89588,
+      "num": 89588,
+      "word": "一见钟情的宝藏香水",
+      "onboard_time": 1663930466,
+      "rank": 45,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 89149,
       "num": 89149,
       "word": "大兴安岭迎来入秋后第一场雪",
@@ -9328,6 +9352,14 @@
       "word": "长空之王定档0930",
       "onboard_time": 1663894169,
       "rank": 49,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 86768,
+      "num": 86768,
+      "word": "沉香重华",
+      "onboard_time": 1663931964,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -9427,12 +9459,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 79785,
-      "num": 79785,
-      "word": "一见钟情的宝藏香水",
-      "onboard_time": 1663930466,
-      "rank": 45,
-      "category": "美妆"
+      "raw_hot": 78342,
+      "num": 78342,
+      "word": "家长掏万元给女儿全班换新桌椅",
+      "onboard_time": 1663933047,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 77618,
@@ -9691,20 +9723,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38044,
+      "num": 312607,
+      "word": "甘宇堂哥讲述弟弟获救经历",
+      "onboard_time": 1663930826,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36864,
       "num": 36864,
       "word": "电影妈妈票房破5000万",
       "onboard_time": 1663527853,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 35251,
-      "num": 312607,
-      "word": "甘宇堂哥讲述弟弟获救经历",
-      "onboard_time": 1663930826,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32826,
