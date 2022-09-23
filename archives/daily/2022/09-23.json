@@ -1,7 +1,23 @@
 {
   "startTime": 1663864508123,
-  "endTime": 1663890186940,
+  "endTime": 1663900431182,
   "band_list": [
+    {
+      "raw_hot": 1987111,
+      "num": 1987111,
+      "word": "女子瘦20斤脑内取出27厘米长活虫",
+      "onboard_time": 1663893270,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1804393,
+      "num": 347435,
+      "word": "底线拍了江歌案",
+      "onboard_time": 1663896746,
+      "rank": 10,
+      "category": "影视"
+    },
     {
       "raw_hot": 1757360,
       "num": 1757360,
@@ -17,6 +33,22 @@
       "onboard_time": 1663864282,
       "rank": 46,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1054522,
+      "num": 1054522,
+      "word": "女子陪闺蜜看病自己查出癌症",
+      "onboard_time": 1663893750,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 917379,
+      "num": 917379,
+      "word": "苍兰诀连婚茶都备好了",
+      "onboard_time": 1663899384,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 886014,
@@ -43,12 +75,52 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 659058,
+      "num": 339997,
+      "word": "父亲再婚后起诉5岁儿子降抚养费",
+      "onboard_time": 1663893030,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 657483,
+      "num": 319657,
+      "word": "安卓灵动岛APP上架",
+      "onboard_time": 1663899267,
+      "rank": 12,
+      "category": "科技"
+    },
+    {
       "raw_hot": 640256,
       "num": 640256,
       "word": "邻居骗走钥匙将下水管装满天花板",
       "onboard_time": 1663857151,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 624695,
+      "num": 624695,
+      "word": "女子高铁独霸三座辱骂乘务员",
+      "onboard_time": 1663896984,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 597633,
+      "num": 597633,
+      "word": "苹果正式修复iOS16粘贴弹窗",
+      "onboard_time": 1663897407,
+      "rank": 5,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 585727,
+      "num": 585727,
+      "word": "2022国庆档新片阵容",
+      "onboard_time": 1663895247,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 577265,
@@ -83,6 +155,22 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 515868,
+      "num": 515868,
+      "word": "90后蟹农挑蟹只看倒数第二条腿",
+      "onboard_time": 1663895725,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 504277,
+      "num": 504277,
+      "word": "王一博说期待和长空之王相见",
+      "onboard_time": 1663899743,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 487217,
       "num": 487217,
       "word": "顾客称吃饭被收20元空调费",
@@ -115,8 +203,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 381309,
+      "num": 293921,
+      "word": "铁人三项女运动员比赛服被批不得体",
+      "onboard_time": 1663899087,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 371277,
-      "num": 299522,
+      "num": 352113,
       "word": "银行柜员50当5元多给客户1万8",
       "onboard_time": 1663888761,
       "rank": 35,
@@ -147,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273305,
+      "num": 273305,
+      "word": "保安抓捕流浪狗母子倒入湖中",
+      "onboard_time": 1663891709,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272175,
       "num": 272175,
       "word": "覆流年 be",
@@ -163,11 +267,43 @@
       "category": "体育"
     },
     {
+      "raw_hot": 239994,
+      "num": 239994,
+      "word": "男子网购鳄鱼养6年咬伤邻居",
+      "onboard_time": 1663899384,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237140,
+      "num": 237140,
+      "word": "昆明震感",
+      "onboard_time": 1663891047,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230958,
+      "num": 230958,
+      "word": "博主晒潮牌包照被品牌嫌不搭要删除",
+      "onboard_time": 1663895907,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224918,
       "num": 224918,
       "word": "2022年天安门广场摆花方案公布",
       "onboard_time": 1663882451,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221167,
+      "num": 221167,
+      "word": "女主播是如何将你养成榜一大哥的",
+      "onboard_time": 1663892788,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -177,6 +313,14 @@
       "onboard_time": 1663884072,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202723,
+      "num": 202723,
+      "word": "张艺兴EP西上线",
+      "onboard_time": 1663900105,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 200353,
@@ -193,6 +337,14 @@
       "onboard_time": 1663858895,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196458,
+      "num": 196458,
+      "word": "邢菲有新墙头了",
+      "onboard_time": 1663893809,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 191255,
@@ -219,6 +371,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 188869,
+      "num": 188869,
+      "word": "北京9月22日新增本土确诊2例",
+      "onboard_time": 1663896687,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185449,
+      "num": 185449,
+      "word": "男子被高抛手机盒砸中满头血",
+      "onboard_time": 1663891228,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184705,
       "num": 184705,
       "word": "张远天天向上跳爱你好甜",
@@ -233,6 +401,14 @@
       "onboard_time": 1663865001,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 179962,
+      "num": 179962,
+      "word": "男生打游戏听出网友病危异地报警",
+      "onboard_time": 1663899687,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171225,
@@ -299,6 +475,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 147557,
+      "num": 147557,
+      "word": "唐山打人案将于23日公开宣判",
+      "onboard_time": 1663838488,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145608,
+      "num": 145608,
+      "word": "国际金价连续五个月下跌",
+      "onboard_time": 1663892008,
+      "rank": 32,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 144167,
       "num": 144167,
       "word": "哪本小说让你看完后疯狂找代餐",
@@ -315,6 +507,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 136916,
+      "num": 136916,
+      "word": "拜登和尹锡悦谈话只有48秒",
+      "onboard_time": 1663891768,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134723,
       "num": 134723,
       "word": "小偷得知失主癌症晚期改口认罪",
@@ -324,7 +524,7 @@
     },
     {
       "raw_hot": 133694,
-      "num": 695536,
+      "num": 944696,
       "word": "惊艳了整个秋天的丰收色",
       "onboard_time": 1663849649,
       "rank": 2,
@@ -339,19 +539,19 @@
       "category": "军事,国外要闻"
     },
     {
-      "raw_hot": 131108,
-      "num": 131108,
-      "word": "唐山打人案将于23日公开宣判",
-      "onboard_time": 1663838488,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 130533,
       "num": 130533,
       "word": "潘粤明新剧开分8.2",
       "onboard_time": 1663844731,
       "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 127991,
+      "num": 127991,
+      "word": "万里归途定档0930",
+      "onboard_time": 1663896027,
+      "rank": 37,
       "category": "影视"
     },
     {
@@ -361,6 +561,22 @@
       "onboard_time": 1663853909,
       "rank": 36,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 120278,
+      "num": 120278,
+      "word": "9月22日新增本土无症状627例",
+      "onboard_time": 1663896566,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114514,
+      "num": 114514,
+      "word": "倒霉起来连牛奶都喝不到",
+      "onboard_time": 1663891469,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 112673,
@@ -387,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105170,
+      "num": 105170,
+      "word": "长空之王",
+      "onboard_time": 1663894048,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 104632,
       "num": 104632,
       "word": "日本时隔24年进行外汇干预",
@@ -411,6 +635,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 102073,
+      "num": 102073,
+      "word": "月嫂临走前做各种面食塞满冰箱",
+      "onboard_time": 1663900286,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101740,
+      "num": 101740,
+      "word": "男子暴晒1天钓上1条鱼却被猫抢走",
+      "onboard_time": 1663900167,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88999,
       "num": 88999,
       "word": "马嘉祺我们的歌造型花絮照",
@@ -427,12 +667,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 87413,
+      "num": 87413,
+      "word": "中国电热毯一个月出口129万条",
+      "onboard_time": 1663900406,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87369,
       "num": 87369,
       "word": "女排世锦赛中国14人名单",
       "onboard_time": 1663889306,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87120,
+      "num": 87120,
+      "word": "长空之王定档0930",
+      "onboard_time": 1663894169,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 86618,
@@ -700,6 +956,9 @@
     },
     {
       "word": "#中国农民丰收节#"
+    },
+    {
+      "word": "#端牢中国人的饭碗#"
     }
   ]
 }
