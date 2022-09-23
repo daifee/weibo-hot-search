@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/19 00:32:39 ~ 2022/09/24 03:21:37
+本榜单时间：2022/09/19 00:32:39 ~ 2022/09/24 03:37:28
 </p>
 </blockquote>
 <p>
@@ -7810,7 +7810,7 @@ S12选手评分（热度：19425）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%2305%E5%90%8E%E9%80%A0%E5%87%BA%E7%8C%AB%E8%84%B8%E8%AF%86%E5%88%AB%E5%96%82%E9%A3%9F%E5%99%A8%23" target="weibo">
-05后造出猫脸识别喂食器（热度：16267）
+05后造出猫脸识别喂食器（热度：16841）
 </a>
 </li>
 
@@ -7889,6 +7889,12 @@ S12选手评分（热度：19425）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%BD%AC%E5%BD%AC%E8%AE%A9%E5%BA%84%E7%BE%BD%E6%94%B6%E8%B5%B7%E4%BD%A0%E4%B8%8D%E5%80%BC%E9%92%B1%E7%9A%84%E6%A0%B7%E5%AD%90%23" target="weibo">
 张彬彬让庄羽收起你不值钱的样子（热度：11474）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AF%8C%E5%A3%AB%E5%BA%B7%E5%86%85%E9%83%A8%E4%BA%BA%E5%A3%AB%E5%9B%9E%E5%BA%94%E6%8B%86%E9%99%A4iPhone14%E9%83%A8%E5%88%86%E4%BA%A7%E7%BA%BF%23" target="weibo">
+富士康内部人士回应拆除iPhone14部分产线（热度：10916）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1663518759246,
-  "endTime": 1663960897692,
+  "endTime": 1663961848357,
   "band_list": [
     {
       "raw_hot": 11177915,
@@ -10395,8 +10395,8 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 16267,
-      "num": 16267,
+      "raw_hot": 16841,
+      "num": 16841,
       "word": "05后造出猫脸识别喂食器",
       "onboard_time": 1663958353,
       "rank": 44,
@@ -10505,6 +10505,14 @@
       "onboard_time": 1663799114,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 10916,
+      "num": 10916,
+      "word": "富士康内部人士回应拆除iPhone14部分产线",
+      "onboard_time": 1663961231,
+      "rank": 46,
+      "category": "科技"
     },
     {
       "raw_hot": 10748,
