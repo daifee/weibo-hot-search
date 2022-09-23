@@ -1,6 +1,6 @@
 {
   "startTime": 1663864508123,
-  "endTime": 1663903211669,
+  "endTime": 1663908700620,
   "band_list": [
     {
       "raw_hot": 11177915,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1560265,
+      "num": 1560265,
+      "word": "老师目睹学生车祸后在原地站岗16年",
+      "onboard_time": 1663900706,
+      "rank": 11,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1185854,
       "num": 1185854,
       "word": "安卓灵动岛APP上架",
@@ -59,11 +67,43 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1034344,
+      "num": 1034344,
+      "word": "月嫂临走前做各种面食塞满冰箱",
+      "onboard_time": 1663900286,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 979715,
+      "num": 503835,
+      "word": "王鹤棣我喜欢自己的全部",
+      "onboard_time": 1663904913,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 978575,
       "num": 978575,
       "word": "苍兰诀连婚茶都备好了",
       "onboard_time": 1663899384,
       "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 963850,
+      "num": 963850,
+      "word": "16岁少年打工买奥迪无证上高速",
+      "onboard_time": 1663903472,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 886619,
+      "num": 886619,
+      "word": "蔡文静新剧演关晓彤妈妈",
+      "onboard_time": 1663901973,
+      "rank": 12,
       "category": "影视"
     },
     {
@@ -123,28 +163,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 636862,
-      "num": 539985,
-      "word": "老师目睹学生车祸后在原地站岗16年",
-      "onboard_time": 1663900706,
-      "rank": 11,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 597633,
       "num": 597633,
       "word": "苹果正式修复iOS16粘贴弹窗",
       "onboard_time": 1663897407,
       "rank": 5,
       "category": "科技"
-    },
-    {
-      "raw_hot": 589555,
-      "num": 538555,
-      "word": "蔡文静新剧演关晓彤妈妈",
-      "onboard_time": 1663901973,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 585727,
@@ -168,14 +192,6 @@
       "word": "基金女主播真人与海报判若两人",
       "onboard_time": 1663859671,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 566953,
-      "num": 566953,
-      "word": "月嫂临走前做各种面食塞满冰箱",
-      "onboard_time": 1663900286,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -211,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 510494,
+      "num": 510494,
+      "word": "男子弃百万年薪种红薯3年挣350万",
+      "onboard_time": 1663904913,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 504277,
       "num": 504277,
       "word": "王一博说期待和长空之王相见",
@@ -243,12 +267,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 463248,
+      "num": 463248,
+      "word": "美国核航母群抵达韩国",
+      "onboard_time": 1663907615,
+      "rank": 13,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 444881,
       "num": 444881,
       "word": "男子暴晒1天钓上1条鱼却被猫抢走",
       "onboard_time": 1663900167,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 438936,
+      "num": 438936,
+      "word": "乌克兰4地入俄公投从堪察加开始",
+      "onboard_time": 1663905991,
+      "rank": 14,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 438205,
+      "num": 438205,
+      "word": "为什么说买东西而不是买南北",
+      "onboard_time": 1663904071,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 434122,
@@ -267,12 +315,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 428142,
+      "num": 428142,
+      "word": "司仪主持完婚礼上桌吃饭被扣尾款",
+      "onboard_time": 1663905812,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 409263,
+      "num": 409263,
+      "word": "V5改名为NIP",
+      "onboard_time": 1663904552,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 407371,
       "num": 407371,
       "word": "朝鲜军方否认向俄出口武器弹药",
       "onboard_time": 1663877651,
       "rank": 42,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 401925,
+      "num": 401925,
+      "word": "女运动员回应穿铁三服被指太露骨",
+      "onboard_time": 1663902994,
+      "rank": 44,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 395925,
@@ -291,12 +363,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 380546,
+      "num": 380546,
+      "word": "阿爽",
+      "onboard_time": 1663908155,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 371277,
       "num": 352113,
       "word": "银行柜员50当5元多给客户1万8",
       "onboard_time": 1663888761,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 370938,
+      "num": 370938,
+      "word": "成都新增本土确诊病例3例",
+      "onboard_time": 1663904491,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 370419,
+      "num": 370419,
+      "word": "DR回应成本4000卖1.5万",
+      "onboard_time": 1663906714,
+      "rank": 23,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 359806,
@@ -315,12 +411,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 331621,
+      "num": 331621,
+      "word": "女大学生为爱远嫁深山带动全村致富",
+      "onboard_time": 1663900466,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326991,
       "num": 326991,
       "word": "胡一天梁洁新剧杀青",
       "onboard_time": 1663902693,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 325127,
+      "num": 325127,
+      "word": "中国最便宜的火车票仅售1元",
+      "onboard_time": 1663905034,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 316713,
@@ -331,12 +443,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 283140,
-      "num": 283140,
-      "word": "女大学生为爱远嫁深山带动全村致富",
-      "onboard_time": 1663900466,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 315846,
+      "num": 315846,
+      "word": "苹果正研发两款折叠屏iPhone",
+      "onboard_time": 1663903413,
+      "rank": 27,
+      "category": "科技"
     },
     {
       "raw_hot": 276647,
@@ -395,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232983,
+      "num": 232983,
+      "word": "徐艺洋mirrormirror舞蹈MV",
+      "onboard_time": 1663908211,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 230958,
       "num": 230958,
       "word": "博主晒潮牌包照被品牌嫌不搭要删除",
@@ -411,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224624,
+      "num": 224624,
+      "word": "人工智能像极了人工智障",
+      "onboard_time": 1663906652,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 221167,
       "num": 221167,
       "word": "女主播是如何将你养成榜一大哥的",
@@ -424,6 +552,22 @@
       "word": "世界在建规模最大水电工程投产发电",
       "onboard_time": 1663884072,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218311,
+      "num": 218311,
+      "word": "以前的四川人捡到大熊猫",
+      "onboard_time": 1663907434,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 203811,
+      "num": 203811,
+      "word": "唐山烧烤店打人案28名被告获刑",
+      "onboard_time": 1663905513,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -523,6 +667,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 182502,
+      "num": 151157,
+      "word": "王一博第一部上映的电影",
+      "onboard_time": 1663908694,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 180865,
+      "num": 180865,
+      "word": "河南师范大学九十九周年校庆",
+      "onboard_time": 1663903472,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 178233,
+      "num": 178233,
+      "word": "文俊辉单曲LIMBO上线",
+      "onboard_time": 1663908333,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 173975,
       "num": 173975,
       "word": "胡同官宣定档0925",
@@ -553,6 +721,22 @@
       "onboard_time": 1663860810,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 168220,
+      "num": 168220,
+      "word": "为了我们的荣耀阵容官宣",
+      "onboard_time": 1663906771,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 165407,
+      "num": 165407,
+      "word": "女子恋爱2个月偷男友近万元",
+      "onboard_time": 1663907854,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157952,
@@ -643,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135122,
+      "num": 135122,
+      "word": "唐山打人案主犯陈继志一审被判24年",
+      "onboard_time": 1663901312,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134723,
       "num": 134723,
       "word": "小偷得知失主癌症晚期改口认罪",
@@ -652,7 +844,7 @@
     },
     {
       "raw_hot": 133694,
-      "num": 1228965,
+      "num": 1352288,
       "word": "惊艳了整个秋天的丰收色",
       "onboard_time": 1663849649,
       "rank": 2,
@@ -705,14 +897,6 @@
       "onboard_time": 1663901312,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 115772,
-      "num": 115772,
-      "word": "女运动员回应穿铁三服被指太露骨",
-      "onboard_time": 1663902994,
-      "rank": 44,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 114514,
