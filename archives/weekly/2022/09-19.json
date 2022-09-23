@@ -1,6 +1,6 @@
 {
   "startTime": 1663518759246,
-  "endTime": 1663941271359,
+  "endTime": 1663942000959,
   "band_list": [
     {
       "raw_hot": 11177915,
@@ -1379,6 +1379,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 982129,
+      "num": 890849,
+      "word": "为什么越来越难恋爱了",
+      "onboard_time": 1663932446,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 978575,
       "num": 978575,
       "word": "苍兰诀连婚茶都备好了",
@@ -1545,14 +1553,6 @@
       "onboard_time": 1663724848,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 890849,
-      "num": 890849,
-      "word": "为什么越来越难恋爱了",
-      "onboard_time": 1663932446,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 889841,
@@ -2091,6 +2091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 668130,
+      "num": 668130,
+      "word": "东八区的先生们",
+      "onboard_time": 1663936226,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 668016,
       "num": 439645,
       "word": "天娱新男团官宣",
@@ -2105,14 +2113,6 @@
       "onboard_time": 1663893030,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 656370,
-      "num": 656370,
-      "word": "东八区的先生们",
-      "onboard_time": 1663936226,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 654917,
@@ -2715,6 +2715,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 554991,
+      "num": 554991,
+      "word": "微信正式更新兼容iOS16",
+      "onboard_time": 1663937307,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 553940,
       "num": 553940,
       "word": "林峯吴卓羲邀黄宗泽参加哥哥",
@@ -2785,14 +2793,6 @@
       "onboard_time": 1663813166,
       "rank": 43,
       "category": "财经"
-    },
-    {
-      "raw_hot": 540078,
-      "num": 540078,
-      "word": "微信正式更新兼容iOS16",
-      "onboard_time": 1663937307,
-      "rank": 48,
-      "category": "科技"
     },
     {
       "raw_hot": 538777,
@@ -4131,6 +4131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 366517,
+      "num": 366517,
+      "word": "成为最低分的作品有多难",
+      "onboard_time": 1663939768,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 364354,
       "num": 364354,
       "word": "男子蹲马桶点烟引甲烷爆燃",
@@ -4313,6 +4321,14 @@
       "onboard_time": 1663678288,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 348320,
+      "num": 348320,
+      "word": "原来茄子不是麻的",
+      "onboard_time": 1663939408,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 348131,
@@ -5099,6 +5115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 292045,
+      "num": 292045,
+      "word": "1岁萌娃为吃零食对着爸爸叫老公",
+      "onboard_time": 1663939588,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291551,
       "num": 291551,
       "word": "万里归途王俊凯心脏复苏花絮",
@@ -5209,14 +5233,6 @@
       "onboard_time": 1663637726,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 283432,
-      "num": 283432,
-      "word": "原来茄子不是麻的",
-      "onboard_time": 1663939408,
-      "rank": 11,
-      "category": "幽默"
     },
     {
       "raw_hot": 283318,
@@ -5465,6 +5481,14 @@
       "onboard_time": 1663676911,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 271231,
+      "num": 271231,
+      "word": "大巴司机3小时车程玩2小时手机",
+      "onboard_time": 1663940370,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 271225,
@@ -5859,14 +5883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 248796,
-      "num": 248796,
-      "word": "成为最低分的作品有多难",
-      "onboard_time": 1663939768,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 248721,
       "num": 220172,
       "word": "任嘉伦陆炎的霸道随了陆绎",
@@ -6099,6 +6115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 237408,
+      "num": 237408,
+      "word": "山东小伙海上放牧年产鱼370万公斤",
+      "onboard_time": 1663937547,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237140,
       "num": 237140,
       "word": "昆明震感",
@@ -6161,6 +6185,14 @@
       "onboard_time": 1663752928,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 234523,
+      "num": 234523,
+      "word": "徐志胜说快乐是一种精神丰收",
+      "onboard_time": 1663940669,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 233818,
@@ -6232,14 +6264,6 @@
       "word": "正确使用耳机应遵循三个60原则",
       "onboard_time": 1663516831,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 230199,
-      "num": 230199,
-      "word": "山东小伙海上放牧年产鱼370万公斤",
-      "onboard_time": 1663937547,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -6345,14 +6369,6 @@
       "onboard_time": 1663745850,
       "rank": 23,
       "category": "美食"
-    },
-    {
-      "raw_hot": 225571,
-      "num": 225571,
-      "word": "1岁萌娃为吃零食对着爸爸叫老公",
-      "onboard_time": 1663939588,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 225396,
@@ -6603,6 +6619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218246,
+      "num": 218246,
+      "word": "一年一度喜剧大赛真的在演我",
+      "onboard_time": 1663935266,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217916,
       "num": 217916,
       "word": "男子醉驾连撞6车甩锅给妹妹",
@@ -6625,6 +6649,14 @@
       "onboard_time": 1663640669,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 216661,
+      "num": 213750,
+      "word": "好声音第二轮导师对战",
+      "onboard_time": 1663940067,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 216437,
@@ -6707,14 +6739,6 @@
       "category": "影视,幽默"
     },
     {
-      "raw_hot": 213750,
-      "num": 213750,
-      "word": "好声音第二轮导师对战",
-      "onboard_time": 1663940067,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 212656,
       "num": 212656,
       "word": "89岁电台主持重现70年前台呼",
@@ -6745,14 +6769,6 @@
       "onboard_time": 1663736791,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 211119,
-      "num": 153634,
-      "word": "一年一度喜剧大赛真的在演我",
-      "onboard_time": 1663935266,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 211002,
@@ -7219,14 +7235,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 191414,
-      "num": 148655,
-      "word": "徐志胜说快乐是一种精神丰收",
-      "onboard_time": 1663940669,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 191255,
       "num": 191255,
       "word": "秋衣秋裤属于国粹",
@@ -7332,7 +7340,7 @@
     },
     {
       "raw_hot": 187653,
-      "num": 115258,
+      "num": 121434,
       "word": "任嘉伦民国风老照片",
       "onboard_time": 1663937966,
       "rank": 34,
@@ -8049,14 +8057,6 @@
       "onboard_time": 1663910374,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 156849,
-      "num": 156849,
-      "word": "大巴司机3小时车程玩2小时手机",
-      "onboard_time": 1663940370,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156670,
@@ -8777,6 +8777,14 @@
       "onboard_time": 1663651828,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 129023,
+      "num": 129023,
+      "word": "没想到猫也有厌世脸",
+      "onboard_time": 1663940967,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 128893,
@@ -9691,6 +9699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79811,
+      "num": 79811,
+      "word": "辣椒做成口红为啥不辣了",
+      "onboard_time": 1663941267,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79623,
       "num": 79623,
       "word": "WTA500东京站郑钦文进四强",
@@ -9699,12 +9715,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 78731,
-      "num": 78731,
+      "raw_hot": 78876,
+      "num": 923375,
+      "word": "中国航母这10年的那些名场面",
+      "onboard_time": 1663939107,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 78843,
+      "num": 78843,
       "word": "当寻梦环游记照进现实",
       "onboard_time": 1663938149,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 78614,
+      "num": 78614,
+      "word": "韩国2比2哥斯达黎加",
+      "onboard_time": 1663941327,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 77618,
@@ -9755,14 +9787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 75258,
-      "num": 75258,
-      "word": "没想到猫也有厌世脸",
-      "onboard_time": 1663940967,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 74166,
       "num": 74166,
       "word": "王立科案一审宣判",
@@ -9787,19 +9811,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 72826,
-      "num": 923375,
-      "word": "中国航母这10年的那些名场面",
-      "onboard_time": 1663939107,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 71794,
       "num": 158214,
       "word": "现在是买电车的好时机吗",
       "onboard_time": 1663740032,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 70068,
+      "num": 267419,
+      "word": "盲童独自进校150米盲道走10分钟",
+      "onboard_time": 1663940067,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -9817,14 +9841,6 @@
       "onboard_time": 1663671627,
       "rank": 49,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 68932,
-      "num": 267419,
-      "word": "盲童独自进校150米盲道走10分钟",
-      "onboard_time": 1663940067,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 68263,
@@ -9865,14 +9881,6 @@
       "onboard_time": 1663931727,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 63505,
-      "num": 63505,
-      "word": "辣椒做成口红为啥不辣了",
-      "onboard_time": 1663941267,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 60976,
