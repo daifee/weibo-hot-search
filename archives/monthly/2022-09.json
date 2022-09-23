@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1663968121440,
+  "endTime": 1663969217021,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -46051,6 +46051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 27834,
+      "num": 19848,
+      "word": "理想one停产后保障措施公布",
+      "onboard_time": 1663964831,
+      "rank": 43,
+      "category": "科技"
+    },
+    {
       "raw_hot": 27800,
       "num": 553073,
       "word": "如何看待餐饮界的巴奴现象",
@@ -46219,14 +46227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 20861,
-      "num": 19848,
-      "word": "理想one停产后保障措施公布",
-      "onboard_time": 1663964831,
-      "rank": 43,
-      "category": "科技"
-    },
-    {
       "raw_hot": 20412,
       "num": 527464,
       "word": "短片凡心微光",
@@ -46265,6 +46265,14 @@
       "onboard_time": 1663870514,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 19310,
+      "num": 19310,
+      "word": "北京试行二手房卖一买一并行办理",
+      "onboard_time": 1663964890,
+      "rank": 45,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 18893,
@@ -46323,12 +46331,12 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 17113,
-      "num": 17113,
-      "word": "北京试行二手房卖一买一并行办理",
-      "onboard_time": 1663964890,
-      "rank": 45,
-      "category": "财经,社会新闻"
+      "raw_hot": 17375,
+      "num": 17375,
+      "word": "辽宁总冠军戒指曝光",
+      "onboard_time": 1663966391,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 16850,
@@ -46587,6 +46595,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 9041,
+      "num": 9896,
+      "word": "科学家设计出不能传播疟疾的蚊子",
+      "onboard_time": 1663968310,
+      "rank": 46,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 9033,
+      "num": 9896,
+      "word": "京东副总裁蔡磊开启直播带货",
+      "onboard_time": 1663968612,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 8649,
       "num": 8649,
       "word": "辅警7秒飞身救下扶梯摔倒老人",
@@ -46723,14 +46747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 7265,
-      "num": 7265,
-      "word": "辽宁总冠军戒指曝光",
-      "onboard_time": 1663966391,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 7263,
       "num": 451851,
       "word": "苏炳添的300万新学生",
@@ -46777,6 +46793,14 @@
       "onboard_time": 1662323950,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 7053,
+      "num": 9895,
+      "word": "江西95%区域达到特旱",
+      "onboard_time": 1663968552,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 7007,
