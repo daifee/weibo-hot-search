@@ -1,6 +1,6 @@
 {
   "startTime": 1663951005323,
-  "endTime": 1663965762393,
+  "endTime": 1663968121440,
   "band_list": [
     {
       "raw_hot": 2287418,
@@ -419,6 +419,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 28932,
+      "num": 28932,
+      "word": "杭州发放3441.71万餐饮消费券",
+      "onboard_time": 1663962731,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25454,
       "num": 23794,
       "word": "鬓边不是海棠红",
@@ -435,12 +443,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21045,
-      "num": 21045,
-      "word": "杭州发放3441.71万餐饮消费券",
-      "onboard_time": 1663962731,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 20861,
+      "num": 19848,
+      "word": "理想one停产后保障措施公布",
+      "onboard_time": 1663964831,
+      "rank": 43,
+      "category": "科技"
     },
     {
       "raw_hot": 18621,
@@ -448,6 +456,14 @@
       "word": "韩国空中出租车成功试飞",
       "onboard_time": 1663931367,
       "rank": 49,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 17113,
+      "num": 17113,
+      "word": "北京试行二手房卖一买一并行办理",
+      "onboard_time": 1663964890,
+      "rank": 45,
       "category": "财经,社会新闻"
     },
     {
@@ -475,12 +491,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 7461,
-      "num": 7461,
-      "word": "理想one停产后保障措施公布",
-      "onboard_time": 1663964831,
-      "rank": 43,
-      "category": "科技"
+      "raw_hot": 7265,
+      "num": 7265,
+      "word": "辽宁总冠军戒指曝光",
+      "onboard_time": 1663966391,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 6990,
@@ -497,14 +513,6 @@
       "onboard_time": 1663964171,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 6571,
-      "num": 6571,
-      "word": "北京试行二手房卖一买一并行办理",
-      "onboard_time": 1663964890,
-      "rank": 45,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 6443,
@@ -529,6 +537,22 @@
       "onboard_time": 1663965612,
       "rank": 49,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 5896,
+      "num": 6600,
+      "word": "李梦17分",
+      "onboard_time": 1663967711,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 5762,
+      "num": 6600,
+      "word": "果农足不出户用手机种梨日浇百亩",
+      "onboard_time": 1663967770,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
