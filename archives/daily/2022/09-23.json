@@ -1,6 +1,6 @@
 {
   "startTime": 1663864508123,
-  "endTime": 1663913006680,
+  "endTime": 1663914385072,
   "band_list": [
     {
       "raw_hot": 11177915,
@@ -11,8 +11,8 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 4117911,
-      "num": 4117911,
+      "raw_hot": 4455731,
+      "num": 4455731,
       "word": "央视揭秘羊了个羊通关诈骗陷阱",
       "onboard_time": 1663909888,
       "rank": 0,
@@ -57,6 +57,14 @@
       "onboard_time": 1663908155,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1253788,
+      "num": 1253788,
+      "word": "网传一老师将收礼记录误发家长群",
+      "onboard_time": 1663910789,
+      "rank": 6,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1185854,
@@ -147,6 +155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 880796,
+      "num": 490826,
+      "word": "李现一天两封解锁金九银十",
+      "onboard_time": 1663911330,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 814489,
       "num": 814489,
       "word": "关晓彤赵露思新剧二搭",
@@ -169,14 +185,6 @@
       "onboard_time": 1663896984,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 724913,
-      "num": 724913,
-      "word": "网传一老师将收礼记录误发家长群",
-      "onboard_time": 1663910789,
-      "rank": 6,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 692186,
@@ -379,14 +387,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 418642,
-      "num": 418642,
-      "word": "李现一天两封解锁金九银十",
-      "onboard_time": 1663911330,
-      "rank": 15,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 409263,
       "num": 409263,
       "word": "V5改名为NIP",
@@ -459,6 +459,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 368996,
+      "num": 368996,
+      "word": "长沙车主百天0违法获奖1吨汽油",
+      "onboard_time": 1663909293,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 359806,
       "num": 359806,
       "word": "特斯拉召回近110万辆车",
@@ -515,20 +523,28 @@
       "category": "科技"
     },
     {
-      "raw_hot": 308530,
-      "num": 308530,
-      "word": "长沙车主百天0违法获奖1吨汽油",
-      "onboard_time": 1663909293,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 305052,
       "num": 305052,
       "word": "邓紫棋MV荧幕初吻",
       "onboard_time": 1663912167,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 297323,
+      "num": 297323,
+      "word": "辣到时吃什么解辣最管用",
+      "onboard_time": 1663910314,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 289399,
+      "num": 289399,
+      "word": "村民4只羊被偷民警找回6只",
+      "onboard_time": 1663912468,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 276647,
@@ -555,14 +571,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 266886,
-      "num": 266886,
-      "word": "辣到时吃什么解辣最管用",
-      "onboard_time": 1663910314,
-      "rank": 23,
-      "category": "美食"
-    },
-    {
       "raw_hot": 263390,
       "num": 263390,
       "word": "徐艺洋mirrormirror舞蹈MV",
@@ -585,6 +593,14 @@
       "onboard_time": 1663902874,
       "rank": 26,
       "category": "科技"
+    },
+    {
+      "raw_hot": 246494,
+      "num": 246494,
+      "word": "戴眼镜的人到底有多苦恼",
+      "onboard_time": 1663910250,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 240615,
@@ -643,20 +659,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220298,
+      "num": 220298,
+      "word": "金晨王安宇沙滩吻花絮",
+      "onboard_time": 1663911268,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 219440,
       "num": 219440,
       "word": "世界在建规模最大水电工程投产发电",
       "onboard_time": 1663884072,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 206392,
-      "num": 206392,
-      "word": "戴眼镜的人到底有多苦恼",
-      "onboard_time": 1663910250,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 203811,
@@ -811,14 +827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 170831,
-      "num": 170831,
-      "word": "村民4只羊被偷民警找回6只",
-      "onboard_time": 1663912468,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 168724,
       "num": 168724,
       "word": "吴青峰新歌催眠大师",
@@ -857,6 +865,14 @@
       "onboard_time": 1663863506,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156897,
+      "num": 156897,
+      "word": "中国女篮vs波黑女篮",
+      "onboard_time": 1663910374,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 152690,
@@ -920,14 +936,6 @@
       "word": "杭州亚运会倒计时1年",
       "onboard_time": 1663901791,
       "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 140704,
-      "num": 140704,
-      "word": "中国女篮vs波黑女篮",
-      "onboard_time": 1663910374,
-      "rank": 44,
       "category": "体育"
     },
     {
@@ -995,6 +1003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 128893,
+      "num": 128893,
+      "word": "ELLE新偶像面试间",
+      "onboard_time": 1663913486,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 127991,
       "num": 127991,
       "word": "万里归途定档0930",
@@ -1011,12 +1027,12 @@
       "category": "幽默,社会新闻"
     },
     {
-      "raw_hot": 123848,
-      "num": 123848,
-      "word": "金晨王安宇沙滩吻花絮",
-      "onboard_time": 1663911268,
+      "raw_hot": 122895,
+      "num": 122895,
+      "word": "十一计划去哪儿自驾",
+      "onboard_time": 1663913726,
       "rank": 48,
-      "category": "影视"
+      "category": "旅游"
     },
     {
       "raw_hot": 120278,
@@ -1041,6 +1057,14 @@
       "onboard_time": 1663891469,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 113661,
+      "num": 113661,
+      "word": "张彬彬说虞美人等于虞书欣",
+      "onboard_time": 1663913550,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 112673,
