@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1663957968461,
+  "endTime": 1663959094763,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -46251,6 +46251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18812,
+      "num": 18812,
+      "word": "台风奥鹿生成",
+      "onboard_time": 1663957933,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18787,
       "num": 20849,
       "word": "送月亮的人",
@@ -46297,6 +46305,14 @@
       "onboard_time": 1663795331,
       "rank": 46,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 16155,
+      "num": 16155,
+      "word": "05后造出猫脸识别喂食器",
+      "onboard_time": 1663958353,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 16113,
@@ -46393,14 +46409,6 @@
       "onboard_time": 1662544830,
       "rank": 14,
       "category": "科技"
-    },
-    {
-      "raw_hot": 12886,
-      "num": 12886,
-      "word": "台风奥鹿生成",
-      "onboard_time": 1663957933,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12757,

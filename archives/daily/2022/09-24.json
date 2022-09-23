@@ -1,6 +1,6 @@
 {
   "startTime": 1663951005323,
-  "endTime": 1663957968461,
+  "endTime": 1663959094763,
   "band_list": [
     {
       "raw_hot": 2287418,
@@ -419,6 +419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 18812,
+      "num": 18812,
+      "word": "台风奥鹿生成",
+      "onboard_time": 1663957933,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18621,
       "num": 18621,
       "word": "韩国空中出租车成功试飞",
@@ -427,12 +435,12 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 12886,
-      "num": 12886,
-      "word": "台风奥鹿生成",
-      "onboard_time": 1663957933,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 16155,
+      "num": 16155,
+      "word": "05后造出猫脸识别喂食器",
+      "onboard_time": 1663958353,
+      "rank": 44,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [

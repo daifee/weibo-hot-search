@@ -1,6 +1,6 @@
 {
   "startTime": 1663518759246,
-  "endTime": 1663957968461,
+  "endTime": 1663959094763,
   "band_list": [
     {
       "raw_hot": 11177915,
@@ -10371,6 +10371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18812,
+      "num": 18812,
+      "word": "台风奥鹿生成",
+      "onboard_time": 1663957933,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18203,
       "num": 18203,
       "word": "天花板级别的军训汇演",
@@ -10385,6 +10393,14 @@
       "onboard_time": 1663795331,
       "rank": 46,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 16155,
+      "num": 16155,
+      "word": "05后造出猫脸识别喂食器",
+      "onboard_time": 1663958353,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 16113,
@@ -10441,14 +10457,6 @@
       "onboard_time": 1663536371,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 12886,
-      "num": 12886,
-      "word": "台风奥鹿生成",
-      "onboard_time": 1663957933,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12478,
