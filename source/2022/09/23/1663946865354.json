@@ -1,0 +1,410 @@
+{
+  "runTime": 1663946865354,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1037701,
+        "num": 1037701,
+        "word": "骄阳伴我",
+        "onboard_time": 1663932505,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 808202,
+        "num": 808202,
+        "word": "央视揭秘羊了个羊通关诈骗陷阱",
+        "onboard_time": 1663909888,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 76229,
+        "num": 685885,
+        "word": "中国航母这10年的那些名场面",
+        "onboard_time": 1663939107,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1114264,
+        "num": 681352,
+        "word": "大巴司机3小时车程玩2小时手机",
+        "onboard_time": 1663940370,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1047149,
+        "num": 680042,
+        "word": "为什么越来越难恋爱了",
+        "onboard_time": 1663932446,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 661029,
+        "num": 661029,
+        "word": "没有社交是什么感觉",
+        "onboard_time": 1663944330,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 455269,
+        "num": 455269,
+        "word": "教育局确认老师发收礼记录属实",
+        "onboard_time": 1663945830,
+        "rank": 6,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 402561,
+        "num": 402561,
+        "word": "成为最低分的作品有多难",
+        "onboard_time": 1663939768,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 339564,
+        "num": 339564,
+        "word": "法考",
+        "onboard_time": 1663938925,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 338642,
+        "num": 338642,
+        "word": "东八区的先生们",
+        "onboard_time": 1663936226,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1088210,
+        "num": 338538,
+        "word": "灭活疫苗与肺结节风险没有关联",
+        "onboard_time": 1663942227,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329025,
+        "num": 329025,
+        "word": "家长掏万元给女儿全班换新桌椅",
+        "onboard_time": 1663933047,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 328776,
+        "num": 328776,
+        "word": "苏醒陆虎姚政小镇姑娘重置预告",
+        "onboard_time": 1663943369,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 304514,
+        "num": 304514,
+        "word": "真的会被冤种父女的日常笑死",
+        "onboard_time": 1663944028,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 289137,
+        "num": 289137,
+        "word": "一年一度喜剧大赛真的在演我",
+        "onboard_time": 1663935266,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249484,
+        "num": 249484,
+        "word": "狗狗自己捡的小猫自己教",
+        "onboard_time": 1663945231,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 235783,
+        "num": 235783,
+        "word": "女子深夜假装去世母亲给自己回微信",
+        "onboard_time": 1663915226,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233163,
+        "num": 233163,
+        "word": "1岁萌娃为吃零食对着爸爸叫老公",
+        "onboard_time": 1663939588,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227552,
+        "num": 227552,
+        "word": "原来茄子不是麻的",
+        "onboard_time": 1663939408,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210761,
+        "num": 210761,
+        "word": "微信正式更新兼容iOS16",
+        "onboard_time": 1663937307,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 800286,
+        "num": 207020,
+        "word": "张翰让我学会了自拍",
+        "onboard_time": 1663944149,
+        "rank": 20,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 411736,
+        "num": 203984,
+        "word": "网曝上海迪士尼乐园内家长抱孩子在路边大便",
+        "onboard_time": 1663930046,
+        "rank": 21,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 386725,
+        "num": 203265,
+        "word": "21岁单亲妈妈已办理全职入职",
+        "onboard_time": 1663927645,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197683,
+        "num": 197683,
+        "word": "得不到的真的是最好的吗",
+        "onboard_time": 1663943191,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193411,
+        "num": 193411,
+        "word": "华晨宇9周年音乐会舞台定格照",
+        "onboard_time": 1663946727,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190970,
+        "num": 190970,
+        "word": "鬓边不是海棠红",
+        "onboard_time": 1663919426,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166826,
+        "num": 166826,
+        "word": "杭州亚运会倒计时一周年灯光秀",
+        "onboard_time": 1663944149,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155462,
+        "num": 155462,
+        "word": "没想到猫也有厌世脸",
+        "onboard_time": 1663940967,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151044,
+        "num": 151044,
+        "word": "房地产金融化泡沫化势头得到实质性扭转",
+        "onboard_time": 1663932146,
+        "rank": 28,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 144221,
+        "num": 144221,
+        "word": "你其实不喜欢谈恋爱",
+        "onboard_time": 1663946249,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213722,
+        "num": 143621,
+        "word": "内娱新生代帅哥颜值大赏",
+        "onboard_time": 1663933405,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185908,
+        "num": 142055,
+        "word": "徐志胜说快乐是一种精神丰收",
+        "onboard_time": 1663940669,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180661,
+        "num": 139400,
+        "word": "电视剧底线",
+        "onboard_time": 1663943789,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173765,
+        "num": 137359,
+        "word": "警方通报滨州职业学院宿舍刑事案件",
+        "onboard_time": 1663920027,
+        "rank": 33,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 136949,
+        "num": 136949,
+        "word": "韩国空中出租车成功试飞",
+        "onboard_time": 1663931367,
+        "rank": 34,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 156124,
+        "num": 136437,
+        "word": "朴志晟演唱会视频",
+        "onboard_time": 1663946609,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 135315,
+        "num": 135315,
+        "word": "美决定不限制从中国进口钕磁体",
+        "onboard_time": 1663922548,
+        "rank": 36,
+        "category": "国内要闻,国外要闻"
+      },
+      {
+        "raw_hot": 134731,
+        "num": 134731,
+        "word": "自称骑马回国当事人道歉",
+        "onboard_time": 1663946307,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126873,
+        "num": 126873,
+        "word": "辣椒做成口红为啥不辣了",
+        "onboard_time": 1663941267,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121343,
+        "num": 121343,
+        "word": "95后女子用数据分析帮家乡卖万斤桃",
+        "onboard_time": 1663935866,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136329,
+        "num": 118505,
+        "word": "突突突突突围把外卖行业演活了",
+        "onboard_time": 1663946430,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132233,
+        "num": 118108,
+        "word": "赵露思背肩摔侯明昊",
+        "onboard_time": 1663933285,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114554,
+        "num": 114554,
+        "word": "官方回应网红称1800万包下高邮湖",
+        "onboard_time": 1663946430,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113444,
+        "num": 113444,
+        "word": "女子闯红灯被撞质问为什么不让我",
+        "onboard_time": 1663927107,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102438,
+        "num": 102438,
+        "word": "广西龙虎山猴子排队过江",
+        "onboard_time": 1663943969,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101508,
+        "num": 101508,
+        "word": "被小学生上了一堂恋爱课",
+        "onboard_time": 1663942768,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96063,
+        "num": 96063,
+        "word": "韩国2比2哥斯达黎加",
+        "onboard_time": 1663941327,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93309,
+        "num": 93309,
+        "word": "云南农大丁同学做招生加章",
+        "onboard_time": 1663946190,
+        "rank": 47,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 90480,
+        "num": 90480,
+        "word": "老人蹬三轮捐35万资助贫困生",
+        "onboard_time": 1663931187,
+        "rank": 48,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 68943,
+        "num": 89311,
+        "word": "女学霸凭6科第一7次霸榜光荣榜",
+        "onboard_time": 1663946850,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#重返太空的183天#"
+    }
+  }
+}
