@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1663961848357,
+  "endTime": 1663964776141,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -46011,6 +46011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30139,
+      "num": 30139,
+      "word": "富士康内部人士回应拆除iPhone14部分产线",
+      "onboard_time": 1663961231,
+      "rank": 46,
+      "category": "科技"
+    },
+    {
       "raw_hot": 29285,
       "num": 29285,
       "word": "视障老人寸步不离照顾阿尔茨海默病妻子",
@@ -46315,6 +46323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 16304,
+      "num": 16304,
+      "word": "杭州发放3441.71万餐饮消费券",
+      "onboard_time": 1663962731,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16113,
       "num": 16113,
       "word": "开学季",
@@ -46457,14 +46473,6 @@
       "onboard_time": 1663799114,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 10916,
-      "num": 10916,
-      "word": "富士康内部人士回应拆除iPhone14部分产线",
-      "onboard_time": 1663961231,
-      "rank": 46,
-      "category": "科技"
     },
     {
       "raw_hot": 10748,
@@ -46787,6 +46795,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 6683,
+      "num": 6683,
+      "word": "难住北方人的26个词",
+      "onboard_time": 1663964171,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 6674,
       "num": 6674,
       "word": "台风梅花15日夜间登陆山东",
@@ -46857,6 +46873,14 @@
       "onboard_time": 1662410230,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6443,
+      "num": 6443,
+      "word": "猫猫能有多妖娆",
+      "onboard_time": 1663963990,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 6391,
