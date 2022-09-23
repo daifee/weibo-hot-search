@@ -1,6 +1,6 @@
 {
   "startTime": 1663864508123,
-  "endTime": 1663921876101,
+  "endTime": 1663923087435,
   "band_list": [
     {
       "raw_hot": 11177915,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 928596,
+      "num": 429892,
+      "word": "警方通报滨州职业学院宿舍刑事案件",
+      "onboard_time": 1663920027,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 886619,
       "num": 886619,
       "word": "蔡文静新剧演关晓彤妈妈",
@@ -187,12 +195,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 821444,
-      "num": 429892,
-      "word": "警方通报滨州职业学院宿舍刑事案件",
-      "onboard_time": 1663920027,
-      "rank": 10,
-      "category": "社会负面"
+      "raw_hot": 837485,
+      "num": 782321,
+      "word": "鬓边不是海棠红",
+      "onboard_time": 1663919426,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 814489,
@@ -203,12 +211,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 766092,
-      "num": 766092,
-      "word": "鬓边不是海棠红",
-      "onboard_time": 1663919426,
-      "rank": 37,
-      "category": "影视"
+      "raw_hot": 782364,
+      "num": 782364,
+      "word": "顺丰回应男子寄鱼干到货只剩头尾",
+      "onboard_time": 1663919846,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 741928,
@@ -256,14 +264,6 @@
       "word": "女子恋爱2个月偷男友近万元",
       "onboard_time": 1663907854,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 633419,
-      "num": 633419,
-      "word": "顺丰回应男子寄鱼干到货只剩头尾",
-      "onboard_time": 1663919846,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -459,6 +459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 415488,
+      "num": 371137,
+      "word": "郭晓婷GQ采访",
+      "onboard_time": 1663919426,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 409263,
       "num": 409263,
       "word": "V5改名为NIP",
@@ -513,6 +521,14 @@
       "onboard_time": 1663901853,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 374803,
+      "num": 374803,
+      "word": "被山东硬核把子肉馋到了",
+      "onboard_time": 1663919606,
+      "rank": 19,
+      "category": "美食"
     },
     {
       "raw_hot": 371277,
@@ -571,6 +587,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 338029,
+      "num": 338029,
+      "word": "陈小春30年前给杜德伟当伴舞",
+      "onboard_time": 1663920987,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 337594,
       "num": 337594,
       "word": "德国称希望成为安理会常任理事国",
@@ -585,14 +609,6 @@
       "onboard_time": 1663900466,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 330193,
-      "num": 330193,
-      "word": "陈小春30年前给杜德伟当伴舞",
-      "onboard_time": 1663920987,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 326991,
@@ -635,20 +651,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 277470,
-      "num": 277470,
-      "word": "被山东硬核把子肉馋到了",
-      "onboard_time": 1663919606,
-      "rank": 19,
-      "category": "美食"
-    },
-    {
       "raw_hot": 276647,
       "num": 276647,
       "word": "女子办证时偷偷递纸条给民警求助",
       "onboard_time": 1663869434,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 275367,
+      "num": 275367,
+      "word": "柬埔寨沉船事故疑似事发画面",
+      "onboard_time": 1663917627,
+      "rank": 43,
+      "category": "国内要闻,国外要闻"
     },
     {
       "raw_hot": 273305,
@@ -683,14 +699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 253218,
-      "num": 253218,
-      "word": "柬埔寨沉船事故疑似事发画面",
-      "onboard_time": 1663917627,
-      "rank": 43,
-      "category": "国内要闻,国外要闻"
-    },
-    {
       "raw_hot": 251559,
       "num": 251559,
       "word": "饿了么",
@@ -715,12 +723,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 238868,
-      "num": 238868,
-      "word": "郭晓婷GQ采访",
-      "onboard_time": 1663919426,
-      "rank": 46,
-      "category": "作品衍生"
+      "raw_hot": 237960,
+      "num": 237960,
+      "word": "野蛮生长",
+      "onboard_time": 1663920564,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 237140,
@@ -729,6 +737,14 @@
       "onboard_time": 1663891047,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231469,
+      "num": 231469,
+      "word": "这猫居然会嗑瓜子",
+      "onboard_time": 1663920927,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 230958,
@@ -795,14 +811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215728,
-      "num": 169308,
-      "word": "野蛮生长",
-      "onboard_time": 1663920564,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 214664,
       "num": 214664,
       "word": "生鱼片由我国唐朝传入日本",
@@ -849,6 +857,14 @@
       "onboard_time": 1663893809,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 195351,
+      "num": 195351,
+      "word": "美决定不限制从中国进口钕磁体",
+      "onboard_time": 1663922548,
+      "rank": 27,
+      "category": "国内要闻,国外要闻"
     },
     {
       "raw_hot": 192700,
@@ -993,14 +1009,6 @@
       "onboard_time": 1663906771,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 166209,
-      "num": 166209,
-      "word": "这猫居然会嗑瓜子",
-      "onboard_time": 1663920927,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 162534,
@@ -1219,6 +1227,14 @@
       "category": "国内要闻,国外要闻"
     },
     {
+      "raw_hot": 121237,
+      "num": 121237,
+      "word": "秋分后通常一天比一天冷",
+      "onboard_time": 1663922366,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120278,
       "num": 120278,
       "word": "9月22日新增本土无症状627例",
@@ -1296,6 +1312,14 @@
       "word": "长空之王",
       "onboard_time": 1663894048,
       "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 104852,
+      "num": 104852,
+      "word": "虞书欣张彬彬片场加戏嗨了",
+      "onboard_time": 1663922843,
+      "rank": 47,
       "category": "影视"
     },
     {
@@ -1475,12 +1499,20 @@
       "category": "科技"
     },
     {
-      "raw_hot": 50015,
+      "raw_hot": 56537,
       "num": 1431051,
       "word": "24节气里的丰收底色",
       "onboard_time": 1663919787,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 54306,
+      "num": 134043,
+      "word": "平行世界的你能有多精彩",
+      "onboard_time": 1663920087,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 44304,
