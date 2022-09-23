@@ -1,6 +1,6 @@
 {
   "startTime": 1663951005323,
-  "endTime": 1663952574795,
+  "endTime": 1663954491210,
   "band_list": [
     {
       "raw_hot": 2287418,
@@ -195,20 +195,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 142004,
+      "num": 142004,
+      "word": "当两个广东人努力用广普交流",
+      "onboard_time": 1663949067,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135800,
       "num": 135800,
       "word": "真的会被冤种父女的日常笑死",
       "onboard_time": 1663944028,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 135329,
-      "num": 135329,
-      "word": "当两个广东人努力用广普交流",
-      "onboard_time": 1663949067,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 117615,
@@ -241,6 +241,14 @@
       "onboard_time": 1663933405,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109749,
+      "num": 109749,
+      "word": "四姑娘山今秋第一场雪",
+      "onboard_time": 1663950682,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109743,
@@ -280,14 +288,6 @@
       "word": "女子深夜假装去世母亲给自己回微信",
       "onboard_time": 1663915226,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 93330,
-      "num": 93330,
-      "word": "四姑娘山今秋第一场雪",
-      "onboard_time": 1663950682,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -401,6 +401,14 @@
       "onboard_time": 1663939107,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 40611,
+      "num": 40611,
+      "word": "黄大妈说不可能要求年轻人豁达",
+      "onboard_time": 1663953497,
+      "rank": 41,
+      "category": "作品衍生"
     }
   ],
   "hotgov_list": [

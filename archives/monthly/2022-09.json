@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1663952574795,
+  "endTime": 1663954491210,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -40795,6 +40795,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 142004,
+      "num": 142004,
+      "word": "当两个广东人努力用广普交流",
+      "onboard_time": 1663949067,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 141884,
       "num": 141884,
       "word": "澳门举办WTT冠军赛",
@@ -41425,14 +41433,6 @@
       "onboard_time": 1663364711,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 135329,
-      "num": 135329,
-      "word": "当两个广东人努力用广普交流",
-      "onboard_time": 1663949067,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 135282,
@@ -43491,6 +43491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109749,
+      "num": 109749,
+      "word": "四姑娘山今秋第一场雪",
+      "onboard_time": 1663950682,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109294,
       "num": 109294,
       "word": "种牙凭什么这么贵",
@@ -44272,14 +44280,6 @@
       "word": "熊猫宝宝集体趴睡现场",
       "onboard_time": 1662878370,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 93330,
-      "num": 93330,
-      "word": "四姑娘山今秋第一场雪",
-      "onboard_time": 1663950682,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -45785,6 +45785,14 @@
       "onboard_time": 1662220470,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 40611,
+      "num": 40611,
+      "word": "黄大妈说不可能要求年轻人豁达",
+      "onboard_time": 1663953497,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 40481,
