@@ -1,6 +1,6 @@
 {
   "startTime": 1663864508123,
-  "endTime": 1663918733381,
+  "endTime": 1663919565012,
   "band_list": [
     {
       "raw_hot": 11177915,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1863252,
+      "num": 1863252,
+      "word": "女子深夜假装去世母亲给自己回微信",
+      "onboard_time": 1663915226,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1804393,
       "num": 642080,
       "word": "底线拍了江歌案",
@@ -49,14 +57,6 @@
       "onboard_time": 1663900706,
       "rank": 11,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1559893,
-      "num": 1559893,
-      "word": "女子深夜假装去世母亲给自己回微信",
-      "onboard_time": 1663915226,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1506369,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1043383,
+      "num": 1043383,
+      "word": "爱奇艺未来1年电视剧排播表",
+      "onboard_time": 1663915888,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1034344,
       "num": 1034344,
       "word": "月嫂临走前做各种面食塞满冰箱",
@@ -128,14 +136,6 @@
       "word": "苍兰诀连婚茶都备好了",
       "onboard_time": 1663899384,
       "rank": 3,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 966609,
-      "num": 966609,
-      "word": "爱奇艺未来1年电视剧排播表",
-      "onboard_time": 1663915888,
-      "rank": 4,
       "category": "影视"
     },
     {
@@ -184,6 +184,14 @@
       "word": "关晓彤赵露思新剧二搭",
       "onboard_time": 1663911388,
       "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 755663,
+      "num": 755663,
+      "word": "改编不输原著的剧",
+      "onboard_time": 1663917568,
+      "rank": 7,
       "category": "影视"
     },
     {
@@ -259,14 +267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 589098,
-      "num": 589098,
-      "word": "改编不输原著的剧",
-      "onboard_time": 1663917568,
-      "rank": 7,
-      "category": "影视"
-    },
-    {
       "raw_hot": 585727,
       "num": 585727,
       "word": "2022国庆档新片阵容",
@@ -339,6 +339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 494985,
+      "num": 494985,
+      "word": "韩总统府称尹锡悦没有辱骂美国国会",
+      "onboard_time": 1663915948,
+      "rank": 32,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 494509,
       "num": 494509,
       "word": "林一公主抱刘浩存路透",
@@ -377,14 +385,6 @@
       "onboard_time": 1663900167,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 444115,
-      "num": 444115,
-      "word": "韩总统府称尹锡悦没有辱骂美国国会",
-      "onboard_time": 1663915948,
-      "rank": 32,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 443545,
@@ -427,6 +427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 427556,
+      "num": 404342,
+      "word": "中国使馆通报柬埔寨沉船事故",
+      "onboard_time": 1663916908,
+      "rank": 15,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 409263,
       "num": 409263,
       "word": "V5改名为NIP",
@@ -457,6 +465,14 @@
       "onboard_time": 1663902994,
       "rank": 44,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 399763,
+      "num": 399763,
+      "word": "魏大勋被点名交换儿子",
+      "onboard_time": 1663915528,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 395925,
@@ -547,14 +563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 328307,
-      "num": 328307,
-      "word": "中国使馆通报柬埔寨沉船事故",
-      "onboard_time": 1663916908,
-      "rank": 15,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 326991,
       "num": 326991,
       "word": "胡一天梁洁新剧杀青",
@@ -585,14 +593,6 @@
       "onboard_time": 1663903413,
       "rank": 27,
       "category": "科技"
-    },
-    {
-      "raw_hot": 312880,
-      "num": 312880,
-      "word": "魏大勋被点名交换儿子",
-      "onboard_time": 1663915528,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 305052,
@@ -697,6 +697,14 @@
       "onboard_time": 1663906652,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 223264,
+      "num": 223264,
+      "word": "王一博街舞5给队员送加油晚餐",
+      "onboard_time": 1663919127,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 222629,
@@ -891,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170066,
+      "num": 170066,
+      "word": "柬埔寨沉船事故疑似事发画面",
+      "onboard_time": 1663917627,
+      "rank": 43,
+      "category": "国内要闻,国外要闻"
+    },
+    {
       "raw_hot": 168724,
       "num": 168724,
       "word": "吴青峰新歌催眠大师",
@@ -1011,6 +1027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140884,
+      "num": 140884,
+      "word": "鬓边不是海棠红",
+      "onboard_time": 1663919426,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 137896,
       "num": 137896,
       "word": "富士康拆除iPhone部分产线",
@@ -1075,14 +1099,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 131930,
-      "num": 131930,
-      "word": "柬埔寨沉船事故疑似事发画面",
-      "onboard_time": 1663917627,
-      "rank": 43,
-      "category": "国内要闻,国外要闻"
-    },
-    {
       "raw_hot": 130533,
       "num": 130533,
       "word": "潘粤明新剧开分8.2",
@@ -1145,6 +1161,14 @@
       "onboard_time": 1663901312,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 119972,
+      "num": 119972,
+      "word": "郭晓婷GQ采访",
+      "onboard_time": 1663919426,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 114910,
@@ -1225,6 +1249,14 @@
       "onboard_time": 1663854570,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 100960,
+      "num": 100960,
+      "word": "即日起开展断号行动",
+      "onboard_time": 1663919006,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 88999,
@@ -1363,7 +1395,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 51861,
+      "raw_hot": 59847,
       "num": 152891,
       "word": "高德地图界面变成3D立体风",
       "onboard_time": 1663916428,
