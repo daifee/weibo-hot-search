@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/23 20:48:45
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/23 21:13:08
 </p>
 </blockquote>
 <p>
@@ -4329,6 +4329,12 @@ iPhone14已产逾3400万部（热度：1174969）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E6%8E%8F%E4%B8%87%E5%85%83%E7%BB%99%E5%A5%B3%E5%84%BF%E5%85%A8%E7%8F%AD%E6%8D%A2%E6%96%B0%E6%A1%8C%E6%A4%85%23" target="weibo">
+家长掏万元给女儿全班换新桌椅（热度：1173107）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A7%91%E9%99%A2%E8%AF%95%E9%AA%8C%E7%AB%99%E9%81%87%E9%9A%BE%E5%A5%B3%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23" target="weibo">
 中科院试验站遇难女研究生家属发声（热度：1171145）
 </a>
@@ -4967,12 +4973,6 @@ QQ推出QQ学生卡（热度：1084298）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%A5%B3%E7%8E%8B%E8%91%AC%E7%A4%BC%E4%B8%BE%E8%A1%8C%23" target="weibo">
 英女王葬礼举行（热度：1074074）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E6%8E%8F%E4%B8%87%E5%85%83%E7%BB%99%E5%A5%B3%E5%84%BF%E5%85%A8%E7%8F%AD%E6%8D%A2%E6%96%B0%E6%A1%8C%E6%A4%85%23" target="weibo">
-家长掏万元给女儿全班换新桌椅（热度：1073319）
 </a>
 </li>
 
