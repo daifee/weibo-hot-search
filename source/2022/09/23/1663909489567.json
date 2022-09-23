@@ -1,0 +1,410 @@
+{
+  "runTime": 1663909489567,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7148570,
+        "num": 7148570,
+        "word": "唐山打人案一审宣判",
+        "onboard_time": 1663900829,
+        "rank": 0,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1426360,
+        "num": 1426360,
+        "word": "老师目睹学生车祸后在原地站岗16年",
+        "onboard_time": 1663900706,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 48389,
+        "num": 1317686,
+        "word": "惊艳了整个秋天的丰收色",
+        "onboard_time": 1663849649,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1232895,
+        "num": 1232895,
+        "word": "女子瘦20斤脑内取出27厘米长活虫",
+        "onboard_time": 1663893270,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 988150,
+        "num": 988150,
+        "word": "阿爽",
+        "onboard_time": 1663908155,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 955608,
+        "num": 955608,
+        "word": "月嫂临走前做各种面食塞满冰箱",
+        "onboard_time": 1663900286,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 925773,
+        "num": 925773,
+        "word": "16岁少年打工买奥迪无证上高速",
+        "onboard_time": 1663903472,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 813130,
+        "num": 813130,
+        "word": "铁人三项女运动员比赛服被批不得体",
+        "onboard_time": 1663899087,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 780182,
+        "num": 780182,
+        "word": "蔡文静新剧演关晓彤妈妈",
+        "onboard_time": 1663901973,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 669240,
+        "num": 669240,
+        "word": "苍兰诀连婚茶都备好了",
+        "onboard_time": 1663899384,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1002795,
+        "num": 655071,
+        "word": "王鹤棣我喜欢自己的全部",
+        "onboard_time": 1663904913,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 842316,
+        "num": 642080,
+        "word": "底线拍了江歌案",
+        "onboard_time": 1663896746,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 622156,
+        "num": 622156,
+        "word": "美国核航母群抵达韩国",
+        "onboard_time": 1663907615,
+        "rank": 12,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 591328,
+        "num": 591328,
+        "word": "男子弃百万年薪种红薯3年挣350万",
+        "onboard_time": 1663904913,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483470,
+        "num": 483470,
+        "word": "为什么说买东西而不是买南北",
+        "onboard_time": 1663904071,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 443545,
+        "num": 443545,
+        "word": "司仪主持完婚礼上桌吃饭被扣尾款",
+        "onboard_time": 1663905812,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436675,
+        "num": 436675,
+        "word": "乌克兰4地入俄公投从堪察加开始",
+        "onboard_time": 1663905991,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 436388,
+        "num": 436388,
+        "word": "安卓灵动岛APP上架",
+        "onboard_time": 1663899267,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 358029,
+        "num": 358029,
+        "word": "V5改名为NIP",
+        "onboard_time": 1663904552,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 352892,
+        "num": 352892,
+        "word": "DR回应成本4000卖1.5万",
+        "onboard_time": 1663906714,
+        "rank": 19,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 342464,
+        "num": 342464,
+        "word": "男子暴晒1天钓上1条鱼却被猫抢走",
+        "onboard_time": 1663900167,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341820,
+        "num": 341820,
+        "word": "以前的四川人捡到大熊猫",
+        "onboard_time": 1663907434,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 340604,
+        "num": 340604,
+        "word": "成都新增本土确诊病例3例",
+        "onboard_time": 1663904491,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338633,
+        "num": 338633,
+        "word": "女运动员回应穿铁三服被指太露骨",
+        "onboard_time": 1663902994,
+        "rank": 23,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 329052,
+        "num": 329052,
+        "word": "女子陪闺蜜看病自己查出癌症",
+        "onboard_time": 1663893750,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324819,
+        "num": 324819,
+        "word": "父亲再婚后起诉5岁儿子降抚养费",
+        "onboard_time": 1663893030,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322043,
+        "num": 322043,
+        "word": "中国最便宜的火车票仅售1元",
+        "onboard_time": 1663905034,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278063,
+        "num": 278063,
+        "word": "女大学生为爱远嫁深山带动全村致富",
+        "onboard_time": 1663900466,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274057,
+        "num": 274057,
+        "word": "王一博第一部上映的电影",
+        "onboard_time": 1663908694,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264787,
+        "num": 264787,
+        "word": "女子恋爱2个月偷男友近万元",
+        "onboard_time": 1663907854,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259878,
+        "num": 259878,
+        "word": "苹果正研发两款折叠屏iPhone",
+        "onboard_time": 1663903413,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 253978,
+        "num": 253978,
+        "word": "男子网购鳄鱼养6年咬伤邻居",
+        "onboard_time": 1663899384,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251234,
+        "num": 251234,
+        "word": "徐艺洋mirrormirror舞蹈MV",
+        "onboard_time": 1663908211,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 249797,
+        "num": 249797,
+        "word": "男生打游戏听出网友病危异地报警",
+        "onboard_time": 1663899687,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219135,
+        "num": 219135,
+        "word": "义乌发现5例省外输入阳性感染者",
+        "onboard_time": 1663901853,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198605,
+        "num": 198605,
+        "word": "张翰是不是想营造出虞书欣这种感觉",
+        "onboard_time": 1663859609,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198279,
+        "num": 198279,
+        "word": "人工智能像极了人工智障",
+        "onboard_time": 1663906652,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180283,
+        "num": 180283,
+        "word": "饿了么",
+        "onboard_time": 1663902874,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 174116,
+        "num": 174116,
+        "word": "陈哲远沈月新剧梦回周斯越陈小希",
+        "onboard_time": 1663902933,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172257,
+        "num": 172257,
+        "word": "浙江衢州隧道车祸",
+        "onboard_time": 1663908991,
+        "rank": 39,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 166679,
+        "num": 166679,
+        "word": "唐山烧烤店打人案28名被告获刑",
+        "onboard_time": 1663905513,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161587,
+        "num": 161587,
+        "word": "苹果正式修复iOS16粘贴弹窗",
+        "onboard_time": 1663897407,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 155533,
+        "num": 155533,
+        "word": "特斯拉召回近110万辆车",
+        "onboard_time": 1663901007,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 152519,
+        "num": 152519,
+        "word": "男子玩密室逃脱被吓摔成十级伤残",
+        "onboard_time": 1663908813,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151105,
+        "num": 151105,
+        "word": "林一公主抱刘浩存路透",
+        "onboard_time": 1663900947,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148554,
+        "num": 148554,
+        "word": "河南师范大学九十九周年校庆",
+        "onboard_time": 1663903472,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 141263,
+        "num": 141263,
+        "word": "银行柜员50当5元多给客户1万8",
+        "onboard_time": 1663888761,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141019,
+        "num": 141019,
+        "word": "长沙车主百天0违法获奖1吨汽油",
+        "onboard_time": 1663909293,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127445,
+        "num": 127445,
+        "word": "女子高铁独霸三座辱骂乘务员",
+        "onboard_time": 1663896984,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125338,
+        "num": 125338,
+        "word": "为了我们的荣耀阵容官宣",
+        "onboard_time": 1663906771,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国农民丰收节#"
+    }
+  }
+}

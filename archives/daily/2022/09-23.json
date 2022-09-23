@@ -1,6 +1,6 @@
 {
   "startTime": 1663864508123,
-  "endTime": 1663908700620,
+  "endTime": 1663909489567,
   "band_list": [
     {
       "raw_hot": 11177915,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1804393,
-      "num": 545456,
+      "num": 642080,
       "word": "底线拍了江歌案",
       "onboard_time": 1663896746,
       "rank": 10,
@@ -75,12 +75,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 979715,
-      "num": 503835,
+      "raw_hot": 1002795,
+      "num": 655071,
       "word": "王鹤棣我喜欢自己的全部",
       "onboard_time": 1663904913,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 988150,
+      "num": 988150,
+      "word": "阿爽",
+      "onboard_time": 1663908155,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 978575,
@@ -163,12 +171,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 622156,
+      "num": 622156,
+      "word": "美国核航母群抵达韩国",
+      "onboard_time": 1663907615,
+      "rank": 13,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 597633,
       "num": 597633,
       "word": "苹果正式修复iOS16粘贴弹窗",
       "onboard_time": 1663897407,
       "rank": 5,
       "category": "科技"
+    },
+    {
+      "raw_hot": 591328,
+      "num": 591328,
+      "word": "男子弃百万年薪种红薯3年挣350万",
+      "onboard_time": 1663904913,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 585727,
@@ -227,14 +251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 510494,
-      "num": 510494,
-      "word": "男子弃百万年薪种红薯3年挣350万",
-      "onboard_time": 1663904913,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 504277,
       "num": 504277,
       "word": "王一博说期待和长空之王相见",
@@ -259,20 +275,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 483470,
+      "num": 483470,
+      "word": "为什么说买东西而不是买南北",
+      "onboard_time": 1663904071,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 472495,
       "num": 472495,
       "word": "陈继志一审被判24年",
       "onboard_time": 1663901312,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 463248,
-      "num": 463248,
-      "word": "美国核航母群抵达韩国",
-      "onboard_time": 1663907615,
-      "rank": 13,
-      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 444881,
@@ -283,20 +299,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 443545,
+      "num": 443545,
+      "word": "司仪主持完婚礼上桌吃饭被扣尾款",
+      "onboard_time": 1663905812,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 438936,
       "num": 438936,
       "word": "乌克兰4地入俄公投从堪察加开始",
       "onboard_time": 1663905991,
       "rank": 14,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 438205,
-      "num": 438205,
-      "word": "为什么说买东西而不是买南北",
-      "onboard_time": 1663904071,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 434122,
@@ -312,14 +328,6 @@
       "word": "男子网购鳄鱼养6年咬伤邻居",
       "onboard_time": 1663899384,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 428142,
-      "num": 428142,
-      "word": "司仪主持完婚礼上桌吃饭被扣尾款",
-      "onboard_time": 1663905812,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -363,14 +371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 380546,
-      "num": 380546,
-      "word": "阿爽",
-      "onboard_time": 1663908155,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 371277,
       "num": 352113,
       "word": "银行柜员50当5元多给客户1万8",
@@ -401,6 +401,14 @@
       "onboard_time": 1663901007,
       "rank": 22,
       "category": "科技"
+    },
+    {
+      "raw_hot": 341820,
+      "num": 341820,
+      "word": "以前的四川人捡到大熊猫",
+      "onboard_time": 1663907434,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 337594,
@@ -459,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274057,
+      "num": 274057,
+      "word": "王一博第一部上映的电影",
+      "onboard_time": 1663908694,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 273305,
       "num": 273305,
       "word": "保安抓捕流浪狗母子倒入湖中",
@@ -473,6 +489,14 @@
       "onboard_time": 1663861352,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 264787,
+      "num": 264787,
+      "word": "女子恋爱2个月偷男友近万元",
+      "onboard_time": 1663907854,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 258315,
@@ -491,6 +515,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 251234,
+      "num": 251234,
+      "word": "徐艺洋mirrormirror舞蹈MV",
+      "onboard_time": 1663908211,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 240615,
       "num": 240615,
       "word": "这就是妙手生花吧",
@@ -505,14 +537,6 @@
       "onboard_time": 1663891047,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 232983,
-      "num": 232983,
-      "word": "徐艺洋mirrormirror舞蹈MV",
-      "onboard_time": 1663908211,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 230958,
@@ -553,14 +577,6 @@
       "onboard_time": 1663884072,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 218311,
-      "num": 218311,
-      "word": "以前的四川人捡到大熊猫",
-      "onboard_time": 1663907434,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 203811,
@@ -667,14 +683,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 182502,
-      "num": 151157,
-      "word": "王一博第一部上映的电影",
-      "onboard_time": 1663908694,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 180865,
       "num": 180865,
       "word": "河南师范大学九十九周年校庆",
@@ -697,6 +705,14 @@
       "onboard_time": 1663902213,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 172257,
+      "num": 172257,
+      "word": "浙江衢州隧道车祸",
+      "onboard_time": 1663908991,
+      "rank": 39,
+      "category": "社会负面"
     },
     {
       "raw_hot": 171225,
@@ -731,14 +747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165407,
-      "num": 165407,
-      "word": "女子恋爱2个月偷男友近万元",
-      "onboard_time": 1663907854,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 157952,
       "num": 157952,
       "word": "新娘出嫁时跪谢83岁奶奶",
@@ -753,6 +761,14 @@
       "onboard_time": 1663861290,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 152519,
+      "num": 152519,
+      "word": "男子玩密室逃脱被吓摔成十级伤残",
+      "onboard_time": 1663908813,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151973,
@@ -809,6 +825,14 @@
       "onboard_time": 1663901791,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141019,
+      "num": 141019,
+      "word": "长沙车主百天0违法获奖1吨汽油",
+      "onboard_time": 1663909293,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137896,
