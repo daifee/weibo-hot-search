@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1663955541250,
+  "endTime": 1663957968461,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -45571,6 +45571,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 54048,
+      "num": 54048,
+      "word": "黄大妈说不可能要求年轻人豁达",
+      "onboard_time": 1663953497,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 53612,
       "num": 53612,
       "word": "58岁自驾阿姨苏敏称会继续出发",
@@ -45713,14 +45721,6 @@
       "onboard_time": 1662228194,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 44851,
-      "num": 44851,
-      "word": "黄大妈说不可能要求年轻人豁达",
-      "onboard_time": 1663953497,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 44464,
@@ -46393,6 +46393,14 @@
       "onboard_time": 1662544830,
       "rank": 14,
       "category": "科技"
+    },
+    {
+      "raw_hot": 12886,
+      "num": 12886,
+      "word": "台风奥鹿生成",
+      "onboard_time": 1663957933,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12757,

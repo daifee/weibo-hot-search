@@ -1,6 +1,6 @@
 {
   "startTime": 1663951005323,
-  "endTime": 1663955541250,
+  "endTime": 1663957968461,
   "band_list": [
     {
       "raw_hot": 2287418,
@@ -387,20 +387,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54048,
+      "num": 54048,
+      "word": "黄大妈说不可能要求年轻人豁达",
+      "onboard_time": 1663953497,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 53555,
       "num": 53555,
       "word": "女子闯红灯被撞质问为什么不让我",
       "onboard_time": 1663927107,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44851,
-      "num": 44851,
-      "word": "黄大妈说不可能要求年轻人豁达",
-      "onboard_time": 1663953497,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 44188,
@@ -411,17 +411,36 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 25454,
+      "num": 23794,
+      "word": "鬓边不是海棠红",
+      "onboard_time": 1663919426,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 18621,
       "num": 18621,
       "word": "韩国空中出租车成功试飞",
       "onboard_time": 1663931367,
       "rank": 49,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 12886,
+      "num": 12886,
+      "word": "台风奥鹿生成",
+      "onboard_time": 1663957933,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#重返太空的183天#"
+    },
+    {
+      "word": "#习近平致信祝贺中国新闻社建社70周年#"
     }
   ]
 }
