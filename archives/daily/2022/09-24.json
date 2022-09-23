@@ -1,6 +1,6 @@
 {
   "startTime": 1663951005323,
-  "endTime": 1663973108103,
+  "endTime": 1663975598456,
   "band_list": [
     {
       "raw_hot": 2287418,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 639739,
+      "num": 639739,
+      "word": "官方回应网红称1800万包下高邮湖",
+      "onboard_time": 1663946430,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 497074,
       "num": 184770,
       "word": "张翰让我学会了自拍",
@@ -43,11 +51,11 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 460823,
-      "num": 460823,
-      "word": "官方回应网红称1800万包下高邮湖",
-      "onboard_time": 1663946430,
-      "rank": 5,
+      "raw_hot": 447661,
+      "num": 447661,
+      "word": "凛冬将至欧洲狂买中国取暖设备",
+      "onboard_time": 1663948048,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -67,6 +75,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 389581,
+      "num": 389581,
+      "word": "自称骑马回国当事人道歉",
+      "onboard_time": 1663946307,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 387473,
       "num": 387473,
       "word": "大巴司机3小时车程玩2小时手机",
@@ -81,22 +97,6 @@
       "onboard_time": 1663909888,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 348460,
-      "num": 348460,
-      "word": "凛冬将至欧洲狂买中国取暖设备",
-      "onboard_time": 1663948048,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 320396,
-      "num": 320396,
-      "word": "自称骑马回国当事人道歉",
-      "onboard_time": 1663946307,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 318477,
@@ -131,6 +131,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 263996,
+      "num": 175940,
+      "word": "21岁单亲妈妈已办理全职入职",
+      "onboard_time": 1663927645,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245868,
       "num": 245868,
       "word": "云南农大丁同学做招生加章",
@@ -139,20 +147,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 245668,
+      "num": 180916,
+      "word": "京东副总裁蔡磊开启直播带货",
+      "onboard_time": 1663968612,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240120,
       "num": 240120,
       "word": "哪一刻意识到爱自己很重要",
       "onboard_time": 1663947629,
       "rank": 16,
       "category": "作品衍生,情感"
-    },
-    {
-      "raw_hot": 236477,
-      "num": 175940,
-      "word": "21岁单亲妈妈已办理全职入职",
-      "onboard_time": 1663927645,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 217967,
@@ -179,11 +187,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 197672,
-      "num": 109986,
-      "word": "京东副总裁蔡磊开启直播带货",
-      "onboard_time": 1663968612,
-      "rank": 47,
+      "raw_hot": 198893,
+      "num": 198893,
+      "word": "江西95%区域达到特旱",
+      "onboard_time": 1663968552,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -193,6 +201,14 @@
       "onboard_time": 1663935266,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153808,
+      "num": 153808,
+      "word": "家长掏万元给女儿全班换新桌椅",
+      "onboard_time": 1663933047,
+      "rank": 34,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 146555,
@@ -219,12 +235,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 119308,
-      "num": 105341,
-      "word": "江西95%区域达到特旱",
-      "onboard_time": 1663968552,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 128513,
+      "num": 128513,
+      "word": "时尚芭莎镜头下的垫底辣孩",
+      "onboard_time": 1663931547,
+      "rank": 33,
+      "category": "网红,时尚"
     },
     {
       "raw_hot": 117615,
@@ -241,6 +257,14 @@
       "onboard_time": 1663950682,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112973,
+      "num": 112973,
+      "word": "北京试行二手房卖一买一并行办理",
+      "onboard_time": 1663964890,
+      "rank": 45,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 111886,
@@ -267,12 +291,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 109743,
-      "num": 106150,
-      "word": "时尚芭莎镜头下的垫底辣孩",
-      "onboard_time": 1663931547,
-      "rank": 33,
-      "category": "网红,时尚"
+      "raw_hot": 109097,
+      "num": 109097,
+      "word": "富士康内部人士回应拆除iPhone14部分产线",
+      "onboard_time": 1663961231,
+      "rank": 46,
+      "category": "科技"
     },
     {
       "raw_hot": 106406,
@@ -299,6 +323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 100573,
+      "num": 100573,
+      "word": "理想one停产后保障措施公布",
+      "onboard_time": 1663964831,
+      "rank": 43,
+      "category": "科技"
+    },
+    {
       "raw_hot": 100390,
       "num": 100390,
       "word": "女子深夜假装去世母亲给自己回微信",
@@ -308,19 +340,19 @@
     },
     {
       "raw_hot": 93239,
-      "num": 75751,
+      "num": 85608,
       "word": "电视剧底线",
       "onboard_time": 1663943789,
       "rank": 41,
       "category": "影视"
     },
     {
-      "raw_hot": 91406,
-      "num": 91406,
-      "word": "家长掏万元给女儿全班换新桌椅",
-      "onboard_time": 1663933047,
-      "rank": 34,
-      "category": "社会新闻,教育"
+      "raw_hot": 92576,
+      "num": 92576,
+      "word": "刘畊宏亚运健身操上线",
+      "onboard_time": 1663972395,
+      "rank": 24,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 90130,
@@ -329,6 +361,14 @@
       "onboard_time": 1663920027,
       "rank": 35,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 88815,
+      "num": 88815,
+      "word": "林更新与凤行白衣背影路透",
+      "onboard_time": 1663974799,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 88235,
@@ -355,12 +395,20 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 74536,
-      "num": 74536,
-      "word": "北京试行二手房卖一买一并行办理",
-      "onboard_time": 1663964890,
-      "rank": 45,
-      "category": "财经,社会新闻"
+      "raw_hot": 77967,
+      "num": 77967,
+      "word": "女子闯红灯被撞质问为什么不让我",
+      "onboard_time": 1663927107,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76029,
+      "num": 76029,
+      "word": "黄大妈说不可能要求年轻人豁达",
+      "onboard_time": 1663953497,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 70681,
@@ -369,6 +417,14 @@
       "onboard_time": 1663939588,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69771,
+      "num": 69771,
+      "word": "科学家设计出不能传播疟疾的蚊子",
+      "onboard_time": 1663968310,
+      "rank": 46,
+      "category": "科技"
     },
     {
       "raw_hot": 69138,
@@ -403,12 +459,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 56812,
-      "num": 56812,
-      "word": "理想one停产后保障措施公布",
-      "onboard_time": 1663964831,
-      "rank": 43,
-      "category": "科技"
+      "raw_hot": 61341,
+      "num": 61341,
+      "word": "杭州发放3441.71万餐饮消费券",
+      "onboard_time": 1663962731,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 56243,
@@ -419,28 +475,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 54048,
-      "num": 54048,
-      "word": "黄大妈说不可能要求年轻人豁达",
-      "onboard_time": 1663953497,
+      "raw_hot": 52208,
+      "num": 52208,
+      "word": "于和伟像极了KTV里开原唱的我",
+      "onboard_time": 1663975398,
       "rank": 41,
-      "category": "作品衍生"
+      "category": "综艺"
     },
     {
-      "raw_hot": 53555,
-      "num": 53555,
-      "word": "女子闯红灯被撞质问为什么不让我",
-      "onboard_time": 1663927107,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47510,
-      "num": 47510,
-      "word": "科学家设计出不能传播疟疾的蚊子",
-      "onboard_time": 1663968310,
-      "rank": 46,
-      "category": "科技"
+      "raw_hot": 49692,
+      "num": 49692,
+      "word": "鬓边不是海棠红",
+      "onboard_time": 1663919426,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 46158,
@@ -457,30 +505,6 @@
       "onboard_time": 1663939107,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 41900,
-      "num": 36686,
-      "word": "富士康内部人士回应拆除iPhone14部分产线",
-      "onboard_time": 1663961231,
-      "rank": 46,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 28932,
-      "num": 28932,
-      "word": "杭州发放3441.71万餐饮消费券",
-      "onboard_time": 1663962731,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27064,
-      "num": 27064,
-      "word": "鬓边不是海棠红",
-      "onboard_time": 1663919426,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 22962,
