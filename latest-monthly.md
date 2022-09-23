@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/24 07:26:38
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/24 07:43:45
 </p>
 </blockquote>
 <p>
@@ -4587,6 +4587,12 @@ boss直聘公示涉性骚扰违规账号（热度：1144916）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%231%E5%AE%B64%E4%BA%BA%E6%9F%A5%E5%87%BA%E5%B9%BD%E9%97%A8%E8%9E%BA%E6%9D%86%E8%8F%8C%E5%AD%A9%E5%AD%90%E7%96%BC%E5%BE%97%E6%89%93%E6%BB%9A%23" target="weibo">
+1家4人查出幽门螺杆菌孩子疼得打滚（热度：1132880）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%94%B9%E7%BC%96%E4%B8%8D%E8%BE%93%E5%8E%9F%E8%91%97%E7%9A%84%E5%89%A7%23" target="weibo">
 改编不输原著的剧（热度：1132382）
 </a>
@@ -4997,12 +5003,6 @@ QQ推出QQ学生卡（热度：1084298）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%AE%89%E5%B1%80%E7%AA%83%E5%8F%96%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%95%B0%E6%8D%AE%E8%B6%85140G%23" target="weibo">
 美国安局窃取中国网络数据超140G（热度：1076316）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%231%E5%AE%B64%E4%BA%BA%E6%9F%A5%E5%87%BA%E5%B9%BD%E9%97%A8%E8%9E%BA%E6%9D%86%E8%8F%8C%E5%AD%A9%E5%AD%90%E7%96%BC%E5%BE%97%E6%89%93%E6%BB%9A%23" target="weibo">
-1家4人查出幽门螺杆菌孩子疼得打滚（热度：1074181）
 </a>
 </li>
 
