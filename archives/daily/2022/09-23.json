@@ -1,6 +1,6 @@
 {
   "startTime": 1663864508123,
-  "endTime": 1663923087435,
+  "endTime": 1663925206570,
   "band_list": [
     {
       "raw_hot": 11177915,
@@ -99,6 +99,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1100102,
+      "num": 1100102,
+      "word": "顺丰回应男子寄鱼干到货只剩头尾",
+      "onboard_time": 1663919846,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1054522,
       "num": 1054522,
       "word": "女子陪闺蜜看病自己查出癌症",
@@ -144,6 +152,14 @@
       "word": "苍兰诀连婚茶都备好了",
       "onboard_time": 1663899384,
       "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 973753,
+      "num": 973753,
+      "word": "鬓边不是海棠红",
+      "onboard_time": 1663919426,
+      "rank": 37,
       "category": "影视"
     },
     {
@@ -195,14 +211,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 837485,
-      "num": 782321,
-      "word": "鬓边不是海棠红",
-      "onboard_time": 1663919426,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 814489,
       "num": 814489,
       "word": "关晓彤赵露思新剧二搭",
@@ -211,12 +219,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 782364,
-      "num": 782364,
-      "word": "顺丰回应男子寄鱼干到货只剩头尾",
-      "onboard_time": 1663919846,
-      "rank": 6,
-      "category": "社会新闻"
+      "raw_hot": 786221,
+      "num": 786221,
+      "word": "美决定不限制从中国进口钕磁体",
+      "onboard_time": 1663922548,
+      "rank": 27,
+      "category": "国内要闻,国外要闻"
     },
     {
       "raw_hot": 741928,
@@ -403,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 455155,
+      "num": 424963,
+      "word": "郭晓婷GQ采访",
+      "onboard_time": 1663919426,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 449794,
       "num": 449794,
       "word": "中国使馆通报柬埔寨沉船事故",
@@ -459,14 +475,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 415488,
-      "num": 371137,
-      "word": "郭晓婷GQ采访",
-      "onboard_time": 1663919426,
-      "rank": 46,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 409263,
       "num": 409263,
       "word": "V5改名为NIP",
@@ -515,20 +523,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 392567,
+      "num": 392567,
+      "word": "被山东硬核把子肉馋到了",
+      "onboard_time": 1663919606,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 381264,
       "num": 381264,
       "word": "义乌发现5例省外输入阳性感染者",
       "onboard_time": 1663901853,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 374803,
-      "num": 374803,
-      "word": "被山东硬核把子肉馋到了",
-      "onboard_time": 1663919606,
-      "rank": 19,
-      "category": "美食"
     },
     {
       "raw_hot": 371277,
@@ -651,6 +659,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 301717,
+      "num": 301717,
+      "word": "广东最干净的海",
+      "onboard_time": 1663923446,
+      "rank": 13,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 280227,
+      "num": 280227,
+      "word": "这猫居然会嗑瓜子",
+      "onboard_time": 1663920927,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 276647,
       "num": 276647,
       "word": "女子办证时偷偷递纸条给民警求助",
@@ -737,14 +761,6 @@
       "onboard_time": 1663891047,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 231469,
-      "num": 231469,
-      "word": "这猫居然会嗑瓜子",
-      "onboard_time": 1663920927,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 230958,
@@ -835,6 +851,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 202028,
+      "num": 202028,
+      "word": "电影万里归途长空之王拍摄成本",
+      "onboard_time": 1663923866,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 200353,
       "num": 200353,
       "word": "韩总统私下吐槽美国会议员为崽子",
@@ -857,14 +881,6 @@
       "onboard_time": 1663893809,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 195351,
-      "num": 195351,
-      "word": "美决定不限制从中国进口钕磁体",
-      "onboard_time": 1663922548,
-      "rank": 27,
-      "category": "国内要闻,国外要闻"
     },
     {
       "raw_hot": 192700,
@@ -963,6 +979,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 174218,
+      "num": 174218,
+      "word": "上市2天小鹏G9调整价格配置",
+      "onboard_time": 1663924585,
+      "rank": 28,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 173975,
       "num": 173975,
       "word": "胡同官宣定档0925",
@@ -979,11 +1003,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173142,
+      "num": 169648,
+      "word": "虞书欣张彬彬片场加戏嗨了",
+      "onboard_time": 1663922843,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 171225,
       "num": 171225,
       "word": "男子骗39名女子56万获刑11年半",
       "onboard_time": 1663878790,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169048,
+      "num": 169048,
+      "word": "秋分后通常一天比一天冷",
+      "onboard_time": 1663922366,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1171,6 +1211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 131778,
+      "num": 131778,
+      "word": "川沙在逃玲娜贝儿",
+      "onboard_time": 1663924705,
+      "rank": 37,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 130533,
       "num": 130533,
       "word": "潘粤明新剧开分8.2",
@@ -1227,14 +1275,6 @@
       "category": "国内要闻,国外要闻"
     },
     {
-      "raw_hot": 121237,
-      "num": 121237,
-      "word": "秋分后通常一天比一天冷",
-      "onboard_time": 1663922366,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120278,
       "num": 120278,
       "word": "9月22日新增本土无症状627例",
@@ -1249,6 +1289,14 @@
       "onboard_time": 1663901312,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 118062,
+      "num": 118062,
+      "word": "新晋妈妈一巴掌把老公打进医院",
+      "onboard_time": 1663925065,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114910,
@@ -1315,14 +1363,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 104852,
-      "num": 104852,
-      "word": "虞书欣张彬彬片场加戏嗨了",
-      "onboard_time": 1663922843,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 104632,
       "num": 104632,
       "word": "日本时隔24年进行外汇干预",
@@ -1337,6 +1377,14 @@
       "onboard_time": 1663863862,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104039,
+      "num": 104039,
+      "word": "男孩给消防员送奶茶被卡进栅栏",
+      "onboard_time": 1663924286,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103494,
@@ -1625,6 +1673,14 @@
       "onboard_time": 1663874530,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7007,
+      "num": 281103,
+      "word": "VR世界约球有多酷",
+      "onboard_time": 1663924466,
+      "rank": 14,
+      "category": "科技"
     },
     {
       "raw_hot": 6736,
