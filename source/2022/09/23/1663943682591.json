@@ -1,0 +1,410 @@
+{
+  "runTime": 1663943682591,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1287260,
+        "num": 1287260,
+        "word": "骄阳伴我",
+        "onboard_time": 1663932505,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 956277,
+        "num": 956277,
+        "word": "灭活疫苗与肺结节风险没有关联",
+        "onboard_time": 1663942227,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83044,
+        "num": 906891,
+        "word": "中国航母这10年的那些名场面",
+        "onboard_time": 1663939107,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1014573,
+        "num": 906524,
+        "word": "为什么越来越难恋爱了",
+        "onboard_time": 1663932446,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 905484,
+        "num": 905484,
+        "word": "央视揭秘羊了个羊通关诈骗陷阱",
+        "onboard_time": 1663909888,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 796794,
+        "num": 796794,
+        "word": "家长掏万元给女儿全班换新桌椅",
+        "onboard_time": 1663933047,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 558262,
+        "num": 558262,
+        "word": "大巴司机3小时车程玩2小时手机",
+        "onboard_time": 1663940370,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507036,
+        "num": 507036,
+        "word": "东八区的先生们",
+        "onboard_time": 1663936226,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 429634,
+        "num": 429634,
+        "word": "法考",
+        "onboard_time": 1663938925,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 497885,
+        "num": 420531,
+        "word": "成为最低分的作品有多难",
+        "onboard_time": 1663939768,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 405114,
+        "num": 405114,
+        "word": "微信正式更新兼容iOS16",
+        "onboard_time": 1663937307,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 365178,
+        "num": 365178,
+        "word": "原来茄子不是麻的",
+        "onboard_time": 1663939408,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 352926,
+        "num": 352926,
+        "word": "小鬼 长发撕漫男",
+        "onboard_time": 1663931187,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 321286,
+        "num": 321286,
+        "word": "1岁萌娃为吃零食对着爸爸叫老公",
+        "onboard_time": 1663939588,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316212,
+        "num": 316212,
+        "word": "女子深夜假装去世母亲给自己回微信",
+        "onboard_time": 1663915226,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262428,
+        "num": 262428,
+        "word": "一年一度喜剧大赛真的在演我",
+        "onboard_time": 1663935266,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255402,
+        "num": 255402,
+        "word": "徐志胜说快乐是一种精神丰收",
+        "onboard_time": 1663940669,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233005,
+        "num": 233005,
+        "word": "韩国空中出租车成功试飞",
+        "onboard_time": 1663931367,
+        "rank": 17,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 198956,
+        "num": 198956,
+        "word": "没想到猫也有厌世脸",
+        "onboard_time": 1663940967,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180217,
+        "num": 180217,
+        "word": "95后女子用数据分析帮家乡卖万斤桃",
+        "onboard_time": 1663935866,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474925,
+        "num": 178813,
+        "word": "网曝上海迪士尼乐园内家长抱孩子在路边大便",
+        "onboard_time": 1663930046,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 409366,
+        "num": 177707,
+        "word": "21岁单亲妈妈已办理全职入职",
+        "onboard_time": 1663927645,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245526,
+        "num": 174950,
+        "word": "鬓边不是海棠红",
+        "onboard_time": 1663919426,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204814,
+        "num": 173674,
+        "word": "好声音第二轮导师对战",
+        "onboard_time": 1663940067,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201563,
+        "num": 170788,
+        "word": "苏醒陆虎姚政小镇姑娘重置预告",
+        "onboard_time": 1663943369,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169772,
+        "num": 169772,
+        "word": "女子闯红灯被撞质问为什么不让我",
+        "onboard_time": 1663927107,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156134,
+        "num": 156134,
+        "word": "美决定不限制从中国进口钕磁体",
+        "onboard_time": 1663922548,
+        "rank": 26,
+        "category": "国内要闻,国外要闻"
+      },
+      {
+        "raw_hot": 154402,
+        "num": 154402,
+        "word": "房地产金融化泡沫化势头得到实质性扭转",
+        "onboard_time": 1663932146,
+        "rank": 27,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 147771,
+        "num": 147771,
+        "word": "山东小伙海上放牧年产鱼370万公斤",
+        "onboard_time": 1663937547,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122301,
+        "num": 122301,
+        "word": "得不到的真的是最好的吗",
+        "onboard_time": 1663943191,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 287524,
+        "num": 121333,
+        "word": "内娱新生代帅哥颜值大赏",
+        "onboard_time": 1663933405,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182235,
+        "num": 118469,
+        "word": "警方通报滨州职业学院宿舍刑事案件",
+        "onboard_time": 1663920027,
+        "rank": 31,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 176257,
+        "num": 117602,
+        "word": "电视剧骄阳伴我官微开通",
+        "onboard_time": 1663934847,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164675,
+        "num": 113917,
+        "word": "国庆档新片票房预测",
+        "onboard_time": 1663937486,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164642,
+        "num": 113233,
+        "word": "赵露思背肩摔侯明昊",
+        "onboard_time": 1663933285,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 111799,
+        "num": 111799,
+        "word": "老人蹬三轮捐35万资助贫困生",
+        "onboard_time": 1663931187,
+        "rank": 35,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 111014,
+        "num": 111014,
+        "word": "福建舰正开展系泊试验",
+        "onboard_time": 1663935329,
+        "rank": 36,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 106750,
+        "num": 106750,
+        "word": "英国大英博物馆里的中国文物",
+        "onboard_time": 1663928726,
+        "rank": 37,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 104678,
+        "num": 104678,
+        "word": "韩国2比2哥斯达黎加",
+        "onboard_time": 1663941327,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97480,
+        "num": 97480,
+        "word": "辣椒做成口红为啥不辣了",
+        "onboard_time": 1663941267,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152142,
+        "num": 96105,
+        "word": "虞书欣立牌扫楼",
+        "onboard_time": 1663936165,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143288,
+        "num": 95145,
+        "word": "任嘉伦民国风老照片",
+        "onboard_time": 1663937966,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 92961,
+        "num": 92961,
+        "word": "被小学生上了一堂恋爱课",
+        "onboard_time": 1663942768,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92463,
+        "num": 92463,
+        "word": "小猫丢脸丢大了",
+        "onboard_time": 1663926083,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84284,
+        "num": 84284,
+        "word": "当寻梦环游记照进现实",
+        "onboard_time": 1663938149,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 79878,
+        "num": 79878,
+        "word": "老师一对多舌战群儒最终获胜",
+        "onboard_time": 1663934366,
+        "rank": 45,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 77458,
+        "num": 77458,
+        "word": "男孩送消防员奶茶还送工作量",
+        "onboard_time": 1663935329,
+        "rank": 46,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 75399,
+        "num": 75399,
+        "word": "唐山打人案一审宣判",
+        "onboard_time": 1663900829,
+        "rank": 47,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 72106,
+        "num": 72106,
+        "word": "都给我打印出来贴工位上",
+        "onboard_time": 1663933767,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 69772,
+        "num": 69772,
+        "word": "广东最干净的海",
+        "onboard_time": 1663923446,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#第5个中国农民丰收节#"
+    }
+  }
+}
