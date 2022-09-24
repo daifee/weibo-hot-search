@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/24 23:24:27
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/24 23:42:37
 </p>
 </blockquote>
 <p>
@@ -665,6 +665,12 @@ LPL四号种子RNG（热度：3079936）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E5%8F%B0%E4%B8%9C%E5%8F%91%E7%94%9F5.7%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
 中国台湾台东发生5.7级地震（热度：2937956）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E9%99%8D%E4%BD%8E%E8%8B%B1%E8%AF%AD%E6%95%99%E5%AD%A6%E6%AF%94%E9%87%8D%E5%BB%BA%E8%AE%AE%23" target="weibo">
+教育部回应降低英语教学比重建议（热度：2920657）
 </a>
 </li>
 
@@ -2375,12 +2381,6 @@ JDG与TES决胜局（热度：1719216）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%A5%BD%E4%B8%BB%E6%8C%81%23" target="weibo">
 李好主持（热度：1692468）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E9%99%8D%E4%BD%8E%E8%8B%B1%E8%AF%AD%E6%95%99%E5%AD%A6%E6%AF%94%E9%87%8D%E5%BB%BA%E8%AE%AE%23" target="weibo">
-教育部回应降低英语教学比重建议（热度：1690392）
 </a>
 </li>
 
@@ -5331,6 +5331,12 @@ iPhone14Pro系列占中国订单85%（热度：1059806）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E6%AD%A3%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%9A%84%E6%98%AF%E9%BD%90%E6%80%9D%E9%92%A7%E5%90%A7%23" target="weibo">
+真正披荆斩棘的是齐思钧吧（热度：1050743）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A4%8D%E7%89%A9%E5%AD%A6%E5%AE%B6%E8%B4%A8%E7%96%91%E4%B8%A4%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%B0%8F%E6%A3%AE%E6%9E%97%23" target="weibo">
 植物学家质疑两个人的小森林（热度：1050298）
 </a>
@@ -6005,12 +6011,6 @@ BLACKPINK新歌未通过KBS审议（热度：999636）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%95%86%E4%B8%9A%E5%B9%BF%E5%9C%BA%E9%9B%95%E5%A1%91%E8%A2%AB%E6%8C%87%E6%80%A7%E6%9A%97%E7%A4%BA%23" target="weibo">
 上海一商业广场雕塑被指性暗示（热度：970607）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E5%B0%8F%E9%BB%91%23" target="weibo">
-罗小黑（热度：969795）
 </a>
 </li>
 
