@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/25 00:32:02 ~ 2022/09/25 06:23:08
+本榜单时间：2022/09/25 00:32:02 ~ 2022/09/25 06:40:53
 </p>
 </blockquote>
 <p>
@@ -183,6 +183,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A6%88%E8%BF%9E%E7%BB%AD10%E6%9C%88%E5%B0%8F%E5%8C%BA%E5%90%B9%E4%B9%90%E5%99%A8%E6%89%B0%E6%B0%91%23" target="weibo">
+大妈连续10月小区吹乐器扰民（热度：118549）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E6%82%A3%E7%99%8C%E5%90%8E%E4%B8%88%E5%A4%AB%E6%8B%92%E4%BB%98%E5%8C%BB%E8%8D%AF%E8%B4%B9%23" target="weibo">
 妻子患癌后丈夫拒付医药费（热度：117519）
 </a>
@@ -225,12 +231,6 @@ TheShy刘海发型回归（热度：114279）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A6%88%E8%BF%9E%E7%BB%AD10%E6%9C%88%E5%B0%8F%E5%8C%BA%E5%90%B9%E4%B9%90%E5%99%A8%E6%89%B0%E6%B0%91%23" target="weibo">
-大妈连续10月小区吹乐器扰民（热度：103321）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E7%89%B9%E5%88%AB%E5%AD%A3%E5%BB%BA%E5%BE%B7%E9%A6%96%E5%BD%95%23" target="weibo">
 奔跑吧特别季建德首录（热度：98874）
 </a>
@@ -245,6 +245,12 @@ TheShy刘海发型回归（热度：114279）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%B8%E4%B9%90%E5%A4%A7%E5%85%B8%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%A4%A7%23" target="weibo">
 永乐大典到底有多大（热度：88131）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%87%8C%E6%A0%B9%E5%8F%B7%E8%88%AA%E6%AF%8D%E6%88%98%E6%96%97%E7%BE%A4%E6%8A%B5%E9%9F%A9%23" target="weibo">
+美国里根号航母战斗群抵韩（热度：83516）
 </a>
 </li>
 
@@ -273,6 +279,12 @@ TheShy刘海发型回归（热度：114279）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E4%B9%B0%E5%85%A5%E5%A4%A7%E7%AC%94%E6%97%A5%E5%85%83%E4%BB%A5%E6%8F%90%E6%8C%AF%E6%B1%87%E7%8E%87%23" target="weibo">
+日本政府买入大笔日元以提振汇率（热度：72961）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%AF%B9%E4%BB%A5%E8%89%B2%E5%88%97%E6%9C%AA%E5%90%91%E5%9F%BA%E8%BE%85%E6%8F%90%E4%BE%9B%E6%AD%A6%E5%99%A8%E6%84%9F%E5%88%B0%E9%9C%87%E6%83%8A%23" target="weibo">
 泽连斯基对以色列未向基辅提供武器感到震惊（热度：68720）
 </a>
@@ -293,12 +305,6 @@ TheShy刘海发型回归（热度：114279）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B6%B5%E7%AA%81%E6%B3%893%E5%8F%AA%E8%83%96%E9%94%A6%E9%B2%A4%E7%BB%84%E5%9B%A2%E5%87%BA%E6%B8%B8%23" target="weibo">
 趵突泉3只胖锦鲤组团出游（热度：66913）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%87%8C%E6%A0%B9%E5%8F%B7%E8%88%AA%E6%AF%8D%E6%88%98%E6%96%97%E7%BE%A4%E6%8A%B5%E9%9F%A9%23" target="weibo">
-美国里根号航母战斗群抵韩（热度：66148）
 </a>
 </li>
 
@@ -351,6 +357,18 @@ TheShy刘海发型回归（热度：114279）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%235%E5%B2%81%E8%84%91%E7%98%AB%E7%94%B7%E5%AD%A9%E4%B8%BA%E4%B8%8A%E5%AD%A6%E8%8B%A6%E7%BB%83%E8%B5%B0%E8%B7%AF%E5%A4%9A%E5%B9%B4%23" target="weibo">
+5岁脑瘫男孩为上学苦练走路多年（热度：34988）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2351%E5%B2%81%E5%A5%B3%E5%AD%90%E8%80%83%E5%85%A5%E5%A4%A7%E5%AD%A6%23" target="weibo">
+51岁女子考入大学（热度：34808）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%AD%A6%E6%95%99%E5%AE%A4%E5%90%8E%E6%8E%92%E8%AE%BE%E8%B9%B2%E7%8F%AD%E5%88%B6%E8%80%81%E5%B8%88%E5%BC%95%E7%83%AD%E8%AE%AE%23" target="weibo">
 中学教室后排设蹲班制老师引热议（热度：32577）
 </a>
@@ -369,14 +387,14 @@ TheShy刘海发型回归（热度：114279）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E4%B9%B0%E5%85%A5%E5%A4%A7%E7%AC%94%E6%97%A5%E5%85%83%E4%BB%A5%E6%8F%90%E6%8C%AF%E6%B1%87%E7%8E%87%23" target="weibo">
-日本政府买入大笔日元以提振汇率（热度：27170）
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E8%B6%B3%E6%80%BB%E5%AF%B9C%E7%BD%97%E6%8F%90%E5%87%BA%E6%8C%87%E6%8E%A7%23" target="weibo">
+英足总对C罗提出指控（热度：23528）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E8%B6%B3%E6%80%BB%E5%AF%B9C%E7%BD%97%E6%8F%90%E5%87%BA%E6%8C%87%E6%8E%A7%23" target="weibo">
-英足总对C罗提出指控（热度：23528）
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E7%A7%91%E5%A4%A7%E5%8D%9A%E5%A3%AB%E5%85%88%E5%A4%A9%E6%AE%8B%E7%96%BEC%E4%BD%8D%E8%B7%B3%E8%A1%97%E8%88%9E%23" target="weibo">
+国科大博士先天残疾C位跳街舞（热度：20207）
 </a>
 </li>
 
@@ -387,26 +405,8 @@ TheShy刘海发型回归（热度：114279）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2351%E5%B2%81%E5%A5%B3%E5%AD%90%E8%80%83%E5%85%A5%E5%A4%A7%E5%AD%A6%23" target="weibo">
-51岁女子考入大学（热度：12054）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E7%A7%91%E5%A4%A7%E5%8D%9A%E5%A3%AB%E5%85%88%E5%A4%A9%E6%AE%8B%E7%96%BEC%E4%BD%8D%E8%B7%B3%E8%A1%97%E8%88%9E%23" target="weibo">
-国科大博士先天残疾C位跳街舞（热度：11294）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E8%87%AA%E6%8B%8D%E5%92%8C%E4%BB%96%E6%8B%8D%E5%B7%AE%E5%88%AB%E5%A5%BD%E5%A4%A7%23" target="weibo">
 大熊猫自拍和他拍差别好大（热度：10266）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%235%E5%B2%81%E8%84%91%E7%98%AB%E7%94%B7%E5%AD%A9%E4%B8%BA%E4%B8%8A%E5%AD%A6%E8%8B%A6%E7%BB%83%E8%B5%B0%E8%B7%AF%E5%A4%9A%E5%B9%B4%23" target="weibo">
-5岁脑瘫男孩为上学苦练走路多年（热度：9796）
 </a>
 </li>
 
@@ -431,6 +431,18 @@ TheShy刘海发型回归（热度：114279）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BD%E9%97%A8%E8%9E%BA%E6%9D%86%E8%8F%8C%E6%84%9F%E6%9F%93%E5%AD%98%E5%AE%B6%E5%BA%AD%E8%81%9A%E9%9B%86%E7%8E%B0%E8%B1%A1%23" target="weibo">
 幽门螺杆菌感染存家庭聚集现象（热度：5925）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%B3%E8%BE%BE%E5%B0%94%E9%80%80%E5%87%BA%E6%8B%89%E6%B2%83%E5%B0%94%E6%9D%AF%23" target="weibo">
+纳达尔退出拉沃尔杯（热度：5873）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%AA%E5%BD%95%E7%89%87%E7%AB%AF%E7%89%A2%E4%B8%AD%E5%9B%BD%E9%A5%AD%E7%A2%97%23" target="weibo">
+纪录片端牢中国饭碗（热度：5864）
 </a>
 </li>
 
@@ -503,12 +515,6 @@ TheShy刘海发型回归（热度：114279）
 <li>
 <a href="https://s.weibo.com/weibo?q=%237%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%8F%A4%E7%AD%9D%E6%BC%94%E5%A5%8F%E6%88%98%E5%8F%B0%E9%A3%8E%E6%B0%94%E5%8A%BF%E5%8D%81%E8%B6%B3%23" target="weibo">
 7岁女孩古筝演奏战台风气势十足（热度：5086）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BA%B3%E8%BE%BE%E5%B0%94%E9%80%80%E5%87%BA%E6%8B%89%E6%B2%83%E5%B0%94%E6%9D%AF%23" target="weibo">
-纳达尔退出拉沃尔杯（热度：4960）
 </a>
 </li>
 

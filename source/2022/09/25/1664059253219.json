@@ -1,0 +1,410 @@
+{
+  "runTime": 1664059253219,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 546371,
+        "num": 546371,
+        "word": "教育部回应降低英语教学比重建议",
+        "onboard_time": 1664030787,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 247829,
+        "num": 247829,
+        "word": "日本将用网红宣传福岛食品",
+        "onboard_time": 1664035944,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20225,
+        "num": 210046,
+        "word": "太空视角看丰收有多美",
+        "onboard_time": 1664013324,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 195015,
+        "num": 195015,
+        "word": "大妈带活鱼坐高铁被阻当场摔死鱼",
+        "onboard_time": 1664029529,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134188,
+        "num": 134188,
+        "word": "俩零零后造假币获利1.4万被判刑10年",
+        "onboard_time": 1664021248,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120022,
+        "num": 120022,
+        "word": "河南大学也曾名为中山大学",
+        "onboard_time": 1664036782,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 118549,
+        "num": 118549,
+        "word": "大妈连续10月小区吹乐器扰民",
+        "onboard_time": 1664051111,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92911,
+        "num": 92911,
+        "word": "学校回应女学生月考6科霸榜",
+        "onboard_time": 1664040258,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 90099,
+        "num": 90099,
+        "word": "你有多年后才释怀的事吗",
+        "onboard_time": 1664024248,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 82771,
+        "num": 82771,
+        "word": "这些不良习惯容易长白头发",
+        "onboard_time": 1664014706,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83516,
+        "num": 81662,
+        "word": "美国里根号航母战斗群抵韩",
+        "onboard_time": 1664050871,
+        "rank": 10,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 75145,
+        "num": 75145,
+        "word": "警方回应工人往黄豆酱里大小便",
+        "onboard_time": 1664009123,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72961,
+        "num": 72961,
+        "word": "日本政府买入大笔日元以提振汇率",
+        "onboard_time": 1664055851,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 72540,
+        "num": 72540,
+        "word": "90后女孩入职国企成37名男同事团宠",
+        "onboard_time": 1664018729,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64863,
+        "num": 64863,
+        "word": "5岁男童挂17楼阳台邻居奋力拽回",
+        "onboard_time": 1664034626,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55289,
+        "num": 55289,
+        "word": "妻子患癌后丈夫拒付医药费",
+        "onboard_time": 1664013507,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50483,
+        "num": 50483,
+        "word": "任嘉伦最爱请君雪中落泪名场面",
+        "onboard_time": 1664032947,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 50399,
+        "num": 50399,
+        "word": "这是公主猫猫吧",
+        "onboard_time": 1664032829,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 48932,
+        "num": 48932,
+        "word": "杨迪说刘雨昕到哪儿都要买特产",
+        "onboard_time": 1664034264,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47045,
+        "num": 47045,
+        "word": "上网必须知道的名场面",
+        "onboard_time": 1664028506,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 44035,
+        "num": 44035,
+        "word": "85花古装剧原声率",
+        "onboard_time": 1664036482,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 40493,
+        "num": 40493,
+        "word": "周围的人突然都结婚了",
+        "onboard_time": 1664010505,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 39565,
+        "num": 39565,
+        "word": "1年级男孩4分钟洗漱完独自晨读",
+        "onboard_time": 1664018190,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36724,
+        "num": 36724,
+        "word": "地铁西安站将于2022年9月25日开通运营",
+        "onboard_time": 1664051170,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34988,
+        "num": 34988,
+        "word": "5岁脑瘫男孩为上学苦练走路多年",
+        "onboard_time": 1664056692,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 34808,
+        "num": 34808,
+        "word": "51岁女子考入大学",
+        "onboard_time": 1664056271,
+        "rank": 25,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 33560,
+        "num": 33560,
+        "word": "背着6000片卫生巾上大山",
+        "onboard_time": 1664009844,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32192,
+        "num": 32192,
+        "word": "成毅跟着唱沉香",
+        "onboard_time": 1664033666,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31665,
+        "num": 31665,
+        "word": "中学教室后排设蹲班制老师引热议",
+        "onboard_time": 1664042654,
+        "rank": 28,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 30261,
+        "num": 30261,
+        "word": "真正披荆斩棘的是齐思钧吧",
+        "onboard_time": 1664030187,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29532,
+        "num": 29532,
+        "word": "周深 可爱",
+        "onboard_time": 1664027667,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29102,
+        "num": 29102,
+        "word": "男子被黑熊袭击致26处重伤",
+        "onboard_time": 1664023407,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28311,
+        "num": 28311,
+        "word": "王一博街舞5打篮球",
+        "onboard_time": 1664024369,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27436,
+        "num": 27436,
+        "word": "江南百景图绍兴府",
+        "onboard_time": 1664029107,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 27268,
+        "num": 27268,
+        "word": "趵突泉3只胖锦鲤组团出游",
+        "onboard_time": 1664015369,
+        "rank": 34,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 26912,
+        "num": 26912,
+        "word": "宋茜长文告别亲爱的生命",
+        "onboard_time": 1664030668,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24334,
+        "num": 24334,
+        "word": "泽连斯基对以色列未向基辅提供武器感到震惊",
+        "onboard_time": 1664013925,
+        "rank": 36,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 24192,
+        "num": 24192,
+        "word": "王鹤棣说自己是猴系帅哥",
+        "onboard_time": 1664028448,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24183,
+        "num": 24183,
+        "word": "植物肉企业股价暴跌76%",
+        "onboard_time": 1664047631,
+        "rank": 38,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 23298,
+        "num": 23298,
+        "word": "全国仅有5株5000岁古树",
+        "onboard_time": 1664007627,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20207,
+        "num": 20207,
+        "word": "国科大博士先天残疾C位跳街舞",
+        "onboard_time": 1664055370,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18730,
+        "num": 18730,
+        "word": "英足总对C罗提出指控",
+        "onboard_time": 1664052671,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17224,
+        "num": 17224,
+        "word": "木星将与地球进行59年来最亲密接触",
+        "onboard_time": 1664019509,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16424,
+        "num": 16424,
+        "word": "河南大学110岁了",
+        "onboard_time": 1664038339,
+        "rank": 43,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 16361,
+        "num": 16361,
+        "word": "TheShy刘海发型回归",
+        "onboard_time": 1664016504,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 15937,
+        "num": 15937,
+        "word": "上海明确户外招牌可展示个性创意",
+        "onboard_time": 1664020109,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15458,
+        "num": 15458,
+        "word": "情侣吵架时最想听到的话",
+        "onboard_time": 1664012188,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14520,
+        "num": 14520,
+        "word": "健康牙龈刷牙不会出血",
+        "onboard_time": 1664021908,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5873,
+        "num": 5873,
+        "word": "纳达尔退出拉沃尔杯",
+        "onboard_time": 1664056391,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5864,
+        "num": 5864,
+        "word": "纪录片端牢中国饭碗",
+        "onboard_time": 1664058733,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#我们这十年主题宣传片#"
+    }
+  }
+}
