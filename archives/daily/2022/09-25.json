@@ -1,6 +1,6 @@
 {
   "startTime": 1664037122905,
-  "endTime": 1664055549747,
+  "endTime": 1664058188124,
   "band_list": [
     {
       "raw_hot": 2133060,
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103321,
+      "num": 56838,
+      "word": "大妈连续10月小区吹乐器扰民",
+      "onboard_time": 1664051111,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98874,
       "num": 98874,
       "word": "奔跑吧特别季建德首录",
@@ -371,6 +379,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 66148,
+      "num": 52749,
+      "word": "美国里根号航母战斗群抵韩",
+      "onboard_time": 1664050871,
+      "rank": 46,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 65570,
       "num": 65570,
       "word": "北航举行校园集体婚礼",
@@ -403,14 +419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 51183,
-      "num": 28695,
-      "word": "大妈连续10月小区吹乐器扰民",
-      "onboard_time": 1664051111,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 49699,
       "num": 49699,
       "word": "河南大学110岁了",
@@ -420,19 +428,11 @@
     },
     {
       "raw_hot": 48001,
-      "num": 27028,
+      "num": 40467,
       "word": "地铁西安站将于2022年9月25日开通运营",
       "onboard_time": 1664051170,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 45628,
-      "num": 25858,
-      "word": "美国里根号航母战斗群抵韩",
-      "onboard_time": 1664050871,
-      "rank": 46,
-      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 44952,
@@ -475,10 +475,42 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 27170,
+      "num": 27170,
+      "word": "日本政府买入大笔日元以提振汇率",
+      "onboard_time": 1664055851,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 23528,
+      "num": 23528,
+      "word": "英足总对C罗提出指控",
+      "onboard_time": 1664052671,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 16346,
       "num": 16346,
       "word": "迪丽热巴说迎光而聚共赴热爱",
       "onboard_time": 1664022266,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 12054,
+      "num": 12054,
+      "word": "51岁女子考入大学",
+      "onboard_time": 1664056271,
+      "rank": 44,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 11294,
+      "num": 11294,
+      "word": "国科大博士先天残疾C位跳街舞",
+      "onboard_time": 1664055370,
       "rank": 48,
       "category": "综艺"
     },
@@ -491,20 +523,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 9796,
+      "num": 9796,
+      "word": "5岁脑瘫男孩为上学苦练走路多年",
+      "onboard_time": 1664056692,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 7683,
       "num": 9411,
       "word": "0成本打造居家氛围照",
       "onboard_time": 1664047752,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 6395,
-      "num": 6395,
-      "word": "英足总对C罗提出指控",
-      "onboard_time": 1664052671,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 6039,
@@ -595,6 +627,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 5234,
+      "num": 5234,
+      "word": "安艺加入gw",
+      "onboard_time": 1664057412,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 5164,
       "num": 5908,
       "word": "章若楠中餐厅哄娃",
@@ -619,12 +659,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 5004,
-      "num": 5885,
-      "word": "国科大博士先天残疾C位跳街舞",
-      "onboard_time": 1664055370,
-      "rank": 48,
-      "category": "综艺"
+      "raw_hot": 4960,
+      "num": 4960,
+      "word": "纳达尔退出拉沃尔杯",
+      "onboard_time": 1664056391,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 4843,
