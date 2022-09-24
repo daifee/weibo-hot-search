@@ -1,6 +1,6 @@
 {
   "startTime": 1663951005323,
-  "endTime": 1664002350366,
+  "endTime": 1664004183917,
   "band_list": [
     {
       "raw_hot": 3197928,
@@ -67,6 +67,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1377028,
+      "num": 1377028,
+      "word": "2022全球总决赛",
+      "onboard_time": 1663999465,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1271144,
       "num": 1271144,
       "word": "国庆前女子收到21份结婚请帖",
@@ -99,14 +107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1028860,
-      "num": 1028860,
-      "word": "2022全球总决赛",
-      "onboard_time": 1663999465,
-      "rank": 4,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 975474,
       "num": 394325,
       "word": "1岁宝宝嫌脚脏在便池内清洗",
@@ -121,6 +121,14 @@
       "onboard_time": 1663991125,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 844397,
+      "num": 235419,
+      "word": "江歌母亲回应底线剧集改编江歌案",
+      "onboard_time": 1664002884,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 838193,
@@ -267,11 +275,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 401905,
+      "num": 229031,
+      "word": "女明星去油是有两把刷子的",
+      "onboard_time": 1664000007,
+      "rank": 22,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 400204,
       "num": 400204,
       "word": "演员该不该用原声演戏",
       "onboard_time": 1663981045,
       "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 392277,
+      "num": 392277,
+      "word": "虞书欣婚纱造型美不过10秒",
+      "onboard_time": 1664003126,
+      "rank": 6,
       "category": "影视"
     },
     {
@@ -331,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 326845,
+      "num": 222769,
+      "word": "于途说收到祝福",
+      "onboard_time": 1664002948,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 318477,
       "num": 318477,
       "word": "王嘉尔Spotify月收听人数破300万",
@@ -353,14 +385,6 @@
       "onboard_time": 1663984225,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 314154,
-      "num": 228603,
-      "word": "女明星去油是有两把刷子的",
-      "onboard_time": 1664000007,
-      "rank": 22,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 313052,
@@ -403,6 +427,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 293358,
+      "num": 218430,
+      "word": "柳岩劝妈妈们自私一点",
+      "onboard_time": 1664004087,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 293307,
       "num": 293307,
       "word": "陈立农中餐厅遇到同款小小农",
@@ -441,6 +473,14 @@
       "onboard_time": 1663930046,
       "rank": 21,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 272417,
+      "num": 214943,
+      "word": "辽宁舰歼15起飞拦截不明目标",
+      "onboard_time": 1664003126,
+      "rank": 17,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 268255,
@@ -683,6 +723,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 167035,
+      "num": 167035,
+      "word": "中国女篮单节净胜美国10分",
+      "onboard_time": 1664000904,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166099,
       "num": 166099,
       "word": "家长掏万元给女儿全班换新桌椅",
@@ -707,12 +755,12 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 153527,
-      "num": 153527,
-      "word": "中国女篮单节净胜美国10分",
-      "onboard_time": 1664000904,
-      "rank": 29,
-      "category": "体育"
+      "raw_hot": 154821,
+      "num": 154821,
+      "word": "男子偷黄金首饰后诱导女友购买",
+      "onboard_time": 1664002884,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152239,
@@ -795,6 +843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 131601,
+      "num": 131601,
+      "word": "S12出征主题照",
+      "onboard_time": 1664001325,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 130376,
       "num": 130376,
       "word": "法考成绩",
@@ -809,6 +865,14 @@
       "onboard_time": 1663964831,
       "rank": 43,
       "category": "科技"
+    },
+    {
+      "raw_hot": 123320,
+      "num": 123320,
+      "word": "济南一政务大厅设找茬窗口",
+      "onboard_time": 1664003546,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121193,
@@ -841,14 +905,6 @@
       "onboard_time": 1663964890,
       "rank": 45,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 114051,
-      "num": 114051,
-      "word": "S12出征主题照",
-      "onboard_time": 1664001325,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 113581,
@@ -1025,6 +1081,14 @@
       "onboard_time": 1663979483,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 75044,
+      "num": 75044,
+      "word": "海军最高礼仪为辽宁舰庆生",
+      "onboard_time": 1664003968,
+      "rank": 46,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 72950,

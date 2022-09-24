@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/24 14:52:30
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/24 15:23:03
 </p>
 </blockquote>
 <p>
@@ -3387,6 +3387,12 @@ LBL（热度：1377848）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232022%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9B%23" target="weibo">
+2022全球总决赛（热度：1377028）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%80%E5%B0%8F%E5%8C%BA%E6%9C%89%E4%BA%BA%E6%8A%A2%E5%AD%A9%E5%AD%90%23" target="weibo">
 重庆一小区有人抢孩子（热度：1376792）
 </a>
@@ -5417,12 +5423,6 @@ IU演唱会上的草莓月亮（热度：1037515）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%91%A8%E6%AF%8F44%E7%A7%92%E5%B0%B1%E6%9C%891%E4%BA%BA%E6%AD%BB%E4%BA%8E%E6%96%B0%E5%86%A0%23" target="weibo">
 上周每44秒就有1人死于新冠（热度：1030205）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232022%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9B%23" target="weibo">
-2022全球总决赛（热度：1028860）
 </a>
 </li>
 
