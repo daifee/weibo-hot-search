@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/25 00:32:02 ~ 2022/09/25 02:30:06
+本榜单时间：2022/09/25 00:32:02 ~ 2022/09/25 02:47:41
 </p>
 </blockquote>
 <p>
@@ -333,14 +333,14 @@ TheShy刘海发型回归（热度：114279）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%BD%E7%9C%9F%E7%9A%84%E8%83%BD%E5%BD%93%E9%A5%AD%E5%90%83%E5%90%97%23" target="weibo">
-爱好真的能当饭吃吗（热度：28239）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%AD%A6%E6%95%99%E5%AE%A4%E5%90%8E%E6%8E%92%E8%AE%BE%E8%B9%B2%E7%8F%AD%E5%88%B6%E8%80%81%E5%B8%88%E5%BC%95%E7%83%AD%E8%AE%AE%23" target="weibo">
+中学教室后排设蹲班制老师引热议（热度：29470）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%AD%A6%E6%95%99%E5%AE%A4%E5%90%8E%E6%8E%92%E8%AE%BE%E8%B9%B2%E7%8F%AD%E5%88%B6%E8%80%81%E5%B8%88%E5%BC%95%E7%83%AD%E8%AE%AE%23" target="weibo">
-中学教室后排设蹲班制老师引热议（热度：22877）
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%BD%E7%9C%9F%E7%9A%84%E8%83%BD%E5%BD%93%E9%A5%AD%E5%90%83%E5%90%97%23" target="weibo">
+爱好真的能当饭吃吗（热度：28239）
 </a>
 </li>
 

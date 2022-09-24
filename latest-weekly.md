@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/19 00:32:39 ~ 2022/09/25 02:30:06
+本榜单时间：2022/09/19 00:32:39 ~ 2022/09/25 02:47:41
 </p>
 </blockquote>
 <p>
@@ -8943,6 +8943,12 @@ WTA500东京站郑钦文进四强（热度：79623）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%AD%A6%E6%95%99%E5%AE%A4%E5%90%8E%E6%8E%92%E8%AE%BE%E8%B9%B2%E7%8F%AD%E5%88%B6%E8%80%81%E5%B8%88%E5%BC%95%E7%83%AD%E8%AE%AE%23" target="weibo">
+中学教室后排设蹲班制老师引热议（热度：29470）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A7%86%E9%9A%9C%E8%80%81%E4%BA%BA%E5%AF%B8%E6%AD%A5%E4%B8%8D%E7%A6%BB%E7%85%A7%E9%A1%BE%E9%98%BF%E5%B0%94%E8%8C%A8%E6%B5%B7%E9%BB%98%E7%97%85%E5%A6%BB%E5%AD%90%23" target="weibo">
 视障老人寸步不离照顾阿尔茨海默病妻子（热度：29285）
 </a>
@@ -8981,12 +8987,6 @@ WTA500东京站郑钦文进四强（热度：79623）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%A5%A5%E9%B9%BF%E7%94%9F%E6%88%90%23" target="weibo">
 台风奥鹿生成（热度：22962）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%AD%A6%E6%95%99%E5%AE%A4%E5%90%8E%E6%8E%92%E8%AE%BE%E8%B9%B2%E7%8F%AD%E5%88%B6%E8%80%81%E5%B8%88%E5%BC%95%E7%83%AD%E8%AE%AE%23" target="weibo">
-中学教室后排设蹲班制老师引热议（热度：22877）
 </a>
 </li>
 
