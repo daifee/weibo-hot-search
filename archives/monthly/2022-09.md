@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/24 14:33:13
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/24 14:52:30
 </p>
 </blockquote>
 <p>
@@ -5421,6 +5421,12 @@ IU演唱会上的草莓月亮（热度：1037515）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232022%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9B%23" target="weibo">
+2022全球总决赛（热度：1028860）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E4%B8%8E%E6%88%88%E5%B0%94%E5%B7%B4%E4%B9%94%E5%A4%AB%E9%81%97%E4%BD%93%E5%91%8A%E5%88%AB%23" target="weibo">
 普京与戈尔巴乔夫遗体告别（热度：1027764）
 </a>
@@ -6005,12 +6011,6 @@ BLACKPINK新歌未通过KBS审议（热度：999636）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E8%BD%AF%E5%9B%9E%E5%BA%94%E6%88%90%E9%83%BD%E6%A0%B8%E9%85%B8%E7%B3%BB%E7%BB%9F%E5%BC%82%E5%B8%B8%23" target="weibo">
 东软回应成都核酸系统异常（热度：961777）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%B4%B9%E5%8A%A0%E7%BD%97%E8%8A%B1%E8%9D%B6%E7%84%95%E7%BE%BD%E5%A4%A7%E7%89%87%23" target="weibo">
-赵丽颖费加罗花蝶焕羽大片（热度：959971）
 </a>
 </li>
 

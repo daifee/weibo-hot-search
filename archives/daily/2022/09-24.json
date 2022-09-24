@@ -1,6 +1,6 @@
 {
   "startTime": 1663951005323,
-  "endTime": 1664001193274,
+  "endTime": 1664002350366,
   "band_list": [
     {
       "raw_hot": 3197928,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1028860,
+      "num": 1028860,
+      "word": "2022全球总决赛",
+      "onboard_time": 1663999465,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 975474,
       "num": 394325,
       "word": "1岁宝宝嫌脚脏在便池内清洗",
@@ -129,14 +137,6 @@
       "onboard_time": 1663946430,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 666648,
-      "num": 666648,
-      "word": "2022全球总决赛",
-      "onboard_time": 1663999465,
-      "rank": 4,
-      "category": "游戏"
     },
     {
       "raw_hot": 618032,
@@ -355,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314154,
+      "num": 228603,
+      "word": "女明星去油是有两把刷子的",
+      "onboard_time": 1664000007,
+      "rank": 22,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 313052,
       "num": 313052,
       "word": "120接线员听到敲击声教科书式救援",
@@ -539,6 +547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 213515,
+      "num": 213515,
+      "word": "让人毫无抵抗力的甜妹",
+      "onboard_time": 1664001508,
+      "rank": 16,
+      "category": "情感,艺人"
+    },
+    {
       "raw_hot": 209371,
       "num": 209371,
       "word": "见过羊叫但没见过羊骂人",
@@ -609,14 +625,6 @@
       "onboard_time": 1663991007,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 183628,
-      "num": 183628,
-      "word": "女明星去油是有两把刷子的",
-      "onboard_time": 1664000007,
-      "rank": 22,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 183071,
@@ -691,6 +699,14 @@
       "category": "网红,时尚"
     },
     {
+      "raw_hot": 159473,
+      "num": 159473,
+      "word": "现役军人先后荣立一二三等功",
+      "onboard_time": 1663997304,
+      "rank": 42,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 153527,
       "num": 153527,
       "word": "中国女篮单节净胜美国10分",
@@ -763,6 +779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136476,
+      "num": 136476,
+      "word": "闪耀暖暖",
+      "onboard_time": 1663999705,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 135800,
       "num": 135800,
       "word": "真的会被冤种父女的日常笑死",
@@ -779,28 +803,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 125274,
-      "num": 125274,
-      "word": "闪耀暖暖",
-      "onboard_time": 1663999705,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 125270,
       "num": 125270,
       "word": "理想one停产后保障措施公布",
       "onboard_time": 1663964831,
       "rank": 43,
       "category": "科技"
-    },
-    {
-      "raw_hot": 125117,
-      "num": 125117,
-      "word": "现役军人先后荣立一二三等功",
-      "onboard_time": 1663997304,
-      "rank": 42,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 121193,
@@ -835,6 +843,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 114051,
+      "num": 114051,
+      "word": "S12出征主题照",
+      "onboard_time": 1664001325,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 113581,
       "num": 113581,
       "word": "四姑娘山今秋第一场雪",
@@ -865,6 +881,14 @@
       "onboard_time": 1663933405,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 108760,
+      "num": 108760,
+      "word": "秋日的茶卡盐湖有多梦幻",
+      "onboard_time": 1664000547,
+      "rank": 45,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 106406,
@@ -939,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 94123,
+      "num": 94123,
+      "word": "美国女篮 防守",
+      "onboard_time": 1664001986,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93178,
       "num": 93178,
       "word": "女子闯红灯被撞质问为什么不让我",
@@ -1001,14 +1033,6 @@
       "onboard_time": 1664000666,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 72937,
-      "num": 72937,
-      "word": "秋日的茶卡盐湖有多梦幻",
-      "onboard_time": 1664000547,
-      "rank": 45,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 71821,
