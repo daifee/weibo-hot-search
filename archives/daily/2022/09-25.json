@@ -1,6 +1,6 @@
 {
   "startTime": 1664037122905,
-  "endTime": 1664052071385,
+  "endTime": 1664054465813,
   "band_list": [
     {
       "raw_hot": 2133060,
@@ -427,12 +427,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 40739,
+      "num": 25494,
+      "word": "美国里根号航母战斗群抵韩",
+      "onboard_time": 1664050871,
+      "rank": 46,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 32577,
       "num": 32577,
       "word": "中学教室后排设蹲班制老师引热议",
       "onboard_time": 1664042654,
       "rank": 39,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 32563,
+      "num": 24972,
+      "word": "地铁西安站将于2022年9月25日开通运营",
+      "onboard_time": 1664051170,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28239,
@@ -449,6 +465,14 @@
       "onboard_time": 1664047631,
       "rank": 46,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 26229,
+      "num": 23851,
+      "word": "大妈连续10月小区吹乐器扰民",
+      "onboard_time": 1664051111,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16346,
@@ -475,11 +499,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 6841,
-      "num": 6841,
-      "word": "地铁西安站将于2022年9月25日开通运营",
-      "onboard_time": 1664051170,
+      "raw_hot": 6395,
+      "num": 6395,
+      "word": "英足总对C罗提出指控",
+      "onboard_time": 1664052671,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 5925,
+      "num": 5925,
+      "word": "幽门螺杆菌感染存家庭聚集现象",
+      "onboard_time": 1664053931,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -489,14 +521,6 @@
       "onboard_time": 1664050391,
       "rank": 45,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 5810,
-      "num": 5810,
-      "word": "美国里根号航母战斗群抵韩",
-      "onboard_time": 1664050871,
-      "rank": 46,
-      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 5744,
@@ -515,6 +539,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 5594,
+      "num": 5594,
+      "word": "儿子偷偷买摩托车为父亲圆梦",
+      "onboard_time": 1664053931,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 5545,
       "num": 6283,
       "word": "张萌新剧柴姐热舞梦回浪姐",
@@ -531,20 +563,28 @@
       "category": "科技"
     },
     {
-      "raw_hot": 5297,
-      "num": 6283,
-      "word": "大妈连续10月小区吹乐器扰民",
-      "onboard_time": 1664051111,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 5261,
       "num": 6283,
       "word": "印度煤炭企业家成世界第二富豪",
       "onboard_time": 1664052010,
       "rank": 49,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 5132,
+      "num": 5132,
+      "word": "高校男生在宿舍打造诗意书桌",
+      "onboard_time": 1664054050,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 5086,
+      "num": 5086,
+      "word": "7岁女孩古筝演奏战台风气势十足",
+      "onboard_time": 1664053690,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
