@@ -1,6 +1,6 @@
 {
   "startTime": 1663951005323,
-  "endTime": 1663995349377,
+  "endTime": 1663998417195,
   "band_list": [
     {
       "raw_hot": 3197928,
@@ -17,6 +17,14 @@
       "onboard_time": 1663981947,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2689486,
+      "num": 2689486,
+      "word": "赵露思记错胡同和1921时间",
+      "onboard_time": 1663994427,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 2287418,
@@ -99,14 +107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 911838,
-      "num": 911838,
-      "word": "赵露思记错胡同和1921时间",
-      "onboard_time": 1663994427,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 859589,
       "num": 401764,
       "word": "杨颖奔跑吧双丸子头造型",
@@ -161,6 +161,14 @@
       "onboard_time": 1663993705,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 498424,
+      "num": 498424,
+      "word": "中国女篮vs美国女篮",
+      "onboard_time": 1663995565,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 497074,
@@ -283,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 327887,
+      "num": 327887,
+      "word": "公交公司回应司机等红绿灯时跳舞",
+      "onboard_time": 1663993226,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 318477,
       "num": 318477,
       "word": "王嘉尔Spotify月收听人数破300万",
@@ -304,6 +320,22 @@
       "word": "新兵入伍被村民裹满大红花",
       "onboard_time": 1663984225,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 315732,
+      "num": 315732,
+      "word": "男子考试没抄到答案状告培训机构",
+      "onboard_time": 1663996046,
+      "rank": 14,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 305305,
+      "num": 305305,
+      "word": "120接线员听到敲击声教科书式救援",
+      "onboard_time": 1663993285,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -364,7 +396,7 @@
     },
     {
       "raw_hot": 279161,
-      "num": 190259,
+      "num": 205979,
       "word": "奔跑吧",
       "onboard_time": 1663991304,
       "rank": 21,
@@ -377,6 +409,30 @@
       "onboard_time": 1663930046,
       "rank": 21,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 267288,
+      "num": 267288,
+      "word": "爸爸好像女儿的舔狗",
+      "onboard_time": 1663997004,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 262122,
+      "num": 262122,
+      "word": "成毅你好星期六黄衬衫造型",
+      "onboard_time": 1663997004,
+      "rank": 18,
+      "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 254979,
+      "num": 254979,
+      "word": "光与夜之恋",
+      "onboard_time": 1663995565,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 245868,
@@ -393,6 +449,14 @@
       "onboard_time": 1663968612,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245154,
+      "num": 245154,
+      "word": "张艺兴新歌我不在乎",
+      "onboard_time": 1663997604,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 240590,
@@ -419,12 +483,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 234638,
-      "num": 234638,
-      "word": "公交公司回应司机等红绿灯时跳舞",
-      "onboard_time": 1663993226,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 235545,
+      "num": 235545,
+      "word": "大众对殡葬行业的职业偏见有多大",
+      "onboard_time": 1663993466,
+      "rank": 37,
+      "category": "社会议题"
     },
     {
       "raw_hot": 217967,
@@ -507,6 +571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 183071,
+      "num": 145609,
+      "word": "王一博刘雨昕韩庚李承铉街舞5微电影",
+      "onboard_time": 1663997424,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180839,
       "num": 119908,
       "word": "马嘉祺我们的歌4明晚见",
@@ -521,6 +593,14 @@
       "onboard_time": 1663976421,
       "rank": 48,
       "category": "游戏,国外要闻"
+    },
+    {
+      "raw_hot": 179031,
+      "num": 179031,
+      "word": "20岁武警1秒95击中4个目标",
+      "onboard_time": 1663994847,
+      "rank": 46,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 168960,
@@ -563,20 +643,12 @@
       "category": "网红,时尚"
     },
     {
-      "raw_hot": 155698,
-      "num": 155698,
-      "word": "120接线员听到敲击声教科书式救援",
-      "onboard_time": 1663993285,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 149867,
-      "num": 149867,
-      "word": "大众对殡葬行业的职业偏见有多大",
-      "onboard_time": 1663993466,
-      "rank": 37,
-      "category": "社会议题"
+      "raw_hot": 156287,
+      "num": 142693,
+      "word": "这是来表演的还是来倒油的",
+      "onboard_time": 1663994906,
+      "rank": 41,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 148010,
@@ -625,14 +697,6 @@
       "onboard_time": 1663961231,
       "rank": 46,
       "category": "科技"
-    },
-    {
-      "raw_hot": 136998,
-      "num": 104580,
-      "word": "这是来表演的还是来倒油的",
-      "onboard_time": 1663994906,
-      "rank": 41,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 136895,
@@ -795,12 +859,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 98549,
+      "num": 98549,
+      "word": "李梦超远三分",
+      "onboard_time": 1663998325,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96212,
       "num": 96212,
       "word": "95后女子用数据分析帮家乡卖万斤桃",
       "onboard_time": 1663935866,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95289,
+      "num": 95289,
+      "word": "现役军人先后荣立一二三等功",
+      "onboard_time": 1663997304,
+      "rank": 42,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 93178,
@@ -897,14 +977,6 @@
       "onboard_time": 1663975939,
       "rank": 38,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 67860,
-      "num": 67860,
-      "word": "20岁武警1秒95击中4个目标",
-      "onboard_time": 1663994847,
-      "rank": 46,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 64233,

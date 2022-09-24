@@ -1,0 +1,410 @@
+{
+  "runTime": 1663998417195,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2689486,
+        "num": 2689486,
+        "word": "赵露思记错胡同和1921时间",
+        "onboard_time": 1663994427,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1068096,
+        "num": 1068096,
+        "word": "国庆前女子收到21份结婚请帖",
+        "onboard_time": 1663990584,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11892,
+        "num": 898403,
+        "word": "中国航母这10年的那些名场面",
+        "onboard_time": 1663939107,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 875182,
+        "num": 875182,
+        "word": "快递员偷走包裹里价值38万金条",
+        "onboard_time": 1663984405,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 862038,
+        "num": 862038,
+        "word": "你是我的荣耀",
+        "onboard_time": 1663988667,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1957020,
+        "num": 802029,
+        "word": "调查组已赴山艺开展调查",
+        "onboard_time": 1663991483,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 498424,
+        "num": 498424,
+        "word": "中国女篮vs美国女篮",
+        "onboard_time": 1663995565,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 463167,
+        "num": 463167,
+        "word": "六公主点评任嘉伦请君原声台词",
+        "onboard_time": 1663980743,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 352409,
+        "num": 352409,
+        "word": "研招网",
+        "onboard_time": 1663981947,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 327887,
+        "num": 327887,
+        "word": "公交公司回应司机等红绿灯时跳舞",
+        "onboard_time": 1663993226,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 715839,
+        "num": 327743,
+        "word": "1岁宝宝嫌脚脏在便池内清洗",
+        "onboard_time": 1663987346,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538771,
+        "num": 324066,
+        "word": "杨颖奔跑吧双丸子头造型",
+        "onboard_time": 1663991125,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 450171,
+        "num": 319553,
+        "word": "吴尊友研判今冬新冠疫情走势",
+        "onboard_time": 1663983506,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366330,
+        "num": 316464,
+        "word": "肖战骄阳伴我上班路透",
+        "onboard_time": 1663994127,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 315732,
+        "num": 315732,
+        "word": "男子考试没抄到答案状告培训机构",
+        "onboard_time": 1663996046,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 305305,
+        "num": 305305,
+        "word": "120接线员听到敲击声教科书式救援",
+        "onboard_time": 1663993285,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282376,
+        "num": 282376,
+        "word": "父亲回应掏万元给女儿全班换桌椅",
+        "onboard_time": 1663986806,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267288,
+        "num": 267288,
+        "word": "爸爸好像女儿的舔狗",
+        "onboard_time": 1663997004,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 262122,
+        "num": 262122,
+        "word": "成毅你好星期六黄衬衫造型",
+        "onboard_time": 1663997004,
+        "rank": 18,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 254979,
+        "num": 254979,
+        "word": "光与夜之恋",
+        "onboard_time": 1663995565,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 245154,
+        "num": 245154,
+        "word": "张艺兴新歌我不在乎",
+        "onboard_time": 1663997604,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 235545,
+        "num": 235545,
+        "word": "大众对殡葬行业的职业偏见有多大",
+        "onboard_time": 1663993466,
+        "rank": 21,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 229623,
+        "num": 229623,
+        "word": "计算机二级",
+        "onboard_time": 1663988547,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 214084,
+        "num": 214084,
+        "word": "退伍军人用子弹壳做戒指送奶奶",
+        "onboard_time": 1663989987,
+        "rank": 23,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 205979,
+        "num": 205979,
+        "word": "奔跑吧",
+        "onboard_time": 1663991304,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191826,
+        "num": 191826,
+        "word": "小学生不愿上学被保安架进学校",
+        "onboard_time": 1663986925,
+        "rank": 25,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 186582,
+        "num": 186582,
+        "word": "国庆档新片票房破1500万",
+        "onboard_time": 1663991787,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181261,
+        "num": 181261,
+        "word": "如何看待国庆节扎堆结婚",
+        "onboard_time": 1663993347,
+        "rank": 27,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 179031,
+        "num": 179031,
+        "word": "20岁武警1秒95击中4个目标",
+        "onboard_time": 1663994847,
+        "rank": 28,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 147096,
+        "num": 147096,
+        "word": "费德勒退役纳达尔哭了",
+        "onboard_time": 1663981765,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183071,
+        "num": 145609,
+        "word": "王一博刘雨昕韩庚李承铉街舞5微电影",
+        "onboard_time": 1663997424,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180810,
+        "num": 143922,
+        "word": "你好星期六全员搞笑担当",
+        "onboard_time": 1663993705,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156287,
+        "num": 142693,
+        "word": "这是来表演的还是来倒油的",
+        "onboard_time": 1663994906,
+        "rank": 32,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 138381,
+        "num": 138381,
+        "word": "考研为了上岸有多自律",
+        "onboard_time": 1663975880,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 110209,
+        "num": 110209,
+        "word": "蔡徐坤奔跑吧学院风路透",
+        "onboard_time": 1663991365,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 104645,
+        "num": 104645,
+        "word": "2大妈打掩护支开店员扫货式偷水果",
+        "onboard_time": 1663989745,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102955,
+        "num": 102955,
+        "word": "1家4人查出幽门螺杆菌孩子疼得打滚",
+        "onboard_time": 1663947746,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99200,
+        "num": 99200,
+        "word": "中国传媒大学2022开学典礼",
+        "onboard_time": 1663979243,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 98549,
+        "num": 98549,
+        "word": "李梦超远三分",
+        "onboard_time": 1663998325,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95293,
+        "num": 95293,
+        "word": "天安门广场祝福祖国巨型花篮亮相",
+        "onboard_time": 1663993705,
+        "rank": 39,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 107412,
+        "num": 95291,
+        "word": "两个人的小森林排播调整",
+        "onboard_time": 1663986864,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102035,
+        "num": 95291,
+        "word": "王嘉尔雅加达音乐节舞台",
+        "onboard_time": 1663991007,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 95289,
+        "num": 95289,
+        "word": "现役军人先后荣立一二三等功",
+        "onboard_time": 1663997304,
+        "rank": 42,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 88311,
+        "num": 88311,
+        "word": "没有社交是什么感觉",
+        "onboard_time": 1663944330,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84478,
+        "num": 84478,
+        "word": "多个特大城市全面放开落户",
+        "onboard_time": 1663980204,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84061,
+        "num": 84061,
+        "word": "猫咪的起床气有多大",
+        "onboard_time": 1663978164,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 70636,
+        "num": 70636,
+        "word": "泄露GTA6黑客被逮捕",
+        "onboard_time": 1663976421,
+        "rank": 46,
+        "category": "游戏,国外要闻"
+      },
+      {
+        "raw_hot": 67814,
+        "num": 67814,
+        "word": "女学霸凭6科第一7次霸榜光荣榜",
+        "onboard_time": 1663946850,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65909,
+        "num": 65909,
+        "word": "你其实不喜欢谈恋爱",
+        "onboard_time": 1663946249,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 57673,
+        "num": 61180,
+        "word": "梅西禁区外写意吊射",
+        "onboard_time": 1663986806,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致信祝贺中国新闻社建社70周年#"
+    }
+  }
+}
