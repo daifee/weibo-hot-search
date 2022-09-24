@@ -1,6 +1,6 @@
 {
   "startTime": 1664037122905,
-  "endTime": 1664054465813,
+  "endTime": 1664055549747,
   "band_list": [
     {
       "raw_hot": 2133060,
@@ -403,12 +403,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51183,
+      "num": 28695,
+      "word": "大妈连续10月小区吹乐器扰民",
+      "onboard_time": 1664051111,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49699,
       "num": 49699,
       "word": "河南大学110岁了",
       "onboard_time": 1664038339,
       "rank": 46,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 48001,
+      "num": 27028,
+      "word": "地铁西安站将于2022年9月25日开通运营",
+      "onboard_time": 1664051170,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45628,
+      "num": 25858,
+      "word": "美国里根号航母战斗群抵韩",
+      "onboard_time": 1664050871,
+      "rank": 46,
+      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 44952,
@@ -427,28 +451,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 40739,
-      "num": 25494,
-      "word": "美国里根号航母战斗群抵韩",
-      "onboard_time": 1664050871,
-      "rank": 46,
-      "category": "军事,国外要闻"
-    },
-    {
       "raw_hot": 32577,
       "num": 32577,
       "word": "中学教室后排设蹲班制老师引热议",
       "onboard_time": 1664042654,
       "rank": 39,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 32563,
-      "num": 24972,
-      "word": "地铁西安站将于2022年9月25日开通运营",
-      "onboard_time": 1664051170,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28239,
@@ -465,14 +473,6 @@
       "onboard_time": 1664047631,
       "rank": 46,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 26229,
-      "num": 23851,
-      "word": "大妈连续10月小区吹乐器扰民",
-      "onboard_time": 1664051111,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16346,
@@ -504,6 +504,22 @@
       "word": "英足总对C罗提出指控",
       "onboard_time": 1664052671,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 6039,
+      "num": 6039,
+      "word": "木星与地球9月26日相会",
+      "onboard_time": 1664055071,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5943,
+      "num": 5943,
+      "word": "巴西3比0加纳",
+      "onboard_time": 1664054951,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -563,12 +579,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 5344,
+      "num": 5925,
+      "word": "武大靖范可新神仙友情",
+      "onboard_time": 1664054891,
+      "rank": 46,
+      "category": "体育,综艺"
+    },
+    {
       "raw_hot": 5261,
       "num": 6283,
       "word": "印度煤炭企业家成世界第二富豪",
       "onboard_time": 1664052010,
       "rank": 49,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 5164,
+      "num": 5908,
+      "word": "章若楠中餐厅哄娃",
+      "onboard_time": 1664054891,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 5132,
@@ -583,6 +615,22 @@
       "num": 5086,
       "word": "7岁女孩古筝演奏战台风气势十足",
       "onboard_time": 1664053690,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5004,
+      "num": 5885,
+      "word": "国科大博士先天残疾C位跳街舞",
+      "onboard_time": 1664055370,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 4843,
+      "num": 5872,
+      "word": "商家撤展大妈挎兜强拿食品",
+      "onboard_time": 1664055432,
       "rank": 49,
       "category": "社会新闻"
     }
