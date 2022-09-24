@@ -1,7 +1,15 @@
 {
   "startTime": 1663951005323,
-  "endTime": 1663976625884,
+  "endTime": 1663986886730,
   "band_list": [
+    {
+      "raw_hot": 2765615,
+      "num": 2765615,
+      "word": "研招网",
+      "onboard_time": 1663981947,
+      "rank": 0,
+      "category": "教育"
+    },
     {
       "raw_hot": 2287418,
       "num": 2287418,
@@ -11,12 +19,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2073605,
+      "num": 2073605,
+      "word": "六公主点评任嘉伦请君原声台词",
+      "onboard_time": 1663980743,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1388226,
       "num": 1085201,
       "word": "为什么越来越难恋爱了",
       "onboard_time": 1663932446,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1221135,
+      "num": 359104,
+      "word": "吴尊友研判今冬新冠疫情走势",
+      "onboard_time": 1663983506,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1192284,
+      "num": 1192284,
+      "word": "快递员偷走包裹里价值38万金条",
+      "onboard_time": 1663984405,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1164594,
@@ -43,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 545764,
+      "num": 545764,
+      "word": "中国传媒大学2022开学典礼",
+      "onboard_time": 1663979243,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 545700,
       "num": 545700,
       "word": "凛冬将至欧洲狂买中国取暖设备",
@@ -57,6 +97,14 @@
       "onboard_time": 1663944149,
       "rank": 20,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 460773,
+      "num": 460773,
+      "word": "费德勒退役纳达尔哭了",
+      "onboard_time": 1663981765,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 444692,
@@ -83,11 +131,43 @@
       "category": "情感"
     },
     {
+      "raw_hot": 412267,
+      "num": 412267,
+      "word": "刘也一不小心踏进京剧圈",
+      "onboard_time": 1663986085,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 400204,
+      "num": 400204,
+      "word": "演员该不该用原声演戏",
+      "onboard_time": 1663981045,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 390201,
+      "num": 357544,
+      "word": "你好星期六",
+      "onboard_time": 1663985966,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 387473,
       "num": 387473,
       "word": "大巴司机3小时车程玩2小时手机",
       "onboard_time": 1663940370,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 383396,
+      "num": 383396,
+      "word": "多个特大城市全面放开落户",
+      "onboard_time": 1663980204,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -123,12 +203,44 @@
       "category": "影视"
     },
     {
+      "raw_hot": 294935,
+      "num": 294935,
+      "word": "感受到了老师的崩溃",
+      "onboard_time": 1663975638,
+      "rank": 23,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 293307,
+      "num": 293307,
+      "word": "陈立农中餐厅遇到同款小小农",
+      "onboard_time": 1663980807,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 289050,
       "num": 289050,
       "word": "假如影视剧Bking在一个群",
       "onboard_time": 1663948946,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 280985,
+      "num": 280985,
+      "word": "新兵入伍被村民裹满大红花",
+      "onboard_time": 1663984225,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280852,
+      "num": 280852,
+      "word": "考研为了上岸有多自律",
+      "onboard_time": 1663975880,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 278733,
@@ -155,12 +267,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 240590,
+      "num": 240590,
+      "word": "9月23日新增本土确诊129例",
+      "onboard_time": 1663982366,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240120,
       "num": 240120,
       "word": "哪一刻意识到爱自己很重要",
       "onboard_time": 1663947629,
       "rank": 16,
       "category": "作品衍生,情感"
+    },
+    {
+      "raw_hot": 220428,
+      "num": 66360,
+      "word": "两个人的小森林排播调整",
+      "onboard_time": 1663986864,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 217967,
@@ -176,6 +304,14 @@
       "word": "狗狗自己捡的小猫自己教",
       "onboard_time": 1663945231,
       "rank": 18,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 209371,
+      "num": 209371,
+      "word": "见过羊叫但没见过羊骂人",
+      "onboard_time": 1663978703,
+      "rank": 19,
       "category": "幽默"
     },
     {
@@ -203,12 +339,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 197167,
-      "num": 122942,
-      "word": "感受到了老师的崩溃",
-      "onboard_time": 1663975638,
-      "rank": 23,
-      "category": "情感,幽默"
+      "raw_hot": 180405,
+      "num": 180405,
+      "word": "泄露GTA6黑客被逮捕",
+      "onboard_time": 1663976421,
+      "rank": 48,
+      "category": "游戏,国外要闻"
     },
     {
       "raw_hot": 167716,
@@ -217,6 +353,14 @@
       "onboard_time": 1663935266,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167091,
+      "num": 167091,
+      "word": "猫咪的起床气有多大",
+      "onboard_time": 1663978164,
+      "rank": 23,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 166099,
@@ -243,6 +387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 143794,
+      "num": 143794,
+      "word": "2023考研今起预报名",
+      "onboard_time": 1663977503,
+      "rank": 25,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 142004,
       "num": 142004,
       "word": "当两个广东人努力用广普交流",
@@ -259,6 +411,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 136895,
+      "num": 136895,
+      "word": "请问连麦需要带什么病历",
+      "onboard_time": 1663982786,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135800,
       "num": 135800,
       "word": "真的会被冤种父女的日常笑死",
@@ -267,12 +427,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 130236,
-      "num": 130236,
-      "word": "考研为了上岸有多自律",
-      "onboard_time": 1663975880,
-      "rank": 17,
+      "raw_hot": 130376,
+      "num": 130376,
+      "word": "法考成绩",
+      "onboard_time": 1663975638,
+      "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 128806,
+      "num": 128806,
+      "word": "河南增7例本土无症状",
+      "onboard_time": 1663986202,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125270,
@@ -281,6 +449,14 @@
       "onboard_time": 1663964831,
       "rank": 43,
       "category": "科技"
+    },
+    {
+      "raw_hot": 121193,
+      "num": 121193,
+      "word": "万茜万里归途哭戏",
+      "onboard_time": 1663985904,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 117615,
@@ -339,20 +515,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 106073,
-      "num": 106073,
-      "word": "法考成绩",
-      "onboard_time": 1663975638,
-      "rank": 26,
-      "category": "教育"
-    },
-    {
       "raw_hot": 104933,
       "num": 104933,
       "word": "原来茄子不是麻的",
       "onboard_time": 1663939408,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 103923,
+      "num": 103923,
+      "word": "日本2比0美国",
+      "onboard_time": 1663978343,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 103229,
+      "num": 103229,
+      "word": "威神V最新舞台",
+      "onboard_time": 1663980504,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 102329,
@@ -379,20 +563,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 100209,
+      "num": 100209,
+      "word": "电视剧底线",
+      "onboard_time": 1663943789,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 96212,
       "num": 96212,
       "word": "95后女子用数据分析帮家乡卖万斤桃",
       "onboard_time": 1663935866,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 93239,
-      "num": 85608,
-      "word": "电视剧底线",
-      "onboard_time": 1663943789,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 93178,
@@ -427,12 +611,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82898,
+      "num": 82898,
+      "word": "伊戈达拉与勇士续约一年",
+      "onboard_time": 1663976121,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81875,
       "num": 81875,
       "word": "房地产金融化泡沫化势头得到实质性扭转",
       "onboard_time": 1663932146,
       "rank": 38,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 78329,
+      "num": 78329,
+      "word": "这是设置的自动回复吧",
+      "onboard_time": 1663979483,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 71821,
@@ -475,11 +675,19 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 67588,
-      "num": 67588,
-      "word": "伊戈达拉与勇士续约一年",
-      "onboard_time": 1663976121,
-      "rank": 39,
+      "raw_hot": 66451,
+      "num": 66451,
+      "word": "父亲回应掏万元给女儿全班换桌椅",
+      "onboard_time": 1663986806,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66099,
+      "num": 66099,
+      "word": "梅西禁区外写意吊射",
+      "onboard_time": 1663986806,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -523,16 +731,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 55386,
-      "num": 55386,
-      "word": "泄露GTA6黑客被逮捕",
-      "onboard_time": 1663976421,
-      "rank": 48,
-      "category": "游戏,国外要闻"
-    },
-    {
       "raw_hot": 53106,
-      "num": 1086021,
+      "num": 1400922,
       "word": "中国航母这10年的那些名场面",
       "onboard_time": 1663939107,
       "rank": 2,

@@ -1,6 +1,6 @@
 {
   "startTime": 1663518759246,
-  "endTime": 1663976625884,
+  "endTime": 1663986886730,
   "band_list": [
     {
       "raw_hot": 11177915,
@@ -113,6 +113,14 @@
       "onboard_time": 1663653565,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2765615,
+      "num": 2765615,
+      "word": "研招网",
+      "onboard_time": 1663981947,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 2752036,
@@ -281,6 +289,14 @@
       "onboard_time": 1663597952,
       "rank": 12,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 2073605,
+      "num": 2073605,
+      "word": "六公主点评任嘉伦请君原声台词",
+      "onboard_time": 1663980743,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 2072202,
@@ -931,6 +947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1221135,
+      "num": 359104,
+      "word": "吴尊友研判今冬新冠疫情走势",
+      "onboard_time": 1663983506,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1219979,
       "num": 1219979,
       "word": "2022国庆节放假调休安排",
@@ -952,6 +976,14 @@
       "word": "湖北一派出所副所长遭拒捕牺牲",
       "onboard_time": 1663551687,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1192284,
+      "num": 1192284,
+      "word": "快递员偷走包裹里价值38万金条",
+      "onboard_time": 1663984405,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -2835,6 +2867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 545764,
+      "num": 545764,
+      "word": "中国传媒大学2022开学典礼",
+      "onboard_time": 1663979243,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 545700,
       "num": 545700,
       "word": "凛冬将至欧洲狂买中国取暖设备",
@@ -3315,6 +3355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 460773,
+      "num": 460773,
+      "word": "费德勒退役纳达尔哭了",
+      "onboard_time": 1663981765,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 459630,
       "num": 459630,
       "word": "英国大英博物馆里的中国文物",
@@ -3691,6 +3739,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 412267,
+      "num": 412267,
+      "word": "刘也一不小心踏进京剧圈",
+      "onboard_time": 1663986085,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 411266,
       "num": 290252,
       "word": "鬼吹灯",
@@ -3827,6 +3883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 400204,
+      "num": 400204,
+      "word": "演员该不该用原声演戏",
+      "onboard_time": 1663981045,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 399763,
       "num": 399763,
       "word": "魏大勋被点名交换儿子",
@@ -3923,6 +3987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 390201,
+      "num": 357544,
+      "word": "你好星期六",
+      "onboard_time": 1663985966,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 388683,
       "num": 388683,
       "word": "为什么不建议学龄前儿童自己刷牙",
@@ -3977,6 +4049,14 @@
       "onboard_time": 1663680217,
       "rank": 36,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 383396,
+      "num": 383396,
+      "word": "多个特大城市全面放开落户",
+      "onboard_time": 1663980204,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 382925,
@@ -5163,6 +5243,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 294935,
+      "num": 294935,
+      "word": "感受到了老师的崩溃",
+      "onboard_time": 1663975638,
+      "rank": 23,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 294662,
       "num": 294662,
       "word": "底线一口气炫六集",
@@ -5209,6 +5297,14 @@
       "onboard_time": 1663509992,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 293307,
+      "num": 293307,
+      "word": "陈立农中餐厅遇到同款小小农",
+      "onboard_time": 1663980807,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 293244,
@@ -5433,6 +5529,22 @@
       "onboard_time": 1663645647,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 280985,
+      "num": 280985,
+      "word": "新兵入伍被村民裹满大红花",
+      "onboard_time": 1663984225,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280852,
+      "num": 280852,
+      "word": "考研为了上岸有多自律",
+      "onboard_time": 1663975880,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 280825,
@@ -6227,6 +6339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 240590,
+      "num": 240590,
+      "word": "9月23日新增本土确诊129例",
+      "onboard_time": 1663982366,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240263,
       "num": 240263,
       "word": "河南一高校通报学信网信息被泄露",
@@ -6659,6 +6779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220428,
+      "num": 66360,
+      "word": "两个人的小森林排播调整",
+      "onboard_time": 1663986864,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 220364,
       "num": 220364,
       "word": "爸爸想女儿来学校找女儿吃宵夜",
@@ -6960,6 +7088,14 @@
       "word": "这只猫咪是用果冻做的吧",
       "onboard_time": 1663840168,
       "rank": 26,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 209371,
+      "num": 209371,
+      "word": "见过羊叫但没见过羊骂人",
+      "onboard_time": 1663978703,
+      "rank": 19,
       "category": "幽默"
     },
     {
@@ -7337,14 +7473,6 @@
       "onboard_time": 1663943191,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 197167,
-      "num": 122942,
-      "word": "感受到了老师的崩溃",
-      "onboard_time": 1663975638,
-      "rank": 23,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 196458,
@@ -7747,6 +7875,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 180405,
+      "num": 180405,
+      "word": "泄露GTA6黑客被逮捕",
+      "onboard_time": 1663976421,
+      "rank": 48,
+      "category": "游戏,国外要闻"
+    },
+    {
       "raw_hot": 180377,
       "num": 180377,
       "word": "被微笑袋鼠治愈了",
@@ -8065,6 +8201,14 @@
       "onboard_time": 1663766372,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167091,
+      "num": 167091,
+      "word": "猫咪的起床气有多大",
+      "onboard_time": 1663978164,
+      "rank": 23,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 166826,
@@ -8595,6 +8739,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 143794,
+      "num": 143794,
+      "word": "2023考研今起预报名",
+      "onboard_time": 1663977503,
+      "rank": 25,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 143104,
       "num": 143104,
       "word": "烟火成都归来",
@@ -8745,6 +8897,14 @@
       "onboard_time": 1663891768,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136895,
+      "num": 136895,
+      "word": "请问连麦需要带什么病历",
+      "onboard_time": 1663982786,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 136866,
@@ -8987,11 +9147,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 130236,
-      "num": 130236,
-      "word": "考研为了上岸有多自律",
-      "onboard_time": 1663975880,
-      "rank": 17,
+      "raw_hot": 130376,
+      "num": 130376,
+      "word": "法考成绩",
+      "onboard_time": 1663975638,
+      "rank": 26,
       "category": "教育"
     },
     {
@@ -9041,6 +9201,14 @@
       "onboard_time": 1663913486,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 128806,
+      "num": 128806,
+      "word": "河南增7例本土无症状",
+      "onboard_time": 1663986202,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128677,
@@ -9225,6 +9393,14 @@
       "onboard_time": 1663758332,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121193,
+      "num": 121193,
+      "word": "万茜万里归途哭戏",
+      "onboard_time": 1663985904,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 120907,
@@ -9563,14 +9739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 106073,
-      "num": 106073,
-      "word": "法考成绩",
-      "onboard_time": 1663975638,
-      "rank": 26,
-      "category": "教育"
-    },
-    {
       "raw_hot": 106020,
       "num": 106020,
       "word": "爸爸给2岁女儿脱衣洗漱被骂流氓",
@@ -9627,12 +9795,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103923,
+      "num": 103923,
+      "word": "日本2比0美国",
+      "onboard_time": 1663978343,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103451,
       "num": 103451,
       "word": "永远可以相信中国姑娘",
       "onboard_time": 1663842450,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103229,
+      "num": 103229,
+      "word": "威神V最新舞台",
+      "onboard_time": 1663980504,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 102799,
@@ -9996,11 +10180,19 @@
     },
     {
       "raw_hot": 83189,
-      "num": 1086021,
+      "num": 1400922,
       "word": "中国航母这10年的那些名场面",
       "onboard_time": 1663939107,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 82898,
+      "num": 82898,
+      "word": "伊戈达拉与勇士续约一年",
+      "onboard_time": 1663976121,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 82676,
@@ -10057,6 +10249,14 @@
       "onboard_time": 1663937728,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78329,
+      "num": 78329,
+      "word": "这是设置的自动回复吧",
+      "onboard_time": 1663979483,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 77618,
@@ -10195,14 +10395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 67588,
-      "num": 67588,
-      "word": "伊戈达拉与勇士续约一年",
-      "onboard_time": 1663976121,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 67313,
       "num": 67313,
       "word": "科学揭示土星环形成之谜",
@@ -10217,6 +10409,22 @@
       "onboard_time": 1663928246,
       "rank": 48,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 66451,
+      "num": 66451,
+      "word": "父亲回应掏万元给女儿全班换桌椅",
+      "onboard_time": 1663986806,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66099,
+      "num": 66099,
+      "word": "梅西禁区外写意吊射",
+      "onboard_time": 1663986806,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 64857,
@@ -10305,14 +10513,6 @@
       "onboard_time": 1663635331,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 55386,
-      "num": 55386,
-      "word": "泄露GTA6黑客被逮捕",
-      "onboard_time": 1663976421,
-      "rank": 48,
-      "category": "游戏,国外要闻"
     },
     {
       "raw_hot": 54306,
