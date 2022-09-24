@@ -1,6 +1,6 @@
 {
   "startTime": 1663951005323,
-  "endTime": 1664008176037,
+  "endTime": 1664009250552,
   "band_list": [
     {
       "raw_hot": 3197928,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1312863,
-      "num": 300382,
+      "num": 311642,
       "word": "江歌母亲回应底线剧集改编江歌案",
       "onboard_time": 1664002884,
       "rank": 10,
@@ -161,6 +161,14 @@
       "onboard_time": 1663994127,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 610098,
+      "num": 306625,
+      "word": "全国仅有5株5000岁古树",
+      "onboard_time": 1664007627,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 576720,
@@ -288,6 +296,14 @@
       "word": "两个人的小森林排播调整",
       "onboard_time": 1663986864,
       "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 417563,
+      "num": 417563,
+      "word": "宁安如梦",
+      "onboard_time": 1664007987,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -555,6 +571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 243780,
+      "num": 243780,
+      "word": "武汉一小区给业主发22.28万",
+      "onboard_time": 1664007987,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240590,
       "num": 240590,
       "word": "9月23日新增本土确诊129例",
@@ -592,6 +616,14 @@
       "word": "男子偷黄金首饰后诱导女友购买",
       "onboard_time": 1664002884,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223082,
+      "num": 223082,
+      "word": "佐香园",
+      "onboard_time": 1664007447,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -803,12 +835,20 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 154661,
-      "num": 154661,
+      "raw_hot": 159091,
+      "num": 159091,
       "word": "南信大设立全国首个元宇宙工程系",
       "onboard_time": 1664005646,
       "rank": 26,
       "category": "科技,教育"
+    },
+    {
+      "raw_hot": 154551,
+      "num": 154551,
+      "word": "新生穿行学校像进入霍格沃兹",
+      "onboard_time": 1664004986,
+      "rank": 32,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 152239,
@@ -891,14 +931,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 133841,
-      "num": 117921,
-      "word": "宁安如梦",
-      "onboard_time": 1664007987,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 132073,
       "num": 132073,
       "word": "S12出征主题照",
@@ -913,14 +945,6 @@
       "onboard_time": 1663975638,
       "rank": 26,
       "category": "教育"
-    },
-    {
-      "raw_hot": 127126,
-      "num": 127126,
-      "word": "全国仅有5株5000岁古树",
-      "onboard_time": 1664007627,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125270,
@@ -961,14 +985,6 @@
       "onboard_time": 1663964890,
       "rank": 45,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 114663,
-      "num": 114663,
-      "word": "新生穿行学校像进入霍格沃兹",
-      "onboard_time": 1664004986,
-      "rank": 32,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 113581,
@@ -1099,14 +1115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 94893,
-      "num": 94893,
-      "word": "佐香园",
-      "onboard_time": 1664007447,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 94123,
       "num": 94123,
       "word": "美国女篮 防守",
@@ -1163,12 +1171,28 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 81707,
+      "num": 81707,
+      "word": "警方回应工人往黄豆酱里大小便",
+      "onboard_time": 1664009123,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78329,
       "num": 78329,
       "word": "这是设置的自动回复吧",
       "onboard_time": 1663979483,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 77921,
+      "num": 77921,
+      "word": "浪客剑心新动画PV",
+      "onboard_time": 1664008224,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 72950,
@@ -1201,14 +1225,6 @@
       "onboard_time": 1664007146,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 69262,
-      "num": 69262,
-      "word": "武汉一小区给业主发22.28万",
-      "onboard_time": 1664007987,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 69138,
