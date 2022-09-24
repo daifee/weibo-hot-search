@@ -1,0 +1,410 @@
+{
+  "runTime": 1664019475369,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2204926,
+        "num": 2204926,
+        "word": "石家庄一核酸检测机构被立案侦查",
+        "onboard_time": 1664013748,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 893182,
+        "num": 893182,
+        "word": "周围的人突然都结婚了",
+        "onboard_time": 1664010505,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 82336,
+        "num": 874851,
+        "word": "太空视角看丰收有多美",
+        "onboard_time": 1664013324,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 906695,
+        "num": 872095,
+        "word": "背着6000片卫生巾上大山",
+        "onboard_time": 1664009844,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 856790,
+        "num": 856790,
+        "word": "全国仅有5株5000岁古树",
+        "onboard_time": 1664007627,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 649986,
+        "num": 649986,
+        "word": "一诺银发五杀",
+        "onboard_time": 1664016866,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 501687,
+        "num": 501687,
+        "word": "TheShy刘海发型回归",
+        "onboard_time": 1664016504,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 495628,
+        "num": 495628,
+        "word": "泰国的海底捞更社死",
+        "onboard_time": 1664012066,
+        "rank": 7,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 473830,
+        "num": 473830,
+        "word": "这些不良习惯容易长白头发",
+        "onboard_time": 1664014706,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452164,
+        "num": 452164,
+        "word": "泽连斯基对以色列未向基辅提供武器感到震惊",
+        "onboard_time": 1664013925,
+        "rank": 9,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 545127,
+        "num": 449891,
+        "word": "江歌母亲回应底线剧集改编江歌案",
+        "onboard_time": 1664002884,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505324,
+        "num": 446520,
+        "word": "妻子患癌后丈夫拒付医药费",
+        "onboard_time": 1664013507,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459967,
+        "num": 445606,
+        "word": "警方回应工人往黄豆酱里大小便",
+        "onboard_time": 1664009123,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439873,
+        "num": 439873,
+        "word": "魏大勋换微博头像",
+        "onboard_time": 1664016630,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360723,
+        "num": 360723,
+        "word": "90后女孩入职国企成37名男同事团宠",
+        "onboard_time": 1664018729,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303818,
+        "num": 303818,
+        "word": "趵突泉3只胖锦鲤组团出游",
+        "onboard_time": 1664015369,
+        "rank": 15,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 293919,
+        "num": 293919,
+        "word": "王鹤棣狂炫辣条",
+        "onboard_time": 1664013147,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267965,
+        "num": 267965,
+        "word": "男子在未开封果汁中发现苍蝇",
+        "onboard_time": 1664014526,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259140,
+        "num": 259140,
+        "word": "3女孩骑车被陌生男子追逐骚扰",
+        "onboard_time": 1664011646,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247682,
+        "num": 247682,
+        "word": "孟美岐落日氛围舞台",
+        "onboard_time": 1664017048,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 486330,
+        "num": 246263,
+        "word": "张翰的烟熏妆",
+        "onboard_time": 1664010025,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 234694,
+        "num": 234694,
+        "word": "宁安如梦",
+        "onboard_time": 1664007987,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185707,
+        "num": 185707,
+        "word": "调查组已赴山艺开展调查",
+        "onboard_time": 1663991483,
+        "rank": 22,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 185552,
+        "num": 185552,
+        "word": "原来这才是真实版过山车",
+        "onboard_time": 1664017707,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181199,
+        "num": 181199,
+        "word": "无力反抗的小猫",
+        "onboard_time": 1664015909,
+        "rank": 24,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 181055,
+        "num": 181055,
+        "word": "爸爸回应四个月宝宝齐步",
+        "onboard_time": 1664009786,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177816,
+        "num": 177816,
+        "word": "情侣吵架时最想听到的话",
+        "onboard_time": 1664012188,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177171,
+        "num": 177171,
+        "word": "撑起一个家的猫咪",
+        "onboard_time": 1664012966,
+        "rank": 27,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 169508,
+        "num": 169508,
+        "word": "虞书欣婚纱造型美不过10秒",
+        "onboard_time": 1664003126,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157246,
+        "num": 157246,
+        "word": "1年级男孩4分钟洗漱完独自晨读",
+        "onboard_time": 1664018190,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146798,
+        "num": 146798,
+        "word": "停满舰载机的辽宁舰有多霸气",
+        "onboard_time": 1664016208,
+        "rank": 30,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 144887,
+        "num": 144887,
+        "word": "武汉一小区给业主发22.28万",
+        "onboard_time": 1664007987,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139010,
+        "num": 139010,
+        "word": "王一博这就是街舞民族风造型",
+        "onboard_time": 1664011469,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135462,
+        "num": 135462,
+        "word": "辽宁舰歼15起飞拦截不明目标",
+        "onboard_time": 1664003126,
+        "rank": 33,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 113920,
+        "num": 113920,
+        "word": "成毅散装粤语",
+        "onboard_time": 1664009365,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108495,
+        "num": 108495,
+        "word": "佐香园",
+        "onboard_time": 1664007447,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106473,
+        "num": 106473,
+        "word": "浙岱渔11492船老大获二等功",
+        "onboard_time": 1664011347,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102940,
+        "num": 102940,
+        "word": "2022全球总决赛",
+        "onboard_time": 1663999465,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 101715,
+        "num": 101715,
+        "word": "Fate最新动画公布",
+        "onboard_time": 1664010267,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 92910,
+        "num": 92910,
+        "word": "奔跑吧",
+        "onboard_time": 1663991304,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85484,
+        "num": 85484,
+        "word": "大熊猫的小尾巴",
+        "onboard_time": 1664017707,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84590,
+        "num": 84590,
+        "word": "济南一政务大厅设找茬窗口",
+        "onboard_time": 1664003546,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82223,
+        "num": 82223,
+        "word": "永乐大典到底有多大",
+        "onboard_time": 1664019385,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80090,
+        "num": 80090,
+        "word": "天线宝宝奶昔杯",
+        "onboard_time": 1664018729,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 78144,
+        "num": 78144,
+        "word": "景甜帮万鹏新剧解决难题",
+        "onboard_time": 1664018368,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 77355,
+        "num": 77355,
+        "word": "她们的名字",
+        "onboard_time": 1664019087,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 73790,
+        "num": 73790,
+        "word": "当代大学生用街舞打开高考作文",
+        "onboard_time": 1664017167,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65614,
+        "num": 65614,
+        "word": "于途说收到祝福",
+        "onboard_time": 1664002948,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 65322,
+        "num": 65322,
+        "word": "1岁宝宝嫌脚脏在便池内清洗",
+        "onboard_time": 1663987346,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62527,
+        "num": 62527,
+        "word": "让人毫无抵抗力的甜妹",
+        "onboard_time": 1664001508,
+        "rank": 49,
+        "category": "情感,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂今天的中国须读懂中国共产党#"
+    }
+  }
+}
