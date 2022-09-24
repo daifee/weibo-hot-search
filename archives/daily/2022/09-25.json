@@ -1,6 +1,6 @@
 {
   "startTime": 1664037122905,
-  "endTime": 1664038540789,
+  "endTime": 1664040344571,
   "band_list": [
     {
       "raw_hot": 2133060,
@@ -11,8 +11,8 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 896502,
-      "num": 896502,
+      "raw_hot": 1096546,
+      "num": 1096546,
       "word": "日本将用网红宣传福岛食品",
       "onboard_time": 1664035944,
       "rank": 10,
@@ -35,20 +35,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 466632,
+      "num": 466632,
+      "word": "河南大学也曾名为中山大学",
+      "onboard_time": 1664036782,
+      "rank": 39,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 373168,
       "num": 373168,
       "word": "90后女孩入职国企成37名男同事团宠",
       "onboard_time": 1664018729,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 303666,
-      "num": 234127,
-      "word": "河南大学也曾名为中山大学",
-      "onboard_time": 1664036782,
-      "rank": 39,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 299009,
@@ -409,6 +409,22 @@
       "onboard_time": 1664013324,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 28239,
+      "num": 28239,
+      "word": "爱好真的能当饭吃吗",
+      "onboard_time": 1664039958,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 24279,
+      "num": 24279,
+      "word": "学校回应女学生月考6科霸榜",
+      "onboard_time": 1664040258,
+      "rank": 49,
+      "category": "教育,社会新闻"
     }
   ],
   "hotgov_list": [

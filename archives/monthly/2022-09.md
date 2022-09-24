@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/25 00:55:40
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/25 01:25:44
 </p>
 </blockquote>
 <p>
@@ -4929,6 +4929,12 @@ iPhone14Pro被吐槽后盖不耐划（热度：1123869）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B0%86%E7%94%A8%E7%BD%91%E7%BA%A2%E5%AE%A3%E4%BC%A0%E7%A6%8F%E5%B2%9B%E9%A3%9F%E5%93%81%23" target="weibo">
+日本将用网红宣传福岛食品（热度：1096546）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Light%E8%BA%AB%E4%BD%93%E4%B8%8D%E9%80%82%23" target="weibo">
 Light身体不适（热度：1095817）
 </a>
@@ -6005,12 +6011,6 @@ BLACKPINK新歌未通过KBS审议（热度：999636）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AF%86%E5%AE%A4%E5%A4%A7%E9%80%83%E8%84%B1%23" target="weibo">
 密室大逃脱（热度：971116）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%95%86%E4%B8%9A%E5%B9%BF%E5%9C%BA%E9%9B%95%E5%A1%91%E8%A2%AB%E6%8C%87%E6%80%A7%E6%9A%97%E7%A4%BA%23" target="weibo">
-上海一商业广场雕塑被指性暗示（热度：970607）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1664038540789,
+  "endTime": 1664040344571,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -6555,6 +6555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1096546,
+      "num": 1096546,
+      "word": "日本将用网红宣传福岛食品",
+      "onboard_time": 1664035944,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1095817,
       "num": 1095817,
       "word": "Light身体不适",
@@ -8968,14 +8976,6 @@
       "word": "受害者称杜英哲妻子是帮凶",
       "onboard_time": 1663687471,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 896502,
-      "num": 896502,
-      "word": "日本将用网红宣传福岛食品",
-      "onboard_time": 1664035944,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -17649,6 +17649,14 @@
       "onboard_time": 1662371248,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 466632,
+      "num": 466632,
+      "word": "河南大学也曾名为中山大学",
+      "onboard_time": 1664036782,
+      "rank": 39,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 466446,
@@ -26505,14 +26513,6 @@
       "onboard_time": 1662448947,
       "rank": 34,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 303666,
-      "num": 234127,
-      "word": "河南大学也曾名为中山大学",
-      "onboard_time": 1664036782,
-      "rank": 39,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 303589,
@@ -47579,6 +47579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 28239,
+      "num": 28239,
+      "word": "爱好真的能当饭吃吗",
+      "onboard_time": 1664039958,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 27800,
       "num": 553073,
       "word": "如何看待餐饮界的巴奴现象",
@@ -47657,6 +47665,14 @@
       "onboard_time": 1663179315,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 24279,
+      "num": 24279,
+      "word": "学校回应女学生月考6科霸榜",
+      "onboard_time": 1664040258,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 24223,
