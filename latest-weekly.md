@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/19 00:32:39 ~ 2022/09/25 03:35:06
+本榜单时间：2022/09/19 00:32:39 ~ 2022/09/25 04:25:03
 </p>
 </blockquote>
 <p>
@@ -8979,6 +8979,12 @@ WTA500东京站郑钦文进四强（热度：79623）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A4%8D%E7%89%A9%E8%82%89%E4%BC%81%E4%B8%9A%E8%82%A1%E4%BB%B7%E6%9A%B4%E8%B7%8C76%25%23" target="weibo">
+植物肉企业股价暴跌76%（热度：25489）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E4%BF%A1%E4%B9%89%E7%88%B7%E7%88%B7%E5%AF%BB%E6%89%BE%E5%8D%97%E4%BA%AC%E5%A5%BD%E5%BF%83%E4%BA%BA%23" target="weibo">
 武汉信义爷爷寻找南京好心人（热度：25078）
 </a>
@@ -9155,12 +9161,6 @@ S12选手评分（热度：19425）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E9%A3%9F%E7%89%A9%E5%88%AB%E7%94%9F%E5%90%83%E4%BA%86%23" target="weibo">
 这些食物别生吃了（热度：9303）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A4%8D%E7%89%A9%E8%82%89%E4%BC%81%E4%B8%9A%E8%82%A1%E4%BB%B7%E6%9A%B4%E8%B7%8C76%25%23" target="weibo">
-植物肉企业股价暴跌76%（热度：9066）
 </a>
 </li>
 
@@ -9375,6 +9375,18 @@ VR世界约球有多酷（热度：7007）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8E%E8%BE%BD%E5%AE%81%E8%88%B0%E5%88%B0%E7%A6%8F%E5%BB%BA%E8%88%B0%23" target="weibo">
+从辽宁舰到福建舰（热度：5841）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%87%8C%E6%A0%B9%E5%8F%B7%E8%88%AA%E6%AF%8D%E6%88%98%E6%96%97%E7%BE%A4%E6%8A%B5%E9%9F%A9%23" target="weibo">
+美国里根号航母战斗群抵韩（热度：5810）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%9C%E5%86%9C%E8%B6%B3%E4%B8%8D%E5%87%BA%E6%88%B7%E7%94%A8%E6%89%8B%E6%9C%BA%E7%A7%8D%E6%A2%A8%E6%97%A5%E6%B5%87%E7%99%BE%E4%BA%A9%23" target="weibo">
 果农足不出户用手机种梨日浇百亩（热度：5762）
 </a>
@@ -9383,6 +9395,18 @@ VR世界约球有多酷（热度：7007）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%8F%E8%B6%85%E5%8F%A4%E8%A3%85%E5%89%A7%E7%AC%AC4%E6%AC%A1be%23" target="weibo">
 经超古装剧第4次be（热度：5754）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E6%92%A4%E9%94%80%E9%98%BF%E5%AF%8C%E6%B1%97%E9%9D%9E%E5%8C%97%E7%BA%A6%E4%B8%BB%E8%A6%81%E7%9B%9F%E5%9B%BD%E5%9C%B0%E4%BD%8D%23" target="weibo">
+拜登撤销阿富汗非北约主要盟国地位（热度：5744）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%233%E9%97%A8%E5%AD%A6%E7%A7%91%E8%80%81%E5%B8%88%E5%90%8C%E5%8F%B0%E5%B1%95%E7%A4%BA%E6%91%A9%E6%93%A6%E8%B5%B7%E7%94%B5%E5%AE%9E%E9%AA%8C%23" target="weibo">
+3门学科老师同台展示摩擦起电实验（热度：5714）
 </a>
 </li>
 
