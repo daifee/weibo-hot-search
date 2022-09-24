@@ -1,0 +1,410 @@
+{
+  "runTime": 1664015138134,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1555738,
+        "num": 1555738,
+        "word": "全国仅有5株5000岁古树",
+        "onboard_time": 1664007627,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1145437,
+        "num": 1145437,
+        "word": "周围的人突然都结婚了",
+        "onboard_time": 1664010505,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 68869,
+        "num": 1068560,
+        "word": "太空视角看丰收有多美",
+        "onboard_time": 1664013324,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1312400,
+        "num": 1068452,
+        "word": "背着6000片卫生巾上大山",
+        "onboard_time": 1664009844,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1067538,
+        "num": 1067538,
+        "word": "石家庄一核酸检测机构被立案侦查",
+        "onboard_time": 1664013748,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619869,
+        "num": 619869,
+        "word": "宁安如梦",
+        "onboard_time": 1664007987,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 619341,
+        "num": 619341,
+        "word": "王鹤棣狂炫辣条",
+        "onboard_time": 1664013147,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 507787,
+        "num": 507787,
+        "word": "爸爸回应四个月宝宝齐步",
+        "onboard_time": 1664009786,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499910,
+        "num": 499910,
+        "word": "泰国的海底捞更社死",
+        "onboard_time": 1664012066,
+        "rank": 8,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 308081,
+        "num": 308081,
+        "word": "武汉一小区给业主发22.28万",
+        "onboard_time": 1664007987,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 705491,
+        "num": 307223,
+        "word": "江歌母亲回应底线剧集改编江歌案",
+        "onboard_time": 1664002884,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652576,
+        "num": 305172,
+        "word": "警方回应工人往黄豆酱里大小便",
+        "onboard_time": 1664009123,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403346,
+        "num": 302641,
+        "word": "3女孩骑车被陌生男子追逐骚扰",
+        "onboard_time": 1664011646,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350207,
+        "num": 299285,
+        "word": "妻子患癌后丈夫拒付医药费",
+        "onboard_time": 1664013507,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322994,
+        "num": 295935,
+        "word": "泽连斯基对以色列未向基辅提供武器感到震惊",
+        "onboard_time": 1664013925,
+        "rank": 14,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 295850,
+        "num": 295850,
+        "word": "调查组已赴山艺开展调查",
+        "onboard_time": 1663991483,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 272516,
+        "num": 272516,
+        "word": "情侣吵架时最想听到的话",
+        "onboard_time": 1664012188,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 268726,
+        "num": 268726,
+        "word": "佐香园",
+        "onboard_time": 1664007447,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260182,
+        "num": 260182,
+        "word": "撑起一个家的猫咪",
+        "onboard_time": 1664012966,
+        "rank": 18,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 226307,
+        "num": 226307,
+        "word": "王一博这就是街舞民族风造型",
+        "onboard_time": 1664011469,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1024819,
+        "num": 225921,
+        "word": "张翰的烟熏妆",
+        "onboard_time": 1664010025,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 225081,
+        "num": 225081,
+        "word": "2022全球总决赛",
+        "onboard_time": 1663999465,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 220614,
+        "num": 220614,
+        "word": "虞书欣婚纱造型美不过10秒",
+        "onboard_time": 1664003126,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210637,
+        "num": 210637,
+        "word": "Fate最新动画公布",
+        "onboard_time": 1664010267,
+        "rank": 23,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 205588,
+        "num": 205588,
+        "word": "辽宁舰歼15起飞拦截不明目标",
+        "onboard_time": 1664003126,
+        "rank": 24,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 202055,
+        "num": 202055,
+        "word": "李承铉玫红西装小丑造型破次元",
+        "onboard_time": 1664011707,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185014,
+        "num": 185014,
+        "word": "浙岱渔11492船老大获二等功",
+        "onboard_time": 1664011347,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162349,
+        "num": 162349,
+        "word": "奔跑吧",
+        "onboard_time": 1663991304,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144843,
+        "num": 144843,
+        "word": "成毅散装粤语",
+        "onboard_time": 1664009365,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126304,
+        "num": 126304,
+        "word": "1岁宝宝嫌脚脏在便池内清洗",
+        "onboard_time": 1663987346,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123513,
+        "num": 123513,
+        "word": "济南一政务大厅设找茬窗口",
+        "onboard_time": 1664003546,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119532,
+        "num": 119532,
+        "word": "于途说收到祝福",
+        "onboard_time": 1664002948,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118625,
+        "num": 118625,
+        "word": "女明星去油是有两把刷子的",
+        "onboard_time": 1664000007,
+        "rank": 32,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 114948,
+        "num": 114948,
+        "word": "这些不良习惯容易长白头发",
+        "onboard_time": 1664014706,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109575,
+        "num": 109575,
+        "word": "肖战骄阳伴我上班路透",
+        "onboard_time": 1663994127,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 99059,
+        "num": 99059,
+        "word": "男子在未开封果汁中发现苍蝇",
+        "onboard_time": 1664014526,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98181,
+        "num": 98181,
+        "word": "上海历史中考老师穿红衣送考",
+        "onboard_time": 1664005828,
+        "rank": 36,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 97196,
+        "num": 97196,
+        "word": "快递员偷走包裹里价值38万金条",
+        "onboard_time": 1663984405,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95456,
+        "num": 95456,
+        "word": "男子考试没抄到答案状告培训机构",
+        "onboard_time": 1663996046,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 94652,
+        "num": 94652,
+        "word": "张艺凡光的方向舞台故事感",
+        "onboard_time": 1664010325,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94595,
+        "num": 94595,
+        "word": "计算机二级",
+        "onboard_time": 1663988547,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 94507,
+        "num": 94507,
+        "word": "光与夜之恋",
+        "onboard_time": 1663995565,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 91554,
+        "num": 91554,
+        "word": "被普法的交警可爱到了",
+        "onboard_time": 1664009605,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91285,
+        "num": 91285,
+        "word": "中国女篮vs美国女篮",
+        "onboard_time": 1663995565,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88829,
+        "num": 88829,
+        "word": "国庆前女子收到21份结婚请帖",
+        "onboard_time": 1663990584,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87995,
+        "num": 87995,
+        "word": "你是我的荣耀",
+        "onboard_time": 1663988667,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 86800,
+        "num": 86800,
+        "word": "新生穿行学校像进入霍格沃兹",
+        "onboard_time": 1664004986,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 81940,
+        "num": 81940,
+        "word": "让人毫无抵抗力的甜妹",
+        "onboard_time": 1664001508,
+        "rank": 47,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 79574,
+        "num": 79574,
+        "word": "海军最高礼仪为辽宁舰庆生",
+        "onboard_time": 1664003968,
+        "rank": 48,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 71517,
+        "num": 71517,
+        "word": "南信大设立全国首个元宇宙工程系",
+        "onboard_time": 1664005646,
+        "rank": 49,
+        "category": "科技,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致信祝贺中国新闻社建社70周年#"
+    }
+  }
+}

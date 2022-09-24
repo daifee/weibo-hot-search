@@ -1,6 +1,6 @@
 {
   "startTime": 1663951005323,
-  "endTime": 1664012470816,
+  "endTime": 1664015138134,
   "band_list": [
     {
       "raw_hot": 3197928,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1312400,
+      "num": 1068452,
+      "word": "背着6000片卫生巾上大山",
+      "onboard_time": 1664009844,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1271144,
       "num": 1271144,
       "word": "国庆前女子收到21份结婚请帖",
@@ -115,6 +123,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1145437,
+      "num": 1145437,
+      "word": "周围的人突然都结婚了",
+      "onboard_time": 1664010505,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1132880,
       "num": 1132880,
       "word": "1家4人查出幽门螺杆菌孩子疼得打滚",
@@ -123,12 +139,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1021872,
-      "num": 603626,
-      "word": "背着6000片卫生巾上大山",
-      "onboard_time": 1664009844,
+      "raw_hot": 1067538,
+      "num": 1067538,
+      "word": "石家庄一核酸检测机构被立案侦查",
+      "onboard_time": 1664013748,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1024819,
+      "num": 225921,
+      "word": "张翰的烟熏妆",
+      "onboard_time": 1664010025,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 975474,
@@ -145,14 +169,6 @@
       "onboard_time": 1664007987,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 888405,
-      "num": 220423,
-      "word": "张翰的烟熏妆",
-      "onboard_time": 1664010025,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 859589,
@@ -193,6 +209,14 @@
       "onboard_time": 1664003126,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 619341,
+      "num": 619341,
+      "word": "王鹤棣狂炫辣条",
+      "onboard_time": 1664013147,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 618032,
@@ -251,12 +275,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 507787,
+      "num": 507787,
+      "word": "爸爸回应四个月宝宝齐步",
+      "onboard_time": 1664009786,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 506804,
       "num": 506804,
       "word": "你好星期六全员搞笑担当",
       "onboard_time": 1663993705,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 499910,
+      "num": 499910,
+      "word": "泰国的海底捞更社死",
+      "onboard_time": 1664012066,
+      "rank": 29,
+      "category": "幽默,美食"
     },
     {
       "raw_hot": 497074,
@@ -281,14 +321,6 @@
       "onboard_time": 1663986806,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 482430,
-      "num": 482430,
-      "word": "周围的人突然都结婚了",
-      "onboard_time": 1664010505,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 464237,
@@ -379,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 403346,
+      "num": 302641,
+      "word": "3女孩骑车被陌生男子追逐骚扰",
+      "onboard_time": 1664011646,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 400204,
       "num": 400204,
       "word": "演员该不该用原声演戏",
@@ -411,14 +451,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 379229,
-      "num": 379229,
-      "word": "爸爸回应四个月宝宝齐步",
-      "onboard_time": 1664009786,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 369343,
       "num": 369343,
       "word": "央视揭秘羊了个羊通关诈骗陷阱",
@@ -433,6 +465,14 @@
       "onboard_time": 1663988547,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 350207,
+      "num": 299285,
+      "word": "妻子患癌后丈夫拒付医药费",
+      "onboard_time": 1664013507,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 350094,
@@ -457,6 +497,14 @@
       "onboard_time": 1663993226,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 322994,
+      "num": 295935,
+      "word": "泽连斯基对以色列未向基辅提供武器感到震惊",
+      "onboard_time": 1664013925,
+      "rank": 14,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 318477,
@@ -571,6 +619,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 272516,
+      "num": 272516,
+      "word": "情侣吵架时最想听到的话",
+      "onboard_time": 1664012188,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 268255,
       "num": 268255,
       "word": "20岁武警1秒95击中4个目标",
@@ -593,6 +649,14 @@
       "onboard_time": 1663997004,
       "rank": 18,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 260182,
+      "num": 260182,
+      "word": "撑起一个家的猫咪",
+      "onboard_time": 1664012966,
+      "rank": 18,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 254979,
@@ -707,6 +771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 210637,
+      "num": 210637,
+      "word": "Fate最新动画公布",
+      "onboard_time": 1664010267,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 209371,
       "num": 209371,
       "word": "见过羊叫但没见过羊骂人",
@@ -737,6 +809,14 @@
       "onboard_time": 1663990285,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 202055,
+      "num": 202055,
+      "word": "李承铉玫红西装小丑造型破次元",
+      "onboard_time": 1664011707,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 198893,
@@ -787,6 +867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185014,
+      "num": 185014,
+      "word": "浙岱渔11492船老大获二等功",
+      "onboard_time": 1664011347,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183071,
       "num": 145609,
       "word": "王一博刘雨昕韩庚李承铉街舞5微电影",
@@ -833,14 +921,6 @@
       "onboard_time": 1663994906,
       "rank": 41,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 169567,
-      "num": 169567,
-      "word": "Fate最新动画公布",
-      "onboard_time": 1664010267,
-      "rank": 35,
-      "category": "动漫"
     },
     {
       "raw_hot": 168960,
@@ -963,14 +1043,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 145505,
-      "num": 133100,
-      "word": "李承铉玫红西装小丑造型破次元",
-      "onboard_time": 1664011707,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 143794,
       "num": 143794,
       "word": "2023考研今起预报名",
@@ -1017,22 +1089,6 @@
       "onboard_time": 1663944028,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 133103,
-      "num": 133103,
-      "word": "泰国的海底捞更社死",
-      "onboard_time": 1664012066,
-      "rank": 29,
-      "category": "幽默,美食"
-    },
-    {
-      "raw_hot": 133080,
-      "num": 133080,
-      "word": "浙岱渔11492船老大获二等功",
-      "onboard_time": 1664011347,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132073,
@@ -1099,6 +1155,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 114948,
+      "num": 114948,
+      "word": "这些不良习惯容易长白头发",
+      "onboard_time": 1664014706,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113581,
       "num": 113581,
       "word": "四姑娘山今秋第一场雪",
@@ -1145,14 +1209,6 @@
       "onboard_time": 1664006307,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 107893,
-      "num": 107893,
-      "word": "3女孩骑车被陌生男子追逐骚扰",
-      "onboard_time": 1664011646,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106406,
@@ -1227,12 +1283,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 96648,
-      "num": 96648,
-      "word": "情侣吵架时最想听到的话",
-      "onboard_time": 1664012188,
-      "rank": 45,
-      "category": "情感"
+      "raw_hot": 99059,
+      "num": 99059,
+      "word": "男子在未开封果汁中发现苍蝇",
+      "onboard_time": 1664014526,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96212,
@@ -1353,6 +1409,14 @@
       "onboard_time": 1663943191,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 68869,
+      "num": 1068560,
+      "word": "太空视角看丰收有多美",
+      "onboard_time": 1664013324,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 68496,
