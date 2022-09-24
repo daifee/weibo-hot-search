@@ -1,0 +1,410 @@
+{
+  "runTime": 1664012470816,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1910174,
+        "num": 1910174,
+        "word": "全国仅有5株5000岁古树",
+        "onboard_time": 1664007627,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 953762,
+        "num": 953762,
+        "word": "宁安如梦",
+        "onboard_time": 1664007987,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 11601,
+        "num": 623415,
+        "word": "中国航母这10年的那些名场面",
+        "onboard_time": 1663939107,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1021872,
+        "num": 603626,
+        "word": "背着6000片卫生巾上大山",
+        "onboard_time": 1664009844,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575927,
+        "num": 575927,
+        "word": "佐香园",
+        "onboard_time": 1664007447,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508029,
+        "num": 508029,
+        "word": "武汉一小区给业主发22.28万",
+        "onboard_time": 1664007987,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482430,
+        "num": 482430,
+        "word": "周围的人突然都结婚了",
+        "onboard_time": 1664010505,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 454178,
+        "num": 454178,
+        "word": "虞书欣婚纱造型美不过10秒",
+        "onboard_time": 1664003126,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 379229,
+        "num": 379229,
+        "word": "爸爸回应四个月宝宝齐步",
+        "onboard_time": 1664009786,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369192,
+        "num": 369192,
+        "word": "快递员偷走包裹里价值38万金条",
+        "onboard_time": 1663984405,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 842612,
+        "num": 361519,
+        "word": "警方回应工人往黄豆酱里大小便",
+        "onboard_time": 1664009123,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 778092,
+        "num": 357937,
+        "word": "江歌母亲回应底线剧集改编江歌案",
+        "onboard_time": 1664002884,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353511,
+        "num": 353511,
+        "word": "调查组已赴山艺开展调查",
+        "onboard_time": 1663991483,
+        "rank": 12,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 346011,
+        "num": 346011,
+        "word": "2022全球总决赛",
+        "onboard_time": 1663999465,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 9692,
+        "num": 273806,
+        "word": "凌云直上雪如意",
+        "onboard_time": 1664011707,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268913,
+        "num": 268913,
+        "word": "辽宁舰歼15起飞拦截不明目标",
+        "onboard_time": 1664003126,
+        "rank": 15,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 249418,
+        "num": 249418,
+        "word": "王一博这就是街舞民族风造型",
+        "onboard_time": 1664011469,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224677,
+        "num": 224677,
+        "word": "1岁宝宝嫌脚脏在便池内清洗",
+        "onboard_time": 1663987346,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219796,
+        "num": 219796,
+        "word": "国庆前女子收到21份结婚请帖",
+        "onboard_time": 1663990584,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182138,
+        "num": 182138,
+        "word": "济南一政务大厅设找茬窗口",
+        "onboard_time": 1664003546,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 888405,
+        "num": 181374,
+        "word": "张翰的烟熏妆",
+        "onboard_time": 1664010025,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174834,
+        "num": 174834,
+        "word": "王鹤棣把灯棒耍成双截棍",
+        "onboard_time": 1664007566,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172442,
+        "num": 172442,
+        "word": "女明星去油是有两把刷子的",
+        "onboard_time": 1664000007,
+        "rank": 22,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 169567,
+        "num": 169567,
+        "word": "Fate最新动画公布",
+        "onboard_time": 1664010267,
+        "rank": 23,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 161545,
+        "num": 161545,
+        "word": "于途说收到祝福",
+        "onboard_time": 1664002948,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161086,
+        "num": 161086,
+        "word": "奔跑吧",
+        "onboard_time": 1663991304,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157134,
+        "num": 157134,
+        "word": "成毅散装粤语",
+        "onboard_time": 1664009365,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140387,
+        "num": 140387,
+        "word": "上海历史中考老师穿红衣送考",
+        "onboard_time": 1664005828,
+        "rank": 27,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 137495,
+        "num": 137495,
+        "word": "男子考试没抄到答案状告培训机构",
+        "onboard_time": 1663996046,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 133103,
+        "num": 133103,
+        "word": "泰国的海底捞更社死",
+        "onboard_time": 1664012066,
+        "rank": 29,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 145505,
+        "num": 133100,
+        "word": "李承铉玫红西装小丑造型破次元",
+        "onboard_time": 1664011707,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142274,
+        "num": 133094,
+        "word": "柳岩劝妈妈们自私一点",
+        "onboard_time": 1664004087,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133080,
+        "num": 133080,
+        "word": "浙岱渔11492船老大获二等功",
+        "onboard_time": 1664011347,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130463,
+        "num": 130463,
+        "word": "张艺凡光的方向舞台故事感",
+        "onboard_time": 1664010325,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123103,
+        "num": 123103,
+        "word": "计算机二级",
+        "onboard_time": 1663988547,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 121541,
+        "num": 121541,
+        "word": "你是我的荣耀",
+        "onboard_time": 1663988667,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120872,
+        "num": 120872,
+        "word": "被普法的交警可爱到了",
+        "onboard_time": 1664009605,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115876,
+        "num": 115876,
+        "word": "新生穿行学校像进入霍格沃兹",
+        "onboard_time": 1664004986,
+        "rank": 37,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 115504,
+        "num": 115504,
+        "word": "南信大设立全国首个元宇宙工程系",
+        "onboard_time": 1664005646,
+        "rank": 38,
+        "category": "科技,教育"
+      },
+      {
+        "raw_hot": 109975,
+        "num": 109975,
+        "word": "光与夜之恋",
+        "onboard_time": 1663995565,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109770,
+        "num": 109770,
+        "word": "肖战骄阳伴我上班路透",
+        "onboard_time": 1663994127,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108809,
+        "num": 108809,
+        "word": "男子偷黄金首饰后诱导女友购买",
+        "onboard_time": 1664002884,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107893,
+        "num": 107893,
+        "word": "3女孩骑车被陌生男子追逐骚扰",
+        "onboard_time": 1664011646,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107185,
+        "num": 107185,
+        "word": "海军最高礼仪为辽宁舰庆生",
+        "onboard_time": 1664003968,
+        "rank": 43,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 99325,
+        "num": 99325,
+        "word": "让人毫无抵抗力的甜妹",
+        "onboard_time": 1664001508,
+        "rank": 44,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 96648,
+        "num": 96648,
+        "word": "情侣吵架时最想听到的话",
+        "onboard_time": 1664012188,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93027,
+        "num": 93027,
+        "word": "中国女篮vs美国女篮",
+        "onboard_time": 1663995565,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81452,
+        "num": 81452,
+        "word": "闪耀暖暖",
+        "onboard_time": 1663999705,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 75199,
+        "num": 75199,
+        "word": "吴尊友研判今冬新冠疫情走势",
+        "onboard_time": 1663983506,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74543,
+        "num": 74543,
+        "word": "中国女篮单节净胜美国10分",
+        "onboard_time": 1664000904,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致信祝贺中国新闻社建社70周年#"
+    }
+  }
+}
