@@ -1,0 +1,410 @@
+{
+  "runTime": 1664023470480,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1926306,
+        "num": 1926306,
+        "word": "周围的人突然都结婚了",
+        "onboard_time": 1664010505,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1823793,
+        "num": 1823793,
+        "word": "90后女孩入职国企成37名男同事团宠",
+        "onboard_time": 1664018729,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78341,
+        "num": 1043023,
+        "word": "太空视角看丰收有多美",
+        "onboard_time": 1664013324,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 701040,
+        "num": 701040,
+        "word": "背着6000片卫生巾上大山",
+        "onboard_time": 1664009844,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 532687,
+        "num": 532687,
+        "word": "1年级男孩4分钟洗漱完独自晨读",
+        "onboard_time": 1664018190,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408706,
+        "num": 408706,
+        "word": "上海明确户外招牌可展示个性创意",
+        "onboard_time": 1664020109,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403480,
+        "num": 403480,
+        "word": "这些不良习惯容易长白头发",
+        "onboard_time": 1664014706,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394878,
+        "num": 394878,
+        "word": "迪丽热巴说迎光而聚共赴热爱",
+        "onboard_time": 1664022266,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331241,
+        "num": 331241,
+        "word": "俩零零后造假币获利1.4万被判刑10年",
+        "onboard_time": 1664021248,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327941,
+        "num": 327941,
+        "word": "一诺银发五杀",
+        "onboard_time": 1664016866,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 464091,
+        "num": 319181,
+        "word": "江歌母亲回应底线剧集改编江歌案",
+        "onboard_time": 1664002884,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407887,
+        "num": 315722,
+        "word": "警方回应工人往黄豆酱里大小便",
+        "onboard_time": 1664009123,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346457,
+        "num": 312585,
+        "word": "魏大勋换微博头像",
+        "onboard_time": 1664016630,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303209,
+        "num": 303209,
+        "word": "妻子患癌后丈夫拒付医药费",
+        "onboard_time": 1664013507,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260980,
+        "num": 260980,
+        "word": "泰国的海底捞更社死",
+        "onboard_time": 1664012066,
+        "rank": 14,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 259583,
+        "num": 259583,
+        "word": "TheShy刘海发型回归",
+        "onboard_time": 1664016504,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 255864,
+        "num": 255864,
+        "word": "全国仅有5株5000岁古树",
+        "onboard_time": 1664007627,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246694,
+        "num": 246694,
+        "word": "王俊凯为荣耀打call",
+        "onboard_time": 1664021067,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240308,
+        "num": 240308,
+        "word": "原来这才是真实版过山车",
+        "onboard_time": 1664017707,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226711,
+        "num": 226711,
+        "word": "虞书欣张彬彬169与188的体型差",
+        "onboard_time": 1664019868,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 743883,
+        "num": 217740,
+        "word": "石家庄一核酸检测机构被立案侦查",
+        "onboard_time": 1664013748,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409424,
+        "num": 217624,
+        "word": "张翰的烟熏妆",
+        "onboard_time": 1664010025,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 206761,
+        "num": 206761,
+        "word": "王一博印花层叠氛围感大片",
+        "onboard_time": 1664021067,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200032,
+        "num": 200032,
+        "word": "泽连斯基对以色列未向基辅提供武器感到震惊",
+        "onboard_time": 1664013925,
+        "rank": 23,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 189955,
+        "num": 189955,
+        "word": "北航举行校园集体婚礼",
+        "onboard_time": 1664020828,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 189773,
+        "num": 189773,
+        "word": "蔡徐坤金牌调解员",
+        "onboard_time": 1664023048,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176753,
+        "num": 176753,
+        "word": "宁安如梦",
+        "onboard_time": 1664007987,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175981,
+        "num": 175981,
+        "word": "孟美岐落日氛围舞台",
+        "onboard_time": 1664017048,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167759,
+        "num": 167759,
+        "word": "趵突泉3只胖锦鲤组团出游",
+        "onboard_time": 1664015369,
+        "rank": 28,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 153427,
+        "num": 153427,
+        "word": "男子在未开封果汁中发现苍蝇",
+        "onboard_time": 1664014526,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175112,
+        "num": 152481,
+        "word": "王鹤棣光影氛围感大片",
+        "onboard_time": 1664021305,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160115,
+        "num": 152077,
+        "word": "永乐大典到底有多大",
+        "onboard_time": 1664019385,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150975,
+        "num": 150975,
+        "word": "3女孩骑车被陌生男子追逐骚扰",
+        "onboard_time": 1664011646,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145293,
+        "num": 145293,
+        "word": "情侣吵架时最想听到的话",
+        "onboard_time": 1664012188,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137410,
+        "num": 137410,
+        "word": "木星将与地球进行59年来最亲密接触",
+        "onboard_time": 1664019509,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136582,
+        "num": 136582,
+        "word": "撑起一个家的猫咪",
+        "onboard_time": 1664012966,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 128734,
+        "num": 128734,
+        "word": "无力反抗的小猫",
+        "onboard_time": 1664015909,
+        "rank": 36,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 122532,
+        "num": 122532,
+        "word": "停满舰载机的辽宁舰有多霸气",
+        "onboard_time": 1664016208,
+        "rank": 37,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 116776,
+        "num": 116776,
+        "word": "健康牙龈刷牙不会出血",
+        "onboard_time": 1664021908,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106848,
+        "num": 106848,
+        "word": "调查组已赴山艺开展调查",
+        "onboard_time": 1663991483,
+        "rank": 39,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 101570,
+        "num": 101570,
+        "word": "eStar对战TCG",
+        "onboard_time": 1664022207,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 101360,
+        "num": 101360,
+        "word": "天线宝宝奶昔杯",
+        "onboard_time": 1664018729,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 98743,
+        "num": 98743,
+        "word": "景甜帮万鹏新剧解决难题",
+        "onboard_time": 1664018368,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 98330,
+        "num": 98330,
+        "word": "武汉一小区给业主发22.28万",
+        "onboard_time": 1664007987,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96182,
+        "num": 96182,
+        "word": "成毅散装粤语",
+        "onboard_time": 1664009365,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87574,
+        "num": 87574,
+        "word": "原来600多年前的总裁是这样的",
+        "onboard_time": 1664023288,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86889,
+        "num": 86889,
+        "word": "爸爸回应四个月宝宝齐步",
+        "onboard_time": 1664009786,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85088,
+        "num": 85088,
+        "word": "浙岱渔11492船老大获二等功",
+        "onboard_time": 1664011347,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83203,
+        "num": 83203,
+        "word": "辽宁舰歼15起飞拦截不明目标",
+        "onboard_time": 1664003126,
+        "rank": 48,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 74397,
+        "num": 74397,
+        "word": "男子被黑熊袭击致26处重伤",
+        "onboard_time": 1664023407,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#弘扬科学家精神涵养优良学风#"
+    }
+  }
+}
