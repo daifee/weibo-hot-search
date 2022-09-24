@@ -1,6 +1,6 @@
 {
   "startTime": 1663951005323,
-  "endTime": 1664030292510,
+  "endTime": 1664033067364,
   "band_list": [
     {
       "raw_hot": 3197928,
@@ -81,6 +81,14 @@
       "onboard_time": 1664018729,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1690392,
+      "num": 1690392,
+      "word": "教育部回应降低英语教学比重建议",
+      "onboard_time": 1664030787,
+      "rank": 0,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1562223,
@@ -179,6 +187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 926127,
+      "num": 926127,
+      "word": "真正披荆斩棘的是齐思钧吧",
+      "onboard_time": 1664030187,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 903852,
       "num": 903852,
       "word": "王鹤棣说自己是猴系帅哥",
@@ -241,6 +257,14 @@
       "onboard_time": 1664003126,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 677251,
+      "num": 677251,
+      "word": "大妈带活鱼坐高铁被阻当场摔死鱼",
+      "onboard_time": 1664029529,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 665482,
@@ -344,14 +368,6 @@
       "word": "杨迪说成毅太搞笑了",
       "onboard_time": 1664025264,
       "rank": 6,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 536516,
-      "num": 536516,
-      "word": "真正披荆斩棘的是齐思钧吧",
-      "onboard_time": 1664030187,
-      "rank": 5,
       "category": "综艺"
     },
     {
@@ -571,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 386705,
+      "num": 386705,
+      "word": "普京签署一系列部分动员相关的法律",
+      "onboard_time": 1664028506,
+      "rank": 28,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 383396,
       "num": 383396,
       "word": "多个特大城市全面放开落户",
@@ -691,14 +715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 309781,
-      "num": 309781,
-      "word": "普京签署一系列部分动员相关的法律",
-      "onboard_time": 1664028506,
-      "rank": 28,
-      "category": "国外要闻,军事"
-    },
-    {
       "raw_hot": 305369,
       "num": 305369,
       "word": "王一博街舞5打篮球",
@@ -771,6 +787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 287576,
+      "num": 287576,
+      "word": "江南百景图绍兴府",
+      "onboard_time": 1664029107,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 280852,
       "num": 280852,
       "word": "考研为了上岸有多自律",
@@ -803,12 +827,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 272531,
-      "num": 203095,
-      "word": "江南百景图绍兴府",
-      "onboard_time": 1664029107,
-      "rank": 21,
-      "category": "游戏"
+      "raw_hot": 276599,
+      "num": 276599,
+      "word": "任嘉伦最爱请君雪中落泪名场面",
+      "onboard_time": 1664032947,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 268255,
@@ -836,7 +860,7 @@
     },
     {
       "raw_hot": 263109,
-      "num": 203482,
+      "num": 257414,
       "word": "老外也逃不出言情的千层套路",
       "onboard_time": 1664028926,
       "rank": 23,
@@ -987,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222802,
+      "num": 222802,
+      "word": "自测颈椎病处于什么级别",
+      "onboard_time": 1664028265,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222720,
       "num": 222720,
       "word": "健康牙龈刷牙不会出血",
@@ -1001,6 +1033,14 @@
       "onboard_time": 1664027667,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 221072,
+      "num": 221072,
+      "word": "上网必须知道的名场面",
+      "onboard_time": 1664028506,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 220630,
@@ -1147,14 +1187,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 191867,
-      "num": 191867,
-      "word": "上网必须知道的名场面",
-      "onboard_time": 1664028506,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 189773,
       "num": 189773,
       "word": "蔡徐坤金牌调解员",
@@ -1176,14 +1208,6 @@
       "word": "浙岱渔11492船老大获二等功",
       "onboard_time": 1664011347,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 183997,
-      "num": 183997,
-      "word": "自测颈椎病处于什么级别",
-      "onboard_time": 1664028265,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1233,14 +1257,6 @@
       "onboard_time": 1664021305,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 172649,
-      "num": 172649,
-      "word": "大妈带活鱼坐高铁被阻当场摔死鱼",
-      "onboard_time": 1664029529,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 169975,
@@ -1459,6 +1475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 131131,
+      "num": 131131,
+      "word": "宋茜长文告别亲爱的生命",
+      "onboard_time": 1664030668,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 130376,
       "num": 130376,
       "word": "法考成绩",
@@ -1619,6 +1643,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 101698,
+      "num": 101698,
+      "word": "武汉三镇3比4沧州雄狮",
+      "onboard_time": 1664028926,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101570,
       "num": 101570,
       "word": "eStar对战TCG",
@@ -1665,14 +1697,6 @@
       "onboard_time": 1664018368,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 96276,
-      "num": 96276,
-      "word": "武汉三镇3比4沧州雄狮",
-      "onboard_time": 1664028926,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 96212,
@@ -1849,6 +1873,14 @@
       "onboard_time": 1663975939,
       "rank": 38,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 68167,
+      "num": 68167,
+      "word": "这是公主猫猫吧",
+      "onboard_time": 1664032829,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 64233,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/24 22:38:12
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/24 23:24:27
 </p>
 </blockquote>
 <p>
@@ -2375,6 +2375,12 @@ JDG与TES决胜局（热度：1719216）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%A5%BD%E4%B8%BB%E6%8C%81%23" target="weibo">
 李好主持（热度：1692468）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E9%99%8D%E4%BD%8E%E8%8B%B1%E8%AF%AD%E6%95%99%E5%AD%A6%E6%AF%94%E9%87%8D%E5%BB%BA%E8%AE%AE%23" target="weibo">
+教育部回应降低英语教学比重建议（热度：1690392）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ BLACKPINK新歌未通过KBS审议（热度：999636）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E5%B0%8F%E9%BB%91%23" target="weibo">
 罗小黑（热度：969795）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%9C%89%E4%B8%80%E9%83%A8%E4%BC%98%E8%B4%A8%E4%B8%9C%E6%96%B9%E7%8E%84%E5%B9%BB%E4%BA%86%23" target="weibo">
-终于有一部优质东方玄幻了（热度：968391）
 </a>
 </li>
 
