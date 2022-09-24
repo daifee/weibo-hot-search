@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1664047147216,
+  "endTime": 1664048106126,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -47515,20 +47515,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 32577,
+      "num": 32577,
+      "word": "中学教室后排设蹲班制老师引热议",
+      "onboard_time": 1664042654,
+      "rank": 39,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 32239,
       "num": 32239,
       "word": "河南省夏粮总产量全国第一",
       "onboard_time": 1663691064,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32210,
-      "num": 32210,
-      "word": "中学教室后排设蹲班制老师引热议",
-      "onboard_time": 1664042654,
-      "rank": 39,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 31791,
@@ -48059,6 +48059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 10266,
+      "num": 10266,
+      "word": "大熊猫自拍和他拍差别好大",
+      "onboard_time": 1664046673,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 10153,
       "num": 10153,
       "word": "学生为老师自制月饼花束过中秋",
@@ -48123,20 +48131,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 9550,
-      "num": 9550,
-      "word": "大熊猫自拍和他拍差别好大",
-      "onboard_time": 1664046673,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 9303,
       "num": 9303,
       "word": "这些食物别生吃了",
       "onboard_time": 1663960092,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9066,
+      "num": 9421,
+      "word": "植物肉企业股价暴跌76%",
+      "onboard_time": 1664047631,
+      "rank": 46,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 8649,
@@ -48193,6 +48201,14 @@
       "onboard_time": 1662721229,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 7683,
+      "num": 9411,
+      "word": "0成本打造居家氛围照",
+      "onboard_time": 1664047752,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 7622,
