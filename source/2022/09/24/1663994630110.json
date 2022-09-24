@@ -1,0 +1,410 @@
+{
+  "runTime": 1663994630110,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1899074,
+        "num": 1899074,
+        "word": "你是我的荣耀",
+        "onboard_time": 1663988667,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1132069,
+        "num": 1132069,
+        "word": "六公主点评任嘉伦请君原声台词",
+        "onboard_time": 1663980743,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21753,
+        "num": 862199,
+        "word": "中国航母这10年的那些名场面",
+        "onboard_time": 1663939107,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1195967,
+        "num": 850288,
+        "word": "快递员偷走包裹里价值38万金条",
+        "onboard_time": 1663984405,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 814329,
+        "num": 814329,
+        "word": "国庆前女子收到21份结婚请帖",
+        "onboard_time": 1663990584,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3197928,
+        "num": 778731,
+        "word": "调查组已赴山艺开展调查",
+        "onboard_time": 1663991483,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 730479,
+        "num": 730479,
+        "word": "研招网",
+        "onboard_time": 1663981947,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 506804,
+        "num": 506804,
+        "word": "你好星期六全员搞笑担当",
+        "onboard_time": 1663993705,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 431759,
+        "num": 431759,
+        "word": "父亲回应掏万元给女儿全班换桌椅",
+        "onboard_time": 1663986806,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403503,
+        "num": 403503,
+        "word": "退伍军人用子弹壳做戒指送奶奶",
+        "onboard_time": 1663989987,
+        "rank": 9,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 859589,
+        "num": 401764,
+        "word": "杨颖奔跑吧双丸子头造型",
+        "onboard_time": 1663991125,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 669538,
+        "num": 394325,
+        "word": "1岁宝宝嫌脚脏在便池内清洗",
+        "onboard_time": 1663987346,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 618032,
+        "num": 381870,
+        "word": "肖战骄阳伴我上班路透",
+        "onboard_time": 1663994127,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 580535,
+        "num": 370942,
+        "word": "吴尊友研判今冬新冠疫情走势",
+        "onboard_time": 1663983506,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368675,
+        "num": 368675,
+        "word": "计算机二级",
+        "onboard_time": 1663988547,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 350094,
+        "num": 350094,
+        "word": "王一博街舞5双时空人格海报",
+        "onboard_time": 1663994007,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294553,
+        "num": 294553,
+        "word": "小学生不愿上学被保安架进学校",
+        "onboard_time": 1663986925,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 238161,
+        "num": 238161,
+        "word": "2大妈打掩护支开店员扫货式偷水果",
+        "onboard_time": 1663989745,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205078,
+        "num": 205078,
+        "word": "如何看待国庆节扎堆结婚",
+        "onboard_time": 1663993347,
+        "rank": 18,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 199682,
+        "num": 199682,
+        "word": "费德勒退役纳达尔哭了",
+        "onboard_time": 1663981765,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 295877,
+        "num": 185233,
+        "word": "国庆档新片票房破1500万",
+        "onboard_time": 1663991787,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275595,
+        "num": 185118,
+        "word": "奔跑吧",
+        "onboard_time": 1663991304,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271725,
+        "num": 181214,
+        "word": "赵露思记错胡同和1921时间",
+        "onboard_time": 1663994427,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165800,
+        "num": 165800,
+        "word": "考研为了上岸有多自律",
+        "onboard_time": 1663975880,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 157990,
+        "num": 157990,
+        "word": "中国传媒大学2022开学典礼",
+        "onboard_time": 1663979243,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 157677,
+        "num": 157677,
+        "word": "公交公司回应司机等红绿灯时跳舞",
+        "onboard_time": 1663993226,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146222,
+        "num": 146222,
+        "word": "1家4人查出幽门螺杆菌孩子疼得打滚",
+        "onboard_time": 1663947746,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137301,
+        "num": 137301,
+        "word": "天安门广场祝福祖国巨型花篮亮相",
+        "onboard_time": 1663993705,
+        "rank": 27,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 132009,
+        "num": 132009,
+        "word": "多个特大城市全面放开落户",
+        "onboard_time": 1663980204,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124602,
+        "num": 124602,
+        "word": "女学霸凭6科第一7次霸榜光荣榜",
+        "onboard_time": 1663946850,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202147,
+        "num": 124257,
+        "word": "邢菲戏路",
+        "onboard_time": 1663990285,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194052,
+        "num": 123151,
+        "word": "蔡徐坤奔跑吧学院风路透",
+        "onboard_time": 1663991365,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193158,
+        "num": 122135,
+        "word": "王嘉尔雅加达音乐节舞台",
+        "onboard_time": 1663991007,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187830,
+        "num": 120039,
+        "word": "两个人的小森林排播调整",
+        "onboard_time": 1663986864,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120017,
+        "num": 120017,
+        "word": "你其实不喜欢谈恋爱",
+        "onboard_time": 1663946249,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180839,
+        "num": 119908,
+        "word": "马嘉祺我们的歌4明晚见",
+        "onboard_time": 1663990047,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117829,
+        "num": 117829,
+        "word": "泄露GTA6黑客被逮捕",
+        "onboard_time": 1663976421,
+        "rank": 36,
+        "category": "游戏,国外要闻"
+      },
+      {
+        "raw_hot": 117492,
+        "num": 117492,
+        "word": "大众对殡葬行业的职业偏见有多大",
+        "onboard_time": 1663993466,
+        "rank": 37,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 115194,
+        "num": 115194,
+        "word": "没有社交是什么感觉",
+        "onboard_time": 1663944330,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115182,
+        "num": 115182,
+        "word": "120接线员听到敲击声教科书式救援",
+        "onboard_time": 1663993285,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151939,
+        "num": 114552,
+        "word": "刘也一不小心踏进京剧圈",
+        "onboard_time": 1663986085,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109570,
+        "num": 109570,
+        "word": "猫咪的起床气有多大",
+        "onboard_time": 1663978164,
+        "rank": 41,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 101389,
+        "num": 101389,
+        "word": "梅西禁区外写意吊射",
+        "onboard_time": 1663986806,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82664,
+        "num": 82664,
+        "word": "日本2比0美国",
+        "onboard_time": 1663978343,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78058,
+        "num": 78058,
+        "word": "河南增7例本土无症状",
+        "onboard_time": 1663986202,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76735,
+        "num": 76735,
+        "word": "新兵入伍被村民裹满大红花",
+        "onboard_time": 1663984225,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75943,
+        "num": 75943,
+        "word": "官方回应网红称1800万包下高邮湖",
+        "onboard_time": 1663946430,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73224,
+        "num": 73224,
+        "word": "请问连麦需要带什么病历",
+        "onboard_time": 1663982786,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 70399,
+        "num": 70399,
+        "word": "法考成绩",
+        "onboard_time": 1663975638,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 60274,
+        "num": 60274,
+        "word": "见过羊叫但没见过羊骂人",
+        "onboard_time": 1663978703,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#重返太空的183天#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/24 11:19:29
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/24 12:43:50
 </p>
 </blockquote>
 <p>
@@ -533,6 +533,12 @@ jkl（热度：3228817）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%A4%A9%E5%A4%A9%E5%90%91%E4%B8%8A%E5%B8%B8%E9%A9%BB%E5%98%89%E5%AE%BE%E5%90%8D%E5%8D%95%23" target="weibo">
 网传天天向上常驻嘉宾名单（热度：3222365）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%83%E6%9F%A5%E7%BB%84%E5%B7%B2%E8%B5%B4%E5%B1%B1%E8%89%BA%E5%BC%80%E5%B1%95%E8%B0%83%E6%9F%A5%23" target="weibo">
+调查组已赴山艺开展调查（热度：3197928）
 </a>
 </li>
 
@@ -1769,6 +1775,12 @@ Doinb升级当爸爸（热度：2008327）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8A%E4%BA%86%E4%B8%AA%E7%BE%8A%E7%AC%AC%E4%B8%89%E5%85%B3%23" target="weibo">
 羊了个羊第三关（热度：1899774）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%98%AF%E6%88%91%E7%9A%84%E8%8D%A3%E8%80%80%23" target="weibo">
+你是我的荣耀（热度：1899074）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ BLACKPINK新歌未通过KBS审议（热度：999636）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%97%E9%B1%BC%E9%83%A8%E5%88%86%E4%B8%BB%E6%92%AD%E6%B6%89%E5%AB%8C%E4%BD%8E%E4%BF%97%E8%A1%A8%E6%BC%94%E8%A2%AB%E7%BD%9A3%E4%B8%87%23" target="weibo">
 斗鱼部分主播涉嫌低俗表演被罚3万（热度：959338）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E8%B5%B6%E9%9B%86%E9%B8%AD%E5%AD%90%E8%A2%AB%E7%83%AD%E6%AD%BB%E8%B7%AF%E4%BA%BA%E5%87%BA%E6%89%8B%E4%B9%B0%E4%B8%8B%23" target="weibo">
-老人赶集鸭子被热死路人出手买下（热度：959052）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%A4%A7%E5%AD%A6%E6%89%8D%E6%98%AF%E5%8A%AA%E5%8A%9B%E7%9A%84%E5%BC%80%E5%A7%8B%23" target="weibo">
-原来大学才是努力的开始（热度：958792）
 </a>
 </li>
 
