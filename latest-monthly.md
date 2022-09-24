@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/24 10:34:46
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/24 11:19:29
 </p>
 </blockquote>
 <p>
@@ -2679,6 +2679,12 @@ iPhone14ProMax电池容量不增反降（热度：1588541）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BF%AB%E9%80%92%E5%91%98%E5%81%B7%E8%B5%B0%E5%8C%85%E8%A3%B9%E9%87%8C%E4%BB%B7%E5%80%BC38%E4%B8%87%E9%87%91%E6%9D%A1%23" target="weibo">
+快递员偷走包裹里价值38万金条（热度：1562223）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9A%BE%E5%90%AC%23" target="weibo">
 难听（热度：1560442）
 </a>
@@ -4259,12 +4265,6 @@ Twins不承认吴谨言的粤语是自己教的（热度：1255504）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AE%81%E4%B9%B0%E4%B8%87%E5%85%83%E6%89%8B%E6%9C%BA%E4%B8%8D%E8%8A%B14%E5%85%83%E5%85%85%E7%94%B5%23" target="weibo">
 年轻人宁买万元手机不花4元充电（热度：1192680）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BF%AB%E9%80%92%E5%91%98%E5%81%B7%E8%B5%B0%E5%8C%85%E8%A3%B9%E9%87%8C%E4%BB%B7%E5%80%BC38%E4%B8%87%E9%87%91%E6%9D%A1%23" target="weibo">
-快递员偷走包裹里价值38万金条（热度：1192284）
 </a>
 </li>
 
@@ -5883,6 +5883,12 @@ BLACKPINK新歌未通过KBS审议（热度：999636）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%231%E5%B2%81%E5%AE%9D%E5%AE%9D%E5%AB%8C%E8%84%9A%E8%84%8F%E5%9C%A8%E4%BE%BF%E6%B1%A0%E5%86%85%E6%B8%85%E6%B4%97%23" target="weibo">
+1岁宝宝嫌脚脏在便池内清洗（热度：975474）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E8%B4%B5%E9%98%B3%E8%8A%B1%E6%9E%9C%E5%9B%AD19%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%9D%A0%E4%BA%A1%23" target="weibo">
 警方通报贵阳花果园19岁女孩坠亡（热度：974180）
 </a>
@@ -6005,12 +6011,6 @@ BLACKPINK新歌未通过KBS审议（热度：999636）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%A4%A7%E5%AD%A6%E6%89%8D%E6%98%AF%E5%8A%AA%E5%8A%9B%E7%9A%84%E5%BC%80%E5%A7%8B%23" target="weibo">
 原来大学才是努力的开始（热度：958792）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23LWX%E8%A2%ABLBL%E7%A6%81%E8%B5%9B%23" target="weibo">
-LWX被LBL禁赛（热度：958600）
 </a>
 </li>
 

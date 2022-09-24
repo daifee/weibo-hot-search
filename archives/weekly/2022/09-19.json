@@ -1,6 +1,6 @@
 {
   "startTime": 1663518759246,
-  "endTime": 1663986886730,
+  "endTime": 1663989569254,
   "band_list": [
     {
       "raw_hot": 11177915,
@@ -635,6 +635,14 @@
       "category": "社会议题,教育"
     },
     {
+      "raw_hot": 1562223,
+      "num": 1562223,
+      "word": "快递员偷走包裹里价值38万金条",
+      "onboard_time": 1663984405,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1560265,
       "num": 1560265,
       "word": "老师目睹学生车祸后在原地站岗16年",
@@ -976,14 +984,6 @@
       "word": "湖北一派出所副所长遭拒捕牺牲",
       "onboard_time": 1663551687,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1192284,
-      "num": 1192284,
-      "word": "快递员偷走包裹里价值38万金条",
-      "onboard_time": 1663984405,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -1465,6 +1465,14 @@
       "onboard_time": 1663899384,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 975474,
+      "num": 299725,
+      "word": "1岁宝宝嫌脚脏在便池内清洗",
+      "onboard_time": 1663987346,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 973753,
@@ -2331,6 +2339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 631008,
+      "num": 631008,
+      "word": "你是我的荣耀",
+      "onboard_time": 1663988667,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 629437,
       "num": 547839,
       "word": "安乐传",
@@ -2641,6 +2657,14 @@
       "onboard_time": 1663888041,
       "rank": 16,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 576720,
+      "num": 576720,
+      "word": "你好星期六",
+      "onboard_time": 1663985966,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 573046,
@@ -3115,6 +3139,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 494740,
+      "num": 412267,
+      "word": "刘也一不小心踏进京剧圈",
+      "onboard_time": 1663986085,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 494509,
       "num": 494509,
       "word": "林一公主抱刘浩存路透",
@@ -3153,6 +3185,14 @@
       "onboard_time": 1663577547,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 485576,
+      "num": 485576,
+      "word": "父亲回应掏万元给女儿全班换桌椅",
+      "onboard_time": 1663986806,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 483694,
@@ -3691,6 +3731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 418296,
+      "num": 299645,
+      "word": "两个人的小森林排播调整",
+      "onboard_time": 1663986864,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 418189,
       "num": 418189,
       "word": "杨幂晒贝雷帽随拍",
@@ -3737,14 +3785,6 @@
       "onboard_time": 1663689988,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 412267,
-      "num": 412267,
-      "word": "刘也一不小心踏进京剧圈",
-      "onboard_time": 1663986085,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 411266,
@@ -3985,14 +4025,6 @@
       "onboard_time": 1663681476,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 390201,
-      "num": 357544,
-      "word": "你好星期六",
-      "onboard_time": 1663985966,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 388683,
@@ -4891,6 +4923,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 316917,
+      "num": 316917,
+      "word": "新兵入伍被村民裹满大红花",
+      "onboard_time": 1663984225,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 316757,
       "num": 316757,
       "word": "北京大风有树被吹倒",
@@ -5201,6 +5241,14 @@
       "onboard_time": 1663818692,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 299641,
+      "num": 299641,
+      "word": "小学生不愿上学被保安架进学校",
+      "onboard_time": 1663986925,
+      "rank": 14,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 298430,
@@ -5529,14 +5577,6 @@
       "onboard_time": 1663645647,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 280985,
-      "num": 280985,
-      "word": "新兵入伍被村民裹满大红花",
-      "onboard_time": 1663984225,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 280852,
@@ -6129,6 +6169,14 @@
       "onboard_time": 1663945231,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 248830,
+      "num": 248830,
+      "word": "计算机二级",
+      "onboard_time": 1663988547,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 248721,
@@ -6777,14 +6825,6 @@
       "onboard_time": 1663806026,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 220428,
-      "num": 66360,
-      "word": "两个人的小森林排播调整",
-      "onboard_time": 1663986864,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 220364,
@@ -8163,6 +8203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168960,
+      "num": 168960,
+      "word": "河南增7例本土无症状",
+      "onboard_time": 1663986202,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168724,
       "num": 168724,
       "word": "吴青峰新歌催眠大师",
@@ -8625,6 +8673,14 @@
       "onboard_time": 1663837287,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148010,
+      "num": 148010,
+      "word": "梅西禁区外写意吊射",
+      "onboard_time": 1663986806,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 148004,
@@ -9203,14 +9259,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 128806,
-      "num": 128806,
-      "word": "河南增7例本土无症状",
-      "onboard_time": 1663986202,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 128677,
       "num": 128677,
       "word": "世界上最神秘的鸟原来长这样",
@@ -9432,6 +9480,14 @@
       "word": "电视剧胡同首支预告",
       "onboard_time": 1663901312,
       "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 119681,
+      "num": 119681,
+      "word": "虞书欣小森林雨过天晴MV",
+      "onboard_time": 1663988005,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -10180,7 +10236,7 @@
     },
     {
       "raw_hot": 83189,
-      "num": 1400922,
+      "num": 1570556,
       "word": "中国航母这10年的那些名场面",
       "onboard_time": 1663939107,
       "rank": 2,
@@ -10409,22 +10465,6 @@
       "onboard_time": 1663928246,
       "rank": 48,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 66451,
-      "num": 66451,
-      "word": "父亲回应掏万元给女儿全班换桌椅",
-      "onboard_time": 1663986806,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66099,
-      "num": 66099,
-      "word": "梅西禁区外写意吊射",
-      "onboard_time": 1663986806,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 64857,

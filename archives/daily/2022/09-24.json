@@ -1,6 +1,6 @@
 {
   "startTime": 1663951005323,
-  "endTime": 1663986886730,
+  "endTime": 1663989569254,
   "band_list": [
     {
       "raw_hot": 2765615,
@@ -27,6 +27,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1562223,
+      "num": 1562223,
+      "word": "快递员偷走包裹里价值38万金条",
+      "onboard_time": 1663984405,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1388226,
       "num": 1085201,
       "word": "为什么越来越难恋爱了",
@@ -40,14 +48,6 @@
       "word": "吴尊友研判今冬新冠疫情走势",
       "onboard_time": 1663983506,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1192284,
-      "num": 1192284,
-      "word": "快递员偷走包裹里价值38万金条",
-      "onboard_time": 1663984405,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -67,12 +67,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 975474,
+      "num": 299725,
+      "word": "1岁宝宝嫌脚脏在便池内清洗",
+      "onboard_time": 1663987346,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 790715,
       "num": 790715,
       "word": "官方回应网红称1800万包下高邮湖",
       "onboard_time": 1663946430,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 631008,
+      "num": 631008,
+      "word": "你是我的荣耀",
+      "onboard_time": 1663988667,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 576720,
+      "num": 576720,
+      "word": "你好星期六",
+      "onboard_time": 1663985966,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 545764,
@@ -97,6 +121,22 @@
       "onboard_time": 1663944149,
       "rank": 20,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 494740,
+      "num": 412267,
+      "word": "刘也一不小心踏进京剧圈",
+      "onboard_time": 1663986085,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 485576,
+      "num": 485576,
+      "word": "父亲回应掏万元给女儿全班换桌椅",
+      "onboard_time": 1663986806,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 460773,
@@ -131,11 +171,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 412267,
-      "num": 412267,
-      "word": "刘也一不小心踏进京剧圈",
-      "onboard_time": 1663986085,
-      "rank": 7,
+      "raw_hot": 418296,
+      "num": 299645,
+      "word": "两个人的小森林排播调整",
+      "onboard_time": 1663986864,
+      "rank": 47,
       "category": "影视"
     },
     {
@@ -145,14 +185,6 @@
       "onboard_time": 1663981045,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 390201,
-      "num": 357544,
-      "word": "你好星期六",
-      "onboard_time": 1663985966,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 387473,
@@ -195,6 +227,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 316917,
+      "num": 316917,
+      "word": "新兵入伍被村民裹满大红花",
+      "onboard_time": 1663984225,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299641,
+      "num": 299641,
+      "word": "小学生不愿上学被保安架进学校",
+      "onboard_time": 1663986925,
+      "rank": 14,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 296745,
       "num": 296745,
       "word": "骄阳伴我",
@@ -227,14 +275,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 280985,
-      "num": 280985,
-      "word": "新兵入伍被村民裹满大红花",
-      "onboard_time": 1663984225,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 280852,
       "num": 280852,
       "word": "考研为了上岸有多自律",
@@ -249,6 +289,14 @@
       "onboard_time": 1663930046,
       "rank": 21,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 248830,
+      "num": 248830,
+      "word": "计算机二级",
+      "onboard_time": 1663988547,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 245868,
@@ -281,14 +329,6 @@
       "onboard_time": 1663947629,
       "rank": 16,
       "category": "作品衍生,情感"
-    },
-    {
-      "raw_hot": 220428,
-      "num": 66360,
-      "word": "两个人的小森林排播调整",
-      "onboard_time": 1663986864,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 217967,
@@ -347,6 +387,14 @@
       "category": "游戏,国外要闻"
     },
     {
+      "raw_hot": 168960,
+      "num": 168960,
+      "word": "河南增7例本土无症状",
+      "onboard_time": 1663986202,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167716,
       "num": 167716,
       "word": "一年一度喜剧大赛真的在演我",
@@ -377,6 +425,14 @@
       "onboard_time": 1663931547,
       "rank": 33,
       "category": "网红,时尚"
+    },
+    {
+      "raw_hot": 148010,
+      "num": 148010,
+      "word": "梅西禁区外写意吊射",
+      "onboard_time": 1663986806,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 146555,
@@ -435,14 +491,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 128806,
-      "num": 128806,
-      "word": "河南增7例本土无症状",
-      "onboard_time": 1663986202,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125270,
       "num": 125270,
       "word": "理想one停产后保障措施公布",
@@ -455,6 +503,14 @@
       "num": 121193,
       "word": "万茜万里归途哭戏",
       "onboard_time": 1663985904,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 119681,
+      "num": 119681,
+      "word": "虞书欣小森林雨过天晴MV",
+      "onboard_time": 1663988005,
       "rank": 32,
       "category": "影视"
     },
@@ -675,22 +731,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 66451,
-      "num": 66451,
-      "word": "父亲回应掏万元给女儿全班换桌椅",
-      "onboard_time": 1663986806,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66099,
-      "num": 66099,
-      "word": "梅西禁区外写意吊射",
-      "onboard_time": 1663986806,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 64233,
       "num": 64233,
       "word": "没想到猫也有厌世脸",
@@ -732,7 +772,7 @@
     },
     {
       "raw_hot": 53106,
-      "num": 1400922,
+      "num": 1570556,
       "word": "中国航母这10年的那些名场面",
       "onboard_time": 1663939107,
       "rank": 2,
