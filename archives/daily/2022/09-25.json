@@ -1,6 +1,6 @@
 {
   "startTime": 1664037122905,
-  "endTime": 1664040344571,
+  "endTime": 1664041350054,
   "band_list": [
     {
       "raw_hot": 2133060,
@@ -35,8 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 466632,
-      "num": 466632,
+      "raw_hot": 494206,
+      "num": 494206,
       "word": "河南大学也曾名为中山大学",
       "onboard_time": 1664036782,
       "rank": 39,
@@ -363,6 +363,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 65905,
+      "num": 65905,
+      "word": "学校回应女学生月考6科霸榜",
+      "onboard_time": 1664040258,
+      "rank": 49,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 65570,
       "num": 65570,
       "word": "北航举行校园集体婚礼",
@@ -417,14 +425,6 @@
       "onboard_time": 1664039958,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 24279,
-      "num": 24279,
-      "word": "学校回应女学生月考6科霸榜",
-      "onboard_time": 1664040258,
-      "rank": 49,
-      "category": "教育,社会新闻"
     }
   ],
   "hotgov_list": [
