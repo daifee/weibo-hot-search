@@ -1,0 +1,410 @@
+{
+  "runTime": 1664062975629,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1356315,
+        "num": 1356315,
+        "word": "教育部回应降低英语教学比重建议",
+        "onboard_time": 1664030787,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 512475,
+        "num": 512475,
+        "word": "日本将用网红宣传福岛食品",
+        "onboard_time": 1664035944,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42291,
+        "num": 376797,
+        "word": "太空视角看丰收有多美",
+        "onboard_time": 1664013324,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 517108,
+        "num": 371942,
+        "word": "大妈带活鱼坐高铁被阻当场摔死鱼",
+        "onboard_time": 1664029529,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361264,
+        "num": 361264,
+        "word": "俩零零后造假币获利1.4万被判刑10年",
+        "onboard_time": 1664021248,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291553,
+        "num": 291553,
+        "word": "大妈连续10月小区吹乐器扰民",
+        "onboard_time": 1664051111,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277144,
+        "num": 277144,
+        "word": "学校回应女学生月考6科霸榜",
+        "onboard_time": 1664040258,
+        "rank": 6,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 262063,
+        "num": 262063,
+        "word": "河南大学也曾名为中山大学",
+        "onboard_time": 1664036782,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 249508,
+        "num": 249508,
+        "word": "这些不良习惯容易长白头发",
+        "onboard_time": 1664014706,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219360,
+        "num": 219360,
+        "word": "长相思",
+        "onboard_time": 1664061738,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206471,
+        "num": 206471,
+        "word": "乾隆有个旅行箱可随时变成办公桌",
+        "onboard_time": 1664026648,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198248,
+        "num": 198248,
+        "word": "美国里根号航母战斗群抵韩",
+        "onboard_time": 1664050871,
+        "rank": 11,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 194085,
+        "num": 194085,
+        "word": "5岁脑瘫男孩为上学苦练走路多年",
+        "onboard_time": 1664056692,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 192271,
+        "num": 192271,
+        "word": "真正披荆斩棘的是齐思钧吧",
+        "onboard_time": 1664030187,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186645,
+        "num": 186645,
+        "word": "你有多年后才释怀的事吗",
+        "onboard_time": 1664024248,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186031,
+        "num": 186031,
+        "word": "你好星期六",
+        "onboard_time": 1664061617,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166389,
+        "num": 166389,
+        "word": "教育局回应家长花万元给全班换桌椅",
+        "onboard_time": 1664061617,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 160174,
+        "num": 160174,
+        "word": "日本政府买入大笔日元以提振汇率",
+        "onboard_time": 1664055851,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 151607,
+        "num": 151607,
+        "word": "警方回应工人往黄豆酱里大小便",
+        "onboard_time": 1664009123,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146855,
+        "num": 146855,
+        "word": "吃火锅时的高频词汇",
+        "onboard_time": 1664060776,
+        "rank": 19,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 117705,
+        "num": 117705,
+        "word": "90后女孩入职国企成37名男同事团宠",
+        "onboard_time": 1664018729,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116744,
+        "num": 116744,
+        "word": "51岁女子考入大学",
+        "onboard_time": 1664056271,
+        "rank": 21,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 112413,
+        "num": 112413,
+        "word": "地铁西安站将于2022年9月25日开通运营",
+        "onboard_time": 1664051170,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109625,
+        "num": 109625,
+        "word": "任嘉伦最爱请君雪中落泪名场面",
+        "onboard_time": 1664032947,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104250,
+        "num": 104250,
+        "word": "5岁男童挂17楼阳台邻居奋力拽回",
+        "onboard_time": 1664034626,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102243,
+        "num": 102243,
+        "word": "上网必须知道的名场面",
+        "onboard_time": 1664028506,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90421,
+        "num": 90421,
+        "word": "妻子患癌后丈夫拒付医药费",
+        "onboard_time": 1664013507,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88516,
+        "num": 88516,
+        "word": "江南百景图绍兴府",
+        "onboard_time": 1664029107,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 83348,
+        "num": 83348,
+        "word": "王鹤棣说自己是猴系帅哥",
+        "onboard_time": 1664028448,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82002,
+        "num": 82002,
+        "word": "杨迪说刘雨昕到哪儿都要买特产",
+        "onboard_time": 1664034264,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80699,
+        "num": 80699,
+        "word": "原来600多年前的总裁是这样的",
+        "onboard_time": 1664023288,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79436,
+        "num": 79436,
+        "word": "这是公主猫猫吧",
+        "onboard_time": 1664032829,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79343,
+        "num": 79343,
+        "word": "周围的人突然都结婚了",
+        "onboard_time": 1664010505,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 79240,
+        "num": 79240,
+        "word": "中学教室后排设蹲班制老师引热议",
+        "onboard_time": 1664042654,
+        "rank": 33,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 75075,
+        "num": 75075,
+        "word": "1年级男孩4分钟洗漱完独自晨读",
+        "onboard_time": 1664018190,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70005,
+        "num": 70005,
+        "word": "宋茜长文告别亲爱的生命",
+        "onboard_time": 1664030668,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 70004,
+        "num": 70004,
+        "word": "成毅跟着唱沉香",
+        "onboard_time": 1664033666,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68707,
+        "num": 68707,
+        "word": "趵突泉3只胖锦鲤组团出游",
+        "onboard_time": 1664015369,
+        "rank": 37,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 68254,
+        "num": 68254,
+        "word": "植物肉企业股价暴跌76%",
+        "onboard_time": 1664047631,
+        "rank": 38,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 67711,
+        "num": 67711,
+        "word": "85花古装剧原声率",
+        "onboard_time": 1664036482,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 63987,
+        "num": 63987,
+        "word": "男子被黑熊袭击致26处重伤",
+        "onboard_time": 1664023407,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61963,
+        "num": 61963,
+        "word": "国科大博士先天残疾C位跳街舞",
+        "onboard_time": 1664055370,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60698,
+        "num": 60698,
+        "word": "背着6000片卫生巾上大山",
+        "onboard_time": 1664009844,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56061,
+        "num": 56061,
+        "word": "王一博街舞5打篮球",
+        "onboard_time": 1664024369,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54491,
+        "num": 54491,
+        "word": "永乐大典到底有多大",
+        "onboard_time": 1664019385,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48132,
+        "num": 48132,
+        "word": "周深 可爱",
+        "onboard_time": 1664027667,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44461,
+        "num": 44461,
+        "word": "全国仅有5株5000岁古树",
+        "onboard_time": 1664007627,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42253,
+        "num": 42253,
+        "word": "泽连斯基对以色列未向基辅提供武器感到震惊",
+        "onboard_time": 1664013925,
+        "rank": 47,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 36061,
+        "num": 36061,
+        "word": "鹈鹕提前续约麦科勒姆",
+        "onboard_time": 1664062399,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31601,
+        "num": 31601,
+        "word": "鱼食莲花瞬间太治愈了",
+        "onboard_time": 1664062880,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂今天的中国须读懂中国共产党#"
+    }
+  }
+}

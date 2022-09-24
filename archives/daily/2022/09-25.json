@@ -1,6 +1,6 @@
 {
   "startTime": 1664037122905,
-  "endTime": 1664061891530,
+  "endTime": 1664062975629,
   "band_list": [
     {
       "raw_hot": 2133060,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 361264,
+      "num": 361264,
+      "word": "俩零零后造假币获利1.4万被判刑10年",
+      "onboard_time": 1664021248,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 299009,
       "num": 299009,
       "word": "你有多年后才释怀的事吗",
@@ -75,12 +83,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 274546,
-      "num": 274546,
-      "word": "俩零零后造假币获利1.4万被判刑10年",
-      "onboard_time": 1664021248,
-      "rank": 19,
+      "raw_hot": 291553,
+      "num": 291553,
+      "word": "大妈连续10月小区吹乐器扰民",
+      "onboard_time": 1664051111,
+      "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277144,
+      "num": 277144,
+      "word": "学校回应女学生月考6科霸榜",
+      "onboard_time": 1664040258,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 274537,
@@ -99,6 +115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 249508,
+      "num": 249508,
+      "word": "这些不良习惯容易长白头发",
+      "onboard_time": 1664014706,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245158,
       "num": 245158,
       "word": "周围的人突然都结婚了",
@@ -112,14 +136,6 @@
       "word": "5岁男童挂17楼阳台邻居奋力拽回",
       "onboard_time": 1664034626,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 237558,
-      "num": 237558,
-      "word": "大妈连续10月小区吹乐器扰民",
-      "onboard_time": 1664051111,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -147,12 +163,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 222312,
-      "num": 222312,
-      "word": "学校回应女学生月考6科霸榜",
-      "onboard_time": 1664040258,
-      "rank": 49,
-      "category": "教育,社会新闻"
+      "raw_hot": 219360,
+      "num": 219360,
+      "word": "长相思",
+      "onboard_time": 1664061738,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 211556,
@@ -163,20 +179,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 202157,
-      "num": 202157,
-      "word": "这些不良习惯容易长白头发",
-      "onboard_time": 1664014706,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 206471,
+      "num": 206471,
+      "word": "乾隆有个旅行箱可随时变成办公桌",
+      "onboard_time": 1664026648,
+      "rank": 25,
+      "category": "综艺"
     },
     {
-      "raw_hot": 185422,
-      "num": 185422,
+      "raw_hot": 198248,
+      "num": 198248,
+      "word": "美国里根号航母战斗群抵韩",
+      "onboard_time": 1664050871,
+      "rank": 46,
+      "category": "军事,国外要闻"
+    },
+    {
+      "raw_hot": 194085,
+      "num": 194085,
       "word": "5岁脑瘫男孩为上学苦练走路多年",
       "onboard_time": 1664056692,
       "rank": 47,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 186031,
+      "num": 186031,
+      "word": "你好星期六",
+      "onboard_time": 1664061617,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 177712,
@@ -203,6 +235,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 166389,
+      "num": 166389,
+      "word": "教育局回应家长花万元给全班换桌椅",
+      "onboard_time": 1664061617,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 156804,
       "num": 156804,
       "word": "1年级男孩4分钟洗漱完独自晨读",
@@ -211,20 +251,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145302,
-      "num": 145302,
-      "word": "美国里根号航母战斗群抵韩",
-      "onboard_time": 1664050871,
-      "rank": 46,
-      "category": "军事,国外要闻"
-    },
-    {
-      "raw_hot": 136943,
-      "num": 136943,
-      "word": "乾隆有个旅行箱可随时变成办公桌",
-      "onboard_time": 1664026648,
+      "raw_hot": 146855,
+      "num": 146855,
+      "word": "吃火锅时的高频词汇",
+      "onboard_time": 1664060776,
       "rank": 25,
-      "category": "综艺"
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 134491,
@@ -307,20 +339,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112413,
+      "num": 112413,
+      "word": "地铁西安站将于2022年9月25日开通运营",
+      "onboard_time": 1664051170,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111899,
       "num": 111899,
       "word": "情侣吵架时最想听到的话",
       "onboard_time": 1664012188,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 106600,
-      "num": 106600,
-      "word": "你好星期六",
-      "onboard_time": 1664061617,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 105735,
@@ -363,12 +395,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 80848,
-      "num": 80848,
-      "word": "地铁西安站将于2022年9月25日开通运营",
-      "onboard_time": 1664051170,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 80699,
+      "num": 80699,
+      "word": "原来600多年前的总裁是这样的",
+      "onboard_time": 1664023288,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 79240,
+      "num": 79240,
+      "word": "中学教室后排设蹲班制老师引热议",
+      "onboard_time": 1664042654,
+      "rank": 39,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 77106,
@@ -395,14 +435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 71382,
-      "num": 71382,
-      "word": "吃火锅时的高频词汇",
-      "onboard_time": 1664060776,
-      "rank": 25,
-      "category": "美食,幽默"
-    },
-    {
       "raw_hot": 68720,
       "num": 68720,
       "word": "泽连斯基对以色列未向基辅提供武器感到震惊",
@@ -411,28 +443,28 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 68707,
+      "num": 68707,
+      "word": "趵突泉3只胖锦鲤组团出游",
+      "onboard_time": 1664015369,
+      "rank": 45,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 68254,
+      "num": 68254,
+      "word": "植物肉企业股价暴跌76%",
+      "onboard_time": 1664047631,
+      "rank": 46,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 68199,
       "num": 68199,
       "word": "木星将与地球进行59年来最亲密接触",
       "onboard_time": 1664019509,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 67085,
-      "num": 67085,
-      "word": "原来600多年前的总裁是这样的",
-      "onboard_time": 1664023288,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 66913,
-      "num": 66913,
-      "word": "趵突泉3只胖锦鲤组团出游",
-      "onboard_time": 1664015369,
-      "rank": 45,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 65570,
@@ -459,12 +491,12 @@
       "category": "幽默,美食"
     },
     {
-      "raw_hot": 61109,
-      "num": 61109,
-      "word": "中学教室后排设蹲班制老师引热议",
-      "onboard_time": 1664042654,
-      "rank": 39,
-      "category": "教育,社会新闻"
+      "raw_hot": 61963,
+      "num": 61963,
+      "word": "国科大博士先天残疾C位跳街舞",
+      "onboard_time": 1664055370,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 60563,
@@ -475,28 +507,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 57033,
-      "num": 57033,
-      "word": "植物肉企业股价暴跌76%",
-      "onboard_time": 1664047631,
-      "rank": 46,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 49699,
       "num": 49699,
       "word": "河南大学110岁了",
       "onboard_time": 1664038339,
       "rank": 46,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 46883,
-      "num": 46883,
-      "word": "国科大博士先天残疾C位跳街舞",
-      "onboard_time": 1664055370,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 44952,
@@ -515,12 +531,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 38618,
-      "num": 38618,
-      "word": "长相思",
-      "onboard_time": 1664061738,
-      "rank": 46,
-      "category": "影视"
+      "raw_hot": 36061,
+      "num": 36061,
+      "word": "鹈鹕提前续约麦科勒姆",
+      "onboard_time": 1664062399,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 31601,
+      "num": 31601,
+      "word": "鱼食莲花瞬间太治愈了",
+      "onboard_time": 1664062880,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 28239,
@@ -529,14 +553,6 @@
       "onboard_time": 1664039958,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 28142,
-      "num": 28142,
-      "word": "教育局回应家长花万元给全班换桌椅",
-      "onboard_time": 1664061617,
-      "rank": 48,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 23528,
