@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664126759155,
+  "endTime": 1664127782145,
   "band_list": [
     {
       "raw_hot": 2585281,
@@ -323,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 75774,
+      "num": 69237,
+      "word": "三艘航母达到人民海军作战最低需求",
+      "onboard_time": 1664126177,
+      "rank": 45,
+      "category": "军事"
+    },
+    {
       "raw_hot": 74275,
       "num": 74275,
       "word": "男子投喂流浪狗引来祖孙三代",
@@ -337,6 +345,14 @@
       "onboard_time": 1664104466,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71875,
+      "num": 71875,
+      "word": "特鲁多取消出席安倍国葬",
+      "onboard_time": 1664125639,
+      "rank": 39,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 69349,
@@ -419,14 +435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 41398,
-      "num": 41398,
-      "word": "特鲁多取消出席安倍国葬",
-      "onboard_time": 1664125639,
-      "rank": 39,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 38496,
       "num": 38496,
       "word": "张杰银河方舟音乐节",
@@ -435,12 +443,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 37164,
-      "num": 37164,
-      "word": "三艘航母达到人民海军作战最低需求",
-      "onboard_time": 1664126177,
-      "rank": 45,
-      "category": "军事"
+      "raw_hot": 23366,
+      "num": 23366,
+      "word": "民警检查遇一车5人就司机没驾驶证",
+      "onboard_time": 1664127256,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 6874,

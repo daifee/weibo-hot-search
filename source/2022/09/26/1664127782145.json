@@ -1,0 +1,410 @@
+{
+  "runTime": 1664127782145,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1022522,
+        "num": 1022522,
+        "word": "不要和没可能的人频繁聊天",
+        "onboard_time": 1664107585,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 577244,
+        "num": 577244,
+        "word": "广东省回应禁止销售槟榔建议",
+        "onboard_time": 1664121805,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2226,
+        "num": 459579,
+        "word": "太空视角看丰收有多美",
+        "onboard_time": 1664013324,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349932,
+        "num": 349932,
+        "word": "丈夫成植物人妻子起诉离婚获准",
+        "onboard_time": 1664122524,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218097,
+        "num": 218097,
+        "word": "漂亮女子突然体重暴增变丑查出脑瘤",
+        "onboard_time": 1664114371,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206894,
+        "num": 206894,
+        "word": "电视剧胡同开播收视",
+        "onboard_time": 1664123302,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196148,
+        "num": 196148,
+        "word": "中国水果第一大省有多强",
+        "onboard_time": 1664108967,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178588,
+        "num": 178588,
+        "word": "多对情侣迪士尼流水线式接吻拍照",
+        "onboard_time": 1664117552,
+        "rank": 7,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 144057,
+        "num": 144057,
+        "word": "90后小伙破产欠50万卖花生挣百万",
+        "onboard_time": 1664112329,
+        "rank": 8,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 112685,
+        "num": 112685,
+        "word": "男生985毕业4年重新高考学中医",
+        "onboard_time": 1664112986,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 111534,
+        "num": 111534,
+        "word": "这就是宠物界的三甲医院吧",
+        "onboard_time": 1664122224,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106147,
+        "num": 106147,
+        "word": "大考荣梓杉被母亲打耳光",
+        "onboard_time": 1664126597,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 101364,
+        "num": 101364,
+        "word": "当结了场健康的婚才知道的事",
+        "onboard_time": 1664106505,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92865,
+        "num": 92865,
+        "word": "张凌赫狐妖小红娘胡尾生路透",
+        "onboard_time": 1664114069,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 83330,
+        "num": 83330,
+        "word": "小说里走出来的男主",
+        "onboard_time": 1664100984,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 77764,
+        "num": 77764,
+        "word": "再起不来就不礼貌了",
+        "onboard_time": 1664115393,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76230,
+        "num": 76230,
+        "word": "Fly回城是AG",
+        "onboard_time": 1664123661,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 71875,
+        "num": 71875,
+        "word": "特鲁多取消出席安倍国葬",
+        "onboard_time": 1664125639,
+        "rank": 17,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 69408,
+        "num": 69408,
+        "word": "小学开性教育课男生上台学用卫生巾",
+        "onboard_time": 1664093966,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 69250,
+        "num": 69250,
+        "word": "绘旅人诸界归一",
+        "onboard_time": 1664126358,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 75774,
+        "num": 69237,
+        "word": "三艘航母达到人民海军作战最低需求",
+        "onboard_time": 1664126177,
+        "rank": 20,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 69041,
+        "num": 69041,
+        "word": "年轻人算是把装修玩明白了",
+        "onboard_time": 1664109325,
+        "rank": 21,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 59536,
+        "num": 59536,
+        "word": "刷手机会让记忆力下降",
+        "onboard_time": 1664107646,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56815,
+        "num": 56815,
+        "word": "李沁说求婚只有0次和无数次",
+        "onboard_time": 1664105186,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 55345,
+        "num": 55345,
+        "word": "这外语水平比我厉害多了",
+        "onboard_time": 1664116773,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 54940,
+        "num": 54940,
+        "word": "王鹤棣新闻当事人专访",
+        "onboard_time": 1664115031,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 54507,
+        "num": 54507,
+        "word": "王俊凯说9月30日一起回家",
+        "onboard_time": 1664116473,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 52569,
+        "num": 52569,
+        "word": "杨颖白鹿奔跑吧路透生图",
+        "onboard_time": 1664109626,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51001,
+        "num": 51001,
+        "word": "周传雄陆虎马嘉祺唱往事随风",
+        "onboard_time": 1664119526,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50282,
+        "num": 50282,
+        "word": "为什么感情里就应该作一点",
+        "onboard_time": 1664115752,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 45665,
+        "num": 45665,
+        "word": "蔓越莓为何在水里收",
+        "onboard_time": 1664118210,
+        "rank": 30,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 43449,
+        "num": 43449,
+        "word": "男子投喂流浪狗引来祖孙三代",
+        "onboard_time": 1664105186,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41846,
+        "num": 41846,
+        "word": "2022香港小姐决赛",
+        "onboard_time": 1664115869,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41637,
+        "num": 41637,
+        "word": "iPadPro2022或支持无线充电",
+        "onboard_time": 1664101165,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 38639,
+        "num": 38639,
+        "word": "真的要好好热爱生活啊",
+        "onboard_time": 1664117370,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 37411,
+        "num": 37411,
+        "word": "我们的歌",
+        "onboard_time": 1664104164,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36936,
+        "num": 36936,
+        "word": "武汉麦德龙开业停车场一位难求",
+        "onboard_time": 1664118752,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35286,
+        "num": 35286,
+        "word": "虞书欣新剧暗恋相当于明恋",
+        "onboard_time": 1664113169,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33354,
+        "num": 33354,
+        "word": "女子骨折借用外甥女扭扭车代步",
+        "onboard_time": 1664099246,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32147,
+        "num": 32147,
+        "word": "张杰银河方舟音乐节",
+        "onboard_time": 1664120727,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 31681,
+        "num": 31681,
+        "word": "上海黄浦江畔的鳄鱼抓到了",
+        "onboard_time": 1664110767,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31208,
+        "num": 31208,
+        "word": "请君的虐都被小沈阳治好了",
+        "onboard_time": 1664115573,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31187,
+        "num": 31187,
+        "word": "教育局通报教师言语骚扰女学生",
+        "onboard_time": 1664101705,
+        "rank": 42,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 30814,
+        "num": 30814,
+        "word": "虞美人庄羽跳过告白直接同居",
+        "onboard_time": 1664110646,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 30193,
+        "num": 30193,
+        "word": "波兰发生多起涂黑石头冒充煤炭事件",
+        "onboard_time": 1664104466,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28047,
+        "num": 28047,
+        "word": "上海消费券",
+        "onboard_time": 1664107224,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24289,
+        "num": 24289,
+        "word": "得知邻桌庆生男子专门买玩偶相赠",
+        "onboard_time": 1664106324,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23902,
+        "num": 23902,
+        "word": "威马年亏82亿创始人年薪12亿",
+        "onboard_time": 1664099966,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 23366,
+        "num": 23366,
+        "word": "民警检查遇一车5人就司机没驾驶证",
+        "onboard_time": 1664127256,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20322,
+        "num": 20322,
+        "word": "暖阳镜天下无双",
+        "onboard_time": 1664114912,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记看中国#"
+    }
+  }
+}
