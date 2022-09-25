@@ -1,6 +1,6 @@
 {
   "startTime": 1664037122905,
-  "endTime": 1664111211052,
+  "endTime": 1664113082974,
   "band_list": [
     {
       "raw_hot": 3580765,
@@ -33,6 +33,14 @@
       "onboard_time": 1664072907,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2531238,
+      "num": 2531238,
+      "word": "中国水果第一大省有多强",
+      "onboard_time": 1664108967,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2133060,
@@ -99,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1405003,
+      "num": 1405003,
+      "word": "不要和没可能的人频繁聊天",
+      "onboard_time": 1664107585,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1323152,
       "num": 766733,
       "word": "被iPhone14收割的黄牛",
@@ -155,14 +171,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 936145,
-      "num": 936145,
-      "word": "中国水果第一大省有多强",
-      "onboard_time": 1664108967,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 913843,
       "num": 913843,
       "word": "女子骨折借用外甥女扭扭车代步",
@@ -177,14 +185,6 @@
       "onboard_time": 1664061738,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 849180,
-      "num": 849180,
-      "word": "不要和没可能的人频繁聊天",
-      "onboard_time": 1664107585,
-      "rank": 5,
-      "category": "情感"
     },
     {
       "raw_hot": 800233,
@@ -217,6 +217,14 @@
       "onboard_time": 1664030187,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 685115,
+      "num": 685115,
+      "word": "刷手机会让记忆力下降",
+      "onboard_time": 1664107646,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 663697,
@@ -299,8 +307,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 535615,
-      "num": 535615,
+      "raw_hot": 543539,
+      "num": 543539,
       "word": "当结了场健康的婚才知道的事",
       "onboard_time": 1664106505,
       "rank": 9,
@@ -499,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 389294,
+      "num": 291496,
+      "word": "马嘉祺我们的歌",
+      "onboard_time": 1664111665,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 381941,
       "num": 381941,
       "word": "杨紫晒照告别小夭小六",
@@ -553,14 +569,6 @@
       "onboard_time": 1664087725,
       "rank": 24,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 361548,
-      "num": 361548,
-      "word": "刷手机会让记忆力下降",
-      "onboard_time": 1664107646,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 361264,
@@ -665,6 +673,14 @@
       "onboard_time": 1664078906,
       "rank": 23,
       "category": "科技"
+    },
+    {
+      "raw_hot": 300889,
+      "num": 300889,
+      "word": "天安门广场国庆大花篮亮灯",
+      "onboard_time": 1664109626,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 299025,
@@ -811,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264661,
+      "num": 264661,
+      "word": "年轻人算是把装修玩明白了",
+      "onboard_time": 1664109325,
+      "rank": 37,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 263356,
       "num": 263356,
       "word": "中国女排vs阿根廷女排",
@@ -867,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248449,
+      "num": 248449,
+      "word": "上海黄浦江畔的鳄鱼抓到了",
+      "onboard_time": 1664110767,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245158,
       "num": 245158,
       "word": "周围的人突然都结婚了",
@@ -913,6 +945,14 @@
       "onboard_time": 1664009123,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228888,
+      "num": 228888,
+      "word": "中国女排二传",
+      "onboard_time": 1664111127,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 228322,
@@ -971,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216362,
+      "num": 216362,
+      "word": "虞美人庄羽跳过告白直接同居",
+      "onboard_time": 1664110646,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 214810,
       "num": 210302,
       "word": "虞书欣说庄羽吻戏好会",
@@ -1017,6 +1065,14 @@
       "onboard_time": 1664097262,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208285,
+      "num": 208285,
+      "word": "苏有朋跟ICE叫baby",
+      "onboard_time": 1664112207,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 204958,
@@ -1067,6 +1123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198513,
+      "num": 198513,
+      "word": "90后小伙破产欠50万卖花生挣百万",
+      "onboard_time": 1664112329,
+      "rank": 25,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 198248,
       "num": 198248,
       "word": "美国里根号航母战斗群抵韩",
@@ -1081,14 +1145,6 @@
       "onboard_time": 1664083886,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 198093,
-      "num": 198093,
-      "word": "年轻人算是把装修玩明白了",
-      "onboard_time": 1664109325,
-      "rank": 37,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 194085,
@@ -1153,14 +1209,6 @@
       "onboard_time": 1664075727,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 182627,
-      "num": 182627,
-      "word": "天安门广场国庆大花篮亮灯",
-      "onboard_time": 1664109626,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 179621,
@@ -1249,6 +1297,14 @@
       "onboard_time": 1664018190,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156414,
+      "num": 156414,
+      "word": "龚翔宇缺席女排世锦赛首战",
+      "onboard_time": 1664110888,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 151638,
@@ -1353,14 +1409,6 @@
       "onboard_time": 1664101343,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 131381,
-      "num": 104139,
-      "word": "虞美人庄羽跳过告白直接同居",
-      "onboard_time": 1664110646,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 130784,
@@ -1491,14 +1539,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 109393,
-      "num": 109393,
-      "word": "龚翔宇缺席女排世锦赛首战",
-      "onboard_time": 1664110888,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 108133,
       "num": 108133,
       "word": "17岁孤独症少年苦练钢琴屡获奖",
@@ -1555,14 +1595,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 93161,
-      "num": 93161,
-      "word": "上海黄浦江畔的鳄鱼抓到了",
-      "onboard_time": 1664110767,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 90764,
       "num": 90764,
       "word": "梦枕貘阴阳师动画化",
@@ -1601,14 +1633,6 @@
       "onboard_time": 1664063359,
       "rank": 41,
       "category": "科技,国内要闻"
-    },
-    {
-      "raw_hot": 85448,
-      "num": 85448,
-      "word": "中国女排二传",
-      "onboard_time": 1664111127,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 85131,
@@ -1723,6 +1747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66822,
+      "num": 66822,
+      "word": "男生985毕业4年重新高考学中医",
+      "onboard_time": 1664112986,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 65570,
       "num": 65570,
       "word": "北航举行校园集体婚礼",
@@ -1777,6 +1809,14 @@
       "onboard_time": 1664038339,
       "rank": 46,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 45941,
+      "num": 134189,
+      "word": "葫芦娃被街舞玩出花",
+      "onboard_time": 1664112507,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44952,
@@ -2018,6 +2058,9 @@
     },
     {
       "word": "#跟着总书记看中国#"
+    },
+    {
+      "word": "#二十大代表名单#"
     }
   ]
 }

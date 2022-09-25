@@ -1,0 +1,410 @@
+{
+  "runTime": 1664113082974,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2531238,
+        "num": 2531238,
+        "word": "中国水果第一大省有多强",
+        "onboard_time": 1664108967,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1405003,
+        "num": 1405003,
+        "word": "不要和没可能的人频繁聊天",
+        "onboard_time": 1664107585,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 11574,
+        "num": 902006,
+        "word": "太空视角看丰收有多美",
+        "onboard_time": 1664013324,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 840914,
+        "num": 840914,
+        "word": "小说里走出来的男主",
+        "onboard_time": 1664100984,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 685115,
+        "num": 685115,
+        "word": "刷手机会让记忆力下降",
+        "onboard_time": 1664107646,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600047,
+        "num": 600047,
+        "word": "上海消费券",
+        "onboard_time": 1664107224,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543539,
+        "num": 543539,
+        "word": "当结了场健康的婚才知道的事",
+        "onboard_time": 1664106505,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 471328,
+        "num": 471328,
+        "word": "我们的歌",
+        "onboard_time": 1664104164,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300889,
+        "num": 300889,
+        "word": "天安门广场国庆大花篮亮灯",
+        "onboard_time": 1664109626,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389294,
+        "num": 291496,
+        "word": "马嘉祺我们的歌",
+        "onboard_time": 1664111665,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 399266,
+        "num": 290635,
+        "word": "杨颖白鹿奔跑吧路透生图",
+        "onboard_time": 1664109626,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331158,
+        "num": 280645,
+        "word": "小学开性教育课男生上台学用卫生巾",
+        "onboard_time": 1664093966,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 264661,
+        "num": 264661,
+        "word": "年轻人算是把装修玩明白了",
+        "onboard_time": 1664109325,
+        "rank": 12,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 262296,
+        "num": 262296,
+        "word": "李沁说求婚只有0次和无数次",
+        "onboard_time": 1664105186,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248449,
+        "num": 248449,
+        "word": "上海黄浦江畔的鳄鱼抓到了",
+        "onboard_time": 1664110767,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241540,
+        "num": 241540,
+        "word": "孙怡现身奔跑吧录制",
+        "onboard_time": 1664109566,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 240352,
+        "num": 240352,
+        "word": "中国女排vs阿根廷女排",
+        "onboard_time": 1664109266,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237175,
+        "num": 237175,
+        "word": "iPadPro2022或支持无线充电",
+        "onboard_time": 1664101165,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 234669,
+        "num": 234669,
+        "word": "女子骨折借用外甥女扭扭车代步",
+        "onboard_time": 1664099246,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228888,
+        "num": 228888,
+        "word": "中国女排二传",
+        "onboard_time": 1664111127,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 589166,
+        "num": 224184,
+        "word": "羊了个羊创始人被母校制展牌宣传",
+        "onboard_time": 1664084485,
+        "rank": 20,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 216811,
+        "num": 216811,
+        "word": "波兰发生多起涂黑石头冒充煤炭事件",
+        "onboard_time": 1664104466,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216362,
+        "num": 216362,
+        "word": "虞美人庄羽跳过告白直接同居",
+        "onboard_time": 1664110646,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208285,
+        "num": 208285,
+        "word": "苏有朋跟ICE叫baby",
+        "onboard_time": 1664112207,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207877,
+        "num": 207877,
+        "word": "我们的歌4探班发布会",
+        "onboard_time": 1664110585,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198513,
+        "num": 198513,
+        "word": "90后小伙破产欠50万卖花生挣百万",
+        "onboard_time": 1664112329,
+        "rank": 25,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 192372,
+        "num": 192372,
+        "word": "得知邻桌庆生男子专门买玩偶相赠",
+        "onboard_time": 1664106324,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183310,
+        "num": 183310,
+        "word": "女子网上购买打折珠宝被骗14万",
+        "onboard_time": 1664104764,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173853,
+        "num": 173853,
+        "word": "章泽天怀孕随刘强东明州逛超市",
+        "onboard_time": 1664070383,
+        "rank": 28,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 170162,
+        "num": 170162,
+        "word": "男子投喂流浪狗引来祖孙三代",
+        "onboard_time": 1664105186,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187138,
+        "num": 169990,
+        "word": "杨紫长相思剧本围读vlog",
+        "onboard_time": 1664105124,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169237,
+        "num": 169237,
+        "word": "男子误花10元私房钱气到攥紧拳头",
+        "onboard_time": 1664096126,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158962,
+        "num": 158962,
+        "word": "威马年亏82亿创始人年薪12亿",
+        "onboard_time": 1664099966,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 158187,
+        "num": 158187,
+        "word": "Lisa人歌ending",
+        "onboard_time": 1664103146,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156414,
+        "num": 156414,
+        "word": "龚翔宇缺席女排世锦赛首战",
+        "onboard_time": 1664110888,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155945,
+        "num": 155945,
+        "word": "赵露思的加油好甜",
+        "onboard_time": 1664102666,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141118,
+        "num": 141118,
+        "word": "羊了个羊创始人毕业于长治学院",
+        "onboard_time": 1664090905,
+        "rank": 36,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 139845,
+        "num": 139845,
+        "word": "王一博展示自己画的战斗机",
+        "onboard_time": 1664094145,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139293,
+        "num": 139293,
+        "word": "月经期间身体在经历什么",
+        "onboard_time": 1664072907,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 45941,
+        "num": 134189,
+        "word": "葫芦娃被街舞玩出花",
+        "onboard_time": 1664112507,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129927,
+        "num": 129927,
+        "word": "大叔卖棉花糖翻车现场似盘丝洞",
+        "onboard_time": 1664104646,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126030,
+        "num": 126030,
+        "word": "教育局通报教师言语骚扰女学生",
+        "onboard_time": 1664101705,
+        "rank": 41,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 125201,
+        "num": 125201,
+        "word": "刘耀文张真源严浩翔瑜预告海报",
+        "onboard_time": 1664103204,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 113113,
+        "num": 113113,
+        "word": "刘诗诗为万里归途宣传",
+        "onboard_time": 1664104646,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 93039,
+        "num": 93039,
+        "word": "WB对战狼队",
+        "onboard_time": 1664107825,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 88894,
+        "num": 88894,
+        "word": "原来我每次挨骂是这个流程",
+        "onboard_time": 1664099603,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86515,
+        "num": 86515,
+        "word": "奶奶翻出父母84年前婚纱照颜值惊艳",
+        "onboard_time": 1664090364,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80531,
+        "num": 80531,
+        "word": "王毅在联合国大会谈两岸统一",
+        "onboard_time": 1664095763,
+        "rank": 47,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 79286,
+        "num": 79286,
+        "word": "老妇深居简出佯装遛狗贩毒",
+        "onboard_time": 1664095224,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66822,
+        "num": 66822,
+        "word": "男生985毕业4年重新高考学中医",
+        "onboard_time": 1664112986,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大代表名单#"
+    }
+  }
+}
