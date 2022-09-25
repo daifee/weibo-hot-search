@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664134522874,
+  "endTime": 1664137512873,
   "band_list": [
     {
       "raw_hot": 2585281,
@@ -419,6 +419,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 48918,
+      "num": 22985,
+      "word": "重庆一永辉超市保质期内蛋糕发霉",
+      "onboard_time": 1664134090,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48655,
       "num": 48655,
       "word": "大叔卖棉花糖翻车现场似盘丝洞",
@@ -483,6 +491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 12817,
+      "num": 12817,
+      "word": "保持感知力有多重要",
+      "onboard_time": 1664133190,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 10756,
       "num": 10756,
       "word": "仓鼠都比我自律",
@@ -499,20 +515,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 9615,
-      "num": 9615,
-      "word": "重庆一永辉超市保质期内蛋糕发霉",
-      "onboard_time": 1664134090,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8170,
-      "num": 8170,
-      "word": "保持感知力有多重要",
-      "onboard_time": 1664133190,
-      "rank": 49,
-      "category": "情感"
+      "raw_hot": 9374,
+      "num": 9374,
+      "word": "请君",
+      "onboard_time": 1664137031,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 6874,
@@ -521,6 +529,30 @@
       "onboard_time": 1664013324,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6034,
+      "num": 6034,
+      "word": "福建舰距离入列还有多远",
+      "onboard_time": 1664137031,
+      "rank": 47,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 5889,
+      "num": 5889,
+      "word": "航母三舰客劈波斩浪向海图强",
+      "onboard_time": 1664136971,
+      "rank": 48,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 5766,
+      "num": 5766,
+      "word": "期待福建舰早日上线航母style",
+      "onboard_time": 1664137031,
+      "rank": 49,
+      "category": "军事"
     }
   ],
   "hotgov_list": [
