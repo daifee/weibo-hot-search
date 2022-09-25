@@ -1,10 +1,10 @@
 {
   "startTime": 1664037122905,
-  "endTime": 1664081161741,
+  "endTime": 1664084453400,
   "band_list": [
     {
       "raw_hot": 3259105,
-      "num": 457391,
+      "num": 574110,
       "word": "章泽天怀孕随刘强东明州逛超市",
       "onboard_time": 1664070383,
       "rank": 10,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1807655,
+      "num": 1807655,
+      "word": "上海警方通报持刀故意杀人案",
+      "onboard_time": 1664082147,
+      "rank": 0,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1735562,
       "num": 1735562,
       "word": "辉瑞CEO新冠检测再次阳性",
@@ -91,6 +99,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 712959,
+      "num": 712959,
+      "word": "高速被追尾6人直接原地歇了",
+      "onboard_time": 1664079384,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 709792,
       "num": 709792,
       "word": "学校旁早餐铺粥杯印脏话",
@@ -113,6 +129,14 @@
       "onboard_time": 1664066483,
       "rank": 6,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 609664,
+      "num": 609664,
+      "word": "大叔生意失败深夜穿西装捡废品",
+      "onboard_time": 1664078945,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 593732,
@@ -140,7 +164,7 @@
     },
     {
       "raw_hot": 506883,
-      "num": 372152,
+      "num": 474751,
       "word": "容祖儿给张翰拍照演我",
       "onboard_time": 1664079506,
       "rank": 11,
@@ -177,6 +201,14 @@
       "onboard_time": 1664066243,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 417196,
+      "num": 417196,
+      "word": "李现檀健次赵又廷九月刊封面",
+      "onboard_time": 1664082025,
+      "rank": 12,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 402523,
@@ -227,12 +259,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 315780,
-      "num": 315780,
-      "word": "大叔生意失败深夜穿西装捡废品",
-      "onboard_time": 1664078945,
-      "rank": 24,
+      "raw_hot": 340077,
+      "num": 340077,
+      "word": "楼下老人控诉太吵孩子用小奶音道歉",
+      "onboard_time": 1664081666,
+      "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321396,
+      "num": 321396,
+      "word": "杨紫长相思正式杀青",
+      "onboard_time": 1664081065,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 308163,
@@ -243,12 +283,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 303985,
-      "num": 303985,
-      "word": "高速被追尾6人直接原地歇了",
-      "onboard_time": 1664079384,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 304220,
+      "num": 304220,
+      "word": "赵露思电视剧胡同海报",
+      "onboard_time": 1664081364,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 303009,
@@ -299,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 295440,
+      "num": 295440,
+      "word": "记忆力不好是有原因的",
+      "onboard_time": 1664078666,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 293850,
       "num": 293850,
       "word": "背着6000片卫生巾上大山",
@@ -339,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275105,
+      "num": 275105,
+      "word": "女子直播间抽中杯子寄来3次都碎了",
+      "onboard_time": 1664082445,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274537,
       "num": 274537,
       "word": "杨迪说刘雨昕到哪儿都要买特产",
@@ -347,12 +403,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 274306,
+      "num": 274306,
+      "word": "当王嘉尔突然跳下舞台",
+      "onboard_time": 1664081727,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 272752,
       "num": 272752,
       "word": "任嘉伦最爱请君雪中落泪名场面",
       "onboard_time": 1664032947,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 260065,
+      "num": 260065,
+      "word": "中国航天科工集团特级技师王巍去世",
+      "onboard_time": 1664081727,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249508,
@@ -419,12 +491,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 223534,
-      "num": 223534,
-      "word": "记忆力不好是有原因的",
-      "onboard_time": 1664078666,
-      "rank": 29,
-      "category": "幽默"
+      "raw_hot": 223500,
+      "num": 172777,
+      "word": "王一博为荣耀活动打call",
+      "onboard_time": 1664081967,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 216762,
@@ -433,6 +505,14 @@
       "onboard_time": 1664074044,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214810,
+      "num": 210302,
+      "word": "虞书欣说庄羽吻戏好会",
+      "onboard_time": 1664080465,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 214678,
@@ -459,14 +539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 210302,
-      "num": 210302,
-      "word": "虞书欣说庄羽吻戏好会",
-      "onboard_time": 1664080465,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 204814,
       "num": 204814,
       "word": "吃火锅时的高频词汇",
@@ -475,12 +547,28 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 199314,
+      "num": 199314,
+      "word": "市监局通报黄豆酱事件厂家检查情况",
+      "onboard_time": 1664079627,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198248,
       "num": 198248,
       "word": "美国里根号航母战斗群抵韩",
       "onboard_time": 1664050871,
       "rank": 46,
       "category": "军事,国外要闻"
+    },
+    {
+      "raw_hot": 198123,
+      "num": 168484,
+      "word": "荣耀打call团阵容豪华",
+      "onboard_time": 1664083886,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 194085,
@@ -531,6 +619,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 173558,
+      "num": 173558,
+      "word": "伊卡尔迪净身出户",
+      "onboard_time": 1664083046,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168415,
       "num": 168415,
       "word": "江南百景图绍兴府",
@@ -571,12 +667,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 148188,
-      "num": 148188,
-      "word": "市监局通报黄豆酱事件厂家检查情况",
-      "onboard_time": 1664079627,
+      "raw_hot": 148602,
+      "num": 111144,
+      "word": "张艺兴新歌懂",
+      "onboard_time": 1664082746,
       "rank": 40,
-      "category": "社会新闻"
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 141754,
+      "num": 106212,
+      "word": "KPL用跳水的方式打开向前冲",
+      "onboard_time": 1664082687,
+      "rank": 42,
+      "category": "游戏,综艺"
     },
     {
       "raw_hot": 138261,
@@ -587,19 +691,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 138172,
+      "num": 138172,
+      "word": "10岁男孩给妈妈扎针动作熟练",
+      "onboard_time": 1664077825,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137254,
       "num": 137254,
       "word": "地铁西安站将于2022年9月25日开通运营",
       "onboard_time": 1664051170,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136714,
-      "num": 136714,
-      "word": "10岁男孩给妈妈扎针动作熟练",
-      "onboard_time": 1664077825,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -731,12 +835,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 91695,
-      "num": 91695,
-      "word": "杨紫长相思正式杀青",
-      "onboard_time": 1664081065,
-      "rank": 43,
-      "category": "影视"
+      "raw_hot": 95285,
+      "num": 95285,
+      "word": "茶卡盐湖日落星起有多治愈",
+      "onboard_time": 1664081845,
+      "rank": 44,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 91188,
+      "num": 91188,
+      "word": "市民捕鼠笼抓到猪鼻老鼠报警求助",
+      "onboard_time": 1664083346,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90498,
