@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664145675057,
+  "endTime": 1664148338737,
   "band_list": [
     {
       "raw_hot": 2585281,
@@ -27,27 +27,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 632347,
-      "num": 632347,
-      "word": "中国水果第一大省有多强",
-      "onboard_time": 1664108967,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 627595,
-      "num": 627595,
+      "raw_hot": 689884,
+      "num": 689884,
       "word": "漂亮女子突然体重暴增变丑查出脑瘤",
       "onboard_time": 1664114371,
       "rank": 4,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 393049,
-      "num": 380973,
+      "raw_hot": 666446,
+      "num": 666446,
       "word": "丈夫成植物人妻子起诉离婚获准",
       "onboard_time": 1664122524,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 632347,
+      "num": 632347,
+      "word": "中国水果第一大省有多强",
+      "onboard_time": 1664108967,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -75,12 +75,36 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 313567,
+      "num": 313567,
+      "word": "辉瑞CEO已打4针自家新冠疫苗",
+      "onboard_time": 1664137811,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311616,
       "num": 311616,
       "word": "小说里走出来的男主",
       "onboard_time": 1664100984,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 294966,
+      "num": 294966,
+      "word": "四川一火锅店回收老油炒制底料",
+      "onboard_time": 1664142492,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268146,
+      "num": 268146,
+      "word": "三艘航母达到人民海军作战最低需求",
+      "onboard_time": 1664126177,
+      "rank": 45,
+      "category": "军事"
     },
     {
       "raw_hot": 263727,
@@ -91,8 +115,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 255437,
-      "num": 255437,
+      "raw_hot": 263101,
+      "num": 263101,
       "word": "电视剧胡同开播收视",
       "onboard_time": 1664123302,
       "rank": 33,
@@ -105,6 +129,14 @@
       "onboard_time": 1664116773,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 228474,
+      "num": 228474,
+      "word": "民警检查遇一车5人就司机没驾驶证",
+      "onboard_time": 1664127256,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228212,
@@ -121,6 +153,14 @@
       "onboard_time": 1664114069,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 211021,
+      "num": 211021,
+      "word": "再起不来就不礼貌了",
+      "onboard_time": 1664115393,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 202572,
@@ -155,11 +195,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 183287,
+      "num": 183287,
+      "word": "重庆一永辉超市保质期内蛋糕发霉",
+      "onboard_time": 1664134090,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182438,
       "num": 182438,
       "word": "刷手机会让记忆力下降",
       "onboard_time": 1664107646,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178388,
+      "num": 178388,
+      "word": "印度185万头牛感染牛块状皮肤病",
+      "onboard_time": 1664139312,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -171,28 +227,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171716,
+      "num": 171716,
+      "word": "特鲁多取消出席安倍国葬",
+      "onboard_time": 1664125639,
+      "rank": 39,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 165227,
+      "num": 165227,
+      "word": "小猪高速被撞卡进保险杠",
+      "onboard_time": 1664143092,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164143,
       "num": 159531,
       "word": "请君的虐都被小沈阳治好了",
       "onboard_time": 1664115573,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 161536,
-      "num": 161536,
-      "word": "再起不来就不礼貌了",
-      "onboard_time": 1664115393,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 159932,
-      "num": 159932,
-      "word": "辉瑞CEO已打4针自家新冠疫苗",
-      "onboard_time": 1664137811,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 159582,
@@ -219,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142102,
+      "num": 142102,
+      "word": "年轻人算是把装修玩明白了",
+      "onboard_time": 1664109325,
+      "rank": 26,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 138974,
       "num": 138974,
       "word": "为什么感情里就应该作一点",
@@ -235,28 +299,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 130938,
-      "num": 120442,
-      "word": "三艘航母达到人民海军作战最低需求",
-      "onboard_time": 1664126177,
-      "rank": 45,
-      "category": "军事"
-    },
-    {
-      "raw_hot": 128034,
-      "num": 128034,
-      "word": "年轻人算是把装修玩明白了",
-      "onboard_time": 1664109325,
-      "rank": 26,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 126015,
       "num": 126015,
       "word": "真的要好好热爱生活啊",
       "onboard_time": 1664117370,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 125349,
+      "num": 125349,
+      "word": "毒蛇咬伤散步男子民警将速度拉满",
+      "onboard_time": 1664137811,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125280,
@@ -275,12 +331,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 105832,
-      "num": 105832,
-      "word": "印度185万头牛感染牛块状皮肤病",
-      "onboard_time": 1664139312,
-      "rank": 43,
+      "raw_hot": 102119,
+      "num": 102119,
+      "word": "昆明2例新冠初筛阳性活动轨迹",
+      "onboard_time": 1664142131,
+      "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101265,
+      "num": 101265,
+      "word": "辽宁舰首批舰员给孩子取名多带航字",
+      "onboard_time": 1664127794,
+      "rank": 27,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 101186,
@@ -291,28 +355,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 100362,
-      "num": 100362,
-      "word": "民警检查遇一车5人就司机没驾驶证",
-      "onboard_time": 1664127256,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 99649,
       "num": 81297,
       "word": "虞美人庄羽跳过告白直接同居",
       "onboard_time": 1664110646,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 98026,
-      "num": 98026,
-      "word": "特鲁多取消出席安倍国葬",
-      "onboard_time": 1664125639,
-      "rank": 39,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 96288,
@@ -339,20 +387,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 85543,
-      "num": 85543,
-      "word": "毒蛇咬伤散步男子民警将速度拉满",
-      "onboard_time": 1664137811,
+      "raw_hot": 90968,
+      "num": 90968,
+      "word": "北京的枫叶红了",
+      "onboard_time": 1664141350,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 82342,
-      "num": 82342,
-      "word": "重庆一永辉超市保质期内蛋糕发霉",
-      "onboard_time": 1664134090,
-      "rank": 46,
-      "category": "社会新闻"
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 81599,
@@ -368,14 +408,6 @@
       "word": "上海黄浦江畔的鳄鱼抓到了",
       "onboard_time": 1664110767,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 79327,
-      "num": 79327,
-      "word": "四川一火锅店回收老油炒制底料",
-      "onboard_time": 1664142492,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -427,6 +459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 66372,
+      "num": 66372,
+      "word": "WB晋级挑杯半决赛",
+      "onboard_time": 1664147420,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 65966,
       "num": 65966,
       "word": "教育局通报教师言语骚扰女学生",
@@ -459,12 +499,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 49178,
-      "num": 49178,
-      "word": "辽宁舰首批舰员给孩子取名多带航字",
-      "onboard_time": 1664127794,
-      "rank": 27,
-      "category": "军事,社会新闻"
+      "raw_hot": 50911,
+      "num": 50911,
+      "word": "金智秀ShutDown直拍",
+      "onboard_time": 1664130853,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 48655,
@@ -491,44 +531,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 44824,
-      "num": 44824,
-      "word": "昆明2例新冠初筛阳性活动轨迹",
-      "onboard_time": 1664142131,
-      "rank": 40,
+      "raw_hot": 46580,
+      "num": 46580,
+      "word": "坐地铁公交长时间戴耳机或损伤听力",
+      "onboard_time": 1664148082,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 42931,
-      "num": 42931,
-      "word": "北京的枫叶红了",
-      "onboard_time": 1664141350,
-      "rank": 46,
-      "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 38496,
-      "num": 38496,
+      "raw_hot": 45666,
+      "num": 45666,
       "word": "张杰银河方舟音乐节",
       "onboard_time": 1664120727,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 30985,
-      "num": 30985,
-      "word": "金智秀ShutDown直拍",
-      "onboard_time": 1664130853,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 21040,
-      "num": 21040,
-      "word": "小猪高速被撞卡进保险杠",
-      "onboard_time": 1664143092,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 18058,
@@ -571,6 +587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 10514,
+      "num": 701234,
+      "word": "太空视角看丰收有多美",
+      "onboard_time": 1664013324,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 9718,
       "num": 9718,
       "word": "二十大时光",
@@ -585,14 +609,6 @@
       "onboard_time": 1664137031,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 6874,
-      "num": 701234,
-      "word": "太空视角看丰收有多美",
-      "onboard_time": 1664013324,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 6377,
