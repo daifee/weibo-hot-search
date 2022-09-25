@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1664130603502,
+  "endTime": 1664131645205,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -49243,6 +49243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29598,
+      "num": 29598,
+      "word": "辽宁舰首批舰员给孩子取名多带航字",
+      "onboard_time": 1664127794,
+      "rank": 27,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 29285,
       "num": 29285,
       "word": "视障老人寸步不离照顾阿尔茨海默病妻子",
@@ -49265,14 +49273,6 @@
       "onboard_time": 1663709171,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 28305,
-      "num": 28305,
-      "word": "辽宁舰首批舰员给孩子取名多带航字",
-      "onboard_time": 1664127794,
-      "rank": 27,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 28239,
@@ -49563,6 +49563,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 16971,
+      "num": 16971,
+      "word": "金智秀ShutDown直拍",
+      "onboard_time": 1664130853,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 16850,
       "num": 16850,
       "word": "消防员23秒救起跳河轻生女孩",
@@ -49801,6 +49809,14 @@
       "onboard_time": 1663100712,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9718,
+      "num": 9718,
+      "word": "二十大时光",
+      "onboard_time": 1664131212,
+      "rank": 49,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 9692,
