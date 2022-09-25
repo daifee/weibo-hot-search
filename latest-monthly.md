@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/25 23:24:50
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/25 23:43:12
 </p>
 </blockquote>
 <p>
@@ -839,6 +839,12 @@ iPhone14价格（热度：2774665）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%B2%E7%AA%A5%E8%86%9C%20%E4%BC%A4%E7%9C%BC%E7%9D%9B%23" target="weibo">
 防窥膜 伤眼睛（热度：2737304）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E5%92%8C%E6%B2%A1%E5%8F%AF%E8%83%BD%E7%9A%84%E4%BA%BA%E9%A2%91%E7%B9%81%E8%81%8A%E5%A4%A9%23" target="weibo">
+不要和没可能的人频繁聊天（热度：2733056）
 </a>
 </li>
 
@@ -2291,12 +2297,6 @@ Angelababy晒与狗狗合照（热度：1779691）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E6%B1%9F%E5%8F%91%E7%8E%B0%E5%A5%A5%E5%AF%86%E5%85%8B%E6%88%8E%E5%8F%98%E5%BC%82%E6%A0%AA%23" target="weibo">
 内江发现奥密克戎变异株（热度：1740108）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E5%92%8C%E6%B2%A1%E5%8F%AF%E8%83%BD%E7%9A%84%E4%BA%BA%E9%A2%91%E7%B9%81%E8%81%8A%E5%A4%A9%23" target="weibo">
-不要和没可能的人频繁聊天（热度：1739373）
 </a>
 </li>
 
