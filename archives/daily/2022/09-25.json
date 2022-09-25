@@ -1,6 +1,6 @@
 {
   "startTime": 1664037122905,
-  "endTime": 1664116698742,
+  "endTime": 1664119490928,
   "band_list": [
     {
       "raw_hot": 3580765,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1739373,
+      "num": 1739373,
+      "word": "不要和没可能的人频繁聊天",
+      "onboard_time": 1664107585,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1735562,
       "num": 1735562,
       "word": "辉瑞CEO新冠检测再次阳性",
@@ -115,14 +123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1405003,
-      "num": 1405003,
-      "word": "不要和没可能的人频繁聊天",
-      "onboard_time": 1664107585,
-      "rank": 5,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1323152,
       "num": 766733,
       "word": "被iPhone14收割的黄牛",
@@ -137,6 +137,14 @@
       "onboard_time": 1664092887,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1221039,
+      "num": 1221039,
+      "word": "漂亮女子突然体重暴增变丑查出脑瘤",
+      "onboard_time": 1664114371,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1197474,
@@ -171,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 970750,
+      "num": 970750,
+      "word": "男生985毕业4年重新高考学中医",
+      "onboard_time": 1664112986,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 954698,
       "num": 421500,
       "word": "小学开性教育课男生上台学用卫生巾",
@@ -193,14 +209,6 @@
       "onboard_time": 1664061738,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 825548,
-      "num": 825548,
-      "word": "男生985毕业4年重新高考学中医",
-      "onboard_time": 1664112986,
-      "rank": 49,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 800233,
@@ -249,14 +257,6 @@
       "onboard_time": 1664115031,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 669205,
-      "num": 669205,
-      "word": "漂亮女子突然体重暴增变丑查出脑瘤",
-      "onboard_time": 1664114371,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 663697,
@@ -331,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 578659,
+      "num": 578659,
+      "word": "2022香港小姐决赛",
+      "onboard_time": 1664115869,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 574308,
       "num": 574308,
       "word": "iPadPro2022或支持无线充电",
@@ -353,14 +361,6 @@
       "onboard_time": 1664106505,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 527078,
-      "num": 527078,
-      "word": "2022香港小姐决赛",
-      "onboard_time": 1664115869,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 524221,
@@ -547,6 +547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 399099,
+      "num": 399099,
+      "word": "多对情侣迪士尼流水线式接吻拍照",
+      "onboard_time": 1664117552,
+      "rank": 11,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 398723,
       "num": 370978,
       "word": "张予曦新剧踩脏小白鞋赔上余生",
@@ -643,6 +651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 358671,
+      "num": 358671,
+      "word": "王俊凯说9月30日一起回家",
+      "onboard_time": 1664116473,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 351269,
       "num": 351269,
       "word": "天安门广场国庆大花篮亮灯",
@@ -673,6 +689,14 @@
       "onboard_time": 1664095763,
       "rank": 15,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 327513,
+      "num": 327513,
+      "word": "请君的虐都被小沈阳治好了",
+      "onboard_time": 1664115573,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 323332,
@@ -756,7 +780,7 @@
     },
     {
       "raw_hot": 298995,
-      "num": 206030,
+      "num": 217410,
       "word": "终于等到张杰音乐节现场",
       "onboard_time": 1664114552,
       "rank": 21,
@@ -835,14 +859,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 288847,
-      "num": 172739,
-      "word": "请君的虐都被小沈阳治好了",
-      "onboard_time": 1664115573,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 280658,
       "num": 280658,
       "word": "年轻人算是把装修玩明白了",
@@ -899,12 +915,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 273356,
-      "num": 143249,
-      "word": "王俊凯说9月30日一起回家",
-      "onboard_time": 1664116473,
-      "rank": 31,
-      "category": "影视"
+      "raw_hot": 274285,
+      "num": 274285,
+      "word": "这外语水平比我厉害多了",
+      "onboard_time": 1664116773,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 272752,
@@ -979,20 +995,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 250047,
+      "num": 250047,
+      "word": "为什么感情里就应该作一点",
+      "onboard_time": 1664115752,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 249508,
       "num": 249508,
       "word": "这些不良习惯容易长白头发",
       "onboard_time": 1664014706,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 248743,
-      "num": 248743,
-      "word": "为什么感情里就应该作一点",
-      "onboard_time": 1664115752,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 248505,
@@ -1033,6 +1049,14 @@
       "onboard_time": 1664090006,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 237500,
+      "num": 237500,
+      "word": "幼儿园老师的大大烦恼",
+      "onboard_time": 1664114552,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 231341,
@@ -1097,6 +1121,14 @@
       "onboard_time": 1664086226,
       "rank": 29,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 221662,
+      "num": 221662,
+      "word": "再起不来就不礼貌了",
+      "onboard_time": 1664115393,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 217581,
@@ -1315,6 +1347,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 179904,
+      "num": 179904,
+      "word": "真的要好好热爱生活啊",
+      "onboard_time": 1664117370,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179621,
       "num": 179621,
       "word": "檀健次相柳白衣氛围感视频",
@@ -1353,14 +1393,6 @@
       "onboard_time": 1664098705,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 168915,
-      "num": 168915,
-      "word": "再起不来就不礼貌了",
-      "onboard_time": 1664115393,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 168415,
@@ -1409,14 +1441,6 @@
       "onboard_time": 1664097385,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 159656,
-      "num": 159656,
-      "word": "幼儿园老师的大大烦恼",
-      "onboard_time": 1664114552,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 156804,
@@ -1699,6 +1723,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 108099,
+      "num": 103265,
+      "word": "艾福杰尼早安对决",
+      "onboard_time": 1664117552,
+      "rank": 41,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 106814,
       "num": 106814,
       "word": "朋友为了让我摆脱轮椅",
@@ -1721,6 +1753,14 @@
       "onboard_time": 1664085504,
       "rank": 48,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 103026,
+      "num": 103026,
+      "word": "蔓越莓为何在水里收",
+      "onboard_time": 1664118210,
+      "rank": 42,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 98984,
@@ -1769,6 +1809,14 @@
       "onboard_time": 1664019385,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 87182,
+      "num": 87182,
+      "word": "武汉麦德龙开业停车场一位难求",
+      "onboard_time": 1664118752,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 85577,
@@ -1841,6 +1889,14 @@
       "onboard_time": 1664020109,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74663,
+      "num": 74663,
+      "word": "北京WB拿到赛点",
+      "onboard_time": 1664117912,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 74527,
@@ -1956,7 +2012,7 @@
     },
     {
       "raw_hot": 44952,
-      "num": 1333848,
+      "num": 1416915,
       "word": "太空视角看丰收有多美",
       "onboard_time": 1664013324,
       "rank": 2,
