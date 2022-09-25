@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664138479104,
+  "endTime": 1664140875013,
   "band_list": [
     {
       "raw_hot": 2585281,
@@ -411,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55380,
+      "num": 17325,
+      "word": "辉瑞CEO已打4针自家新冠疫苗",
+      "onboard_time": 1664137811,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52921,
       "num": 52921,
       "word": "威马年亏82亿创始人年薪12亿",
@@ -420,7 +428,7 @@
     },
     {
       "raw_hot": 48918,
-      "num": 22985,
+      "num": 24969,
       "word": "重庆一永辉超市保质期内蛋糕发霉",
       "onboard_time": 1664134090,
       "rank": 46,
@@ -473,6 +481,14 @@
       "onboard_time": 1664127794,
       "rank": 27,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 23259,
+      "num": 23259,
+      "word": "毒蛇咬伤散步男子民警将速度拉满",
+      "onboard_time": 1664137811,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18058,
@@ -531,27 +547,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 7046,
+      "num": 7046,
+      "word": "印度185万头牛感染牛块状皮肤病",
+      "onboard_time": 1664139312,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 6874,
       "num": 701234,
       "word": "太空视角看丰收有多美",
       "onboard_time": 1664013324,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6781,
-      "num": 6781,
-      "word": "辉瑞CEO已打4针自家新冠疫苗",
-      "onboard_time": 1664137811,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6550,
-      "num": 6550,
-      "word": "毒蛇咬伤散步男子民警将速度拉满",
-      "onboard_time": 1664137811,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -585,6 +593,30 @@
       "onboard_time": 1664137631,
       "rank": 48,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 5508,
+      "num": 7036,
+      "word": "地震时开车挡石救下7人英雄出院",
+      "onboard_time": 1664140211,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5286,
+      "num": 7032,
+      "word": "大张伟的嘴皮子是跟妈妈斗嘴练出来的",
+      "onboard_time": 1664140571,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 5097,
+      "num": 7031,
+      "word": "绝美金秋桂花壁纸",
+      "onboard_time": 1664140751,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
