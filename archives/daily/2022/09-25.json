@@ -1,6 +1,6 @@
 {
   "startTime": 1664037122905,
-  "endTime": 1664105868251,
+  "endTime": 1664109823743,
   "band_list": [
     {
       "raw_hot": 3580765,
@@ -65,6 +65,14 @@
       "onboard_time": 1664074705,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1768475,
+      "num": 1768475,
+      "word": "甄嬛传发箍",
+      "onboard_time": 1664106505,
+      "rank": 0,
+      "category": "幽默,影视"
     },
     {
       "raw_hot": 1735562,
@@ -161,6 +169,14 @@
       "onboard_time": 1664061617,
       "rank": 48,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 753953,
+      "num": 753953,
+      "word": "上海消费券",
+      "onboard_time": 1664107224,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 712959,
@@ -307,6 +323,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 492111,
+      "num": 492111,
+      "word": "不要和没可能的人频繁聊天",
+      "onboard_time": 1664107585,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 485407,
       "num": 485407,
       "word": "杨紫长相思剧本围读vlog",
@@ -320,6 +344,14 @@
       "word": "小伙买植物收到卖家63页PPT",
       "onboard_time": 1664090485,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 453927,
+      "num": 453927,
+      "word": "波兰发生多起涂黑石头冒充煤炭事件",
+      "onboard_time": 1664104466,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -353,6 +385,14 @@
       "onboard_time": 1664066243,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 420201,
+      "num": 420201,
+      "word": "我们的歌",
+      "onboard_time": 1664104164,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 417196,
@@ -499,6 +539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 352055,
+      "num": 352055,
+      "word": "当结了场健康的婚才知道的事",
+      "onboard_time": 1664106505,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 338089,
       "num": 338089,
       "word": "威马年亏82亿创始人年薪12亿",
@@ -529,14 +577,6 @@
       "onboard_time": 1664081065,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 317467,
-      "num": 258413,
-      "word": "我们的歌",
-      "onboard_time": 1664104164,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 311482,
@@ -716,7 +756,7 @@
     },
     {
       "raw_hot": 269049,
-      "num": 138861,
+      "num": 253697,
       "word": "刘诗诗为万里归途宣传",
       "onboard_time": 1664104646,
       "rank": 40,
@@ -736,6 +776,14 @@
       "word": "老妇深居简出佯装遛狗贩毒",
       "onboard_time": 1664095224,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258471,
+      "num": 258471,
+      "word": "女子网上购买打折珠宝被骗14万",
+      "onboard_time": 1664104764,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -867,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216028,
+      "num": 216028,
+      "word": "得知邻桌庆生男子专门买玩偶相赠",
+      "onboard_time": 1664106324,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214810,
       "num": 210302,
       "word": "虞书欣说庄羽吻戏好会",
@@ -899,12 +955,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211403,
+      "num": 211403,
+      "word": "中国水果第一大省有多强",
+      "onboard_time": 1664108967,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209341,
       "num": 209341,
       "word": "今晚可以看中国女排了",
       "onboard_time": 1664097262,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208888,
+      "num": 208888,
+      "word": "刷手机会让记忆力下降",
+      "onboard_time": 1664107646,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204958,
@@ -929,6 +1001,30 @@
       "onboard_time": 1664089046,
       "rank": 29,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 201965,
+      "num": 201965,
+      "word": "杨颖白鹿奔跑吧路透生图",
+      "onboard_time": 1664109626,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 200484,
+      "num": 200484,
+      "word": "男子投喂流浪狗引来祖孙三代",
+      "onboard_time": 1664105186,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199957,
+      "num": 199957,
+      "word": "大叔卖棉花糖翻车现场似盘丝洞",
+      "onboard_time": 1664104646,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199314,
@@ -977,6 +1073,14 @@
       "onboard_time": 1664103385,
       "rank": 36,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 187261,
+      "num": 187261,
+      "word": "中国女排vs阿根廷女排",
+      "onboard_time": 1664109266,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 186350,
@@ -1059,6 +1163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 171838,
+      "num": 171838,
+      "word": "孙怡现身奔跑吧录制",
+      "onboard_time": 1664109566,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 168415,
       "num": 168415,
       "word": "江南百景图绍兴府",
@@ -1080,14 +1192,6 @@
       "word": "00后用纸折出的龙有1400个鳞片",
       "onboard_time": 1664075125,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 163445,
-      "num": 163445,
-      "word": "波兰发生多起涂黑石头冒充煤炭事件",
-      "onboard_time": 1664104466,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1307,6 +1411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 113951,
+      "num": 113951,
+      "word": "年轻人算是把装修玩明白了",
+      "onboard_time": 1664109325,
+      "rank": 37,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 113146,
       "num": 113146,
       "word": "自测颈椎病处于什么级别",
@@ -1345,6 +1457,14 @@
       "onboard_time": 1664012188,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 110401,
+      "num": 110401,
+      "word": "天安门广场国庆大花篮亮灯",
+      "onboard_time": 1664109626,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108133,
@@ -1395,12 +1515,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 95736,
-      "num": 95736,
-      "word": "女子网上购买打折珠宝被骗14万",
-      "onboard_time": 1664104764,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 96728,
+      "num": 96728,
+      "word": "WB对战狼队",
+      "onboard_time": 1664107825,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 90764,
@@ -1448,14 +1568,6 @@
       "word": "号称祛斑美白实则汞超标2万倍",
       "onboard_time": 1664088564,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 85130,
-      "num": 85130,
-      "word": "大叔卖棉花糖翻车现场似盘丝洞",
-      "onboard_time": 1664104646,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1560,14 +1672,6 @@
       "word": "木星将与地球进行59年来最亲密接触",
       "onboard_time": 1664019509,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66024,
-      "num": 66024,
-      "word": "男子投喂流浪狗引来祖孙三代",
-      "onboard_time": 1664105186,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1863,6 +1967,9 @@
     },
     {
       "word": "#二十大时光#"
+    },
+    {
+      "word": "#跟着总书记看中国#"
     }
   ]
 }
