@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664123539357,
+  "endTime": 1664124944272,
   "band_list": [
     {
       "raw_hot": 2585281,
@@ -19,6 +19,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 891953,
+      "num": 891953,
+      "word": "广东省回应禁止销售槟榔建议",
+      "onboard_time": 1664121805,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 632347,
       "num": 632347,
       "word": "中国水果第一大省有多强",
@@ -32,14 +40,6 @@
       "word": "漂亮女子突然体重暴增变丑查出脑瘤",
       "onboard_time": 1664114371,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 583682,
-      "num": 583682,
-      "word": "广东省回应禁止销售槟榔建议",
-      "onboard_time": 1664121805,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -65,6 +65,14 @@
       "onboard_time": 1664112329,
       "rank": 8,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 319059,
+      "num": 200406,
+      "word": "丈夫成植物人妻子起诉离婚获准",
+      "onboard_time": 1664122524,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 311616,
@@ -97,6 +105,14 @@
       "onboard_time": 1664114069,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 203388,
+      "num": 203388,
+      "word": "电视剧胡同开播收视",
+      "onboard_time": 1664123302,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 202572,
@@ -179,14 +195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140942,
-      "num": 140942,
-      "word": "丈夫成植物人妻子起诉离婚获准",
-      "onboard_time": 1664122524,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 138974,
       "num": 138974,
       "word": "为什么感情里就应该作一点",
@@ -219,6 +227,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 107390,
+      "num": 107390,
+      "word": "这就是宠物界的三甲医院吧",
+      "onboard_time": 1664122224,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 106551,
+      "num": 106551,
+      "word": "Fly回城是AG",
+      "onboard_time": 1664123661,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 101186,
       "num": 81567,
       "word": "虞书欣新剧暗恋相当于明恋",
@@ -241,14 +265,6 @@
       "onboard_time": 1664104164,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 93434,
-      "num": 81133,
-      "word": "电视剧胡同开播收视",
-      "onboard_time": 1664123302,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 92053,
@@ -281,14 +297,6 @@
       "onboard_time": 1664110767,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 80494,
-      "num": 80494,
-      "word": "这就是宠物界的三甲医院吧",
-      "onboard_time": 1664122224,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 76152,
@@ -406,6 +414,9 @@
   "hotgov_list": [
     {
       "word": "#二十大代表名单#"
+    },
+    {
+      "word": "#跟着总书记看中国#"
     }
   ]
 }
