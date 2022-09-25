@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1664131645205,
+  "endTime": 1664133561287,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -49219,6 +49219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 30985,
+      "num": 30985,
+      "word": "金智秀ShutDown直拍",
+      "onboard_time": 1664130853,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 30768,
       "num": 30768,
       "word": "什么是极简养猫法",
@@ -49563,14 +49571,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 16971,
-      "num": 16971,
-      "word": "金智秀ShutDown直拍",
-      "onboard_time": 1664130853,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 16850,
       "num": 16850,
       "word": "消防员23秒救起跳河轻生女孩",
@@ -49731,6 +49731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 10816,
+      "num": 10816,
+      "word": "超级加辈的衣服",
+      "onboard_time": 1664133312,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 10748,
       "num": 10748,
       "word": "重庆首批地标菜名单",
@@ -49843,6 +49851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 8815,
+      "num": 8815,
+      "word": "仓鼠都比我自律",
+      "onboard_time": 1664133073,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 8649,
       "num": 8649,
       "word": "辅警7秒飞身救下扶梯摔倒老人",
@@ -49929,6 +49945,14 @@
       "onboard_time": 1663274171,
       "rank": 43,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 7425,
+      "num": 7425,
+      "word": "保持感知力有多重要",
+      "onboard_time": 1664133190,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 7383,
