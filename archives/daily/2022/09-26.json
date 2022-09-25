@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664140875013,
+  "endTime": 1664141959311,
   "band_list": [
     {
       "raw_hot": 2585281,
@@ -323,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 78449,
+      "num": 34249,
+      "word": "辉瑞CEO已打4针自家新冠疫苗",
+      "onboard_time": 1664137811,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76152,
       "num": 69329,
       "word": "赵露思的加油好甜",
@@ -411,14 +419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 55380,
-      "num": 17325,
-      "word": "辉瑞CEO已打4针自家新冠疫苗",
-      "onboard_time": 1664137811,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 52921,
       "num": 52921,
       "word": "威马年亏82亿创始人年薪12亿",
@@ -428,7 +428,7 @@
     },
     {
       "raw_hot": 48918,
-      "num": 24969,
+      "num": 30354,
       "word": "重庆一永辉超市保质期内蛋糕发霉",
       "onboard_time": 1664134090,
       "rank": 46,
@@ -467,6 +467,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 34983,
+      "num": 34983,
+      "word": "毒蛇咬伤散步男子民警将速度拉满",
+      "onboard_time": 1664137811,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30985,
       "num": 30985,
       "word": "金智秀ShutDown直拍",
@@ -481,14 +489,6 @@
       "onboard_time": 1664127794,
       "rank": 27,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 23259,
-      "num": 23259,
-      "word": "毒蛇咬伤散步男子民警将速度拉满",
-      "onboard_time": 1664137811,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 18058,
@@ -523,6 +523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 10236,
+      "num": 10236,
+      "word": "印度185万头牛感染牛块状皮肤病",
+      "onboard_time": 1664139312,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 9718,
       "num": 9718,
       "word": "二十大时光",
@@ -545,14 +553,6 @@
       "onboard_time": 1664137391,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 7046,
-      "num": 7046,
-      "word": "印度185万头牛感染牛块状皮肤病",
-      "onboard_time": 1664139312,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 6874,
@@ -595,12 +595,36 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 5522,
+      "num": 5522,
+      "word": "当农大学生的毕业论文被吃掉",
+      "onboard_time": 1664141532,
+      "rank": 45,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 5508,
       "num": 7036,
       "word": "地震时开车挡石救下7人英雄出院",
       "onboard_time": 1664140211,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5501,
+      "num": 5501,
+      "word": "北京的枫叶红了",
+      "onboard_time": 1664141350,
+      "rank": 46,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 5424,
+      "num": 5424,
+      "word": "丁禹兮猜曾毅名字激动到结巴",
+      "onboard_time": 1664141470,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 5286,
@@ -611,12 +635,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 5285,
+      "num": 5424,
+      "word": "典籍里的中国段奕宏演技",
+      "onboard_time": 1664141470,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 5097,
       "num": 7031,
       "word": "绝美金秋桂花壁纸",
       "onboard_time": 1664140751,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4972,
+      "num": 5424,
+      "word": "沉香重华",
+      "onboard_time": 1664141891,
+      "rank": 49,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
