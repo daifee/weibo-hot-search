@@ -1,0 +1,410 @@
+{
+  "runTime": 1664081161741,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1679581,
+        "num": 1679581,
+        "word": "南风知我意",
+        "onboard_time": 1664074826,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1537709,
+        "num": 1537709,
+        "word": "欧洲人买爆中国电热毯",
+        "onboard_time": 1664074705,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14766,
+        "num": 1112336,
+        "word": "太空视角看丰收有多美",
+        "onboard_time": 1664013324,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2585438,
+        "num": 1033155,
+        "word": "月经期间身体在经历什么",
+        "onboard_time": 1664072907,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2154226,
+        "num": 1016398,
+        "word": "卫生巾不用黑袋子装也没关系",
+        "onboard_time": 1664064742,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 902360,
+        "num": 902360,
+        "word": "长相思",
+        "onboard_time": 1664061738,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 738865,
+        "num": 738865,
+        "word": "被iPhone14收割的黄牛",
+        "onboard_time": 1664071765,
+        "rank": 6,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 508965,
+        "num": 508965,
+        "word": "六公主认证任嘉伦请君热度破纪录",
+        "onboard_time": 1664075005,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 453407,
+        "num": 453407,
+        "word": "突然觉得好不配小狗的爱",
+        "onboard_time": 1664072787,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 356481,
+        "num": 356481,
+        "word": "辉瑞CEO新冠检测再次阳性",
+        "onboard_time": 1664068884,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 2014491,
+        "num": 355208,
+        "word": "章泽天怀孕随刘强东明州逛超市",
+        "onboard_time": 1664070383,
+        "rank": 10,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 506883,
+        "num": 354571,
+        "word": "容祖儿给张翰拍照演我",
+        "onboard_time": 1664079506,
+        "rank": 11,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 351139,
+        "num": 351139,
+        "word": "大爷随手种猕猴桃树结5000个果子",
+        "onboard_time": 1664073626,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334702,
+        "num": 334702,
+        "word": "张予曦新剧踩脏小白鞋赔上余生",
+        "onboard_time": 1664075785,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 329778,
+        "num": 329778,
+        "word": "宝妈称医院误将针掉孩子胃中",
+        "onboard_time": 1664072605,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315780,
+        "num": 315780,
+        "word": "大叔生意失败深夜穿西装捡废品",
+        "onboard_time": 1664078945,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303985,
+        "num": 303985,
+        "word": "高速被追尾6人直接原地歇了",
+        "onboard_time": 1664079384,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303089,
+        "num": 303089,
+        "word": "染色体首个实验性DEMO作品",
+        "onboard_time": 1664079086,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 303009,
+        "num": 303009,
+        "word": "何同学第一次玩VR在图书馆",
+        "onboard_time": 1664078906,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 253144,
+        "num": 253144,
+        "word": "自从我养了一条斗鱼",
+        "onboard_time": 1664073986,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284439,
+        "num": 252531,
+        "word": "成毅角色跨度好大",
+        "onboard_time": 1664077586,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244810,
+        "num": 244810,
+        "word": "长相思命运版海报",
+        "onboard_time": 1664076447,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231815,
+        "num": 231815,
+        "word": "5岁不会用筷子吃饭可能是孤独症",
+        "onboard_time": 1664070145,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223534,
+        "num": 223534,
+        "word": "记忆力不好是有原因的",
+        "onboard_time": 1664078666,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215410,
+        "num": 215410,
+        "word": "29岁尿毒症小伙义务陪他人看病",
+        "onboard_time": 1664073024,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210302,
+        "num": 210302,
+        "word": "虞书欣说庄羽吻戏好会",
+        "onboard_time": 1664080465,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204505,
+        "num": 204505,
+        "word": "为什么吃得不多但体重下不来",
+        "onboard_time": 1664066483,
+        "rank": 26,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 182020,
+        "num": 182020,
+        "word": "掏耳朵频次不宜过勤",
+        "onboard_time": 1664074044,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157024,
+        "num": 157024,
+        "word": "学校旁早餐铺粥杯印脏话",
+        "onboard_time": 1664065224,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152237,
+        "num": 152237,
+        "word": "00后用纸折出的龙有1400个鳞片",
+        "onboard_time": 1664075125,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186166,
+        "num": 151583,
+        "word": "万里归途43城超前点映",
+        "onboard_time": 1664080527,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162752,
+        "num": 151410,
+        "word": "长空之王定档0930",
+        "onboard_time": 1664080405,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157829,
+        "num": 151177,
+        "word": "我们的歌马嘉祺白西装造型",
+        "onboard_time": 1664075727,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 149601,
+        "num": 149601,
+        "word": "教育局回应家长花万元给全班换桌椅",
+        "onboard_time": 1664061617,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 148188,
+        "num": 148188,
+        "word": "市监局通报黄豆酱事件厂家检查情况",
+        "onboard_time": 1664079627,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133000,
+        "num": 133000,
+        "word": "10岁男孩给妈妈扎针动作熟练",
+        "onboard_time": 1664077825,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131325,
+        "num": 131325,
+        "word": "LOL手游永恩来了",
+        "onboard_time": 1664077167,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128936,
+        "num": 128936,
+        "word": "盲人妈妈将儿子买来吃的豆子种成豆芽去卖",
+        "onboard_time": 1664066243,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119419,
+        "num": 119419,
+        "word": "教育部回应降低英语教学比重建议",
+        "onboard_time": 1664030787,
+        "rank": 38,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 115942,
+        "num": 115942,
+        "word": "网飞版三体首支片花",
+        "onboard_time": 1664067323,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 101196,
+        "num": 101196,
+        "word": "吃火锅时的高频词汇",
+        "onboard_time": 1664060776,
+        "rank": 40,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 99775,
+        "num": 99775,
+        "word": "电视剧胡同今日开播",
+        "onboard_time": 1664074465,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 97060,
+        "num": 97060,
+        "word": "杭州骑行的风都是桂花味的",
+        "onboard_time": 1664074826,
+        "rank": 42,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 91695,
+        "num": 91695,
+        "word": "杨紫长相思正式杀青",
+        "onboard_time": 1664081065,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 87984,
+        "num": 87984,
+        "word": "这宠物医院也太高级了",
+        "onboard_time": 1664067625,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 81230,
+        "num": 81230,
+        "word": "孩子这菜办得挺好的",
+        "onboard_time": 1664067925,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 68313,
+        "num": 68313,
+        "word": "河南大学也曾名为中山大学",
+        "onboard_time": 1664036782,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 65067,
+        "num": 65067,
+        "word": "狗子马路上练滑板狗主骑车随行",
+        "onboard_time": 1664071286,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64464,
+        "num": 64464,
+        "word": "美国里根号航母战斗群抵韩",
+        "onboard_time": 1664050871,
+        "rank": 48,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 57807,
+        "num": 57807,
+        "word": "提离职后放飞自我真的很爽",
+        "onboard_time": 1664064322,
+        "rank": 49,
+        "category": "情感,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#辽宁舰交接入列10周年#"
+    }
+  }
+}
