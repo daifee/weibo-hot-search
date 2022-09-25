@@ -1,6 +1,6 @@
 {
   "startTime": 1664037122905,
-  "endTime": 1664102592677,
+  "endTime": 1664104808441,
   "band_list": [
     {
       "raw_hot": 3580765,
@@ -83,8 +83,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1437436,
-      "num": 1437436,
+      "raw_hot": 1464804,
+      "num": 1464804,
       "word": "韩总统雨中撑伞不顾老婆被嘲",
       "onboard_time": 1664097504,
       "rank": 40,
@@ -131,11 +131,27 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 913843,
+      "num": 913843,
+      "word": "女子骨折借用外甥女扭扭车代步",
+      "onboard_time": 1664099246,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 902360,
       "num": 902360,
       "word": "长相思",
       "onboard_time": 1664061738,
       "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 862844,
+      "num": 862844,
+      "word": "小说里走出来的男主",
+      "onboard_time": 1664100984,
+      "rank": 14,
       "category": "影视"
     },
     {
@@ -211,14 +227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 606212,
-      "num": 606212,
-      "word": "女子骨折借用外甥女扭扭车代步",
-      "onboard_time": 1664099246,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 593732,
       "num": 593732,
       "word": "六公主认证任嘉伦请君热度破纪录",
@@ -233,6 +241,22 @@
       "onboard_time": 1664029529,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 570311,
+      "num": 570311,
+      "word": "iPadPro2022或支持无线充电",
+      "onboard_time": 1664101165,
+      "rank": 29,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 557164,
+      "num": 557164,
+      "word": "教育局通报教师言语骚扰女学生",
+      "onboard_time": 1664101705,
+      "rank": 31,
+      "category": "社会负面,教育"
     },
     {
       "raw_hot": 524221,
@@ -273,14 +297,6 @@
       "onboard_time": 1664070145,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 496423,
-      "num": 496423,
-      "word": "小说里走出来的男主",
-      "onboard_time": 1664100984,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 494206,
@@ -355,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 411117,
+      "num": 411117,
+      "word": "刘耀文张真源严浩翔瑜预告海报",
+      "onboard_time": 1664103204,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 404453,
       "num": 404453,
       "word": "楼下老人控诉太吵孩子用小奶音道歉",
@@ -393,6 +417,22 @@
       "onboard_time": 1664072605,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 381941,
+      "num": 381941,
+      "word": "杨紫晒照告别小夭小六",
+      "onboard_time": 1664104225,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 379188,
+      "num": 379188,
+      "word": "Lisa人歌ending",
+      "onboard_time": 1664103146,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 373168,
@@ -443,6 +483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 338089,
+      "num": 338089,
+      "word": "威马年亏82亿创始人年薪12亿",
+      "onboard_time": 1664099966,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 331301,
       "num": 331301,
       "word": "王毅在联合国大会谈两岸统一",
@@ -459,20 +507,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 322706,
-      "num": 322706,
-      "word": "威马年亏82亿创始人年薪12亿",
-      "onboard_time": 1664099966,
-      "rank": 16,
-      "category": "财经"
-    },
-    {
       "raw_hot": 321396,
       "num": 321396,
       "word": "杨紫长相思正式杀青",
       "onboard_time": 1664081065,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 311482,
+      "num": 264848,
+      "word": "赵露思的加油好甜",
+      "onboard_time": 1664102666,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 310296,
@@ -651,12 +699,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 255279,
-      "num": 255279,
-      "word": "iPadPro2022或支持无线充电",
-      "onboard_time": 1664101165,
-      "rank": 29,
-      "category": "科技"
+      "raw_hot": 258413,
+      "num": 258413,
+      "word": "我们的歌",
+      "onboard_time": 1664104164,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 252473,
@@ -665,6 +713,14 @@
       "onboard_time": 1664085265,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 252314,
+      "num": 264945,
+      "word": "原来我每次挨骂是这个流程",
+      "onboard_time": 1664099603,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 249508,
@@ -705,14 +761,6 @@
       "onboard_time": 1664090006,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 232975,
-      "num": 232975,
-      "word": "原来我每次挨骂是这个流程",
-      "onboard_time": 1664099603,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 231341,
@@ -947,6 +995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 177770,
+      "num": 131394,
+      "word": "为断臂男孩开路的骑警娜扎好飒",
+      "onboard_time": 1664104705,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 177712,
       "num": 177712,
       "word": "普京签署一系列部分动员相关的法律",
@@ -1035,14 +1091,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 144572,
-      "num": 144572,
-      "word": "教育局通报教师言语骚扰女学生",
-      "onboard_time": 1664101705,
-      "rank": 31,
-      "category": "社会负面,教育"
-    },
-    {
       "raw_hot": 141754,
       "num": 106212,
       "word": "KPL用跳水的方式打开向前冲",
@@ -1107,6 +1155,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131768,
+      "num": 131768,
+      "word": "S12选手评分揭秘",
+      "onboard_time": 1664101343,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 130784,
+      "num": 130784,
+      "word": "休假的东风快递员撂下碗爬楼救火",
+      "onboard_time": 1664098887,
+      "rank": 36,
+      "category": "社会正能量,军事"
+    },
+    {
       "raw_hot": 130779,
       "num": 130779,
       "word": "地理老师做月球模型为学生拍大片",
@@ -1131,20 +1195,20 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 127550,
+      "num": 102800,
+      "word": "刘诗诗为万里归途宣传",
+      "onboard_time": 1664104646,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 121183,
       "num": 121183,
       "word": "51岁女子考入大学",
       "onboard_time": 1664056271,
       "rank": 44,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 121066,
-      "num": 121066,
-      "word": "S12选手评分揭秘",
-      "onboard_time": 1664101343,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 118703,
@@ -1169,6 +1233,14 @@
       "onboard_time": 1664071286,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117255,
+      "num": 117255,
+      "word": "外语课时明显低于语文等学科",
+      "onboard_time": 1664103385,
+      "rank": 36,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 116175,
@@ -1241,14 +1313,6 @@
       "onboard_time": 1664094567,
       "rank": 43,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 107257,
-      "num": 107257,
-      "word": "休假的东风快递员撂下碗爬楼救火",
-      "onboard_time": 1664098887,
-      "rank": 36,
-      "category": "社会正能量,军事"
     },
     {
       "raw_hot": 106814,
@@ -1403,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74313,
+      "num": 74313,
+      "word": "讨厌带娃的狗狗",
+      "onboard_time": 1664104045,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 74054,
       "num": 74054,
       "word": "周深 可爱",
@@ -1491,12 +1563,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 53274,
+      "num": 53274,
+      "word": "波兰发生多起涂黑石头冒充煤炭事件",
+      "onboard_time": 1664104466,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50349,
+      "num": 50349,
+      "word": "大叔卖棉花糖翻车现场似盘丝洞",
+      "onboard_time": 1664104646,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49699,
       "num": 49699,
       "word": "河南大学110岁了",
       "onboard_time": 1664038339,
       "rank": 46,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 48368,
+      "num": 48368,
+      "word": "女子网上购买打折珠宝被骗14万",
+      "onboard_time": 1664104764,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44952,
@@ -1545,6 +1641,14 @@
       "onboard_time": 1664052671,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17583,
+      "num": 367019,
+      "word": "火锅界的天花板是谁",
+      "onboard_time": 1664103625,
+      "rank": 14,
+      "category": "美食"
     },
     {
       "raw_hot": 16346,

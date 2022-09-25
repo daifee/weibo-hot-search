@@ -1,6 +1,6 @@
 {
   "startTime": 1663518759246,
-  "endTime": 1664102592677,
+  "endTime": 1664104808441,
   "band_list": [
     {
       "raw_hot": 11177915,
@@ -883,20 +883,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1464804,
+      "num": 1464804,
+      "word": "韩总统雨中撑伞不顾老婆被嘲",
+      "onboard_time": 1664097504,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1440108,
       "num": 1440108,
       "word": "217054",
       "onboard_time": 1663561469,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1437436,
-      "num": 1437436,
-      "word": "韩总统雨中撑伞不顾老婆被嘲",
-      "onboard_time": 1664097504,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1420759,
@@ -1811,6 +1811,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 913843,
+      "num": 913843,
+      "word": "女子骨折借用外甥女扭扭车代步",
+      "onboard_time": 1664099246,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 908618,
       "num": 902262,
       "word": "墨迹天气",
@@ -1977,6 +1985,14 @@
       "onboard_time": 1663566209,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 862844,
+      "num": 862844,
+      "word": "小说里走出来的男主",
+      "onboard_time": 1664100984,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 862111,
@@ -2867,14 +2883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 606212,
-      "num": 606212,
-      "word": "女子骨折借用外甥女扭扭车代步",
-      "onboard_time": 1664099246,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 601055,
       "num": 310566,
       "word": "客车侧翻致27人遇难20人受伤",
@@ -3139,6 +3147,14 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 570311,
+      "num": 570311,
+      "word": "iPadPro2022或支持无线充电",
+      "onboard_time": 1664101165,
+      "rank": 29,
+      "category": "科技"
+    },
+    {
       "raw_hot": 569655,
       "num": 569655,
       "word": "牙不齐可能是因为脸小",
@@ -3265,6 +3281,14 @@
       "onboard_time": 1663768291,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 557164,
+      "num": 557164,
+      "word": "教育局通报教师言语骚扰女学生",
+      "onboard_time": 1664101705,
+      "rank": 31,
+      "category": "社会负面,教育"
     },
     {
       "raw_hot": 556999,
@@ -3665,14 +3689,6 @@
       "onboard_time": 1663564650,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 496423,
-      "num": 496423,
-      "word": "小说里走出来的男主",
-      "onboard_time": 1664100984,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 495283,
@@ -4483,6 +4499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 411117,
+      "num": 411117,
+      "word": "刘耀文张真源严浩翔瑜预告海报",
+      "onboard_time": 1664103204,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 411044,
       "num": 411044,
       "word": "护士拦停失控公交救下脑出血司机",
@@ -4907,6 +4931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 381941,
+      "num": 381941,
+      "word": "杨紫晒照告别小夭小六",
+      "onboard_time": 1664104225,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 381481,
       "num": 381481,
       "word": "槟榔近千亿产业或被按下暂停键",
@@ -4952,6 +4984,14 @@
       "word": "那英加盟喜剧大赛2",
       "onboard_time": 1663561713,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 379188,
+      "num": 379188,
+      "word": "Lisa人歌ending",
+      "onboard_time": 1664103146,
+      "rank": 13,
       "category": "综艺"
     },
     {
@@ -5483,6 +5523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 338089,
+      "num": 338089,
+      "word": "威马年亏82亿创始人年薪12亿",
+      "onboard_time": 1664099966,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 338029,
       "num": 338029,
       "word": "陈小春30年前给杜德伟当伴舞",
@@ -5731,14 +5779,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 322706,
-      "num": 322706,
-      "word": "威马年亏82亿创始人年薪12亿",
-      "onboard_time": 1664099966,
-      "rank": 16,
-      "category": "财经"
-    },
-    {
       "raw_hot": 322205,
       "num": 322205,
       "word": "广东最干净的海",
@@ -5953,6 +5993,14 @@
       "onboard_time": 1663584212,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 311482,
+      "num": 264848,
+      "word": "赵露思的加油好甜",
+      "onboard_time": 1664102666,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 310435,
@@ -7211,6 +7259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258413,
+      "num": 258413,
+      "word": "我们的歌",
+      "onboard_time": 1664104164,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 258396,
       "num": 258396,
       "word": "姆巴佩因肖像权争议拒绝参加法国队合影",
@@ -7283,14 +7339,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 255279,
-      "num": 255279,
-      "word": "iPadPro2022或支持无线充电",
-      "onboard_time": 1664101165,
-      "rank": 29,
-      "category": "科技"
-    },
-    {
       "raw_hot": 254979,
       "num": 254979,
       "word": "光与夜之恋",
@@ -7353,6 +7401,14 @@
       "onboard_time": 1664085265,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 252314,
+      "num": 264945,
+      "word": "原来我每次挨骂是这个流程",
+      "onboard_time": 1664099603,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 251559,
@@ -7841,14 +7897,6 @@
       "onboard_time": 1663856370,
       "rank": 24,
       "category": "自然"
-    },
-    {
-      "raw_hot": 232975,
-      "num": 232975,
-      "word": "原来我每次挨骂是这个流程",
-      "onboard_time": 1664099603,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 231898,
@@ -9691,6 +9739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177770,
+      "num": 131394,
+      "word": "为断臂男孩开路的骑警娜扎好飒",
+      "onboard_time": 1664104705,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 177748,
       "num": 177748,
       "word": "底线全员换证件照",
@@ -10651,14 +10707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 144572,
-      "num": 144572,
-      "word": "教育局通报教师言语骚扰女学生",
-      "onboard_time": 1664101705,
-      "rank": 31,
-      "category": "社会负面,教育"
-    },
-    {
       "raw_hot": 144456,
       "num": 144456,
       "word": "黑龙江新增本土无症状44例",
@@ -11115,6 +11163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 131768,
+      "num": 131768,
+      "word": "S12选手评分揭秘",
+      "onboard_time": 1664101343,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 131759,
       "num": 131759,
       "word": "初中生划伤车被要求做试卷赔偿",
@@ -11153,6 +11209,14 @@
       "onboard_time": 1663752151,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130784,
+      "num": 130784,
+      "word": "休假的东风快递员撂下碗爬楼救火",
+      "onboard_time": 1664098887,
+      "rank": 36,
+      "category": "社会正能量,军事"
     },
     {
       "raw_hot": 130779,
@@ -11265,6 +11329,14 @@
       "onboard_time": 1663930703,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 127550,
+      "num": 102800,
+      "word": "刘诗诗为万里归途宣传",
+      "onboard_time": 1664104646,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 126873,
@@ -11427,14 +11499,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 121066,
-      "num": 121066,
-      "word": "S12选手评分揭秘",
-      "onboard_time": 1664101343,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 120907,
       "num": 120907,
       "word": "是不是你减肥时的心理活动",
@@ -11513,6 +11577,14 @@
       "onboard_time": 1664071286,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117255,
+      "num": 117255,
+      "word": "外语课时明显低于语文等学科",
+      "onboard_time": 1664103385,
+      "rank": 36,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 116690,
@@ -11817,14 +11889,6 @@
       "onboard_time": 1663915167,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 107257,
-      "num": 107257,
-      "word": "休假的东风快递员撂下碗爬楼救火",
-      "onboard_time": 1664098887,
-      "rank": 36,
-      "category": "社会正能量,军事"
     },
     {
       "raw_hot": 106905,
@@ -12603,6 +12667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74313,
+      "num": 74313,
+      "word": "讨厌带娃的狗狗",
+      "onboard_time": 1664104045,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 74166,
       "num": 74166,
       "word": "王立科案一审宣判",
@@ -12843,12 +12915,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 53274,
+      "num": 53274,
+      "word": "波兰发生多起涂黑石头冒充煤炭事件",
+      "onboard_time": 1664104466,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52208,
       "num": 52208,
       "word": "于和伟像极了KTV里开原唱的我",
       "onboard_time": 1663975398,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 50349,
+      "num": 50349,
+      "word": "大叔卖棉花糖翻车现场似盘丝洞",
+      "onboard_time": 1664104646,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 49699,
@@ -12865,6 +12953,14 @@
       "onboard_time": 1663485036,
       "rank": 44,
       "category": "网红"
+    },
+    {
+      "raw_hot": 48368,
+      "num": 48368,
+      "word": "女子网上购买打折珠宝被骗14万",
+      "onboard_time": 1664104764,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 47784,
@@ -13097,6 +13193,14 @@
       "onboard_time": 1663528032,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17583,
+      "num": 367019,
+      "word": "火锅界的天花板是谁",
+      "onboard_time": 1664103625,
+      "rank": 14,
+      "category": "美食"
     },
     {
       "raw_hot": 16850,
