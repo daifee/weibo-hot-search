@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1664137512873,
+  "endTime": 1664138479104,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -49563,6 +49563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 17592,
+      "num": 17592,
+      "word": "超级加辈的衣服",
+      "onboard_time": 1664133312,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 17583,
       "num": 367019,
       "word": "火锅界的天花板是谁",
@@ -49641,14 +49649,6 @@
       "onboard_time": 1662059291,
       "rank": 38,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 13857,
-      "num": 13857,
-      "word": "超级加辈的衣服",
-      "onboard_time": 1664133312,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 13813,
@@ -49939,6 +49939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 7663,
+      "num": 7663,
+      "word": "林更新与凤行片场喂流浪狗",
+      "onboard_time": 1664137391,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 7622,
       "num": 7885,
       "word": "敦促美方停止掠夺叙利亚国家资源",
@@ -50107,6 +50115,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 6781,
+      "num": 6781,
+      "word": "辉瑞CEO已打4针自家新冠疫苗",
+      "onboard_time": 1664137811,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 6736,
       "num": 7126,
       "word": "女子回应剖腹产后被用箩筐抬上楼",
@@ -50169,6 +50185,14 @@
       "onboard_time": 1663877710,
       "rank": 46,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 6550,
+      "num": 6550,
+      "word": "毒蛇咬伤散步男子民警将速度拉满",
+      "onboard_time": 1664137811,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 6508,
@@ -50409,6 +50433,14 @@
       "onboard_time": 1663967770,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5755,
+      "num": 5755,
+      "word": "保姆被指在家打骂2岁幼宝",
+      "onboard_time": 1664137631,
+      "rank": 48,
+      "category": "社会负面"
     },
     {
       "raw_hot": 5754,
