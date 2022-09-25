@@ -1,6 +1,6 @@
 {
   "startTime": 1664037122905,
-  "endTime": 1664084453400,
+  "endTime": 1664085259700,
   "band_list": [
     {
       "raw_hot": 3259105,
@@ -35,6 +35,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 2037256,
+      "num": 1807655,
+      "word": "上海警方通报持刀故意杀人案",
+      "onboard_time": 1664082147,
+      "rank": 0,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1941947,
       "num": 1941947,
       "word": "南风知我意",
@@ -49,14 +57,6 @@
       "onboard_time": 1664074705,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1807655,
-      "num": 1807655,
-      "word": "上海警方通报持刀故意杀人案",
-      "onboard_time": 1664082147,
-      "rank": 0,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1735562,
@@ -121,6 +121,14 @@
       "onboard_time": 1664030187,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 658638,
+      "num": 487304,
+      "word": "羊了个羊创始人被母校制展牌宣传",
+      "onboard_time": 1664084485,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 642133,
@@ -235,6 +243,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 386579,
+      "num": 386579,
+      "word": "楼下老人控诉太吵孩子用小奶音道歉",
+      "onboard_time": 1664081666,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 377291,
+      "num": 377291,
+      "word": "女子直播间抽中杯子寄来3次都碎了",
+      "onboard_time": 1664082445,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 373168,
       "num": 373168,
       "word": "90后女孩入职国企成37名男同事团宠",
@@ -259,20 +283,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 340077,
-      "num": 340077,
-      "word": "楼下老人控诉太吵孩子用小奶音道歉",
-      "onboard_time": 1664081666,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 321396,
       "num": 321396,
       "word": "杨紫长相思正式杀青",
       "onboard_time": 1664081065,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 310506,
+      "num": 310506,
+      "word": "当王嘉尔突然跳下舞台",
+      "onboard_time": 1664081727,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 308163,
@@ -321,6 +345,14 @@
       "onboard_time": 1664032829,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 297937,
+      "num": 297937,
+      "word": "中国航天科工集团特级技师王巍去世",
+      "onboard_time": 1664081727,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 297876,
@@ -387,14 +419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 275105,
-      "num": 275105,
-      "word": "女子直播间抽中杯子寄来3次都碎了",
-      "onboard_time": 1664082445,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 274537,
       "num": 274537,
       "word": "杨迪说刘雨昕到哪儿都要买特产",
@@ -403,28 +427,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 274306,
-      "num": 274306,
-      "word": "当王嘉尔突然跳下舞台",
-      "onboard_time": 1664081727,
-      "rank": 21,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 272752,
       "num": 272752,
       "word": "任嘉伦最爱请君雪中落泪名场面",
       "onboard_time": 1664032947,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 260065,
-      "num": 260065,
-      "word": "中国航天科工集团特级技师王巍去世",
-      "onboard_time": 1664081727,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 249508,
@@ -457,6 +465,14 @@
       "onboard_time": 1664034626,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237303,
+      "num": 237303,
+      "word": "伊卡尔迪净身出户",
+      "onboard_time": 1664083046,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 231341,
@@ -492,7 +508,7 @@
     },
     {
       "raw_hot": 223500,
-      "num": 172777,
+      "num": 190391,
       "word": "王一博为荣耀活动打call",
       "onboard_time": 1664081967,
       "rank": 30,
@@ -619,14 +635,6 @@
       "category": "国外要闻,军事"
     },
     {
-      "raw_hot": 173558,
-      "num": 173558,
-      "word": "伊卡尔迪净身出户",
-      "onboard_time": 1664083046,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 168415,
       "num": 168415,
       "word": "江南百景图绍兴府",
@@ -668,11 +676,19 @@
     },
     {
       "raw_hot": 148602,
-      "num": 111144,
+      "num": 121028,
       "word": "张艺兴新歌懂",
       "onboard_time": 1664082746,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 142624,
+      "num": 142624,
+      "word": "市民捕鼠笼抓到猪鼻老鼠报警求助",
+      "onboard_time": 1664083346,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141754,
@@ -803,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 113071,
+      "num": 113071,
+      "word": "电视剧底线",
+      "onboard_time": 1664085088,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 112057,
       "num": 112057,
       "word": "9月24日新增本土无症状601例",
@@ -827,28 +851,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 98874,
-      "num": 98874,
-      "word": "奔跑吧特别季建德首录",
-      "onboard_time": 1664035166,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 95285,
-      "num": 95285,
+      "raw_hot": 98984,
+      "num": 98984,
       "word": "茶卡盐湖日落星起有多治愈",
       "onboard_time": 1664081845,
       "rank": 44,
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 91188,
-      "num": 91188,
-      "word": "市民捕鼠笼抓到猪鼻老鼠报警求助",
-      "onboard_time": 1664083346,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 98874,
+      "num": 98874,
+      "word": "奔跑吧特别季建德首录",
+      "onboard_time": 1664035166,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 90498,
