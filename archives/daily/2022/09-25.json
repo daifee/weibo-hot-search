@@ -1,7 +1,23 @@
 {
   "startTime": 1664037122905,
-  "endTime": 1664062975629,
+  "endTime": 1664073226226,
   "band_list": [
+    {
+      "raw_hot": 3259105,
+      "num": 417677,
+      "word": "章泽天怀孕随刘强东明州逛超市",
+      "onboard_time": 1664070383,
+      "rank": 10,
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 2467547,
+      "num": 719872,
+      "word": "卫生巾不用黑袋子装也没关系",
+      "onboard_time": 1664064742,
+      "rank": 3,
+      "category": "情感"
+    },
     {
       "raw_hot": 2133060,
       "num": 2133060,
@@ -11,11 +27,43 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1735562,
+      "num": 1735562,
+      "word": "辉瑞CEO新冠检测再次阳性",
+      "onboard_time": 1664068884,
+      "rank": 0,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1096546,
       "num": 1096546,
       "word": "日本将用网红宣传福岛食品",
       "onboard_time": 1664035944,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 991343,
+      "num": 719011,
+      "word": "被iPhone14收割的黄牛",
+      "onboard_time": 1664071765,
+      "rank": 4,
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 800233,
+      "num": 800233,
+      "word": "教育局回应家长花万元给全班换桌椅",
+      "onboard_time": 1664061617,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 709792,
+      "num": 709792,
+      "word": "学校旁早餐铺粥杯印脏话",
+      "onboard_time": 1664065224,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -27,6 +75,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 642133,
+      "num": 642133,
+      "word": "为什么吃得不多但体重下不来",
+      "onboard_time": 1664066483,
+      "rank": 6,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 573667,
       "num": 573667,
       "word": "大妈带活鱼坐高铁被阻当场摔死鱼",
@@ -35,12 +91,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 521859,
+      "num": 521859,
+      "word": "长相思",
+      "onboard_time": 1664061738,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 494206,
       "num": 494206,
       "word": "河南大学也曾名为中山大学",
       "onboard_time": 1664036782,
       "rank": 39,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 427500,
+      "num": 427500,
+      "word": "盲人妈妈将儿子买来吃的豆子种成豆芽去卖",
+      "onboard_time": 1664066243,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 407351,
+      "num": 407351,
+      "word": "5岁不会用筷子吃饭可能是孤独症",
+      "onboard_time": 1664070145,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 402523,
+      "num": 402523,
+      "word": "网飞版三体首支片花",
+      "onboard_time": 1664067323,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 373168,
@@ -57,6 +145,14 @@
       "onboard_time": 1664021248,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299025,
+      "num": 299025,
+      "word": "这宠物医院也太高级了",
+      "onboard_time": 1664067625,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 299009,
@@ -155,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228322,
+      "num": 228322,
+      "word": "9月24日新增本土确诊159例",
+      "onboard_time": 1664068645,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228201,
       "num": 228201,
       "word": "85花古装剧原声率",
@@ -163,12 +267,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 219360,
-      "num": 219360,
-      "word": "长相思",
-      "onboard_time": 1664061738,
-      "rank": 46,
-      "category": "影视"
+      "raw_hot": 214678,
+      "num": 214678,
+      "word": "提离职后放飞自我真的很爽",
+      "onboard_time": 1664064322,
+      "rank": 17,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 214637,
+      "num": 214637,
+      "word": "乾隆有个旅行箱可随时变成办公桌",
+      "onboard_time": 1664026648,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 211556,
@@ -179,12 +291,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 206471,
-      "num": 206471,
-      "word": "乾隆有个旅行箱可随时变成办公桌",
-      "onboard_time": 1664026648,
+      "raw_hot": 204814,
+      "num": 204814,
+      "word": "吃火锅时的高频词汇",
+      "onboard_time": 1664060776,
       "rank": 25,
-      "category": "综艺"
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 198248,
@@ -201,6 +313,14 @@
       "onboard_time": 1664056692,
       "rank": 47,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 193992,
+      "num": 193992,
+      "word": "孩子这菜办得挺好的",
+      "onboard_time": 1664067925,
+      "rank": 20,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 186031,
@@ -235,14 +355,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 166389,
-      "num": 166389,
-      "word": "教育局回应家长花万元给全班换桌椅",
-      "onboard_time": 1664061617,
-      "rank": 48,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 156804,
       "num": 156804,
       "word": "1年级男孩4分钟洗漱完独自晨读",
@@ -251,12 +363,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146855,
-      "num": 146855,
-      "word": "吃火锅时的高频词汇",
-      "onboard_time": 1664060776,
-      "rank": 25,
-      "category": "美食,幽默"
+      "raw_hot": 137254,
+      "num": 137254,
+      "word": "地铁西安站将于2022年9月25日开通运营",
+      "onboard_time": 1664051170,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134491,
@@ -307,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117323,
+      "num": 117323,
+      "word": "狗子马路上练滑板狗主骑车随行",
+      "onboard_time": 1664071286,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116175,
       "num": 113748,
       "word": "王一博街舞5打篮球",
@@ -339,11 +459,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 112413,
-      "num": 112413,
-      "word": "地铁西安站将于2022年9月25日开通运营",
-      "onboard_time": 1664051170,
-      "rank": 43,
+      "raw_hot": 112057,
+      "num": 112057,
+      "word": "9月24日新增本土无症状601例",
+      "onboard_time": 1664068945,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -355,12 +475,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108844,
+      "num": 108844,
+      "word": "宝妈称医院误将针掉孩子胃中",
+      "onboard_time": 1664072605,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105735,
       "num": 105735,
       "word": "男子被黑熊袭击致26处重伤",
       "onboard_time": 1664023407,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105479,
+      "num": 105479,
+      "word": "月经期间身体在经历什么",
+      "onboard_time": 1664072907,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 98874,
@@ -371,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93035,
+      "num": 93035,
+      "word": "突然觉得好不配小狗的爱",
+      "onboard_time": 1664072787,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 90498,
       "num": 90498,
       "word": "香港纪律部队首次联合展演中式步操",
@@ -379,12 +523,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90117,
+      "num": 90117,
+      "word": "捷克0比4葡萄牙",
+      "onboard_time": 1664063120,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88131,
       "num": 88131,
       "word": "永乐大典到底有多大",
       "onboard_time": 1664019385,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 85577,
+      "num": 85577,
+      "word": "我国再次成功发射一箭双星",
+      "onboard_time": 1664063359,
+      "rank": 41,
+      "category": "科技,国内要闻"
     },
     {
       "raw_hot": 83418,
@@ -411,6 +571,22 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 78528,
+      "num": 78528,
+      "word": "辽宁舰高清震撼大图",
+      "onboard_time": 1664071947,
+      "rank": 43,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 77639,
+      "num": 77639,
+      "word": "河南大学110周年校庆",
+      "onboard_time": 1664069846,
+      "rank": 44,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 77106,
       "num": 77106,
       "word": "上海明确户外招牌可展示个性创意",
@@ -433,6 +609,14 @@
       "onboard_time": 1664027667,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 68774,
+      "num": 68774,
+      "word": "29岁尿毒症小伙义务陪他人看病",
+      "onboard_time": 1664073024,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 68720,
@@ -507,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58282,
+      "num": 58282,
+      "word": "牧野家族",
+      "onboard_time": 1664070865,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 49699,
       "num": 49699,
       "word": "河南大学110岁了",
@@ -516,7 +708,7 @@
     },
     {
       "raw_hot": 44952,
-      "num": 619539,
+      "num": 725813,
       "word": "太空视角看丰收有多美",
       "onboard_time": 1664013324,
       "rank": 2,
