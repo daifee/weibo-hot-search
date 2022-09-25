@@ -1,6 +1,6 @@
 {
   "startTime": 1664037122905,
-  "endTime": 1664090572771,
+  "endTime": 1664091529653,
   "band_list": [
     {
       "raw_hot": 3580765,
@@ -131,20 +131,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 663697,
+      "num": 663697,
+      "word": "男子常熬夜加重牙周炎致牙齿掉光",
+      "onboard_time": 1664086888,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 642133,
       "num": 642133,
       "word": "为什么吃得不多但体重下不来",
       "onboard_time": 1664066483,
       "rank": 6,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 619437,
-      "num": 619437,
-      "word": "男子常熬夜加重牙周炎致牙齿掉光",
-      "onboard_time": 1664086888,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 615016,
@@ -187,6 +187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 513209,
+      "num": 513209,
+      "word": "陈哲远吻戏好会亲",
+      "onboard_time": 1664089046,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 506883,
       "num": 474751,
       "word": "容祖儿给张翰拍照演我",
@@ -217,14 +225,6 @@
       "onboard_time": 1664072787,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 436190,
-      "num": 436190,
-      "word": "陈哲远吻戏好会亲",
-      "onboard_time": 1664089046,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 427500,
@@ -299,6 +299,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 362402,
+      "num": 362402,
+      "word": "秋季高级感穿搭",
+      "onboard_time": 1664087725,
+      "rank": 24,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 361264,
       "num": 361264,
       "word": "俩零零后造假币获利1.4万被判刑10年",
@@ -353,14 +361,6 @@
       "onboard_time": 1664078906,
       "rank": 23,
       "category": "科技"
-    },
-    {
-      "raw_hot": 301520,
-      "num": 301520,
-      "word": "秋季高级感穿搭",
-      "onboard_time": 1664087725,
-      "rank": 24,
-      "category": "时尚"
     },
     {
       "raw_hot": 299025,
@@ -473,6 +473,14 @@
       "onboard_time": 1664032947,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 272304,
+      "num": 272304,
+      "word": "奶奶翻出父母84年前婚纱照颜值惊艳",
+      "onboard_time": 1664090364,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 252473,
@@ -635,6 +643,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 203819,
+      "num": 203819,
+      "word": "诺安基金原总经理奥成文被查",
+      "onboard_time": 1664089046,
+      "rank": 29,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 199314,
       "num": 199314,
       "word": "市监局通报黄豆酱事件厂家检查情况",
@@ -699,6 +715,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 179621,
+      "num": 179621,
+      "word": "檀健次相柳白衣氛围感视频",
+      "onboard_time": 1664091264,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 179543,
       "num": 179543,
       "word": "请君更新续上",
@@ -721,6 +745,14 @@
       "onboard_time": 1664029107,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 168350,
+      "num": 168350,
+      "word": "小伙买植物收到卖家63页PPT",
+      "onboard_time": 1664090485,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166601,
@@ -753,14 +785,6 @@
       "onboard_time": 1664018190,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152197,
-      "num": 152197,
-      "word": "诺安基金原总经理奥成文被查",
-      "onboard_time": 1664089046,
-      "rank": 29,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 148602,
@@ -915,6 +939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 112349,
+      "num": 112349,
+      "word": "羊了个羊创始人毕业于长治学院",
+      "onboard_time": 1664090905,
+      "rank": 33,
+      "category": "游戏,社会新闻"
+    },
+    {
       "raw_hot": 112057,
       "num": 112057,
       "word": "9月24日新增本土无症状601例",
@@ -961,14 +993,6 @@
       "onboard_time": 1664035166,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 94482,
-      "num": 94482,
-      "word": "奶奶翻出父母84年前婚纱照颜值惊艳",
-      "onboard_time": 1664090364,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 90764,
@@ -1033,14 +1057,6 @@
       "onboard_time": 1664023288,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 80191,
-      "num": 80191,
-      "word": "小伙买植物收到卖家63页PPT",
-      "onboard_time": 1664090485,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 79240,
