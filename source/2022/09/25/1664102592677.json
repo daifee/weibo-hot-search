@@ -1,0 +1,410 @@
+{
+  "runTime": 1664102592677,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1645757,
+        "num": 1645757,
+        "word": "羊了个羊创始人被母校制展牌宣传",
+        "onboard_time": 1664084485,
+        "rank": 0,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 1437436,
+        "num": 1437436,
+        "word": "韩总统雨中撑伞不顾老婆被嘲",
+        "onboard_time": 1664097504,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12835,
+        "num": 1333848,
+        "word": "太空视角看丰收有多美",
+        "onboard_time": 1664013324,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1238467,
+        "num": 1238467,
+        "word": "男子误花10元私房钱气到攥紧拳头",
+        "onboard_time": 1664096126,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606212,
+        "num": 606212,
+        "word": "女子骨折借用外甥女扭扭车代步",
+        "onboard_time": 1664099246,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582888,
+        "num": 582888,
+        "word": "月经期间身体在经历什么",
+        "onboard_time": 1664072907,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 496423,
+        "num": 496423,
+        "word": "小说里走出来的男主",
+        "onboard_time": 1664100984,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 414040,
+        "num": 414040,
+        "word": "金智秀人歌ending",
+        "onboard_time": 1664099664,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394949,
+        "num": 394949,
+        "word": "奶奶翻出父母84年前婚纱照颜值惊艳",
+        "onboard_time": 1664090364,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371154,
+        "num": 371154,
+        "word": "杨紫小夭红衣be氛围感",
+        "onboard_time": 1664093846,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 667085,
+        "num": 357550,
+        "word": "张翰回忆一起来看流星雨",
+        "onboard_time": 1664092887,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 528077,
+        "num": 351260,
+        "word": "小学开性教育课男生上台学用卫生巾",
+        "onboard_time": 1664093966,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 382262,
+        "num": 344642,
+        "word": "章泽天怀孕随刘强东明州逛超市",
+        "onboard_time": 1664070383,
+        "rank": 12,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 334522,
+        "num": 334522,
+        "word": "卫生巾不用黑袋子装也没关系",
+        "onboard_time": 1664064742,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 322706,
+        "num": 322706,
+        "word": "威马年亏82亿创始人年薪12亿",
+        "onboard_time": 1664099966,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 311978,
+        "num": 311978,
+        "word": "于登登把休书写成情书",
+        "onboard_time": 1664098104,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 290498,
+        "num": 290498,
+        "word": "羊了个羊创始人毕业于长治学院",
+        "onboard_time": 1664090905,
+        "rank": 16,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 255279,
+        "num": 255279,
+        "word": "iPadPro2022或支持无线充电",
+        "onboard_time": 1664101165,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 232975,
+        "num": 232975,
+        "word": "原来我每次挨骂是这个流程",
+        "onboard_time": 1664099603,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 221922,
+        "num": 221922,
+        "word": "王一博展示自己画的战斗机",
+        "onboard_time": 1664094145,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218951,
+        "num": 218951,
+        "word": "老妇深居简出佯装遛狗贩毒",
+        "onboard_time": 1664095224,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209341,
+        "num": 209341,
+        "word": "今晚可以看中国女排了",
+        "onboard_time": 1664097262,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206317,
+        "num": 206317,
+        "word": "足疗店员工90度躬身单膝跪地迎客",
+        "onboard_time": 1664093905,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194866,
+        "num": 194866,
+        "word": "王毅在联合国大会谈两岸统一",
+        "onboard_time": 1664095763,
+        "rank": 23,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 184469,
+        "num": 184469,
+        "word": "肖战影视剧原声率",
+        "onboard_time": 1664091985,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166331,
+        "num": 166331,
+        "word": "王俊凯成朗讲英语",
+        "onboard_time": 1664098705,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154331,
+        "num": 154331,
+        "word": "基普乔格打破马拉松世界纪录",
+        "onboard_time": 1664098286,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151638,
+        "num": 151638,
+        "word": "虞书欣张彬彬擦头发名场面",
+        "onboard_time": 1664101945,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148062,
+        "num": 148062,
+        "word": "小伙买植物收到卖家63页PPT",
+        "onboard_time": 1664090485,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144594,
+        "num": 144594,
+        "word": "男子常熬夜加重牙周炎致牙齿掉光",
+        "onboard_time": 1664086888,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147771,
+        "num": 144590,
+        "word": "徐冬冬想参加下一季脱口秀大会",
+        "onboard_time": 1664098104,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144572,
+        "num": 144572,
+        "word": "教育局通报教师言语骚扰女学生",
+        "onboard_time": 1664101705,
+        "rank": 31,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 131515,
+        "num": 131515,
+        "word": "蔡徐坤奔跑吧抢喜糖",
+        "onboard_time": 1664092106,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123918,
+        "num": 123918,
+        "word": "陈哲远吻戏好会亲",
+        "onboard_time": 1664089046,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121066,
+        "num": 121066,
+        "word": "S12选手评分揭秘",
+        "onboard_time": 1664101343,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118891,
+        "num": 118891,
+        "word": "原来小猫咪才是水做的",
+        "onboard_time": 1664092764,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118182,
+        "num": 118182,
+        "word": "秋季高级感穿搭",
+        "onboard_time": 1664087725,
+        "rank": 36,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 111926,
+        "num": 111926,
+        "word": "我的快乐是王鹤棣杨迪给的",
+        "onboard_time": 1664089468,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107257,
+        "num": 107257,
+        "word": "休假的东风快递员撂下碗爬楼救火",
+        "onboard_time": 1664098887,
+        "rank": 38,
+        "category": "社会正能量,军事"
+      },
+      {
+        "raw_hot": 90890,
+        "num": 90890,
+        "word": "女子直播间抽中杯子寄来3次都碎了",
+        "onboard_time": 1664082445,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94174,
+        "num": 90180,
+        "word": "南风知我意",
+        "onboard_time": 1664074826,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 87092,
+        "num": 87092,
+        "word": "龚俊为海西新鲜血液打call",
+        "onboard_time": 1664097385,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76173,
+        "num": 76173,
+        "word": "17岁孤独症少年苦练钢琴屡获奖",
+        "onboard_time": 1664094567,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 70855,
+        "num": 70855,
+        "word": "如何教一只猫猫小手开花",
+        "onboard_time": 1664087366,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 69127,
+        "num": 69127,
+        "word": "被iPhone14收割的黄牛",
+        "onboard_time": 1664071765,
+        "rank": 44,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 67679,
+        "num": 67679,
+        "word": "朋友为了让我摆脱轮椅",
+        "onboard_time": 1664095942,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 64454,
+        "num": 64454,
+        "word": "高速被追尾6人直接原地歇了",
+        "onboard_time": 1664079384,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59172,
+        "num": 59172,
+        "word": "世锦赛中国女排首秀对阵阿根廷",
+        "onboard_time": 1664097085,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59006,
+        "num": 59006,
+        "word": "楼下老人控诉太吵孩子用小奶音道歉",
+        "onboard_time": 1664081666,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56767,
+        "num": 56767,
+        "word": "伊卡尔迪净身出户",
+        "onboard_time": 1664083046,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大时光#"
+    }
+  }
+}
