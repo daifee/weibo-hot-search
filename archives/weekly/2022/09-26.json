@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664148338737,
+  "endTime": 1664149392125,
   "band_list": [
     {
       "raw_hot": 2585281,
@@ -27,16 +27,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 689884,
-      "num": 689884,
+      "raw_hot": 822526,
+      "num": 822526,
       "word": "漂亮女子突然体重暴增变丑查出脑瘤",
       "onboard_time": 1664114371,
       "rank": 4,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 666446,
-      "num": 666446,
+      "raw_hot": 797340,
+      "num": 797340,
       "word": "丈夫成植物人妻子起诉离婚获准",
       "onboard_time": 1664122524,
       "rank": 23,
@@ -49,6 +49,22 @@
       "onboard_time": 1664108967,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 400705,
+      "num": 400705,
+      "word": "辉瑞CEO已打4针自家新冠疫苗",
+      "onboard_time": 1664137811,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 383280,
+      "num": 383280,
+      "word": "90后小伙破产欠50万卖花生挣百万",
+      "onboard_time": 1664112329,
+      "rank": 8,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 376278,
@@ -67,22 +83,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 357439,
-      "num": 357439,
-      "word": "90后小伙破产欠50万卖花生挣百万",
-      "onboard_time": 1664112329,
-      "rank": 8,
-      "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 313567,
-      "num": 313567,
-      "word": "辉瑞CEO已打4针自家新冠疫苗",
-      "onboard_time": 1664137811,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 311616,
       "num": 311616,
       "word": "小说里走出来的男主",
@@ -91,20 +91,36 @@
       "category": "影视"
     },
     {
-      "raw_hot": 294966,
-      "num": 294966,
+      "raw_hot": 308123,
+      "num": 308123,
+      "word": "三艘航母达到人民海军作战最低需求",
+      "onboard_time": 1664126177,
+      "rank": 45,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 307051,
+      "num": 307051,
       "word": "四川一火锅店回收老油炒制底料",
       "onboard_time": 1664142492,
       "rank": 26,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 268146,
-      "num": 268146,
-      "word": "三艘航母达到人民海军作战最低需求",
-      "onboard_time": 1664126177,
-      "rank": 45,
-      "category": "军事"
+      "raw_hot": 288822,
+      "num": 288822,
+      "word": "再起不来就不礼貌了",
+      "onboard_time": 1664115393,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 287116,
+      "num": 287116,
+      "word": "民警检查遇一车5人就司机没驾驶证",
+      "onboard_time": 1664127256,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 263727,
@@ -123,20 +139,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 233028,
+      "num": 233028,
+      "word": "印度185万头牛感染牛块状皮肤病",
+      "onboard_time": 1664139312,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231016,
       "num": 231016,
       "word": "这外语水平比我厉害多了",
       "onboard_time": 1664116773,
       "rank": 10,
       "category": "情感"
-    },
-    {
-      "raw_hot": 228474,
-      "num": 228474,
-      "word": "民警检查遇一车5人就司机没驾驶证",
-      "onboard_time": 1664127256,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 228212,
@@ -155,12 +171,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 211021,
-      "num": 211021,
-      "word": "再起不来就不礼貌了",
-      "onboard_time": 1664115393,
-      "rank": 18,
-      "category": "幽默"
+      "raw_hot": 217957,
+      "num": 217957,
+      "word": "重庆一永辉超市保质期内蛋糕发霉",
+      "onboard_time": 1664134090,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202572,
@@ -169,6 +185,14 @@
       "onboard_time": 1664115869,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199363,
+      "num": 199363,
+      "word": "小猪高速被撞卡进保险杠",
+      "onboard_time": 1664143092,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193049,
@@ -187,6 +211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190180,
+      "num": 190180,
+      "word": "特鲁多取消出席安倍国葬",
+      "onboard_time": 1664125639,
+      "rank": 39,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 187565,
       "num": 187565,
       "word": "王鹤棣新闻当事人专访",
@@ -195,27 +227,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 183287,
-      "num": 183287,
-      "word": "重庆一永辉超市保质期内蛋糕发霉",
-      "onboard_time": 1664134090,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 182438,
       "num": 182438,
       "word": "刷手机会让记忆力下降",
       "onboard_time": 1664107646,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 178388,
-      "num": 178388,
-      "word": "印度185万头牛感染牛块状皮肤病",
-      "onboard_time": 1664139312,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -227,28 +243,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 171716,
-      "num": 171716,
-      "word": "特鲁多取消出席安倍国葬",
-      "onboard_time": 1664125639,
-      "rank": 39,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 165227,
-      "num": 165227,
-      "word": "小猪高速被撞卡进保险杠",
-      "onboard_time": 1664143092,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164143,
       "num": 159531,
       "word": "请君的虐都被小沈阳治好了",
       "onboard_time": 1664115573,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 160527,
+      "num": 160527,
+      "word": "毒蛇咬伤散步男子民警将速度拉满",
+      "onboard_time": 1664137811,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159582,
@@ -267,20 +275,20 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 154372,
+      "num": 154372,
+      "word": "年轻人算是把装修玩明白了",
+      "onboard_time": 1664109325,
+      "rank": 26,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 143506,
       "num": 143506,
       "word": "杨颖白鹿奔跑吧路透生图",
       "onboard_time": 1664109626,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 142102,
-      "num": 142102,
-      "word": "年轻人算是把装修玩明白了",
-      "onboard_time": 1664109325,
-      "rank": 26,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 138974,
@@ -299,6 +307,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 132436,
+      "num": 132436,
+      "word": "昆明2例新冠初筛阳性活动轨迹",
+      "onboard_time": 1664142131,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129125,
+      "num": 129125,
+      "word": "这就是宠物界的三甲医院吧",
+      "onboard_time": 1664122224,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 126015,
       "num": 126015,
       "word": "真的要好好热爱生活啊",
@@ -307,20 +331,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 125349,
-      "num": 125349,
-      "word": "毒蛇咬伤散步男子民警将速度拉满",
-      "onboard_time": 1664137811,
-      "rank": 46,
+      "raw_hot": 122301,
+      "num": 122301,
+      "word": "辽宁舰首批舰员给孩子取名多带航字",
+      "onboard_time": 1664127794,
+      "rank": 27,
+      "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 115467,
+      "num": 115467,
+      "word": "坐地铁公交长时间戴耳机或损伤听力",
+      "onboard_time": 1664148082,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 125280,
-      "num": 125280,
-      "word": "这就是宠物界的三甲医院吧",
-      "onboard_time": 1664122224,
-      "rank": 36,
-      "category": "情感"
+      "raw_hot": 110160,
+      "num": 110160,
+      "word": "北京的枫叶红了",
+      "onboard_time": 1664141350,
+      "rank": 46,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 106551,
@@ -331,20 +363,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 102119,
-      "num": 102119,
-      "word": "昆明2例新冠初筛阳性活动轨迹",
-      "onboard_time": 1664142131,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 101265,
-      "num": 101265,
-      "word": "辽宁舰首批舰员给孩子取名多带航字",
-      "onboard_time": 1664127794,
-      "rank": 27,
-      "category": "军事,社会新闻"
+      "raw_hot": 103890,
+      "num": 103890,
+      "word": "WB晋级挑杯半决赛",
+      "onboard_time": 1664147420,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 101186,
@@ -387,12 +411,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 90968,
-      "num": 90968,
-      "word": "北京的枫叶红了",
-      "onboard_time": 1664141350,
-      "rank": 46,
-      "category": "旅游,社会新闻"
+      "raw_hot": 90464,
+      "num": 90464,
+      "word": "长相思",
+      "onboard_time": 1664148683,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 81599,
@@ -408,6 +432,22 @@
       "word": "上海黄浦江畔的鳄鱼抓到了",
       "onboard_time": 1664110767,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78260,
+      "num": 78260,
+      "word": "网传大宋少年志2将开机",
+      "onboard_time": 1664147360,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 76648,
+      "num": 76648,
+      "word": "女子骨折借用外甥女扭扭车代步",
+      "onboard_time": 1664099246,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -435,14 +475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 69349,
-      "num": 69349,
-      "word": "女子骨折借用外甥女扭扭车代步",
-      "onboard_time": 1664099246,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 69239,
       "num": 69239,
       "word": "上海消费券",
@@ -451,20 +483,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69047,
+      "num": 69047,
+      "word": "金智秀ShutDown直拍",
+      "onboard_time": 1664130853,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 67474,
+      "num": 67474,
+      "word": "当农大学生的毕业论文被吃掉",
+      "onboard_time": 1664141532,
+      "rank": 45,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 66936,
       "num": 66936,
       "word": "幼儿园老师的大大烦恼",
       "onboard_time": 1664114552,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 66372,
-      "num": 66372,
-      "word": "WB晋级挑杯半决赛",
-      "onboard_time": 1664147420,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 65966,
@@ -491,20 +531,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61307,
+      "num": 61307,
+      "word": "张杰银河方舟音乐节",
+      "onboard_time": 1664120727,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 52921,
       "num": 52921,
       "word": "威马年亏82亿创始人年薪12亿",
       "onboard_time": 1664099966,
       "rank": 46,
       "category": "财经"
-    },
-    {
-      "raw_hot": 50911,
-      "num": 50911,
-      "word": "金智秀ShutDown直拍",
-      "onboard_time": 1664130853,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 48655,
@@ -529,22 +569,6 @@
       "onboard_time": 1664096126,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46580,
-      "num": 46580,
-      "word": "坐地铁公交长时间戴耳机或损伤听力",
-      "onboard_time": 1664148082,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 45666,
-      "num": 45666,
-      "word": "张杰银河方舟音乐节",
-      "onboard_time": 1664120727,
-      "rank": 42,
-      "category": "音乐"
     },
     {
       "raw_hot": 18058,
@@ -579,20 +603,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 12038,
+      "num": 798801,
+      "word": "太空视角看丰收有多美",
+      "onboard_time": 1664013324,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 10756,
       "num": 10756,
       "word": "仓鼠都比我自律",
       "onboard_time": 1664133073,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 10514,
-      "num": 701234,
-      "word": "太空视角看丰收有多美",
-      "onboard_time": 1664013324,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 9718,
@@ -649,14 +673,6 @@
       "onboard_time": 1664137631,
       "rank": 48,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 5522,
-      "num": 5522,
-      "word": "当农大学生的毕业论文被吃掉",
-      "onboard_time": 1664141532,
-      "rank": 45,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 5508,
