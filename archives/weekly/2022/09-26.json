@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664133561287,
+  "endTime": 1664134522874,
   "band_list": [
     {
       "raw_hot": 2585281,
@@ -475,12 +475,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 10816,
-      "num": 10816,
+      "raw_hot": 13857,
+      "num": 13857,
       "word": "超级加辈的衣服",
       "onboard_time": 1664133312,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 10756,
+      "num": 10756,
+      "word": "仓鼠都比我自律",
+      "onboard_time": 1664133073,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 9718,
@@ -491,16 +499,16 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 8815,
-      "num": 8815,
-      "word": "仓鼠都比我自律",
-      "onboard_time": 1664133073,
+      "raw_hot": 9615,
+      "num": 9615,
+      "word": "重庆一永辉超市保质期内蛋糕发霉",
+      "onboard_time": 1664134090,
       "rank": 46,
-      "category": "幽默"
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 7425,
-      "num": 7425,
+      "raw_hot": 8170,
+      "num": 8170,
       "word": "保持感知力有多重要",
       "onboard_time": 1664133190,
       "rank": 49,

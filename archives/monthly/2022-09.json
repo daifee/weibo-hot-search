@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1664133561287,
+  "endTime": 1664134522874,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -49635,6 +49635,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 13857,
+      "num": 13857,
+      "word": "超级加辈的衣服",
+      "onboard_time": 1664133312,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 13813,
       "num": 13813,
       "word": "2022男排世锦赛",
@@ -49731,12 +49739,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 10816,
-      "num": 10816,
-      "word": "超级加辈的衣服",
-      "onboard_time": 1664133312,
-      "rank": 45,
-      "category": "情感"
+      "raw_hot": 10756,
+      "num": 10756,
+      "word": "仓鼠都比我自律",
+      "onboard_time": 1664133073,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 10748,
@@ -49843,20 +49851,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 9615,
+      "num": 9615,
+      "word": "重庆一永辉超市保质期内蛋糕发霉",
+      "onboard_time": 1664134090,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 9303,
       "num": 9303,
       "word": "这些食物别生吃了",
       "onboard_time": 1663960092,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8815,
-      "num": 8815,
-      "word": "仓鼠都比我自律",
-      "onboard_time": 1664133073,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 8649,
@@ -49907,6 +49915,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 8170,
+      "num": 8170,
+      "word": "保持感知力有多重要",
+      "onboard_time": 1664133190,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 8070,
       "num": 504083,
       "word": "原神甘雨心海复刻",
@@ -49945,14 +49961,6 @@
       "onboard_time": 1663274171,
       "rank": 43,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 7425,
-      "num": 7425,
-      "word": "保持感知力有多重要",
-      "onboard_time": 1664133190,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 7383,
