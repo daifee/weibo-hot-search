@@ -1,0 +1,410 @@
+{
+  "runTime": 1664105868251,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1366153,
+        "num": 1366153,
+        "word": "韩总统雨中撑伞不顾老婆被嘲",
+        "onboard_time": 1664097504,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1283143,
+        "num": 1283143,
+        "word": "羊了个羊创始人被母校制展牌宣传",
+        "onboard_time": 1664084485,
+        "rank": 1,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 11846,
+        "num": 1205650,
+        "word": "太空视角看丰收有多美",
+        "onboard_time": 1664013324,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1197474,
+        "num": 1197474,
+        "word": "小说里走出来的男主",
+        "onboard_time": 1664100984,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 803426,
+        "num": 803426,
+        "word": "女子骨折借用外甥女扭扭车代步",
+        "onboard_time": 1664099246,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 662482,
+        "num": 662482,
+        "word": "教育局通报教师言语骚扰女学生",
+        "onboard_time": 1664101705,
+        "rank": 5,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 597249,
+        "num": 597249,
+        "word": "男子误花10元私房钱气到攥紧拳头",
+        "onboard_time": 1664096126,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 574308,
+        "num": 574308,
+        "word": "iPadPro2022或支持无线充电",
+        "onboard_time": 1664101165,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 485407,
+        "num": 485407,
+        "word": "杨紫长相思剧本围读vlog",
+        "onboard_time": 1664105124,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 424116,
+        "num": 424116,
+        "word": "月经期间身体在经历什么",
+        "onboard_time": 1664072907,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 507478,
+        "num": 421500,
+        "word": "小学开性教育课男生上台学用卫生巾",
+        "onboard_time": 1664093966,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 442049,
+        "num": 420165,
+        "word": "张翰回忆一起来看流星雨",
+        "onboard_time": 1664092887,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 395764,
+        "num": 395764,
+        "word": "李沁说求婚只有0次和无数次",
+        "onboard_time": 1664105186,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 357293,
+        "num": 357293,
+        "word": "Lisa人歌ending",
+        "onboard_time": 1664103146,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 6984,
+        "num": 325403,
+        "word": "火锅界的天花板是谁",
+        "onboard_time": 1664103625,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 320956,
+        "num": 320956,
+        "word": "刘耀文张真源严浩翔瑜预告海报",
+        "onboard_time": 1664103204,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 311991,
+        "num": 311991,
+        "word": "威马年亏82亿创始人年薪12亿",
+        "onboard_time": 1664099966,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 289343,
+        "num": 289343,
+        "word": "章泽天怀孕随刘强东明州逛超市",
+        "onboard_time": 1664070383,
+        "rank": 17,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 236931,
+        "num": 236931,
+        "word": "奶奶翻出父母84年前婚纱照颜值惊艳",
+        "onboard_time": 1664090364,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215911,
+        "num": 215911,
+        "word": "原来我每次挨骂是这个流程",
+        "onboard_time": 1664099603,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 317467,
+        "num": 215271,
+        "word": "我们的歌",
+        "onboard_time": 1664104164,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278902,
+        "num": 213665,
+        "word": "王俊凯电影万里归途台词爆发力",
+        "onboard_time": 1664105724,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275220,
+        "num": 209848,
+        "word": "赵露思的加油好甜",
+        "onboard_time": 1664102666,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202694,
+        "num": 202694,
+        "word": "羊了个羊创始人毕业于长治学院",
+        "onboard_time": 1664090905,
+        "rank": 23,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 194167,
+        "num": 194167,
+        "word": "卫生巾不用黑袋子装也没关系",
+        "onboard_time": 1664064742,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 274503,
+        "num": 192926,
+        "word": "于登登把休书写成情书",
+        "onboard_time": 1664098104,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187526,
+        "num": 187526,
+        "word": "外语课时明显低于语文等学科",
+        "onboard_time": 1664103385,
+        "rank": 26,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 163445,
+        "num": 163445,
+        "word": "波兰发生多起涂黑石头冒充煤炭事件",
+        "onboard_time": 1664104466,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163394,
+        "num": 163394,
+        "word": "老妇深居简出佯装遛狗贩毒",
+        "onboard_time": 1664095224,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139326,
+        "num": 139326,
+        "word": "讨厌带娃的狗狗",
+        "onboard_time": 1664104045,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 269049,
+        "num": 138861,
+        "word": "刘诗诗为万里归途宣传",
+        "onboard_time": 1664104646,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198599,
+        "num": 138178,
+        "word": "金智秀人歌ending",
+        "onboard_time": 1664099664,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180367,
+        "num": 137529,
+        "word": "王一博展示自己画的战斗机",
+        "onboard_time": 1664094145,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135511,
+        "num": 135511,
+        "word": "足疗店员工90度躬身单膝跪地迎客",
+        "onboard_time": 1664093905,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125038,
+        "num": 125038,
+        "word": "王毅在联合国大会谈两岸统一",
+        "onboard_time": 1664095763,
+        "rank": 34,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 123684,
+        "num": 123684,
+        "word": "小伙买植物收到卖家63页PPT",
+        "onboard_time": 1664090485,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117671,
+        "num": 117671,
+        "word": "S12选手评分揭秘",
+        "onboard_time": 1664101343,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 112294,
+        "num": 112294,
+        "word": "休假的东风快递员撂下碗爬楼救火",
+        "onboard_time": 1664098887,
+        "rank": 37,
+        "category": "社会正能量,军事"
+      },
+      {
+        "raw_hot": 110700,
+        "num": 110700,
+        "word": "原来小猫咪才是水做的",
+        "onboard_time": 1664092764,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105875,
+        "num": 105875,
+        "word": "男子常熬夜加重牙周炎致牙齿掉光",
+        "onboard_time": 1664086888,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143888,
+        "num": 101315,
+        "word": "为断臂男孩开路的骑警娜扎好飒",
+        "onboard_time": 1664104705,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139378,
+        "num": 100461,
+        "word": "虞书欣张彬彬擦头发名场面",
+        "onboard_time": 1664101945,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132192,
+        "num": 99642,
+        "word": "肖战影视剧原声率",
+        "onboard_time": 1664091985,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 95736,
+        "num": 95736,
+        "word": "女子网上购买打折珠宝被骗14万",
+        "onboard_time": 1664104764,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91843,
+        "num": 91843,
+        "word": "秋季高级感穿搭",
+        "onboard_time": 1664087725,
+        "rank": 44,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 85130,
+        "num": 85130,
+        "word": "大叔卖棉花糖翻车现场似盘丝洞",
+        "onboard_time": 1664104646,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79653,
+        "num": 79653,
+        "word": "今晚可以看中国女排了",
+        "onboard_time": 1664097262,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73736,
+        "num": 73736,
+        "word": "17岁孤独症少年苦练钢琴屡获奖",
+        "onboard_time": 1664094567,
+        "rank": 47,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 68475,
+        "num": 68475,
+        "word": "基普乔格打破马拉松世界纪录",
+        "onboard_time": 1664098286,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66024,
+        "num": 66024,
+        "word": "男子投喂流浪狗引来祖孙三代",
+        "onboard_time": 1664105186,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大时光#"
+    }
+  }
+}

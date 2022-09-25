@@ -1,6 +1,6 @@
 {
   "startTime": 1664037122905,
-  "endTime": 1664104808441,
+  "endTime": 1664105868251,
   "band_list": [
     {
       "raw_hot": 3580765,
@@ -100,11 +100,19 @@
     },
     {
       "raw_hot": 1226754,
-      "num": 406097,
+      "num": 420165,
       "word": "张翰回忆一起来看流星雨",
       "onboard_time": 1664092887,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1197474,
+      "num": 1197474,
+      "word": "小说里走出来的男主",
+      "onboard_time": 1664100984,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 1165599,
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 954698,
-      "num": 403321,
+      "num": 421500,
       "word": "小学开性教育课男生上台学用卫生巾",
       "onboard_time": 1664093966,
       "rank": 19,
@@ -144,14 +152,6 @@
       "word": "长相思",
       "onboard_time": 1664061738,
       "rank": 46,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 862844,
-      "num": 862844,
-      "word": "小说里走出来的男主",
-      "onboard_time": 1664100984,
-      "rank": 14,
       "category": "影视"
     },
     {
@@ -195,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 662482,
+      "num": 662482,
+      "word": "教育局通报教师言语骚扰女学生",
+      "onboard_time": 1664101705,
+      "rank": 31,
+      "category": "社会负面,教育"
+    },
+    {
       "raw_hot": 643220,
       "num": 643220,
       "word": "杨紫小夭红衣be氛围感",
@@ -235,28 +243,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 573667,
-      "num": 573667,
-      "word": "大妈带活鱼坐高铁被阻当场摔死鱼",
-      "onboard_time": 1664029529,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 570311,
-      "num": 570311,
+      "raw_hot": 574308,
+      "num": 574308,
       "word": "iPadPro2022或支持无线充电",
       "onboard_time": 1664101165,
       "rank": 29,
       "category": "科技"
     },
     {
-      "raw_hot": 557164,
-      "num": 557164,
-      "word": "教育局通报教师言语骚扰女学生",
-      "onboard_time": 1664101705,
-      "rank": 31,
-      "category": "社会负面,教育"
+      "raw_hot": 573667,
+      "num": 573667,
+      "word": "大妈带活鱼坐高铁被阻当场摔死鱼",
+      "onboard_time": 1664029529,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 524221,
@@ -305,6 +305,14 @@
       "onboard_time": 1664036782,
       "rank": 39,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 485407,
+      "num": 485407,
+      "word": "杨紫长相思剧本围读vlog",
+      "onboard_time": 1664105124,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 460990,
@@ -419,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 395764,
+      "num": 395764,
+      "word": "李沁说求婚只有0次和无数次",
+      "onboard_time": 1664105186,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 381941,
       "num": 381941,
       "word": "杨紫晒照告别小夭小六",
@@ -513,6 +529,14 @@
       "onboard_time": 1664081065,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 317467,
+      "num": 258413,
+      "word": "我们的歌",
+      "onboard_time": 1664104164,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 311482,
@@ -643,6 +667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 278902,
+      "num": 213665,
+      "word": "王俊凯电影万里归途台词爆发力",
+      "onboard_time": 1664105724,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 277144,
       "num": 277144,
       "word": "学校回应女学生月考6科霸榜",
@@ -683,6 +715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 269049,
+      "num": 138861,
+      "word": "刘诗诗为万里归途宣传",
+      "onboard_time": 1664104646,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 267938,
       "num": 233646,
       "word": "蔡徐坤奔跑吧抢喜糖",
@@ -697,14 +737,6 @@
       "onboard_time": 1664095224,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 258413,
-      "num": 258413,
-      "word": "我们的歌",
-      "onboard_time": 1664104164,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 252473,
@@ -939,6 +971,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 187526,
+      "num": 187526,
+      "word": "外语课时明显低于语文等学科",
+      "onboard_time": 1664103385,
+      "rank": 36,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 186350,
       "num": 186350,
       "word": "2022柏林马拉松",
@@ -1043,6 +1083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163445,
+      "num": 163445,
+      "word": "波兰发生多起涂黑石头冒充煤炭事件",
+      "onboard_time": 1664104466,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162752,
       "num": 151410,
       "word": "长空之王定档0930",
@@ -1097,6 +1145,14 @@
       "onboard_time": 1664082687,
       "rank": 42,
       "category": "游戏,综艺"
+    },
+    {
+      "raw_hot": 139326,
+      "num": 139326,
+      "word": "讨厌带娃的狗狗",
+      "onboard_time": 1664104045,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 138261,
@@ -1195,14 +1251,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 127550,
-      "num": 102800,
-      "word": "刘诗诗为万里归途宣传",
-      "onboard_time": 1664104646,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 121183,
       "num": 121183,
       "word": "51岁女子考入大学",
@@ -1233,14 +1281,6 @@
       "onboard_time": 1664071286,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117255,
-      "num": 117255,
-      "word": "外语课时明显低于语文等学科",
-      "onboard_time": 1664103385,
-      "rank": 36,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 116175,
@@ -1355,6 +1395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95736,
+      "num": 95736,
+      "word": "女子网上购买打折珠宝被骗14万",
+      "onboard_time": 1664104764,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90764,
       "num": 90764,
       "word": "梦枕貘阴阳师动画化",
@@ -1400,6 +1448,14 @@
       "word": "号称祛斑美白实则汞超标2万倍",
       "onboard_time": 1664088564,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85130,
+      "num": 85130,
+      "word": "大叔卖棉花糖翻车现场似盘丝洞",
+      "onboard_time": 1664104646,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1467,14 +1523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 74313,
-      "num": 74313,
-      "word": "讨厌带娃的狗狗",
-      "onboard_time": 1664104045,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 74054,
       "num": 74054,
       "word": "周深 可爱",
@@ -1512,6 +1560,14 @@
       "word": "木星将与地球进行59年来最亲密接触",
       "onboard_time": 1664019509,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66024,
+      "num": 66024,
+      "word": "男子投喂流浪狗引来祖孙三代",
+      "onboard_time": 1664105186,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1563,36 +1619,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 53274,
-      "num": 53274,
-      "word": "波兰发生多起涂黑石头冒充煤炭事件",
-      "onboard_time": 1664104466,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 50349,
-      "num": 50349,
-      "word": "大叔卖棉花糖翻车现场似盘丝洞",
-      "onboard_time": 1664104646,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 49699,
       "num": 49699,
       "word": "河南大学110岁了",
       "onboard_time": 1664038339,
       "rank": 46,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 48368,
-      "num": 48368,
-      "word": "女子网上购买打折珠宝被骗14万",
-      "onboard_time": 1664104764,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 44952,
