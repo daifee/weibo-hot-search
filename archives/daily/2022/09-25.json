@@ -1,17 +1,17 @@
 {
   "startTime": 1664037122905,
-  "endTime": 1664073226226,
+  "endTime": 1664075625062,
   "band_list": [
     {
       "raw_hot": 3259105,
-      "num": 417677,
+      "num": 457391,
       "word": "章泽天怀孕随刘强东明州逛超市",
       "onboard_time": 1664070383,
       "rank": 10,
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 2467547,
+      "raw_hot": 2630978,
       "num": 719872,
       "word": "卫生巾不用黑袋子装也没关系",
       "onboard_time": 1664064742,
@@ -27,12 +27,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 2070543,
+      "num": 637329,
+      "word": "月经期间身体在经历什么",
+      "onboard_time": 1664072907,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1735562,
       "num": 1735562,
       "word": "辉瑞CEO新冠检测再次阳性",
       "onboard_time": 1664068884,
       "rank": 0,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1323152,
+      "num": 719011,
+      "word": "被iPhone14收割的黄牛",
+      "onboard_time": 1664071765,
+      "rank": 4,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 1096546,
@@ -43,20 +59,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 991343,
-      "num": 719011,
-      "word": "被iPhone14收割的黄牛",
-      "onboard_time": 1664071765,
-      "rank": 4,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 800233,
       "num": 800233,
       "word": "教育局回应家长花万元给全班换桌椅",
       "onboard_time": 1664061617,
       "rank": 48,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 742437,
+      "num": 742437,
+      "word": "长相思",
+      "onboard_time": 1664061738,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 709792,
@@ -83,6 +99,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 577107,
+      "num": 577107,
+      "word": "南风知我意",
+      "onboard_time": 1664074826,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 573667,
       "num": 573667,
       "word": "大妈带活鱼坐高铁被阻当场摔死鱼",
@@ -91,12 +115,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 521859,
-      "num": 521859,
-      "word": "长相思",
-      "onboard_time": 1664061738,
-      "rank": 46,
+      "raw_hot": 524221,
+      "num": 481925,
+      "word": "南风知我意相遇即爱版预告",
+      "onboard_time": 1664074886,
+      "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 497710,
+      "num": 497710,
+      "word": "5岁不会用筷子吃饭可能是孤独症",
+      "onboard_time": 1664070145,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 494206,
@@ -115,20 +147,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 407351,
-      "num": 407351,
-      "word": "5岁不会用筷子吃饭可能是孤独症",
-      "onboard_time": 1664070145,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 402523,
       "num": 402523,
       "word": "网飞版三体首支片花",
       "onboard_time": 1664067323,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 396583,
+      "num": 396583,
+      "word": "宝妈称医院误将针掉孩子胃中",
+      "onboard_time": 1664072605,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 374055,
+      "num": 374055,
+      "word": "突然觉得好不配小狗的爱",
+      "onboard_time": 1664072787,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 373168,
@@ -171,6 +211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 296399,
+      "num": 296399,
+      "word": "29岁尿毒症小伙义务陪他人看病",
+      "onboard_time": 1664073024,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293850,
       "num": 293850,
       "word": "背着6000片卫生巾上大山",
@@ -185,6 +233,14 @@
       "onboard_time": 1664051111,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290641,
+      "num": 290641,
+      "word": "电视剧胡同今日开播",
+      "onboard_time": 1664074465,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 277144,
@@ -211,6 +267,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 264939,
+      "num": 264939,
+      "word": "大爷随手种猕猴桃树结5000个果子",
+      "onboard_time": 1664073626,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250380,
+      "num": 250380,
+      "word": "欧洲人买爆中国电热毯",
+      "onboard_time": 1664074705,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249508,
       "num": 249508,
       "word": "这些不良习惯容易长白头发",
@@ -233,6 +305,14 @@
       "onboard_time": 1664034626,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240211,
+      "num": 240211,
+      "word": "六公主认证任嘉伦请君热度破纪录",
+      "onboard_time": 1664075005,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 231341,
@@ -339,6 +419,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 173073,
+      "num": 173073,
+      "word": "自从我养了一条斗鱼",
+      "onboard_time": 1664073986,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168415,
       "num": 168415,
       "word": "江南百景图绍兴府",
@@ -353,6 +441,14 @@
       "onboard_time": 1664055851,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 158520,
+      "num": 158520,
+      "word": "掏耳朵频次不宜过勤",
+      "onboard_time": 1664074044,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156804,
@@ -393,6 +489,14 @@
       "onboard_time": 1664028506,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 127933,
+      "num": 127933,
+      "word": "杭州骑行的风都是桂花味的",
+      "onboard_time": 1664074826,
+      "rank": 32,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 121183,
@@ -475,28 +579,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 108844,
-      "num": 108844,
-      "word": "宝妈称医院误将针掉孩子胃中",
-      "onboard_time": 1664072605,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 105735,
       "num": 105735,
       "word": "男子被黑熊袭击致26处重伤",
       "onboard_time": 1664023407,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 105479,
-      "num": 105479,
-      "word": "月经期间身体在经历什么",
-      "onboard_time": 1664072907,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 98874,
@@ -507,12 +595,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 93035,
-      "num": 93035,
-      "word": "突然觉得好不配小狗的爱",
-      "onboard_time": 1664072787,
+      "raw_hot": 98489,
+      "num": 98489,
+      "word": "00后用纸折出的龙有1400个鳞片",
+      "onboard_time": 1664075125,
       "rank": 39,
-      "category": "情感"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90498,
@@ -609,14 +697,6 @@
       "onboard_time": 1664027667,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 68774,
-      "num": 68774,
-      "word": "29岁尿毒症小伙义务陪他人看病",
-      "onboard_time": 1664073024,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 68720,
