@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1664109823743,
+  "endTime": 1664111211052,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -2059,6 +2059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2039527,
+      "num": 2039527,
+      "word": "甄嬛传发箍",
+      "onboard_time": 1664106505,
+      "rank": 0,
+      "category": "幽默,影视"
+    },
+    {
       "raw_hot": 2038828,
       "num": 1458756,
       "word": "女子称高铁上来例假买不到卫生巾",
@@ -2889,14 +2897,6 @@
       "onboard_time": 1663304972,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1768475,
-      "num": 1768475,
-      "word": "甄嬛传发箍",
-      "onboard_time": 1664106505,
-      "rank": 0,
-      "category": "幽默,影视"
     },
     {
       "raw_hot": 1766281,
@@ -7459,6 +7459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1025152,
+      "num": 1025152,
+      "word": "上海消费券",
+      "onboard_time": 1664107224,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1025073,
       "num": 729334,
       "word": "重庆长寿区集中隔离场所实行收费管理",
@@ -8505,6 +8513,14 @@
       "onboard_time": 1662022230,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 936145,
+      "num": 936145,
+      "word": "中国水果第一大省有多强",
+      "onboard_time": 1664108967,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 934814,
@@ -9785,6 +9801,14 @@
       "onboard_time": 1663727725,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 849180,
+      "num": 849180,
+      "word": "不要和没可能的人频繁聊天",
+      "onboard_time": 1664107585,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 849004,
@@ -11120,14 +11144,6 @@
       "word": "深圳黄码",
       "onboard_time": 1662262043,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 753953,
-      "num": 753953,
-      "word": "上海消费券",
-      "onboard_time": 1664107224,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -14235,6 +14251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 584566,
+      "num": 584566,
+      "word": "我们的歌",
+      "onboard_time": 1664104164,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 584429,
       "num": 584429,
       "word": "女儿送务农爸爸跑步机让他健身",
@@ -15595,6 +15619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 535615,
+      "num": 535615,
+      "word": "当结了场健康的婚才知道的事",
+      "onboard_time": 1664106505,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 535530,
       "num": 535530,
       "word": "祖传秘方掏耳屎其实是话梅和面粉",
@@ -16945,14 +16977,6 @@
       "onboard_time": 1662723209,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 492111,
-      "num": 492111,
-      "word": "不要和没可能的人频繁聊天",
-      "onboard_time": 1664107585,
-      "rank": 5,
-      "category": "情感"
     },
     {
       "raw_hot": 491818,
@@ -19507,6 +19531,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 426621,
+      "num": 349658,
+      "word": "杨颖白鹿奔跑吧路透生图",
+      "onboard_time": 1664109626,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 426493,
       "num": 426493,
       "word": "美对西工大网袭技术细节公开",
@@ -19529,6 +19561,14 @@
       "onboard_time": 1662643291,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 425760,
+      "num": 395764,
+      "word": "李沁说求婚只有0次和无数次",
+      "onboard_time": 1664105186,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 425749,
@@ -19777,14 +19817,6 @@
       "onboard_time": 1663733853,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 420201,
-      "num": 420201,
-      "word": "我们的歌",
-      "onboard_time": 1664104164,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 420149,
@@ -21139,14 +21171,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 395764,
-      "num": 395764,
-      "word": "李沁说求婚只有0次和无数次",
-      "onboard_time": 1664105186,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 395695,
       "num": 384780,
       "word": "龚俊白敬亭王鹤棣刘耀文看秀造型",
@@ -22113,6 +22137,14 @@
       "onboard_time": 1663023983,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 377414,
+      "num": 313886,
+      "word": "孙怡现身奔跑吧录制",
+      "onboard_time": 1664109566,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 377341,
@@ -23091,6 +23123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 361548,
+      "num": 361548,
+      "word": "刷手机会让记忆力下降",
+      "onboard_time": 1664107646,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 361372,
       "num": 361372,
       "word": "男子养8年猫被邻居捡走拒归还",
@@ -23707,14 +23747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 352055,
-      "num": 352055,
-      "word": "当结了场健康的婚才知道的事",
-      "onboard_time": 1664106505,
-      "rank": 9,
-      "category": "情感"
-    },
-    {
       "raw_hot": 351900,
       "num": 351900,
       "word": "马琳琳挑战4A成功",
@@ -24249,6 +24281,14 @@
       "onboard_time": 1662800609,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 341067,
+      "num": 235783,
+      "word": "我们的歌4探班发布会",
+      "onboard_time": 1664110585,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 341057,
@@ -30979,6 +31019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263356,
+      "num": 263356,
+      "word": "中国女排vs阿根廷女排",
+      "onboard_time": 1664109266,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 263314,
       "num": 263314,
       "word": "关晓彤甜心妆",
@@ -32297,6 +32345,14 @@
       "onboard_time": 1663505251,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 248505,
+      "num": 248505,
+      "word": "得知邻桌庆生男子专门买玩偶相赠",
+      "onboard_time": 1664106324,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248316,
@@ -35387,14 +35443,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 216028,
-      "num": 216028,
-      "word": "得知邻桌庆生男子专门买玩偶相赠",
-      "onboard_time": 1664106324,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 215928,
       "num": 215928,
       "word": "高校定制月饼有多卷",
@@ -35627,6 +35675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 214491,
+      "num": 214491,
+      "word": "男子投喂流浪狗引来祖孙三代",
+      "onboard_time": 1664105186,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214470,
       "num": 214470,
       "word": "何泓姗恭喜Fly拿到冠军",
@@ -35857,14 +35913,6 @@
       "onboard_time": 1662454529,
       "rank": 43,
       "category": "科技"
-    },
-    {
-      "raw_hot": 211403,
-      "num": 211403,
-      "word": "中国水果第一大省有多强",
-      "onboard_time": 1664108967,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 211399,
@@ -36177,14 +36225,6 @@
       "onboard_time": 1663759711,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 208888,
-      "num": 208888,
-      "word": "刷手机会让记忆力下降",
-      "onboard_time": 1664107646,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208680,
@@ -36811,6 +36851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202485,
+      "num": 202485,
+      "word": "张杰新歌我是守护的光",
+      "onboard_time": 1664110888,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 202481,
       "num": 202481,
       "word": "当人类开始沉迷于狗狗",
@@ -36897,14 +36945,6 @@
       "onboard_time": 1663050815,
       "rank": 41,
       "category": "综艺,情感"
-    },
-    {
-      "raw_hot": 201965,
-      "num": 201965,
-      "word": "杨颖白鹿奔跑吧路透生图",
-      "onboard_time": 1664109626,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 201903,
@@ -37097,14 +37137,6 @@
       "onboard_time": 1663169793,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 200484,
-      "num": 200484,
-      "word": "男子投喂流浪狗引来祖孙三代",
-      "onboard_time": 1664105186,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 200482,
@@ -37361,6 +37393,14 @@
       "onboard_time": 1663102331,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198093,
+      "num": 198093,
+      "word": "年轻人算是把装修玩明白了",
+      "onboard_time": 1664109325,
+      "rank": 37,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 198059,
@@ -38483,14 +38523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 187261,
-      "num": 187261,
-      "word": "中国女排vs阿根廷女排",
-      "onboard_time": 1664109266,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 187186,
       "num": 187186,
       "word": "不愧是云南的药店",
@@ -39072,6 +39104,14 @@
       "word": "花莲高寮大桥断裂成数截",
       "onboard_time": 1663490731,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182627,
+      "num": 182627,
+      "word": "天安门广场国庆大花篮亮灯",
+      "onboard_time": 1664109626,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -40025,14 +40065,6 @@
       "onboard_time": 1664098705,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 171838,
-      "num": 171838,
-      "word": "孙怡现身奔跑吧录制",
-      "onboard_time": 1664109566,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 171770,
@@ -44235,6 +44267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131381,
+      "num": 104139,
+      "word": "虞美人庄羽跳过告白直接同居",
+      "onboard_time": 1664110646,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 131357,
       "num": 131357,
       "word": "能超越mate的只有mate",
@@ -45587,14 +45627,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 113951,
-      "num": 113951,
-      "word": "年轻人算是把装修玩明白了",
-      "onboard_time": 1664109325,
-      "rank": 37,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 113935,
       "num": 113935,
       "word": "DR钻戒靠真爱营销收割2000万年轻人",
@@ -45931,14 +45963,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 110401,
-      "num": 110401,
-      "word": "天安门广场国庆大花篮亮灯",
-      "onboard_time": 1664109626,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110381,
       "num": 110381,
       "word": "EDG与T1一组",
@@ -45992,6 +46016,14 @@
       "word": "两个动作锻炼腰部力量",
       "onboard_time": 1662972458,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 109393,
+      "num": 109393,
+      "word": "龚翔宇缺席女排世锦赛首战",
+      "onboard_time": 1664110888,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -46587,6 +46619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100014,
+      "num": 100014,
+      "word": "WB对战狼队",
+      "onboard_time": 1664107825,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 99497,
       "num": 99497,
       "word": "万里归途新预告紧张感拉满",
@@ -46763,14 +46803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 96728,
-      "num": 96728,
-      "word": "WB对战狼队",
-      "onboard_time": 1664107825,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 96726,
       "num": 96726,
       "word": "大学生为高校答题上分",
@@ -46927,6 +46959,14 @@
       "num": 93654,
       "word": "熊猫宝宝集体趴睡现场",
       "onboard_time": 1662878370,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 93161,
+      "num": 93161,
+      "word": "上海黄浦江畔的鳄鱼抓到了",
+      "onboard_time": 1664110767,
       "rank": 44,
       "category": "社会新闻"
     },
@@ -47345,6 +47385,14 @@
       "onboard_time": 1664017707,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 85448,
+      "num": 85448,
+      "word": "中国女排二传",
+      "onboard_time": 1664111127,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 85351,
