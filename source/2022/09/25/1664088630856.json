@@ -1,0 +1,410 @@
+{
+  "runTime": 1664088630856,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3569591,
+        "num": 3569591,
+        "word": "羊了个羊创始人被母校制展牌宣传",
+        "onboard_time": 1664084485,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 965703,
+        "num": 965703,
+        "word": "南风知我意",
+        "onboard_time": 1664074826,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 14806,
+        "num": 944645,
+        "word": "太空视角看丰收有多美",
+        "onboard_time": 1664013324,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1227310,
+        "num": 939529,
+        "word": "月经期间身体在经历什么",
+        "onboard_time": 1664072907,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 925232,
+        "num": 925232,
+        "word": "卫生巾不用黑袋子装也没关系",
+        "onboard_time": 1664064742,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1175601,
+        "num": 789388,
+        "word": "上海警方通报持刀故意杀人案",
+        "onboard_time": 1664082147,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 574508,
+        "num": 574508,
+        "word": "女子直播间抽中杯子寄来3次都碎了",
+        "onboard_time": 1664082445,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404308,
+        "num": 404308,
+        "word": "欧洲人买爆中国电热毯",
+        "onboard_time": 1664074705,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383606,
+        "num": 383606,
+        "word": "被iPhone14收割的黄牛",
+        "onboard_time": 1664071765,
+        "rank": 8,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 373438,
+        "num": 373438,
+        "word": "高速被追尾6人直接原地歇了",
+        "onboard_time": 1664079384,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1171408,
+        "num": 367515,
+        "word": "章泽天怀孕随刘强东明州逛超市",
+        "onboard_time": 1664070383,
+        "rank": 10,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 342952,
+        "num": 342952,
+        "word": "楼下老人控诉太吵孩子用小奶音道歉",
+        "onboard_time": 1664081666,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341990,
+        "num": 341990,
+        "word": "当王嘉尔突然跳下舞台",
+        "onboard_time": 1664081727,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 323332,
+        "num": 323332,
+        "word": "伊卡尔迪净身出户",
+        "onboard_time": 1664083046,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 310296,
+        "num": 310296,
+        "word": "市民捕鼠笼抓到猪鼻老鼠报警求助",
+        "onboard_time": 1664083346,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290754,
+        "num": 290754,
+        "word": "容祖儿给张翰拍照演我",
+        "onboard_time": 1664079506,
+        "rank": 15,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 273458,
+        "num": 273458,
+        "word": "男子常熬夜加重牙周炎致牙齿掉光",
+        "onboard_time": 1664086888,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271808,
+        "num": 271808,
+        "word": "大叔生意失败深夜穿西装捡废品",
+        "onboard_time": 1664078945,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261026,
+        "num": 261026,
+        "word": "李现檀健次赵又廷九月刊封面",
+        "onboard_time": 1664082025,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 248565,
+        "num": 248565,
+        "word": "中国航天科工集团特级技师王巍去世",
+        "onboard_time": 1664081727,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219676,
+        "num": 219676,
+        "word": "杨紫长相思正式杀青",
+        "onboard_time": 1664081065,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211861,
+        "num": 211861,
+        "word": "男友掌握了恋爱终极技能",
+        "onboard_time": 1664086226,
+        "rank": 21,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 208793,
+        "num": 208793,
+        "word": "马嘉祺清唱要你管",
+        "onboard_time": 1664085265,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191468,
+        "num": 191468,
+        "word": "长相思",
+        "onboard_time": 1664061738,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187694,
+        "num": 187694,
+        "word": "秋季高级感穿搭",
+        "onboard_time": 1664087725,
+        "rank": 24,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 182472,
+        "num": 182472,
+        "word": "如何教一只猫猫小手开花",
+        "onboard_time": 1664087366,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173228,
+        "num": 173228,
+        "word": "赵露思电视剧胡同海报",
+        "onboard_time": 1664081364,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167676,
+        "num": 167676,
+        "word": "突然觉得好不配小狗的爱",
+        "onboard_time": 1664072787,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161280,
+        "num": 161280,
+        "word": "辉瑞CEO新冠检测再次阳性",
+        "onboard_time": 1664068884,
+        "rank": 28,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 160014,
+        "num": 160014,
+        "word": "虞书欣说庄羽吻戏好会",
+        "onboard_time": 1664080465,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158874,
+        "num": 158874,
+        "word": "宝妈称医院误将针掉孩子胃中",
+        "onboard_time": 1664072605,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144185,
+        "num": 144185,
+        "word": "大爷随手种猕猴桃树结5000个果子",
+        "onboard_time": 1664073626,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138240,
+        "num": 138240,
+        "word": "记忆力不好是有原因的",
+        "onboard_time": 1664078666,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132536,
+        "num": 132536,
+        "word": "5岁不会用筷子吃饭可能是孤独症",
+        "onboard_time": 1664070145,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126765,
+        "num": 126765,
+        "word": "吴宣仪烤全羊吃到嗨舞",
+        "onboard_time": 1664087965,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111404,
+        "num": 111404,
+        "word": "六公主认证任嘉伦请君热度破纪录",
+        "onboard_time": 1664075005,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110289,
+        "num": 110289,
+        "word": "王一博为荣耀活动打call",
+        "onboard_time": 1664081967,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99063,
+        "num": 99063,
+        "word": "何同学第一次玩VR在图书馆",
+        "onboard_time": 1664078906,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 98472,
+        "num": 98472,
+        "word": "10岁男孩给妈妈扎针动作熟练",
+        "onboard_time": 1664077825,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97369,
+        "num": 97369,
+        "word": "00后用纸折出的龙有1400个鳞片",
+        "onboard_time": 1664075125,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95894,
+        "num": 95894,
+        "word": "自从我养了一条斗鱼",
+        "onboard_time": 1664073986,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94817,
+        "num": 94817,
+        "word": "河南姑娘吕扬再拿世界冠军",
+        "onboard_time": 1664085504,
+        "rank": 41,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 92245,
+        "num": 92245,
+        "word": "掏耳朵频次不宜过勤",
+        "onboard_time": 1664074044,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90764,
+        "num": 90764,
+        "word": "梦枕貘阴阳师动画化",
+        "onboard_time": 1664087965,
+        "rank": 43,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 90633,
+        "num": 90633,
+        "word": "染色体首个实验性DEMO作品",
+        "onboard_time": 1664079086,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 88269,
+        "num": 88269,
+        "word": "KPL用跳水的方式打开向前冲",
+        "onboard_time": 1664082687,
+        "rank": 45,
+        "category": "游戏,综艺"
+      },
+      {
+        "raw_hot": 88092,
+        "num": 88092,
+        "word": "长相思命运版海报",
+        "onboard_time": 1664076447,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 82298,
+        "num": 82298,
+        "word": "为什么吃得不多但体重下不来",
+        "onboard_time": 1664066483,
+        "rank": 47,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 80387,
+        "num": 80387,
+        "word": "市监局通报黄豆酱事件厂家检查情况",
+        "onboard_time": 1664079627,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78896,
+        "num": 78896,
+        "word": "号称祛斑美白实则汞超标2万倍",
+        "onboard_time": 1664088564,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂今天的中国须读懂中国共产党#"
+    }
+  }
+}

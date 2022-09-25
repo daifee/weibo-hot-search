@@ -1,6 +1,6 @@
 {
   "startTime": 1664037122905,
-  "endTime": 1664087488973,
+  "endTime": 1664088630856,
   "band_list": [
     {
       "raw_hot": 3580765,
@@ -291,12 +291,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 323332,
+      "num": 323332,
+      "word": "伊卡尔迪净身出户",
+      "onboard_time": 1664083046,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 321396,
       "num": 321396,
       "word": "杨紫长相思正式杀青",
       "onboard_time": 1664081065,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 310296,
+      "num": 310296,
+      "word": "市民捕鼠笼抓到猪鼻老鼠报警求助",
+      "onboard_time": 1664083346,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 308163,
@@ -313,14 +329,6 @@
       "onboard_time": 1664081364,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 303752,
-      "num": 303752,
-      "word": "伊卡尔迪净身出户",
-      "onboard_time": 1664083046,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 303009,
@@ -435,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 273458,
+      "num": 273458,
+      "word": "男子常熬夜加重牙周炎致牙齿掉光",
+      "onboard_time": 1664086888,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272752,
       "num": 272752,
       "word": "任嘉伦最爱请君雪中落泪名场面",
@@ -480,14 +496,6 @@
       "word": "5岁男童挂17楼阳台邻居奋力拽回",
       "onboard_time": 1664034626,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 233294,
-      "num": 233294,
-      "word": "市民捕鼠笼抓到猪鼻老鼠报警求助",
-      "onboard_time": 1664083346,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -563,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211861,
+      "num": 211861,
+      "word": "男友掌握了恋爱终极技能",
+      "onboard_time": 1664086226,
+      "rank": 29,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 211556,
       "num": 211556,
       "word": "成毅跟着唱沉香",
@@ -619,6 +635,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 187694,
+      "num": 187694,
+      "word": "秋季高级感穿搭",
+      "onboard_time": 1664087725,
+      "rank": 24,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 186166,
       "num": 151583,
       "word": "万里归途43城超前点映",
@@ -641,6 +665,14 @@
       "onboard_time": 1664075727,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 182472,
+      "num": 182472,
+      "word": "如何教一只猫猫小手开花",
+      "onboard_time": 1664087366,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 177712,
@@ -681,14 +713,6 @@
       "onboard_time": 1664080405,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 160550,
-      "num": 160550,
-      "word": "男友掌握了恋爱终极技能",
-      "onboard_time": 1664086226,
-      "rank": 29,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 156804,
@@ -769,6 +793,14 @@
       "onboard_time": 1664074826,
       "rank": 32,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 126765,
+      "num": 126765,
+      "word": "吴宣仪烤全羊吃到嗨舞",
+      "onboard_time": 1664087965,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 121183,
@@ -859,14 +891,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 106669,
-      "num": 106669,
-      "word": "男子常熬夜加重牙周炎致牙齿掉光",
-      "onboard_time": 1664086888,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 105735,
       "num": 105735,
       "word": "男子被黑熊袭击致26处重伤",
@@ -889,6 +913,22 @@
       "onboard_time": 1664035166,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 94817,
+      "num": 94817,
+      "word": "河南姑娘吕扬再拿世界冠军",
+      "onboard_time": 1664085504,
+      "rank": 48,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 90764,
+      "num": 90764,
+      "word": "梦枕貘阴阳师动画化",
+      "onboard_time": 1664087965,
+      "rank": 43,
+      "category": "游戏,动漫"
     },
     {
       "raw_hot": 90498,
@@ -939,20 +979,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 80481,
-      "num": 80481,
-      "word": "河南姑娘吕扬再拿世界冠军",
-      "onboard_time": 1664085504,
-      "rank": 48,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 79240,
       "num": 79240,
       "word": "中学教室后排设蹲班制老师引热议",
       "onboard_time": 1664042654,
       "rank": 39,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 78896,
+      "num": 78896,
+      "word": "号称祛斑美白实则汞超标2万倍",
+      "onboard_time": 1664088564,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 78528,
@@ -993,14 +1033,6 @@
       "onboard_time": 1664027667,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 71174,
-      "num": 71174,
-      "word": "如何教一只猫猫小手开花",
-      "onboard_time": 1664087366,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 68720,
