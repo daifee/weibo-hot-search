@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1664227464196,
+  "endTime": 1664228663669,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -50403,6 +50403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 50617,
+      "num": 50617,
+      "word": "3岁小孩踢金毛家长在旁边大笑",
+      "onboard_time": 1664221692,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50611,
       "num": 50611,
       "word": "前中国男篮主帅穿上名人堂西服",
@@ -50699,14 +50707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 37549,
-      "num": 28420,
-      "word": "3岁小孩踢金毛家长在旁边大笑",
-      "onboard_time": 1664221692,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 37006,
       "num": 149080,
       "word": "中秋你家有哪些保留节目",
@@ -50721,6 +50721,14 @@
       "onboard_time": 1663527853,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 36773,
+      "num": 36773,
+      "word": "外交部回应中朝重启铁路货运",
+      "onboard_time": 1664222111,
+      "rank": 38,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 36686,
@@ -50795,20 +50803,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 33116,
+      "num": 33116,
+      "word": "大妈带狗不栓绳保安一网兜走狗",
+      "onboard_time": 1664223250,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32826,
       "num": 32826,
       "word": "这里是流浪猫的天堂吧",
       "onboard_time": 1663861050,
       "rank": 48,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 32821,
-      "num": 28322,
-      "word": "外交部回应中朝重启铁路货运",
-      "onboard_time": 1664222111,
-      "rank": 38,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 32239,
@@ -51107,14 +51115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 20067,
-      "num": 20067,
-      "word": "大妈带狗不栓绳保安一网兜走狗",
-      "onboard_time": 1664223250,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 19933,
       "num": 359244,
       "word": "神仙打架的新势力旗舰",
@@ -51363,6 +51363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 13127,
+      "num": 13127,
+      "word": "学生发型不达标校门口排队理发",
+      "onboard_time": 1664226550,
+      "rank": 32,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 13090,
       "num": 491341,
       "word": "华为Mate50稳了",
@@ -51483,6 +51491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 10112,
+      "num": 10112,
+      "word": "弯腿球王是怎样炼成的",
+      "onboard_time": 1664226550,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 9963,
       "num": 555796,
       "word": "原来1500年前就有交响乐",
@@ -51555,12 +51571,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 9090,
+      "num": 9090,
+      "word": "AirPodsPro2用户反馈随机断连",
+      "onboard_time": 1664228052,
+      "rank": 41,
+      "category": "科技"
+    },
+    {
       "raw_hot": 8649,
       "num": 8649,
       "word": "辅警7秒飞身救下扶梯摔倒老人",
       "onboard_time": 1663014610,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8628,
+      "num": 8628,
+      "word": "在辽宁舰上生活是什么体验",
+      "onboard_time": 1664225830,
+      "rank": 38,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 8437,
@@ -51577,14 +51609,6 @@
       "onboard_time": 1663883532,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8288,
-      "num": 8288,
-      "word": "在辽宁舰上生活是什么体验",
-      "onboard_time": 1664225830,
-      "rank": 38,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 8283,
@@ -51643,14 +51667,6 @@
       "category": "国外要闻,军事"
     },
     {
-      "raw_hot": 7565,
-      "num": 7565,
-      "word": "弯腿球王是怎样炼成的",
-      "onboard_time": 1664226550,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 7544,
       "num": 9078,
       "word": "英超史上最年轻出场球员",
@@ -51681,6 +51697,14 @@
       "onboard_time": 1663794910,
       "rank": 46,
       "category": "军事"
+    },
+    {
+      "raw_hot": 7368,
+      "num": 7368,
+      "word": "加林查当年有多强",
+      "onboard_time": 1664226371,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 7334,
@@ -51771,6 +51795,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 7032,
+      "num": 7032,
+      "word": "东北首个核电供暖项目即将启动",
+      "onboard_time": 1664227992,
+      "rank": 47,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 7007,
       "num": 319729,
       "word": "VR世界约球有多酷",
@@ -51841,14 +51873,6 @@
       "onboard_time": 1663273811,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6664,
-      "num": 6664,
-      "word": "加林查当年有多强",
-      "onboard_time": 1664226371,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 6643,
@@ -51985,6 +52009,14 @@
       "onboard_time": 1664223911,
       "rank": 48,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 6147,
+      "num": 6147,
+      "word": "浙江一小学为学生搭建校园灶台",
+      "onboard_time": 1664228230,
+      "rank": 48,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 6089,
@@ -52248,6 +52280,14 @@
       "word": "保安大叔碎碎念式劝离小商贩",
       "onboard_time": 1664227032,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5572,
+      "num": 5572,
+      "word": "网上演唱会应延时直播播出",
+      "onboard_time": 1664227932,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
