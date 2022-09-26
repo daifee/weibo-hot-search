@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664159756237,
+  "endTime": 1664162653526,
   "band_list": [
     {
       "raw_hot": 2585281,
@@ -9,6 +9,22 @@
       "onboard_time": 1664107585,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2011475,
+      "num": 2011475,
+      "word": "出门没拔充电线结果家被烧了",
+      "onboard_time": 1664156845,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1720648,
+      "num": 1282152,
+      "word": "iPhone14或成史上销量最差机型",
+      "onboard_time": 1664156126,
+      "rank": 3,
+      "category": "科技"
     },
     {
       "raw_hot": 1447527,
@@ -27,20 +43,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1282152,
-      "num": 1282152,
-      "word": "iPhone14或成史上销量最差机型",
-      "onboard_time": 1664156126,
-      "rank": 3,
-      "category": "科技"
-    },
-    {
       "raw_hot": 1099668,
       "num": 316527,
       "word": "iPhone15Ultra将取代ProMax",
       "onboard_time": 1664153009,
       "rank": 10,
       "category": "科技"
+    },
+    {
+      "raw_hot": 988755,
+      "num": 988755,
+      "word": "胡同 朝阳群众",
+      "onboard_time": 1664159964,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 963477,
@@ -83,12 +99,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 768317,
-      "num": 768317,
-      "word": "出门没拔充电线结果家被烧了",
-      "onboard_time": 1664156845,
-      "rank": 5,
-      "category": "社会新闻"
+      "raw_hot": 664788,
+      "num": 664788,
+      "word": "韩国将翻拍非自然死亡",
+      "onboard_time": 1664160503,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 632347,
@@ -107,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 485254,
+      "num": 292745,
+      "word": "张彬彬下意识对虞书欣的宠溺",
+      "onboard_time": 1664161286,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 472158,
       "num": 472158,
       "word": "谢娜十三角关系上海站收官",
@@ -121,6 +145,38 @@
       "onboard_time": 1664154748,
       "rank": 20,
       "category": "科技"
+    },
+    {
+      "raw_hot": 433813,
+      "num": 192073,
+      "word": "苹果手机平均售价本季度创新高",
+      "onboard_time": 1664160503,
+      "rank": 20,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 425074,
+      "num": 425074,
+      "word": "店主着急送孩子误把顾客锁店里",
+      "onboard_time": 1664156485,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 409350,
+      "num": 184999,
+      "word": "河南一地近百只山羊集体跳崖死亡",
+      "onboard_time": 1664161644,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 402830,
+      "num": 273448,
+      "word": "女子遭无故开除公司赔122斤硬币",
+      "onboard_time": 1664161286,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 400705,
@@ -147,6 +203,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 380754,
+      "num": 264558,
+      "word": "TF家族Youngblood练习室",
+      "onboard_time": 1664162367,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 376278,
       "num": 376278,
       "word": "男生985毕业4年重新高考学中医",
@@ -161,14 +225,6 @@
       "onboard_time": 1664106505,
       "rank": 7,
       "category": "情感"
-    },
-    {
-      "raw_hot": 317191,
-      "num": 317191,
-      "word": "店主着急送孩子误把顾客锁店里",
-      "onboard_time": 1664156485,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 315617,
@@ -201,6 +257,22 @@
       "onboard_time": 1664142492,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 304940,
+      "num": 304940,
+      "word": "00后女生用非遗竹编做连衣裙获大奖",
+      "onboard_time": 1664159302,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 292177,
+      "num": 177438,
+      "word": "炽道定档0929",
+      "onboard_time": 1664160803,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 287865,
@@ -251,6 +323,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 235243,
+      "num": 117858,
+      "word": "染色体首支单曲IWill",
+      "onboard_time": 1664161466,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 233028,
       "num": 233028,
       "word": "印度185万头牛感染牛块状皮肤病",
@@ -265,6 +345,14 @@
       "onboard_time": 1664116773,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 230433,
+      "num": 117758,
+      "word": "保你平安定档1231",
+      "onboard_time": 1664162305,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 229982,
@@ -331,12 +419,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199332,
+      "num": 117499,
+      "word": "苹果车祸检测或是人工客服",
+      "onboard_time": 1664162126,
+      "rank": 35,
+      "category": "科技"
+    },
+    {
       "raw_hot": 193049,
       "num": 193049,
       "word": "大考荣梓杉被母亲打耳光",
       "onboard_time": 1664126597,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 192907,
+      "num": 192907,
+      "word": "英语教学比重应该降低吗",
+      "onboard_time": 1664156604,
+      "rank": 31,
+      "category": "教育,社会议题"
     },
     {
       "raw_hot": 191904,
@@ -387,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171970,
+      "num": 171970,
+      "word": "云南一小学师生三餐都吃自己种的",
+      "onboard_time": 1664159605,
+      "rank": 41,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 169591,
       "num": 169591,
       "word": "狼队止步淘汰赛",
@@ -435,12 +547,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 146615,
+      "num": 117550,
+      "word": "长相思",
+      "onboard_time": 1664148683,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 143506,
       "num": 143506,
       "word": "杨颖白鹿奔跑吧路透生图",
       "onboard_time": 1664109626,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143242,
+      "num": 143242,
+      "word": "DR回应800元可删购买记录",
+      "onboard_time": 1664162185,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138974,
@@ -475,6 +603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 126685,
+      "num": 95167,
+      "word": "姜涩琪概念预告",
+      "onboard_time": 1664160266,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 126015,
       "num": 126015,
       "word": "真的要好好热爱生活啊",
@@ -499,28 +635,12 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 119066,
+      "raw_hot": 120829,
       "num": 119066,
       "word": "林墨把官窑演活了",
       "onboard_time": 1664158285,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 115328,
-      "num": 115328,
-      "word": "英语教学比重应该降低吗",
-      "onboard_time": 1664156604,
-      "rank": 31,
-      "category": "教育,社会议题"
-    },
-    {
-      "raw_hot": 114276,
-      "num": 114276,
-      "word": "00后女生用非遗竹编做连衣裙获大奖",
-      "onboard_time": 1664159302,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110160,
@@ -587,14 +707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 94705,
-      "num": 94705,
-      "word": "云南一小学师生三餐都吃自己种的",
-      "onboard_time": 1664159605,
-      "rank": 41,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 92053,
       "num": 81062,
       "word": "李沁说求婚只有0次和无数次",
@@ -611,12 +723,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 90464,
-      "num": 90464,
-      "word": "长相思",
-      "onboard_time": 1664148683,
-      "rank": 33,
-      "category": "影视"
+      "raw_hot": 90863,
+      "num": 90863,
+      "word": "勇士媒体日",
+      "onboard_time": 1664157747,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 85129,
@@ -803,20 +915,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 16460,
+      "num": 1301721,
+      "word": "太空视角看丰收有多美",
+      "onboard_time": 1664013324,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15062,
       "num": 15062,
       "word": "林更新与凤行片场喂流浪狗",
       "onboard_time": 1664137391,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 14435,
-      "num": 1301721,
-      "word": "太空视角看丰收有多美",
-      "onboard_time": 1664013324,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12817,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1664162653526,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2011475,
+        "num": 2011475,
+        "word": "出门没拔充电线结果家被烧了",
+        "onboard_time": 1664156845,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1026481,
+        "num": 1026481,
+        "word": "再起不来就不礼貌了",
+        "onboard_time": 1664115393,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 16460,
+        "num": 998097,
+        "word": "太空视角看丰收有多美",
+        "onboard_time": 1664013324,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1720648,
+        "num": 993825,
+        "word": "iPhone14或成史上销量最差机型",
+        "onboard_time": 1664156126,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 988755,
+        "num": 988755,
+        "word": "胡同 朝阳群众",
+        "onboard_time": 1664159964,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 911033,
+        "num": 911033,
+        "word": "你薅的羊毛可能是违法的",
+        "onboard_time": 1664151987,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 664788,
+        "num": 664788,
+        "word": "韩国将翻拍非自然死亡",
+        "onboard_time": 1664160503,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 500189,
+        "num": 500189,
+        "word": "一级致癌物槟榔消费者已超1亿",
+        "onboard_time": 1664155944,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425074,
+        "num": 425074,
+        "word": "店主着急送孩子误把顾客锁店里",
+        "onboard_time": 1664156485,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304940,
+        "num": 304940,
+        "word": "00后女生用非遗竹编做连衣裙获大奖",
+        "onboard_time": 1664159302,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 556526,
+        "num": 296021,
+        "word": "iPhone15Ultra将取代ProMax",
+        "onboard_time": 1664153009,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 485254,
+        "num": 292745,
+        "word": "张彬彬下意识对虞书欣的宠溺",
+        "onboard_time": 1664161286,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 413188,
+        "num": 284589,
+        "word": "赵露思蔡文静关晓彤胡同好看吗",
+        "onboard_time": 1664152047,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 402830,
+        "num": 273448,
+        "word": "女子遭无故开除公司赔122斤硬币",
+        "onboard_time": 1664161286,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380754,
+        "num": 264558,
+        "word": "TF家族Youngblood练习室",
+        "onboard_time": 1664162367,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 369107,
+        "num": 256717,
+        "word": "谢娜十三角关系上海站收官",
+        "onboard_time": 1664156906,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248775,
+        "num": 248775,
+        "word": "不要和没可能的人频繁聊天",
+        "onboard_time": 1664107585,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 234290,
+        "num": 234290,
+        "word": "当农大学生的毕业论文被吃掉",
+        "onboard_time": 1664141532,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 224551,
+        "num": 224551,
+        "word": "9月25日增235例本土确诊",
+        "onboard_time": 1664155347,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192907,
+        "num": 192907,
+        "word": "英语教学比重应该降低吗",
+        "onboard_time": 1664156604,
+        "rank": 19,
+        "category": "教育,社会议题"
+      },
+      {
+        "raw_hot": 433813,
+        "num": 192073,
+        "word": "苹果手机平均售价本季度创新高",
+        "onboard_time": 1664160503,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 409350,
+        "num": 184999,
+        "word": "河南一地近百只山羊集体跳崖死亡",
+        "onboard_time": 1664161644,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296978,
+        "num": 181670,
+        "word": "对王鹤棣最大的误解是笨蛋帅哥",
+        "onboard_time": 1664150305,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 292177,
+        "num": 177438,
+        "word": "炽道定档0929",
+        "onboard_time": 1664160803,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175906,
+        "num": 175906,
+        "word": "女子照顾病父临走前包187个饺子",
+        "onboard_time": 1664152887,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171970,
+        "num": 171970,
+        "word": "云南一小学师生三餐都吃自己种的",
+        "onboard_time": 1664159605,
+        "rank": 25,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 156118,
+        "num": 156118,
+        "word": "邻居徒手爬8楼外救被卡小宝宝",
+        "onboard_time": 1664155766,
+        "rank": 26,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 143242,
+        "num": 143242,
+        "word": "DR回应800元可删购买记录",
+        "onboard_time": 1664162185,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141561,
+        "num": 141561,
+        "word": "丈夫成植物人妻子起诉离婚获准",
+        "onboard_time": 1664122524,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117872,
+        "num": 117872,
+        "word": "狼队止步淘汰赛",
+        "onboard_time": 1664151326,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 235243,
+        "num": 117858,
+        "word": "染色体首支单曲IWill",
+        "onboard_time": 1664161466,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 230433,
+        "num": 117758,
+        "word": "保你平安定档1231",
+        "onboard_time": 1664162305,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203363,
+        "num": 117710,
+        "word": "苹果10月或不举办发布会",
+        "onboard_time": 1664154748,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 147354,
+        "num": 117662,
+        "word": "林钰洧2022香港小姐冠军",
+        "onboard_time": 1664155705,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146615,
+        "num": 117550,
+        "word": "长相思",
+        "onboard_time": 1664148683,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199332,
+        "num": 117499,
+        "word": "苹果车祸检测或是人工客服",
+        "onboard_time": 1664162126,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 117453,
+        "num": 117453,
+        "word": "漂亮女子突然体重暴增变丑查出脑瘤",
+        "onboard_time": 1664114371,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112244,
+        "num": 112244,
+        "word": "新西兰一海域150多条鱼75%含微塑料",
+        "onboard_time": 1664153728,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106795,
+        "num": 106795,
+        "word": "三艘航母达到人民海军作战最低需求",
+        "onboard_time": 1664126177,
+        "rank": 38,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 96042,
+        "num": 96042,
+        "word": "民警检查遇一车5人就司机没驾驶证",
+        "onboard_time": 1664127256,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126685,
+        "num": 95167,
+        "word": "姜涩琪概念预告",
+        "onboard_time": 1664160266,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 120829,
+        "num": 94791,
+        "word": "林墨把官窑演活了",
+        "onboard_time": 1664158285,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93488,
+        "num": 93488,
+        "word": "90后小伙破产欠50万卖花生挣百万",
+        "onboard_time": 1664112329,
+        "rank": 42,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 93304,
+        "num": 93304,
+        "word": "中国水果第一大省有多强",
+        "onboard_time": 1664108967,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124473,
+        "num": 92485,
+        "word": "小米11系列屡曝质量问题遭维权",
+        "onboard_time": 1664150186,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 91610,
+        "num": 91610,
+        "word": "坐地铁公交长时间戴耳机或损伤听力",
+        "onboard_time": 1664148082,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90863,
+        "num": 90863,
+        "word": "勇士媒体日",
+        "onboard_time": 1664157747,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81643,
+        "num": 81643,
+        "word": "北京地铁10号线部分列车晚点",
+        "onboard_time": 1664154867,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70031,
+        "num": 70031,
+        "word": "多对情侣迪士尼流水线式接吻拍照",
+        "onboard_time": 1664117552,
+        "rank": 48,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 60242,
+        "num": 69976,
+        "word": "辉瑞CEO已打4针自家新冠疫苗",
+        "onboard_time": 1664137811,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大代表名单#"
+    }
+  }
+}
