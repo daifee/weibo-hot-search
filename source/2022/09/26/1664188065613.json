@@ -1,0 +1,410 @@
+{
+  "runTime": 1664188065613,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1927605,
+        "num": 1927605,
+        "word": "开一家蜜雪冰城需要37万元",
+        "onboard_time": 1664180184,
+        "rank": 0,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1316885,
+        "num": 1316885,
+        "word": "香港珠宝大王卢仲辉坠崖身亡",
+        "onboard_time": 1664181504,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66239,
+        "num": 1091374,
+        "word": "保障粮食安全让中国饭碗端得更稳",
+        "onboard_time": 1664179824,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1593185,
+        "num": 1043795,
+        "word": "女子产后3个月发现又怀孕2个月",
+        "onboard_time": 1664175202,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1517045,
+        "num": 1033333,
+        "word": "官方通报防疫人员将居民大米倒垃圾桶",
+        "onboard_time": 1664182164,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 902487,
+        "num": 902487,
+        "word": "刘诗诗张芷溪一念关山美女打架",
+        "onboard_time": 1664186904,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 769414,
+        "num": 769414,
+        "word": "禁野2年后的华农兄弟",
+        "onboard_time": 1664182464,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502839,
+        "num": 502839,
+        "word": "蟑螂集体出街男孩吓到腿抖",
+        "onboard_time": 1664178084,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443101,
+        "num": 443101,
+        "word": "成毅台词",
+        "onboard_time": 1664183905,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 417800,
+        "num": 417800,
+        "word": "美国已对近40个国家实施过经济制裁",
+        "onboard_time": 1664182643,
+        "rank": 9,
+        "category": "国内要闻,国外要闻"
+      },
+      {
+        "raw_hot": 947432,
+        "num": 401628,
+        "word": "宁波疫情防控",
+        "onboard_time": 1664184504,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368892,
+        "num": 368892,
+        "word": "俄罗斯一征兵处发生枪击现场视频",
+        "onboard_time": 1664185765,
+        "rank": 11,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 344350,
+        "num": 344350,
+        "word": "狗狗被蛇伤咬脸肿成狗熊",
+        "onboard_time": 1664182585,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328094,
+        "num": 328094,
+        "word": "张彬彬单手公主抱关门",
+        "onboard_time": 1664180784,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301145,
+        "num": 301145,
+        "word": "我真的是自愿上班的",
+        "onboard_time": 1664170166,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 295031,
+        "num": 295031,
+        "word": "老人用高压锅煮绿豆粥炸毁厨房",
+        "onboard_time": 1664175443,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286039,
+        "num": 286039,
+        "word": "小沈阳扫楼直播状态迷茫却努力",
+        "onboard_time": 1664186065,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 279142,
+        "num": 279142,
+        "word": "博主疑似被EDG起诉侵权",
+        "onboard_time": 1664180486,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 275553,
+        "num": 275553,
+        "word": "JYP中国新男团成员",
+        "onboard_time": 1664168307,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263623,
+        "num": 263623,
+        "word": "男子鸡骨卡喉喝醋吞饭致食道穿孔",
+        "onboard_time": 1664184265,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255183,
+        "num": 255183,
+        "word": "虞书欣虞美人黑化版",
+        "onboard_time": 1664180784,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242510,
+        "num": 242510,
+        "word": "全球股市几乎进入投降式抛售阶段",
+        "onboard_time": 1664177966,
+        "rank": 21,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 235589,
+        "num": 235589,
+        "word": "被任嘉伦请君诀别告白整破防了",
+        "onboard_time": 1664186545,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220021,
+        "num": 220021,
+        "word": "广州人才知道的早茶文化",
+        "onboard_time": 1664185102,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 198844,
+        "num": 198844,
+        "word": "上海户籍育龄妇女二孩率不足13%",
+        "onboard_time": 1664174843,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184638,
+        "num": 184638,
+        "word": "杨紫长相思小夭花絮照",
+        "onboard_time": 1664181684,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178495,
+        "num": 178495,
+        "word": "王一博长空之王说英语",
+        "onboard_time": 1664180545,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177051,
+        "num": 177051,
+        "word": "高校通报新生入学3天篮球场猝死",
+        "onboard_time": 1664172984,
+        "rank": 27,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 175073,
+        "num": 175073,
+        "word": "柯基的身高优势",
+        "onboard_time": 1664186845,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174532,
+        "num": 174532,
+        "word": "今年最震撼你的一本小说",
+        "onboard_time": 1664167469,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174480,
+        "num": 174480,
+        "word": "爷爷顶40度高温贱卖西瓜救重病孙女",
+        "onboard_time": 1664169806,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171388,
+        "num": 171388,
+        "word": "男子被啤酒瓶盖卡喉用馒头咽下",
+        "onboard_time": 1664181023,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170327,
+        "num": 170327,
+        "word": "十成新的老虎什么样",
+        "onboard_time": 1664185343,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167721,
+        "num": 167721,
+        "word": "DR回应800元可删购买记录",
+        "onboard_time": 1664162185,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164497,
+        "num": 164497,
+        "word": "欧阳娜娜MV男主是翟子路",
+        "onboard_time": 1664173105,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 163908,
+        "num": 163908,
+        "word": "中国女篮晋级世界杯八强",
+        "onboard_time": 1664183905,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162985,
+        "num": 162985,
+        "word": "苹果称很高兴能在印度生产iPhone14",
+        "onboard_time": 1664172502,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 144251,
+        "num": 144251,
+        "word": "帝释天传说限定皮肤",
+        "onboard_time": 1664168068,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137154,
+        "num": 137154,
+        "word": "河南一地近百只山羊集体跳崖死亡",
+        "onboard_time": 1664161644,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141502,
+        "num": 136669,
+        "word": "iPhone14或成史上销量最差机型",
+        "onboard_time": 1664156126,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 135278,
+        "num": 135278,
+        "word": "北京疾控倡导市民就地过节",
+        "onboard_time": 1664177065,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133906,
+        "num": 133906,
+        "word": "成年人睡觉磨牙要警惕",
+        "onboard_time": 1664172683,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126990,
+        "num": 126990,
+        "word": "重庆一村免费给全村狗狗打狂犬疫苗",
+        "onboard_time": 1664173825,
+        "rank": 42,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 125689,
+        "num": 125689,
+        "word": "南京小伙租豪车相亲遭拒",
+        "onboard_time": 1664177664,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125261,
+        "num": 125261,
+        "word": "村委会回应近百只山羊集体跳崖坠亡",
+        "onboard_time": 1664178446,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124360,
+        "num": 124360,
+        "word": "金珉锡今日solo出道",
+        "onboard_time": 1664176705,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 508840,
+        "num": 124036,
+        "word": "男子5年来每天到前妻坟前撒尿",
+        "onboard_time": 1664185644,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123006,
+        "num": 123006,
+        "word": "大学生真的很需要这门课",
+        "onboard_time": 1664187866,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121328,
+        "num": 121328,
+        "word": "李沁新浪扫楼造型",
+        "onboard_time": 1664177545,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 118339,
+        "num": 118339,
+        "word": "中国女篮半场领先26分",
+        "onboard_time": 1664183485,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十大代表名单#"
+    }
+  }
+}

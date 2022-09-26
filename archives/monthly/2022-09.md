@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/26 17:44:15
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/26 18:27:45
 </p>
 </blockquote>
 <p>
@@ -3015,6 +3015,12 @@ B站诉争哔哩哔哩商标被驳回（热度：1518132）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E9%98%B2%E7%96%AB%E4%BA%BA%E5%91%98%E5%B0%86%E5%B1%85%E6%B0%91%E5%A4%A7%E7%B1%B3%E5%80%92%E5%9E%83%E5%9C%BE%E6%A1%B6%23" target="weibo">
+官方通报防疫人员将居民大米倒垃圾桶（热度：1517045）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E7%8E%B0%E9%A6%96%E4%BE%8B%E7%8C%B4%E7%97%98%E8%BE%93%E5%85%A5%E7%97%85%E4%BE%8B%23" target="weibo">
 香港现首例猴痘输入病例（热度：1514949）
 </a>
@@ -6005,12 +6011,6 @@ BLACKPINK新歌未通过KBS审议（热度：999636）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%8E%E5%BC%80%E9%AB%98%E8%B5%B0%E7%9A%84%E5%9B%BD%E4%BA%A7%E5%89%A7%23" target="weibo">
 低开高走的国产剧（热度：996191）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%B8%96%E4%BD%B3%E5%9B%9E%E5%BA%94%E4%BA%8C%E5%8D%81%E4%B8%8D%E6%83%912%E6%B2%A1%E7%BD%B2%E5%90%8D%23" target="weibo">
-金世佳回应二十不惑2没署名（热度：996116）
 </a>
 </li>
 
