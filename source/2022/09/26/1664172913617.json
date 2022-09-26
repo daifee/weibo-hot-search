@@ -1,0 +1,410 @@
+{
+  "runTime": 1664172913617,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1623970,
+        "num": 1623970,
+        "word": "DR回应800元可删购买记录",
+        "onboard_time": 1664162185,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 858352,
+        "num": 858352,
+        "word": "妈妈浙大读博成儿子学妹",
+        "onboard_time": 1664164227,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 9290,
+        "num": 810414,
+        "word": "太空视角看丰收有多美",
+        "onboard_time": 1664013324,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1017450,
+        "num": 801709,
+        "word": "iPhone14或成史上销量最差机型",
+        "onboard_time": 1664156126,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 773458,
+        "num": 773458,
+        "word": "河南一地近百只山羊集体跳崖死亡",
+        "onboard_time": 1664161644,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 685331,
+        "num": 685331,
+        "word": "帝释天传说限定皮肤",
+        "onboard_time": 1664168068,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 503276,
+        "num": 503276,
+        "word": "高敏感其实是一种天赋",
+        "onboard_time": 1664166152,
+        "rank": 6,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 456749,
+        "num": 456749,
+        "word": "过完国庆再说",
+        "onboard_time": 1664163567,
+        "rank": 7,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 444131,
+        "num": 444131,
+        "word": "王者滕王阁联动皮肤",
+        "onboard_time": 1664165308,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 440148,
+        "num": 440148,
+        "word": "我真的是自愿上班的",
+        "onboard_time": 1664170166,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1072064,
+        "num": 415234,
+        "word": "JYP中国新男团成员",
+        "onboard_time": 1664168307,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 454168,
+        "num": 413412,
+        "word": "腾讯网易公开国庆未成年人限玩时间",
+        "onboard_time": 1664169151,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 380382,
+        "num": 380382,
+        "word": "长相思三对cp",
+        "onboard_time": 1664168551,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 359954,
+        "num": 359954,
+        "word": "地球上最干净的地方已有微塑料污染",
+        "onboard_time": 1664163867,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317037,
+        "num": 317037,
+        "word": "2小孩打配合偷走宠物店猫咪",
+        "onboard_time": 1664167650,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307698,
+        "num": 307698,
+        "word": "张彬彬下意识对虞书欣的宠溺",
+        "onboard_time": 1664161286,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 290636,
+        "num": 290636,
+        "word": "孕妇街边临产婴儿在遮阳伞下出生",
+        "onboard_time": 1664166689,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281360,
+        "num": 281360,
+        "word": "爷爷顶40度高温贱卖西瓜救重病孙女",
+        "onboard_time": 1664169806,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279358,
+        "num": 279358,
+        "word": "S12垃圾话",
+        "onboard_time": 1664170526,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 255149,
+        "num": 255149,
+        "word": "国庆档新片预售票房破4000万",
+        "onboard_time": 1664172086,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254395,
+        "num": 254395,
+        "word": "女子遭无故开除公司赔122斤硬币",
+        "onboard_time": 1664161286,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249696,
+        "num": 249696,
+        "word": "苹果称很高兴能在印度生产iPhone14",
+        "onboard_time": 1664172502,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 248855,
+        "num": 248855,
+        "word": "出门没拔充电线结果家被烧了",
+        "onboard_time": 1664156845,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247965,
+        "num": 247965,
+        "word": "今年最震撼你的一本小说",
+        "onboard_time": 1664167469,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246518,
+        "num": 246518,
+        "word": "胡同 朝阳群众",
+        "onboard_time": 1664159964,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240879,
+        "num": 240879,
+        "word": "研究发现熬夜导致肥胖的原因",
+        "onboard_time": 1664162664,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224454,
+        "num": 224454,
+        "word": "iPhone15Ultra将取代ProMax",
+        "onboard_time": 1664153009,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 214926,
+        "num": 214926,
+        "word": "张艺兴给染色体打call",
+        "onboard_time": 1664166209,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 201821,
+        "num": 201821,
+        "word": "流浪狗身上被粘广告纸",
+        "onboard_time": 1664166452,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173299,
+        "num": 173299,
+        "word": "云南新增5例确诊3例无症状",
+        "onboard_time": 1664168431,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174256,
+        "num": 172291,
+        "word": "苹果车祸检测或是人工客服",
+        "onboard_time": 1664162126,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 169755,
+        "num": 169755,
+        "word": "杨超越晒家有姐妹杀青合影",
+        "onboard_time": 1664164768,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163400,
+        "num": 163400,
+        "word": "一汽大众客服回应导航时弹出广告",
+        "onboard_time": 1664169627,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 148420,
+        "num": 148420,
+        "word": "警方最高悬赏50万抓捕涉麻涉毒逃犯",
+        "onboard_time": 1664167830,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143666,
+        "num": 143666,
+        "word": "新一届短道国家集训队名单公布",
+        "onboard_time": 1664172382,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136439,
+        "num": 136439,
+        "word": "脱口秀大会5官宣鲁豫",
+        "onboard_time": 1664171607,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131489,
+        "num": 131489,
+        "word": "女童手扒扶梯双脚悬空被男子救起",
+        "onboard_time": 1664170347,
+        "rank": 36,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 131435,
+        "num": 131435,
+        "word": "韩国将翻拍非自然死亡",
+        "onboard_time": 1664160503,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125911,
+        "num": 125911,
+        "word": "沈月陈哲远新剧cp感",
+        "onboard_time": 1664167411,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125909,
+        "num": 125909,
+        "word": "底线人物特辑",
+        "onboard_time": 1664172205,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122506,
+        "num": 122506,
+        "word": "没有物质的爱情会幸福吗",
+        "onboard_time": 1664163747,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120342,
+        "num": 120342,
+        "word": "你薅的羊毛可能是违法的",
+        "onboard_time": 1664151987,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119008,
+        "num": 119008,
+        "word": "赵露思蔡文静关晓彤胡同好看吗",
+        "onboard_time": 1664152047,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109630,
+        "num": 109630,
+        "word": "一级致癌物槟榔消费者已超1亿",
+        "onboard_time": 1664155944,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107050,
+        "num": 107050,
+        "word": "苹果手机平均售价本季度创新高",
+        "onboard_time": 1664160503,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 100599,
+        "num": 100599,
+        "word": "成都适龄女孩接种国产HPV疫苗免费",
+        "onboard_time": 1664172326,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92568,
+        "num": 92568,
+        "word": "成年人睡觉磨牙要警惕",
+        "onboard_time": 1664172683,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87038,
+        "num": 87038,
+        "word": "黑洞里会是另一个世界吗",
+        "onboard_time": 1664165488,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81441,
+        "num": 81441,
+        "word": "对王鹤棣最大的误解是笨蛋帅哥",
+        "onboard_time": 1664150305,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 75751,
+        "num": 75751,
+        "word": "女子开视频陪亲人打麻将",
+        "onboard_time": 1664164588,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记看中国#"
+    }
+  }
+}
