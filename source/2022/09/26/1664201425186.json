@@ -1,0 +1,410 @@
+{
+  "runTime": 1664201425186,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1689122,
+        "num": 1689122,
+        "word": "删掉很重要的人是什么感觉",
+        "onboard_time": 1664192426,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1191886,
+        "num": 1191886,
+        "word": "安倍国葬花费超英女王引质疑",
+        "onboard_time": 1664195005,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 16649,
+        "num": 1122518,
+        "word": "保障粮食安全让中国饭碗端得更稳",
+        "onboard_time": 1664179824,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 4711055,
+        "num": 1116666,
+        "word": "东八区的先生们已下架",
+        "onboard_time": 1664197645,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1104670,
+        "num": 1104670,
+        "word": "1只蟑螂1年可繁衍出1000万只蟑螂",
+        "onboard_time": 1664196266,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 874548,
+        "num": 874548,
+        "word": "任嘉伦请君下线了10分钟又上线",
+        "onboard_time": 1664198124,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 818294,
+        "num": 818294,
+        "word": "女子产后3个月发现又怀孕2个月",
+        "onboard_time": 1664175202,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652419,
+        "num": 652419,
+        "word": "新生儿采足底血爸爸心疼抹泪",
+        "onboard_time": 1664195906,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 547563,
+        "num": 547563,
+        "word": "大学生真的很需要这门课",
+        "onboard_time": 1664187866,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 512290,
+        "num": 512290,
+        "word": "安徽卫视一个神奇的电视台",
+        "onboard_time": 1664199867,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 496974,
+        "num": 496974,
+        "word": "成毅 声音",
+        "onboard_time": 1664199687,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 465771,
+        "num": 465771,
+        "word": "张凌赫的信念感",
+        "onboard_time": 1664198428,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 436538,
+        "num": 436538,
+        "word": "学校回应保安打死喂奶狗妈妈",
+        "onboard_time": 1664191344,
+        "rank": 12,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 411145,
+        "num": 411145,
+        "word": "Lisa黑长直造型直拍",
+        "onboard_time": 1664196567,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132881,
+        "num": 385124,
+        "word": "撒贝宁把折叠屏玩明白了",
+        "onboard_time": 1664200828,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384690,
+        "num": 384690,
+        "word": "香港珠宝大王卢仲辉坠崖身亡",
+        "onboard_time": 1664181504,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373274,
+        "num": 373274,
+        "word": "两个人的小森林",
+        "onboard_time": 1664190144,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 311898,
+        "num": 311898,
+        "word": "蟑螂集体出街男孩吓到腿抖",
+        "onboard_time": 1664178084,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280896,
+        "num": 280896,
+        "word": "造谣工人往黄豆酱中大小便者被行拘",
+        "onboard_time": 1664195967,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244221,
+        "num": 244221,
+        "word": "天津疫情防控",
+        "onboard_time": 1664200765,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308803,
+        "num": 239885,
+        "word": "虞美人庄羽酒醉吻",
+        "onboard_time": 1664191646,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271570,
+        "num": 237568,
+        "word": "长空之王将全国路演",
+        "onboard_time": 1664200528,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216969,
+        "num": 216969,
+        "word": "居然和狗狗产生了信任危机",
+        "onboard_time": 1664197105,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 209648,
+        "num": 209648,
+        "word": "宁波疫情防控",
+        "onboard_time": 1664184504,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199213,
+        "num": 199213,
+        "word": "长这么大还不懂什么是爱情",
+        "onboard_time": 1664196746,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188598,
+        "num": 188598,
+        "word": "Hero微博直播吧",
+        "onboard_time": 1664200647,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 187234,
+        "num": 187234,
+        "word": "张译王俊凯被奶奶粉表白",
+        "onboard_time": 1664199986,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184691,
+        "num": 184691,
+        "word": "禁野2年后的华农兄弟",
+        "onboard_time": 1664182464,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182598,
+        "num": 182598,
+        "word": "俄罗斯一征兵处发生枪击现场视频",
+        "onboard_time": 1664185765,
+        "rank": 28,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 175120,
+        "num": 175120,
+        "word": "甘宇失联17天瘦了近40斤",
+        "onboard_time": 1664200949,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178772,
+        "num": 173780,
+        "word": "刘昊然董子健合作我的朋友安德烈",
+        "onboard_time": 1664191104,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170700,
+        "num": 170700,
+        "word": "刘诗诗张芷溪一念关山美女打架",
+        "onboard_time": 1664186904,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164559,
+        "num": 164559,
+        "word": "李宇春为什么做了只鸵鸟",
+        "onboard_time": 1664192904,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163625,
+        "num": 163625,
+        "word": "官方通报防疫人员将居民大米倒垃圾桶",
+        "onboard_time": 1664182164,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138190,
+        "num": 138190,
+        "word": "你可以永远相信猫的树",
+        "onboard_time": 1664194884,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135645,
+        "num": 135645,
+        "word": "十成新的老虎什么样",
+        "onboard_time": 1664185343,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129010,
+        "num": 129010,
+        "word": "东亚银行",
+        "onboard_time": 1664193983,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 119941,
+        "num": 119941,
+        "word": "原神",
+        "onboard_time": 1664189364,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118103,
+        "num": 118103,
+        "word": "女孩狂蹬自行车为出警消防车引路",
+        "onboard_time": 1664189545,
+        "rank": 38,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 108932,
+        "num": 108932,
+        "word": "美国已对近40个国家实施过经济制裁",
+        "onboard_time": 1664182643,
+        "rank": 39,
+        "category": "国内要闻,国外要闻"
+      },
+      {
+        "raw_hot": 133572,
+        "num": 108910,
+        "word": "张小斐短发封面",
+        "onboard_time": 1664188347,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 121828,
+        "num": 108842,
+        "word": "万里归途口碑",
+        "onboard_time": 1664196086,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 108412,
+        "num": 108412,
+        "word": "男子鸡骨卡喉喝醋吞饭致食道穿孔",
+        "onboard_time": 1664184265,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95604,
+        "num": 95604,
+        "word": "高校团队繁育出无刺武昌鱼",
+        "onboard_time": 1664199628,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92267,
+        "num": 92267,
+        "word": "全球股市几乎进入投降式抛售阶段",
+        "onboard_time": 1664177966,
+        "rank": 44,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 81043,
+        "num": 81043,
+        "word": "广州人才知道的早茶文化",
+        "onboard_time": 1664185102,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 76417,
+        "num": 76417,
+        "word": "原神莱依拉",
+        "onboard_time": 1664189666,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 75617,
+        "num": 75617,
+        "word": "这是火车界的天花板吧",
+        "onboard_time": 1664201306,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 71919,
+        "num": 71919,
+        "word": "柯基的身高优势",
+        "onboard_time": 1664186845,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 70012,
+        "num": 70012,
+        "word": "中国女篮晋级世界杯八强",
+        "onboard_time": 1664183905,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#人类减贫史上的中国奇迹振奋人心#"
+    }
+  }
+}
