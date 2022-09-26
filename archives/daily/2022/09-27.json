@@ -1,6 +1,6 @@
 {
   "startTime": 1664210185188,
-  "endTime": 1664217167326,
+  "endTime": 1664218278634,
   "band_list": [
     {
       "raw_hot": 1935170,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 95886,
-      "num": 53651,
+      "num": 89413,
       "word": "小区24楼掉下哈士奇砸伤老人孩子",
       "onboard_time": 1664213534,
       "rank": 48,
@@ -403,6 +403,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 35003,
+      "num": 35003,
+      "word": "男子脚踢抢食猴子遭满山追打",
+      "onboard_time": 1664214014,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31574,
       "num": 31574,
       "word": "这是火车界的天花板吧",
@@ -417,14 +425,6 @@
       "onboard_time": 1664200528,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 25215,
-      "num": 25215,
-      "word": "男子脚踢抢食猴子遭满山追打",
-      "onboard_time": 1664214014,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22647,
@@ -451,12 +451,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 11324,
-      "num": 11324,
+      "raw_hot": 13515,
+      "num": 13515,
       "word": "鸽子还以为中幻术了",
       "onboard_time": 1664216952,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 11341,
+      "num": 11341,
+      "word": "曾经暖到你的一句歌词",
+      "onboard_time": 1664216892,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 5828,
