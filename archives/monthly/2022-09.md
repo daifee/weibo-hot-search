@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/26 15:52:58
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/26 16:33:11
 </p>
 </blockquote>
 <p>
@@ -5655,6 +5655,12 @@ IU演唱会上的草莓月亮（热度：1037515）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E7%94%A8%E9%AB%98%E5%8E%8B%E9%94%85%E7%85%AE%E7%BB%BF%E8%B1%86%E7%B2%A5%E7%82%B8%E6%AF%81%E5%8E%A8%E6%88%BF%23" target="weibo">
+老人用高压锅煮绿豆粥炸毁厨房（热度：1028829）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E4%B8%8E%E6%88%88%E5%B0%94%E5%B7%B4%E4%B9%94%E5%A4%AB%E9%81%97%E4%BD%93%E5%91%8A%E5%88%AB%23" target="weibo">
 普京与戈尔巴乔夫遗体告别（热度：1027764）
 </a>
@@ -6005,12 +6011,6 @@ BLACKPINK新歌未通过KBS审议（热度：999636）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E8%8A%AD%E6%AF%94%E7%B2%89%E8%B0%81%E9%A9%BE%E9%A9%AD%E4%BD%8F%E4%BA%86%23" target="weibo">
 今天芭比粉谁驾驭住了（热度：993017）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E6%A3%A3%E6%AC%A3%E5%BC%95%E5%8A%9B%E7%9A%84%E4%BD%9C%E7%94%A8%E4%B8%8B%E7%99%BD%E8%B6%8A%E5%85%89%E4%BD%A0%E5%B0%86%E5%90%B4%E9%9C%B2%E5%8F%AF%E9%80%83%23" target="weibo">
-在棣欣引力的作用下白越光你将吴露可逃（热度：992832）
 </a>
 </li>
 
