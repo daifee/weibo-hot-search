@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1664220105206,
+  "endTime": 1664221049940,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -50747,6 +50747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35473,
+      "num": 29681,
+      "word": "普京解除俄常驻欧盟代表职务",
+      "onboard_time": 1664218632,
+      "rank": 20,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 35283,
       "num": 553195,
       "word": "震区群众向救援人员竖起大拇指",
@@ -50985,14 +50993,6 @@
       "onboard_time": 1664052671,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 23406,
-      "num": 23406,
-      "word": "普京解除俄常驻欧盟代表职务",
-      "onboard_time": 1664218632,
-      "rank": 20,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 23158,
@@ -51251,6 +51251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 14994,
+      "num": 14994,
+      "word": "曾经暖到你的一句歌词",
+      "onboard_time": 1664216892,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 14912,
       "num": 14912,
       "word": "致敬平民英雄",
@@ -51297,14 +51305,6 @@
       "onboard_time": 1663880949,
       "rank": 47,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 13447,
-      "num": 13447,
-      "word": "曾经暖到你的一句歌词",
-      "onboard_time": 1664216892,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 13304,
@@ -51571,6 +51571,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 7885,
+      "num": 7885,
+      "word": "没有比认错人更社死的事了",
+      "onboard_time": 1664220130,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 7695,
+      "num": 7695,
+      "word": "美国军方用假账号搞信息战",
+      "onboard_time": 1664220731,
+      "rank": 47,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 7683,
       "num": 9411,
       "word": "0成本打造居家氛围照",
@@ -51601,6 +51617,14 @@
       "onboard_time": 1663274171,
       "rank": 43,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 7438,
+      "num": 7438,
+      "word": "家政公司编造清华毕业生当保姆被罚20万",
+      "onboard_time": 1664220911,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 7383,

@@ -1,6 +1,6 @@
 {
   "startTime": 1664210185188,
-  "endTime": 1664220105206,
+  "endTime": 1664221049940,
   "band_list": [
     {
       "raw_hot": 1935170,
@@ -411,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35473,
+      "num": 29681,
+      "word": "普京解除俄常驻欧盟代表职务",
+      "onboard_time": 1664218632,
+      "rank": 20,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 31574,
       "num": 31574,
       "word": "这是火车界的天花板吧",
@@ -425,14 +433,6 @@
       "onboard_time": 1664200528,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 23406,
-      "num": 23406,
-      "word": "普京解除俄常驻欧盟代表职务",
-      "onboard_time": 1664218632,
-      "rank": 20,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 22647,
@@ -467,8 +467,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 13447,
-      "num": 13447,
+      "raw_hot": 14994,
+      "num": 14994,
       "word": "曾经暖到你的一句歌词",
       "onboard_time": 1664216892,
       "rank": 44,
@@ -481,6 +481,30 @@
       "onboard_time": 1664201429,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 7885,
+      "num": 7885,
+      "word": "没有比认错人更社死的事了",
+      "onboard_time": 1664220130,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 7695,
+      "num": 7695,
+      "word": "美国军方用假账号搞信息战",
+      "onboard_time": 1664220731,
+      "rank": 47,
+      "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 7438,
+      "num": 7438,
+      "word": "家政公司编造清华毕业生当保姆被罚20万",
+      "onboard_time": 1664220911,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 7310,
