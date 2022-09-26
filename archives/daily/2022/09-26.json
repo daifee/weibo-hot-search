@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664177919038,
+  "endTime": 1664178778080,
   "band_list": [
     {
       "raw_hot": 2585281,
@@ -19,7 +19,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2073202,
+      "raw_hot": 2346682,
       "num": 821915,
       "word": "女子产后3个月发现又怀孕2个月",
       "onboard_time": 1664175202,
@@ -123,8 +123,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 841726,
-      "num": 841726,
+      "raw_hot": 844006,
+      "num": 844006,
       "word": "欧阳娜娜MV男主是翟子路",
       "onboard_time": 1664173105,
       "rank": 14,
@@ -227,6 +227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 623116,
+      "num": 623116,
+      "word": "老人用高压锅煮绿豆粥炸毁厨房",
+      "onboard_time": 1664175443,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 587528,
       "num": 587528,
       "word": "成年人睡觉磨牙要警惕",
@@ -291,20 +299,20 @@
       "category": "科技"
     },
     {
-      "raw_hot": 486609,
-      "num": 505585,
-      "word": "老人用高压锅煮绿豆粥炸毁厨房",
-      "onboard_time": 1664175443,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 472158,
       "num": 472158,
       "word": "谢娜十三角关系上海站收官",
       "onboard_time": 1664156906,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 462665,
+      "num": 462665,
+      "word": "北京疾控倡导市民就地过节",
+      "onboard_time": 1664177065,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 455079,
@@ -507,14 +515,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 292075,
-      "num": 292075,
-      "word": "北京疾控倡导市民就地过节",
-      "onboard_time": 1664177065,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 290636,
       "num": 290636,
       "word": "孕妇街边临产婴儿在遮阳伞下出生",
@@ -537,6 +537,14 @@
       "onboard_time": 1664127256,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280297,
+      "num": 280297,
+      "word": "李沁新浪扫楼造型",
+      "onboard_time": 1664177545,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 279358,
@@ -571,12 +579,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 258426,
+      "num": 258426,
+      "word": "3男孩将村民晒的棉花芝麻掀地上",
+      "onboard_time": 1664176105,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255149,
       "num": 255149,
       "word": "国庆档新片预售票房破4000万",
       "onboard_time": 1664172086,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 252343,
+      "num": 252343,
+      "word": "南京小伙租豪车相亲遭拒",
+      "onboard_time": 1664177664,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248596,
+      "num": 248596,
+      "word": "王俊凯用阿拉伯语说你好帅",
+      "onboard_time": 1664178263,
+      "rank": 23,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 247965,
@@ -611,12 +643,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 241149,
+      "num": 241149,
+      "word": "长空之王终极预告",
+      "onboard_time": 1664178503,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 235243,
       "num": 117858,
       "word": "染色体首支单曲IWill",
       "onboard_time": 1664161466,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 233232,
+      "num": 233232,
+      "word": "全球股市几乎进入投降式抛售阶段",
+      "onboard_time": 1664177966,
+      "rank": 25,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 233028,
@@ -633,6 +681,14 @@
       "onboard_time": 1664116773,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 230849,
+      "num": 230849,
+      "word": "王菲献唱万里归途主题曲",
+      "onboard_time": 1664178325,
+      "rank": 26,
+      "category": "影视,音乐"
     },
     {
       "raw_hot": 230433,
@@ -657,14 +713,6 @@
       "onboard_time": 1664119526,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 223712,
-      "num": 223712,
-      "word": "3男孩将村民晒的棉花芝麻掀地上",
-      "onboard_time": 1664176105,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 220529,
@@ -699,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210229,
+      "num": 210229,
+      "word": "张晚意发文告别玱玹",
+      "onboard_time": 1664178325,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 207786,
       "num": 207786,
       "word": "穷鬼快乐餐最强攻略",
@@ -713,6 +769,14 @@
       "onboard_time": 1664155705,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202938,
+      "num": 202938,
+      "word": "蟑螂集体出街男孩吓到腿抖",
+      "onboard_time": 1664178084,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202572,
@@ -843,6 +907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 168206,
+      "num": 168206,
+      "word": "村委会回应近百只山羊集体跳崖坠亡",
+      "onboard_time": 1664178446,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167980,
       "num": 167980,
       "word": "黑洞里会是另一个世界吗",
@@ -857,14 +929,6 @@
       "onboard_time": 1664115573,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 163703,
-      "num": 163703,
-      "word": "李沁新浪扫楼造型",
-      "onboard_time": 1664177545,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 160527,
@@ -971,20 +1035,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 136668,
-      "num": 136668,
-      "word": "南京小伙租豪车相亲遭拒",
-      "onboard_time": 1664177664,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132436,
       "num": 132436,
       "word": "昆明2例新冠初筛阳性活动轨迹",
       "onboard_time": 1664142131,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131336,
+      "num": 131336,
+      "word": "外卖小哥飞奔跳井救起3岁男童",
+      "onboard_time": 1664178025,
+      "rank": 43,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 129125,
@@ -1219,6 +1283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 75068,
+      "num": 379765,
+      "word": "甘宇说绝望时想念家人让他活下来",
+      "onboard_time": 1664175625,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74275,
       "num": 74275,
       "word": "男子投喂流浪狗引来祖孙三代",
@@ -1232,14 +1304,6 @@
       "word": "波兰发生多起涂黑石头冒充煤炭事件",
       "onboard_time": 1664104466,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 70530,
-      "num": 379765,
-      "word": "甘宇说绝望时想念家人让他活下来",
-      "onboard_time": 1664175625,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
