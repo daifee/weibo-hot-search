@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/26 23:47:10
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/27 00:36:25
 </p>
 </blockquote>
 <p>
@@ -4551,6 +4551,12 @@ Twins不承认吴谨言的粤语是自己教的（热度：1255504）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%A5%B3%E5%AD%90%E8%BA%AB%E7%A9%BF%E6%97%A5%E6%9C%AC%E5%92%8C%E6%9C%8D%E5%B0%B1%E9%A4%90%23" target="weibo">
+两女子身穿日本和服就餐（热度：1192227）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23LWX%E7%9B%B4%E6%92%AD%23" target="weibo">
 LWX直播（热度：1190598）
 </a>
@@ -6005,12 +6011,6 @@ byl（热度：1002218）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%A4%A9%E7%8C%AB%E6%97%97%E8%88%B0%E5%BA%97%E8%A2%AB%E6%8C%A4%E5%B4%A9%E4%BA%86%23" target="weibo">
 苹果天猫旗舰店被挤崩了（热度：1001641）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%B4%A0%E9%A2%9C%E5%87%BA%E9%95%9C%E5%A5%BD%E7%9C%9F%E5%AE%9E%23" target="weibo">
-虞书欣素颜出镜好真实（热度：1000422）
 </a>
 </li>
 
