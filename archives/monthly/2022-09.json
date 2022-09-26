@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1664168357332,
+  "endTime": 1664169119519,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -5076,7 +5076,7 @@
     },
     {
       "raw_hot": 1324173,
-      "num": 998139,
+      "num": 1185811,
       "word": "河南一地近百只山羊集体跳崖死亡",
       "onboard_time": 1664161644,
       "rank": 21,
@@ -5753,6 +5753,14 @@
       "onboard_time": 1663502729,
       "rank": 30,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1221383,
+      "num": 1221383,
+      "word": "妈妈浙大读博成儿子学妹",
+      "onboard_time": 1664164227,
+      "rank": 5,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1221135,
@@ -6732,7 +6740,7 @@
     },
     {
       "raw_hot": 1099668,
-      "num": 316527,
+      "num": 319191,
       "word": "iPhone15Ultra将取代ProMax",
       "onboard_time": 1664153009,
       "rank": 10,
@@ -7339,6 +7347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1047977,
+      "num": 574565,
+      "word": "JYP中国新男团成员",
+      "onboard_time": 1664168307,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1046740,
       "num": 1046740,
       "word": "印度成为第五大经济体",
@@ -7937,14 +7953,6 @@
       "onboard_time": 1663553666,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 997458,
-      "num": 997458,
-      "word": "妈妈浙大读博成儿子学妹",
-      "onboard_time": 1664164227,
-      "rank": 5,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 996191,
@@ -11019,6 +11027,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 771015,
+      "num": 771015,
+      "word": "王者滕王阁联动皮肤",
+      "onboard_time": 1664165308,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 770825,
       "num": 426940,
       "word": "苹果学生优惠无法加钱买AirPodsPro",
@@ -11033,14 +11049,6 @@
       "onboard_time": 1663633648,
       "rank": 6,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 770265,
-      "num": 770265,
-      "word": "王者滕王阁联动皮肤",
-      "onboard_time": 1664165308,
-      "rank": 7,
-      "category": "游戏"
     },
     {
       "raw_hot": 769969,
@@ -18363,14 +18371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 461950,
-      "num": 81499,
-      "word": "JYP中国新男团成员",
-      "onboard_time": 1664168307,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 461850,
       "num": 461850,
       "word": "ios16壁纸",
@@ -19217,6 +19217,14 @@
       "onboard_time": 1663467450,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 441835,
+      "num": 441835,
+      "word": "高敏感其实是一种天赋",
+      "onboard_time": 1664166152,
+      "rank": 18,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 441764,
@@ -21625,14 +21633,6 @@
       "onboard_time": 1663931006,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 391749,
-      "num": 391749,
-      "word": "高敏感其实是一种天赋",
-      "onboard_time": 1664166152,
-      "rank": 18,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 391708,
@@ -25259,6 +25259,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 332225,
+      "num": 332225,
+      "word": "流浪狗身上被粘广告纸",
+      "onboard_time": 1664166452,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332076,
       "num": 251975,
       "word": "迪丽热巴黑色镶钻礼服拍摄花絮",
@@ -27939,14 +27947,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 299022,
-      "num": 299022,
-      "word": "流浪狗身上被粘广告纸",
-      "onboard_time": 1664166452,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 299015,
       "num": 299015,
       "word": "四级翻译考了传统文化",
@@ -29179,6 +29179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 286479,
+      "num": 286479,
+      "word": "长相思三对cp",
+      "onboard_time": 1664168551,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 286374,
       "num": 286374,
       "word": "胡一天向秦羽今晚见",
@@ -29304,6 +29312,14 @@
       "word": "顾客过生日饭店墙体地面被涂满蛋糕",
       "onboard_time": 1663425334,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284478,
+      "num": 284478,
+      "word": "孕妇街边临产婴儿在遮阳伞下出生",
+      "onboard_time": 1664166689,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -33459,6 +33475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 242559,
+      "num": 242559,
+      "word": "今年最震撼你的一本小说",
+      "onboard_time": 1664167469,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 242346,
       "num": 242346,
       "word": "第一视角下的小狗有多可爱",
@@ -33553,6 +33577,14 @@
       "onboard_time": 1662198087,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 241435,
+      "num": 166435,
+      "word": "NCT127将举行蚕室演唱会",
+      "onboard_time": 1664168966,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 241386,
@@ -34819,6 +34851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228267,
+      "num": 228267,
+      "word": "帝释天传说限定皮肤",
+      "onboard_time": 1664168068,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 228201,
       "num": 228201,
       "word": "85花古装剧原声率",
@@ -35649,6 +35689,14 @@
       "onboard_time": 1663686989,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220228,
+      "num": 174671,
+      "word": "沈月陈哲远新剧cp感",
+      "onboard_time": 1664167411,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 220171,
@@ -36891,14 +36939,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 208029,
-      "num": 174671,
-      "word": "沈月陈哲远新剧cp感",
-      "onboard_time": 1664167411,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 207888,
       "num": 175458,
       "word": "梁海源再见脱口秀大会",
@@ -37761,14 +37801,6 @@
       "onboard_time": 1663169793,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 200522,
-      "num": 200522,
-      "word": "孕妇街边临产婴儿在遮阳伞下出生",
-      "onboard_time": 1664166689,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 200482,
@@ -39923,14 +39955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 181591,
-      "num": 181591,
-      "word": "今年最震撼你的一本小说",
-      "onboard_time": 1664167469,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 181433,
       "num": 181433,
       "word": "泸定地震已致86人遇难",
@@ -41219,6 +41243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 167980,
+      "num": 167980,
+      "word": "黑洞里会是另一个世界吗",
+      "onboard_time": 1664165488,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167773,
       "num": 167773,
       "word": "国行版iPhone14继续使用实体SIM卡",
@@ -41321,14 +41353,6 @@
       "onboard_time": 1662643169,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 166817,
-      "num": 166817,
-      "word": "黑洞里会是另一个世界吗",
-      "onboard_time": 1664165488,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166800,
@@ -42579,6 +42603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154792,
+      "num": 154792,
+      "word": "2小孩打配合偷走宠物店猫咪",
+      "onboard_time": 1664167650,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154762,
       "num": 154762,
       "word": "辽宁男篮正式续约郭艾伦",
@@ -43435,6 +43467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 146948,
+      "num": 146948,
+      "word": "工作安排是等国庆",
+      "onboard_time": 1664168431,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146848,
       "num": 146848,
       "word": "LV回应乒乓球拍售价1.8万",
@@ -43945,14 +43985,6 @@
       "onboard_time": 1662536607,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 140762,
-      "num": 140762,
-      "word": "帝释天传说限定皮肤",
-      "onboard_time": 1664168068,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 140761,
@@ -46379,6 +46411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114672,
+      "num": 114672,
+      "word": "云南新增5例确诊3例无症状",
+      "onboard_time": 1664168431,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114607,
       "num": 114607,
       "word": "刘新云一审获刑14年",
@@ -47297,14 +47337,6 @@
       "onboard_time": 1663925961,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 102660,
-      "num": 102660,
-      "word": "2小孩打配合偷走宠物店猫咪",
-      "onboard_time": 1664167650,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102566,
