@@ -1,6 +1,6 @@
 {
   "startTime": 1664210185188,
-  "endTime": 1664210185188,
+  "endTime": 1664211705197,
   "band_list": [
     {
       "raw_hot": 1935170,
@@ -40,6 +40,14 @@
       "word": "1只蟑螂1年可繁衍出1000万只蟑螂",
       "onboard_time": 1664196266,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 380512,
+      "num": 173623,
+      "word": "大学生用肯德基优惠券漏洞诈骗获刑",
+      "onboard_time": 1664209101,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -139,20 +147,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 176005,
+      "num": 176005,
+      "word": "江西菜的微辣到底有多辣",
+      "onboard_time": 1664207965,
+      "rank": 19,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 162378,
       "num": 162378,
       "word": "周琦重回墨尔本凤凰队",
       "onboard_time": 1664205266,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 153088,
-      "num": 153088,
-      "word": "江西菜的微辣到底有多辣",
-      "onboard_time": 1664207965,
-      "rank": 19,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 152542,
@@ -169,14 +177,6 @@
       "onboard_time": 1664191646,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 123604,
-      "num": 123604,
-      "word": "大学生用肯德基优惠券漏洞诈骗获刑",
-      "onboard_time": 1664209101,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 120867,
@@ -219,6 +219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 100962,
+      "num": 100962,
+      "word": "书法成为一级学科为何引发热议",
+      "onboard_time": 1664209701,
+      "rank": 45,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 98909,
       "num": 77019,
       "word": "成毅 声音",
@@ -243,20 +251,20 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 88748,
+      "num": 88748,
+      "word": "理想男友图鉴",
+      "onboard_time": 1664209760,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 81981,
       "num": 81981,
       "word": "居然和狗狗产生了信任危机",
       "onboard_time": 1664197105,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 79048,
-      "num": 74070,
-      "word": "理想男友图鉴",
-      "onboard_time": 1664209760,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 78190,
@@ -355,14 +363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 48486,
-      "num": 48486,
-      "word": "书法成为一级学科为何引发热议",
-      "onboard_time": 1664209701,
-      "rank": 45,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 46335,
       "num": 46335,
       "word": "原神莱依拉",
@@ -393,6 +393,14 @@
       "onboard_time": 1664201306,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 22647,
+      "num": 22647,
+      "word": "十成新的老虎什么样",
+      "onboard_time": 1664185343,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 5828,
