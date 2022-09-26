@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664201425186,
+  "endTime": 1664202975589,
   "band_list": [
     {
       "raw_hot": 4711055,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1383146,
+      "num": 1104670,
+      "word": "1只蟑螂1年可繁衍出1000万只蟑螂",
+      "onboard_time": 1664196266,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1360762,
       "num": 1360762,
       "word": "你薅的羊毛可能是违法的",
@@ -129,14 +137,6 @@
       "onboard_time": 1664164227,
       "rank": 5,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1104670,
-      "num": 1104670,
-      "word": "1只蟑螂1年可繁衍出1000万只蟑螂",
-      "onboard_time": 1664196266,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1099668,
@@ -211,8 +211,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 874548,
-      "num": 874548,
+      "raw_hot": 882086,
+      "num": 882086,
       "word": "任嘉伦请君下线了10分钟又上线",
       "onboard_time": 1664198124,
       "rank": 20,
@@ -225,6 +225,14 @@
       "onboard_time": 1664173105,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 841464,
+      "num": 841464,
+      "word": "安徽卫视一个神奇的电视台",
+      "onboard_time": 1664199867,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 822526,
@@ -297,6 +305,22 @@
       "onboard_time": 1664177966,
       "rank": 25,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 737401,
+      "num": 737401,
+      "word": "甘宇失联17天瘦了近40斤",
+      "onboard_time": 1664200949,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 730064,
+      "num": 730064,
+      "word": "天津疫情防控",
+      "onboard_time": 1664200765,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 726326,
@@ -443,12 +467,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 512290,
-      "num": 512290,
-      "word": "安徽卫视一个神奇的电视台",
-      "onboard_time": 1664199867,
-      "rank": 15,
-      "category": "幽默"
+      "raw_hot": 525903,
+      "num": 525903,
+      "word": "张凌赫的信念感",
+      "onboard_time": 1664198428,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 508840,
@@ -497,14 +521,6 @@
       "onboard_time": 1664156906,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 465771,
-      "num": 465771,
-      "word": "张凌赫的信念感",
-      "onboard_time": 1664198428,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 462665,
@@ -587,6 +603,14 @@
       "category": "国内要闻,国外要闻"
     },
     {
+      "raw_hot": 416793,
+      "num": 416793,
+      "word": "两个人的小森林",
+      "onboard_time": 1664190144,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 404947,
       "num": 404947,
       "word": "上海户籍育龄妇女二孩率不足13%",
@@ -657,14 +681,6 @@
       "onboard_time": 1664112986,
       "rank": 6,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 373274,
-      "num": 373274,
-      "word": "两个人的小森林",
-      "onboard_time": 1664190144,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 369785,
@@ -931,6 +947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 253789,
+      "num": 253789,
+      "word": "居然和狗狗产生了信任危机",
+      "onboard_time": 1664197105,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 248596,
       "num": 248596,
       "word": "王俊凯用阿拉伯语说你好帅",
@@ -961,14 +985,6 @@
       "onboard_time": 1664163747,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 244221,
-      "num": 244221,
-      "word": "天津疫情防控",
-      "onboard_time": 1664200765,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 244112,
@@ -1155,14 +1171,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 216969,
-      "num": 216969,
-      "word": "居然和狗狗产生了信任危机",
-      "onboard_time": 1664197105,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 214237,
       "num": 214237,
       "word": "中国女篮晋级世界杯八强",
@@ -1327,14 +1335,6 @@
       "num": 176357,
       "word": "女子开视频陪亲人打麻将",
       "onboard_time": 1664164588,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175120,
-      "num": 175120,
-      "word": "甘宇失联17天瘦了近40斤",
-      "onboard_time": 1664200949,
       "rank": 29,
       "category": "社会新闻"
     },
@@ -1507,6 +1507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 139066,
+      "num": 159089,
+      "word": "高校团队繁育出无刺武昌鱼",
+      "onboard_time": 1664199628,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138993,
       "num": 138993,
       "word": "薛凯琪说每个女生都是公主",
@@ -1539,8 +1547,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136598,
+      "num": 101283,
+      "word": "金珉锡新曲BrandNew",
+      "onboard_time": 1664201429,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 132881,
-      "num": 385124,
+      "num": 427575,
       "word": "撒贝宁把折叠屏玩明白了",
       "onboard_time": 1664200828,
       "rank": 14,
@@ -1691,6 +1707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101384,
+      "num": 101384,
+      "word": "笑里藏刀杯",
+      "onboard_time": 1664202868,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 101186,
       "num": 81567,
       "word": "虞书欣新剧暗恋相当于明恋",
@@ -1723,14 +1747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 95604,
-      "num": 95604,
-      "word": "高校团队繁育出无刺武昌鱼",
-      "onboard_time": 1664199628,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 94520,
       "num": 94520,
       "word": "甘宇讲述被困过程",
@@ -1761,6 +1777,14 @@
       "onboard_time": 1664157747,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87370,
+      "num": 87370,
+      "word": "这是火车界的天花板吧",
+      "onboard_time": 1664201306,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 85129,
@@ -1835,14 +1859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 75617,
-      "num": 75617,
-      "word": "这是火车界的天花板吧",
-      "onboard_time": 1664201306,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 75068,
       "num": 379765,
       "word": "甘宇说绝望时想念家人让他活下来",
@@ -1865,6 +1881,14 @@
       "onboard_time": 1664104466,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73368,
+      "num": 73368,
+      "word": "人类幼崽的那些奇奇怪怪",
+      "onboard_time": 1664200348,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 69239,
@@ -1921,14 +1945,6 @@
       "onboard_time": 1664114912,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 62683,
-      "num": 70525,
-      "word": "人类幼崽的那些奇奇怪怪",
-      "onboard_time": 1664200348,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 61736,
