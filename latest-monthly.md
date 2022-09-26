@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/26 16:33:11
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/26 16:52:34
 </p>
 </blockquote>
 <p>
@@ -3081,6 +3081,12 @@ B站诉争哔哩哔哩商标被驳回（热度：1518132）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E4%B8%80%E5%AE%B6%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E9%9C%80%E8%A6%8137%E4%B8%87%E5%85%83%23" target="weibo">
+开一家蜜雪冰城需要37万元（热度：1493474）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%AA%E6%9D%80%E5%AE%89%E5%80%8D%E5%AB%8C%E7%8A%AF%E4%BA%BA%E7%94%9F%E8%A2%AB%E6%8B%8D%E6%88%90%E7%94%B5%E5%BD%B1%23" target="weibo">
 枪杀安倍嫌犯人生被拍成电影（热度：1493301）
 </a>
@@ -6005,12 +6011,6 @@ BLACKPINK新歌未通过KBS审议（热度：999636）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E4%BB%8A%E6%99%9A%E4%BF%AE%E7%BD%97%E5%9C%BA%23" target="weibo">
 你好星期六今晚修罗场（热度：996055）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E8%8A%AD%E6%AF%94%E7%B2%89%E8%B0%81%E9%A9%BE%E9%A9%AD%E4%BD%8F%E4%BA%86%23" target="weibo">
-今天芭比粉谁驾驭住了（热度：993017）
 </a>
 </li>
 
