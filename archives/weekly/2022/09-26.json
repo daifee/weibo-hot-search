@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664218278634,
+  "endTime": 1664220105206,
   "band_list": [
     {
       "raw_hot": 4711055,
@@ -1860,7 +1860,7 @@
     },
     {
       "raw_hot": 95886,
-      "num": 89413,
+      "num": 94924,
       "word": "小区24楼掉下哈士奇砸伤老人孩子",
       "onboard_time": 1664213534,
       "rank": 48,
@@ -2123,12 +2123,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 35003,
-      "num": 35003,
+      "raw_hot": 39722,
+      "num": 36931,
       "word": "男子脚踢抢食猴子遭满山追打",
       "onboard_time": 1664214014,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23406,
+      "num": 23406,
+      "word": "普京解除俄常驻欧盟代表职务",
+      "onboard_time": 1664218632,
+      "rank": 20,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 22631,
@@ -2179,6 +2187,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 15314,
+      "num": 15314,
+      "word": "鸽子还以为中幻术了",
+      "onboard_time": 1664216952,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 15062,
       "num": 15062,
       "word": "林更新与凤行片场喂流浪狗",
@@ -2187,12 +2203,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 13515,
-      "num": 13515,
-      "word": "鸽子还以为中幻术了",
-      "onboard_time": 1664216952,
-      "rank": 49,
-      "category": "幽默"
+      "raw_hot": 13447,
+      "num": 13447,
+      "word": "曾经暖到你的一句歌词",
+      "onboard_time": 1664216892,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 12817,
@@ -2201,14 +2217,6 @@
       "onboard_time": 1664133190,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 11341,
-      "num": 11341,
-      "word": "曾经暖到你的一句歌词",
-      "onboard_time": 1664216892,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 10756,
