@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664182354254,
+  "endTime": 1664184472964,
   "band_list": [
     {
       "raw_hot": 2585281,
@@ -17,6 +17,14 @@
       "onboard_time": 1664162185,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2389680,
+      "num": 2389680,
+      "word": "开一家蜜雪冰城需要37万元",
+      "onboard_time": 1664180184,
+      "rank": 10,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 2346682,
@@ -41,14 +49,6 @@
       "onboard_time": 1664156126,
       "rank": 3,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1493474,
-      "num": 1493474,
-      "word": "开一家蜜雪冰城需要37万元",
-      "onboard_time": 1664180184,
-      "rank": 10,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1447527,
@@ -81,6 +81,14 @@
       "onboard_time": 1664164227,
       "rank": 5,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1151862,
+      "num": 1151862,
+      "word": "香港珠宝大王卢仲辉坠崖身亡",
+      "onboard_time": 1664181504,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1099668,
@@ -259,6 +267,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 604066,
+      "num": 604066,
+      "word": "博主疑似被EDG起诉侵权",
+      "onboard_time": 1664180486,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 595268,
+      "num": 595268,
+      "word": "官方通报防疫人员将居民大米倒垃圾桶",
+      "onboard_time": 1664182164,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 587528,
       "num": 587528,
       "word": "成年人睡觉磨牙要警惕",
@@ -323,14 +347,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 479162,
-      "num": 479162,
-      "word": "博主疑似被EDG起诉侵权",
-      "onboard_time": 1664180486,
-      "rank": 41,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 472158,
       "num": 472158,
       "word": "谢娜十三角关系上海站收官",
@@ -371,12 +387,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 441634,
+      "num": 441634,
+      "word": "禁野2年后的华农兄弟",
+      "onboard_time": 1664182464,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 433813,
       "num": 192073,
       "word": "苹果手机平均售价本季度创新高",
       "onboard_time": 1664160503,
       "rank": 20,
       "category": "科技"
+    },
+    {
+      "raw_hot": 432215,
+      "num": 432215,
+      "word": "成毅台词",
+      "onboard_time": 1664183905,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 425074,
@@ -401,6 +433,14 @@
       "onboard_time": 1664137811,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 398988,
+      "num": 398988,
+      "word": "张彬彬单手公主抱关门",
+      "onboard_time": 1664180784,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 388086,
@@ -467,14 +507,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 362733,
-      "num": 362733,
-      "word": "张彬彬单手公主抱关门",
-      "onboard_time": 1664180784,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 354805,
       "num": 354805,
       "word": "金珉锡今日solo出道",
@@ -497,6 +529,14 @@
       "onboard_time": 1664166452,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 331373,
+      "num": 331373,
+      "word": "虞书欣虞美人黑化版",
+      "onboard_time": 1664180784,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 324641,
@@ -563,14 +603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 303425,
-      "num": 303425,
-      "word": "虞书欣虞美人黑化版",
-      "onboard_time": 1664180784,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 292177,
       "num": 177438,
       "word": "炽道定档0929",
@@ -611,11 +643,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 284338,
-      "num": 284338,
-      "word": "香港珠宝大王卢仲辉坠崖身亡",
-      "onboard_time": 1664181504,
-      "rank": 20,
+      "raw_hot": 282293,
+      "num": 282293,
+      "word": "男子被啤酒瓶盖卡喉用馒头咽下",
+      "onboard_time": 1664181023,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -667,6 +699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 250797,
+      "num": 250797,
+      "word": "狗狗被蛇伤咬脸肿成狗熊",
+      "onboard_time": 1664182585,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248596,
       "num": 248596,
       "word": "王俊凯用阿拉伯语说你好帅",
@@ -681,6 +721,14 @@
       "onboard_time": 1664167469,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 247707,
+      "num": 247707,
+      "word": "美国已对近40个国家实施过经济制裁",
+      "onboard_time": 1664182643,
+      "rank": 21,
+      "category": "国内要闻,国外要闻"
     },
     {
       "raw_hot": 244548,
@@ -729,6 +777,14 @@
       "onboard_time": 1664139312,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232404,
+      "num": 232404,
+      "word": "长空之王双人海报",
+      "onboard_time": 1664184026,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 231016,
@@ -783,6 +839,14 @@
       "num": 174671,
       "word": "沈月陈哲远新剧cp感",
       "onboard_time": 1664167411,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 218920,
+      "num": 218920,
+      "word": "杨紫长相思小夭花絮照",
+      "onboard_time": 1664181684,
       "rank": 30,
       "category": "影视"
     },
@@ -849,22 +913,6 @@
       "onboard_time": 1664143092,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 194685,
-      "num": 194685,
-      "word": "官方通报防疫人员将居民大米倒垃圾桶",
-      "onboard_time": 1664182164,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 194079,
-      "num": 194079,
-      "word": "杨紫长相思小夭花絮照",
-      "onboard_time": 1664181684,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 193049,
@@ -1003,14 +1051,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 163793,
-      "num": 163793,
-      "word": "男子被啤酒瓶盖卡喉用馒头咽下",
-      "onboard_time": 1664181023,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160527,
       "num": 160527,
       "word": "毒蛇咬伤散步男子民警将速度拉满",
@@ -1033,6 +1073,14 @@
       "onboard_time": 1664148683,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 157732,
+      "num": 157732,
+      "word": "中国女篮半场领先26分",
+      "onboard_time": 1664183485,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 157452,
@@ -1099,6 +1147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138993,
+      "num": 138993,
+      "word": "薛凯琪说每个女生都是公主",
+      "onboard_time": 1664179224,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 138974,
       "num": 138974,
       "word": "为什么感情里就应该作一点",
@@ -1123,14 +1179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 134927,
-      "num": 134927,
-      "word": "薛凯琪说每个女生都是公主",
-      "onboard_time": 1664179224,
-      "rank": 46,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 132436,
       "num": 132436,
       "word": "昆明2例新冠初筛阳性活动轨迹",
@@ -1153,6 +1201,14 @@
       "onboard_time": 1664122224,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 127516,
+      "num": 127516,
+      "word": "女生向同桌比心收超甜回应",
+      "onboard_time": 1664179463,
+      "rank": 47,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 126685,
@@ -1211,12 +1267,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 110305,
-      "num": 110305,
-      "word": "女生向同桌比心收超甜回应",
-      "onboard_time": 1664179463,
-      "rank": 47,
-      "category": "社会新闻,情感"
+      "raw_hot": 111364,
+      "num": 111364,
+      "word": "男子鸡骨卡喉喝醋吞饭致食道穿孔",
+      "onboard_time": 1664184265,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110160,
