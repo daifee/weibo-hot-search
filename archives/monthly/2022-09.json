@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1664221049940,
+  "endTime": 1664223972581,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -51123,6 +51123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 19372,
+      "num": 19372,
+      "word": "3岁小孩踢金毛家长在旁边大笑",
+      "onboard_time": 1664221692,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18893,
       "num": 18893,
       "word": "逆水寒微光渲染实机演示",
@@ -51289,6 +51297,14 @@
       "onboard_time": 1662059291,
       "rank": 38,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 14473,
+      "num": 14473,
+      "word": "家政公司编造清华毕业生当保姆被罚20万",
+      "onboard_time": 1664220911,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13813,
@@ -51499,12 +51515,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 9662,
+      "num": 9662,
+      "word": "没有比认错人更社死的事了",
+      "onboard_time": 1664220130,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 9641,
       "num": 13105,
       "word": "范世錡Mike互动好有梗",
       "onboard_time": 1662754990,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 9377,
+      "num": 9377,
+      "word": "外交部回应中朝重启铁路货运",
+      "onboard_time": 1664222111,
+      "rank": 38,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 9303,
@@ -51571,14 +51603,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 7885,
-      "num": 7885,
-      "word": "没有比认错人更社死的事了",
-      "onboard_time": 1664220130,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 7695,
       "num": 7695,
       "word": "美国军方用假账号搞信息战",
@@ -51617,14 +51641,6 @@
       "onboard_time": 1663274171,
       "rank": 43,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 7438,
-      "num": 7438,
-      "word": "家政公司编造清华毕业生当保姆被罚20万",
-      "onboard_time": 1664220911,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 7383,
@@ -51811,6 +51827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 6637,
+      "num": 7723,
+      "word": "尹锡悦回应脏话争议",
+      "onboard_time": 1664223671,
+      "rank": 47,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 6634,
       "num": 7287,
       "word": "甘宇被找到时双手发抖",
@@ -51923,6 +51947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 6171,
+      "num": 7705,
+      "word": "德国总理新冠检测阳性",
+      "onboard_time": 1664223911,
+      "rank": 48,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 6089,
       "num": 6089,
       "word": "玩翻花时千万不要眨眼睛",
@@ -51985,6 +52017,14 @@
       "onboard_time": 1663881311,
       "rank": 46,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 6012,
+      "num": 7698,
+      "word": "大妈带狗不栓绳保安一网兜走狗",
+      "onboard_time": 1664223250,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 5972,

@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664221049940,
+  "endTime": 1664223972581,
   "band_list": [
     {
       "raw_hot": 4711055,
@@ -2155,6 +2155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 19372,
+      "num": 19372,
+      "word": "3岁小孩踢金毛家长在旁边大笑",
+      "onboard_time": 1664221692,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18058,
       "num": 18058,
       "word": "刘耀文张真源严浩翔瑜预告海报",
@@ -2187,6 +2195,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 15947,
+      "num": 15947,
+      "word": "石家庄疫情防控",
+      "onboard_time": 1664221629,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15314,
       "num": 15314,
       "word": "鸽子还以为中幻术了",
@@ -2209,6 +2225,14 @@
       "onboard_time": 1664216892,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 14473,
+      "num": 14473,
+      "word": "家政公司编造清华毕业生当保姆被罚20万",
+      "onboard_time": 1664220911,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12817,
@@ -2235,12 +2259,28 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 7885,
-      "num": 7885,
+      "raw_hot": 9662,
+      "num": 9662,
       "word": "没有比认错人更社死的事了",
       "onboard_time": 1664220130,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 9377,
+      "num": 9377,
+      "word": "外交部回应中朝重启铁路货运",
+      "onboard_time": 1664222111,
+      "rank": 38,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 8002,
+      "num": 8002,
+      "word": "青年大学习",
+      "onboard_time": 1664222831,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 7695,
@@ -2251,12 +2291,12 @@
       "category": "国外要闻,军事"
     },
     {
-      "raw_hot": 7438,
-      "num": 7438,
-      "word": "家政公司编造清华毕业生当保姆被罚20万",
-      "onboard_time": 1664220911,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 6637,
+      "num": 7723,
+      "word": "尹锡悦回应脏话争议",
+      "onboard_time": 1664223671,
+      "rank": 47,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 6377,
@@ -2267,12 +2307,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 6171,
+      "num": 7705,
+      "word": "德国总理新冠检测阳性",
+      "onboard_time": 1664223911,
+      "rank": 48,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 6034,
       "num": 6034,
       "word": "福建舰距离入列还有多远",
       "onboard_time": 1664137031,
       "rank": 47,
       "category": "军事"
+    },
+    {
+      "raw_hot": 6012,
+      "num": 7698,
+      "word": "大妈带狗不栓绳保安一网兜走狗",
+      "onboard_time": 1664223250,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 5889,
