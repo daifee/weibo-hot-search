@@ -1,6 +1,6 @@
 {
   "startTime": 1664210185188,
-  "endTime": 1664231159385,
+  "endTime": 1664232233393,
   "band_list": [
     {
       "raw_hot": 1935170,
@@ -75,6 +75,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 312731,
+      "num": 312731,
+      "word": "小区24楼掉下哈士奇砸伤老人孩子",
+      "onboard_time": 1664213534,
+      "rank": 48,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 298856,
       "num": 298856,
       "word": "大学生真的很需要这门课",
@@ -123,14 +131,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 202203,
-      "num": 202203,
-      "word": "小区24楼掉下哈士奇砸伤老人孩子",
-      "onboard_time": 1664213534,
-      "rank": 48,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 191426,
       "num": 191426,
       "word": "任嘉伦请君下线了10分钟又上线",
@@ -171,6 +171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152867,
+      "num": 152867,
+      "word": "3岁小孩踢金毛家长在旁边大笑",
+      "onboard_time": 1664221692,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152542,
       "num": 152542,
       "word": "Lisa黑长直造型直拍",
@@ -185,6 +193,14 @@
       "onboard_time": 1664191646,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 135614,
+      "num": 135614,
+      "word": "学生发型不达标校门口排队理发",
+      "onboard_time": 1664226550,
+      "rank": 32,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 120867,
@@ -208,14 +224,6 @@
       "word": "蟑螂集体出街男孩吓到腿抖",
       "onboard_time": 1664178084,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 109135,
-      "num": 109135,
-      "word": "3岁小孩踢金毛家长在旁边大笑",
-      "onboard_time": 1664221692,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -259,12 +267,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 91533,
+      "num": 91533,
+      "word": "男子脚踢抢食猴子遭满山追打",
+      "onboard_time": 1664214014,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89097,
       "num": 89097,
       "word": "5个好习惯让生活更充实",
       "onboard_time": 1664203468,
       "rank": 27,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 88798,
+      "num": 88798,
+      "word": "东北首个核电供暖项目即将启动",
+      "onboard_time": 1664227992,
+      "rank": 47,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 88748,
@@ -291,12 +315,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 77159,
-      "num": 77159,
-      "word": "学生发型不达标校门口排队理发",
-      "onboard_time": 1664226550,
-      "rank": 32,
-      "category": "社会新闻,教育"
+      "raw_hot": 77411,
+      "num": 77411,
+      "word": "外交部回应中朝重启铁路货运",
+      "onboard_time": 1664222111,
+      "rank": 38,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 73914,
@@ -315,12 +339,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 67921,
-      "num": 67921,
-      "word": "男子脚踢抢食猴子遭满山追打",
-      "onboard_time": 1664214014,
-      "rank": 24,
+      "raw_hot": 72774,
+      "num": 72774,
+      "word": "石家庄疫情防控",
+      "onboard_time": 1664221629,
+      "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 70870,
+      "num": 70870,
+      "word": "普京解除俄常驻欧盟代表职务",
+      "onboard_time": 1664218632,
+      "rank": 20,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 67841,
@@ -347,12 +379,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 62829,
-      "num": 62829,
-      "word": "外交部回应中朝重启铁路货运",
-      "onboard_time": 1664222111,
-      "rank": 38,
-      "category": "国内要闻"
+      "raw_hot": 64645,
+      "num": 64645,
+      "word": "大妈带狗不栓绳保安一网兜走狗",
+      "onboard_time": 1664223250,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61619,
@@ -361,22 +393,6 @@
       "onboard_time": 1664203288,
       "rank": 37,
       "category": "国内要闻,科技"
-    },
-    {
-      "raw_hot": 60437,
-      "num": 60437,
-      "word": "普京解除俄常驻欧盟代表职务",
-      "onboard_time": 1664218632,
-      "rank": 20,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 59855,
-      "num": 59855,
-      "word": "东北首个核电供暖项目即将启动",
-      "onboard_time": 1664227992,
-      "rank": 47,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 58417,
@@ -396,7 +412,7 @@
     },
     {
       "raw_hot": 55407,
-      "num": 53360,
+      "num": 54587,
       "word": "男子地下车库练摩托车撞400万宾利",
       "onboard_time": 1664212755,
       "rank": 38,
@@ -419,14 +435,6 @@
       "category": "国内要闻,国外要闻"
     },
     {
-      "raw_hot": 51848,
-      "num": 51848,
-      "word": "大妈带狗不栓绳保安一网兜走狗",
-      "onboard_time": 1664223250,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 50963,
       "num": 50963,
       "word": "官方通报防疫人员将居民大米倒垃圾桶",
@@ -435,12 +443,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 50177,
-      "num": 50177,
-      "word": "石家庄疫情防控",
-      "onboard_time": 1664221629,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 47083,
+      "num": 47083,
+      "word": "AirPodsPro2用户反馈随机断连",
+      "onboard_time": 1664228052,
+      "rank": 41,
+      "category": "科技"
     },
     {
       "raw_hot": 46335,
@@ -449,6 +457,14 @@
       "onboard_time": 1664189666,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 45627,
+      "num": 45627,
+      "word": "家政公司编造清华毕业生当保姆被罚20万",
+      "onboard_time": 1664220911,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 43924,
@@ -467,20 +483,20 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 34681,
-      "num": 34681,
+      "raw_hot": 38537,
+      "num": 38537,
       "word": "长空之王将全国路演",
       "onboard_time": 1664200528,
       "rank": 41,
       "category": "影视"
     },
     {
-      "raw_hot": 33692,
-      "num": 33692,
-      "word": "家政公司编造清华毕业生当保姆被罚20万",
-      "onboard_time": 1664220911,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 33723,
+      "num": 33723,
+      "word": "浙江一小学为学生搭建校园灶台",
+      "onboard_time": 1664228230,
+      "rank": 48,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 31574,
@@ -491,12 +507,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 30262,
-      "num": 30262,
-      "word": "AirPodsPro2用户反馈随机断连",
-      "onboard_time": 1664228052,
-      "rank": 41,
-      "category": "科技"
+      "raw_hot": 30439,
+      "num": 30439,
+      "word": "女子建植物工厂让菠菜一年长22茬",
+      "onboard_time": 1664228831,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22647,
@@ -515,6 +531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 20559,
+      "num": 20559,
+      "word": "等着被同类打的猫咪",
+      "onboard_time": 1664228772,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 19535,
       "num": 19427,
       "word": "柳岩家有姐妹杀青",
@@ -523,12 +547,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 15474,
-      "num": 15474,
-      "word": "浙江一小学为学生搭建校园灶台",
-      "onboard_time": 1664228230,
-      "rank": 48,
-      "category": "教育,社会新闻"
+      "raw_hot": 16985,
+      "num": 16985,
+      "word": "弯腿球王是怎样炼成的",
+      "onboard_time": 1664226550,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 16052,
+      "num": 16130,
+      "word": "曾经暖到你的一句歌词",
+      "onboard_time": 1664216892,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 15314,
@@ -539,44 +571,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 14994,
-      "num": 14994,
-      "word": "曾经暖到你的一句歌词",
-      "onboard_time": 1664216892,
-      "rank": 44,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 13575,
-      "num": 13575,
-      "word": "女子建植物工厂让菠菜一年长22茬",
-      "onboard_time": 1664228831,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13391,
-      "num": 13391,
-      "word": "弯腿球王是怎样炼成的",
-      "onboard_time": 1664226550,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 10492,
-      "num": 12707,
+      "raw_hot": 13371,
+      "num": 16129,
       "word": "在辽宁舰上生活是什么体验",
       "onboard_time": 1664225830,
       "rank": 38,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 10210,
-      "num": 12681,
-      "word": "等着被同类打的猫咪",
-      "onboard_time": 1664228772,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 9949,
