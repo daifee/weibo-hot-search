@@ -1,0 +1,410 @@
+{
+  "runTime": 1664217167326,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 439744,
+        "num": 439744,
+        "word": "删掉很重要的人是什么感觉",
+        "onboard_time": 1664192426,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 333086,
+        "num": 333086,
+        "word": "东八区的先生们已下架",
+        "onboard_time": 1664197645,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 588,
+        "num": 216411,
+        "word": "保障粮食安全让中国饭碗端得更稳",
+        "onboard_time": 1664179824,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 130199,
+        "num": 130199,
+        "word": "大学生真的很需要这门课",
+        "onboard_time": 1664187866,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109720,
+        "num": 109720,
+        "word": "甘宇失联17天瘦了近40斤",
+        "onboard_time": 1664200949,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106405,
+        "num": 106405,
+        "word": "1只蟑螂1年可繁衍出1000万只蟑螂",
+        "onboard_time": 1664196266,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75287,
+        "num": 75287,
+        "word": "女子产后3个月发现又怀孕2个月",
+        "onboard_time": 1664175202,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71171,
+        "num": 71171,
+        "word": "学校回应保安打死喂奶狗妈妈",
+        "onboard_time": 1664191344,
+        "rank": 7,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 64916,
+        "num": 64916,
+        "word": "两个人的小森林",
+        "onboard_time": 1664190144,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 53965,
+        "num": 53965,
+        "word": "安徽卫视一个神奇的电视台",
+        "onboard_time": 1664199867,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95886,
+        "num": 53651,
+        "word": "小区24楼掉下哈士奇砸伤老人孩子",
+        "onboard_time": 1664213534,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 90119,
+        "num": 53428,
+        "word": "大学生用肯德基优惠券漏洞诈骗获刑",
+        "onboard_time": 1664209101,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55407,
+        "num": 53360,
+        "word": "男子地下车库练摩托车撞400万宾利",
+        "onboard_time": 1664212755,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53128,
+        "num": 53128,
+        "word": "书法成为一级学科为何引发热议",
+        "onboard_time": 1664209701,
+        "rank": 13,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 52088,
+        "num": 52088,
+        "word": "安倍国葬花费超英女王引质疑",
+        "onboard_time": 1664195005,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 46063,
+        "num": 46063,
+        "word": "虞美人分手自救清醒指南",
+        "onboard_time": 1664205926,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 37320,
+        "num": 37320,
+        "word": "为什么总有男明星沉迷霸总叙事",
+        "onboard_time": 1664204669,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37957,
+        "num": 37216,
+        "word": "虞美人庄羽酒醉吻",
+        "onboard_time": 1664191646,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 36245,
+        "num": 36245,
+        "word": "新生儿采足底血爸爸心疼抹泪",
+        "onboard_time": 1664195906,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35882,
+        "num": 35882,
+        "word": "天津疫情防控",
+        "onboard_time": 1664200765,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32289,
+        "num": 32289,
+        "word": "张凌赫的信念感",
+        "onboard_time": 1664198428,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31531,
+        "num": 31531,
+        "word": "江西菜的微辣到底有多辣",
+        "onboard_time": 1664207965,
+        "rank": 21,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 29710,
+        "num": 29710,
+        "word": "任嘉伦请君下线了10分钟又上线",
+        "onboard_time": 1664198124,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26804,
+        "num": 26804,
+        "word": "理想男友图鉴",
+        "onboard_time": 1664209760,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25215,
+        "num": 25215,
+        "word": "男子脚踢抢食猴子遭满山追打",
+        "onboard_time": 1664214014,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23843,
+        "num": 23843,
+        "word": "成毅 声音",
+        "onboard_time": 1664199687,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23661,
+        "num": 23661,
+        "word": "长这么大还不懂什么是爱情",
+        "onboard_time": 1664196746,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23653,
+        "num": 23653,
+        "word": "禁野2年后的华农兄弟",
+        "onboard_time": 1664182464,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23456,
+        "num": 23456,
+        "word": "官方通报防疫人员将居民大米倒垃圾桶",
+        "onboard_time": 1664182164,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23427,
+        "num": 23427,
+        "word": "蟑螂集体出街男孩吓到腿抖",
+        "onboard_time": 1664178084,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22631,
+        "num": 22631,
+        "word": "这猫看起来很有心眼",
+        "onboard_time": 1664214074,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 22512,
+        "num": 22512,
+        "word": "香港珠宝大王卢仲辉坠崖身亡",
+        "onboard_time": 1664181504,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20640,
+        "num": 20640,
+        "word": "周琦重回墨尔本凤凰队",
+        "onboard_time": 1664205266,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20470,
+        "num": 20470,
+        "word": "长空之王将全国路演",
+        "onboard_time": 1664200528,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20431,
+        "num": 20431,
+        "word": "刘昊然董子健合作我的朋友安德烈",
+        "onboard_time": 1664191104,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20266,
+        "num": 20266,
+        "word": "你可以永远相信猫的树",
+        "onboard_time": 1664194884,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19996,
+        "num": 19996,
+        "word": "美国已对近40个国家实施过经济制裁",
+        "onboard_time": 1664182643,
+        "rank": 36,
+        "category": "国内要闻,国外要闻"
+      },
+      {
+        "raw_hot": 19687,
+        "num": 19687,
+        "word": "宁波疫情防控",
+        "onboard_time": 1664184504,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19485,
+        "num": 19485,
+        "word": "Lisa黑长直造型直拍",
+        "onboard_time": 1664196567,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 19535,
+        "num": 19427,
+        "word": "柳岩家有姐妹杀青",
+        "onboard_time": 1664215753,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17962,
+        "num": 17962,
+        "word": "俄罗斯一征兵处发生枪击现场视频",
+        "onboard_time": 1664185765,
+        "rank": 40,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 17461,
+        "num": 17461,
+        "word": "原神莱依拉",
+        "onboard_time": 1664189666,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 16504,
+        "num": 16504,
+        "word": "造谣工人往黄豆酱中大小便者被行拘",
+        "onboard_time": 1664195967,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15426,
+        "num": 15426,
+        "word": "居然和狗狗产生了信任危机",
+        "onboard_time": 1664197105,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15080,
+        "num": 15080,
+        "word": "高校团队繁育出无刺武昌鱼",
+        "onboard_time": 1664199628,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14430,
+        "num": 14430,
+        "word": "王俊凯说新时代的力量是必不可少",
+        "onboard_time": 1664209878,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 13479,
+        "num": 13479,
+        "word": "5个好习惯让生活更充实",
+        "onboard_time": 1664203468,
+        "rank": 46,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 13325,
+        "num": 13325,
+        "word": "Hero微博直播吧",
+        "onboard_time": 1664200647,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 12722,
+        "num": 12722,
+        "word": "人类幼崽的那些奇奇怪怪",
+        "onboard_time": 1664200348,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 11324,
+        "num": 11324,
+        "word": "鸽子还以为中幻术了",
+        "onboard_time": 1664216952,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的体育外交故事#"
+    }
+  }
+}

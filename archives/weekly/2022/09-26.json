@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664214737913,
+  "endTime": 1664217167326,
   "band_list": [
     {
       "raw_hot": 4711055,
@@ -1859,6 +1859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95886,
+      "num": 53651,
+      "word": "小区24楼掉下哈士奇砸伤老人孩子",
+      "onboard_time": 1664213534,
+      "rank": 48,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 94520,
       "num": 94520,
       "word": "甘宇讲述被困过程",
@@ -2075,20 +2083,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 55407,
+      "num": 53360,
+      "word": "男子地下车库练摩托车撞400万宾利",
+      "onboard_time": 1664212755,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52921,
       "num": 52921,
       "word": "威马年亏82亿创始人年薪12亿",
       "onboard_time": 1664099966,
       "rank": 46,
       "category": "财经"
-    },
-    {
-      "raw_hot": 52811,
-      "num": 46201,
-      "word": "男子地下车库练摩托车撞400万宾利",
-      "onboard_time": 1664212755,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 48655,
@@ -2115,12 +2123,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 37450,
-      "num": 37450,
-      "word": "小区24楼掉下哈士奇砸伤老人孩子",
-      "onboard_time": 1664213534,
-      "rank": 48,
-      "category": "社会负面"
+      "raw_hot": 25215,
+      "num": 25215,
+      "word": "男子脚踢抢食猴子遭满山追打",
+      "onboard_time": 1664214014,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22631,
+      "num": 22631,
+      "word": "这猫看起来很有心眼",
+      "onboard_time": 1664214074,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 19535,
+      "num": 19427,
+      "word": "柳岩家有姐妹杀青",
+      "onboard_time": 1664215753,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 18058,
@@ -2129,14 +2153,6 @@
       "onboard_time": 1664103204,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 17731,
-      "num": 17731,
-      "word": "这猫看起来很有心眼",
-      "onboard_time": 1664214074,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 17592,
@@ -2177,6 +2193,14 @@
       "onboard_time": 1664133190,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 11324,
+      "num": 11324,
+      "word": "鸽子还以为中幻术了",
+      "onboard_time": 1664216952,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 10756,

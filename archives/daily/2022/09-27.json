@@ -1,6 +1,6 @@
 {
   "startTime": 1664210185188,
-  "endTime": 1664214737913,
+  "endTime": 1664217167326,
   "band_list": [
     {
       "raw_hot": 1935170,
@@ -235,6 +235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 95886,
+      "num": 53651,
+      "word": "小区24楼掉下哈士奇砸伤老人孩子",
+      "onboard_time": 1664213534,
+      "rank": 48,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 94894,
       "num": 75870,
       "word": "你可以永远相信猫的树",
@@ -339,20 +347,20 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 55407,
+      "num": 53360,
+      "word": "男子地下车库练摩托车撞400万宾利",
+      "onboard_time": 1664212755,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53574,
       "num": 53574,
       "word": "人类幼崽的那些奇奇怪怪",
       "onboard_time": 1664200348,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 52811,
-      "num": 46201,
-      "word": "男子地下车库练摩托车撞400万宾利",
-      "onboard_time": 1664212755,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 51854,
@@ -395,14 +403,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 37450,
-      "num": 37450,
-      "word": "小区24楼掉下哈士奇砸伤老人孩子",
-      "onboard_time": 1664213534,
-      "rank": 48,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 31574,
       "num": 31574,
       "word": "这是火车界的天花板吧",
@@ -419,6 +419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 25215,
+      "num": 25215,
+      "word": "男子脚踢抢食猴子遭满山追打",
+      "onboard_time": 1664214014,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22647,
       "num": 22647,
       "word": "十成新的老虎什么样",
@@ -427,11 +435,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17731,
-      "num": 17731,
+      "raw_hot": 22631,
+      "num": 22631,
       "word": "这猫看起来很有心眼",
       "onboard_time": 1664214074,
       "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 19535,
+      "num": 19427,
+      "word": "柳岩家有姐妹杀青",
+      "onboard_time": 1664215753,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 11324,
+      "num": 11324,
+      "word": "鸽子还以为中幻术了",
+      "onboard_time": 1664216952,
+      "rank": 49,
       "category": "幽默"
     },
     {
