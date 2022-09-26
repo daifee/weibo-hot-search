@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/26 00:32:19 ~ 2022/09/26 17:27:52
+本榜单时间：2022/09/26 00:32:19 ~ 2022/09/26 17:44:15
 </p>
 </blockquote>
 <p>
@@ -57,6 +57,12 @@ iPhone14或成史上销量最差机型（热度：1720648）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E7%8F%A0%E5%AE%9D%E5%A4%A7%E7%8E%8B%E5%8D%A2%E4%BB%B2%E8%BE%89%E5%9D%A0%E5%B4%96%E8%BA%AB%E4%BA%A1%23" target="weibo">
+香港珠宝大王卢仲辉坠崖身亡（热度：1444022）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%96%85%E7%9A%84%E7%BE%8A%E6%AF%9B%E5%8F%AF%E8%83%BD%E6%98%AF%E8%BF%9D%E6%B3%95%E7%9A%84%23" target="weibo">
 你薅的羊毛可能是违法的（热度：1360762）
 </a>
@@ -71,12 +77,6 @@ iPhone14或成史上销量最差机型（热度：1720648）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E6%B5%99%E5%A4%A7%E8%AF%BB%E5%8D%9A%E6%88%90%E5%84%BF%E5%AD%90%E5%AD%A6%E5%A6%B9%23" target="weibo">
 妈妈浙大读博成儿子学妹（热度：1221383）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E7%8F%A0%E5%AE%9D%E5%A4%A7%E7%8E%8B%E5%8D%A2%E4%BB%B2%E8%BE%89%E5%9D%A0%E5%B4%96%E8%BA%AB%E4%BA%A1%23" target="weibo">
-香港珠宝大王卢仲辉坠崖身亡（热度：1151862）
 </a>
 </li>
 
@@ -177,6 +177,12 @@ JYP中国新男团成员（热度：1072064）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E9%98%B2%E7%96%AB%E4%BA%BA%E5%91%98%E5%B0%86%E5%B1%85%E6%B0%91%E5%A4%A7%E7%B1%B3%E5%80%92%E5%9E%83%E5%9C%BE%E6%A1%B6%23" target="weibo">
+官方通报防疫人员将居民大米倒垃圾桶（热度：734919）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%81%AD%E6%97%A0%E6%95%85%E5%BC%80%E9%99%A4%E5%85%AC%E5%8F%B8%E8%B5%94122%E6%96%A4%E7%A1%AC%E5%B8%81%23" target="weibo">
 女子遭无故开除公司赔122斤硬币（热度：695302）
 </a>
@@ -219,12 +225,6 @@ JYP中国新男团成员（热度：1072064）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E9%98%B2%E7%96%AB%E4%BA%BA%E5%91%98%E5%B0%86%E5%B1%85%E6%B0%91%E5%A4%A7%E7%B1%B3%E5%80%92%E5%9E%83%E5%9C%BE%E6%A1%B6%23" target="weibo">
-官方通报防疫人员将居民大米倒垃圾桶（热度：595268）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E5%B9%B4%E4%BA%BA%E7%9D%A1%E8%A7%89%E7%A3%A8%E7%89%99%E8%A6%81%E8%AD%A6%E6%83%95%23" target="weibo">
 成年人睡觉磨牙要警惕（热度：587528）
 </a>
@@ -237,6 +237,12 @@ JYP中国新男团成员（热度：1072064）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E5%8F%B0%E8%AF%8D%23" target="weibo">
+成毅台词（热度：559914）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E9%80%9A%E6%8A%A5%E6%96%B0%E7%94%9F%E5%85%A5%E5%AD%A63%E5%A4%A9%E7%AF%AE%E7%90%83%E5%9C%BA%E7%8C%9D%E6%AD%BB%23" target="weibo">
 高校通报新生入学3天篮球场猝死（热度：538267）
 </a>
@@ -245,6 +251,12 @@ JYP中国新男团成员（热度：1072064）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%BA%A7%E8%87%B4%E7%99%8C%E7%89%A9%E6%A7%9F%E6%A6%94%E6%B6%88%E8%B4%B9%E8%80%85%E5%B7%B2%E8%B6%851%E4%BA%BF%23" target="weibo">
 一级致癌物槟榔消费者已超1亿（热度：534830）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A6%81%E9%87%8E2%E5%B9%B4%E5%90%8E%E7%9A%84%E5%8D%8E%E5%86%9C%E5%85%84%E5%BC%9F%23" target="weibo">
+禁野2年后的华农兄弟（热度：533759）
 </a>
 </li>
 
@@ -303,20 +315,14 @@ JYP中国新男团成员（热度：1072064）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A6%81%E9%87%8E2%E5%B9%B4%E5%90%8E%E7%9A%84%E5%8D%8E%E5%86%9C%E5%85%84%E5%BC%9F%23" target="weibo">
-禁野2年后的华农兄弟（热度：441634）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E6%B3%A2%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%23" target="weibo">
+宁波疫情防控（热度：447224）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E5%B9%B3%E5%9D%87%E5%94%AE%E4%BB%B7%E6%9C%AC%E5%AD%A3%E5%BA%A6%E5%88%9B%E6%96%B0%E9%AB%98%23" target="weibo">
 苹果手机平均售价本季度创新高（热度：433813）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E5%8F%B0%E8%AF%8D%23" target="weibo">
-成毅台词（热度：432215）
 </a>
 </li>
 
@@ -393,6 +399,12 @@ TF家族Youngblood练习室（热度：380754）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B7%B2%E5%AF%B9%E8%BF%9140%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%AE%9E%E6%96%BD%E8%BF%87%E7%BB%8F%E6%B5%8E%E5%88%B6%E8%A3%81%23" target="weibo">
+美国已对近40个国家实施过经济制裁（热度：356975）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E7%8F%89%E9%94%A1%E4%BB%8A%E6%97%A5solo%E5%87%BA%E9%81%93%23" target="weibo">
 金珉锡今日solo出道（热度：354805）
 </a>
@@ -405,14 +417,20 @@ TF家族Youngblood练习室（热度：380754）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%99%9E%E7%BE%8E%E4%BA%BA%E9%BB%91%E5%8C%96%E7%89%88%23" target="weibo">
+虞书欣虞美人黑化版（热度：342905）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%81%E6%B5%AA%E7%8B%97%E8%BA%AB%E4%B8%8A%E8%A2%AB%E7%B2%98%E5%B9%BF%E5%91%8A%E7%BA%B8%23" target="weibo">
 流浪狗身上被粘广告纸（热度：332225）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%99%9E%E7%BE%8E%E4%BA%BA%E9%BB%91%E5%8C%96%E7%89%88%23" target="weibo">
-虞书欣虞美人黑化版（热度：331373）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E7%8B%97%E8%A2%AB%E8%9B%87%E4%BC%A4%E5%92%AC%E8%84%B8%E8%82%BF%E6%88%90%E7%8B%97%E7%86%8A%23" target="weibo">
+狗狗被蛇伤咬脸肿成狗熊（热度：325821）
 </a>
 </li>
 
@@ -537,12 +555,6 @@ S12垃圾话（热度：279358）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E7%8B%97%E8%A2%AB%E8%9B%87%E4%BC%A4%E5%92%AC%E8%84%B8%E8%82%BF%E6%88%90%E7%8B%97%E7%86%8A%23" target="weibo">
-狗狗被蛇伤咬脸肿成狗熊（热度：250797）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%94%A8%E9%98%BF%E6%8B%89%E4%BC%AF%E8%AF%AD%E8%AF%B4%E4%BD%A0%E5%A5%BD%E5%B8%85%23" target="weibo">
 王俊凯用阿拉伯语说你好帅（热度：248596）
 </a>
@@ -551,12 +563,6 @@ S12垃圾话（热度：279358）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E6%9C%80%E9%9C%87%E6%92%BC%E4%BD%A0%E7%9A%84%E4%B8%80%E6%9C%AC%E5%B0%8F%E8%AF%B4%23" target="weibo">
 今年最震撼你的一本小说（热度：247965）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B7%B2%E5%AF%B9%E8%BF%9140%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%AE%9E%E6%96%BD%E8%BF%87%E7%BB%8F%E6%B5%8E%E5%88%B6%E8%A3%81%23" target="weibo">
-美国已对近40个国家实施过经济制裁（热度：247707）
 </a>
 </li>
 
@@ -633,6 +639,12 @@ NCT127将举行蚕室演唱会（热度：241435）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E9%95%BF%E7%9B%B8%E6%80%9D%E5%B0%8F%E5%A4%AD%E8%8A%B1%E7%B5%AE%E7%85%A7%23" target="weibo">
+杨紫长相思小夭花絮照（热度：221000）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%8B%90%E5%A6%96%E5%B0%8F%E7%BA%A2%E5%A8%98%E8%83%A1%E5%B0%BE%E7%94%9F%E8%B7%AF%E9%80%8F%23" target="weibo">
 张凌赫狐妖小红娘胡尾生路透（热度：220529）
 </a>
@@ -641,12 +653,6 @@ NCT127将举行蚕室演唱会（热度：241435）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%9C%88%E9%99%88%E5%93%B2%E8%BF%9C%E6%96%B0%E5%89%A7cp%E6%84%9F%23" target="weibo">
 沈月陈哲远新剧cp感（热度：220228）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E9%95%BF%E7%9B%B8%E6%80%9D%E5%B0%8F%E5%A4%AD%E8%8A%B1%E7%B5%AE%E7%85%A7%23" target="weibo">
-杨紫长相思小夭花絮照（热度：218920）
 </a>
 </li>
 
@@ -969,6 +975,12 @@ NCT127将举行蚕室演唱会（热度：241435）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E4%BA%BA%E6%89%8D%E7%9F%A5%E9%81%93%E7%9A%84%E6%97%A9%E8%8C%B6%E6%96%87%E5%8C%96%23" target="weibo">
+广州人才知道的早茶文化（热度：110310）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E7%9A%84%E6%9E%AB%E5%8F%B6%E7%BA%A2%E4%BA%86%23" target="weibo">
 北京的枫叶红了（热度：110160）
 </a>
@@ -1013,6 +1025,12 @@ WB晋级挑杯半决赛（热度：103890）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E7%9A%84%E6%AD%8C%23" target="weibo">
 我们的歌（热度：96288）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E6%88%90%E6%96%B0%E7%9A%84%E8%80%81%E8%99%8E%E4%BB%80%E4%B9%88%E6%A0%B7%23" target="weibo">
+十成新的老虎什么样（热度：94690）
 </a>
 </li>
 
