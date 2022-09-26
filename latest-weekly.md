@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/26 00:32:19 ~ 2022/09/27 05:44:23
+本榜单时间：2022/09/26 00:32:19 ~ 2022/09/27 06:25:59
 </p>
 </blockquote>
 <p>
@@ -975,6 +975,12 @@ NCT127将举行蚕室演唱会（热度：241435）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%8C%BA24%E6%A5%BC%E6%8E%89%E4%B8%8B%E5%93%88%E5%A3%AB%E5%A5%87%E7%A0%B8%E4%BC%A4%E8%80%81%E4%BA%BA%E5%AD%A9%E5%AD%90%23" target="weibo">
+小区24楼掉下哈士奇砸伤老人孩子（热度：202203）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8C%AA%E9%AB%98%E9%80%9F%E8%A2%AB%E6%92%9E%E5%8D%A1%E8%BF%9B%E4%BF%9D%E9%99%A9%E6%9D%A0%23" target="weibo">
 小猪高速被撞卡进保险杠（热度：199363）
 </a>
@@ -1341,6 +1347,12 @@ LESSERAFIM概念预告（热度：110135）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%233%E5%B2%81%E5%B0%8F%E5%AD%A9%E8%B8%A2%E9%87%91%E6%AF%9B%E5%AE%B6%E9%95%BF%E5%9C%A8%E6%97%81%E8%BE%B9%E5%A4%A7%E7%AC%91%23" target="weibo">
+3岁小孩踢金毛家长在旁边大笑（热度：109135）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%91%E9%87%8C%E8%97%8F%E5%88%80%E6%9D%AF%23" target="weibo">
 笑里藏刀杯（热度：107892）
 </a>
@@ -1403,12 +1415,6 @@ WB晋级挑杯半决赛（热度：103890）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E7%9A%84%E6%AD%8C%23" target="weibo">
 我们的歌（热度：96288）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%8C%BA24%E6%A5%BC%E6%8E%89%E4%B8%8B%E5%93%88%E5%A3%AB%E5%A5%87%E7%A0%B8%E4%BC%A4%E8%80%81%E4%BA%BA%E5%AD%A9%E5%AD%90%23" target="weibo">
-小区24楼掉下哈士奇砸伤老人孩子（热度：95886）
 </a>
 </li>
 
@@ -1491,6 +1497,12 @@ iPadPro2022或支持无线充电（热度：91901）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E5%8F%91%E5%9E%8B%E4%B8%8D%E8%BE%BE%E6%A0%87%E6%A0%A1%E9%97%A8%E5%8F%A3%E6%8E%92%E9%98%9F%E7%90%86%E5%8F%91%23" target="weibo">
+学生发型不达标校门口排队理发（热度：77159）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%AA%A8%E6%8A%98%E5%80%9F%E7%94%A8%E5%A4%96%E7%94%A5%E5%A5%B3%E6%89%AD%E6%89%AD%E8%BD%A6%E4%BB%A3%E6%AD%A5%23" target="weibo">
 女子骨折借用外甥女扭扭车代步（热度：76648）
 </a>
@@ -1539,6 +1551,12 @@ iPadPro2022或支持无线充电（热度：91901）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%84%9A%E8%B8%A2%E6%8A%A2%E9%A3%9F%E7%8C%B4%E5%AD%90%E9%81%AD%E6%BB%A1%E5%B1%B1%E8%BF%BD%E6%89%93%23" target="weibo">
+男子脚踢抢食猴子遭满山追打（热度：67921）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%9D%E9%9A%9C%E7%B2%AE%E9%A3%9F%E5%AE%89%E5%85%A8%E8%AE%A9%E4%B8%AD%E5%9B%BD%E9%A5%AD%E7%A2%97%E7%AB%AF%E5%BE%97%E6%9B%B4%E7%A8%B3%23" target="weibo">
 保障粮食安全让中国饭碗端得更稳（热度：67815）
 </a>
@@ -1563,6 +1581,12 @@ iPadPro2022或支持无线充电（热度：91901）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%AD%E6%9C%9D%E9%87%8D%E5%90%AF%E9%93%81%E8%B7%AF%E8%B4%A7%E8%BF%90%23" target="weibo">
+外交部回应中朝重启铁路货运（热度：62829）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%97%E7%9F%A5%E9%82%BB%E6%A1%8C%E5%BA%86%E7%94%9F%E7%94%B7%E5%AD%90%E4%B8%93%E9%97%A8%E4%B9%B0%E7%8E%A9%E5%81%B6%E7%9B%B8%E8%B5%A0%23" target="weibo">
 得知邻桌庆生男子专门买玩偶相赠（热度：61736）
 </a>
@@ -1571,6 +1595,18 @@ iPadPro2022或支持无线充电（热度：91901）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E9%93%B6%E6%B2%B3%E6%96%B9%E8%88%9F%E9%9F%B3%E4%B9%90%E8%8A%82%23" target="weibo">
 张杰银河方舟音乐节（热度：61307）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E8%A7%A3%E9%99%A4%E4%BF%84%E5%B8%B8%E9%A9%BB%E6%AC%A7%E7%9B%9F%E4%BB%A3%E8%A1%A8%E8%81%8C%E5%8A%A1%23" target="weibo">
+普京解除俄常驻欧盟代表职务（热度：60437）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E9%A6%96%E4%B8%AA%E6%A0%B8%E7%94%B5%E4%BE%9B%E6%9A%96%E9%A1%B9%E7%9B%AE%E5%8D%B3%E5%B0%86%E5%90%AF%E5%8A%A8%23" target="weibo">
+东北首个核电供暖项目即将启动（热度：59855）
 </a>
 </li>
 
@@ -1587,8 +1623,14 @@ iPadPro2022或支持无线充电（热度：91901）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%233%E5%B2%81%E5%B0%8F%E5%AD%A9%E8%B8%A2%E9%87%91%E6%AF%9B%E5%AE%B6%E9%95%BF%E5%9C%A8%E6%97%81%E8%BE%B9%E5%A4%A7%E7%AC%91%23" target="weibo">
-3岁小孩踢金毛家长在旁边大笑（热度：50617）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A6%88%E5%B8%A6%E7%8B%97%E4%B8%8D%E6%A0%93%E7%BB%B3%E4%BF%9D%E5%AE%89%E4%B8%80%E7%BD%91%E5%85%9C%E8%B5%B0%E7%8B%97%23" target="weibo">
+大妈带狗不栓绳保安一网兜走狗（热度：51848）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%B3%E5%AE%B6%E5%BA%84%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%23" target="weibo">
+石家庄疫情防控（热度：50177）
 </a>
 </li>
 
@@ -1611,38 +1653,14 @@ iPadPro2022或支持无线充电（热度：91901）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%84%9A%E8%B8%A2%E6%8A%A2%E9%A3%9F%E7%8C%B4%E5%AD%90%E9%81%AD%E6%BB%A1%E5%B1%B1%E8%BF%BD%E6%89%93%23" target="weibo">
-男子脚踢抢食猴子遭满山追打（热度：39722）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%AD%E6%9C%9D%E9%87%8D%E5%90%AF%E9%93%81%E8%B7%AF%E8%B4%A7%E8%BF%90%23" target="weibo">
-外交部回应中朝重启铁路货运（热度：36773）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E8%A7%A3%E9%99%A4%E4%BF%84%E5%B8%B8%E9%A9%BB%E6%AC%A7%E7%9B%9F%E4%BB%A3%E8%A1%A8%E8%81%8C%E5%8A%A1%23" target="weibo">
-普京解除俄常驻欧盟代表职务（热度：35473）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A6%88%E5%B8%A6%E7%8B%97%E4%B8%8D%E6%A0%93%E7%BB%B3%E4%BF%9D%E5%AE%89%E4%B8%80%E7%BD%91%E5%85%9C%E8%B5%B0%E7%8B%97%23" target="weibo">
-大妈带狗不栓绳保安一网兜走狗（热度：33116）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E6%94%BF%E5%85%AC%E5%8F%B8%E7%BC%96%E9%80%A0%E6%B8%85%E5%8D%8E%E6%AF%95%E4%B8%9A%E7%94%9F%E5%BD%93%E4%BF%9D%E5%A7%86%E8%A2%AB%E7%BD%9A20%E4%B8%87%23" target="weibo">
-家政公司编造清华毕业生当保姆被罚20万（热度：24956）
+家政公司编造清华毕业生当保姆被罚20万（热度：33692）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9F%B3%E5%AE%B6%E5%BA%84%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%23" target="weibo">
-石家庄疫情防控（热度：22783）
+<a href="https://s.weibo.com/weibo?q=%23AirPodsPro2%E7%94%A8%E6%88%B7%E5%8F%8D%E9%A6%88%E9%9A%8F%E6%9C%BA%E6%96%AD%E8%BF%9E%23" target="weibo">
+AirPodsPro2用户反馈随机断连（热度：30262）
 </a>
 </li>
 
@@ -1683,6 +1701,12 @@ iPadPro2022或支持无线充电（热度：91901）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E4%B8%80%E5%B0%8F%E5%AD%A6%E4%B8%BA%E5%AD%A6%E7%94%9F%E6%90%AD%E5%BB%BA%E6%A0%A1%E5%9B%AD%E7%81%B6%E5%8F%B0%23" target="weibo">
+浙江一小学为学生搭建校园灶台（热度：15474）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%BD%E5%AD%90%E8%BF%98%E4%BB%A5%E4%B8%BA%E4%B8%AD%E5%B9%BB%E6%9C%AF%E4%BA%86%23" target="weibo">
 鸽子还以为中幻术了（热度：15314）
 </a>
@@ -1701,8 +1725,14 @@ iPadPro2022或支持无线充电（热度：91901）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E5%8F%91%E5%9E%8B%E4%B8%8D%E8%BE%BE%E6%A0%87%E6%A0%A1%E9%97%A8%E5%8F%A3%E6%8E%92%E9%98%9F%E7%90%86%E5%8F%91%23" target="weibo">
-学生发型不达标校门口排队理发（热度：13127）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%BB%BA%E6%A4%8D%E7%89%A9%E5%B7%A5%E5%8E%82%E8%AE%A9%E8%8F%A0%E8%8F%9C%E4%B8%80%E5%B9%B4%E9%95%BF22%E8%8C%AC%23" target="weibo">
+女子建植物工厂让菠菜一年长22茬（热度：13575）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%AF%E8%85%BF%E7%90%83%E7%8E%8B%E6%98%AF%E6%80%8E%E6%A0%B7%E7%82%BC%E6%88%90%E7%9A%84%23" target="weibo">
+弯腿球王是怎样炼成的（热度：13391）
 </a>
 </li>
 
@@ -1719,8 +1749,14 @@ iPadPro2022或支持无线充电（热度：91901）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%AF%E8%85%BF%E7%90%83%E7%8E%8B%E6%98%AF%E6%80%8E%E6%A0%B7%E7%82%BC%E6%88%90%E7%9A%84%23" target="weibo">
-弯腿球王是怎样炼成的（热度：10112）
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E8%BE%BD%E5%AE%81%E8%88%B0%E4%B8%8A%E7%94%9F%E6%B4%BB%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23" target="weibo">
+在辽宁舰上生活是什么体验（热度：10492）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AD%89%E7%9D%80%E8%A2%AB%E5%90%8C%E7%B1%BB%E6%89%93%E7%9A%84%E7%8C%AB%E5%92%AA%23" target="weibo">
+等着被同类打的猫咪（热度：10210）
 </a>
 </li>
 
@@ -1733,18 +1769,6 @@ iPadPro2022或支持无线充电（热度：91901）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E6%97%B6%E5%85%89%23" target="weibo">
 二十大时光（热度：9718）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23AirPodsPro2%E7%94%A8%E6%88%B7%E5%8F%8D%E9%A6%88%E9%9A%8F%E6%9C%BA%E6%96%AD%E8%BF%9E%23" target="weibo">
-AirPodsPro2用户反馈随机断连（热度：9090）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E8%BE%BD%E5%AE%81%E8%88%B0%E4%B8%8A%E7%94%9F%E6%B4%BB%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23" target="weibo">
-在辽宁舰上生活是什么体验（热度：8628）
 </a>
 </li>
 
@@ -1767,12 +1791,6 @@ AirPodsPro2用户反馈随机断连（热度：9090）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E9%A6%96%E4%B8%AA%E6%A0%B8%E7%94%B5%E4%BE%9B%E6%9A%96%E9%A1%B9%E7%9B%AE%E5%8D%B3%E5%B0%86%E5%90%AF%E5%8A%A8%23" target="weibo">
-东北首个核电供暖项目即将启动（热度：7032）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%B9%E9%94%A1%E6%82%A6%E5%9B%9E%E5%BA%94%E8%84%8F%E8%AF%9D%E4%BA%89%E8%AE%AE%23" target="weibo">
 尹锡悦回应脏话争议（热度：6637）
 </a>
@@ -1787,12 +1805,6 @@ AirPodsPro2用户反馈随机断连（热度：9090）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%90%86%E6%96%B0%E5%86%A0%E6%A3%80%E6%B5%8B%E9%98%B3%E6%80%A7%23" target="weibo">
 德国总理新冠检测阳性（热度：6171）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E4%B8%80%E5%B0%8F%E5%AD%A6%E4%B8%BA%E5%AD%A6%E7%94%9F%E6%90%AD%E5%BB%BA%E6%A0%A1%E5%9B%AD%E7%81%B6%E5%8F%B0%23" target="weibo">
-浙江一小学为学生搭建校园灶台（热度：6147）
 </a>
 </li>
 

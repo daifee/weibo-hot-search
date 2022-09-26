@@ -1,6 +1,6 @@
 {
   "startTime": 1664210185188,
-  "endTime": 1664228663669,
+  "endTime": 1664231159385,
   "band_list": [
     {
       "raw_hot": 1935170,
@@ -123,6 +123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 202203,
+      "num": 202203,
+      "word": "小区24楼掉下哈士奇砸伤老人孩子",
+      "onboard_time": 1664213534,
+      "rank": 48,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 191426,
       "num": 191426,
       "word": "任嘉伦请君下线了10分钟又上线",
@@ -203,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109135,
+      "num": 109135,
+      "word": "3岁小孩踢金毛家长在旁边大笑",
+      "onboard_time": 1664221692,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108602,
       "num": 108602,
       "word": "香港珠宝大王卢仲辉坠崖身亡",
@@ -233,14 +249,6 @@
       "onboard_time": 1664199687,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 95886,
-      "num": 94924,
-      "word": "小区24楼掉下哈士奇砸伤老人孩子",
-      "onboard_time": 1664213534,
-      "rank": 48,
-      "category": "社会负面"
     },
     {
       "raw_hot": 94894,
@@ -283,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 77159,
+      "num": 77159,
+      "word": "学生发型不达标校门口排队理发",
+      "onboard_time": 1664226550,
+      "rank": 32,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 73914,
       "num": 73914,
       "word": "原神",
@@ -297,6 +313,14 @@
       "onboard_time": 1664191104,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 67921,
+      "num": 67921,
+      "word": "男子脚踢抢食猴子遭满山追打",
+      "onboard_time": 1664214014,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67841,
@@ -323,12 +347,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 62829,
+      "num": 62829,
+      "word": "外交部回应中朝重启铁路货运",
+      "onboard_time": 1664222111,
+      "rank": 38,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 61619,
       "num": 61619,
       "word": "中国航天2天2连发",
       "onboard_time": 1664203288,
       "rank": 37,
       "category": "国内要闻,科技"
+    },
+    {
+      "raw_hot": 60437,
+      "num": 60437,
+      "word": "普京解除俄常驻欧盟代表职务",
+      "onboard_time": 1664218632,
+      "rank": 20,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 59855,
+      "num": 59855,
+      "word": "东北首个核电供暖项目即将启动",
+      "onboard_time": 1664227992,
+      "rank": 47,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 58417,
@@ -371,6 +419,14 @@
       "category": "国内要闻,国外要闻"
     },
     {
+      "raw_hot": 51848,
+      "num": 51848,
+      "word": "大妈带狗不栓绳保安一网兜走狗",
+      "onboard_time": 1664223250,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50963,
       "num": 50963,
       "word": "官方通报防疫人员将居民大米倒垃圾桶",
@@ -379,11 +435,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 50617,
-      "num": 50617,
-      "word": "3岁小孩踢金毛家长在旁边大笑",
-      "onboard_time": 1664221692,
-      "rank": 19,
+      "raw_hot": 50177,
+      "num": 50177,
+      "word": "石家庄疫情防控",
+      "onboard_time": 1664221629,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -411,34 +467,18 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 39722,
-      "num": 36931,
-      "word": "男子脚踢抢食猴子遭满山追打",
-      "onboard_time": 1664214014,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 34681,
+      "num": 34681,
+      "word": "长空之王将全国路演",
+      "onboard_time": 1664200528,
+      "rank": 41,
+      "category": "影视"
     },
     {
-      "raw_hot": 36773,
-      "num": 36773,
-      "word": "外交部回应中朝重启铁路货运",
-      "onboard_time": 1664222111,
-      "rank": 38,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 35473,
-      "num": 29681,
-      "word": "普京解除俄常驻欧盟代表职务",
-      "onboard_time": 1664218632,
-      "rank": 20,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 33116,
-      "num": 33116,
-      "word": "大妈带狗不栓绳保安一网兜走狗",
-      "onboard_time": 1664223250,
+      "raw_hot": 33692,
+      "num": 33692,
+      "word": "家政公司编造清华毕业生当保姆被罚20万",
+      "onboard_time": 1664220911,
       "rank": 49,
       "category": "社会新闻"
     },
@@ -451,28 +491,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 30313,
-      "num": 26715,
-      "word": "长空之王将全国路演",
-      "onboard_time": 1664200528,
+      "raw_hot": 30262,
+      "num": 30262,
+      "word": "AirPodsPro2用户反馈随机断连",
+      "onboard_time": 1664228052,
       "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 24956,
-      "num": 24956,
-      "word": "家政公司编造清华毕业生当保姆被罚20万",
-      "onboard_time": 1664220911,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22783,
-      "num": 22783,
-      "word": "石家庄疫情防控",
-      "onboard_time": 1664221629,
-      "rank": 21,
-      "category": "社会新闻"
+      "category": "科技"
     },
     {
       "raw_hot": 22647,
@@ -499,6 +523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 15474,
+      "num": 15474,
+      "word": "浙江一小学为学生搭建校园灶台",
+      "onboard_time": 1664228230,
+      "rank": 48,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 15314,
       "num": 15314,
       "word": "鸽子还以为中幻术了",
@@ -515,20 +547,36 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 13127,
-      "num": 13127,
-      "word": "学生发型不达标校门口排队理发",
-      "onboard_time": 1664226550,
-      "rank": 32,
-      "category": "社会新闻,教育"
+      "raw_hot": 13575,
+      "num": 13575,
+      "word": "女子建植物工厂让菠菜一年长22茬",
+      "onboard_time": 1664228831,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 10112,
-      "num": 10112,
+      "raw_hot": 13391,
+      "num": 13391,
       "word": "弯腿球王是怎样炼成的",
       "onboard_time": 1664226550,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 10492,
+      "num": 12707,
+      "word": "在辽宁舰上生活是什么体验",
+      "onboard_time": 1664225830,
+      "rank": 38,
+      "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 10210,
+      "num": 12681,
+      "word": "等着被同类打的猫咪",
+      "onboard_time": 1664228772,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 9949,
@@ -545,22 +593,6 @@
       "onboard_time": 1664201429,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 9090,
-      "num": 9090,
-      "word": "AirPodsPro2用户反馈随机断连",
-      "onboard_time": 1664228052,
-      "rank": 41,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 8628,
-      "num": 8628,
-      "word": "在辽宁舰上生活是什么体验",
-      "onboard_time": 1664225830,
-      "rank": 38,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 8002,
@@ -595,14 +627,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 7032,
-      "num": 7032,
-      "word": "东北首个核电供暖项目即将启动",
-      "onboard_time": 1664227992,
-      "rank": 47,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 6637,
       "num": 7723,
       "word": "尹锡悦回应脏话争议",
@@ -617,14 +641,6 @@
       "onboard_time": 1664223911,
       "rank": 48,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 6147,
-      "num": 6147,
-      "word": "浙江一小学为学生搭建校园灶台",
-      "onboard_time": 1664228230,
-      "rank": 48,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 6086,

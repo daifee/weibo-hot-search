@@ -1,0 +1,410 @@
+{
+  "runTime": 1664231159385,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 503330,
+        "num": 503330,
+        "word": "东八区的先生们已下架",
+        "onboard_time": 1664197645,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 357304,
+        "num": 357304,
+        "word": "删掉很重要的人是什么感觉",
+        "onboard_time": 1664192426,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2388,
+        "num": 269298,
+        "word": "保障粮食安全让中国饭碗端得更稳",
+        "onboard_time": 1664179824,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 215734,
+        "num": 215734,
+        "word": "甘宇失联17天瘦了近40斤",
+        "onboard_time": 1664200949,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202203,
+        "num": 202203,
+        "word": "小区24楼掉下哈士奇砸伤老人孩子",
+        "onboard_time": 1664213534,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 144517,
+        "num": 144517,
+        "word": "天津疫情防控",
+        "onboard_time": 1664200765,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135168,
+        "num": 135168,
+        "word": "安徽卫视一个神奇的电视台",
+        "onboard_time": 1664199867,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118805,
+        "num": 118805,
+        "word": "女子产后3个月发现又怀孕2个月",
+        "onboard_time": 1664175202,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109135,
+        "num": 109135,
+        "word": "3岁小孩踢金毛家长在旁边大笑",
+        "onboard_time": 1664221692,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92132,
+        "num": 92132,
+        "word": "为什么总有男明星沉迷霸总叙事",
+        "onboard_time": 1664204669,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102433,
+        "num": 85719,
+        "word": "大学生用肯德基优惠券漏洞诈骗获刑",
+        "onboard_time": 1664209101,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77159,
+        "num": 77159,
+        "word": "学生发型不达标校门口排队理发",
+        "onboard_time": 1664226550,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 73753,
+        "num": 73753,
+        "word": "虞美人分手自救清醒指南",
+        "onboard_time": 1664205926,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 70696,
+        "num": 70696,
+        "word": "学校回应保安打死喂奶狗妈妈",
+        "onboard_time": 1664191344,
+        "rank": 13,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 67921,
+        "num": 67921,
+        "word": "男子脚踢抢食猴子遭满山追打",
+        "onboard_time": 1664214014,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67518,
+        "num": 67518,
+        "word": "新生儿采足底血爸爸心疼抹泪",
+        "onboard_time": 1664195906,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62829,
+        "num": 62829,
+        "word": "外交部回应中朝重启铁路货运",
+        "onboard_time": 1664222111,
+        "rank": 16,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 60437,
+        "num": 60437,
+        "word": "普京解除俄常驻欧盟代表职务",
+        "onboard_time": 1664218632,
+        "rank": 17,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 59855,
+        "num": 59855,
+        "word": "东北首个核电供暖项目即将启动",
+        "onboard_time": 1664227992,
+        "rank": 18,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 55761,
+        "num": 55761,
+        "word": "安倍国葬花费超英女王引质疑",
+        "onboard_time": 1664195005,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 51848,
+        "num": 51848,
+        "word": "大妈带狗不栓绳保安一网兜走狗",
+        "onboard_time": 1664223250,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50959,
+        "num": 50959,
+        "word": "任嘉伦请君下线了10分钟又上线",
+        "onboard_time": 1664198124,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 50177,
+        "num": 50177,
+        "word": "石家庄疫情防控",
+        "onboard_time": 1664221629,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42927,
+        "num": 42927,
+        "word": "1只蟑螂1年可繁衍出1000万只蟑螂",
+        "onboard_time": 1664196266,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42695,
+        "num": 42695,
+        "word": "大学生真的很需要这门课",
+        "onboard_time": 1664187866,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 41947,
+        "num": 41947,
+        "word": "香港珠宝大王卢仲辉坠崖身亡",
+        "onboard_time": 1664181504,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41455,
+        "num": 41455,
+        "word": "男子地下车库练摩托车撞400万宾利",
+        "onboard_time": 1664212755,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41074,
+        "num": 41074,
+        "word": "书法成为一级学科为何引发热议",
+        "onboard_time": 1664209701,
+        "rank": 27,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 37195,
+        "num": 37195,
+        "word": "造谣工人往黄豆酱中大小便者被行拘",
+        "onboard_time": 1664195967,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35053,
+        "num": 35053,
+        "word": "成毅 声音",
+        "onboard_time": 1664199687,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 34681,
+        "num": 34681,
+        "word": "长空之王将全国路演",
+        "onboard_time": 1664200528,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33692,
+        "num": 33692,
+        "word": "家政公司编造清华毕业生当保姆被罚20万",
+        "onboard_time": 1664220911,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30262,
+        "num": 30262,
+        "word": "AirPodsPro2用户反馈随机断连",
+        "onboard_time": 1664228052,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 27938,
+        "num": 27938,
+        "word": "5个好习惯让生活更充实",
+        "onboard_time": 1664203468,
+        "rank": 33,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 27395,
+        "num": 27395,
+        "word": "官方通报防疫人员将居民大米倒垃圾桶",
+        "onboard_time": 1664182164,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27304,
+        "num": 27304,
+        "word": "长这么大还不懂什么是爱情",
+        "onboard_time": 1664196746,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24660,
+        "num": 24660,
+        "word": "宁波疫情防控",
+        "onboard_time": 1664184504,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24234,
+        "num": 24234,
+        "word": "虞美人庄羽酒醉吻",
+        "onboard_time": 1664191646,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21661,
+        "num": 21661,
+        "word": "张凌赫的信念感",
+        "onboard_time": 1664198428,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 21129,
+        "num": 21129,
+        "word": "两个人的小森林",
+        "onboard_time": 1664190144,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20241,
+        "num": 20241,
+        "word": "禁野2年后的华农兄弟",
+        "onboard_time": 1664182464,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16008,
+        "num": 16008,
+        "word": "蟑螂集体出街男孩吓到腿抖",
+        "onboard_time": 1664178084,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15474,
+        "num": 15474,
+        "word": "浙江一小学为学生搭建校园灶台",
+        "onboard_time": 1664228230,
+        "rank": 42,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 14190,
+        "num": 14190,
+        "word": "曾经暖到你的一句歌词",
+        "onboard_time": 1664216892,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 13575,
+        "num": 13575,
+        "word": "女子建植物工厂让菠菜一年长22茬",
+        "onboard_time": 1664228831,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13391,
+        "num": 13391,
+        "word": "弯腿球王是怎样炼成的",
+        "onboard_time": 1664226550,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13189,
+        "num": 13189,
+        "word": "俄罗斯一征兵处发生枪击现场视频",
+        "onboard_time": 1664185765,
+        "rank": 46,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 12712,
+        "num": 12712,
+        "word": "原神莱依拉",
+        "onboard_time": 1664189666,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 10492,
+        "num": 12707,
+        "word": "在辽宁舰上生活是什么体验",
+        "onboard_time": 1664225830,
+        "rank": 48,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 10210,
+        "num": 12681,
+        "word": "等着被同类打的猫咪",
+        "onboard_time": 1664228772,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的体育外交故事#"
+    }
+  }
+}
