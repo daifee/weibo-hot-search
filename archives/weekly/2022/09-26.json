@@ -1,7 +1,15 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664192349814,
+  "endTime": 1664196802844,
   "band_list": [
+    {
+      "raw_hot": 2803005,
+      "num": 2803005,
+      "word": "删掉很重要的人是什么感觉",
+      "onboard_time": 1664192426,
+      "rank": 0,
+      "category": "情感"
+    },
     {
       "raw_hot": 2585281,
       "num": 2585281,
@@ -259,6 +267,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 726326,
+      "num": 726326,
+      "word": "学校回应保安打死喂奶狗妈妈",
+      "onboard_time": 1664191344,
+      "rank": 26,
+      "category": "社会负面,教育"
+    },
+    {
       "raw_hot": 695302,
       "num": 695302,
       "word": "女子遭无故开除公司赔122斤硬币",
@@ -352,6 +368,14 @@
       "word": "刘昊然董子健合作我的朋友安德烈",
       "onboard_time": 1664191104,
       "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 545922,
+      "num": 545922,
+      "word": "虞美人庄羽酒醉吻",
+      "onboard_time": 1664191646,
+      "rank": 17,
       "category": "影视"
     },
     {
@@ -457,6 +481,14 @@
       "onboard_time": 1664154748,
       "rank": 20,
       "category": "科技"
+    },
+    {
+      "raw_hot": 445018,
+      "num": 322913,
+      "word": "安倍国葬花费超英女王引质疑",
+      "onboard_time": 1664195005,
+      "rank": 10,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 443473,
@@ -803,19 +835,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 255396,
+      "num": 255396,
+      "word": "万里归途口碑",
+      "onboard_time": 1664196086,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 255149,
       "num": 255149,
       "word": "国庆档新片预售票房破4000万",
       "onboard_time": 1664172086,
       "rank": 19,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 250642,
-      "num": 250642,
-      "word": "虞美人庄羽酒醉吻",
-      "onboard_time": 1664191646,
-      "rank": 17,
       "category": "影视"
     },
     {
@@ -833,6 +865,14 @@
       "onboard_time": 1664167469,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 245366,
+      "num": 170474,
+      "word": "李宇春为什么做了只鸵鸟",
+      "onboard_time": 1664192904,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 244548,
@@ -1115,12 +1155,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 185575,
-      "num": 185575,
-      "word": "学校回应保安打死喂奶狗妈妈",
-      "onboard_time": 1664191344,
-      "rank": 26,
-      "category": "社会负面,教育"
+      "raw_hot": 184265,
+      "num": 169294,
+      "word": "Lisa黑长直造型直拍",
+      "onboard_time": 1664196567,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 183544,
@@ -1219,6 +1259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 160750,
+      "num": 160750,
+      "word": "新生儿采足底血爸爸心疼抹泪",
+      "onboard_time": 1664195906,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160527,
       "num": 160527,
       "word": "毒蛇咬伤散步男子民警将速度拉满",
@@ -1299,6 +1347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146036,
+      "num": 128684,
+      "word": "你安全吗",
+      "onboard_time": 1664195186,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 143666,
       "num": 143666,
       "word": "新一届短道国家集训队名单公布",
@@ -1355,6 +1411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135380,
+      "num": 135380,
+      "word": "东亚银行",
+      "onboard_time": 1664193983,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 132436,
       "num": 132436,
       "word": "昆明2例新冠初筛阳性活动轨迹",
@@ -1377,6 +1441,14 @@
       "onboard_time": 1664122224,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 128427,
+      "num": 128427,
+      "word": "你可以永远相信猫的树",
+      "onboard_time": 1664194884,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 127669,
@@ -1435,6 +1507,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 122238,
+      "num": 122238,
+      "word": "翟子路新剧变胖了",
+      "onboard_time": 1664192603,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 120829,
       "num": 119066,
       "word": "林墨把官窑演活了",
@@ -1465,6 +1545,14 @@
       "onboard_time": 1664150487,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 108813,
+      "num": 108813,
+      "word": "1只蟑螂1年可繁衍出1000万只蟑螂",
+      "onboard_time": 1664196266,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106551,
@@ -1521,6 +1609,14 @@
       "onboard_time": 1664104164,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 95626,
+      "num": 95626,
+      "word": "造谣工人往黄豆酱中大小便者被行拘",
+      "onboard_time": 1664195967,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94520,
@@ -1649,6 +1745,14 @@
       "onboard_time": 1664104466,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73347,
+      "num": 73347,
+      "word": "长这么大还不懂什么是爱情",
+      "onboard_time": 1664196746,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 69239,
