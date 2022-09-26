@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/26 11:24:13
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/26 12:59:17
 </p>
 </blockquote>
 <p>
@@ -1157,6 +1157,12 @@ DR钻戒成本4000卖1.5万（热度：2404192）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23JDG%E5%A4%BA%E5%86%A0%23" target="weibo">
 JDG夺冠（热度：2394767）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23DR%E5%9B%9E%E5%BA%94800%E5%85%83%E5%8F%AF%E5%88%A0%E8%B4%AD%E4%B9%B0%E8%AE%B0%E5%BD%95%23" target="weibo">
+DR回应800元可删购买记录（热度：2390128）
 </a>
 </li>
 
@@ -3813,6 +3819,12 @@ UR成本91元连衣裙翻4倍卖369元（热度：1327788）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E4%B8%80%E5%9C%B0%E8%BF%91%E7%99%BE%E5%8F%AA%E5%B1%B1%E7%BE%8A%E9%9B%86%E4%BD%93%E8%B7%B3%E5%B4%96%E6%AD%BB%E4%BA%A1%23" target="weibo">
+河南一地近百只山羊集体跳崖死亡（热度：1324173）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%88%E8%BE%BE%E5%B0%94%E9%80%89%E6%8B%A9%E5%AE%89%E4%B9%90%E6%AD%BB%E7%A6%BB%E4%B8%96%23" target="weibo">
 戈达尔选择安乐死离世（热度：1323862）
 </a>
@@ -5955,6 +5967,12 @@ BLACKPINK新歌未通过KBS审议（热度：999636）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E6%B5%99%E5%A4%A7%E8%AF%BB%E5%8D%9A%E6%88%90%E5%84%BF%E5%AD%90%E5%AD%A6%E5%A6%B9%23" target="weibo">
+妈妈浙大读博成儿子学妹（热度：997458）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%8E%E5%BC%80%E9%AB%98%E8%B5%B0%E7%9A%84%E5%9B%BD%E4%BA%A7%E5%89%A7%23" target="weibo">
 低开高走的国产剧（热度：996191）
 </a>
@@ -5993,24 +6011,6 @@ BLACKPINK新歌未通过KBS审议（热度：999636）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%94%A8%E6%88%B7%E7%96%91%E7%9B%97%E7%94%A8%E5%A5%B3%E6%80%A7%E7%85%A7%E7%89%87%E7%BC%96%E6%95%85%E4%BA%8B%23" target="weibo">
 小红书用户疑盗用女性照片编故事（热度：992289）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E6%9C%88%E5%A5%BD%E5%A4%9A%E5%89%A7%23" target="weibo">
-九月好多剧（热度：992242）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8A%E4%BA%86%E4%B8%AA%E7%BE%8A%E5%B1%B1%E4%B8%9C%E6%8E%92%E7%AC%AC%E4%B8%80%23" target="weibo">
-羊了个羊山东排第一（热度：990592）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%BA%A6%E8%BF%91%E8%A7%86%E4%B8%80%E5%AE%9A%E8%A6%81%E5%AE%9A%E6%9C%9F%E5%81%9A%E6%A3%80%E6%9F%A5%23" target="weibo">
-高度近视一定要定期做检查（热度：990300）
 </a>
 </li>
 

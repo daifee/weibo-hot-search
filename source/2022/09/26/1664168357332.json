@@ -1,0 +1,410 @@
+{
+  "runTime": 1664168357332,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2390128,
+        "num": 2390128,
+        "word": "DR回应800元可删购买记录",
+        "onboard_time": 1664162185,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1010728,
+        "num": 1010728,
+        "word": "出门没拔充电线结果家被烧了",
+        "onboard_time": 1664156845,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11972,
+        "num": 998602,
+        "word": "太空视角看丰收有多美",
+        "onboard_time": 1664013324,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1550683,
+        "num": 998331,
+        "word": "iPhone14或成史上销量最差机型",
+        "onboard_time": 1664156126,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1324173,
+        "num": 998139,
+        "word": "河南一地近百只山羊集体跳崖死亡",
+        "onboard_time": 1664161644,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 997458,
+        "num": 997458,
+        "word": "妈妈浙大读博成儿子学妹",
+        "onboard_time": 1664164227,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 925384,
+        "num": 925384,
+        "word": "过完国庆再说",
+        "onboard_time": 1664163567,
+        "rank": 6,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 770265,
+        "num": 770265,
+        "word": "王者滕王阁联动皮肤",
+        "onboard_time": 1664165308,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 719958,
+        "num": 719958,
+        "word": "胡同 朝阳群众",
+        "onboard_time": 1664159964,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 695302,
+        "num": 695302,
+        "word": "女子遭无故开除公司赔122斤硬币",
+        "onboard_time": 1664161286,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 816725,
+        "num": 669024,
+        "word": "王家卫镜头下的咖啡师肖战",
+        "onboard_time": 1664164227,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 639610,
+        "num": 639610,
+        "word": "研究发现熬夜导致肥胖的原因",
+        "onboard_time": 1664162664,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629976,
+        "num": 629976,
+        "word": "张彬彬下意识对虞书欣的宠溺",
+        "onboard_time": 1664161286,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 575053,
+        "num": 575053,
+        "word": "地球上最干净的地方已有微塑料污染",
+        "onboard_time": 1664163867,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 526933,
+        "num": 526933,
+        "word": "杨超越晒家有姐妹杀青合影",
+        "onboard_time": 1664164768,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 495983,
+        "num": 495983,
+        "word": "张艺兴给染色体打call",
+        "onboard_time": 1664166209,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 455079,
+        "num": 455079,
+        "word": "苹果车祸检测或是人工客服",
+        "onboard_time": 1664162126,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 415568,
+        "num": 415568,
+        "word": "你薅的羊毛可能是违法的",
+        "onboard_time": 1664151987,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 391749,
+        "num": 391749,
+        "word": "高敏感其实是一种天赋",
+        "onboard_time": 1664166152,
+        "rank": 18,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 302239,
+        "num": 302239,
+        "word": "一级致癌物槟榔消费者已超1亿",
+        "onboard_time": 1664155944,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392451,
+        "num": 300761,
+        "word": "iPhone15Ultra将取代ProMax",
+        "onboard_time": 1664153009,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 385588,
+        "num": 300406,
+        "word": "韩国将翻拍非自然死亡",
+        "onboard_time": 1664160503,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 299022,
+        "num": 299022,
+        "word": "流浪狗身上被粘广告纸",
+        "onboard_time": 1664166452,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290689,
+        "num": 290689,
+        "word": "赵露思蔡文静关晓彤胡同好看吗",
+        "onboard_time": 1664152047,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244548,
+        "num": 244548,
+        "word": "没有物质的爱情会幸福吗",
+        "onboard_time": 1664163747,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228249,
+        "num": 228249,
+        "word": "再起不来就不礼貌了",
+        "onboard_time": 1664115393,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200522,
+        "num": 200522,
+        "word": "孕妇街边临产婴儿在遮阳伞下出生",
+        "onboard_time": 1664166689,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188920,
+        "num": 188920,
+        "word": "店主着急送孩子误把顾客锁店里",
+        "onboard_time": 1664156485,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181591,
+        "num": 181591,
+        "word": "今年最震撼你的一本小说",
+        "onboard_time": 1664167469,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176357,
+        "num": 176357,
+        "word": "女子开视频陪亲人打麻将",
+        "onboard_time": 1664164588,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208029,
+        "num": 174671,
+        "word": "沈月陈哲远新剧cp感",
+        "onboard_time": 1664167411,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206415,
+        "num": 172707,
+        "word": "苹果手机平均售价本季度创新高",
+        "onboard_time": 1664160503,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 201899,
+        "num": 170214,
+        "word": "对王鹤棣最大的误解是笨蛋帅哥",
+        "onboard_time": 1664150305,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185983,
+        "num": 168780,
+        "word": "TF家族Youngblood练习室",
+        "onboard_time": 1664162367,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 166817,
+        "num": 166817,
+        "word": "黑洞里会是另一个世界吗",
+        "onboard_time": 1664165488,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158119,
+        "num": 158119,
+        "word": "长相思",
+        "onboard_time": 1664148683,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148367,
+        "num": 148367,
+        "word": "警方最高悬赏50万抓捕涉麻涉毒逃犯",
+        "onboard_time": 1664167830,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143366,
+        "num": 143366,
+        "word": "云南一小学师生三餐都吃自己种的",
+        "onboard_time": 1664159605,
+        "rank": 37,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 140762,
+        "num": 140762,
+        "word": "帝释天传说限定皮肤",
+        "onboard_time": 1664168068,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140065,
+        "num": 140065,
+        "word": "00后女生用非遗竹编做连衣裙获大奖",
+        "onboard_time": 1664159302,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152751,
+        "num": 139942,
+        "word": "谢娜十三角关系上海站收官",
+        "onboard_time": 1664156906,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132238,
+        "num": 132238,
+        "word": "9月25日增235例本土确诊",
+        "onboard_time": 1664155347,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129660,
+        "num": 129660,
+        "word": "女子照顾病父临走前包187个饺子",
+        "onboard_time": 1664152887,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126283,
+        "num": 126283,
+        "word": "苹果10月或不举办发布会",
+        "onboard_time": 1664154748,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 102660,
+        "num": 102660,
+        "word": "2小孩打配合偷走宠物店猫咪",
+        "onboard_time": 1664167650,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91043,
+        "num": 91043,
+        "word": "当农大学生的毕业论文被吃掉",
+        "onboard_time": 1664141532,
+        "rank": 45,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 82412,
+        "num": 82412,
+        "word": "狼队止步淘汰赛",
+        "onboard_time": 1664151326,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 461950,
+        "num": 81499,
+        "word": "JYP中国新男团成员",
+        "onboard_time": 1664168307,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78171,
+        "num": 78171,
+        "word": "邻居徒手爬8楼外救被卡小宝宝",
+        "onboard_time": 1664155766,
+        "rank": 48,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 76690,
+        "num": 76690,
+        "word": "新西兰一海域150多条鱼75%含微塑料",
+        "onboard_time": 1664153728,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记看中国#"
+    }
+  }
+}

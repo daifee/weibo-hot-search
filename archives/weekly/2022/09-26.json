@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664162653526,
+  "endTime": 1664168357332,
   "band_list": [
     {
       "raw_hot": 2585281,
@@ -9,6 +9,14 @@
       "onboard_time": 1664107585,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2390128,
+      "num": 2390128,
+      "word": "DR回应800元可删购买记录",
+      "onboard_time": 1664162185,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2011475,
@@ -43,12 +51,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1324173,
+      "num": 998139,
+      "word": "河南一地近百只山羊集体跳崖死亡",
+      "onboard_time": 1664161644,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1099668,
       "num": 316527,
       "word": "iPhone15Ultra将取代ProMax",
       "onboard_time": 1664153009,
       "rank": 10,
       "category": "科技"
+    },
+    {
+      "raw_hot": 997458,
+      "num": 997458,
+      "word": "妈妈浙大读博成儿子学妹",
+      "onboard_time": 1664164227,
+      "rank": 5,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 988755,
@@ -67,6 +91,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 925384,
+      "num": 925384,
+      "word": "过完国庆再说",
+      "onboard_time": 1664163567,
+      "rank": 6,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 891953,
       "num": 891953,
       "word": "广东省回应禁止销售槟榔建议",
@@ -81,6 +113,14 @@
       "onboard_time": 1664114371,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 816725,
+      "num": 669024,
+      "word": "王家卫镜头下的咖啡师肖战",
+      "onboard_time": 1664164227,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 802907,
@@ -99,6 +139,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 770265,
+      "num": 770265,
+      "word": "王者滕王阁联动皮肤",
+      "onboard_time": 1664165308,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 695302,
+      "num": 695302,
+      "word": "女子遭无故开除公司赔122斤硬币",
+      "onboard_time": 1664161286,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 664788,
       "num": 664788,
       "word": "韩国将翻拍非自然死亡",
@@ -107,11 +163,35 @@
       "category": "影视"
     },
     {
+      "raw_hot": 639610,
+      "num": 639610,
+      "word": "研究发现熬夜导致肥胖的原因",
+      "onboard_time": 1664162664,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 632347,
       "num": 632347,
       "word": "中国水果第一大省有多强",
       "onboard_time": 1664108967,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 629976,
+      "num": 629976,
+      "word": "张彬彬下意识对虞书欣的宠溺",
+      "onboard_time": 1664161286,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 575053,
+      "num": 575053,
+      "word": "地球上最干净的地方已有微塑料污染",
+      "onboard_time": 1664163867,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -123,12 +203,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 485254,
-      "num": 292745,
-      "word": "张彬彬下意识对虞书欣的宠溺",
-      "onboard_time": 1664161286,
-      "rank": 11,
-      "category": "作品衍生"
+      "raw_hot": 526933,
+      "num": 526933,
+      "word": "杨超越晒家有姐妹杀青合影",
+      "onboard_time": 1664164768,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 495983,
+      "num": 495983,
+      "word": "张艺兴给染色体打call",
+      "onboard_time": 1664166209,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 472158,
@@ -137,6 +225,22 @@
       "onboard_time": 1664156906,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 461950,
+      "num": 81499,
+      "word": "JYP中国新男团成员",
+      "onboard_time": 1664168307,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 455079,
+      "num": 455079,
+      "word": "苹果车祸检测或是人工客服",
+      "onboard_time": 1664162126,
+      "rank": 35,
+      "category": "科技"
     },
     {
       "raw_hot": 449524,
@@ -163,28 +267,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 409350,
-      "num": 184999,
-      "word": "河南一地近百只山羊集体跳崖死亡",
-      "onboard_time": 1664161644,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 402830,
-      "num": 273448,
-      "word": "女子遭无故开除公司赔122斤硬币",
-      "onboard_time": 1664161286,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 400705,
       "num": 400705,
       "word": "辉瑞CEO已打4针自家新冠疫苗",
       "onboard_time": 1664137811,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 391749,
+      "num": 391749,
+      "word": "高敏感其实是一种天赋",
+      "onboard_time": 1664166152,
+      "rank": 18,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 388086,
@@ -267,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299022,
+      "num": 299022,
+      "word": "流浪狗身上被粘广告纸",
+      "onboard_time": 1664166452,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 292177,
       "num": 177438,
       "word": "炽道定档0929",
@@ -312,6 +416,14 @@
       "word": "电视剧胡同开播收视",
       "onboard_time": 1664123302,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 244548,
+      "num": 244548,
+      "word": "没有物质的爱情会幸福吗",
+      "onboard_time": 1664163747,
+      "rank": 24,
       "category": "影视"
     },
     {
@@ -395,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208029,
+      "num": 174671,
+      "word": "沈月陈哲远新剧cp感",
+      "onboard_time": 1664167411,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 204316,
       "num": 204316,
       "word": "林钰洧2022香港小姐冠军",
@@ -411,20 +531,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200522,
+      "num": 200522,
+      "word": "孕妇街边临产婴儿在遮阳伞下出生",
+      "onboard_time": 1664166689,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199363,
       "num": 199363,
       "word": "小猪高速被撞卡进保险杠",
       "onboard_time": 1664143092,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 199332,
-      "num": 117499,
-      "word": "苹果车祸检测或是人工客服",
-      "onboard_time": 1664162126,
-      "rank": 35,
-      "category": "科技"
     },
     {
       "raw_hot": 193049,
@@ -483,11 +603,27 @@
       "category": "科技"
     },
     {
+      "raw_hot": 181591,
+      "num": 181591,
+      "word": "今年最震撼你的一本小说",
+      "onboard_time": 1664167469,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 177978,
       "num": 177978,
       "word": "武汉麦德龙开业停车场一位难求",
       "onboard_time": 1664118752,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176357,
+      "num": 176357,
+      "word": "女子开视频陪亲人打麻将",
+      "onboard_time": 1664164588,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -505,6 +641,14 @@
       "onboard_time": 1664151326,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 166817,
+      "num": 166817,
+      "word": "黑洞里会是另一个世界吗",
+      "onboard_time": 1664165488,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164143,
@@ -531,6 +675,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 158119,
+      "num": 158119,
+      "word": "长相思",
+      "onboard_time": 1664148683,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 157452,
       "num": 157452,
       "word": "蔓越莓为何在水里收",
@@ -547,12 +699,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 146615,
-      "num": 117550,
-      "word": "长相思",
-      "onboard_time": 1664148683,
-      "rank": 33,
-      "category": "影视"
+      "raw_hot": 148367,
+      "num": 148367,
+      "word": "警方最高悬赏50万抓捕涉麻涉毒逃犯",
+      "onboard_time": 1664167830,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143506,
@@ -563,12 +715,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 143242,
-      "num": 143242,
-      "word": "DR回应800元可删购买记录",
-      "onboard_time": 1664162185,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 140762,
+      "num": 140762,
+      "word": "帝释天传说限定皮肤",
+      "onboard_time": 1664168068,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 138974,
@@ -673,6 +825,14 @@
       "onboard_time": 1664147420,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 102660,
+      "num": 102660,
+      "word": "2小孩打配合偷走宠物店猫咪",
+      "onboard_time": 1664167650,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101685,
