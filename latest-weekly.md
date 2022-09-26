@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/26 00:32:19 ~ 2022/09/26 19:21:23
+本榜单时间：2022/09/26 00:32:19 ~ 2022/09/26 19:39:09
 </p>
 </blockquote>
 <p>
@@ -39,14 +39,14 @@ DR回应800元可删购买记录（热度：2390128）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%87%BA%E9%97%A8%E6%B2%A1%E6%8B%94%E5%85%85%E7%94%B5%E7%BA%BF%E7%BB%93%E6%9E%9C%E5%AE%B6%E8%A2%AB%E7%83%A7%E4%BA%86%23" target="weibo">
-出门没拔充电线结果家被烧了（热度：2011475）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%9C%9F%E7%9A%84%E5%BE%88%E9%9C%80%E8%A6%81%E8%BF%99%E9%97%A8%E8%AF%BE%23" target="weibo">
+大学生真的很需要这门课（热度：2344635）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%9C%9F%E7%9A%84%E5%BE%88%E9%9C%80%E8%A6%81%E8%BF%99%E9%97%A8%E8%AF%BE%23" target="weibo">
-大学生真的很需要这门课（热度：1948740）
+<a href="https://s.weibo.com/weibo?q=%23%E5%87%BA%E9%97%A8%E6%B2%A1%E6%8B%94%E5%85%85%E7%94%B5%E7%BA%BF%E7%BB%93%E6%9E%9C%E5%AE%B6%E8%A2%AB%E7%83%A7%E4%BA%86%23" target="weibo">
+出门没拔充电线结果家被烧了（热度：2011475）
 </a>
 </li>
 
@@ -273,6 +273,12 @@ JYP中国新男团成员（热度：1072064）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%98%8A%E7%84%B6%E8%91%A3%E5%AD%90%E5%81%A5%E5%90%88%E4%BD%9C%E6%88%91%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%AE%89%E5%BE%B7%E7%83%88%23" target="weibo">
+刘昊然董子健合作我的朋友安德烈（热度：547365）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E9%80%9A%E6%8A%A5%E6%96%B0%E7%94%9F%E5%85%A5%E5%AD%A63%E5%A4%A9%E7%AF%AE%E7%90%83%E5%9C%BA%E7%8C%9D%E6%AD%BB%23" target="weibo">
 高校通报新生入学3天篮球场猝死（热度：538267）
 </a>
@@ -339,6 +345,12 @@ JYP中国新男团成员（热度：1072064）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E7%9F%AD%E5%8F%91%E5%B0%81%E9%9D%A2%23" target="weibo">
+张小斐短发封面（热度：451165）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C10%E6%9C%88%E6%88%96%E4%B8%8D%E4%B8%BE%E5%8A%9E%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
 苹果10月或不举办发布会（热度：449524）
 </a>
@@ -346,7 +358,7 @@ JYP中国新男团成员（热度：1072064）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E%23" target="weibo">
-原神（热度：443172）
+原神（热度：443473）
 </a>
 </li>
 
@@ -369,12 +381,6 @@ JYP中国新男团成员（热度：1072064）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E7%9F%AD%E5%8F%91%E5%B0%81%E9%9D%A2%23" target="weibo">
-张小斐短发封面（热度：406524）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%88%B7%E7%B1%8D%E8%82%B2%E9%BE%84%E5%A6%87%E5%A5%B3%E4%BA%8C%E5%AD%A9%E7%8E%87%E4%B8%8D%E8%B6%B313%25%23" target="weibo">
 上海户籍育龄妇女二孩率不足13%（热度：404947）
 </a>
@@ -389,12 +395,6 @@ JYP中国新男团成员（热度：1072064）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%BD%AC%E5%BD%AC%E5%8D%95%E6%89%8B%E5%85%AC%E4%B8%BB%E6%8A%B1%E5%85%B3%E9%97%A8%23" target="weibo">
 张彬彬单手公主抱关门（热度：398988）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%98%8A%E7%84%B6%E8%91%A3%E5%AD%90%E5%81%A5%E5%90%88%E4%BD%9C%E6%88%91%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%AE%89%E5%BE%B7%E7%83%88%23" target="weibo">
-刘昊然董子健合作我的朋友安德烈（热度：398103）
 </a>
 </li>
 
@@ -443,6 +443,12 @@ TF家族Youngblood练习室（热度：380754）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%80%E6%9D%91%E5%85%8D%E8%B4%B9%E7%BB%99%E5%85%A8%E6%9D%91%E7%8B%97%E7%8B%97%E6%89%93%E7%8B%82%E7%8A%AC%E7%96%AB%E8%8B%97%23" target="weibo">
 重庆一村免费给全村狗狗打狂犬疫苗（热度：365707）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%B0%8F%E6%A3%AE%E6%9E%97%23" target="weibo">
+两个人的小森林（热度：364765）
 </a>
 </li>
 
@@ -615,6 +621,12 @@ S12垃圾话（热度：279358）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E7%BE%8E%E4%BA%BA%E5%BA%84%E7%BE%BD%E9%85%92%E9%86%89%E5%90%BB%23" target="weibo">
+虞美人庄羽酒醉吻（热度：250642）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%94%A8%E9%98%BF%E6%8B%89%E4%BC%AF%E8%AF%AD%E8%AF%B4%E4%BD%A0%E5%A5%BD%E5%B8%85%23" target="weibo">
 王俊凯用阿拉伯语说你好帅（热度：248596）
 </a>
@@ -759,6 +771,12 @@ NCT127将举行蚕室演唱会（热度：241435）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E7%8B%82%E8%B9%AC%E8%87%AA%E8%A1%8C%E8%BD%A6%E4%B8%BA%E5%87%BA%E8%AD%A6%E6%B6%88%E9%98%B2%E8%BD%A6%E5%BC%95%E8%B7%AF%23" target="weibo">
+女孩狂蹬自行车为出警消防车引路（热度：217132）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E6%9D%AF%E5%85%AB%E5%BC%BA%23" target="weibo">
 中国女篮晋级世界杯八强（热度：214237）
 </a>
@@ -777,6 +795,12 @@ NCT127将举行蚕室演唱会（热度：241435）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%88%AC%E5%86%8D%E6%AC%A1%E5%BB%B6%E9%95%BF%E4%B8%8A%E6%98%A0%E8%87%B31029%23" target="weibo">
+杨戬再次延长上映至1029（热度：205926）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%92%B0%E6%B4%A72022%E9%A6%99%E6%B8%AF%E5%B0%8F%E5%A7%90%E5%86%A0%E5%86%9B%23" target="weibo">
 林钰洧2022香港小姐冠军（热度：204316）
 </a>
@@ -785,12 +809,6 @@ NCT127将举行蚕室演唱会（热度：241435）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232022%E9%A6%99%E6%B8%AF%E5%B0%8F%E5%A7%90%E5%86%B3%E8%B5%9B%23" target="weibo">
 2022香港小姐决赛（热度：202572）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%B0%8F%E6%A3%AE%E6%9E%97%23" target="weibo">
-两个人的小森林（热度：201230）
 </a>
 </li>
 
@@ -827,6 +845,12 @@ NCT127将举行蚕室演唱会（热度：241435）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%96%B0%E9%97%BB%E5%BD%93%E4%BA%8B%E4%BA%BA%E4%B8%93%E8%AE%BF%23" target="weibo">
 王鹤棣新闻当事人专访（热度：187565）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94%E4%BF%9D%E5%AE%89%E6%89%93%E6%AD%BB%E5%96%82%E5%A5%B6%E7%8B%97%E5%A6%88%E5%A6%88%23" target="weibo">
+学校回应保安打死喂奶狗妈妈（热度：185575）
 </a>
 </li>
 
@@ -945,12 +969,6 @@ NCT127将举行蚕室演唱会（热度：241435）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E7%8B%82%E8%B9%AC%E8%87%AA%E8%A1%8C%E8%BD%A6%E4%B8%BA%E5%87%BA%E8%AD%A6%E6%B6%88%E9%98%B2%E8%BD%A6%E5%BC%95%E8%B7%AF%23" target="weibo">
-女孩狂蹬自行车为出警消防车引路（热度：154159）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%AF%AE%E4%B8%96%E7%95%8C%E6%9D%AF%23" target="weibo">
 女篮世界杯（热度：152401）
 </a>
@@ -981,6 +999,12 @@ NCT127将举行蚕室演唱会（热度：241435）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E%E8%8E%B1%E4%BE%9D%E6%8B%89%23" target="weibo">
+原神莱依拉（热度：140568）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E5%87%AF%E7%90%AA%E8%AF%B4%E6%AF%8F%E4%B8%AA%E5%A5%B3%E7%94%9F%E9%83%BD%E6%98%AF%E5%85%AC%E4%B8%BB%23" target="weibo">
 薛凯琪说每个女生都是公主（热度：138993）
 </a>
@@ -1005,12 +1029,6 @@ NCT127将举行蚕室演唱会（热度：241435）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E%E8%8E%B1%E4%BE%9D%E6%8B%89%23" target="weibo">
-原神莱依拉（热度：133428）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%86%E6%98%8E2%E4%BE%8B%E6%96%B0%E5%86%A0%E5%88%9D%E7%AD%9B%E9%98%B3%E6%80%A7%E6%B4%BB%E5%8A%A8%E8%BD%A8%E8%BF%B9%23" target="weibo">
 昆明2例新冠初筛阳性活动轨迹（热度：132436）
 </a>
@@ -1025,6 +1043,12 @@ NCT127将举行蚕室演唱会（热度：241435）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E5%AE%A0%E7%89%A9%E7%95%8C%E7%9A%84%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%90%A7%23" target="weibo">
 这就是宠物界的三甲医院吧（热度：129125）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%8F%AA%E9%87%91%E8%99%8E%E7%8E%B0%E8%BA%AB%E5%8A%A8%E7%89%A9%E5%9B%AD%23" target="weibo">
+两只金虎现身动物园（热度：127669）
 </a>
 </li>
 
@@ -1055,12 +1079,6 @@ NCT127将举行蚕室演唱会（热度：241435）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9D%90%E5%9C%B0%E9%93%81%E5%85%AC%E4%BA%A4%E9%95%BF%E6%97%B6%E9%97%B4%E6%88%B4%E8%80%B3%E6%9C%BA%E6%88%96%E6%8D%9F%E4%BC%A4%E5%90%AC%E5%8A%9B%23" target="weibo">
 坐地铁公交长时间戴耳机或损伤听力（热度：123298）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%8F%AA%E9%87%91%E8%99%8E%E7%8E%B0%E8%BA%AB%E5%8A%A8%E7%89%A9%E5%9B%AD%23" target="weibo">
-两只金虎现身动物园（热度：122837）
 </a>
 </li>
 
