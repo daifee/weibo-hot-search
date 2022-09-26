@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664149392125,
+  "endTime": 1664159756237,
   "band_list": [
     {
       "raw_hot": 2585281,
@@ -9,6 +9,38 @@
       "onboard_time": 1664107585,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1447527,
+      "num": 1348447,
+      "word": "再起不来就不礼貌了",
+      "onboard_time": 1664115393,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 1360762,
+      "num": 1360762,
+      "word": "你薅的羊毛可能是违法的",
+      "onboard_time": 1664151987,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1282152,
+      "num": 1282152,
+      "word": "iPhone14或成史上销量最差机型",
+      "onboard_time": 1664156126,
+      "rank": 3,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 1099668,
+      "num": 316527,
+      "word": "iPhone15Ultra将取代ProMax",
+      "onboard_time": 1664153009,
+      "rank": 10,
+      "category": "科技"
     },
     {
       "raw_hot": 963477,
@@ -35,11 +67,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 802907,
+      "num": 802907,
+      "word": "赵露思蔡文静关晓彤胡同好看吗",
+      "onboard_time": 1664152047,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 797340,
       "num": 797340,
       "word": "丈夫成植物人妻子起诉离婚获准",
       "onboard_time": 1664122524,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 768317,
+      "num": 768317,
+      "word": "出门没拔充电线结果家被烧了",
+      "onboard_time": 1664156845,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -51,12 +99,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 534830,
+      "num": 534830,
+      "word": "一级致癌物槟榔消费者已超1亿",
+      "onboard_time": 1664155944,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 472158,
+      "num": 472158,
+      "word": "谢娜十三角关系上海站收官",
+      "onboard_time": 1664156906,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 449524,
+      "num": 215869,
+      "word": "苹果10月或不举办发布会",
+      "onboard_time": 1664154748,
+      "rank": 20,
+      "category": "科技"
+    },
+    {
       "raw_hot": 400705,
       "num": 400705,
       "word": "辉瑞CEO已打4针自家新冠疫苗",
       "onboard_time": 1664137811,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 388086,
+      "num": 316346,
+      "word": "对王鹤棣最大的误解是笨蛋帅哥",
+      "onboard_time": 1664150305,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 383280,
@@ -83,6 +163,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 317191,
+      "num": 317191,
+      "word": "店主着急送孩子误把顾客锁店里",
+      "onboard_time": 1664156485,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 315617,
+      "num": 315617,
+      "word": "女子照顾病父临走前包187个饺子",
+      "onboard_time": 1664152887,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311616,
       "num": 311616,
       "word": "小说里走出来的男主",
@@ -107,12 +203,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 288822,
-      "num": 288822,
-      "word": "再起不来就不礼貌了",
-      "onboard_time": 1664115393,
-      "rank": 18,
-      "category": "幽默"
+      "raw_hot": 287865,
+      "num": 287865,
+      "word": "当农大学生的毕业论文被吃掉",
+      "onboard_time": 1664141532,
+      "rank": 45,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 287116,
@@ -120,6 +216,14 @@
       "word": "民警检查遇一车5人就司机没驾驶证",
       "onboard_time": 1664127256,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271333,
+      "num": 271333,
+      "word": "9月25日增235例本土确诊",
+      "onboard_time": 1664155347,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -139,6 +243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 244112,
+      "num": 244112,
+      "word": "邻居徒手爬8楼外救被卡小宝宝",
+      "onboard_time": 1664155766,
+      "rank": 15,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 233028,
       "num": 233028,
       "word": "印度185万头牛感染牛块状皮肤病",
@@ -153,6 +265,14 @@
       "onboard_time": 1664116773,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 229982,
+      "num": 229982,
+      "word": "新西兰一海域150多条鱼75%含微塑料",
+      "onboard_time": 1664153728,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228212,
@@ -171,12 +291,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 218512,
+      "num": 218512,
+      "word": "北京地铁10号线部分列车晚点",
+      "onboard_time": 1664154867,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217957,
       "num": 217957,
       "word": "重庆一永辉超市保质期内蛋糕发霉",
       "onboard_time": 1664134090,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204316,
+      "num": 204316,
+      "word": "林钰洧2022香港小姐冠军",
+      "onboard_time": 1664155705,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 202572,
@@ -235,12 +371,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181832,
+      "num": 181832,
+      "word": "小米11系列屡曝质量问题遭维权",
+      "onboard_time": 1664150186,
+      "rank": 22,
+      "category": "科技"
+    },
+    {
       "raw_hot": 177978,
       "num": 177978,
       "word": "武汉麦德龙开业停车场一位难求",
       "onboard_time": 1664118752,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169591,
+      "num": 169591,
+      "word": "狼队止步淘汰赛",
+      "onboard_time": 1664151326,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 164143,
@@ -331,6 +483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 123298,
+      "num": 123298,
+      "word": "坐地铁公交长时间戴耳机或损伤听力",
+      "onboard_time": 1664148082,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122301,
       "num": 122301,
       "word": "辽宁舰首批舰员给孩子取名多带航字",
@@ -339,11 +499,27 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 115467,
-      "num": 115467,
-      "word": "坐地铁公交长时间戴耳机或损伤听力",
-      "onboard_time": 1664148082,
-      "rank": 42,
+      "raw_hot": 119066,
+      "num": 119066,
+      "word": "林墨把官窑演活了",
+      "onboard_time": 1664158285,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 115328,
+      "num": 115328,
+      "word": "英语教学比重应该降低吗",
+      "onboard_time": 1664156604,
+      "rank": 31,
+      "category": "教育,社会议题"
+    },
+    {
+      "raw_hot": 114276,
+      "num": 114276,
+      "word": "00后女生用非遗竹编做连衣裙获大奖",
+      "onboard_time": 1664159302,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -353,6 +529,14 @@
       "onboard_time": 1664141350,
       "rank": 46,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 110135,
+      "num": 110135,
+      "word": "LESSERAFIM概念预告",
+      "onboard_time": 1664150487,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 106551,
@@ -369,6 +553,14 @@
       "onboard_time": 1664147420,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 101685,
+      "num": 101685,
+      "word": "张国荣逝世20周年演唱会筹划中",
+      "onboard_time": 1664158104,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 101186,
@@ -395,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94705,
+      "num": 94705,
+      "word": "云南一小学师生三餐都吃自己种的",
+      "onboard_time": 1664159605,
+      "rank": 41,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 92053,
       "num": 81062,
       "word": "李沁说求婚只有0次和无数次",
@@ -419,6 +619,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 85129,
+      "num": 85129,
+      "word": "浙岱渔11492船老大获二等功",
+      "onboard_time": 1664151385,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84237,
+      "num": 84237,
+      "word": "远期售汇业务的外汇风险准备金率调整为20%",
+      "onboard_time": 1664159124,
+      "rank": 45,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 81599,
       "num": 81599,
       "word": "北京WB拿到赛点",
@@ -441,6 +657,14 @@
       "onboard_time": 1664147360,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 77832,
+      "num": 77832,
+      "word": "9月25日增597例本土无症状",
+      "onboard_time": 1664155406,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76648,
@@ -489,14 +713,6 @@
       "onboard_time": 1664130853,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 67474,
-      "num": 67474,
-      "word": "当农大学生的毕业论文被吃掉",
-      "onboard_time": 1664141532,
-      "rank": 45,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 66936,
@@ -595,20 +811,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 14435,
+      "num": 1301721,
+      "word": "太空视角看丰收有多美",
+      "onboard_time": 1664013324,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 12817,
       "num": 12817,
       "word": "保持感知力有多重要",
       "onboard_time": 1664133190,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 12038,
-      "num": 798801,
-      "word": "太空视角看丰收有多美",
-      "onboard_time": 1664013324,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 10756,
