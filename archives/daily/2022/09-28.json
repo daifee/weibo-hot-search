@@ -1,6 +1,6 @@
 {
   "startTime": 1664296789399,
-  "endTime": 1664321481226,
+  "endTime": 1664322508788,
   "band_list": [
     {
       "raw_hot": 1383838,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1296652,
-      "num": 537514,
+      "num": 817066,
       "word": "鞠婧祎捐款50万用于给女性提供HPV疫苗",
       "onboard_time": 1664286867,
       "rank": 3,
@@ -20,35 +20,43 @@
     },
     {
       "raw_hot": 966041,
-      "num": 388600,
+      "num": 463963,
       "word": "晕车终于有救了",
       "onboard_time": 1664287349,
       "rank": 4,
       "category": "情感"
     },
     {
-      "raw_hot": 866869,
-      "num": 556418,
+      "raw_hot": 959170,
+      "num": 826245,
       "word": "花5万元请人直播带货只卖出36元",
       "onboard_time": 1664294663,
       "rank": 11,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 777099,
-      "num": 777099,
+      "raw_hot": 933190,
+      "num": 933190,
       "word": "北溪管道泄漏画面曝光",
       "onboard_time": 1664291726,
       "rank": 7,
       "category": "国外要闻"
     },
     {
-      "raw_hot": 734518,
-      "num": 270237,
+      "raw_hot": 894735,
+      "num": 285557,
       "word": "直树湘琴15年后再拍全家福",
       "onboard_time": 1664290407,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 601518,
+      "num": 601518,
+      "word": "研究称坐着抖腿有助于减肥",
+      "onboard_time": 1664308813,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 539423,
@@ -59,14 +67,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 478502,
-      "num": 478502,
-      "word": "研究称坐着抖腿有助于减肥",
-      "onboard_time": 1664308813,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 395252,
       "num": 395252,
       "word": "101岁母亲去世52岁儿子一句话泪崩",
@@ -75,11 +75,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 393990,
+      "num": 393990,
+      "word": "鲁豫说现在发律师函都没人信",
+      "onboard_time": 1664294304,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 374793,
       "num": 374793,
       "word": "北溪2号天然气管道发生泄漏",
       "onboard_time": 1664290167,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369875,
+      "num": 283079,
+      "word": "女子输液回血护士先掏手机",
+      "onboard_time": 1664287827,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -91,20 +107,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 359088,
-      "num": 359088,
-      "word": "鲁豫说现在发律师函都没人信",
-      "onboard_time": 1664294304,
-      "rank": 13,
-      "category": "综艺"
+      "raw_hot": 282788,
+      "num": 186055,
+      "word": "顿涅茨克等四地入俄公投结果公布",
+      "onboard_time": 1664322145,
+      "rank": 20,
+      "category": "国外要闻"
     },
     {
-      "raw_hot": 349221,
-      "num": 265778,
-      "word": "女子输液回血护士先掏手机",
-      "onboard_time": 1664287827,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 279270,
+      "num": 279270,
+      "word": "无锡18岁女孩让6人重获新生",
+      "onboard_time": 1664310671,
+      "rank": 44,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 274376,
@@ -113,14 +129,6 @@
       "onboard_time": 1664280144,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 274287,
-      "num": 274287,
-      "word": "无锡18岁女孩让6人重获新生",
-      "onboard_time": 1664310671,
-      "rank": 44,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 260523,
@@ -147,19 +155,35 @@
       "category": "影视"
     },
     {
-      "raw_hot": 225549,
-      "num": 225549,
+      "raw_hot": 250445,
+      "num": 250445,
       "word": "女孩经过爸爸生前单位哭着要看他",
       "onboard_time": 1664289986,
       "rank": 18,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 223573,
-      "num": 223573,
+      "raw_hot": 248250,
+      "num": 248250,
+      "word": "中介伪装房东9年骗走老人1050万",
+      "onboard_time": 1664285066,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243994,
+      "num": 243994,
       "word": "微信退群可选保留聊天记录",
       "onboard_time": 1664263643,
       "rank": 17,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 224387,
+      "num": 224387,
+      "word": "微信本可少占用大量空间",
+      "onboard_time": 1664267066,
+      "rank": 25,
       "category": "科技"
     },
     {
@@ -171,35 +195,59 @@
       "category": "影视"
     },
     {
-      "raw_hot": 213215,
-      "num": 213215,
-      "word": "微信本可少占用大量空间",
-      "onboard_time": 1664267066,
-      "rank": 25,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 206404,
-      "num": 206404,
-      "word": "中介伪装房东9年骗走老人1050万",
-      "onboard_time": 1664285066,
-      "rank": 16,
+      "raw_hot": 206400,
+      "num": 206400,
+      "word": "男子连续熬夜加班后眼皮无法抬起",
+      "onboard_time": 1664321001,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
       "raw_hot": 203153,
-      "num": 160762,
+      "num": 194080,
       "word": "好喜欢晴儿清醒的爱情观",
       "onboard_time": 1664289265,
       "rank": 20,
       "category": "影视"
     },
     {
-      "raw_hot": 168182,
-      "num": 168182,
+      "raw_hot": 192305,
+      "num": 192305,
+      "word": "专家称全球经济风险超08年金融危机",
+      "onboard_time": 1664308271,
+      "rank": 15,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 175419,
+      "num": 175419,
+      "word": "广州地铁一老外脱鞋抠脚",
+      "onboard_time": 1664304012,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174349,
+      "num": 174349,
+      "word": "小茉莉",
+      "onboard_time": 1664286445,
+      "rank": 30,
+      "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 173179,
+      "num": 173179,
       "word": "小伙醉驾验血找妈妈支付50元",
       "onboard_time": 1664309890,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158247,
+      "num": 158247,
+      "word": "警方回应男子酒吧骚扰邻桌女生",
+      "onboard_time": 1664306172,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -211,6 +259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 155879,
+      "num": 155879,
+      "word": "葡萄牙0比1西班牙",
+      "onboard_time": 1664321061,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148954,
       "num": 148954,
       "word": "男子网恋奔现后发现对象已当外婆",
@@ -219,35 +275,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 144179,
-      "num": 144179,
-      "word": "专家称全球经济风险超08年金融危机",
-      "onboard_time": 1664308271,
-      "rank": 15,
-      "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 141382,
-      "num": 141382,
-      "word": "小茉莉",
-      "onboard_time": 1664286445,
-      "rank": 30,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 139850,
       "num": 139850,
       "word": "数名老人组团赶场拦婚车讨红包",
       "onboard_time": 1664316372,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 138344,
-      "num": 138344,
-      "word": "警方回应男子酒吧骚扰邻桌女生",
-      "onboard_time": 1664306172,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -267,20 +299,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 130752,
-      "num": 130752,
-      "word": "广州地铁一老外脱鞋抠脚",
-      "onboard_time": 1664304012,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 121648,
-      "num": 121648,
+      "raw_hot": 127237,
+      "num": 127237,
       "word": "骚男结婚",
       "onboard_time": 1664277025,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 116159,
+      "num": 116159,
+      "word": "经济学家称消费不是刺激出来的",
+      "onboard_time": 1664283324,
+      "rank": 38,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 113325,
+      "num": 113325,
+      "word": "用胡说八道来避免社交",
+      "onboard_time": 1664285784,
+      "rank": 29,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 110597,
+      "num": 827875,
+      "word": "二十大代表是怎么选出来的",
+      "onboard_time": 1664282366,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 106465,
@@ -291,12 +339,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 99686,
-      "num": 99686,
-      "word": "经济学家称消费不是刺激出来的",
-      "onboard_time": 1664283324,
-      "rank": 38,
-      "category": "财经,社会新闻"
+      "raw_hot": 104207,
+      "num": 104207,
+      "word": "影视业天生的女兵王蒋璐霞",
+      "onboard_time": 1664294364,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 97602,
@@ -307,36 +355,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 89342,
-      "num": 567316,
-      "word": "二十大代表是怎么选出来的",
-      "onboard_time": 1664282366,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 86503,
       "num": 86503,
       "word": "热水袋成欧洲过冬神器",
       "onboard_time": 1664298496,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 84391,
-      "num": 84391,
-      "word": "用胡说八道来避免社交",
-      "onboard_time": 1664285784,
-      "rank": 29,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 81367,
-      "num": 81367,
-      "word": "影视业天生的女兵王蒋璐霞",
-      "onboard_time": 1664294364,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 77632,
@@ -371,6 +395,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 69380,
+      "num": 69380,
+      "word": "浙江省运会男足球员追打裁判",
+      "onboard_time": 1664285543,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67797,
       "num": 67797,
       "word": "头像会影响聊天欲吗",
@@ -379,12 +411,28 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 66040,
-      "num": 66040,
-      "word": "浙江省运会男足球员追打裁判",
-      "onboard_time": 1664285543,
-      "rank": 48,
-      "category": "体育"
+      "raw_hot": 67534,
+      "num": 67534,
+      "word": "没有一个动作表情是多余的",
+      "onboard_time": 1664287765,
+      "rank": 42,
+      "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 66559,
+      "num": 66559,
+      "word": "电视剧底线",
+      "onboard_time": 1664322325,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 66320,
+      "num": 66320,
+      "word": "看得出这马桶很热情",
+      "onboard_time": 1664272643,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 64365,
@@ -395,36 +443,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 63794,
-      "num": 63794,
-      "word": "葡萄牙0比1西班牙",
-      "onboard_time": 1664321061,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 62451,
       "num": 62451,
       "word": "iPhone14系列机型将在韩国销售",
       "onboard_time": 1664275704,
       "rank": 40,
       "category": "科技"
-    },
-    {
-      "raw_hot": 60259,
-      "num": 60259,
-      "word": "看得出这马桶很热情",
-      "onboard_time": 1664272643,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 58487,
-      "num": 58487,
-      "word": "没有一个动作表情是多余的",
-      "onboard_time": 1664287765,
-      "rank": 42,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 57602,
@@ -473,14 +497,6 @@
       "onboard_time": 1664289627,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 48294,
-      "num": 48294,
-      "word": "男子连续熬夜加班后眼皮无法抬起",
-      "onboard_time": 1664321001,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32560,
