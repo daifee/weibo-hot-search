@@ -1,6 +1,6 @@
 {
   "startTime": 1664210185188,
-  "endTime": 1664267918180,
+  "endTime": 1664269167915,
   "band_list": [
     {
       "raw_hot": 2771808,
@@ -17,6 +17,14 @@
       "onboard_time": 1664252725,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2243448,
+      "num": 2243448,
+      "word": "微信退群可选保留聊天记录",
+      "onboard_time": 1664263643,
+      "rank": 11,
+      "category": "科技"
     },
     {
       "raw_hot": 2215398,
@@ -43,14 +51,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 2121643,
-      "num": 2121643,
-      "word": "微信退群可选保留聊天记录",
-      "onboard_time": 1664263643,
-      "rank": 11,
-      "category": "科技"
-    },
-    {
       "raw_hot": 1935170,
       "num": 1935170,
       "word": "删掉很重要的人是什么感觉",
@@ -73,6 +73,14 @@
       "onboard_time": 1664238686,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1494986,
+      "num": 1494986,
+      "word": "头像会影响聊天欲吗",
+      "onboard_time": 1664264185,
+      "rank": 34,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 1366254,
@@ -131,12 +139,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 989990,
-      "num": 989990,
-      "word": "头像会影响聊天欲吗",
-      "onboard_time": 1664264185,
-      "rank": 34,
-      "category": "情感,幽默"
+      "raw_hot": 916594,
+      "num": 307081,
+      "word": "微信本可少占用大量空间",
+      "onboard_time": 1664267066,
+      "rank": 13,
+      "category": "科技"
     },
     {
       "raw_hot": 834822,
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 545480,
-      "num": 295264,
+      "num": 301194,
       "word": "网传孟子义任豪上元锦绣10月开机",
       "onboard_time": 1664265805,
       "rank": 11,
@@ -379,14 +387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 417187,
-      "num": 286741,
-      "word": "微信本可少占用大量空间",
-      "onboard_time": 1664267066,
-      "rank": 13,
-      "category": "科技"
-    },
-    {
       "raw_hot": 416425,
       "num": 416425,
       "word": "李承铉说喜欢一个人会自带滤镜",
@@ -416,6 +416,14 @@
       "word": "3岁小孩踢金毛家长在旁边大笑",
       "onboard_time": 1664221692,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 396266,
+      "num": 396266,
+      "word": "萌娃生气将爸爸新买万元手机摔地上",
+      "onboard_time": 1664263883,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -475,12 +483,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 324642,
-      "num": 324642,
-      "word": "萌娃生气将爸爸新买万元手机摔地上",
-      "onboard_time": 1664263883,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 326949,
+      "num": 209480,
+      "word": "BIBI新歌",
+      "onboard_time": 1664267485,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 316304,
+      "num": 316304,
+      "word": "人民网评昆仑神宫",
+      "onboard_time": 1664268985,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 316143,
@@ -491,20 +507,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 310960,
-      "num": 209480,
-      "word": "BIBI新歌",
-      "onboard_time": 1664267485,
-      "rank": 20,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 309983,
       "num": 309983,
       "word": "全国大学文化程度人口超过2.18亿",
       "onboard_time": 1664246783,
       "rank": 14,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 308654,
+      "num": 308654,
+      "word": "你抽到Faker了吗",
+      "onboard_time": 1664265745,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 298856,
@@ -635,14 +651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 254153,
-      "num": 254153,
-      "word": "你抽到Faker了吗",
-      "onboard_time": 1664265745,
-      "rank": 15,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 253768,
       "num": 253768,
       "word": "修锁师傅为证明锁没坏关门反被困",
@@ -699,6 +707,22 @@
       "category": "社会负面,教育"
     },
     {
+      "raw_hot": 223201,
+      "num": 223201,
+      "word": "马里女篮队员内讧互殴",
+      "onboard_time": 1664265025,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 221615,
+      "num": 221615,
+      "word": "十一玩乐日记",
+      "onboard_time": 1664268985,
+      "rank": 19,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 218752,
       "num": 218752,
       "word": "虞美人分手自救清醒指南",
@@ -721,14 +745,6 @@
       "onboard_time": 1664250745,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 211307,
-      "num": 211307,
-      "word": "马里女篮队员内讧互殴",
-      "onboard_time": 1664265025,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 200651,
@@ -907,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151906,
+      "num": 151906,
+      "word": "北京一公司违规销售核酸团购券被罚",
+      "onboard_time": 1664268504,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149834,
       "num": 149834,
       "word": "虞美人庄羽酒醉吻",
@@ -1027,6 +1051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 120485,
+      "num": 120485,
+      "word": "美容师抓狗用力过度遭狗主人殴打",
+      "onboard_time": 1664268626,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118721,
       "num": 118721,
       "word": "王俊凯说新时代的力量是必不可少",
@@ -1041,6 +1073,14 @@
       "onboard_time": 1664247024,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 115674,
+      "num": 115674,
+      "word": "VR会像手机一样普及吗",
+      "onboard_time": 1664269105,
+      "rank": 38,
+      "category": "科技"
     },
     {
       "raw_hot": 114193,
@@ -1195,6 +1235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 87531,
+      "num": 87531,
+      "word": "宝妈让孩子爬行消耗体力避免吵闹",
+      "onboard_time": 1664269046,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81981,
       "num": 81981,
       "word": "居然和狗狗产生了信任危机",
@@ -1324,7 +1372,7 @@
     },
     {
       "raw_hot": 55766,
-      "num": 1060037,
+      "num": 1190645,
       "word": "中国航天3天3连发",
       "onboard_time": 1664240366,
       "rank": 2,
