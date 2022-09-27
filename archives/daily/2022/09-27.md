@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/27 00:36:25 ~ 2022/09/27 11:09:05
+本榜单时间：2022/09/27 00:36:25 ~ 2022/09/27 12:43:11
 </p>
 </blockquote>
 <p>
@@ -17,6 +17,18 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%94%9F%E5%A4%A7%E4%BA%8B%E6%9C%80%E7%BB%88%E7%A5%A8%E6%88%BF%23" target="weibo">
 人生大事最终票房（热度：2215398）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%81%AB%E9%94%85%E5%BA%97%E6%8A%8A%E5%90%83%E5%89%A9%E9%94%85%E5%BA%95%E9%87%8D%E6%96%B0%E7%AB%AF%E7%BB%99%E9%A1%BE%E5%AE%A2%23" target="weibo">
+火锅店把吃剩锅底重新端给顾客（热度：2191577）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%8C%97%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6%E9%81%AD%E7%BE%8E%E5%9B%BD%E5%AE%89%E5%B1%80%E6%94%BB%E5%87%BB%E6%9C%80%E6%96%B0%E8%B0%83%E6%9F%A5%23" target="weibo">
+西北工业大学遭美国安局攻击最新调查（热度：2129975）
 </a>
 </li>
 
@@ -57,8 +69,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%81%AB%E9%94%85%E5%BA%97%E6%8A%8A%E5%90%83%E5%89%A9%E9%94%85%E5%BA%95%E9%87%8D%E6%96%B0%E7%AB%AF%E7%BB%99%E9%A1%BE%E5%AE%A2%23" target="weibo">
-火锅店把吃剩锅底重新端给顾客（热度：1002267）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E5%B8%81%E6%88%90%E4%B8%BA%E5%85%A8%E7%90%83%E7%AC%AC4%E4%BD%8D%E6%94%AF%E4%BB%98%E8%B4%A7%E5%B8%81%23" target="weibo">
+人民币成为全球第4位支付货币（热度：1096144）
 </a>
 </li>
 
@@ -93,8 +105,26 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%87%E7%A7%91%E7%82%8E%E7%97%87%E4%BC%9A%E5%BC%95%E8%B5%B7%E5%AE%AB%E9%A2%88%E7%99%8C%E5%90%97%23" target="weibo">
+妇科炎症会引起宫颈癌吗（热度：646061）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%9F%A5%E8%AF%A2%E4%B8%AD%E5%9B%BD%E5%A2%83%E5%86%85%E6%95%8F%E6%84%9F%E4%BA%BA%E5%91%98%E4%BF%A1%E6%81%AF%E5%B9%B6%E5%9B%9E%E4%BC%A0%23" target="weibo">
+美查询中国境内敏感人员信息并回传（热度：615737）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%86%B0%E6%88%B4%E5%90%91%E5%AE%87%E6%96%B0%E5%89%A7%E7%BB%93%E5%B1%80%E7%AB%9F%E7%84%B6%E6%B2%A1%E7%A6%BB%E5%A9%9A%23" target="weibo">
-白冰戴向宇新剧结局竟然没离婚（热度：550827）
+白冰戴向宇新剧结局竟然没离婚（热度：613058）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B4%BE%E8%B7%83%E4%BA%AD%E5%86%8D%E8%8E%B71%E4%BA%BF%E7%BE%8E%E5%85%83%E8%9E%8D%E8%B5%84%23" target="weibo">
+贾跃亭再获1亿美元融资（热度：588838）
 </a>
 </li>
 
@@ -123,8 +153,44 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%9D%A0%E5%BA%8A%E8%BA%AB%E4%BA%A1%E6%8A%A4%E7%90%86%E9%99%A2%E8%A2%AB%E5%88%A4%E8%B5%9411%E4%B8%87%23" target="weibo">
+老人坠床身亡护理院被判赔11万（热度：454223）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%AF%B9%E6%88%91%E5%9B%BD%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E6%B8%97%E9%80%8F%E6%8E%A7%E5%88%B6%23" target="weibo">
+美国对我国基础设施渗透控制（热度：441263）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9D%92%E7%99%BD%E8%9B%87%E7%9A%AE%E8%82%A4%E4%BC%98%E5%8C%96%23" target="weibo">
+青白蛇皮肤优化（热度：441063）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E6%96%B0%E5%A2%9E42%E4%BE%8B%E6%9C%AC%E5%9C%9F%E9%98%B3%E6%80%A7%E6%84%9F%E6%9F%93%E8%80%85%23" target="weibo">
+天津新增42例本土阳性感染者（热度：432717）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23EDGJieJie%E5%B7%B2%E8%B5%B7%E8%AF%89%E5%A4%9A%E5%AE%B6%E4%BC%81%E4%B8%9A%E4%BE%B5%E6%9D%83%23" target="weibo">
+EDGJieJie已起诉多家企业侵权（热度：428566）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%BA%A7%E5%90%8E3%E4%B8%AA%E6%9C%88%E5%8F%91%E7%8E%B0%E5%8F%88%E6%80%80%E5%AD%952%E4%B8%AA%E6%9C%88%23" target="weibo">
 女子产后3个月发现又怀孕2个月（热度：420318）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%832%E5%88%98%E5%BE%B7%E5%8D%8E%E9%80%A0%E5%9E%8B%E9%A6%96%E6%AC%A1%E6%9B%9D%E5%85%89%23" target="weibo">
+流浪地球2刘德华造型首次曝光（热度：417968）
 </a>
 </li>
 
@@ -148,7 +214,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%90%83%E5%AE%8C%E5%A4%9C%E5%AE%B5%E5%9B%9E%E5%AE%B6%E9%81%87%E8%82%A5%E7%8C%AB%E5%81%9A%E5%8D%B7%E8%85%B9%23" target="weibo">
-女子吃完夜宵回家遇肥猫做卷腹（热度：384101）
+女子吃完夜宵回家遇肥猫做卷腹（热度：391153）
 </a>
 </li>
 
@@ -171,6 +237,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%BA%AF%E7%A7%8B%E8%A7%81%E6%9E%97%E6%B0%9B%E5%9B%B4%E6%84%9F%E5%A4%A7%E7%89%87%23" target="weibo">
+赵丽颖溯秋见林氛围感大片（热度：332349）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%23" target="weibo">
 天津疫情防控（热度：316143）
 </a>
@@ -183,14 +255,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%BA%AF%E7%A7%8B%E8%A7%81%E6%9E%97%E6%B0%9B%E5%9B%B4%E6%84%9F%E5%A4%A7%E7%89%87%23" target="weibo">
-赵丽颖溯秋见林氛围感大片（热度：309630）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%9C%9F%E7%9A%84%E5%BE%88%E9%9C%80%E8%A6%81%E8%BF%99%E9%97%A8%E8%AF%BE%23" target="weibo">
+大学生真的很需要这门课（热度：298856）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%9C%9F%E7%9A%84%E5%BE%88%E9%9C%80%E8%A6%81%E8%BF%99%E9%97%A8%E8%AF%BE%23" target="weibo">
-大学生真的很需要这门课（热度：298856）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E4%B8%AD%E5%81%9C%E7%94%B5%E9%97%A8%E6%89%93%E4%B8%8D%E5%BC%80%E7%94%B7%E5%AD%90%E7%A0%B8%E5%A2%99%E9%80%81%E5%A8%83%E4%B8%8A%E5%AD%A6%23" target="weibo">
+家中停电门打不开男子砸墙送娃上学（热度：292574）
 </a>
 </li>
 
@@ -209,6 +281,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E6%94%AF%E6%8C%81%E6%B2%B3%E5%8D%97%E7%9C%81%E8%AE%BE%E7%AB%8B%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1%23" target="weibo">
 教育部支持河南省设立高等学校（热度：281417）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%8510%E5%85%83%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD25%E4%B8%87%23" target="weibo">
+大学生校内10元买彩票中25万（热度：279364）
 </a>
 </li>
 
@@ -249,6 +327,12 @@ MAMAMOO将于10月11日回归（热度：268155）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E8%90%BD%E8%8A%B1%E6%97%B6%E8%8A%82%E5%8F%88%E9%80%A2%E5%90%9BQ4%E4%B8%8A%E7%BA%BF%23" target="weibo">
+网传落花时节又逢君Q4上线（热度：250029）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%80%8D%E5%9B%BD%E8%91%AC%E8%8A%B1%E8%B4%B9%E8%B6%85%E8%8B%B1%E5%A5%B3%E7%8E%8B%E5%BC%95%E8%B4%A8%E7%96%91%23" target="weibo">
 安倍国葬花费超英女王引质疑（热度：229063）
 </a>
@@ -257,6 +341,12 @@ MAMAMOO将于10月11日回归（热度：268155）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%B0%8F%E6%A3%AE%E6%9E%97%23" target="weibo">
 两个人的小森林（热度：226814）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%233%E5%8D%83%E4%B9%B0%E7%9A%84%E7%A7%BB%E5%8A%A8%E7%94%B5%E6%BA%90%E5%85%85%E7%94%B5%E6%97%B6%E8%BF%9E%E7%BB%AD%E7%88%86%E7%82%B8%23" target="weibo">
+3千买的移动电源充电时连续爆炸（热度：224424）
 </a>
 </li>
 
@@ -273,8 +363,20 @@ MAMAMOO将于10月11日回归（热度：268155）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23LESSERAFIM%E6%96%B0%E4%B8%93%E8%BE%91%E9%A2%84%E5%94%AE%E9%87%8F%E7%AA%81%E7%A0%B440%E4%B8%87%E5%BC%A0%23" target="weibo">
+LESSERAFIM新专辑预售量突破40万张（热度：216399）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E5%8F%91%E5%9E%8B%E4%B8%8D%E8%BE%BE%E6%A0%87%E6%A0%A1%E9%97%A8%E5%8F%A3%E6%8E%92%E9%98%9F%E7%90%86%E5%8F%91%23" target="weibo">
 学生发型不达标校门口排队理发（热度：198689）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E8%A1%97%E5%A4%B4%E6%99%95%E5%80%92%E4%B8%80%E7%BE%A4%E4%BA%BA%E5%86%B2%E4%BA%86%E4%B8%8A%E5%8E%BB%23" target="weibo">
+老人街头晕倒一群人冲了上去（热度：197500）
 </a>
 </li>
 
@@ -291,8 +393,20 @@ MAMAMOO将于10月11日回归（热度：268155）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E5%8F%8D%E6%B4%BE%E7%94%B7%E5%8F%8B%E8%BF%9E%E6%9B%B4%E5%8D%81%E5%A4%A9%23" target="weibo">
+我的反派男友连更十天（热度：190185）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%9A%84%E4%BF%A1%E5%BF%B5%E6%84%9F%23" target="weibo">
 张凌赫的信念感（热度：181321）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%81%B6%E4%BD%9C%E5%89%A7%E4%B9%8B%E5%90%BB%E5%BC%80%E6%92%AD17%E5%91%A8%E5%B9%B4%23" target="weibo">
+恶作剧之吻开播17周年（热度：179747）
 </a>
 </li>
 
@@ -305,12 +419,6 @@ MAMAMOO将于10月11日回归（热度：268155）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E8%8F%9C%E7%9A%84%E5%BE%AE%E8%BE%A3%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E8%BE%A3%23" target="weibo">
 江西菜的微辣到底有多辣（热度：176005）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E5%8F%8D%E6%B4%BE%E7%94%B7%E5%8F%8B%E8%BF%9E%E6%9B%B4%E5%8D%81%E5%A4%A9%23" target="weibo">
-我的反派男友连更十天（热度：173921）
 </a>
 </li>
 
@@ -363,12 +471,6 @@ Lisa黑长直造型直拍（热度：152542）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E4%B8%AD%E5%81%9C%E7%94%B5%E9%97%A8%E6%89%93%E4%B8%8D%E5%BC%80%E7%94%B7%E5%AD%90%E7%A0%B8%E5%A2%99%E9%80%81%E5%A8%83%E4%B8%8A%E5%AD%A6%23" target="weibo">
-家中停电门打不开男子砸墙送娃上学（热度：152116）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E7%BE%8E%E4%BA%BA%E5%BA%84%E7%BE%BD%E9%85%92%E9%86%89%E5%90%BB%23" target="weibo">
 虞美人庄羽酒醉吻（热度：149834）
 </a>
@@ -393,8 +495,8 @@ AirPodsPro2用户反馈随机断连（热度：148718）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B4%BE%E8%B7%83%E4%BA%AD%E5%86%8D%E8%8E%B71%E4%BA%BF%E7%BE%8E%E5%85%83%E8%9E%8D%E8%B5%84%23" target="weibo">
-贾跃亭再获1亿美元融资（热度：129767）
+<a href="https://s.weibo.com/weibo?q=%23iPhone14Pro%E8%A2%AB%E5%90%90%E6%A7%BD%E4%BF%A1%E5%8F%B7%E5%B7%AE%23" target="weibo">
+iPhone14Pro被吐槽信号差（热度：139040）
 </a>
 </li>
 
@@ -447,8 +549,20 @@ AirPodsPro2用户反馈随机断连（热度：148718）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8A%E8%BA%AB%E9%BA%BB%E9%86%89%E6%89%8B%E6%9C%AF%E7%8A%B6%E6%80%81%E4%B8%8B%E5%90%AC%E5%88%B0%E7%9A%84%23" target="weibo">
+半身麻醉手术状态下听到的（热度：117465）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E9%A6%96%E4%B8%AA%E6%A0%B8%E7%94%B5%E4%BE%9B%E6%9A%96%E9%A1%B9%E7%9B%AE%E5%8D%B3%E5%B0%86%E5%90%AF%E5%8A%A8%23" target="weibo">
 东北首个核电供暖项目即将启动（热度：114193）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%231%E5%88%B08%E6%9C%88184%E5%90%8D%E6%B0%91%E8%AD%A687%E5%90%8D%E8%BE%85%E8%AD%A6%E5%9B%A0%E5%85%AC%E7%89%BA%E7%89%B2%23" target="weibo">
+1到8月184名民警87名辅警因公牺牲（热度：113471）
 </a>
 </li>
 
@@ -461,6 +575,12 @@ AirPodsPro2用户反馈随机断连（热度：148718）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%9F%91%E8%9E%82%E9%9B%86%E4%BD%93%E5%87%BA%E8%A1%97%E7%94%B7%E5%AD%A9%E5%90%93%E5%88%B0%E8%85%BF%E6%8A%96%23" target="weibo">
 蟑螂集体出街男孩吓到腿抖（热度：111852）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E6%9C%BA%E7%A5%A8%E6%AF%94%E4%B8%AD%E7%A7%8B%E8%B4%B5%E8%BF%914%E6%88%90%23" target="weibo">
+国庆假期机票比中秋贵近4成（热度：108629）
 </a>
 </li>
 
@@ -489,8 +609,20 @@ AirPodsPro2用户反馈随机断连（热度：148718）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2390%25%E4%BB%A5%E4%B8%8A%E5%AD%A6%E7%94%9F%E8%83%BD%E5%9C%A8%E8%A7%84%E5%AE%9A%E6%97%B6%E9%97%B4%E5%AE%8C%E6%88%90%E4%B9%A6%E9%9D%A2%E4%BD%9C%E4%B8%9A%23" target="weibo">
+90%以上学生能在规定时间完成书面作业（热度：95689）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%8F%AF%E4%BB%A5%E6%B0%B8%E8%BF%9C%E7%9B%B8%E4%BF%A1%E7%8C%AB%E7%9A%84%E6%A0%91%23" target="weibo">
 你可以永远相信猫的树（热度：94894）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%94%BB%E5%87%BB%E6%B8%97%E9%80%8F%E8%A5%BF%E5%8C%97%E5%B7%A5%E5%A4%A7%E6%B5%81%E7%A8%8B%23" target="weibo">
+美国攻击渗透西北工大流程（热度：93783）
 </a>
 </li>
 
@@ -509,12 +641,6 @@ AirPodsPro2用户反馈随机断连（热度：148718）
 <li>
 <a href="https://s.weibo.com/weibo?q=%235%E4%B8%AA%E5%A5%BD%E4%B9%A0%E6%83%AF%E8%AE%A9%E7%94%9F%E6%B4%BB%E6%9B%B4%E5%85%85%E5%AE%9E%23" target="weibo">
 5个好习惯让生活更充实（热度：89097）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E6%9C%BA%E7%A5%A8%E6%AF%94%E4%B8%AD%E7%A7%8B%E8%B4%B5%E8%BF%914%E6%88%90%23" target="weibo">
-国庆假期机票比中秋贵近4成（热度：88989）
 </a>
 </li>
 
@@ -803,6 +929,12 @@ Hero微博直播吧（热度：43924）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%B8%E8%85%BE%E4%BA%BA%E7%94%9F%E5%BC%80%E6%92%AD%23" target="weibo">
 沸腾人生开播（热度：5338）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E5%8A%A0%E6%B2%B9%23" target="weibo">
+为中国女篮加油（热度：4040）
 </a>
 </li>
 
