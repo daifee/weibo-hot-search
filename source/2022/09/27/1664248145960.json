@@ -1,0 +1,410 @@
+{
+  "runTime": 1664248145960,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2215398,
+        "num": 2215398,
+        "word": "人生大事最终票房",
+        "onboard_time": 1664243484,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1298629,
+        "num": 1298629,
+        "word": "唐朝诡事录开播",
+        "onboard_time": 1664246063,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 11120,
+        "num": 1274333,
+        "word": "保障粮食安全让中国饭碗端得更稳",
+        "onboard_time": 1664179824,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1260818,
+        "num": 1260818,
+        "word": "2022国庆档电影最新阵容",
+        "onboard_time": 1664246004,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1002267,
+        "num": 1002267,
+        "word": "火锅店把吃剩锅底重新端给顾客",
+        "onboard_time": 1664245523,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 914324,
+        "num": 914324,
+        "word": "删掉很重要的人是什么感觉",
+        "onboard_time": 1664192426,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 432033,
+        "num": 432033,
+        "word": "普京授予斯诺登俄罗斯公民身份",
+        "onboard_time": 1664237726,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 384101,
+        "num": 384101,
+        "word": "女子吃完夜宵回家遇肥猫做卷腹",
+        "onboard_time": 1664244444,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378044,
+        "num": 378044,
+        "word": "小区24楼掉下哈士奇砸伤老人孩子",
+        "onboard_time": 1664213534,
+        "rank": 8,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 307891,
+        "num": 373502,
+        "word": "灵动岛将支持实时体育比分",
+        "onboard_time": 1664240667,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1139761,
+        "num": 364184,
+        "word": "女子流产5次分手后被索要退还12万",
+        "onboard_time": 1664238686,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 744351,
+        "num": 342788,
+        "word": "半是蜜糖半是伤开播两周年",
+        "onboard_time": 1664246962,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 666414,
+        "num": 332163,
+        "word": "女子全职带娃10年离婚补偿10万",
+        "onboard_time": 1664243663,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550827,
+        "num": 319500,
+        "word": "白冰戴向宇新剧结局竟然没离婚",
+        "onboard_time": 1664246544,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309983,
+        "num": 309983,
+        "word": "全国大学文化程度人口超过2.18亿",
+        "onboard_time": 1664246783,
+        "rank": 14,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 309630,
+        "num": 309630,
+        "word": "赵丽颖溯秋见林氛围感大片",
+        "onboard_time": 1664248045,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 292080,
+        "num": 292080,
+        "word": "专家推荐十三二一零完美睡眠公式",
+        "onboard_time": 1664239648,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236283,
+        "num": 236283,
+        "word": "大学生用肯德基优惠券漏洞诈骗获刑",
+        "onboard_time": 1664209101,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210189,
+        "num": 210189,
+        "word": "甘宇失联17天瘦了近40斤",
+        "onboard_time": 1664200949,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206737,
+        "num": 206737,
+        "word": "教育部支持河南省设立高等学校",
+        "onboard_time": 1664236342,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 227021,
+        "num": 202749,
+        "word": "电影搜救定档国庆",
+        "onboard_time": 1664242525,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224506,
+        "num": 200285,
+        "word": "万里归途",
+        "onboard_time": 1664243365,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197722,
+        "num": 197722,
+        "word": "修锁师傅为证明锁没坏关门反被困",
+        "onboard_time": 1664241205,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189417,
+        "num": 189417,
+        "word": "原来红薯还能这么美",
+        "onboard_time": 1664239708,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187147,
+        "num": 187147,
+        "word": "MAMAMOO将于10月11日回归",
+        "onboard_time": 1664237726,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173921,
+        "num": 173921,
+        "word": "我的反派男友连更十天",
+        "onboard_time": 1664246063,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161269,
+        "num": 161269,
+        "word": "大学生真的很需要这门课",
+        "onboard_time": 1664187866,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153071,
+        "num": 153071,
+        "word": "云南在集中隔离点发现确诊病例9例",
+        "onboard_time": 1664240487,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152555,
+        "num": 152555,
+        "word": "埋头干饭的小猫咪",
+        "onboard_time": 1664240247,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 152116,
+        "num": 152116,
+        "word": "家中停电门打不开男子砸墙送娃上学",
+        "onboard_time": 1664247144,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146905,
+        "num": 146905,
+        "word": "河南增1例本土确诊1例无症状",
+        "onboard_time": 1664245704,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139846,
+        "num": 139846,
+        "word": "沈月手绘新剧海报",
+        "onboard_time": 1664245046,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131405,
+        "num": 131405,
+        "word": "3岁小孩踢金毛家长在旁边大笑",
+        "onboard_time": 1664221692,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129767,
+        "num": 129767,
+        "word": "贾跃亭再获1亿美元融资",
+        "onboard_time": 1664247625,
+        "rank": 33,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 126182,
+        "num": 126182,
+        "word": "男子脚踢抢食猴子遭满山追打",
+        "onboard_time": 1664214014,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124520,
+        "num": 124520,
+        "word": "美宇宙飞船撞击小行星",
+        "onboard_time": 1664237606,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 122924,
+        "num": 122924,
+        "word": "有个缺德的朋友是什么体验",
+        "onboard_time": 1664237306,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118509,
+        "num": 118509,
+        "word": "期待王俊凯新电影万里归途",
+        "onboard_time": 1664247024,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116058,
+        "num": 116058,
+        "word": "9月26日新增本土无症状636例",
+        "onboard_time": 1664241984,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105378,
+        "num": 105378,
+        "word": "俄罗斯校园枪击案已造成13人死亡",
+        "onboard_time": 1664235982,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104504,
+        "num": 104504,
+        "word": "樊振东多球训练眼花缭乱",
+        "onboard_time": 1664245163,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96959,
+        "num": 96959,
+        "word": "安徽卫视一个神奇的电视台",
+        "onboard_time": 1664199867,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93214,
+        "num": 93214,
+        "word": "为什么总有男明星沉迷霸总叙事",
+        "onboard_time": 1664204669,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90219,
+        "num": 90219,
+        "word": "普京解除俄常驻欧盟代表职务",
+        "onboard_time": 1664218632,
+        "rank": 43,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 88989,
+        "num": 88989,
+        "word": "国庆假期机票比中秋贵近4成",
+        "onboard_time": 1664247741,
+        "rank": 44,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 84712,
+        "num": 84712,
+        "word": "万里归途预售票房破1000万",
+        "onboard_time": 1664238205,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 81629,
+        "num": 81629,
+        "word": "独行月球密钥延期至1029",
+        "onboard_time": 1664237904,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 77697,
+        "num": 77697,
+        "word": "AirPodsPro2用户反馈随机断连",
+        "onboard_time": 1664228052,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 76277,
+        "num": 76277,
+        "word": "男子地下车库练摩托车撞400万宾利",
+        "onboard_time": 1664212755,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74298,
+        "num": 74298,
+        "word": "学校回应保安打死喂奶狗妈妈",
+        "onboard_time": 1664191344,
+        "rank": 49,
+        "category": "社会负面,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#人类减贫史上的中国奇迹振奋人心#"
+    }
+  }
+}
