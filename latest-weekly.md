@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/26 00:32:19 ~ 2022/09/27 23:48:46
+本榜单时间：2022/09/26 00:32:19 ~ 2022/09/28 00:39:49
 </p>
 </blockquote>
 <p>
@@ -861,6 +861,12 @@ Lisa黑长直造型直拍（热度：460336）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B15%E4%B8%87%E5%85%83%E8%AF%B7%E4%BA%BA%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%E5%8F%AA%E5%8D%96%E5%87%BA36%E5%85%83%23" target="weibo">
+花5万元请人直播带货只卖出36元（热度：434755）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E5%B9%B3%E5%9D%87%E5%94%AE%E4%BB%B7%E6%9C%AC%E5%AD%A3%E5%BA%A6%E5%88%9B%E6%96%B0%E9%AB%98%23" target="weibo">
 苹果手机平均售价本季度创新高（热度：433813）
 </a>
@@ -1119,6 +1125,12 @@ TF家族Youngblood练习室（热度：380754）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%BA%AA%E7%AE%A1%E9%81%93%E6%B3%84%E6%BC%8F%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89%23" target="weibo">
+北溪管道泄漏画面曝光（热度：327944）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23BIBI%E6%96%B0%E6%AD%8C%23" target="weibo">
 BIBI新歌（热度：326949）
 </a>
@@ -1365,6 +1377,12 @@ MAMAMOO将于10月11日回归（热度：268155）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E9%B9%A4%E5%A3%81%E4%B8%80%E6%B5%81%E6%B5%AA%E7%8B%97%E5%92%AC%E4%BC%A4%E7%BA%A640%E4%BA%BA%23" target="weibo">
+河南鹤壁一流浪狗咬伤约40人（热度：260523）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone14%E7%B3%BB%E5%88%97%E6%9C%BA%E5%9E%8B%E5%B0%86%E5%9C%A8%E9%9F%A9%E5%9B%BD%E9%94%80%E5%94%AE%23" target="weibo">
 iPhone14系列机型将在韩国销售（热度：258989）
 </a>
@@ -1451,6 +1469,12 @@ iPhone14系列机型将在韩国销售（热度：258989）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23NCT127%E5%B0%86%E4%B8%BE%E8%A1%8C%E8%9A%95%E5%AE%A4%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 NCT127将举行蚕室演唱会（热度：241435）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B2%81%E8%B1%AB%E8%AF%B4%E7%8E%B0%E5%9C%A8%E5%8F%91%E5%BE%8B%E5%B8%88%E5%87%BD%E9%83%BD%E6%B2%A1%E4%BA%BA%E4%BF%A1%23" target="weibo">
+鲁豫说现在发律师函都没人信（热度：241169）
 </a>
 </li>
 
@@ -1703,12 +1727,6 @@ LESSERAFIM新专辑预售量突破40万张（热度：216399）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232022%E9%A6%99%E6%B8%AF%E5%B0%8F%E5%A7%90%E5%86%B3%E8%B5%9B%23" target="weibo">
 2022香港小姐决赛（热度：202572）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%BA%AA%E7%AE%A1%E9%81%93%E6%B3%84%E6%BC%8F%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89%23" target="weibo">
-北溪管道泄漏画面曝光（热度：201490）
 </a>
 </li>
 
@@ -2253,6 +2271,12 @@ AirPodsPro2用户反馈随机断连（热度：148718）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%86%AC%E5%A4%9C%E6%98%AF%E7%8E%B0%E4%BB%A3%E4%BA%BA%E7%9A%84%E7%97%85%E8%BF%98%E6%98%AF%E8%8D%AF%23" target="weibo">
+熬夜是现代人的病还是药（热度：130842）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E5%AE%A0%E7%89%A9%E7%95%8C%E7%9A%84%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%90%A7%23" target="weibo">
 这就是宠物界的三甲医院吧（热度：129125）
 </a>
@@ -2373,12 +2397,6 @@ AirPodsPro2用户反馈随机断连（热度：148718）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E9%B9%A4%E5%A3%81%E4%B8%80%E6%B5%81%E6%B5%AA%E7%8B%97%E5%92%AC%E4%BC%A4%E7%BA%A640%E4%BA%BA%23" target="weibo">
-河南鹤壁一流浪狗咬伤约40人（热度：118960）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E8%AF%B4%E6%96%B0%E6%97%B6%E4%BB%A3%E7%9A%84%E5%8A%9B%E9%87%8F%E6%98%AF%E5%BF%85%E4%B8%8D%E5%8F%AF%E5%B0%91%23" target="weibo">
 王俊凯说新时代的力量是必不可少（热度：118721）
 </a>
@@ -2387,6 +2405,12 @@ AirPodsPro2用户反馈随机断连（热度：148718）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%9F%E5%BE%85%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%96%B0%E7%94%B5%E5%BD%B1%E4%B8%87%E9%87%8C%E5%BD%92%E9%80%94%23" target="weibo">
 期待王俊凯新电影万里归途（热度：118509）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E5%B7%9E%E5%8F%91%E5%B8%83%E7%B4%A7%E6%80%A5%E6%8A%A5%E5%A4%87%E6%8F%90%E9%86%92%23" target="weibo">
+苏州发布紧急报备提醒（热度：117074）
 </a>
 </li>
 
@@ -2669,6 +2693,12 @@ S12倒计时3天（热度：87741）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%A4%A7%E5%AE%8B%E5%B0%91%E5%B9%B4%E5%BF%972%E5%B0%86%E5%BC%80%E6%9C%BA%23" target="weibo">
 网传大宋少年志2将开机（热度：78260）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%B1%E8%A7%86%E4%B8%9A%E5%A4%A9%E7%94%9F%E7%9A%84%E5%A5%B3%E5%85%B5%E7%8E%8B%E8%92%8B%E7%92%90%E9%9C%9E%23" target="weibo">
+影视业天生的女兵王蒋璐霞（热度：77849）
 </a>
 </li>
 
