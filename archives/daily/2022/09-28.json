@@ -1,6 +1,6 @@
 {
   "startTime": 1664296789399,
-  "endTime": 1664313774619,
+  "endTime": 1664314887307,
   "band_list": [
     {
       "raw_hot": 1296652,
@@ -379,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54449,
+      "num": 38695,
+      "word": "研究称坐着抖腿有助于减肥",
+      "onboard_time": 1664308813,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54051,
       "num": 54051,
       "word": "脱口秀大会",
@@ -427,14 +435,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 48429,
-      "num": 35848,
-      "word": "研究称坐着抖腿有助于减肥",
-      "onboard_time": 1664308813,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 47433,
       "num": 36223,
       "word": "广州地铁一老外脱鞋抠脚",
@@ -451,12 +451,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 26946,
+      "num": 26946,
+      "word": "无锡18岁女孩让6人重获新生",
+      "onboard_time": 1664310671,
+      "rank": 44,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 24332,
       "num": 24332,
       "word": "被无人机表演惊艳到了",
       "onboard_time": 1664304792,
       "rank": 26,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 22575,
+      "num": 22575,
+      "word": "小伙醉驾验血找妈妈支付50元",
+      "onboard_time": 1664309890,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22440,
@@ -475,14 +491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 18059,
-      "num": 18059,
-      "word": "无锡18岁女孩让6人重获新生",
-      "onboard_time": 1664310671,
-      "rank": 44,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 16691,
       "num": 13899,
       "word": "上班路上的绊脚石",
@@ -491,20 +499,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 14443,
-      "num": 14443,
-      "word": "小伙醉驾验血找妈妈支付50元",
-      "onboard_time": 1664309890,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 12465,
       "num": 12465,
       "word": "与角色互相成就的演员",
       "onboard_time": 1664307732,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 8590,
+      "num": 8590,
+      "word": "湖人定妆照",
+      "onboard_time": 1664313430,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 8179,
@@ -531,6 +539,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 6943,
+      "num": 6943,
+      "word": "风再起时代表香港角逐奥斯卡",
+      "onboard_time": 1664312412,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 6516,
+      "num": 6896,
+      "word": "张镇麟续约辽宁男篮四年",
+      "onboard_time": 1664313369,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 6255,
       "num": 6255,
       "word": "完全被小猫咪拿捏的人类",
@@ -547,28 +571,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 6149,
-      "num": 6149,
-      "word": "张镇麟续约辽宁男篮四年",
-      "onboard_time": 1664313369,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 6076,
       "num": 6076,
       "word": "小孩昏迷民警铁骑接力式送医",
       "onboard_time": 1664310072,
       "rank": 49,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 6007,
-      "num": 6007,
-      "word": "风再起时代表香港角逐奥斯卡",
-      "onboard_time": 1664312412,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 5908,
