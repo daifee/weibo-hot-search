@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664264711484,
+  "endTime": 1664265586870,
   "band_list": [
     {
       "raw_hot": 4711055,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 1366254,
-      "num": 332308,
+      "num": 371566,
       "word": "韩站",
       "onboard_time": 1664261604,
       "rank": 10,
@@ -339,6 +339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 860066,
+      "num": 860066,
+      "word": "微信退群可选保留聊天记录",
+      "onboard_time": 1664263643,
+      "rank": 11,
+      "category": "科技"
+    },
+    {
       "raw_hot": 844006,
       "num": 844006,
       "word": "欧阳娜娜MV男主是翟子路",
@@ -459,20 +467,20 @@
       "category": "社会负面,教育"
     },
     {
+      "raw_hot": 711877,
+      "num": 711877,
+      "word": "千万人考教师资格证是好事吗",
+      "onboard_time": 1664258844,
+      "rank": 34,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 695302,
       "num": 695302,
       "word": "女子遭无故开除公司赔122斤硬币",
       "onboard_time": 1664161286,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 686478,
-      "num": 686478,
-      "word": "千万人考教师资格证是好事吗",
-      "onboard_time": 1664258844,
-      "rank": 34,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 685331,
@@ -625,6 +633,14 @@
       "onboard_time": 1664183905,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 555152,
+      "num": 356917,
+      "word": "陈哲远是捅了甜妹窝吧",
+      "onboard_time": 1664264003,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 547365,
@@ -1139,20 +1155,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 331929,
+      "num": 331929,
+      "word": "头像会影响聊天欲吗",
+      "onboard_time": 1664264185,
+      "rank": 34,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 324641,
       "num": 324641,
       "word": "成都适龄女孩接种国产HPV疫苗免费",
       "onboard_time": 1664172326,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 320506,
-      "num": 320506,
-      "word": "微信退群可选保留聊天记录",
-      "onboard_time": 1664263643,
-      "rank": 11,
-      "category": "科技"
     },
     {
       "raw_hot": 317037,
@@ -1217,14 +1233,6 @@
       "onboard_time": 1664159302,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 299749,
-      "num": 299749,
-      "word": "陈哲远是捅了甜妹窝吧",
-      "onboard_time": 1664264003,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 297269,
@@ -1356,7 +1364,7 @@
     },
     {
       "raw_hot": 276721,
-      "num": 189287,
+      "num": 257096,
       "word": "陈卓璇奔跑吧路透",
       "onboard_time": 1664264185,
       "rank": 20,
@@ -1827,6 +1835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200647,
+      "num": 200647,
+      "word": "萌娃生气将爸爸新买万元手机摔地上",
+      "onboard_time": 1664263883,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199363,
       "num": 199363,
       "word": "小猪高速被撞卡进保险杠",
@@ -2195,6 +2211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149716,
+      "num": 149716,
+      "word": "打119时必说的关键信息",
+      "onboard_time": 1664262142,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148718,
       "num": 148718,
       "word": "AirPodsPro2用户反馈随机断连",
@@ -2299,6 +2323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 137804,
+      "num": 137804,
+      "word": "这位妈妈的脾气也太好了吧",
+      "onboard_time": 1664262384,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 137654,
       "num": 137654,
       "word": "脱口秀大会5官宣鲁豫",
@@ -2345,14 +2377,6 @@
       "onboard_time": 1664178025,
       "rank": 43,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 130833,
-      "num": 130833,
-      "word": "萌娃生气将爸爸新买万元手机摔地上",
-      "onboard_time": 1664263883,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129125,
@@ -2403,14 +2427,6 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 127178,
-      "num": 127178,
-      "word": "头像会影响聊天欲吗",
-      "onboard_time": 1664264185,
-      "rank": 34,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 126909,
       "num": 126909,
       "word": "女子建植物工厂让菠菜一年长22茬",
@@ -2443,11 +2459,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 124681,
-      "num": 124681,
-      "word": "打119时必说的关键信息",
-      "onboard_time": 1664262142,
-      "rank": 34,
+      "raw_hot": 124013,
+      "num": 124013,
+      "word": "公安部新闻发布会",
+      "onboard_time": 1664263763,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -2555,14 +2571,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 111442,
-      "num": 111442,
-      "word": "这位妈妈的脾气也太好了吧",
-      "onboard_time": 1664262384,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 110160,
       "num": 110160,
       "word": "北京的枫叶红了",
@@ -2585,6 +2593,14 @@
       "onboard_time": 1664257764,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 109156,
+      "num": 109156,
+      "word": "马里女篮队员内讧互殴",
+      "onboard_time": 1664265025,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 108629,
@@ -2763,12 +2779,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 88173,
-      "num": 88173,
-      "word": "公安部新闻发布会",
-      "onboard_time": 1664263763,
+      "raw_hot": 87741,
+      "num": 87741,
+      "word": "S12倒计时3天",
+      "onboard_time": 1664265564,
       "rank": 47,
-      "category": "社会新闻"
+      "category": "游戏"
     },
     {
       "raw_hot": 87370,
