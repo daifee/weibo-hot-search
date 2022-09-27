@@ -1,0 +1,410 @@
+{
+  "runTime": 1664278831598,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1579836,
+        "num": 1579836,
+        "word": "频繁换头像是缺乏安全感吗",
+        "onboard_time": 1664270784,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1256372,
+        "num": 1256372,
+        "word": "101岁母亲去世52岁儿子一句话泪崩",
+        "onboard_time": 1664272044,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10824,
+        "num": 1086902,
+        "word": "中国航天3天3连发",
+        "onboard_time": 1664240366,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1069456,
+        "num": 1069456,
+        "word": "微信退群可选保留聊天记录",
+        "onboard_time": 1664263643,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 622024,
+        "num": 622024,
+        "word": "猫都没想到被P成这样",
+        "onboard_time": 1664273003,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 547959,
+        "num": 547959,
+        "word": "头像会影响聊天欲吗",
+        "onboard_time": 1664264185,
+        "rank": 5,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 541847,
+        "num": 541847,
+        "word": "任嘉伦李沁无效吻戏",
+        "onboard_time": 1664276726,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 473816,
+        "num": 473816,
+        "word": "中国第五代战机已遍布东南西北中",
+        "onboard_time": 1664273783,
+        "rank": 7,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 363744,
+        "num": 363744,
+        "word": "妈妈教爨姓儿子写名字时崩溃",
+        "onboard_time": 1664259745,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338266,
+        "num": 338266,
+        "word": "28岁程序员网购生发丸吃成肝损伤",
+        "onboard_time": 1664271862,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 728850,
+        "num": 328468,
+        "word": "骚男结婚",
+        "onboard_time": 1664277025,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 452377,
+        "num": 318690,
+        "word": "微信本可少占用大量空间",
+        "onboard_time": 1664267066,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 419926,
+        "num": 297699,
+        "word": "杨颖奔跑吧绿色背心路透",
+        "onboard_time": 1664274026,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 342104,
+        "num": 276031,
+        "word": "韩站",
+        "onboard_time": 1664261604,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 29162,
+        "num": 255648,
+        "word": "120隔空教海姆立克救下被卡幼儿",
+        "onboard_time": 1664277386,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251862,
+        "num": 251862,
+        "word": "iPhone14系列机型将在韩国销售",
+        "onboard_time": 1664275704,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 245694,
+        "num": 245694,
+        "word": "1个菜要10份餐具被拒该不该差评",
+        "onboard_time": 1664270365,
+        "rank": 16,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 239444,
+        "num": 239444,
+        "word": "国产法律剧终于支棱起来了",
+        "onboard_time": 1664263104,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226018,
+        "num": 226018,
+        "word": "韩剧",
+        "onboard_time": 1664278525,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177424,
+        "num": 177424,
+        "word": "北京年轻人国潮消费全国第一",
+        "onboard_time": 1664278105,
+        "rank": 19,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 849286,
+        "num": 176829,
+        "word": "肖战骄阳伴我白衬衫侧颜路透图",
+        "onboard_time": 1664278105,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198467,
+        "num": 176020,
+        "word": "开了会员还要会员",
+        "onboard_time": 1664278584,
+        "rank": 21,
+        "category": "科技,幽默"
+      },
+      {
+        "raw_hot": 175202,
+        "num": 175202,
+        "word": "美容师抓狗用力过度遭狗主人殴打",
+        "onboard_time": 1664268626,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168921,
+        "num": 168921,
+        "word": "头一次被文字给吓到了",
+        "onboard_time": 1664272525,
+        "rank": 23,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 163926,
+        "num": 163926,
+        "word": "河北一中学组织师生同卷考试",
+        "onboard_time": 1664274805,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160683,
+        "num": 160683,
+        "word": "人民网评昆仑神宫",
+        "onboard_time": 1664268985,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160654,
+        "num": 160654,
+        "word": "微风里益同行",
+        "onboard_time": 1664278165,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157815,
+        "num": 157815,
+        "word": "不要对爱你的人泼冷水",
+        "onboard_time": 1664273842,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146395,
+        "num": 146395,
+        "word": "净水机接下水道全家喝2年废水",
+        "onboard_time": 1664259683,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144586,
+        "num": 144586,
+        "word": "周深白鹿陈卓璇奔跑吧合唱我怀念的",
+        "onboard_time": 1664271984,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144046,
+        "num": 144046,
+        "word": "大三男生耗时1月捏出四大天王",
+        "onboard_time": 1664270065,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136423,
+        "num": 136423,
+        "word": "陕西29所高校将撤销53个专业点",
+        "onboard_time": 1664274444,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 131828,
+        "num": 131828,
+        "word": "张彬彬学虞书欣委屈脸",
+        "onboard_time": 1664270485,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131552,
+        "num": 131552,
+        "word": "你好二十大",
+        "onboard_time": 1664270425,
+        "rank": 33,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 126360,
+        "num": 126360,
+        "word": "iPhone14Pro被吐槽信号差",
+        "onboard_time": 1664253447,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 123735,
+        "num": 123735,
+        "word": "看得出这马桶很热情",
+        "onboard_time": 1664272643,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120351,
+        "num": 120351,
+        "word": "千万人考教师资格证是好事吗",
+        "onboard_time": 1664258844,
+        "rank": 36,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 118598,
+        "num": 118598,
+        "word": "心动的信号",
+        "onboard_time": 1664262024,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115185,
+        "num": 115185,
+        "word": "杭州90后老板给员工放桂花假",
+        "onboard_time": 1664277502,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34233,
+        "num": 114812,
+        "word": "宝宝疫苗妈妈真的都懂吗",
+        "onboard_time": 1664276425,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114470,
+        "num": 114470,
+        "word": "陈哲远是捅了甜妹窝吧",
+        "onboard_time": 1664264003,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 109513,
+        "num": 109513,
+        "word": "两个人的小森林",
+        "onboard_time": 1664265325,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 108712,
+        "num": 108712,
+        "word": "你抽到Faker了吗",
+        "onboard_time": 1664265745,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 98617,
+        "num": 98617,
+        "word": "宝妈让孩子爬行消耗体力避免吵闹",
+        "onboard_time": 1664269046,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93626,
+        "num": 93626,
+        "word": "陕西才是面食界天花板",
+        "onboard_time": 1664271923,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 88100,
+        "num": 88100,
+        "word": "为什么大家应学习相对论",
+        "onboard_time": 1664278404,
+        "rank": 45,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 87427,
+        "num": 87427,
+        "word": "北京一公司违规销售核酸团购券被罚",
+        "onboard_time": 1664268504,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86413,
+        "num": 86413,
+        "word": "BIBI新歌",
+        "onboard_time": 1664267485,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 86254,
+        "num": 86254,
+        "word": "杜德伟母亲是给我一个吻原唱",
+        "onboard_time": 1664269405,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84426,
+        "num": 84426,
+        "word": "萌娃生气将爸爸新买万元手机摔地上",
+        "onboard_time": 1664263883,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记与我们心连心#"
+    }
+  }
+}

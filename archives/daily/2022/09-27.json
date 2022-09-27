@@ -1,6 +1,6 @@
 {
   "startTime": 1664210185188,
-  "endTime": 1664277701717,
+  "endTime": 1664278831598,
   "band_list": [
     {
       "raw_hot": 2771808,
@@ -171,6 +171,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 849286,
+      "num": 176829,
+      "word": "肖战骄阳伴我白衬衫侧颜路透图",
+      "onboard_time": 1664278105,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 834822,
       "num": 834822,
       "word": "小区24楼掉下哈士奇砸伤老人孩子",
@@ -193,6 +201,14 @@
       "onboard_time": 1664246962,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 728850,
+      "num": 328468,
+      "word": "骚男结婚",
+      "onboard_time": 1664277025,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 711877,
@@ -235,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 622024,
+      "num": 622024,
+      "word": "猫都没想到被P成这样",
+      "onboard_time": 1664273003,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 615737,
       "num": 615737,
       "word": "美查询中国境内敏感人员信息并回传",
@@ -267,14 +291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 583430,
-      "num": 583430,
-      "word": "猫都没想到被P成这样",
-      "onboard_time": 1664273003,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 560420,
       "num": 560420,
       "word": "老人坠床身亡护理院被判赔11万",
@@ -304,6 +320,14 @@
       "word": "电影搜救定档国庆",
       "onboard_time": 1664242525,
       "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 541847,
+      "num": 541847,
+      "word": "任嘉伦李沁无效吻戏",
+      "onboard_time": 1664276726,
+      "rank": 13,
       "category": "影视"
     },
     {
@@ -377,6 +401,14 @@
       "onboard_time": 1664255367,
       "rank": 13,
       "category": "科技"
+    },
+    {
+      "raw_hot": 473816,
+      "num": 473816,
+      "word": "中国第五代战机已遍布东南西北中",
+      "onboard_time": 1664273783,
+      "rank": 43,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 471804,
@@ -539,14 +571,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 369738,
-      "num": 369738,
-      "word": "中国第五代战机已遍布东南西北中",
-      "onboard_time": 1664273783,
-      "rank": 43,
-      "category": "社会新闻,军事"
-    },
-    {
       "raw_hot": 367184,
       "num": 367184,
       "word": "你抽到Faker了吗",
@@ -633,14 +657,6 @@
       "onboard_time": 1664258723,
       "rank": 42,
       "category": "科技"
-    },
-    {
-      "raw_hot": 293058,
-      "num": 293058,
-      "word": "任嘉伦李沁无效吻戏",
-      "onboard_time": 1664276726,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 292984,
@@ -835,12 +851,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 223791,
-      "num": 223791,
-      "word": "骚男结婚",
-      "onboard_time": 1664277025,
-      "rank": 17,
-      "category": "游戏"
+      "raw_hot": 226018,
+      "num": 226018,
+      "word": "韩剧",
+      "onboard_time": 1664278525,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 223474,
@@ -915,6 +931,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 198467,
+      "num": 176020,
+      "word": "开了会员还要会员",
+      "onboard_time": 1664278584,
+      "rank": 21,
+      "category": "科技,幽默"
+    },
+    {
       "raw_hot": 197500,
       "num": 197500,
       "word": "老人街头晕倒一群人冲了上去",
@@ -987,6 +1011,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 177424,
+      "num": 177424,
+      "word": "北京年轻人国潮消费全国第一",
+      "onboard_time": 1664278105,
+      "rank": 19,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 176958,
       "num": 176958,
       "word": "头一次被文字给吓到了",
@@ -1035,12 +1067,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 163926,
+      "num": 163926,
+      "word": "河北一中学组织师生同卷考试",
+      "onboard_time": 1664274805,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162378,
       "num": 162378,
       "word": "周琦重回墨尔本凤凰队",
       "onboard_time": 1664205266,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160654,
+      "num": 160654,
+      "word": "微风里益同行",
+      "onboard_time": 1664278165,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159407,
@@ -1059,20 +1107,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157815,
+      "num": 157815,
+      "word": "不要对爱你的人泼冷水",
+      "onboard_time": 1664273842,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 157039,
       "num": 157039,
       "word": "大妈带狗不栓绳保安一网兜走狗",
       "onboard_time": 1664223250,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155352,
-      "num": 155352,
-      "word": "不要对爱你的人泼冷水",
-      "onboard_time": 1664273842,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 153895,
@@ -1171,12 +1219,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 134283,
-      "num": 134283,
-      "word": "河北一中学组织师生同卷考试",
-      "onboard_time": 1664274805,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 136423,
+      "num": 136423,
+      "word": "陕西29所高校将撤销53个专业点",
+      "onboard_time": 1664274444,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 133063,
@@ -1193,14 +1241,6 @@
       "onboard_time": 1664237904,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 128636,
-      "num": 128636,
-      "word": "陕西29所高校将撤销53个专业点",
-      "onboard_time": 1664274444,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 128587,
@@ -1233,6 +1273,14 @@
       "onboard_time": 1664271562,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123735,
+      "num": 123735,
+      "word": "看得出这马桶很热情",
+      "onboard_time": 1664272643,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 123051,
@@ -1289,6 +1337,14 @@
       "onboard_time": 1664269105,
       "rank": 38,
       "category": "科技"
+    },
+    {
+      "raw_hot": 115185,
+      "num": 115185,
+      "word": "杭州90后老板给员工放桂花假",
+      "onboard_time": 1664277502,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114193,
@@ -1379,14 +1435,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 98383,
-      "num": 98383,
-      "word": "看得出这马桶很热情",
-      "onboard_time": 1664272643,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 96062,
       "num": 96062,
       "word": "阚清子80年代青涩氛围感",
@@ -1427,14 +1475,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 90775,
-      "num": 90775,
-      "word": "杭州90后老板给员工放桂花假",
-      "onboard_time": 1664277502,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 89097,
       "num": 89097,
       "word": "5个好习惯让生活更充实",
@@ -1457,6 +1497,14 @@
       "onboard_time": 1664240844,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88100,
+      "num": 88100,
+      "word": "为什么大家应学习相对论",
+      "onboard_time": 1664278404,
+      "rank": 45,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 87741,
@@ -1651,6 +1699,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 34233,
+      "num": 114812,
+      "word": "宝宝疫苗妈妈真的都懂吗",
+      "onboard_time": 1664276425,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33195,
       "num": 385289,
       "word": "地图上看城市最美夜景",
@@ -1673,6 +1729,14 @@
       "onboard_time": 1664216892,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 29162,
+      "num": 287142,
+      "word": "120隔空教海姆立克救下被卡幼儿",
+      "onboard_time": 1664277386,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27592,
@@ -1705,14 +1769,6 @@
       "onboard_time": 1664215753,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 18583,
-      "num": 105104,
-      "word": "宝宝疫苗妈妈真的都懂吗",
-      "onboard_time": 1664276425,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16985,
@@ -1761,14 +1817,6 @@
       "onboard_time": 1664201429,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 8956,
-      "num": 287142,
-      "word": "120隔空教海姆立克救下被卡幼儿",
-      "onboard_time": 1664277386,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 8002,
