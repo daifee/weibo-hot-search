@@ -1,6 +1,6 @@
 {
   "startTime": 1664210185188,
-  "endTime": 1664275651867,
+  "endTime": 1664277701717,
   "band_list": [
     {
       "raw_hot": 2771808,
@@ -83,20 +83,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1502939,
+      "num": 1502939,
+      "word": "101岁母亲去世52岁儿子一句话泪崩",
+      "onboard_time": 1664272044,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1494986,
       "num": 1494986,
       "word": "头像会影响聊天欲吗",
       "onboard_time": 1664264185,
       "rank": 34,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 1381875,
-      "num": 1381875,
-      "word": "101岁母亲去世52岁儿子一句话泪崩",
-      "onboard_time": 1664272044,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1366254,
@@ -267,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 583430,
+      "num": 583430,
+      "word": "猫都没想到被P成这样",
+      "onboard_time": 1664273003,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 560420,
       "num": 560420,
       "word": "老人坠床身亡护理院被判赔11万",
@@ -331,6 +339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 516318,
+      "num": 372084,
+      "word": "当男生用上了卫生巾",
+      "onboard_time": 1664274026,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 507442,
       "num": 507442,
       "word": "杨幂密室大逃脱双马尾高清剧照",
@@ -363,14 +379,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 473611,
-      "num": 372084,
-      "word": "当男生用上了卫生巾",
-      "onboard_time": 1664274026,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 471804,
       "num": 471804,
       "word": "流浪地球2刘德华造型首次曝光",
@@ -385,6 +393,22 @@
       "onboard_time": 1664249785,
       "rank": 15,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 445524,
+      "num": 327860,
+      "word": "杨颖奔跑吧绿色背心路透",
+      "onboard_time": 1664274026,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 442471,
+      "num": 442471,
+      "word": "28岁程序员网购生发丸吃成肝损伤",
+      "onboard_time": 1664271862,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 441784,
@@ -419,14 +443,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 424536,
-      "num": 327860,
-      "word": "杨颖奔跑吧绿色背心路透",
-      "onboard_time": 1664274026,
-      "rank": 13,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 420318,
       "num": 420318,
       "word": "女子产后3个月发现又怀孕2个月",
@@ -459,28 +475,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 408620,
-      "num": 408620,
-      "word": "28岁程序员网购生发丸吃成肝损伤",
-      "onboard_time": 1664271862,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 403182,
       "num": 403182,
       "word": "专家推荐十三二一零完美睡眠公式",
       "onboard_time": 1664239648,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 401473,
-      "num": 401473,
-      "word": "猫都没想到被P成这样",
-      "onboard_time": 1664273003,
-      "rank": 16,
-      "category": "幽默"
     },
     {
       "raw_hot": 398042,
@@ -537,6 +537,14 @@
       "onboard_time": 1664233879,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 369738,
+      "num": 369738,
+      "word": "中国第五代战机已遍布东南西北中",
+      "onboard_time": 1664273783,
+      "rank": 43,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 367184,
@@ -625,6 +633,14 @@
       "onboard_time": 1664258723,
       "rank": 42,
       "category": "科技"
+    },
+    {
+      "raw_hot": 293058,
+      "num": 293058,
+      "word": "任嘉伦李沁无效吻戏",
+      "onboard_time": 1664276726,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 292984,
@@ -739,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258989,
+      "num": 258989,
+      "word": "iPhone14系列机型将在韩国销售",
+      "onboard_time": 1664275704,
+      "rank": 16,
+      "category": "科技"
+    },
+    {
       "raw_hot": 256171,
       "num": 256171,
       "word": "张彬彬学虞书欣委屈脸",
@@ -761,14 +785,6 @@
       "onboard_time": 1664249425,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 247909,
-      "num": 247909,
-      "word": "中国第五代战机已遍布东南西北中",
-      "onboard_time": 1664273783,
-      "rank": 43,
-      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 247637,
@@ -819,6 +835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223791,
+      "num": 223791,
+      "word": "骚男结婚",
+      "onboard_time": 1664277025,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 223474,
       "num": 223474,
       "word": "学校回应保安打死喂奶狗妈妈",
@@ -865,6 +889,14 @@
       "onboard_time": 1664250745,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 202899,
+      "num": 202899,
+      "word": "研究称VR能缓解焦虑",
+      "onboard_time": 1664277205,
+      "rank": 20,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 200651,
@@ -955,6 +987,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 176958,
+      "num": 176958,
+      "word": "头一次被文字给吓到了",
+      "onboard_time": 1664272525,
+      "rank": 27,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 176005,
       "num": 176005,
       "word": "江西菜的微辣到底有多辣",
@@ -1003,14 +1043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 161383,
-      "num": 161383,
-      "word": "头一次被文字给吓到了",
-      "onboard_time": 1664272525,
-      "rank": 27,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 159407,
       "num": 159407,
       "word": "如何用5个动作高效练腹",
@@ -1033,6 +1065,14 @@
       "onboard_time": 1664223250,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155352,
+      "num": 155352,
+      "word": "不要对爱你的人泼冷水",
+      "onboard_time": 1664273842,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 153895,
@@ -1131,12 +1171,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 133510,
-      "num": 133510,
-      "word": "不要对爱你的人泼冷水",
-      "onboard_time": 1664273842,
-      "rank": 44,
-      "category": "情感"
+      "raw_hot": 134283,
+      "num": 134283,
+      "word": "河北一中学组织师生同卷考试",
+      "onboard_time": 1664274805,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133063,
@@ -1153,6 +1193,14 @@
       "onboard_time": 1664237904,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 128636,
+      "num": 128636,
+      "word": "陕西29所高校将撤销53个专业点",
+      "onboard_time": 1664274444,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 128587,
@@ -1331,20 +1379,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 97359,
-      "num": 97359,
-      "word": "河北一中学组织师生同卷考试",
-      "onboard_time": 1664274805,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 96489,
-      "num": 96489,
-      "word": "陕西29所高校将撤销53个专业点",
-      "onboard_time": 1664274444,
-      "rank": 49,
-      "category": "教育"
+      "raw_hot": 98383,
+      "num": 98383,
+      "word": "看得出这马桶很热情",
+      "onboard_time": 1664272643,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 96062,
@@ -1379,20 +1419,20 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 91966,
-      "num": 91966,
-      "word": "看得出这马桶很热情",
-      "onboard_time": 1664272643,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 90865,
       "num": 90865,
       "word": "你安全吗全员换小蓝头像",
       "onboard_time": 1664236464,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 90775,
+      "num": 90775,
+      "word": "杭州90后老板给员工放桂花假",
+      "onboard_time": 1664277502,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 89097,
@@ -1667,6 +1707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 18583,
+      "num": 105104,
+      "word": "宝宝疫苗妈妈真的都懂吗",
+      "onboard_time": 1664276425,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16985,
       "num": 16985,
       "word": "弯腿球王是怎样炼成的",
@@ -1713,6 +1761,14 @@
       "onboard_time": 1664201429,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 8956,
+      "num": 287142,
+      "word": "120隔空教海姆立克救下被卡幼儿",
+      "onboard_time": 1664277386,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 8002,
