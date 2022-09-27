@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664289507015,
+  "endTime": 1664290338311,
   "band_list": [
     {
       "raw_hot": 4711055,
@@ -11,7 +11,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 3167166,
+      "raw_hot": 3450409,
       "num": 876688,
       "word": "鞠婧祎捐款50万用于给女性提供HPV疫苗",
       "onboard_time": 1664286867,
@@ -403,6 +403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 894899,
+      "num": 894899,
+      "word": "晕车终于有救了",
+      "onboard_time": 1664287349,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 891953,
       "num": 891953,
       "word": "广东省回应禁止销售槟榔建议",
@@ -555,6 +563,14 @@
       "category": "社会负面,教育"
     },
     {
+      "raw_hot": 716369,
+      "num": 716369,
+      "word": "中介伪装房东9年骗走老人1050万",
+      "onboard_time": 1664285066,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 711877,
       "num": 711877,
       "word": "千万人考教师资格证是好事吗",
@@ -568,14 +584,6 @@
       "word": "女子遭无故开除公司赔122斤硬币",
       "onboard_time": 1664161286,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 692060,
-      "num": 692060,
-      "word": "中介伪装房东9年骗走老人1050万",
-      "onboard_time": 1664285066,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -643,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 641776,
+      "num": 641776,
+      "word": "女子输液回血护士先掏手机",
+      "onboard_time": 1664287827,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 639610,
       "num": 639610,
       "word": "研究发现熬夜导致肥胖的原因",
@@ -707,6 +723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 598209,
+      "num": 497645,
+      "word": "小茉莉",
+      "onboard_time": 1664286445,
+      "rank": 25,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 588838,
       "num": 588838,
       "word": "贾跃亭再获1亿美元融资",
@@ -761,14 +785,6 @@
       "onboard_time": 1664183905,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 556523,
-      "num": 497645,
-      "word": "小茉莉",
-      "onboard_time": 1664286445,
-      "rank": 25,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 555152,
@@ -905,14 +921,6 @@
       "onboard_time": 1664253987,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 503454,
-      "num": 503454,
-      "word": "晕车终于有救了",
-      "onboard_time": 1664287349,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 503276,
@@ -1065,14 +1073,6 @@
       "onboard_time": 1664154748,
       "rank": 20,
       "category": "科技"
-    },
-    {
-      "raw_hot": 449237,
-      "num": 449237,
-      "word": "女子输液回血护士先掏手机",
-      "onboard_time": 1664287827,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 445524,
@@ -2203,6 +2203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203040,
+      "num": 203040,
+      "word": "浙江省运会男足球员追打裁判",
+      "onboard_time": 1664285543,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202899,
       "num": 202899,
       "word": "研究称VR能缓解焦虑",
@@ -2355,14 +2363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 183501,
-      "num": 183501,
-      "word": "浙江省运会男足球员追打裁判",
-      "onboard_time": 1664285543,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 182438,
       "num": 182438,
       "word": "刷手机会让记忆力下降",
@@ -2385,6 +2385,14 @@
       "onboard_time": 1664255068,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179996,
+      "num": 179996,
+      "word": "中国女篮淘汰赛对阵法国",
+      "onboard_time": 1664288788,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 178096,
@@ -2715,6 +2723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151888,
+      "num": 151888,
+      "word": "这采访比小品还好笑",
+      "onboard_time": 1664284646,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 150315,
       "num": 150315,
       "word": "陕西才是面食界天花板",
@@ -2777,14 +2793,6 @@
       "onboard_time": 1664195186,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 144672,
-      "num": 144672,
-      "word": "这采访比小品还好笑",
-      "onboard_time": 1664284646,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 143666,
@@ -2867,6 +2875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137267,
+      "num": 137267,
+      "word": "减肥后的心情起伏有多大",
+      "onboard_time": 1664285425,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136689,
       "num": 136689,
       "word": "张彬彬说演员拍戏时要交出自己的感情",
@@ -2913,14 +2929,6 @@
       "onboard_time": 1664200828,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 132690,
-      "num": 132690,
-      "word": "减肥后的心情起伏有多大",
-      "onboard_time": 1664285425,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 132436,
@@ -3025,6 +3033,14 @@
       "onboard_time": 1664172205,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 124995,
+      "num": 124995,
+      "word": "昕雯联播解说成都世乒赛",
+      "onboard_time": 1664288006,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 123298,
@@ -3155,12 +3171,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 110723,
-      "num": 110723,
-      "word": "中国女篮淘汰赛对阵法国",
-      "onboard_time": 1664288788,
-      "rank": 43,
-      "category": "体育"
+      "raw_hot": 110796,
+      "num": 935008,
+      "word": "二十大代表是怎么选出来的",
+      "onboard_time": 1664282366,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 110160,
@@ -3177,14 +3193,6 @@
       "onboard_time": 1664150487,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 109786,
-      "num": 109786,
-      "word": "昕雯联播解说成都世乒赛",
-      "onboard_time": 1664288006,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 109259,
@@ -3235,20 +3243,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 103158,
-      "num": 935008,
-      "word": "二十大代表是怎么选出来的",
-      "onboard_time": 1664282366,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 102033,
       "num": 78079,
       "word": "何与校服造型",
       "onboard_time": 1664209462,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 101957,
+      "num": 101957,
+      "word": "女孩经过爸爸生前单位哭着要看他",
+      "onboard_time": 1664289986,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101685,
@@ -3321,6 +3329,14 @@
       "onboard_time": 1664271624,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 95371,
+      "num": 95371,
+      "word": "这难道是班主任的凝视吗",
+      "onboard_time": 1664289627,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 94520,
@@ -3417,6 +3433,14 @@
       "onboard_time": 1664201306,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 86576,
+      "num": 86576,
+      "word": "北溪2号天然气管道发生泄漏",
+      "onboard_time": 1664290167,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 85129,
@@ -3635,6 +3659,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 59097,
+      "num": 443946,
+      "word": "18岁女孩不幸离世捐器官救6人",
+      "onboard_time": 1664287284,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55766,
       "num": 1378577,
       "word": "中国航天3天3连发",
@@ -3649,14 +3681,6 @@
       "onboard_time": 1664099966,
       "rank": 46,
       "category": "财经"
-    },
-    {
-      "raw_hot": 51737,
-      "num": 443946,
-      "word": "18岁女孩不幸离世捐器官救6人",
-      "onboard_time": 1664287284,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 48655,
@@ -4088,6 +4112,9 @@
     },
     {
       "word": "#总书记与我们心连心#"
+    },
+    {
+      "word": "#坐标中国#"
     }
   ]
 }
