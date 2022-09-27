@@ -1,7 +1,15 @@
 {
   "startTime": 1664210185188,
-  "endTime": 1664260045965,
+  "endTime": 1664262794408,
   "band_list": [
+    {
+      "raw_hot": 2625180,
+      "num": 2625180,
+      "word": "妈妈教爨姓儿子写名字时崩溃",
+      "onboard_time": 1664259745,
+      "rank": 28,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2245838,
       "num": 2245838,
@@ -89,6 +97,14 @@
       "onboard_time": 1664248947,
       "rank": 3,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1114966,
+      "num": 280073,
+      "word": "韩站",
+      "onboard_time": 1664261604,
+      "rank": 10,
+      "category": "科技"
     },
     {
       "raw_hot": 1008109,
@@ -201,6 +217,14 @@
       "onboard_time": 1664242525,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 543805,
+      "num": 543805,
+      "word": "千万人考教师资格证是好事吗",
+      "onboard_time": 1664258844,
+      "rank": 34,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 533991,
@@ -395,6 +419,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 329665,
+      "num": 257746,
+      "word": "净水机接下水道全家喝2年废水",
+      "onboard_time": 1664259683,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 316143,
       "num": 316143,
       "word": "天津疫情防控",
@@ -417,6 +449,22 @@
       "onboard_time": 1664187866,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 297269,
+      "num": 297269,
+      "word": "上机考试鼠标自己答题",
+      "onboard_time": 1664256265,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 294424,
+      "num": 250743,
+      "word": "任泽平称苹果过度消耗果粉对乔布斯的喜爱",
+      "onboard_time": 1664258723,
+      "rank": 42,
+      "category": "科技"
     },
     {
       "raw_hot": 292574,
@@ -496,14 +544,6 @@
       "word": "新生儿采足底血爸爸心疼抹泪",
       "onboard_time": 1664195906,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 259807,
-      "num": 259807,
-      "word": "上机考试鼠标自己答题",
-      "onboard_time": 1664256265,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -587,6 +627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 200651,
+      "num": 200651,
+      "word": "心动的信号",
+      "onboard_time": 1664262024,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198689,
       "num": 198689,
       "word": "学生发型不达标校门口排队理发",
@@ -625,6 +673,14 @@
       "onboard_time": 1664246063,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 185583,
+      "num": 185583,
+      "word": "你可以永远相信孔子",
+      "onboard_time": 1664261784,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 181321,
@@ -667,12 +723,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 170648,
-      "num": 170648,
-      "word": "妈妈教爨姓儿子写名字时崩溃",
-      "onboard_time": 1664259745,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 170450,
+      "num": 170450,
+      "word": "不喜欢的追求者送礼物要不要收",
+      "onboard_time": 1664259801,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 165976,
@@ -779,14 +835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 142747,
-      "num": 142747,
-      "word": "千万人考教师资格证是好事吗",
-      "onboard_time": 1664258844,
-      "rank": 34,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 128738,
       "num": 128738,
       "word": "独行月球密钥延期至1029",
@@ -816,6 +864,14 @@
       "word": "女子建植物工厂让菠菜一年长22茬",
       "onboard_time": 1664228831,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124681,
+      "num": 124681,
+      "word": "打119时必说的关键信息",
+      "onboard_time": 1664262142,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -923,28 +979,12 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 107257,
-      "num": 107257,
-      "word": "不喜欢的追求者送礼物要不要收",
-      "onboard_time": 1664259801,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 104504,
       "num": 104504,
       "word": "樊振东多球训练眼花缭乱",
       "onboard_time": 1664245163,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 103726,
-      "num": 103726,
-      "word": "任泽平称苹果过度消耗果粉对乔布斯的喜爱",
-      "onboard_time": 1664258723,
-      "rank": 42,
-      "category": "科技"
     },
     {
       "raw_hot": 102033,
@@ -969,14 +1009,6 @@
       "onboard_time": 1664199687,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 98728,
-      "num": 98728,
-      "word": "净水机接下水道全家喝2年废水",
-      "onboard_time": 1664259683,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 94894,
@@ -1049,6 +1081,14 @@
       "onboard_time": 1664235562,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 80633,
+      "num": 80633,
+      "word": "这位妈妈的脾气也太好了吧",
+      "onboard_time": 1664262384,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 78190,
@@ -1155,6 +1195,14 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 55766,
+      "num": 1017313,
+      "word": "中国航天3天3连发",
+      "onboard_time": 1664240366,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 53574,
       "num": 53574,
       "word": "人类幼崽的那些奇奇怪怪",
@@ -1169,14 +1217,6 @@
       "onboard_time": 1664182643,
       "rank": 43,
       "category": "国内要闻,国外要闻"
-    },
-    {
-      "raw_hot": 46975,
-      "num": 1017313,
-      "word": "中国航天3天3连发",
-      "onboard_time": 1664240366,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 46335,
@@ -1225,6 +1265,14 @@
       "onboard_time": 1664216892,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 27592,
+      "num": 111921,
+      "word": "苏州园林推出昆曲版解说",
+      "onboard_time": 1664262024,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22647,

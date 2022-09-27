@@ -1,0 +1,410 @@
+{
+  "runTime": 1664262794408,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2625180,
+        "num": 2625180,
+        "word": "妈妈教爨姓儿子写名字时崩溃",
+        "onboard_time": 1664259745,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1041064,
+        "num": 1041064,
+        "word": "大学生校内10元买彩票中25万",
+        "onboard_time": 1664252725,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55766,
+        "num": 809870,
+        "word": "中国航天3天3连发",
+        "onboard_time": 1664240366,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 735164,
+        "num": 735164,
+        "word": "火锅店把吃剩锅底重新端给顾客",
+        "onboard_time": 1664245523,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604293,
+        "num": 604293,
+        "word": "iPhone14Pro被吐槽信号差",
+        "onboard_time": 1664253447,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 543805,
+        "num": 543805,
+        "word": "千万人考教师资格证是好事吗",
+        "onboard_time": 1664258844,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 463500,
+        "num": 463500,
+        "word": "半身麻醉手术状态下听到的",
+        "onboard_time": 1664253269,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 375299,
+        "num": 375299,
+        "word": "李承铉说喜欢一个人会自带滤镜",
+        "onboard_time": 1664256385,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297269,
+        "num": 297269,
+        "word": "上机考试鼠标自己答题",
+        "onboard_time": 1664256265,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280258,
+        "num": 280258,
+        "word": "90%以上学生能在规定时间完成书面作业",
+        "onboard_time": 1664253630,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1114966,
+        "num": 280073,
+        "word": "韩站",
+        "onboard_time": 1664261604,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 496859,
+        "num": 273725,
+        "word": "张雨绮说雪莉杨一部更比一部辣",
+        "onboard_time": 1664257404,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 407429,
+        "num": 268821,
+        "word": "罗云熙白鹿发博庆祝半糖开播两周年",
+        "onboard_time": 1664257583,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 363419,
+        "num": 260623,
+        "word": "王鹤棣橘色毛衣造型上班路透",
+        "onboard_time": 1664258723,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 329665,
+        "num": 257746,
+        "word": "净水机接下水道全家喝2年废水",
+        "onboard_time": 1664259683,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294424,
+        "num": 250743,
+        "word": "任泽平称苹果过度消耗果粉对乔布斯的喜爱",
+        "onboard_time": 1664258723,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 248261,
+        "num": 248261,
+        "word": "杨幂密室大逃脱双马尾高清剧照",
+        "onboard_time": 1664253987,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215786,
+        "num": 215786,
+        "word": "西北工业大学遭美国安局攻击最新调查",
+        "onboard_time": 1664248285,
+        "rank": 17,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 208965,
+        "num": 208965,
+        "word": "妇科炎症会引起宫颈癌吗",
+        "onboard_time": 1664250085,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207123,
+        "num": 207123,
+        "word": "美国对我国基础设施渗透控制",
+        "onboard_time": 1664249785,
+        "rank": 19,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 284472,
+        "num": 206292,
+        "word": "iPhone15Ultra或采用双前置摄像头",
+        "onboard_time": 1664255367,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 200651,
+        "num": 200651,
+        "word": "心动的信号",
+        "onboard_time": 1664262024,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192773,
+        "num": 192773,
+        "word": "天津新增42例本土阳性感染者",
+        "onboard_time": 1664252247,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191773,
+        "num": 191773,
+        "word": "老人坠床身亡护理院被判赔11万",
+        "onboard_time": 1664250985,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185583,
+        "num": 185583,
+        "word": "你可以永远相信孔子",
+        "onboard_time": 1664261784,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170450,
+        "num": 170450,
+        "word": "不喜欢的追求者送礼物要不要收",
+        "onboard_time": 1664259801,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164024,
+        "num": 164024,
+        "word": "人民币成为全球第4位支付货币",
+        "onboard_time": 1664248947,
+        "rank": 26,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 159617,
+        "num": 159617,
+        "word": "流浪地球2刘德华造型首次曝光",
+        "onboard_time": 1664251106,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155915,
+        "num": 155915,
+        "word": "虞书欣分享两个人的小森林团建vlog",
+        "onboard_time": 1664257704,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 152544,
+        "num": 152544,
+        "word": "EDGJieJie已起诉多家企业侵权",
+        "onboard_time": 1664248643,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132638,
+        "num": 132638,
+        "word": "白冰戴向宇新剧结局竟然没离婚",
+        "onboard_time": 1664246544,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129137,
+        "num": 129137,
+        "word": "青白蛇皮肤优化",
+        "onboard_time": 1664249245,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127808,
+        "num": 127808,
+        "word": "3千买的移动电源充电时连续爆炸",
+        "onboard_time": 1664251347,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125169,
+        "num": 125169,
+        "word": "2022国庆档电影最新阵容",
+        "onboard_time": 1664246004,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124681,
+        "num": 124681,
+        "word": "打119时必说的关键信息",
+        "onboard_time": 1664262142,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122826,
+        "num": 122826,
+        "word": "真的不要再自我怀疑了",
+        "onboard_time": 1664258602,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119615,
+        "num": 119615,
+        "word": "贾跃亭再获1亿美元融资",
+        "onboard_time": 1664247625,
+        "rank": 36,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 117491,
+        "num": 117491,
+        "word": "昆明本轮疫情传播源头尚未查清",
+        "onboard_time": 1664255068,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113322,
+        "num": 113322,
+        "word": "美查询中国境内敏感人员信息并回传",
+        "onboard_time": 1664248526,
+        "rank": 38,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 27592,
+        "num": 111921,
+        "word": "苏州园林推出昆曲版解说",
+        "onboard_time": 1664262024,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110647,
+        "num": 110647,
+        "word": "唐朝诡事录开播",
+        "onboard_time": 1664246063,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 90725,
+        "num": 90725,
+        "word": "邢菲翟子路落日大片",
+        "onboard_time": 1664256265,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 89087,
+        "num": 89087,
+        "word": "中国女篮vs比利时女篮",
+        "onboard_time": 1664253806,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89006,
+        "num": 89006,
+        "word": "85岁老人摆摊卖菜救重病孙女",
+        "onboard_time": 1664254707,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80633,
+        "num": 80633,
+        "word": "这位妈妈的脾气也太好了吧",
+        "onboard_time": 1664262384,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79137,
+        "num": 79137,
+        "word": "赵丽颖溯秋见林氛围感大片",
+        "onboard_time": 1664248045,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 76700,
+        "num": 76700,
+        "word": "女子吃完夜宵回家遇肥猫做卷腹",
+        "onboard_time": 1664244444,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75222,
+        "num": 75222,
+        "word": "全国大学文化程度人口超过2.18亿",
+        "onboard_time": 1664246783,
+        "rank": 47,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 74815,
+        "num": 74815,
+        "word": "家中停电门打不开男子砸墙送娃上学",
+        "onboard_time": 1664247144,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67943,
+        "num": 67943,
+        "word": "光遇",
+        "onboard_time": 1664257764,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#这部巨著我们共同书写#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664260045965,
+  "endTime": 1664262794408,
   "band_list": [
     {
       "raw_hot": 4711055,
@@ -17,6 +17,14 @@
       "onboard_time": 1664192426,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2625180,
+      "num": 2625180,
+      "word": "妈妈教爨姓儿子写名字时崩溃",
+      "onboard_time": 1664259745,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2585281,
@@ -217,6 +225,14 @@
       "onboard_time": 1664248947,
       "rank": 3,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1114966,
+      "num": 280073,
+      "word": "韩站",
+      "onboard_time": 1664261604,
+      "rank": 10,
+      "category": "科技"
     },
     {
       "raw_hot": 1099668,
@@ -617,6 +633,14 @@
       "onboard_time": 1664242525,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 543805,
+      "num": 543805,
+      "word": "千万人考教师资格证是好事吗",
+      "onboard_time": 1664258844,
+      "rank": 34,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 538267,
@@ -1099,6 +1123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 329665,
+      "num": 257746,
+      "word": "净水机接下水道全家喝2年废水",
+      "onboard_time": 1664259683,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 324641,
       "num": 324641,
       "word": "成都适龄女孩接种国产HPV疫苗免费",
@@ -1169,6 +1201,22 @@
       "onboard_time": 1664159302,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 297269,
+      "num": 297269,
+      "word": "上机考试鼠标自己答题",
+      "onboard_time": 1664256265,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 294424,
+      "num": 250743,
+      "word": "任泽平称苹果过度消耗果粉对乔布斯的喜爱",
+      "onboard_time": 1664258723,
+      "rank": 42,
+      "category": "科技"
     },
     {
       "raw_hot": 292574,
@@ -1361,14 +1409,6 @@
       "onboard_time": 1664123302,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 259807,
-      "num": 259807,
-      "word": "上机考试鼠标自己答题",
-      "onboard_time": 1664256265,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 255396,
@@ -1739,6 +1779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200651,
+      "num": 200651,
+      "word": "心动的信号",
+      "onboard_time": 1664262024,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199363,
       "num": 199363,
       "word": "小猪高速被撞卡进保险杠",
@@ -1833,6 +1881,14 @@
       "onboard_time": 1664115031,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 185583,
+      "num": 185583,
+      "word": "你可以永远相信孔子",
+      "onboard_time": 1664261784,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 183544,
@@ -1947,12 +2003,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 170648,
-      "num": 170648,
-      "word": "妈妈教爨姓儿子写名字时崩溃",
-      "onboard_time": 1664259745,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 170450,
+      "num": 170450,
+      "word": "不喜欢的追求者送礼物要不要收",
+      "onboard_time": 1664259801,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 169591,
@@ -2179,14 +2235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 142747,
-      "num": 142747,
-      "word": "千万人考教师资格证是好事吗",
-      "onboard_time": 1664258844,
-      "rank": 34,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 140568,
       "num": 140568,
       "word": "原神莱依拉",
@@ -2337,6 +2385,14 @@
       "onboard_time": 1664172205,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 124681,
+      "num": 124681,
+      "word": "打119时必说的关键信息",
+      "onboard_time": 1664262142,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123917,
@@ -2491,14 +2547,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 107257,
-      "num": 107257,
-      "word": "不喜欢的追求者送礼物要不要收",
-      "onboard_time": 1664259801,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 106551,
       "num": 106551,
       "word": "Fly回城是AG",
@@ -2521,14 +2569,6 @@
       "onboard_time": 1664147420,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 103726,
-      "num": 103726,
-      "word": "任泽平称苹果过度消耗果粉对乔布斯的喜爱",
-      "onboard_time": 1664258723,
-      "rank": 42,
-      "category": "科技"
     },
     {
       "raw_hot": 102033,
@@ -2577,14 +2617,6 @@
       "onboard_time": 1664204788,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 98728,
-      "num": 98728,
-      "word": "净水机接下水道全家喝2年废水",
-      "onboard_time": 1664259683,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 96635,
@@ -2731,6 +2763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80633,
+      "num": 80633,
+      "word": "这位妈妈的脾气也太好了吧",
+      "onboard_time": 1664262384,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 78260,
       "num": 78260,
       "word": "网传大宋少年志2将开机",
@@ -2875,6 +2915,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 55766,
+      "num": 1017313,
+      "word": "中国航天3天3连发",
+      "onboard_time": 1664240366,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 52921,
       "num": 52921,
       "word": "威马年亏82亿创始人年薪12亿",
@@ -2899,14 +2947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 46975,
-      "num": 1017313,
-      "word": "中国航天3天3连发",
-      "onboard_time": 1664240366,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 46652,
       "num": 46652,
       "word": "男子误花10元私房钱气到攥紧拳头",
@@ -2929,6 +2969,14 @@
       "onboard_time": 1664216892,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 27592,
+      "num": 111921,
+      "word": "苏州园林推出昆曲版解说",
+      "onboard_time": 1664262024,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22631,

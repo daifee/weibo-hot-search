@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/27 00:36:25 ~ 2022/09/27 14:27:25
+本榜单时间：2022/09/27 00:36:25 ~ 2022/09/27 15:13:14
 </p>
 </blockquote>
 <p>
@@ -13,6 +13,12 @@
 热榜
 </h2>
 <ol>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E6%95%99%E7%88%A8%E5%A7%93%E5%84%BF%E5%AD%90%E5%86%99%E5%90%8D%E5%AD%97%E6%97%B6%E5%B4%A9%E6%BA%83%23" target="weibo">
+妈妈教爨姓儿子写名字时崩溃（热度：2625180）
+</a>
+</li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%8510%E5%85%83%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD25%E4%B8%87%23" target="weibo">
@@ -77,6 +83,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E5%B8%81%E6%88%90%E4%B8%BA%E5%85%A8%E7%90%83%E7%AC%AC4%E4%BD%8D%E6%94%AF%E4%BB%98%E8%B4%A7%E5%B8%81%23" target="weibo">
 人民币成为全球第4位支付货币（热度：1118469）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%AB%99%23" target="weibo">
+韩站（热度：1114966）
 </a>
 </li>
 
@@ -161,6 +173,12 @@ iPhone14Pro被吐槽信号差（热度：1008109）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E6%90%9C%E6%95%91%E5%AE%9A%E6%A1%A3%E5%9B%BD%E5%BA%86%23" target="weibo">
 电影搜救定档国庆（热度：543809）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%BA%BA%E8%80%83%E6%95%99%E5%B8%88%E8%B5%84%E6%A0%BC%E8%AF%81%E6%98%AF%E5%A5%BD%E4%BA%8B%E5%90%97%23" target="weibo">
+千万人考教师资格证是好事吗（热度：543805）
 </a>
 </li>
 
@@ -309,6 +327,12 @@ EDGJieJie已起诉多家企业侵权（热度：428566）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%87%80%E6%B0%B4%E6%9C%BA%E6%8E%A5%E4%B8%8B%E6%B0%B4%E9%81%93%E5%85%A8%E5%AE%B6%E5%96%9D2%E5%B9%B4%E5%BA%9F%E6%B0%B4%23" target="weibo">
+净水机接下水道全家喝2年废水（热度：329665）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%23" target="weibo">
 天津疫情防控（热度：316143）
 </a>
@@ -323,6 +347,18 @@ EDGJieJie已起诉多家企业侵权（热度：428566）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%9C%9F%E7%9A%84%E5%BE%88%E9%9C%80%E8%A6%81%E8%BF%99%E9%97%A8%E8%AF%BE%23" target="weibo">
 大学生真的很需要这门课（热度：298856）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%9C%BA%E8%80%83%E8%AF%95%E9%BC%A0%E6%A0%87%E8%87%AA%E5%B7%B1%E7%AD%94%E9%A2%98%23" target="weibo">
+上机考试鼠标自己答题（热度：297269）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%BB%E6%B3%BD%E5%B9%B3%E7%A7%B0%E8%8B%B9%E6%9E%9C%E8%BF%87%E5%BA%A6%E6%B6%88%E8%80%97%E6%9E%9C%E7%B2%89%E5%AF%B9%E4%B9%94%E5%B8%83%E6%96%AF%E7%9A%84%E5%96%9C%E7%88%B1%23" target="weibo">
+任泽平称苹果过度消耗果粉对乔布斯的喜爱（热度：294424）
 </a>
 </li>
 
@@ -387,12 +423,6 @@ MAMAMOO将于10月11日回归（热度：268155）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%9C%BA%E8%80%83%E8%AF%95%E9%BC%A0%E6%A0%87%E8%87%AA%E5%B7%B1%E7%AD%94%E9%A2%98%23" target="weibo">
-上机考试鼠标自己答题（热度：259807）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%AE%E9%94%81%E5%B8%88%E5%82%85%E4%B8%BA%E8%AF%81%E6%98%8E%E9%94%81%E6%B2%A1%E5%9D%8F%E5%85%B3%E9%97%A8%E5%8F%8D%E8%A2%AB%E5%9B%B0%23" target="weibo">
 修锁师傅为证明锁没坏关门反被困（热度：253768）
 </a>
@@ -453,6 +483,12 @@ LESSERAFIM新专辑预售量突破40万张（热度：216399）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B7%23" target="weibo">
+心动的信号（热度：200651）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E5%8F%91%E5%9E%8B%E4%B8%8D%E8%BE%BE%E6%A0%87%E6%A0%A1%E9%97%A8%E5%8F%A3%E6%8E%92%E9%98%9F%E7%90%86%E5%8F%91%23" target="weibo">
 学生发型不达标校门口排队理发（热度：198689）
 </a>
@@ -479,6 +515,12 @@ LESSERAFIM新专辑预售量突破40万张（热度：216399）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E5%8F%8D%E6%B4%BE%E7%94%B7%E5%8F%8B%E8%BF%9E%E6%9B%B4%E5%8D%81%E5%A4%A9%23" target="weibo">
 我的反派男友连更十天（热度：190185）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%8F%AF%E4%BB%A5%E6%B0%B8%E8%BF%9C%E7%9B%B8%E4%BF%A1%E5%AD%94%E5%AD%90%23" target="weibo">
+你可以永远相信孔子（热度：185583）
 </a>
 </li>
 
@@ -513,8 +555,8 @@ LESSERAFIM新专辑预售量突破40万张（热度：216399）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E6%95%99%E7%88%A8%E5%A7%93%E5%84%BF%E5%AD%90%E5%86%99%E5%90%8D%E5%AD%97%E6%97%B6%E5%B4%A9%E6%BA%83%23" target="weibo">
-妈妈教爨姓儿子写名字时崩溃（热度：170648）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%96%9C%E6%AC%A2%E7%9A%84%E8%BF%BD%E6%B1%82%E8%80%85%E9%80%81%E7%A4%BC%E7%89%A9%E8%A6%81%E4%B8%8D%E8%A6%81%E6%94%B6%23" target="weibo">
+不喜欢的追求者送礼物要不要收（热度：170450）
 </a>
 </li>
 
@@ -597,12 +639,6 @@ AirPodsPro2用户反馈随机断连（热度：148718）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%BA%BA%E8%80%83%E6%95%99%E5%B8%88%E8%B5%84%E6%A0%BC%E8%AF%81%E6%98%AF%E5%A5%BD%E4%BA%8B%E5%90%97%23" target="weibo">
-千万人考教师资格证是好事吗（热度：142747）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%AC%E8%A1%8C%E6%9C%88%E7%90%83%E5%AF%86%E9%92%A5%E5%BB%B6%E6%9C%9F%E8%87%B31029%23" target="weibo">
 独行月球密钥延期至1029（热度：128738）
 </a>
@@ -623,6 +659,12 @@ AirPodsPro2用户反馈随机断连（热度：148718）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%BB%BA%E6%A4%8D%E7%89%A9%E5%B7%A5%E5%8E%82%E8%AE%A9%E8%8F%A0%E8%8F%9C%E4%B8%80%E5%B9%B4%E9%95%BF22%E8%8C%AC%23" target="weibo">
 女子建植物工厂让菠菜一年长22茬（热度：126909）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%89%93119%E6%97%B6%E5%BF%85%E8%AF%B4%E7%9A%84%E5%85%B3%E9%94%AE%E4%BF%A1%E6%81%AF%23" target="weibo">
+打119时必说的关键信息（热度：124681）
 </a>
 </li>
 
@@ -705,20 +747,8 @@ AirPodsPro2用户反馈随机断连（热度：148718）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%96%9C%E6%AC%A2%E7%9A%84%E8%BF%BD%E6%B1%82%E8%80%85%E9%80%81%E7%A4%BC%E7%89%A9%E8%A6%81%E4%B8%8D%E8%A6%81%E6%94%B6%23" target="weibo">
-不喜欢的追求者送礼物要不要收（热度：107257）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%A4%9A%E7%90%83%E8%AE%AD%E7%BB%83%E7%9C%BC%E8%8A%B1%E7%BC%AD%E4%B9%B1%23" target="weibo">
 樊振东多球训练眼花缭乱（热度：104504）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%BB%E6%B3%BD%E5%B9%B3%E7%A7%B0%E8%8B%B9%E6%9E%9C%E8%BF%87%E5%BA%A6%E6%B6%88%E8%80%97%E6%9E%9C%E7%B2%89%E5%AF%B9%E4%B9%94%E5%B8%83%E6%96%AF%E7%9A%84%E5%96%9C%E7%88%B1%23" target="weibo">
-任泽平称苹果过度消耗果粉对乔布斯的喜爱（热度：103726）
 </a>
 </li>
 
@@ -737,12 +767,6 @@ AirPodsPro2用户反馈随机断连（热度：148718）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%20%E5%A3%B0%E9%9F%B3%23" target="weibo">
 成毅 声音（热度：98909）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%87%80%E6%B0%B4%E6%9C%BA%E6%8E%A5%E4%B8%8B%E6%B0%B4%E9%81%93%E5%85%A8%E5%AE%B6%E5%96%9D2%E5%B9%B4%E5%BA%9F%E6%B0%B4%23" target="weibo">
-净水机接下水道全家喝2年废水（热度：98728）
 </a>
 </li>
 
@@ -797,6 +821,12 @@ AirPodsPro2用户反馈随机断连（热度：148718）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E8%80%83%E4%B8%BB%E8%A7%82%E9%A2%98%E5%BB%B6%E6%9C%9F%23" target="weibo">
 法考主观题延期（热度：81690）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BD%8D%E5%A6%88%E5%A6%88%E7%9A%84%E8%84%BE%E6%B0%94%E4%B9%9F%E5%A4%AA%E5%A5%BD%E4%BA%86%E5%90%A7%23" target="weibo">
+这位妈妈的脾气也太好了吧（热度：80633）
 </a>
 </li>
 
@@ -879,6 +909,12 @@ AirPodsPro2用户反馈随机断连（热度：148718）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A93%E5%A4%A93%E8%BF%9E%E5%8F%91%23" target="weibo">
+中国航天3天3连发（热度：55766）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%B1%BB%E5%B9%BC%E5%B4%BD%E7%9A%84%E9%82%A3%E4%BA%9B%E5%A5%87%E5%A5%87%E6%80%AA%E6%80%AA%23" target="weibo">
 人类幼崽的那些奇奇怪怪（热度：53574）
 </a>
@@ -887,12 +923,6 @@ AirPodsPro2用户反馈随机断连（热度：148718）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B7%B2%E5%AF%B9%E8%BF%9140%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%AE%9E%E6%96%BD%E8%BF%87%E7%BB%8F%E6%B5%8E%E5%88%B6%E8%A3%81%23" target="weibo">
 美国已对近40个国家实施过经济制裁（热度：51854）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A93%E5%A4%A93%E8%BF%9E%E5%8F%91%23" target="weibo">
-中国航天3天3连发（热度：46975）
 </a>
 </li>
 
@@ -929,6 +959,12 @@ Hero微博直播吧（热度：43924）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E7%BB%8F%E6%9A%96%E5%88%B0%E4%BD%A0%E7%9A%84%E4%B8%80%E5%8F%A5%E6%AD%8C%E8%AF%8D%23" target="weibo">
 曾经暖到你的一句歌词（热度：30141）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E5%B7%9E%E5%9B%AD%E6%9E%97%E6%8E%A8%E5%87%BA%E6%98%86%E6%9B%B2%E7%89%88%E8%A7%A3%E8%AF%B4%23" target="weibo">
+苏州园林推出昆曲版解说（热度：27592）
 </a>
 </li>
 
