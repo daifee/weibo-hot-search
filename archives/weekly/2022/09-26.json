@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664253791718,
+  "endTime": 1664254764045,
   "band_list": [
     {
       "raw_hot": 4711055,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1552023,
-      "num": 523162,
+      "num": 553724,
       "word": "女子流产5次分手后被索要退还12万",
       "onboard_time": 1664238686,
       "rank": 10,
@@ -203,20 +203,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1118469,
+      "num": 1118469,
+      "word": "人民币成为全球第4位支付货币",
+      "onboard_time": 1664248947,
+      "rank": 3,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1099668,
       "num": 319191,
       "word": "iPhone15Ultra将取代ProMax",
       "onboard_time": 1664153009,
       "rank": 10,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1096144,
-      "num": 1096144,
-      "word": "人民币成为全球第4位支付货币",
-      "onboard_time": 1664248947,
-      "rank": 3,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1072064,
@@ -363,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 780923,
+      "num": 780923,
+      "word": "妇科炎症会引起宫颈癌吗",
+      "onboard_time": 1664250085,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 771015,
       "num": 771015,
       "word": "王者滕王阁联动皮肤",
@@ -459,14 +467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 646061,
-      "num": 646061,
-      "word": "妇科炎症会引起宫颈癌吗",
-      "onboard_time": 1664250085,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 639610,
       "num": 639610,
       "word": "研究发现熬夜导致肥胖的原因",
@@ -539,10 +539,26 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 576475,
+      "num": 576475,
+      "word": "天津新增42例本土阳性感染者",
+      "onboard_time": 1664252247,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 575053,
       "num": 575053,
       "word": "地球上最干净的地方已有微塑料污染",
       "onboard_time": 1664163867,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 560420,
+      "num": 560420,
+      "word": "老人坠床身亡护理院被判赔11万",
+      "onboard_time": 1664250985,
       "rank": 13,
       "category": "社会新闻"
     },
@@ -553,6 +569,22 @@
       "onboard_time": 1664183905,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 554605,
+      "num": 554605,
+      "word": "大学生校内10元买彩票中25万",
+      "onboard_time": 1664252725,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 548317,
+      "num": 548317,
+      "word": "iPhone14Pro被吐槽信号差",
+      "onboard_time": 1664253447,
+      "rank": 36,
+      "category": "科技"
     },
     {
       "raw_hot": 547365,
@@ -619,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 507442,
+      "num": 507442,
+      "word": "杨幂密室大逃脱双马尾高清剧照",
+      "onboard_time": 1664253987,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 503276,
       "num": 503276,
       "word": "高敏感其实是一种天赋",
@@ -675,6 +715,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 471804,
+      "num": 471804,
+      "word": "流浪地球2刘德华造型首次曝光",
+      "onboard_time": 1664251106,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 469772,
+      "num": 469772,
+      "word": "美国对我国基础设施渗透控制",
+      "onboard_time": 1664249785,
+      "rank": 15,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 462665,
       "num": 462665,
       "word": "北京疾控倡导市民就地过节",
@@ -705,14 +761,6 @@
       "onboard_time": 1664162126,
       "rank": 35,
       "category": "科技"
-    },
-    {
-      "raw_hot": 454223,
-      "num": 454223,
-      "word": "老人坠床身亡护理院被判赔11万",
-      "onboard_time": 1664250985,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 454168,
@@ -747,14 +795,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 441263,
-      "num": 441263,
-      "word": "美国对我国基础设施渗透控制",
-      "onboard_time": 1664249785,
-      "rank": 15,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 441063,
       "num": 441063,
       "word": "青白蛇皮肤优化",
@@ -771,14 +811,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 432717,
-      "num": 432717,
-      "word": "天津新增42例本土阳性感染者",
-      "onboard_time": 1664252247,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 428566,
       "num": 428566,
       "word": "EDGJieJie已起诉多家企业侵权",
@@ -793,14 +825,6 @@
       "onboard_time": 1664156485,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 417968,
-      "num": 417968,
-      "word": "流浪地球2刘德华造型首次曝光",
-      "onboard_time": 1664251106,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 417800,
@@ -1147,6 +1171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 285654,
+      "num": 285654,
+      "word": "刘宇宁唱异想世界主题曲",
+      "onboard_time": 1664254407,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 284308,
       "num": 284308,
       "word": "原来红薯还能这么美",
@@ -1176,14 +1208,6 @@
       "word": "造谣工人往黄豆酱中大小便者被行拘",
       "onboard_time": 1664195967,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 279364,
-      "num": 279364,
-      "word": "大学生校内10元买彩票中25万",
-      "onboard_time": 1664252725,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -1331,6 +1355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 247637,
+      "num": 247637,
+      "word": "3千买的移动电源充电时连续爆炸",
+      "onboard_time": 1664251347,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245366,
       "num": 208536,
       "word": "李宇春为什么做了只鸵鸟",
@@ -1475,14 +1507,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 224424,
-      "num": 224424,
-      "word": "3千买的移动电源充电时连续爆炸",
-      "onboard_time": 1664251347,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 221000,
       "num": 221000,
       "word": "杨紫长相思小夭花絮照",
@@ -1571,6 +1595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213683,
+      "num": 206144,
+      "word": "恶作剧之吻开播17周年",
+      "onboard_time": 1664250745,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 212068,
       "num": 212068,
       "word": "东亚银行",
@@ -1649,6 +1681,14 @@
       "onboard_time": 1664249606,
       "rank": 30,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 196658,
+      "num": 196658,
+      "word": "中国女篮vs比利时女篮",
+      "onboard_time": 1664253806,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 195297,
@@ -1745,14 +1785,6 @@
       "onboard_time": 1664150186,
       "rank": 22,
       "category": "科技"
-    },
-    {
-      "raw_hot": 179747,
-      "num": 179747,
-      "word": "恶作剧之吻开播17周年",
-      "onboard_time": 1664250745,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 178096,
@@ -1897,6 +1929,14 @@
       "onboard_time": 1664148683,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 162190,
+      "num": 162190,
+      "word": "90%以上学生能在规定时间完成书面作业",
+      "onboard_time": 1664253630,
+      "rank": 47,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 160527,
@@ -2051,14 +2091,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 139040,
-      "num": 139040,
-      "word": "iPhone14Pro被吐槽信号差",
-      "onboard_time": 1664253447,
-      "rank": 36,
-      "category": "科技"
-    },
-    {
       "raw_hot": 138993,
       "num": 138993,
       "word": "薛凯琪说每个女生都是公主",
@@ -2097,6 +2129,14 @@
       "onboard_time": 1664201429,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 133264,
+      "num": 106569,
+      "word": "85岁老人摆摊卖菜救重病孙女",
+      "onboard_time": 1664254707,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132881,
@@ -2161,6 +2201,14 @@
       "onboard_time": 1664179463,
       "rank": 47,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 127270,
+      "num": 127270,
+      "word": "贾跃亭与合伙人重新赢得FF控制权",
+      "onboard_time": 1664253867,
+      "rank": 42,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 126909,
@@ -2299,6 +2347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112329,
+      "num": 112329,
+      "word": "运油20给歼20空中加油视频公布",
+      "onboard_time": 1664254348,
+      "rank": 44,
+      "category": "军事"
+    },
+    {
       "raw_hot": 110160,
       "num": 110160,
       "word": "北京的枫叶红了",
@@ -2417,14 +2473,6 @@
       "onboard_time": 1664104164,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 95689,
-      "num": 95689,
-      "word": "90%以上学生能在规定时间完成书面作业",
-      "onboard_time": 1664253630,
-      "rank": 47,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 94520,
@@ -3052,7 +3100,7 @@
     },
     {
       "raw_hot": 4040,
-      "num": 444662,
+      "num": 489026,
       "word": "为中国女篮加油",
       "onboard_time": 1664251227,
       "rank": 14,

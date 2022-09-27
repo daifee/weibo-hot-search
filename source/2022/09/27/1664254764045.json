@@ -1,0 +1,410 @@
+{
+  "runTime": 1664254764045,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2057783,
+        "num": 2057783,
+        "word": "火锅店把吃剩锅底重新端给顾客",
+        "onboard_time": 1664245523,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1551339,
+        "num": 1551339,
+        "word": "西北工业大学遭美国安局攻击最新调查",
+        "onboard_time": 1664248285,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 7228,
+        "num": 1330095,
+        "word": "保障粮食安全让中国饭碗端得更稳",
+        "onboard_time": 1664179824,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1118469,
+        "num": 1118469,
+        "word": "人民币成为全球第4位支付货币",
+        "onboard_time": 1664248947,
+        "rank": 3,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 780923,
+        "num": 780923,
+        "word": "妇科炎症会引起宫颈癌吗",
+        "onboard_time": 1664250085,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 697027,
+        "num": 697027,
+        "word": "唐朝诡事录开播",
+        "onboard_time": 1664246063,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 578143,
+        "num": 578143,
+        "word": "白冰戴向宇新剧结局竟然没离婚",
+        "onboard_time": 1664246544,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 576475,
+        "num": 576475,
+        "word": "天津新增42例本土阳性感染者",
+        "onboard_time": 1664252247,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560420,
+        "num": 560420,
+        "word": "老人坠床身亡护理院被判赔11万",
+        "onboard_time": 1664250985,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554605,
+        "num": 554605,
+        "word": "大学生校内10元买彩票中25万",
+        "onboard_time": 1664252725,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1107819,
+        "num": 553724,
+        "word": "女子流产5次分手后被索要退还12万",
+        "onboard_time": 1664238686,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 548317,
+        "num": 548317,
+        "word": "iPhone14Pro被吐槽信号差",
+        "onboard_time": 1664253447,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 507442,
+        "num": 507442,
+        "word": "杨幂密室大逃脱双马尾高清剧照",
+        "onboard_time": 1664253987,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 500309,
+        "num": 500309,
+        "word": "美查询中国境内敏感人员信息并回传",
+        "onboard_time": 1664248526,
+        "rank": 13,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1778,
+        "num": 489026,
+        "word": "为中国女篮加油",
+        "onboard_time": 1664251227,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 485645,
+        "num": 485645,
+        "word": "2022国庆档电影最新阵容",
+        "onboard_time": 1664246004,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 471804,
+        "num": 471804,
+        "word": "流浪地球2刘德华造型首次曝光",
+        "onboard_time": 1664251106,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 469772,
+        "num": 469772,
+        "word": "美国对我国基础设施渗透控制",
+        "onboard_time": 1664249785,
+        "rank": 17,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 463588,
+        "num": 463588,
+        "word": "贾跃亭再获1亿美元融资",
+        "onboard_time": 1664247625,
+        "rank": 18,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 446312,
+        "num": 446312,
+        "word": "人生大事最终票房",
+        "onboard_time": 1664243484,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 409475,
+        "num": 409475,
+        "word": "女子全职带娃10年离婚补偿10万",
+        "onboard_time": 1664243663,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388923,
+        "num": 388923,
+        "word": "半是蜜糖半是伤开播两周年",
+        "onboard_time": 1664246962,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 387143,
+        "num": 387143,
+        "word": "青白蛇皮肤优化",
+        "onboard_time": 1664249245,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 331591,
+        "num": 331591,
+        "word": "EDGJieJie已起诉多家企业侵权",
+        "onboard_time": 1664248643,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 285654,
+        "num": 285654,
+        "word": "刘宇宁唱异想世界主题曲",
+        "onboard_time": 1664254407,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281544,
+        "num": 281544,
+        "word": "女子吃完夜宵回家遇肥猫做卷腹",
+        "onboard_time": 1664244444,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277717,
+        "num": 277717,
+        "word": "赵丽颖溯秋见林氛围感大片",
+        "onboard_time": 1664248045,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 247637,
+        "num": 247637,
+        "word": "3千买的移动电源充电时连续爆炸",
+        "onboard_time": 1664251347,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242334,
+        "num": 242334,
+        "word": "家中停电门打不开男子砸墙送娃上学",
+        "onboard_time": 1664247144,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213110,
+        "num": 213110,
+        "word": "全国大学文化程度人口超过2.18亿",
+        "onboard_time": 1664246783,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 218010,
+        "num": 213053,
+        "word": "网传落花时节又逢君Q4上线",
+        "onboard_time": 1664249425,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213683,
+        "num": 206144,
+        "word": "恶作剧之吻开播17周年",
+        "onboard_time": 1664250745,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196658,
+        "num": 196658,
+        "word": "中国女篮vs比利时女篮",
+        "onboard_time": 1664253806,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189404,
+        "num": 189404,
+        "word": "老人街头晕倒一群人冲了上去",
+        "onboard_time": 1664249606,
+        "rank": 33,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 179768,
+        "num": 179768,
+        "word": "删掉很重要的人是什么感觉",
+        "onboard_time": 1664192426,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167545,
+        "num": 167545,
+        "word": "LESSERAFIM新专辑预售量突破40万张",
+        "onboard_time": 1664251406,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 165406,
+        "num": 165406,
+        "word": "普京授予斯诺登俄罗斯公民身份",
+        "onboard_time": 1664237726,
+        "rank": 36,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 164363,
+        "num": 164363,
+        "word": "我的反派男友连更十天",
+        "onboard_time": 1664246063,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162190,
+        "num": 162190,
+        "word": "90%以上学生能在规定时间完成书面作业",
+        "onboard_time": 1664253630,
+        "rank": 38,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 139084,
+        "num": 139084,
+        "word": "埋头干饭的小猫咪",
+        "onboard_time": 1664240247,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 132793,
+        "num": 132793,
+        "word": "专家推荐十三二一零完美睡眠公式",
+        "onboard_time": 1664239648,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131084,
+        "num": 131084,
+        "word": "万里归途",
+        "onboard_time": 1664243365,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127270,
+        "num": 127270,
+        "word": "贾跃亭与合伙人重新赢得FF控制权",
+        "onboard_time": 1664253867,
+        "rank": 42,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 119817,
+        "num": 119817,
+        "word": "教育部支持河南省设立高等学校",
+        "onboard_time": 1664236342,
+        "rank": 43,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 112329,
+        "num": 112329,
+        "word": "运油20给歼20空中加油视频公布",
+        "onboard_time": 1664254348,
+        "rank": 44,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 109986,
+        "num": 109986,
+        "word": "半身麻醉手术状态下听到的",
+        "onboard_time": 1664253269,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108467,
+        "num": 108467,
+        "word": "灵动岛将支持实时体育比分",
+        "onboard_time": 1664240667,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 133264,
+        "num": 106569,
+        "word": "85岁老人摆摊卖菜救重病孙女",
+        "onboard_time": 1664254707,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104409,
+        "num": 104409,
+        "word": "原来红薯还能这么美",
+        "onboard_time": 1664239708,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102256,
+        "num": 102256,
+        "word": "有个缺德的朋友是什么体验",
+        "onboard_time": 1664237306,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的体育外交故事#"
+    }
+  }
+}

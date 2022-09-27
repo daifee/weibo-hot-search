@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/27 12:43:11
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/27 12:59:24
 </p>
 </blockquote>
 <p>
@@ -5049,6 +5049,12 @@ iPhone14Pro被吐槽后盖不耐划（热度：1123869）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E5%B8%81%E6%88%90%E4%B8%BA%E5%85%A8%E7%90%83%E7%AC%AC4%E4%BD%8D%E6%94%AF%E4%BB%98%E8%B4%A7%E5%B8%81%23" target="weibo">
+人民币成为全球第4位支付货币（热度：1118469）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%BF%E5%A4%A7%E5%9B%9E%E5%BA%94%E7%94%B7%E7%94%9F%E6%89%93%E6%9E%B6%E8%A2%AB%E5%8F%96%E6%B6%88%E4%BF%9D%E7%A0%94%23" target="weibo">
 矿大回应男生打架被取消保研（热度：1116524）
 </a>
@@ -5195,12 +5201,6 @@ iPhone15Ultra将取代ProMax（热度：1099668）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B0%86%E7%94%A8%E7%BD%91%E7%BA%A2%E5%AE%A3%E4%BC%A0%E7%A6%8F%E5%B2%9B%E9%A3%9F%E5%93%81%23" target="weibo">
 日本将用网红宣传福岛食品（热度：1096546）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E5%B8%81%E6%88%90%E4%B8%BA%E5%85%A8%E7%90%83%E7%AC%AC4%E4%BD%8D%E6%94%AF%E4%BB%98%E8%B4%A7%E5%B8%81%23" target="weibo">
-人民币成为全球第4位支付货币（热度：1096144）
 </a>
 </li>
 
