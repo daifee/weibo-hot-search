@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664292549139,
+  "endTime": 1664293726241,
   "band_list": [
     {
       "raw_hot": 4711055,
@@ -345,6 +345,14 @@
       "onboard_time": 1664175443,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1010670,
+      "num": 379372,
+      "word": "直树湘琴15年后再拍全家福",
+      "onboard_time": 1664290407,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1008109,
@@ -721,14 +729,6 @@
       "onboard_time": 1664180486,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 600113,
-      "num": 371400,
-      "word": "直树湘琴15年后再拍全家福",
-      "onboard_time": 1664290407,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 598209,
@@ -1203,6 +1203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 403561,
+      "num": 365619,
+      "word": "好喜欢晴儿清醒的爱情观",
+      "onboard_time": 1664289265,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 403182,
       "num": 403182,
       "word": "专家推荐十三二一零完美睡眠公式",
@@ -1225,6 +1233,14 @@
       "onboard_time": 1664180784,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 398607,
+      "num": 398607,
+      "word": "北溪2号天然气管道发生泄漏",
+      "onboard_time": 1664290167,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 398042,
@@ -1371,6 +1387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 355032,
+      "num": 355032,
+      "word": "女孩经过爸爸生前单位哭着要看他",
+      "onboard_time": 1664289986,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 354805,
       "num": 354805,
       "word": "金珉锡今日solo出道",
@@ -1463,14 +1487,6 @@
       "num": 324641,
       "word": "成都适龄女孩接种国产HPV疫苗免费",
       "onboard_time": 1664172326,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 317929,
-      "num": 317929,
-      "word": "女孩经过爸爸生前单位哭着要看他",
-      "onboard_time": 1664289986,
       "rank": 45,
       "category": "社会新闻"
     },
@@ -1584,14 +1600,6 @@
       "word": "3男孩将村民晒的棉花芝麻掀地上",
       "onboard_time": 1664176105,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 290884,
-      "num": 290884,
-      "word": "北溪2号天然气管道发生泄漏",
-      "onboard_time": 1664290167,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1720,14 +1728,6 @@
       "word": "长空之王将全国路演",
       "onboard_time": 1664200528,
       "rank": 21,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 271489,
-      "num": 271489,
-      "word": "好喜欢晴儿清醒的爱情观",
-      "onboard_time": 1664289265,
-      "rank": 22,
       "category": "影视"
     },
     {
@@ -2257,6 +2257,14 @@
       "onboard_time": 1664115869,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201490,
+      "num": 201490,
+      "word": "北溪管道泄漏画面曝光",
+      "onboard_time": 1664291726,
+      "rank": 38,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 200651,
@@ -3139,12 +3147,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 119271,
-      "num": 119271,
-      "word": "北溪管道泄漏画面曝光",
-      "onboard_time": 1664291726,
-      "rank": 38,
-      "category": "国外要闻"
+      "raw_hot": 118960,
+      "num": 118960,
+      "word": "河南鹤壁一流浪狗咬伤约40人",
+      "onboard_time": 1664292866,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118721,
@@ -3299,6 +3307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101445,
+      "num": 101445,
+      "word": "这难道是班主任的凝视吗",
+      "onboard_time": 1664289627,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 101186,
       "num": 81567,
       "word": "虞书欣新剧暗恋相当于明恋",
@@ -3361,14 +3377,6 @@
       "onboard_time": 1664271624,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 95371,
-      "num": 95371,
-      "word": "这难道是班主任的凝视吗",
-      "onboard_time": 1664289627,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 94520,
@@ -3715,6 +3723,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 49425,
+      "num": 357873,
+      "word": "甘宇自述17天荒野求生",
+      "onboard_time": 1664290827,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48655,
       "num": 48655,
       "word": "大叔卖棉花糖翻车现场似盘丝洞",
@@ -3744,14 +3760,6 @@
       "word": "男子误花10元私房钱气到攥紧拳头",
       "onboard_time": 1664096126,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39647,
-      "num": 320456,
-      "word": "甘宇自述17天荒野求生",
-      "onboard_time": 1664290827,
-      "rank": 14,
       "category": "社会新闻"
     },
     {

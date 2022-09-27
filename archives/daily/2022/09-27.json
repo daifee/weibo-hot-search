@@ -1,6 +1,6 @@
 {
   "startTime": 1664210185188,
-  "endTime": 1664292549139,
+  "endTime": 1664293726241,
   "band_list": [
     {
       "raw_hot": 3450409,
@@ -195,6 +195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1010670,
+      "num": 379372,
+      "word": "直树湘琴15年后再拍全家福",
+      "onboard_time": 1664290407,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1008109,
       "num": 1008109,
       "word": "iPhone14Pro被吐槽信号差",
@@ -353,14 +361,6 @@
       "onboard_time": 1664246544,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 600113,
-      "num": 371400,
-      "word": "直树湘琴15年后再拍全家福",
-      "onboard_time": 1664290407,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 598209,
@@ -627,11 +627,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 403561,
+      "num": 365619,
+      "word": "好喜欢晴儿清醒的爱情观",
+      "onboard_time": 1664289265,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 403182,
       "num": 403182,
       "word": "专家推荐十三二一零完美睡眠公式",
       "onboard_time": 1664239648,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 398607,
+      "num": 398607,
+      "word": "北溪2号天然气管道发生泄漏",
+      "onboard_time": 1664290167,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -715,6 +731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 355032,
+      "num": 355032,
+      "word": "女孩经过爸爸生前单位哭着要看他",
+      "onboard_time": 1664289986,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 353389,
       "num": 353389,
       "word": "养了十几年的狗狗去世前默默离家",
@@ -753,14 +777,6 @@
       "onboard_time": 1664267485,
       "rank": 20,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 317929,
-      "num": 317929,
-      "word": "女孩经过爸爸生前单位哭着要看他",
-      "onboard_time": 1664289986,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 316143,
@@ -819,14 +835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 290884,
-      "num": 290884,
-      "word": "北溪2号天然气管道发生泄漏",
-      "onboard_time": 1664290167,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 286343,
       "num": 286343,
       "word": "男子脚踢抢食猴子遭满山追打",
@@ -881,14 +889,6 @@
       "onboard_time": 1664240487,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 271489,
-      "num": 271489,
-      "word": "好喜欢晴儿清醒的爱情观",
-      "onboard_time": 1664289265,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 271222,
@@ -1105,6 +1105,14 @@
       "onboard_time": 1664277205,
       "rank": 20,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 201490,
+      "num": 201490,
+      "word": "北溪管道泄漏画面曝光",
+      "onboard_time": 1664291726,
+      "rank": 38,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 200651,
@@ -1587,12 +1595,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 119271,
-      "num": 119271,
-      "word": "北溪管道泄漏画面曝光",
-      "onboard_time": 1664291726,
-      "rank": 38,
-      "category": "国外要闻"
+      "raw_hot": 118960,
+      "num": 118960,
+      "word": "河南鹤壁一流浪狗咬伤约40人",
+      "onboard_time": 1664292866,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118721,
@@ -1707,6 +1715,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 101445,
+      "num": 101445,
+      "word": "这难道是班主任的凝视吗",
+      "onboard_time": 1664289627,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 100962,
       "num": 100962,
       "word": "书法成为一级学科为何引发热议",
@@ -1737,14 +1753,6 @@
       "onboard_time": 1664271624,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 95371,
-      "num": 95371,
-      "word": "这难道是班主任的凝视吗",
-      "onboard_time": 1664289627,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 94894,
@@ -2003,6 +2011,14 @@
       "category": "国内要闻,国外要闻"
     },
     {
+      "raw_hot": 49425,
+      "num": 357873,
+      "word": "甘宇自述17天荒野求生",
+      "onboard_time": 1664290827,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48646,
       "num": 273794,
       "word": "5人合力40秒救母女上岸",
@@ -2033,14 +2049,6 @@
       "onboard_time": 1664189545,
       "rank": 48,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 39647,
-      "num": 320456,
-      "word": "甘宇自述17天荒野求生",
-      "onboard_time": 1664290827,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 34233,

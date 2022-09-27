@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/27 00:36:25 ~ 2022/09/27 23:29:09
+本榜单时间：2022/09/27 00:36:25 ~ 2022/09/27 23:48:46
 </p>
 </blockquote>
 <p>
@@ -159,6 +159,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%A0%91%E6%B9%98%E7%90%B415%E5%B9%B4%E5%90%8E%E5%86%8D%E6%8B%8D%E5%85%A8%E5%AE%B6%E7%A6%8F%23" target="weibo">
+直树湘琴15年后再拍全家福（热度：1010670）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone14Pro%E8%A2%AB%E5%90%90%E6%A7%BD%E4%BF%A1%E5%8F%B7%E5%B7%AE%23" target="weibo">
 iPhone14Pro被吐槽信号差（热度：1008109）
 </a>
@@ -275,12 +281,6 @@ iPhone14Pro被吐槽信号差（热度：1008109）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%86%B0%E6%88%B4%E5%90%91%E5%AE%87%E6%96%B0%E5%89%A7%E7%BB%93%E5%B1%80%E7%AB%9F%E7%84%B6%E6%B2%A1%E7%A6%BB%E5%A9%9A%23" target="weibo">
 白冰戴向宇新剧结局竟然没离婚（热度：613058）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%A0%91%E6%B9%98%E7%90%B415%E5%B9%B4%E5%90%8E%E5%86%8D%E6%8B%8D%E5%85%A8%E5%AE%B6%E7%A6%8F%23" target="weibo">
-直树湘琴15年后再拍全家福（热度：600113）
 </a>
 </li>
 
@@ -483,8 +483,20 @@ EDGJieJie已起诉多家企业侵权（热度：428566）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%BD%E5%96%9C%E6%AC%A2%E6%99%B4%E5%84%BF%E6%B8%85%E9%86%92%E7%9A%84%E7%88%B1%E6%83%85%E8%A7%82%23" target="weibo">
+好喜欢晴儿清醒的爱情观（热度：403561）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E6%8E%A8%E8%8D%90%E5%8D%81%E4%B8%89%E4%BA%8C%E4%B8%80%E9%9B%B6%E5%AE%8C%E7%BE%8E%E7%9D%A1%E7%9C%A0%E5%85%AC%E5%BC%8F%23" target="weibo">
 专家推荐十三二一零完美睡眠公式（热度：403182）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%BA%AA2%E5%8F%B7%E5%A4%A9%E7%84%B6%E6%B0%94%E7%AE%A1%E9%81%93%E5%8F%91%E7%94%9F%E6%B3%84%E6%BC%8F%23" target="weibo">
+北溪2号天然气管道发生泄漏（热度：398607）
 </a>
 </li>
 
@@ -549,6 +561,12 @@ EDGJieJie已起诉多家企业侵权（热度：428566）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E7%BB%8F%E8%BF%87%E7%88%B8%E7%88%B8%E7%94%9F%E5%89%8D%E5%8D%95%E4%BD%8D%E5%93%AD%E7%9D%80%E8%A6%81%E7%9C%8B%E4%BB%96%23" target="weibo">
+女孩经过爸爸生前单位哭着要看他（热度：355032）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%BB%E4%BA%86%E5%8D%81%E5%87%A0%E5%B9%B4%E7%9A%84%E7%8B%97%E7%8B%97%E5%8E%BB%E4%B8%96%E5%89%8D%E9%BB%98%E9%BB%98%E7%A6%BB%E5%AE%B6%23" target="weibo">
 养了十几年的狗狗去世前默默离家（热度：353389）
 </a>
@@ -575,12 +593,6 @@ EDGJieJie已起诉多家企业侵权（热度：428566）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23BIBI%E6%96%B0%E6%AD%8C%23" target="weibo">
 BIBI新歌（热度：326949）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E7%BB%8F%E8%BF%87%E7%88%B8%E7%88%B8%E7%94%9F%E5%89%8D%E5%8D%95%E4%BD%8D%E5%93%AD%E7%9D%80%E8%A6%81%E7%9C%8B%E4%BB%96%23" target="weibo">
-女孩经过爸爸生前单位哭着要看他（热度：317929）
 </a>
 </li>
 
@@ -627,12 +639,6 @@ BIBI新歌（热度：326949）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%BA%AA2%E5%8F%B7%E5%A4%A9%E7%84%B6%E6%B0%94%E7%AE%A1%E9%81%93%E5%8F%91%E7%94%9F%E6%B3%84%E6%BC%8F%23" target="weibo">
-北溪2号天然气管道发生泄漏（热度：290884）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%84%9A%E8%B8%A2%E6%8A%A2%E9%A3%9F%E7%8C%B4%E5%AD%90%E9%81%AD%E6%BB%A1%E5%B1%B1%E8%BF%BD%E6%89%93%23" target="weibo">
 男子脚踢抢食猴子遭满山追打（热度：286343）
 </a>
@@ -671,12 +677,6 @@ BIBI新歌（热度：326949）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%8D%97%E5%9C%A8%E9%9B%86%E4%B8%AD%E9%9A%94%E7%A6%BB%E7%82%B9%E5%8F%91%E7%8E%B0%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B9%E4%BE%8B%23" target="weibo">
 云南在集中隔离点发现确诊病例9例（热度：274126）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%BD%E5%96%9C%E6%AC%A2%E6%99%B4%E5%84%BF%E6%B8%85%E9%86%92%E7%9A%84%E7%88%B1%E6%83%85%E8%A7%82%23" target="weibo">
-好喜欢晴儿清醒的爱情观（热度：271489）
 </a>
 </li>
 
@@ -839,6 +839,12 @@ LESSERAFIM新专辑预售量突破40万张（热度：216399）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%A7%B0VR%E8%83%BD%E7%BC%93%E8%A7%A3%E7%84%A6%E8%99%91%23" target="weibo">
 研究称VR能缓解焦虑（热度：202899）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%BA%AA%E7%AE%A1%E9%81%93%E6%B3%84%E6%BC%8F%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89%23" target="weibo">
+北溪管道泄漏画面曝光（热度：201490）
 </a>
 </li>
 
@@ -1203,8 +1209,8 @@ AirPodsPro2用户反馈随机断连（热度：148718）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%BA%AA%E7%AE%A1%E9%81%93%E6%B3%84%E6%BC%8F%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89%23" target="weibo">
-北溪管道泄漏画面曝光（热度：119271）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E9%B9%A4%E5%A3%81%E4%B8%80%E6%B5%81%E6%B5%AA%E7%8B%97%E5%92%AC%E4%BC%A4%E7%BA%A640%E4%BA%BA%23" target="weibo">
+河南鹤壁一流浪狗咬伤约40人（热度：118960）
 </a>
 </li>
 
@@ -1293,6 +1299,12 @@ VR会像手机一样普及吗（热度：115674）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E9%9A%BE%E9%81%93%E6%98%AF%E7%8F%AD%E4%B8%BB%E4%BB%BB%E7%9A%84%E5%87%9D%E8%A7%86%E5%90%97%23" target="weibo">
+这难道是班主任的凝视吗（热度：101445）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%A6%E6%B3%95%E6%88%90%E4%B8%BA%E4%B8%80%E7%BA%A7%E5%AD%A6%E7%A7%91%E4%B8%BA%E4%BD%95%E5%BC%95%E5%8F%91%E7%83%AD%E8%AE%AE%23" target="weibo">
 书法成为一级学科为何引发热议（热度：100962）
 </a>
@@ -1313,12 +1325,6 @@ VR会像手机一样普及吗（热度：115674）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%9A%E6%B8%85%E5%AD%9080%E5%B9%B4%E4%BB%A3%E9%9D%92%E6%B6%A9%E6%B0%9B%E5%9B%B4%E6%84%9F%23" target="weibo">
 阚清子80年代青涩氛围感（热度：96062）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E9%9A%BE%E9%81%93%E6%98%AF%E7%8F%AD%E4%B8%BB%E4%BB%BB%E7%9A%84%E5%87%9D%E8%A7%86%E5%90%97%23" target="weibo">
-这难道是班主任的凝视吗（热度：95371）
 </a>
 </li>
 
@@ -1515,6 +1521,12 @@ AI创作相似度高算不算抄袭（热度：72292）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%98%E5%AE%87%E8%87%AA%E8%BF%B017%E5%A4%A9%E8%8D%92%E9%87%8E%E6%B1%82%E7%94%9F%23" target="weibo">
+甘宇自述17天荒野求生（热度：49425）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%235%E4%BA%BA%E5%90%88%E5%8A%9B40%E7%A7%92%E6%95%91%E6%AF%8D%E5%A5%B3%E4%B8%8A%E5%B2%B8%23" target="weibo">
 5人合力40秒救母女上岸（热度：48646）
 </a>
@@ -1535,12 +1547,6 @@ Hero微博直播吧（热度：43924）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E7%8B%82%E8%B9%AC%E8%87%AA%E8%A1%8C%E8%BD%A6%E4%B8%BA%E5%87%BA%E8%AD%A6%E6%B6%88%E9%98%B2%E8%BD%A6%E5%BC%95%E8%B7%AF%23" target="weibo">
 女孩狂蹬自行车为出警消防车引路（热度：43566）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%98%E5%AE%87%E8%87%AA%E8%BF%B017%E5%A4%A9%E8%8D%92%E9%87%8E%E6%B1%82%E7%94%9F%23" target="weibo">
-甘宇自述17天荒野求生（热度：39647）
 </a>
 </li>
 
