@@ -1,6 +1,6 @@
 {
   "startTime": 1664210185188,
-  "endTime": 1664272257218,
+  "endTime": 1664274560604,
   "band_list": [
     {
       "raw_hot": 2771808,
@@ -49,6 +49,14 @@
       "onboard_time": 1664248285,
       "rank": 1,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 2098761,
+      "num": 2098761,
+      "word": "频繁换头像是缺乏安全感吗",
+      "onboard_time": 1664270784,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 1935170,
@@ -120,6 +128,14 @@
       "word": "两女子身穿日本和服就餐",
       "onboard_time": 1664205926,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1127230,
+      "num": 1127230,
+      "word": "101岁母亲去世52岁儿子一句话泪崩",
+      "onboard_time": 1664272044,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -475,14 +491,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 377384,
-      "num": 377384,
-      "word": "频繁换头像是缺乏安全感吗",
-      "onboard_time": 1664270784,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 372782,
       "num": 306896,
       "word": "男观众说见王俊凯一次哭一次",
@@ -539,6 +547,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 317601,
+      "num": 317601,
+      "word": "1个菜要10份餐具被拒该不该差评",
+      "onboard_time": 1664270365,
+      "rank": 37,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 316143,
       "num": 316143,
       "word": "天津疫情防控",
@@ -547,12 +563,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 312238,
+      "num": 312238,
+      "word": "杨颖奔跑吧绿色背心路透",
+      "onboard_time": 1664274026,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 309983,
       "num": 309983,
       "word": "全国大学文化程度人口超过2.18亿",
       "onboard_time": 1664246783,
       "rank": 14,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 303345,
+      "num": 303345,
+      "word": "28岁程序员网购生发丸吃成肝损伤",
+      "onboard_time": 1664271862,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 298856,
@@ -577,6 +609,14 @@
       "onboard_time": 1664258723,
       "rank": 42,
       "category": "科技"
+    },
+    {
+      "raw_hot": 292984,
+      "num": 292984,
+      "word": "大三男生耗时1月捏出四大天王",
+      "onboard_time": 1664270065,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 292574,
@@ -675,14 +715,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 260750,
-      "num": 260750,
-      "word": "大三男生耗时1月捏出四大天王",
-      "onboard_time": 1664270065,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 260656,
       "num": 260656,
       "word": "新生儿采足底血爸爸心疼抹泪",
@@ -697,6 +729,14 @@
       "onboard_time": 1664270485,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 255425,
+      "num": 255425,
+      "word": "猫都没想到被P成这样",
+      "onboard_time": 1664273003,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 253768,
@@ -731,12 +771,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 236289,
-      "num": 236289,
+      "raw_hot": 239323,
+      "num": 239323,
       "word": "你好二十大",
       "onboard_time": 1664270425,
       "rank": 22,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 239051,
+      "num": 239051,
+      "word": "周深白鹿陈卓璇奔跑吧合唱我怀念的",
+      "onboard_time": 1664271984,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 229063,
@@ -753,6 +801,14 @@
       "onboard_time": 1664253806,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 226411,
+      "num": 226411,
+      "word": "当男生用上了卫生巾",
+      "onboard_time": 1664274026,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 223474,
@@ -843,14 +899,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 192930,
-      "num": 192930,
-      "word": "周深白鹿陈卓璇奔跑吧合唱我怀念的",
-      "onboard_time": 1664271984,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 191426,
       "num": 191426,
       "word": "任嘉伦请君下线了10分钟又上线",
@@ -865,14 +913,6 @@
       "onboard_time": 1664259801,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 190362,
-      "num": 190362,
-      "word": "1个菜要10份餐具被拒该不该差评",
-      "onboard_time": 1664270365,
-      "rank": 37,
-      "category": "社会议题"
     },
     {
       "raw_hot": 190185,
@@ -953,6 +993,14 @@
       "onboard_time": 1664205266,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160452,
+      "num": 160452,
+      "word": "头一次被文字给吓到了",
+      "onboard_time": 1664272525,
+      "rank": 27,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 159407,
@@ -1067,6 +1115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136147,
+      "num": 136147,
+      "word": "陕西才是面食界天花板",
+      "onboard_time": 1664271923,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 133063,
       "num": 133063,
       "word": "真的不要再自我怀疑了",
@@ -1105,6 +1161,14 @@
       "onboard_time": 1664228831,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126180,
+      "num": 126180,
+      "word": "周冠宇官宣续约F1",
+      "onboard_time": 1664271562,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 123051,
@@ -1211,14 +1275,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 106116,
-      "num": 106116,
-      "word": "周冠宇官宣续约F1",
-      "onboard_time": 1664271562,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 104504,
       "num": 104504,
       "word": "樊振东多球训练眼花缭乱",
@@ -1283,6 +1339,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 91966,
+      "num": 91966,
+      "word": "看得出这马桶很热情",
+      "onboard_time": 1664272643,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 90865,
       "num": 90865,
       "word": "你安全吗全员换小蓝头像",
@@ -1291,12 +1355,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 89811,
-      "num": 89811,
-      "word": "28岁程序员网购生发丸吃成肝损伤",
-      "onboard_time": 1664271862,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 89956,
+      "num": 89956,
+      "word": "中国第五代战机已遍布东南西北中",
+      "onboard_time": 1664273783,
+      "rank": 43,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 89097,
@@ -1331,12 +1395,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 84283,
-      "num": 84283,
-      "word": "101岁母亲去世52岁儿子一句话泪崩",
-      "onboard_time": 1664272044,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 87676,
+      "num": 87676,
+      "word": "不要对爱你的人泼冷水",
+      "onboard_time": 1664273842,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 81981,
@@ -1353,14 +1417,6 @@
       "onboard_time": 1664235562,
       "rank": 36,
       "category": "教育"
-    },
-    {
-      "raw_hot": 81261,
-      "num": 81261,
-      "word": "陕西才是面食界天花板",
-      "onboard_time": 1664271923,
-      "rank": 45,
-      "category": "美食"
     },
     {
       "raw_hot": 80623,
@@ -1425,6 +1481,14 @@
       "onboard_time": 1664200528,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 71039,
+      "num": 71039,
+      "word": "陕西29所高校将撤销53个专业点",
+      "onboard_time": 1664274444,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 67841,
