@@ -1,6 +1,6 @@
 {
   "startTime": 1664210185188,
-  "endTime": 1664271213388,
+  "endTime": 1664272257218,
   "band_list": [
     {
       "raw_hot": 2771808,
@@ -131,6 +131,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1109118,
+      "num": 1109118,
+      "word": "人民网评昆仑神宫",
+      "onboard_time": 1664268985,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1008109,
       "num": 1008109,
       "word": "iPhone14Pro被吐槽信号差",
@@ -145,14 +153,6 @@
       "onboard_time": 1664267066,
       "rank": 13,
       "category": "科技"
-    },
-    {
-      "raw_hot": 941328,
-      "num": 941328,
-      "word": "人民网评昆仑神宫",
-      "onboard_time": 1664268985,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 834822,
@@ -411,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 408630,
+      "num": 344506,
+      "word": "美容师抓狗用力过度遭狗主人殴打",
+      "onboard_time": 1664268626,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 403182,
       "num": 403182,
       "word": "专家推荐十三二一零完美睡眠公式",
@@ -467,6 +475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 377384,
+      "num": 377384,
+      "word": "频繁换头像是缺乏安全感吗",
+      "onboard_time": 1664270784,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 372782,
       "num": 306896,
       "word": "男观众说见王俊凯一次哭一次",
@@ -499,14 +515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 344506,
-      "num": 344506,
-      "word": "美容师抓狗用力过度遭狗主人殴打",
-      "onboard_time": 1664268626,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 343767,
       "num": 343767,
       "word": "为什么总有男明星沉迷霸总叙事",
@@ -524,7 +532,7 @@
     },
     {
       "raw_hot": 326949,
-      "num": 209480,
+      "num": 244936,
       "word": "BIBI新歌",
       "onboard_time": 1664267485,
       "rank": 20,
@@ -667,12 +675,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 260750,
+      "num": 260750,
+      "word": "大三男生耗时1月捏出四大天王",
+      "onboard_time": 1664270065,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260656,
       "num": 260656,
       "word": "新生儿采足底血爸爸心疼抹泪",
       "onboard_time": 1664195906,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256171,
+      "num": 256171,
+      "word": "张彬彬学虞书欣委屈脸",
+      "onboard_time": 1664270485,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 253768,
@@ -705,6 +729,14 @@
       "onboard_time": 1664263763,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236289,
+      "num": 236289,
+      "word": "你好二十大",
+      "onboard_time": 1664270425,
+      "rank": 22,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 229063,
@@ -771,14 +803,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 203318,
-      "num": 203318,
-      "word": "张彬彬学虞书欣委屈脸",
-      "onboard_time": 1664270485,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 200651,
       "num": 200651,
       "word": "心动的信号",
@@ -819,6 +843,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 192930,
+      "num": 192930,
+      "word": "周深白鹿陈卓璇奔跑吧合唱我怀念的",
+      "onboard_time": 1664271984,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191426,
       "num": 191426,
       "word": "任嘉伦请君下线了10分钟又上线",
@@ -833,6 +865,14 @@
       "onboard_time": 1664259801,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 190362,
+      "num": 190362,
+      "word": "1个菜要10份餐具被拒该不该差评",
+      "onboard_time": 1664270365,
+      "rank": 37,
+      "category": "社会议题"
     },
     {
       "raw_hot": 190185,
@@ -875,27 +915,11 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 173060,
-      "num": 173060,
-      "word": "你好二十大",
-      "onboard_time": 1664270425,
-      "rank": 22,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 172922,
       "num": 172922,
       "word": "石家庄疫情防控",
       "onboard_time": 1664221629,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 171862,
-      "num": 171862,
-      "word": "大三男生耗时1月捏出四大天王",
-      "onboard_time": 1664270065,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -1033,14 +1057,6 @@
       "onboard_time": 1664241984,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 140595,
-      "num": 140595,
-      "word": "频繁换头像是缺乏安全感吗",
-      "onboard_time": 1664270784,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 137804,
@@ -1195,12 +1211,12 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 105763,
-      "num": 105763,
-      "word": "1个菜要10份餐具被拒该不该差评",
-      "onboard_time": 1664270365,
-      "rank": 37,
-      "category": "社会议题"
+      "raw_hot": 106116,
+      "num": 106116,
+      "word": "周冠宇官宣续约F1",
+      "onboard_time": 1664271562,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 104504,
@@ -1235,6 +1251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 96062,
+      "num": 96062,
+      "word": "阚清子80年代青涩氛围感",
+      "onboard_time": 1664271624,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 94894,
       "num": 75870,
       "word": "你可以永远相信猫的树",
@@ -1265,6 +1289,14 @@
       "onboard_time": 1664236464,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 89811,
+      "num": 89811,
+      "word": "28岁程序员网购生发丸吃成肝损伤",
+      "onboard_time": 1664271862,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 89097,
@@ -1299,6 +1331,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 84283,
+      "num": 84283,
+      "word": "101岁母亲去世52岁儿子一句话泪崩",
+      "onboard_time": 1664272044,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81981,
       "num": 81981,
       "word": "居然和狗狗产生了信任危机",
@@ -1313,6 +1353,14 @@
       "onboard_time": 1664235562,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 81261,
+      "num": 81261,
+      "word": "陕西才是面食界天花板",
+      "onboard_time": 1664271923,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 80623,
