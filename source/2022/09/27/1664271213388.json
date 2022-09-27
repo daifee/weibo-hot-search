@@ -1,0 +1,410 @@
+{
+  "runTime": 1664271213388,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1920231,
+        "num": 1920231,
+        "word": "微信退群可选保留聊天记录",
+        "onboard_time": 1664263643,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1338492,
+        "num": 1338492,
+        "word": "头像会影响聊天欲吗",
+        "onboard_time": 1664264185,
+        "rank": 1,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 13626,
+        "num": 1105099,
+        "word": "中国航天3天3连发",
+        "onboard_time": 1664240366,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 941328,
+        "num": 941328,
+        "word": "人民网评昆仑神宫",
+        "onboard_time": 1664268985,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 744526,
+        "num": 744526,
+        "word": "妈妈教爨姓儿子写名字时崩溃",
+        "onboard_time": 1664259745,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 574838,
+        "num": 574838,
+        "word": "国产法律剧终于支棱起来了",
+        "onboard_time": 1664263104,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 398042,
+        "num": 398042,
+        "word": "北京一公司违规销售核酸团购券被罚",
+        "onboard_time": 1664268504,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393975,
+        "num": 393975,
+        "word": "净水机接下水道全家喝2年废水",
+        "onboard_time": 1664259683,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367184,
+        "num": 367184,
+        "word": "你抽到Faker了吗",
+        "onboard_time": 1664265745,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 348143,
+        "num": 348143,
+        "word": "杜德伟母亲是给我一个吻原唱",
+        "onboard_time": 1664269405,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 973972,
+        "num": 346739,
+        "word": "微信本可少占用大量空间",
+        "onboard_time": 1664267066,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 492546,
+        "num": 345958,
+        "word": "韩站",
+        "onboard_time": 1664261604,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 479918,
+        "num": 345294,
+        "word": "网传孟子义任豪上元锦绣10月开机",
+        "onboard_time": 1664265805,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 344506,
+        "num": 344506,
+        "word": "美容师抓狗用力过度遭狗主人殴打",
+        "onboard_time": 1664268626,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312668,
+        "num": 312668,
+        "word": "萌娃生气将爸爸新买万元手机摔地上",
+        "onboard_time": 1664263883,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297593,
+        "num": 297593,
+        "word": "陈哲远是捅了甜妹窝吧",
+        "onboard_time": 1664264003,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 285004,
+        "num": 285004,
+        "word": "千万人考教师资格证是好事吗",
+        "onboard_time": 1664258844,
+        "rank": 16,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 236068,
+        "num": 236068,
+        "word": "iPhone14Pro被吐槽信号差",
+        "onboard_time": 1664253447,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 214617,
+        "num": 214617,
+        "word": "大学生校内10元买彩票中25万",
+        "onboard_time": 1664252725,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203318,
+        "num": 203318,
+        "word": "张彬彬学虞书欣委屈脸",
+        "onboard_time": 1664270485,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 259471,
+        "num": 200827,
+        "word": "BIBI新歌",
+        "onboard_time": 1664267485,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187702,
+        "num": 187702,
+        "word": "半身麻醉手术状态下听到的",
+        "onboard_time": 1664253269,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173060,
+        "num": 173060,
+        "word": "你好二十大",
+        "onboard_time": 1664270425,
+        "rank": 22,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 171862,
+        "num": 171862,
+        "word": "大三男生耗时1月捏出四大天王",
+        "onboard_time": 1664270065,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166777,
+        "num": 166777,
+        "word": "宝妈让孩子爬行消耗体力避免吵闹",
+        "onboard_time": 1664269046,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159407,
+        "num": 159407,
+        "word": "如何用5个动作高效练腹",
+        "onboard_time": 1664270604,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149525,
+        "num": 149525,
+        "word": "心动的信号",
+        "onboard_time": 1664262024,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147288,
+        "num": 147288,
+        "word": "iPhone15Ultra或采用双前置摄像头",
+        "onboard_time": 1664255367,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 143504,
+        "num": 143504,
+        "word": "美国对我国基础设施渗透控制",
+        "onboard_time": 1664249785,
+        "rank": 28,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 140595,
+        "num": 140595,
+        "word": "频繁换头像是缺乏安全感吗",
+        "onboard_time": 1664270784,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140481,
+        "num": 140481,
+        "word": "王鹤棣橘色毛衣造型上班路透",
+        "onboard_time": 1664258723,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138893,
+        "num": 138893,
+        "word": "马里女篮队员内讧互殴",
+        "onboard_time": 1664265025,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137398,
+        "num": 137398,
+        "word": "就没有摆不平的小肚腩",
+        "onboard_time": 1664267785,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130538,
+        "num": 130538,
+        "word": "火锅店把吃剩锅底重新端给顾客",
+        "onboard_time": 1664245523,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121704,
+        "num": 121704,
+        "word": "李承铉说喜欢一个人会自带滤镜",
+        "onboard_time": 1664256385,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112347,
+        "num": 112347,
+        "word": "妇科炎症会引起宫颈癌吗",
+        "onboard_time": 1664250085,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111436,
+        "num": 111436,
+        "word": "公安部新闻发布会",
+        "onboard_time": 1664263763,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105763,
+        "num": 105763,
+        "word": "1个菜要10份餐具被拒该不该差评",
+        "onboard_time": 1664270365,
+        "rank": 37,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 102375,
+        "num": 102375,
+        "word": "你可以永远相信孔子",
+        "onboard_time": 1664261784,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99820,
+        "num": 99820,
+        "word": "不喜欢的追求者送礼物要不要收",
+        "onboard_time": 1664259801,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 97139,
+        "num": 97139,
+        "word": "冬瓜竟然还能做出神仙饮品",
+        "onboard_time": 1664267244,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 95214,
+        "num": 95214,
+        "word": "天津新增42例本土阳性感染者",
+        "onboard_time": 1664252247,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92317,
+        "num": 92317,
+        "word": "上机考试鼠标自己答题",
+        "onboard_time": 1664256265,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89374,
+        "num": 89374,
+        "word": "老人坠床身亡护理院被判赔11万",
+        "onboard_time": 1664250985,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88682,
+        "num": 88682,
+        "word": "两个人的小森林",
+        "onboard_time": 1664265325,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 83668,
+        "num": 83668,
+        "word": "杨幂密室大逃脱双马尾高清剧照",
+        "onboard_time": 1664253987,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122094,
+        "num": 82688,
+        "word": "陈卓璇奔跑吧路透",
+        "onboard_time": 1664264185,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 80909,
+        "num": 80909,
+        "word": "张雨绮说雪莉杨一部更比一部辣",
+        "onboard_time": 1664257404,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 79082,
+        "num": 79082,
+        "word": "人民币成为全球第4位支付货币",
+        "onboard_time": 1664248947,
+        "rank": 48,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 76595,
+        "num": 76595,
+        "word": "85岁老人摆摊卖菜救重病孙女",
+        "onboard_time": 1664254707,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#这部巨著我们共同书写#"
+    }
+  }
+}

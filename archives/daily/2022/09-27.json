@@ -1,6 +1,6 @@
 {
   "startTime": 1664210185188,
-  "endTime": 1664269167915,
+  "endTime": 1664271213388,
   "band_list": [
     {
       "raw_hot": 2771808,
@@ -139,12 +139,20 @@
       "category": "科技"
     },
     {
-      "raw_hot": 916594,
-      "num": 307081,
+      "raw_hot": 973972,
+      "num": 346739,
       "word": "微信本可少占用大量空间",
       "onboard_time": 1664267066,
       "rank": 13,
       "category": "科技"
+    },
+    {
+      "raw_hot": 941328,
+      "num": 941328,
+      "word": "人民网评昆仑神宫",
+      "onboard_time": 1664268985,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 834822,
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 545480,
-      "num": 301194,
+      "num": 345294,
       "word": "网传孟子义任豪上元锦绣10月开机",
       "onboard_time": 1664265805,
       "rank": 11,
@@ -411,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 398042,
+      "num": 398042,
+      "word": "北京一公司违规销售核酸团购券被罚",
+      "onboard_time": 1664268504,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 396752,
       "num": 396752,
       "word": "3岁小孩踢金毛家长在旁边大笑",
@@ -459,12 +475,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 367184,
+      "num": 367184,
+      "word": "你抽到Faker了吗",
+      "onboard_time": 1664265745,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 359979,
       "num": 359979,
       "word": "万里归途",
       "onboard_time": 1664243365,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 348143,
+      "num": 348143,
+      "word": "杜德伟母亲是给我一个吻原唱",
+      "onboard_time": 1664269405,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 344506,
+      "num": 344506,
+      "word": "美容师抓狗用力过度遭狗主人殴打",
+      "onboard_time": 1664268626,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 343767,
@@ -491,14 +531,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 316304,
-      "num": 316304,
-      "word": "人民网评昆仑神宫",
-      "onboard_time": 1664268985,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 316143,
       "num": 316143,
       "word": "天津疫情防控",
@@ -513,14 +545,6 @@
       "onboard_time": 1664246783,
       "rank": 14,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 308654,
-      "num": 308654,
-      "word": "你抽到Faker了吗",
-      "onboard_time": 1664265745,
-      "rank": 15,
-      "category": "游戏"
     },
     {
       "raw_hot": 298856,
@@ -747,6 +771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 203318,
+      "num": 203318,
+      "word": "张彬彬学虞书欣委屈脸",
+      "onboard_time": 1664270485,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 200651,
       "num": 200651,
       "word": "心动的信号",
@@ -843,11 +875,35 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 173060,
+      "num": 173060,
+      "word": "你好二十大",
+      "onboard_time": 1664270425,
+      "rank": 22,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 172922,
       "num": 172922,
       "word": "石家庄疫情防控",
       "onboard_time": 1664221629,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171862,
+      "num": 171862,
+      "word": "大三男生耗时1月捏出四大天王",
+      "onboard_time": 1664270065,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166777,
+      "num": 166777,
+      "word": "宝妈让孩子爬行消耗体力避免吵闹",
+      "onboard_time": 1664269046,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -872,6 +928,14 @@
       "word": "周琦重回墨尔本凤凰队",
       "onboard_time": 1664205266,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 159407,
+      "num": 159407,
+      "word": "如何用5个动作高效练腹",
+      "onboard_time": 1664270604,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -923,14 +987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 151906,
-      "num": 151906,
-      "word": "北京一公司违规销售核酸团购券被罚",
-      "onboard_time": 1664268504,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 149834,
       "num": 149834,
       "word": "虞美人庄羽酒醉吻",
@@ -977,6 +1033,14 @@
       "onboard_time": 1664241984,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140595,
+      "num": 140595,
+      "word": "频繁换头像是缺乏安全感吗",
+      "onboard_time": 1664270784,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 137804,
@@ -1049,14 +1113,6 @@
       "onboard_time": 1664196746,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 120485,
-      "num": 120485,
-      "word": "美容师抓狗用力过度遭狗主人殴打",
-      "onboard_time": 1664268626,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118721,
@@ -1137,6 +1193,14 @@
       "onboard_time": 1664247741,
       "rank": 44,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 105763,
+      "num": 105763,
+      "word": "1个菜要10份餐具被拒该不该差评",
+      "onboard_time": 1664270365,
+      "rank": 37,
+      "category": "社会议题"
     },
     {
       "raw_hot": 104504,
@@ -1233,14 +1297,6 @@
       "onboard_time": 1664265564,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 87531,
-      "num": 87531,
-      "word": "宝妈让孩子爬行消耗体力避免吵闹",
-      "onboard_time": 1664269046,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 81981,
