@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664262794408,
+  "endTime": 1664264711484,
   "band_list": [
     {
       "raw_hot": 4711055,
@@ -19,8 +19,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 2625180,
-      "num": 2625180,
+      "raw_hot": 2771808,
+      "num": 2771808,
       "word": "妈妈教爨姓儿子写名字时崩溃",
       "onboard_time": 1664259745,
       "rank": 28,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1366254,
+      "num": 332308,
+      "word": "韩站",
+      "onboard_time": 1664261604,
+      "rank": 10,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1360762,
       "num": 1360762,
       "word": "你薅的羊毛可能是违法的",
@@ -169,6 +177,14 @@
       "onboard_time": 1664161644,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1302312,
+      "num": 1302312,
+      "word": "国产法律剧终于支棱起来了",
+      "onboard_time": 1664263104,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1298629,
@@ -225,14 +241,6 @@
       "onboard_time": 1664248947,
       "rank": 3,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 1114966,
-      "num": 280073,
-      "word": "韩站",
-      "onboard_time": 1664261604,
-      "rank": 10,
-      "category": "科技"
     },
     {
       "raw_hot": 1099668,
@@ -459,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 686478,
+      "num": 686478,
+      "word": "千万人考教师资格证是好事吗",
+      "onboard_time": 1664258844,
+      "rank": 34,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 685331,
       "num": 685331,
       "word": "帝释天传说限定皮肤",
@@ -635,20 +651,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 543805,
-      "num": 543805,
-      "word": "千万人考教师资格证是好事吗",
-      "onboard_time": 1664258844,
-      "rank": 34,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 538267,
       "num": 538267,
       "word": "高校通报新生入学3天篮球场猝死",
       "onboard_time": 1664172984,
       "rank": 26,
       "category": "社会负面,教育"
+    },
+    {
+      "raw_hot": 536806,
+      "num": 536806,
+      "word": "净水机接下水道全家喝2年废水",
+      "onboard_time": 1664259683,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 534830,
@@ -1123,20 +1139,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 329665,
-      "num": 257746,
-      "word": "净水机接下水道全家喝2年废水",
-      "onboard_time": 1664259683,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 324641,
       "num": 324641,
       "word": "成都适龄女孩接种国产HPV疫苗免费",
       "onboard_time": 1664172326,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 320506,
+      "num": 320506,
+      "word": "微信退群可选保留聊天记录",
+      "onboard_time": 1664263643,
+      "rank": 11,
+      "category": "科技"
     },
     {
       "raw_hot": 317037,
@@ -1201,6 +1217,14 @@
       "onboard_time": 1664159302,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299749,
+      "num": 299749,
+      "word": "陈哲远是捅了甜妹窝吧",
+      "onboard_time": 1664264003,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 297269,
@@ -1331,6 +1355,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 276721,
+      "num": 189287,
+      "word": "陈卓璇奔跑吧路透",
+      "onboard_time": 1664264185,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 276213,
       "num": 276213,
       "word": "王一博长空之王说英语",
@@ -1409,6 +1441,14 @@
       "onboard_time": 1664123302,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 261895,
+      "num": 261895,
+      "word": "你可以永远相信孔子",
+      "onboard_time": 1664261784,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 255396,
@@ -1851,6 +1891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190678,
+      "num": 187279,
+      "word": "不喜欢的追求者送礼物要不要收",
+      "onboard_time": 1664259801,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190185,
       "num": 190185,
       "word": "我的反派男友连更十天",
@@ -1881,14 +1929,6 @@
       "onboard_time": 1664115031,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 185583,
-      "num": 185583,
-      "word": "你可以永远相信孔子",
-      "onboard_time": 1664261784,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 183544,
@@ -2001,14 +2041,6 @@
       "onboard_time": 1664159605,
       "rank": 41,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 170450,
-      "num": 170450,
-      "word": "不喜欢的追求者送礼物要不要收",
-      "onboard_time": 1664259801,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 169591,
@@ -2283,6 +2315,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 133063,
+      "num": 133063,
+      "word": "真的不要再自我怀疑了",
+      "onboard_time": 1664258602,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 132881,
       "num": 450866,
       "word": "撒贝宁把折叠屏玩明白了",
@@ -2305,6 +2345,14 @@
       "onboard_time": 1664178025,
       "rank": 43,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 130833,
+      "num": 130833,
+      "word": "萌娃生气将爸爸新买万元手机摔地上",
+      "onboard_time": 1664263883,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129125,
@@ -2355,6 +2403,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 127178,
+      "num": 127178,
+      "word": "头像会影响聊天欲吗",
+      "onboard_time": 1664264185,
+      "rank": 34,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 126909,
       "num": 126909,
       "word": "女子建植物工厂让菠菜一年长22茬",
@@ -2393,14 +2449,6 @@
       "onboard_time": 1664262142,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 123917,
-      "num": 123917,
-      "word": "真的不要再自我怀疑了",
-      "onboard_time": 1664258602,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 123298,
@@ -2505,6 +2553,14 @@
       "onboard_time": 1664254348,
       "rank": 44,
       "category": "军事"
+    },
+    {
+      "raw_hot": 111442,
+      "num": 111442,
+      "word": "这位妈妈的脾气也太好了吧",
+      "onboard_time": 1664262384,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 110160,
@@ -2707,6 +2763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88173,
+      "num": 88173,
+      "word": "公安部新闻发布会",
+      "onboard_time": 1664263763,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87370,
       "num": 87370,
       "word": "这是火车界的天花板吧",
@@ -2761,14 +2825,6 @@
       "onboard_time": 1664110767,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 80633,
-      "num": 80633,
-      "word": "这位妈妈的脾气也太好了吧",
-      "onboard_time": 1664262384,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 78260,
@@ -2972,7 +3028,7 @@
     },
     {
       "raw_hot": 27592,
-      "num": 111921,
+      "num": 113116,
       "word": "苏州园林推出昆曲版解说",
       "onboard_time": 1664262024,
       "rank": 39,

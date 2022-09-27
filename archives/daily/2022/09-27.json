@@ -1,10 +1,10 @@
 {
   "startTime": 1664210185188,
-  "endTime": 1664262794408,
+  "endTime": 1664264711484,
   "band_list": [
     {
-      "raw_hot": 2625180,
-      "num": 2625180,
+      "raw_hot": 2771808,
+      "num": 2771808,
       "word": "妈妈教爨姓儿子写名字时崩溃",
       "onboard_time": 1664259745,
       "rank": 28,
@@ -67,6 +67,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1366254,
+      "num": 332308,
+      "word": "韩站",
+      "onboard_time": 1664261604,
+      "rank": 10,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 1302312,
+      "num": 1302312,
+      "word": "国产法律剧终于支棱起来了",
+      "onboard_time": 1664263104,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1298629,
       "num": 1298629,
       "word": "唐朝诡事录开播",
@@ -97,14 +113,6 @@
       "onboard_time": 1664248947,
       "rank": 3,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 1114966,
-      "num": 280073,
-      "word": "韩站",
-      "onboard_time": 1664261604,
-      "rank": 10,
-      "category": "科技"
     },
     {
       "raw_hot": 1008109,
@@ -145,6 +153,14 @@
       "onboard_time": 1664200949,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 686478,
+      "num": 686478,
+      "word": "千万人考教师资格证是好事吗",
+      "onboard_time": 1664258844,
+      "rank": 34,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 678992,
@@ -219,12 +235,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 543805,
-      "num": 543805,
-      "word": "千万人考教师资格证是好事吗",
-      "onboard_time": 1664258844,
-      "rank": 34,
-      "category": "教育,社会新闻"
+      "raw_hot": 536806,
+      "num": 536806,
+      "word": "净水机接下水道全家喝2年废水",
+      "onboard_time": 1664259683,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 533991,
@@ -419,12 +435,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 329665,
-      "num": 257746,
-      "word": "净水机接下水道全家喝2年废水",
-      "onboard_time": 1664259683,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 320506,
+      "num": 320506,
+      "word": "微信退群可选保留聊天记录",
+      "onboard_time": 1664263643,
+      "rank": 11,
+      "category": "科技"
     },
     {
       "raw_hot": 316143,
@@ -441,6 +457,14 @@
       "onboard_time": 1664246783,
       "rank": 14,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 299749,
+      "num": 299749,
+      "word": "陈哲远是捅了甜妹窝吧",
+      "onboard_time": 1664264003,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 298856,
@@ -507,6 +531,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 276721,
+      "num": 189287,
+      "word": "陈卓璇奔跑吧路透",
+      "onboard_time": 1664264185,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 274126,
       "num": 274126,
       "word": "云南在集中隔离点发现确诊病例9例",
@@ -537,6 +569,14 @@
       "onboard_time": 1664237606,
       "rank": 17,
       "category": "科技"
+    },
+    {
+      "raw_hot": 261895,
+      "num": 261895,
+      "word": "你可以永远相信孔子",
+      "onboard_time": 1664261784,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 260656,
@@ -667,20 +707,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190678,
+      "num": 187279,
+      "word": "不喜欢的追求者送礼物要不要收",
+      "onboard_time": 1664259801,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190185,
       "num": 190185,
       "word": "我的反派男友连更十天",
       "onboard_time": 1664246063,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 185583,
-      "num": 185583,
-      "word": "你可以永远相信孔子",
-      "onboard_time": 1664261784,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 181321,
@@ -721,14 +761,6 @@
       "onboard_time": 1664221629,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 170450,
-      "num": 170450,
-      "word": "不喜欢的追求者送礼物要不要收",
-      "onboard_time": 1664259801,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 165976,
@@ -835,6 +867,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133063,
+      "num": 133063,
+      "word": "真的不要再自我怀疑了",
+      "onboard_time": 1664258602,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 130833,
+      "num": 130833,
+      "word": "萌娃生气将爸爸新买万元手机摔地上",
+      "onboard_time": 1664263883,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128738,
       "num": 128738,
       "word": "独行月球密钥延期至1029",
@@ -859,6 +907,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 127178,
+      "num": 127178,
+      "word": "头像会影响聊天欲吗",
+      "onboard_time": 1664264185,
+      "rank": 34,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 126909,
       "num": 126909,
       "word": "女子建植物工厂让菠菜一年长22茬",
@@ -873,14 +929,6 @@
       "onboard_time": 1664262142,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 123917,
-      "num": 123917,
-      "word": "真的不要再自我怀疑了",
-      "onboard_time": 1664258602,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 123051,
@@ -961,6 +1009,14 @@
       "onboard_time": 1664178084,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111442,
+      "num": 111442,
+      "word": "这位妈妈的脾气也太好了吧",
+      "onboard_time": 1664262384,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 109259,
@@ -1067,6 +1123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88173,
+      "num": 88173,
+      "word": "公安部新闻发布会",
+      "onboard_time": 1664263763,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81981,
       "num": 81981,
       "word": "居然和狗狗产生了信任危机",
@@ -1081,14 +1145,6 @@
       "onboard_time": 1664235562,
       "rank": 36,
       "category": "教育"
-    },
-    {
-      "raw_hot": 80633,
-      "num": 80633,
-      "word": "这位妈妈的脾气也太好了吧",
-      "onboard_time": 1664262384,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 78190,
@@ -1268,7 +1324,7 @@
     },
     {
       "raw_hot": 27592,
-      "num": 111921,
+      "num": 113116,
       "word": "苏州园林推出昆曲版解说",
       "onboard_time": 1664262024,
       "rank": 39,
