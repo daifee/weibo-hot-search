@@ -1,6 +1,6 @@
 {
   "startTime": 1664210185188,
-  "endTime": 1664287167174,
+  "endTime": 1664287884637,
   "band_list": [
     {
       "raw_hot": 2771808,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1640857,
-      "num": 451035,
+      "num": 522691,
       "word": "韩剧",
       "onboard_time": 1664278525,
       "rank": 18,
@@ -97,6 +97,14 @@
       "onboard_time": 1664238686,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1551799,
+      "num": 876688,
+      "word": "鞠婧祎捐款50万用于给女性提供HPV疫苗",
+      "onboard_time": 1664286867,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1502939,
@@ -171,6 +179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1071907,
+      "num": 811452,
+      "word": "张彬彬抄写100遍对不起",
+      "onboard_time": 1664284824,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1008109,
       "num": 1008109,
       "word": "iPhone14Pro被吐槽信号差",
@@ -201,14 +217,6 @@
       "onboard_time": 1664213534,
       "rank": 48,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 811452,
-      "num": 811452,
-      "word": "张彬彬抄写100遍对不起",
-      "onboard_time": 1664284824,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 780923,
@@ -291,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 636647,
+      "num": 636647,
+      "word": "男子网恋奔现后发现对象已当外婆",
+      "onboard_time": 1664283085,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 622024,
       "num": 622024,
       "word": "猫都没想到被P成这样",
@@ -305,14 +321,6 @@
       "onboard_time": 1664248526,
       "rank": 6,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 613433,
-      "num": 613433,
-      "word": "男子网恋奔现后发现对象已当外婆",
-      "onboard_time": 1664283085,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 613058,
@@ -379,6 +387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 539492,
+      "num": 539492,
+      "word": "中介伪装房东9年骗走老人1050万",
+      "onboard_time": 1664285066,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 536806,
       "num": 536806,
       "word": "净水机接下水道全家喝2年废水",
@@ -417,6 +433,14 @@
       "onboard_time": 1664274026,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 509004,
+      "num": 509004,
+      "word": "经济学家称消费不是刺激出来的",
+      "onboard_time": 1664283324,
+      "rank": 25,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 507442,
@@ -475,28 +499,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 466700,
-      "num": 451035,
-      "word": "鞠婧祎捐款50万用于给女性提供HPV疫苗",
-      "onboard_time": 1664286867,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 460312,
       "num": 460312,
       "word": "脱口秀大会",
       "onboard_time": 1664282481,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 451051,
-      "num": 451051,
-      "word": "经济学家称消费不是刺激出来的",
-      "onboard_time": 1664283324,
-      "rank": 25,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 445524,
@@ -547,14 +555,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 424227,
-      "num": 424227,
-      "word": "中介伪装房东9年骗走老人1050万",
-      "onboard_time": 1664285066,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 420318,
       "num": 420318,
       "word": "女子产后3个月发现又怀孕2个月",
@@ -600,6 +600,14 @@
       "word": "北京一公司违规销售核酸团购券被罚",
       "onboard_time": 1664268504,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 396991,
+      "num": 396991,
+      "word": "李建平一审被判死刑",
+      "onboard_time": 1664286146,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -737,14 +745,6 @@
       "onboard_time": 1664187866,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 305204,
-      "num": 305204,
-      "word": "李建平一审被判死刑",
-      "onboard_time": 1664286146,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 297269,
@@ -1052,7 +1052,7 @@
     },
     {
       "raw_hot": 200561,
-      "num": 149863,
+      "num": 161918,
       "word": "思文单身让人变美",
       "onboard_time": 1664285543,
       "rank": 30,
@@ -1171,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171900,
+      "num": 171900,
+      "word": "中国女排3比0战胜哥伦比亚",
+      "onboard_time": 1664285665,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167629,
       "num": 167629,
       "word": "Shotaro翻跳NewThing",
@@ -1225,6 +1233,14 @@
       "onboard_time": 1664278165,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160618,
+      "num": 160618,
+      "word": "用胡说八道来避免社交",
+      "onboard_time": 1664285784,
+      "rank": 34,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 159407,
@@ -1307,14 +1323,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 150029,
-      "num": 150029,
-      "word": "中国女排3比0战胜哥伦比亚",
-      "onboard_time": 1664285665,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 149834,
       "num": 149834,
       "word": "虞美人庄羽酒醉吻",
@@ -1395,12 +1403,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 134578,
-      "num": 134578,
-      "word": "用胡说八道来避免社交",
-      "onboard_time": 1664285784,
-      "rank": 34,
-      "category": "幽默,情感"
+      "raw_hot": 134048,
+      "num": 134048,
+      "word": "浙江省运会男足球员追打裁判",
+      "onboard_time": 1664285543,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 133715,
+      "num": 133715,
+      "word": "没有一个动作表情是多余的",
+      "onboard_time": 1664287765,
+      "rank": 35,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 133063,
@@ -1507,6 +1523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 118236,
+      "num": 118236,
+      "word": "晕车终于有救了",
+      "onboard_time": 1664287349,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 115674,
       "num": 115674,
       "word": "VR会像手机一样普及吗",
@@ -1571,14 +1595,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 107705,
-      "num": 107705,
-      "word": "浙江省运会男足球员追打裁判",
-      "onboard_time": 1664285543,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 104504,
       "num": 104504,
       "word": "樊振东多球训练眼花缭乱",
@@ -1596,7 +1612,7 @@
     },
     {
       "raw_hot": 103158,
-      "num": 877625,
+      "num": 935008,
       "word": "二十大代表是怎么选出来的",
       "onboard_time": 1664282366,
       "rank": 2,
@@ -1737,6 +1753,14 @@
       "onboard_time": 1664265865,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 79046,
+      "num": 79046,
+      "word": "女子输液回血护士先掏手机",
+      "onboard_time": 1664287827,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 78190,
@@ -1985,6 +2009,14 @@
       "onboard_time": 1664215753,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 17824,
+      "num": 397437,
+      "word": "18岁女孩不幸离世捐器官救6人",
+      "onboard_time": 1664287284,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16985,

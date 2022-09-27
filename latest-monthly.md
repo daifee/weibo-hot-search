@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/27 21:59:27
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/27 22:11:24
 </p>
 </blockquote>
 <p>
@@ -2961,6 +2961,12 @@ iPhone14截屏带岛（热度：1557186）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E6%8D%90%E6%AC%BE50%E4%B8%87%E7%94%A8%E4%BA%8E%E7%BB%99%E5%A5%B3%E6%80%A7%E6%8F%90%E4%BE%9BHPV%E7%96%AB%E8%8B%97%23" target="weibo">
+鞠婧祎捐款50万用于给女性提供HPV疫苗（热度：1551799）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B8%A4%E5%9B%9E%E5%BA%94%E5%A6%82%E6%9E%9C%E9%AC%BC%E6%80%AA%E8%AE%A9%E9%BB%84%E6%B8%A4%E6%9D%A5%E6%BC%94%23" target="weibo">
 黄渤回应如果鬼怪让黄渤来演（热度：1551585）
 </a>
@@ -5493,6 +5499,12 @@ JYP中国新男团成员（热度：1072064）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%BD%AC%E5%BD%AC%E6%8A%84%E5%86%99100%E9%81%8D%E5%AF%B9%E4%B8%8D%E8%B5%B7%23" target="weibo">
+张彬彬抄写100遍对不起（热度：1071907）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%B0%8F%E5%8D%8E%E4%B8%8E%E7%96%91%E4%BC%BC%E7%94%B7%E5%AD%A9DNA%E6%AF%94%E5%AF%B9%E4%B8%8D%E5%8C%B9%E9%85%8D%23" target="weibo">
 杜小华与疑似男孩DNA比对不匹配（热度：1071796）
 </a>
@@ -5999,18 +6011,6 @@ iPhone灵动岛无法适配大部分应用（热度：1012664）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%AF%91%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%AE%B7%E6%A1%83%E6%96%B0%E7%89%87%E5%B8%A6%E5%90%8C%E8%83%9E%E5%9B%9E%E5%AE%B6%23" target="weibo">
 张译王俊凯殷桃新片带同胞回家（热度：1010107）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%A4%A9%E5%90%91%E4%B8%8A%E5%98%89%E5%AE%BE%E5%9B%9E%E5%BA%94%23" target="weibo">
-天天向上嘉宾回应（热度：1009541）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%BC%E5%85%B0%23" target="weibo">
-呼兰（热度：1009256）
 </a>
 </li>
 
