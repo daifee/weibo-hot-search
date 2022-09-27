@@ -1,0 +1,410 @@
+{
+  "runTime": 1664289507015,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1044613,
+        "num": 1044613,
+        "word": "频繁换头像是缺乏安全感吗",
+        "onboard_time": 1664270784,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 817458,
+        "num": 817458,
+        "word": "101岁母亲去世52岁儿子一句话泪崩",
+        "onboard_time": 1664272044,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101948,
+        "num": 788268,
+        "word": "二十大代表是怎么选出来的",
+        "onboard_time": 1664282366,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 3167166,
+        "num": 778812,
+        "word": "鞠婧祎捐款50万用于给女性提供HPV疫苗",
+        "onboard_time": 1664286867,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1027546,
+        "num": 778594,
+        "word": "张彬彬抄写100遍对不起",
+        "onboard_time": 1664284824,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 764248,
+        "num": 764248,
+        "word": "笨蛋美女人设天花板",
+        "onboard_time": 1664280144,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 692060,
+        "num": 692060,
+        "word": "中介伪装房东9年骗走老人1050万",
+        "onboard_time": 1664285066,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539891,
+        "num": 539891,
+        "word": "男子网恋奔现后发现对象已当外婆",
+        "onboard_time": 1664283085,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513047,
+        "num": 513047,
+        "word": "微信退群可选保留聊天记录",
+        "onboard_time": 1664263643,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 503454,
+        "num": 503454,
+        "word": "晕车终于有救了",
+        "onboard_time": 1664287349,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 686020,
+        "num": 503407,
+        "word": "韩剧",
+        "onboard_time": 1664278525,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 556523,
+        "num": 497645,
+        "word": "小茉莉",
+        "onboard_time": 1664286445,
+        "rank": 11,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 490987,
+        "num": 490987,
+        "word": "经济学家称消费不是刺激出来的",
+        "onboard_time": 1664283324,
+        "rank": 12,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 449237,
+        "num": 449237,
+        "word": "女子输液回血护士先掏手机",
+        "onboard_time": 1664287827,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51737,
+        "num": 443946,
+        "word": "18岁女孩不幸离世捐器官救6人",
+        "onboard_time": 1664287284,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439379,
+        "num": 439379,
+        "word": "任嘉伦李沁无效吻戏",
+        "onboard_time": 1664276726,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 437213,
+        "num": 437213,
+        "word": "李建平一审被判死刑",
+        "onboard_time": 1664286146,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406091,
+        "num": 406091,
+        "word": "睡前刷手机会降低夜间睡眠质量",
+        "onboard_time": 1664281223,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278776,
+        "num": 278776,
+        "word": "养了十几年的狗狗去世前默默离家",
+        "onboard_time": 1664282603,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278394,
+        "num": 278394,
+        "word": "微信本可少占用大量空间",
+        "onboard_time": 1664267066,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 311411,
+        "num": 275937,
+        "word": "肖战骄阳伴我白衬衫侧颜路透图",
+        "onboard_time": 1664278105,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 290399,
+        "num": 271593,
+        "word": "脱口秀大会",
+        "onboard_time": 1664282481,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260660,
+        "num": 260660,
+        "word": "好喜欢晴儿清醒的爱情观",
+        "onboard_time": 1664289265,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240782,
+        "num": 240782,
+        "word": "开了会员还要会员",
+        "onboard_time": 1664278584,
+        "rank": 23,
+        "category": "科技,幽默"
+      },
+      {
+        "raw_hot": 219644,
+        "num": 219644,
+        "word": "骚男结婚",
+        "onboard_time": 1664277025,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 215340,
+        "num": 215340,
+        "word": "猫都没想到被P成这样",
+        "onboard_time": 1664273003,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183541,
+        "num": 183541,
+        "word": "28岁程序员网购生发丸吃成肝损伤",
+        "onboard_time": 1664271862,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183501,
+        "num": 183501,
+        "word": "浙江省运会男足球员追打裁判",
+        "onboard_time": 1664285543,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171477,
+        "num": 171477,
+        "word": "中国第五代战机已遍布东南西北中",
+        "onboard_time": 1664273783,
+        "rank": 28,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 166661,
+        "num": 166661,
+        "word": "大学生真的很需要这门课",
+        "onboard_time": 1664279663,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178676,
+        "num": 166388,
+        "word": "思文单身让人变美",
+        "onboard_time": 1664285543,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167978,
+        "num": 166280,
+        "word": "杨颖奔跑吧绿色背心路透",
+        "onboard_time": 1664274026,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 166041,
+        "num": 166041,
+        "word": "广东惠州惠东县海域3.2级地震",
+        "onboard_time": 1664282004,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160978,
+        "num": 160978,
+        "word": "头像会影响聊天欲吗",
+        "onboard_time": 1664264185,
+        "rank": 33,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 147642,
+        "num": 147642,
+        "word": "用胡说八道来避免社交",
+        "onboard_time": 1664285784,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 145201,
+        "num": 145201,
+        "word": "中国女排3比0战胜哥伦比亚",
+        "onboard_time": 1664285665,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144672,
+        "num": 144672,
+        "word": "这采访比小品还好笑",
+        "onboard_time": 1664284646,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137937,
+        "num": 137937,
+        "word": "iPhone14系列机型将在韩国销售",
+        "onboard_time": 1664275704,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 134797,
+        "num": 134797,
+        "word": "看得出这马桶很热情",
+        "onboard_time": 1664272643,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132690,
+        "num": 132690,
+        "word": "减肥后的心情起伏有多大",
+        "onboard_time": 1664285425,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122941,
+        "num": 122941,
+        "word": "刘德华莫斯科行动复古造型",
+        "onboard_time": 1664279243,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121824,
+        "num": 121824,
+        "word": "韩站",
+        "onboard_time": 1664261604,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 116661,
+        "num": 116661,
+        "word": "昆仑神宫",
+        "onboard_time": 1664288848,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110723,
+        "num": 110723,
+        "word": "中国女篮淘汰赛对阵法国",
+        "onboard_time": 1664288788,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109786,
+        "num": 109786,
+        "word": "昕雯联播解说成都世乒赛",
+        "onboard_time": 1664288006,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109591,
+        "num": 109591,
+        "word": "没有一个动作表情是多余的",
+        "onboard_time": 1664287765,
+        "rank": 45,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 96577,
+        "num": 96577,
+        "word": "妈妈教爨姓儿子写名字时崩溃",
+        "onboard_time": 1664259745,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95369,
+        "num": 95369,
+        "word": "不要对爱你的人泼冷水",
+        "onboard_time": 1664273842,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93464,
+        "num": 93464,
+        "word": "1个菜要10份餐具被拒该不该差评",
+        "onboard_time": 1664270365,
+        "rank": 48,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 86632,
+        "num": 86632,
+        "word": "TES出征世界赛",
+        "onboard_time": 1664279364,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#聚焦二十大#"
+    }
+  }
+}
