@@ -1,6 +1,6 @@
 {
   "startTime": 1664210185188,
-  "endTime": 1664278831598,
+  "endTime": 1664283200366,
   "band_list": [
     {
       "raw_hot": 2771808,
@@ -75,6 +75,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1640857,
+      "num": 313669,
+      "word": "韩剧",
+      "onboard_time": 1664278525,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1552023,
       "num": 553724,
       "word": "女子流产5次分手后被索要退还12万",
@@ -139,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1137371,
+      "num": 876612,
+      "word": "笨蛋美女人设天花板",
+      "onboard_time": 1664280144,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1118469,
       "num": 1118469,
       "word": "人民币成为全球第4位支付货币",
@@ -172,7 +188,7 @@
     },
     {
       "raw_hot": 849286,
-      "num": 176829,
+      "num": 225725,
       "word": "肖战骄阳伴我白衬衫侧颜路透图",
       "onboard_time": 1664278105,
       "rank": 20,
@@ -233,6 +249,14 @@
       "onboard_time": 1664253630,
       "rank": 47,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 667900,
+      "num": 667900,
+      "word": "开了会员还要会员",
+      "onboard_time": 1664278584,
+      "rank": 21,
+      "category": "科技,幽默"
     },
     {
       "raw_hot": 667566,
@@ -563,6 +587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 379659,
+      "num": 379659,
+      "word": "脱口秀大会",
+      "onboard_time": 1664282481,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 372782,
       "num": 306896,
       "word": "男观众说见王俊凯一次哭一次",
@@ -755,6 +787,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 266992,
+      "num": 266992,
+      "word": "刘德华莫斯科行动复古造型",
+      "onboard_time": 1664279243,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 261895,
       "num": 261895,
       "word": "你可以永远相信孔子",
@@ -851,12 +891,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 226018,
-      "num": 226018,
-      "word": "韩剧",
-      "onboard_time": 1664278525,
-      "rank": 18,
-      "category": "影视"
+      "raw_hot": 227255,
+      "num": 227255,
+      "word": "广东惠州惠东县海域3.2级地震",
+      "onboard_time": 1664282004,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 223474,
@@ -899,6 +939,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 215711,
+      "num": 215711,
+      "word": "中国女排vs哥伦比亚女排",
+      "onboard_time": 1664282783,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 214795,
+      "num": 214795,
+      "word": "杭州90后老板给员工放桂花假",
+      "onboard_time": 1664277502,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213683,
       "num": 206144,
       "word": "恶作剧之吻开播17周年",
@@ -923,20 +979,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199023,
+      "num": 199023,
+      "word": "睡前刷手机会降低夜间睡眠质量",
+      "onboard_time": 1664281223,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198689,
       "num": 198689,
       "word": "学生发型不达标校门口排队理发",
       "onboard_time": 1664226550,
       "rank": 32,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 198467,
-      "num": 176020,
-      "word": "开了会员还要会员",
-      "onboard_time": 1664278584,
-      "rank": 21,
-      "category": "科技,幽默"
     },
     {
       "raw_hot": 197500,
@@ -1043,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167629,
+      "num": 167629,
+      "word": "Shotaro翻跳NewThing",
+      "onboard_time": 1664281405,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 166777,
       "num": 166777,
       "word": "宝妈让孩子爬行消耗体力避免吵闹",
@@ -1121,6 +1185,14 @@
       "onboard_time": 1664223250,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154789,
+      "num": 154789,
+      "word": "TES出征世界赛",
+      "onboard_time": 1664279364,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 153895,
@@ -1219,6 +1291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136689,
+      "num": 136689,
+      "word": "张彬彬说演员拍戏时要交出自己的感情",
+      "onboard_time": 1664281825,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 136423,
       "num": 136423,
       "word": "陕西29所高校将撤销53个专业点",
@@ -1233,6 +1313,14 @@
       "onboard_time": 1664258602,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 131597,
+      "num": 131597,
+      "word": "看得出这马桶很热情",
+      "onboard_time": 1664272643,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 128738,
@@ -1275,20 +1363,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123735,
-      "num": 123735,
-      "word": "看得出这马桶很热情",
-      "onboard_time": 1664272643,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 123051,
       "num": 123051,
       "word": "万里归途预售票房破1000万",
       "onboard_time": 1664238205,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 122752,
+      "num": 122752,
+      "word": "养了十几年的狗狗去世前默默离家",
+      "onboard_time": 1664282603,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122423,
@@ -1337,14 +1425,6 @@
       "onboard_time": 1664269105,
       "rank": 38,
       "category": "科技"
-    },
-    {
-      "raw_hot": 115185,
-      "num": 115185,
-      "word": "杭州90后老板给员工放桂花假",
-      "onboard_time": 1664277502,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 114193,
@@ -1433,6 +1513,14 @@
       "onboard_time": 1664199687,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 98445,
+      "num": 98445,
+      "word": "她们的名字",
+      "onboard_time": 1664280444,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 96062,
@@ -1595,6 +1683,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 72122,
+      "num": 72122,
+      "word": "男子网恋奔现后发现对象已当外婆",
+      "onboard_time": 1664283085,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71462,
       "num": 71462,
       "word": "长空之王将全国路演",
@@ -1611,6 +1707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67414,
+      "num": 67414,
+      "word": "中国女排对阵哥伦比亚",
+      "onboard_time": 1664280805,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67413,
       "num": 55746,
       "word": "苏醒陆虎姚政微博直播",
@@ -1625,6 +1729,14 @@
       "onboard_time": 1664203288,
       "rank": 37,
       "category": "国内要闻,科技"
+    },
+    {
+      "raw_hot": 60820,
+      "num": 877625,
+      "word": "二十大代表是怎么选出来的",
+      "onboard_time": 1664282366,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 59430,
@@ -1673,6 +1785,14 @@
       "onboard_time": 1664182643,
       "rank": 43,
       "category": "国内要闻,国外要闻"
+    },
+    {
+      "raw_hot": 48646,
+      "num": 273794,
+      "word": "5人合力40秒救母女上岸",
+      "onboard_time": 1664280025,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46335,

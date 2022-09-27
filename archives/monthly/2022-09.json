@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1664278831598,
+  "endTime": 1664283200366,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -3507,6 +3507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1640857,
+      "num": 313669,
+      "word": "韩剧",
+      "onboard_time": 1664278525,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1637715,
       "num": 968206,
       "word": "21岁单亲妈妈已办理全职入职",
@@ -6577,6 +6585,14 @@
       "onboard_time": 1663220613,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1137371,
+      "num": 876612,
+      "word": "笨蛋美女人设天花板",
+      "onboard_time": 1664280144,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 1134406,
@@ -10212,7 +10228,7 @@
     },
     {
       "raw_hot": 849286,
-      "num": 176829,
+      "num": 225725,
       "word": "肖战骄阳伴我白衬衫侧颜路透图",
       "onboard_time": 1664278105,
       "rank": 20,
@@ -13057,6 +13073,14 @@
       "onboard_time": 1663846168,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 667900,
+      "num": 667900,
+      "word": "开了会员还要会员",
+      "onboard_time": 1664278584,
+      "rank": 21,
+      "category": "科技,幽默"
     },
     {
       "raw_hot": 667566,
@@ -32307,6 +32331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 266992,
+      "num": 266992,
+      "word": "刘德华莫斯科行动复古造型",
+      "onboard_time": 1664279243,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 266973,
       "num": 266973,
       "word": "有点孝心但不多的狗子",
@@ -36251,6 +36283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227255,
+      "num": 227255,
+      "word": "广东惠州惠东县海域3.2级地震",
+      "onboard_time": 1664282004,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227218,
       "num": 227218,
       "word": "神十四2名航天员已成功出舱",
@@ -36353,14 +36393,6 @@
       "onboard_time": 1662338848,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 226018,
-      "num": 226018,
-      "word": "韩剧",
-      "onboard_time": 1664278525,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 225992,
@@ -37531,6 +37563,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 215711,
+      "num": 215711,
+      "word": "中国女排vs哥伦比亚女排",
+      "onboard_time": 1664282783,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 215692,
       "num": 215692,
       "word": "李景亮分歧判定告负",
@@ -37689,6 +37729,14 @@
       "onboard_time": 1664080465,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 214795,
+      "num": 214795,
+      "word": "杭州90后老板给员工放桂花假",
+      "onboard_time": 1664277502,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214678,
@@ -39435,6 +39483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199023,
+      "num": 199023,
+      "word": "睡前刷手机会降低夜间睡眠质量",
+      "onboard_time": 1664281223,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198994,
       "num": 198994,
       "word": "9月1日新增确诊373例",
@@ -39497,14 +39553,6 @@
       "onboard_time": 1663815450,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 198467,
-      "num": 176020,
-      "word": "开了会员还要会员",
-      "onboard_time": 1664278584,
-      "rank": 21,
-      "category": "科技,幽默"
     },
     {
       "raw_hot": 198366,
@@ -42883,6 +42931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 167629,
+      "num": 167629,
+      "word": "Shotaro翻跳NewThing",
+      "onboard_time": 1664281405,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 167615,
       "num": 167615,
       "word": "北京8月31日新增3例本土确诊",
@@ -44313,6 +44369,14 @@
       "onboard_time": 1663151008,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154789,
+      "num": 154789,
+      "word": "TES出征世界赛",
+      "onboard_time": 1664279364,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 154771,
@@ -46267,6 +46331,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 136689,
+      "num": 136689,
+      "word": "张彬彬说演员拍戏时要交出自己的感情",
+      "onboard_time": 1664281825,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 136629,
       "num": 136629,
       "word": "oip",
@@ -46873,6 +46945,14 @@
       "onboard_time": 1662300692,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131597,
+      "num": 131597,
+      "word": "看得出这马桶很热情",
+      "onboard_time": 1664272643,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 131595,
@@ -47699,14 +47779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 123735,
-      "num": 123735,
-      "word": "看得出这马桶很热情",
-      "onboard_time": 1664272643,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 123681,
       "num": 123681,
       "word": "梦想对一个农村孩子来说有多重要",
@@ -47785,6 +47857,14 @@
       "onboard_time": 1663385488,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 122752,
+      "num": 122752,
+      "word": "养了十几年的狗狗去世前默默离家",
+      "onboard_time": 1664282603,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122475,
@@ -48385,14 +48465,6 @@
       "onboard_time": 1662930072,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 115185,
-      "num": 115185,
-      "word": "杭州90后老板给员工放桂花假",
-      "onboard_time": 1664277502,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 115150,
@@ -51115,6 +51187,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 72122,
+      "num": 72122,
+      "word": "男子网恋奔现后发现对象已当外婆",
+      "onboard_time": 1664283085,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72062,
       "num": 72062,
       "word": "实现躺平午休有多舒服",
@@ -51315,6 +51395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67414,
+      "num": 67414,
+      "word": "中国女排对阵哥伦比亚",
+      "onboard_time": 1664280805,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67313,
       "num": 67313,
       "word": "科学揭示土星环形成之谜",
@@ -51449,6 +51537,14 @@
       "onboard_time": 1663864761,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60820,
+      "num": 877625,
+      "word": "二十大代表是怎么选出来的",
+      "onboard_time": 1664282366,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 60802,
@@ -51689,6 +51785,14 @@
       "onboard_time": 1664038339,
       "rank": 46,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 48646,
+      "num": 273794,
+      "word": "5人合力40秒救母女上岸",
+      "onboard_time": 1664280025,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 48348,
