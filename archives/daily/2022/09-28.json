@@ -1,7 +1,15 @@
 {
   "startTime": 1664296789399,
-  "endTime": 1664317622225,
+  "endTime": 1664318719121,
   "band_list": [
+    {
+      "raw_hot": 1383838,
+      "num": 1383838,
+      "word": "苏州发布紧急报备提醒",
+      "onboard_time": 1664295860,
+      "rank": 27,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1296652,
       "num": 377446,
@@ -9,14 +17,6 @@
       "onboard_time": 1664286867,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1170048,
-      "num": 1170048,
-      "word": "苏州发布紧急报备提醒",
-      "onboard_time": 1664295860,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 966041,
@@ -43,8 +43,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 487115,
-      "num": 272921,
+      "raw_hot": 533162,
+      "num": 299185,
       "word": "花5万元请人直播带货只卖出36元",
       "onboard_time": 1664294663,
       "rank": 11,
@@ -75,8 +75,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 327944,
-      "num": 327944,
+      "raw_hot": 357672,
+      "num": 357672,
       "word": "北溪管道泄漏画面曝光",
       "onboard_time": 1664291726,
       "rank": 7,
@@ -171,12 +171,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156674,
+      "num": 156674,
+      "word": "研究称坐着抖腿有助于减肥",
+      "onboard_time": 1664308813,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155883,
       "num": 142069,
       "word": "任嘉伦李沁无效吻戏",
       "onboard_time": 1664276726,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 154216,
+      "num": 154216,
+      "word": "无锡18岁女孩让6人重获新生",
+      "onboard_time": 1664310671,
+      "rank": 44,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 148954,
@@ -227,28 +243,12 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 108543,
-      "num": 89050,
-      "word": "无锡18岁女孩让6人重获新生",
-      "onboard_time": 1664310671,
-      "rank": 44,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 106465,
       "num": 106465,
       "word": "猫都没想到被P成这样",
       "onboard_time": 1664273003,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 89601,
-      "num": 89601,
-      "word": "研究称坐着抖腿有助于减肥",
-      "onboard_time": 1664308813,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 81890,
@@ -291,12 +291,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 75168,
+      "num": 75168,
+      "word": "专家称全球经济风险超08年金融危机",
+      "onboard_time": 1664308271,
+      "rank": 15,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 73053,
+      "num": 73053,
+      "word": "小伙醉驾验血找妈妈支付50元",
+      "onboard_time": 1664309890,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72890,
       "num": 72890,
       "word": "开了会员还要会员",
       "onboard_time": 1664278584,
       "rank": 35,
       "category": "科技,幽默"
+    },
+    {
+      "raw_hot": 72162,
+      "num": 72162,
+      "word": "警方回应男子酒吧骚扰邻桌女生",
+      "onboard_time": 1664306172,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 71824,
@@ -313,14 +337,6 @@
       "onboard_time": 1664264185,
       "rank": 37,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 67589,
-      "num": 67589,
-      "word": "专家称全球经济风险超08年金融危机",
-      "onboard_time": 1664308271,
-      "rank": 15,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 65422,
@@ -419,14 +435,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 52817,
-      "num": 52817,
-      "word": "警方回应男子酒吧骚扰邻桌女生",
-      "onboard_time": 1664306172,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 52755,
       "num": 52755,
       "word": "浙江省运会男足球员追打裁判",
@@ -444,19 +452,27 @@
     },
     {
       "raw_hot": 47433,
-      "num": 36223,
+      "num": 42328,
       "word": "广州地铁一老外脱鞋抠脚",
       "onboard_time": 1664304012,
       "rank": 49,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 38135,
-      "num": 38135,
-      "word": "小伙醉驾验血找妈妈支付50元",
-      "onboard_time": 1664309890,
-      "rank": 45,
+      "raw_hot": 32837,
+      "num": 32837,
+      "word": "数名老人组团赶场拦婚车讨红包",
+      "onboard_time": 1664316372,
+      "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32560,
+      "num": 32560,
+      "word": "张镇麟续约辽宁男篮四年",
+      "onboard_time": 1664313369,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 29934,
@@ -483,20 +499,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 19535,
+      "num": 19535,
+      "word": "与角色互相成就的演员",
+      "onboard_time": 1664307732,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 18785,
       "num": 18785,
       "word": "思文单身让人变美",
       "onboard_time": 1664285543,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 17197,
-      "num": 17197,
-      "word": "与角色互相成就的演员",
-      "onboard_time": 1664307732,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 16691,
@@ -507,28 +523,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 14265,
-      "num": 14265,
-      "word": "张镇麟续约辽宁男篮四年",
-      "onboard_time": 1664313369,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 11754,
-      "num": 11754,
-      "word": "数名老人组团赶场拦婚车讨红包",
-      "onboard_time": 1664316372,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9251,
-      "num": 9251,
+      "raw_hot": 14644,
+      "num": 14644,
       "word": "湖人定妆照",
       "onboard_time": 1664313430,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 10807,
+      "num": 14639,
+      "word": "胡夏官宣天地诗心",
+      "onboard_time": 1664316193,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 8179,
@@ -537,14 +545,6 @@
       "onboard_time": 1664306471,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 7802,
-      "num": 9249,
-      "word": "胡夏官宣天地诗心",
-      "onboard_time": 1664316193,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 6999,
