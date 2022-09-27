@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664254764045,
+  "endTime": 1664258630152,
   "band_list": [
     {
       "raw_hot": 4711055,
@@ -57,6 +57,14 @@
       "onboard_time": 1664187866,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2245838,
+      "num": 2245838,
+      "word": "大学生校内10元买彩票中25万",
+      "onboard_time": 1664252725,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2215398,
@@ -233,6 +241,14 @@
       "onboard_time": 1664175443,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1008109,
+      "num": 1008109,
+      "word": "iPhone14Pro被吐槽信号差",
+      "onboard_time": 1664253447,
+      "rank": 36,
+      "category": "科技"
     },
     {
       "raw_hot": 988755,
@@ -467,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 639626,
+      "num": 639626,
+      "word": "90%以上学生能在规定时间完成书面作业",
+      "onboard_time": 1664253630,
+      "rank": 47,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 639610,
       "num": 639610,
       "word": "研究发现熬夜导致肥胖的原因",
@@ -539,8 +563,8 @@
       "category": "军事,国外要闻"
     },
     {
-      "raw_hot": 576475,
-      "num": 576475,
+      "raw_hot": 586657,
+      "num": 586657,
       "word": "天津新增42例本土阳性感染者",
       "onboard_time": 1664252247,
       "rank": 18,
@@ -569,22 +593,6 @@
       "onboard_time": 1664183905,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 554605,
-      "num": 554605,
-      "word": "大学生校内10元买彩票中25万",
-      "onboard_time": 1664252725,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 548317,
-      "num": 548317,
-      "word": "iPhone14Pro被吐槽信号差",
-      "onboard_time": 1664253447,
-      "rank": 36,
-      "category": "科技"
     },
     {
       "raw_hot": 547365,
@@ -625,6 +633,14 @@
       "onboard_time": 1664155944,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 533991,
+      "num": 399524,
+      "word": "张雨绮说雪莉杨一部更比一部辣",
+      "onboard_time": 1664257404,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 526933,
@@ -699,11 +715,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 481293,
+      "num": 481293,
+      "word": "半身麻醉手术状态下听到的",
+      "onboard_time": 1664253269,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 477738,
       "num": 477738,
       "word": "灵动岛将支持实时体育比分",
       "onboard_time": 1664240667,
       "rank": 6,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 474252,
+      "num": 388577,
+      "word": "iPhone15Ultra或采用双前置摄像头",
+      "onboard_time": 1664255367,
+      "rank": 13,
       "category": "科技"
     },
     {
@@ -835,6 +867,14 @@
       "category": "国内要闻,国外要闻"
     },
     {
+      "raw_hot": 416425,
+      "num": 416425,
+      "word": "李承铉说喜欢一个人会自带滤镜",
+      "onboard_time": 1664256385,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 409797,
       "num": 312051,
       "word": "大学生用肯德基优惠券漏洞诈骗获刑",
@@ -915,6 +955,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 380480,
+      "num": 380480,
+      "word": "虞书欣分享两个人的小森林团建vlog",
+      "onboard_time": 1664257704,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 380382,
       "num": 380382,
       "word": "长相思三对cp",
@@ -961,6 +1009,14 @@
       "onboard_time": 1664173825,
       "rank": 44,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 360895,
+      "num": 360895,
+      "word": "罗云熙白鹿发博庆祝半糖开播两周年",
+      "onboard_time": 1664257583,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 359979,
@@ -1491,6 +1547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 228798,
+      "num": 228798,
+      "word": "中国女篮vs比利时女篮",
+      "onboard_time": 1664253806,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 228212,
       "num": 228212,
       "word": "周传雄陆虎马嘉祺唱往事随风",
@@ -1681,14 +1745,6 @@
       "onboard_time": 1664249606,
       "rank": 30,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 196658,
-      "num": 196658,
-      "word": "中国女篮vs比利时女篮",
-      "onboard_time": 1664253806,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 195297,
@@ -1931,14 +1987,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 162190,
-      "num": 162190,
-      "word": "90%以上学生能在规定时间完成书面作业",
-      "onboard_time": 1664253630,
-      "rank": 47,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 160527,
       "num": 160527,
       "word": "毒蛇咬伤散步男子民警将速度拉满",
@@ -2019,6 +2067,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152230,
+      "num": 152230,
+      "word": "85岁老人摆摊卖菜救重病孙女",
+      "onboard_time": 1664254707,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151974,
+      "num": 151974,
+      "word": "昆明本轮疫情传播源头尚未查清",
+      "onboard_time": 1664255068,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148718,
       "num": 148718,
       "word": "AirPodsPro2用户反馈随机断连",
@@ -2075,6 +2139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143148,
+      "num": 143148,
+      "word": "邢菲翟子路落日大片",
+      "onboard_time": 1664256265,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 142808,
       "num": 142808,
       "word": "9月26日新增本土无症状636例",
@@ -2129,14 +2201,6 @@
       "onboard_time": 1664201429,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 133264,
-      "num": 106569,
-      "word": "85岁老人摆摊卖菜救重病孙女",
-      "onboard_time": 1664254707,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132881,
@@ -2299,6 +2363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 119053,
+      "num": 119053,
+      "word": "上机考试鼠标自己答题",
+      "onboard_time": 1664256265,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118721,
       "num": 118721,
       "word": "王俊凯说新时代的力量是必不可少",
@@ -2313,14 +2385,6 @@
       "onboard_time": 1664247024,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 117465,
-      "num": 117465,
-      "word": "半身麻醉手术状态下听到的",
-      "onboard_time": 1664253269,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 116476,
@@ -2369,6 +2433,14 @@
       "onboard_time": 1664150487,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 109259,
+      "num": 109259,
+      "word": "光遇",
+      "onboard_time": 1664257764,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 108629,
@@ -2651,6 +2723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 75425,
+      "num": 75425,
+      "word": "真的不要再自我怀疑了",
+      "onboard_time": 1664258602,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 75068,
       "num": 379765,
       "word": "甘宇说绝望时想念家人让他活下来",
@@ -2779,6 +2859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33195,
+      "num": 385289,
+      "word": "地图上看城市最美夜景",
+      "onboard_time": 1664258425,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30141,
       "num": 30141,
       "word": "曾经暖到你的一句歌词",
@@ -2793,6 +2881,14 @@
       "onboard_time": 1664214074,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 20652,
+      "num": 1017313,
+      "word": "中国航天3天3连发",
+      "onboard_time": 1664240366,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 19535,
@@ -3105,6 +3201,14 @@
       "onboard_time": 1664251227,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1018,
+      "num": 143706,
+      "word": "魔兽世界巫妖王之怒",
+      "onboard_time": 1664254825,
+      "rank": 34,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [
@@ -3119,6 +3223,9 @@
     },
     {
       "word": "#习近平的体育外交故事#"
+    },
+    {
+      "word": "#聚焦二十大#"
     }
   ]
 }
