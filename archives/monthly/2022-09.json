@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1664301383134,
+  "endTime": 1664303750867,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -51755,8 +51755,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 61458,
-      "num": 61458,
+      "raw_hot": 61751,
+      "num": 61751,
       "word": "热水袋成欧洲过冬神器",
       "onboard_time": 1664298496,
       "rank": 31,
@@ -52737,6 +52737,14 @@
       "onboard_time": 1663135229,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20018,
+      "num": 20018,
+      "word": "小狗之间也有悄悄话",
+      "onboard_time": 1664302514,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 19933,

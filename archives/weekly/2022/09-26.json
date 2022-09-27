@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664301383134,
+  "endTime": 1664303750867,
   "band_list": [
     {
       "raw_hot": 4711055,
@@ -3723,19 +3723,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 61751,
+      "num": 61751,
+      "word": "热水袋成欧洲过冬神器",
+      "onboard_time": 1664298496,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61736,
       "num": 61736,
       "word": "得知邻桌庆生男子专门买玩偶相赠",
       "onboard_time": 1664106324,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 61458,
-      "num": 61458,
-      "word": "热水袋成欧洲过冬神器",
-      "onboard_time": 1664298496,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -3856,6 +3856,14 @@
       "word": "这猫看起来很有心眼",
       "onboard_time": 1664214074,
       "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 20018,
+      "num": 20018,
+      "word": "小狗之间也有悄悄话",
+      "onboard_time": 1664302514,
+      "rank": 35,
       "category": "幽默"
     },
     {
