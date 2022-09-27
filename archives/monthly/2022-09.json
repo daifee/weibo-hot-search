@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1664298389476,
+  "endTime": 1664300406920,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -7088,6 +7088,14 @@
       "word": "女孩带薪撸猫月薪6000元",
       "onboard_time": 1663383147,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1090297,
+      "num": 1090297,
+      "word": "苏州发布紧急报备提醒",
+      "onboard_time": 1664295860,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -24595,14 +24603,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 360161,
-      "num": 360161,
-      "word": "苏州发布紧急报备提醒",
-      "onboard_time": 1664295860,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 359979,
       "num": 359979,
       "word": "万里归途",
@@ -33971,6 +33971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 252545,
+      "num": 252545,
+      "word": "熬夜是现代人的病还是药",
+      "onboard_time": 1664294782,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 252473,
       "num": 252473,
       "word": "马嘉祺清唱要你管",
@@ -42945,14 +42953,6 @@
       "onboard_time": 1662696451,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 169267,
-      "num": 169267,
-      "word": "熬夜是现代人的病还是药",
-      "onboard_time": 1664294782,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 169237,
@@ -52209,6 +52209,14 @@
       "onboard_time": 1663260320,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 41529,
+      "num": 41529,
+      "word": "热水袋成欧洲过冬神器",
+      "onboard_time": 1664298496,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41528,
