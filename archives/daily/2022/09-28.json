@@ -1,6 +1,6 @@
 {
   "startTime": 1664296789399,
-  "endTime": 1664296789399,
+  "endTime": 1664298389476,
   "band_list": [
     {
       "raw_hot": 1296652,
@@ -11,7 +11,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 964647,
+      "raw_hot": 966041,
       "num": 377320,
       "word": "晕车终于有救了",
       "onboard_time": 1664287349,
@@ -35,8 +35,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 434755,
-      "num": 256662,
+      "raw_hot": 487115,
+      "num": 272921,
       "word": "花5万元请人直播带货只卖出36元",
       "onboard_time": 1664294663,
       "rank": 11,
@@ -64,6 +64,14 @@
       "word": "睡前刷手机会降低夜间睡眠质量",
       "onboard_time": 1664281223,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 360161,
+      "num": 360161,
+      "word": "苏州发布紧急报备提醒",
+      "onboard_time": 1664295860,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -155,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169267,
+      "num": 169267,
+      "word": "熬夜是现代人的病还是药",
+      "onboard_time": 1664294782,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 155883,
       "num": 142069,
       "word": "任嘉伦李沁无效吻戏",
@@ -187,14 +203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 130842,
-      "num": 130842,
-      "word": "熬夜是现代人的病还是药",
-      "onboard_time": 1664294782,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 130589,
       "num": 130589,
       "word": "微信本可少占用大量空间",
@@ -209,14 +217,6 @@
       "onboard_time": 1664277025,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 117074,
-      "num": 117074,
-      "word": "苏州发布紧急报备提醒",
-      "onboard_time": 1664295860,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 114107,
@@ -243,20 +243,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 81367,
+      "num": 81367,
+      "word": "影视业天生的女兵王蒋璐霞",
+      "onboard_time": 1664294364,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 79696,
       "num": 79696,
       "word": "用胡说八道来避免社交",
       "onboard_time": 1664285784,
       "rank": 29,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 77849,
-      "num": 77849,
-      "word": "影视业天生的女兵王蒋璐霞",
-      "onboard_time": 1664294364,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 77632,
@@ -401,11 +401,22 @@
       "onboard_time": 1664289627,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 29934,
+      "num": 29934,
+      "word": "刘德华莫斯科行动复古造型",
+      "onboard_time": 1664279243,
+      "rank": 49,
+      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
     {
       "word": "#聚焦二十大#"
+    },
+    {
+      "word": "#这部巨著我们共同书写#"
     }
   ]
 }
