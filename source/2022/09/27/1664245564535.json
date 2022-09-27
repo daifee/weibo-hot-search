@@ -1,0 +1,410 @@
+{
+  "runTime": 1664245564535,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1345972,
+        "num": 1345972,
+        "word": "人生大事最终票房",
+        "onboard_time": 1664243484,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1173100,
+        "num": 1173100,
+        "word": "删掉很重要的人是什么感觉",
+        "onboard_time": 1664192426,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 12164,
+        "num": 899049,
+        "word": "保障粮食安全让中国饭碗端得更稳",
+        "onboard_time": 1664179824,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 667566,
+        "num": 667566,
+        "word": "普京授予斯诺登俄罗斯公民身份",
+        "onboard_time": 1664237726,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 634370,
+        "num": 634370,
+        "word": "小区24楼掉下哈士奇砸伤老人孩子",
+        "onboard_time": 1664213534,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 543809,
+        "num": 543809,
+        "word": "电影搜救定档国庆",
+        "onboard_time": 1664242525,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 477738,
+        "num": 477738,
+        "word": "灵动岛将支持实时体育比分",
+        "onboard_time": 1664240667,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 430487,
+        "num": 430487,
+        "word": "甘宇失联17天瘦了近40斤",
+        "onboard_time": 1664200949,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403182,
+        "num": 403182,
+        "word": "专家推荐十三二一零完美睡眠公式",
+        "onboard_time": 1664239648,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359979,
+        "num": 359979,
+        "word": "万里归途",
+        "onboard_time": 1664243365,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1552023,
+        "num": 347877,
+        "word": "女子流产5次分手后被索要退还12万",
+        "onboard_time": 1664238686,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383859,
+        "num": 336700,
+        "word": "女子全职带娃10年离婚补偿10万",
+        "onboard_time": 1664243663,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294952,
+        "num": 294952,
+        "word": "大学生用肯德基优惠券漏洞诈骗获刑",
+        "onboard_time": 1664209101,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284308,
+        "num": 284308,
+        "word": "原来红薯还能这么美",
+        "onboard_time": 1664239708,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 281417,
+        "num": 281417,
+        "word": "教育部支持河南省设立高等学校",
+        "onboard_time": 1664236342,
+        "rank": 14,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 274126,
+        "num": 274126,
+        "word": "云南在集中隔离点发现确诊病例9例",
+        "onboard_time": 1664240487,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268155,
+        "num": 268155,
+        "word": "MAMAMOO将于10月11日回归",
+        "onboard_time": 1664237726,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267320,
+        "num": 267320,
+        "word": "美宇宙飞船撞击小行星",
+        "onboard_time": 1664237606,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 253768,
+        "num": 253768,
+        "word": "修锁师傅为证明锁没坏关门反被困",
+        "onboard_time": 1664241205,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206203,
+        "num": 206203,
+        "word": "安徽卫视一个神奇的电视台",
+        "onboard_time": 1664199867,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204964,
+        "num": 204964,
+        "word": "男观众说见王俊凯一次哭一次",
+        "onboard_time": 1664233879,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195297,
+        "num": 195297,
+        "word": "沈月手绘新剧海报",
+        "onboard_time": 1664245046,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181801,
+        "num": 181801,
+        "word": "为什么总有男明星沉迷霸总叙事",
+        "onboard_time": 1664204669,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178096,
+        "num": 178096,
+        "word": "埋头干饭的小猫咪",
+        "onboard_time": 1664240247,
+        "rank": 23,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 176793,
+        "num": 176793,
+        "word": "男子脚踢抢食猴子遭满山追打",
+        "onboard_time": 1664214014,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168226,
+        "num": 168226,
+        "word": "女子吃完夜宵回家遇肥猫做卷腹",
+        "onboard_time": 1664244444,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167852,
+        "num": 167852,
+        "word": "大学生真的很需要这门课",
+        "onboard_time": 1664187866,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165976,
+        "num": 165976,
+        "word": "俄罗斯校园枪击案已造成13人死亡",
+        "onboard_time": 1664235982,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165431,
+        "num": 165431,
+        "word": "有个缺德的朋友是什么体验",
+        "onboard_time": 1664237306,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154258,
+        "num": 154258,
+        "word": "3岁小孩踢金毛家长在旁边大笑",
+        "onboard_time": 1664221692,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152854,
+        "num": 152854,
+        "word": "9月26日新增确诊245例",
+        "onboard_time": 1664244804,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142808,
+        "num": 142808,
+        "word": "9月26日新增本土无症状636例",
+        "onboard_time": 1664241984,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140946,
+        "num": 140946,
+        "word": "虞美人分手自救清醒指南",
+        "onboard_time": 1664205926,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128738,
+        "num": 128738,
+        "word": "独行月球密钥延期至1029",
+        "onboard_time": 1664237904,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123051,
+        "num": 123051,
+        "word": "万里归途预售票房破1000万",
+        "onboard_time": 1664238205,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 105666,
+        "num": 105666,
+        "word": "普京解除俄常驻欧盟代表职务",
+        "onboard_time": 1664218632,
+        "rank": 35,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 104205,
+        "num": 104205,
+        "word": "学校回应保安打死喂奶狗妈妈",
+        "onboard_time": 1664191344,
+        "rank": 36,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 102177,
+        "num": 102177,
+        "word": "新生儿采足底血爸爸心疼抹泪",
+        "onboard_time": 1664195906,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96977,
+        "num": 96977,
+        "word": "AirPodsPro2用户反馈随机断连",
+        "onboard_time": 1664228052,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 7214,
+        "num": 92990,
+        "word": "用虚拟人导航是种什么体验",
+        "onboard_time": 1664244024,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92716,
+        "num": 92716,
+        "word": "男子地下车库练摩托车撞400万宾利",
+        "onboard_time": 1664212755,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90865,
+        "num": 90865,
+        "word": "你安全吗全员换小蓝头像",
+        "onboard_time": 1664236464,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 90586,
+        "num": 90586,
+        "word": "樊振东多球训练眼花缭乱",
+        "onboard_time": 1664245163,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88327,
+        "num": 88327,
+        "word": "湖人媒体日",
+        "onboard_time": 1664240844,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85895,
+        "num": 85895,
+        "word": "1只蟑螂1年可繁衍出1000万只蟑螂",
+        "onboard_time": 1664196266,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83965,
+        "num": 83965,
+        "word": "任嘉伦请君下线了10分钟又上线",
+        "onboard_time": 1664198124,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 81762,
+        "num": 81762,
+        "word": "女子产后3个月发现又怀孕2个月",
+        "onboard_time": 1664175202,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82671,
+        "num": 81405,
+        "word": "火锅店把吃剩锅底重新端给顾客",
+        "onboard_time": 1664245523,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80848,
+        "num": 80848,
+        "word": "大妈带狗不栓绳保安一网兜走狗",
+        "onboard_time": 1664223250,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76846,
+        "num": 76846,
+        "word": "人类第一个行星防御任务",
+        "onboard_time": 1664239527,
+        "rank": 49,
+        "category": "科技,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的体育外交故事#"
+    }
+  }
+}

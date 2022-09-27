@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664236138700,
+  "endTime": 1664245564535,
   "band_list": [
     {
       "raw_hot": 4711055,
@@ -75,6 +75,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1552023,
+      "num": 347877,
+      "word": "女子流产5次分手后被索要退还12万",
+      "onboard_time": 1664238686,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1517045,
       "num": 1033333,
       "word": "官方通报防疫人员将居民大米倒垃圾桶",
@@ -111,6 +119,14 @@
       "num": 1360762,
       "word": "你薅的羊毛可能是违法的",
       "onboard_time": 1664151987,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1345972,
+      "num": 1345972,
+      "word": "人生大事最终票房",
+      "onboard_time": 1664243484,
       "rank": 0,
       "category": "影视"
     },
@@ -363,6 +379,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 667566,
+      "num": 667566,
+      "word": "普京授予斯诺登俄罗斯公民身份",
+      "onboard_time": 1664237726,
+      "rank": 3,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 664788,
       "num": 664788,
       "word": "韩国将翻拍非自然死亡",
@@ -459,6 +483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 543809,
+      "num": 543809,
+      "word": "电影搜救定档国庆",
+      "onboard_time": 1664242525,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 538267,
       "num": 538267,
       "word": "高校通报新生入学3天篮球场猝死",
@@ -537,6 +569,14 @@
       "onboard_time": 1664204669,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 477738,
+      "num": 477738,
+      "word": "灵动岛将支持实时体育比分",
+      "onboard_time": 1664240667,
+      "rank": 6,
+      "category": "科技"
     },
     {
       "raw_hot": 472158,
@@ -651,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 403182,
+      "num": 403182,
+      "word": "专家推荐十三二一零完美睡眠公式",
+      "onboard_time": 1664239648,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 400705,
       "num": 400705,
       "word": "辉瑞CEO已打4针自家新冠疫苗",
@@ -681,6 +729,14 @@
       "onboard_time": 1664150305,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 383859,
+      "num": 336700,
+      "word": "女子全职带娃10年离婚补偿10万",
+      "onboard_time": 1664243663,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 383280,
@@ -745,6 +801,14 @@
       "onboard_time": 1664173825,
       "rank": 44,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 359979,
+      "num": 359979,
+      "word": "万里归途",
+      "onboard_time": 1664243365,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 354805,
@@ -923,12 +987,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 284308,
+      "num": 284308,
+      "word": "原来红薯还能这么美",
+      "onboard_time": 1664239708,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 282293,
       "num": 282293,
       "word": "男子被啤酒瓶盖卡喉用馒头咽下",
       "onboard_time": 1664181023,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281417,
+      "num": 281417,
+      "word": "教育部支持河南省设立高等学校",
+      "onboard_time": 1664236342,
+      "rank": 14,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 280896,
@@ -955,6 +1035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 274126,
+      "num": 274126,
+      "word": "云南在集中隔离点发现确诊病例9例",
+      "onboard_time": 1664240487,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271570,
       "num": 237568,
       "word": "长空之王将全国路演",
@@ -977,6 +1065,22 @@
       "onboard_time": 1664218632,
       "rank": 20,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 268155,
+      "num": 268155,
+      "word": "MAMAMOO将于10月11日回归",
+      "onboard_time": 1664237726,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 267320,
+      "num": 267320,
+      "word": "美宇宙飞船撞击小行星",
+      "onboard_time": 1664237606,
+      "rank": 17,
+      "category": "科技"
     },
     {
       "raw_hot": 265895,
@@ -1025,6 +1129,14 @@
       "onboard_time": 1664197105,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 253768,
+      "num": 253768,
+      "word": "修锁师傅为证明锁没坏关门反被困",
+      "onboard_time": 1664241205,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248596,
@@ -1339,6 +1451,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 195297,
+      "num": 195297,
+      "word": "沈月手绘新剧海报",
+      "onboard_time": 1664245046,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 194366,
       "num": 194366,
       "word": "中国航天2天2连发",
@@ -1417,6 +1537,14 @@
       "onboard_time": 1664150186,
       "rank": 22,
       "category": "科技"
+    },
+    {
+      "raw_hot": 178096,
+      "num": 178096,
+      "word": "埋头干饭的小猫咪",
+      "onboard_time": 1664240247,
+      "rank": 23,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 177978,
@@ -1499,6 +1627,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 168226,
+      "num": 168226,
+      "word": "女子吃完夜宵回家遇肥猫做卷腹",
+      "onboard_time": 1664244444,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167980,
       "num": 167980,
       "word": "黑洞里会是另一个世界吗",
@@ -1513,6 +1649,22 @@
       "onboard_time": 1664199628,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165976,
+      "num": 165976,
+      "word": "俄罗斯校园枪击案已造成13人死亡",
+      "onboard_time": 1664235982,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165431,
+      "num": 165431,
+      "word": "有个缺德的朋友是什么体验",
+      "onboard_time": 1664237306,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 164143,
@@ -1603,6 +1755,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 152854,
+      "num": 152854,
+      "word": "9月26日新增确诊245例",
+      "onboard_time": 1664244804,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152401,
       "num": 152401,
       "word": "女篮世界杯",
@@ -1657,6 +1817,14 @@
       "onboard_time": 1664109626,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142808,
+      "num": 142808,
+      "word": "9月26日新增本土无症状636例",
+      "onboard_time": 1664241984,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140568,
@@ -1739,6 +1907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128738,
+      "num": 128738,
+      "word": "独行月球密钥延期至1029",
+      "onboard_time": 1664237904,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 128587,
       "num": 128587,
       "word": "男子地下车库练摩托车撞400万宾利",
@@ -1801,6 +1977,14 @@
       "onboard_time": 1664148082,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123051,
+      "num": 123051,
+      "word": "万里归途预售票房破1000万",
+      "onboard_time": 1664238205,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 122423,
@@ -2003,11 +2187,27 @@
       "category": "科技"
     },
     {
+      "raw_hot": 90865,
+      "num": 90865,
+      "word": "你安全吗全员换小蓝头像",
+      "onboard_time": 1664236464,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 90863,
       "num": 90863,
       "word": "勇士媒体日",
       "onboard_time": 1664157747,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 90586,
+      "num": 90586,
+      "word": "樊振东多球训练眼花缭乱",
+      "onboard_time": 1664245163,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -2017,6 +2217,14 @@
       "onboard_time": 1664209760,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 88327,
+      "num": 88327,
+      "word": "湖人媒体日",
+      "onboard_time": 1664240844,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 87370,
@@ -2049,6 +2257,14 @@
       "onboard_time": 1664159124,
       "rank": 45,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 82671,
+      "num": 81405,
+      "word": "火锅店把吃剩锅底重新端给顾客",
+      "onboard_time": 1664245523,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 81690,
@@ -2097,6 +2313,14 @@
       "onboard_time": 1664228772,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 76846,
+      "num": 76846,
+      "word": "人类第一个行星防御任务",
+      "onboard_time": 1664239527,
+      "rank": 49,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 76648,
@@ -2243,14 +2467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 44814,
-      "num": 44814,
-      "word": "俄罗斯校园枪击案已造成13人死亡",
-      "onboard_time": 1664235982,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 30141,
       "num": 30141,
       "word": "曾经暖到你的一句歌词",
@@ -2393,6 +2609,14 @@
       "onboard_time": 1664226371,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 7214,
+      "num": 92990,
+      "word": "用虚拟人导航是种什么体验",
+      "onboard_time": 1664244024,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 6637,
