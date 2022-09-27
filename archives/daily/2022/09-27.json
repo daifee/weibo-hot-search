@@ -1,6 +1,6 @@
 {
   "startTime": 1664210185188,
-  "endTime": 1664285241080,
+  "endTime": 1664287167174,
   "band_list": [
     {
       "raw_hot": 2771808,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1640857,
-      "num": 405641,
+      "num": 451035,
       "word": "韩剧",
       "onboard_time": 1664278525,
       "rank": 18,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 849286,
-      "num": 265672,
+      "num": 282827,
       "word": "肖战骄阳伴我白衬衫侧颜路透图",
       "onboard_time": 1664278105,
       "rank": 20,
@@ -201,6 +201,14 @@
       "onboard_time": 1664213534,
       "rank": 48,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 811452,
+      "num": 811452,
+      "word": "张彬彬抄写100遍对不起",
+      "onboard_time": 1664284824,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 780923,
@@ -233,6 +241,14 @@
       "onboard_time": 1664258844,
       "rank": 34,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 689143,
+      "num": 689143,
+      "word": "睡前刷手机会降低夜间睡眠质量",
+      "onboard_time": 1664281223,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 687291,
@@ -289,6 +305,14 @@
       "onboard_time": 1664248526,
       "rank": 6,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 613433,
+      "num": 613433,
+      "word": "男子网恋奔现后发现对象已当外婆",
+      "onboard_time": 1664283085,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 613058,
@@ -411,14 +435,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 477895,
-      "num": 477895,
-      "word": "睡前刷手机会降低夜间睡眠质量",
-      "onboard_time": 1664281223,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 477738,
       "num": 477738,
       "word": "灵动岛将支持实时体育比分",
@@ -459,12 +475,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 466700,
+      "num": 451035,
+      "word": "鞠婧祎捐款50万用于给女性提供HPV疫苗",
+      "onboard_time": 1664286867,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 460312,
       "num": 460312,
       "word": "脱口秀大会",
       "onboard_time": 1664282481,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 451051,
+      "num": 451051,
+      "word": "经济学家称消费不是刺激出来的",
+      "onboard_time": 1664283324,
+      "rank": 25,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 445524,
@@ -513,6 +545,14 @@
       "onboard_time": 1664248643,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 424227,
+      "num": 424227,
+      "word": "中介伪装房东9年骗走老人1050万",
+      "onboard_time": 1664285066,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 420318,
@@ -635,6 +675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 353389,
+      "num": 353389,
+      "word": "养了十几年的狗狗去世前默默离家",
+      "onboard_time": 1664282603,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 348143,
       "num": 348143,
       "word": "杜德伟母亲是给我一个吻原唱",
@@ -657,14 +705,6 @@
       "onboard_time": 1664248045,
       "rank": 15,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 330448,
-      "num": 330448,
-      "word": "养了十几年的狗狗去世前默默离家",
-      "onboard_time": 1664282603,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 326949,
@@ -699,20 +739,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 305204,
+      "num": 305204,
+      "word": "李建平一审被判死刑",
+      "onboard_time": 1664286146,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297269,
       "num": 297269,
       "word": "上机考试鼠标自己答题",
       "onboard_time": 1664256265,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 296646,
-      "num": 296646,
-      "word": "张彬彬抄写100遍对不起",
-      "onboard_time": 1664284824,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 294424,
@@ -736,14 +776,6 @@
       "word": "家中停电门打不开男子砸墙送娃上学",
       "onboard_time": 1664247144,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 288404,
-      "num": 288404,
-      "word": "男子网恋奔现后发现对象已当外婆",
-      "onboard_time": 1664283085,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -995,6 +1027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 210797,
+      "num": 210797,
+      "word": "小茉莉",
+      "onboard_time": 1664286445,
+      "rank": 25,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 202899,
       "num": 202899,
       "word": "研究称VR能缓解焦虑",
@@ -1011,20 +1051,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200561,
+      "num": 149863,
+      "word": "思文单身让人变美",
+      "onboard_time": 1664285543,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198689,
       "num": 198689,
       "word": "学生发型不达标校门口排队理发",
       "onboard_time": 1664226550,
       "rank": 32,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 197882,
-      "num": 197882,
-      "word": "经济学家称消费不是刺激出来的",
-      "onboard_time": 1664283324,
-      "rank": 25,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 197500,
@@ -1267,6 +1307,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 150029,
+      "num": 150029,
+      "word": "中国女排3比0战胜哥伦比亚",
+      "onboard_time": 1664285665,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149834,
       "num": 149834,
       "word": "虞美人庄羽酒醉吻",
@@ -1347,12 +1395,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 134578,
+      "num": 134578,
+      "word": "用胡说八道来避免社交",
+      "onboard_time": 1664285784,
+      "rank": 34,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 133063,
       "num": 133063,
       "word": "真的不要再自我怀疑了",
       "onboard_time": 1664258602,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 131887,
+      "num": 131887,
+      "word": "这采访比小品还好笑",
+      "onboard_time": 1664284646,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 128738,
@@ -1507,12 +1571,12 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 108389,
-      "num": 108389,
-      "word": "这采访比小品还好笑",
-      "onboard_time": 1664284646,
+      "raw_hot": 107705,
+      "num": 107705,
+      "word": "浙江省运会男足球员追打裁判",
+      "onboard_time": 1664285543,
       "rank": 39,
-      "category": "幽默"
+      "category": "体育"
     },
     {
       "raw_hot": 104504,
@@ -1521,6 +1585,22 @@
       "onboard_time": 1664245163,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103615,
+      "num": 103615,
+      "word": "减肥后的心情起伏有多大",
+      "onboard_time": 1664285425,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 103158,
+      "num": 877625,
+      "word": "二十大代表是怎么选出来的",
+      "onboard_time": 1664282366,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 102033,
@@ -1585,14 +1665,6 @@
       "onboard_time": 1664228230,
       "rank": 48,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 91152,
-      "num": 877625,
-      "word": "二十大代表是怎么选出来的",
-      "onboard_time": 1664282366,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 90865,
@@ -1697,14 +1769,6 @@
       "onboard_time": 1664239527,
       "rank": 49,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 74140,
-      "num": 74140,
-      "word": "中介伪装房东9年骗走老人1050万",
-      "onboard_time": 1664285066,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 73914,
@@ -1956,7 +2020,7 @@
     },
     {
       "raw_hot": 10742,
-      "num": 337370,
+      "num": 425684,
       "word": "VR到底能干什么",
       "onboard_time": 1664283624,
       "rank": 14,
