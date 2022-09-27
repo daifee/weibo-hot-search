@@ -1,6 +1,6 @@
 {
   "startTime": 1664210185188,
-  "endTime": 1664265586870,
+  "endTime": 1664267918180,
   "band_list": [
     {
       "raw_hot": 2771808,
@@ -41,6 +41,14 @@
       "onboard_time": 1664248285,
       "rank": 1,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 2121643,
+      "num": 2121643,
+      "word": "微信退群可选保留聊天记录",
+      "onboard_time": 1664263643,
+      "rank": 11,
+      "category": "科技"
     },
     {
       "raw_hot": 1935170,
@@ -123,12 +131,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 860066,
-      "num": 860066,
-      "word": "微信退群可选保留聊天记录",
-      "onboard_time": 1664263643,
-      "rank": 11,
-      "category": "科技"
+      "raw_hot": 989990,
+      "num": 989990,
+      "word": "头像会影响聊天欲吗",
+      "onboard_time": 1664264185,
+      "rank": 34,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 834822,
@@ -240,6 +248,14 @@
       "word": "陈哲远是捅了甜妹窝吧",
       "onboard_time": 1664264003,
       "rank": 13,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 545480,
+      "num": 295264,
+      "word": "网传孟子义任豪上元锦绣10月开机",
+      "onboard_time": 1664265805,
+      "rank": 11,
       "category": "作品衍生"
     },
     {
@@ -363,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 417187,
+      "num": 286741,
+      "word": "微信本可少占用大量空间",
+      "onboard_time": 1664267066,
+      "rank": 13,
+      "category": "科技"
+    },
+    {
       "raw_hot": 416425,
       "num": 416425,
       "word": "李承铉说喜欢一个人会自带滤镜",
@@ -451,12 +475,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 331929,
-      "num": 331929,
-      "word": "头像会影响聊天欲吗",
-      "onboard_time": 1664264185,
-      "rank": 34,
-      "category": "情感,幽默"
+      "raw_hot": 324642,
+      "num": 324642,
+      "word": "萌娃生气将爸爸新买万元手机摔地上",
+      "onboard_time": 1664263883,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 316143,
@@ -465,6 +489,14 @@
       "onboard_time": 1664200765,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310960,
+      "num": 209480,
+      "word": "BIBI新歌",
+      "onboard_time": 1664267485,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 309983,
@@ -603,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254153,
+      "num": 254153,
+      "word": "你抽到Faker了吗",
+      "onboard_time": 1664265745,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 253768,
       "num": 253768,
       "word": "修锁师傅为证明锁没坏关门反被困",
@@ -624,6 +664,14 @@
       "word": "3千买的移动电源充电时连续爆炸",
       "onboard_time": 1664251347,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247382,
+      "num": 247382,
+      "word": "公安部新闻发布会",
+      "onboard_time": 1664263763,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -675,20 +723,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 211307,
+      "num": 211307,
+      "word": "马里女篮队员内讧互殴",
+      "onboard_time": 1664265025,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200651,
       "num": 200651,
       "word": "心动的信号",
       "onboard_time": 1664262024,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 200647,
-      "num": 200647,
-      "word": "萌娃生气将爸爸新买万元手机摔地上",
-      "onboard_time": 1664263883,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 198689,
@@ -713,6 +761,14 @@
       "onboard_time": 1664245046,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 194816,
+      "num": 194816,
+      "word": "冬瓜竟然还能做出神仙饮品",
+      "onboard_time": 1664267244,
+      "rank": 22,
+      "category": "美食"
     },
     {
       "raw_hot": 191426,
@@ -800,6 +856,14 @@
       "word": "周琦重回墨尔本凤凰队",
       "onboard_time": 1664205266,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 158791,
+      "num": 158791,
+      "word": "就没有摆不平的小肚腩",
+      "onboard_time": 1664267785,
+      "rank": 28,
       "category": "体育"
     },
     {
@@ -939,14 +1003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 124013,
-      "num": 124013,
-      "word": "公安部新闻发布会",
-      "onboard_time": 1664263763,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 123051,
       "num": 123051,
       "word": "万里归途预售票房破1000万",
@@ -1033,14 +1089,6 @@
       "onboard_time": 1664257764,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 109156,
-      "num": 109156,
-      "word": "马里女篮队员内讧互殴",
-      "onboard_time": 1664265025,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 108629,
@@ -1163,6 +1211,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 80623,
+      "num": 80623,
+      "word": "当穿着玩偶服跳广播体操时",
+      "onboard_time": 1664265865,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 78190,
       "num": 78190,
       "word": "禁野2年后的华农兄弟",
@@ -1268,7 +1324,7 @@
     },
     {
       "raw_hot": 55766,
-      "num": 1017313,
+      "num": 1060037,
       "word": "中国航天3天3连发",
       "onboard_time": 1664240366,
       "rank": 2,
