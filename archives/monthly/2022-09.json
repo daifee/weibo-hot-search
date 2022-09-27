@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1664303750867,
+  "endTime": 1664305027698,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -52619,6 +52619,14 @@
       "category": "体育,财经"
     },
     {
+      "raw_hot": 24332,
+      "num": 24332,
+      "word": "被无人机表演惊艳到了",
+      "onboard_time": 1664304792,
+      "rank": 26,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 24295,
       "num": 24295,
       "word": "当一群社恐狗狗聚会",
@@ -52699,6 +52707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 22440,
+      "num": 22440,
+      "word": "小狗之间也有悄悄话",
+      "onboard_time": 1664302514,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 22357,
       "num": 22357,
       "word": "世界人工智能大会",
@@ -52737,14 +52753,6 @@
       "onboard_time": 1663135229,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20018,
-      "num": 20018,
-      "word": "小狗之间也有悄悄话",
-      "onboard_time": 1664302514,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 19933,
@@ -53199,6 +53207,14 @@
       "num": 9303,
       "word": "这些食物别生吃了",
       "onboard_time": 1663960092,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9064,
+      "num": 9064,
+      "word": "广州地铁一老外脱鞋抠脚",
+      "onboard_time": 1664304012,
       "rank": 49,
       "category": "社会新闻"
     },
