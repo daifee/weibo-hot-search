@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664332144129,
+  "endTime": 1664334959948,
   "band_list": [
     {
       "raw_hot": 4711055,
@@ -17,6 +17,14 @@
       "onboard_time": 1664286867,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3066346,
+      "num": 3066346,
+      "word": "朝阳群众又双叒叕立功了",
+      "onboard_time": 1664329343,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2803005,
@@ -131,16 +139,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1976804,
-      "num": 1976804,
-      "word": "朝阳群众又双叒叕立功了",
-      "onboard_time": 1664329343,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1939926,
-      "num": 894899,
+      "num": 1082502,
       "word": "晕车终于有救了",
       "onboard_time": 1664287349,
       "rank": 39,
@@ -169,6 +169,14 @@
       "onboard_time": 1664280144,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1559369,
+      "num": 1559369,
+      "word": "农民日报评一根玉米卖6元",
+      "onboard_time": 1664330604,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1552023,
@@ -272,6 +280,14 @@
       "word": "唐朝诡事录开播",
       "onboard_time": 1664246063,
       "rank": 1,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1296641,
+      "num": 1296641,
+      "word": "骄阳伴我官宣开机",
+      "onboard_time": 1664331684,
+      "rank": 12,
       "category": "影视"
     },
     {
@@ -795,6 +811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 602836,
+      "num": 602836,
+      "word": "离岸人民币兑美元跌破7.2",
+      "onboard_time": 1664331684,
+      "rank": 6,
+      "category": "财经"
+    },
+    {
       "raw_hot": 601518,
       "num": 601518,
       "word": "研究称坐着抖腿有助于减肥",
@@ -851,14 +875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 574432,
-      "num": 574432,
-      "word": "农民日报评一根玉米卖6元",
-      "onboard_time": 1664330604,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 560420,
       "num": 560420,
       "word": "老人坠床身亡护理院被判赔11万",
@@ -881,6 +897,14 @@
       "onboard_time": 1664264003,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 548006,
+      "num": 548006,
+      "word": "有钱鸭摆件",
+      "onboard_time": 1664330543,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 547365,
@@ -961,6 +985,22 @@
       "onboard_time": 1664257404,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 533700,
+      "num": 486574,
+      "word": "狐妖小红娘陈瑶女装路透",
+      "onboard_time": 1664331745,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 527856,
+      "num": 527856,
+      "word": "天津新增55例本土阳性感染者",
+      "onboard_time": 1664330783,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 526933,
@@ -1139,14 +1179,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 461600,
-      "num": 461600,
-      "word": "骄阳伴我官宣开机",
-      "onboard_time": 1664331684,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 460336,
       "num": 460336,
       "word": "Lisa黑长直造型直拍",
@@ -1177,6 +1209,14 @@
       "onboard_time": 1664169151,
       "rank": 11,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 451215,
+      "num": 451215,
+      "word": "苹果放弃增产iPhone",
+      "onboard_time": 1664333846,
+      "rank": 13,
+      "category": "科技"
     },
     {
       "raw_hot": 451165,
@@ -1451,6 +1491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 377608,
+      "num": 377608,
+      "word": "武汉部分区域调为中高风险区",
+      "onboard_time": 1664329944,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 376671,
       "num": 376671,
       "word": "南京小伙租豪车相亲遭拒",
@@ -1552,14 +1600,6 @@
       "word": "狗狗被蛇伤咬脸肿成狗熊",
       "onboard_time": 1664182585,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 344118,
-      "num": 344118,
-      "word": "天津新增55例本土阳性感染者",
-      "onboard_time": 1664330783,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -1683,14 +1723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 300608,
-      "num": 300608,
-      "word": "有钱鸭摆件",
-      "onboard_time": 1664330543,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 299212,
       "num": 299212,
       "word": "这辈子反应最快的一次",
@@ -1705,6 +1737,14 @@
       "onboard_time": 1664256265,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295402,
+      "num": 295402,
+      "word": "骄阳伴我",
+      "onboard_time": 1664333665,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 294424,
@@ -1955,14 +1995,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 263624,
-      "num": 263624,
-      "word": "武汉部分区域调为中高风险区",
-      "onboard_time": 1664329944,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 263101,
       "num": 263101,
       "word": "电视剧胡同开播收视",
@@ -2179,6 +2211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232943,
+      "num": 232943,
+      "word": "金晨新剧预约破百万",
+      "onboard_time": 1664333244,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 232883,
       "num": 232883,
       "word": "柯基的身高优势",
@@ -2193,6 +2233,14 @@
       "onboard_time": 1664184026,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 232266,
+      "num": 232266,
+      "word": "梅西3分钟2球",
+      "onboard_time": 1664333723,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 231016,
@@ -2299,6 +2347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 220131,
+      "num": 220131,
+      "word": "网约车司机绕道近1小时接乘客",
+      "onboard_time": 1664332644,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220021,
       "num": 220021,
       "word": "广州人才知道的早茶文化",
@@ -2401,6 +2457,14 @@
       "onboard_time": 1664250745,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 212327,
+      "num": 212327,
+      "word": "电动车卷对方向了吗",
+      "onboard_time": 1664330604,
+      "rank": 41,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 212068,
@@ -2640,6 +2704,14 @@
       "word": "村委会回应近百只山羊集体跳崖坠亡",
       "onboard_time": 1664178446,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183500,
+      "num": 183500,
+      "word": "阜阳疫情防控",
+      "onboard_time": 1664331983,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -2915,12 +2987,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 160430,
-      "num": 160430,
-      "word": "狐妖小红娘陈瑶女装路透",
-      "onboard_time": 1664331745,
-      "rank": 29,
-      "category": "作品衍生"
+      "raw_hot": 159723,
+      "num": 159723,
+      "word": "男生被老师摄像头点名秒送祝福",
+      "onboard_time": 1664334145,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159582,
@@ -3251,6 +3323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 136673,
+      "num": 136673,
+      "word": "海南三大网红海岛测评",
+      "onboard_time": 1664334444,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 136598,
       "num": 101283,
       "word": "金珉锡新曲BrandNew",
@@ -3299,19 +3379,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132470,
+      "num": 132470,
+      "word": "人在打工心已放假",
+      "onboard_time": 1664332763,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132436,
       "num": 132436,
       "word": "昆明2例新冠初筛阳性活动轨迹",
       "onboard_time": 1664142131,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131729,
-      "num": 131729,
-      "word": "阜阳疫情防控",
-      "onboard_time": 1664331983,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -3443,6 +3523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122376,
+      "num": 122376,
+      "word": "汶川男孩长成黄继光连新排长",
+      "onboard_time": 1664333003,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122301,
       "num": 122301,
       "word": "辽宁舰首批舰员给孩子取名多带航字",
@@ -3497,14 +3585,6 @@
       "onboard_time": 1664247024,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 117061,
-      "num": 119307,
-      "word": "电动车卷对方向了吗",
-      "onboard_time": 1664330604,
-      "rank": 41,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 116779,
@@ -3563,8 +3643,16 @@
       "category": "军事"
     },
     {
+      "raw_hot": 112080,
+      "num": 112080,
+      "word": "85后奶爸培养4岁孩子成天才车手",
+      "onboard_time": 1664334326,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110796,
-      "num": 935008,
+      "num": 1328865,
       "word": "二十大代表是怎么选出来的",
       "onboard_time": 1664282366,
       "rank": 2,
