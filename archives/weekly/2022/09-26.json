@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664350622049,
+  "endTime": 1664351630161,
   "band_list": [
     {
       "raw_hot": 4711055,
@@ -59,20 +59,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2574234,
+      "num": 2574234,
+      "word": "00后老师开始撕伞了",
+      "onboard_time": 1664344164,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2563332,
       "num": 2563332,
       "word": "频繁换头像是缺乏安全感吗",
       "onboard_time": 1664270784,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 2458260,
-      "num": 2458260,
-      "word": "00后老师开始撕伞了",
-      "onboard_time": 1664344164,
-      "rank": 7,
-      "category": "幽默"
     },
     {
       "raw_hot": 2390128,
@@ -1155,6 +1155,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 499405,
+      "num": 499405,
+      "word": "男孩放跑客人寄存宠物店的2万元猫",
+      "onboard_time": 1664347284,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 498920,
       "num": 498920,
       "word": "王鹤棣脸上涂了油彩",
@@ -1339,20 +1347,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 444695,
+      "num": 444695,
+      "word": "徐明浩跳了张艺兴面纱脚步舞",
+      "onboard_time": 1664350584,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 443473,
       "num": 443473,
       "word": "原神",
       "onboard_time": 1664189364,
       "rank": 7,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 442746,
-      "num": 442746,
-      "word": "男孩放跑客人寄存宠物店的2万元猫",
-      "onboard_time": 1664347284,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 442471,
@@ -1425,6 +1433,14 @@
       "onboard_time": 1664156485,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 418410,
+      "num": 355752,
+      "word": "杨丞琳说蔡徐坤本人比荧幕上帅",
+      "onboard_time": 1664351545,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 417800,
@@ -1699,6 +1715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 358407,
+      "num": 358407,
+      "word": "任泽平9天6次炮轰苹果",
+      "onboard_time": 1664347763,
+      "rank": 12,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 355032,
       "num": 355032,
       "word": "女孩经过爸爸生前单位哭着要看他",
@@ -1760,6 +1784,14 @@
       "word": "男子鸡骨卡喉喝醋吞饭致食道穿孔",
       "onboard_time": 1664184265,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 337936,
+      "num": 337936,
+      "word": "男孩火锅店狂奔被汤淋一身",
+      "onboard_time": 1664349382,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -1849,14 +1881,6 @@
       "onboard_time": 1664246783,
       "rank": 14,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 308971,
-      "num": 308971,
-      "word": "任泽平9天6次炮轰苹果",
-      "onboard_time": 1664347763,
-      "rank": 12,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 308123,
@@ -2208,14 +2232,6 @@
       "word": "张彬彬学虞书欣委屈脸",
       "onboard_time": 1664270485,
       "rank": 19,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 256051,
-      "num": 68849,
-      "word": "徐明浩跳了张艺兴面纱脚步舞",
-      "onboard_time": 1664350584,
-      "rank": 47,
       "category": "作品衍生"
     },
     {
@@ -2931,14 +2947,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 187964,
-      "num": 187964,
-      "word": "男孩火锅店狂奔被汤淋一身",
-      "onboard_time": 1664349382,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 187565,
       "num": 187565,
       "word": "王鹤棣新闻当事人专访",
@@ -3187,6 +3195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166260,
+      "num": 166260,
+      "word": "周亦安告状",
+      "onboard_time": 1664347763,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 165976,
       "num": 165976,
       "word": "俄罗斯校园枪击案已造成13人死亡",
@@ -3331,12 +3347,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157562,
+      "num": 157562,
+      "word": "真情侣在大荧幕上有多好嗑",
+      "onboard_time": 1664349984,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 157452,
       "num": 157452,
       "word": "蔓越莓为何在水里收",
       "onboard_time": 1664118210,
       "rank": 21,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 157157,
+      "num": 157157,
+      "word": "女性骑行人数增速约超男性2倍",
+      "onboard_time": 1664346444,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157039,
@@ -3419,14 +3451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 152048,
-      "num": 152048,
-      "word": "周亦安告状",
-      "onboard_time": 1664347763,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 151888,
       "num": 151888,
       "word": "这采访比小品还好笑",
@@ -3483,14 +3507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 148159,
-      "num": 148159,
-      "word": "女性骑行人数增速约超男性2倍",
-      "onboard_time": 1664346444,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148116,
       "num": 148116,
       "word": "休杰克曼加盟死侍3",
@@ -3521,6 +3537,14 @@
       "onboard_time": 1664195186,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 145931,
+      "num": 145931,
+      "word": "潘玮柏的减肥欺骗日一周有五天",
+      "onboard_time": 1664348244,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 144177,
@@ -3779,14 +3803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 126764,
-      "num": 126764,
-      "word": "真情侣在大荧幕上有多好嗑",
-      "onboard_time": 1664349984,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 126685,
       "num": 95167,
       "word": "姜涩琪概念预告",
@@ -3825,14 +3841,6 @@
       "onboard_time": 1664172205,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 125780,
-      "num": 125780,
-      "word": "潘玮柏的减肥欺骗日一周有五天",
-      "onboard_time": 1664348244,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 124995,
@@ -3953,6 +3961,14 @@
       "onboard_time": 1664288848,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 116551,
+      "num": 116551,
+      "word": "icon闯关鞋子掉了",
+      "onboard_time": 1664345842,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 116476,
@@ -4172,10 +4188,18 @@
     },
     {
       "raw_hot": 98443,
-      "num": 211337,
+      "num": 309032,
       "word": "买电动车你更看重什么",
       "onboard_time": 1664340029,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98026,
+      "num": 104008,
+      "word": "圈粉燃油党的电动车",
+      "onboard_time": 1664350765,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -4209,14 +4233,6 @@
       "onboard_time": 1664271624,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 94917,
-      "num": 94917,
-      "word": "icon闯关鞋子掉了",
-      "onboard_time": 1664345842,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 94873,
@@ -4280,6 +4296,14 @@
       "word": "勇士媒体日",
       "onboard_time": 1664157747,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 90672,
+      "num": 90672,
+      "word": "今晚看中国女排对战日本",
+      "onboard_time": 1664349682,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -4379,6 +4403,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 83112,
+      "num": 83112,
+      "word": "沉香重华",
+      "onboard_time": 1664141891,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 81690,
       "num": 81690,
       "word": "法考主观题延期",
@@ -4411,12 +4443,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 78830,
-      "num": 78830,
-      "word": "今晚看中国女排对战日本",
-      "onboard_time": 1664349682,
-      "rank": 42,
-      "category": "体育"
+      "raw_hot": 78540,
+      "num": 78540,
+      "word": "男子月薪九千不会用word被辞退",
+      "onboard_time": 1664351545,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 78260,
@@ -4513,6 +4545,14 @@
       "onboard_time": 1664349927,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71195,
+      "num": 71195,
+      "word": "奔驰车机推送卖车广告",
+      "onboard_time": 1664351484,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 69239,
@@ -5153,14 +5193,6 @@
       "onboard_time": 1664140751,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 4972,
-      "num": 5424,
-      "word": "沉香重华",
-      "onboard_time": 1664141891,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 4040,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/28 00:39:49 ~ 2022/09/28 15:37:02
+本榜单时间：2022/09/28 00:39:49 ~ 2022/09/28 15:53:50
 </p>
 </blockquote>
 <p>
@@ -28,7 +28,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%2300%E5%90%8E%E8%80%81%E5%B8%88%E5%BC%80%E5%A7%8B%E6%92%95%E4%BC%9E%E4%BA%86%23" target="weibo">
-00后老师开始撕伞了（热度：2458260）
+00后老师开始撕伞了（热度：2574234）
 </a>
 </li>
 
@@ -201,6 +201,12 @@ Steam取消农历新年特卖（热度：514749）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E6%94%BE%E8%B7%91%E5%AE%A2%E4%BA%BA%E5%AF%84%E5%AD%98%E5%AE%A0%E7%89%A9%E5%BA%97%E7%9A%842%E4%B8%87%E5%85%83%E7%8C%AB%23" target="weibo">
+男孩放跑客人寄存宠物店的2万元猫（热度：499405）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%84%B8%E4%B8%8A%E6%B6%82%E4%BA%86%E6%B2%B9%E5%BD%A9%23" target="weibo">
 王鹤棣脸上涂了油彩（热度：498920）
 </a>
@@ -225,14 +231,20 @@ Steam取消农历新年特卖（热度：514749）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E6%94%BE%E8%B7%91%E5%AE%A2%E4%BA%BA%E5%AF%84%E5%AD%98%E5%AE%A0%E7%89%A9%E5%BA%97%E7%9A%842%E4%B8%87%E5%85%83%E7%8C%AB%23" target="weibo">
-男孩放跑客人寄存宠物店的2万元猫（热度：442746）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%98%8E%E6%B5%A9%E8%B7%B3%E4%BA%86%E5%BC%A0%E8%89%BA%E5%85%B4%E9%9D%A2%E7%BA%B1%E8%84%9A%E6%AD%A5%E8%88%9E%23" target="weibo">
+徐明浩跳了张艺兴面纱脚步舞（热度：444695）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E5%8E%9F%E6%8A%A5%E5%91%8A1%E4%BE%8B%E5%88%9D%E7%AD%9B%E9%98%B3%E6%80%A7%E8%80%85%23" target="weibo">
 太原报告1例初筛阳性者（热度：432330）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E4%B8%9E%E7%90%B3%E8%AF%B4%E8%94%A1%E5%BE%90%E5%9D%A4%E6%9C%AC%E4%BA%BA%E6%AF%94%E8%8D%A7%E5%B9%95%E4%B8%8A%E5%B8%85%23" target="weibo">
+杨丞琳说蔡徐坤本人比荧幕上帅（热度：418410）
 </a>
 </li>
 
@@ -297,14 +309,20 @@ Steam取消农历新年特卖（热度：514749）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E5%A9%86%E5%A9%86%E5%A5%87%E8%91%A9%E5%8A%9D%E6%9E%B6%E6%96%B9%E5%BC%8F%23" target="weibo">
-外国婆婆奇葩劝架方式（热度：331736）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%BB%E6%B3%BD%E5%B9%B39%E5%A4%A96%E6%AC%A1%E7%82%AE%E8%BD%B0%E8%8B%B9%E6%9E%9C%23" target="weibo">
+任泽平9天6次炮轰苹果（热度：358407）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%BB%E6%B3%BD%E5%B9%B39%E5%A4%A96%E6%AC%A1%E7%82%AE%E8%BD%B0%E8%8B%B9%E6%9E%9C%23" target="weibo">
-任泽平9天6次炮轰苹果（热度：308971）
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E7%81%AB%E9%94%85%E5%BA%97%E7%8B%82%E5%A5%94%E8%A2%AB%E6%B1%A4%E6%B7%8B%E4%B8%80%E8%BA%AB%23" target="weibo">
+男孩火锅店狂奔被汤淋一身（热度：337936）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E5%A9%86%E5%A9%86%E5%A5%87%E8%91%A9%E5%8A%9D%E6%9E%B6%E6%96%B9%E5%BC%8F%23" target="weibo">
+外国婆婆奇葩劝架方式（热度：331736）
 </a>
 </li>
 
@@ -359,12 +377,6 @@ Steam取消农历新年特卖（热度：514749）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E9%B9%A4%E5%A3%81%E4%B8%80%E6%B5%81%E6%B5%AA%E7%8B%97%E5%92%AC%E4%BC%A4%E7%BA%A640%E4%BA%BA%23" target="weibo">
 河南鹤壁一流浪狗咬伤约40人（热度：260523）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%98%8E%E6%B5%A9%E8%B7%B3%E4%BA%86%E5%BC%A0%E8%89%BA%E5%85%B4%E9%9D%A2%E7%BA%B1%E8%84%9A%E6%AD%A5%E8%88%9E%23" target="weibo">
-徐明浩跳了张艺兴面纱脚步舞（热度：256051）
 </a>
 </li>
 
@@ -525,12 +537,6 @@ Steam取消农历新年特卖（热度：514749）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E7%81%AB%E9%94%85%E5%BA%97%E7%8B%82%E5%A5%94%E8%A2%AB%E6%B1%A4%E6%B7%8B%E4%B8%80%E8%BA%AB%23" target="weibo">
-男孩火锅店狂奔被汤淋一身（热度：187964）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%BC%80%E6%94%BE%E5%8F%B0%E5%89%8D%E8%B0%83%E5%BA%A6%E5%8A%9F%E8%83%BD%E7%BB%99%E8%80%81%E6%AC%BEiPad%23" target="weibo">
 苹果开放台前调度功能给老款iPad（热度：184779）
 </a>
@@ -579,6 +585,12 @@ Steam取消农历新年特卖（热度：514749）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%BA%A6%E5%AE%89%E5%91%8A%E7%8A%B6%23" target="weibo">
+周亦安告状（热度：166260）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%B9%BF%E6%99%BA%E7%9A%AE%E8%A1%A3%E9%80%A0%E5%9E%8B%23" target="weibo">
 何广智皮衣造型（热度：164491）
 </a>
@@ -603,6 +615,18 @@ Steam取消农历新年特卖（热度：514749）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E6%83%85%E4%BE%A3%E5%9C%A8%E5%A4%A7%E8%8D%A7%E5%B9%95%E4%B8%8A%E6%9C%89%E5%A4%9A%E5%A5%BD%E5%97%91%23" target="weibo">
+真情侣在大荧幕上有多好嗑（热度：157562）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%80%A7%E9%AA%91%E8%A1%8C%E4%BA%BA%E6%95%B0%E5%A2%9E%E9%80%9F%E7%BA%A6%E8%B6%85%E7%94%B7%E6%80%A72%E5%80%8D%23" target="weibo">
+女性骑行人数增速约超男性2倍（热度：157157）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E6%9D%8E%E6%B2%81%E6%97%A0%E6%95%88%E5%90%BB%E6%88%8F%23" target="weibo">
 任嘉伦李沁无效吻戏（热度：155883）
 </a>
@@ -621,12 +645,6 @@ Steam取消农历新年特卖（热度：514749）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%BA%A6%E5%AE%89%E5%91%8A%E7%8A%B6%23" target="weibo">
-周亦安告状（热度：152048）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%BD%91%E6%81%8B%E5%A5%94%E7%8E%B0%E5%90%8E%E5%8F%91%E7%8E%B0%E5%AF%B9%E8%B1%A1%E5%B7%B2%E5%BD%93%E5%A4%96%E5%A9%86%23" target="weibo">
 男子网恋奔现后发现对象已当外婆（热度：148954）
 </a>
@@ -639,14 +657,14 @@ Steam取消农历新年特卖（热度：514749）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%80%A7%E9%AA%91%E8%A1%8C%E4%BA%BA%E6%95%B0%E5%A2%9E%E9%80%9F%E7%BA%A6%E8%B6%85%E7%94%B7%E6%80%A72%E5%80%8D%23" target="weibo">
-女性骑行人数增速约超男性2倍（热度：148159）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%91%E6%9D%B0%E5%85%8B%E6%9B%BC%E5%8A%A0%E7%9B%9F%E6%AD%BB%E4%BE%8D3%23" target="weibo">
+休杰克曼加盟死侍3（热度：148116）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%91%E6%9D%B0%E5%85%8B%E6%9B%BC%E5%8A%A0%E7%9B%9F%E6%AD%BB%E4%BE%8D3%23" target="weibo">
-休杰克曼加盟死侍3（热度：148116）
+<a href="https://s.weibo.com/weibo?q=%23%E6%BD%98%E7%8E%AE%E6%9F%8F%E7%9A%84%E5%87%8F%E8%82%A5%E6%AC%BA%E9%AA%97%E6%97%A5%E4%B8%80%E5%91%A8%E6%9C%89%E4%BA%94%E5%A4%A9%23" target="weibo">
+潘玮柏的减肥欺骗日一周有五天（热度：145931）
 </a>
 </li>
 
@@ -711,20 +729,8 @@ MAMAMOO新专概念照（热度：133383）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E6%83%85%E4%BE%A3%E5%9C%A8%E5%A4%A7%E8%8D%A7%E5%B9%95%E4%B8%8A%E6%9C%89%E5%A4%9A%E5%A5%BD%E5%97%91%23" target="weibo">
-真情侣在大荧幕上有多好嗑（热度：126764）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%87%AA%E5%B8%A6%E9%BA%A6%E5%85%8B%E9%A3%8E%E7%9A%84%E5%B0%8F%E7%8C%AB%23" target="weibo">
 自带麦克风的小猫（热度：126170）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%BD%98%E7%8E%AE%E6%9F%8F%E7%9A%84%E5%87%8F%E8%82%A5%E6%AC%BA%E9%AA%97%E6%97%A5%E4%B8%80%E5%91%A8%E6%9C%89%E4%BA%94%E5%A4%A9%23" target="weibo">
-潘玮柏的减肥欺骗日一周有五天（热度：125780）
 </a>
 </li>
 
@@ -743,6 +749,12 @@ MAMAMOO新专概念照（热度：133383）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%B7%9D%20%E5%A5%BD%E7%AC%91%23" target="weibo">
 孟川 好笑（热度：116779）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23icon%E9%97%AF%E5%85%B3%E9%9E%8B%E5%AD%90%E6%8E%89%E4%BA%86%23" target="weibo">
+icon闯关鞋子掉了（热度：116551）
 </a>
 </li>
 
@@ -807,6 +819,12 @@ MAMAMOO新专概念照（热度：133383）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%88%E7%B2%89%E7%87%83%E6%B2%B9%E5%85%9A%E7%9A%84%E7%94%B5%E5%8A%A8%E8%BD%A6%23" target="weibo">
+圈粉燃油党的电动车（热度：98026）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E9%AA%84%E9%98%B3%E4%BC%B4%E6%88%91%E7%99%BD%E8%A1%AC%E8%A1%AB%E4%BE%A7%E9%A2%9C%E8%B7%AF%E9%80%8F%E5%9B%BE%23" target="weibo">
 肖战骄阳伴我白衬衫侧颜路透图（热度：97602）
 </a>
@@ -819,14 +837,14 @@ MAMAMOO新专概念照（热度：133383）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23icon%E9%97%AF%E5%85%B3%E9%9E%8B%E5%AD%90%E6%8E%89%E4%BA%86%23" target="weibo">
-icon闯关鞋子掉了（热度：94917）
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E5%8F%8D%E6%B4%BE%E7%94%B7%E5%8F%8B%E6%AD%A4%E5%88%BB%E5%BF%83%E5%8A%A8%E8%8A%AD%E8%8E%8E%E5%A4%A7%E7%89%87%23" target="weibo">
+我的反派男友此刻心动芭莎大片（热度：94873）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E5%8F%8D%E6%B4%BE%E7%94%B7%E5%8F%8B%E6%AD%A4%E5%88%BB%E5%BF%83%E5%8A%A8%E8%8A%AD%E8%8E%8E%E5%A4%A7%E7%89%87%23" target="weibo">
-我的反派男友此刻心动芭莎大片（热度：94873）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%99%9A%E7%9C%8B%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E5%AF%B9%E6%88%98%E6%97%A5%E6%9C%AC%23" target="weibo">
+今晚看中国女排对战日本（热度：90672）
 </a>
 </li>
 
@@ -849,8 +867,14 @@ icon闯关鞋子掉了（热度：94917）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%99%9A%E7%9C%8B%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E5%AF%B9%E6%88%98%E6%97%A5%E6%9C%AC%23" target="weibo">
-今晚看中国女排对战日本（热度：78830）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%89%E9%A6%99%E9%87%8D%E5%8D%8E%23" target="weibo">
+沉香重华（热度：83112）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9C%88%E8%96%AA%E4%B9%9D%E5%8D%83%E4%B8%8D%E4%BC%9A%E7%94%A8word%E8%A2%AB%E8%BE%9E%E9%80%80%23" target="weibo">
+男子月薪九千不会用word被辞退（热度：78540）
 </a>
 </li>
 
@@ -887,6 +911,12 @@ icon闯关鞋子掉了（热度：94917）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%BA%94%E4%BB%A3%E6%88%98%E6%9C%BA%E5%B7%B2%E9%81%8D%E5%B8%83%E4%B8%9C%E5%8D%97%E8%A5%BF%E5%8C%97%E4%B8%AD%23" target="weibo">
 中国第五代战机已遍布东南西北中（热度：71824）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%94%E9%A9%B0%E8%BD%A6%E6%9C%BA%E6%8E%A8%E9%80%81%E5%8D%96%E8%BD%A6%E5%B9%BF%E5%91%8A%23" target="weibo">
+奔驰车机推送卖车广告（热度：71195）
 </a>
 </li>
 
