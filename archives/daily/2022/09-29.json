@@ -1,6 +1,6 @@
 {
   "startTime": 1664383235790,
-  "endTime": 1664393077939,
+  "endTime": 1664393989906,
   "band_list": [
     {
       "raw_hot": 1124423,
@@ -489,6 +489,14 @@
       "onboard_time": 1664390532,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 8793,
+      "num": 8793,
+      "word": "男子被鸽后连续9次拨打110报警",
+      "onboard_time": 1664393590,
+      "rank": 48,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
