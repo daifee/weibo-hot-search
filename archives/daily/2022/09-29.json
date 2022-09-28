@@ -1,6 +1,6 @@
 {
   "startTime": 1664383235790,
-  "endTime": 1664386918801,
+  "endTime": 1664387901621,
   "band_list": [
     {
       "raw_hot": 1124423,
@@ -315,6 +315,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 57161,
+      "num": 57161,
+      "word": "上世纪的跨国恋能有多遗憾",
+      "onboard_time": 1664385196,
+      "rank": 24,
+      "category": "作品衍生,情感"
+    },
+    {
       "raw_hot": 55322,
       "num": 55322,
       "word": "终于有办法缓解偏头痛了",
@@ -361,14 +369,6 @@
       "onboard_time": 1664373566,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 50557,
-      "num": 50557,
-      "word": "上世纪的跨国恋能有多遗憾",
-      "onboard_time": 1664385196,
-      "rank": 24,
-      "category": "作品衍生,情感"
     },
     {
       "raw_hot": 48665,
@@ -419,8 +419,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 31842,
-      "num": 31842,
+      "raw_hot": 36019,
+      "num": 36019,
       "word": "让细节决定爱与不爱",
       "onboard_time": 1664386094,
       "rank": 35,
