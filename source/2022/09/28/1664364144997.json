@@ -1,0 +1,410 @@
+{
+  "runTime": 1664364144997,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1860308,
+        "num": 1860308,
+        "word": "4万买下周大福25万金饰被起诉",
+        "onboard_time": 1664359644,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1433553,
+        "num": 1433553,
+        "word": "男子月薪九千不会用word被辞退",
+        "onboard_time": 1664351545,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10280,
+        "num": 1156149,
+        "word": "二十大代表是怎么选出来的",
+        "onboard_time": 1664282366,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 980260,
+        "num": 980260,
+        "word": "李玟节目录制现场质问导演组",
+        "onboard_time": 1664354005,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 816531,
+        "num": 816531,
+        "word": "狂犬病一旦发病病死率几乎为100%",
+        "onboard_time": 1664356104,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 799607,
+        "num": 799607,
+        "word": "印度低种姓学生答错题被老师打死",
+        "onboard_time": 1664358985,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 776538,
+        "num": 776538,
+        "word": "00后老师开始撕伞了",
+        "onboard_time": 1664344164,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 654609,
+        "num": 654609,
+        "word": "一汽大众致歉",
+        "onboard_time": 1664359524,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541347,
+        "num": 541347,
+        "word": "不要赌人民币汇率单边升值或贬值",
+        "onboard_time": 1664360485,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 492941,
+        "num": 492941,
+        "word": "保研",
+        "onboard_time": 1664342903,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 494643,
+        "num": 468205,
+        "word": "这就是走路粉的快乐吗",
+        "onboard_time": 1664359283,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 425476,
+        "num": 425476,
+        "word": "iPhone14Pro紫色版被曝存在工艺缺陷",
+        "onboard_time": 1664355865,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 275364,
+        "num": 275364,
+        "word": "女孩马路中间摆拍遭醉驾男子碰撞",
+        "onboard_time": 1664356044,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267284,
+        "num": 267284,
+        "word": "番茄牛腩拌饭是真的绝绝子",
+        "onboard_time": 1664357544,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 3394,
+        "num": 267244,
+        "word": "中国车企全域自研有多强",
+        "onboard_time": 1664362824,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267236,
+        "num": 267236,
+        "word": "苹果否认车祸检测是人工客服",
+        "onboard_time": 1664358985,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 205584,
+        "num": 205584,
+        "word": "红烧肉用英语怎么说",
+        "onboard_time": 1664354186,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 185943,
+        "num": 185943,
+        "word": "杨丞琳说蔡徐坤本人比荧幕上帅",
+        "onboard_time": 1664351545,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177219,
+        "num": 177219,
+        "word": "王者花泽香菜合作",
+        "onboard_time": 1664363005,
+        "rank": 18,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 177032,
+        "num": 177032,
+        "word": "终于有办法缓解偏头痛了",
+        "onboard_time": 1664361743,
+        "rank": 19,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 214064,
+        "num": 175094,
+        "word": "AirPodsPro2篆刻内容会弹窗显示",
+        "onboard_time": 1664357844,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 172270,
+        "num": 172270,
+        "word": "张彬彬晒庄羽回程机票求原谅",
+        "onboard_time": 1664361985,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166121,
+        "num": 166121,
+        "word": "张云龙看到满屏甜妹战术性后退",
+        "onboard_time": 1664363544,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160619,
+        "num": 160619,
+        "word": "这才是我最爱吃的水果",
+        "onboard_time": 1664357127,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 160060,
+        "num": 160060,
+        "word": "苏有朋叫白举纲师兄",
+        "onboard_time": 1664361325,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151305,
+        "num": 151305,
+        "word": "男子收到与去世爷爷合照瞬间破防",
+        "onboard_time": 1664352382,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149310,
+        "num": 149310,
+        "word": "刘诗诗刘宇宁一念关山蓝衣路透",
+        "onboard_time": 1664355025,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137935,
+        "num": 137935,
+        "word": "冰箱承受了太多",
+        "onboard_time": 1664359105,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135804,
+        "num": 135804,
+        "word": "王者时之奇旅新皮肤",
+        "onboard_time": 1664357066,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130388,
+        "num": 130388,
+        "word": "玩游戏千万不要吐槽女朋友",
+        "onboard_time": 1664362585,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130137,
+        "num": 130137,
+        "word": "云胡不喜概念海报",
+        "onboard_time": 1664356884,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122048,
+        "num": 122048,
+        "word": "王鹤棣在密逃被吓到模糊",
+        "onboard_time": 1664346384,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121886,
+        "num": 121886,
+        "word": "男孩火锅店狂奔被汤淋一身",
+        "onboard_time": 1664349382,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115778,
+        "num": 115778,
+        "word": "女孩被困电梯连按警铃物业当误报",
+        "onboard_time": 1664345125,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112070,
+        "num": 112070,
+        "word": "从走路就能看出狗狗的热情",
+        "onboard_time": 1664361024,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109930,
+        "num": 109930,
+        "word": "男孩放跑客人寄存宠物店的2万元猫",
+        "onboard_time": 1664347284,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109104,
+        "num": 109104,
+        "word": "太原疫情防控",
+        "onboard_time": 1664354424,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103684,
+        "num": 103684,
+        "word": "原版和电竞版飞跃黄河",
+        "onboard_time": 1664363364,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 103593,
+        "num": 103593,
+        "word": "真情侣在大荧幕上有多好嗑",
+        "onboard_time": 1664349984,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 94816,
+        "num": 94816,
+        "word": "陆登夫妇同床谈心",
+        "onboard_time": 1664361445,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 83728,
+        "num": 83728,
+        "word": "年轻人国庆都玩什么运动",
+        "onboard_time": 1664356644,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81564,
+        "num": 81564,
+        "word": "为何今年的大闸蟹迟到了",
+        "onboard_time": 1664363005,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78540,
+        "num": 78540,
+        "word": "王嘉尔官宣世界巡演",
+        "onboard_time": 1664348964,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 78419,
+        "num": 78419,
+        "word": "昆仑神宫今日更新",
+        "onboard_time": 1664364024,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 73020,
+        "num": 73020,
+        "word": "在笑泪点反复横跳的剧",
+        "onboard_time": 1664363604,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 71943,
+        "num": 71943,
+        "word": "朝阳群众又双叒叕立功了",
+        "onboard_time": 1664329343,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67228,
+        "num": 67228,
+        "word": "成都世乒赛团体赛男团分组出炉",
+        "onboard_time": 1664357185,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65465,
+        "num": 65465,
+        "word": "大学教授说别太把自己当回事",
+        "onboard_time": 1664343324,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 65443,
+        "num": 65443,
+        "word": "太原报告1例初筛阳性者",
+        "onboard_time": 1664354364,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61414,
+        "num": 61414,
+        "word": "女子为玩羊了个羊看广告被骗9万元",
+        "onboard_time": 1664364142,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#坐标中国#"
+    }
+  }
+}

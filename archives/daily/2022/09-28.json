@@ -1,6 +1,6 @@
 {
   "startTime": 1664296789399,
-  "endTime": 1664362146430,
+  "endTime": 1664364144997,
   "band_list": [
     {
       "raw_hot": 4230079,
@@ -33,6 +33,14 @@
       "onboard_time": 1664344164,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1860308,
+      "num": 1860308,
+      "word": "4万买下周大福25万金饰被起诉",
+      "onboard_time": 1664359644,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1830693,
@@ -155,12 +163,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 849214,
-      "num": 849214,
-      "word": "4万买下周大福25万金饰被起诉",
-      "onboard_time": 1664359644,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 799607,
+      "num": 799607,
+      "word": "印度低种姓学生答错题被老师打死",
+      "onboard_time": 1664358985,
+      "rank": 10,
+      "category": "社会负面"
     },
     {
       "raw_hot": 779832,
@@ -179,20 +187,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 683555,
-      "num": 683555,
-      "word": "印度低种姓学生答错题被老师打死",
-      "onboard_time": 1664358985,
-      "rank": 10,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 657658,
       "num": 657658,
       "word": "16岁女生54秒淡定扑灭起火摩托",
       "onboard_time": 1664327604,
       "rank": 7,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 654609,
+      "num": 654609,
+      "word": "一汽大众致歉",
+      "onboard_time": 1664359524,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 630842,
@@ -257,6 +265,14 @@
       "onboard_time": 1664322145,
       "rank": 20,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 541347,
+      "num": 541347,
+      "word": "不要赌人民币汇率单边升值或贬值",
+      "onboard_time": 1664360485,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 539433,
@@ -363,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 494643,
+      "num": 468205,
+      "word": "这就是走路粉的快乐吗",
+      "onboard_time": 1664359283,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 494295,
       "num": 494295,
       "word": "王鹤棣在密逃被吓到模糊",
@@ -377,14 +401,6 @@
       "onboard_time": 1664337265,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 458299,
-      "num": 382329,
-      "word": "一汽大众致歉",
-      "onboard_time": 1664359524,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 444695,
@@ -515,22 +531,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 358192,
-      "num": 358192,
-      "word": "不要赌人民币汇率单边升值或贬值",
-      "onboard_time": 1664360485,
-      "rank": 26,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 352413,
-      "num": 352413,
-      "word": "这就是走路粉的快乐吗",
-      "onboard_time": 1664359283,
-      "rank": 12,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 331736,
       "num": 331736,
       "word": "外国婆婆奇葩劝架方式",
@@ -603,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 267236,
+      "num": 267236,
+      "word": "苹果否认车祸检测是人工客服",
+      "onboard_time": 1664358985,
+      "rank": 20,
+      "category": "科技"
+    },
+    {
       "raw_hot": 264291,
       "num": 264291,
       "word": "苏有朋叫白举纲师兄",
@@ -633,14 +641,6 @@
       "onboard_time": 1664292866,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 254263,
-      "num": 231522,
-      "word": "苹果否认车祸检测是人工客服",
-      "onboard_time": 1664358985,
-      "rank": 20,
-      "category": "科技"
     },
     {
       "raw_hot": 252545,
@@ -971,6 +971,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177219,
+      "num": 177219,
+      "word": "王者花泽香菜合作",
+      "onboard_time": 1664363005,
+      "rank": 18,
+      "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 177032,
+      "num": 177032,
+      "word": "终于有办法缓解偏头痛了",
+      "onboard_time": 1664361743,
+      "rank": 37,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 175419,
       "num": 175419,
       "word": "广州地铁一老外脱鞋抠脚",
@@ -1011,12 +1027,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172270,
+      "num": 172270,
+      "word": "张彬彬晒庄羽回程机票求原谅",
+      "onboard_time": 1664361985,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 166260,
       "num": 166260,
       "word": "周亦安告状",
       "onboard_time": 1664347763,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 166121,
+      "num": 166121,
+      "word": "张云龙看到满屏甜妹战术性后退",
+      "onboard_time": 1664363544,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 164491,
@@ -1139,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137935,
+      "num": 137935,
+      "word": "冰箱承受了太多",
+      "onboard_time": 1664359105,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136673,
       "num": 136673,
       "word": "海南三大网红海岛测评",
@@ -1195,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130388,
+      "num": 130388,
+      "word": "玩游戏千万不要吐槽女朋友",
+      "onboard_time": 1664362585,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127652,
       "num": 127652,
       "word": "网友拍到彩虹版落叶仿佛调色盘",
@@ -1225,14 +1273,6 @@
       "onboard_time": 1664333003,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118584,
-      "num": 118584,
-      "word": "冰箱承受了太多",
-      "onboard_time": 1664359105,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 117639,
@@ -1283,12 +1323,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 111580,
-      "num": 111580,
-      "word": "张彬彬晒庄羽回程机票求原谅",
-      "onboard_time": 1664361985,
-      "rank": 34,
-      "category": "影视"
+      "raw_hot": 112070,
+      "num": 112070,
+      "word": "从走路就能看出狗狗的热情",
+      "onboard_time": 1664361024,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 110597,
@@ -1331,6 +1371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103684,
+      "num": 103684,
+      "word": "原版和电竞版飞跃黄河",
+      "onboard_time": 1664363364,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 98991,
       "num": 96227,
       "word": "球迷闯入赛场看傻梅西",
@@ -1369,14 +1417,6 @@
       "onboard_time": 1664325205,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 97425,
-      "num": 97425,
-      "word": "终于有办法缓解偏头痛了",
-      "onboard_time": 1664361743,
-      "rank": 37,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 94873,
@@ -1435,20 +1475,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 83203,
-      "num": 92372,
-      "word": "从走路就能看出狗狗的热情",
-      "onboard_time": 1664361024,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 81709,
       "num": 81709,
       "word": "教你练出小蛮腰",
       "onboard_time": 1664358385,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81564,
+      "num": 81564,
+      "word": "为何今年的大闸蟹迟到了",
+      "onboard_time": 1664363005,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78419,
+      "num": 78419,
+      "word": "昆仑神宫今日更新",
+      "onboard_time": 1664364024,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 77632,
@@ -1473,6 +1521,14 @@
       "onboard_time": 1664284646,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 73020,
+      "num": 73020,
+      "word": "在笑泪点反复横跳的剧",
+      "onboard_time": 1664363604,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 72890,
@@ -1561,6 +1617,14 @@
       "onboard_time": 1664275704,
       "rank": 40,
       "category": "科技"
+    },
+    {
+      "raw_hot": 61414,
+      "num": 61414,
+      "word": "女子为玩羊了个羊看广告被骗9万元",
+      "onboard_time": 1664364142,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61255,
@@ -1776,6 +1840,14 @@
       "word": "最高检对李杰翔决定逮捕",
       "onboard_time": 1664313430,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3394,
+      "num": 267244,
+      "word": "中国车企全域自研有多强",
+      "onboard_time": 1664362824,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
