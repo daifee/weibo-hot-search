@@ -1,0 +1,410 @@
+{
+  "runTime": 1664376910742,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1633593,
+        "num": 1633593,
+        "word": "天津禁止学校聘用有性骚扰犯罪记录人员",
+        "onboard_time": 1664370984,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1074729,
+        "num": 1074729,
+        "word": "杨笠你现在理解我了",
+        "onboard_time": 1664371706,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109500,
+        "num": 611439,
+        "word": "画在墙上的火车开进了现实",
+        "onboard_time": 1664365885,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1530574,
+        "num": 594568,
+        "word": "女子为玩羊了个羊看广告被骗9万元",
+        "onboard_time": 1664364142,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541957,
+        "num": 541957,
+        "word": "李玟回应节目录制现场质问导演",
+        "onboard_time": 1664369426,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 529987,
+        "num": 529987,
+        "word": "一京外阳性人员涉及北京轨迹公布",
+        "onboard_time": 1664372485,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494003,
+        "num": 494003,
+        "word": "4万买下周大福25万金饰被起诉",
+        "onboard_time": 1664359644,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481202,
+        "num": 481202,
+        "word": "学生1句话让老师找到失散35年亲人",
+        "onboard_time": 1664370624,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 434253,
+        "num": 434253,
+        "word": "中国女排3比0战胜日本",
+        "onboard_time": 1664373566,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 423735,
+        "num": 423735,
+        "word": "美使馆建议在俄旅居美公民尽快离开",
+        "onboard_time": 1664372423,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 658240,
+        "num": 413497,
+        "word": "北电22级实验班合影",
+        "onboard_time": 1664372423,
+        "rank": 10,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 382882,
+        "num": 382882,
+        "word": "男子月薪九千不会用word被辞退",
+        "onboard_time": 1664351545,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298801,
+        "num": 298801,
+        "word": "狂犬病一旦发病病死率几乎为100%",
+        "onboard_time": 1664356104,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298277,
+        "num": 298277,
+        "word": "原来读北大被发现也会害羞",
+        "onboard_time": 1664374524,
+        "rank": 13,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 46521,
+        "num": 284669,
+        "word": "退伍老兵照顾牺牲战友母亲38年",
+        "onboard_time": 1664373686,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277669,
+        "num": 277669,
+        "word": "唐朝诡事录六集一个大案",
+        "onboard_time": 1664372005,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267065,
+        "num": 267065,
+        "word": "印度低种姓学生答错题被老师打死",
+        "onboard_time": 1664358985,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 262551,
+        "num": 262551,
+        "word": "台湾问题同乌克兰问题有本质区别",
+        "onboard_time": 1664375187,
+        "rank": 17,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 253485,
+        "num": 253485,
+        "word": "徐志胜独行月球热搜比台词长",
+        "onboard_time": 1664375245,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250434,
+        "num": 250434,
+        "word": "虞书欣回复张彬彬有本事别回来",
+        "onboard_time": 1664368764,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 231950,
+        "num": 231950,
+        "word": "长春餐厅燃气爆炸事故原因初步查明",
+        "onboard_time": 1664368526,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 223190,
+        "num": 223190,
+        "word": "大学生毕业后存钱有多重要",
+        "onboard_time": 1664366364,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189172,
+        "num": 189172,
+        "word": "ITZY校庆舞台",
+        "onboard_time": 1664371345,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 185216,
+        "num": 185216,
+        "word": "这就是走路粉的快乐吗",
+        "onboard_time": 1664359283,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168417,
+        "num": 168417,
+        "word": "iPhone14Pro紫色版被曝存在工艺缺陷",
+        "onboard_time": 1664355865,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 168200,
+        "num": 168200,
+        "word": "小猫文学也太好哭了",
+        "onboard_time": 1664364443,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164823,
+        "num": 164823,
+        "word": "四川一树洞现野生熊猫幼崽",
+        "onboard_time": 1664369245,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158052,
+        "num": 158052,
+        "word": "昆仑神宫",
+        "onboard_time": 1664374284,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154213,
+        "num": 154213,
+        "word": "00后老师开始撕伞了",
+        "onboard_time": 1664344164,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151847,
+        "num": 151847,
+        "word": "老年人为什么总愿意相信陌生人",
+        "onboard_time": 1664370984,
+        "rank": 29,
+        "category": "社会议题,情感"
+      },
+      {
+        "raw_hot": 144694,
+        "num": 144694,
+        "word": "李聂主动邀请张根源约会",
+        "onboard_time": 1664372965,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144217,
+        "num": 144217,
+        "word": "保研",
+        "onboard_time": 1664342903,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 127061,
+        "num": 127061,
+        "word": "广州长沙深圳成出行最热门城市",
+        "onboard_time": 1664365944,
+        "rank": 32,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 118685,
+        "num": 118685,
+        "word": "北京奥运会奖牌用银全部来自河南",
+        "onboard_time": 1664373506,
+        "rank": 33,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 117279,
+        "num": 117279,
+        "word": "一汽大众致歉",
+        "onboard_time": 1664359524,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112390,
+        "num": 112390,
+        "word": "蔡文静新剧通宵买书",
+        "onboard_time": 1664372906,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110270,
+        "num": 110270,
+        "word": "请君",
+        "onboard_time": 1664375187,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109773,
+        "num": 109773,
+        "word": "终于有办法缓解偏头痛了",
+        "onboard_time": 1664361743,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 106876,
+        "num": 106876,
+        "word": "上课忘带书本的极限操作",
+        "onboard_time": 1664371583,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100064,
+        "num": 100064,
+        "word": "不要赌人民币汇率单边升值或贬值",
+        "onboard_time": 1664360485,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 96682,
+        "num": 96682,
+        "word": "AirPodsPro2篆刻内容会弹窗显示",
+        "onboard_time": 1664357844,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 96134,
+        "num": 96134,
+        "word": "司机一个横停为幼童挡住货车",
+        "onboard_time": 1664376448,
+        "rank": 41,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 95150,
+        "num": 95150,
+        "word": "排队晒太阳的猫猫",
+        "onboard_time": 1664366604,
+        "rank": 42,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 93062,
+        "num": 93062,
+        "word": "刘宇宁直播",
+        "onboard_time": 1664369363,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92566,
+        "num": 92566,
+        "word": "张云龙看到满屏甜妹战术性后退",
+        "onboard_time": 1664363544,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 92079,
+        "num": 92079,
+        "word": "女孩马路中间摆拍遭醉驾男子碰撞",
+        "onboard_time": 1664356044,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83116,
+        "num": 83116,
+        "word": "eStar晋级挑杯总决赛",
+        "onboard_time": 1664374167,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140808,
+        "num": 81108,
+        "word": "花海签的是eStar",
+        "onboard_time": 1664376867,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 78433,
+        "num": 78433,
+        "word": "这才是我最爱吃的水果",
+        "onboard_time": 1664357127,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 76331,
+        "num": 76331,
+        "word": "潘粤明回应胡八一瘦了",
+        "onboard_time": 1664365164,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#三代人40余年逼退风沙线30公里#"
+    }
+  }
+}
