@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/28 21:58:58
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/28 22:10:50
 </p>
 </blockquote>
 <p>
@@ -4461,6 +4461,12 @@ Twins不承认吴谨言的粤语是自己教的（热度：1255504）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E7%A6%81%E6%AD%A2%E5%AD%A6%E6%A0%A1%E8%81%98%E7%94%A8%E6%9C%89%E6%80%A7%E9%AA%9A%E6%89%B0%E7%8A%AF%E7%BD%AA%E8%AE%B0%E5%BD%95%E4%BA%BA%E5%91%98%23" target="weibo">
+天津禁止学校聘用有性骚扰犯罪记录人员（热度：1247478）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%A4%A9%E9%80%9A%E8%8B%91%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%87%BA%E7%8E%B0%E5%88%BA%E7%8C%AC%23" target="weibo">
 北京天通苑一小区出现刺猬（热度：1245009）
 </a>
@@ -4847,6 +4853,12 @@ iPhone14已产逾3400万部（热度：1174969）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E6%8E%8F%E4%B8%87%E5%85%83%E7%BB%99%E5%A5%B3%E5%84%BF%E5%85%A8%E7%8F%AD%E6%8D%A2%E6%96%B0%E6%A1%8C%E6%A4%85%23" target="weibo">
 家长掏万元给女儿全班换新桌椅（热度：1173107）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%AC%A0%E4%BD%A0%E7%8E%B0%E5%9C%A8%E7%90%86%E8%A7%A3%E6%88%91%E4%BA%86%23" target="weibo">
+杨笠你现在理解我了（热度：1172164）
 </a>
 </li>
 
@@ -5493,12 +5505,6 @@ QQ推出QQ学生卡（热度：1084298）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%AC%A0%E4%BD%A0%E7%8E%B0%E5%9C%A8%E7%90%86%E8%A7%A3%E6%88%91%E4%BA%86%23" target="weibo">
-杨笠你现在理解我了（热度：1081676）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E7%96%AB%E6%83%85%E4%BC%A0%E5%85%A5%E9%93%BE%E6%9D%A1%E8%B6%85%E8%BF%8720%E6%9D%A1%23" target="weibo">
 成都疫情传入链条超过20条（热度：1080953）
 </a>
@@ -6005,12 +6011,6 @@ IU演唱会上的草莓月亮（热度：1037515）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BF%9D%E7%A0%94%E4%BA%86%E5%85%88%E8%B7%91%E4%B8%BA%E6%95%AC%23" target="weibo">
 我保研了先跑为敬（热度：1023331）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B3%B8%E5%AE%9A%E5%9C%B0%E9%9C%87%E4%B8%AD%E5%A4%B1%E8%81%9417%E5%A4%A9%E7%9A%84%E7%94%98%E5%AE%87%E6%89%BE%E5%88%B0%E4%BA%86%23" target="weibo">
-泸定地震中失联17天的甘宇找到了（热度：1022555）
 </a>
 </li>
 

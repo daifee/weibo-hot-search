@@ -1,0 +1,410 @@
+{
+  "runTime": 1664374250567,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1247478,
+        "num": 1247478,
+        "word": "天津禁止学校聘用有性骚扰犯罪记录人员",
+        "onboard_time": 1664370984,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1172164,
+        "num": 1172164,
+        "word": "杨笠你现在理解我了",
+        "onboard_time": 1664371706,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97478,
+        "num": 864017,
+        "word": "画在墙上的火车开进了现实",
+        "onboard_time": 1664365885,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1656769,
+        "num": 862920,
+        "word": "女子为玩羊了个羊看广告被骗9万元",
+        "onboard_time": 1664364142,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 855620,
+        "num": 855620,
+        "word": "李玟回应节目录制现场质问导演",
+        "onboard_time": 1664369426,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 734752,
+        "num": 734752,
+        "word": "4万买下周大福25万金饰被起诉",
+        "onboard_time": 1664359644,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 670738,
+        "num": 670738,
+        "word": "中国女排3比0战胜日本",
+        "onboard_time": 1664373566,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 505677,
+        "num": 505677,
+        "word": "男子月薪九千不会用word被辞退",
+        "onboard_time": 1664351545,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389726,
+        "num": 389726,
+        "word": "印度低种姓学生答错题被老师打死",
+        "onboard_time": 1664358985,
+        "rank": 8,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 378184,
+        "num": 378184,
+        "word": "长春餐厅燃气爆炸事故原因初步查明",
+        "onboard_time": 1664368526,
+        "rank": 9,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 946811,
+        "num": 372052,
+        "word": "北电22级实验班合影",
+        "onboard_time": 1664372423,
+        "rank": 10,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 540081,
+        "num": 362868,
+        "word": "一京外阳性人员涉及北京轨迹公布",
+        "onboard_time": 1664372485,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401295,
+        "num": 362669,
+        "word": "虞书欣回复张彬彬有本事别回来",
+        "onboard_time": 1664368764,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 346991,
+        "num": 346991,
+        "word": "学生1句话让老师找到失散35年亲人",
+        "onboard_time": 1664370624,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 12745,
+        "num": 343904,
+        "word": "退伍老兵照顾牺牲战友母亲38年",
+        "onboard_time": 1664373686,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341050,
+        "num": 341050,
+        "word": "中国女排战日本首发出炉",
+        "onboard_time": 1664368463,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 322788,
+        "num": 322788,
+        "word": "美使馆建议在俄旅居美公民尽快离开",
+        "onboard_time": 1664372423,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 313017,
+        "num": 313017,
+        "word": "大学生毕业后存钱有多重要",
+        "onboard_time": 1664366364,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 272576,
+        "num": 272576,
+        "word": "eStar晋级挑杯总决赛",
+        "onboard_time": 1664374167,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 263821,
+        "num": 263821,
+        "word": "狂犬病一旦发病病死率几乎为100%",
+        "onboard_time": 1664356104,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256431,
+        "num": 256431,
+        "word": "四川一树洞现野生熊猫幼崽",
+        "onboard_time": 1664369245,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240340,
+        "num": 240340,
+        "word": "ITZY校庆舞台",
+        "onboard_time": 1664371345,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 233294,
+        "num": 233294,
+        "word": "iPhone14Pro紫色版被曝存在工艺缺陷",
+        "onboard_time": 1664355865,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 210105,
+        "num": 210105,
+        "word": "00后老师开始撕伞了",
+        "onboard_time": 1664344164,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199191,
+        "num": 199191,
+        "word": "唐朝诡事录六集一个大案",
+        "onboard_time": 1664372005,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181773,
+        "num": 181773,
+        "word": "这就是走路粉的快乐吗",
+        "onboard_time": 1664359283,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179017,
+        "num": 179017,
+        "word": "小猫文学也太好哭了",
+        "onboard_time": 1664364443,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170562,
+        "num": 170562,
+        "word": "保研",
+        "onboard_time": 1664342903,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 160308,
+        "num": 160308,
+        "word": "潘粤明回应胡八一瘦了",
+        "onboard_time": 1664365164,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158423,
+        "num": 158423,
+        "word": "刘宇宁直播",
+        "onboard_time": 1664369363,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155521,
+        "num": 155521,
+        "word": "广州长沙深圳成出行最热门城市",
+        "onboard_time": 1664365944,
+        "rank": 30,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 153842,
+        "num": 153842,
+        "word": "李聂主动邀请张根源约会",
+        "onboard_time": 1664372965,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151725,
+        "num": 151725,
+        "word": "老年人为什么总愿意相信陌生人",
+        "onboard_time": 1664370984,
+        "rank": 32,
+        "category": "社会议题,情感"
+      },
+      {
+        "raw_hot": 140392,
+        "num": 140392,
+        "word": "不要赌人民币汇率单边升值或贬值",
+        "onboard_time": 1664360485,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 130604,
+        "num": 130604,
+        "word": "一汽大众致歉",
+        "onboard_time": 1664359524,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123995,
+        "num": 123995,
+        "word": "张云龙看到满屏甜妹战术性后退",
+        "onboard_time": 1664363544,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 107038,
+        "num": 107038,
+        "word": "AirPodsPro2篆刻内容会弹窗显示",
+        "onboard_time": 1664357844,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 103912,
+        "num": 103912,
+        "word": "排队晒太阳的猫猫",
+        "onboard_time": 1664366604,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 102922,
+        "num": 102922,
+        "word": "终于有办法缓解偏头痛了",
+        "onboard_time": 1664361743,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 101761,
+        "num": 101761,
+        "word": "女孩马路中间摆拍遭醉驾男子碰撞",
+        "onboard_time": 1664356044,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100542,
+        "num": 100542,
+        "word": "上课忘带书本的极限操作",
+        "onboard_time": 1664371583,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97284,
+        "num": 97284,
+        "word": "王者花泽香菜合作",
+        "onboard_time": 1664363005,
+        "rank": 41,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 92840,
+        "num": 92840,
+        "word": "杨丞琳说蔡徐坤本人比荧幕上帅",
+        "onboard_time": 1664351545,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90001,
+        "num": 90001,
+        "word": "这才是我最爱吃的水果",
+        "onboard_time": 1664357127,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 89604,
+        "num": 89604,
+        "word": "中国女排三连胜",
+        "onboard_time": 1664373804,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88849,
+        "num": 88849,
+        "word": "王云蕗乱球天后",
+        "onboard_time": 1664373865,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87890,
+        "num": 87890,
+        "word": "北京奥运会奖牌用银全部来自河南",
+        "onboard_time": 1664373506,
+        "rank": 46,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 85142,
+        "num": 85142,
+        "word": "武林外传到昆仑神宫团建",
+        "onboard_time": 1664368463,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 84012,
+        "num": 84012,
+        "word": "2022王者荣耀挑战者杯",
+        "onboard_time": 1664367923,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 77477,
+        "num": 77477,
+        "word": "蔡文静新剧通宵买书",
+        "onboard_time": 1664372906,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#打造一支强大的乡村振兴人才队伍#"
+    }
+  }
+}
