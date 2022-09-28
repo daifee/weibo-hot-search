@@ -1,6 +1,6 @@
 {
   "startTime": 1664296789399,
-  "endTime": 1664345478100,
+  "endTime": 1664346863518,
   "band_list": [
     {
       "raw_hot": 4230079,
@@ -49,6 +49,14 @@
       "onboard_time": 1664330604,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1392594,
+      "num": 1392594,
+      "word": "00后老师开始撕伞了",
+      "onboard_time": 1664344164,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 1383838,
@@ -163,12 +171,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 548303,
-      "num": 548303,
-      "word": "00后老师开始撕伞了",
-      "onboard_time": 1664344164,
-      "rank": 7,
-      "category": "幽默"
+      "raw_hot": 568099,
+      "num": 568099,
+      "word": "一口气炫24集东北插班生",
+      "onboard_time": 1664343743,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 548006,
@@ -251,14 +259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 491530,
-      "num": 491530,
-      "word": "一口气炫24集东北插班生",
-      "onboard_time": 1664343743,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 479986,
       "num": 479986,
       "word": "主持人领笑员",
@@ -281,6 +281,14 @@
       "onboard_time": 1664340086,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 410303,
+      "num": 410303,
+      "word": "大学教授说别太把自己当回事",
+      "onboard_time": 1664343324,
+      "rank": 13,
+      "category": "教育"
     },
     {
       "raw_hot": 395252,
@@ -323,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 372659,
+      "num": 372659,
+      "word": "王鹤棣在密逃被吓到模糊",
+      "onboard_time": 1664346384,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 369875,
       "num": 283079,
       "word": "女子输液回血护士先掏手机",
@@ -345,14 +361,6 @@
       "onboard_time": 1664337806,
       "rank": 13,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 301392,
-      "num": 301392,
-      "word": "大学教授说别太把自己当回事",
-      "onboard_time": 1664343324,
-      "rank": 13,
-      "category": "教育"
     },
     {
       "raw_hot": 299212,
@@ -385,6 +393,14 @@
       "onboard_time": 1664310671,
       "rank": 44,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 278300,
+      "num": 278300,
+      "word": "女孩被困电梯连按警铃物业当误报",
+      "onboard_time": 1664345125,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274376,
@@ -457,6 +473,14 @@
       "onboard_time": 1664289986,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249569,
+      "num": 249569,
+      "word": "扎克伯格跌出美国富豪榜前十",
+      "onboard_time": 1664343743,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 249288,
@@ -643,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182449,
+      "num": 182449,
+      "word": "平台经理多想一下救回中毒夫妻",
+      "onboard_time": 1664340448,
+      "rank": 46,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 175419,
       "num": 175419,
       "word": "广州地铁一老外脱鞋抠脚",
@@ -675,14 +707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 166918,
-      "num": 166918,
-      "word": "平台经理多想一下救回中毒夫妻",
-      "onboard_time": 1664340448,
-      "rank": 46,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 164491,
       "num": 164491,
       "word": "何广智皮衣造型",
@@ -697,6 +721,14 @@
       "onboard_time": 1664345243,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 162948,
+      "num": 162948,
+      "word": "向前冲",
+      "onboard_time": 1664345962,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 158247,
@@ -763,14 +795,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 142944,
-      "num": 142944,
-      "word": "扎克伯格跌出美国富豪榜前十",
-      "onboard_time": 1664343743,
-      "rank": 27,
-      "category": "财经"
-    },
-    {
       "raw_hot": 139850,
       "num": 139850,
       "word": "数名老人组团赶场拦婚车讨红包",
@@ -835,11 +859,27 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 124539,
+      "num": 124539,
+      "word": "女性骑行人数增速约超男性2倍",
+      "onboard_time": 1664346444,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122376,
       "num": 122376,
       "word": "汶川男孩长成黄继光连新排长",
       "onboard_time": 1664333003,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117639,
+      "num": 117639,
+      "word": "狂风中小鸟脑袋像装了神级稳定器",
+      "onboard_time": 1664342244,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -849,14 +889,6 @@
       "onboard_time": 1664325031,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 116209,
-      "num": 116209,
-      "word": "狂风中小鸟脑袋像装了神级稳定器",
-      "onboard_time": 1664342244,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116159,
@@ -884,7 +916,7 @@
     },
     {
       "raw_hot": 110597,
-      "num": 1330191,
+      "num": 1397542,
       "word": "二十大代表是怎么选出来的",
       "onboard_time": 1664282366,
       "rank": 2,
@@ -955,20 +987,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 94917,
+      "num": 94917,
+      "word": "icon闯关鞋子掉了",
+      "onboard_time": 1664345842,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 94873,
       "num": 94873,
       "word": "我的反派男友此刻心动芭莎大片",
       "onboard_time": 1664330004,
       "rank": 48,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 89561,
-      "num": 89561,
-      "word": "女孩被困电梯连按警铃物业当误报",
-      "onboard_time": 1664345125,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 88082,
@@ -985,6 +1017,14 @@
       "onboard_time": 1664298496,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86132,
+      "num": 86132,
+      "word": "阴阳师",
+      "onboard_time": 1664346683,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 77632,

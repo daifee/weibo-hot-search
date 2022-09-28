@@ -1,0 +1,410 @@
+{
+  "runTime": 1664346863518,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4025765,
+        "num": 4025765,
+        "word": "保研",
+        "onboard_time": 1664342903,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1434108,
+        "num": 1434108,
+        "word": "朝阳群众又双叒叕立功了",
+        "onboard_time": 1664329343,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16272,
+        "num": 1397542,
+        "word": "二十大代表是怎么选出来的",
+        "onboard_time": 1664282366,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1392594,
+        "num": 1392594,
+        "word": "00后老师开始撕伞了",
+        "onboard_time": 1664344164,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 650841,
+        "num": 650841,
+        "word": "新娘将婚礼手捧花送婆婆新郎泪崩",
+        "onboard_time": 1664339127,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568099,
+        "num": 568099,
+        "word": "一口气炫24集东北插班生",
+        "onboard_time": 1664343743,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 512029,
+        "num": 512029,
+        "word": "农民日报评一根玉米卖6元",
+        "onboard_time": 1664330604,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421175,
+        "num": 421175,
+        "word": "王菲连续四年献唱国庆档电影",
+        "onboard_time": 1664340327,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 410303,
+        "num": 410303,
+        "word": "大学教授说别太把自己当回事",
+        "onboard_time": 1664343324,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 372659,
+        "num": 372659,
+        "word": "王鹤棣在密逃被吓到模糊",
+        "onboard_time": 1664346384,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 830859,
+        "num": 370850,
+        "word": "疑似刘鑫账号回应热播剧改编江歌案",
+        "onboard_time": 1664336365,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356486,
+        "num": 356486,
+        "word": "车银优韩素希李洙赫网漫海报",
+        "onboard_time": 1664335404,
+        "rank": 11,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 332232,
+        "num": 332232,
+        "word": "太原报告1例初筛阳性者",
+        "onboard_time": 1664341468,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278300,
+        "num": 278300,
+        "word": "女孩被困电梯连按警铃物业当误报",
+        "onboard_time": 1664345125,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261500,
+        "num": 261500,
+        "word": "骄阳伴我官宣开机",
+        "onboard_time": 1664331684,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254317,
+        "num": 254317,
+        "word": "马斯克2510亿美元身价成美国首富",
+        "onboard_time": 1664338586,
+        "rank": 15,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 249569,
+        "num": 249569,
+        "word": "扎克伯格跌出美国富豪榜前十",
+        "onboard_time": 1664343743,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 200660,
+        "num": 200660,
+        "word": "晕车终于有救了",
+        "onboard_time": 1664287349,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194783,
+        "num": 194783,
+        "word": "苹果放弃增产iPhone",
+        "onboard_time": 1664333846,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 182449,
+        "num": 182449,
+        "word": "平台经理多想一下救回中毒夫妻",
+        "onboard_time": 1664340448,
+        "rank": 19,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 176803,
+        "num": 176803,
+        "word": "英雄联盟S12",
+        "onboard_time": 1664339909,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178145,
+        "num": 170597,
+        "word": "iPhone14Pro被曝充电时重启",
+        "onboard_time": 1664327966,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 162948,
+        "num": 162948,
+        "word": "向前冲",
+        "onboard_time": 1664345962,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159896,
+        "num": 159896,
+        "word": "布林肯回应北溪天然气管道泄漏",
+        "onboard_time": 1664336905,
+        "rank": 23,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 153588,
+        "num": 153588,
+        "word": "谢楠好敢说",
+        "onboard_time": 1664338586,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144035,
+        "num": 144035,
+        "word": "男子网恋被骗17万骗子称他太好骗",
+        "onboard_time": 1664337686,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130011,
+        "num": 130011,
+        "word": "Steam取消农历新年特卖",
+        "onboard_time": 1664335404,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126825,
+        "num": 126825,
+        "word": "狐妖小红娘陈瑶女装路透",
+        "onboard_time": 1664331745,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124539,
+        "num": 124539,
+        "word": "女性骑行人数增速约超男性2倍",
+        "onboard_time": 1664346444,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117639,
+        "num": 117639,
+        "word": "狂风中小鸟脑袋像装了神级稳定器",
+        "onboard_time": 1664342244,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113951,
+        "num": 113951,
+        "word": "16岁女生54秒淡定扑灭起火摩托",
+        "onboard_time": 1664327604,
+        "rank": 30,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 105371,
+        "num": 105371,
+        "word": "天津新增55例本土阳性感染者",
+        "onboard_time": 1664330783,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105103,
+        "num": 105103,
+        "word": "主持人领笑员",
+        "onboard_time": 1664337265,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104228,
+        "num": 104228,
+        "word": "初晨加入东莞Wz",
+        "onboard_time": 1664341107,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104148,
+        "num": 104148,
+        "word": "弈星滕王阁序",
+        "onboard_time": 1664336664,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 98718,
+        "num": 98718,
+        "word": "湖北发现距今百万年人类头骨化石",
+        "onboard_time": 1664335464,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98588,
+        "num": 98588,
+        "word": "离岸人民币兑美元跌破7.2",
+        "onboard_time": 1664331684,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 96068,
+        "num": 96068,
+        "word": "邓紫棋登billboard中国九月封面",
+        "onboard_time": 1664345243,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 94917,
+        "num": 94917,
+        "word": "icon闯关鞋子掉了",
+        "onboard_time": 1664345842,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 88046,
+        "num": 88046,
+        "word": "北溪三条管线均遭到前所未有的破坏",
+        "onboard_time": 1664326826,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87272,
+        "num": 87272,
+        "word": "苹果开放台前调度功能给老款iPad",
+        "onboard_time": 1664335703,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 86203,
+        "num": 86203,
+        "word": "男生被老师摄像头点名秒送祝福",
+        "onboard_time": 1664334145,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86132,
+        "num": 86132,
+        "word": "阴阳师",
+        "onboard_time": 1664346683,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 85066,
+        "num": 85066,
+        "word": "学生卖纸壳收废品爷爷问是否需资助",
+        "onboard_time": 1664338648,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84323,
+        "num": 84323,
+        "word": "武汉部分区域调为中高风险区",
+        "onboard_time": 1664329944,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80655,
+        "num": 80655,
+        "word": "网约车司机绕道近1小时接乘客",
+        "onboard_time": 1664332644,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79672,
+        "num": 79672,
+        "word": "虞书欣给张彬彬戴耳环",
+        "onboard_time": 1664336063,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 77934,
+        "num": 77934,
+        "word": "有钱鸭摆件",
+        "onboard_time": 1664330543,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76292,
+        "num": 76292,
+        "word": "外国婆婆奇葩劝架方式",
+        "onboard_time": 1664337806,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 74838,
+        "num": 74838,
+        "word": "85后奶爸培养4岁孩子成天才车手",
+        "onboard_time": 1664334326,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#坐标中国#"
+    }
+  }
+}
