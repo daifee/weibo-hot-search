@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664346863518,
+  "endTime": 1664350622049,
   "band_list": [
     {
       "raw_hot": 4711055,
@@ -65,6 +65,14 @@
       "onboard_time": 1664270784,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2458260,
+      "num": 2458260,
+      "word": "00后老师开始撕伞了",
+      "onboard_time": 1664344164,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 2390128,
@@ -249,14 +257,6 @@
       "onboard_time": 1664181504,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1392594,
-      "num": 1392594,
-      "word": "00后老师开始撕伞了",
-      "onboard_time": 1664344164,
-      "rank": 7,
-      "category": "幽默"
     },
     {
       "raw_hot": 1383838,
@@ -1059,6 +1059,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 529910,
+      "num": 529910,
+      "word": "女孩被困电梯连按警铃物业当误报",
+      "onboard_time": 1664345125,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 527856,
       "num": 527856,
       "word": "天津新增55例本土阳性感染者",
@@ -1177,6 +1185,14 @@
       "onboard_time": 1664166209,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 494295,
+      "num": 494295,
+      "word": "王鹤棣在密逃被吓到模糊",
+      "onboard_time": 1664346384,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 493700,
@@ -1329,6 +1345,14 @@
       "onboard_time": 1664189364,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 442746,
+      "num": 442746,
+      "word": "男孩放跑客人寄存宠物店的2万元猫",
+      "onboard_time": 1664347284,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 442471,
@@ -1635,14 +1659,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 372659,
-      "num": 372659,
-      "word": "王鹤棣在密逃被吓到模糊",
-      "onboard_time": 1664346384,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 369785,
       "num": 369785,
       "word": "当结了场健康的婚才知道的事",
@@ -1665,6 +1681,14 @@
       "onboard_time": 1664173825,
       "rank": 44,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 360628,
+      "num": 360628,
+      "word": "王嘉尔官宣世界巡演",
+      "onboard_time": 1664348964,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 359979,
@@ -1825,6 +1849,14 @@
       "onboard_time": 1664246783,
       "rank": 14,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 308971,
+      "num": 308971,
+      "word": "任泽平9天6次炮轰苹果",
+      "onboard_time": 1664347763,
+      "rank": 12,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 308123,
@@ -2019,14 +2051,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 278300,
-      "num": 278300,
-      "word": "女孩被困电梯连按警铃物业当误报",
-      "onboard_time": 1664345125,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 276721,
       "num": 257096,
       "word": "陈卓璇奔跑吧路透",
@@ -2184,6 +2208,14 @@
       "word": "张彬彬学虞书欣委屈脸",
       "onboard_time": 1664270485,
       "rank": 19,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 256051,
+      "num": 68849,
+      "word": "徐明浩跳了张艺兴面纱脚步舞",
+      "onboard_time": 1664350584,
+      "rank": 47,
       "category": "作品衍生"
     },
     {
@@ -2899,6 +2931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 187964,
+      "num": 187964,
+      "word": "男孩火锅店狂奔被汤淋一身",
+      "onboard_time": 1664349382,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187565,
       "num": 187565,
       "word": "王鹤棣新闻当事人专访",
@@ -2985,6 +3025,14 @@
       "onboard_time": 1664118752,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177786,
+      "num": 177786,
+      "word": "8个动作瘦腹部",
+      "onboard_time": 1664346983,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 177424,
@@ -3371,6 +3419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152048,
+      "num": 152048,
+      "word": "周亦安告状",
+      "onboard_time": 1664347763,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 151888,
       "num": 151888,
       "word": "这采访比小品还好笑",
@@ -3427,6 +3483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148159,
+      "num": 148159,
+      "word": "女性骑行人数增速约超男性2倍",
+      "onboard_time": 1664346444,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148116,
       "num": 148116,
       "word": "休杰克曼加盟死侍3",
@@ -3456,6 +3520,14 @@
       "word": "你安全吗",
       "onboard_time": 1664195186,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 144177,
+      "num": 144177,
+      "word": "国家队把青鸾演活了",
+      "onboard_time": 1664349264,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -3707,6 +3779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126764,
+      "num": 126764,
+      "word": "真情侣在大荧幕上有多好嗑",
+      "onboard_time": 1664349984,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 126685,
       "num": 95167,
       "word": "姜涩琪概念预告",
@@ -3721,6 +3801,14 @@
       "onboard_time": 1664271562,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126170,
+      "num": 126170,
+      "word": "自带麦克风的小猫",
+      "onboard_time": 1664346863,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 126015,
@@ -3739,20 +3827,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 125780,
+      "num": 125780,
+      "word": "潘玮柏的减肥欺骗日一周有五天",
+      "onboard_time": 1664348244,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124995,
       "num": 124995,
       "word": "昕雯联播解说成都世乒赛",
       "onboard_time": 1664288006,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124539,
-      "num": 124539,
-      "word": "女性骑行人数增速约超男性2倍",
-      "onboard_time": 1664346444,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 123298,
@@ -3916,7 +4004,7 @@
     },
     {
       "raw_hot": 110796,
-      "num": 1397542,
+      "num": 1444623,
       "word": "二十大代表是怎么选出来的",
       "onboard_time": 1664282366,
       "rank": 2,
@@ -4084,7 +4172,7 @@
     },
     {
       "raw_hot": 98443,
-      "num": 105499,
+      "num": 211337,
       "word": "买电动车你更看重什么",
       "onboard_time": 1664340029,
       "rank": 49,
@@ -4323,6 +4411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 78830,
+      "num": 78830,
+      "word": "今晚看中国女排对战日本",
+      "onboard_time": 1664349682,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78260,
       "num": 78260,
       "word": "网传大宋少年志2将开机",
@@ -4353,6 +4449,14 @@
       "onboard_time": 1664239527,
       "rank": 49,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 76792,
+      "num": 76792,
+      "word": "摄影爱好者拍下彩虹般落叶",
+      "onboard_time": 1664349382,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76648,
@@ -4401,6 +4505,14 @@
       "onboard_time": 1664275526,
       "rank": 47,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 71888,
+      "num": 71888,
+      "word": "一组动作摆平小肚腩",
+      "onboard_time": 1664349927,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 69239,
@@ -4472,6 +4584,14 @@
       "word": "暖阳镜天下无双",
       "onboard_time": 1664114912,
       "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 63256,
+      "num": 63256,
+      "word": "Hero健康电竞飞盘挑战",
+      "onboard_time": 1664349023,
+      "rank": 49,
       "category": "游戏"
     },
     {

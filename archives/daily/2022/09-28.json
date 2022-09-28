@@ -1,6 +1,6 @@
 {
   "startTime": 1664296789399,
-  "endTime": 1664346863518,
+  "endTime": 1664350622049,
   "band_list": [
     {
       "raw_hot": 4230079,
@@ -17,6 +17,14 @@
       "onboard_time": 1664329343,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2458260,
+      "num": 2458260,
+      "word": "00后老师开始撕伞了",
+      "onboard_time": 1664344164,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 1753881,
@@ -49,14 +57,6 @@
       "onboard_time": 1664330604,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1392594,
-      "num": 1392594,
-      "word": "00后老师开始撕伞了",
-      "onboard_time": 1664344164,
-      "rank": 7,
-      "category": "幽默"
     },
     {
       "raw_hot": 1383838,
@@ -219,6 +219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 529910,
+      "num": 529910,
+      "word": "女孩被困电梯连按警铃物业当误报",
+      "onboard_time": 1664345125,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 527856,
       "num": 527856,
       "word": "天津新增55例本土阳性感染者",
@@ -259,12 +267,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 494295,
+      "num": 494295,
+      "word": "王鹤棣在密逃被吓到模糊",
+      "onboard_time": 1664346384,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 479986,
       "num": 479986,
       "word": "主持人领笑员",
       "onboard_time": 1664337265,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 442746,
+      "num": 442746,
+      "word": "男孩放跑客人寄存宠物店的2万元猫",
+      "onboard_time": 1664347284,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 432330,
@@ -331,14 +355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 372659,
-      "num": 372659,
-      "word": "王鹤棣在密逃被吓到模糊",
-      "onboard_time": 1664346384,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 369875,
       "num": 283079,
       "word": "女子输液回血护士先掏手机",
@@ -355,12 +371,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360628,
+      "num": 360628,
+      "word": "王嘉尔官宣世界巡演",
+      "onboard_time": 1664348964,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 331736,
       "num": 331736,
       "word": "外国婆婆奇葩劝架方式",
       "onboard_time": 1664337806,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 308971,
+      "num": 308971,
+      "word": "任泽平9天6次炮轰苹果",
+      "onboard_time": 1664347763,
+      "rank": 12,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 299212,
@@ -393,14 +425,6 @@
       "onboard_time": 1664310671,
       "rank": 44,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 278300,
-      "num": 278300,
-      "word": "女孩被困电梯连按警铃物业当误报",
-      "onboard_time": 1664345125,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 274376,
@@ -441,6 +465,14 @@
       "onboard_time": 1664292866,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256051,
+      "num": 68849,
+      "word": "徐明浩跳了张艺兴面纱脚步舞",
+      "onboard_time": 1664350584,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 252545,
@@ -651,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187964,
+      "num": 187964,
+      "word": "男孩火锅店狂奔被汤淋一身",
+      "onboard_time": 1664349382,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184779,
       "num": 184779,
       "word": "苹果开放台前调度功能给老款iPad",
@@ -673,6 +713,14 @@
       "onboard_time": 1664340448,
       "rank": 46,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 177786,
+      "num": 177786,
+      "word": "8个动作瘦腹部",
+      "onboard_time": 1664346983,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 175419,
@@ -763,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152048,
+      "num": 152048,
+      "word": "周亦安告状",
+      "onboard_time": 1664347763,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 148954,
       "num": 148954,
       "word": "男子网恋奔现后发现对象已当外婆",
@@ -779,11 +835,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148159,
+      "num": 148159,
+      "word": "女性骑行人数增速约超男性2倍",
+      "onboard_time": 1664346444,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148116,
       "num": 148116,
       "word": "休杰克曼加盟死侍3",
       "onboard_time": 1664324306,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 144177,
+      "num": 144177,
+      "word": "国家队把青鸾演活了",
+      "onboard_time": 1664349264,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -859,12 +931,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 124539,
-      "num": 124539,
-      "word": "女性骑行人数增速约超男性2倍",
-      "onboard_time": 1664346444,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 126764,
+      "num": 126764,
+      "word": "真情侣在大荧幕上有多好嗑",
+      "onboard_time": 1664349984,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 126170,
+      "num": 126170,
+      "word": "自带麦克风的小猫",
+      "onboard_time": 1664346863,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 125780,
+      "num": 125780,
+      "word": "潘玮柏的减肥欺骗日一周有五天",
+      "onboard_time": 1664348244,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 122376,
@@ -916,7 +1004,7 @@
     },
     {
       "raw_hot": 110597,
-      "num": 1397542,
+      "num": 1444623,
       "word": "二十大代表是怎么选出来的",
       "onboard_time": 1664282366,
       "rank": 2,
@@ -964,7 +1052,7 @@
     },
     {
       "raw_hot": 98443,
-      "num": 105499,
+      "num": 211337,
       "word": "买电动车你更看重什么",
       "onboard_time": 1664340029,
       "rank": 49,
@@ -1027,11 +1115,27 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 78830,
+      "num": 78830,
+      "word": "今晚看中国女排对战日本",
+      "onboard_time": 1664349682,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77632,
       "num": 77632,
       "word": "养了十几年的狗狗去世前默默离家",
       "onboard_time": 1664282603,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76792,
+      "num": 76792,
+      "word": "摄影爱好者拍下彩虹般落叶",
+      "onboard_time": 1664349382,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1049,6 +1153,14 @@
       "onboard_time": 1664278584,
       "rank": 35,
       "category": "科技,幽默"
+    },
+    {
+      "raw_hot": 71888,
+      "num": 71888,
+      "word": "一组动作摆平小肚腩",
+      "onboard_time": 1664349927,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 71824,
@@ -1105,6 +1217,14 @@
       "onboard_time": 1664274026,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 63256,
+      "num": 63256,
+      "word": "Hero健康电竞飞盘挑战",
+      "onboard_time": 1664349023,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 62451,

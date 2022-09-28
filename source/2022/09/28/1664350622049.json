@@ -1,0 +1,410 @@
+{
+  "runTime": 1664350622049,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2650592,
+        "num": 2650592,
+        "word": "保研",
+        "onboard_time": 1664342903,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 2458260,
+        "num": 2458260,
+        "word": "00后老师开始撕伞了",
+        "onboard_time": 1664344164,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 14867,
+        "num": 1444623,
+        "word": "二十大代表是怎么选出来的",
+        "onboard_time": 1664282366,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 887207,
+        "num": 887207,
+        "word": "朝阳群众又双叒叕立功了",
+        "onboard_time": 1664329343,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 612218,
+        "num": 612218,
+        "word": "新娘将婚礼手捧花送婆婆新郎泪崩",
+        "onboard_time": 1664339127,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529910,
+        "num": 529910,
+        "word": "女孩被困电梯连按警铃物业当误报",
+        "onboard_time": 1664345125,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494295,
+        "num": 494295,
+        "word": "王鹤棣在密逃被吓到模糊",
+        "onboard_time": 1664346384,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 442746,
+        "num": 442746,
+        "word": "男孩放跑客人寄存宠物店的2万元猫",
+        "onboard_time": 1664347284,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379936,
+        "num": 379936,
+        "word": "一口气炫24集东北插班生",
+        "onboard_time": 1664343743,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 360628,
+        "num": 360628,
+        "word": "王嘉尔官宣世界巡演",
+        "onboard_time": 1664348964,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 348615,
+        "num": 348615,
+        "word": "大学教授说别太把自己当回事",
+        "onboard_time": 1664343324,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 336984,
+        "num": 336984,
+        "word": "农民日报评一根玉米卖6元",
+        "onboard_time": 1664330604,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308971,
+        "num": 308971,
+        "word": "任泽平9天6次炮轰苹果",
+        "onboard_time": 1664347763,
+        "rank": 12,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 235479,
+        "num": 235479,
+        "word": "太原报告1例初筛阳性者",
+        "onboard_time": 1664341468,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543,
+        "num": 211337,
+        "word": "买电动车你更看重什么",
+        "onboard_time": 1664340029,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203939,
+        "num": 203939,
+        "word": "王菲连续四年献唱国庆档电影",
+        "onboard_time": 1664340327,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187964,
+        "num": 187964,
+        "word": "男孩火锅店狂奔被汤淋一身",
+        "onboard_time": 1664349382,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185179,
+        "num": 185179,
+        "word": "扎克伯格跌出美国富豪榜前十",
+        "onboard_time": 1664343743,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 177786,
+        "num": 177786,
+        "word": "8个动作瘦腹部",
+        "onboard_time": 1664346983,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171527,
+        "num": 171527,
+        "word": "iPhone14Pro被曝充电时重启",
+        "onboard_time": 1664327966,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 164155,
+        "num": 164155,
+        "word": "马斯克2510亿美元身价成美国首富",
+        "onboard_time": 1664338586,
+        "rank": 20,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 158543,
+        "num": 158543,
+        "word": "车银优韩素希李洙赫网漫海报",
+        "onboard_time": 1664335404,
+        "rank": 21,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 152048,
+        "num": 152048,
+        "word": "周亦安告状",
+        "onboard_time": 1664347763,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148159,
+        "num": 148159,
+        "word": "女性骑行人数增速约超男性2倍",
+        "onboard_time": 1664346444,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144980,
+        "num": 144980,
+        "word": "平台经理多想一下救回中毒夫妻",
+        "onboard_time": 1664340448,
+        "rank": 24,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 144177,
+        "num": 144177,
+        "word": "国家队把青鸾演活了",
+        "onboard_time": 1664349264,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140406,
+        "num": 140406,
+        "word": "布林肯回应北溪天然气管道泄漏",
+        "onboard_time": 1664336905,
+        "rank": 26,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 139562,
+        "num": 139562,
+        "word": "男子网恋被骗17万骗子称他太好骗",
+        "onboard_time": 1664337686,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135868,
+        "num": 135868,
+        "word": "骄阳伴我官宣开机",
+        "onboard_time": 1664331684,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135788,
+        "num": 135788,
+        "word": "苹果放弃增产iPhone",
+        "onboard_time": 1664333846,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 126764,
+        "num": 126764,
+        "word": "真情侣在大荧幕上有多好嗑",
+        "onboard_time": 1664349984,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126170,
+        "num": 126170,
+        "word": "自带麦克风的小猫",
+        "onboard_time": 1664346863,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125780,
+        "num": 125780,
+        "word": "潘玮柏的减肥欺骗日一周有五天",
+        "onboard_time": 1664348244,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117276,
+        "num": 117276,
+        "word": "英雄联盟S12",
+        "onboard_time": 1664339909,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105114,
+        "num": 105114,
+        "word": "Steam取消农历新年特卖",
+        "onboard_time": 1664335404,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 97514,
+        "num": 97514,
+        "word": "16岁女生54秒淡定扑灭起火摩托",
+        "onboard_time": 1664327604,
+        "rank": 35,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 94875,
+        "num": 94875,
+        "word": "狐妖小红娘陈瑶女装路透",
+        "onboard_time": 1664331745,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 94458,
+        "num": 94458,
+        "word": "谢楠好敢说",
+        "onboard_time": 1664338586,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93989,
+        "num": 93989,
+        "word": "icon闯关鞋子掉了",
+        "onboard_time": 1664345842,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 85232,
+        "num": 85232,
+        "word": "主持人领笑员",
+        "onboard_time": 1664337265,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83225,
+        "num": 83225,
+        "word": "狂风中小鸟脑袋像装了神级稳定器",
+        "onboard_time": 1664342244,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79218,
+        "num": 79218,
+        "word": "离岸人民币兑美元跌破7.2",
+        "onboard_time": 1664331684,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 78830,
+        "num": 78830,
+        "word": "今晚看中国女排对战日本",
+        "onboard_time": 1664349682,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78745,
+        "num": 78745,
+        "word": "天津新增55例本土阳性感染者",
+        "onboard_time": 1664330783,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76792,
+        "num": 76792,
+        "word": "摄影爱好者拍下彩虹般落叶",
+        "onboard_time": 1664349382,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71888,
+        "num": 71888,
+        "word": "一组动作摆平小肚腩",
+        "onboard_time": 1664349927,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70430,
+        "num": 70430,
+        "word": "弈星滕王阁序",
+        "onboard_time": 1664336664,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 256051,
+        "num": 68849,
+        "word": "徐明浩跳了张艺兴面纱脚步舞",
+        "onboard_time": 1664350584,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 67144,
+        "num": 67144,
+        "word": "初晨加入东莞Wz",
+        "onboard_time": 1664341107,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 63256,
+        "num": 63256,
+        "word": "Hero健康电竞飞盘挑战",
+        "onboard_time": 1664349023,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#坐标中国#"
+    }
+  }
+}
