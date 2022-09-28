@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/28 22:10:50
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/28 22:40:28
 </p>
 </blockquote>
 <p>
@@ -2727,6 +2727,12 @@ iPhone14 Plus（热度：1672968）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E7%A6%81%E6%AD%A2%E5%AD%A6%E6%A0%A1%E8%81%98%E7%94%A8%E6%9C%89%E6%80%A7%E9%AA%9A%E6%89%B0%E7%8A%AF%E7%BD%AA%E8%AE%B0%E5%BD%95%E4%BA%BA%E5%91%98%23" target="weibo">
+天津禁止学校聘用有性骚扰犯罪记录人员（热度：1632096）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8F%90%E5%89%8D%E6%BF%80%E6%B4%BBiPhone14%E6%AF%8F%E5%8F%B0%E7%BD%9A%E6%AC%BE20%E4%B8%87%23" target="weibo">
 提前激活iPhone14每台罚款20万（热度：1631807）
 </a>
@@ -4457,12 +4463,6 @@ Twins不承认吴谨言的粤语是自己教的（热度：1255504）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E7%8A%81%E7%96%AB%E6%83%85%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
 伊犁疫情发布会（热度：1249076）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E7%A6%81%E6%AD%A2%E5%AD%A6%E6%A0%A1%E8%81%98%E7%94%A8%E6%9C%89%E6%80%A7%E9%AA%9A%E6%89%B0%E7%8A%AF%E7%BD%AA%E8%AE%B0%E5%BD%95%E4%BA%BA%E5%91%98%23" target="weibo">
-天津禁止学校聘用有性骚扰犯罪记录人员（热度：1247478）
 </a>
 </li>
 
