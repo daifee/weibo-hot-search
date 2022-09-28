@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664354068912,
+  "endTime": 1664355320752,
   "band_list": [
     {
       "raw_hot": 4711055,
@@ -48,6 +48,14 @@
       "word": "妈妈教爨姓儿子写名字时崩溃",
       "onboard_time": 1664259745,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2645826,
+      "num": 2645826,
+      "word": "男子月薪九千不会用word被辞退",
+      "onboard_time": 1664351545,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -139,14 +147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2145952,
-      "num": 2145952,
-      "word": "男子月薪九千不会用word被辞退",
-      "onboard_time": 1664351545,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 2129975,
       "num": 2129975,
       "word": "西北工业大学遭美国安局攻击最新调查",
@@ -169,6 +169,14 @@
       "onboard_time": 1664287349,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1830693,
+      "num": 1424888,
+      "word": "长春一餐厅起火致17人死亡",
+      "onboard_time": 1664352985,
+      "rank": 3,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1753881,
@@ -265,14 +273,6 @@
       "onboard_time": 1664181504,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1424888,
-      "num": 1424888,
-      "word": "长春一餐厅起火致17人死亡",
-      "onboard_time": 1664352985,
-      "rank": 3,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1383838,
@@ -899,6 +899,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 595044,
+      "num": 595044,
+      "word": "李玟节目录制现场质问导演组",
+      "onboard_time": 1664354005,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 589571,
       "num": 589571,
       "word": "王菲连续四年献唱国庆档电影",
@@ -1088,6 +1096,14 @@
       "word": "女孩被困电梯连按警铃物业当误报",
       "onboard_time": 1664345125,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 528949,
+      "num": 528949,
+      "word": "男孩火锅店狂奔被汤淋一身",
+      "onboard_time": 1664349382,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -1299,14 +1315,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 465653,
-      "num": 465653,
-      "word": "男孩火锅店狂奔被汤淋一身",
-      "onboard_time": 1664349382,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 462665,
       "num": 462665,
       "word": "北京疾控倡导市民就地过节",
@@ -1499,6 +1507,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 410178,
+      "num": 303486,
+      "word": "刘诗诗刘宇宁一念关山蓝衣路透",
+      "onboard_time": 1664355025,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 409797,
       "num": 312051,
       "word": "大学生用肯德基优惠券漏洞诈骗获刑",
@@ -1585,6 +1601,14 @@
       "onboard_time": 1664263883,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 395627,
+      "num": 395627,
+      "word": "真情侣在大荧幕上有多好嗑",
+      "onboard_time": 1664349984,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 393990,
@@ -1803,20 +1827,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 342392,
+      "num": 301166,
+      "word": "男子收到与去世爷爷合照瞬间破防",
+      "onboard_time": 1664352382,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 339681,
       "num": 339681,
       "word": "男子鸡骨卡喉喝醋吞饭致食道穿孔",
       "onboard_time": 1664184265,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 338863,
-      "num": 338863,
-      "word": "真情侣在大荧幕上有多好嗑",
-      "onboard_time": 1664349984,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 335687,
@@ -2355,14 +2379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 247424,
-      "num": 181322,
-      "word": "李玟节目录制现场质问导演组",
-      "onboard_time": 1664354005,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 247382,
       "num": 247382,
       "word": "公安部新闻发布会",
@@ -2779,6 +2795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 209626,
+      "num": 209626,
+      "word": "太原疫情防控",
+      "onboard_time": 1664354424,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208120,
       "num": 208120,
       "word": "米勒的S12剧本",
@@ -2891,12 +2915,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 197783,
+      "num": 192045,
+      "word": "苏醒再就业打工技能加满",
+      "onboard_time": 1664354725,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197500,
       "num": 197500,
       "word": "老人街头晕倒一群人冲了上去",
       "onboard_time": 1664249606,
       "rank": 30,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 195880,
+      "num": 195880,
+      "word": "奔驰车机推送卖车广告",
+      "onboard_time": 1664351484,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195297,
@@ -2987,6 +3027,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 188716,
+      "num": 188716,
+      "word": "任嘉伦说陆炎没在怕的",
+      "onboard_time": 1664354785,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 188598,
       "num": 188598,
       "word": "Hero微博直播吧",
@@ -3051,20 +3099,20 @@
       "category": "科技"
     },
     {
-      "raw_hot": 181477,
-      "num": 181477,
-      "word": "男子收到与去世爷爷合照瞬间破防",
-      "onboard_time": 1664352382,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 180962,
       "num": 180962,
       "word": "昆明本轮疫情传播源头尚未查清",
       "onboard_time": 1664255068,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180004,
+      "num": 160389,
+      "word": "国家队把青鸾演活了",
+      "onboard_time": 1664349264,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 179996,
@@ -3169,6 +3217,14 @@
       "onboard_time": 1664176165,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 174316,
+      "num": 174316,
+      "word": "把雄安地铁开进北京",
+      "onboard_time": 1664352805,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173299,
@@ -3331,14 +3387,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 160748,
-      "num": 160748,
-      "word": "奔驰车机推送卖车广告",
-      "onboard_time": 1664351484,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160654,
       "num": 160654,
       "word": "微风里益同行",
@@ -3361,14 +3409,6 @@
       "onboard_time": 1664137811,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 160389,
-      "num": 160389,
-      "word": "国家队把青鸾演活了",
-      "onboard_time": 1664349264,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 159582,
@@ -3489,6 +3529,14 @@
       "onboard_time": 1664222111,
       "rank": 38,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 153247,
+      "num": 153247,
+      "word": "红烧肉用英语怎么说",
+      "onboard_time": 1664354186,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 152854,
@@ -3835,6 +3883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127652,
+      "num": 127652,
+      "word": "网友拍到彩虹版落叶仿佛调色盘",
+      "onboard_time": 1664354964,
+      "rank": 29,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 127516,
       "num": 127516,
       "word": "女生向同桌比心收超甜回应",
@@ -4065,14 +4121,6 @@
       "onboard_time": 1664341526,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 112962,
-      "num": 112962,
-      "word": "把雄安地铁开进北京",
-      "onboard_time": 1664352805,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 112329,
