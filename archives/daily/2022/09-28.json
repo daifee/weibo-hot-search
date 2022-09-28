@@ -1,6 +1,6 @@
 {
   "startTime": 1664296789399,
-  "endTime": 1664360973361,
+  "endTime": 1664362146430,
   "band_list": [
     {
       "raw_hot": 4230079,
@@ -155,6 +155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 849214,
+      "num": 849214,
+      "word": "4万买下周大福25万金饰被起诉",
+      "onboard_time": 1664359644,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 779832,
       "num": 779832,
       "word": "武汉新增9例无症状感染者",
@@ -169,6 +177,14 @@
       "onboard_time": 1664339127,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 683555,
+      "num": 683555,
+      "word": "印度低种姓学生答错题被老师打死",
+      "onboard_time": 1664358985,
+      "rank": 10,
+      "category": "社会负面"
     },
     {
       "raw_hot": 657658,
@@ -193,14 +209,6 @@
       "onboard_time": 1664331684,
       "rank": 6,
       "category": "财经"
-    },
-    {
-      "raw_hot": 602431,
-      "num": 248153,
-      "word": "印度低种姓学生答错题被老师打死",
-      "onboard_time": 1664358985,
-      "rank": 10,
-      "category": "社会负面"
     },
     {
       "raw_hot": 601518,
@@ -323,14 +331,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 502458,
-      "num": 247451,
-      "word": "4万买下周大福25万金饰被起诉",
-      "onboard_time": 1664359644,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 499405,
       "num": 499405,
       "word": "男孩放跑客人寄存宠物店的2万元猫",
@@ -377,6 +377,14 @@
       "onboard_time": 1664337265,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 458299,
+      "num": 382329,
+      "word": "一汽大众致歉",
+      "onboard_time": 1664359524,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 444695,
@@ -507,6 +515,22 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 358192,
+      "num": 358192,
+      "word": "不要赌人民币汇率单边升值或贬值",
+      "onboard_time": 1664360485,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 352413,
+      "num": 352413,
+      "word": "这就是走路粉的快乐吗",
+      "onboard_time": 1664359283,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 331736,
       "num": 331736,
       "word": "外国婆婆奇葩劝架方式",
@@ -515,28 +539,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 320536,
-      "num": 246179,
-      "word": "这就是走路粉的快乐吗",
-      "onboard_time": 1664359283,
-      "rank": 12,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 312641,
-      "num": 245406,
+      "num": 290403,
       "word": "AirPodsPro2篆刻内容会弹窗显示",
       "onboard_time": 1664357844,
       "rank": 32,
       "category": "科技"
-    },
-    {
-      "raw_hot": 305165,
-      "num": 244291,
-      "word": "一汽大众致歉",
-      "onboard_time": 1664359524,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 299212,
@@ -553,6 +561,14 @@
       "onboard_time": 1664333665,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 291898,
+      "num": 291898,
+      "word": "番茄牛腩拌饭是真的绝绝子",
+      "onboard_time": 1664357544,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 286774,
@@ -587,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264291,
+      "num": 264291,
+      "word": "苏有朋叫白举纲师兄",
+      "onboard_time": 1664361325,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262378,
       "num": 262378,
       "word": "初晨加入东莞Wz",
@@ -609,6 +633,14 @@
       "onboard_time": 1664292866,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254263,
+      "num": 231522,
+      "word": "苹果否认车祸检测是人工客服",
+      "onboard_time": 1664358985,
+      "rank": 20,
+      "category": "科技"
     },
     {
       "raw_hot": 252545,
@@ -659,14 +691,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 248785,
-      "num": 248785,
-      "word": "番茄牛腩拌饭是真的绝绝子",
-      "onboard_time": 1664357544,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 248250,
       "num": 248250,
       "word": "中介伪装房东9年骗走老人1050万",
@@ -697,14 +721,6 @@
       "onboard_time": 1664354424,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 235123,
-      "num": 231522,
-      "word": "苹果否认车祸检测是人工客服",
-      "onboard_time": 1664358985,
-      "rank": 20,
-      "category": "科技"
     },
     {
       "raw_hot": 232943,
@@ -1027,14 +1043,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 161563,
-      "num": 161563,
-      "word": "不要赌人民币汇率单边升值或贬值",
-      "onboard_time": 1664360485,
-      "rank": 26,
-      "category": "财经"
-    },
-    {
       "raw_hot": 158247,
       "num": 158247,
       "word": "警方回应男子酒吧骚扰邻桌女生",
@@ -1096,6 +1104,14 @@
       "word": "休杰克曼加盟死侍3",
       "onboard_time": 1664324306,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 143529,
+      "num": 143529,
+      "word": "陆登夫妇同床谈心",
+      "onboard_time": 1664361445,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -1267,6 +1283,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 111580,
+      "num": 111580,
+      "word": "张彬彬晒庄羽回程机票求原谅",
+      "onboard_time": 1664361985,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 110597,
       "num": 1489823,
       "word": "二十大代表是怎么选出来的",
@@ -1347,6 +1371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 97425,
+      "num": 97425,
+      "word": "终于有办法缓解偏头痛了",
+      "onboard_time": 1664361743,
+      "rank": 37,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 94873,
       "num": 94873,
       "word": "我的反派男友此刻心动芭莎大片",
@@ -1401,6 +1433,14 @@
       "onboard_time": 1664346683,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 83203,
+      "num": 92372,
+      "word": "从走路就能看出狗狗的热情",
+      "onboard_time": 1664361024,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 81709,
