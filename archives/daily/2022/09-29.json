@@ -1,6 +1,6 @@
 {
   "startTime": 1664383235790,
-  "endTime": 1664390146919,
+  "endTime": 1664391317995,
   "band_list": [
     {
       "raw_hot": 1124423,
@@ -379,6 +379,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 47095,
+      "num": 41094,
+      "word": "江苏一中学起薪40万招聘教师",
+      "onboard_time": 1664388674,
+      "rank": 20,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 44605,
       "num": 44605,
       "word": "李聂主动邀请张根源约会",
@@ -427,14 +435,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 33460,
-      "num": 33460,
-      "word": "江苏一中学起薪40万招聘教师",
-      "onboard_time": 1664388674,
-      "rank": 20,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 31057,
       "num": 31057,
       "word": "赛博朋克边缘行者",
@@ -459,12 +459,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 10539,
-      "num": 10539,
+      "raw_hot": 12375,
+      "num": 12375,
       "word": "昆明赋黄码70442人",
       "onboard_time": 1664389992,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10086,
+      "num": 10086,
+      "word": "电视剧底线",
+      "onboard_time": 1664390532,
+      "rank": 48,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
