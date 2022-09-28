@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/29 00:40:35 ~ 2022/09/29 03:39:49
+本榜单时间：2022/09/29 00:40:35 ~ 2022/09/29 04:27:29
 </p>
 </blockquote>
 <p>
@@ -363,8 +363,20 @@ AirPodsPro2篆刻内容会弹窗显示（热度：48665）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%B5%B7%E5%86%9B%E4%B9%B1%E6%8E%92%E6%B1%A1%E8%A2%AB%E7%BD%9A880%E4%B8%87%E7%BE%8E%E5%85%83%23" target="weibo">
+美国海军乱排污被罚880万美元（热度：15672）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%A4%E7%9C%9F%E5%90%83%E9%A5%BC%E5%B9%B2%E7%9A%84%E5%B0%8F%E4%BB%93%E9%BC%A0%23" target="weibo">
 认真吃饼干的小仓鼠（热度：13990）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%A4%A9%E6%B4%A510%E6%9C%881%E6%97%A5%E8%B5%B7%E5%B0%81%E5%9F%8E3%E5%A4%A9%E7%B3%BB%E8%B0%A3%E8%A8%80%23" target="weibo">
+网传天津10月1日起封城3天系谣言（热度：11469）
 </a>
 </li>
 
@@ -383,6 +395,30 @@ AirPodsPro2篆刻内容会弹窗显示（热度：48665）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E9%B8%BD%E5%90%8E%E8%BF%9E%E7%BB%AD9%E6%AC%A1%E6%8B%A8%E6%89%93110%E6%8A%A5%E8%AD%A6%23" target="weibo">
 男子被鸽后连续9次拨打110报警（热度：8793）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B4%A7%E8%BD%A6%E6%8B%89%E4%B8%80%E8%BD%A6%E6%96%97%E7%9A%84%E5%A5%A5%E7%89%B9%E6%9B%BC%E8%A2%AB%E4%BA%A4%E8%AD%A6%E6%8B%A6%E4%B8%8B%23" target="weibo">
+货车拉一车斗的奥特曼被交警拦下（热度：7201）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%8C%BB%E7%94%9F%E4%BB%A5%E5%89%8D%E6%98%AF%E5%B9%B2%E9%94%80%E5%94%AE%E7%9A%84%E5%90%A7%23" target="weibo">
+这医生以前是干销售的吧（热度：6667）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%905%E5%B0%8F%E6%97%B6%E7%94%A899%E4%B8%AA%E5%A1%91%E6%96%99%E8%A2%8B%E5%81%9A%E5%87%BA%E5%A9%9A%E7%BA%B1%23" target="weibo">
+女子5小时用99个塑料袋做出婚纱（热度：6166）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%237%E5%B2%81%E7%94%B7%E5%AD%A9%E5%95%83%E6%A2%A8%E4%B8%80%E5%8F%A3%E7%A1%8C%E6%8E%892%E9%A2%97%E5%A4%A7%E9%97%A8%E7%89%99%23" target="weibo">
+7岁男孩啃梨一口硌掉2颗大门牙（热度：6065）
 </a>
 </li>
 

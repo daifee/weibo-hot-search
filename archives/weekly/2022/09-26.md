@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/26 00:32:19 ~ 2022/09/29 03:39:49
+本榜单时间：2022/09/26 00:32:19 ~ 2022/09/29 04:27:29
 </p>
 </blockquote>
 <p>
@@ -4329,6 +4329,12 @@ Cat时尚先生（热度：61255）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%B5%B7%E5%86%9B%E4%B9%B1%E6%8E%92%E6%B1%A1%E8%A2%AB%E7%BD%9A880%E4%B8%87%E7%BE%8E%E5%85%83%23" target="weibo">
+美国海军乱排污被罚880万美元（热度：15672）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%BD%E5%AD%90%E8%BF%98%E4%BB%A5%E4%B8%BA%E4%B8%AD%E5%B9%BB%E6%9C%AF%E4%BA%86%23" target="weibo">
 鸽子还以为中幻术了（热度：15314）
 </a>
@@ -4361,6 +4367,12 @@ Cat时尚先生（热度：61255）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%9D%E6%8C%81%E6%84%9F%E7%9F%A5%E5%8A%9B%E6%9C%89%E5%A4%9A%E9%87%8D%E8%A6%81%23" target="weibo">
 保持感知力有多重要（热度：12817）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%A4%A9%E6%B4%A510%E6%9C%881%E6%97%A5%E8%B5%B7%E5%B0%81%E5%9F%8E3%E5%A4%A9%E7%B3%BB%E8%B0%A3%E8%A8%80%23" target="weibo">
+网传天津10月1日起封城3天系谣言（热度：11469）
 </a>
 </li>
 
@@ -4437,6 +4449,12 @@ VR到底能干什么（热度：10742）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B4%A7%E8%BD%A6%E6%8B%89%E4%B8%80%E8%BD%A6%E6%96%97%E7%9A%84%E5%A5%A5%E7%89%B9%E6%9B%BC%E8%A2%AB%E4%BA%A4%E8%AD%A6%E6%8B%A6%E4%B8%8B%23" target="weibo">
+货车拉一车斗的奥特曼被交警拦下（热度：7201）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%81%8B%E6%96%B0%E4%B8%93%E8%BE%91%E6%9C%89%E7%82%B9%E4%B8%9C%E8%A5%BF%23" target="weibo">
 刘恋新专辑有点东西（热度：6999）
 </a>
@@ -4451,6 +4469,12 @@ VR到底能干什么（热度：10742）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A3%8E%E5%86%8D%E8%B5%B7%E6%97%B6%E4%BB%A3%E8%A1%A8%E9%A6%99%E6%B8%AF%E8%A7%92%E9%80%90%E5%A5%A5%E6%96%AF%E5%8D%A1%23" target="weibo">
 风再起时代表香港角逐奥斯卡（热度：6943）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%8C%BB%E7%94%9F%E4%BB%A5%E5%89%8D%E6%98%AF%E5%B9%B2%E9%94%80%E5%94%AE%E7%9A%84%E5%90%A7%23" target="weibo">
+这医生以前是干销售的吧（热度：6667）
 </a>
 </li>
 
@@ -4485,6 +4509,12 @@ VR到底能干什么（热度：10742）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%905%E5%B0%8F%E6%97%B6%E7%94%A899%E4%B8%AA%E5%A1%91%E6%96%99%E8%A2%8B%E5%81%9A%E5%87%BA%E5%A9%9A%E7%BA%B1%23" target="weibo">
+女子5小时用99个塑料袋做出婚纱（热度：6166）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9C%A8%E6%9C%AA%E5%BC%80%E5%B0%81%E5%A4%A7%E7%AA%91%E6%B1%BD%E6%B0%B4%E4%B8%AD%E5%8F%91%E7%8E%B0%E5%A1%91%E6%96%99%23" target="weibo">
 男子在未开封大窑汽水中发现塑料（热度：6086）
 </a>
@@ -4499,6 +4529,12 @@ VR到底能干什么（热度：10742）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A9%E6%98%8F%E8%BF%B7%E6%B0%91%E8%AD%A6%E9%93%81%E9%AA%91%E6%8E%A5%E5%8A%9B%E5%BC%8F%E9%80%81%E5%8C%BB%23" target="weibo">
 小孩昏迷民警铁骑接力式送医（热度：6076）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%237%E5%B2%81%E7%94%B7%E5%AD%A9%E5%95%83%E6%A2%A8%E4%B8%80%E5%8F%A3%E7%A1%8C%E6%8E%892%E9%A2%97%E5%A4%A7%E9%97%A8%E7%89%99%23" target="weibo">
+7岁男孩啃梨一口硌掉2颗大门牙（热度：6065）
 </a>
 </li>
 
