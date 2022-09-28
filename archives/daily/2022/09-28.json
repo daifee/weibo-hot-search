@@ -1,6 +1,6 @@
 {
   "startTime": 1664296789399,
-  "endTime": 1664364144997,
+  "endTime": 1664365255035,
   "band_list": [
     {
       "raw_hot": 4230079,
@@ -35,8 +35,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1860308,
-      "num": 1860308,
+      "raw_hot": 1970964,
+      "num": 1970964,
       "word": "4万买下周大福25万金饰被起诉",
       "onboard_time": 1664359644,
       "rank": 11,
@@ -184,6 +184,14 @@
       "word": "新娘将婚礼手捧花送婆婆新郎泪崩",
       "onboard_time": 1664339127,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 740250,
+      "num": 411464,
+      "word": "女子为玩羊了个羊看广告被骗9万元",
+      "onboard_time": 1664364142,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -723,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239970,
+      "num": 239970,
+      "word": "李永钦翻跳NewThing",
+      "onboard_time": 1664364625,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 232943,
       "num": 232943,
       "word": "金晨新剧预约破百万",
@@ -875,6 +891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200624,
+      "num": 200624,
+      "word": "王者花泽香菜合作",
+      "onboard_time": 1664363005,
+      "rank": 18,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 197783,
       "num": 192045,
       "word": "苏醒再就业打工技能加满",
@@ -939,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183066,
+      "num": 183066,
+      "word": "张云龙看到满屏甜妹战术性后退",
+      "onboard_time": 1664363544,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 182449,
       "num": 182449,
       "word": "平台经理多想一下救回中毒夫妻",
@@ -969,14 +1001,6 @@
       "onboard_time": 1664346983,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 177219,
-      "num": 177219,
-      "word": "王者花泽香菜合作",
-      "onboard_time": 1664363005,
-      "rank": 18,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 177032,
@@ -1035,20 +1059,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 169458,
+      "num": 169458,
+      "word": "玩游戏千万不要吐槽女朋友",
+      "onboard_time": 1664362585,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 166260,
       "num": 166260,
       "word": "周亦安告状",
       "onboard_time": 1664347763,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 166121,
-      "num": 166121,
-      "word": "张云龙看到满屏甜妹战术性后退",
-      "onboard_time": 1664363544,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 164491,
@@ -1235,12 +1259,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 130388,
-      "num": 130388,
-      "word": "玩游戏千万不要吐槽女朋友",
-      "onboard_time": 1664362585,
-      "rank": 29,
-      "category": "幽默"
+      "raw_hot": 129912,
+      "num": 129912,
+      "word": "潘粤明回应胡八一瘦了",
+      "onboard_time": 1664365164,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 127652,
@@ -1307,6 +1331,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 115702,
+      "num": 115702,
+      "word": "从走路就能看出狗狗的热情",
+      "onboard_time": 1664361024,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 113447,
       "num": 113447,
       "word": "原神二周年专属挂件",
@@ -1323,11 +1355,11 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 112070,
-      "num": 112070,
-      "word": "从走路就能看出狗狗的热情",
-      "onboard_time": 1664361024,
-      "rank": 39,
+      "raw_hot": 111449,
+      "num": 111449,
+      "word": "小猫文学也太好哭了",
+      "onboard_time": 1664364443,
+      "rank": 34,
       "category": "幽默"
     },
     {
@@ -1475,20 +1507,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 83330,
+      "num": 83330,
+      "word": "为何今年的大闸蟹迟到了",
+      "onboard_time": 1664363005,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81709,
       "num": 81709,
       "word": "教你练出小蛮腰",
       "onboard_time": 1664358385,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 81564,
-      "num": 81564,
-      "word": "为何今年的大闸蟹迟到了",
-      "onboard_time": 1664363005,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 78419,
@@ -1619,11 +1651,11 @@
       "category": "科技"
     },
     {
-      "raw_hot": 61414,
-      "num": 61414,
-      "word": "女子为玩羊了个羊看广告被骗9万元",
-      "onboard_time": 1664364142,
-      "rank": 49,
+      "raw_hot": 61940,
+      "num": 61940,
+      "word": "官方辟谣临夏大巴事故致4人死亡",
+      "onboard_time": 1664364743,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
