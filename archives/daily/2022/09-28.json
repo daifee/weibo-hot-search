@@ -1,6 +1,6 @@
 {
   "startTime": 1664296789399,
-  "endTime": 1664365255035,
+  "endTime": 1664369446332,
   "band_list": [
     {
       "raw_hot": 4230079,
@@ -33,6 +33,14 @@
       "onboard_time": 1664344164,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2308471,
+      "num": 553355,
+      "word": "女子为玩羊了个羊看广告被骗9万元",
+      "onboard_time": 1664364142,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1970964,
@@ -184,14 +192,6 @@
       "word": "新娘将婚礼手捧花送婆婆新郎泪崩",
       "onboard_time": 1664339127,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 740250,
-      "num": 411464,
-      "word": "女子为玩羊了个羊看广告被骗9万元",
-      "onboard_time": 1664364142,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -419,12 +419,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 433796,
+      "num": 433796,
+      "word": "潘粤明回应胡八一瘦了",
+      "onboard_time": 1664365164,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 432330,
       "num": 432330,
       "word": "太原报告1例初筛阳性者",
       "onboard_time": 1664341468,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 415779,
+      "num": 415779,
+      "word": "大学生毕业后存钱有多重要",
+      "onboard_time": 1664366364,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 411463,
@@ -539,12 +555,28 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 334920,
+      "num": 334920,
+      "word": "广州长沙深圳成出行最热门城市",
+      "onboard_time": 1664365944,
+      "rank": 9,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 331736,
       "num": 331736,
       "word": "外国婆婆奇葩劝架方式",
       "onboard_time": 1664337806,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 329211,
+      "num": 329211,
+      "word": "虞书欣回复张彬彬有本事别回来",
+      "onboard_time": 1664368764,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 312641,
@@ -587,6 +619,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 283948,
+      "num": 283948,
+      "word": "官方辟谣临夏大巴事故致4人死亡",
+      "onboard_time": 1664364743,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279270,
       "num": 279270,
       "word": "无锡18岁女孩让6人重获新生",
@@ -627,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 263376,
+      "num": 263376,
+      "word": "小猫文学也太好哭了",
+      "onboard_time": 1664364443,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 262378,
       "num": 262378,
       "word": "初晨加入东莞Wz",
@@ -649,6 +697,14 @@
       "onboard_time": 1664292866,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258700,
+      "num": 258700,
+      "word": "张云龙看到满屏甜妹战术性后退",
+      "onboard_time": 1664363544,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 252545,
@@ -707,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246079,
+      "num": 71482,
+      "word": "李玟回应节目录制现场质问导演",
+      "onboard_time": 1664369426,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 245500,
       "num": 245500,
       "word": "虞书欣给张彬彬戴耳环",
@@ -721,6 +785,14 @@
       "onboard_time": 1664263643,
       "rank": 17,
       "category": "科技"
+    },
+    {
+      "raw_hot": 241400,
+      "num": 241400,
+      "word": "长春餐厅燃气爆炸事故原因初步查明",
+      "onboard_time": 1664368526,
+      "rank": 16,
+      "category": "社会负面"
     },
     {
       "raw_hot": 240938,
@@ -963,20 +1035,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 183066,
-      "num": 183066,
-      "word": "张云龙看到满屏甜妹战术性后退",
-      "onboard_time": 1664363544,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 182449,
       "num": 182449,
       "word": "平台经理多想一下救回中毒夫妻",
       "onboard_time": 1664340448,
       "rank": 46,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 180864,
+      "num": 180864,
+      "word": "刘宇宁直播",
+      "onboard_time": 1664369363,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 180004,
@@ -1099,12 +1171,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161630,
+      "num": 161630,
+      "word": "武林外传到昆仑神宫团建",
+      "onboard_time": 1664368463,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 158247,
       "num": 158247,
       "word": "警方回应男子酒吧骚扰邻桌女生",
       "onboard_time": 1664306172,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158028,
+      "num": 158028,
+      "word": "张艺兴新歌面纱练习室版",
+      "onboard_time": 1664368404,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 157157,
@@ -1259,11 +1347,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 129912,
-      "num": 129912,
-      "word": "潘粤明回应胡八一瘦了",
-      "onboard_time": 1664365164,
-      "rank": 28,
+      "raw_hot": 131967,
+      "num": 131967,
+      "word": "小老鼠也是来赶海的呀",
+      "onboard_time": 1664365344,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131579,
+      "num": 131579,
+      "word": "你安全吗豆瓣开分7.3",
+      "onboard_time": 1664367084,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -1289,6 +1385,22 @@
       "onboard_time": 1664346863,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 125980,
+      "num": 120010,
+      "word": "青年演员的大银幕角色",
+      "onboard_time": 1664368164,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 124329,
+      "num": 124329,
+      "word": "排队晒太阳的猫猫",
+      "onboard_time": 1664366604,
+      "rank": 28,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 122376,
@@ -1339,6 +1451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 114960,
+      "num": 114960,
+      "word": "中国女排战日本首发出炉",
+      "onboard_time": 1664368463,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113447,
       "num": 113447,
       "word": "原神二周年专属挂件",
@@ -1355,12 +1475,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 111449,
-      "num": 111449,
-      "word": "小猫文学也太好哭了",
-      "onboard_time": 1664364443,
-      "rank": 34,
-      "category": "幽默"
+      "raw_hot": 112923,
+      "num": 112923,
+      "word": "2022王者荣耀挑战者杯",
+      "onboard_time": 1664367923,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 110597,
@@ -1467,6 +1587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 92969,
+      "num": 92969,
+      "word": "成都世乒赛熊猫有腮红",
+      "onboard_time": 1664365283,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91840,
       "num": 91840,
       "word": "成都世乒赛团体赛男团分组出炉",
@@ -1491,6 +1619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 87076,
+      "num": 87076,
+      "word": "当农家小院遇上山谷云海",
+      "onboard_time": 1664368764,
+      "rank": 39,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 86503,
       "num": 86503,
       "word": "热水袋成欧洲过冬神器",
@@ -1507,11 +1643,19 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 83330,
-      "num": 83330,
+      "raw_hot": 84861,
+      "num": 84861,
       "word": "为何今年的大闸蟹迟到了",
       "onboard_time": 1664363005,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82724,
+      "num": 558573,
+      "word": "画在墙上的火车开进了现实",
+      "onboard_time": 1664365885,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1587,6 +1731,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 70730,
+      "num": 70730,
+      "word": "四川一树洞现野生熊猫幼崽",
+      "onboard_time": 1664369245,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69380,
       "num": 69380,
       "word": "浙江省运会男足球员追打裁判",
@@ -1649,14 +1801,6 @@
       "onboard_time": 1664275704,
       "rank": 40,
       "category": "科技"
-    },
-    {
-      "raw_hot": 61940,
-      "num": 61940,
-      "word": "官方辟谣临夏大巴事故致4人死亡",
-      "onboard_time": 1664364743,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 61255,

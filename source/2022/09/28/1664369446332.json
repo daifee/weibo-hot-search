@@ -1,0 +1,410 @@
+{
+  "runTime": 1664369446332,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1186779,
+        "num": 1186779,
+        "word": "4万买下周大福25万金饰被起诉",
+        "onboard_time": 1664359644,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 693353,
+        "num": 693353,
+        "word": "男子月薪九千不会用word被辞退",
+        "onboard_time": 1664351545,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82724,
+        "num": 558573,
+        "word": "画在墙上的火车开进了现实",
+        "onboard_time": 1664365885,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2308471,
+        "num": 553355,
+        "word": "女子为玩羊了个羊看广告被骗9万元",
+        "onboard_time": 1664364142,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524951,
+        "num": 524951,
+        "word": "印度低种姓学生答错题被老师打死",
+        "onboard_time": 1664358985,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 437600,
+        "num": 437600,
+        "word": "狂犬病一旦发病病死率几乎为100%",
+        "onboard_time": 1664356104,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433796,
+        "num": 433796,
+        "word": "潘粤明回应胡八一瘦了",
+        "onboard_time": 1664365164,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 424401,
+        "num": 424401,
+        "word": "00后老师开始撕伞了",
+        "onboard_time": 1664344164,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 415779,
+        "num": 415779,
+        "word": "大学生毕业后存钱有多重要",
+        "onboard_time": 1664366364,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 334920,
+        "num": 334920,
+        "word": "广州长沙深圳成出行最热门城市",
+        "onboard_time": 1664365944,
+        "rank": 9,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 329211,
+        "num": 329211,
+        "word": "虞书欣回复张彬彬有本事别回来",
+        "onboard_time": 1664368764,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 302633,
+        "num": 302633,
+        "word": "保研",
+        "onboard_time": 1664342903,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 283948,
+        "num": 283948,
+        "word": "官方辟谣临夏大巴事故致4人死亡",
+        "onboard_time": 1664364743,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263376,
+        "num": 263376,
+        "word": "小猫文学也太好哭了",
+        "onboard_time": 1664364443,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 260911,
+        "num": 260911,
+        "word": "iPhone14Pro紫色版被曝存在工艺缺陷",
+        "onboard_time": 1664355865,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 258700,
+        "num": 258700,
+        "word": "张云龙看到满屏甜妹战术性后退",
+        "onboard_time": 1664363544,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 241400,
+        "num": 241400,
+        "word": "长春餐厅燃气爆炸事故原因初步查明",
+        "onboard_time": 1664368526,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 237199,
+        "num": 237199,
+        "word": "一汽大众致歉",
+        "onboard_time": 1664359524,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222910,
+        "num": 222910,
+        "word": "不要赌人民币汇率单边升值或贬值",
+        "onboard_time": 1664360485,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 215306,
+        "num": 215306,
+        "word": "这就是走路粉的快乐吗",
+        "onboard_time": 1664359283,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 180864,
+        "num": 180864,
+        "word": "刘宇宁直播",
+        "onboard_time": 1664369363,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174132,
+        "num": 174132,
+        "word": "王者花泽香菜合作",
+        "onboard_time": 1664363005,
+        "rank": 21,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 161630,
+        "num": 161630,
+        "word": "武林外传到昆仑神宫团建",
+        "onboard_time": 1664368463,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158028,
+        "num": 158028,
+        "word": "张艺兴新歌面纱练习室版",
+        "onboard_time": 1664368404,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149930,
+        "num": 149930,
+        "word": "玩游戏千万不要吐槽女朋友",
+        "onboard_time": 1664362585,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136506,
+        "num": 136506,
+        "word": "女孩马路中间摆拍遭醉驾男子碰撞",
+        "onboard_time": 1664356044,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131967,
+        "num": 131967,
+        "word": "小老鼠也是来赶海的呀",
+        "onboard_time": 1664365344,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131579,
+        "num": 131579,
+        "word": "你安全吗豆瓣开分7.3",
+        "onboard_time": 1664367084,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124329,
+        "num": 124329,
+        "word": "排队晒太阳的猫猫",
+        "onboard_time": 1664366604,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 120353,
+        "num": 120353,
+        "word": "AirPodsPro2篆刻内容会弹窗显示",
+        "onboard_time": 1664357844,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 128565,
+        "num": 120083,
+        "word": "杨丞琳说蔡徐坤本人比荧幕上帅",
+        "onboard_time": 1664351545,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125980,
+        "num": 120010,
+        "word": "青年演员的大银幕角色",
+        "onboard_time": 1664368164,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119659,
+        "num": 119659,
+        "word": "终于有办法缓解偏头痛了",
+        "onboard_time": 1664361743,
+        "rank": 32,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 117098,
+        "num": 117098,
+        "word": "男子收到与去世爷爷合照瞬间破防",
+        "onboard_time": 1664352382,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114960,
+        "num": 114960,
+        "word": "中国女排战日本首发出炉",
+        "onboard_time": 1664368463,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112923,
+        "num": 112923,
+        "word": "2022王者荣耀挑战者杯",
+        "onboard_time": 1664367923,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109350,
+        "num": 109350,
+        "word": "苹果否认车祸检测是人工客服",
+        "onboard_time": 1664358985,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 92978,
+        "num": 92978,
+        "word": "王者时之奇旅新皮肤",
+        "onboard_time": 1664357066,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 92969,
+        "num": 92969,
+        "word": "成都世乒赛熊猫有腮红",
+        "onboard_time": 1664365283,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87076,
+        "num": 87076,
+        "word": "当农家小院遇上山谷云海",
+        "onboard_time": 1664368764,
+        "rank": 39,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 85760,
+        "num": 85760,
+        "word": "红烧肉用英语怎么说",
+        "onboard_time": 1664354186,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 84861,
+        "num": 84861,
+        "word": "为何今年的大闸蟹迟到了",
+        "onboard_time": 1664363005,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83249,
+        "num": 83249,
+        "word": "太原疫情防控",
+        "onboard_time": 1664354424,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81761,
+        "num": 81761,
+        "word": "这才是我最爱吃的水果",
+        "onboard_time": 1664357127,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 73857,
+        "num": 73857,
+        "word": "云胡不喜概念海报",
+        "onboard_time": 1664356884,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 73098,
+        "num": 73098,
+        "word": "李永钦翻跳NewThing",
+        "onboard_time": 1664364625,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 72055,
+        "num": 72055,
+        "word": "王鹤棣在密逃被吓到模糊",
+        "onboard_time": 1664346384,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246079,
+        "num": 71482,
+        "word": "李玟回应节目录制现场质问导演",
+        "onboard_time": 1664369426,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70730,
+        "num": 70730,
+        "word": "四川一树洞现野生熊猫幼崽",
+        "onboard_time": 1664369245,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54763,
+        "num": 54763,
+        "word": "男孩放跑客人寄存宠物店的2万元猫",
+        "onboard_time": 1664347284,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#打造一支强大的乡村振兴人才队伍#"
+    }
+  }
+}
