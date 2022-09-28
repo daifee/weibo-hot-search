@@ -1,0 +1,410 @@
+{
+  "runTime": 1664360973361,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1903176,
+        "num": 1903176,
+        "word": "男子月薪九千不会用word被辞退",
+        "onboard_time": 1664351545,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1463927,
+        "num": 1463927,
+        "word": "狂犬病一旦发病病死率几乎为100%",
+        "onboard_time": 1664356104,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12890,
+        "num": 1327372,
+        "word": "二十大代表是怎么选出来的",
+        "onboard_time": 1664282366,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1205992,
+        "num": 1205992,
+        "word": "李玟节目录制现场质问导演组",
+        "onboard_time": 1664354005,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1114427,
+        "num": 1114427,
+        "word": "00后老师开始撕伞了",
+        "onboard_time": 1664344164,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 630842,
+        "num": 630842,
+        "word": "iPhone14Pro紫色版被曝存在工艺缺陷",
+        "onboard_time": 1664355865,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 565862,
+        "num": 565862,
+        "word": "保研",
+        "onboard_time": 1664342903,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 499230,
+        "num": 499230,
+        "word": "女孩马路中间摆拍遭醉驾男子碰撞",
+        "onboard_time": 1664356044,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371564,
+        "num": 371564,
+        "word": "红烧肉用英语怎么说",
+        "onboard_time": 1664354186,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 248785,
+        "num": 248785,
+        "word": "番茄牛腩拌饭是真的绝绝子",
+        "onboard_time": 1664357544,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 602431,
+        "num": 248153,
+        "word": "印度低种姓学生答错题被老师打死",
+        "onboard_time": 1664358985,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 502458,
+        "num": 247451,
+        "word": "4万买下周大福25万金饰被起诉",
+        "onboard_time": 1664359644,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320536,
+        "num": 246179,
+        "word": "这就是走路粉的快乐吗",
+        "onboard_time": 1664359283,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 312641,
+        "num": 245406,
+        "word": "AirPodsPro2篆刻内容会弹窗显示",
+        "onboard_time": 1664357844,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 21480,
+        "num": 245129,
+        "word": "退休志愿者7年坚持为老人1元理发",
+        "onboard_time": 1664359283,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305165,
+        "num": 244291,
+        "word": "一汽大众致歉",
+        "onboard_time": 1664359524,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243398,
+        "num": 243398,
+        "word": "男子收到与去世爷爷合照瞬间破防",
+        "onboard_time": 1664352382,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241909,
+        "num": 241909,
+        "word": "杨丞琳说蔡徐坤本人比荧幕上帅",
+        "onboard_time": 1664351545,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241073,
+        "num": 241073,
+        "word": "刘诗诗刘宇宁一念关山蓝衣路透",
+        "onboard_time": 1664355025,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 231668,
+        "num": 231668,
+        "word": "这才是我最爱吃的水果",
+        "onboard_time": 1664357127,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 235123,
+        "num": 231522,
+        "word": "苹果否认车祸检测是人工客服",
+        "onboard_time": 1664358985,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 219441,
+        "num": 219441,
+        "word": "男孩火锅店狂奔被汤淋一身",
+        "onboard_time": 1664349382,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190404,
+        "num": 190404,
+        "word": "王者时之奇旅新皮肤",
+        "onboard_time": 1664357066,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178715,
+        "num": 178715,
+        "word": "云胡不喜概念海报",
+        "onboard_time": 1664356884,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178361,
+        "num": 178361,
+        "word": "张云龙Mike仁科反向记者会",
+        "onboard_time": 1664356585,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168601,
+        "num": 168601,
+        "word": "太原疫情防控",
+        "onboard_time": 1664354424,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161563,
+        "num": 161563,
+        "word": "不要赌人民币汇率单边升值或贬值",
+        "onboard_time": 1664360485,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 161516,
+        "num": 161516,
+        "word": "男孩放跑客人寄存宠物店的2万元猫",
+        "onboard_time": 1664347284,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160863,
+        "num": 160863,
+        "word": "朝阳群众又双叒叕立功了",
+        "onboard_time": 1664329343,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157005,
+        "num": 157005,
+        "word": "王鹤棣在密逃被吓到模糊",
+        "onboard_time": 1664346384,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143059,
+        "num": 143059,
+        "word": "年轻人国庆都玩什么运动",
+        "onboard_time": 1664356644,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142170,
+        "num": 142170,
+        "word": "女孩被困电梯连按警铃物业当误报",
+        "onboard_time": 1664345125,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131945,
+        "num": 131945,
+        "word": "真情侣在大荧幕上有多好嗑",
+        "onboard_time": 1664349984,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126876,
+        "num": 126876,
+        "word": "一口气炫24集东北插班生",
+        "onboard_time": 1664343743,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118584,
+        "num": 118584,
+        "word": "冰箱承受了太多",
+        "onboard_time": 1664359105,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104115,
+        "num": 104115,
+        "word": "白百何骄阳伴我路透",
+        "onboard_time": 1664353104,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 103815,
+        "num": 103815,
+        "word": "王嘉尔官宣世界巡演",
+        "onboard_time": 1664348964,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 96396,
+        "num": 96396,
+        "word": "国家队把青鸾演活了",
+        "onboard_time": 1664349264,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 94494,
+        "num": 94494,
+        "word": "把雄安地铁开进北京",
+        "onboard_time": 1664352805,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89756,
+        "num": 89756,
+        "word": "成都世乒赛团体赛男团分组出炉",
+        "onboard_time": 1664357185,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86303,
+        "num": 86303,
+        "word": "太原报告1例初筛阳性者",
+        "onboard_time": 1664354364,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84796,
+        "num": 84796,
+        "word": "大学教授说别太把自己当回事",
+        "onboard_time": 1664343324,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 82543,
+        "num": 82543,
+        "word": "男子网恋被骗17万骗子称他太好骗",
+        "onboard_time": 1664337686,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79867,
+        "num": 79867,
+        "word": "新娘将婚礼手捧花送婆婆新郎泪崩",
+        "onboard_time": 1664339127,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76092,
+        "num": 76092,
+        "word": "苏醒再就业打工技能加满",
+        "onboard_time": 1664354725,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72937,
+        "num": 72937,
+        "word": "农民日报评一根玉米卖6元",
+        "onboard_time": 1664330604,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69381,
+        "num": 69381,
+        "word": "平台经理多想一下救回中毒夫妻",
+        "onboard_time": 1664340448,
+        "rank": 46,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 68434,
+        "num": 68434,
+        "word": "英雄联盟S12",
+        "onboard_time": 1664339909,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 64599,
+        "num": 64599,
+        "word": "王菲连续四年献唱国庆档电影",
+        "onboard_time": 1664340327,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 63714,
+        "num": 63714,
+        "word": "奔驰车机推送卖车广告",
+        "onboard_time": 1664351484,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#三代人40余年逼退风沙线30公里#"
+    }
+  }
+}

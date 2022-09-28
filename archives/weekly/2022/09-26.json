@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664358526459,
+  "endTime": 1664360973361,
   "band_list": [
     {
       "raw_hot": 4711055,
@@ -265,6 +265,14 @@
       "onboard_time": 1664264185,
       "rank": 34,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 1463927,
+      "num": 1463927,
+      "word": "狂犬病一旦发病病死率几乎为100%",
+      "onboard_time": 1664356104,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1447527,
@@ -555,14 +563,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 863016,
-      "num": 863016,
-      "word": "狂犬病一旦发病病死率几乎为100%",
-      "onboard_time": 1664356104,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 849286,
       "num": 282827,
       "word": "肖战骄阳伴我白衬衫侧颜路透图",
@@ -843,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 630842,
+      "num": 630842,
+      "word": "iPhone14Pro紫色版被曝存在工艺缺陷",
+      "onboard_time": 1664355865,
+      "rank": 13,
+      "category": "科技"
+    },
+    {
       "raw_hot": 629976,
       "num": 629976,
       "word": "张彬彬下意识对虞书欣的宠溺",
@@ -889,6 +897,14 @@
       "onboard_time": 1664331684,
       "rank": 6,
       "category": "财经"
+    },
+    {
+      "raw_hot": 602431,
+      "num": 248153,
+      "word": "印度低种姓学生答错题被老师打死",
+      "onboard_time": 1664358985,
+      "rank": 10,
+      "category": "社会负面"
     },
     {
       "raw_hot": 601518,
@@ -1211,11 +1227,27 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 502458,
+      "num": 247451,
+      "word": "4万买下周大福25万金饰被起诉",
+      "onboard_time": 1664359644,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 499405,
       "num": 499405,
       "word": "男孩放跑客人寄存宠物店的2万元猫",
       "onboard_time": 1664347284,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 499230,
+      "num": 499230,
+      "word": "女孩马路中间摆拍遭醉驾男子碰撞",
+      "onboard_time": 1664356044,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -1288,14 +1320,6 @@
       "word": "灵动岛将支持实时体育比分",
       "onboard_time": 1664240667,
       "rank": 6,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 476646,
-      "num": 476646,
-      "word": "iPhone14Pro紫色版被曝存在工艺缺陷",
-      "onboard_time": 1664355865,
-      "rank": 13,
       "category": "科技"
     },
     {
@@ -1915,6 +1939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320536,
+      "num": 246179,
+      "word": "这就是走路粉的快乐吗",
+      "onboard_time": 1664359283,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 317037,
       "num": 317037,
       "word": "2小孩打配合偷走宠物店猫咪",
@@ -1929,6 +1961,14 @@
       "onboard_time": 1664152887,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312641,
+      "num": 245406,
+      "word": "AirPodsPro2篆刻内容会弹窗显示",
+      "onboard_time": 1664357844,
+      "rank": 32,
+      "category": "科技"
     },
     {
       "raw_hot": 311616,
@@ -1968,6 +2008,14 @@
       "word": "四川一火锅店回收老油炒制底料",
       "onboard_time": 1664142492,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305165,
+      "num": 244291,
+      "word": "一汽大众致歉",
+      "onboard_time": 1664359524,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -2161,14 +2209,6 @@
       "onboard_time": 1664180545,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 275486,
-      "num": 275486,
-      "word": "女孩马路中间摆拍遭醉驾男子碰撞",
-      "onboard_time": 1664356044,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 274776,
@@ -2387,6 +2427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 248785,
+      "num": 248785,
+      "word": "番茄牛腩拌饭是真的绝绝子",
+      "onboard_time": 1664357544,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 248596,
       "num": 248596,
       "word": "王俊凯用阿拉伯语说你好帅",
@@ -2507,6 +2555,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 235123,
+      "num": 231522,
+      "word": "苹果否认车祸检测是人工客服",
+      "onboard_time": 1664358985,
+      "rank": 20,
+      "category": "科技"
+    },
+    {
       "raw_hot": 234012,
       "num": 234012,
       "word": "周琦重回墨尔本凤凰队",
@@ -2553,6 +2609,14 @@
       "onboard_time": 1664333723,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 231668,
+      "num": 231668,
+      "word": "这才是我最爱吃的水果",
+      "onboard_time": 1664357127,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 231016,
@@ -3051,6 +3115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190404,
+      "num": 190404,
+      "word": "王者时之奇旅新皮肤",
+      "onboard_time": 1664357066,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 190185,
       "num": 190185,
       "word": "我的反派男友连更十天",
@@ -3161,6 +3233,14 @@
       "onboard_time": 1664288788,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178361,
+      "num": 178361,
+      "word": "张云龙Mike仁科反向记者会",
+      "onboard_time": 1664356585,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 178096,
@@ -3427,6 +3507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 161563,
+      "num": 161563,
+      "word": "不要赌人民币汇率单边升值或贬值",
+      "onboard_time": 1664360485,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 160654,
       "num": 160654,
       "word": "微风里益同行",
@@ -3489,14 +3577,6 @@
       "onboard_time": 1664273842,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 157752,
-      "num": 157752,
-      "word": "王者时之奇旅新皮肤",
-      "onboard_time": 1664357066,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 157732,
@@ -3577,14 +3657,6 @@
       "onboard_time": 1664222111,
       "rank": 38,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 153833,
-      "num": 153833,
-      "word": "这才是我最爱吃的水果",
-      "onboard_time": 1664357127,
-      "rank": 45,
-      "category": "美食"
     },
     {
       "raw_hot": 152854,
@@ -3729,6 +3801,14 @@
       "onboard_time": 1664256265,
       "rank": 35,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 143059,
+      "num": 143059,
+      "word": "年轻人国庆都玩什么运动",
+      "onboard_time": 1664356644,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 142808,
@@ -3907,14 +3987,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 128980,
-      "num": 127235,
-      "word": "张云龙Mike仁科反向记者会",
-      "onboard_time": 1664356585,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 128738,
       "num": 128738,
       "word": "独行月球密钥延期至1029",
@@ -3977,14 +4049,6 @@
       "onboard_time": 1664160266,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 126556,
-      "num": 126556,
-      "word": "AirPodsPro2篆刻内容会弹窗显示",
-      "onboard_time": 1664357844,
-      "rank": 32,
-      "category": "科技"
     },
     {
       "raw_hot": 126180,
@@ -4107,6 +4171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 118584,
+      "num": 118584,
+      "word": "冰箱承受了太多",
+      "onboard_time": 1664359105,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 118509,
       "num": 118509,
       "word": "期待王俊凯新电影万里归途",
@@ -4219,14 +4291,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 110023,
-      "num": 110023,
-      "word": "番茄牛腩拌饭是真的绝绝子",
-      "onboard_time": 1664357544,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 109259,
       "num": 109259,
       "word": "光遇",
@@ -4297,14 +4361,6 @@
       "onboard_time": 1664147420,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 102585,
-      "num": 102585,
-      "word": "年轻人国庆都玩什么运动",
-      "onboard_time": 1664356644,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 102033,
@@ -5003,6 +5059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 21480,
+      "num": 245129,
+      "word": "退休志愿者7年坚持为老人1元理发",
+      "onboard_time": 1664359283,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19535,
       "num": 19427,
       "word": "柳岩家有姐妹杀青",
@@ -5462,6 +5526,9 @@
     },
     {
       "word": "#打造一支强大的乡村振兴人才队伍#"
+    },
+    {
+      "word": "#三代人40余年逼退风沙线30公里#"
     }
   ]
 }

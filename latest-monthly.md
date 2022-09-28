@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/28 17:48:46
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/28 18:29:33
 </p>
 </blockquote>
 <p>
@@ -3345,6 +3345,12 @@ B站诉争哔哩哔哩商标被驳回（热度：1518132）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8B%82%E7%8A%AC%E7%97%85%E4%B8%80%E6%97%A6%E5%8F%91%E7%97%85%E7%97%85%E6%AD%BB%E7%8E%87%E5%87%A0%E4%B9%8E%E4%B8%BA100%25%23" target="weibo">
+狂犬病一旦发病病死率几乎为100%（热度：1463927）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%83%AD%E5%B8%A6%E9%9B%A8%E6%9E%97%23" target="weibo">
 热带雨林（热度：1463605）
 </a>
@@ -6008,12 +6014,6 @@ IU演唱会上的草莓月亮（热度：1037515）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%A4%AA%20%E8%8B%8D%E5%85%B0%E8%AF%80%23" target="weibo">
-王太 苍兰诀（热度：1018070）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6491,6 +6491,12 @@ IU演唱会上的草莓月亮（热度：1037515）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%89%93%E9%80%A0%E4%B8%80%E6%94%AF%E5%BC%BA%E5%A4%A7%E7%9A%84%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E4%BA%BA%E6%89%8D%E9%98%9F%E4%BC%8D%23%23" target="weibo">
 #打造一支强大的乡村振兴人才队伍#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%89%E4%BB%A3%E4%BA%BA40%E4%BD%99%E5%B9%B4%E9%80%BC%E9%80%80%E9%A3%8E%E6%B2%99%E7%BA%BF30%E5%85%AC%E9%87%8C%23%23" target="weibo">
+#三代人40余年逼退风沙线30公里#
 </a>
 </li>
 

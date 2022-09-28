@@ -1,6 +1,6 @@
 {
   "startTime": 1664296789399,
-  "endTime": 1664358526459,
+  "endTime": 1664360973361,
   "band_list": [
     {
       "raw_hot": 4230079,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1463927,
+      "num": 1463927,
+      "word": "狂犬病一旦发病病死率几乎为100%",
+      "onboard_time": 1664356104,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1383838,
       "num": 1383838,
       "word": "苏州发布紧急报备提醒",
@@ -147,14 +155,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 863016,
-      "num": 863016,
-      "word": "狂犬病一旦发病病死率几乎为100%",
-      "onboard_time": 1664356104,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 779832,
       "num": 779832,
       "word": "武汉新增9例无症状感染者",
@@ -179,12 +179,28 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 630842,
+      "num": 630842,
+      "word": "iPhone14Pro紫色版被曝存在工艺缺陷",
+      "onboard_time": 1664355865,
+      "rank": 13,
+      "category": "科技"
+    },
+    {
       "raw_hot": 602836,
       "num": 602836,
       "word": "离岸人民币兑美元跌破7.2",
       "onboard_time": 1664331684,
       "rank": 6,
       "category": "财经"
+    },
+    {
+      "raw_hot": 602431,
+      "num": 248153,
+      "word": "印度低种姓学生答错题被老师打死",
+      "onboard_time": 1664358985,
+      "rank": 10,
+      "category": "社会负面"
     },
     {
       "raw_hot": 601518,
@@ -307,11 +323,27 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 502458,
+      "num": 247451,
+      "word": "4万买下周大福25万金饰被起诉",
+      "onboard_time": 1664359644,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 499405,
       "num": 499405,
       "word": "男孩放跑客人寄存宠物店的2万元猫",
       "onboard_time": 1664347284,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 499230,
+      "num": 499230,
+      "word": "女孩马路中间摆拍遭醉驾男子碰撞",
+      "onboard_time": 1664356044,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -345,14 +377,6 @@
       "onboard_time": 1664337265,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 476646,
-      "num": 476646,
-      "word": "iPhone14Pro紫色版被曝存在工艺缺陷",
-      "onboard_time": 1664355865,
-      "rank": 13,
-      "category": "科技"
     },
     {
       "raw_hot": 444695,
@@ -491,6 +515,30 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 320536,
+      "num": 246179,
+      "word": "这就是走路粉的快乐吗",
+      "onboard_time": 1664359283,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 312641,
+      "num": 245406,
+      "word": "AirPodsPro2篆刻内容会弹窗显示",
+      "onboard_time": 1664357844,
+      "rank": 32,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 305165,
+      "num": 244291,
+      "word": "一汽大众致歉",
+      "onboard_time": 1664359524,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 299212,
       "num": 299212,
       "word": "这辈子反应最快的一次",
@@ -521,14 +569,6 @@
       "onboard_time": 1664310671,
       "rank": 44,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 275486,
-      "num": 275486,
-      "word": "女孩马路中间摆拍遭醉驾男子碰撞",
-      "onboard_time": 1664356044,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 274376,
@@ -619,6 +659,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 248785,
+      "num": 248785,
+      "word": "番茄牛腩拌饭是真的绝绝子",
+      "onboard_time": 1664357544,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 248250,
       "num": 248250,
       "word": "中介伪装房东9年骗走老人1050万",
@@ -651,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235123,
+      "num": 231522,
+      "word": "苹果否认车祸检测是人工客服",
+      "onboard_time": 1664358985,
+      "rank": 20,
+      "category": "科技"
+    },
+    {
       "raw_hot": 232943,
       "num": 232943,
       "word": "金晨新剧预约破百万",
@@ -665,6 +721,14 @@
       "onboard_time": 1664333723,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 231668,
+      "num": 231668,
+      "word": "这才是我最爱吃的水果",
+      "onboard_time": 1664357127,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 228483,
@@ -827,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190404,
+      "num": 190404,
+      "word": "王者时之奇旅新皮肤",
+      "onboard_time": 1664357066,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188716,
       "num": 188716,
       "word": "任嘉伦说陆炎没在怕的",
@@ -865,6 +937,14 @@
       "onboard_time": 1664349264,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 178361,
+      "num": 178361,
+      "word": "张云龙Mike仁科反向记者会",
+      "onboard_time": 1664356585,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 177786,
@@ -947,20 +1027,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161563,
+      "num": 161563,
+      "word": "不要赌人民币汇率单边升值或贬值",
+      "onboard_time": 1664360485,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 158247,
       "num": 158247,
       "word": "警方回应男子酒吧骚扰邻桌女生",
       "onboard_time": 1664306172,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157752,
-      "num": 157752,
-      "word": "王者时之奇旅新皮肤",
-      "onboard_time": 1664357066,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 157157,
@@ -995,14 +1075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 153833,
-      "num": 153833,
-      "word": "这才是我最爱吃的水果",
-      "onboard_time": 1664357127,
-      "rank": 45,
-      "category": "美食"
-    },
-    {
       "raw_hot": 148954,
       "num": 148954,
       "word": "男子网恋奔现后发现对象已当外婆",
@@ -1033,6 +1105,14 @@
       "onboard_time": 1664328205,
       "rank": 33,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 143059,
+      "num": 143059,
+      "word": "年轻人国庆都玩什么运动",
+      "onboard_time": 1664356644,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 139850,
@@ -1099,14 +1179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 128980,
-      "num": 127235,
-      "word": "张云龙Mike仁科反向记者会",
-      "onboard_time": 1664356585,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 127652,
       "num": 127652,
       "word": "网友拍到彩虹版落叶仿佛调色盘",
@@ -1123,14 +1195,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 126556,
-      "num": 126556,
-      "word": "AirPodsPro2篆刻内容会弹窗显示",
-      "onboard_time": 1664357844,
-      "rank": 32,
-      "category": "科技"
-    },
-    {
       "raw_hot": 126170,
       "num": 126170,
       "word": "自带麦克风的小猫",
@@ -1145,6 +1209,14 @@
       "onboard_time": 1664333003,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118584,
+      "num": 118584,
+      "word": "冰箱承受了太多",
+      "onboard_time": 1664359105,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 117639,
@@ -1203,14 +1275,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 110023,
-      "num": 110023,
-      "word": "番茄牛腩拌饭是真的绝绝子",
-      "onboard_time": 1664357544,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 106761,
       "num": 106761,
       "word": "消费者真的需要智能产品吗",
@@ -1241,14 +1305,6 @@
       "onboard_time": 1664294364,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 102585,
-      "num": 102585,
-      "word": "年轻人国庆都玩什么运动",
-      "onboard_time": 1664356644,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 98991,
@@ -1571,6 +1627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 21480,
+      "num": 245129,
+      "word": "退休志愿者7年坚持为老人1元理发",
+      "onboard_time": 1664359283,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18785,
       "num": 18785,
       "word": "思文单身让人变美",
@@ -1706,6 +1770,9 @@
     },
     {
       "word": "#打造一支强大的乡村振兴人才队伍#"
+    },
+    {
+      "word": "#三代人40余年逼退风沙线30公里#"
     }
   ]
 }
