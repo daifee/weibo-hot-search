@@ -1,6 +1,6 @@
 {
   "startTime": 1664383235790,
-  "endTime": 1664404010814,
+  "endTime": 1664405068477,
   "band_list": [
     {
       "raw_hot": 1124423,
@@ -59,6 +59,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 286486,
+      "num": 286486,
+      "word": "美使馆建议在俄旅居美公民尽快离开",
+      "onboard_time": 1664372423,
+      "rank": 16,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 281292,
       "num": 281292,
       "word": "天津禁止学校聘用有性骚扰犯罪记录人员",
@@ -107,19 +115,27 @@
       "category": "艺人,教育"
     },
     {
-      "raw_hot": 197814,
-      "num": 197814,
-      "word": "美使馆建议在俄旅居美公民尽快离开",
-      "onboard_time": 1664372423,
-      "rank": 16,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 180983,
-      "num": 180983,
+      "raw_hot": 209502,
+      "num": 209502,
       "word": "学生1句话让老师找到失散35年亲人",
       "onboard_time": 1664370624,
       "rank": 14,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 191935,
+      "num": 191935,
+      "word": "男生晕血被舍友用衣服包头抽血",
+      "onboard_time": 1664397371,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178668,
+      "num": 143599,
+      "word": "江苏一中学起薪40万招聘教师",
+      "onboard_time": 1664388674,
+      "rank": 20,
       "category": "社会新闻,教育"
     },
     {
@@ -139,11 +155,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 143250,
-      "num": 143250,
-      "word": "男生晕血被舍友用衣服包头抽血",
-      "onboard_time": 1664397371,
-      "rank": 44,
+      "raw_hot": 157754,
+      "num": 157754,
+      "word": "网传天津10月1日起封城3天系谣言",
+      "onboard_time": 1664394549,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -179,12 +195,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 124058,
-      "num": 92613,
-      "word": "江苏一中学起薪40万招聘教师",
-      "onboard_time": 1664388674,
-      "rank": 20,
-      "category": "社会新闻,教育"
+      "raw_hot": 122933,
+      "num": 122933,
+      "word": "女子5小时用99个塑料袋做出婚纱",
+      "onboard_time": 1664396771,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116401,
@@ -193,14 +209,6 @@
       "onboard_time": 1664376867,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 115026,
-      "num": 92366,
-      "word": "网传天津10月1日起封城3天系谣言",
-      "onboard_time": 1664394549,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113615,
@@ -217,14 +225,6 @@
       "onboard_time": 1664342903,
       "rank": 23,
       "category": "教育"
-    },
-    {
-      "raw_hot": 107162,
-      "num": 92264,
-      "word": "女子5小时用99个塑料袋做出婚纱",
-      "onboard_time": 1664396771,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 103096,
@@ -315,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 68804,
+      "num": 68804,
+      "word": "昆明本轮疫情传播链条基本清晰",
+      "onboard_time": 1664398991,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68059,
       "num": 68059,
       "word": "唐朝诡事录六集一个大案",
@@ -348,15 +356,15 @@
     },
     {
       "raw_hot": 61302,
-      "num": 57161,
+      "num": 58919,
       "word": "上世纪的跨国恋能有多遗憾",
       "onboard_time": 1664385196,
       "rank": 24,
       "category": "作品衍生,情感"
     },
     {
-      "raw_hot": 56283,
-      "num": 56283,
+      "raw_hot": 60658,
+      "num": 60658,
       "word": "我国科学家发现1600多个新星团",
       "onboard_time": 1664400431,
       "rank": 44,
@@ -369,6 +377,14 @@
       "onboard_time": 1664361743,
       "rank": 40,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 54313,
+      "num": 488841,
+      "word": "画在墙上的火车开进了现实",
+      "onboard_time": 1664365885,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 53897,
@@ -387,14 +403,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 52132,
-      "num": 488841,
-      "word": "画在墙上的火车开进了现实",
-      "onboard_time": 1664365885,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 50693,
       "num": 50693,
       "word": "一汽大众致歉",
@@ -409,6 +417,14 @@
       "onboard_time": 1664373566,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 49810,
+      "num": 49810,
+      "word": "美国海军乱排污被罚880万美元",
+      "onboard_time": 1664394549,
+      "rank": 20,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 48665,
@@ -435,12 +451,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 40549,
-      "num": 40549,
-      "word": "昆明本轮疫情传播链条基本清晰",
-      "onboard_time": 1664398991,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 43366,
+      "num": 43366,
+      "word": "外交部回应美国务卿呼吁巴基斯坦向中国申请债务免除",
+      "onboard_time": 1664397850,
+      "rank": 49,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 42936,
+      "num": 42936,
+      "word": "让细节决定爱与不爱",
+      "onboard_time": 1664386094,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 41510,
+      "num": 41510,
+      "word": "刘宇宁直播",
+      "onboard_time": 1664369363,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 40297,
@@ -451,14 +483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 40117,
-      "num": 40117,
-      "word": "刘宇宁直播",
-      "onboard_time": 1664369363,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 39846,
       "num": 39846,
       "word": "中国女排神仙球",
@@ -467,36 +491,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 39829,
-      "num": 39829,
-      "word": "让细节决定爱与不爱",
-      "onboard_time": 1664386094,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 35727,
-      "num": 28648,
+      "num": 34484,
       "word": "昆明赋黄码70442人",
       "onboard_time": 1664389992,
       "rank": 49,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 35620,
-      "num": 35620,
-      "word": "美国海军乱排污被罚880万美元",
-      "onboard_time": 1664394549,
-      "rank": 20,
-      "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 32836,
-      "num": 32836,
-      "word": "外交部回应美国务卿呼吁巴基斯坦向中国申请债务免除",
-      "onboard_time": 1664397850,
+      "raw_hot": 35627,
+      "num": 35627,
+      "word": "工程师开发出无电池无线水下相机",
+      "onboard_time": 1664401152,
       "rank": 49,
-      "category": "国内要闻"
+      "category": "科技"
     },
     {
       "raw_hot": 31057,
@@ -531,20 +539,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 14904,
-      "num": 14904,
-      "word": "工程师开发出无电池无线水下相机",
-      "onboard_time": 1664401152,
-      "rank": 49,
-      "category": "科技"
-    },
-    {
       "raw_hot": 13990,
       "num": 13990,
       "word": "认真吃饼干的小仓鼠",
       "onboard_time": 1664391492,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 12606,
+      "num": 12812,
+      "word": "中国女排5人得分上双",
+      "onboard_time": 1664398871,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 10924,
@@ -569,14 +577,6 @@
       "onboard_time": 1664393590,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8622,
-      "num": 10818,
-      "word": "中国女排5人得分上双",
-      "onboard_time": 1664398871,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 7201,
