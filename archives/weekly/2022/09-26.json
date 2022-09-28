@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664397869358,
+  "endTime": 1664400213092,
   "band_list": [
     {
       "raw_hot": 4711055,
@@ -5587,12 +5587,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 37576,
+      "num": 30179,
+      "word": "网传天津10月1日起封城3天系谣言",
+      "onboard_time": 1664394549,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36294,
+      "num": 28375,
+      "word": "女子5小时用99个塑料袋做出婚纱",
+      "onboard_time": 1664396771,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35727,
       "num": 20132,
       "word": "昆明赋黄码70442人",
       "onboard_time": 1664389992,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34315,
+      "num": 27351,
+      "word": "美国海军乱排污被罚880万美元",
+      "onboard_time": 1664394549,
+      "rank": 20,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 34233,
@@ -5715,14 +5739,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 17516,
-      "num": 17516,
-      "word": "网传天津10月1日起封城3天系谣言",
-      "onboard_time": 1664394549,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 16985,
       "num": 16985,
       "word": "弯腿球王是怎样炼成的",
@@ -5745,14 +5761,6 @@
       "onboard_time": 1664306772,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 16636,
-      "num": 15714,
-      "word": "美国海军乱排污被罚880万美元",
-      "onboard_time": 1664394549,
-      "rank": 20,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 16460,
@@ -5867,6 +5875,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 9541,
+      "num": 9541,
+      "word": "接梗还得是看大张伟",
+      "onboard_time": 1664396890,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 8793,
       "num": 8793,
       "word": "男子被鸽后连续9次拨打110报警",
@@ -5875,11 +5891,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 8353,
-      "num": 8353,
-      "word": "女子5小时用99个塑料袋做出婚纱",
-      "onboard_time": 1664396771,
-      "rank": 48,
+      "raw_hot": 8621,
+      "num": 8621,
+      "word": "昆明本轮疫情传播链条基本清晰",
+      "onboard_time": 1664398991,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -5891,6 +5907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 8019,
+      "num": 8019,
+      "word": "男生晕血被舍友用衣服包头抽血",
+      "onboard_time": 1664397371,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 8002,
       "num": 8002,
       "word": "青年大学习",
@@ -5899,12 +5923,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 7806,
-      "num": 7806,
-      "word": "接梗还得是看大张伟",
-      "onboard_time": 1664396890,
-      "rank": 40,
-      "category": "综艺"
+      "raw_hot": 7961,
+      "num": 7961,
+      "word": "外交部回应美国务卿呼吁巴基斯坦向中国申请债务免除",
+      "onboard_time": 1664397850,
+      "rank": 49,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 7695,
@@ -5936,14 +5960,6 @@
       "word": "货车拉一车斗的奥特曼被交警拦下",
       "onboard_time": 1664396231,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 7020,
-      "num": 7020,
-      "word": "男生晕血被舍友用衣服包头抽血",
-      "onboard_time": 1664397371,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -5979,6 +5995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 6793,
+      "num": 7225,
+      "word": "中国女排5人得分上双",
+      "onboard_time": 1664398871,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 6667,
       "num": 6667,
       "word": "这医生以前是干销售的吧",
@@ -6001,6 +6025,14 @@
       "onboard_time": 1664143815,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 6354,
+      "num": 7194,
+      "word": "张彬彬低音炮清唱",
+      "onboard_time": 1664399710,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 6255,
@@ -6083,6 +6115,14 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 6019,
+      "num": 7151,
+      "word": "龚翔宇发球",
+      "onboard_time": 1664399649,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 5908,
       "num": 5908,
       "word": "ROY岚陵萧萧声领结婚证",
@@ -6105,14 +6145,6 @@
       "onboard_time": 1664313430,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 5784,
-      "num": 5784,
-      "word": "外交部回应美国务卿呼吁巴基斯坦向中国申请债务免除",
-      "onboard_time": 1664397850,
-      "rank": 49,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 5766,
