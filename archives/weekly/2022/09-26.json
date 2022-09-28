@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664341696752,
+  "endTime": 1664345478100,
   "band_list": [
     {
       "raw_hot": 4711055,
@@ -9,6 +9,14 @@
       "onboard_time": 1664197645,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 4230079,
+      "num": 4230079,
+      "word": "保研",
+      "onboard_time": 1664342903,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 3450409,
@@ -643,6 +651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 744310,
+      "num": 744310,
+      "word": "新娘将婚礼手捧花送婆婆新郎泪崩",
+      "onboard_time": 1664339127,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 728850,
       "num": 401886,
       "word": "骚男结婚",
@@ -851,6 +867,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 589571,
+      "num": 589571,
+      "word": "王菲连续四年献唱国庆档电影",
+      "onboard_time": 1664340327,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 588838,
       "num": 588838,
       "word": "贾跃亭再获1亿美元融资",
@@ -913,6 +937,14 @@
       "onboard_time": 1664264003,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 548303,
+      "num": 548303,
+      "word": "00后老师开始撕伞了",
+      "onboard_time": 1664344164,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 548006,
@@ -1099,14 +1131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 505336,
-      "num": 405089,
-      "word": "新娘将婚礼手捧花送婆婆新郎泪崩",
-      "onboard_time": 1664339127,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 503276,
       "num": 503276,
       "word": "高敏感其实是一种天赋",
@@ -1153,6 +1177,14 @@
       "onboard_time": 1664172502,
       "rank": 21,
       "category": "科技"
+    },
+    {
+      "raw_hot": 491530,
+      "num": 491530,
+      "word": "一口气炫24集东北插班生",
+      "onboard_time": 1664343743,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 487454,
@@ -1337,6 +1369,14 @@
       "onboard_time": 1664160503,
       "rank": 20,
       "category": "科技"
+    },
+    {
+      "raw_hot": 432330,
+      "num": 432330,
+      "word": "太原报告1例初筛阳性者",
+      "onboard_time": 1664341468,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 431410,
@@ -1731,14 +1771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 321395,
-      "num": 321395,
-      "word": "王菲连续四年献唱国庆档电影",
-      "onboard_time": 1664340327,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 317037,
       "num": 317037,
       "word": "2小孩打配合偷走宠物店猫咪",
@@ -1801,6 +1833,14 @@
       "onboard_time": 1664159302,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301392,
+      "num": 301392,
+      "word": "大学教授说别太把自己当回事",
+      "onboard_time": 1664343324,
+      "rank": 13,
+      "category": "教育"
     },
     {
       "raw_hot": 299212,
@@ -2065,14 +2105,6 @@
       "onboard_time": 1664204248,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 264996,
-      "num": 264996,
-      "word": "太原报告1例初筛阳性者",
-      "onboard_time": 1664341468,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 263727,
@@ -2409,6 +2441,14 @@
       "onboard_time": 1664253806,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 228483,
+      "num": 228483,
+      "word": "英雄联盟S12",
+      "onboard_time": 1664339909,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 228331,
@@ -3107,6 +3147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 164083,
+      "num": 164083,
+      "word": "邓紫棋登billboard中国九月封面",
+      "onboard_time": 1664345243,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 163926,
       "num": 163926,
       "word": "河北一中学组织师生同卷考试",
@@ -3409,6 +3457,14 @@
       "onboard_time": 1664256265,
       "rank": 35,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 142944,
+      "num": 142944,
+      "word": "扎克伯格跌出美国富豪榜前十",
+      "onboard_time": 1664343743,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 142808,
@@ -3779,6 +3835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 116209,
+      "num": 116209,
+      "word": "狂风中小鸟脑袋像装了神级稳定器",
+      "onboard_time": 1664342244,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115674,
       "num": 115674,
       "word": "VR会像手机一样普及吗",
@@ -4089,6 +4153,14 @@
       "onboard_time": 1664157747,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89561,
+      "num": 89561,
+      "word": "女孩被困电梯连按警铃物业当误报",
+      "onboard_time": 1664345125,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 88748,
