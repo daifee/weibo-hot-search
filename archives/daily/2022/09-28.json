@@ -1,6 +1,6 @@
 {
   "startTime": 1664296789399,
-  "endTime": 1664334959948,
+  "endTime": 1664340727431,
   "band_list": [
     {
       "raw_hot": 3066346,
@@ -9,6 +9,22 @@
       "onboard_time": 1664329343,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1753881,
+      "num": 430899,
+      "word": "疑似刘鑫账号回应热播剧改编江歌案",
+      "onboard_time": 1664336365,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1613450,
+      "num": 1049217,
+      "word": "车银优韩素希李洙赫网漫海报",
+      "onboard_time": 1664335404,
+      "rank": 3,
+      "category": "动漫,艺人"
     },
     {
       "raw_hot": 1582686,
@@ -139,6 +155,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 539433,
+      "num": 539433,
+      "word": "弈星滕王阁序",
+      "onboard_time": 1664336664,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 539423,
       "num": 539423,
       "word": "频繁换头像是缺乏安全感吗",
@@ -163,6 +187,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 527774,
+      "num": 527774,
+      "word": "苹果放弃增产iPhone",
+      "onboard_time": 1664333846,
+      "rank": 13,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 514749,
+      "num": 514749,
+      "word": "Steam取消农历新年特卖",
+      "onboard_time": 1664335404,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 498920,
       "num": 498920,
       "word": "王鹤棣脸上涂了油彩",
@@ -179,12 +219,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 451215,
-      "num": 451215,
-      "word": "苹果放弃增产iPhone",
-      "onboard_time": 1664333846,
-      "rank": 13,
-      "category": "科技"
+      "raw_hot": 434286,
+      "num": 434286,
+      "word": "主持人领笑员",
+      "onboard_time": 1664337265,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 411213,
+      "num": 411213,
+      "word": "王鹤棣你好星期六工装造型路透",
+      "onboard_time": 1664340086,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 395252,
@@ -235,6 +283,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 355712,
+      "num": 355712,
+      "word": "马斯克2510亿美元身价成美国首富",
+      "onboard_time": 1664338586,
+      "rank": 12,
+      "category": "财经,科技"
+    },
+    {
+      "raw_hot": 331736,
+      "num": 331736,
+      "word": "外国婆婆奇葩劝架方式",
+      "onboard_time": 1664337806,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 299212,
       "num": 299212,
       "word": "这辈子反应最快的一次",
@@ -249,6 +313,14 @@
       "onboard_time": 1664333665,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 289680,
+      "num": 289680,
+      "word": "新娘将婚礼手捧花送婆婆新郎泪崩",
+      "onboard_time": 1664339127,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 286774,
@@ -291,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254491,
+      "num": 254491,
+      "word": "谢楠好敢说",
+      "onboard_time": 1664338586,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252545,
       "num": 252545,
       "word": "熬夜是现代人的病还是药",
@@ -305,6 +385,14 @@
       "onboard_time": 1664284824,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 251414,
+      "num": 251414,
+      "word": "男生被老师摄像头点名秒送祝福",
+      "onboard_time": 1664334145,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 250445,
@@ -339,6 +427,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 239006,
+      "num": 239006,
+      "word": "虞书欣给张彬彬戴耳环",
+      "onboard_time": 1664336063,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 232943,
       "num": 232943,
       "word": "金晨新剧预约破百万",
@@ -355,20 +451,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 228331,
+      "num": 228331,
+      "word": "网约车司机绕道近1小时接乘客",
+      "onboard_time": 1664332644,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225578,
+      "num": 225578,
+      "word": "湖北发现距今百万年人类头骨化石",
+      "onboard_time": 1664335464,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224387,
       "num": 224387,
       "word": "微信本可少占用大量空间",
       "onboard_time": 1664267066,
       "rank": 25,
       "category": "科技"
-    },
-    {
-      "raw_hot": 220131,
-      "num": 220131,
-      "word": "网约车司机绕道近1小时接乘客",
-      "onboard_time": 1664332644,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 218888,
@@ -443,6 +547,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 184779,
+      "num": 184779,
+      "word": "苹果开放台前调度功能给老款iPad",
+      "onboard_time": 1664335703,
+      "rank": 32,
+      "category": "科技"
+    },
+    {
       "raw_hot": 183500,
       "num": 183500,
       "word": "阜阳疫情防控",
@@ -456,6 +568,14 @@
       "word": "广州地铁一老外脱鞋抠脚",
       "onboard_time": 1664304012,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174790,
+      "num": 174790,
+      "word": "85后奶爸培养4岁孩子成天才车手",
+      "onboard_time": 1664334326,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -475,20 +595,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169959,
+      "num": 169959,
+      "word": "布林肯回应北溪天然气管道泄漏",
+      "onboard_time": 1664336905,
+      "rank": 35,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 164491,
       "num": 164491,
       "word": "何广智皮衣造型",
       "onboard_time": 1664325687,
       "rank": 28,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 159723,
-      "num": 159723,
-      "word": "男生被老师摄像头点名秒送祝福",
-      "onboard_time": 1664334145,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158247,
@@ -515,6 +635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151282,
+      "num": 151282,
+      "word": "学生卖纸壳收废品爷爷问是否需资助",
+      "onboard_time": 1664338648,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148954,
       "num": 148954,
       "word": "男子网恋奔现后发现对象已当外婆",
@@ -536,6 +664,14 @@
       "word": "休杰克曼加盟死侍3",
       "onboard_time": 1664324306,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 146801,
+      "num": 146801,
+      "word": "王菲连续四年献唱国庆档电影",
+      "onboard_time": 1664340327,
+      "rank": 39,
       "category": "影视"
     },
     {
@@ -611,11 +747,27 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 122577,
+      "num": 122577,
+      "word": "平台经理多想一下救回中毒夫妻",
+      "onboard_time": 1664340448,
+      "rank": 46,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 122376,
       "num": 122376,
       "word": "汶川男孩长成黄继光连新排长",
       "onboard_time": 1664333003,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117504,
+      "num": 117504,
+      "word": "男子网恋被骗17万骗子称他太好骗",
+      "onboard_time": 1664337686,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -641,14 +793,6 @@
       "onboard_time": 1664285784,
       "rank": 29,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 112080,
-      "num": 112080,
-      "word": "85后奶爸培养4岁孩子成天才车手",
-      "onboard_time": 1664334326,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110597,
@@ -689,6 +833,14 @@
       "onboard_time": 1664332105,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98443,
+      "num": 105499,
+      "word": "买电动车你更看重什么",
+      "onboard_time": 1664340029,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97602,
@@ -1001,6 +1153,14 @@
       "onboard_time": 1664313430,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 699,
+      "num": 318709,
+      "word": "试试看 我的新VR",
+      "onboard_time": 1664337627,
+      "rank": 14,
+      "category": "科技"
     }
   ],
   "hotgov_list": [

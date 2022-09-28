@@ -1,0 +1,410 @@
+{
+  "runTime": 1664340727431,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2726164,
+        "num": 2726164,
+        "word": "朝阳群众又双叒叕立功了",
+        "onboard_time": 1664329343,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1438440,
+        "num": 1438440,
+        "word": "农民日报评一根玉米卖6元",
+        "onboard_time": 1664330604,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19788,
+        "num": 1056447,
+        "word": "二十大代表是怎么选出来的",
+        "onboard_time": 1664282366,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1613450,
+        "num": 1049217,
+        "word": "车银优韩素希李洙赫网漫海报",
+        "onboard_time": 1664335404,
+        "rank": 3,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 1037612,
+        "num": 1037612,
+        "word": "骄阳伴我官宣开机",
+        "onboard_time": 1664331684,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 627795,
+        "num": 627795,
+        "word": "晕车终于有救了",
+        "onboard_time": 1664287349,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 539433,
+        "num": 539433,
+        "word": "弈星滕王阁序",
+        "onboard_time": 1664336664,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 527774,
+        "num": 527774,
+        "word": "苹果放弃增产iPhone",
+        "onboard_time": 1664333846,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 514749,
+        "num": 514749,
+        "word": "Steam取消农历新年特卖",
+        "onboard_time": 1664335404,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 434286,
+        "num": 434286,
+        "word": "主持人领笑员",
+        "onboard_time": 1664337265,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1753881,
+        "num": 430899,
+        "word": "疑似刘鑫账号回应热播剧改编江歌案",
+        "onboard_time": 1664336365,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411213,
+        "num": 411213,
+        "word": "王鹤棣你好星期六工装造型路透",
+        "onboard_time": 1664340086,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 355712,
+        "num": 355712,
+        "word": "马斯克2510亿美元身价成美国首富",
+        "onboard_time": 1664338586,
+        "rank": 12,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 331736,
+        "num": 331736,
+        "word": "外国婆婆奇葩劝架方式",
+        "onboard_time": 1664337806,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 699,
+        "num": 318709,
+        "word": "试试看 我的新VR",
+        "onboard_time": 1664337627,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 318444,
+        "num": 318444,
+        "word": "狐妖小红娘陈瑶女装路透",
+        "onboard_time": 1664331745,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 305874,
+        "num": 305874,
+        "word": "离岸人民币兑美元跌破7.2",
+        "onboard_time": 1664331684,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 298116,
+        "num": 298116,
+        "word": "iPhone14Pro被曝充电时重启",
+        "onboard_time": 1664327966,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 289680,
+        "num": 289680,
+        "word": "新娘将婚礼手捧花送婆婆新郎泪崩",
+        "onboard_time": 1664339127,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261923,
+        "num": 261923,
+        "word": "有钱鸭摆件",
+        "onboard_time": 1664330543,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 258281,
+        "num": 258281,
+        "word": "鞠婧祎捐款50万用于给女性提供HPV疫苗",
+        "onboard_time": 1664286867,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254491,
+        "num": 254491,
+        "word": "谢楠好敢说",
+        "onboard_time": 1664338586,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251414,
+        "num": 251414,
+        "word": "男生被老师摄像头点名秒送祝福",
+        "onboard_time": 1664334145,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239006,
+        "num": 239006,
+        "word": "虞书欣给张彬彬戴耳环",
+        "onboard_time": 1664336063,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228331,
+        "num": 228331,
+        "word": "网约车司机绕道近1小时接乘客",
+        "onboard_time": 1664332644,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227893,
+        "num": 227893,
+        "word": "16岁女生54秒淡定扑灭起火摩托",
+        "onboard_time": 1664327604,
+        "rank": 25,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 225578,
+        "num": 225578,
+        "word": "湖北发现距今百万年人类头骨化石",
+        "onboard_time": 1664335464,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225379,
+        "num": 225379,
+        "word": "梅西3分钟2球",
+        "onboard_time": 1664333723,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222408,
+        "num": 222408,
+        "word": "北溪三条管线均遭到前所未有的破坏",
+        "onboard_time": 1664326826,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203344,
+        "num": 203344,
+        "word": "这辈子反应最快的一次",
+        "onboard_time": 1664324545,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201722,
+        "num": 201722,
+        "word": "天津新增55例本土阳性感染者",
+        "onboard_time": 1664330783,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192638,
+        "num": 192638,
+        "word": "女子从在职大专读到全日制博士",
+        "onboard_time": 1664322985,
+        "rank": 31,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 184779,
+        "num": 184779,
+        "word": "苹果开放台前调度功能给老款iPad",
+        "onboard_time": 1664335703,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 174790,
+        "num": 174790,
+        "word": "85后奶爸培养4岁孩子成天才车手",
+        "onboard_time": 1664334326,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171695,
+        "num": 171695,
+        "word": "武汉部分区域调为中高风险区",
+        "onboard_time": 1664329944,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169959,
+        "num": 169959,
+        "word": "布林肯回应北溪天然气管道泄漏",
+        "onboard_time": 1664336905,
+        "rank": 35,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 167717,
+        "num": 167717,
+        "word": "金晨新剧预约破百万",
+        "onboard_time": 1664333244,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151324,
+        "num": 151324,
+        "word": "顿涅茨克等四地入俄公投结果公布",
+        "onboard_time": 1664322145,
+        "rank": 37,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 151282,
+        "num": 151282,
+        "word": "学生卖纸壳收废品爷爷问是否需资助",
+        "onboard_time": 1664338648,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146801,
+        "num": 146801,
+        "word": "王菲连续四年献唱国庆档电影",
+        "onboard_time": 1664340327,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140527,
+        "num": 140527,
+        "word": "花5万元请人直播带货只卖出36元",
+        "onboard_time": 1664294663,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139874,
+        "num": 139874,
+        "word": "骄阳伴我",
+        "onboard_time": 1664333665,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134851,
+        "num": 134851,
+        "word": "海南三大网红海岛测评",
+        "onboard_time": 1664334444,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 130281,
+        "num": 130281,
+        "word": "阜阳疫情防控",
+        "onboard_time": 1664331983,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129850,
+        "num": 129850,
+        "word": "马嘉祺我们的歌4皮衣造型",
+        "onboard_time": 1664329704,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 126079,
+        "num": 126079,
+        "word": "直树湘琴15年后再拍全家福",
+        "onboard_time": 1664290407,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122577,
+        "num": 122577,
+        "word": "平台经理多想一下救回中毒夫妻",
+        "onboard_time": 1664340448,
+        "rank": 46,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 117504,
+        "num": 117504,
+        "word": "男子网恋被骗17万骗子称他太好骗",
+        "onboard_time": 1664337686,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109497,
+        "num": 109497,
+        "word": "男子欲买旧桌老板娘得知用途免费送",
+        "onboard_time": 1664325627,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98443,
+        "num": 105499,
+        "word": "买电动车你更看重什么",
+        "onboard_time": 1664340029,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#坐标中国#"
+    }
+  }
+}
