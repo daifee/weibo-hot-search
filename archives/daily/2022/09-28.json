@@ -1,6 +1,6 @@
 {
   "startTime": 1664296789399,
-  "endTime": 1664376910742,
+  "endTime": 1664379041313,
   "band_list": [
     {
       "raw_hot": 4230079,
@@ -251,12 +251,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 648302,
+      "num": 648302,
+      "word": "原来读北大被发现也会害羞",
+      "onboard_time": 1664374524,
+      "rank": 19,
+      "category": "幽默,教育"
+    },
+    {
       "raw_hot": 630842,
       "num": 630842,
       "word": "iPhone14Pro紫色版被曝存在工艺缺陷",
       "onboard_time": 1664355865,
       "rank": 13,
       "category": "科技"
+    },
+    {
+      "raw_hot": 612073,
+      "num": 612073,
+      "word": "徐志胜全网最后一个大帅哥",
+      "onboard_time": 1664378186,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 602836,
@@ -531,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 417051,
+      "num": 331343,
+      "word": "台湾问题同乌克兰问题有本质区别",
+      "onboard_time": 1664375187,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 411463,
       "num": 411463,
       "word": "红烧肉用英语怎么说",
@@ -675,20 +699,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 298277,
-      "num": 298277,
-      "word": "原来读北大被发现也会害羞",
-      "onboard_time": 1664374524,
-      "rank": 19,
-      "category": "幽默,教育"
-    },
-    {
       "raw_hot": 295402,
       "num": 295402,
       "word": "骄阳伴我",
       "onboard_time": 1664333665,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 292822,
+      "num": 292822,
+      "word": "东方甄选回应下架玉米",
+      "onboard_time": 1664377404,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 291898,
@@ -785,14 +809,6 @@
       "onboard_time": 1664364443,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 262551,
-      "num": 262551,
-      "word": "台湾问题同乌克兰问题有本质区别",
-      "onboard_time": 1664375187,
-      "rank": 30,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 262378,
@@ -1035,6 +1051,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 211974,
+      "num": 211974,
+      "word": "花海签的是eStar",
+      "onboard_time": 1664376867,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 211860,
       "num": 211860,
       "word": "云胡不喜概念海报",
@@ -1089,6 +1113,14 @@
       "onboard_time": 1664363005,
       "rank": 18,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 200579,
+      "num": 200579,
+      "word": "司机一个横停为幼童挡住货车",
+      "onboard_time": 1664376448,
+      "rank": 41,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 197783,
@@ -1155,6 +1187,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 184033,
+      "num": 184033,
+      "word": "赵露思田枣胡同工作日记vlog",
+      "onboard_time": 1664378306,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 183500,
       "num": 183500,
       "word": "阜阳疫情防控",
@@ -1185,6 +1225,14 @@
       "onboard_time": 1664349264,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 178972,
+      "num": 178972,
+      "word": "夫妻俩分别去超市但买的一样",
+      "onboard_time": 1664378066,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178361,
@@ -1283,6 +1331,14 @@
       "category": "社会议题,情感"
     },
     {
+      "raw_hot": 165612,
+      "num": 165612,
+      "word": "昆仑神宫",
+      "onboard_time": 1664374284,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 164491,
       "num": 164491,
       "word": "何广智皮衣造型",
@@ -1312,14 +1368,6 @@
       "word": "武林外传到昆仑神宫团建",
       "onboard_time": 1664368463,
       "rank": 22,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 159834,
-      "num": 159834,
-      "word": "昆仑神宫",
-      "onboard_time": 1664374284,
-      "rank": 26,
       "category": "影视"
     },
     {
@@ -1417,14 +1465,6 @@
       "onboard_time": 1664356644,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 140808,
-      "num": 81108,
-      "word": "花海签的是eStar",
-      "onboard_time": 1664376867,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 139850,
@@ -1561,6 +1601,14 @@
       "onboard_time": 1664366604,
       "rank": 28,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 125009,
+      "num": 125009,
+      "word": "Mike新浪扫楼生图",
+      "onboard_time": 1664378845,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 123131,
@@ -1753,14 +1801,6 @@
       "onboard_time": 1664325205,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 96134,
-      "num": 96134,
-      "word": "司机一个横停为幼童挡住货车",
-      "onboard_time": 1664376448,
-      "rank": 41,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 94873,
@@ -2048,6 +2088,14 @@
       "word": "减肥后的心情起伏有多大",
       "onboard_time": 1664285425,
       "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 53335,
+      "num": 59619,
+      "word": "站着生气的仓鼠",
+      "onboard_time": 1664379025,
+      "rank": 49,
       "category": "幽默"
     },
     {
