@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664322508788,
+  "endTime": 1664332144129,
   "band_list": [
     {
       "raw_hot": 4711055,
@@ -128,6 +128,14 @@
       "word": "出门没拔充电线结果家被烧了",
       "onboard_time": 1664156845,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1976804,
+      "num": 1976804,
+      "word": "朝阳群众又双叒叕立功了",
+      "onboard_time": 1664329343,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -331,6 +339,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1075052,
+      "num": 815701,
+      "word": "iPhone14Pro被曝充电时重启",
+      "onboard_time": 1664327966,
+      "rank": 4,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1072064,
       "num": 716720,
       "word": "JYP中国新男团成员",
@@ -356,7 +372,7 @@
     },
     {
       "raw_hot": 1010670,
-      "num": 379372,
+      "num": 457630,
       "word": "直树湘琴15年后再拍全家福",
       "onboard_time": 1664290407,
       "rank": 10,
@@ -433,6 +449,14 @@
       "onboard_time": 1664199867,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 904324,
+      "num": 904324,
+      "word": "女子从在职大专读到全日制博士",
+      "onboard_time": 1664322985,
+      "rank": 1,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 902487,
@@ -535,6 +559,14 @@
       "num": 780923,
       "word": "妇科炎症会引起宫颈癌吗",
       "onboard_time": 1664250085,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 779832,
+      "num": 779832,
+      "word": "武汉新增9例无症状感染者",
+      "onboard_time": 1664328924,
       "rank": 5,
       "category": "社会新闻"
     },
@@ -683,6 +715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 657658,
+      "num": 657658,
+      "word": "16岁女生54秒淡定扑灭起火摩托",
+      "onboard_time": 1664327604,
+      "rank": 7,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 652419,
       "num": 652419,
       "word": "新生儿采足底血爸爸心疼抹泪",
@@ -811,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 574432,
+      "num": 574432,
+      "word": "农民日报评一根玉米卖6元",
+      "onboard_time": 1664330604,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 560420,
       "num": 560420,
       "word": "老人坠床身亡护理院被判赔11万",
@@ -857,6 +905,14 @@
       "onboard_time": 1664265805,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 544199,
+      "num": 544199,
+      "word": "顿涅茨克等四地入俄公投结果公布",
+      "onboard_time": 1664322145,
+      "rank": 20,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 543809,
@@ -971,12 +1027,28 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 498920,
+      "num": 498920,
+      "word": "王鹤棣脸上涂了油彩",
+      "onboard_time": 1664330543,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 496974,
       "num": 496974,
       "word": "成毅 声音",
       "onboard_time": 1664199687,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 496056,
+      "num": 496056,
+      "word": "北溪三条管线均遭到前所未有的破坏",
+      "onboard_time": 1664326826,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 495983,
@@ -1064,6 +1136,14 @@
       "word": "两个人的小森林",
       "onboard_time": 1664190144,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 461600,
+      "num": 461600,
+      "word": "骄阳伴我官宣开机",
+      "onboard_time": 1664331684,
+      "rank": 12,
       "category": "影视"
     },
     {
@@ -1475,6 +1555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 344118,
+      "num": 344118,
+      "word": "天津新增55例本土阳性感染者",
+      "onboard_time": 1664330783,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 342905,
       "num": 342905,
       "word": "虞书欣虞美人黑化版",
@@ -1595,6 +1683,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300608,
+      "num": 300608,
+      "word": "有钱鸭摆件",
+      "onboard_time": 1664330543,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 299212,
+      "num": 299212,
+      "word": "这辈子反应最快的一次",
+      "onboard_time": 1664324545,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 297269,
       "num": 297269,
       "word": "上机考试鼠标自己答题",
@@ -1667,6 +1771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286774,
+      "num": 286774,
+      "word": "这几类彩妆超过50别买啦",
+      "onboard_time": 1664323468,
+      "rank": 18,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 286343,
       "num": 286343,
       "word": "男子脚踢抢食猴子遭满山追打",
@@ -1697,14 +1809,6 @@
       "onboard_time": 1664239708,
       "rank": 13,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 282788,
-      "num": 186055,
-      "word": "顿涅茨克等四地入俄公投结果公布",
-      "onboard_time": 1664322145,
-      "rank": 20,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 282293,
@@ -1803,6 +1907,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 269754,
+      "num": 269754,
+      "word": "男子欲买旧桌老板娘得知用途免费送",
+      "onboard_time": 1664325627,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 268155,
       "num": 268155,
       "word": "MAMAMOO将于10月11日回归",
@@ -1841,6 +1953,14 @@
       "onboard_time": 1664126358,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 263624,
+      "num": 263624,
+      "word": "武汉部分区域调为中高风险区",
+      "onboard_time": 1664329944,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 263101,
@@ -1929,6 +2049,14 @@
       "onboard_time": 1664249425,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 249288,
+      "num": 249288,
+      "word": "马嘉祺我们的歌4皮衣造型",
+      "onboard_time": 1664329704,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 248596,
@@ -2179,6 +2307,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 218888,
+      "num": 218888,
+      "word": "9月27日新增本土确诊119例",
+      "onboard_time": 1664327785,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218752,
       "num": 218752,
       "word": "虞美人分手自救清醒指南",
@@ -2209,6 +2345,14 @@
       "onboard_time": 1664178986,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 217581,
+      "num": 217581,
+      "word": "镇江新增一名阳性人员",
+      "onboard_time": 1664324247,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217132,
@@ -2275,6 +2419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 208120,
+      "num": 208120,
+      "word": "米勒的S12剧本",
+      "onboard_time": 1664328025,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 207786,
       "num": 207786,
       "word": "穷鬼快乐餐最强攻略",
@@ -2337,6 +2489,14 @@
       "onboard_time": 1664115869,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201793,
+      "num": 201793,
+      "word": "牙买加0比3阿根廷",
+      "onboard_time": 1664331925,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 200651,
@@ -2691,6 +2851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 164491,
+      "num": 164491,
+      "word": "何广智皮衣造型",
+      "onboard_time": 1664325687,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 164143,
       "num": 159531,
       "word": "请君的虐都被小沈阳治好了",
@@ -2745,6 +2913,14 @@
       "onboard_time": 1664137811,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160430,
+      "num": 160430,
+      "word": "狐妖小红娘陈瑶女装路透",
+      "onboard_time": 1664331745,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 159582,
@@ -2915,12 +3091,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 148660,
+      "num": 148660,
+      "word": "工程院院士顾健人逝世",
+      "onboard_time": 1664326646,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148420,
       "num": 148420,
       "word": "警方最高悬赏50万抓捕涉麻涉毒逃犯",
       "onboard_time": 1664167830,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148116,
+      "num": 148116,
+      "word": "休杰克曼加盟死侍3",
+      "onboard_time": 1664324306,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 146948,
@@ -2961,6 +3153,14 @@
       "onboard_time": 1664109626,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143330,
+      "num": 143330,
+      "word": "个人养老金税优政策明确",
+      "onboard_time": 1664328205,
+      "rank": 33,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 143148,
@@ -3075,6 +3275,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 133383,
+      "num": 133383,
+      "word": "MAMAMOO新专概念照",
+      "onboard_time": 1664326887,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 133063,
       "num": 133063,
       "word": "真的不要再自我怀疑了",
@@ -3096,6 +3304,14 @@
       "word": "昆明2例新冠初筛阳性活动轨迹",
       "onboard_time": 1664142131,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131729,
+      "num": 131729,
+      "word": "阜阳疫情防控",
+      "onboard_time": 1664331983,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -3283,6 +3499,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 117061,
+      "num": 119307,
+      "word": "电动车卷对方向了吗",
+      "onboard_time": 1664330604,
+      "rank": 41,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 116779,
+      "num": 116779,
+      "word": "孟川 好笑",
+      "onboard_time": 1664325031,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116661,
       "num": 116661,
       "word": "昆仑神宫",
@@ -3379,6 +3611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 106725,
+      "num": 106725,
+      "word": "中国动画百年",
+      "onboard_time": 1664331264,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 106551,
       "num": 106551,
       "word": "Fly回城是AG",
@@ -3467,12 +3707,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98991,
+      "num": 96227,
+      "word": "球迷闯入赛场看傻梅西",
+      "onboard_time": 1664332105,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98445,
       "num": 98445,
       "word": "她们的名字",
       "onboard_time": 1664280444,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 97485,
+      "num": 97485,
+      "word": "原神3.1版本更新",
+      "onboard_time": 1664325205,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 96635,
@@ -3497,6 +3753,14 @@
       "onboard_time": 1664271624,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 94873,
+      "num": 94873,
+      "word": "我的反派男友此刻心动芭莎大片",
+      "onboard_time": 1664330004,
+      "rank": 48,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 94520,

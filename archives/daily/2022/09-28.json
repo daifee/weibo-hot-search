@@ -1,7 +1,23 @@
 {
   "startTime": 1664296789399,
-  "endTime": 1664322508788,
+  "endTime": 1664332144129,
   "band_list": [
+    {
+      "raw_hot": 1976804,
+      "num": 1976804,
+      "word": "朝阳群众又双叒叕立功了",
+      "onboard_time": 1664329343,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1582686,
+      "num": 827572,
+      "word": "晕车终于有救了",
+      "onboard_time": 1664287349,
+      "rank": 4,
+      "category": "情感"
+    },
     {
       "raw_hot": 1383838,
       "num": 1383838,
@@ -19,12 +35,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 966041,
-      "num": 463963,
-      "word": "晕车终于有救了",
-      "onboard_time": 1664287349,
+      "raw_hot": 1075052,
+      "num": 815701,
+      "word": "iPhone14Pro被曝充电时重启",
+      "onboard_time": 1664327966,
       "rank": 4,
-      "category": "情感"
+      "category": "科技"
     },
     {
       "raw_hot": 959170,
@@ -43,12 +59,36 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 904324,
+      "num": 904324,
+      "word": "女子从在职大专读到全日制博士",
+      "onboard_time": 1664322985,
+      "rank": 1,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 894735,
-      "num": 285557,
+      "num": 457630,
       "word": "直树湘琴15年后再拍全家福",
       "onboard_time": 1664290407,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 779832,
+      "num": 779832,
+      "word": "武汉新增9例无症状感染者",
+      "onboard_time": 1664328924,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 657658,
+      "num": 657658,
+      "word": "16岁女生54秒淡定扑灭起火摩托",
+      "onboard_time": 1664327604,
+      "rank": 7,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 601518,
@@ -59,12 +99,52 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 574432,
+      "num": 574432,
+      "word": "农民日报评一根玉米卖6元",
+      "onboard_time": 1664330604,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 544199,
+      "num": 544199,
+      "word": "顿涅茨克等四地入俄公投结果公布",
+      "onboard_time": 1664322145,
+      "rank": 20,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 539423,
       "num": 539423,
       "word": "频繁换头像是缺乏安全感吗",
       "onboard_time": 1664270784,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 498920,
+      "num": 498920,
+      "word": "王鹤棣脸上涂了油彩",
+      "onboard_time": 1664330543,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 496056,
+      "num": 496056,
+      "word": "北溪三条管线均遭到前所未有的破坏",
+      "onboard_time": 1664326826,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 461600,
+      "num": 461600,
+      "word": "骄阳伴我官宣开机",
+      "onboard_time": 1664331684,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 395252,
@@ -107,12 +187,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 282788,
-      "num": 186055,
-      "word": "顿涅茨克等四地入俄公投结果公布",
-      "onboard_time": 1664322145,
-      "rank": 20,
-      "category": "国外要闻"
+      "raw_hot": 344118,
+      "num": 344118,
+      "word": "天津新增55例本土阳性感染者",
+      "onboard_time": 1664330783,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300608,
+      "num": 300608,
+      "word": "有钱鸭摆件",
+      "onboard_time": 1664330543,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 299212,
+      "num": 299212,
+      "word": "这辈子反应最快的一次",
+      "onboard_time": 1664324545,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 286774,
+      "num": 286774,
+      "word": "这几类彩妆超过50别买啦",
+      "onboard_time": 1664323468,
+      "rank": 18,
+      "category": "美妆"
     },
     {
       "raw_hot": 279270,
@@ -129,6 +233,22 @@
       "onboard_time": 1664280144,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 269754,
+      "num": 269754,
+      "word": "男子欲买旧桌老板娘得知用途免费送",
+      "onboard_time": 1664325627,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263624,
+      "num": 263624,
+      "word": "武汉部分区域调为中高风险区",
+      "onboard_time": 1664329944,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 260523,
@@ -163,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249288,
+      "num": 249288,
+      "word": "马嘉祺我们的歌4皮衣造型",
+      "onboard_time": 1664329704,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 248250,
       "num": 248250,
       "word": "中介伪装房东9年骗走老人1050万",
@@ -187,12 +315,36 @@
       "category": "科技"
     },
     {
+      "raw_hot": 218888,
+      "num": 218888,
+      "word": "9月27日新增本土确诊119例",
+      "onboard_time": 1664327785,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217581,
+      "num": 217581,
+      "word": "镇江新增一名阳性人员",
+      "onboard_time": 1664324247,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217556,
       "num": 217556,
       "word": "韩剧",
       "onboard_time": 1664278525,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 208120,
+      "num": 208120,
+      "word": "米勒的S12剧本",
+      "onboard_time": 1664328025,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 206400,
@@ -209,6 +361,14 @@
       "onboard_time": 1664289265,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 201793,
+      "num": 201793,
+      "word": "牙买加0比3阿根廷",
+      "onboard_time": 1664331925,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 192305,
@@ -243,6 +403,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164491,
+      "num": 164491,
+      "word": "何广智皮衣造型",
+      "onboard_time": 1664325687,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 160430,
+      "num": 160430,
+      "word": "狐妖小红娘陈瑶女装路透",
+      "onboard_time": 1664331745,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 158247,
       "num": 158247,
       "word": "警方回应男子酒吧骚扰邻桌女生",
@@ -275,12 +451,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148660,
+      "num": 148660,
+      "word": "工程院院士顾健人逝世",
+      "onboard_time": 1664326646,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148116,
+      "num": 148116,
+      "word": "休杰克曼加盟死侍3",
+      "onboard_time": 1664324306,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 143330,
+      "num": 143330,
+      "word": "个人养老金税优政策明确",
+      "onboard_time": 1664328205,
+      "rank": 33,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 139850,
       "num": 139850,
       "word": "数名老人组团赶场拦婚车讨红包",
       "onboard_time": 1664316372,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133383,
+      "num": 133383,
+      "word": "MAMAMOO新专概念照",
+      "onboard_time": 1664326887,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 132799,
@@ -299,12 +507,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131729,
+      "num": 131729,
+      "word": "阜阳疫情防控",
+      "onboard_time": 1664331983,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127237,
       "num": 127237,
       "word": "骚男结婚",
       "onboard_time": 1664277025,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 117061,
+      "num": 119307,
+      "word": "电动车卷对方向了吗",
+      "onboard_time": 1664330604,
+      "rank": 41,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 116779,
+      "num": 116779,
+      "word": "孟川 好笑",
+      "onboard_time": 1664325031,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 116159,
@@ -324,11 +556,19 @@
     },
     {
       "raw_hot": 110597,
-      "num": 827875,
+      "num": 830998,
       "word": "二十大代表是怎么选出来的",
       "onboard_time": 1664282366,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 106725,
+      "num": 106725,
+      "word": "中国动画百年",
+      "onboard_time": 1664331264,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 106465,
@@ -347,12 +587,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98991,
+      "num": 96227,
+      "word": "球迷闯入赛场看傻梅西",
+      "onboard_time": 1664332105,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97602,
       "num": 97602,
       "word": "肖战骄阳伴我白衬衫侧颜路透图",
       "onboard_time": 1664278105,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 97485,
+      "num": 97485,
+      "word": "原神3.1版本更新",
+      "onboard_time": 1664325205,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 94873,
+      "num": 94873,
+      "word": "我的反派男友此刻心动芭莎大片",
+      "onboard_time": 1664330004,
+      "rank": 48,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 86503,
