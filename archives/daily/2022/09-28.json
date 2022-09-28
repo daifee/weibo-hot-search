@@ -1,6 +1,6 @@
 {
   "startTime": 1664296789399,
-  "endTime": 1664357412345,
+  "endTime": 1664358526459,
   "band_list": [
     {
       "raw_hot": 4230079,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1631771,
+      "num": 1631771,
+      "word": "李玟节目录制现场质问导演组",
+      "onboard_time": 1664354005,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1613450,
       "num": 1329693,
       "word": "车银优韩素希李洙赫网漫海报",
@@ -73,14 +81,6 @@
       "onboard_time": 1664330604,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1407058,
-      "num": 1407058,
-      "word": "李玟节目录制现场质问导演组",
-      "onboard_time": 1664354005,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 1383838,
@@ -145,6 +145,14 @@
       "onboard_time": 1664290407,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 863016,
+      "num": 863016,
+      "word": "狂犬病一旦发病病死率几乎为100%",
+      "onboard_time": 1664356104,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 779832,
@@ -339,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 476646,
+      "num": 476646,
+      "word": "iPhone14Pro紫色版被曝存在工艺缺陷",
+      "onboard_time": 1664355865,
+      "rank": 13,
+      "category": "科技"
+    },
+    {
       "raw_hot": 444695,
       "num": 444695,
       "word": "徐明浩跳了张艺兴面纱脚步舞",
@@ -353,6 +369,14 @@
       "onboard_time": 1664341468,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 411463,
+      "num": 411463,
+      "word": "红烧肉用英语怎么说",
+      "onboard_time": 1664354186,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 411213,
@@ -372,27 +396,11 @@
     },
     {
       "raw_hot": 410178,
-      "num": 303486,
+      "num": 335026,
       "word": "刘诗诗刘宇宁一念关山蓝衣路透",
       "onboard_time": 1664355025,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 407632,
-      "num": 256028,
-      "word": "狂犬病一旦发病病死率几乎为100%",
-      "onboard_time": 1664356104,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 405122,
-      "num": 405122,
-      "word": "红烧肉用英语怎么说",
-      "onboard_time": 1664354186,
-      "rank": 27,
-      "category": "美食"
     },
     {
       "raw_hot": 395627,
@@ -499,14 +507,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 290152,
-      "num": 248018,
-      "word": "iPhone14Pro紫色版被曝存在工艺缺陷",
-      "onboard_time": 1664355865,
-      "rank": 13,
-      "category": "科技"
-    },
-    {
       "raw_hot": 286774,
       "num": 286774,
       "word": "这几类彩妆超过50别买啦",
@@ -521,6 +521,14 @@
       "onboard_time": 1664310671,
       "rank": 44,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 275486,
+      "num": 275486,
+      "word": "女孩马路中间摆拍遭醉驾男子碰撞",
+      "onboard_time": 1664356044,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274376,
@@ -635,6 +643,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 240938,
+      "num": 240938,
+      "word": "太原疫情防控",
+      "onboard_time": 1664354424,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232943,
       "num": 232943,
       "word": "金晨新剧预约破百万",
@@ -664,14 +680,6 @@
       "word": "网约车司机绕道近1小时接乘客",
       "onboard_time": 1664332644,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 227739,
-      "num": 227739,
-      "word": "太原疫情防控",
-      "onboard_time": 1664354424,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -827,14 +835,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 187715,
-      "num": 187715,
-      "word": "女孩马路中间摆拍遭醉驾男子碰撞",
-      "onboard_time": 1664356044,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184779,
       "num": 184779,
       "word": "苹果开放台前调度功能给老款iPad",
@@ -955,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157752,
+      "num": 157752,
+      "word": "王者时之奇旅新皮肤",
+      "onboard_time": 1664357066,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 157157,
       "num": 157157,
       "word": "女性骑行人数增速约超男性2倍",
@@ -985,6 +993,14 @@
       "onboard_time": 1664338648,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153833,
+      "num": 153833,
+      "word": "这才是我最爱吃的水果",
+      "onboard_time": 1664357127,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 148954,
@@ -1083,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128980,
+      "num": 127235,
+      "word": "张云龙Mike仁科反向记者会",
+      "onboard_time": 1664356585,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127652,
       "num": 127652,
       "word": "网友拍到彩虹版落叶仿佛调色盘",
@@ -1097,6 +1121,14 @@
       "onboard_time": 1664277025,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 126556,
+      "num": 126556,
+      "word": "AirPodsPro2篆刻内容会弹窗显示",
+      "onboard_time": 1664357844,
+      "rank": 32,
+      "category": "科技"
     },
     {
       "raw_hot": 126170,
@@ -1171,6 +1203,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 110023,
+      "num": 110023,
+      "word": "番茄牛腩拌饭是真的绝绝子",
+      "onboard_time": 1664357544,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 106761,
       "num": 106761,
       "word": "消费者真的需要智能产品吗",
@@ -1201,6 +1241,14 @@
       "onboard_time": 1664294364,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102585,
+      "num": 102585,
+      "word": "年轻人国庆都玩什么运动",
+      "onboard_time": 1664356644,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 98991,
@@ -1259,12 +1307,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 93584,
-      "num": 94466,
-      "word": "王者时之奇旅新皮肤",
-      "onboard_time": 1664357066,
-      "rank": 39,
-      "category": "游戏"
+      "raw_hot": 91840,
+      "num": 91840,
+      "word": "成都世乒赛团体赛男团分组出炉",
+      "onboard_time": 1664357185,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 90672,
@@ -1299,35 +1347,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 86123,
-      "num": 86123,
-      "word": "张云龙Mike仁科反向记者会",
-      "onboard_time": 1664356585,
+      "raw_hot": 81709,
+      "num": 81709,
+      "word": "教你练出小蛮腰",
+      "onboard_time": 1664358385,
       "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 85314,
-      "num": 85314,
-      "word": "年轻人国庆都玩什么运动",
-      "onboard_time": 1664356644,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 84792,
-      "num": 84792,
-      "word": "这才是我最爱吃的水果",
-      "onboard_time": 1664357127,
-      "rank": 45,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 78735,
-      "num": 78735,
-      "word": "成都世乒赛团体赛男团分组出炉",
-      "onboard_time": 1664357185,
-      "rank": 46,
       "category": "体育"
     },
     {
@@ -1491,20 +1515,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 51384,
+      "num": 245808,
+      "word": "广州两男子扛水枪爬阳台帮邻居救火",
+      "onboard_time": 1664355627,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48471,
       "num": 48471,
       "word": "这难道是班主任的凝视吗",
       "onboard_time": 1664289627,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 45838,
-      "num": 244821,
-      "word": "广州两男子扛水枪爬阳台帮邻居救火",
-      "onboard_time": 1664355627,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32560,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/28 17:30:12
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/28 17:48:46
 </p>
 </blockquote>
 <p>
@@ -2721,6 +2721,12 @@ iPhone14 Plus（热度：1672968）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E8%8A%82%E7%9B%AE%E5%BD%95%E5%88%B6%E7%8E%B0%E5%9C%BA%E8%B4%A8%E9%97%AE%E5%AF%BC%E6%BC%94%E7%BB%84%23" target="weibo">
+李玟节目录制现场质问导演组（热度：1631771）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%A2%85%E8%8A%B1%23" target="weibo">
 台风梅花（热度：1631064）
 </a>
@@ -3593,12 +3599,6 @@ B站二季度净亏损20亿（热度：1413487）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%A6%88%E5%9B%A0%E5%AD%A9%E5%AD%90%E9%9B%86%E4%BD%93%E7%85%A7%E9%9C%B2%E8%84%B8%E5%B0%91%E8%B5%B7%E8%AF%89%E5%BD%B1%E6%A5%BC%23" target="weibo">
 宝妈因孩子集体照露脸少起诉影楼（热度：1407173）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E8%8A%82%E7%9B%AE%E5%BD%95%E5%88%B6%E7%8E%B0%E5%9C%BA%E8%B4%A8%E9%97%AE%E5%AF%BC%E6%BC%94%E7%BB%84%23" target="weibo">
-李玟节目录制现场质问导演组（热度：1407058）
 </a>
 </li>
 

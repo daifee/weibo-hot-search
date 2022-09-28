@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664357412345,
+  "endTime": 1664358526459,
   "band_list": [
     {
       "raw_hot": 4711055,
@@ -203,6 +203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1631771,
+      "num": 1631771,
+      "word": "李玟节目录制现场质问导演组",
+      "onboard_time": 1664354005,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1613450,
       "num": 1329693,
       "word": "车银优韩素希李洙赫网漫海报",
@@ -273,14 +281,6 @@
       "onboard_time": 1664181504,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1407058,
-      "num": 1407058,
-      "word": "李玟节目录制现场质问导演组",
-      "onboard_time": 1664354005,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 1383838,
@@ -553,6 +553,14 @@
       "onboard_time": 1664198124,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 863016,
+      "num": 863016,
+      "word": "狂犬病一旦发病病死率几乎为100%",
+      "onboard_time": 1664356104,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 849286,
@@ -1283,6 +1291,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 476646,
+      "num": 476646,
+      "word": "iPhone14Pro紫色版被曝存在工艺缺陷",
+      "onboard_time": 1664355865,
+      "rank": 13,
+      "category": "科技"
+    },
+    {
       "raw_hot": 474252,
       "num": 388577,
       "word": "iPhone15Ultra或采用双前置摄像头",
@@ -1499,6 +1515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 411463,
+      "num": 411463,
+      "word": "红烧肉用英语怎么说",
+      "onboard_time": 1664354186,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 411213,
       "num": 411213,
       "word": "王鹤棣你好星期六工装造型路透",
@@ -1516,7 +1540,7 @@
     },
     {
       "raw_hot": 410178,
-      "num": 303486,
+      "num": 335026,
       "word": "刘诗诗刘宇宁一念关山蓝衣路透",
       "onboard_time": 1664355025,
       "rank": 11,
@@ -1537,22 +1561,6 @@
       "onboard_time": 1664268626,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 407632,
-      "num": 256028,
-      "word": "狂犬病一旦发病病死率几乎为100%",
-      "onboard_time": 1664356104,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 405122,
-      "num": 405122,
-      "word": "红烧肉用英语怎么说",
-      "onboard_time": 1664354186,
-      "rank": 27,
-      "category": "美食"
     },
     {
       "raw_hot": 404947,
@@ -2043,14 +2051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 290152,
-      "num": 248018,
-      "word": "iPhone14Pro紫色版被曝存在工艺缺陷",
-      "onboard_time": 1664355865,
-      "rank": 13,
-      "category": "科技"
-    },
-    {
       "raw_hot": 287865,
       "num": 287865,
       "word": "当农大学生的毕业论文被吃掉",
@@ -2161,6 +2161,14 @@
       "onboard_time": 1664180545,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 275486,
+      "num": 275486,
+      "word": "女孩马路中间摆拍遭醉驾男子碰撞",
+      "onboard_time": 1664356044,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274776,
@@ -2459,6 +2467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 240938,
+      "num": 240938,
+      "word": "太原疫情防控",
+      "onboard_time": 1664354424,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 239323,
       "num": 239323,
       "word": "你好二十大",
@@ -2609,14 +2625,6 @@
       "onboard_time": 1664119526,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 227739,
-      "num": 227739,
-      "word": "太原疫情防控",
-      "onboard_time": 1664354424,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 225578,
@@ -3075,14 +3083,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 187715,
-      "num": 187715,
-      "word": "女孩马路中间摆拍遭醉驾男子碰撞",
-      "onboard_time": 1664356044,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 187565,
       "num": 187565,
       "word": "王鹤棣新闻当事人专访",
@@ -3491,6 +3491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 157752,
+      "num": 157752,
+      "word": "王者时之奇旅新皮肤",
+      "onboard_time": 1664357066,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 157732,
       "num": 157732,
       "word": "中国女篮半场领先26分",
@@ -3569,6 +3577,14 @@
       "onboard_time": 1664222111,
       "rank": 38,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 153833,
+      "num": 153833,
+      "word": "这才是我最爱吃的水果",
+      "onboard_time": 1664357127,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 152854,
@@ -3891,6 +3907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128980,
+      "num": 127235,
+      "word": "张云龙Mike仁科反向记者会",
+      "onboard_time": 1664356585,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128738,
       "num": 128738,
       "word": "独行月球密钥延期至1029",
@@ -3953,6 +3977,14 @@
       "onboard_time": 1664160266,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 126556,
+      "num": 126556,
+      "word": "AirPodsPro2篆刻内容会弹窗显示",
+      "onboard_time": 1664357844,
+      "rank": 32,
+      "category": "科技"
     },
     {
       "raw_hot": 126180,
@@ -4187,6 +4219,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 110023,
+      "num": 110023,
+      "word": "番茄牛腩拌饭是真的绝绝子",
+      "onboard_time": 1664357544,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 109259,
       "num": 109259,
       "word": "光遇",
@@ -4257,6 +4297,14 @@
       "onboard_time": 1664147420,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 102585,
+      "num": 102585,
+      "word": "年轻人国庆都玩什么运动",
+      "onboard_time": 1664356644,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 102033,
@@ -4411,14 +4459,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 93584,
-      "num": 94466,
-      "word": "王者时之奇旅新皮肤",
-      "onboard_time": 1664357066,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 92053,
       "num": 81062,
       "word": "李沁说求婚只有0次和无数次",
@@ -4441,6 +4481,14 @@
       "onboard_time": 1664101165,
       "rank": 28,
       "category": "科技"
+    },
+    {
+      "raw_hot": 91840,
+      "num": 91840,
+      "word": "成都世乒赛团体赛男团分组出炉",
+      "onboard_time": 1664357185,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 90865,
@@ -4531,36 +4579,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 86123,
-      "num": 86123,
-      "word": "张云龙Mike仁科反向记者会",
-      "onboard_time": 1664356585,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 85314,
-      "num": 85314,
-      "word": "年轻人国庆都玩什么运动",
-      "onboard_time": 1664356644,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 85129,
       "num": 85129,
       "word": "浙岱渔11492船老大获二等功",
       "onboard_time": 1664151385,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 84792,
-      "num": 84792,
-      "word": "这才是我最爱吃的水果",
-      "onboard_time": 1664357127,
-      "rank": 45,
-      "category": "美食"
     },
     {
       "raw_hot": 84574,
@@ -4585,6 +4609,14 @@
       "onboard_time": 1664292026,
       "rank": 48,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 81709,
+      "num": 81709,
+      "word": "教你练出小蛮腰",
+      "onboard_time": 1664358385,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 81690,
@@ -4617,14 +4649,6 @@
       "onboard_time": 1664265865,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 78735,
-      "num": 78735,
-      "word": "成都世乒赛团体赛男团分组出炉",
-      "onboard_time": 1664357185,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 78260,
@@ -4851,6 +4875,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 51384,
+      "num": 245808,
+      "word": "广州两男子扛水枪爬阳台帮邻居救火",
+      "onboard_time": 1664355627,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49425,
       "num": 357873,
       "word": "甘宇自述17天荒野求生",
@@ -4888,14 +4920,6 @@
       "word": "男子误花10元私房钱气到攥紧拳头",
       "onboard_time": 1664096126,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 45838,
-      "num": 244821,
-      "word": "广州两男子扛水枪爬阳台帮邻居救火",
-      "onboard_time": 1664355627,
-      "rank": 14,
       "category": "社会新闻"
     },
     {

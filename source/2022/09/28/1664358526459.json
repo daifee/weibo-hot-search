@@ -1,0 +1,410 @@
+{
+  "runTime": 1664358526459,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2214755,
+        "num": 2214755,
+        "word": "男子月薪九千不会用word被辞退",
+        "onboard_time": 1664351545,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1631771,
+        "num": 1631771,
+        "word": "李玟节目录制现场质问导演组",
+        "onboard_time": 1664354005,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13020,
+        "num": 1279144,
+        "word": "二十大代表是怎么选出来的",
+        "onboard_time": 1664282366,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1271032,
+        "num": 1271032,
+        "word": "00后老师开始撕伞了",
+        "onboard_time": 1664344164,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 863016,
+        "num": 863016,
+        "word": "狂犬病一旦发病病死率几乎为100%",
+        "onboard_time": 1664356104,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 703681,
+        "num": 703681,
+        "word": "保研",
+        "onboard_time": 1664342903,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 476646,
+        "num": 476646,
+        "word": "iPhone14Pro紫色版被曝存在工艺缺陷",
+        "onboard_time": 1664355865,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 432188,
+        "num": 432188,
+        "word": "男子收到与去世爷爷合照瞬间破防",
+        "onboard_time": 1664352382,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411463,
+        "num": 411463,
+        "word": "红烧肉用英语怎么说",
+        "onboard_time": 1664354186,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 361888,
+        "num": 361888,
+        "word": "男孩火锅店狂奔被汤淋一身",
+        "onboard_time": 1664349382,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335026,
+        "num": 335026,
+        "word": "刘诗诗刘宇宁一念关山蓝衣路透",
+        "onboard_time": 1664355025,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 308759,
+        "num": 308759,
+        "word": "杨丞琳说蔡徐坤本人比荧幕上帅",
+        "onboard_time": 1664351545,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275486,
+        "num": 275486,
+        "word": "女孩马路中间摆拍遭醉驾男子碰撞",
+        "onboard_time": 1664356044,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252883,
+        "num": 252883,
+        "word": "朝阳群众又双叒叕立功了",
+        "onboard_time": 1664329343,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51384,
+        "num": 245808,
+        "word": "广州两男子扛水枪爬阳台帮邻居救火",
+        "onboard_time": 1664355627,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240938,
+        "num": 240938,
+        "word": "太原疫情防控",
+        "onboard_time": 1664354424,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227248,
+        "num": 227248,
+        "word": "男孩放跑客人寄存宠物店的2万元猫",
+        "onboard_time": 1664347284,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194000,
+        "num": 194000,
+        "word": "真情侣在大荧幕上有多好嗑",
+        "onboard_time": 1664349984,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189426,
+        "num": 189426,
+        "word": "女孩被困电梯连按警铃物业当误报",
+        "onboard_time": 1664345125,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170190,
+        "num": 170190,
+        "word": "王鹤棣在密逃被吓到模糊",
+        "onboard_time": 1664346384,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168179,
+        "num": 168179,
+        "word": "把雄安地铁开进北京",
+        "onboard_time": 1664352805,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159878,
+        "num": 159878,
+        "word": "一口气炫24集东北插班生",
+        "onboard_time": 1664343743,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157752,
+        "num": 157752,
+        "word": "王者时之奇旅新皮肤",
+        "onboard_time": 1664357066,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156571,
+        "num": 156571,
+        "word": "云胡不喜概念海报",
+        "onboard_time": 1664356884,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153833,
+        "num": 153833,
+        "word": "这才是我最爱吃的水果",
+        "onboard_time": 1664357127,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 148410,
+        "num": 148410,
+        "word": "白百何骄阳伴我路透",
+        "onboard_time": 1664353104,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146124,
+        "num": 146124,
+        "word": "王嘉尔官宣世界巡演",
+        "onboard_time": 1664348964,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 140921,
+        "num": 140921,
+        "word": "太原报告1例初筛阳性者",
+        "onboard_time": 1664354364,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135593,
+        "num": 135593,
+        "word": "新娘将婚礼手捧花送婆婆新郎泪崩",
+        "onboard_time": 1664339127,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128040,
+        "num": 128040,
+        "word": "奔驰车机推送卖车广告",
+        "onboard_time": 1664351484,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142796,
+        "num": 127726,
+        "word": "国家队把青鸾演活了",
+        "onboard_time": 1664349264,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128980,
+        "num": 127235,
+        "word": "张云龙Mike仁科反向记者会",
+        "onboard_time": 1664356585,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126556,
+        "num": 126556,
+        "word": "AirPodsPro2篆刻内容会弹窗显示",
+        "onboard_time": 1664357844,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 112931,
+        "num": 112931,
+        "word": "男子网恋被骗17万骗子称他太好骗",
+        "onboard_time": 1664337686,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112071,
+        "num": 112071,
+        "word": "苏醒再就业打工技能加满",
+        "onboard_time": 1664354725,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110023,
+        "num": 110023,
+        "word": "番茄牛腩拌饭是真的绝绝子",
+        "onboard_time": 1664357544,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 107207,
+        "num": 107207,
+        "word": "农民日报评一根玉米卖6元",
+        "onboard_time": 1664330604,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102585,
+        "num": 102585,
+        "word": "年轻人国庆都玩什么运动",
+        "onboard_time": 1664356644,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99380,
+        "num": 99380,
+        "word": "大学教授说别太把自己当回事",
+        "onboard_time": 1664343324,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 97115,
+        "num": 97115,
+        "word": "平台经理多想一下救回中毒夫妻",
+        "onboard_time": 1664340448,
+        "rank": 39,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 94851,
+        "num": 94851,
+        "word": "8个动作瘦腹部",
+        "onboard_time": 1664346983,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91840,
+        "num": 91840,
+        "word": "成都世乒赛团体赛男团分组出炉",
+        "onboard_time": 1664357185,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91392,
+        "num": 91392,
+        "word": "英雄联盟S12",
+        "onboard_time": 1664339909,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 81709,
+        "num": 81709,
+        "word": "教你练出小蛮腰",
+        "onboard_time": 1664358385,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77315,
+        "num": 77315,
+        "word": "任嘉伦说陆炎没在怕的",
+        "onboard_time": 1664354785,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 74909,
+        "num": 74909,
+        "word": "王菲连续四年献唱国庆档电影",
+        "onboard_time": 1664340327,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 74511,
+        "num": 74511,
+        "word": "扎克伯格跌出美国富豪榜前十",
+        "onboard_time": 1664343743,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 74497,
+        "num": 74497,
+        "word": "任泽平9天6次炮轰苹果",
+        "onboard_time": 1664347763,
+        "rank": 47,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 74396,
+        "num": 74396,
+        "word": "万茜刺猬头侠客造型",
+        "onboard_time": 1664355804,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 73926,
+        "num": 73926,
+        "word": "布林肯回应北溪天然气管道泄漏",
+        "onboard_time": 1664336905,
+        "rank": 49,
+        "category": "国外要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#打造一支强大的乡村振兴人才队伍#"
+    }
+  }
+}
