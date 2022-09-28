@@ -1,0 +1,410 @@
+{
+  "runTime": 1664380284006,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 977985,
+        "num": 977985,
+        "word": "徐志胜全网最后一个大帅哥",
+        "onboard_time": 1664378186,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 874782,
+        "num": 874782,
+        "word": "天津禁止学校聘用有性骚扰犯罪记录人员",
+        "onboard_time": 1664370984,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 86318,
+        "num": 778170,
+        "word": "画在墙上的火车开进了现实",
+        "onboard_time": 1664365885,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1161667,
+        "num": 772509,
+        "word": "女子为玩羊了个羊看广告被骗9万元",
+        "onboard_time": 1664364142,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 758797,
+        "num": 758797,
+        "word": "原来读北大被发现也会害羞",
+        "onboard_time": 1664374524,
+        "rank": 4,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 622252,
+        "num": 622252,
+        "word": "杨笠你现在理解我了",
+        "onboard_time": 1664371706,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 478093,
+        "num": 478093,
+        "word": "台湾问题同乌克兰问题有本质区别",
+        "onboard_time": 1664375187,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 470610,
+        "num": 470610,
+        "word": "李玟回应节目录制现场质问导演",
+        "onboard_time": 1664369426,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 468388,
+        "num": 468388,
+        "word": "4万买下周大福25万金饰被起诉",
+        "onboard_time": 1664359644,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421589,
+        "num": 421589,
+        "word": "东方甄选回应下架玉米",
+        "onboard_time": 1664377404,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384715,
+        "num": 384715,
+        "word": "夫妻俩分别去超市但买的一样",
+        "onboard_time": 1664378066,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330979,
+        "num": 330979,
+        "word": "北电22级实验班合影",
+        "onboard_time": 1664372423,
+        "rank": 11,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 277260,
+        "num": 277260,
+        "word": "学生1句话让老师找到失散35年亲人",
+        "onboard_time": 1664370624,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 259432,
+        "num": 259432,
+        "word": "一京外阳性人员涉及北京轨迹公布",
+        "onboard_time": 1664372485,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234078,
+        "num": 234078,
+        "word": "男子月薪九千不会用word被辞退",
+        "onboard_time": 1664351545,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214437,
+        "num": 214437,
+        "word": "司机一个横停为幼童挡住货车",
+        "onboard_time": 1664376448,
+        "rank": 15,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 210698,
+        "num": 210698,
+        "word": "美使馆建议在俄旅居美公民尽快离开",
+        "onboard_time": 1664372423,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 202060,
+        "num": 202060,
+        "word": "狂犬病一旦发病病死率几乎为100%",
+        "onboard_time": 1664356104,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196712,
+        "num": 196712,
+        "word": "花海签的是eStar",
+        "onboard_time": 1664376867,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162605,
+        "num": 162605,
+        "word": "中国女排3比0战胜日本",
+        "onboard_time": 1664373566,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157822,
+        "num": 157822,
+        "word": "虞书欣回复张彬彬有本事别回来",
+        "onboard_time": 1664368764,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156542,
+        "num": 156542,
+        "word": "大学生毕业后存钱有多重要",
+        "onboard_time": 1664366364,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153668,
+        "num": 153668,
+        "word": "网传实用主义者的爱情暂定赵丽颖龚俊",
+        "onboard_time": 1664380103,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148403,
+        "num": 148403,
+        "word": "印度低种姓学生答错题被老师打死",
+        "onboard_time": 1664358985,
+        "rank": 23,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 143455,
+        "num": 143455,
+        "word": "保研",
+        "onboard_time": 1664342903,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 138870,
+        "num": 138870,
+        "word": "昆仑神宫",
+        "onboard_time": 1664374284,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135583,
+        "num": 135583,
+        "word": "唐朝诡事录六集一个大案",
+        "onboard_time": 1664372005,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135215,
+        "num": 135215,
+        "word": "这就是走路粉的快乐吗",
+        "onboard_time": 1664359283,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129446,
+        "num": 129446,
+        "word": "长春餐厅燃气爆炸事故原因初步查明",
+        "onboard_time": 1664368526,
+        "rank": 28,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 113226,
+        "num": 113226,
+        "word": "站着生气的仓鼠",
+        "onboard_time": 1664379025,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124414,
+        "num": 112532,
+        "word": "赵露思田枣胡同工作日记vlog",
+        "onboard_time": 1664378306,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 111749,
+        "num": 111749,
+        "word": "四川一树洞现野生熊猫幼崽",
+        "onboard_time": 1664369245,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108366,
+        "num": 108366,
+        "word": "ITZY校庆舞台",
+        "onboard_time": 1664371345,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 104762,
+        "num": 104762,
+        "word": "广州长沙深圳成出行最热门城市",
+        "onboard_time": 1664365944,
+        "rank": 33,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 103587,
+        "num": 103587,
+        "word": "小猫文学也太好哭了",
+        "onboard_time": 1664364443,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94869,
+        "num": 94869,
+        "word": "iPhone14Pro紫色版被曝存在工艺缺陷",
+        "onboard_time": 1664355865,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 92199,
+        "num": 92199,
+        "word": "女孩见务工爸爸回家喜极而泣",
+        "onboard_time": 1664379143,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84692,
+        "num": 84692,
+        "word": "00后老师开始撕伞了",
+        "onboard_time": 1664344164,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84184,
+        "num": 84184,
+        "word": "老年人为什么总愿意相信陌生人",
+        "onboard_time": 1664370984,
+        "rank": 38,
+        "category": "社会议题,情感"
+      },
+      {
+        "raw_hot": 81395,
+        "num": 81395,
+        "word": "李聂主动邀请张根源约会",
+        "onboard_time": 1664372965,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77777,
+        "num": 77777,
+        "word": "终于有办法缓解偏头痛了",
+        "onboard_time": 1664361743,
+        "rank": 40,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 77658,
+        "num": 77658,
+        "word": "上课忘带书本的极限操作",
+        "onboard_time": 1664371583,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 72631,
+        "num": 72631,
+        "word": "北京奥运会奖牌用银全部来自河南",
+        "onboard_time": 1664373506,
+        "rank": 42,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 71208,
+        "num": 71208,
+        "word": "一汽大众致歉",
+        "onboard_time": 1664359524,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69144,
+        "num": 69144,
+        "word": "请君",
+        "onboard_time": 1664375187,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 64905,
+        "num": 64905,
+        "word": "AirPodsPro2篆刻内容会弹窗显示",
+        "onboard_time": 1664357844,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 60267,
+        "num": 60267,
+        "word": "排队晒太阳的猫猫",
+        "onboard_time": 1664366604,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 60074,
+        "num": 60074,
+        "word": "武林外传到昆仑神宫团建",
+        "onboard_time": 1664368463,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 58743,
+        "num": 58743,
+        "word": "刘宇宁直播",
+        "onboard_time": 1664369363,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55673,
+        "num": 55673,
+        "word": "女孩马路中间摆拍遭醉驾男子碰撞",
+        "onboard_time": 1664356044,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#打造一支强大的乡村振兴人才队伍#"
+    }
+  }
+}

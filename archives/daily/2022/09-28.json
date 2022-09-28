@@ -1,6 +1,6 @@
 {
   "startTime": 1664296789399,
-  "endTime": 1664379041313,
+  "endTime": 1664380284006,
   "band_list": [
     {
       "raw_hot": 4230079,
@@ -155,6 +155,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 977985,
+      "num": 977985,
+      "word": "徐志胜全网最后一个大帅哥",
+      "onboard_time": 1664378186,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 977550,
       "num": 413497,
       "word": "北电22级实验班合影",
@@ -219,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 758797,
+      "num": 758797,
+      "word": "原来读北大被发现也会害羞",
+      "onboard_time": 1664374524,
+      "rank": 19,
+      "category": "幽默,教育"
+    },
+    {
       "raw_hot": 744310,
       "num": 744310,
       "word": "新娘将婚礼手捧花送婆婆新郎泪崩",
@@ -251,28 +267,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 648302,
-      "num": 648302,
-      "word": "原来读北大被发现也会害羞",
-      "onboard_time": 1664374524,
-      "rank": 19,
-      "category": "幽默,教育"
-    },
-    {
       "raw_hot": 630842,
       "num": 630842,
       "word": "iPhone14Pro紫色版被曝存在工艺缺陷",
       "onboard_time": 1664355865,
       "rank": 13,
       "category": "科技"
-    },
-    {
-      "raw_hot": 612073,
-      "num": 612073,
-      "word": "徐志胜全网最后一个大帅哥",
-      "onboard_time": 1664378186,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 602836,
@@ -507,6 +507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 478093,
+      "num": 478093,
+      "word": "台湾问题同乌克兰问题有本质区别",
+      "onboard_time": 1664375187,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 454074,
       "num": 454074,
       "word": "美使馆建议在俄旅居美公民尽快离开",
@@ -547,12 +555,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 417051,
-      "num": 331343,
-      "word": "台湾问题同乌克兰问题有本质区别",
-      "onboard_time": 1664375187,
-      "rank": 30,
-      "category": "国内要闻"
+      "raw_hot": 421589,
+      "num": 421589,
+      "word": "东方甄选回应下架玉米",
+      "onboard_time": 1664377404,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 411463,
@@ -609,6 +617,14 @@
       "onboard_time": 1664294304,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 384715,
+      "num": 384715,
+      "word": "夫妻俩分别去超市但买的一样",
+      "onboard_time": 1664378066,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 382526,
@@ -705,14 +721,6 @@
       "onboard_time": 1664333665,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 292822,
-      "num": 292822,
-      "word": "东方甄选回应下架玉米",
-      "onboard_time": 1664377404,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 291898,
@@ -1043,6 +1051,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 214437,
+      "num": 214437,
+      "word": "司机一个横停为幼童挡住货车",
+      "onboard_time": 1664376448,
+      "rank": 41,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 212327,
       "num": 212327,
       "word": "电动车卷对方向了吗",
@@ -1113,14 +1129,6 @@
       "onboard_time": 1664363005,
       "rank": 18,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 200579,
-      "num": 200579,
-      "word": "司机一个横停为幼童挡住货车",
-      "onboard_time": 1664376448,
-      "rank": 41,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 197783,
@@ -1225,14 +1233,6 @@
       "onboard_time": 1664349264,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 178972,
-      "num": 178972,
-      "word": "夫妻俩分别去超市但买的一样",
-      "onboard_time": 1664378066,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 178361,
@@ -1417,6 +1417,14 @@
       "onboard_time": 1664338648,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153668,
+      "num": 153668,
+      "word": "网传实用主义者的爱情暂定赵丽颖龚俊",
+      "onboard_time": 1664380103,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 148954,
@@ -1699,6 +1707,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 113226,
+      "num": 113226,
+      "word": "站着生气的仓鼠",
+      "onboard_time": 1664379025,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 112923,
       "num": 112923,
       "word": "2022王者荣耀挑战者杯",
@@ -1825,6 +1841,14 @@
       "onboard_time": 1664365283,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92199,
+      "num": 92199,
+      "word": "女孩见务工爸爸回家喜极而泣",
+      "onboard_time": 1664379143,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 91840,
@@ -2088,14 +2112,6 @@
       "word": "减肥后的心情起伏有多大",
       "onboard_time": 1664285425,
       "rank": 47,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 53335,
-      "num": 59619,
-      "word": "站着生气的仓鼠",
-      "onboard_time": 1664379025,
-      "rank": 49,
       "category": "幽默"
     },
     {
