@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/28 16:55:20
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/28 17:30:12
 </p>
 </blockquote>
 <p>
@@ -3597,6 +3597,12 @@ B站二季度净亏损20亿（热度：1413487）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E8%8A%82%E7%9B%AE%E5%BD%95%E5%88%B6%E7%8E%B0%E5%9C%BA%E8%B4%A8%E9%97%AE%E5%AF%BC%E6%BC%94%E7%BB%84%23" target="weibo">
+李玟节目录制现场质问导演组（热度：1407058）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E9%87%8D%E5%BA%86%E7%8C%B4%E7%97%98%E7%96%AB%E6%83%85%E4%BC%A0%E6%92%AD%E9%A3%8E%E9%99%A9%E5%BE%88%E4%BD%8E%23" target="weibo">
 专家称重庆猴痘疫情传播风险很低（热度：1406622）
 </a>
@@ -6005,12 +6011,6 @@ IU演唱会上的草莓月亮（热度：1037515）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%A4%AA%20%E8%8B%8D%E5%85%B0%E8%AF%80%23" target="weibo">
 王太 苍兰诀（热度：1018070）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%A5%E8%BF%AA%E9%97%AF%E7%BA%A2%E7%81%AF%E8%BF%BD%E5%B0%BE%E5%8F%88%E6%92%9E%E9%A3%9E%E8%A1%8C%E4%BA%BA%E8%87%B42%E6%AD%BB2%E4%BC%A4%23" target="weibo">
-奥迪闯红灯追尾又撞飞行人致2死2伤（热度：1017812）
 </a>
 </li>
 

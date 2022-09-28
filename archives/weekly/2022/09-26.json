@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664355320752,
+  "endTime": 1664357412345,
   "band_list": [
     {
       "raw_hot": 4711055,
@@ -273,6 +273,14 @@
       "onboard_time": 1664181504,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1407058,
+      "num": 1407058,
+      "word": "李玟节目录制现场质问导演组",
+      "onboard_time": 1664354005,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 1383838,
@@ -899,14 +907,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 595044,
-      "num": 595044,
-      "word": "李玟节目录制现场质问导演组",
-      "onboard_time": 1664354005,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 589571,
       "num": 589571,
       "word": "王菲连续四年献唱国庆档电影",
@@ -1089,6 +1089,14 @@
       "onboard_time": 1664331745,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 531648,
+      "num": 531648,
+      "word": "男子收到与去世爷爷合照瞬间破防",
+      "onboard_time": 1664352382,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 529910,
@@ -1531,6 +1539,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 407632,
+      "num": 256028,
+      "word": "狂犬病一旦发病病死率几乎为100%",
+      "onboard_time": 1664356104,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 405122,
+      "num": 405122,
+      "word": "红烧肉用英语怎么说",
+      "onboard_time": 1664354186,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 404947,
       "num": 404947,
       "word": "上海户籍育龄妇女二孩率不足13%",
@@ -1827,14 +1851,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 342392,
-      "num": 301166,
-      "word": "男子收到与去世爷爷合照瞬间破防",
-      "onboard_time": 1664352382,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 339681,
       "num": 339681,
       "word": "男子鸡骨卡喉喝醋吞饭致食道穿孔",
@@ -2025,6 +2041,14 @@
       "onboard_time": 1664166689,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290152,
+      "num": 248018,
+      "word": "iPhone14Pro紫色版被曝存在工艺缺陷",
+      "onboard_time": 1664355865,
+      "rank": 13,
+      "category": "科技"
     },
     {
       "raw_hot": 287865,
@@ -2587,6 +2611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227739,
+      "num": 227739,
+      "word": "太原疫情防控",
+      "onboard_time": 1664354424,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225578,
       "num": 225578,
       "word": "湖北发现距今百万年人类头骨化石",
@@ -2779,6 +2811,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 211860,
+      "num": 211860,
+      "word": "云胡不喜概念海报",
+      "onboard_time": 1664356884,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 210759,
       "num": 181298,
       "word": "潘玮柏的减肥欺骗日一周有五天",
@@ -2793,14 +2833,6 @@
       "onboard_time": 1664178325,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 209626,
-      "num": 209626,
-      "word": "太原疫情防控",
-      "onboard_time": 1664354424,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208120,
@@ -3041,6 +3073,14 @@
       "onboard_time": 1664200647,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 187715,
+      "num": 187715,
+      "word": "女孩马路中间摆拍遭醉驾男子碰撞",
+      "onboard_time": 1664356044,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187565,
@@ -3529,14 +3569,6 @@
       "onboard_time": 1664222111,
       "rank": 38,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 153247,
-      "num": 153247,
-      "word": "红烧肉用英语怎么说",
-      "onboard_time": 1664354186,
-      "rank": 27,
-      "category": "美食"
     },
     {
       "raw_hot": 152854,
@@ -4363,12 +4395,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 94041,
+      "num": 94041,
+      "word": "万茜刺猬头侠客造型",
+      "onboard_time": 1664355804,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 93783,
       "num": 93783,
       "word": "美国攻击渗透西北工大流程",
       "onboard_time": 1664252668,
       "rank": 49,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 93584,
+      "num": 94466,
+      "word": "王者时之奇旅新皮肤",
+      "onboard_time": 1664357066,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 92053,
@@ -4483,12 +4531,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 86123,
+      "num": 86123,
+      "word": "张云龙Mike仁科反向记者会",
+      "onboard_time": 1664356585,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 85314,
+      "num": 85314,
+      "word": "年轻人国庆都玩什么运动",
+      "onboard_time": 1664356644,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85129,
       "num": 85129,
       "word": "浙岱渔11492船老大获二等功",
       "onboard_time": 1664151385,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84792,
+      "num": 84792,
+      "word": "这才是我最爱吃的水果",
+      "onboard_time": 1664357127,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 84574,
@@ -4545,6 +4617,14 @@
       "onboard_time": 1664265865,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 78735,
+      "num": 78735,
+      "word": "成都世乒赛团体赛男团分组出炉",
+      "onboard_time": 1664357185,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 78260,
@@ -4808,6 +4888,14 @@
       "word": "男子误花10元私房钱气到攥紧拳头",
       "onboard_time": 1664096126,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45838,
+      "num": 244821,
+      "word": "广州两男子扛水枪爬阳台帮邻居救火",
+      "onboard_time": 1664355627,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
