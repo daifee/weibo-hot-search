@@ -1,6 +1,6 @@
 {
   "startTime": 1664296789399,
-  "endTime": 1664340727431,
+  "endTime": 1664341696752,
   "band_list": [
     {
       "raw_hot": 3066346,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1613450,
-      "num": 1049217,
+      "num": 1329693,
       "word": "车银优韩素希李洙赫网漫海报",
       "onboard_time": 1664335404,
       "rank": 3,
@@ -203,6 +203,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 505336,
+      "num": 405089,
+      "word": "新娘将婚礼手捧花送婆婆新郎泪崩",
+      "onboard_time": 1664339127,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 498920,
       "num": 498920,
       "word": "王鹤棣脸上涂了油彩",
@@ -219,8 +227,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 434286,
-      "num": 434286,
+      "raw_hot": 479986,
+      "num": 479986,
       "word": "主持人领笑员",
       "onboard_time": 1664337265,
       "rank": 9,
@@ -249,6 +257,14 @@
       "onboard_time": 1664294304,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 382526,
+      "num": 382526,
+      "word": "马斯克2510亿美元身价成美国首富",
+      "onboard_time": 1664338586,
+      "rank": 12,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 377608,
@@ -283,20 +299,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 355712,
-      "num": 355712,
-      "word": "马斯克2510亿美元身价成美国首富",
-      "onboard_time": 1664338586,
-      "rank": 12,
-      "category": "财经,科技"
-    },
-    {
       "raw_hot": 331736,
       "num": 331736,
       "word": "外国婆婆奇葩劝架方式",
       "onboard_time": 1664337806,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 321395,
+      "num": 321395,
+      "word": "王菲连续四年献唱国庆档电影",
+      "onboard_time": 1664340327,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 299212,
@@ -313,14 +329,6 @@
       "onboard_time": 1664333665,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 289680,
-      "num": 289680,
-      "word": "新娘将婚礼手捧花送婆婆新郎泪崩",
-      "onboard_time": 1664339127,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 286774,
@@ -355,20 +363,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264996,
+      "num": 264996,
+      "word": "太原报告1例初筛阳性者",
+      "onboard_time": 1664341468,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262378,
+      "num": 262378,
+      "word": "初晨加入东莞Wz",
+      "onboard_time": 1664341107,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 262216,
+      "num": 262216,
+      "word": "谢楠好敢说",
+      "onboard_time": 1664338586,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 260523,
       "num": 260523,
       "word": "河南鹤壁一流浪狗咬伤约40人",
       "onboard_time": 1664292866,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 254491,
-      "num": 254491,
-      "word": "谢楠好敢说",
-      "onboard_time": 1664338586,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 252545,
@@ -419,20 +443,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245500,
+      "num": 245500,
+      "word": "虞书欣给张彬彬戴耳环",
+      "onboard_time": 1664336063,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 243994,
       "num": 243994,
       "word": "微信退群可选保留聊天记录",
       "onboard_time": 1664263643,
       "rank": 17,
       "category": "科技"
-    },
-    {
-      "raw_hot": 239006,
-      "num": 239006,
-      "word": "虞书欣给张彬彬戴耳环",
-      "onboard_time": 1664336063,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 232943,
@@ -465,6 +489,14 @@
       "onboard_time": 1664335464,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225340,
+      "num": 225340,
+      "word": "布林肯回应北溪天然气管道泄漏",
+      "onboard_time": 1664336905,
+      "rank": 35,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 224387,
@@ -547,6 +579,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 190861,
+      "num": 190861,
+      "word": "男子网恋被骗17万骗子称他太好骗",
+      "onboard_time": 1664337686,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184779,
       "num": 184779,
       "word": "苹果开放台前调度功能给老款iPad",
@@ -595,12 +635,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 169959,
-      "num": 169959,
-      "word": "布林肯回应北溪天然气管道泄漏",
-      "onboard_time": 1664336905,
-      "rank": 35,
-      "category": "国外要闻"
+      "raw_hot": 166918,
+      "num": 166918,
+      "word": "平台经理多想一下救回中毒夫妻",
+      "onboard_time": 1664340448,
+      "rank": 46,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 164491,
@@ -635,8 +675,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 151282,
-      "num": 151282,
+      "raw_hot": 154243,
+      "num": 154243,
       "word": "学生卖纸壳收废品爷爷问是否需资助",
       "onboard_time": 1664338648,
       "rank": 38,
@@ -664,14 +704,6 @@
       "word": "休杰克曼加盟死侍3",
       "onboard_time": 1664324306,
       "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 146801,
-      "num": 146801,
-      "word": "王菲连续四年献唱国庆档电影",
-      "onboard_time": 1664340327,
-      "rank": 39,
       "category": "影视"
     },
     {
@@ -747,27 +779,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 122577,
-      "num": 122577,
-      "word": "平台经理多想一下救回中毒夫妻",
-      "onboard_time": 1664340448,
-      "rank": 46,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 122376,
       "num": 122376,
       "word": "汶川男孩长成黄继光连新排长",
       "onboard_time": 1664333003,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117504,
-      "num": 117504,
-      "word": "男子网恋被骗17万骗子称他太好骗",
-      "onboard_time": 1664337686,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -787,6 +803,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 113447,
+      "num": 113447,
+      "word": "原神二周年专属挂件",
+      "onboard_time": 1664341526,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 113325,
       "num": 113325,
       "word": "用胡说八道来避免社交",
@@ -796,11 +820,19 @@
     },
     {
       "raw_hot": 110597,
-      "num": 1328865,
+      "num": 1330191,
       "word": "二十大代表是怎么选出来的",
       "onboard_time": 1664282366,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 106761,
+      "num": 106761,
+      "word": "消费者真的需要智能产品吗",
+      "onboard_time": 1664340807,
+      "rank": 49,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 106725,
@@ -865,6 +897,14 @@
       "onboard_time": 1664330004,
       "rank": 48,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 88082,
+      "num": 322051,
+      "word": "原神 3.1版本更新",
+      "onboard_time": 1664341226,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 86503,
