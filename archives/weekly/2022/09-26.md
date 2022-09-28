@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/26 00:32:19 ~ 2022/09/29 04:27:29
+本榜单时间：2022/09/26 00:32:19 ~ 2022/09/29 04:44:29
 </p>
 </blockquote>
 <p>
@@ -4299,6 +4299,12 @@ Cat时尚先生（热度：61255）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%A4%A9%E6%B4%A510%E6%9C%881%E6%97%A5%E8%B5%B7%E5%B0%81%E5%9F%8E3%E5%A4%A9%E7%B3%BB%E8%B0%A3%E8%A8%80%23" target="weibo">
+网传天津10月1日起封城3天系谣言（热度：17516）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%AF%E8%85%BF%E7%90%83%E7%8E%8B%E6%98%AF%E6%80%8E%E6%A0%B7%E7%82%BC%E6%88%90%E7%9A%84%23" target="weibo">
 弯腿球王是怎样炼成的（热度：16985）
 </a>
@@ -4317,6 +4323,12 @@ Cat时尚先生（热度：61255）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%B5%B7%E5%86%9B%E4%B9%B1%E6%8E%92%E6%B1%A1%E8%A2%AB%E7%BD%9A880%E4%B8%87%E7%BE%8E%E5%85%83%23" target="weibo">
+美国海军乱排污被罚880万美元（热度：16636）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E7%A9%BA%E8%A7%86%E8%A7%92%E7%9C%8B%E4%B8%B0%E6%94%B6%E6%9C%89%E5%A4%9A%E7%BE%8E%23" target="weibo">
 太空视角看丰收有多美（热度：16460）
 </a>
@@ -4325,12 +4337,6 @@ Cat时尚先生（热度：61255）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%83%BD%E6%BA%90%E7%9A%84%E4%B8%8B%E5%8D%8A%E5%9C%BA%E6%9D%A5%E4%BA%86%23" target="weibo">
 新能源的下半场来了（热度：16032）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%B5%B7%E5%86%9B%E4%B9%B1%E6%8E%92%E6%B1%A1%E8%A2%AB%E7%BD%9A880%E4%B8%87%E7%BE%8E%E5%85%83%23" target="weibo">
-美国海军乱排污被罚880万美元（热度：15672）
 </a>
 </li>
 
@@ -4367,12 +4373,6 @@ Cat时尚先生（热度：61255）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%9D%E6%8C%81%E6%84%9F%E7%9F%A5%E5%8A%9B%E6%9C%89%E5%A4%9A%E9%87%8D%E8%A6%81%23" target="weibo">
 保持感知力有多重要（热度：12817）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%A4%A9%E6%B4%A510%E6%9C%881%E6%97%A5%E8%B5%B7%E5%B0%81%E5%9F%8E3%E5%A4%A9%E7%B3%BB%E8%B0%A3%E8%A8%80%23" target="weibo">
-网传天津10月1日起封城3天系谣言（热度：11469）
 </a>
 </li>
 
@@ -4419,6 +4419,12 @@ VR到底能干什么（热度：10742）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%905%E5%B0%8F%E6%97%B6%E7%94%A899%E4%B8%AA%E5%A1%91%E6%96%99%E8%A2%8B%E5%81%9A%E5%87%BA%E5%A9%9A%E7%BA%B1%23" target="weibo">
+女子5小时用99个塑料袋做出婚纱（热度：8353）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%BD%8F%E5%AE%BE%E9%A6%86%E5%B0%86%E5%8F%8D%E8%AF%88%E7%94%B5%E8%AF%9D%E5%BD%93%E6%8C%89%E6%91%A9%E5%B9%BF%E5%91%8A%23" target="weibo">
 男子住宾馆将反诈电话当按摩广告（热度：8179）
 </a>
@@ -4427,6 +4433,12 @@ VR到底能干什么（热度：10742）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B9%B4%E5%A4%A7%E5%AD%A6%E4%B9%A0%23" target="weibo">
 青年大学习（热度：8002）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8E%A5%E6%A2%97%E8%BF%98%E5%BE%97%E6%98%AF%E7%9C%8B%E5%A4%A7%E5%BC%A0%E4%BC%9F%23" target="weibo">
+接梗还得是看大张伟（热度：7806）
 </a>
 </li>
 
@@ -4451,6 +4463,18 @@ VR到底能干什么（热度：10742）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%A7%E8%BD%A6%E6%8B%89%E4%B8%80%E8%BD%A6%E6%96%97%E7%9A%84%E5%A5%A5%E7%89%B9%E6%9B%BC%E8%A2%AB%E4%BA%A4%E8%AD%A6%E6%8B%A6%E4%B8%8B%23" target="weibo">
 货车拉一车斗的奥特曼被交警拦下（热度：7201）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E6%99%95%E8%A1%80%E8%A2%AB%E8%88%8D%E5%8F%8B%E7%94%A8%E8%A1%A3%E6%9C%8D%E5%8C%85%E5%A4%B4%E6%8A%BD%E8%A1%80%23" target="weibo">
+男生晕血被舍友用衣服包头抽血（热度：7020）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E6%83%85%E7%BB%AA%E5%BD%B1%E5%93%8D%E7%99%8C%E7%97%87%E7%9A%84%E8%BF%99%E4%BD%8D%E9%99%A2%E5%A3%AB%E8%B5%B0%E4%BA%86%23" target="weibo">
+研究情绪影响癌症的这位院士走了（热度：7003）
 </a>
 </li>
 
@@ -4497,6 +4521,12 @@ VR到底能干什么（热度：10742）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%A7%B0%E4%B8%8D%E6%8E%92%E9%99%A4%E5%8C%97%E6%BA%AA%E7%AE%A1%E9%81%93%E9%81%AD%E8%93%84%E6%84%8F%E7%A0%B4%E5%9D%8F%23" target="weibo">
+俄称不排除北溪管道遭蓄意破坏（热度：6239）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E4%B8%96%E4%B9%92%E8%B5%9B%E5%9B%A2%E4%BD%93%E8%B5%9B%E5%AE%A3%E4%BC%A0%E7%89%87%E5%8F%91%E5%B8%83%23" target="weibo">
 成都世乒赛团体赛宣传片发布（热度：6196）
 </a>
@@ -4505,12 +4535,6 @@ VR到底能干什么（热度：10742）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%90%86%E6%96%B0%E5%86%A0%E6%A3%80%E6%B5%8B%E9%98%B3%E6%80%A7%23" target="weibo">
 德国总理新冠检测阳性（热度：6171）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%905%E5%B0%8F%E6%97%B6%E7%94%A899%E4%B8%AA%E5%A1%91%E6%96%99%E8%A2%8B%E5%81%9A%E5%87%BA%E5%A9%9A%E7%BA%B1%23" target="weibo">
-女子5小时用99个塑料袋做出婚纱（热度：6166）
 </a>
 </li>
 
@@ -4565,6 +4589,12 @@ ROY岚陵萧萧声领结婚证（热度：5908）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%80%E9%AB%98%E6%A3%80%E5%AF%B9%E6%9D%8E%E6%9D%B0%E7%BF%94%E5%86%B3%E5%AE%9A%E9%80%AE%E6%8D%95%23" target="weibo">
 最高检对李杰翔决定逮捕（热度：5822）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E5%8A%A1%E5%8D%BF%E5%91%BC%E5%90%81%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%90%91%E4%B8%AD%E5%9B%BD%E7%94%B3%E8%AF%B7%E5%80%BA%E5%8A%A1%E5%85%8D%E9%99%A4%23" target="weibo">
+外交部回应美国务卿呼吁巴基斯坦向中国申请债务免除（热度：5784）
 </a>
 </li>
 

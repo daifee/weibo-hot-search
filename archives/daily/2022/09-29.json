@@ -1,6 +1,6 @@
 {
   "startTime": 1664383235790,
-  "endTime": 1664396849759,
+  "endTime": 1664397869358,
   "band_list": [
     {
       "raw_hot": 1124423,
@@ -459,6 +459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 17516,
+      "num": 17516,
+      "word": "网传天津10月1日起封城3天系谣言",
+      "onboard_time": 1664394549,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16823,
       "num": 16823,
       "word": "原来音乐会这么有趣",
@@ -467,8 +475,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 15672,
-      "num": 14760,
+      "raw_hot": 16636,
+      "num": 15714,
       "word": "美国海军乱排污被罚880万美元",
       "onboard_time": 1664394549,
       "rank": 20,
@@ -481,14 +489,6 @@
       "onboard_time": 1664391492,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 11469,
-      "num": 11469,
-      "word": "网传天津10月1日起封城3天系谣言",
-      "onboard_time": 1664394549,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 10924,
@@ -515,11 +515,43 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 8353,
+      "num": 8353,
+      "word": "女子5小时用99个塑料袋做出婚纱",
+      "onboard_time": 1664396771,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7806,
+      "num": 7806,
+      "word": "接梗还得是看大张伟",
+      "onboard_time": 1664396890,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 7201,
       "num": 7201,
       "word": "货车拉一车斗的奥特曼被交警拦下",
       "onboard_time": 1664396231,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7020,
+      "num": 7020,
+      "word": "男生晕血被舍友用衣服包头抽血",
+      "onboard_time": 1664397371,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7003,
+      "num": 7003,
+      "word": "研究情绪影响癌症的这位院士走了",
+      "onboard_time": 1664397131,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -531,12 +563,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 6166,
-      "num": 6166,
-      "word": "女子5小时用99个塑料袋做出婚纱",
-      "onboard_time": 1664396771,
+      "raw_hot": 6239,
+      "num": 6239,
+      "word": "俄称不排除北溪管道遭蓄意破坏",
+      "onboard_time": 1664397490,
       "rank": 48,
-      "category": "社会新闻"
+      "category": "国外要闻"
     },
     {
       "raw_hot": 6065,
@@ -545,6 +577,14 @@
       "onboard_time": 1664395812,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5784,
+      "num": 5784,
+      "word": "外交部回应美国务卿呼吁巴基斯坦向中国申请债务免除",
+      "onboard_time": 1664397850,
+      "rank": 49,
+      "category": "国内要闻"
     }
   ],
   "hotgov_list": [
