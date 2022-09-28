@@ -1,0 +1,410 @@
+{
+  "runTime": 1664371448144,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1013444,
+        "num": 1013444,
+        "word": "4万买下周大福25万金饰被起诉",
+        "onboard_time": 1664359644,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 670022,
+        "num": 670022,
+        "word": "男子月薪九千不会用word被辞退",
+        "onboard_time": 1664351545,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98289,
+        "num": 557989,
+        "word": "画在墙上的火车开进了现实",
+        "onboard_time": 1664365885,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1931700,
+        "num": 555751,
+        "word": "女子为玩羊了个羊看广告被骗9万元",
+        "onboard_time": 1664364142,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544633,
+        "num": 544633,
+        "word": "印度低种姓学生答错题被老师打死",
+        "onboard_time": 1664358985,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 511674,
+        "num": 511674,
+        "word": "大学生毕业后存钱有多重要",
+        "onboard_time": 1664366364,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 511310,
+        "num": 511310,
+        "word": "长春餐厅燃气爆炸事故原因初步查明",
+        "onboard_time": 1664368526,
+        "rank": 6,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 484472,
+        "num": 484472,
+        "word": "李玟回应节目录制现场质问导演",
+        "onboard_time": 1664369426,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 380615,
+        "num": 380615,
+        "word": "狂犬病一旦发病病死率几乎为100%",
+        "onboard_time": 1664356104,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344424,
+        "num": 344424,
+        "word": "潘粤明回应胡八一瘦了",
+        "onboard_time": 1664365164,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 478170,
+        "num": 339307,
+        "word": "虞书欣回复张彬彬有本事别回来",
+        "onboard_time": 1664368764,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 321713,
+        "num": 321713,
+        "word": "00后老师开始撕伞了",
+        "onboard_time": 1664344164,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 303618,
+        "num": 303618,
+        "word": "广州长沙深圳成出行最热门城市",
+        "onboard_time": 1664365944,
+        "rank": 12,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 274767,
+        "num": 274767,
+        "word": "中国女排战日本首发出炉",
+        "onboard_time": 1664368463,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26693,
+        "num": 232617,
+        "word": "民警用水下探测仪帮阿婆找回金手镯",
+        "onboard_time": 1664370071,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232241,
+        "num": 232241,
+        "word": "保研",
+        "onboard_time": 1664342903,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 227037,
+        "num": 227037,
+        "word": "ITZY校庆舞台",
+        "onboard_time": 1664371345,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 214274,
+        "num": 214274,
+        "word": "iPhone14Pro紫色版被曝存在工艺缺陷",
+        "onboard_time": 1664355865,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 210792,
+        "num": 210792,
+        "word": "张云龙看到满屏甜妹战术性后退",
+        "onboard_time": 1664363544,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 199131,
+        "num": 199131,
+        "word": "小猫文学也太好哭了",
+        "onboard_time": 1664364443,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198316,
+        "num": 198316,
+        "word": "这就是走路粉的快乐吗",
+        "onboard_time": 1664359283,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198067,
+        "num": 198067,
+        "word": "四川一树洞现野生熊猫幼崽",
+        "onboard_time": 1664369245,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182608,
+        "num": 182608,
+        "word": "天津禁止学校聘用有性骚扰犯罪记录人员",
+        "onboard_time": 1664370984,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 172177,
+        "num": 172177,
+        "word": "一汽大众致歉",
+        "onboard_time": 1664359524,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170845,
+        "num": 170845,
+        "word": "刘宇宁直播",
+        "onboard_time": 1664369363,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169302,
+        "num": 169302,
+        "word": "不要赌人民币汇率单边升值或贬值",
+        "onboard_time": 1664360485,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 148325,
+        "num": 148325,
+        "word": "官方辟谣临夏大巴事故致4人死亡",
+        "onboard_time": 1664364743,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133375,
+        "num": 133375,
+        "word": "王者花泽香菜合作",
+        "onboard_time": 1664363005,
+        "rank": 27,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 126305,
+        "num": 126305,
+        "word": "AirPodsPro2篆刻内容会弹窗显示",
+        "onboard_time": 1664357844,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 125239,
+        "num": 125239,
+        "word": "排队晒太阳的猫猫",
+        "onboard_time": 1664366604,
+        "rank": 29,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 119774,
+        "num": 119774,
+        "word": "终于有办法缓解偏头痛了",
+        "onboard_time": 1664361743,
+        "rank": 30,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 119377,
+        "num": 119377,
+        "word": "小老鼠也是来赶海的呀",
+        "onboard_time": 1664365344,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118982,
+        "num": 118982,
+        "word": "武林外传到昆仑神宫团建",
+        "onboard_time": 1664368463,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115686,
+        "num": 115686,
+        "word": "杨丞琳说蔡徐坤本人比荧幕上帅",
+        "onboard_time": 1664351545,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113857,
+        "num": 113857,
+        "word": "女孩马路中间摆拍遭醉驾男子碰撞",
+        "onboard_time": 1664356044,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105526,
+        "num": 105526,
+        "word": "老年人为什么总愿意相信陌生人",
+        "onboard_time": 1664370984,
+        "rank": 35,
+        "category": "社会议题,情感"
+      },
+      {
+        "raw_hot": 100905,
+        "num": 100905,
+        "word": "学生1句话让老师找到失散35年亲人",
+        "onboard_time": 1664370624,
+        "rank": 36,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 99930,
+        "num": 99930,
+        "word": "玩游戏千万不要吐槽女朋友",
+        "onboard_time": 1664362585,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95324,
+        "num": 95324,
+        "word": "你安全吗豆瓣开分7.3",
+        "onboard_time": 1664367084,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 93714,
+        "num": 93714,
+        "word": "苹果否认车祸检测是人工客服",
+        "onboard_time": 1664358985,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 91805,
+        "num": 91805,
+        "word": "张艺兴新歌面纱练习室版",
+        "onboard_time": 1664368404,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 90484,
+        "num": 90484,
+        "word": "2022王者荣耀挑战者杯",
+        "onboard_time": 1664367923,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 88487,
+        "num": 88487,
+        "word": "青年演员的大银幕角色",
+        "onboard_time": 1664368164,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 87293,
+        "num": 87293,
+        "word": "中国女排1比0日本女排",
+        "onboard_time": 1664370744,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85805,
+        "num": 85805,
+        "word": "这才是我最爱吃的水果",
+        "onboard_time": 1664357127,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 85671,
+        "num": 85671,
+        "word": "太原疫情防控",
+        "onboard_time": 1664354424,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85388,
+        "num": 85388,
+        "word": "男子收到与去世爷爷合照瞬间破防",
+        "onboard_time": 1664352382,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68058,
+        "num": 68058,
+        "word": "云胡不喜概念海报",
+        "onboard_time": 1664356884,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 67744,
+        "num": 67744,
+        "word": "王者时之奇旅新皮肤",
+        "onboard_time": 1664357066,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 64526,
+        "num": 64526,
+        "word": "红烧肉用英语怎么说",
+        "onboard_time": 1664354186,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#三代人40余年逼退风沙线30公里#"
+    }
+  }
+}
