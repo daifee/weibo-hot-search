@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664387901621,
+  "endTime": 1664390146919,
   "band_list": [
     {
       "raw_hot": 4711055,
@@ -5459,6 +5459,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 61302,
+      "num": 57161,
+      "word": "上世纪的跨国恋能有多遗憾",
+      "onboard_time": 1664385196,
+      "rank": 24,
+      "category": "作品衍生,情感"
+    },
+    {
       "raw_hot": 61255,
       "num": 61255,
       "word": "Cat时尚先生",
@@ -5473,14 +5481,6 @@
       "onboard_time": 1664287284,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 57161,
-      "num": 57161,
-      "word": "上世纪的跨国恋能有多遗憾",
-      "onboard_time": 1664385196,
-      "rank": 24,
-      "category": "作品衍生,情感"
     },
     {
       "raw_hot": 55766,
@@ -5571,8 +5571,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 36019,
-      "num": 36019,
+      "raw_hot": 39829,
+      "num": 39829,
       "word": "让细节决定爱与不爱",
       "onboard_time": 1664386094,
       "rank": 35,
@@ -5585,6 +5585,14 @@
       "onboard_time": 1664276425,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33460,
+      "num": 33460,
+      "word": "江苏一中学起薪40万招聘教师",
+      "onboard_time": 1664388674,
+      "rank": 20,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 33195,
@@ -5707,6 +5715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 16823,
+      "num": 16823,
+      "word": "原来音乐会这么有趣",
+      "onboard_time": 1664388312,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 16691,
       "num": 13899,
       "word": "上班路上的绊脚石",
@@ -5793,6 +5809,14 @@
       "onboard_time": 1664283624,
       "rank": 14,
       "category": "科技"
+    },
+    {
+      "raw_hot": 10539,
+      "num": 10539,
+      "word": "昆明赋黄码70442人",
+      "onboard_time": 1664389992,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9949,
