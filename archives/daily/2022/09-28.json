@@ -1,6 +1,6 @@
 {
   "startTime": 1664296789399,
-  "endTime": 1664351630161,
+  "endTime": 1664354068912,
   "band_list": [
     {
       "raw_hot": 4230079,
@@ -25,6 +25,14 @@
       "onboard_time": 1664344164,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2145952,
+      "num": 2145952,
+      "word": "男子月薪九千不会用word被辞退",
+      "onboard_time": 1664351545,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1753881,
@@ -57,6 +65,14 @@
       "onboard_time": 1664330604,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1424888,
+      "num": 1424888,
+      "word": "长春一餐厅起火致17人死亡",
+      "onboard_time": 1664352985,
+      "rank": 3,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1383838,
@@ -161,6 +177,14 @@
       "onboard_time": 1664308813,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 598708,
+      "num": 355752,
+      "word": "杨丞琳说蔡徐坤本人比荧幕上帅",
+      "onboard_time": 1664351545,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 589571,
@@ -291,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 465653,
+      "num": 465653,
+      "word": "男孩火锅店狂奔被汤淋一身",
+      "onboard_time": 1664349382,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 444695,
       "num": 444695,
       "word": "徐明浩跳了张艺兴面纱脚步舞",
@@ -305,14 +337,6 @@
       "onboard_time": 1664341468,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 418410,
-      "num": 355752,
-      "word": "杨丞琳说蔡徐坤本人比荧幕上帅",
-      "onboard_time": 1664351545,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 411213,
@@ -403,12 +427,12 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 337936,
-      "num": 337936,
-      "word": "男孩火锅店狂奔被汤淋一身",
-      "onboard_time": 1664349382,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 338863,
+      "num": 338863,
+      "word": "真情侣在大荧幕上有多好嗑",
+      "onboard_time": 1664349984,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 331736,
@@ -547,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247424,
+      "num": 181322,
+      "word": "李玟节目录制现场质问导演组",
+      "onboard_time": 1664354005,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 245500,
       "num": 245500,
       "word": "虞书欣给张彬彬戴耳环",
@@ -643,12 +675,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 215785,
+      "num": 215785,
+      "word": "白百何骄阳伴我路透",
+      "onboard_time": 1664353104,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 212327,
       "num": 212327,
       "word": "电动车卷对方向了吗",
       "onboard_time": 1664330604,
       "rank": 41,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 210759,
+      "num": 181298,
+      "word": "潘玮柏的减肥欺骗日一周有五天",
+      "onboard_time": 1664348244,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 208120,
@@ -723,6 +771,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 181477,
+      "num": 181477,
+      "word": "男子收到与去世爷爷合照瞬间破防",
+      "onboard_time": 1664352382,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177786,
       "num": 177786,
       "word": "8个动作瘦腹部",
@@ -795,20 +851,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160748,
+      "num": 160748,
+      "word": "奔驰车机推送卖车广告",
+      "onboard_time": 1664351484,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160389,
+      "num": 160389,
+      "word": "国家队把青鸾演活了",
+      "onboard_time": 1664349264,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 158247,
       "num": 158247,
       "word": "警方回应男子酒吧骚扰邻桌女生",
       "onboard_time": 1664306172,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157562,
-      "num": 157562,
-      "word": "真情侣在大荧幕上有多好嗑",
-      "onboard_time": 1664349984,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 157157,
@@ -867,22 +931,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 145931,
-      "num": 145931,
-      "word": "潘玮柏的减肥欺骗日一周有五天",
-      "onboard_time": 1664348244,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 144177,
-      "num": 144177,
-      "word": "国家队把青鸾演活了",
-      "onboard_time": 1664349264,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 143330,
       "num": 143330,
       "word": "个人养老金税优政策明确",
@@ -905,6 +953,14 @@
       "onboard_time": 1664334444,
       "rank": 33,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 136670,
+      "num": 128292,
+      "word": "沉香重华",
+      "onboard_time": 1664351002,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 133383,
@@ -1019,8 +1075,16 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 112962,
+      "num": 112962,
+      "word": "把雄安地铁开进北京",
+      "onboard_time": 1664352805,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110597,
-      "num": 1444623,
+      "num": 1489823,
       "word": "二十大代表是怎么选出来的",
       "onboard_time": 1664282366,
       "rank": 2,
@@ -1139,22 +1203,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 83112,
-      "num": 83112,
-      "word": "沉香重华",
-      "onboard_time": 1664351002,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 78540,
-      "num": 78540,
-      "word": "男子月薪九千不会用word被辞退",
-      "onboard_time": 1664351545,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 77632,
       "num": 77632,
       "word": "养了十几年的狗狗去世前默默离家",
@@ -1201,14 +1249,6 @@
       "onboard_time": 1664273783,
       "rank": 36,
       "category": "社会新闻,军事"
-    },
-    {
-      "raw_hot": 71195,
-      "num": 71195,
-      "word": "奔驰车机推送卖车广告",
-      "onboard_time": 1664351484,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 69380,
@@ -1273,6 +1313,14 @@
       "onboard_time": 1664275704,
       "rank": 40,
       "category": "科技"
+    },
+    {
+      "raw_hot": 61255,
+      "num": 61255,
+      "word": "Cat时尚先生",
+      "onboard_time": 1664353944,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 57602,
@@ -1467,6 +1515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2108,
+      "num": 275515,
+      "word": "如何拍出自然感露营大片",
+      "onboard_time": 1664352026,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 699,
       "num": 318709,
       "word": "试试看 我的新VR",
@@ -1487,6 +1543,9 @@
     },
     {
       "word": "#坐标中国#"
+    },
+    {
+      "word": "#打造一支强大的乡村振兴人才队伍#"
     }
   ]
 }
