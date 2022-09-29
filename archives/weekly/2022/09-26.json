@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664427126626,
+  "endTime": 1664428058491,
   "band_list": [
     {
       "raw_hot": 4711055,
@@ -19,20 +19,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 3706669,
+      "num": 3913338,
+      "word": "我国科学家证实人类是从鱼进化来的",
+      "onboard_time": 1664418204,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3450409,
       "num": 876688,
       "word": "鞠婧祎捐款50万用于给女性提供HPV疫苗",
       "onboard_time": 1664286867,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3373205,
-      "num": 3373205,
-      "word": "我国科学家证实人类是从鱼进化来的",
-      "onboard_time": 1664418204,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 3066346,
@@ -435,6 +435,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1211399,
+      "num": 410908,
+      "word": "10月1日下架所有水果味电子烟",
+      "onboard_time": 1664424564,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1192227,
       "num": 531808,
       "word": "两女子身穿日本和服就餐",
@@ -739,14 +747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 794365,
-      "num": 410908,
-      "word": "10月1日下架所有水果味电子烟",
-      "onboard_time": 1664424564,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 780923,
       "num": 780923,
       "word": "妇科炎症会引起宫颈癌吗",
@@ -1017,6 +1017,14 @@
       "onboard_time": 1664273003,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 617659,
+      "num": 617659,
+      "word": "男子ATM存钱忘点确认1万元被偷",
+      "onboard_time": 1664423603,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 615737,
@@ -1320,14 +1328,6 @@
       "word": "二胎妈妈秒懂大宝眼神邀3人同玩",
       "onboard_time": 1664419702,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 529786,
-      "num": 529786,
-      "word": "男子ATM存钱忘点确认1万元被偷",
-      "onboard_time": 1664423603,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -3491,6 +3491,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 206840,
+      "num": 206840,
+      "word": "外国博主在中国旅游有多卷",
+      "onboard_time": 1664424564,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206400,
       "num": 206400,
       "word": "男子连续熬夜加班后眼皮无法抬起",
@@ -3609,6 +3617,14 @@
       "onboard_time": 1664226550,
       "rank": 32,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 198020,
+      "num": 198020,
+      "word": "韩东君阚清子新剧cp感",
+      "onboard_time": 1664426063,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 197783,
@@ -3787,14 +3803,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 185339,
-      "num": 185339,
-      "word": "外国博主在中国旅游有多卷",
-      "onboard_time": 1664424564,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184779,
       "num": 184779,
       "word": "苹果开放台前调度功能给老款iPad",
@@ -3923,14 +3931,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 177682,
-      "num": 177682,
-      "word": "韩东君阚清子新剧cp感",
-      "onboard_time": 1664426063,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 177424,
       "num": 177424,
       "word": "北京年轻人国潮消费全国第一",
@@ -4017,6 +4017,14 @@
       "onboard_time": 1664352805,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173903,
+      "num": 173903,
+      "word": "县委大院宣传片",
+      "onboard_time": 1664426668,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 173299,
@@ -4667,6 +4675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 137830,
+      "num": 137830,
+      "word": "思文说杨笠非常好我也不错",
+      "onboard_time": 1664422403,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137804,
       "num": 137804,
       "word": "这位妈妈的脾气也太好了吧",
@@ -4841,14 +4857,6 @@
       "onboard_time": 1664212755,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127739,
-      "num": 127739,
-      "word": "思文说杨笠非常好我也不错",
-      "onboard_time": 1664422403,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 127669,
@@ -5075,14 +5083,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 118960,
-      "num": 118960,
-      "word": "县委大院宣传片",
-      "onboard_time": 1664426668,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 118721,
       "num": 118721,
       "word": "王俊凯说新时代的力量是必不可少",
@@ -5235,6 +5235,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 111277,
+      "num": 111277,
+      "word": "iPhone14系列总订单并没有调整",
+      "onboard_time": 1664427745,
+      "rank": 41,
+      "category": "科技"
+    },
+    {
       "raw_hot": 110796,
       "num": 1489823,
       "word": "二十大代表是怎么选出来的",
@@ -5305,6 +5313,14 @@
       "onboard_time": 1664123661,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 106198,
+      "num": 106198,
+      "word": "缉毒英雄生命最后时刻将佩枪交给战友",
+      "onboard_time": 1664427327,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105762,
@@ -5729,6 +5745,14 @@
       "onboard_time": 1664385196,
       "rank": 24,
       "category": "作品衍生,情感"
+    },
+    {
+      "raw_hot": 82156,
+      "num": 82156,
+      "word": "蔡文静刘欢新剧cp感",
+      "onboard_time": 1664428047,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 81709,
@@ -6385,6 +6409,14 @@
       "onboard_time": 1664131212,
       "rank": 49,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 9077,
+      "num": 295439,
+      "word": "乘客突发疾病司乘合力送医",
+      "onboard_time": 1664427686,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 8793,

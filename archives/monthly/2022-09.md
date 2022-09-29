@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/29 12:52:06
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/29 13:07:38
 </p>
 </blockquote>
 <p>
@@ -357,6 +357,12 @@ iPhone14（热度：4450676）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E8%AF%81%E5%AE%9E%E4%BA%BA%E7%B1%BB%E6%98%AF%E4%BB%8E%E9%B1%BC%E8%BF%9B%E5%8C%96%E6%9D%A5%E7%9A%84%23" target="weibo">
+我国科学家证实人类是从鱼进化来的（热度：3706669）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%9C%B0%E9%9C%87%23" target="weibo">
 台湾地震（热度：3691268）
 </a>
@@ -479,12 +485,6 @@ iPhone14（热度：4450676）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A1%BA%E4%B8%B0%E5%AF%84%E4%B8%A220%E5%85%8B%E9%BB%84%E9%87%91%E4%BF%9D%E4%BB%B7%E5%85%AB%E5%8D%83%E5%8F%AA%E8%B5%94%E4%B8%A4%E5%8D%83%23" target="weibo">
 顺丰寄丢20克黄金保价八千只赔两千（热度：3374889）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E8%AF%81%E5%AE%9E%E4%BA%BA%E7%B1%BB%E6%98%AF%E4%BB%8E%E9%B1%BC%E8%BF%9B%E5%8C%96%E6%9D%A5%E7%9A%84%23" target="weibo">
-我国科学家证实人类是从鱼进化来的（热度：3373205）
 </a>
 </li>
 
@@ -4677,6 +4677,12 @@ Twins不承认吴谨言的粤语是自己教的（热度：1255504）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2310%E6%9C%881%E6%97%A5%E4%B8%8B%E6%9E%B6%E6%89%80%E6%9C%89%E6%B0%B4%E6%9E%9C%E5%91%B3%E7%94%B5%E5%AD%90%E7%83%9F%23" target="weibo">
+10月1日下架所有水果味电子烟（热度：1211399）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E4%BF%A1%E5%81%8F%E6%96%B9%E8%AE%A98%E5%B2%81%E5%A5%B3%E5%84%BF%E6%8A%BD%E6%97%B1%E7%83%9F%E6%B2%BB%E8%84%B8%E9%BB%84%23" target="weibo">
 父亲信偏方让8岁女儿抽旱烟治脸黄（热度：1208599）
 </a>
@@ -6005,12 +6011,6 @@ IU演唱会上的草莓月亮（热度：1037515）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E7%96%91%E5%9B%A0%E5%90%B5%E6%9E%B6%E6%8A%8A%E7%8B%97%E6%8E%A8%E4%B8%8B4%E6%A5%BC%23" target="weibo">
 夫妻疑因吵架把狗推下4楼（热度：1025639）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B3%B8%E5%AE%9A%E5%9C%B0%E9%9C%87%E9%9C%87%E4%B8%AD%E5%9C%A8%E6%B5%B7%E8%9E%BA%E6%B2%9F%23" target="weibo">
-泸定地震震中在海螺沟（热度：1025161）
 </a>
 </li>
 

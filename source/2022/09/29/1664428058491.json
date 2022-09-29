@@ -1,0 +1,410 @@
+{
+  "runTime": 1664428058491,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3706669,
+        "num": 3913338,
+        "word": "我国科学家证实人类是从鱼进化来的",
+        "onboard_time": 1664418204,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1127602,
+        "num": 1127602,
+        "word": "真的不建议饭后立刻洗澡",
+        "onboard_time": 1664409323,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20122,
+        "num": 1006648,
+        "word": "画在墙上的火车开进了现实",
+        "onboard_time": 1664365885,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1000124,
+        "num": 1000124,
+        "word": "大宋少年志2官宣主演阵容",
+        "onboard_time": 1664417423,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 847206,
+        "num": 847206,
+        "word": "老师发现6年级孩子看言情成风气",
+        "onboard_time": 1664411066,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 617659,
+        "num": 617659,
+        "word": "男子ATM存钱忘点确认1万元被偷",
+        "onboard_time": 1664423603,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502304,
+        "num": 502304,
+        "word": "就喜欢上班找人聊天",
+        "onboard_time": 1664421386,
+        "rank": 6,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 489315,
+        "num": 489315,
+        "word": "二胎妈妈秒懂大宝眼神邀3人同玩",
+        "onboard_time": 1664419702,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431129,
+        "num": 431129,
+        "word": "河南一地要求随礼不超50元",
+        "onboard_time": 1664421205,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385246,
+        "num": 385246,
+        "word": "大宋2韦衙内换人",
+        "onboard_time": 1664423964,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1211399,
+        "num": 366118,
+        "word": "10月1日下架所有水果味电子烟",
+        "onboard_time": 1664424564,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345118,
+        "num": 345118,
+        "word": "张杰甩披风好飒",
+        "onboard_time": 1664425405,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 329499,
+        "num": 329499,
+        "word": "俄喊话拜登回答北溪管道事故",
+        "onboard_time": 1664416405,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 302237,
+        "num": 302237,
+        "word": "5岁孩子开车上路妈妈还说开得好",
+        "onboard_time": 1664419285,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9077,
+        "num": 295439,
+        "word": "乘客突发疾病司乘合力送医",
+        "onboard_time": 1664427686,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290753,
+        "num": 290753,
+        "word": "河南的哥跪谢报废出租车",
+        "onboard_time": 1664422645,
+        "rank": 15,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 290355,
+        "num": 290355,
+        "word": "张新成周雨彤新剧二搭",
+        "onboard_time": 1664421564,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 284094,
+        "num": 284094,
+        "word": "古滇国考古重大突破",
+        "onboard_time": 1664418262,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265399,
+        "num": 265399,
+        "word": "苹果将在iOS16.1开放灵动岛给第三方",
+        "onboard_time": 1664417304,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 249814,
+        "num": 249814,
+        "word": "妲己漫画少女新皮肤",
+        "onboard_time": 1664417064,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 241924,
+        "num": 241924,
+        "word": "合肥通报2例阳性人员情况",
+        "onboard_time": 1664420304,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208460,
+        "num": 208460,
+        "word": "任嘉伦李沁请君又断更了",
+        "onboard_time": 1664424325,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206840,
+        "num": 206840,
+        "word": "外国博主在中国旅游有多卷",
+        "onboard_time": 1664424564,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198212,
+        "num": 198212,
+        "word": "婆家40多人盛装带礼送儿媳回娘家",
+        "onboard_time": 1664414002,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198020,
+        "num": 198020,
+        "word": "韩东君阚清子新剧cp感",
+        "onboard_time": 1664426063,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180280,
+        "num": 180280,
+        "word": "女子为玩羊了个羊看广告被骗9万元",
+        "onboard_time": 1664364142,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173903,
+        "num": 173903,
+        "word": "县委大院宣传片",
+        "onboard_time": 1664426668,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172735,
+        "num": 172735,
+        "word": "AirPodsPro2修复性低",
+        "onboard_time": 1664422165,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 165184,
+        "num": 165184,
+        "word": "日本女排主帅称输在中国队身高上",
+        "onboard_time": 1664413406,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161480,
+        "num": 161480,
+        "word": "俄罗斯否认制造北溪管道泄漏事故",
+        "onboard_time": 1664412387,
+        "rank": 29,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 159607,
+        "num": 159607,
+        "word": "这是国庆前夕的香港街头",
+        "onboard_time": 1664412744,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153905,
+        "num": 153905,
+        "word": "肉食动物 跑题",
+        "onboard_time": 1664410706,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144306,
+        "num": 144306,
+        "word": "宿舍滴水男生自买材料抹腻子防水",
+        "onboard_time": 1664415324,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138261,
+        "num": 138261,
+        "word": "陈哲远新剧被沈月公主抱",
+        "onboard_time": 1664420123,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137830,
+        "num": 137830,
+        "word": "思文说杨笠非常好我也不错",
+        "onboard_time": 1664422403,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136798,
+        "num": 136798,
+        "word": "这个动画是有点舒适在的",
+        "onboard_time": 1664426485,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134866,
+        "num": 134866,
+        "word": "原来狗狗也是会劝架的",
+        "onboard_time": 1664409863,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134435,
+        "num": 134435,
+        "word": "从鱼到人演化过程需近5亿年",
+        "onboard_time": 1664423786,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130983,
+        "num": 130983,
+        "word": "徐志胜全网最后一个大帅哥",
+        "onboard_time": 1664378186,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117895,
+        "num": 117895,
+        "word": "绵阳疫情防控",
+        "onboard_time": 1664412087,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117362,
+        "num": 117362,
+        "word": "河南增1例本土确诊4例无症状",
+        "onboard_time": 1664419642,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111277,
+        "num": 111277,
+        "word": "iPhone14系列总订单并没有调整",
+        "onboard_time": 1664427745,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 106198,
+        "num": 106198,
+        "word": "缉毒英雄生命最后时刻将佩枪交给战友",
+        "onboard_time": 1664427327,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105830,
+        "num": 105830,
+        "word": "周深新歌MV里有21部经典动画",
+        "onboard_time": 1664423903,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 102351,
+        "num": 102351,
+        "word": "女子收养幼猫母猫找上门托付孩子",
+        "onboard_time": 1664426306,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101213,
+        "num": 101213,
+        "word": "炽道今日开播",
+        "onboard_time": 1664423002,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 94799,
+        "num": 94799,
+        "word": "昆明赋黄码70442人",
+        "onboard_time": 1664389992,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94050,
+        "num": 94050,
+        "word": "S12小组赛赛程",
+        "onboard_time": 1664413526,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 87293,
+        "num": 87293,
+        "word": "狗狗体验滑翔伞目瞪口呆",
+        "onboard_time": 1664411727,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82156,
+        "num": 82156,
+        "word": "蔡文静刘欢新剧cp感",
+        "onboard_time": 1664428047,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#三代人40余年逼退风沙线30公里#"
+    }
+  }
+}
