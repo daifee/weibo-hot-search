@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/29 13:07:38
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/29 14:13:20
 </p>
 </blockquote>
 <p>
@@ -3963,6 +3963,12 @@ Rookie泪目（热度：1345777）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2310%E6%9C%881%E6%97%A5%E4%B8%8B%E6%9E%B6%E6%89%80%E6%9C%89%E6%B0%B4%E6%9E%9C%E5%91%B3%E7%94%B5%E5%AD%90%E7%83%9F%23" target="weibo">
+10月1日下架所有水果味电子烟（热度：1343013）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%80%89%E8%B0%83%E7%94%9F%E6%88%96%E6%88%90%E4%B8%BA985%E5%AD%A6%E7%94%9F%E6%9C%80%E4%BD%B3%E9%80%89%E6%8B%A9%23" target="weibo">
 选调生或成为985学生最佳选择（热度：1340770）
 </a>
@@ -4641,6 +4647,12 @@ Twins不承认吴谨言的粤语是自己教的（热度：1255504）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%BA%AA%E6%B3%84%E6%BC%8F%E6%88%96%E8%87%B4%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E6%B8%A9%E5%AE%A4%E6%B0%94%E4%BD%93%E6%8E%92%E6%94%BE%23" target="weibo">
+北溪泄漏或致史上最大温室气体排放（热度：1219239）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%BA%86%E9%80%9A%E6%8A%A5%E7%BD%91%E4%BC%A0%E5%AD%95%E5%A6%87%E5%B0%B1%E5%8C%BB%E8%A2%AB%E6%8B%92%E6%B5%81%E4%BA%A7%23" target="weibo">
 大庆通报网传孕妇就医被拒流产（热度：1218341）
 </a>
@@ -4673,12 +4685,6 @@ Twins不承认吴谨言的粤语是自己教的（热度：1255504）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E6%99%93%E5%A9%B7%E6%99%92%E5%92%8C%E6%9E%97%E5%AD%90%E8%81%AA%E5%90%88%E7%85%A7%23" target="weibo">
 郭晓婷晒和林子聪合照（热度：1211519）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2310%E6%9C%881%E6%97%A5%E4%B8%8B%E6%9E%B6%E6%89%80%E6%9C%89%E6%B0%B4%E6%9E%9C%E5%91%B3%E7%94%B5%E5%AD%90%E7%83%9F%23" target="weibo">
-10月1日下架所有水果味电子烟（热度：1211399）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ IU演唱会上的草莓月亮（热度：1037515）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%9B%E9%98%9F%E5%9B%BD%E9%99%85%E5%BD%A2%E8%B1%A1%E7%BD%91%E5%AE%A3%E7%89%87%E5%8F%91%E5%B8%83%23" target="weibo">
 中国军队国际形象网宣片发布（热度：1026119）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E7%96%91%E5%9B%A0%E5%90%B5%E6%9E%B6%E6%8A%8A%E7%8B%97%E6%8E%A8%E4%B8%8B4%E6%A5%BC%23" target="weibo">
-夫妻疑因吵架把狗推下4楼（热度：1025639）
 </a>
 </li>
 
