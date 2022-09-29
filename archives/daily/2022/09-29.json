@@ -1,6 +1,6 @@
 {
   "startTime": 1664383235790,
-  "endTime": 1664451644592,
+  "endTime": 1664455919926,
   "band_list": [
     {
       "raw_hot": 3706669,
@@ -35,8 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1707295,
-      "num": 576857,
+      "raw_hot": 1740045,
+      "num": 766900,
       "word": "张若昀父亲有钱不还又成老赖",
       "onboard_time": 1664445264,
       "rank": 10,
@@ -75,6 +75,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1253788,
+      "num": 1253788,
+      "word": "C919",
+      "onboard_time": 1664452586,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1181048,
       "num": 368904,
       "word": "羽生结弦",
@@ -104,6 +112,14 @@
       "word": "女子为玩羊了个羊看广告被骗9万元",
       "onboard_time": 1664364142,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 995547,
+      "num": 995547,
+      "word": "教育局通报配餐公司厨具遍布蛆虫",
+      "onboard_time": 1664449944,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -145,6 +161,22 @@
       "onboard_time": 1664433983,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 769137,
+      "num": 361071,
+      "word": "刘亦菲虎扑女神双冠军",
+      "onboard_time": 1664451445,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 704381,
+      "num": 704381,
+      "word": "网购平价蛋糕有多绝",
+      "onboard_time": 1664449222,
+      "rank": 12,
+      "category": "美食"
     },
     {
       "raw_hot": 677745,
@@ -225,14 +257,6 @@
       "onboard_time": 1664438303,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 531370,
-      "num": 531370,
-      "word": "网购平价蛋糕有多绝",
-      "onboard_time": 1664449222,
-      "rank": 12,
-      "category": "美食"
     },
     {
       "raw_hot": 529817,
@@ -321,14 +345,6 @@
       "onboard_time": 1664439624,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 470057,
-      "num": 361071,
-      "word": "刘亦菲虎扑女神双冠军",
-      "onboard_time": 1664451445,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 466145,
@@ -483,6 +499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 360526,
+      "num": 203065,
+      "word": "朴灿烈退伍后首直播",
+      "onboard_time": 1664455466,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 360524,
       "num": 360524,
       "word": "集中或居家隔离时不得采取外锁门方式",
@@ -504,6 +528,14 @@
       "word": "2人吵架将行李箱扔进铁轨致晚点",
       "onboard_time": 1664441424,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 346807,
+      "num": 346807,
+      "word": "七旬老人3年用座机网购百余次",
+      "onboard_time": 1664449583,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -547,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 320701,
+      "num": 198690,
+      "word": "周深直播",
+      "onboard_time": 1664452885,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 313253,
       "num": 313253,
       "word": "苏州新增本土无症状1例",
@@ -571,12 +611,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 304621,
-      "num": 304621,
-      "word": "七旬老人3年用座机网购百余次",
-      "onboard_time": 1664449583,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 304903,
+      "num": 229775,
+      "word": "中日邦交正常化50周年",
+      "onboard_time": 1664451986,
+      "rank": 13,
+      "category": "国内要闻,国外要闻"
     },
     {
       "raw_hot": 302170,
@@ -593,6 +633,14 @@
       "onboard_time": 1664371706,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 299965,
+      "num": 224960,
+      "word": "卖鱼西施直播称长得好看没用",
+      "onboard_time": 1664453244,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 299626,
@@ -659,19 +707,19 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 278828,
+      "num": 222638,
+      "word": "王大伟搞假结婚欺骗组织",
+      "onboard_time": 1664453607,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272116,
       "num": 272116,
       "word": "女子5小时用99个塑料袋做出婚纱",
       "onboard_time": 1664396771,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 266363,
-      "num": 266363,
-      "word": "教育局通报配餐公司厨具遍布蛆虫",
-      "onboard_time": 1664449944,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -859,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203197,
+      "num": 203197,
+      "word": "社恐猫咪见生人躲进水池藏起耳朵",
+      "onboard_time": 1664450964,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202509,
       "num": 202509,
       "word": "北京9月28日本土零新增",
@@ -923,6 +979,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 187422,
+      "num": 187422,
+      "word": "虞美人揭穿渣男出轨",
+      "onboard_time": 1664455466,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 185343,
       "num": 185343,
       "word": "这个动画是有点舒适在的",
@@ -945,6 +1009,14 @@
       "onboard_time": 1664440224,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 179370,
+      "num": 179370,
+      "word": "进返京人员须持阴性证明返岗",
+      "onboard_time": 1664450426,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173903,
@@ -1001,6 +1073,14 @@
       "onboard_time": 1664441303,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162615,
+      "num": 162615,
+      "word": "会等你上楼梯的小狗",
+      "onboard_time": 1664451025,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 162515,
@@ -1115,14 +1195,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 142514,
-      "num": 142514,
-      "word": "进返京人员须持阴性证明返岗",
-      "onboard_time": 1664450426,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 142323,
       "num": 142323,
       "word": "从鱼到人演化过程需近5亿年",
@@ -1185,6 +1257,14 @@
       "onboard_time": 1664396231,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131776,
+      "num": 131776,
+      "word": "中国女篮半决赛对阵澳大利亚",
+      "onboard_time": 1664454446,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 130882,
@@ -1275,6 +1355,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 117692,
+      "num": 117692,
+      "word": "这难道是学外语的通病吗",
+      "onboard_time": 1664451326,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 117369,
       "num": 117369,
       "word": "周深新歌MV里有21部经典动画",
@@ -1347,22 +1435,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 110493,
-      "num": 110493,
-      "word": "会等你上楼梯的小狗",
-      "onboard_time": 1664451025,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 110346,
-      "num": 110346,
-      "word": "社恐猫咪见生人躲进水池藏起耳朵",
-      "onboard_time": 1664450964,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110285,
       "num": 110285,
       "word": "唐朝诡事录六集一个大案",
@@ -1417,14 +1489,6 @@
       "onboard_time": 1664368526,
       "rank": 29,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 101036,
-      "num": 101036,
-      "word": "这难道是学外语的通病吗",
-      "onboard_time": 1664451326,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 100319,
@@ -1507,6 +1571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 87103,
+      "num": 87103,
+      "word": "吃一包辣条盐分就可能超额摄入",
+      "onboard_time": 1664455344,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 85865,
       "num": 85865,
       "word": "杨洋T锦绣九月刊封面",
@@ -1585,6 +1657,14 @@
       "onboard_time": 1664368764,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 77961,
+      "num": 77961,
+      "word": "2022apan颁奖礼",
+      "onboard_time": 1664452406,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 76771,
