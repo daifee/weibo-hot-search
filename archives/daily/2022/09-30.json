@@ -1,6 +1,6 @@
 {
   "startTime": 1664469545657,
-  "endTime": 1664480374353,
+  "endTime": 1664483311934,
   "band_list": [
     {
       "raw_hot": 2847507,
@@ -355,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59914,
+      "num": 59914,
+      "word": "县委书记为零彩礼低彩礼新人证婚",
+      "onboard_time": 1664477351,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58922,
       "num": 35683,
       "word": "情侣醉酒一言不合双双跳桥",
@@ -377,14 +385,6 @@
       "onboard_time": 1664447904,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 55345,
-      "num": 27698,
-      "word": "县委书记为零彩礼低彩礼新人证婚",
-      "onboard_time": 1664477351,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 55132,
@@ -443,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38650,
+      "num": 23154,
+      "word": "韩国一客机起飞滑跑时撞机",
+      "onboard_time": 1664480231,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36647,
       "num": 40287,
       "word": "10月天象预告来了",
@@ -473,6 +481,14 @@
       "onboard_time": 1664471537,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 16935,
+      "num": 16935,
+      "word": "绵阳涪城区城区部分区域临时管控",
+      "onboard_time": 1664481670,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14623,
@@ -515,12 +531,36 @@
       "category": "影视"
     },
     {
-      "raw_hot": 6948,
-      "num": 6948,
-      "word": "韩国一客机起飞滑跑时撞机",
-      "onboard_time": 1664480231,
-      "rank": 49,
+      "raw_hot": 7040,
+      "num": 7040,
+      "word": "他们以奋斗致敬祖国",
+      "onboard_time": 1664457625,
+      "rank": 42,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 6169,
+      "num": 6169,
+      "word": "木材掉落高速热心小伙挺身而出",
+      "onboard_time": 1664482631,
+      "rank": 44,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 5953,
+      "num": 5953,
+      "word": "被通报配餐公司曾中标多校餐饮服务",
+      "onboard_time": 1664483231,
+      "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5849,
+      "num": 5849,
+      "word": "快把猫咪馋哭了",
+      "onboard_time": 1664483290,
+      "rank": 48,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
