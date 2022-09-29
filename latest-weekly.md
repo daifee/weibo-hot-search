@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/26 00:32:19 ~ 2022/09/30 04:28:31
+本榜单时间：2022/09/26 00:32:19 ~ 2022/09/30 04:45:31
 </p>
 </blockquote>
 <p>
@@ -5331,6 +5331,12 @@ AI创作相似度高算不算抄袭（热度：72292）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E4%B8%BA%E9%9B%B6%E5%BD%A9%E7%A4%BC%E4%BD%8E%E5%BD%A9%E7%A4%BC%E6%96%B0%E4%BA%BA%E8%AF%81%E5%A9%9A%23" target="weibo">
+县委书记为零彩礼低彩礼新人证婚（热度：66919）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E8%A7%86%E5%89%A7%E5%BA%95%E7%BA%BF%23" target="weibo">
 电视剧底线（热度：66559）
 </a>
@@ -5391,12 +5397,6 @@ Cat时尚先生（热度：61255）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E4%B8%BA%E9%9B%B6%E5%BD%A9%E7%A4%BC%E4%BD%8E%E5%BD%A9%E7%A4%BC%E6%96%B0%E4%BA%BA%E8%AF%81%E5%A9%9A%23" target="weibo">
-县委书记为零彩礼低彩礼新人证婚（热度：59914）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%2318%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%8D%E5%B9%B8%E7%A6%BB%E4%B8%96%E6%8D%90%E5%99%A8%E5%AE%98%E6%95%916%E4%BA%BA%23" target="weibo">
 18岁女孩不幸离世捐器官救6人（热度：59097）
 </a>
@@ -5411,6 +5411,12 @@ Cat时尚先生（热度：61255）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A93%E5%A4%A93%E8%BF%9E%E5%8F%91%23" target="weibo">
 中国航天3天3连发（热度：55766）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%B8%80%E5%AE%A2%E6%9C%BA%E8%B5%B7%E9%A3%9E%E6%BB%91%E8%B7%91%E6%97%B6%E6%92%9E%E6%9C%BA%23" target="weibo">
+韩国一客机起飞滑跑时撞机（热度：53859）
 </a>
 </li>
 
@@ -5489,12 +5495,6 @@ Cat时尚先生（热度：61255）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BB%AC%E4%BB%A5%E5%A5%8B%E6%96%97%E8%87%B4%E6%95%AC%E7%A5%96%E5%9B%BD%23" target="weibo">
 他们以奋斗致敬祖国（热度：38723）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%B8%80%E5%AE%A2%E6%9C%BA%E8%B5%B7%E9%A3%9E%E6%BB%91%E8%B7%91%E6%97%B6%E6%92%9E%E6%9C%BA%23" target="weibo">
-韩国一客机起飞滑跑时撞机（热度：38650）
 </a>
 </li>
 
@@ -5775,6 +5775,12 @@ VR到底能干什么（热度：10742）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%AF%8D%E7%A7%B0%E5%A4%9A%E6%AC%A1%E8%A2%AB%E5%88%98%E9%91%AB%E6%94%AF%E6%8C%81%E8%80%85%E7%94%B5%E8%AF%9D%E9%AA%9A%E6%89%B0%23" target="weibo">
+江母称多次被刘鑫支持者电话骚扰（热度：9619）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%98%E5%AE%A2%E7%AA%81%E5%8F%91%E7%96%BE%E7%97%85%E5%8F%B8%E4%B9%98%E5%90%88%E5%8A%9B%E9%80%81%E5%8C%BB%23" target="weibo">
 乘客突发疾病司乘合力送医（热度：9077）
 </a>
@@ -5783,6 +5789,12 @@ VR到底能干什么（热度：10742）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E9%B8%BD%E5%90%8E%E8%BF%9E%E7%BB%AD9%E6%AC%A1%E6%8B%A8%E6%89%93110%E6%8A%A5%E8%AD%A6%23" target="weibo">
 男子被鸽后连续9次拨打110报警（热度：8793）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%B5%B7%E5%86%9B%E8%BF%88%E5%85%A5%E4%B8%89%E8%88%AA%E6%AF%8D%E6%97%B6%E4%BB%A3%23" target="weibo">
+人民海军迈入三航母时代（热度：8477）
 </a>
 </li>
 
@@ -5855,6 +5867,12 @@ VR到底能干什么（热度：10742）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%B9%E9%94%A1%E6%82%A6%E5%9B%9E%E5%BA%94%E8%84%8F%E8%AF%9D%E4%BA%89%E8%AE%AE%23" target="weibo">
 尹锡悦回应脏话争议（热度：6637）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%80%9A%E6%8A%A5%E9%85%8D%E9%A4%90%E5%85%AC%E5%8F%B8%E6%9B%BE%E4%B8%AD%E6%A0%87%E5%A4%9A%E6%A0%A1%E9%A4%90%E9%A5%AE%E6%9C%8D%E5%8A%A1%23" target="weibo">
+被通报配餐公司曾中标多校餐饮服务（热度：6570）
 </a>
 </li>
 
@@ -5943,12 +5961,6 @@ VR到底能干什么（热度：10742）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%80%9A%E6%8A%A5%E9%85%8D%E9%A4%90%E5%85%AC%E5%8F%B8%E6%9B%BE%E4%B8%AD%E6%A0%87%E5%A4%9A%E6%A0%A1%E9%A4%90%E9%A5%AE%E6%9C%8D%E5%8A%A1%23" target="weibo">
-被通报配餐公司曾中标多校餐饮服务（热度：5953）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23ROY%E5%B2%9A%E9%99%B5%E8%90%A7%E8%90%A7%E5%A3%B0%E9%A2%86%E7%BB%93%E5%A9%9A%E8%AF%81%23" target="weibo">
 ROY岚陵萧萧声领结婚证（热度：5908）
 </a>
@@ -5975,6 +5987,12 @@ ROY岚陵萧萧声领结婚证（热度：5908）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%9F%E5%BE%85%E7%A6%8F%E5%BB%BA%E8%88%B0%E6%97%A9%E6%97%A5%E4%B8%8A%E7%BA%BF%E8%88%AA%E6%AF%8Dstyle%23" target="weibo">
 期待福建舰早日上线航母style（热度：5766）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A7%86%E5%8A%9B%E9%9A%9C%E7%A2%8D%E7%94%B7%E5%AD%90%E8%B7%B3%E6%B0%B4%E6%95%91%E8%B5%B7%E8%90%BD%E6%B0%B4%E7%94%B7%E5%AD%A9%23" target="weibo">
+视力障碍男子跳水救起落水男孩（热度：5765）
 </a>
 </li>
 

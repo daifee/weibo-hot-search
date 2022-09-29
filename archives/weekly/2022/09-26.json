@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664483311934,
+  "endTime": 1664484331075,
   "band_list": [
     {
       "raw_hot": 4711055,
@@ -7091,6 +7091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 66919,
+      "num": 66919,
+      "word": "县委书记为零彩礼低彩礼新人证婚",
+      "onboard_time": 1664477351,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66559,
       "num": 66559,
       "word": "电视剧底线",
@@ -7171,14 +7179,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 59914,
-      "num": 59914,
-      "word": "县委书记为零彩礼低彩礼新人证婚",
-      "onboard_time": 1664477351,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 59097,
       "num": 443946,
       "word": "18岁女孩不幸离世捐器官救6人",
@@ -7201,6 +7201,14 @@
       "onboard_time": 1664240366,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 53859,
+      "num": 23154,
+      "word": "韩国一客机起飞滑跑时撞机",
+      "onboard_time": 1664480231,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52921,
@@ -7305,14 +7313,6 @@
       "onboard_time": 1664457625,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 38650,
-      "num": 23154,
-      "word": "韩国一客机起飞滑跑时撞机",
-      "onboard_time": 1664480231,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 38542,
@@ -7683,6 +7683,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 9619,
+      "num": 9619,
+      "word": "江母称多次被刘鑫支持者电话骚扰",
+      "onboard_time": 1664483411,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 9077,
       "num": 295439,
       "word": "乘客突发疾病司乘合力送医",
@@ -7697,6 +7705,14 @@
       "onboard_time": 1664393590,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8477,
+      "num": 8477,
+      "word": "人民海军迈入三航母时代",
+      "onboard_time": 1664482213,
+      "rank": 41,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 8475,
@@ -7793,6 +7809,14 @@
       "onboard_time": 1664223671,
       "rank": 47,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 6570,
+      "num": 6570,
+      "word": "被通报配餐公司曾中标多校餐饮服务",
+      "onboard_time": 1664483231,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 6377,
@@ -7907,14 +7931,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 5953,
-      "num": 5953,
-      "word": "被通报配餐公司曾中标多校餐饮服务",
-      "onboard_time": 1664483231,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 5908,
       "num": 5908,
       "word": "ROY岚陵萧萧声领结婚证",
@@ -7953,6 +7969,14 @@
       "onboard_time": 1664137031,
       "rank": 49,
       "category": "军事"
+    },
+    {
+      "raw_hot": 5765,
+      "num": 5883,
+      "word": "视力障碍男子跳水救起落水男孩",
+      "onboard_time": 1664484251,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 5763,

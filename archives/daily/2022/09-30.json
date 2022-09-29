@@ -1,6 +1,6 @@
 {
   "startTime": 1664469545657,
-  "endTime": 1664483311934,
+  "endTime": 1664484331075,
   "band_list": [
     {
       "raw_hot": 2847507,
@@ -307,6 +307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 66919,
+      "num": 66919,
+      "word": "县委书记为零彩礼低彩礼新人证婚",
+      "onboard_time": 1664477351,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65021,
       "num": 58561,
       "word": "万里归途预售总票房破3000万",
@@ -355,14 +363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 59914,
-      "num": 59914,
-      "word": "县委书记为零彩礼低彩礼新人证婚",
-      "onboard_time": 1664477351,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 58922,
       "num": 35683,
       "word": "情侣醉酒一言不合双双跳桥",
@@ -393,6 +393,14 @@
       "onboard_time": 1664449222,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 53859,
+      "num": 23154,
+      "word": "韩国一客机起飞滑跑时撞机",
+      "onboard_time": 1664480231,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 49489,
@@ -443,14 +451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 38650,
-      "num": 23154,
-      "word": "韩国一客机起飞滑跑时撞机",
-      "onboard_time": 1664480231,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 36647,
       "num": 40287,
       "word": "10月天象预告来了",
@@ -483,8 +483,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 16935,
-      "num": 16935,
+      "raw_hot": 23164,
+      "num": 23164,
       "word": "绵阳涪城区城区部分区域临时管控",
       "onboard_time": 1664481670,
       "rank": 21,
@@ -515,6 +515,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 9619,
+      "num": 9619,
+      "word": "江母称多次被刘鑫支持者电话骚扰",
+      "onboard_time": 1664483411,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8477,
+      "num": 8477,
+      "word": "人民海军迈入三航母时代",
+      "onboard_time": 1664482213,
+      "rank": 41,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 8475,
       "num": 8475,
       "word": "警犬到医院看病1秒变怂",
@@ -531,12 +547,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 7040,
-      "num": 7040,
+      "raw_hot": 7405,
+      "num": 7405,
       "word": "他们以奋斗致敬祖国",
       "onboard_time": 1664457625,
       "rank": 42,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 6570,
+      "num": 6570,
+      "word": "被通报配餐公司曾中标多校餐饮服务",
+      "onboard_time": 1664483231,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 6169,
@@ -547,20 +571,20 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 5953,
-      "num": 5953,
-      "word": "被通报配餐公司曾中标多校餐饮服务",
-      "onboard_time": 1664483231,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 5849,
       "num": 5849,
       "word": "快把猫咪馋哭了",
       "onboard_time": 1664483290,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 5765,
+      "num": 5883,
+      "word": "视力障碍男子跳水救起落水男孩",
+      "onboard_time": 1664484251,
+      "rank": 49,
+      "category": "社会正能量"
     }
   ],
   "hotgov_list": [
