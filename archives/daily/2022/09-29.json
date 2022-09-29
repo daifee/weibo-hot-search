@@ -1,7 +1,31 @@
 {
   "startTime": 1664383235790,
-  "endTime": 1664408797150,
+  "endTime": 1664418904895,
   "band_list": [
+    {
+      "raw_hot": 1822787,
+      "num": 1822787,
+      "word": "大宋少年志2官宣主演阵容",
+      "onboard_time": 1664417423,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1378659,
+      "num": 1378659,
+      "word": "真的不建议饭后立刻洗澡",
+      "onboard_time": 1664409323,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1162312,
+      "num": 1162312,
+      "word": "老师发现6年级孩子看言情成风气",
+      "onboard_time": 1664411066,
+      "rank": 3,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1124423,
       "num": 1124423,
@@ -24,6 +48,30 @@
       "word": "东方甄选回应下架玉米",
       "onboard_time": 1664377404,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 677745,
+      "num": 677745,
+      "word": "俄罗斯否认制造北溪管道泄漏事故",
+      "onboard_time": 1664412387,
+      "rank": 4,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 591685,
+      "num": 591685,
+      "word": "苹果将在iOS16.1开放灵动岛给第三方",
+      "onboard_time": 1664417304,
+      "rank": 5,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 580601,
+      "num": 580601,
+      "word": "婆家40多人盛装带礼送儿媳回娘家",
+      "onboard_time": 1664414002,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -67,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 411814,
+      "num": 411814,
+      "word": "日本女排主帅称输在中国队身高上",
+      "onboard_time": 1664413406,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 400164,
       "num": 400164,
       "word": "学生1句话让老师找到失散35年亲人",
@@ -75,11 +131,35 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 356812,
+      "num": 356812,
+      "word": "宿舍滴水男生自买材料抹腻子防水",
+      "onboard_time": 1664415324,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355784,
+      "num": 355784,
+      "word": "妲己漫画少女新皮肤",
+      "onboard_time": 1664417064,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 345744,
       "num": 345744,
       "word": "网传天津10月1日起封城3天系谣言",
       "onboard_time": 1664394549,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 326293,
+      "num": 326293,
+      "word": "绵阳疫情防控",
+      "onboard_time": 1664412087,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -91,11 +171,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 308821,
+      "num": 308821,
+      "word": "俄喊话拜登回答北溪管道事故",
+      "onboard_time": 1664416405,
+      "rank": 15,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 308598,
       "num": 308598,
       "word": "4万买下周大福25万金饰被起诉",
       "onboard_time": 1664359644,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302170,
+      "num": 302170,
+      "word": "这是国庆前夕的香港街头",
+      "onboard_time": 1664412744,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -112,6 +208,14 @@
       "word": "国庆小客车高速免费但需一车一杆",
       "onboard_time": 1664405537,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285375,
+      "num": 285375,
+      "word": "人民日报任仲平",
+      "onboard_time": 1664412808,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -147,12 +251,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 253212,
+      "num": 253212,
+      "word": "肉食动物 跑题",
+      "onboard_time": 1664410706,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 247668,
       "num": 247668,
       "word": "站着生气的仓鼠",
       "onboard_time": 1664379025,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 243717,
+      "num": 243717,
+      "word": "S12小组赛赛程",
+      "onboard_time": 1664413526,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 223809,
@@ -171,12 +291,60 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 202509,
+      "num": 202509,
+      "word": "北京9月28日本土零新增",
+      "onboard_time": 1664414188,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191700,
+      "num": 191700,
+      "word": "StrayKids新专辑预售量突破224万张",
+      "onboard_time": 1664417243,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 191080,
+      "num": 191080,
+      "word": "原来狗狗也是会劝架的",
+      "onboard_time": 1664409863,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 188682,
+      "num": 188682,
+      "word": "我国科学家证实人类是从鱼进化来的",
+      "onboard_time": 1664418204,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182549,
       "num": 182549,
       "word": "厦门疫情防控",
       "onboard_time": 1664407460,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172483,
+      "num": 172483,
+      "word": "专家建议对槟榔实施特许经营",
+      "onboard_time": 1664415984,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166560,
+      "num": 166560,
+      "word": "退伍军人用玉米摆出国徽图案",
+      "onboard_time": 1664414605,
+      "rank": 27,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 166384,
@@ -192,6 +360,14 @@
       "word": "狂犬病一旦发病病死率几乎为100%",
       "onboard_time": 1664356104,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160745,
+      "num": 160745,
+      "word": "昆明赋黄码70442人",
+      "onboard_time": 1664389992,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -219,12 +395,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 151037,
+      "num": 151037,
+      "word": "想看盛阳简冰",
+      "onboard_time": 1664412327,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 141654,
       "num": 141654,
       "word": "美国海军乱排污被罚880万美元",
       "onboard_time": 1664394549,
       "rank": 20,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 138594,
+      "num": 138594,
+      "word": "9月28日新增本土无症状526例",
+      "onboard_time": 1664414188,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133411,
+      "num": 133411,
+      "word": "货车拉一车斗的奥特曼被交警拦下",
+      "onboard_time": 1664396231,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129786,
@@ -235,16 +435,24 @@
       "category": "影视"
     },
     {
-      "raw_hot": 128735,
-      "num": 128735,
-      "word": "昆明赋黄码70442人",
-      "onboard_time": 1664389992,
-      "rank": 49,
+      "raw_hot": 127199,
+      "num": 127199,
+      "word": "古滇国考古重大突破",
+      "onboard_time": 1664418262,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125469,
+      "num": 125469,
+      "word": "我的反派男友明晚见",
+      "onboard_time": 1664417602,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 123432,
-      "num": 584475,
+      "num": 1244531,
       "word": "画在墙上的火车开进了现实",
       "onboard_time": 1664365885,
       "rank": 2,
@@ -265,6 +473,14 @@
       "onboard_time": 1664383159,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 113499,
+      "num": 113499,
+      "word": "狗狗体验滑翔伞目瞪口呆",
+      "onboard_time": 1664411727,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112251,
@@ -291,6 +507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 105762,
+      "num": 105762,
+      "word": "女孩零起步学烹饪22岁高校任教",
+      "onboard_time": 1664410768,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103096,
       "num": 103096,
       "word": "印度低种姓学生答错题被老师打死",
@@ -305,14 +529,6 @@
       "onboard_time": 1664368526,
       "rank": 29,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 101265,
-      "num": 101265,
-      "word": "货车拉一车斗的奥特曼被交警拦下",
-      "onboard_time": 1664396231,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 99962,
@@ -345,6 +561,14 @@
       "onboard_time": 1664374284,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 92137,
+      "num": 92137,
+      "word": "玲娜贝儿一周岁生日",
+      "onboard_time": 1664412147,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 91291,
@@ -385,6 +609,14 @@
       "onboard_time": 1664365944,
       "rank": 31,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 79487,
+      "num": 79487,
+      "word": "虞书欣回复张彬彬有本事别回来",
+      "onboard_time": 1664368764,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 76771,
@@ -593,6 +825,14 @@
       "onboard_time": 1664390532,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 9953,
+      "num": 316499,
+      "word": "民辅警轮流心肺复苏救醒溺水者",
+      "onboard_time": 1664418624,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 8793,
