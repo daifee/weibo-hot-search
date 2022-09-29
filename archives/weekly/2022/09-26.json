@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664477603859,
+  "endTime": 1664479449538,
   "band_list": [
     {
       "raw_hot": 4711055,
@@ -7179,7 +7179,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 58152,
+      "raw_hot": 58922,
       "num": 35683,
       "word": "情侣醉酒一言不合双双跳桥",
       "onboard_time": 1664474054,
@@ -7272,6 +7272,14 @@
       "word": "退伍老兵照顾牺牲战友母亲38年",
       "onboard_time": 1664373686,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46380,
+      "num": 27698,
+      "word": "县委书记为零彩礼低彩礼新人证婚",
+      "onboard_time": 1664477351,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -7416,6 +7424,14 @@
       "word": "捐献者配型成功称感觉像中奖",
       "onboard_time": 1664449222,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25717,
+      "num": 25717,
+      "word": "新郎遇保安要烟弃车背新娘走",
+      "onboard_time": 1664477231,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -7657,22 +7673,6 @@
       "onboard_time": 1664131212,
       "rank": 49,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 9656,
-      "num": 9656,
-      "word": "县委书记为零彩礼低彩礼新人证婚",
-      "onboard_time": 1664477351,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9546,
-      "num": 9546,
-      "word": "新郎遇保安要烟弃车背新娘走",
-      "onboard_time": 1664477231,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 9077,
