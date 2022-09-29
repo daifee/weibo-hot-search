@@ -1,6 +1,6 @@
 {
   "startTime": 1664469545657,
-  "endTime": 1664473171920,
+  "endTime": 1664474124845,
   "band_list": [
     {
       "raw_hot": 2847507,
@@ -211,6 +211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 108731,
+      "num": 83148,
+      "word": "医生给剪破的气球缝针后吹了起来",
+      "onboard_time": 1664470938,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106016,
       "num": 106016,
       "word": "吃一包辣条盐分就可能超额摄入",
@@ -225,14 +233,6 @@
       "onboard_time": 1664456305,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 89602,
-      "num": 83148,
-      "word": "医生给剪破的气球缝针后吹了起来",
-      "onboard_time": 1664470938,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 88228,
@@ -289,6 +289,14 @@
       "onboard_time": 1664463985,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 75288,
+      "num": 64077,
+      "word": "黄牛回收片仔癀最低仅400元",
+      "onboard_time": 1664472077,
+      "rank": 34,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 71588,
@@ -419,25 +427,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 34590,
-      "num": 34590,
-      "word": "黄牛回收片仔癀最低仅400元",
-      "onboard_time": 1664472077,
-      "rank": 34,
-      "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 18414,
-      "num": 18414,
+      "raw_hot": 28822,
+      "num": 28822,
       "word": "狗狗被忘服务站主人开40公里接回",
       "onboard_time": 1664472856,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14091,
+      "num": 14091,
+      "word": "十一潮流日记",
+      "onboard_time": 1664469560,
+      "rank": 49,
+      "category": "时尚"
     }
   ],
   "hotgov_list": [
     {
       "word": "#掌握历史主动凝聚奋进伟力#"
+    },
+    {
+      "word": "#网络辟谣标签#"
     }
   ]
 }
