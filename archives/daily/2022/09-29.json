@@ -1,6 +1,6 @@
 {
   "startTime": 1664383235790,
-  "endTime": 1664455919926,
+  "endTime": 1664457929452,
   "band_list": [
     {
       "raw_hot": 3706669,
@@ -155,6 +155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 827676,
+      "num": 361071,
+      "word": "刘亦菲虎扑女神双冠军",
+      "onboard_time": 1664451445,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 816010,
       "num": 406310,
       "word": "男子要前女友还9万花销结果倒欠1万",
@@ -163,12 +171,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 769137,
-      "num": 361071,
-      "word": "刘亦菲虎扑女神双冠军",
-      "onboard_time": 1664451445,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 796716,
+      "num": 796716,
+      "word": "王大伟搞假结婚欺骗组织",
+      "onboard_time": 1664453607,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 704381,
@@ -259,6 +267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 539206,
+      "num": 203065,
+      "word": "朴灿烈退伍后首直播",
+      "onboard_time": 1664455466,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 529817,
       "num": 529817,
       "word": "二胎妈妈秒懂大宝眼神邀3人同玩",
@@ -321,6 +337,14 @@
       "onboard_time": 1664430803,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 492050,
+      "num": 492050,
+      "word": "卖鱼西施直播称长得好看没用",
+      "onboard_time": 1664453244,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 485819,
@@ -499,14 +523,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 360526,
-      "num": 203065,
-      "word": "朴灿烈退伍后首直播",
-      "onboard_time": 1664455466,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 360524,
       "num": 360524,
       "word": "集中或居家隔离时不得采取外锁门方式",
@@ -528,6 +544,14 @@
       "word": "2人吵架将行李箱扔进铁轨致晚点",
       "onboard_time": 1664441424,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347181,
+      "num": 347181,
+      "word": "殡葬行业工作者不敢和别人一起过年",
+      "onboard_time": 1664455947,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -571,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324670,
+      "num": 241398,
+      "word": "赵晓卉全黑超感大片",
+      "onboard_time": 1664457145,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 321316,
       "num": 288995,
       "word": "雪琴就是我的互联网嘴替吧",
@@ -612,7 +644,7 @@
     },
     {
       "raw_hot": 304903,
-      "num": 229775,
+      "num": 239158,
       "word": "中日邦交正常化50周年",
       "onboard_time": 1664451986,
       "rank": 13,
@@ -633,14 +665,6 @@
       "onboard_time": 1664371706,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 299965,
-      "num": 224960,
-      "word": "卖鱼西施直播称长得好看没用",
-      "onboard_time": 1664453244,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 299626,
@@ -707,14 +731,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 278828,
-      "num": 222638,
-      "word": "王大伟搞假结婚欺骗组织",
-      "onboard_time": 1664453607,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 272116,
       "num": 272116,
       "word": "女子5小时用99个塑料袋做出婚纱",
@@ -777,6 +793,14 @@
       "onboard_time": 1664379025,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 246224,
+      "num": 246224,
+      "word": "虞美人揭穿渣男出轨",
+      "onboard_time": 1664455466,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 243717,
@@ -875,6 +899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 213311,
+      "num": 213311,
+      "word": "肩胛骨疼痛不要乱按摩",
+      "onboard_time": 1664456305,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210327,
       "num": 210327,
       "word": "终于轮到虞美人虐庄羽了",
@@ -931,6 +963,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 198111,
+      "num": 198111,
+      "word": "中国女篮半决赛对阵澳大利亚",
+      "onboard_time": 1664454446,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198020,
       "num": 198020,
       "word": "韩东君阚清子新剧cp感",
@@ -977,14 +1017,6 @@
       "onboard_time": 1664451445,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 187422,
-      "num": 187422,
-      "word": "虞美人揭穿渣男出轨",
-      "onboard_time": 1664455466,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 185343,
@@ -1089,6 +1121,14 @@
       "onboard_time": 1664356104,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161930,
+      "num": 161930,
+      "word": "吃一包辣条盐分就可能超额摄入",
+      "onboard_time": 1664455344,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 160745,
@@ -1211,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141983,
+      "num": 125705,
+      "word": "黄明昊剧本都写不出的搞笑",
+      "onboard_time": 1664457264,
+      "rank": 31,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 141654,
       "num": 141654,
       "word": "美国海军乱排污被罚880万美元",
@@ -1243,6 +1291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137777,
+      "num": 137777,
+      "word": "这难道是学外语的通病吗",
+      "onboard_time": 1664451326,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 134867,
       "num": 134867,
       "word": "我们的歌第二期预告",
@@ -1259,20 +1315,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 131776,
-      "num": 131776,
-      "word": "中国女篮半决赛对阵澳大利亚",
-      "onboard_time": 1664454446,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 130882,
       "num": 130882,
       "word": "李冰冰谈断臂男孩现场落泪",
       "onboard_time": 1664434404,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 129847,
+      "num": 123591,
+      "word": "张杰分享录音棚vlog",
+      "onboard_time": 1664457324,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 129786,
@@ -1347,20 +1403,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119419,
+      "num": 93214,
+      "word": "运动员罗娜也在追炽道",
+      "onboard_time": 1664457446,
+      "rank": 40,
+      "category": "体育,影视"
+    },
+    {
       "raw_hot": 119407,
       "num": 119407,
       "word": "郭明錤质疑苹果放弃增产iPhone",
       "onboard_time": 1664420965,
       "rank": 33,
       "category": "科技"
-    },
-    {
-      "raw_hot": 117692,
-      "num": 117692,
-      "word": "这难道是学外语的通病吗",
-      "onboard_time": 1664451326,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 117369,
@@ -1571,12 +1627,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 87103,
-      "num": 87103,
-      "word": "吃一包辣条盐分就可能超额摄入",
-      "onboard_time": 1664455344,
-      "rank": 43,
-      "category": "美食"
+      "raw_hot": 89454,
+      "num": 89454,
+      "word": "每天走多少步比较好",
+      "onboard_time": 1664457084,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 85865,
@@ -1937,6 +1993,14 @@
       "onboard_time": 1664392332,
       "rank": 43,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 10259,
+      "num": 641810,
+      "word": "他们以奋斗致敬祖国",
+      "onboard_time": 1664457625,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 10086,
