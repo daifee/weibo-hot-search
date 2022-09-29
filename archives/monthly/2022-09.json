@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1664471324369,
+  "endTime": 1664473171920,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -47395,6 +47395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151011,
+      "num": 55982,
+      "word": "周深唱新歌美美",
+      "onboard_time": 1664473035,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 151004,
       "num": 151004,
       "word": "Amber万妮达Laurie合作新歌",
@@ -53547,6 +53555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89602,
+      "num": 83148,
+      "word": "医生给剪破的气球缝针后吹了起来",
+      "onboard_time": 1664470938,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89588,
       "num": 89588,
       "word": "一见钟情的宝藏香水",
@@ -55739,6 +55755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34590,
+      "num": 34590,
+      "word": "黄牛回收片仔癀最低仅400元",
+      "onboard_time": 1664472077,
+      "rank": 34,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 34233,
       "num": 114812,
       "word": "宝宝疫苗妈妈真的都懂吗",
@@ -55809,14 +55833,6 @@
       "onboard_time": 1662584410,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 31769,
-      "num": 31769,
-      "word": "医生给剪破的气球缝针后吹了起来",
-      "onboard_time": 1664470938,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31601,
@@ -56225,6 +56241,14 @@
       "onboard_time": 1662755830,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 18414,
+      "num": 18414,
+      "word": "狗狗被忘服务站主人开40公里接回",
+      "onboard_time": 1664472856,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18203,

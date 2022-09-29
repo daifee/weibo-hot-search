@@ -1,6 +1,6 @@
 {
   "startTime": 1664469545657,
-  "endTime": 1664471324369,
+  "endTime": 1664473171920,
   "band_list": [
     {
       "raw_hot": 2847507,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151011,
+      "num": 55982,
+      "word": "周深唱新歌美美",
+      "onboard_time": 1664473035,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 145358,
       "num": 145358,
       "word": "越长大越不想爷爷奶奶变老",
@@ -217,6 +225,14 @@
       "onboard_time": 1664456305,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89602,
+      "num": 83148,
+      "word": "医生给剪破的气球缝针后吹了起来",
+      "onboard_time": 1664470938,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 88228,
@@ -403,11 +419,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 31769,
-      "num": 31769,
-      "word": "医生给剪破的气球缝针后吹了起来",
-      "onboard_time": 1664470938,
-      "rank": 46,
+      "raw_hot": 34590,
+      "num": 34590,
+      "word": "黄牛回收片仔癀最低仅400元",
+      "onboard_time": 1664472077,
+      "rank": 34,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 18414,
+      "num": 18414,
+      "word": "狗狗被忘服务站主人开40公里接回",
+      "onboard_time": 1664472856,
+      "rank": 49,
       "category": "社会新闻"
     }
   ],
