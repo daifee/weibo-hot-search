@@ -1,6 +1,6 @@
 {
   "startTime": 1664469545657,
-  "endTime": 1664479449538,
+  "endTime": 1664480374353,
   "band_list": [
     {
       "raw_hot": 2847507,
@@ -379,6 +379,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 55345,
+      "num": 27698,
+      "word": "县委书记为零彩礼低彩礼新人证婚",
+      "onboard_time": 1664477351,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55132,
       "num": 55132,
       "word": "网购平价蛋糕有多绝",
@@ -407,14 +415,6 @@
       "num": 46504,
       "word": "进返京人员须持阴性证明返岗",
       "onboard_time": 1664450426,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46380,
-      "num": 27698,
-      "word": "县委书记为零彩礼低彩礼新人证婚",
-      "onboard_time": 1664477351,
       "rank": 46,
       "category": "社会新闻"
     },
@@ -459,7 +459,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 25717,
+      "raw_hot": 36484,
       "num": 25717,
       "word": "新郎遇保安要烟弃车背新娘走",
       "onboard_time": 1664477231,
@@ -497,6 +497,30 @@
       "onboard_time": 1664477592,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 8475,
+      "num": 8475,
+      "word": "警犬到医院看病1秒变怂",
+      "onboard_time": 1664479932,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8433,
+      "num": 8433,
+      "word": "炽道滤镜",
+      "onboard_time": 1664460566,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 6948,
+      "num": 6948,
+      "word": "韩国一客机起飞滑跑时撞机",
+      "onboard_time": 1664480231,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -505,6 +529,9 @@
     },
     {
       "word": "#网络辟谣标签#"
+    },
+    {
+      "word": "#向烈士致敬#"
     }
   ]
 }
