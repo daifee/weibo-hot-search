@@ -1,6 +1,6 @@
 {
   "startTime": 1664469545657,
-  "endTime": 1664476432889,
+  "endTime": 1664477603859,
   "band_list": [
     {
       "raw_hot": 2847507,
@@ -371,6 +371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 58152,
+      "num": 35683,
+      "word": "情侣醉酒一言不合双双跳桥",
+      "onboard_time": 1664474054,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55132,
       "num": 55132,
       "word": "网购平价蛋糕有多绝",
@@ -443,14 +451,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 32850,
-      "num": 32850,
-      "word": "情侣醉酒一言不合双双跳桥",
-      "onboard_time": 1664474054,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 25410,
       "num": 25410,
       "word": "周深唱余情梦回苍兰诀",
@@ -473,6 +473,30 @@
       "onboard_time": 1664469560,
       "rank": 49,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 9656,
+      "num": 9656,
+      "word": "县委书记为零彩礼低彩礼新人证婚",
+      "onboard_time": 1664477351,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9546,
+      "num": 9546,
+      "word": "新郎遇保安要烟弃车背新娘走",
+      "onboard_time": 1664477231,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9460,
+      "num": 9460,
+      "word": "沉香重华",
+      "onboard_time": 1664477592,
+      "rank": 48,
+      "category": "影视"
     }
   ],
   "hotgov_list": [

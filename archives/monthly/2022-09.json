@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1664476432889,
+  "endTime": 1664477603859,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -55155,6 +55155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 58152,
+      "num": 35683,
+      "word": "情侣醉酒一言不合双双跳桥",
+      "onboard_time": 1664474054,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58012,
       "num": 150028,
       "word": "教官教的vs学生学的",
@@ -55800,14 +55808,6 @@
       "word": "地图上看城市最美夜景",
       "onboard_time": 1664258425,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32850,
-      "num": 32850,
-      "word": "情侣醉酒一言不合双双跳桥",
-      "onboard_time": 1664474054,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -56739,12 +56739,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 9656,
+      "num": 9656,
+      "word": "县委书记为零彩礼低彩礼新人证婚",
+      "onboard_time": 1664477351,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 9641,
       "num": 13105,
       "word": "范世錡Mike互动好有梗",
       "onboard_time": 1662754990,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 9546,
+      "num": 9546,
+      "word": "新郎遇保安要烟弃车背新娘走",
+      "onboard_time": 1664477231,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9303,

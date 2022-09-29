@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664476432889,
+  "endTime": 1664477603859,
   "band_list": [
     {
       "raw_hot": 4711055,
@@ -7179,6 +7179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58152,
+      "num": 35683,
+      "word": "情侣醉酒一言不合双双跳桥",
+      "onboard_time": 1664474054,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55766,
       "num": 1378577,
       "word": "中国航天3天3连发",
@@ -7328,14 +7336,6 @@
       "word": "地图上看城市最美夜景",
       "onboard_time": 1664258425,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32850,
-      "num": 32850,
-      "word": "情侣醉酒一言不合双双跳桥",
-      "onboard_time": 1664474054,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -7657,6 +7657,22 @@
       "onboard_time": 1664131212,
       "rank": 49,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 9656,
+      "num": 9656,
+      "word": "县委书记为零彩礼低彩礼新人证婚",
+      "onboard_time": 1664477351,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9546,
+      "num": 9546,
+      "word": "新郎遇保安要烟弃车背新娘走",
+      "onboard_time": 1664477231,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9077,
