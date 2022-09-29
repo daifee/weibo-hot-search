@@ -1,6 +1,6 @@
 {
   "startTime": 1664383235790,
-  "endTime": 1664447304795,
+  "endTime": 1664448398718,
   "band_list": [
     {
       "raw_hot": 3706669,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1375151,
+      "num": 350005,
+      "word": "张若昀父亲有钱不还又成老赖",
+      "onboard_time": 1664445264,
+      "rank": 10,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 1309199,
       "num": 969052,
       "word": "吴建豪说刘雨昕的美甲像被门夹了",
@@ -105,14 +113,6 @@
       "onboard_time": 1664429724,
       "rank": 6,
       "category": "情感"
-    },
-    {
-      "raw_hot": 853873,
-      "num": 350005,
-      "word": "张若昀父亲有钱不还又成老赖",
-      "onboard_time": 1664445264,
-      "rank": 10,
-      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 836542,
@@ -379,6 +379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 407524,
+      "num": 407524,
+      "word": "北京在进返京人员筛查中发现一感染者",
+      "onboard_time": 1664444065,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 402670,
       "num": 402670,
       "word": "北京通州一小区出现初筛阳性病例",
@@ -401,14 +409,6 @@
       "onboard_time": 1664446225,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 385537,
-      "num": 346552,
-      "word": "北京在进返京人员筛查中发现一感染者",
-      "onboard_time": 1664444065,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 379453,
@@ -529,6 +529,22 @@
       "onboard_time": 1664371706,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 300063,
+      "num": 300063,
+      "word": "集中或居家隔离时不得采取外锁门方式",
+      "onboard_time": 1664444785,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299626,
+      "num": 299626,
+      "word": "男子等电梯却败给10多只老母鸡",
+      "onboard_time": 1664442924,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 295545,
@@ -659,14 +675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 238257,
-      "num": 238257,
-      "word": "集中或居家隔离时不得采取外锁门方式",
-      "onboard_time": 1664444785,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 232055,
       "num": 232055,
       "word": "运油20给两架歼20空中加油视频",
@@ -675,12 +683,20 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 230714,
-      "num": 230714,
-      "word": "男子等电梯却败给10多只老母鸡",
-      "onboard_time": 1664442924,
+      "raw_hot": 229970,
+      "num": 229970,
+      "word": "这小猫洗澡也太老实了吧",
+      "onboard_time": 1664444244,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 227414,
+      "num": 227414,
+      "word": "李梦23分",
+      "onboard_time": 1664445625,
       "rank": 33,
-      "category": "社会新闻"
+      "category": "体育"
     },
     {
       "raw_hot": 226546,
@@ -737,14 +753,6 @@
       "onboard_time": 1664376448,
       "rank": 20,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 207681,
-      "num": 207681,
-      "word": "这小猫洗澡也太老实了吧",
-      "onboard_time": 1664444244,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 207443,
@@ -819,6 +827,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 190517,
+      "num": 190517,
+      "word": "虞书欣虞美人失恋一年后还爱着他",
+      "onboard_time": 1664447964,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 185343,
       "num": 185343,
       "word": "这个动画是有点舒适在的",
@@ -856,6 +872,14 @@
       "word": "越长大越不想爷爷奶奶变老",
       "onboard_time": 1664446944,
       "rank": 25,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 170112,
+      "num": 170112,
+      "word": "如何看待年轻人量化式生活",
+      "onboard_time": 1664446584,
+      "rank": 26,
       "category": "情感"
     },
     {
@@ -897,14 +921,6 @@
       "onboard_time": 1664356104,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161452,
-      "num": 161452,
-      "word": "如何看待年轻人量化式生活",
-      "onboard_time": 1664446584,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 160745,
@@ -1003,6 +1019,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 145256,
+      "num": 145256,
+      "word": "点读机女孩保研中传",
+      "onboard_time": 1664447303,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142782,
+      "num": 142782,
+      "word": "LBL",
+      "onboard_time": 1664447904,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 142323,
       "num": 142323,
       "word": "从鱼到人演化过程需近5亿年",
@@ -1027,12 +1059,12 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 138956,
-      "num": 138956,
-      "word": "李梦23分",
-      "onboard_time": 1664445625,
-      "rank": 33,
-      "category": "体育"
+      "raw_hot": 139381,
+      "num": 139381,
+      "word": "众星为炽道打call",
+      "onboard_time": 1664447843,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 138594,
@@ -1347,6 +1379,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 91752,
+      "num": 91752,
+      "word": "武磊回归中超首球",
+      "onboard_time": 1664448085,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91291,
       "num": 91291,
       "word": "让细节决定爱与不爱",
@@ -1603,7 +1643,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 34276,
+      "raw_hot": 40001,
       "num": 318918,
       "word": "医生帮遭遇车祸老人垫付检查费",
       "onboard_time": 1664445684,

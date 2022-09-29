@@ -1,0 +1,410 @@
+{
+  "runTime": 1664448398718,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1181104,
+        "num": 1181104,
+        "word": "中国女篮淘汰法国女篮",
+        "onboard_time": 1664444964,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 768882,
+        "num": 768882,
+        "word": "女孩被24个宿舍送玫瑰庆生",
+        "onboard_time": 1664437764,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52697,
+        "num": 639272,
+        "word": "航拍下的大江大河有多美",
+        "onboard_time": 1664436145,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1033801,
+        "num": 634437,
+        "word": "吴建豪说刘雨昕的美甲像被门夹了",
+        "onboard_time": 1664442683,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 619202,
+        "num": 619202,
+        "word": "10月1日下架所有水果味电子烟",
+        "onboard_time": 1664424564,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505451,
+        "num": 505451,
+        "word": "男子切柚子切掉一半才见果肉",
+        "onboard_time": 1664441903,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471039,
+        "num": 471039,
+        "word": "俄以国际恐怖主义行为性质调查北溪事件",
+        "onboard_time": 1664442205,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421764,
+        "num": 421764,
+        "word": "当冰箱里只剩下番茄和鸡蛋",
+        "onboard_time": 1664441003,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 407524,
+        "num": 407524,
+        "word": "北京在进返京人员筛查中发现一感染者",
+        "onboard_time": 1664444065,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327661,
+        "num": 327661,
+        "word": "中国女篮晋级世界杯四强",
+        "onboard_time": 1664446225,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1375151,
+        "num": 322466,
+        "word": "张若昀父亲有钱不还又成老赖",
+        "onboard_time": 1664445264,
+        "rank": 10,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 310249,
+        "num": 310249,
+        "word": "为什么会反复爱上同一类人",
+        "onboard_time": 1664441245,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 306391,
+        "num": 306391,
+        "word": "法网灰灰",
+        "onboard_time": 1664443764,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 300063,
+        "num": 300063,
+        "word": "集中或居家隔离时不得采取外锁门方式",
+        "onboard_time": 1664444785,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40001,
+        "num": 299750,
+        "word": "医生帮遭遇车祸老人垫付检查费",
+        "onboard_time": 1664445684,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299626,
+        "num": 299626,
+        "word": "男子等电梯却败给10多只老母鸡",
+        "onboard_time": 1664442924,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285656,
+        "num": 285656,
+        "word": "男子要前女友还9万花销结果倒欠1万",
+        "onboard_time": 1664433983,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275872,
+        "num": 275872,
+        "word": "周迅为什么能封神",
+        "onboard_time": 1664438303,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239336,
+        "num": 239336,
+        "word": "2人吵架将行李箱扔进铁轨致晚点",
+        "onboard_time": 1664441424,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229970,
+        "num": 229970,
+        "word": "这小猫洗澡也太老实了吧",
+        "onboard_time": 1664444244,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227414,
+        "num": 227414,
+        "word": "李梦23分",
+        "onboard_time": 1664445625,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219664,
+        "num": 219664,
+        "word": "身价2000亿贝索斯前妻又离婚",
+        "onboard_time": 1664439624,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216703,
+        "num": 216703,
+        "word": "我国科学家证实人类是从鱼进化来的",
+        "onboard_time": 1664418204,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216691,
+        "num": 216691,
+        "word": "林峯含着眼泪唱了半首歌",
+        "onboard_time": 1664439205,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212182,
+        "num": 212182,
+        "word": "北溪管道发现第四处泄漏点",
+        "onboard_time": 1664436325,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190517,
+        "num": 190517,
+        "word": "虞书欣虞美人失恋一年后还爱着他",
+        "onboard_time": 1664447964,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170112,
+        "num": 170112,
+        "word": "如何看待年轻人量化式生活",
+        "onboard_time": 1664446584,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163647,
+        "num": 163647,
+        "word": "谁动了北溪",
+        "onboard_time": 1664433383,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145824,
+        "num": 145824,
+        "word": "赵露思晒plog告别田枣",
+        "onboard_time": 1664437104,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145256,
+        "num": 145256,
+        "word": "点读机女孩保研中传",
+        "onboard_time": 1664447303,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142782,
+        "num": 142782,
+        "word": "LBL",
+        "onboard_time": 1664447904,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141278,
+        "num": 141278,
+        "word": "段奕宏迪丽热巴VOGUEfilm对手戏",
+        "onboard_time": 1664435546,
+        "rank": 31,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 139381,
+        "num": 139381,
+        "word": "众星为炽道打call",
+        "onboard_time": 1664447843,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126545,
+        "num": 126545,
+        "word": "俄罗斯选手发布会暴打美国选手",
+        "onboard_time": 1664430803,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123877,
+        "num": 123877,
+        "word": "研究表明狗能闻出人的压力",
+        "onboard_time": 1664440465,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122366,
+        "num": 122366,
+        "word": "原来打理刘海一点儿也不难",
+        "onboard_time": 1664443404,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117158,
+        "num": 117158,
+        "word": "90岁老人含泪亲吻病重女儿",
+        "onboard_time": 1664436387,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111970,
+        "num": 111970,
+        "word": "张彬彬说庄羽回国了",
+        "onboard_time": 1664443103,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 107814,
+        "num": 107814,
+        "word": "才知道大学老师有多厉害",
+        "onboard_time": 1664429724,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104891,
+        "num": 104891,
+        "word": "李梦连得12分",
+        "onboard_time": 1664441303,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104758,
+        "num": 104758,
+        "word": "绵阳涪城区城区部分区域临时管控",
+        "onboard_time": 1664438423,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91752,
+        "num": 91752,
+        "word": "武磊回归中超首球",
+        "onboard_time": 1664448085,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91221,
+        "num": 91221,
+        "word": "还以为小猫在对暗号",
+        "onboard_time": 1664440224,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89946,
+        "num": 89946,
+        "word": "永远可以相信中国姑娘",
+        "onboard_time": 1664446285,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89781,
+        "num": 89781,
+        "word": "哪种恋爱状态是你最喜欢的",
+        "onboard_time": 1664433143,
+        "rank": 44,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 87665,
+        "num": 87665,
+        "word": "Angelababy林涧双姝国风大片",
+        "onboard_time": 1664431525,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 86354,
+        "num": 86354,
+        "word": "越长大越不想爷爷奶奶变老",
+        "onboard_time": 1664446944,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 82779,
+        "num": 82779,
+        "word": "十一假期打开方式",
+        "onboard_time": 1664442205,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 82058,
+        "num": 82058,
+        "word": "心脏需要定期维护",
+        "onboard_time": 1664435185,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67055,
+        "num": 67055,
+        "word": "苏州新增本土无症状1例",
+        "onboard_time": 1664433742,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#网络辟谣标签#"
+    }
+  }
+}
