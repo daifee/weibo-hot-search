@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1664469545657,
+  "endTime": 1664471324369,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -22091,6 +22091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 418250,
+      "num": 418250,
+      "word": "研究称肥胖是神经发育问题",
+      "onboard_time": 1664467644,
+      "rank": 7,
+      "category": "其它"
+    },
+    {
       "raw_hot": 418189,
       "num": 418189,
       "word": "杨幂晒贝雷帽随拍",
@@ -38265,14 +38273,6 @@
       "onboard_time": 1662034170,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 225977,
-      "num": 225977,
-      "word": "研究称肥胖是神经发育问题",
-      "onboard_time": 1664467644,
-      "rank": 7,
-      "category": "其它"
     },
     {
       "raw_hot": 225752,
@@ -55809,6 +55809,14 @@
       "onboard_time": 1662584410,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 31769,
+      "num": 31769,
+      "word": "医生给剪破的气球缝针后吹了起来",
+      "onboard_time": 1664470938,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31601,

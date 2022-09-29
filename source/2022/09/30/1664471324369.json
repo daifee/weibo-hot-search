@@ -1,0 +1,410 @@
+{
+  "runTime": 1664471324369,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1936195,
+        "num": 1936195,
+        "word": "英国女王死因确认",
+        "onboard_time": 1664464945,
+        "rank": 0,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 418250,
+        "num": 418250,
+        "word": "研究称肥胖是神经发育问题",
+        "onboard_time": 1664467644,
+        "rank": 1,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 32242,
+        "num": 311670,
+        "word": "网络辟谣我们一起行动",
+        "onboard_time": 1664462005,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 454504,
+        "num": 289064,
+        "word": "女子沉迷羊了个羊丈夫报警求助",
+        "onboard_time": 1664463566,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262326,
+        "num": 262326,
+        "word": "殡葬行业工作者不敢和别人一起过年",
+        "onboard_time": 1664455947,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192429,
+        "num": 192429,
+        "word": "卖鱼西施直播称长得好看没用",
+        "onboard_time": 1664453244,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165226,
+        "num": 165226,
+        "word": "女子救流浪猫持续半年收到报恩礼",
+        "onboard_time": 1664461586,
+        "rank": 6,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 136627,
+        "num": 136627,
+        "word": "李庚希把我演哭了",
+        "onboard_time": 1664463868,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131806,
+        "num": 131806,
+        "word": "北溪管道漏气速度未见放缓",
+        "onboard_time": 1664458704,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314982,
+        "num": 130049,
+        "word": "张若昀父亲有钱不还又成老赖",
+        "onboard_time": 1664445264,
+        "rank": 9,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 402720,
+        "num": 129175,
+        "word": "甄嬛在这个班也当不了班长",
+        "onboard_time": 1664463868,
+        "rank": 10,
+        "category": "幽默,影视"
+      },
+      {
+        "raw_hot": 316845,
+        "num": 126571,
+        "word": "刘亦菲虎扑女神双冠军",
+        "onboard_time": 1664451445,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222626,
+        "num": 123996,
+        "word": "保时捷在德国上市",
+        "onboard_time": 1664467105,
+        "rank": 12,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 136708,
+        "num": 121465,
+        "word": "羽生结弦",
+        "onboard_time": 1664450244,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120616,
+        "num": 120616,
+        "word": "国庆放假前的我",
+        "onboard_time": 1664462485,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119078,
+        "num": 119078,
+        "word": "周博文撞见爸妈接吻",
+        "onboard_time": 1664462246,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 111618,
+        "num": 111618,
+        "word": "越长大越不想爷爷奶奶变老",
+        "onboard_time": 1664446944,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95111,
+        "num": 95111,
+        "word": "为什么会反复爱上同一类人",
+        "onboard_time": 1664441245,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92001,
+        "num": 92001,
+        "word": "国务院联防联控机制召开新闻发布会",
+        "onboard_time": 1664462606,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91861,
+        "num": 91861,
+        "word": "山西算把穿越玩明白了",
+        "onboard_time": 1664460927,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110003,
+        "num": 88587,
+        "word": "朴灿烈退伍后首直播",
+        "onboard_time": 1664455466,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85144,
+        "num": 85144,
+        "word": "万里归途",
+        "onboard_time": 1664458521,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 78456,
+        "num": 78456,
+        "word": "七旬老人3年用座机网购百余次",
+        "onboard_time": 1664449583,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78413,
+        "num": 78413,
+        "word": "黄明昊剧本都写不出的搞笑",
+        "onboard_time": 1664457264,
+        "rank": 23,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 69128,
+        "num": 69128,
+        "word": "吃一包辣条盐分就可能超额摄入",
+        "onboard_time": 1664455344,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 65487,
+        "num": 65487,
+        "word": "肩胛骨疼痛不要乱按摩",
+        "onboard_time": 1664456305,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63323,
+        "num": 63323,
+        "word": "阶段性放宽部分城市首套住房贷款利率下限",
+        "onboard_time": 1664461348,
+        "rank": 26,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 62195,
+        "num": 62195,
+        "word": "俄以国际恐怖主义行为性质调查北溪事件",
+        "onboard_time": 1664442205,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60314,
+        "num": 60314,
+        "word": "会等你上楼梯的小狗",
+        "onboard_time": 1664451025,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 59896,
+        "num": 59896,
+        "word": "点读机女孩保研中传",
+        "onboard_time": 1664447303,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62411,
+        "num": 59575,
+        "word": "虞书欣虞美人失恋一年后还爱着他",
+        "onboard_time": 1664447964,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 61400,
+        "num": 59296,
+        "word": "袖手旁观",
+        "onboard_time": 1664459065,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58323,
+        "num": 58323,
+        "word": "男子切柚子切掉一半才见果肉",
+        "onboard_time": 1664441903,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49892,
+        "num": 49892,
+        "word": "网购平价蛋糕有多绝",
+        "onboard_time": 1664449222,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 49687,
+        "num": 49687,
+        "word": "2人吵架将行李箱扔进铁轨致晚点",
+        "onboard_time": 1664441424,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47926,
+        "num": 47926,
+        "word": "改编悬疑剧的还原度可以有多高",
+        "onboard_time": 1664463985,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 47245,
+        "num": 47245,
+        "word": "LBL",
+        "onboard_time": 1664447904,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 46836,
+        "num": 46836,
+        "word": "社恐猫咪见生人躲进水池藏起耳朵",
+        "onboard_time": 1664450964,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43123,
+        "num": 43123,
+        "word": "吴建豪说刘雨昕的美甲像被门夹了",
+        "onboard_time": 1664442683,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42534,
+        "num": 42534,
+        "word": "暖阳WB双向奔赴",
+        "onboard_time": 1664463631,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 41492,
+        "num": 41492,
+        "word": "中国女篮半决赛对阵澳大利亚",
+        "onboard_time": 1664454446,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77265,
+        "num": 41288,
+        "word": "全红婵看周深直播唱歌",
+        "onboard_time": 1664460205,
+        "rank": 41,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 40960,
+        "num": 40960,
+        "word": "去草原赴一场最美婚礼",
+        "onboard_time": 1664463266,
+        "rank": 42,
+        "category": "旅游,情感"
+      },
+      {
+        "raw_hot": 39540,
+        "num": 39540,
+        "word": "万里归途预售总票房破3000万",
+        "onboard_time": 1664463325,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 38942,
+        "num": 38942,
+        "word": "集中或居家隔离时不得采取外锁门方式",
+        "onboard_time": 1664444785,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34545,
+        "num": 34545,
+        "word": "进返京人员须持阴性证明返岗",
+        "onboard_time": 1664450426,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31769,
+        "num": 31769,
+        "word": "医生给剪破的气球缝针后吹了起来",
+        "onboard_time": 1664470938,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30597,
+        "num": 30597,
+        "word": "王大伟搞假结婚欺骗组织",
+        "onboard_time": 1664453607,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29242,
+        "num": 29242,
+        "word": "废弃花盆如何养鲸鱼",
+        "onboard_time": 1664459006,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27550,
+        "num": 27550,
+        "word": "每天走多少步比较好",
+        "onboard_time": 1664457084,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#掌握历史主动凝聚奋进伟力#"
+    }
+  }
+}
