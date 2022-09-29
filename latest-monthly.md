@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/29 14:13:20
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/29 14:38:46
 </p>
 </blockquote>
 <p>
@@ -3297,6 +3297,12 @@ B站诉争哔哩哔哩商标被驳回（热度：1518132）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%BA%AA%E6%B3%84%E6%BC%8F%E6%88%96%E8%87%B4%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E6%B8%A9%E5%AE%A4%E6%B0%94%E4%BD%93%E6%8E%92%E6%94%BE%23" target="weibo">
+北溪泄漏或致史上最大温室气体排放（热度：1481884）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%B8%96%E5%8B%8B%E4%B8%BA%E5%BC%A0%E8%89%BA%E5%85%B4%E6%96%B0%E6%AD%8C%E9%9D%A2%E7%BA%B1%E6%89%93call%23" target="weibo">
 吴世勋为张艺兴新歌面纱打call（热度：1479557）
 </a>
@@ -4643,12 +4649,6 @@ Twins不承认吴谨言的粤语是自己教的（热度：1255504）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AD%8F%E6%99%A8%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%8F%91%E6%96%87%E5%9B%9E%E5%BA%94%23" target="weibo">
 魏晨工作室发文回应（热度：1219253）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%BA%AA%E6%B3%84%E6%BC%8F%E6%88%96%E8%87%B4%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E6%B8%A9%E5%AE%A4%E6%B0%94%E4%BD%93%E6%8E%92%E6%94%BE%23" target="weibo">
-北溪泄漏或致史上最大温室气体排放（热度：1219239）
 </a>
 </li>
 

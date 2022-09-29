@@ -1,6 +1,6 @@
 {
   "startTime": 1664383235790,
-  "endTime": 1664432000702,
+  "endTime": 1664433526184,
   "band_list": [
     {
       "raw_hot": 3706669,
@@ -19,6 +19,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1481884,
+      "num": 1481884,
+      "word": "北溪泄漏或致史上最大温室气体排放",
+      "onboard_time": 1664428646,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1378659,
       "num": 1378659,
       "word": "真的不建议饭后立刻洗澡",
@@ -32,14 +40,6 @@
       "word": "10月1日下架所有水果味电子烟",
       "onboard_time": 1664424564,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1219239,
-      "num": 1219239,
-      "word": "北溪泄漏或致史上最大温室气体排放",
-      "onboard_time": 1664428646,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -73,6 +73,14 @@
       "onboard_time": 1664377404,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 922407,
+      "num": 922407,
+      "word": "才知道大学老师有多厉害",
+      "onboard_time": 1664429724,
+      "rank": 6,
+      "category": "情感"
     },
     {
       "raw_hot": 677745,
@@ -155,6 +163,14 @@
       "category": "幽默,教育"
     },
     {
+      "raw_hot": 465241,
+      "num": 272882,
+      "word": "Angelababy林涧双姝国风大片",
+      "onboard_time": 1664431525,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 462160,
       "num": 462160,
       "word": "江苏一中学起薪40万招聘教师",
@@ -187,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 420111,
+      "num": 242645,
+      "word": "俄罗斯选手发布会暴打美国选手",
+      "onboard_time": 1664430803,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 419229,
       "num": 419229,
       "word": "俄喊话拜登回答北溪管道事故",
@@ -217,14 +241,6 @@
       "onboard_time": 1664370624,
       "rank": 14,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 397076,
-      "num": 397076,
-      "word": "才知道大学老师有多厉害",
-      "onboard_time": 1664429724,
-      "rank": 6,
-      "category": "情感"
     },
     {
       "raw_hot": 370021,
@@ -315,14 +331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 298292,
-      "num": 272882,
-      "word": "Angelababy林涧双姝国风大片",
-      "onboard_time": 1664431525,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 295545,
       "num": 295545,
       "word": "国庆小客车高速免费但需一车一杆",
@@ -345,6 +353,14 @@
       "onboard_time": 1664422645,
       "rank": 18,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 289795,
+      "num": 289795,
+      "word": "披荆斩棘",
+      "onboard_time": 1664431404,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 289180,
@@ -377,14 +393,6 @@
       "onboard_time": 1664396771,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 269733,
-      "num": 269733,
-      "word": "披荆斩棘",
-      "onboard_time": 1664431404,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 260812,
@@ -491,6 +499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197119,
+      "num": 169787,
+      "word": "你对大宋少年志2有什么期待",
+      "onboard_time": 1664432904,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 195210,
       "num": 195210,
       "word": "老年大学家长会女儿发表鸡妈式演讲",
@@ -529,14 +545,6 @@
       "onboard_time": 1664407460,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 177496,
-      "num": 177496,
-      "word": "俄罗斯选手发布会暴打美国选手",
-      "onboard_time": 1664430803,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 173903,
@@ -611,6 +619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 146330,
+      "num": 146330,
+      "word": "这是任嘉伦李沁请君番外吧",
+      "onboard_time": 1664429903,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 142323,
       "num": 142323,
       "word": "从鱼到人演化过程需近5亿年",
@@ -659,14 +675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 133177,
-      "num": 133177,
-      "word": "这是任嘉伦李沁请君番外吧",
-      "onboard_time": 1664429903,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 129786,
       "num": 129786,
       "word": "网传实用主义者的爱情暂定赵丽颖龚俊",
@@ -688,6 +696,14 @@
       "word": "画在墙上的火车开进了现实",
       "onboard_time": 1664365885,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122483,
+      "num": 122483,
+      "word": "河南最会卖辣椒的县城年销100亿",
+      "onboard_time": 1664432122,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -731,6 +747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 116232,
+      "num": 116232,
+      "word": "丈夫38周温暖记录孕妻细微变化",
+      "onboard_time": 1664429543,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113615,
       "num": 113615,
       "word": "黄礼志校庆舞台视频",
@@ -771,8 +795,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 106198,
-      "num": 106198,
+      "raw_hot": 109404,
+      "num": 109404,
       "word": "缉毒英雄生命最后时刻将佩枪交给战友",
       "onboard_time": 1664427327,
       "rank": 42,
@@ -827,12 +851,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95886,
+      "num": 95886,
+      "word": "运油20给两架歼20空中加油视频",
+      "onboard_time": 1664432784,
+      "rank": 32,
+      "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 94086,
+      "num": 94086,
+      "word": "电子烟产生的二手烟也是有害气体",
+      "onboard_time": 1664430144,
+      "rank": 46,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 93629,
       "num": 93629,
       "word": "昆仑神宫",
       "onboard_time": 1664374284,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 92241,
+      "num": 92241,
+      "word": "国庆假期南方多地迎高温",
+      "onboard_time": 1664432845,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92137,
@@ -849,14 +897,6 @@
       "onboard_time": 1664386094,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 90978,
-      "num": 90978,
-      "word": "丈夫38周温暖记录孕妻细微变化",
-      "onboard_time": 1664429543,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 85707,
@@ -897,6 +937,14 @@
       "onboard_time": 1664365944,
       "rank": 31,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 79657,
+      "num": 79657,
+      "word": "哪种恋爱状态是你最喜欢的",
+      "onboard_time": 1664433143,
+      "rank": 40,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 79487,
@@ -955,12 +1003,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 67331,
-      "num": 67331,
-      "word": "电子烟产生的二手烟也是有害气体",
-      "onboard_time": 1664430144,
+      "raw_hot": 65069,
+      "num": 65069,
+      "word": "谁动了北溪",
+      "onboard_time": 1664433383,
       "rank": 46,
-      "category": "社会新闻,科技"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 62648,
@@ -1059,6 +1107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 32702,
+      "num": 249799,
+      "word": "12名司机接力照顾尿毒症老人2年",
+      "onboard_time": 1664431284,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31057,
       "num": 31057,
       "word": "赛博朋克边缘行者",
@@ -1097,14 +1153,6 @@
       "onboard_time": 1664391492,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 12611,
-      "num": 249799,
-      "word": "12名司机接力照顾尿毒症老人2年",
-      "onboard_time": 1664431284,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12606,
