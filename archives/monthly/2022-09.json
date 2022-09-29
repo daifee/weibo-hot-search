@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1664466511836,
+  "endTime": 1664469545657,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -993,6 +993,14 @@
       "onboard_time": 1662981639,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2847507,
+      "num": 2847507,
+      "word": "英国女王死因确认",
+      "onboard_time": 1664464945,
+      "rank": 23,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 2845882,
@@ -3313,14 +3321,6 @@
       "onboard_time": 1663841428,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1726454,
-      "num": 1726454,
-      "word": "英国女王死因确认",
-      "onboard_time": 1664464945,
-      "rank": 23,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1724725,
@@ -37491,6 +37491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 232796,
+      "num": 203010,
+      "word": "保时捷在德国上市",
+      "onboard_time": 1664467105,
+      "rank": 12,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 232725,
       "num": 232725,
       "word": "肇庆再现卧佛含丹天象奇观",
@@ -38257,6 +38265,14 @@
       "onboard_time": 1662034170,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 225977,
+      "num": 225977,
+      "word": "研究称肥胖是神经发育问题",
+      "onboard_time": 1664467644,
+      "rank": 7,
+      "category": "其它"
     },
     {
       "raw_hot": 225752,
@@ -49971,6 +49987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 129861,
+      "num": 129861,
+      "word": "国庆放假前的我",
+      "onboard_time": 1664462485,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 129847,
       "num": 123591,
       "word": "张杰分享录音棚vlog",
@@ -50609,6 +50633,14 @@
       "onboard_time": 1662544769,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124421,
+      "num": 121246,
+      "word": "周博文撞见爸妈接吻",
+      "onboard_time": 1664462246,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 124333,
@@ -55648,6 +55680,14 @@
       "word": "聚焦2022年国家网络安全宣传周",
       "onboard_time": 1662447567,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36647,
+      "num": 40287,
+      "word": "10月天象预告来了",
+      "onboard_time": 1664466685,
+      "rank": 49,
       "category": "社会新闻"
     },
     {

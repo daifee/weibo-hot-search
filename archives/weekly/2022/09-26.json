@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664466511836,
+  "endTime": 1664469545657,
   "band_list": [
     {
       "raw_hot": 4711055,
@@ -41,6 +41,14 @@
       "onboard_time": 1664329343,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2847507,
+      "num": 2847507,
+      "word": "英国女王死因确认",
+      "onboard_time": 1664464945,
+      "rank": 23,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 2803005,
@@ -241,14 +249,6 @@
       "onboard_time": 1664445264,
       "rank": 10,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 1726454,
-      "num": 1726454,
-      "word": "英国女王死因确认",
-      "onboard_time": 1664464945,
-      "rank": 23,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1720648,
@@ -3683,6 +3683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 232796,
+      "num": 203010,
+      "word": "保时捷在德国上市",
+      "onboard_time": 1664467105,
+      "rank": 12,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 232404,
       "num": 232404,
       "word": "长空之王双人海报",
@@ -3809,6 +3817,14 @@
       "onboard_time": 1664415984,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225977,
+      "num": 225977,
+      "word": "研究称肥胖是神经发育问题",
+      "onboard_time": 1664467644,
+      "rank": 7,
+      "category": "其它"
     },
     {
       "raw_hot": 225578,
@@ -5675,6 +5691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 129861,
+      "num": 129861,
+      "word": "国庆放假前的我",
+      "onboard_time": 1664462485,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 129847,
       "num": 123591,
       "word": "张杰分享录音棚vlog",
@@ -5841,6 +5865,14 @@
       "onboard_time": 1664288006,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124421,
+      "num": 121246,
+      "word": "周博文撞见爸妈接吻",
+      "onboard_time": 1664462246,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 123432,
@@ -7232,6 +7264,14 @@
       "word": "中央网信办开展网络辟谣标签工作",
       "onboard_time": 1664461047,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36647,
+      "num": 40287,
+      "word": "10月天象预告来了",
+      "onboard_time": 1664466685,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
