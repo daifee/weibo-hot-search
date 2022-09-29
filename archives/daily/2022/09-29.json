@@ -1,6 +1,6 @@
 {
   "startTime": 1664383235790,
-  "endTime": 1664465327082,
+  "endTime": 1664466511836,
   "band_list": [
     {
       "raw_hot": 3706669,
@@ -41,6 +41,14 @@
       "onboard_time": 1664445264,
       "rank": 10,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 1726454,
+      "num": 1726454,
+      "word": "英国女王死因确认",
+      "onboard_time": 1664464945,
+      "rank": 23,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1481884,
@@ -163,6 +171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 912741,
+      "num": 694259,
+      "word": "女子沉迷羊了个羊丈夫报警求助",
+      "onboard_time": 1664463566,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 836542,
       "num": 836542,
       "word": "中国女篮vs法国女篮",
@@ -209,6 +225,14 @@
       "onboard_time": 1664421386,
       "rank": 43,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 653680,
+      "num": 308517,
+      "word": "甄嬛在这个班也当不了班长",
+      "onboard_time": 1664463868,
+      "rank": 11,
+      "category": "幽默,影视"
     },
     {
       "raw_hot": 639579,
@@ -273,14 +297,6 @@
       "onboard_time": 1664414002,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 567794,
-      "num": 289932,
-      "word": "甄嬛在这个班也当不了班长",
-      "onboard_time": 1664463868,
-      "rank": 11,
-      "category": "幽默,影视"
     },
     {
       "raw_hot": 550038,
@@ -385,14 +401,6 @@
       "onboard_time": 1664374524,
       "rank": 4,
       "category": "幽默,教育"
-    },
-    {
-      "raw_hot": 482248,
-      "num": 482248,
-      "word": "女子沉迷羊了个羊丈夫报警求助",
-      "onboard_time": 1664463566,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 479565,
@@ -668,7 +676,7 @@
     },
     {
       "raw_hot": 329987,
-      "num": 270155,
+      "num": 309721,
       "word": "李庚希把我演哭了",
       "onboard_time": 1664463868,
       "rank": 13,
@@ -891,6 +899,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 249512,
+      "num": 249512,
+      "word": "山西算把穿越玩明白了",
+      "onboard_time": 1664460927,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247668,
       "num": 247668,
       "word": "站着生气的仓鼠",
@@ -929,14 +945,6 @@
       "onboard_time": 1664455344,
       "rank": 43,
       "category": "美食"
-    },
-    {
-      "raw_hot": 235437,
-      "num": 164637,
-      "word": "英国女王死因确认",
-      "onboard_time": 1664464945,
-      "rank": 23,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 234045,
@@ -1041,14 +1049,6 @@
       "onboard_time": 1664448742,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 212207,
-      "num": 212207,
-      "word": "山西算把穿越玩明白了",
-      "onboard_time": 1664460927,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 210327,
@@ -1907,6 +1907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 75864,
+      "num": 696751,
+      "word": "网络辟谣我们一起行动",
+      "onboard_time": 1664462005,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 75389,
       "num": 75389,
       "word": "昆明本轮疫情传播链条基本清晰",
@@ -1929,14 +1937,6 @@
       "onboard_time": 1664359283,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 74493,
-      "num": 556260,
-      "word": "网络辟谣我们一起行动",
-      "onboard_time": 1664462005,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 71249,
@@ -2115,20 +2115,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31926,
+      "num": 264092,
+      "word": "南昌有条方志敏大道",
+      "onboard_time": 1664463631,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31057,
       "num": 31057,
       "word": "赛博朋克边缘行者",
       "onboard_time": 1664384476,
       "rank": 48,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 29975,
-      "num": 264092,
-      "word": "南昌有条方志敏大道",
-      "onboard_time": 1664463631,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29962,
