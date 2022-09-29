@@ -1,6 +1,6 @@
 {
   "startTime": 1664383235790,
-  "endTime": 1664450513554,
+  "endTime": 1664451644592,
   "band_list": [
     {
       "raw_hot": 3706669,
@@ -35,8 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1539023,
-      "num": 357972,
+      "raw_hot": 1707295,
+      "num": 576857,
       "word": "张若昀父亲有钱不还又成老赖",
       "onboard_time": 1664445264,
       "rank": 10,
@@ -75,6 +75,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1181048,
+      "num": 368904,
+      "word": "羽生结弦",
+      "onboard_time": 1664450244,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1162312,
       "num": 1162312,
       "word": "老师发现6年级孩子看言情成风气",
@@ -96,6 +104,14 @@
       "word": "女子为玩羊了个羊看广告被骗9万元",
       "onboard_time": 1664364142,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 957354,
+      "num": 957354,
+      "word": "点读机女孩保研中传",
+      "onboard_time": 1664447303,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -211,12 +227,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 539708,
-      "num": 539708,
-      "word": "点读机女孩保研中传",
-      "onboard_time": 1664447303,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 531370,
+      "num": 531370,
+      "word": "网购平价蛋糕有多绝",
+      "onboard_time": 1664449222,
+      "rank": 12,
+      "category": "美食"
     },
     {
       "raw_hot": 529817,
@@ -233,6 +249,14 @@
       "onboard_time": 1664417064,
       "rank": 11,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 523726,
+      "num": 523726,
+      "word": "虞书欣虞美人失恋一年后还爱着他",
+      "onboard_time": 1664447964,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 511824,
@@ -257,14 +281,6 @@
       "onboard_time": 1664436325,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 500851,
-      "num": 500851,
-      "word": "虞书欣虞美人失恋一年后还爱着他",
-      "onboard_time": 1664447964,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 495178,
@@ -305,6 +321,14 @@
       "onboard_time": 1664439624,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 470057,
+      "num": 361071,
+      "word": "刘亦菲虎扑女神双冠军",
+      "onboard_time": 1664451445,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 466145,
@@ -435,6 +459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 375096,
+      "num": 375096,
+      "word": "LBL",
+      "onboard_time": 1664447904,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 370021,
       "num": 370021,
       "word": "张新成周雨彤新剧二搭",
@@ -457,14 +489,6 @@
       "onboard_time": 1664444785,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 358406,
-      "num": 358406,
-      "word": "LBL",
-      "onboard_time": 1664447904,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 356812,
@@ -497,14 +521,6 @@
       "onboard_time": 1664420123,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 342198,
-      "num": 342198,
-      "word": "网购平价蛋糕有多绝",
-      "onboard_time": 1664449222,
-      "rank": 12,
-      "category": "美食"
     },
     {
       "raw_hot": 333325,
@@ -552,6 +568,14 @@
       "word": "4万买下周大福25万金饰被起诉",
       "onboard_time": 1664359644,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 304621,
+      "num": 304621,
+      "word": "七旬老人3年用座机网购百余次",
+      "onboard_time": 1664449583,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -643,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 266363,
+      "num": 266363,
+      "word": "教育局通报配餐公司厨具遍布蛆虫",
+      "onboard_time": 1664449944,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262949,
       "num": 262949,
       "word": "河北保定莲池区发现6名初筛阳性",
@@ -715,12 +747,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 234987,
-      "num": 234987,
-      "word": "羽生结弦",
-      "onboard_time": 1664450244,
-      "rank": 20,
-      "category": "体育"
+      "raw_hot": 234045,
+      "num": 234045,
+      "word": "两个人的小森林",
+      "onboard_time": 1664451505,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 232055,
@@ -795,6 +827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 210327,
+      "num": 210327,
+      "word": "终于轮到虞美人虐庄羽了",
+      "onboard_time": 1664450484,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 208750,
       "num": 208750,
       "word": "司机一个横停为幼童挡住货车",
@@ -859,14 +899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 194612,
-      "num": 90685,
-      "word": "终于轮到虞美人虐庄羽了",
-      "onboard_time": 1664450484,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 191700,
       "num": 191700,
       "word": "StrayKids新专辑预售量突破224万张",
@@ -883,20 +915,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 190861,
+      "num": 174867,
+      "word": "金晨王安宇直播状态",
+      "onboard_time": 1664451445,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 185343,
       "num": 185343,
       "word": "这个动画是有点舒适在的",
       "onboard_time": 1664426485,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 183374,
-      "num": 183374,
-      "word": "七旬老人3年用座机网购百余次",
-      "onboard_time": 1664449583,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 182549,
@@ -1083,6 +1115,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 142514,
+      "num": 142514,
+      "word": "进返京人员须持阴性证明返岗",
+      "onboard_time": 1664450426,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142323,
       "num": 142323,
       "word": "从鱼到人演化过程需近5亿年",
@@ -1131,6 +1171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134867,
+      "num": 134867,
+      "word": "我们的歌第二期预告",
+      "onboard_time": 1664449644,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133411,
       "num": 133411,
       "word": "货车拉一车斗的奥特曼被交警拦下",
@@ -1155,6 +1203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 129693,
+      "num": 129693,
+      "word": "武磊回归中超首球",
+      "onboard_time": 1664448085,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126884,
       "num": 126884,
       "word": "原来打理刘海一点儿也不难",
@@ -1169,14 +1225,6 @@
       "onboard_time": 1664417602,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 125006,
-      "num": 125006,
-      "word": "武磊回归中超首球",
-      "onboard_time": 1664448085,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 123432,
@@ -1201,14 +1249,6 @@
       "onboard_time": 1664432122,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 121283,
-      "num": 121283,
-      "word": "我们的歌第二期预告",
-      "onboard_time": 1664449644,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 120316,
@@ -1307,6 +1347,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 110493,
+      "num": 110493,
+      "word": "会等你上楼梯的小狗",
+      "onboard_time": 1664451025,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 110346,
+      "num": 110346,
+      "word": "社恐猫咪见生人躲进水池藏起耳朵",
+      "onboard_time": 1664450964,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110285,
       "num": 110285,
       "word": "唐朝诡事录六集一个大案",
@@ -1363,6 +1419,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 101036,
+      "num": 101036,
+      "word": "这难道是学外语的通病吗",
+      "onboard_time": 1664451326,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 100319,
       "num": 100319,
       "word": "四川大学126周年",
@@ -1379,14 +1443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 98230,
-      "num": 98230,
-      "word": "进返京人员须持阴性证明返岗",
-      "onboard_time": 1664450426,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 97127,
       "num": 97127,
       "word": "赵露思田枣胡同工作日记vlog",
@@ -1400,14 +1456,6 @@
       "word": "应急管理部派工作组赶赴长春火灾现场",
       "onboard_time": 1664381120,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 96152,
-      "num": 96152,
-      "word": "教育局通报配餐公司厨具遍布蛆虫",
-      "onboard_time": 1664449944,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1755,6 +1803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 25785,
+      "num": 300733,
+      "word": "捐献者配型成功称感觉像中奖",
+      "onboard_time": 1664449222,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17870,
       "num": 17870,
       "word": "接梗还得是看大张伟",
@@ -1769,14 +1825,6 @@
       "onboard_time": 1664388312,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 16125,
-      "num": 269781,
-      "word": "捐献者配型成功称感觉像中奖",
-      "onboard_time": 1664449222,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13990,

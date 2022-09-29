@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664450513554,
+  "endTime": 1664451644592,
   "band_list": [
     {
       "raw_hot": 4711055,
@@ -243,6 +243,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1707295,
+      "num": 576857,
+      "word": "张若昀父亲有钱不还又成老赖",
+      "onboard_time": 1664445264,
+      "rank": 10,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 1640857,
       "num": 522691,
       "word": "韩剧",
@@ -297,14 +305,6 @@
       "onboard_time": 1664238686,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1539023,
-      "num": 357972,
-      "word": "张若昀父亲有钱不还又成老赖",
-      "onboard_time": 1664445264,
-      "rank": 10,
-      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 1517045,
@@ -491,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1181048,
+      "num": 368904,
+      "word": "羽生结弦",
+      "onboard_time": 1664450244,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1172164,
       "num": 1172164,
       "word": "杨笠你现在理解我了",
@@ -624,6 +632,14 @@
       "word": "花5万元请人直播带货只卖出36元",
       "onboard_time": 1664294663,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 957354,
+      "num": 957354,
+      "word": "点读机女孩保研中传",
+      "onboard_time": 1664447303,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1355,14 +1371,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 539708,
-      "num": 539708,
-      "word": "点读机女孩保研中传",
-      "onboard_time": 1664447303,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 539433,
       "num": 539433,
       "word": "弈星滕王阁序",
@@ -1425,6 +1433,14 @@
       "onboard_time": 1664352382,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 531370,
+      "num": 531370,
+      "word": "网购平价蛋糕有多绝",
+      "onboard_time": 1664449222,
+      "rank": 12,
+      "category": "美食"
     },
     {
       "raw_hot": 529910,
@@ -1497,6 +1513,14 @@
       "onboard_time": 1664198428,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 523726,
+      "num": 523726,
+      "word": "虞书欣虞美人失恋一年后还爱着他",
+      "onboard_time": 1664447964,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 516318,
@@ -1585,14 +1609,6 @@
       "onboard_time": 1664166152,
       "rank": 18,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 500851,
-      "num": 500851,
-      "word": "虞书欣虞美人失恋一年后还爱着他",
-      "onboard_time": 1664447964,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 499405,
@@ -1769,6 +1785,14 @@
       "onboard_time": 1664251106,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 470057,
+      "num": 361071,
+      "word": "刘亦菲虎扑女神双冠军",
+      "onboard_time": 1664451445,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 469772,
@@ -2323,6 +2347,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 375096,
+      "num": 375096,
+      "word": "LBL",
+      "onboard_time": 1664447904,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 372782,
       "num": 306896,
       "word": "男观众说见王俊凯一次哭一次",
@@ -2401,14 +2433,6 @@
       "onboard_time": 1664347763,
       "rank": 12,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 358406,
-      "num": 358406,
-      "word": "LBL",
-      "onboard_time": 1664447904,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 356812,
@@ -2497,14 +2521,6 @@
       "onboard_time": 1664180784,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 342198,
-      "num": 342198,
-      "word": "网购平价蛋糕有多绝",
-      "onboard_time": 1664449222,
-      "rank": 12,
-      "category": "美食"
     },
     {
       "raw_hot": 339681,
@@ -2672,6 +2688,14 @@
       "word": "00后女生用非遗竹编做连衣裙获大奖",
       "onboard_time": 1664159302,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 304621,
+      "num": 304621,
+      "word": "七旬老人3年用座机网购百余次",
+      "onboard_time": 1664449583,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -3051,6 +3075,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 266363,
+      "num": 266363,
+      "word": "教育局通报配餐公司厨具遍布蛆虫",
+      "onboard_time": 1664449944,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265895,
       "num": 205199,
       "word": "王俊凯现场清唱星星点灯",
@@ -3425,14 +3457,6 @@
       "onboard_time": 1664161466,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 234987,
-      "num": 234987,
-      "word": "羽生结弦",
-      "onboard_time": 1664450244,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 234012,
@@ -3851,6 +3875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210327,
+      "num": 210327,
+      "word": "终于轮到虞美人虐庄羽了",
+      "onboard_time": 1664450484,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 210229,
       "num": 210229,
       "word": "张晚意发文告别玱玹",
@@ -4083,14 +4115,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 194612,
-      "num": 90685,
-      "word": "终于轮到虞美人虐庄羽了",
-      "onboard_time": 1664450484,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 194366,
       "num": 194366,
       "word": "中国航天2天2连发",
@@ -4153,6 +4177,14 @@
       "onboard_time": 1664337686,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190861,
+      "num": 174867,
+      "word": "金晨王安宇直播状态",
+      "onboard_time": 1664451445,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 190678,
@@ -4248,14 +4280,6 @@
       "word": "阜阳疫情防控",
       "onboard_time": 1664331983,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 183374,
-      "num": 183374,
-      "word": "七旬老人3年用座机网购百余次",
-      "onboard_time": 1664449583,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -5123,6 +5147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142514,
+      "num": 142514,
+      "word": "进返京人员须持阴性证明返岗",
+      "onboard_time": 1664450426,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142323,
       "num": 142323,
       "word": "从鱼到人演化过程需近5亿年",
@@ -5291,6 +5323,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 134867,
+      "num": 134867,
+      "word": "我们的歌第二期预告",
+      "onboard_time": 1664449644,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133715,
       "num": 133715,
       "word": "没有一个动作表情是多余的",
@@ -5377,6 +5417,14 @@
       "onboard_time": 1664434404,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 129693,
+      "num": 129693,
+      "word": "武磊回归中超首球",
+      "onboard_time": 1664448085,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 129125,
@@ -5523,14 +5571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 125006,
-      "num": 125006,
-      "word": "武磊回归中超首球",
-      "onboard_time": 1664448085,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 124995,
       "num": 124995,
       "word": "昕雯联播解说成都世乒赛",
@@ -5625,14 +5665,6 @@
       "onboard_time": 1664275346,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 121283,
-      "num": 121283,
-      "word": "我们的歌第二期预告",
-      "onboard_time": 1664449644,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 120829,
@@ -5851,6 +5883,22 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 110493,
+      "num": 110493,
+      "word": "会等你上楼梯的小狗",
+      "onboard_time": 1664451025,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 110346,
+      "num": 110346,
+      "word": "社恐猫咪见生人躲进水池藏起耳朵",
+      "onboard_time": 1664450964,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110160,
       "num": 110160,
       "word": "北京的枫叶红了",
@@ -6011,6 +6059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 101036,
+      "num": 101036,
+      "word": "这难道是学外语的通病吗",
+      "onboard_time": 1664451326,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 100962,
       "num": 100962,
       "word": "书法成为一级学科为何引发热议",
@@ -6075,14 +6131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 98230,
-      "num": 98230,
-      "word": "进返京人员须持阴性证明返岗",
-      "onboard_time": 1664450426,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 98026,
       "num": 104008,
       "word": "圈粉燃油党的电动车",
@@ -6113,14 +6161,6 @@
       "onboard_time": 1664104164,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 96152,
-      "num": 96152,
-      "word": "教育局通报配餐公司厨具遍布蛆虫",
-      "onboard_time": 1664449944,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 96062,
@@ -6947,6 +6987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25785,
+      "num": 300733,
+      "word": "捐献者配型成功称感觉像中奖",
+      "onboard_time": 1664449222,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24332,
       "num": 24332,
       "word": "被无人机表演惊艳到了",
@@ -7040,14 +7088,6 @@
       "word": "太空视角看丰收有多美",
       "onboard_time": 1664013324,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16125,
-      "num": 269781,
-      "word": "捐献者配型成功称感觉像中奖",
-      "onboard_time": 1664449222,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
