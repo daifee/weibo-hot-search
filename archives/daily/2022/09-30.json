@@ -1,6 +1,6 @@
 {
   "startTime": 1664469545657,
-  "endTime": 1664474124845,
+  "endTime": 1664476432889,
   "band_list": [
     {
       "raw_hot": 2847507,
@@ -211,6 +211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 113474,
+      "num": 64077,
+      "word": "黄牛回收片仔癀最低仅400元",
+      "onboard_time": 1664472077,
+      "rank": 34,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 108731,
       "num": 83148,
       "word": "医生给剪破的气球缝针后吹了起来",
@@ -291,14 +299,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 75288,
-      "num": 64077,
-      "word": "黄牛回收片仔癀最低仅400元",
-      "onboard_time": 1664472077,
-      "rank": 34,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 71588,
       "num": 71588,
       "word": "会等你上楼梯的小狗",
@@ -329,6 +329,14 @@
       "onboard_time": 1664463631,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 62385,
+      "num": 39127,
+      "word": "狗狗被忘服务站主人开40公里接回",
+      "onboard_time": 1664472856,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 62092,
@@ -427,12 +435,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28822,
-      "num": 28822,
-      "word": "狗狗被忘服务站主人开40公里接回",
-      "onboard_time": 1664472856,
-      "rank": 49,
+      "raw_hot": 36566,
+      "num": 36566,
+      "word": "一条plog告别九月",
+      "onboard_time": 1664474472,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 32850,
+      "num": 32850,
+      "word": "情侣醉酒一言不合双双跳桥",
+      "onboard_time": 1664474054,
+      "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25410,
+      "num": 25410,
+      "word": "周深唱余情梦回苍兰诀",
+      "onboard_time": 1664471537,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 14623,
+      "num": 14623,
+      "word": "昆仑神宫",
+      "onboard_time": 1664475493,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 14091,
