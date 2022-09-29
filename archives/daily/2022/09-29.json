@@ -1,6 +1,6 @@
 {
   "startTime": 1664383235790,
-  "endTime": 1664460459069,
+  "endTime": 1664461952542,
   "band_list": [
     {
       "raw_hot": 3706669,
@@ -115,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1048751,
+      "num": 1048751,
+      "word": "殡葬行业工作者不敢和别人一起过年",
+      "onboard_time": 1664455947,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1000759,
       "num": 569053,
       "word": "女子为玩羊了个羊看广告被骗9万元",
@@ -161,14 +169,6 @@
       "onboard_time": 1664438905,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 832556,
-      "num": 832556,
-      "word": "殡葬行业工作者不敢和别人一起过年",
-      "onboard_time": 1664455947,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 827676,
@@ -451,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 419784,
+      "num": 419784,
+      "word": "北溪管道漏气速度未见放缓",
+      "onboard_time": 1664458704,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 419229,
       "num": 419229,
       "word": "俄喊话拜登回答北溪管道事故",
@@ -467,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 412782,
+      "num": 175745,
+      "word": "全红婵看周深直播唱歌",
+      "onboard_time": 1664460205,
+      "rank": 21,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 411814,
       "num": 411814,
       "word": "日本女排主帅称输在中国队身高上",
@@ -481,6 +497,14 @@
       "onboard_time": 1664441245,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 409538,
+      "num": 409538,
+      "word": "袖手旁观",
+      "onboard_time": 1664459065,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 407524,
@@ -699,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 298424,
+      "num": 207985,
+      "word": "阶段性放宽部分城市首套住房贷款利率下限",
+      "onboard_time": 1664461348,
+      "rank": 15,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 295545,
       "num": 295545,
       "word": "国庆小客车高速免费但需一车一杆",
@@ -739,28 +771,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 288303,
-      "num": 288303,
-      "word": "袖手旁观",
-      "onboard_time": 1664459065,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 285375,
       "num": 285375,
       "word": "人民日报任仲平",
       "onboard_time": 1664412808,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 284749,
-      "num": 169954,
-      "word": "全红婵看周深直播唱歌",
-      "onboard_time": 1664460205,
-      "rank": 21,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 281292,
@@ -1043,14 +1059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 194972,
-      "num": 194972,
-      "word": "北溪管道漏气速度未见放缓",
-      "onboard_time": 1664458704,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 191700,
       "num": 191700,
       "word": "StrayKids新专辑预售量突破224万张",
@@ -1097,6 +1105,14 @@
       "onboard_time": 1664440224,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 179562,
+      "num": 179562,
+      "word": "每天走多少步比较好",
+      "onboard_time": 1664457084,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179370,
@@ -1163,6 +1179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165580,
+      "num": 130725,
+      "word": "炽道滤镜",
+      "onboard_time": 1664460566,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 162615,
       "num": 162615,
       "word": "会等你上楼梯的小狗",
@@ -1225,14 +1249,6 @@
       "onboard_time": 1664439084,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 154802,
-      "num": 154802,
-      "word": "每天走多少步比较好",
-      "onboard_time": 1664457084,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 153917,
@@ -1395,6 +1411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127272,
+      "num": 127272,
+      "word": "废弃花盆如何养鲸鱼",
+      "onboard_time": 1664459006,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 126884,
       "num": 126884,
       "word": "原来打理刘海一点儿也不难",
@@ -1475,6 +1499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 116934,
+      "num": 116934,
+      "word": "山西算把穿越玩明白了",
+      "onboard_time": 1664460927,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116401,
       "num": 116401,
       "word": "花海签的是eStar",
@@ -1513,14 +1545,6 @@
       "onboard_time": 1664411727,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 112404,
-      "num": 112404,
-      "word": "废弃花盆如何养鲸鱼",
-      "onboard_time": 1664459006,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 112251,
@@ -1617,6 +1641,14 @@
       "onboard_time": 1664379143,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99348,
+      "num": 99348,
+      "word": "大连人1比2上海申花",
+      "onboard_time": 1664460385,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 97127,
@@ -1787,6 +1819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 76105,
+      "num": 76105,
+      "word": "女子救流浪猫持续半年收到报恩礼",
+      "onboard_time": 1664461586,
+      "rank": 47,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 75389,
       "num": 75389,
       "word": "昆明本轮疫情传播链条基本清晰",
@@ -1809,14 +1849,6 @@
       "onboard_time": 1664359283,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 73807,
-      "num": 73807,
-      "word": "大连人1比2上海申花",
-      "onboard_time": 1664460385,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 71249,
@@ -1971,7 +2003,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36051,
+      "raw_hot": 38723,
       "num": 659645,
       "word": "他们以奋斗致敬祖国",
       "onboard_time": 1664457625,
@@ -2015,6 +2047,14 @@
       "num": 300733,
       "word": "捐献者配型成功称感觉像中奖",
       "onboard_time": 1664449222,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24496,
+      "num": 208049,
+      "word": "中央网信办开展网络辟谣标签工作",
+      "onboard_time": 1664461047,
       "rank": 14,
       "category": "社会新闻"
     },
