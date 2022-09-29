@@ -1,6 +1,6 @@
 {
   "startTime": 1664469545657,
-  "endTime": 1664490401633,
+  "endTime": 1664491466887,
   "band_list": [
     {
       "raw_hot": 2847507,
@@ -59,19 +59,35 @@
       "category": "其它"
     },
     {
+      "raw_hot": 340651,
+      "num": 340651,
+      "word": "县委书记为零彩礼低彩礼新人证婚",
+      "onboard_time": 1664477351,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318387,
+      "num": 132318,
+      "word": "江母称多次被刘鑫支持者电话骚扰",
+      "onboard_time": 1664483411,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317334,
+      "num": 317334,
+      "word": "北约同意韩国设立驻北约代表处",
+      "onboard_time": 1664485510,
+      "rank": 22,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 260345,
       "num": 260345,
       "word": "卖鱼西施直播称长得好看没用",
       "onboard_time": 1664453244,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 244358,
-      "num": 244358,
-      "word": "县委书记为零彩礼低彩礼新人证婚",
-      "onboard_time": 1664477351,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -107,12 +123,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 192545,
-      "num": 192545,
-      "word": "北约同意韩国设立驻北约代表处",
-      "onboard_time": 1664485510,
-      "rank": 22,
-      "category": "军事,国外要闻"
+      "raw_hot": 190655,
+      "num": 190655,
+      "word": "国庆放假前的我",
+      "onboard_time": 1664462485,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 188822,
@@ -123,20 +139,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 187797,
-      "num": 86382,
-      "word": "江母称多次被刘鑫支持者电话骚扰",
-      "onboard_time": 1664483411,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 166172,
       "num": 122374,
       "word": "朴灿烈退伍后首直播",
       "onboard_time": 1664455466,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163695,
+      "num": 163695,
+      "word": "办公室不良体态你中招了么",
+      "onboard_time": 1664486351,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 163573,
@@ -163,6 +179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 150655,
+      "num": 131890,
+      "word": "全球首只克隆北极狼亮相哈尔滨",
+      "onboard_time": 1664486711,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145358,
       "num": 145358,
       "word": "越长大越不想爷爷奶奶变老",
@@ -171,12 +195,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 129861,
-      "num": 129861,
-      "word": "国庆放假前的我",
-      "onboard_time": 1664462485,
-      "rank": 17,
-      "category": "情感"
+      "raw_hot": 131399,
+      "num": 131399,
+      "word": "新郎遇保安要烟弃车背新娘走",
+      "onboard_time": 1664477231,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129739,
@@ -236,7 +260,7 @@
     },
     {
       "raw_hot": 113474,
-      "num": 64077,
+      "num": 68929,
       "word": "黄牛回收片仔癀最低仅400元",
       "onboard_time": 1664472077,
       "rank": 34,
@@ -244,7 +268,7 @@
     },
     {
       "raw_hot": 108731,
-      "num": 83148,
+      "num": 108681,
       "word": "医生给剪破的气球缝针后吹了起来",
       "onboard_time": 1664470938,
       "rank": 46,
@@ -259,12 +283,44 @@
       "category": "美食"
     },
     {
+      "raw_hot": 102651,
+      "num": 102651,
+      "word": "情侣醉酒一言不合双双跳桥",
+      "onboard_time": 1664474054,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98309,
+      "num": 98309,
+      "word": "江苏将发超3亿消费券和红包",
+      "onboard_time": 1664488153,
+      "rank": 26,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 90305,
       "num": 90305,
       "word": "肩胛骨疼痛不要乱按摩",
       "onboard_time": 1664456305,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89663,
+      "num": 89663,
+      "word": "韩国一客机起飞滑跑时撞机",
+      "onboard_time": 1664480231,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88962,
+      "num": 88962,
+      "word": "曹广晶被双开",
+      "onboard_time": 1664485212,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 88228,
@@ -275,20 +331,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 86949,
-      "num": 83994,
-      "word": "新郎遇保安要烟弃车背新娘走",
-      "onboard_time": 1664477231,
-      "rank": 47,
+      "raw_hot": 86861,
+      "num": 86861,
+      "word": "狗狗被忘服务站主人开40公里接回",
+      "onboard_time": 1664472856,
+      "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 86513,
-      "num": 86513,
-      "word": "办公室不良体态你中招了么",
-      "onboard_time": 1664486351,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 85317,
@@ -312,14 +360,6 @@
       "word": "点读机女孩保研中传",
       "onboard_time": 1664447303,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 83446,
-      "num": 83446,
-      "word": "全球首只克隆北极狼亮相哈尔滨",
-      "onboard_time": 1664486711,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -355,14 +395,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 68454,
-      "num": 68454,
-      "word": "韩国一客机起飞滑跑时撞机",
-      "onboard_time": 1664480231,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 65021,
       "num": 58561,
       "word": "万里归途预售总票房破3000万",
@@ -387,28 +419,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 62385,
-      "num": 59826,
-      "word": "狗狗被忘服务站主人开40公里接回",
-      "onboard_time": 1664472856,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 62092,
       "num": 62092,
       "word": "中国女篮半决赛对阵澳大利亚",
       "onboard_time": 1664454446,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 61395,
-      "num": 61395,
-      "word": "情侣醉酒一言不合双双跳桥",
-      "onboard_time": 1664474054,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 61045,
@@ -433,14 +449,6 @@
       "onboard_time": 1664447904,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 57376,
-      "num": 57376,
-      "word": "曹广晶被双开",
-      "onboard_time": 1664485212,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 55132,
@@ -475,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46313,
+      "num": 46313,
+      "word": "绵阳涪城区城区部分区域临时管控",
+      "onboard_time": 1664481670,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45387,
       "num": 45387,
       "word": "废弃花盆如何养鲸鱼",
@@ -484,19 +500,11 @@
     },
     {
       "raw_hot": 44118,
-      "num": 311670,
+      "num": 328363,
       "word": "网络辟谣我们一起行动",
       "onboard_time": 1664462005,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 40630,
-      "num": 40630,
-      "word": "江苏将发超3亿消费券和红包",
-      "onboard_time": 1664488153,
-      "rank": 26,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 40305,
@@ -504,14 +512,6 @@
       "word": "每天走多少步比较好",
       "onboard_time": 1664457084,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37601,
-      "num": 37601,
-      "word": "绵阳涪城区城区部分区域临时管控",
-      "onboard_time": 1664481670,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -531,12 +531,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 25410,
-      "num": 25410,
+      "raw_hot": 32272,
+      "num": 32272,
       "word": "周深唱余情梦回苍兰诀",
       "onboard_time": 1664471537,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 27456,
+      "num": 27456,
+      "word": "试床垫店家贴心关灯盖被男子醒后买走",
+      "onboard_time": 1664490615,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21907,
@@ -547,20 +555,20 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 14967,
+      "num": 14967,
+      "word": "十一潮流日记",
+      "onboard_time": 1664469560,
+      "rank": 49,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 14623,
       "num": 14623,
       "word": "昆仑神宫",
       "onboard_time": 1664475493,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 14091,
-      "num": 14091,
-      "word": "十一潮流日记",
-      "onboard_time": 1664469560,
-      "rank": 49,
-      "category": "时尚"
     },
     {
       "raw_hot": 11352,

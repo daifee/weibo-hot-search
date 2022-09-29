@@ -1,0 +1,410 @@
+{
+  "runTime": 1664491466887,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1217586,
+        "num": 1217586,
+        "word": "英国女王死因确认",
+        "onboard_time": 1664464945,
+        "rank": 0,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 340651,
+        "num": 340651,
+        "word": "县委书记为零彩礼低彩礼新人证婚",
+        "onboard_time": 1664477351,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38338,
+        "num": 328363,
+        "word": "网络辟谣我们一起行动",
+        "onboard_time": 1664462005,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 317334,
+        "num": 317334,
+        "word": "北约同意韩国设立驻北约代表处",
+        "onboard_time": 1664485510,
+        "rank": 3,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 279859,
+        "num": 279859,
+        "word": "女子沉迷羊了个羊丈夫报警求助",
+        "onboard_time": 1664463566,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191606,
+        "num": 191606,
+        "word": "张若昀父亲有钱不还又成老赖",
+        "onboard_time": 1664445264,
+        "rank": 5,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 190655,
+        "num": 190655,
+        "word": "国庆放假前的我",
+        "onboard_time": 1664462485,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163695,
+        "num": 163695,
+        "word": "办公室不良体态你中招了么",
+        "onboard_time": 1664486351,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153146,
+        "num": 153146,
+        "word": "卖鱼西施直播称长得好看没用",
+        "onboard_time": 1664453244,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132896,
+        "num": 132896,
+        "word": "女子救流浪猫持续半年收到报恩礼",
+        "onboard_time": 1664461586,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 318387,
+        "num": 132318,
+        "word": "江母称多次被刘鑫支持者电话骚扰",
+        "onboard_time": 1664483411,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249178,
+        "num": 131958,
+        "word": "甄嬛在这个班也当不了班长",
+        "onboard_time": 1664463868,
+        "rank": 11,
+        "category": "幽默,影视"
+      },
+      {
+        "raw_hot": 150655,
+        "num": 131890,
+        "word": "全球首只克隆北极狼亮相哈尔滨",
+        "onboard_time": 1664486711,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131399,
+        "num": 131399,
+        "word": "新郎遇保安要烟弃车背新娘走",
+        "onboard_time": 1664477231,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130505,
+        "num": 130505,
+        "word": "刘亦菲虎扑女神双冠军",
+        "onboard_time": 1664451445,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119215,
+        "num": 119215,
+        "word": "殡葬行业工作者不敢和别人一起过年",
+        "onboard_time": 1664455947,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 108681,
+        "num": 108681,
+        "word": "医生给剪破的气球缝针后吹了起来",
+        "onboard_time": 1664470938,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102651,
+        "num": 102651,
+        "word": "情侣醉酒一言不合双双跳桥",
+        "onboard_time": 1664474054,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98309,
+        "num": 98309,
+        "word": "江苏将发超3亿消费券和红包",
+        "onboard_time": 1664488153,
+        "rank": 18,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 89663,
+        "num": 89663,
+        "word": "韩国一客机起飞滑跑时撞机",
+        "onboard_time": 1664480231,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88962,
+        "num": 88962,
+        "word": "曹广晶被双开",
+        "onboard_time": 1664485212,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86861,
+        "num": 86861,
+        "word": "狗狗被忘服务站主人开40公里接回",
+        "onboard_time": 1664472856,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86364,
+        "num": 86364,
+        "word": "李庚希把我演哭了",
+        "onboard_time": 1664463868,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 77606,
+        "num": 77606,
+        "word": "羽生结弦",
+        "onboard_time": 1664450244,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72051,
+        "num": 72051,
+        "word": "研究称肥胖是神经发育问题",
+        "onboard_time": 1664467644,
+        "rank": 24,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 68929,
+        "num": 68929,
+        "word": "黄牛回收片仔癀最低仅400元",
+        "onboard_time": 1664472077,
+        "rank": 25,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 65745,
+        "num": 65745,
+        "word": "北溪管道漏气速度未见放缓",
+        "onboard_time": 1664458704,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55095,
+        "num": 55095,
+        "word": "吃一包辣条盐分就可能超额摄入",
+        "onboard_time": 1664455344,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 51247,
+        "num": 51247,
+        "word": "越长大越不想爷爷奶奶变老",
+        "onboard_time": 1664446944,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 49081,
+        "num": 49081,
+        "word": "保时捷在德国上市",
+        "onboard_time": 1664467105,
+        "rank": 29,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 48494,
+        "num": 48494,
+        "word": "阶段性放宽部分城市首套住房贷款利率下限",
+        "onboard_time": 1664461348,
+        "rank": 30,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 47006,
+        "num": 47006,
+        "word": "王大伟搞假结婚欺骗组织",
+        "onboard_time": 1664453607,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46313,
+        "num": 46313,
+        "word": "绵阳涪城区城区部分区域临时管控",
+        "onboard_time": 1664481670,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43275,
+        "num": 43275,
+        "word": "肩胛骨疼痛不要乱按摩",
+        "onboard_time": 1664456305,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42769,
+        "num": 42769,
+        "word": "万里归途",
+        "onboard_time": 1664458521,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 41367,
+        "num": 41367,
+        "word": "2人吵架将行李箱扔进铁轨致晚点",
+        "onboard_time": 1664441424,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39890,
+        "num": 39890,
+        "word": "俄以国际恐怖主义行为性质调查北溪事件",
+        "onboard_time": 1664442205,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37909,
+        "num": 37909,
+        "word": "会等你上楼梯的小狗",
+        "onboard_time": 1664451025,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 37517,
+        "num": 37517,
+        "word": "朴灿烈退伍后首直播",
+        "onboard_time": 1664455466,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35504,
+        "num": 35504,
+        "word": "集中或居家隔离时不得采取外锁门方式",
+        "onboard_time": 1664444785,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34712,
+        "num": 34712,
+        "word": "黄明昊剧本都写不出的搞笑",
+        "onboard_time": 1664457264,
+        "rank": 40,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 34412,
+        "num": 34412,
+        "word": "为什么会反复爱上同一类人",
+        "onboard_time": 1664441245,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 32772,
+        "num": 32772,
+        "word": "国务院联防联控机制召开新闻发布会",
+        "onboard_time": 1664462606,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32272,
+        "num": 32272,
+        "word": "周深唱余情梦回苍兰诀",
+        "onboard_time": 1664471537,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 27456,
+        "num": 27456,
+        "word": "试床垫店家贴心关灯盖被男子醒后买走",
+        "onboard_time": 1664490615,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22049,
+        "num": 22049,
+        "word": "一条plog告别九月",
+        "onboard_time": 1664474472,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20965,
+        "num": 20965,
+        "word": "人民海军迈入三航母时代",
+        "onboard_time": 1664482213,
+        "rank": 46,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 17195,
+        "num": 17195,
+        "word": "袖手旁观",
+        "onboard_time": 1664459065,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15750,
+        "num": 15750,
+        "word": "LBL",
+        "onboard_time": 1664447904,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 14967,
+        "num": 14967,
+        "word": "十一潮流日记",
+        "onboard_time": 1664469560,
+        "rank": 49,
+        "category": "时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#网络辟谣标签#"
+    }
+  }
+}
