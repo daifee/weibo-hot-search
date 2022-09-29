@@ -1,0 +1,410 @@
+{
+  "runTime": 1664441694425,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1386809,
+        "num": 1386809,
+        "word": "女孩被24个宿舍送玫瑰庆生",
+        "onboard_time": 1664437764,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1368453,
+        "num": 1368453,
+        "word": "10月1日下架所有水果味电子烟",
+        "onboard_time": 1664424564,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64124,
+        "num": 1211262,
+        "word": "航拍下的大江大河有多美",
+        "onboard_time": 1664436145,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1090241,
+        "num": 1090241,
+        "word": "我国科学家证实人类是从鱼进化来的",
+        "onboard_time": 1664418204,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 934105,
+        "num": 934105,
+        "word": "北溪泄漏或致史上最大温室气体排放",
+        "onboard_time": 1664428646,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 612346,
+        "num": 612346,
+        "word": "中国女篮vs法国女篮",
+        "onboard_time": 1664438905,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 507227,
+        "num": 507227,
+        "word": "北溪管道发现第四处泄漏点",
+        "onboard_time": 1664436325,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499234,
+        "num": 499234,
+        "word": "谁动了北溪",
+        "onboard_time": 1664433383,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489898,
+        "num": 489898,
+        "word": "周迅为什么能封神",
+        "onboard_time": 1664438303,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 408258,
+        "num": 408258,
+        "word": "林峯含着眼泪唱了半首歌",
+        "onboard_time": 1664439205,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 580049,
+        "num": 406310,
+        "word": "男子要前女友还9万花销结果倒欠1万",
+        "onboard_time": 1664433983,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410625,
+        "num": 405306,
+        "word": "段奕宏迪丽热巴VOGUEfilm对手戏",
+        "onboard_time": 1664435546,
+        "rank": 11,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 402670,
+        "num": 402670,
+        "word": "北京通州一小区出现初筛阳性病例",
+        "onboard_time": 1664439925,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384358,
+        "num": 384358,
+        "word": "北溪事故发布会芬兰内政部长晕倒",
+        "onboard_time": 1664434763,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354121,
+        "num": 354121,
+        "word": "才知道大学老师有多厉害",
+        "onboard_time": 1664429724,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 312981,
+        "num": 312981,
+        "word": "赵露思晒plog告别田枣",
+        "onboard_time": 1664437104,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 286636,
+        "num": 286636,
+        "word": "身价2000亿贝索斯前妻又离婚",
+        "onboard_time": 1664439624,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270755,
+        "num": 270755,
+        "word": "俄罗斯选手发布会暴打美国选手",
+        "onboard_time": 1664430803,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242058,
+        "num": 242058,
+        "word": "心脏需要定期维护",
+        "onboard_time": 1664435185,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222624,
+        "num": 222624,
+        "word": "90岁老人含泪亲吻病重女儿",
+        "onboard_time": 1664436387,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217022,
+        "num": 217022,
+        "word": "雪琴就是我的互联网嘴替吧",
+        "onboard_time": 1664434523,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205999,
+        "num": 205999,
+        "word": "当冰箱里只剩下番茄和鸡蛋",
+        "onboard_time": 1664441003,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 200712,
+        "num": 200712,
+        "word": "为什么会反复爱上同一类人",
+        "onboard_time": 1664441245,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184452,
+        "num": 184452,
+        "word": "哪种恋爱状态是你最喜欢的",
+        "onboard_time": 1664433143,
+        "rank": 23,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 177004,
+        "num": 177004,
+        "word": "北京疫情发布会",
+        "onboard_time": 1664440313,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166144,
+        "num": 166144,
+        "word": "李梦连得12分",
+        "onboard_time": 1664441303,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158207,
+        "num": 158207,
+        "word": "还以为小猫在对暗号",
+        "onboard_time": 1664440224,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156217,
+        "num": 156217,
+        "word": "范世錡朱嘉琦新浪扫楼",
+        "onboard_time": 1664439084,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155849,
+        "num": 155849,
+        "word": "苏州新增本土无症状1例",
+        "onboard_time": 1664433742,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153917,
+        "num": 153917,
+        "word": "中国女篮加油",
+        "onboard_time": 1664441003,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150201,
+        "num": 150201,
+        "word": "绵阳涪城区城区部分区域临时管控",
+        "onboard_time": 1664438423,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149421,
+        "num": 149421,
+        "word": "这8件伤心事别再做了",
+        "onboard_time": 1664438544,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147835,
+        "num": 147835,
+        "word": "河北保定莲池区发现6名初筛阳性",
+        "onboard_time": 1664434042,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143257,
+        "num": 143257,
+        "word": "Angelababy林涧双姝国风大片",
+        "onboard_time": 1664431525,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137827,
+        "num": 137827,
+        "word": "研究表明狗能闻出人的压力",
+        "onboard_time": 1664440465,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137611,
+        "num": 137611,
+        "word": "就喜欢上班找人聊天",
+        "onboard_time": 1664421386,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 115962,
+        "num": 115962,
+        "word": "S12出征海报",
+        "onboard_time": 1664436804,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114351,
+        "num": 114351,
+        "word": "2人吵架将行李箱扔进铁轨致晚点",
+        "onboard_time": 1664441424,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112955,
+        "num": 112955,
+        "word": "胡兵60岁想成为亚洲最时髦老头",
+        "onboard_time": 1664435185,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 29962,
+        "num": 111425,
+        "word": "西安推出贵妃版特产礼盒",
+        "onboard_time": 1664438423,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109951,
+        "num": 109951,
+        "word": "iPhone14系列总订单并没有调整",
+        "onboard_time": 1664427745,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 105361,
+        "num": 105361,
+        "word": "丈夫38周温暖记录孕妻细微变化",
+        "onboard_time": 1664429543,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103672,
+        "num": 103672,
+        "word": "男子ATM存钱忘点确认1万元被偷",
+        "onboard_time": 1664423603,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98257,
+        "num": 98257,
+        "word": "老师发现6年级孩子看言情成风气",
+        "onboard_time": 1664411066,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97163,
+        "num": 97163,
+        "word": "运油20给两架歼20空中加油视频",
+        "onboard_time": 1664432784,
+        "rank": 44,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 96261,
+        "num": 96261,
+        "word": "萌娃躺地上哭闹引来俩萌娃吃瓜围观",
+        "onboard_time": 1664435666,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93285,
+        "num": 93285,
+        "word": "郑钧唱rap表白刘芸",
+        "onboard_time": 1664440826,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92071,
+        "num": 92071,
+        "word": "5岁孩子开车上路妈妈还说开得好",
+        "onboard_time": 1664419285,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89778,
+        "num": 89778,
+        "word": "真的不建议饭后立刻洗澡",
+        "onboard_time": 1664409323,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88870,
+        "num": 88870,
+        "word": "大宋少年志2官宣主演阵容",
+        "onboard_time": 1664417423,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#网络辟谣标签#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1664383235790,
-  "endTime": 1664440436954,
+  "endTime": 1664441694425,
   "band_list": [
     {
       "raw_hot": 3706669,
@@ -32,6 +32,14 @@
       "word": "北溪泄漏或致史上最大温室气体排放",
       "onboard_time": 1664428646,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1386809,
+      "num": 1386809,
+      "word": "女孩被24个宿舍送玫瑰庆生",
+      "onboard_time": 1664437764,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -84,18 +92,10 @@
     },
     {
       "raw_hot": 816010,
-      "num": 399414,
+      "num": 406310,
       "word": "男子要前女友还9万花销结果倒欠1万",
       "onboard_time": 1664433983,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 732582,
-      "num": 732582,
-      "word": "女孩被24个宿舍送玫瑰庆生",
-      "onboard_time": 1664437764,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 628527,
-      "num": 378138,
+      "num": 405306,
       "word": "段奕宏迪丽热巴VOGUEfilm对手戏",
       "onboard_time": 1664435546,
       "rank": 11,
@@ -137,6 +137,14 @@
       "onboard_time": 1664423603,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 612346,
+      "num": 612346,
+      "word": "中国女篮vs法国女篮",
+      "onboard_time": 1664438905,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 591685,
@@ -179,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 507227,
+      "num": 507227,
+      "word": "北溪管道发现第四处泄漏点",
+      "onboard_time": 1664436325,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 495178,
       "num": 495178,
       "word": "北溪事故发布会芬兰内政部长晕倒",
@@ -193,6 +209,14 @@
       "onboard_time": 1664430803,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 489898,
+      "num": 489898,
+      "word": "周迅为什么能封神",
+      "onboard_time": 1664438303,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 485819,
@@ -235,14 +259,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 457042,
-      "num": 457042,
-      "word": "北溪管道发现第四处泄漏点",
-      "onboard_time": 1664436325,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 448225,
       "num": 448225,
       "word": "大宋2韦衙内换人",
@@ -252,7 +268,7 @@
     },
     {
       "raw_hot": 437812,
-      "num": 309868,
+      "num": 312981,
       "word": "赵露思晒plog告别田枣",
       "onboard_time": 1664437104,
       "rank": 12,
@@ -265,14 +281,6 @@
       "onboard_time": 1664378066,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 432989,
-      "num": 432989,
-      "word": "中国女篮vs法国女篮",
-      "onboard_time": 1664438905,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 419229,
@@ -297,6 +305,22 @@
       "onboard_time": 1664413406,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 408258,
+      "num": 408258,
+      "word": "林峯含着眼泪唱了半首歌",
+      "onboard_time": 1664439205,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 402670,
+      "num": 402670,
+      "word": "北京通州一小区出现初筛阳性病例",
+      "onboard_time": 1664439925,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 400164,
@@ -329,14 +353,6 @@
       "onboard_time": 1664415324,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 354290,
-      "num": 354290,
-      "word": "周迅为什么能封神",
-      "onboard_time": 1664438303,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 345744,
@@ -419,14 +435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 297416,
-      "num": 297416,
-      "word": "林峯含着眼泪唱了半首歌",
-      "onboard_time": 1664439205,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 295545,
       "num": 295545,
       "word": "国庆小客车高速免费但需一车一杆",
@@ -465,6 +473,14 @@
       "onboard_time": 1664427745,
       "rank": 41,
       "category": "科技"
+    },
+    {
+      "raw_hot": 286636,
+      "num": 286636,
+      "word": "身价2000亿贝索斯前妻又离婚",
+      "onboard_time": 1664439624,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 285375,
@@ -547,6 +563,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 242058,
+      "num": 242058,
+      "word": "心脏需要定期维护",
+      "onboard_time": 1664435185,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232055,
       "num": 232055,
       "word": "运油20给两架歼20空中加油视频",
@@ -579,6 +603,14 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 222624,
+      "num": 222624,
+      "word": "90岁老人含泪亲吻病重女儿",
+      "onboard_time": 1664436387,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208750,
       "num": 208750,
       "word": "司机一个横停为幼童挡住货车",
@@ -593,6 +625,14 @@
       "onboard_time": 1664424564,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205999,
+      "num": 205999,
+      "word": "当冰箱里只剩下番茄和鸡蛋",
+      "onboard_time": 1664441003,
+      "rank": 21,
+      "category": "美食"
     },
     {
       "raw_hot": 202509,
@@ -611,12 +651,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 200015,
-      "num": 200015,
-      "word": "心脏需要定期维护",
-      "onboard_time": 1664435185,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 200712,
+      "num": 200712,
+      "word": "为什么会反复爱上同一类人",
+      "onboard_time": 1664441245,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 198020,
@@ -683,14 +723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 181442,
-      "num": 181442,
-      "word": "90岁老人含泪亲吻病重女儿",
-      "onboard_time": 1664436387,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 173903,
       "num": 173903,
       "word": "县委大院宣传片",
@@ -723,6 +755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166144,
+      "num": 166144,
+      "word": "李梦连得12分",
+      "onboard_time": 1664441303,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162515,
       "num": 162515,
       "word": "狂犬病一旦发病病死率几乎为100%",
@@ -747,6 +787,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 158207,
+      "num": 158207,
+      "word": "还以为小猫在对暗号",
+      "onboard_time": 1664440224,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 158170,
       "num": 152075,
       "word": "一京外阳性人员涉及北京轨迹公布",
@@ -761,6 +809,22 @@
       "onboard_time": 1664400431,
       "rank": 44,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 156217,
+      "num": 156217,
+      "word": "范世錡朱嘉琦新浪扫楼",
+      "onboard_time": 1664439084,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 153917,
+      "num": 153917,
+      "word": "中国女篮加油",
+      "onboard_time": 1664441003,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 153632,
@@ -779,19 +843,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 148863,
-      "num": 148863,
+      "raw_hot": 149421,
+      "num": 149421,
       "word": "这8件伤心事别再做了",
       "onboard_time": 1664438544,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 148014,
-      "num": 148014,
-      "word": "北京通州一小区出现初筛阳性病例",
-      "onboard_time": 1664439925,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -851,6 +907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137827,
+      "num": 137827,
+      "word": "研究表明狗能闻出人的压力",
+      "onboard_time": 1664440465,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133411,
       "num": 133411,
       "word": "货车拉一车斗的奥特曼被交警拦下",
@@ -873,14 +937,6 @@
       "onboard_time": 1664380103,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 129362,
-      "num": 129362,
-      "word": "身价2000亿贝索斯前妻又离婚",
-      "onboard_time": 1664439624,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125469,
@@ -959,6 +1015,14 @@
       "num": 116232,
       "word": "丈夫38周温暖记录孕妻细微变化",
       "onboard_time": 1664429543,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114351,
+      "num": 114351,
+      "word": "2人吵架将行李箱扔进铁轨致晚点",
+      "onboard_time": 1664441424,
       "rank": 37,
       "category": "社会新闻"
     },
@@ -1099,6 +1163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 93285,
+      "num": 93285,
+      "word": "郑钧唱rap表白刘芸",
+      "onboard_time": 1664440826,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 92241,
       "num": 92241,
       "word": "国庆假期南方多地迎高温",
@@ -1123,28 +1195,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 89364,
-      "num": 89364,
-      "word": "还以为小猫在对暗号",
-      "onboard_time": 1664440224,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 85707,
       "num": 85707,
       "word": "iPhone14Pro紫色版被曝存在工艺缺陷",
       "onboard_time": 1664355865,
       "rank": 33,
       "category": "科技"
-    },
-    {
-      "raw_hot": 83753,
-      "num": 83753,
-      "word": "范世錡朱嘉琦新浪扫楼",
-      "onboard_time": 1664439084,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 82810,
@@ -1371,20 +1427,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 29962,
+      "num": 111425,
+      "word": "西安推出贵妃版特产礼盒",
+      "onboard_time": 1664438423,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27826,
       "num": 27826,
       "word": "武林外传到昆仑神宫团建",
       "onboard_time": 1664368463,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 27416,
-      "num": 103189,
-      "word": "西安推出贵妃版特产礼盒",
-      "onboard_time": 1664438423,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17870,
