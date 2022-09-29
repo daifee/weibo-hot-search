@@ -1,6 +1,6 @@
 {
   "startTime": 1664383235790,
-  "endTime": 1664443839970,
+  "endTime": 1664444940582,
   "band_list": [
     {
       "raw_hot": 3706669,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1309199,
+      "num": 969052,
+      "word": "吴建豪说刘雨昕的美甲像被门夹了",
+      "onboard_time": 1664442683,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1162312,
       "num": 1162312,
       "word": "老师发现6年级孩子看言情成风气",
@@ -75,14 +83,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 969052,
-      "num": 969052,
-      "word": "吴建豪说刘雨昕的美甲像被门夹了",
-      "onboard_time": 1664442683,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 938667,
       "num": 938667,
       "word": "东方甄选回应下架玉米",
@@ -97,6 +97,14 @@
       "onboard_time": 1664429724,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 836542,
+      "num": 836542,
+      "word": "中国女篮vs法国女篮",
+      "onboard_time": 1664438905,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 816010,
@@ -147,12 +155,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 612346,
-      "num": 612346,
-      "word": "中国女篮vs法国女篮",
-      "onboard_time": 1664438905,
-      "rank": 9,
-      "category": "体育"
+      "raw_hot": 610815,
+      "num": 610815,
+      "word": "男子切柚子切掉一半才见果肉",
+      "onboard_time": 1664441903,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 591685,
@@ -168,6 +176,14 @@
       "word": "婆家40多人盛装带礼送儿媳回娘家",
       "onboard_time": 1664414002,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 555948,
+      "num": 555948,
+      "word": "俄以国际恐怖主义行为性质调查北溪事件",
+      "onboard_time": 1664442205,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -251,12 +267,20 @@
       "category": "幽默,教育"
     },
     {
-      "raw_hot": 474615,
-      "num": 474615,
+      "raw_hot": 475741,
+      "num": 475741,
       "word": "身价2000亿贝索斯前妻又离婚",
       "onboard_time": 1664439624,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 466145,
+      "num": 466145,
+      "word": "当冰箱里只剩下番茄和鸡蛋",
+      "onboard_time": 1664441003,
+      "rank": 21,
+      "category": "美食"
     },
     {
       "raw_hot": 465241,
@@ -307,14 +331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 429189,
-      "num": 429189,
-      "word": "男子切柚子切掉一半才见果肉",
-      "onboard_time": 1664441903,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 419229,
       "num": 419229,
       "word": "俄喊话拜登回答北溪管道事故",
@@ -339,12 +355,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 408568,
-      "num": 408568,
-      "word": "当冰箱里只剩下番茄和鸡蛋",
-      "onboard_time": 1664441003,
-      "rank": 21,
-      "category": "美食"
+      "raw_hot": 411620,
+      "num": 411620,
+      "word": "为什么会反复爱上同一类人",
+      "onboard_time": 1664441245,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 402670,
@@ -361,22 +377,6 @@
       "onboard_time": 1664370624,
       "rank": 14,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 395025,
-      "num": 395025,
-      "word": "俄以国际恐怖主义行为性质调查北溪事件",
-      "onboard_time": 1664442205,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 383200,
-      "num": 383200,
-      "word": "为什么会反复爱上同一类人",
-      "onboard_time": 1664441245,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 370021,
@@ -400,6 +400,14 @@
       "word": "宿舍滴水男生自买材料抹腻子防水",
       "onboard_time": 1664415324,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 353845,
+      "num": 353845,
+      "word": "2人吵架将行李箱扔进铁轨致晚点",
+      "onboard_time": 1664441424,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -467,14 +475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 306359,
-      "num": 306359,
-      "word": "2人吵架将行李箱扔进铁轨致晚点",
-      "onboard_time": 1664441424,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 302170,
       "num": 302170,
       "word": "这是国庆前夕的香港街头",
@@ -539,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 284292,
+      "num": 284292,
+      "word": "法网灰灰",
+      "onboard_time": 1664443764,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 281292,
       "num": 281292,
       "word": "天津禁止学校聘用有性骚扰犯罪记录人员",
@@ -577,6 +585,14 @@
       "onboard_time": 1664375187,
       "rank": 11,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 254217,
+      "num": 254217,
+      "word": "北京在进返京人员筛查中发现一感染者",
+      "onboard_time": 1664444065,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253212,
@@ -651,6 +667,14 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 222893,
+      "num": 222893,
+      "word": "研究表明狗能闻出人的压力",
+      "onboard_time": 1664440465,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 222624,
       "num": 222624,
       "word": "90岁老人含泪亲吻病重女儿",
@@ -665,14 +689,6 @@
       "onboard_time": 1664443223,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 213556,
-      "num": 213556,
-      "word": "研究表明狗能闻出人的压力",
-      "onboard_time": 1664440465,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 208750,
@@ -763,6 +779,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 182719,
+      "num": 182719,
+      "word": "男子等电梯却败给10多只老母鸡",
+      "onboard_time": 1664442924,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182549,
       "num": 182549,
       "word": "厦门疫情防控",
@@ -833,6 +857,14 @@
       "onboard_time": 1664389992,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160629,
+      "num": 160629,
+      "word": "张彬彬说庄羽回国了",
+      "onboard_time": 1664443103,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 158733,
@@ -979,14 +1011,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 129040,
-      "num": 129040,
-      "word": "张彬彬说庄羽回国了",
-      "onboard_time": 1664443103,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 125469,
       "num": 125469,
       "word": "我的反派男友明晚见",
@@ -1067,12 +1091,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 113852,
-      "num": 113852,
-      "word": "男子等电梯却败给10多只老母鸡",
-      "onboard_time": 1664442924,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 115786,
+      "num": 115786,
+      "word": "这小猫洗澡也太老实了吧",
+      "onboard_time": 1664444244,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 113615,
@@ -1219,6 +1243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93153,
+      "num": 93153,
+      "word": "原来打理刘海一点儿也不难",
+      "onboard_time": 1664443404,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 92241,
       "num": 92241,
       "word": "国庆假期南方多地迎高温",
@@ -1243,6 +1275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 88775,
+      "num": 88775,
+      "word": "十一假期打开方式",
+      "onboard_time": 1664442205,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 85865,
       "num": 85865,
       "word": "杨洋T锦绣九月刊封面",
@@ -1257,14 +1297,6 @@
       "onboard_time": 1664355865,
       "rank": 33,
       "category": "科技"
-    },
-    {
-      "raw_hot": 85287,
-      "num": 85287,
-      "word": "十一假期打开方式",
-      "onboard_time": 1664442205,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 83773,
@@ -1299,28 +1331,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 81898,
-      "num": 81898,
-      "word": "法网灰灰",
-      "onboard_time": 1664443764,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 81318,
       "num": 81318,
       "word": "广州长沙深圳成出行最热门城市",
       "onboard_time": 1664365944,
       "rank": 31,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 80986,
-      "num": 80986,
-      "word": "原来打理刘海一点儿也不难",
-      "onboard_time": 1664443404,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 80450,
@@ -1337,6 +1353,14 @@
       "onboard_time": 1664368764,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 79309,
+      "num": 79309,
+      "word": "集中或居家隔离时不得采取外锁门方式",
+      "onboard_time": 1664444785,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76771,
@@ -1360,6 +1384,14 @@
       "word": "昆明本轮疫情传播链条基本清晰",
       "onboard_time": 1664398991,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 75091,
+      "num": 75091,
+      "word": "当孙悟空遇见地名管理条例",
+      "onboard_time": 1664444785,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1499,8 +1531,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 33843,
-      "num": 92297,
+      "raw_hot": 40409,
+      "num": 99832,
       "word": "逛吃逛吃逛吃逛吃",
       "onboard_time": 1664442025,
       "rank": 39,
@@ -1569,6 +1601,14 @@
       "onboard_time": 1664398871,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 11796,
+      "num": 362308,
+      "word": "就这么迷你下去",
+      "onboard_time": 1664444065,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10924,
