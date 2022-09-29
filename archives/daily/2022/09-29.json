@@ -1,7 +1,15 @@
 {
   "startTime": 1664383235790,
-  "endTime": 1664421673099,
+  "endTime": 1664427126626,
   "band_list": [
+    {
+      "raw_hot": 3373205,
+      "num": 3373205,
+      "word": "我国科学家证实人类是从鱼进化来的",
+      "onboard_time": 1664418204,
+      "rank": 24,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1858768,
       "num": 1858768,
@@ -16,14 +24,6 @@
       "word": "真的不建议饭后立刻洗澡",
       "onboard_time": 1664409323,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1287608,
-      "num": 1287608,
-      "word": "我国科学家证实人类是从鱼进化来的",
-      "onboard_time": 1664418204,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -59,12 +59,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 794365,
+      "num": 410908,
+      "word": "10月1日下架所有水果味电子烟",
+      "onboard_time": 1664424564,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 677745,
       "num": 677745,
       "word": "俄罗斯否认制造北溪管道泄漏事故",
       "onboard_time": 1664412387,
       "rank": 4,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 664945,
+      "num": 664945,
+      "word": "就喜欢上班找人聊天",
+      "onboard_time": 1664421386,
+      "rank": 43,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 591685,
@@ -83,12 +99,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 529817,
+      "num": 529817,
+      "word": "二胎妈妈秒懂大宝眼神邀3人同玩",
+      "onboard_time": 1664419702,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 529786,
+      "num": 529786,
+      "word": "男子ATM存钱忘点确认1万元被偷",
+      "onboard_time": 1664423603,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 528786,
       "num": 528786,
       "word": "妲己漫画少女新皮肤",
       "onboard_time": 1664417064,
       "rank": 11,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 511824,
+      "num": 511824,
+      "word": "河南一地要求随礼不超50元",
+      "onboard_time": 1664421205,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 485819,
@@ -121,6 +161,14 @@
       "onboard_time": 1664372423,
       "rank": 16,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 448225,
+      "num": 448225,
+      "word": "大宋2韦衙内换人",
+      "onboard_time": 1664423964,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 434410,
@@ -163,19 +211,27 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 370021,
+      "num": 370021,
+      "word": "张新成周雨彤新剧二搭",
+      "onboard_time": 1664421564,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 369899,
+      "num": 369899,
+      "word": "张杰甩披风好飒",
+      "onboard_time": 1664425405,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 356812,
       "num": 356812,
       "word": "宿舍滴水男生自买材料抹腻子防水",
       "onboard_time": 1664415324,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 349496,
-      "num": 349496,
-      "word": "二胎妈妈秒懂大宝眼神邀3人同玩",
-      "onboard_time": 1664419702,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -193,6 +249,14 @@
       "onboard_time": 1664420123,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 333325,
+      "num": 333325,
+      "word": "5岁孩子开车上路妈妈还说开得好",
+      "onboard_time": 1664419285,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 326293,
@@ -243,6 +307,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 292484,
+      "num": 292484,
+      "word": "合肥通报2例阳性人员情况",
+      "onboard_time": 1664420304,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291547,
+      "num": 291547,
+      "word": "河南的哥跪谢报废出租车",
+      "onboard_time": 1664422645,
+      "rank": 18,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 285375,
       "num": 285375,
       "word": "人民日报任仲平",
@@ -257,14 +337,6 @@
       "onboard_time": 1664370984,
       "rank": 8,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 278068,
-      "num": 278068,
-      "word": "张新成周雨彤新剧二搭",
-      "onboard_time": 1664421564,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 272116,
@@ -291,14 +363,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 258239,
-      "num": 258239,
-      "word": "5岁孩子开车上路妈妈还说开得好",
-      "onboard_time": 1664419285,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 253212,
       "num": 253212,
       "word": "肉食动物 跑题",
@@ -323,20 +387,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 236963,
-      "num": 236963,
-      "word": "合肥通报2例阳性人员情况",
-      "onboard_time": 1664420304,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 226546,
       "num": 226546,
       "word": "专家建议对槟榔实施特许经营",
       "onboard_time": 1664415984,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225262,
+      "num": 225262,
+      "word": "任嘉伦李沁请君又断更了",
+      "onboard_time": 1664424325,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 223809,
@@ -363,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201705,
+      "num": 201705,
+      "word": "AirPodsPro2修复性低",
+      "onboard_time": 1664422165,
+      "rank": 23,
+      "category": "科技"
+    },
+    {
       "raw_hot": 191700,
       "num": 191700,
       "word": "StrayKids新专辑预售量突破224万张",
@@ -379,12 +451,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 185343,
+      "num": 185343,
+      "word": "这个动画是有点舒适在的",
+      "onboard_time": 1664426485,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 185339,
+      "num": 185339,
+      "word": "外国博主在中国旅游有多卷",
+      "onboard_time": 1664424564,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182549,
       "num": 182549,
       "word": "厦门疫情防控",
       "onboard_time": 1664407460,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177682,
+      "num": 177682,
+      "word": "韩东君阚清子新剧cp感",
+      "onboard_time": 1664426063,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 166560,
@@ -451,6 +547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 142323,
+      "num": 142323,
+      "word": "从鱼到人演化过程需近5亿年",
+      "onboard_time": 1664423786,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142031,
       "num": 142031,
       "word": "河南增1例本土确诊4例无症状",
@@ -483,20 +587,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 133372,
-      "num": 133372,
-      "word": "河南一地要求随礼不超50元",
-      "onboard_time": 1664421205,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 129786,
       "num": 129786,
       "word": "网传实用主义者的爱情暂定赵丽颖龚俊",
       "onboard_time": 1664380103,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 127739,
+      "num": 127739,
+      "word": "思文说杨笠非常好我也不错",
+      "onboard_time": 1664422403,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 125469,
@@ -515,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120316,
+      "num": 120316,
+      "word": "女子收养幼猫母猫找上门托付孩子",
+      "onboard_time": 1664426306,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119407,
       "num": 119407,
       "word": "郭明錤质疑苹果放弃增产iPhone",
@@ -523,12 +635,36 @@
       "category": "科技"
     },
     {
+      "raw_hot": 118960,
+      "num": 118960,
+      "word": "县委大院宣传片",
+      "onboard_time": 1664426668,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 117369,
+      "num": 117369,
+      "word": "周深新歌MV里有21部经典动画",
+      "onboard_time": 1664423903,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 116401,
       "num": 116401,
       "word": "花海签的是eStar",
       "onboard_time": 1664376867,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 116326,
+      "num": 116326,
+      "word": "炽道今日开播",
+      "onboard_time": 1664423002,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 113615,
@@ -649,14 +785,6 @@
       "onboard_time": 1664355865,
       "rank": 33,
       "category": "科技"
-    },
-    {
-      "raw_hot": 83766,
-      "num": 83766,
-      "word": "就喜欢上班找人聊天",
-      "onboard_time": 1664421386,
-      "rank": 43,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 82810,
@@ -961,6 +1089,14 @@
       "onboard_time": 1664399649,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3010,
+      "num": 334966,
+      "word": "迎接中国新能源的大时代",
+      "onboard_time": 1664422223,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -969,6 +1105,9 @@
     },
     {
       "word": "#打造一支强大的乡村振兴人才队伍#"
+    },
+    {
+      "word": "#掌握历史主动凝聚奋进伟力#"
     }
   ]
 }
