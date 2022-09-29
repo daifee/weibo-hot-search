@@ -1,0 +1,410 @@
+{
+  "runTime": 1664421673099,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1858768,
+        "num": 1858768,
+        "word": "大宋少年志2官宣主演阵容",
+        "onboard_time": 1664417423,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1287608,
+        "num": 1287608,
+        "word": "我国科学家证实人类是从鱼进化来的",
+        "onboard_time": 1664418204,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37464,
+        "num": 1245658,
+        "word": "画在墙上的火车开进了现实",
+        "onboard_time": 1664365885,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1215855,
+        "num": 1215855,
+        "word": "真的不建议饭后立刻洗澡",
+        "onboard_time": 1664409323,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 782637,
+        "num": 782637,
+        "word": "老师发现6年级孩子看言情成风气",
+        "onboard_time": 1664411066,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 590649,
+        "num": 590649,
+        "word": "苹果将在iOS16.1开放灵动岛给第三方",
+        "onboard_time": 1664417304,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 528786,
+        "num": 528786,
+        "word": "妲己漫画少女新皮肤",
+        "onboard_time": 1664417064,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 433563,
+        "num": 433563,
+        "word": "婆家40多人盛装带礼送儿媳回娘家",
+        "onboard_time": 1664414002,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419229,
+        "num": 419229,
+        "word": "俄喊话拜登回答北溪管道事故",
+        "onboard_time": 1664416405,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 356454,
+        "num": 356454,
+        "word": "宿舍滴水男生自买材料抹腻子防水",
+        "onboard_time": 1664415324,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417269,
+        "num": 353660,
+        "word": "古滇国考古重大突破",
+        "onboard_time": 1664418262,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349496,
+        "num": 349496,
+        "word": "二胎妈妈秒懂大宝眼神邀3人同玩",
+        "onboard_time": 1664419702,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345499,
+        "num": 345499,
+        "word": "陈哲远新剧被沈月公主抱",
+        "onboard_time": 1664420123,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 339114,
+        "num": 339114,
+        "word": "女子为玩羊了个羊看广告被骗9万元",
+        "onboard_time": 1664364142,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324743,
+        "num": 324743,
+        "word": "俄罗斯否认制造北溪管道泄漏事故",
+        "onboard_time": 1664412387,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 278068,
+        "num": 278068,
+        "word": "张新成周雨彤新剧二搭",
+        "onboard_time": 1664421564,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 270668,
+        "num": 270668,
+        "word": "徐志胜全网最后一个大帅哥",
+        "onboard_time": 1664378186,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258239,
+        "num": 258239,
+        "word": "5岁孩子开车上路妈妈还说开得好",
+        "onboard_time": 1664419285,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236963,
+        "num": 236963,
+        "word": "合肥通报2例阳性人员情况",
+        "onboard_time": 1664420304,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231595,
+        "num": 231595,
+        "word": "日本女排主帅称输在中国队身高上",
+        "onboard_time": 1664413406,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226546,
+        "num": 226546,
+        "word": "专家建议对槟榔实施特许经营",
+        "onboard_time": 1664415984,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218923,
+        "num": 218923,
+        "word": "这是国庆前夕的香港街头",
+        "onboard_time": 1664412744,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189323,
+        "num": 189323,
+        "word": "肉食动物 跑题",
+        "onboard_time": 1664410706,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184827,
+        "num": 184827,
+        "word": "绵阳疫情防控",
+        "onboard_time": 1664412087,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178360,
+        "num": 178360,
+        "word": "江苏一中学起薪40万招聘教师",
+        "onboard_time": 1664388674,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 167628,
+        "num": 167628,
+        "word": "S12小组赛赛程",
+        "onboard_time": 1664413526,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143208,
+        "num": 143208,
+        "word": "原来狗狗也是会劝架的",
+        "onboard_time": 1664409863,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142031,
+        "num": 142031,
+        "word": "河南增1例本土确诊4例无症状",
+        "onboard_time": 1664419642,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136508,
+        "num": 136508,
+        "word": "昆明赋黄码70442人",
+        "onboard_time": 1664389992,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133372,
+        "num": 133372,
+        "word": "河南一地要求随礼不超50元",
+        "onboard_time": 1664421205,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130375,
+        "num": 130375,
+        "word": "退伍军人用玉米摆出国徽图案",
+        "onboard_time": 1664414605,
+        "rank": 30,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 129131,
+        "num": 129131,
+        "word": "StrayKids新专辑预售量突破224万张",
+        "onboard_time": 1664417243,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 127518,
+        "num": 127518,
+        "word": "人民日报任仲平",
+        "onboard_time": 1664412808,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119407,
+        "num": 119407,
+        "word": "郭明錤质疑苹果放弃增产iPhone",
+        "onboard_time": 1664420965,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 112428,
+        "num": 112428,
+        "word": "北京9月28日本土零新增",
+        "onboard_time": 1664414188,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110432,
+        "num": 110432,
+        "word": "货车拉一车斗的奥特曼被交警拦下",
+        "onboard_time": 1664396231,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108241,
+        "num": 108241,
+        "word": "我的反派男友明晚见",
+        "onboard_time": 1664417602,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103500,
+        "num": 103500,
+        "word": "男生晕血被舍友用衣服包头抽血",
+        "onboard_time": 1664397371,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99750,
+        "num": 99750,
+        "word": "想看盛阳简冰",
+        "onboard_time": 1664412327,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 98668,
+        "num": 98668,
+        "word": "女子5小时用99个塑料袋做出婚纱",
+        "onboard_time": 1664396771,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89718,
+        "num": 89718,
+        "word": "狗狗体验滑翔伞目瞪口呆",
+        "onboard_time": 1664411727,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88429,
+        "num": 88429,
+        "word": "原来读北大被发现也会害羞",
+        "onboard_time": 1664374524,
+        "rank": 41,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 87206,
+        "num": 87206,
+        "word": "站着生气的仓鼠",
+        "onboard_time": 1664379025,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83766,
+        "num": 83766,
+        "word": "就喜欢上班找人聊天",
+        "onboard_time": 1664421386,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 82407,
+        "num": 82407,
+        "word": "女孩零起步学烹饪22岁高校任教",
+        "onboard_time": 1664410768,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79159,
+        "num": 79159,
+        "word": "夫妻俩分别去超市但买的一样",
+        "onboard_time": 1664378066,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79087,
+        "num": 79087,
+        "word": "厦门疫情防控",
+        "onboard_time": 1664407460,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77927,
+        "num": 77927,
+        "word": "9月28日新增本土无症状526例",
+        "onboard_time": 1664414188,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77840,
+        "num": 77840,
+        "word": "司机一个横停为幼童挡住货车",
+        "onboard_time": 1664376448,
+        "rank": 48,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 77227,
+        "num": 77227,
+        "word": "网传天津10月1日起封城3天系谣言",
+        "onboard_time": 1664394549,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#三代人40余年逼退风沙线30公里#"
+    }
+  }
+}

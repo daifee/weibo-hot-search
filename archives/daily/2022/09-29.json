@@ -1,10 +1,10 @@
 {
   "startTime": 1664383235790,
-  "endTime": 1664418904895,
+  "endTime": 1664421673099,
   "band_list": [
     {
-      "raw_hot": 1822787,
-      "num": 1822787,
+      "raw_hot": 1858768,
+      "num": 1858768,
       "word": "大宋少年志2官宣主演阵容",
       "onboard_time": 1664417423,
       "rank": 0,
@@ -16,6 +16,14 @@
       "word": "真的不建议饭后立刻洗澡",
       "onboard_time": 1664409323,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1287608,
+      "num": 1287608,
+      "word": "我国科学家证实人类是从鱼进化来的",
+      "onboard_time": 1664418204,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -75,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 528786,
+      "num": 528786,
+      "word": "妲己漫画少女新皮肤",
+      "onboard_time": 1664417064,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 485819,
       "num": 485819,
       "word": "男生晕血被舍友用衣服包头抽血",
@@ -115,6 +131,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 419229,
+      "num": 419229,
+      "word": "俄喊话拜登回答北溪管道事故",
+      "onboard_time": 1664416405,
+      "rank": 15,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 417269,
+      "num": 353660,
+      "word": "古滇国考古重大突破",
+      "onboard_time": 1664418262,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 411814,
       "num": 411814,
       "word": "日本女排主帅称输在中国队身高上",
@@ -139,12 +171,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 355784,
-      "num": 355784,
-      "word": "妲己漫画少女新皮肤",
-      "onboard_time": 1664417064,
+      "raw_hot": 349496,
+      "num": 349496,
+      "word": "二胎妈妈秒懂大宝眼神邀3人同玩",
+      "onboard_time": 1664419702,
       "rank": 11,
-      "category": "游戏"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 345744,
@@ -153,6 +185,14 @@
       "onboard_time": 1664394549,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 345499,
+      "num": 345499,
+      "word": "陈哲远新剧被沈月公主抱",
+      "onboard_time": 1664420123,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 326293,
@@ -169,14 +209,6 @@
       "onboard_time": 1664369426,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 308821,
-      "num": 308821,
-      "word": "俄喊话拜登回答北溪管道事故",
-      "onboard_time": 1664416405,
-      "rank": 15,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 308598,
@@ -227,6 +259,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 278068,
+      "num": 278068,
+      "word": "张新成周雨彤新剧二搭",
+      "onboard_time": 1664421564,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 272116,
       "num": 272116,
       "word": "女子5小时用99个塑料袋做出婚纱",
@@ -251,6 +291,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 258239,
+      "num": 258239,
+      "word": "5岁孩子开车上路妈妈还说开得好",
+      "onboard_time": 1664419285,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253212,
       "num": 253212,
       "word": "肉食动物 跑题",
@@ -273,6 +321,22 @@
       "onboard_time": 1664413526,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 236963,
+      "num": 236963,
+      "word": "合肥通报2例阳性人员情况",
+      "onboard_time": 1664420304,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226546,
+      "num": 226546,
+      "word": "专家建议对槟榔实施特许经营",
+      "onboard_time": 1664415984,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 223809,
@@ -315,27 +379,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 188682,
-      "num": 188682,
-      "word": "我国科学家证实人类是从鱼进化来的",
-      "onboard_time": 1664418204,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 182549,
       "num": 182549,
       "word": "厦门疫情防控",
       "onboard_time": 1664407460,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 172483,
-      "num": 172483,
-      "word": "专家建议对槟榔实施特许经营",
-      "onboard_time": 1664415984,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -403,6 +451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 142031,
+      "num": 142031,
+      "word": "河南增1例本土确诊4例无症状",
+      "onboard_time": 1664419642,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141654,
       "num": 141654,
       "word": "美国海军乱排污被罚880万美元",
@@ -427,20 +483,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133372,
+      "num": 133372,
+      "word": "河南一地要求随礼不超50元",
+      "onboard_time": 1664421205,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129786,
       "num": 129786,
       "word": "网传实用主义者的爱情暂定赵丽颖龚俊",
       "onboard_time": 1664380103,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 127199,
-      "num": 127199,
-      "word": "古滇国考古重大突破",
-      "onboard_time": 1664418262,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125469,
@@ -452,11 +508,19 @@
     },
     {
       "raw_hot": 123432,
-      "num": 1244531,
+      "num": 1245658,
       "word": "画在墙上的火车开进了现实",
       "onboard_time": 1664365885,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119407,
+      "num": 119407,
+      "word": "郭明錤质疑苹果放弃增产iPhone",
+      "onboard_time": 1664420965,
+      "rank": 33,
+      "category": "科技"
     },
     {
       "raw_hot": 116401,
@@ -585,6 +649,14 @@
       "onboard_time": 1664355865,
       "rank": 33,
       "category": "科技"
+    },
+    {
+      "raw_hot": 83766,
+      "num": 83766,
+      "word": "就喜欢上班找人聊天",
+      "onboard_time": 1664421386,
+      "rank": 43,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 82810,
