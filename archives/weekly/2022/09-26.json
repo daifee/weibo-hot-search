@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664564005581,
+  "endTime": 1664565860485,
   "band_list": [
     {
       "raw_hot": 6363692,
@@ -8523,6 +8523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73814,
+      "num": 49561,
+      "word": "苹果市值一夜缩水1165亿美元",
+      "onboard_time": 1664563153,
+      "rank": 35,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 73020,
       "num": 73020,
       "word": "在笑泪点反复横跳的剧",
@@ -8617,6 +8625,14 @@
       "onboard_time": 1664280805,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67278,
+      "num": 67278,
+      "word": "花得莫名其妙的一笔钱",
+      "onboard_time": 1664560632,
+      "rank": 29,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 67262,
@@ -8761,14 +8777,6 @@
       "onboard_time": 1664099966,
       "rank": 46,
       "category": "财经"
-    },
-    {
-      "raw_hot": 52563,
-      "num": 52563,
-      "word": "花得莫名其妙的一笔钱",
-      "onboard_time": 1664560632,
-      "rank": 29,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 52322,
@@ -9067,12 +9075,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23216,
-      "num": 23216,
-      "word": "苹果市值一夜缩水1165亿美元",
-      "onboard_time": 1664563153,
-      "rank": 35,
-      "category": "财经,科技"
+      "raw_hot": 24072,
+      "num": 24072,
+      "word": "柬埔寨载中国人沉船事故涉人口贩卖",
+      "onboard_time": 1664564952,
+      "rank": 26,
+      "category": "社会负面"
     },
     {
       "raw_hot": 22631,

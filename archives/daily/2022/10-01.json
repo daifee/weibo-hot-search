@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664564005581,
+  "endTime": 1664565860485,
   "band_list": [
     {
       "raw_hot": 1594753,
@@ -267,12 +267,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73814,
+      "num": 49561,
+      "word": "苹果市值一夜缩水1165亿美元",
+      "onboard_time": 1664563153,
+      "rank": 35,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 67576,
       "num": 67576,
       "word": "黄景瑜新剧消防员造型饭拍路透",
       "onboard_time": 1664552906,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 67278,
+      "num": 67278,
+      "word": "花得莫名其妙的一笔钱",
+      "onboard_time": 1664560632,
+      "rank": 29,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 66429,
@@ -337,14 +353,6 @@
       "onboard_time": 1664556977,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 52563,
-      "num": 52563,
-      "word": "花得莫名其妙的一笔钱",
-      "onboard_time": 1664560632,
-      "rank": 29,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 51667,
@@ -435,12 +443,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 23216,
-      "num": 23216,
-      "word": "苹果市值一夜缩水1165亿美元",
-      "onboard_time": 1664563153,
-      "rank": 35,
-      "category": "财经,科技"
+      "raw_hot": 24072,
+      "num": 24072,
+      "word": "柬埔寨载中国人沉船事故涉人口贩卖",
+      "onboard_time": 1664564952,
+      "rank": 26,
+      "category": "社会负面"
     },
     {
       "raw_hot": 19434,
@@ -451,8 +459,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 14588,
-      "num": 14588,
+      "raw_hot": 15758,
+      "num": 15758,
       "word": "中国女排战胜捷克队",
       "onboard_time": 1664545644,
       "rank": 48,
