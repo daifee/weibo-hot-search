@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/30 22:41:16
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/30 22:54:21
 </p>
 </blockquote>
 <p>
@@ -1329,6 +1329,12 @@ DR回应800元可删购买记录（热度：2390128）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%87%E9%87%8C%E5%BD%92%E9%80%94%E5%BC%80%E5%88%869.6%23" target="weibo">
+万里归途开分9.6（热度：2307485）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A4%BE%E7%A7%91%E9%99%A2%E5%A5%B3%E7%A0%94%E7%A9%B6%E7%94%9F%E5%9B%9E%E5%BA%94%E6%80%80%E5%AD%95%E4%BC%91%E5%AD%A6%E5%BE%85%E4%BA%A7%23" target="weibo">
 社科院女研究生回应怀孕休学待产（热度：2297781）
 </a>
@@ -2549,12 +2555,6 @@ Angelababy晒与狗狗合照（热度：1779691）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%81%B7%E5%BE%97%E7%9F%A5%E5%A4%B1%E4%B8%BB%E7%99%8C%E7%97%87%E6%99%9A%E6%9C%9F%E6%94%B9%E5%8F%A3%E8%AE%A4%E7%BD%AA%23" target="weibo">
 小偷得知失主癌症晚期改口认罪（热度：1727582）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%87%E9%87%8C%E5%BD%92%E9%80%94%E5%BC%80%E5%88%869.6%23" target="weibo">
-万里归途开分9.6（热度：1726719）
 </a>
 </li>
 

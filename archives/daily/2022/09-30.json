@@ -1,6 +1,6 @@
 {
   "startTime": 1664469545657,
-  "endTime": 1664548876753,
+  "endTime": 1664549661807,
   "band_list": [
     {
       "raw_hot": 6363692,
@@ -25,6 +25,14 @@
       "onboard_time": 1664464945,
       "rank": 0,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 2307485,
+      "num": 2307485,
+      "word": "万里归途开分9.6",
+      "onboard_time": 1664545406,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 2032553,
@@ -73,14 +81,6 @@
       "onboard_time": 1664513486,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1726719,
-      "num": 1726719,
-      "word": "万里归途开分9.6",
-      "onboard_time": 1664545406,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 1518903,
@@ -307,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 676948,
+      "num": 676948,
+      "word": "普京签署顿涅茨克等四地入俄条约",
+      "onboard_time": 1664546125,
+      "rank": 16,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 666117,
       "num": 666117,
       "word": "人类血栓中首次发现微塑料",
@@ -347,14 +355,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 629847,
-      "num": 629847,
-      "word": "普京签署顿涅茨克等四地入俄条约",
-      "onboard_time": 1664546125,
-      "rank": 16,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 628136,
       "num": 329066,
       "word": "大S具俊晔VOGUE合体封面",
@@ -385,6 +385,14 @@
       "onboard_time": 1664511805,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 566524,
+      "num": 566524,
+      "word": "外交人员看万里归途哽咽了",
+      "onboard_time": 1664547025,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 559816,
@@ -457,14 +465,6 @@
       "onboard_time": 1664511445,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 491443,
-      "num": 491443,
-      "word": "外交人员看万里归途哽咽了",
-      "onboard_time": 1664547025,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 489925,
@@ -555,6 +555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 404968,
+      "num": 404968,
+      "word": "2023年国考10月25日开始报名",
+      "onboard_time": 1664546905,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 394997,
       "num": 394997,
       "word": "北京新增病例曾在列车上与外省病例有交集",
@@ -617,14 +625,6 @@
       "onboard_time": 1664502924,
       "rank": 14,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 356383,
-      "num": 356383,
-      "word": "2023年国考10月25日开始报名",
-      "onboard_time": 1664546905,
-      "rank": 26,
-      "category": "教育"
     },
     {
       "raw_hot": 354510,
@@ -849,6 +849,14 @@
       "onboard_time": 1664538747,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 253506,
+      "num": 253506,
+      "word": "这是一只超自律的白鲸了",
+      "onboard_time": 1664547625,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249304,
@@ -1155,14 +1163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 182397,
-      "num": 182397,
-      "word": "这是一只超自律的白鲸了",
-      "onboard_time": 1664547625,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 177671,
       "num": 177671,
       "word": "金道英醉酒状态",
@@ -1299,6 +1299,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 150610,
+      "num": 150610,
+      "word": "C919将于2022年底交付",
+      "onboard_time": 1664546605,
+      "rank": 48,
+      "category": "科技,国内要闻"
+    },
+    {
       "raw_hot": 148937,
       "num": 148937,
       "word": "大张伟喊话鲁豫想上鲁豫有约",
@@ -1361,6 +1369,14 @@
       "onboard_time": 1664525725,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 136167,
+      "num": 136167,
+      "word": "9月再见",
+      "onboard_time": 1664549306,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 133894,
@@ -1545,14 +1561,6 @@
       "onboard_time": 1664518586,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 107576,
-      "num": 107576,
-      "word": "C919将于2022年底交付",
-      "onboard_time": 1664546605,
-      "rank": 48,
-      "category": "科技,国内要闻"
     },
     {
       "raw_hot": 106344,
@@ -1787,6 +1795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 66582,
+      "num": 66582,
+      "word": "我和国旗合个影",
+      "onboard_time": 1664549185,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66432,
       "num": 66432,
       "word": "王大伟搞假结婚欺骗组织",
@@ -1907,6 +1923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 45302,
+      "num": 222764,
+      "word": "越野车被冲走大爷划皮划艇救人",
+      "onboard_time": 1664546426,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40305,
       "num": 40305,
       "word": "每天走多少步比较好",
@@ -1929,14 +1953,6 @@
       "onboard_time": 1664474472,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 35665,
-      "num": 220419,
-      "word": "越野车被冲走大爷划皮划艇救人",
-      "onboard_time": 1664546426,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31304,
@@ -1987,7 +2003,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 10312,
+      "raw_hot": 10605,
       "num": 1530775,
       "word": "英雄从未远去丰碑永存人间",
       "onboard_time": 1664498006,
