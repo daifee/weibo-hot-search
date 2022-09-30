@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/30 17:00:57
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/30 17:32:56
 </p>
 </blockquote>
 <p>
@@ -5427,6 +5427,12 @@ iPhone14Pro被吐槽后盖不耐划（热度：1123869）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%96%9D%E4%B8%8B%E8%87%AA%E5%88%B6%E5%87%8F%E8%82%A5%E6%B1%81%E4%B8%AD%E6%AF%92%23" target="weibo">
+女子喝下自制减肥汁中毒（热度：1110553）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E6%98%86%E4%BB%91%E7%A5%9E%E5%AE%AB%23" target="weibo">
 人民网评昆仑神宫（热度：1109118）
 </a>
@@ -6005,12 +6011,6 @@ iPhone14Pro系列占中国订单85%（热度：1059806）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%8E%E5%85%BD%E6%B4%BE%E9%A6%99%E6%B0%B4%E5%92%8C%E5%90%8D%E5%88%9B%E4%BC%98%E5%93%81%E5%90%8C%E4%B8%80%E4%BB%A3%E5%B7%A5%E5%8E%82%23" target="weibo">
 野兽派香水和名创优品同一代工厂（热度：1043480）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E6%9C%AA%E6%9D%A51%E5%B9%B4%E7%94%B5%E8%A7%86%E5%89%A7%E6%8E%92%E6%92%AD%E8%A1%A8%23" target="weibo">
-爱奇艺未来1年电视剧排播表（热度：1043383）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1664530376689,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1334440,
+        "num": 1334440,
+        "word": "女子摸鱼时被咬半身失去知觉",
+        "onboard_time": 1664522425,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1110553,
+        "num": 1110553,
+        "word": "女子喝下自制减肥汁中毒",
+        "onboard_time": 1664526325,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76293,
+        "num": 882943,
+        "word": "我会好好爱护你浴血守卫的山河",
+        "onboard_time": 1664514623,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 819658,
+        "num": 819658,
+        "word": "国产手机为什么不取消SIM卡",
+        "onboard_time": 1664524946,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 729780,
+        "num": 729780,
+        "word": "21岁男子长期熬夜吸出10块血栓",
+        "onboard_time": 1664513486,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550027,
+        "num": 550027,
+        "word": "国庆七天每分钟都不想浪费",
+        "onboard_time": 1664526803,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384672,
+        "num": 384672,
+        "word": "东北农嫂曾因玉米项目违规被罚30万",
+        "onboard_time": 1664525063,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 366584,
+        "num": 366584,
+        "word": "李一桐新剧开播像玩剧本杀",
+        "onboard_time": 1664527586,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 354625,
+        "num": 354625,
+        "word": "无心上班",
+        "onboard_time": 1664522603,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 267726,
+        "num": 267726,
+        "word": "惊天魔盗团3导演",
+        "onboard_time": 1664525365,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 465321,
+        "num": 267696,
+        "word": "张智霖袁咏仪披荆斩棘现场婚礼",
+        "onboard_time": 1664514804,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 422031,
+        "num": 267676,
+        "word": "北京新增2例均为农贸市场相关人员",
+        "onboard_time": 1664528305,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363556,
+        "num": 267673,
+        "word": "女医生多看一眼救下举止异常乘客",
+        "onboard_time": 1664528186,
+        "rank": 12,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 267642,
+        "num": 267642,
+        "word": "吉利汽车入股阿斯顿马丁",
+        "onboard_time": 1664523084,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 2843,
+        "num": 266823,
+        "word": "露营的N种玩法",
+        "onboard_time": 1664528425,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266166,
+        "num": 266166,
+        "word": "东北农嫂",
+        "onboard_time": 1664516005,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251167,
+        "num": 251167,
+        "word": "王者荣耀新英雄",
+        "onboard_time": 1664511805,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 228542,
+        "num": 228542,
+        "word": "胡毅峰严重违纪违法被开除党籍",
+        "onboard_time": 1664525664,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219381,
+        "num": 219381,
+        "word": "无与伦比的美丽看哭了",
+        "onboard_time": 1664524523,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213026,
+        "num": 213026,
+        "word": "理想L8售价359800元起",
+        "onboard_time": 1664527586,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 209953,
+        "num": 209953,
+        "word": "RNG问DRX今天准备好了吗",
+        "onboard_time": 1664518944,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 186715,
+        "num": 186715,
+        "word": "任贤齐哽咽",
+        "onboard_time": 1664527344,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185119,
+        "num": 185119,
+        "word": "大S具俊晔VOGUE合体封面",
+        "onboard_time": 1664520384,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 179536,
+        "num": 179536,
+        "word": "董宇辉回应被骂飘了",
+        "onboard_time": 1664511625,
+        "rank": 23,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 171787,
+        "num": 171787,
+        "word": "北斗系统每天使用量破千亿",
+        "onboard_time": 1664523264,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 159202,
+        "num": 159202,
+        "word": "女孩点酒和刀外卖小哥转头报警",
+        "onboard_time": 1664515464,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157145,
+        "num": 157145,
+        "word": "李沁看关晓彤童年视频reaction",
+        "onboard_time": 1664529985,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148117,
+        "num": 148117,
+        "word": "沈月新剧把自己写进小说",
+        "onboard_time": 1664521165,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138823,
+        "num": 138823,
+        "word": "当堵车路上遇到了老师",
+        "onboard_time": 1664525725,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138546,
+        "num": 138546,
+        "word": "北京疫情发布会",
+        "onboard_time": 1664527464,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489955,
+        "num": 138535,
+        "word": "李承铉得知好友去世崩溃",
+        "onboard_time": 1664516783,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159718,
+        "num": 138502,
+        "word": "DRX战胜RNG",
+        "onboard_time": 1664517566,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139003,
+        "num": 138486,
+        "word": "王源说一起去影院支持成朗",
+        "onboard_time": 1664523084,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138463,
+        "num": 138463,
+        "word": "羽生结弦将举办首次单独冰演",
+        "onboard_time": 1664524105,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130472,
+        "num": 130472,
+        "word": "学霸放弃英国名校读博改做外卖运营",
+        "onboard_time": 1664529566,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122167,
+        "num": 122167,
+        "word": "苏有朋回到未来好像杜飞去大上海",
+        "onboard_time": 1664518224,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122098,
+        "num": 122098,
+        "word": "李梦赛前发烧",
+        "onboard_time": 1664515521,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113024,
+        "num": 113024,
+        "word": "国庆假期哪里短袖哪里毛衣",
+        "onboard_time": 1664528964,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108142,
+        "num": 108142,
+        "word": "iPhone14Pro影像排全球第二",
+        "onboard_time": 1664509104,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 106782,
+        "num": 106782,
+        "word": "人类血栓中首次发现微塑料",
+        "onboard_time": 1664507783,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105189,
+        "num": 105189,
+        "word": "杜淳女儿听到五环之歌就哭",
+        "onboard_time": 1664519904,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93239,
+        "num": 93239,
+        "word": "胖东来召回8.5元玉米",
+        "onboard_time": 1664512285,
+        "rank": 41,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 92764,
+        "num": 92764,
+        "word": "千万别管设计叫美工",
+        "onboard_time": 1664521165,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92123,
+        "num": 92123,
+        "word": "国庆七天下7天雨是什么体验",
+        "onboard_time": 1664493199,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90296,
+        "num": 90296,
+        "word": "密室大逃脱NPC说王鹤棣香香的",
+        "onboard_time": 1664511445,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83590,
+        "num": 83590,
+        "word": "男子用30万训练币买车送女友",
+        "onboard_time": 1664530164,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82791,
+        "num": 82791,
+        "word": "这才是我最羡慕的爱情",
+        "onboard_time": 1664522785,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 82765,
+        "num": 82765,
+        "word": "乌云遇皎月明日开播",
+        "onboard_time": 1664524105,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 79939,
+        "num": 79939,
+        "word": "山东女生做龙形馒头为祖国庆生",
+        "onboard_time": 1664519545,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71164,
+        "num": 71164,
+        "word": "挪威将派军队保护本国油气设施",
+        "onboard_time": 1664513365,
+        "rank": 49,
+        "category": "国外要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#祖国永不忘记#"
+    }
+  }
+}
