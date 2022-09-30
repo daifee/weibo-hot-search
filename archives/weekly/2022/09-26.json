@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664546409835,
+  "endTime": 1664547122795,
   "band_list": [
     {
       "raw_hot": 6363692,
@@ -787,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 990276,
+      "num": 990276,
+      "word": "万里归途开分9.6",
+      "onboard_time": 1664545406,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 988755,
       "num": 988755,
       "word": "胡同 朝阳群众",
@@ -1235,14 +1243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 727838,
-      "num": 509698,
-      "word": "万里归途开分9.6",
-      "onboard_time": 1664545406,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
       "raw_hot": 726326,
       "num": 726326,
       "word": "学校回应保安打死喂奶狗妈妈",
@@ -1264,6 +1264,14 @@
       "word": "中介伪装房东9年骗走老人1050万",
       "onboard_time": 1664285066,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 713712,
+      "num": 713712,
+      "word": "外婆为外孙买充气城堡放家里玩",
+      "onboard_time": 1664543785,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -2075,6 +2083,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 501622,
+      "num": 501622,
+      "word": "中国女排战胜捷克队",
+      "onboard_time": 1664545644,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 499614,
       "num": 499614,
       "word": "金晨摘墨镜名场面",
@@ -2219,14 +2235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 482642,
-      "num": 482642,
-      "word": "外婆为外孙买充气城堡放家里玩",
-      "onboard_time": 1664543785,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 479986,
       "num": 479986,
       "word": "主持人领笑员",
@@ -2321,14 +2329,6 @@
       "onboard_time": 1664441003,
       "rank": 21,
       "category": "美食"
-    },
-    {
-      "raw_hot": 465813,
-      "num": 465813,
-      "word": "中国女排战胜捷克队",
-      "onboard_time": 1664545644,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 465241,
@@ -2841,6 +2841,14 @@
       "onboard_time": 1664294304,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 392481,
+      "num": 392481,
+      "word": "普京签署顿涅茨克等四地入俄条约",
+      "onboard_time": 1664546125,
+      "rank": 16,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 391428,
@@ -4347,6 +4355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241907,
+      "num": 241907,
+      "word": "RNG失误",
+      "onboard_time": 1664544445,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 241435,
       "num": 166435,
       "word": "NCT127将举行蚕室演唱会",
@@ -5339,14 +5355,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 191805,
-      "num": 191805,
-      "word": "RNG失误",
-      "onboard_time": 1664544445,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 191700,
       "num": 191700,
       "word": "StrayKids新专辑预售量突破224万张",
@@ -5465,14 +5473,6 @@
       "onboard_time": 1664426485,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 185306,
-      "num": 185306,
-      "word": "普京签署顿涅茨克等四地入俄条约",
-      "onboard_time": 1664546125,
-      "rank": 16,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 184779,
@@ -6097,6 +6097,14 @@
       "onboard_time": 1664093966,
       "rank": 19,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 159493,
+      "num": 159493,
+      "word": "外交人员看万里归途哽咽了",
+      "onboard_time": 1664547025,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 159407,
@@ -6771,6 +6779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134719,
+      "num": 134719,
+      "word": "2023年国考10月25日开始报名",
+      "onboard_time": 1664546905,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 133894,
       "num": 133894,
       "word": "北京新增1例本土确诊",
@@ -7195,6 +7211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 121842,
+      "num": 121842,
+      "word": "何润东眼神戏好狠",
+      "onboard_time": 1664543062,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 121603,
       "num": 121603,
       "word": "她们的名字颁奖式收官",
@@ -7563,6 +7587,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 105909,
+      "num": 105909,
+      "word": "中国姑娘好样的",
+      "onboard_time": 1664547025,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105762,
       "num": 105762,
       "word": "女孩零起步学烹饪22岁高校任教",
@@ -7633,14 +7665,6 @@
       "onboard_time": 1664435666,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 102271,
-      "num": 102271,
-      "word": "何润东眼神戏好狠",
-      "onboard_time": 1664543062,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 102033,
@@ -7793,6 +7817,14 @@
       "onboard_time": 1664271624,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 95634,
+      "num": 95634,
+      "word": "宋妍霏上海时装周走秀",
+      "onboard_time": 1664546665,
+      "rank": 41,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 95338,
@@ -8329,6 +8361,14 @@
       "onboard_time": 1664102666,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 75766,
+      "num": 75766,
+      "word": "C919将于2022年底交付",
+      "onboard_time": 1664546605,
+      "rank": 48,
+      "category": "科技,国内要闻"
     },
     {
       "raw_hot": 75389,
@@ -8913,6 +8953,14 @@
       "onboard_time": 1664226550,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 16902,
+      "num": 197751,
+      "word": "越野车被冲走大爷划皮划艇救人",
+      "onboard_time": 1664546426,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16823,
