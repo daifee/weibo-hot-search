@@ -1,6 +1,6 @@
 {
   "startTime": 1664469545657,
-  "endTime": 1664524641610,
+  "endTime": 1664527127668,
   "band_list": [
     {
       "raw_hot": 2847507,
@@ -35,6 +35,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1792447,
+      "num": 1792447,
+      "word": "女子摸鱼时被咬半身失去知觉",
+      "onboard_time": 1664522425,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1740501,
       "num": 1740501,
       "word": "21岁男子长期熬夜吸出10块血栓",
@@ -65,14 +73,6 @@
       "onboard_time": 1664517566,
       "rank": 1,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1195445,
-      "num": 1195445,
-      "word": "女子摸鱼时被咬半身失去知觉",
-      "onboard_time": 1664522425,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1121594,
@@ -121,6 +121,14 @@
       "onboard_time": 1664477351,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 800737,
+      "num": 800737,
+      "word": "无心上班",
+      "onboard_time": 1664522603,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 797064,
@@ -195,6 +203,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 583330,
+      "num": 583330,
+      "word": "吉利汽车入股阿斯顿马丁",
+      "onboard_time": 1664523084,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 573311,
       "num": 395746,
       "word": "RNG一天五次核酸",
@@ -265,6 +281,14 @@
       "onboard_time": 1664504002,
       "rank": 8,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 471077,
+      "num": 471077,
+      "word": "国产手机为什么不取消SIM卡",
+      "onboard_time": 1664524946,
+      "rank": 5,
+      "category": "科技"
     },
     {
       "raw_hot": 466602,
@@ -379,14 +403,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 354286,
-      "num": 354286,
-      "word": "吉利汽车入股阿斯顿马丁",
-      "onboard_time": 1664523084,
-      "rank": 24,
-      "category": "财经"
-    },
-    {
       "raw_hot": 348563,
       "num": 348563,
       "word": "杜淳女儿听到五环之歌就哭",
@@ -409,14 +425,6 @@
       "onboard_time": 1664490615,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 342210,
-      "num": 358011,
-      "word": "无心上班",
-      "onboard_time": 1664522603,
-      "rank": 18,
-      "category": "幽默"
     },
     {
       "raw_hot": 307838,
@@ -467,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 289413,
+      "num": 289413,
+      "word": "北斗系统每天使用量破千亿",
+      "onboard_time": 1664523264,
+      "rank": 29,
+      "category": "科技"
+    },
+    {
       "raw_hot": 289039,
       "num": 289039,
       "word": "这不就是放假前一天的我吗",
@@ -491,12 +507,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 274655,
+      "num": 274655,
+      "word": "东北农嫂曾因玉米项目违规被罚30万",
+      "onboard_time": 1664525063,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 274013,
       "num": 274013,
       "word": "苹果遭罕见下调评级",
       "onboard_time": 1664508262,
       "rank": 31,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 271049,
+      "num": 271049,
+      "word": "惊天魔盗团3导演",
+      "onboard_time": 1664525365,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 269503,
@@ -636,7 +668,7 @@
     },
     {
       "raw_hot": 217519,
-      "num": 125905,
+      "num": 194687,
       "word": "无与伦比的美丽看哭了",
       "onboard_time": 1664524523,
       "rank": 32,
@@ -763,14 +795,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 173010,
-      "num": 173010,
-      "word": "北斗系统每天使用量破千亿",
-      "onboard_time": 1664523264,
-      "rank": 29,
-      "category": "科技"
-    },
-    {
       "raw_hot": 167733,
       "num": 167733,
       "word": "千万别管设计叫美工",
@@ -785,6 +809,14 @@
       "onboard_time": 1664455466,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165160,
+      "num": 165160,
+      "word": "女子喝下自制减肥汁中毒",
+      "onboard_time": 1664526325,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163573,
@@ -931,6 +963,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127956,
+      "num": 1092185,
+      "word": "我会好好爱护你浴血守卫的山河",
+      "onboard_time": 1664514623,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 126941,
+      "num": 126941,
+      "word": "这才是我最羡慕的爱情",
+      "onboard_time": 1664522785,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 124794,
       "num": 124794,
       "word": "吴青峰新专辑上线",
@@ -963,20 +1011,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 121883,
-      "num": 1092185,
-      "word": "我会好好爱护你浴血守卫的山河",
-      "onboard_time": 1664514623,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 120344,
       "num": 120344,
       "word": "阶段性放宽部分城市首套住房贷款利率下限",
       "onboard_time": 1664461348,
       "rank": 23,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 119980,
+      "num": 119980,
+      "word": "羽生结弦将举办首次单独冰演",
+      "onboard_time": 1664524105,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 119507,
@@ -1019,14 +1067,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 113788,
-      "num": 113788,
-      "word": "这才是我最羡慕的爱情",
-      "onboard_time": 1664522785,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 112319,
       "num": 112319,
       "word": "唐九洲给妈妈做美甲被疯狂上难度",
@@ -1043,6 +1083,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 105412,
+      "num": 105412,
+      "word": "胡毅峰严重违纪违法被开除党籍",
+      "onboard_time": 1664525664,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105386,
       "num": 81017,
       "word": "做家务的男人",
@@ -1057,6 +1105,14 @@
       "onboard_time": 1664493800,
       "rank": 29,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 100590,
+      "num": 100590,
+      "word": "当堵车路上遇到了老师",
+      "onboard_time": 1664525725,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 95338,
@@ -1115,14 +1171,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 86152,
-      "num": 86152,
-      "word": "羽生结弦将举办首次单独冰演",
-      "onboard_time": 1664524105,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 85317,
       "num": 85317,
       "word": "俄以国际恐怖主义行为性质调查北溪事件",
@@ -1153,6 +1201,14 @@
       "onboard_time": 1664442683,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 80760,
+      "num": 80760,
+      "word": "国庆七天每分钟都不想浪费",
+      "onboard_time": 1664526803,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 79460,
