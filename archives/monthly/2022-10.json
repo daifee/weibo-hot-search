@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664559545449,
+  "endTime": 1664560493292,
   "band_list": [
     {
       "raw_hot": 1594753,
@@ -123,6 +123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 247157,
+      "num": 112662,
+      "word": "boss直聘现多个无厘头职位名称",
+      "onboard_time": 1664557697,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238839,
       "num": 238839,
       "word": "国庆七天每分钟都不想浪费",
@@ -161,14 +169,6 @@
       "onboard_time": 1664541924,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 170562,
-      "num": 112662,
-      "word": "boss直聘现多个无厘头职位名称",
-      "onboard_time": 1664557697,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124520,

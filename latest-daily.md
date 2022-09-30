@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/01 01:39:05
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/01 01:54:53
 </p>
 </blockquote>
 <p>
@@ -105,6 +105,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23boss%E7%9B%B4%E8%81%98%E7%8E%B0%E5%A4%9A%E4%B8%AA%E6%97%A0%E5%8E%98%E5%A4%B4%E8%81%8C%E4%BD%8D%E5%90%8D%E7%A7%B0%23" target="weibo">
+boss直聘现多个无厘头职位名称（热度：247157）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E4%B8%83%E5%A4%A9%E6%AF%8F%E5%88%86%E9%92%9F%E9%83%BD%E4%B8%8D%E6%83%B3%E6%B5%AA%E8%B4%B9%23" target="weibo">
 国庆七天每分钟都不想浪费（热度：238839）
 </a>
@@ -131,12 +137,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%87%E9%87%8C%E5%BD%92%E9%80%94%23" target="weibo">
 万里归途（热度：171133）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23boss%E7%9B%B4%E8%81%98%E7%8E%B0%E5%A4%9A%E4%B8%AA%E6%97%A0%E5%8E%98%E5%A4%B4%E8%81%8C%E4%BD%8D%E5%90%8D%E7%A7%B0%23" target="weibo">
-boss直聘现多个无厘头职位名称（热度：170562）
 </a>
 </li>
 
