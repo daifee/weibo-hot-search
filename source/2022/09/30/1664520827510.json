@@ -1,0 +1,410 @@
+{
+  "runTime": 1664520827510,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1515834,
+        "num": 1515834,
+        "word": "21岁男子长期熬夜吸出10块血栓",
+        "onboard_time": 1664513486,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1343763,
+        "num": 1343763,
+        "word": "DRX战胜RNG",
+        "onboard_time": 1664517566,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 76913,
+        "num": 1092185,
+        "word": "我会好好爱护你浴血守卫的山河",
+        "onboard_time": 1664514623,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1816274,
+        "num": 1085662,
+        "word": "李承铉得知好友去世崩溃",
+        "onboard_time": 1664516783,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1029883,
+        "num": 1029883,
+        "word": "东北农嫂",
+        "onboard_time": 1664516005,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523489,
+        "num": 523489,
+        "word": "人类血栓中首次发现微塑料",
+        "onboard_time": 1664507783,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472540,
+        "num": 472540,
+        "word": "胖东来召回8.5元玉米",
+        "onboard_time": 1664512285,
+        "rank": 6,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 422431,
+        "num": 422431,
+        "word": "王者荣耀新英雄",
+        "onboard_time": 1664511805,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 350928,
+        "num": 350928,
+        "word": "国庆七天下7天雨是什么体验",
+        "onboard_time": 1664493199,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283414,
+        "num": 283414,
+        "word": "挪威将派军队保护本国油气设施",
+        "onboard_time": 1664513365,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1232678,
+        "num": 283045,
+        "word": "张智霖袁咏仪披荆斩棘现场婚礼",
+        "onboard_time": 1664514804,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 620394,
+        "num": 282913,
+        "word": "大S具俊晔VOGUE合体封面",
+        "onboard_time": 1664520384,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 415151,
+        "num": 282679,
+        "word": "RNG问DRX今天准备好了吗",
+        "onboard_time": 1664518944,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 280335,
+        "num": 280335,
+        "word": "情侣一年以上的聊天记录",
+        "onboard_time": 1664494644,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 51922,
+        "num": 262186,
+        "word": "又一名河南籍烈士的亲人找到了",
+        "onboard_time": 1664517627,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250595,
+        "num": 250595,
+        "word": "内娱天选古代人",
+        "onboard_time": 1664498605,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 248258,
+        "num": 248258,
+        "word": "RNG",
+        "onboard_time": 1664502682,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 239041,
+        "num": 239041,
+        "word": "RNG BP",
+        "onboard_time": 1664516904,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 236720,
+        "num": 236720,
+        "word": "普京针对北溪管道泄漏事件表态",
+        "onboard_time": 1664505866,
+        "rank": 18,
+        "category": "国外要闻,社会新闻"
+      },
+      {
+        "raw_hot": 233465,
+        "num": 233465,
+        "word": "苏有朋回到未来好像杜飞去大上海",
+        "onboard_time": 1664518224,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 747141,
+        "num": 232251,
+        "word": "董宇辉回应被骂飘了",
+        "onboard_time": 1664511625,
+        "rank": 20,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 302153,
+        "num": 231620,
+        "word": "希林娜依高真大裤衩代言人",
+        "onboard_time": 1664516303,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 230962,
+        "num": 230962,
+        "word": "杜淳女儿听到五环之歌就哭",
+        "onboard_time": 1664519904,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217470,
+        "num": 217470,
+        "word": "胡一天给沈月陈哲远新剧打call",
+        "onboard_time": 1664510122,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193375,
+        "num": 193375,
+        "word": "李梦赛前发烧",
+        "onboard_time": 1664515521,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169512,
+        "num": 169512,
+        "word": "女孩点酒和刀外卖小哥转头报警",
+        "onboard_time": 1664515464,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150120,
+        "num": 150120,
+        "word": "成都今日晚高峰提前到午后",
+        "onboard_time": 1664513727,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148402,
+        "num": 148402,
+        "word": "大学不是人生的保险箱",
+        "onboard_time": 1664514446,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 147416,
+        "num": 147416,
+        "word": "二零后的名字能有多好听",
+        "onboard_time": 1664499984,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131254,
+        "num": 131254,
+        "word": "这不就是放假前一天的我吗",
+        "onboard_time": 1664507722,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 254693,
+        "num": 130404,
+        "word": "iPhone14Pro影像排全球第二",
+        "onboard_time": 1664509104,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 193177,
+        "num": 130023,
+        "word": "密室大逃脱NPC说王鹤棣香香的",
+        "onboard_time": 1664511445,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128891,
+        "num": 128891,
+        "word": "山东女生做龙形馒头为祖国庆生",
+        "onboard_time": 1664519545,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128455,
+        "num": 128455,
+        "word": "万里归途导演说王俊凯完成得非常好",
+        "onboard_time": 1664519003,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124970,
+        "num": 124970,
+        "word": "才知道杏鲍菇的花语是宇宙",
+        "onboard_time": 1664510843,
+        "rank": 34,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 114026,
+        "num": 114026,
+        "word": "女子用自己钥匙误开走别人电动车",
+        "onboard_time": 1664502265,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112988,
+        "num": 112988,
+        "word": "我们这十年定档1010",
+        "onboard_time": 1664514205,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 112319,
+        "num": 112319,
+        "word": "唐九洲给妈妈做美甲被疯狂上难度",
+        "onboard_time": 1664518586,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109686,
+        "num": 109686,
+        "word": "RNG一天五次核酸",
+        "onboard_time": 1664507964,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104558,
+        "num": 104558,
+        "word": "北京新增病例曾在列车上与外省病例有交集",
+        "onboard_time": 1664502504,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101237,
+        "num": 101237,
+        "word": "蔡徐坤主持沸腾校园运动会",
+        "onboard_time": 1664516365,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98925,
+        "num": 98925,
+        "word": "老款AirPodsPro新增自适应通透模式",
+        "onboard_time": 1664504483,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 94787,
+        "num": 98466,
+        "word": "家里买车谁说了算",
+        "onboard_time": 1664519665,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91441,
+        "num": 91441,
+        "word": "英国女王死因确认",
+        "onboard_time": 1664464945,
+        "rank": 43,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 97694,
+        "num": 91229,
+        "word": "苹果遭罕见下调评级",
+        "onboard_time": 1664508262,
+        "rank": 44,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 89579,
+        "num": 89579,
+        "word": "国庆升旗林孝埈全程跟唱国歌",
+        "onboard_time": 1664510783,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89175,
+        "num": 89175,
+        "word": "以为自己是兔子的猫猫",
+        "onboard_time": 1664502924,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87378,
+        "num": 87378,
+        "word": "昆仑神宫初一会下线吗",
+        "onboard_time": 1664520624,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 86850,
+        "num": 86850,
+        "word": "退休老师免费辅导全村孩子作业5年",
+        "onboard_time": 1664506524,
+        "rank": 48,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 79419,
+        "num": 79419,
+        "word": "原来吵架也可以这么可爱",
+        "onboard_time": 1664504724,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#今日鲜花祭英魂#"
+    }
+  }
+}

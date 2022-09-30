@@ -1,6 +1,6 @@
 {
   "startTime": 1664469545657,
-  "endTime": 1664517088262,
+  "endTime": 1664520827510,
   "band_list": [
     {
       "raw_hot": 2847507,
@@ -27,6 +27,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1816274,
+      "num": 1085662,
+      "word": "李承铉得知好友去世崩溃",
+      "onboard_time": 1664516783,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1740501,
       "num": 1740501,
       "word": "21岁男子长期熬夜吸出10块血栓",
@@ -51,6 +59,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1343763,
+      "num": 1343763,
+      "word": "DRX战胜RNG",
+      "onboard_time": 1664517566,
+      "rank": 1,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1121594,
       "num": 456600,
       "word": "内娱天选古代人",
@@ -72,6 +88,14 @@
       "word": "美国警方误将人质乱枪打死",
       "onboard_time": 1664497891,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1029883,
+      "num": 1029883,
+      "word": "东北农嫂",
+      "onboard_time": 1664516005,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -155,6 +179,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 620394,
+      "num": 282913,
+      "word": "大S具俊晔VOGUE合体封面",
+      "onboard_time": 1664520384,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 573311,
       "num": 395746,
       "word": "RNG一天五次核酸",
@@ -227,14 +259,6 @@
       "category": "财经,科技"
     },
     {
-      "raw_hot": 481568,
-      "num": 481568,
-      "word": "东北农嫂",
-      "onboard_time": 1664516005,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 466602,
       "num": 466602,
       "word": "老款AirPodsPro新增自适应通透模式",
@@ -283,6 +307,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 415151,
+      "num": 282679,
+      "word": "RNG问DRX今天准备好了吗",
+      "onboard_time": 1664518944,
+      "rank": 12,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 405049,
       "num": 405049,
       "word": "国庆放假前的我",
@@ -297,14 +329,6 @@
       "onboard_time": 1664502504,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 381339,
-      "num": 381339,
-      "word": "李承铉得知好友去世崩溃",
-      "onboard_time": 1664516783,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 380780,
@@ -451,6 +475,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 239041,
+      "num": 239041,
+      "word": "RNG BP",
+      "onboard_time": 1664516904,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 238681,
       "num": 238681,
       "word": "情侣醉酒一言不合双双跳桥",
@@ -467,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 233465,
+      "num": 233465,
+      "word": "苏有朋回到未来好像杜飞去大上海",
+      "onboard_time": 1664518224,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 233201,
       "num": 233201,
       "word": "李庚希把我演哭了",
@@ -481,6 +521,14 @@
       "onboard_time": 1664467105,
       "rank": 12,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 230962,
+      "num": 230962,
+      "word": "杜淳女儿听到五环之歌就哭",
+      "onboard_time": 1664519904,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 229854,
@@ -619,6 +667,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 169512,
+      "num": 169512,
+      "word": "女孩点酒和刀外卖小哥转头报警",
+      "onboard_time": 1664515464,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166172,
       "num": 122374,
       "word": "朴灿烈退伍后首直播",
@@ -683,6 +739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148402,
+      "num": 148402,
+      "word": "大学不是人生的保险箱",
+      "onboard_time": 1664514446,
+      "rank": 35,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 145358,
       "num": 145358,
       "word": "越长大越不想爷爷奶奶变老",
@@ -707,14 +771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 134335,
-      "num": 134335,
-      "word": "大学不是人生的保险箱",
-      "onboard_time": 1664514446,
-      "rank": 35,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 133894,
       "num": 133894,
       "word": "北京新增1例本土确诊",
@@ -731,12 +787,28 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 128891,
+      "num": 128891,
+      "word": "山东女生做龙形馒头为祖国庆生",
+      "onboard_time": 1664519545,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128715,
       "num": 121594,
       "word": "全红婵看周深直播唱歌",
       "onboard_time": 1664460205,
       "rank": 21,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 128455,
+      "num": 128455,
+      "word": "万里归途导演说王俊凯完成得非常好",
+      "onboard_time": 1664519003,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 128139,
@@ -819,6 +891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 112319,
+      "num": 112319,
+      "word": "唐九洲给妈妈做美甲被疯狂上难度",
+      "onboard_time": 1664518586,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106016,
       "num": 106016,
       "word": "吃一包辣条盐分就可能超额摄入",
@@ -859,6 +939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 94787,
+      "num": 98466,
+      "word": "家里买车谁说了算",
+      "onboard_time": 1664519665,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90305,
       "num": 90305,
       "word": "肩胛骨疼痛不要乱按摩",
@@ -880,6 +968,14 @@
       "word": "虞书欣虞美人失恋一年后还爱着他",
       "onboard_time": 1664447964,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 87378,
+      "num": 87378,
+      "word": "昆仑神宫初一会下线吗",
+      "onboard_time": 1664520624,
+      "rank": 47,
       "category": "影视"
     },
     {
@@ -931,14 +1027,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 82522,
-      "num": 82522,
-      "word": "RNG BP",
-      "onboard_time": 1664516904,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 79460,
       "num": 79460,
       "word": "男子切柚子切掉一半才见果肉",
@@ -955,6 +1043,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 76913,
+      "num": 1092185,
+      "word": "我会好好爱护你浴血守卫的山河",
+      "onboard_time": 1664514623,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 76641,
       "num": 614898,
       "word": "网络辟谣我们一起行动",
@@ -969,14 +1065,6 @@
       "onboard_time": 1664463985,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 73813,
-      "num": 1050451,
-      "word": "我会好好爱护你浴血守卫的山河",
-      "onboard_time": 1664514623,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 71588,
@@ -1081,6 +1169,14 @@
       "onboard_time": 1664463446,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 51922,
+      "num": 262186,
+      "word": "又一名河南籍烈士的亲人找到了",
+      "onboard_time": 1664517627,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51903,
@@ -1247,6 +1343,9 @@
     },
     {
       "word": "#烈士纪念日向人民英雄敬献花篮#"
+    },
+    {
+      "word": "#今日鲜花祭英魂#"
     }
   ]
 }
