@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/30 10:51:02
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/30 11:37:53
 </p>
 </blockquote>
 <p>
@@ -5991,6 +5991,12 @@ iPhone14Pro系列占中国订单85%（热度：1059806）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%AD%A6%E6%96%B9%E8%AF%AF%E5%B0%86%E4%BA%BA%E8%B4%A8%E4%B9%B1%E6%9E%AA%E6%89%93%E6%AD%BB%23" target="weibo">
+美国警方误将人质乱枪打死（热度：1040910）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E4%B8%AD%E7%A7%8B%E6%99%9A%E4%BC%9A%E7%AC%AC%E4%BA%8C%E6%B3%A2%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23" target="weibo">
 央视中秋晚会第二波阵容官宣（热度：1040151）
 </a>
@@ -6005,12 +6011,6 @@ iPhone14Pro系列占中国订单85%（热度：1059806）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%8D%8E%E4%BC%A6%E5%A4%A9%E5%A5%B4%E5%A4%A7%E7%A7%80%E5%87%BA%E5%B8%AD%E8%89%BA%E4%BA%BA%23" target="weibo">
 网传华伦天奴大秀出席艺人（热度：1038866）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23IU%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E7%9A%84%E8%8D%89%E8%8E%93%E6%9C%88%E4%BA%AE%23" target="weibo">
-IU演唱会上的草莓月亮（热度：1037515）
 </a>
 </li>
 

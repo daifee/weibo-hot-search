@@ -1,6 +1,6 @@
 {
   "startTime": 1664469545657,
-  "endTime": 1664506262234,
+  "endTime": 1664509073402,
   "band_list": [
     {
       "raw_hot": 2847507,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1391323,
-      "num": 748892,
+      "num": 766547,
       "word": "国庆七天下7天雨是什么体验",
       "onboard_time": 1664493199,
       "rank": 5,
@@ -35,19 +35,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1040910,
+      "num": 1040910,
+      "word": "美国警方误将人质乱枪打死",
+      "onboard_time": 1664497891,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 889623,
+      "num": 889623,
+      "word": "女子用自己钥匙误开走别人电动车",
+      "onboard_time": 1664502265,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 849944,
       "num": 849944,
       "word": "县委书记为零彩礼低彩礼新人证婚",
       "onboard_time": 1664477351,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 766328,
-      "num": 766328,
-      "word": "美国警方误将人质乱枪打死",
-      "onboard_time": 1664497891,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -67,6 +75,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 733522,
+      "num": 733522,
+      "word": "普京针对北溪管道泄漏事件表态",
+      "onboard_time": 1664505866,
+      "rank": 39,
+      "category": "国外要闻,社会新闻"
+    },
+    {
       "raw_hot": 662827,
       "num": 662827,
       "word": "RNG",
@@ -83,12 +99,12 @@
       "category": "幽默,影视"
     },
     {
-      "raw_hot": 658189,
-      "num": 658189,
-      "word": "女子用自己钥匙误开走别人电动车",
-      "onboard_time": 1664502265,
-      "rank": 6,
-      "category": "社会新闻"
+      "raw_hot": 573311,
+      "num": 279099,
+      "word": "RNG一天五次核酸",
+      "onboard_time": 1664507964,
+      "rank": 12,
+      "category": "游戏"
     },
     {
       "raw_hot": 547833,
@@ -105,6 +121,14 @@
       "onboard_time": 1664498907,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 499614,
+      "num": 499614,
+      "word": "金晨摘墨镜名场面",
+      "onboard_time": 1664506883,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 495604,
@@ -187,6 +211,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 361974,
+      "num": 361974,
+      "word": "以为自己是兔子的猫猫",
+      "onboard_time": 1664502924,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 354510,
+      "num": 354510,
+      "word": "原来吵架也可以这么可爱",
+      "onboard_time": 1664504724,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 347840,
       "num": 347840,
       "word": "杨利伟出演杨利伟",
@@ -203,12 +243,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 332439,
-      "num": 332439,
-      "word": "以为自己是兔子的猫猫",
-      "onboard_time": 1664502924,
-      "rank": 14,
-      "category": "幽默"
+      "raw_hot": 307838,
+      "num": 307838,
+      "word": "西南大学2022级新生开学典礼",
+      "onboard_time": 1664506883,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 296801,
@@ -348,11 +388,27 @@
     },
     {
       "raw_hot": 199962,
-      "num": 750330,
+      "num": 774356,
       "word": "今日鲜花祭英魂",
       "onboard_time": 1664494764,
       "rank": 22,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 198683,
+      "num": 198683,
+      "word": "北京昌平新增1例无症状",
+      "onboard_time": 1664505743,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189779,
+      "num": 189779,
+      "word": "退休老师免费辅导全村孩子作业5年",
+      "onboard_time": 1664506524,
+      "rank": 25,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 188822,
@@ -369,6 +425,14 @@
       "onboard_time": 1664472077,
       "rank": 34,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 175480,
+      "num": 175480,
+      "word": "这不就是放假前一天的我吗",
+      "onboard_time": 1664507722,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 173740,
@@ -395,12 +459,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 158326,
-      "num": 158326,
-      "word": "原来吵架也可以这么可爱",
-      "onboard_time": 1664504724,
-      "rank": 23,
-      "category": "幽默"
+      "raw_hot": 163414,
+      "num": 163414,
+      "word": "人类血栓中首次发现微塑料",
+      "onboard_time": 1664507783,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156897,
@@ -467,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136652,
+      "num": 136652,
+      "word": "苹果遭罕见下调评级",
+      "onboard_time": 1664508262,
+      "rank": 31,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 133894,
       "num": 133894,
       "word": "北京新增1例本土确诊",
@@ -497,6 +569,14 @@
       "onboard_time": 1664501125,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124794,
+      "num": 124794,
+      "word": "吴青峰新专辑上线",
+      "onboard_time": 1664508684,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 124421,
@@ -555,14 +635,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 107824,
-      "num": 107824,
-      "word": "北京昌平新增1例无症状",
-      "onboard_time": 1664505743,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 106016,
       "num": 106016,
       "word": "吃一包辣条盐分就可能超额摄入",
@@ -579,20 +651,28 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 100451,
+      "num": 100451,
+      "word": "河南增本土无症状19例",
+      "onboard_time": 1664508441,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95338,
+      "num": 95338,
+      "word": "成毅周亦安六宫格剧照",
+      "onboard_time": 1664506464,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 94814,
       "num": 94814,
       "word": "我是这样赶走鼠标手的",
       "onboard_time": 1664494704,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 91683,
-      "num": 91683,
-      "word": "普京针对北溪管道泄漏事件表态",
-      "onboard_time": 1664505866,
-      "rank": 39,
-      "category": "国外要闻,社会新闻"
     },
     {
       "raw_hot": 90305,
@@ -841,6 +921,14 @@
       "onboard_time": 1664474472,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 31304,
+      "num": 263235,
+      "word": "烈士们留下的话语中有铮铮铁骨",
+      "onboard_time": 1664506823,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14967,

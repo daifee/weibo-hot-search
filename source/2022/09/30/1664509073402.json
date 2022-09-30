@@ -1,0 +1,410 @@
+{
+  "runTime": 1664509073402,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1040910,
+        "num": 1040910,
+        "word": "美国警方误将人质乱枪打死",
+        "onboard_time": 1664497891,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 889623,
+        "num": 889623,
+        "word": "女子用自己钥匙误开走别人电动车",
+        "onboard_time": 1664502265,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136543,
+        "num": 774356,
+        "word": "今日鲜花祭英魂",
+        "onboard_time": 1664494764,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1158504,
+        "num": 766547,
+        "word": "国庆七天下7天雨是什么体验",
+        "onboard_time": 1664493199,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 733522,
+        "num": 733522,
+        "word": "普京针对北溪管道泄漏事件表态",
+        "onboard_time": 1664505866,
+        "rank": 4,
+        "category": "国外要闻,社会新闻"
+      },
+      {
+        "raw_hot": 596831,
+        "num": 596831,
+        "word": "RNG",
+        "onboard_time": 1664502682,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 499614,
+        "num": 499614,
+        "word": "金晨摘墨镜名场面",
+        "onboard_time": 1664506883,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 361974,
+        "num": 361974,
+        "word": "以为自己是兔子的猫猫",
+        "onboard_time": 1664502924,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 354510,
+        "num": 354510,
+        "word": "原来吵架也可以这么可爱",
+        "onboard_time": 1664504724,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 307838,
+        "num": 307838,
+        "word": "西南大学2022级新生开学典礼",
+        "onboard_time": 1664506883,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 853853,
+        "num": 304777,
+        "word": "内娱天选古代人",
+        "onboard_time": 1664498605,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 851637,
+        "num": 291992,
+        "word": "情侣一年以上的聊天记录",
+        "onboard_time": 1664494644,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 573311,
+        "num": 279099,
+        "word": "RNG一天五次核酸",
+        "onboard_time": 1664507964,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 451158,
+        "num": 267364,
+        "word": "二零后的名字能有多好听",
+        "onboard_time": 1664499984,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31304,
+        "num": 263235,
+        "word": "烈士们留下的话语中有铮铮铁骨",
+        "onboard_time": 1664506823,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465728,
+        "num": 244723,
+        "word": "老款AirPodsPro新增自适应通透模式",
+        "onboard_time": 1664504483,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 362544,
+        "num": 234069,
+        "word": "甄嬛在这个班也当不了班长",
+        "onboard_time": 1664463868,
+        "rank": 16,
+        "category": "幽默,影视"
+      },
+      {
+        "raw_hot": 231538,
+        "num": 231538,
+        "word": "女子沉迷羊了个羊丈夫报警求助",
+        "onboard_time": 1664463566,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215548,
+        "num": 215548,
+        "word": "上海4个区域划为疫情中风险区",
+        "onboard_time": 1664498907,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208700,
+        "num": 208700,
+        "word": "江母称多次被刘鑫支持者电话骚扰",
+        "onboard_time": 1664483411,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395617,
+        "num": 208548,
+        "word": "英国女王死因确认",
+        "onboard_time": 1664464945,
+        "rank": 20,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 202420,
+        "num": 202420,
+        "word": "杨利伟出演杨利伟",
+        "onboard_time": 1664500824,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202063,
+        "num": 202063,
+        "word": "北京新增病例曾在列车上与外省病例有交集",
+        "onboard_time": 1664502504,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198683,
+        "num": 198683,
+        "word": "北京昌平新增1例无症状",
+        "onboard_time": 1664505743,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190885,
+        "num": 190885,
+        "word": "酒鬼都市的女人们2预告海报",
+        "onboard_time": 1664503464,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189779,
+        "num": 189779,
+        "word": "退休老师免费辅导全村孩子作业5年",
+        "onboard_time": 1664506524,
+        "rank": 25,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 175480,
+        "num": 175480,
+        "word": "这不就是放假前一天的我吗",
+        "onboard_time": 1664507722,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163414,
+        "num": 163414,
+        "word": "人类血栓中首次发现微塑料",
+        "onboard_time": 1664507783,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147253,
+        "num": 147253,
+        "word": "惠若琪女儿比同龄高半头",
+        "onboard_time": 1664497169,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144398,
+        "num": 144398,
+        "word": "大张伟喊话鲁豫想上鲁豫有约",
+        "onboard_time": 1664498128,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136752,
+        "num": 136752,
+        "word": "鱼都不能吐出这种圈吧",
+        "onboard_time": 1664498426,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136652,
+        "num": 136652,
+        "word": "苹果遭罕见下调评级",
+        "onboard_time": 1664508262,
+        "rank": 31,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 129573,
+        "num": 129573,
+        "word": "眉山疫情防控",
+        "onboard_time": 1664497048,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126824,
+        "num": 126824,
+        "word": "县委书记为零彩礼低彩礼新人证婚",
+        "onboard_time": 1664477351,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124794,
+        "num": 124794,
+        "word": "吴青峰新专辑上线",
+        "onboard_time": 1664508684,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 122015,
+        "num": 122015,
+        "word": "gidle概念预告",
+        "onboard_time": 1664495787,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 108958,
+        "num": 108958,
+        "word": "苏州疫情防控",
+        "onboard_time": 1664501724,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103458,
+        "num": 103458,
+        "word": "王一博街舞5拿捏导演",
+        "onboard_time": 1664494403,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100451,
+        "num": 100451,
+        "word": "河南增本土无症状19例",
+        "onboard_time": 1664508441,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95338,
+        "num": 95338,
+        "word": "成毅周亦安六宫格剧照",
+        "onboard_time": 1664506464,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 93746,
+        "num": 93746,
+        "word": "东营发现1例确诊病例和1例无症状",
+        "onboard_time": 1664497466,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93563,
+        "num": 93563,
+        "word": "医生给剪破的气球缝针后吹了起来",
+        "onboard_time": 1664470938,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92362,
+        "num": 92362,
+        "word": "南京秦淮区现一名核酸异常人员",
+        "onboard_time": 1664495184,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91479,
+        "num": 91479,
+        "word": "情侣醉酒一言不合双双跳桥",
+        "onboard_time": 1664474054,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89653,
+        "num": 89653,
+        "word": "李庚希把我演哭了",
+        "onboard_time": 1664463868,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 80073,
+        "num": 80073,
+        "word": "狗狗被忘服务站主人开40公里接回",
+        "onboard_time": 1664472856,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76897,
+        "num": 76897,
+        "word": "殡葬行业工作者不敢和别人一起过年",
+        "onboard_time": 1664455947,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 74835,
+        "num": 74835,
+        "word": "北约同意韩国设立驻北约代表处",
+        "onboard_time": 1664485510,
+        "rank": 47,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 74113,
+        "num": 74113,
+        "word": "S12入围赛",
+        "onboard_time": 1664494882,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 67900,
+        "num": 67900,
+        "word": "新郎遇保安要烟弃车背新娘走",
+        "onboard_time": 1664477231,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#向烈士致敬#"
+    }
+  }
+}
