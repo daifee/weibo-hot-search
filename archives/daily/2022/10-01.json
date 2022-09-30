@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664577896565,
+  "endTime": 1664580601073,
   "band_list": [
     {
       "raw_hot": 1594753,
@@ -9,6 +9,14 @@
       "onboard_time": 1664532866,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1181281,
+      "num": 1181281,
+      "word": "国庆七天每分钟都不想浪费",
+      "onboard_time": 1664526803,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1176261,
@@ -35,16 +43,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 692156,
-      "num": 692156,
-      "word": "国庆七天每分钟都不想浪费",
-      "onboard_time": 1664526803,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 640049,
-      "num": 121089,
+      "num": 138572,
       "word": "租客退房留下2猫1狗1鸡",
       "onboard_time": 1664551584,
       "rank": 20,
@@ -57,6 +57,30 @@
       "onboard_time": 1664542403,
       "rank": 4,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 453016,
+      "num": 247627,
+      "word": "12岁乖巧女孩突变暴躁确诊脑炎",
+      "onboard_time": 1664573532,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 412396,
+      "num": 412396,
+      "word": "国庆天安门广场升旗仪式",
+      "onboard_time": 1664579778,
+      "rank": 4,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 388414,
+      "num": 388414,
+      "word": "苹果市值一夜缩水1165亿美元",
+      "onboard_time": 1664563153,
+      "rank": 35,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 368722,
@@ -81,6 +105,14 @@
       "onboard_time": 1664547025,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 330405,
+      "num": 330405,
+      "word": "柬埔寨载中国人沉船事故涉人口贩卖",
+      "onboard_time": 1664564952,
+      "rank": 26,
+      "category": "社会负面"
     },
     {
       "raw_hot": 328677,
@@ -115,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 271004,
+      "num": 271004,
+      "word": "双胞胎见爸爸回家开心到摔倒",
+      "onboard_time": 1664554223,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 266563,
       "num": 266563,
       "word": "阿朵发2000字长文给好声音蝶长",
@@ -124,7 +164,7 @@
     },
     {
       "raw_hot": 261664,
-      "num": 120545,
+      "num": 138513,
       "word": "同居5年生娃分手男方要回彩礼",
       "onboard_time": 1664539466,
       "rank": 21,
@@ -139,20 +179,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 242474,
-      "num": 242474,
-      "word": "苹果市值一夜缩水1165亿美元",
-      "onboard_time": 1664563153,
-      "rank": 35,
-      "category": "财经,科技"
+      "raw_hot": 239340,
+      "num": 239340,
+      "word": "这就是中国",
+      "onboard_time": 1664580199,
+      "rank": 11,
+      "category": "国内要闻"
     },
     {
-      "raw_hot": 216378,
-      "num": 116616,
-      "word": "12岁乖巧女孩突变暴躁确诊脑炎",
-      "onboard_time": 1664573532,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 206834,
+      "num": 206834,
+      "word": "中美女篮争夺世界杯冠军",
+      "onboard_time": 1664538747,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 203839,
@@ -171,14 +211,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 185619,
-      "num": 182597,
-      "word": "双胞胎见爸爸回家开心到摔倒",
-      "onboard_time": 1664554223,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171133,
       "num": 171133,
       "word": "万里归途",
@@ -187,20 +219,36 @@
       "category": "影视"
     },
     {
-      "raw_hot": 155805,
-      "num": 112341,
-      "word": "柬埔寨载中国人沉船事故涉人口贩卖",
-      "onboard_time": 1664564952,
-      "rank": 26,
-      "category": "社会负面"
+      "raw_hot": 169404,
+      "num": 169404,
+      "word": "电动车起火烧毁近30万元购房款",
+      "onboard_time": 1664566631,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 151835,
-      "num": 110622,
+      "raw_hot": 169353,
+      "num": 169353,
       "word": "医生接诊6个心梗患者5个爱抽烟",
       "onboard_time": 1664572570,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138464,
+      "num": 138464,
+      "word": "新中国成立73周年",
+      "onboard_time": 1664579778,
+      "rank": 23,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 135935,
+      "num": 135935,
+      "word": "表白中国我接力",
+      "onboard_time": 1664580259,
+      "rank": 25,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 124520,
@@ -208,6 +256,14 @@
       "word": "这是一只超自律的白鲸了",
       "onboard_time": 1664547625,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123688,
+      "num": 123688,
+      "word": "杭州高速涌现大流量",
+      "onboard_time": 1664567110,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -227,12 +283,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117160,
+      "num": 117160,
+      "word": "女篮",
+      "onboard_time": 1664580379,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114450,
       "num": 114450,
       "word": "RNG失误",
       "onboard_time": 1664544445,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 114287,
+      "num": 114287,
+      "word": "祝新中国生日快乐",
+      "onboard_time": 1664579899,
+      "rank": 28,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 110798,
@@ -259,11 +331,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 104903,
-      "num": 104903,
-      "word": "中美女篮争夺世界杯冠军",
-      "onboard_time": 1664538747,
-      "rank": 28,
+      "raw_hot": 99905,
+      "num": 99905,
+      "word": "张国伟夺校运会冠军",
+      "onboard_time": 1664579236,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -275,12 +347,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 90568,
-      "num": 90568,
-      "word": "电动车起火烧毁近30万元购房款",
-      "onboard_time": 1664566631,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 89509,
+      "num": 89509,
+      "word": "新能源汽车出口量大增",
+      "onboard_time": 1664575513,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 89400,
+      "num": 89400,
+      "word": "花得莫名其妙的一笔钱",
+      "onboard_time": 1664560632,
+      "rank": 29,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 86923,
@@ -305,22 +385,6 @@
       "onboard_time": 1664522425,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 73603,
-      "num": 73603,
-      "word": "杭州高速涌现大流量",
-      "onboard_time": 1664567110,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 68574,
-      "num": 68574,
-      "word": "花得莫名其妙的一笔钱",
-      "onboard_time": 1664560632,
-      "rank": 29,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 67576,
@@ -363,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62746,
+      "num": 62746,
+      "word": "偷户口本和患癌女友领证当事人回应质疑",
+      "onboard_time": 1664532443,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60855,
       "num": 60855,
       "word": "汤唯春史电影奖最佳女主角",
@@ -377,6 +449,14 @@
       "onboard_time": 1664539583,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 55810,
+      "num": 55810,
+      "word": "陈小春大合照都要比Xleader",
+      "onboard_time": 1664552782,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 55642,
@@ -409,14 +489,6 @@
       "onboard_time": 1664534962,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 49806,
-      "num": 49806,
-      "word": "偷户口本和患癌女友领证当事人回应质疑",
-      "onboard_time": 1664532443,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 49006,
@@ -473,22 +545,6 @@
       "onboard_time": 1664556498,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 35457,
-      "num": 35457,
-      "word": "新能源汽车出口量大增",
-      "onboard_time": 1664575513,
-      "rank": 44,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 29628,
-      "num": 29628,
-      "word": "陈小春大合照都要比Xleader",
-      "onboard_time": 1664552782,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 23728,

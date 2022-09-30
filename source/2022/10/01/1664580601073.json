@@ -1,0 +1,410 @@
+{
+  "runTime": 1664580601073,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1181281,
+        "num": 1181281,
+        "word": "国庆七天每分钟都不想浪费",
+        "onboard_time": 1664526803,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1133915,
+        "num": 1133915,
+        "word": "国庆",
+        "onboard_time": 1664532866,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2767,
+        "num": 883180,
+        "word": "英雄从未远去丰碑永存人间",
+        "onboard_time": 1664498006,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 695315,
+        "num": 695315,
+        "word": "妈妈寄桃酥女儿收到时碎成土",
+        "onboard_time": 1664554582,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412396,
+        "num": 412396,
+        "word": "国庆天安门广场升旗仪式",
+        "onboard_time": 1664579778,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 388414,
+        "num": 388414,
+        "word": "苹果市值一夜缩水1165亿美元",
+        "onboard_time": 1664563153,
+        "rank": 5,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 334261,
+        "num": 334261,
+        "word": "2岁娃手脏着急说婴语老师盲猜",
+        "onboard_time": 1664550925,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330405,
+        "num": 330405,
+        "word": "柬埔寨载中国人沉船事故涉人口贩卖",
+        "onboard_time": 1664564952,
+        "rank": 7,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 271004,
+        "num": 271004,
+        "word": "双胞胎见爸爸回家开心到摔倒",
+        "onboard_time": 1664554223,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254596,
+        "num": 254596,
+        "word": "boss直聘现多个无厘头职位名称",
+        "onboard_time": 1664557697,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453016,
+        "num": 247627,
+        "word": "12岁乖巧女孩突变暴躁确诊脑炎",
+        "onboard_time": 1664573532,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239340,
+        "num": 239340,
+        "word": "这就是中国",
+        "onboard_time": 1664580199,
+        "rank": 11,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 228154,
+        "num": 228154,
+        "word": "万里归途开分9.6",
+        "onboard_time": 1664545406,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206834,
+        "num": 206834,
+        "word": "中美女篮争夺世界杯冠军",
+        "onboard_time": 1664538747,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169404,
+        "num": 169404,
+        "word": "电动车起火烧毁近30万元购房款",
+        "onboard_time": 1664566631,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169353,
+        "num": 169353,
+        "word": "医生接诊6个心梗患者5个爱抽烟",
+        "onboard_time": 1664572570,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164359,
+        "num": 164359,
+        "word": "首套个人住房公积金贷款利率下调",
+        "onboard_time": 1664542403,
+        "rank": 16,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 158531,
+        "num": 158531,
+        "word": "8岁女孩压腿轻松超180度",
+        "onboard_time": 1664553741,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149276,
+        "num": 149276,
+        "word": "唐朝诡事录好高能",
+        "onboard_time": 1664549723,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138650,
+        "num": 138650,
+        "word": "外婆为外孙买充气城堡放家里玩",
+        "onboard_time": 1664543785,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264735,
+        "num": 138572,
+        "word": "租客退房留下2猫1狗1鸡",
+        "onboard_time": 1664551584,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233306,
+        "num": 138555,
+        "word": "泽连斯基签署乌克兰加入北约申请",
+        "onboard_time": 1664550503,
+        "rank": 21,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 213261,
+        "num": 138513,
+        "word": "同居5年生娃分手男方要回彩礼",
+        "onboard_time": 1664539466,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138464,
+        "num": 138464,
+        "word": "新中国成立73周年",
+        "onboard_time": 1664579778,
+        "rank": 23,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 136262,
+        "num": 136262,
+        "word": "普京签署顿涅茨克等四地入俄条约",
+        "onboard_time": 1664546125,
+        "rank": 24,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 135935,
+        "num": 135935,
+        "word": "表白中国我接力",
+        "onboard_time": 1664580259,
+        "rank": 25,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 123688,
+        "num": 123688,
+        "word": "杭州高速涌现大流量",
+        "onboard_time": 1664567110,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117160,
+        "num": 117160,
+        "word": "女篮",
+        "onboard_time": 1664580379,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114287,
+        "num": 114287,
+        "word": "祝新中国生日快乐",
+        "onboard_time": 1664579899,
+        "rank": 28,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 113525,
+        "num": 113525,
+        "word": "阿朵发2000字长文给好声音蝶长",
+        "onboard_time": 1664550984,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113504,
+        "num": 113504,
+        "word": "外交人员看万里归途哽咽了",
+        "onboard_time": 1664547025,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 111359,
+        "num": 111359,
+        "word": "小偷气愤欲偷平板电脑到手电子秤",
+        "onboard_time": 1664551584,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103756,
+        "num": 103756,
+        "word": "的哥送还手机要200元报酬失主报警",
+        "onboard_time": 1664539766,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99905,
+        "num": 99905,
+        "word": "张国伟夺校运会冠军",
+        "onboard_time": 1664579236,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91873,
+        "num": 91873,
+        "word": "男子水库放生清道夫被罚2.8万",
+        "onboard_time": 1664540187,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89509,
+        "num": 89509,
+        "word": "新能源汽车出口量大增",
+        "onboard_time": 1664575513,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 89400,
+        "num": 89400,
+        "word": "花得莫名其妙的一笔钱",
+        "onboard_time": 1664560632,
+        "rank": 36,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 70425,
+        "num": 70425,
+        "word": "万里归途",
+        "onboard_time": 1664541924,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 63776,
+        "num": 63776,
+        "word": "我和国旗合个影",
+        "onboard_time": 1664549185,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62746,
+        "num": 62746,
+        "word": "偷户口本和患癌女友领证当事人回应质疑",
+        "onboard_time": 1664532443,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55810,
+        "num": 55810,
+        "word": "陈小春大合照都要比Xleader",
+        "onboard_time": 1664552782,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55602,
+        "num": 55602,
+        "word": "中国篮协向女篮致贺信",
+        "onboard_time": 1664540966,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54044,
+        "num": 54044,
+        "word": "多所双非院校硕士报考人数猛增",
+        "onboard_time": 1664534185,
+        "rank": 42,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 49988,
+        "num": 49988,
+        "word": "21岁男子长期熬夜吸出10块血栓",
+        "onboard_time": 1664513486,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44838,
+        "num": 44838,
+        "word": "男子用30万训练币买车送女友",
+        "onboard_time": 1664530164,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44241,
+        "num": 44241,
+        "word": "女子摸鱼时被咬半身失去知觉",
+        "onboard_time": 1664522425,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40099,
+        "num": 40099,
+        "word": "光与夜之恋",
+        "onboard_time": 1664540725,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 39301,
+        "num": 39301,
+        "word": "我的反派男友是恋爱版西游记吧",
+        "onboard_time": 1664538025,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 39058,
+        "num": 39058,
+        "word": "中国女篮闯入世界杯决赛",
+        "onboard_time": 1664537068,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36854,
+        "num": 36854,
+        "word": "汤唯春史电影奖最佳女主角",
+        "onboard_time": 1664534003,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#世界科技巅峰我们都要奋勇攀登#"
+    }
+  }
+}
