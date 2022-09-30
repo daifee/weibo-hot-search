@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664569673697,
+  "endTime": 1664570687747,
   "band_list": [
     {
       "raw_hot": 1594753,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 101635,
-      "num": 28304,
+      "num": 29468,
       "word": "柬埔寨载中国人沉船事故涉人口贩卖",
       "onboard_time": 1664564952,
       "rank": 26,
@@ -443,6 +443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 30757,
+      "num": 27008,
+      "word": "电动车起火烧毁近30万元购房款",
+      "onboard_time": 1664566631,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29628,
       "num": 29628,
       "word": "陈小春大合照都要比Xleader",
@@ -451,11 +459,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 20661,
-      "num": 20661,
-      "word": "电动车起火烧毁近30万元购房款",
-      "onboard_time": 1664566631,
-      "rank": 49,
+      "raw_hot": 22512,
+      "num": 22512,
+      "word": "杭州高速涌现大流量",
+      "onboard_time": 1664567110,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -465,14 +473,6 @@
       "onboard_time": 1664561715,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 17923,
-      "num": 17923,
-      "word": "杭州高速涌现大流量",
-      "onboard_time": 1664567110,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15758,
