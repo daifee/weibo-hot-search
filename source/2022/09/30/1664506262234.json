@@ -1,0 +1,410 @@
+{
+  "runTime": 1664506262234,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1361224,
+        "num": 1361224,
+        "word": "情侣一年以上的聊天记录",
+        "onboard_time": 1664494644,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 766328,
+        "num": 766328,
+        "word": "美国警方误将人质乱枪打死",
+        "onboard_time": 1664497891,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81311,
+        "num": 750330,
+        "word": "今日鲜花祭英魂",
+        "onboard_time": 1664494764,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1038225,
+        "num": 748892,
+        "word": "国庆七天下7天雨是什么体验",
+        "onboard_time": 1664493199,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 736340,
+        "num": 736340,
+        "word": "二零后的名字能有多好听",
+        "onboard_time": 1664499984,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 662827,
+        "num": 662827,
+        "word": "RNG",
+        "onboard_time": 1664502682,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 658189,
+        "num": 658189,
+        "word": "女子用自己钥匙误开走别人电动车",
+        "onboard_time": 1664502265,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529845,
+        "num": 529845,
+        "word": "上海4个区域划为疫情中风险区",
+        "onboard_time": 1664498907,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489925,
+        "num": 489925,
+        "word": "特斯拉将降价",
+        "onboard_time": 1664504002,
+        "rank": 8,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 466602,
+        "num": 466602,
+        "word": "老款AirPodsPro新增自适应通透模式",
+        "onboard_time": 1664504483,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1121594,
+        "num": 456600,
+        "word": "内娱天选古代人",
+        "onboard_time": 1664498605,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 397316,
+        "num": 397316,
+        "word": "甄嬛在这个班也当不了班长",
+        "onboard_time": 1664463868,
+        "rank": 11,
+        "category": "幽默,影视"
+      },
+      {
+        "raw_hot": 394997,
+        "num": 394997,
+        "word": "北京新增病例曾在列车上与外省病例有交集",
+        "onboard_time": 1664502504,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347840,
+        "num": 347840,
+        "word": "杨利伟出演杨利伟",
+        "onboard_time": 1664500824,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332439,
+        "num": 332439,
+        "word": "以为自己是兔子的猫猫",
+        "onboard_time": 1664502924,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 276845,
+        "num": 276845,
+        "word": "女子沉迷羊了个羊丈夫报警求助",
+        "onboard_time": 1664463566,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250224,
+        "num": 250224,
+        "word": "江母称多次被刘鑫支持者电话骚扰",
+        "onboard_time": 1664483411,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248648,
+        "num": 248648,
+        "word": "酒鬼都市的女人们2预告海报",
+        "onboard_time": 1664503464,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235104,
+        "num": 235104,
+        "word": "惠若琪女儿比同龄高半头",
+        "onboard_time": 1664497169,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209507,
+        "num": 209507,
+        "word": "苏州疫情防控",
+        "onboard_time": 1664501724,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 649304,
+        "num": 207611,
+        "word": "英国女王死因确认",
+        "onboard_time": 1664464945,
+        "rank": 20,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 200474,
+        "num": 200474,
+        "word": "鱼都不能吐出这种圈吧",
+        "onboard_time": 1664498426,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165058,
+        "num": 165058,
+        "word": "县委书记为零彩礼低彩礼新人证婚",
+        "onboard_time": 1664477351,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158326,
+        "num": 158326,
+        "word": "原来吵架也可以这么可爱",
+        "onboard_time": 1664504724,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154800,
+        "num": 154800,
+        "word": "眉山疫情防控",
+        "onboard_time": 1664497048,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153695,
+        "num": 153695,
+        "word": "李庚希把我演哭了",
+        "onboard_time": 1664463868,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151857,
+        "num": 151857,
+        "word": "gidle概念预告",
+        "onboard_time": 1664495787,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 148937,
+        "num": 148937,
+        "word": "大张伟喊话鲁豫想上鲁豫有约",
+        "onboard_time": 1664498128,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148522,
+        "num": 148522,
+        "word": "南京秦淮区现一名核酸异常人员",
+        "onboard_time": 1664495184,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141859,
+        "num": 141859,
+        "word": "东营发现1例确诊病例和1例无症状",
+        "onboard_time": 1664497466,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133894,
+        "num": 133894,
+        "word": "北京新增1例本土确诊",
+        "onboard_time": 1664497196,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128139,
+        "num": 128139,
+        "word": "9月29日新增本土无症状625例",
+        "onboard_time": 1664501125,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123086,
+        "num": 123086,
+        "word": "王一博街舞5拿捏导演",
+        "onboard_time": 1664494403,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121409,
+        "num": 121409,
+        "word": "医生给剪破的气球缝针后吹了起来",
+        "onboard_time": 1664470938,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119913,
+        "num": 119913,
+        "word": "北约同意韩国设立驻北约代表处",
+        "onboard_time": 1664485510,
+        "rank": 34,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 118297,
+        "num": 118297,
+        "word": "殡葬行业工作者不敢和别人一起过年",
+        "onboard_time": 1664455947,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 107824,
+        "num": 107824,
+        "word": "北京昌平新增1例无症状",
+        "onboard_time": 1664505743,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106239,
+        "num": 106239,
+        "word": "新郎遇保安要烟弃车背新娘走",
+        "onboard_time": 1664477231,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104498,
+        "num": 104498,
+        "word": "情侣醉酒一言不合双双跳桥",
+        "onboard_time": 1664474054,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91683,
+        "num": 91683,
+        "word": "普京针对北溪管道泄漏事件表态",
+        "onboard_time": 1664505866,
+        "rank": 39,
+        "category": "国外要闻,社会新闻"
+      },
+      {
+        "raw_hot": 88904,
+        "num": 88904,
+        "word": "狗狗被忘服务站主人开40公里接回",
+        "onboard_time": 1664472856,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85004,
+        "num": 85004,
+        "word": "试床垫店家贴心关灯盖被男子醒后买走",
+        "onboard_time": 1664490615,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83365,
+        "num": 83365,
+        "word": "烈士纪念日",
+        "onboard_time": 1664493800,
+        "rank": 42,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 80560,
+        "num": 80560,
+        "word": "刘亦菲虎扑女神双冠军",
+        "onboard_time": 1664451445,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78842,
+        "num": 78842,
+        "word": "S12入围赛",
+        "onboard_time": 1664494882,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 77961,
+        "num": 77961,
+        "word": "韩国一客机起飞滑跑时撞机",
+        "onboard_time": 1664480231,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75502,
+        "num": 75502,
+        "word": "国庆放假前的我",
+        "onboard_time": 1664462485,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 69148,
+        "num": 69148,
+        "word": "金昇玟新OST",
+        "onboard_time": 1664503524,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 62254,
+        "num": 62254,
+        "word": "黄牛回收片仔癀最低仅400元",
+        "onboard_time": 1664472077,
+        "rank": 48,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 61671,
+        "num": 61671,
+        "word": "全球首只克隆北极狼亮相哈尔滨",
+        "onboard_time": 1664486711,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#烈士纪念日向人民英雄敬献花篮#"
+    }
+  }
+}

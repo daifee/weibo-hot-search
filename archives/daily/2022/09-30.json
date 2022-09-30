@@ -1,6 +1,6 @@
 {
   "startTime": 1664469545657,
-  "endTime": 1664495487764,
+  "endTime": 1664506262234,
   "band_list": [
     {
       "raw_hot": 2847507,
@@ -12,11 +12,27 @@
     },
     {
       "raw_hot": 1391323,
-      "num": 604824,
+      "num": 748892,
       "word": "国庆七天下7天雨是什么体验",
       "onboard_time": 1664493199,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1361224,
+      "num": 1361224,
+      "word": "情侣一年以上的聊天记录",
+      "onboard_time": 1664494644,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1121594,
+      "num": 456600,
+      "word": "内娱天选古代人",
+      "onboard_time": 1664498605,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 849944,
@@ -24,6 +40,14 @@
       "word": "县委书记为零彩礼低彩礼新人证婚",
       "onboard_time": 1664477351,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 766328,
+      "num": 766328,
+      "word": "美国警方误将人质乱枪打死",
+      "onboard_time": 1664497891,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -35,12 +59,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 736340,
+      "num": 736340,
+      "word": "二零后的名字能有多好听",
+      "onboard_time": 1664499984,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 662827,
+      "num": 662827,
+      "word": "RNG",
+      "onboard_time": 1664502682,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 661136,
-      "num": 341587,
+      "num": 397316,
       "word": "甄嬛在这个班也当不了班长",
       "onboard_time": 1664463868,
       "rank": 10,
       "category": "幽默,影视"
+    },
+    {
+      "raw_hot": 658189,
+      "num": 658189,
+      "word": "女子用自己钥匙误开走别人电动车",
+      "onboard_time": 1664502265,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 547833,
@@ -51,12 +99,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 529845,
+      "num": 529845,
+      "word": "上海4个区域划为疫情中风险区",
+      "onboard_time": 1664498907,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 495604,
       "num": 495604,
       "word": "北约同意韩国设立驻北约代表处",
       "onboard_time": 1664485510,
       "rank": 22,
       "category": "军事,国外要闻"
+    },
+    {
+      "raw_hot": 489925,
+      "num": 489925,
+      "word": "特斯拉将降价",
+      "onboard_time": 1664504002,
+      "rank": 8,
+      "category": "财经,科技"
+    },
+    {
+      "raw_hot": 466602,
+      "num": 466602,
+      "word": "老款AirPodsPro新增自适应通透模式",
+      "onboard_time": 1664504483,
+      "rank": 9,
+      "category": "科技"
     },
     {
       "raw_hot": 451501,
@@ -99,11 +171,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 394997,
+      "num": 394997,
+      "word": "北京新增病例曾在列车上与外省病例有交集",
+      "onboard_time": 1664502504,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 380780,
       "num": 380780,
       "word": "医生给剪破的气球缝针后吹了起来",
       "onboard_time": 1664470938,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347840,
+      "num": 347840,
+      "word": "杨利伟出演杨利伟",
+      "onboard_time": 1664500824,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -113,6 +201,14 @@
       "onboard_time": 1664490615,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 332439,
+      "num": 332439,
+      "word": "以为自己是兔子的猫猫",
+      "onboard_time": 1664502924,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 296801,
@@ -147,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248648,
+      "num": 248648,
+      "word": "酒鬼都市的女人们2预告海报",
+      "onboard_time": 1664503464,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 245728,
       "num": 245728,
       "word": "韩国一客机起飞滑跑时撞机",
@@ -169,6 +273,14 @@
       "onboard_time": 1664474054,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235104,
+      "num": 235104,
+      "word": "惠若琪女儿比同龄高半头",
+      "onboard_time": 1664497169,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 233201,
@@ -211,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209507,
+      "num": 209507,
+      "word": "苏州疫情防控",
+      "onboard_time": 1664501724,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208525,
       "num": 208525,
       "word": "狗狗被忘服务站主人开40公里接回",
@@ -219,8 +339,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200474,
+      "num": 200474,
+      "word": "鱼都不能吐出这种圈吧",
+      "onboard_time": 1664498426,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 199962,
-      "num": 199962,
+      "num": 750330,
       "word": "今日鲜花祭英魂",
       "onboard_time": 1664494764,
       "rank": 22,
@@ -267,11 +395,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158326,
+      "num": 158326,
+      "word": "原来吵架也可以这么可爱",
+      "onboard_time": 1664504724,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 156897,
       "num": 156897,
       "word": "山西算把穿越玩明白了",
       "onboard_time": 1664460927,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154800,
+      "num": 154800,
+      "word": "眉山疫情防控",
+      "onboard_time": 1664497048,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -283,12 +427,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 152294,
-      "num": 152294,
-      "word": "情侣一年以上的聊天记录",
-      "onboard_time": 1664494644,
-      "rank": 27,
-      "category": "情感"
+      "raw_hot": 151857,
+      "num": 151857,
+      "word": "gidle概念预告",
+      "onboard_time": 1664495787,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 151011,
@@ -299,12 +443,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 148937,
+      "num": 148937,
+      "word": "大张伟喊话鲁豫想上鲁豫有约",
+      "onboard_time": 1664498128,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145358,
       "num": 145358,
       "word": "越长大越不想爷爷奶奶变老",
       "onboard_time": 1664446944,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 141859,
+      "num": 141859,
+      "word": "东营发现1例确诊病例和1例无症状",
+      "onboard_time": 1664497466,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133894,
+      "num": 133894,
+      "word": "北京新增1例本土确诊",
+      "onboard_time": 1664497196,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129739,
@@ -323,6 +491,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 128139,
+      "num": 128139,
+      "word": "9月29日新增本土无症状625例",
+      "onboard_time": 1664501125,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124421,
       "num": 121246,
       "word": "周博文撞见爸妈接吻",
@@ -339,8 +515,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 122669,
-      "num": 122669,
+      "raw_hot": 123086,
+      "num": 123086,
       "word": "王一博街舞5拿捏导演",
       "onboard_time": 1664494403,
       "rank": 48,
@@ -379,6 +555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 107824,
+      "num": 107824,
+      "word": "北京昌平新增1例无症状",
+      "onboard_time": 1664505743,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106016,
       "num": 106016,
       "word": "吃一包辣条盐分就可能超额摄入",
@@ -401,6 +585,14 @@
       "onboard_time": 1664494704,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 91683,
+      "num": 91683,
+      "word": "普京针对北溪管道泄漏事件表态",
+      "onboard_time": 1664505866,
+      "rank": 39,
+      "category": "国外要闻,社会新闻"
     },
     {
       "raw_hot": 90305,
@@ -505,6 +697,14 @@
       "onboard_time": 1664451025,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 69148,
+      "num": 69148,
+      "word": "金昇玟新OST",
+      "onboard_time": 1664503524,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 66831,
@@ -732,6 +932,9 @@
     },
     {
       "word": "#向烈士致敬#"
+    },
+    {
+      "word": "#烈士纪念日向人民英雄敬献花篮#"
     }
   ]
 }
