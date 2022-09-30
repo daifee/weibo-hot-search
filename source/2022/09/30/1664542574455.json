@@ -1,0 +1,410 @@
+{
+  "runTime": 1664542574455,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6363692,
+        "num": 6363692,
+        "word": "中国女篮闯入世界杯决赛",
+        "onboard_time": 1664537068,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 805952,
+        "num": 805952,
+        "word": "王思雨罚球绝杀",
+        "onboard_time": 1664537306,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 6227,
+        "num": 725012,
+        "word": "英雄从未远去丰碑永存人间",
+        "onboard_time": 1664498006,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 676662,
+        "num": 676662,
+        "word": "女篮裁判",
+        "onboard_time": 1664534303,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 503875,
+        "num": 503875,
+        "word": "中国女篮世界杯决赛对阵美国",
+        "onboard_time": 1664537126,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 466040,
+        "num": 466040,
+        "word": "女子摸鱼时被咬半身失去知觉",
+        "onboard_time": 1664522425,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432827,
+        "num": 432827,
+        "word": "万里归途",
+        "onboard_time": 1664541924,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 396181,
+        "num": 396181,
+        "word": "多所双非院校硕士报考人数猛增",
+        "onboard_time": 1664534185,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 383573,
+        "num": 383573,
+        "word": "的哥送还手机要200元报酬失主报警",
+        "onboard_time": 1664539766,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338623,
+        "num": 338623,
+        "word": "男子用30万训练币买车送女友",
+        "onboard_time": 1664530164,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 841121,
+        "num": 333321,
+        "word": "孕期男方出轨离婚后阻碍前妻探视",
+        "onboard_time": 1664537903,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 698050,
+        "num": 331856,
+        "word": "同居5年生娃分手男方要回彩礼",
+        "onboard_time": 1664539466,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322607,
+        "num": 322607,
+        "word": "国庆七天每分钟都不想浪费",
+        "onboard_time": 1664526803,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317855,
+        "num": 317855,
+        "word": "男子水库放生清道夫被罚2.8万",
+        "onboard_time": 1664540187,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256123,
+        "num": 256123,
+        "word": "光与夜之恋",
+        "onboard_time": 1664540725,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 255686,
+        "num": 255686,
+        "word": "84岁老人报9元恩情捐100万助学",
+        "onboard_time": 1664537846,
+        "rank": 15,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 255520,
+        "num": 255520,
+        "word": "中美女篮争夺世界杯冠军",
+        "onboard_time": 1664538747,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249650,
+        "num": 249650,
+        "word": "首套个人住房公积金贷款利率下调",
+        "onboard_time": 1664542403,
+        "rank": 17,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 244679,
+        "num": 244679,
+        "word": "女篮世界杯",
+        "onboard_time": 1664530523,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213407,
+        "num": 213407,
+        "word": "偷户口本和患癌女友领证当事人回应质疑",
+        "onboard_time": 1664532443,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249304,
+        "num": 207739,
+        "word": "中国女篮赛后庆祝现场",
+        "onboard_time": 1664540542,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200717,
+        "num": 200717,
+        "word": "21岁男子长期熬夜吸出10块血栓",
+        "onboard_time": 1664513486,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183589,
+        "num": 183589,
+        "word": "女子喝下自制减肥汁中毒",
+        "onboard_time": 1664526325,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178291,
+        "num": 178291,
+        "word": "中国篮协向女篮致贺信",
+        "onboard_time": 1664540966,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175218,
+        "num": 175218,
+        "word": "张智霖袁咏仪披荆斩棘现场婚礼",
+        "onboard_time": 1664514804,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160120,
+        "num": 160120,
+        "word": "国产手机为什么不取消SIM卡",
+        "onboard_time": 1664524946,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 155970,
+        "num": 155970,
+        "word": "张云龙范世錡mike好像伴郎",
+        "onboard_time": 1664534363,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151450,
+        "num": 151450,
+        "word": "半个GQ的嘉宾都跟黄渤艺术作品合影了",
+        "onboard_time": 1664533944,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146861,
+        "num": 146861,
+        "word": "女医生多看一眼救下举止异常乘客",
+        "onboard_time": 1664528186,
+        "rank": 28,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 130650,
+        "num": 130650,
+        "word": "汤唯春史电影奖最佳女主角",
+        "onboard_time": 1664534003,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173880,
+        "num": 130317,
+        "word": "李承铉得知好友去世崩溃",
+        "onboard_time": 1664516783,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129549,
+        "num": 129549,
+        "word": "周深查户口式聊天",
+        "onboard_time": 1664539583,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123940,
+        "num": 123940,
+        "word": "国庆",
+        "onboard_time": 1664532866,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121229,
+        "num": 121229,
+        "word": "2022年女排世锦赛",
+        "onboard_time": 1664541086,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117877,
+        "num": 117877,
+        "word": "李一桐新剧开播像玩剧本杀",
+        "onboard_time": 1664527586,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 112367,
+        "num": 112367,
+        "word": "北京新增2例均为农贸市场相关人员",
+        "onboard_time": 1664528305,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92421,
+        "num": 92421,
+        "word": "李现新剧群星闪耀时今日开机",
+        "onboard_time": 1664537068,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 86056,
+        "num": 86056,
+        "word": "中国女篮姑娘太棒了",
+        "onboard_time": 1664537428,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85107,
+        "num": 85107,
+        "word": "万里归途能成为国庆档爆款吗",
+        "onboard_time": 1664534962,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 82638,
+        "num": 82638,
+        "word": "女子看女篮比赛哽咽跟唱国歌",
+        "onboard_time": 1664541204,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84454,
+        "num": 82492,
+        "word": "2022国庆档新片总票房破亿",
+        "onboard_time": 1664538204,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 79463,
+        "num": 79463,
+        "word": "韩旭单节13分",
+        "onboard_time": 1664535203,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78371,
+        "num": 78371,
+        "word": "惊天魔盗团3导演",
+        "onboard_time": 1664525365,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 75406,
+        "num": 75406,
+        "word": "NCT127获音银一位",
+        "onboard_time": 1664533463,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74748,
+        "num": 74748,
+        "word": "无与伦比的美丽看哭了",
+        "onboard_time": 1664524523,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70388,
+        "num": 70388,
+        "word": "我的反派男友是恋爱版西游记吧",
+        "onboard_time": 1664538025,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 64437,
+        "num": 64437,
+        "word": "胡毅峰严重违纪违法被开除党籍",
+        "onboard_time": 1664525664,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62522,
+        "num": 62522,
+        "word": "中国女篮越来越强",
+        "onboard_time": 1664537248,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61695,
+        "num": 61695,
+        "word": "北斗系统每天使用量破千亿",
+        "onboard_time": 1664523264,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 58811,
+        "num": 58811,
+        "word": "东北农嫂曾因玉米项目违规被罚30万",
+        "onboard_time": 1664525063,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#今日鲜花祭英魂#"
+    }
+  }
+}
