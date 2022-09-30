@@ -1,6 +1,6 @@
 {
   "startTime": 1661963499184,
-  "endTime": 1664509073402,
+  "endTime": 1664514170816,
   "band_list": [
     {
       "raw_hot": 62672169,
@@ -2329,6 +2329,14 @@
       "onboard_time": 1664156845,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2010713,
+      "num": 2010713,
+      "word": "董宇辉回应被骂飘了",
+      "onboard_time": 1664511625,
+      "rank": 0,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 2009557,
@@ -7969,6 +7977,14 @@
       "onboard_time": 1662347245,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1041409,
+      "num": 297104,
+      "word": "胡一天给沈月陈哲远新剧打call",
+      "onboard_time": 1664510122,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 1040910,
@@ -13659,6 +13675,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 666117,
+      "num": 666117,
+      "word": "人类血栓中首次发现微塑料",
+      "onboard_time": 1664507783,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 665865,
       "num": 665865,
       "word": "运动超过半小时才是有效减肥",
@@ -14201,6 +14225,14 @@
       "onboard_time": 1662993347,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 642661,
+      "num": 642661,
+      "word": "iPhone14Pro影像排全球第二",
+      "onboard_time": 1664509104,
+      "rank": 6,
+      "category": "科技"
     },
     {
       "raw_hot": 642154,
@@ -15956,7 +15988,7 @@
     },
     {
       "raw_hot": 573311,
-      "num": 279099,
+      "num": 395746,
       "word": "RNG一天五次核酸",
       "onboard_time": 1664507964,
       "rank": 12,
@@ -16145,6 +16177,14 @@
       "onboard_time": 1662992502,
       "rank": 44,
       "category": "科技"
+    },
+    {
+      "raw_hot": 568912,
+      "num": 568912,
+      "word": "王者荣耀新英雄",
+      "onboard_time": 1664511805,
+      "rank": 7,
+      "category": "游戏"
     },
     {
       "raw_hot": 568848,
@@ -16801,6 +16841,14 @@
       "onboard_time": 1663298431,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 546601,
+      "num": 423530,
+      "word": "胖东来召回8.5元玉米",
+      "onboard_time": 1664512285,
+      "rank": 11,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 546117,
@@ -18827,6 +18875,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 494341,
+      "num": 494341,
+      "word": "密室大逃脱NPC说王鹤棣香香的",
+      "onboard_time": 1664511445,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 494295,
       "num": 494295,
       "word": "王鹤棣在密逃被吓到模糊",
@@ -20137,6 +20193,14 @@
       "onboard_time": 1663218041,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 463254,
+      "num": 463254,
+      "word": "国庆升旗林孝埈全程跟唱国歌",
+      "onboard_time": 1664510783,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 462914,
@@ -26579,6 +26643,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 350388,
+      "num": 350388,
+      "word": "DRX对战RNG",
+      "onboard_time": 1664512586,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 350116,
       "num": 350116,
       "word": "北京新增社会面病例现住民大附中",
@@ -30339,6 +30411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 301646,
+      "num": 301646,
+      "word": "才知道杏鲍菇的花语是宇宙",
+      "onboard_time": 1664510843,
+      "rank": 19,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 301522,
       "num": 301522,
       "word": "哈萨克斯坦将首都重新命名为阿斯塔纳",
@@ -31673,6 +31753,14 @@
       "onboard_time": 1663948946,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 289039,
+      "num": 289039,
+      "word": "这不就是放假前一天的我吗",
+      "onboard_time": 1664507722,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 288913,
@@ -33281,6 +33369,14 @@
       "onboard_time": 1664240487,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274013,
+      "num": 274013,
+      "word": "苹果遭罕见下调评级",
+      "onboard_time": 1664508262,
+      "rank": 31,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 273986,
@@ -37545,6 +37641,14 @@
       "onboard_time": 1662471929,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 235130,
+      "num": 235130,
+      "word": "21岁男子长期熬夜吸出10块血栓",
+      "onboard_time": 1664513486,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235104,
@@ -44555,6 +44659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 177671,
+      "num": 177671,
+      "word": "金道英醉酒状态",
+      "onboard_time": 1664509524,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177424,
       "num": 177424,
       "word": "北京年轻人国潮消费全国第一",
@@ -44697,14 +44809,6 @@
       "onboard_time": 1662735211,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 175480,
-      "num": 175480,
-      "word": "这不就是放假前一天的我吗",
-      "onboard_time": 1664507722,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 175467,
@@ -46137,14 +46241,6 @@
       "onboard_time": 1661956175,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 163414,
-      "num": 163414,
-      "word": "人类血栓中首次发现微塑料",
-      "onboard_time": 1664507783,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 163400,
@@ -48955,6 +49051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140184,
+      "num": 140184,
+      "word": "河南增本土无症状19例",
+      "onboard_time": 1664508441,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140054,
       "num": 140054,
       "word": "未来AI提供理财服务会普遍吗",
@@ -49473,14 +49577,6 @@
       "onboard_time": 1664334444,
       "rank": 33,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 136652,
-      "num": 136652,
-      "word": "苹果遭罕见下调评级",
-      "onboard_time": 1664508262,
-      "rank": 31,
-      "category": "财经,科技"
     },
     {
       "raw_hot": 136629,
@@ -51531,6 +51627,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 119087,
+      "num": 119087,
+      "word": "我的反派男友今晚开播",
+      "onboard_time": 1664511686,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 119058,
       "num": 119058,
       "word": "你安全吗公交车色狼",
@@ -53211,14 +53315,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 100451,
-      "num": 100451,
-      "word": "河南增本土无症状19例",
-      "onboard_time": 1664508441,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 100319,
       "num": 100319,
       "word": "四川大学126周年",
@@ -53256,6 +53352,14 @@
       "word": "女孩见务工爸爸回家喜极而泣",
       "onboard_time": 1664379143,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99912,
+      "num": 99912,
+      "word": "成都今日晚高峰提前到午后",
+      "onboard_time": 1664513727,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -54251,6 +54355,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 86337,
+      "num": 86337,
+      "word": "假期的正确打开方式",
+      "onboard_time": 1664511085,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 86305,
       "num": 86305,
       "word": "盲盒除了看还能干嘛",
@@ -54817,6 +54929,14 @@
       "onboard_time": 1662710429,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 77844,
+      "num": 77844,
+      "word": "挪威将派军队保护本国油气设施",
+      "onboard_time": 1664513365,
+      "rank": 49,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 77832,
@@ -56651,6 +56771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21098,
+      "num": 160729,
+      "word": "向红色历史中的革命伴侣致敬",
+      "onboard_time": 1664510425,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20412,
       "num": 527464,
       "word": "短片凡心微光",
@@ -58161,6 +58289,14 @@
       "onboard_time": 1663772432,
       "rank": 14,
       "category": "科技"
+    },
+    {
+      "raw_hot": 5193,
+      "num": 368174,
+      "word": "今天为所有烈士发一条微博",
+      "onboard_time": 1664514087,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 5164,

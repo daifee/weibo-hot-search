@@ -1,0 +1,410 @@
+{
+  "runTime": 1664514170816,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2010713,
+        "num": 2010713,
+        "word": "董宇辉回应被骂飘了",
+        "onboard_time": 1664511625,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 849309,
+        "num": 849309,
+        "word": "女子用自己钥匙误开走别人电动车",
+        "onboard_time": 1664502265,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105340,
+        "num": 682736,
+        "word": "今日鲜花祭英魂",
+        "onboard_time": 1664494764,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 984874,
+        "num": 681971,
+        "word": "国庆七天下7天雨是什么体验",
+        "onboard_time": 1664493199,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 666117,
+        "num": 666117,
+        "word": "人类血栓中首次发现微塑料",
+        "onboard_time": 1664507783,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 642708,
+        "num": 642708,
+        "word": "普京针对北溪管道泄漏事件表态",
+        "onboard_time": 1664505866,
+        "rank": 5,
+        "category": "国外要闻,社会新闻"
+      },
+      {
+        "raw_hot": 642661,
+        "num": 642661,
+        "word": "iPhone14Pro影像排全球第二",
+        "onboard_time": 1664509104,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 568912,
+        "num": 568912,
+        "word": "王者荣耀新英雄",
+        "onboard_time": 1664511805,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 494341,
+        "num": 494341,
+        "word": "密室大逃脱NPC说王鹤棣香香的",
+        "onboard_time": 1664511445,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 463254,
+        "num": 463254,
+        "word": "国庆升旗林孝埈全程跟唱国歌",
+        "onboard_time": 1664510783,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 613740,
+        "num": 449897,
+        "word": "情侣一年以上的聊天记录",
+        "onboard_time": 1664494644,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 546601,
+        "num": 423530,
+        "word": "胖东来召回8.5元玉米",
+        "onboard_time": 1664512285,
+        "rank": 11,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 532274,
+        "num": 406393,
+        "word": "内娱天选古代人",
+        "onboard_time": 1664498605,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 483130,
+        "num": 395746,
+        "word": "RNG一天五次核酸",
+        "onboard_time": 1664507964,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 5193,
+        "num": 368174,
+        "word": "今天为所有烈士发一条微博",
+        "onboard_time": 1664514087,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362183,
+        "num": 362183,
+        "word": "二零后的名字能有多好听",
+        "onboard_time": 1664499984,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 350388,
+        "num": 350388,
+        "word": "DRX对战RNG",
+        "onboard_time": 1664512586,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 309410,
+        "num": 309410,
+        "word": "RNG",
+        "onboard_time": 1664502682,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 301867,
+        "num": 301867,
+        "word": "金晨摘墨镜名场面",
+        "onboard_time": 1664506883,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301646,
+        "num": 301646,
+        "word": "才知道杏鲍菇的花语是宇宙",
+        "onboard_time": 1664510843,
+        "rank": 19,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 1041409,
+        "num": 297104,
+        "word": "胡一天给沈月陈哲远新剧打call",
+        "onboard_time": 1664510122,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 327756,
+        "num": 295647,
+        "word": "英国女王死因确认",
+        "onboard_time": 1664464945,
+        "rank": 21,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 289039,
+        "num": 289039,
+        "word": "这不就是放假前一天的我吗",
+        "onboard_time": 1664507722,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 274013,
+        "num": 274013,
+        "word": "苹果遭罕见下调评级",
+        "onboard_time": 1664508262,
+        "rank": 23,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 254437,
+        "num": 254437,
+        "word": "美国警方误将人质乱枪打死",
+        "onboard_time": 1664497891,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239259,
+        "num": 239259,
+        "word": "甄嬛在这个班也当不了班长",
+        "onboard_time": 1664463868,
+        "rank": 25,
+        "category": "幽默,影视"
+      },
+      {
+        "raw_hot": 235130,
+        "num": 235130,
+        "word": "21岁男子长期熬夜吸出10块血栓",
+        "onboard_time": 1664513486,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199245,
+        "num": 199245,
+        "word": "以为自己是兔子的猫猫",
+        "onboard_time": 1664502924,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183930,
+        "num": 183930,
+        "word": "退休老师免费辅导全村孩子作业5年",
+        "onboard_time": 1664506524,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 177671,
+        "num": 177671,
+        "word": "金道英醉酒状态",
+        "onboard_time": 1664509524,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188413,
+        "num": 176399,
+        "word": "老款AirPodsPro新增自适应通透模式",
+        "onboard_time": 1664504483,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 21098,
+        "num": 160729,
+        "word": "向红色历史中的革命伴侣致敬",
+        "onboard_time": 1664510425,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156836,
+        "num": 156836,
+        "word": "原来吵架也可以这么可爱",
+        "onboard_time": 1664504724,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153924,
+        "num": 153924,
+        "word": "上海4个区域划为疫情中风险区",
+        "onboard_time": 1664498907,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152484,
+        "num": 152484,
+        "word": "北京新增病例曾在列车上与外省病例有交集",
+        "onboard_time": 1664502504,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140184,
+        "num": 140184,
+        "word": "河南增本土无症状19例",
+        "onboard_time": 1664508441,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131581,
+        "num": 131581,
+        "word": "女子沉迷羊了个羊丈夫报警求助",
+        "onboard_time": 1664463566,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126571,
+        "num": 126571,
+        "word": "江母称多次被刘鑫支持者电话骚扰",
+        "onboard_time": 1664483411,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123989,
+        "num": 123989,
+        "word": "西南大学2022级新生开学典礼",
+        "onboard_time": 1664506883,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 121557,
+        "num": 121557,
+        "word": "鱼都不能吐出这种圈吧",
+        "onboard_time": 1664498426,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119087,
+        "num": 119087,
+        "word": "我的反派男友今晚开播",
+        "onboard_time": 1664511686,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115569,
+        "num": 115569,
+        "word": "杨利伟出演杨利伟",
+        "onboard_time": 1664500824,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104712,
+        "num": 104712,
+        "word": "北京昌平新增1例无症状",
+        "onboard_time": 1664505743,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99912,
+        "num": 99912,
+        "word": "成都今日晚高峰提前到午后",
+        "onboard_time": 1664513727,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99154,
+        "num": 99154,
+        "word": "gidle概念预告",
+        "onboard_time": 1664495787,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 92246,
+        "num": 92246,
+        "word": "眉山疫情防控",
+        "onboard_time": 1664497048,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86337,
+        "num": 86337,
+        "word": "假期的正确打开方式",
+        "onboard_time": 1664511085,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 84416,
+        "num": 84416,
+        "word": "东营发现1例确诊病例和1例无症状",
+        "onboard_time": 1664497466,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78756,
+        "num": 78756,
+        "word": "惠若琪女儿比同龄高半头",
+        "onboard_time": 1664497169,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77844,
+        "num": 77844,
+        "word": "挪威将派军队保护本国油气设施",
+        "onboard_time": 1664513365,
+        "rank": 49,
+        "category": "国外要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#烈士纪念日向人民英雄敬献花篮#"
+    }
+  }
+}

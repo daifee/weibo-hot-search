@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664509073402,
+  "endTime": 1664514170816,
   "band_list": [
     {
       "raw_hot": 4711055,
@@ -185,6 +185,14 @@
       "onboard_time": 1664156845,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2010713,
+      "num": 2010713,
+      "word": "董宇辉回应被骂飘了",
+      "onboard_time": 1664511625,
+      "rank": 0,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1970964,
@@ -624,6 +632,14 @@
       "word": "张彬彬抄写100遍对不起",
       "onboard_time": 1664284824,
       "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1041409,
+      "num": 297104,
+      "word": "胡一天给沈月陈哲远新剧打call",
+      "onboard_time": 1664510122,
+      "rank": 20,
       "category": "影视"
     },
     {
@@ -1139,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 666117,
+      "num": 666117,
+      "word": "人类血栓中首次发现微塑料",
+      "onboard_time": 1664507783,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 664945,
       "num": 664945,
       "word": "就喜欢上班找人聊天",
@@ -1193,6 +1217,14 @@
       "onboard_time": 1664195906,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 642661,
+      "num": 642661,
+      "word": "iPhone14Pro影像排全球第二",
+      "onboard_time": 1664509104,
+      "rank": 6,
+      "category": "科技"
     },
     {
       "raw_hot": 639610,
@@ -1412,10 +1444,18 @@
     },
     {
       "raw_hot": 573311,
-      "num": 279099,
+      "num": 395746,
       "word": "RNG一天五次核酸",
       "onboard_time": 1664507964,
       "rank": 12,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 568912,
+      "num": 568912,
+      "word": "王者荣耀新英雄",
+      "onboard_time": 1664511805,
+      "rank": 7,
       "category": "游戏"
     },
     {
@@ -1489,6 +1529,14 @@
       "onboard_time": 1664191104,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 546601,
+      "num": 423530,
+      "word": "胖东来召回8.5元玉米",
+      "onboard_time": 1664512285,
+      "rank": 11,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 545922,
@@ -1883,6 +1931,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 494341,
+      "num": 494341,
+      "word": "密室大逃脱NPC说王鹤棣香香的",
+      "onboard_time": 1664511445,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 494295,
       "num": 494295,
       "word": "王鹤棣在密逃被吓到模糊",
@@ -2033,6 +2089,14 @@
       "onboard_time": 1664431525,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 463254,
+      "num": 463254,
+      "word": "国庆升旗林孝埈全程跟唱国歌",
+      "onboard_time": 1664510783,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 462665,
@@ -2787,6 +2851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 350388,
+      "num": 350388,
+      "word": "DRX对战RNG",
+      "onboard_time": 1664512586,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 348143,
       "num": 348143,
       "word": "杜德伟母亲是给我一个吻原唱",
@@ -3075,6 +3147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 301646,
+      "num": 301646,
+      "word": "才知道杏鲍菇的花语是宇宙",
+      "onboard_time": 1664510843,
+      "rank": 19,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 299626,
       "num": 299626,
       "word": "男子等电梯却败给10多只老母鸡",
@@ -3209,6 +3289,14 @@
       "onboard_time": 1664427745,
       "rank": 41,
       "category": "科技"
+    },
+    {
+      "raw_hot": 289039,
+      "num": 289039,
+      "word": "这不就是放假前一天的我吗",
+      "onboard_time": 1664507722,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 287865,
@@ -3377,6 +3465,14 @@
       "onboard_time": 1664240487,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274013,
+      "num": 274013,
+      "word": "苹果遭罕见下调评级",
+      "onboard_time": 1664508262,
+      "rank": 31,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 272576,
@@ -3897,6 +3993,14 @@
       "onboard_time": 1664161466,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 235130,
+      "num": 235130,
+      "word": "21岁男子长期熬夜吸出10块血栓",
+      "onboard_time": 1664513486,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235104,
@@ -4963,6 +5067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177671,
+      "num": 177671,
+      "word": "金道英醉酒状态",
+      "onboard_time": 1664509524,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177424,
       "num": 177424,
       "word": "北京年轻人国潮消费全国第一",
@@ -5009,14 +5121,6 @@
       "onboard_time": 1664207965,
       "rank": 19,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 175480,
-      "num": 175480,
-      "word": "这不就是放假前一天的我吗",
-      "onboard_time": 1664507722,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 175419,
@@ -5289,14 +5393,6 @@
       "onboard_time": 1664194884,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 163414,
-      "num": 163414,
-      "word": "人类血栓中首次发现微塑料",
-      "onboard_time": 1664507783,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 162948,
@@ -5835,6 +5931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 140184,
+      "num": 140184,
+      "word": "河南增本土无症状19例",
+      "onboard_time": 1664508441,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139850,
       "num": 139850,
       "word": "数名老人组团赶场拦婚车讨红包",
@@ -5969,14 +6073,6 @@
       "onboard_time": 1664141891,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 136652,
-      "num": 136652,
-      "word": "苹果遭罕见下调评级",
-      "onboard_time": 1664508262,
-      "rank": 31,
-      "category": "财经,科技"
     },
     {
       "raw_hot": 136598,
@@ -6435,6 +6531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 119087,
+      "num": 119087,
+      "word": "我的反派男友今晚开播",
+      "onboard_time": 1664511686,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 118721,
       "num": 118721,
       "word": "王俊凯说新时代的力量是必不可少",
@@ -6803,14 +6907,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 100451,
-      "num": 100451,
-      "word": "河南增本土无症状19例",
-      "onboard_time": 1664508441,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 100319,
       "num": 100319,
       "word": "四川大学126周年",
@@ -6824,6 +6920,14 @@
       "word": "女孩见务工爸爸回家喜极而泣",
       "onboard_time": 1664379143,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99912,
+      "num": 99912,
+      "word": "成都今日晚高峰提前到午后",
+      "onboard_time": 1664513727,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -7171,6 +7275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86337,
+      "num": 86337,
+      "word": "假期的正确打开方式",
+      "onboard_time": 1664511085,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 86132,
       "num": 86132,
       "word": "阴阳师",
@@ -7353,6 +7465,14 @@
       "onboard_time": 1664452406,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 77844,
+      "num": 77844,
+      "word": "挪威将派军队保护本国油气设施",
+      "onboard_time": 1664513365,
+      "rank": 49,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 77832,
@@ -7915,6 +8035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21098,
+      "num": 160729,
+      "word": "向红色历史中的革命伴侣致敬",
+      "onboard_time": 1664510425,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19535,
       "num": 19427,
       "word": "柳岩家有姐妹杀青",
@@ -8465,6 +8593,14 @@
       "onboard_time": 1664141470,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 5193,
+      "num": 368174,
+      "word": "今天为所有烈士发一条微博",
+      "onboard_time": 1664514087,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 5097,
