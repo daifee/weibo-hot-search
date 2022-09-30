@@ -1,6 +1,6 @@
 {
   "startTime": 1664469545657,
-  "endTime": 1664544494513,
+  "endTime": 1664546409835,
   "band_list": [
     {
       "raw_hot": 6363692,
@@ -35,6 +35,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2024993,
+      "num": 2024993,
+      "word": "首套个人住房公积金贷款利率下调",
+      "onboard_time": 1664542403,
+      "rank": 17,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 2010713,
       "num": 2010713,
       "word": "董宇辉回应被骂飘了",
@@ -65,14 +73,6 @@
       "onboard_time": 1664513486,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1645480,
-      "num": 1645480,
-      "word": "首套个人住房公积金贷款利率下调",
-      "onboard_time": 1664542403,
-      "rank": 17,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1518903,
@@ -235,6 +235,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 751251,
+      "num": 751251,
+      "word": "万里归途",
+      "onboard_time": 1664458521,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 743864,
       "num": 321853,
       "word": "中国女篮姑娘太棒了",
@@ -283,11 +291,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 721229,
-      "num": 721229,
-      "word": "万里归途",
-      "onboard_time": 1664458521,
-      "rank": 30,
+      "raw_hot": 727838,
+      "num": 509698,
+      "word": "万里归途开分9.6",
+      "onboard_time": 1664545406,
+      "rank": 5,
       "category": "影视"
     },
     {
@@ -435,12 +443,28 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 482642,
+      "num": 482642,
+      "word": "外婆为外孙买充气城堡放家里玩",
+      "onboard_time": 1664543785,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 466602,
       "num": 466602,
       "word": "老款AirPodsPro新增自适应通透模式",
       "onboard_time": 1664504483,
       "rank": 9,
       "category": "科技"
+    },
+    {
+      "raw_hot": 465813,
+      "num": 465813,
+      "word": "中国女排战胜捷克队",
+      "onboard_time": 1664545644,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 463254,
@@ -587,6 +611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 354183,
+      "num": 354183,
+      "word": "中国篮协向女篮致贺信",
+      "onboard_time": 1664540966,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 348563,
       "num": 348563,
       "word": "杜淳女儿听到五环之歌就哭",
@@ -617,14 +649,6 @@
       "onboard_time": 1664506883,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 307648,
-      "num": 288723,
-      "word": "中国篮协向女篮致贺信",
-      "onboard_time": 1664540966,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 307486,
@@ -1035,6 +1059,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 191805,
+      "num": 191805,
+      "word": "RNG失误",
+      "onboard_time": 1664544445,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 191127,
       "num": 191127,
       "word": "蔡徐坤主持沸腾校园运动会",
@@ -1065,6 +1097,14 @@
       "onboard_time": 1664527344,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185306,
+      "num": 185306,
+      "word": "普京签署顿涅茨克等四地入俄条约",
+      "onboard_time": 1664546125,
+      "rank": 16,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 184495,
@@ -1145,6 +1185,14 @@
       "onboard_time": 1664462606,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160872,
+      "num": 160872,
+      "word": "2022年女排世锦赛",
+      "onboard_time": 1664541086,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 159979,
@@ -1265,14 +1313,6 @@
       "onboard_time": 1664538025,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 140256,
-      "num": 140256,
-      "word": "2022年女排世锦赛",
-      "onboard_time": 1664541086,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 140184,
@@ -1499,12 +1539,20 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 103477,
-      "num": 103477,
-      "word": "外婆为外孙买充气城堡放家里玩",
-      "onboard_time": 1664543785,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 102271,
+      "num": 102271,
+      "word": "何润东眼神戏好狠",
+      "onboard_time": 1664543062,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 98727,
+      "num": 98727,
+      "word": "敦煌守护人说有些洞窟已是衰弱老人",
+      "onboard_time": 1664543844,
+      "rank": 39,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 95338,
@@ -1569,14 +1617,6 @@
       "onboard_time": 1664511085,
       "rank": 46,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 85806,
-      "num": 85806,
-      "word": "敦煌守护人说有些洞窟已是衰弱老人",
-      "onboard_time": 1664543844,
-      "rank": 39,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 85317,
@@ -1672,14 +1712,6 @@
       "word": "金昇玟新OST",
       "onboard_time": 1664503524,
       "rank": 47,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 68993,
-      "num": 68993,
-      "word": "何润东眼神戏好狠",
-      "onboard_time": 1664543062,
-      "rank": 43,
       "category": "影视"
     },
     {
@@ -1785,14 +1817,6 @@
       "onboard_time": 1664463446,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 53482,
-      "num": 53482,
-      "word": "RNG失误",
-      "onboard_time": 1664544445,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 51922,
@@ -1907,20 +1931,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 10312,
+      "num": 1383698,
+      "word": "英雄从未远去丰碑永存人间",
+      "onboard_time": 1664498006,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 10075,
       "num": 10075,
       "word": "他们以奋斗致敬祖国",
       "onboard_time": 1664457625,
       "rank": 42,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 9785,
-      "num": 1154891,
-      "word": "英雄从未远去丰碑永存人间",
-      "onboard_time": 1664498006,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 9463,
