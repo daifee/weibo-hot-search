@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/26 00:32:19 ~ 2022/09/30 17:32:56
+本榜单时间：2022/09/26 00:32:19 ~ 2022/09/30 17:49:46
 </p>
 </blockquote>
 <p>
@@ -441,6 +441,12 @@ C919（热度：1253788）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%96%9D%E4%B8%8B%E8%87%AA%E5%88%B6%E5%87%8F%E8%82%A5%E6%B1%81%E4%B8%AD%E6%AF%92%23" target="weibo">
+女子喝下自制减肥汁中毒（热度：1198418）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%A5%B3%E5%AD%90%E8%BA%AB%E7%A9%BF%E6%97%A5%E6%9C%AC%E5%92%8C%E6%9C%8D%E5%B0%B1%E9%A4%90%23" target="weibo">
 两女子身穿日本和服就餐（热度：1192227）
 </a>
@@ -485,12 +491,6 @@ C919（热度：1253788）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E5%B8%81%E6%88%90%E4%B8%BA%E5%85%A8%E7%90%83%E7%AC%AC4%E4%BD%8D%E6%94%AF%E4%BB%98%E8%B4%A7%E5%B8%81%23" target="weibo">
 人民币成为全球第4位支付货币（热度：1118469）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%96%9D%E4%B8%8B%E8%87%AA%E5%88%B6%E5%87%8F%E8%82%A5%E6%B1%81%E4%B8%AD%E6%AF%92%23" target="weibo">
-女子喝下自制减肥汁中毒（热度：1110553）
 </a>
 </li>
 
@@ -879,6 +879,12 @@ iPhone14Pro被吐槽信号差（热度：1008109）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E4%B8%83%E5%A4%A9%E6%AF%8F%E5%88%86%E9%92%9F%E9%83%BD%E4%B8%8D%E6%83%B3%E6%B5%AA%E8%B4%B9%23" target="weibo">
+国庆七天每分钟都不想浪费（热度：708834）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%B4%AD%E5%B9%B3%E4%BB%B7%E8%9B%8B%E7%B3%95%E6%9C%89%E5%A4%9A%E7%BB%9D%23" target="weibo">
 网购平价蛋糕有多绝（热度：704381）
 </a>
@@ -1217,12 +1223,6 @@ DRX对战RNG（热度：556439）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E8%BF%85%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E5%B0%81%E7%A5%9E%23" target="weibo">
 周迅为什么能封神（热度：550038）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E4%B8%83%E5%A4%A9%E6%AF%8F%E5%88%86%E9%92%9F%E9%83%BD%E4%B8%8D%E6%83%B3%E6%B5%AA%E8%B4%B9%23" target="weibo">
-国庆七天每分钟都不想浪费（热度：550027）
 </a>
 </li>
 
@@ -1607,6 +1607,12 @@ Steam取消农历新年特卖（热度：514749）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%BB%B72000%E4%BA%BF%E8%B4%9D%E7%B4%A2%E6%96%AF%E5%89%8D%E5%A6%BB%E5%8F%88%E7%A6%BB%E5%A9%9A%23" target="weibo">
 身价2000亿贝索斯前妻又离婚（热度：475741）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%8C%BB%E7%94%9F%E5%A4%9A%E7%9C%8B%E4%B8%80%E7%9C%BC%E6%95%91%E4%B8%8B%E4%B8%BE%E6%AD%A2%E5%BC%82%E5%B8%B8%E4%B9%98%E5%AE%A2%23" target="weibo">
+女医生多看一眼救下举止异常乘客（热度：475301）
 </a>
 </li>
 
@@ -2193,12 +2199,6 @@ LBL（热度：375096）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%8C%BB%E7%94%9F%E5%A4%9A%E7%9C%8B%E4%B8%80%E7%9C%BC%E6%95%91%E4%B8%8B%E4%B8%BE%E6%AD%A2%E5%BC%82%E5%B8%B8%E4%B9%98%E5%AE%A2%23" target="weibo">
-女医生多看一眼救下举止异常乘客（热度：363556）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E7%82%B9%E9%85%92%E5%92%8C%E5%88%80%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E8%BD%AC%E5%A4%B4%E6%8A%A5%E8%AD%A6%23" target="weibo">
 女孩点酒和刀外卖小哥转头报警（热度：362265）
 </a>
@@ -2537,6 +2537,12 @@ AirPodsPro2篆刻内容会弹窗显示（热度：312641）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%83%8E%E9%81%87%E4%BF%9D%E5%AE%89%E8%A6%81%E7%83%9F%E5%BC%83%E8%BD%A6%E8%83%8C%E6%96%B0%E5%A8%98%E8%B5%B0%23" target="weibo">
 新郎遇保安要烟弃车背新娘走（热度：296801）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%A830%E4%B8%87%E8%AE%AD%E7%BB%83%E5%B8%81%E4%B9%B0%E8%BD%A6%E9%80%81%E5%A5%B3%E5%8F%8B%23" target="weibo">
+男子用30万训练币买车送女友（热度：295764）
 </a>
 </li>
 
@@ -3243,6 +3249,12 @@ RNG BP（热度：239041）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E9%9C%B8%E6%94%BE%E5%BC%83%E8%8B%B1%E5%9B%BD%E5%90%8D%E6%A0%A1%E8%AF%BB%E5%8D%9A%E6%94%B9%E5%81%9A%E5%A4%96%E5%8D%96%E8%BF%90%E8%90%A5%23" target="weibo">
+学霸放弃英国名校读博改做外卖运营（热度：231654）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%A4%96%E8%AF%AD%E6%B0%B4%E5%B9%B3%E6%AF%94%E6%88%91%E5%8E%89%E5%AE%B3%E5%A4%9A%E4%BA%86%23" target="weibo">
 这外语水平比我厉害多了（热度：231016）
 </a>
@@ -3731,6 +3743,12 @@ AirPodsPro2修复性低（热度：201705）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8C%AA%E9%AB%98%E9%80%9F%E8%A2%AB%E6%92%9E%E5%8D%A1%E8%BF%9B%E4%BF%9D%E9%99%A9%E6%9D%A0%23" target="weibo">
 小猪高速被撞卡进保险杠（热度：199363）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%AF%AE%E4%B8%96%E7%95%8C%E6%9D%AF%23" target="weibo">
+女篮世界杯（热度：199061）
 </a>
 </li>
 
@@ -4353,6 +4371,12 @@ Shotaro翻跳NewThing（热度：167629）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%B9%B4%E5%BA%95%E5%89%8D%E5%B1%85%E6%B0%91%E6%8D%A2%E8%B4%AD%E4%BD%8F%E6%88%BF%E5%8F%AF%E4%BA%AB%E4%B8%AA%E7%A8%8E%E9%80%80%E7%A8%8E%E4%BC%98%E6%83%A0%23" target="weibo">
+明年底前居民换购住房可享个税退税优惠（热度：160387）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E5%BC%80%E6%80%A7%E6%95%99%E8%82%B2%E8%AF%BE%E7%94%B7%E7%94%9F%E4%B8%8A%E5%8F%B0%E5%AD%A6%E7%94%A8%E5%8D%AB%E7%94%9F%E5%B7%BE%23" target="weibo">
 小学开性教育课男生上台学用卫生巾（热度：159582）
 </a>
@@ -4517,12 +4541,6 @@ TES出征世界赛（热度：154789）
 <li>
 <a href="https://s.weibo.com/weibo?q=%239%E6%9C%8826%E6%97%A5%E6%96%B0%E5%A2%9E%E7%A1%AE%E8%AF%8A245%E4%BE%8B%23" target="weibo">
 9月26日新增确诊245例（热度：152854）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%AF%AE%E4%B8%96%E7%95%8C%E6%9D%AF%23" target="weibo">
-女篮世界杯（热度：152401）
 </a>
 </li>
 
@@ -4937,12 +4955,6 @@ MAMAMOO新专概念照（热度：133383）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BC%9A%E5%A5%BD%E5%A5%BD%E7%88%B1%E6%8A%A4%E4%BD%A0%E6%B5%B4%E8%A1%80%E5%AE%88%E5%8D%AB%E7%9A%84%E5%B1%B1%E6%B2%B3%23" target="weibo">
 我会好好爱护你浴血守卫的山河（热度：130838）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E9%9C%B8%E6%94%BE%E5%BC%83%E8%8B%B1%E5%9B%BD%E5%90%8D%E6%A0%A1%E8%AF%BB%E5%8D%9A%E6%94%B9%E5%81%9A%E5%A4%96%E5%8D%96%E8%BF%90%E8%90%A5%23" target="weibo">
-学霸放弃英国名校读博改做外卖运营（热度：130472）
 </a>
 </li>
 
@@ -5849,12 +5861,6 @@ S12倒计时3天（热度：87741）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E9%98%9F%E5%91%98%E4%B8%96%E4%B9%92%E8%B5%9B%E5%A4%87%E6%88%98%E7%8E%B0%E5%9C%BA%23" target="weibo">
 国乒队员世乒赛备战现场（热度：83773）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%A830%E4%B8%87%E8%AE%AD%E7%BB%83%E5%B8%81%E4%B9%B0%E8%BD%A6%E9%80%81%E5%A5%B3%E5%8F%8B%23" target="weibo">
-男子用30万训练币买车送女友（热度：83590）
 </a>
 </li>
 
