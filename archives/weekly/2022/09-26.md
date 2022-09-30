@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/26 00:32:19 ~ 2022/09/30 18:29:25
+本榜单时间：2022/09/26 00:32:19 ~ 2022/09/30 18:47:04
 </p>
 </blockquote>
 <p>
@@ -909,6 +909,12 @@ iPhone14Pro被吐槽信号差（热度：1008109）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%AF%AE%E4%B8%96%E7%95%8C%E6%9D%AF%23" target="weibo">
+女篮世界杯（热度：679768）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2390%25%E4%BB%A5%E4%B8%8A%E5%AD%A6%E7%94%9F%E8%83%BD%E5%9C%A8%E8%A7%84%E5%AE%9A%E6%97%B6%E9%97%B4%E5%AE%8C%E6%88%90%E4%B9%A6%E9%9D%A2%E4%BD%9C%E4%B8%9A%23" target="weibo">
 90%以上学生能在规定时间完成书面作业（热度：678992）
 </a>
@@ -1083,12 +1089,6 @@ iPhone14Pro紫色版被曝存在工艺缺陷（热度：630842）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%AF%AE%E4%B8%96%E7%95%8C%E6%9D%AF%23" target="weibo">
-女篮世界杯（热度：612101）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%9A%E4%B8%BB%E7%96%91%E4%BC%BC%E8%A2%ABEDG%E8%B5%B7%E8%AF%89%E4%BE%B5%E6%9D%83%23" target="weibo">
 博主疑似被EDG起诉侵权（热度：604066）
 </a>
@@ -1203,6 +1203,12 @@ RNG一天五次核酸（热度：573311）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%A830%E4%B8%87%E8%AE%AD%E7%BB%83%E5%B8%81%E4%B9%B0%E8%BD%A6%E9%80%81%E5%A5%B3%E5%8F%8B%23" target="weibo">
+男子用30万训练币买车送女友（热度：561915）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%9D%A0%E5%BA%8A%E8%BA%AB%E4%BA%A1%E6%8A%A4%E7%90%86%E9%99%A2%E8%A2%AB%E5%88%A4%E8%B5%9411%E4%B8%87%23" target="weibo">
 老人坠床身亡护理院被判赔11万（热度：560420）
 </a>
@@ -1277,12 +1283,6 @@ DRX对战RNG（热度：556439）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E6%90%9C%E6%95%91%E5%AE%9A%E6%A1%A3%E5%9B%BD%E5%BA%86%23" target="weibo">
 电影搜救定档国庆（热度：543809）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%A830%E4%B8%87%E8%AE%AD%E7%BB%83%E5%B8%81%E4%B9%B0%E8%BD%A6%E9%80%81%E5%A5%B3%E5%8F%8B%23" target="weibo">
-男子用30万训练币买车送女友（热度：542959）
 </a>
 </li>
 
@@ -1835,6 +1835,12 @@ Lisa黑长直造型直拍（热度：460336）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E5%8E%9F%E6%8A%A5%E5%91%8A1%E4%BE%8B%E5%88%9D%E7%AD%9B%E9%98%B3%E6%80%A7%E8%80%85%23" target="weibo">
 太原报告1例初筛阳性者（热度：432330）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%81%B7%E6%88%B7%E5%8F%A3%E6%9C%AC%E5%92%8C%E6%82%A3%E7%99%8C%E5%A5%B3%E5%8F%8B%E9%A2%86%E8%AF%81%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94%E8%B4%A8%E7%96%91%23" target="weibo">
+偷户口本和患癌女友领证当事人回应质疑（热度：431786）
 </a>
 </li>
 
@@ -3375,12 +3381,6 @@ RNG BP（热度：239041）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%81%B7%E6%88%B7%E5%8F%A3%E6%9C%AC%E5%92%8C%E6%82%A3%E7%99%8C%E5%A5%B3%E5%8F%8B%E9%A2%86%E8%AF%81%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94%E8%B4%A8%E7%96%91%23" target="weibo">
-偷户口本和患癌女友领证当事人回应质疑（热度：225444）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B8%83%E6%9E%97%E8%82%AF%E5%9B%9E%E5%BA%94%E5%8C%97%E6%BA%AA%E5%A4%A9%E7%84%B6%E6%B0%94%E7%AE%A1%E9%81%93%E6%B3%84%E6%BC%8F%23" target="weibo">
 布林肯回应北溪天然气管道泄漏（热度：225340）
 </a>
@@ -4089,6 +4089,12 @@ Hero微博直播吧（热度：188598）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%A4%E5%94%AF%E6%98%A5%E5%8F%B2%E7%94%B5%E5%BD%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%E8%A7%92%23" target="weibo">
+汤唯春史电影奖最佳女主角（热度：177564）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%9B%BD%E6%BD%AE%E6%B6%88%E8%B4%B9%E5%85%A8%E5%9B%BD%E7%AC%AC%E4%B8%80%23" target="weibo">
 北京年轻人国潮消费全国第一（热度：177424）
 </a>
@@ -4235,6 +4241,12 @@ S12入围赛（热度：173740）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%91%E6%B4%9E%E9%87%8C%E4%BC%9A%E6%98%AF%E5%8F%A6%E4%B8%80%E4%B8%AA%E4%B8%96%E7%95%8C%E5%90%97%23" target="weibo">
 黑洞里会是另一个世界吗（热度：167980）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%AF%AE%E8%A3%81%E5%88%A4%23" target="weibo">
+女篮裁判（热度：167894）
 </a>
 </li>
 
@@ -5109,6 +5121,12 @@ MAMAMOO新专概念照（热度：133383）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8A%E4%B8%AAGQ%E7%9A%84%E5%98%89%E5%AE%BE%E9%83%BD%E8%B7%9F%E9%BB%84%E6%B8%A4%E8%89%BA%E6%9C%AF%E4%BD%9C%E5%93%81%E5%90%88%E5%BD%B1%E4%BA%86%23" target="weibo">
+半个GQ的嘉宾都跟黄渤艺术作品合影了（热度：125339）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8E%92%E9%98%9F%E6%99%92%E5%A4%AA%E9%98%B3%E7%9A%84%E7%8C%AB%E7%8C%AB%23" target="weibo">
 排队晒太阳的猫猫（热度：125239）
 </a>
@@ -5529,6 +5547,12 @@ WB晋级挑杯半决赛（热度：103890）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%89%80%E5%8F%8C%E9%9D%9E%E9%99%A2%E6%A0%A1%E7%A1%95%E5%A3%AB%E6%8A%A5%E8%80%83%E4%BA%BA%E6%95%B0%E7%8C%9B%E5%A2%9E%23" target="weibo">
+多所双非院校硕士报考人数猛增（热度：102096）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E4%B8%8E%E6%A0%A1%E6%9C%8D%E9%80%A0%E5%9E%8B%23" target="weibo">
 何与校服造型（热度：102033）
 </a>
@@ -5799,6 +5823,12 @@ iPadPro2022或支持无线充电（热度：91901）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%91%E9%BE%99%E8%8C%83%E4%B8%96%E9%8C%A1mike%E5%A5%BD%E5%83%8F%E4%BC%B4%E9%83%8E%23" target="weibo">
+张云龙范世錡mike好像伴郎（热度：87961）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23S12%E5%80%92%E8%AE%A1%E6%97%B63%E5%A4%A9%23" target="weibo">
 S12倒计时3天（热度：87741）
 </a>
@@ -5843,6 +5873,12 @@ S12倒计时3天（热度：87741）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%B4%E9%98%B3%E5%B8%88%23" target="weibo">
 阴阳师（热度：86132）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E6%89%B6%E6%A2%AF%E4%B8%8A%E8%BD%AE%E6%A4%85%E5%A4%B1%E6%8E%A7%E4%B8%A4%E5%B0%8F%E4%BC%99%E5%8F%8A%E6%97%B6%E7%9B%B8%E6%95%91%23" target="weibo">
+老人扶梯上轮椅失控两小伙及时相救（热度：86131）
 </a>
 </li>
 
@@ -6065,12 +6101,6 @@ S12倒计时3天（热度：87741）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23AI%E5%88%9B%E4%BD%9C%E7%9B%B8%E4%BC%BC%E5%BA%A6%E9%AB%98%E7%AE%97%E4%B8%8D%E7%AE%97%E6%8A%84%E8%A2%AD%23" target="weibo">
 AI创作相似度高算不算抄袭（热度：72292）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E6%89%B6%E6%A2%AF%E4%B8%8A%E8%BD%AE%E6%A4%85%E5%A4%B1%E6%8E%A7%E4%B8%A4%E5%B0%8F%E4%BC%99%E5%8F%8A%E6%97%B6%E7%9B%B8%E6%95%91%23" target="weibo">
-老人扶梯上轮椅失控两小伙及时相救（热度：72014）
 </a>
 </li>
 
@@ -6995,6 +7025,12 @@ ROY岚陵萧萧声领结婚证（热度：5908）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E7%A5%96%E5%9B%BD%E6%B0%B8%E4%B8%8D%E5%BF%98%E8%AE%B0%23%23" target="weibo">
 #祖国永不忘记#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%96%E7%95%8C%E7%A7%91%E6%8A%80%E5%B7%85%E5%B3%B0%E6%88%91%E4%BB%AC%E9%83%BD%E8%A6%81%E5%A5%8B%E5%8B%87%E6%94%80%E7%99%BB%23%23" target="weibo">
+#世界科技巅峰我们都要奋勇攀登#
 </a>
 </li>
 
