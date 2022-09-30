@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664562812694,
+  "endTime": 1664564005581,
   "band_list": [
     {
       "raw_hot": 1594753,
@@ -75,8 +75,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 323679,
-      "num": 323679,
+      "raw_hot": 328677,
+      "num": 328677,
       "word": "boss直聘现多个无厘头职位名称",
       "onboard_time": 1664557697,
       "rank": 11,
@@ -339,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 52563,
+      "num": 52563,
+      "word": "花得莫名其妙的一笔钱",
+      "onboard_time": 1664560632,
+      "rank": 29,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 51667,
       "num": 51667,
       "word": "我的反派男友是恋爱版西游记吧",
@@ -419,14 +427,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 32520,
-      "num": 32520,
-      "word": "花得莫名其妙的一笔钱",
-      "onboard_time": 1664560632,
-      "rank": 29,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 29628,
       "num": 29628,
       "word": "陈小春大合照都要比Xleader",
@@ -435,16 +435,24 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 18177,
-      "num": 18177,
+      "raw_hot": 23216,
+      "num": 23216,
+      "word": "苹果市值一夜缩水1165亿美元",
+      "onboard_time": 1664563153,
+      "rank": 35,
+      "category": "财经,科技"
+    },
+    {
+      "raw_hot": 19434,
+      "num": 19434,
       "word": "滑滑梯的小熊猫",
       "onboard_time": 1664561715,
       "rank": 44,
       "category": "情感"
     },
     {
-      "raw_hot": 13123,
-      "num": 13123,
+      "raw_hot": 14588,
+      "num": 14588,
       "word": "中国女排战胜捷克队",
       "onboard_time": 1664545644,
       "rank": 48,
