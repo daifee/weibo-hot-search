@@ -1,0 +1,410 @@
+{
+  "runTime": 1664517088262,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1993465,
+        "num": 1993465,
+        "word": "董宇辉回应被骂飘了",
+        "onboard_time": 1664511625,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1740501,
+        "num": 1740501,
+        "word": "21岁男子长期熬夜吸出10块血栓",
+        "onboard_time": 1664513486,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73813,
+        "num": 1050451,
+        "word": "我会好好爱护你浴血守卫的山河",
+        "onboard_time": 1664514623,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 797064,
+        "num": 797064,
+        "word": "胖东来召回8.5元玉米",
+        "onboard_time": 1664512285,
+        "rank": 3,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 680031,
+        "num": 680031,
+        "word": "国庆七天下7天雨是什么体验",
+        "onboard_time": 1664493199,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 636533,
+        "num": 636533,
+        "word": "人类血栓中首次发现微塑料",
+        "onboard_time": 1664507783,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 556439,
+        "num": 556439,
+        "word": "DRX对战RNG",
+        "onboard_time": 1664512586,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 481568,
+        "num": 481568,
+        "word": "东北农嫂",
+        "onboard_time": 1664516005,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476862,
+        "num": 476862,
+        "word": "王者荣耀新英雄",
+        "onboard_time": 1664511805,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 384285,
+        "num": 384285,
+        "word": "iPhone14Pro影像排全球第二",
+        "onboard_time": 1664509104,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 2032553,
+        "num": 383151,
+        "word": "张智霖袁咏仪披荆斩棘现场婚礼",
+        "onboard_time": 1664514804,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 428399,
+        "num": 382984,
+        "word": "情侣一年以上的聊天记录",
+        "onboard_time": 1664494644,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 381339,
+        "num": 381339,
+        "word": "李承铉得知好友去世崩溃",
+        "onboard_time": 1664516783,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374983,
+        "num": 374983,
+        "word": "挪威将派军队保护本国油气设施",
+        "onboard_time": 1664513365,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 51903,
+        "num": 362095,
+        "word": "今天为所有烈士发一条微博",
+        "onboard_time": 1664514087,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350292,
+        "num": 350292,
+        "word": "内娱天选古代人",
+        "onboard_time": 1664498605,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 348393,
+        "num": 348393,
+        "word": "女子用自己钥匙误开走别人电动车",
+        "onboard_time": 1664502265,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342026,
+        "num": 342026,
+        "word": "密室大逃脱NPC说王鹤棣香香的",
+        "onboard_time": 1664511445,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319270,
+        "num": 319270,
+        "word": "普京针对北溪管道泄漏事件表态",
+        "onboard_time": 1664505866,
+        "rank": 18,
+        "category": "国外要闻,社会新闻"
+      },
+      {
+        "raw_hot": 303234,
+        "num": 303234,
+        "word": "国庆升旗林孝埈全程跟唱国歌",
+        "onboard_time": 1664510783,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 518864,
+        "num": 296886,
+        "word": "胡一天给沈月陈哲远新剧打call",
+        "onboard_time": 1664510122,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 305468,
+        "num": 290370,
+        "word": "希林娜依高真大裤衩代言人",
+        "onboard_time": 1664516303,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 267951,
+        "num": 267951,
+        "word": "才知道杏鲍菇的花语是宇宙",
+        "onboard_time": 1664510843,
+        "rank": 22,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 229854,
+        "num": 229854,
+        "word": "李梦赛前发烧",
+        "onboard_time": 1664515521,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229502,
+        "num": 229502,
+        "word": "二零后的名字能有多好听",
+        "onboard_time": 1664499984,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212094,
+        "num": 212094,
+        "word": "英国女王死因确认",
+        "onboard_time": 1664464945,
+        "rank": 25,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 207077,
+        "num": 207077,
+        "word": "成都今日晚高峰提前到午后",
+        "onboard_time": 1664513727,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204748,
+        "num": 204748,
+        "word": "我们这十年定档1010",
+        "onboard_time": 1664514205,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191127,
+        "num": 191127,
+        "word": "蔡徐坤主持沸腾校园运动会",
+        "onboard_time": 1664516365,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180963,
+        "num": 180963,
+        "word": "这不就是放假前一天的我吗",
+        "onboard_time": 1664507722,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174050,
+        "num": 174050,
+        "word": "RNG",
+        "onboard_time": 1664502682,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144516,
+        "num": 144516,
+        "word": "金晨摘墨镜名场面",
+        "onboard_time": 1664506883,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141274,
+        "num": 141274,
+        "word": "老款AirPodsPro新增自适应通透模式",
+        "onboard_time": 1664504483,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 136975,
+        "num": 136975,
+        "word": "以为自己是兔子的猫猫",
+        "onboard_time": 1664502924,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134958,
+        "num": 134958,
+        "word": "北京新增病例曾在列车上与外省病例有交集",
+        "onboard_time": 1664502504,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134335,
+        "num": 134335,
+        "word": "大学不是人生的保险箱",
+        "onboard_time": 1664514446,
+        "rank": 35,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 121234,
+        "num": 121234,
+        "word": "RNG一天五次核酸",
+        "onboard_time": 1664507964,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119536,
+        "num": 119536,
+        "word": "上海4个区域划为疫情中风险区",
+        "onboard_time": 1664498907,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119281,
+        "num": 119281,
+        "word": "甄嬛在这个班也当不了班长",
+        "onboard_time": 1664463868,
+        "rank": 38,
+        "category": "幽默,影视"
+      },
+      {
+        "raw_hot": 115283,
+        "num": 115283,
+        "word": "原来吵架也可以这么可爱",
+        "onboard_time": 1664504724,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114980,
+        "num": 114980,
+        "word": "苹果遭罕见下调评级",
+        "onboard_time": 1664508262,
+        "rank": 40,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 104351,
+        "num": 104351,
+        "word": "退休老师免费辅导全村孩子作业5年",
+        "onboard_time": 1664506524,
+        "rank": 41,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 101362,
+        "num": 101362,
+        "word": "女子沉迷羊了个羊丈夫报警求助",
+        "onboard_time": 1664463566,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100304,
+        "num": 100304,
+        "word": "金道英醉酒状态",
+        "onboard_time": 1664509524,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84292,
+        "num": 84292,
+        "word": "美国警方误将人质乱枪打死",
+        "onboard_time": 1664497891,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83136,
+        "num": 83136,
+        "word": "鱼都不能吐出这种圈吧",
+        "onboard_time": 1664498426,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82522,
+        "num": 82522,
+        "word": "RNG BP",
+        "onboard_time": 1664516904,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105386,
+        "num": 81017,
+        "word": "做家务的男人",
+        "onboard_time": 1664517086,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77975,
+        "num": 77975,
+        "word": "江母称多次被刘鑫支持者电话骚扰",
+        "onboard_time": 1664483411,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76543,
+        "num": 76543,
+        "word": "我的反派男友今晚开播",
+        "onboard_time": 1664511686,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#烈士纪念日向人民英雄敬献花篮#"
+    }
+  }
+}

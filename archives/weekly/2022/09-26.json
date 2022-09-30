@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664514170816,
+  "endTime": 1664517088262,
   "band_list": [
     {
       "raw_hot": 4711055,
@@ -179,6 +179,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 2032553,
+      "num": 383151,
+      "word": "张智霖袁咏仪披荆斩棘现场婚礼",
+      "onboard_time": 1664514804,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2011475,
       "num": 2011475,
       "word": "出门没拔充电线结果家被烧了",
@@ -248,6 +256,14 @@
       "word": "女孩被24个宿舍送玫瑰庆生",
       "onboard_time": 1664437764,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1740501,
+      "num": 1740501,
+      "word": "21岁男子长期熬夜吸出10块血栓",
+      "onboard_time": 1664513486,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -947,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 797064,
+      "num": 797064,
+      "word": "胖东来召回8.5元玉米",
+      "onboard_time": 1664512285,
+      "rank": 11,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 780923,
       "num": 780923,
       "word": "妇科炎症会引起宫颈癌吗",
@@ -1491,6 +1515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 556439,
+      "num": 556439,
+      "word": "DRX对战RNG",
+      "onboard_time": 1664512586,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 555152,
       "num": 356917,
       "word": "陈哲远是捅了甜妹窝吧",
@@ -1529,14 +1561,6 @@
       "onboard_time": 1664191104,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 546601,
-      "num": 423530,
-      "word": "胖东来召回8.5元玉米",
-      "onboard_time": 1664512285,
-      "rank": 11,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 545922,
@@ -1976,6 +2000,14 @@
       "word": "男生晕血被舍友用衣服包头抽血",
       "onboard_time": 1664397371,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 481568,
+      "num": 481568,
+      "word": "东北农嫂",
+      "onboard_time": 1664516005,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -2635,6 +2667,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 381339,
+      "num": 381339,
+      "word": "李承铉得知好友去世崩溃",
+      "onboard_time": 1664516783,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 380780,
       "num": 380780,
       "word": "医生给剪破的气球缝针后吹了起来",
@@ -2705,6 +2745,14 @@
       "onboard_time": 1664447904,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 374983,
+      "num": 374983,
+      "word": "挪威将派军队保护本国油气设施",
+      "onboard_time": 1664513365,
+      "rank": 49,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 372782,
@@ -2849,14 +2897,6 @@
       "onboard_time": 1664282603,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 350388,
-      "num": 350388,
-      "word": "DRX对战RNG",
-      "onboard_time": 1664512586,
-      "rank": 16,
-      "category": "游戏"
     },
     {
       "raw_hot": 348143,
@@ -3113,6 +3153,14 @@
       "onboard_time": 1664142492,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305468,
+      "num": 290370,
+      "word": "希林娜依高真大裤衩代言人",
+      "onboard_time": 1664516303,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 304940,
@@ -3995,14 +4043,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 235130,
-      "num": 235130,
-      "word": "21岁男子长期熬夜吸出10块血栓",
-      "onboard_time": 1664513486,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 235104,
       "num": 235104,
       "word": "惠若琪女儿比同龄高半头",
@@ -4121,6 +4161,14 @@
       "onboard_time": 1664444244,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 229854,
+      "num": 229854,
+      "word": "李梦赛前发烧",
+      "onboard_time": 1664515521,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 229060,
@@ -4531,6 +4579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207077,
+      "num": 207077,
+      "word": "成都今日晚高峰提前到午后",
+      "onboard_time": 1664513727,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206840,
       "num": 206840,
       "word": "外国博主在中国旅游有多卷",
@@ -4561,6 +4617,14 @@
       "onboard_time": 1664199986,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 204748,
+      "num": 204748,
+      "word": "我们这十年定档1010",
+      "onboard_time": 1664514205,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 204316,
@@ -4809,6 +4873,14 @@
       "onboard_time": 1664417243,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 191127,
+      "num": 191127,
+      "word": "蔡徐坤主持沸腾校园运动会",
+      "onboard_time": 1664516365,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 191080,
@@ -6099,6 +6171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134335,
+      "num": 134335,
+      "word": "大学不是人生的保险箱",
+      "onboard_time": 1664514446,
+      "rank": 35,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 133894,
       "num": 133894,
       "word": "北京新增1例本土确诊",
@@ -6811,6 +6891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105386,
+      "num": 81017,
+      "word": "做家务的男人",
+      "onboard_time": 1664517086,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104504,
       "num": 104504,
       "word": "樊振东多球训练眼花缭乱",
@@ -6920,14 +7008,6 @@
       "word": "女孩见务工爸爸回家喜极而泣",
       "onboard_time": 1664379143,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 99912,
-      "num": 99912,
-      "word": "成都今日晚高峰提前到午后",
-      "onboard_time": 1664513727,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -7355,6 +7435,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 82522,
+      "num": 82522,
+      "word": "RNG BP",
+      "onboard_time": 1664516904,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 82287,
       "num": 82287,
       "word": "上世纪的跨国恋能有多遗憾",
@@ -7467,14 +7555,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 77844,
-      "num": 77844,
-      "word": "挪威将派军队保护本国油气设施",
-      "onboard_time": 1664513365,
-      "rank": 49,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 77832,
       "num": 77832,
       "word": "9月25日增597例本土无症状",
@@ -7577,6 +7657,14 @@
       "onboard_time": 1664104466,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73813,
+      "num": 1050451,
+      "word": "我会好好爱护你浴血守卫的山河",
+      "onboard_time": 1664514623,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 73020,
@@ -7783,6 +7871,14 @@
       "num": 299846,
       "word": "民警用水下探测仪帮阿婆找回金手镯",
       "onboard_time": 1664370071,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51903,
+      "num": 368174,
+      "word": "今天为所有烈士发一条微博",
+      "onboard_time": 1664514087,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -8593,14 +8689,6 @@
       "onboard_time": 1664141470,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 5193,
-      "num": 368174,
-      "word": "今天为所有烈士发一条微博",
-      "onboard_time": 1664514087,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 5097,
