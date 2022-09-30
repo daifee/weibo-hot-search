@@ -1,6 +1,6 @@
 {
   "startTime": 1664469545657,
-  "endTime": 1664520827510,
+  "endTime": 1664521922007,
   "band_list": [
     {
       "raw_hot": 2847507,
@@ -179,7 +179,7 @@
       "category": "科技"
     },
     {
-      "raw_hot": 620394,
+      "raw_hot": 628136,
       "num": 282913,
       "word": "大S具俊晔VOGUE合体封面",
       "onboard_time": 1664520384,
@@ -427,6 +427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 281391,
+      "num": 254734,
+      "word": "杜淳女儿听到五环之歌就哭",
+      "onboard_time": 1664519904,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 274013,
       "num": 274013,
       "word": "苹果遭罕见下调评级",
@@ -443,12 +451,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262389,
+      "num": 262389,
+      "word": "沈月新剧把自己写进小说",
+      "onboard_time": 1664521165,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 260345,
       "num": 260345,
       "word": "卖鱼西施直播称长得好看没用",
       "onboard_time": 1664453244,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258464,
+      "num": 250086,
+      "word": "女孩点酒和刀外卖小哥转头报警",
+      "onboard_time": 1664515464,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252092,
+      "num": 252092,
+      "word": "苏有朋回到未来好像杜飞去大上海",
+      "onboard_time": 1664518224,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 248648,
@@ -499,14 +531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 233465,
-      "num": 233465,
-      "word": "苏有朋回到未来好像杜飞去大上海",
-      "onboard_time": 1664518224,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 233201,
       "num": 233201,
       "word": "李庚希把我演哭了",
@@ -521,14 +545,6 @@
       "onboard_time": 1664467105,
       "rank": 12,
       "category": "财经,科技"
-    },
-    {
-      "raw_hot": 230962,
-      "num": 230962,
-      "word": "杜淳女儿听到五环之歌就哭",
-      "onboard_time": 1664519904,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 229854,
@@ -667,11 +683,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 169512,
-      "num": 169512,
-      "word": "女孩点酒和刀外卖小哥转头报警",
-      "onboard_time": 1664515464,
-      "rank": 25,
+      "raw_hot": 171344,
+      "num": 171344,
+      "word": "山东女生做龙形馒头为祖国庆生",
+      "onboard_time": 1664519545,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -771,11 +787,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137902,
+      "num": 122875,
+      "word": "李沁说自己没有于登登主动",
+      "onboard_time": 1664521045,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 133894,
       "num": 133894,
       "word": "北京新增1例本土确诊",
       "onboard_time": 1664497196,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131407,
+      "num": 131407,
+      "word": "家里买车谁说了算",
+      "onboard_time": 1664519665,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -785,14 +817,6 @@
       "onboard_time": 1664457264,
       "rank": 18,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 128891,
-      "num": 128891,
-      "word": "山东女生做龙形馒头为祖国庆生",
-      "onboard_time": 1664519545,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 128715,
@@ -859,6 +883,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 119720,
+      "num": 119720,
+      "word": "昆仑神宫初一会下线吗",
+      "onboard_time": 1664520624,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 119507,
       "num": 119507,
       "word": "绵阳涪城区城区部分区域临时管控",
@@ -897,6 +929,14 @@
       "onboard_time": 1664518586,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111872,
+      "num": 111872,
+      "word": "千万别管设计叫美工",
+      "onboard_time": 1664521165,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 106016,
@@ -939,14 +979,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 94787,
-      "num": 98466,
-      "word": "家里买车谁说了算",
-      "onboard_time": 1664519665,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 90305,
       "num": 90305,
       "word": "肩胛骨疼痛不要乱按摩",
@@ -968,14 +1000,6 @@
       "word": "虞书欣虞美人失恋一年后还爱着他",
       "onboard_time": 1664447964,
       "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 87378,
-      "num": 87378,
-      "word": "昆仑神宫初一会下线吗",
-      "onboard_time": 1664520624,
-      "rank": 47,
       "category": "影视"
     },
     {
@@ -1025,6 +1049,14 @@
       "onboard_time": 1664442683,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 80336,
+      "num": 80336,
+      "word": "这猫咪应该练过拳击吧",
+      "onboard_time": 1664521523,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 79460,
@@ -1299,6 +1331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 7760,
+      "num": 252518,
+      "word": "来自9月的温暖瞬间",
+      "onboard_time": 1664521284,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 6570,
       "num": 6570,
       "word": "被通报配餐公司曾中标多校餐饮服务",
@@ -1346,6 +1386,9 @@
     },
     {
       "word": "#今日鲜花祭英魂#"
+    },
+    {
+      "word": "#祖国永不忘记#"
     }
   ]
 }
