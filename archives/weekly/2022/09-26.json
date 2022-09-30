@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664523883342,
+  "endTime": 1664524641610,
   "band_list": [
     {
       "raw_hot": 4711055,
@@ -561,6 +561,14 @@
       "onboard_time": 1664164227,
       "rank": 5,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1195445,
+      "num": 1195445,
+      "word": "女子摸鱼时被咬半身失去知觉",
+      "onboard_time": 1664522425,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1192227,
@@ -1139,14 +1147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 691998,
-      "num": 691998,
-      "word": "女子摸鱼时被咬半身失去知觉",
-      "onboard_time": 1664522425,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 689143,
       "num": 689143,
       "word": "睡前刷手机会降低夜间睡眠质量",
@@ -1348,7 +1348,7 @@
     },
     {
       "raw_hot": 628136,
-      "num": 326878,
+      "num": 329066,
       "word": "大S具俊晔VOGUE合体封面",
       "onboard_time": 1664520384,
       "rank": 11,
@@ -2843,6 +2843,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 362265,
+      "num": 362265,
+      "word": "女孩点酒和刀外卖小哥转头报警",
+      "onboard_time": 1664515464,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 361974,
       "num": 361974,
       "word": "以为自己是兔子的猫猫",
@@ -2907,6 +2915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 354286,
+      "num": 354286,
+      "word": "吉利汽车入股阿斯顿马丁",
+      "onboard_time": 1664523084,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 353845,
       "num": 353845,
       "word": "2人吵架将行李箱扔进铁轨致晚点",
@@ -2929,6 +2945,14 @@
       "onboard_time": 1664282603,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348563,
+      "num": 348563,
+      "word": "杜淳女儿听到五环之歌就哭",
+      "onboard_time": 1664519904,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 348143,
@@ -2995,19 +3019,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 342210,
+      "num": 358011,
+      "word": "无心上班",
+      "onboard_time": 1664522603,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 339681,
       "num": 339681,
       "word": "男子鸡骨卡喉喝醋吞饭致食道穿孔",
       "onboard_time": 1664184265,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 338095,
-      "num": 338095,
-      "word": "女孩点酒和刀外卖小哥转头报警",
-      "onboard_time": 1664515464,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -3123,14 +3147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 316679,
-      "num": 316679,
-      "word": "杜淳女儿听到五环之歌就哭",
-      "onboard_time": 1664519904,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 315617,
       "num": 315617,
       "word": "女子照顾病父临走前包187个饺子",
@@ -3193,6 +3209,14 @@
       "onboard_time": 1664506883,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 307486,
+      "num": 307486,
+      "word": "乌云遇皎月明日开播",
+      "onboard_time": 1664524105,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 307051,
@@ -4171,6 +4195,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 232777,
+      "num": 232777,
+      "word": "山东女生做龙形馒头为祖国庆生",
+      "onboard_time": 1664519545,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232404,
       "num": 232404,
       "word": "长空之王双人海报",
@@ -4201,14 +4233,6 @@
       "onboard_time": 1664357127,
       "rank": 45,
       "category": "美食"
-    },
-    {
-      "raw_hot": 231568,
-      "num": 231568,
-      "word": "山东女生做龙形馒头为祖国庆生",
-      "onboard_time": 1664519545,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 231016,
@@ -4379,6 +4403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221883,
+      "num": 221883,
+      "word": "9月最后一天",
+      "onboard_time": 1664524044,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 221615,
       "num": 221615,
       "word": "十一玩乐日记",
@@ -4507,6 +4539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217519,
+      "num": 125905,
+      "word": "无与伦比的美丽看哭了",
+      "onboard_time": 1664524523,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217132,
       "num": 217132,
       "word": "女孩狂蹬自行车为出警消防车引路",
@@ -4561,14 +4601,6 @@
       "onboard_time": 1664376448,
       "rank": 41,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 214393,
-      "num": 238820,
-      "word": "无心上班",
-      "onboard_time": 1664522603,
-      "rank": 18,
-      "category": "幽默"
     },
     {
       "raw_hot": 214237,
@@ -5283,6 +5315,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 176664,
+      "num": 124053,
+      "word": "王俊凯说我们回家",
+      "onboard_time": 1664523925,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 176357,
       "num": 176357,
       "word": "女子开视频陪亲人打麻将",
@@ -5371,6 +5411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173010,
+      "num": 173010,
+      "word": "北斗系统每天使用量破千亿",
+      "onboard_time": 1664523264,
+      "rank": 29,
+      "category": "科技"
+    },
+    {
       "raw_hot": 172922,
       "num": 172922,
       "word": "石家庄疫情防控",
@@ -5443,6 +5491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167733,
+      "num": 167733,
+      "word": "千万别管设计叫美工",
+      "onboard_time": 1664521165,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 167629,
       "num": 167629,
       "word": "Shotaro翻跳NewThing",
@@ -5473,22 +5529,6 @@
       "onboard_time": 1664199628,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 166510,
-      "num": 166510,
-      "word": "吉利汽车入股阿斯顿马丁",
-      "onboard_time": 1664523084,
-      "rank": 24,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 166393,
-      "num": 166393,
-      "word": "千万别管设计叫美工",
-      "onboard_time": 1664521165,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 166384,
@@ -5772,7 +5812,7 @@
     },
     {
       "raw_hot": 155646,
-      "num": 119720,
+      "num": 121022,
       "word": "昆仑神宫初一会下线吗",
       "onboard_time": 1664520624,
       "rank": 47,
@@ -6699,6 +6739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 121883,
+      "num": 1092185,
+      "word": "我会好好爱护你浴血守卫的山河",
+      "onboard_time": 1664514623,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 121603,
       "num": 121603,
       "word": "她们的名字颁奖式收官",
@@ -6771,6 +6819,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 118674,
+      "num": 118674,
+      "word": "这猫咪应该练过拳击吧",
+      "onboard_time": 1664521523,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 118509,
       "num": 118509,
       "word": "期待王俊凯新电影万里归途",
@@ -6809,14 +6865,6 @@
       "onboard_time": 1664325031,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 116572,
-      "num": 116572,
-      "word": "北斗系统每天使用量破千亿",
-      "onboard_time": 1664523264,
-      "rank": 29,
-      "category": "科技"
     },
     {
       "raw_hot": 116551,
@@ -6867,14 +6915,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 115205,
-      "num": 115205,
-      "word": "这猫咪应该练过拳击吧",
-      "onboard_time": 1664521523,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 115037,
       "num": 115037,
       "word": "暖阳WB双向奔赴",
@@ -6897,6 +6937,14 @@
       "onboard_time": 1664227992,
       "rank": 47,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 113788,
+      "num": 113788,
+      "word": "这才是我最羡慕的爱情",
+      "onboard_time": 1664522785,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 113615,
@@ -6937,14 +6985,6 @@
       "onboard_time": 1664367923,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 112725,
-      "num": 112725,
-      "word": "这才是我最羡慕的爱情",
-      "onboard_time": 1664522785,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 112329,
@@ -7033,14 +7073,6 @@
       "onboard_time": 1664202868,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 107609,
-      "num": 1092185,
-      "word": "我会好好爱护你浴血守卫的山河",
-      "onboard_time": 1664514623,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 106761,
@@ -7545,6 +7577,14 @@
       "onboard_time": 1664511085,
       "rank": 46,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 86152,
+      "num": 86152,
+      "word": "羽生结弦将举办首次单独冰演",
+      "onboard_time": 1664524105,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 86132,
@@ -8235,6 +8275,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 30405,
+      "num": 314348,
+      "word": "来自9月的温暖瞬间",
+      "onboard_time": 1664521284,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30141,
       "num": 30141,
       "word": "曾经暖到你的一句歌词",
@@ -8272,14 +8320,6 @@
       "word": "苏州园林推出昆曲版解说",
       "onboard_time": 1664262024,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27296,
-      "num": 292796,
-      "word": "来自9月的温暖瞬间",
-      "onboard_time": 1664521284,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
