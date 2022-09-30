@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/01 00:31:39 ~ 2022/09/30 18:47:04
+本榜单时间：2022/09/01 00:31:39 ~ 2022/09/30 19:21:51
 </p>
 </blockquote>
 <p>
@@ -617,6 +617,12 @@ jkl（热度：3228817）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%202%E4%BA%BF%E5%A4%9A%E4%BA%BA%23" target="weibo">
 刘德华 2亿多人（热度：3083466）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%AF%AE%E4%B8%96%E7%95%8C%E6%9D%AF%23" target="weibo">
+女篮世界杯（热度：3081413）
 </a>
 </li>
 
@@ -3215,6 +3221,12 @@ iPhone14颜色（热度：1547377）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D1%E5%B0%8F%E6%97%B6%E5%86%85%E8%BF%9E%E5%8F%917%E6%AC%A1%E5%9C%B0%E9%9C%87%23" target="weibo">
 四川1小时内连发7次地震（热度：1522421）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AEvs%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E5%A5%B3%E7%AF%AE%23" target="weibo">
+中国女篮vs澳大利亚女篮（热度：1518903）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ iPhone14Pro系列占中国订单85%（热度：1059806）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E5%92%8C%E8%AF%BB%E7%A0%94%E5%93%AA%E4%B8%AA%E6%9B%B4%E7%B4%AF%23" target="weibo">
 考研和读研哪个更累（热度：1045644）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%B4%A8%E7%96%91%E7%89%99%E5%88%B7%E6%A0%87%E6%B3%A81%E4%B8%87%E6%A0%B9%E6%AF%9B%E4%BA%B2%E8%87%AA%E6%95%B0%23" target="weibo">
-男子质疑牙刷标注1万根毛亲自数（热度：1044101）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%8E%E5%85%BD%E6%B4%BE%E9%A6%99%E6%B0%B4%E5%92%8C%E5%90%8D%E5%88%9B%E4%BC%98%E5%93%81%E5%90%8C%E4%B8%80%E4%BB%A3%E5%B7%A5%E5%8E%82%23" target="weibo">
-野兽派香水和名创优品同一代工厂（热度：1043480）
 </a>
 </li>
 

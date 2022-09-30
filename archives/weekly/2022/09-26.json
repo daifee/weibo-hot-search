@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664534824283,
+  "endTime": 1664536911793,
   "band_list": [
     {
       "raw_hot": 4711055,
@@ -33,6 +33,14 @@
       "onboard_time": 1664286867,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3081413,
+      "num": 3081413,
+      "word": "女篮世界杯",
+      "onboard_time": 1664179103,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 3066346,
@@ -353,6 +361,14 @@
       "onboard_time": 1664238686,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1518903,
+      "num": 1518903,
+      "word": "中国女篮vs澳大利亚女篮",
+      "onboard_time": 1664535803,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1517045,
@@ -899,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 854175,
+      "num": 854175,
+      "word": "女篮裁判",
+      "onboard_time": 1664534303,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 849944,
       "num": 849944,
       "word": "县委书记为零彩礼低彩礼新人证婚",
@@ -1195,14 +1219,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 679768,
-      "num": 679768,
-      "word": "女篮世界杯",
-      "onboard_time": 1664179103,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 678992,
       "num": 678992,
       "word": "90%以上学生能在规定时间完成书面作业",
@@ -1297,6 +1313,14 @@
       "onboard_time": 1664327604,
       "rank": 7,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 654846,
+      "num": 654846,
+      "word": "男子用30万训练币买车送女友",
+      "onboard_time": 1664530164,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 654609,
@@ -1401,6 +1425,14 @@
       "onboard_time": 1664273003,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 620997,
+      "num": 620997,
+      "word": "多所双非院校硕士报考人数猛增",
+      "onboard_time": 1664534185,
+      "rank": 28,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 618513,
@@ -1584,14 +1616,6 @@
       "word": "一京外阳性人员涉及北京轨迹公布",
       "onboard_time": 1664372485,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 561915,
-      "num": 561915,
-      "word": "男子用30万训练币买车送女友",
-      "onboard_time": 1664530164,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1952,6 +1976,14 @@
       "word": "北溪管道发现第四处泄漏点",
       "onboard_time": 1664436325,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 506795,
+      "num": 179873,
+      "word": "偷户口本和患癌女友领证当事人回应质疑",
+      "onboard_time": 1664532443,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -2432,14 +2464,6 @@
       "word": "太原报告1例初筛阳性者",
       "onboard_time": 1664341468,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 431786,
-      "num": 165989,
-      "word": "偷户口本和患癌女友领证当事人回应质疑",
-      "onboard_time": 1664532443,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -3723,6 +3747,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 273668,
+      "num": 273668,
+      "word": "半个GQ的嘉宾都跟黄渤艺术作品合影了",
+      "onboard_time": 1664533944,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 272576,
       "num": 272576,
       "word": "eStar晋级挑杯总决赛",
@@ -4105,6 +4137,14 @@
       "onboard_time": 1664263763,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247130,
+      "num": 247130,
+      "word": "汤唯春史电影奖最佳女主角",
+      "onboard_time": 1664534003,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 246370,
@@ -4875,6 +4915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206458,
+      "num": 206458,
+      "word": "张云龙范世錡mike好像伴郎",
+      "onboard_time": 1664534363,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206400,
       "num": 206400,
       "word": "男子连续熬夜加班后眼皮无法抬起",
@@ -5435,14 +5483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 177564,
-      "num": 177564,
-      "word": "汤唯春史电影奖最佳女主角",
-      "onboard_time": 1664534003,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 177424,
       "num": 177424,
       "word": "北京年轻人国潮消费全国第一",
@@ -5635,20 +5675,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 169043,
+      "num": 169043,
+      "word": "万里归途能成为国庆档爆款吗",
+      "onboard_time": 1664534962,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 167980,
       "num": 167980,
       "word": "黑洞里会是另一个世界吗",
       "onboard_time": 1664165488,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 167894,
-      "num": 167894,
-      "word": "女篮裁判",
-      "onboard_time": 1664534303,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 167733,
@@ -5857,6 +5897,14 @@
       "onboard_time": 1664137811,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159979,
+      "num": 158743,
+      "word": "饶晓志张译王俊凯请你看电影",
+      "onboard_time": 1664536403,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 159582,
@@ -6587,6 +6635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131980,
+      "num": 131980,
+      "word": "老人扶梯上轮椅失控两小伙及时相救",
+      "onboard_time": 1664532202,
+      "rank": 42,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 131967,
       "num": 131967,
       "word": "小老鼠也是来赶海的呀",
@@ -6811,14 +6867,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 125339,
-      "num": 98642,
-      "word": "半个GQ的嘉宾都跟黄渤艺术作品合影了",
-      "onboard_time": 1664533944,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 125239,
       "num": 125239,
       "word": "排队晒太阳的猫猫",
@@ -6993,6 +7041,14 @@
       "onboard_time": 1664420965,
       "rank": 33,
       "category": "科技"
+    },
+    {
+      "raw_hot": 119386,
+      "num": 111624,
+      "word": "杜淳偷亲王灿好甜",
+      "onboard_time": 1664533704,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 119366,
@@ -7203,6 +7259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111985,
+      "num": 111985,
+      "word": "韩旭单节13分",
+      "onboard_time": 1664535203,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111052,
       "num": 111052,
       "word": "万里归途点映票房破500万",
@@ -7300,7 +7364,7 @@
     },
     {
       "raw_hot": 106344,
-      "num": 113875,
+      "num": 256191,
       "word": "买车会提升家庭幸福感吗",
       "onboard_time": 1664527885,
       "rank": 39,
@@ -7377,14 +7441,6 @@
       "onboard_time": 1664435666,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 102096,
-      "num": 102096,
-      "word": "多所双非院校硕士报考人数猛增",
-      "onboard_time": 1664534185,
-      "rank": 28,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 102033,
@@ -7473,14 +7529,6 @@
       "onboard_time": 1664332105,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 98804,
-      "num": 75048,
-      "word": "杜淳偷亲王灿好甜",
-      "onboard_time": 1664533704,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 98445,
@@ -7747,14 +7795,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 87961,
-      "num": 87961,
-      "word": "张云龙范世錡mike好像伴郎",
-      "onboard_time": 1664534363,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 87741,
       "num": 87741,
       "word": "S12倒计时3天",
@@ -7817,14 +7857,6 @@
       "onboard_time": 1664346683,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 86131,
-      "num": 86131,
-      "word": "老人扶梯上轮椅失控两小伙及时相救",
-      "onboard_time": 1664532202,
-      "rank": 42,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 85865,
@@ -8201,6 +8233,14 @@
       "onboard_time": 1664523806,
       "rank": 49,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 67161,
+      "num": 67161,
+      "word": "画中画穿越烈士牺牲瞬间",
+      "onboard_time": 1664535022,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66936,

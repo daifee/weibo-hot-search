@@ -1,7 +1,15 @@
 {
   "startTime": 1664469545657,
-  "endTime": 1664534824283,
+  "endTime": 1664536911793,
   "band_list": [
+    {
+      "raw_hot": 3081413,
+      "num": 3081413,
+      "word": "女篮世界杯",
+      "onboard_time": 1664530523,
+      "rank": 21,
+      "category": "体育"
+    },
     {
       "raw_hot": 2847507,
       "num": 2847507,
@@ -49,6 +57,14 @@
       "onboard_time": 1664513486,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1518903,
+      "num": 1518903,
+      "word": "中国女篮vs澳大利亚女篮",
+      "onboard_time": 1664535803,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1391323,
@@ -131,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 854175,
+      "num": 854175,
+      "word": "女篮裁判",
+      "onboard_time": 1664534303,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 849944,
       "num": 849944,
       "word": "县委书记为零彩礼低彩礼新人证婚",
@@ -187,14 +211,6 @@
       "category": "国外要闻,社会新闻"
     },
     {
-      "raw_hot": 679768,
-      "num": 679768,
-      "word": "女篮世界杯",
-      "onboard_time": 1664530523,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 666117,
       "num": 666117,
       "word": "人类血栓中首次发现微塑料",
@@ -219,6 +235,14 @@
       "category": "幽默,影视"
     },
     {
+      "raw_hot": 654846,
+      "num": 654846,
+      "word": "男子用30万训练币买车送女友",
+      "onboard_time": 1664530164,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 642661,
       "num": 642661,
       "word": "iPhone14Pro影像排全球第二",
@@ -233,6 +257,14 @@
       "onboard_time": 1664520384,
       "rank": 11,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 620997,
+      "num": 620997,
+      "word": "多所双非院校硕士报考人数猛增",
+      "onboard_time": 1664534185,
+      "rank": 28,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 583330,
@@ -257,14 +289,6 @@
       "onboard_time": 1664511805,
       "rank": 7,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 561915,
-      "num": 561915,
-      "word": "男子用30万训练币买车送女友",
-      "onboard_time": 1664530164,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 559816,
@@ -296,6 +320,14 @@
       "word": "上海4个区域划为疫情中风险区",
       "onboard_time": 1664498907,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 506795,
+      "num": 179873,
+      "word": "偷户口本和患癌女友领证当事人回应质疑",
+      "onboard_time": 1664532443,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -369,14 +401,6 @@
       "onboard_time": 1664455947,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 431786,
-      "num": 165989,
-      "word": "偷户口本和患癌女友领证当事人回应质疑",
-      "onboard_time": 1664532443,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 422031,
@@ -611,6 +635,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 273668,
+      "num": 273668,
+      "word": "半个GQ的嘉宾都跟黄渤艺术作品合影了",
+      "onboard_time": 1664533944,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 269503,
       "num": 269503,
       "word": "南京秦淮区现一名核酸异常人员",
@@ -639,6 +671,14 @@
       "num": 248648,
       "word": "酒鬼都市的女人们2预告海报",
       "onboard_time": 1664503464,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 247130,
+      "num": 247130,
+      "word": "汤唯春史电影奖最佳女主角",
+      "onboard_time": 1664534003,
       "rank": 17,
       "category": "影视"
     },
@@ -819,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206458,
+      "num": 206458,
+      "word": "张云龙范世錡mike好像伴郎",
+      "onboard_time": 1664534363,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204748,
       "num": 204748,
       "word": "我们这十年定档1010",
@@ -907,14 +955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 177564,
-      "num": 177564,
-      "word": "汤唯春史电影奖最佳女主角",
-      "onboard_time": 1664534003,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 176664,
       "num": 124053,
       "word": "王俊凯说我们回家",
@@ -931,12 +971,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 167894,
-      "num": 167894,
-      "word": "女篮裁判",
-      "onboard_time": 1664534303,
-      "rank": 18,
-      "category": "体育"
+      "raw_hot": 169043,
+      "num": 169043,
+      "word": "万里归途能成为国庆档爆款吗",
+      "onboard_time": 1664534962,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 167733,
@@ -961,6 +1001,14 @@
       "onboard_time": 1664462606,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159979,
+      "num": 158743,
+      "word": "饶晓志张译王俊凯请你看电影",
+      "onboard_time": 1664536403,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 157365,
@@ -1083,6 +1131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131980,
+      "num": 131980,
+      "word": "老人扶梯上轮椅失控两小伙及时相救",
+      "onboard_time": 1664532202,
+      "rank": 42,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 131407,
       "num": 131407,
       "word": "家里买车谁说了算",
@@ -1147,14 +1203,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 125339,
-      "num": 98642,
-      "word": "半个GQ的嘉宾都跟黄渤艺术作品合影了",
-      "onboard_time": 1664533944,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 124794,
       "num": 124794,
       "word": "吴青峰新专辑上线",
@@ -1201,6 +1249,14 @@
       "onboard_time": 1664481670,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119386,
+      "num": 111624,
+      "word": "杜淳偷亲王灿好甜",
+      "onboard_time": 1664533704,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 119087,
@@ -1251,8 +1307,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111985,
+      "num": 111985,
+      "word": "韩旭单节13分",
+      "onboard_time": 1664535203,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106344,
-      "num": 113875,
+      "num": 256191,
       "word": "买车会提升家庭幸福感吗",
       "onboard_time": 1664527885,
       "rank": 39,
@@ -1281,22 +1345,6 @@
       "onboard_time": 1664493800,
       "rank": 29,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 102096,
-      "num": 102096,
-      "word": "多所双非院校硕士报考人数猛增",
-      "onboard_time": 1664534185,
-      "rank": 28,
-      "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 98804,
-      "num": 75048,
-      "word": "杜淳偷亲王灿好甜",
-      "onboard_time": 1664533704,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 95338,
@@ -1339,14 +1387,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 87961,
-      "num": 87961,
-      "word": "张云龙范世錡mike好像伴郎",
-      "onboard_time": 1664534363,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 86817,
       "num": 86817,
       "word": "人民海军迈入三航母时代",
@@ -1361,14 +1401,6 @@
       "onboard_time": 1664511085,
       "rank": 46,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 86131,
-      "num": 86131,
-      "word": "老人扶梯上轮椅失控两小伙及时相救",
-      "onboard_time": 1664532202,
-      "rank": 42,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 85317,
@@ -1457,6 +1489,14 @@
       "onboard_time": 1664523806,
       "rank": 49,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 67161,
+      "num": 67161,
+      "word": "画中画穿越烈士牺牲瞬间",
+      "onboard_time": 1664535022,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66831,
