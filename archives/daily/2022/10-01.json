@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664570687747,
+  "endTime": 1664573005658,
   "band_list": [
     {
       "raw_hot": 1594753,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 101635,
-      "num": 29468,
+      "num": 39540,
       "word": "柬埔寨载中国人沉船事故涉人口贩卖",
       "onboard_time": 1664564952,
       "rank": 26,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 97595,
-      "num": 49561,
+      "num": 65615,
       "word": "苹果市值一夜缩水1165亿美元",
       "onboard_time": 1664563153,
       "rank": 35,
@@ -435,6 +435,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43864,
+      "num": 39456,
+      "word": "电动车起火烧毁近30万元购房款",
+      "onboard_time": 1664566631,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42839,
+      "num": 39425,
+      "word": "杭州高速涌现大流量",
+      "onboard_time": 1664567110,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41085,
       "num": 41085,
       "word": "底线登剧集影响力榜榜首",
@@ -443,28 +459,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 30757,
-      "num": 27008,
-      "word": "电动车起火烧毁近30万元购房款",
-      "onboard_time": 1664566631,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 29628,
       "num": 29628,
       "word": "陈小春大合照都要比Xleader",
       "onboard_time": 1664552782,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 22512,
-      "num": 22512,
-      "word": "杭州高速涌现大流量",
-      "onboard_time": 1664567110,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19434,
@@ -489,6 +489,22 @@
       "onboard_time": 1664498006,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7907,
+      "num": 9034,
+      "word": "医生接诊6个心梗患者5个爱抽烟",
+      "onboard_time": 1664572570,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6079,
+      "num": 9026,
+      "word": "被这样的家庭氛围温柔到了",
+      "onboard_time": 1664572150,
+      "rank": 49,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
