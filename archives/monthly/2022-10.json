@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664580601073,
+  "endTime": 1664581672383,
   "band_list": [
     {
       "raw_hot": 1594753,
@@ -11,8 +11,16 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1181281,
-      "num": 1181281,
+      "raw_hot": 1349407,
+      "num": 1349407,
+      "word": "国庆天安门广场升旗仪式",
+      "onboard_time": 1664579778,
+      "rank": 4,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1244093,
+      "num": 1244093,
       "word": "国庆七天每分钟都不想浪费",
       "onboard_time": 1664526803,
       "rank": 13,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 640049,
-      "num": 138572,
+      "num": 147020,
       "word": "租客退房留下2猫1狗1鸡",
       "onboard_time": 1664551584,
       "rank": 20,
@@ -67,16 +75,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 412396,
-      "num": 412396,
-      "word": "国庆天安门广场升旗仪式",
-      "onboard_time": 1664579778,
-      "rank": 4,
-      "category": "国内要闻"
+      "raw_hot": 409936,
+      "num": 409936,
+      "word": "柬埔寨载中国人沉船事故涉人口贩卖",
+      "onboard_time": 1664564952,
+      "rank": 26,
+      "category": "社会负面"
     },
     {
-      "raw_hot": 388414,
-      "num": 388414,
+      "raw_hot": 395023,
+      "num": 395023,
       "word": "苹果市值一夜缩水1165亿美元",
       "onboard_time": 1664563153,
       "rank": 35,
@@ -99,28 +107,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 334747,
+      "num": 334747,
+      "word": "boss直聘现多个无厘头职位名称",
+      "onboard_time": 1664557697,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 330748,
       "num": 330748,
       "word": "外交人员看万里归途哽咽了",
       "onboard_time": 1664547025,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 330405,
-      "num": 330405,
-      "word": "柬埔寨载中国人沉船事故涉人口贩卖",
-      "onboard_time": 1664564952,
-      "rank": 26,
-      "category": "社会负面"
-    },
-    {
-      "raw_hot": 328677,
-      "num": 328677,
-      "word": "boss直聘现多个无厘头职位名称",
-      "onboard_time": 1664557697,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 322493,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 261664,
-      "num": 138513,
+      "num": 146856,
       "word": "同居5年生娃分手男方要回彩礼",
       "onboard_time": 1664539466,
       "rank": 21,
@@ -179,6 +179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 246833,
+      "num": 246833,
+      "word": "中美女篮争夺世界杯冠军",
+      "onboard_time": 1664538747,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 239340,
       "num": 239340,
       "word": "这就是中国",
@@ -187,16 +195,24 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 206834,
-      "num": 206834,
-      "word": "中美女篮争夺世界杯冠军",
-      "onboard_time": 1664538747,
-      "rank": 28,
+      "raw_hot": 230120,
+      "num": 230120,
+      "word": "张国伟夺校运会冠军",
+      "onboard_time": 1664579236,
+      "rank": 33,
       "category": "体育"
     },
     {
+      "raw_hot": 216741,
+      "num": 216741,
+      "word": "国庆假期第一天",
+      "onboard_time": 1664580921,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203839,
-      "num": 119652,
+      "num": 134286,
       "word": "小偷气愤欲偷平板电脑到手电子秤",
       "onboard_time": 1664551584,
       "rank": 22,
@@ -211,20 +227,20 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 194751,
+      "num": 194751,
+      "word": "电动车起火烧毁近30万元购房款",
+      "onboard_time": 1664566631,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171133,
       "num": 171133,
       "word": "万里归途",
       "onboard_time": 1664541924,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 169404,
-      "num": 169404,
-      "word": "电动车起火烧毁近30万元购房款",
-      "onboard_time": 1664566631,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 169353,
@@ -235,11 +251,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138464,
-      "num": 138464,
+      "raw_hot": 147627,
+      "num": 147627,
       "word": "新中国成立73周年",
       "onboard_time": 1664579778,
       "rank": 23,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 144182,
+      "num": 144182,
+      "word": "祝新中国生日快乐",
+      "onboard_time": 1664579899,
+      "rank": 28,
       "category": "国内要闻"
     },
     {
@@ -291,20 +315,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115145,
+      "num": 115145,
+      "word": "的哥送还手机要200元报酬失主报警",
+      "onboard_time": 1664539766,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114450,
       "num": 114450,
       "word": "RNG失误",
       "onboard_time": 1664544445,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 114287,
-      "num": 114287,
-      "word": "祝新中国生日快乐",
-      "onboard_time": 1664579899,
-      "rank": 28,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 110798,
@@ -323,22 +347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 106423,
-      "num": 106423,
-      "word": "的哥送还手机要200元报酬失主报警",
-      "onboard_time": 1664539766,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 99905,
-      "num": 99905,
-      "word": "张国伟夺校运会冠军",
-      "onboard_time": 1664579236,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 96346,
       "num": 96346,
       "word": "光与夜之恋",
@@ -347,20 +355,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 92591,
+      "num": 92591,
+      "word": "今天发条微博祝福祖国",
+      "onboard_time": 1664580799,
+      "rank": 35,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 89646,
+      "num": 89646,
+      "word": "花得莫名其妙的一笔钱",
+      "onboard_time": 1664560632,
+      "rank": 29,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 89509,
       "num": 89509,
       "word": "新能源汽车出口量大增",
       "onboard_time": 1664575513,
       "rank": 44,
       "category": "财经"
-    },
-    {
-      "raw_hot": 89400,
-      "num": 89400,
-      "word": "花得莫名其妙的一笔钱",
-      "onboard_time": 1664560632,
-      "rank": 29,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 86923,
@@ -403,6 +419,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 65501,
+      "num": 65501,
+      "word": "国旗护卫队唱祖国不会忘记自带混响",
+      "onboard_time": 1664580739,
+      "rank": 40,
+      "category": "国内要闻,军事"
+    },
+    {
       "raw_hot": 64719,
       "num": 64719,
       "word": "C919将于2022年底交付",
@@ -443,6 +467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 60074,
+      "num": 60074,
+      "word": "成都国庆升旗仪式",
+      "onboard_time": 1664581280,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57126,
       "num": 57126,
       "word": "周深查户口式聊天",
@@ -451,12 +483,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 55810,
-      "num": 55810,
+      "raw_hot": 56879,
+      "num": 56879,
       "word": "陈小春大合照都要比Xleader",
       "onboard_time": 1664552782,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 56645,
+      "num": 56645,
+      "word": "女篮世界杯的观众席",
+      "onboard_time": 1664581342,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 55642,
@@ -564,7 +604,7 @@
     },
     {
       "raw_hot": 10343,
-      "num": 1060071,
+      "num": 1293614,
       "word": "英雄从未远去丰碑永存人间",
       "onboard_time": 1664498006,
       "rank": 2,
