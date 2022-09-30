@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/26 00:32:19 ~ 2022/10/01 05:23:25
+本榜单时间：2022/09/26 00:32:19 ~ 2022/10/01 05:41:57
 </p>
 </blockquote>
 <p>
@@ -6855,6 +6855,12 @@ Cat时尚先生（热度：61255）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E6%8E%A5%E8%AF%8A6%E4%B8%AA%E5%BF%83%E6%A2%97%E6%82%A3%E8%80%855%E4%B8%AA%E7%88%B1%E6%8A%BD%E7%83%9F%23" target="weibo">
+医生接诊6个心梗患者5个爱抽烟（热度：21471）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E7%BA%A2%E8%89%B2%E5%8E%86%E5%8F%B2%E4%B8%AD%E7%9A%84%E9%9D%A9%E5%91%BD%E4%BC%B4%E4%BE%A3%E8%87%B4%E6%95%AC%23" target="weibo">
 向红色历史中的革命伴侣致敬（热度：21098）
 </a>
@@ -7059,12 +7065,6 @@ VR到底能干什么（热度：10742）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E6%8E%A5%E8%AF%8A6%E4%B8%AA%E5%BF%83%E6%A2%97%E6%82%A3%E8%80%855%E4%B8%AA%E7%88%B1%E6%8A%BD%E7%83%9F%23" target="weibo">
-医生接诊6个心梗患者5个爱抽烟（热度：7907）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%86%9B%E6%96%B9%E7%94%A8%E5%81%87%E8%B4%A6%E5%8F%B7%E6%90%9E%E4%BF%A1%E6%81%AF%E6%88%98%23" target="weibo">
 美国军方用假账号搞信息战（热度：7695）
 </a>
@@ -7079,6 +7079,12 @@ VR到底能干什么（热度：10742）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%A8%E8%99%9A%E6%8B%9F%E4%BA%BA%E5%AF%BC%E8%88%AA%E6%98%AF%E7%A7%8D%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23" target="weibo">
 用虚拟人导航是种什么体验（热度：7214）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2312%E5%B2%81%E4%B9%96%E5%B7%A7%E5%A5%B3%E5%AD%A9%E7%AA%81%E5%8F%98%E6%9A%B4%E8%BA%81%E7%A1%AE%E8%AF%8A%E8%84%91%E7%82%8E%23" target="weibo">
+12岁乖巧女孩突变暴躁确诊脑炎（热度：7130）
 </a>
 </li>
 

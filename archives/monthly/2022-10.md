@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/01 05:23:25
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/01 05:41:57
 </p>
 </blockquote>
 <p>
@@ -112,7 +112,7 @@ boss直聘现多个无厘头职位名称（热度：328677）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E4%B8%83%E5%A4%A9%E6%AF%8F%E5%88%86%E9%92%9F%E9%83%BD%E4%B8%8D%E6%83%B3%E6%B5%AA%E8%B4%B9%23" target="weibo">
-国庆七天每分钟都不想浪费（热度：238839）
+国庆七天每分钟都不想浪费（热度：241273）
 </a>
 </li>
 
@@ -363,6 +363,12 @@ C919将于2022年底交付（热度：64719）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E6%8E%A5%E8%AF%8A6%E4%B8%AA%E5%BF%83%E6%A2%97%E6%82%A3%E8%80%855%E4%B8%AA%E7%88%B1%E6%8A%BD%E7%83%9F%23" target="weibo">
+医生接诊6个心梗患者5个爱抽烟（热度：21471）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BB%91%E6%BB%91%E6%A2%AF%E7%9A%84%E5%B0%8F%E7%86%8A%E7%8C%AB%23" target="weibo">
 滑滑梯的小熊猫（热度：19434）
 </a>
@@ -381,8 +387,8 @@ C919将于2022年底交付（热度：64719）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E6%8E%A5%E8%AF%8A6%E4%B8%AA%E5%BF%83%E6%A2%97%E6%82%A3%E8%80%855%E4%B8%AA%E7%88%B1%E6%8A%BD%E7%83%9F%23" target="weibo">
-医生接诊6个心梗患者5个爱抽烟（热度：7907）
+<a href="https://s.weibo.com/weibo?q=%2312%E5%B2%81%E4%B9%96%E5%B7%A7%E5%A5%B3%E5%AD%A9%E7%AA%81%E5%8F%98%E6%9A%B4%E8%BA%81%E7%A1%AE%E8%AF%8A%E8%84%91%E7%82%8E%23" target="weibo">
+12岁乖巧女孩突变暴躁确诊脑炎（热度：7130）
 </a>
 </li>
 
