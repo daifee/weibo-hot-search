@@ -1,0 +1,411 @@
+{
+  "startTime": 1664556011390,
+  "endTime": 1664556011390,
+  "band_list": [
+    {
+      "raw_hot": 1594753,
+      "num": 1594753,
+      "word": "国庆",
+      "onboard_time": 1664532866,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1176261,
+      "num": 1176261,
+      "word": "万里归途开分9.6",
+      "onboard_time": 1664545406,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 978977,
+      "num": 978977,
+      "word": "泽连斯基签署乌克兰加入北约申请",
+      "onboard_time": 1664550503,
+      "rank": 3,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 640049,
+      "num": 121089,
+      "word": "租客退房留下2猫1狗1鸡",
+      "onboard_time": 1664551584,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 508018,
+      "num": 508018,
+      "word": "首套个人住房公积金贷款利率下调",
+      "onboard_time": 1664542403,
+      "rank": 4,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 368722,
+      "num": 368722,
+      "word": "2岁娃手脏着急说婴语老师盲猜",
+      "onboard_time": 1664550925,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 340959,
+      "num": 340959,
+      "word": "中国女篮闯入世界杯决赛",
+      "onboard_time": 1664537068,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 330748,
+      "num": 330748,
+      "word": "外交人员看万里归途哽咽了",
+      "onboard_time": 1664547025,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 322493,
+      "num": 322493,
+      "word": "普京签署顿涅茨克等四地入俄条约",
+      "onboard_time": 1664546125,
+      "rank": 8,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 279790,
+      "num": 279790,
+      "word": "外婆为外孙买充气城堡放家里玩",
+      "onboard_time": 1664543785,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267615,
+      "num": 267615,
+      "word": "8岁女孩压腿轻松超180度",
+      "onboard_time": 1664553741,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 266563,
+      "num": 266563,
+      "word": "阿朵发2000字长文给好声音蝶长",
+      "onboard_time": 1664550984,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 261664,
+      "num": 120545,
+      "word": "同居5年生娃分手男方要回彩礼",
+      "onboard_time": 1664539466,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251681,
+      "num": 251681,
+      "word": "唐朝诡事录好高能",
+      "onboard_time": 1664549723,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 238839,
+      "num": 238839,
+      "word": "国庆七天每分钟都不想浪费",
+      "onboard_time": 1664526803,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213255,
+      "num": 213255,
+      "word": "妈妈寄桃酥女儿收到时碎成土",
+      "onboard_time": 1664554582,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203839,
+      "num": 119652,
+      "word": "小偷气愤欲偷平板电脑到手电子秤",
+      "onboard_time": 1664551584,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201184,
+      "num": 201184,
+      "word": "多所双非院校硕士报考人数猛增",
+      "onboard_time": 1664534185,
+      "rank": 15,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 171133,
+      "num": 171133,
+      "word": "万里归途",
+      "onboard_time": 1664541924,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 162462,
+      "num": 162462,
+      "word": "双胞胎见爸爸回家开心到摔倒",
+      "onboard_time": 1664554223,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124520,
+      "num": 124520,
+      "word": "这是一只超自律的白鲸了",
+      "onboard_time": 1664547625,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122179,
+      "num": 122179,
+      "word": "宋妍霏上海时装周走秀",
+      "onboard_time": 1664546665,
+      "rank": 19,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 118653,
+      "num": 118653,
+      "word": "男子水库放生清道夫被罚2.8万",
+      "onboard_time": 1664540187,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114450,
+      "num": 114450,
+      "word": "RNG失误",
+      "onboard_time": 1664544445,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 110798,
+      "num": 110798,
+      "word": "2023年国考10月25日开始报名",
+      "onboard_time": 1664546905,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 106423,
+      "num": 106423,
+      "word": "的哥送还手机要200元报酬失主报警",
+      "onboard_time": 1664539766,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105872,
+      "num": 105872,
+      "word": "21岁男子长期熬夜吸出10块血栓",
+      "onboard_time": 1664513486,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104903,
+      "num": 104903,
+      "word": "中美女篮争夺世界杯冠军",
+      "onboard_time": 1664538747,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 96346,
+      "num": 96346,
+      "word": "光与夜之恋",
+      "onboard_time": 1664540725,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 86923,
+      "num": 86923,
+      "word": "我和国旗合个影",
+      "onboard_time": 1664549185,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85442,
+      "num": 85442,
+      "word": "巴西女排1比3日本女排",
+      "onboard_time": 1664550378,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 76397,
+      "num": 76397,
+      "word": "女子摸鱼时被咬半身失去知觉",
+      "onboard_time": 1664522425,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67576,
+      "num": 67576,
+      "word": "黄景瑜新剧消防员造型饭拍路透",
+      "onboard_time": 1664552906,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 66429,
+      "num": 66429,
+      "word": "国产手机为什么不取消SIM卡",
+      "onboard_time": 1664524946,
+      "rank": 34,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 64719,
+      "num": 64719,
+      "word": "C919将于2022年底交付",
+      "onboard_time": 1664546605,
+      "rank": 35,
+      "category": "科技,国内要闻"
+    },
+    {
+      "raw_hot": 63181,
+      "num": 63181,
+      "word": "中国篮协向女篮致贺信",
+      "onboard_time": 1664540966,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 63003,
+      "num": 63003,
+      "word": "男子用30万训练币买车送女友",
+      "onboard_time": 1664530164,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60855,
+      "num": 60855,
+      "word": "汤唯春史电影奖最佳女主角",
+      "onboard_time": 1664534003,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 57126,
+      "num": 57126,
+      "word": "周深查户口式聊天",
+      "onboard_time": 1664539583,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 55642,
+      "num": 55642,
+      "word": "你的城市夜景是什么样的",
+      "onboard_time": 1664553142,
+      "rank": 40,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 51667,
+      "num": 51667,
+      "word": "我的反派男友是恋爱版西游记吧",
+      "onboard_time": 1664538025,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 50698,
+      "num": 50698,
+      "word": "万里归途能成为国庆档爆款吗",
+      "onboard_time": 1664534962,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 49806,
+      "num": 49806,
+      "word": "偷户口本和患癌女友领证当事人回应质疑",
+      "onboard_time": 1664532443,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49006,
+      "num": 49006,
+      "word": "84岁老人报9元恩情捐100万助学",
+      "onboard_time": 1664537846,
+      "rank": 44,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 48777,
+      "num": 48777,
+      "word": "张云龙范世錡mike好像伴郎",
+      "onboard_time": 1664534363,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 46927,
+      "num": 46927,
+      "word": "女子喝下自制减肥汁中毒",
+      "onboard_time": 1664526325,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46552,
+      "num": 46552,
+      "word": "王濛祝贺中国女篮",
+      "onboard_time": 1664552906,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 46163,
+      "num": 46163,
+      "word": "张智霖袁咏仪披荆斩棘现场婚礼",
+      "onboard_time": 1664514804,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 45310,
+      "num": 45310,
+      "word": "中国女篮赛后庆祝现场",
+      "onboard_time": 1664540542,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 10343,
+      "num": 1060071,
+      "word": "英雄从未远去丰碑永存人间",
+      "onboard_time": 1664498006,
+      "rank": 2,
+      "category": "社会新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#世界科技巅峰我们都要奋勇攀登#"
+    }
+  ]
+}
