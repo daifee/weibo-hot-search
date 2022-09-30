@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/26 00:32:19 ~ 2022/09/30 17:49:46
+本榜单时间：2022/09/26 00:32:19 ~ 2022/09/30 18:29:25
 </p>
 </blockquote>
 <p>
@@ -555,6 +555,12 @@ JYP中国新男团成员（热度：1072064）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E4%B8%83%E5%A4%A9%E6%AF%8F%E5%88%86%E9%92%9F%E9%83%BD%E4%B8%8D%E6%83%B3%E6%B5%AA%E8%B4%B9%23" target="weibo">
+国庆七天每分钟都不想浪费（热度：1008462）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone14Pro%E8%A2%AB%E5%90%90%E6%A7%BD%E4%BF%A1%E5%8F%B7%E5%B7%AE%23" target="weibo">
 iPhone14Pro被吐槽信号差（热度：1008109）
 </a>
@@ -879,12 +885,6 @@ iPhone14Pro被吐槽信号差（热度：1008109）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E4%B8%83%E5%A4%A9%E6%AF%8F%E5%88%86%E9%92%9F%E9%83%BD%E4%B8%8D%E6%83%B3%E6%B5%AA%E8%B4%B9%23" target="weibo">
-国庆七天每分钟都不想浪费（热度：708834）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%B4%AD%E5%B9%B3%E4%BB%B7%E8%9B%8B%E7%B3%95%E6%9C%89%E5%A4%9A%E7%BB%9D%23" target="weibo">
 网购平价蛋糕有多绝（热度：704381）
 </a>
@@ -1083,6 +1083,12 @@ iPhone14Pro紫色版被曝存在工艺缺陷（热度：630842）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%AF%AE%E4%B8%96%E7%95%8C%E6%9D%AF%23" target="weibo">
+女篮世界杯（热度：612101）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%9A%E4%B8%BB%E7%96%91%E4%BC%BC%E8%A2%ABEDG%E8%B5%B7%E8%AF%89%E4%BE%B5%E6%9D%83%23" target="weibo">
 博主疑似被EDG起诉侵权（热度：604066）
 </a>
@@ -1209,6 +1215,12 @@ RNG一天五次核酸（热度：573311）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%8C%BB%E7%94%9F%E5%A4%9A%E7%9C%8B%E4%B8%80%E7%9C%BC%E6%95%91%E4%B8%8B%E4%B8%BE%E6%AD%A2%E5%BC%82%E5%B8%B8%E4%B9%98%E5%AE%A2%23" target="weibo">
+女医生多看一眼救下举止异常乘客（热度：559816）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23DRX%E5%AF%B9%E6%88%98RNG%23" target="weibo">
 DRX对战RNG（热度：556439）
 </a>
@@ -1265,6 +1277,12 @@ DRX对战RNG（热度：556439）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E6%90%9C%E6%95%91%E5%AE%9A%E6%A1%A3%E5%9B%BD%E5%BA%86%23" target="weibo">
 电影搜救定档国庆（热度：543809）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%A830%E4%B8%87%E8%AE%AD%E7%BB%83%E5%B8%81%E4%B9%B0%E8%BD%A6%E9%80%81%E5%A5%B3%E5%8F%8B%23" target="weibo">
+男子用30万训练币买车送女友（热度：542959）
 </a>
 </li>
 
@@ -1607,12 +1625,6 @@ Steam取消农历新年特卖（热度：514749）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%BB%B72000%E4%BA%BF%E8%B4%9D%E7%B4%A2%E6%96%AF%E5%89%8D%E5%A6%BB%E5%8F%88%E7%A6%BB%E5%A9%9A%23" target="weibo">
 身价2000亿贝索斯前妻又离婚（热度：475741）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%8C%BB%E7%94%9F%E5%A4%9A%E7%9C%8B%E4%B8%80%E7%9C%BC%E6%95%91%E4%B8%8B%E4%B8%BE%E6%AD%A2%E5%BC%82%E5%B8%B8%E4%B9%98%E5%AE%A2%23" target="weibo">
-女医生多看一眼救下举止异常乘客（热度：475301）
 </a>
 </li>
 
@@ -2493,6 +2505,12 @@ AirPodsPro2篆刻内容会弹窗显示（热度：312641）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23NCT127%E8%8E%B7%E9%9F%B3%E9%93%B6%E4%B8%80%E4%BD%8D%23" target="weibo">
+NCT127获音银一位（热度：303375）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%8A%A1%E9%99%A2%E8%81%94%E9%98%B2%E8%81%94%E6%8E%A7%E6%9C%BA%E5%88%B6%E5%8F%AC%E5%BC%80%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
 国务院联防联控机制召开新闻发布会（热度：303229）
 </a>
@@ -2537,12 +2555,6 @@ AirPodsPro2篆刻内容会弹窗显示（热度：312641）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%83%8E%E9%81%87%E4%BF%9D%E5%AE%89%E8%A6%81%E7%83%9F%E5%BC%83%E8%BD%A6%E8%83%8C%E6%96%B0%E5%A8%98%E8%B5%B0%23" target="weibo">
 新郎遇保安要烟弃车背新娘走（热度：296801）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%A830%E4%B8%87%E8%AE%AD%E7%BB%83%E5%B8%81%E4%B9%B0%E8%BD%A6%E9%80%81%E5%A5%B3%E5%8F%8B%23" target="weibo">
-男子用30万训练币买车送女友（热度：295764）
 </a>
 </li>
 
@@ -2609,6 +2621,12 @@ AirPodsPro2篆刻内容会弹窗显示（热度：312641）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E7%9A%84%E5%93%A5%E8%B7%AA%E8%B0%A2%E6%8A%A5%E5%BA%9F%E5%87%BA%E7%A7%9F%E8%BD%A6%23" target="weibo">
 河南的哥跪谢报废出租车（热度：291547）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E9%9C%B8%E6%94%BE%E5%BC%83%E8%8B%B1%E5%9B%BD%E5%90%8D%E6%A0%A1%E8%AF%BB%E5%8D%9A%E6%94%B9%E5%81%9A%E5%A4%96%E5%8D%96%E8%BF%90%E8%90%A5%23" target="weibo">
+学霸放弃英国名校读博改做外卖运营（热度：290665）
 </a>
 </li>
 
@@ -3135,6 +3153,12 @@ NCT127将举行蚕室演唱会（热度：241435）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%23" target="weibo">
+国庆（热度：240177）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B0%B8%E9%92%A6%E7%BF%BB%E8%B7%B3NewThing%23" target="weibo">
 李永钦翻跳NewThing（热度：239970）
 </a>
@@ -3249,12 +3273,6 @@ RNG BP（热度：239041）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E9%9C%B8%E6%94%BE%E5%BC%83%E8%8B%B1%E5%9B%BD%E5%90%8D%E6%A0%A1%E8%AF%BB%E5%8D%9A%E6%94%B9%E5%81%9A%E5%A4%96%E5%8D%96%E8%BF%90%E8%90%A5%23" target="weibo">
-学霸放弃英国名校读博改做外卖运营（热度：231654）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%A4%96%E8%AF%AD%E6%B0%B4%E5%B9%B3%E6%AF%94%E6%88%91%E5%8E%89%E5%AE%B3%E5%A4%9A%E4%BA%86%23" target="weibo">
 这外语水平比我厉害多了（热度：231016）
 </a>
@@ -3293,6 +3311,12 @@ RNG BP（热度：239041）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%A2%A6%E8%B5%9B%E5%89%8D%E5%8F%91%E7%83%A7%23" target="weibo">
 李梦赛前发烧（热度：229854）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%B9%B4%E5%BA%95%E5%89%8D%E5%B1%85%E6%B0%91%E6%8D%A2%E8%B4%AD%E4%BD%8F%E6%88%BF%E5%8F%AF%E4%BA%AB%E4%B8%AA%E7%A8%8E%E9%80%80%E7%A8%8E%E4%BC%98%E6%83%A0%23" target="weibo">
+明年底前居民换购住房可享个税退税优惠（热度：229594）
 </a>
 </li>
 
@@ -3347,6 +3371,12 @@ RNG BP（热度：239041）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8C%97%E5%8F%91%E7%8E%B0%E8%B7%9D%E4%BB%8A%E7%99%BE%E4%B8%87%E5%B9%B4%E4%BA%BA%E7%B1%BB%E5%A4%B4%E9%AA%A8%E5%8C%96%E7%9F%B3%23" target="weibo">
 湖北发现距今百万年人类头骨化石（热度：225578）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%81%B7%E6%88%B7%E5%8F%A3%E6%9C%AC%E5%92%8C%E6%82%A3%E7%99%8C%E5%A5%B3%E5%8F%8B%E9%A2%86%E8%AF%81%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94%E8%B4%A8%E7%96%91%23" target="weibo">
+偷户口本和患癌女友领证当事人回应质疑（热度：225444）
 </a>
 </li>
 
@@ -3743,12 +3773,6 @@ AirPodsPro2修复性低（热度：201705）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8C%AA%E9%AB%98%E9%80%9F%E8%A2%AB%E6%92%9E%E5%8D%A1%E8%BF%9B%E4%BF%9D%E9%99%A9%E6%9D%A0%23" target="weibo">
 小猪高速被撞卡进保险杠（热度：199363）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%AF%AE%E4%B8%96%E7%95%8C%E6%9D%AF%23" target="weibo">
-女篮世界杯（热度：199061）
 </a>
 </li>
 
@@ -4367,12 +4391,6 @@ Shotaro翻跳NewThing（热度：167629）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%92%E8%9B%87%E5%92%AC%E4%BC%A4%E6%95%A3%E6%AD%A5%E7%94%B7%E5%AD%90%E6%B0%91%E8%AD%A6%E5%B0%86%E9%80%9F%E5%BA%A6%E6%8B%89%E6%BB%A1%23" target="weibo">
 毒蛇咬伤散步男子民警将速度拉满（热度：160527）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%B9%B4%E5%BA%95%E5%89%8D%E5%B1%85%E6%B0%91%E6%8D%A2%E8%B4%AD%E4%BD%8F%E6%88%BF%E5%8F%AF%E4%BA%AB%E4%B8%AA%E7%A8%8E%E9%80%80%E7%A8%8E%E4%BC%98%E6%83%A0%23" target="weibo">
-明年底前居民换购住房可享个税退税优惠（热度：160387）
 </a>
 </li>
 
@@ -5577,6 +5595,12 @@ WB晋级挑杯半决赛（热度：103890）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B7%B3%E5%81%B7%E4%BA%B2%E7%8E%8B%E7%81%BF%E5%A5%BD%E7%94%9C%23" target="weibo">
+杜淳偷亲王灿好甜（热度：98804）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B9%E4%BB%AC%E7%9A%84%E5%90%8D%E5%AD%97%23" target="weibo">
 她们的名字（热度：98445）
 </a>
@@ -6041,6 +6065,12 @@ S12倒计时3天（热度：87741）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23AI%E5%88%9B%E4%BD%9C%E7%9B%B8%E4%BC%BC%E5%BA%A6%E9%AB%98%E7%AE%97%E4%B8%8D%E7%AE%97%E6%8A%84%E8%A2%AD%23" target="weibo">
 AI创作相似度高算不算抄袭（热度：72292）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E6%89%B6%E6%A2%AF%E4%B8%8A%E8%BD%AE%E6%A4%85%E5%A4%B1%E6%8E%A7%E4%B8%A4%E5%B0%8F%E4%BC%99%E5%8F%8A%E6%97%B6%E7%9B%B8%E6%95%91%23" target="weibo">
+老人扶梯上轮椅失控两小伙及时相救（热度：72014）
 </a>
 </li>
 
