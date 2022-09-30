@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/26 00:32:19 ~ 2022/09/30 20:56:14
+本榜单时间：2022/09/26 00:32:19 ~ 2022/09/30 21:28:14
 </p>
 </blockquote>
 <p>
@@ -245,6 +245,12 @@ DR回应800元可删购买记录（热度：2390128）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone14%E6%88%96%E6%88%90%E5%8F%B2%E4%B8%8A%E9%94%80%E9%87%8F%E6%9C%80%E5%B7%AE%E6%9C%BA%E5%9E%8B%23" target="weibo">
 iPhone14或成史上销量最差机型（热度：1720648）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%96%E5%A5%97%E4%B8%AA%E4%BA%BA%E4%BD%8F%E6%88%BF%E5%85%AC%E7%A7%AF%E9%87%91%E8%B4%B7%E6%AC%BE%E5%88%A9%E7%8E%87%E4%B8%8B%E8%B0%83%23" target="weibo">
+首套个人住房公积金贷款利率下调（热度：1645480）
 </a>
 </li>
 
@@ -675,6 +681,12 @@ iPhone14Pro被吐槽信号差（热度：1008109）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9A%84%E5%93%A5%E9%80%81%E8%BF%98%E6%89%8B%E6%9C%BA%E8%A6%81200%E5%85%83%E6%8A%A5%E9%85%AC%E5%A4%B1%E4%B8%BB%E6%8A%A5%E8%AD%A6%23" target="weibo">
+的哥送还手机要200元报酬失主报警（热度：922251）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B2%89%E8%BF%B7%E7%BE%8A%E4%BA%86%E4%B8%AA%E7%BE%8A%E4%B8%88%E5%A4%AB%E6%8A%A5%E8%AD%A6%E6%B1%82%E5%8A%A9%23" target="weibo">
 女子沉迷羊了个羊丈夫报警求助（热度：912741）
 </a>
@@ -915,8 +927,20 @@ iPhone14Pro被吐槽信号差（热度：1008109）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%8C%E5%B1%855%E5%B9%B4%E7%94%9F%E5%A8%83%E5%88%86%E6%89%8B%E7%94%B7%E6%96%B9%E8%A6%81%E5%9B%9E%E5%BD%A9%E7%A4%BC%23" target="weibo">
+同居5年生娃分手男方要回彩礼（热度：728054）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94%E4%BF%9D%E5%AE%89%E6%89%93%E6%AD%BB%E5%96%82%E5%A5%B6%E7%8B%97%E5%A6%88%E5%A6%88%23" target="weibo">
 学校回应保安打死喂奶狗妈妈（热度：726326）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%87%E9%87%8C%E5%BD%92%E9%80%94%23" target="weibo">
+万里归途（热度：721229）
 </a>
 </li>
 
@@ -941,12 +965,6 @@ iPhone14Pro被吐槽信号差（热度：1008109）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%B4%AD%E5%B9%B3%E4%BB%B7%E8%9B%8B%E7%B3%95%E6%9C%89%E5%A4%9A%E7%BB%9D%23" target="weibo">
 网购平价蛋糕有多绝（热度：704381）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%8C%E5%B1%855%E5%B9%B4%E7%94%9F%E5%A8%83%E5%88%86%E6%89%8B%E7%94%B7%E6%96%B9%E8%A6%81%E5%9B%9E%E5%BD%A9%E7%A4%BC%23" target="weibo">
-同居5年生娃分手男方要回彩礼（热度：698050）
 </a>
 </li>
 
@@ -1659,12 +1677,6 @@ Steam取消农历新年特卖（热度：514749）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%87%E9%87%8C%E5%BD%92%E9%80%94%23" target="weibo">
-万里归途（热度：479565）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%9B%9E%E5%A4%8D%E5%BC%A0%E5%BD%AC%E5%BD%AC%E6%9C%89%E6%9C%AC%E4%BA%8B%E5%88%AB%E5%9B%9E%E6%9D%A5%23" target="weibo">
 虞书欣回复张彬彬有本事别回来（热度：478170）
 </a>
@@ -1871,6 +1883,12 @@ Lisa黑长直造型直拍（热度：460336）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%BB%BA%E5%B9%B3%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91%23" target="weibo">
 李建平一审被判死刑（热度：437213）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%B0%B4%E5%BA%93%E6%94%BE%E7%94%9F%E6%B8%85%E9%81%93%E5%A4%AB%E8%A2%AB%E7%BD%9A2.8%E4%B8%87%23" target="weibo">
+男子水库放生清道夫被罚2.8万（热度：435096）
 </a>
 </li>
 
@@ -2147,12 +2165,6 @@ RNG问DRX今天准备好了吗（热度：415151）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%83%A0%E5%B7%9E%E6%83%A0%E4%B8%9C%E5%8E%BF%E6%B5%B7%E5%9F%9F3.2%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
 广东惠州惠东县海域3.2级地震（热度：384051）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9A%84%E5%93%A5%E9%80%81%E8%BF%98%E6%89%8B%E6%9C%BA%E8%A6%81200%E5%85%83%E6%8A%A5%E9%85%AC%E5%A4%B1%E4%B8%BB%E6%8A%A5%E8%AD%A6%23" target="weibo">
-的哥送还手机要200元报酬失主报警（热度：383573）
 </a>
 </li>
 
@@ -2493,12 +2505,6 @@ BIBI新歌（热度：326949）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%B0%B4%E5%BA%93%E6%94%BE%E7%94%9F%E6%B8%85%E9%81%93%E5%A4%AB%E8%A2%AB%E7%BD%9A2.8%E4%B8%87%23" target="weibo">
-男子水库放生清道夫被罚2.8万（热度：317855）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%232%E5%B0%8F%E5%AD%A9%E6%89%93%E9%85%8D%E5%90%88%E5%81%B7%E8%B5%B0%E5%AE%A0%E7%89%A9%E5%BA%97%E7%8C%AB%E5%92%AA%23" target="weibo">
 2小孩打配合偷走宠物店猫咪（热度：317037）
 </a>
@@ -2549,6 +2555,12 @@ AirPodsPro2篆刻内容会弹窗显示（热度：312641）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%8D%97%E5%A4%A7%E5%AD%A62022%E7%BA%A7%E6%96%B0%E7%94%9F%E5%BC%80%E5%AD%A6%E5%85%B8%E7%A4%BC%23" target="weibo">
 西南大学2022级新生开学典礼（热度：307838）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%AF%AE%E5%8D%8F%E5%90%91%E5%A5%B3%E7%AF%AE%E8%87%B4%E8%B4%BA%E4%BF%A1%23" target="weibo">
+中国篮协向女篮致贺信（热度：307648）
 </a>
 </li>
 
@@ -3131,12 +3143,6 @@ iPhone14系列机型将在韩国销售（热度：258989）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E8%90%BD%E8%8A%B1%E6%97%B6%E8%8A%82%E5%8F%88%E9%80%A2%E5%90%9BQ4%E4%B8%8A%E7%BA%BF%23" target="weibo">
 网传落花时节又逢君Q4上线（热度：250029）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A6%96%E5%A5%97%E4%B8%AA%E4%BA%BA%E4%BD%8F%E6%88%BF%E5%85%AC%E7%A7%AF%E9%87%91%E8%B4%B7%E6%AC%BE%E5%88%A9%E7%8E%87%E4%B8%8B%E8%B0%83%23" target="weibo">
-首套个人住房公积金贷款利率下调（热度：249650）
 </a>
 </li>
 
@@ -3927,6 +3933,12 @@ AirPodsPro2修复性低（热度：201705）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%9F%A5%E6%88%B7%E5%8F%A3%E5%BC%8F%E8%81%8A%E5%A4%A9%23" target="weibo">
+周深查户口式聊天（热度：196604）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%94%E9%A9%B0%E8%BD%A6%E6%9C%BA%E6%8E%A8%E9%80%81%E5%8D%96%E8%BD%A6%E5%B9%BF%E5%91%8A%23" target="weibo">
 奔驰车机推送卖车广告（热度：195880）
 </a>
@@ -4187,12 +4199,6 @@ Hero微博直播吧（热度：188598）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%91%E9%BE%99Mike%E4%BB%81%E7%A7%91%E5%8F%8D%E5%90%91%E8%AE%B0%E8%80%85%E4%BC%9A%23" target="weibo">
 张云龙Mike仁科反向记者会（热度：178361）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%AF%AE%E5%8D%8F%E5%90%91%E5%A5%B3%E7%AF%AE%E8%87%B4%E8%B4%BA%E4%BF%A1%23" target="weibo">
-中国篮协向女篮致贺信（热度：178291）
 </a>
 </li>
 
@@ -4917,6 +4923,12 @@ AirPodsPro2用户反馈随机断连（热度：148718）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232022%E5%B9%B4%E5%A5%B3%E6%8E%92%E4%B8%96%E9%94%A6%E8%B5%9B%23" target="weibo">
+2022年女排世锦赛（热度：140256）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%A2%9E%E6%9C%AC%E5%9C%9F%E6%97%A0%E7%97%87%E7%8A%B619%E4%BE%8B%23" target="weibo">
 河南增本土无症状19例（热度：140184）
 </a>
@@ -5151,12 +5163,6 @@ MAMAMOO新专概念照（热度：133383）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%9F%A5%E6%88%B7%E5%8F%A3%E5%BC%8F%E8%81%8A%E5%A4%A9%23" target="weibo">
-周深查户口式聊天（热度：129549）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E5%AE%A0%E7%89%A9%E7%95%8C%E7%9A%84%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%90%A7%23" target="weibo">
 这就是宠物界的三甲医院吧（热度：129125）
 </a>
@@ -5375,12 +5381,6 @@ S12出征海报（热度：122935）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B9%E4%BB%AC%E7%9A%84%E5%90%8D%E5%AD%97%E9%A2%81%E5%A5%96%E5%BC%8F%E6%94%B6%E5%AE%98%23" target="weibo">
 她们的名字颁奖式收官（热度：121603）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232022%E5%B9%B4%E5%A5%B3%E6%8E%92%E4%B8%96%E9%94%A6%E8%B5%9B%23" target="weibo">
-2022年女排世锦赛（热度：121229）
 </a>
 </li>
 
@@ -5697,6 +5697,12 @@ WB晋级挑杯半决赛（热度：103890）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%A9%86%E4%B8%BA%E5%A4%96%E5%AD%99%E4%B9%B0%E5%85%85%E6%B0%94%E5%9F%8E%E5%A0%A1%E6%94%BE%E5%AE%B6%E9%87%8C%E7%8E%A9%23" target="weibo">
+外婆为外孙买充气城堡放家里玩（热度：103477）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%B8%80%E5%81%87%E6%9C%9F%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F%23" target="weibo">
 十一假期打开方式（热度：103219）
 </a>
@@ -5831,6 +5837,12 @@ WB晋级挑杯半决赛（热度：103890）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E6%98%AF%E8%BF%99%E6%A0%B7%E8%B5%B6%E8%B5%B0%E9%BC%A0%E6%A0%87%E6%89%8B%E7%9A%84%23" target="weibo">
 我是这样赶走鼠标手的（热度：94814）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23C919%E8%8E%B7%E9%A2%81%E5%9E%8B%E5%8F%B7%E5%90%88%E6%A0%BC%E8%AF%81%23" target="weibo">
+C919获颁型号合格证（热度：94764）
 </a>
 </li>
 
@@ -6023,6 +6035,12 @@ S12倒计时3天（热度：87741）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8BT%E9%94%A6%E7%BB%A3%E4%B9%9D%E6%9C%88%E5%88%8A%E5%B0%81%E9%9D%A2%23" target="weibo">
 杨洋T锦绣九月刊封面（热度：85865）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%A6%E7%85%8C%E5%AE%88%E6%8A%A4%E4%BA%BA%E8%AF%B4%E6%9C%89%E4%BA%9B%E6%B4%9E%E7%AA%9F%E5%B7%B2%E6%98%AF%E8%A1%B0%E5%BC%B1%E8%80%81%E4%BA%BA%23" target="weibo">
+敦煌守护人说有些洞窟已是衰弱老人（热度：85806）
 </a>
 </li>
 
@@ -6285,6 +6303,12 @@ AI创作相似度高算不算抄袭（热度：72292）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E6%B6%A6%E4%B8%9C%E7%9C%BC%E7%A5%9E%E6%88%8F%E5%A5%BD%E7%8B%A0%23" target="weibo">
+何润东眼神戏好狠（热度：68993）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%BF%E4%BD%9B%E7%9C%8B%E8%A7%81%E4%BA%86%E6%88%91%E8%AF%B4%E8%8B%B1%E6%96%87%E7%9A%84%E6%A0%B7%E5%AD%90%23" target="weibo">
 仿佛看见了我说英文的样子（热度：68554）
 </a>
@@ -6395,6 +6419,12 @@ Cat时尚先生（热度：61255）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A93%E5%A4%A93%E8%BF%9E%E5%8F%91%23" target="weibo">
 中国航天3天3连发（热度：55766）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23RNG%E5%A4%B1%E8%AF%AF%23" target="weibo">
+RNG失误（热度：53482）
 </a>
 </li>
 
@@ -6765,6 +6795,12 @@ VR到底能干什么（热度：10742）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E4%BB%8E%E6%9C%AA%E8%BF%9C%E5%8E%BB%E4%B8%B0%E7%A2%91%E6%B0%B8%E5%AD%98%E4%BA%BA%E9%97%B4%23" target="weibo">
+英雄从未远去丰碑永存人间（热度：9785）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E6%97%B6%E5%85%89%23" target="weibo">
 二十大时光（热度：9718）
 </a>
@@ -6887,12 +6923,6 @@ VR到底能干什么（热度：10742）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%A7%B0%E4%B8%8D%E6%8E%92%E9%99%A4%E5%8C%97%E6%BA%AA%E7%AE%A1%E9%81%93%E9%81%AD%E8%93%84%E6%84%8F%E7%A0%B4%E5%9D%8F%23" target="weibo">
 俄称不排除北溪管道遭蓄意破坏（热度：6239）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E4%BB%8E%E6%9C%AA%E8%BF%9C%E5%8E%BB%E4%B8%B0%E7%A2%91%E6%B0%B8%E5%AD%98%E4%BA%BA%E9%97%B4%23" target="weibo">
-英雄从未远去丰碑永存人间（热度：6227）
 </a>
 </li>
 
