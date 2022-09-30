@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/09/26 00:32:19 ~ 2022/10/01 06:27:26
+本榜单时间：2022/09/26 00:32:19 ~ 2022/10/01 06:44:56
 </p>
 </blockquote>
 <p>
@@ -3357,6 +3357,12 @@ S12小组赛赛程（热度：243717）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E7%BC%A9%E6%B0%B41165%E4%BA%BF%E7%BE%8E%E5%85%83%23" target="weibo">
+苹果市值一夜缩水1165亿美元（热度：242474）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BF%83%E8%84%8F%E9%9C%80%E8%A6%81%E5%AE%9A%E6%9C%9F%E7%BB%B4%E6%8A%A4%23" target="weibo">
 心脏需要定期维护（热度：242058）
 </a>
@@ -3759,6 +3765,12 @@ LESSERAFIM新专辑预售量突破40万张（热度：216399）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2312%E5%B2%81%E4%B9%96%E5%B7%A7%E5%A5%B3%E5%AD%A9%E7%AA%81%E5%8F%98%E6%9A%B4%E8%BA%81%E7%A1%AE%E8%AF%8A%E8%84%91%E7%82%8E%23" target="weibo">
+12岁乖巧女孩突变暴躁确诊脑炎（热度：216378）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E9%A6%96%E5%8F%AA%E5%85%8B%E9%9A%86%E5%8C%97%E6%9E%81%E7%8B%BC%E4%BA%AE%E7%9B%B8%E5%93%88%E5%B0%94%E6%BB%A8%23" target="weibo">
 全球首只克隆北极狼亮相哈尔滨（热度：216060）
 </a>
@@ -4079,12 +4091,6 @@ AirPodsPro2修复性低（热度：201705）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A92%E5%A4%A92%E8%BF%9E%E5%8F%91%23" target="weibo">
 中国航天2天2连发（热度：194366）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E7%BC%A9%E6%B0%B41165%E4%BA%BF%E7%BE%8E%E5%85%83%23" target="weibo">
-苹果市值一夜缩水1165亿美元（热度：193559）
 </a>
 </li>
 
@@ -4773,6 +4779,12 @@ C919将于2022年底交付（热度：157099）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9F%AC%E5%9F%94%E5%AF%A8%E8%BD%BD%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B2%89%E8%88%B9%E4%BA%8B%E6%95%85%E6%B6%89%E4%BA%BA%E5%8F%A3%E8%B4%A9%E5%8D%96%23" target="weibo">
+柬埔寨载中国人沉船事故涉人口贩卖（热度：155805）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%86%E4%BB%91%E7%A5%9E%E5%AE%AB%E5%88%9D%E4%B8%80%E4%BC%9A%E4%B8%8B%E7%BA%BF%E5%90%97%23" target="weibo">
 昆仑神宫初一会下线吗（热度：155646）
 </a>
@@ -4859,6 +4871,12 @@ TES出征世界赛（热度：154789）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23gidle%E6%A6%82%E5%BF%B5%E9%A2%84%E5%91%8A%23" target="weibo">
 gidle概念预告（热度：151857）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E6%8E%A5%E8%AF%8A6%E4%B8%AA%E5%BF%83%E6%A2%97%E6%82%A3%E8%80%855%E4%B8%AA%E7%88%B1%E6%8A%BD%E7%83%9F%23" target="weibo">
+医生接诊6个心梗患者5个爱抽烟（热度：151835）
 </a>
 </li>
 
@@ -5069,12 +5087,6 @@ AirPodsPro2用户反馈随机断连（热度：148718）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%97%E6%98%9F%E4%B8%BA%E7%82%BD%E9%81%93%E6%89%93call%23" target="weibo">
 众星为炽道打call（热度：139381）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2312%E5%B2%81%E4%B9%96%E5%B7%A7%E5%A5%B3%E5%AD%A9%E7%AA%81%E5%8F%98%E6%9A%B4%E8%BA%81%E7%A1%AE%E8%AF%8A%E8%84%91%E7%82%8E%23" target="weibo">
-12岁乖巧女孩突变暴躁确诊脑炎（热度：139157）
 </a>
 </li>
 
@@ -5367,12 +5379,6 @@ MAMAMOO新专概念照（热度：133383）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9F%AC%E5%9F%94%E5%AF%A8%E8%BD%BD%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B2%89%E8%88%B9%E4%BA%8B%E6%95%85%E6%B6%89%E4%BA%BA%E5%8F%A3%E8%B4%A9%E5%8D%96%23" target="weibo">
-柬埔寨载中国人沉船事故涉人口贩卖（热度：126974）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%BB%BA%E6%A4%8D%E7%89%A9%E5%B7%A5%E5%8E%82%E8%AE%A9%E8%8F%A0%E8%8F%9C%E4%B8%80%E5%B9%B4%E9%95%BF22%E8%8C%AC%23" target="weibo">
 女子建植物工厂让菠菜一年长22茬（热度：126909）
 </a>
@@ -5597,12 +5603,6 @@ S12出征海报（热度：122935）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E6%96%B0%E5%89%A7%E7%BE%A4%E6%98%9F%E9%97%AA%E8%80%80%E6%97%B6%E4%BB%8A%E6%97%A5%E5%BC%80%E6%9C%BA%23" target="weibo">
 李现新剧群星闪耀时今日开机（热度：118446）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E6%8E%A5%E8%AF%8A6%E4%B8%AA%E5%BF%83%E6%A2%97%E6%82%A3%E8%80%855%E4%B8%AA%E7%88%B1%E6%8A%BD%E7%83%9F%23" target="weibo">
-医生接诊6个心梗患者5个爱抽烟（热度：118162）
 </a>
 </li>
 
@@ -6111,6 +6111,12 @@ iPadPro2022或支持无线充电（热度：91901）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%8A%A8%E8%BD%A6%E8%B5%B7%E7%81%AB%E7%83%A7%E6%AF%81%E8%BF%9130%E4%B8%87%E5%85%83%E8%B4%AD%E6%88%BF%E6%AC%BE%23" target="weibo">
+电动车起火烧毁近30万元购房款（热度：90568）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E4%B8%89%E8%BF%9E%E8%83%9C%23" target="weibo">
 中国女排三连胜（热度：89604）
 </a>
@@ -6429,6 +6435,12 @@ S12倒计时3天（热度：87741）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E9%AB%98%E9%80%9F%E6%B6%8C%E7%8E%B0%E5%A4%A7%E6%B5%81%E9%87%8F%23" target="weibo">
+杭州高速涌现大流量（热度：73603）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E7%AC%91%E6%B3%AA%E7%82%B9%E5%8F%8D%E5%A4%8D%E6%A8%AA%E8%B7%B3%E7%9A%84%E5%89%A7%23" target="weibo">
 在笑泪点反复横跳的剧（热度：73020）
 </a>
@@ -6443,12 +6455,6 @@ AI创作相似度高算不算抄袭（热度：72292）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%BB%84%E5%8A%A8%E4%BD%9C%E6%91%86%E5%B9%B3%E5%B0%8F%E8%82%9A%E8%85%A9%23" target="weibo">
 一组动作摆平小肚腩（热度：71888）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%8A%A8%E8%BD%A6%E8%B5%B7%E7%81%AB%E7%83%A7%E6%AF%81%E8%BF%9130%E4%B8%87%E5%85%83%E8%B4%AD%E6%88%BF%E6%AC%BE%23" target="weibo">
-电动车起火烧毁近30万元购房款（热度：69668）
 </a>
 </li>
 
@@ -6597,12 +6603,6 @@ Cat时尚先生（热度：61255）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E9%AB%98%E9%80%9F%E6%B6%8C%E7%8E%B0%E5%A4%A7%E6%B5%81%E9%87%8F%23" target="weibo">
-杭州高速涌现大流量（热度：58955）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A93%E5%A4%A93%E8%BF%9E%E5%8F%91%23" target="weibo">
 中国航天3天3连发（热度：55766）
 </a>
@@ -6743,6 +6743,12 @@ Cat时尚先生（热度：61255）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%9D%A1plog%E5%91%8A%E5%88%AB%E4%B9%9D%E6%9C%88%23" target="weibo">
 一条plog告别九月（热度：36566）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E5%87%BA%E5%8F%A3%E9%87%8F%E5%A4%A7%E5%A2%9E%23" target="weibo">
+新能源汽车出口量大增（热度：35457）
 </a>
 </li>
 
@@ -6917,12 +6923,6 @@ Cat时尚先生（热度：61255）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E7%8F%AD%E8%B7%AF%E4%B8%8A%E7%9A%84%E7%BB%8A%E8%84%9A%E7%9F%B3%23" target="weibo">
 上班路上的绊脚石（热度：16691）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E5%87%BA%E5%8F%A3%E9%87%8F%E5%A4%A7%E5%A2%9E%23" target="weibo">
-新能源汽车出口量大增（热度：16545）
 </a>
 </li>
 

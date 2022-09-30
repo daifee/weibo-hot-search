@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664576846621,
+  "endTime": 1664577896565,
   "band_list": [
     {
       "raw_hot": 1594753,
@@ -35,19 +35,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 692156,
+      "num": 692156,
+      "word": "国庆七天每分钟都不想浪费",
+      "onboard_time": 1664526803,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 640049,
       "num": 121089,
       "word": "租客退房留下2猫1狗1鸡",
       "onboard_time": 1664551584,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 523752,
-      "num": 523752,
-      "word": "国庆七天每分钟都不想浪费",
-      "onboard_time": 1664526803,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -139,6 +139,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 242474,
+      "num": 242474,
+      "word": "苹果市值一夜缩水1165亿美元",
+      "onboard_time": 1664563153,
+      "rank": 35,
+      "category": "财经,科技"
+    },
+    {
+      "raw_hot": 216378,
+      "num": 116616,
+      "word": "12岁乖巧女孩突变暴躁确诊脑炎",
+      "onboard_time": 1664573532,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203839,
       "num": 119652,
       "word": "小偷气愤欲偷平板电脑到手电子秤",
@@ -155,16 +171,8 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 193559,
-      "num": 193559,
-      "word": "苹果市值一夜缩水1165亿美元",
-      "onboard_time": 1664563153,
-      "rank": 35,
-      "category": "财经,科技"
-    },
-    {
       "raw_hot": 185619,
-      "num": 162462,
+      "num": 182597,
       "word": "双胞胎见爸爸回家开心到摔倒",
       "onboard_time": 1664554223,
       "rank": 17,
@@ -179,20 +187,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 139157,
-      "num": 87381,
-      "word": "12岁乖巧女孩突变暴躁确诊脑炎",
-      "onboard_time": 1664573532,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 126974,
-      "num": 86480,
+      "raw_hot": 155805,
+      "num": 112341,
       "word": "柬埔寨载中国人沉船事故涉人口贩卖",
       "onboard_time": 1664564952,
       "rank": 26,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 151835,
+      "num": 110622,
+      "word": "医生接诊6个心梗患者5个爱抽烟",
+      "onboard_time": 1664572570,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124520,
@@ -216,14 +224,6 @@
       "word": "男子水库放生清道夫被罚2.8万",
       "onboard_time": 1664540187,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118162,
-      "num": 84877,
-      "word": "医生接诊6个心梗患者5个爱抽烟",
-      "onboard_time": 1664572570,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -275,6 +275,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 90568,
+      "num": 90568,
+      "word": "电动车起火烧毁近30万元购房款",
+      "onboard_time": 1664566631,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86923,
       "num": 86923,
       "word": "我和国旗合个影",
@@ -299,11 +307,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 69668,
-      "num": 69668,
-      "word": "电动车起火烧毁近30万元购房款",
-      "onboard_time": 1664566631,
-      "rank": 49,
+      "raw_hot": 73603,
+      "num": 73603,
+      "word": "杭州高速涌现大流量",
+      "onboard_time": 1664567110,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -361,14 +369,6 @@
       "onboard_time": 1664534003,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 58955,
-      "num": 58955,
-      "word": "杭州高速涌现大流量",
-      "onboard_time": 1664567110,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 57126,
@@ -475,6 +475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 35457,
+      "num": 35457,
+      "word": "新能源汽车出口量大增",
+      "onboard_time": 1664575513,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 29628,
       "num": 29628,
       "word": "陈小春大合照都要比Xleader",
@@ -483,8 +491,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 21104,
-      "num": 21104,
+      "raw_hot": 23728,
+      "num": 23728,
       "word": "中国女排战胜捷克队",
       "onboard_time": 1664545644,
       "rank": 48,
@@ -497,14 +505,6 @@
       "onboard_time": 1664561715,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 16545,
-      "num": 16545,
-      "word": "新能源汽车出口量大增",
-      "onboard_time": 1664575513,
-      "rank": 44,
-      "category": "财经"
     },
     {
       "raw_hot": 10343,
