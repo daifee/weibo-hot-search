@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664565860485,
+  "endTime": 1664566807277,
   "band_list": [
     {
       "raw_hot": 1594753,
@@ -235,6 +235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97595,
+      "num": 49561,
+      "word": "苹果市值一夜缩水1165亿美元",
+      "onboard_time": 1664563153,
+      "rank": 35,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 96346,
       "num": 96346,
       "word": "光与夜之恋",
@@ -267,12 +275,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 73814,
-      "num": 49561,
-      "word": "苹果市值一夜缩水1165亿美元",
-      "onboard_time": 1664563153,
-      "rank": 35,
-      "category": "财经,科技"
+      "raw_hot": 68574,
+      "num": 68574,
+      "word": "花得莫名其妙的一笔钱",
+      "onboard_time": 1664560632,
+      "rank": 29,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 67576,
@@ -281,14 +289,6 @@
       "onboard_time": 1664552906,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 67278,
-      "num": 67278,
-      "word": "花得莫名其妙的一笔钱",
-      "onboard_time": 1664560632,
-      "rank": 29,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 66429,
@@ -353,6 +353,14 @@
       "onboard_time": 1664556977,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 53110,
+      "num": 24072,
+      "word": "柬埔寨载中国人沉船事故涉人口贩卖",
+      "onboard_time": 1664564952,
+      "rank": 26,
+      "category": "社会负面"
     },
     {
       "raw_hot": 51667,
@@ -443,14 +451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 24072,
-      "num": 24072,
-      "word": "柬埔寨载中国人沉船事故涉人口贩卖",
-      "onboard_time": 1664564952,
-      "rank": 26,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 19434,
       "num": 19434,
       "word": "滑滑梯的小熊猫",
@@ -472,6 +472,14 @@
       "word": "英雄从未远去丰碑永存人间",
       "onboard_time": 1664498006,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7354,
+      "num": 7354,
+      "word": "电动车起火烧毁近30万元购房款",
+      "onboard_time": 1664566631,
+      "rank": 49,
       "category": "社会新闻"
     }
   ],
