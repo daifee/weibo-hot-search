@@ -1,7 +1,15 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664581672383,
+  "endTime": 1664592460049,
   "band_list": [
+    {
+      "raw_hot": 1868940,
+      "num": 1868940,
+      "word": "国庆天安门广场升旗仪式",
+      "onboard_time": 1664579778,
+      "rank": 4,
+      "category": "国内要闻"
+    },
     {
       "raw_hot": 1594753,
       "num": 1594753,
@@ -9,14 +17,6 @@
       "onboard_time": 1664532866,
       "rank": 0,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1349407,
-      "num": 1349407,
-      "word": "国庆天安门广场升旗仪式",
-      "onboard_time": 1664579778,
-      "rank": 4,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 1244093,
@@ -51,12 +51,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 691285,
+      "num": 267048,
+      "word": "iPhone6被苹果列入过时产品",
+      "onboard_time": 1664583081,
+      "rank": 10,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 681100,
+      "num": 681100,
+      "word": "男生穿小粉拖跑3000米获银牌",
+      "onboard_time": 1664582844,
+      "rank": 3,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 640049,
-      "num": 147020,
+      "num": 170052,
       "word": "租客退房留下2猫1狗1鸡",
       "onboard_time": 1664551584,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 585233,
+      "num": 265929,
+      "word": "我龙傲天誓死守护刘波",
+      "onboard_time": 1664588723,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 545777,
+      "num": 545777,
+      "word": "万里归途票房破亿",
+      "onboard_time": 1664590521,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 508018,
@@ -115,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 333270,
+      "num": 333270,
+      "word": "时代少年团我的祖国",
+      "onboard_time": 1664591601,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 330748,
       "num": 330748,
       "word": "外交人员看万里归途哽咽了",
@@ -139,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 307236,
+      "num": 307236,
+      "word": "张国伟夺校运会冠军",
+      "onboard_time": 1664579236,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 279790,
       "num": 279790,
       "word": "外婆为外孙买充气城堡放家里玩",
@@ -153,6 +201,14 @@
       "onboard_time": 1664554223,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268109,
+      "num": 268109,
+      "word": "唐朝诡事录好高能",
+      "onboard_time": 1664549723,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 266563,
@@ -171,12 +227,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 251681,
-      "num": 251681,
-      "word": "唐朝诡事录好高能",
-      "onboard_time": 1664549723,
-      "rank": 12,
-      "category": "影视"
+      "raw_hot": 258491,
+      "num": 258491,
+      "word": "韩国近一半泡菜生产商关闭",
+      "onboard_time": 1664582360,
+      "rank": 13,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 254330,
+      "num": 254330,
+      "word": "中国人首次在太空为新中国庆生",
+      "onboard_time": 1664588902,
+      "rank": 14,
+      "category": "科技,国内要闻"
     },
     {
       "raw_hot": 246833,
@@ -195,12 +259,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 230120,
-      "num": 230120,
-      "word": "张国伟夺校运会冠军",
-      "onboard_time": 1664579236,
-      "rank": 33,
-      "category": "体育"
+      "raw_hot": 224689,
+      "num": 224689,
+      "word": "强大自己的4个习惯",
+      "onboard_time": 1664588003,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 216741,
@@ -235,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184180,
+      "num": 184180,
+      "word": "张杰献唱江河奔腾看中国",
+      "onboard_time": 1664590463,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 171133,
       "num": 171133,
       "word": "万里归途",
@@ -251,12 +323,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155307,
+      "num": 155307,
+      "word": "花得莫名其妙的一笔钱",
+      "onboard_time": 1664560632,
+      "rank": 29,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 147627,
       "num": 147627,
       "word": "新中国成立73周年",
       "onboard_time": 1664579778,
       "rank": 23,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 146403,
+      "num": 146403,
+      "word": "中国空间站转变为L构型",
+      "onboard_time": 1664589680,
+      "rank": 24,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 145788,
+      "num": 145788,
+      "word": "女篮",
+      "onboard_time": 1664580379,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 144182,
@@ -267,12 +363,36 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 142074,
+      "num": 142074,
+      "word": "为看升旗跑出了百米冲刺的感觉",
+      "onboard_time": 1664585723,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141835,
+      "num": 141835,
+      "word": "IU演唱会版Eight",
+      "onboard_time": 1664582181,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 135935,
       "num": 135935,
       "word": "表白中国我接力",
       "onboard_time": 1664580259,
       "rank": 25,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 126713,
+      "num": 126713,
+      "word": "90后小伙跨83城拍美丽中国",
+      "onboard_time": 1664587222,
+      "rank": 28,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 124520,
@@ -291,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123104,
+      "num": 123104,
+      "word": "彩色超清重现国庆阅兵高燃瞬间",
+      "onboard_time": 1664592201,
+      "rank": 29,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 122179,
       "num": 122179,
       "word": "宋妍霏上海时装周走秀",
@@ -307,12 +435,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 117160,
-      "num": 117160,
-      "word": "女篮",
-      "onboard_time": 1664580379,
-      "rank": 27,
-      "category": "体育"
+      "raw_hot": 118649,
+      "num": 118649,
+      "word": "哥你好成9月票房冠军",
+      "onboard_time": 1664582061,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 115145,
@@ -347,12 +475,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102392,
+      "num": 102392,
+      "word": "女篮世界杯的观众席",
+      "onboard_time": 1664581342,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 102128,
+      "num": 102128,
+      "word": "氛围感拉满还得看中国",
+      "onboard_time": 1664582602,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96346,
       "num": 96346,
       "word": "光与夜之恋",
       "onboard_time": 1664540725,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 94490,
+      "num": 94490,
+      "word": "这是今天的天安门广场",
+      "onboard_time": 1664585304,
+      "rank": 37,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 92591,
@@ -363,12 +515,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 89646,
-      "num": 89646,
-      "word": "花得莫名其妙的一笔钱",
-      "onboard_time": 1664560632,
-      "rank": 29,
-      "category": "情感,幽默"
+      "raw_hot": 90840,
+      "num": 90840,
+      "word": "学生嬉闹时听到国歌集体立定敬礼",
+      "onboard_time": 1664591662,
+      "rank": 38,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 89509,
@@ -459,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61978,
+      "num": 57349,
+      "word": "9月30日新增本土无症状549例",
+      "onboard_time": 1664592443,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60855,
       "num": 60855,
       "word": "汤唯春史电影奖最佳女主角",
@@ -475,6 +635,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59521,
+      "num": 59521,
+      "word": "中国女篮想用最好表现为祖国庆生",
+      "onboard_time": 1664591962,
+      "rank": 45,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 58969,
+      "num": 56264,
+      "word": "9月30日新增本土确诊106例",
+      "onboard_time": 1664592443,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58283,
+      "num": 58283,
+      "word": "格里芬加盟凯尔特人",
+      "onboard_time": 1664583863,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57126,
       "num": 57126,
       "word": "周深查户口式聊天",
@@ -489,14 +673,6 @@
       "onboard_time": 1664552782,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 56645,
-      "num": 56645,
-      "word": "女篮世界杯的观众席",
-      "onboard_time": 1664581342,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 55642,
