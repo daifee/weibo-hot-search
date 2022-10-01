@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664659348810,
+  "endTime": 1664660449117,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -1907,19 +1907,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25536,
+      "num": 22876,
+      "word": "女篮挺进决赛姚明场边笑开花",
+      "onboard_time": 1664654831,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23728,
       "num": 23728,
       "word": "中国女排战胜捷克队",
       "onboard_time": 1664545644,
       "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 23594,
-      "num": 19624,
-      "word": "女篮挺进决赛姚明场边笑开花",
-      "onboard_time": 1664654831,
-      "rank": 40,
       "category": "体育"
     },
     {
