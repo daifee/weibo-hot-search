@@ -1,0 +1,410 @@
+{
+  "runTime": 1664613139116,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6812622,
+        "num": 6812622,
+        "word": "中国女篮vs美国女篮",
+        "onboard_time": 1664603001,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2662228,
+        "num": 2824456,
+        "word": "女篮世界杯亚军",
+        "onboard_time": 1664610568,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207467,
+        "num": 2214326,
+        "word": "亲爱的祖国生日快乐",
+        "onboard_time": 1664601921,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1826566,
+        "num": 1826566,
+        "word": "中国女篮值得千万奖金",
+        "onboard_time": 1664607505,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1276987,
+        "num": 1276987,
+        "word": "姚明笑了",
+        "onboard_time": 1664597421,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 730126,
+        "num": 730126,
+        "word": "女生90多张卖萌自拍错发班级群",
+        "onboard_time": 1664608585,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 692081,
+        "num": 692081,
+        "word": "王思雨 牛",
+        "onboard_time": 1664606965,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 689109,
+        "num": 689109,
+        "word": "婆婆自学用1年为儿媳做传统凤冠",
+        "onboard_time": 1664608647,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 688891,
+        "num": 688891,
+        "word": "少爷和我",
+        "onboard_time": 1664604800,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 492263,
+        "num": 492263,
+        "word": "中国女篮解说",
+        "onboard_time": 1664606664,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1192030,
+        "num": 467875,
+        "word": "杨舒予 集训",
+        "onboard_time": 1664611944,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 406450,
+        "num": 406450,
+        "word": "万里归途 后劲",
+        "onboard_time": 1664610085,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 373418,
+        "num": 373418,
+        "word": "于和伟触碰不了喜剧大赛的逆鳞",
+        "onboard_time": 1664611345,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354557,
+        "num": 354557,
+        "word": "狗狗打翻白酒偷尝后醉倒不起",
+        "onboard_time": 1664605823,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368291,
+        "num": 353744,
+        "word": "刘波刘海留疤",
+        "onboard_time": 1664609185,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332437,
+        "num": 332437,
+        "word": "海天味业回应酱油添加剂争议",
+        "onboard_time": 1664603360,
+        "rank": 15,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 234183,
+        "num": 234183,
+        "word": "万里归途32万6713步",
+        "onboard_time": 1664611464,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196984,
+        "num": 196984,
+        "word": "iPhone6被苹果列入过时产品",
+        "onboard_time": 1664583081,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 191212,
+        "num": 191212,
+        "word": "中国女篮状态",
+        "onboard_time": 1664608767,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182162,
+        "num": 182162,
+        "word": "跟21.8万人一起看升旗是啥体验",
+        "onboard_time": 1664606241,
+        "rank": 19,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 179760,
+        "num": 179760,
+        "word": "钱七虎院士已捐助584位贫困生",
+        "onboard_time": 1664611107,
+        "rank": 20,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 178074,
+        "num": 178074,
+        "word": "苏打绿正式取得名字商标权",
+        "onboard_time": 1664598261,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161241,
+        "num": 161241,
+        "word": "刺猬头卡饮料杯路过男子脚踩拔出",
+        "onboard_time": 1664604202,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154828,
+        "num": 154828,
+        "word": "女篮姑娘拼到最后一秒",
+        "onboard_time": 1664610688,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150672,
+        "num": 150672,
+        "word": "成都世乒赛团体赛国乒首秀",
+        "onboard_time": 1664607682,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142297,
+        "num": 142297,
+        "word": "张国伟是现实版段宇成吧",
+        "onboard_time": 1664607865,
+        "rank": 25,
+        "category": "体育,影视"
+      },
+      {
+        "raw_hot": 137379,
+        "num": 137379,
+        "word": "张译演技",
+        "onboard_time": 1664597601,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131634,
+        "num": 131634,
+        "word": "女子跳河救起男童才想起不会游泳",
+        "onboard_time": 1664597841,
+        "rank": 27,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 134211,
+        "num": 130751,
+        "word": "殷桃说王俊凯是很专注的演员",
+        "onboard_time": 1664603960,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115992,
+        "num": 115992,
+        "word": "济南新增本土确诊病例1例",
+        "onboard_time": 1664597542,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93640,
+        "num": 93640,
+        "word": "万里归途票房破亿",
+        "onboard_time": 1664590521,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 90724,
+        "num": 90724,
+        "word": "北京丰台增一感染者在京无常住地址",
+        "onboard_time": 1664593103,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83132,
+        "num": 83132,
+        "word": "成都假期带张嘴就够了",
+        "onboard_time": 1664604800,
+        "rank": 32,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 81301,
+        "num": 81301,
+        "word": "特斯拉人形机器人原型机亮相",
+        "onboard_time": 1664597601,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 80584,
+        "num": 80584,
+        "word": "任嘉伦祝福祖国繁荣昌盛",
+        "onboard_time": 1664599222,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77872,
+        "num": 77872,
+        "word": "杨力维助攻",
+        "onboard_time": 1664606843,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75671,
+        "num": 75671,
+        "word": "国考",
+        "onboard_time": 1664597660,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 74742,
+        "num": 74742,
+        "word": "RNG入围赛首胜",
+        "onboard_time": 1664598623,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 73593,
+        "num": 73593,
+        "word": "国庆文案",
+        "onboard_time": 1664598202,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 70810,
+        "num": 70810,
+        "word": "女篮",
+        "onboard_time": 1664580379,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69902,
+        "num": 69902,
+        "word": "北京丰台新划定3个高风险区",
+        "onboard_time": 1664612242,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57935,
+        "num": 57935,
+        "word": "女篮 紧张",
+        "onboard_time": 1664609426,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51428,
+        "num": 51428,
+        "word": "韩国近一半泡菜生产商关闭",
+        "onboard_time": 1664582360,
+        "rank": 42,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 49913,
+        "num": 49913,
+        "word": "我龙傲天誓死守护刘波",
+        "onboard_time": 1664588723,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46443,
+        "num": 46443,
+        "word": "女篮直播",
+        "onboard_time": 1664597181,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45794,
+        "num": 45794,
+        "word": "藏在剧综里的高燃台词",
+        "onboard_time": 1664600721,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 45292,
+        "num": 45292,
+        "word": "租客退房留下2猫1狗1鸡",
+        "onboard_time": 1664551584,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38599,
+        "num": 38599,
+        "word": "妈妈寄桃酥女儿收到时碎成土",
+        "onboard_time": 1664554582,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38362,
+        "num": 38362,
+        "word": "王思雨三分",
+        "onboard_time": 1664606004,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35370,
+        "num": 35370,
+        "word": "国庆",
+        "onboard_time": 1664532866,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#庆祝新中国成立73周年#"
+    }
+  }
+}

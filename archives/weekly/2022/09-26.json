@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664610264169,
+  "endTime": 1664613139116,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -89,6 +89,14 @@
       "onboard_time": 1664259745,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2662228,
+      "num": 2824456,
+      "word": "女篮世界杯亚军",
+      "onboard_time": 1664610568,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 2645826,
@@ -281,6 +289,14 @@
       "onboard_time": 1664352985,
       "rank": 3,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1826566,
+      "num": 1826566,
+      "word": "中国女篮值得千万奖金",
+      "onboard_time": 1664607505,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 1816274,
@@ -651,14 +667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1257414,
-      "num": 1257414,
-      "word": "中国女篮值得千万奖金",
-      "onboard_time": 1664607505,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1253788,
       "num": 1253788,
       "word": "C919",
@@ -697,6 +705,14 @@
       "onboard_time": 1664205926,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1192030,
+      "num": 467875,
+      "word": "杨舒予 集训",
+      "onboard_time": 1664611944,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 1181048,
@@ -1347,6 +1363,14 @@
       "category": "国外要闻,社会新闻"
     },
     {
+      "raw_hot": 730126,
+      "num": 730126,
+      "word": "女生90多张卖萌自拍错发班级群",
+      "onboard_time": 1664608585,
+      "rank": 17,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 728850,
       "num": 401886,
       "word": "骚男结婚",
@@ -1431,6 +1455,14 @@
       "num": 689143,
       "word": "睡前刷手机会降低夜间睡眠质量",
       "onboard_time": 1664281223,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 689109,
+      "num": 689109,
+      "word": "婆婆自学用1年为儿媳做传统凤冠",
+      "onboard_time": 1664608647,
       "rank": 24,
       "category": "社会新闻"
     },
@@ -2795,14 +2827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 423058,
-      "num": 399841,
-      "word": "女生90多张卖萌自拍错发班级群",
-      "onboard_time": 1664608585,
-      "rank": 17,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 422031,
       "num": 360353,
       "word": "北京新增2例均为农贸市场相关人员",
@@ -2953,6 +2977,14 @@
       "onboard_time": 1664444065,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 406450,
+      "num": 406450,
+      "word": "万里归途 后劲",
+      "onboard_time": 1664610085,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 405049,
@@ -3123,14 +3155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 388948,
-      "num": 388948,
-      "word": "婆婆自学用1年为儿媳做传统凤冠",
-      "onboard_time": 1664608647,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 388086,
       "num": 316346,
       "word": "对王鹤棣最大的误解是笨蛋帅哥",
@@ -3275,6 +3299,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 373418,
+      "num": 373418,
+      "word": "于和伟触碰不了喜剧大赛的逆鳞",
+      "onboard_time": 1664611345,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 372782,
       "num": 306896,
       "word": "男观众说见王俊凯一次哭一次",
@@ -3321,6 +3353,14 @@
       "onboard_time": 1664550925,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 368291,
+      "num": 353744,
+      "word": "刘波刘海留疤",
+      "onboard_time": 1664609185,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 367184,
@@ -4867,6 +4907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 234183,
+      "num": 234183,
+      "word": "万里归途32万6713步",
+      "onboard_time": 1664611464,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 234012,
       "num": 234012,
       "word": "周琦重回墨尔本凤凰队",
@@ -5097,14 +5145,6 @@
       "onboard_time": 1664460566,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 227187,
-      "num": 227187,
-      "word": "刘波刘海留疤",
-      "onboard_time": 1664609185,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 226546,
@@ -5499,6 +5539,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 207467,
+      "num": 2214326,
+      "word": "亲爱的祖国生日快乐",
+      "onboard_time": 1664601921,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 207443,
       "num": 207443,
       "word": "北京疫情发布会",
@@ -5859,6 +5907,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 191212,
+      "num": 191212,
+      "word": "中国女篮状态",
+      "onboard_time": 1664608767,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191127,
       "num": 191127,
       "word": "蔡徐坤主持沸腾校园运动会",
@@ -5929,14 +5985,6 @@
       "onboard_time": 1664506524,
       "rank": 25,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 189174,
-      "num": 1293074,
-      "word": "亲爱的祖国生日快乐",
-      "onboard_time": 1664601921,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 188716,
@@ -6121,6 +6169,14 @@
       "onboard_time": 1664288788,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179760,
+      "num": 179760,
+      "word": "钱七虎院士已捐助584位贫困生",
+      "onboard_time": 1664611107,
+      "rank": 20,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 179562,
@@ -6803,20 +6859,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 155593,
-      "num": 155593,
-      "word": "中国女篮状态",
-      "onboard_time": 1664608767,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 155307,
       "num": 155307,
       "word": "花得莫名其妙的一笔钱",
       "onboard_time": 1664560632,
       "rank": 29,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 154828,
+      "num": 154828,
+      "word": "女篮姑娘拼到最后一秒",
+      "onboard_time": 1664610688,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 154800,
@@ -6945,6 +7001,14 @@
       "onboard_time": 1664473035,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 150672,
+      "num": 150672,
+      "word": "成都世乒赛团体赛国乒首秀",
+      "onboard_time": 1664607682,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 150315,
@@ -7425,14 +7489,6 @@
       "onboard_time": 1664287765,
       "rank": 35,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 133681,
-      "num": 133681,
-      "word": "万里归途 后劲",
-      "onboard_time": 1664610085,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 133411,
@@ -8339,14 +8395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 104191,
-      "num": 104191,
-      "word": "成都世乒赛团体赛国乒首秀",
-      "onboard_time": 1664607682,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 103890,
       "num": 103890,
       "word": "WB晋级挑杯半决赛",
@@ -9217,6 +9265,14 @@
       "onboard_time": 1664349927,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69902,
+      "num": 69902,
+      "word": "北京丰台新划定3个高风险区",
+      "onboard_time": 1664612242,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 69239,
