@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664613139116,
+  "endTime": 1664614292763,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -363,6 +363,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1640989,
+      "num": 1640989,
+      "word": "杨舒予 集训",
+      "onboard_time": 1664611944,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1640857,
       "num": 522691,
       "word": "韩剧",
@@ -707,14 +715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1192030,
-      "num": 467875,
-      "word": "杨舒予 集训",
-      "onboard_time": 1664611944,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1181048,
       "num": 368904,
       "word": "羽生结弦",
@@ -900,7 +900,7 @@
     },
     {
       "raw_hot": 984185,
-      "num": 798019,
+      "num": 801070,
       "word": "少爷和我",
       "onboard_time": 1664604800,
       "rank": 5,
@@ -1323,6 +1323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 748782,
+      "num": 748782,
+      "word": "女生90多张卖萌自拍错发班级群",
+      "onboard_time": 1664608585,
+      "rank": 17,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 744351,
       "num": 485923,
       "word": "半是蜜糖半是伤开播两周年",
@@ -1361,14 +1369,6 @@
       "onboard_time": 1664505866,
       "rank": 39,
       "category": "国外要闻,社会新闻"
-    },
-    {
-      "raw_hot": 730126,
-      "num": 730126,
-      "word": "女生90多张卖萌自拍错发班级群",
-      "onboard_time": 1664608585,
-      "rank": 17,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 728850,
@@ -2515,6 +2515,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 472274,
+      "num": 472274,
+      "word": "万里归途 后劲",
+      "onboard_time": 1664610085,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 472158,
       "num": 472158,
       "word": "谢娜十三角关系上海站收官",
@@ -2665,6 +2673,14 @@
       "onboard_time": 1664456305,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 448365,
+      "num": 448365,
+      "word": "于和伟触碰不了喜剧大赛的逆鳞",
+      "onboard_time": 1664611345,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 448225,
@@ -2979,14 +2995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 406450,
-      "num": 406450,
-      "word": "万里归途 后劲",
-      "onboard_time": 1664610085,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 405049,
       "num": 405049,
       "word": "国庆放假前的我",
@@ -3297,14 +3305,6 @@
       "onboard_time": 1664513365,
       "rank": 49,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 373418,
-      "num": 373418,
-      "word": "于和伟触碰不了喜剧大赛的逆鳞",
-      "onboard_time": 1664611345,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 372782,
@@ -4819,6 +4819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 240770,
+      "num": 240770,
+      "word": "万里归途32万6713步",
+      "onboard_time": 1664611464,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 239970,
       "num": 239970,
       "word": "李永钦翻跳NewThing",
@@ -4905,14 +4913,6 @@
       "onboard_time": 1664497169,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 234183,
-      "num": 234183,
-      "word": "万里归途32万6713步",
-      "onboard_time": 1664611464,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 234012,
@@ -5691,6 +5691,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 201054,
+      "num": 201054,
+      "word": "钱七虎院士已捐助584位贫困生",
+      "onboard_time": 1664611107,
+      "rank": 20,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 200651,
       "num": 200651,
       "word": "心动的信号",
@@ -6169,14 +6177,6 @@
       "onboard_time": 1664288788,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 179760,
-      "num": 179760,
-      "word": "钱七虎院士已捐助584位贫困生",
-      "onboard_time": 1664611107,
-      "rank": 20,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 179562,
@@ -6731,6 +6731,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 158276,
+      "num": 158276,
+      "word": "女篮姑娘拼到最后一秒",
+      "onboard_time": 1664610688,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158247,
       "num": 158247,
       "word": "警方回应男子酒吧骚扰邻桌女生",
@@ -6865,14 +6873,6 @@
       "onboard_time": 1664560632,
       "rank": 29,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 154828,
-      "num": 154828,
-      "word": "女篮姑娘拼到最后一秒",
-      "onboard_time": 1664610688,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 154800,
@@ -7049,6 +7049,14 @@
       "onboard_time": 1664498128,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148809,
+      "num": 148809,
+      "word": "北京丰台新划定3个高风险区",
+      "onboard_time": 1664612242,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148718,
@@ -7769,6 +7777,14 @@
       "onboard_time": 1664172205,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 125551,
+      "num": 125551,
+      "word": "女篮送上超燃国庆礼物",
+      "onboard_time": 1664613623,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 125469,
@@ -9267,12 +9283,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 69902,
-      "num": 69902,
-      "word": "北京丰台新划定3个高风险区",
-      "onboard_time": 1664612242,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 71806,
+      "num": 71806,
+      "word": "中国女篮追平历史最好成绩",
+      "onboard_time": 1664613444,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 69239,
