@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664600103735,
+  "endTime": 1664602997184,
   "band_list": [
     {
       "raw_hot": 6363692,
@@ -499,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1382253,
+      "num": 1382253,
+      "word": "国考",
+      "onboard_time": 1664597660,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1378659,
       "num": 1378659,
       "word": "真的不建议饭后立刻洗澡",
@@ -979,6 +987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 902389,
+      "num": 902389,
+      "word": "姚明笑了",
+      "onboard_time": 1664597421,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 891953,
       "num": 891953,
       "word": "广东省回应禁止销售槟榔建议",
@@ -1000,6 +1016,14 @@
       "word": "任嘉伦请君下线了10分钟又上线",
       "onboard_time": 1664198124,
       "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 863896,
+      "num": 863896,
+      "word": "张译演技",
+      "onboard_time": 1664597601,
+      "rank": 6,
       "category": "影视"
     },
     {
@@ -1337,14 +1361,6 @@
       "onboard_time": 1664449222,
       "rank": 12,
       "category": "美食"
-    },
-    {
-      "raw_hot": 699687,
-      "num": 699687,
-      "word": "国考",
-      "onboard_time": 1664597660,
-      "rank": 1,
-      "category": "教育"
     },
     {
       "raw_hot": 695302,
@@ -1843,6 +1859,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 556254,
+      "num": 556254,
+      "word": "女子跳河救起男童才想起不会游泳",
+      "onboard_time": 1664597841,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 555152,
       "num": 356917,
       "word": "陈哲远是捅了甜妹窝吧",
@@ -2193,14 +2217,6 @@
       "onboard_time": 1664545644,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 500658,
-      "num": 500658,
-      "word": "张译演技",
-      "onboard_time": 1664597601,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 499614,
@@ -3491,14 +3507,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 333190,
-      "num": 333190,
-      "word": "女子跳河救起男童才想起不会游泳",
-      "onboard_time": 1664597841,
-      "rank": 9,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 332349,
       "num": 332349,
       "word": "赵丽颖溯秋见林氛围感大片",
@@ -4113,6 +4121,14 @@
       "onboard_time": 1664508262,
       "rank": 31,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 273899,
+      "num": 273899,
+      "word": "女篮直播",
+      "onboard_time": 1664597181,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 272576,
@@ -5483,6 +5499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202390,
+      "num": 202390,
+      "word": "济南新增本土确诊病例1例",
+      "onboard_time": 1664597542,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201793,
       "num": 201793,
       "word": "牙买加0比3阿根廷",
@@ -5601,14 +5625,6 @@
       "onboard_time": 1664539583,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 195966,
-      "num": 195966,
-      "word": "济南新增本土确诊病例1例",
-      "onboard_time": 1664597542,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 195880,
@@ -6427,6 +6443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160872,
+      "num": 160872,
+      "word": "成都4亿元消费券来了",
+      "onboard_time": 1664601621,
+      "rank": 21,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 160745,
       "num": 160745,
       "word": "昆明赋黄码70442人",
@@ -6585,6 +6609,14 @@
       "onboard_time": 1664529985,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 157122,
+      "num": 157122,
+      "word": "国庆文案",
+      "onboard_time": 1664598202,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 157099,
@@ -6835,14 +6867,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 148121,
-      "num": 148121,
-      "word": "姚明笑了",
-      "onboard_time": 1664597421,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 148116,
       "num": 148116,
       "word": "休杰克曼加盟死侍3",
@@ -7025,14 +7049,6 @@
       "onboard_time": 1664394549,
       "rank": 20,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 141519,
-      "num": 141519,
-      "word": "女篮直播",
-      "onboard_time": 1664597181,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 140568,
@@ -7987,14 +8003,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 110821,
-      "num": 110821,
-      "word": "国庆文案",
-      "onboard_time": 1664598202,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 110796,
       "num": 1489823,
       "word": "二十大代表是怎么选出来的",
@@ -8329,6 +8337,22 @@
       "onboard_time": 1664104164,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96211,
+      "num": 96211,
+      "word": "藏在剧综里的高燃台词",
+      "onboard_time": 1664600721,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 96154,
+      "num": 906674,
+      "word": "亲爱的祖国生日快乐",
+      "onboard_time": 1664601921,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 96062,
@@ -8995,6 +9019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69805,
+      "num": 63732,
+      "word": "国庆杭州哪儿好玩",
+      "onboard_time": 1664601982,
+      "rank": 35,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 69239,
       "num": 69239,
       "word": "上海消费券",
@@ -9355,6 +9387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47876,
+      "num": 35373,
+      "word": "人民日报国庆社论",
+      "onboard_time": 1664602342,
+      "rank": 49,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 46652,
       "num": 46652,
       "word": "男子误花10元私房钱气到攥紧拳头",
@@ -9411,6 +9451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39242,
+      "num": 39242,
+      "word": "NBA季前赛",
+      "onboard_time": 1664602760,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 38723,
       "num": 659645,
       "word": "他们以奋斗致敬祖国",
@@ -9441,6 +9489,14 @@
       "onboard_time": 1664474472,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 35511,
+      "num": 35511,
+      "word": "和我一起向祖国告白",
+      "onboard_time": 1664598501,
+      "rank": 48,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 34233,

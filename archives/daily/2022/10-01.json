@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664600103735,
+  "endTime": 1664602997184,
   "band_list": [
     {
       "raw_hot": 1868940,
@@ -17,6 +17,14 @@
       "onboard_time": 1664532866,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1382253,
+      "num": 1382253,
+      "word": "国考",
+      "onboard_time": 1664597660,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 1244093,
@@ -59,20 +67,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 902389,
+      "num": 902389,
+      "word": "姚明笑了",
+      "onboard_time": 1664597421,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 863896,
+      "num": 863896,
+      "word": "张译演技",
+      "onboard_time": 1664597601,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 859002,
       "num": 859002,
       "word": "妈妈寄桃酥女儿收到时碎成土",
       "onboard_time": 1664554582,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 699687,
-      "num": 699687,
-      "word": "国考",
-      "onboard_time": 1664597660,
-      "rank": 1,
-      "category": "教育"
     },
     {
       "raw_hot": 691285,
@@ -107,20 +123,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 556254,
+      "num": 556254,
+      "word": "女子跳河救起男童才想起不会游泳",
+      "onboard_time": 1664597841,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 508018,
       "num": 508018,
       "word": "首套个人住房公积金贷款利率下调",
       "onboard_time": 1664542403,
       "rank": 4,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 500658,
-      "num": 500658,
-      "word": "张译演技",
-      "onboard_time": 1664597601,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 453016,
@@ -203,14 +219,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 333190,
-      "num": 333190,
-      "word": "女子跳河救起男童才想起不会游泳",
-      "onboard_time": 1664597841,
-      "rank": 9,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 330748,
       "num": 330748,
       "word": "外交人员看万里归途哽咽了",
@@ -257,6 +265,14 @@
       "onboard_time": 1664592443,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273899,
+      "num": 273899,
+      "word": "女篮直播",
+      "onboard_time": 1664597181,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 271004,
@@ -379,20 +395,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202390,
+      "num": 202390,
+      "word": "济南新增本土确诊病例1例",
+      "onboard_time": 1664597542,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201184,
       "num": 201184,
       "word": "多所双非院校硕士报考人数猛增",
       "onboard_time": 1664534185,
       "rank": 15,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 195966,
-      "num": 195966,
-      "word": "济南新增本土确诊病例1例",
-      "onboard_time": 1664597542,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 194751,
@@ -451,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160872,
+      "num": 160872,
+      "word": "成都4亿元消费券来了",
+      "onboard_time": 1664601621,
+      "rank": 21,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 157691,
       "num": 157691,
       "word": "9月30日新增本土确诊106例",
@@ -459,20 +483,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157122,
+      "num": 157122,
+      "word": "国庆文案",
+      "onboard_time": 1664598202,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 155307,
       "num": 155307,
       "word": "花得莫名其妙的一笔钱",
       "onboard_time": 1664560632,
       "rank": 29,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 148121,
-      "num": 148121,
-      "word": "姚明笑了",
-      "onboard_time": 1664597421,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 147627,
@@ -505,14 +529,6 @@
       "onboard_time": 1664582181,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 141519,
-      "num": 141519,
-      "word": "女篮直播",
-      "onboard_time": 1664597181,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 135935,
@@ -595,14 +611,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 110821,
-      "num": 110821,
-      "word": "国庆文案",
-      "onboard_time": 1664598202,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 110798,
       "num": 110798,
       "word": "2023年国考10月25日开始报名",
@@ -641,6 +649,22 @@
       "onboard_time": 1664540725,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 96211,
+      "num": 96211,
+      "word": "藏在剧综里的高燃台词",
+      "onboard_time": 1664600721,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 96154,
+      "num": 906674,
+      "word": "亲爱的祖国生日快乐",
+      "onboard_time": 1664601921,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 94490,
@@ -713,6 +737,14 @@
       "onboard_time": 1664522425,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69805,
+      "num": 63732,
+      "word": "国庆杭州哪儿好玩",
+      "onboard_time": 1664601982,
+      "rank": 35,
+      "category": "旅游"
     },
     {
       "raw_hot": 67576,
@@ -899,6 +931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 47876,
+      "num": 35373,
+      "word": "人民日报国庆社论",
+      "onboard_time": 1664602342,
+      "rank": 49,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 46927,
       "num": 46927,
       "word": "女子喝下自制减肥汁中毒",
@@ -937,6 +977,22 @@
       "onboard_time": 1664556498,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 39242,
+      "num": 39242,
+      "word": "NBA季前赛",
+      "onboard_time": 1664602760,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 35511,
+      "num": 35511,
+      "word": "和我一起向祖国告白",
+      "onboard_time": 1664598501,
+      "rank": 48,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 23728,
