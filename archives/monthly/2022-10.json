@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664666935878,
+  "endTime": 1664668004858,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -305,6 +305,14 @@
       "onboard_time": 1664597181,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 672115,
+      "num": 672115,
+      "word": "俄军从红利曼撤退",
+      "onboard_time": 1664665636,
+      "rank": 11,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 640049,
@@ -643,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315250,
+      "num": 315250,
+      "word": "搓麻将成曼哈顿热门社交活动",
+      "onboard_time": 1664633964,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308228,
       "num": 308228,
       "word": "8岁女孩压腿轻松超180度",
@@ -675,22 +691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 296862,
-      "num": 125161,
-      "word": "俄军从红利曼撤退",
-      "onboard_time": 1664665636,
-      "rank": 11,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 287712,
-      "num": 287712,
-      "word": "搓麻将成曼哈顿热门社交活动",
-      "onboard_time": 1664633964,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 285506,
       "num": 285506,
       "word": "万里归途32万6713步",
@@ -720,6 +720,14 @@
       "word": "国庆首日上海武警拉链式人墙再现",
       "onboard_time": 1664631924,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 276399,
+      "num": 179932,
+      "word": "成都疫情防控",
+      "onboard_time": 1664667110,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -947,6 +955,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 205808,
+      "num": 205808,
+      "word": "小小姐们",
+      "onboard_time": 1664666417,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 205470,
       "num": 205470,
       "word": "跟21.8万人一起看升旗是啥体验",
@@ -1049,6 +1065,14 @@
       "onboard_time": 1664618662,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187758,
+      "num": 170437,
+      "word": "日本一赛事主办方下跪15秒道歉",
+      "onboard_time": 1664666717,
+      "rank": 41,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 186599,
@@ -1283,6 +1307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131178,
+      "num": 131178,
+      "word": "国庆假期第二天",
+      "onboard_time": 1664667917,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129668,
       "num": 129668,
       "word": "中国女篮追平历史最好成绩",
@@ -1443,6 +1475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102787,
+      "num": 102787,
+      "word": "李雪健1句台词塑造4个人物",
+      "onboard_time": 1664641160,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 102392,
       "num": 102392,
       "word": "女篮世界杯的观众席",
@@ -1473,14 +1513,6 @@
       "onboard_time": 1664540725,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 95210,
-      "num": 95210,
-      "word": "李雪健1句台词塑造4个人物",
-      "onboard_time": 1664641160,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 94490,
@@ -1595,6 +1627,22 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 74805,
+      "num": 74805,
+      "word": "喀纳斯的秋天晨雾有多美",
+      "onboard_time": 1664665816,
+      "rank": 33,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 73280,
+      "num": 73280,
+      "word": "国家体育总局向中国女篮致贺信",
+      "onboard_time": 1664650753,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70452,
       "num": 70452,
       "word": "中国女篮28年前绝杀澳大利亚队珍贵画面",
@@ -1659,6 +1707,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 64031,
+      "num": 64031,
+      "word": "女篮挺进决赛姚明场边笑开花",
+      "onboard_time": 1664654831,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63181,
       "num": 63181,
       "word": "中国篮协向女篮致贺信",
@@ -1689,14 +1745,6 @@
       "onboard_time": 1664592923,
       "rank": 44,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 61844,
-      "num": 61844,
-      "word": "国家体育总局向中国女篮致贺信",
-      "onboard_time": 1664650753,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 61732,
@@ -1803,12 +1851,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 53551,
-      "num": 53551,
-      "word": "女篮挺进决赛姚明场边笑开花",
-      "onboard_time": 1664654831,
-      "rank": 40,
-      "category": "体育"
+      "raw_hot": 53455,
+      "num": 53455,
+      "word": "央视专访钱七虎",
+      "onboard_time": 1664665273,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 53057,
@@ -1859,14 +1907,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 47262,
-      "num": 47262,
-      "word": "小小姐们",
-      "onboard_time": 1664666417,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 46927,
       "num": 46927,
       "word": "女子喝下自制减肥汁中毒",
@@ -1881,14 +1921,6 @@
       "onboard_time": 1664552906,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 46406,
-      "num": 46406,
-      "word": "喀纳斯的秋天晨雾有多美",
-      "onboard_time": 1664665816,
-      "rank": 33,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 46163,
@@ -1939,12 +1971,12 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 30250,
-      "num": 30250,
-      "word": "日本一赛事主办方下跪15秒道歉",
-      "onboard_time": 1664666717,
-      "rank": 41,
-      "category": "体育,社会新闻"
+      "raw_hot": 34833,
+      "num": 34833,
+      "word": "利物浦3比3布莱顿",
+      "onboard_time": 1664667677,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 28760,
@@ -1961,14 +1993,6 @@
       "onboard_time": 1664545644,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 23325,
-      "num": 23325,
-      "word": "央视专访钱七虎",
-      "onboard_time": 1664665273,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19434,

@@ -1,6 +1,6 @@
 {
   "startTime": 1664642097015,
-  "endTime": 1664666935878,
+  "endTime": 1664668004858,
   "band_list": [
     {
       "raw_hot": 880822,
@@ -35,6 +35,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 672115,
+      "num": 672115,
+      "word": "俄军从红利曼撤退",
+      "onboard_time": 1664665636,
+      "rank": 11,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 526896,
+      "num": 526896,
+      "word": "3斤小狗舔5斤大鱼被鱼尾抽翻",
+      "onboard_time": 1664627183,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 518043,
       "num": 181159,
       "word": "徐梦桃王心迪结婚照",
@@ -43,16 +59,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 477918,
-      "num": 477918,
-      "word": "3斤小狗舔5斤大鱼被鱼尾抽翻",
-      "onboard_time": 1664627183,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 429372,
-      "num": 175428,
+      "num": 179784,
       "word": "苹果副总裁因发表低俗言论离职",
       "onboard_time": 1664634204,
       "rank": 12,
@@ -67,16 +75,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 296862,
-      "num": 125161,
-      "word": "俄军从红利曼撤退",
-      "onboard_time": 1664665636,
-      "rank": 11,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 287712,
-      "num": 287712,
+      "raw_hot": 315250,
+      "num": 315250,
       "word": "搓麻将成曼哈顿热门社交活动",
       "onboard_time": 1664633964,
       "rank": 29,
@@ -91,6 +91,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 276399,
+      "num": 179932,
+      "word": "成都疫情防控",
+      "onboard_time": 1664667110,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244320,
+      "num": 244320,
+      "word": "大爷将乌龟当枕头躺江边熟睡",
+      "onboard_time": 1664619620,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242187,
       "num": 242187,
       "word": "中国女排vs巴西女排",
@@ -100,26 +116,26 @@
     },
     {
       "raw_hot": 240486,
-      "num": 170663,
+      "num": 172963,
       "word": "设计师在贝拉身上喷出礼服",
       "onboard_time": 1664631022,
       "rank": 13,
       "category": "时尚"
     },
     {
-      "raw_hot": 239483,
-      "num": 239483,
-      "word": "大爷将乌龟当枕头躺江边熟睡",
-      "onboard_time": 1664619620,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 229322,
-      "num": 166698,
+      "num": 175870,
       "word": "女子远嫁摆4本房产证让妈妈安心",
       "onboard_time": 1664623224,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226275,
+      "num": 226275,
+      "word": "国庆首日上海武警拉链式人墙再现",
+      "onboard_time": 1664631924,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -131,12 +147,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 202397,
-      "num": 202397,
-      "word": "国庆首日上海武警拉链式人墙再现",
-      "onboard_time": 1664631924,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 205808,
+      "num": 205808,
+      "word": "小小姐们",
+      "onboard_time": 1664666417,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 200778,
@@ -155,6 +171,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190892,
+      "num": 190892,
+      "word": "网剧炽道",
+      "onboard_time": 1664629581,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 187758,
+      "num": 170437,
+      "word": "日本一赛事主办方下跪15秒道歉",
+      "onboard_time": 1664666717,
+      "rank": 41,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 186898,
       "num": 186898,
       "word": "外公床头抠洞塞钱2年存了3万多",
@@ -163,16 +195,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 167765,
-      "num": 167765,
-      "word": "网剧炽道",
-      "onboard_time": 1664629581,
-      "rank": 22,
-      "category": "影视"
+      "raw_hot": 183644,
+      "num": 183644,
+      "word": "受伤猫头鹰被救助后经常装死",
+      "onboard_time": 1664626283,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 160018,
-      "num": 143931,
+      "raw_hot": 162929,
+      "num": 162929,
       "word": "乘警觉察2妇女可疑救下被拐男婴",
       "onboard_time": 1664620882,
       "rank": 18,
@@ -211,6 +243,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131178,
+      "num": 131178,
+      "word": "国庆假期第二天",
+      "onboard_time": 1664667917,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130049,
+      "num": 130049,
+      "word": "2男孩公交车上打闹被司机厉声制止",
+      "onboard_time": 1664632222,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129977,
       "num": 129977,
       "word": "一人居家隔离擅自外出被转自费集中隔离",
@@ -227,14 +275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 125194,
-      "num": 125194,
-      "word": "受伤猫头鹰被救助后经常装死",
-      "onboard_time": 1664626283,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 114676,
       "num": 114676,
       "word": "中国女排负于巴西",
@@ -243,12 +283,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 114007,
-      "num": 114007,
-      "word": "2男孩公交车上打闹被司机厉声制止",
-      "onboard_time": 1664632222,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 102787,
+      "num": 102787,
+      "word": "李雪健1句台词塑造4个人物",
+      "onboard_time": 1664641160,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 101618,
@@ -257,14 +297,6 @@
       "onboard_time": 1664620281,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 95210,
-      "num": 95210,
-      "word": "李雪健1句台词塑造4个人物",
-      "onboard_time": 1664641160,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 92118,
@@ -299,6 +331,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 74805,
+      "num": 74805,
+      "word": "喀纳斯的秋天晨雾有多美",
+      "onboard_time": 1664665816,
+      "rank": 33,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 73280,
+      "num": 73280,
+      "word": "国家体育总局向中国女篮致贺信",
+      "onboard_time": 1664650753,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71829,
       "num": 71829,
       "word": "102岁院士说把毕生年华奉献给国家",
@@ -323,11 +371,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 61844,
-      "num": 61844,
-      "word": "国家体育总局向中国女篮致贺信",
-      "onboard_time": 1664650753,
-      "rank": 35,
+      "raw_hot": 64031,
+      "num": 64031,
+      "word": "女篮挺进决赛姚明场边笑开花",
+      "onboard_time": 1664654831,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -371,28 +419,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 53551,
-      "num": 53551,
-      "word": "女篮挺进决赛姚明场边笑开花",
-      "onboard_time": 1664654831,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 47262,
-      "num": 47262,
-      "word": "小小姐们",
-      "onboard_time": 1664666417,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 46406,
-      "num": 46406,
-      "word": "喀纳斯的秋天晨雾有多美",
-      "onboard_time": 1664665816,
-      "rank": 33,
-      "category": "旅游,社会新闻"
+      "raw_hot": 53455,
+      "num": 53455,
+      "word": "央视专访钱七虎",
+      "onboard_time": 1664665273,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 45344,
@@ -427,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37930,
+      "num": 37930,
+      "word": "中国人为什么喜欢龙",
+      "onboard_time": 1664619079,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 36649,
       "num": 36649,
       "word": "婆婆自学用1年为儿媳做传统凤冠",
@@ -443,20 +483,20 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 34833,
+      "num": 34833,
+      "word": "利物浦3比3布莱顿",
+      "onboard_time": 1664667677,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 33007,
       "num": 33007,
       "word": "女篮世界杯亚军",
       "onboard_time": 1664610568,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 32247,
-      "num": 32247,
-      "word": "中国人为什么喜欢龙",
-      "onboard_time": 1664619079,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 31980,
@@ -467,28 +507,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 30250,
-      "num": 30250,
-      "word": "日本一赛事主办方下跪15秒道歉",
-      "onboard_time": 1664666717,
-      "rank": 41,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 28760,
       "num": 28760,
       "word": "2022女排世锦赛",
       "onboard_time": 1664666596,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 23325,
-      "num": 23325,
-      "word": "央视专访钱七虎",
-      "onboard_time": 1664665273,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16991,
