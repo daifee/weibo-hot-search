@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664629899212,
+  "endTime": 1664631948833,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -363,8 +363,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1664779,
-      "num": 1664779,
+      "raw_hot": 1685645,
+      "num": 1685645,
       "word": "中国女排vs巴西女排",
       "onboard_time": 1664626522,
       "rank": 0,
@@ -667,6 +667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1297899,
+      "num": 1297899,
+      "word": "3斤小狗舔5斤大鱼被鱼尾抽翻",
+      "onboard_time": 1664627183,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1296641,
       "num": 1296641,
       "word": "骄阳伴我官宣开机",
@@ -939,14 +947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 993553,
-      "num": 993553,
-      "word": "3斤小狗舔5斤大鱼被鱼尾抽翻",
-      "onboard_time": 1664627183,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 988755,
       "num": 988755,
       "word": "胡同 朝阳群众",
@@ -1073,6 +1073,14 @@
       "onboard_time": 1664539766,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 916316,
+      "num": 301758,
+      "word": "王梦洁",
+      "onboard_time": 1664629944,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 912741,
@@ -2027,6 +2035,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 550695,
+      "num": 550695,
+      "word": "金晨申请加入罗娜夸夸群",
+      "onboard_time": 1664627544,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 550038,
       "num": 489898,
       "word": "周迅为什么能封神",
@@ -2107,6 +2123,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 540034,
+      "num": 540034,
+      "word": "万里归途票房破2亿",
+      "onboard_time": 1664621721,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 539433,
       "num": 539433,
       "word": "弈星滕王阁序",
@@ -2185,14 +2209,6 @@
       "onboard_time": 1664352382,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 530136,
-      "num": 530136,
-      "word": "金晨申请加入罗娜夸夸群",
-      "onboard_time": 1664627544,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 529910,
@@ -2587,14 +2603,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 474454,
-      "num": 474454,
-      "word": "万里归途票房破2亿",
-      "onboard_time": 1664621721,
-      "rank": 10,
-      "category": "影视"
-    },
-    {
       "raw_hot": 474252,
       "num": 388577,
       "word": "iPhone15Ultra或采用双前置摄像头",
@@ -2979,6 +2987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 416559,
+      "num": 299077,
+      "word": "设计师在贝拉身上喷出礼服",
+      "onboard_time": 1664631022,
+      "rank": 12,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 416496,
       "num": 377787,
       "word": "我的反派男友太好笑了",
@@ -3161,6 +3177,14 @@
       "onboard_time": 1664239648,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 402745,
+      "num": 296489,
+      "word": "网剧炽道",
+      "onboard_time": 1664448742,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 402670,
@@ -3449,6 +3473,14 @@
       "onboard_time": 1664233879,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 372712,
+      "num": 293996,
+      "word": "陈哲远沈月好嗑",
+      "onboard_time": 1664629882,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 372249,
@@ -4027,6 +4059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303012,
+      "num": 303012,
+      "word": "受伤猫头鹰被救助后经常装死",
+      "onboard_time": 1664626283,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 302170,
       "num": 302170,
       "word": "这是国庆前夕的香港街头",
@@ -4160,6 +4200,14 @@
       "word": "3男孩将村民晒的棉花芝麻掀地上",
       "onboard_time": 1664176105,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291905,
+      "num": 291905,
+      "word": "102岁院士说把毕生年华奉献给国家",
+      "onboard_time": 1664627664,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -4361,6 +4409,14 @@
       "onboard_time": 1664310671,
       "rank": 44,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 279220,
+      "num": 279220,
+      "word": "李雪健周冬雨目光",
+      "onboard_time": 1664631084,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 278274,
@@ -4633,14 +4689,6 @@
       "onboard_time": 1664261784,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 261482,
-      "num": 261482,
-      "word": "受伤猫头鹰被救助后经常装死",
-      "onboard_time": 1664626283,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 260812,
@@ -5515,14 +5563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 218757,
-      "num": 218757,
-      "word": "网剧炽道",
-      "onboard_time": 1664448742,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 218752,
       "num": 218752,
       "word": "虞美人分手自救清醒指南",
@@ -5697,14 +5737,6 @@
       "onboard_time": 1664348244,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 210530,
-      "num": 210530,
-      "word": "102岁院士说把毕生年华奉献给国家",
-      "onboard_time": 1664627664,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 210327,
@@ -5913,6 +5945,14 @@
       "onboard_time": 1664422165,
       "rank": 23,
       "category": "科技"
+    },
+    {
+      "raw_hot": 201322,
+      "num": 201322,
+      "word": "刘雨昕在街舞当起了月老",
+      "onboard_time": 1664631685,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 200651,
@@ -6521,6 +6561,14 @@
       "onboard_time": 1664164588,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176057,
+      "num": 176057,
+      "word": "国庆首日西湖接待23.82万游客",
+      "onboard_time": 1664626882,
+      "rank": 36,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 176005,
@@ -8235,14 +8283,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 120840,
-      "num": 120840,
-      "word": "国庆首日西湖接待23.82万游客",
-      "onboard_time": 1664626882,
-      "rank": 36,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 120829,
       "num": 119066,
       "word": "林墨把官窑演活了",
@@ -8579,6 +8619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 109063,
+      "num": 109063,
+      "word": "女排拦网",
+      "onboard_time": 1664629644,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108629,
       "num": 108629,
       "word": "国庆假期机票比中秋贵近4成",
@@ -8603,12 +8651,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 107709,
-      "num": 35450,
-      "word": "陈哲远沈月好嗑",
-      "onboard_time": 1664629882,
-      "rank": 47,
-      "category": "影视"
+      "raw_hot": 106819,
+      "num": 76252,
+      "word": "嗨放派",
+      "onboard_time": 1664631144,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 106761,
@@ -9899,14 +9947,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 53125,
-      "num": 53125,
-      "word": "女排拦网",
-      "onboard_time": 1664629644,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 53057,
       "num": 53057,
       "word": "有一种骄傲叫中国",
@@ -10200,6 +10240,14 @@
       "word": "120隔空教海姆立克救下被卡幼儿",
       "onboard_time": 1664277386,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27937,
+      "num": 29198,
+      "word": "国庆首日上海武警拉链式人墙再现",
+      "onboard_time": 1664631924,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
