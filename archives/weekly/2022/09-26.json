@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664602997184,
+  "endTime": 1664604197832,
   "band_list": [
     {
       "raw_hot": 6363692,
@@ -537,6 +537,14 @@
       "onboard_time": 1664151987,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1358063,
+      "num": 1358063,
+      "word": "中国女篮vs美国女篮",
+      "onboard_time": 1664603001,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1357165,
@@ -3372,7 +3380,7 @@
     },
     {
       "raw_hot": 352294,
-      "num": 236208,
+      "num": 238269,
       "word": "北京丰台增一感染者在京无常住地址",
       "onboard_time": 1664593103,
       "rank": 12,
@@ -4297,6 +4305,14 @@
       "onboard_time": 1664123302,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 263097,
+      "num": 263097,
+      "word": "成都4亿元消费券来了",
+      "onboard_time": 1664601621,
+      "rank": 21,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 262949,
@@ -5443,6 +5459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 204618,
+      "num": 204618,
+      "word": "海天味业回应酱油添加剂争议",
+      "onboard_time": 1664603360,
+      "rank": 17,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 204316,
       "num": 204316,
       "word": "林钰洧2022香港小姐冠军",
@@ -6441,14 +6465,6 @@
       "onboard_time": 1664541086,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 160872,
-      "num": 160872,
-      "word": "成都4亿元消费券来了",
-      "onboard_time": 1664601621,
-      "rank": 21,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 160745,
@@ -7531,6 +7547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 126098,
+      "num": 906674,
+      "word": "亲爱的祖国生日快乐",
+      "onboard_time": 1664601921,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 126015,
       "num": 126015,
       "word": "真的要好好热爱生活啊",
@@ -8011,6 +8035,22 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 110543,
+      "num": 110543,
+      "word": "藏在剧综里的高燃台词",
+      "onboard_time": 1664600721,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 110255,
+      "num": 110255,
+      "word": "殷桃说王俊凯是很专注的演员",
+      "onboard_time": 1664603960,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 110160,
       "num": 110160,
       "word": "北京的枫叶红了",
@@ -8337,22 +8377,6 @@
       "onboard_time": 1664104164,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 96211,
-      "num": 96211,
-      "word": "藏在剧综里的高燃台词",
-      "onboard_time": 1664600721,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 96154,
-      "num": 906674,
-      "word": "亲爱的祖国生日快乐",
-      "onboard_time": 1664601921,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 96062,
@@ -8955,6 +8979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 75856,
+      "num": 75856,
+      "word": "国庆杭州哪儿好玩",
+      "onboard_time": 1664601982,
+      "rank": 35,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 75389,
       "num": 75389,
       "word": "昆明本轮疫情传播链条基本清晰",
@@ -9017,14 +9049,6 @@
       "onboard_time": 1664349927,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 69805,
-      "num": 63732,
-      "word": "国庆杭州哪儿好玩",
-      "onboard_time": 1664601982,
-      "rank": 35,
-      "category": "旅游"
     },
     {
       "raw_hot": 69239,
@@ -9203,6 +9227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61732,
+      "num": 61732,
+      "word": "祖国在你身后的安全感有多强",
+      "onboard_time": 1664603843,
+      "rank": 37,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 61404,
       "num": 61404,
       "word": "暖阳铠关键抢龙",
@@ -9233,6 +9265,14 @@
       "onboard_time": 1664581280,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59530,
+      "num": 59530,
+      "word": "一人一句为女篮加油",
+      "onboard_time": 1664603119,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 59521,
