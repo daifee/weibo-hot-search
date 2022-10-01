@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664623312319,
+  "endTime": 1664624377777,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -65,6 +65,14 @@
       "onboard_time": 1664597421,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1354657,
+      "num": 1354657,
+      "word": "外公床头抠洞塞钱2年存了3万多",
+      "onboard_time": 1664620463,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1244093,
@@ -139,14 +147,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 978787,
-      "num": 978787,
-      "word": "外公床头抠洞塞钱2年存了3万多",
-      "onboard_time": 1664620463,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 966638,
       "num": 966638,
       "word": "国庆晚会",
@@ -185,6 +185,14 @@
       "onboard_time": 1664606965,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 780526,
+      "num": 780526,
+      "word": "大爷将乌龟当枕头躺江边熟睡",
+      "onboard_time": 1664619620,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 748782,
@@ -235,14 +243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 601930,
-      "num": 601930,
-      "word": "大爷将乌龟当枕头躺江边熟睡",
-      "onboard_time": 1664619620,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 585838,
       "num": 286738,
       "word": "我龙傲天誓死守护刘波",
@@ -283,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 475692,
+      "num": 421479,
+      "word": "乘警觉察2妇女可疑救下被拐男婴",
+      "onboard_time": 1664620882,
+      "rank": 39,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 472274,
       "num": 472274,
       "word": "万里归途 后劲",
@@ -299,20 +307,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 437367,
+      "num": 437367,
+      "word": "万里归途票房破2亿",
+      "onboard_time": 1664621721,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 432405,
       "num": 337046,
       "word": "殷桃说王俊凯是很专注的演员",
       "onboard_time": 1664603960,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 432365,
-      "num": 432365,
-      "word": "万里归途票房破2亿",
-      "onboard_time": 1664621721,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 425615,
@@ -323,12 +331,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 421479,
-      "num": 421479,
-      "word": "乘警觉察2妇女可疑救下被拐男婴",
-      "onboard_time": 1664620882,
-      "rank": 39,
-      "category": "社会正能量"
+      "raw_hot": 416496,
+      "num": 287509,
+      "word": "我的反派男友太好笑了",
+      "onboard_time": 1664622381,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 413806,
@@ -337,6 +345,14 @@
       "onboard_time": 1664616621,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 411894,
+      "num": 159052,
+      "word": "女子远嫁摆4本房产证让妈妈安心",
+      "onboard_time": 1664623224,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 410605,
@@ -419,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 339595,
+      "num": 282780,
+      "word": "一人居家隔离擅自外出被转自费集中隔离",
+      "onboard_time": 1664620160,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 334747,
       "num": 334747,
       "word": "boss直聘现多个无厘头职位名称",
@@ -483,19 +507,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 281242,
-      "num": 281242,
-      "word": "一人居家隔离擅自外出被转自费集中隔离",
-      "onboard_time": 1664620160,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 279790,
       "num": 279790,
       "word": "外婆为外孙买充气城堡放家里玩",
       "onboard_time": 1664543785,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 275653,
+      "num": 275653,
+      "word": "北京丰台8人违反防疫规定被刑事立案调查",
+      "onboard_time": 1664623763,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -683,12 +707,12 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 204546,
-      "num": 168543,
-      "word": "我的反派男友太好笑了",
-      "onboard_time": 1664622381,
-      "rank": 22,
-      "category": "影视"
+      "raw_hot": 204929,
+      "num": 204929,
+      "word": "商家摆20桌请国庆在岗环卫工吃饭",
+      "onboard_time": 1664621902,
+      "rank": 26,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 203839,
@@ -859,6 +883,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 152820,
+      "num": 152820,
+      "word": "女子为明目生吞鱼胆致急性肝衰竭",
+      "onboard_time": 1664623283,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150672,
       "num": 150672,
       "word": "成都世乒赛团体赛国乒首秀",
@@ -873,6 +905,14 @@
       "onboard_time": 1664579778,
       "rank": 23,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 145085,
+      "num": 98001,
+      "word": "星星点灯万里归途",
+      "onboard_time": 1664622563,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 144182,
@@ -905,14 +945,6 @@
       "onboard_time": 1664580259,
       "rank": 25,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 133400,
-      "num": 133400,
-      "word": "商家摆20桌请国庆在岗环卫工吃饭",
-      "onboard_time": 1664621902,
-      "rank": 26,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 129668,
@@ -1025,14 +1057,6 @@
       "onboard_time": 1664544445,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 112286,
-      "num": 88228,
-      "word": "星星点灯万里归途",
-      "onboard_time": 1664622563,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 110798,
@@ -1169,14 +1193,6 @@
       "onboard_time": 1664593581,
       "rank": 38,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 80375,
-      "num": 80375,
-      "word": "女子远嫁摆4本房产证让妈妈安心",
-      "onboard_time": 1664623224,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 76397,
@@ -1457,14 +1473,6 @@
       "onboard_time": 1664602760,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 37756,
-      "num": 37756,
-      "word": "女子为明目生吞鱼胆致急性肝衰竭",
-      "onboard_time": 1664623283,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35511,
