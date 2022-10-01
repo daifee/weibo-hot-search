@@ -1,0 +1,410 @@
+{
+  "runTime": 1664664195742,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 348812,
+        "num": 348812,
+        "word": "重庆拍到黑熊一家三口林中漫步",
+        "onboard_time": 1664641459,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201376,
+        "num": 201376,
+        "word": "3斤小狗舔5斤大鱼被鱼尾抽翻",
+        "onboard_time": 1664627183,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12456,
+        "num": 146616,
+        "word": "亲爱的祖国生日快乐",
+        "onboard_time": 1664601921,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 136968,
+        "num": 136968,
+        "word": "搓麻将成曼哈顿热门社交活动",
+        "onboard_time": 1664633964,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127577,
+        "num": 127577,
+        "word": "大爷将乌龟当枕头躺江边熟睡",
+        "onboard_time": 1664619620,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90727,
+        "num": 90727,
+        "word": "国庆首日上海武警拉链式人墙再现",
+        "onboard_time": 1664631924,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89154,
+        "num": 89154,
+        "word": "网剧炽道",
+        "onboard_time": 1664629581,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 87889,
+        "num": 87889,
+        "word": "外公床头抠洞塞钱2年存了3万多",
+        "onboard_time": 1664620463,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82964,
+        "num": 82964,
+        "word": "中国女排vs巴西女排",
+        "onboard_time": 1664626522,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72052,
+        "num": 72052,
+        "word": "一人居家隔离擅自外出被转自费集中隔离",
+        "onboard_time": 1664620160,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218606,
+        "num": 71113,
+        "word": "医生吃火锅用牙签剔除脑花血管",
+        "onboard_time": 1664634264,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131373,
+        "num": 70112,
+        "word": "苹果副总裁因发表低俗言论离职",
+        "onboard_time": 1664634204,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 130487,
+        "num": 69072,
+        "word": "徐梦桃王心迪结婚照",
+        "onboard_time": 1664638463,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111019,
+        "num": 67989,
+        "word": "女子远嫁摆4本房产证让妈妈安心",
+        "onboard_time": 1664623224,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84715,
+        "num": 67549,
+        "word": "设计师在贝拉身上喷出礼服",
+        "onboard_time": 1664631022,
+        "rank": 14,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 80605,
+        "num": 65386,
+        "word": "乘警觉察2妇女可疑救下被拐男婴",
+        "onboard_time": 1664620882,
+        "rank": 15,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 65308,
+        "num": 65308,
+        "word": "2男孩公交车上打闹被司机厉声制止",
+        "onboard_time": 1664632222,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59052,
+        "num": 59052,
+        "word": "济南常态化核酸检测改为两天一检",
+        "onboard_time": 1664633423,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57036,
+        "num": 57036,
+        "word": "中国女篮主帅当选2022世界杯最佳教练",
+        "onboard_time": 1664637623,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56051,
+        "num": 56051,
+        "word": "李雪健1句台词塑造4个人物",
+        "onboard_time": 1664641160,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 45198,
+        "num": 45198,
+        "word": "女子为明目生吞鱼胆致急性肝衰竭",
+        "onboard_time": 1664623283,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43307,
+        "num": 43307,
+        "word": "国家体育总局向中国女篮致贺信",
+        "onboard_time": 1664650753,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41305,
+        "num": 41305,
+        "word": "受伤猫头鹰被救助后经常装死",
+        "onboard_time": 1664626283,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40909,
+        "num": 40909,
+        "word": "左麟右李",
+        "onboard_time": 1664637263,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35951,
+        "num": 35951,
+        "word": "陈哲远沈月好嗑",
+        "onboard_time": 1664629882,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34755,
+        "num": 34755,
+        "word": "国庆晚会",
+        "onboard_time": 1664620281,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30693,
+        "num": 30693,
+        "word": "万里归途票房破2亿",
+        "onboard_time": 1664621721,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27837,
+        "num": 27837,
+        "word": "我的反派男友太好笑了",
+        "onboard_time": 1664622381,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27171,
+        "num": 27171,
+        "word": "女篮挺进决赛姚明场边笑开花",
+        "onboard_time": 1664654831,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25045,
+        "num": 25045,
+        "word": "中国女排负于巴西",
+        "onboard_time": 1664636782,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24904,
+        "num": 24904,
+        "word": "北京丰台8人违反防疫规定被刑事立案调查",
+        "onboard_time": 1664623763,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24414,
+        "num": 24414,
+        "word": "102岁院士说把毕生年华奉献给国家",
+        "onboard_time": 1664627664,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21940,
+        "num": 21940,
+        "word": "年龄带给你的是焦虑还是勇气",
+        "onboard_time": 1664623041,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20621,
+        "num": 20621,
+        "word": "樊振东3比0阿凡纳多尔",
+        "onboard_time": 1664636842,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18702,
+        "num": 18702,
+        "word": "蒲熠星单手攀岩",
+        "onboard_time": 1664638226,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18577,
+        "num": 18577,
+        "word": "阿森纳3比1热刺",
+        "onboard_time": 1664640741,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18499,
+        "num": 18499,
+        "word": "万里归途彩蛋",
+        "onboard_time": 1664634444,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18357,
+        "num": 18357,
+        "word": "中国人为什么喜欢龙",
+        "onboard_time": 1664619079,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18083,
+        "num": 18083,
+        "word": "女篮世界杯亚军",
+        "onboard_time": 1664610568,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14638,
+        "num": 14638,
+        "word": "女生90多张卖萌自拍错发班级群",
+        "onboard_time": 1664608585,
+        "rank": 39,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 13610,
+        "num": 13610,
+        "word": "王梦洁",
+        "onboard_time": 1664629944,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13296,
+        "num": 13296,
+        "word": "话剧舞台上的吴谨言",
+        "onboard_time": 1664640501,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 12683,
+        "num": 12683,
+        "word": "女篮队长感谢全国球迷支持",
+        "onboard_time": 1664634625,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11212,
+        "num": 11212,
+        "word": "女排 一传",
+        "onboard_time": 1664633482,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11022,
+        "num": 11022,
+        "word": "中国女篮28年前绝杀澳大利亚队珍贵画面",
+        "onboard_time": 1664637085,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10255,
+        "num": 10255,
+        "word": "李梦T恤上写满女篮队友名字",
+        "onboard_time": 1664637382,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8567,
+        "num": 8567,
+        "word": "水晶宫vs切尔西",
+        "onboard_time": 1664637805,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 6597,
+        "num": 6597,
+        "word": "刘雨昕在街舞当起了月老",
+        "onboard_time": 1664631685,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 6031,
+        "num": 6031,
+        "word": "李一桐金瀚新剧陷入恋爱循环",
+        "onboard_time": 1664614641,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 4928,
+        "num": 4928,
+        "word": "马龙团体赛100场里程碑",
+        "onboard_time": 1664640200,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#十月起一批新规施行#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664663114053,
+  "endTime": 1664664195742,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -1867,6 +1867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43307,
+      "num": 43307,
+      "word": "国家体育总局向中国女篮致贺信",
+      "onboard_time": 1664650753,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 41085,
       "num": 41085,
       "word": "底线登剧集影响力榜榜首",
@@ -1888,14 +1896,6 @@
       "word": "NBA季前赛",
       "onboard_time": 1664602760,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 38001,
-      "num": 38001,
-      "word": "国家体育总局向中国女篮致贺信",
-      "onboard_time": 1664650753,
-      "rank": 35,
       "category": "体育"
     },
     {
