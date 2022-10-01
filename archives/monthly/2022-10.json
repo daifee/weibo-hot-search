@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664628469810,
+  "endTime": 1664629899212,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -35,6 +35,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1664779,
+      "num": 1664779,
+      "word": "中国女排vs巴西女排",
+      "onboard_time": 1664626522,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1640989,
       "num": 1640989,
       "word": "杨舒予 集训",
@@ -49,14 +57,6 @@
       "onboard_time": 1664532866,
       "rank": 0,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1566720,
-      "num": 1566720,
-      "word": "中国女排vs巴西女排",
-      "onboard_time": 1664626522,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 1502236,
@@ -131,6 +131,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1041959,
+      "num": 1041959,
+      "word": "国庆晚会",
+      "onboard_time": 1664620281,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1035062,
       "num": 1035062,
       "word": "中国女篮解说",
@@ -139,12 +147,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1001933,
-      "num": 1001933,
-      "word": "国庆晚会",
-      "onboard_time": 1664620281,
-      "rank": 6,
-      "category": "综艺"
+      "raw_hot": 993553,
+      "num": 993553,
+      "word": "3斤小狗舔5斤大鱼被鱼尾抽翻",
+      "onboard_time": 1664627183,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 979963,
@@ -283,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 530136,
+      "num": 530136,
+      "word": "金晨申请加入罗娜夸夸群",
+      "onboard_time": 1664627544,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 508018,
       "num": 508018,
       "word": "首套个人住房公积金贷款利率下调",
@@ -323,27 +339,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 464067,
-      "num": 464067,
-      "word": "金晨申请加入罗娜夸夸群",
-      "onboard_time": 1664627544,
-      "rank": 7,
-      "category": "影视"
-    },
-    {
       "raw_hot": 453016,
       "num": 247627,
       "word": "12岁乖巧女孩突变暴躁确诊脑炎",
       "onboard_time": 1664573532,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 436933,
-      "num": 436933,
-      "word": "3斤小狗舔5斤大鱼被鱼尾抽翻",
-      "onboard_time": 1664627183,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -457,6 +457,14 @@
       "onboard_time": 1664597601,
       "rank": 8,
       "category": "科技"
+    },
+    {
+      "raw_hot": 360208,
+      "num": 360208,
+      "word": "你好星期六",
+      "onboard_time": 1664625742,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 352294,
@@ -619,6 +627,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261482,
+      "num": 261482,
+      "word": "受伤猫头鹰被救助后经常装死",
+      "onboard_time": 1664626283,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258470,
+      "num": 258470,
+      "word": "特优声2二公舞台好适合国庆",
+      "onboard_time": 1664629702,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 256935,
       "num": 256935,
       "word": "她患癌后依然登台指挥",
@@ -731,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207728,
+      "num": 181701,
+      "word": "网剧炽道",
+      "onboard_time": 1664629581,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 207467,
       "num": 2214326,
       "word": "亲爱的祖国生日快乐",
@@ -841,14 +873,6 @@
       "onboard_time": 1664591662,
       "rank": 38,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 179509,
-      "num": 179509,
-      "word": "受伤猫头鹰被救助后经常装死",
-      "onboard_time": 1664626283,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 177603,
@@ -995,14 +1019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 138665,
-      "num": 138665,
-      "word": "你好星期六",
-      "onboard_time": 1664625742,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 135935,
       "num": 135935,
       "word": "表白中国我接力",
@@ -1083,6 +1099,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 120840,
+      "num": 120840,
+      "word": "国庆首日西湖接待23.82万游客",
+      "onboard_time": 1664626882,
+      "rank": 36,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 118653,
       "num": 118653,
       "word": "男子水库放生清道夫被罚2.8万",
@@ -1137,6 +1161,14 @@
       "onboard_time": 1664600721,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 107709,
+      "num": 35450,
+      "word": "陈哲远沈月好嗑",
+      "onboard_time": 1664629882,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 106643,
@@ -1265,14 +1297,6 @@
       "onboard_time": 1664593522,
       "rank": 37,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 84490,
-      "num": 84490,
-      "word": "国庆首日西湖接待23.82万游客",
-      "onboard_time": 1664626882,
-      "rank": 36,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 84314,
@@ -1473,6 +1497,14 @@
       "onboard_time": 1664556977,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 53125,
+      "num": 53125,
+      "word": "女排拦网",
+      "onboard_time": 1664629644,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 53057,
