@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/01 10:47:40
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/01 11:32:22
 </p>
 </blockquote>
 <p>
@@ -39,6 +39,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%87%E9%87%8C%E5%BD%92%E9%80%94%E7%A5%A8%E6%88%BF%E7%A0%B4%E4%BA%BF%23" target="weibo">
+万里归途票房破亿（热度：979963）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E7%AD%BE%E7%BD%B2%E4%B9%8C%E5%85%8B%E5%85%B0%E5%8A%A0%E5%85%A5%E5%8C%97%E7%BA%A6%E7%94%B3%E8%AF%B7%23" target="weibo">
 泽连斯基签署乌克兰加入北约申请（热度：978977）
 </a>
@@ -70,13 +76,7 @@ iPhone6被苹果列入过时产品（热度：691285）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E9%BE%99%E5%82%B2%E5%A4%A9%E8%AA%93%E6%AD%BB%E5%AE%88%E6%8A%A4%E5%88%98%E6%B3%A2%23" target="weibo">
-我龙傲天誓死守护刘波（热度：585233）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%87%E9%87%8C%E5%BD%92%E9%80%94%E7%A5%A8%E6%88%BF%E7%A0%B4%E4%BA%BF%23" target="weibo">
-万里归途票房破亿（热度：545777）
+我龙傲天誓死守护刘波（热度：585838）
 </a>
 </li>
 
@@ -107,6 +107,12 @@ iPhone6被苹果列入过时产品（热度：691285）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232%E5%B2%81%E5%A8%83%E6%89%8B%E8%84%8F%E7%9D%80%E6%80%A5%E8%AF%B4%E5%A9%B4%E8%AF%AD%E8%80%81%E5%B8%88%E7%9B%B2%E7%8C%9C%23" target="weibo">
 2岁娃手脏着急说婴语老师盲猜（热度：368722）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%B0%E5%8F%B0%E5%A2%9E%E4%B8%80%E6%84%9F%E6%9F%93%E8%80%85%E5%9C%A8%E4%BA%AC%E6%97%A0%E5%B8%B8%E4%BD%8F%E5%9C%B0%E5%9D%80%23" target="weibo">
+北京丰台增一感染者在京无常住地址（热度：352294）
 </a>
 </li>
 
@@ -159,6 +165,12 @@ boss直聘现多个无厘头职位名称（热度：334747）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%239%E6%9C%8830%E6%97%A5%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E6%97%A0%E7%97%87%E7%8A%B6549%E4%BE%8B%23" target="weibo">
+9月30日新增本土无症状549例（热度：274717）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%83%9E%E8%83%8E%E8%A7%81%E7%88%B8%E7%88%B8%E5%9B%9E%E5%AE%B6%E5%BC%80%E5%BF%83%E5%88%B0%E6%91%94%E5%80%92%23" target="weibo">
 双胞胎见爸爸回家开心到摔倒（热度：271004）
 </a>
@@ -177,14 +189,14 @@ boss直聘现多个无厘头职位名称（热度：334747）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%8C%E5%B1%855%E5%B9%B4%E7%94%9F%E5%A8%83%E5%88%86%E6%89%8B%E7%94%B7%E6%96%B9%E8%A6%81%E5%9B%9E%E5%BD%A9%E7%A4%BC%23" target="weibo">
-同居5年生娃分手男方要回彩礼（热度：261664）
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%BF%91%E4%B8%80%E5%8D%8A%E6%B3%A1%E8%8F%9C%E7%94%9F%E4%BA%A7%E5%95%86%E5%85%B3%E9%97%AD%23" target="weibo">
+韩国近一半泡菜生产商关闭（热度：264524）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%BF%91%E4%B8%80%E5%8D%8A%E6%B3%A1%E8%8F%9C%E7%94%9F%E4%BA%A7%E5%95%86%E5%85%B3%E9%97%AD%23" target="weibo">
-韩国近一半泡菜生产商关闭（热度：258491）
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%8C%E5%B1%855%E5%B9%B4%E7%94%9F%E5%A8%83%E5%88%86%E6%89%8B%E7%94%B7%E6%96%B9%E8%A6%81%E5%9B%9E%E5%BD%A9%E7%A4%BC%23" target="weibo">
+同居5年生娃分手男方要回彩礼（热度：261664）
 </a>
 </li>
 
@@ -208,7 +220,7 @@ boss直聘现多个无厘头职位名称（热度：334747）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%BA%E5%A4%A7%E8%87%AA%E5%B7%B1%E7%9A%844%E4%B8%AA%E4%B9%A0%E6%83%AF%23" target="weibo">
-强大自己的4个习惯（热度：224689）
+强大自己的4个习惯（热度：232146）
 </a>
 </li>
 
@@ -237,8 +249,26 @@ boss直聘现多个无厘头职位名称（热度：334747）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E8%BD%AC%E5%8F%98%E4%B8%BAL%E6%9E%84%E5%9E%8B%23" target="weibo">
+中国空间站转变为L构型（热度：193670）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E7%8C%AE%E5%94%B1%E6%B1%9F%E6%B2%B3%E5%A5%94%E8%85%BE%E7%9C%8B%E4%B8%AD%E5%9B%BD%23" target="weibo">
 张杰献唱江河奔腾看中国（热度：184180）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E5%AC%89%E9%97%B9%E6%97%B6%E5%90%AC%E5%88%B0%E5%9B%BD%E6%AD%8C%E9%9B%86%E4%BD%93%E7%AB%8B%E5%AE%9A%E6%95%AC%E7%A4%BC%23" target="weibo">
+学生嬉闹时听到国歌集体立定敬礼（热度：181375）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%AF%AE%23" target="weibo">
+女篮（热度：172609）
 </a>
 </li>
 
@@ -255,6 +285,12 @@ boss直聘现多个无厘头职位名称（热度：334747）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%239%E6%9C%8830%E6%97%A5%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A106%E4%BE%8B%23" target="weibo">
+9月30日新增本土确诊106例（热度：157691）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%BE%97%E8%8E%AB%E5%90%8D%E5%85%B6%E5%A6%99%E7%9A%84%E4%B8%80%E7%AC%94%E9%92%B1%23" target="weibo">
 花得莫名其妙的一笔钱（热度：155307）
 </a>
@@ -263,18 +299,6 @@ boss直聘现多个无厘头职位名称（热度：334747）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B8%AD%E5%9B%BD%E6%88%90%E7%AB%8B73%E5%91%A8%E5%B9%B4%23" target="weibo">
 新中国成立73周年（热度：147627）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E8%BD%AC%E5%8F%98%E4%B8%BAL%E6%9E%84%E5%9E%8B%23" target="weibo">
-中国空间站转变为L构型（热度：146403）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%AF%AE%23" target="weibo">
-女篮（热度：145788）
 </a>
 </li>
 
@@ -399,12 +423,6 @@ RNG失误（热度：114450）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E5%AC%89%E9%97%B9%E6%97%B6%E5%90%AC%E5%88%B0%E5%9B%BD%E6%AD%8C%E9%9B%86%E4%BD%93%E7%AB%8B%E5%AE%9A%E6%95%AC%E7%A4%BC%23" target="weibo">
-学生嬉闹时听到国歌集体立定敬礼（热度：90840）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E5%87%BA%E5%8F%A3%E9%87%8F%E5%A4%A7%E5%A2%9E%23" target="weibo">
 新能源汽车出口量大增（热度：89509）
 </a>
@@ -419,6 +437,18 @@ RNG失误（热度：114450）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E5%A5%B3%E6%8E%921%E6%AF%943%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%8E%92%23" target="weibo">
 巴西女排1比3日本女排（热度：85442）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E4%B8%BE%E8%A1%8C%E5%8D%87%E6%97%97%E4%BB%AA%E5%BC%8F%23" target="weibo">
+香港举行升旗仪式（热度：84798）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%80%E5%88%BB%E6%98%AF%E7%8B%AC%E5%B1%9E%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E4%BB%AA%E5%BC%8F%E6%84%9F%23" target="weibo">
+这一刻是独属中国人的仪式感（热度：84314）
 </a>
 </li>
 
@@ -471,8 +501,8 @@ C919将于2022年底交付（热度：64719）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%239%E6%9C%8830%E6%97%A5%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E6%97%A0%E7%97%87%E7%8A%B6549%E4%BE%8B%23" target="weibo">
-9月30日新增本土无症状549例（热度：61978）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA%E7%9A%84%E8%84%9A%E6%AD%A5%E6%AD%A5%E6%AD%A5%E9%93%BF%E9%94%B5%23" target="weibo">
+今天天安门广场的脚步步步铿锵（热度：62618）
 </a>
 </li>
 
@@ -491,12 +521,6 @@ C919将于2022年底交付（热度：64719）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E6%83%B3%E7%94%A8%E6%9C%80%E5%A5%BD%E8%A1%A8%E7%8E%B0%E4%B8%BA%E7%A5%96%E5%9B%BD%E5%BA%86%E7%94%9F%23" target="weibo">
 中国女篮想用最好表现为祖国庆生（热度：59521）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%239%E6%9C%8830%E6%97%A5%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A106%E4%BE%8B%23" target="weibo">
-9月30日新增本土确诊106例（热度：58969）
 </a>
 </li>
 
@@ -527,6 +551,12 @@ C919将于2022年底交付（热度：64719）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%A4%A9%E7%9C%9F%E8%AF%B4%E9%A2%86%E5%AF%BC%E5%B0%B1%E6%98%AF%E7%94%A8%E6%9D%A5%E6%8A%97%E5%8E%8B%E7%9A%84%23" target="weibo">
 杨天真说领导就是用来抗压的（热度：54292）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%B8%80%E7%A7%8D%E9%AA%84%E5%82%B2%E5%8F%AB%E4%B8%AD%E5%9B%BD%23" target="weibo">
+有一种骄傲叫中国（热度：53057）
 </a>
 </li>
 
@@ -623,6 +653,12 @@ C919将于2022年底交付（热度：64719）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E8%B7%9F%E7%9D%80%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9C%8B%E4%B8%AD%E5%9B%BD%23%23" target="weibo">
 #跟着总书记看中国#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%B0%88%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89%E4%B8%8E%E5%A5%8B%E6%96%97%E7%B2%BE%E7%A5%9E%23%23" target="weibo">
+#总书记谈爱国主义与奋斗精神#
 </a>
 </li>
 

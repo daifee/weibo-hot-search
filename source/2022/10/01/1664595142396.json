@@ -1,0 +1,410 @@
+{
+  "runTime": 1664595142396,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1595222,
+        "num": 1595222,
+        "word": "国庆天安门广场升旗仪式",
+        "onboard_time": 1664579778,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 979963,
+        "num": 979963,
+        "word": "万里归途票房破亿",
+        "onboard_time": 1664590521,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 6167,
+        "num": 605168,
+        "word": "英雄从未远去丰碑永存人间",
+        "onboard_time": 1664498006,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582530,
+        "num": 582530,
+        "word": "国庆",
+        "onboard_time": 1664532866,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 546066,
+        "num": 546066,
+        "word": "国庆七天每分钟都不想浪费",
+        "onboard_time": 1664526803,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479965,
+        "num": 479965,
+        "word": "妈妈寄桃酥女儿收到时碎成土",
+        "onboard_time": 1664554582,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262583,
+        "num": 262583,
+        "word": "2岁娃手脏着急说婴语老师盲猜",
+        "onboard_time": 1664550925,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239140,
+        "num": 239140,
+        "word": "中国人首次在太空为新中国庆生",
+        "onboard_time": 1664588902,
+        "rank": 7,
+        "category": "科技,国内要闻"
+      },
+      {
+        "raw_hot": 232146,
+        "num": 232146,
+        "word": "强大自己的4个习惯",
+        "onboard_time": 1664588003,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195831,
+        "num": 195831,
+        "word": "张国伟夺校运会冠军",
+        "onboard_time": 1664579236,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 684571,
+        "num": 195653,
+        "word": "iPhone6被苹果列入过时产品",
+        "onboard_time": 1664583081,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 585838,
+        "num": 195120,
+        "word": "我龙傲天誓死守护刘波",
+        "onboard_time": 1664588723,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352294,
+        "num": 194851,
+        "word": "北京丰台增一感染者在京无常住地址",
+        "onboard_time": 1664593103,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264524,
+        "num": 194423,
+        "word": "韩国近一半泡菜生产商关闭",
+        "onboard_time": 1664582360,
+        "rank": 13,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 349856,
+        "num": 193773,
+        "word": "男生穿小粉拖跑3000米获银牌",
+        "onboard_time": 1664582844,
+        "rank": 14,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 193670,
+        "num": 193670,
+        "word": "中国空间站转变为L构型",
+        "onboard_time": 1664589680,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 181375,
+        "num": 181375,
+        "word": "学生嬉闹时听到国歌集体立定敬礼",
+        "onboard_time": 1664591662,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 274717,
+        "num": 181261,
+        "word": "9月30日新增本土无症状549例",
+        "onboard_time": 1664592443,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179399,
+        "num": 179399,
+        "word": "唐朝诡事录好高能",
+        "onboard_time": 1664549723,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172609,
+        "num": 172609,
+        "word": "女篮",
+        "onboard_time": 1664580379,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 297607,
+        "num": 172289,
+        "word": "租客退房留下2猫1狗1鸡",
+        "onboard_time": 1664551584,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243570,
+        "num": 172145,
+        "word": "时代少年团我的祖国",
+        "onboard_time": 1664591601,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 176150,
+        "num": 172049,
+        "word": "12岁乖巧女孩突变暴躁确诊脑炎",
+        "onboard_time": 1664573532,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171938,
+        "num": 171938,
+        "word": "boss直聘现多个无厘头职位名称",
+        "onboard_time": 1664557697,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170591,
+        "num": 170591,
+        "word": "泽连斯基签署乌克兰加入北约申请",
+        "onboard_time": 1664550503,
+        "rank": 24,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 163681,
+        "num": 163681,
+        "word": "张杰献唱江河奔腾看中国",
+        "onboard_time": 1664590463,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157691,
+        "num": 157691,
+        "word": "9月30日新增本土确诊106例",
+        "onboard_time": 1664592443,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152645,
+        "num": 152645,
+        "word": "花得莫名其妙的一笔钱",
+        "onboard_time": 1664560632,
+        "rank": 27,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 132111,
+        "num": 132111,
+        "word": "万里归途开分9.6",
+        "onboard_time": 1664545406,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130344,
+        "num": 130344,
+        "word": "双胞胎见爸爸回家开心到摔倒",
+        "onboard_time": 1664554223,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123950,
+        "num": 123950,
+        "word": "IU演唱会版Eight",
+        "onboard_time": 1664582181,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 113553,
+        "num": 113553,
+        "word": "电动车起火烧毁近30万元购房款",
+        "onboard_time": 1664566631,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91000,
+        "num": 91000,
+        "word": "小偷气愤欲偷平板电脑到手电子秤",
+        "onboard_time": 1664551584,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90768,
+        "num": 90768,
+        "word": "中美女篮争夺世界杯冠军",
+        "onboard_time": 1664538747,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86239,
+        "num": 86239,
+        "word": "哥你好成9月票房冠军",
+        "onboard_time": 1664582061,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 85899,
+        "num": 85899,
+        "word": "女篮世界杯的观众席",
+        "onboard_time": 1664581342,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85459,
+        "num": 85459,
+        "word": "8岁女孩压腿轻松超180度",
+        "onboard_time": 1664553741,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84798,
+        "num": 84798,
+        "word": "香港举行升旗仪式",
+        "onboard_time": 1664593522,
+        "rank": 37,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 84314,
+        "num": 84314,
+        "word": "这一刻是独属中国人的仪式感",
+        "onboard_time": 1664593581,
+        "rank": 38,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 78923,
+        "num": 78923,
+        "word": "医生接诊6个心梗患者5个爱抽烟",
+        "onboard_time": 1664572570,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78596,
+        "num": 78596,
+        "word": "万里归途",
+        "onboard_time": 1664541924,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 75826,
+        "num": 75826,
+        "word": "苹果市值一夜缩水1165亿美元",
+        "onboard_time": 1664563153,
+        "rank": 41,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 75024,
+        "num": 75024,
+        "word": "为看升旗跑出了百米冲刺的感觉",
+        "onboard_time": 1664585723,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70977,
+        "num": 70977,
+        "word": "外交人员看万里归途哽咽了",
+        "onboard_time": 1664547025,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 62618,
+        "num": 62618,
+        "word": "今天天安门广场的脚步步步铿锵",
+        "onboard_time": 1664592923,
+        "rank": 44,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 61716,
+        "num": 61716,
+        "word": "普京签署顿涅茨克等四地入俄条约",
+        "onboard_time": 1664546125,
+        "rank": 45,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 57987,
+        "num": 57987,
+        "word": "彩色超清重现国庆阅兵高燃瞬间",
+        "onboard_time": 1664592201,
+        "rank": 46,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 57966,
+        "num": 57966,
+        "word": "90后小伙跨83城拍美丽中国",
+        "onboard_time": 1664587222,
+        "rank": 47,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 56891,
+        "num": 56891,
+        "word": "氛围感拉满还得看中国",
+        "onboard_time": 1664582602,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53057,
+        "num": 53057,
+        "word": "有一种骄傲叫中国",
+        "onboard_time": 1664589443,
+        "rank": 49,
+        "category": "国内要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈爱国主义与奋斗精神#"
+    }
+  }
+}
