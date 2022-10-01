@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664635309546,
+  "endTime": 1664637985824,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -120,6 +120,14 @@
       "word": "一感染者曾因弹窗藏在代驾车内躲避检查",
       "onboard_time": 1664619682,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1176288,
+      "num": 277742,
+      "word": "医生吃火锅用牙签剔除脑花血管",
+      "onboard_time": 1664634264,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -243,6 +251,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 715558,
+      "num": 271708,
+      "word": "苹果副总裁因发表低俗言论离职",
+      "onboard_time": 1664634204,
+      "rank": 18,
+      "category": "科技"
+    },
+    {
       "raw_hot": 691285,
       "num": 308387,
       "word": "iPhone6被苹果列入过时产品",
@@ -280,14 +296,6 @@
       "word": "租客退房留下2猫1狗1鸡",
       "onboard_time": 1664551584,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 614597,
-      "num": 277742,
-      "word": "医生吃火锅用牙签剔除脑花血管",
-      "onboard_time": 1664634264,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -595,6 +603,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 317298,
+      "num": 242340,
+      "word": "万里归途彩蛋",
+      "onboard_time": 1664634444,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 316155,
       "num": 316155,
       "word": "102岁院士说把毕生年华奉献给国家",
@@ -635,14 +651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 299507,
-      "num": 271708,
-      "word": "苹果副总裁因发表低俗言论离职",
-      "onboard_time": 1664634204,
-      "rank": 18,
-      "category": "科技"
-    },
-    {
       "raw_hot": 285506,
       "num": 285506,
       "word": "万里归途32万6713步",
@@ -664,6 +672,14 @@
       "word": "国庆首日上海武警拉链式人墙再现",
       "onboard_time": 1664631924,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 276254,
+      "num": 276254,
+      "word": "济南常态化核酸检测改为两天一检",
+      "onboard_time": 1664633423,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -851,12 +867,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 228234,
-      "num": 228234,
-      "word": "济南常态化核酸检测改为两天一检",
-      "onboard_time": 1664633423,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 222565,
+      "num": 199397,
+      "word": "左麟右李",
+      "onboard_time": 1664637263,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 219250,
@@ -873,14 +889,6 @@
       "onboard_time": 1664580921,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 215280,
-      "num": 215280,
-      "word": "万里归途彩蛋",
-      "onboard_time": 1664634444,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 207467,
@@ -929,6 +937,22 @@
       "onboard_time": 1664534185,
       "rank": 15,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 196784,
+      "num": 196784,
+      "word": "中国女排负于巴西",
+      "onboard_time": 1664636782,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 196332,
+      "num": 196332,
+      "word": "孙俪以你为镜",
+      "onboard_time": 1664637683,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 194751,
@@ -1051,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161355,
+      "num": 161355,
+      "word": "搓麻将成曼哈顿热门社交活动",
+      "onboard_time": 1664633964,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158276,
       "num": 158276,
       "word": "女篮姑娘拼到最后一秒",
@@ -1145,6 +1177,14 @@
       "onboard_time": 1664582181,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 141648,
+      "num": 141648,
+      "word": "女篮队长感谢全国球迷支持",
+      "onboard_time": 1664634625,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 140451,
@@ -1299,6 +1339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 108896,
+      "num": 108896,
+      "word": "水晶宫vs切尔西",
+      "onboard_time": 1664637805,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106819,
       "num": 76252,
       "word": "嗨放派",
@@ -1337,6 +1385,22 @@
       "onboard_time": 1664582602,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99367,
+      "num": 99367,
+      "word": "小狗被困栅栏卡成S型消防暖心救援",
+      "onboard_time": 1664635883,
+      "rank": 34,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 97950,
+      "num": 97950,
+      "word": "樊振东3比0阿凡纳多尔",
+      "onboard_time": 1664636842,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 97111,
@@ -1443,14 +1507,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 77363,
-      "num": 77363,
-      "word": "女篮队长感谢全国球迷支持",
-      "onboard_time": 1664634625,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 76397,
       "num": 76397,
       "word": "女子摸鱼时被咬半身失去知觉",
@@ -1465,14 +1521,6 @@
       "onboard_time": 1664601982,
       "rank": 35,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 74073,
-      "num": 74073,
-      "word": "搓麻将成曼哈顿热门社交活动",
-      "onboard_time": 1664633964,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 67576,
@@ -1497,6 +1545,14 @@
       "onboard_time": 1664580739,
       "rank": 40,
       "category": "国内要闻,军事"
+    },
+    {
+      "raw_hot": 65033,
+      "num": 65033,
+      "word": "国乒女团3比0完胜加拿大",
+      "onboard_time": 1664637443,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 64719,
@@ -1675,6 +1731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 49763,
+      "num": 49763,
+      "word": "中国女篮28年前绝杀澳大利亚队珍贵画面",
+      "onboard_time": 1664637085,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 49006,
       "num": 49006,
       "word": "84岁老人报9元恩情捐100万助学",
@@ -1723,6 +1787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 45764,
+      "num": 45764,
+      "word": "中国女篮主帅当选2022世界杯最佳教练",
+      "onboard_time": 1664637623,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 45310,
       "num": 45310,
       "word": "中国女篮赛后庆祝现场",
@@ -1737,6 +1809,14 @@
       "onboard_time": 1664556498,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 39268,
+      "num": 39268,
+      "word": "李梦T恤上写满女篮队友名字",
+      "onboard_time": 1664637382,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 39242,
