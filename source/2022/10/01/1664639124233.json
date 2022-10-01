@@ -1,0 +1,410 @@
+{
+  "runTime": 1664639124233,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1707477,
+        "num": 1707477,
+        "word": "长津湖首播收视率第一",
+        "onboard_time": 1664632765,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 678151,
+        "num": 678151,
+        "word": "3斤小狗舔5斤大鱼被鱼尾抽翻",
+        "onboard_time": 1664627183,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50532,
+        "num": 517315,
+        "word": "亲爱的祖国生日快乐",
+        "onboard_time": 1664601921,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 453472,
+        "num": 453472,
+        "word": "万里归途票房破2亿",
+        "onboard_time": 1664621721,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 452296,
+        "num": 452296,
+        "word": "中国女排vs巴西女排",
+        "onboard_time": 1664626522,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 393800,
+        "num": 393800,
+        "word": "左麟右李",
+        "onboard_time": 1664637263,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272779,
+        "num": 272779,
+        "word": "济南常态化核酸检测改为两天一检",
+        "onboard_time": 1664633423,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255142,
+        "num": 255142,
+        "word": "外公床头抠洞塞钱2年存了3万多",
+        "onboard_time": 1664620463,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239109,
+        "num": 239109,
+        "word": "大爷将乌龟当枕头躺江边熟睡",
+        "onboard_time": 1664619620,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218369,
+        "num": 218369,
+        "word": "国庆首日上海武警拉链式人墙再现",
+        "onboard_time": 1664631924,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1123617,
+        "num": 217913,
+        "word": "医生吃火锅用牙签剔除脑花血管",
+        "onboard_time": 1664634264,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 670358,
+        "num": 217619,
+        "word": "苹果副总裁因发表低俗言论离职",
+        "onboard_time": 1664634204,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 328391,
+        "num": 217378,
+        "word": "设计师在贝拉身上喷出礼服",
+        "onboard_time": 1664631022,
+        "rank": 12,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 295742,
+        "num": 216555,
+        "word": "女子远嫁摆4本房产证让妈妈安心",
+        "onboard_time": 1664623224,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275432,
+        "num": 216404,
+        "word": "万里归途彩蛋",
+        "onboard_time": 1664634444,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233187,
+        "num": 215560,
+        "word": "国庆晚会",
+        "onboard_time": 1664620281,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215422,
+        "num": 215422,
+        "word": "陈哲远沈月好嗑",
+        "onboard_time": 1664629882,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211797,
+        "num": 211797,
+        "word": "乘警觉察2妇女可疑救下被拐男婴",
+        "onboard_time": 1664620882,
+        "rank": 17,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 198804,
+        "num": 198804,
+        "word": "中国女排负于巴西",
+        "onboard_time": 1664636782,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189718,
+        "num": 189718,
+        "word": "王梦洁",
+        "onboard_time": 1664629944,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214339,
+        "num": 189421,
+        "word": "张杰国庆晚会致吾辈舞台",
+        "onboard_time": 1664633302,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177533,
+        "num": 177533,
+        "word": "徐梦桃王心迪结婚照",
+        "onboard_time": 1664638463,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167183,
+        "num": 167183,
+        "word": "搓麻将成曼哈顿热门社交活动",
+        "onboard_time": 1664633964,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166603,
+        "num": 166603,
+        "word": "网剧炽道",
+        "onboard_time": 1664629581,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165547,
+        "num": 165547,
+        "word": "樊振东3比0阿凡纳多尔",
+        "onboard_time": 1664636842,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163819,
+        "num": 163819,
+        "word": "刘雨昕在街舞当起了月老",
+        "onboard_time": 1664631685,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162514,
+        "num": 162514,
+        "word": "2男孩公交车上打闹被司机厉声制止",
+        "onboard_time": 1664632222,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131195,
+        "num": 131195,
+        "word": "女篮队长感谢全国球迷支持",
+        "onboard_time": 1664634625,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129145,
+        "num": 129145,
+        "word": "女子为明目生吞鱼胆致急性肝衰竭",
+        "onboard_time": 1664623283,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125357,
+        "num": 125357,
+        "word": "受伤猫头鹰被救助后经常装死",
+        "onboard_time": 1664626283,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141199,
+        "num": 125171,
+        "word": "蒲熠星单手攀岩",
+        "onboard_time": 1664638226,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122741,
+        "num": 122741,
+        "word": "女排 一传",
+        "onboard_time": 1664633482,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120827,
+        "num": 120827,
+        "word": "小狗被困栅栏卡成S型消防暖心救援",
+        "onboard_time": 1664635883,
+        "rank": 32,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 119555,
+        "num": 119555,
+        "word": "冠军对冠军",
+        "onboard_time": 1664638342,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103516,
+        "num": 103516,
+        "word": "我的反派男友太好笑了",
+        "onboard_time": 1664622381,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102816,
+        "num": 102816,
+        "word": "李雪健周冬雨目光",
+        "onboard_time": 1664631084,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91000,
+        "num": 91000,
+        "word": "中国女篮主帅当选2022世界杯最佳教练",
+        "onboard_time": 1664637623,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89923,
+        "num": 89923,
+        "word": "女篮世界杯亚军",
+        "onboard_time": 1664610568,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83343,
+        "num": 83343,
+        "word": "北京丰台8人违反防疫规定被刑事立案调查",
+        "onboard_time": 1664623763,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74229,
+        "num": 74229,
+        "word": "102岁院士说把毕生年华奉献给国家",
+        "onboard_time": 1664627664,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98012,
+        "num": 74141,
+        "word": "孙俪以你为镜",
+        "onboard_time": 1664637683,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74042,
+        "num": 74042,
+        "word": "中国人为什么喜欢龙",
+        "onboard_time": 1664619079,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69205,
+        "num": 69205,
+        "word": "水晶宫vs切尔西",
+        "onboard_time": 1664637805,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65152,
+        "num": 65152,
+        "word": "女生90多张卖萌自拍错发班级群",
+        "onboard_time": 1664608585,
+        "rank": 43,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 55428,
+        "num": 55428,
+        "word": "中国女篮28年前绝杀澳大利亚队珍贵画面",
+        "onboard_time": 1664637085,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53079,
+        "num": 53079,
+        "word": "一人居家隔离擅自外出被转自费集中隔离",
+        "onboard_time": 1664620160,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52713,
+        "num": 52713,
+        "word": "婆婆自学用1年为儿媳做传统凤冠",
+        "onboard_time": 1664608647,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48187,
+        "num": 48187,
+        "word": "国乒女团3比0完胜加拿大",
+        "onboard_time": 1664637443,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37886,
+        "num": 37886,
+        "word": "杨舒予 集训",
+        "onboard_time": 1664611944,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34531,
+        "num": 34531,
+        "word": "国庆",
+        "onboard_time": 1664532866,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#庆祝新中国成立73周年#"
+    }
+  }
+}
