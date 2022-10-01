@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664624377777,
+  "endTime": 1664628469810,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -49,6 +49,22 @@
       "onboard_time": 1664532866,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1566720,
+      "num": 1566720,
+      "word": "中国女排vs巴西女排",
+      "onboard_time": 1664626522,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1502236,
+      "num": 575924,
+      "word": "女子远嫁摆4本房产证让妈妈安心",
+      "onboard_time": 1664623224,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1382253,
@@ -123,6 +139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1001933,
+      "num": 1001933,
+      "word": "国庆晚会",
+      "onboard_time": 1664620281,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 979963,
       "num": 979963,
       "word": "万里归途票房破亿",
@@ -145,14 +169,6 @@
       "onboard_time": 1664550503,
       "rank": 3,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 966638,
-      "num": 966638,
-      "word": "国庆晚会",
-      "onboard_time": 1664620281,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 863896,
@@ -291,11 +307,27 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 474454,
+      "num": 474454,
+      "word": "万里归途票房破2亿",
+      "onboard_time": 1664621721,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 472274,
       "num": 472274,
       "word": "万里归途 后劲",
       "onboard_time": 1664610085,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 464067,
+      "num": 464067,
+      "word": "金晨申请加入罗娜夸夸群",
+      "onboard_time": 1664627544,
+      "rank": 7,
       "category": "影视"
     },
     {
@@ -307,12 +339,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 437367,
-      "num": 437367,
-      "word": "万里归途票房破2亿",
-      "onboard_time": 1664621721,
-      "rank": 10,
-      "category": "影视"
+      "raw_hot": 436933,
+      "num": 436933,
+      "word": "3斤小狗舔5斤大鱼被鱼尾抽翻",
+      "onboard_time": 1664627183,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 432405,
@@ -332,7 +364,7 @@
     },
     {
       "raw_hot": 416496,
-      "num": 287509,
+      "num": 377787,
       "word": "我的反派男友太好笑了",
       "onboard_time": 1664622381,
       "rank": 22,
@@ -345,14 +377,6 @@
       "onboard_time": 1664616621,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 411894,
-      "num": 159052,
-      "word": "女子远嫁摆4本房产证让妈妈安心",
-      "onboard_time": 1664623224,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 410605,
@@ -379,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 395584,
+      "num": 275653,
+      "word": "北京丰台8人违反防疫规定被刑事立案调查",
+      "onboard_time": 1664623763,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 395023,
       "num": 395023,
       "word": "苹果市值一夜缩水1165亿美元",
@@ -393,6 +425,14 @@
       "onboard_time": 1664580379,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 379960,
+      "num": 379960,
+      "word": "女子为明目生吞鱼胆致急性肝衰竭",
+      "onboard_time": 1664623283,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 368722,
@@ -515,14 +555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 275653,
-      "num": 275653,
-      "word": "北京丰台8人违反防疫规定被刑事立案调查",
-      "onboard_time": 1664623763,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 274717,
       "num": 181261,
       "word": "9月30日新增本土无症状549例",
@@ -612,7 +644,7 @@
     },
     {
       "raw_hot": 243399,
-      "num": 178480,
+      "num": 190193,
       "word": "年龄带给你的是焦虑还是勇气",
       "onboard_time": 1664623041,
       "rank": 20,
@@ -688,6 +720,14 @@
       "word": "国庆假期第一天",
       "onboard_time": 1664580921,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210530,
+      "num": 210530,
+      "word": "102岁院士说把毕生年华奉献给国家",
+      "onboard_time": 1664627664,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -803,6 +843,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 179509,
+      "num": 179509,
+      "word": "受伤猫头鹰被救助后经常装死",
+      "onboard_time": 1664626283,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177603,
       "num": 177603,
       "word": "王思雨三分",
@@ -883,14 +931,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 152820,
-      "num": 152820,
-      "word": "女子为明目生吞鱼胆致急性肝衰竭",
-      "onboard_time": 1664623283,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 150672,
       "num": 150672,
       "word": "成都世乒赛团体赛国乒首秀",
@@ -937,6 +977,30 @@
       "onboard_time": 1664582181,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 140451,
+      "num": 140451,
+      "word": "明星笔下的爱国之心是什么样的",
+      "onboard_time": 1664627903,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 139898,
+      "num": 139898,
+      "word": "国乒女团首战全胜",
+      "onboard_time": 1664627963,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 138665,
+      "num": 138665,
+      "word": "你好星期六",
+      "onboard_time": 1664625742,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 135935,
@@ -1147,6 +1211,22 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 91457,
+      "num": 91457,
+      "word": "北伦敦德比",
+      "onboard_time": 1664625323,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 90948,
+      "num": 90306,
+      "word": "张家辉陈伟霆互斗演技",
+      "onboard_time": 1664626522,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 89509,
       "num": 89509,
       "word": "新能源汽车出口量大增",
@@ -1185,6 +1265,14 @@
       "onboard_time": 1664593522,
       "rank": 37,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 84490,
+      "num": 84490,
+      "word": "国庆首日西湖接待23.82万游客",
+      "onboard_time": 1664626882,
+      "rank": 36,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 84314,
@@ -1361,6 +1449,14 @@
       "onboard_time": 1664552782,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 56346,
+      "num": 56346,
+      "word": "沙县小吃之乡也是中国医改排头兵",
+      "onboard_time": 1664625083,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 55642,
