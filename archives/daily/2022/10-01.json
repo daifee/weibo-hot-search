@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664632667332,
+  "endTime": 1664634279151,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -17,6 +17,14 @@
       "onboard_time": 1664610568,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1982961,
+      "num": 1982961,
+      "word": "长津湖首播收视率第一",
+      "onboard_time": 1664632765,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 1868940,
@@ -283,20 +291,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 586348,
+      "num": 299077,
+      "word": "设计师在贝拉身上喷出礼服",
+      "onboard_time": 1664631022,
+      "rank": 12,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 585838,
       "num": 286738,
       "word": "我龙傲天誓死守护刘波",
       "onboard_time": 1664588723,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 567977,
-      "num": 299077,
-      "word": "设计师在贝拉身上喷出礼服",
-      "onboard_time": 1664631022,
-      "rank": 12,
-      "category": "时尚"
     },
     {
       "raw_hot": 556254,
@@ -377,6 +385,14 @@
       "onboard_time": 1664616982,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 422963,
+      "num": 259366,
+      "word": "张杰国庆晚会致吾辈舞台",
+      "onboard_time": 1664633302,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 416496,
@@ -627,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272453,
+      "num": 257806,
+      "word": "国庆首日上海武警拉链式人墙再现",
+      "onboard_time": 1664631924,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271004,
       "num": 271004,
       "word": "双胞胎见爸爸回家开心到摔倒",
@@ -699,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257445,
+      "num": 257445,
+      "word": "2男孩公交车上打闹被司机厉声制止",
+      "onboard_time": 1664632222,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256935,
       "num": 256935,
       "word": "她患癌后依然登台指挥",
@@ -755,6 +787,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 233789,
+      "num": 201935,
+      "word": "李宇春国庆晚会我愿舞台",
+      "onboard_time": 1664633782,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 233580,
       "num": 233580,
       "word": "刺猬头卡饮料杯路过男子脚踩拔出",
@@ -801,6 +841,14 @@
       "onboard_time": 1664580921,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214991,
+      "num": 214991,
+      "word": "女排 一传",
+      "onboard_time": 1664633482,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 207467,
@@ -1011,6 +1059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149803,
+      "num": 149803,
+      "word": "女排拦网",
+      "onboard_time": 1664629644,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147627,
       "num": 147627,
       "word": "新中国成立73周年",
@@ -1147,14 +1203,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 120841,
-      "num": 120841,
-      "word": "女排拦网",
-      "onboard_time": 1664629644,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 118653,
       "num": 118653,
       "word": "男子水库放生清道夫被罚2.8万",
@@ -1193,6 +1241,14 @@
       "onboard_time": 1664544445,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 113538,
+      "num": 122717,
+      "word": "济南常态化核酸检测改为两天一检",
+      "onboard_time": 1664633423,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110798,
@@ -1265,6 +1321,14 @@
       "onboard_time": 1664540725,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 95585,
+      "num": 37431,
+      "word": "医生吃火锅用牙签剔除脑花血管",
+      "onboard_time": 1664634264,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94490,
@@ -1360,14 +1424,6 @@
       "word": "女子摸鱼时被咬半身失去知觉",
       "onboard_time": 1664522425,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 76047,
-      "num": 63772,
-      "word": "国庆首日上海武警拉链式人墙再现",
-      "onboard_time": 1664631924,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1571,14 +1627,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 51292,
-      "num": 51292,
-      "word": "2男孩公交车上打闹被司机厉声制止",
-      "onboard_time": 1664632222,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 50698,
       "num": 50698,
       "word": "万里归途能成为国庆档爆款吗",
@@ -1641,6 +1689,14 @@
       "onboard_time": 1664540542,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42825,
+      "num": 42825,
+      "word": "搓麻将成曼哈顿热门社交活动",
+      "onboard_time": 1664633964,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41085,
