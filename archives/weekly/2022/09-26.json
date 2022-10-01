@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664643553958,
+  "endTime": 1664645391185,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -4025,6 +4025,14 @@
       "onboard_time": 1664100984,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 310712,
+      "num": 310712,
+      "word": "重庆拍到黑熊一家三口林中漫步",
+      "onboard_time": 1664641459,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 310138,
@@ -8056,14 +8064,6 @@
       "word": "小老鼠也是来赶海的呀",
       "onboard_time": 1664365344,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131826,
-      "num": 121038,
-      "word": "重庆拍到黑熊一家三口林中漫步",
-      "onboard_time": 1664641459,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
