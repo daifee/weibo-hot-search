@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664595142396,
+  "endTime": 1664600103735,
   "band_list": [
     {
       "raw_hot": 1868940,
@@ -43,6 +43,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 979324,
+      "num": 314174,
+      "word": "苏打绿正式取得名字商标权",
+      "onboard_time": 1664598261,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 978977,
       "num": 978977,
       "word": "泽连斯基签署乌克兰加入北约申请",
@@ -59,8 +67,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 699687,
+      "num": 699687,
+      "word": "国考",
+      "onboard_time": 1664597660,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 691285,
-      "num": 267048,
+      "num": 308387,
       "word": "iPhone6被苹果列入过时产品",
       "onboard_time": 1664583081,
       "rank": 10,
@@ -76,7 +92,7 @@
     },
     {
       "raw_hot": 640049,
-      "num": 172289,
+      "num": 195676,
       "word": "租客退房留下2猫1狗1鸡",
       "onboard_time": 1664551584,
       "rank": 20,
@@ -84,7 +100,7 @@
     },
     {
       "raw_hot": 585838,
-      "num": 265929,
+      "num": 286738,
       "word": "我龙傲天誓死守护刘波",
       "onboard_time": 1664588723,
       "rank": 11,
@@ -97,6 +113,14 @@
       "onboard_time": 1664542403,
       "rank": 4,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 500658,
+      "num": 500658,
+      "word": "张译演技",
+      "onboard_time": 1664597601,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 453016,
@@ -123,6 +147,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 392781,
+      "num": 392781,
+      "word": "女篮",
+      "onboard_time": 1664580379,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 368722,
       "num": 368722,
       "word": "2岁娃手脏着急说婴语老师盲猜",
@@ -131,8 +163,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 361565,
+      "num": 361565,
+      "word": "特斯拉人形机器人原型机亮相",
+      "onboard_time": 1664597601,
+      "rank": 8,
+      "category": "科技"
+    },
+    {
       "raw_hot": 352294,
-      "num": 194851,
+      "num": 236208,
       "word": "北京丰台增一感染者在京无常住地址",
       "onboard_time": 1664593103,
       "rank": 12,
@@ -161,6 +201,14 @@
       "onboard_time": 1664591601,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 333190,
+      "num": 333190,
+      "word": "女子跳河救起男童才想起不会游泳",
+      "onboard_time": 1664597841,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 330748,
@@ -227,6 +275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 267002,
+      "num": 267002,
+      "word": "女子国庆接单遛狗服务",
+      "onboard_time": 1664592322,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 266563,
       "num": 266563,
       "word": "阿朵发2000字长文给好声音蝶长",
@@ -275,12 +331,36 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 238775,
+      "num": 238775,
+      "word": "为什么中国年轻人这么爱国",
+      "onboard_time": 1664599101,
+      "rank": 14,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 232146,
       "num": 232146,
       "word": "强大自己的4个习惯",
       "onboard_time": 1664588003,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 231815,
+      "num": 231815,
+      "word": "RNG入围赛首胜",
+      "onboard_time": 1664598623,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 229236,
+      "num": 229236,
+      "word": "任嘉伦祝福祖国繁荣昌盛",
+      "onboard_time": 1664599222,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 216741,
@@ -307,12 +387,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 195966,
+      "num": 195966,
+      "word": "济南新增本土确诊病例1例",
+      "onboard_time": 1664597542,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194751,
       "num": 194751,
       "word": "电动车起火烧毁近30万元购房款",
       "onboard_time": 1664566631,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193915,
+      "num": 193915,
+      "word": "管泽元",
+      "onboard_time": 1664597601,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 193670,
@@ -337,14 +433,6 @@
       "onboard_time": 1664591662,
       "rank": 38,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 172609,
-      "num": 172609,
-      "word": "女篮",
-      "onboard_time": 1664580379,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 171133,
@@ -379,6 +467,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 148121,
+      "num": 148121,
+      "word": "姚明笑了",
+      "onboard_time": 1664597421,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147627,
       "num": 147627,
       "word": "新中国成立73周年",
@@ -409,6 +505,14 @@
       "onboard_time": 1664582181,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 141519,
+      "num": 141519,
+      "word": "女篮直播",
+      "onboard_time": 1664597181,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 135935,
@@ -491,6 +595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 110821,
+      "num": 110821,
+      "word": "国庆文案",
+      "onboard_time": 1664598202,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 110798,
       "num": 110798,
       "word": "2023年国考10月25日开始报名",
@@ -563,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 85890,
+      "num": 85890,
+      "word": "为中国女篮加油",
+      "onboard_time": 1664600003,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85442,
       "num": 85442,
       "word": "巴西女排1比3日本女排",
@@ -627,6 +747,14 @@
       "category": "科技,国内要闻"
     },
     {
+      "raw_hot": 64286,
+      "num": 64286,
+      "word": "MAD对战RNG",
+      "onboard_time": 1664598561,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 63181,
       "num": 63181,
       "word": "中国篮协向女篮致贺信",
@@ -689,6 +817,14 @@
       "onboard_time": 1664583863,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 58217,
+      "num": 58217,
+      "word": "节日我在岗",
+      "onboard_time": 1664595622,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57126,
@@ -844,6 +980,9 @@
     },
     {
       "word": "#总书记谈爱国主义与奋斗精神#"
+    },
+    {
+      "word": "#庆祝新中国成立73周年#"
     }
   ]
 }
