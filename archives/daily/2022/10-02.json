@@ -1,6 +1,6 @@
 {
   "startTime": 1664642097015,
-  "endTime": 1664656995810,
+  "endTime": 1664659348810,
   "band_list": [
     {
       "raw_hot": 880822,
@@ -427,6 +427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 23594,
+      "num": 19624,
+      "word": "女篮挺进决赛姚明场边笑开花",
+      "onboard_time": 1664654831,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 16991,
       "num": 16991,
       "word": "李梦T恤上写满女篮队友名字",
@@ -449,14 +457,6 @@
       "onboard_time": 1664619079,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 7656,
-      "num": 7656,
-      "word": "女篮挺进决赛姚明场边笑开花",
-      "onboard_time": 1664654831,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 6459,
