@@ -1,6 +1,6 @@
 {
   "startTime": 1664642097015,
-  "endTime": 1664664195742,
+  "endTime": 1664666935878,
   "band_list": [
     {
       "raw_hot": 880822,
@@ -9,6 +9,14 @@
       "onboard_time": 1664632765,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 805773,
+      "num": 805773,
+      "word": "重庆拍到黑熊一家三口林中漫步",
+      "onboard_time": 1664641459,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 756772,
@@ -35,8 +43,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 455128,
-      "num": 455128,
+      "raw_hot": 477918,
+      "num": 477918,
       "word": "3斤小狗舔5斤大鱼被鱼尾抽翻",
       "onboard_time": 1664627183,
       "rank": 3,
@@ -51,20 +59,28 @@
       "category": "科技"
     },
     {
-      "raw_hot": 391200,
-      "num": 391200,
-      "word": "重庆拍到黑熊一家三口林中漫步",
-      "onboard_time": 1664641459,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 322162,
       "num": 322162,
       "word": "万里归途票房破2亿",
       "onboard_time": 1664621721,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 296862,
+      "num": 125161,
+      "word": "俄军从红利曼撤退",
+      "onboard_time": 1664665636,
+      "rank": 11,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 287712,
+      "num": 287712,
+      "word": "搓麻将成曼哈顿热门社交活动",
+      "onboard_time": 1664633964,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 282738,
@@ -91,19 +107,19 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 239483,
+      "num": 239483,
+      "word": "大爷将乌龟当枕头躺江边熟睡",
+      "onboard_time": 1664619620,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229322,
       "num": 166698,
       "word": "女子远嫁摆4本房产证让妈妈安心",
       "onboard_time": 1664623224,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212682,
-      "num": 212682,
-      "word": "大爷将乌龟当枕头躺江边熟睡",
-      "onboard_time": 1664619620,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -113,6 +129,14 @@
       "onboard_time": 1664638226,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202397,
+      "num": 202397,
+      "word": "国庆首日上海武警拉链式人墙再现",
+      "onboard_time": 1664631924,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200778,
@@ -139,20 +163,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167765,
+      "num": 167765,
+      "word": "网剧炽道",
+      "onboard_time": 1664629581,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 160018,
+      "num": 143931,
+      "word": "乘警觉察2妇女可疑救下被拐男婴",
+      "onboard_time": 1664620882,
+      "rank": 18,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 156849,
       "num": 156849,
       "word": "陈哲远沈月好嗑",
       "onboard_time": 1664629882,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 143931,
-      "num": 143931,
-      "word": "乘警觉察2妇女可疑救下被拐男婴",
-      "onboard_time": 1664620882,
-      "rank": 18,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 142668,
@@ -171,14 +203,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 136968,
-      "num": 136968,
-      "word": "搓麻将成曼哈顿热门社交活动",
-      "onboard_time": 1664633964,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135008,
       "num": 135008,
       "word": "冠军对冠军",
@@ -187,12 +211,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 130314,
-      "num": 130314,
-      "word": "网剧炽道",
-      "onboard_time": 1664629581,
-      "rank": 22,
-      "category": "影视"
+      "raw_hot": 129977,
+      "num": 129977,
+      "word": "一人居家隔离擅自外出被转自费集中隔离",
+      "onboard_time": 1664620160,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128518,
@@ -200,6 +224,14 @@
       "word": "济南常态化核酸检测改为两天一检",
       "onboard_time": 1664633423,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125194,
+      "num": 125194,
+      "word": "受伤猫头鹰被救助后经常装死",
+      "onboard_time": 1664626283,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -211,8 +243,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 107183,
-      "num": 107183,
+      "raw_hot": 114007,
+      "num": 114007,
       "word": "2男孩公交车上打闹被司机厉声制止",
       "onboard_time": 1664632222,
       "rank": 25,
@@ -227,20 +259,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 98131,
-      "num": 98131,
-      "word": "国庆首日上海武警拉链式人墙再现",
-      "onboard_time": 1664631924,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 93698,
-      "num": 93698,
-      "word": "受伤猫头鹰被救助后经常装死",
-      "onboard_time": 1664626283,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 95210,
+      "num": 95210,
+      "word": "李雪健1句台词塑造4个人物",
+      "onboard_time": 1664641160,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 92118,
@@ -275,22 +299,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 76183,
-      "num": 72262,
-      "word": "李雪健1句台词塑造4个人物",
-      "onboard_time": 1664641160,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 72052,
-      "num": 72052,
-      "word": "一人居家隔离擅自外出被转自费集中隔离",
-      "onboard_time": 1664620160,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 71829,
       "num": 71829,
       "word": "102岁院士说把毕生年华奉献给国家",
@@ -311,6 +319,14 @@
       "num": 68672,
       "word": "王梦洁",
       "onboard_time": 1664629944,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 61844,
+      "num": 61844,
+      "word": "国家体育总局向中国女篮致贺信",
+      "onboard_time": 1664650753,
       "rank": 35,
       "category": "体育"
     },
@@ -355,6 +371,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53551,
+      "num": 53551,
+      "word": "女篮挺进决赛姚明场边笑开花",
+      "onboard_time": 1664654831,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 47262,
+      "num": 47262,
+      "word": "小小姐们",
+      "onboard_time": 1664666417,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 46406,
+      "num": 46406,
+      "word": "喀纳斯的秋天晨雾有多美",
+      "onboard_time": 1664665816,
+      "rank": 33,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 45344,
       "num": 45344,
       "word": "女生90多张卖萌自拍错发班级群",
@@ -368,14 +408,6 @@
       "word": "水晶宫vs切尔西",
       "onboard_time": 1664637805,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 43307,
-      "num": 43307,
-      "word": "国家体育总局向中国女篮致贺信",
-      "onboard_time": 1664650753,
-      "rank": 35,
       "category": "体育"
     },
     {
@@ -419,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32247,
+      "num": 32247,
+      "word": "中国人为什么喜欢龙",
+      "onboard_time": 1664619079,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 31980,
       "num": 31980,
       "word": "李一桐金瀚新剧陷入恋爱循环",
@@ -427,20 +467,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 29485,
-      "num": 29485,
-      "word": "女篮挺进决赛姚明场边笑开花",
-      "onboard_time": 1664654831,
-      "rank": 40,
+      "raw_hot": 30250,
+      "num": 30250,
+      "word": "日本一赛事主办方下跪15秒道歉",
+      "onboard_time": 1664666717,
+      "rank": 41,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 28760,
+      "num": 28760,
+      "word": "2022女排世锦赛",
+      "onboard_time": 1664666596,
+      "rank": 43,
       "category": "体育"
     },
     {
-      "raw_hot": 18357,
-      "num": 18357,
-      "word": "中国人为什么喜欢龙",
-      "onboard_time": 1664619079,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 23325,
+      "num": 23325,
+      "word": "央视专访钱七虎",
+      "onboard_time": 1664665273,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16991,
