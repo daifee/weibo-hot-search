@@ -1,10 +1,10 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664609377396,
+  "endTime": 1664610264169,
   "band_list": [
     {
-      "raw_hot": 7614102,
-      "num": 7614102,
+      "raw_hot": 7944963,
+      "num": 7944963,
       "word": "中国女篮vs美国女篮",
       "onboard_time": 1664603001,
       "rank": 0,
@@ -35,11 +35,19 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1357571,
-      "num": 1357571,
+      "raw_hot": 1379119,
+      "num": 1379119,
       "word": "姚明笑了",
       "onboard_time": 1664597421,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1257414,
+      "num": 1257414,
+      "word": "中国女篮值得千万奖金",
+      "onboard_time": 1664607505,
+      "rank": 17,
       "category": "体育"
     },
     {
@@ -123,11 +131,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 854227,
-      "num": 854227,
-      "word": "中国女篮值得千万奖金",
-      "onboard_time": 1664607505,
-      "rank": 17,
+      "raw_hot": 798397,
+      "num": 798397,
+      "word": "王思雨 牛",
+      "onboard_time": 1664606965,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -155,14 +163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 662664,
-      "num": 662664,
-      "word": "王思雨 牛",
-      "onboard_time": 1664606965,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 640049,
       "num": 195676,
       "word": "租客退房留下2猫1狗1鸡",
@@ -187,8 +187,8 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 522506,
-      "num": 522506,
+      "raw_hot": 533981,
+      "num": 533981,
       "word": "狗狗打翻白酒偷尝后醉倒不起",
       "onboard_time": 1664605823,
       "rank": 7,
@@ -219,12 +219,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 423058,
+      "num": 399841,
+      "word": "女生90多张卖萌自拍错发班级群",
+      "onboard_time": 1664608585,
+      "rank": 17,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 409936,
       "num": 409936,
       "word": "柬埔寨载中国人沉船事故涉人口贩卖",
       "onboard_time": 1664564952,
       "rank": 26,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 403804,
+      "num": 403804,
+      "word": "中国女篮半场落后10分",
+      "onboard_time": 1664607865,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 395023,
@@ -241,6 +257,14 @@
       "onboard_time": 1664580379,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 388948,
+      "num": 388948,
+      "word": "婆婆自学用1年为儿媳做传统凤冠",
+      "onboard_time": 1664608647,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 368722,
@@ -329,14 +353,6 @@
       "onboard_time": 1664543785,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 275018,
-      "num": 275018,
-      "word": "中国女篮半场落后10分",
-      "onboard_time": 1664607865,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 274717,
@@ -467,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227187,
+      "num": 227187,
+      "word": "刘波刘海留疤",
+      "onboard_time": 1664609185,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216741,
       "num": 216741,
       "word": "国庆假期第一天",
@@ -475,12 +499,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 211478,
-      "num": 211478,
-      "word": "女生90多张卖萌自拍错发班级群",
-      "onboard_time": 1664608585,
-      "rank": 17,
-      "category": "社会新闻,教育"
+      "raw_hot": 205470,
+      "num": 205470,
+      "word": "跟21.8万人一起看升旗是啥体验",
+      "onboard_time": 1664606241,
+      "rank": 18,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 203839,
@@ -507,14 +531,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 196984,
-      "num": 196984,
-      "word": "跟21.8万人一起看升旗是啥体验",
-      "onboard_time": 1664606241,
-      "rank": 18,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 194751,
       "num": 194751,
       "word": "电动车起火烧毁近30万元购房款",
@@ -539,8 +555,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 187556,
-      "num": 1147766,
+      "raw_hot": 189174,
+      "num": 1293074,
       "word": "亲爱的祖国生日快乐",
       "onboard_time": 1664601921,
       "rank": 2,
@@ -569,6 +585,14 @@
       "onboard_time": 1664606004,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174030,
+      "num": 174030,
+      "word": "张国伟是现实版段宇成吧",
+      "onboard_time": 1664607865,
+      "rank": 22,
+      "category": "体育,影视"
     },
     {
       "raw_hot": 172807,
@@ -611,12 +635,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 156895,
-      "num": 156895,
-      "word": "张国伟是现实版段宇成吧",
-      "onboard_time": 1664607865,
-      "rank": 22,
-      "category": "体育,影视"
+      "raw_hot": 155593,
+      "num": 155593,
+      "word": "中国女篮状态",
+      "onboard_time": 1664608767,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 155307,
@@ -625,14 +649,6 @@
       "onboard_time": 1664560632,
       "rank": 29,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 151399,
-      "num": 151399,
-      "word": "婆婆自学用1年为儿媳做传统凤冠",
-      "onboard_time": 1664608647,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147627,
@@ -675,6 +691,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 133681,
+      "num": 133681,
+      "word": "万里归途 后劲",
+      "onboard_time": 1664610085,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 126713,
       "num": 126713,
       "word": "90后小伙跨83城拍美丽中国",
@@ -697,6 +721,14 @@
       "onboard_time": 1664547625,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124366,
+      "num": 124366,
+      "word": "女篮 紧张",
+      "onboard_time": 1664609426,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 123688,
@@ -771,14 +803,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 109892,
-      "num": 109892,
-      "word": "中国女篮状态",
-      "onboard_time": 1664608767,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 106643,
       "num": 106643,
       "word": "21岁男子长期熬夜吸出10块血栓",
@@ -792,6 +816,14 @@
       "word": "杨力维助攻",
       "onboard_time": 1664606843,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 104191,
+      "num": 104191,
+      "word": "成都世乒赛团体赛国乒首秀",
+      "onboard_time": 1664607682,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -833,14 +865,6 @@
       "onboard_time": 1664585304,
       "rank": 37,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 94482,
-      "num": 94482,
-      "word": "刘波刘海留疤",
-      "onboard_time": 1664609185,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 92591,
@@ -897,14 +921,6 @@
       "onboard_time": 1664593581,
       "rank": 38,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 77482,
-      "num": 77482,
-      "word": "成都世乒赛团体赛国乒首秀",
-      "onboard_time": 1664607682,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 76397,
