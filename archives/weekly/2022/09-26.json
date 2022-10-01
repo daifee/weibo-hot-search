@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664620032952,
+  "endTime": 1664621111301,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -1659,6 +1659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 637510,
+      "num": 637510,
+      "word": "国庆晚会",
+      "onboard_time": 1664620281,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 636647,
       "num": 636647,
       "word": "男子网恋奔现后发现对象已当外婆",
@@ -2217,6 +2225,14 @@
       "onboard_time": 1664447964,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 520500,
+      "num": 373794,
+      "word": "一感染者曾因弹窗藏在代驾车内躲避检查",
+      "onboard_time": 1664619682,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 516318,
@@ -2843,6 +2859,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 425615,
+      "num": 371750,
+      "word": "李冰冰所有情绪都在眼睛里",
+      "onboard_time": 1664616982,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 425074,
       "num": 425074,
       "word": "店主着急送孩子误把顾客锁店里",
@@ -3347,14 +3371,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 370952,
-      "num": 370952,
-      "word": "李冰冰所有情绪都在眼睛里",
-      "onboard_time": 1664616982,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 370021,
       "num": 370021,
       "word": "张新成周雨彤新剧二搭",
@@ -3393,6 +3409,14 @@
       "onboard_time": 1664609185,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 367703,
+      "num": 367703,
+      "word": "大爷将乌龟当枕头躺江边熟睡",
+      "onboard_time": 1664619620,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 367184,
@@ -4353,6 +4377,14 @@
       "onboard_time": 1664325627,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269681,
+      "num": 269681,
+      "word": "中国人为什么喜欢龙",
+      "onboard_time": 1664619079,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 269503,
@@ -6051,6 +6083,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 188431,
+      "num": 188431,
+      "word": "国乒男团世乒赛开门红",
+      "onboard_time": 1664618662,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187565,
       "num": 187565,
       "word": "王鹤棣新闻当事人专访",
@@ -6073,14 +6113,6 @@
       "onboard_time": 1664612242,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 185938,
-      "num": 185938,
-      "word": "国乒男团世乒赛开门红",
-      "onboard_time": 1664618662,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 185343,
@@ -6209,6 +6241,14 @@
       "onboard_time": 1664255068,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180933,
+      "num": 180933,
+      "word": "大头儿子致敬中国航天",
+      "onboard_time": 1664619142,
+      "rank": 32,
+      "category": "动漫"
     },
     {
       "raw_hot": 180864,
@@ -6625,14 +6665,6 @@
       "onboard_time": 1664237306,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 165119,
-      "num": 165119,
-      "word": "中国人为什么喜欢龙",
-      "onboard_time": 1664619079,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 164491,
@@ -7643,6 +7675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131346,
+      "num": 131346,
+      "word": "外公床头抠洞塞钱2年存了3万多",
+      "onboard_time": 1664620463,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131336,
       "num": 131336,
       "word": "外卖小哥飞奔跳井救起3岁男童",
@@ -8097,6 +8137,14 @@
       "onboard_time": 1664511686,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 118946,
+      "num": 118946,
+      "word": "一人居家隔离擅自外出被转自费集中隔离",
+      "onboard_time": 1664620160,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118721,
@@ -8795,14 +8843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 92792,
-      "num": 92792,
-      "word": "大爷将乌龟当枕头躺江边熟睡",
-      "onboard_time": 1664619620,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 92591,
       "num": 92591,
       "word": "今天发条微博祝福祖国",
@@ -8931,14 +8971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 88393,
-      "num": 88393,
-      "word": "大头儿子致敬中国航天",
-      "onboard_time": 1664619142,
-      "rank": 32,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 88327,
       "num": 88327,
       "word": "湖人媒体日",
@@ -8961,14 +8993,6 @@
       "onboard_time": 1664341226,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 87955,
-      "num": 87955,
-      "word": "一感染者曾因弹窗藏在代驾车内躲避检查",
-      "onboard_time": 1664619682,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 87741,
@@ -9617,6 +9641,14 @@
       "onboard_time": 1664581280,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59536,
+      "num": 59536,
+      "word": "乘警觉察2妇女可疑救下被拐男婴",
+      "onboard_time": 1664620882,
+      "rank": 39,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 59530,

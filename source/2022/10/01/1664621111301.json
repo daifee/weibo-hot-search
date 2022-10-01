@@ -1,0 +1,410 @@
+{
+  "runTime": 1664621111301,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1280783,
+        "num": 1280783,
+        "word": "女篮世界杯亚军",
+        "onboard_time": 1664610568,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 850436,
+        "num": 850436,
+        "word": "中国女篮vs美国女篮",
+        "onboard_time": 1664603001,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132463,
+        "num": 720849,
+        "word": "亲爱的祖国生日快乐",
+        "onboard_time": 1664601921,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 715117,
+        "num": 715117,
+        "word": "李一桐金瀚新剧陷入恋爱循环",
+        "onboard_time": 1664614641,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 663717,
+        "num": 663717,
+        "word": "杨舒予 集训",
+        "onboard_time": 1664611944,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 979010,
+        "num": 661932,
+        "word": "少爷和我",
+        "onboard_time": 1664604800,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 637510,
+        "num": 637510,
+        "word": "国庆晚会",
+        "onboard_time": 1664620281,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 529880,
+        "num": 529880,
+        "word": "女生90多张卖萌自拍错发班级群",
+        "onboard_time": 1664608585,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 399217,
+        "num": 399217,
+        "word": "婆婆自学用1年为儿媳做传统凤冠",
+        "onboard_time": 1664608647,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375596,
+        "num": 375596,
+        "word": "95后外卖员帮设计反诈餐巾纸",
+        "onboard_time": 1664615963,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520500,
+        "num": 373794,
+        "word": "一感染者曾因弹窗藏在代驾车内躲避检查",
+        "onboard_time": 1664619682,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425615,
+        "num": 371750,
+        "word": "李冰冰所有情绪都在眼睛里",
+        "onboard_time": 1664616982,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 367703,
+        "num": 367703,
+        "word": "大爷将乌龟当枕头躺江边熟睡",
+        "onboard_time": 1664619620,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330302,
+        "num": 330302,
+        "word": "隋菲菲",
+        "onboard_time": 1664616621,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289875,
+        "num": 289875,
+        "word": "万里归途 后劲",
+        "onboard_time": 1664610085,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269681,
+        "num": 269681,
+        "word": "中国人为什么喜欢龙",
+        "onboard_time": 1664619079,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226480,
+        "num": 226480,
+        "word": "她患癌后依然登台指挥",
+        "onboard_time": 1664615063,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216868,
+        "num": 216868,
+        "word": "狗狗打翻白酒偷尝后醉倒不起",
+        "onboard_time": 1664605823,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206954,
+        "num": 206954,
+        "word": "海天味业回应酱油添加剂争议",
+        "onboard_time": 1664603360,
+        "rank": 18,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 188431,
+        "num": 188431,
+        "word": "国乒男团世乒赛开门红",
+        "onboard_time": 1664618662,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209915,
+        "num": 187737,
+        "word": "万里归途32万6713步",
+        "onboard_time": 1664611464,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208867,
+        "num": 185243,
+        "word": "于和伟触碰不了喜剧大赛的逆鳞",
+        "onboard_time": 1664611345,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180933,
+        "num": 180933,
+        "word": "大头儿子致敬中国航天",
+        "onboard_time": 1664619142,
+        "rank": 22,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 176375,
+        "num": 176375,
+        "word": "中国女篮值得千万奖金",
+        "onboard_time": 1664607505,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165453,
+        "num": 165453,
+        "word": "刘波刘海留疤",
+        "onboard_time": 1664609185,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137722,
+        "num": 137722,
+        "word": "志愿军战士在天安门庆国庆珍贵画面",
+        "onboard_time": 1664615300,
+        "rank": 25,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 131346,
+        "num": 131346,
+        "word": "外公床头抠洞塞钱2年存了3万多",
+        "onboard_time": 1664620463,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131147,
+        "num": 131147,
+        "word": "姚明笑了",
+        "onboard_time": 1664597421,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125797,
+        "num": 125797,
+        "word": "iPhone6被苹果列入过时产品",
+        "onboard_time": 1664583081,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 118946,
+        "num": 118946,
+        "word": "一人居家隔离擅自外出被转自费集中隔离",
+        "onboard_time": 1664620160,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105219,
+        "num": 105219,
+        "word": "北京丰台新划定3个高风险区",
+        "onboard_time": 1664612242,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93461,
+        "num": 93461,
+        "word": "苏打绿正式取得名字商标权",
+        "onboard_time": 1664598261,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90630,
+        "num": 90630,
+        "word": "张译演技",
+        "onboard_time": 1664597601,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 88020,
+        "num": 88020,
+        "word": "钱七虎院士已捐助584位贫困生",
+        "onboard_time": 1664611107,
+        "rank": 33,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 76751,
+        "num": 76751,
+        "word": "北京丰台新增1例本土感染者为货车司机",
+        "onboard_time": 1664615542,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75469,
+        "num": 75469,
+        "word": "刺猬头卡饮料杯路过男子脚踩拔出",
+        "onboard_time": 1664604202,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68807,
+        "num": 68807,
+        "word": "中国女篮追平历史最好成绩",
+        "onboard_time": 1664613444,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68118,
+        "num": 68118,
+        "word": "张国伟是现实版段宇成吧",
+        "onboard_time": 1664607865,
+        "rank": 37,
+        "category": "体育,影视"
+      },
+      {
+        "raw_hot": 64768,
+        "num": 64768,
+        "word": "成都假期带张嘴就够了",
+        "onboard_time": 1664604800,
+        "rank": 38,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 59536,
+        "num": 59536,
+        "word": "乘警觉察2妇女可疑救下被拐男婴",
+        "onboard_time": 1664620882,
+        "rank": 39,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 56079,
+        "num": 56079,
+        "word": "殷桃说王俊凯是很专注的演员",
+        "onboard_time": 1664603960,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 55565,
+        "num": 55565,
+        "word": "跟21.8万人一起看升旗是啥体验",
+        "onboard_time": 1664606241,
+        "rank": 41,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 53933,
+        "num": 53933,
+        "word": "女子跳河救起男童才想起不会游泳",
+        "onboard_time": 1664597841,
+        "rank": 42,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 52522,
+        "num": 52522,
+        "word": "万里归途",
+        "onboard_time": 1664541924,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 50376,
+        "num": 50376,
+        "word": "王思雨 牛",
+        "onboard_time": 1664606965,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50061,
+        "num": 50061,
+        "word": "国考",
+        "onboard_time": 1664597660,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 48620,
+        "num": 48620,
+        "word": "国庆文案",
+        "onboard_time": 1664598202,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 44987,
+        "num": 44987,
+        "word": "济南新增本土确诊病例1例",
+        "onboard_time": 1664597542,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41354,
+        "num": 41354,
+        "word": "女篮姑娘拼到最后一秒",
+        "onboard_time": 1664610688,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41152,
+        "num": 41152,
+        "word": "中国女篮解说",
+        "onboard_time": 1664606664,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#庆祝新中国成立73周年#"
+    }
+  }
+}
