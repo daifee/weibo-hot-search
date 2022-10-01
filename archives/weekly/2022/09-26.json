@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664607613124,
+  "endTime": 1664609377396,
   "band_list": [
     {
       "raw_hot": 7614102,
@@ -819,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1035062,
+      "num": 1035062,
+      "word": "中国女篮解说",
+      "onboard_time": 1664606664,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1029883,
       "num": 1029883,
       "word": "东北农嫂",
@@ -868,7 +876,7 @@
     },
     {
       "raw_hot": 984185,
-      "num": 672903,
+      "num": 798019,
       "word": "少爷和我",
       "onboard_time": 1664604800,
       "rank": 5,
@@ -1065,6 +1073,14 @@
       "onboard_time": 1664369426,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 854227,
+      "num": 854227,
+      "word": "中国女篮值得千万奖金",
+      "onboard_time": 1664607505,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 849944,
@@ -1521,6 +1537,14 @@
       "onboard_time": 1664502682,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 662664,
+      "num": 662664,
+      "word": "王思雨 牛",
+      "onboard_time": 1664606965,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 661136,
@@ -2147,6 +2171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 522506,
+      "num": 522506,
+      "word": "狗狗打翻白酒偷尝后醉倒不起",
+      "onboard_time": 1664605823,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 516318,
       "num": 372084,
       "word": "当男生用上了卫生巾",
@@ -2369,14 +2401,6 @@
       "onboard_time": 1664172502,
       "rank": 21,
       "category": "科技"
-    },
-    {
-      "raw_hot": 490252,
-      "num": 490252,
-      "word": "中国女篮解说",
-      "onboard_time": 1664606664,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 489925,
@@ -2732,7 +2756,7 @@
     },
     {
       "raw_hot": 432405,
-      "num": 310892,
+      "num": 337046,
       "word": "殷桃说王俊凯是很专注的演员",
       "onboard_time": 1664603960,
       "rank": 28,
@@ -2865,14 +2889,6 @@
       "onboard_time": 1664340086,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 410520,
-      "num": 410520,
-      "word": "狗狗打翻白酒偷尝后醉倒不起",
-      "onboard_time": 1664605823,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 410303,
@@ -4147,6 +4163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 275018,
+      "num": 275018,
+      "word": "中国女篮半场落后10分",
+      "onboard_time": 1664607865,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 274776,
       "num": 274776,
       "word": "孟川说李诞的腹肌是虾线",
@@ -5395,12 +5419,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 210892,
-      "num": 210892,
-      "word": "中国女篮值得千万奖金",
-      "onboard_time": 1664607505,
+      "raw_hot": 211478,
+      "num": 211478,
+      "word": "女生90多张卖萌自拍错发班级群",
+      "onboard_time": 1664608585,
       "rank": 17,
-      "category": "体育"
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 210759,
@@ -5691,6 +5715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 196984,
+      "num": 196984,
+      "word": "跟21.8万人一起看升旗是啥体验",
+      "onboard_time": 1664606241,
+      "rank": 18,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 196604,
       "num": 196604,
       "word": "周深查户口式聊天",
@@ -5907,20 +5939,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 187556,
+      "num": 1147766,
+      "word": "亲爱的祖国生日快乐",
+      "onboard_time": 1664601921,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 186715,
       "num": 186715,
       "word": "任贤齐哽咽",
       "onboard_time": 1664527344,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 185836,
-      "num": 185836,
-      "word": "跟21.8万人一起看升旗是啥体验",
-      "onboard_time": 1664606241,
-      "rank": 18,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 185343,
@@ -6275,6 +6307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172807,
+      "num": 172807,
+      "word": "成都假期带张嘴就够了",
+      "onboard_time": 1664604800,
+      "rank": 23,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 172270,
       "num": 172270,
       "word": "张彬彬晒庄羽回程机票求原谅",
@@ -6345,14 +6385,6 @@
       "onboard_time": 1664534962,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 168041,
-      "num": 1147766,
-      "word": "亲爱的祖国生日快乐",
-      "onboard_time": 1664601921,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 167980,
@@ -6723,6 +6755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156895,
+      "num": 156895,
+      "word": "张国伟是现实版段宇成吧",
+      "onboard_time": 1664607865,
+      "rank": 22,
+      "category": "体育,影视"
+    },
+    {
       "raw_hot": 156217,
       "num": 156217,
       "word": "范世錡朱嘉琦新浪扫楼",
@@ -6867,6 +6907,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 151399,
+      "num": 151399,
+      "word": "婆婆自学用1年为儿媳做传统凤冠",
+      "onboard_time": 1664608647,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151037,
       "num": 151037,
       "word": "想看盛阳简冰",
@@ -6985,14 +7033,6 @@
       "onboard_time": 1664245704,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146887,
-      "num": 146887,
-      "word": "成都假期带张嘴就够了",
-      "onboard_time": 1664604800,
-      "rank": 23,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 146330,
@@ -7691,6 +7731,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 124731,
+      "num": 124731,
+      "word": "女篮太帅了",
+      "onboard_time": 1664608647,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124421,
       "num": 121246,
       "word": "周博文撞见爸妈接吻",
@@ -7979,14 +8027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 116177,
-      "num": 116177,
-      "word": "王思雨 牛",
-      "onboard_time": 1664606965,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 115702,
       "num": 115702,
       "word": "从走路就能看出狗狗的热情",
@@ -8137,6 +8177,14 @@
       "onboard_time": 1664150487,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 109892,
+      "num": 109892,
+      "word": "中国女篮状态",
+      "onboard_time": 1664608767,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 109404,
@@ -8521,6 +8569,14 @@
       "onboard_time": 1664585304,
       "rank": 37,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 94482,
+      "num": 94482,
+      "word": "刘波刘海留疤",
+      "onboard_time": 1664609185,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 94086,
@@ -9019,6 +9075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 77482,
+      "num": 77482,
+      "word": "成都世乒赛团体赛国乒首秀",
+      "onboard_time": 1664607682,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76846,
       "num": 76846,
       "word": "人类第一个行星防御任务",
@@ -9281,6 +9345,14 @@
       "onboard_time": 1664434823,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 64640,
+      "num": 64640,
+      "word": "影视作品中的孤勇者",
+      "onboard_time": 1664608284,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 64286,
