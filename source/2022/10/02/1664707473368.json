@@ -1,0 +1,410 @@
+{
+  "runTime": 1664707473368,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1419775,
+        "num": 1419775,
+        "word": "研究发现3亿年后太平洋将消失",
+        "onboard_time": 1664703323,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1171571,
+        "num": 1171571,
+        "word": "18岁奥运冠军被保送至浙大",
+        "onboard_time": 1664701640,
+        "rank": 1,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 20018,
+        "num": 1025422,
+        "word": "新时代 我在中国",
+        "onboard_time": 1664680822,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1377560,
+        "num": 1024287,
+        "word": "23岁女孩吃网红药意识混乱险丧命",
+        "onboard_time": 1664702722,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 999838,
+        "num": 999838,
+        "word": "医生隔着妈妈肚皮将宝宝调了个头",
+        "onboard_time": 1664704460,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 792657,
+        "num": 792657,
+        "word": "男生换宿舍后发现地板下暗藏地道",
+        "onboard_time": 1664700983,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 587932,
+        "num": 587932,
+        "word": "李一桐说和金瀚的吻戏只是工具吻",
+        "onboard_time": 1664703504,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 556970,
+        "num": 556970,
+        "word": "小伙出差住酒店被安排住进婚房",
+        "onboard_time": 1664696482,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435465,
+        "num": 435465,
+        "word": "1岁娃玩药粉妈妈帮清洗全被染紫",
+        "onboard_time": 1664705124,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328428,
+        "num": 328428,
+        "word": "7省将现37℃以上高温",
+        "onboard_time": 1664687724,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502153,
+        "num": 319379,
+        "word": "天津地震",
+        "onboard_time": 1664699721,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471133,
+        "num": 305300,
+        "word": "刘强东回应明州事件",
+        "onboard_time": 1664692462,
+        "rank": 11,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 289332,
+        "num": 289332,
+        "word": "花700买虎皮犬回家发现是染色狗",
+        "onboard_time": 1664695642,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256402,
+        "num": 256402,
+        "word": "一代灵后开播",
+        "onboard_time": 1664701826,
+        "rank": 13,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 246530,
+        "num": 246530,
+        "word": "布林肯称北溪管道遭破坏是巨大机遇",
+        "onboard_time": 1664697921,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 225479,
+        "num": 225479,
+        "word": "荷园惊现福寿螺竟因市民放生祈福",
+        "onboard_time": 1664696602,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224184,
+        "num": 224184,
+        "word": "印尼严重球迷冲突已致129死180伤",
+        "onboard_time": 1664700803,
+        "rank": 16,
+        "category": "社会负面,体育"
+      },
+      {
+        "raw_hot": 223473,
+        "num": 223473,
+        "word": "殷桃一秒入戏青筋暴起",
+        "onboard_time": 1664690663,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 215211,
+        "num": 215211,
+        "word": "华春莹推特连发12组对比图",
+        "onboard_time": 1664686579,
+        "rank": 18,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 193518,
+        "num": 193518,
+        "word": "电影万里归途豆瓣7.6分",
+        "onboard_time": 1664685140,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1130905,
+        "num": 192730,
+        "word": "刘强东向章泽天致歉",
+        "onboard_time": 1664689642,
+        "rank": 20,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 186687,
+        "num": 186687,
+        "word": "小羊身怀绝技学狗叫吓懵同伴",
+        "onboard_time": 1664703082,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179540,
+        "num": 179540,
+        "word": "幼童被困5楼近40人拉起防护网",
+        "onboard_time": 1664699964,
+        "rank": 22,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 175572,
+        "num": 175572,
+        "word": "当你年少时",
+        "onboard_time": 1664706742,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164999,
+        "num": 164999,
+        "word": "中国女团vs波多黎各女团",
+        "onboard_time": 1664698400,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149345,
+        "num": 149345,
+        "word": "中央气象台发布史上最早寒潮预警",
+        "onboard_time": 1664692342,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148436,
+        "num": 148436,
+        "word": "刘强东明州事件双方以和解终结",
+        "onboard_time": 1664686223,
+        "rank": 26,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 147716,
+        "num": 147716,
+        "word": "老鼠站门框与狗僵持对峙6小时",
+        "onboard_time": 1664690364,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145356,
+        "num": 145356,
+        "word": "北溪管道泄漏将产生灾难性影响",
+        "onboard_time": 1664706682,
+        "rank": 28,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 145100,
+        "num": 145100,
+        "word": "赞多这就是街舞预告",
+        "onboard_time": 1664705423,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144990,
+        "num": 144990,
+        "word": "坐个过山车也要这么多戏吗",
+        "onboard_time": 1664704583,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126609,
+        "num": 126609,
+        "word": "张睿梁山伯扮相",
+        "onboard_time": 1664698224,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117180,
+        "num": 117180,
+        "word": "袁姗姗最美中国戏红娘造型",
+        "onboard_time": 1664684602,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 105057,
+        "num": 105057,
+        "word": "13岁重庆少年3年升国旗100多次",
+        "onboard_time": 1664700444,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104460,
+        "num": 104460,
+        "word": "万里归途中的隐藏知识点",
+        "onboard_time": 1664704825,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 101586,
+        "num": 101586,
+        "word": "杨坤马嘉祺组合名",
+        "onboard_time": 1664695041,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92444,
+        "num": 92444,
+        "word": "拿捏懒人的咖啡芝士蛋糕",
+        "onboard_time": 1664699423,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 88476,
+        "num": 88476,
+        "word": "这对金丝猴是被安了磁铁吗",
+        "onboard_time": 1664705963,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79533,
+        "num": 79533,
+        "word": "苏翊鸣首次完成自创新动作",
+        "onboard_time": 1664696781,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77639,
+        "num": 77639,
+        "word": "陈梦3比0里奥斯",
+        "onboard_time": 1664704583,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74997,
+        "num": 74997,
+        "word": "陈哲远说萧无敌心动的样子好不值钱",
+        "onboard_time": 1664704280,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 74273,
+        "num": 74273,
+        "word": "戏剧学院军训生齐秀一字马",
+        "onboard_time": 1664701462,
+        "rank": 41,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 73166,
+        "num": 73166,
+        "word": "gidle概念预告照",
+        "onboard_time": 1664684002,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 72509,
+        "num": 72509,
+        "word": "新神榜杨戬票房破5亿",
+        "onboard_time": 1664690663,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 72040,
+        "num": 72040,
+        "word": "患白血病男孩7年后捐268万善款",
+        "onboard_time": 1664689826,
+        "rank": 44,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 71089,
+        "num": 71089,
+        "word": "北京丰台新增一本土感染者",
+        "onboard_time": 1664699541,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66512,
+        "num": 66512,
+        "word": "熊猫宝宝旱地游泳有多拼",
+        "onboard_time": 1664704224,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66013,
+        "num": 66013,
+        "word": "原来兔子掉毛这么夸张",
+        "onboard_time": 1664707342,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 62538,
+        "num": 62538,
+        "word": "成年人最崩溃的瞬间是什么",
+        "onboard_time": 1664685863,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57927,
+        "num": 57927,
+        "word": "罗一舟关晓彤同框",
+        "onboard_time": 1664707463,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#同心向党我来说#"
+    }
+  }
+}
