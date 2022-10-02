@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1664746839803,
+  "endTime": 1664749502364,
   "band_list": [
     {
       "raw_hot": 1447248,
@@ -243,6 +243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 113392,
+      "num": 69754,
+      "word": "老师婚期临近62名学生偷偷送惊喜",
+      "onboard_time": 1664743991,
+      "rank": 24,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 106181,
       "num": 106181,
       "word": "故宫高清壁纸上新",
@@ -363,6 +371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 57603,
+      "num": 57603,
+      "word": "男子公园跳街舞被小孩指着说神经",
+      "onboard_time": 1664737932,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53010,
       "num": 53010,
       "word": "父母旅游时的主要区别",
@@ -395,14 +411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 44476,
-      "num": 34292,
-      "word": "男子公园跳街舞被小孩指着说神经",
-      "onboard_time": 1664737932,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 42110,
       "num": 34907,
       "word": "尼日利亚考虑买C919",
@@ -419,20 +427,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 30660,
-      "num": 30660,
-      "word": "老师婚期临近62名学生偷偷送惊喜",
-      "onboard_time": 1664743991,
-      "rank": 24,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 28713,
-      "num": 28713,
+      "raw_hot": 35727,
+      "num": 35727,
       "word": "2022年诺贝尔奖10月3日起陆续揭晓",
       "onboard_time": 1664740090,
       "rank": 18,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 30253,
+      "num": 30253,
+      "word": "熊猫被秋困冲昏了头脑",
+      "onboard_time": 1664746510,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28559,
@@ -443,16 +451,24 @@
       "category": "影视"
     },
     {
-      "raw_hot": 13559,
-      "num": 13559,
+      "raw_hot": 25991,
+      "num": 25991,
+      "word": "关晓彤话剧舞台饰演秦怡",
+      "onboard_time": 1664745250,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 22784,
+      "num": 22784,
       "word": "曾就读清华的90后飞行员夺金头盔",
       "onboard_time": 1664740510,
       "rank": 47,
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 10690,
-      "num": 10690,
+      "raw_hot": 10818,
+      "num": 10818,
       "word": "国庆假期郊区旅游约占36%",
       "onboard_time": 1664739551,
       "rank": 42,
@@ -465,14 +481,6 @@
       "onboard_time": 1664741891,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 8826,
-      "num": 8826,
-      "word": "关晓彤话剧舞台饰演秦怡",
-      "onboard_time": 1664745250,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 7745,
@@ -505,14 +513,6 @@
       "onboard_time": 1664743151,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 5314,
-      "num": 5314,
-      "word": "熊猫被秋困冲昏了头脑",
-      "onboard_time": 1664746510,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 5286,
