@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664709668154,
+  "endTime": 1664710757143,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -27,6 +27,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 3014061,
+      "num": 3014061,
+      "word": "糊但好看的剧",
+      "onboard_time": 1664707524,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2800744,
       "num": 2800744,
       "word": "7省将现37℃以上高温",
@@ -49,14 +57,6 @@
       "onboard_time": 1664610568,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2616534,
-      "num": 2616534,
-      "word": "糊但好看的剧",
-      "onboard_time": 1664707524,
-      "rank": 0,
-      "category": "影视"
     },
     {
       "raw_hot": 2341878,
@@ -355,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 847188,
+      "num": 847188,
+      "word": "北溪管道泄漏将产生灾难性影响",
+      "onboard_time": 1664706682,
+      "rank": 28,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 821733,
       "num": 366091,
       "word": "华春莹推特连发12组对比图",
@@ -427,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 715976,
+      "num": 366941,
+      "word": "罗一舟关晓彤同框",
+      "onboard_time": 1664707463,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 715558,
       "num": 271708,
       "word": "苹果副总裁因发表低俗言论离职",
@@ -452,7 +468,7 @@
     },
     {
       "raw_hot": 699201,
-      "num": 319387,
+      "num": 366146,
       "word": "刘强东回应明州事件",
       "onboard_time": 1664692462,
       "rank": 41,
@@ -507,14 +523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 651158,
-      "num": 281500,
-      "word": "北溪管道泄漏将产生灾难性影响",
-      "onboard_time": 1664706682,
-      "rank": 28,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 640049,
       "num": 195676,
       "word": "租客退房留下2猫1狗1鸡",
@@ -537,14 +545,6 @@
       "onboard_time": 1664672360,
       "rank": 1,
       "category": "军事,国外要闻"
-    },
-    {
-      "raw_hot": 616925,
-      "num": 277489,
-      "word": "罗一舟关晓彤同框",
-      "onboard_time": 1664707463,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 615037,
@@ -603,8 +603,8 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 552230,
-      "num": 552230,
+      "raw_hot": 552288,
+      "num": 552288,
       "word": "1岁娃玩药粉妈妈帮清洗全被染紫",
       "onboard_time": 1664705124,
       "rank": 18,
@@ -737,6 +737,14 @@
       "onboard_time": 1664573532,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 451056,
+      "num": 451056,
+      "word": "虞书欣小森林重新定义渣男",
+      "onboard_time": 1664709682,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 439969,
@@ -899,6 +907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 368867,
+      "num": 368867,
+      "word": "原来兔子掉毛这么夸张",
+      "onboard_time": 1664707342,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 368722,
       "num": 368722,
       "word": "2岁娃手脏着急说婴语老师盲猜",
@@ -1059,14 +1075,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 312593,
-      "num": 263626,
-      "word": "原来兔子掉毛这么夸张",
-      "onboard_time": 1664707342,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 308228,
       "num": 308228,
       "word": "8岁女孩压腿轻松超180度",
@@ -1097,6 +1105,14 @@
       "onboard_time": 1664626283,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 292345,
+      "num": 292345,
+      "word": "沈月直播",
+      "onboard_time": 1664709682,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 289402,
@@ -1137,6 +1153,14 @@
       "onboard_time": 1664543785,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 279071,
+      "num": 279071,
+      "word": "万里归途票房破4亿",
+      "onboard_time": 1664710524,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 278328,
@@ -1427,6 +1451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227327,
+      "num": 227327,
+      "word": "我国第四批预备航天员选拔启动",
+      "onboard_time": 1664708424,
+      "rank": 35,
+      "category": "科技,国内要闻"
+    },
+    {
       "raw_hot": 222253,
       "num": 222253,
       "word": "代号大本钟",
@@ -1649,6 +1681,14 @@
       "onboard_time": 1664612242,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185826,
+      "num": 185826,
+      "word": "首次在港澳地区选拔载荷专家",
+      "onboard_time": 1664709983,
+      "rank": 22,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 184180,
@@ -1913,6 +1953,14 @@
       "onboard_time": 1664579899,
       "rank": 28,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 144048,
+      "num": 144048,
+      "word": "唐朝诡事录反转",
+      "onboard_time": 1664708904,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 142668,
@@ -2299,6 +2347,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 104384,
+      "num": 104384,
+      "word": "电缆掉落致堵车夫妻俩托举90分钟",
+      "onboard_time": 1664709805,
+      "rank": 37,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 102791,
+      "num": 102791,
+      "word": "人生大事登顶中国台湾网飞电影榜",
+      "onboard_time": 1664708363,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 102787,
       "num": 102787,
       "word": "李雪健1句台词塑造4个人物",
@@ -2331,12 +2395,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 98815,
-      "num": 98815,
-      "word": "我国第四批预备航天员选拔启动",
-      "onboard_time": 1664708424,
-      "rank": 35,
-      "category": "科技,国内要闻"
+      "raw_hot": 101161,
+      "num": 101161,
+      "word": "这对金丝猴是被安了磁铁吗",
+      "onboard_time": 1664705963,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 98068,
@@ -2345,14 +2409,6 @@
       "onboard_time": 1664699240,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 97605,
-      "num": 97605,
-      "word": "唐朝诡事录反转",
-      "onboard_time": 1664708904,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 97111,
@@ -2379,20 +2435,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 94821,
-      "num": 94821,
-      "word": "人生大事登顶中国台湾网飞电影榜",
-      "onboard_time": 1664708363,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 94490,
       "num": 94490,
       "word": "这是今天的天安门广场",
       "onboard_time": 1664585304,
       "rank": 37,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 94189,
+      "num": 94189,
+      "word": "女孩国庆帮喂猫一周将赚5千",
+      "onboard_time": 1664710344,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94123,
@@ -2403,12 +2459,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 92779,
-      "num": 92779,
-      "word": "这对金丝猴是被安了磁铁吗",
-      "onboard_time": 1664705963,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 93658,
+      "num": 93658,
+      "word": "小伙深夜租叉车帮老人捡气球",
+      "onboard_time": 1664708063,
+      "rank": 41,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 92591,
@@ -2449,6 +2505,14 @@
       "onboard_time": 1664575513,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 89032,
+      "num": 89032,
+      "word": "江苏人从短袖到秋裤可能只需一天",
+      "onboard_time": 1664709743,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 88085,
@@ -2515,6 +2579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83302,
+      "num": 83302,
+      "word": "曼彻斯特德比",
+      "onboard_time": 1664709623,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82902,
       "num": 82902,
       "word": "十二生肖是怎么选出来的",
@@ -2529,14 +2601,6 @@
       "onboard_time": 1664650753,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 79467,
-      "num": 79467,
-      "word": "小伙深夜租叉车帮老人捡气球",
-      "onboard_time": 1664708063,
-      "rank": 41,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 79464,
@@ -2617,6 +2681,14 @@
       "onboard_time": 1664665816,
       "rank": 33,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 70694,
+      "num": 70694,
+      "word": "大爷捡19万现金苦等失主6小时",
+      "onboard_time": 1664710643,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 70452,
@@ -2753,14 +2825,6 @@
       "onboard_time": 1664592923,
       "rank": 44,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 62413,
-      "num": 62413,
-      "word": "曼彻斯特德比",
-      "onboard_time": 1664709623,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 61732,
