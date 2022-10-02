@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664707473368,
+  "endTime": 1664709668154,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -49,6 +49,14 @@
       "onboard_time": 1664610568,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2616534,
+      "num": 2616534,
+      "word": "糊但好看的剧",
+      "onboard_time": 1664707524,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 2341878,
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 1377560,
-      "num": 1024287,
+      "num": 1107762,
       "word": "23岁女孩吃网红药意识混乱险丧命",
       "onboard_time": 1664702722,
       "rank": 49,
@@ -160,6 +168,14 @@
       "word": "外公床头抠洞塞钱2年存了3万多",
       "onboard_time": 1664620463,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1339155,
+      "num": 1339155,
+      "word": "医生隔着妈妈肚皮将宝宝调了个头",
+      "onboard_time": 1664704460,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -273,14 +289,6 @@
       "onboard_time": 1664606664,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 999838,
-      "num": 999838,
-      "word": "医生隔着妈妈肚皮将宝宝调了个头",
-      "onboard_time": 1664704460,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 979963,
@@ -499,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 651158,
+      "num": 281500,
+      "word": "北溪管道泄漏将产生灾难性影响",
+      "onboard_time": 1664706682,
+      "rank": 28,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 640049,
       "num": 195676,
       "word": "租客退房留下2猫1狗1鸡",
@@ -521,6 +537,14 @@
       "onboard_time": 1664672360,
       "rank": 1,
       "category": "军事,国外要闻"
+    },
+    {
+      "raw_hot": 616925,
+      "num": 277489,
+      "word": "罗一舟关晓彤同框",
+      "onboard_time": 1664707463,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 615037,
@@ -577,6 +601,14 @@
       "onboard_time": 1664597841,
       "rank": 9,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 552230,
+      "num": 552230,
+      "word": "1岁娃玩药粉妈妈帮清洗全被染紫",
+      "onboard_time": 1664705124,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 547094,
@@ -713,14 +745,6 @@
       "onboard_time": 1664697921,
       "rank": 16,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 435465,
-      "num": 435465,
-      "word": "1岁娃玩药粉妈妈帮清洗全被染紫",
-      "onboard_time": 1664705124,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 432405,
@@ -1033,6 +1057,14 @@
       "onboard_time": 1664680100,
       "rank": 12,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 312593,
+      "num": 263626,
+      "word": "原来兔子掉毛这么夸张",
+      "onboard_time": 1664707342,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 308228,
@@ -1843,28 +1875,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 147938,
+      "num": 147938,
+      "word": "赞多这就是街舞预告",
+      "onboard_time": 1664705423,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147627,
       "num": 147627,
       "word": "新中国成立73周年",
       "onboard_time": 1664579778,
       "rank": 23,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 145356,
-      "num": 145356,
-      "word": "北溪管道泄漏将产生灾难性影响",
-      "onboard_time": 1664706682,
-      "rank": 28,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 145100,
-      "num": 145100,
-      "word": "赞多这就是街舞预告",
-      "onboard_time": 1664705423,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 145085,
@@ -2001,6 +2025,14 @@
       "onboard_time": 1664613444,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129093,
+      "num": 129093,
+      "word": "中国空间站也发迎新视频了",
+      "onboard_time": 1664709444,
+      "rank": 30,
+      "category": "科技,国内要闻"
     },
     {
       "raw_hot": 127950,
@@ -2299,12 +2331,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98815,
+      "num": 98815,
+      "word": "我国第四批预备航天员选拔启动",
+      "onboard_time": 1664708424,
+      "rank": 35,
+      "category": "科技,国内要闻"
+    },
+    {
       "raw_hot": 98068,
       "num": 98068,
       "word": "消防员演示眨眼间冲上4楼",
       "onboard_time": 1664699240,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97605,
+      "num": 97605,
+      "word": "唐朝诡事录反转",
+      "onboard_time": 1664708904,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 97111,
@@ -2331,6 +2379,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 94821,
+      "num": 94821,
+      "word": "人生大事登顶中国台湾网飞电影榜",
+      "onboard_time": 1664708363,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 94490,
       "num": 94490,
       "word": "这是今天的天安门广场",
@@ -2344,6 +2400,14 @@
       "word": "北京丰台新增1例本土感染者为货车司机",
       "onboard_time": 1664615542,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92779,
+      "num": 92779,
+      "word": "这对金丝猴是被安了磁铁吗",
+      "onboard_time": 1664705963,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -2385,14 +2449,6 @@
       "onboard_time": 1664575513,
       "rank": 44,
       "category": "财经"
-    },
-    {
-      "raw_hot": 88476,
-      "num": 88476,
-      "word": "这对金丝猴是被安了磁铁吗",
-      "onboard_time": 1664705963,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 88085,
@@ -2475,6 +2531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79467,
+      "num": 79467,
+      "word": "小伙深夜租叉车帮老人捡气球",
+      "onboard_time": 1664708063,
+      "rank": 41,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 79464,
       "num": 79464,
       "word": "缓解脖子僵硬的头颈操",
@@ -2496,6 +2560,22 @@
       "word": "万里归途群像",
       "onboard_time": 1664685681,
       "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 77929,
+      "num": 77929,
+      "word": "虽有万里仍在归途",
+      "onboard_time": 1664707524,
+      "rank": 42,
+      "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 76567,
+      "num": 76567,
+      "word": "电影万里归途细节",
+      "onboard_time": 1664708483,
+      "rank": 44,
       "category": "影视"
     },
     {
@@ -2587,14 +2667,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 66013,
-      "num": 66013,
-      "word": "原来兔子掉毛这么夸张",
-      "onboard_time": 1664707342,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 65514,
       "num": 65514,
       "word": "十一假期怎么过",
@@ -2683,6 +2755,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 62413,
+      "num": 62413,
+      "word": "曼彻斯特德比",
+      "onboard_time": 1664709623,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61732,
       "num": 61732,
       "word": "祖国在你身后的安全感有多强",
@@ -2737,14 +2817,6 @@
       "onboard_time": 1664595622,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 57927,
-      "num": 57927,
-      "word": "罗一舟关晓彤同框",
-      "onboard_time": 1664707463,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 57546,
@@ -2892,7 +2964,7 @@
     },
     {
       "raw_hot": 46888,
-      "num": 1025422,
+      "num": 1297796,
       "word": "新时代 我在中国",
       "onboard_time": 1664680822,
       "rank": 2,
