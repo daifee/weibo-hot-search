@@ -1,6 +1,6 @@
 {
   "startTime": 1664642097015,
-  "endTime": 1664685825794,
+  "endTime": 1664686364729,
   "band_list": [
     {
       "raw_hot": 2672770,
@@ -19,12 +19,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1088402,
+      "num": 1088402,
+      "word": "00后女孩成为刑警激动向室友报喜",
+      "onboard_time": 1664682682,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1070622,
       "num": 653412,
       "word": "印尼体育场发生暴力事件已致127人死亡",
       "onboard_time": 1664675122,
       "rank": 3,
       "category": "社会负面,体育"
+    },
+    {
+      "raw_hot": 913603,
+      "num": 913603,
+      "word": "小鬼王琳凯这就是街舞",
+      "onboard_time": 1664682321,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 880822,
@@ -35,27 +51,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 871380,
-      "num": 680857,
-      "word": "小鬼王琳凯这就是街舞",
-      "onboard_time": 1664682321,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 805773,
       "num": 805773,
       "word": "重庆拍到黑熊一家三口林中漫步",
       "onboard_time": 1664641459,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 771565,
-      "num": 771565,
-      "word": "00后女孩成为刑警激动向室友报喜",
-      "onboard_time": 1664682682,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -163,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 454526,
+      "num": 353586,
+      "word": "袁姗姗最美中国戏红娘造型",
+      "onboard_time": 1664684602,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 429372,
       "num": 179784,
       "word": "苹果副总裁因发表低俗言论离职",
@@ -172,11 +180,19 @@
     },
     {
       "raw_hot": 424921,
-      "num": 344899,
+      "num": 353574,
       "word": "gidle概念预告照",
       "onboard_time": 1664684002,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 413579,
+      "num": 413579,
+      "word": "小狗出门都不看路吗",
+      "onboard_time": 1664681542,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 386414,
@@ -187,20 +203,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 358349,
-      "num": 358349,
-      "word": "小狗出门都不看路吗",
-      "onboard_time": 1664681542,
-      "rank": 8,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 345665,
-      "num": 345665,
+      "raw_hot": 354274,
+      "num": 354274,
       "word": "S12提莫登场",
       "onboard_time": 1664681178,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 351358,
+      "num": 351358,
+      "word": "刘强东明州事件双方以和解终结",
+      "onboard_time": 1664686223,
+      "rank": 12,
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 333870,
+      "num": 333870,
+      "word": "女子回老家炖排骨将炕烧成仙境",
+      "onboard_time": 1664683163,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 325734,
@@ -243,14 +267,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 298158,
-      "num": 298158,
-      "word": "女子回老家炖排骨将炕烧成仙境",
-      "onboard_time": 1664683163,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 289402,
       "num": 289402,
       "word": "陈哲远说新剧叫我的好大儿",
@@ -275,12 +291,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 257425,
-      "num": 257425,
-      "word": "袁姗姗最美中国戏红娘造型",
-      "onboard_time": 1664684602,
-      "rank": 16,
-      "category": "作品衍生"
+      "raw_hot": 273806,
+      "num": 273806,
+      "word": "自我满足真的很爽",
+      "onboard_time": 1664682142,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 256135,
@@ -289,14 +305,6 @@
       "onboard_time": 1664682380,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 249686,
-      "num": 249686,
-      "word": "自我满足真的很爽",
-      "onboard_time": 1664682142,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 244320,
@@ -363,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215352,
+      "num": 215352,
+      "word": "孕妇列车分娩现场搭临时产房",
+      "onboard_time": 1664683040,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208788,
       "num": 162398,
       "word": "蒲熠星单手攀岩",
@@ -395,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191134,
+      "num": 191134,
+      "word": "被煎饼果子治好了强迫症",
+      "onboard_time": 1664682861,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 190892,
       "num": 190892,
       "word": "网剧炽道",
@@ -408,14 +432,6 @@
       "word": "外公床头抠洞塞钱2年存了3万多",
       "onboard_time": 1664620463,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 184188,
-      "num": 184188,
-      "word": "孕妇列车分娩现场搭临时产房",
-      "onboard_time": 1664683040,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -433,14 +449,6 @@
       "onboard_time": 1664682920,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 182974,
-      "num": 182974,
-      "word": "被煎饼果子治好了强迫症",
-      "onboard_time": 1664682861,
-      "rank": 24,
-      "category": "美食"
     },
     {
       "raw_hot": 180197,
@@ -467,12 +475,28 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 159711,
+      "num": 159711,
+      "word": "电影万里归途豆瓣7.6分",
+      "onboard_time": 1664685140,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 156849,
       "num": 156849,
       "word": "陈哲远沈月好嗑",
       "onboard_time": 1664629882,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 154851,
+      "num": 154851,
+      "word": "才知道票根可以这样保存",
+      "onboard_time": 1664684722,
+      "rank": 37,
+      "category": "其它"
     },
     {
       "raw_hot": 149282,
@@ -488,6 +512,22 @@
       "word": "万里归途票房破3亿",
       "onboard_time": 1664684722,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 144632,
+      "num": 144632,
+      "word": "一条长江的朋友圈有多美",
+      "onboard_time": 1664684541,
+      "rank": 33,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 144417,
+      "num": 144417,
+      "word": "曾可妮新剧演李一桐闺蜜",
+      "onboard_time": 1664685201,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -515,11 +555,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133193,
-      "num": 133193,
-      "word": "曾可妮新剧演李一桐闺蜜",
-      "onboard_time": 1664685201,
-      "rank": 32,
+      "raw_hot": 131701,
+      "num": 131701,
+      "word": "炽道 上头",
+      "onboard_time": 1664685082,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -563,14 +603,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 125295,
-      "num": 125295,
-      "word": "一条长江的朋友圈有多美",
-      "onboard_time": 1664684541,
-      "rank": 33,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 123621,
       "num": 123621,
       "word": "双方都很委屈的相遇",
@@ -587,8 +619,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 120505,
-      "num": 120505,
+      "raw_hot": 122430,
+      "num": 122430,
+      "word": "提前退休打造自己18000平的海岛庄园",
+      "onboard_time": 1664684663,
+      "rank": 44,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 121556,
+      "num": 121556,
       "word": "老人派出所办理业务后霸气点赞",
       "onboard_time": 1664681420,
       "rank": 35,
@@ -603,20 +643,12 @@
       "category": "动漫,幽默"
     },
     {
-      "raw_hot": 117402,
-      "num": 117402,
-      "word": "才知道票根可以这样保存",
-      "onboard_time": 1664684722,
-      "rank": 37,
-      "category": "其它"
-    },
-    {
-      "raw_hot": 114754,
-      "num": 114754,
-      "word": "电影万里归途豆瓣7.6分",
-      "onboard_time": 1664685140,
-      "rank": 38,
-      "category": "影视"
+      "raw_hot": 118216,
+      "num": 118216,
+      "word": "沸腾校园是大学生相亲大会吧",
+      "onboard_time": 1664685082,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 114676,
@@ -625,14 +657,6 @@
       "onboard_time": 1664636782,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 113652,
-      "num": 113652,
-      "word": "沸腾校园是大学生相亲大会吧",
-      "onboard_time": 1664685082,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 112561,
@@ -675,12 +699,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 90513,
-      "num": 90513,
-      "word": "炽道 上头",
-      "onboard_time": 1664685082,
-      "rank": 43,
-      "category": "影视"
+      "raw_hot": 91566,
+      "num": 91566,
+      "word": "成年人最崩溃的瞬间是什么",
+      "onboard_time": 1664685863,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 89861,
@@ -699,14 +723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 88058,
-      "num": 88058,
-      "word": "提前退休打造自己18000平的海岛庄园",
-      "onboard_time": 1664684663,
-      "rank": 44,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 83391,
       "num": 83391,
       "word": "刘雨昕在街舞当起了月老",
@@ -721,6 +737,14 @@
       "onboard_time": 1664650753,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77954,
+      "num": 77954,
+      "word": "万里归途群像",
+      "onboard_time": 1664685681,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 77767,
@@ -745,14 +769,6 @@
       "onboard_time": 1664627664,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 70955,
-      "num": 70955,
-      "word": "万里归途群像",
-      "onboard_time": 1664685681,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 70452,
@@ -843,8 +859,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 46390,
-      "num": 681285,
+      "raw_hot": 46888,
+      "num": 917519,
       "word": "新时代 我在中国",
       "onboard_time": 1664680822,
       "rank": 2,
