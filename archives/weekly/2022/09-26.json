@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664714817876,
+  "endTime": 1664716190203,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -3043,6 +3043,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 466478,
+      "num": 466478,
+      "word": "张艺兴为金晨新剧打call",
+      "onboard_time": 1664714123,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 466145,
       "num": 466145,
       "word": "当冰箱里只剩下番茄和鸡蛋",
@@ -3113,6 +3121,14 @@
       "onboard_time": 1664682442,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 458205,
+      "num": 385398,
+      "word": "俄罗斯暂停向意大利供应天然气",
+      "onboard_time": 1664714963,
+      "rank": 10,
+      "category": "国外要闻,财经"
     },
     {
       "raw_hot": 457256,
@@ -3723,14 +3739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 394504,
-      "num": 394504,
-      "word": "张艺兴为金晨新剧打call",
-      "onboard_time": 1664714123,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
       "raw_hot": 393990,
       "num": 393990,
       "word": "鲁豫说现在发律师函都没人信",
@@ -3953,6 +3961,14 @@
       "onboard_time": 1664461348,
       "rank": 15,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 370224,
+      "num": 370224,
+      "word": "中国女排世界排名跌至第5名",
+      "onboard_time": 1664714723,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 370021,
@@ -4211,6 +4227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 346368,
+      "num": 346368,
+      "word": "万里归途票房破4亿",
+      "onboard_time": 1664710524,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 345744,
       "num": 345744,
       "word": "网传天津10月1日起封城3天系谣言",
@@ -4233,14 +4257,6 @@
       "onboard_time": 1664182585,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 343802,
-      "num": 343802,
-      "word": "万里归途票房破4亿",
-      "onboard_time": 1664710524,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 342905,
@@ -5264,6 +5280,14 @@
       "word": "小猫文学也太好哭了",
       "onboard_time": 1664364443,
       "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 263315,
+      "num": 263315,
+      "word": "没见过这么潦草的狗",
+      "onboard_time": 1664714123,
+      "rank": 33,
       "category": "幽默"
     },
     {
@@ -7907,6 +7931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159052,
+      "num": 159052,
+      "word": "陆登夫妇盖棉被纯聊天",
+      "onboard_time": 1664715382,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 158791,
       "num": 158791,
       "word": "就没有摆不平的小肚腩",
@@ -7921,6 +7953,14 @@
       "onboard_time": 1664435185,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 158363,
+      "num": 158363,
+      "word": "曼城vs曼联",
+      "onboard_time": 1664713161,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 158276,
@@ -8427,6 +8467,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 143682,
+      "num": 143682,
+      "word": "国乒男团世乒赛两连胜",
+      "onboard_time": 1664715382,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143666,
       "num": 143666,
       "word": "新一届短道国家集训队名单公布",
@@ -8537,14 +8585,6 @@
       "onboard_time": 1664582181,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 141827,
-      "num": 141827,
-      "word": "曼城vs曼联",
-      "onboard_time": 1664713161,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 141654,
@@ -9627,14 +9667,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 113905,
-      "num": 113905,
-      "word": "没见过这么潦草的狗",
-      "onboard_time": 1664714123,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 113615,
       "num": 113615,
       "word": "黄礼志校庆舞台视频",
@@ -10025,6 +10057,14 @@
       "onboard_time": 1664158104,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101563,
+      "num": 101563,
+      "word": "林高远3比0奥托",
+      "onboard_time": 1664714843,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 101445,
@@ -10979,6 +11019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73049,
+      "num": 73049,
+      "word": "今年总要去一次长沙吧",
+      "onboard_time": 1664715923,
+      "rank": 41,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 73020,
       "num": 73020,
       "word": "在笑泪点反复横跳的剧",
@@ -11339,14 +11387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 56859,
-      "num": 56859,
-      "word": "中国女排世界排名跌至第5名",
-      "onboard_time": 1664714723,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 56346,
       "num": 56346,
       "word": "沙县小吃之乡也是中国医改排头兵",
@@ -11400,6 +11440,14 @@
       "word": "阿森纳3比1热刺",
       "onboard_time": 1664640741,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 54089,
+      "num": 54089,
+      "word": "梁靖崑3比0梁吉善",
+      "onboard_time": 1664715203,
+      "rank": 48,
       "category": "体育"
     },
     {
