@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664738467250,
+  "endTime": 1664739414800,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -3523,6 +3523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 23741,
+      "num": 23741,
+      "word": "男子公园跳街舞被小孩指着说神经",
+      "onboard_time": 1664737932,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23728,
       "num": 23728,
       "word": "中国女排战胜捷克队",
@@ -3537,14 +3545,6 @@
       "onboard_time": 1664561715,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 10993,
-      "num": 10993,
-      "word": "男子公园跳街舞被小孩指着说神经",
-      "onboard_time": 1664737932,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 10343,
