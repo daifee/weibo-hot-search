@@ -1,0 +1,410 @@
+{
+  "runTime": 1664702810801,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 930868,
+        "num": 930868,
+        "word": "7省将现37℃以上高温",
+        "onboard_time": 1664687724,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 887333,
+        "num": 887333,
+        "word": "小伙出差住酒店被安排住进婚房",
+        "onboard_time": 1664696482,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32255,
+        "num": 707112,
+        "word": "新时代 我在中国",
+        "onboard_time": 1664680822,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 688491,
+        "num": 688491,
+        "word": "花700买虎皮犬回家发现是染色狗",
+        "onboard_time": 1664695642,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455957,
+        "num": 455957,
+        "word": "荷园惊现福寿螺竟因市民放生祈福",
+        "onboard_time": 1664696602,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439969,
+        "num": 439969,
+        "word": "布林肯称北溪管道遭破坏是巨大机遇",
+        "onboard_time": 1664697921,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 367863,
+        "num": 367863,
+        "word": "中央气象台发布史上最早寒潮预警",
+        "onboard_time": 1664692342,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362394,
+        "num": 362394,
+        "word": "殷桃一秒入戏青筋暴起",
+        "onboard_time": 1664690663,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 349480,
+        "num": 349480,
+        "word": "老鼠站门框与狗僵持对峙6小时",
+        "onboard_time": 1664690364,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307887,
+        "num": 307887,
+        "word": "苏翊鸣首次完成自创新动作",
+        "onboard_time": 1664696781,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2135293,
+        "num": 305008,
+        "word": "天津地震",
+        "onboard_time": 1664699721,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 532944,
+        "num": 300915,
+        "word": "男生换宿舍后发现地板下暗藏地道",
+        "onboard_time": 1664700983,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466931,
+        "num": 297197,
+        "word": "刘强东回应明州事件",
+        "onboard_time": 1664692462,
+        "rank": 12,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 308645,
+        "num": 293141,
+        "word": "华春莹推特连发12组对比图",
+        "onboard_time": 1664686579,
+        "rank": 13,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 43068,
+        "num": 286050,
+        "word": "13岁少年立志加入三军仪仗队",
+        "onboard_time": 1664701284,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285756,
+        "num": 285756,
+        "word": "张睿梁山伯扮相",
+        "onboard_time": 1664698224,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278328,
+        "num": 278328,
+        "word": "幼童被困5楼近40人拉起防护网",
+        "onboard_time": 1664699964,
+        "rank": 16,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 267643,
+        "num": 267643,
+        "word": "18岁奥运冠军被保送至浙大",
+        "onboard_time": 1664701640,
+        "rank": 17,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 223554,
+        "num": 223554,
+        "word": "袁姗姗最美中国戏红娘造型",
+        "onboard_time": 1664684602,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 217909,
+        "num": 217909,
+        "word": "拿捏懒人的咖啡芝士蛋糕",
+        "onboard_time": 1664699423,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1678699,
+        "num": 209362,
+        "word": "刘强东向章泽天致歉",
+        "onboard_time": 1664689642,
+        "rank": 20,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 192238,
+        "num": 192238,
+        "word": "13岁重庆少年3年升国旗100多次",
+        "onboard_time": 1664700444,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187836,
+        "num": 187836,
+        "word": "电影万里归途豆瓣7.6分",
+        "onboard_time": 1664685140,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248643,
+        "num": 187563,
+        "word": "刘强东明州事件双方以和解终结",
+        "onboard_time": 1664686223,
+        "rank": 23,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 183256,
+        "num": 183256,
+        "word": "一代灵后开播",
+        "onboard_time": 1664701826,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 168893,
+        "num": 168893,
+        "word": "中国女团vs波多黎各女团",
+        "onboard_time": 1664698400,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168577,
+        "num": 168577,
+        "word": "印尼严重球迷冲突已致129死180伤",
+        "onboard_time": 1664700803,
+        "rank": 26,
+        "category": "社会负面,体育"
+      },
+      {
+        "raw_hot": 166180,
+        "num": 166180,
+        "word": "杨坤马嘉祺组合名",
+        "onboard_time": 1664695041,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158099,
+        "num": 158099,
+        "word": "患白血病男孩7年后捐268万善款",
+        "onboard_time": 1664689826,
+        "rank": 28,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 146894,
+        "num": 146894,
+        "word": "北京丰台新增一本土感染者",
+        "onboard_time": 1664699541,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140407,
+        "num": 140407,
+        "word": "金瀚糙汉文适配度",
+        "onboard_time": 1664696902,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140370,
+        "num": 140370,
+        "word": "才知道票根可以这样保存",
+        "onboard_time": 1664684722,
+        "rank": 31,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 127593,
+        "num": 127593,
+        "word": "戏剧学院军训生齐秀一字马",
+        "onboard_time": 1664701462,
+        "rank": 32,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 101263,
+        "num": 101263,
+        "word": "女子回老家炖排骨将炕烧成仙境",
+        "onboard_time": 1664683163,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99241,
+        "num": 99241,
+        "word": "gidle概念预告照",
+        "onboard_time": 1664684002,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 91917,
+        "num": 91917,
+        "word": "新神榜杨戬票房破5亿",
+        "onboard_time": 1664690663,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 90061,
+        "num": 90061,
+        "word": "库里半场17分",
+        "onboard_time": 1664698581,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89485,
+        "num": 89485,
+        "word": "走路像踢正步的小奶狗",
+        "onboard_time": 1664692942,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85099,
+        "num": 85099,
+        "word": "像极了国庆在家的状态",
+        "onboard_time": 1664695283,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 52893,
+        "num": 83964,
+        "word": "百度地图全景变样了",
+        "onboard_time": 1664701225,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82902,
+        "num": 82902,
+        "word": "十二生肖是怎么选出来的",
+        "onboard_time": 1664700624,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81756,
+        "num": 81756,
+        "word": "为什么建议大家学好物理",
+        "onboard_time": 1664681178,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79911,
+        "num": 79911,
+        "word": "以为主人要出远门的狗狗",
+        "onboard_time": 1664692403,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79719,
+        "num": 79719,
+        "word": "消防员演示眨眼间冲上4楼",
+        "onboard_time": 1664699240,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78871,
+        "num": 78871,
+        "word": "成年人最崩溃的瞬间是什么",
+        "onboard_time": 1664685863,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78495,
+        "num": 78495,
+        "word": "00后女孩成为刑警激动向室友报喜",
+        "onboard_time": 1664682682,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75366,
+        "num": 75366,
+        "word": "乌方称控制红利曼",
+        "onboard_time": 1664694321,
+        "rank": 46,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 69370,
+        "num": 69370,
+        "word": "孕妇列车分娩现场搭临时产房",
+        "onboard_time": 1664683040,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66630,
+        "num": 66630,
+        "word": "万里归途的沉浸感是如何营造的",
+        "onboard_time": 1664697741,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 65457,
+        "num": 65457,
+        "word": "23岁女孩吃网红药意识混乱险丧命",
+        "onboard_time": 1664702722,
+        "rank": 49,
+        "category": "社会负面"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈爱国主义与奋斗精神#"
+    }
+  }
+}

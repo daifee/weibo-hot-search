@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664700564202,
+  "endTime": 1664702810801,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -57,6 +57,14 @@
       "onboard_time": 1664632765,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2135293,
+      "num": 571363,
+      "word": "天津地震",
+      "onboard_time": 1664699721,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1899975,
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 1080994,
-      "num": 578521,
+      "num": 688491,
       "word": "花700买虎皮犬回家发现是染色狗",
       "onboard_time": 1664695642,
       "rank": 18,
@@ -233,14 +241,6 @@
       "onboard_time": 1664606664,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 986525,
-      "num": 571363,
-      "word": "天津地震",
-      "onboard_time": 1664699721,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 979963,
@@ -281,6 +281,14 @@
       "onboard_time": 1664682321,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 887333,
+      "num": 887333,
+      "word": "小伙出差住酒店被安排住进婚房",
+      "onboard_time": 1664696482,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 863896,
@@ -515,14 +523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 562566,
-      "num": 562566,
-      "word": "小伙出差住酒店被安排住进婚房",
-      "onboard_time": 1664696482,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 556254,
       "num": 556254,
       "word": "女子跳河救起男童才想起不会游泳",
@@ -552,6 +552,14 @@
       "word": "狗狗打翻白酒偷尝后醉倒不起",
       "onboard_time": 1664605823,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 532944,
+      "num": 300915,
+      "word": "男生换宿舍后发现地板下暗藏地道",
+      "onboard_time": 1664700983,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -657,6 +665,14 @@
       "onboard_time": 1664573532,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 439969,
+      "num": 439969,
+      "word": "布林肯称北溪管道遭破坏是巨大机遇",
+      "onboard_time": 1664697921,
+      "rank": 16,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 432405,
@@ -867,14 +883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 344283,
-      "num": 344283,
-      "word": "布林肯称北溪管道遭破坏是巨大机遇",
-      "onboard_time": 1664697921,
-      "rank": 16,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 340959,
       "num": 340959,
       "word": "中国女篮闯入世界杯决赛",
@@ -1019,6 +1027,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 285756,
+      "num": 285756,
+      "word": "张睿梁山伯扮相",
+      "onboard_time": 1664698224,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 285506,
       "num": 285506,
       "word": "万里归途32万6713步",
@@ -1041,6 +1057,14 @@
       "onboard_time": 1664543785,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 278328,
+      "num": 278328,
+      "word": "幼童被困5楼近40人拉起防护网",
+      "onboard_time": 1664699964,
+      "rank": 38,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 278074,
@@ -1097,6 +1121,14 @@
       "onboard_time": 1664549723,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 267643,
+      "num": 267643,
+      "word": "18岁奥运冠军被保送至浙大",
+      "onboard_time": 1664701640,
+      "rank": 17,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 267002,
@@ -1339,20 +1371,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 217909,
+      "num": 217909,
+      "word": "拿捏懒人的咖啡芝士蛋糕",
+      "onboard_time": 1664699423,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 216741,
       "num": 216741,
       "word": "国庆假期第一天",
       "onboard_time": 1664580921,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 209746,
-      "num": 209746,
-      "word": "张睿梁山伯扮相",
-      "onboard_time": 1664698224,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 208788,
@@ -1483,6 +1515,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 192238,
+      "num": 192238,
+      "word": "13岁重庆少年3年升国旗100多次",
+      "onboard_time": 1664700444,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191212,
       "num": 191212,
       "word": "中国女篮状态",
@@ -1521,6 +1561,14 @@
       "onboard_time": 1664682920,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 183256,
+      "num": 183256,
+      "word": "一代灵后开播",
+      "onboard_time": 1664701826,
+      "rank": 24,
+      "category": "动漫"
     },
     {
       "raw_hot": 181375,
@@ -1609,6 +1657,22 @@
       "onboard_time": 1664572570,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168893,
+      "num": 168893,
+      "word": "中国女团vs波多黎各女团",
+      "onboard_time": 1664698400,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 168577,
+      "num": 168577,
+      "word": "印尼严重球迷冲突已致129死180伤",
+      "onboard_time": 1664700803,
+      "rank": 26,
+      "category": "社会负面,体育"
     },
     {
       "raw_hot": 167277,
@@ -1747,14 +1811,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 143118,
-      "num": 143118,
-      "word": "拿捏懒人的咖啡芝士蛋糕",
-      "onboard_time": 1664699423,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
       "raw_hot": 142668,
       "num": 142668,
       "word": "小狗被困栅栏卡成S型消防暖心救援",
@@ -1873,6 +1929,14 @@
       "onboard_time": 1664685262,
       "rank": 36,
       "category": "动漫,幽默"
+    },
+    {
+      "raw_hot": 127593,
+      "num": 127593,
+      "word": "戏剧学院军训生齐秀一字马",
+      "onboard_time": 1664701462,
+      "rank": 32,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 126713,
@@ -2001,14 +2065,6 @@
       "onboard_time": 1664617042,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 116847,
-      "num": 116847,
-      "word": "中国女团vs波多黎各女团",
-      "onboard_time": 1664698400,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 115145,
@@ -2155,14 +2211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 100857,
-      "num": 100857,
-      "word": "13岁重庆少年3年升国旗100多次",
-      "onboard_time": 1664700444,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 97111,
       "num": 97111,
       "word": "李月汝篮下单打",
@@ -2235,14 +2283,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 90824,
-      "num": 90824,
-      "word": "幼童被困5楼近40人拉起防护网",
-      "onboard_time": 1664699964,
-      "rank": 38,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 89861,
       "num": 89861,
       "word": "马龙团体赛100场里程碑",
@@ -2313,6 +2353,14 @@
       "onboard_time": 1664593581,
       "rank": 38,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 82902,
+      "num": 82902,
+      "word": "十二生肖是怎么选出来的",
+      "onboard_time": 1664700624,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 80957,
@@ -2425,6 +2473,14 @@
       "onboard_time": 1664580739,
       "rank": 40,
       "category": "国内要闻,军事"
+    },
+    {
+      "raw_hot": 65457,
+      "num": 65457,
+      "word": "23岁女孩吃网红药意识混乱险丧命",
+      "onboard_time": 1664702722,
+      "rank": 49,
+      "category": "社会负面"
     },
     {
       "raw_hot": 65033,
@@ -2627,6 +2683,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 52893,
+      "num": 83964,
+      "word": "百度地图全景变样了",
+      "onboard_time": 1664701225,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51667,
       "num": 51667,
       "word": "我的反派男友是恋爱版西游记吧",
@@ -2713,6 +2777,14 @@
       "onboard_time": 1664540542,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 43068,
+      "num": 286050,
+      "word": "13岁少年立志加入三军仪仗队",
+      "onboard_time": 1664701284,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42858,

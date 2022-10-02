@@ -1,6 +1,6 @@
 {
   "startTime": 1664642097015,
-  "endTime": 1664700564202,
+  "endTime": 1664702810801,
   "band_list": [
     {
       "raw_hot": 3125010,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2135293,
+      "num": 571363,
+      "word": "天津地震",
+      "onboard_time": 1664699721,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1899975,
       "num": 1899975,
       "word": "10月1日新增本土无症状432例",
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 1080994,
-      "num": 578521,
+      "num": 688491,
       "word": "花700买虎皮犬回家发现是染色狗",
       "onboard_time": 1664695642,
       "rank": 18,
@@ -67,20 +75,20 @@
       "category": "社会负面,体育"
     },
     {
-      "raw_hot": 986525,
-      "num": 571363,
-      "word": "天津地震",
-      "onboard_time": 1664699721,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 913603,
       "num": 913603,
       "word": "小鬼王琳凯这就是街舞",
       "onboard_time": 1664682321,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 887333,
+      "num": 887333,
+      "word": "小伙出差住酒店被安排住进婚房",
+      "onboard_time": 1664696482,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 880822,
@@ -211,19 +219,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 562566,
-      "num": 562566,
-      "word": "小伙出差住酒店被安排住进婚房",
-      "onboard_time": 1664696482,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 547094,
       "num": 547094,
       "word": "荷园惊现福寿螺竟因市民放生祈福",
       "onboard_time": 1664696602,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 532944,
+      "num": 300915,
+      "word": "男生换宿舍后发现地板下暗藏地道",
+      "onboard_time": 1664700983,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -291,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 439969,
+      "num": 439969,
+      "word": "布林肯称北溪管道遭破坏是巨大机遇",
+      "onboard_time": 1664697921,
+      "rank": 16,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 429372,
       "num": 179784,
       "word": "苹果副总裁因发表低俗言论离职",
@@ -355,14 +371,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 344283,
-      "num": 344283,
-      "word": "布林肯称北溪管道遭破坏是巨大机遇",
-      "onboard_time": 1664697921,
-      "rank": 16,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 325734,
       "num": 320852,
       "word": "爸爸带儿子外出聚餐酒醉倒路边",
@@ -411,12 +419,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 285756,
+      "num": 285756,
+      "word": "张睿梁山伯扮相",
+      "onboard_time": 1664698224,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 282738,
       "num": 282738,
       "word": "中国女篮主帅当选2022世界杯最佳教练",
       "onboard_time": 1664637623,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 278328,
+      "num": 278328,
+      "word": "幼童被困5楼近40人拉起防护网",
+      "onboard_time": 1664699964,
+      "rank": 38,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 276399,
@@ -433,6 +457,14 @@
       "onboard_time": 1664682142,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 267643,
+      "num": 267643,
+      "word": "18岁奥运冠军被保送至浙大",
+      "onboard_time": 1664701640,
+      "rank": 17,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 263050,
@@ -547,12 +579,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 209746,
-      "num": 209746,
-      "word": "张睿梁山伯扮相",
-      "onboard_time": 1664698224,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 217909,
+      "num": 217909,
+      "word": "拿捏懒人的咖啡芝士蛋糕",
+      "onboard_time": 1664699423,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 208788,
@@ -603,6 +635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192238,
+      "num": 192238,
+      "word": "13岁重庆少年3年升国旗100多次",
+      "onboard_time": 1664700444,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190892,
       "num": 190892,
       "word": "网剧炽道",
@@ -635,6 +675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 183256,
+      "num": 183256,
+      "word": "一代灵后开播",
+      "onboard_time": 1664701826,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 180197,
       "num": 180197,
       "word": "汪汪打工队",
@@ -657,6 +705,22 @@
       "onboard_time": 1664696902,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 168893,
+      "num": 168893,
+      "word": "中国女团vs波多黎各女团",
+      "onboard_time": 1664698400,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 168577,
+      "num": 168577,
+      "word": "印尼严重球迷冲突已致129死180伤",
+      "onboard_time": 1664700803,
+      "rank": 26,
+      "category": "社会负面,体育"
     },
     {
       "raw_hot": 167277,
@@ -729,14 +793,6 @@
       "onboard_time": 1664684541,
       "rank": 33,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 143118,
-      "num": 143118,
-      "word": "拿捏懒人的咖啡芝士蛋糕",
-      "onboard_time": 1664699423,
-      "rank": 47,
-      "category": "美食"
     },
     {
       "raw_hot": 142668,
@@ -827,6 +883,14 @@
       "category": "动漫,幽默"
     },
     {
+      "raw_hot": 127593,
+      "num": 127593,
+      "word": "戏剧学院军训生齐秀一字马",
+      "onboard_time": 1664701462,
+      "rank": 32,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 126486,
       "num": 126486,
       "word": "RNG战胜ISG",
@@ -865,14 +929,6 @@
       "onboard_time": 1664685082,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 116847,
-      "num": 116847,
-      "word": "中国女团vs波多黎各女团",
-      "onboard_time": 1664698400,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 114676,
@@ -955,14 +1011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 100857,
-      "num": 100857,
-      "word": "13岁重庆少年3年升国旗100多次",
-      "onboard_time": 1664700444,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 97095,
       "num": 97095,
       "word": "走路像踢正步的小奶狗",
@@ -985,14 +1033,6 @@
       "onboard_time": 1664623283,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 90824,
-      "num": 90824,
-      "word": "幼童被困5楼近40人拉起防护网",
-      "onboard_time": 1664699964,
-      "rank": 38,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 89861,
@@ -1025,6 +1065,14 @@
       "onboard_time": 1664631685,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 82902,
+      "num": 82902,
+      "word": "十二生肖是怎么选出来的",
+      "onboard_time": 1664700624,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 80957,
@@ -1123,6 +1171,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 65457,
+      "num": 65457,
+      "word": "23岁女孩吃网红药意识混乱险丧命",
+      "onboard_time": 1664702722,
+      "rank": 49,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 64031,
       "num": 64031,
       "word": "女篮挺进决赛姚明场边笑开花",
@@ -1187,6 +1243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52893,
+      "num": 83964,
+      "word": "百度地图全景变样了",
+      "onboard_time": 1664701225,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51312,
       "num": 51312,
       "word": "闫晓楠判定战胜邓恩",
@@ -1217,6 +1281,14 @@
       "onboard_time": 1664637805,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 43068,
+      "num": 286050,
+      "word": "13岁少年立志加入三军仪仗队",
+      "onboard_time": 1664701284,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42858,
