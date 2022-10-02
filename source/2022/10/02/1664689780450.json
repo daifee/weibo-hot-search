@@ -1,0 +1,410 @@
+{
+  "runTime": 1664689780450,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 865014,
+        "num": 865014,
+        "word": "00后女孩成为刑警激动向室友报喜",
+        "onboard_time": 1664682682,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3105129,
+        "num": 841660,
+        "word": "刘强东明州事件双方以和解终结",
+        "onboard_time": 1664686223,
+        "rank": 1,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 41636,
+        "num": 774789,
+        "word": "新时代 我在中国",
+        "onboard_time": 1664680822,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 768214,
+        "num": 768214,
+        "word": "7省将现37℃以上高温",
+        "onboard_time": 1664687724,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 749708,
+        "num": 749708,
+        "word": "为什么建议大家学好物理",
+        "onboard_time": 1664681178,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 555854,
+        "num": 555854,
+        "word": "小鬼王琳凯这就是街舞",
+        "onboard_time": 1664682321,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 518872,
+        "num": 518872,
+        "word": "女子回老家炖排骨将炕烧成仙境",
+        "onboard_time": 1664683163,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483352,
+        "num": 483352,
+        "word": "才知道票根可以这样保存",
+        "onboard_time": 1664684722,
+        "rank": 7,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 433673,
+        "num": 433673,
+        "word": "提前退休打造自己18000平的海岛庄园",
+        "onboard_time": 1664684663,
+        "rank": 8,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 366014,
+        "num": 366014,
+        "word": "电影万里归途豆瓣7.6分",
+        "onboard_time": 1664685140,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 681786,
+        "num": 365078,
+        "word": "袁姗姗最美中国戏红娘造型",
+        "onboard_time": 1664684602,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 343961,
+        "num": 343961,
+        "word": "印尼体育场发生暴力事件已致127人死亡",
+        "onboard_time": 1664675122,
+        "rank": 11,
+        "category": "体育,社会负面"
+      },
+      {
+        "raw_hot": 279600,
+        "num": 279600,
+        "word": "小狗出门都不看路吗",
+        "onboard_time": 1664681542,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 271318,
+        "num": 271318,
+        "word": "gidle概念预告照",
+        "onboard_time": 1664684002,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 251188,
+        "num": 251188,
+        "word": "孕妇列车分娩现场搭临时产房",
+        "onboard_time": 1664683040,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238124,
+        "num": 238124,
+        "word": "炽道 上头",
+        "onboard_time": 1664685082,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230523,
+        "num": 230523,
+        "word": "南京地铁超小号警犬国庆正式上岗",
+        "onboard_time": 1664677522,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224690,
+        "num": 224690,
+        "word": "被王鹤棣秦霄贤喊麦笑死",
+        "onboard_time": 1664682442,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203041,
+        "num": 203041,
+        "word": "被煎饼果子治好了强迫症",
+        "onboard_time": 1664682861,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 174532,
+        "num": 174532,
+        "word": "医生吃火锅用牙签剔除脑花血管",
+        "onboard_time": 1664634264,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 808890,
+        "num": 172822,
+        "word": "华春莹推特连发12组对比图",
+        "onboard_time": 1664686579,
+        "rank": 20,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 177726,
+        "num": 172722,
+        "word": "成年人最崩溃的瞬间是什么",
+        "onboard_time": 1664685863,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169816,
+        "num": 169816,
+        "word": "S12提莫登场",
+        "onboard_time": 1664681178,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 165589,
+        "num": 165589,
+        "word": "自我满足真的很爽",
+        "onboard_time": 1664682142,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162580,
+        "num": 162580,
+        "word": "iPhone6二手收购价低至100元",
+        "onboard_time": 1664670861,
+        "rank": 24,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 160575,
+        "num": 160575,
+        "word": "刘强东向章泽天致歉",
+        "onboard_time": 1664689642,
+        "rank": 25,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 152618,
+        "num": 152618,
+        "word": "曾可妮新剧演李一桐闺蜜",
+        "onboard_time": 1664685201,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136781,
+        "num": 136781,
+        "word": "10月1日新增本土无症状432例",
+        "onboard_time": 1664673861,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136031,
+        "num": 136031,
+        "word": "上班警犬眼馋小朋友手中烤肠",
+        "onboard_time": 1664674762,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129360,
+        "num": 129360,
+        "word": "国庆档首日票房2.65亿",
+        "onboard_time": 1664682380,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124714,
+        "num": 124714,
+        "word": "3岁孙女帮睡着爷爷垫枕头盖被子",
+        "onboard_time": 1664676080,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124485,
+        "num": 124485,
+        "word": "五角大楼公布向乌输送武器完整清单",
+        "onboard_time": 1664672360,
+        "rank": 31,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 122443,
+        "num": 122443,
+        "word": "RNG入围赛三连胜",
+        "onboard_time": 1664680100,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115391,
+        "num": 115391,
+        "word": "大头儿子里的父子情太戳了",
+        "onboard_time": 1664685262,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113918,
+        "num": 113918,
+        "word": "陈哲远说新剧叫我的好大儿",
+        "onboard_time": 1664681362,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 109493,
+        "num": 109493,
+        "word": "我们的歌找到自己",
+        "onboard_time": 1664686703,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108060,
+        "num": 108060,
+        "word": "ICU医生自我介绍敢和死神抢人",
+        "onboard_time": 1664678961,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104105,
+        "num": 104105,
+        "word": "爸爸带儿子外出聚餐酒醉倒路边",
+        "onboard_time": 1664677160,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98798,
+        "num": 98798,
+        "word": "一条长江的朋友圈有多美",
+        "onboard_time": 1664684541,
+        "rank": 38,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 97471,
+        "num": 97471,
+        "word": "李冰冰为角色做乘务员培训",
+        "onboard_time": 1664686823,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91699,
+        "num": 91699,
+        "word": "河南增11例本土无症状",
+        "onboard_time": 1664680761,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88613,
+        "num": 88613,
+        "word": "代号大本钟",
+        "onboard_time": 1664689522,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86387,
+        "num": 86387,
+        "word": "美国加州将农历新年定为法定假日",
+        "onboard_time": 1664672242,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85674,
+        "num": 85674,
+        "word": "这街数字人撞脸大半个娱乐圈",
+        "onboard_time": 1664688503,
+        "rank": 43,
+        "category": "综艺,科技"
+      },
+      {
+        "raw_hot": 79975,
+        "num": 79975,
+        "word": "汪汪打工队",
+        "onboard_time": 1664681300,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71885,
+        "num": 71885,
+        "word": "熊孩子5秒剪坏吹风机电线火花直冒",
+        "onboard_time": 1664671521,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69328,
+        "num": 69328,
+        "word": "成都疫情防控",
+        "onboard_time": 1664667110,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68967,
+        "num": 68967,
+        "word": "女子路遇流浪狗生完宝宝好心投喂",
+        "onboard_time": 1664689103,
+        "rank": 47,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 67796,
+        "num": 67796,
+        "word": "大风降温预报图变深红色了",
+        "onboard_time": 1664686940,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50870,
+        "num": 65928,
+        "word": "老人派出所办理业务后霸气点赞",
+        "onboard_time": 1664681420,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈爱国主义与奋斗精神#"
+    }
+  }
+}
