@@ -1,6 +1,6 @@
 {
   "startTime": 1664642097015,
-  "endTime": 1664703858787,
+  "endTime": 1664706436346,
   "band_list": [
     {
       "raw_hot": 3125010,
@@ -51,8 +51,24 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1265615,
+      "num": 763656,
+      "word": "23岁女孩吃网红药意识混乱险丧命",
+      "onboard_time": 1664702722,
+      "rank": 49,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 1224885,
+      "num": 1224885,
+      "word": "18岁奥运冠军被保送至浙大",
+      "onboard_time": 1664701640,
+      "rank": 17,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 1089913,
-      "num": 570559,
+      "num": 759771,
       "word": "男生换宿舍后发现地板下暗藏地道",
       "onboard_time": 1664700983,
       "rank": 11,
@@ -123,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 777286,
+      "num": 777286,
+      "word": "研究发现3亿年后太平洋将消失",
+      "onboard_time": 1664703323,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 756772,
       "num": 756772,
       "word": "左麟右李",
@@ -136,6 +160,14 @@
       "word": "上班警犬眼馋小朋友手中烤肠",
       "onboard_time": 1664674762,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 749694,
+      "num": 284047,
+      "word": "医生隔着妈妈肚皮将宝宝调了个头",
+      "onboard_time": 1664704460,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -227,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 559227,
+      "num": 559227,
+      "word": "李一桐说和金瀚的吻戏只是工具吻",
+      "onboard_time": 1664703504,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 547094,
       "num": 547094,
       "word": "荷园惊现福寿螺竟因市民放生祈福",
@@ -256,14 +296,6 @@
       "word": "日本一赛事主办方下跪15秒道歉",
       "onboard_time": 1664666717,
       "rank": 41,
-      "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 498986,
-      "num": 498986,
-      "word": "18岁奥运冠军被保送至浙大",
-      "onboard_time": 1664701640,
-      "rank": 17,
       "category": "体育,社会新闻"
     },
     {
@@ -403,14 +435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 318300,
-      "num": 291048,
-      "word": "23岁女孩吃网红药意识混乱险丧命",
-      "onboard_time": 1664702722,
-      "rank": 49,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 315250,
       "num": 315250,
       "word": "搓麻将成曼哈顿热门社交活动",
@@ -433,14 +457,6 @@
       "onboard_time": 1664681362,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 287222,
-      "num": 287222,
-      "word": "李一桐说和金瀚的吻戏只是工具吻",
-      "onboard_time": 1664703504,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 285756,
@@ -483,8 +499,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 271507,
-      "num": 271507,
+      "raw_hot": 273695,
+      "num": 273695,
       "word": "一代灵后开播",
       "onboard_time": 1664701826,
       "rank": 24,
@@ -513,6 +529,14 @@
       "onboard_time": 1664683040,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248166,
+      "num": 248166,
+      "word": "印尼严重球迷冲突已致129死180伤",
+      "onboard_time": 1664700803,
+      "rank": 26,
+      "category": "社会负面,体育"
     },
     {
       "raw_hot": 244320,
@@ -571,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229142,
+      "num": 229142,
+      "word": "1岁娃玩药粉妈妈帮清洗全被染紫",
+      "onboard_time": 1664705124,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226275,
       "num": 226275,
       "word": "国庆首日上海武警拉链式人墙再现",
@@ -611,14 +643,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 209520,
-      "num": 209520,
-      "word": "印尼严重球迷冲突已致129死180伤",
-      "onboard_time": 1664700803,
-      "rank": 26,
-      "category": "社会负面,体育"
-    },
-    {
       "raw_hot": 208788,
       "num": 162398,
       "word": "蒲熠星单手攀岩",
@@ -633,6 +657,14 @@
       "onboard_time": 1664682861,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 202664,
+      "num": 202664,
+      "word": "中国女团vs波多黎各女团",
+      "onboard_time": 1664698400,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 200778,
@@ -656,14 +688,6 @@
       "word": "樊振东3比0阿凡纳多尔",
       "onboard_time": 1664636842,
       "rank": 8,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 198547,
-      "num": 198547,
-      "word": "中国女团vs波多黎各女团",
-      "onboard_time": 1664698400,
-      "rank": 35,
       "category": "体育"
     },
     {
@@ -739,6 +763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 169312,
+      "num": 169312,
+      "word": "坐个过山车也要这么多戏吗",
+      "onboard_time": 1664704583,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 167277,
       "num": 167277,
       "word": "河南增11例本土无症状",
@@ -769,6 +801,14 @@
       "onboard_time": 1664629882,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 156653,
+      "num": 156653,
+      "word": "小羊身怀绝技学狗叫吓懵同伴",
+      "onboard_time": 1664703082,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155233,
@@ -947,6 +987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116510,
+      "num": 116510,
+      "word": "万里归途中的隐藏知识点",
+      "onboard_time": 1664704825,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 114676,
       "num": 114676,
       "word": "中国女排负于巴西",
@@ -993,14 +1041,6 @@
       "onboard_time": 1664686703,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 108756,
-      "num": 108756,
-      "word": "研究发现3亿年后太平洋将消失",
-      "onboard_time": 1664703323,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 104445,
@@ -1075,20 +1115,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 87500,
-      "num": 87500,
-      "word": "小羊身怀绝技学狗叫吓懵同伴",
-      "onboard_time": 1664703082,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 86346,
       "num": 86346,
       "word": "这街数字人撞脸大半个娱乐圈",
       "onboard_time": 1664688503,
       "rank": 43,
       "category": "综艺,科技"
+    },
+    {
+      "raw_hot": 84134,
+      "num": 84134,
+      "word": "赞多这就是街舞预告",
+      "onboard_time": 1664705423,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 83653,
+      "num": 83653,
+      "word": "陈梦3比0里奥斯",
+      "onboard_time": 1664704583,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 83391,
@@ -1195,12 +1243,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 67955,
+      "num": 67955,
+      "word": "这对金丝猴是被安了磁铁吗",
+      "onboard_time": 1664705963,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67796,
       "num": 67796,
       "word": "大风降温预报图变深红色了",
       "onboard_time": 1664686940,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67099,
+      "num": 67099,
+      "word": "陈哲远说萧无敌心动的样子好不值钱",
+      "onboard_time": 1664704280,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 65514,
@@ -1217,6 +1281,14 @@
       "onboard_time": 1664654831,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63052,
+      "num": 63052,
+      "word": "熊猫宝宝旱地游泳有多拼",
+      "onboard_time": 1664704224,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61439,
@@ -1265,6 +1337,14 @@
       "onboard_time": 1664701284,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54703,
+      "num": 54703,
+      "word": "王曼昱3比0A迪亚兹",
+      "onboard_time": 1664706204,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 54176,
