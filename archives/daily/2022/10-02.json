@@ -1,6 +1,6 @@
 {
   "startTime": 1664642097015,
-  "endTime": 1664692583581,
+  "endTime": 1664693770454,
   "band_list": [
     {
       "raw_hot": 3125010,
@@ -155,8 +155,8 @@
       "category": "军事,国外要闻"
     },
     {
-      "raw_hot": 541603,
-      "num": 541603,
+      "raw_hot": 570089,
+      "num": 570089,
       "word": "女子回老家炖排骨将炕烧成仙境",
       "onboard_time": 1664683163,
       "rank": 12,
@@ -227,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 456878,
+      "num": 456878,
+      "word": "殷桃一秒入戏青筋暴起",
+      "onboard_time": 1664690663,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 429372,
       "num": 179784,
       "word": "苹果副总裁因发表低俗言论离职",
@@ -267,20 +275,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 371200,
+      "num": 371200,
+      "word": "老鼠站门框与狗僵持对峙6小时",
+      "onboard_time": 1664690364,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 354274,
       "num": 354274,
       "word": "S12提莫登场",
       "onboard_time": 1664681178,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 330210,
-      "num": 330210,
-      "word": "殷桃一秒入戏青筋暴起",
-      "onboard_time": 1664690663,
-      "rank": 8,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 325734,
@@ -347,20 +355,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275301,
+      "num": 253772,
+      "word": "刘强东回应明州事件",
+      "onboard_time": 1664692462,
+      "rank": 41,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 273806,
       "num": 273806,
       "word": "自我满足真的很爽",
       "onboard_time": 1664682142,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 256243,
-      "num": 256243,
-      "word": "老鼠站门框与狗僵持对峙6小时",
-      "onboard_time": 1664690364,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 256135,
@@ -377,6 +385,14 @@
       "onboard_time": 1664683040,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250782,
+      "num": 250782,
+      "word": "患白血病男孩7年后捐268万善款",
+      "onboard_time": 1664689826,
+      "rank": 38,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 244320,
@@ -443,6 +459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 222253,
+      "num": 222253,
+      "word": "代号大本钟",
+      "onboard_time": 1664689522,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221653,
       "num": 221653,
       "word": "RNG对战IW",
@@ -464,14 +488,6 @@
       "word": "蒲熠星单手攀岩",
       "onboard_time": 1664638226,
       "rank": 15,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 207572,
-      "num": 207572,
-      "word": "代号大本钟",
-      "onboard_time": 1664689522,
-      "rank": 41,
       "category": "综艺"
     },
     {
@@ -507,12 +523,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 192114,
-      "num": 192114,
-      "word": "患白血病男孩7年后捐268万善款",
-      "onboard_time": 1664689826,
-      "rank": 38,
-      "category": "社会正能量"
+      "raw_hot": 195062,
+      "num": 195062,
+      "word": "中央气象台发布史上最早寒潮预警",
+      "onboard_time": 1664692342,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190892,
@@ -643,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132134,
+      "num": 132134,
+      "word": "女子路遇流浪狗生完宝宝好心投喂",
+      "onboard_time": 1664689103,
+      "rank": 47,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 131178,
       "num": 131178,
       "word": "国庆假期第二天",
@@ -723,14 +747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 116115,
-      "num": 116115,
-      "word": "女子路遇流浪狗生完宝宝好心投喂",
-      "onboard_time": 1664689103,
-      "rank": 47,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 114676,
       "num": 114676,
       "word": "中国女排负于巴西",
@@ -787,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94620,
+      "num": 94620,
+      "word": "以为主人要出远门的狗狗",
+      "onboard_time": 1664692403,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 92118,
       "num": 92118,
       "word": "女子为明目生吞鱼胆致急性肝衰竭",
@@ -817,6 +841,14 @@
       "onboard_time": 1664688503,
       "rank": 43,
       "category": "综艺,科技"
+    },
+    {
+      "raw_hot": 84473,
+      "num": 84473,
+      "word": "走路像踢正步的小奶狗",
+      "onboard_time": 1664692942,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 83391,
@@ -851,28 +883,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 76347,
-      "num": 76347,
-      "word": "刘强东回应明州事件",
-      "onboard_time": 1664692462,
-      "rank": 41,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 74805,
       "num": 74805,
       "word": "喀纳斯的秋天晨雾有多美",
       "onboard_time": 1664665816,
       "rank": 33,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 72911,
-      "num": 72911,
-      "word": "中央气象台发布史上最早寒潮预警",
-      "onboard_time": 1664692342,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 71829,
@@ -929,14 +945,6 @@
       "onboard_time": 1664691863,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 64532,
-      "num": 64532,
-      "word": "以为主人要出远门的狗狗",
-      "onboard_time": 1664692403,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 64031,
@@ -1156,7 +1164,7 @@
     },
     {
       "raw_hot": 3508,
-      "num": 238336,
+      "num": 250784,
       "word": "黄河工匠坚守37年守护黄河安澜",
       "onboard_time": 1664690963,
       "rank": 14,
