@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664753339065,
+  "endTime": 1664754358539,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -25,6 +25,14 @@
       "onboard_time": 1664686223,
       "rank": 12,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 3091269,
+      "num": 3091269,
+      "word": "石家庄地震",
+      "onboard_time": 1664752097,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3014061,
@@ -65,14 +73,6 @@
       "onboard_time": 1664632765,
       "rank": 0,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2195835,
-      "num": 2195835,
-      "word": "石家庄地震",
-      "onboard_time": 1664752097,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2135293,
@@ -1099,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 350711,
+      "num": 350711,
+      "word": "老师婚期临近62名学生偷偷送惊喜",
+      "onboard_time": 1664743991,
+      "rank": 24,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 346368,
       "num": 346368,
       "word": "万里归途票房破4亿",
@@ -1395,14 +1403,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 273108,
-      "num": 273108,
-      "word": "老师婚期临近62名学生偷偷送惊喜",
-      "onboard_time": 1664743991,
-      "rank": 24,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 271166,
       "num": 271166,
       "word": "李楷灿人歌舞台直拍",
@@ -1649,6 +1649,14 @@
       "onboard_time": 1664599101,
       "rank": 14,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 238342,
+      "num": 238342,
+      "word": "大学最后一课老师告诫学生接受平凡",
+      "onboard_time": 1664751795,
+      "rank": 19,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 238124,
@@ -2003,6 +2011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 185137,
+      "num": 185137,
+      "word": "男子公园跳街舞被小孩指着说神经",
+      "onboard_time": 1664737932,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184180,
       "num": 184180,
       "word": "张杰献唱江河奔腾看中国",
@@ -2139,14 +2155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 165612,
-      "num": 165612,
-      "word": "男子公园跳街舞被小孩指着说神经",
-      "onboard_time": 1664737932,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159052,
       "num": 159052,
       "word": "陆登夫妇盖棉被纯聊天",
@@ -2208,6 +2216,14 @@
       "word": "以为主人要出远门的狗狗",
       "onboard_time": 1664692403,
       "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 153931,
+      "num": 153931,
+      "word": "吵架内容都这么高端了吗",
+      "onboard_time": 1664751854,
+      "rank": 30,
       "category": "幽默"
     },
     {
@@ -2443,6 +2459,14 @@
       "category": "科技,国内要闻"
     },
     {
+      "raw_hot": 128180,
+      "num": 128180,
+      "word": "灰太狼听完都改吃素了",
+      "onboard_time": 1664753717,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127950,
       "num": 119037,
       "word": "大头儿子里的父子情太戳了",
@@ -2491,6 +2515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125422,
+      "num": 125422,
+      "word": "曾就读清华的90后飞行员夺金头盔",
+      "onboard_time": 1664740510,
+      "rank": 47,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 124731,
       "num": 124731,
       "word": "女篮太帅了",
@@ -2537,6 +2569,14 @@
       "onboard_time": 1664592201,
       "rank": 29,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 122716,
+      "num": 122716,
+      "word": "2022最后90天",
+      "onboard_time": 1664753959,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 122695,
@@ -2739,14 +2779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105190,
-      "num": 105190,
-      "word": "大学最后一课老师告诫学生接受平凡",
-      "onboard_time": 1664751795,
-      "rank": 19,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 105163,
       "num": 105163,
       "word": "安东尼世界波",
@@ -2827,12 +2859,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 97657,
-      "num": 97657,
-      "word": "曾就读清华的90后飞行员夺金头盔",
-      "onboard_time": 1664740510,
-      "rank": 47,
-      "category": "社会新闻,军事"
+      "raw_hot": 97216,
+      "num": 97216,
+      "word": "2022年诺贝尔奖10月3日起陆续揭晓",
+      "onboard_time": 1664740090,
+      "rank": 18,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 97111,
@@ -2857,14 +2889,6 @@
       "onboard_time": 1664540725,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 94758,
-      "num": 94758,
-      "word": "2022年诺贝尔奖10月3日起陆续揭晓",
-      "onboard_time": 1664740090,
-      "rank": 18,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 94490,
@@ -2937,6 +2961,14 @@
       "onboard_time": 1664575513,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 89155,
+      "num": 89155,
+      "word": "DRX对战MAD",
+      "onboard_time": 1664751914,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 88085,
@@ -3123,28 +3155,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 68880,
-      "num": 68880,
-      "word": "吵架内容都这么高端了吗",
-      "onboard_time": 1664751854,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 68502,
       "num": 68502,
       "word": "万里归途的沉浸感是如何营造的",
       "onboard_time": 1664697741,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 68153,
-      "num": 68153,
-      "word": "DRX对战MAD",
-      "onboard_time": 1664751914,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 67796,
@@ -3160,6 +3176,14 @@
       "word": "黄景瑜新剧消防员造型饭拍路透",
       "onboard_time": 1664552906,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 66907,
+      "num": 66907,
+      "word": "关晓彤话剧舞台饰演秦怡",
+      "onboard_time": 1664745250,
+      "rank": 46,
       "category": "影视"
     },
     {
@@ -3379,14 +3403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 54692,
-      "num": 54692,
-      "word": "关晓彤话剧舞台饰演秦怡",
-      "onboard_time": 1664745250,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 54292,
       "num": 54292,
       "word": "杨天真说领导就是用来抗压的",
@@ -3475,6 +3491,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 47386,
+      "num": 47386,
+      "word": "尼日利亚考虑买C919",
+      "onboard_time": 1664735113,
+      "rank": 49,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 46927,
       "num": 46927,
       "word": "女子喝下自制减肥汁中毒",
@@ -3507,6 +3531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 45627,
+      "num": 45627,
+      "word": "RNG对战SGB",
+      "onboard_time": 1664754258,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 45310,
       "num": 45310,
       "word": "中国女篮赛后庆祝现场",
@@ -3515,20 +3547,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44215,
+      "num": 44215,
+      "word": "导弹专家为国隐姓埋名60余年",
+      "onboard_time": 1664754258,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42858,
       "num": 42858,
       "word": "邓恩vs闫晓楠",
       "onboard_time": 1664676802,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 42854,
-      "num": 42854,
-      "word": "尼日利亚考虑买C919",
-      "onboard_time": 1664735113,
-      "rank": 49,
-      "category": "财经,科技"
     },
     {
       "raw_hot": 41085,

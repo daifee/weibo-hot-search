@@ -1,10 +1,10 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1664753339065,
+  "endTime": 1664754358539,
   "band_list": [
     {
-      "raw_hot": 2195835,
-      "num": 2195835,
+      "raw_hot": 3091269,
+      "num": 3091269,
       "word": "石家庄地震",
       "onboard_time": 1664752097,
       "rank": 0,
@@ -91,6 +91,22 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 350711,
+      "num": 350711,
+      "word": "老师婚期临近62名学生偷偷送惊喜",
+      "onboard_time": 1664743991,
+      "rank": 24,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 338599,
+      "num": 338599,
+      "word": "北溪管道泄漏将产生灾难性影响",
+      "onboard_time": 1664706682,
+      "rank": 12,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 330524,
       "num": 330524,
       "word": "23岁女孩吃网红药意识混乱险丧命",
@@ -99,16 +115,8 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 317377,
-      "num": 317377,
-      "word": "北溪管道泄漏将产生灾难性影响",
-      "onboard_time": 1664706682,
-      "rank": 12,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 305527,
-      "num": 96309,
+      "num": 103813,
       "word": "天津地震",
       "onboard_time": 1664699721,
       "rank": 37,
@@ -121,14 +129,6 @@
       "onboard_time": 1664716285,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 273108,
-      "num": 273108,
-      "word": "老师婚期临近62名学生偷偷送惊喜",
-      "onboard_time": 1664743991,
-      "rank": 24,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 251071,
@@ -145,6 +145,14 @@
       "onboard_time": 1664703323,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238342,
+      "num": 238342,
+      "word": "大学最后一课老师告诫学生接受平凡",
+      "onboard_time": 1664751795,
+      "rank": 19,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 236159,
@@ -179,12 +187,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 165612,
-      "num": 165612,
+      "raw_hot": 185137,
+      "num": 185137,
       "word": "男子公园跳街舞被小孩指着说神经",
       "onboard_time": 1664737932,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176410,
+      "num": 176410,
+      "word": "想当航天员不能打呼噜",
+      "onboard_time": 1664721383,
+      "rank": 20,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 165427,
@@ -195,12 +211,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 161602,
-      "num": 161602,
-      "word": "想当航天员不能打呼噜",
-      "onboard_time": 1664721383,
-      "rank": 20,
-      "category": "科技,社会新闻"
+      "raw_hot": 153931,
+      "num": 153931,
+      "word": "吵架内容都这么高端了吗",
+      "onboard_time": 1664751854,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 151102,
@@ -227,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128180,
+      "num": 128180,
+      "word": "灰太狼听完都改吃素了",
+      "onboard_time": 1664753717,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126156,
       "num": 126156,
       "word": "万里归途票房破4亿",
@@ -243,12 +267,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 125422,
+      "num": 125422,
+      "word": "曾就读清华的90后飞行员夺金头盔",
+      "onboard_time": 1664740510,
+      "rank": 47,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 123755,
       "num": 123755,
       "word": "1岁娃玩药粉妈妈帮清洗全被染紫",
       "onboard_time": 1664705124,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122716,
+      "num": 122716,
+      "word": "2022最后90天",
+      "onboard_time": 1664753959,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 116620,
@@ -275,14 +315,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 105190,
-      "num": 105190,
-      "word": "大学最后一课老师告诫学生接受平凡",
-      "onboard_time": 1664751795,
-      "rank": 19,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 102864,
       "num": 102864,
       "word": "该成熟的时候就要成熟",
@@ -307,20 +339,20 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 97657,
-      "num": 97657,
-      "word": "曾就读清华的90后飞行员夺金头盔",
-      "onboard_time": 1664740510,
-      "rank": 47,
-      "category": "社会新闻,军事"
-    },
-    {
-      "raw_hot": 94758,
-      "num": 94758,
+      "raw_hot": 97216,
+      "num": 97216,
       "word": "2022年诺贝尔奖10月3日起陆续揭晓",
       "onboard_time": 1664740090,
       "rank": 18,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 89155,
+      "num": 89155,
+      "word": "DRX对战MAD",
+      "onboard_time": 1664751914,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 87746,
@@ -395,20 +427,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 68880,
-      "num": 68880,
-      "word": "吵架内容都这么高端了吗",
-      "onboard_time": 1664751854,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 68153,
-      "num": 68153,
-      "word": "DRX对战MAD",
-      "onboard_time": 1664751914,
-      "rank": 31,
-      "category": "游戏"
+      "raw_hot": 66907,
+      "num": 66907,
+      "word": "关晓彤话剧舞台饰演秦怡",
+      "onboard_time": 1664745250,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 61560,
@@ -435,14 +459,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 54692,
-      "num": 54692,
-      "word": "关晓彤话剧舞台饰演秦怡",
-      "onboard_time": 1664745250,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 53010,
       "num": 53010,
       "word": "父母旅游时的主要区别",
@@ -467,6 +483,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 47386,
+      "num": 47386,
+      "word": "尼日利亚考虑买C919",
+      "onboard_time": 1664735113,
+      "rank": 49,
+      "category": "财经,科技"
+    },
+    {
+      "raw_hot": 45627,
+      "num": 45627,
+      "word": "RNG对战SGB",
+      "onboard_time": 1664754258,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 45579,
       "num": 45579,
       "word": "哈兰德太强了",
@@ -475,12 +507,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 42854,
-      "num": 42854,
-      "word": "尼日利亚考虑买C919",
-      "onboard_time": 1664735113,
-      "rank": 49,
-      "category": "财经,科技"
+      "raw_hot": 44215,
+      "num": 44215,
+      "word": "导弹专家为国隐姓埋名60余年",
+      "onboard_time": 1664754258,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40314,
@@ -515,7 +547,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 7745,
+      "raw_hot": 7778,
       "num": 795401,
       "word": "新时代 我在中国",
       "onboard_time": 1664680822,
