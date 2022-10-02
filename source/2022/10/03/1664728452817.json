@@ -1,0 +1,410 @@
+{
+  "runTime": 1664728452817,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1447248,
+        "num": 1447248,
+        "word": "C罗",
+        "onboard_time": 1664724204,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1051524,
+        "num": 1051524,
+        "word": "糊但好看的剧",
+        "onboard_time": 1664707524,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 7745,
+        "num": 741583,
+        "word": "新时代 我在中国",
+        "onboard_time": 1664680822,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 631538,
+        "num": 631538,
+        "word": "俄罗斯暂停向意大利供应天然气",
+        "onboard_time": 1664714963,
+        "rank": 3,
+        "category": "国外要闻,财经"
+      },
+      {
+        "raw_hot": 531802,
+        "num": 531802,
+        "word": "男子开特斯拉返乡堵到没电叫拖车",
+        "onboard_time": 1664720005,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510265,
+        "num": 510265,
+        "word": "8旬老baby因洗碗持兵器开战",
+        "onboard_time": 1664725402,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465567,
+        "num": 465567,
+        "word": "德国民众雨中示威要求停止对俄制裁",
+        "onboard_time": 1664724624,
+        "rank": 6,
+        "category": "国外要闻,社会新闻"
+      },
+      {
+        "raw_hot": 434948,
+        "num": 434948,
+        "word": "爷爷为孙女做百余个拇指大小馒头",
+        "onboard_time": 1664722702,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428049,
+        "num": 428049,
+        "word": "BLACKPINKShutDown获人歌一位",
+        "onboard_time": 1664726543,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 397003,
+        "num": 397003,
+        "word": "医生隔着妈妈肚皮将宝宝调了个头",
+        "onboard_time": 1664704460,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383005,
+        "num": 383005,
+        "word": "今年总要去一次长沙吧",
+        "onboard_time": 1664715923,
+        "rank": 10,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 330524,
+        "num": 330524,
+        "word": "23岁女孩吃网红药意识混乱险丧命",
+        "onboard_time": 1664702722,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 307981,
+        "num": 307981,
+        "word": "北溪管道泄漏将产生灾难性影响",
+        "onboard_time": 1664706682,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 289569,
+        "num": 289569,
+        "word": "周亦安决定辞职",
+        "onboard_time": 1664716285,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248238,
+        "num": 248238,
+        "word": "研究发现3亿年后太平洋将消失",
+        "onboard_time": 1664703323,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236159,
+        "num": 236159,
+        "word": "陈慧娴33年隔空对唱千千阙歌",
+        "onboard_time": 1664726003,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 209675,
+        "num": 209675,
+        "word": "曼城6比3曼联",
+        "onboard_time": 1664723724,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207868,
+        "num": 207868,
+        "word": "杨坤马嘉祺毫无默契",
+        "onboard_time": 1664720724,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207269,
+        "num": 207269,
+        "word": "女孩国庆帮喂猫一周将赚5千",
+        "onboard_time": 1664710344,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165427,
+        "num": 165427,
+        "word": "中国女排世界排名跌至第5名",
+        "onboard_time": 1664714723,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161602,
+        "num": 161602,
+        "word": "想当航天员不能打呼噜",
+        "onboard_time": 1664721383,
+        "rank": 20,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 151102,
+        "num": 151102,
+        "word": "周传雄陆虎合唱黄昏",
+        "onboard_time": 1664724863,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146499,
+        "num": 146499,
+        "word": "炽道导演回应滤镜争议",
+        "onboard_time": 1664724744,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138658,
+        "num": 138658,
+        "word": "男生换宿舍后发现地板下暗藏地道",
+        "onboard_time": 1664700983,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126156,
+        "num": 126156,
+        "word": "万里归途票房破4亿",
+        "onboard_time": 1664710524,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125636,
+        "num": 125636,
+        "word": "你听过最好的安慰是怎样的",
+        "onboard_time": 1664716221,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123755,
+        "num": 123755,
+        "word": "1岁娃玩药粉妈妈帮清洗全被染紫",
+        "onboard_time": 1664705124,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115270,
+        "num": 115270,
+        "word": "任嘉伦李沁请君相拥说枕边话",
+        "onboard_time": 1664721806,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 106181,
+        "num": 106181,
+        "word": "故宫高清壁纸上新",
+        "onboard_time": 1664724086,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102864,
+        "num": 102864,
+        "word": "该成熟的时候就要成熟",
+        "onboard_time": 1664720846,
+        "rank": 29,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 101696,
+        "num": 101696,
+        "word": "没见过这么潦草的狗",
+        "onboard_time": 1664714123,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100303,
+        "num": 100303,
+        "word": "大爷捡19万现金苦等失主6小时",
+        "onboard_time": 1664710643,
+        "rank": 31,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 87664,
+        "num": 87664,
+        "word": "骗子打给民警报校名民警灵魂反问",
+        "onboard_time": 1664717725,
+        "rank": 32,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 86326,
+        "num": 86326,
+        "word": "我们的歌",
+        "onboard_time": 1664716885,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83635,
+        "num": 83635,
+        "word": "罗一舟关晓彤同框",
+        "onboard_time": 1664707463,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 79411,
+        "num": 79411,
+        "word": "被吓过的小猫有多记仇",
+        "onboard_time": 1664717245,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 74868,
+        "num": 74868,
+        "word": "张艺兴为金晨新剧打call",
+        "onboard_time": 1664714123,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 74702,
+        "num": 74702,
+        "word": "天津地震",
+        "onboard_time": 1664699721,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73486,
+        "num": 73486,
+        "word": "电缆掉落致堵车夫妻俩托举90分钟",
+        "onboard_time": 1664709805,
+        "rank": 38,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 72584,
+        "num": 72584,
+        "word": "安东尼世界波",
+        "onboard_time": 1664722825,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69683,
+        "num": 69683,
+        "word": "人生大事登顶中国台湾网飞电影榜",
+        "onboard_time": 1664708363,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 67115,
+        "num": 67115,
+        "word": "太原新增5例感染者",
+        "onboard_time": 1664727562,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61560,
+        "num": 61560,
+        "word": "虞书欣小森林重新定义渣男",
+        "onboard_time": 1664709682,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 58143,
+        "num": 58143,
+        "word": "江苏人从短袖到秋裤可能只需一天",
+        "onboard_time": 1664709743,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57697,
+        "num": 57697,
+        "word": "原来兔子掉毛这么夸张",
+        "onboard_time": 1664707342,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 53010,
+        "num": 53010,
+        "word": "父母旅游时的主要区别",
+        "onboard_time": 1664719164,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 47949,
+        "num": 47949,
+        "word": "曼市德比哈兰德帽子戏法",
+        "onboard_time": 1664722225,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47944,
+        "num": 47944,
+        "word": "成毅周亦安振作起来",
+        "onboard_time": 1664723304,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 45579,
+        "num": 45579,
+        "word": "哈兰德太强了",
+        "onboard_time": 1664721926,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40314,
+        "num": 40314,
+        "word": "哈兰德3分钟2球",
+        "onboard_time": 1664719824,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国空间站等你来出差#"
+    }
+  }
+}

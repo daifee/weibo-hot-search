@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664725518719,
+  "endTime": 1664728452817,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -137,6 +137,14 @@
       "onboard_time": 1664623224,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1447248,
+      "num": 1447248,
+      "word": "C罗",
+      "onboard_time": 1664724204,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 1419775,
@@ -427,14 +435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 775493,
-      "num": 775493,
-      "word": "C罗",
-      "onboard_time": 1664724204,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 756772,
       "num": 756772,
       "word": "左麟右李",
@@ -723,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 510265,
+      "num": 510265,
+      "word": "8旬老baby因洗碗持兵器开战",
+      "onboard_time": 1664725402,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 508018,
       "num": 508018,
       "word": "首套个人住房公积金贷款利率下调",
@@ -811,6 +819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 465567,
+      "num": 465567,
+      "word": "德国民众雨中示威要求停止对俄制裁",
+      "onboard_time": 1664724624,
+      "rank": 30,
+      "category": "国外要闻,社会新闻"
+    },
+    {
       "raw_hot": 458666,
       "num": 458666,
       "word": "被王鹤棣秦霄贤喊麦笑死",
@@ -857,6 +873,14 @@
       "onboard_time": 1664603960,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 428049,
+      "num": 428049,
+      "word": "BLACKPINKShutDown获人歌一位",
+      "onboard_time": 1664726543,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 425615,
@@ -1611,6 +1635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 236159,
+      "num": 236159,
+      "word": "陈慧娴33年隔空对唱千千阙歌",
+      "onboard_time": 1664726003,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 233789,
       "num": 201935,
       "word": "李宇春国庆晚会我愿舞台",
@@ -2203,6 +2235,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 146499,
+      "num": 146499,
+      "word": "炽道导演回应滤镜争议",
+      "onboard_time": 1664724744,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 145085,
       "num": 98001,
       "word": "星星点灯万里归途",
@@ -2273,14 +2313,6 @@
       "onboard_time": 1664634625,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 141083,
-      "num": 141083,
-      "word": "德国民众雨中示威要求停止对俄制裁",
-      "onboard_time": 1664724624,
-      "rank": 30,
-      "category": "国外要闻,社会新闻"
     },
     {
       "raw_hot": 140556,
@@ -2529,14 +2561,6 @@
       "onboard_time": 1664617042,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 117030,
-      "num": 117030,
-      "word": "炽道导演回应滤镜争议",
-      "onboard_time": 1664724744,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 116819,
@@ -3027,14 +3051,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 69712,
-      "num": 69712,
-      "word": "8旬老baby因洗碗持兵器开战",
-      "onboard_time": 1664725402,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 68502,
       "num": 68502,
       "word": "万里归途的沉浸感是如何营造的",
@@ -3057,6 +3073,14 @@
       "onboard_time": 1664552906,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 67115,
+      "num": 67115,
+      "word": "太原新增5例感染者",
+      "onboard_time": 1664727562,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66512,
