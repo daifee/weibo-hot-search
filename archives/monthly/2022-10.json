@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664720623384,
+  "endTime": 1664721652916,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1417215,
+      "num": 1417215,
+      "word": "周亦安决定辞职",
+      "onboard_time": 1664716285,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1382253,
       "num": 1382253,
       "word": "国考",
@@ -240,14 +248,6 @@
       "word": "万里归途开分9.6",
       "onboard_time": 1664545406,
       "rank": 1,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1151319,
-      "num": 1151319,
-      "word": "周亦安决定辞职",
-      "onboard_time": 1664716285,
-      "rank": 5,
       "category": "影视"
     },
     {
@@ -491,6 +491,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 698176,
+      "num": 698176,
+      "word": "今年总要去一次长沙吧",
+      "onboard_time": 1664715923,
+      "rank": 41,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 691285,
       "num": 308387,
       "word": "iPhone6被苹果列入过时产品",
@@ -531,14 +539,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 654467,
-      "num": 654467,
-      "word": "今年总要去一次长沙吧",
-      "onboard_time": 1664715923,
-      "rank": 41,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 652526,
       "num": 652526,
       "word": "南京地铁超小号警犬国庆正式上岗",
@@ -569,6 +569,14 @@
       "onboard_time": 1664551584,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 633973,
+      "num": 633973,
+      "word": "杨坤马嘉祺毫无默契",
+      "onboard_time": 1664720724,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 632338,
@@ -1123,6 +1131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320401,
+      "num": 320401,
+      "word": "男子开特斯拉返乡堵到没电叫拖车",
+      "onboard_time": 1664720005,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317298,
       "num": 242340,
       "word": "万里归途彩蛋",
@@ -1171,6 +1187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 306882,
+      "num": 306882,
+      "word": "曼联半场0比4落后",
+      "onboard_time": 1664719824,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 303761,
       "num": 303761,
       "word": "中国人为什么喜欢龙",
@@ -1185,14 +1209,6 @@
       "onboard_time": 1664626283,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 298731,
-      "num": 298731,
-      "word": "曼联半场0比4落后",
-      "onboard_time": 1664719824,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 298026,
@@ -1483,6 +1499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243905,
+      "num": 243905,
+      "word": "你听过最好的安慰是怎样的",
+      "onboard_time": 1664716221,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 243399,
       "num": 190193,
       "word": "年龄带给你的是焦虑还是勇气",
@@ -1531,14 +1555,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 237741,
-      "num": 237741,
-      "word": "你听过最好的安慰是怎样的",
-      "onboard_time": 1664716221,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 233789,
       "num": 201935,
       "word": "李宇春国庆晚会我愿舞台",
@@ -1553,6 +1569,14 @@
       "onboard_time": 1664604202,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232498,
+      "num": 232498,
+      "word": "哈兰德3分钟2球",
+      "onboard_time": 1664719824,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 232307,
@@ -2419,14 +2443,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 116748,
-      "num": 116748,
-      "word": "男子开特斯拉返乡堵到没电叫拖车",
-      "onboard_time": 1664720005,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 116510,
       "num": 116510,
       "word": "万里归途中的隐藏知识点",
@@ -2473,6 +2489,14 @@
       "onboard_time": 1664670021,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112023,
+      "num": 112023,
+      "word": "父母旅游时的主要区别",
+      "onboard_time": 1664719164,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 111710,
@@ -2555,14 +2579,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 103349,
-      "num": 103349,
-      "word": "哈兰德3分钟2球",
-      "onboard_time": 1664719824,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 102787,
       "num": 102787,
       "word": "李雪健1句台词塑造4个人物",
@@ -2617,6 +2633,14 @@
       "onboard_time": 1664705963,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99083,
+      "num": 99083,
+      "word": "该成熟的时候就要成熟",
+      "onboard_time": 1664720846,
+      "rank": 38,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 98068,
@@ -2763,14 +2787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 85405,
-      "num": 85405,
-      "word": "父母旅游时的主要区别",
-      "onboard_time": 1664719164,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 84798,
       "num": 84798,
       "word": "香港举行升旗仪式",
@@ -2881,6 +2897,14 @@
       "onboard_time": 1664601982,
       "rank": 35,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 75673,
+      "num": 75673,
+      "word": "想当航天员不能打呼噜",
+      "onboard_time": 1664721383,
+      "rank": 46,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 74997,
