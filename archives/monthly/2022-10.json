@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664745762653,
+  "endTime": 1664746839803,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -3436,7 +3436,7 @@
     },
     {
       "raw_hot": 44476,
-      "num": 33229,
+      "num": 34292,
       "word": "男子公园跳街舞被小孩指着说神经",
       "onboard_time": 1664737932,
       "rank": 47,
@@ -3523,6 +3523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30660,
+      "num": 30660,
+      "word": "老师婚期临近62名学生偷偷送惊喜",
+      "onboard_time": 1664743991,
+      "rank": 24,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 28760,
       "num": 28760,
       "word": "2022女排世锦赛",
@@ -3553,14 +3561,6 @@
       "onboard_time": 1664561715,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 17032,
-      "num": 17032,
-      "word": "老师婚期临近62名学生偷偷送惊喜",
-      "onboard_time": 1664743991,
-      "rank": 24,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 13559,
@@ -3595,8 +3595,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 7319,
-      "num": 8802,
+      "raw_hot": 8826,
+      "num": 8826,
       "word": "关晓彤话剧舞台饰演秦怡",
       "onboard_time": 1664745250,
       "rank": 46,
@@ -3643,12 +3643,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 5314,
+      "num": 5314,
+      "word": "熊猫被秋困冲昏了头脑",
+      "onboard_time": 1664746510,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 5286,
       "num": 6940,
       "word": "夕阳下教学楼氛围感绝了",
       "onboard_time": 1664742972,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4988,
+      "num": 5309,
+      "word": "字母哥退役后想像邓肯一样消失",
+      "onboard_time": 1664746631,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 4980,
+      "num": 5287,
+      "word": "2分钟居家健身操",
+      "onboard_time": 1664746571,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 4880,
