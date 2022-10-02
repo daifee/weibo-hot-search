@@ -1,0 +1,410 @@
+{
+  "runTime": 1664720623384,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1760447,
+        "num": 1760447,
+        "word": "俄罗斯暂停向意大利供应天然气",
+        "onboard_time": 1664714963,
+        "rank": 0,
+        "category": "国外要闻,财经"
+      },
+      {
+        "raw_hot": 1272259,
+        "num": 1272259,
+        "word": "糊但好看的剧",
+        "onboard_time": 1664707524,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 12952,
+        "num": 1156156,
+        "word": "新时代 我在中国",
+        "onboard_time": 1664680822,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1151319,
+        "num": 1151319,
+        "word": "周亦安决定辞职",
+        "onboard_time": 1664716285,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 889052,
+        "num": 889052,
+        "word": "医生隔着妈妈肚皮将宝宝调了个头",
+        "onboard_time": 1664704460,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 654467,
+        "num": 654467,
+        "word": "今年总要去一次长沙吧",
+        "onboard_time": 1664715923,
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 630777,
+        "num": 630777,
+        "word": "北溪管道泄漏将产生灾难性影响",
+        "onboard_time": 1664706682,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 568074,
+        "num": 568074,
+        "word": "23岁女孩吃网红药意识混乱险丧命",
+        "onboard_time": 1664702722,
+        "rank": 7,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 460087,
+        "num": 460087,
+        "word": "我们的歌",
+        "onboard_time": 1664716885,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 410060,
+        "num": 410060,
+        "word": "女孩国庆帮喂猫一周将赚5千",
+        "onboard_time": 1664710344,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463522,
+        "num": 398180,
+        "word": "中国女排世界排名跌至第5名",
+        "onboard_time": 1664714723,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 351324,
+        "num": 351324,
+        "word": "研究发现3亿年后太平洋将消失",
+        "onboard_time": 1664703323,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321014,
+        "num": 321014,
+        "word": "男生换宿舍后发现地板下暗藏地道",
+        "onboard_time": 1664700983,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298731,
+        "num": 298731,
+        "word": "曼联半场0比4落后",
+        "onboard_time": 1664719824,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 297087,
+        "num": 297087,
+        "word": "1岁娃玩药粉妈妈帮清洗全被染紫",
+        "onboard_time": 1664705124,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271166,
+        "num": 271166,
+        "word": "李楷灿人歌舞台直拍",
+        "onboard_time": 1664720005,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 270846,
+        "num": 270846,
+        "word": "没见过这么潦草的狗",
+        "onboard_time": 1664714123,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 266194,
+        "num": 266194,
+        "word": "张艺兴为金晨新剧打call",
+        "onboard_time": 1664714123,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253820,
+        "num": 253820,
+        "word": "被吓过的小猫有多记仇",
+        "onboard_time": 1664717245,
+        "rank": 18,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 250158,
+        "num": 250158,
+        "word": "曼城vs曼联",
+        "onboard_time": 1664713161,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 624462,
+        "num": 245682,
+        "word": "刘强东向章泽天致歉",
+        "onboard_time": 1664689642,
+        "rank": 20,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 240458,
+        "num": 240458,
+        "word": "万里归途票房破4亿",
+        "onboard_time": 1664710524,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237741,
+        "num": 237741,
+        "word": "你听过最好的安慰是怎样的",
+        "onboard_time": 1664716221,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227291,
+        "num": 227291,
+        "word": "罗一舟关晓彤同框",
+        "onboard_time": 1664707463,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 215821,
+        "num": 215821,
+        "word": "骗子打给民警报校名民警灵魂反问",
+        "onboard_time": 1664717725,
+        "rank": 24,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 205164,
+        "num": 205164,
+        "word": "大爷捡19万现金苦等失主6小时",
+        "onboard_time": 1664710643,
+        "rank": 25,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 195255,
+        "num": 195255,
+        "word": "人生大事登顶中国台湾网飞电影榜",
+        "onboard_time": 1664708363,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175178,
+        "num": 175178,
+        "word": "电缆掉落致堵车夫妻俩托举90分钟",
+        "onboard_time": 1664709805,
+        "rank": 27,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 163496,
+        "num": 163496,
+        "word": "虞书欣小森林重新定义渣男",
+        "onboard_time": 1664709682,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157853,
+        "num": 157853,
+        "word": "天津地震",
+        "onboard_time": 1664699721,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136645,
+        "num": 136645,
+        "word": "虞美人在庄羽强迫症雷点蹦迪",
+        "onboard_time": 1664717665,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131613,
+        "num": 131613,
+        "word": "李一桐说和金瀚的吻戏只是工具吻",
+        "onboard_time": 1664703504,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125165,
+        "num": 125165,
+        "word": "原来兔子掉毛这么夸张",
+        "onboard_time": 1664707342,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121474,
+        "num": 121474,
+        "word": "刘强东回应明州事件",
+        "onboard_time": 1664692462,
+        "rank": 33,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 119224,
+        "num": 119224,
+        "word": "江苏人从短袖到秋裤可能只需一天",
+        "onboard_time": 1664709743,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116748,
+        "num": 116748,
+        "word": "男子开特斯拉返乡堵到没电叫拖车",
+        "onboard_time": 1664720005,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115218,
+        "num": 115218,
+        "word": "陈哲远综艺之神降临",
+        "onboard_time": 1664712684,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103349,
+        "num": 103349,
+        "word": "哈兰德3分钟2球",
+        "onboard_time": 1664719824,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95278,
+        "num": 95278,
+        "word": "电视剧大考演我",
+        "onboard_time": 1664718805,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 95150,
+        "num": 95150,
+        "word": "布林肯称北溪管道遭破坏是巨大机遇",
+        "onboard_time": 1664697921,
+        "rank": 39,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 92371,
+        "num": 92371,
+        "word": "曼城半场4比0曼联",
+        "onboard_time": 1664719824,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92001,
+        "num": 92001,
+        "word": "陆登夫妇盖棉被纯聊天",
+        "onboard_time": 1664715382,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 85405,
+        "num": 85405,
+        "word": "父母旅游时的主要区别",
+        "onboard_time": 1664719164,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84707,
+        "num": 84707,
+        "word": "国乒男团世乒赛两连胜",
+        "onboard_time": 1664715382,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84265,
+        "num": 84265,
+        "word": "幼童被困5楼近40人拉起防护网",
+        "onboard_time": 1664699964,
+        "rank": 44,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 80815,
+        "num": 80815,
+        "word": "周冠宇新加坡站退赛",
+        "onboard_time": 1664720425,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80362,
+        "num": 80362,
+        "word": "中央气象台发布史上最早寒潮预警",
+        "onboard_time": 1664692342,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79691,
+        "num": 79691,
+        "word": "唐朝诡事录反转",
+        "onboard_time": 1664708904,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 76172,
+        "num": 76172,
+        "word": "首次在港澳地区选拔载荷专家",
+        "onboard_time": 1664709983,
+        "rank": 48,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 75621,
+        "num": 75621,
+        "word": "印尼严重球迷冲突已致129死180伤",
+        "onboard_time": 1664700803,
+        "rank": 49,
+        "category": "社会负面,体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#江河奔腾看中国#"
+    }
+  }
+}
