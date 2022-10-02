@@ -1,6 +1,6 @@
 {
   "startTime": 1664642097015,
-  "endTime": 1664718097676,
+  "endTime": 1664718879029,
   "band_list": [
     {
       "raw_hot": 3125010,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1595304,
+      "num": 1595304,
+      "word": "俄罗斯暂停向意大利供应天然气",
+      "onboard_time": 1664714963,
+      "rank": 10,
+      "category": "国外要闻,财经"
+    },
+    {
       "raw_hot": 1419775,
       "num": 1419775,
       "word": "研究发现3亿年后太平洋将消失",
@@ -89,14 +97,6 @@
       "onboard_time": 1664701640,
       "rank": 17,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 1195237,
-      "num": 1195237,
-      "word": "俄罗斯暂停向意大利供应天然气",
-      "onboard_time": 1664714963,
-      "rank": 10,
-      "category": "国外要闻,财经"
     },
     {
       "raw_hot": 1177767,
@@ -139,6 +139,14 @@
       "category": "社会负面,体育"
     },
     {
+      "raw_hot": 1000028,
+      "num": 1000028,
+      "word": "周亦安决定辞职",
+      "onboard_time": 1664716285,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 970549,
       "num": 970549,
       "word": "小伙出差住酒店被安排住进婚房",
@@ -160,14 +168,6 @@
       "word": "长津湖首播收视率第一",
       "onboard_time": 1664632765,
       "rank": 0,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 846784,
-      "num": 846784,
-      "word": "周亦安决定辞职",
-      "onboard_time": 1664716285,
-      "rank": 5,
       "category": "影视"
     },
     {
@@ -299,6 +299,14 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 625668,
+      "num": 625668,
+      "word": "我们的歌",
+      "onboard_time": 1664716885,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 615037,
       "num": 530774,
       "word": "老鼠站门框与狗僵持对峙6小时",
@@ -345,14 +353,6 @@
       "onboard_time": 1664696602,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 544321,
-      "num": 544321,
-      "word": "我们的歌",
-      "onboard_time": 1664716885,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 526896,
@@ -483,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 392761,
+      "num": 392761,
+      "word": "今年总要去一次长沙吧",
+      "onboard_time": 1664715923,
+      "rank": 41,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 386414,
       "num": 376596,
       "word": "美国加州将农历新年定为法定假日",
@@ -521,6 +529,14 @@
       "onboard_time": 1664710524,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 333458,
+      "num": 333458,
+      "word": "没见过这么潦草的狗",
+      "onboard_time": 1664714123,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 325734,
@@ -563,20 +579,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 312592,
-      "num": 312592,
-      "word": "没见过这么潦草的狗",
-      "onboard_time": 1664714123,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 305446,
-      "num": 305446,
-      "word": "今年总要去一次长沙吧",
-      "onboard_time": 1664715923,
-      "rank": 41,
-      "category": "旅游"
+      "raw_hot": 298026,
+      "num": 298026,
+      "word": "曼城vs曼联",
+      "onboard_time": 1664713161,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 292345,
@@ -787,6 +795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 221082,
+      "num": 221082,
+      "word": "被吓过的小猫有多记仇",
+      "onboard_time": 1664717245,
+      "rank": 29,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 219348,
       "num": 219348,
       "word": "ICU医生自我介绍敢和死神抢人",
@@ -801,6 +817,14 @@
       "onboard_time": 1664699423,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 216041,
+      "num": 64626,
+      "word": "杨坤马嘉祺唱轰炸",
+      "onboard_time": 1664718865,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 208788,
@@ -883,20 +907,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191346,
+      "num": 191346,
+      "word": "人生大事登顶中国台湾网飞电影榜",
+      "onboard_time": 1664708363,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 191277,
+      "num": 191277,
+      "word": "你听过最好的安慰是怎样的",
+      "onboard_time": 1664716221,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 190892,
       "num": 190892,
       "word": "网剧炽道",
       "onboard_time": 1664629581,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 190318,
-      "num": 190318,
-      "word": "曼城vs曼联",
-      "onboard_time": 1664713161,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 186898,
@@ -1003,14 +1035,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 158175,
-      "num": 136711,
-      "word": "人生大事登顶中国台湾网飞电影榜",
-      "onboard_time": 1664708363,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 158017,
       "num": 158017,
       "word": "曾可妮新剧演李一桐闺蜜",
@@ -1025,14 +1049,6 @@
       "onboard_time": 1664629882,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 156408,
-      "num": 156408,
-      "word": "你听过最好的安慰是怎样的",
-      "onboard_time": 1664716221,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 155233,
@@ -1113,14 +1129,6 @@
       "onboard_time": 1664640501,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 137890,
-      "num": 137890,
-      "word": "被吓过的小猫有多记仇",
-      "onboard_time": 1664717245,
-      "rank": 29,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 135038,
@@ -1265,6 +1273,22 @@
       "onboard_time": 1664636782,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114257,
+      "num": 114257,
+      "word": "电视剧大考演我",
+      "onboard_time": 1664718805,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 114223,
+      "num": 114223,
+      "word": "骗子打给民警报校名民警灵魂反问",
+      "onboard_time": 1664717725,
+      "rank": 42,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 112825,
@@ -1465,14 +1489,6 @@
       "onboard_time": 1664691562,
       "rank": 45,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 78407,
-      "num": 78407,
-      "word": "骗子打给民警报校名民警灵魂反问",
-      "onboard_time": 1664717725,
-      "rank": 42,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 77954,
