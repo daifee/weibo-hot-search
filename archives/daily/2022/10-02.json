@@ -1,6 +1,6 @@
 {
   "startTime": 1664642097015,
-  "endTime": 1664689780450,
+  "endTime": 1664690389421,
   "band_list": [
     {
       "raw_hot": 3105129,
@@ -24,6 +24,22 @@
       "word": "10月1日新增本土无症状432例",
       "onboard_time": 1664673861,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1512566,
+      "num": 309160,
+      "word": "刘强东向章泽天致歉",
+      "onboard_time": 1664689642,
+      "rank": 25,
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 1267680,
+      "num": 1267680,
+      "word": "7省将现37℃以上高温",
+      "onboard_time": 1664687724,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -59,8 +75,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 808890,
-      "num": 172822,
+      "raw_hot": 821733,
+      "num": 340880,
       "word": "华春莹推特连发12组对比图",
       "onboard_time": 1664686579,
       "rank": 20,
@@ -72,14 +88,6 @@
       "word": "重庆拍到黑熊一家三口林中漫步",
       "onboard_time": 1664641459,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 768214,
-      "num": 768214,
-      "word": "7省将现37℃以上高温",
-      "onboard_time": 1664687724,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -99,20 +107,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 703717,
+      "num": 365078,
+      "word": "袁姗姗最美中国戏红娘造型",
+      "onboard_time": 1664684602,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 703315,
       "num": 368045,
       "word": "医生吃火锅用牙签剔除脑花血管",
       "onboard_time": 1664634264,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 681786,
-      "num": 365078,
-      "word": "袁姗姗最美中国戏红娘造型",
-      "onboard_time": 1664684602,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 672115,
@@ -179,8 +187,8 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 483352,
-      "num": 483352,
+      "raw_hot": 495253,
+      "num": 495253,
       "word": "才知道票根可以这样保存",
       "onboard_time": 1664684722,
       "rank": 37,
@@ -203,20 +211,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 464018,
+      "num": 464018,
+      "word": "提前退休打造自己18000平的海岛庄园",
+      "onboard_time": 1664684663,
+      "rank": 44,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 458666,
       "num": 458666,
       "word": "被王鹤棣秦霄贤喊麦笑死",
       "onboard_time": 1664682442,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 433673,
-      "num": 433673,
-      "word": "提前退休打造自己18000平的海岛庄园",
-      "onboard_time": 1664684663,
-      "rank": 44,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 429372,
@@ -251,8 +259,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 366014,
-      "num": 366014,
+      "raw_hot": 375436,
+      "num": 375436,
       "word": "电影万里归途豆瓣7.6分",
       "onboard_time": 1664685140,
       "rank": 38,
@@ -531,12 +539,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 160575,
-      "num": 160575,
-      "word": "刘强东向章泽天致歉",
-      "onboard_time": 1664689642,
-      "rank": 25,
-      "category": "社会新闻,科技"
+      "raw_hot": 158017,
+      "num": 158017,
+      "word": "曾可妮新剧演李一桐闺蜜",
+      "onboard_time": 1664685201,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 156849,
@@ -544,14 +552,6 @@
       "word": "陈哲远沈月好嗑",
       "onboard_time": 1664629882,
       "rank": 17,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 152618,
-      "num": 152618,
-      "word": "曾可妮新剧演李一桐闺蜜",
-      "onboard_time": 1664685201,
-      "rank": 32,
       "category": "影视"
     },
     {
@@ -603,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132372,
+      "num": 132372,
+      "word": "代号大本钟",
+      "onboard_time": 1664689522,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131178,
       "num": 131178,
       "word": "国庆假期第二天",
@@ -635,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127950,
+      "num": 119037,
+      "word": "大头儿子里的父子情太戳了",
+      "onboard_time": 1664685262,
+      "rank": 36,
+      "category": "动漫,幽默"
+    },
+    {
       "raw_hot": 126486,
       "num": 126486,
       "word": "RNG战胜ISG",
@@ -665,14 +681,6 @@
       "onboard_time": 1664681420,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118329,
-      "num": 118329,
-      "word": "大头儿子里的父子情太戳了",
-      "onboard_time": 1664685262,
-      "rank": 36,
-      "category": "动漫,幽默"
     },
     {
       "raw_hot": 118216,
@@ -715,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103079,
+      "num": 103079,
+      "word": "李冰冰为角色做乘务员培训",
+      "onboard_time": 1664686823,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 102787,
       "num": 102787,
       "word": "李雪健1句台词塑造4个人物",
@@ -731,12 +747,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 97471,
-      "num": 97471,
-      "word": "李冰冰为角色做乘务员培训",
-      "onboard_time": 1664686823,
-      "rank": 39,
-      "category": "影视"
+      "raw_hot": 101508,
+      "num": 101508,
+      "word": "患白血病男孩7年后捐268万善款",
+      "onboard_time": 1664689826,
+      "rank": 38,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 92118,
@@ -755,14 +771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 88613,
-      "num": 88613,
-      "word": "代号大本钟",
-      "onboard_time": 1664689522,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 88085,
       "num": 88085,
       "word": "女篮决赛的国歌大合唱太震撼",
@@ -771,12 +779,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 85674,
-      "num": 85674,
+      "raw_hot": 86346,
+      "num": 86346,
       "word": "这街数字人撞脸大半个娱乐圈",
       "onboard_time": 1664688503,
       "rank": 43,
       "category": "综艺,科技"
+    },
+    {
+      "raw_hot": 86243,
+      "num": 86243,
+      "word": "女子路遇流浪狗生完宝宝好心投喂",
+      "onboard_time": 1664689103,
+      "rank": 47,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 83391,
@@ -827,20 +843,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70529,
+      "num": 69174,
+      "word": "老鼠站门框与狗僵持对峙6小时",
+      "onboard_time": 1664690364,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70452,
       "num": 70452,
       "word": "中国女篮28年前绝杀澳大利亚队珍贵画面",
       "onboard_time": 1664637085,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 68967,
-      "num": 68967,
-      "word": "女子路遇流浪狗生完宝宝好心投喂",
-      "onboard_time": 1664689103,
-      "rank": 47,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 68672,
