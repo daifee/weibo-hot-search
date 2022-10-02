@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664735451291,
+  "endTime": 1664736571904,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -3491,6 +3491,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 34907,
+      "num": 34907,
+      "word": "尼日利亚考虑买C919",
+      "onboard_time": 1664735113,
+      "rank": 49,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 34833,
       "num": 34833,
       "word": "利物浦3比3布莱顿",
@@ -3529,14 +3537,6 @@
       "onboard_time": 1664561715,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 13023,
-      "num": 13023,
-      "word": "尼日利亚考虑买C919",
-      "onboard_time": 1664735113,
-      "rank": 49,
-      "category": "财经,科技"
     },
     {
       "raw_hot": 10343,
