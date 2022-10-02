@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/03 06:42:57
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/03 07:28:59
 </p>
 </blockquote>
 <p>
@@ -59,6 +59,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B4%A5%E6%B9%96%E9%A6%96%E6%92%AD%E6%94%B6%E8%A7%86%E7%8E%87%E7%AC%AC%E4%B8%80%23" target="weibo">
 长津湖首播收视率第一（热度：2341878）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%B3%E5%AE%B6%E5%BA%84%E5%9C%B0%E9%9C%87%23" target="weibo">
+石家庄地震（热度：2195835）
 </a>
 </li>
 
@@ -1053,6 +1059,12 @@ RNG入围赛三连胜（热度：314691）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E5%A9%9A%E6%9C%9F%E4%B8%B4%E8%BF%9162%E5%90%8D%E5%AD%A6%E7%94%9F%E5%81%B7%E5%81%B7%E9%80%81%E6%83%8A%E5%96%9C%23" target="weibo">
+老师婚期临近62名学生偷偷送惊喜（热度：273108）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%A5%B7%E7%81%BF%E4%BA%BA%E6%AD%8C%E8%88%9E%E5%8F%B0%E7%9B%B4%E6%8B%8D%23" target="weibo">
 李楷灿人歌舞台直拍（热度：271166）
 </a>
@@ -1605,8 +1617,8 @@ ICU医生自我介绍敢和死神抢人（热度：219348）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E5%A9%9A%E6%9C%9F%E4%B8%B4%E8%BF%9162%E5%90%8D%E5%AD%A6%E7%94%9F%E5%81%B7%E5%81%B7%E9%80%81%E6%83%8A%E5%96%9C%23" target="weibo">
-老师婚期临近62名学生偷偷送惊喜（热度：161189）
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%85%AC%E5%9B%AD%E8%B7%B3%E8%A1%97%E8%88%9E%E8%A2%AB%E5%B0%8F%E5%AD%A9%E6%8C%87%E7%9D%80%E8%AF%B4%E7%A5%9E%E7%BB%8F%23" target="weibo">
+男子公园跳街舞被小孩指着说神经（热度：165612）
 </a>
 </li>
 
@@ -2055,6 +2067,12 @@ RNG失误（热度：114450）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E6%9C%80%E5%90%8E%E4%B8%80%E8%AF%BE%E8%80%81%E5%B8%88%E5%91%8A%E8%AF%AB%E5%AD%A6%E7%94%9F%E6%8E%A5%E5%8F%97%E5%B9%B3%E5%87%A1%23" target="weibo">
+大学最后一课老师告诫学生接受平凡（热度：105190）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E4%B8%9C%E5%B0%BC%E4%B8%96%E7%95%8C%E6%B3%A2%23" target="weibo">
 安东尼世界波（热度：105163）
 </a>
@@ -2115,6 +2133,12 @@ RNG失误（热度：114450）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E5%B0%B1%E8%AF%BB%E6%B8%85%E5%8D%8E%E7%9A%8490%E5%90%8E%E9%A3%9E%E8%A1%8C%E5%91%98%E5%A4%BA%E9%87%91%E5%A4%B4%E7%9B%94%23" target="weibo">
+曾就读清华的90后飞行员夺金头盔（热度：97657）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%9C%88%E6%B1%9D%E7%AF%AE%E4%B8%8B%E5%8D%95%E6%89%93%23" target="weibo">
 李月汝篮下单打（热度：97111）
 </a>
@@ -2129,6 +2153,12 @@ RNG失误（热度：114450）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%89%E4%B8%8E%E5%A4%9C%E4%B9%8B%E6%81%8B%23" target="weibo">
 光与夜之恋（热度：96346）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232022%E5%B9%B4%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%9610%E6%9C%883%E6%97%A5%E8%B5%B7%E9%99%86%E7%BB%AD%E6%8F%AD%E6%99%93%23" target="weibo">
+2022年诺贝尔奖10月3日起陆续揭晓（热度：94758）
 </a>
 </li>
 
@@ -2189,6 +2219,12 @@ RNG失误（热度：114450）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%AF%AE%E5%86%B3%E8%B5%9B%E7%9A%84%E5%9B%BD%E6%AD%8C%E5%A4%A7%E5%90%88%E5%94%B1%E5%A4%AA%E9%9C%87%E6%92%BC%23" target="weibo">
 女篮决赛的国歌大合唱太震撼（热度：88085）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%86%8A%E7%8C%AB%E8%A2%AB%E7%A7%8B%E5%9B%B0%E5%86%B2%E6%98%8F%E4%BA%86%E5%A4%B4%E8%84%91%23" target="weibo">
+熊猫被秋困冲昏了头脑（热度：87746）
 </a>
 </li>
 
@@ -2277,12 +2313,6 @@ RNG失误（热度：114450）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%85%AC%E5%9B%AD%E8%B7%B3%E8%A1%97%E8%88%9E%E8%A2%AB%E5%B0%8F%E5%AD%A9%E6%8C%87%E7%9D%80%E8%AF%B4%E7%A5%9E%E7%BB%8F%23" target="weibo">
-男子公园跳街舞被小孩指着说神经（热度：77194）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E4%B8%87%E9%87%8C%E5%BD%92%E9%80%94%E7%BB%86%E8%8A%82%23" target="weibo">
 电影万里归途细节（热度：76567）
 </a>
@@ -2325,8 +2355,20 @@ RNG失误（热度：114450）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B5%E6%9E%B6%E5%86%85%E5%AE%B9%E9%83%BD%E8%BF%99%E4%B9%88%E9%AB%98%E7%AB%AF%E4%BA%86%E5%90%97%23" target="weibo">
+吵架内容都这么高端了吗（热度：68880）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%87%E9%87%8C%E5%BD%92%E9%80%94%E7%9A%84%E6%B2%89%E6%B5%B8%E6%84%9F%E6%98%AF%E5%A6%82%E4%BD%95%E8%90%A5%E9%80%A0%E7%9A%84%23" target="weibo">
 万里归途的沉浸感是如何营造的（热度：68502）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23DRX%E5%AF%B9%E6%88%98MAD%23" target="weibo">
+DRX对战MAD（热度：68153）
 </a>
 </li>
 
@@ -2363,12 +2405,6 @@ RNG失误（热度：114450）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E6%97%97%E6%8A%A4%E5%8D%AB%E9%98%9F%E5%94%B1%E7%A5%96%E5%9B%BD%E4%B8%8D%E4%BC%9A%E5%BF%98%E8%AE%B0%E8%87%AA%E5%B8%A6%E6%B7%B7%E5%93%8D%23" target="weibo">
 国旗护卫队唱祖国不会忘记自带混响（热度：65501）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232022%E5%B9%B4%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%9610%E6%9C%883%E6%97%A5%E8%B5%B7%E9%99%86%E7%BB%AD%E6%8F%AD%E6%99%93%23" target="weibo">
-2022年诺贝尔奖10月3日起陆续揭晓（热度：65493）
 </a>
 </li>
 
@@ -2505,14 +2541,14 @@ MAD对战RNG（热度：64286）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%86%8A%E7%8C%AB%E8%A2%AB%E7%A7%8B%E5%9B%B0%E5%86%B2%E6%98%8F%E4%BA%86%E5%A4%B4%E8%84%91%23" target="weibo">
-熊猫被秋困冲昏了头脑（热度：55423）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B13%E6%AF%940A%E8%BF%AA%E4%BA%9A%E5%85%B9%23" target="weibo">
+王曼昱3比0A迪亚兹（热度：54703）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B13%E6%AF%940A%E8%BF%AA%E4%BA%9A%E5%85%B9%23" target="weibo">
-王曼昱3比0A迪亚兹（热度：54703）
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E8%AF%9D%E5%89%A7%E8%88%9E%E5%8F%B0%E9%A5%B0%E6%BC%94%E7%A7%A6%E6%80%A1%23" target="weibo">
+关晓彤话剧舞台饰演秦怡（热度：54692）
 </a>
 </li>
 
@@ -2620,7 +2656,7 @@ MAD对战RNG（热度：64286）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9A%E8%80%83%E8%99%91%E4%B9%B0C919%23" target="weibo">
-尼日利亚考虑买C919（热度：42110）
+尼日利亚考虑买C919（热度：42854）
 </a>
 </li>
 
@@ -2655,18 +2691,6 @@ NBA季前赛（热度：39242）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E8%AF%9D%E5%89%A7%E8%88%9E%E5%8F%B0%E9%A5%B0%E6%BC%94%E7%A7%A6%E6%80%A1%23" target="weibo">
-关晓彤话剧舞台饰演秦怡（热度：36898）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E5%B0%B1%E8%AF%BB%E6%B8%85%E5%8D%8E%E7%9A%8490%E5%90%8E%E9%A3%9E%E8%A1%8C%E5%91%98%E5%A4%BA%E9%87%91%E5%A4%B4%E7%9B%94%23" target="weibo">
-曾就读清华的90后飞行员夺金头盔（热度：36566）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%92%8C%E6%88%91%E4%B8%80%E8%B5%B7%E5%90%91%E7%A5%96%E5%9B%BD%E5%91%8A%E7%99%BD%23" target="weibo">
 和我一起向祖国告白（热度：35511）
 </a>
@@ -2685,6 +2709,12 @@ NBA季前赛（热度：39242）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E9%83%8A%E5%8C%BA%E6%97%85%E6%B8%B8%E7%BA%A6%E5%8D%A036%25%23" target="weibo">
+国庆假期郊区旅游约占36%（热度：29867）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232022%E5%A5%B3%E6%8E%92%E4%B8%96%E9%94%A6%E8%B5%9B%23" target="weibo">
 2022女排世锦赛（热度：28760）
 </a>
@@ -2699,12 +2729,6 @@ NBA季前赛（热度：39242）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BB%91%E6%BB%91%E6%A2%AF%E7%9A%84%E5%B0%8F%E7%86%8A%E7%8C%AB%23" target="weibo">
 滑滑梯的小熊猫（热度：19434）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E9%83%8A%E5%8C%BA%E6%97%85%E6%B8%B8%E7%BA%A6%E5%8D%A036%25%23" target="weibo">
-国庆假期郊区旅游约占36%（热度：15178）
 </a>
 </li>
 

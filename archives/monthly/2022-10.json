@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664750577385,
+  "endTime": 1664753339065,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -65,6 +65,14 @@
       "onboard_time": 1664632765,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2195835,
+      "num": 2195835,
+      "word": "石家庄地震",
+      "onboard_time": 1664752097,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2135293,
@@ -1387,6 +1395,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 273108,
+      "num": 273108,
+      "word": "老师婚期临近62名学生偷偷送惊喜",
+      "onboard_time": 1664743991,
+      "rank": 24,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 271166,
       "num": 271166,
       "word": "李楷灿人歌舞台直拍",
@@ -2123,12 +2139,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161189,
-      "num": 85258,
-      "word": "老师婚期临近62名学生偷偷送惊喜",
-      "onboard_time": 1664743991,
-      "rank": 24,
-      "category": "社会新闻,教育"
+      "raw_hot": 165612,
+      "num": 165612,
+      "word": "男子公园跳街舞被小孩指着说神经",
+      "onboard_time": 1664737932,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159052,
@@ -2723,6 +2739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105190,
+      "num": 105190,
+      "word": "大学最后一课老师告诫学生接受平凡",
+      "onboard_time": 1664751795,
+      "rank": 19,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 105163,
       "num": 105163,
       "word": "安东尼世界波",
@@ -2803,6 +2827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97657,
+      "num": 97657,
+      "word": "曾就读清华的90后飞行员夺金头盔",
+      "onboard_time": 1664740510,
+      "rank": 47,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 97111,
       "num": 97111,
       "word": "李月汝篮下单打",
@@ -2825,6 +2857,14 @@
       "onboard_time": 1664540725,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 94758,
+      "num": 94758,
+      "word": "2022年诺贝尔奖10月3日起陆续揭晓",
+      "onboard_time": 1664740090,
+      "rank": 18,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 94490,
@@ -2905,6 +2945,14 @@
       "onboard_time": 1664669539,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87746,
+      "num": 87746,
+      "word": "熊猫被秋困冲昏了头脑",
+      "onboard_time": 1664746510,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 86923,
@@ -3019,14 +3067,6 @@
       "category": "社会新闻,影视"
     },
     {
-      "raw_hot": 77194,
-      "num": 77194,
-      "word": "男子公园跳街舞被小孩指着说神经",
-      "onboard_time": 1664737932,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 76567,
       "num": 76567,
       "word": "电影万里归途细节",
@@ -3083,12 +3123,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68880,
+      "num": 68880,
+      "word": "吵架内容都这么高端了吗",
+      "onboard_time": 1664751854,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 68502,
       "num": 68502,
       "word": "万里归途的沉浸感是如何营造的",
       "onboard_time": 1664697741,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 68153,
+      "num": 68153,
+      "word": "DRX对战MAD",
+      "onboard_time": 1664751914,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 67796,
@@ -3137,14 +3193,6 @@
       "onboard_time": 1664580739,
       "rank": 40,
       "category": "国内要闻,军事"
-    },
-    {
-      "raw_hot": 65493,
-      "num": 65493,
-      "word": "2022年诺贝尔奖10月3日起陆续揭晓",
-      "onboard_time": 1664740090,
-      "rank": 18,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 65033,
@@ -3323,20 +3371,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 55423,
-      "num": 55423,
-      "word": "熊猫被秋困冲昏了头脑",
-      "onboard_time": 1664746510,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 54703,
       "num": 54703,
       "word": "王曼昱3比0A迪亚兹",
       "onboard_time": 1664706204,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54692,
+      "num": 54692,
+      "word": "关晓彤话剧舞台饰演秦怡",
+      "onboard_time": 1664745250,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 54292,
@@ -3475,8 +3523,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 42110,
-      "num": 34907,
+      "raw_hot": 42854,
+      "num": 42854,
       "word": "尼日利亚考虑买C919",
       "onboard_time": 1664735113,
       "rank": 49,
@@ -3523,22 +3571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 36898,
-      "num": 36898,
-      "word": "关晓彤话剧舞台饰演秦怡",
-      "onboard_time": 1664745250,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 36566,
-      "num": 36566,
-      "word": "曾就读清华的90后飞行员夺金头盔",
-      "onboard_time": 1664740510,
-      "rank": 47,
-      "category": "社会新闻,军事"
-    },
-    {
       "raw_hot": 35511,
       "num": 35511,
       "word": "和我一起向祖国告白",
@@ -3563,6 +3595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29867,
+      "num": 29867,
+      "word": "国庆假期郊区旅游约占36%",
+      "onboard_time": 1664739551,
+      "rank": 42,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 28760,
       "num": 28760,
       "word": "2022女排世锦赛",
@@ -3585,14 +3625,6 @@
       "onboard_time": 1664561715,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 15178,
-      "num": 15178,
-      "word": "国庆假期郊区旅游约占36%",
-      "onboard_time": 1664739551,
-      "rank": 42,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 10343,
