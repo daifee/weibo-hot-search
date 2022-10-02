@@ -1,7 +1,15 @@
 {
   "startTime": 1664642097015,
-  "endTime": 1664690389421,
+  "endTime": 1664692583581,
   "band_list": [
+    {
+      "raw_hot": 3125010,
+      "num": 309160,
+      "word": "刘强东向章泽天致歉",
+      "onboard_time": 1664689642,
+      "rank": 25,
+      "category": "社会新闻,科技"
+    },
     {
       "raw_hot": 3105129,
       "num": 841660,
@@ -9,6 +17,14 @@
       "onboard_time": 1664686223,
       "rank": 12,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 2800744,
+      "num": 2800744,
+      "word": "7省将现37℃以上高温",
+      "onboard_time": 1664687724,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2672770,
@@ -24,22 +40,6 @@
       "word": "10月1日新增本土无症状432例",
       "onboard_time": 1664673861,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1512566,
-      "num": 309160,
-      "word": "刘强东向章泽天致歉",
-      "onboard_time": 1664689642,
-      "rank": 25,
-      "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 1267680,
-      "num": 1267680,
-      "word": "7省将现37℃以上高温",
-      "onboard_time": 1664687724,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -155,19 +155,19 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 541603,
+      "num": 541603,
+      "word": "女子回老家炖排骨将炕烧成仙境",
+      "onboard_time": 1664683163,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 526896,
       "num": 526896,
       "word": "3斤小狗舔5斤大鱼被鱼尾抽翻",
       "onboard_time": 1664627183,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 518872,
-      "num": 518872,
-      "word": "女子回老家炖排骨将炕烧成仙境",
-      "onboard_time": 1664683163,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -203,20 +203,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 471281,
+      "num": 471281,
+      "word": "提前退休打造自己18000平的海岛庄园",
+      "onboard_time": 1664684663,
+      "rank": 44,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 469469,
       "num": 469469,
       "word": "3岁孙女帮睡着爷爷垫枕头盖被子",
       "onboard_time": 1664676080,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 464018,
-      "num": 464018,
-      "word": "提前退休打造自己18000平的海岛庄园",
-      "onboard_time": 1664684663,
-      "rank": 44,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 458666,
@@ -251,6 +251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 395435,
+      "num": 395435,
+      "word": "电影万里归途豆瓣7.6分",
+      "onboard_time": 1664685140,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 386414,
       "num": 376596,
       "word": "美国加州将农历新年定为法定假日",
@@ -259,20 +267,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 375436,
-      "num": 375436,
-      "word": "电影万里归途豆瓣7.6分",
-      "onboard_time": 1664685140,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 354274,
       "num": 354274,
       "word": "S12提莫登场",
       "onboard_time": 1664681178,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 330210,
+      "num": 330210,
+      "word": "殷桃一秒入戏青筋暴起",
+      "onboard_time": 1664690663,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 325734,
@@ -347,6 +355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 256243,
+      "num": 256243,
+      "word": "老鼠站门框与狗僵持对峙6小时",
+      "onboard_time": 1664690364,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256135,
       "num": 256135,
       "word": "国庆档首日票房2.65亿",
@@ -419,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222737,
+      "num": 222737,
+      "word": "新神榜杨戬票房破5亿",
+      "onboard_time": 1664690663,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 221653,
       "num": 221653,
       "word": "RNG对战IW",
@@ -440,6 +464,14 @@
       "word": "蒲熠星单手攀岩",
       "onboard_time": 1664638226,
       "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 207572,
+      "num": 207572,
+      "word": "代号大本钟",
+      "onboard_time": 1664689522,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -473,6 +505,14 @@
       "onboard_time": 1664673561,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192114,
+      "num": 192114,
+      "word": "患白血病男孩7年后捐268万善款",
+      "onboard_time": 1664689826,
+      "rank": 38,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 190892,
@@ -603,14 +643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132372,
-      "num": 132372,
-      "word": "代号大本钟",
-      "onboard_time": 1664689522,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 131178,
       "num": 131178,
       "word": "国庆假期第二天",
@@ -691,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116115,
+      "num": 116115,
+      "word": "女子路遇流浪狗生完宝宝好心投喂",
+      "onboard_time": 1664689103,
+      "rank": 47,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 114676,
       "num": 114676,
       "word": "中国女排负于巴西",
@@ -723,8 +763,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 103079,
-      "num": 103079,
+      "raw_hot": 104445,
+      "num": 104445,
       "word": "李冰冰为角色做乘务员培训",
       "onboard_time": 1664686823,
       "rank": 39,
@@ -745,14 +785,6 @@
       "onboard_time": 1664620281,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 101508,
-      "num": 101508,
-      "word": "患白血病男孩7年后捐268万善款",
-      "onboard_time": 1664689826,
-      "rank": 38,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 92118,
@@ -787,14 +819,6 @@
       "category": "综艺,科技"
     },
     {
-      "raw_hot": 86243,
-      "num": 86243,
-      "word": "女子路遇流浪狗生完宝宝好心投喂",
-      "onboard_time": 1664689103,
-      "rank": 47,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 83391,
       "num": 83391,
       "word": "刘雨昕在街舞当起了月老",
@@ -827,12 +851,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 76347,
+      "num": 76347,
+      "word": "刘强东回应明州事件",
+      "onboard_time": 1664692462,
+      "rank": 41,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 74805,
       "num": 74805,
       "word": "喀纳斯的秋天晨雾有多美",
       "onboard_time": 1664665816,
       "rank": 33,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 72911,
+      "num": 72911,
+      "word": "中央气象台发布史上最早寒潮预警",
+      "onboard_time": 1664692342,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 71829,
@@ -843,20 +883,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 70529,
-      "num": 69174,
-      "word": "老鼠站门框与狗僵持对峙6小时",
-      "onboard_time": 1664690364,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 70452,
       "num": 70452,
       "word": "中国女篮28年前绝杀澳大利亚队珍贵画面",
       "onboard_time": 1664637085,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 70316,
+      "num": 70316,
+      "word": "天津大学127周年校庆",
+      "onboard_time": 1664691562,
+      "rank": 45,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 68672,
@@ -881,6 +921,22 @@
       "onboard_time": 1664684002,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 64894,
+      "num": 64894,
+      "word": "缓解脖子僵硬的头颈操",
+      "onboard_time": 1664691863,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 64532,
+      "num": 64532,
+      "word": "以为主人要出远门的狗狗",
+      "onboard_time": 1664692403,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 64031,
@@ -1097,6 +1153,14 @@
       "onboard_time": 1664655131,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3508,
+      "num": 238336,
+      "word": "黄河工匠坚守37年守护黄河安澜",
+      "onboard_time": 1664690963,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
