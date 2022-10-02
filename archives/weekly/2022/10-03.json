@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1664742402150,
+  "endTime": 1664743395938,
   "band_list": [
     {
       "raw_hot": 1447248,
@@ -427,8 +427,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 19680,
-      "num": 19680,
+      "raw_hot": 28179,
+      "num": 28179,
       "word": "2022年诺贝尔奖10月3日起陆续揭晓",
       "onboard_time": 1664740090,
       "rank": 18,
@@ -443,6 +443,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 7815,
+      "num": 7815,
+      "word": "袁一琦新歌大小孩首唱",
+      "onboard_time": 1664741891,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 7745,
       "num": 795401,
       "word": "新时代 我在中国",
@@ -451,16 +459,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 6887,
-      "num": 6887,
-      "word": "袁一琦新歌大小孩首唱",
-      "onboard_time": 1664741891,
-      "rank": 46,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 6714,
-      "num": 6714,
+      "raw_hot": 7149,
+      "num": 7149,
       "word": "曾就读清华的90后飞行员夺金头盔",
       "onboard_time": 1664740510,
       "rank": 47,
@@ -473,6 +473,22 @@
       "onboard_time": 1664742071,
       "rank": 48,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 5380,
+      "num": 6954,
+      "word": "樊振东王楚钦轮休",
+      "onboard_time": 1664743151,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 5286,
+      "num": 6940,
+      "word": "夕阳下教学楼氛围感绝了",
+      "onboard_time": 1664742972,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
