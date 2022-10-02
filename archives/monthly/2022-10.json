@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664721652916,
+  "endTime": 1664724374720,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -416,6 +416,14 @@
       "word": "大爷将乌龟当枕头躺江边熟睡",
       "onboard_time": 1664619620,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 757958,
+      "num": 757958,
+      "word": "男子开特斯拉返乡堵到没电叫拖车",
+      "onboard_time": 1664720005,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -1051,6 +1059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 345733,
+      "num": 345733,
+      "word": "爷爷为孙女做百余个拇指大小馒头",
+      "onboard_time": 1664722702,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 340959,
       "num": 340959,
       "word": "中国女篮闯入世界杯决赛",
@@ -1128,14 +1144,6 @@
       "word": "熊孩子5秒剪坏吹风机电线火花直冒",
       "onboard_time": 1664671521,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 320401,
-      "num": 320401,
-      "word": "男子开特斯拉返乡堵到没电叫拖车",
-      "onboard_time": 1664720005,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -1217,6 +1225,14 @@
       "onboard_time": 1664713161,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 293089,
+      "num": 293089,
+      "word": "任嘉伦李沁请君相拥说枕边话",
+      "onboard_time": 1664721806,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 292345,
@@ -1313,6 +1329,14 @@
       "onboard_time": 1664592443,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274112,
+      "num": 274112,
+      "word": "曼市德比哈兰德帽子戏法",
+      "onboard_time": 1664722225,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 273806,
@@ -1515,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 242546,
+      "num": 242546,
+      "word": "哈兰德3分钟2球",
+      "onboard_time": 1664719824,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 241751,
       "num": 241751,
       "word": "10月1日新增本土确诊116例",
@@ -1569,14 +1601,6 @@
       "onboard_time": 1664604202,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 232498,
-      "num": 232498,
-      "word": "哈兰德3分钟2球",
-      "onboard_time": 1664719824,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 232307,
@@ -1915,6 +1939,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 180728,
+      "num": 180728,
+      "word": "该成熟的时候就要成熟",
+      "onboard_time": 1664720846,
+      "rank": 38,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 180197,
       "num": 180197,
       "word": "汪汪打工队",
@@ -1937,6 +1969,14 @@
       "onboard_time": 1664606004,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176488,
+      "num": 176488,
+      "word": "想当航天员不能打呼噜",
+      "onboard_time": 1664721383,
+      "rank": 46,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 176057,
@@ -1985,6 +2025,14 @@
       "onboard_time": 1664696902,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 170313,
+      "num": 170313,
+      "word": "C罗",
+      "onboard_time": 1664724204,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 170052,
@@ -2147,6 +2195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 144686,
+      "num": 144686,
+      "word": "成毅周亦安振作起来",
+      "onboard_time": 1664723304,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 144632,
       "num": 144632,
       "word": "一条长江的朋友圈有多美",
@@ -2291,6 +2347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129626,
+      "num": 129626,
+      "word": "曼城6比3曼联",
+      "onboard_time": 1664723724,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129093,
       "num": 129093,
       "word": "中国空间站也发迎新视频了",
@@ -2329,6 +2393,14 @@
       "onboard_time": 1664673383,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 126026,
+      "num": 126026,
+      "word": "哈兰德太强了",
+      "onboard_time": 1664721926,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 125551,
@@ -2475,6 +2547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 113497,
+      "num": 113497,
+      "word": "父母旅游时的主要区别",
+      "onboard_time": 1664719164,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 112825,
       "num": 112825,
       "word": "中国女团战波多黎各名单出炉",
@@ -2489,14 +2569,6 @@
       "onboard_time": 1664670021,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 112023,
-      "num": 112023,
-      "word": "父母旅游时的主要区别",
-      "onboard_time": 1664719164,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 111710,
@@ -2571,6 +2643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105163,
+      "num": 105163,
+      "word": "安东尼世界波",
+      "onboard_time": 1664722825,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104445,
       "num": 104445,
       "word": "李冰冰为角色做乘务员培训",
@@ -2633,14 +2713,6 @@
       "onboard_time": 1664705963,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 99083,
-      "num": 99083,
-      "word": "该成熟的时候就要成熟",
-      "onboard_time": 1664720846,
-      "rank": 38,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 98068,
@@ -2899,14 +2971,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 75673,
-      "num": 75673,
-      "word": "想当航天员不能打呼噜",
-      "onboard_time": 1664721383,
-      "rank": 46,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 74997,
       "num": 74997,
       "word": "陈哲远说萧无敌心动的样子好不值钱",
@@ -2929,6 +2993,14 @@
       "onboard_time": 1664637085,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 70407,
+      "num": 70407,
+      "word": "故宫高清壁纸上新",
+      "onboard_time": 1664724086,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 68502,
