@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/03 01:47:14
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/03 02:30:51
 </p>
 </blockquote>
 <p>
@@ -2657,6 +2657,12 @@ NBA季前赛（热度：39242）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BB%91%E6%BB%91%E6%A2%AF%E7%9A%84%E5%B0%8F%E7%86%8A%E7%8C%AB%23" target="weibo">
 滑滑梯的小熊猫（热度：19434）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9A%E8%80%83%E8%99%91%E4%B9%B0C919%23" target="weibo">
+尼日利亚考虑买C919（热度：13023）
 </a>
 </li>
 

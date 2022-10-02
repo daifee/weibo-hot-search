@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1664732834664,
+  "endTime": 1664735451291,
   "band_list": [
     {
       "raw_hot": 1447248,
@@ -97,6 +97,14 @@
       "onboard_time": 1664706682,
       "rank": 12,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 305527,
+      "num": 96309,
+      "word": "天津地震",
+      "onboard_time": 1664699721,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 289569,
@@ -307,14 +315,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 74702,
-      "num": 74702,
-      "word": "天津地震",
-      "onboard_time": 1664699721,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 73486,
       "num": 73486,
       "word": "电缆掉落致堵车夫妻俩托举90分钟",
@@ -409,6 +409,14 @@
       "onboard_time": 1664712684,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 13023,
+      "num": 13023,
+      "word": "尼日利亚考虑买C919",
+      "onboard_time": 1664735113,
+      "rank": 49,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 7745,

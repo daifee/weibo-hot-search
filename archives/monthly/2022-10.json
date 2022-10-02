@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664732834664,
+  "endTime": 1664735451291,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -3529,6 +3529,14 @@
       "onboard_time": 1664561715,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 13023,
+      "num": 13023,
+      "word": "尼日利亚考虑买C919",
+      "onboard_time": 1664735113,
+      "rank": 49,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 10343,
