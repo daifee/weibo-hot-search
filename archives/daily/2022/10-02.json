@@ -1,6 +1,6 @@
 {
   "startTime": 1664642097015,
-  "endTime": 1664695586504,
+  "endTime": 1664696527121,
   "band_list": [
     {
       "raw_hot": 3125010,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 699201,
+      "num": 269328,
+      "word": "刘强东回应明州事件",
+      "onboard_time": 1664692462,
+      "rank": 41,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 672115,
       "num": 672115,
       "word": "俄军从红利曼撤退",
@@ -145,14 +153,6 @@
       "onboard_time": 1664677522,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 634244,
-      "num": 269328,
-      "word": "刘强东回应明州事件",
-      "onboard_time": 1664692462,
-      "rank": 41,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 632338,
@@ -171,8 +171,8 @@
       "category": "军事,国外要闻"
     },
     {
-      "raw_hot": 600149,
-      "num": 402934,
+      "raw_hot": 615037,
+      "num": 439900,
       "word": "老鼠站门框与狗僵持对峙6小时",
       "onboard_time": 1664690364,
       "rank": 47,
@@ -251,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 430021,
+      "num": 430021,
+      "word": "中央气象台发布史上最早寒潮预警",
+      "onboard_time": 1664692342,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 429372,
       "num": 179784,
       "word": "苹果副总裁因发表低俗言论离职",
@@ -283,6 +291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 393015,
+      "num": 393015,
+      "word": "杨坤马嘉祺组合名",
+      "onboard_time": 1664695041,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 386414,
       "num": 376596,
       "word": "美国加州将农历新年定为法定假日",
@@ -297,22 +313,6 @@
       "onboard_time": 1664681178,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 347315,
-      "num": 347315,
-      "word": "中央气象台发布史上最早寒潮预警",
-      "onboard_time": 1664692342,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 332274,
-      "num": 332274,
-      "word": "杨坤马嘉祺组合名",
-      "onboard_time": 1664695041,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 325734,
@@ -531,6 +531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199544,
+      "num": 199544,
+      "word": "花700买虎皮犬回家发现是染色狗",
+      "onboard_time": 1664695642,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197172,
       "num": 197172,
       "word": "梅西生涯第60次任意球破门",
@@ -587,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170271,
+      "num": 170271,
+      "word": "乌方称控制红利曼",
+      "onboard_time": 1664694321,
+      "rank": 28,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 167277,
       "num": 167277,
       "word": "河南增11例本土无症状",
@@ -619,6 +635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 155233,
+      "num": 155233,
+      "word": "以为主人要出远门的狗狗",
+      "onboard_time": 1664692403,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 149282,
       "num": 149282,
       "word": "这是中国人专属的国庆仪式感",
@@ -641,14 +665,6 @@
       "onboard_time": 1664684541,
       "rank": 33,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 144300,
-      "num": 144300,
-      "word": "以为主人要出远门的狗狗",
-      "onboard_time": 1664692403,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 142668,
@@ -771,6 +787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112825,
+      "num": 112825,
+      "word": "中国女团战波多黎各名单出炉",
+      "onboard_time": 1664694383,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112561,
       "num": 112561,
       "word": "辽宁凌源发现一例核酸检测阳性",
@@ -795,20 +819,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107154,
+      "num": 107154,
+      "word": "像极了国庆在家的状态",
+      "onboard_time": 1664695283,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 104445,
       "num": 104445,
       "word": "李冰冰为角色做乘务员培训",
       "onboard_time": 1664686823,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 103663,
-      "num": 103663,
-      "word": "乌方称控制红利曼",
-      "onboard_time": 1664694321,
-      "rank": 28,
-      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 102787,
@@ -819,28 +843,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 101618,
-      "num": 90188,
-      "word": "国庆晚会",
-      "onboard_time": 1664620281,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 96006,
-      "num": 96006,
+      "raw_hot": 102260,
+      "num": 102260,
       "word": "张彬彬镜头里的小森林拍摄地",
       "onboard_time": 1664694743,
       "rank": 33,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 92521,
-      "num": 92521,
-      "word": "中国女团战波多黎各名单出炉",
-      "onboard_time": 1664694383,
-      "rank": 35,
-      "category": "体育"
+      "raw_hot": 101618,
+      "num": 90188,
+      "word": "国庆晚会",
+      "onboard_time": 1664620281,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 92118,
@@ -891,19 +907,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 82363,
-      "num": 82363,
-      "word": "像极了国庆在家的状态",
-      "onboard_time": 1664695283,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 80957,
       "num": 80957,
       "word": "国家体育总局向中国女篮致贺信",
       "onboard_time": 1664650753,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 79464,
+      "num": 79464,
+      "word": "缓解脖子僵硬的头颈操",
+      "onboard_time": 1664691863,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -979,14 +995,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 64894,
-      "num": 64894,
-      "word": "缓解脖子僵硬的头颈操",
-      "onboard_time": 1664691863,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 64031,
       "num": 64031,
       "word": "女篮挺进决赛姚明场边笑开花",
@@ -1033,6 +1041,14 @@
       "onboard_time": 1664695521,
       "rank": 47,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 57090,
+      "num": 57090,
+      "word": "小伙出差住酒店被安排住进婚房",
+      "onboard_time": 1664696482,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 54176,
@@ -1163,20 +1179,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 31661,
+      "num": 266428,
+      "word": "向国庆假期坚守岗位的医护人员致敬",
+      "onboard_time": 1664694024,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28760,
       "num": 28760,
       "word": "2022女排世锦赛",
       "onboard_time": 1664666596,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 19370,
-      "num": 266428,
-      "word": "向国庆假期坚守岗位的医护人员致敬",
-      "onboard_time": 1664694024,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16991,
