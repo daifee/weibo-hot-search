@@ -1,6 +1,6 @@
 {
   "startTime": 1664123539357,
-  "endTime": 1664668004858,
+  "endTime": 1664678371601,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -273,6 +273,14 @@
       "onboard_time": 1664287349,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1899975,
+      "num": 1899975,
+      "word": "10月1日新增本土无症状432例",
+      "onboard_time": 1664673861,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1868940,
@@ -780,7 +788,7 @@
     },
     {
       "raw_hot": 1176288,
-      "num": 277742,
+      "num": 368045,
       "word": "医生吃火锅用牙签剔除脑花血管",
       "onboard_time": 1664634264,
       "rank": 47,
@@ -889,6 +897,14 @@
       "onboard_time": 1664284824,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1070622,
+      "num": 587623,
+      "word": "印尼体育场发生暴力事件已致127人死亡",
+      "onboard_time": 1664675122,
+      "rank": 3,
+      "category": "社会负面,体育"
     },
     {
       "raw_hot": 1041959,
@@ -1795,6 +1811,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 632338,
+      "num": 570539,
+      "word": "iPhone6二手收购价低至100元",
+      "onboard_time": 1664670861,
+      "rank": 4,
+      "category": "科技,财经"
+    },
+    {
+      "raw_hot": 631817,
+      "num": 631817,
+      "word": "五角大楼公布向乌输送武器完整清单",
+      "onboard_time": 1664672360,
+      "rank": 1,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 630842,
       "num": 630842,
       "word": "iPhone14Pro紫色版被曝存在工艺缺陷",
@@ -2107,6 +2139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 549237,
+      "num": 549237,
+      "word": "上班警犬眼馋小朋友手中烤肠",
+      "onboard_time": 1664674762,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 548006,
       "num": 548006,
       "word": "有钱鸭摆件",
@@ -2356,7 +2396,7 @@
     },
     {
       "raw_hot": 518043,
-      "num": 181159,
+      "num": 280646,
       "word": "徐梦桃王心迪结婚照",
       "onboard_time": 1664638463,
       "rank": 21,
@@ -2449,6 +2489,14 @@
       "onboard_time": 1664532443,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 504948,
+      "num": 504948,
+      "word": "日本一赛事主办方下跪15秒道歉",
+      "onboard_time": 1664666717,
+      "rank": 41,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 503276,
@@ -2641,6 +2689,14 @@
       "onboard_time": 1664375187,
       "rank": 30,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 477856,
+      "num": 477856,
+      "word": "小小姐们",
+      "onboard_time": 1664666417,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 477738,
@@ -3403,6 +3459,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 386414,
+      "num": 376596,
+      "word": "美国加州将农历新年定为法定假日",
+      "onboard_time": 1664672242,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 385510,
       "num": 318692,
       "word": "王鹤棣橘色毛衣造型上班路透",
@@ -3441,6 +3505,14 @@
       "onboard_time": 1664338586,
       "rank": 12,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 381663,
+      "num": 381663,
+      "word": "3岁孙女帮睡着爷爷垫枕头盖被子",
+      "onboard_time": 1664676080,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 380780,
@@ -3968,6 +4040,14 @@
       "word": "成都适龄女孩接种国产HPV疫苗免费",
       "onboard_time": 1664172326,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 322081,
+      "num": 322081,
+      "word": "熊孩子5秒剪坏吹风机电线火花直冒",
+      "onboard_time": 1664671521,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -4548,7 +4628,7 @@
     },
     {
       "raw_hot": 276399,
-      "num": 179932,
+      "num": 265230,
       "word": "成都疫情防控",
       "onboard_time": 1664667110,
       "rank": 11,
@@ -5179,6 +5259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241751,
+      "num": 241751,
+      "word": "10月1日新增本土确诊116例",
+      "onboard_time": 1664673861,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241435,
       "num": 166435,
       "word": "NCT127将举行蚕室演唱会",
@@ -5603,12 +5691,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222190,
+      "num": 222190,
+      "word": "爸爸带儿子外出聚餐酒醉倒路边",
+      "onboard_time": 1664677160,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221883,
       "num": 221883,
       "word": "9月最后一天",
       "onboard_time": 1664524044,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 221653,
+      "num": 221653,
+      "word": "RNG对战IW",
+      "onboard_time": 1664676441,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 221615,
@@ -5987,14 +6091,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 205808,
-      "num": 205808,
-      "word": "小小姐们",
-      "onboard_time": 1664666417,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 205470,
       "num": 205470,
       "word": "跟21.8万人一起看升旗是啥体验",
@@ -6209,6 +6305,14 @@
       "onboard_time": 1664249606,
       "rank": 30,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 197172,
+      "num": 197172,
+      "word": "梅西生涯第60次任意球破门",
+      "onboard_time": 1664673561,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 197119,
@@ -6449,14 +6553,6 @@
       "onboard_time": 1664618662,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 187758,
-      "num": 170437,
-      "word": "日本一赛事主办方下跪15秒道歉",
-      "onboard_time": 1664666717,
-      "rank": 41,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 187565,
@@ -6944,6 +7040,14 @@
       "word": "黑洞里会是另一个世界吗",
       "onboard_time": 1664165488,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167846,
+      "num": 167846,
+      "word": "南京地铁超小号警犬国庆正式上岗",
+      "onboard_time": 1664677522,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -7529,6 +7633,14 @@
       "onboard_time": 1664438544,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149282,
+      "num": 149282,
+      "word": "这是中国人专属的国庆仪式感",
+      "onboard_time": 1664670199,
+      "rank": 23,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 148937,
@@ -8291,6 +8403,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 126486,
+      "num": 126486,
+      "word": "RNG战胜ISG",
+      "onboard_time": 1664673383,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 126180,
       "num": 126180,
       "word": "周冠宇官宣续约F1",
@@ -8465,6 +8585,14 @@
       "onboard_time": 1664436804,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 122695,
+      "num": 122695,
+      "word": "太原新增确诊病例5例",
+      "onboard_time": 1664669421,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122483,
@@ -8779,6 +8907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 112561,
+      "num": 112561,
+      "word": "辽宁凌源发现一例核酸检测阳性",
+      "onboard_time": 1664670021,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112329,
       "num": 112329,
       "word": "运油20给歼20空中加油视频公布",
@@ -8793,6 +8929,14 @@
       "onboard_time": 1664518586,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111710,
+      "num": 111710,
+      "word": "泸定震区群众搬新家吃团结饭",
+      "onboard_time": 1664675423,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111257,
@@ -9467,6 +9611,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 88085,
+      "num": 88085,
+      "word": "女篮决赛的国歌大合唱太震撼",
+      "onboard_time": 1664669539,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88082,
       "num": 322051,
       "word": "原神 3.1版本更新",
@@ -9707,6 +9859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80957,
+      "num": 80957,
+      "word": "国家体育总局向中国女篮致贺信",
+      "onboard_time": 1664650753,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80623,
       "num": 80623,
       "word": "当穿着玩偶服跳广播体操时",
@@ -9881,14 +10041,6 @@
       "onboard_time": 1664104466,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 73280,
-      "num": 73280,
-      "word": "国家体育总局向中国女篮致贺信",
-      "onboard_time": 1664650753,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 73020,
@@ -10307,6 +10459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51312,
+      "num": 51312,
+      "word": "闫晓楠判定战胜邓恩",
+      "onboard_time": 1664677282,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 49425,
       "num": 357873,
       "word": "甘宇自述17天荒野求生",
@@ -10385,6 +10545,14 @@
       "onboard_time": 1664546426,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42858,
+      "num": 42858,
+      "word": "邓恩vs闫晓楠",
+      "onboard_time": 1664676802,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 41085,
