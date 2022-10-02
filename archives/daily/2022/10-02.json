@@ -1,7 +1,15 @@
 {
   "startTime": 1664642097015,
-  "endTime": 1664681032571,
+  "endTime": 1664685825794,
   "band_list": [
+    {
+      "raw_hot": 2672770,
+      "num": 2672770,
+      "word": "为什么建议大家学好物理",
+      "onboard_time": 1664681178,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1899975,
       "num": 1899975,
@@ -27,11 +35,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 871380,
+      "num": 680857,
+      "word": "小鬼王琳凯这就是街舞",
+      "onboard_time": 1664682321,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 805773,
       "num": 805773,
       "word": "重庆拍到黑熊一家三口林中漫步",
       "onboard_time": 1664641459,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 771565,
+      "num": 771565,
+      "word": "00后女孩成为刑警激动向室友报喜",
+      "onboard_time": 1664682682,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -131,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 458666,
+      "num": 458666,
+      "word": "被王鹤棣秦霄贤喊麦笑死",
+      "onboard_time": 1664682442,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 429372,
       "num": 179784,
       "word": "苹果副总裁因发表低俗言论离职",
@@ -139,12 +171,36 @@
       "category": "科技"
     },
     {
+      "raw_hot": 424921,
+      "num": 344899,
+      "word": "gidle概念预告照",
+      "onboard_time": 1664684002,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 386414,
       "num": 376596,
       "word": "美国加州将农历新年定为法定假日",
       "onboard_time": 1664672242,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 358349,
+      "num": 358349,
+      "word": "小狗出门都不看路吗",
+      "onboard_time": 1664681542,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 345665,
+      "num": 345665,
+      "word": "S12提莫登场",
+      "onboard_time": 1664681178,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 325734,
@@ -187,6 +243,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 298158,
+      "num": 298158,
+      "word": "女子回老家炖排骨将炕烧成仙境",
+      "onboard_time": 1664683163,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289402,
+      "num": 289402,
+      "word": "陈哲远说新剧叫我的好大儿",
+      "onboard_time": 1664681362,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 282738,
       "num": 282738,
       "word": "中国女篮主帅当选2022世界杯最佳教练",
@@ -201,6 +273,30 @@
       "onboard_time": 1664667110,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257425,
+      "num": 257425,
+      "word": "袁姗姗最美中国戏红娘造型",
+      "onboard_time": 1664684602,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 256135,
+      "num": 256135,
+      "word": "国庆档首日票房2.65亿",
+      "onboard_time": 1664682380,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 249686,
+      "num": 249686,
+      "word": "自我满足真的很爽",
+      "onboard_time": 1664682142,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 244320,
@@ -259,8 +355,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 218215,
-      "num": 218215,
+      "raw_hot": 219348,
+      "num": 219348,
       "word": "ICU医生自我介绍敢和死神抢人",
       "onboard_time": 1664678961,
       "rank": 13,
@@ -315,11 +411,51 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184188,
+      "num": 184188,
+      "word": "孕妇列车分娩现场搭临时产房",
+      "onboard_time": 1664683040,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183644,
       "num": 183644,
       "word": "受伤猫头鹰被救助后经常装死",
       "onboard_time": 1664626283,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183387,
+      "num": 183387,
+      "word": "人民网点赞万里归途商业化的呈现",
+      "onboard_time": 1664682920,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 182974,
+      "num": 182974,
+      "word": "被煎饼果子治好了强迫症",
+      "onboard_time": 1664682861,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 180197,
+      "num": 180197,
+      "word": "汪汪打工队",
+      "onboard_time": 1664681300,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167277,
+      "num": 167277,
+      "word": "河南增11例本土无症状",
+      "onboard_time": 1664680761,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -347,6 +483,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 148066,
+      "num": 148066,
+      "word": "万里归途票房破3亿",
+      "onboard_time": 1664684722,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 142668,
       "num": 142668,
       "word": "小狗被困栅栏卡成S型消防暖心救援",
@@ -369,6 +513,14 @@
       "onboard_time": 1664638342,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133193,
+      "num": 133193,
+      "word": "曾可妮新剧演李一桐闺蜜",
+      "onboard_time": 1664685201,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 131178,
@@ -411,6 +563,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 125295,
+      "num": 125295,
+      "word": "一条长江的朋友圈有多美",
+      "onboard_time": 1664684541,
+      "rank": 33,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 123621,
+      "num": 123621,
+      "word": "双方都很委屈的相遇",
+      "onboard_time": 1664681960,
+      "rank": 34,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 122695,
       "num": 122695,
       "word": "太原新增确诊病例5例",
@@ -419,12 +587,52 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120505,
+      "num": 120505,
+      "word": "老人派出所办理业务后霸气点赞",
+      "onboard_time": 1664681420,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118329,
+      "num": 118329,
+      "word": "大头儿子里的父子情太戳了",
+      "onboard_time": 1664685262,
+      "rank": 36,
+      "category": "动漫,幽默"
+    },
+    {
+      "raw_hot": 117402,
+      "num": 117402,
+      "word": "才知道票根可以这样保存",
+      "onboard_time": 1664684722,
+      "rank": 37,
+      "category": "其它"
+    },
+    {
+      "raw_hot": 114754,
+      "num": 114754,
+      "word": "电影万里归途豆瓣7.6分",
+      "onboard_time": 1664685140,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 114676,
       "num": 114676,
       "word": "中国女排负于巴西",
       "onboard_time": 1664636782,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113652,
+      "num": 113652,
+      "word": "沸腾校园是大学生相亲大会吧",
+      "onboard_time": 1664685082,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 112561,
@@ -467,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90513,
+      "num": 90513,
+      "word": "炽道 上头",
+      "onboard_time": 1664685082,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 89861,
       "num": 89861,
       "word": "马龙团体赛100场里程碑",
@@ -481,6 +697,14 @@
       "onboard_time": 1664669539,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88058,
+      "num": 88058,
+      "word": "提前退休打造自己18000平的海岛庄园",
+      "onboard_time": 1664684663,
+      "rank": 44,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 83391,
@@ -523,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70955,
+      "num": 70955,
+      "word": "万里归途群像",
+      "onboard_time": 1664685681,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 70452,
       "num": 70452,
       "word": "中国女篮28年前绝杀澳大利亚队珍贵画面",
@@ -537,6 +769,14 @@
       "onboard_time": 1664629944,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65514,
+      "num": 65514,
+      "word": "十一假期怎么过",
+      "onboard_time": 1664684002,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 64031,
@@ -595,20 +835,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 53235,
-      "num": 53235,
-      "word": "河南增11例本土无症状",
-      "onboard_time": 1664680761,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 51312,
       "num": 51312,
       "word": "闫晓楠判定战胜邓恩",
       "onboard_time": 1664677282,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 46390,
+      "num": 681285,
+      "word": "新时代 我在中国",
+      "onboard_time": 1664680822,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 45344,
@@ -729,14 +969,6 @@
       "onboard_time": 1664634384,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 10998,
-      "num": 653812,
-      "word": "新时代 我在中国",
-      "onboard_time": 1664680822,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 6459,

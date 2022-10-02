@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664681032571,
+  "endTime": 1664685825794,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -9,6 +9,14 @@
       "onboard_time": 1664603001,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2672770,
+      "num": 2672770,
+      "word": "为什么建议大家学好物理",
+      "onboard_time": 1664681178,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2662228,
@@ -219,6 +227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 871380,
+      "num": 680857,
+      "word": "小鬼王琳凯这就是街舞",
+      "onboard_time": 1664682321,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 863896,
       "num": 863896,
       "word": "张译演技",
@@ -264,6 +280,14 @@
       "word": "大爷将乌龟当枕头躺江边熟睡",
       "onboard_time": 1664619620,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 771565,
+      "num": 771565,
+      "word": "00后女孩成为刑警激动向室友报喜",
+      "onboard_time": 1664682682,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -483,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 458666,
+      "num": 458666,
+      "word": "被王鹤棣秦霄贤喊麦笑死",
+      "onboard_time": 1664682442,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 453871,
       "num": 275092,
       "word": "张杰国庆晚会致吾辈舞台",
@@ -513,6 +545,14 @@
       "onboard_time": 1664616982,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 424921,
+      "num": 344899,
+      "word": "gidle概念预告照",
+      "onboard_time": 1664684002,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 416496,
@@ -651,12 +691,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 358349,
+      "num": 358349,
+      "word": "小狗出门都不看路吗",
+      "onboard_time": 1664681542,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 352294,
       "num": 238269,
       "word": "北京丰台增一感染者在京无常住地址",
       "onboard_time": 1664593103,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 345665,
+      "num": 345665,
+      "word": "S12提莫登场",
+      "onboard_time": 1664681178,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 340959,
@@ -795,6 +851,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 298158,
+      "num": 298158,
+      "word": "女子回老家炖排骨将炕烧成仙境",
+      "onboard_time": 1664683163,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289402,
+      "num": 289402,
+      "word": "陈哲远说新剧叫我的好大儿",
+      "onboard_time": 1664681362,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 285506,
       "num": 285506,
       "word": "万里归途32万6713步",
@@ -931,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257425,
+      "num": 257425,
+      "word": "袁姗姗最美中国戏红娘造型",
+      "onboard_time": 1664684602,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 256935,
       "num": 256935,
       "word": "她患癌后依然登台指挥",
@@ -939,12 +1019,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256135,
+      "num": 256135,
+      "word": "国庆档首日票房2.65亿",
+      "onboard_time": 1664682380,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 254330,
       "num": 254330,
       "word": "中国人首次在太空为新中国庆生",
       "onboard_time": 1664588902,
       "rank": 14,
       "category": "科技,国内要闻"
+    },
+    {
+      "raw_hot": 249686,
+      "num": 249686,
+      "word": "自我满足真的很爽",
+      "onboard_time": 1664682142,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 246833,
@@ -1043,20 +1139,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 219348,
+      "num": 219348,
+      "word": "ICU医生自我介绍敢和死神抢人",
+      "onboard_time": 1664678961,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219250,
       "num": 219250,
       "word": "大头儿子致敬中国航天",
       "onboard_time": 1664619142,
       "rank": 32,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 218215,
-      "num": 218215,
-      "word": "ICU医生自我介绍敢和死神抢人",
-      "onboard_time": 1664678961,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 216741,
@@ -1203,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184188,
+      "num": 184188,
+      "word": "孕妇列车分娩现场搭临时产房",
+      "onboard_time": 1664683040,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184180,
       "num": 184180,
       "word": "张杰献唱江河奔腾看中国",
@@ -1211,12 +1315,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 183387,
+      "num": 183387,
+      "word": "人民网点赞万里归途商业化的呈现",
+      "onboard_time": 1664682920,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 182974,
+      "num": 182974,
+      "word": "被煎饼果子治好了强迫症",
+      "onboard_time": 1664682861,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 181375,
       "num": 181375,
       "word": "学生嬉闹时听到国歌集体立定敬礼",
       "onboard_time": 1664591662,
       "rank": 38,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 180197,
+      "num": 180197,
+      "word": "汪汪打工队",
+      "onboard_time": 1664681300,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177603,
@@ -1272,6 +1400,14 @@
       "word": "医生接诊6个心梗患者5个爱抽烟",
       "onboard_time": 1664572570,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167277,
+      "num": 167277,
+      "word": "河南增11例本土无症状",
+      "onboard_time": 1664680761,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -1337,6 +1473,14 @@
       "onboard_time": 1664670199,
       "rank": 23,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 148066,
+      "num": 148066,
+      "word": "万里归途票房破3亿",
+      "onboard_time": 1664684722,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 147627,
@@ -1435,6 +1579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133193,
+      "num": 133193,
+      "word": "曾可妮新剧演李一桐闺蜜",
+      "onboard_time": 1664685201,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 131178,
       "num": 131178,
       "word": "国庆假期第二天",
@@ -1475,6 +1627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125295,
+      "num": 125295,
+      "word": "一条长江的朋友圈有多美",
+      "onboard_time": 1664684541,
+      "rank": 33,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 124731,
       "num": 124731,
       "word": "女篮太帅了",
@@ -1507,6 +1667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123621,
+      "num": 123621,
+      "word": "双方都很委屈的相遇",
+      "onboard_time": 1664681960,
+      "rank": 34,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 123104,
       "num": 123104,
       "word": "彩色超清重现国庆阅兵高燃瞬间",
@@ -1531,6 +1699,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 120505,
+      "num": 120505,
+      "word": "老人派出所办理业务后霸气点赞",
+      "onboard_time": 1664681420,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118653,
       "num": 118653,
       "word": "男子水库放生清道夫被罚2.8万",
@@ -1545,6 +1721,22 @@
       "onboard_time": 1664582061,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 118329,
+      "num": 118329,
+      "word": "大头儿子里的父子情太戳了",
+      "onboard_time": 1664685262,
+      "rank": 36,
+      "category": "动漫,幽默"
+    },
+    {
+      "raw_hot": 117402,
+      "num": 117402,
+      "word": "才知道票根可以这样保存",
+      "onboard_time": 1664684722,
+      "rank": 37,
+      "category": "其它"
     },
     {
       "raw_hot": 117346,
@@ -1563,12 +1755,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114754,
+      "num": 114754,
+      "word": "电影万里归途豆瓣7.6分",
+      "onboard_time": 1664685140,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 114450,
       "num": 114450,
       "word": "RNG失误",
       "onboard_time": 1664544445,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 113652,
+      "num": 113652,
+      "word": "沸腾校园是大学生相亲大会吧",
+      "onboard_time": 1664685082,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 112561,
@@ -1715,6 +1923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 90513,
+      "num": 90513,
+      "word": "炽道 上头",
+      "onboard_time": 1664685082,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 89861,
       "num": 89861,
       "word": "马龙团体赛100场里程碑",
@@ -1737,6 +1953,14 @@
       "onboard_time": 1664669539,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88058,
+      "num": 88058,
+      "word": "提前退休打造自己18000平的海岛庄园",
+      "onboard_time": 1664684663,
+      "rank": 44,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 86923,
@@ -1811,6 +2035,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 70955,
+      "num": 70955,
+      "word": "万里归途群像",
+      "onboard_time": 1664685681,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 70452,
       "num": 70452,
       "word": "中国女篮28年前绝杀澳大利亚队珍贵画面",
@@ -1833,6 +2065,14 @@
       "onboard_time": 1664524946,
       "rank": 34,
       "category": "科技"
+    },
+    {
+      "raw_hot": 65514,
+      "num": 65514,
+      "word": "十一假期怎么过",
+      "onboard_time": 1664684002,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 65501,
@@ -2027,14 +2267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 53235,
-      "num": 53235,
-      "word": "河南增11例本土无症状",
-      "onboard_time": 1664680761,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 53057,
       "num": 53057,
       "word": "有一种骄傲叫中国",
@@ -2105,6 +2337,14 @@
       "onboard_time": 1664552906,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 46390,
+      "num": 681285,
+      "word": "新时代 我在中国",
+      "onboard_time": 1664680822,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46163,
@@ -2201,14 +2441,6 @@
       "onboard_time": 1664561715,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 10998,
-      "num": 653812,
-      "word": "新时代 我在中国",
-      "onboard_time": 1664680822,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 10343,
