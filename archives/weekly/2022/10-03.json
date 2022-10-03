@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1664794032343,
+  "endTime": 1664796146509,
   "band_list": [
     {
       "raw_hot": 3091269,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 633515,
+      "num": 48500,
+      "word": "陈都灵莲花楼杀青照",
+      "onboard_time": 1664796143,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 631538,
       "num": 631538,
       "word": "俄罗斯暂停向意大利供应天然气",
@@ -201,6 +209,14 @@
       "onboard_time": 1664781860,
       "rank": 35,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 584982,
+      "num": 584982,
+      "word": "檀健次新剧公司面临破产",
+      "onboard_time": 1664793804,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 577648,
@@ -387,6 +403,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 415586,
+      "num": 313246,
+      "word": "韩国建军节宣传片出现中国装甲车",
+      "onboard_time": 1664793442,
+      "rank": 29,
+      "category": "军事"
+    },
+    {
       "raw_hot": 401231,
       "num": 307217,
       "word": "张杰的歌曲始终沸腾滚烫",
@@ -457,6 +481,14 @@
       "onboard_time": 1664771483,
       "rank": 13,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 363644,
+      "num": 363644,
+      "word": "关晓彤为电视剧胡同第三篇章做宣传",
+      "onboard_time": 1664793142,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 352227,
@@ -611,12 +643,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 265613,
-      "num": 265613,
-      "word": "檀健次新剧公司面临破产",
-      "onboard_time": 1664793804,
-      "rank": 11,
-      "category": "影视"
+      "raw_hot": 268913,
+      "num": 268913,
+      "word": "北京雨后现金色晚霞",
+      "onboard_time": 1664794284,
+      "rank": 13,
+      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 261929,
@@ -632,14 +664,6 @@
       "word": "成毅底线咪咕播放量破10亿",
       "onboard_time": 1664759961,
       "rank": 18,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 257031,
-      "num": 257031,
-      "word": "关晓彤为电视剧胡同第三篇章做宣传",
-      "onboard_time": 1664793142,
-      "rank": 12,
       "category": "影视"
     },
     {
@@ -675,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 250430,
+      "num": 250430,
+      "word": "虞美人庄羽假扮情侣骗歹徒",
+      "onboard_time": 1664794402,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 250414,
       "num": 212778,
       "word": "张远录制我们的歌",
@@ -697,6 +729,14 @@
       "onboard_time": 1664703323,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 246568,
+      "num": 246568,
+      "word": "吃多了通过运动能消耗掉吗",
+      "onboard_time": 1664791581,
+      "rank": 27,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 243875,
@@ -745,6 +785,14 @@
       "onboard_time": 1664758942,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 230341,
+      "num": 230341,
+      "word": "女子落水高校男生害怕仍勇敢下水",
+      "onboard_time": 1664792602,
+      "rank": 47,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 219576,
@@ -801,14 +849,6 @@
       "onboard_time": 1664762364,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 197650,
-      "num": 197650,
-      "word": "吃多了通过运动能消耗掉吗",
-      "onboard_time": 1664791581,
-      "rank": 27,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 193096,
@@ -921,6 +961,14 @@
       "onboard_time": 1664724863,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149707,
+      "num": 149707,
+      "word": "崂山文旅局回应石老人坍塌",
+      "onboard_time": 1664794043,
+      "rank": 23,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 146499,
@@ -1075,20 +1123,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 113267,
+      "num": 113267,
+      "word": "摄影师记录菊花绽放瞬间",
+      "onboard_time": 1664794583,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106181,
       "num": 106181,
       "word": "故宫高清壁纸上新",
       "onboard_time": 1664724086,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 102867,
-      "num": 102867,
-      "word": "韩国建军节宣传片出现中国装甲车",
-      "onboard_time": 1664793442,
-      "rank": 29,
-      "category": "军事"
     },
     {
       "raw_hot": 102864,
@@ -1112,14 +1160,6 @@
       "word": "大爷捡19万现金苦等失主6小时",
       "onboard_time": 1664710643,
       "rank": 31,
-      "category": "社会正能量"
-    },
-    {
-      "raw_hot": 96752,
-      "num": 96752,
-      "word": "女子落水高校男生害怕仍勇敢下水",
-      "onboard_time": 1664792602,
-      "rank": 47,
       "category": "社会正能量"
     },
     {
@@ -1273,6 +1313,14 @@
       "onboard_time": 1664709682,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 58745,
+      "num": 58745,
+      "word": "iPhone在6人死亡车祸中自动求救",
+      "onboard_time": 1664796084,
+      "rank": 42,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 58143,
