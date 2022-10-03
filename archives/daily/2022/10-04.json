@@ -1,6 +1,6 @@
 {
   "startTime": 1664815260200,
-  "endTime": 1664828916197,
+  "endTime": 1664829916292,
   "band_list": [
     {
       "raw_hot": 1414692,
@@ -395,8 +395,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 38802,
-      "num": 38802,
+      "raw_hot": 39486,
+      "num": 39486,
       "word": "RNG状态",
       "onboard_time": 1664825832,
       "rank": 49,
@@ -467,12 +467,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 6528,
+      "num": 6528,
+      "word": "成都现6级大风降温明显",
+      "onboard_time": 1664829191,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 6011,
       "num": 6011,
       "word": "84岁爷爷带已故奶奶照片到北京看升旗",
       "onboard_time": 1664828411,
       "rank": 45,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 5828,
+      "num": 5828,
+      "word": "河北启动省地震灾害Ⅳ级应急响应",
+      "onboard_time": 1664828950,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 5517,
@@ -489,6 +505,22 @@
       "onboard_time": 1664828290,
       "rank": 49,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 5162,
+      "num": 5360,
+      "word": "高速堵车大哥淡定摆弄钓鱼竿",
+      "onboard_time": 1664829671,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5069,
+      "num": 5359,
+      "word": "八旬退休教师背后绕球上篮引欢呼",
+      "onboard_time": 1664829911,
+      "rank": 49,
+      "category": "社会新闻,教育"
     }
   ],
   "hotgov_list": [
