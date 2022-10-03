@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1664835993957,
+  "endTime": 1664837183052,
   "band_list": [
     {
       "raw_hot": 3091269,
@@ -939,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 240086,
+      "num": 240086,
+      "word": "北京10月4日最低温仅4摄氏度",
+      "onboard_time": 1664829971,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238097,
       "num": 238097,
       "word": "陈哲远沈月cp名叫南忘今萧",
@@ -1136,14 +1144,6 @@
       "word": "导弹专家为国隐姓埋名60余年",
       "onboard_time": 1664754258,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 182272,
-      "num": 182272,
-      "word": "北京10月4日最低温仅4摄氏度",
-      "onboard_time": 1664829971,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -1379,6 +1379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 125754,
+      "num": 125754,
+      "word": "英国商超禁止摆放垃圾食品在显眼处",
+      "onboard_time": 1664831230,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125636,
       "num": 125636,
       "word": "你听过最好的安慰是怎样的",
@@ -1547,14 +1555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 93456,
-      "num": 51145,
-      "word": "英国商超禁止摆放垃圾食品在显眼处",
-      "onboard_time": 1664831230,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 93096,
       "num": 93096,
       "word": "万里归途票房破5亿",
@@ -1640,6 +1640,14 @@
       "word": "什么是流石滩植物",
       "onboard_time": 1664756121,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78686,
+      "num": 78686,
+      "word": "绿皮火车也能有淋浴酒吧KTV",
+      "onboard_time": 1664831470,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -1731,20 +1739,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 61805,
+      "num": 61805,
+      "word": "河北启动省地震灾害Ⅳ级应急响应",
+      "onboard_time": 1664828950,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61560,
       "num": 61560,
       "word": "虞书欣小森林重新定义渣男",
       "onboard_time": 1664709682,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 59790,
-      "num": 50985,
-      "word": "河北启动省地震灾害Ⅳ级应急响应",
-      "onboard_time": 1664828950,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 58143,
@@ -1769,6 +1777,14 @@
       "onboard_time": 1664775741,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53911,
+      "num": 53911,
+      "word": "RNG状态",
+      "onboard_time": 1664825832,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 53010,
@@ -1835,14 +1851,6 @@
       "category": "财经,科技"
     },
     {
-      "raw_hot": 47027,
-      "num": 47027,
-      "word": "绿皮火车也能有淋浴酒吧KTV",
-      "onboard_time": 1664831470,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 45627,
       "num": 45627,
       "word": "RNG对战SGB",
@@ -1875,14 +1883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 39541,
-      "num": 39541,
-      "word": "RNG状态",
-      "onboard_time": 1664825832,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 37242,
       "num": 376235,
       "word": "丽水重症病人共享厨房开出第三间",
@@ -1907,6 +1907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 27147,
+      "num": 27147,
+      "word": "关晓彤演的社区工作者",
+      "onboard_time": 1664820554,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 27101,
       "num": 27101,
       "word": "乌云遇皎月还原度",
@@ -1915,12 +1923,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 18563,
-      "num": 18563,
-      "word": "关晓彤演的社区工作者",
-      "onboard_time": 1664820554,
-      "rank": 37,
-      "category": "影视"
+      "raw_hot": 24131,
+      "num": 24131,
+      "word": "军训拉歌还得是音乐学院",
+      "onboard_time": 1664832190,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 11127,
@@ -1929,6 +1937,14 @@
       "onboard_time": 1664832130,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 10821,
+      "num": 13619,
+      "word": "阿德莱德36人vs太阳",
+      "onboard_time": 1664832012,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 9058,
@@ -1955,11 +1971,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 7051,
-      "num": 8194,
-      "word": "阿德莱德36人vs太阳",
-      "onboard_time": 1664832012,
-      "rank": 44,
+      "raw_hot": 7075,
+      "num": 13598,
+      "word": "F1新加坡大奖赛佩雷兹冠军",
+      "onboard_time": 1664832070,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -1971,12 +1987,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 6109,
-      "num": 8179,
-      "word": "军训拉歌还得是音乐学院",
+      "raw_hot": 6324,
+      "num": 13592,
+      "word": "杰伦布朗季前赛24分",
       "onboard_time": 1664832190,
-      "rank": 49,
-      "category": "情感"
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 6018,
@@ -1993,14 +2009,6 @@
       "onboard_time": 1664828411,
       "rank": 45,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 5748,
-      "num": 8163,
-      "word": "F1新加坡大奖赛佩雷兹冠军",
-      "onboard_time": 1664832070,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 5517,
@@ -2097,14 +2105,6 @@
       "onboard_time": 1664831950,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 4761,
-      "num": 4761,
-      "word": "杰伦布朗季前赛24分",
-      "onboard_time": 1664832190,
-      "rank": 47,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
