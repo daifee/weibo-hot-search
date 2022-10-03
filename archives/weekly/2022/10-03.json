@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1664789541415,
+  "endTime": 1664790630460,
   "band_list": [
     {
       "raw_hot": 3091269,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 837615,
+      "num": 468005,
+      "word": "安卓灵动岛APP下载安装量超100万次",
+      "onboard_time": 1664786483,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
       "raw_hot": 793130,
       "num": 793130,
       "word": "8旬老baby因洗碗持兵器开战",
@@ -129,14 +137,6 @@
       "onboard_time": 1664764523,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 682787,
-      "num": 441240,
-      "word": "安卓灵动岛APP下载安装量超100万次",
-      "onboard_time": 1664786483,
-      "rank": 26,
-      "category": "科技"
     },
     {
       "raw_hot": 680384,
@@ -395,11 +395,27 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 392761,
+      "num": 392761,
+      "word": "当大狗看到小狗在床上时",
+      "onboard_time": 1664786001,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 391212,
       "num": 391212,
       "word": "我国首次寒潮和高温预警齐发",
       "onboard_time": 1664766861,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 383336,
+      "num": 383336,
+      "word": "新婚夜护士新娘给新郎扎针输液",
+      "onboard_time": 1664788223,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -457,14 +473,6 @@
       "onboard_time": 1664781381,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 332177,
-      "num": 332177,
-      "word": "当大狗看到小狗在床上时",
-      "onboard_time": 1664786001,
-      "rank": 49,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 330524,
@@ -571,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 258797,
+      "num": 258797,
+      "word": "2022年诺贝尔生理学或医学奖揭晓",
+      "onboard_time": 1664790203,
+      "rank": 12,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 257553,
       "num": 257553,
       "word": "成毅底线咪咕播放量破10亿",
@@ -619,8 +635,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 248828,
-      "num": 248828,
+      "raw_hot": 249234,
+      "num": 249234,
       "word": "爸爸拿水果站路边等女儿回家",
       "onboard_time": 1664786844,
       "rank": 42,
@@ -707,14 +723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 202570,
-      "num": 202570,
-      "word": "新婚夜护士新娘给新郎扎针输液",
-      "onboard_time": 1664788223,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 201264,
       "num": 201264,
       "word": "两条北溪天然气管道都已停止泄漏",
@@ -737,6 +745,14 @@
       "onboard_time": 1664789303,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 189166,
+      "num": 139529,
+      "word": "小长假必看综艺",
+      "onboard_time": 1664787202,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 185137,
@@ -769,14 +785,6 @@
       "onboard_time": 1664721383,
       "rank": 20,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 171805,
-      "num": 139529,
-      "word": "小长假必看综艺",
-      "onboard_time": 1664787202,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 165427,
@@ -883,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137154,
+      "num": 137154,
+      "word": "中国男团vs斯洛文尼亚男团",
+      "onboard_time": 1664789540,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134402,
       "num": 134402,
       "word": "假期饮食不节制易诱发胰腺炎",
@@ -947,6 +963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 119658,
+      "num": 99875,
+      "word": "当你年少时",
+      "onboard_time": 1664788524,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 117541,
       "num": 133353,
       "word": "男子景区开11家十元管饱饭店",
@@ -969,14 +993,6 @@
       "onboard_time": 1664766323,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 115569,
-      "num": 84741,
-      "word": "当你年少时",
-      "onboard_time": 1664788524,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 115270,
@@ -1016,6 +1032,14 @@
       "word": "大爷捡19万现金苦等失主6小时",
       "onboard_time": 1664710643,
       "rank": 31,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 99850,
+      "num": 99849,
+      "word": "老人景区昏倒游客接力心肺复苏",
+      "onboard_time": 1664787143,
+      "rank": 49,
       "category": "社会正能量"
     },
     {
@@ -1083,14 +1107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 84876,
-      "num": 84876,
-      "word": "老人景区昏倒游客接力心肺复苏",
-      "onboard_time": 1664787143,
-      "rank": 49,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 83635,
       "num": 83635,
       "word": "罗一舟关晓彤同框",
@@ -1137,6 +1153,14 @@
       "onboard_time": 1664722825,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71397,
+      "num": 71397,
+      "word": "俄称修复北溪管道的可能性是存在的",
+      "onboard_time": 1664789902,
+      "rank": 38,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 71021,
@@ -1211,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49982,
+      "num": 49982,
+      "word": "流浪猫投喂点堪比热门景区",
+      "onboard_time": 1664790441,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48028,
       "num": 281001,
       "word": "男子溺水挣扎众人呼喊接力救援",
@@ -1241,6 +1273,14 @@
       "onboard_time": 1664735113,
       "rank": 49,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 46197,
+      "num": 46197,
+      "word": "北京大兴报告1名核酸阳性人员",
+      "onboard_time": 1664790082,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 45627,
