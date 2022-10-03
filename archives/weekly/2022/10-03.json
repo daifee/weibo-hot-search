@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1664796146509,
+  "endTime": 1664797242946,
   "band_list": [
     {
       "raw_hot": 3091269,
@@ -57,6 +57,14 @@
       "onboard_time": 1664724204,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1378684,
+      "num": 283102,
+      "word": "iPhone在6人死亡车祸中自动求救",
+      "onboard_time": 1664796084,
+      "rank": 42,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 1195211,
@@ -155,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 714797,
+      "num": 282094,
+      "word": "陈都灵莲花楼杀青照",
+      "onboard_time": 1664796143,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 686003,
       "num": 686003,
       "word": "山东11市出现大暴雨",
@@ -185,14 +201,6 @@
       "onboard_time": 1664760622,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 633515,
-      "num": 48500,
-      "word": "陈都灵莲花楼杀青照",
-      "onboard_time": 1664796143,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 631538,
@@ -379,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 432481,
+      "num": 432481,
+      "word": "韩国建军节宣传片出现中国装甲车",
+      "onboard_time": 1664793442,
+      "rank": 29,
+      "category": "军事"
+    },
+    {
       "raw_hot": 428049,
       "num": 428049,
       "word": "BLACKPINKShutDown获人歌一位",
@@ -401,14 +417,6 @@
       "onboard_time": 1664775982,
       "rank": 37,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 415586,
-      "num": 313246,
-      "word": "韩国建军节宣传片出现中国装甲车",
-      "onboard_time": 1664793442,
-      "rank": 29,
-      "category": "军事"
     },
     {
       "raw_hot": 401231,
@@ -475,20 +483,20 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 371280,
+      "num": 371280,
+      "word": "关晓彤为电视剧胡同第三篇章做宣传",
+      "onboard_time": 1664793142,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 366752,
       "num": 366752,
       "word": "北溪管道泄漏事件由炸药爆炸引起",
       "onboard_time": 1664771483,
       "rank": 13,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 363644,
-      "num": 363644,
-      "word": "关晓彤为电视剧胡同第三篇章做宣传",
-      "onboard_time": 1664793142,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 352227,
@@ -627,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275868,
+      "num": 275868,
+      "word": "北京雨后现金色晚霞",
+      "onboard_time": 1664794284,
+      "rank": 13,
+      "category": "自然,社会新闻"
+    },
+    {
       "raw_hot": 272585,
       "num": 190265,
       "word": "当追星的我老了以后",
@@ -641,14 +657,6 @@
       "onboard_time": 1664785641,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 268913,
-      "num": 268913,
-      "word": "北京雨后现金色晚霞",
-      "onboard_time": 1664794284,
-      "rank": 13,
-      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 261929,
@@ -835,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205426,
+      "num": 205426,
+      "word": "公司要破产我该不该辞职",
+      "onboard_time": 1664797043,
+      "rank": 19,
+      "category": "社会议题,影视"
+    },
+    {
       "raw_hot": 201264,
       "num": 201264,
       "word": "两条北溪天然气管道都已停止泄漏",
@@ -977,6 +993,14 @@
       "onboard_time": 1664724744,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 143560,
+      "num": 143560,
+      "word": "摄影师记录菊花绽放瞬间",
+      "onboard_time": 1664794583,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139739,
@@ -1123,14 +1147,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 113267,
-      "num": 113267,
-      "word": "摄影师记录菊花绽放瞬间",
-      "onboard_time": 1664794583,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 106181,
       "num": 106181,
       "word": "故宫高清壁纸上新",
@@ -1235,6 +1251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 80726,
+      "num": 80726,
+      "word": "货车着火近百头猪被烤熟",
+      "onboard_time": 1664796984,
+      "rank": 37,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 79411,
       "num": 79411,
       "word": "被吓过的小猫有多记仇",
@@ -1315,14 +1339,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 58745,
-      "num": 58745,
-      "word": "iPhone在6人死亡车祸中自动求救",
-      "onboard_time": 1664796084,
-      "rank": 42,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 58143,
       "num": 58143,
       "word": "江苏人从短袖到秋裤可能只需一天",
@@ -1347,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53986,
+      "num": 53986,
+      "word": "原来鲜花还可以这么保存",
+      "onboard_time": 1664796441,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 53010,
       "num": 53010,
       "word": "父母旅游时的主要区别",
@@ -1361,6 +1385,14 @@
       "onboard_time": 1664791462,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 52343,
+      "num": 52343,
+      "word": "北溪管道爆炸威力相当于数百公斤炸药",
+      "onboard_time": 1664796624,
+      "rank": 46,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 51717,
