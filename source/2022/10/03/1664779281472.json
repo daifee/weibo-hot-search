@@ -1,0 +1,410 @@
+{
+  "runTime": 1664779281472,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1291238,
+        "num": 1291238,
+        "word": "万里归途票房逆跌",
+        "onboard_time": 1664764284,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1076826,
+        "num": 1076826,
+        "word": "为什么竹马总是打不过天降",
+        "onboard_time": 1664772983,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 65622,
+        "num": 826810,
+        "word": "齐唱国歌是刻进中国人DNA的感动",
+        "onboard_time": 1664767943,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 757607,
+        "num": 757607,
+        "word": "7个孙子重孙合力抬96岁老人旅游",
+        "onboard_time": 1664774002,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501202,
+        "num": 501202,
+        "word": "王鹤棣浮图缘预约破150w",
+        "onboard_time": 1664773702,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 497422,
+        "num": 497422,
+        "word": "狗狗进公园被拦收2元停车费",
+        "onboard_time": 1664770582,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474884,
+        "num": 474884,
+        "word": "山西人吃醋真是让我开了眼",
+        "onboard_time": 1664767701,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 318378,
+        "num": 318378,
+        "word": "挪威三文鱼在中国生活得很开心",
+        "onboard_time": 1664767403,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316471,
+        "num": 316471,
+        "word": "苹果高管谈灵动岛",
+        "onboard_time": 1664774002,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 307353,
+        "num": 307353,
+        "word": "老人68岁开始锻炼92岁笑着爬山",
+        "onboard_time": 1664775982,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 472377,
+        "num": 306915,
+        "word": "王俊凯主演票房破25亿",
+        "onboard_time": 1664774603,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 401231,
+        "num": 306663,
+        "word": "张杰的歌曲始终沸腾滚烫",
+        "onboard_time": 1664778801,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 351861,
+        "num": 306564,
+        "word": "男子洗碗割破指动脉缝9针",
+        "onboard_time": 1664760501,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306392,
+        "num": 306392,
+        "word": "我国首次寒潮和高温预警齐发",
+        "onboard_time": 1664766861,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30203,
+        "num": 285080,
+        "word": "民警救下挂4楼窗外八旬老人",
+        "onboard_time": 1664777601,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280181,
+        "num": 280181,
+        "word": "北溪管道泄漏事件由炸药爆炸引起",
+        "onboard_time": 1664771483,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 256587,
+        "num": 256587,
+        "word": "云南大学生校内如厕偶遇孔雀学长",
+        "onboard_time": 1664764703,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246287,
+        "num": 246287,
+        "word": "脱口秀大会5官宣王濛",
+        "onboard_time": 1664771002,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220519,
+        "num": 220519,
+        "word": "是时候与自己和解了",
+        "onboard_time": 1664777181,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215611,
+        "num": 215611,
+        "word": "偶尔大吃一顿不会胖",
+        "onboard_time": 1664768123,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210222,
+        "num": 210222,
+        "word": "青岛石老人海蚀柱上半部分坍塌",
+        "onboard_time": 1664767821,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203912,
+        "num": 203912,
+        "word": "年轻人上网被骗比例最高达65.5%",
+        "onboard_time": 1664772860,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182035,
+        "num": 182035,
+        "word": "金晨王安宇戏外互晒情侣视角照",
+        "onboard_time": 1664776283,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169671,
+        "num": 169671,
+        "word": "裴秀智将回归",
+        "onboard_time": 1664762302,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 166491,
+        "num": 166491,
+        "word": "赵晓卉山西千种面不如去见一面",
+        "onboard_time": 1664769862,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151473,
+        "num": 151473,
+        "word": "太阳不敌阿德莱德36人",
+        "onboard_time": 1664777661,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134402,
+        "num": 134402,
+        "word": "假期饮食不节制易诱发胰腺炎",
+        "onboard_time": 1664774722,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130075,
+        "num": 130075,
+        "word": "两条北溪天然气管道都已停止泄漏",
+        "onboard_time": 1664771181,
+        "rank": 27,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 124671,
+        "num": 124671,
+        "word": "S12入围赛淘汰赛赛程",
+        "onboard_time": 1664771362,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123162,
+        "num": 123162,
+        "word": "石老人",
+        "onboard_time": 1664761521,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130592,
+        "num": 121710,
+        "word": "万里归途成影史国庆节总场次冠军",
+        "onboard_time": 1664769862,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116707,
+        "num": 116707,
+        "word": "草原雕走出六亲不认的步伐",
+        "onboard_time": 1664774603,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115351,
+        "num": 115351,
+        "word": "王嘉尔VOGUE新加坡版10月封面",
+        "onboard_time": 1664774843,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 112303,
+        "num": 112303,
+        "word": "泽连斯基称乌克兰将重建海军",
+        "onboard_time": 1664763021,
+        "rank": 33,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 111692,
+        "num": 111692,
+        "word": "大学女老师说为情所困不如搞事业",
+        "onboard_time": 1664760319,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 104820,
+        "num": 104820,
+        "word": "小小年纪就活得如此明白",
+        "onboard_time": 1664764883,
+        "rank": 35,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 101518,
+        "num": 101518,
+        "word": "石家庄地震",
+        "onboard_time": 1664752097,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98208,
+        "num": 98208,
+        "word": "虞书欣张彬彬呼呼揉头太宠了",
+        "onboard_time": 1664770582,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 96531,
+        "num": 96531,
+        "word": "辽宁舰副舰长说中国海军将永远向上",
+        "onboard_time": 1664766861,
+        "rank": 38,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 93096,
+        "num": 93096,
+        "word": "万里归途票房破5亿",
+        "onboard_time": 1664778322,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91058,
+        "num": 91058,
+        "word": "生孩子的过程和感受",
+        "onboard_time": 1664755641,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90812,
+        "num": 90812,
+        "word": "河南增14例本土无症状",
+        "onboard_time": 1664768722,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88422,
+        "num": 88422,
+        "word": "男子看升旗睡着仪式结束还未醒",
+        "onboard_time": 1664764822,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74421,
+        "num": 74421,
+        "word": "火影忍者开播20周年",
+        "onboard_time": 1664771541,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 73437,
+        "num": 73437,
+        "word": "内蒙古新增本土确诊病例80例",
+        "onboard_time": 1664766323,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72061,
+        "num": 72061,
+        "word": "山东11市出现大暴雨",
+        "onboard_time": 1664764523,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65224,
+        "num": 65224,
+        "word": "上海打破10月最高气温纪录",
+        "onboard_time": 1664779101,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63579,
+        "num": 63579,
+        "word": "2个动作改善驼背",
+        "onboard_time": 1664768484,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61430,
+        "num": 61430,
+        "word": "林志炫新歌滕王阁序",
+        "onboard_time": 1664769862,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 60002,
+        "num": 60002,
+        "word": "10月2日新增466例本土无症状",
+        "onboard_time": 1664760622,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#坐标中国#"
+    }
+  }
+}
