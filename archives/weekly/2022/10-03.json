@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1664787250348,
+  "endTime": 1664789541415,
   "band_list": [
     {
       "raw_hot": 3091269,
@@ -129,6 +129,14 @@
       "onboard_time": 1664764523,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 682787,
+      "num": 441240,
+      "word": "安卓灵动岛APP下载安装量超100万次",
+      "onboard_time": 1664786483,
+      "rank": 26,
+      "category": "科技"
     },
     {
       "raw_hot": 680384,
@@ -372,7 +380,7 @@
     },
     {
       "raw_hot": 396072,
-      "num": 252638,
+      "num": 352863,
       "word": "吴建豪给刘雨昕开篮球速成课",
       "onboard_time": 1664784743,
       "rank": 10,
@@ -451,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 332177,
+      "num": 332177,
+      "word": "当大狗看到小狗在床上时",
+      "onboard_time": 1664786001,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 330524,
       "num": 330524,
       "word": "23岁女孩吃网红药意识混乱险丧命",
@@ -481,6 +497,14 @@
       "onboard_time": 1664781082,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 314615,
+      "num": 270227,
+      "word": "沈月新剧海外影响力",
+      "onboard_time": 1664784260,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 305527,
@@ -595,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248828,
+      "num": 248828,
+      "word": "爸爸拿水果站路边等女儿回家",
+      "onboard_time": 1664786844,
+      "rank": 42,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 248238,
       "num": 248238,
       "word": "研究发现3亿年后太平洋将消失",
@@ -643,14 +675,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 219438,
-      "num": 174957,
-      "word": "当大狗看到小狗在床上时",
-      "onboard_time": 1664786001,
-      "rank": 49,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 209675,
       "num": 209675,
       "word": "曼城6比3曼联",
@@ -665,14 +689,6 @@
       "onboard_time": 1664771362,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 208297,
-      "num": 191115,
-      "word": "沈月新剧海外影响力",
-      "onboard_time": 1664784260,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 207868,
@@ -691,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202570,
+      "num": 202570,
+      "word": "新婚夜护士新娘给新郎扎针输液",
+      "onboard_time": 1664788223,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201264,
       "num": 201264,
       "word": "两条北溪天然气管道都已停止泄漏",
@@ -705,6 +729,14 @@
       "onboard_time": 1664762364,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 193096,
+      "num": 144055,
+      "word": "为什么成朗讨厌撒谎",
+      "onboard_time": 1664789303,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 185137,
@@ -737,6 +769,14 @@
       "onboard_time": 1664721383,
       "rank": 20,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 171805,
+      "num": 139529,
+      "word": "小长假必看综艺",
+      "onboard_time": 1664787202,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 165427,
@@ -801,14 +841,6 @@
       "onboard_time": 1664724863,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 149580,
-      "num": 149580,
-      "word": "安卓灵动岛APP下载安装量超100万次",
-      "onboard_time": 1664786483,
-      "rank": 26,
-      "category": "科技"
     },
     {
       "raw_hot": 146499,
@@ -939,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115569,
+      "num": 84741,
+      "word": "当你年少时",
+      "onboard_time": 1664788524,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 115270,
       "num": 115270,
       "word": "任嘉伦李沁请君相拥说枕边话",
@@ -985,14 +1025,6 @@
       "onboard_time": 1664778322,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 90084,
-      "num": 48960,
-      "word": "小长假必看综艺",
-      "onboard_time": 1664787202,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 89155,
@@ -1049,6 +1081,14 @@
       "onboard_time": 1664716885,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 84876,
+      "num": 84876,
+      "word": "老人景区昏倒游客接力心肺复苏",
+      "onboard_time": 1664787143,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 83635,
@@ -1121,14 +1161,6 @@
       "onboard_time": 1664745250,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 61632,
-      "num": 61632,
-      "word": "爸爸拿水果站路边等女儿回家",
-      "onboard_time": 1664786844,
-      "rank": 42,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 61560,
@@ -1209,14 +1241,6 @@
       "onboard_time": 1664735113,
       "rank": 49,
       "category": "财经,科技"
-    },
-    {
-      "raw_hot": 46594,
-      "num": 46594,
-      "word": "老人景区昏倒游客接力心肺复苏",
-      "onboard_time": 1664787143,
-      "rank": 49,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 45627,
