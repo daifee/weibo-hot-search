@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664825121382,
+  "endTime": 1664826010406,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -4987,8 +4987,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 18379,
-      "num": 18379,
+      "raw_hot": 18563,
+      "num": 18563,
       "word": "关晓彤演的社区工作者",
       "onboard_time": 1664820554,
       "rank": 37,
@@ -5009,6 +5009,14 @@
       "onboard_time": 1664741891,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 6814,
+      "num": 6814,
+      "word": "RNG状态",
+      "onboard_time": 1664825832,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 6459,

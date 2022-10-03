@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/03 00:34:12 ~ 2022/10/04 03:25:21
+本榜单时间：2022/10/03 00:34:12 ~ 2022/10/04 03:40:10
 </p>
 </blockquote>
 <p>
@@ -1420,7 +1420,7 @@ RNG对战SGB（热度：45627）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E6%BC%94%E7%9A%84%E7%A4%BE%E5%8C%BA%E5%B7%A5%E4%BD%9C%E8%80%85%23" target="weibo">
-关晓彤演的社区工作者（热度：18379）
+关晓彤演的社区工作者（热度：18563）
 </a>
 </li>
 
@@ -1433,6 +1433,12 @@ RNG对战SGB（热度：45627）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%97%B6%E4%BB%A3%20%E6%88%91%E5%9C%A8%E4%B8%AD%E5%9B%BD%23" target="weibo">
 新时代 我在中国（热度：8686）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23RNG%E7%8A%B6%E6%80%81%23" target="weibo">
+RNG状态（热度：6814）
 </a>
 </li>
 
