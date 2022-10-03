@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664762735742,
+  "endTime": 1664764625040,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -323,6 +323,14 @@
       "category": "社会负面,体育"
     },
     {
+      "raw_hot": 1056852,
+      "num": 448977,
+      "word": "石老人",
+      "onboard_time": 1664761521,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1041959,
       "num": 1041959,
       "word": "国庆晚会",
@@ -379,6 +387,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 952432,
+      "num": 569297,
+      "word": "裴秀智将回归",
+      "onboard_time": 1664762302,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 932511,
+      "num": 432683,
+      "word": "男子洗碗割破指动脉缝9针",
+      "onboard_time": 1664760501,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 916316,
       "num": 301758,
       "word": "王梦洁",
@@ -393,14 +417,6 @@
       "onboard_time": 1664682321,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 877881,
-      "num": 327888,
-      "word": "男子洗碗割破指动脉缝9针",
-      "onboard_time": 1664760501,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 863896,
@@ -464,14 +480,6 @@
       "word": "大爷将乌龟当枕头躺江边熟睡",
       "onboard_time": 1664619620,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 773084,
-      "num": 323651,
-      "word": "石老人",
-      "onboard_time": 1664761521,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -601,6 +609,14 @@
       "onboard_time": 1664665636,
       "rank": 11,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 655185,
+      "num": 655185,
+      "word": "10月2日新增466例本土无症状",
+      "onboard_time": 1664760622,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 652526,
@@ -907,6 +923,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 455303,
+      "num": 455303,
+      "word": "大学女老师说为情所困不如搞事业",
+      "onboard_time": 1664760319,
+      "rank": 19,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 454370,
+      "num": 454370,
+      "word": "万里归途票房逆跌",
+      "onboard_time": 1664764284,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 453871,
       "num": 275092,
       "word": "张杰国庆晚会致吾辈舞台",
@@ -945,14 +977,6 @@
       "onboard_time": 1664697921,
       "rank": 16,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 439571,
-      "num": 301234,
-      "word": "10月2日新增466例本土无症状",
-      "onboard_time": 1664760622,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 432405,
@@ -1121,6 +1145,14 @@
       "onboard_time": 1664696781,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 375131,
+      "num": 375131,
+      "word": "泽连斯基称乌克兰将重建海军",
+      "onboard_time": 1664763021,
+      "rank": 15,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 368867,
@@ -1651,14 +1683,6 @@
       "category": "科技,国内要闻"
     },
     {
-      "raw_hot": 254123,
-      "num": 254123,
-      "word": "大学女老师说为情所困不如搞事业",
-      "onboard_time": 1664760319,
-      "rank": 19,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 253820,
       "num": 253820,
       "word": "被吓过的小猫有多记仇",
@@ -1795,20 +1819,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 235932,
-      "num": 235932,
-      "word": "裴秀智将回归",
-      "onboard_time": 1664762302,
-      "rank": 21,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 233789,
       "num": 201935,
       "word": "李宇春国庆晚会我愿舞台",
       "onboard_time": 1664633782,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 233684,
+      "num": 233684,
+      "word": "寒潮将终结南方多地高温",
+      "onboard_time": 1664759361,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233580,
@@ -2011,6 +2035,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 200725,
+      "num": 200725,
+      "word": "RNG入围赛四连胜",
+      "onboard_time": 1664762364,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 200681,
       "num": 200681,
       "word": "乌方称控制红利曼",
@@ -2049,14 +2081,6 @@
       "onboard_time": 1664673561,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 196897,
-      "num": 196897,
-      "word": "寒潮将终结南方多地高温",
-      "onboard_time": 1664759361,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196332,
@@ -2259,14 +2283,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 172725,
-      "num": 172725,
-      "word": "RNG入围赛四连胜",
-      "onboard_time": 1664762364,
-      "rank": 29,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 171133,
       "num": 171133,
       "word": "万里归途",
@@ -2320,6 +2336,14 @@
       "word": "10月2日新增本土确诊189例",
       "onboard_time": 1664761702,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161645,
+      "num": 161645,
+      "word": "00后大学生操场带妆唱戏引围观",
+      "onboard_time": 1664760022,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -2424,14 +2448,6 @@
       "word": "北京丰台新增一本土感染者",
       "onboard_time": 1664699541,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 148233,
-      "num": 148233,
-      "word": "00后大学生操场带妆唱戏引围观",
-      "onboard_time": 1664760022,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -3483,6 +3499,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 61961,
+      "num": 61961,
+      "word": "山东11市出现大暴雨",
+      "onboard_time": 1664764523,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61732,
       "num": 61732,
       "word": "祖国在你身后的安全感有多强",
@@ -3787,6 +3811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37242,
+      "num": 376235,
+      "word": "丽水重症病人共享厨房开出第三间",
+      "onboard_time": 1664762603,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35511,
       "num": 35511,
       "word": "和我一起向祖国告白",
@@ -3865,14 +3897,6 @@
       "onboard_time": 1664652973,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 6190,
-      "num": 308918,
-      "word": "丽水重症病人共享厨房开出第三间",
-      "onboard_time": 1664762603,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 6079,

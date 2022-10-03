@@ -1,0 +1,410 @@
+{
+  "runTime": 1664764625040,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1302208,
+        "num": 1302208,
+        "word": "马龙主动示意对手擦边",
+        "onboard_time": 1664757022,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 655185,
+        "num": 655185,
+        "word": "10月2日新增466例本土无症状",
+        "onboard_time": 1664760622,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8686,
+        "num": 570974,
+        "word": "新时代 我在中国",
+        "onboard_time": 1664680822,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 952432,
+        "num": 569297,
+        "word": "裴秀智将回归",
+        "onboard_time": 1664762302,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 691287,
+        "num": 565133,
+        "word": "8旬老baby因洗碗持兵器开战",
+        "onboard_time": 1664725402,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505811,
+        "num": 505811,
+        "word": "吵架内容都这么高端了吗",
+        "onboard_time": 1664751854,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 491836,
+        "num": 491836,
+        "word": "RNG战胜SGB",
+        "onboard_time": 1664761945,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 468154,
+        "num": 468154,
+        "word": "大学最后一课老师告诫学生接受平凡",
+        "onboard_time": 1664751795,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 455303,
+        "num": 455303,
+        "word": "大学女老师说为情所困不如搞事业",
+        "onboard_time": 1664760319,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 454370,
+        "num": 454370,
+        "word": "万里归途票房逆跌",
+        "onboard_time": 1664764284,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1056852,
+        "num": 448977,
+        "word": "石老人",
+        "onboard_time": 1664761521,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 932511,
+        "num": 432683,
+        "word": "男子洗碗割破指动脉缝9针",
+        "onboard_time": 1664760501,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568937,
+        "num": 430772,
+        "word": "石家庄地震",
+        "onboard_time": 1664752097,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408559,
+        "num": 408559,
+        "word": "终于明白鱼为什么怕猫了",
+        "onboard_time": 1664755820,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37242,
+        "num": 376235,
+        "word": "丽水重症病人共享厨房开出第三间",
+        "onboard_time": 1664762603,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375131,
+        "num": 375131,
+        "word": "泽连斯基称乌克兰将重建海军",
+        "onboard_time": 1664763021,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 307670,
+        "num": 307670,
+        "word": "生孩子的过程和感受",
+        "onboard_time": 1664755641,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 257550,
+        "num": 257550,
+        "word": "北京新增本土感染者3例",
+        "onboard_time": 1664757683,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253757,
+        "num": 253757,
+        "word": "爷爷为孙女做百余个拇指大小馒头",
+        "onboard_time": 1664722702,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246077,
+        "num": 246077,
+        "word": "李现被哈兰德圈粉",
+        "onboard_time": 1664759301,
+        "rank": 19,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 233684,
+        "num": 233684,
+        "word": "寒潮将终结南方多地高温",
+        "onboard_time": 1664759361,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227354,
+        "num": 227354,
+        "word": "成毅底线咪咕播放量破10亿",
+        "onboard_time": 1664759961,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214913,
+        "num": 214913,
+        "word": "哈尔滨市新增2例外省输入阳性",
+        "onboard_time": 1664760803,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200725,
+        "num": 200725,
+        "word": "RNG入围赛四连胜",
+        "onboard_time": 1664762364,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166948,
+        "num": 166948,
+        "word": "浙江桐乡两例阳性感染者被立案调查",
+        "onboard_time": 1664755461,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162371,
+        "num": 162371,
+        "word": "灰太狼听完都改吃素了",
+        "onboard_time": 1664753717,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162193,
+        "num": 162193,
+        "word": "老师婚期临近62名学生偷偷送惊喜",
+        "onboard_time": 1664743991,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 161645,
+        "num": 161645,
+        "word": "00后大学生操场带妆唱戏引围观",
+        "onboard_time": 1664760022,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159517,
+        "num": 159517,
+        "word": "DRX晋级小组赛",
+        "onboard_time": 1664758942,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155306,
+        "num": 155306,
+        "word": "糊但好看的剧",
+        "onboard_time": 1664707524,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149083,
+        "num": 149083,
+        "word": "男子开特斯拉返乡堵到没电叫拖车",
+        "onboard_time": 1664720005,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129915,
+        "num": 129915,
+        "word": "BLACKPINKShutDown获人歌一位",
+        "onboard_time": 1664726543,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 126893,
+        "num": 126893,
+        "word": "谢谢你们的声音把客场变成中国主场",
+        "onboard_time": 1664755100,
+        "rank": 32,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 124233,
+        "num": 124233,
+        "word": "导弹专家为国隐姓埋名60余年",
+        "onboard_time": 1664754258,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122578,
+        "num": 122578,
+        "word": "文俊辉直播",
+        "onboard_time": 1664755700,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120973,
+        "num": 120973,
+        "word": "德国民众雨中示威要求停止对俄制裁",
+        "onboard_time": 1664724624,
+        "rank": 35,
+        "category": "国外要闻,社会新闻"
+      },
+      {
+        "raw_hot": 112878,
+        "num": 112878,
+        "word": "男子公园跳街舞被小孩指着说神经",
+        "onboard_time": 1664737932,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104598,
+        "num": 104598,
+        "word": "2022年诺贝尔奖10月3日起陆续揭晓",
+        "onboard_time": 1664740090,
+        "rank": 37,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 96356,
+        "num": 96356,
+        "word": "俄罗斯暂停向意大利供应天然气",
+        "onboard_time": 1664714963,
+        "rank": 38,
+        "category": "国外要闻,财经"
+      },
+      {
+        "raw_hot": 90696,
+        "num": 90696,
+        "word": "今年总要去一次长沙吧",
+        "onboard_time": 1664715923,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 90656,
+        "num": 90656,
+        "word": "马嘉祺感谢杨坤",
+        "onboard_time": 1664731277,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89875,
+        "num": 89875,
+        "word": "想当航天员不能打呼噜",
+        "onboard_time": 1664721383,
+        "rank": 41,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 89607,
+        "num": 89607,
+        "word": "曾就读清华的90后飞行员夺金头盔",
+        "onboard_time": 1664740510,
+        "rank": 42,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 68115,
+        "num": 68115,
+        "word": "周亦安决定辞职",
+        "onboard_time": 1664716285,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 66356,
+        "num": 66356,
+        "word": "10月2日新增本土确诊189例",
+        "onboard_time": 1664761702,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66136,
+        "num": 66136,
+        "word": "C罗",
+        "onboard_time": 1664724204,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63966,
+        "num": 63966,
+        "word": "什么是流石滩植物",
+        "onboard_time": 1664756121,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62762,
+        "num": 62762,
+        "word": "国庆假期第3天",
+        "onboard_time": 1664754741,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 61961,
+        "num": 61961,
+        "word": "山东11市出现大暴雨",
+        "onboard_time": 1664764523,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61750,
+        "num": 61750,
+        "word": "骗子打给民警报校名民警灵魂反问",
+        "onboard_time": 1664717725,
+        "rank": 49,
+        "category": "社会新闻,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国空间站等你来出差#"
+    }
+  }
+}

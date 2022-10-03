@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1664762735742,
+  "endTime": 1664764625040,
   "band_list": [
     {
       "raw_hot": 3091269,
@@ -27,6 +27,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1056852,
+      "num": 448977,
+      "word": "石老人",
+      "onboard_time": 1664761521,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1051524,
       "num": 1051524,
       "word": "糊但好看的剧",
@@ -35,8 +43,16 @@
       "category": "影视"
     },
     {
-      "raw_hot": 877881,
-      "num": 327888,
+      "raw_hot": 952432,
+      "num": 569297,
+      "word": "裴秀智将回归",
+      "onboard_time": 1664762302,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 932511,
+      "num": 432683,
       "word": "男子洗碗割破指动脉缝9针",
       "onboard_time": 1664760501,
       "rank": 10,
@@ -51,20 +67,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 773084,
-      "num": 323651,
-      "word": "石老人",
-      "onboard_time": 1664761521,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 673954,
       "num": 673954,
       "word": "大学最后一课老师告诫学生接受平凡",
       "onboard_time": 1664751795,
       "rank": 19,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 655185,
+      "num": 655185,
+      "word": "10月2日新增466例本土无症状",
+      "onboard_time": 1664760622,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 631538,
@@ -123,20 +139,28 @@
       "category": "国外要闻,社会新闻"
     },
     {
+      "raw_hot": 455303,
+      "num": 455303,
+      "word": "大学女老师说为情所困不如搞事业",
+      "onboard_time": 1664760319,
+      "rank": 19,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 454370,
+      "num": 454370,
+      "word": "万里归途票房逆跌",
+      "onboard_time": 1664764284,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 445805,
       "num": 311666,
       "word": "生孩子的过程和感受",
       "onboard_time": 1664755641,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 439571,
-      "num": 301234,
-      "word": "10月2日新增466例本土无症状",
-      "onboard_time": 1664760622,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 434948,
@@ -177,6 +201,14 @@
       "onboard_time": 1664715923,
       "rank": 10,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 375131,
+      "num": 375131,
+      "word": "泽连斯基称乌克兰将重建海军",
+      "onboard_time": 1664763021,
+      "rank": 15,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 350711,
@@ -243,14 +275,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 254123,
-      "num": 254123,
-      "word": "大学女老师说为情所困不如搞事业",
-      "onboard_time": 1664760319,
-      "rank": 19,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 252457,
       "num": 252457,
       "word": "灰太狼听完都改吃素了",
@@ -283,12 +307,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 235932,
-      "num": 235932,
-      "word": "裴秀智将回归",
-      "onboard_time": 1664762302,
-      "rank": 21,
-      "category": "音乐"
+      "raw_hot": 233684,
+      "num": 233684,
+      "word": "寒潮将终结南方多地高温",
+      "onboard_time": 1664759361,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231885,
@@ -323,12 +347,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 196897,
-      "num": 196897,
-      "word": "寒潮将终结南方多地高温",
-      "onboard_time": 1664759361,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 200725,
+      "num": 200725,
+      "word": "RNG入围赛四连胜",
+      "onboard_time": 1664762364,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 185137,
@@ -355,14 +379,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 172725,
-      "num": 172725,
-      "word": "RNG入围赛四连胜",
-      "onboard_time": 1664762364,
-      "rank": 29,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 165427,
       "num": 165427,
       "word": "中国女排世界排名跌至第5名",
@@ -376,6 +392,14 @@
       "word": "10月2日新增本土确诊189例",
       "onboard_time": 1664761702,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161645,
+      "num": 161645,
+      "word": "00后大学生操场带妆唱戏引围观",
+      "onboard_time": 1664760022,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -393,14 +417,6 @@
       "onboard_time": 1664724863,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 148233,
-      "num": 148233,
-      "word": "00后大学生操场带妆唱戏引围观",
-      "onboard_time": 1664760022,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146499,
@@ -627,6 +643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 61961,
+      "num": 61961,
+      "word": "山东11市出现大暴雨",
+      "onboard_time": 1664764523,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61560,
       "num": 61560,
       "word": "虞书欣小森林重新定义渣男",
@@ -707,6 +731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37242,
+      "num": 376235,
+      "word": "丽水重症病人共享厨房开出第三间",
+      "onboard_time": 1664762603,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29867,
       "num": 29867,
       "word": "国庆假期郊区旅游约占36%",
@@ -731,19 +763,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 8046,
+      "raw_hot": 8686,
       "num": 795401,
       "word": "新时代 我在中国",
       "onboard_time": 1664680822,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6190,
-      "num": 308918,
-      "word": "丽水重症病人共享厨房开出第三间",
-      "onboard_time": 1664762603,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
