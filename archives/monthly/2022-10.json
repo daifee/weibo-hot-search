@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664811042003,
+  "endTime": 1664812304504,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -1051,6 +1051,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 494703,
+      "num": 494703,
+      "word": "会被一些医学知识震惊到",
+      "onboard_time": 1664807784,
+      "rank": 35,
+      "category": "其它"
+    },
+    {
       "raw_hot": 486967,
       "num": 486967,
       "word": "于和伟触碰不了喜剧大赛的逆鳞",
@@ -1475,6 +1483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 390939,
+      "num": 207278,
+      "word": "02年女生成全校最小博士生",
+      "onboard_time": 1664810964,
+      "rank": 46,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 386414,
       "num": 376596,
       "word": "美国加州将农历新年定为法定假日",
@@ -1513,14 +1529,6 @@
       "onboard_time": 1664804365,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 376500,
-      "num": 255566,
-      "word": "会被一些医学知识震惊到",
-      "onboard_time": 1664807784,
-      "rank": 35,
-      "category": "其它"
     },
     {
       "raw_hot": 375131,
@@ -1755,20 +1763,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324985,
+      "num": 324985,
+      "word": "特斯拉车主回应堵车没电叫拖车",
+      "onboard_time": 1664807605,
+      "rank": 40,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 322493,
       "num": 322493,
       "word": "普京签署顿涅茨克等四地入俄条约",
       "onboard_time": 1664546125,
       "rank": 8,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 322104,
-      "num": 322104,
-      "word": "特斯拉车主回应堵车没电叫拖车",
-      "onboard_time": 1664807605,
-      "rank": 40,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 322081,
@@ -2547,6 +2555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 222261,
+      "num": 200806,
+      "word": "父亲为脑瘫儿子按摩路人提物资相赠",
+      "onboard_time": 1664808444,
+      "rank": 44,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 222253,
       "num": 222253,
       "word": "代号大本钟",
@@ -2731,14 +2747,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 200806,
-      "num": 200806,
-      "word": "父亲为脑瘫儿子按摩路人提物资相赠",
-      "onboard_time": 1664808444,
-      "rank": 44,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 200725,
       "num": 200725,
       "word": "RNG入围赛四连胜",
@@ -2793,6 +2801,14 @@
       "onboard_time": 1664673561,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197058,
+      "num": 197058,
+      "word": "熊猫的肚皮原来可以当小饭桌用",
+      "onboard_time": 1664809824,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196332,
@@ -3097,6 +3113,14 @@
       "onboard_time": 1664680761,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167045,
+      "num": 167045,
+      "word": "一个抓蟑螂的新方法",
+      "onboard_time": 1664810903,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 164497,
@@ -3459,6 +3483,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 135186,
+      "num": 135186,
+      "word": "唐诡后遗症",
+      "onboard_time": 1664808504,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 135038,
       "num": 135038,
       "word": "库里半场17分",
@@ -3497,14 +3529,6 @@
       "onboard_time": 1664689103,
       "rank": 47,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 131460,
-      "num": 131460,
-      "word": "熊猫的肚皮原来可以当小饭桌用",
-      "onboard_time": 1664809824,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131178,
@@ -3755,14 +3779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 116518,
-      "num": 116518,
-      "word": "唐诡后遗症",
-      "onboard_time": 1664808504,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 116510,
       "num": 116510,
       "word": "万里归途中的隐藏知识点",
@@ -3777,6 +3793,14 @@
       "onboard_time": 1664766323,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115707,
+      "num": 115707,
+      "word": "伯远演唱黄种人",
+      "onboard_time": 1664812102,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 115145,
@@ -3881,6 +3905,14 @@
       "onboard_time": 1664806644,
       "rank": 36,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 107575,
+      "num": 107575,
+      "word": "原来小狗也是变脸大师",
+      "onboard_time": 1664810004,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 106819,
@@ -4089,14 +4121,6 @@
       "onboard_time": 1664626522,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 89865,
-      "num": 89865,
-      "word": "原来小狗也是变脸大师",
-      "onboard_time": 1664810004,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 89861,
@@ -4347,14 +4371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 71951,
-      "num": 71951,
-      "word": "一个抓蟑螂的新方法",
-      "onboard_time": 1664810903,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 71292,
       "num": 71292,
       "word": "樊振东3比0科祖尔",
@@ -4561,14 +4577,6 @@
       "onboard_time": 1664591962,
       "rank": 45,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 58683,
-      "num": 58683,
-      "word": "02年女生成全校最小博士生",
-      "onboard_time": 1664810964,
-      "rank": 46,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 58283,
