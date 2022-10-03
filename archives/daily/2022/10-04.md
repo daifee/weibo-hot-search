@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/04 00:41:00 ~ 2022/10/04 05:23:35
+本榜单时间：2022/10/04 00:41:00 ~ 2022/10/04 05:42:09
 </p>
 </blockquote>
 <p>
@@ -261,6 +261,12 @@ TouchID不太可能回到iPhone（热度：181007）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC10%E6%9C%884%E6%97%A5%E6%9C%80%E4%BD%8E%E6%B8%A9%E4%BB%854%E6%91%84%E6%B0%8F%E5%BA%A6%23" target="weibo">
+北京10月4日最低温仅4摄氏度（热度：57981）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E5%9B%BD%E5%BA%86%E5%9C%A8%E5%AE%B6%E7%9A%84%E6%88%91%E5%90%A7%23" target="weibo">
 这就是国庆在家的我吧（热度：55729）
 </a>
@@ -321,8 +327,8 @@ RNG状态（热度：39486）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC10%E6%9C%884%E6%97%A5%E6%9C%80%E4%BD%8E%E6%B8%A9%E4%BB%854%E6%91%84%E6%B0%8F%E5%BA%A6%23" target="weibo">
-北京10月4日最低温仅4摄氏度（热度：38092）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E5%90%AF%E5%8A%A8%E7%9C%81%E5%9C%B0%E9%9C%87%E7%81%BE%E5%AE%B3%E2%85%A3%E7%BA%A7%E5%BA%94%E6%80%A5%E5%93%8D%E5%BA%94%23" target="weibo">
+河北启动省地震灾害Ⅳ级应急响应（热度：37571）
 </a>
 </li>
 
@@ -351,20 +357,26 @@ MRC夺冠（热度：34904）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E5%90%AF%E5%8A%A8%E7%9C%81%E5%9C%B0%E9%9C%87%E7%81%BE%E5%AE%B3%E2%85%A3%E7%BA%A7%E5%BA%94%E6%80%A5%E5%93%8D%E5%BA%94%23" target="weibo">
-河北启动省地震灾害Ⅳ级应急响应（热度：26269）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E6%BC%94%E7%9A%84%E7%A4%BE%E5%8C%BA%E5%B7%A5%E4%BD%9C%E8%80%85%23" target="weibo">
 关晓彤演的社区工作者（热度：18563）
 </a>
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%95%86%E8%B6%85%E7%A6%81%E6%AD%A2%E6%91%86%E6%94%BE%E5%9E%83%E5%9C%BE%E9%A3%9F%E5%93%81%E5%9C%A8%E6%98%BE%E7%9C%BC%E5%A4%84%23" target="weibo">
+英国商超禁止摆放垃圾食品在显眼处（热度：17845）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232022%E5%B9%B4%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%94%9F%E7%90%86%E5%AD%A6%E6%88%96%E5%8C%BB%E5%AD%A6%E5%A5%96%E6%8F%AD%E6%99%93%23" target="weibo">
-2022年诺贝尔生理学或医学奖揭晓（热度：11973）
+2022年诺贝尔生理学或医学奖揭晓（热度：13602）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%BF%E7%9A%AE%E7%81%AB%E8%BD%A6%E4%B9%9F%E8%83%BD%E6%9C%89%E6%B7%8B%E6%B5%B4%E9%85%92%E5%90%A7KTV%23" target="weibo">
+绿皮火车也能有淋浴酒吧KTV（热度：10807）
 </a>
 </li>
 
@@ -413,12 +425,6 @@ MRC夺冠（热度：34904）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%A7%E7%BB%AD%E4%B8%BA%E5%A5%B3%E6%8E%92%E5%A7%91%E5%A8%98%E4%BB%AC%E5%8A%A0%E6%B2%B9%23" target="weibo">
 继续为女排姑娘们加油（热度：4858）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%BF%E7%9A%AE%E7%81%AB%E8%BD%A6%E4%B9%9F%E8%83%BD%E6%9C%89%E6%B7%8B%E6%B5%B4%E9%85%92%E5%90%A7KTV%23" target="weibo">
-绿皮火车也能有淋浴酒吧KTV（热度：4855）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1664815260200,
-  "endTime": 1664832215681,
+  "endTime": 1664833329924,
   "band_list": [
     {
       "raw_hot": 1414692,
@@ -331,6 +331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 57981,
+      "num": 27494,
+      "word": "北京10月4日最低温仅4摄氏度",
+      "onboard_time": 1664829971,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55729,
       "num": 55729,
       "word": "这就是国庆在家的我吧",
@@ -411,11 +419,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 38092,
-      "num": 27194,
-      "word": "北京10月4日最低温仅4摄氏度",
-      "onboard_time": 1664829971,
-      "rank": 11,
+      "raw_hot": 37571,
+      "num": 26269,
+      "word": "河北启动省地震灾害Ⅳ级应急响应",
+      "onboard_time": 1664828950,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -451,14 +459,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 26269,
-      "num": 26269,
-      "word": "河北启动省地震灾害Ⅳ级应急响应",
-      "onboard_time": 1664828950,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 18563,
       "num": 18563,
       "word": "关晓彤演的社区工作者",
@@ -467,12 +467,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 11973,
-      "num": 11973,
+      "raw_hot": 17845,
+      "num": 17845,
+      "word": "英国商超禁止摆放垃圾食品在显眼处",
+      "onboard_time": 1664831230,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13602,
+      "num": 13602,
       "word": "2022年诺贝尔生理学或医学奖揭晓",
       "onboard_time": 1664790203,
       "rank": 48,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 10807,
+      "num": 10807,
+      "word": "绿皮火车也能有淋浴酒吧KTV",
+      "onboard_time": 1664831470,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 7982,
@@ -537,14 +553,6 @@
       "onboard_time": 1664831950,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 4855,
-      "num": 4855,
-      "word": "绿皮火车也能有淋浴酒吧KTV",
-      "onboard_time": 1664831470,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 4830,

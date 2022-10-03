@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664832215681,
+  "endTime": 1664833329924,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -4619,6 +4619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57981,
+      "num": 27494,
+      "word": "北京10月4日最低温仅4摄氏度",
+      "onboard_time": 1664829971,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57546,
       "num": 57546,
       "word": "童年经历日军轰炸的他成导弹专家",
@@ -4923,11 +4931,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 38092,
-      "num": 27194,
-      "word": "北京10月4日最低温仅4摄氏度",
-      "onboard_time": 1664829971,
-      "rank": 11,
+      "raw_hot": 37571,
+      "num": 26269,
+      "word": "河北启动省地震灾害Ⅳ级应急响应",
+      "onboard_time": 1664828950,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -4987,14 +4995,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 26269,
-      "num": 26269,
-      "word": "河北启动省地震灾害Ⅳ级应急响应",
-      "onboard_time": 1664828950,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 23728,
       "num": 23728,
       "word": "中国女排战胜捷克队",
@@ -5017,6 +5017,22 @@
       "onboard_time": 1664820554,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 17845,
+      "num": 17845,
+      "word": "英国商超禁止摆放垃圾食品在显眼处",
+      "onboard_time": 1664831230,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10807,
+      "num": 10807,
+      "word": "绿皮火车也能有淋浴酒吧KTV",
+      "onboard_time": 1664831470,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10343,
@@ -5169,14 +5185,6 @@
       "onboard_time": 1664831950,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 4855,
-      "num": 4855,
-      "word": "绿皮火车也能有淋浴酒吧KTV",
-      "onboard_time": 1664831470,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 4830,
