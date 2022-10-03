@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1664808094232,
+  "endTime": 1664808806758,
   "band_list": [
     {
       "raw_hot": 3091269,
@@ -67,6 +67,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1216300,
+      "num": 299606,
+      "word": "网传乘风破浪的姐姐4拟邀名单",
+      "onboard_time": 1664807844,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1195211,
       "num": 1195211,
       "word": "山西人吃醋真是让我开了眼",
@@ -83,6 +91,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 1104956,
+      "num": 640665,
+      "word": "年轻人为什么不爱走亲戚",
+      "onboard_time": 1664804784,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1056852,
       "num": 448977,
       "word": "石老人",
@@ -97,14 +113,6 @@
       "onboard_time": 1664707524,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 992530,
-      "num": 640665,
-      "word": "年轻人为什么不爱走亲戚",
-      "onboard_time": 1664804784,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 952432,
@@ -241,14 +249,6 @@
       "onboard_time": 1664714963,
       "rank": 3,
       "category": "国外要闻,财经"
-    },
-    {
-      "raw_hot": 631415,
-      "num": 273964,
-      "word": "网传乘风破浪的姐姐4拟邀名单",
-      "onboard_time": 1664807844,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 606284,
@@ -555,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 376776,
+      "num": 376776,
+      "word": "广东冷空气5日到货",
+      "onboard_time": 1664804365,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 375131,
       "num": 375131,
       "word": "泽连斯基称乌克兰将重建海军",
@@ -577,14 +585,6 @@
       "onboard_time": 1664771483,
       "rank": 13,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 363213,
-      "num": 363213,
-      "word": "广东冷空气5日到货",
-      "onboard_time": 1664804365,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 352227,
@@ -699,6 +699,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 307533,
+      "num": 307533,
+      "word": "工作人员扮玩偶被2男子捶打",
+      "onboard_time": 1664806164,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 307530,
+      "num": 307530,
+      "word": "小车礼让婚车把自己倒进沟里",
+      "onboard_time": 1664804064,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 305527,
       "num": 103813,
       "word": "天津地震",
@@ -721,14 +737,6 @@
       "onboard_time": 1664802144,
       "rank": 26,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 295218,
-      "num": 295218,
-      "word": "小车礼让婚车把自己倒进沟里",
-      "onboard_time": 1664804064,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 289569,
@@ -827,14 +835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 250871,
-      "num": 250871,
-      "word": "工作人员扮玩偶被2男子捶打",
-      "onboard_time": 1664806164,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 250430,
       "num": 250430,
       "word": "虞美人庄羽假扮情侣骗歹徒",
@@ -873,6 +873,14 @@
       "onboard_time": 1664791581,
       "rank": 27,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 244512,
+      "num": 244512,
+      "word": "这狗子是真的欠啊",
+      "onboard_time": 1664806404,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 243875,
@@ -939,6 +947,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 225375,
+      "num": 225375,
+      "word": "父母的三观对孩子影响大吗",
+      "onboard_time": 1664804964,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 224146,
       "num": 224146,
       "word": "高卿尘新剧古装造型路透",
@@ -953,14 +969,6 @@
       "onboard_time": 1664787202,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 214294,
-      "num": 214294,
-      "word": "这狗子是真的欠啊",
-      "onboard_time": 1664806404,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 209675,
@@ -1035,18 +1043,18 @@
       "category": "体育"
     },
     {
-      "raw_hot": 195066,
-      "num": 195066,
-      "word": "父母的三观对孩子影响大吗",
-      "onboard_time": 1664804964,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 193096,
       "num": 144055,
       "word": "为什么成朗讨厌撒谎",
       "onboard_time": 1664789303,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 187795,
+      "num": 187795,
+      "word": "万里归途后遗症",
+      "onboard_time": 1664797282,
       "rank": 21,
       "category": "影视"
     },
@@ -1075,6 +1083,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 183963,
+      "num": 181311,
+      "word": "会被一些医学知识震惊到",
+      "onboard_time": 1664807784,
+      "rank": 35,
+      "category": "其它"
+    },
+    {
       "raw_hot": 183123,
       "num": 183123,
       "word": "导弹专家为国隐姓埋名60余年",
@@ -1091,20 +1107,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 180579,
+      "num": 180579,
+      "word": "陈哲远说萧无敌行为不要上升到本人",
+      "onboard_time": 1664808204,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 178486,
       "num": 148592,
       "word": "张译站起来的原因找到了",
       "onboard_time": 1664798421,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 178460,
-      "num": 178460,
-      "word": "万里归途后遗症",
-      "onboard_time": 1664797282,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 176410,
@@ -1147,6 +1163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162732,
+      "num": 162732,
+      "word": "凭本事获得床位的猫咪",
+      "onboard_time": 1664805684,
+      "rank": 42,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 161645,
       "num": 161645,
       "word": "00后大学生操场带妆唱戏引围观",
@@ -1179,6 +1203,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 154278,
+      "num": 154278,
+      "word": "特斯拉车主回应堵车没电叫拖车",
+      "onboard_time": 1664807605,
+      "rank": 40,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 151102,
       "num": 151102,
       "word": "周传雄陆虎合唱黄昏",
@@ -1201,14 +1233,6 @@
       "onboard_time": 1664802263,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 148393,
-      "num": 148393,
-      "word": "凭本事获得床位的猫咪",
-      "onboard_time": 1664805684,
-      "rank": 42,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 146499,
@@ -1435,14 +1459,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 94303,
-      "num": 94303,
-      "word": "会被一些医学知识震惊到",
-      "onboard_time": 1664807784,
-      "rank": 35,
-      "category": "其它"
-    },
-    {
       "raw_hot": 93096,
       "num": 93096,
       "word": "万里归途票房破5亿",
@@ -1507,14 +1523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 83862,
-      "num": 83862,
-      "word": "特斯拉车主回应堵车没电叫拖车",
-      "onboard_time": 1664807605,
-      "rank": 40,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 83635,
       "num": 83635,
       "word": "罗一舟关晓彤同框",
@@ -1539,6 +1547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 77848,
+      "num": 77848,
+      "word": "唐诡后遗症",
+      "onboard_time": 1664808504,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 74868,
       "num": 74868,
       "word": "张艺兴为金晨新剧打call",
@@ -1547,20 +1563,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 74398,
+      "num": 681728,
+      "word": "多机位打开国庆节氛围感",
+      "onboard_time": 1664800944,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 73486,
       "num": 73486,
       "word": "电缆掉落致堵车夫妻俩托举90分钟",
       "onboard_time": 1664709805,
       "rank": 38,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 73203,
-      "num": 681728,
-      "word": "多机位打开国庆节氛围感",
-      "onboard_time": 1664800944,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 72584,
@@ -1593,6 +1609,14 @@
       "onboard_time": 1664771782,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 70513,
+      "num": 70513,
+      "word": "父亲为脑瘫儿子按摩路人提物资相赠",
+      "onboard_time": 1664808444,
+      "rank": 44,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 69683,
