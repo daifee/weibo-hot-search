@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664805602359,
+  "endTime": 1664806906058,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -331,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1123102,
+      "num": 1123102,
+      "word": "男子游黄山被堵山上10分钟走1米",
+      "onboard_time": 1664801840,
+      "rank": 11,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 1101808,
       "num": 1101808,
       "word": "海天味业回应酱油添加剂争议",
@@ -465,14 +473,6 @@
       "onboard_time": 1664682321,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 912788,
-      "num": 912788,
-      "word": "男子游黄山被堵山上10分钟走1米",
-      "onboard_time": 1664801840,
-      "rank": 11,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 863896,
@@ -787,6 +787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 640665,
+      "num": 640665,
+      "word": "年轻人为什么不爱走亲戚",
+      "onboard_time": 1664804784,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 640049,
       "num": 195676,
       "word": "租客退房留下2猫1狗1鸡",
@@ -969,6 +977,14 @@
       "onboard_time": 1664605823,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 521816,
+      "num": 269621,
+      "word": "黑豹2新预告",
+      "onboard_time": 1664805384,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 519920,
@@ -1827,12 +1843,28 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 298402,
+      "num": 298402,
+      "word": "男子高铁遇老人独带娃主动帮抱",
+      "onboard_time": 1664802144,
+      "rank": 26,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 298026,
       "num": 298026,
       "word": "曼城vs曼联",
       "onboard_time": 1664713161,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 296994,
+      "num": 296994,
+      "word": "广东冷空气5日到货",
+      "onboard_time": 1664804365,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 293089,
@@ -2019,12 +2051,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 269621,
-      "num": 269621,
-      "word": "黑豹2新预告",
-      "onboard_time": 1664805384,
-      "rank": 11,
-      "category": "影视"
+      "raw_hot": 268175,
+      "num": 268175,
+      "word": "小车礼让婚车把自己倒进沟里",
+      "onboard_time": 1664804064,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 268109,
@@ -2057,14 +2089,6 @@
       "onboard_time": 1664582360,
       "rank": 13,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 263366,
-      "num": 263366,
-      "word": "男子高铁遇老人独带娃主动帮抱",
-      "onboard_time": 1664802144,
-      "rank": 26,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 263097,
@@ -2467,14 +2491,6 @@
       "category": "科技,国内要闻"
     },
     {
-      "raw_hot": 225444,
-      "num": 225444,
-      "word": "广东冷空气5日到货",
-      "onboard_time": 1664804365,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 224146,
       "num": 224146,
       "word": "高卿尘新剧古装造型路透",
@@ -2553,14 +2569,6 @@
       "onboard_time": 1664717725,
       "rank": 42,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 212931,
-      "num": 212931,
-      "word": "年轻人为什么不爱走亲戚",
-      "onboard_time": 1664804784,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 209530,
@@ -2883,14 +2891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 182659,
-      "num": 182659,
-      "word": "小车礼让婚车把自己倒进沟里",
-      "onboard_time": 1664804064,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 182089,
       "num": 182089,
       "word": "火影忍者开播20周年",
@@ -3051,6 +3051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164041,
+      "num": 164041,
+      "word": "父母的三观对孩子影响大吗",
+      "onboard_time": 1664804964,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 163802,
       "num": 163802,
       "word": "10月2日新增本土确诊189例",
@@ -3193,6 +3201,14 @@
       "onboard_time": 1664699541,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148924,
+      "num": 148924,
+      "word": "虞书欣张彬彬小森林夫妻新副本",
+      "onboard_time": 1664802263,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 148066,
@@ -3363,6 +3379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138528,
+      "num": 138528,
+      "word": "2022北京马拉松11月6日举行",
+      "onboard_time": 1664803224,
+      "rank": 29,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 135935,
       "num": 135935,
       "word": "表白中国我接力",
@@ -3427,20 +3451,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129560,
-      "num": 110496,
-      "word": "虞书欣张彬彬小森林夫妻新副本",
-      "onboard_time": 1664802263,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 129093,
       "num": 129093,
       "word": "中国空间站也发迎新视频了",
       "onboard_time": 1664709444,
       "rank": 30,
       "category": "科技,国内要闻"
+    },
+    {
+      "raw_hot": 128312,
+      "num": 128312,
+      "word": "动物园黑熊躺平翘二郎腿",
+      "onboard_time": 1664802984,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127950,
@@ -3561,14 +3585,6 @@
       "onboard_time": 1664592201,
       "rank": 29,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 122970,
-      "num": 122970,
-      "word": "2022北京马拉松11月6日举行",
-      "onboard_time": 1664803224,
-      "rank": 29,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 122716,
@@ -3731,11 +3747,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112007,
+      "num": 112007,
+      "word": "这狗子是真的欠啊",
+      "onboard_time": 1664806404,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 111710,
       "num": 111710,
       "word": "泸定震区群众搬新家吃团结饭",
       "onboard_time": 1664675423,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111008,
+      "num": 111008,
+      "word": "工作人员扮玩偶被2男子捶打",
+      "onboard_time": 1664806164,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -3745,14 +3777,6 @@
       "onboard_time": 1664546905,
       "rank": 25,
       "category": "教育"
-    },
-    {
-      "raw_hot": 110740,
-      "num": 110740,
-      "word": "动物园黑熊躺平翘二郎腿",
-      "onboard_time": 1664802984,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110543,
@@ -3787,6 +3811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108818,
+      "num": 108818,
+      "word": "成为航天员需具备哪些基本条件",
+      "onboard_time": 1664806644,
+      "rank": 36,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 106819,
       "num": 76252,
       "word": "嗨放派",
@@ -3808,6 +3840,14 @@
       "word": "杨力维助攻",
       "onboard_time": 1664606843,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 105197,
+      "num": 105197,
+      "word": "国乒男团世乒赛三连胜",
+      "onboard_time": 1664802684,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -3883,14 +3923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 99840,
-      "num": 99840,
-      "word": "国乒男团世乒赛三连胜",
-      "onboard_time": 1664802684,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 98068,
       "num": 98068,
       "word": "消防员演示眨眼间冲上4楼",
@@ -3929,14 +3961,6 @@
       "onboard_time": 1664585304,
       "rank": 37,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 94457,
-      "num": 94457,
-      "word": "父母的三观对孩子影响大吗",
-      "onboard_time": 1664804964,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 94123,
@@ -3985,6 +4009,14 @@
       "onboard_time": 1664625323,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91020,
+      "num": 91020,
+      "word": "凭本事获得床位的猫咪",
+      "onboard_time": 1664805684,
+      "rank": 42,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 90948,

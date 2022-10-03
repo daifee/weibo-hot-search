@@ -1,0 +1,410 @@
+{
+  "runTime": 1664806906058,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1123102,
+        "num": 1123102,
+        "word": "男子游黄山被堵山上10分钟走1米",
+        "onboard_time": 1664801840,
+        "rank": 0,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 950260,
+        "num": 950260,
+        "word": "体重减不下来有3个原因",
+        "onboard_time": 1664782401,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71550,
+        "num": 654520,
+        "word": "多机位打开国庆节氛围感",
+        "onboard_time": 1664800944,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 640665,
+        "num": 640665,
+        "word": "年轻人为什么不爱走亲戚",
+        "onboard_time": 1664804784,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 460914,
+        "num": 460914,
+        "word": "TouchID不太可能回到iPhone",
+        "onboard_time": 1664799442,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 432138,
+        "num": 432138,
+        "word": "淡定鸭鸭暴雨中集体站立淋雨",
+        "onboard_time": 1664801124,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325607,
+        "num": 325607,
+        "word": "医保谈判代表说自己克制着高兴心情",
+        "onboard_time": 1664798904,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298402,
+        "num": 298402,
+        "word": "男子高铁遇老人独带娃主动帮抱",
+        "onboard_time": 1664802144,
+        "rank": 7,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 296994,
+        "num": 296994,
+        "word": "广东冷空气5日到货",
+        "onboard_time": 1664804365,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268175,
+        "num": 268175,
+        "word": "小车礼让婚车把自己倒进沟里",
+        "onboard_time": 1664804064,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521816,
+        "num": 267780,
+        "word": "黑豹2新预告",
+        "onboard_time": 1664805384,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 317321,
+        "num": 266294,
+        "word": "公司要破产我该不该辞职",
+        "onboard_time": 1664797043,
+        "rank": 11,
+        "category": "社会议题,影视"
+      },
+      {
+        "raw_hot": 264236,
+        "num": 264236,
+        "word": "万茜拍万里归途时刚拆钢板",
+        "onboard_time": 1664799621,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 258928,
+        "num": 258928,
+        "word": "韩国建军节宣传片出现中国装甲车",
+        "onboard_time": 1664793442,
+        "rank": 13,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 252046,
+        "num": 252046,
+        "word": "河南卫视神仙节目上新了",
+        "onboard_time": 1664799685,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229993,
+        "num": 229993,
+        "word": "诺贝尔",
+        "onboard_time": 1664790982,
+        "rank": 15,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 216673,
+        "num": 216673,
+        "word": "原来鲜花还可以这么保存",
+        "onboard_time": 1664796441,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194954,
+        "num": 194954,
+        "word": "陈哲远沈月cp名叫南忘今萧",
+        "onboard_time": 1664801840,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167904,
+        "num": 167904,
+        "word": "陈都灵莲花楼杀青照",
+        "onboard_time": 1664796143,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164041,
+        "num": 164041,
+        "word": "父母的三观对孩子影响大吗",
+        "onboard_time": 1664804964,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1199849,
+        "num": 163224,
+        "word": "iPhone在6人死亡车祸中自动求救",
+        "onboard_time": 1664796084,
+        "rank": 20,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 159062,
+        "num": 159062,
+        "word": "这就是国庆在家的我吧",
+        "onboard_time": 1664800225,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158260,
+        "num": 158260,
+        "word": "万里归途后遗症",
+        "onboard_time": 1664797282,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148924,
+        "num": 148924,
+        "word": "虞书欣张彬彬小森林夫妻新副本",
+        "onboard_time": 1664802263,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139665,
+        "num": 139665,
+        "word": "新婚夜护士新娘给新郎扎针输液",
+        "onboard_time": 1664788223,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139309,
+        "num": 139309,
+        "word": "檀健次新剧公司面临破产",
+        "onboard_time": 1664793804,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138528,
+        "num": 138528,
+        "word": "2022北京马拉松11月6日举行",
+        "onboard_time": 1664803224,
+        "rank": 26,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 135286,
+        "num": 135286,
+        "word": "MRC夺冠",
+        "onboard_time": 1664801425,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128312,
+        "num": 128312,
+        "word": "动物园黑熊躺平翘二郎腿",
+        "onboard_time": 1664802984,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122068,
+        "num": 122068,
+        "word": "安卓灵动岛APP下载安装量超100万次",
+        "onboard_time": 1664786483,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 133612,
+        "num": 120570,
+        "word": "张译站起来的原因找到了",
+        "onboard_time": 1664798421,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114315,
+        "num": 114315,
+        "word": "高卿尘新剧古装造型路透",
+        "onboard_time": 1664797885,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113944,
+        "num": 113944,
+        "word": "成毅演戏情绪张力",
+        "onboard_time": 1664797465,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 112007,
+        "num": 112007,
+        "word": "这狗子是真的欠啊",
+        "onboard_time": 1664806404,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111910,
+        "num": 111910,
+        "word": "万里归途票房逆跌",
+        "onboard_time": 1664764284,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 111008,
+        "num": 111008,
+        "word": "工作人员扮玩偶被2男子捶打",
+        "onboard_time": 1664806164,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108818,
+        "num": 108818,
+        "word": "成为航天员需具备哪些基本条件",
+        "onboard_time": 1664806644,
+        "rank": 36,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 105197,
+        "num": 105197,
+        "word": "国乒男团世乒赛三连胜",
+        "onboard_time": 1664802684,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102855,
+        "num": 102855,
+        "word": "俄称修复北溪管道的可能性是存在的",
+        "onboard_time": 1664789902,
+        "rank": 38,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 102094,
+        "num": 102094,
+        "word": "北京雨后现金色晚霞",
+        "onboard_time": 1664794284,
+        "rank": 39,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 102956,
+        "num": 102036,
+        "word": "关晓彤为电视剧胡同第三篇章做宣传",
+        "onboard_time": 1664793142,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 96404,
+        "num": 96404,
+        "word": "女子落水高校男生害怕仍勇敢下水",
+        "onboard_time": 1664792602,
+        "rank": 41,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 91020,
+        "num": 91020,
+        "word": "凭本事获得床位的猫咪",
+        "onboard_time": 1664805684,
+        "rank": 42,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 90929,
+        "num": 90929,
+        "word": "当大狗看到小狗在床上时",
+        "onboard_time": 1664786001,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 90829,
+        "num": 90829,
+        "word": "北溪管道爆炸威力相当于数百公斤炸药",
+        "onboard_time": 1664796624,
+        "rank": 44,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 87597,
+        "num": 87597,
+        "word": "妈妈突然昏迷儿子大声呼喊唤醒",
+        "onboard_time": 1664782041,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85923,
+        "num": 85923,
+        "word": "流浪猫投喂点堪比热门景区",
+        "onboard_time": 1664790441,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75048,
+        "num": 75048,
+        "word": "中国男团vs斯洛文尼亚男团",
+        "onboard_time": 1664789540,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72461,
+        "num": 72461,
+        "word": "崂山文旅局回应石老人坍塌",
+        "onboard_time": 1664794043,
+        "rank": 48,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 69949,
+        "num": 69949,
+        "word": "2022年诺贝尔生理学或医学奖揭晓",
+        "onboard_time": 1664790203,
+        "rank": 49,
+        "category": "社会新闻,科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#领航#"
+    }
+  }
+}
