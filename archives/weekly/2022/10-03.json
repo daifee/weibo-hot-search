@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1664769753291,
+  "endTime": 1664771270067,
   "band_list": [
     {
       "raw_hot": 3091269,
@@ -33,6 +33,14 @@
       "onboard_time": 1664724204,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1195211,
+      "num": 1195211,
+      "word": "山西人吃醋真是让我开了眼",
+      "onboard_time": 1664767701,
+      "rank": 3,
+      "category": "幽默"
     },
     {
       "raw_hot": 1056852,
@@ -75,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 779488,
+      "num": 779488,
+      "word": "挪威三文鱼在中国生活得很开心",
+      "onboard_time": 1664767403,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 686003,
       "num": 686003,
       "word": "山东11市出现大暴雨",
@@ -105,14 +121,6 @@
       "onboard_time": 1664714963,
       "rank": 3,
       "category": "国外要闻,财经"
-    },
-    {
-      "raw_hot": 614785,
-      "num": 614785,
-      "word": "山西人吃醋真是让我开了眼",
-      "onboard_time": 1664767701,
-      "rank": 3,
-      "category": "幽默"
     },
     {
       "raw_hot": 574473,
@@ -163,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 477670,
+      "num": 477670,
+      "word": "青岛石老人海蚀柱上半部分坍塌",
+      "onboard_time": 1664767821,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 465567,
       "num": 465567,
       "word": "德国民众雨中示威要求停止对俄制裁",
@@ -172,7 +188,7 @@
     },
     {
       "raw_hot": 457372,
-      "num": 337728,
+      "num": 394203,
       "word": "云南大学生校内如厕偶遇孔雀学长",
       "onboard_time": 1664764703,
       "rank": 11,
@@ -187,12 +203,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 451104,
-      "num": 451104,
-      "word": "挪威三文鱼在中国生活得很开心",
-      "onboard_time": 1664767403,
-      "rank": 6,
-      "category": "社会新闻"
+      "raw_hot": 454925,
+      "num": 454925,
+      "word": "偶尔大吃一顿不会胖",
+      "onboard_time": 1664768123,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 445805,
@@ -217,6 +233,14 @@
       "onboard_time": 1664726543,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 425366,
+      "num": 425366,
+      "word": "万里归途成影史国庆节总场次冠军",
+      "onboard_time": 1664769862,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 422317,
@@ -291,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 301408,
+      "num": 301408,
+      "word": "我国首次寒潮和高温预警齐发",
+      "onboard_time": 1664766861,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300469,
       "num": 300469,
       "word": "李现被哈兰德圈粉",
@@ -305,14 +337,6 @@
       "onboard_time": 1664716285,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 285563,
-      "num": 285563,
-      "word": "青岛石老人海蚀柱上半部分坍塌",
-      "onboard_time": 1664767821,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 276709,
@@ -355,12 +379,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 244190,
-      "num": 244190,
-      "word": "偶尔大吃一顿不会胖",
-      "onboard_time": 1664768123,
+      "raw_hot": 242470,
+      "num": 242470,
+      "word": "赵晓卉山西千种面不如去见一面",
+      "onboard_time": 1664769862,
       "rank": 17,
-      "category": "情感"
+      "category": "艺人"
     },
     {
       "raw_hot": 237202,
@@ -403,6 +427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 227160,
+      "num": 227160,
+      "word": "虞书欣张彬彬呼呼揉头太宠了",
+      "onboard_time": 1664770582,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 209675,
       "num": 209675,
       "word": "曼城6比3曼联",
@@ -435,14 +467,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 190825,
-      "num": 190825,
-      "word": "我国首次寒潮和高温预警齐发",
-      "onboard_time": 1664766861,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 185137,
       "num": 185137,
       "word": "男子公园跳街舞被小孩指着说神经",
@@ -456,6 +480,14 @@
       "word": "导弹专家为国隐姓埋名60余年",
       "onboard_time": 1664754258,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182412,
+      "num": 182412,
+      "word": "狗狗进公园被拦收2元停车费",
+      "onboard_time": 1664770582,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -481,6 +513,14 @@
       "onboard_time": 1664761702,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162994,
+      "num": 162994,
+      "word": "林志炫新歌滕王阁序",
+      "onboard_time": 1664769862,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 161645,
@@ -539,12 +579,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 131478,
-      "num": 131478,
+      "raw_hot": 138651,
+      "num": 138651,
       "word": "河南增14例本土无症状",
       "onboard_time": 1664768722,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130742,
+      "num": 130742,
+      "word": "脱口秀大会5官宣王濛",
+      "onboard_time": 1664771002,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 126435,
@@ -569,6 +617,14 @@
       "onboard_time": 1664716221,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 125485,
+      "num": 125485,
+      "word": "2个动作改善驼背",
+      "onboard_time": 1664768484,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 123755,
@@ -625,14 +681,6 @@
       "onboard_time": 1664724086,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 105286,
-      "num": 105286,
-      "word": "2个动作改善驼背",
-      "onboard_time": 1664768484,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 102864,
@@ -699,6 +747,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 86542,
+      "num": 935443,
+      "word": "齐唱国歌是刻进中国人DNA的感动",
+      "onboard_time": 1664767943,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86326,
       "num": 86326,
       "word": "我们的歌",
@@ -755,14 +811,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 71447,
-      "num": 624774,
-      "word": "齐唱国歌是刻进中国人DNA的感动",
-      "onboard_time": 1664767943,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 69683,
       "num": 69683,
       "word": "人生大事登顶中国台湾网飞电影榜",
@@ -801,6 +849,14 @@
       "onboard_time": 1664707342,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 55838,
+      "num": 55838,
+      "word": "两条北溪天然气管道都已停止泄漏",
+      "onboard_time": 1664771181,
+      "rank": 49,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 53010,
