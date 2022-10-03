@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/04 00:41:00 ~ 2022/10/04 05:42:09
+本榜单时间：2022/10/04 00:41:00 ~ 2022/10/04 06:26:33
 </p>
 </blockquote>
 <p>
@@ -81,6 +81,12 @@ iPhone在6人死亡车祸中自动求救（热度：720237）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC10%E6%9C%884%E6%97%A5%E6%9C%80%E4%BD%8E%E6%B8%A9%E4%BB%854%E6%91%84%E6%B0%8F%E5%BA%A6%23" target="weibo">
+北京10月4日最低温仅4摄氏度（热度：182272）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23TouchID%E4%B8%8D%E5%A4%AA%E5%8F%AF%E8%83%BD%E5%9B%9E%E5%88%B0iPhone%23" target="weibo">
 TouchID不太可能回到iPhone（热度：181007）
 </a>
@@ -149,6 +155,12 @@ TouchID不太可能回到iPhone（热度：181007）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E8%BD%BB%E5%8A%9F%E5%90%A7%23" target="weibo">
 这是轻功吧（热度：95636）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%95%86%E8%B6%85%E7%A6%81%E6%AD%A2%E6%91%86%E6%94%BE%E5%9E%83%E5%9C%BE%E9%A3%9F%E5%93%81%E5%9C%A8%E6%98%BE%E7%9C%BC%E5%A4%84%23" target="weibo">
+英国商超禁止摆放垃圾食品在显眼处（热度：93456）
 </a>
 </li>
 
@@ -255,14 +267,14 @@ TouchID不太可能回到iPhone（热度：181007）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E6%BC%94%E6%88%8F%E6%83%85%E7%BB%AA%E5%BC%A0%E5%8A%9B%23" target="weibo">
-成毅演戏情绪张力（热度：58796）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E5%90%AF%E5%8A%A8%E7%9C%81%E5%9C%B0%E9%9C%87%E7%81%BE%E5%AE%B3%E2%85%A3%E7%BA%A7%E5%BA%94%E6%80%A5%E5%93%8D%E5%BA%94%23" target="weibo">
+河北启动省地震灾害Ⅳ级应急响应（热度：59790）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC10%E6%9C%884%E6%97%A5%E6%9C%80%E4%BD%8E%E6%B8%A9%E4%BB%854%E6%91%84%E6%B0%8F%E5%BA%A6%23" target="weibo">
-北京10月4日最低温仅4摄氏度（热度：57981）
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E6%BC%94%E6%88%8F%E6%83%85%E7%BB%AA%E5%BC%A0%E5%8A%9B%23" target="weibo">
+成毅演戏情绪张力（热度：58796）
 </a>
 </li>
 
@@ -281,6 +293,12 @@ TouchID不太可能回到iPhone（热度：181007）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B0%E5%BE%97%E5%AD%98%E7%82%B9%E8%AF%9D%E7%95%99%E5%88%B08%E5%8F%B7%E4%B8%8A%E7%8F%AD%E8%AE%B2%23" target="weibo">
 记得存点话留到8号上班讲（热度：48308）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%BF%E7%9A%AE%E7%81%AB%E8%BD%A6%E4%B9%9F%E8%83%BD%E6%9C%89%E6%B7%8B%E6%B5%B4%E9%85%92%E5%90%A7KTV%23" target="weibo">
+绿皮火车也能有淋浴酒吧KTV（热度：47027）
 </a>
 </li>
 
@@ -316,19 +334,13 @@ TouchID不太可能回到iPhone（热度：181007）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23RNG%E7%8A%B6%E6%80%81%23" target="weibo">
-RNG状态（热度：39486）
+RNG状态（热度：39541）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%AF%E8%BF%9C%E6%BC%94%E5%94%B1%E9%BB%84%E7%A7%8D%E4%BA%BA%23" target="weibo">
 伯远演唱黄种人（热度：38433）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E5%90%AF%E5%8A%A8%E7%9C%81%E5%9C%B0%E9%9C%87%E7%81%BE%E5%AE%B3%E2%85%A3%E7%BA%A7%E5%BA%94%E6%80%A5%E5%93%8D%E5%BA%94%23" target="weibo">
-河北启动省地震灾害Ⅳ级应急响应（热度：37571）
 </a>
 </li>
 
@@ -363,20 +375,14 @@ MRC夺冠（热度：34904）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%95%86%E8%B6%85%E7%A6%81%E6%AD%A2%E6%91%86%E6%94%BE%E5%9E%83%E5%9C%BE%E9%A3%9F%E5%93%81%E5%9C%A8%E6%98%BE%E7%9C%BC%E5%A4%84%23" target="weibo">
-英国商超禁止摆放垃圾食品在显眼处（热度：17845）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%232022%E5%B9%B4%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%94%9F%E7%90%86%E5%AD%A6%E6%88%96%E5%8C%BB%E5%AD%A6%E5%A5%96%E6%8F%AD%E6%99%93%23" target="weibo">
-2022年诺贝尔生理学或医学奖揭晓（热度：13602）
+2022年诺贝尔生理学或医学奖揭晓（热度：16230）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%BF%E7%9A%AE%E7%81%AB%E8%BD%A6%E4%B9%9F%E8%83%BD%E6%9C%89%E6%B7%8B%E6%B5%B4%E9%85%92%E5%90%A7KTV%23" target="weibo">
-绿皮火车也能有淋浴酒吧KTV（热度：10807）
+<a href="https://s.weibo.com/weibo?q=%23ISG%E6%88%98%E8%83%9CIW%23" target="weibo">
+ISG战胜IW（热度：11127）
 </a>
 </li>
 
@@ -387,14 +393,32 @@ MRC夺冠（热度：34904）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%BE%B7%E8%8E%B1%E5%BE%B736%E4%BA%BAvs%E5%A4%AA%E9%98%B3%23" target="weibo">
+阿德莱德36人vs太阳（热度：7051）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E7%8E%B06%E7%BA%A7%E5%A4%A7%E9%A3%8E%E9%99%8D%E6%B8%A9%E6%98%8E%E6%98%BE%23" target="weibo">
 成都现6级大风降温明显（热度：6528）
 </a>
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%9B%E8%AE%AD%E6%8B%89%E6%AD%8C%E8%BF%98%E5%BE%97%E6%98%AF%E9%9F%B3%E4%B9%90%E5%AD%A6%E9%99%A2%23" target="weibo">
+军训拉歌还得是音乐学院（热度：6109）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2384%E5%B2%81%E7%88%B7%E7%88%B7%E5%B8%A6%E5%B7%B2%E6%95%85%E5%A5%B6%E5%A5%B6%E7%85%A7%E7%89%87%E5%88%B0%E5%8C%97%E4%BA%AC%E7%9C%8B%E5%8D%87%E6%97%97%23" target="weibo">
 84岁爷爷带已故奶奶照片到北京看升旗（热度：6011）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23F1%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%A4%A7%E5%A5%96%E8%B5%9B%E4%BD%A9%E9%9B%B7%E5%85%B9%E5%86%A0%E5%86%9B%23" target="weibo">
+F1新加坡大奖赛佩雷兹冠军（热度：5748）
 </a>
 </li>
 
@@ -429,38 +453,14 @@ MRC夺冠（热度：34904）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%BE%B7%E8%8E%B1%E5%BE%B736%E4%BA%BAvs%E5%A4%AA%E9%98%B3%23" target="weibo">
-阿德莱德36人vs太阳（热度：4830）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BD%A0%E5%B9%B4%E5%B0%91%E6%97%B6%E5%91%8A%E5%88%AB%E5%B1%80%23" target="weibo">
 当你年少时告别局（热度：4790）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23ISG%E6%88%98%E8%83%9CIW%23" target="weibo">
-ISG战胜IW（热度：4763）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%B0%E4%BC%A6%E5%B8%83%E6%9C%97%E5%AD%A3%E5%89%8D%E8%B5%9B24%E5%88%86%23" target="weibo">
 杰伦布朗季前赛24分（热度：4761）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23F1%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%A4%A7%E5%A5%96%E8%B5%9B%E4%BD%A9%E9%9B%B7%E5%85%B9%E5%86%A0%E5%86%9B%23" target="weibo">
-F1新加坡大奖赛佩雷兹冠军（热度：4757）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%9B%E8%AE%AD%E6%8B%89%E6%AD%8C%E8%BF%98%E5%BE%97%E6%98%AF%E9%9F%B3%E4%B9%90%E5%AD%A6%E9%99%A2%23" target="weibo">
-军训拉歌还得是音乐学院（热度：4756）
 </a>
 </li>
 
