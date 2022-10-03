@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1664780579070,
+  "endTime": 1664782362466,
   "band_list": [
     {
       "raw_hot": 3091269,
@@ -171,6 +171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 544353,
+      "num": 544353,
+      "word": "是时候与自己和解了",
+      "onboard_time": 1664777181,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 531802,
       "num": 531802,
       "word": "男子开特斯拉返乡堵到没电叫拖车",
@@ -200,6 +208,14 @@
       "word": "男子看升旗睡着仪式结束还未醒",
       "onboard_time": 1664764822,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 484644,
+      "num": 484644,
+      "word": "上海打破10月最高气温纪录",
+      "onboard_time": 1664779101,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -379,12 +395,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 334689,
-      "num": 334689,
-      "word": "是时候与自己和解了",
-      "onboard_time": 1664777181,
-      "rank": 18,
-      "category": "情感"
+      "raw_hot": 332826,
+      "num": 303495,
+      "word": "马嘉祺驯服不了自己和杨坤的太阳花",
+      "onboard_time": 1664781381,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 330524,
@@ -395,12 +411,28 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 328898,
+      "num": 300369,
+      "word": "金晨王安宇戏外互晒情侣视角照",
+      "onboard_time": 1664776283,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 320586,
       "num": 320586,
       "word": "苹果高管谈灵动岛",
       "onboard_time": 1664774002,
       "rank": 30,
       "category": "科技"
+    },
+    {
+      "raw_hot": 311332,
+      "num": 299767,
+      "word": "李一桐演的谭皎好美",
+      "onboard_time": 1664781082,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 305527,
@@ -417,14 +449,6 @@
       "onboard_time": 1664759301,
       "rank": 16,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 294910,
-      "num": 294910,
-      "word": "上海打破10月最高气温纪录",
-      "onboard_time": 1664779101,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 289569,
@@ -449,14 +473,6 @@
       "onboard_time": 1664760803,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 274059,
-      "num": 274059,
-      "word": "金晨王安宇戏外互晒情侣视角照",
-      "onboard_time": 1664776283,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 261929,
@@ -585,6 +601,14 @@
       "onboard_time": 1664710344,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206138,
+      "num": 178195,
+      "word": "张译站起来了",
+      "onboard_time": 1664781680,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 201264,
@@ -867,6 +891,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 93903,
+      "num": 93903,
+      "word": "反向旅游在年轻人中兴起",
+      "onboard_time": 1664781860,
+      "rank": 35,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 93096,
       "num": 93096,
       "word": "万里归途票房破5亿",
@@ -937,6 +969,14 @@
       "onboard_time": 1664707463,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 82769,
+      "num": 82769,
+      "word": "妈妈突然昏迷儿子大声呼喊唤醒",
+      "onboard_time": 1664782041,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 79411,
@@ -1107,6 +1147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37163,
+      "num": 281001,
+      "word": "男子溺水挣扎众人呼喊接力救援",
+      "onboard_time": 1664780419,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29867,
       "num": 29867,
       "word": "国庆假期郊区旅游约占36%",
@@ -1136,14 +1184,6 @@
       "word": "新时代 我在中国",
       "onboard_time": 1664680822,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6174,
-      "num": 281001,
-      "word": "男子溺水挣扎众人呼喊接力救援",
-      "onboard_time": 1664780419,
-      "rank": 14,
       "category": "社会新闻"
     },
     {

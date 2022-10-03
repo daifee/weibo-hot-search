@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664780579070,
+  "endTime": 1664782362466,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -843,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 544353,
+      "num": 544353,
+      "word": "是时候与自己和解了",
+      "onboard_time": 1664777181,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 540034,
       "num": 540034,
       "word": "万里归途票房破2亿",
@@ -921,6 +929,14 @@
       "onboard_time": 1664611345,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 484644,
+      "num": 484644,
+      "word": "上海打破10月最高气温纪录",
+      "onboard_time": 1664779101,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 481255,
@@ -1419,14 +1435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 334689,
-      "num": 334689,
-      "word": "是时候与自己和解了",
-      "onboard_time": 1664777181,
-      "rank": 18,
-      "category": "情感"
-    },
-    {
       "raw_hot": 333458,
       "num": 333458,
       "word": "没见过这么潦草的狗",
@@ -1443,12 +1451,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 332826,
+      "num": 303495,
+      "word": "马嘉祺驯服不了自己和杨坤的太阳花",
+      "onboard_time": 1664781381,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 330748,
       "num": 330748,
       "word": "外交人员看万里归途哽咽了",
       "onboard_time": 1664547025,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 328898,
+      "num": 300369,
+      "word": "金晨王安宇戏外互晒情侣视角照",
+      "onboard_time": 1664776283,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 325734,
@@ -1515,6 +1539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 311332,
+      "num": 299767,
+      "word": "李一桐演的谭皎好美",
+      "onboard_time": 1664781082,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 308228,
       "num": 308228,
       "word": "8岁女孩压腿轻松超180度",
@@ -1569,14 +1601,6 @@
       "onboard_time": 1664713161,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 294910,
-      "num": 294910,
-      "word": "上海打破10月最高气温纪录",
-      "onboard_time": 1664779101,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 293089,
@@ -1705,14 +1729,6 @@
       "onboard_time": 1664722225,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 274059,
-      "num": 274059,
-      "word": "金晨王安宇戏外互晒情侣视角照",
-      "onboard_time": 1664776283,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 273806,
@@ -2216,6 +2232,14 @@
       "word": "唐朝诡事录反转",
       "onboard_time": 1664708904,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 206138,
+      "num": 178195,
+      "word": "张译站起来了",
+      "onboard_time": 1664781680,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -3427,6 +3451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 93903,
+      "num": 93903,
+      "word": "反向旅游在年轻人中兴起",
+      "onboard_time": 1664781860,
+      "rank": 35,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 93658,
       "num": 93658,
       "word": "小伙深夜租叉车帮老人捡气球",
@@ -3600,6 +3632,14 @@
       "word": "十二生肖是怎么选出来的",
       "onboard_time": 1664700624,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82769,
+      "num": 82769,
+      "word": "妈妈突然昏迷儿子大声呼喊唤醒",
+      "onboard_time": 1664782041,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -4187,6 +4227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37163,
+      "num": 281001,
+      "word": "男子溺水挣扎众人呼喊接力救援",
+      "onboard_time": 1664780419,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35511,
       "num": 35511,
       "word": "和我一起向祖国告白",
@@ -4265,14 +4313,6 @@
       "onboard_time": 1664652973,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 6174,
-      "num": 281001,
-      "word": "男子溺水挣扎众人呼喊接力救援",
-      "onboard_time": 1664780419,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 6079,
