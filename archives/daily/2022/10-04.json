@@ -1,6 +1,6 @@
 {
   "startTime": 1664815260200,
-  "endTime": 1664826010406,
+  "endTime": 1664828916197,
   "band_list": [
     {
       "raw_hot": 1414692,
@@ -395,6 +395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 38802,
+      "num": 38802,
+      "word": "RNG状态",
+      "onboard_time": 1664825832,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 38433,
       "num": 38433,
       "word": "伯远演唱黄种人",
@@ -443,20 +451,44 @@
       "category": "影视"
     },
     {
-      "raw_hot": 8060,
-      "num": 8060,
+      "raw_hot": 9720,
+      "num": 9720,
       "word": "2022年诺贝尔生理学或医学奖揭晓",
       "onboard_time": 1664790203,
       "rank": 48,
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 6814,
-      "num": 6814,
-      "word": "RNG状态",
-      "onboard_time": 1664825832,
+      "raw_hot": 7982,
+      "num": 7982,
+      "word": "永康白云水库附近发生山火",
+      "onboard_time": 1664826670,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6011,
+      "num": 6011,
+      "word": "84岁爷爷带已故奶奶照片到北京看升旗",
+      "onboard_time": 1664828411,
+      "rank": 45,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 5517,
+      "num": 5517,
+      "word": "今年重阳节巧遇国庆假期",
+      "onboard_time": 1664828351,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5329,
+      "num": 5329,
+      "word": "专访中国女篮队长杨力维",
+      "onboard_time": 1664828290,
       "rank": 49,
-      "category": "游戏"
+      "category": "体育,社会新闻"
     }
   ],
   "hotgov_list": [

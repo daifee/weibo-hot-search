@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664826010406,
+  "endTime": 1664828916197,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -4915,6 +4915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38802,
+      "num": 38802,
+      "word": "RNG状态",
+      "onboard_time": 1664825832,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 37242,
       "num": 376235,
       "word": "丽水重症病人共享厨房开出第三间",
@@ -5011,12 +5019,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 6814,
-      "num": 6814,
-      "word": "RNG状态",
-      "onboard_time": 1664825832,
-      "rank": 49,
-      "category": "游戏"
+      "raw_hot": 7982,
+      "num": 7982,
+      "word": "永康白云水库附近发生山火",
+      "onboard_time": 1664826670,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 6459,
@@ -5043,6 +5051,22 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 6011,
+      "num": 6011,
+      "word": "84岁爷爷带已故奶奶照片到北京看升旗",
+      "onboard_time": 1664828411,
+      "rank": 45,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 5517,
+      "num": 5517,
+      "word": "今年重阳节巧遇国庆假期",
+      "onboard_time": 1664828351,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 5463,
       "num": 8774,
       "word": "北京昨增5例境外输入确诊和9例无症状",
@@ -5057,6 +5081,14 @@
       "onboard_time": 1664743151,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 5329,
+      "num": 5329,
+      "word": "专访中国女篮队长杨力维",
+      "onboard_time": 1664828290,
+      "rank": 49,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 5286,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/04 00:41:00 ~ 2022/10/04 03:40:10
+本榜单时间：2022/10/04 00:41:00 ~ 2022/10/04 04:28:36
 </p>
 </blockquote>
 <p>
@@ -309,6 +309,12 @@ TouchID不太可能回到iPhone（热度：181007）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23RNG%E7%8A%B6%E6%80%81%23" target="weibo">
+RNG状态（热度：38802）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%AF%E8%BF%9C%E6%BC%94%E5%94%B1%E9%BB%84%E7%A7%8D%E4%BA%BA%23" target="weibo">
 伯远演唱黄种人（热度：38433）
 </a>
@@ -346,13 +352,31 @@ MRC夺冠（热度：34904）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%232022%E5%B9%B4%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%94%9F%E7%90%86%E5%AD%A6%E6%88%96%E5%8C%BB%E5%AD%A6%E5%A5%96%E6%8F%AD%E6%99%93%23" target="weibo">
-2022年诺贝尔生理学或医学奖揭晓（热度：8060）
+2022年诺贝尔生理学或医学奖揭晓（热度：9720）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23RNG%E7%8A%B6%E6%80%81%23" target="weibo">
-RNG状态（热度：6814）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B0%B8%E5%BA%B7%E7%99%BD%E4%BA%91%E6%B0%B4%E5%BA%93%E9%99%84%E8%BF%91%E5%8F%91%E7%94%9F%E5%B1%B1%E7%81%AB%23" target="weibo">
+永康白云水库附近发生山火（热度：7982）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2384%E5%B2%81%E7%88%B7%E7%88%B7%E5%B8%A6%E5%B7%B2%E6%95%85%E5%A5%B6%E5%A5%B6%E7%85%A7%E7%89%87%E5%88%B0%E5%8C%97%E4%BA%AC%E7%9C%8B%E5%8D%87%E6%97%97%23" target="weibo">
+84岁爷爷带已故奶奶照片到北京看升旗（热度：6011）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E9%87%8D%E9%98%B3%E8%8A%82%E5%B7%A7%E9%81%87%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%23" target="weibo">
+今年重阳节巧遇国庆假期（热度：5517）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E8%AE%BF%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E9%98%9F%E9%95%BF%E6%9D%A8%E5%8A%9B%E7%BB%B4%23" target="weibo">
+专访中国女篮队长杨力维（热度：5329）
 </a>
 </li>
 
