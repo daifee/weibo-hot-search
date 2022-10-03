@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1664771270067,
+  "endTime": 1664774573490,
   "band_list": [
     {
       "raw_hot": 3091269,
@@ -91,6 +91,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 746673,
+      "num": 746673,
+      "word": "狗狗进公园被拦收2元停车费",
+      "onboard_time": 1664770582,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 699533,
+      "num": 699533,
+      "word": "为什么竹马总是打不过天降",
+      "onboard_time": 1664772983,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 686003,
       "num": 686003,
       "word": "山东11市出现大暴雨",
@@ -145,6 +161,14 @@
       "onboard_time": 1664720005,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 513507,
+      "num": 513507,
+      "word": "王鹤棣浮图缘预约破150w",
+      "onboard_time": 1664773702,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 508946,
@@ -211,12 +235,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 451415,
+      "num": 425366,
+      "word": "万里归途成影史国庆节总场次冠军",
+      "onboard_time": 1664769862,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 445805,
       "num": 311666,
       "word": "生孩子的过程和感受",
       "onboard_time": 1664755641,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 440932,
+      "num": 377729,
+      "word": "脱口秀大会5官宣王濛",
+      "onboard_time": 1664771002,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 434948,
@@ -235,14 +275,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 425366,
-      "num": 425366,
-      "word": "万里归途成影史国庆节总场次冠军",
-      "onboard_time": 1664769862,
-      "rank": 6,
-      "category": "影视"
-    },
-    {
       "raw_hot": 422317,
       "num": 422317,
       "word": "浙江桐乡两例阳性感染者被立案调查",
@@ -259,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 391212,
+      "num": 391212,
+      "word": "我国首次寒潮和高温预警齐发",
+      "onboard_time": 1664766861,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 383005,
       "num": 383005,
       "word": "今年总要去一次长沙吧",
@@ -272,6 +312,14 @@
       "word": "泽连斯基称乌克兰将重建海军",
       "onboard_time": 1664763021,
       "rank": 15,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 366752,
+      "num": 366752,
+      "word": "北溪管道泄漏事件由炸药爆炸引起",
+      "onboard_time": 1664771483,
+      "rank": 13,
       "category": "国外要闻"
     },
     {
@@ -315,14 +363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 301408,
-      "num": 301408,
-      "word": "我国首次寒潮和高温预警齐发",
-      "onboard_time": 1664766861,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 300469,
       "num": 300469,
       "word": "李现被哈兰德圈粉",
@@ -347,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261929,
+      "num": 242470,
+      "word": "赵晓卉山西千种面不如去见一面",
+      "onboard_time": 1664769862,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 257553,
       "num": 257553,
       "word": "成毅底线咪咕播放量破10亿",
@@ -363,6 +411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 251739,
+      "num": 227160,
+      "word": "虞书欣张彬彬呼呼揉头太宠了",
+      "onboard_time": 1664770582,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 251071,
       "num": 251071,
       "word": "马嘉祺感谢杨坤",
@@ -377,14 +433,6 @@
       "onboard_time": 1664703323,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 242470,
-      "num": 242470,
-      "word": "赵晓卉山西千种面不如去见一面",
-      "onboard_time": 1664769862,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 237202,
@@ -427,20 +475,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 227160,
-      "num": 227160,
-      "word": "虞书欣张彬彬呼呼揉头太宠了",
-      "onboard_time": 1664770582,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 209675,
       "num": 209675,
       "word": "曼城6比3曼联",
       "onboard_time": 1664723724,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209530,
+      "num": 209530,
+      "word": "S12入围赛淘汰赛赛程",
+      "onboard_time": 1664771362,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 207868,
@@ -467,6 +515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 200300,
+      "num": 200300,
+      "word": "两条北溪天然气管道都已停止泄漏",
+      "onboard_time": 1664771181,
+      "rank": 49,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 185137,
       "num": 185137,
       "word": "男子公园跳街舞被小孩指着说神经",
@@ -483,12 +539,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 182412,
-      "num": 182412,
-      "word": "狗狗进公园被拦收2元停车费",
-      "onboard_time": 1664770582,
-      "rank": 23,
+      "raw_hot": 180434,
+      "num": 180434,
+      "word": "年轻人上网被骗比例最高达65.5%",
+      "onboard_time": 1664772860,
+      "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180332,
+      "num": 180332,
+      "word": "火影忍者开播20周年",
+      "onboard_time": 1664771541,
+      "rank": 23,
+      "category": "动漫"
     },
     {
       "raw_hot": 176410,
@@ -507,20 +571,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164497,
+      "num": 164497,
+      "word": "林志炫新歌滕王阁序",
+      "onboard_time": 1664769862,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 163802,
       "num": 163802,
       "word": "10月2日新增本土确诊189例",
       "onboard_time": 1664761702,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 162994,
-      "num": 162994,
-      "word": "林志炫新歌滕王阁序",
-      "onboard_time": 1664769862,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 161645,
@@ -587,12 +651,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 130742,
-      "num": 130742,
-      "word": "脱口秀大会5官宣王濛",
-      "onboard_time": 1664771002,
-      "rank": 29,
-      "category": "综艺"
+      "raw_hot": 129659,
+      "num": 129659,
+      "word": "苹果高管谈灵动岛",
+      "onboard_time": 1664774002,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 126435,
@@ -673,6 +737,14 @@
       "onboard_time": 1664721806,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 109780,
+      "num": 109780,
+      "word": "7个孙子重孙合力抬96岁老人旅游",
+      "onboard_time": 1664774002,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106181,
@@ -819,6 +891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 68720,
+      "num": 68720,
+      "word": "侯明昊再现胡同360度过肩摔",
+      "onboard_time": 1664771782,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 66907,
       "num": 66907,
       "word": "关晓彤话剧舞台饰演秦怡",
@@ -849,14 +929,6 @@
       "onboard_time": 1664707342,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 55838,
-      "num": 55838,
-      "word": "两条北溪天然气管道都已停止泄漏",
-      "onboard_time": 1664771181,
-      "rank": 49,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 53010,

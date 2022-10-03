@@ -1,0 +1,410 @@
+{
+  "runTime": 1664774573490,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1972208,
+        "num": 1972208,
+        "word": "万里归途票房逆跌",
+        "onboard_time": 1664764284,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1034010,
+        "num": 1034010,
+        "word": "山西人吃醋真是让我开了眼",
+        "onboard_time": 1664767701,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78143,
+        "num": 805793,
+        "word": "齐唱国歌是刻进中国人DNA的感动",
+        "onboard_time": 1664767943,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 746673,
+        "num": 746673,
+        "word": "狗狗进公园被拦收2元停车费",
+        "onboard_time": 1664770582,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 699533,
+        "num": 699533,
+        "word": "为什么竹马总是打不过天降",
+        "onboard_time": 1664772983,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 594904,
+        "num": 594904,
+        "word": "挪威三文鱼在中国生活得很开心",
+        "onboard_time": 1664767403,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513507,
+        "num": 513507,
+        "word": "王鹤棣浮图缘预约破150w",
+        "onboard_time": 1664773702,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 467396,
+        "num": 467396,
+        "word": "青岛石老人海蚀柱上半部分坍塌",
+        "onboard_time": 1664767821,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405815,
+        "num": 405815,
+        "word": "偶尔大吃一顿不会胖",
+        "onboard_time": 1664768123,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 391212,
+        "num": 391212,
+        "word": "我国首次寒潮和高温预警齐发",
+        "onboard_time": 1664766861,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473256,
+        "num": 385654,
+        "word": "男子洗碗割破指动脉缝9针",
+        "onboard_time": 1664760501,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451415,
+        "num": 384064,
+        "word": "万里归途成影史国庆节总场次冠军",
+        "onboard_time": 1664769862,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 440932,
+        "num": 377729,
+        "word": "脱口秀大会5官宣王濛",
+        "onboard_time": 1664771002,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 366752,
+        "num": 366752,
+        "word": "北溪管道泄漏事件由炸药爆炸引起",
+        "onboard_time": 1664771483,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 315451,
+        "num": 315451,
+        "word": "云南大学生校内如厕偶遇孔雀学长",
+        "onboard_time": 1664764703,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310417,
+        "num": 310417,
+        "word": "裴秀智将回归",
+        "onboard_time": 1664762302,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 211656,
+        "num": 211656,
+        "word": "石老人",
+        "onboard_time": 1664761521,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209530,
+        "num": 209530,
+        "word": "S12入围赛淘汰赛赛程",
+        "onboard_time": 1664771362,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200300,
+        "num": 200300,
+        "word": "两条北溪天然气管道都已停止泄漏",
+        "onboard_time": 1664771181,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 193909,
+        "num": 193909,
+        "word": "石家庄地震",
+        "onboard_time": 1664752097,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261929,
+        "num": 191786,
+        "word": "赵晓卉山西千种面不如去见一面",
+        "onboard_time": 1664769862,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251739,
+        "num": 186524,
+        "word": "虞书欣张彬彬呼呼揉头太宠了",
+        "onboard_time": 1664770582,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180434,
+        "num": 180434,
+        "word": "年轻人上网被骗比例最高达65.5%",
+        "onboard_time": 1664772860,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180332,
+        "num": 180332,
+        "word": "火影忍者开播20周年",
+        "onboard_time": 1664771541,
+        "rank": 23,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 179666,
+        "num": 179666,
+        "word": "男子看升旗睡着仪式结束还未醒",
+        "onboard_time": 1664764822,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172468,
+        "num": 172468,
+        "word": "大学女老师说为情所困不如搞事业",
+        "onboard_time": 1664760319,
+        "rank": 25,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 164976,
+        "num": 164976,
+        "word": "泽连斯基称乌克兰将重建海军",
+        "onboard_time": 1664763021,
+        "rank": 26,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 164497,
+        "num": 164497,
+        "word": "林志炫新歌滕王阁序",
+        "onboard_time": 1664769862,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 143324,
+        "num": 143324,
+        "word": "小小年纪就活得如此明白",
+        "onboard_time": 1664764883,
+        "rank": 28,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 132293,
+        "num": 132293,
+        "word": "生孩子的过程和感受",
+        "onboard_time": 1664755641,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129659,
+        "num": 129659,
+        "word": "苹果高管谈灵动岛",
+        "onboard_time": 1664774002,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 129154,
+        "num": 129154,
+        "word": "河南增14例本土无症状",
+        "onboard_time": 1664768722,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123111,
+        "num": 123111,
+        "word": "山东11市出现大暴雨",
+        "onboard_time": 1664764523,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109780,
+        "num": 109780,
+        "word": "7个孙子重孙合力抬96岁老人旅游",
+        "onboard_time": 1664774002,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105973,
+        "num": 105973,
+        "word": "辽宁舰副舰长说中国海军将永远向上",
+        "onboard_time": 1664766861,
+        "rank": 34,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 105020,
+        "num": 105020,
+        "word": "2个动作改善驼背",
+        "onboard_time": 1664768484,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100670,
+        "num": 100670,
+        "word": "10月2日新增466例本土无症状",
+        "onboard_time": 1664760622,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100619,
+        "num": 100619,
+        "word": "BLACKPINKShutDown获人歌一位",
+        "onboard_time": 1664726543,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 93178,
+        "num": 93178,
+        "word": "万里归途成为外交官特辑",
+        "onboard_time": 1664767884,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 93083,
+        "num": 93083,
+        "word": "李现被哈兰德圈粉",
+        "onboard_time": 1664759301,
+        "rank": 39,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 91879,
+        "num": 91879,
+        "word": "00后大学生操场带妆唱戏引围观",
+        "onboard_time": 1664760022,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80893,
+        "num": 80893,
+        "word": "马龙主动示意对手擦边",
+        "onboard_time": 1664757022,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80687,
+        "num": 80687,
+        "word": "内蒙古新增本土确诊病例80例",
+        "onboard_time": 1664766323,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76738,
+        "num": 76738,
+        "word": "糊但好看的剧",
+        "onboard_time": 1664707524,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 76726,
+        "num": 76726,
+        "word": "北京新增本土感染者3例",
+        "onboard_time": 1664757683,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71480,
+        "num": 71480,
+        "word": "RNG入围赛四连胜",
+        "onboard_time": 1664762364,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 69212,
+        "num": 69212,
+        "word": "成毅底线咪咕播放量破10亿",
+        "onboard_time": 1664759961,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 68720,
+        "num": 68720,
+        "word": "侯明昊再现胡同360度过肩摔",
+        "onboard_time": 1664771782,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 66809,
+        "num": 66809,
+        "word": "爷爷为孙女做百余个拇指大小馒头",
+        "onboard_time": 1664722702,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66625,
+        "num": 66625,
+        "word": "终于明白鱼为什么怕猫了",
+        "onboard_time": 1664755820,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#坐标中国#"
+    }
+  }
+}
