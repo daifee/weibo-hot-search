@@ -1,0 +1,410 @@
+{
+  "runTime": 1664805602359,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1076791,
+        "num": 1076791,
+        "word": "体重减不下来有3个原因",
+        "onboard_time": 1664782401,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 912788,
+        "num": 912788,
+        "word": "男子游黄山被堵山上10分钟走1米",
+        "onboard_time": 1664801840,
+        "rank": 1,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 73203,
+        "num": 681728,
+        "word": "多机位打开国庆节氛围感",
+        "onboard_time": 1664800944,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 547682,
+        "num": 547682,
+        "word": "TouchID不太可能回到iPhone",
+        "onboard_time": 1664799442,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 449693,
+        "num": 449693,
+        "word": "淡定鸭鸭暴雨中集体站立淋雨",
+        "onboard_time": 1664801124,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382972,
+        "num": 382972,
+        "word": "医保谈判代表说自己克制着高兴心情",
+        "onboard_time": 1664798904,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348958,
+        "num": 348958,
+        "word": "韩国建军节宣传片出现中国装甲车",
+        "onboard_time": 1664793442,
+        "rank": 6,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 314697,
+        "num": 314697,
+        "word": "诺贝尔",
+        "onboard_time": 1664790982,
+        "rank": 7,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 314409,
+        "num": 314409,
+        "word": "万茜拍万里归途时刚拆钢板",
+        "onboard_time": 1664799621,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 291073,
+        "num": 291073,
+        "word": "河南卫视神仙节目上新了",
+        "onboard_time": 1664799685,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367980,
+        "num": 289770,
+        "word": "公司要破产我该不该辞职",
+        "onboard_time": 1664797043,
+        "rank": 10,
+        "category": "社会议题,影视"
+      },
+      {
+        "raw_hot": 269621,
+        "num": 269621,
+        "word": "黑豹2新预告",
+        "onboard_time": 1664805384,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263366,
+        "num": 263366,
+        "word": "男子高铁遇老人独带娃主动帮抱",
+        "onboard_time": 1664802144,
+        "rank": 12,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 241714,
+        "num": 241714,
+        "word": "原来鲜花还可以这么保存",
+        "onboard_time": 1664796441,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 238097,
+        "num": 238097,
+        "word": "陈哲远沈月cp名叫南忘今萧",
+        "onboard_time": 1664801840,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 225444,
+        "num": 225444,
+        "word": "广东冷空气5日到货",
+        "onboard_time": 1664804365,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212931,
+        "num": 212931,
+        "word": "年轻人为什么不爱走亲戚",
+        "onboard_time": 1664804784,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207084,
+        "num": 207084,
+        "word": "这就是国庆在家的我吧",
+        "onboard_time": 1664800225,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199210,
+        "num": 199210,
+        "word": "陈都灵莲花楼杀青照",
+        "onboard_time": 1664796143,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 182659,
+        "num": 182659,
+        "word": "小车礼让婚车把自己倒进沟里",
+        "onboard_time": 1664804064,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1236459,
+        "num": 177195,
+        "word": "iPhone在6人死亡车祸中自动求救",
+        "onboard_time": 1664796084,
+        "rank": 20,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 169220,
+        "num": 169220,
+        "word": "新婚夜护士新娘给新郎扎针输液",
+        "onboard_time": 1664788223,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162189,
+        "num": 162189,
+        "word": "MRC夺冠",
+        "onboard_time": 1664801425,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157862,
+        "num": 157862,
+        "word": "万里归途后遗症",
+        "onboard_time": 1664797282,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155238,
+        "num": 155238,
+        "word": "檀健次新剧公司面临破产",
+        "onboard_time": 1664793804,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147777,
+        "num": 147777,
+        "word": "张译站起来的原因找到了",
+        "onboard_time": 1664798421,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127697,
+        "num": 127697,
+        "word": "安卓灵动岛APP下载安装量超100万次",
+        "onboard_time": 1664786483,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 116508,
+        "num": 116508,
+        "word": "2022北京马拉松11月6日举行",
+        "onboard_time": 1664803224,
+        "rank": 27,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 114931,
+        "num": 114931,
+        "word": "当大狗看到小狗在床上时",
+        "onboard_time": 1664786001,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 110740,
+        "num": 110740,
+        "word": "动物园黑熊躺平翘二郎腿",
+        "onboard_time": 1664802984,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144606,
+        "num": 110679,
+        "word": "高卿尘新剧古装造型路透",
+        "onboard_time": 1664797885,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129560,
+        "num": 110496,
+        "word": "虞书欣张彬彬小森林夫妻新副本",
+        "onboard_time": 1664802263,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118858,
+        "num": 110040,
+        "word": "成毅演戏情绪张力",
+        "onboard_time": 1664797465,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 109071,
+        "num": 109071,
+        "word": "北京雨后现金色晚霞",
+        "onboard_time": 1664794284,
+        "rank": 33,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 107911,
+        "num": 107911,
+        "word": "中国男团vs斯洛文尼亚男团",
+        "onboard_time": 1664789540,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106411,
+        "num": 106411,
+        "word": "万里归途票房逆跌",
+        "onboard_time": 1664764284,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102497,
+        "num": 102497,
+        "word": "俄称修复北溪管道的可能性是存在的",
+        "onboard_time": 1664789902,
+        "rank": 36,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 99303,
+        "num": 99303,
+        "word": "妈妈突然昏迷儿子大声呼喊唤醒",
+        "onboard_time": 1664782041,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99081,
+        "num": 99081,
+        "word": "北溪管道爆炸威力相当于数百公斤炸药",
+        "onboard_time": 1664796624,
+        "rank": 38,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 98161,
+        "num": 98161,
+        "word": "国乒男团世乒赛三连胜",
+        "onboard_time": 1664802684,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97822,
+        "num": 97822,
+        "word": "女子落水高校男生害怕仍勇敢下水",
+        "onboard_time": 1664792602,
+        "rank": 40,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 95527,
+        "num": 95527,
+        "word": "关晓彤为电视剧胡同第三篇章做宣传",
+        "onboard_time": 1664793142,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 94457,
+        "num": 94457,
+        "word": "父母的三观对孩子影响大吗",
+        "onboard_time": 1664804964,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86657,
+        "num": 86657,
+        "word": "崂山文旅局回应石老人坍塌",
+        "onboard_time": 1664794043,
+        "rank": 43,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 85899,
+        "num": 85899,
+        "word": "流浪猫投喂点堪比热门景区",
+        "onboard_time": 1664790441,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84779,
+        "num": 84779,
+        "word": "当追星的我老了以后",
+        "onboard_time": 1664784501,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82116,
+        "num": 82116,
+        "word": "爸爸拿水果站路边等女儿回家",
+        "onboard_time": 1664786844,
+        "rank": 46,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 80951,
+        "num": 80951,
+        "word": "2022年诺贝尔生理学或医学奖揭晓",
+        "onboard_time": 1664790203,
+        "rank": 47,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 69169,
+        "num": 69169,
+        "word": "吃多了通过运动能消耗掉吗",
+        "onboard_time": 1664791581,
+        "rank": 48,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 68001,
+        "num": 68001,
+        "word": "王楚钦3比1达科",
+        "onboard_time": 1664800163,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国空间站等你来出差#"
+    }
+  }
+}

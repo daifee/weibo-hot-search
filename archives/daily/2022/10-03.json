@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1664803616241,
+  "endTime": 1664805602359,
   "band_list": [
     {
       "raw_hot": 3091269,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 912788,
+      "num": 912788,
+      "word": "男子游黄山被堵山上10分钟走1米",
+      "onboard_time": 1664801840,
+      "rank": 11,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 848847,
       "num": 848847,
       "word": "2022年诺贝尔生理学或医学奖揭晓",
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 782989,
-      "num": 462936,
+      "num": 547682,
       "word": "TouchID不太可能回到iPhone",
       "onboard_time": 1664799442,
       "rank": 3,
@@ -377,6 +385,14 @@
       "onboard_time": 1664769862,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 449693,
+      "num": 449693,
+      "word": "淡定鸭鸭暴雨中集体站立淋雨",
+      "onboard_time": 1664801124,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 448890,
@@ -651,22 +667,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 313871,
-      "num": 313871,
-      "word": "淡定鸭鸭暴雨中集体站立淋雨",
-      "onboard_time": 1664801124,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 313103,
-      "num": 313103,
-      "word": "男子游黄山被堵山上10分钟走1米",
-      "onboard_time": 1664801840,
-      "rank": 11,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 305527,
       "num": 103813,
       "word": "天津地震",
@@ -729,6 +729,22 @@
       "onboard_time": 1664785641,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 269621,
+      "num": 269621,
+      "word": "黑豹2新预告",
+      "onboard_time": 1664805384,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 263366,
+      "num": 263366,
+      "word": "男子高铁遇老人独带娃主动帮抱",
+      "onboard_time": 1664802144,
+      "rank": 26,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 261929,
@@ -827,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238097,
+      "num": 238097,
+      "word": "陈哲远沈月cp名叫南忘今萧",
+      "onboard_time": 1664801840,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 237202,
       "num": 237202,
       "word": "小小年纪就活得如此明白",
@@ -875,6 +899,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 225444,
+      "num": 225444,
+      "word": "广东冷空气5日到货",
+      "onboard_time": 1664804365,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224146,
       "num": 224146,
       "word": "高卿尘新剧古装造型路透",
@@ -889,6 +921,14 @@
       "onboard_time": 1664787202,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 212931,
+      "num": 212931,
+      "word": "年轻人为什么不爱走亲戚",
+      "onboard_time": 1664804784,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 209675,
@@ -923,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207084,
+      "num": 207084,
+      "word": "这就是国庆在家的我吧",
+      "onboard_time": 1664800225,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 202605,
       "num": 202605,
       "word": "MRC夺冠",
@@ -945,14 +993,6 @@
       "onboard_time": 1664762364,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 199771,
-      "num": 199771,
-      "word": "陈哲远沈月cp名叫南忘今萧",
-      "onboard_time": 1664801840,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 198050,
@@ -1000,6 +1040,14 @@
       "word": "导弹专家为国隐姓埋名60余年",
       "onboard_time": 1664754258,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182659,
+      "num": 182659,
+      "word": "小车礼让婚车把自己倒进沟里",
+      "onboard_time": 1664804064,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1123,14 +1171,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 144689,
-      "num": 144689,
-      "word": "这就是国庆在家的我吧",
-      "onboard_time": 1664800225,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 143560,
       "num": 143560,
       "word": "摄影师记录菊花绽放瞬间",
@@ -1179,12 +1219,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 129655,
-      "num": 129655,
-      "word": "男子高铁遇老人独带娃主动帮抱",
-      "onboard_time": 1664802144,
-      "rank": 26,
-      "category": "社会正能量"
+      "raw_hot": 129560,
+      "num": 110496,
+      "word": "虞书欣张彬彬小森林夫妻新副本",
+      "onboard_time": 1664802263,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 126454,
@@ -1299,6 +1339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 110740,
+      "num": 110740,
+      "word": "动物园黑熊躺平翘二郎腿",
+      "onboard_time": 1664802984,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106181,
       "num": 106181,
       "word": "故宫高清壁纸上新",
@@ -1337,6 +1385,14 @@
       "onboard_time": 1664802684,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94457,
+      "num": 94457,
+      "word": "父母的三观对孩子影响大吗",
+      "onboard_time": 1664804964,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 93096,
@@ -1403,14 +1459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 85963,
-      "num": 75653,
-      "word": "虞书欣张彬彬小森林夫妻新副本",
-      "onboard_time": 1664802263,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 83635,
       "num": 83635,
       "word": "罗一舟关晓彤同框",
@@ -1451,20 +1499,20 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 73203,
+      "num": 681728,
+      "word": "多机位打开国庆节氛围感",
+      "onboard_time": 1664800944,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 72584,
       "num": 72584,
       "word": "安东尼世界波",
       "onboard_time": 1664722825,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 72346,
-      "num": 470510,
-      "word": "多机位打开国庆节氛围感",
-      "onboard_time": 1664800944,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 71986,
@@ -1513,14 +1561,6 @@
       "onboard_time": 1664709682,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 58349,
-      "num": 58349,
-      "word": "动物园黑熊躺平翘二郎腿",
-      "onboard_time": 1664802984,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 58143,
