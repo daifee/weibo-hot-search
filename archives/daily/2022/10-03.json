@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1664754358539,
+  "endTime": 1664762735742,
   "band_list": [
     {
       "raw_hot": 3091269,
@@ -9,6 +9,14 @@
       "onboard_time": 1664752097,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1654547,
+      "num": 1654547,
+      "word": "马龙主动示意对手擦边",
+      "onboard_time": 1664757022,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1447248,
@@ -27,12 +35,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 877881,
+      "num": 327888,
+      "word": "男子洗碗割破指动脉缝9针",
+      "onboard_time": 1664760501,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 793130,
       "num": 793130,
       "word": "8旬老baby因洗碗持兵器开战",
       "onboard_time": 1664725402,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 773084,
+      "num": 323651,
+      "word": "石老人",
+      "onboard_time": 1664761521,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 673954,
+      "num": 673954,
+      "word": "大学最后一课老师告诫学生接受平凡",
+      "onboard_time": 1664751795,
+      "rank": 19,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 631538,
@@ -43,11 +75,43 @@
       "category": "国外要闻,财经"
     },
     {
+      "raw_hot": 574473,
+      "num": 574473,
+      "word": "吵架内容都这么高端了吗",
+      "onboard_time": 1664751854,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 556732,
+      "num": 556732,
+      "word": "RNG战胜SGB",
+      "onboard_time": 1664761945,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 531802,
       "num": 531802,
       "word": "男子开特斯拉返乡堵到没电叫拖车",
       "onboard_time": 1664720005,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 508946,
+      "num": 508946,
+      "word": "终于明白鱼为什么怕猫了",
+      "onboard_time": 1664755820,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 481255,
+      "num": 481255,
+      "word": "北京新增本土感染者3例",
+      "onboard_time": 1664757683,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -57,6 +121,22 @@
       "onboard_time": 1664724624,
       "rank": 6,
       "category": "国外要闻,社会新闻"
+    },
+    {
+      "raw_hot": 445805,
+      "num": 311666,
+      "word": "生孩子的过程和感受",
+      "onboard_time": 1664755641,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 439571,
+      "num": 301234,
+      "word": "10月2日新增466例本土无症状",
+      "onboard_time": 1664760622,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 434948,
@@ -73,6 +153,14 @@
       "onboard_time": 1664726543,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 422317,
+      "num": 422317,
+      "word": "浙江桐乡两例阳性感染者被立案调查",
+      "onboard_time": 1664755461,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 397003,
@@ -123,12 +211,52 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300469,
+      "num": 300469,
+      "word": "李现被哈兰德圈粉",
+      "onboard_time": 1664759301,
+      "rank": 16,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 289569,
       "num": 289569,
       "word": "周亦安决定辞职",
       "onboard_time": 1664716285,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 276709,
+      "num": 276709,
+      "word": "哈尔滨市新增2例外省输入阳性",
+      "onboard_time": 1664760803,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257553,
+      "num": 257553,
+      "word": "成毅底线咪咕播放量破10亿",
+      "onboard_time": 1664759961,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 254123,
+      "num": 254123,
+      "word": "大学女老师说为情所困不如搞事业",
+      "onboard_time": 1664760319,
+      "rank": 19,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 252457,
+      "num": 252457,
+      "word": "灰太狼听完都改吃素了",
+      "onboard_time": 1664753717,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 251071,
@@ -147,20 +275,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 238342,
-      "num": 238342,
-      "word": "大学最后一课老师告诫学生接受平凡",
-      "onboard_time": 1664751795,
-      "rank": 19,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 236159,
       "num": 236159,
       "word": "陈慧娴33年隔空对唱千千阙歌",
       "onboard_time": 1664726003,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 235932,
+      "num": 235932,
+      "word": "裴秀智将回归",
+      "onboard_time": 1664762302,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 231885,
+      "num": 231885,
+      "word": "DRX晋级小组赛",
+      "onboard_time": 1664758942,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 209675,
@@ -187,11 +323,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196897,
+      "num": 196897,
+      "word": "寒潮将终结南方多地高温",
+      "onboard_time": 1664759361,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185137,
       "num": 185137,
       "word": "男子公园跳街舞被小孩指着说神经",
       "onboard_time": 1664737932,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183123,
+      "num": 183123,
+      "word": "导弹专家为国隐姓埋名60余年",
+      "onboard_time": 1664754258,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -203,6 +355,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 172725,
+      "num": 172725,
+      "word": "RNG入围赛四连胜",
+      "onboard_time": 1664762364,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 165427,
       "num": 165427,
       "word": "中国女排世界排名跌至第5名",
@@ -211,12 +371,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 153931,
-      "num": 153931,
-      "word": "吵架内容都这么高端了吗",
-      "onboard_time": 1664751854,
+      "raw_hot": 163802,
+      "num": 163802,
+      "word": "10月2日新增本土确诊189例",
+      "onboard_time": 1664761702,
       "rank": 30,
-      "category": "幽默"
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161095,
+      "num": 161095,
+      "word": "文俊辉直播",
+      "onboard_time": 1664755700,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 151102,
@@ -227,12 +395,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148233,
+      "num": 148233,
+      "word": "00后大学生操场带妆唱戏引围观",
+      "onboard_time": 1664760022,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146499,
       "num": 146499,
       "word": "炽道导演回应滤镜争议",
       "onboard_time": 1664724744,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 139739,
+      "num": 139739,
+      "word": "谢谢你们的声音把客场变成中国主场",
+      "onboard_time": 1664755100,
+      "rank": 36,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 138829,
+      "num": 138829,
+      "word": "2022年诺贝尔奖10月3日起陆续揭晓",
+      "onboard_time": 1664740090,
+      "rank": 18,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 138658,
@@ -243,12 +435,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 128180,
-      "num": 128180,
-      "word": "灰太狼听完都改吃素了",
-      "onboard_time": 1664753717,
-      "rank": 19,
-      "category": "幽默"
+      "raw_hot": 126435,
+      "num": 126435,
+      "word": "曾就读清华的90后飞行员夺金头盔",
+      "onboard_time": 1664740510,
+      "rank": 47,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 126156,
@@ -265,14 +457,6 @@
       "onboard_time": 1664716221,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 125422,
-      "num": 125422,
-      "word": "曾就读清华的90后飞行员夺金头盔",
-      "onboard_time": 1664740510,
-      "rank": 47,
-      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 123755,
@@ -339,20 +523,20 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 97216,
-      "num": 97216,
-      "word": "2022年诺贝尔奖10月3日起陆续揭晓",
-      "onboard_time": 1664740090,
-      "rank": 18,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 89155,
       "num": 89155,
       "word": "DRX对战MAD",
       "onboard_time": 1664751914,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 88021,
+      "num": 88021,
+      "word": "国庆假期第3天",
+      "onboard_time": 1664754741,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 87746,
@@ -393,6 +577,14 @@
       "onboard_time": 1664717245,
       "rank": 35,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 79022,
+      "num": 79022,
+      "word": "什么是流石滩植物",
+      "onboard_time": 1664756121,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74868,
@@ -507,14 +699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 44215,
-      "num": 44215,
-      "word": "导弹专家为国隐姓埋名60余年",
-      "onboard_time": 1664754258,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 40314,
       "num": 40314,
       "word": "哈兰德3分钟2球",
@@ -547,11 +731,19 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 7778,
+      "raw_hot": 8046,
       "num": 795401,
       "word": "新时代 我在中国",
       "onboard_time": 1664680822,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6190,
+      "num": 308918,
+      "word": "丽水重症病人共享厨房开出第三间",
+      "onboard_time": 1664762603,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
