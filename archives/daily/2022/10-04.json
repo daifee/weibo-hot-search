@@ -1,6 +1,6 @@
 {
   "startTime": 1664815260200,
-  "endTime": 1664823348773,
+  "endTime": 1664825121382,
   "band_list": [
     {
       "raw_hot": 1414692,
@@ -348,7 +348,7 @@
     },
     {
       "raw_hot": 48308,
-      "num": 35868,
+      "num": 44706,
       "word": "记得存点话留到8号上班讲",
       "onboard_time": 1664820253,
       "rank": 21,
@@ -441,6 +441,14 @@
       "onboard_time": 1664820554,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 7918,
+      "num": 7918,
+      "word": "2022年诺贝尔生理学或医学奖揭晓",
+      "onboard_time": 1664790203,
+      "rank": 48,
+      "category": "社会新闻,科技"
     }
   ],
   "hotgov_list": [
