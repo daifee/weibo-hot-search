@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664829916292,
+  "endTime": 1664832215681,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -4923,6 +4923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38092,
+      "num": 27194,
+      "word": "北京10月4日最低温仅4摄氏度",
+      "onboard_time": 1664829971,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37242,
       "num": 376235,
       "word": "丽水重症病人共享厨房开出第三间",
@@ -4977,6 +4985,14 @@
       "onboard_time": 1664819775,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 26269,
+      "num": 26269,
+      "word": "河北启动省地震灾害Ⅳ级应急响应",
+      "onboard_time": 1664828950,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23728,
@@ -5067,14 +5083,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 5828,
-      "num": 5828,
-      "word": "河北启动省地震灾害Ⅳ级应急响应",
-      "onboard_time": 1664828950,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 5517,
       "num": 5517,
       "word": "今年重阳节巧遇国庆假期",
@@ -5153,6 +5161,70 @@
       "onboard_time": 1664745010,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 4858,
+      "num": 4858,
+      "word": "继续为女排姑娘们加油",
+      "onboard_time": 1664831950,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 4855,
+      "num": 4855,
+      "word": "绿皮火车也能有淋浴酒吧KTV",
+      "onboard_time": 1664831470,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4830,
+      "num": 4830,
+      "word": "阿德莱德36人vs太阳",
+      "onboard_time": 1664832012,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 4790,
+      "num": 4790,
+      "word": "当你年少时告别局",
+      "onboard_time": 1664831950,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 4763,
+      "num": 4763,
+      "word": "ISG战胜IW",
+      "onboard_time": 1664832130,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 4761,
+      "num": 4761,
+      "word": "杰伦布朗季前赛24分",
+      "onboard_time": 1664832190,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 4757,
+      "num": 4757,
+      "word": "F1新加坡大奖赛佩雷兹冠军",
+      "onboard_time": 1664832070,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 4756,
+      "num": 4756,
+      "word": "军训拉歌还得是音乐学院",
+      "onboard_time": 1664832190,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 4397,
