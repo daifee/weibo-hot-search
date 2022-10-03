@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1664808806758,
+  "endTime": 1664811042003,
   "band_list": [
     {
       "raw_hot": 3091269,
@@ -67,7 +67,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1216300,
+      "raw_hot": 1384555,
       "num": 299606,
       "word": "网传乘风破浪的姐姐4拟邀名单",
       "onboard_time": 1664807844,
@@ -507,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 396564,
+      "num": 396564,
+      "word": "工作人员扮玩偶被2男子捶打",
+      "onboard_time": 1664806164,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 396072,
       "num": 352863,
       "word": "吴建豪给刘雨昕开篮球速成课",
@@ -561,6 +569,14 @@
       "onboard_time": 1664804365,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 376500,
+      "num": 255566,
+      "word": "会被一些医学知识震惊到",
+      "onboard_time": 1664807784,
+      "rank": 35,
+      "category": "其它"
     },
     {
       "raw_hot": 375131,
@@ -675,6 +691,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 322104,
+      "num": 322104,
+      "word": "特斯拉车主回应堵车没电叫拖车",
+      "onboard_time": 1664807605,
+      "rank": 40,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 320586,
       "num": 320586,
       "word": "苹果高管谈灵动岛",
@@ -697,14 +721,6 @@
       "onboard_time": 1664784260,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 307533,
-      "num": 307533,
-      "word": "工作人员扮玩偶被2男子捶打",
-      "onboard_time": 1664806164,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 307530,
@@ -753,6 +769,14 @@
       "onboard_time": 1664772860,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284307,
+      "num": 284307,
+      "word": "父母的三观对孩子影响大吗",
+      "onboard_time": 1664804964,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 276709,
@@ -947,14 +971,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 225375,
-      "num": 225375,
-      "word": "父母的三观对孩子影响大吗",
-      "onboard_time": 1664804964,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 224146,
       "num": 224146,
       "word": "高卿尘新剧古装造型路透",
@@ -1027,6 +1043,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 200806,
+      "num": 200806,
+      "word": "父亲为脑瘫儿子按摩路人提物资相赠",
+      "onboard_time": 1664808444,
+      "rank": 44,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 200725,
       "num": 200725,
       "word": "RNG入围赛四连胜",
@@ -1081,14 +1105,6 @@
       "onboard_time": 1664796624,
       "rank": 46,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 183963,
-      "num": 181311,
-      "word": "会被一些医学知识震惊到",
-      "onboard_time": 1664807784,
-      "rank": 35,
-      "category": "其它"
     },
     {
       "raw_hot": 183123,
@@ -1203,14 +1219,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 154278,
-      "num": 154278,
-      "word": "特斯拉车主回应堵车没电叫拖车",
-      "onboard_time": 1664807605,
-      "rank": 40,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 151102,
       "num": 151102,
       "word": "周传雄陆虎合唱黄昏",
@@ -1296,6 +1304,14 @@
       "word": "假期饮食不节制易诱发胰腺炎",
       "onboard_time": 1664774722,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131460,
+      "num": 131460,
+      "word": "熊猫的肚皮原来可以当小饭桌用",
+      "onboard_time": 1664809824,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -1395,6 +1411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116518,
+      "num": 116518,
+      "word": "唐诡后遗症",
+      "onboard_time": 1664808504,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 116153,
       "num": 116153,
       "word": "内蒙古新增本土确诊病例80例",
@@ -1425,6 +1449,14 @@
       "onboard_time": 1664724086,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 105883,
+      "num": 105883,
+      "word": "报老年旅行团是什么体验",
+      "onboard_time": 1664808985,
+      "rank": 31,
+      "category": "旅游,情感"
     },
     {
       "raw_hot": 105197,
@@ -1465,6 +1497,14 @@
       "onboard_time": 1664778322,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 89865,
+      "num": 89865,
+      "word": "原来小狗也是变脸大师",
+      "onboard_time": 1664810004,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 89155,
@@ -1547,14 +1587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 77848,
-      "num": 77848,
-      "word": "唐诡后遗症",
-      "onboard_time": 1664808504,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 74868,
       "num": 74868,
       "word": "张艺兴为金晨新剧打call",
@@ -1595,6 +1627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71951,
+      "num": 71951,
+      "word": "一个抓蟑螂的新方法",
+      "onboard_time": 1664810903,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 71292,
       "num": 71292,
       "word": "樊振东3比0科祖尔",
@@ -1609,14 +1649,6 @@
       "onboard_time": 1664771782,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 70513,
-      "num": 70513,
-      "word": "父亲为脑瘫儿子按摩路人提物资相赠",
-      "onboard_time": 1664808444,
-      "rank": 44,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 69683,
@@ -1635,12 +1667,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 66810,
+      "num": 66810,
+      "word": "李梦有机会将冲击WNBA",
+      "onboard_time": 1664810484,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61560,
       "num": 61560,
       "word": "虞书欣小森林重新定义渣男",
       "onboard_time": 1664709682,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 58683,
+      "num": 58683,
+      "word": "02年女生成全校最小博士生",
+      "onboard_time": 1664810964,
+      "rank": 46,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 58143,
