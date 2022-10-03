@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664817052589,
+  "endTime": 1664819065299,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -4937,6 +4937,14 @@
       "onboard_time": 1664739551,
       "rank": 42,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 29498,
+      "num": 29498,
+      "word": "沉浸式消费经营场所数量暴增400%",
+      "onboard_time": 1664817617,
+      "rank": 34,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 28760,
