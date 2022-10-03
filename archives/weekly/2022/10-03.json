@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1664837183052,
+  "endTime": 1664839867262,
   "band_list": [
     {
       "raw_hot": 3091269,
@@ -523,6 +523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 400843,
+      "num": 400843,
+      "word": "北京10月4日最低温仅4摄氏度",
+      "onboard_time": 1664829971,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 397003,
       "num": 397003,
       "word": "医生隔着妈妈肚皮将宝宝调了个头",
@@ -659,6 +667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 343921,
+      "num": 343921,
+      "word": "特斯拉车主回应堵车没电叫拖车",
+      "onboard_time": 1664807605,
+      "rank": 40,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 341131,
       "num": 341131,
       "word": "中国男团vs斯洛文尼亚男团",
@@ -705,14 +721,6 @@
       "onboard_time": 1664776283,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 324985,
-      "num": 324985,
-      "word": "特斯拉车主回应堵车没电叫拖车",
-      "onboard_time": 1664807605,
-      "rank": 40,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 320586,
@@ -939,14 +947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 240086,
-      "num": 240086,
-      "word": "北京10月4日最低温仅4摄氏度",
-      "onboard_time": 1664829971,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 238097,
       "num": 238097,
       "word": "陈哲远沈月cp名叫南忘今萧",
@@ -1113,6 +1113,14 @@
       "onboard_time": 1664797282,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 187571,
+      "num": 25805,
+      "word": "重阳节",
+      "onboard_time": 1664839817,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187520,
@@ -1299,6 +1307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140183,
+      "num": 140183,
+      "word": "英国商超禁止摆放垃圾食品在显眼处",
+      "onboard_time": 1664831230,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139739,
       "num": 139739,
       "word": "谢谢你们的声音把客场变成中国主场",
@@ -1379,14 +1395,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 125754,
-      "num": 125754,
-      "word": "英国商超禁止摆放垃圾食品在显眼处",
-      "onboard_time": 1664831230,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125636,
       "num": 125636,
       "word": "你听过最好的安慰是怎样的",
@@ -1440,6 +1448,14 @@
       "word": "男子景区开11家十元管饱饭店",
       "onboard_time": 1664766084,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116726,
+      "num": 116726,
+      "word": "河北启动省地震灾害Ⅳ级应急响应",
+      "onboard_time": 1664828950,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1555,6 +1571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95165,
+      "num": 95165,
+      "word": "绿皮火车也能有淋浴酒吧KTV",
+      "onboard_time": 1664831470,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93096,
       "num": 93096,
       "word": "万里归途票房破5亿",
@@ -1643,12 +1667,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 78686,
-      "num": 78686,
-      "word": "绿皮火车也能有淋浴酒吧KTV",
-      "onboard_time": 1664831470,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 78157,
+      "num": 78157,
+      "word": "RNG状态",
+      "onboard_time": 1664825832,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 74868,
@@ -1731,6 +1755,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 68959,
+      "num": 68959,
+      "word": "天津人到底有多爱看热闹",
+      "onboard_time": 1664838556,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 67122,
+      "num": 67122,
+      "word": "守望先锋最后一天",
+      "onboard_time": 1664839756,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 66907,
       "num": 66907,
       "word": "关晓彤话剧舞台饰演秦怡",
@@ -1739,12 +1779,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 61805,
-      "num": 61805,
-      "word": "河北启动省地震灾害Ⅳ级应急响应",
-      "onboard_time": 1664828950,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 65738,
+      "num": 65738,
+      "word": "关晓彤演的社区工作者",
+      "onboard_time": 1664820554,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 61560,
@@ -1779,14 +1819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 53911,
-      "num": 53911,
-      "word": "RNG状态",
-      "onboard_time": 1664825832,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 53010,
       "num": 53010,
       "word": "父母旅游时的主要区别",
@@ -1811,8 +1843,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 48308,
-      "num": 44706,
+      "raw_hot": 49921,
+      "num": 49921,
       "word": "记得存点话留到8号上班讲",
       "onboard_time": 1664820253,
       "rank": 21,
@@ -1875,6 +1907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42041,
+      "num": 25754,
+      "word": "北京大风寒潮双预警生效中",
+      "onboard_time": 1664839817,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40314,
       "num": 40314,
       "word": "哈兰德3分钟2球",
@@ -1891,6 +1931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34564,
+      "num": 34564,
+      "word": "军训拉歌还得是音乐学院",
+      "onboard_time": 1664832190,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 29867,
       "num": 29867,
       "word": "国庆假期郊区旅游约占36%",
@@ -1899,19 +1947,19 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 29345,
+      "num": 29345,
+      "word": "LLL对战DFM",
+      "onboard_time": 1664839517,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 28559,
       "num": 28559,
       "word": "陈哲远综艺之神降临",
       "onboard_time": 1664712684,
       "rank": 44,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 27147,
-      "num": 27147,
-      "word": "关晓彤演的社区工作者",
-      "onboard_time": 1664820554,
-      "rank": 37,
       "category": "影视"
     },
     {
@@ -1923,12 +1971,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 24131,
-      "num": 24131,
-      "word": "军训拉歌还得是音乐学院",
-      "onboard_time": 1664832190,
-      "rank": 49,
-      "category": "情感"
+      "raw_hot": 27046,
+      "num": 27046,
+      "word": "被东北虎林园的小老虎萌到了",
+      "onboard_time": 1664838496,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11127,

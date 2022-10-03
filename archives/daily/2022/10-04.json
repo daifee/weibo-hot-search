@@ -1,6 +1,6 @@
 {
   "startTime": 1664815260200,
-  "endTime": 1664837183052,
+  "endTime": 1664839867262,
   "band_list": [
     {
       "raw_hot": 1414692,
@@ -51,6 +51,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 400843,
+      "num": 400843,
+      "word": "北京10月4日最低温仅4摄氏度",
+      "onboard_time": 1664829971,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 343921,
+      "num": 343921,
+      "word": "特斯拉车主回应堵车没电叫拖车",
+      "onboard_time": 1664807605,
+      "rank": 8,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 322108,
       "num": 322108,
       "word": "会被一些医学知识震惊到",
@@ -67,14 +83,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 240086,
-      "num": 240086,
-      "word": "北京10月4日最低温仅4摄氏度",
-      "onboard_time": 1664829971,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 208839,
       "num": 208839,
       "word": "男子游黄山被堵山上10分钟走1米",
@@ -83,20 +91,20 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 202747,
-      "num": 202747,
-      "word": "特斯拉车主回应堵车没电叫拖车",
-      "onboard_time": 1664807605,
-      "rank": 8,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 192031,
       "num": 192031,
       "word": "黑豹2新预告",
       "onboard_time": 1664805384,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 187571,
+      "num": 25805,
+      "word": "重阳节",
+      "onboard_time": 1664839817,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181007,
@@ -131,6 +139,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 140183,
+      "num": 140183,
+      "word": "英国商超禁止摆放垃圾食品在显眼处",
+      "onboard_time": 1664831230,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130881,
       "num": 130881,
       "word": "万里归途后遗症",
@@ -139,11 +155,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 125754,
-      "num": 125754,
-      "word": "英国商超禁止摆放垃圾食品在显眼处",
-      "onboard_time": 1664831230,
-      "rank": 22,
+      "raw_hot": 126376,
+      "num": 126376,
+      "word": "淡定鸭鸭暴雨中集体站立淋雨",
+      "onboard_time": 1664801124,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -155,12 +171,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 116726,
+      "num": 116726,
+      "word": "河北启动省地震灾害Ⅳ级应急响应",
+      "onboard_time": 1664828950,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112747,
       "num": 112747,
       "word": "公司要破产我该不该辞职",
       "onboard_time": 1664797043,
       "rank": 17,
       "category": "社会议题,影视"
+    },
+    {
+      "raw_hot": 105670,
+      "num": 105670,
+      "word": "男子高铁遇老人独带娃主动帮抱",
+      "onboard_time": 1664802144,
+      "rank": 24,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 103865,
@@ -203,28 +235,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95165,
+      "num": 95165,
+      "word": "绿皮火车也能有淋浴酒吧KTV",
+      "onboard_time": 1664831470,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91507,
       "num": 91507,
       "word": "原来小狗也是变脸大师",
       "onboard_time": 1664810004,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 91136,
-      "num": 91136,
-      "word": "男子高铁遇老人独带娃主动帮抱",
-      "onboard_time": 1664802144,
-      "rank": 24,
-      "category": "社会正能量"
-    },
-    {
-      "raw_hot": 90948,
-      "num": 90948,
-      "word": "淡定鸭鸭暴雨中集体站立淋雨",
-      "onboard_time": 1664801124,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 83865,
@@ -275,12 +299,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 78686,
-      "num": 78686,
-      "word": "绿皮火车也能有淋浴酒吧KTV",
-      "onboard_time": 1664831470,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 78157,
+      "num": 78157,
+      "word": "RNG状态",
+      "onboard_time": 1664825832,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 74752,
@@ -331,20 +355,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 68959,
+      "num": 68959,
+      "word": "天津人到底有多爱看热闹",
+      "onboard_time": 1664838556,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 67122,
+      "num": 67122,
+      "word": "守望先锋最后一天",
+      "onboard_time": 1664839756,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 65738,
+      "num": 65738,
+      "word": "关晓彤演的社区工作者",
+      "onboard_time": 1664820554,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 62381,
       "num": 62381,
       "word": "凭本事获得床位的猫咪",
       "onboard_time": 1664805684,
       "rank": 36,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 61805,
-      "num": 61805,
-      "word": "河北启动省地震灾害Ⅳ级应急响应",
-      "onboard_time": 1664828950,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 61764,
@@ -371,12 +411,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 53911,
-      "num": 53911,
-      "word": "RNG状态",
-      "onboard_time": 1664825832,
-      "rank": 49,
-      "category": "游戏"
+      "raw_hot": 49921,
+      "num": 49921,
+      "word": "记得存点话留到8号上班讲",
+      "onboard_time": 1664820253,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 49003,
@@ -385,14 +425,6 @@
       "onboard_time": 1664808204,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 48308,
-      "num": 44706,
-      "word": "记得存点话留到8号上班讲",
-      "onboard_time": 1664820253,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 46965,
@@ -427,6 +459,22 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 42041,
+      "num": 25754,
+      "word": "北京大风寒潮双预警生效中",
+      "onboard_time": 1664839817,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40986,
+      "num": 460562,
+      "word": "多机位打开国庆节氛围感",
+      "onboard_time": 1664800944,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 40594,
       "num": 40594,
       "word": "高卿尘新剧古装造型路透",
@@ -443,12 +491,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 36714,
-      "num": 460562,
-      "word": "多机位打开国庆节氛围感",
-      "onboard_time": 1664800944,
-      "rank": 2,
-      "category": "国内要闻"
+      "raw_hot": 36176,
+      "num": 36176,
+      "word": "2022年诺贝尔生理学或医学奖揭晓",
+      "onboard_time": 1664790203,
+      "rank": 48,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 35496,
@@ -467,12 +515,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 27147,
-      "num": 27147,
-      "word": "关晓彤演的社区工作者",
-      "onboard_time": 1664820554,
-      "rank": 37,
-      "category": "影视"
+      "raw_hot": 34564,
+      "num": 34564,
+      "word": "军训拉歌还得是音乐学院",
+      "onboard_time": 1664832190,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 29345,
+      "num": 29345,
+      "word": "LLL对战DFM",
+      "onboard_time": 1664839517,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 27101,
@@ -483,20 +539,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 24131,
-      "num": 24131,
-      "word": "军训拉歌还得是音乐学院",
-      "onboard_time": 1664832190,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 22379,
-      "num": 22379,
-      "word": "2022年诺贝尔生理学或医学奖揭晓",
-      "onboard_time": 1664790203,
-      "rank": 48,
-      "category": "社会新闻,科技"
+      "raw_hot": 27046,
+      "num": 27046,
+      "word": "被东北虎林园的小老虎萌到了",
+      "onboard_time": 1664838496,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11127,
