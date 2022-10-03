@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/04 00:41:00
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/04 01:10:52
 </p>
 </blockquote>
 <p>
@@ -3063,6 +3063,12 @@ RNG失误（热度：114450）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E8%BD%BB%E5%8A%9F%E5%90%A7%23" target="weibo">
+这是轻功吧（热度：95636）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E4%BB%8A%E5%A4%A9%E7%9A%84%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA%23" target="weibo">
 这是今天的天安门广场（热度：94490）
 </a>
@@ -3287,6 +3293,12 @@ DRX对战MAD（热度：89155）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%9C%BA%E4%BD%8D%E6%89%93%E5%BC%80%E5%9B%BD%E5%BA%86%E8%8A%82%E6%B0%9B%E5%9B%B4%E6%84%9F%23" target="weibo">
 多机位打开国庆节氛围感（热度：74398）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E6%96%B0%E5%89%A7%E5%93%AD%E6%88%8F%23" target="weibo">
+檀健次新剧哭戏（热度：72338）
 </a>
 </li>
 
@@ -3647,12 +3659,6 @@ RNG对战SGB（热度：45627）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%95%E7%BA%BF%E7%99%BB%E5%89%A7%E9%9B%86%E5%BD%B1%E5%93%8D%E5%8A%9B%E6%A6%9C%E6%A6%9C%E9%A6%96%23" target="weibo">
 底线登剧集影响力榜榜首（热度：41085）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E8%BD%BB%E5%8A%9F%E5%90%A7%23" target="weibo">
-这是轻功吧（热度：40525）
 </a>
 </li>
 

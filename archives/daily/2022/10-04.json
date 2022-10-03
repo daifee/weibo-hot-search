@@ -1,6 +1,6 @@
 {
   "startTime": 1664815260200,
-  "endTime": 1664815260200,
+  "endTime": 1664817052589,
   "band_list": [
     {
       "raw_hot": 1414692,
@@ -179,6 +179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 95636,
+      "num": 95636,
+      "word": "这是轻功吧",
+      "onboard_time": 1664814200,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91507,
       "num": 91507,
       "word": "原来小狗也是变脸大师",
@@ -275,6 +283,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 72338,
+      "num": 72338,
+      "word": "檀健次新剧哭戏",
+      "onboard_time": 1664815760,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 70692,
       "num": 70692,
       "word": "檀健次新剧公司面临破产",
@@ -361,14 +377,6 @@
       "onboard_time": 1664797885,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 40525,
-      "num": 40525,
-      "word": "这是轻功吧",
-      "onboard_time": 1664814200,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 38433,
