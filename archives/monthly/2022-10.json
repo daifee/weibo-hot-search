@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664822147678,
+  "endTime": 1664823348773,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -4779,6 +4779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 48308,
+      "num": 35868,
+      "word": "记得存点话留到8号上班讲",
+      "onboard_time": 1664820253,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 48028,
       "num": 281001,
       "word": "男子溺水挣扎众人呼喊接力救援",
@@ -4939,14 +4947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30061,
-      "num": 30061,
-      "word": "记得存点话留到8号上班讲",
-      "onboard_time": 1664820253,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 29867,
       "num": 29867,
       "word": "国庆假期郊区旅游约占36%",
@@ -4963,6 +4963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27101,
+      "num": 27101,
+      "word": "乌云遇皎月还原度",
+      "onboard_time": 1664819775,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 23728,
       "num": 23728,
       "word": "中国女排战胜捷克队",
@@ -4971,20 +4979,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 22859,
-      "num": 22859,
-      "word": "乌云遇皎月还原度",
-      "onboard_time": 1664819775,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 19434,
       "num": 19434,
       "word": "滑滑梯的小熊猫",
       "onboard_time": 1664561715,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 18379,
+      "num": 18379,
+      "word": "关晓彤演的社区工作者",
+      "onboard_time": 1664820554,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 10343,
