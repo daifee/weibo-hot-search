@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1664797242946,
+  "endTime": 1664801647506,
   "band_list": [
     {
       "raw_hot": 3091269,
@@ -25,6 +25,14 @@
       "onboard_time": 1664782401,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1910204,
+      "num": 283102,
+      "word": "iPhone在6人死亡车祸中自动求救",
+      "onboard_time": 1664796084,
+      "rank": 42,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 1654547,
@@ -57,14 +65,6 @@
       "onboard_time": 1664724204,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1378684,
-      "num": 283102,
-      "word": "iPhone在6人死亡车祸中自动求救",
-      "onboard_time": 1664796084,
-      "rank": 42,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 1195211,
@@ -121,6 +121,14 @@
       "onboard_time": 1664786483,
       "rank": 26,
       "category": "科技"
+    },
+    {
+      "raw_hot": 819530,
+      "num": 288060,
+      "word": "公司要破产我该不该辞职",
+      "onboard_time": 1664797043,
+      "rank": 19,
+      "category": "社会议题,影视"
     },
     {
       "raw_hot": 793130,
@@ -185,6 +193,14 @@
       "onboard_time": 1664781680,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 678086,
+      "num": 462936,
+      "word": "TouchID不太可能回到iPhone",
+      "onboard_time": 1664799442,
+      "rank": 3,
+      "category": "科技"
     },
     {
       "raw_hot": 673954,
@@ -363,6 +379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 445978,
+      "num": 445978,
+      "word": "韩国建军节宣传片出现中国装甲车",
+      "onboard_time": 1664793442,
+      "rank": 29,
+      "category": "军事"
+    },
+    {
       "raw_hot": 445805,
       "num": 311666,
       "word": "生孩子的过程和感受",
@@ -387,14 +411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 432481,
-      "num": 432481,
-      "word": "韩国建军节宣传片出现中国装甲车",
-      "onboard_time": 1664793442,
-      "rank": 29,
-      "category": "军事"
-    },
-    {
       "raw_hot": 428049,
       "num": 428049,
       "word": "BLACKPINKShutDown获人歌一位",
@@ -417,6 +433,14 @@
       "onboard_time": 1664775982,
       "rank": 37,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 405593,
+      "num": 405593,
+      "word": "原来鲜花还可以这么保存",
+      "onboard_time": 1664796441,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 401231,
@@ -515,6 +539,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 348599,
+      "num": 201176,
+      "word": "货车着火近百头猪被烤熟",
+      "onboard_time": 1664796984,
+      "rank": 37,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 346028,
       "num": 346028,
       "word": "孙颖莎3比0战胜张安",
@@ -611,6 +643,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 290014,
+      "num": 290014,
+      "word": "万茜拍万里归途时刚拆钢板",
+      "onboard_time": 1664799621,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 289569,
       "num": 289569,
       "word": "周亦安决定辞职",
@@ -625,6 +665,14 @@
       "onboard_time": 1664772860,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284363,
+      "num": 284363,
+      "word": "河南卫视神仙节目上新了",
+      "onboard_time": 1664799685,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 276709,
@@ -657,6 +705,14 @@
       "onboard_time": 1664785641,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 262009,
+      "num": 262009,
+      "word": "医保谈判代表说自己克制着高兴心情",
+      "onboard_time": 1664798904,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 261929,
@@ -803,6 +859,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 224146,
+      "num": 224146,
+      "word": "高卿尘新剧古装造型路透",
+      "onboard_time": 1664797885,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 219576,
       "num": 219576,
       "word": "小长假必看综艺",
@@ -843,12 +907,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 205426,
-      "num": 205426,
-      "word": "公司要破产我该不该辞职",
-      "onboard_time": 1664797043,
-      "rank": 19,
-      "category": "社会议题,影视"
+      "raw_hot": 202605,
+      "num": 202605,
+      "word": "MRC夺冠",
+      "onboard_time": 1664801425,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 201264,
@@ -865,6 +929,14 @@
       "onboard_time": 1664762364,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 198050,
+      "num": 198050,
+      "word": "王楚钦3比1达科",
+      "onboard_time": 1664800163,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 193096,
@@ -891,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184173,
+      "num": 184173,
+      "word": "北溪管道爆炸威力相当于数百公斤炸药",
+      "onboard_time": 1664796624,
+      "rank": 46,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 183123,
       "num": 183123,
       "word": "导弹专家为国隐姓埋名60余年",
@@ -905,6 +985,14 @@
       "onboard_time": 1664771541,
       "rank": 23,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 178460,
+      "num": 178460,
+      "word": "万里归途后遗症",
+      "onboard_time": 1664797282,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 176410,
@@ -963,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158434,
+      "num": 158434,
+      "word": "成毅演戏情绪张力",
+      "onboard_time": 1664797465,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 157782,
       "num": 131547,
       "word": "王嘉尔VOGUE新加坡版10月封面",
@@ -985,6 +1081,14 @@
       "onboard_time": 1664794043,
       "rank": 23,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 148364,
+      "num": 132987,
+      "word": "张译站起来的原因找到了",
+      "onboard_time": 1664798421,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 146499,
@@ -1243,6 +1347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 84845,
+      "num": 84845,
+      "word": "这就是国庆在家的我吧",
+      "onboard_time": 1664800225,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 83635,
       "num": 83635,
       "word": "罗一舟关晓彤同框",
@@ -1251,12 +1363,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 80726,
-      "num": 80726,
-      "word": "货车着火近百头猪被烤熟",
-      "onboard_time": 1664796984,
-      "rank": 37,
-      "category": "社会负面"
+      "raw_hot": 79443,
+      "num": 79443,
+      "word": "淡定鸭鸭暴雨中集体站立淋雨",
+      "onboard_time": 1664801124,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 79411,
@@ -1304,6 +1416,14 @@
       "word": "国乒女团战胜美国队",
       "onboard_time": 1664790921,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 71292,
+      "num": 71292,
+      "word": "樊振东3比0科祖尔",
+      "onboard_time": 1664797945,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -1363,14 +1483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 53986,
-      "num": 53986,
-      "word": "原来鲜花还可以这么保存",
-      "onboard_time": 1664796441,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 53010,
       "num": 53010,
       "word": "父母旅游时的主要区别",
@@ -1385,14 +1497,6 @@
       "onboard_time": 1664791462,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 52343,
-      "num": 52343,
-      "word": "北溪管道爆炸威力相当于数百公斤炸药",
-      "onboard_time": 1664796624,
-      "rank": 46,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 51717,
@@ -1489,6 +1593,14 @@
       "onboard_time": 1664712684,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 25682,
+      "num": 470510,
+      "word": "多机位打开国庆节氛围感",
+      "onboard_time": 1664800944,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 9058,
