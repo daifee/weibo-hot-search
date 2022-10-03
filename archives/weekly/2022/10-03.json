@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1664839867262,
+  "endTime": 1664840864340,
   "band_list": [
     {
       "raw_hot": 3091269,
@@ -355,6 +355,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 491791,
+      "num": 491791,
+      "word": "北京10月4日最低温仅4摄氏度",
+      "onboard_time": 1664829971,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 486299,
       "num": 486299,
       "word": "上海打破10月最高气温纪录",
@@ -515,20 +523,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 401284,
+      "num": 401284,
+      "word": "特斯拉车主回应堵车没电叫拖车",
+      "onboard_time": 1664807605,
+      "rank": 40,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 401231,
       "num": 307217,
       "word": "张杰的歌曲始终沸腾滚烫",
       "onboard_time": 1664778801,
       "rank": 11,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 400843,
-      "num": 400843,
-      "word": "北京10月4日最低温仅4摄氏度",
-      "onboard_time": 1664829971,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 397003,
@@ -667,14 +675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 343921,
-      "num": 343921,
-      "word": "特斯拉车主回应堵车没电叫拖车",
-      "onboard_time": 1664807605,
-      "rank": 40,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 341131,
       "num": 341131,
       "word": "中国男团vs斯洛文尼亚男团",
@@ -779,6 +779,22 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 297821,
+      "num": 297821,
+      "word": "重阳节",
+      "onboard_time": 1664839817,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295958,
+      "num": 295958,
+      "word": "熊猫的肚皮原来可以当小饭桌用",
+      "onboard_time": 1664809824,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289569,
       "num": 289569,
       "word": "周亦安决定辞职",
@@ -801,14 +817,6 @@
       "onboard_time": 1664804964,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 279625,
-      "num": 279625,
-      "word": "熊猫的肚皮原来可以当小饭桌用",
-      "onboard_time": 1664809824,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 276709,
@@ -1115,14 +1123,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 187571,
-      "num": 25805,
-      "word": "重阳节",
-      "onboard_time": 1664839817,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 187520,
       "num": 187520,
       "word": "北京大兴报告1名核酸阳性人员",
@@ -1185,6 +1185,14 @@
       "onboard_time": 1664721383,
       "rank": 20,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 171320,
+      "num": 171320,
+      "word": "天津人到底有多爱看热闹",
+      "onboard_time": 1664838556,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 165427,
@@ -1275,6 +1283,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 149174,
+      "num": 149174,
+      "word": "英国商超禁止摆放垃圾食品在显眼处",
+      "onboard_time": 1664831230,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148924,
       "num": 148924,
       "word": "虞书欣张彬彬小森林夫妻新副本",
@@ -1307,14 +1323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 140183,
-      "num": 140183,
-      "word": "英国商超禁止摆放垃圾食品在显眼处",
-      "onboard_time": 1664831230,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139739,
       "num": 139739,
       "word": "谢谢你们的声音把客场变成中国主场",
@@ -1344,6 +1352,14 @@
       "word": "河南增14例本土无症状",
       "onboard_time": 1664768722,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136619,
+      "num": 136619,
+      "word": "河北启动省地震灾害Ⅳ级应急响应",
+      "onboard_time": 1664828950,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1427,6 +1443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 121500,
+      "num": 121500,
+      "word": "RNG状态",
+      "onboard_time": 1664825832,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 120911,
       "num": 120911,
       "word": "老人景区昏倒游客接力心肺复苏",
@@ -1451,20 +1475,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 116726,
-      "num": 116726,
-      "word": "河北启动省地震灾害Ⅳ级应急响应",
-      "onboard_time": 1664828950,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 116620,
       "num": 116620,
       "word": "太原新增5例感染者",
       "onboard_time": 1664727562,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116553,
+      "num": 116553,
+      "word": "守望先锋最后一天",
+      "onboard_time": 1664839756,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 116153,
@@ -1553,6 +1577,14 @@
       "onboard_time": 1664714123,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 100779,
+      "num": 100779,
+      "word": "长辈未说出口的那些话",
+      "onboard_time": 1664839876,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 100303,
@@ -1651,6 +1683,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 82528,
+      "num": 82528,
+      "word": "伊瓜因宣布退役",
+      "onboard_time": 1664839995,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79411,
       "num": 79411,
       "word": "被吓过的小猫有多记仇",
@@ -1667,12 +1707,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 78157,
-      "num": 78157,
-      "word": "RNG状态",
-      "onboard_time": 1664825832,
-      "rank": 49,
-      "category": "游戏"
+      "raw_hot": 75238,
+      "num": 75238,
+      "word": "男孩交给警察1只4眼蓝血小怪物",
+      "onboard_time": 1664840657,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74868,
@@ -1689,6 +1729,14 @@
       "onboard_time": 1664800944,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 73653,
+      "num": 73653,
+      "word": "关晓彤演的社区工作者",
+      "onboard_time": 1664820554,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 73610,
@@ -1755,20 +1803,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 68959,
-      "num": 68959,
-      "word": "天津人到底有多爱看热闹",
-      "onboard_time": 1664838556,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 67122,
-      "num": 67122,
-      "word": "守望先锋最后一天",
-      "onboard_time": 1664839756,
-      "rank": 25,
-      "category": "游戏"
+      "raw_hot": 69263,
+      "num": 69263,
+      "word": "北京大风寒潮双预警生效中",
+      "onboard_time": 1664839817,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66907,
@@ -1779,12 +1819,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 65738,
-      "num": 65738,
-      "word": "关晓彤演的社区工作者",
-      "onboard_time": 1664820554,
-      "rank": 37,
-      "category": "影视"
+      "raw_hot": 66409,
+      "num": 66409,
+      "word": "被东北虎林园的小老虎萌到了",
+      "onboard_time": 1664838496,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 65495,
+      "num": 65495,
+      "word": "记得存点话留到8号上班讲",
+      "onboard_time": 1664820253,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 61560,
@@ -1819,6 +1867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53026,
+      "num": 53026,
+      "word": "全国曾经只有一人的专业有多寂寞",
+      "onboard_time": 1664840719,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53010,
       "num": 53010,
       "word": "父母旅游时的主要区别",
@@ -1843,12 +1899,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 49921,
-      "num": 49921,
-      "word": "记得存点话留到8号上班讲",
-      "onboard_time": 1664820253,
-      "rank": 21,
-      "category": "幽默"
+      "raw_hot": 48739,
+      "num": 48739,
+      "word": "电影海报还能这么整活",
+      "onboard_time": 1664840177,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 48028,
@@ -1907,20 +1963,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 42041,
-      "num": 25754,
-      "word": "北京大风寒潮双预警生效中",
-      "onboard_time": 1664839817,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 40314,
       "num": 40314,
       "word": "哈兰德3分钟2球",
       "onboard_time": 1664719824,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 39338,
+      "num": 39338,
+      "word": "LLL对战DFM",
+      "onboard_time": 1664839517,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 37242,
@@ -1947,14 +2003,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 29345,
-      "num": 29345,
-      "word": "LLL对战DFM",
-      "onboard_time": 1664839517,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 28559,
       "num": 28559,
       "word": "陈哲远综艺之神降临",
@@ -1969,14 +2017,6 @@
       "onboard_time": 1664819775,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 27046,
-      "num": 27046,
-      "word": "被东北虎林园的小老虎萌到了",
-      "onboard_time": 1664838496,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 11127,
