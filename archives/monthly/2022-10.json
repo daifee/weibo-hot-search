@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664915439468,
+  "endTime": 1664916423796,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -6675,6 +6675,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 29108,
+      "num": 26668,
+      "word": "男子高速停车将掉落广告牌拉路边",
+      "onboard_time": 1664910851,
+      "rank": 47,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 28760,
       "num": 28760,
       "word": "2022女排世锦赛",
@@ -6691,8 +6699,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 23939,
-      "num": 23939,
+      "raw_hot": 25893,
+      "num": 25893,
       "word": "EG对战MAD",
       "onboard_time": 1664913011,
       "rank": 13,
@@ -6705,14 +6713,6 @@
       "onboard_time": 1664545644,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 22149,
-      "num": 22149,
-      "word": "男子高速停车将掉落广告牌拉路边",
-      "onboard_time": 1664910851,
-      "rank": 47,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 19434,
@@ -6755,6 +6755,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 8888,
+      "num": 8888,
+      "word": "军人洗碗后将抹布叠得像板砖",
+      "onboard_time": 1664913671,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 7982,
       "num": 7982,
       "word": "永康白云水库附近发生山火",
@@ -6779,14 +6787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 6732,
-      "num": 6732,
-      "word": "军人洗碗后将抹布叠得像板砖",
-      "onboard_time": 1664913671,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 6528,
       "num": 6528,
       "word": "成都现6级大风降温明显",
@@ -6809,6 +6809,14 @@
       "onboard_time": 1664652973,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 6385,
+      "num": 8254,
+      "word": "内蒙古阿尔山今秋首场降雪",
+      "onboard_time": 1664915650,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 6324,
@@ -6867,11 +6875,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 5662,
+      "num": 8254,
+      "word": "国庆气温跳水有多强",
+      "onboard_time": 1664916190,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5550,
+      "num": 8253,
+      "word": "被闫安解说笑死了",
+      "onboard_time": 1664916190,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 5517,
       "num": 5517,
       "word": "今年重阳节巧遇国庆假期",
       "onboard_time": 1664828351,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5496,
+      "num": 8253,
+      "word": "河南新增本土确诊2例无症状12例",
+      "onboard_time": 1664916251,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -6881,6 +6913,14 @@
       "onboard_time": 1664745070,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5388,
+      "num": 8253,
+      "word": "海军专属浪花白太浪漫了",
+      "onboard_time": 1664915471,
+      "rank": 49,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 5380,
