@@ -1,7 +1,15 @@
 {
   "startTime": 1664815260200,
-  "endTime": 1664893167229,
+  "endTime": 1664895376575,
   "band_list": [
+    {
+      "raw_hot": 2529091,
+      "num": 579077,
+      "word": "新疆暂停全疆离疆客运列车",
+      "onboard_time": 1664892685,
+      "rank": 13,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2392141,
       "num": 819562,
@@ -89,6 +97,14 @@
       "onboard_time": 1664851582,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1287465,
+      "num": 1287465,
+      "word": "一旦买了洞洞鞋",
+      "onboard_time": 1664892804,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 1260696,
@@ -225,6 +241,14 @@
       "onboard_time": 1664876422,
       "rank": 29,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 682924,
+      "num": 682924,
+      "word": "景区回应女子雇轿抬狗上山",
+      "onboard_time": 1664891364,
+      "rank": 37,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 636116,
@@ -371,6 +395,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 480541,
+      "num": 414011,
+      "word": "欧盟批准强制苹果使用USB C接口",
+      "onboard_time": 1664893646,
+      "rank": 10,
+      "category": "科技"
+    },
+    {
       "raw_hot": 476247,
       "num": 476247,
       "word": "蔡文静说最气人的案件来了",
@@ -401,6 +433,14 @@
       "onboard_time": 1664782401,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 462391,
+      "num": 462391,
+      "word": "金秋天NewThing舞蹈挑战",
+      "onboard_time": 1664894244,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 460628,
@@ -451,6 +491,14 @@
       "category": "国外要闻,财经"
     },
     {
+      "raw_hot": 436908,
+      "num": 436908,
+      "word": "再就业男团一出现就有笑点",
+      "onboard_time": 1664891004,
+      "rank": 14,
+      "category": "幽默,综艺"
+    },
+    {
       "raw_hot": 434386,
       "num": 434386,
       "word": "王俊凯万里归途票房破6亿",
@@ -465,6 +513,14 @@
       "onboard_time": 1664889863,
       "rank": 41,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 411982,
+      "num": 411982,
+      "word": "我的童年报复性补偿行为",
+      "onboard_time": 1664892563,
+      "rank": 28,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 406679,
@@ -515,14 +571,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 386176,
-      "num": 386176,
-      "word": "再就业男团一出现就有笑点",
-      "onboard_time": 1664891004,
-      "rank": 14,
-      "category": "幽默,综艺"
-    },
-    {
       "raw_hot": 383424,
       "num": 352361,
       "word": "陈可辛章子怡将合作新剧",
@@ -571,12 +619,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 327743,
-      "num": 278937,
-      "word": "新疆暂停全疆离疆客运列车",
-      "onboard_time": 1664892685,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 351259,
+      "num": 351259,
+      "word": "哪一刻你意识到应该多读书",
+      "onboard_time": 1664890465,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 322108,
@@ -657,14 +705,6 @@
       "onboard_time": 1664873663,
       "rank": 9,
       "category": "社会新闻,影视"
-    },
-    {
-      "raw_hot": 287352,
-      "num": 287352,
-      "word": "哪一刻你意识到应该多读书",
-      "onboard_time": 1664890465,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 286862,
@@ -755,14 +795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 245947,
-      "num": 245947,
-      "word": "景区回应女子雇轿抬狗上山",
-      "onboard_time": 1664891364,
-      "rank": 37,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 236391,
       "num": 236391,
       "word": "第一次见打针这么乖的小狗",
@@ -777,6 +809,14 @@
       "onboard_time": 1664848701,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226562,
+      "num": 226562,
+      "word": "电视剧底线",
+      "onboard_time": 1664894547,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 226484,
@@ -840,6 +880,14 @@
       "word": "10月3日新增本土确诊250例",
       "onboard_time": 1664846483,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213593,
+      "num": 213593,
+      "word": "北京朝阳新增感染者涉及风险点位",
+      "onboard_time": 1664893104,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -979,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178138,
+      "num": 178138,
+      "word": "陈哲远演的萧无敌是戏精吧",
+      "onboard_time": 1664894244,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 174829,
       "num": 174829,
       "word": "英雄联盟S12",
@@ -1016,6 +1072,14 @@
       "word": "萌娃初次剃头后炸毛成海胆宝宝",
       "onboard_time": 1664841739,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163338,
+      "num": 163338,
+      "word": "南方降温让预报图冷到发紫",
+      "onboard_time": 1664891364,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1073,6 +1137,14 @@
       "onboard_time": 1664831230,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146441,
+      "num": 146441,
+      "word": "反恐现场子弹就在头顶上飞",
+      "onboard_time": 1664891664,
+      "rank": 46,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 145741,
@@ -1155,14 +1227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 137227,
-      "num": 137227,
-      "word": "我的童年报复性补偿行为",
-      "onboard_time": 1664892563,
-      "rank": 28,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 137095,
       "num": 137095,
       "word": "中国女团vs马来西亚女团",
@@ -1192,14 +1256,6 @@
       "word": "国庆假期偶遇执勤警犬歪头杀",
       "onboard_time": 1664852602,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 133547,
-      "num": 133547,
-      "word": "南方降温让预报图冷到发紫",
-      "onboard_time": 1664891364,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1347,6 +1403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116095,
+      "num": 116095,
+      "word": "成都世乒赛16强对阵",
+      "onboard_time": 1664893705,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115302,
       "num": 115302,
       "word": "男子高铁遇老人独带娃主动帮抱",
@@ -1483,6 +1547,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 97877,
+      "num": 67544,
+      "word": "你是隐形社恐吗",
+      "onboard_time": 1664895326,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 97788,
       "num": 97788,
       "word": "国乒男团战泰国名单出炉",
@@ -1507,14 +1579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 94914,
-      "num": 94914,
-      "word": "反恐现场子弹就在头顶上飞",
-      "onboard_time": 1664891664,
-      "rank": 46,
-      "category": "军事,社会新闻"
-    },
-    {
       "raw_hot": 91507,
       "num": 91507,
       "word": "原来小狗也是变脸大师",
@@ -1537,14 +1601,6 @@
       "onboard_time": 1664843541,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 90372,
-      "num": 90372,
-      "word": "一旦买了洞洞鞋",
-      "onboard_time": 1664892804,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 85579,
@@ -1617,6 +1673,14 @@
       "onboard_time": 1664798421,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 80003,
+      "num": 80003,
+      "word": "怎样有礼貌的挂断骚扰电话",
+      "onboard_time": 1664894907,
+      "rank": 43,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 79319,
@@ -1747,6 +1811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67711,
+      "num": 67711,
+      "word": "狗狗也有心累的时候吧",
+      "onboard_time": 1664895145,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 67070,
       "num": 67070,
       "word": "陈怡馨说年少的朋友不会走散",
@@ -1833,14 +1905,6 @@
       "onboard_time": 1664800225,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 55343,
-      "num": 69233,
-      "word": "北京朝阳新增感染者涉及风险点位",
-      "onboard_time": 1664893104,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 52478,

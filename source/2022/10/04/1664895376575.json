@@ -1,0 +1,410 @@
+{
+  "runTime": 1664895376575,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1287465,
+        "num": 1287465,
+        "word": "一旦买了洞洞鞋",
+        "onboard_time": 1664892804,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1202572,
+        "num": 1202572,
+        "word": "37岁白发缉毒警被误认成孩子爷爷",
+        "onboard_time": 1664885903,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11275,
+        "num": 795294,
+        "word": "多机位打开国庆节氛围感",
+        "onboard_time": 1664800944,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 751039,
+        "num": 751039,
+        "word": "鸟鸟躺的时候想卷卷的时候想躺",
+        "onboard_time": 1664889204,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 682924,
+        "num": 682924,
+        "word": "景区回应女子雇轿抬狗上山",
+        "onboard_time": 1664891364,
+        "rank": 4,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 2529091,
+        "num": 579077,
+        "word": "新疆暂停全疆离疆客运列车",
+        "onboard_time": 1664892685,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 891975,
+        "num": 540908,
+        "word": "乌鲁木齐各区县人员暂不离乌",
+        "onboard_time": 1664891004,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462391,
+        "num": 462391,
+        "word": "金秋天NewThing舞蹈挑战",
+        "onboard_time": 1664894244,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 436908,
+        "num": 436908,
+        "word": "再就业男团一出现就有笑点",
+        "onboard_time": 1664891004,
+        "rank": 8,
+        "category": "幽默,综艺"
+      },
+      {
+        "raw_hot": 415843,
+        "num": 415843,
+        "word": "广东一婚宴不收礼金只撕红包一角",
+        "onboard_time": 1664879362,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480541,
+        "num": 414011,
+        "word": "欧盟批准强制苹果使用USB C接口",
+        "onboard_time": 1664893646,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 411982,
+        "num": 411982,
+        "word": "我的童年报复性补偿行为",
+        "onboard_time": 1664892563,
+        "rank": 11,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 354033,
+        "num": 354033,
+        "word": "女孩出嫁哥弟俩哭成泪人",
+        "onboard_time": 1664889863,
+        "rank": 12,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 351259,
+        "num": 351259,
+        "word": "哪一刻你意识到应该多读书",
+        "onboard_time": 1664890465,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 314409,
+        "num": 314409,
+        "word": "周亦安泪别法庭",
+        "onboard_time": 1664888483,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 289721,
+        "num": 289721,
+        "word": "猫咪初见出生3天小主人瞠目观望",
+        "onboard_time": 1664883503,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270749,
+        "num": 270749,
+        "word": "陈可辛章子怡将合作新剧",
+        "onboard_time": 1664891063,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267997,
+        "num": 267997,
+        "word": "爸爸精心剥虾递给女儿被丢掉",
+        "onboard_time": 1664877263,
+        "rank": 17,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 249972,
+        "num": 249972,
+        "word": "呼兰躺和卷是不一样的价格",
+        "onboard_time": 1664890524,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229612,
+        "num": 229612,
+        "word": "儿子拒绝赡养母亲将房产赠与扶养人",
+        "onboard_time": 1664882182,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226562,
+        "num": 226562,
+        "word": "电视剧底线",
+        "onboard_time": 1664894547,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214839,
+        "num": 214839,
+        "word": "第一次见打针这么乖的小狗",
+        "onboard_time": 1664890884,
+        "rank": 21,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 213593,
+        "num": 213593,
+        "word": "北京朝阳新增感染者涉及风险点位",
+        "onboard_time": 1664893104,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210328,
+        "num": 210328,
+        "word": "鸡毛飞上天",
+        "onboard_time": 1664869943,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204377,
+        "num": 204377,
+        "word": "双向奔赴才能让爱有意义",
+        "onboard_time": 1664885423,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184020,
+        "num": 184020,
+        "word": "泽连斯基签署不与普京谈判决定",
+        "onboard_time": 1664876422,
+        "rank": 25,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 178138,
+        "num": 178138,
+        "word": "陈哲远演的萧无敌是戏精吧",
+        "onboard_time": 1664894244,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164469,
+        "num": 164469,
+        "word": "曝广东男篮29人被隔离",
+        "onboard_time": 1664879423,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163338,
+        "num": 163338,
+        "word": "南方降温让预报图冷到发紫",
+        "onboard_time": 1664891364,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146441,
+        "num": 146441,
+        "word": "反恐现场子弹就在头顶上飞",
+        "onboard_time": 1664891664,
+        "rank": 29,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 176000,
+        "num": 143928,
+        "word": "蔡文静说最气人的案件来了",
+        "onboard_time": 1664885303,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173739,
+        "num": 141708,
+        "word": "周博文爸妈被迫官宣二胎",
+        "onboard_time": 1664890704,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149865,
+        "num": 141292,
+        "word": "因为我当年喜欢EXO",
+        "onboard_time": 1664857223,
+        "rank": 32,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 138620,
+        "num": 138620,
+        "word": "山东冷成了山冻",
+        "onboard_time": 1664863641,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137089,
+        "num": 137089,
+        "word": "高卿尘第一部古装新剧开机",
+        "onboard_time": 1664891722,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134941,
+        "num": 134941,
+        "word": "我迟早过上这种退休生活",
+        "onboard_time": 1664889805,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131985,
+        "num": 131985,
+        "word": "北溪泄漏后的甲烷云几天后将到北极",
+        "onboard_time": 1664878942,
+        "rank": 36,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 116095,
+        "num": 116095,
+        "word": "成都世乒赛16强对阵",
+        "onboard_time": 1664893705,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102056,
+        "num": 102056,
+        "word": "男子拿走蜂王被蜂群爬车窗追一路",
+        "onboard_time": 1664875040,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98196,
+        "num": 98196,
+        "word": "为什么越来越多老年人变年轻了",
+        "onboard_time": 1664879122,
+        "rank": 39,
+        "category": "情感,社会议题"
+      },
+      {
+        "raw_hot": 118004,
+        "num": 97134,
+        "word": "王一博这就是街舞5光影花絮照",
+        "onboard_time": 1664880804,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95984,
+        "num": 95984,
+        "word": "2022年诺贝尔物理学奖揭晓",
+        "onboard_time": 1664877622,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91193,
+        "num": 91193,
+        "word": "2023考研明天开始报名",
+        "onboard_time": 1664876902,
+        "rank": 42,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 80003,
+        "num": 80003,
+        "word": "怎样有礼貌的挂断骚扰电话",
+        "onboard_time": 1664894907,
+        "rank": 43,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 77313,
+        "num": 77313,
+        "word": "四川冕宁县3.6级地震",
+        "onboard_time": 1664890345,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74523,
+        "num": 74523,
+        "word": "美国在叙非法驻军再次偷盗叙石油",
+        "onboard_time": 1664881344,
+        "rank": 45,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 67711,
+        "num": 67711,
+        "word": "狗狗也有心累的时候吧",
+        "onboard_time": 1664895145,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 97877,
+        "num": 67544,
+        "word": "你是隐形社恐吗",
+        "onboard_time": 1664895326,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67079,
+        "num": 67079,
+        "word": "接亲现场伴郎被伴娘考雅思听力",
+        "onboard_time": 1664874382,
+        "rank": 48,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 61250,
+        "num": 61250,
+        "word": "中国女团3比0马来西亚女团",
+        "onboard_time": 1664886803,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国第四批预备航天员选拔已经开始#"
+    }
+  }
+}
