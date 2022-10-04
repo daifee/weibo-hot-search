@@ -1,6 +1,6 @@
 {
   "startTime": 1664815260200,
-  "endTime": 1664840864340,
+  "endTime": 1664849890112,
   "band_list": [
     {
       "raw_hot": 1414692,
@@ -11,8 +11,32 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1300166,
+      "num": 1300166,
+      "word": "男孩交给警察1只4眼蓝血小怪物",
+      "onboard_time": 1664840657,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1177565,
+      "num": 1177565,
+      "word": "父亲因思念女儿驱车300公里送宵夜",
+      "onboard_time": 1664844440,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 881003,
+      "num": 881003,
+      "word": "韩方称朝鲜向半岛东部海域发射不明弹道导弹",
+      "onboard_time": 1664845643,
+      "rank": 3,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 720237,
-      "num": 116170,
+      "num": 212372,
       "word": "iPhone在6人死亡车祸中自动求救",
       "onboard_time": 1664796084,
       "rank": 20,
@@ -20,11 +44,51 @@
     },
     {
       "raw_hot": 597994,
-      "num": 191654,
+      "num": 307469,
       "word": "网传乘风破浪的姐姐4拟邀名单",
       "onboard_time": 1664807844,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 579394,
+      "num": 307744,
+      "word": "离异女子与初恋再婚组成六口之家",
+      "onboard_time": 1664841199,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 564508,
+      "num": 564508,
+      "word": "全国曾经只有一人的专业有多寂寞",
+      "onboard_time": 1664840719,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 538913,
+      "num": 538913,
+      "word": "重阳节",
+      "onboard_time": 1664839817,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 527319,
+      "num": 527319,
+      "word": "为什么人老了会面目模糊",
+      "onboard_time": 1664846242,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 496563,
+      "num": 496563,
+      "word": "83岁姥姥随手写出化学结构式惊呆外孙",
+      "onboard_time": 1664841138,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 491791,
@@ -32,6 +96,14 @@
       "word": "北京10月4日最低温仅4摄氏度",
       "onboard_time": 1664829971,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 488467,
+      "num": 488467,
+      "word": "10月3日新增本土无症状626例",
+      "onboard_time": 1664846483,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -67,20 +139,20 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 339807,
+      "num": 303766,
+      "word": "赵文卓空中踢刀",
+      "onboard_time": 1664848281,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 322108,
       "num": 322108,
       "word": "会被一些医学知识震惊到",
       "onboard_time": 1664807784,
       "rank": 5,
       "category": "其它"
-    },
-    {
-      "raw_hot": 297821,
-      "num": 297821,
-      "word": "重阳节",
-      "onboard_time": 1664839817,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 295958,
@@ -97,6 +169,54 @@
       "onboard_time": 1664801840,
       "rank": 7,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 246413,
+      "num": 246413,
+      "word": "王子异想念山西0.5倍速生活",
+      "onboard_time": 1664841981,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 217965,
+      "num": 217965,
+      "word": "67岁奶奶退休后演电影做模特",
+      "onboard_time": 1664843901,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217734,
+      "num": 217734,
+      "word": "北京新增1例本土无症状",
+      "onboard_time": 1664848701,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215472,
+      "num": 215472,
+      "word": "卡德罗夫称三个儿子将赴前线",
+      "onboard_time": 1664841620,
+      "rank": 18,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 213942,
+      "num": 213942,
+      "word": "10月3日新增本土确诊250例",
+      "onboard_time": 1664846483,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202745,
+      "num": 202745,
+      "word": "小伙花4年考过驾照朋友拉横幅庆祝",
+      "onboard_time": 1664847983,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192312,
@@ -139,6 +259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 163745,
+      "num": 163745,
+      "word": "萌娃初次剃头后炸毛成海胆宝宝",
+      "onboard_time": 1664841739,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159822,
       "num": 159822,
       "word": "淡定鸭鸭暴雨中集体站立淋雨",
@@ -163,12 +291,36 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 143259,
+      "num": 143259,
+      "word": "DFM战胜LLL",
+      "onboard_time": 1664847084,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 143230,
+      "num": 143230,
+      "word": "守望先锋最后一天",
+      "onboard_time": 1664839756,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 136619,
       "num": 136619,
       "word": "河北启动省地震灾害Ⅳ级应急响应",
       "onboard_time": 1664828950,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132019,
+      "num": 132019,
+      "word": "76人vs篮网",
+      "onboard_time": 1664841798,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 130881,
@@ -203,12 +355,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 116553,
-      "num": 116553,
-      "word": "守望先锋最后一天",
-      "onboard_time": 1664839756,
-      "rank": 25,
-      "category": "游戏"
+      "raw_hot": 116325,
+      "num": 116325,
+      "word": "伊瓜因宣布退役",
+      "onboard_time": 1664839995,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 115302,
@@ -217,6 +369,14 @@
       "onboard_time": 1664802144,
       "rank": 24,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 106483,
+      "num": 106483,
+      "word": "长辈未说出口的那些话",
+      "onboard_time": 1664839876,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 103865,
@@ -243,20 +403,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 101864,
+      "num": 101864,
+      "word": "当我飞奔向你",
+      "onboard_time": 1664842821,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 101513,
       "num": 101513,
       "word": "唐诡后遗症",
       "onboard_time": 1664808504,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 100779,
-      "num": 100779,
-      "word": "长辈未说出口的那些话",
-      "onboard_time": 1664839876,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 95636,
@@ -275,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91917,
+      "num": 91917,
+      "word": "英国宣布将放弃激进减税方案",
+      "onboard_time": 1664849363,
+      "rank": 36,
+      "category": "国外要闻,财经"
+    },
+    {
       "raw_hot": 91507,
       "num": 91507,
       "word": "原来小狗也是变脸大师",
@@ -283,20 +451,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 90568,
+      "num": 90568,
+      "word": "西蒙斯复出",
+      "onboard_time": 1664843541,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83865,
       "num": 83865,
       "word": "韩国建军节宣传片出现中国装甲车",
       "onboard_time": 1664793442,
       "rank": 26,
       "category": "军事"
-    },
-    {
-      "raw_hot": 82528,
-      "num": 82528,
-      "word": "伊瓜因宣布退役",
-      "onboard_time": 1664839995,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 80951,
@@ -337,14 +505,6 @@
       "onboard_time": 1664802263,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 75238,
-      "num": 75238,
-      "word": "男孩交给警察1只4眼蓝血小怪物",
-      "onboard_time": 1664840657,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 74752,
@@ -403,6 +563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 69815,
+      "num": 69815,
+      "word": "支教老师说自己被光照亮也想发出微光",
+      "onboard_time": 1664848641,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 69263,
       "num": 69263,
       "word": "北京大风寒潮双预警生效中",
@@ -459,11 +627,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 53026,
-      "num": 53026,
-      "word": "全国曾经只有一人的专业有多寂寞",
-      "onboard_time": 1664840719,
-      "rank": 38,
+      "raw_hot": 55422,
+      "num": 55422,
+      "word": "女孩国庆假期帮喂猫日赚600",
+      "onboard_time": 1664849722,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -516,7 +684,7 @@
     },
     {
       "raw_hot": 41916,
-      "num": 460562,
+      "num": 882757,
       "word": "多机位打开国庆节氛围感",
       "onboard_time": 1664800944,
       "rank": 2,

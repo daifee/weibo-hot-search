@@ -1,0 +1,410 @@
+{
+  "runTime": 1664849890112,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1300166,
+        "num": 1300166,
+        "word": "男孩交给警察1只4眼蓝血小怪物",
+        "onboard_time": 1664840657,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1177565,
+        "num": 1177565,
+        "word": "父亲因思念女儿驱车300公里送宵夜",
+        "onboard_time": 1664844440,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33397,
+        "num": 882757,
+        "word": "多机位打开国庆节氛围感",
+        "onboard_time": 1664800944,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 881003,
+        "num": 881003,
+        "word": "韩方称朝鲜向半岛东部海域发射不明弹道导弹",
+        "onboard_time": 1664845643,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 564508,
+        "num": 564508,
+        "word": "全国曾经只有一人的专业有多寂寞",
+        "onboard_time": 1664840719,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538913,
+        "num": 538913,
+        "word": "重阳节",
+        "onboard_time": 1664839817,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 527319,
+        "num": 527319,
+        "word": "为什么人老了会面目模糊",
+        "onboard_time": 1664846242,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496563,
+        "num": 496563,
+        "word": "83岁姥姥随手写出化学结构式惊呆外孙",
+        "onboard_time": 1664841138,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488467,
+        "num": 488467,
+        "word": "10月3日新增本土无症状626例",
+        "onboard_time": 1664846483,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329009,
+        "num": 329009,
+        "word": "02年女生成全校最小博士生",
+        "onboard_time": 1664810964,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 579394,
+        "num": 307744,
+        "word": "离异女子与初恋再婚组成六口之家",
+        "onboard_time": 1664841199,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407571,
+        "num": 307469,
+        "word": "网传乘风破浪的姐姐4拟邀名单",
+        "onboard_time": 1664807844,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 339807,
+        "num": 303766,
+        "word": "赵文卓空中踢刀",
+        "onboard_time": 1664848281,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284820,
+        "num": 284820,
+        "word": "年轻人为什么不爱走亲戚",
+        "onboard_time": 1664804784,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246413,
+        "num": 246413,
+        "word": "王子异想念山西0.5倍速生活",
+        "onboard_time": 1664841981,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223289,
+        "num": 223289,
+        "word": "熊猫的肚皮原来可以当小饭桌用",
+        "onboard_time": 1664809824,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217965,
+        "num": 217965,
+        "word": "67岁奶奶退休后演电影做模特",
+        "onboard_time": 1664843901,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217734,
+        "num": 217734,
+        "word": "北京新增1例本土无症状",
+        "onboard_time": 1664848701,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215472,
+        "num": 215472,
+        "word": "卡德罗夫称三个儿子将赴前线",
+        "onboard_time": 1664841620,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 213942,
+        "num": 213942,
+        "word": "10月3日新增本土确诊250例",
+        "onboard_time": 1664846483,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499986,
+        "num": 212372,
+        "word": "iPhone在6人死亡车祸中自动求救",
+        "onboard_time": 1664796084,
+        "rank": 20,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 202745,
+        "num": 202745,
+        "word": "小伙花4年考过驾照朋友拉横幅庆祝",
+        "onboard_time": 1664847983,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163745,
+        "num": 163745,
+        "word": "萌娃初次剃头后炸毛成海胆宝宝",
+        "onboard_time": 1664841739,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145328,
+        "num": 145328,
+        "word": "会被一些医学知识震惊到",
+        "onboard_time": 1664807784,
+        "rank": 23,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 143259,
+        "num": 143259,
+        "word": "DFM战胜LLL",
+        "onboard_time": 1664847084,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143230,
+        "num": 143230,
+        "word": "守望先锋最后一天",
+        "onboard_time": 1664839756,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132019,
+        "num": 132019,
+        "word": "76人vs篮网",
+        "onboard_time": 1664841798,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129621,
+        "num": 129621,
+        "word": "特斯拉车主回应堵车没电叫拖车",
+        "onboard_time": 1664807605,
+        "rank": 27,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 126280,
+        "num": 126280,
+        "word": "北京10月4日最低温仅4摄氏度",
+        "onboard_time": 1664829971,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122281,
+        "num": 122281,
+        "word": "工作人员扮玩偶被2男子捶打",
+        "onboard_time": 1664806164,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116325,
+        "num": 116325,
+        "word": "伊瓜因宣布退役",
+        "onboard_time": 1664839995,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113316,
+        "num": 113316,
+        "word": "一个抓蟑螂的新方法",
+        "onboard_time": 1664810903,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109407,
+        "num": 109407,
+        "word": "男子游黄山被堵山上10分钟走1米",
+        "onboard_time": 1664801840,
+        "rank": 32,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 106483,
+        "num": 106483,
+        "word": "长辈未说出口的那些话",
+        "onboard_time": 1664839876,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101864,
+        "num": 101864,
+        "word": "当我飞奔向你",
+        "onboard_time": 1664842821,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 97034,
+        "num": 97034,
+        "word": "英国商超禁止摆放垃圾食品在显眼处",
+        "onboard_time": 1664831230,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91917,
+        "num": 91917,
+        "word": "英国宣布将放弃激进减税方案",
+        "onboard_time": 1664849363,
+        "rank": 36,
+        "category": "国外要闻,财经"
+      },
+      {
+        "raw_hot": 90568,
+        "num": 90568,
+        "word": "西蒙斯复出",
+        "onboard_time": 1664843541,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79968,
+        "num": 79968,
+        "word": "体重减不下来有3个原因",
+        "onboard_time": 1664782401,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77465,
+        "num": 77465,
+        "word": "河北启动省地震灾害Ⅳ级应急响应",
+        "onboard_time": 1664828950,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76264,
+        "num": 76264,
+        "word": "这狗子是真的欠啊",
+        "onboard_time": 1664806404,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 69815,
+        "num": 69815,
+        "word": "支教老师说自己被光照亮也想发出微光",
+        "onboard_time": 1664848641,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 64435,
+        "num": 64435,
+        "word": "黑豹2新预告",
+        "onboard_time": 1664805384,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 61822,
+        "num": 61822,
+        "word": "淡定鸭鸭暴雨中集体站立淋雨",
+        "onboard_time": 1664801124,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56854,
+        "num": 56854,
+        "word": "公司要破产我该不该辞职",
+        "onboard_time": 1664797043,
+        "rank": 44,
+        "category": "社会议题,影视"
+      },
+      {
+        "raw_hot": 56480,
+        "num": 56480,
+        "word": "TouchID不太可能回到iPhone",
+        "onboard_time": 1664799442,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 55422,
+        "num": 55422,
+        "word": "女孩国庆假期帮喂猫日赚600",
+        "onboard_time": 1664849722,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54786,
+        "num": 54786,
+        "word": "关晓彤演的社区工作者",
+        "onboard_time": 1664820554,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 52546,
+        "num": 52546,
+        "word": "父亲为脑瘫儿子按摩路人提物资相赠",
+        "onboard_time": 1664808444,
+        "rank": 48,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 50384,
+        "num": 50384,
+        "word": "北京大风寒潮双预警生效中",
+        "onboard_time": 1664839817,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国第四批预备航天员选拔已经开始#"
+    }
+  }
+}
