@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664856764674,
+  "endTime": 1664858252179,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -153,6 +153,14 @@
       "onboard_time": 1664757022,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1646758,
+      "num": 269006,
+      "word": "因为我当年喜欢EXO",
+      "onboard_time": 1664857223,
+      "rank": 10,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 1640989,
@@ -449,6 +457,14 @@
       "onboard_time": 1664606664,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 984476,
+      "num": 984476,
+      "word": "光遇",
+      "onboard_time": 1664856562,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 979963,
@@ -868,7 +884,7 @@
     },
     {
       "raw_hot": 636116,
-      "num": 186317,
+      "num": 204270,
       "word": "新婚次日丈夫嘚瑟初恋情书被罚跪",
       "onboard_time": 1664851522,
       "rank": 43,
@@ -1057,6 +1073,14 @@
       "onboard_time": 1664621721,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 539141,
+      "num": 268233,
+      "word": "男子遭反向抹零被问你差那一毛钱吗",
+      "onboard_time": 1664856143,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 538913,
@@ -1299,12 +1323,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 456880,
-      "num": 456880,
-      "word": "光遇",
-      "onboard_time": 1664856562,
-      "rank": 4,
-      "category": "游戏"
+      "raw_hot": 456313,
+      "num": 456313,
+      "word": "朝鲜导弹疑飞过日本上空",
+      "onboard_time": 1664855541,
+      "rank": 12,
+      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 455303,
@@ -1385,6 +1409,14 @@
       "onboard_time": 1664697921,
       "rank": 16,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 438493,
+      "num": 267522,
+      "word": "SuperM出道曲Jopping发行三周年",
+      "onboard_time": 1664857522,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 437209,
@@ -1545,6 +1577,14 @@
       "onboard_time": 1664778801,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 397032,
+      "num": 397032,
+      "word": "张雨绮说这个家不能没有雪莉杨",
+      "onboard_time": 1664854102,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 396564,
@@ -1793,14 +1833,6 @@
       "onboard_time": 1664743991,
       "rank": 24,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 350393,
-      "num": 350393,
-      "word": "张雨绮说这个家不能没有雪莉杨",
-      "onboard_time": 1664854102,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 348599,
@@ -2059,6 +2091,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 299769,
+      "num": 266537,
+      "word": "日本向多地发布避难警报",
+      "onboard_time": 1664856442,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298402,
       "num": 298402,
       "word": "男子高铁遇老人独带娃主动帮抱",
@@ -2129,14 +2169,6 @@
       "onboard_time": 1664611464,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 284518,
-      "num": 284518,
-      "word": "朝鲜导弹疑飞过日本上空",
-      "onboard_time": 1664855541,
-      "rank": 12,
-      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 284307,
@@ -2281,6 +2313,14 @@
       "onboard_time": 1664554223,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269193,
+      "num": 269193,
+      "word": "如何喝咖啡更健康",
+      "onboard_time": 1664856200,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 268109,
@@ -3387,11 +3427,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163750,
+      "num": 163750,
+      "word": "郭涛小沈阳新片演父子",
+      "onboard_time": 1664856083,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 163745,
       "num": 163745,
       "word": "萌娃初次剃头后炸毛成海胆宝宝",
       "onboard_time": 1664841739,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163256,
+      "num": 163256,
+      "word": "老一辈做的饭菜有多香",
+      "onboard_time": 1664855002,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -3819,14 +3875,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 133735,
-      "num": 133735,
-      "word": "老一辈做的饭菜有多香",
-      "onboard_time": 1664855002,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132134,
       "num": 132134,
       "word": "女子路遇流浪狗生完宝宝好心投喂",
@@ -3947,12 +3995,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 125555,
-      "num": 125555,
-      "word": "郭涛小沈阳新片演父子",
-      "onboard_time": 1664856083,
-      "rank": 30,
-      "category": "影视"
+      "raw_hot": 125826,
+      "num": 66289,
+      "word": "明日方舟",
+      "onboard_time": 1664858242,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 125551,
@@ -4097,14 +4145,6 @@
       "onboard_time": 1664685082,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 117941,
-      "num": 117941,
-      "word": "男子遭反向抹零被问你差那一毛钱吗",
-      "onboard_time": 1664856143,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117541,
@@ -4267,6 +4307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109130,
+      "num": 109130,
+      "word": "张彬彬眼神戏好宠溺",
+      "onboard_time": 1664855242,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 108896,
       "num": 108896,
       "word": "水晶宫vs切尔西",
@@ -4289,6 +4337,14 @@
       "onboard_time": 1664810004,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 106828,
+      "num": 106828,
+      "word": "张云龙画的蝴蝶和毛毛虫很贴切",
+      "onboard_time": 1664857402,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 106819,
@@ -4409,14 +4465,6 @@
       "onboard_time": 1664842821,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 101613,
-      "num": 101613,
-      "word": "如何喝咖啡更健康",
-      "onboard_time": 1664856200,
-      "rank": 35,
-      "category": "美食"
     },
     {
       "raw_hot": 101563,
@@ -4577,14 +4625,6 @@
       "onboard_time": 1664751914,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 88731,
-      "num": 88731,
-      "word": "张彬彬眼神戏好宠溺",
-      "onboard_time": 1664855242,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 88085,
@@ -4851,14 +4891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 71694,
-      "num": 71694,
-      "word": "日本向多地发布避难警报",
-      "onboard_time": 1664856442,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 71292,
       "num": 71292,
       "word": "樊振东3比0科祖尔",
@@ -4952,6 +4984,14 @@
       "word": "被东北虎林园的小老虎萌到了",
       "onboard_time": 1664838496,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66118,
+      "num": 66118,
+      "word": "幼儿园成美食天花板顿顿不重样",
+      "onboard_time": 1664857940,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
