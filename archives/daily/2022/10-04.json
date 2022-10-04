@@ -1,6 +1,6 @@
 {
   "startTime": 1664815260200,
-  "endTime": 1664892131136,
+  "endTime": 1664893167229,
   "band_list": [
     {
       "raw_hot": 2392141,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1289644,
+      "num": 1025744,
+      "word": "乌鲁木齐各区县人员暂不离乌",
+      "onboard_time": 1664891004,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1288079,
       "num": 1288079,
       "word": "特斯拉市值一夜蒸发5100亿",
@@ -123,12 +131,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1025744,
-      "num": 1025744,
-      "word": "乌鲁木齐各区县人员暂不离乌",
-      "onboard_time": 1664891004,
-      "rank": 1,
-      "category": "社会新闻"
+      "raw_hot": 1065174,
+      "num": 1065174,
+      "word": "鸟鸟躺的时候想卷卷的时候想躺",
+      "onboard_time": 1664889204,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 984476,
@@ -145,14 +153,6 @@
       "onboard_time": 1664859803,
       "rank": 4,
       "category": "情感"
-    },
-    {
-      "raw_hot": 897437,
-      "num": 897437,
-      "word": "鸟鸟躺的时候想卷卷的时候想躺",
-      "onboard_time": 1664889204,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 897102,
@@ -420,7 +420,7 @@
     },
     {
       "raw_hot": 447069,
-      "num": 421622,
+      "num": 437668,
       "word": "周亦安泪别法庭",
       "onboard_time": 1664888483,
       "rank": 8,
@@ -457,6 +457,14 @@
       "onboard_time": 1664851702,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 423378,
+      "num": 423378,
+      "word": "女孩出嫁哥弟俩哭成泪人",
+      "onboard_time": 1664889863,
+      "rank": 41,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 406679,
@@ -507,6 +515,22 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 386176,
+      "num": 386176,
+      "word": "再就业男团一出现就有笑点",
+      "onboard_time": 1664891004,
+      "rank": 14,
+      "category": "幽默,综艺"
+    },
+    {
+      "raw_hot": 383424,
+      "num": 352361,
+      "word": "陈可辛章子怡将合作新剧",
+      "onboard_time": 1664891063,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 375035,
       "num": 375035,
       "word": "终于知道拍照怎么摆pose了",
@@ -547,20 +571,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 352361,
-      "num": 352361,
-      "word": "陈可辛章子怡将合作新剧",
-      "onboard_time": 1664891063,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 347978,
-      "num": 347978,
-      "word": "女孩出嫁哥弟俩哭成泪人",
-      "onboard_time": 1664889863,
-      "rank": 41,
-      "category": "社会新闻,情感"
+      "raw_hot": 327743,
+      "num": 278937,
+      "word": "新疆暂停全疆离疆客运列车",
+      "onboard_time": 1664892685,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 322108,
@@ -627,14 +643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 291074,
-      "num": 291074,
-      "word": "再就业男团一出现就有笑点",
-      "onboard_time": 1664891004,
-      "rank": 14,
-      "category": "幽默,综艺"
-    },
-    {
       "raw_hot": 289959,
       "num": 289959,
       "word": "接亲现场伴郎被伴娘考雅思听力",
@@ -649,6 +657,14 @@
       "onboard_time": 1664873663,
       "rank": 9,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 287352,
+      "num": 287352,
+      "word": "哪一刻你意识到应该多读书",
+      "onboard_time": 1664890465,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 286862,
@@ -667,20 +683,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 275341,
+      "num": 275341,
+      "word": "呼兰躺和卷是不一样的价格",
+      "onboard_time": 1664890524,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 271180,
       "num": 271180,
       "word": "虞书欣虞美人造型解析",
       "onboard_time": 1664869461,
       "rank": 16,
       "category": "美妆,时尚"
-    },
-    {
-      "raw_hot": 262451,
-      "num": 195032,
-      "word": "呼兰躺和卷是不一样的价格",
-      "onboard_time": 1664890524,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 261471,
@@ -737,6 +753,22 @@
       "onboard_time": 1664841981,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 245947,
+      "num": 245947,
+      "word": "景区回应女子雇轿抬狗上山",
+      "onboard_time": 1664891364,
+      "rank": 37,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 236391,
+      "num": 236391,
+      "word": "第一次见打针这么乖的小狗",
+      "onboard_time": 1664890884,
+      "rank": 25,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 228787,
@@ -852,19 +884,11 @@
     },
     {
       "raw_hot": 193923,
-      "num": 136046,
+      "num": 185607,
       "word": "高卿尘第一部古装新剧开机",
       "onboard_time": 1664891722,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 193138,
-      "num": 193138,
-      "word": "哪一刻你意识到应该多读书",
-      "onboard_time": 1664890465,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 193055,
@@ -971,12 +995,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 167997,
-      "num": 167997,
-      "word": "第一次见打针这么乖的小狗",
-      "onboard_time": 1664890884,
-      "rank": 25,
-      "category": "幽默,情感"
+      "raw_hot": 169358,
+      "num": 132327,
+      "word": "央视重阳晚会",
+      "onboard_time": 1664892685,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 163750,
@@ -1131,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137227,
+      "num": 137227,
+      "word": "我的童年报复性补偿行为",
+      "onboard_time": 1664892563,
+      "rank": 28,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 137095,
       "num": 137095,
       "word": "中国女团vs马来西亚女团",
@@ -1160,6 +1192,14 @@
       "word": "国庆假期偶遇执勤警犬歪头杀",
       "onboard_time": 1664852602,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133547,
+      "num": 133547,
+      "word": "南方降温让预报图冷到发紫",
+      "onboard_time": 1664891364,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1323,14 +1363,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 110789,
-      "num": 110789,
-      "word": "景区回应女子雇轿抬狗上山",
-      "onboard_time": 1664891364,
-      "rank": 37,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 110452,
       "num": 110452,
       "word": "周深清唱大鱼DNA动了",
@@ -1475,12 +1507,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 94169,
-      "num": 94169,
-      "word": "南方降温让预报图冷到发紫",
-      "onboard_time": 1664891364,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 94914,
+      "num": 94914,
+      "word": "反恐现场子弹就在头顶上飞",
+      "onboard_time": 1664891664,
+      "rank": 46,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 91507,
@@ -1505,6 +1537,14 @@
       "onboard_time": 1664843541,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90372,
+      "num": 90372,
+      "word": "一旦买了洞洞鞋",
+      "onboard_time": 1664892804,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 85579,
@@ -1601,14 +1641,6 @@
       "onboard_time": 1664887642,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 77106,
-      "num": 77106,
-      "word": "反恐现场子弹就在头顶上飞",
-      "onboard_time": 1664891664,
-      "rank": 46,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 76267,
@@ -1801,6 +1833,14 @@
       "onboard_time": 1664800225,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 55343,
+      "num": 69233,
+      "word": "北京朝阳新增感染者涉及风险点位",
+      "onboard_time": 1664893104,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52478,
