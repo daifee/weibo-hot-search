@@ -1,6 +1,6 @@
 {
   "startTime": 1664901610003,
-  "endTime": 1664926226975,
+  "endTime": 1664927213092,
   "band_list": [
     {
       "raw_hot": 1197131,
@@ -27,16 +27,24 @@
       "category": "幽默,美食"
     },
     {
-      "raw_hot": 672348,
-      "num": 672348,
+      "raw_hot": 739091,
+      "num": 193685,
+      "word": "消费930.9被收931事件双方发声",
+      "onboard_time": 1664925737,
+      "rank": 12,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 708247,
+      "num": 708247,
       "word": "我的童年报复性补偿行为",
       "onboard_time": 1664892563,
       "rank": 3,
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 581465,
-      "num": 581465,
+      "raw_hot": 590064,
+      "num": 590064,
       "word": "37岁白发缉毒警被误认成孩子爷爷",
       "onboard_time": 1664885903,
       "rank": 4,
@@ -51,32 +59,32 @@
       "category": "网红"
     },
     {
-      "raw_hot": 469528,
-      "num": 469528,
+      "raw_hot": 482477,
+      "num": 482477,
       "word": "步惊云终于体会当爸爸有多快乐",
       "onboard_time": 1664897424,
       "rank": 6,
       "category": "综艺"
     },
     {
-      "raw_hot": 333600,
-      "num": 333600,
+      "raw_hot": 423046,
+      "num": 423046,
       "word": "RNG对战DFM",
       "onboard_time": 1664925376,
       "rank": 3,
       "category": "游戏"
     },
     {
-      "raw_hot": 313717,
-      "num": 313717,
+      "raw_hot": 386098,
+      "num": 386098,
       "word": "欧盟批准强制苹果使用USB C接口",
       "onboard_time": 1664893646,
       "rank": 7,
       "category": "科技"
     },
     {
-      "raw_hot": 291367,
-      "num": 291367,
+      "raw_hot": 354044,
+      "num": 354044,
       "word": "南方降温让预报图冷到发紫",
       "onboard_time": 1664891364,
       "rank": 29,
@@ -91,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257381,
+      "num": 257381,
+      "word": "有效减脂减重做到这3点",
+      "onboard_time": 1664899163,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 236196,
       "num": 236196,
       "word": "电视剧底线",
@@ -99,16 +115,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 225402,
-      "num": 225402,
-      "word": "有效减脂减重做到这3点",
-      "onboard_time": 1664899163,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 220537,
-      "num": 220537,
+      "raw_hot": 227382,
+      "num": 227382,
       "word": "会计被骗86万警方8分钟追回",
       "onboard_time": 1664907194,
       "rank": 11,
@@ -121,6 +129,22 @@
       "onboard_time": 1664895326,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193828,
+      "num": 193828,
+      "word": "猫咪初见出生3天小主人瞠目观望",
+      "onboard_time": 1664883503,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193357,
+      "num": 193357,
+      "word": "双向奔赴才能让爱有意义",
+      "onboard_time": 1664885423,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 191844,
@@ -137,22 +161,6 @@
       "onboard_time": 1664889204,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 176872,
-      "num": 176872,
-      "word": "猫咪初见出生3天小主人瞠目观望",
-      "onboard_time": 1664883503,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175266,
-      "num": 175266,
-      "word": "双向奔赴才能让爱有意义",
-      "onboard_time": 1664885423,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 172209,
@@ -195,20 +203,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151365,
+      "num": 151365,
+      "word": "儿子拒绝赡养母亲将房产赠与扶养人",
+      "onboard_time": 1664882182,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150203,
       "num": 150203,
       "word": "11岁男孩离世捐出器官",
       "onboard_time": 1664896765,
       "rank": 17,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 145321,
-      "num": 145321,
-      "word": "消费930.9被收931事件双方发声",
-      "onboard_time": 1664925737,
-      "rank": 12,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 144219,
@@ -227,14 +235,6 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 139210,
-      "num": 139210,
-      "word": "儿子拒绝赡养母亲将房产赠与扶养人",
-      "onboard_time": 1664882182,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135236,
       "num": 135236,
       "word": "今日重阳",
@@ -249,6 +249,14 @@
       "onboard_time": 1664894244,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 132536,
+      "num": 132536,
+      "word": "周博文爸妈被迫官宣二胎",
+      "onboard_time": 1664890704,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 121125,
@@ -283,6 +291,14 @@
       "category": "幽默,综艺"
     },
     {
+      "raw_hot": 99808,
+      "num": 99808,
+      "word": "男子高速停车将掉落广告牌拉路边",
+      "onboard_time": 1664910851,
+      "rank": 47,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 98185,
       "num": 98185,
       "word": "因为我当年喜欢EXO",
@@ -291,12 +307,20 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 97851,
-      "num": 97851,
-      "word": "男子高速停车将掉落广告牌拉路边",
-      "onboard_time": 1664910851,
-      "rank": 47,
-      "category": "社会正能量"
+      "raw_hot": 96513,
+      "num": 96513,
+      "word": "周亦安泪别法庭",
+      "onboard_time": 1664888483,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 94730,
+      "num": 94730,
+      "word": "女孩出嫁哥弟俩哭成泪人",
+      "onboard_time": 1664889863,
+      "rank": 33,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 87710,
@@ -315,28 +339,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 86831,
-      "num": 86831,
-      "word": "周亦安泪别法庭",
-      "onboard_time": 1664888483,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 86640,
-      "num": 86640,
-      "word": "周博文爸妈被迫官宣二胎",
-      "onboard_time": 1664890704,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 84829,
-      "num": 84829,
-      "word": "女孩出嫁哥弟俩哭成泪人",
-      "onboard_time": 1664889863,
-      "rank": 33,
-      "category": "社会新闻,情感"
+      "raw_hot": 83335,
+      "num": 83335,
+      "word": "健身男子徒手捏石榴为女友榨果汁",
+      "onboard_time": 1664917689,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 81324,
@@ -347,12 +355,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 80844,
-      "num": 80844,
-      "word": "健身男子徒手捏石榴为女友榨果汁",
-      "onboard_time": 1664917689,
+      "raw_hot": 80141,
+      "num": 80141,
+      "word": "北京大兴1例确诊病例轨迹",
+      "onboard_time": 1664918651,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77939,
+      "num": 77939,
+      "word": "北溪泄漏后的甲烷云几天后将到北极",
+      "onboard_time": 1664878942,
+      "rank": 36,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 76508,
@@ -361,22 +377,6 @@
       "onboard_time": 1664890524,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 76357,
-      "num": 76357,
-      "word": "北京大兴1例确诊病例轨迹",
-      "onboard_time": 1664918651,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 73842,
-      "num": 73842,
-      "word": "北溪泄漏后的甲烷云几天后将到北极",
-      "onboard_time": 1664878942,
-      "rank": 36,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 73018,
@@ -451,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55126,
+      "num": 55126,
+      "word": "王一博这就是街舞5光影花絮照",
+      "onboard_time": 1664880804,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 51951,
       "num": 51951,
       "word": "我迟早过上这种退休生活",
@@ -459,27 +467,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50344,
+      "num": 50344,
+      "word": "内蒙古阿尔山今秋首场降雪",
+      "onboard_time": 1664915650,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46936,
       "num": 46936,
       "word": "男子拿走蜂王被蜂群爬车窗追一路",
       "onboard_time": 1664875040,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46694,
-      "num": 46694,
-      "word": "王一博这就是街舞5光影花絮照",
-      "onboard_time": 1664880804,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 43506,
-      "num": 43506,
-      "word": "内蒙古阿尔山今秋首场降雪",
-      "onboard_time": 1664915650,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -507,6 +507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 34110,
+      "num": 34110,
+      "word": "宋雨琦校庆视频",
+      "onboard_time": 1664925977,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 32401,
       "num": 32401,
       "word": "EG对战MAD",
@@ -515,12 +523,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 23067,
-      "num": 23067,
-      "word": "宋雨琦校庆视频",
-      "onboard_time": 1664925977,
-      "rank": 47,
-      "category": "作品衍生"
+      "raw_hot": 28918,
+      "num": 28918,
+      "word": "大妈夜里冒雨帮邻居盖好玉米",
+      "onboard_time": 1664926698,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11295,
