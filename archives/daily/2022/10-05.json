@@ -1,6 +1,6 @@
 {
   "startTime": 1664901610003,
-  "endTime": 1664905355936,
+  "endTime": 1664906382133,
   "band_list": [
     {
       "raw_hot": 1197131,
@@ -425,6 +425,14 @@
       "onboard_time": 1664903537,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 20204,
+      "num": 20204,
+      "word": "周亦安泪别法庭",
+      "onboard_time": 1664888483,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 7178,
