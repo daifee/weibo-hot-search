@@ -1,0 +1,410 @@
+{
+  "runTime": 1664851942912,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1124334,
+        "num": 1124334,
+        "word": "男孩交给警察1只4眼蓝血小怪物",
+        "onboard_time": 1664840657,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 897102,
+        "num": 897102,
+        "word": "为什么人老了会面目模糊",
+        "onboard_time": 1664846242,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21877,
+        "num": 776262,
+        "word": "多机位打开国庆节氛围感",
+        "onboard_time": 1664800944,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 714502,
+        "num": 714502,
+        "word": "赵文卓空中踢刀",
+        "onboard_time": 1664848281,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 697808,
+        "num": 697808,
+        "word": "韩方称朝鲜向半岛东部海域发射不明弹道导弹",
+        "onboard_time": 1664845643,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 484051,
+        "num": 484051,
+        "word": "重阳节",
+        "onboard_time": 1664839817,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446880,
+        "num": 446880,
+        "word": "全国曾经只有一人的专业有多寂寞",
+        "onboard_time": 1664840719,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437209,
+        "num": 437209,
+        "word": "英国宣布将放弃激进减税方案",
+        "onboard_time": 1664849363,
+        "rank": 7,
+        "category": "国外要闻,财经"
+      },
+      {
+        "raw_hot": 419101,
+        "num": 419101,
+        "word": "83岁姥姥随手写出化学结构式惊呆外孙",
+        "onboard_time": 1664841138,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359913,
+        "num": 359913,
+        "word": "小伙花4年考过驾照朋友拉横幅庆祝",
+        "onboard_time": 1664847983,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 626153,
+        "num": 350091,
+        "word": "父亲因思念女儿驱车300公里送宵夜",
+        "onboard_time": 1664844440,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533778,
+        "num": 349010,
+        "word": "离异女子与初恋再婚组成六口之家",
+        "onboard_time": 1664841199,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334563,
+        "num": 334563,
+        "word": "10月3日新增本土无症状626例",
+        "onboard_time": 1664846483,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313215,
+        "num": 313215,
+        "word": "网传乘风破浪的姐姐4拟邀名单",
+        "onboard_time": 1664807844,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 267815,
+        "num": 267815,
+        "word": "02年女生成全校最小博士生",
+        "onboard_time": 1664810964,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 251116,
+        "num": 251116,
+        "word": "王俊凯万里归途票房破6亿",
+        "onboard_time": 1664851702,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228787,
+        "num": 228787,
+        "word": "北京新增1例本土无症状",
+        "onboard_time": 1664848701,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215417,
+        "num": 215417,
+        "word": "年轻人为什么不爱走亲戚",
+        "onboard_time": 1664804784,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189381,
+        "num": 189381,
+        "word": "虞书欣仙剑六最新路透",
+        "onboard_time": 1664850502,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179591,
+        "num": 179591,
+        "word": "熊猫的肚皮原来可以当小饭桌用",
+        "onboard_time": 1664809824,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424396,
+        "num": 177838,
+        "word": "iPhone在6人死亡车祸中自动求救",
+        "onboard_time": 1664796084,
+        "rank": 20,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 174829,
+        "num": 174829,
+        "word": "英雄联盟S12",
+        "onboard_time": 1664851102,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168140,
+        "num": 168140,
+        "word": "67岁奶奶退休后演电影做模特",
+        "onboard_time": 1664843901,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157642,
+        "num": 157642,
+        "word": "RNG入围赛淘汰赛对阵DFM",
+        "onboard_time": 1664851461,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151206,
+        "num": 151206,
+        "word": "10月3日新增本土确诊250例",
+        "onboard_time": 1664846483,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150816,
+        "num": 150816,
+        "word": "王子异想念山西0.5倍速生活",
+        "onboard_time": 1664841981,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148891,
+        "num": 148891,
+        "word": "卡德罗夫称三个儿子将赴前线",
+        "onboard_time": 1664841620,
+        "rank": 26,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 129029,
+        "num": 129029,
+        "word": "萌娃初次剃头后炸毛成海胆宝宝",
+        "onboard_time": 1664841739,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127354,
+        "num": 127354,
+        "word": "女孩国庆假期帮喂猫日赚600",
+        "onboard_time": 1664849722,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126146,
+        "num": 126146,
+        "word": "守望先锋最后一天",
+        "onboard_time": 1664839756,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122931,
+        "num": 122931,
+        "word": "这是狗狗眼里的满分主人吧",
+        "onboard_time": 1664850202,
+        "rank": 30,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 121277,
+        "num": 121277,
+        "word": "支教老师说自己被光照亮也想发出微光",
+        "onboard_time": 1664848641,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 120379,
+        "num": 120379,
+        "word": "DFM战胜LLL",
+        "onboard_time": 1664847084,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113711,
+        "num": 113711,
+        "word": "会被一些医学知识震惊到",
+        "onboard_time": 1664807784,
+        "rank": 33,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 105310,
+        "num": 105310,
+        "word": "76人vs篮网",
+        "onboard_time": 1664841798,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101133,
+        "num": 101133,
+        "word": "工作人员扮玩偶被2男子捶打",
+        "onboard_time": 1664806164,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100207,
+        "num": 100207,
+        "word": "伊瓜因宣布退役",
+        "onboard_time": 1664839995,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93424,
+        "num": 93424,
+        "word": "男子游黄山被堵山上10分钟走1米",
+        "onboard_time": 1664801840,
+        "rank": 37,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 91281,
+        "num": 91281,
+        "word": "特斯拉市值一夜蒸发5100亿",
+        "onboard_time": 1664851582,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 90667,
+        "num": 90667,
+        "word": "一个抓蟑螂的新方法",
+        "onboard_time": 1664810903,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88589,
+        "num": 88589,
+        "word": "长辈未说出口的那些话",
+        "onboard_time": 1664839876,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83111,
+        "num": 83111,
+        "word": "特斯拉车主回应堵车没电叫拖车",
+        "onboard_time": 1664807605,
+        "rank": 41,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 81534,
+        "num": 81534,
+        "word": "北京10月4日最低温仅4摄氏度",
+        "onboard_time": 1664829971,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79681,
+        "num": 79681,
+        "word": "新婚次日丈夫嘚瑟初恋情书被罚跪",
+        "onboard_time": 1664851522,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74461,
+        "num": 74461,
+        "word": "英国商超禁止摆放垃圾食品在显眼处",
+        "onboard_time": 1664831230,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74303,
+        "num": 74303,
+        "word": "当我飞奔向你",
+        "onboard_time": 1664842821,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 73318,
+        "num": 73318,
+        "word": "徐璐演的木桐自带警犬属性",
+        "onboard_time": 1664848582,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 72626,
+        "num": 72626,
+        "word": "川妹子陪妈妈拿下电竞冠军",
+        "onboard_time": 1664851881,
+        "rank": 47,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 71865,
+        "num": 71865,
+        "word": "关晓彤演的社区工作者",
+        "onboard_time": 1664820554,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 65014,
+        "num": 65014,
+        "word": "重阳节为什么要登高",
+        "onboard_time": 1664850982,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国空间站等你来出差#"
+    }
+  }
+}

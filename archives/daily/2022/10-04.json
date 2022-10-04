@@ -1,6 +1,6 @@
 {
   "startTime": 1664815260200,
-  "endTime": 1664849890112,
+  "endTime": 1664851942912,
   "band_list": [
     {
       "raw_hot": 1414692,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 897102,
+      "num": 897102,
+      "word": "为什么人老了会面目模糊",
+      "onboard_time": 1664846242,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 881003,
       "num": 881003,
       "word": "韩方称朝鲜向半岛东部海域发射不明弹道导弹",
@@ -43,8 +51,16 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 714502,
+      "num": 714502,
+      "word": "赵文卓空中踢刀",
+      "onboard_time": 1664848281,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 597994,
-      "num": 307469,
+      "num": 313215,
       "word": "网传乘风破浪的姐姐4拟邀名单",
       "onboard_time": 1664807844,
       "rank": 10,
@@ -52,7 +68,7 @@
     },
     {
       "raw_hot": 579394,
-      "num": 307744,
+      "num": 349010,
       "word": "离异女子与初恋再婚组成六口之家",
       "onboard_time": 1664841199,
       "rank": 10,
@@ -72,14 +88,6 @@
       "word": "重阳节",
       "onboard_time": 1664839817,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 527319,
-      "num": 527319,
-      "word": "为什么人老了会面目模糊",
-      "onboard_time": 1664846242,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -123,6 +131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 437209,
+      "num": 437209,
+      "word": "英国宣布将放弃激进减税方案",
+      "onboard_time": 1664849363,
+      "rank": 36,
+      "category": "国外要闻,财经"
+    },
+    {
       "raw_hot": 406679,
       "num": 406679,
       "word": "年轻人为什么不爱走亲戚",
@@ -139,12 +155,12 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 339807,
-      "num": 303766,
-      "word": "赵文卓空中踢刀",
-      "onboard_time": 1664848281,
-      "rank": 12,
-      "category": "综艺"
+      "raw_hot": 359913,
+      "num": 359913,
+      "word": "小伙花4年考过驾照朋友拉横幅庆祝",
+      "onboard_time": 1664847983,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 322108,
@@ -171,6 +187,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 251116,
+      "num": 251116,
+      "word": "王俊凯万里归途票房破6亿",
+      "onboard_time": 1664851702,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 246413,
       "num": 246413,
       "word": "王子异想念山西0.5倍速生活",
@@ -179,19 +203,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228787,
+      "num": 228787,
+      "word": "北京新增1例本土无症状",
+      "onboard_time": 1664848701,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217965,
       "num": 217965,
       "word": "67岁奶奶退休后演电影做模特",
       "onboard_time": 1664843901,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 217734,
-      "num": 217734,
-      "word": "北京新增1例本土无症状",
-      "onboard_time": 1664848701,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -211,14 +235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 202745,
-      "num": 202745,
-      "word": "小伙花4年考过驾照朋友拉横幅庆祝",
-      "onboard_time": 1664847983,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 192312,
       "num": 178187,
       "word": "工作人员扮玩偶被2男子捶打",
@@ -235,6 +251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 189381,
+      "num": 189381,
+      "word": "虞书欣仙剑六最新路透",
+      "onboard_time": 1664850502,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 181007,
       "num": 181007,
       "word": "TouchID不太可能回到iPhone",
@@ -249,6 +273,14 @@
       "onboard_time": 1664804365,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174829,
+      "num": 174829,
+      "word": "英雄联盟S12",
+      "onboard_time": 1664851102,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 171320,
@@ -273,6 +305,14 @@
       "onboard_time": 1664801124,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157642,
+      "num": 157642,
+      "word": "RNG入围赛淘汰赛对阵DFM",
+      "onboard_time": 1664851461,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 149174,
@@ -331,6 +371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 127354,
+      "num": 127354,
+      "word": "女孩国庆假期帮喂猫日赚600",
+      "onboard_time": 1664849722,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125737,
       "num": 125737,
       "word": "公司要破产我该不该辞职",
@@ -347,12 +395,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 122931,
+      "num": 122931,
+      "word": "这是狗狗眼里的满分主人吧",
+      "onboard_time": 1664850202,
+      "rank": 30,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 121500,
       "num": 121500,
       "word": "RNG状态",
       "onboard_time": 1664825832,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 121277,
+      "num": 121277,
+      "word": "支教老师说自己被光照亮也想发出微光",
+      "onboard_time": 1664848641,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 116325,
@@ -435,20 +499,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 91917,
-      "num": 91917,
-      "word": "英国宣布将放弃激进减税方案",
-      "onboard_time": 1664849363,
-      "rank": 36,
-      "category": "国外要闻,财经"
-    },
-    {
       "raw_hot": 91507,
       "num": 91507,
       "word": "原来小狗也是变脸大师",
       "onboard_time": 1664810004,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 91281,
+      "num": 91281,
+      "word": "特斯拉市值一夜蒸发5100亿",
+      "onboard_time": 1664851582,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 90568,
@@ -499,6 +563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 79681,
+      "num": 79681,
+      "word": "新婚次日丈夫嘚瑟初恋情书被罚跪",
+      "onboard_time": 1664851522,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79319,
       "num": 79319,
       "word": "虞书欣张彬彬小森林夫妻新副本",
@@ -547,6 +619,22 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 73318,
+      "num": 73318,
+      "word": "徐璐演的木桐自带警犬属性",
+      "onboard_time": 1664848582,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 72626,
+      "num": 72626,
+      "word": "川妹子陪妈妈拿下电竞冠军",
+      "onboard_time": 1664851881,
+      "rank": 47,
+      "category": "游戏,社会新闻"
+    },
+    {
       "raw_hot": 72338,
       "num": 72338,
       "word": "檀健次新剧哭戏",
@@ -561,14 +649,6 @@
       "onboard_time": 1664793804,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 69815,
-      "num": 69815,
-      "word": "支教老师说自己被光照亮也想发出微光",
-      "onboard_time": 1664848641,
-      "rank": 41,
-      "category": "教育"
     },
     {
       "raw_hot": 69263,
@@ -593,6 +673,14 @@
       "onboard_time": 1664820253,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 65014,
+      "num": 65014,
+      "word": "重阳节为什么要登高",
+      "onboard_time": 1664850982,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 62381,
@@ -625,14 +713,6 @@
       "onboard_time": 1664800225,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 55422,
-      "num": 55422,
-      "word": "女孩国庆假期帮喂猫日赚600",
-      "onboard_time": 1664849722,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 49003,
