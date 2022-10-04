@@ -1,6 +1,6 @@
 {
   "startTime": 1664901610003,
-  "endTime": 1664919716168,
+  "endTime": 1664922401040,
   "band_list": [
     {
       "raw_hot": 1197131,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 111713,
-      "num": 58960,
+      "num": 80158,
       "word": "会计被骗86万警方8分钟追回",
       "onboard_time": 1664907194,
       "rank": 11,
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 53453,
-      "num": 29762,
+      "num": 46085,
       "word": "军人洗碗后将抹布叠得像板砖",
       "onboard_time": 1664913671,
       "rank": 44,
@@ -400,6 +400,14 @@
       "word": "我迟早过上这种退休生活",
       "onboard_time": 1664889805,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49101,
+      "num": 49101,
+      "word": "健身男子徒手捏石榴为女友榨果汁",
+      "onboard_time": 1664917689,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -435,6 +443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36854,
+      "num": 30704,
+      "word": "北京大兴1例确诊病例轨迹",
+      "onboard_time": 1664918651,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34673,
       "num": 34673,
       "word": "张泽禹弹尤克里里版DTTM",
@@ -443,12 +459,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 29108,
-      "num": 26668,
+      "raw_hot": 31330,
+      "num": 31330,
+      "word": "周亦安泪别法庭",
+      "onboard_time": 1664888483,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 29861,
+      "num": 29861,
       "word": "男子高速停车将掉落广告牌拉路边",
       "onboard_time": 1664910851,
       "rank": 47,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 29796,
+      "num": 29796,
+      "word": "内蒙古阿尔山今秋首场降雪",
+      "onboard_time": 1664915650,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26575,
@@ -459,44 +491,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 20754,
-      "num": 20754,
-      "word": "周亦安泪别法庭",
-      "onboard_time": 1664888483,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 14610,
-      "num": 14610,
-      "word": "内蒙古阿尔山今秋首场降雪",
-      "onboard_time": 1664915650,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13538,
-      "num": 13538,
-      "word": "健身男子徒手捏石榴为女友榨果汁",
-      "onboard_time": 1664917689,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9231,
-      "num": 9231,
-      "word": "国庆气温跳水有多强",
-      "onboard_time": 1664916190,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8500,
-      "num": 8500,
+      "raw_hot": 10092,
+      "num": 12682,
       "word": "海军专属浪花白太浪漫了",
       "onboard_time": 1664915471,
       "rank": 49,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 9936,
+      "num": 12673,
+      "word": "国庆气温跳水有多强",
+      "onboard_time": 1664916190,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 7406,
@@ -521,6 +529,22 @@
       "onboard_time": 1664913971,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 6114,
+      "num": 12672,
+      "word": "普通人有机会去中国空间站吗",
+      "onboard_time": 1664921231,
+      "rank": 48,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 6043,
+      "num": 12667,
+      "word": "他们是我们该追的星",
+      "onboard_time": 1664921833,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 6009,
@@ -560,14 +584,6 @@
       "word": "河南新增本土确诊2例无症状12例",
       "onboard_time": 1664916251,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 5428,
-      "num": 5819,
-      "word": "北京大兴1例确诊病例轨迹",
-      "onboard_time": 1664918651,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
