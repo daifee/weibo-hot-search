@@ -1,6 +1,6 @@
 {
   "startTime": 1664815260200,
-  "endTime": 1664879311445,
+  "endTime": 1664880440872,
   "band_list": [
     {
       "raw_hot": 2392141,
@@ -91,6 +91,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1124300,
+      "num": 1124300,
+      "word": "男子拿走蜂王被蜂群爬车窗追一路",
+      "onboard_time": 1664875040,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1024000,
+      "num": 1024000,
+      "word": "爸爸精心剥虾递给女儿被丢掉",
+      "onboard_time": 1664877263,
+      "rank": 4,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 984476,
       "num": 984476,
       "word": "光遇",
@@ -105,14 +121,6 @@
       "onboard_time": 1664859803,
       "rank": 4,
       "category": "情感"
-    },
-    {
-      "raw_hot": 932421,
-      "num": 932421,
-      "word": "男子拿走蜂王被蜂群爬车窗追一路",
-      "onboard_time": 1664875040,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 897102,
@@ -163,14 +171,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 699896,
-      "num": 699896,
-      "word": "爸爸精心剥虾递给女儿被丢掉",
-      "onboard_time": 1664877263,
-      "rank": 4,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 683827,
       "num": 683827,
       "word": "泽连斯基签署不与普京谈判决定",
@@ -187,20 +187,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 606736,
+      "num": 606736,
+      "word": "2022年诺贝尔物理学奖揭晓",
+      "onboard_time": 1664877622,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 597994,
       "num": 313215,
       "word": "网传乘风破浪的姐姐4拟邀名单",
       "onboard_time": 1664807844,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 586045,
-      "num": 586045,
-      "word": "2022年诺贝尔物理学奖揭晓",
-      "onboard_time": 1664877622,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 579394,
@@ -235,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 547868,
+      "num": 547868,
+      "word": "2023考研明天开始报名",
+      "onboard_time": 1664876902,
+      "rank": 8,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 539141,
       "num": 327599,
       "word": "男子遭反向抹零被问你差那一毛钱吗",
@@ -257,14 +265,6 @@
       "onboard_time": 1664869822,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 510561,
-      "num": 510561,
-      "word": "2023考研明天开始报名",
-      "onboard_time": 1664876902,
-      "rank": 8,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 496563,
@@ -331,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 460628,
+      "num": 400003,
+      "word": "女子雇两名轿夫抬哈士奇爬山",
+      "onboard_time": 1664875883,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 460492,
       "num": 460492,
       "word": "一个抓蟑螂的新方法",
@@ -385,14 +393,6 @@
       "onboard_time": 1664807605,
       "rank": 8,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 400003,
-      "num": 400003,
-      "word": "女子雇两名轿夫抬哈士奇爬山",
-      "onboard_time": 1664875883,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 399626,
@@ -481,6 +481,14 @@
       "onboard_time": 1664879004,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 303301,
+      "num": 303301,
+      "word": "广东一婚宴不收礼金只撕红包一角",
+      "onboard_time": 1664879362,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 295958,
@@ -643,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210327,
+      "num": 210327,
+      "word": "为什么越来越多老年人变年轻了",
+      "onboard_time": 1664879122,
+      "rank": 36,
+      "category": "情感,社会议题"
+    },
+    {
       "raw_hot": 208033,
       "num": 199044,
       "word": "周依然梁靖康高甜上分",
@@ -673,6 +689,14 @@
       "onboard_time": 1664868862,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197421,
+      "num": 197421,
+      "word": "北溪泄漏后的甲烷云几天后将到北极",
+      "onboard_time": 1664878942,
+      "rank": 45,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 197377,
@@ -745,6 +769,14 @@
       "onboard_time": 1664804365,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177203,
+      "num": 177203,
+      "word": "曝广东男篮29人被隔离",
+      "onboard_time": 1664879423,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 174829,
@@ -825,6 +857,14 @@
       "onboard_time": 1664831230,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146150,
+      "num": 146150,
+      "word": "节后小肚腩真能消",
+      "onboard_time": 1664877142,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 145307,
@@ -979,14 +1019,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 122253,
-      "num": 122253,
-      "word": "节后小肚腩真能消",
-      "onboard_time": 1664877142,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 121500,
       "num": 121500,
       "word": "RNG状态",
@@ -1027,6 +1059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116933,
+      "num": 116933,
+      "word": "抢拖鞋抢到睡着的两只狗狗",
+      "onboard_time": 1664877982,
+      "rank": 35,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 116325,
       "num": 116325,
       "word": "伊瓜因宣布退役",
@@ -1041,14 +1081,6 @@
       "onboard_time": 1664802144,
       "rank": 24,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 113675,
-      "num": 113675,
-      "word": "抢拖鞋抢到睡着的两只狗狗",
-      "onboard_time": 1664877982,
-      "rank": 35,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 111886,
@@ -1089,14 +1121,6 @@
       "onboard_time": 1664873061,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 103985,
-      "num": 103985,
-      "word": "为什么越来越多老年人变年轻了",
-      "onboard_time": 1664879122,
-      "rank": 36,
-      "category": "情感,社会议题"
     },
     {
       "raw_hot": 103865,
@@ -1241,14 +1265,6 @@
       "onboard_time": 1664796441,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 80275,
-      "num": 80275,
-      "word": "北溪泄漏后的甲烷云几天后将到北极",
-      "onboard_time": 1664878942,
-      "rank": 45,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 80025,
@@ -1524,7 +1540,7 @@
     },
     {
       "raw_hot": 41916,
-      "num": 950773,
+      "num": 1032531,
       "word": "多机位打开国庆节氛围感",
       "onboard_time": 1664800944,
       "rank": 2,
