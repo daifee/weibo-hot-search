@@ -1,6 +1,6 @@
 {
   "startTime": 1664815260200,
-  "endTime": 1664875727571,
+  "endTime": 1664876845596,
   "band_list": [
     {
       "raw_hot": 2392141,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1829788,
-      "num": 332595,
+      "num": 373138,
       "word": "因为我当年喜欢EXO",
       "onboard_time": 1664857223,
       "rank": 10,
@@ -339,6 +339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 403240,
+      "num": 403240,
+      "word": "男子拿走蜂王被蜂群爬车窗追一路",
+      "onboard_time": 1664875040,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 401284,
       "num": 401284,
       "word": "特斯拉车主回应堵车没电叫拖车",
@@ -363,6 +371,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 393427,
+      "num": 393427,
+      "word": "美经济学家直言北溪是美国炸的",
+      "onboard_time": 1664872282,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 375035,
+      "num": 375035,
+      "word": "终于知道拍照怎么摆pose了",
+      "onboard_time": 1664871444,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 373120,
       "num": 358355,
       "word": "RNG入围赛淘汰赛对阵DFM",
@@ -371,36 +395,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 359913,
-      "num": 359913,
-      "word": "小伙花4年考过驾照朋友拉横幅庆祝",
-      "onboard_time": 1664847983,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 357661,
-      "num": 275241,
+      "raw_hot": 370784,
+      "num": 370784,
       "word": "姜涩琪今日solo出道",
       "onboard_time": 1664864061,
       "rank": 16,
       "category": "音乐"
     },
     {
-      "raw_hot": 347325,
-      "num": 347325,
-      "word": "美经济学家直言北溪是美国炸的",
-      "onboard_time": 1664872282,
-      "rank": 48,
+      "raw_hot": 359913,
+      "num": 359913,
+      "word": "小伙花4年考过驾照朋友拉横幅庆祝",
+      "onboard_time": 1664847983,
+      "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 323018,
-      "num": 323018,
-      "word": "终于知道拍照怎么摆pose了",
-      "onboard_time": 1664871444,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 322108,
@@ -443,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 289959,
+      "num": 289959,
+      "word": "接亲现场伴郎被伴娘考雅思听力",
+      "onboard_time": 1664874382,
+      "rank": 21,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 288092,
       "num": 288092,
       "word": "当反诈遇上苍兰诀",
@@ -473,6 +489,14 @@
       "onboard_time": 1664869461,
       "rank": 16,
       "category": "美妆,时尚"
+    },
+    {
+      "raw_hot": 261471,
+      "num": 261471,
+      "word": "请君",
+      "onboard_time": 1664876783,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 259581,
@@ -587,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192959,
+      "num": 186665,
+      "word": "北京朝阳新增1例感染者",
+      "onboard_time": 1664876062,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192312,
       "num": 178187,
       "word": "工作人员扮玩偶被2男子捶打",
@@ -651,14 +683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 176439,
-      "num": 176439,
-      "word": "接亲现场伴郎被伴娘考雅思听力",
-      "onboard_time": 1664874382,
-      "rank": 21,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 174829,
       "num": 174829,
       "word": "英雄联盟S12",
@@ -673,6 +697,14 @@
       "onboard_time": 1664838556,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 165437,
+      "num": 165437,
+      "word": "女子雇两名轿夫抬哈士奇爬山",
+      "onboard_time": 1664875883,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163750,
@@ -697,6 +729,14 @@
       "onboard_time": 1664855002,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162107,
+      "num": 162107,
+      "word": "猪脸识别技术你了解吗",
+      "onboard_time": 1664875462,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 162023,
@@ -795,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136330,
+      "num": 136330,
+      "word": "泽连斯基签署不与普京谈判决定",
+      "onboard_time": 1664876422,
+      "rank": 29,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 134311,
       "num": 134311,
       "word": "爷爷奶奶们的名字有多好听",
@@ -817,14 +865,6 @@
       "onboard_time": 1664841798,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 131495,
-      "num": 131495,
-      "word": "男子拿走蜂王被蜂群爬车窗追一路",
-      "onboard_time": 1664875040,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 130881,
@@ -915,6 +955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118514,
+      "num": 118514,
+      "word": "成都世乒赛团体赛",
+      "onboard_time": 1664874203,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116325,
       "num": 116325,
       "word": "伊瓜因宣布退役",
@@ -929,14 +977,6 @@
       "onboard_time": 1664802144,
       "rank": 24,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 112296,
-      "num": 112296,
-      "word": "成都世乒赛团体赛",
-      "onboard_time": 1664874203,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 111886,
@@ -1057,14 +1097,6 @@
       "onboard_time": 1664831470,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 91654,
-      "num": 91654,
-      "word": "猪脸识别技术你了解吗",
-      "onboard_time": 1664875462,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 91507,

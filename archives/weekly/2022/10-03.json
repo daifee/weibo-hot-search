@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1664875727571,
+  "endTime": 1664876845596,
   "band_list": [
     {
       "raw_hot": 3091269,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1829788,
-      "num": 332595,
+      "num": 373138,
       "word": "因为我当年喜欢EXO",
       "onboard_time": 1664857223,
       "rank": 10,
@@ -803,6 +803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 403240,
+      "num": 403240,
+      "word": "男子拿走蜂王被蜂群爬车窗追一路",
+      "onboard_time": 1664875040,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 401284,
       "num": 401284,
       "word": "特斯拉车主回应堵车没电叫拖车",
@@ -857,6 +865,14 @@
       "onboard_time": 1664784743,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 393427,
+      "num": 393427,
+      "word": "美经济学家直言北溪是美国炸的",
+      "onboard_time": 1664872282,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 393399,
@@ -915,6 +931,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 375035,
+      "num": 375035,
+      "word": "终于知道拍照怎么摆pose了",
+      "onboard_time": 1664871444,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 373120,
       "num": 358355,
       "word": "RNG入围赛淘汰赛对阵DFM",
@@ -931,6 +955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 370784,
+      "num": 370784,
+      "word": "姜涩琪今日solo出道",
+      "onboard_time": 1664864061,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 366752,
       "num": 366752,
       "word": "北溪管道泄漏事件由炸药爆炸引起",
@@ -945,14 +977,6 @@
       "onboard_time": 1664847983,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 357661,
-      "num": 275241,
-      "word": "姜涩琪今日solo出道",
-      "onboard_time": 1664864061,
-      "rank": 16,
-      "category": "音乐"
     },
     {
       "raw_hot": 352227,
@@ -977,14 +1001,6 @@
       "onboard_time": 1664796984,
       "rank": 37,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 347325,
-      "num": 347325,
-      "word": "美经济学家直言北溪是美国炸的",
-      "onboard_time": 1664872282,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 346836,
@@ -1049,14 +1065,6 @@
       "onboard_time": 1664776283,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 323018,
-      "num": 323018,
-      "word": "终于知道拍照怎么摆pose了",
-      "onboard_time": 1664871444,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 322021,
@@ -1145,6 +1153,14 @@
       "onboard_time": 1664864601,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289959,
+      "num": 289959,
+      "word": "接亲现场伴郎被伴娘考雅思听力",
+      "onboard_time": 1664874382,
+      "rank": 21,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 289569,
@@ -1241,6 +1257,14 @@
       "onboard_time": 1664769862,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 261471,
+      "num": 261471,
+      "word": "请君",
+      "onboard_time": 1664876783,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 259581,
@@ -1603,6 +1627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 192959,
+      "num": 186665,
+      "word": "北京朝阳新增1例感染者",
+      "onboard_time": 1664876062,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191760,
       "num": 191760,
       "word": "傅菁民族风造型",
@@ -1699,14 +1731,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 176439,
-      "num": 176439,
-      "word": "接亲现场伴郎被伴娘考雅思听力",
-      "onboard_time": 1664874382,
-      "rank": 21,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 176410,
       "num": 176410,
       "word": "想当航天员不能打呼噜",
@@ -1729,6 +1753,14 @@
       "onboard_time": 1664838556,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 165437,
+      "num": 165437,
+      "word": "女子雇两名轿夫抬哈士奇爬山",
+      "onboard_time": 1664875883,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165427,
@@ -1793,6 +1825,14 @@
       "onboard_time": 1664805684,
       "rank": 42,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 162107,
+      "num": 162107,
+      "word": "猪脸识别技术你了解吗",
+      "onboard_time": 1664875462,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 162023,
@@ -1987,6 +2027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136330,
+      "num": 136330,
+      "word": "泽连斯基签署不与普京谈判决定",
+      "onboard_time": 1664876422,
+      "rank": 29,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 135186,
       "num": 135186,
       "word": "唐诡后遗症",
@@ -2025,14 +2073,6 @@
       "onboard_time": 1664841798,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 131495,
-      "num": 131495,
-      "word": "男子拿走蜂王被蜂群爬车窗追一路",
-      "onboard_time": 1664875040,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 128787,
@@ -2179,6 +2219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 118514,
+      "num": 118514,
+      "word": "成都世乒赛团体赛",
+      "onboard_time": 1664874203,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117541,
       "num": 133353,
       "word": "男子景区开11家十元管饱饭店",
@@ -2225,14 +2273,6 @@
       "onboard_time": 1664721806,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 112296,
-      "num": 112296,
-      "word": "成都世乒赛团体赛",
-      "onboard_time": 1664874203,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 111886,
@@ -2399,14 +2439,6 @@
       "num": 93096,
       "word": "万里归途票房破5亿",
       "onboard_time": 1664778322,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 91654,
-      "num": 91654,
-      "word": "猪脸识别技术你了解吗",
-      "onboard_time": 1664875462,
       "rank": 39,
       "category": "影视"
     },

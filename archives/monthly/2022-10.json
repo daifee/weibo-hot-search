@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664875727571,
+  "endTime": 1664876845596,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 1829788,
-      "num": 332595,
+      "num": 373138,
       "word": "因为我当年喜欢EXO",
       "onboard_time": 1664857223,
       "rank": 10,
@@ -1683,6 +1683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 403240,
+      "num": 403240,
+      "word": "男子拿走蜂王被蜂群爬车窗追一路",
+      "onboard_time": 1664875040,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 402745,
       "num": 296489,
       "word": "网剧炽道",
@@ -1769,6 +1777,14 @@
       "onboard_time": 1664563153,
       "rank": 35,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 393427,
+      "num": 393427,
+      "word": "美经济学家直言北溪是美国炸的",
+      "onboard_time": 1664872282,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 393399,
@@ -1859,6 +1875,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 375035,
+      "num": 375035,
+      "word": "终于知道拍照怎么摆pose了",
+      "onboard_time": 1664871444,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 373120,
       "num": 358355,
       "word": "RNG入围赛淘汰赛对阵DFM",
@@ -1873,6 +1897,14 @@
       "onboard_time": 1664793142,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 370784,
+      "num": 370784,
+      "word": "姜涩琪今日solo出道",
+      "onboard_time": 1664864061,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 368867,
@@ -1939,14 +1971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 357661,
-      "num": 275241,
-      "word": "姜涩琪今日solo出道",
-      "onboard_time": 1664864061,
-      "rank": 16,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 354274,
       "num": 354274,
       "word": "S12提莫登场",
@@ -1985,14 +2009,6 @@
       "onboard_time": 1664796984,
       "rank": 37,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 347325,
-      "num": 347325,
-      "word": "美经济学家直言北溪是美国炸的",
-      "onboard_time": 1664872282,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 346836,
@@ -2113,14 +2129,6 @@
       "onboard_time": 1664677160,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 323018,
-      "num": 323018,
-      "word": "终于知道拍照怎么摆pose了",
-      "onboard_time": 1664871444,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 322493,
@@ -2313,6 +2321,14 @@
       "onboard_time": 1664709682,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 289959,
+      "num": 289959,
+      "word": "接亲现场伴郎被伴娘考雅思听力",
+      "onboard_time": 1664874382,
+      "rank": 21,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 289402,
@@ -2585,6 +2601,14 @@
       "onboard_time": 1664539466,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261471,
+      "num": 261471,
+      "word": "请君",
+      "onboard_time": 1664876783,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 260315,
@@ -3371,6 +3395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 192959,
+      "num": 186665,
+      "word": "北京朝阳新增1例感染者",
+      "onboard_time": 1664876062,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192238,
       "num": 192238,
       "word": "13岁重庆少年3年升国旗100多次",
@@ -3579,14 +3611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 176439,
-      "num": 176439,
-      "word": "接亲现场伴郎被伴娘考雅思听力",
-      "onboard_time": 1664874382,
-      "rank": 21,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 176057,
       "num": 176057,
       "word": "国庆首日西湖接待23.82万游客",
@@ -3683,6 +3707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165437,
+      "num": 165437,
+      "word": "女子雇两名轿夫抬哈士奇爬山",
+      "onboard_time": 1664875883,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164497,
       "num": 164497,
       "word": "林志炫新歌滕王阁序",
@@ -3737,6 +3769,14 @@
       "onboard_time": 1664805684,
       "rank": 42,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 162107,
+      "num": 162107,
+      "word": "猪脸识别技术你了解吗",
+      "onboard_time": 1664875462,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 162023,
@@ -4139,6 +4179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136330,
+      "num": 136330,
+      "word": "泽连斯基签署不与普京谈判决定",
+      "onboard_time": 1664876422,
+      "rank": 29,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 135935,
       "num": 135935,
       "word": "表白中国我接力",
@@ -4217,14 +4265,6 @@
       "onboard_time": 1664841798,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 131495,
-      "num": 131495,
-      "word": "男子拿走蜂王被蜂群爬车窗追一路",
-      "onboard_time": 1664875040,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131178,
@@ -4499,6 +4539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 118514,
+      "num": 118514,
+      "word": "成都世乒赛团体赛",
+      "onboard_time": 1664874203,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118216,
       "num": 118216,
       "word": "沸腾校园是大学生相亲大会吧",
@@ -4617,14 +4665,6 @@
       "onboard_time": 1664670021,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 112296,
-      "num": 112296,
-      "word": "成都世乒赛团体赛",
-      "onboard_time": 1664874203,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 111886,
@@ -4977,14 +5017,6 @@
       "onboard_time": 1664719824,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 91654,
-      "num": 91654,
-      "word": "猪脸识别技术你了解吗",
-      "onboard_time": 1664875462,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 91457,
