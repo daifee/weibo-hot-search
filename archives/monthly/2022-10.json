@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664883611984,
+  "endTime": 1664888209569,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -627,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 895539,
+      "num": 600944,
+      "word": "儿子拒绝赡养母亲将房产赠与扶养人",
+      "onboard_time": 1664882182,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 881003,
       "num": 881003,
       "word": "韩方称朝鲜向半岛东部海域发射不明弹道导弹",
@@ -689,6 +697,14 @@
       "onboard_time": 1664614641,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 810267,
+      "num": 810267,
+      "word": "猫咪初见出生3天小主人瞠目观望",
+      "onboard_time": 1664883503,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 805773,
@@ -1243,6 +1259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 526412,
+      "num": 272148,
+      "word": "37岁白发缉毒警被误认成孩子爷爷",
+      "onboard_time": 1664885903,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 524082,
       "num": 524082,
       "word": "为什么越来越多老年人变年轻了",
@@ -1593,6 +1617,14 @@
       "onboard_time": 1664755641,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 441547,
+      "num": 441547,
+      "word": "蔡文静说最气人的案件来了",
+      "onboard_time": 1664885303,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 440822,
@@ -2017,14 +2049,6 @@
       "onboard_time": 1664771483,
       "rank": 13,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 364245,
-      "num": 364245,
-      "word": "儿子拒绝赡养母亲将房产赠与扶养人",
-      "onboard_time": 1664882182,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 361565,
@@ -2731,6 +2755,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 259112,
+      "num": 259112,
+      "word": "双向奔赴才能让爱有意义",
+      "onboard_time": 1664885423,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 258470,
       "num": 258470,
       "word": "特优声2二公舞台好适合国庆",
@@ -2849,6 +2881,14 @@
       "onboard_time": 1664731277,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 250784,
+      "num": 250784,
+      "word": "想听王俊凯唱万里归途",
+      "onboard_time": 1664886803,
+      "rank": 15,
+      "category": "影视,音乐"
     },
     {
       "raw_hot": 250581,
@@ -3129,6 +3169,14 @@
       "onboard_time": 1664708424,
       "rank": 35,
       "category": "科技,国内要闻"
+    },
+    {
+      "raw_hot": 226484,
+      "num": 226484,
+      "word": "唐朝诡事录黄梅杀好烧脑",
+      "onboard_time": 1664884882,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 224146,
@@ -4107,6 +4155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 145741,
+      "num": 145741,
+      "word": "张彬彬小森林粤语表白虞书欣",
+      "onboard_time": 1664888123,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 145307,
       "num": 145307,
       "word": "你家乡的小巷子美食是啥",
@@ -4515,6 +4571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125539,
+      "num": 125539,
+      "word": "这就是总裁老了的样子吧",
+      "onboard_time": 1664885663,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 125485,
       "num": 125485,
       "word": "2个动作改善驼背",
@@ -4643,6 +4707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 120924,
+      "num": 120924,
+      "word": "吉克隽逸一边哭一边唱三行情书",
+      "onboard_time": 1664885724,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 120911,
       "num": 120911,
       "word": "老人景区昏倒游客接力心肺复苏",
@@ -4657,6 +4729,14 @@
       "onboard_time": 1664857402,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120054,
+      "num": 120054,
+      "word": "108岁作家自述地下党伪装经历",
+      "onboard_time": 1664883206,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118653,
@@ -4689,6 +4769,14 @@
       "onboard_time": 1664685082,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118015,
+      "num": 118015,
+      "word": "中国女团vs马来西亚女团",
+      "onboard_time": 1664885243,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 117541,
@@ -4819,6 +4907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111556,
+      "num": 111556,
+      "word": "中国女团3比0马来西亚女团",
+      "onboard_time": 1664886803,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110798,
       "num": 110798,
       "word": "2023年国考10月25日开始报名",
@@ -4833,6 +4929,14 @@
       "onboard_time": 1664600721,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 110452,
+      "num": 110452,
+      "word": "周深清唱大鱼DNA动了",
+      "onboard_time": 1664886502,
+      "rank": 33,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 109515,
@@ -5049,6 +5153,14 @@
       "onboard_time": 1664705963,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100341,
+      "num": 100341,
+      "word": "孙颖莎3比0莱恩",
+      "onboard_time": 1664884163,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 99071,
@@ -5307,6 +5419,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 83924,
+      "num": 83924,
+      "word": "长春6旬大爷坚持滑雪21年",
+      "onboard_time": 1664884103,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83653,
       "num": 83653,
       "word": "陈梦3比0里奥斯",
@@ -5347,6 +5467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80356,
+      "num": 80356,
+      "word": "王艺迪3比0郑丽贤",
+      "onboard_time": 1664887822,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79464,
       "num": 79464,
       "word": "缓解脖子僵硬的头颈操",
@@ -5369,6 +5497,14 @@
       "onboard_time": 1664756121,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78326,
+      "num": 78326,
+      "word": "王曼昱3比0郑爱新",
+      "onboard_time": 1664887521,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 77954,
@@ -5547,12 +5683,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 69117,
-      "num": 69117,
-      "word": "108岁作家自述地下党伪装经历",
-      "onboard_time": 1664883206,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 68964,
+      "num": 68964,
+      "word": "像极了上班打瞌睡的我",
+      "onboard_time": 1664887642,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 68502,
@@ -5689,14 +5825,6 @@
       "onboard_time": 1664608284,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 64411,
-      "num": 64411,
-      "word": "猫咪初见出生3天小主人瞠目观望",
-      "onboard_time": 1664883503,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 64286,
