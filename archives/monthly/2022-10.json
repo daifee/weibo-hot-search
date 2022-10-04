@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664868772235,
+  "endTime": 1664869770710,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -387,6 +387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1133539,
+      "num": 1133539,
+      "word": "谌龙世界排名被移除",
+      "onboard_time": 1664862860,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1123586,
       "num": 801070,
       "word": "少爷和我",
@@ -417,14 +425,6 @@
       "onboard_time": 1664603360,
       "rank": 17,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 1090515,
-      "num": 1090515,
-      "word": "谌龙世界排名被移除",
-      "onboard_time": 1664862860,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 1089913,
@@ -1059,12 +1059,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 567803,
+      "num": 319591,
+      "word": "小S确诊新冠",
+      "onboard_time": 1664869703,
+      "rank": 11,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 564508,
       "num": 564508,
       "word": "全国曾经只有一人的专业有多寂寞",
       "onboard_time": 1664840719,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 561836,
+      "num": 561836,
+      "word": "难哄第二季开播",
+      "onboard_time": 1664864781,
+      "rank": 22,
+      "category": "动漫"
     },
     {
       "raw_hot": 556732,
@@ -1153,14 +1169,6 @@
       "onboard_time": 1664605823,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 529573,
-      "num": 529573,
-      "word": "难哄第二季开播",
-      "onboard_time": 1664864781,
-      "rank": 22,
-      "category": "动漫"
     },
     {
       "raw_hot": 519920,
@@ -1257,6 +1265,14 @@
       "onboard_time": 1664611345,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 486335,
+      "num": 486335,
+      "word": "马斯克给俄乌冲突提建议引泽连斯基不满",
+      "onboard_time": 1664865202,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 486299,
@@ -1363,20 +1379,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 465948,
+      "num": 465948,
+      "word": "成毅把羽毛球当网球打",
+      "onboard_time": 1664866223,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 465567,
       "num": 465567,
       "word": "德国民众雨中示威要求停止对俄制裁",
       "onboard_time": 1664724624,
       "rank": 30,
       "category": "国外要闻,社会新闻"
-    },
-    {
-      "raw_hot": 461545,
-      "num": 461545,
-      "word": "马斯克给俄乌冲突提建议引泽连斯基不满",
-      "onboard_time": 1664865202,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 460492,
@@ -1795,14 +1811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 375564,
-      "num": 375564,
-      "word": "成毅把羽毛球当网球打",
-      "onboard_time": 1664866223,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 375131,
       "num": 375131,
       "word": "泽连斯基称乌克兰将重建海军",
@@ -1825,6 +1833,14 @@
       "onboard_time": 1664793142,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 370129,
+      "num": 310990,
+      "word": "雪王路边哄小孩突遭男子挥拳袭击",
+      "onboard_time": 1664866882,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 368867,
@@ -2219,6 +2235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294422,
+      "num": 294422,
+      "word": "主人收玉米遇野猪袭击狗狗奋力保护",
+      "onboard_time": 1664864601,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293089,
       "num": 293089,
       "word": "任嘉伦李沁请君相拥说枕边话",
@@ -2233,14 +2257,6 @@
       "onboard_time": 1664709682,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 290434,
-      "num": 290434,
-      "word": "主人收玉米遇野猪袭击狗狗奋力保护",
-      "onboard_time": 1664864601,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 289402,
@@ -2403,14 +2419,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 273408,
-      "num": 273408,
-      "word": "雪王路边哄小孩突遭男子挥拳袭击",
-      "onboard_time": 1664866882,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 272585,
       "num": 190265,
       "word": "当追星的我老了以后",
@@ -2425,6 +2433,14 @@
       "onboard_time": 1664785641,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 271180,
+      "num": 271180,
+      "word": "虞书欣虞美人造型解析",
+      "onboard_time": 1664869461,
+      "rank": 16,
+      "category": "美妆,时尚"
     },
     {
       "raw_hot": 271166,
@@ -2585,6 +2601,14 @@
       "onboard_time": 1664588902,
       "rank": 14,
       "category": "科技,国内要闻"
+    },
+    {
+      "raw_hot": 254174,
+      "num": 254174,
+      "word": "乌军在赫尔松两地突破俄军防御",
+      "onboard_time": 1664865441,
+      "rank": 47,
+      "category": "军事"
     },
     {
       "raw_hot": 253820,
@@ -3033,14 +3057,6 @@
       "onboard_time": 1664846483,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 209851,
-      "num": 209851,
-      "word": "乌军在赫尔松两地突破俄军防御",
-      "onboard_time": 1664865441,
-      "rank": 47,
-      "category": "军事"
     },
     {
       "raw_hot": 209530,
@@ -3641,6 +3657,14 @@
       "onboard_time": 1664755700,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159148,
+      "num": 159148,
+      "word": "傅菁民族风造型",
+      "onboard_time": 1664869102,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 159052,
@@ -4523,6 +4547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 108929,
+      "num": 108929,
+      "word": "庄羽表白虞美人",
+      "onboard_time": 1664867422,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 108896,
       "num": 108896,
       "word": "水晶宫vs切尔西",
@@ -4537,14 +4569,6 @@
       "onboard_time": 1664806644,
       "rank": 36,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 107906,
-      "num": 107906,
-      "word": "庄羽表白虞美人",
-      "onboard_time": 1664867422,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 107575,
@@ -4659,6 +4683,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 102174,
+      "num": 102174,
+      "word": "稻城亚丁旅行攻略",
+      "onboard_time": 1664866461,
+      "rank": 38,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 102128,
       "num": 102128,
       "word": "氛围感拉满还得看中国",
@@ -4705,6 +4737,14 @@
       "onboard_time": 1664699240,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97788,
+      "num": 97788,
+      "word": "国乒男团战泰国名单出炉",
+      "onboard_time": 1664869461,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 97111,
@@ -4763,6 +4803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 93680,
+      "num": 93680,
+      "word": "你感受到一夜换季了吗",
+      "onboard_time": 1664868622,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93658,
       "num": 93658,
       "word": "小伙深夜租叉车帮老人捡气球",
@@ -4779,6 +4827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 93071,
+      "num": 93071,
+      "word": "小伙1年帮50户老人做适老化改造",
+      "onboard_time": 1664868862,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92591,
       "num": 92591,
       "word": "今天发条微博祝福祖国",
@@ -4793,6 +4849,14 @@
       "onboard_time": 1664719824,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91839,
+      "num": 91839,
+      "word": "金晨新剧被王安宇逼婚",
+      "onboard_time": 1664869281,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 91457,
@@ -4817,14 +4881,6 @@
       "onboard_time": 1664843541,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 90064,
-      "num": 90064,
-      "word": "稻城亚丁旅行攻略",
-      "onboard_time": 1664866461,
-      "rank": 38,
-      "category": "旅游"
     },
     {
       "raw_hot": 89861,
@@ -5099,14 +5155,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 72591,
-      "num": 72591,
-      "word": "你感受到一夜换季了吗",
-      "onboard_time": 1664868622,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 72338,
       "num": 72338,
       "word": "檀健次新剧哭戏",
@@ -5219,6 +5267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66178,
+      "num": 66178,
+      "word": "AI激光助力灭蟑螂",
+      "onboard_time": 1664866581,
+      "rank": 46,
+      "category": "科技"
+    },
+    {
       "raw_hot": 65514,
       "num": 65514,
       "word": "十一假期怎么过",
@@ -5265,14 +5321,6 @@
       "onboard_time": 1664546605,
       "rank": 35,
       "category": "科技,国内要闻"
-    },
-    {
-      "raw_hot": 64715,
-      "num": 64715,
-      "word": "AI激光助力灭蟑螂",
-      "onboard_time": 1664866581,
-      "rank": 46,
-      "category": "科技"
     },
     {
       "raw_hot": 64640,
@@ -5667,6 +5715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 40305,
+      "num": 291937,
+      "word": "她90岁高龄时仍不忘捐资助学",
+      "onboard_time": 1664867301,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40106,
       "num": 283442,
       "word": "91岁老战士向国旗敬礼时眼中有光",
@@ -5737,14 +5793,6 @@
       "onboard_time": 1664832190,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 33385,
-      "num": 274582,
-      "word": "她90岁高龄时仍不忘捐资助学",
-      "onboard_time": 1664867301,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31661,

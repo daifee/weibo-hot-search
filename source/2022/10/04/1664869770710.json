@@ -1,0 +1,410 @@
+{
+  "runTime": 1664869770710,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1758056,
+        "num": 1758056,
+        "word": "山东冷成了山冻",
+        "onboard_time": 1664863641,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1133539,
+        "num": 1133539,
+        "word": "谌龙世界排名被移除",
+        "onboard_time": 1664862860,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12174,
+        "num": 771877,
+        "word": "多机位打开国庆节氛围感",
+        "onboard_time": 1664800944,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 561836,
+        "num": 561836,
+        "word": "难哄第二季开播",
+        "onboard_time": 1664864781,
+        "rank": 3,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 542087,
+        "num": 542087,
+        "word": "恋人过世真的会化身蝴蝶吗",
+        "onboard_time": 1664859803,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 486335,
+        "num": 486335,
+        "word": "马斯克给俄乌冲突提建议引泽连斯基不满",
+        "onboard_time": 1664865202,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465948,
+        "num": 465948,
+        "word": "成毅把羽毛球当网球打",
+        "onboard_time": 1664866223,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 383724,
+        "num": 383724,
+        "word": "我和家里的蟑螂合租了",
+        "onboard_time": 1664859863,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 325171,
+        "num": 325171,
+        "word": "日本向多地发布避难警报",
+        "onboard_time": 1664856442,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320697,
+        "num": 320697,
+        "word": "街舞5总决赛在澳门录制",
+        "onboard_time": 1664867481,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1052593,
+        "num": 319818,
+        "word": "因为我当年喜欢EXO",
+        "onboard_time": 1664857223,
+        "rank": 10,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 567803,
+        "num": 319591,
+        "word": "小S确诊新冠",
+        "onboard_time": 1664869703,
+        "rank": 11,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 370129,
+        "num": 310990,
+        "word": "雪王路边哄小孩突遭男子挥拳袭击",
+        "onboard_time": 1664866882,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294422,
+        "num": 294422,
+        "word": "主人收玉米遇野猪袭击狗狗奋力保护",
+        "onboard_time": 1664864601,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40305,
+        "num": 291937,
+        "word": "她90岁高龄时仍不忘捐资助学",
+        "onboard_time": 1664867301,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289943,
+        "num": 289943,
+        "word": "男子遭反向抹零被问你差那一毛钱吗",
+        "onboard_time": 1664856143,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271180,
+        "num": 271180,
+        "word": "虞书欣虞美人造型解析",
+        "onboard_time": 1664869461,
+        "rank": 16,
+        "category": "美妆,时尚"
+      },
+      {
+        "raw_hot": 254174,
+        "num": 254174,
+        "word": "乌军在赫尔松两地突破俄军防御",
+        "onboard_time": 1664865441,
+        "rank": 17,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 251489,
+        "num": 251489,
+        "word": "李承铉说感情中时机很重要",
+        "onboard_time": 1664862622,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220937,
+        "num": 220937,
+        "word": "姜涩琪今日solo出道",
+        "onboard_time": 1664864061,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 209488,
+        "num": 209488,
+        "word": "张根源李聂正式约会",
+        "onboard_time": 1664864122,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208454,
+        "num": 208454,
+        "word": "92岁老人参加外孙女婚礼兜里被塞满钱",
+        "onboard_time": 1664861602,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190753,
+        "num": 190753,
+        "word": "新婚次日丈夫嘚瑟初恋情书被罚跪",
+        "onboard_time": 1664851522,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159148,
+        "num": 159148,
+        "word": "傅菁民族风造型",
+        "onboard_time": 1664869102,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 152558,
+        "num": 152558,
+        "word": "朝鲜导弹疑飞过日本上空",
+        "onboard_time": 1664855541,
+        "rank": 24,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 146013,
+        "num": 146013,
+        "word": "特斯拉市值一夜蒸发5100亿",
+        "onboard_time": 1664851582,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 144024,
+        "num": 144024,
+        "word": "赵文卓空中踢刀",
+        "onboard_time": 1664848281,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143972,
+        "num": 143972,
+        "word": "如何喝咖啡更健康",
+        "onboard_time": 1664856200,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 113216,
+        "num": 113216,
+        "word": "原来不止有隔代亲还有隔代潮",
+        "onboard_time": 1664863221,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111702,
+        "num": 111702,
+        "word": "RNG入围赛淘汰赛对阵DFM",
+        "onboard_time": 1664851461,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136559,
+        "num": 110755,
+        "word": "看我的反派男友恋爱瘾犯了",
+        "onboard_time": 1664866102,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118015,
+        "num": 110310,
+        "word": "HYBE第四季度计划",
+        "onboard_time": 1664862142,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108929,
+        "num": 108929,
+        "word": "庄羽表白虞美人",
+        "onboard_time": 1664867422,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 106872,
+        "num": 106872,
+        "word": "詹姆斯半场7中0",
+        "onboard_time": 1664861063,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104901,
+        "num": 104901,
+        "word": "SuperM出道曲Jopping发行三周年",
+        "onboard_time": 1664857522,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 102174,
+        "num": 102174,
+        "word": "稻城亚丁旅行攻略",
+        "onboard_time": 1664866461,
+        "rank": 35,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 101760,
+        "num": 101760,
+        "word": "颈椎喜欢的5个锻炼动作",
+        "onboard_time": 1664862563,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100899,
+        "num": 100899,
+        "word": "爷爷奶奶们的名字有多好听",
+        "onboard_time": 1664859381,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97788,
+        "num": 97788,
+        "word": "国乒男团战泰国名单出炉",
+        "onboard_time": 1664869461,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93680,
+        "num": 93680,
+        "word": "你感受到一夜换季了吗",
+        "onboard_time": 1664868622,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93071,
+        "num": 93071,
+        "word": "小伙1年帮50户老人做适老化改造",
+        "onboard_time": 1664868862,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91839,
+        "num": 91839,
+        "word": "金晨新剧被王安宇逼婚",
+        "onboard_time": 1664869281,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 84494,
+        "num": 84494,
+        "word": "光遇",
+        "onboard_time": 1664856562,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 81120,
+        "num": 81120,
+        "word": "男孩交给警察1只4眼蓝血小怪物",
+        "onboard_time": 1664840657,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73386,
+        "num": 73386,
+        "word": "王一博街舞5微电影排练花絮",
+        "onboard_time": 1664858543,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72096,
+        "num": 72096,
+        "word": "父亲因思念女儿驱车300公里送宵夜",
+        "onboard_time": 1664844440,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71230,
+        "num": 71230,
+        "word": "努力有可能超越天赋吗",
+        "onboard_time": 1664859743,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 70428,
+        "num": 70428,
+        "word": "为什么人老了会面目模糊",
+        "onboard_time": 1664846242,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68360,
+        "num": 68360,
+        "word": "iPhone在6人死亡车祸中自动求救",
+        "onboard_time": 1664796084,
+        "rank": 48,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 66178,
+        "num": 66178,
+        "word": "AI激光助力灭蟑螂",
+        "onboard_time": 1664866581,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国空间站等你来出差#"
+    }
+  }
+}
