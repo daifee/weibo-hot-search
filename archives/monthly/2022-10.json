@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664876845596,
+  "endTime": 1664879311445,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 1829788,
-      "num": 373138,
+      "num": 448117,
       "word": "因为我当年喜欢EXO",
       "onboard_time": 1664857223,
       "rank": 10,
@@ -579,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 932421,
+      "num": 932421,
+      "word": "男子拿走蜂王被蜂群爬车窗追一路",
+      "onboard_time": 1664875040,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 916316,
       "num": 301758,
       "word": "王梦洁",
@@ -835,6 +843,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 699896,
+      "num": 699896,
+      "word": "爸爸精心剥虾递给女儿被丢掉",
+      "onboard_time": 1664877263,
+      "rank": 4,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 699201,
       "num": 366146,
       "word": "刘强东回应明州事件",
@@ -873,6 +889,14 @@
       "onboard_time": 1664764523,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 683827,
+      "num": 683827,
+      "word": "泽连斯基签署不与普京谈判决定",
+      "onboard_time": 1664876422,
+      "rank": 29,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 681100,
@@ -1033,6 +1057,14 @@
       "onboard_time": 1664631022,
       "rank": 12,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 586045,
+      "num": 586045,
+      "word": "2022年诺贝尔物理学奖揭晓",
+      "onboard_time": 1664877622,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 585838,
@@ -1217,6 +1249,14 @@
       "onboard_time": 1664869822,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 510561,
+      "num": 510561,
+      "word": "2023考研明天开始报名",
+      "onboard_time": 1664876902,
+      "rank": 8,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 508946,
@@ -1683,14 +1723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 403240,
-      "num": 403240,
-      "word": "男子拿走蜂王被蜂群爬车窗追一路",
-      "onboard_time": 1664875040,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 402745,
       "num": 296489,
       "word": "网剧炽道",
@@ -1713,6 +1745,14 @@
       "onboard_time": 1664778801,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 400003,
+      "num": 400003,
+      "word": "女子雇两名轿夫抬哈士奇爬山",
+      "onboard_time": 1664875883,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 399626,
@@ -2251,6 +2291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 305147,
+      "num": 305147,
+      "word": "姜涩琪solo主打曲MV",
+      "onboard_time": 1664879004,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 303761,
       "num": 303761,
       "word": "中国人为什么喜欢龙",
@@ -2313,6 +2361,14 @@
       "onboard_time": 1664721806,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 292729,
+      "num": 292729,
+      "word": "北京朝阳新增1例感染者",
+      "onboard_time": 1664876062,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 292345,
@@ -3195,6 +3251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 206819,
+      "num": 206819,
+      "word": "万里归途票房破7亿",
+      "onboard_time": 1664877263,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 206349,
       "num": 206349,
       "word": "唐朝诡事录反转",
@@ -3339,6 +3403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197377,
+      "num": 197377,
+      "word": "TREASURE新歌",
+      "onboard_time": 1664877083,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 197172,
       "num": 197172,
       "word": "梅西生涯第60次任意球破门",
@@ -3393,14 +3465,6 @@
       "onboard_time": 1664789303,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 192959,
-      "num": 186665,
-      "word": "北京朝阳新增1例感染者",
-      "onboard_time": 1664876062,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 192238,
@@ -3704,14 +3768,6 @@
       "word": "河南增11例本土无症状",
       "onboard_time": 1664680761,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 165437,
-      "num": 165437,
-      "word": "女子雇两名轿夫抬哈士奇爬山",
-      "onboard_time": 1664875883,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -4179,14 +4235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136330,
-      "num": 136330,
-      "word": "泽连斯基签署不与普京谈判决定",
-      "onboard_time": 1664876422,
-      "rank": 29,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 135935,
       "num": 135935,
       "word": "表白中国我接力",
@@ -4321,6 +4369,14 @@
       "onboard_time": 1664701462,
       "rank": 32,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 127450,
+      "num": 127450,
+      "word": "国乒男团3比0泰国",
+      "onboard_time": 1664878463,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 127354,
@@ -4465,6 +4521,14 @@
       "onboard_time": 1664669421,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122253,
+      "num": 122253,
+      "word": "节后小肚腩真能消",
+      "onboard_time": 1664877142,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 122179,
@@ -4641,6 +4705,14 @@
       "onboard_time": 1664718805,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 113675,
+      "num": 113675,
+      "word": "抢拖鞋抢到睡着的两只狗狗",
+      "onboard_time": 1664877982,
+      "rank": 35,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 113497,
@@ -4825,6 +4897,14 @@
       "onboard_time": 1664873061,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 103985,
+      "num": 103985,
+      "word": "为什么越来越多老年人变年轻了",
+      "onboard_time": 1664879122,
+      "rank": 36,
+      "category": "情感,社会议题"
     },
     {
       "raw_hot": 103865,
@@ -5043,6 +5123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90383,
+      "num": 90383,
+      "word": "殷桃无声哭戏演绎最克制的痛苦",
+      "onboard_time": 1664878103,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 89861,
       "num": 89861,
       "word": "马龙团体赛100场里程碑",
@@ -5195,6 +5283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80275,
+      "num": 80275,
+      "word": "北溪泄漏后的甲烷云几天后将到北极",
+      "onboard_time": 1664878942,
+      "rank": 45,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 79464,
       "num": 79464,
       "word": "缓解脖子僵硬的头颈操",
@@ -5259,6 +5355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76267,
+      "num": 76267,
+      "word": "考研报名攻略",
+      "onboard_time": 1664878345,
+      "rank": 47,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 75890,
       "num": 75890,
       "word": "乌云遇皎月剧情高能",
@@ -5292,7 +5396,7 @@
     },
     {
       "raw_hot": 74398,
-      "num": 882757,
+      "num": 950773,
       "word": "多机位打开国庆节氛围感",
       "onboard_time": 1664800944,
       "rank": 2,

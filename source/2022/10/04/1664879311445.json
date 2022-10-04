@@ -1,0 +1,410 @@
+{
+  "runTime": 1664879311445,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1180593,
+        "num": 1180593,
+        "word": "鸡毛飞上天",
+        "onboard_time": 1664869943,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1029681,
+        "num": 1029681,
+        "word": "真的不要自我感动式吃苦",
+        "onboard_time": 1664870004,
+        "rank": 1,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 11084,
+        "num": 950773,
+        "word": "多机位打开国庆节氛围感",
+        "onboard_time": 1664800944,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 932421,
+        "num": 932421,
+        "word": "男子拿走蜂王被蜂群爬车窗追一路",
+        "onboard_time": 1664875040,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 699896,
+        "num": 699896,
+        "word": "爸爸精心剥虾递给女儿被丢掉",
+        "onboard_time": 1664877263,
+        "rank": 4,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 683827,
+        "num": 683827,
+        "word": "泽连斯基签署不与普京谈判决定",
+        "onboard_time": 1664876422,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 586045,
+        "num": 586045,
+        "word": "2022年诺贝尔物理学奖揭晓",
+        "onboard_time": 1664877622,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529096,
+        "num": 529096,
+        "word": "山东冷成了山冻",
+        "onboard_time": 1664863641,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510561,
+        "num": 510561,
+        "word": "2023考研明天开始报名",
+        "onboard_time": 1664876902,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 474727,
+        "num": 474727,
+        "word": "谌龙世界排名被移除",
+        "onboard_time": 1664862860,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 573708,
+        "num": 448117,
+        "word": "因为我当年喜欢EXO",
+        "onboard_time": 1664857223,
+        "rank": 10,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 400003,
+        "num": 400003,
+        "word": "女子雇两名轿夫抬哈士奇爬山",
+        "onboard_time": 1664875883,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305147,
+        "num": 305147,
+        "word": "姜涩琪solo主打曲MV",
+        "onboard_time": 1664879004,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 292729,
+        "num": 292729,
+        "word": "北京朝阳新增1例感染者",
+        "onboard_time": 1664876062,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280946,
+        "num": 280946,
+        "word": "黄山景区回应游客10分钟走1米",
+        "onboard_time": 1664871144,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269131,
+        "num": 269131,
+        "word": "接亲现场伴郎被伴娘考雅思听力",
+        "onboard_time": 1664874382,
+        "rank": 15,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 263285,
+        "num": 263285,
+        "word": "中国男团vs泰国男团",
+        "onboard_time": 1664869822,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250914,
+        "num": 250914,
+        "word": "当反诈遇上苍兰诀",
+        "onboard_time": 1664873663,
+        "rank": 17,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 243350,
+        "num": 243350,
+        "word": "雪王路边哄小孩突遭男子挥拳袭击",
+        "onboard_time": 1664866882,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217142,
+        "num": 217142,
+        "word": "终于知道拍照怎么摆pose了",
+        "onboard_time": 1664871444,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208689,
+        "num": 208689,
+        "word": "美经济学家直言北溪是美国炸的",
+        "onboard_time": 1664872282,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206819,
+        "num": 206819,
+        "word": "万里归途票房破7亿",
+        "onboard_time": 1664877263,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197377,
+        "num": 197377,
+        "word": "TREASURE新歌",
+        "onboard_time": 1664877083,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 175232,
+        "num": 175232,
+        "word": "难哄第二季开播",
+        "onboard_time": 1664864781,
+        "rank": 23,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 152408,
+        "num": 152408,
+        "word": "请君",
+        "onboard_time": 1664876783,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136417,
+        "num": 136417,
+        "word": "马斯克给俄乌冲突提建议引泽连斯基不满",
+        "onboard_time": 1664865202,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132537,
+        "num": 132537,
+        "word": "男子遭反向抹零被问你差那一毛钱吗",
+        "onboard_time": 1664856143,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130468,
+        "num": 130468,
+        "word": "乌军在赫尔松两地突破俄军防御",
+        "onboard_time": 1664865441,
+        "rank": 27,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 130300,
+        "num": 130300,
+        "word": "猪脸识别技术你了解吗",
+        "onboard_time": 1664875462,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127595,
+        "num": 127595,
+        "word": "周依然梁靖康高甜上分",
+        "onboard_time": 1664872403,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127450,
+        "num": 127450,
+        "word": "国乒男团3比0泰国",
+        "onboard_time": 1664878463,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122253,
+        "num": 122253,
+        "word": "节后小肚腩真能消",
+        "onboard_time": 1664877142,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115120,
+        "num": 115120,
+        "word": "我和家里的蟑螂合租了",
+        "onboard_time": 1664859863,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114102,
+        "num": 114102,
+        "word": "美国提高其液化天然气价格",
+        "onboard_time": 1664870364,
+        "rank": 33,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 113931,
+        "num": 113931,
+        "word": "李承铉说感情中时机很重要",
+        "onboard_time": 1664862622,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113675,
+        "num": 113675,
+        "word": "抢拖鞋抢到睡着的两只狗狗",
+        "onboard_time": 1664877982,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 103985,
+        "num": 103985,
+        "word": "为什么越来越多老年人变年轻了",
+        "onboard_time": 1664879122,
+        "rank": 36,
+        "category": "情感,社会议题"
+      },
+      {
+        "raw_hot": 103571,
+        "num": 103571,
+        "word": "成毅把羽毛球当网球打",
+        "onboard_time": 1664866223,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 98392,
+        "num": 98392,
+        "word": "成都世乒赛团体赛",
+        "onboard_time": 1664874203,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90383,
+        "num": 90383,
+        "word": "殷桃无声哭戏演绎最克制的痛苦",
+        "onboard_time": 1664878103,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 90099,
+        "num": 90099,
+        "word": "恋人过世真的会化身蝴蝶吗",
+        "onboard_time": 1664859803,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88691,
+        "num": 88691,
+        "word": "你感受到一夜换季了吗",
+        "onboard_time": 1664868622,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86114,
+        "num": 86114,
+        "word": "新婚次日丈夫嘚瑟初恋情书被罚跪",
+        "onboard_time": 1664851522,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85854,
+        "num": 85854,
+        "word": "金晨新剧被王安宇逼婚",
+        "onboard_time": 1664869281,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 84439,
+        "num": 84439,
+        "word": "傅菁民族风造型",
+        "onboard_time": 1664869102,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 80275,
+        "num": 80275,
+        "word": "北溪泄漏后的甲烷云几天后将到北极",
+        "onboard_time": 1664878942,
+        "rank": 45,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 79272,
+        "num": 79272,
+        "word": "92岁老人参加外孙女婚礼兜里被塞满钱",
+        "onboard_time": 1664861602,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76267,
+        "num": 76267,
+        "word": "考研报名攻略",
+        "onboard_time": 1664878345,
+        "rank": 47,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 66715,
+        "num": 66715,
+        "word": "主人收玉米遇野猪袭击狗狗奋力保护",
+        "onboard_time": 1664864601,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66642,
+        "num": 66642,
+        "word": "两个人的小森林四宫格剧照",
+        "onboard_time": 1664871500,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#领航#"
+    }
+  }
+}
