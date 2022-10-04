@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664912445301,
+  "endTime": 1664915439468,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -6691,12 +6691,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 23939,
+      "num": 23939,
+      "word": "EG对战MAD",
+      "onboard_time": 1664913011,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 23728,
       "num": 23728,
       "word": "中国女排战胜捷克队",
       "onboard_time": 1664545644,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22149,
+      "num": 22149,
+      "word": "男子高速停车将掉落广告牌拉路边",
+      "onboard_time": 1664910851,
+      "rank": 47,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 19434,
@@ -6731,14 +6747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 9288,
-      "num": 9288,
-      "word": "男子高速停车将掉落广告牌拉路边",
-      "onboard_time": 1664910851,
-      "rank": 47,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 9058,
       "num": 10951,
       "word": "袁一琦新歌大小孩首唱",
@@ -6771,12 +6779,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 6732,
+      "num": 6732,
+      "word": "军人洗碗后将抹布叠得像板砖",
+      "onboard_time": 1664913671,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 6528,
       "num": 6528,
       "word": "成都现6级大风降温明显",
       "onboard_time": 1664829191,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6481,
+      "num": 6481,
+      "word": "带一本书邂逅秋天",
+      "onboard_time": 1664913971,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 6459,
@@ -6817,6 +6841,30 @@
       "onboard_time": 1664828411,
       "rank": 45,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 6009,
+      "num": 6009,
+      "word": "73岁退休教师奶奶开拼音直播课",
+      "onboard_time": 1664915109,
+      "rank": 46,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 5960,
+      "num": 5960,
+      "word": "国庆刷片指南",
+      "onboard_time": 1664915231,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 5861,
+      "num": 5948,
+      "word": "消防员得知有孩子被困火场瞬间急了",
+      "onboard_time": 1664914691,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 5517,

@@ -1,6 +1,6 @@
 {
   "startTime": 1664901610003,
-  "endTime": 1664912445301,
+  "endTime": 1664915439468,
   "band_list": [
     {
       "raw_hot": 1197131,
@@ -435,20 +435,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 23939,
+      "num": 23939,
+      "word": "EG对战MAD",
+      "onboard_time": 1664913011,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 22149,
+      "num": 22149,
+      "word": "男子高速停车将掉落广告牌拉路边",
+      "onboard_time": 1664910851,
+      "rank": 47,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 20754,
       "num": 20754,
       "word": "周亦安泪别法庭",
       "onboard_time": 1664888483,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 9288,
-      "num": 9288,
-      "word": "男子高速停车将掉落广告牌拉路边",
-      "onboard_time": 1664910851,
-      "rank": 47,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 7406,
@@ -465,6 +473,46 @@
       "onboard_time": 1664800944,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 6732,
+      "num": 6732,
+      "word": "军人洗碗后将抹布叠得像板砖",
+      "onboard_time": 1664913671,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6481,
+      "num": 6481,
+      "word": "带一本书邂逅秋天",
+      "onboard_time": 1664913971,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 6009,
+      "num": 6009,
+      "word": "73岁退休教师奶奶开拼音直播课",
+      "onboard_time": 1664915109,
+      "rank": 46,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 5960,
+      "num": 5960,
+      "word": "国庆刷片指南",
+      "onboard_time": 1664915231,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 5861,
+      "num": 5948,
+      "word": "消防员得知有孩子被困火场瞬间急了",
+      "onboard_time": 1664914691,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
