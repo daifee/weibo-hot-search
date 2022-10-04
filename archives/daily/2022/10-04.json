@@ -1,10 +1,10 @@
 {
   "startTime": 1664815260200,
-  "endTime": 1664895376575,
+  "endTime": 1664897413315,
   "band_list": [
     {
       "raw_hot": 2529091,
-      "num": 579077,
+      "num": 654884,
       "word": "新疆暂停全疆离疆客运列车",
       "onboard_time": 1664892685,
       "rank": 13,
@@ -17,6 +17,14 @@
       "onboard_time": 1664869703,
       "rank": 11,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 2310270,
+      "num": 2310270,
+      "word": "一旦买了洞洞鞋",
+      "onboard_time": 1664892804,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 2052639,
@@ -97,14 +105,6 @@
       "onboard_time": 1664851582,
       "rank": 38,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1287465,
-      "num": 1287465,
-      "word": "一旦买了洞洞鞋",
-      "onboard_time": 1664892804,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 1260696,
@@ -195,6 +195,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 825408,
+      "num": 825408,
+      "word": "我的童年报复性补偿行为",
+      "onboard_time": 1664892563,
+      "rank": 28,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 810267,
       "num": 810267,
       "word": "猫咪初见出生3天小主人瞠目观望",
@@ -235,20 +243,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 695446,
+      "num": 695446,
+      "word": "景区回应女子雇轿抬狗上山",
+      "onboard_time": 1664891364,
+      "rank": 37,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 683827,
       "num": 683827,
       "word": "泽连斯基签署不与普京谈判决定",
       "onboard_time": 1664876422,
       "rank": 29,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 682924,
-      "num": 682924,
-      "word": "景区回应女子雇轿抬狗上山",
-      "onboard_time": 1664891364,
-      "rank": 37,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 636116,
@@ -281,6 +289,14 @@
       "onboard_time": 1664841199,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 577887,
+      "num": 577887,
+      "word": "欧盟批准强制苹果使用USB C接口",
+      "onboard_time": 1664893646,
+      "rank": 10,
+      "category": "科技"
     },
     {
       "raw_hot": 564508,
@@ -395,14 +411,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 480541,
-      "num": 414011,
-      "word": "欧盟批准强制苹果使用USB C接口",
-      "onboard_time": 1664893646,
-      "rank": 10,
-      "category": "科技"
-    },
-    {
       "raw_hot": 476247,
       "num": 476247,
       "word": "蔡文静说最气人的案件来了",
@@ -513,14 +521,6 @@
       "onboard_time": 1664889863,
       "rank": 41,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 411982,
-      "num": 411982,
-      "word": "我的童年报复性补偿行为",
-      "onboard_time": 1664892563,
-      "rank": 28,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 406679,
@@ -795,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 241637,
+      "num": 241637,
+      "word": "北京朝阳新增感染者涉及风险点位",
+      "onboard_time": 1664893104,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236391,
       "num": 236391,
       "word": "第一次见打针这么乖的小狗",
@@ -803,20 +811,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 230009,
+      "num": 230009,
+      "word": "电视剧底线",
+      "onboard_time": 1664894547,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 228787,
       "num": 228787,
       "word": "北京新增1例本土无症状",
       "onboard_time": 1664848701,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 226562,
-      "num": 226562,
-      "word": "电视剧底线",
-      "onboard_time": 1664894547,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 226484,
@@ -844,7 +852,7 @@
     },
     {
       "raw_hot": 219945,
-      "num": 194160,
+      "num": 204269,
       "word": "周博文爸妈被迫官宣二胎",
       "onboard_time": 1664890704,
       "rank": 22,
@@ -857,6 +865,14 @@
       "onboard_time": 1664843901,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217765,
+      "num": 217765,
+      "word": "何广智说你得给我介绍艺人",
+      "onboard_time": 1664895807,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 216585,
@@ -883,20 +899,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213593,
-      "num": 213593,
-      "word": "北京朝阳新增感染者涉及风险点位",
-      "onboard_time": 1664893104,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 208033,
       "num": 199044,
       "word": "周依然梁靖康高甜上分",
       "onboard_time": 1664872403,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 207405,
+      "num": 207405,
+      "word": "南方降温让预报图冷到发紫",
+      "onboard_time": 1664891364,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206819,
@@ -913,6 +929,14 @@
       "onboard_time": 1664850502,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 200427,
+      "num": 200427,
+      "word": "这碗螺蛳粉一定要吃吗",
+      "onboard_time": 1664896346,
+      "rank": 21,
+      "category": "幽默,美食"
     },
     {
       "raw_hot": 199239,
@@ -937,6 +961,14 @@
       "onboard_time": 1664891722,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 193449,
+      "num": 193449,
+      "word": "你是隐形社恐吗",
+      "onboard_time": 1664895326,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 193055,
@@ -1075,14 +1107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 163338,
-      "num": 163338,
-      "word": "南方降温让预报图冷到发紫",
-      "onboard_time": 1664891364,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 163256,
       "num": 163256,
       "word": "老一辈做的饭菜有多香",
@@ -1123,6 +1147,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157661,
+      "num": 157661,
+      "word": "挂弹对峙超2小时我军飞行员驱离外机",
+      "onboard_time": 1664895506,
+      "rank": 28,
+      "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 152183,
+      "num": 152183,
+      "word": "反恐现场子弹就在头顶上飞",
+      "onboard_time": 1664891664,
+      "rank": 46,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 150634,
       "num": 150634,
       "word": "王一博街舞5微电影排练花絮",
@@ -1137,14 +1177,6 @@
       "onboard_time": 1664831230,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146441,
-      "num": 146441,
-      "word": "反恐现场子弹就在头顶上飞",
-      "onboard_time": 1664891664,
-      "rank": 46,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 145741,
@@ -1265,6 +1297,14 @@
       "onboard_time": 1664841798,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131906,
+      "num": 131906,
+      "word": "怎样有礼貌的挂断骚扰电话",
+      "onboard_time": 1664894907,
+      "rank": 43,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 130881,
@@ -1419,6 +1459,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 113068,
+      "num": 113068,
+      "word": "狗狗也有心累的时候吧",
+      "onboard_time": 1664895145,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 111886,
       "num": 111886,
       "word": "想看张译演喜剧",
@@ -1449,6 +1497,14 @@
       "onboard_time": 1664867422,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 107864,
+      "num": 107864,
+      "word": "谁教你们这么布置作业的",
+      "onboard_time": 1664895986,
+      "rank": 38,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 106483,
@@ -1531,6 +1587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100042,
+      "num": 100042,
+      "word": "从游客变成景点",
+      "onboard_time": 1664896165,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 99071,
       "num": 99071,
       "word": "伦纳德复出",
@@ -1545,14 +1609,6 @@
       "onboard_time": 1664880863,
       "rank": 38,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 97877,
-      "num": 67544,
-      "word": "你是隐形社恐吗",
-      "onboard_time": 1664895326,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 97788,
@@ -1577,6 +1633,14 @@
       "onboard_time": 1664831470,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94825,
+      "num": 94825,
+      "word": "11岁男孩离世捐出器官",
+      "onboard_time": 1664896765,
+      "rank": 44,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 91507,
@@ -1673,14 +1737,6 @@
       "onboard_time": 1664798421,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 80003,
-      "num": 80003,
-      "word": "怎样有礼貌的挂断骚扰电话",
-      "onboard_time": 1664894907,
-      "rank": 43,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 79319,
@@ -1809,14 +1865,6 @@
       "onboard_time": 1664839817,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 67711,
-      "num": 67711,
-      "word": "狗狗也有心累的时候吧",
-      "onboard_time": 1664895145,
-      "rank": 46,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 67070,
