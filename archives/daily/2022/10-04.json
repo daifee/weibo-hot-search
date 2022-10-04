@@ -1,7 +1,15 @@
 {
   "startTime": 1664815260200,
-  "endTime": 1664866855232,
+  "endTime": 1664868772235,
   "band_list": [
+    {
+      "raw_hot": 2052639,
+      "num": 2052639,
+      "word": "山东冷成了山冻",
+      "onboard_time": 1664863641,
+      "rank": 4,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1829788,
       "num": 332595,
@@ -9,14 +17,6 @@
       "onboard_time": 1664857223,
       "rank": 10,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 1675888,
-      "num": 1675888,
-      "word": "山东冷成了山冻",
-      "onboard_time": 1664863641,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1414692,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1090515,
+      "num": 1090515,
+      "word": "谌龙世界排名被移除",
+      "onboard_time": 1664862860,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 984476,
       "num": 984476,
       "word": "光遇",
@@ -89,14 +97,6 @@
       "onboard_time": 1664845643,
       "rank": 3,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 823246,
-      "num": 823246,
-      "word": "谌龙世界排名被移除",
-      "onboard_time": 1664862860,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 797413,
@@ -235,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 461545,
+      "num": 461545,
+      "word": "马斯克给俄乌冲突提建议引泽连斯基不满",
+      "onboard_time": 1664865202,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 460492,
       "num": 460492,
       "word": "一个抓蟑螂的新方法",
@@ -299,6 +307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 375564,
+      "num": 375564,
+      "word": "成毅把羽毛球当网球打",
+      "onboard_time": 1664866223,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 373120,
       "num": 358355,
       "word": "RNG入围赛淘汰赛对阵DFM",
@@ -323,6 +339,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 322021,
+      "num": 322021,
+      "word": "街舞5总决赛在澳门录制",
+      "onboard_time": 1664867481,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 316120,
       "num": 316120,
       "word": "92岁老人参加外孙女婚礼兜里被塞满钱",
@@ -339,11 +363,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 286482,
-      "num": 286482,
-      "word": "马斯克给俄乌冲突提建议引泽连斯基不满",
-      "onboard_time": 1664865202,
-      "rank": 46,
+      "raw_hot": 290434,
+      "num": 290434,
+      "word": "主人收玉米遇野猪袭击狗狗奋力保护",
+      "onboard_time": 1664864601,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -361,6 +385,14 @@
       "onboard_time": 1664864061,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 273408,
+      "num": 273408,
+      "word": "雪王路边哄小孩突遭男子挥拳袭击",
+      "onboard_time": 1664866882,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259581,
@@ -403,14 +435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 222694,
-      "num": 222694,
-      "word": "主人收玉米遇野猪袭击狗狗奋力保护",
-      "onboard_time": 1664864601,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 217965,
       "num": 217965,
       "word": "67岁奶奶退休后演电影做模特",
@@ -424,14 +448,6 @@
       "word": "看我的反派男友恋爱瘾犯了",
       "onboard_time": 1664866102,
       "rank": 17,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 215715,
-      "num": 215715,
-      "word": "成毅把羽毛球当网球打",
-      "onboard_time": 1664866223,
-      "rank": 18,
       "category": "影视"
     },
     {
@@ -449,6 +465,14 @@
       "onboard_time": 1664846483,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209851,
+      "num": 209851,
+      "word": "乌军在赫尔松两地突破俄军防御",
+      "onboard_time": 1664865441,
+      "rank": 47,
+      "category": "军事"
     },
     {
       "raw_hot": 203956,
@@ -585,14 +609,6 @@
       "onboard_time": 1664831230,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 145488,
-      "num": 145488,
-      "word": "乌军在赫尔松两地突破俄军防御",
-      "onboard_time": 1664865441,
-      "rank": 47,
-      "category": "军事"
     },
     {
       "raw_hot": 144347,
@@ -779,6 +795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 107906,
+      "num": 107906,
+      "word": "庄羽表白虞美人",
+      "onboard_time": 1664867422,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 106483,
       "num": 106483,
       "word": "长辈未说出口的那些话",
@@ -867,6 +891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90064,
+      "num": 90064,
+      "word": "稻城亚丁旅行攻略",
+      "onboard_time": 1664866461,
+      "rank": 38,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 83865,
       "num": 83865,
       "word": "韩国建军节宣传片出现中国装甲车",
@@ -923,14 +955,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 75396,
-      "num": 75396,
-      "word": "稻城亚丁旅行攻略",
-      "onboard_time": 1664866461,
-      "rank": 38,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 74752,
       "num": 74752,
       "word": "报老年旅行团是什么体验",
@@ -977,6 +1001,14 @@
       "onboard_time": 1664848582,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 72591,
+      "num": 72591,
+      "word": "你感受到一夜换季了吗",
+      "onboard_time": 1664868622,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72338,
@@ -1035,6 +1067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 64715,
+      "num": 64715,
+      "word": "AI激光助力灭蟑螂",
+      "onboard_time": 1664866581,
+      "rank": 46,
+      "category": "科技"
+    },
+    {
       "raw_hot": 62381,
       "num": 62381,
       "word": "凭本事获得床位的猫咪",
@@ -1049,14 +1089,6 @@
       "onboard_time": 1664799685,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 60800,
-      "num": 60800,
-      "word": "AI激光助力灭蟑螂",
-      "onboard_time": 1664866581,
-      "rank": 46,
-      "category": "科技"
     },
     {
       "raw_hot": 58796,
@@ -1081,6 +1113,14 @@
       "onboard_time": 1664800225,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 52478,
+      "num": 52478,
+      "word": "原来跨代同框可以这么潮",
+      "onboard_time": 1664867962,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 49003,
@@ -1193,6 +1233,14 @@
       "onboard_time": 1664832190,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 33385,
+      "num": 274582,
+      "word": "她90岁高龄时仍不忘捐资助学",
+      "onboard_time": 1664867301,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27101,
