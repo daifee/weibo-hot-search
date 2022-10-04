@@ -1,6 +1,6 @@
 {
   "startTime": 1664815260200,
-  "endTime": 1664862469862,
+  "endTime": 1664863289076,
   "band_list": [
     {
       "raw_hot": 1829788,
@@ -83,6 +83,14 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 791954,
+      "num": 673655,
+      "word": "恋人过世真的会化身蝴蝶吗",
+      "onboard_time": 1664859803,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 720237,
       "num": 212372,
       "word": "iPhone在6人死亡车祸中自动求救",
@@ -105,6 +113,14 @@
       "onboard_time": 1664851522,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 598374,
+      "num": 598374,
+      "word": "我和家里的蟑螂合租了",
+      "onboard_time": 1664859863,
+      "rank": 6,
+      "category": "幽默"
     },
     {
       "raw_hot": 597994,
@@ -147,14 +163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 520238,
-      "num": 520238,
-      "word": "恋人过世真的会化身蝴蝶吗",
-      "onboard_time": 1664859803,
-      "rank": 4,
-      "category": "情感"
-    },
-    {
       "raw_hot": 496563,
       "num": 496563,
       "word": "83岁姥姥随手写出化学结构式惊呆外孙",
@@ -185,14 +193,6 @@
       "onboard_time": 1664856200,
       "rank": 35,
       "category": "美食"
-    },
-    {
-      "raw_hot": 468945,
-      "num": 468945,
-      "word": "我和家里的蟑螂合租了",
-      "onboard_time": 1664859863,
-      "rank": 6,
-      "category": "幽默"
     },
     {
       "raw_hot": 463569,
@@ -291,20 +291,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 285836,
+      "num": 285836,
+      "word": "HYBE第四季度计划",
+      "onboard_time": 1664862142,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 259581,
       "num": 259581,
       "word": "男子坚持五六年为老人做炖菜过重阳",
       "onboard_time": 1664851642,
       "rank": 14,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 251912,
-      "num": 251912,
-      "word": "HYBE第四季度计划",
-      "onboard_time": 1664862142,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 251499,
@@ -315,20 +315,20 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 250581,
+      "num": 250581,
+      "word": "詹姆斯半场7中0",
+      "onboard_time": 1664861063,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 246413,
       "num": 246413,
       "word": "王子异想念山西0.5倍速生活",
       "onboard_time": 1664841981,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 234780,
-      "num": 234780,
-      "word": "詹姆斯半场7中0",
-      "onboard_time": 1664861063,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 228787,
@@ -371,6 +371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 202065,
+      "num": 202065,
+      "word": "李承铉说感情中时机很重要",
+      "onboard_time": 1664862622,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192312,
       "num": 178187,
       "word": "工作人员扮玩偶被2男子捶打",
@@ -393,6 +401,14 @@
       "onboard_time": 1664852782,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186047,
+      "num": 186047,
+      "word": "努力有可能超越天赋吗",
+      "onboard_time": 1664859743,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 181007,
@@ -459,19 +475,19 @@
       "category": "游戏,社会新闻"
     },
     {
-      "raw_hot": 160269,
-      "num": 160269,
-      "word": "努力有可能超越天赋吗",
-      "onboard_time": 1664859743,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 159822,
       "num": 159822,
       "word": "淡定鸭鸭暴雨中集体站立淋雨",
       "onboard_time": 1664801124,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157034,
+      "num": 157034,
+      "word": "92岁老人参加外孙女婚礼兜里被塞满钱",
+      "onboard_time": 1664861602,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -531,12 +547,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135257,
+      "num": 135257,
+      "word": "谌龙世界排名被移除",
+      "onboard_time": 1664862860,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134107,
       "num": 134107,
       "word": "国庆假期偶遇执勤警犬歪头杀",
       "onboard_time": 1664852602,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132687,
+      "num": 132687,
+      "word": "颈椎喜欢的5个锻炼动作",
+      "onboard_time": 1664862563,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 132019,
@@ -572,7 +604,7 @@
     },
     {
       "raw_hot": 125826,
-      "num": 79833,
+      "num": 80640,
       "word": "明日方舟",
       "onboard_time": 1664858242,
       "rank": 47,
@@ -627,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117123,
+      "num": 117123,
+      "word": "爷爷奶奶们的名字有多好听",
+      "onboard_time": 1664859381,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 116325,
       "num": 116325,
       "word": "伊瓜因宣布退役",
@@ -664,14 +704,6 @@
       "word": "长辈未说出口的那些话",
       "onboard_time": 1664839876,
       "rank": 22,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 104131,
-      "num": 104131,
-      "word": "爷爷奶奶们的名字有多好听",
-      "onboard_time": 1664859381,
-      "rank": 30,
       "category": "情感"
     },
     {
@@ -731,14 +763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 95038,
-      "num": 95038,
-      "word": "92岁老人参加外孙女婚礼兜里被塞满钱",
-      "onboard_time": 1664861602,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 91507,
       "num": 91507,
       "word": "原来小狗也是变脸大师",
@@ -769,6 +793,14 @@
       "onboard_time": 1664852424,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81192,
+      "num": 81192,
+      "word": "伦纳德复出",
+      "onboard_time": 1664861961,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 80951,
@@ -817,6 +849,14 @@
       "onboard_time": 1664808985,
       "rank": 32,
       "category": "旅游,情感"
+    },
+    {
+      "raw_hot": 74556,
+      "num": 74556,
+      "word": "原来不止有隔代亲还有隔代潮",
+      "onboard_time": 1664863221,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74376,
@@ -939,12 +979,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 58114,
-      "num": 58114,
-      "word": "伦纳德复出",
-      "onboard_time": 1664861961,
-      "rank": 47,
-      "category": "体育"
+      "raw_hot": 56410,
+      "num": 237215,
+      "word": "男子回村为老人做3天炖菜过重阳",
+      "onboard_time": 1664859682,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 55729,
@@ -953,14 +993,6 @@
       "onboard_time": 1664800225,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 55624,
-      "num": 237215,
-      "word": "男子回村为老人做3天炖菜过重阳",
-      "onboard_time": 1664859682,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 49003,
