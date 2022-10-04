@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664869770710,
+  "endTime": 1664872486430,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -81,6 +81,14 @@
       "onboard_time": 1664782401,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2392141,
+      "num": 321494,
+      "word": "小S确诊新冠",
+      "onboard_time": 1664869703,
+      "rank": 11,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 2341878,
@@ -297,6 +305,14 @@
       "onboard_time": 1664704460,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1320754,
+      "num": 1320754,
+      "word": "鸡毛飞上天",
+      "onboard_time": 1664869943,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1300166,
@@ -1059,14 +1075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 567803,
-      "num": 319591,
-      "word": "小S确诊新冠",
-      "onboard_time": 1664869703,
-      "rank": 11,
-      "category": "艺人,社会新闻"
-    },
-    {
       "raw_hot": 564508,
       "num": 564508,
       "word": "全国曾经只有一人的专业有多寂寞",
@@ -1331,6 +1339,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 474021,
+      "num": 474021,
+      "word": "真的不要自我感动式吃苦",
+      "onboard_time": 1664870004,
+      "rank": 4,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 473648,
       "num": 473648,
       "word": "李承铉说感情中时机很重要",
@@ -1489,6 +1505,14 @@
       "onboard_time": 1664755641,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 440822,
+      "num": 310990,
+      "word": "雪王路边哄小孩突遭男子挥拳袭击",
+      "onboard_time": 1664866882,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 439969,
@@ -1667,6 +1691,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 399938,
+      "num": 399938,
+      "word": "中国男团vs泰国男团",
+      "onboard_time": 1664869822,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 399626,
       "num": 399626,
       "word": "张根源李聂正式约会",
@@ -1833,14 +1865,6 @@
       "onboard_time": 1664793142,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 370129,
-      "num": 310990,
-      "word": "雪王路边哄小孩突遭男子挥拳袭击",
-      "onboard_time": 1664866882,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 368867,
@@ -2481,6 +2505,14 @@
       "onboard_time": 1664550984,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 266443,
+      "num": 266443,
+      "word": "金晨新剧被王安宇逼婚",
+      "onboard_time": 1664869281,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 264524,
@@ -3211,6 +3243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199239,
+      "num": 199239,
+      "word": "小伙1年帮50户老人做适老化改造",
+      "onboard_time": 1664868862,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198804,
       "num": 198804,
       "word": "中国女排负于巴西",
@@ -3291,12 +3331,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191760,
+      "num": 191760,
+      "word": "傅菁民族风造型",
+      "onboard_time": 1664869102,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 191212,
       "num": 191212,
       "word": "中国女篮状态",
       "onboard_time": 1664608767,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188539,
+      "num": 188539,
+      "word": "黄山景区回应游客10分钟走1米",
+      "onboard_time": 1664871144,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188431,
@@ -3483,6 +3539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177493,
+      "num": 177493,
+      "word": "美国提高其液化天然气价格",
+      "onboard_time": 1664870364,
+      "rank": 24,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 176057,
       "num": 176057,
       "word": "国庆首日西湖接待23.82万游客",
@@ -3659,14 +3723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 159148,
-      "num": 159148,
-      "word": "傅菁民族风造型",
-      "onboard_time": 1664869102,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 159052,
       "num": 159052,
       "word": "陆登夫妇盖棉被纯聊天",
@@ -3840,6 +3896,14 @@
       "word": "炽道导演回应滤镜争议",
       "onboard_time": 1664724744,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 145677,
+      "num": 134675,
+      "word": "周依然梁靖康高甜上分",
+      "onboard_time": 1664872403,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -4024,6 +4088,14 @@
       "word": "河北启动省地震灾害Ⅳ级应急响应",
       "onboard_time": 1664828950,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135945,
+      "num": 135945,
+      "word": "你感受到一夜换季了吗",
+      "onboard_time": 1664868622,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -4355,6 +4427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119320,
+      "num": 119320,
+      "word": "两个人的小森林四宫格剧照",
+      "onboard_time": 1664871500,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 118653,
       "num": 118653,
       "word": "男子水库放生清道夫被罚2.8万",
@@ -4377,6 +4457,14 @@
       "onboard_time": 1664685082,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117869,
+      "num": 117869,
+      "word": "终于知道拍照怎么摆pose了",
+      "onboard_time": 1664871444,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 117541,
@@ -4803,14 +4891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 93680,
-      "num": 93680,
-      "word": "你感受到一夜换季了吗",
-      "onboard_time": 1664868622,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 93658,
       "num": 93658,
       "word": "小伙深夜租叉车帮老人捡气球",
@@ -4827,14 +4907,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 93071,
-      "num": 93071,
-      "word": "小伙1年帮50户老人做适老化改造",
-      "onboard_time": 1664868862,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 92591,
       "num": 92591,
       "word": "今天发条微博祝福祖国",
@@ -4849,14 +4921,6 @@
       "onboard_time": 1664719824,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 91839,
-      "num": 91839,
-      "word": "金晨新剧被王安宇逼婚",
-      "onboard_time": 1664869281,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 91457,
@@ -5233,6 +5297,22 @@
       "onboard_time": 1664855124,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 67023,
+      "num": 67023,
+      "word": "这只会采蜜的山寨蜂鸟有点忙",
+      "onboard_time": 1664871803,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66954,
+      "num": 66954,
+      "word": "美经济学家直言北溪是美国炸的",
+      "onboard_time": 1664872282,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66907,
