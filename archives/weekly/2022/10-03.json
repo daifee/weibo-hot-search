@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1664903323639,
+  "endTime": 1664905355936,
   "band_list": [
     {
       "raw_hot": 3091269,
@@ -3355,6 +3355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 65446,
+      "num": 65446,
+      "word": "小猫顶中分刘海钻花丛后头戴小花",
+      "onboard_time": 1664902159,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65014,
       "num": 65014,
       "word": "重阳节为什么要登高",
@@ -3539,12 +3547,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36743,
-      "num": 36743,
-      "word": "小猫顶中分刘海钻花丛后头戴小花",
-      "onboard_time": 1664902159,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 34673,
+      "num": 34673,
+      "word": "张泽禹弹尤克里里版DTTM",
+      "onboard_time": 1664903537,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 34564,

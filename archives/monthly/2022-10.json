@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664903323639,
+  "endTime": 1664905355936,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -6131,6 +6131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 65446,
+      "num": 65446,
+      "word": "小猫顶中分刘海钻花丛后头戴小花",
+      "onboard_time": 1664902159,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65033,
       "num": 65033,
       "word": "国乒女团3比0完胜加拿大",
@@ -6611,14 +6619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36743,
-      "num": 36743,
-      "word": "小猫顶中分刘海钻花丛后头戴小花",
-      "onboard_time": 1664902159,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 35511,
       "num": 35511,
       "word": "和我一起向祖国告白",
@@ -6633,6 +6633,14 @@
       "onboard_time": 1664667677,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 34673,
+      "num": 34673,
+      "word": "张泽禹弹尤克里里版DTTM",
+      "onboard_time": 1664903537,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 34564,

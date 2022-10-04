@@ -1,6 +1,6 @@
 {
   "startTime": 1664901610003,
-  "endTime": 1664903323639,
+  "endTime": 1664905355936,
   "band_list": [
     {
       "raw_hot": 1197131,
@@ -331,6 +331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 65446,
+      "num": 65446,
+      "word": "小猫顶中分刘海钻花丛后头戴小花",
+      "onboard_time": 1664902159,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65033,
       "num": 65033,
       "word": "周博文爸妈被迫官宣二胎",
@@ -411,12 +419,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 36743,
-      "num": 36743,
-      "word": "小猫顶中分刘海钻花丛后头戴小花",
-      "onboard_time": 1664902159,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 34673,
+      "num": 34673,
+      "word": "张泽禹弹尤克里里版DTTM",
+      "onboard_time": 1664903537,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 7178,
