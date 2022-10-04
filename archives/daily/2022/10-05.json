@@ -1,6 +1,6 @@
 {
   "startTime": 1664901610003,
-  "endTime": 1664911560998,
+  "endTime": 1664912445301,
   "band_list": [
     {
       "raw_hot": 1197131,
@@ -443,11 +443,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 8189,
-      "num": 8189,
+      "raw_hot": 9288,
+      "num": 9288,
       "word": "男子高速停车将掉落广告牌拉路边",
       "onboard_time": 1664910851,
       "rank": 47,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 7406,
+      "num": 8608,
+      "word": "90后大厂女孩辞职创业为老人助浴",
+      "onboard_time": 1664912351,
+      "rank": 49,
       "category": "社会正能量"
     },
     {

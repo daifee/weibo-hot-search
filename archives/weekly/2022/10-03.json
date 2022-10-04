@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1664911560998,
+  "endTime": 1664912445301,
   "band_list": [
     {
       "raw_hot": 3091269,
@@ -3611,6 +3611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 9288,
+      "num": 9288,
+      "word": "男子高速停车将掉落广告牌拉路边",
+      "onboard_time": 1664910851,
+      "rank": 47,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 9058,
       "num": 10951,
       "word": "袁一琦新歌大小孩首唱",
@@ -3627,20 +3635,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 8189,
-      "num": 8189,
-      "word": "男子高速停车将掉落广告牌拉路边",
-      "onboard_time": 1664910851,
-      "rank": 47,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 7982,
       "num": 7982,
       "word": "永康白云水库附近发生山火",
       "onboard_time": 1664826670,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7406,
+      "num": 8608,
+      "word": "90后大厂女孩辞职创业为老人助浴",
+      "onboard_time": 1664912351,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 7075,
