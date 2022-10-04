@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664872486430,
+  "endTime": 1664873644971,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 2392141,
-      "num": 321494,
+      "num": 819562,
       "word": "小S确诊新冠",
       "onboard_time": 1664869703,
       "rank": 11,
@@ -169,6 +169,14 @@
       "onboard_time": 1664626522,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1685459,
+      "num": 1685459,
+      "word": "鸡毛飞上天",
+      "onboard_time": 1664869943,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1654547,
@@ -305,14 +313,6 @@
       "onboard_time": 1664704460,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1320754,
-      "num": 1320754,
-      "word": "鸡毛飞上天",
-      "onboard_time": 1664869943,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 1300166,
@@ -769,6 +769,14 @@
       "onboard_time": 1664770582,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 744140,
+      "num": 744140,
+      "word": "真的不要自我感动式吃苦",
+      "onboard_time": 1664870004,
+      "rank": 4,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 731060,
@@ -1259,6 +1267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 490833,
+      "num": 490833,
+      "word": "中国男团vs泰国男团",
+      "onboard_time": 1664869822,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 488467,
       "num": 488467,
       "word": "10月3日新增本土无症状626例",
@@ -1337,14 +1353,6 @@
       "onboard_time": 1664620882,
       "rank": 39,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 474021,
-      "num": 474021,
-      "word": "真的不要自我感动式吃苦",
-      "onboard_time": 1664870004,
-      "rank": 4,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 473648,
@@ -1691,14 +1699,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 399938,
-      "num": 399938,
-      "word": "中国男团vs泰国男团",
-      "onboard_time": 1664869822,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 399626,
       "num": 399626,
       "word": "张根源李聂正式约会",
@@ -1993,6 +1993,14 @@
       "onboard_time": 1664790861,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 341302,
+      "num": 280810,
+      "word": "黄山景区回应游客10分钟走1米",
+      "onboard_time": 1664871144,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 341131,
@@ -2291,6 +2299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 286862,
+      "num": 286862,
+      "word": "金晨新剧被王安宇逼婚",
+      "onboard_time": 1664869281,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 286365,
       "num": 286365,
       "word": "年轻人上网被骗比例最高达65.5%",
@@ -2505,14 +2521,6 @@
       "onboard_time": 1664550984,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 266443,
-      "num": 266443,
-      "word": "金晨新剧被王安宇逼婚",
-      "onboard_time": 1664869281,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 264524,
@@ -3003,6 +3011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 220770,
+      "num": 220770,
+      "word": "美国提高其液化天然气价格",
+      "onboard_time": 1664870364,
+      "rank": 24,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 219576,
       "num": 219576,
       "word": "小长假必看综艺",
@@ -3105,6 +3121,14 @@
       "onboard_time": 1664638226,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208033,
+      "num": 199044,
+      "word": "周依然梁靖康高甜上分",
+      "onboard_time": 1664872403,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 207467,
@@ -3347,14 +3371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 188539,
-      "num": 188539,
-      "word": "黄山景区回应游客10分钟走1米",
-      "onboard_time": 1664871144,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 188431,
       "num": 188431,
       "word": "国乒男团世乒赛开门红",
@@ -3491,6 +3507,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 180698,
+      "num": 180698,
+      "word": "终于知道拍照怎么摆pose了",
+      "onboard_time": 1664871444,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 180579,
       "num": 180579,
       "word": "陈哲远说萧无敌行为不要上升到本人",
@@ -3537,14 +3561,6 @@
       "onboard_time": 1664606004,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 177493,
-      "num": 177493,
-      "word": "美国提高其液化天然气价格",
-      "onboard_time": 1664870364,
-      "rank": 24,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 176057,
@@ -3899,12 +3915,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 145677,
-      "num": 134675,
-      "word": "周依然梁靖康高甜上分",
-      "onboard_time": 1664872403,
-      "rank": 30,
-      "category": "影视"
+      "raw_hot": 145307,
+      "num": 145307,
+      "word": "你家乡的小巷子美食是啥",
+      "onboard_time": 1664873003,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 145261,
@@ -4035,6 +4051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139933,
+      "num": 139933,
+      "word": "你感受到一夜换季了吗",
+      "onboard_time": 1664868622,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139898,
       "num": 139898,
       "word": "国乒女团首战全胜",
@@ -4091,14 +4115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 135945,
-      "num": 135945,
-      "word": "你感受到一夜换季了吗",
-      "onboard_time": 1664868622,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135935,
       "num": 135935,
       "word": "表白中国我接力",
@@ -4129,6 +4145,14 @@
       "onboard_time": 1664638342,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134665,
+      "num": 134665,
+      "word": "美经济学家直言北溪是美国炸的",
+      "onboard_time": 1664872282,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134402,
@@ -4411,6 +4435,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 121134,
+      "num": 121134,
+      "word": "两个人的小森林四宫格剧照",
+      "onboard_time": 1664871500,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 120911,
       "num": 120911,
       "word": "老人景区昏倒游客接力心肺复苏",
@@ -4425,14 +4457,6 @@
       "onboard_time": 1664857402,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 119320,
-      "num": 119320,
-      "word": "两个人的小森林四宫格剧照",
-      "onboard_time": 1664871500,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 118653,
@@ -4457,14 +4481,6 @@
       "onboard_time": 1664685082,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 117869,
-      "num": 117869,
-      "word": "终于知道拍照怎么摆pose了",
-      "onboard_time": 1664871444,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 117541,
@@ -4728,6 +4744,14 @@
       "word": "李冰冰为角色做乘务员培训",
       "onboard_time": 1664686823,
       "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 104403,
+      "num": 104403,
+      "word": "陈哲远说给个眼神能体会吗",
+      "onboard_time": 1664873061,
+      "rank": 36,
       "category": "影视"
     },
     {
@@ -5307,14 +5331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 66954,
-      "num": 66954,
-      "word": "美经济学家直言北溪是美国炸的",
-      "onboard_time": 1664872282,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 66907,
       "num": 66907,
       "word": "关晓彤话剧舞台饰演秦怡",
@@ -5673,6 +5689,14 @@
       "onboard_time": 1664534962,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 49665,
+      "num": 60602,
+      "word": "108岁老人两次患癌仍坚持读书写作",
+      "onboard_time": 1664873483,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 49006,
