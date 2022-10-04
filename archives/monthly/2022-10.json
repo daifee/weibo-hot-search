@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664888209569,
+  "endTime": 1664890078737,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -241,6 +241,14 @@
       "onboard_time": 1664724204,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1445457,
+      "num": 1445457,
+      "word": "37岁白发缉毒警被误认成孩子爷爷",
+      "onboard_time": 1664885903,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1419775,
@@ -1259,14 +1267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 526412,
-      "num": 272148,
-      "word": "37岁白发缉毒警被误认成孩子爷爷",
-      "onboard_time": 1664885903,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 524082,
       "num": 524082,
       "word": "为什么越来越多老年人变年轻了",
@@ -1297,6 +1297,14 @@
       "onboard_time": 1664638463,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 515540,
+      "num": 515540,
+      "word": "鸟鸟躺的时候想卷卷的时候想躺",
+      "onboard_time": 1664889204,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 513903,
@@ -1441,6 +1449,14 @@
       "onboard_time": 1664767821,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 476247,
+      "num": 476247,
+      "word": "蔡文静说最气人的案件来了",
+      "onboard_time": 1664885303,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 475692,
@@ -1611,20 +1627,20 @@
       "category": "军事"
     },
     {
+      "raw_hot": 447069,
+      "num": 354923,
+      "word": "周亦安泪别法庭",
+      "onboard_time": 1664888483,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 445805,
       "num": 311666,
       "word": "生孩子的过程和感受",
       "onboard_time": 1664755641,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 441547,
-      "num": 441547,
-      "word": "蔡文静说最气人的案件来了",
-      "onboard_time": 1664885303,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 440822,
@@ -2073,6 +2089,14 @@
       "onboard_time": 1664847983,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 357286,
+      "num": 357286,
+      "word": "双向奔赴才能让爱有意义",
+      "onboard_time": 1664885423,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 354274,
@@ -2753,14 +2777,6 @@
       "onboard_time": 1664851642,
       "rank": 14,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 259112,
-      "num": 259112,
-      "word": "双向奔赴才能让爱有意义",
-      "onboard_time": 1664885423,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 258470,
@@ -3827,6 +3843,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 171903,
+      "num": 139466,
+      "word": "吉克隽逸一边哭一边唱三行情书",
+      "onboard_time": 1664885724,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 171320,
       "num": 171320,
       "word": "天津人到底有多爱看热闹",
@@ -4355,6 +4379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137095,
+      "num": 137095,
+      "word": "中国女团vs马来西亚女团",
+      "onboard_time": 1664885243,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136619,
       "num": 136619,
       "word": "河北启动省地震灾害Ⅳ级应急响应",
@@ -4707,14 +4739,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 120924,
-      "num": 120924,
-      "word": "吉克隽逸一边哭一边唱三行情书",
-      "onboard_time": 1664885724,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 120911,
       "num": 120911,
       "word": "老人景区昏倒游客接力心肺复苏",
@@ -4769,14 +4793,6 @@
       "onboard_time": 1664685082,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 118015,
-      "num": 118015,
-      "word": "中国女团vs马来西亚女团",
-      "onboard_time": 1664885243,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 117541,
@@ -5459,6 +5475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80926,
+      "num": 80926,
+      "word": "被高中生版万疆戳到了",
+      "onboard_time": 1664888303,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80815,
       "num": 80815,
       "word": "周冠宇新加坡站退赛",
@@ -5507,6 +5531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78051,
+      "num": 78051,
+      "word": "像极了上班打瞌睡的我",
+      "onboard_time": 1664887642,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 77954,
       "num": 77954,
       "word": "万里归途群像",
@@ -5521,6 +5553,14 @@
       "onboard_time": 1664707524,
       "rank": 42,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 77699,
+      "num": 77699,
+      "word": "女孩出嫁哥弟俩哭成泪人",
+      "onboard_time": 1664889863,
+      "rank": 41,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 76567,
@@ -5593,6 +5633,14 @@
       "onboard_time": 1664800944,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 74050,
+      "num": 74050,
+      "word": "我迟早过上这种退休生活",
+      "onboard_time": 1664889805,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73653,
@@ -5681,14 +5729,6 @@
       "onboard_time": 1664839817,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 68964,
-      "num": 68964,
-      "word": "像极了上班打瞌睡的我",
-      "onboard_time": 1664887642,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 68502,
@@ -6596,6 +6636,9 @@
     },
     {
       "word": "#领航#"
+    },
+    {
+      "word": "#追光#"
     }
   ]
 }
