@@ -1,6 +1,6 @@
 {
   "startTime": 1664815260200,
-  "endTime": 1664865480996,
+  "endTime": 1664866855232,
   "band_list": [
     {
       "raw_hot": 1829788,
@@ -9,6 +9,14 @@
       "onboard_time": 1664857223,
       "rank": 10,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 1675888,
+      "num": 1675888,
+      "word": "山东冷成了山冻",
+      "onboard_time": 1664863641,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1414692,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 969576,
-      "num": 676813,
+      "num": 715026,
       "word": "恋人过世真的会化身蝴蝶吗",
       "onboard_time": 1664859803,
       "rank": 4,
@@ -81,6 +89,14 @@
       "onboard_time": 1664845643,
       "rank": 3,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 823246,
+      "num": 823246,
+      "word": "谌龙世界排名被移除",
+      "onboard_time": 1664862860,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 797413,
@@ -115,28 +131,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 668604,
-      "num": 668604,
-      "word": "山东冷成了山冻",
-      "onboard_time": 1664863641,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 636116,
       "num": 204270,
       "word": "新婚次日丈夫嘚瑟初恋情书被罚跪",
       "onboard_time": 1664851522,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 601690,
-      "num": 601690,
-      "word": "谌龙世界排名被移除",
-      "onboard_time": 1664862860,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 597994,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 529573,
+      "num": 529573,
+      "word": "难哄第二季开播",
+      "onboard_time": 1664864781,
+      "rank": 22,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 496563,
       "num": 496563,
       "word": "83岁姥姥随手写出化学结构式惊呆外孙",
@@ -209,6 +217,14 @@
       "onboard_time": 1664856200,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 473648,
+      "num": 473648,
+      "word": "李承铉说感情中时机很重要",
+      "onboard_time": 1664862622,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 463569,
@@ -291,14 +307,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 361796,
-      "num": 295890,
-      "word": "李承铉说感情中时机很重要",
-      "onboard_time": 1664862622,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 359913,
       "num": 359913,
       "word": "小伙花4年考过驾照朋友拉横幅庆祝",
@@ -315,11 +323,27 @@
       "category": "其它"
     },
     {
+      "raw_hot": 316120,
+      "num": 316120,
+      "word": "92岁老人参加外孙女婚礼兜里被塞满钱",
+      "onboard_time": 1664861602,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295958,
       "num": 295958,
       "word": "熊猫的肚皮原来可以当小饭桌用",
       "onboard_time": 1664809824,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286482,
+      "num": 286482,
+      "word": "马斯克给俄乌冲突提建议引泽连斯基不满",
+      "onboard_time": 1664865202,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -331,12 +355,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 285024,
-      "num": 285024,
-      "word": "92岁老人参加外孙女婚礼兜里被塞满钱",
-      "onboard_time": 1664861602,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 275241,
+      "num": 275241,
+      "word": "姜涩琪今日solo出道",
+      "onboard_time": 1664864061,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 259581,
@@ -379,12 +403,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 221525,
-      "num": 221525,
-      "word": "姜涩琪今日solo出道",
-      "onboard_time": 1664864061,
-      "rank": 16,
-      "category": "音乐"
+      "raw_hot": 222694,
+      "num": 222694,
+      "word": "主人收玉米遇野猪袭击狗狗奋力保护",
+      "onboard_time": 1664864601,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217965,
@@ -393,6 +417,22 @@
       "onboard_time": 1664843901,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216585,
+      "num": 216585,
+      "word": "看我的反派男友恋爱瘾犯了",
+      "onboard_time": 1664866102,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 215715,
+      "num": 215715,
+      "word": "成毅把羽毛球当网球打",
+      "onboard_time": 1664866223,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 215472,
@@ -459,6 +499,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 179289,
+      "num": 179289,
+      "word": "原来不止有隔代亲还有隔代潮",
+      "onboard_time": 1664863221,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179172,
       "num": 179172,
       "word": "广东冷空气5日到货",
@@ -475,28 +523,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 173854,
-      "num": 173854,
-      "word": "原来不止有隔代亲还有隔代潮",
-      "onboard_time": 1664863221,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171320,
       "num": 171320,
       "word": "天津人到底有多爱看热闹",
       "onboard_time": 1664838556,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 165208,
-      "num": 165208,
-      "word": "难哄第二季开播",
-      "onboard_time": 1664864781,
-      "rank": 22,
-      "category": "动漫"
     },
     {
       "raw_hot": 163750,
@@ -555,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145488,
+      "num": 145488,
+      "word": "乌军在赫尔松两地突破俄军防御",
+      "onboard_time": 1664865441,
+      "rank": 47,
+      "category": "军事"
+    },
+    {
       "raw_hot": 144347,
       "num": 144347,
       "word": "父亲为脑瘫儿子按摩路人提物资相赠",
@@ -603,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134311,
+      "num": 134311,
+      "word": "爷爷奶奶们的名字有多好听",
+      "onboard_time": 1664859381,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 134107,
       "num": 134107,
       "word": "国庆假期偶遇执勤警犬歪头杀",
@@ -641,14 +689,6 @@
       "onboard_time": 1664849722,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 126710,
-      "num": 126710,
-      "word": "爷爷奶奶们的名字有多好听",
-      "onboard_time": 1664859381,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 125826,
@@ -753,14 +793,6 @@
       "onboard_time": 1664810484,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102937,
-      "num": 102937,
-      "word": "主人收玉米遇野猪袭击狗狗奋力保护",
-      "onboard_time": 1664864601,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102747,
@@ -891,6 +923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 75396,
+      "num": 75396,
+      "word": "稻城亚丁旅行攻略",
+      "onboard_time": 1664866461,
+      "rank": 38,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 74752,
       "num": 74752,
       "word": "报老年旅行团是什么体验",
@@ -963,14 +1003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 67915,
-      "num": 58467,
-      "word": "乌军在赫尔松两地突破俄军防御",
-      "onboard_time": 1664865441,
-      "rank": 47,
-      "category": "军事"
-    },
-    {
       "raw_hot": 67070,
       "num": 67070,
       "word": "陈怡馨说年少的朋友不会走散",
@@ -1019,12 +1051,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 60046,
-      "num": 60046,
-      "word": "马斯克给俄乌冲突提建议引泽连斯基不满",
-      "onboard_time": 1664865202,
+      "raw_hot": 60800,
+      "num": 60800,
+      "word": "AI激光助力灭蟑螂",
+      "onboard_time": 1664866581,
       "rank": 46,
-      "category": "社会新闻"
+      "category": "科技"
     },
     {
       "raw_hot": 58796,
