@@ -1,6 +1,6 @@
 {
   "startTime": 1664815260200,
-  "endTime": 1664890078737,
+  "endTime": 1664892131136,
   "band_list": [
     {
       "raw_hot": 2392141,
@@ -43,8 +43,8 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 1445457,
-      "num": 1445457,
+      "raw_hot": 1623552,
+      "num": 1623552,
       "word": "37岁白发缉毒警被误认成孩子爷爷",
       "onboard_time": 1664885903,
       "rank": 10,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1025744,
+      "num": 1025744,
+      "word": "乌鲁木齐各区县人员暂不离乌",
+      "onboard_time": 1664891004,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 984476,
       "num": 984476,
       "word": "光遇",
@@ -137,6 +145,14 @@
       "onboard_time": 1664859803,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 897437,
+      "num": 897437,
+      "word": "鸟鸟躺的时候想卷卷的时候想躺",
+      "onboard_time": 1664889204,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 897102,
@@ -307,14 +323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 515540,
-      "num": 515540,
-      "word": "鸟鸟躺的时候想卷卷的时候想躺",
-      "onboard_time": 1664889204,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 513903,
       "num": 513903,
       "word": "中国男团vs泰国男团",
@@ -412,7 +420,7 @@
     },
     {
       "raw_hot": 447069,
-      "num": 354923,
+      "num": 421622,
       "word": "周亦安泪别法庭",
       "onboard_time": 1664888483,
       "rank": 8,
@@ -539,6 +547,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 352361,
+      "num": 352361,
+      "word": "陈可辛章子怡将合作新剧",
+      "onboard_time": 1664891063,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 347978,
+      "num": 347978,
+      "word": "女孩出嫁哥弟俩哭成泪人",
+      "onboard_time": 1664889863,
+      "rank": 41,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 322108,
       "num": 322108,
       "word": "会被一些医学知识震惊到",
@@ -603,6 +627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 291074,
+      "num": 291074,
+      "word": "再就业男团一出现就有笑点",
+      "onboard_time": 1664891004,
+      "rank": 14,
+      "category": "幽默,综艺"
+    },
+    {
       "raw_hot": 289959,
       "num": 289959,
       "word": "接亲现场伴郎被伴娘考雅思听力",
@@ -641,6 +673,14 @@
       "onboard_time": 1664869461,
       "rank": 16,
       "category": "美妆,时尚"
+    },
+    {
+      "raw_hot": 262451,
+      "num": 195032,
+      "word": "呼兰躺和卷是不一样的价格",
+      "onboard_time": 1664890524,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 261471,
@@ -715,12 +755,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 224137,
+      "num": 194510,
+      "word": "吉克隽逸一边哭一边唱三行情书",
+      "onboard_time": 1664885724,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 220770,
       "num": 220770,
       "word": "美国提高其液化天然气价格",
       "onboard_time": 1664870364,
       "rank": 24,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 219945,
+      "num": 194160,
+      "word": "周博文爸妈被迫官宣二胎",
+      "onboard_time": 1664890704,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 217965,
@@ -795,6 +851,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 193923,
+      "num": 136046,
+      "word": "高卿尘第一部古装新剧开机",
+      "onboard_time": 1664891722,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 193138,
+      "num": 193138,
+      "word": "哪一刻你意识到应该多读书",
+      "onboard_time": 1664890465,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 193055,
       "num": 193055,
       "word": "美国在叙非法驻军再次偷盗叙石油",
@@ -843,6 +915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184733,
+      "num": 184733,
+      "word": "我迟早过上这种退休生活",
+      "onboard_time": 1664889805,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182187,
       "num": 182187,
       "word": "节后小肚腩真能消",
@@ -883,20 +963,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 171903,
-      "num": 139466,
-      "word": "吉克隽逸一边哭一边唱三行情书",
-      "onboard_time": 1664885724,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 171320,
       "num": 171320,
       "word": "天津人到底有多爱看热闹",
       "onboard_time": 1664838556,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 167997,
+      "num": 167997,
+      "word": "第一次见打针这么乖的小狗",
+      "onboard_time": 1664890884,
+      "rank": 25,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 163750,
@@ -1019,6 +1099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 140745,
+      "num": 140745,
+      "word": "中国女团3比0马来西亚女团",
+      "onboard_time": 1664886803,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139933,
       "num": 139933,
       "word": "你感受到一夜换季了吗",
@@ -1032,6 +1120,14 @@
       "word": "幼儿园成美食天花板顿顿不重样",
       "onboard_time": 1664857940,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138924,
+      "num": 138924,
+      "word": "四川冕宁县3.6级地震",
+      "onboard_time": 1664890345,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -1227,12 +1323,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 111556,
-      "num": 111556,
-      "word": "中国女团3比0马来西亚女团",
-      "onboard_time": 1664886803,
-      "rank": 32,
-      "category": "体育"
+      "raw_hot": 110789,
+      "num": 110789,
+      "word": "景区回应女子雇轿抬狗上山",
+      "onboard_time": 1664891364,
+      "rank": 37,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 110452,
@@ -1379,6 +1475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 94169,
+      "num": 94169,
+      "word": "南方降温让预报图冷到发紫",
+      "onboard_time": 1664891364,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91507,
       "num": 91507,
       "word": "原来小狗也是变脸大师",
@@ -1387,12 +1491,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 91423,
+      "num": 91423,
+      "word": "缉毒英雄谈自己最怕的事",
+      "onboard_time": 1664890765,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90568,
       "num": 90568,
       "word": "西蒙斯复出",
       "onboard_time": 1664843541,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85579,
+      "num": 85579,
+      "word": "被高中生版万疆戳到了",
+      "onboard_time": 1664888303,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83924,
@@ -1425,14 +1545,6 @@
       "onboard_time": 1664796143,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 80926,
-      "num": 80926,
-      "word": "被高中生版万疆戳到了",
-      "onboard_time": 1664888303,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 80628,
@@ -1491,12 +1603,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 77699,
-      "num": 77699,
-      "word": "女孩出嫁哥弟俩哭成泪人",
-      "onboard_time": 1664889863,
-      "rank": 41,
-      "category": "社会新闻,情感"
+      "raw_hot": 77106,
+      "num": 77106,
+      "word": "反恐现场子弹就在头顶上飞",
+      "onboard_time": 1664891664,
+      "rank": 46,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 76267,
@@ -1528,14 +1640,6 @@
       "word": "医保谈判代表说自己克制着高兴心情",
       "onboard_time": 1664798904,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 74050,
-      "num": 74050,
-      "word": "我迟早过上这种退休生活",
-      "onboard_time": 1664889805,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
