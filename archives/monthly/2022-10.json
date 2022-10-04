@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664923520964,
+  "endTime": 1664926226975,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -2323,6 +2323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 333600,
+      "num": 333600,
+      "word": "RNG对战DFM",
+      "onboard_time": 1664925376,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 333458,
       "num": 333458,
       "word": "没见过这么潦草的狗",
@@ -2577,6 +2585,14 @@
       "onboard_time": 1664709682,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 291367,
+      "num": 291367,
+      "word": "南方降温让预报图冷到发紫",
+      "onboard_time": 1664891364,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 291080,
@@ -3347,6 +3363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225402,
+      "num": 225402,
+      "word": "有效减脂减重做到这3点",
+      "onboard_time": 1664899163,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 224146,
       "num": 224146,
       "word": "高卿尘新剧古装造型路透",
@@ -3393,6 +3417,14 @@
       "onboard_time": 1664870364,
       "rank": 24,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 220537,
+      "num": 220537,
+      "word": "会计被骗86万警方8分钟追回",
+      "onboard_time": 1664907194,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219945,
@@ -3529,14 +3561,6 @@
       "onboard_time": 1664601921,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 207405,
-      "num": 207405,
-      "word": "南方降温让预报图冷到发紫",
-      "onboard_time": 1664891364,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207084,
@@ -4059,6 +4083,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 171600,
+      "num": 171600,
+      "word": "普通人有机会去中国空间站吗",
+      "onboard_time": 1664921231,
+      "rank": 48,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 171320,
       "num": 171320,
       "word": "天津人到底有多爱看热闹",
@@ -4267,6 +4299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 157959,
+      "num": 157959,
+      "word": "军人洗碗后将抹布叠得像板砖",
+      "onboard_time": 1664913671,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157782,
       "num": 131547,
       "word": "王嘉尔VOGUE新加坡版10月封面",
@@ -4305,14 +4345,6 @@
       "onboard_time": 1664692403,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 152810,
-      "num": 152810,
-      "word": "有效减脂减重做到这3点",
-      "onboard_time": 1664899163,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 152183,
@@ -4441,6 +4473,14 @@
       "onboard_time": 1664888123,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 145321,
+      "num": 145321,
+      "word": "消费930.9被收931事件双方发声",
+      "onboard_time": 1664925737,
+      "rank": 12,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 145307,
@@ -5219,14 +5259,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 111713,
-      "num": 111092,
-      "word": "会计被骗86万警方8分钟追回",
-      "onboard_time": 1664907194,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 111710,
       "num": 111710,
       "word": "泸定震区群众搬新家吃团结饭",
@@ -5513,6 +5545,14 @@
       "onboard_time": 1664880863,
       "rank": 38,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 97851,
+      "num": 97851,
+      "word": "男子高速停车将掉落广告牌拉路边",
+      "onboard_time": 1664910851,
+      "rank": 47,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 97788,
@@ -5803,6 +5843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80844,
+      "num": 80844,
+      "word": "健身男子徒手捏石榴为女友榨果汁",
+      "onboard_time": 1664917689,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80815,
       "num": 80815,
       "word": "周冠宇新加坡站退赛",
@@ -5896,6 +5944,14 @@
       "word": "百度地图全景变样了",
       "onboard_time": 1664701225,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76357,
+      "num": 76357,
+      "word": "北京大兴1例确诊病例轨迹",
+      "onboard_time": 1664918651,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -6009,22 +6065,6 @@
       "onboard_time": 1664771782,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 70843,
-      "num": 70843,
-      "word": "军人洗碗后将抹布叠得像板砖",
-      "onboard_time": 1664913671,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 70512,
-      "num": 70512,
-      "word": "健身男子徒手捏石榴为女友榨果汁",
-      "onboard_time": 1664917689,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 70452,
@@ -6160,14 +6200,6 @@
       "word": "小猫顶中分刘海钻花丛后头戴小花",
       "onboard_time": 1664902159,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 65436,
-      "num": 45018,
-      "word": "北京大兴1例确诊病例轨迹",
-      "onboard_time": 1664918651,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -6547,14 +6579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 46189,
-      "num": 46189,
-      "word": "男子高速停车将掉落广告牌拉路边",
-      "onboard_time": 1664910851,
-      "rank": 47,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 46163,
       "num": 46163,
       "word": "张智霖袁咏仪披荆斩棘现场婚礼",
@@ -6584,6 +6608,14 @@
       "word": "民警救下挂4楼窗外八旬老人",
       "onboard_time": 1664777601,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43506,
+      "num": 43506,
+      "word": "内蒙古阿尔山今秋首场降雪",
+      "onboard_time": 1664915650,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -6715,14 +6747,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 29796,
-      "num": 29796,
-      "word": "内蒙古阿尔山今秋首场降雪",
-      "onboard_time": 1664915650,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 28760,
       "num": 28760,
       "word": "2022女排世锦赛",
@@ -6747,20 +6771,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 23067,
+      "num": 23067,
+      "word": "宋雨琦校庆视频",
+      "onboard_time": 1664925977,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 19434,
       "num": 19434,
       "word": "滑滑梯的小熊猫",
       "onboard_time": 1664561715,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 18061,
-      "num": 18061,
-      "word": "普通人有机会去中国空间站吗",
-      "onboard_time": 1664921231,
-      "rank": 48,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 11295,
