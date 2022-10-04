@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664916423796,
+  "endTime": 1664918617475,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -6627,6 +6627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36978,
+      "num": 27395,
+      "word": "军人洗碗后将抹布叠得像板砖",
+      "onboard_time": 1664913671,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35511,
       "num": 35511,
       "word": "和我一起向祖国告白",
@@ -6723,6 +6731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 13276,
+      "num": 13276,
+      "word": "内蒙古阿尔山今秋首场降雪",
+      "onboard_time": 1664915650,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 11127,
       "num": 11127,
       "word": "ISG战胜IW",
@@ -6755,11 +6771,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 8888,
-      "num": 8888,
-      "word": "军人洗碗后将抹布叠得像板砖",
-      "onboard_time": 1664913671,
-      "rank": 44,
+      "raw_hot": 8457,
+      "num": 8457,
+      "word": "国庆气温跳水有多强",
+      "onboard_time": 1664916190,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -6769,6 +6785,14 @@
       "onboard_time": 1664826670,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7679,
+      "num": 8253,
+      "word": "海军专属浪花白太浪漫了",
+      "onboard_time": 1664915471,
+      "rank": 49,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 7406,
@@ -6809,14 +6833,6 @@
       "onboard_time": 1664652973,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 6385,
-      "num": 8254,
-      "word": "内蒙古阿尔山今秋首场降雪",
-      "onboard_time": 1664915650,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 6324,
@@ -6875,14 +6891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 5662,
-      "num": 8254,
-      "word": "国庆气温跳水有多强",
-      "onboard_time": 1664916190,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 5550,
       "num": 8253,
       "word": "被闫安解说笑死了",
@@ -6915,12 +6923,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 5388,
-      "num": 8253,
-      "word": "海军专属浪花白太浪漫了",
-      "onboard_time": 1664915471,
-      "rank": 49,
-      "category": "军事,社会新闻"
+      "raw_hot": 5423,
+      "num": 6113,
+      "word": "健身男子徒手捏石榴为女友榨果汁",
+      "onboard_time": 1664917689,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 5380,
@@ -6947,12 +6955,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 5217,
+      "num": 6108,
+      "word": "三人获2022年诺贝尔物理学奖",
+      "onboard_time": 1664918050,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 5162,
       "num": 5360,
       "word": "高速堵车大哥淡定摆弄钓鱼竿",
       "onboard_time": 1664829671,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5114,
+      "num": 6090,
+      "word": "乌云遇皎月片头吵架片尾和",
+      "onboard_time": 1664917930,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 5069,
