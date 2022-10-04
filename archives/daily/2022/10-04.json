@@ -1,10 +1,10 @@
 {
   "startTime": 1664815260200,
-  "endTime": 1664858252179,
+  "endTime": 1664862469862,
   "band_list": [
     {
-      "raw_hot": 1646758,
-      "num": 269006,
+      "raw_hot": 1829788,
+      "num": 332595,
       "word": "因为我当年喜欢EXO",
       "onboard_time": 1664857223,
       "rank": 10,
@@ -17,6 +17,14 @@
       "onboard_time": 1664810964,
       "rank": 0,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1340293,
+      "num": 1340293,
+      "word": "日本向多地发布避难警报",
+      "onboard_time": 1664856442,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1300166,
@@ -65,6 +73,14 @@
       "onboard_time": 1664845643,
       "rank": 3,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 797413,
+      "num": 797413,
+      "word": "朝鲜导弹疑飞过日本上空",
+      "onboard_time": 1664855541,
+      "rank": 12,
+      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 720237,
@@ -116,7 +132,7 @@
     },
     {
       "raw_hot": 539141,
-      "num": 268233,
+      "num": 327599,
       "word": "男子遭反向抹零被问你差那一毛钱吗",
       "onboard_time": 1664856143,
       "rank": 33,
@@ -129,6 +145,14 @@
       "onboard_time": 1664839817,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 520238,
+      "num": 520238,
+      "word": "恋人过世真的会化身蝴蝶吗",
+      "onboard_time": 1664859803,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 496563,
@@ -155,6 +179,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 482650,
+      "num": 482650,
+      "word": "如何喝咖啡更健康",
+      "onboard_time": 1664856200,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 468945,
+      "num": 468945,
+      "word": "我和家里的蟑螂合租了",
+      "onboard_time": 1664859863,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 463569,
       "num": 463569,
       "word": "体重减不下来有3个原因",
@@ -171,16 +211,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 456313,
-      "num": 456313,
-      "word": "朝鲜导弹疑飞过日本上空",
-      "onboard_time": 1664855541,
-      "rank": 12,
-      "category": "军事,国外要闻"
-    },
-    {
       "raw_hot": 438493,
-      "num": 267522,
+      "num": 291918,
       "word": "SuperM出道曲Jopping发行三周年",
       "onboard_time": 1664857522,
       "rank": 12,
@@ -251,14 +283,6 @@
       "category": "其它"
     },
     {
-      "raw_hot": 299769,
-      "num": 266537,
-      "word": "日本向多地发布避难警报",
-      "onboard_time": 1664856442,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 295958,
       "num": 295958,
       "word": "熊猫的肚皮原来可以当小饭桌用",
@@ -267,20 +291,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 269193,
-      "num": 269193,
-      "word": "如何喝咖啡更健康",
-      "onboard_time": 1664856200,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 259581,
       "num": 259581,
       "word": "男子坚持五六年为老人做炖菜过重阳",
       "onboard_time": 1664851642,
       "rank": 14,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 251912,
+      "num": 251912,
+      "word": "HYBE第四季度计划",
+      "onboard_time": 1664862142,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 251499,
@@ -297,6 +321,14 @@
       "onboard_time": 1664841981,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 234780,
+      "num": 234780,
+      "word": "詹姆斯半场7中0",
+      "onboard_time": 1664861063,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 228787,
@@ -427,12 +459,28 @@
       "category": "游戏,社会新闻"
     },
     {
+      "raw_hot": 160269,
+      "num": 160269,
+      "word": "努力有可能超越天赋吗",
+      "onboard_time": 1664859743,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 159822,
       "num": 159822,
       "word": "淡定鸭鸭暴雨中集体站立淋雨",
       "onboard_time": 1664801124,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150634,
+      "num": 150634,
+      "word": "王一博街舞5微电影排练花絮",
+      "onboard_time": 1664858543,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 149174,
@@ -465,6 +513,14 @@
       "onboard_time": 1664839756,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 139635,
+      "num": 139635,
+      "word": "幼儿园成美食天花板顿顿不重样",
+      "onboard_time": 1664857940,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136619,
@@ -516,7 +572,7 @@
     },
     {
       "raw_hot": 125826,
-      "num": 66289,
+      "num": 79833,
       "word": "明日方舟",
       "onboard_time": 1664858242,
       "rank": 47,
@@ -529,6 +585,14 @@
       "onboard_time": 1664797043,
       "rank": 17,
       "category": "社会议题,影视"
+    },
+    {
+      "raw_hot": 124701,
+      "num": 124701,
+      "word": "王俊凯说角色魅力才是真正的帅",
+      "onboard_time": 1664860824,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 124181,
@@ -553,6 +617,14 @@
       "onboard_time": 1664848641,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 120646,
+      "num": 120646,
+      "word": "张云龙画的蝴蝶和毛毛虫很贴切",
+      "onboard_time": 1664857402,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 116325,
@@ -587,19 +659,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 106828,
-      "num": 106828,
-      "word": "张云龙画的蝴蝶和毛毛虫很贴切",
-      "onboard_time": 1664857402,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 106483,
       "num": 106483,
       "word": "长辈未说出口的那些话",
       "onboard_time": 1664839876,
       "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 104131,
+      "num": 104131,
+      "word": "爷爷奶奶们的名字有多好听",
+      "onboard_time": 1664859381,
+      "rank": 30,
       "category": "情感"
     },
     {
@@ -656,6 +728,14 @@
       "word": "绿皮火车也能有淋浴酒吧KTV",
       "onboard_time": 1664831470,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95038,
+      "num": 95038,
+      "word": "92岁老人参加外孙女婚礼兜里被塞满钱",
+      "onboard_time": 1664861602,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -819,14 +899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 66118,
-      "num": 66118,
-      "word": "幼儿园成美食天花板顿顿不重样",
-      "onboard_time": 1664857940,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 65495,
       "num": 65495,
       "word": "记得存点话留到8号上班讲",
@@ -867,12 +939,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 58114,
+      "num": 58114,
+      "word": "伦纳德复出",
+      "onboard_time": 1664861961,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 55729,
       "num": 55729,
       "word": "这就是国庆在家的我吧",
       "onboard_time": 1664800225,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 55624,
+      "num": 237215,
+      "word": "男子回村为老人做3天炖菜过重阳",
+      "onboard_time": 1664859682,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 49003,
