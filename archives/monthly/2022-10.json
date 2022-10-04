@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664922401040,
+  "endTime": 1664923520964,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -4307,6 +4307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 152810,
+      "num": 152810,
+      "word": "有效减脂减重做到这3点",
+      "onboard_time": 1664899163,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152183,
       "num": 152183,
       "word": "反恐现场子弹就在头顶上飞",
@@ -4481,14 +4489,6 @@
       "onboard_time": 1664579899,
       "rank": 28,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 143825,
-      "num": 143825,
-      "word": "有效减脂减重做到这3点",
-      "onboard_time": 1664899163,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 143682,
@@ -5220,7 +5220,7 @@
     },
     {
       "raw_hot": 111713,
-      "num": 80158,
+      "num": 111092,
       "word": "会计被骗86万警方8分钟追回",
       "onboard_time": 1664907194,
       "rank": 11,
@@ -6011,6 +6011,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 70843,
+      "num": 70843,
+      "word": "军人洗碗后将抹布叠得像板砖",
+      "onboard_time": 1664913671,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 70512,
+      "num": 70512,
+      "word": "健身男子徒手捏石榴为女友榨果汁",
+      "onboard_time": 1664917689,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70452,
       "num": 70452,
       "word": "中国女篮28年前绝杀澳大利亚队珍贵画面",
@@ -6144,6 +6160,14 @@
       "word": "小猫顶中分刘海钻花丛后头戴小花",
       "onboard_time": 1664902159,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 65436,
+      "num": 45018,
+      "word": "北京大兴1例确诊病例轨迹",
+      "onboard_time": 1664918651,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -6387,14 +6411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 53453,
-      "num": 46085,
-      "word": "军人洗碗后将抹布叠得像板砖",
-      "onboard_time": 1664913671,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 53057,
       "num": 53057,
       "word": "有一种骄傲叫中国",
@@ -6456,14 +6472,6 @@
       "word": "108岁老人两次患癌仍坚持读书写作",
       "onboard_time": 1664873483,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 49101,
-      "num": 49101,
-      "word": "健身男子徒手捏石榴为女友榨果汁",
-      "onboard_time": 1664917689,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -6537,6 +6545,14 @@
       "onboard_time": 1664552906,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 46189,
+      "num": 46189,
+      "word": "男子高速停车将掉落广告牌拉路边",
+      "onboard_time": 1664910851,
+      "rank": 47,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 46163,
@@ -6643,14 +6659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36854,
-      "num": 30704,
-      "word": "北京大兴1例确诊病例轨迹",
-      "onboard_time": 1664918651,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 35511,
       "num": 35511,
       "word": "和我一起向祖国告白",
@@ -6683,6 +6691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 32401,
+      "num": 32401,
+      "word": "EG对战MAD",
+      "onboard_time": 1664913011,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 31661,
       "num": 266428,
       "word": "向国庆假期坚守岗位的医护人员致敬",
@@ -6697,14 +6713,6 @@
       "onboard_time": 1664739551,
       "rank": 42,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 29861,
-      "num": 29861,
-      "word": "男子高速停车将掉落广告牌拉路边",
-      "onboard_time": 1664910851,
-      "rank": 47,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 29796,
@@ -6731,14 +6739,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 26575,
-      "num": 26575,
-      "word": "EG对战MAD",
-      "onboard_time": 1664913011,
-      "rank": 13,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 23728,
       "num": 23728,
       "word": "中国女排战胜捷克队",
@@ -6753,6 +6753,30 @@
       "onboard_time": 1664561715,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 18061,
+      "num": 18061,
+      "word": "普通人有机会去中国空间站吗",
+      "onboard_time": 1664921231,
+      "rank": 48,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 11295,
+      "num": 14164,
+      "word": "国庆气温跳水有多强",
+      "onboard_time": 1664916190,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11185,
+      "num": 14152,
+      "word": "海军专属浪花白太浪漫了",
+      "onboard_time": 1664915471,
+      "rank": 49,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 11127,
@@ -6779,22 +6803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 10092,
-      "num": 12682,
-      "word": "海军专属浪花白太浪漫了",
-      "onboard_time": 1664915471,
-      "rank": 49,
-      "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 9936,
-      "num": 12673,
-      "word": "国庆气温跳水有多强",
-      "onboard_time": 1664916190,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 9058,
       "num": 10951,
       "word": "袁一琦新歌大小孩首唱",
@@ -6817,6 +6825,14 @@
       "onboard_time": 1664912351,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 7315,
+      "num": 14145,
+      "word": "重阳节适合全家一起看的电影",
+      "onboard_time": 1664922615,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 7075,
@@ -6857,14 +6873,6 @@
       "onboard_time": 1664832190,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 6114,
-      "num": 12672,
-      "word": "普通人有机会去中国空间站吗",
-      "onboard_time": 1664921231,
-      "rank": 48,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 6079,
