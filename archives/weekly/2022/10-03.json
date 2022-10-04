@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1664909839729,
+  "endTime": 1664911560998,
   "band_list": [
     {
       "raw_hot": 3091269,
@@ -3625,6 +3625,14 @@
       "onboard_time": 1664680822,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8189,
+      "num": 8189,
+      "word": "男子高速停车将掉落广告牌拉路边",
+      "onboard_time": 1664910851,
+      "rank": 47,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 7982,
