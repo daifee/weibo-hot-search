@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664851942912,
+  "endTime": 1664856764674,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -289,6 +289,14 @@
       "onboard_time": 1664627183,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1288079,
+      "num": 1288079,
+      "word": "特斯拉市值一夜蒸发5100亿",
+      "onboard_time": 1664851582,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 1244093,
@@ -859,6 +867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 636116,
+      "num": 186317,
+      "word": "新婚次日丈夫嘚瑟初恋情书被罚跪",
+      "onboard_time": 1664851522,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 633973,
       "num": 633973,
       "word": "杨坤马嘉祺毫无默契",
@@ -1283,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 456880,
+      "num": 456880,
+      "word": "光遇",
+      "onboard_time": 1664856562,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 455303,
       "num": 455303,
       "word": "大学女老师说为情所困不如搞事业",
@@ -1369,6 +1393,14 @@
       "onboard_time": 1664849363,
       "rank": 36,
       "category": "国外要闻,财经"
+    },
+    {
+      "raw_hot": 434386,
+      "num": 434386,
+      "word": "王俊凯万里归途票房破6亿",
+      "onboard_time": 1664851702,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 432920,
@@ -1651,6 +1683,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 373120,
+      "num": 358355,
+      "word": "RNG入围赛淘汰赛对阵DFM",
+      "onboard_time": 1664851461,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 371280,
       "num": 371280,
       "word": "关晓彤为电视剧胡同第三篇章做宣传",
@@ -1753,6 +1793,14 @@
       "onboard_time": 1664743991,
       "rank": 24,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 350393,
+      "num": 350393,
+      "word": "张雨绮说这个家不能没有雪莉杨",
+      "onboard_time": 1664854102,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 348599,
@@ -2083,6 +2131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 284518,
+      "num": 284518,
+      "word": "朝鲜导弹疑飞过日本上空",
+      "onboard_time": 1664855541,
+      "rank": 12,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 284307,
       "num": 284307,
       "word": "父母的三观对孩子影响大吗",
@@ -2299,6 +2355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 259581,
+      "num": 259581,
+      "word": "男子坚持五六年为老人做炖菜过重阳",
+      "onboard_time": 1664851642,
+      "rank": 14,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 258470,
       "num": 258470,
       "word": "特优声2二公舞台好适合国庆",
@@ -2401,14 +2465,6 @@
       "onboard_time": 1664683040,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 251116,
-      "num": 251116,
-      "word": "王俊凯万里归途票房破6亿",
-      "onboard_time": 1664851702,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 251071,
@@ -2859,6 +2915,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 203956,
+      "num": 203956,
+      "word": "虞书欣仙剑六最新路透",
+      "onboard_time": 1664850502,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 203839,
       "num": 134286,
       "word": "小偷气愤欲偷平板电脑到手电子秤",
@@ -3035,14 +3099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 189381,
-      "num": 189381,
-      "word": "虞书欣仙剑六最新路透",
-      "onboard_time": 1664850502,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 188431,
       "num": 188431,
       "word": "国乒男团世乒赛开门红",
@@ -3097,6 +3153,14 @@
       "onboard_time": 1664717665,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 186416,
+      "num": 186416,
+      "word": "国王vs湖人",
+      "onboard_time": 1664852782,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 185137,
@@ -3339,6 +3403,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 162023,
+      "num": 162023,
+      "word": "川妹子陪妈妈拿下电竞冠军",
+      "onboard_time": 1664851881,
+      "rank": 47,
+      "category": "游戏,社会新闻"
+    },
+    {
       "raw_hot": 161645,
       "num": 161645,
       "word": "00后大学生操场带妆唱戏引围观",
@@ -3409,14 +3481,6 @@
       "onboard_time": 1664592443,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157642,
-      "num": 157642,
-      "word": "RNG入围赛淘汰赛对阵DFM",
-      "onboard_time": 1664851461,
-      "rank": 23,
-      "category": "游戏"
     },
     {
       "raw_hot": 157122,
@@ -3739,12 +3803,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134107,
+      "num": 134107,
+      "word": "国庆假期偶遇执勤警犬歪头杀",
+      "onboard_time": 1664852602,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133876,
       "num": 133876,
       "word": "这运镜突然就高级了",
       "onboard_time": 1664712684,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 133735,
+      "num": 133735,
+      "word": "老一辈做的饭菜有多香",
+      "onboard_time": 1664855002,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132134,
@@ -3785,6 +3865,14 @@
       "onboard_time": 1664709444,
       "rank": 30,
       "category": "科技,国内要闻"
+    },
+    {
+      "raw_hot": 128787,
+      "num": 128787,
+      "word": "这是狗狗眼里的满分主人吧",
+      "onboard_time": 1664850202,
+      "rank": 30,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 128312,
@@ -3859,6 +3947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125555,
+      "num": 125555,
+      "word": "郭涛小沈阳新片演父子",
+      "onboard_time": 1664856083,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 125551,
       "num": 125551,
       "word": "女篮送上超燃国庆礼物",
@@ -3921,14 +4017,6 @@
       "onboard_time": 1664592201,
       "rank": 29,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 122931,
-      "num": 122931,
-      "word": "这是狗狗眼里的满分主人吧",
-      "onboard_time": 1664850202,
-      "rank": 30,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 122716,
@@ -4009,6 +4097,14 @@
       "onboard_time": 1664685082,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117941,
+      "num": 117941,
+      "word": "男子遭反向抹零被问你差那一毛钱吗",
+      "onboard_time": 1664856143,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117541,
@@ -4121,6 +4217,14 @@
       "onboard_time": 1664670021,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111886,
+      "num": 111886,
+      "word": "想看张译演喜剧",
+      "onboard_time": 1664854824,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 111710,
@@ -4307,6 +4411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 101613,
+      "num": 101613,
+      "word": "如何喝咖啡更健康",
+      "onboard_time": 1664856200,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 101563,
       "num": 101563,
       "word": "林高远3比0奥托",
@@ -4427,14 +4539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 91281,
-      "num": 91281,
-      "word": "特斯拉市值一夜蒸发5100亿",
-      "onboard_time": 1664851582,
-      "rank": 38,
-      "category": "财经"
-    },
-    {
       "raw_hot": 90948,
       "num": 90306,
       "word": "张家辉陈伟霆互斗演技",
@@ -4473,6 +4577,14 @@
       "onboard_time": 1664751914,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 88731,
+      "num": 88731,
+      "word": "张彬彬眼神戏好宠溺",
+      "onboard_time": 1664855242,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 88085,
@@ -4571,6 +4683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83318,
+      "num": 83318,
+      "word": "华西教授回家过节帮满屋乡亲看病",
+      "onboard_time": 1664852424,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82902,
       "num": 82902,
       "word": "十二生肖是怎么选出来的",
@@ -4593,14 +4713,6 @@
       "onboard_time": 1664720425,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 79681,
-      "num": 79681,
-      "word": "新婚次日丈夫嘚瑟初恋情书被罚跪",
-      "onboard_time": 1664851522,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 79464,
@@ -4723,14 +4835,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 72626,
-      "num": 72626,
-      "word": "川妹子陪妈妈拿下电竞冠军",
-      "onboard_time": 1664851881,
-      "rank": 47,
-      "category": "游戏,社会新闻"
-    },
-    {
       "raw_hot": 72338,
       "num": 72338,
       "word": "檀健次新剧哭戏",
@@ -4745,6 +4849,14 @@
       "onboard_time": 1664790921,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71694,
+      "num": 71694,
+      "word": "日本向多地发布避难警报",
+      "onboard_time": 1664856442,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 71292,
@@ -4800,6 +4912,14 @@
       "word": "黄景瑜新剧消防员造型饭拍路透",
       "onboard_time": 1664552906,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 67070,
+      "num": 67070,
+      "word": "陈怡馨说年少的朋友不会走散",
+      "onboard_time": 1664855124,
+      "rank": 46,
       "category": "影视"
     },
     {

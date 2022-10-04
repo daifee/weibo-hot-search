@@ -1,0 +1,410 @@
+{
+  "runTime": 1664856764674,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1288079,
+        "num": 1288079,
+        "word": "特斯拉市值一夜蒸发5100亿",
+        "onboard_time": 1664851582,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 749569,
+        "num": 749569,
+        "word": "男孩交给警察1只4眼蓝血小怪物",
+        "onboard_time": 1664840657,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11770,
+        "num": 543118,
+        "word": "多机位打开国庆节氛围感",
+        "onboard_time": 1664800944,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 500978,
+        "num": 500978,
+        "word": "赵文卓空中踢刀",
+        "onboard_time": 1664848281,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 456880,
+        "num": 456880,
+        "word": "光遇",
+        "onboard_time": 1664856562,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 450778,
+        "num": 450778,
+        "word": "为什么人老了会面目模糊",
+        "onboard_time": 1664846242,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434386,
+        "num": 434386,
+        "word": "王俊凯万里归途票房破6亿",
+        "onboard_time": 1664851702,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 358669,
+        "num": 358669,
+        "word": "英国宣布将放弃激进减税方案",
+        "onboard_time": 1664849363,
+        "rank": 7,
+        "category": "国外要闻,财经"
+      },
+      {
+        "raw_hot": 373120,
+        "num": 358355,
+        "word": "RNG入围赛淘汰赛对阵DFM",
+        "onboard_time": 1664851461,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 350393,
+        "num": 350393,
+        "word": "张雨绮说这个家不能没有雪莉杨",
+        "onboard_time": 1664854102,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 373989,
+        "num": 330856,
+        "word": "离异女子与初恋再婚组成六口之家",
+        "onboard_time": 1664841199,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287380,
+        "num": 287380,
+        "word": "韩方称朝鲜向半岛东部海域发射不明弹道导弹",
+        "onboard_time": 1664845643,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 284518,
+        "num": 284518,
+        "word": "朝鲜导弹疑飞过日本上空",
+        "onboard_time": 1664855541,
+        "rank": 12,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 277418,
+        "num": 277418,
+        "word": "父亲因思念女儿驱车300公里送宵夜",
+        "onboard_time": 1664844440,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259581,
+        "num": 259581,
+        "word": "男子坚持五六年为老人做炖菜过重阳",
+        "onboard_time": 1664851642,
+        "rank": 14,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 230104,
+        "num": 230104,
+        "word": "83岁姥姥随手写出化学结构式惊呆外孙",
+        "onboard_time": 1664841138,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219440,
+        "num": 219440,
+        "word": "全国曾经只有一人的专业有多寂寞",
+        "onboard_time": 1664840719,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203956,
+        "num": 203956,
+        "word": "虞书欣仙剑六最新路透",
+        "onboard_time": 1664850502,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196314,
+        "num": 196314,
+        "word": "重阳节",
+        "onboard_time": 1664839817,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186416,
+        "num": 186416,
+        "word": "国王vs湖人",
+        "onboard_time": 1664852782,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 636116,
+        "num": 186317,
+        "word": "新婚次日丈夫嘚瑟初恋情书被罚跪",
+        "onboard_time": 1664851522,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303931,
+        "num": 186028,
+        "word": "iPhone在6人死亡车祸中自动求救",
+        "onboard_time": 1664796084,
+        "rank": 21,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 183680,
+        "num": 183680,
+        "word": "网传乘风破浪的姐姐4拟邀名单",
+        "onboard_time": 1664807844,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 162023,
+        "num": 162023,
+        "word": "川妹子陪妈妈拿下电竞冠军",
+        "onboard_time": 1664851881,
+        "rank": 23,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 156363,
+        "num": 156363,
+        "word": "小伙花4年考过驾照朋友拉横幅庆祝",
+        "onboard_time": 1664847983,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150613,
+        "num": 150613,
+        "word": "英雄联盟S12",
+        "onboard_time": 1664851102,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141391,
+        "num": 141391,
+        "word": "02年女生成全校最小博士生",
+        "onboard_time": 1664810964,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 134107,
+        "num": 134107,
+        "word": "国庆假期偶遇执勤警犬歪头杀",
+        "onboard_time": 1664852602,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133735,
+        "num": 133735,
+        "word": "老一辈做的饭菜有多香",
+        "onboard_time": 1664855002,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128787,
+        "num": 128787,
+        "word": "这是狗狗眼里的满分主人吧",
+        "onboard_time": 1664850202,
+        "rank": 29,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 125555,
+        "num": 125555,
+        "word": "郭涛小沈阳新片演父子",
+        "onboard_time": 1664856083,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120631,
+        "num": 120631,
+        "word": "年轻人为什么不爱走亲戚",
+        "onboard_time": 1664804784,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119902,
+        "num": 119902,
+        "word": "北京新增1例本土无症状",
+        "onboard_time": 1664848701,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117941,
+        "num": 117941,
+        "word": "男子遭反向抹零被问你差那一毛钱吗",
+        "onboard_time": 1664856143,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111886,
+        "num": 111886,
+        "word": "想看张译演喜剧",
+        "onboard_time": 1664854824,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 101613,
+        "num": 101613,
+        "word": "如何喝咖啡更健康",
+        "onboard_time": 1664856200,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 88796,
+        "num": 88796,
+        "word": "王子异想念山西0.5倍速生活",
+        "onboard_time": 1664841981,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88731,
+        "num": 88731,
+        "word": "张彬彬眼神戏好宠溺",
+        "onboard_time": 1664855242,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 88052,
+        "num": 88052,
+        "word": "守望先锋最后一天",
+        "onboard_time": 1664839756,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 84462,
+        "num": 84462,
+        "word": "卡德罗夫称三个儿子将赴前线",
+        "onboard_time": 1664841620,
+        "rank": 39,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 83675,
+        "num": 83675,
+        "word": "支教老师说自己被光照亮也想发出微光",
+        "onboard_time": 1664848641,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 83318,
+        "num": 83318,
+        "word": "华西教授回家过节帮满屋乡亲看病",
+        "onboard_time": 1664852424,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76411,
+        "num": 76411,
+        "word": "女孩国庆假期帮喂猫日赚600",
+        "onboard_time": 1664849722,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75026,
+        "num": 75026,
+        "word": "萌娃初次剃头后炸毛成海胆宝宝",
+        "onboard_time": 1664841739,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71694,
+        "num": 71694,
+        "word": "日本向多地发布避难警报",
+        "onboard_time": 1664856442,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71298,
+        "num": 71298,
+        "word": "10月3日新增本土无症状626例",
+        "onboard_time": 1664846483,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67070,
+        "num": 67070,
+        "word": "陈怡馨说年少的朋友不会走散",
+        "onboard_time": 1664855124,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 64083,
+        "num": 64083,
+        "word": "67岁奶奶退休后演电影做模特",
+        "onboard_time": 1664843901,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58994,
+        "num": 58994,
+        "word": "长辈未说出口的那些话",
+        "onboard_time": 1664839876,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 55998,
+        "num": 55998,
+        "word": "10月3日新增本土确诊250例",
+        "onboard_time": 1664846483,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#领航#"
+    }
+  }
+}
