@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/06 03:31:50
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/06 03:45:25
 </p>
 </blockquote>
 <p>
@@ -5919,6 +5919,12 @@ MAD对战RNG（热度：64286）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%80%BA%E6%80%BB%E9%A2%9D%E9%A6%96%E6%AC%A1%E7%AA%81%E7%A0%B431%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%23" target="weibo">
+美国国债总额首次突破31万亿美元（热度：50197）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23108%E5%B2%81%E8%80%81%E4%BA%BA%E4%B8%A4%E6%AC%A1%E6%82%A3%E7%99%8C%E4%BB%8D%E5%9D%9A%E6%8C%81%E8%AF%BB%E4%B9%A6%E5%86%99%E4%BD%9C%23" target="weibo">
 108岁老人两次患癌仍坚持读书写作（热度：49665）
 </a>
@@ -6005,12 +6011,6 @@ RNG对战SGB（热度：45627）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E7%A7%8D%E5%BE%88%E6%96%B0%E7%9A%84%E8%89%BA%E6%9C%AF%23" target="weibo">
 这是种很新的艺术（热度：45278）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E6%95%91%E4%B8%8B%E6%8C%824%E6%A5%BC%E7%AA%97%E5%A4%96%E5%85%AB%E6%97%AC%E8%80%81%E4%BA%BA%23" target="weibo">
-民警救下挂4楼窗外八旬老人（热度：43943）
 </a>
 </li>
 

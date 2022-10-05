@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/03 00:34:12 ~ 2022/10/06 03:31:50
+本榜单时间：2022/10/03 00:34:12 ~ 2022/10/06 03:45:25
 </p>
 </blockquote>
 <p>
@@ -3675,6 +3675,12 @@ AI激光助力灭蟑螂（热度：66178）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%80%BA%E6%80%BB%E9%A2%9D%E9%A6%96%E6%AC%A1%E7%AA%81%E7%A0%B431%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%23" target="weibo">
+美国国债总额首次突破31万亿美元（热度：50197）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23108%E5%B2%81%E8%80%81%E4%BA%BA%E4%B8%A4%E6%AC%A1%E6%82%A3%E7%99%8C%E4%BB%8D%E5%9D%9A%E6%8C%81%E8%AF%BB%E4%B9%A6%E5%86%99%E4%BD%9C%23" target="weibo">
 108岁老人两次患癌仍坚持读书写作（热度：49665）
 </a>
@@ -3737,12 +3743,6 @@ RNG对战SGB（热度：45627）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E6%95%91%E4%B8%8B%E6%8C%824%E6%A5%BC%E7%AA%97%E5%A4%96%E5%85%AB%E6%97%AC%E8%80%81%E4%BA%BA%23" target="weibo">
 民警救下挂4楼窗外八旬老人（热度：43943）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%80%BA%E6%80%BB%E9%A2%9D%E9%A6%96%E6%AC%A1%E7%AA%81%E7%A0%B431%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%23" target="weibo">
-美国国债总额首次突破31万亿美元（热度：43238）
 </a>
 </li>
 
@@ -3837,20 +3837,26 @@ EG对战MAD（热度：32401）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9C%A8%E7%88%B1%E5%BF%83%E5%8F%96%E6%B0%B4%E6%9C%BA%E5%89%8D%E8%BF%9B%E8%B4%A7%E5%BC%8F%E5%8F%96%E6%B0%B4%23" target="weibo">
-男子在爱心取水机前进货式取水（热度：17173）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%80%97%E6%97%B64%E5%A4%A9%E5%81%9A%E7%94%84%E5%AC%9B%E4%BC%A0%E7%AB%8B%E4%BD%93%E6%89%8B%E8%B4%A6%23" target="weibo">
+女子耗时4天做甄嬛传立体手账（热度：22643）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%80%97%E6%97%B64%E5%A4%A9%E5%81%9A%E7%94%84%E5%AC%9B%E4%BC%A0%E7%AB%8B%E4%BD%93%E6%89%8B%E8%B4%A6%23" target="weibo">
-女子耗时4天做甄嬛传立体手账（热度：12515）
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9C%A8%E7%88%B1%E5%BF%83%E5%8F%96%E6%B0%B4%E6%9C%BA%E5%89%8D%E8%BF%9B%E8%B4%A7%E5%BC%8F%E5%8F%96%E6%B0%B4%23" target="weibo">
+男子在爱心取水机前进货式取水（热度：21852）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BD%AE%E8%83%8E%E9%AB%98%E9%80%9F%E8%84%B1%E8%90%BD%E6%BB%9A%E4%BA%862%E5%85%AC%E9%87%8C%E5%8F%B8%E6%9C%BA%E6%B2%A1%E8%BF%BD%E4%B8%8A%23" target="weibo">
-轮胎高速脱落滚了2公里司机没追上（热度：11322）
+轮胎高速脱落滚了2公里司机没追上（热度：14469）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E9%93%B6%E8%A1%8C%E9%A2%84%E6%B5%8B%E4%B9%8C%E4%BB%8A%E5%B9%B4%E7%BB%8F%E6%B5%8E%E5%B0%86%E8%90%8E%E7%BC%A935%25%23" target="weibo">
+世界银行预测乌今年经济将萎缩35%（热度：12240）
 </a>
 </li>
 
@@ -3915,8 +3921,20 @@ F1新加坡大奖赛佩雷兹冠军（热度：7075）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2320%E4%BD%99%E5%90%8D%E7%95%99%E5%AE%88%E5%A8%83%E8%BD%AE%E6%B5%81%E6%91%86%E6%8B%8D%E5%96%82%E7%8C%AA%E5%AE%8C%E6%88%90%E4%BD%9C%E4%B8%9A%23" target="weibo">
+20余名留守娃轮流摆拍喂猪完成作业（热度：6799）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E7%8E%B06%E7%BA%A7%E5%A4%A7%E9%A3%8E%E9%99%8D%E6%B8%A9%E6%98%8E%E6%98%BE%23" target="weibo">
 成都现6级大风降温明显（热度：6528）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23RNG%E5%9B%A2%E6%88%98%23" target="weibo">
+RNG团战（热度：6486）
 </a>
 </li>
 
