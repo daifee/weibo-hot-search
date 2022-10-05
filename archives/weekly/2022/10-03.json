@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1664988941943,
+  "endTime": 1664990679795,
   "band_list": [
     {
       "raw_hot": 5104220,
@@ -1763,6 +1763,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 346924,
+      "num": 346924,
+      "word": "5岁女孩用儿童玩具钓上数条鱼",
+      "onboard_time": 1664986161,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 346836,
       "num": 346836,
       "word": "万茜拍万里归途时刚拆钢板",
@@ -2171,6 +2179,14 @@
       "category": "美妆,时尚"
     },
     {
+      "raw_hot": 271042,
+      "num": 271042,
+      "word": "潘粤明是鬼吹灯最忙幕后",
+      "onboard_time": 1664985803,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 268539,
       "num": 268539,
       "word": "22岁兵哥连救5人获提干",
@@ -2353,14 +2369,6 @@
       "onboard_time": 1664780301,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 250040,
-      "num": 250040,
-      "word": "5岁女孩用儿童玩具钓上数条鱼",
-      "onboard_time": 1664986161,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 249234,
@@ -2721,14 +2729,6 @@
       "onboard_time": 1664944762,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 217972,
-      "num": 217972,
-      "word": "潘粤明是鬼吹灯最忙幕后",
-      "onboard_time": 1664985803,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 217965,
@@ -4027,6 +4027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111284,
+      "num": 111284,
+      "word": "海滩上牡蛎一捞一麻袋",
+      "onboard_time": 1664986640,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110452,
       "num": 110452,
       "word": "周深清唱大鱼DNA动了",
@@ -4507,14 +4515,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 77977,
-      "num": 77977,
-      "word": "海滩上牡蛎一捞一麻袋",
-      "onboard_time": 1664986640,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 76267,
       "num": 76267,
       "word": "考研报名攻略",
@@ -4947,6 +4947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45278,
+      "num": 45278,
+      "word": "这是种很新的艺术",
+      "onboard_time": 1664988258,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 43943,
       "num": 285080,
       "word": "民警救下挂4楼窗外八旬老人",
@@ -5003,14 +5011,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 34506,
-      "num": 34506,
-      "word": "这是种很新的艺术",
-      "onboard_time": 1664988258,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 32401,
       "num": 32401,
       "word": "EG对战MAD",
@@ -5043,6 +5043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28915,
+      "num": 28915,
+      "word": "被蔡文静演的叶芯暖到",
+      "onboard_time": 1664989157,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 28559,
       "num": 28559,
       "word": "陈哲远综艺之神降临",
@@ -5057,6 +5065,22 @@
       "onboard_time": 1664819775,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 25729,
+      "num": 25729,
+      "word": "张雨绮暗黑御姐造型",
+      "onboard_time": 1664989395,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 25619,
+      "num": 25619,
+      "word": "今晚继续为女排姑娘们加油",
+      "onboard_time": 1664990116,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 11295,
