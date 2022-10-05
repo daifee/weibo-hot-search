@@ -1,6 +1,6 @@
 {
   "startTime": 1664901610003,
-  "endTime": 1664947463271,
+  "endTime": 1664949130404,
   "band_list": [
     {
       "raw_hot": 2674618,
@@ -25,6 +25,14 @@
       "onboard_time": 1664939902,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1226542,
+      "num": 1226542,
+      "word": "海天味业再发声明否认双标",
+      "onboard_time": 1664944463,
+      "rank": 6,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1197131,
@@ -67,20 +75,20 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 856788,
+      "num": 856788,
+      "word": "南京新增18例本土确诊",
+      "onboard_time": 1664943862,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 824080,
       "num": 824080,
       "word": "螃蟹也没想到她还有把刷子",
       "onboard_time": 1664929820,
       "rank": 1,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 810576,
-      "num": 810576,
-      "word": "南京新增18例本土确诊",
-      "onboard_time": 1664943862,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 760705,
@@ -97,14 +105,6 @@
       "onboard_time": 1664941161,
       "rank": 4,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 666451,
-      "num": 666451,
-      "word": "海天味业再发声明否认双标",
-      "onboard_time": 1664944463,
-      "rank": 6,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 591463,
@@ -219,6 +219,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 383960,
+      "num": 376125,
+      "word": "范世錡晒无与伦比的美丽live图",
+      "onboard_time": 1664946803,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 383845,
       "num": 383845,
       "word": "RNG进入D组",
@@ -243,12 +251,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 319788,
-      "num": 319788,
-      "word": "范世錡晒无与伦比的美丽live图",
-      "onboard_time": 1664946803,
-      "rank": 16,
-      "category": "综艺"
+      "raw_hot": 312594,
+      "num": 312594,
+      "word": "吴京说王俊凯跟他年轻时候差不多",
+      "onboard_time": 1664948841,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 305448,
+      "num": 305448,
+      "word": "中国调味品协会支持企业依法维权",
+      "onboard_time": 1664946382,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 281296,
@@ -289,6 +305,14 @@
       "onboard_time": 1664899163,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 254007,
+      "num": 254007,
+      "word": "狗子知道错了但是下次还敢",
+      "onboard_time": 1664943922,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 253926,
@@ -363,20 +387,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218543,
+      "num": 218543,
+      "word": "东北人逛云南菜市场刷新买菜认知",
+      "onboard_time": 1664944762,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213693,
       "num": 213693,
       "word": "军人洗碗后将抹布叠得像板砖",
       "onboard_time": 1664913671,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 202234,
-      "num": 202234,
-      "word": "狗子知道错了但是下次还敢",
-      "onboard_time": 1664943922,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 193828,
@@ -400,14 +424,6 @@
       "word": "广东一婚宴不收礼金只撕红包一角",
       "onboard_time": 1664879362,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 191161,
-      "num": 191161,
-      "word": "东北人逛云南菜市场刷新买菜认知",
-      "onboard_time": 1664944762,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -555,6 +571,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 139334,
+      "num": 139334,
+      "word": "张桂梅说学生走得比我好就足够了",
+      "onboard_time": 1664946323,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135236,
       "num": 135236,
       "word": "今日重阳",
@@ -635,14 +659,6 @@
       "category": "幽默,综艺"
     },
     {
-      "raw_hot": 110737,
-      "num": 110737,
-      "word": "中国调味品协会支持企业依法维权",
-      "onboard_time": 1664946382,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 99808,
       "num": 99808,
       "word": "男子高速停车将掉落广告牌拉路边",
@@ -691,6 +707,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 90777,
+      "num": 90777,
+      "word": "小蓝和他的朋友动画开播",
+      "onboard_time": 1664947940,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 89770,
       "num": 89770,
       "word": "健身男子徒手捏石榴为女友榨果汁",
@@ -705,14 +729,6 @@
       "onboard_time": 1664925977,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 88885,
-      "num": 88885,
-      "word": "张桂梅说学生走得比我好就足够了",
-      "onboard_time": 1664946323,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 88728,
@@ -769,6 +785,14 @@
       "onboard_time": 1664878942,
       "rank": 36,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 77845,
+      "num": 77845,
+      "word": "游客无视劝告拍照给小熊猫喂食",
+      "onboard_time": 1664948302,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76508,
@@ -849,6 +873,14 @@
       "onboard_time": 1664891664,
       "rank": 42,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 64172,
+      "num": 46615,
+      "word": "老邢秀才16年后再同框",
+      "onboard_time": 1664949081,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 60266,
@@ -1086,6 +1118,9 @@
   "hotgov_list": [
     {
       "word": "#追光#"
+    },
+    {
+      "word": "#谁不说俺家乡好#"
     }
   ]
 }

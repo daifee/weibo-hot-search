@@ -1,0 +1,410 @@
+{
+  "runTime": 1664949130404,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1226542,
+        "num": 1226542,
+        "word": "海天味业再发声明否认双标",
+        "onboard_time": 1664944463,
+        "rank": 0,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1090235,
+        "num": 1090235,
+        "word": "挪威海底电缆断裂",
+        "onboard_time": 1664939902,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7664,
+        "num": 999483,
+        "word": "多机位打开国庆节氛围感",
+        "onboard_time": 1664800944,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 966698,
+        "num": 966698,
+        "word": "国产悬疑剧终于上新了",
+        "onboard_time": 1664942424,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 856788,
+        "num": 856788,
+        "word": "南京新增18例本土确诊",
+        "onboard_time": 1664943862,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536478,
+        "num": 536478,
+        "word": "我的童年报复性补偿行为",
+        "onboard_time": 1664892563,
+        "rank": 5,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 525679,
+        "num": 525679,
+        "word": "心动的信号第二次约会",
+        "onboard_time": 1664944161,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 520676,
+        "num": 520676,
+        "word": "开水烫餐具无法消毒",
+        "onboard_time": 1664937500,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427685,
+        "num": 427685,
+        "word": "被高铁上惊鸿一瞥的美景惊艳到了",
+        "onboard_time": 1664942181,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 377696,
+        "num": 377696,
+        "word": "农民父母供养3女1儿全部读大学",
+        "onboard_time": 1664940263,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383960,
+        "num": 376125,
+        "word": "范世錡晒无与伦比的美丽live图",
+        "onboard_time": 1664946803,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328819,
+        "num": 328819,
+        "word": "请上天赐一个隔音好的厕所吧",
+        "onboard_time": 1664942962,
+        "rank": 11,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 312594,
+        "num": 312594,
+        "word": "吴京说王俊凯跟他年轻时候差不多",
+        "onboard_time": 1664948841,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 307066,
+        "num": 307066,
+        "word": "王鹤棣密逃4白色衬衫高清剧照",
+        "onboard_time": 1664941161,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 305448,
+        "num": 305448,
+        "word": "中国调味品协会支持企业依法维权",
+        "onboard_time": 1664946382,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304533,
+        "num": 304533,
+        "word": "游客车辆遭白虎追咬留下牙印",
+        "onboard_time": 1664940382,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300463,
+        "num": 300463,
+        "word": "消费930.9被收931事件双方发声",
+        "onboard_time": 1664925737,
+        "rank": 16,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 297145,
+        "num": 297145,
+        "word": "韩国一枚导弹发射异常坠落",
+        "onboard_time": 1664940501,
+        "rank": 17,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 264993,
+        "num": 264993,
+        "word": "俄外交部称俄完全遵守不可发生核战争声明",
+        "onboard_time": 1664941522,
+        "rank": 18,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 254007,
+        "num": 254007,
+        "word": "狗子知道错了但是下次还敢",
+        "onboard_time": 1664943922,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 249195,
+        "num": 249195,
+        "word": "新丽正午耀客柠萌待播剧汇总",
+        "onboard_time": 1664945363,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218543,
+        "num": 218543,
+        "word": "东北人逛云南菜市场刷新买菜认知",
+        "onboard_time": 1664944762,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176322,
+        "num": 176322,
+        "word": "虞书欣给张彬彬喂饭甜中带笑",
+        "onboard_time": 1664942721,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166328,
+        "num": 166328,
+        "word": "萌娃精心打扮当花童被遗忘委屈抹泪",
+        "onboard_time": 1664943382,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154687,
+        "num": 154687,
+        "word": "RNG进入D组",
+        "onboard_time": 1664935041,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153273,
+        "num": 153273,
+        "word": "电影万里归途",
+        "onboard_time": 1664941102,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147429,
+        "num": 147429,
+        "word": "一旦买了洞洞鞋",
+        "onboard_time": 1664892804,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145957,
+        "num": 145957,
+        "word": "这碗螺蛳粉一定要吃吗",
+        "onboard_time": 1664896346,
+        "rank": 27,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 139334,
+        "num": 139334,
+        "word": "张桂梅说学生走得比我好就足够了",
+        "onboard_time": 1664946323,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135042,
+        "num": 135042,
+        "word": "10月4日新增本土确诊223例",
+        "onboard_time": 1664939781,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96796,
+        "num": 96796,
+        "word": "在小猫眼中看到了羡慕",
+        "onboard_time": 1664940802,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91430,
+        "num": 91430,
+        "word": "男子丢钱包后被索要归还费",
+        "onboard_time": 1664937981,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90777,
+        "num": 90777,
+        "word": "小蓝和他的朋友动画开播",
+        "onboard_time": 1664947940,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 87567,
+        "num": 87567,
+        "word": "会计被骗86万警方8分钟追回",
+        "onboard_time": 1664907194,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87052,
+        "num": 87052,
+        "word": "步惊云终于体会当爸爸有多快乐",
+        "onboard_time": 1664897424,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85711,
+        "num": 85711,
+        "word": "螃蟹也没想到她还有把刷子",
+        "onboard_time": 1664929820,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85221,
+        "num": 85221,
+        "word": "女童落水同伴狂奔大喊求救",
+        "onboard_time": 1664935882,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77870,
+        "num": 77870,
+        "word": "北京新增3例本土确诊1例无症状",
+        "onboard_time": 1664932102,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77845,
+        "num": 77845,
+        "word": "游客无视劝告拍照给小熊猫喂食",
+        "onboard_time": 1664948302,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72124,
+        "num": 72124,
+        "word": "你是隐形社恐吗",
+        "onboard_time": 1664895326,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70987,
+        "num": 70987,
+        "word": "锡安复出",
+        "onboard_time": 1664938041,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60589,
+        "num": 60589,
+        "word": "万里归途歌词",
+        "onboard_time": 1664943081,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 60110,
+        "num": 60110,
+        "word": "10月4日新增本土无症状747例",
+        "onboard_time": 1664939840,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55948,
+        "num": 55948,
+        "word": "守望先锋归来上线",
+        "onboard_time": 1664936123,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 55914,
+        "num": 55914,
+        "word": "马斯克计划按原价收购推特",
+        "onboard_time": 1664932222,
+        "rank": 44,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 51807,
+        "num": 51807,
+        "word": "机械狗能取代宠物狗吗",
+        "onboard_time": 1664936182,
+        "rank": 45,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 47337,
+        "num": 47337,
+        "word": "考研报名正式开始",
+        "onboard_time": 1664931380,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 64172,
+        "num": 46615,
+        "word": "老邢秀才16年后再同框",
+        "onboard_time": 1664949081,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 45811,
+        "num": 45811,
+        "word": "熊猫宝宝的背影有多治愈",
+        "onboard_time": 1664942062,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 45236,
+        "num": 45236,
+        "word": "欧盟批准强制苹果使用USB C接口",
+        "onboard_time": 1664893646,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#谁不说俺家乡好#"
+    }
+  }
+}
