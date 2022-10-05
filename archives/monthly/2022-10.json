@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664958742828,
+  "endTime": 1664959831153,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -705,6 +705,14 @@
       "onboard_time": 1664762302,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 933699,
+      "num": 933699,
+      "word": "一只羊能有多狗",
+      "onboard_time": 1664957841,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 932511,
@@ -1891,14 +1899,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 441521,
-      "num": 231529,
-      "word": "一只羊能有多狗",
-      "onboard_time": 1664957841,
-      "rank": 11,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 440822,
       "num": 310990,
       "word": "雪王路边哄小孩突遭男子挥拳袭击",
@@ -2427,6 +2427,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 362961,
+      "num": 283934,
+      "word": "陈哲远躺在沈月腿上花絮照",
+      "onboard_time": 1664958263,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 361565,
       "num": 361565,
       "word": "特斯拉人形机器人原型机亮相",
@@ -2737,6 +2745,14 @@
       "onboard_time": 1664784260,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 313542,
+      "num": 313542,
+      "word": "赵露思胡同战报",
+      "onboard_time": 1664958263,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 308228,
@@ -3171,12 +3187,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 266608,
+      "num": 266608,
+      "word": "王俊凯万里归途票房破8亿海报",
+      "onboard_time": 1664959280,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 266563,
       "num": 266563,
       "word": "阿朵发2000字长文给好声音蝶长",
       "onboard_time": 1664550984,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 265948,
+      "num": 265948,
+      "word": "这才是顶级甄学家",
+      "onboard_time": 1664957602,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 264524,
@@ -3433,14 +3465,6 @@
       "onboard_time": 1664700803,
       "rank": 26,
       "category": "社会负面,体育"
-    },
-    {
-      "raw_hot": 246890,
-      "num": 230609,
-      "word": "陈哲远躺在沈月腿上花絮照",
-      "onboard_time": 1664958263,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 246833,
@@ -3827,14 +3851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 222108,
-      "num": 222108,
-      "word": "这才是顶级甄学家",
-      "onboard_time": 1664957602,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 221653,
       "num": 221653,
       "word": "RNG对战IW",
@@ -4203,6 +4219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195686,
+      "num": 195686,
+      "word": "从狗子的眼神中看到了后悔",
+      "onboard_time": 1664956038,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 195255,
       "num": 195255,
       "word": "人生大事登顶中国台湾网飞电影榜",
@@ -4299,14 +4323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 189132,
-      "num": 182525,
-      "word": "赵露思胡同战报",
-      "onboard_time": 1664958263,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 188431,
       "num": 188431,
       "word": "国乒男团世乒赛开门红",
@@ -4369,14 +4385,6 @@
       "onboard_time": 1664852782,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 186221,
-      "num": 186221,
-      "word": "从狗子的眼神中看到了后悔",
-      "onboard_time": 1664956038,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 186047,
@@ -4481,6 +4489,14 @@
       "onboard_time": 1664681300,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179761,
+      "num": 179761,
+      "word": "没有科技与狠活的芝士肥牛卷",
+      "onboard_time": 1664959222,
+      "rank": 18,
+      "category": "美食"
     },
     {
       "raw_hot": 179289,
@@ -4851,6 +4867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 156042,
+      "num": 156042,
+      "word": "女孩陪外公下象棋用手机开外挂",
+      "onboard_time": 1664958922,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155307,
       "num": 155307,
       "word": "花得莫名其妙的一笔钱",
@@ -5011,6 +5035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 145420,
+      "num": 145420,
+      "word": "2个动作缓解含胸驼背",
+      "onboard_time": 1664957120,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145307,
       "num": 145307,
       "word": "你家乡的小巷子美食是啥",
@@ -5057,6 +5089,14 @@
       "onboard_time": 1664579899,
       "rank": 28,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 144053,
+      "num": 132689,
+      "word": "两个人的小森林明日加更",
+      "onboard_time": 1664955141,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 144007,
@@ -5321,14 +5361,6 @@
       "onboard_time": 1664932282,
       "rank": 25,
       "category": "财经,科技"
-    },
-    {
-      "raw_hot": 132689,
-      "num": 132689,
-      "word": "两个人的小森林明日加更",
-      "onboard_time": 1664955141,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 132134,
@@ -5769,14 +5801,6 @@
       "onboard_time": 1664539766,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 115031,
-      "num": 115031,
-      "word": "2个动作缓解含胸驼背",
-      "onboard_time": 1664957120,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 114450,
@@ -7427,6 +7451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31005,
+      "num": 235370,
+      "word": "大树倒伏山东大汉自发清理路障",
+      "onboard_time": 1664956881,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29867,
       "num": 29867,
       "word": "国庆假期郊区旅游约占36%",
@@ -7457,14 +7489,6 @@
       "onboard_time": 1664819775,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 25638,
-      "num": 224685,
-      "word": "大树倒伏山东大汉自发清理路障",
-      "onboard_time": 1664956881,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23728,
