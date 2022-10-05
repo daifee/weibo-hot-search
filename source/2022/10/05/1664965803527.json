@@ -1,0 +1,410 @@
+{
+  "runTime": 1664965803527,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5104220,
+        "num": 5104220,
+        "word": "金政基去世",
+        "onboard_time": 1664962102,
+        "rank": 0,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 1609098,
+        "num": 1609098,
+        "word": "欧洲暴发史上最大规模禽流感",
+        "onboard_time": 1664961323,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9525,
+        "num": 1314269,
+        "word": "多机位打开国庆节氛围感",
+        "onboard_time": 1664800944,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1027515,
+        "num": 1027515,
+        "word": "一只羊能有多狗",
+        "onboard_time": 1664957841,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 807162,
+        "num": 807162,
+        "word": "2022年诺贝尔化学奖揭晓",
+        "onboard_time": 1664964324,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 576021,
+        "num": 576021,
+        "word": "西安警方发布大客车司机违规甩客警情通报",
+        "onboard_time": 1664961802,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523922,
+        "num": 523922,
+        "word": "女孩陪外公下象棋用手机开外挂",
+        "onboard_time": 1664958922,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496992,
+        "num": 496992,
+        "word": "河南加入下雪群聊",
+        "onboard_time": 1664964145,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474680,
+        "num": 474680,
+        "word": "外婆为送外孙女出嫁在路边种满花",
+        "onboard_time": 1664960362,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473869,
+        "num": 473869,
+        "word": "10种易长胖的伪健康食品",
+        "onboard_time": 1664952800,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421351,
+        "num": 421351,
+        "word": "aespaSavage发行一周年",
+        "onboard_time": 1664962883,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 307791,
+        "num": 307791,
+        "word": "张雨绮和古早偶像剧的适配度",
+        "onboard_time": 1664964803,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 300514,
+        "num": 300514,
+        "word": "王俊凯万里归途票房破8亿海报",
+        "onboard_time": 1664959280,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237038,
+        "num": 237038,
+        "word": "22岁兵哥连救5人获提干",
+        "onboard_time": 1664963365,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227970,
+        "num": 227970,
+        "word": "赵露思胡同战报",
+        "onboard_time": 1664958263,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223026,
+        "num": 223026,
+        "word": "中国万吨级医院船诊疗超23万人次",
+        "onboard_time": 1664960842,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222337,
+        "num": 222337,
+        "word": "海天味业再发声明否认双标",
+        "onboard_time": 1664944463,
+        "rank": 16,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 203711,
+        "num": 203711,
+        "word": "没有科技与狠活的芝士肥牛卷",
+        "onboard_time": 1664959222,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 198071,
+        "num": 198071,
+        "word": "陈哲远躺在沈月腿上花絮照",
+        "onboard_time": 1664958263,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196010,
+        "num": 196010,
+        "word": "咖啡不属于高热量饮品",
+        "onboard_time": 1664951122,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316336,
+        "num": 194788,
+        "word": "英语让一家人变得生疏",
+        "onboard_time": 1664964445,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187958,
+        "num": 187958,
+        "word": "南京新增18例本土确诊",
+        "onboard_time": 1664943862,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170235,
+        "num": 170235,
+        "word": "谁不想亲手钓一只大熊猫呢",
+        "onboard_time": 1664962702,
+        "rank": 22,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 153951,
+        "num": 153951,
+        "word": "李一桐金瀚新剧开播4天已循环4次",
+        "onboard_time": 1664964504,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148838,
+        "num": 148838,
+        "word": "这才是顶级甄学家",
+        "onboard_time": 1664957602,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139765,
+        "num": 139765,
+        "word": "曹承衍签约EDAM娱乐公司",
+        "onboard_time": 1664953821,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135514,
+        "num": 135514,
+        "word": "神舟十五号飞船将从这里发射",
+        "onboard_time": 1664960482,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130973,
+        "num": 130973,
+        "word": "薛八一仙剑六撑伞路透",
+        "onboard_time": 1664955199,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120729,
+        "num": 120729,
+        "word": "1岁半警犬凌晨搜寻救回2岁男孩",
+        "onboard_time": 1664952981,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112503,
+        "num": 112503,
+        "word": "被高铁上惊鸿一瞥的美景惊艳到了",
+        "onboard_time": 1664942181,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 118088,
+        "num": 110887,
+        "word": "国产悬疑剧终于上新了",
+        "onboard_time": 1664942424,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113563,
+        "num": 108278,
+        "word": "王一博这就是街舞5运动时刻",
+        "onboard_time": 1664956641,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105054,
+        "num": 105054,
+        "word": "从狗子的眼神中看到了后悔",
+        "onboard_time": 1664956038,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100650,
+        "num": 100650,
+        "word": "赵丽颖龚俊VogueFilm跨时空对话",
+        "onboard_time": 1664949501,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 98119,
+        "num": 98119,
+        "word": "93岁考古学家感慨二三十岁太宝贵了",
+        "onboard_time": 1664953041,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98111,
+        "num": 98111,
+        "word": "虞书欣花老板娘造型花絮照",
+        "onboard_time": 1664952680,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 97631,
+        "num": 97631,
+        "word": "岳父含泪叮嘱新郎不能欺负女儿",
+        "onboard_time": 1664965283,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90358,
+        "num": 90358,
+        "word": "情侣看日出站海浪里拥吻险被冲倒",
+        "onboard_time": 1664952560,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81871,
+        "num": 81871,
+        "word": "我军飞行员距离100米驱离外军机",
+        "onboard_time": 1664950041,
+        "rank": 38,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 78545,
+        "num": 78545,
+        "word": "U17国足9比0柬埔寨",
+        "onboard_time": 1664952920,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77818,
+        "num": 77818,
+        "word": "游客无视劝告拍照给小熊猫喂食",
+        "onboard_time": 1664948302,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74824,
+        "num": 74824,
+        "word": "两个人的小森林明日加更",
+        "onboard_time": 1664955141,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 73557,
+        "num": 73557,
+        "word": "谷爱凌看秀生图",
+        "onboard_time": 1664950581,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72390,
+        "num": 72390,
+        "word": "2个动作缓解含胸驼背",
+        "onboard_time": 1664957120,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 62465,
+        "num": 62465,
+        "word": "农民父母供养3女1儿全部读大学",
+        "onboard_time": 1664940263,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61831,
+        "num": 61831,
+        "word": "俄外交部称俄完全遵守不可发生核战争声明",
+        "onboard_time": 1664941522,
+        "rank": 45,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 61463,
+        "num": 61463,
+        "word": "王鹤棣密逃4白色衬衫高清剧照",
+        "onboard_time": 1664941161,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 60690,
+        "num": 60690,
+        "word": "请上天赐一个隔音好的厕所吧",
+        "onboard_time": 1664942962,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 60248,
+        "num": 60248,
+        "word": "消费930.9被收931事件双方发声",
+        "onboard_time": 1664925737,
+        "rank": 48,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 60006,
+        "num": 60006,
+        "word": "中国人是有点种菜天赋在身上",
+        "onboard_time": 1664951242,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光#"
+    }
+  }
+}
