@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/03 00:34:12 ~ 2022/10/06 02:59:59
+本榜单时间：2022/10/03 00:34:12 ~ 2022/10/06 03:31:50
 </p>
 </blockquote>
 <p>
@@ -3741,6 +3741,12 @@ RNG对战SGB（热度：45627）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%80%BA%E6%80%BB%E9%A2%9D%E9%A6%96%E6%AC%A1%E7%AA%81%E7%A0%B431%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%23" target="weibo">
+美国国债总额首次突破31万亿美元（热度：43238）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E5%85%B0%E5%BE%B73%E5%88%86%E9%92%9F2%E7%90%83%23" target="weibo">
 哈兰德3分钟2球（热度：40314）
 </a>
@@ -3832,19 +3838,19 @@ EG对战MAD（热度：32401）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9C%A8%E7%88%B1%E5%BF%83%E5%8F%96%E6%B0%B4%E6%9C%BA%E5%89%8D%E8%BF%9B%E8%B4%A7%E5%BC%8F%E5%8F%96%E6%B0%B4%23" target="weibo">
-男子在爱心取水机前进货式取水（热度：16131）
+男子在爱心取水机前进货式取水（热度：17173）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%80%97%E6%97%B64%E5%A4%A9%E5%81%9A%E7%94%84%E5%AC%9B%E4%BC%A0%E7%AB%8B%E4%BD%93%E6%89%8B%E8%B4%A6%23" target="weibo">
-女子耗时4天做甄嬛传立体手账（热度：12102）
+女子耗时4天做甄嬛传立体手账（热度：12515）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%80%BA%E6%80%BB%E9%A2%9D%E9%A6%96%E6%AC%A1%E7%AA%81%E7%A0%B431%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%23" target="weibo">
-美国国债总额首次突破31万亿美元（热度：11413）
+<a href="https://s.weibo.com/weibo?q=%23%E8%BD%AE%E8%83%8E%E9%AB%98%E9%80%9F%E8%84%B1%E8%90%BD%E6%BB%9A%E4%BA%862%E5%85%AC%E9%87%8C%E5%8F%B8%E6%9C%BA%E6%B2%A1%E8%BF%BD%E4%B8%8A%23" target="weibo">
+轮胎高速脱落滚了2公里司机没追上（热度：11322）
 </a>
 </li>
 
@@ -3869,12 +3875,6 @@ ISG战胜IW（热度：11127）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%BE%B7%E8%8E%B1%E5%BE%B736%E4%BA%BAvs%E5%A4%AA%E9%98%B3%23" target="weibo">
 阿德莱德36人vs太阳（热度：10821）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BD%AE%E8%83%8E%E9%AB%98%E9%80%9F%E8%84%B1%E8%90%BD%E6%BB%9A%E4%BA%862%E5%85%AC%E9%87%8C%E5%8F%B8%E6%9C%BA%E6%B2%A1%E8%BF%BD%E4%B8%8A%23" target="weibo">
-轮胎高速脱落滚了2公里司机没追上（热度：10129）
 </a>
 </li>
 
