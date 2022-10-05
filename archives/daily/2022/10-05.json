@@ -1,7 +1,15 @@
 {
   "startTime": 1664901610003,
-  "endTime": 1664927213092,
+  "endTime": 1664936335852,
   "band_list": [
+    {
+      "raw_hot": 1953583,
+      "num": 1953583,
+      "word": "我的童年报复性补偿行为",
+      "onboard_time": 1664892563,
+      "rank": 3,
+      "category": "情感,幽默"
+    },
     {
       "raw_hot": 1197131,
       "num": 1197131,
@@ -27,20 +35,20 @@
       "category": "幽默,美食"
     },
     {
-      "raw_hot": 739091,
-      "num": 193685,
+      "raw_hot": 975768,
+      "num": 285349,
       "word": "消费930.9被收931事件双方发声",
       "onboard_time": 1664925737,
       "rank": 12,
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 708247,
-      "num": 708247,
-      "word": "我的童年报复性补偿行为",
-      "onboard_time": 1664892563,
-      "rank": 3,
-      "category": "情感,幽默"
+      "raw_hot": 824080,
+      "num": 824080,
+      "word": "螃蟹也没想到她还有把刷子",
+      "onboard_time": 1664929820,
+      "rank": 1,
+      "category": "幽默"
     },
     {
       "raw_hot": 590064,
@@ -48,6 +56,14 @@
       "word": "37岁白发缉毒警被误认成孩子爷爷",
       "onboard_time": 1664885903,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 564761,
+      "num": 564761,
+      "word": "南方降温让预报图冷到发紫",
+      "onboard_time": 1664891364,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -67,12 +83,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 455554,
+      "num": 455554,
+      "word": "RNG晋级小组赛",
+      "onboard_time": 1664930482,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 423046,
       "num": 423046,
       "word": "RNG对战DFM",
       "onboard_time": 1664925376,
       "rank": 3,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 418774,
+      "num": 418774,
+      "word": "马斯克计划按原价收购推特",
+      "onboard_time": 1664932222,
+      "rank": 7,
+      "category": "科技,财经"
+    },
+    {
+      "raw_hot": 411553,
+      "num": 281276,
+      "word": "北京最新进返京提醒",
+      "onboard_time": 1664934440,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 386098,
@@ -83,11 +123,19 @@
       "category": "科技"
     },
     {
-      "raw_hot": 354044,
-      "num": 354044,
-      "word": "南方降温让预报图冷到发紫",
-      "onboard_time": 1664891364,
-      "rank": 29,
+      "raw_hot": 272359,
+      "num": 272359,
+      "word": "边牧这辈子没这么无语过",
+      "onboard_time": 1664931321,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 271943,
+      "num": 271943,
+      "word": "北京新增3例本土确诊1例无症状",
+      "onboard_time": 1664932102,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -107,6 +155,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 242677,
+      "num": 242677,
+      "word": "RNG进入D组",
+      "onboard_time": 1664935041,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 242103,
+      "num": 242103,
+      "word": "没想到猫还被鱼给咬了",
+      "onboard_time": 1664929820,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 236196,
       "num": 236196,
       "word": "电视剧底线",
@@ -115,20 +179,36 @@
       "category": "影视"
     },
     {
-      "raw_hot": 227382,
-      "num": 227382,
+      "raw_hot": 233989,
+      "num": 233989,
       "word": "会计被骗86万警方8分钟追回",
       "onboard_time": 1664907194,
       "rank": 11,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 216985,
-      "num": 216985,
+      "raw_hot": 232019,
+      "num": 232019,
+      "word": "守望先锋归来上线",
+      "onboard_time": 1664936123,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 217010,
+      "num": 217010,
       "word": "你是隐形社恐吗",
       "onboard_time": 1664895326,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 213693,
+      "num": 213693,
+      "word": "军人洗碗后将抹布叠得像板砖",
+      "onboard_time": 1664913671,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193828,
@@ -179,6 +259,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 166734,
+      "num": 166734,
+      "word": "多地已加入下雪群聊",
+      "onboard_time": 1664929700,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165023,
       "num": 165023,
       "word": "张国伟点赞网剧炽道",
@@ -195,12 +283,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 157959,
-      "num": 157959,
-      "word": "军人洗碗后将抹布叠得像板砖",
-      "onboard_time": 1664913671,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 157306,
+      "num": 157306,
+      "word": "考研报名正式开始",
+      "onboard_time": 1664931380,
+      "rank": 22,
+      "category": "教育"
     },
     {
       "raw_hot": 151365,
@@ -251,12 +339,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 133444,
+      "num": 133444,
+      "word": "推特股价飙升后停牌",
+      "onboard_time": 1664932282,
+      "rank": 25,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 132536,
       "num": 132536,
       "word": "周博文爸妈被迫官宣二胎",
       "onboard_time": 1664890704,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 123922,
+      "num": 123922,
+      "word": "RNG战胜DFM",
+      "onboard_time": 1664930420,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 121125,
@@ -299,6 +403,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 99334,
+      "num": 99334,
+      "word": "京哈高速香河服务区两名工作人员初筛阳性",
+      "onboard_time": 1664928319,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98185,
       "num": 98185,
       "word": "因为我当年喜欢EXO",
@@ -323,6 +435,30 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 91672,
+      "num": 91672,
+      "word": "RNG BP",
+      "onboard_time": 1664930302,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 89770,
+      "num": 89770,
+      "word": "健身男子徒手捏石榴为女友榨果汁",
+      "onboard_time": 1664917689,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88990,
+      "num": 88990,
+      "word": "宋雨琦校庆视频",
+      "onboard_time": 1664925977,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 87710,
       "num": 87710,
       "word": "第一次见打针这么乖的小狗",
@@ -339,14 +475,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 83335,
-      "num": 83335,
-      "word": "健身男子徒手捏石榴为女友榨果汁",
-      "onboard_time": 1664917689,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 81324,
       "num": 81324,
       "word": "鸡毛飞上天",
@@ -360,6 +488,14 @@
       "word": "北京大兴1例确诊病例轨迹",
       "onboard_time": 1664918651,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 79195,
+      "num": 79195,
+      "word": "女童落水同伴狂奔大喊求救",
+      "onboard_time": 1664935882,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -403,6 +539,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68639,
+      "num": 68639,
+      "word": "机械狗能取代宠物狗吗",
+      "onboard_time": 1664936182,
+      "rank": 45,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 65908,
+      "num": 65908,
+      "word": "嘴强王者朱铭骏陷入重度昏迷",
+      "onboard_time": 1664928979,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65518,
       "num": 65518,
       "word": "陈哲远演的萧无敌是戏精吧",
@@ -425,6 +577,14 @@
       "onboard_time": 1664891664,
       "rank": 42,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 60266,
+      "num": 60266,
+      "word": "国米1比0巴萨",
+      "onboard_time": 1664927359,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 58878,
@@ -507,14 +667,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 34110,
-      "num": 34110,
-      "word": "宋雨琦校庆视频",
-      "onboard_time": 1664925977,
-      "rank": 47,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 32401,
       "num": 32401,
       "word": "EG对战MAD",
@@ -547,6 +699,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 8815,
+      "num": 702482,
+      "word": "多机位打开国庆节氛围感",
+      "onboard_time": 1664800944,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 7406,
       "num": 8608,
       "word": "90后大厂女孩辞职创业为老人助浴",
@@ -561,14 +721,6 @@
       "onboard_time": 1664922615,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 7178,
-      "num": 702482,
-      "word": "多机位打开国庆节氛围感",
-      "onboard_time": 1664800944,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 6481,
