@@ -1,6 +1,6 @@
 {
   "startTime": 1664901610003,
-  "endTime": 1664970031749,
+  "endTime": 1664974575894,
   "band_list": [
     {
       "raw_hot": 5104220,
@@ -73,6 +73,14 @@
       "onboard_time": 1664952800,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1295399,
+      "num": 1295399,
+      "word": "量子纠缠",
+      "onboard_time": 1664972303,
+      "rank": 1,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 1197131,
@@ -259,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 518069,
+      "num": 518069,
+      "word": "金晨的演技",
+      "onboard_time": 1664971884,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 507856,
       "num": 310156,
       "word": "曹承衍签约EDAM娱乐公司",
@@ -291,11 +307,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 477667,
+      "num": 477667,
+      "word": "SuperM最新练习室",
+      "onboard_time": 1664973205,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 474680,
       "num": 474680,
       "word": "外婆为送外孙女出嫁在路边种满花",
       "onboard_time": 1664960362,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 456735,
+      "num": 209195,
+      "word": "新疆新增本土无症状感染者91例",
+      "onboard_time": 1664968943,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -305,6 +337,14 @@
       "onboard_time": 1664930482,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 448051,
+      "num": 448051,
+      "word": "水爷称自己上了乌克兰的死亡名单",
+      "onboard_time": 1664966604,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 439364,
@@ -371,12 +411,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 392250,
-      "num": 339660,
-      "word": "水爷称自己上了乌克兰的死亡名单",
-      "onboard_time": 1664966604,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 407461,
+      "num": 331523,
+      "word": "诺贝尔奖奖金为什么越发越多",
+      "onboard_time": 1664971762,
+      "rank": 11,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 391454,
@@ -443,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 339301,
+      "num": 339301,
+      "word": "昆仑神宫",
+      "onboard_time": 1664973923,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 339161,
       "num": 339161,
       "word": "中国调味品协会支持企业依法维权",
@@ -457,6 +505,14 @@
       "onboard_time": 1664950581,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 324280,
+      "num": 324280,
+      "word": "93岁专家谢绝鉴宝不愿挣这个钱",
+      "onboard_time": 1664968344,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 312693,
@@ -569,6 +625,22 @@
       "onboard_time": 1664965283,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261954,
+      "num": 261954,
+      "word": "男子钓鱼救下被裹塑料袋扔河的猫",
+      "onboard_time": 1664970264,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261414,
+      "num": 261414,
+      "word": "任嘉伦请君24个字求婚李沁好苏",
+      "onboard_time": 1664970082,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 259224,
@@ -747,14 +819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 209195,
-      "num": 209195,
-      "word": "新疆新增本土无症状感染者91例",
-      "onboard_time": 1664968943,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 195686,
       "num": 195686,
       "word": "从狗子的眼神中看到了后悔",
@@ -776,6 +840,14 @@
       "word": "双向奔赴才能让爱有意义",
       "onboard_time": 1664885423,
       "rank": 14,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 192397,
+      "num": 192397,
+      "word": "异地恋如何给对象过生日",
+      "onboard_time": 1664973083,
+      "rank": 19,
       "category": "情感"
     },
     {
@@ -819,6 +891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185017,
+      "num": 185017,
+      "word": "孙颖莎3比0哈特布里奇",
+      "onboard_time": 1664972065,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178498,
       "num": 178498,
       "word": "菊次郎这夏天过得挺坎坷啊",
@@ -835,12 +915,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 175547,
-      "num": 175547,
-      "word": "93岁专家谢绝鉴宝不愿挣这个钱",
-      "onboard_time": 1664968344,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 175284,
+      "num": 175284,
+      "word": "这瘦背训练真能处",
+      "onboard_time": 1664972303,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 172209,
@@ -873,6 +953,14 @@
       "onboard_time": 1664936182,
       "rank": 45,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 167680,
+      "num": 167680,
+      "word": "38岁新娘回应14岁儿子抱自己出嫁",
+      "onboard_time": 1664974044,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166734,
@@ -945,6 +1033,14 @@
       "onboard_time": 1664950881,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153010,
+      "num": 153010,
+      "word": "这猫上辈子怕是个超模吧",
+      "onboard_time": 1664973383,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 152117,
@@ -1025,6 +1121,14 @@
       "onboard_time": 1664966304,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 136392,
+      "num": 136392,
+      "word": "地下1200米的超级充电宝长啥样",
+      "onboard_time": 1664972905,
+      "rank": 29,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 135236,
@@ -1121,6 +1225,30 @@
       "onboard_time": 1664891004,
       "rank": 26,
       "category": "幽默,综艺"
+    },
+    {
+      "raw_hot": 108893,
+      "num": 108893,
+      "word": "一眼心动的古风白月光",
+      "onboard_time": 1664972244,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 101867,
+      "num": 101867,
+      "word": "昆仑神宫大结局点映礼",
+      "onboard_time": 1664974105,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 101792,
+      "num": 101792,
+      "word": "梁朝伟釜山电影节亚洲电影人奖",
+      "onboard_time": 1664971524,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 99808,
@@ -1227,6 +1355,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 87640,
+      "num": 87640,
+      "word": "你有多年后才明白的道理吗",
+      "onboard_time": 1664973865,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 87508,
       "num": 87508,
       "word": "从游客变成景点",
@@ -1273,6 +1409,22 @@
       "onboard_time": 1664890524,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 74490,
+      "num": 74490,
+      "word": "警犬凌晨搜救回野外走失2岁男童",
+      "onboard_time": 1664974345,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73786,
+      "num": 73786,
+      "word": "北京朝阳新增感染者涉及风险点位通报",
+      "onboard_time": 1664974405,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73018,
@@ -1329,6 +1481,14 @@
       "onboard_time": 1664928979,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 65538,
+      "num": 65538,
+      "word": "陈梦3比0马达拉茨",
+      "onboard_time": 1664973504,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 65518,
