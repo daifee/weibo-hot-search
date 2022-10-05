@@ -1,0 +1,410 @@
+{
+  "runTime": 1664984676469,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1140814,
+        "num": 1140814,
+        "word": "量子纠缠",
+        "onboard_time": 1664972303,
+        "rank": 0,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 660732,
+        "num": 660732,
+        "word": "一只羊能有多狗",
+        "onboard_time": 1664957841,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 2522,
+        "num": 647762,
+        "word": "多机位打开国庆节氛围感",
+        "onboard_time": 1664800944,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 900120,
+        "num": 647338,
+        "word": "庞博十八岁的自己",
+        "onboard_time": 1664974765,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 645089,
+        "num": 645089,
+        "word": "强烈的不舍是分别的预兆吗",
+        "onboard_time": 1664977825,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 461233,
+        "num": 461233,
+        "word": "昆仑神宫",
+        "onboard_time": 1664973923,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 459904,
+        "num": 459904,
+        "word": "猫咪凌晨电饭锅中熟睡搞懵主人",
+        "onboard_time": 1664980584,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 363591,
+        "num": 363591,
+        "word": "你有多年后才明白的道理吗",
+        "onboard_time": 1664973865,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 350656,
+        "num": 350656,
+        "word": "脱口秀大会",
+        "onboard_time": 1664978783,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287482,
+        "num": 287482,
+        "word": "俄气称将恢复对意大利供气",
+        "onboard_time": 1664976806,
+        "rank": 9,
+        "category": "国外要闻,财经"
+      },
+      {
+        "raw_hot": 1321572,
+        "num": 285740,
+        "word": "王嘉尔10个月18封",
+        "onboard_time": 1664981302,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 673717,
+        "num": 283704,
+        "word": "38岁新娘回应14岁儿子抱自己出嫁",
+        "onboard_time": 1664974044,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415814,
+        "num": 280675,
+        "word": "妻子怀孕丈夫患妊娠伴随综合征孕吐",
+        "onboard_time": 1664967444,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333158,
+        "num": 278070,
+        "word": "边伯贤Jopping素颜版vs舞台版",
+        "onboard_time": 1664980405,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 276869,
+        "num": 276869,
+        "word": "俄军正在赫尔松集结准备反击",
+        "onboard_time": 1664977704,
+        "rank": 14,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 266369,
+        "num": 266369,
+        "word": "山东断崖式降温小伙披被子骑车",
+        "onboard_time": 1664980223,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246868,
+        "num": 246868,
+        "word": "欧洲暴发史上最大规模禽流感",
+        "onboard_time": 1664961323,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215163,
+        "num": 215163,
+        "word": "庄羽一集喊了虞美人10次老婆",
+        "onboard_time": 1664975723,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194700,
+        "num": 194700,
+        "word": "英语让一家人变得生疏",
+        "onboard_time": 1664964445,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194538,
+        "num": 194538,
+        "word": "金政基曾作画为中国加油",
+        "onboard_time": 1664983044,
+        "rank": 19,
+        "category": "动漫,社会新闻"
+      },
+      {
+        "raw_hot": 196436,
+        "num": 194501,
+        "word": "金晨的演技",
+        "onboard_time": 1664971884,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192064,
+        "num": 192064,
+        "word": "任嘉伦请君大婚剧照",
+        "onboard_time": 1664982145,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164511,
+        "num": 164511,
+        "word": "昆仑神宫 九层妖楼",
+        "onboard_time": 1664983582,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159088,
+        "num": 159088,
+        "word": "守望先锋",
+        "onboard_time": 1664978245,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158417,
+        "num": 158417,
+        "word": "诺贝尔奖奖金为什么越发越多",
+        "onboard_time": 1664971762,
+        "rank": 24,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 137451,
+        "num": 137451,
+        "word": "93岁专家谢绝鉴宝不愿挣这个钱",
+        "onboard_time": 1664968344,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133429,
+        "num": 133429,
+        "word": "中国香港女团晋级八强",
+        "onboard_time": 1664979683,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133383,
+        "num": 133383,
+        "word": "西班牙葡萄牙乌克兰联合申办2030世界杯",
+        "onboard_time": 1664975545,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128950,
+        "num": 128950,
+        "word": "异地恋如何给对象过生日",
+        "onboard_time": 1664973083,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122361,
+        "num": 122361,
+        "word": "北京朝阳新增感染者涉及风险点位通报",
+        "onboard_time": 1664974405,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261811,
+        "num": 121109,
+        "word": "金政基去世",
+        "onboard_time": 1664962102,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 118322,
+        "num": 118322,
+        "word": "SuperM最新练习室",
+        "onboard_time": 1664973205,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 97356,
+        "num": 97356,
+        "word": "董璇带小酒窝教安妮娜做鸡翅",
+        "onboard_time": 1664979204,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 96170,
+        "num": 96170,
+        "word": "这猫上辈子怕是个超模吧",
+        "onboard_time": 1664973383,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95064,
+        "num": 95064,
+        "word": "地下1200米的超级充电宝长啥样",
+        "onboard_time": 1664972905,
+        "rank": 34,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 94160,
+        "num": 94160,
+        "word": "水爷称自己上了乌克兰的死亡名单",
+        "onboard_time": 1664966604,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86925,
+        "num": 86925,
+        "word": "余景天新舞台预告",
+        "onboard_time": 1664975363,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86585,
+        "num": 86585,
+        "word": "男子钓鱼救下被裹塑料袋扔河的猫",
+        "onboard_time": 1664970264,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86427,
+        "num": 86427,
+        "word": "这瘦背训练真能处",
+        "onboard_time": 1664972303,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80243,
+        "num": 80243,
+        "word": "河南加入下雪群聊",
+        "onboard_time": 1664964145,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79877,
+        "num": 79877,
+        "word": "岳父含泪叮嘱新郎不能欺负女儿",
+        "onboard_time": 1664965283,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77889,
+        "num": 77889,
+        "word": "陪主人晒太阳的猫咪",
+        "onboard_time": 1664983944,
+        "rank": 41,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 77231,
+        "num": 77231,
+        "word": "脱口秀看嗨了会流泪",
+        "onboard_time": 1664977525,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73725,
+        "num": 73725,
+        "word": "这就是属于秋天的浪漫吧",
+        "onboard_time": 1664977102,
+        "rank": 43,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 66967,
+        "num": 66967,
+        "word": "广东降温是有的但不多",
+        "onboard_time": 1664967024,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64886,
+        "num": 64886,
+        "word": "郑州小村庄变身航空大都市",
+        "onboard_time": 1664974765,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60103,
+        "num": 60103,
+        "word": "10种易长胖的伪健康食品",
+        "onboard_time": 1664952800,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59939,
+        "num": 59939,
+        "word": "一眼心动的古风白月光",
+        "onboard_time": 1664972244,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 59920,
+        "num": 59920,
+        "word": "警犬凌晨搜救回野外走失2岁男童",
+        "onboard_time": 1664974345,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54287,
+        "num": 54287,
+        "word": "昆仑神宫大结局点映礼",
+        "onboard_time": 1664974105,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#谁不说俺家乡好#"
+    }
+  }
+}
