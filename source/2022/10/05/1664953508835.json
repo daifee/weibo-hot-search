@@ -1,0 +1,410 @@
+{
+  "runTime": 1664953508835,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1368764,
+        "num": 1368764,
+        "word": "海天味业再发声明否认双标",
+        "onboard_time": 1664944463,
+        "rank": 0,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 571432,
+        "num": 571432,
+        "word": "挪威海底电缆断裂",
+        "onboard_time": 1664939902,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7597,
+        "num": 519732,
+        "word": "多机位打开国庆节氛围感",
+        "onboard_time": 1664800944,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 671894,
+        "num": 501829,
+        "word": "吴京说王俊凯跟他年轻时候差不多",
+        "onboard_time": 1664948841,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 665244,
+        "num": 498507,
+        "word": "赵丽颖龚俊VogueFilm跨时空对话",
+        "onboard_time": 1664949501,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 479076,
+        "num": 479076,
+        "word": "咖啡不属于高热量饮品",
+        "onboard_time": 1664951122,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463139,
+        "num": 463139,
+        "word": "南京新增18例本土确诊",
+        "onboard_time": 1664943862,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459850,
+        "num": 459850,
+        "word": "国产悬疑剧终于上新了",
+        "onboard_time": 1664942424,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 425031,
+        "num": 425031,
+        "word": "被高铁上惊鸿一瞥的美景惊艳到了",
+        "onboard_time": 1664942181,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 354967,
+        "num": 354967,
+        "word": "我的童年报复性补偿行为",
+        "onboard_time": 1664892563,
+        "rank": 9,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 391454,
+        "num": 345984,
+        "word": "虞书欣花老板娘造型花絮照",
+        "onboard_time": 1664952680,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 367923,
+        "num": 333693,
+        "word": "我军飞行员距离100米驱离外军机",
+        "onboard_time": 1664950041,
+        "rank": 11,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 318142,
+        "num": 318142,
+        "word": "开水烫餐具无法消毒",
+        "onboard_time": 1664937500,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298754,
+        "num": 298754,
+        "word": "谷爱凌看秀生图",
+        "onboard_time": 1664950581,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 297658,
+        "num": 297658,
+        "word": "星船艺人将出演出差十五夜",
+        "onboard_time": 1664949443,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286755,
+        "num": 286755,
+        "word": "游客无视劝告拍照给小熊猫喂食",
+        "onboard_time": 1664948302,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268608,
+        "num": 268608,
+        "word": "范世錡晒无与伦比的美丽live图",
+        "onboard_time": 1664946803,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221829,
+        "num": 221829,
+        "word": "请上天赐一个隔音好的厕所吧",
+        "onboard_time": 1664942962,
+        "rank": 17,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 217745,
+        "num": 217745,
+        "word": "游客车辆遭白虎追咬留下牙印",
+        "onboard_time": 1664940382,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214853,
+        "num": 214853,
+        "word": "中国调味品协会支持企业依法维权",
+        "onboard_time": 1664946382,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260502,
+        "num": 213983,
+        "word": "甜且燃的剧",
+        "onboard_time": 1664949620,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212533,
+        "num": 212533,
+        "word": "农民父母供养3女1儿全部读大学",
+        "onboard_time": 1664940263,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204009,
+        "num": 204009,
+        "word": "消费930.9被收931事件双方发声",
+        "onboard_time": 1664925737,
+        "rank": 22,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 189926,
+        "num": 189926,
+        "word": "韩国一枚导弹发射异常坠落",
+        "onboard_time": 1664940501,
+        "rank": 23,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 182035,
+        "num": 182035,
+        "word": "中国人是有点种菜天赋在身上",
+        "onboard_time": 1664951242,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165697,
+        "num": 165697,
+        "word": "王鹤棣密逃4白色衬衫高清剧照",
+        "onboard_time": 1664941161,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165554,
+        "num": 165554,
+        "word": "俄外交部称俄完全遵守不可发生核战争声明",
+        "onboard_time": 1664941522,
+        "rank": 26,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 155959,
+        "num": 155959,
+        "word": "张桂梅说学生走得比我好就足够了",
+        "onboard_time": 1664946323,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146284,
+        "num": 146284,
+        "word": "升旗手拿10斤哑铃每天练展旗超300次",
+        "onboard_time": 1664950881,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145208,
+        "num": 145208,
+        "word": "10种易长胖的伪健康食品",
+        "onboard_time": 1664952800,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123183,
+        "num": 123183,
+        "word": "新丽正午耀客柠萌待播剧汇总",
+        "onboard_time": 1664945363,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118250,
+        "num": 118250,
+        "word": "东北人逛云南菜市场刷新买菜认知",
+        "onboard_time": 1664944762,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111962,
+        "num": 111962,
+        "word": "欧阳娜娜小白式嗑错cp",
+        "onboard_time": 1664950581,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111872,
+        "num": 111872,
+        "word": "芋圆cp相处细节感",
+        "onboard_time": 1664952501,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101673,
+        "num": 101673,
+        "word": "萌娃精心打扮当花童被遗忘委屈抹泪",
+        "onboard_time": 1664943382,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104457,
+        "num": 101406,
+        "word": "心动的信号第二次约会",
+        "onboard_time": 1664944161,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100010,
+        "num": 100010,
+        "word": "RNG进入D组",
+        "onboard_time": 1664935041,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 97041,
+        "num": 97041,
+        "word": "情侣看日出站海浪里拥吻险被冲倒",
+        "onboard_time": 1664952560,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87741,
+        "num": 87741,
+        "word": "在小猫眼中看到了羡慕",
+        "onboard_time": 1664940802,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87305,
+        "num": 87305,
+        "word": "一旦买了洞洞鞋",
+        "onboard_time": 1664892804,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85766,
+        "num": 85766,
+        "word": "U17国足9比0柬埔寨",
+        "onboard_time": 1664952920,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83654,
+        "num": 83654,
+        "word": "电影万里归途",
+        "onboard_time": 1664941102,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 81510,
+        "num": 81510,
+        "word": "1岁半警犬凌晨搜寻救回2岁男孩",
+        "onboard_time": 1664952981,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80824,
+        "num": 80824,
+        "word": "狗子知道错了但是下次还敢",
+        "onboard_time": 1664943922,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 73836,
+        "num": 73836,
+        "word": "老邢秀才16年后再同框",
+        "onboard_time": 1664949081,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 71691,
+        "num": 71691,
+        "word": "小蓝和他的朋友动画开播",
+        "onboard_time": 1664947940,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 71317,
+        "num": 71317,
+        "word": "10月4日新增本土确诊223例",
+        "onboard_time": 1664939781,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70443,
+        "num": 70443,
+        "word": "93岁考古学家感慨二三十岁太宝贵了",
+        "onboard_time": 1664953041,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67196,
+        "num": 67196,
+        "word": "罗云熙顾云峥工作影记",
+        "onboard_time": 1664949381,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 61634,
+        "num": 61634,
+        "word": "男子丢钱包后被索要归还费",
+        "onboard_time": 1664937981,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光#"
+    }
+  }
+}
