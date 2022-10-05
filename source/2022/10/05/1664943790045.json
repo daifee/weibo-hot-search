@@ -1,0 +1,410 @@
+{
+  "runTime": 1664943790045,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2040587,
+        "num": 2040587,
+        "word": "开水烫餐具无法消毒",
+        "onboard_time": 1664937500,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1552975,
+        "num": 1552975,
+        "word": "挪威海底电缆断裂",
+        "onboard_time": 1664939902,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7849,
+        "num": 1144574,
+        "word": "多机位打开国庆节氛围感",
+        "onboard_time": 1664800944,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1068046,
+        "num": 1068046,
+        "word": "我的童年报复性补偿行为",
+        "onboard_time": 1664892563,
+        "rank": 3,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 760705,
+        "num": 760705,
+        "word": "韩国一枚导弹发射异常坠落",
+        "onboard_time": 1664940501,
+        "rank": 4,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 708509,
+        "num": 708509,
+        "word": "王鹤棣密逃4白色衬衫高清剧照",
+        "onboard_time": 1664941161,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 564955,
+        "num": 564955,
+        "word": "农民父母供养3女1儿全部读大学",
+        "onboard_time": 1664940263,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521970,
+        "num": 521970,
+        "word": "游客车辆遭白虎追咬留下牙印",
+        "onboard_time": 1664940382,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520887,
+        "num": 520887,
+        "word": "国产悬疑剧终于上新了",
+        "onboard_time": 1664942424,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 443781,
+        "num": 443781,
+        "word": "这碗螺蛳粉一定要吃吗",
+        "onboard_time": 1664896346,
+        "rank": 9,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 614937,
+        "num": 410948,
+        "word": "消费930.9被收931事件双方发声",
+        "onboard_time": 1664925737,
+        "rank": 10,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 499325,
+        "num": 383838,
+        "word": "俄外交部称俄完全遵守不可发生核战争声明",
+        "onboard_time": 1664941522,
+        "rank": 11,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 348954,
+        "num": 348954,
+        "word": "10月4日新增本土确诊223例",
+        "onboard_time": 1664939781,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308052,
+        "num": 308052,
+        "word": "一旦买了洞洞鞋",
+        "onboard_time": 1664892804,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 268079,
+        "num": 268079,
+        "word": "螃蟹也没想到她还有把刷子",
+        "onboard_time": 1664929820,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 251072,
+        "num": 251072,
+        "word": "RNG进入D组",
+        "onboard_time": 1664935041,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 244618,
+        "num": 244618,
+        "word": "电影万里归途",
+        "onboard_time": 1664941102,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226538,
+        "num": 226538,
+        "word": "虞书欣给张彬彬喂饭甜中带笑",
+        "onboard_time": 1664942721,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205278,
+        "num": 205278,
+        "word": "被高铁上惊鸿一瞥的美景惊艳到了",
+        "onboard_time": 1664942181,
+        "rank": 18,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 193344,
+        "num": 193344,
+        "word": "10月4日新增本土无症状747例",
+        "onboard_time": 1664939840,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190150,
+        "num": 190150,
+        "word": "步惊云终于体会当爸爸有多快乐",
+        "onboard_time": 1664897424,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189787,
+        "num": 189787,
+        "word": "南方降温让预报图冷到发紫",
+        "onboard_time": 1664891364,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165360,
+        "num": 165360,
+        "word": "你是隐形社恐吗",
+        "onboard_time": 1664895326,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155224,
+        "num": 155224,
+        "word": "男子丢钱包后被索要归还费",
+        "onboard_time": 1664937981,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152117,
+        "num": 152117,
+        "word": "在小猫眼中看到了羡慕",
+        "onboard_time": 1664940802,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147293,
+        "num": 147293,
+        "word": "女童落水同伴狂奔大喊求救",
+        "onboard_time": 1664935882,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130066,
+        "num": 130066,
+        "word": "机械狗能取代宠物狗吗",
+        "onboard_time": 1664936182,
+        "rank": 26,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 126345,
+        "num": 126345,
+        "word": "会计被骗86万警方8分钟追回",
+        "onboard_time": 1664907194,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124678,
+        "num": 124678,
+        "word": "锡安复出",
+        "onboard_time": 1664938041,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119333,
+        "num": 119333,
+        "word": "请上天赐一个隔音好的厕所吧",
+        "onboard_time": 1664942962,
+        "rank": 29,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 118981,
+        "num": 118981,
+        "word": "万里归途歌词",
+        "onboard_time": 1664943081,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110385,
+        "num": 110385,
+        "word": "北京新增3例本土确诊1例无症状",
+        "onboard_time": 1664932102,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111178,
+        "num": 108795,
+        "word": "万里归途同名推广曲",
+        "onboard_time": 1664938221,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 100364,
+        "num": 100364,
+        "word": "守望先锋归来上线",
+        "onboard_time": 1664936123,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 97537,
+        "num": 97537,
+        "word": "马斯克计划按原价收购推特",
+        "onboard_time": 1664932222,
+        "rank": 34,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 97060,
+        "num": 97060,
+        "word": "欧盟批准强制苹果使用USB C接口",
+        "onboard_time": 1664893646,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 95674,
+        "num": 95674,
+        "word": "边牧这辈子没这么无语过",
+        "onboard_time": 1664931321,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86225,
+        "num": 86225,
+        "word": "某幻南京演出现场送粉丝板鸭",
+        "onboard_time": 1664900005,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 71823,
+        "num": 71823,
+        "word": "萌娃精心打扮当花童被遗忘委屈抹泪",
+        "onboard_time": 1664943382,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69195,
+        "num": 69195,
+        "word": "没想到猫还被鱼给咬了",
+        "onboard_time": 1664929820,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 68780,
+        "num": 68780,
+        "word": "军人洗碗后将抹布叠得像板砖",
+        "onboard_time": 1664913671,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67122,
+        "num": 67122,
+        "word": "考研报名正式开始",
+        "onboard_time": 1664931380,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 66791,
+        "num": 66791,
+        "word": "熊猫宝宝的背影有多治愈",
+        "onboard_time": 1664942062,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 65374,
+        "num": 65374,
+        "word": "哪一刻你意识到应该多读书",
+        "onboard_time": 1664890465,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 65364,
+        "num": 65364,
+        "word": "多地已加入下雪群聊",
+        "onboard_time": 1664929700,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61943,
+        "num": 61943,
+        "word": "RNG BP",
+        "onboard_time": 1664930302,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 58299,
+        "num": 58299,
+        "word": "爆笑课代表挑战赛",
+        "onboard_time": 1664942424,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 56737,
+        "num": 56737,
+        "word": "曾可妮壮鱼一秒捋出时间线",
+        "onboard_time": 1664938700,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 55568,
+        "num": 55568,
+        "word": "周博文爸妈被迫官宣二胎",
+        "onboard_time": 1664890704,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 52633,
+        "num": 52633,
+        "word": "RNG晋级小组赛",
+        "onboard_time": 1664930482,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光#"
+    }
+  }
+}

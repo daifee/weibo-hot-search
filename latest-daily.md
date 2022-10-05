@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/05 00:40:10 ~ 2022/10/05 12:02:58
+本榜单时间：2022/10/05 00:40:10 ~ 2022/10/05 12:23:10
 </p>
 </blockquote>
 <p>
@@ -28,7 +28,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8C%AA%E5%A8%81%E6%B5%B7%E5%BA%95%E7%94%B5%E7%BC%86%E6%96%AD%E8%A3%82%23" target="weibo">
-挪威海底电缆断裂（热度：1213427）
+挪威海底电缆断裂（热度：1552975）
 </a>
 </li>
 
@@ -63,20 +63,26 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%B8%80%E6%9E%9A%E5%AF%BC%E5%BC%B9%E5%8F%91%E5%B0%84%E5%BC%82%E5%B8%B8%E5%9D%A0%E8%90%BD%23" target="weibo">
+韩国一枚导弹发射异常坠落（热度：760705）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%AF%86%E9%80%834%E7%99%BD%E8%89%B2%E8%A1%AC%E8%A1%AB%E9%AB%98%E6%B8%85%E5%89%A7%E7%85%A7%23" target="weibo">
 王鹤棣密逃4白色衬衫高清剧照（热度：727276）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%B8%80%E6%9E%9A%E5%AF%BC%E5%BC%B9%E5%8F%91%E5%B0%84%E5%BC%82%E5%B8%B8%E5%9D%A0%E8%90%BD%23" target="weibo">
-韩国一枚导弹发射异常坠落（热度：662627）
+<a href="https://s.weibo.com/weibo?q=%2337%E5%B2%81%E7%99%BD%E5%8F%91%E7%BC%89%E6%AF%92%E8%AD%A6%E8%A2%AB%E8%AF%AF%E8%AE%A4%E6%88%90%E5%AD%A9%E5%AD%90%E7%88%B7%E7%88%B7%23" target="weibo">
+37岁白发缉毒警被误认成孩子爷爷（热度：590064）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2337%E5%B2%81%E7%99%BD%E5%8F%91%E7%BC%89%E6%AF%92%E8%AD%A6%E8%A2%AB%E8%AF%AF%E8%AE%A4%E6%88%90%E5%AD%A9%E5%AD%90%E7%88%B7%E7%88%B7%23" target="weibo">
-37岁白发缉毒警被误认成孩子爷爷（热度：590064）
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%9C%E6%B0%91%E7%88%B6%E6%AF%8D%E4%BE%9B%E5%85%BB3%E5%A5%B31%E5%84%BF%E5%85%A8%E9%83%A8%E8%AF%BB%E5%A4%A7%E5%AD%A6%23" target="weibo">
+农民父母供养3女1儿全部读大学（热度：564955）
 </a>
 </li>
 
@@ -89,6 +95,24 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%90%E5%B9%BB%E5%8D%97%E4%BA%AC%E6%BC%94%E5%87%BA%E7%8E%B0%E5%9C%BA%E9%80%81%E7%B2%89%E4%B8%9D%E6%9D%BF%E9%B8%AD%23" target="weibo">
 某幻南京演出现场送粉丝板鸭（热度：554798）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E8%BD%A6%E8%BE%86%E9%81%AD%E7%99%BD%E8%99%8E%E8%BF%BD%E5%92%AC%E7%95%99%E4%B8%8B%E7%89%99%E5%8D%B0%23" target="weibo">
+游客车辆遭白虎追咬留下牙印（热度：521970）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%A7%E6%82%AC%E7%96%91%E5%89%A7%E7%BB%88%E4%BA%8E%E4%B8%8A%E6%96%B0%E4%BA%86%23" target="weibo">
+国产悬疑剧终于上新了（热度：520887）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E5%A4%96%E4%BA%A4%E9%83%A8%E7%A7%B0%E4%BF%84%E5%AE%8C%E5%85%A8%E9%81%B5%E5%AE%88%E4%B8%8D%E5%8F%AF%E5%8F%91%E7%94%9F%E6%A0%B8%E6%88%98%E4%BA%89%E5%A3%B0%E6%98%8E%23" target="weibo">
+俄外交部称俄完全遵守不可发生核战争声明（热度：499325）
 </a>
 </li>
 
@@ -111,12 +135,6 @@ RNG晋级小组赛（热度：455554）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%9C%E6%B0%91%E7%88%B6%E6%AF%8D%E4%BE%9B%E5%85%BB3%E5%A5%B31%E5%84%BF%E5%85%A8%E9%83%A8%E8%AF%BB%E5%A4%A7%E5%AD%A6%23" target="weibo">
-农民父母供养3女1儿全部读大学（热度：454058）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23RNG%E5%AF%B9%E6%88%98DFM%23" target="weibo">
 RNG对战DFM（热度：423046）
 </a>
@@ -125,12 +143,6 @@ RNG对战DFM（热度：423046）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%AE%A1%E5%88%92%E6%8C%89%E5%8E%9F%E4%BB%B7%E6%94%B6%E8%B4%AD%E6%8E%A8%E7%89%B9%23" target="weibo">
 马斯克计划按原价收购推特（热度：418774）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E8%BD%A6%E8%BE%86%E9%81%AD%E7%99%BD%E8%99%8E%E8%BF%BD%E5%92%AC%E7%95%99%E4%B8%8B%E7%89%99%E5%8D%B0%23" target="weibo">
-游客车辆遭白虎追咬留下牙印（热度：386159）
 </a>
 </li>
 
@@ -149,12 +161,6 @@ RNG进入D组（热度：383845）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2310%E6%9C%884%E6%97%A5%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A223%E4%BE%8B%23" target="weibo">
 10月4日新增本土确诊223例（热度：354420）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E5%A4%96%E4%BA%A4%E9%83%A8%E7%A7%B0%E4%BF%84%E5%AE%8C%E5%85%A8%E9%81%B5%E5%AE%88%E4%B8%8D%E5%8F%AF%E5%8F%91%E7%94%9F%E6%A0%B8%E6%88%98%E4%BA%89%E5%A3%B0%E6%98%8E%23" target="weibo">
-俄外交部称俄完全遵守不可发生核战争声明（热度：289256）
 </a>
 </li>
 
@@ -225,6 +231,12 @@ RNG进入D组（热度：383845）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%BB%99%E5%BC%A0%E5%BD%AC%E5%BD%AC%E5%96%82%E9%A5%AD%E7%94%9C%E4%B8%AD%E5%B8%A6%E7%AC%91%23" target="weibo">
+虞书欣给张彬彬喂饭甜中带笑（热度：226538）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2310%E6%9C%884%E6%97%A5%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E6%97%A0%E7%97%87%E7%8A%B6747%E4%BE%8B%23" target="weibo">
 10月4日新增本土无症状747例（热度：219407）
 </a>
@@ -233,6 +245,12 @@ RNG进入D组（热度：383845）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%9B%E4%BA%BA%E6%B4%97%E7%A2%97%E5%90%8E%E5%B0%86%E6%8A%B9%E5%B8%83%E5%8F%A0%E5%BE%97%E5%83%8F%E6%9D%BF%E7%A0%96%23" target="weibo">
 军人洗碗后将抹布叠得像板砖（热度：213693）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%AB%98%E9%93%81%E4%B8%8A%E6%83%8A%E9%B8%BF%E4%B8%80%E7%9E%A5%E7%9A%84%E7%BE%8E%E6%99%AF%E6%83%8A%E8%89%B3%E5%88%B0%E4%BA%86%23" target="weibo">
+被高铁上惊鸿一瞥的美景惊艳到了（热度：205278）
 </a>
 </li>
 
@@ -321,6 +339,12 @@ RNG进入D组（热度：383845）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%B0%8F%E7%8C%AB%E7%9C%BC%E4%B8%AD%E7%9C%8B%E5%88%B0%E4%BA%86%E7%BE%A1%E6%85%95%23" target="weibo">
+在小猫眼中看到了羡慕（热度：152117）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E6%8B%92%E7%BB%9D%E8%B5%A1%E5%85%BB%E6%AF%8D%E4%BA%B2%E5%B0%86%E6%88%BF%E4%BA%A7%E8%B5%A0%E4%B8%8E%E6%89%B6%E5%85%BB%E4%BA%BA%23" target="weibo">
 儿子拒绝赡养母亲将房产赠与扶养人（热度：151365）
 </a>
@@ -375,18 +399,6 @@ RNG进入D组（热度：383845）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%B0%8F%E7%8C%AB%E7%9C%BC%E4%B8%AD%E7%9C%8B%E5%88%B0%E4%BA%86%E7%BE%A1%E6%85%95%23" target="weibo">
-在小猫眼中看到了羡慕（热度：130295）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%A7%E6%82%AC%E7%96%91%E5%89%A7%E7%BB%88%E4%BA%8E%E4%B8%8A%E6%96%B0%E4%BA%86%23" target="weibo">
-国产悬疑剧终于上新了（热度：126317）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23RNG%E6%88%98%E8%83%9CDFM%23" target="weibo">
 RNG战胜DFM（热度：123922）
 </a>
@@ -395,6 +407,18 @@ RNG战胜DFM（热度：123922）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%9C%9D%E9%98%B3%E6%96%B0%E5%A2%9E%E6%84%9F%E6%9F%93%E8%80%85%E6%B6%89%E5%8F%8A%E9%A3%8E%E9%99%A9%E7%82%B9%E4%BD%8D%23" target="weibo">
 北京朝阳新增感染者涉及风险点位（热度：121125）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AF%B7%E4%B8%8A%E5%A4%A9%E8%B5%90%E4%B8%80%E4%B8%AA%E9%9A%94%E9%9F%B3%E5%A5%BD%E7%9A%84%E5%8E%95%E6%89%80%E5%90%A7%23" target="weibo">
+请上天赐一个隔音好的厕所吧（热度：119333）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%87%E9%87%8C%E5%BD%92%E9%80%94%E6%AD%8C%E8%AF%8D%23" target="weibo">
+万里归途歌词（热度：118981）
 </a>
 </li>
 
@@ -513,12 +537,6 @@ RNG BP（热度：91672）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%AB%98%E9%93%81%E4%B8%8A%E6%83%8A%E9%B8%BF%E4%B8%80%E7%9E%A5%E7%9A%84%E7%BE%8E%E6%99%AF%E6%83%8A%E8%89%B3%E5%88%B0%E4%BA%86%23" target="weibo">
-被高铁上惊鸿一瞥的美景惊艳到了（热度：73331）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E7%AD%BE%E7%BD%B2%E4%B8%8D%E4%B8%8E%E6%99%AE%E4%BA%AC%E8%B0%88%E5%88%A4%E5%86%B3%E5%AE%9A%23" target="weibo">
 泽连斯基签署不与普京谈判决定（热度：73018）
 </a>
@@ -527,6 +545,12 @@ RNG BP（热度：91672）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E7%8B%97%E4%B9%9F%E6%9C%89%E5%BF%83%E7%B4%AF%E7%9A%84%E6%97%B6%E5%80%99%E5%90%A7%23" target="weibo">
 狗狗也有心累的时候吧（热度：72919）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%90%8C%E5%A8%83%E7%B2%BE%E5%BF%83%E6%89%93%E6%89%AE%E5%BD%93%E8%8A%B1%E7%AB%A5%E8%A2%AB%E9%81%97%E5%BF%98%E5%A7%94%E5%B1%88%E6%8A%B9%E6%B3%AA%23" target="weibo">
+萌娃精心打扮当花童被遗忘委屈抹泪（热度：71823）
 </a>
 </li>
 
