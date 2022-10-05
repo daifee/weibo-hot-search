@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1665005018406,
+  "endTime": 1665006124014,
   "band_list": [
     {
       "raw_hot": 5104220,
@@ -5123,6 +5123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25600,
+      "num": 25600,
+      "word": "3岁女儿手洗衣服称心疼妈妈",
+      "onboard_time": 1665002770,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25122,
       "num": 25122,
       "word": "20余名留守娃轮流摆拍喂猪完成作业",
@@ -5131,27 +5139,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17278,
-      "num": 17278,
-      "word": "轮胎高速脱落滚了2公里司机没追上",
-      "onboard_time": 1664995692,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16896,
-      "num": 16896,
+      "raw_hot": 22000,
+      "num": 22000,
       "word": "现在想起都尴尬",
       "onboard_time": 1665001930,
       "rank": 47,
       "category": "幽默"
     },
     {
-      "raw_hot": 13624,
-      "num": 13624,
-      "word": "3岁女儿手洗衣服称心疼妈妈",
-      "onboard_time": 1665002770,
-      "rank": 31,
+      "raw_hot": 17842,
+      "num": 17842,
+      "word": "轮胎高速脱落滚了2公里司机没追上",
+      "onboard_time": 1664995692,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -5161,6 +5161,14 @@
       "onboard_time": 1665000251,
       "rank": 44,
       "category": "科技"
+    },
+    {
+      "raw_hot": 12626,
+      "num": 12626,
+      "word": "如何看海天味业否认双标",
+      "onboard_time": 1665003550,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11295,
@@ -5211,6 +5219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 8465,
+      "num": 8465,
+      "word": "我国玩具出口额增超20%",
+      "onboard_time": 1665003790,
+      "rank": 44,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 7982,
       "num": 7982,
       "word": "永康白云水库附近发生山火",
@@ -5227,20 +5243,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 7667,
+      "num": 7667,
+      "word": "女生走路玩手机撞电线杆额头鼓包",
+      "onboard_time": 1665003851,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7485,
+      "num": 7485,
+      "word": "22项政务服务将跨省通办",
+      "onboard_time": 1665003012,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 7406,
       "num": 8608,
       "word": "90后大厂女孩辞职创业为老人助浴",
       "onboard_time": 1664912351,
       "rank": 49,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 7391,
-      "num": 7391,
-      "word": "我国玩具出口额增超20%",
-      "onboard_time": 1665003790,
-      "rank": 44,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 7315,
@@ -5251,36 +5275,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 7268,
-      "num": 7268,
-      "word": "女生走路玩手机撞电线杆额头鼓包",
-      "onboard_time": 1665003851,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 7087,
-      "num": 7087,
-      "word": "22项政务服务将跨省通办",
-      "onboard_time": 1665003012,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 7075,
       "num": 13598,
       "word": "F1新加坡大奖赛佩雷兹冠军",
       "onboard_time": 1664832070,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 6885,
-      "num": 7012,
-      "word": "如何看海天味业否认双标",
-      "onboard_time": 1665003550,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 6528,
