@@ -1,0 +1,410 @@
+{
+  "runTime": 1665002696821,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 92244,
+        "num": 92244,
+        "word": "量子纠缠",
+        "onboard_time": 1664972303,
+        "rank": 0,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 71935,
+        "num": 71935,
+        "word": "5岁女孩用儿童玩具钓上数条鱼",
+        "onboard_time": 1664986161,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29,
+        "num": 56792,
+        "word": "多机位打开国庆节氛围感",
+        "onboard_time": 1664800944,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51939,
+        "num": 51939,
+        "word": "庞博十八岁的自己",
+        "onboard_time": 1664974765,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48357,
+        "num": 48357,
+        "word": "强烈的不舍是分别的预兆吗",
+        "onboard_time": 1664977825,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 35924,
+        "num": 35924,
+        "word": "昆仑神宫 九层妖楼",
+        "onboard_time": 1664983582,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34487,
+        "num": 34487,
+        "word": "美国国债总额首次突破31万亿美元",
+        "onboard_time": 1664996111,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 32525,
+        "num": 32525,
+        "word": "一只羊能有多狗",
+        "onboard_time": 1664957841,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 29777,
+        "num": 29777,
+        "word": "你有多年后才明白的道理吗",
+        "onboard_time": 1664973865,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29758,
+        "num": 29758,
+        "word": "欧洲暴发史上最大规模禽流感",
+        "onboard_time": 1664961323,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52834,
+        "num": 29754,
+        "word": "38岁新娘回应14岁儿子抱自己出嫁",
+        "onboard_time": 1664974044,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52677,
+        "num": 29676,
+        "word": "王嘉尔10个月18封",
+        "onboard_time": 1664981302,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 37663,
+        "num": 29650,
+        "word": "妻子怀孕丈夫患妊娠伴随综合征孕吐",
+        "onboard_time": 1664967444,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31636,
+        "num": 29587,
+        "word": "女子耗时4天做甄嬛传立体手账",
+        "onboard_time": 1664995212,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29585,
+        "num": 29585,
+        "word": "世界银行预测乌今年经济将萎缩35%",
+        "onboard_time": 1664998332,
+        "rank": 14,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 25441,
+        "num": 25441,
+        "word": "3名男孩无视劝阻向马路中央扔瓶子",
+        "onboard_time": 1664985742,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22269,
+        "num": 22269,
+        "word": "Minnie双丸子头造型",
+        "onboard_time": 1664985083,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 21728,
+        "num": 21728,
+        "word": "俄气称将恢复对意大利供气",
+        "onboard_time": 1664976806,
+        "rank": 17,
+        "category": "国外要闻,财经"
+      },
+      {
+        "raw_hot": 21155,
+        "num": 21155,
+        "word": "男子在爱心取水机前进货式取水",
+        "onboard_time": 1664994853,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21125,
+        "num": 21125,
+        "word": "俄军正在赫尔松集结准备反击",
+        "onboard_time": 1664977704,
+        "rank": 19,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 20841,
+        "num": 20841,
+        "word": "昆仑神宫",
+        "onboard_time": 1664973923,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20168,
+        "num": 20168,
+        "word": "水爷称自己上了乌克兰的死亡名单",
+        "onboard_time": 1664966604,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20000,
+        "num": 20000,
+        "word": "金政基曾作画为中国加油",
+        "onboard_time": 1664983044,
+        "rank": 22,
+        "category": "动漫,社会新闻"
+      },
+      {
+        "raw_hot": 19511,
+        "num": 19511,
+        "word": "脱口秀大会",
+        "onboard_time": 1664978783,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17034,
+        "num": 17034,
+        "word": "20余名留守娃轮流摆拍喂猪完成作业",
+        "onboard_time": 1664998870,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15823,
+        "num": 15823,
+        "word": "景区回应游客被梅花鹿踢脸",
+        "onboard_time": 1664993473,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15605,
+        "num": 15605,
+        "word": "诺贝尔奖奖金为什么越发越多",
+        "onboard_time": 1664971762,
+        "rank": 26,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 15402,
+        "num": 15402,
+        "word": "轮胎高速脱落滚了2公里司机没追上",
+        "onboard_time": 1664995692,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14362,
+        "num": 14362,
+        "word": "守望先锋",
+        "onboard_time": 1664978245,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 13206,
+        "num": 13206,
+        "word": "机器人平均51秒可下线一辆汽车",
+        "onboard_time": 1665000251,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 28124,
+        "num": 13124,
+        "word": "金政基去世",
+        "onboard_time": 1664962102,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 12294,
+        "num": 12294,
+        "word": "英语让一家人变得生疏",
+        "onboard_time": 1664964445,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 11947,
+        "num": 11947,
+        "word": "SuperM最新练习室",
+        "onboard_time": 1664973205,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 11749,
+        "num": 11749,
+        "word": "金晨的演技",
+        "onboard_time": 1664971884,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 11718,
+        "num": 11718,
+        "word": "陪主人晒太阳的猫咪",
+        "onboard_time": 1664983944,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 11575,
+        "num": 11575,
+        "word": "山东断崖式降温小伙披被子骑车",
+        "onboard_time": 1664980223,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10609,
+        "num": 10609,
+        "word": "这是种很新的艺术",
+        "onboard_time": 1664988258,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 10418,
+        "num": 10418,
+        "word": "猫咪凌晨电饭锅中熟睡搞懵主人",
+        "onboard_time": 1664980584,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 10350,
+        "num": 10350,
+        "word": "潘粤明是鬼吹灯最忙幕后",
+        "onboard_time": 1664985803,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 10197,
+        "num": 10197,
+        "word": "这瘦背训练真能处",
+        "onboard_time": 1664972303,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9613,
+        "num": 9613,
+        "word": "西班牙葡萄牙乌克兰联合申办2030世界杯",
+        "onboard_time": 1664975545,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9212,
+        "num": 9212,
+        "word": "岳父含泪叮嘱新郎不能欺负女儿",
+        "onboard_time": 1664965283,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9047,
+        "num": 9047,
+        "word": "边伯贤Jopping素颜版vs舞台版",
+        "onboard_time": 1664980405,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 8085,
+        "num": 8085,
+        "word": "余景天新舞台预告",
+        "onboard_time": 1664975363,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 8058,
+        "num": 8058,
+        "word": "异地恋如何给对象过生日",
+        "onboard_time": 1664973083,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 7745,
+        "num": 7745,
+        "word": "国乒女团世乒赛五连胜",
+        "onboard_time": 1665000612,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 6519,
+        "num": 6519,
+        "word": "广东降温是有的但不多",
+        "onboard_time": 1664967024,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6031,
+        "num": 6031,
+        "word": "现在想起都尴尬",
+        "onboard_time": 1665001930,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 6004,
+        "num": 6004,
+        "word": "点赞哥Evi",
+        "onboard_time": 1665002110,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 5998,
+        "num": 5998,
+        "word": "全球最大对冲基金完成交接班",
+        "onboard_time": 1665002290,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光#"
+    }
+  }
+}
