@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1664949130404,
+  "endTime": 1664949903977,
   "band_list": [
     {
       "raw_hot": 3091269,
@@ -147,6 +147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1469773,
+      "num": 1469773,
+      "word": "海天味业再发声明否认双标",
+      "onboard_time": 1664944463,
+      "rank": 6,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1447248,
       "num": 1447248,
       "word": "C罗",
@@ -209,14 +217,6 @@
       "onboard_time": 1664870004,
       "rank": 4,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 1226542,
-      "num": 1226542,
-      "word": "海天味业再发声明否认双标",
-      "onboard_time": 1664944463,
-      "rank": 6,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1213586,
@@ -651,6 +651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 568671,
+      "num": 568671,
+      "word": "赵丽颖龚俊VogueFilm跨时空对话",
+      "onboard_time": 1664949501,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 564955,
       "num": 564955,
       "word": "农民父母供养3女1儿全部读大学",
@@ -745,6 +753,14 @@
       "onboard_time": 1664805384,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 532697,
+      "num": 532697,
+      "word": "吴京说王俊凯跟他年轻时候差不多",
+      "onboard_time": 1664948841,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 531802,
@@ -1147,12 +1163,28 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 417426,
+      "num": 417426,
+      "word": "星船艺人将出演出差十五夜",
+      "onboard_time": 1664949443,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 416818,
       "num": 416818,
       "word": "老人68岁开始锻炼92岁笑着爬山",
       "onboard_time": 1664775982,
       "rank": 37,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 411074,
+      "num": 411074,
+      "word": "范世錡晒无与伦比的美丽live图",
+      "onboard_time": 1664946803,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 405653,
@@ -1265,14 +1297,6 @@
       "onboard_time": 1664878942,
       "rank": 45,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 383960,
-      "num": 376125,
-      "word": "范世錡晒无与伦比的美丽live图",
-      "onboard_time": 1664946803,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 383845,
@@ -1451,6 +1475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 339161,
+      "num": 339161,
+      "word": "中国调味品协会支持企业依法维权",
+      "onboard_time": 1664946382,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 338895,
       "num": 338895,
       "word": "万里归途成为外交官特辑",
@@ -1531,14 +1563,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 312594,
-      "num": 312594,
-      "word": "吴京说王俊凯跟他年轻时候差不多",
-      "onboard_time": 1664948841,
-      "rank": 12,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 307530,
       "num": 307530,
       "word": "小车礼让婚车把自己倒进沟里",
@@ -1552,14 +1576,6 @@
       "word": "天津地震",
       "onboard_time": 1664699721,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 305448,
-      "num": 305448,
-      "word": "中国调味品协会支持企业依法维权",
-      "onboard_time": 1664946382,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1585,6 +1601,14 @@
       "onboard_time": 1664802144,
       "rank": 26,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 297556,
+      "num": 261912,
+      "word": "罗云熙顾云峥工作影记",
+      "onboard_time": 1664949381,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 295958,
@@ -2491,6 +2515,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 169421,
+      "num": 169421,
+      "word": "张桂梅说学生走得比我好就足够了",
+      "onboard_time": 1664946323,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169358,
       "num": 132327,
       "word": "央视重阳晚会",
@@ -2843,11 +2875,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139334,
-      "num": 139334,
-      "word": "张桂梅说学生走得比我好就足够了",
-      "onboard_time": 1664946323,
-      "rank": 36,
+      "raw_hot": 139465,
+      "num": 139465,
+      "word": "游客无视劝告拍照给小熊猫喂食",
+      "onboard_time": 1664948302,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -3651,12 +3683,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 77845,
-      "num": 77845,
-      "word": "游客无视劝告拍照给小熊猫喂食",
-      "onboard_time": 1664948302,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 77995,
+      "num": 77995,
+      "word": "老邢秀才16年后再同框",
+      "onboard_time": 1664949081,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 76267,
@@ -3803,6 +3835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 68461,
+      "num": 68461,
+      "word": "甜且燃的剧",
+      "onboard_time": 1664949620,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 67070,
       "num": 67070,
       "word": "陈怡馨说年少的朋友不会走散",
@@ -3881,14 +3921,6 @@
       "onboard_time": 1664850982,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 64172,
-      "num": 46615,
-      "word": "老邢秀才16年后再同框",
-      "onboard_time": 1664949081,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 61560,
