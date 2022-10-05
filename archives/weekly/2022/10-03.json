@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1664984676469,
+  "endTime": 1664988941943,
   "band_list": [
     {
       "raw_hot": 5104220,
@@ -1611,6 +1611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 379333,
+      "num": 182091,
+      "word": "Minnie双丸子头造型",
+      "onboard_time": 1664985083,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 378606,
       "num": 378606,
       "word": "1岁半警犬凌晨搜寻救回2岁男孩",
@@ -2347,6 +2355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 250040,
+      "num": 250040,
+      "word": "5岁女孩用儿童玩具钓上数条鱼",
+      "onboard_time": 1664986161,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249234,
       "num": 249234,
       "word": "爸爸拿水果站路边等女儿回家",
@@ -2457,6 +2473,14 @@
       "onboard_time": 1664764883,
       "rank": 18,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 237135,
+      "num": 164627,
+      "word": "3名男孩无视劝阻向马路中央扔瓶子",
+      "onboard_time": 1664985742,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 236391,
@@ -2697,6 +2721,14 @@
       "onboard_time": 1664944762,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217972,
+      "num": 217972,
+      "word": "潘粤明是鬼吹灯最忙幕后",
+      "onboard_time": 1664985803,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 217965,
@@ -3155,6 +3187,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 170587,
+      "num": 164511,
+      "word": "昆仑神宫 九层妖楼",
+      "onboard_time": 1664983582,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 170448,
       "num": 170448,
       "word": "机械狗能取代宠物狗吗",
@@ -3193,14 +3233,6 @@
       "onboard_time": 1664902457,
       "rank": 7,
       "category": "体育,影视"
-    },
-    {
-      "raw_hot": 164511,
-      "num": 164511,
-      "word": "昆仑神宫 九层妖楼",
-      "onboard_time": 1664983582,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 164497,
@@ -3433,6 +3465,14 @@
       "onboard_time": 1664802263,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 148084,
+      "num": 148084,
+      "word": "这个国庆结婚有多忙",
+      "onboard_time": 1664984963,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146499,
@@ -4323,6 +4363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 88071,
+      "num": 88071,
+      "word": "陪主人晒太阳的猫咪",
+      "onboard_time": 1664983944,
+      "rank": 41,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 88021,
       "num": 88021,
       "word": "国庆假期第3天",
@@ -4459,12 +4507,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 77889,
-      "num": 77889,
-      "word": "陪主人晒太阳的猫咪",
-      "onboard_time": 1664983944,
-      "rank": 41,
-      "category": "幽默,情感"
+      "raw_hot": 77977,
+      "num": 77977,
+      "word": "海滩上牡蛎一捞一麻袋",
+      "onboard_time": 1664986640,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76267,
@@ -4953,6 +5001,14 @@
       "onboard_time": 1664832190,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 34506,
+      "num": 34506,
+      "word": "这是种很新的艺术",
+      "onboard_time": 1664988258,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 32401,
