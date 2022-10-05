@@ -1,10 +1,10 @@
 {
   "startTime": 1664901610003,
-  "endTime": 1664936335852,
+  "endTime": 1664938271257,
   "band_list": [
     {
-      "raw_hot": 1953583,
-      "num": 1953583,
+      "raw_hot": 2075164,
+      "num": 2075164,
       "word": "我的童年报复性补偿行为",
       "onboard_time": 1664892563,
       "rank": 3,
@@ -75,6 +75,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 482691,
+      "num": 281276,
+      "word": "北京最新进返京提醒",
+      "onboard_time": 1664934440,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 482477,
       "num": 482477,
       "word": "步惊云终于体会当爸爸有多快乐",
@@ -107,20 +115,20 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 411553,
-      "num": 281276,
-      "word": "北京最新进返京提醒",
-      "onboard_time": 1664934440,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 386098,
       "num": 386098,
       "word": "欧盟批准强制苹果使用USB C接口",
       "onboard_time": 1664893646,
       "rank": 7,
       "category": "科技"
+    },
+    {
+      "raw_hot": 383845,
+      "num": 383845,
+      "word": "RNG进入D组",
+      "onboard_time": 1664935041,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 272359,
@@ -155,12 +163,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 242677,
-      "num": 242677,
-      "word": "RNG进入D组",
-      "onboard_time": 1664935041,
-      "rank": 15,
-      "category": "游戏"
+      "raw_hot": 243839,
+      "num": 243839,
+      "word": "会计被骗86万警方8分钟追回",
+      "onboard_time": 1664907194,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242103,
@@ -171,20 +179,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 239287,
+      "num": 239287,
+      "word": "你是隐形社恐吗",
+      "onboard_time": 1664895326,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236196,
       "num": 236196,
       "word": "电视剧底线",
       "onboard_time": 1664894547,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 233989,
-      "num": 233989,
-      "word": "会计被骗86万警方8分钟追回",
-      "onboard_time": 1664907194,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 232019,
@@ -195,12 +203,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 217010,
-      "num": 217010,
-      "word": "你是隐形社恐吗",
-      "onboard_time": 1664895326,
-      "rank": 11,
-      "category": "综艺"
+      "raw_hot": 230064,
+      "num": 230064,
+      "word": "女童落水同伴狂奔大喊求救",
+      "onboard_time": 1664935882,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213693,
@@ -307,6 +315,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 149449,
+      "num": 149449,
+      "word": "机械狗能取代宠物狗吗",
+      "onboard_time": 1664936182,
+      "rank": 45,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 144219,
       "num": 144219,
       "word": "怎样有礼貌的挂断骚扰电话",
@@ -321,6 +337,14 @@
       "onboard_time": 1664877263,
       "rank": 19,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 140552,
+      "num": 140552,
+      "word": "开水烫餐具无法消毒",
+      "onboard_time": 1664937500,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135236,
@@ -491,12 +515,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 79195,
-      "num": 79195,
-      "word": "女童落水同伴狂奔大喊求救",
-      "onboard_time": 1664935882,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 80060,
+      "num": 80060,
+      "word": "檀健次秦淮的七种美德",
+      "onboard_time": 1664935460,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 77939,
@@ -531,20 +555,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 69372,
+      "num": 69372,
+      "word": "寒潮速冻南方多地",
+      "onboard_time": 1664937142,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69179,
       "num": 69179,
       "word": "曝广东男篮29人被隔离",
       "onboard_time": 1664879423,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 68639,
-      "num": 68639,
-      "word": "机械狗能取代宠物狗吗",
-      "onboard_time": 1664936182,
-      "rank": 45,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 65908,
@@ -595,6 +619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 57373,
+      "num": 57373,
+      "word": "万里归途同名推广曲",
+      "onboard_time": 1664938221,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 55550,
       "num": 55550,
       "word": "陈可辛章子怡将合作新剧",
@@ -617,6 +649,14 @@
       "onboard_time": 1664880804,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 53498,
+      "num": 53498,
+      "word": "男子丢钱包后被索要归还费",
+      "onboard_time": 1664937981,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51951,
@@ -699,7 +739,7 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 8815,
+      "raw_hot": 8972,
       "num": 702482,
       "word": "多机位打开国庆节氛围感",
       "onboard_time": 1664800944,

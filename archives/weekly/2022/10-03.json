@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1664936335852,
+  "endTime": 1664938271257,
   "band_list": [
     {
       "raw_hot": 3091269,
@@ -51,20 +51,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 2075164,
+      "num": 2075164,
+      "word": "我的童年报复性补偿行为",
+      "onboard_time": 1664892563,
+      "rank": 28,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 2052639,
       "num": 2052639,
       "word": "山东冷成了山冻",
       "onboard_time": 1664863641,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1953583,
-      "num": 1953583,
-      "word": "我的童年报复性补偿行为",
-      "onboard_time": 1664892563,
-      "rank": 28,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 1910204,
@@ -779,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 482691,
+      "num": 281276,
+      "word": "北京最新进返京提醒",
+      "onboard_time": 1664934440,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 482650,
       "num": 482650,
       "word": "如何喝咖啡更健康",
@@ -1051,14 +1059,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 411553,
-      "num": 281276,
-      "word": "北京最新进返京提醒",
-      "onboard_time": 1664934440,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 405653,
       "num": 405653,
       "word": "医保谈判代表说自己克制着高兴心情",
@@ -1169,6 +1169,14 @@
       "onboard_time": 1664878942,
       "rank": 45,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 383845,
+      "num": 383845,
+      "word": "RNG进入D组",
+      "onboard_time": 1664935041,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 383424,
@@ -1763,12 +1771,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 242677,
-      "num": 242677,
-      "word": "RNG进入D组",
-      "onboard_time": 1664935041,
-      "rank": 15,
-      "category": "游戏"
+      "raw_hot": 243839,
+      "num": 243839,
+      "word": "会计被骗86万警方8分钟追回",
+      "onboard_time": 1664907194,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242103,
@@ -1785,6 +1793,14 @@
       "onboard_time": 1664893104,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239287,
+      "num": 239287,
+      "word": "你是隐形社恐吗",
+      "onboard_time": 1664895326,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 238097,
@@ -1817,14 +1833,6 @@
       "onboard_time": 1664726003,
       "rank": 15,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 233989,
-      "num": 233989,
-      "word": "会计被骗86万警方8分钟追回",
-      "onboard_time": 1664907194,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 233684,
@@ -1867,6 +1875,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 230064,
+      "num": 230064,
+      "word": "女童落水同伴狂奔大喊求救",
+      "onboard_time": 1664935882,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228787,
       "num": 228787,
       "word": "北京新增1例本土无症状",
@@ -1881,14 +1897,6 @@
       "onboard_time": 1664884882,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 225618,
-      "num": 225618,
-      "word": "你是隐形社恐吗",
-      "onboard_time": 1664895326,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 224146,
@@ -2483,6 +2491,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 149449,
+      "num": 149449,
+      "word": "机械狗能取代宠物狗吗",
+      "onboard_time": 1664936182,
+      "rank": 45,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 149174,
       "num": 149174,
       "word": "英国商超禁止摆放垃圾食品在显眼处",
@@ -2569,6 +2585,14 @@
       "onboard_time": 1664886803,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140552,
+      "num": 140552,
+      "word": "开水烫餐具无法消毒",
+      "onboard_time": 1664937500,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139933,
@@ -3331,20 +3355,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80060,
+      "num": 80060,
+      "word": "檀健次秦淮的七种美德",
+      "onboard_time": 1664935460,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 79411,
       "num": 79411,
       "word": "被吓过的小猫有多记仇",
       "onboard_time": 1664717245,
       "rank": 35,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 79195,
-      "num": 79195,
-      "word": "女童落水同伴狂奔大喊求救",
-      "onboard_time": 1664935882,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 79022,
@@ -3499,20 +3523,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69372,
+      "num": 69372,
+      "word": "寒潮速冻南方多地",
+      "onboard_time": 1664937142,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69263,
       "num": 69263,
       "word": "北京大风寒潮双预警生效中",
       "onboard_time": 1664839817,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 68639,
-      "num": 68639,
-      "word": "机械狗能取代宠物狗吗",
-      "onboard_time": 1664936182,
-      "rank": 45,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 67070,
@@ -3619,6 +3643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 57373,
+      "num": 57373,
+      "word": "万里归途同名推广曲",
+      "onboard_time": 1664938221,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 56410,
       "num": 237215,
       "word": "男子回村为老人做3天炖菜过重阳",
@@ -3631,6 +3663,14 @@
       "num": 55969,
       "word": "执行法官说要用法律对付不还钱的人",
       "onboard_time": 1664775741,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53498,
+      "num": 53498,
+      "word": "男子丢钱包后被索要归还费",
+      "onboard_time": 1664937981,
       "rank": 49,
       "category": "社会新闻"
     },
