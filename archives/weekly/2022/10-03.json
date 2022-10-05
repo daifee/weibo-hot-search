@@ -1,7 +1,15 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1664962126687,
+  "endTime": 1664963276104,
   "band_list": [
+    {
+      "raw_hot": 4941959,
+      "num": 4941959,
+      "word": "金政基去世",
+      "onboard_time": 1664962102,
+      "rank": 47,
+      "category": "社会新闻,动漫"
+    },
     {
       "raw_hot": 3091269,
       "num": 3091269,
@@ -427,6 +435,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 834093,
+      "num": 834093,
+      "word": "欧洲暴发史上最大规模禽流感",
+      "onboard_time": 1664961323,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 824080,
       "num": 824080,
       "word": "螃蟹也没想到她还有把刷子",
@@ -595,6 +611,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 672780,
+      "num": 672780,
+      "word": "女孩陪外公下象棋用手机开外挂",
+      "onboard_time": 1664958922,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 671894,
       "num": 532697,
       "word": "吴京说王俊凯跟他年轻时候差不多",
@@ -657,14 +681,6 @@
       "onboard_time": 1664793804,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 582401,
-      "num": 582401,
-      "word": "女孩陪外公下象棋用手机开外挂",
-      "onboard_time": 1664958922,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 579394,
@@ -1003,14 +1019,6 @@
       "category": "国外要闻,社会新闻"
     },
     {
-      "raw_hot": 465096,
-      "num": 74462,
-      "word": "金政基去世",
-      "onboard_time": 1664962102,
-      "rank": 47,
-      "category": "社会新闻,动漫"
-    },
-    {
       "raw_hot": 462391,
       "num": 462391,
       "word": "金秋天NewThing舞蹈挑战",
@@ -1180,7 +1188,7 @@
     },
     {
       "raw_hot": 424395,
-      "num": 283934,
+      "num": 321407,
       "word": "陈哲远躺在沈月腿上花絮照",
       "onboard_time": 1664958263,
       "rank": 12,
@@ -1369,6 +1377,14 @@
       "onboard_time": 1664958263,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 384394,
+      "num": 384394,
+      "word": "外婆为送外孙女出嫁在路边种满花",
+      "onboard_time": 1664960362,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 383845,
@@ -1595,6 +1611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 335487,
+      "num": 335487,
+      "word": "西安警方发布大客车司机违规甩客警情通报",
+      "onboard_time": 1664961802,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332826,
       "num": 303495,
       "word": "马嘉祺驯服不了自己和杨坤的太阳花",
@@ -1673,6 +1697,14 @@
       "onboard_time": 1664948302,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305575,
+      "num": 305575,
+      "word": "王俊凯万里归途票房破8亿海报",
+      "onboard_time": 1664959280,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 305527,
@@ -1843,14 +1875,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 275148,
-      "num": 275148,
-      "word": "王俊凯万里归途票房破8亿海报",
-      "onboard_time": 1664959280,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 273101,
       "num": 273101,
       "word": "甜且燃的剧",
@@ -1937,6 +1961,14 @@
       "onboard_time": 1664851642,
       "rank": 14,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 257915,
+      "num": 257915,
+      "word": "aespaSavage发行一周年",
+      "onboard_time": 1664962883,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 257553,
@@ -2099,6 +2131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242289,
+      "num": 242289,
+      "word": "没有科技与狠活的芝士肥牛卷",
+      "onboard_time": 1664959222,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 242103,
       "num": 242103,
       "word": "没想到猫还被鱼给咬了",
@@ -2137,14 +2177,6 @@
       "onboard_time": 1664764883,
       "rank": 18,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 236404,
-      "num": 236404,
-      "word": "外婆为送外孙女出嫁在路边种满花",
-      "onboard_time": 1664960362,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 236391,
@@ -2201,14 +2233,6 @@
       "onboard_time": 1664758942,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 231017,
-      "num": 231017,
-      "word": "欧洲暴发史上最大规模禽流感",
-      "onboard_time": 1664961323,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 230341,
@@ -2281,6 +2305,14 @@
       "onboard_time": 1664885724,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 223519,
+      "num": 223519,
+      "word": "中国万吨级医院船诊疗超23万人次",
+      "onboard_time": 1664960842,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 223228,
@@ -2377,14 +2409,6 @@
       "onboard_time": 1664841620,
       "rank": 18,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 214245,
-      "num": 214245,
-      "word": "没有科技与狠活的芝士肥牛卷",
-      "onboard_time": 1664959222,
-      "rank": 18,
-      "category": "美食"
     },
     {
       "raw_hot": 213942,
@@ -2969,14 +2993,6 @@
       "onboard_time": 1664894907,
       "rank": 43,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 149258,
-      "num": 149258,
-      "word": "中国万吨级医院船诊疗超23万人次",
-      "onboard_time": 1664960842,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149174,
@@ -3723,6 +3739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97600,
+      "num": 97600,
+      "word": "谁不想亲手钓一只大熊猫呢",
+      "onboard_time": 1664962702,
+      "rank": 33,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 95636,
       "num": 95636,
       "word": "这是轻功吧",
@@ -3913,14 +3937,6 @@
       "onboard_time": 1664935460,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 79742,
-      "num": 79742,
-      "word": "西安警方发布大客车司机违规甩客警情通报",
-      "onboard_time": 1664961802,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 79411,
