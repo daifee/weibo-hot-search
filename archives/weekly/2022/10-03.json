@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1664943790045,
+  "endTime": 1664947463271,
   "band_list": [
     {
       "raw_hot": 3091269,
@@ -267,6 +267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1094383,
+      "num": 1094383,
+      "word": "国产悬疑剧终于上新了",
+      "onboard_time": 1664942424,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1085462,
       "num": 1085462,
       "word": "这碗螺蛳粉一定要吃吗",
@@ -393,6 +401,14 @@
       "onboard_time": 1664797043,
       "rank": 19,
       "category": "社会议题,影视"
+    },
+    {
+      "raw_hot": 810576,
+      "num": 810576,
+      "word": "南京新增18例本土确诊",
+      "onboard_time": 1664943862,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 810267,
@@ -539,6 +555,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 666451,
+      "num": 666451,
+      "word": "海天味业再发声明否认双标",
+      "onboard_time": 1664944463,
+      "rank": 6,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 655185,
       "num": 655185,
       "word": "10月2日新增466例本土无症状",
@@ -577,6 +601,14 @@
       "onboard_time": 1664781860,
       "rank": 35,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 591463,
+      "num": 591463,
+      "word": "心动的信号第二次约会",
+      "onboard_time": 1664944161,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 584982,
@@ -745,14 +777,6 @@
       "onboard_time": 1664879423,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 520887,
-      "num": 520887,
-      "word": "国产悬疑剧终于上新了",
-      "onboard_time": 1664942424,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 519920,
@@ -1027,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 439364,
+      "num": 439364,
+      "word": "被高铁上惊鸿一瞥的美景惊艳到了",
+      "onboard_time": 1664942181,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 438493,
       "num": 291918,
       "word": "SuperM出道曲Jopping发行三周年",
@@ -1299,6 +1331,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 372021,
+      "num": 372021,
+      "word": "请上天赐一个隔音好的厕所吧",
+      "onboard_time": 1664942962,
+      "rank": 29,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 371280,
       "num": 371280,
       "word": "关晓彤为电视剧胡同第三篇章做宣传",
@@ -1459,6 +1499,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 319788,
+      "num": 319788,
+      "word": "范世錡晒无与伦比的美丽live图",
+      "onboard_time": 1664946803,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 318021,
       "num": 299767,
       "word": "李一桐演的谭皎好美",
@@ -1609,6 +1657,14 @@
       "onboard_time": 1664804964,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 281296,
+      "num": 281296,
+      "word": "新丽正午耀客柠萌待播剧汇总",
+      "onboard_time": 1664945363,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 279748,
@@ -2147,14 +2203,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 205278,
-      "num": 205278,
-      "word": "被高铁上惊鸿一瞥的美景惊艳到了",
-      "onboard_time": 1664942181,
-      "rank": 39,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 203956,
       "num": 203956,
       "word": "虞书欣仙剑六最新路透",
@@ -2169,6 +2217,14 @@
       "onboard_time": 1664801425,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 202234,
+      "num": 202234,
+      "word": "狗子知道错了但是下次还敢",
+      "onboard_time": 1664943922,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 201264,
@@ -2249,6 +2305,22 @@
       "onboard_time": 1664869102,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 191161,
+      "num": 191161,
+      "word": "东北人逛云南菜市场刷新买菜认知",
+      "onboard_time": 1664944762,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191128,
+      "num": 191128,
+      "word": "萌娃精心打扮当花童被遗忘委屈抹泪",
+      "onboard_time": 1664943382,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187795,
@@ -3043,14 +3115,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 119333,
-      "num": 119333,
-      "word": "请上天赐一个隔音好的厕所吧",
-      "onboard_time": 1664942962,
-      "rank": 29,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 118981,
       "num": 118981,
       "word": "万里归途歌词",
@@ -3145,6 +3209,14 @@
       "onboard_time": 1664854824,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 110737,
+      "num": 110737,
+      "word": "中国调味品协会支持企业依法维权",
+      "onboard_time": 1664946382,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110452,
@@ -3411,6 +3483,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 88885,
+      "num": 88885,
+      "word": "张桂梅说学生走得比我好就足够了",
+      "onboard_time": 1664946323,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88728,
       "num": 88728,
       "word": "熊猫宝宝的背影有多治愈",
@@ -3649,14 +3729,6 @@
       "onboard_time": 1664790921,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 71823,
-      "num": 71823,
-      "word": "萌娃精心打扮当花童被遗忘委屈抹泪",
-      "onboard_time": 1664943382,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 71292,
