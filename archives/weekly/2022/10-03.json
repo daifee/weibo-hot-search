@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1664959831153,
+  "endTime": 1664962126687,
   "band_list": [
     {
       "raw_hot": 3091269,
@@ -121,6 +121,14 @@
       "onboard_time": 1664885903,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1589199,
+      "num": 1589199,
+      "word": "一只羊能有多狗",
+      "onboard_time": 1664957841,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 1552975,
@@ -361,14 +369,6 @@
       "onboard_time": 1664762302,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 933699,
-      "num": 933699,
-      "word": "一只羊能有多狗",
-      "onboard_time": 1664957841,
-      "rank": 11,
-      "category": "幽默"
     },
     {
       "raw_hot": 932511,
@@ -657,6 +657,14 @@
       "onboard_time": 1664793804,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 582401,
+      "num": 582401,
+      "word": "女孩陪外公下象棋用手机开外挂",
+      "onboard_time": 1664958922,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 579394,
@@ -995,6 +1003,14 @@
       "category": "国外要闻,社会新闻"
     },
     {
+      "raw_hot": 465096,
+      "num": 74462,
+      "word": "金政基去世",
+      "onboard_time": 1664962102,
+      "rank": 47,
+      "category": "社会新闻,动漫"
+    },
+    {
       "raw_hot": 462391,
       "num": 462391,
       "word": "金秋天NewThing舞蹈挑战",
@@ -1161,6 +1177,14 @@
       "onboard_time": 1664726543,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 424395,
+      "num": 283934,
+      "word": "陈哲远躺在沈月腿上花絮照",
+      "onboard_time": 1664958263,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 423378,
@@ -1339,6 +1363,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 387532,
+      "num": 387532,
+      "word": "赵露思胡同战报",
+      "onboard_time": 1664958263,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 383845,
       "num": 383845,
       "word": "RNG进入D组",
@@ -1449,14 +1481,6 @@
       "onboard_time": 1664771483,
       "rank": 13,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 362961,
-      "num": 283934,
-      "word": "陈哲远躺在沈月腿上花絮照",
-      "onboard_time": 1664958263,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 359913,
@@ -1633,14 +1657,6 @@
       "onboard_time": 1664784260,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 313542,
-      "num": 313542,
-      "word": "赵露思胡同战报",
-      "onboard_time": 1664958263,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 307530,
@@ -1827,6 +1843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 275148,
+      "num": 275148,
+      "word": "王俊凯万里归途票房破8亿海报",
+      "onboard_time": 1664959280,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 273101,
       "num": 273101,
       "word": "甜且燃的剧",
@@ -1881,14 +1905,6 @@
       "onboard_time": 1664869461,
       "rank": 16,
       "category": "美妆,时尚"
-    },
-    {
-      "raw_hot": 266608,
-      "num": 266608,
-      "word": "王俊凯万里归途票房破8亿海报",
-      "onboard_time": 1664959280,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 265948,
@@ -2123,6 +2139,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 236404,
+      "num": 236404,
+      "word": "外婆为送外孙女出嫁在路边种满花",
+      "onboard_time": 1664960362,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236391,
       "num": 236391,
       "word": "第一次见打针这么乖的小狗",
@@ -2177,6 +2201,14 @@
       "onboard_time": 1664758942,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 231017,
+      "num": 231017,
+      "word": "欧洲暴发史上最大规模禽流感",
+      "onboard_time": 1664961323,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230341,
@@ -2345,6 +2377,14 @@
       "onboard_time": 1664841620,
       "rank": 18,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 214245,
+      "num": 214245,
+      "word": "没有科技与狠活的芝士肥牛卷",
+      "onboard_time": 1664959222,
+      "rank": 18,
+      "category": "美食"
     },
     {
       "raw_hot": 213942,
@@ -2627,14 +2667,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 179761,
-      "num": 179761,
-      "word": "没有科技与狠活的芝士肥牛卷",
-      "onboard_time": 1664959222,
-      "rank": 18,
-      "category": "美食"
-    },
-    {
       "raw_hot": 179289,
       "num": 179289,
       "word": "原来不止有隔代亲还有隔代潮",
@@ -2875,14 +2907,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 156042,
-      "num": 156042,
-      "word": "女孩陪外公下象棋用手机开外挂",
-      "onboard_time": 1664958922,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 154192,
       "num": 154192,
       "word": "升旗手拿10斤哑铃每天练展旗超300次",
@@ -2947,6 +2971,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 149258,
+      "num": 149258,
+      "word": "中国万吨级医院船诊疗超23万人次",
+      "onboard_time": 1664960842,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149174,
       "num": 149174,
       "word": "英国商超禁止摆放垃圾食品在显眼处",
@@ -2985,6 +3017,14 @@
       "onboard_time": 1664957120,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 145374,
+      "num": 145374,
+      "word": "神舟十五号飞船将从这里发射",
+      "onboard_time": 1664960482,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145307,
@@ -3873,6 +3913,14 @@
       "onboard_time": 1664935460,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 79742,
+      "num": 79742,
+      "word": "西安警方发布大客车司机违规甩客警情通报",
+      "onboard_time": 1664961802,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 79411,

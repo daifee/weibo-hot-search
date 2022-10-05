@@ -1,6 +1,6 @@
 {
   "startTime": 1664901610003,
-  "endTime": 1664959831153,
+  "endTime": 1664962126687,
   "band_list": [
     {
       "raw_hot": 2674618,
@@ -17,6 +17,14 @@
       "onboard_time": 1664892563,
       "rank": 3,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 1589199,
+      "num": 1589199,
+      "word": "一只羊能有多狗",
+      "onboard_time": 1664957841,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 1552975,
@@ -91,14 +99,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 933699,
-      "num": 933699,
-      "word": "一只羊能有多狗",
-      "onboard_time": 1664957841,
-      "rank": 11,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 856788,
       "num": 856788,
       "word": "南京新增18例本土确诊",
@@ -160,6 +160,14 @@
       "word": "37岁白发缉毒警被误认成孩子爷爷",
       "onboard_time": 1664885903,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 582401,
+      "num": 582401,
+      "word": "女孩陪外公下象棋用手机开外挂",
+      "onboard_time": 1664958922,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -227,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 465096,
+      "num": 74462,
+      "word": "金政基去世",
+      "onboard_time": 1664962102,
+      "rank": 47,
+      "category": "社会新闻,动漫"
+    },
+    {
       "raw_hot": 455554,
       "num": 455554,
       "word": "RNG晋级小组赛",
@@ -241,6 +257,14 @@
       "onboard_time": 1664942181,
       "rank": 39,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 424395,
+      "num": 283934,
+      "word": "陈哲远躺在沈月腿上花絮照",
+      "onboard_time": 1664958263,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 423046,
@@ -283,6 +307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 387532,
+      "num": 387532,
+      "word": "赵露思胡同战报",
+      "onboard_time": 1664958263,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 386098,
       "num": 386098,
       "word": "欧盟批准强制苹果使用USB C接口",
@@ -323,14 +355,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 362961,
-      "num": 283934,
-      "word": "陈哲远躺在沈月腿上花絮照",
-      "onboard_time": 1664958263,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 354420,
       "num": 354420,
       "word": "10月4日新增本土确诊223例",
@@ -355,14 +379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 313542,
-      "num": 313542,
-      "word": "赵露思胡同战报",
-      "onboard_time": 1664958263,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 307295,
       "num": 307295,
       "word": "游客无视劝告拍照给小熊猫喂食",
@@ -384,6 +400,14 @@
       "word": "新丽正午耀客柠萌待播剧汇总",
       "onboard_time": 1664945363,
       "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 275148,
+      "num": 275148,
+      "word": "王俊凯万里归途票房破8亿海报",
+      "onboard_time": 1664959280,
+      "rank": 12,
       "category": "影视"
     },
     {
@@ -425,14 +449,6 @@
       "onboard_time": 1664891004,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 266608,
-      "num": 266608,
-      "word": "王俊凯万里归途票房破8亿海报",
-      "onboard_time": 1664959280,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 265948,
@@ -491,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236404,
+      "num": 236404,
+      "word": "外婆为送外孙女出嫁在路边种满花",
+      "onboard_time": 1664960362,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236196,
       "num": 236196,
       "word": "电视剧底线",
@@ -513,6 +537,14 @@
       "onboard_time": 1664936123,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 231017,
+      "num": 231017,
+      "word": "欧洲暴发史上最大规模禽流感",
+      "onboard_time": 1664961323,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230222,
@@ -579,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214245,
+      "num": 214245,
+      "word": "没有科技与狠活的芝士肥牛卷",
+      "onboard_time": 1664959222,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 213693,
       "num": 213693,
       "word": "军人洗碗后将抹布叠得像板砖",
@@ -641,14 +681,6 @@
       "onboard_time": 1664889204,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 179761,
-      "num": 179761,
-      "word": "没有科技与狠活的芝士肥牛卷",
-      "onboard_time": 1664959222,
-      "rank": 18,
-      "category": "美食"
     },
     {
       "raw_hot": 172209,
@@ -731,14 +763,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 156042,
-      "num": 156042,
-      "word": "女孩陪外公下象棋用手机开外挂",
-      "onboard_time": 1664958922,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 154192,
       "num": 154192,
       "word": "升旗手拿10斤哑铃每天练展旗超300次",
@@ -771,12 +795,28 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 149258,
+      "num": 149258,
+      "word": "中国万吨级医院船诊疗超23万人次",
+      "onboard_time": 1664960842,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145420,
       "num": 145420,
       "word": "2个动作缓解含胸驼背",
       "onboard_time": 1664957120,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 145374,
+      "num": 145374,
+      "word": "神舟十五号飞船将从这里发射",
+      "onboard_time": 1664960482,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144219,
@@ -1033,6 +1073,14 @@
       "onboard_time": 1664935460,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 79742,
+      "num": 79742,
+      "word": "西安警方发布大客车司机违规甩客警情通报",
+      "onboard_time": 1664961802,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77939,
