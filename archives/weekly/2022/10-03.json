@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1664974575894,
+  "endTime": 1664977246293,
   "band_list": [
     {
       "raw_hot": 5104220,
@@ -65,6 +65,14 @@
       "onboard_time": 1664892804,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2089588,
+      "num": 2089588,
+      "word": "量子纠缠",
+      "onboard_time": 1664972303,
+      "rank": 1,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 2075164,
@@ -235,14 +243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1295399,
-      "num": 1295399,
-      "word": "量子纠缠",
-      "onboard_time": 1664972303,
-      "rank": 1,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 1289644,
       "num": 1025744,
       "word": "乌鲁木齐各区县人员暂不离乌",
@@ -371,6 +371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1028724,
+      "num": 314046,
+      "word": "38岁新娘回应14岁儿子抱自己出嫁",
+      "onboard_time": 1664974044,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 984476,
       "num": 984476,
       "word": "光遇",
@@ -425,6 +433,14 @@
       "onboard_time": 1664882182,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 883897,
+      "num": 760085,
+      "word": "庞博十八岁的自己",
+      "onboard_time": 1664974765,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 881416,
@@ -601,6 +617,14 @@
       "onboard_time": 1664848281,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 706416,
+      "num": 706416,
+      "word": "昆仑神宫",
+      "onboard_time": 1664973923,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 695446,
@@ -827,6 +851,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 549902,
+      "num": 549902,
+      "word": "金晨的演技",
+      "onboard_time": 1664971884,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 547868,
       "num": 547868,
       "word": "2023考研明天开始报名",
@@ -897,14 +929,6 @@
       "onboard_time": 1664771002,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 518069,
-      "num": 518069,
-      "word": "金晨的演技",
-      "onboard_time": 1664971884,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 513903,
@@ -1019,6 +1043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 481559,
+      "num": 481559,
+      "word": "诺贝尔奖奖金为什么越发越多",
+      "onboard_time": 1664971762,
+      "rank": 11,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 481255,
       "num": 481255,
       "word": "北京新增本土感染者3例",
@@ -1124,7 +1156,7 @@
     },
     {
       "raw_hot": 456735,
-      "num": 209195,
+      "num": 218666,
       "word": "新疆新增本土无症状感染者91例",
       "onboard_time": 1664968943,
       "rank": 49,
@@ -1353,14 +1385,6 @@
       "onboard_time": 1664946803,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 407461,
-      "num": 331523,
-      "word": "诺贝尔奖奖金为什么越发越多",
-      "onboard_time": 1664971762,
-      "rank": 11,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 405653,
@@ -1681,14 +1705,6 @@
       "onboard_time": 1664789540,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 339301,
-      "num": 339301,
-      "word": "昆仑神宫",
-      "onboard_time": 1664973923,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 339161,
@@ -2083,6 +2099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263148,
+      "num": 263148,
+      "word": "你有多年后才明白的道理吗",
+      "onboard_time": 1664973865,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 261954,
       "num": 261954,
       "word": "男子钓鱼救下被裹塑料袋扔河的猫",
@@ -2235,6 +2259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249354,
+      "num": 249354,
+      "word": "庄羽一集喊了虞美人10次老婆",
+      "onboard_time": 1664975723,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 249234,
       "num": 249234,
       "word": "爸爸拿水果站路边等女儿回家",
@@ -2313,6 +2345,22 @@
       "onboard_time": 1664893104,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241054,
+      "num": 241054,
+      "word": "异地恋如何给对象过生日",
+      "onboard_time": 1664973083,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 239476,
+      "num": 239476,
+      "word": "西班牙葡萄牙乌克兰联合申办2030世界杯",
+      "onboard_time": 1664975545,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 239287,
@@ -2395,6 +2443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 231427,
+      "num": 222880,
+      "word": "余景天新舞台预告",
+      "onboard_time": 1664975363,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230341,
       "num": 230341,
       "word": "女子落水高校男生害怕仍勇敢下水",
@@ -2473,6 +2529,14 @@
       "onboard_time": 1664960842,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223284,
+      "num": 223284,
+      "word": "这猫上辈子怕是个超模吧",
+      "onboard_time": 1664973383,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 223228,
@@ -2667,6 +2731,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 201979,
+      "num": 201979,
+      "word": "北京朝阳新增感染者涉及风险点位通报",
+      "onboard_time": 1664974405,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201264,
       "num": 201264,
       "word": "两条北溪天然气管道都已停止泄漏",
@@ -2715,12 +2787,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 196134,
+      "num": 196134,
+      "word": "昆仑神宫大结局点映礼",
+      "onboard_time": 1664974105,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 195686,
       "num": 195686,
       "word": "从狗子的眼神中看到了后悔",
       "onboard_time": 1664956038,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 195039,
+      "num": 195039,
+      "word": "地下1200米的超级充电宝长啥样",
+      "onboard_time": 1664972905,
+      "rank": 29,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 193923,
@@ -2745,14 +2833,6 @@
       "onboard_time": 1664881344,
       "rank": 34,
       "category": "军事,国外要闻"
-    },
-    {
-      "raw_hot": 192397,
-      "num": 192397,
-      "word": "异地恋如何给对象过生日",
-      "onboard_time": 1664973083,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 191760,
@@ -2891,6 +2971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179090,
+      "num": 179090,
+      "word": "这瘦背训练真能处",
+      "onboard_time": 1664972303,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178498,
       "num": 178498,
       "word": "菊次郎这夏天过得挺坎坷啊",
@@ -2929,14 +3017,6 @@
       "onboard_time": 1664721383,
       "rank": 20,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 175284,
-      "num": 175284,
-      "word": "这瘦背训练真能处",
-      "onboard_time": 1664972303,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 174829,
@@ -2985,14 +3065,6 @@
       "onboard_time": 1664892685,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 167680,
-      "num": 167680,
-      "word": "38岁新娘回应14岁儿子抱自己出嫁",
-      "onboard_time": 1664974044,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166734,
@@ -3177,14 +3249,6 @@
       "onboard_time": 1664950881,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153010,
-      "num": 153010,
-      "word": "这猫上辈子怕是个超模吧",
-      "onboard_time": 1664973383,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 152183,
@@ -3441,14 +3505,6 @@
       "onboard_time": 1664828950,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136392,
-      "num": 136392,
-      "word": "地下1200米的超级充电宝长啥样",
-      "onboard_time": 1664972905,
-      "rank": 29,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 135236,
@@ -3883,6 +3939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104764,
+      "num": 104764,
+      "word": "郑州小村庄变身航空大都市",
+      "onboard_time": 1664974765,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104403,
       "num": 104403,
       "word": "陈哲远说给个眼神能体会吗",
@@ -3897,6 +3961,14 @@
       "onboard_time": 1664810484,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103427,
+      "num": 103427,
+      "word": "俄气称将恢复对意大利供气",
+      "onboard_time": 1664976806,
+      "rank": 36,
+      "category": "国外要闻,财经"
     },
     {
       "raw_hot": 103222,
@@ -3921,14 +3993,6 @@
       "onboard_time": 1664866461,
       "rank": 38,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 101867,
-      "num": 101867,
-      "word": "昆仑神宫大结局点映礼",
-      "onboard_time": 1664974105,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 101864,
@@ -4019,6 +4083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98146,
+      "num": 98146,
+      "word": "国乒女团速胜晋级8强",
+      "onboard_time": 1664975065,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97982,
       "num": 97982,
       "word": "像极了我减肥的精神状态",
@@ -4057,6 +4129,14 @@
       "onboard_time": 1664778322,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 92403,
+      "num": 92403,
+      "word": "警犬凌晨搜救回野外走失2岁男童",
+      "onboard_time": 1664974345,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 91672,
@@ -4155,14 +4235,6 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 87640,
-      "num": 87640,
-      "word": "你有多年后才明白的道理吗",
-      "onboard_time": 1664973865,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 86542,
       "num": 1106866,
       "word": "齐唱国歌是刻进中国人DNA的感动",
@@ -4209,6 +4281,14 @@
       "onboard_time": 1664852424,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81187,
+      "num": 81187,
+      "word": "这就是属于秋天的浪漫吧",
+      "onboard_time": 1664977102,
+      "rank": 43,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 80356,
@@ -4291,28 +4371,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 74490,
-      "num": 74490,
-      "word": "警犬凌晨搜救回野外走失2岁男童",
-      "onboard_time": 1664974345,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 74398,
       "num": 1350531,
       "word": "多机位打开国庆节氛围感",
       "onboard_time": 1664800944,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 73786,
-      "num": 73786,
-      "word": "北京朝阳新增感染者涉及风险点位通报",
-      "onboard_time": 1664974405,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 73653,
