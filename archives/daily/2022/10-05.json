@@ -1,6 +1,6 @@
 {
   "startTime": 1664901610003,
-  "endTime": 1664981592366,
+  "endTime": 1664983524059,
   "band_list": [
     {
       "raw_hot": 5104220,
@@ -131,6 +131,14 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 1054354,
+      "num": 349101,
+      "word": "王嘉尔10个月18封",
+      "onboard_time": 1664981302,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1041517,
       "num": 367055,
       "word": "38岁新娘回应14岁儿子抱自己出嫁",
@@ -251,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 586524,
+      "num": 586524,
+      "word": "强烈的不舍是分别的预兆吗",
+      "onboard_time": 1664977825,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 576298,
       "num": 576298,
       "word": "西安警方发布大客车司机违规甩客警情通报",
@@ -369,6 +385,14 @@
       "onboard_time": 1664960362,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 457710,
+      "num": 457710,
+      "word": "脱口秀大会",
+      "onboard_time": 1664978783,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 456735,
@@ -539,20 +563,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 356408,
-      "num": 356408,
-      "word": "强烈的不舍是分别的预兆吗",
-      "onboard_time": 1664977825,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 354420,
       "num": 354420,
       "word": "10月4日新增本土确诊223例",
       "onboard_time": 1664939781,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 353757,
+      "num": 353757,
+      "word": "猫咪凌晨电饭锅中熟睡搞懵主人",
+      "onboard_time": 1664980584,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 340033,
@@ -609,14 +633,6 @@
       "onboard_time": 1664959280,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 305556,
-      "num": 305556,
-      "word": "脱口秀大会",
-      "onboard_time": 1664978783,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 297556,
@@ -761,6 +777,14 @@
       "onboard_time": 1664941102,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 252026,
+      "num": 252026,
+      "word": "山东断崖式降温小伙披被子骑车",
+      "onboard_time": 1664980223,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243839,
@@ -953,6 +977,14 @@
       "onboard_time": 1664974405,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200721,
+      "num": 200721,
+      "word": "任嘉伦请君大婚剧照",
+      "onboard_time": 1664982145,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 196134,
@@ -1155,14 +1187,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 156966,
-      "num": 156966,
-      "word": "猫咪凌晨电饭锅中熟睡搞懵主人",
-      "onboard_time": 1664980584,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 156260,
       "num": 156260,
       "word": "万里归途同名推广曲",
@@ -1201,14 +1225,6 @@
       "onboard_time": 1664896765,
       "rank": 17,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 148077,
-      "num": 148077,
-      "word": "王嘉尔10个月18封",
-      "onboard_time": 1664981302,
-      "rank": 26,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 145420,
@@ -1257,14 +1273,6 @@
       "onboard_time": 1664877263,
       "rank": 19,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 140312,
-      "num": 140312,
-      "word": "山东断崖式降温小伙披被子骑车",
-      "onboard_time": 1664980223,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 137426,
@@ -1403,6 +1411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 99873,
+      "num": 99873,
+      "word": "中国香港女团晋级八强",
+      "onboard_time": 1664979683,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99808,
       "num": 99808,
       "word": "男子高速停车将掉落广告牌拉路边",
@@ -1473,6 +1489,14 @@
       "onboard_time": 1664889863,
       "rank": 33,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 92668,
+      "num": 92668,
+      "word": "金政基曾作画为中国加油",
+      "onboard_time": 1664983044,
+      "rank": 38,
+      "category": "动漫,社会新闻"
     },
     {
       "raw_hot": 91672,
