@@ -1,7 +1,15 @@
 {
   "startTime": 1664901610003,
-  "endTime": 1664938271257,
+  "endTime": 1664942578634,
   "band_list": [
+    {
+      "raw_hot": 2674618,
+      "num": 2674618,
+      "word": "开水烫餐具无法消毒",
+      "onboard_time": 1664937500,
+      "rank": 23,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2075164,
       "num": 2075164,
@@ -9,6 +17,14 @@
       "onboard_time": 1664892563,
       "rank": 3,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 1213427,
+      "num": 1213427,
+      "word": "挪威海底电缆断裂",
+      "onboard_time": 1664939902,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1197131,
@@ -36,7 +52,7 @@
     },
     {
       "raw_hot": 975768,
-      "num": 285349,
+      "num": 378668,
       "word": "消费930.9被收931事件双方发声",
       "onboard_time": 1664925737,
       "rank": 12,
@@ -49,6 +65,22 @@
       "onboard_time": 1664929820,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 727276,
+      "num": 727276,
+      "word": "王鹤棣密逃4白色衬衫高清剧照",
+      "onboard_time": 1664941161,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 662627,
+      "num": 378210,
+      "word": "韩国一枚导弹发射异常坠落",
+      "onboard_time": 1664940501,
+      "rank": 11,
+      "category": "军事"
     },
     {
       "raw_hot": 590064,
@@ -99,6 +131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 454058,
+      "num": 454058,
+      "word": "农民父母供养3女1儿全部读大学",
+      "onboard_time": 1664940263,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 423046,
       "num": 423046,
       "word": "RNG对战DFM",
@@ -115,6 +155,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 386159,
+      "num": 386159,
+      "word": "游客车辆遭白虎追咬留下牙印",
+      "onboard_time": 1664940382,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 386098,
       "num": 386098,
       "word": "欧盟批准强制苹果使用USB C接口",
@@ -129,6 +177,22 @@
       "onboard_time": 1664935041,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 354420,
+      "num": 354420,
+      "word": "10月4日新增本土确诊223例",
+      "onboard_time": 1664939781,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289256,
+      "num": 289256,
+      "word": "俄外交部称俄完全遵守不可发生核战争声明",
+      "onboard_time": 1664941522,
+      "rank": 13,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 272359,
@@ -161,6 +225,14 @@
       "onboard_time": 1664899163,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 253926,
+      "num": 253926,
+      "word": "电影万里归途",
+      "onboard_time": 1664941102,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 243839,
@@ -208,6 +280,14 @@
       "word": "女童落水同伴狂奔大喊求救",
       "onboard_time": 1664935882,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219407,
+      "num": 219407,
+      "word": "10月4日新增本土无症状747例",
+      "onboard_time": 1664939840,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -267,6 +347,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 170448,
+      "num": 170448,
+      "word": "机械狗能取代宠物狗吗",
+      "onboard_time": 1664936182,
+      "rank": 45,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 166734,
       "num": 166734,
       "word": "多地已加入下雪群聊",
@@ -283,6 +371,14 @@
       "category": "体育,影视"
     },
     {
+      "raw_hot": 161162,
+      "num": 161162,
+      "word": "男子丢钱包后被索要归还费",
+      "onboard_time": 1664937981,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159247,
       "num": 159247,
       "word": "哪一刻你意识到应该多读书",
@@ -291,12 +387,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 157750,
+      "num": 157750,
+      "word": "爆笑课代表挑战赛",
+      "onboard_time": 1664942424,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 157306,
       "num": 157306,
       "word": "考研报名正式开始",
       "onboard_time": 1664931380,
       "rank": 22,
       "category": "教育"
+    },
+    {
+      "raw_hot": 156260,
+      "num": 156260,
+      "word": "万里归途同名推广曲",
+      "onboard_time": 1664938221,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 151365,
@@ -315,14 +427,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 149449,
-      "num": 149449,
-      "word": "机械狗能取代宠物狗吗",
-      "onboard_time": 1664936182,
-      "rank": 45,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 144219,
       "num": 144219,
       "word": "怎样有礼貌的挂断骚扰电话",
@@ -331,20 +435,20 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 144007,
+      "num": 144007,
+      "word": "锡安复出",
+      "onboard_time": 1664938041,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142041,
       "num": 142041,
       "word": "爸爸精心剥虾递给女儿被丢掉",
       "onboard_time": 1664877263,
       "rank": 19,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 140552,
-      "num": 140552,
-      "word": "开水烫餐具无法消毒",
-      "onboard_time": 1664937500,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135236,
@@ -376,6 +480,22 @@
       "word": "周博文爸妈被迫官宣二胎",
       "onboard_time": 1664890704,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 130295,
+      "num": 130295,
+      "word": "在小猫眼中看到了羡慕",
+      "onboard_time": 1664940802,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 126317,
+      "num": 126317,
+      "word": "国产悬疑剧终于上新了",
+      "onboard_time": 1664942424,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -483,6 +603,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 88728,
+      "num": 88728,
+      "word": "熊猫宝宝的背影有多治愈",
+      "onboard_time": 1664942062,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 87710,
       "num": 87710,
       "word": "第一次见打针这么乖的小狗",
@@ -539,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 73331,
+      "num": 73331,
+      "word": "被高铁上惊鸿一瞥的美景惊艳到了",
+      "onboard_time": 1664942181,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 73018,
       "num": 73018,
       "word": "泽连斯基签署不与普京谈判决定",
@@ -569,6 +705,14 @@
       "onboard_time": 1664879423,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66165,
+      "num": 66165,
+      "word": "曾可妮壮鱼一秒捋出时间线",
+      "onboard_time": 1664938700,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 65908,
@@ -619,14 +763,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 57373,
-      "num": 57373,
-      "word": "万里归途同名推广曲",
-      "onboard_time": 1664938221,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 55550,
       "num": 55550,
       "word": "陈可辛章子怡将合作新剧",
@@ -649,14 +785,6 @@
       "onboard_time": 1664880804,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 53498,
-      "num": 53498,
-      "word": "男子丢钱包后被索要归还费",
-      "onboard_time": 1664937981,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 51951,
@@ -740,7 +868,7 @@
     },
     {
       "raw_hot": 8972,
-      "num": 702482,
+      "num": 1227170,
       "word": "多机位打开国庆节氛围感",
       "onboard_time": 1664800944,
       "rank": 2,
