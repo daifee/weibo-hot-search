@@ -1,0 +1,410 @@
+{
+  "runTime": 1665013664869,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 560058,
+        "num": 560058,
+        "word": "5岁女孩用儿童玩具钓上数条鱼",
+        "onboard_time": 1664986161,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511311,
+        "num": 511311,
+        "word": "欧洲暴发史上最大规模禽流感",
+        "onboard_time": 1664961323,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7169,
+        "num": 474775,
+        "word": "多机位打开国庆节氛围感",
+        "onboard_time": 1664800944,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 438455,
+        "num": 438455,
+        "word": "山东断崖式降温小伙披被子骑车",
+        "onboard_time": 1664980223,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373148,
+        "num": 373148,
+        "word": "庞博十八岁的自己",
+        "onboard_time": 1664974765,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273062,
+        "num": 273062,
+        "word": "强烈的不舍是分别的预兆吗",
+        "onboard_time": 1664977825,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226040,
+        "num": 226040,
+        "word": "20余名留守娃轮流摆拍喂猪完成作业",
+        "onboard_time": 1664998870,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215386,
+        "num": 215386,
+        "word": "河南增14例本土无症状感染者",
+        "onboard_time": 1665006789,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191452,
+        "num": 191452,
+        "word": "女生走路玩手机撞电线杆额头鼓包",
+        "onboard_time": 1665003851,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188659,
+        "num": 188659,
+        "word": "猫咪凌晨电饭锅中熟睡搞懵主人",
+        "onboard_time": 1664980584,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 425957,
+        "num": 185296,
+        "word": "38岁新娘回应14岁儿子抱自己出嫁",
+        "onboard_time": 1664974044,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364660,
+        "num": 185210,
+        "word": "王嘉尔10个月18封",
+        "onboard_time": 1664981302,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 251016,
+        "num": 183877,
+        "word": "妻子怀孕丈夫患妊娠伴随综合征孕吐",
+        "onboard_time": 1664967444,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179369,
+        "num": 179369,
+        "word": "3岁女儿手洗衣服称心疼妈妈",
+        "onboard_time": 1665002770,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173596,
+        "num": 173596,
+        "word": "俄气称将恢复对意大利供气",
+        "onboard_time": 1664976806,
+        "rank": 14,
+        "category": "国外要闻,财经"
+      },
+      {
+        "raw_hot": 166261,
+        "num": 166261,
+        "word": "你有多年后才明白的道理吗",
+        "onboard_time": 1664973865,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156406,
+        "num": 156406,
+        "word": "量子纠缠",
+        "onboard_time": 1664972303,
+        "rank": 16,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 145662,
+        "num": 145662,
+        "word": "男子在爱心取水机前进货式取水",
+        "onboard_time": 1664994853,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144210,
+        "num": 144210,
+        "word": "3类人群不适合秋冻",
+        "onboard_time": 1665012737,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125261,
+        "num": 125261,
+        "word": "女子耗时4天做甄嬛传立体手账",
+        "onboard_time": 1664995212,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120125,
+        "num": 120125,
+        "word": "世界银行预测乌今年经济将萎缩35%",
+        "onboard_time": 1664998332,
+        "rank": 20,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 107689,
+        "num": 107689,
+        "word": "3名男孩无视劝阻向马路中央扔瓶子",
+        "onboard_time": 1664985742,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105086,
+        "num": 105086,
+        "word": "俄军正在赫尔松集结准备反击",
+        "onboard_time": 1664977704,
+        "rank": 22,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 102967,
+        "num": 102967,
+        "word": "景区回应游客被梅花鹿踢脸",
+        "onboard_time": 1664993473,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96652,
+        "num": 96652,
+        "word": "一只羊能有多狗",
+        "onboard_time": 1664957841,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95397,
+        "num": 95397,
+        "word": "水爷称自己上了乌克兰的死亡名单",
+        "onboard_time": 1664966604,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94446,
+        "num": 94446,
+        "word": "美国国债总额首次突破31万亿美元",
+        "onboard_time": 1664996111,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 93286,
+        "num": 93286,
+        "word": "轮胎高速脱落滚了2公里司机没追上",
+        "onboard_time": 1664995692,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92482,
+        "num": 92482,
+        "word": "曼城5比0哥本哈根",
+        "onboard_time": 1665012077,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87095,
+        "num": 87095,
+        "word": "中国女排3比0战胜波多黎各",
+        "onboard_time": 1665013277,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92516,
+        "num": 86034,
+        "word": "金政基去世",
+        "onboard_time": 1664962102,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 82973,
+        "num": 82973,
+        "word": "Minnie双丸子头造型",
+        "onboard_time": 1664985083,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 73477,
+        "num": 73477,
+        "word": "脱口秀大会",
+        "onboard_time": 1664978783,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73127,
+        "num": 73127,
+        "word": "庄羽一集喊了虞美人10次老婆",
+        "onboard_time": 1664975723,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 70866,
+        "num": 70866,
+        "word": "如何看海天味业否认双标",
+        "onboard_time": 1665003550,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67874,
+        "num": 67874,
+        "word": "司母戊鼎其实叫后母戊鼎",
+        "onboard_time": 1665013097,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66075,
+        "num": 66075,
+        "word": "昆仑神宫 九层妖楼",
+        "onboard_time": 1664983582,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 64364,
+        "num": 64364,
+        "word": "陪主人晒太阳的猫咪",
+        "onboard_time": 1664983944,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 59578,
+        "num": 59578,
+        "word": "诺贝尔奖奖金为什么越发越多",
+        "onboard_time": 1664971762,
+        "rank": 38,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 59190,
+        "num": 59190,
+        "word": "西班牙葡萄牙乌克兰联合申办2030世界杯",
+        "onboard_time": 1664975545,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58430,
+        "num": 58430,
+        "word": "潘粤明是鬼吹灯最忙幕后",
+        "onboard_time": 1664985803,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 55869,
+        "num": 55869,
+        "word": "这瘦背训练真能处",
+        "onboard_time": 1664972303,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51032,
+        "num": 51032,
+        "word": "切尔西3比0AC米兰",
+        "onboard_time": 1665013579,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48135,
+        "num": 48135,
+        "word": "大考田家卖房还债",
+        "onboard_time": 1665007031,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 47787,
+        "num": 47787,
+        "word": "SuperM最新练习室",
+        "onboard_time": 1664973205,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 45218,
+        "num": 45218,
+        "word": "金晨的演技",
+        "onboard_time": 1664971884,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 41749,
+        "num": 41749,
+        "word": "岳父含泪叮嘱新郎不能欺负女儿",
+        "onboard_time": 1664965283,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40578,
+        "num": 40578,
+        "word": "边伯贤Jopping素颜版vs舞台版",
+        "onboard_time": 1664980405,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 39448,
+        "num": 39448,
+        "word": "金政基曾作画为中国加油",
+        "onboard_time": 1664983044,
+        "rank": 48,
+        "category": "动漫,社会新闻"
+      },
+      {
+        "raw_hot": 39326,
+        "num": 39326,
+        "word": "本菲卡1比1巴黎圣日耳曼",
+        "onboard_time": 1665013397,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#谁不说俺家乡好#"
+    }
+  }
+}

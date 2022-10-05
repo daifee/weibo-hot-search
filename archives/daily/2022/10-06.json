@@ -1,6 +1,6 @@
 {
   "startTime": 1664988941943,
-  "endTime": 1665012644120,
+  "endTime": 1665013664869,
   "band_list": [
     {
       "raw_hot": 702098,
@@ -19,6 +19,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 560058,
+      "num": 560058,
+      "word": "5岁女孩用儿童玩具钓上数条鱼",
+      "onboard_time": 1664986161,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 551304,
       "num": 551304,
       "word": "强烈的不舍是分别的预兆吗",
@@ -35,19 +43,27 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 457949,
-      "num": 457949,
-      "word": "5岁女孩用儿童玩具钓上数条鱼",
-      "onboard_time": 1664986161,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 452840,
-      "num": 452840,
+      "raw_hot": 511311,
+      "num": 511311,
       "word": "欧洲暴发史上最大规模禽流感",
       "onboard_time": 1664961323,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 438455,
+      "num": 438455,
+      "word": "山东断崖式降温小伙披被子骑车",
+      "onboard_time": 1664980223,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 425957,
+      "num": 185296,
+      "word": "38岁新娘回应14岁儿子抱自己出嫁",
+      "onboard_time": 1664974044,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -59,14 +75,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 368961,
-      "num": 172766,
-      "word": "38岁新娘回应14岁儿子抱自己出嫁",
-      "onboard_time": 1664974044,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 326292,
       "num": 326292,
       "word": "猫咪凌晨电饭锅中熟睡搞懵主人",
@@ -75,20 +83,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 315465,
-      "num": 315465,
-      "word": "山东断崖式降温小伙披被子骑车",
-      "onboard_time": 1664980223,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 271042,
       "num": 271042,
       "word": "潘粤明是鬼吹灯最忙幕后",
       "onboard_time": 1664985803,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 251016,
+      "num": 183877,
+      "word": "妻子怀孕丈夫患妊娠伴随综合征孕吐",
+      "onboard_time": 1664967444,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242427,
@@ -107,11 +115,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 236388,
-      "num": 155415,
-      "word": "妻子怀孕丈夫患妊娠伴随综合征孕吐",
-      "onboard_time": 1664967444,
-      "rank": 14,
+      "raw_hot": 226040,
+      "num": 226040,
+      "word": "20余名留守娃轮流摆拍喂猪完成作业",
+      "onboard_time": 1664998870,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -139,20 +147,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191452,
+      "num": 191452,
+      "word": "女生走路玩手机撞电线杆额头鼓包",
+      "onboard_time": 1665003851,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179369,
+      "num": 179369,
+      "word": "3岁女儿手洗衣服称心疼妈妈",
+      "onboard_time": 1665002770,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174351,
-      "num": 77843,
+      "num": 86034,
       "word": "金政基去世",
       "onboard_time": 1664962102,
       "rank": 30,
       "category": "动漫"
     },
     {
-      "raw_hot": 173542,
-      "num": 173542,
-      "word": "女生走路玩手机撞电线杆额头鼓包",
-      "onboard_time": 1665003851,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 173596,
+      "num": 173596,
+      "word": "俄气称将恢复对意大利供气",
+      "onboard_time": 1664976806,
+      "rank": 22,
+      "category": "国外要闻,财经"
     },
     {
       "raw_hot": 170587,
@@ -163,22 +187,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 157268,
-      "num": 157268,
-      "word": "俄气称将恢复对意大利供气",
-      "onboard_time": 1664976806,
-      "rank": 22,
-      "category": "国外要闻,财经"
-    },
-    {
-      "raw_hot": 153295,
-      "num": 153295,
-      "word": "20余名留守娃轮流摆拍喂猪完成作业",
-      "onboard_time": 1664998870,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148084,
       "num": 148084,
       "word": "这个国庆结婚有多忙",
@@ -187,11 +195,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136989,
-      "num": 136989,
-      "word": "3岁女儿手洗衣服称心疼妈妈",
-      "onboard_time": 1665002770,
-      "rank": 31,
+      "raw_hot": 145662,
+      "num": 145662,
+      "word": "男子在爱心取水机前进货式取水",
+      "onboard_time": 1664994853,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144210,
+      "num": 144210,
+      "word": "3类人群不适合秋冻",
+      "onboard_time": 1665012737,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -201,6 +217,22 @@
       "onboard_time": 1664977704,
       "rank": 18,
       "category": "军事,国外要闻"
+    },
+    {
+      "raw_hot": 125261,
+      "num": 125261,
+      "word": "女子耗时4天做甄嬛传立体手账",
+      "onboard_time": 1664995212,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120125,
+      "num": 120125,
+      "word": "世界银行预测乌今年经济将萎缩35%",
+      "onboard_time": 1664998332,
+      "rank": 38,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 115211,
@@ -227,20 +259,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 102967,
+      "num": 102967,
+      "word": "景区回应游客被梅花鹿踢脸",
+      "onboard_time": 1664993473,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102855,
       "num": 102855,
       "word": "边伯贤Jopping素颜版vs舞台版",
       "onboard_time": 1664980405,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 101478,
-      "num": 101478,
-      "word": "世界银行预测乌今年经济将萎缩35%",
-      "onboard_time": 1664998332,
-      "rank": 38,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 100825,
@@ -259,11 +291,11 @@
       "category": "动漫,社会新闻"
     },
     {
-      "raw_hot": 98271,
-      "num": 98271,
-      "word": "男子在爱心取水机前进货式取水",
-      "onboard_time": 1664994853,
-      "rank": 48,
+      "raw_hot": 95397,
+      "num": 95397,
+      "word": "水爷称自己上了乌克兰的死亡名单",
+      "onboard_time": 1664966604,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -275,12 +307,28 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 88278,
-      "num": 88278,
-      "word": "水爷称自己上了乌克兰的死亡名单",
-      "onboard_time": 1664966604,
-      "rank": 34,
+      "raw_hot": 94446,
+      "num": 94446,
+      "word": "美国国债总额首次突破31万亿美元",
+      "onboard_time": 1664996111,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 93286,
+      "num": 93286,
+      "word": "轮胎高速脱落滚了2公里司机没追上",
+      "onboard_time": 1664995692,
+      "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92482,
+      "num": 92482,
+      "word": "曼城5比0哥本哈根",
+      "onboard_time": 1665012077,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 88071,
@@ -291,12 +339,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 86593,
-      "num": 86593,
-      "word": "女子耗时4天做甄嬛传立体手账",
-      "onboard_time": 1664995212,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 87095,
+      "num": 87095,
+      "word": "中国女排3比0战胜波多黎各",
+      "onboard_time": 1665013277,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 86163,
@@ -313,30 +361,6 @@
       "onboard_time": 1664978783,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 82005,
-      "num": 82005,
-      "word": "美国国债总额首次突破31万亿美元",
-      "onboard_time": 1664996111,
-      "rank": 47,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 81777,
-      "num": 81777,
-      "word": "轮胎高速脱落滚了2公里司机没追上",
-      "onboard_time": 1664995692,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 79133,
-      "num": 79133,
-      "word": "景区回应游客被梅花鹿踢脸",
-      "onboard_time": 1664993473,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 77656,
@@ -360,6 +384,14 @@
       "word": "如何看海天味业否认双标",
       "onboard_time": 1665003550,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67874,
+      "num": 67874,
+      "word": "司母戊鼎其实叫后母戊鼎",
+      "onboard_time": 1665013097,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -403,6 +435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 51032,
+      "num": 51032,
+      "word": "切尔西3比0AC米兰",
+      "onboard_time": 1665013579,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48726,
       "num": 48726,
       "word": "广东降温是有的但不多",
@@ -419,12 +459,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 47778,
-      "num": 47778,
-      "word": "曼城5比0哥本哈根",
-      "onboard_time": 1665012077,
-      "rank": 36,
-      "category": "体育"
+      "raw_hot": 48135,
+      "num": 48135,
+      "word": "大考田家卖房还债",
+      "onboard_time": 1665007031,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 47225,
@@ -467,20 +507,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 40742,
-      "num": 40742,
-      "word": "大考田家卖房还债",
-      "onboard_time": 1665007031,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
       "raw_hot": 39819,
       "num": 39819,
       "word": "脱口秀看嗨了会流泪",
       "onboard_time": 1664977525,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 39326,
+      "num": 39326,
+      "word": "本菲卡1比1巴黎圣日耳曼",
+      "onboard_time": 1665013397,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 38967,
@@ -563,6 +603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 7169,
+      "num": 548233,
+      "word": "多机位打开国庆节氛围感",
+      "onboard_time": 1664800944,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 6486,
       "num": 6486,
       "word": "RNG团战",
@@ -585,14 +633,6 @@
       "onboard_time": 1665002290,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 5329,
-      "num": 548233,
-      "word": "多机位打开国庆节氛围感",
-      "onboard_time": 1664800944,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
