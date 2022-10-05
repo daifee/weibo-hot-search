@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664949903977,
+  "endTime": 1664952323856,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -859,6 +859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 785131,
+      "num": 568671,
+      "word": "赵丽颖龚俊VogueFilm跨时空对话",
+      "onboard_time": 1664949501,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 782989,
       "num": 547682,
       "word": "TouchID不太可能回到iPhone",
@@ -1171,6 +1179,14 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 630595,
+      "num": 532697,
+      "word": "吴京说王俊凯跟他年轻时候差不多",
+      "onboard_time": 1664948841,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 625668,
       "num": 625668,
       "word": "我们的歌",
@@ -1289,14 +1305,6 @@
       "onboard_time": 1664683163,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 568671,
-      "num": 568671,
-      "word": "赵丽颖龚俊VogueFilm跨时空对话",
-      "onboard_time": 1664949501,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 564955,
@@ -1441,14 +1449,6 @@
       "onboard_time": 1664605823,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 532697,
-      "num": 532697,
-      "word": "吴京说王俊凯跟他年轻时候差不多",
-      "onboard_time": 1664948841,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 524082,
@@ -2627,6 +2627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 317323,
+      "num": 317323,
+      "word": "我军飞行员距离100米驱离外军机",
+      "onboard_time": 1664950041,
+      "rank": 11,
+      "category": "军事"
+    },
+    {
       "raw_hot": 317298,
       "num": 242340,
       "word": "万里归途彩蛋",
@@ -2688,6 +2696,14 @@
       "word": "小车礼让婚车把自己倒进沟里",
       "onboard_time": 1664804064,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 307295,
+      "num": 307295,
+      "word": "游客无视劝告拍照给小熊猫喂食",
+      "onboard_time": 1664948302,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -3219,6 +3235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 255905,
+      "num": 255905,
+      "word": "甜且燃的剧",
+      "onboard_time": 1664949620,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 254330,
       "num": 254330,
       "word": "中国人首次在太空为新中国庆生",
@@ -3603,6 +3627,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 230519,
+      "num": 230519,
+      "word": "谷爱凌看秀生图",
+      "onboard_time": 1664950581,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 230341,
       "num": 230341,
       "word": "女子落水高校男生害怕仍勇敢下水",
@@ -3907,6 +3939,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 204285,
+      "num": 204285,
+      "word": "咖啡不属于高热量饮品",
+      "onboard_time": 1664951122,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203956,
       "num": 203956,
       "word": "虞书欣仙剑六最新路透",
@@ -4144,6 +4184,14 @@
       "word": "萌娃精心打扮当花童被遗忘委屈抹泪",
       "onboard_time": 1664943382,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189526,
+      "num": 189526,
+      "word": "张桂梅说学生走得比我好就足够了",
+      "onboard_time": 1664946323,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -4441,14 +4489,6 @@
       "onboard_time": 1664634384,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 169421,
-      "num": 169421,
-      "word": "张桂梅说学生走得比我好就足够了",
-      "onboard_time": 1664946323,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 169358,
@@ -5027,14 +5067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139465,
-      "num": 139465,
-      "word": "游客无视劝告拍照给小熊猫喂食",
-      "onboard_time": 1664948302,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139080,
       "num": 139080,
       "word": "话剧舞台上的吴谨言",
@@ -5427,6 +5459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121503,
+      "num": 121503,
+      "word": "欧阳娜娜小白式嗑错cp",
+      "onboard_time": 1664950581,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121500,
       "num": 121500,
       "word": "RNG状态",
@@ -5513,6 +5553,14 @@
       "onboard_time": 1664685082,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118092,
+      "num": 118092,
+      "word": "升旗手拿10斤哑铃每天练展旗超300次",
+      "onboard_time": 1664950881,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117541,
@@ -5625,6 +5673,14 @@
       "onboard_time": 1664895145,
       "rank": 46,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 112904,
+      "num": 112904,
+      "word": "中国人是有点种菜天赋在身上",
+      "onboard_time": 1664951242,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112825,
@@ -6563,14 +6619,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 68461,
-      "num": 68461,
-      "word": "甜且燃的剧",
-      "onboard_time": 1664949620,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 67796,
       "num": 67796,
       "word": "大风降温预报图变深红色了",
@@ -6689,6 +6737,14 @@
       "onboard_time": 1664902159,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 65080,
+      "num": 65080,
+      "word": "杨迪配音有点东西",
+      "onboard_time": 1664952021,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 65033,
