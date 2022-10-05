@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/06 05:42:04
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/06 06:28:18
 </p>
 </blockquote>
 <p>
@@ -5379,6 +5379,12 @@ DRX对战MAD（热度：89155）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%B5%B0%E8%B7%AF%E7%8E%A9%E6%89%8B%E6%9C%BA%E6%92%9E%E7%94%B5%E7%BA%BF%E6%9D%86%E9%A2%9D%E5%A4%B4%E9%BC%93%E5%8C%85%23" target="weibo">
+女生走路玩手机撞电线杆额头鼓包（热度：79953）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BC%93%E8%A7%A3%E8%84%96%E5%AD%90%E5%83%B5%E7%A1%AC%E7%9A%84%E5%A4%B4%E9%A2%88%E6%93%8D%23" target="weibo">
 缓解脖子僵硬的头颈操（热度：79464）
 </a>
@@ -5769,6 +5775,12 @@ MAD对战RNG（热度：64286）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%233%E5%B2%81%E5%A5%B3%E5%84%BF%E6%89%8B%E6%B4%97%E8%A1%A3%E6%9C%8D%E7%A7%B0%E5%BF%83%E7%96%BC%E5%A6%88%E5%A6%88%23" target="weibo">
+3岁女儿手洗衣服称心疼妈妈（热度：59608）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%BA%E4%B8%80%E5%8F%A5%E4%B8%BA%E5%A5%B3%E7%AF%AE%E5%8A%A0%E6%B2%B9%23" target="weibo">
 一人一句为女篮加油（热度：59530）
 </a>
@@ -5931,6 +5943,18 @@ MAD对战RNG（热度：64286）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E6%B5%B7%E5%A4%A9%E5%91%B3%E4%B8%9A%E5%90%A6%E8%AE%A4%E5%8F%8C%E6%A0%87%23" target="weibo">
+如何看海天味业否认双标（热度：49515）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2320%E4%BD%99%E5%90%8D%E7%95%99%E5%AE%88%E5%A8%83%E8%BD%AE%E6%B5%81%E6%91%86%E6%8B%8D%E5%96%82%E7%8C%AA%E5%AE%8C%E6%88%90%E4%BD%9C%E4%B8%9A%23" target="weibo">
+20余名留守娃轮流摆拍喂猪完成作业（热度：49027）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2384%E5%B2%81%E8%80%81%E4%BA%BA%E6%8A%A59%E5%85%83%E6%81%A9%E6%83%85%E6%8D%90100%E4%B8%87%E5%8A%A9%E5%AD%A6%23" target="weibo">
 84岁老人报9元恩情捐100万助学（热度：49006）
 </a>
@@ -5987,30 +6011,6 @@ MAD对战RNG（热度：64286）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BF%9B%E7%A5%9D%E8%B4%BA%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%23" target="weibo">
 王濛祝贺中国女篮（热度：46552）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%BA%E9%9C%96%E8%A2%81%E5%92%8F%E4%BB%AA%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%8E%B0%E5%9C%BA%E5%A9%9A%E7%A4%BC%23" target="weibo">
-张智霖袁咏仪披荆斩棘现场婚礼（热度：46163）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23RNG%E5%AF%B9%E6%88%98SGB%23" target="weibo">
-RNG对战SGB（热度：45627）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E8%B5%9B%E5%90%8E%E5%BA%86%E7%A5%9D%E7%8E%B0%E5%9C%BA%23" target="weibo">
-中国女篮赛后庆祝现场（热度：45310）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E7%A7%8D%E5%BE%88%E6%96%B0%E7%9A%84%E8%89%BA%E6%9C%AF%23" target="weibo">
-这是种很新的艺术（热度：45278）
 </a>
 </li>
 
