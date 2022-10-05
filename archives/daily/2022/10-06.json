@@ -1,6 +1,6 @@
 {
   "startTime": 1664988941943,
-  "endTime": 1664992086138,
+  "endTime": 1664992847350,
   "band_list": [
     {
       "raw_hot": 702098,
@@ -307,8 +307,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 49726,
-      "num": 49726,
+      "raw_hot": 55063,
+      "num": 55063,
       "word": "守望先锋",
       "onboard_time": 1664978245,
       "rank": 39,
@@ -387,8 +387,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36856,
-      "num": 36856,
+      "raw_hot": 37522,
+      "num": 37522,
       "word": "张雨绮暗黑御姐造型",
       "onboard_time": 1664989395,
       "rank": 48,
