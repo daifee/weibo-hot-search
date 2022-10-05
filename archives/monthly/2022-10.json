@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664992847350,
+  "endTime": 1664995238082,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -8115,6 +8115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 33077,
+      "num": 33077,
+      "word": "景区回应游客被梅花鹿踢脸",
+      "onboard_time": 1664993473,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32401,
       "num": 32401,
       "word": "EG对战MAD",
@@ -8193,6 +8201,22 @@
       "onboard_time": 1664561715,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 12683,
+      "num": 12683,
+      "word": "男子在爱心取水机前进货式取水",
+      "onboard_time": 1664994853,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12102,
+      "num": 12102,
+      "word": "女子耗时4天做甄嬛传立体手账",
+      "onboard_time": 1664995212,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11295,
