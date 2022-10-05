@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1664966910082,
+  "endTime": 1664968974282,
   "band_list": [
     {
       "raw_hot": 5104220,
@@ -395,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 929490,
+      "num": 340025,
+      "word": "妻子怀孕丈夫患妊娠伴随综合征孕吐",
+      "onboard_time": 1664967444,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 897102,
       "num": 897102,
       "word": "为什么人老了会面目模糊",
@@ -579,12 +587,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 706720,
+      "num": 706720,
+      "word": "英语让一家人变得生疏",
+      "onboard_time": 1664964445,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 695446,
       "num": 695446,
       "word": "景区回应女子雇轿抬狗上山",
       "onboard_time": 1664891364,
       "rank": 37,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 689333,
+      "num": 689333,
+      "word": "河南加入下雪群聊",
+      "onboard_time": 1664964145,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 686003,
@@ -657,14 +681,6 @@
       "onboard_time": 1664714963,
       "rank": 3,
       "category": "国外要闻,财经"
-    },
-    {
-      "raw_hot": 622797,
-      "num": 622797,
-      "word": "河南加入下雪群聊",
-      "onboard_time": 1664964145,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 606736,
@@ -888,14 +904,6 @@
       "word": "终于明白鱼为什么怕猫了",
       "onboard_time": 1664755820,
       "rank": 6,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 508523,
-      "num": 423639,
-      "word": "英语让一家人变得生疏",
-      "onboard_time": 1664964445,
-      "rank": 20,
       "category": "幽默"
     },
     {
@@ -1627,6 +1635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 339660,
+      "num": 339660,
+      "word": "水爷称自己上了乌克兰的死亡名单",
+      "onboard_time": 1664966604,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 339161,
       "num": 339161,
       "word": "中国调味品协会支持企业依法维权",
@@ -1769,6 +1785,14 @@
       "onboard_time": 1664759301,
       "rank": 16,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 299015,
+      "num": 299015,
+      "word": "李一桐金瀚新剧开播4天已循环4次",
+      "onboard_time": 1664964504,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 298402,
@@ -2243,6 +2267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235020,
+      "num": 235020,
+      "word": "广东降温是有的但不多",
+      "onboard_time": 1664967024,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233684,
       "num": 233684,
       "word": "寒潮将终结南方多地高温",
@@ -2257,6 +2289,14 @@
       "onboard_time": 1664766861,
       "rank": 19,
       "category": "军事"
+    },
+    {
+      "raw_hot": 232433,
+      "num": 232433,
+      "word": "岳父含泪叮嘱新郎不能欺负女儿",
+      "onboard_time": 1664965283,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232019,
@@ -2387,14 +2427,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 220103,
-      "num": 220103,
-      "word": "李一桐金瀚新剧开播4天已循环4次",
-      "onboard_time": 1664964504,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 219945,
       "num": 204269,
       "word": "周博文爸妈被迫官宣二胎",
@@ -2409,6 +2441,14 @@
       "onboard_time": 1664787202,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 219429,
+      "num": 219429,
+      "word": "张彬彬庄羽被抓当成人质",
+      "onboard_time": 1664966483,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 219407,
@@ -2545,14 +2585,6 @@
       "onboard_time": 1664801425,
       "rank": 15,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 201700,
-      "num": 201700,
-      "word": "张彬彬庄羽被抓当成人质",
-      "onboard_time": 1664966483,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 201264,
@@ -2755,6 +2787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178498,
+      "num": 178498,
+      "word": "菊次郎这夏天过得挺坎坷啊",
+      "onboard_time": 1664966002,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 178486,
       "num": 148592,
       "word": "张译站起来的原因找到了",
@@ -2785,14 +2825,6 @@
       "onboard_time": 1664851102,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 174188,
-      "num": 174188,
-      "word": "岳父含泪叮嘱新郎不能欺负女儿",
-      "onboard_time": 1664965283,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171600,
@@ -2963,6 +2995,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 158827,
+      "num": 158827,
+      "word": "北京大兴新增2例确诊病例",
+      "onboard_time": 1664967444,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158434,
       "num": 158434,
       "word": "成毅演戏情绪张力",
@@ -3009,6 +3049,14 @@
       "onboard_time": 1664950881,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153611,
+      "num": 153611,
+      "word": "釜山国际电影节",
+      "onboard_time": 1664968823,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 152183,
@@ -3080,6 +3128,14 @@
       "word": "虞书欣张彬彬小森林夫妻新副本",
       "onboard_time": 1664802263,
       "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 148899,
+      "num": 148899,
+      "word": "唐朝诡事录细节",
+      "onboard_time": 1664966185,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -3241,6 +3297,14 @@
       "onboard_time": 1664768722,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137426,
+      "num": 137426,
+      "word": "我的反派男友弹幕",
+      "onboard_time": 1664966304,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 137095,
@@ -3675,14 +3739,6 @@
       "category": "旅游,情感"
     },
     {
-      "raw_hot": 105411,
-      "num": 101124,
-      "word": "我的反派男友弹幕",
-      "onboard_time": 1664966304,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 105197,
       "num": 105197,
       "word": "国乒男团世乒赛三连胜",
@@ -3779,6 +3835,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 99340,
+      "num": 99340,
+      "word": "段宇成太能哭了",
+      "onboard_time": 1664967205,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 99334,
       "num": 99334,
       "word": "京哈高速香河服务区两名工作人员初筛阳性",
@@ -3819,14 +3883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 96865,
-      "num": 82290,
-      "word": "唐朝诡事录细节",
-      "onboard_time": 1664966185,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 95636,
       "num": 95636,
       "word": "这是轻功吧",
@@ -3841,14 +3897,6 @@
       "onboard_time": 1664831470,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 94777,
-      "num": 94777,
-      "word": "菊次郎这夏天过得挺坎坷啊",
-      "onboard_time": 1664966002,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 93096,
@@ -3913,6 +3961,14 @@
       "onboard_time": 1664925977,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 88732,
+      "num": 88732,
+      "word": "93岁专家谢绝鉴宝不愿挣这个钱",
+      "onboard_time": 1664968344,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 88728,
@@ -4000,14 +4056,6 @@
       "word": "华西教授回家过节帮满屋乡亲看病",
       "onboard_time": 1664852424,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 82910,
-      "num": 82910,
-      "word": "水爷称自己上了乌克兰的死亡名单",
-      "onboard_time": 1664966604,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -4153,6 +4201,14 @@
       "onboard_time": 1664815760,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 72074,
+      "num": 72074,
+      "word": "在胜负欲面前没有兄弟",
+      "onboard_time": 1664967624,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 71986,
@@ -4351,6 +4407,14 @@
       "num": 55969,
       "word": "执行法官说要用法律对付不还钱的人",
       "onboard_time": 1664775741,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53288,
+      "num": 53288,
+      "word": "新疆新增本土无症状感染者91例",
+      "onboard_time": 1664968943,
       "rank": 49,
       "category": "社会新闻"
     },
