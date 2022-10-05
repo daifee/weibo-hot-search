@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/06 02:40:38
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/06 02:59:59
 </p>
 </blockquote>
 <p>
@@ -5955,6 +5955,12 @@ MAD对战RNG（热度：64286）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E6%B8%B8%E5%AE%A2%E8%A2%AB%E6%A2%85%E8%8A%B1%E9%B9%BF%E8%B8%A2%E8%84%B8%23" target="weibo">
+景区回应游客被梅花鹿踢脸（热度：47744）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9A%E8%80%83%E8%99%91%E4%B9%B0C919%23" target="weibo">
 尼日利亚考虑买C919（热度：47386）
 </a>
@@ -6005,12 +6011,6 @@ RNG对战SGB（热度：45627）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E6%95%91%E4%B8%8B%E6%8C%824%E6%A5%BC%E7%AA%97%E5%A4%96%E5%85%AB%E6%97%AC%E8%80%81%E4%BA%BA%23" target="weibo">
 民警救下挂4楼窗外八旬老人（热度：43943）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E6%81%A9vs%E9%97%AB%E6%99%93%E6%A5%A0%23" target="weibo">
-邓恩vs闫晓楠（热度：42858）
 </a>
 </li>
 

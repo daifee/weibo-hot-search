@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1664995238082,
+  "endTime": 1664996399663,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -7923,6 +7923,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 47744,
+      "num": 47744,
+      "word": "景区回应游客被梅花鹿踢脸",
+      "onboard_time": 1664993473,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47386,
       "num": 47386,
       "word": "尼日利亚考虑买C919",
@@ -8115,14 +8123,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 33077,
-      "num": 33077,
-      "word": "景区回应游客被梅花鹿踢脸",
-      "onboard_time": 1664993473,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 32401,
       "num": 32401,
       "word": "EG对战MAD",
@@ -8203,8 +8203,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 12683,
-      "num": 12683,
+      "raw_hot": 16131,
+      "num": 16131,
       "word": "男子在爱心取水机前进货式取水",
       "onboard_time": 1664994853,
       "rank": 48,
@@ -8217,6 +8217,14 @@
       "onboard_time": 1664995212,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11413,
+      "num": 11413,
+      "word": "美国国债总额首次突破31万亿美元",
+      "onboard_time": 1664996111,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 11295,
@@ -8256,6 +8264,14 @@
       "word": "英雄从未远去丰碑永存人间",
       "onboard_time": 1664498006,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10129,
+      "num": 10129,
+      "word": "轮胎高速脱落滚了2公里司机没追上",
+      "onboard_time": 1664995692,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
