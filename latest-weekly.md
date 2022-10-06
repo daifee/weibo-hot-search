@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/03 00:34:12 ~ 2022/10/07 02:56:54
+本榜单时间：2022/10/03 00:34:12 ~ 2022/10/07 03:28:43
 </p>
 </blockquote>
 <p>
@@ -5097,6 +5097,12 @@ EG对战MAD（热度：32401）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%AF%B9%E7%9D%80%E9%9A%94%E5%A3%81%E9%82%BB%E5%B1%85%E5%AE%B6%E9%98%B3%E5%8F%B0%E5%91%B2%E6%B0%B4%23" target="weibo">
+男子对着隔壁邻居家阳台呲水（热度：13163）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2322%E9%A1%B9%E6%94%BF%E5%8A%A1%E6%9C%8D%E5%8A%A1%E5%B0%86%E8%B7%A8%E7%9C%81%E9%80%9A%E5%8A%9E%23" target="weibo">
 22项政务服务将跨省通办（热度：12428）
 </a>
@@ -5123,6 +5129,12 @@ ISG战胜IW（热度：11127）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%BE%B7%E8%8E%B1%E5%BE%B736%E4%BA%BAvs%E5%A4%AA%E9%98%B3%23" target="weibo">
 阿德莱德36人vs太阳（热度：10821）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%B4%A7%E8%BD%A6%E7%8B%82%E6%8C%89%E5%96%87%E5%8F%AD%E6%89%93%E8%BD%AC%E5%90%91%E6%95%91%E4%B8%8B%E5%B0%8F%E8%BD%A6%23" target="weibo">
+大货车狂按喇叭打转向救下小车（热度：10020）
 </a>
 </li>
 
