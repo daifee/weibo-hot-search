@@ -1,6 +1,6 @@
 {
   "startTime": 1664988941943,
-  "endTime": 1665070200061,
+  "endTime": 1665071364845,
   "band_list": [
     {
       "raw_hot": 3489698,
@@ -25,6 +25,14 @@
       "onboard_time": 1665023484,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2182574,
+      "num": 2182574,
+      "word": "室友很好却不能成为好朋友",
+      "onboard_time": 1665067585,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 2089312,
@@ -121,14 +129,6 @@
       "onboard_time": 1665018141,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1272472,
-      "num": 1272472,
-      "word": "室友很好却不能成为好朋友",
-      "onboard_time": 1665067585,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 1090725,
@@ -289,6 +289,14 @@
       "onboard_time": 1665014659,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 591226,
+      "num": 591226,
+      "word": "第一个游走位FMVP",
+      "onboard_time": 1665068905,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 585861,
@@ -603,6 +611,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 360079,
+      "num": 360079,
+      "word": "动画版的一起来看流星雨",
+      "onboard_time": 1665066805,
+      "rank": 20,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 358458,
       "num": 358458,
       "word": "95后女孩休学后进山当农民",
@@ -625,22 +641,6 @@
       "onboard_time": 1665028162,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 332466,
-      "num": 332466,
-      "word": "第一个游走位FMVP",
-      "onboard_time": 1665068905,
-      "rank": 13,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 332032,
-      "num": 332032,
-      "word": "动画版的一起来看流星雨",
-      "onboard_time": 1665066805,
-      "rank": 20,
-      "category": "动漫,影视"
     },
     {
       "raw_hot": 330904,
@@ -851,6 +851,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 239438,
+      "num": 239438,
+      "word": "清清虽呆但帅",
+      "onboard_time": 1665069746,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 237135,
       "num": 164627,
       "word": "3名男孩无视劝阻向马路中央扔瓶子",
@@ -971,6 +979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 210147,
+      "num": 210147,
+      "word": "这是中国人国庆独有的浪漫",
+      "onboard_time": 1665067044,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208633,
       "num": 208633,
       "word": "村民婚宴前夕乡亲自带菜刀帮做饭",
@@ -1051,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193015,
+      "num": 193015,
+      "word": "KPL中路天花板清融",
+      "onboard_time": 1665070465,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 191452,
       "num": 191452,
       "word": "女生走路玩手机撞电线杆额头鼓包",
@@ -1081,6 +1105,14 @@
       "onboard_time": 1665056005,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188094,
+      "num": 188094,
+      "word": "你养猫猫的原因是什么",
+      "onboard_time": 1665069205,
+      "rank": 41,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 181321,
@@ -1163,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171696,
+      "num": 171696,
+      "word": "这就是被食堂阿姨关照的幸福",
+      "onboard_time": 1665068724,
+      "rank": 34,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 170587,
       "num": 164710,
       "word": "昆仑神宫 九层妖楼",
@@ -1219,14 +1259,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 160691,
-      "num": 160691,
-      "word": "这是中国人国庆独有的浪漫",
-      "onboard_time": 1665067044,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160414,
       "num": 160414,
       "word": "街舞5队长嘉宾battle大联欢",
@@ -1249,6 +1281,14 @@
       "onboard_time": 1665046225,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156150,
+      "num": 156150,
+      "word": "你追过的烧脑剧综",
+      "onboard_time": 1665069084,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 152530,
@@ -1281,14 +1321,6 @@
       "onboard_time": 1665039923,
       "rank": 20,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 150717,
-      "num": 150717,
-      "word": "你追过的烧脑剧综",
-      "onboard_time": 1665069084,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 148084,
@@ -1411,14 +1443,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 126490,
-      "num": 126490,
-      "word": "这就是被食堂阿姨关照的幸福",
-      "onboard_time": 1665068724,
-      "rank": 34,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 126045,
       "num": 126045,
       "word": "周笔畅密逃4画风逐渐跑偏",
@@ -1433,6 +1457,14 @@
       "onboard_time": 1665042565,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124091,
+      "num": 124091,
+      "word": "打野的尽头是一片海",
+      "onboard_time": 1665070344,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 120125,
@@ -1595,14 +1627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 101591,
-      "num": 101591,
-      "word": "清清虽呆但帅",
-      "onboard_time": 1665069746,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 100825,
       "num": 100825,
       "word": "英语让一家人变得生疏",
@@ -1617,14 +1641,6 @@
       "onboard_time": 1664983044,
       "rank": 25,
       "category": "动漫,社会新闻"
-    },
-    {
-      "raw_hot": 100682,
-      "num": 100682,
-      "word": "你养猫猫的原因是什么",
-      "onboard_time": 1665069205,
-      "rank": 41,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 99922,
@@ -1769,6 +1785,14 @@
       "onboard_time": 1665049584,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 74161,
+      "num": 74161,
+      "word": "环卫阿姨买汤老板不收钱优先做",
+      "onboard_time": 1665070765,
+      "rank": 45,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 72862,
