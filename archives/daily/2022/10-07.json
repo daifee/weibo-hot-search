@@ -1,6 +1,6 @@
 {
   "startTime": 1665074398460,
-  "endTime": 1665099176337,
+  "endTime": 1665100192267,
   "band_list": [
     {
       "raw_hot": 1873478,
@@ -11,8 +11,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 792880,
-      "num": 792880,
+      "raw_hot": 927065,
+      "num": 927065,
       "word": "男子不用洗发水从秃顶到满头黑发",
       "onboard_time": 1665060145,
       "rank": 3,
@@ -33,6 +33,22 @@
       "onboard_time": 1665068905,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 452794,
+      "num": 184541,
+      "word": "泰国幼儿园枪击案已造成34死",
+      "onboard_time": 1665098477,
+      "rank": 20,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 416734,
+      "num": 416734,
+      "word": "秋裤并不是越紧身的越保暖",
+      "onboard_time": 1665086050,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 411026,
@@ -59,6 +75,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 318686,
+      "num": 318686,
+      "word": "冷雨夜男子怕违章高速抛下妻子",
+      "onboard_time": 1665055584,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 318587,
       "num": 318587,
       "word": "动画版的一起来看流星雨",
@@ -73,22 +97,6 @@
       "onboard_time": 1665069746,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 310819,
-      "num": 310819,
-      "word": "秋裤并不是越紧身的越保暖",
-      "onboard_time": 1665086050,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 286433,
-      "num": 286433,
-      "word": "冷雨夜男子怕违章高速抛下妻子",
-      "onboard_time": 1665055584,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 271972,
@@ -107,8 +115,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 223039,
-      "num": 223039,
+      "raw_hot": 252058,
+      "num": 252058,
       "word": "小孩飞机上蹦跳家长在旁无动于衷",
       "onboard_time": 1665089110,
       "rank": 49,
@@ -147,6 +155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 172298,
+      "num": 172298,
+      "word": "下周江苏可能出现初霜冻",
+      "onboard_time": 1665087671,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171941,
       "num": 171941,
       "word": "懒人瘦腿真的很简单",
@@ -163,11 +179,11 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 169821,
-      "num": 169821,
-      "word": "下周江苏可能出现初霜冻",
-      "onboard_time": 1665087671,
-      "rank": 40,
+      "raw_hot": 157626,
+      "num": 157626,
+      "word": "中国建造登上11国纸币",
+      "onboard_time": 1665087012,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -187,6 +203,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 145808,
+      "num": 145808,
+      "word": "退伍军人6岁儿子公园踢正步",
+      "onboard_time": 1665089709,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143183,
       "num": 143183,
       "word": "这就是被食堂阿姨关照的幸福",
@@ -203,19 +227,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136250,
-      "num": 136250,
-      "word": "退伍军人6岁儿子公园踢正步",
-      "onboard_time": 1665089709,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 132075,
-      "num": 132075,
-      "word": "中国建造登上11国纸币",
-      "onboard_time": 1665087012,
-      "rank": 38,
+      "raw_hot": 134661,
+      "num": 134661,
+      "word": "北京昌平初步判定密接49人",
+      "onboard_time": 1665087072,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -227,11 +243,27 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118865,
-      "num": 118865,
-      "word": "北京昌平初步判定密接49人",
-      "onboard_time": 1665087072,
-      "rank": 47,
+      "raw_hot": 128016,
+      "num": 128016,
+      "word": "北京近期14例感染者轨迹一览",
+      "onboard_time": 1665090311,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123358,
+      "num": 123358,
+      "word": "8日起新一轮冷空气来了",
+      "onboard_time": 1665097334,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118920,
+      "num": 118920,
+      "word": "父母得知儿女回家深夜门口等待",
+      "onboard_time": 1665061703,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -243,11 +275,35 @@
       "category": "影视"
     },
     {
+      "raw_hot": 117238,
+      "num": 117238,
+      "word": "梅西确认最后一次参加世界杯",
+      "onboard_time": 1665099437,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 112669,
+      "num": 112669,
+      "word": "eStar花海",
+      "onboard_time": 1665098896,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 109360,
       "num": 109360,
       "word": "这是中国人国庆独有的浪漫",
       "onboard_time": 1665067044,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104057,
+      "num": 104057,
+      "word": "男子对着隔壁邻居家阳台呲水",
+      "onboard_time": 1665083412,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -259,12 +315,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 103029,
-      "num": 103029,
-      "word": "父母得知儿女回家深夜门口等待",
-      "onboard_time": 1665061703,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 102467,
+      "num": 102467,
+      "word": "52岁交警连续高强度工作累倒在一线",
+      "onboard_time": 1665088331,
+      "rank": 44,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 102431,
@@ -283,28 +339,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 96072,
-      "num": 95715,
-      "word": "泰国幼儿园枪击案已造成34死",
-      "onboard_time": 1665098477,
-      "rank": 20,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 95935,
-      "num": 95935,
-      "word": "北京近期14例感染者轨迹一览",
-      "onboard_time": 1665090311,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 94184,
-      "num": 94184,
-      "word": "52岁交警连续高强度工作累倒在一线",
-      "onboard_time": 1665088331,
-      "rank": 44,
-      "category": "社会正能量"
+      "raw_hot": 99169,
+      "num": 99169,
+      "word": "就想问能不能不上班",
+      "onboard_time": 1665052166,
+      "rank": 37,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 92724,
@@ -323,12 +363,44 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 89389,
-      "num": 89389,
-      "word": "男子对着隔壁邻居家阳台呲水",
-      "onboard_time": 1665083412,
-      "rank": 43,
+      "raw_hot": 86648,
+      "num": 86648,
+      "word": "去过北京朝阳这处公共卫生间人员请上报",
+      "onboard_time": 1665089770,
+      "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85752,
+      "num": 85752,
+      "word": "清融 六冠中单",
+      "onboard_time": 1665099558,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 83786,
+      "num": 83786,
+      "word": "陆炎剖丹牺牲",
+      "onboard_time": 1665058884,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 82748,
+      "num": 82748,
+      "word": "奥莫尼亚2比3曼联",
+      "onboard_time": 1665099136,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 82336,
+      "num": 82336,
+      "word": "中国女排对阵荷兰女排",
+      "onboard_time": 1665079334,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 82285,
@@ -352,30 +424,6 @@
       "word": "家人驱车25小时看望远嫁9年女儿",
       "onboard_time": 1665052943,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 76180,
-      "num": 76180,
-      "word": "中国女排对阵荷兰女排",
-      "onboard_time": 1665079334,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 75665,
-      "num": 75665,
-      "word": "8日起新一轮冷空气来了",
-      "onboard_time": 1665097334,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 75640,
-      "num": 75640,
-      "word": "去过北京朝阳这处公共卫生间人员请上报",
-      "onboard_time": 1665089770,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -403,36 +451,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 71654,
-      "num": 71654,
-      "word": "就想问能不能不上班",
-      "onboard_time": 1665052166,
-      "rank": 37,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 70409,
       "num": 70409,
       "word": "朴灿烈唱Tomorrow",
       "onboard_time": 1665061525,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 70224,
-      "num": 31471,
-      "word": "奥莫尼亚2比3曼联",
-      "onboard_time": 1665099136,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 69347,
-      "num": 69347,
-      "word": "陆炎剖丹牺牲",
-      "onboard_time": 1665058884,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 64466,
@@ -467,6 +491,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 61421,
+      "num": 61421,
+      "word": "国庆假期最后一天",
+      "onboard_time": 1665098414,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58863,
       "num": 58863,
       "word": "节后上班第一天冷空气将再发货",
@@ -491,22 +523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 51477,
-      "num": 51477,
-      "word": "eStar花海",
-      "onboard_time": 1665098896,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 51076,
-      "num": 51076,
-      "word": "国庆假期最后一天",
-      "onboard_time": 1665098414,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 43601,
       "num": 43601,
       "word": "刘宇国风大典柳叶刀舞台",
@@ -520,6 +536,14 @@
       "word": "听到开饭猫咪有多兴奋",
       "onboard_time": 1665064645,
       "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 42136,
+      "num": 42136,
+      "word": "当猫咪看到主人回家",
+      "onboard_time": 1665085331,
+      "rank": 49,
       "category": "幽默"
     },
     {
@@ -537,14 +561,6 @@
       "onboard_time": 1665069324,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 40343,
-      "num": 40343,
-      "word": "当猫咪看到主人回家",
-      "onboard_time": 1665085331,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 40303,
@@ -595,7 +611,7 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 7216,
+      "raw_hot": 7685,
       "num": 610325,
       "word": "太空视角俯瞰祖国大江南北",
       "onboard_time": 1665029662,
@@ -628,6 +644,9 @@
     },
     {
       "word": "#多机位打开国庆节氛围感#"
+    },
+    {
+      "word": "#中国传统文化是穿越时空的宝藏#"
     }
   ]
 }
