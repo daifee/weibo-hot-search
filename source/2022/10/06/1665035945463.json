@@ -1,0 +1,410 @@
+{
+  "runTime": 1665035945463,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2036065,
+        "num": 2036065,
+        "word": "新冠病毒或对心脏DNA产生影响",
+        "onboard_time": 1665031580,
+        "rank": 0,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 736768,
+        "num": 736768,
+        "word": "女子买煎饼加料加出下颌关节炎",
+        "onboard_time": 1665027503,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76172,
+        "num": 726655,
+        "word": "太空视角俯瞰祖国大江南北",
+        "onboard_time": 1665029662,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 716741,
+        "num": 716741,
+        "word": "教资报考人数10年翻66倍",
+        "onboard_time": 1665032542,
+        "rank": 3,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 673340,
+        "num": 673340,
+        "word": "陈奕迅演唱会",
+        "onboard_time": 1665027382,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 400656,
+        "num": 400656,
+        "word": "萧无敌消失了",
+        "onboard_time": 1665027683,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 392157,
+        "num": 392157,
+        "word": "第一次见这么贵气的猫猫",
+        "onboard_time": 1665027923,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 384643,
+        "num": 384643,
+        "word": "近九成大学生支持开设恋爱课",
+        "onboard_time": 1665023963,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 326813,
+        "num": 326813,
+        "word": "特警捂枪口与女孩合影细节好戳",
+        "onboard_time": 1665022822,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295113,
+        "num": 295113,
+        "word": "小沈阳工地搬砖好像在演我",
+        "onboard_time": 1665033505,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 478135,
+        "num": 289969,
+        "word": "华春莹连发13张图宣传中国制造",
+        "onboard_time": 1665030682,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422707,
+        "num": 283462,
+        "word": "刘国梁获任国际乒联第一副主席",
+        "onboard_time": 1665033627,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268904,
+        "num": 268904,
+        "word": "追梦格林道歉",
+        "onboard_time": 1665029602,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263723,
+        "num": 263723,
+        "word": "4只狗崽暴雨天被困狗妈狂吠求救",
+        "onboard_time": 1665028462,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212745,
+        "num": 212745,
+        "word": "我们的歌第四季B组阵容猜测",
+        "onboard_time": 1665033142,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200142,
+        "num": 200142,
+        "word": "男子获56万拆迁款前妻分走近一半",
+        "onboard_time": 1665018141,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194900,
+        "num": 194900,
+        "word": "王俊凯万里归途票房破9亿",
+        "onboard_time": 1665022883,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183485,
+        "num": 183485,
+        "word": "量子纠缠",
+        "onboard_time": 1664972303,
+        "rank": 17,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 181479,
+        "num": 181479,
+        "word": "大妈打天价防癌针被骗21万",
+        "onboard_time": 1665023064,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 576685,
+        "num": 180504,
+        "word": "妇产科主任藏匿婴儿私自喂养",
+        "onboard_time": 1665023484,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173748,
+        "num": 173748,
+        "word": "成都火车北站将停运改造",
+        "onboard_time": 1665028162,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169655,
+        "num": 169655,
+        "word": "村民婚宴前夕乡亲自带菜刀帮做饭",
+        "onboard_time": 1665028823,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159018,
+        "num": 159018,
+        "word": "詹姆斯半场23分",
+        "onboard_time": 1665032302,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153950,
+        "num": 153950,
+        "word": "西安人的羽绒服可以穿上了",
+        "onboard_time": 1665024382,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151578,
+        "num": 151578,
+        "word": "张雨绮现场吃瓜胡八一雪莉杨",
+        "onboard_time": 1665034524,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146788,
+        "num": 146788,
+        "word": "刘德华赞万里归途很震撼",
+        "onboard_time": 1665029901,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141259,
+        "num": 141259,
+        "word": "吴克群做队长好像经纪人",
+        "onboard_time": 1665030922,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136823,
+        "num": 136823,
+        "word": "张家界疫情防控",
+        "onboard_time": 1665025762,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135036,
+        "num": 135036,
+        "word": "任嘉伦李沁请君收官大婚剧照",
+        "onboard_time": 1665025942,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129980,
+        "num": 129980,
+        "word": "民警抱娃就医一口气爬4楼后晕厥",
+        "onboard_time": 1665028041,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 133625,
+        "num": 129782,
+        "word": "张彬彬的演技",
+        "onboard_time": 1665023422,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126053,
+        "num": 126053,
+        "word": "孩子躺地上耍赖妈妈淡定玩手机",
+        "onboard_time": 1665033984,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125536,
+        "num": 125536,
+        "word": "泰迪欺负小猫后被猫妈妈抓破鼻子",
+        "onboard_time": 1665034883,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124323,
+        "num": 124323,
+        "word": "王嘉尔10个月18封",
+        "onboard_time": 1664981302,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 105726,
+        "num": 105726,
+        "word": "10月5日新增本土无症状1005例",
+        "onboard_time": 1665019342,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105552,
+        "num": 105552,
+        "word": "百岁老人寿宴55名子孙排队贺寿",
+        "onboard_time": 1665025464,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102933,
+        "num": 102933,
+        "word": "95后美发世界冠军说每人都能成工匠",
+        "onboard_time": 1665034345,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101483,
+        "num": 101483,
+        "word": "爷爷奶奶的偏爱图鉴",
+        "onboard_time": 1665026723,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99713,
+        "num": 99713,
+        "word": "教育部鼓励高校加强恋爱心理教育",
+        "onboard_time": 1665019042,
+        "rank": 38,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 99284,
+        "num": 99284,
+        "word": "3类人群不适合秋冻",
+        "onboard_time": 1665012737,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96416,
+        "num": 96416,
+        "word": "春捂秋冻一般以15摄氏度为标准",
+        "onboard_time": 1665024562,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91071,
+        "num": 91071,
+        "word": "男子酒驾冲卡撞飞交警称撞死赔命",
+        "onboard_time": 1665021382,
+        "rank": 41,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 85617,
+        "num": 85617,
+        "word": "为什么要秋冻",
+        "onboard_time": 1665025160,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76414,
+        "num": 76414,
+        "word": "画家16岁开始画虎画了近60年",
+        "onboard_time": 1665018680,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73762,
+        "num": 73762,
+        "word": "海天味业参与起草酱油行业现行标准",
+        "onboard_time": 1665014659,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68689,
+        "num": 68689,
+        "word": "中国侨网评万里归途",
+        "onboard_time": 1665026962,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 61996,
+        "num": 61996,
+        "word": "太阳vs湖人",
+        "onboard_time": 1665023242,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60962,
+        "num": 60962,
+        "word": "Minnie双丸子头造型",
+        "onboard_time": 1664985083,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 58186,
+        "num": 58186,
+        "word": "梁靖康忠犬男友角色适配度",
+        "onboard_time": 1665035845,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 57586,
+        "num": 57586,
+        "word": "气温骤降女子裹棉被逛景区",
+        "onboard_time": 1665021201,
+        "rank": 49,
+        "category": "旅游,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光#"
+    }
+  }
+}

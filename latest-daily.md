@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/06 00:55:41 ~ 2022/10/06 13:40:28
+本榜单时间：2022/10/06 00:55:41 ~ 2022/10/06 13:59:05
 </p>
 </blockquote>
 <p>
@@ -28,7 +28,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E6%88%96%E5%AF%B9%E5%BF%83%E8%84%8FDNA%E4%BA%A7%E7%94%9F%E5%BD%B1%E5%93%8D%23" target="weibo">
-新冠病毒或对心脏DNA产生影响（热度：2015050）
+新冠病毒或对心脏DNA产生影响（热度：2036065）
 </a>
 </li>
 
@@ -77,6 +77,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E8%AD%A6%E6%8D%82%E6%9E%AA%E5%8F%A3%E4%B8%8E%E5%A5%B3%E5%AD%A9%E5%90%88%E5%BD%B1%E7%BB%86%E8%8A%82%E5%A5%BD%E6%88%B3%23" target="weibo">
 特警捂枪口与女孩合影细节好戳（热度：738926）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%B5%84%E6%8A%A5%E8%80%83%E4%BA%BA%E6%95%B010%E5%B9%B4%E7%BF%BB66%E5%80%8D%23" target="weibo">
+教资报考人数10年翻66倍（热度：716741）
 </a>
 </li>
 
@@ -141,8 +147,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%B5%84%E6%8A%A5%E8%80%83%E4%BA%BA%E6%95%B010%E5%B9%B4%E7%BF%BB66%E5%80%8D%23" target="weibo">
-教资报考人数10年翻66倍（热度：504732）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%98%A5%E8%8E%B9%E8%BF%9E%E5%8F%9113%E5%BC%A0%E5%9B%BE%E5%AE%A3%E4%BC%A0%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%23" target="weibo">
+华春莹连发13张图宣传中国制造（热度：478135）
 </a>
 </li>
 
@@ -195,6 +201,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%9B%BD%E6%A2%81%E8%8E%B7%E4%BB%BB%E5%9B%BD%E9%99%85%E4%B9%92%E8%81%94%E7%AC%AC%E4%B8%80%E5%89%AF%E4%B8%BB%E5%B8%AD%23" target="weibo">
+刘国梁获任国际乒联第一副主席（热度：422707）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B8%E6%AF%8D%E6%88%8A%E9%BC%8E%E5%85%B6%E5%AE%9E%E5%8F%AB%E5%90%8E%E6%AF%8D%E6%88%8A%E9%BC%8E%23" target="weibo">
 司母戊鼎其实叫后母戊鼎（热度：399407）
 </a>
@@ -203,12 +215,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%BD%AC%E5%BD%AC%E7%9A%84%E6%BC%94%E6%8A%80%23" target="weibo">
 张彬彬的演技（热度：393913）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%98%A5%E8%8E%B9%E8%BF%9E%E5%8F%9113%E5%BC%A0%E5%9B%BE%E5%AE%A3%E4%BC%A0%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%23" target="weibo">
-华春莹连发13张图宣传中国制造（热度：380418）
 </a>
 </li>
 
@@ -237,6 +243,12 @@ Minnie双丸子头造型（热度：379333）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%B2%88%E9%98%B3%E5%B7%A5%E5%9C%B0%E6%90%AC%E7%A0%96%E5%A5%BD%E5%83%8F%E5%9C%A8%E6%BC%94%E6%88%91%23" target="weibo">
+小沈阳工地搬砖好像在演我（热度：295113）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%BD%E6%A2%A6%E6%A0%BC%E6%9E%97%E6%99%AE%E5%B0%94%E8%AE%AD%E7%BB%83%E5%8F%91%E7%94%9F%E5%86%B2%E7%AA%81%23" target="weibo">
 追梦格林普尔训练发生冲突（热度：291683）
 </a>
@@ -251,12 +263,6 @@ Minnie双丸子头造型（热度：379333）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%85%92%E9%A9%BE%E5%86%B2%E5%8D%A1%E6%92%9E%E9%A3%9E%E4%BA%A4%E8%AD%A6%E7%A7%B0%E6%92%9E%E6%AD%BB%E8%B5%94%E5%91%BD%23" target="weibo">
 男子酒驾冲卡撞飞交警称撞死赔命（热度：286180）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%9B%BD%E6%A2%81%E8%8E%B7%E4%BB%BB%E5%9B%BD%E9%99%85%E4%B9%92%E8%81%94%E7%AC%AC%E4%B8%80%E5%89%AF%E4%B8%BB%E5%B8%AD%23" target="weibo">
-刘国梁获任国际乒联第一副主席（热度：281377）
 </a>
 </li>
 
@@ -441,6 +447,12 @@ Minnie双丸子头造型（热度：379333）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E7%BB%AE%E7%8E%B0%E5%9C%BA%E5%90%83%E7%93%9C%E8%83%A1%E5%85%AB%E4%B8%80%E9%9B%AA%E8%8E%89%E6%9D%A8%23" target="weibo">
+张雨绮现场吃瓜胡八一雪莉杨（热度：151578）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E5%9B%BD%E5%BA%86%E7%BB%93%E5%A9%9A%E6%9C%89%E5%A4%9A%E5%BF%99%23" target="weibo">
 这个国庆结婚有多忙（热度：148084）
 </a>
@@ -483,8 +495,14 @@ Minnie双丸子头造型（热度：379333）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%B2%88%E9%98%B3%E5%B7%A5%E5%9C%B0%E6%90%AC%E7%A0%96%E5%A5%BD%E5%83%8F%E5%9C%A8%E6%BC%94%E6%88%91%23" target="weibo">
-小沈阳工地搬砖好像在演我（热度：133303）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E8%BA%BA%E5%9C%B0%E4%B8%8A%E8%80%8D%E8%B5%96%E5%A6%88%E5%A6%88%E6%B7%A1%E5%AE%9A%E7%8E%A9%E6%89%8B%E6%9C%BA%23" target="weibo">
+孩子躺地上耍赖妈妈淡定玩手机（热度：126053）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E8%BF%AA%E6%AC%BA%E8%B4%9F%E5%B0%8F%E7%8C%AB%E5%90%8E%E8%A2%AB%E7%8C%AB%E5%A6%88%E5%A6%88%E6%8A%93%E7%A0%B4%E9%BC%BB%E5%AD%90%23" target="weibo">
+泰迪欺负小猫后被猫妈妈抓破鼻子（热度：125536）
 </a>
 </li>
 
@@ -539,6 +557,12 @@ Minnie双丸子头造型（热度：379333）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E6%B8%B8%E5%AE%A2%E8%A2%AB%E6%A2%85%E8%8A%B1%E9%B9%BF%E8%B8%A2%E8%84%B8%23" target="weibo">
 景区回应游客被梅花鹿踢脸（热度：102967）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2395%E5%90%8E%E7%BE%8E%E5%8F%91%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%E8%AF%B4%E6%AF%8F%E4%BA%BA%E9%83%BD%E8%83%BD%E6%88%90%E5%B7%A5%E5%8C%A0%23" target="weibo">
+95后美发世界冠军说每人都能成工匠（热度：102933）
 </a>
 </li>
 
@@ -615,26 +639,8 @@ Minnie双丸子头造型（热度：379333）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E7%BB%AE%E7%8E%B0%E5%9C%BA%E5%90%83%E7%93%9C%E8%83%A1%E5%85%AB%E4%B8%80%E9%9B%AA%E8%8E%89%E6%9D%A8%23" target="weibo">
-张雨绮现场吃瓜胡八一雪莉杨（热度：84652）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E8%BA%BA%E5%9C%B0%E4%B8%8A%E8%80%8D%E8%B5%96%E5%A6%88%E5%A6%88%E6%B7%A1%E5%AE%9A%E7%8E%A9%E6%89%8B%E6%9C%BA%23" target="weibo">
-孩子躺地上耍赖妈妈淡定玩手机（热度：81179）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99%E8%91%A1%E8%90%84%E7%89%99%E4%B9%8C%E5%85%8B%E5%85%B0%E8%81%94%E5%90%88%E7%94%B3%E5%8A%9E2030%E4%B8%96%E7%95%8C%E6%9D%AF%23" target="weibo">
 西班牙葡萄牙乌克兰联合申办2030世界杯（热度：77656）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2395%E5%90%8E%E7%BE%8E%E5%8F%91%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%E8%AF%B4%E6%AF%8F%E4%BA%BA%E9%83%BD%E8%83%BD%E6%88%90%E5%B7%A5%E5%8C%A0%23" target="weibo">
-95后美发世界冠军说每人都能成工匠（热度：77391）
 </a>
 </li>
 
@@ -645,14 +651,14 @@ Minnie双丸子头造型（热度：379333）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E6%B5%B7%E5%A4%A9%E5%91%B3%E4%B8%9A%E5%90%A6%E8%AE%A4%E5%8F%8C%E6%A0%87%23" target="weibo">
-如何看海天味业否认双标（热度：72862）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E7%A9%BA%E8%A7%86%E8%A7%92%E4%BF%AF%E7%9E%B0%E7%A5%96%E5%9B%BD%E5%A4%A7%E6%B1%9F%E5%8D%97%E5%8C%97%23" target="weibo">
+太空视角俯瞰祖国大江南北（热度：76172）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E7%A9%BA%E8%A7%86%E8%A7%92%E4%BF%AF%E7%9E%B0%E7%A5%96%E5%9B%BD%E5%A4%A7%E6%B1%9F%E5%8D%97%E5%8C%97%23" target="weibo">
-太空视角俯瞰祖国大江南北（热度：71527）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E6%B5%B7%E5%A4%A9%E5%91%B3%E4%B8%9A%E5%90%A6%E8%AE%A4%E5%8F%8C%E6%A0%87%23" target="weibo">
+如何看海天味业否认双标（热度：72862）
 </a>
 </li>
 
@@ -671,6 +677,12 @@ Minnie双丸子头造型（热度：379333）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%8C%AB%E4%B8%8A%E8%BE%88%E5%AD%90%E6%80%95%E6%98%AF%E4%B8%AA%E8%B6%85%E6%A8%A1%E5%90%A7%23" target="weibo">
 这猫上辈子怕是个超模吧（热度：63035）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E9%9D%96%E5%BA%B7%E5%BF%A0%E7%8A%AC%E7%94%B7%E5%8F%8B%E8%A7%92%E8%89%B2%E9%80%82%E9%85%8D%E5%BA%A6%23" target="weibo">
+梁靖康忠犬男友角色适配度（热度：58186）
 </a>
 </li>
 
