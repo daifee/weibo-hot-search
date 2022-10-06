@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665077827842,
+  "endTime": 1665078773452,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -3059,6 +3059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 383039,
+      "num": 383039,
+      "word": "湖南疾控对健康码变黄的权威解答",
+      "onboard_time": 1665074479,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 382253,
       "num": 382253,
       "word": "河南卫视神仙节目上新了",
@@ -3497,14 +3505,6 @@
       "onboard_time": 1664776283,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 327004,
-      "num": 327004,
-      "word": "湖南疾控对健康码变黄的权威解答",
-      "onboard_time": 1665074479,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 325734,
@@ -9857,6 +9857,22 @@
       "onboard_time": 1664561715,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 18882,
+      "num": 18882,
+      "word": "极品飞车不羁",
+      "onboard_time": 1665078075,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 17479,
+      "num": 17479,
+      "word": "这鳄鱼好像也不是那么可怕",
+      "onboard_time": 1665078674,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 13206,
