@@ -1,6 +1,6 @@
 {
   "startTime": 1665074398460,
-  "endTime": 1665092540015,
+  "endTime": 1665095199139,
   "band_list": [
     {
       "raw_hot": 1873478,
@@ -307,6 +307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 71159,
+      "num": 43873,
+      "word": "小孩飞机上蹦跳家长在旁无动于衷",
+      "onboard_time": 1665089110,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71129,
       "num": 71129,
       "word": "就想问能不能不上班",
@@ -323,6 +331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 66135,
+      "num": 66135,
+      "word": "下周江苏可能出现初霜冻",
+      "onboard_time": 1665087671,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63644,
       "num": 63644,
       "word": "拼车进京一家四口均感染",
@@ -337,6 +353,14 @@
       "onboard_time": 1665064645,
       "rank": 40,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 63319,
+      "num": 34448,
+      "word": "北京近期14例感染者轨迹一览",
+      "onboard_time": 1665090311,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 62684,
@@ -363,12 +387,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56611,
+      "num": 42933,
+      "word": "秋裤并不是越紧身的越保暖",
+      "onboard_time": 1665086050,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56434,
       "num": 56434,
       "word": "飞狐外传大结局",
       "onboard_time": 1665075017,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 54490,
+      "num": 42216,
+      "word": "退伍军人6岁儿子公园踢正步",
+      "onboard_time": 1665089709,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52597,
@@ -396,7 +436,7 @@
     },
     {
       "raw_hot": 41840,
-      "num": 21912,
+      "num": 26839,
       "word": "北京昌平初步判定密接49人",
       "onboard_time": 1665087072,
       "rank": 47,
@@ -419,14 +459,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 40362,
-      "num": 40362,
-      "word": "下周江苏可能出现初霜冻",
-      "onboard_time": 1665087671,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 40303,
       "num": 40303,
       "word": "2小孩地铁内踩座位拉扶手荡秋千",
@@ -435,12 +467,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 37972,
-      "num": 30827,
-      "word": "秋裤并不是越紧身的越保暖",
-      "onboard_time": 1665086050,
-      "rank": 23,
+      "raw_hot": 39701,
+      "num": 39701,
+      "word": "中国建造登上11国纸币",
+      "onboard_time": 1665087012,
+      "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38944,
+      "num": 38944,
+      "word": "52岁交警连续高强度工作累倒在一线",
+      "onboard_time": 1665088331,
+      "rank": 44,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 33059,
@@ -451,51 +491,27 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 28606,
-      "num": 28606,
+      "raw_hot": 29648,
+      "num": 29648,
       "word": "男子对着隔壁邻居家阳台呲水",
       "onboard_time": 1665083412,
       "rank": 43,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28382,
-      "num": 28382,
-      "word": "小孩飞机上蹦跳家长在旁无动于衷",
-      "onboard_time": 1665089110,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28110,
-      "num": 28110,
-      "word": "52岁交警连续高强度工作累倒在一线",
-      "onboard_time": 1665088331,
-      "rank": 44,
-      "category": "社会正能量"
-    },
-    {
-      "raw_hot": 27696,
-      "num": 27696,
-      "word": "中国建造登上11国纸币",
-      "onboard_time": 1665087012,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 26682,
-      "num": 21754,
+      "num": 25884,
       "word": "去过北京朝阳这处公共卫生间人员请上报",
       "onboard_time": 1665089770,
       "rank": 42,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23330,
-      "num": 21418,
-      "word": "北京近期14例感染者轨迹一览",
-      "onboard_time": 1665090311,
-      "rank": 43,
+      "raw_hot": 25240,
+      "num": 25240,
+      "word": "云南抚仙湖现青鱼阵奇观",
+      "onboard_time": 1665090250,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -505,14 +521,6 @@
       "onboard_time": 1665078075,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 20804,
-      "num": 20804,
-      "word": "退伍军人6岁儿子公园踢正步",
-      "onboard_time": 1665089709,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17849,
@@ -531,12 +539,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 12100,
-      "num": 12100,
-      "word": "云南抚仙湖现青鱼阵奇观",
-      "onboard_time": 1665090250,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 11533,
+      "num": 11533,
+      "word": "面对杠精你会沉默还是反击",
+      "onboard_time": 1665091151,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 10029,
@@ -545,14 +553,6 @@
       "onboard_time": 1665082692,
       "rank": 48,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 8655,
-      "num": 8655,
-      "word": "面对杠精你会沉默还是反击",
-      "onboard_time": 1665091151,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 5897,
