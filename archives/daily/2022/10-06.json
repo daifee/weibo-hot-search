@@ -1,6 +1,6 @@
 {
   "startTime": 1664988941943,
-  "endTime": 1665049919178,
+  "endTime": 1665052185876,
   "band_list": [
     {
       "raw_hot": 3489698,
@@ -75,6 +75,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1282092,
+      "num": 1282092,
+      "word": "被迫在地铁上看了三部小说",
+      "onboard_time": 1665045865,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1280973,
       "num": 923699,
       "word": "男子获56万拆迁款前妻分走近一半",
@@ -83,19 +91,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1118124,
-      "num": 1118124,
-      "word": "被迫在地铁上看了三部小说",
-      "onboard_time": 1665045865,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1069587,
       "num": 1069587,
       "word": "大一新生宿舍里扮领导遇真领导",
       "onboard_time": 1665044304,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1060584,
+      "num": 1060584,
+      "word": "西安太冷冷冷冷了",
+      "onboard_time": 1665046765,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -120,14 +128,6 @@
       "word": "3类人群不适合秋冻",
       "onboard_time": 1665012737,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 785676,
-      "num": 785676,
-      "word": "西安太冷冷冷冷了",
-      "onboard_time": 1665046765,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -267,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 492762,
+      "num": 333948,
+      "word": "拼车进京一家四口均感染",
+      "onboard_time": 1665048983,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 484829,
       "num": 484829,
       "word": "新iPhone上手体验",
@@ -315,8 +323,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 453053,
-      "num": 371478,
+      "raw_hot": 460427,
+      "num": 460427,
       "word": "泰国东北部突发枪击",
       "onboard_time": 1665047004,
       "rank": 10,
@@ -457,6 +465,14 @@
       "onboard_time": 1664980584,
       "rank": 4,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 308598,
+      "num": 308598,
+      "word": "印度队找国乒签名",
+      "onboard_time": 1665049226,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 300019,
@@ -771,6 +787,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 174038,
+      "num": 174038,
+      "word": "女生留校过节家人背猫带零食看望",
+      "onboard_time": 1665049105,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173919,
       "num": 173919,
       "word": "民警抱娃就医一口气爬4楼后晕厥",
@@ -803,6 +827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 168681,
+      "num": 168681,
+      "word": "当你的妈妈是个搞笑女",
+      "onboard_time": 1665049584,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 167702,
       "num": 167702,
       "word": "詹姆斯半场23分",
@@ -832,6 +864,14 @@
       "word": "街舞5队长嘉宾battle大联欢",
       "onboard_time": 1665036683,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 158777,
+      "num": 158777,
+      "word": "刘雨昕的popping是这样练成的",
+      "onboard_time": 1665050904,
+      "rank": 20,
       "category": "综艺"
     },
     {
@@ -907,19 +947,19 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 134665,
+      "num": 134665,
+      "word": "王一博GQ概念封面",
+      "onboard_time": 1665051144,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 131462,
       "num": 131462,
       "word": "云海遇上丁达尔效应有多绝",
       "onboard_time": 1665044905,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 130669,
-      "num": 130669,
-      "word": "拼车进京一家四口均感染",
-      "onboard_time": 1665048983,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -944,14 +984,6 @@
       "word": "樊振东3比0德塞",
       "onboard_time": 1665042565,
       "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 123813,
-      "num": 123813,
-      "word": "印度队找国乒签名",
-      "onboard_time": 1665049226,
-      "rank": 27,
       "category": "体育"
     },
     {
@@ -985,6 +1017,14 @@
       "onboard_time": 1665045625,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114219,
+      "num": 114219,
+      "word": "幼儿园小朋友打篮球神走位",
+      "onboard_time": 1665049943,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113526,
@@ -1025,6 +1065,14 @@
       "onboard_time": 1665038723,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 109427,
+      "num": 109427,
+      "word": "2小孩地铁内踩座位拉扶手荡秋千",
+      "onboard_time": 1665050545,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107777,
@@ -1099,6 +1147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 98649,
+      "num": 98649,
+      "word": "万里归途独家幕后记录",
+      "onboard_time": 1665050964,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 95397,
       "num": 95397,
       "word": "水爷称自己上了乌克兰的死亡名单",
@@ -1155,6 +1211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 84035,
+      "num": 84035,
+      "word": "原来在东北还能这样吃包子",
+      "onboard_time": 1665052043,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 82377,
       "num": 82377,
       "word": "黄山和云海太配了",
@@ -1177,14 +1241,6 @@
       "onboard_time": 1664982145,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 76776,
-      "num": 76776,
-      "word": "女生留校过节家人背猫带零食看望",
-      "onboard_time": 1665049105,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 76567,
@@ -1211,20 +1267,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 74709,
+      "num": 74709,
+      "word": "总有人背着我偷偷进化",
+      "onboard_time": 1665050845,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 73448,
+      "num": 73448,
+      "word": "卫生院工作人员代预约HPV疫苗骗32万",
+      "onboard_time": 1665051385,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72862,
       "num": 72862,
       "word": "如何看海天味业否认双标",
       "onboard_time": 1665003550,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 72629,
-      "num": 72629,
-      "word": "当你的妈妈是个搞笑女",
-      "onboard_time": 1665049584,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 69347,
@@ -1313,6 +1377,14 @@
       "onboard_time": 1664978245,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 51804,
+      "num": 51804,
+      "word": "就想问能不能不上班",
+      "onboard_time": 1665052166,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 51032,
@@ -1540,6 +1612,9 @@
     },
     {
       "word": "#多机位打开国庆节氛围感#"
+    },
+    {
+      "word": "#中国传统文化是穿越时空的宝藏#"
     }
   ]
 }
