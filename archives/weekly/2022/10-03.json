@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1665060850682,
+  "endTime": 1665062807981,
   "band_list": [
     {
       "raw_hot": 5104220,
@@ -33,6 +33,14 @@
       "onboard_time": 1664764284,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2676178,
+      "num": 2676178,
+      "word": "到底是谁允许今天是6号的",
+      "onboard_time": 1665058403,
+      "rank": 1,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 2674618,
@@ -363,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1266163,
+      "num": 1266163,
+      "word": "男子不用洗发水从秃顶到满头黑发",
+      "onboard_time": 1665060145,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1260696,
       "num": 1260696,
       "word": "真的不要自我感动式吃苦",
@@ -553,14 +569,6 @@
       "onboard_time": 1664760501,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 900029,
-      "num": 900029,
-      "word": "到底是谁允许今天是6号的",
-      "onboard_time": 1665058403,
-      "rank": 1,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 897102,
@@ -859,6 +867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 678112,
+      "num": 678112,
+      "word": "请君大结局太好哭了",
+      "onboard_time": 1665058104,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 673954,
       "num": 673954,
       "word": "大学最后一课老师告诫学生接受平凡",
@@ -923,19 +939,19 @@
       "category": "国外要闻,财经"
     },
     {
-      "raw_hot": 625533,
-      "num": 625533,
-      "word": "请君大结局太好哭了",
-      "onboard_time": 1665058104,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
       "raw_hot": 625031,
       "num": 625031,
       "word": "王俊凯万里归途票房破9亿",
       "onboard_time": 1665022883,
       "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 623120,
+      "num": 623120,
+      "word": "王安宇在娱乐圈当运动员",
+      "onboard_time": 1665060685,
+      "rank": 10,
       "category": "影视"
     },
     {
@@ -1184,6 +1200,14 @@
       "word": "男子开特斯拉返乡堵到没电叫拖车",
       "onboard_time": 1664720005,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 531225,
+      "num": 531225,
+      "word": "爸妈争论问题6个月宝宝急的说话",
+      "onboard_time": 1665057265,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -1939,14 +1963,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 393695,
-      "num": 384808,
-      "word": "王安宇在娱乐圈当运动员",
-      "onboard_time": 1665060685,
-      "rank": 10,
-      "category": "影视"
-    },
-    {
       "raw_hot": 393427,
       "num": 393427,
       "word": "美经济学家直言北溪是美国炸的",
@@ -2051,14 +2067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 381925,
-      "num": 381925,
-      "word": "爸妈争论问题6个月宝宝急的说话",
-      "onboard_time": 1665057265,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 379333,
       "num": 182091,
       "word": "Minnie双丸子头造型",
@@ -2081,6 +2089,14 @@
       "onboard_time": 1664804365,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 375920,
+      "num": 375920,
+      "word": "陆炎剖丹牺牲",
+      "onboard_time": 1665058884,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 375131,
@@ -2233,6 +2249,14 @@
       "onboard_time": 1664796984,
       "rank": 37,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 348567,
+      "num": 348567,
+      "word": "万里归途票房破10亿",
+      "onboard_time": 1665061044,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 346836,
@@ -2427,6 +2451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 306400,
+      "num": 165457,
+      "word": "王一博练舞七宫格剧照",
+      "onboard_time": 1665062185,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 305575,
       "num": 305575,
       "word": "王俊凯万里归途票房破8亿海报",
@@ -2611,14 +2643,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 283163,
-      "num": 283163,
-      "word": "陆炎剖丹牺牲",
-      "onboard_time": 1665058884,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 281296,
       "num": 281296,
       "word": "新丽正午耀客柠萌待播剧汇总",
@@ -2673,6 +2697,14 @@
       "onboard_time": 1665034883,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273536,
+      "num": 273536,
+      "word": "孙颖莎3比0马托斯",
+      "onboard_time": 1665062243,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 273101,
@@ -3419,6 +3451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217995,
+      "num": 165383,
+      "word": "朴灿烈唱Tomorrow",
+      "onboard_time": 1665061525,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 217965,
       "num": 217965,
       "word": "67岁奶奶退休后演电影做模特",
@@ -3513,6 +3553,14 @@
       "onboard_time": 1664771362,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 209328,
+      "num": 165249,
+      "word": "两个人的小森林首部热度破万现偶剧",
+      "onboard_time": 1665062546,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 208633,
@@ -3784,6 +3832,14 @@
       "word": "万里归途后遗症",
       "onboard_time": 1664797282,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 187594,
+      "num": 133204,
+      "word": "小沈阳请君由笑转哭太丝滑了",
+      "onboard_time": 1665062726,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -4059,14 +4115,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 170078,
-      "num": 170078,
-      "word": "男子不用洗发水从秃顶到满头黑发",
-      "onboard_time": 1665060145,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169358,
       "num": 132327,
       "word": "央视重阳晚会",
@@ -4080,6 +4128,14 @@
       "word": "詹姆斯半场23分",
       "onboard_time": 1665032302,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 167659,
+      "num": 165170,
+      "word": "中国台北女团晋级四强",
+      "onboard_time": 1665061227,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -4321,6 +4377,14 @@
       "onboard_time": 1664950881,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152530,
+      "num": 133025,
+      "word": "虞美人好温柔",
+      "onboard_time": 1665060205,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 152183,
@@ -4995,6 +5059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117843,
+      "num": 117843,
+      "word": "这只猴子好懂事",
+      "onboard_time": 1665059604,
+      "rank": 39,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 117541,
       "num": 133353,
       "word": "男子景区开11家十元管饱饭店",
@@ -5443,12 +5515,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 97431,
-      "num": 97431,
-      "word": "这只猴子好懂事",
-      "onboard_time": 1665059604,
+      "raw_hot": 96938,
+      "num": 96938,
+      "word": "国乒女团晋级世乒赛4强",
+      "onboard_time": 1665061044,
       "rank": 39,
-      "category": "幽默,情感"
+      "category": "体育"
     },
     {
       "raw_hot": 95636,
@@ -5659,6 +5731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80521,
+      "num": 80521,
+      "word": "父母得知儿女回家深夜门口等待",
+      "onboard_time": 1665061703,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80356,
       "num": 80356,
       "word": "王艺迪3比0郑丽贤",
@@ -5699,6 +5779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 78461,
+      "num": 78461,
+      "word": "辽宁男篮vs深圳男篮",
+      "onboard_time": 1665062665,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78326,
       "num": 78326,
       "word": "王曼昱3比0郑爱新",
@@ -5713,6 +5801,14 @@
       "onboard_time": 1664887642,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 77819,
+      "num": 77819,
+      "word": "舍不得任嘉伦李沁请君",
+      "onboard_time": 1665056661,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 76567,
@@ -5732,7 +5828,7 @@
     },
     {
       "raw_hot": 76172,
-      "num": 1135634,
+      "num": 1198572,
       "word": "太空视角俯瞰祖国大江南北",
       "onboard_time": 1665029662,
       "rank": 2,
