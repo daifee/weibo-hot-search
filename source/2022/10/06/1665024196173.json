@@ -1,0 +1,410 @@
+{
+  "runTime": 1665024196173,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1354230,
+        "num": 1354230,
+        "word": "10月5日新增本土无症状1005例",
+        "onboard_time": 1665019342,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 846855,
+        "num": 846855,
+        "word": "教育部鼓励高校加强恋爱心理教育",
+        "onboard_time": 1665019042,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 10431,
+        "num": 643475,
+        "word": "多机位打开国庆节氛围感",
+        "onboard_time": 1664800944,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2089312,
+        "num": 642340,
+        "word": "量子纠缠",
+        "onboard_time": 1664972303,
+        "rank": 3,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 1044575,
+        "num": 634311,
+        "word": "男子获56万拆迁款前妻分走近一半",
+        "onboard_time": 1665018141,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 625031,
+        "num": 625031,
+        "word": "王俊凯万里归途票房破9亿",
+        "onboard_time": 1665022883,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 498347,
+        "num": 498347,
+        "word": "3类人群不适合秋冻",
+        "onboard_time": 1665012737,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476142,
+        "num": 476142,
+        "word": "画家16岁开始画虎画了近60年",
+        "onboard_time": 1665018680,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434335,
+        "num": 434335,
+        "word": "气温骤降女子裹棉被逛景区",
+        "onboard_time": 1665021201,
+        "rank": 8,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 423556,
+        "num": 423556,
+        "word": "喝咖啡是否会骨质疏松要看这两点",
+        "onboard_time": 1665017961,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460406,
+        "num": 421253,
+        "word": "王嘉尔10个月18封",
+        "onboard_time": 1664981302,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 367770,
+        "num": 367770,
+        "word": "海天味业参与起草酱油行业现行标准",
+        "onboard_time": 1665014659,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334759,
+        "num": 334759,
+        "word": "特警捂枪口与女孩合影细节好戳",
+        "onboard_time": 1665022822,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286180,
+        "num": 286180,
+        "word": "男子酒驾冲卡撞飞交警称撞死赔命",
+        "onboard_time": 1665021382,
+        "rank": 13,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 267288,
+        "num": 267288,
+        "word": "38岁新娘回应14岁儿子抱自己出嫁",
+        "onboard_time": 1664974044,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246922,
+        "num": 246922,
+        "word": "李沁请君被求婚的反应",
+        "onboard_time": 1665015860,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235187,
+        "num": 235187,
+        "word": "追梦格林普尔训练发生冲突",
+        "onboard_time": 1665019763,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234692,
+        "num": 234692,
+        "word": "司母戊鼎其实叫后母戊鼎",
+        "onboard_time": 1665013097,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213869,
+        "num": 213869,
+        "word": "长春新增本土无症状5例",
+        "onboard_time": 1665021022,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210048,
+        "num": 210048,
+        "word": "庞博十八岁的自己",
+        "onboard_time": 1664974765,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282860,
+        "num": 205944,
+        "word": "妇产科主任藏匿婴儿私自喂养",
+        "onboard_time": 1665023484,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201468,
+        "num": 201468,
+        "word": "广汉疫情防控",
+        "onboard_time": 1665021022,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177711,
+        "num": 177711,
+        "word": "会主动向伴侣坦白黑历史吗",
+        "onboard_time": 1665014298,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177496,
+        "num": 177496,
+        "word": "北京10月5日新增本土确诊2例",
+        "onboard_time": 1665016940,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168891,
+        "num": 168891,
+        "word": "近九成大学生支持开设恋爱课",
+        "onboard_time": 1665023963,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 168098,
+        "num": 168098,
+        "word": "大妈打天价防癌针被骗21万",
+        "onboard_time": 1665023064,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167889,
+        "num": 167889,
+        "word": "5岁女孩用儿童玩具钓上数条鱼",
+        "onboard_time": 1664986161,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165643,
+        "num": 165643,
+        "word": "拉伸完一下子就舒服了",
+        "onboard_time": 1665015681,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158195,
+        "num": 158195,
+        "word": "Minnie双丸子头造型",
+        "onboard_time": 1664985083,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148648,
+        "num": 148648,
+        "word": "昆仑神宫 九层妖楼",
+        "onboard_time": 1664983582,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146043,
+        "num": 146043,
+        "word": "女子耗时4天做甄嬛传立体手账",
+        "onboard_time": 1664995212,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145233,
+        "num": 145233,
+        "word": "如何惹怒一个养猫人",
+        "onboard_time": 1665014057,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134773,
+        "num": 134773,
+        "word": "猫咪凌晨电饭锅中熟睡搞懵主人",
+        "onboard_time": 1664980584,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131942,
+        "num": 131942,
+        "word": "太阳vs湖人",
+        "onboard_time": 1665023242,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131127,
+        "num": 131127,
+        "word": "张彬彬的演技",
+        "onboard_time": 1665023422,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121705,
+        "num": 121705,
+        "word": "妻子怀孕丈夫患妊娠伴随综合征孕吐",
+        "onboard_time": 1664967444,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117603,
+        "num": 117603,
+        "word": "女生走路玩手机撞电线杆额头鼓包",
+        "onboard_time": 1665003851,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113920,
+        "num": 113920,
+        "word": "强烈的不舍是分别的预兆吗",
+        "onboard_time": 1664977825,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113753,
+        "num": 113753,
+        "word": "3岁女儿手洗衣服称心疼妈妈",
+        "onboard_time": 1665002770,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109483,
+        "num": 109483,
+        "word": "当你年少时好上头",
+        "onboard_time": 1665015620,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 105315,
+        "num": 105315,
+        "word": "潘粤明是鬼吹灯最忙幕后",
+        "onboard_time": 1664985803,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 99922,
+        "num": 99922,
+        "word": "需要有一些浪费的时间",
+        "onboard_time": 1665021863,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99478,
+        "num": 99478,
+        "word": "脱口秀大会",
+        "onboard_time": 1664978783,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98879,
+        "num": 98879,
+        "word": "世界银行预测乌今年经济将萎缩35%",
+        "onboard_time": 1664998332,
+        "rank": 43,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 93992,
+        "num": 93992,
+        "word": "男子在爱心取水机前进货式取水",
+        "onboard_time": 1664994853,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92506,
+        "num": 92506,
+        "word": "欧洲暴发史上最大规模禽流感",
+        "onboard_time": 1664961323,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89696,
+        "num": 89696,
+        "word": "山东断崖式降温小伙披被子骑车",
+        "onboard_time": 1664980223,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89373,
+        "num": 89373,
+        "word": "孙悟空腾云驾雾视角看中国",
+        "onboard_time": 1665019763,
+        "rank": 47,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 84112,
+        "num": 84112,
+        "word": "美国国债总额首次突破31万亿美元",
+        "onboard_time": 1664996111,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 81421,
+        "num": 81421,
+        "word": "中国女排3比0战胜波多黎各",
+        "onboard_time": 1665013277,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#谁不说俺家乡好#"
+    }
+  }
+}
