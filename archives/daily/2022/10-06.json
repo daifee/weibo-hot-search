@@ -1,6 +1,6 @@
 {
   "startTime": 1664988941943,
-  "endTime": 1665055390982,
+  "endTime": 1665056440779,
   "band_list": [
     {
       "raw_hot": 3489698,
@@ -33,6 +33,14 @@
       "onboard_time": 1665031580,
       "rank": 4,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 1840807,
+      "num": 1840807,
+      "word": "高卫东患癌去世",
+      "onboard_time": 1665053783,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 1696856,
@@ -107,11 +115,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1035363,
-      "num": 1035363,
-      "word": "高卫东患癌去世",
+      "raw_hot": 964653,
+      "num": 964653,
+      "word": "汤唯釜日电影奖最佳女主角",
       "onboard_time": 1665053783,
-      "rank": 3,
+      "rank": 4,
       "category": "影视"
     },
     {
@@ -153,14 +161,6 @@
       "onboard_time": 1665036442,
       "rank": 13,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 715613,
-      "num": 715613,
-      "word": "汤唯釜日电影奖最佳女主角",
-      "onboard_time": 1665053783,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 702098,
@@ -273,6 +273,14 @@
       "onboard_time": 1664974765,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 541270,
+      "num": 541270,
+      "word": "就想问能不能不上班",
+      "onboard_time": 1665052166,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 517693,
@@ -411,14 +419,6 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 412908,
-      "num": 412908,
-      "word": "就想问能不能不上班",
-      "onboard_time": 1665052166,
-      "rank": 49,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 403040,
       "num": 403040,
       "word": "虞书欣晒两个人的小森林片场记录",
@@ -441,6 +441,14 @@
       "onboard_time": 1665023422,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 388988,
+      "num": 388988,
+      "word": "2022年诺贝尔文学奖揭晓",
+      "onboard_time": 1665055883,
+      "rank": 9,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 384170,
@@ -571,6 +579,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 269448,
+      "num": 269448,
+      "word": "卫生院工作人员代预约HPV疫苗骗32万",
+      "onboard_time": 1665051385,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268308,
+      "num": 268308,
+      "word": "家人驱车25小时看望远嫁9年女儿",
+      "onboard_time": 1665052943,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265200,
       "num": 265200,
       "word": "百岁老人寿宴55名子孙排队贺寿",
@@ -584,14 +608,6 @@
       "word": "北京10月5日新增本土确诊2例",
       "onboard_time": 1665016940,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 255510,
-      "num": 255510,
-      "word": "卫生院工作人员代预约HPV疫苗骗32万",
-      "onboard_time": 1665051385,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -617,6 +633,14 @@
       "onboard_time": 1664967444,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250001,
+      "num": 250001,
+      "word": "原来在东北还能这样吃包子",
+      "onboard_time": 1665052043,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 248258,
@@ -659,12 +683,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 229429,
+      "num": 229429,
+      "word": "西安街头羽绒服与短袖齐飞",
+      "onboard_time": 1665053605,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226416,
+      "num": 226416,
+      "word": "虞书欣张彬彬病房互撩花絮",
+      "onboard_time": 1665055345,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 226040,
       "num": 226040,
       "word": "20余名留守娃轮流摆拍喂猪完成作业",
       "onboard_time": 1664998870,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226011,
+      "num": 226011,
+      "word": "WB对战eStar",
+      "onboard_time": 1665055766,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 225816,
@@ -731,28 +779,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 210051,
-      "num": 57723,
-      "word": "虞书欣张彬彬病房互撩花絮",
-      "onboard_time": 1665055345,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 208633,
       "num": 208633,
       "word": "村民婚宴前夕乡亲自带菜刀帮做饭",
       "onboard_time": 1665028823,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 206431,
-      "num": 206431,
-      "word": "原来在东北还能这样吃包子",
-      "onboard_time": 1665052043,
-      "rank": 37,
-      "category": "美食"
     },
     {
       "raw_hot": 205520,
@@ -907,12 +939,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 169863,
-      "num": 169863,
-      "word": "家人驱车25小时看望远嫁9年女儿",
-      "onboard_time": 1665052943,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 170315,
+      "num": 170315,
+      "word": "小狗的表情居然能这么丰富",
+      "onboard_time": 1665054865,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 167702,
@@ -971,14 +1003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 154154,
-      "num": 154154,
-      "word": "西安街头羽绒服与短袖齐飞",
-      "onboard_time": 1665053605,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 151857,
       "num": 151857,
       "word": "男明星十月封面",
@@ -1025,6 +1049,14 @@
       "onboard_time": 1665025160,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141481,
+      "num": 141481,
+      "word": "努力搓球球的小螃蟹",
+      "onboard_time": 1665054626,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 138342,
@@ -1105,6 +1137,14 @@
       "onboard_time": 1664971884,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 114607,
+      "num": 114607,
+      "word": "河狸偷吃葵花惹牧民生气咋办",
+      "onboard_time": 1665054383,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114518,
@@ -1243,22 +1283,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 96368,
-      "num": 96368,
-      "word": "小狗的表情居然能这么丰富",
-      "onboard_time": 1665054865,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 95482,
-      "num": 95482,
-      "word": "努力搓球球的小螃蟹",
-      "onboard_time": 1665054626,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 95397,
       "num": 95397,
       "word": "水爷称自己上了乌克兰的死亡名单",
@@ -1299,6 +1323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91154,
+      "num": 91154,
+      "word": "节后上班第一天冷空气将再发货",
+      "onboard_time": 1665056005,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88071,
       "num": 88071,
       "word": "陪主人晒太阳的猫咪",
@@ -1320,6 +1352,14 @@
       "word": "黄山和云海太配了",
       "onboard_time": 1665041063,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81997,
+      "num": 81997,
+      "word": "冷雨夜男子怕违章高速抛下妻子",
+      "onboard_time": 1665055584,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -1345,14 +1385,6 @@
       "onboard_time": 1665041842,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 76196,
-      "num": 76196,
-      "word": "河狸偷吃葵花惹牧民生气咋办",
-      "onboard_time": 1665054383,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 76172,
