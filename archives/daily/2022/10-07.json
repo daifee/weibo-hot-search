@@ -1,6 +1,6 @@
 {
   "startTime": 1665074398460,
-  "endTime": 1665095199139,
+  "endTime": 1665096384668,
   "band_list": [
     {
       "raw_hot": 1873478,
@@ -179,20 +179,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122322,
+      "num": 122322,
+      "word": "冷雨夜男子怕违章高速抛下妻子",
+      "onboard_time": 1665055584,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118823,
       "num": 118823,
       "word": "李沁晒照告别请君",
       "onboard_time": 1665072561,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 117245,
-      "num": 117245,
-      "word": "冷雨夜男子怕违章高速抛下妻子",
-      "onboard_time": 1665055584,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 109360,
@@ -235,6 +235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 98148,
+      "num": 98148,
+      "word": "小孩飞机上蹦跳家长在旁无动于衷",
+      "onboard_time": 1665089110,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92724,
       "num": 92724,
       "word": "张睿国风大典白衣造型",
@@ -249,6 +257,30 @@
       "onboard_time": 1665062846,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 89178,
+      "num": 89178,
+      "word": "下周江苏可能出现初霜冻",
+      "onboard_time": 1665087671,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87078,
+      "num": 87078,
+      "word": "北京近期14例感染者轨迹一览",
+      "onboard_time": 1665090311,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84881,
+      "num": 84881,
+      "word": "秋裤并不是越紧身的越保暖",
+      "onboard_time": 1665086050,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82285,
@@ -307,14 +339,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 71159,
-      "num": 43873,
-      "word": "小孩飞机上蹦跳家长在旁无动于衷",
-      "onboard_time": 1665089110,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 71129,
       "num": 71129,
       "word": "就想问能不能不上班",
@@ -331,11 +355,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 66135,
-      "num": 66135,
-      "word": "下周江苏可能出现初霜冻",
-      "onboard_time": 1665087671,
-      "rank": 40,
+      "raw_hot": 65124,
+      "num": 65124,
+      "word": "退伍军人6岁儿子公园踢正步",
+      "onboard_time": 1665089709,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -353,14 +377,6 @@
       "onboard_time": 1665064645,
       "rank": 40,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 63319,
-      "num": 34448,
-      "word": "北京近期14例感染者轨迹一览",
-      "onboard_time": 1665090311,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 62684,
@@ -387,14 +403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 56611,
-      "num": 42933,
-      "word": "秋裤并不是越紧身的越保暖",
-      "onboard_time": 1665086050,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 56434,
       "num": 56434,
       "word": "飞狐外传大结局",
@@ -403,20 +411,36 @@
       "category": "影视"
     },
     {
-      "raw_hot": 54490,
-      "num": 42216,
-      "word": "退伍军人6岁儿子公园踢正步",
-      "onboard_time": 1665089709,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 52597,
       "num": 52597,
       "word": "西安街头羽绒服与短袖齐飞",
       "onboard_time": 1665053605,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47073,
+      "num": 46028,
+      "word": "北京昌平初步判定密接49人",
+      "onboard_time": 1665087072,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46573,
+      "num": 46573,
+      "word": "中国建造登上11国纸币",
+      "onboard_time": 1665087012,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43796,
+      "num": 43796,
+      "word": "52岁交警连续高强度工作累倒在一线",
+      "onboard_time": 1665088331,
+      "rank": 44,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 43601,
@@ -435,14 +459,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 41840,
-      "num": 26839,
-      "word": "北京昌平初步判定密接49人",
-      "onboard_time": 1665087072,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 41279,
       "num": 41279,
       "word": "顾全绝杀辽宁男篮",
@@ -459,6 +475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 40753,
+      "num": 40753,
+      "word": "去过北京朝阳这处公共卫生间人员请上报",
+      "onboard_time": 1665089770,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40303,
       "num": 40303,
       "word": "2小孩地铁内踩座位拉扶手荡秋千",
@@ -467,20 +491,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 39701,
-      "num": 39701,
-      "word": "中国建造登上11国纸币",
-      "onboard_time": 1665087012,
-      "rank": 38,
+      "raw_hot": 38385,
+      "num": 38385,
+      "word": "男子对着隔壁邻居家阳台呲水",
+      "onboard_time": 1665083412,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 38944,
-      "num": 38944,
-      "word": "52岁交警连续高强度工作累倒在一线",
-      "onboard_time": 1665088331,
-      "rank": 44,
-      "category": "社会正能量"
+      "raw_hot": 36911,
+      "num": 36911,
+      "word": "云南抚仙湖现青鱼阵奇观",
+      "onboard_time": 1665090250,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33059,
@@ -491,30 +515,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 29648,
-      "num": 29648,
-      "word": "男子对着隔壁邻居家阳台呲水",
-      "onboard_time": 1665083412,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26682,
-      "num": 25884,
-      "word": "去过北京朝阳这处公共卫生间人员请上报",
-      "onboard_time": 1665089770,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25240,
-      "num": 25240,
-      "word": "云南抚仙湖现青鱼阵奇观",
-      "onboard_time": 1665090250,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 21295,
       "num": 21295,
       "word": "极品飞车不羁",
@@ -523,8 +523,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 17849,
-      "num": 17849,
+      "raw_hot": 17857,
+      "num": 17857,
       "word": "你看见的是我为你定制的性格",
       "onboard_time": 1665090250,
       "rank": 19,
@@ -539,8 +539,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 11533,
-      "num": 11533,
+      "raw_hot": 14858,
+      "num": 14858,
       "word": "面对杠精你会沉默还是反击",
       "onboard_time": 1665091151,
       "rank": 49,
