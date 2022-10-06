@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/06 00:55:41 ~ 2022/10/06 13:59:05
+本榜单时间：2022/10/06 00:55:41 ~ 2022/10/06 14:35:51
 </p>
 </blockquote>
 <p>
@@ -63,6 +63,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%B5%84%E6%8A%A5%E8%80%83%E4%BA%BA%E6%95%B010%E5%B9%B4%E7%BF%BB66%E5%80%8D%23" target="weibo">
+教资报考人数10年翻66倍（热度：862764）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E9%BC%93%E5%8A%B1%E9%AB%98%E6%A0%A1%E5%8A%A0%E5%BC%BA%E6%81%8B%E7%88%B1%E5%BF%83%E7%90%86%E6%95%99%E8%82%B2%23" target="weibo">
 教育部鼓励高校加强恋爱心理教育（热度：846855）
 </a>
@@ -81,12 +87,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%B5%84%E6%8A%A5%E8%80%83%E4%BA%BA%E6%95%B010%E5%B9%B4%E7%BF%BB66%E5%80%8D%23" target="weibo">
-教资报考人数10年翻66倍（热度：716741）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%9410%E4%B8%AA%E6%9C%8818%E5%B0%81%23" target="weibo">
 王嘉尔10个月18封（热度：702098）
 </a>
@@ -95,6 +95,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%90%A7%E6%97%A0%E6%95%8C%E6%B6%88%E5%A4%B1%E4%BA%86%23" target="weibo">
 萧无敌消失了（热度：696681）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A8%8B%E6%BD%87%E8%B5%9E%E5%A4%9A360%E5%BA%A6%E6%97%8B%E8%BD%AC%E5%85%AC%E4%B8%BB%E6%8A%B1%23" target="weibo">
+程潇赞多360度旋转公主抱（热度：631986）
 </a>
 </li>
 
@@ -117,6 +123,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%98%8E%E6%98%8A%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%86%A4%E7%A7%8D%E5%85%84%E5%BC%9F%23" target="weibo">
+黄明昊王鹤棣冤种兄弟（热度：573360）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%235%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%94%A8%E5%84%BF%E7%AB%A5%E7%8E%A9%E5%85%B7%E9%92%93%E4%B8%8A%E6%95%B0%E6%9D%A1%E9%B1%BC%23" target="weibo">
 5岁女孩用儿童玩具钓上数条鱼（热度：560058）
 </a>
@@ -131,6 +143,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%9E%E5%8D%9A%E5%8D%81%E5%85%AB%E5%B2%81%E7%9A%84%E8%87%AA%E5%B7%B1%23" target="weibo">
 庞博十八岁的自己（热度：547634）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%85%8B%E6%96%AF%E7%A7%91%E6%8A%80%E4%BC%A4%E5%AE%B3%E4%BA%86%E8%B0%81%23" target="weibo">
+海克斯科技伤害了谁（热度：546543）
 </a>
 </li>
 
@@ -231,6 +249,12 @@ Minnie双丸子头造型（热度：379333）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%BA%E6%97%8FGQ%E6%A2%81%E6%9C%9D%E4%BC%9F%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%A8%8B%E8%80%B3%E6%A6%82%E5%BF%B5%E5%B0%81%E9%9D%A2%23" target="weibo">
+智族GQ梁朝伟王一博程耳概念封面（热度：367173）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E7%81%AB%E8%BD%A6%E5%8C%97%E7%AB%99%E5%B0%86%E5%81%9C%E8%BF%90%E6%94%B9%E9%80%A0%23" target="weibo">
 成都火车北站将停运改造（热度：338968）
 </a>
@@ -267,6 +291,12 @@ Minnie双丸子头造型（热度：379333）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E4%B8%80%E5%A4%A7%E5%AD%A6%E8%AF%BE%E5%A0%82%E5%85%A8%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%23" target="weibo">
+英国一大学课堂全是中国人（热度：273922）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BD%98%E7%B2%A4%E6%98%8E%E6%98%AF%E9%AC%BC%E5%90%B9%E7%81%AF%E6%9C%80%E5%BF%99%E5%B9%95%E5%90%8E%23" target="weibo">
 潘粤明是鬼吹灯最忙幕后（热度：271042）
 </a>
@@ -281,6 +311,12 @@ Minnie双丸子头造型（热度：379333）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC10%E6%9C%885%E6%97%A5%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A2%E4%BE%8B%23" target="weibo">
 北京10月5日新增本土确诊2例（热度：264286）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E8%BF%AA%E6%AC%BA%E8%B4%9F%E5%B0%8F%E7%8C%AB%E5%90%8E%E8%A2%AB%E7%8C%AB%E5%A6%88%E5%A6%88%E6%8A%93%E7%A0%B4%E9%BC%BB%E5%AD%90%23" target="weibo">
+泰迪欺负小猫后被猫妈妈抓破鼻子（热度：263538）
 </a>
 </li>
 
@@ -375,6 +411,12 @@ Minnie双丸子头造型（热度：379333）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E8%BA%BA%E5%9C%B0%E4%B8%8A%E8%80%8D%E8%B5%96%E5%A6%88%E5%A6%88%E6%B7%A1%E5%AE%9A%E7%8E%A9%E6%89%8B%E6%9C%BA%23" target="weibo">
+孩子躺地上耍赖妈妈淡定玩手机（热度：201115）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%86%E4%BB%91%E7%A5%9E%E5%AE%AB%23" target="weibo">
 昆仑神宫（热度：200630）
 </a>
@@ -447,8 +489,20 @@ Minnie双丸子头造型（热度：379333）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A1%97%E8%88%9E5%E9%98%9F%E9%95%BF%E5%98%89%E5%AE%BEbattle%E5%A4%A7%E8%81%94%E6%AC%A2%23" target="weibo">
+街舞5队长嘉宾battle大联欢（热度：160414）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E7%BB%AE%E7%8E%B0%E5%9C%BA%E5%90%83%E7%93%9C%E8%83%A1%E5%85%AB%E4%B8%80%E9%9B%AA%E8%8E%89%E6%9D%A8%23" target="weibo">
 张雨绮现场吃瓜胡八一雪莉杨（热度：151578）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2395%E5%90%8E%E7%BE%8E%E5%8F%91%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%E8%AF%B4%E6%AF%8F%E4%BA%BA%E9%83%BD%E8%83%BD%E6%88%90%E5%B7%A5%E5%8C%A0%23" target="weibo">
+95后美发世界冠军说每人都能成工匠（热度：151287）
 </a>
 </li>
 
@@ -491,18 +545,6 @@ Minnie双丸子头造型（热度：379333）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E5%86%9B%E6%AD%A3%E5%9C%A8%E8%B5%AB%E5%B0%94%E6%9D%BE%E9%9B%86%E7%BB%93%E5%87%86%E5%A4%87%E5%8F%8D%E5%87%BB%23" target="weibo">
 俄军正在赫尔松集结准备反击（热度：136483）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E8%BA%BA%E5%9C%B0%E4%B8%8A%E8%80%8D%E8%B5%96%E5%A6%88%E5%A6%88%E6%B7%A1%E5%AE%9A%E7%8E%A9%E6%89%8B%E6%9C%BA%23" target="weibo">
-孩子躺地上耍赖妈妈淡定玩手机（热度：126053）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E8%BF%AA%E6%AC%BA%E8%B4%9F%E5%B0%8F%E7%8C%AB%E5%90%8E%E8%A2%AB%E7%8C%AB%E5%A6%88%E5%A6%88%E6%8A%93%E7%A0%B4%E9%BC%BB%E5%AD%90%23" target="weibo">
-泰迪欺负小猫后被猫妈妈抓破鼻子（热度：125536）
 </a>
 </li>
 
@@ -555,14 +597,14 @@ Minnie双丸子头造型（热度：379333）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E6%B8%B8%E5%AE%A2%E8%A2%AB%E6%A2%85%E8%8A%B1%E9%B9%BF%E8%B8%A2%E8%84%B8%23" target="weibo">
-景区回应游客被梅花鹿踢脸（热度：102967）
+<a href="https://s.weibo.com/weibo?q=%23%E8%AF%B7%E5%90%9B%E4%BB%8A%E6%99%9A%E5%A4%A7%E7%BB%93%E5%B1%80%23" target="weibo">
+请君今晚大结局（热度：106353）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2395%E5%90%8E%E7%BE%8E%E5%8F%91%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%E8%AF%B4%E6%AF%8F%E4%BA%BA%E9%83%BD%E8%83%BD%E6%88%90%E5%B7%A5%E5%8C%A0%23" target="weibo">
-95后美发世界冠军说每人都能成工匠（热度：102933）
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E6%B8%B8%E5%AE%A2%E8%A2%AB%E6%A2%85%E8%8A%B1%E9%B9%BF%E8%B8%A2%E8%84%B8%23" target="weibo">
+景区回应游客被梅花鹿踢脸（热度：102967）
 </a>
 </li>
 
@@ -803,6 +845,12 @@ SuperM最新练习室（热度：56480）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%99%9A%E7%BB%A7%E7%BB%AD%E4%B8%BA%E5%A5%B3%E6%8E%92%E5%A7%91%E5%A8%98%E4%BB%AC%E5%8A%A0%E6%B2%B9%23" target="weibo">
 今晚继续为女排姑娘们加油（热度：25619）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E9%A1%BA%E8%AE%B2%E8%BF%B0%E5%A6%82%E4%BD%95%E8%B5%B0%E8%BF%87%E4%BD%8E%E8%B0%B7%E6%88%90%E4%B8%BA%E5%86%A0%E5%86%9B%23" target="weibo">
+汪顺讲述如何走过低谷成为冠军（热度：21984）
 </a>
 </li>
 

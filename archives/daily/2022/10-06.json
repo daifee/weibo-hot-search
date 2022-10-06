@@ -1,6 +1,6 @@
 {
   "startTime": 1664988941943,
-  "endTime": 1665035945463,
+  "endTime": 1665038151168,
   "band_list": [
     {
       "raw_hot": 2542047,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 862764,
+      "num": 862764,
+      "word": "教资报考人数10年翻66倍",
+      "onboard_time": 1665032542,
+      "rank": 43,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 846855,
       "num": 846855,
       "word": "教育部鼓励高校加强恋爱心理教育",
@@ -91,14 +99,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 716741,
-      "num": 716741,
-      "word": "教资报考人数10年翻66倍",
-      "onboard_time": 1665032542,
-      "rank": 43,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 702098,
       "num": 421253,
       "word": "王嘉尔10个月18封",
@@ -113,6 +113,14 @@
       "onboard_time": 1665027683,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 631986,
+      "num": 631986,
+      "word": "程潇赞多360度旋转公主抱",
+      "onboard_time": 1665036504,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 625031,
@@ -139,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 573360,
+      "num": 573360,
+      "word": "黄明昊王鹤棣冤种兄弟",
+      "onboard_time": 1665037822,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 560058,
       "num": 560058,
       "word": "5岁女孩用儿童玩具钓上数条鱼",
@@ -161,6 +177,14 @@
       "onboard_time": 1664974765,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 546543,
+      "num": 546543,
+      "word": "海克斯科技伤害了谁",
+      "onboard_time": 1665036084,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 511311,
@@ -291,6 +315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 367173,
+      "num": 263093,
+      "word": "智族GQ梁朝伟王一博程耳概念封面",
+      "onboard_time": 1665036145,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 338968,
       "num": 338968,
       "word": "成都火车北站将停运改造",
@@ -339,6 +371,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 273922,
+      "num": 260199,
+      "word": "英国一大学课堂全是中国人",
+      "onboard_time": 1665036442,
+      "rank": 13,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 271042,
       "num": 271042,
       "word": "潘粤明是鬼吹灯最忙幕后",
@@ -360,6 +400,14 @@
       "word": "北京10月5日新增本土确诊2例",
       "onboard_time": 1665016940,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263538,
+      "num": 263538,
+      "word": "泰迪欺负小猫后被猫妈妈抓破鼻子",
+      "onboard_time": 1665034883,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -483,6 +531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201115,
+      "num": 201115,
+      "word": "孩子躺地上耍赖妈妈淡定玩手机",
+      "onboard_time": 1665033984,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200630,
       "num": 148678,
       "word": "昆仑神宫",
@@ -579,12 +635,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160414,
+      "num": 160414,
+      "word": "街舞5队长嘉宾battle大联欢",
+      "onboard_time": 1665036683,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151578,
       "num": 151578,
       "word": "张雨绮现场吃瓜胡八一雪莉杨",
       "onboard_time": 1665034524,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 151287,
+      "num": 151287,
+      "word": "95后美发世界冠军说每人都能成工匠",
+      "onboard_time": 1665034345,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148084,
@@ -641,22 +713,6 @@
       "onboard_time": 1664977704,
       "rank": 18,
       "category": "军事,国外要闻"
-    },
-    {
-      "raw_hot": 126053,
-      "num": 126053,
-      "word": "孩子躺地上耍赖妈妈淡定玩手机",
-      "onboard_time": 1665033984,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125536,
-      "num": 125536,
-      "word": "泰迪欺负小猫后被猫妈妈抓破鼻子",
-      "onboard_time": 1665034883,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 120125,
@@ -723,19 +779,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106353,
+      "num": 96700,
+      "word": "请君今晚大结局",
+      "onboard_time": 1665037343,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 102967,
       "num": 102967,
       "word": "景区回应游客被梅花鹿踢脸",
       "onboard_time": 1664993473,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 102933,
-      "num": 102933,
-      "word": "95后美发世界冠军说每人都能成工匠",
-      "onboard_time": 1665034345,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1057,6 +1113,14 @@
       "onboard_time": 1664990116,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 21984,
+      "num": 259347,
+      "word": "汪顺讲述如何走过低谷成为冠军",
+      "onboard_time": 1665036864,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13206,
