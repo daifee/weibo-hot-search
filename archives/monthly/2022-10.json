@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665062807981,
+  "endTime": 1665064746585,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -241,6 +241,14 @@
       "onboard_time": 1664607505,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1776248,
+      "num": 1776248,
+      "word": "男子不用洗发水从秃顶到满头黑发",
+      "onboard_time": 1665060145,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1760447,
@@ -568,14 +576,6 @@
       "word": "男子获56万拆迁款前妻分走近一半",
       "onboard_time": 1665018141,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1266163,
-      "num": 1266163,
-      "word": "男子不用洗发水从秃顶到满头黑发",
-      "onboard_time": 1665060145,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -921,6 +921,14 @@
       "onboard_time": 1664629944,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 914760,
+      "num": 914760,
+      "word": "两个人的小森林首部热度破万现偶剧",
+      "onboard_time": 1665062546,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 913603,
@@ -1395,6 +1403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 677130,
+      "num": 677130,
+      "word": "王安宇在娱乐圈当运动员",
+      "onboard_time": 1665060685,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 675293,
       "num": 675293,
       "word": "女篮直播",
@@ -1536,14 +1552,6 @@
       "word": "王俊凯万里归途票房破9亿",
       "onboard_time": 1665022883,
       "rank": 5,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 623120,
-      "num": 623120,
-      "word": "王安宇在娱乐圈当运动员",
-      "onboard_time": 1665060685,
-      "rank": 10,
       "category": "影视"
     },
     {
@@ -3588,7 +3596,7 @@
     },
     {
       "raw_hot": 306400,
-      "num": 165457,
+      "num": 173739,
       "word": "王一博练舞七宫格剧照",
       "onboard_time": 1665062185,
       "rank": 20,
@@ -3921,6 +3929,14 @@
       "onboard_time": 1664794284,
       "rank": 13,
       "category": "自然,社会新闻"
+    },
+    {
+      "raw_hot": 275659,
+      "num": 275659,
+      "word": "父母得知儿女回家深夜门口等待",
+      "onboard_time": 1665061703,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 275341,
@@ -4819,6 +4835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228556,
+      "num": 228556,
+      "word": "没想到头发还可以这样编",
+      "onboard_time": 1665062846,
+      "rank": 16,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 227419,
       "num": 227419,
       "word": "王一博这就是街舞5运动时刻",
@@ -5052,7 +5076,7 @@
     },
     {
       "raw_hot": 217995,
-      "num": 165383,
+      "num": 172656,
       "word": "朴灿烈唱Tomorrow",
       "onboard_time": 1665061525,
       "rank": 21,
@@ -5177,14 +5201,6 @@
       "onboard_time": 1664771362,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 209328,
-      "num": 165249,
-      "word": "两个人的小森林首部热度破万现偶剧",
-      "onboard_time": 1665062546,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 208788,
@@ -5435,12 +5451,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 197357,
+      "num": 197357,
+      "word": "中国台北女团晋级四强",
+      "onboard_time": 1665061227,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197172,
       "num": 197172,
       "word": "梅西生涯第60次任意球破门",
       "onboard_time": 1664673561,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196583,
+      "num": 133204,
+      "word": "小沈阳请君由笑转哭太丝滑了",
+      "onboard_time": 1665062726,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 196332,
@@ -5633,14 +5665,6 @@
       "onboard_time": 1664724863,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 187594,
-      "num": 133204,
-      "word": "小沈阳请君由笑转哭太丝滑了",
-      "onboard_time": 1665062726,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 187520,
@@ -5891,6 +5915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176693,
+      "num": 176693,
+      "word": "懒人瘦腿真的很简单",
+      "onboard_time": 1665063382,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176057,
       "num": 176057,
       "word": "国庆首日西湖接待23.82万游客",
@@ -6072,14 +6104,6 @@
       "word": "詹姆斯半场23分",
       "onboard_time": 1665032302,
       "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 167659,
-      "num": 165170,
-      "word": "中国台北女团晋级四强",
-      "onboard_time": 1665061227,
-      "rank": 23,
       "category": "体育"
     },
     {
@@ -6984,6 +7008,14 @@
       "word": "76人vs篮网",
       "onboard_time": 1664841798,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 131764,
+      "num": 131764,
+      "word": "辽宁男篮vs深圳男篮",
+      "onboard_time": 1665062665,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -8387,6 +8419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82117,
+      "num": 82117,
+      "word": "顾全绝杀辽宁男篮",
+      "onboard_time": 1665064165,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80957,
       "num": 80957,
       "word": "国家体育总局向中国女篮致贺信",
@@ -8401,14 +8441,6 @@
       "onboard_time": 1664720425,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 80521,
-      "num": 80521,
-      "word": "父母得知儿女回家深夜门口等待",
-      "onboard_time": 1665061703,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 80356,
@@ -8457,14 +8489,6 @@
       "onboard_time": 1664756121,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 78461,
-      "num": 78461,
-      "word": "辽宁男篮vs深圳男篮",
-      "onboard_time": 1665062665,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 78326,
@@ -9011,6 +9035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 60300,
+      "num": 60300,
+      "word": "听到开饭猫咪有多兴奋",
+      "onboard_time": 1665064645,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 60266,
       "num": 60266,
       "word": "国米1比0巴萨",
@@ -9025,6 +9057,14 @@
       "onboard_time": 1664581280,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59937,
+      "num": 59937,
+      "word": "真的有让人快乐的食物",
+      "onboard_time": 1665064645,
+      "rank": 49,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 59530,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1665064746585,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2526431,
+        "num": 2526431,
+        "word": "到底是谁允许今天是6号的",
+        "onboard_time": 1665058403,
+        "rank": 0,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 1776248,
+        "num": 1776248,
+        "word": "男子不用洗发水从秃顶到满头黑发",
+        "onboard_time": 1665060145,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11574,
+        "num": 1134678,
+        "word": "太空视角俯瞰祖国大江南北",
+        "onboard_time": 1665029662,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 914760,
+        "num": 914760,
+        "word": "两个人的小森林首部热度破万现偶剧",
+        "onboard_time": 1665062546,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 895513,
+        "num": 895513,
+        "word": "高卫东患癌去世",
+        "onboard_time": 1665053783,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 677130,
+        "num": 677130,
+        "word": "王安宇在娱乐圈当运动员",
+        "onboard_time": 1665060685,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 517910,
+        "num": 517910,
+        "word": "爸妈争论问题6个月宝宝急的说话",
+        "onboard_time": 1665057265,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441249,
+        "num": 441249,
+        "word": "马龙11比0",
+        "onboard_time": 1665044124,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 384460,
+        "num": 384460,
+        "word": "被迫在地铁上看了三部小说",
+        "onboard_time": 1665045865,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 354518,
+        "num": 354518,
+        "word": "冷雨夜男子怕违章高速抛下妻子",
+        "onboard_time": 1665055584,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 532665,
+        "num": 353937,
+        "word": "请君大结局太好哭了",
+        "onboard_time": 1665058104,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 305015,
+        "num": 305015,
+        "word": "汤唯釜日电影奖最佳女主角",
+        "onboard_time": 1665053783,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 364527,
+        "num": 301239,
+        "word": "陆炎剖丹牺牲",
+        "onboard_time": 1665058884,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288465,
+        "num": 288465,
+        "word": "拼车进京一家四口均感染",
+        "onboard_time": 1665048983,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275659,
+        "num": 275659,
+        "word": "父母得知儿女回家深夜门口等待",
+        "onboard_time": 1665061703,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232132,
+        "num": 232132,
+        "word": "就想问能不能不上班",
+        "onboard_time": 1665052166,
+        "rank": 15,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 228556,
+        "num": 228556,
+        "word": "没想到头发还可以这样编",
+        "onboard_time": 1665062846,
+        "rank": 16,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 214704,
+        "num": 214704,
+        "word": "西安太冷冷冷冷了",
+        "onboard_time": 1665046765,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197357,
+        "num": 197357,
+        "word": "中国台北女团晋级四强",
+        "onboard_time": 1665061227,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176693,
+        "num": 176693,
+        "word": "懒人瘦腿真的很简单",
+        "onboard_time": 1665063382,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282607,
+        "num": 175238,
+        "word": "万里归途票房破10亿",
+        "onboard_time": 1665061044,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248245,
+        "num": 173739,
+        "word": "王一博练舞七宫格剧照",
+        "onboard_time": 1665062185,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201992,
+        "num": 172656,
+        "word": "朴灿烈唱Tomorrow",
+        "onboard_time": 1665061525,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 171273,
+        "num": 171273,
+        "word": "家人驱车25小时看望远嫁9年女儿",
+        "onboard_time": 1665052943,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147548,
+        "num": 147548,
+        "word": "新iPhone上手体验",
+        "onboard_time": 1665047364,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 145313,
+        "num": 145313,
+        "word": "节后上班第一天冷空气将再发货",
+        "onboard_time": 1665056005,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138516,
+        "num": 138516,
+        "word": "大一新生宿舍里扮领导遇真领导",
+        "onboard_time": 1665044304,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131764,
+        "num": 131764,
+        "word": "辽宁男篮vs深圳男篮",
+        "onboard_time": 1665062665,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131536,
+        "num": 131536,
+        "word": "内蒙古新增本土无症状445例",
+        "onboard_time": 1665041783,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127902,
+        "num": 127902,
+        "word": "2小孩地铁内踩座位拉扶手荡秋千",
+        "onboard_time": 1665050545,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196583,
+        "num": 123303,
+        "word": "小沈阳请君由笑转哭太丝滑了",
+        "onboard_time": 1665062726,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 117498,
+        "num": 117498,
+        "word": "西安街头羽绒服与短袖齐飞",
+        "onboard_time": 1665053605,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112748,
+        "num": 112748,
+        "word": "虞美人好温柔",
+        "onboard_time": 1665060205,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 112616,
+        "num": 112616,
+        "word": "中国女团vs葡萄牙女团",
+        "onboard_time": 1665057864,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105574,
+        "num": 105574,
+        "word": "这只猴子好懂事",
+        "onboard_time": 1665059604,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 104250,
+        "num": 104250,
+        "word": "海克斯科技伤害了谁",
+        "onboard_time": 1665036084,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100710,
+        "num": 100710,
+        "word": "女篮李梦说在悉尼打出了主场氛围",
+        "onboard_time": 1665058703,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99833,
+        "num": 99833,
+        "word": "努力搓球球的小螃蟹",
+        "onboard_time": 1665054626,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91497,
+        "num": 91497,
+        "word": "电视剧大考",
+        "onboard_time": 1665056724,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 85566,
+        "num": 85566,
+        "word": "当你的妈妈是个搞笑女",
+        "onboard_time": 1665049584,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85003,
+        "num": 85003,
+        "word": "WB对战eStar",
+        "onboard_time": 1665055766,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 84840,
+        "num": 84840,
+        "word": "小狗的表情居然能这么丰富",
+        "onboard_time": 1665054865,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82117,
+        "num": 82117,
+        "word": "顾全绝杀辽宁男篮",
+        "onboard_time": 1665064165,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79256,
+        "num": 79256,
+        "word": "河狸偷吃葵花惹牧民生气咋办",
+        "onboard_time": 1665054383,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75923,
+        "num": 75923,
+        "word": "卫生院工作人员代预约HPV疫苗骗32万",
+        "onboard_time": 1665051385,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73138,
+        "num": 73138,
+        "word": "国乒女团晋级世乒赛4强",
+        "onboard_time": 1665061044,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73078,
+        "num": 73078,
+        "word": "成毅憨憨跑花絮",
+        "onboard_time": 1665056787,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 60300,
+        "num": 60300,
+        "word": "听到开饭猫咪有多兴奋",
+        "onboard_time": 1665064645,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 60205,
+        "num": 60205,
+        "word": "孙颖莎3比0马托斯",
+        "onboard_time": 1665062243,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59937,
+        "num": 59937,
+        "word": "真的有让人快乐的食物",
+        "onboard_time": 1665064645,
+        "rank": 49,
+        "category": "美食,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#多机位打开国庆节氛围感#"
+    }
+  }
+}
