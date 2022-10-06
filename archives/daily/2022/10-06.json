@@ -1,6 +1,6 @@
 {
   "startTime": 1664988941943,
-  "endTime": 1665068013763,
+  "endTime": 1665070200061,
   "band_list": [
     {
       "raw_hot": 3489698,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1272472,
+      "num": 1272472,
+      "word": "室友很好却不能成为好朋友",
+      "onboard_time": 1665067585,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1090725,
       "num": 1090725,
       "word": "两个人的小森林首部热度破万现偶剧",
@@ -201,6 +209,14 @@
       "onboard_time": 1665036442,
       "rank": 13,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 702992,
+      "num": 702992,
+      "word": "子阳FMVP",
+      "onboard_time": 1665068546,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 702098,
@@ -531,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 386178,
+      "num": 372167,
+      "word": "德国副总理指责美国卖天价天然气",
+      "onboard_time": 1665067465,
+      "rank": 24,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 385852,
       "num": 385852,
       "word": "冷雨夜男子怕违章高速抛下妻子",
@@ -601,6 +625,22 @@
       "onboard_time": 1665028162,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 332466,
+      "num": 332466,
+      "word": "第一个游走位FMVP",
+      "onboard_time": 1665068905,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 332032,
+      "num": 332032,
+      "word": "动画版的一起来看流星雨",
+      "onboard_time": 1665066805,
+      "rank": 20,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 330904,
@@ -697,14 +737,6 @@
       "onboard_time": 1665062846,
       "rank": 16,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 281088,
-      "num": 281088,
-      "word": "动画版的一起来看流星雨",
-      "onboard_time": 1665066805,
-      "rank": 20,
-      "category": "动漫,影视"
     },
     {
       "raw_hot": 274854,
@@ -979,6 +1011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 200112,
+      "num": 200112,
+      "word": "任嘉伦晒收官剧照告别陆炎",
+      "onboard_time": 1665069505,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 198435,
       "num": 198435,
       "word": "王楚钦3比0沙",
@@ -1025,6 +1065,14 @@
       "onboard_time": 1665053783,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 190331,
+      "num": 190331,
+      "word": "eStar冠军五人组",
+      "onboard_time": 1665069324,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 189836,
@@ -1171,6 +1219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 160691,
+      "num": 160691,
+      "word": "这是中国人国庆独有的浪漫",
+      "onboard_time": 1665067044,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160414,
       "num": 160414,
       "word": "街舞5队长嘉宾battle大联欢",
@@ -1203,6 +1259,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 152250,
+      "num": 152250,
+      "word": "真的有让人快乐的食物",
+      "onboard_time": 1665064645,
+      "rank": 49,
+      "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 152158,
+      "num": 152158,
+      "word": "张睿国风大典白衣造型",
+      "onboard_time": 1665069205,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 151857,
       "num": 151857,
       "word": "男明星十月封面",
@@ -1211,12 +1283,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 148992,
-      "num": 148992,
-      "word": "德国副总理指责美国卖天价天然气",
-      "onboard_time": 1665067465,
-      "rank": 24,
-      "category": "国外要闻"
+      "raw_hot": 150717,
+      "num": 150717,
+      "word": "你追过的烧脑剧综",
+      "onboard_time": 1665069084,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 148084,
@@ -1257,14 +1329,6 @@
       "onboard_time": 1665025160,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 142569,
-      "num": 142569,
-      "word": "真的有让人快乐的食物",
-      "onboard_time": 1665064645,
-      "rank": 49,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 141481,
@@ -1347,6 +1411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 126490,
+      "num": 126490,
+      "word": "这就是被食堂阿姨关照的幸福",
+      "onboard_time": 1665068724,
+      "rank": 34,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 126045,
       "num": 126045,
       "word": "周笔畅密逃4画风逐渐跑偏",
@@ -1409,14 +1481,6 @@
       "onboard_time": 1665045625,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 113906,
-      "num": 113906,
-      "word": "室友很好却不能成为好朋友",
-      "onboard_time": 1665067585,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 113526,
@@ -1531,6 +1595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101591,
+      "num": 101591,
+      "word": "清清虽呆但帅",
+      "onboard_time": 1665069746,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 100825,
       "num": 100825,
       "word": "英语让一家人变得生疏",
@@ -1545,6 +1617,14 @@
       "onboard_time": 1664983044,
       "rank": 25,
       "category": "动漫,社会新闻"
+    },
+    {
+      "raw_hot": 100682,
+      "num": 100682,
+      "word": "你养猫猫的原因是什么",
+      "onboard_time": 1665069205,
+      "rank": 41,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 99922,
@@ -1640,14 +1720,6 @@
       "word": "黄山和云海太配了",
       "onboard_time": 1665041063,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 81679,
-      "num": 81679,
-      "word": "这是中国人国庆独有的浪漫",
-      "onboard_time": 1665067044,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
