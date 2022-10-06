@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1665074398460,
+  "endTime": 1665075969922,
   "band_list": [
     {
       "raw_hot": 5104220,
@@ -2843,6 +2843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 271972,
+      "num": 271972,
+      "word": "打野的尽头是一片海",
+      "onboard_time": 1665070344,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 271943,
       "num": 271943,
       "word": "北京新增3例本土确诊1例无症状",
@@ -2961,14 +2969,6 @@
       "onboard_time": 1664970082,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 259659,
-      "num": 259659,
-      "word": "打野的尽头是一片海",
-      "onboard_time": 1665070344,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 259581,
@@ -3905,6 +3905,14 @@
       "onboard_time": 1664891722,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 193626,
+      "num": 193626,
+      "word": "湖南疾控对健康码变黄的权威解答",
+      "onboard_time": 1665074479,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193096,
@@ -6409,6 +6417,14 @@
       "onboard_time": 1665039683,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56434,
+      "num": 56434,
+      "word": "飞狐外传大结局",
+      "onboard_time": 1665075017,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 56410,

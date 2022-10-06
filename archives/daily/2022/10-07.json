@@ -1,6 +1,6 @@
 {
   "startTime": 1665074398460,
-  "endTime": 1665074398460,
+  "endTime": 1665075969922,
   "band_list": [
     {
       "raw_hot": 1873478,
@@ -67,8 +67,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 259659,
-      "num": 259659,
+      "raw_hot": 271972,
+      "num": 271972,
       "word": "打野的尽头是一片海",
       "onboard_time": 1665070344,
       "rank": 10,
@@ -104,6 +104,14 @@
       "word": "低风险区返京后3天2检可解除弹窗",
       "onboard_time": 1665065605,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193626,
+      "num": 193626,
+      "word": "湖南疾控对健康码变黄的权威解答",
+      "onboard_time": 1665074479,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -345,6 +353,14 @@
       "onboard_time": 1665056005,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56434,
+      "num": 56434,
+      "word": "飞狐外传大结局",
+      "onboard_time": 1665075017,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 52597,

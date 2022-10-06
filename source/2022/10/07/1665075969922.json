@@ -1,0 +1,410 @@
+{
+  "runTime": 1665075969922,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1253428,
+        "num": 1253428,
+        "word": "室友很好却不能成为好朋友",
+        "onboard_time": 1665067585,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 519091,
+        "num": 519091,
+        "word": "到底是谁允许今天是6号的",
+        "onboard_time": 1665058403,
+        "rank": 1,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 2834,
+        "num": 429992,
+        "word": "太空视角俯瞰祖国大江南北",
+        "onboard_time": 1665029662,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 426610,
+        "num": 426610,
+        "word": "男子不用洗发水从秃顶到满头黑发",
+        "onboard_time": 1665060145,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388575,
+        "num": 388575,
+        "word": "第一个游走位FMVP",
+        "onboard_time": 1665068905,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 292278,
+        "num": 292278,
+        "word": "高卫东患癌去世",
+        "onboard_time": 1665053783,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 285565,
+        "num": 285565,
+        "word": "两个人的小森林首部热度破万现偶剧",
+        "onboard_time": 1665062546,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271972,
+        "num": 271972,
+        "word": "打野的尽头是一片海",
+        "onboard_time": 1665070344,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 210418,
+        "num": 210418,
+        "word": "清清虽呆但帅",
+        "onboard_time": 1665069746,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193626,
+        "num": 193626,
+        "word": "湖南疾控对健康码变黄的权威解答",
+        "onboard_time": 1665074479,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186315,
+        "num": 186315,
+        "word": "爸妈争论问题6个月宝宝急的说话",
+        "onboard_time": 1665057265,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161674,
+        "num": 161674,
+        "word": "动画版的一起来看流星雨",
+        "onboard_time": 1665066805,
+        "rank": 11,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 153301,
+        "num": 153301,
+        "word": "环卫阿姨买汤老板不收钱优先做",
+        "onboard_time": 1665070765,
+        "rank": 12,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 149707,
+        "num": 149707,
+        "word": "德国副总理指责美国卖天价天然气",
+        "onboard_time": 1665067465,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 144155,
+        "num": 144155,
+        "word": "你养猫猫的原因是什么",
+        "onboard_time": 1665069205,
+        "rank": 14,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 142897,
+        "num": 142897,
+        "word": "请君大结局太好哭了",
+        "onboard_time": 1665058104,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130063,
+        "num": 130063,
+        "word": "低风险区返京后3天2检可解除弹窗",
+        "onboard_time": 1665065605,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124686,
+        "num": 124686,
+        "word": "懒人瘦腿真的很简单",
+        "onboard_time": 1665063382,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113151,
+        "num": 113151,
+        "word": "汤唯釜日电影奖最佳女主角",
+        "onboard_time": 1665053783,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 111388,
+        "num": 111388,
+        "word": "KPL中路天花板清融",
+        "onboard_time": 1665070465,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 107613,
+        "num": 107613,
+        "word": "西安太冷冷冷冷了",
+        "onboard_time": 1665046765,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100720,
+        "num": 100720,
+        "word": "冷雨夜男子怕违章高速抛下妻子",
+        "onboard_time": 1665055584,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96014,
+        "num": 96014,
+        "word": "马龙11比0",
+        "onboard_time": 1665044124,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88539,
+        "num": 88539,
+        "word": "这就是被食堂阿姨关照的幸福",
+        "onboard_time": 1665068724,
+        "rank": 23,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 78355,
+        "num": 78355,
+        "word": "被迫在地铁上看了三部小说",
+        "onboard_time": 1665045865,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77646,
+        "num": 77646,
+        "word": "李沁晒照告别请君",
+        "onboard_time": 1665072561,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 75240,
+        "num": 75240,
+        "word": "父母得知儿女回家深夜门口等待",
+        "onboard_time": 1665061703,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70991,
+        "num": 70991,
+        "word": "没想到头发还可以这样编",
+        "onboard_time": 1665062846,
+        "rank": 27,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 70417,
+        "num": 70417,
+        "word": "你追过的烧脑剧综",
+        "onboard_time": 1665069084,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 65453,
+        "num": 65453,
+        "word": "这是中国人国庆独有的浪漫",
+        "onboard_time": 1665067044,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62223,
+        "num": 62223,
+        "word": "eStar七冠王",
+        "onboard_time": 1665067647,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 59159,
+        "num": 59159,
+        "word": "王一博练舞七宫格剧照",
+        "onboard_time": 1665062185,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 59066,
+        "num": 59066,
+        "word": "家人驱车25小时看望远嫁9年女儿",
+        "onboard_time": 1665052943,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58139,
+        "num": 58139,
+        "word": "就想问能不能不上班",
+        "onboard_time": 1665052166,
+        "rank": 33,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 57278,
+        "num": 57278,
+        "word": "王安宇在娱乐圈当运动员",
+        "onboard_time": 1665060685,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 56434,
+        "num": 56434,
+        "word": "飞狐外传大结局",
+        "onboard_time": 1665075017,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 54964,
+        "num": 54964,
+        "word": "张睿国风大典白衣造型",
+        "onboard_time": 1665069205,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 54330,
+        "num": 54330,
+        "word": "万里归途票房破10亿",
+        "onboard_time": 1665061044,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 53409,
+        "num": 53409,
+        "word": "朴灿烈唱Tomorrow",
+        "onboard_time": 1665061525,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 50424,
+        "num": 50424,
+        "word": "节后上班第一天冷空气将再发货",
+        "onboard_time": 1665056005,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48672,
+        "num": 48672,
+        "word": "新iPhone上手体验",
+        "onboard_time": 1665047364,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 48006,
+        "num": 48006,
+        "word": "任嘉伦晒收官剧照告别陆炎",
+        "onboard_time": 1665069505,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 46344,
+        "num": 46344,
+        "word": "拼车进京一家四口均感染",
+        "onboard_time": 1665048983,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45707,
+        "num": 45707,
+        "word": "陆炎剖丹牺牲",
+        "onboard_time": 1665058884,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 44624,
+        "num": 44624,
+        "word": "真的有让人快乐的食物",
+        "onboard_time": 1665064645,
+        "rank": 44,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 40111,
+        "num": 40111,
+        "word": "西安街头羽绒服与短袖齐飞",
+        "onboard_time": 1665053605,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37916,
+        "num": 37916,
+        "word": "听到开饭猫咪有多兴奋",
+        "onboard_time": 1665064645,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 36109,
+        "num": 36109,
+        "word": "子阳FMVP",
+        "onboard_time": 1665068546,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 31411,
+        "num": 31411,
+        "word": "eStar冠军五人组",
+        "onboard_time": 1665069324,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 29015,
+        "num": 29015,
+        "word": "2小孩地铁内踩座位拉扶手荡秋千",
+        "onboard_time": 1665050545,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光#"
+    }
+  }
+}
