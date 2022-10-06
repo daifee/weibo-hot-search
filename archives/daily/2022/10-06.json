@@ -1,6 +1,6 @@
 {
   "startTime": 1664988941943,
-  "endTime": 1665046376468,
+  "endTime": 1665048646401,
   "band_list": [
     {
       "raw_hot": 3489698,
@@ -83,6 +83,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1069587,
+      "num": 1069587,
+      "word": "大一新生宿舍里扮领导遇真领导",
+      "onboard_time": 1665044304,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 895185,
+      "num": 895185,
+      "word": "被迫在地铁上看了三部小说",
+      "onboard_time": 1665045865,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 862764,
       "num": 862764,
       "word": "教资报考人数10年翻66倍",
@@ -153,14 +169,6 @@
       "onboard_time": 1665036504,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 633326,
-      "num": 633326,
-      "word": "大一新生宿舍里扮领导遇真领导",
-      "onboard_time": 1665044304,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 625031,
@@ -291,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 448230,
+      "num": 448230,
+      "word": "西安太冷冷冷冷了",
+      "onboard_time": 1665046765,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 447725,
       "num": 447725,
       "word": "追梦格林道歉",
@@ -339,6 +355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 403040,
+      "num": 403040,
+      "word": "虞书欣晒两个人的小森林片场记录",
+      "onboard_time": 1665048504,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 399407,
       "num": 399407,
       "word": "司母戊鼎其实叫后母戊鼎",
@@ -369,6 +393,14 @@
       "onboard_time": 1664985083,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 374468,
+      "num": 360510,
+      "word": "泰国东北部突发枪击",
+      "onboard_time": 1665047004,
+      "rank": 10,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 369339,
@@ -409,6 +441,22 @@
       "onboard_time": 1664980584,
       "rank": 4,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 309203,
+      "num": 309203,
+      "word": "新iPhone上手体验",
+      "onboard_time": 1665047364,
+      "rank": 13,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 300019,
+      "num": 300019,
+      "word": "庞博高中时写给学弟的寄语",
+      "onboard_time": 1665044727,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 295113,
@@ -515,14 +563,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 237340,
-      "num": 237340,
-      "word": "庞博高中时写给学弟的寄语",
-      "onboard_time": 1665044727,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 237135,
       "num": 164627,
       "word": "3名男孩无视劝阻向马路中央扔瓶子",
@@ -603,12 +643,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211770,
+      "num": 211770,
+      "word": "虞美人庄羽抓手杀绝了",
+      "onboard_time": 1665045264,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 208633,
       "num": 208633,
       "word": "村民婚宴前夕乡亲自带菜刀帮做饭",
       "onboard_time": 1665028823,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207373,
+      "num": 207373,
+      "word": "有个15后家长是啥体验",
+      "onboard_time": 1665047846,
+      "rank": 19,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 205520,
@@ -641,6 +697,14 @@
       "onboard_time": 1664973923,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 198435,
+      "num": 198435,
+      "word": "王楚钦3比0沙",
+      "onboard_time": 1665046044,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 194132,
@@ -731,14 +795,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 168344,
-      "num": 168344,
-      "word": "虞美人庄羽抓手杀绝了",
-      "onboard_time": 1665045264,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 167702,
       "num": 167702,
       "word": "詹姆斯半场23分",
@@ -777,14 +833,6 @@
       "onboard_time": 1665046225,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 152726,
-      "num": 152726,
-      "word": "被迫在地铁上看了三部小说",
-      "onboard_time": 1665045865,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 151857,
@@ -851,6 +899,22 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 131462,
+      "num": 131462,
+      "word": "云海遇上丁达尔效应有多绝",
+      "onboard_time": 1665044905,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128347,
+      "num": 128347,
+      "word": "于登登是陆炎初恋",
+      "onboard_time": 1665045325,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 126045,
       "num": 126045,
       "word": "周笔畅密逃4画风逐渐跑偏",
@@ -875,6 +939,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 119386,
+      "num": 119386,
+      "word": "马龙太牛了",
+      "onboard_time": 1665047486,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115211,
       "num": 112183,
       "word": "金晨的演技",
@@ -897,14 +969,6 @@
       "onboard_time": 1665015077,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 112252,
-      "num": 101907,
-      "word": "于登登是陆炎初恋",
-      "onboard_time": 1665045325,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 111637,
@@ -968,14 +1032,6 @@
       "word": "景区回应游客被梅花鹿踢脸",
       "onboard_time": 1664993473,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 102913,
-      "num": 102913,
-      "word": "云海遇上丁达尔效应有多绝",
-      "onboard_time": 1665044905,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1081,14 +1137,6 @@
       "onboard_time": 1665041063,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 77961,
-      "num": 77961,
-      "word": "王楚钦3比0沙",
-      "onboard_time": 1665046044,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 77656,
@@ -1201,6 +1249,14 @@
       "onboard_time": 1664973205,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 56310,
+      "num": 56310,
+      "word": "胡八一是什么牌子的导航",
+      "onboard_time": 1665046944,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 55063,
@@ -1361,6 +1417,14 @@
       "onboard_time": 1664990116,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 16356,
+      "num": 303295,
+      "word": "山海情凌教授原型将中国菌草带到非洲",
+      "onboard_time": 1665047725,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13206,
