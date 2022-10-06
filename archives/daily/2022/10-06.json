@@ -1,22 +1,62 @@
 {
   "startTime": 1664988941943,
-  "endTime": 1665013664869,
+  "endTime": 1665022164035,
   "band_list": [
     {
+      "raw_hot": 1453694,
+      "num": 1453694,
+      "word": "10月5日新增本土无症状1005例",
+      "onboard_time": 1665019342,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1280973,
+      "num": 923699,
+      "word": "男子获56万拆迁款前妻分走近一半",
+      "onboard_time": 1665018141,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1197272,
+      "num": 1197272,
+      "word": "量子纠缠",
+      "onboard_time": 1664972303,
+      "rank": 0,
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 842438,
+      "num": 842438,
+      "word": "3类人群不适合秋冻",
+      "onboard_time": 1665012737,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 702098,
-      "num": 185260,
+      "num": 350748,
       "word": "王嘉尔10个月18封",
       "onboard_time": 1664981302,
       "rank": 10,
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 684693,
-      "num": 684693,
-      "word": "量子纠缠",
-      "onboard_time": 1664972303,
-      "rank": 0,
-      "category": "社会新闻,科技"
+      "raw_hot": 676089,
+      "num": 676089,
+      "word": "教育部鼓励高校加强恋爱心理教育",
+      "onboard_time": 1665019042,
+      "rank": 5,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 595349,
+      "num": 595349,
+      "word": "海天味业参与起草酱油行业现行标准",
+      "onboard_time": 1665014659,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 560058,
@@ -60,10 +100,18 @@
     },
     {
       "raw_hot": 425957,
-      "num": 185296,
+      "num": 333557,
       "word": "38岁新娘回应14岁儿子抱自己出嫁",
       "onboard_time": 1664974044,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 399407,
+      "num": 399407,
+      "word": "司母戊鼎其实叫后母戊鼎",
+      "onboard_time": 1665013097,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -75,6 +123,30 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 369339,
+      "num": 369339,
+      "word": "李沁请君被求婚的反应",
+      "onboard_time": 1665015860,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 335113,
+      "num": 335113,
+      "word": "喝咖啡是否会骨质疏松要看这两点",
+      "onboard_time": 1665017961,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 331750,
+      "num": 331750,
+      "word": "画家16岁开始画虎画了近60年",
+      "onboard_time": 1665018680,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326292,
       "num": 326292,
       "word": "猫咪凌晨电饭锅中熟睡搞懵主人",
@@ -83,12 +155,44 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 291683,
+      "num": 291683,
+      "word": "追梦格林普尔训练发生冲突",
+      "onboard_time": 1665019763,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 290839,
+      "num": 290839,
+      "word": "会主动向伴侣坦白黑历史吗",
+      "onboard_time": 1665014298,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 271042,
       "num": 271042,
       "word": "潘粤明是鬼吹灯最忙幕后",
       "onboard_time": 1664985803,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 264286,
+      "num": 264286,
+      "word": "北京10月5日新增本土确诊2例",
+      "onboard_time": 1665016940,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252872,
+      "num": 252872,
+      "word": "拉伸完一下子就舒服了",
+      "onboard_time": 1665015681,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 251016,
@@ -155,12 +259,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189680,
+      "num": 189680,
+      "word": "长春新增本土无症状5例",
+      "onboard_time": 1665021022,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180512,
+      "num": 180512,
+      "word": "女子耗时4天做甄嬛传立体手账",
+      "onboard_time": 1664995212,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179369,
       "num": 179369,
       "word": "3岁女儿手洗衣服称心疼妈妈",
       "onboard_time": 1665002770,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175140,
+      "num": 175140,
+      "word": "气温骤降女子裹棉被逛景区",
+      "onboard_time": 1665021201,
+      "rank": 22,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 174351,
@@ -180,11 +308,19 @@
     },
     {
       "raw_hot": 170587,
-      "num": 147967,
+      "num": 164710,
       "word": "昆仑神宫 九层妖楼",
       "onboard_time": 1664983582,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 155269,
+      "num": 155269,
+      "word": "广汉疫情防控",
+      "onboard_time": 1665021022,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148084,
@@ -195,19 +331,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146496,
+      "num": 146496,
+      "word": "当你年少时好上头",
+      "onboard_time": 1665015620,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 146448,
+      "num": 146448,
+      "word": "如何惹怒一个养猫人",
+      "onboard_time": 1665014057,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 145662,
       "num": 145662,
       "word": "男子在爱心取水机前进货式取水",
       "onboard_time": 1664994853,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144210,
-      "num": 144210,
-      "word": "3类人群不适合秋冻",
-      "onboard_time": 1665012737,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -217,14 +361,6 @@
       "onboard_time": 1664977704,
       "rank": 18,
       "category": "军事,国外要闻"
-    },
-    {
-      "raw_hot": 125261,
-      "num": 125261,
-      "word": "女子耗时4天做甄嬛传立体手账",
-      "onboard_time": 1664995212,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 120125,
@@ -243,6 +379,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 113526,
+      "num": 113526,
+      "word": "童年就像一个做了很久的梦",
+      "onboard_time": 1665015077,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 111637,
+      "num": 111637,
+      "word": "10月5日新增本土确诊183例",
+      "onboard_time": 1665019282,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111284,
       "num": 111284,
       "word": "海滩上牡蛎一捞一麻袋",
@@ -259,6 +411,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 109922,
+      "num": 109922,
+      "word": "男子酒驾冲卡撞飞交警称撞死赔命",
+      "onboard_time": 1665021382,
+      "rank": 38,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 107777,
+      "num": 107777,
+      "word": "孙悟空腾云驾雾视角看中国",
+      "onboard_time": 1665019763,
+      "rank": 39,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 106675,
+      "num": 106675,
+      "word": "脱口秀大会",
+      "onboard_time": 1664978783,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102967,
       "num": 102967,
       "word": "景区回应游客被梅花鹿踢脸",
@@ -273,6 +449,14 @@
       "onboard_time": 1664980405,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 102179,
+      "num": 102179,
+      "word": "中国女排3比0战胜波多黎各",
+      "onboard_time": 1665013277,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 100825,
@@ -339,28 +523,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 87095,
-      "num": 87095,
-      "word": "中国女排3比0战胜波多黎各",
-      "onboard_time": 1665013277,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 86163,
       "num": 86163,
       "word": "异地恋如何给对象过生日",
       "onboard_time": 1664973083,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 82347,
-      "num": 77775,
-      "word": "脱口秀大会",
-      "onboard_time": 1664978783,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 77656,
@@ -379,19 +547,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 75964,
+      "num": 75964,
+      "word": "需要有一些浪费的时间",
+      "onboard_time": 1665021863,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 72862,
       "num": 72862,
       "word": "如何看海天味业否认双标",
       "onboard_time": 1665003550,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 67874,
-      "num": 67874,
-      "word": "司母戊鼎其实叫后母戊鼎",
-      "onboard_time": 1665013097,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -595,20 +763,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 11802,
+      "num": 948454,
+      "word": "多机位打开国庆节氛围感",
+      "onboard_time": 1664800944,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 8384,
       "num": 8384,
       "word": "国乒女团世乒赛五连胜",
       "onboard_time": 1665000612,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 7169,
-      "num": 548233,
-      "word": "多机位打开国庆节氛围感",
-      "onboard_time": 1664800944,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 6486,
