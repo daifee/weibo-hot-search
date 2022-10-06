@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1665081283475,
+  "endTime": 1665082614866,
   "band_list": [
     {
       "raw_hot": 5104220,
@@ -6203,6 +6203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 70479,
+      "num": 70479,
+      "word": "中国女排对阵荷兰女排",
+      "onboard_time": 1665079334,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69683,
       "num": 69683,
       "word": "人生大事登顶中国台湾网飞电影榜",
@@ -6241,14 +6249,6 @@
       "onboard_time": 1664839817,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 68503,
-      "num": 68503,
-      "word": "中国女排对阵荷兰女排",
-      "onboard_time": 1665079334,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 67806,
@@ -6691,6 +6691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 33059,
+      "num": 33059,
+      "word": "这鳄鱼好像也不是那么可怕",
+      "onboard_time": 1665078674,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 32401,
       "num": 32401,
       "word": "EG对战MAD",
@@ -6755,16 +6763,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 24057,
-      "num": 24057,
-      "word": "这鳄鱼好像也不是那么可怕",
-      "onboard_time": 1665078674,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 19123,
-      "num": 19123,
+      "raw_hot": 21295,
+      "num": 21295,
       "word": "极品飞车不羁",
       "onboard_time": 1665078075,
       "rank": 48,

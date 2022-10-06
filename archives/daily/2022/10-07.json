@@ -1,6 +1,6 @@
 {
   "startTime": 1665074398460,
-  "endTime": 1665081283475,
+  "endTime": 1665082614866,
   "band_list": [
     {
       "raw_hot": 1873478,
@@ -307,20 +307,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 70479,
+      "num": 70479,
+      "word": "中国女排对阵荷兰女排",
+      "onboard_time": 1665079334,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70409,
       "num": 70409,
       "word": "朴灿烈唱Tomorrow",
       "onboard_time": 1665061525,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 68503,
-      "num": 68503,
-      "word": "中国女排对阵荷兰女排",
-      "onboard_time": 1665079334,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 63644,
@@ -419,16 +419,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24057,
-      "num": 24057,
+      "raw_hot": 33059,
+      "num": 33059,
       "word": "这鳄鱼好像也不是那么可怕",
       "onboard_time": 1665078674,
       "rank": 49,
       "category": "幽默"
     },
     {
-      "raw_hot": 19123,
-      "num": 19123,
+      "raw_hot": 21295,
+      "num": 21295,
       "word": "极品飞车不羁",
       "onboard_time": 1665078075,
       "rank": 48,
