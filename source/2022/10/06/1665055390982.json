@@ -1,0 +1,410 @@
+{
+  "runTime": 1665055390982,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1264974,
+        "num": 1264974,
+        "word": "马龙11比0",
+        "onboard_time": 1665044124,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1038932,
+        "num": 1038932,
+        "word": "被迫在地铁上看了三部小说",
+        "onboard_time": 1665045865,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 17728,
+        "num": 1037059,
+        "word": "太空视角俯瞰祖国大江南北",
+        "onboard_time": 1665029662,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1035363,
+        "num": 1035363,
+        "word": "高卫东患癌去世",
+        "onboard_time": 1665053783,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 715613,
+        "num": 715613,
+        "word": "汤唯釜日电影奖最佳女主角",
+        "onboard_time": 1665053783,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 563054,
+        "num": 563054,
+        "word": "西安太冷冷冷冷了",
+        "onboard_time": 1665046765,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554894,
+        "num": 554894,
+        "word": "拼车进京一家四口均感染",
+        "onboard_time": 1665048983,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473723,
+        "num": 473723,
+        "word": "大一新生宿舍里扮领导遇真领导",
+        "onboard_time": 1665044304,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412908,
+        "num": 412908,
+        "word": "就想问能不能不上班",
+        "onboard_time": 1665052166,
+        "rank": 8,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 373007,
+        "num": 373007,
+        "word": "新冠病毒或对心脏DNA产生影响",
+        "onboard_time": 1665031580,
+        "rank": 9,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 584678,
+        "num": 366201,
+        "word": "朴灿烈正式直播",
+        "onboard_time": 1665053304,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330904,
+        "num": 330904,
+        "word": "2小孩地铁内踩座位拉扶手荡秋千",
+        "onboard_time": 1665050545,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300676,
+        "num": 300676,
+        "word": "新iPhone上手体验",
+        "onboard_time": 1665047364,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 265085,
+        "num": 265085,
+        "word": "海克斯科技伤害了谁",
+        "onboard_time": 1665036084,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260657,
+        "num": 260657,
+        "word": "印度队找国乒签名",
+        "onboard_time": 1665049226,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255510,
+        "num": 255510,
+        "word": "卫生院工作人员代预约HPV疫苗骗32万",
+        "onboard_time": 1665051385,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248258,
+        "num": 248258,
+        "word": "当你的妈妈是个搞笑女",
+        "onboard_time": 1665049584,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222442,
+        "num": 222442,
+        "word": "有个15后家长是啥体验",
+        "onboard_time": 1665047846,
+        "rank": 17,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 210929,
+        "num": 210929,
+        "word": "泰国东北部突发枪击",
+        "onboard_time": 1665047004,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 207386,
+        "num": 207386,
+        "word": "英国一大学课堂全是中国人",
+        "onboard_time": 1665036442,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 206431,
+        "num": 206431,
+        "word": "原来在东北还能这样吃包子",
+        "onboard_time": 1665052043,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 191380,
+        "num": 191380,
+        "word": "我的反派男友糖里带刀",
+        "onboard_time": 1665053783,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174982,
+        "num": 174982,
+        "word": "内蒙古新增本土无症状445例",
+        "onboard_time": 1665041783,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169863,
+        "num": 169863,
+        "word": "家人驱车25小时看望远嫁9年女儿",
+        "onboard_time": 1665052943,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162127,
+        "num": 162127,
+        "word": "幼儿园小朋友打篮球神走位",
+        "onboard_time": 1665049943,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154154,
+        "num": 154154,
+        "word": "西安街头羽绒服与短袖齐飞",
+        "onboard_time": 1665053605,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149529,
+        "num": 149529,
+        "word": "王鹤棣给流星花园OST原唱打call",
+        "onboard_time": 1665044424,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 135044,
+        "num": 135044,
+        "word": "2022王者荣耀挑战者杯总决赛",
+        "onboard_time": 1665048685,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134457,
+        "num": 134457,
+        "word": "庞博高中时写给学弟的寄语",
+        "onboard_time": 1665044727,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132869,
+        "num": 132869,
+        "word": "95后女孩休学后进山当农民",
+        "onboard_time": 1665042924,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126140,
+        "num": 126140,
+        "word": "刘雨昕的popping是这样练成的",
+        "onboard_time": 1665050904,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119607,
+        "num": 119607,
+        "word": "女生留校过节家人背猫带零食看望",
+        "onboard_time": 1665049105,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110414,
+        "num": 110414,
+        "word": "总有人背着我偷偷进化",
+        "onboard_time": 1665050845,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98566,
+        "num": 98566,
+        "word": "小伙带父亲花2天帮女友家扒苞米",
+        "onboard_time": 1665040523,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97491,
+        "num": 97491,
+        "word": "沈月的演技",
+        "onboard_time": 1665038784,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 96368,
+        "num": 96368,
+        "word": "小狗的表情居然能这么丰富",
+        "onboard_time": 1665054865,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95482,
+        "num": 95482,
+        "word": "努力搓球球的小螃蟹",
+        "onboard_time": 1665054626,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95162,
+        "num": 95162,
+        "word": "教资报考人数10年翻66倍",
+        "onboard_time": 1665032542,
+        "rank": 37,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 89163,
+        "num": 89163,
+        "word": "陈奕迅演唱会",
+        "onboard_time": 1665027382,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 83037,
+        "num": 83037,
+        "word": "女子景区拍照意外拍下游客落水",
+        "onboard_time": 1665039623,
+        "rank": 39,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 79009,
+        "num": 79009,
+        "word": "虞美人庄羽抓手杀绝了",
+        "onboard_time": 1665045264,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 78039,
+        "num": 78039,
+        "word": "马龙太牛了",
+        "onboard_time": 1665047486,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76196,
+        "num": 76196,
+        "word": "河狸偷吃葵花惹牧民生气咋办",
+        "onboard_time": 1665054383,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71929,
+        "num": 71929,
+        "word": "妇产科主任藏匿婴儿私自喂养",
+        "onboard_time": 1665023484,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69503,
+        "num": 69503,
+        "word": "万里归途独家幕后记录",
+        "onboard_time": 1665050964,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 62371,
+        "num": 62371,
+        "word": "于登登是陆炎初恋",
+        "onboard_time": 1665045325,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 57834,
+        "num": 57834,
+        "word": "女子买煎饼加料加出下颌关节炎",
+        "onboard_time": 1665027503,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210051,
+        "num": 57723,
+        "word": "虞书欣张彬彬病房互撩花絮",
+        "onboard_time": 1665055345,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 56745,
+        "num": 56745,
+        "word": "云海遇上丁达尔效应有多绝",
+        "onboard_time": 1665044905,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52449,
+        "num": 52449,
+        "word": "程潇赞多360度旋转公主抱",
+        "onboard_time": 1665036504,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光#"
+    }
+  }
+}
