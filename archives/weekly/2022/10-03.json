@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1665048646401,
+  "endTime": 1665049919178,
   "band_list": [
     {
       "raw_hot": 5104220,
@@ -395,6 +395,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 1118124,
+      "num": 1118124,
+      "word": "被迫在地铁上看了三部小说",
+      "onboard_time": 1665045865,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1108623,
       "num": 916622,
       "word": "庞博十八岁的自己",
@@ -531,14 +539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 895185,
-      "num": 895185,
-      "word": "被迫在地铁上看了三部小说",
-      "onboard_time": 1665045865,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 881416,
       "num": 881416,
       "word": "2022年诺贝尔化学奖揭晓",
@@ -657,6 +657,14 @@
       "onboard_time": 1664859863,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 785676,
+      "num": 785676,
+      "word": "西安太冷冷冷冷了",
+      "onboard_time": 1665046765,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 785131,
@@ -1267,6 +1275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 484829,
+      "num": 484829,
+      "word": "新iPhone上手体验",
+      "onboard_time": 1665047364,
+      "rank": 13,
+      "category": "科技"
+    },
+    {
       "raw_hot": 482691,
       "num": 281276,
       "word": "北京最新进返京提醒",
@@ -1491,6 +1507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 453053,
+      "num": 371478,
+      "word": "泰国东北部突发枪击",
+      "onboard_time": 1665047004,
+      "rank": 10,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 451415,
       "num": 425366,
       "word": "万里归途成影史国庆节总场次冠军",
@@ -1513,14 +1537,6 @@
       "onboard_time": 1664793442,
       "rank": 29,
       "category": "军事"
-    },
-    {
-      "raw_hot": 448230,
-      "num": 448230,
-      "word": "西安太冷冷冷冷了",
-      "onboard_time": 1665046765,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 448051,
@@ -1721,6 +1737,14 @@
       "onboard_time": 1664755461,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 421751,
+      "num": 421751,
+      "word": "有个15后家长是啥体验",
+      "onboard_time": 1665047846,
+      "rank": 19,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 418774,
@@ -1985,14 +2009,6 @@
       "onboard_time": 1664871444,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 374468,
-      "num": 360510,
-      "word": "泰国东北部突发枪击",
-      "onboard_time": 1665047004,
-      "rank": 10,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 373120,
@@ -2281,14 +2297,6 @@
       "onboard_time": 1664964504,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 309203,
-      "num": 309203,
-      "word": "新iPhone上手体验",
-      "onboard_time": 1665047364,
-      "rank": 13,
-      "category": "科技"
     },
     {
       "raw_hot": 307530,
@@ -3355,14 +3363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207373,
-      "num": 207373,
-      "word": "有个15后家长是啥体验",
-      "onboard_time": 1665047846,
-      "rank": 19,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 207269,
       "num": 207269,
       "word": "女孩国庆帮喂猫一周将赚5千",
@@ -3769,6 +3769,14 @@
       "onboard_time": 1664721383,
       "rank": 20,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 174995,
+      "num": 174995,
+      "word": "2022王者荣耀挑战者杯总决赛",
+      "onboard_time": 1665048685,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 174829,
@@ -4459,6 +4467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130669,
+      "num": 130669,
+      "word": "拼车进京一家四口均感染",
+      "onboard_time": 1665048983,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128787,
       "num": 128787,
       "word": "这是狗狗眼里的满分主人吧",
@@ -4585,6 +4601,14 @@
       "onboard_time": 1664930420,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 123813,
+      "num": 123813,
+      "word": "印度队找国乒签名",
+      "onboard_time": 1665049226,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 123755,
@@ -5395,6 +5419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 76776,
+      "num": 76776,
+      "word": "女生留校过节家人背猫带零食看望",
+      "onboard_time": 1665049105,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76567,
       "num": 76567,
       "word": "2个拉伸动作塑造腿部线条",
@@ -5425,6 +5457,14 @@
       "onboard_time": 1664873902,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 75400,
+      "num": 75400,
+      "word": "饶晓志催吴京张译王俊凯二搭",
+      "onboard_time": 1665049584,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 74868,
@@ -5497,6 +5537,14 @@
       "onboard_time": 1665003550,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 72629,
+      "num": 72629,
+      "word": "当你的妈妈是个搞笑女",
+      "onboard_time": 1665049584,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 72608,
@@ -5963,6 +6011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38096,
+      "num": 303295,
+      "word": "山海情凌教授原型将中国菌草带到非洲",
+      "onboard_time": 1665047725,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37522,
       "num": 37522,
       "word": "张雨绮暗黑御姐造型",
@@ -6081,14 +6137,6 @@
       "onboard_time": 1664990116,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 16356,
-      "num": 303295,
-      "word": "山海情凌教授原型将中国菌草带到非洲",
-      "onboard_time": 1665047725,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13206,

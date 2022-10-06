@@ -1,0 +1,410 @@
+{
+  "runTime": 1665049919178,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2196123,
+        "num": 2196123,
+        "word": "马龙11比0",
+        "onboard_time": 1665044124,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1118124,
+        "num": 1118124,
+        "word": "被迫在地铁上看了三部小说",
+        "onboard_time": 1665045865,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37753,
+        "num": 1053060,
+        "word": "太空视角俯瞰祖国大江南北",
+        "onboard_time": 1665029662,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 997546,
+        "num": 997546,
+        "word": "大一新生宿舍里扮领导遇真领导",
+        "onboard_time": 1665044304,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 785676,
+        "num": 785676,
+        "word": "西安太冷冷冷冷了",
+        "onboard_time": 1665046765,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484829,
+        "num": 484829,
+        "word": "新iPhone上手体验",
+        "onboard_time": 1665047364,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 455328,
+        "num": 455328,
+        "word": "英国一大学课堂全是中国人",
+        "onboard_time": 1665036442,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 450867,
+        "num": 450867,
+        "word": "海克斯科技伤害了谁",
+        "onboard_time": 1665036084,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421751,
+        "num": 421751,
+        "word": "有个15后家长是啥体验",
+        "onboard_time": 1665047846,
+        "rank": 8,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 380911,
+        "num": 380911,
+        "word": "虞书欣晒两个人的小森林片场记录",
+        "onboard_time": 1665048504,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 453053,
+        "num": 371478,
+        "word": "泰国东北部突发枪击",
+        "onboard_time": 1665047004,
+        "rank": 10,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 356301,
+        "num": 356301,
+        "word": "新冠病毒或对心脏DNA产生影响",
+        "onboard_time": 1665031580,
+        "rank": 11,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 306024,
+        "num": 306024,
+        "word": "王鹤棣给流星花园OST原唱打call",
+        "onboard_time": 1665044424,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 281927,
+        "num": 281927,
+        "word": "内蒙古新增本土无症状445例",
+        "onboard_time": 1665041783,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38096,
+        "num": 253680,
+        "word": "山海情凌教授原型将中国菌草带到非洲",
+        "onboard_time": 1665047725,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247169,
+        "num": 247169,
+        "word": "95后女孩休学后进山当农民",
+        "onboard_time": 1665042924,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241148,
+        "num": 241148,
+        "word": "庞博高中时写给学弟的寄语",
+        "onboard_time": 1665044727,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204384,
+        "num": 204384,
+        "word": "虞美人庄羽抓手杀绝了",
+        "onboard_time": 1665045264,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195236,
+        "num": 195236,
+        "word": "小伙带父亲花2天帮女友家扒苞米",
+        "onboard_time": 1665040523,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174995,
+        "num": 174995,
+        "word": "2022王者荣耀挑战者杯总决赛",
+        "onboard_time": 1665048685,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174715,
+        "num": 174715,
+        "word": "王楚钦3比0沙",
+        "onboard_time": 1665046044,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162894,
+        "num": 162894,
+        "word": "女子景区拍照意外拍下游客落水",
+        "onboard_time": 1665039623,
+        "rank": 21,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 157262,
+        "num": 157262,
+        "word": "沈月的演技",
+        "onboard_time": 1665038784,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153722,
+        "num": 153722,
+        "word": "教资报考人数10年翻66倍",
+        "onboard_time": 1665032542,
+        "rank": 23,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 144837,
+        "num": 144837,
+        "word": "陈奕迅演唱会",
+        "onboard_time": 1665027382,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 142114,
+        "num": 142114,
+        "word": "女子买煎饼加料加出下颌关节炎",
+        "onboard_time": 1665027503,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130669,
+        "num": 130669,
+        "word": "拼车进京一家四口均感染",
+        "onboard_time": 1665048983,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123813,
+        "num": 123813,
+        "word": "印度队找国乒签名",
+        "onboard_time": 1665049226,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122573,
+        "num": 122573,
+        "word": "云海遇上丁达尔效应有多绝",
+        "onboard_time": 1665044905,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117598,
+        "num": 117598,
+        "word": "马龙太牛了",
+        "onboard_time": 1665047486,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151485,
+        "num": 116062,
+        "word": "妇产科主任藏匿婴儿私自喂养",
+        "onboard_time": 1665023484,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112433,
+        "num": 112433,
+        "word": "于登登是陆炎初恋",
+        "onboard_time": 1665045325,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 101953,
+        "num": 101953,
+        "word": "泰迪欺负小猫后被猫妈妈抓破鼻子",
+        "onboard_time": 1665034883,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95181,
+        "num": 95181,
+        "word": "华春莹连发13张图宣传中国制造",
+        "onboard_time": 1665030682,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93523,
+        "num": 93523,
+        "word": "炽道一家三口",
+        "onboard_time": 1665044364,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 89657,
+        "num": 89657,
+        "word": "程潇赞多360度旋转公主抱",
+        "onboard_time": 1665036504,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77331,
+        "num": 77331,
+        "word": "周笔畅密逃4画风逐渐跑偏",
+        "onboard_time": 1665044304,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76776,
+        "num": 76776,
+        "word": "女生留校过节家人背猫带零食看望",
+        "onboard_time": 1665049105,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75400,
+        "num": 75400,
+        "word": "饶晓志催吴京张译王俊凯二搭",
+        "onboard_time": 1665049584,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 74419,
+        "num": 74419,
+        "word": "这是游戏界的天花板吧",
+        "onboard_time": 1665039383,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 72629,
+        "num": 72629,
+        "word": "当你的妈妈是个搞笑女",
+        "onboard_time": 1665049584,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 72357,
+        "num": 72357,
+        "word": "孩子躺地上耍赖妈妈淡定玩手机",
+        "onboard_time": 1665033984,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72324,
+        "num": 72324,
+        "word": "刘国梁获任国际乒联第一副主席",
+        "onboard_time": 1665033627,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71628,
+        "num": 71628,
+        "word": "第一次见这么贵气的猫猫",
+        "onboard_time": 1665027923,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 64315,
+        "num": 64315,
+        "word": "智族GQ梁朝伟王一博程耳概念封面",
+        "onboard_time": 1665036145,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 63128,
+        "num": 63128,
+        "word": "近九成大学生支持开设恋爱课",
+        "onboard_time": 1665023963,
+        "rank": 45,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 62537,
+        "num": 62537,
+        "word": "原来古人也有有趣的灵魂",
+        "onboard_time": 1665038544,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 58226,
+        "num": 58226,
+        "word": "追梦格林道歉",
+        "onboard_time": 1665029602,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51865,
+        "num": 51865,
+        "word": "国乒男团晋级世乒赛8强",
+        "onboard_time": 1665045625,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50900,
+        "num": 50900,
+        "word": "男明星十月封面",
+        "onboard_time": 1665039923,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#多机位打开国庆节氛围感#"
+    }
+  }
+}
