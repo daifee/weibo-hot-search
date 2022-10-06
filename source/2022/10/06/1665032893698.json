@@ -1,0 +1,410 @@
+{
+  "runTime": 1665032893698,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1523532,
+        "num": 1523532,
+        "word": "女子买煎饼加料加出下颌关节炎",
+        "onboard_time": 1665027503,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1356604,
+        "num": 1356604,
+        "word": "陈奕迅演唱会",
+        "onboard_time": 1665027382,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 60972,
+        "num": 1135634,
+        "word": "太空视角俯瞰祖国大江南北",
+        "onboard_time": 1665029662,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1085499,
+        "num": 1085499,
+        "word": "近九成大学生支持开设恋爱课",
+        "onboard_time": 1665023963,
+        "rank": 3,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 781853,
+        "num": 781853,
+        "word": "新冠病毒或对心脏DNA产生影响",
+        "onboard_time": 1665031580,
+        "rank": 4,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 689248,
+        "num": 689248,
+        "word": "萧无敌消失了",
+        "onboard_time": 1665027683,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 488751,
+        "num": 488751,
+        "word": "特警捂枪口与女孩合影细节好戳",
+        "onboard_time": 1665022822,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463230,
+        "num": 463230,
+        "word": "4只狗崽暴雨天被困狗妈狂吠求救",
+        "onboard_time": 1665028462,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447725,
+        "num": 447725,
+        "word": "追梦格林道歉",
+        "onboard_time": 1665029602,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 400152,
+        "num": 400152,
+        "word": "第一次见这么贵气的猫猫",
+        "onboard_time": 1665027923,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 891616,
+        "num": 370993,
+        "word": "妇产科主任藏匿婴儿私自喂养",
+        "onboard_time": 1665023484,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338968,
+        "num": 338968,
+        "word": "成都火车北站将停运改造",
+        "onboard_time": 1665028162,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328594,
+        "num": 328594,
+        "word": "西安人的羽绒服可以穿上了",
+        "onboard_time": 1665024382,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282006,
+        "num": 282006,
+        "word": "男子获56万拆迁款前妻分走近一半",
+        "onboard_time": 1665018141,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275493,
+        "num": 275493,
+        "word": "量子纠缠",
+        "onboard_time": 1664972303,
+        "rank": 14,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 255760,
+        "num": 255760,
+        "word": "大妈打天价防癌针被骗21万",
+        "onboard_time": 1665023064,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254001,
+        "num": 254001,
+        "word": "吴克群做队长好像经纪人",
+        "onboard_time": 1665030922,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225816,
+        "num": 225816,
+        "word": "刘德华赞万里归途很震撼",
+        "onboard_time": 1665029901,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217206,
+        "num": 217206,
+        "word": "10月5日新增本土无症状1005例",
+        "onboard_time": 1665019342,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199459,
+        "num": 199459,
+        "word": "任嘉伦李沁请君收官大婚剧照",
+        "onboard_time": 1665025942,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 349214,
+        "num": 197935,
+        "word": "华春莹连发13张图宣传中国制造",
+        "onboard_time": 1665030682,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193660,
+        "num": 193660,
+        "word": "王俊凯万里归途票房破9亿",
+        "onboard_time": 1665022883,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193500,
+        "num": 193500,
+        "word": "张家界疫情防控",
+        "onboard_time": 1665025762,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186257,
+        "num": 186257,
+        "word": "村民婚宴前夕乡亲自带菜刀帮做饭",
+        "onboard_time": 1665028823,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173957,
+        "num": 173957,
+        "word": "百岁老人寿宴55名子孙排队贺寿",
+        "onboard_time": 1665025464,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173919,
+        "num": 173919,
+        "word": "民警抱娃就医一口气爬4楼后晕厥",
+        "onboard_time": 1665028041,
+        "rank": 25,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 172906,
+        "num": 172906,
+        "word": "王嘉尔10个月18封",
+        "onboard_time": 1664981302,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 165531,
+        "num": 165531,
+        "word": "张彬彬的演技",
+        "onboard_time": 1665023422,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148625,
+        "num": 148625,
+        "word": "3类人群不适合秋冻",
+        "onboard_time": 1665012737,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148186,
+        "num": 148186,
+        "word": "教育部鼓励高校加强恋爱心理教育",
+        "onboard_time": 1665019042,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 142404,
+        "num": 142404,
+        "word": "太阳vs湖人",
+        "onboard_time": 1665023242,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130593,
+        "num": 130593,
+        "word": "爷爷奶奶的偏爱图鉴",
+        "onboard_time": 1665026723,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130332,
+        "num": 130332,
+        "word": "男子酒驾冲卡撞飞交警称撞死赔命",
+        "onboard_time": 1665021382,
+        "rank": 32,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 126035,
+        "num": 126035,
+        "word": "海天味业参与起草酱油行业现行标准",
+        "onboard_time": 1665014659,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116122,
+        "num": 116122,
+        "word": "春捂秋冻一般以15摄氏度为标准",
+        "onboard_time": 1665024562,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112276,
+        "num": 112276,
+        "word": "画家16岁开始画虎画了近60年",
+        "onboard_time": 1665018680,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109789,
+        "num": 109789,
+        "word": "中国侨网评万里归途",
+        "onboard_time": 1665026962,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 101575,
+        "num": 101575,
+        "word": "为什么要秋冻",
+        "onboard_time": 1665025160,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95831,
+        "num": 95831,
+        "word": "詹姆斯半场23分",
+        "onboard_time": 1665032302,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86793,
+        "num": 86793,
+        "word": "38岁新娘回应14岁儿子抱自己出嫁",
+        "onboard_time": 1664974044,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86515,
+        "num": 86515,
+        "word": "追梦格林普尔训练发生冲突",
+        "onboard_time": 1665019763,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82431,
+        "num": 82431,
+        "word": "如何惹怒一个养猫人",
+        "onboard_time": 1665014057,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80542,
+        "num": 80542,
+        "word": "Minnie双丸子头造型",
+        "onboard_time": 1664985083,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 79336,
+        "num": 79336,
+        "word": "教资报考人数10年翻66倍",
+        "onboard_time": 1665032542,
+        "rank": 43,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 79111,
+        "num": 79111,
+        "word": "广汉疫情防控",
+        "onboard_time": 1665021022,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74460,
+        "num": 74460,
+        "word": "气温骤降女子裹棉被逛景区",
+        "onboard_time": 1665021201,
+        "rank": 45,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 70963,
+        "num": 70963,
+        "word": "需要有一些浪费的时间",
+        "onboard_time": 1665021863,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 69781,
+        "num": 69781,
+        "word": "司母戊鼎其实叫后母戊鼎",
+        "onboard_time": 1665013097,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65954,
+        "num": 65954,
+        "word": "北京10月5日新增本土确诊2例",
+        "onboard_time": 1665016940,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62850,
+        "num": 62850,
+        "word": "脱口秀大会",
+        "onboard_time": 1664978783,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#多机位打开国庆节氛围感#"
+    }
+  }
+}
