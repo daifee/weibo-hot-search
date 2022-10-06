@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665084523871,
+  "endTime": 1665085380976,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -9883,20 +9883,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 18869,
+      "num": 18869,
+      "word": "男子对着隔壁邻居家阳台呲水",
+      "onboard_time": 1665083412,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13206,
       "num": 13206,
       "word": "机器人平均51秒可下线一辆汽车",
       "onboard_time": 1665000251,
       "rank": 44,
       "category": "科技"
-    },
-    {
-      "raw_hot": 13163,
-      "num": 13163,
-      "word": "男子对着隔壁邻居家阳台呲水",
-      "onboard_time": 1665083412,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12428,
@@ -9947,8 +9947,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 10020,
-      "num": 10020,
+      "raw_hot": 10029,
+      "num": 10029,
       "word": "大货车狂按喇叭打转向救下小车",
       "onboard_time": 1665082692,
       "rank": 48,
@@ -9961,6 +9961,14 @@
       "onboard_time": 1664741891,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 8852,
+      "num": 8852,
+      "word": "当猫咪看到主人回家",
+      "onboard_time": 1665085331,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 8384,
