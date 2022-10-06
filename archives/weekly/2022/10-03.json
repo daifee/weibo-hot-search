@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1665032893698,
+  "endTime": 1665034828717,
   "band_list": [
     {
       "raw_hot": 5104220,
@@ -97,6 +97,14 @@
       "onboard_time": 1664863641,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2015050,
+      "num": 2015050,
+      "word": "新冠病毒或对心脏DNA产生影响",
+      "onboard_time": 1665031580,
+      "rank": 4,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 1910204,
@@ -627,14 +635,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 781853,
-      "num": 781853,
-      "word": "新冠病毒或对心脏DNA产生影响",
-      "onboard_time": 1665031580,
-      "rank": 4,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 779488,
       "num": 779488,
       "word": "挪威三文鱼在中国生活得很开心",
@@ -1107,6 +1107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 504732,
+      "num": 504732,
+      "word": "教资报考人数10年翻66倍",
+      "onboard_time": 1665032542,
+      "rank": 43,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 504232,
       "num": 504232,
       "word": "男子看升旗睡着仪式结束还未醒",
@@ -1257,6 +1265,14 @@
       "onboard_time": 1665018680,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 475612,
+      "num": 475612,
+      "word": "第一次见这么贵气的猫猫",
+      "onboard_time": 1665027923,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 474680,
@@ -1659,14 +1675,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 400152,
-      "num": 400152,
-      "word": "第一次见这么贵气的猫猫",
-      "onboard_time": 1665027923,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 399626,
       "num": 399626,
       "word": "张根源李聂正式约会",
@@ -1809,6 +1817,14 @@
       "onboard_time": 1664799685,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 380418,
+      "num": 361451,
+      "word": "华春莹连发13张图宣传中国制造",
+      "onboard_time": 1665030682,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 379333,
@@ -1961,14 +1977,6 @@
       "onboard_time": 1664743991,
       "rank": 24,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 349214,
-      "num": 197935,
-      "word": "华春莹连发13张图宣传中国制造",
-      "onboard_time": 1665030682,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 348599,
@@ -2313,6 +2321,14 @@
       "onboard_time": 1664804964,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 281377,
+      "num": 281377,
+      "word": "刘国梁获任国际乒联第一副主席",
+      "onboard_time": 1665033627,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 281296,
@@ -3059,6 +3075,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 214643,
+      "num": 214643,
+      "word": "我们的歌第四季B组阵容猜测",
+      "onboard_time": 1665033142,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213942,
       "num": 213942,
       "word": "10月3日新增本土确诊250例",
@@ -3105,6 +3129,14 @@
       "onboard_time": 1664771362,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 208633,
+      "num": 208633,
+      "word": "村民婚宴前夕乡亲自带菜刀帮做饭",
+      "onboard_time": 1665028823,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208033,
@@ -3363,14 +3395,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 186257,
-      "num": 186257,
-      "word": "村民婚宴前夕乡亲自带菜刀帮做饭",
-      "onboard_time": 1665028823,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186047,
       "num": 186047,
       "word": "努力有可能超越天赋吗",
@@ -3593,6 +3617,14 @@
       "onboard_time": 1664892685,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167702,
+      "num": 167702,
+      "word": "詹姆斯半场23分",
+      "onboard_time": 1665032302,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 166734,
@@ -4137,6 +4169,14 @@
       "onboard_time": 1664979683,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133303,
+      "num": 133303,
+      "word": "小沈阳工地搬砖好像在演我",
+      "onboard_time": 1665033505,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 132019,
@@ -4763,14 +4803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95831,
-      "num": 95831,
-      "word": "詹姆斯半场23分",
-      "onboard_time": 1665032302,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 95636,
       "num": 95636,
       "word": "这是轻功吧",
@@ -4947,6 +4979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 84652,
+      "num": 84652,
+      "word": "张雨绮现场吃瓜胡八一雪莉杨",
+      "onboard_time": 1665034524,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 83924,
       "num": 83924,
       "word": "长春6旬大爷坚持滑雪21年",
@@ -4968,6 +5008,14 @@
       "word": "华西教授回家过节帮满屋乡亲看病",
       "onboard_time": 1664852424,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81179,
+      "num": 81179,
+      "word": "孩子躺地上耍赖妈妈淡定玩手机",
+      "onboard_time": 1665033984,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -5003,14 +5051,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 79336,
-      "num": 79336,
-      "word": "教资报考人数10年翻66倍",
-      "onboard_time": 1665032542,
-      "rank": 43,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 79022,
       "num": 79022,
       "word": "什么是流石滩植物",
@@ -5033,6 +5073,14 @@
       "onboard_time": 1664887642,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 77391,
+      "num": 77391,
+      "word": "95后美发世界冠军说每人都能成工匠",
+      "onboard_time": 1665034345,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76267,
@@ -5161,6 +5209,14 @@
       "onboard_time": 1664790921,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71527,
+      "num": 1135634,
+      "word": "太空视角俯瞰祖国大江南北",
+      "onboard_time": 1665029662,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 71292,
@@ -5329,14 +5385,6 @@
       "onboard_time": 1664966483,
       "rank": 48,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 60972,
-      "num": 1135634,
-      "word": "太空视角俯瞰祖国大江南北",
-      "onboard_time": 1665029662,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 60266,
