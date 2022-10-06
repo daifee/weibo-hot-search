@@ -1,6 +1,6 @@
 {
   "startTime": 1665074398460,
-  "endTime": 1665091424412,
+  "endTime": 1665092540015,
   "band_list": [
     {
       "raw_hot": 1873478,
@@ -396,7 +396,7 @@
     },
     {
       "raw_hot": 41840,
-      "num": 21263,
+      "num": 21912,
       "word": "北京昌平初步判定密接49人",
       "onboard_time": 1665087072,
       "rank": 47,
@@ -419,6 +419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 40362,
+      "num": 40362,
+      "word": "下周江苏可能出现初霜冻",
+      "onboard_time": 1665087671,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40303,
       "num": 40303,
       "word": "2小孩地铁内踩座位拉扶手荡秋千",
@@ -427,8 +435,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36478,
-      "num": 29449,
+      "raw_hot": 37972,
+      "num": 30827,
       "word": "秋裤并不是越紧身的越保暖",
       "onboard_time": 1665086050,
       "rank": 23,
@@ -443,20 +451,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 30321,
-      "num": 30321,
-      "word": "下周江苏可能出现初霜冻",
-      "onboard_time": 1665087671,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 28606,
       "num": 28606,
       "word": "男子对着隔壁邻居家阳台呲水",
       "onboard_time": 1665083412,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28382,
+      "num": 28382,
+      "word": "小孩飞机上蹦跳家长在旁无动于衷",
+      "onboard_time": 1665089110,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28110,
+      "num": 28110,
+      "word": "52岁交警连续高强度工作累倒在一线",
+      "onboard_time": 1665088331,
+      "rank": 44,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 27696,
@@ -467,12 +483,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24164,
-      "num": 24164,
-      "word": "52岁交警连续高强度工作累倒在一线",
-      "onboard_time": 1665088331,
-      "rank": 44,
-      "category": "社会正能量"
+      "raw_hot": 26682,
+      "num": 21754,
+      "word": "去过北京朝阳这处公共卫生间人员请上报",
+      "onboard_time": 1665089770,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23330,
+      "num": 21418,
+      "word": "北京近期14例感染者轨迹一览",
+      "onboard_time": 1665090311,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21295,
@@ -483,8 +507,16 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 17630,
-      "num": 17630,
+      "raw_hot": 20804,
+      "num": 20804,
+      "word": "退伍军人6岁儿子公园踢正步",
+      "onboard_time": 1665089709,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17849,
+      "num": 17849,
       "word": "你看见的是我为你定制的性格",
       "onboard_time": 1665090250,
       "rank": 19,
@@ -499,35 +531,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 16658,
-      "num": 16658,
-      "word": "小孩飞机上蹦跳家长在旁无动于衷",
-      "onboard_time": 1665089110,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12597,
-      "num": 12597,
-      "word": "退伍军人6岁儿子公园踢正步",
-      "onboard_time": 1665089709,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10811,
-      "num": 10811,
-      "word": "去过北京朝阳这处公共卫生间人员请上报",
-      "onboard_time": 1665089770,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10079,
-      "num": 10079,
-      "word": "北京近期14例感染者轨迹一览",
-      "onboard_time": 1665090311,
-      "rank": 43,
+      "raw_hot": 12100,
+      "num": 12100,
+      "word": "云南抚仙湖现青鱼阵奇观",
+      "onboard_time": 1665090250,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -539,12 +547,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 8710,
-      "num": 8710,
-      "word": "云南抚仙湖现青鱼阵奇观",
-      "onboard_time": 1665090250,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 8655,
+      "num": 8655,
+      "word": "面对杠精你会沉默还是反击",
+      "onboard_time": 1665091151,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 5897,
@@ -553,14 +561,6 @@
       "onboard_time": 1665088871,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 5877,
-      "num": 7727,
-      "word": "面对杠精你会沉默还是反击",
-      "onboard_time": 1665091151,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 5655,

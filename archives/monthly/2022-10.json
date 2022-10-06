@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665091424412,
+  "endTime": 1665092540015,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -9636,7 +9636,7 @@
     },
     {
       "raw_hot": 41840,
-      "num": 21263,
+      "num": 21912,
       "word": "北京昌平初步判定密接49人",
       "onboard_time": 1665087072,
       "rank": 47,
@@ -9649,6 +9649,14 @@
       "onboard_time": 1664556498,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 40362,
+      "num": 40362,
+      "word": "下周江苏可能出现初霜冻",
+      "onboard_time": 1665087671,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40305,
@@ -9715,6 +9723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37972,
+      "num": 30827,
+      "word": "秋裤并不是越紧身的越保暖",
+      "onboard_time": 1665086050,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37522,
       "num": 37522,
       "word": "张雨绮暗黑御姐造型",
@@ -9728,14 +9744,6 @@
       "word": "丽水重症病人共享厨房开出第三间",
       "onboard_time": 1664762603,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36478,
-      "num": 29449,
-      "word": "秋裤并不是越紧身的越保暖",
-      "onboard_time": 1665086050,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -9827,14 +9835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30321,
-      "num": 30321,
-      "word": "下周江苏可能出现初霜冻",
-      "onboard_time": 1665087671,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 29867,
       "num": 29867,
       "word": "国庆假期郊区旅游约占36%",
@@ -9875,6 +9875,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28382,
+      "num": 28382,
+      "word": "小孩飞机上蹦跳家长在旁无动于衷",
+      "onboard_time": 1665089110,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28110,
+      "num": 28110,
+      "word": "52岁交警连续高强度工作累倒在一线",
+      "onboard_time": 1665088331,
+      "rank": 44,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 27696,
       "num": 27696,
       "word": "中国建造登上11国纸币",
@@ -9891,20 +9907,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 26682,
+      "num": 21754,
+      "word": "去过北京朝阳这处公共卫生间人员请上报",
+      "onboard_time": 1665089770,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25619,
       "num": 25619,
       "word": "今晚继续为女排姑娘们加油",
       "onboard_time": 1664990116,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 24164,
-      "num": 24164,
-      "word": "52岁交警连续高强度工作累倒在一线",
-      "onboard_time": 1665088331,
-      "rank": 44,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 23728,
@@ -9915,12 +9931,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 23330,
+      "num": 21418,
+      "word": "北京近期14例感染者轨迹一览",
+      "onboard_time": 1665090311,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21295,
       "num": 21295,
       "word": "极品飞车不羁",
       "onboard_time": 1665078075,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 20804,
+      "num": 20804,
+      "word": "退伍军人6岁儿子公园踢正步",
+      "onboard_time": 1665089709,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19434,
@@ -9931,8 +9963,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 17630,
-      "num": 17630,
+      "raw_hot": 17849,
+      "num": 17849,
       "word": "你看见的是我为你定制的性格",
       "onboard_time": 1665090250,
       "rank": 19,
@@ -9947,14 +9979,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 16658,
-      "num": 16658,
-      "word": "小孩飞机上蹦跳家长在旁无动于衷",
-      "onboard_time": 1665089110,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 13206,
       "num": 13206,
       "word": "机器人平均51秒可下线一辆汽车",
@@ -9963,19 +9987,19 @@
       "category": "科技"
     },
     {
-      "raw_hot": 12597,
-      "num": 12597,
-      "word": "退伍军人6岁儿子公园踢正步",
-      "onboard_time": 1665089709,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 12428,
       "num": 12428,
       "word": "22项政务服务将跨省通办",
       "onboard_time": 1665003012,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12100,
+      "num": 12100,
+      "word": "云南抚仙湖现青鱼阵奇观",
+      "onboard_time": 1665090250,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -10011,27 +10035,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 10811,
-      "num": 10811,
-      "word": "去过北京朝阳这处公共卫生间人员请上报",
-      "onboard_time": 1665089770,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 10343,
       "num": 1293614,
       "word": "英雄从未远去丰碑永存人间",
       "onboard_time": 1664498006,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10079,
-      "num": 10079,
-      "word": "北京近期14例感染者轨迹一览",
-      "onboard_time": 1665090311,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -10051,12 +10059,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 8710,
-      "num": 8710,
-      "word": "云南抚仙湖现青鱼阵奇观",
-      "onboard_time": 1665090250,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 8655,
+      "num": 8655,
+      "word": "面对杠精你会沉默还是反击",
+      "onboard_time": 1665091151,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 8384,
@@ -10209,14 +10217,6 @@
       "onboard_time": 1665088871,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 5877,
-      "num": 7727,
-      "word": "面对杠精你会沉默还是反击",
-      "onboard_time": 1665091151,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 5861,
