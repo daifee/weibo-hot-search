@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1665089117058,
+  "endTime": 1665091424412,
   "band_list": [
     {
       "raw_hot": 5104220,
@@ -6595,6 +6595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41840,
+      "num": 21263,
+      "word": "北京昌平初步判定密接49人",
+      "onboard_time": 1665087072,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40314,
       "num": 40314,
       "word": "哈兰德3分钟2球",
@@ -6648,6 +6656,14 @@
       "word": "丽水重症病人共享厨房开出第三间",
       "onboard_time": 1664762603,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36478,
+      "num": 29449,
+      "word": "秋裤并不是越紧身的越保暖",
+      "onboard_time": 1665086050,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -6715,6 +6731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30321,
+      "num": 30321,
+      "word": "下周江苏可能出现初霜冻",
+      "onboard_time": 1665087671,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29867,
       "num": 29867,
       "word": "国庆假期郊区旅游约占36%",
@@ -6755,28 +6779,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 27101,
-      "num": 27101,
-      "word": "乌云遇皎月还原度",
-      "onboard_time": 1664819775,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 26195,
-      "num": 26195,
+      "raw_hot": 27696,
+      "num": 27696,
       "word": "中国建造登上11国纸币",
       "onboard_time": 1665087012,
       "rank": 38,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26067,
-      "num": 26067,
-      "word": "秋裤并不是越紧身的越保暖",
-      "onboard_time": 1665086050,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 27101,
+      "num": 27101,
+      "word": "乌云遇皎月还原度",
+      "onboard_time": 1664819775,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 25619,
@@ -6787,20 +6803,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 25312,
-      "num": 21263,
-      "word": "北京昌平初步判定密接49人",
-      "onboard_time": 1665087072,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24929,
-      "num": 24929,
-      "word": "下周江苏可能出现初霜冻",
-      "onboard_time": 1665087671,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 24164,
+      "num": 24164,
+      "word": "52岁交警连续高强度工作累倒在一线",
+      "onboard_time": 1665088331,
+      "rank": 44,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 21295,
@@ -6811,6 +6819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 17630,
+      "num": 17630,
+      "word": "你看见的是我为你定制的性格",
+      "onboard_time": 1665090250,
+      "rank": 19,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 17521,
       "num": 17521,
       "word": "当猫咪看到主人回家",
@@ -6819,12 +6835,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 16658,
+      "num": 16658,
+      "word": "小孩飞机上蹦跳家长在旁无动于衷",
+      "onboard_time": 1665089110,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13206,
       "num": 13206,
       "word": "机器人平均51秒可下线一辆汽车",
       "onboard_time": 1665000251,
       "rank": 44,
       "category": "科技"
+    },
+    {
+      "raw_hot": 12597,
+      "num": 12597,
+      "word": "退伍军人6岁儿子公园踢正步",
+      "onboard_time": 1665089709,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12428,
@@ -6867,6 +6899,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 10811,
+      "num": 10811,
+      "word": "去过北京朝阳这处公共卫生间人员请上报",
+      "onboard_time": 1665089770,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10079,
+      "num": 10079,
+      "word": "北京近期14例感染者轨迹一览",
+      "onboard_time": 1665090311,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 10029,
       "num": 10029,
       "word": "大货车狂按喇叭打转向救下小车",
@@ -6881,6 +6929,14 @@
       "onboard_time": 1664741891,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 8710,
+      "num": 8710,
+      "word": "云南抚仙湖现青鱼阵奇观",
+      "onboard_time": 1665090250,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 8686,
@@ -6955,14 +7011,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 6417,
-      "num": 6417,
-      "word": "52岁交警连续高强度工作累倒在一线",
-      "onboard_time": 1665088331,
-      "rank": 44,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 6324,
       "num": 13592,
       "word": "杰伦布朗季前赛24分",
@@ -7035,6 +7083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 5877,
+      "num": 7727,
+      "word": "面对杠精你会沉默还是反击",
+      "onboard_time": 1665091151,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 5861,
       "num": 5948,
       "word": "消防员得知有孩子被困火场瞬间急了",
@@ -7049,14 +7105,6 @@
       "onboard_time": 1665088930,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 5551,
-      "num": 5551,
-      "word": "小孩飞机上蹦跳家长在旁无动于衷",
-      "onboard_time": 1665089110,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 5550,
