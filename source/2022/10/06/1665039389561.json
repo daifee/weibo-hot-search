@@ -1,0 +1,410 @@
+{
+  "runTime": 1665039389561,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1439941,
+        "num": 1439941,
+        "word": "新冠病毒或对心脏DNA产生影响",
+        "onboard_time": 1665031580,
+        "rank": 0,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 1065757,
+        "num": 1065757,
+        "word": "海克斯科技伤害了谁",
+        "onboard_time": 1665036084,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65088,
+        "num": 824126,
+        "word": "太空视角俯瞰祖国大江南北",
+        "onboard_time": 1665029662,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 658735,
+        "num": 658735,
+        "word": "程潇赞多360度旋转公主抱",
+        "onboard_time": 1665036504,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 545846,
+        "num": 545846,
+        "word": "教资报考人数10年翻66倍",
+        "onboard_time": 1665032542,
+        "rank": 4,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 533465,
+        "num": 533465,
+        "word": "黄明昊王鹤棣冤种兄弟",
+        "onboard_time": 1665037822,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 464860,
+        "num": 464860,
+        "word": "英国一大学课堂全是中国人",
+        "onboard_time": 1665036442,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 431491,
+        "num": 431491,
+        "word": "女子买煎饼加料加出下颌关节炎",
+        "onboard_time": 1665027503,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408858,
+        "num": 408858,
+        "word": "陈奕迅演唱会",
+        "onboard_time": 1665027382,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 300560,
+        "num": 300560,
+        "word": "第一次见这么贵气的猫猫",
+        "onboard_time": 1665027923,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 305945,
+        "num": 294367,
+        "word": "智族GQ梁朝伟王一博程耳概念封面",
+        "onboard_time": 1665036145,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 278938,
+        "num": 278938,
+        "word": "华春莹连发13张图宣传中国制造",
+        "onboard_time": 1665030682,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274854,
+        "num": 274854,
+        "word": "泰迪欺负小猫后被猫妈妈抓破鼻子",
+        "onboard_time": 1665034883,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262797,
+        "num": 262797,
+        "word": "刘国梁获任国际乒联第一副主席",
+        "onboard_time": 1665033627,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28875,
+        "num": 224978,
+        "word": "汪顺讲述如何走过低谷成为冠军",
+        "onboard_time": 1665036864,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223211,
+        "num": 223211,
+        "word": "孩子躺地上耍赖妈妈淡定玩手机",
+        "onboard_time": 1665033984,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210691,
+        "num": 210691,
+        "word": "小沈阳工地搬砖好像在演我",
+        "onboard_time": 1665033505,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205376,
+        "num": 205376,
+        "word": "萧无敌消失了",
+        "onboard_time": 1665027683,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183448,
+        "num": 183448,
+        "word": "特警捂枪口与女孩合影细节好戳",
+        "onboard_time": 1665022822,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174746,
+        "num": 174746,
+        "word": "95后美发世界冠军说每人都能成工匠",
+        "onboard_time": 1665034345,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194033,
+        "num": 172190,
+        "word": "张雨绮现场吃瓜胡八一雪莉杨",
+        "onboard_time": 1665034524,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167926,
+        "num": 167926,
+        "word": "近九成大学生支持开设恋爱课",
+        "onboard_time": 1665023963,
+        "rank": 21,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 151215,
+        "num": 151215,
+        "word": "量子纠缠",
+        "onboard_time": 1664972303,
+        "rank": 22,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 149767,
+        "num": 149767,
+        "word": "王俊凯万里归途票房破9亿",
+        "onboard_time": 1665022883,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148796,
+        "num": 148796,
+        "word": "沈月的演技",
+        "onboard_time": 1665038784,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142696,
+        "num": 142696,
+        "word": "追梦格林道歉",
+        "onboard_time": 1665029602,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130907,
+        "num": 130907,
+        "word": "4只狗崽暴雨天被困狗妈狂吠求救",
+        "onboard_time": 1665028462,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125900,
+        "num": 125900,
+        "word": "成都火车北站将停运改造",
+        "onboard_time": 1665028162,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110734,
+        "num": 110734,
+        "word": "春捂秋冻一般以15摄氏度为标准",
+        "onboard_time": 1665024562,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107777,
+        "num": 107777,
+        "word": "大妈打天价防癌针被骗21万",
+        "onboard_time": 1665023064,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145568,
+        "num": 105826,
+        "word": "街舞5队长嘉宾battle大联欢",
+        "onboard_time": 1665036683,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344562,
+        "num": 105204,
+        "word": "妇产科主任藏匿婴儿私自喂养",
+        "onboard_time": 1665023484,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109566,
+        "num": 104994,
+        "word": "李沁一滴泪故事感",
+        "onboard_time": 1665038723,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103245,
+        "num": 103245,
+        "word": "西安人的羽绒服可以穿上了",
+        "onboard_time": 1665024382,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102252,
+        "num": 102252,
+        "word": "詹姆斯半场23分",
+        "onboard_time": 1665032302,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100484,
+        "num": 100484,
+        "word": "我们的歌第四季B组阵容猜测",
+        "onboard_time": 1665033142,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94773,
+        "num": 94773,
+        "word": "男子获56万拆迁款前妻分走近一半",
+        "onboard_time": 1665018141,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94553,
+        "num": 94553,
+        "word": "为什么要秋冻",
+        "onboard_time": 1665025160,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92002,
+        "num": 92002,
+        "word": "百岁老人寿宴55名子孙排队贺寿",
+        "onboard_time": 1665025464,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83801,
+        "num": 83801,
+        "word": "吴克群做队长好像经纪人",
+        "onboard_time": 1665030922,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80119,
+        "num": 80119,
+        "word": "村民婚宴前夕乡亲自带菜刀帮做饭",
+        "onboard_time": 1665028823,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79295,
+        "num": 79295,
+        "word": "张家界疫情防控",
+        "onboard_time": 1665025762,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76190,
+        "num": 76190,
+        "word": "原来古人也有有趣的灵魂",
+        "onboard_time": 1665038544,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 75939,
+        "num": 75939,
+        "word": "民警抱娃就医一口气爬4楼后晕厥",
+        "onboard_time": 1665028041,
+        "rank": 43,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 75610,
+        "num": 75610,
+        "word": "张彬彬的演技",
+        "onboard_time": 1665023422,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 67977,
+        "num": 67977,
+        "word": "10月5日新增本土无症状1005例",
+        "onboard_time": 1665019342,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67864,
+        "num": 67864,
+        "word": "3类人群不适合秋冻",
+        "onboard_time": 1665012737,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162338,
+        "num": 67758,
+        "word": "这是游戏界的天花板吧",
+        "onboard_time": 1665039383,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 67652,
+        "num": 67652,
+        "word": "请君今晚大结局",
+        "onboard_time": 1665037343,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 65930,
+        "num": 65930,
+        "word": "男子酒驾冲卡撞飞交警称撞死赔命",
+        "onboard_time": 1665021382,
+        "rank": 49,
+        "category": "社会负面"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光#"
+    }
+  }
+}
