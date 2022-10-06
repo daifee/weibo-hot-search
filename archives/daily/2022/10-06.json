@@ -1,6 +1,6 @@
 {
   "startTime": 1664988941943,
-  "endTime": 1665039389561,
+  "endTime": 1665041374757,
   "band_list": [
     {
       "raw_hot": 2542047,
@@ -25,6 +25,14 @@
       "onboard_time": 1665031580,
       "rank": 4,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 1696856,
+      "num": 1696856,
+      "word": "海克斯科技伤害了谁",
+      "onboard_time": 1665036084,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1585430,
@@ -67,14 +75,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1065757,
-      "num": 1065757,
-      "word": "海克斯科技伤害了谁",
-      "onboard_time": 1665036084,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 862764,
       "num": 862764,
       "word": "教资报考人数10年翻66倍",
@@ -105,6 +105,14 @@
       "onboard_time": 1665022822,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 709314,
+      "num": 709314,
+      "word": "英国一大学课堂全是中国人",
+      "onboard_time": 1665036442,
+      "rank": 13,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 702098,
@@ -145,6 +153,14 @@
       "onboard_time": 1665023064,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 603886,
+      "num": 603886,
+      "word": "沈月的演技",
+      "onboard_time": 1665038784,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 595349,
@@ -225,14 +241,6 @@
       "onboard_time": 1665027923,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 464860,
-      "num": 464860,
-      "word": "英国一大学课堂全是中国人",
-      "onboard_time": 1665036442,
-      "rank": 13,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 463230,
@@ -435,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243100,
+      "num": 243100,
+      "word": "女子景区拍照意外拍下游客落水",
+      "onboard_time": 1665039623,
+      "rank": 13,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 242427,
       "num": 242427,
       "word": "一只羊能有多狗",
@@ -523,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205520,
+      "num": 205520,
+      "word": "张雨绮现场吃瓜胡八一雪莉杨",
+      "onboard_time": 1665034524,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 201468,
       "num": 201468,
       "word": "广汉疫情防控",
@@ -547,20 +571,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 198349,
+      "num": 198349,
+      "word": "这是游戏界的天花板吧",
+      "onboard_time": 1665039383,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 194132,
       "num": 194132,
       "word": "张家界疫情防控",
       "onboard_time": 1665025762,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 194033,
-      "num": 172190,
-      "word": "张雨绮现场吃瓜胡八一雪莉杨",
-      "onboard_time": 1665034524,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 191452,
@@ -651,14 +675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 162338,
-      "num": 67758,
-      "word": "这是游戏界的天花板吧",
-      "onboard_time": 1665039383,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 160414,
       "num": 160414,
       "word": "街舞5队长嘉宾battle大联欢",
@@ -667,12 +683,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 148796,
-      "num": 148796,
-      "word": "沈月的演技",
-      "onboard_time": 1665038784,
-      "rank": 24,
-      "category": "影视"
+      "raw_hot": 151857,
+      "num": 151857,
+      "word": "男明星十月封面",
+      "onboard_time": 1665039923,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 148084,
@@ -729,6 +745,14 @@
       "onboard_time": 1664977704,
       "rank": 18,
       "category": "军事,国外要闻"
+    },
+    {
+      "raw_hot": 134148,
+      "num": 134148,
+      "word": "原来古人也有有趣的灵魂",
+      "onboard_time": 1665038544,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 120125,
@@ -915,6 +939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 82466,
+      "num": 82466,
+      "word": "小伙带父亲花2天帮女友家扒苞米",
+      "onboard_time": 1665040523,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77656,
       "num": 77656,
       "word": "西班牙葡萄牙乌克兰联合申办2030世界杯",
@@ -931,14 +963,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 76190,
-      "num": 76190,
-      "word": "原来古人也有有趣的灵魂",
-      "onboard_time": 1665038544,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 76172,
       "num": 1135634,
       "word": "太空视角俯瞰祖国大江南北",
@@ -952,6 +976,14 @@
       "word": "如何看海天味业否认双标",
       "onboard_time": 1665003550,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67296,
+      "num": 67296,
+      "word": "黄山和云海太配了",
+      "onboard_time": 1665041063,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1089,6 +1121,14 @@
       "onboard_time": 1665013397,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 39144,
+      "num": 225417,
+      "word": "95后小伙连续2天捐髓",
+      "onboard_time": 1665039683,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38967,
