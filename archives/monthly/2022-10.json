@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665078773452,
+  "endTime": 1665081283475,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -8963,6 +8963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 68503,
+      "num": 68503,
+      "word": "中国女排对阵荷兰女排",
+      "onboard_time": 1665079334,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68502,
       "num": 68502,
       "word": "万里归途的沉浸感是如何营造的",
@@ -9843,6 +9851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24057,
+      "num": 24057,
+      "word": "这鳄鱼好像也不是那么可怕",
+      "onboard_time": 1665078674,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 23728,
       "num": 23728,
       "word": "中国女排战胜捷克队",
@@ -9859,20 +9875,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 18882,
-      "num": 18882,
+      "raw_hot": 19123,
+      "num": 19123,
       "word": "极品飞车不羁",
       "onboard_time": 1665078075,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 17479,
-      "num": 17479,
-      "word": "这鳄鱼好像也不是那么可怕",
-      "onboard_time": 1665078674,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 13206,
