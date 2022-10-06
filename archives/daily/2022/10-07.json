@@ -1,6 +1,6 @@
 {
   "startTime": 1665074398460,
-  "endTime": 1665096384668,
+  "endTime": 1665099176337,
   "band_list": [
     {
       "raw_hot": 1873478,
@@ -11,20 +11,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 792880,
+      "num": 792880,
+      "word": "男子不用洗发水从秃顶到满头黑发",
+      "onboard_time": 1665060145,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 713512,
       "num": 713512,
       "word": "到底是谁允许今天是6号的",
       "onboard_time": 1665058403,
       "rank": 1,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 595152,
-      "num": 595152,
-      "word": "男子不用洗发水从秃顶到满头黑发",
-      "onboard_time": 1665060145,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 561093,
@@ -75,6 +75,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 310819,
+      "num": 310819,
+      "word": "秋裤并不是越紧身的越保暖",
+      "onboard_time": 1665086050,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286433,
+      "num": 286433,
+      "word": "冷雨夜男子怕违章高速抛下妻子",
+      "onboard_time": 1665055584,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271972,
       "num": 271972,
       "word": "打野的尽头是一片海",
@@ -88,6 +104,14 @@
       "word": "爸妈争论问题6个月宝宝急的说话",
       "onboard_time": 1665057265,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223039,
+      "num": 223039,
+      "word": "小孩飞机上蹦跳家长在旁无动于衷",
+      "onboard_time": 1665089110,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -139,6 +163,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 169821,
+      "num": 169821,
+      "word": "下周江苏可能出现初霜冻",
+      "onboard_time": 1665087671,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152041,
       "num": 152041,
       "word": "汤唯釜日电影奖最佳女主角",
@@ -171,6 +203,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136250,
+      "num": 136250,
+      "word": "退伍军人6岁儿子公园踢正步",
+      "onboard_time": 1665089709,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132075,
+      "num": 132075,
+      "word": "中国建造登上11国纸币",
+      "onboard_time": 1665087012,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131732,
       "num": 131732,
       "word": "马龙11比0",
@@ -179,11 +227,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122322,
-      "num": 122322,
-      "word": "冷雨夜男子怕违章高速抛下妻子",
-      "onboard_time": 1665055584,
-      "rank": 23,
+      "raw_hot": 118865,
+      "num": 118865,
+      "word": "北京昌平初步判定密接49人",
+      "onboard_time": 1665087072,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -235,12 +283,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 98148,
-      "num": 98148,
-      "word": "小孩飞机上蹦跳家长在旁无动于衷",
-      "onboard_time": 1665089110,
-      "rank": 49,
+      "raw_hot": 96072,
+      "num": 95715,
+      "word": "泰国幼儿园枪击案已造成34死",
+      "onboard_time": 1665098477,
+      "rank": 20,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 95935,
+      "num": 95935,
+      "word": "北京近期14例感染者轨迹一览",
+      "onboard_time": 1665090311,
+      "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94184,
+      "num": 94184,
+      "word": "52岁交警连续高强度工作累倒在一线",
+      "onboard_time": 1665088331,
+      "rank": 44,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 92724,
@@ -259,27 +323,11 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 89178,
-      "num": 89178,
-      "word": "下周江苏可能出现初霜冻",
-      "onboard_time": 1665087671,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 87078,
-      "num": 87078,
-      "word": "北京近期14例感染者轨迹一览",
-      "onboard_time": 1665090311,
+      "raw_hot": 89389,
+      "num": 89389,
+      "word": "男子对着隔壁邻居家阳台呲水",
+      "onboard_time": 1665083412,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 84881,
-      "num": 84881,
-      "word": "秋裤并不是越紧身的越保暖",
-      "onboard_time": 1665086050,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -315,6 +363,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75665,
+      "num": 75665,
+      "word": "8日起新一轮冷空气来了",
+      "onboard_time": 1665097334,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 75640,
+      "num": 75640,
+      "word": "去过北京朝阳这处公共卫生间人员请上报",
+      "onboard_time": 1665089770,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75499,
       "num": 75499,
       "word": "任嘉伦晒收官剧照告别陆炎",
@@ -339,8 +403,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 71129,
-      "num": 71129,
+      "raw_hot": 71654,
+      "num": 71654,
       "word": "就想问能不能不上班",
       "onboard_time": 1665052166,
       "rank": 37,
@@ -355,11 +419,27 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 65124,
-      "num": 65124,
-      "word": "退伍军人6岁儿子公园踢正步",
-      "onboard_time": 1665089709,
-      "rank": 34,
+      "raw_hot": 70224,
+      "num": 31471,
+      "word": "奥莫尼亚2比3曼联",
+      "onboard_time": 1665099136,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 69347,
+      "num": 69347,
+      "word": "陆炎剖丹牺牲",
+      "onboard_time": 1665058884,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 64466,
+      "num": 64466,
+      "word": "云南抚仙湖现青鱼阵奇观",
+      "onboard_time": 1665090250,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -387,14 +467,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 59863,
-      "num": 59863,
-      "word": "陆炎剖丹牺牲",
-      "onboard_time": 1665058884,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 58863,
       "num": 58863,
       "word": "节后上班第一天冷空气将再发货",
@@ -419,28 +491,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 47073,
-      "num": 46028,
-      "word": "北京昌平初步判定密接49人",
-      "onboard_time": 1665087072,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 51477,
+      "num": 51477,
+      "word": "eStar花海",
+      "onboard_time": 1665098896,
+      "rank": 35,
+      "category": "游戏"
     },
     {
-      "raw_hot": 46573,
-      "num": 46573,
-      "word": "中国建造登上11国纸币",
-      "onboard_time": 1665087012,
-      "rank": 38,
+      "raw_hot": 51076,
+      "num": 51076,
+      "word": "国庆假期最后一天",
+      "onboard_time": 1665098414,
+      "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 43796,
-      "num": 43796,
-      "word": "52岁交警连续高强度工作累倒在一线",
-      "onboard_time": 1665088331,
-      "rank": 44,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 43601,
@@ -475,12 +539,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 40753,
-      "num": 40753,
-      "word": "去过北京朝阳这处公共卫生间人员请上报",
-      "onboard_time": 1665089770,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 40343,
+      "num": 40343,
+      "word": "当猫咪看到主人回家",
+      "onboard_time": 1665085331,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 40303,
@@ -488,22 +552,6 @@
       "word": "2小孩地铁内踩座位拉扶手荡秋千",
       "onboard_time": 1665050545,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38385,
-      "num": 38385,
-      "word": "男子对着隔壁邻居家阳台呲水",
-      "onboard_time": 1665083412,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36911,
-      "num": 36911,
-      "word": "云南抚仙湖现青鱼阵奇观",
-      "onboard_time": 1665090250,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -531,14 +579,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 17521,
-      "num": 17521,
-      "word": "当猫咪看到主人回家",
-      "onboard_time": 1665085331,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 14858,
       "num": 14858,
       "word": "面对杠精你会沉默还是反击",
@@ -555,6 +595,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 7216,
+      "num": 610325,
+      "word": "太空视角俯瞰祖国大江南北",
+      "onboard_time": 1665029662,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 5897,
       "num": 5897,
       "word": "被猫嫌弃的猫",
@@ -569,14 +617,6 @@
       "onboard_time": 1665088930,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 4921,
-      "num": 610325,
-      "word": "太空视角俯瞰祖国大江南北",
-      "onboard_time": 1665029662,
-      "rank": 2,
-      "category": "国内要闻"
     }
   ],
   "hotgov_list": [
