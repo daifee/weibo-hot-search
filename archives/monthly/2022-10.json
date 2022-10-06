@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665088112495,
+  "endTime": 1665089117058,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -9843,8 +9843,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 27794,
-      "num": 27794,
+      "raw_hot": 28606,
+      "num": 28606,
       "word": "男子对着隔壁邻居家阳台呲水",
       "onboard_time": 1665083412,
       "rank": 43,
@@ -9859,12 +9859,44 @@
       "category": "影视"
     },
     {
+      "raw_hot": 26195,
+      "num": 26195,
+      "word": "中国建造登上11国纸币",
+      "onboard_time": 1665087012,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26067,
+      "num": 26067,
+      "word": "秋裤并不是越紧身的越保暖",
+      "onboard_time": 1665086050,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25619,
       "num": 25619,
       "word": "今晚继续为女排姑娘们加油",
       "onboard_time": 1664990116,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 25312,
+      "num": 21263,
+      "word": "北京昌平初步判定密接49人",
+      "onboard_time": 1665087072,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24929,
+      "num": 24929,
+      "word": "下周江苏可能出现初霜冻",
+      "onboard_time": 1665087671,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23728,
@@ -9897,14 +9929,6 @@
       "onboard_time": 1665085331,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 16745,
-      "num": 16745,
-      "word": "秋裤并不是越紧身的越保暖",
-      "onboard_time": 1665086050,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13206,
@@ -9963,28 +9987,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 10318,
-      "num": 10318,
-      "word": "中国建造登上11国纸币",
-      "onboard_time": 1665087012,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 10029,
       "num": 10029,
       "word": "大货车狂按喇叭打转向救下小车",
       "onboard_time": 1665082692,
       "rank": 48,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 9386,
-      "num": 9386,
-      "word": "下周江苏可能出现初霜冻",
-      "onboard_time": 1665087671,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 9058,
@@ -10008,14 +10016,6 @@
       "word": "永康白云水库附近发生山火",
       "onboard_time": 1664826670,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 7605,
-      "num": 7605,
-      "word": "北京昌平初步判定密接49人",
-      "onboard_time": 1665087072,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -10073,6 +10073,14 @@
       "onboard_time": 1664652973,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 6417,
+      "num": 6417,
+      "word": "52岁交警连续高强度工作累倒在一线",
+      "onboard_time": 1665088331,
+      "rank": 44,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 6324,
@@ -10147,10 +10155,34 @@
       "category": "影视"
     },
     {
+      "raw_hot": 5897,
+      "num": 5897,
+      "word": "被猫嫌弃的猫",
+      "onboard_time": 1665088871,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 5861,
       "num": 5948,
       "word": "消防员得知有孩子被困火场瞬间急了",
       "onboard_time": 1664914691,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5655,
+      "num": 5655,
+      "word": "西热力江CBA主教练首秀",
+      "onboard_time": 1665088930,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 5551,
+      "num": 5551,
+      "word": "小孩飞机上蹦跳家长在旁无动于衷",
+      "onboard_time": 1665089110,
       "rank": 49,
       "category": "社会新闻"
     },
