@@ -1,0 +1,410 @@
+{
+  "runTime": 1665127948335,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1205024,
+        "num": 1205024,
+        "word": "妈妈背2个月滕王阁序免费进景区",
+        "onboard_time": 1665121764,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1156898,
+        "num": 1156898,
+        "word": "江西从40℃直接降至17℃",
+        "onboard_time": 1665124644,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45835,
+        "num": 1064607,
+        "word": "丰收晒秋美如画",
+        "onboard_time": 1665111623,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1048272,
+        "num": 1048272,
+        "word": "支援新疆",
+        "onboard_time": 1665123921,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 640210,
+        "num": 640210,
+        "word": "男子打包1份6元面装走半袋大蒜",
+        "onboard_time": 1665120565,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 620650,
+        "num": 620650,
+        "word": "山西祁县婚宴密接中16人核酸阳性",
+        "onboard_time": 1665124041,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510128,
+        "num": 510128,
+        "word": "女孩骨折后查出全身骨头都在溶解",
+        "onboard_time": 1665106344,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453955,
+        "num": 453955,
+        "word": "瑞典已完成北溪泄漏事故现场调查",
+        "onboard_time": 1665122602,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 441323,
+        "num": 441323,
+        "word": "iPhone14Plus上市破发",
+        "onboard_time": 1665116423,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 229372,
+        "num": 229372,
+        "word": "90岁外婆给44岁外孙强塞零花钱",
+        "onboard_time": 1665119183,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 791381,
+        "num": 227489,
+        "word": "虞书欣回应自己是bg之光",
+        "onboard_time": 1665123442,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 593693,
+        "num": 226578,
+        "word": "外国人没有婚纱照",
+        "onboard_time": 1665124523,
+        "rank": 11,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 309386,
+        "num": 223017,
+        "word": "奥密克戎BF.7变异株已入华",
+        "onboard_time": 1665111744,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301207,
+        "num": 220952,
+        "word": "iPod之父支持iPhone改用C口",
+        "onboard_time": 1665119602,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 218609,
+        "num": 218609,
+        "word": "研究称月球或在几个小时内形成",
+        "onboard_time": 1665126024,
+        "rank": 14,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 202687,
+        "num": 202687,
+        "word": "李旻浩怼脸",
+        "onboard_time": 1665127162,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 201155,
+        "num": 201155,
+        "word": "宋茜黑天鹅封面大片",
+        "onboard_time": 1665125183,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 191689,
+        "num": 191689,
+        "word": "老挝小女孩第一次坐动车说像未来世界",
+        "onboard_time": 1665116603,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189292,
+        "num": 189292,
+        "word": "泰国幼儿园枪击案已造成38死",
+        "onboard_time": 1665115343,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 186568,
+        "num": 186568,
+        "word": "江浙沪皖最近都在吃的菜",
+        "onboard_time": 1665110063,
+        "rank": 19,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 180709,
+        "num": 180709,
+        "word": "小鬼戴帽子重拾街舞热爱",
+        "onboard_time": 1665127102,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173936,
+        "num": 173936,
+        "word": "U17国足11比0北马里亚纳群岛",
+        "onboard_time": 1665125543,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172902,
+        "num": 172902,
+        "word": "女子高速堵车时将垃圾全扔下",
+        "onboard_time": 1665120682,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160901,
+        "num": 160901,
+        "word": "爱奇艺2022待播剧综",
+        "onboard_time": 1665116062,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157918,
+        "num": 157918,
+        "word": "魏大勋父子全国通用跪式压箱法",
+        "onboard_time": 1665119003,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142433,
+        "num": 142433,
+        "word": "九寨沟迎来金秋第一场雪",
+        "onboard_time": 1665123202,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138373,
+        "num": 138373,
+        "word": "七天假期状态的真实写照",
+        "onboard_time": 1665105023,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126936,
+        "num": 126936,
+        "word": "久坐的人应该早点穿秋裤",
+        "onboard_time": 1665109404,
+        "rank": 27,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 119672,
+        "num": 119672,
+        "word": "沉默是不是关系结束的开始",
+        "onboard_time": 1665121284,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109526,
+        "num": 109526,
+        "word": "黄铉辰镜头",
+        "onboard_time": 1665127102,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 107337,
+        "num": 107337,
+        "word": "直击四川国庆返程高峰",
+        "onboard_time": 1665125303,
+        "rank": 30,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 105269,
+        "num": 105269,
+        "word": "2分钟见证中国速度",
+        "onboard_time": 1665127824,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102334,
+        "num": 102334,
+        "word": "婚礼现场新郎啄木鸟式亲新娘十几下",
+        "onboard_time": 1665112766,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97609,
+        "num": 97609,
+        "word": "BLACKPINK世界巡演视觉预告海报",
+        "onboard_time": 1665113904,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 97056,
+        "num": 97056,
+        "word": "felix镜头",
+        "onboard_time": 1665119362,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 94333,
+        "num": 94333,
+        "word": "90后飞行员被叫军中凯因斯坦",
+        "onboard_time": 1665126864,
+        "rank": 35,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 92228,
+        "num": 92228,
+        "word": "为啥感觉假期越休息越累",
+        "onboard_time": 1665111504,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87879,
+        "num": 87879,
+        "word": "每一个兵马俑都有真实原型吗",
+        "onboard_time": 1665121104,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83693,
+        "num": 83693,
+        "word": "当警犬遇到人类幼崽",
+        "onboard_time": 1665110784,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83370,
+        "num": 83370,
+        "word": "敢死队4定档",
+        "onboard_time": 1665121463,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 81420,
+        "num": 81420,
+        "word": "坐标中国",
+        "onboard_time": 1665127644,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76629,
+        "num": 76629,
+        "word": "女生烟台赶海发现满沙滩泸沽虾",
+        "onboard_time": 1665107661,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74650,
+        "num": 74650,
+        "word": "90后妈妈给宝宝自制早教书",
+        "onboard_time": 1665126562,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 74327,
+        "num": 74327,
+        "word": "心疼沈月南星",
+        "onboard_time": 1665121583,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 73625,
+        "num": 73625,
+        "word": "男子雨天拎着拖鞋在公交站等老婆",
+        "onboard_time": 1665119963,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71680,
+        "num": 71680,
+        "word": "内蒙古增本土确诊13例无症状661例",
+        "onboard_time": 1665109285,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70716,
+        "num": 70716,
+        "word": "云吃饭的萨摩耶",
+        "onboard_time": 1665108204,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99867,
+        "num": 70281,
+        "word": "山西运城发现31例核酸异常人员",
+        "onboard_time": 1665127942,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67872,
+        "num": 67872,
+        "word": "中国香港男团vs韩国男团",
+        "onboard_time": 1665117744,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65882,
+        "num": 65882,
+        "word": "湖北新增本土无症状56例",
+        "onboard_time": 1665109883,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#神州大地秋景如画#"
+    }
+  }
+}
