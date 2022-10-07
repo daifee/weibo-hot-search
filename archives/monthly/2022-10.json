@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665156531051,
+  "endTime": 1665157708291,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -329,6 +329,14 @@
       "onboard_time": 1664626522,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1674261,
+      "num": 1674261,
+      "word": "阳性男子隐瞒行程给女儿办婚礼",
+      "onboard_time": 1665155427,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1667232,
@@ -1115,6 +1123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 900738,
+      "num": 900738,
+      "word": "爱奇艺待播剧爆款预定",
+      "onboard_time": 1665155906,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 899865,
       "num": 899865,
       "word": "车银优韩素希李洙赫网漫第一集预告",
@@ -1433,14 +1449,6 @@
       "onboard_time": 1664770582,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 745382,
-      "num": 745382,
-      "word": "爱奇艺待播剧爆款预定",
-      "onboard_time": 1665155906,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 738926,
@@ -2216,14 +2224,6 @@
       "word": "重阳节",
       "onboard_time": 1664839817,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 536424,
-      "num": 450892,
-      "word": "阳性男子隐瞒行程给女儿办婚礼",
-      "onboard_time": 1665155427,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -3691,6 +3691,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 368752,
+      "num": 368752,
+      "word": "参加前任的婚礼是什么体验",
+      "onboard_time": 1665153810,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 368722,
       "num": 368722,
       "word": "2岁娃手脏着急说婴语老师盲猜",
@@ -3825,14 +3833,6 @@
       "onboard_time": 1664681178,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 352931,
-      "num": 352931,
-      "word": "参加前任的婚礼是什么体验",
-      "onboard_time": 1665153810,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 352294,
@@ -4459,12 +4459,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 291897,
+      "num": 291897,
+      "word": "广西海边发现成熟稻谷",
+      "onboard_time": 1665154949,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291683,
       "num": 291683,
       "word": "追梦格林普尔训练发生冲突",
       "onboard_time": 1665019763,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 291374,
+      "num": 291374,
+      "word": "当代小学生受网络影响有多大",
+      "onboard_time": 1665152549,
+      "rank": 24,
+      "category": "情感,综艺"
     },
     {
       "raw_hot": 291080,
@@ -5731,14 +5747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 227785,
-      "num": 227785,
-      "word": "当代小学生受网络影响有多大",
-      "onboard_time": 1665152549,
-      "rank": 24,
-      "category": "情感,综艺"
-    },
-    {
       "raw_hot": 227419,
       "num": 227419,
       "word": "王一博这就是街舞5运动时刻",
@@ -5761,6 +5769,14 @@
       "onboard_time": 1665130343,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 226704,
+      "num": 226704,
+      "word": "原来冬天可以是10月份",
+      "onboard_time": 1665153511,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 226538,
@@ -5801,14 +5817,6 @@
       "onboard_time": 1665029901,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 225264,
-      "num": 225264,
-      "word": "原来冬天可以是10月份",
-      "onboard_time": 1665153511,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 224146,
@@ -6211,6 +6219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207094,
+      "num": 207094,
+      "word": "马龙这一球太牛了",
+      "onboard_time": 1665154287,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207084,
       "num": 207084,
       "word": "这就是国庆在家的我吧",
@@ -6320,14 +6336,6 @@
       "word": "济南新增本土确诊病例1例",
       "onboard_time": 1664597542,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 201769,
-      "num": 201769,
-      "word": "广西海边发现成熟稻谷",
-      "onboard_time": 1665154949,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -6505,14 +6513,6 @@
       "onboard_time": 1665062726,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 196435,
-      "num": 196435,
-      "word": "马龙这一球太牛了",
-      "onboard_time": 1665154287,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 196332,
@@ -7459,6 +7459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160396,
+      "num": 144246,
+      "word": "2022国庆档总票房14.9亿",
+      "onboard_time": 1665152971,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 160235,
       "num": 160235,
       "word": "国乒女团7连胜挺进决赛",
@@ -7945,14 +7953,6 @@
       "onboard_time": 1664684541,
       "rank": 33,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 144246,
-      "num": 144246,
-      "word": "2022国庆档总票房14.9亿",
-      "onboard_time": 1665152971,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 144182,
@@ -9835,6 +9835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91994,
+      "num": 91994,
+      "word": "王楚钦连扳3局",
+      "onboard_time": 1665152849,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91672,
       "num": 91672,
       "word": "RNG BP",
@@ -10273,14 +10281,6 @@
       "onboard_time": 1665056661,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 77516,
-      "num": 77516,
-      "word": "王楚钦连扳3局",
-      "onboard_time": 1665152849,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 76567,
@@ -10923,6 +10923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 57849,
+      "num": 57849,
+      "word": "以前觉得晚上九点就很晚了",
+      "onboard_time": 1665157527,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 57546,
       "num": 57546,
       "word": "童年经历日军轰炸的他成导弹专家",
@@ -11161,6 +11169,14 @@
       "onboard_time": 1664840177,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 48508,
+      "num": 48508,
+      "word": "国乒男队半决赛对阵日本",
+      "onboard_time": 1665156686,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 48135,

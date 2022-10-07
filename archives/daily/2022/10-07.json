@@ -1,6 +1,6 @@
 {
   "startTime": 1665074398460,
-  "endTime": 1665156531051,
+  "endTime": 1665157708291,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -49,6 +49,14 @@
       "onboard_time": 1665067585,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1674261,
+      "num": 1674261,
+      "word": "阳性男子隐瞒行程给女儿办婚礼",
+      "onboard_time": 1665155427,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1667232,
@@ -187,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 900738,
+      "num": 900738,
+      "word": "爱奇艺待播剧爆款预定",
+      "onboard_time": 1665155906,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 899865,
       "num": 899865,
       "word": "车银优韩素希李洙赫网漫第一集预告",
@@ -225,14 +241,6 @@
       "onboard_time": 1665128602,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 745382,
-      "num": 745382,
-      "word": "爱奇艺待播剧爆款预定",
-      "onboard_time": 1665155906,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 720024,
@@ -337,14 +345,6 @@
       "onboard_time": 1665119602,
       "rank": 11,
       "category": "科技"
-    },
-    {
-      "raw_hot": 536424,
-      "num": 450892,
-      "word": "阳性男子隐瞒行程给女儿办婚礼",
-      "onboard_time": 1665155427,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 531962,
@@ -555,6 +555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 368752,
+      "num": 368752,
+      "word": "参加前任的婚礼是什么体验",
+      "onboard_time": 1665153810,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 364291,
       "num": 364291,
       "word": "魏大勋父子全国通用跪式压箱法",
@@ -569,14 +577,6 @@
       "onboard_time": 1665101481,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 352931,
-      "num": 352931,
-      "word": "参加前任的婚礼是什么体验",
-      "onboard_time": 1665153810,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 348252,
@@ -713,6 +713,22 @@
       "onboard_time": 1665120803,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 291897,
+      "num": 291897,
+      "word": "广西海边发现成熟稻谷",
+      "onboard_time": 1665154949,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291374,
+      "num": 291374,
+      "word": "当代小学生受网络影响有多大",
+      "onboard_time": 1665152549,
+      "rank": 24,
+      "category": "情感,综艺"
     },
     {
       "raw_hot": 285689,
@@ -891,14 +907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 227785,
-      "num": 227785,
-      "word": "当代小学生受网络影响有多大",
-      "onboard_time": 1665152549,
-      "rank": 24,
-      "category": "情感,综艺"
-    },
-    {
       "raw_hot": 227054,
       "num": 227054,
       "word": "孙颖莎连得10分",
@@ -907,8 +915,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 225264,
-      "num": 225264,
+      "raw_hot": 226704,
+      "num": 226704,
       "word": "原来冬天可以是10月份",
       "onboard_time": 1665153511,
       "rank": 47,
@@ -979,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207094,
+      "num": 207094,
+      "word": "马龙这一球太牛了",
+      "onboard_time": 1665154287,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206061,
       "num": 206061,
       "word": "你养猫猫的原因是什么",
@@ -993,14 +1009,6 @@
       "onboard_time": 1665142342,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 201769,
-      "num": 201769,
-      "word": "广西海边发现成熟稻谷",
-      "onboard_time": 1665154949,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 200980,
@@ -1033,14 +1041,6 @@
       "onboard_time": 1665116182,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 196435,
-      "num": 196435,
-      "word": "马龙这一球太牛了",
-      "onboard_time": 1665154287,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 194371,
@@ -1187,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160396,
+      "num": 144246,
+      "word": "2022国庆档总票房14.9亿",
+      "onboard_time": 1665152971,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 160235,
       "num": 160235,
       "word": "国乒女团7连胜挺进决赛",
@@ -1289,14 +1297,6 @@
       "onboard_time": 1665131603,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 144246,
-      "num": 144246,
-      "word": "2022国庆档总票房14.9亿",
-      "onboard_time": 1665152971,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 143743,
@@ -1707,6 +1707,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 91994,
+      "num": 91994,
+      "word": "王楚钦连扳3局",
+      "onboard_time": 1665152849,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89967,
       "num": 89967,
       "word": "没想到头发还可以这样编",
@@ -1833,14 +1841,6 @@
       "onboard_time": 1665149005,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 77516,
-      "num": 77516,
-      "word": "王楚钦连扳3局",
-      "onboard_time": 1665152849,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 76388,
@@ -1987,6 +1987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57849,
+      "num": 57849,
+      "word": "以前觉得晚上九点就很晚了",
+      "onboard_time": 1665157527,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 56434,
       "num": 56434,
       "word": "飞狐外传大结局",
@@ -2009,6 +2017,14 @@
       "onboard_time": 1665053605,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48508,
+      "num": 48508,
+      "word": "国乒男队半决赛对阵日本",
+      "onboard_time": 1665156686,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 43601,
