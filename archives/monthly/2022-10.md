@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/07 12:10:51
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/07 12:32:02
 </p>
 </blockquote>
 <p>
@@ -501,14 +501,14 @@ C罗（热度：1447248）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E4%BA%BA%E5%90%83%E9%86%8B%E7%9C%9F%E6%98%AF%E8%AE%A9%E6%88%91%E5%BC%80%E4%BA%86%E7%9C%BC%23" target="weibo">
-山西人吃醋真是让我开了眼（热度：1195211）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%B5%99%E6%B2%AA%E7%9A%96%E6%9C%80%E8%BF%91%E9%83%BD%E5%9C%A8%E5%90%83%E7%9A%84%E8%8F%9C%23" target="weibo">
+江浙沪皖最近都在吃的菜（热度：1196594）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%B5%99%E6%B2%AA%E7%9A%96%E6%9C%80%E8%BF%91%E9%83%BD%E5%9C%A8%E5%90%83%E7%9A%84%E8%8F%9C%23" target="weibo">
-江浙沪皖最近都在吃的菜（热度：1188453）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E4%BA%BA%E5%90%83%E9%86%8B%E7%9C%9F%E6%98%AF%E8%AE%A9%E6%88%91%E5%BC%80%E4%BA%86%E7%9C%BC%23" target="weibo">
+山西人吃醋真是让我开了眼（热度：1195211）
 </a>
 </li>
 
@@ -737,6 +737,12 @@ C罗（热度：1447248）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%B4%97%E7%A2%97%E5%89%B2%E7%A0%B4%E6%8C%87%E5%8A%A8%E8%84%89%E7%BC%9D9%E9%92%88%23" target="weibo">
 男子洗碗割破指动脉缝9针（热度：932511）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A9%9A%E7%A4%BC%E7%8E%B0%E5%9C%BA%E6%96%B0%E9%83%8E%E5%95%84%E6%9C%A8%E9%B8%9F%E5%BC%8F%E4%BA%B2%E6%96%B0%E5%A8%98%E5%8D%81%E5%87%A0%E4%B8%8B%23" target="weibo">
+婚礼现场新郎啄木鸟式亲新娘十几下（热度：929015）
 </a>
 </li>
 
@@ -1155,12 +1161,6 @@ iPhone6被苹果列入过时产品（热度：691285）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A9%9A%E7%A4%BC%E7%8E%B0%E5%9C%BA%E6%96%B0%E9%83%8E%E5%95%84%E6%9C%A8%E9%B8%9F%E5%BC%8F%E4%BA%B2%E6%96%B0%E5%A8%98%E5%8D%81%E5%87%A0%E4%B8%8B%23" target="weibo">
-婚礼现场新郎啄木鸟式亲新娘十几下（热度：664661）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A8%8B%E6%BD%87%E8%B5%9E%E5%A4%9A360%E5%BA%A6%E6%97%8B%E8%BD%AC%E5%85%AC%E4%B8%BB%E6%8A%B1%23" target="weibo">
 程潇赞多360度旋转公主抱（热度：658735）
 </a>
@@ -1265,6 +1265,12 @@ iPhone6二手收购价低至100元（热度：632338）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%A4%A9%E5%91%B3%E4%B8%9A%E5%8F%82%E4%B8%8E%E8%B5%B7%E8%8D%89%E9%85%B1%E6%B2%B9%E8%A1%8C%E4%B8%9A%E7%8E%B0%E8%A1%8C%E6%A0%87%E5%87%86%23" target="weibo">
 海天味业参与起草酱油行业现行标准（热度：595349）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E5%95%A5%E6%84%9F%E8%A7%89%E5%81%87%E6%9C%9F%E8%B6%8A%E4%BC%91%E6%81%AF%E8%B6%8A%E7%B4%AF%23" target="weibo">
+为啥感觉假期越休息越累（热度：593510）
 </a>
 </li>
 
@@ -1779,12 +1785,6 @@ SuperM最新练习室（热度：477667）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E5%95%A5%E6%84%9F%E8%A7%89%E5%81%87%E6%9C%9F%E8%B6%8A%E4%BC%91%E6%81%AF%E8%B6%8A%E7%B4%AF%23" target="weibo">
-为啥感觉假期越休息越累（热度：474343）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%89%BF%E9%93%89%E8%AF%B4%E6%84%9F%E6%83%85%E4%B8%AD%E6%97%B6%E6%9C%BA%E5%BE%88%E9%87%8D%E8%A6%81%23" target="weibo">
 李承铉说感情中时机很重要（热度：473648）
 </a>
@@ -2075,6 +2075,12 @@ BLACKPINKShutDown获人歌一位（热度：428049）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%88%E6%9C%9B%E5%85%88%E9%94%8B%23" target="weibo">
 守望先锋（热度：427328）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA2022%E5%BE%85%E6%92%AD%E5%89%A7%E7%BB%BC%23" target="weibo">
+爱奇艺2022待播剧综（热度：425625）
 </a>
 </li>
 
@@ -2931,6 +2937,12 @@ RNG入围赛三连胜（热度：314691）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23iPhone14Plus%E4%B8%8A%E5%B8%82%E7%A0%B4%E5%8F%91%23" target="weibo">
+iPhone14Plus上市破发（热度：300277）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%9E%E5%8D%9A%E9%AB%98%E4%B8%AD%E6%97%B6%E5%86%99%E7%BB%99%E5%AD%A6%E5%BC%9F%E7%9A%84%E5%AF%84%E8%AF%AD%23" target="weibo">
 庞博高中时写给学弟的寄语（热度：300019）
 </a>
@@ -3023,6 +3035,12 @@ RNG入围赛三连胜（热度：314691）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E8%AF%B4%E6%96%B0%E5%89%A7%E5%8F%AB%E6%88%91%E7%9A%84%E5%A5%BD%E5%A4%A7%E5%84%BF%23" target="weibo">
 陈哲远说新剧叫我的好大儿（热度：289402）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%9E%AA%E5%87%BB%E6%A1%88%E5%B7%B2%E9%80%A0%E6%88%9038%E6%AD%BB%23" target="weibo">
+泰国幼儿园枪击案已造成38死（热度：288315）
 </a>
 </li>
 
@@ -3353,6 +3371,12 @@ HYBE第四季度计划（热度：285836）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%99%93%E5%8D%89%E5%B1%B1%E8%A5%BF%E5%8D%83%E7%A7%8D%E9%9D%A2%E4%B8%8D%E5%A6%82%E5%8E%BB%E8%A7%81%E4%B8%80%E9%9D%A2%23" target="weibo">
 赵晓卉山西千种面不如去见一面（热度：261929）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23StrayKids%E6%96%B0%E4%B8%93%E8%BE%91%E9%A2%84%E5%94%AE%E9%87%8F%E7%AA%81%E7%A0%B4237%E4%B8%87%E5%BC%A0%23" target="weibo">
+StrayKids新专辑预售量突破237万张（热度：261769）
 </a>
 </li>
 
@@ -4137,6 +4161,12 @@ S12入围赛淘汰赛赛程（热度：209530）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B4%92%E6%B0%B4%E8%BD%A6%E8%B7%AF%E9%81%87%E6%91%86%E6%91%8A%E9%98%BF%E5%A7%A8%E7%B2%BE%E5%87%86%E5%85%B3%E6%B0%B4%E9%81%BF%E8%AE%A9%23" target="weibo">
+洒水车路遇摆摊阿姨精准关水避让（热度：209107）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%92%B2%E7%86%A0%E6%98%9F%E5%8D%95%E6%89%8B%E6%94%80%E5%B2%A9%23" target="weibo">
 蒲熠星单手攀岩（热度：208788）
 </a>
@@ -4349,6 +4379,12 @@ TREASURE新歌（热度：197377）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E7%94%9F%E6%B6%AF%E7%AC%AC60%E6%AC%A1%E4%BB%BB%E6%84%8F%E7%90%83%E7%A0%B4%E9%97%A8%23" target="weibo">
 梅西生涯第60次任意球破门（热度：197172）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B8%E8%85%BE%E6%A0%A1%E5%9B%AD%E5%AE%98%E5%AE%A3%E7%89%B9%E7%BA%A6%E5%AD%A6%E9%95%BFINTO1%23" target="weibo">
+沸腾校园官宣特约学长INTO1（热度：196612）
 </a>
 </li>
 
@@ -4601,12 +4637,6 @@ eStar冠军五人组（热度：190331）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AF%BC%E5%BC%B9%E4%B8%93%E5%AE%B6%E4%B8%BA%E5%9B%BD%E9%9A%90%E5%A7%93%E5%9F%8B%E5%90%8D60%E4%BD%99%E5%B9%B4%23" target="weibo">
 导弹专家为国隐姓埋名60余年（热度：183123）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B4%92%E6%B0%B4%E8%BD%A6%E8%B7%AF%E9%81%87%E6%91%86%E6%91%8A%E9%98%BF%E5%A7%A8%E7%B2%BE%E5%87%86%E5%85%B3%E6%B0%B4%E9%81%BF%E8%AE%A9%23" target="weibo">
-洒水车路遇摆摊阿姨精准关水避让（热度：182259）
 </a>
 </li>
 
@@ -5859,6 +5889,12 @@ RNG战胜DFM（热度：123922）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BF%9F%E5%AD%90%E8%B7%AF%E6%96%B0%E6%AD%8C%E6%88%91%E4%BB%AC%E7%9A%84%E6%97%B6%E5%85%89%23" target="weibo">
+翟子路新歌我们的时光（热度：122439）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E5%A6%8D%E9%9C%8F%E4%B8%8A%E6%B5%B7%E6%97%B6%E8%A3%85%E5%91%A8%E8%B5%B0%E7%A7%80%23" target="weibo">
 宋妍霏上海时装周走秀（热度：122179）
 </a>
@@ -5943,12 +5979,6 @@ eStar花海（热度：120214）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%9E%AA%E5%87%BB%E6%A1%88%E5%B7%B2%E9%80%A0%E6%88%9038%E6%AD%BB%23" target="weibo">
-泰国幼儿园枪击案已造成38死（热度：119466）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E5%A4%AA%E7%89%9B%E4%BA%86%23" target="weibo">
 马龙太牛了（热度：119386）
 </a>
@@ -5981,36 +6011,6 @@ eStar花海（热度：120214）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E4%B8%96%E4%B9%92%E8%B5%9B%E5%9B%A2%E4%BD%93%E8%B5%9B%23" target="weibo">
 成都世乒赛团体赛（热度：118514）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B8%E8%85%BE%E6%A0%A1%E5%9B%AD%E6%98%AF%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%9B%B8%E4%BA%B2%E5%A4%A7%E4%BC%9A%E5%90%A7%23" target="weibo">
-沸腾校园是大学生相亲大会吧（热度：118216）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%8F%AA%E7%8C%B4%E5%AD%90%E5%A5%BD%E6%87%82%E4%BA%8B%23" target="weibo">
-这只猴子好懂事（热度：117843）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%99%AF%E5%8C%BA%E5%BC%8011%E5%AE%B6%E5%8D%81%E5%85%83%E7%AE%A1%E9%A5%B1%E9%A5%AD%E5%BA%97%23" target="weibo">
-男子景区开11家十元管饱饭店（热度：117541）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%A8%E6%98%95%E6%9A%96%E8%89%B2%E7%B3%BB%E6%B5%AA%E6%BC%AB%E5%BC%80%E5%90%AF%E7%A7%8B%E6%97%A5%23" target="weibo">
-刘雨昕暖色系浪漫开启秋日（热度：117346）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%85%E5%AE%AB%E9%AB%98%E6%B8%85%E5%A3%81%E7%BA%B8%E4%B8%8A%E6%96%B0%23" target="weibo">
-故宫高清壁纸上新（热度：116819）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1665117122619,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1196594,
+        "num": 1196594,
+        "word": "江浙沪皖最近都在吃的菜",
+        "onboard_time": 1665110063,
+        "rank": 0,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 929015,
+        "num": 929015,
+        "word": "婚礼现场新郎啄木鸟式亲新娘十几下",
+        "onboard_time": 1665112766,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59215,
+        "num": 686559,
+        "word": "丰收晒秋美如画",
+        "onboard_time": 1665111623,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1112229,
+        "num": 661841,
+        "word": "女孩骨折后查出全身骨头都在溶解",
+        "onboard_time": 1665106344,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593510,
+        "num": 593510,
+        "word": "为啥感觉假期越休息越累",
+        "onboard_time": 1665111504,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453602,
+        "num": 453602,
+        "word": "七天假期状态的真实写照",
+        "onboard_time": 1665105023,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441280,
+        "num": 441280,
+        "word": "女生烟台赶海发现满沙滩泸沽虾",
+        "onboard_time": 1665107661,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425625,
+        "num": 425625,
+        "word": "爱奇艺2022待播剧综",
+        "onboard_time": 1665116062,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 282534,
+        "num": 282534,
+        "word": "久坐的人应该早点穿秋裤",
+        "onboard_time": 1665109404,
+        "rank": 8,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 264186,
+        "num": 264186,
+        "word": "室友很好却不能成为好朋友",
+        "onboard_time": 1665067585,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1953861,
+        "num": 263981,
+        "word": "奥密克戎BF.7变异株已入华",
+        "onboard_time": 1665111744,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476116,
+        "num": 263422,
+        "word": "BLACKPINK世界巡演视觉预告海报",
+        "onboard_time": 1665113904,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 300277,
+        "num": 262891,
+        "word": "iPhone14Plus上市破发",
+        "onboard_time": 1665116423,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 288315,
+        "num": 262008,
+        "word": "泰国幼儿园枪击案已造成38死",
+        "onboard_time": 1665115343,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 261769,
+        "num": 261769,
+        "word": "StrayKids新专辑预售量突破237万张",
+        "onboard_time": 1665116900,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 253551,
+        "num": 253551,
+        "word": "当警犬遇到人类幼崽",
+        "onboard_time": 1665110784,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247441,
+        "num": 247441,
+        "word": "内蒙古增本土确诊13例无症状661例",
+        "onboard_time": 1665109285,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215719,
+        "num": 215719,
+        "word": "梅西确认最后一次参加世界杯",
+        "onboard_time": 1665099437,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209107,
+        "num": 209107,
+        "word": "洒水车路遇摆摊阿姨精准关水避让",
+        "onboard_time": 1665112164,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196612,
+        "num": 196612,
+        "word": "沸腾校园官宣特约学长INTO1",
+        "onboard_time": 1665116182,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194310,
+        "num": 194310,
+        "word": "SK",
+        "onboard_time": 1665107363,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189220,
+        "num": 189220,
+        "word": "虞书欣作品双平台破万",
+        "onboard_time": 1665101481,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152245,
+        "num": 152245,
+        "word": "湖北新增本土无症状56例",
+        "onboard_time": 1665109883,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144344,
+        "num": 144344,
+        "word": "任嘉伦李沁请君六宫格剧照",
+        "onboard_time": 1665110303,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141800,
+        "num": 141800,
+        "word": "男子不用洗发水从秃顶到满头黑发",
+        "onboard_time": 1665060145,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134882,
+        "num": 134882,
+        "word": "天天向上创新改版",
+        "onboard_time": 1665105023,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130737,
+        "num": 130737,
+        "word": "女生东北上学喜提铁锅炖版生日蛋糕",
+        "onboard_time": 1665101300,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123217,
+        "num": 123217,
+        "word": "云吃饭的萨摩耶",
+        "onboard_time": 1665108204,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122439,
+        "num": 122439,
+        "word": "翟子路新歌我们的时光",
+        "onboard_time": 1665116005,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 118557,
+        "num": 118557,
+        "word": "老人骑30楼窗框探出身子擦玻璃",
+        "onboard_time": 1665107063,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115628,
+        "num": 115628,
+        "word": "森林狼vs湖人",
+        "onboard_time": 1665111264,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100554,
+        "num": 100554,
+        "word": "AI绘画",
+        "onboard_time": 1665109822,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98210,
+        "num": 98210,
+        "word": "华西教授回应回家过节帮乡亲看病",
+        "onboard_time": 1665103943,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95692,
+        "num": 95692,
+        "word": "老挝小女孩第一次坐动车说像未来世界",
+        "onboard_time": 1665116603,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87410,
+        "num": 87410,
+        "word": "万里归途真实质感特辑",
+        "onboard_time": 1665114025,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 85017,
+        "num": 85017,
+        "word": "成熟的男人开始反击了",
+        "onboard_time": 1665104964,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84091,
+        "num": 84091,
+        "word": "他们攻克几千项难点改写卡脖子历史",
+        "onboard_time": 1665115765,
+        "rank": 36,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 80404,
+        "num": 80404,
+        "word": "小孩飞机上蹦跳家长在旁无动于衷",
+        "onboard_time": 1665089110,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80062,
+        "num": 80062,
+        "word": "北京新增本土确诊5例",
+        "onboard_time": 1665102655,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80042,
+        "num": 80042,
+        "word": "这就是微缩的魅力吧",
+        "onboard_time": 1665114025,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 78483,
+        "num": 78483,
+        "word": "10月6日新增本土无症状1267例",
+        "onboard_time": 1665105803,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76128,
+        "num": 76128,
+        "word": "eStar花海",
+        "onboard_time": 1665098896,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 75920,
+        "num": 75920,
+        "word": "你养猫猫的原因是什么",
+        "onboard_time": 1665069205,
+        "rank": 42,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 73417,
+        "num": 73417,
+        "word": "第一个游走位FMVP",
+        "onboard_time": 1665068905,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 68538,
+        "num": 68538,
+        "word": "秦皇岛疫情防控",
+        "onboard_time": 1665100819,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67817,
+        "num": 67817,
+        "word": "獾子到漠河钻垃圾桶睡了一夜",
+        "onboard_time": 1665106702,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67243,
+        "num": 67243,
+        "word": "值得收藏的50部纪录片",
+        "onboard_time": 1665113904,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64003,
+        "num": 64003,
+        "word": "金晨说拍炽道彻底爱上健身",
+        "onboard_time": 1665117084,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 58900,
+        "num": 58900,
+        "word": "10月6日新增本土确诊216例",
+        "onboard_time": 1665105502,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57829,
+        "num": 57829,
+        "word": "退伍军人6岁儿子公园踢正步",
+        "onboard_time": 1665089709,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#神州大地秋景如画#"
+    }
+  }
+}

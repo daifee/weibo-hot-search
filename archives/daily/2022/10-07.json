@@ -1,6 +1,6 @@
 {
   "startTime": 1665074398460,
-  "endTime": 1665115851300,
+  "endTime": 1665117122619,
   "band_list": [
     {
       "raw_hot": 2887521,
@@ -35,8 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1188453,
-      "num": 1188453,
+      "raw_hot": 1196594,
+      "num": 1196594,
       "word": "江浙沪皖最近都在吃的菜",
       "onboard_time": 1665110063,
       "rank": 5,
@@ -48,6 +48,14 @@
       "word": "女生烟台赶海发现满沙滩泸沽虾",
       "onboard_time": 1665107661,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 929015,
+      "num": 929015,
+      "word": "婚礼现场新郎啄木鸟式亲新娘十几下",
+      "onboard_time": 1665112766,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -75,11 +83,11 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 664661,
-      "num": 664661,
-      "word": "婚礼现场新郎啄木鸟式亲新娘十几下",
-      "onboard_time": 1665112766,
-      "rank": 1,
+      "raw_hot": 593510,
+      "num": 593510,
+      "word": "为啥感觉假期越休息越累",
+      "onboard_time": 1665111504,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -131,20 +139,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 474343,
-      "num": 474343,
-      "word": "为啥感觉假期越休息越累",
-      "onboard_time": 1665111504,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 443404,
       "num": 443404,
       "word": "天天向上创新改版",
       "onboard_time": 1665105023,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 425625,
+      "num": 425625,
+      "word": "爱奇艺2022待播剧综",
+      "onboard_time": 1665116062,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 416734,
@@ -235,6 +243,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 300277,
+      "num": 262891,
+      "word": "iPhone14Plus上市破发",
+      "onboard_time": 1665116423,
+      "rank": 12,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 288315,
+      "num": 262008,
+      "word": "泰国幼儿园枪击案已造成38死",
+      "onboard_time": 1665115343,
+      "rank": 26,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 271972,
       "num": 271972,
       "word": "打野的尽头是一片海",
@@ -249,6 +273,14 @@
       "onboard_time": 1665110784,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261769,
+      "num": 261769,
+      "word": "StrayKids新专辑预售量突破237万张",
+      "onboard_time": 1665116900,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 259189,
@@ -299,6 +331,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 209107,
+      "num": 209107,
+      "word": "洒水车路遇摆摊阿姨精准关水避让",
+      "onboard_time": 1665112164,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207221,
       "num": 207221,
       "word": "老人骑30楼窗框探出身子擦玻璃",
@@ -323,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196612,
+      "num": 196612,
+      "word": "沸腾校园官宣特约学长INTO1",
+      "onboard_time": 1665116182,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191862,
       "num": 191862,
       "word": "请君大结局太好哭了",
@@ -336,14 +384,6 @@
       "word": "湖北新增本土无症状56例",
       "onboard_time": 1665109883,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 182259,
-      "num": 182259,
-      "word": "洒水车路遇摆摊阿姨精准关水避让",
-      "onboard_time": 1665112164,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -523,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122439,
+      "num": 122439,
+      "word": "翟子路新歌我们的时光",
+      "onboard_time": 1665116005,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 120912,
       "num": 120912,
       "word": "森林狼vs湖人",
@@ -537,14 +585,6 @@
       "onboard_time": 1665098896,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 119466,
-      "num": 119466,
-      "word": "泰国幼儿园枪击案已造成38死",
-      "onboard_time": 1665115343,
-      "rank": 26,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 118920,
@@ -643,6 +683,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 95692,
+      "num": 95692,
+      "word": "老挝小女孩第一次坐动车说像未来世界",
+      "onboard_time": 1665116603,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94421,
       "num": 94421,
       "word": "热火vs篮网",
@@ -689,6 +737,14 @@
       "onboard_time": 1665099558,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 84091,
+      "num": 84091,
+      "word": "他们攻克几千项难点改写卡脖子历史",
+      "onboard_time": 1665115765,
+      "rank": 46,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 83786,
@@ -771,12 +827,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 67243,
+      "num": 67243,
+      "word": "值得收藏的50部纪录片",
+      "onboard_time": 1665113904,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64466,
       "num": 64466,
       "word": "云南抚仙湖现青鱼阵奇观",
       "onboard_time": 1665090250,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 64003,
+      "num": 64003,
+      "word": "金晨说拍炽道彻底爱上健身",
+      "onboard_time": 1665117084,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 63644,
@@ -795,22 +867,6 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 63248,
-      "num": 63248,
-      "word": "值得收藏的50部纪录片",
-      "onboard_time": 1665113904,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 63210,
-      "num": 63210,
-      "word": "他们攻克几千项难点改写卡脖子历史",
-      "onboard_time": 1665115765,
-      "rank": 46,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 62684,
       "num": 62684,
       "word": "新iPhone上手体验",
@@ -824,6 +880,14 @@
       "word": "国庆假期最后一天",
       "onboard_time": 1665098414,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59215,
+      "num": 686559,
+      "word": "丰收晒秋美如画",
+      "onboard_time": 1665111623,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -841,14 +905,6 @@
       "onboard_time": 1665075017,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 53814,
-      "num": 569853,
-      "word": "丰收晒秋美如画",
-      "onboard_time": 1665111623,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 52597,
