@@ -1,0 +1,410 @@
+{
+  "runTime": 1665109574360,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1053621,
+        "num": 1053621,
+        "word": "七天假期状态的真实写照",
+        "onboard_time": 1665105023,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1957386,
+        "num": 1024059,
+        "word": "女孩骨折后查出全身骨头都在溶解",
+        "onboard_time": 1665106344,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10278,
+        "num": 789606,
+        "word": "太空视角俯瞰祖国大江南北",
+        "onboard_time": 1665029662,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 720024,
+        "num": 720024,
+        "word": "泰国幼儿园枪击案已造成34死",
+        "onboard_time": 1665098477,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 565407,
+        "num": 565407,
+        "word": "女生东北上学喜提铁锅炖版生日蛋糕",
+        "onboard_time": 1665101300,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529714,
+        "num": 529714,
+        "word": "10月6日新增本土无症状1267例",
+        "onboard_time": 1665105803,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497808,
+        "num": 497808,
+        "word": "男子不用洗发水从秃顶到满头黑发",
+        "onboard_time": 1665060145,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494297,
+        "num": 494297,
+        "word": "女生烟台赶海发现满沙滩泸沽虾",
+        "onboard_time": 1665107661,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 487783,
+        "num": 487783,
+        "word": "室友很好却不能成为好朋友",
+        "onboard_time": 1665067585,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 480060,
+        "num": 480060,
+        "word": "梅西确认最后一次参加世界杯",
+        "onboard_time": 1665099437,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 510268,
+        "num": 477501,
+        "word": "SK",
+        "onboard_time": 1665107363,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 443404,
+        "num": 443404,
+        "word": "天天向上创新改版",
+        "onboard_time": 1665105023,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360619,
+        "num": 360619,
+        "word": "虞书欣作品双平台破万",
+        "onboard_time": 1665101481,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 330084,
+        "num": 330084,
+        "word": "华西教授回应回家过节帮乡亲看病",
+        "onboard_time": 1665103943,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252621,
+        "num": 252621,
+        "word": "10月6日新增本土确诊216例",
+        "onboard_time": 1665105502,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250278,
+        "num": 250278,
+        "word": "内蒙古增本土确诊13例无症状661例",
+        "onboard_time": 1665109285,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243711,
+        "num": 243711,
+        "word": "成熟的男人开始反击了",
+        "onboard_time": 1665104964,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204650,
+        "num": 204650,
+        "word": "秋裤并不是越紧身的越保暖",
+        "onboard_time": 1665086050,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186251,
+        "num": 186251,
+        "word": "第一个游走位FMVP",
+        "onboard_time": 1665068905,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174560,
+        "num": 174560,
+        "word": "小孩飞机上蹦跳家长在旁无动于衷",
+        "onboard_time": 1665089110,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161681,
+        "num": 161681,
+        "word": "北京新增本土确诊5例",
+        "onboard_time": 1665102655,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156620,
+        "num": 156620,
+        "word": "獾子到漠河钻垃圾桶睡了一夜",
+        "onboard_time": 1665106702,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148546,
+        "num": 148546,
+        "word": "你养猫猫的原因是什么",
+        "onboard_time": 1665069205,
+        "rank": 22,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 147122,
+        "num": 147122,
+        "word": "云吃饭的萨摩耶",
+        "onboard_time": 1665108204,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146563,
+        "num": 146563,
+        "word": "消防员嘴咬接力棒飞檐走壁",
+        "onboard_time": 1665105984,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144005,
+        "num": 144005,
+        "word": "两个人的小森林首部热度破万现偶剧",
+        "onboard_time": 1665062546,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137798,
+        "num": 137798,
+        "word": "秦皇岛疫情防控",
+        "onboard_time": 1665100819,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137581,
+        "num": 137581,
+        "word": "中国建造登上11国纸币",
+        "onboard_time": 1665087012,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136888,
+        "num": 136888,
+        "word": "金晨炽道站内热度破8500",
+        "onboard_time": 1665107001,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132824,
+        "num": 132824,
+        "word": "老人骑30楼窗框探出身子擦玻璃",
+        "onboard_time": 1665107063,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129602,
+        "num": 129602,
+        "word": "中国女排战胜荷兰女排",
+        "onboard_time": 1665101781,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128043,
+        "num": 128043,
+        "word": "文班亚马36分",
+        "onboard_time": 1665104421,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122356,
+        "num": 122356,
+        "word": "湖南疾控对健康码变黄的权威解答",
+        "onboard_time": 1665074479,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120214,
+        "num": 120214,
+        "word": "eStar花海",
+        "onboard_time": 1665098896,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119131,
+        "num": 119131,
+        "word": "德国副总理指责美国卖天价天然气",
+        "onboard_time": 1665067465,
+        "rank": 34,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 119104,
+        "num": 119104,
+        "word": "退伍军人6岁儿子公园踢正步",
+        "onboard_time": 1665089709,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112755,
+        "num": 112755,
+        "word": "杭州新增1例无症状",
+        "onboard_time": 1665100581,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109217,
+        "num": 109217,
+        "word": "高卫东患癌去世",
+        "onboard_time": 1665053783,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104689,
+        "num": 104689,
+        "word": "冷雨夜男子怕违章高速抛下妻子",
+        "onboard_time": 1665055584,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100691,
+        "num": 100691,
+        "word": "Straykids今日回归",
+        "onboard_time": 1665101481,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 90340,
+        "num": 90340,
+        "word": "下周江苏可能出现初霜冻",
+        "onboard_time": 1665087671,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83323,
+        "num": 83323,
+        "word": "就想问能不能不上班",
+        "onboard_time": 1665052166,
+        "rank": 41,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 79948,
+        "num": 79948,
+        "word": "男子对着隔壁邻居家阳台呲水",
+        "onboard_time": 1665083412,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76063,
+        "num": 76063,
+        "word": "久坐的人应该早点穿秋裤",
+        "onboard_time": 1665109404,
+        "rank": 43,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 75019,
+        "num": 75019,
+        "word": "热火vs篮网",
+        "onboard_time": 1665108564,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74486,
+        "num": 74486,
+        "word": "清融 六冠中单",
+        "onboard_time": 1665099558,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 72774,
+        "num": 72774,
+        "word": "北京近期14例感染者轨迹一览",
+        "onboard_time": 1665090311,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72374,
+        "num": 72374,
+        "word": "动画版的一起来看流星雨",
+        "onboard_time": 1665066805,
+        "rank": 47,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 71323,
+        "num": 71323,
+        "word": "52岁交警连续高强度工作累倒在一线",
+        "onboard_time": 1665088331,
+        "rank": 48,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 69532,
+        "num": 69532,
+        "word": "父母得知儿女回家深夜门口等待",
+        "onboard_time": 1665061703,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#神州大地秋景如画#"
+    }
+  }
+}

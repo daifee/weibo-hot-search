@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665100192267,
+  "endTime": 1665109574360,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -201,6 +201,14 @@
       "onboard_time": 1665031580,
       "rank": 4,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 1957386,
+      "num": 1024059,
+      "word": "女孩骨折后查出全身骨头都在溶解",
+      "onboard_time": 1665106344,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1910204,
@@ -819,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1053621,
+      "num": 1053621,
+      "word": "七天假期状态的真实写照",
+      "onboard_time": 1665105023,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1041959,
       "num": 1041959,
       "word": "国庆晚会",
@@ -1265,6 +1281,14 @@
       "onboard_time": 1664941161,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 720024,
+      "num": 720024,
+      "word": "泰国幼儿园枪击案已造成34死",
+      "onboard_time": 1665098477,
+      "rank": 20,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 715976,
@@ -1747,6 +1771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 565407,
+      "num": 565407,
+      "word": "女生东北上学喜提铁锅炖版生日蛋糕",
+      "onboard_time": 1665101300,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 564955,
       "num": 564955,
       "word": "农民父母供养3女1儿全部读大学",
@@ -1939,6 +1971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 529714,
+      "num": 529714,
+      "word": "10月6日新增本土无症状1267例",
+      "onboard_time": 1665105803,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 524082,
       "num": 524082,
       "word": "为什么越来越多老年人变年轻了",
@@ -2001,6 +2041,14 @@
       "onboard_time": 1664980405,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 510268,
+      "num": 477501,
+      "word": "SK",
+      "onboard_time": 1665107363,
+      "rank": 10,
+      "category": "游戏"
     },
     {
       "raw_hot": 508946,
@@ -2089,6 +2137,14 @@
       "onboard_time": 1664807784,
       "rank": 35,
       "category": "其它"
+    },
+    {
+      "raw_hot": 494297,
+      "num": 494297,
+      "word": "女生烟台赶海发现满沙滩泸沽虾",
+      "onboard_time": 1665107661,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 491791,
@@ -2185,6 +2241,14 @@
       "onboard_time": 1664774603,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 480060,
+      "num": 480060,
+      "word": "梅西确认最后一次参加世界杯",
+      "onboard_time": 1665099437,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 478135,
@@ -2451,14 +2515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 452794,
-      "num": 184541,
-      "word": "泰国幼儿园枪击案已造成34死",
-      "onboard_time": 1665098477,
-      "rank": 20,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 451415,
       "num": 425366,
       "word": "万里归途成影史国庆节总场次冠军",
@@ -2529,6 +2585,14 @@
       "onboard_time": 1664755641,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 443404,
+      "num": 443404,
+      "word": "天天向上创新改版",
+      "onboard_time": 1665105023,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 440822,
@@ -3267,6 +3331,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 360619,
+      "num": 360619,
+      "word": "虞书欣作品双平台破万",
+      "onboard_time": 1665101481,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 360208,
       "num": 360208,
       "word": "你好星期六",
@@ -3513,6 +3585,14 @@
       "onboard_time": 1664547025,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 330084,
+      "num": 330084,
+      "word": "华西教授回应回家过节帮乡亲看病",
+      "onboard_time": 1665103943,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 328898,
@@ -4483,6 +4563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 252621,
+      "num": 252621,
+      "word": "10月6日新增本土确诊216例",
+      "onboard_time": 1665105502,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252457,
       "num": 252457,
       "word": "灰太狼听完都改吃素了",
@@ -4561,6 +4649,14 @@
       "onboard_time": 1664780301,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 250278,
+      "num": 250278,
+      "word": "内蒙古增本土确诊13例无症状661例",
+      "onboard_time": 1665109285,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 250001,
@@ -4657,6 +4753,14 @@
       "onboard_time": 1664907194,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243711,
+      "num": 243711,
+      "word": "成熟的男人开始反击了",
+      "onboard_time": 1665104964,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 243399,
@@ -6403,6 +6507,14 @@
       "category": "游戏,社会新闻"
     },
     {
+      "raw_hot": 161681,
+      "num": 161681,
+      "word": "北京新增本土确诊5例",
+      "onboard_time": 1665102655,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161645,
       "num": 161645,
       "word": "00后大学生操场带妆唱戏引围观",
@@ -6553,6 +6665,14 @@
       "onboard_time": 1664598202,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 156620,
+      "num": 156620,
+      "word": "獾子到漠河钻垃圾桶睡了一夜",
+      "onboard_time": 1665106702,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156386,
@@ -6761,6 +6881,22 @@
       "onboard_time": 1664579778,
       "rank": 23,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 147122,
+      "num": 147122,
+      "word": "云吃饭的萨摩耶",
+      "onboard_time": 1665108204,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 146563,
+      "num": 146563,
+      "word": "消防员嘴咬接力棒飞檐走壁",
+      "onboard_time": 1665105984,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146499,
@@ -7091,6 +7227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 137798,
+      "num": 137798,
+      "word": "秦皇岛疫情防控",
+      "onboard_time": 1665100819,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137426,
       "num": 137426,
       "word": "我的反派男友弹幕",
@@ -7105,6 +7249,14 @@
       "onboard_time": 1664885243,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136888,
+      "num": 136888,
+      "word": "金晨炽道站内热度破8500",
+      "onboard_time": 1665107001,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 136619,
@@ -7219,6 +7371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132824,
+      "num": 132824,
+      "word": "老人骑30楼窗框探出身子擦玻璃",
+      "onboard_time": 1665107063,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132359,
       "num": 132359,
       "word": "河狸偷吃葵花惹牧民生气咋办",
@@ -7275,6 +7435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129602,
+      "num": 129602,
+      "word": "中国女排战胜荷兰女排",
+      "onboard_time": 1665101781,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129093,
       "num": 129093,
       "word": "中国空间站也发迎新视频了",
@@ -7305,6 +7473,14 @@
       "onboard_time": 1664802984,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128043,
+      "num": 128043,
+      "word": "文班亚马36分",
+      "onboard_time": 1665104421,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 128016,
@@ -7603,6 +7779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120214,
+      "num": 120214,
+      "word": "eStar花海",
+      "onboard_time": 1665098896,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 120125,
       "num": 120125,
       "word": "世界银行预测乌今年经济将萎缩35%",
@@ -7705,14 +7889,6 @@
       "onboard_time": 1664617042,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 117238,
-      "num": 117238,
-      "word": "梅西确认最后一次参加世界杯",
-      "onboard_time": 1665099437,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 116819,
@@ -7835,12 +8011,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112669,
-      "num": 112669,
-      "word": "eStar花海",
-      "onboard_time": 1665098896,
-      "rank": 35,
-      "category": "游戏"
+      "raw_hot": 112755,
+      "num": 112755,
+      "word": "杭州新增1例无症状",
+      "onboard_time": 1665100581,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112561,
@@ -8241,6 +8417,14 @@
       "onboard_time": 1664705963,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100691,
+      "num": 100691,
+      "word": "Straykids今日回归",
+      "onboard_time": 1665101481,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 100341,
@@ -8907,6 +9091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76063,
+      "num": 76063,
+      "word": "久坐的人应该早点穿秋裤",
+      "onboard_time": 1665109404,
+      "rank": 43,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 75890,
       "num": 75890,
       "word": "乌云遇皎月剧情高能",
@@ -8929,6 +9121,14 @@
       "onboard_time": 1665049584,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 75019,
+      "num": 75019,
+      "word": "热火vs篮网",
+      "onboard_time": 1665108564,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 74997,
