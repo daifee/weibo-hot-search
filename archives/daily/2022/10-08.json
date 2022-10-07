@@ -1,6 +1,6 @@
 {
   "startTime": 1665160801801,
-  "endTime": 1665175511627,
+  "endTime": 1665177812995,
   "band_list": [
     {
       "raw_hot": 1593804,
@@ -427,6 +427,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 28616,
+      "num": 24821,
+      "word": "世卫对4款印度产止咳糖浆发出警告",
+      "onboard_time": 1665174070,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23231,
+      "num": 23231,
+      "word": "北京错失秋天一秒入冬",
+      "onboard_time": 1665174130,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22763,
+      "num": 22763,
+      "word": "波士顿动力承诺不将机器人武器化",
+      "onboard_time": 1665174309,
+      "rank": 46,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 22522,
       "num": 22522,
       "word": "虞书欣虞美人雨夜大片",
@@ -443,7 +467,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 18008,
+      "raw_hot": 19636,
       "num": 16902,
       "word": "老师逐一检查学生是否穿秋裤",
       "onboard_time": 1665169691,
@@ -451,19 +475,27 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 13202,
-      "num": 13202,
+      "raw_hot": 18699,
+      "num": 18699,
+      "word": "男子产房外手捧鲜花等候妻子生产",
+      "onboard_time": 1665174670,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16876,
+      "num": 16068,
       "word": "去过丰台这一公厕人员请报告",
       "onboard_time": 1665170412,
       "rank": 48,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 9613,
-      "num": 9613,
-      "word": "北京错失秋天一秒入冬",
-      "onboard_time": 1665174130,
-      "rank": 45,
+      "raw_hot": 15524,
+      "num": 15524,
+      "word": "妈妈紧贴着烈士儿子画像痛哭不止",
+      "onboard_time": 1665173230,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -475,27 +507,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 8282,
-      "num": 8282,
-      "word": "波士顿动力承诺不将机器人武器化",
-      "onboard_time": 1665174309,
-      "rank": 46,
-      "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 8014,
-      "num": 8014,
-      "word": "妈妈紧贴着烈士儿子画像痛哭不止",
-      "onboard_time": 1665173230,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6966,
-      "num": 6966,
-      "word": "男子产房外手捧鲜花等候妻子生产",
-      "onboard_time": 1665174670,
-      "rank": 43,
+      "raw_hot": 7116,
+      "num": 7116,
+      "word": "河南新增本土确诊4例无症状21例",
+      "onboard_time": 1665175212,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -505,14 +521,6 @@
       "onboard_time": 1665171311,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 6659,
-      "num": 6659,
-      "word": "世卫对4款印度产止咳糖浆发出警告",
-      "onboard_time": 1665174070,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 6424,
@@ -555,12 +563,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 5371,
+      "num": 6773,
+      "word": "海南倡导支持男女共担家务",
+      "onboard_time": 1665177070,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 5296,
       "num": 5296,
       "word": "猫猫忧伤时是什么状态",
       "onboard_time": 1665174369,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 5153,
+      "num": 6761,
+      "word": "中国是全球最大水产品出口国",
+      "onboard_time": 1665177011,
+      "rank": 46,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 5054,
@@ -571,10 +595,26 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 5032,
-      "num": 5044,
-      "word": "河南新增本土确诊4例无症状21例",
-      "onboard_time": 1665175212,
+      "raw_hot": 5033,
+      "num": 6734,
+      "word": "73岁儿子照顾98岁瘫痪母亲22年",
+      "onboard_time": 1665177550,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4963,
+      "num": 6726,
+      "word": "女排主教练解释阵容调整",
+      "onboard_time": 1665177070,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 4869,
+      "num": 6708,
+      "word": "无脚老人每天做100多个引体向上",
+      "onboard_time": 1665177669,
       "rank": 49,
       "category": "社会新闻"
     },
