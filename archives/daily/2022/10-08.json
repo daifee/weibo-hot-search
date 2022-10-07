@@ -1,6 +1,6 @@
 {
   "startTime": 1665160801801,
-  "endTime": 1665181621391,
+  "endTime": 1665182753231,
   "band_list": [
     {
       "raw_hot": 1593804,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 403448,
-      "num": 193329,
+      "num": 241924,
       "word": "美国费城就不道德医学实验道歉",
       "onboard_time": 1665158603,
       "rank": 20,
@@ -179,12 +179,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 160395,
+      "num": 106446,
+      "word": "海南倡导支持男女共担家务",
+      "onboard_time": 1665177070,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157827,
       "num": 157827,
       "word": "错过相爱的人会遗憾一辈子",
       "onboard_time": 1665143662,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 148947,
+      "num": 148947,
+      "word": "北京错失秋天一秒入冬",
+      "onboard_time": 1665174130,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142157,
@@ -251,14 +267,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 90950,
-      "num": 90950,
-      "word": "北京错失秋天一秒入冬",
-      "onboard_time": 1665174130,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 90661,
       "num": 57514,
       "word": "大张伟官宣加盟我们的歌4",
@@ -283,14 +291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 76931,
-      "num": 71470,
-      "word": "海南倡导支持男女共担家务",
-      "onboard_time": 1665177070,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 72053,
       "num": 72053,
       "word": "3D打印肉将投入商业领域",
@@ -304,6 +304,22 @@
       "word": "大爷起床后懵圈将10万房租转错人",
       "onboard_time": 1665137723,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67480,
+      "num": 67480,
+      "word": "老师逐一检查学生是否穿秋裤",
+      "onboard_time": 1665169691,
+      "rank": 47,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 65409,
+      "num": 65409,
+      "word": "男子产房外手捧鲜花等候妻子生产",
+      "onboard_time": 1665174670,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -345,6 +361,14 @@
       "onboard_time": 1665151704,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 58051,
+      "num": 58051,
+      "word": "河南新增本土确诊4例无症状21例",
+      "onboard_time": 1665175212,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57529,
@@ -395,20 +419,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 51153,
+      "num": 51153,
+      "word": "世卫对4款印度产止咳糖浆发出警告",
+      "onboard_time": 1665174070,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50432,
       "num": 50432,
       "word": "国乒男队半决赛对阵日本",
       "onboard_time": 1665156686,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 48708,
-      "num": 48708,
-      "word": "男子产房外手捧鲜花等候妻子生产",
-      "onboard_time": 1665174670,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 48340,
@@ -419,14 +443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 42897,
-      "num": 42897,
-      "word": "老师逐一检查学生是否穿秋裤",
-      "onboard_time": 1665169691,
-      "rank": 47,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 42702,
       "num": 42702,
       "word": "看王濛晒狗太真实了",
@@ -435,12 +451,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 40995,
-      "num": 40995,
-      "word": "河南新增本土确诊4例无症状21例",
-      "onboard_time": 1665175212,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 39131,
+      "num": 39131,
+      "word": "波士顿动力承诺不将机器人武器化",
+      "onboard_time": 1665174309,
+      "rank": 46,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 36821,
@@ -467,27 +483,27 @@
       "category": "体育"
     },
     {
-      "raw_hot": 33992,
-      "num": 33992,
-      "word": "世卫对4款印度产止咳糖浆发出警告",
-      "onboard_time": 1665174070,
+      "raw_hot": 34105,
+      "num": 34105,
+      "word": "为啥一到重要时刻大脑就一片空白",
+      "onboard_time": 1665179472,
       "rank": 43,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29892,
-      "num": 29892,
-      "word": "波士顿动力承诺不将机器人武器化",
-      "onboard_time": 1665174309,
-      "rank": 46,
-      "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 22868,
-      "num": 22868,
+      "raw_hot": 33743,
+      "num": 33743,
       "word": "妈妈紧贴着烈士儿子画像痛哭不止",
       "onboard_time": 1665173230,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30503,
+      "num": 30503,
+      "word": "去过丰台这一公厕人员请报告",
+      "onboard_time": 1665170412,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -507,22 +523,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 17428,
-      "num": 17428,
-      "word": "去过丰台这一公厕人员请报告",
-      "onboard_time": 1665170412,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15848,
-      "num": 15848,
-      "word": "为啥一到重要时刻大脑就一片空白",
-      "onboard_time": 1665179472,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 8324,
       "num": 8324,
       "word": "梅西小腿不适接受治疗",
@@ -537,6 +537,14 @@
       "onboard_time": 1665171311,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 6715,
+      "num": 7334,
+      "word": "花海晒证庆祝蝉联冠军",
+      "onboard_time": 1665173049,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 6424,
@@ -663,14 +671,6 @@
       "num": 6175,
       "word": "狼队一日店长今屿",
       "onboard_time": 1665178871,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 4736,
-      "num": 7334,
-      "word": "花海晒证庆祝蝉联冠军",
-      "onboard_time": 1665173049,
       "rank": 49,
       "category": "游戏"
     }
