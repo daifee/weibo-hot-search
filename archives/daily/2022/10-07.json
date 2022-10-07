@@ -1,6 +1,6 @@
 {
   "startTime": 1665074398460,
-  "endTime": 1665147335945,
+  "endTime": 1665149284782,
   "band_list": [
     {
       "raw_hot": 2887521,
@@ -35,20 +35,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1669100,
+      "num": 1669100,
+      "word": "如果今天你觉得七天很短",
+      "onboard_time": 1665140241,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1571638,
+      "num": 1571638,
+      "word": "王楚钦",
+      "onboard_time": 1665148584,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1539155,
       "num": 1539155,
       "word": "江西从40℃直接降至17℃",
       "onboard_time": 1665124644,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1396105,
-      "num": 1396105,
-      "word": "如果今天你觉得七天很短",
-      "onboard_time": 1665140241,
-      "rank": 4,
-      "category": "情感"
     },
     {
       "raw_hot": 1205024,
@@ -108,11 +116,19 @@
     },
     {
       "raw_hot": 1010221,
-      "num": 720357,
+      "num": 758970,
       "word": "女子6千买实木沙发内部全是水泥",
       "onboard_time": 1665141862,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 997993,
+      "num": 997993,
+      "word": "杨蓉大山的女儿二登央视黄金档",
+      "onboard_time": 1665145401,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 986191,
@@ -152,14 +168,6 @@
       "word": "车银优韩素希李洙赫网漫第一集预告",
       "onboard_time": 1665133342,
       "rank": 16,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 884807,
-      "num": 884807,
-      "word": "杨蓉大山的女儿二登央视黄金档",
-      "onboard_time": 1665145401,
-      "rank": 1,
       "category": "影视"
     },
     {
@@ -241,6 +249,14 @@
       "onboard_time": 1665111504,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 591447,
+      "num": 591447,
+      "word": "错过相爱的人会遗憾一辈子",
+      "onboard_time": 1665143662,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 578344,
@@ -355,14 +371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 414467,
-      "num": 414467,
-      "word": "错过相爱的人会遗憾一辈子",
-      "onboard_time": 1665143662,
-      "rank": 7,
-      "category": "情感"
-    },
-    {
       "raw_hot": 411026,
       "num": 411026,
       "word": "两个人的小森林首部热度破万现偶剧",
@@ -435,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 373282,
+      "num": 331690,
+      "word": "张彬彬说都别惦记我的化石了",
+      "onboard_time": 1665148222,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 364291,
       "num": 364291,
       "word": "魏大勋父子全国通用跪式压箱法",
@@ -491,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 331837,
+      "num": 331837,
+      "word": "距离下个假期还有85天",
+      "onboard_time": 1665146602,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 330084,
       "num": 330084,
       "word": "华西教授回应回家过节帮乡亲看病",
@@ -545,6 +569,14 @@
       "onboard_time": 1665069746,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 302506,
+      "num": 302506,
+      "word": "利特张元英担任AAA颁奖礼主持人",
+      "onboard_time": 1665147143,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 296066,
@@ -713,14 +745,6 @@
       "onboard_time": 1665104964,
       "rank": 16,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 231568,
-      "num": 231568,
-      "word": "利特张元英担任AAA颁奖礼主持人",
-      "onboard_time": 1665147143,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 229952,
@@ -1147,6 +1171,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 130178,
+      "num": 110891,
+      "word": "郁可唯婉国风舞台",
+      "onboard_time": 1665148463,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 129602,
       "num": 129602,
       "word": "中国女排战胜荷兰女排",
@@ -1201,6 +1233,14 @@
       "onboard_time": 1665097334,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122684,
+      "num": 110564,
+      "word": "李一桐哭戏爆发力",
+      "onboard_time": 1665147684,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 122439,
@@ -1328,14 +1368,6 @@
       "word": "2分钟见证中国速度",
       "onboard_time": 1665127824,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 104925,
-      "num": 104925,
-      "word": "距离下个假期还有85天",
-      "onboard_time": 1665146602,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -1531,6 +1563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 80942,
+      "num": 80942,
+      "word": "请君的收官战报",
+      "onboard_time": 1665148525,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 80558,
       "num": 80558,
       "word": "假期最后一天如何调整状态",
@@ -1555,6 +1595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76007,
+      "num": 76007,
+      "word": "2个穴位缓解干眼问题",
+      "onboard_time": 1665148823,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75499,
       "num": 75499,
       "word": "任嘉伦晒收官剧照告别陆炎",
@@ -1577,6 +1625,14 @@
       "onboard_time": 1665068546,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 74856,
+      "num": 74856,
+      "word": "乌云遇皎月改编壮鱼结局",
+      "onboard_time": 1665149005,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 73109,
@@ -1724,7 +1780,7 @@
     },
     {
       "raw_hot": 42375,
-      "num": 964096,
+      "num": 1202490,
       "word": "江河奔腾看中国",
       "onboard_time": 1665128123,
       "rank": 2,
