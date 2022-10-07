@@ -1,6 +1,6 @@
 {
   "startTime": 1665160801801,
-  "endTime": 1665171578722,
+  "endTime": 1665174487759,
   "band_list": [
     {
       "raw_hot": 1593804,
@@ -443,7 +443,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 16902,
+      "raw_hot": 17870,
       "num": 16902,
       "word": "老师逐一检查学生是否穿秋裤",
       "onboard_time": 1665169691,
@@ -451,12 +451,20 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 6866,
-      "num": 6866,
+      "raw_hot": 12707,
+      "num": 12707,
       "word": "去过丰台这一公厕人员请报告",
       "onboard_time": 1665170412,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8074,
+      "num": 8074,
+      "word": "梅西小腿不适接受治疗",
+      "onboard_time": 1665173290,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 6735,
@@ -473,6 +481,62 @@
       "onboard_time": 1665171432,
       "rank": 48,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 6157,
+      "num": 6157,
+      "word": "烟台海滩捡的海肠和虾蒸熟啦",
+      "onboard_time": 1665173891,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5962,
+      "num": 5962,
+      "word": "退伍小伙第一天上班被点名本能喊到",
+      "onboard_time": 1665173950,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5929,
+      "num": 5929,
+      "word": "世卫对4款印度产止咳糖浆发出警告",
+      "onboard_time": 1665174070,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5857,
+      "num": 5857,
+      "word": "驾校教练酒驾5年内不得重考驾照",
+      "onboard_time": 1665173710,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5490,
+      "num": 5490,
+      "word": "北京错失秋天一秒入冬",
+      "onboard_time": 1665174130,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5464,
+      "num": 5464,
+      "word": "波士顿动力承诺不将机器人武器化",
+      "onboard_time": 1665174309,
+      "rank": 46,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 5296,
+      "num": 5296,
+      "word": "猫猫忧伤时是什么状态",
+      "onboard_time": 1665174369,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 4807,

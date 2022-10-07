@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/08 00:40:01 ~ 2022/10/08 03:39:38
+本榜单时间：2022/10/08 00:40:01 ~ 2022/10/08 04:28:07
 </p>
 </blockquote>
 <p>
@@ -346,13 +346,19 @@ S12小组赛开赛（热度：104791）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E9%80%90%E4%B8%80%E6%A3%80%E6%9F%A5%E5%AD%A6%E7%94%9F%E6%98%AF%E5%90%A6%E7%A9%BF%E7%A7%8B%E8%A3%A4%23" target="weibo">
-老师逐一检查学生是否穿秋裤（热度：16902）
+老师逐一检查学生是否穿秋裤（热度：17870）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%BB%E8%BF%87%E4%B8%B0%E5%8F%B0%E8%BF%99%E4%B8%80%E5%85%AC%E5%8E%95%E4%BA%BA%E5%91%98%E8%AF%B7%E6%8A%A5%E5%91%8A%23" target="weibo">
-去过丰台这一公厕人员请报告（热度：6866）
+去过丰台这一公厕人员请报告（热度：12707）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E5%B0%8F%E8%85%BF%E4%B8%8D%E9%80%82%E6%8E%A5%E5%8F%97%E6%B2%BB%E7%96%97%23" target="weibo">
+梅西小腿不适接受治疗（热度：8074）
 </a>
 </li>
 
@@ -365,6 +371,48 @@ S12小组赛开赛（热度：104791）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E4%B8%80%E5%B9%BC%E5%84%BF%E5%9B%AD%E9%81%AD%E8%A2%AD%23" target="weibo">
 泰国一幼儿园遭袭（热度：6424）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%83%9F%E5%8F%B0%E6%B5%B7%E6%BB%A9%E6%8D%A1%E7%9A%84%E6%B5%B7%E8%82%A0%E5%92%8C%E8%99%BE%E8%92%B8%E7%86%9F%E5%95%A6%23" target="weibo">
+烟台海滩捡的海肠和虾蒸熟啦（热度：6157）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%80%80%E4%BC%8D%E5%B0%8F%E4%BC%99%E7%AC%AC%E4%B8%80%E5%A4%A9%E4%B8%8A%E7%8F%AD%E8%A2%AB%E7%82%B9%E5%90%8D%E6%9C%AC%E8%83%BD%E5%96%8A%E5%88%B0%23" target="weibo">
+退伍小伙第一天上班被点名本能喊到（热度：5962）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E5%8D%AB%E5%AF%B94%E6%AC%BE%E5%8D%B0%E5%BA%A6%E4%BA%A7%E6%AD%A2%E5%92%B3%E7%B3%96%E6%B5%86%E5%8F%91%E5%87%BA%E8%AD%A6%E5%91%8A%23" target="weibo">
+世卫对4款印度产止咳糖浆发出警告（热度：5929）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%BE%E6%A0%A1%E6%95%99%E7%BB%83%E9%85%92%E9%A9%BE5%E5%B9%B4%E5%86%85%E4%B8%8D%E5%BE%97%E9%87%8D%E8%80%83%E9%A9%BE%E7%85%A7%23" target="weibo">
+驾校教练酒驾5年内不得重考驾照（热度：5857）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E9%94%99%E5%A4%B1%E7%A7%8B%E5%A4%A9%E4%B8%80%E7%A7%92%E5%85%A5%E5%86%AC%23" target="weibo">
+北京错失秋天一秒入冬（热度：5490）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%A2%E5%A3%AB%E9%A1%BF%E5%8A%A8%E5%8A%9B%E6%89%BF%E8%AF%BA%E4%B8%8D%E5%B0%86%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%AD%A6%E5%99%A8%E5%8C%96%23" target="weibo">
+波士顿动力承诺不将机器人武器化（热度：5464）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8C%AB%E7%8C%AB%E5%BF%A7%E4%BC%A4%E6%97%B6%E6%98%AF%E4%BB%80%E4%B9%88%E7%8A%B6%E6%80%81%23" target="weibo">
+猫猫忧伤时是什么状态（热度：5296）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1665174487759,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 122256,
+        "num": 122256,
+        "word": "以前觉得晚上九点就很晚了",
+        "onboard_time": 1665157527,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 81041,
+        "num": 81041,
+        "word": "体检报告上的常见异常",
+        "onboard_time": 1665149425,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175,
+        "num": 70212,
+        "word": "江河奔腾看中国",
+        "onboard_time": 1665128123,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 66512,
+        "num": 66512,
+        "word": "王楚钦",
+        "onboard_time": 1665148584,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44054,
+        "num": 44054,
+        "word": "女孩捡手机欲归还疑被大人阻止",
+        "onboard_time": 1665159322,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34443,
+        "num": 34443,
+        "word": "如果今天你觉得七天很短",
+        "onboard_time": 1665140241,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 34182,
+        "num": 34182,
+        "word": "为什么年轻人想要逃离一线城市",
+        "onboard_time": 1665152125,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 32393,
+        "num": 32393,
+        "word": "国足世界杯出线21周年",
+        "onboard_time": 1665166572,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29721,
+        "num": 29721,
+        "word": "换乘恋爱",
+        "onboard_time": 1665132621,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26393,
+        "num": 26393,
+        "word": "女子6千买实木沙发内部全是水泥",
+        "onboard_time": 1665141862,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44985,
+        "num": 26005,
+        "word": "美国费城就不道德医学实验道歉",
+        "onboard_time": 1665158603,
+        "rank": 10,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 24904,
+        "num": 24904,
+        "word": "母鸡给4只小奶猫当临时妈妈",
+        "onboard_time": 1665158063,
+        "rank": 11,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 22601,
+        "num": 22601,
+        "word": "错过相爱的人会遗憾一辈子",
+        "onboard_time": 1665143662,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21209,
+        "num": 21209,
+        "word": "唐朝诡事录群像",
+        "onboard_time": 1665150326,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21167,
+        "num": 21167,
+        "word": "当代小学生受网络影响有多大",
+        "onboard_time": 1665152549,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18414,
+        "num": 18414,
+        "word": "追梦格林拳击普尔视频曝光",
+        "onboard_time": 1665153630,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17866,
+        "num": 17866,
+        "word": "凤凰古城滞留游客明年免费游全县A级景区",
+        "onboard_time": 1665152487,
+        "rank": 16,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 17642,
+        "num": 17642,
+        "word": "陈哲远沈月新剧满屏恋爱氛围",
+        "onboard_time": 1665158305,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17322,
+        "num": 17322,
+        "word": "上海社会面新增3例无症状感染者",
+        "onboard_time": 1665136642,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16638,
+        "num": 16638,
+        "word": "爱奇艺待播剧爆款预定",
+        "onboard_time": 1665155906,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17870,
+        "num": 16559,
+        "word": "老师逐一检查学生是否穿秋裤",
+        "onboard_time": 1665169691,
+        "rank": 20,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 16043,
+        "num": 16043,
+        "word": "成毅蔡文静底线双向奔赴",
+        "onboard_time": 1665152005,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 15574,
+        "num": 15574,
+        "word": "广西海边发现成熟稻谷",
+        "onboard_time": 1665154949,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14679,
+        "num": 14679,
+        "word": "刘宇柳叶刀收藏量破百万",
+        "onboard_time": 1665151829,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 14166,
+        "num": 14166,
+        "word": "S12小组赛开赛",
+        "onboard_time": 1665143964,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 13594,
+        "num": 13594,
+        "word": "参加前任的婚礼是什么体验",
+        "onboard_time": 1665153810,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13067,
+        "num": 13067,
+        "word": "凤凰县城区临时全域静默管控",
+        "onboard_time": 1665155668,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12707,
+        "num": 12707,
+        "word": "去过丰台这一公厕人员请报告",
+        "onboard_time": 1665170412,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12217,
+        "num": 12217,
+        "word": "快递小哥为当飞行员一周减重16斤",
+        "onboard_time": 1665140962,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11036,
+        "num": 11036,
+        "word": "大张伟官宣加盟我们的歌4",
+        "onboard_time": 1665162796,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9407,
+        "num": 9407,
+        "word": "老人穿衣服被拉链卡住眼皮",
+        "onboard_time": 1665149783,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9339,
+        "num": 9339,
+        "word": "马龙鼓励王楚钦",
+        "onboard_time": 1665150206,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9059,
+        "num": 9059,
+        "word": "王楚钦大心脏",
+        "onboard_time": 1665155969,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8855,
+        "num": 8855,
+        "word": "距离下个假期还有85天",
+        "onboard_time": 1665146602,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8274,
+        "num": 8274,
+        "word": "原来冬天可以是10月份",
+        "onboard_time": 1665153511,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 8074,
+        "num": 8074,
+        "word": "梅西小腿不适接受治疗",
+        "onboard_time": 1665173290,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7679,
+        "num": 7679,
+        "word": "大爷起床后懵圈将10万房租转错人",
+        "onboard_time": 1665137723,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7246,
+        "num": 7246,
+        "word": "成都东站疫情防控",
+        "onboard_time": 1665137480,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6795,
+        "num": 6795,
+        "word": "这就是善书者不择笔吧",
+        "onboard_time": 1665160221,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 6283,
+        "num": 6283,
+        "word": "王大陆P图等张震岳潘玮柏露营",
+        "onboard_time": 1665161657,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 6157,
+        "num": 6157,
+        "word": "烟台海滩捡的海肠和虾蒸熟啦",
+        "onboard_time": 1665173891,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6033,
+        "num": 6033,
+        "word": "利特张元英担任AAA颁奖礼主持人",
+        "onboard_time": 1665147143,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 5962,
+        "num": 5962,
+        "word": "退伍小伙第一天上班被点名本能喊到",
+        "onboard_time": 1665173950,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5929,
+        "num": 5929,
+        "word": "世卫对4款印度产止咳糖浆发出警告",
+        "onboard_time": 1665174070,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5857,
+        "num": 5857,
+        "word": "驾校教练酒驾5年内不得重考驾照",
+        "onboard_time": 1665173710,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5490,
+        "num": 5490,
+        "word": "北京错失秋天一秒入冬",
+        "onboard_time": 1665174130,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5464,
+        "num": 5464,
+        "word": "波士顿动力承诺不将机器人武器化",
+        "onboard_time": 1665174309,
+        "rank": 46,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 5426,
+        "num": 5426,
+        "word": "3D打印肉将投入商业领域",
+        "onboard_time": 1665149305,
+        "rank": 47,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 5296,
+        "num": 5296,
+        "word": "猫猫忧伤时是什么状态",
+        "onboard_time": 1665174369,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 5241,
+        "num": 5291,
+        "word": "国乒男队半决赛对阵日本",
+        "onboard_time": 1665156686,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光#"
+    }
+  }
+}
