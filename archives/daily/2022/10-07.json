@@ -1,6 +1,6 @@
 {
   "startTime": 1665074398460,
-  "endTime": 1665128874013,
+  "endTime": 1665131580461,
   "band_list": [
     {
       "raw_hot": 2887521,
@@ -91,6 +91,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 936728,
+      "num": 322961,
+      "word": "王俊凯北大路演",
+      "onboard_time": 1665128183,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 929015,
       "num": 929015,
       "word": "婚礼现场新郎啄木鸟式亲新娘十几下",
@@ -107,18 +115,18 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 829977,
+      "num": 343570,
+      "word": "山西运城发现31例核酸异常人员",
+      "onboard_time": 1665127942,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 791381,
       "num": 320447,
       "word": "虞书欣回应自己是bg之光",
       "onboard_time": 1665123442,
-      "rank": 10,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 727683,
-      "num": 322961,
-      "word": "王俊凯北大路演",
-      "onboard_time": 1665128183,
       "rank": 10,
       "category": "作品衍生"
     },
@@ -219,6 +227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 520845,
+      "num": 520845,
+      "word": "送子上北大的爸爸到北大做鸡蛋灌饼",
+      "onboard_time": 1665128602,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 513271,
       "num": 513271,
       "word": "泰国幼儿园枪击案已造成38死",
@@ -291,6 +307,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 389776,
+      "num": 389776,
+      "word": "男子连拧7瓶饮料看是否中奖",
+      "onboard_time": 1665128784,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 383039,
       "num": 383039,
       "word": "湖南疾控对健康码变黄的权威解答",
@@ -321,14 +345,6 @@
       "onboard_time": 1665109404,
       "rank": 43,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 343570,
-      "num": 343570,
-      "word": "山西运城发现31例核酸异常人员",
-      "onboard_time": 1665127942,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 335029,
@@ -387,6 +403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 296131,
+      "num": 163754,
+      "word": "新疆新增本土无症状感染者96例",
+      "onboard_time": 1665128003,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 292367,
       "num": 292367,
       "word": "StrayKids新歌MV公开",
@@ -435,6 +459,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 252736,
+      "num": 229447,
+      "word": "李旻浩怼脸",
+      "onboard_time": 1665127162,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 252621,
       "num": 252621,
       "word": "10月6日新增本土确诊216例",
@@ -467,20 +499,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 229447,
-      "num": 229447,
-      "word": "李旻浩怼脸",
-      "onboard_time": 1665127162,
-      "rank": 15,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 228133,
       "num": 228133,
       "word": "女子高速堵车时将垃圾全扔下",
       "onboard_time": 1665120682,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220146,
+      "num": 186484,
+      "word": "90后飞行员被叫军中凯因斯坦",
+      "onboard_time": 1665126864,
+      "rank": 35,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 213254,
@@ -531,12 +563,28 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 200980,
+      "num": 200980,
+      "word": "小鬼戴帽子重拾街舞热爱",
+      "onboard_time": 1665127102,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200802,
       "num": 200802,
       "word": "低风险区返京后3天2检可解除弹窗",
       "onboard_time": 1665065605,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198448,
+      "num": 198448,
+      "word": "孙颖莎3比0陈思羽",
+      "onboard_time": 1665130284,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 196612,
@@ -563,12 +611,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 180709,
-      "num": 180709,
-      "word": "小鬼戴帽子重拾街舞热爱",
-      "onboard_time": 1665127102,
-      "rank": 20,
-      "category": "综艺"
+      "raw_hot": 185737,
+      "num": 185737,
+      "word": "田爸怀疑田雯雯周博文早恋",
+      "onboard_time": 1665130582,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 180683,
+      "num": 180683,
+      "word": "不会跳舞也是一种天赋",
+      "onboard_time": 1665128364,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 178521,
@@ -627,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160262,
+      "num": 126063,
+      "word": "村民摆20多条板凳拦婚车讨喜",
+      "onboard_time": 1665128602,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157626,
       "num": 157626,
       "word": "中国建造登上11国纸币",
@@ -675,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146081,
+      "num": 146081,
+      "word": "孙颖莎连得10分",
+      "onboard_time": 1665130343,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145808,
       "num": 145808,
       "word": "退伍军人6岁儿子公园踢正步",
@@ -713,14 +785,6 @@
       "onboard_time": 1665046765,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 140463,
-      "num": 140463,
-      "word": "90后飞行员被叫军中凯因斯坦",
-      "onboard_time": 1665126864,
-      "rank": 35,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 137798,
@@ -795,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124660,
+      "num": 124660,
+      "word": "坐标中国",
+      "onboard_time": 1665127644,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123358,
       "num": 123358,
       "word": "8日起新一轮冷空气来了",
@@ -825,14 +897,6 @@
       "onboard_time": 1665098896,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 119677,
-      "num": 119677,
-      "word": "新疆新增本土无症状感染者96例",
-      "onboard_time": 1665128003,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119616,
@@ -923,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104694,
+      "num": 104694,
+      "word": "90后妈妈给宝宝自制早教书",
+      "onboard_time": 1665126562,
+      "rank": 42,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 104057,
       "num": 104057,
       "word": "男子对着隔壁邻居家阳台呲水",
@@ -963,6 +1035,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 99176,
+      "num": 99176,
+      "word": "老君山云海中现金顶雪景",
+      "onboard_time": 1665131064,
+      "rank": 37,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 99169,
       "num": 99169,
       "word": "就想问能不能不上班",
@@ -979,20 +1059,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 97824,
-      "num": 97824,
-      "word": "90后妈妈给宝宝自制早教书",
-      "onboard_time": 1665126562,
-      "rank": 42,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 94421,
       "num": 94421,
       "word": "热火vs篮网",
       "onboard_time": 1665108564,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94237,
+      "num": 94237,
+      "word": "教科书级别的煎饼果子",
+      "onboard_time": 1665130763,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 92724,
@@ -1011,14 +1091,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 87632,
-      "num": 87632,
-      "word": "坐标中国",
-      "onboard_time": 1665127644,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 86648,
       "num": 86648,
       "word": "去过北京朝阳这处公共卫生间人员请上报",
@@ -1033,22 +1105,6 @@
       "onboard_time": 1665118344,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 86185,
-      "num": 86185,
-      "word": "送子上北大的爸爸到北大做鸡蛋灌饼",
-      "onboard_time": 1665128602,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 86101,
-      "num": 86101,
-      "word": "不会跳舞也是一种天赋",
-      "onboard_time": 1665128364,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 85899,
@@ -1147,14 +1203,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 73926,
-      "num": 73926,
-      "word": "村民摆20多条板凳拦婚车讨喜",
-      "onboard_time": 1665128602,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 73109,
       "num": 73109,
       "word": "万里归途票房破10亿",
@@ -1163,20 +1211,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 71239,
-      "num": 71239,
-      "word": "男子连拧7瓶饮料看是否中奖",
-      "onboard_time": 1665128784,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 70409,
       "num": 70409,
       "word": "朴灿烈唱Tomorrow",
       "onboard_time": 1665061525,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 68184,
+      "num": 68184,
+      "word": "员工当顾客面把扫地垃圾倒进餐盘",
+      "onboard_time": 1665131364,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67243,
@@ -1339,7 +1387,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 21792,
+      "raw_hot": 29348,
       "num": 964096,
       "word": "江河奔腾看中国",
       "onboard_time": 1665128123,
