@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/08 00:40:01 ~ 2022/10/08 01:41:27
+本榜单时间：2022/10/08 00:40:01 ~ 2022/10/08 01:58:51
 </p>
 </blockquote>
 <p>
@@ -225,6 +225,12 @@ S12小组赛开赛（热度：104791）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%BC%A0%E4%BC%9F%E5%AE%98%E5%AE%A3%E5%8A%A0%E7%9B%9F%E6%88%91%E4%BB%AC%E7%9A%84%E6%AD%8C4%23" target="weibo">
+大张伟官宣加盟我们的歌4（热度：65112）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E8%B6%85%E5%B0%8F%E5%8F%B7%E8%AD%A6%E7%8A%AC%E5%B7%B2%E4%B8%8A%E5%B2%977%E5%A4%A9%23" target="weibo">
 南京超小号警犬已上岗7天（热度：63890）
 </a>
@@ -293,12 +299,6 @@ S12小组赛开赛（热度：104791）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%9C%9D%E9%98%B3%E6%96%B0%E5%A2%9E%E6%84%9F%E6%9F%93%E8%80%85%E4%B8%BA%E8%B4%A7%E8%BD%A6%E5%8F%B8%E6%9C%BA%23" target="weibo">
 北京朝阳新增感染者为货车司机（热度：48340）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%BC%A0%E4%BC%9F%E5%AE%98%E5%AE%A3%E5%8A%A0%E7%9B%9F%E6%88%91%E4%BB%AC%E7%9A%84%E6%AD%8C4%23" target="weibo">
-大张伟官宣加盟我们的歌4（热度：48281）
 </a>
 </li>
 

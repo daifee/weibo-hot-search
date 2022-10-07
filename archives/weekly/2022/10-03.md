@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/03 00:34:12 ~ 2022/10/08 01:41:27
+本榜单时间：2022/10/03 00:34:12 ~ 2022/10/08 01:58:51
 </p>
 </blockquote>
 <p>
@@ -5997,6 +5997,12 @@ AI激光助力灭蟑螂（热度：66178）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%BC%A0%E4%BC%9F%E5%AE%98%E5%AE%A3%E5%8A%A0%E7%9B%9F%E6%88%91%E4%BB%AC%E7%9A%84%E6%AD%8C4%23" target="weibo">
+大张伟官宣加盟我们的歌4（热度：65112）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E9%85%8D%E9%9F%B3%E6%9C%89%E7%82%B9%E4%B8%9C%E8%A5%BF%23" target="weibo">
 杨迪配音有点东西（热度：65080）
 </a>
@@ -6173,12 +6179,6 @@ Felix音银直拍（热度：61749）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E6%B5%B7%E6%8A%A5%E8%BF%98%E8%83%BD%E8%BF%99%E4%B9%88%E6%95%B4%E6%B4%BB%23" target="weibo">
 电影海报还能这么整活（热度：48739）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%BC%A0%E4%BC%9F%E5%AE%98%E5%AE%A3%E5%8A%A0%E7%9B%9F%E6%88%91%E4%BB%AC%E7%9A%84%E6%AD%8C4%23" target="weibo">
-大张伟官宣加盟我们的歌4（热度：48281）
 </a>
 </li>
 

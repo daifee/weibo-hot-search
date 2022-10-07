@@ -1,6 +1,6 @@
 {
   "startTime": 1665160801801,
-  "endTime": 1665164487173,
+  "endTime": 1665165531488,
   "band_list": [
     {
       "raw_hot": 1593804,
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65112,
+      "num": 57514,
+      "word": "大张伟官宣加盟我们的歌4",
+      "onboard_time": 1665162796,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 63890,
       "num": 63890,
       "word": "南京超小号警犬已上岗7天",
@@ -377,14 +385,6 @@
       "onboard_time": 1665138621,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48281,
-      "num": 45631,
-      "word": "大张伟官宣加盟我们的歌4",
-      "onboard_time": 1665162796,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 42702,
