@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/03 00:34:12 ~ 2022/10/08 01:58:51
+本榜单时间：2022/10/03 00:34:12 ~ 2022/10/08 02:35:01
 </p>
 </blockquote>
 <p>
@@ -5511,6 +5511,12 @@ RNG BP（热度：91672）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%BC%A0%E4%BC%9F%E5%AE%98%E5%AE%A3%E5%8A%A0%E7%9B%9F%E6%88%91%E4%BB%AC%E7%9A%84%E6%AD%8C4%23" target="weibo">
+大张伟官宣加盟我们的歌4（热度：90661）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%92%99%E6%96%AF%E5%A4%8D%E5%87%BA%23" target="weibo">
 西蒙斯复出（热度：90568）
 </a>
@@ -5997,12 +6003,6 @@ AI激光助力灭蟑螂（热度：66178）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%BC%A0%E4%BC%9F%E5%AE%98%E5%AE%A3%E5%8A%A0%E7%9B%9F%E6%88%91%E4%BB%AC%E7%9A%84%E6%AD%8C4%23" target="weibo">
-大张伟官宣加盟我们的歌4（热度：65112）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E9%85%8D%E9%9F%B3%E6%9C%89%E7%82%B9%E4%B8%9C%E8%A5%BF%23" target="weibo">
 杨迪配音有点东西（热度：65080）
 </a>
@@ -6381,8 +6381,20 @@ EG对战MAD（热度：32401）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E4%B8%96%E7%95%8C%E6%9D%AF%E5%87%BA%E7%BA%BF21%E5%91%A8%E5%B9%B4%23" target="weibo">
+国足世界杯出线21周年（热度：24242）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%81%E5%93%81%E9%A3%9E%E8%BD%A6%E4%B8%8D%E7%BE%81%23" target="weibo">
 极品飞车不羁（热度：21295）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%8F%8D%E7%9F%AB%E8%BE%BE%E4%BA%BA%23" target="weibo">
+虞书欣反矫达人（热度：17901）
 </a>
 </li>
 

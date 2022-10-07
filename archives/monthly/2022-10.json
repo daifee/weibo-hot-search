@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665165531488,
+  "endTime": 1665167701533,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -9923,6 +9923,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 90661,
+      "num": 57514,
+      "word": "大张伟官宣加盟我们的歌4",
+      "onboard_time": 1665162796,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 90568,
       "num": 90568,
       "word": "西蒙斯复出",
@@ -10755,14 +10763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 65112,
-      "num": 57514,
-      "word": "大张伟官宣加盟我们的歌4",
-      "onboard_time": 1665162796,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 65080,
       "num": 65080,
       "word": "杨迪配音有点东西",
@@ -11587,6 +11587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24242,
+      "num": 24242,
+      "word": "国足世界杯出线21周年",
+      "onboard_time": 1665166572,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23728,
       "num": 23728,
       "word": "中国女排战胜捷克队",
@@ -11609,6 +11617,14 @@
       "onboard_time": 1664561715,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 17901,
+      "num": 17901,
+      "word": "虞书欣反矫达人",
+      "onboard_time": 1665166153,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 17857,
