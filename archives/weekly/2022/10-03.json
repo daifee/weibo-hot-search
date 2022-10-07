@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1665109574360,
+  "endTime": 1665111634003,
   "band_list": [
     {
       "raw_hot": 5104220,
@@ -411,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1198932,
+      "num": 1198932,
+      "word": "七天假期状态的真实写照",
+      "onboard_time": 1665105023,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1195211,
       "num": 1195211,
       "word": "山西人吃醋真是让我开了眼",
@@ -531,14 +539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1053621,
-      "num": 1053621,
-      "word": "七天假期状态的真实写照",
-      "onboard_time": 1665105023,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1051524,
       "num": 1051524,
       "word": "糊但好看的剧",
@@ -552,6 +552,14 @@
       "word": "38岁新娘回应14岁儿子抱自己出嫁",
       "onboard_time": 1664974044,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1039183,
+      "num": 1039183,
+      "word": "女生烟台赶海发现满沙滩泸沽虾",
+      "onboard_time": 1665107661,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -1091,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 578344,
+      "num": 477501,
+      "word": "SK",
+      "onboard_time": 1665107363,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 577887,
       "num": 577887,
       "word": "欧盟批准强制苹果使用USB C接口",
@@ -1355,12 +1371,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 510268,
-      "num": 477501,
-      "word": "SK",
-      "onboard_time": 1665107363,
-      "rank": 10,
-      "category": "游戏"
+      "raw_hot": 512442,
+      "num": 512442,
+      "word": "江浙沪皖最近都在吃的菜",
+      "onboard_time": 1665110063,
+      "rank": 5,
+      "category": "幽默,美食"
     },
     {
       "raw_hot": 508946,
@@ -1425,14 +1441,6 @@
       "onboard_time": 1664807784,
       "rank": 35,
       "category": "其它"
-    },
-    {
-      "raw_hot": 494297,
-      "num": 494297,
-      "word": "女生烟台赶海发现满沙滩泸沽虾",
-      "onboard_time": 1665107661,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 491791,
@@ -2803,6 +2811,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 287235,
+      "num": 287235,
+      "word": "内蒙古增本土确诊13例无症状661例",
+      "onboard_time": 1665109285,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286862,
       "num": 286862,
       "word": "金晨新剧被王安宇逼婚",
@@ -3009,6 +3025,14 @@
       "onboard_time": 1665052943,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267632,
+      "num": 267632,
+      "word": "久坐的人应该早点穿秋裤",
+      "onboard_time": 1665109404,
+      "rank": 43,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 265948,
@@ -3225,14 +3249,6 @@
       "onboard_time": 1664780301,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 250278,
-      "num": 250278,
-      "word": "内蒙古增本土确诊13例无症状661例",
-      "onboard_time": 1665109285,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 250001,
@@ -3481,6 +3497,14 @@
       "onboard_time": 1664935882,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229952,
+      "num": 229952,
+      "word": "云吃饭的萨摩耶",
+      "onboard_time": 1665108204,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 229429,
@@ -3840,6 +3864,14 @@
       "word": "女孩国庆帮喂猫一周将赚5千",
       "onboard_time": 1664710344,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207221,
+      "num": 207221,
+      "word": "老人骑30楼窗框探出身子擦玻璃",
+      "onboard_time": 1665107063,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -4459,6 +4491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 165971,
+      "num": 165971,
+      "word": "湖北新增本土无症状56例",
+      "onboard_time": 1665109883,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165427,
       "num": 165427,
       "word": "中国女排世界排名跌至第5名",
@@ -4715,6 +4755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154035,
+      "num": 154035,
+      "word": "任嘉伦李沁请君六宫格剧照",
+      "onboard_time": 1665110303,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 152530,
       "num": 133025,
       "word": "虞美人好温柔",
@@ -4825,14 +4873,6 @@
       "onboard_time": 1664984963,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147122,
-      "num": 147122,
-      "word": "云吃饭的萨摩耶",
-      "onboard_time": 1665108204,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 146563,
@@ -5187,14 +5227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132824,
-      "num": 132824,
-      "word": "老人骑30楼窗框探出身子擦玻璃",
-      "onboard_time": 1665107063,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132359,
       "num": 132359,
       "word": "河狸偷吃葵花惹牧民生气咋办",
@@ -5241,6 +5273,14 @@
       "onboard_time": 1664850202,
       "rank": 30,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 128601,
+      "num": 128601,
+      "word": "AI绘画",
+      "onboard_time": 1665109822,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 128347,
@@ -5456,6 +5496,14 @@
       "word": "郑州小村庄变身航空大都市",
       "onboard_time": 1664974765,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120764,
+      "num": 120764,
+      "word": "当警犬遇到人类幼崽",
+      "onboard_time": 1665110784,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -5883,6 +5931,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 102030,
+      "num": 102030,
+      "word": "Straykids今日回归",
+      "onboard_time": 1665101481,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 101864,
       "num": 101864,
       "word": "当我飞奔向你",
@@ -5905,14 +5961,6 @@
       "onboard_time": 1664714123,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 100691,
-      "num": 100691,
-      "word": "Straykids今日回归",
-      "onboard_time": 1665101481,
-      "rank": 39,
-      "category": "音乐"
     },
     {
       "raw_hot": 100341,
@@ -6065,6 +6113,14 @@
       "onboard_time": 1664996111,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 94421,
+      "num": 94421,
+      "word": "热火vs篮网",
+      "onboard_time": 1665108564,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 93286,
@@ -6371,14 +6427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 76063,
-      "num": 76063,
-      "word": "久坐的人应该早点穿秋裤",
-      "onboard_time": 1665109404,
-      "rank": 43,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 75890,
       "num": 75890,
       "word": "乌云遇皎月剧情高能",
@@ -6393,14 +6441,6 @@
       "onboard_time": 1665049584,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 75019,
-      "num": 75019,
-      "word": "热火vs篮网",
-      "onboard_time": 1665108564,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 74868,
@@ -6523,6 +6563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71471,
+      "num": 71471,
+      "word": "森林狼vs湖人",
+      "onboard_time": 1665111264,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71292,
       "num": 71292,
       "word": "樊振东3比0科祖尔",
@@ -6537,6 +6585,14 @@
       "onboard_time": 1664771782,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 70517,
+      "num": 70517,
+      "word": "为啥感觉假期越休息越累",
+      "onboard_time": 1665111504,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 69683,
@@ -7457,6 +7513,14 @@
       "onboard_time": 1664829911,
       "rank": 49,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 5021,
+      "num": 569853,
+      "word": "丰收晒秋美如画",
+      "onboard_time": 1665111623,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 5007,

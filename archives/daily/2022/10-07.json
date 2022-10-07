@@ -1,6 +1,6 @@
 {
   "startTime": 1665074398460,
-  "endTime": 1665109574360,
+  "endTime": 1665111634003,
   "band_list": [
     {
       "raw_hot": 1957386,
@@ -19,11 +19,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1053621,
-      "num": 1053621,
+      "raw_hot": 1198932,
+      "num": 1198932,
       "word": "七天假期状态的真实写照",
       "onboard_time": 1665105023,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1039183,
+      "num": 1039183,
+      "word": "女生烟台赶海发现满沙滩泸沽虾",
+      "onboard_time": 1665107661,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -51,6 +59,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 578344,
+      "num": 477501,
+      "word": "SK",
+      "onboard_time": 1665107363,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 565407,
       "num": 565407,
       "word": "女生东北上学喜提铁锅炖版生日蛋糕",
@@ -75,20 +91,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 510268,
-      "num": 477501,
-      "word": "SK",
-      "onboard_time": 1665107363,
-      "rank": 10,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 494297,
-      "num": 494297,
-      "word": "女生烟台赶海发现满沙滩泸沽虾",
-      "onboard_time": 1665107661,
-      "rank": 7,
-      "category": "社会新闻"
+      "raw_hot": 512442,
+      "num": 512442,
+      "word": "江浙沪皖最近都在吃的菜",
+      "onboard_time": 1665110063,
+      "rank": 5,
+      "category": "幽默,美食"
     },
     {
       "raw_hot": 480060,
@@ -179,12 +187,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 287235,
+      "num": 287235,
+      "word": "内蒙古增本土确诊13例无症状661例",
+      "onboard_time": 1665109285,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271972,
       "num": 271972,
       "word": "打野的尽头是一片海",
       "onboard_time": 1665070344,
       "rank": 10,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 267632,
+      "num": 267632,
+      "word": "久坐的人应该早点穿秋裤",
+      "onboard_time": 1665109404,
+      "rank": 43,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 259189,
@@ -211,19 +235,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 250278,
-      "num": 250278,
-      "word": "内蒙古增本土确诊13例无症状661例",
-      "onboard_time": 1665109285,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 243711,
       "num": 243711,
       "word": "成熟的男人开始反击了",
       "onboard_time": 1665104964,
       "rank": 16,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 229952,
+      "num": 229952,
+      "word": "云吃饭的萨摩耶",
+      "onboard_time": 1665108204,
+      "rank": 23,
       "category": "幽默"
     },
     {
@@ -233,6 +257,14 @@
       "onboard_time": 1665067465,
       "rank": 11,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 207221,
+      "num": 207221,
+      "word": "老人骑30楼窗框探出身子擦玻璃",
+      "onboard_time": 1665107063,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206061,
@@ -283,6 +315,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 165971,
+      "num": 165971,
+      "word": "湖北新增本土无症状56例",
+      "onboard_time": 1665109883,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161681,
       "num": 161681,
       "word": "北京新增本土确诊5例",
@@ -307,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154035,
+      "num": 154035,
+      "word": "任嘉伦李沁请君六宫格剧照",
+      "onboard_time": 1665110303,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 152041,
       "num": 152041,
       "word": "汤唯釜日电影奖最佳女主角",
@@ -321,14 +369,6 @@
       "onboard_time": 1665070465,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 147122,
-      "num": 147122,
-      "word": "云吃饭的萨摩耶",
-      "onboard_time": 1665108204,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 146563,
@@ -387,14 +427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132824,
-      "num": 132824,
-      "word": "老人骑30楼窗框探出身子擦玻璃",
-      "onboard_time": 1665107063,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 131732,
       "num": 131732,
       "word": "马龙11比0",
@@ -409,6 +441,14 @@
       "onboard_time": 1665101781,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128601,
+      "num": 128601,
+      "word": "AI绘画",
+      "onboard_time": 1665109822,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 128043,
@@ -432,6 +472,14 @@
       "word": "8日起新一轮冷空气来了",
       "onboard_time": 1665097334,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120764,
+      "num": 120764,
+      "word": "当警犬遇到人类幼崽",
+      "onboard_time": 1665110784,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -507,8 +555,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 100691,
-      "num": 100691,
+      "raw_hot": 102030,
+      "num": 102030,
       "word": "Straykids今日回归",
       "onboard_time": 1665101481,
       "rank": 39,
@@ -529,6 +577,14 @@
       "onboard_time": 1665052166,
       "rank": 37,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 94421,
+      "num": 94421,
+      "word": "热火vs篮网",
+      "onboard_time": 1665108564,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 92724,
@@ -611,14 +667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 76063,
-      "num": 76063,
-      "word": "久坐的人应该早点穿秋裤",
-      "onboard_time": 1665109404,
-      "rank": 43,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 75499,
       "num": 75499,
       "word": "任嘉伦晒收官剧照告别陆炎",
@@ -635,20 +683,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 75019,
-      "num": 75019,
-      "word": "热火vs篮网",
-      "onboard_time": 1665108564,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 73109,
       "num": 73109,
       "word": "万里归途票房破10亿",
       "onboard_time": 1665061044,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 71471,
+      "num": 71471,
+      "word": "森林狼vs湖人",
+      "onboard_time": 1665111264,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 70517,
+      "num": 70517,
+      "word": "为啥感觉假期越休息越累",
+      "onboard_time": 1665111504,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 70409,
@@ -803,7 +859,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 10278,
+      "raw_hot": 10843,
       "num": 789606,
       "word": "太空视角俯瞰祖国大江南北",
       "onboard_time": 1665029662,
@@ -833,6 +889,14 @@
       "onboard_time": 1665088930,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 5021,
+      "num": 569853,
+      "word": "丰收晒秋美如画",
+      "onboard_time": 1665111623,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -847,6 +911,9 @@
     },
     {
       "word": "#中国传统文化是穿越时空的宝藏#"
+    },
+    {
+      "word": "#领航#"
     }
   ]
 }
