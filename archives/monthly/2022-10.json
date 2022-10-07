@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665168895792,
+  "endTime": 1665170666037,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -10787,6 +10787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 64972,
+      "num": 64972,
+      "word": "国足世界杯出线21周年",
+      "onboard_time": 1665166572,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64719,
       "num": 64719,
       "word": "C919将于2022年底交付",
@@ -11128,14 +11136,6 @@
       "word": "陈梦3比0林伊轩",
       "onboard_time": 1664791462,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 52596,
-      "num": 52596,
-      "word": "国足世界杯出线21周年",
-      "onboard_time": 1665166572,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -11747,12 +11747,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 7226,
+      "num": 7226,
+      "word": "老师逐一检查学生是否穿秋裤",
+      "onboard_time": 1665169691,
+      "rank": 47,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 7075,
       "num": 13598,
       "word": "F1新加坡大奖赛佩雷兹冠军",
       "onboard_time": 1664832070,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 6866,
+      "num": 6866,
+      "word": "去过丰台这一公厕人员请报告",
+      "onboard_time": 1665170412,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 6528,
