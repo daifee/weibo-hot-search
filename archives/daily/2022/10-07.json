@@ -1,6 +1,6 @@
 {
   "startTime": 1665074398460,
-  "endTime": 1665124748931,
+  "endTime": 1665125956960,
   "band_list": [
     {
       "raw_hot": 2887521,
@@ -43,6 +43,22 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 1056427,
+      "num": 1056427,
+      "word": "男子打包1份6元面装走半袋大蒜",
+      "onboard_time": 1665120565,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1044617,
+      "num": 1044617,
+      "word": "妈妈背2个月滕王阁序免费进景区",
+      "onboard_time": 1665121764,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1039183,
       "num": 1039183,
       "word": "女生烟台赶海发现满沙滩泸沽虾",
@@ -51,11 +67,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1034056,
-      "num": 1034056,
-      "word": "男子打包1份6元面装走半袋大蒜",
-      "onboard_time": 1665120565,
-      "rank": 32,
+      "raw_hot": 999911,
+      "num": 301492,
+      "word": "支援新疆",
+      "onboard_time": 1665123921,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -83,12 +99,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 876341,
-      "num": 876341,
-      "word": "妈妈背2个月滕王阁序免费进景区",
-      "onboard_time": 1665121764,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 744150,
+      "num": 300619,
+      "word": "虞书欣回应自己是bg之光",
+      "onboard_time": 1665123442,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 720024,
@@ -129,14 +145,6 @@
       "onboard_time": 1665107363,
       "rank": 10,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 571765,
-      "num": 240543,
-      "word": "虞书欣回应自己是bg之光",
-      "onboard_time": 1665123442,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 565407,
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 479916,
-      "num": 240300,
+      "num": 476600,
       "word": "瑞典已完成北溪泄漏事故现场调查",
       "onboard_time": 1665122602,
       "rank": 11,
@@ -243,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 401314,
+      "num": 401314,
+      "word": "山西祁县婚宴密接中16人核酸阳性",
+      "onboard_time": 1665124041,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 390879,
       "num": 307247,
       "word": "felix镜头",
@@ -257,6 +273,22 @@
       "onboard_time": 1665074479,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 371760,
+      "num": 371760,
+      "word": "江西从40℃直接降至17℃",
+      "onboard_time": 1665124644,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 368793,
+      "num": 199017,
+      "word": "外国人没有婚纱照",
+      "onboard_time": 1665124523,
+      "rank": 20,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 364291,
@@ -289,14 +321,6 @@
       "onboard_time": 1665053783,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 333495,
-      "num": 238357,
-      "word": "支援新疆",
-      "onboard_time": 1665123921,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 331976,
@@ -419,12 +443,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 228133,
+      "num": 228133,
+      "word": "女子高速堵车时将垃圾全扔下",
+      "onboard_time": 1665120682,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213254,
       "num": 213254,
       "word": "德国副总理指责美国卖天价天然气",
       "onboard_time": 1665067465,
       "rank": 11,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 212944,
+      "num": 212944,
+      "word": "宋茜黑天鹅封面大片",
+      "onboard_time": 1665125183,
+      "rank": 18,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 209107,
@@ -457,22 +497,6 @@
       "onboard_time": 1665069205,
       "rank": 12,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 205892,
-      "num": 199017,
-      "word": "外国人没有婚纱照",
-      "onboard_time": 1665124523,
-      "rank": 20,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 203371,
-      "num": 203371,
-      "word": "女子高速堵车时将垃圾全扔下",
-      "onboard_time": 1665120682,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 200802,
@@ -571,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153177,
+      "num": 153177,
+      "word": "沉默是不是关系结束的开始",
+      "onboard_time": 1665121284,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 152041,
       "num": 152041,
       "word": "汤唯釜日电影奖最佳女主角",
@@ -627,14 +659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 140103,
-      "num": 140103,
-      "word": "沉默是不是关系结束的开始",
-      "onboard_time": 1665121284,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 137798,
       "num": 137798,
       "word": "秦皇岛疫情防控",
@@ -664,6 +688,14 @@
       "word": "北京昌平初步判定密接49人",
       "onboard_time": 1665087072,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132547,
+      "num": 132547,
+      "word": "九寨沟迎来金秋第一场雪",
+      "onboard_time": 1665123202,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -704,14 +736,6 @@
       "word": "北京近期14例感染者轨迹一览",
       "onboard_time": 1665090311,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 124728,
-      "num": 124728,
-      "word": "山西祁县婚宴密接中16人核酸阳性",
-      "onboard_time": 1665124041,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -801,14 +825,6 @@
       "onboard_time": 1665101481,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 109719,
-      "num": 109719,
-      "word": "九寨沟迎来金秋第一场雪",
-      "onboard_time": 1665123202,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 109360,
@@ -971,6 +987,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 80558,
+      "num": 80558,
+      "word": "假期最后一天如何调整状态",
+      "onboard_time": 1665125781,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76216,
       "num": 76216,
       "word": "家人驱车25小时看望远嫁9年女儿",
@@ -1067,12 +1091,28 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 63195,
+      "num": 63195,
+      "word": "直击四川国庆返程高峰",
+      "onboard_time": 1665125303,
+      "rank": 46,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 62684,
       "num": 62684,
       "word": "新iPhone上手体验",
       "onboard_time": 1665047364,
       "rank": 41,
       "category": "科技"
+    },
+    {
+      "raw_hot": 61697,
+      "num": 61697,
+      "word": "U17国足11比0北马里亚纳群岛",
+      "onboard_time": 1665125543,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 61421,
@@ -1084,7 +1124,7 @@
     },
     {
       "raw_hot": 59215,
-      "num": 735945,
+      "num": 798150,
       "word": "丰收晒秋美如画",
       "onboard_time": 1665111623,
       "rank": 2,
@@ -1120,14 +1160,6 @@
       "word": "西安街头羽绒服与短袖齐飞",
       "onboard_time": 1665053605,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 51363,
-      "num": 51363,
-      "word": "江西从40℃直接降至17℃",
-      "onboard_time": 1665124644,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
