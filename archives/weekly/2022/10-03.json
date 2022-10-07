@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1665170666037,
+  "endTime": 1665171578722,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -8523,6 +8523,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 16902,
+      "num": 16902,
+      "word": "老师逐一检查学生是否穿秋裤",
+      "onboard_time": 1665169691,
+      "rank": 47,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 14858,
       "num": 14858,
       "word": "面对杠精你会沉默还是反击",
@@ -8635,14 +8643,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 7226,
-      "num": 7226,
-      "word": "老师逐一检查学生是否穿秋裤",
-      "onboard_time": 1665169691,
-      "rank": 47,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 7075,
       "num": 13598,
       "word": "F1新加坡大奖赛佩雷兹冠军",
@@ -8657,6 +8657,14 @@
       "onboard_time": 1665170412,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6735,
+      "num": 6735,
+      "word": "蜡笔小新演我过国庆",
+      "onboard_time": 1665171311,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 6528,
@@ -8681,6 +8689,14 @@
       "onboard_time": 1664913971,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 6424,
+      "num": 6726,
+      "word": "泰国一幼儿园遭袭",
+      "onboard_time": 1665171432,
+      "rank": 48,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 6324,

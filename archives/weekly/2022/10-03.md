@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/03 00:34:12 ~ 2022/10/08 03:24:26
+本榜单时间：2022/10/03 00:34:12 ~ 2022/10/08 03:39:38
 </p>
 </blockquote>
 <p>
@@ -6405,6 +6405,12 @@ EG对战MAD（热度：32401）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E9%80%90%E4%B8%80%E6%A3%80%E6%9F%A5%E5%AD%A6%E7%94%9F%E6%98%AF%E5%90%A6%E7%A9%BF%E7%A7%8B%E8%A3%A4%23" target="weibo">
+老师逐一检查学生是否穿秋裤（热度：16902）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9D%A2%E5%AF%B9%E6%9D%A0%E7%B2%BE%E4%BD%A0%E4%BC%9A%E6%B2%89%E9%BB%98%E8%BF%98%E6%98%AF%E5%8F%8D%E5%87%BB%23" target="weibo">
 面对杠精你会沉默还是反击（热度：14858）
 </a>
@@ -6489,12 +6495,6 @@ ISG战胜IW（热度：11127）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E9%80%90%E4%B8%80%E6%A3%80%E6%9F%A5%E5%AD%A6%E7%94%9F%E6%98%AF%E5%90%A6%E7%A9%BF%E7%A7%8B%E8%A3%A4%23" target="weibo">
-老师逐一检查学生是否穿秋裤（热度：7226）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23F1%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%A4%A7%E5%A5%96%E8%B5%9B%E4%BD%A9%E9%9B%B7%E5%85%B9%E5%86%A0%E5%86%9B%23" target="weibo">
 F1新加坡大奖赛佩雷兹冠军（热度：7075）
 </a>
@@ -6503,6 +6503,12 @@ F1新加坡大奖赛佩雷兹冠军（热度：7075）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%BB%E8%BF%87%E4%B8%B0%E5%8F%B0%E8%BF%99%E4%B8%80%E5%85%AC%E5%8E%95%E4%BA%BA%E5%91%98%E8%AF%B7%E6%8A%A5%E5%91%8A%23" target="weibo">
 去过丰台这一公厕人员请报告（热度：6866）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%9C%A1%E7%AC%94%E5%B0%8F%E6%96%B0%E6%BC%94%E6%88%91%E8%BF%87%E5%9B%BD%E5%BA%86%23" target="weibo">
+蜡笔小新演我过国庆（热度：6735）
 </a>
 </li>
 
@@ -6521,6 +6527,12 @@ RNG团战（热度：6486）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B8%A6%E4%B8%80%E6%9C%AC%E4%B9%A6%E9%82%82%E9%80%85%E7%A7%8B%E5%A4%A9%23" target="weibo">
 带一本书邂逅秋天（热度：6481）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E4%B8%80%E5%B9%BC%E5%84%BF%E5%9B%AD%E9%81%AD%E8%A2%AD%23" target="weibo">
+泰国一幼儿园遭袭（热度：6424）
 </a>
 </li>
 

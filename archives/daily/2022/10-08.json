@@ -1,6 +1,6 @@
 {
   "startTime": 1665160801801,
-  "endTime": 1665170666037,
+  "endTime": 1665171578722,
   "band_list": [
     {
       "raw_hot": 1593804,
@@ -443,8 +443,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 7226,
-      "num": 7226,
+      "raw_hot": 16902,
+      "num": 16902,
       "word": "老师逐一检查学生是否穿秋裤",
       "onboard_time": 1665169691,
       "rank": 47,
@@ -457,6 +457,22 @@
       "onboard_time": 1665170412,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6735,
+      "num": 6735,
+      "word": "蜡笔小新演我过国庆",
+      "onboard_time": 1665171311,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 6424,
+      "num": 6726,
+      "word": "泰国一幼儿园遭袭",
+      "onboard_time": 1665171432,
+      "rank": 48,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 4807,

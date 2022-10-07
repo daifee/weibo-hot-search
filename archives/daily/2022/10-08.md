@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/08 00:40:01 ~ 2022/10/08 03:24:26
+本榜单时间：2022/10/08 00:40:01 ~ 2022/10/08 03:39:38
 </p>
 </blockquote>
 <p>
@@ -346,13 +346,25 @@ S12小组赛开赛（热度：104791）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E9%80%90%E4%B8%80%E6%A3%80%E6%9F%A5%E5%AD%A6%E7%94%9F%E6%98%AF%E5%90%A6%E7%A9%BF%E7%A7%8B%E8%A3%A4%23" target="weibo">
-老师逐一检查学生是否穿秋裤（热度：7226）
+老师逐一检查学生是否穿秋裤（热度：16902）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%BB%E8%BF%87%E4%B8%B0%E5%8F%B0%E8%BF%99%E4%B8%80%E5%85%AC%E5%8E%95%E4%BA%BA%E5%91%98%E8%AF%B7%E6%8A%A5%E5%91%8A%23" target="weibo">
 去过丰台这一公厕人员请报告（热度：6866）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%9C%A1%E7%AC%94%E5%B0%8F%E6%96%B0%E6%BC%94%E6%88%91%E8%BF%87%E5%9B%BD%E5%BA%86%23" target="weibo">
+蜡笔小新演我过国庆（热度：6735）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E4%B8%80%E5%B9%BC%E5%84%BF%E5%9B%AD%E9%81%AD%E8%A2%AD%23" target="weibo">
+泰国一幼儿园遭袭（热度：6424）
 </a>
 </li>
 
