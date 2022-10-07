@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1665142902550,
+  "endTime": 1665147335945,
   "band_list": [
     {
       "raw_hot": 5104220,
@@ -331,6 +331,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1396105,
+      "num": 1396105,
+      "word": "如果今天你觉得七天很短",
+      "onboard_time": 1665140241,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1385443,
       "num": 856663,
       "word": "2022年诺贝尔文学奖揭晓",
@@ -425,14 +433,6 @@
       "onboard_time": 1664870004,
       "rank": 4,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 1236837,
-      "num": 1236837,
-      "word": "如果今天你觉得七天很短",
-      "onboard_time": 1665140241,
-      "rank": 4,
-      "category": "情感"
     },
     {
       "raw_hot": 1213586,
@@ -635,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1010221,
+      "num": 720357,
+      "word": "女子6千买实木沙发内部全是水泥",
+      "onboard_time": 1665141862,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 986191,
       "num": 624027,
       "word": "iPhone14Plus上市破发",
@@ -737,6 +745,14 @@
       "onboard_time": 1665067647,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 884807,
+      "num": 884807,
+      "word": "杨蓉大山的女儿二登央视黄金档",
+      "onboard_time": 1665145401,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 881416,
@@ -1851,6 +1867,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 461458,
+      "num": 461458,
+      "word": "看王濛晒狗太真实了",
+      "onboard_time": 1665140180,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 460628,
       "num": 400003,
       "word": "女子雇两名轿夫抬哈士奇爬山",
@@ -2211,6 +2235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 414467,
+      "num": 414467,
+      "word": "错过相爱的人会遗憾一辈子",
+      "onboard_time": 1665143662,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 411074,
       "num": 411074,
       "word": "范世錡晒无与伦比的美丽live图",
@@ -2329,6 +2361,14 @@
       "onboard_time": 1664784743,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 393927,
+      "num": 393927,
+      "word": "快递小哥为当飞行员一周减重16斤",
+      "onboard_time": 1665140962,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 393913,
@@ -2723,6 +2763,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 346079,
+      "num": 346079,
+      "word": "父子俩跟同一位导师读博",
+      "onboard_time": 1665142821,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 346028,
       "num": 346028,
       "word": "孙颖莎3比0战胜张安",
@@ -2841,6 +2889,14 @@
       "onboard_time": 1664776283,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 324679,
+      "num": 324679,
+      "word": "南京超小号警犬已上岗7天",
+      "onboard_time": 1665142224,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 324280,
@@ -3027,6 +3083,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 296066,
+      "num": 296066,
+      "word": "马龙3比0莫雷加德",
+      "onboard_time": 1665147083,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 295958,
       "num": 295958,
       "word": "熊猫的肚皮原来可以当小饭桌用",
@@ -3129,14 +3193,6 @@
       "onboard_time": 1664869281,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 286816,
-      "num": 286816,
-      "word": "女子6千买实木沙发内部全是水泥",
-      "onboard_time": 1665141862,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 286365,
@@ -3675,6 +3731,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 248691,
+      "num": 248691,
+      "word": "S12小组赛开赛",
+      "onboard_time": 1665143964,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 248258,
       "num": 248258,
       "word": "当你的妈妈是个搞笑女",
@@ -3843,14 +3907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 234915,
-      "num": 234915,
-      "word": "快递小哥为当飞行员一周减重16斤",
-      "onboard_time": 1665140962,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 233684,
       "num": 233684,
       "word": "寒潮将终结南方多地高温",
@@ -3881,6 +3937,14 @@
       "onboard_time": 1664758942,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 231568,
+      "num": 231568,
+      "word": "利特张元英担任AAA颁奖礼主持人",
+      "onboard_time": 1665147143,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 231427,
@@ -4275,14 +4339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 209999,
-      "num": 209999,
-      "word": "看王濛晒狗太真实了",
-      "onboard_time": 1665140180,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 209675,
       "num": 209675,
       "word": "曼城6比3曼联",
@@ -4377,6 +4433,14 @@
       "onboard_time": 1665069205,
       "rank": 41,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 205957,
+      "num": 169737,
+      "word": "王俊凯模仿张译表情包",
+      "onboard_time": 1665142342,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 205520,
@@ -5059,14 +5123,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 165596,
-      "num": 165596,
-      "word": "王俊凯模仿张译表情包",
-      "onboard_time": 1665142342,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 165427,
       "num": 165427,
       "word": "中国女排世界排名跌至第5名",
@@ -5089,6 +5145,14 @@
       "onboard_time": 1664902457,
       "rank": 7,
       "category": "体育,影视"
+    },
+    {
+      "raw_hot": 164537,
+      "num": 164537,
+      "word": "只要心态好天天都是放假",
+      "onboard_time": 1665143183,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 164497,
@@ -5235,6 +5299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159112,
+      "num": 159112,
+      "word": "EDG世界赛花式应援",
+      "onboard_time": 1665143782,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 158827,
       "num": 158827,
       "word": "北京大兴新增2例确诊病例",
@@ -5281,6 +5353,14 @@
       "onboard_time": 1665087012,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157603,
+      "num": 157603,
+      "word": "樊振东3比0法尔克",
+      "onboard_time": 1665145342,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 157306,
@@ -6299,6 +6379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115924,
+      "num": 115924,
+      "word": "女子河滩抓鱼无果捡回一串塑料瓶",
+      "onboard_time": 1665141262,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115707,
       "num": 115707,
       "word": "伯远演唱黄种人",
@@ -6337,14 +6425,6 @@
       "onboard_time": 1665121583,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 113668,
-      "num": 113668,
-      "word": "女子河滩抓鱼无果捡回一串塑料瓶",
-      "onboard_time": 1665141262,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113526,
@@ -6585,6 +6665,14 @@
       "onboard_time": 1664802684,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104925,
+      "num": 104925,
+      "word": "距离下个假期还有85天",
+      "onboard_time": 1665146602,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104694,
@@ -7035,6 +7123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 86280,
+      "num": 86280,
+      "word": "国乒打过的那些11比0",
+      "onboard_time": 1665143481,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85899,
       "num": 85899,
       "word": "这就是微缩的魅力吧",
@@ -7145,14 +7241,6 @@
       "onboard_time": 1664935460,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 79950,
-      "num": 79950,
-      "word": "南京超小号警犬已上岗7天",
-      "onboard_time": 1665142224,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 79411,
@@ -7507,14 +7595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 65857,
-      "num": 65857,
-      "word": "父子俩跟同一位导师读博",
-      "onboard_time": 1665142821,
-      "rank": 48,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 65614,
       "num": 65614,
       "word": "宣璐国风大典古典美",
@@ -7585,6 +7665,14 @@
       "onboard_time": 1665041544,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61749,
+      "num": 61749,
+      "word": "Felix音银直拍",
+      "onboard_time": 1665144562,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 61560,
