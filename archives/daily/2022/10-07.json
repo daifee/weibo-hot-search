@@ -1,6 +1,6 @@
 {
   "startTime": 1665074398460,
-  "endTime": 1665139902585,
+  "endTime": 1665141896157,
   "band_list": [
     {
       "raw_hot": 2887521,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1015234,
+      "num": 1015234,
+      "word": "上海社会面新增3例无症状感染者",
+      "onboard_time": 1665136642,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 986191,
       "num": 624027,
       "word": "iPhone14Plus上市破发",
@@ -120,14 +128,6 @@
       "word": "男子不用洗发水从秃顶到满头黑发",
       "onboard_time": 1665060145,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 902253,
-      "num": 902253,
-      "word": "上海社会面新增3例无症状感染者",
-      "onboard_time": 1665136642,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -193,6 +193,14 @@
       "onboard_time": 1665058403,
       "rank": 1,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 691475,
+      "num": 691475,
+      "word": "如果今天你觉得七天很短",
+      "onboard_time": 1665140241,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 652359,
@@ -371,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 374788,
+      "num": 374788,
+      "word": "成都东站疫情防控",
+      "onboard_time": 1665137480,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 364291,
       "num": 364291,
       "word": "魏大勋父子全国通用跪式压箱法",
@@ -427,14 +443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 329979,
-      "num": 329979,
-      "word": "成都东站疫情防控",
-      "onboard_time": 1665137480,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 323787,
       "num": 323787,
       "word": "内蒙古增本土确诊13例无症状661例",
@@ -488,6 +496,14 @@
       "word": "张极张泽禹路演合唱诀爱",
       "onboard_time": 1665135801,
       "rank": 14,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 279701,
+      "num": 279701,
+      "word": "白鹿晒宁安如梦配音随拍",
+      "onboard_time": 1665140843,
+      "rank": 10,
       "category": "作品衍生"
     },
     {
@@ -579,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251601,
+      "num": 251601,
+      "word": "大爷起床后懵圈将10万房租转错人",
+      "onboard_time": 1665137723,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250362,
       "num": 250362,
       "word": "主人抱熟睡猫咪怼脸捉老鼠",
@@ -593,6 +617,14 @@
       "onboard_time": 1665138443,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 245123,
+      "num": 245123,
+      "word": "北京朝阳新增感染者为货车司机",
+      "onboard_time": 1665138621,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243711,
@@ -633,6 +665,14 @@
       "onboard_time": 1665126864,
       "rank": 35,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 220059,
+      "num": 220059,
+      "word": "陈哲远萧无敌角色反差感",
+      "onboard_time": 1665141083,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 213254,
@@ -683,12 +723,12 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 204113,
-      "num": 204113,
-      "word": "大爷起床后懵圈将10万房租转错人",
-      "onboard_time": 1665137723,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 203366,
+      "num": 203366,
+      "word": "李冰冰骨子里的东方韵味",
+      "onboard_time": 1665141503,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 200980,
@@ -771,12 +811,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 184905,
-      "num": 184905,
-      "word": "北京朝阳新增感染者为货车司机",
-      "onboard_time": 1665138621,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 180542,
+      "num": 180542,
+      "word": "看王濛晒狗太真实了",
+      "onboard_time": 1665140180,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 178521,
@@ -873,6 +913,22 @@
       "onboard_time": 1665053783,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 151869,
+      "num": 151869,
+      "word": "张泽禹路演弹电吉他好帅",
+      "onboard_time": 1665140780,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 148286,
+      "num": 148286,
+      "word": "舍不得国庆",
+      "onboard_time": 1665141083,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 147284,
@@ -1019,6 +1075,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125843,
+      "num": 125843,
+      "word": "炽道罗娜帮小兰花拿捏云中君",
+      "onboard_time": 1665140003,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 125317,
+      "num": 125317,
+      "word": "快递小哥为当飞行员一周减重16斤",
+      "onboard_time": 1665140962,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124660,
       "num": 124660,
       "word": "坐标中国",
@@ -1137,6 +1209,14 @@
       "onboard_time": 1665067044,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108450,
+      "num": 108450,
+      "word": "四川阿坝州雪景秋景相映如童话世界",
+      "onboard_time": 1665138862,
+      "rank": 44,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 105269,
@@ -1331,6 +1411,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 78708,
+      "num": 78708,
+      "word": "女子河滩抓鱼无果捡回一串塑料瓶",
+      "onboard_time": 1665141262,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76388,
+      "num": 76388,
+      "word": "又来骗我看爱情科幻片",
+      "onboard_time": 1665140063,
+      "rank": 45,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 76216,
       "num": 76216,
       "word": "家人驱车25小时看望远嫁9年女儿",
@@ -1379,14 +1475,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 69446,
-      "num": 69446,
-      "word": "四川阿坝州雪景秋景相映如童话世界",
-      "onboard_time": 1665138862,
-      "rank": 44,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 67243,
       "num": 67243,
       "word": "值得收藏的50部纪录片",
@@ -1433,6 +1521,14 @@
       "onboard_time": 1665064645,
       "rank": 40,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 63324,
+      "num": 63324,
+      "word": "女子6千买实木沙发内部全是水泥",
+      "onboard_time": 1665141862,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 62684,
