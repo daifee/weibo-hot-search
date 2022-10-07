@@ -1,6 +1,6 @@
 {
   "startTime": 1665074398460,
-  "endTime": 1665136136184,
+  "endTime": 1665138625433,
   "band_list": [
     {
       "raw_hot": 2887521,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1931883,
+      "num": 1931883,
+      "word": "换乘恋爱",
+      "onboard_time": 1665132621,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1873478,
       "num": 1873478,
       "word": "室友很好却不能成为好朋友",
@@ -33,14 +41,6 @@
       "onboard_time": 1665124644,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1449011,
-      "num": 1449011,
-      "word": "换乘恋爱",
-      "onboard_time": 1665132621,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 1205024,
@@ -123,11 +123,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 899865,
+      "num": 899865,
+      "word": "车银优韩素希李洙赫网漫第一集预告",
+      "onboard_time": 1665133342,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 829977,
-      "num": 454960,
+      "num": 486901,
       "word": "山西运城发现31例核酸异常人员",
       "onboard_time": 1665127942,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 812139,
+      "num": 812139,
+      "word": "上海社会面新增3例无症状感染者",
+      "onboard_time": 1665136642,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -209,14 +225,6 @@
       "onboard_time": 1665107363,
       "rank": 10,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 567414,
-      "num": 567414,
-      "word": "车银优韩素希李洙赫网漫第一集预告",
-      "onboard_time": 1665133342,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 565407,
@@ -379,20 +387,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 348252,
+      "num": 348252,
+      "word": "全球最年长的狗去世享年22岁",
+      "onboard_time": 1665132082,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 345839,
       "num": 345839,
       "word": "久坐的人应该早点穿秋裤",
       "onboard_time": 1665109404,
       "rank": 43,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 342343,
-      "num": 342343,
-      "word": "全球最年长的狗去世享年22岁",
-      "onboard_time": 1665132082,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 335029,
@@ -523,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256236,
+      "num": 256236,
+      "word": "只有潘玮柏受伤的世界",
+      "onboard_time": 1665132802,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 254220,
       "num": 254220,
       "word": "研究称月球或在几个小时内形成",
@@ -553,6 +569,14 @@
       "onboard_time": 1665089110,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250323,
+      "num": 250323,
+      "word": "黄铉辰CASE143直拍",
+      "onboard_time": 1665138443,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 243711,
@@ -593,6 +617,14 @@
       "onboard_time": 1665126864,
       "rank": 35,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 213917,
+      "num": 213917,
+      "word": "成都东站疫情防控",
+      "onboard_time": 1665137480,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213254,
@@ -643,14 +675,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 201095,
-      "num": 194312,
-      "word": "只有潘玮柏受伤的世界",
-      "onboard_time": 1665132802,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 200980,
       "num": 200980,
       "word": "小鬼戴帽子重拾街舞热爱",
@@ -699,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190027,
+      "num": 163510,
+      "word": "李旻浩音银直拍",
+      "onboard_time": 1665138380,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 186342,
       "num": 127585,
       "word": "村民摆20多条板凳拦婚车讨喜",
@@ -713,6 +745,14 @@
       "onboard_time": 1665130582,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 182653,
+      "num": 182653,
+      "word": "主人抱熟睡猫咪怼脸捉老鼠",
+      "onboard_time": 1665135742,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178521,
@@ -835,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145802,
+      "num": 145802,
+      "word": "婚礼和演唱会一起办了",
+      "onboard_time": 1665131603,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 143743,
       "num": 143743,
       "word": "敢死队4定档",
@@ -899,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132161,
+      "num": 132161,
+      "word": "连夜寻回走失孩子后民警睡得东倒西歪",
+      "onboard_time": 1665137181,
+      "rank": 29,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 131732,
       "num": 131732,
       "word": "马龙11比0",
@@ -929,14 +985,6 @@
       "onboard_time": 1665109822,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 128536,
-      "num": 128536,
-      "word": "婚礼和演唱会一起办了",
-      "onboard_time": 1665131603,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 128043,
@@ -1075,6 +1123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106219,
+      "num": 106219,
+      "word": "大爷起床后懵圈将10万房租转错人",
+      "onboard_time": 1665137723,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105269,
       "num": 105269,
       "word": "2分钟见证中国速度",
@@ -1145,6 +1201,14 @@
       "onboard_time": 1665119963,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95958,
+      "num": 95958,
+      "word": "山东拆盲盒式赶海",
+      "onboard_time": 1665135442,
+      "rank": 42,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 94421,
@@ -1299,14 +1363,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 72061,
-      "num": 72061,
-      "word": "山东拆盲盒式赶海",
-      "onboard_time": 1665135442,
-      "rank": 42,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 70409,
       "num": 70409,
       "word": "朴灿烈唱Tomorrow",
@@ -1403,11 +1459,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 55883,
-      "num": 55883,
-      "word": "主人抱熟睡猫咪怼脸捉老鼠",
-      "onboard_time": 1665135742,
-      "rank": 48,
+      "raw_hot": 55538,
+      "num": 55538,
+      "word": "北京朝阳新增感染者为货车司机",
+      "onboard_time": 1665138621,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
