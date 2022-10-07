@@ -1,6 +1,6 @@
 {
   "startTime": 1665074398460,
-  "endTime": 1665121138477,
+  "endTime": 1665122081607,
   "band_list": [
     {
       "raw_hot": 2887521,
@@ -83,6 +83,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 714481,
+      "num": 714481,
+      "word": "老挝小女孩第一次坐动车说像未来世界",
+      "onboard_time": 1665116603,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 713512,
       "num": 713512,
       "word": "到底是谁允许今天是6号的",
@@ -96,14 +104,6 @@
       "word": "为啥感觉假期越休息越累",
       "onboard_time": 1665111504,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 581469,
-      "num": 581469,
-      "word": "老挝小女孩第一次坐动车说像未来世界",
-      "onboard_time": 1665116603,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -131,8 +131,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 543761,
-      "num": 300405,
+      "raw_hot": 552071,
+      "num": 348889,
       "word": "iPod之父支持iPhone改用C口",
       "onboard_time": 1665119602,
       "rank": 11,
@@ -203,8 +203,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 393328,
+      "num": 393328,
+      "word": "90岁外婆给44岁外孙强塞零花钱",
+      "onboard_time": 1665119183,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 390879,
-      "num": 299584,
+      "num": 307247,
       "word": "felix镜头",
       "onboard_time": 1665119362,
       "rank": 12,
@@ -217,6 +225,14 @@
       "onboard_time": 1665074479,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 364291,
+      "num": 364291,
+      "word": "魏大勋父子全国通用跪式压箱法",
+      "onboard_time": 1665119003,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 360619,
@@ -235,20 +251,28 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 337780,
-      "num": 337780,
-      "word": "魏大勋父子全国通用跪式压箱法",
-      "onboard_time": 1665119003,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 335029,
       "num": 335029,
       "word": "高卫东患癌去世",
       "onboard_time": 1665053783,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 332076,
+      "num": 332076,
+      "word": "男子打包1份6元面装走半袋大蒜",
+      "onboard_time": 1665120565,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 331976,
+      "num": 331976,
+      "word": "中国香港男团vs韩国男团",
+      "onboard_time": 1665117744,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 330084,
@@ -299,14 +323,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 285282,
-      "num": 285282,
-      "word": "90岁外婆给44岁外孙强塞零花钱",
-      "onboard_time": 1665119183,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 271972,
       "num": 271972,
       "word": "打野的尽头是一片海",
@@ -329,14 +345,6 @@
       "onboard_time": 1665116900,
       "rank": 14,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 260072,
-      "num": 260072,
-      "word": "中国香港男团vs韩国男团",
-      "onboard_time": 1665117744,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 259189,
@@ -635,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127075,
+      "num": 127075,
+      "word": "女子高速堵车时将垃圾全扔下",
+      "onboard_time": 1665120682,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123358,
       "num": 123358,
       "word": "8日起新一轮冷空气来了",
@@ -667,6 +683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 119616,
+      "num": 119616,
+      "word": "每一个兵马俑都有真实原型吗",
+      "onboard_time": 1665121104,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118920,
       "num": 118920,
       "word": "父母得知儿女回家深夜门口等待",
@@ -691,6 +715,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 114392,
+      "num": 114392,
+      "word": "心疼沈月南星",
+      "onboard_time": 1665121583,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 114048,
+      "num": 114048,
+      "word": "妈妈背2个月滕王阁序免费进景区",
+      "onboard_time": 1665121764,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112755,
       "num": 112755,
       "word": "杭州新增1例无症状",
@@ -713,14 +753,6 @@
       "onboard_time": 1665067044,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 105576,
-      "num": 53937,
-      "word": "每一个兵马俑都有真实原型吗",
-      "onboard_time": 1665121104,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 104057,
@@ -779,28 +811,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 93722,
-      "num": 93722,
-      "word": "女子高速堵车时将垃圾全扔下",
-      "onboard_time": 1665120682,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 93506,
-      "num": 93506,
-      "word": "男子打包1份6元面装走半袋大蒜",
-      "onboard_time": 1665120565,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 92724,
       "num": 92724,
       "word": "张睿国风大典白衣造型",
       "onboard_time": 1665069205,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 91734,
+      "num": 91734,
+      "word": "男子雨天拎着拖鞋在公交站等老婆",
+      "onboard_time": 1665119963,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 89967,
@@ -811,6 +835,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 88331,
+      "num": 88331,
+      "word": "敢死队4定档",
+      "onboard_time": 1665121463,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 86648,
       "num": 86648,
       "word": "去过北京朝阳这处公共卫生间人员请上报",
@@ -819,12 +851,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 86302,
-      "num": 86302,
-      "word": "男子雨天拎着拖鞋在公交站等老婆",
-      "onboard_time": 1665119963,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 86341,
+      "num": 86341,
+      "word": "德国男团vs法国男团",
+      "onboard_time": 1665118344,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 85899,
@@ -881,6 +913,14 @@
       "onboard_time": 1665062185,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 78740,
+      "num": 78740,
+      "word": "沉默是不是关系结束的开始",
+      "onboard_time": 1665121284,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 76216,
@@ -961,14 +1001,6 @@
       "onboard_time": 1665064645,
       "rank": 40,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 63252,
-      "num": 63252,
-      "word": "德国男团vs法国男团",
-      "onboard_time": 1665118344,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 62684,
