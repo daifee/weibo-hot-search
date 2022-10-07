@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665111634003,
+  "endTime": 1665115851300,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -65,6 +65,14 @@
       "onboard_time": 1664764284,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2887521,
+      "num": 555330,
+      "word": "奥密克戎BF.7变异株已入华",
+      "onboard_time": 1665111744,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2800744,
@@ -649,6 +657,14 @@
       "onboard_time": 1664767701,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1188453,
+      "num": 1188453,
+      "word": "江浙沪皖最近都在吃的菜",
+      "onboard_time": 1665110063,
+      "rank": 5,
+      "category": "幽默,美食"
     },
     {
       "raw_hot": 1177767,
@@ -1507,6 +1523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 664661,
+      "num": 664661,
+      "word": "婚礼现场新郎啄木鸟式亲新娘十几下",
+      "onboard_time": 1665112766,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 658735,
       "num": 658735,
       "word": "程潇赞多360度旋转公主抱",
@@ -1995,6 +2019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 524663,
+      "num": 304275,
+      "word": "BLACKPINK世界巡演视觉预告海报",
+      "onboard_time": 1665113904,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 524082,
       "num": 524082,
       "word": "为什么越来越多老年人变年轻了",
@@ -2057,14 +2089,6 @@
       "onboard_time": 1664980405,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 512442,
-      "num": 512442,
-      "word": "江浙沪皖最近都在吃的菜",
-      "onboard_time": 1665110063,
-      "rank": 5,
-      "category": "幽默,美食"
     },
     {
       "raw_hot": 508946,
@@ -2328,6 +2352,14 @@
       "word": "外婆为送外孙女出嫁在路边种满花",
       "onboard_time": 1664960362,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 474343,
+      "num": 474343,
+      "word": "为啥感觉假期越休息越累",
+      "onboard_time": 1665111504,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -3475,6 +3507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 345839,
+      "num": 345839,
+      "word": "久坐的人应该早点穿秋裤",
+      "onboard_time": 1665109404,
+      "rank": 43,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 341131,
       "num": 341131,
       "word": "中国男团vs斯洛文尼亚男团",
@@ -3624,6 +3664,14 @@
       "word": "93岁专家谢绝鉴宝不愿挣这个钱",
       "onboard_time": 1664968344,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 323787,
+      "num": 323787,
+      "word": "内蒙古增本土确诊13例无症状661例",
+      "onboard_time": 1665109285,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -3979,14 +4027,6 @@
       "category": "社会新闻,影视"
     },
     {
-      "raw_hot": 287235,
-      "num": 287235,
-      "word": "内蒙古增本土确诊13例无症状661例",
-      "onboard_time": 1665109285,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 286862,
       "num": 286862,
       "word": "金晨新剧被王安宇逼婚",
@@ -4323,14 +4363,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 267632,
-      "num": 267632,
-      "word": "久坐的人应该早点穿秋裤",
-      "onboard_time": 1665109404,
-      "rank": 43,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 267002,
       "num": 267002,
       "word": "女子国庆接单遛狗服务",
@@ -4353,6 +4385,14 @@
       "onboard_time": 1664957602,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 265226,
+      "num": 265226,
+      "word": "当警犬遇到人类幼崽",
+      "onboard_time": 1665110784,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 265200,
@@ -5923,6 +5963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 190270,
+      "num": 190270,
+      "word": "湖北新增本土无症状56例",
+      "onboard_time": 1665109883,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189836,
       "num": 189836,
       "word": "节后上班第一天冷空气将再发货",
@@ -6072,6 +6120,14 @@
       "word": "导弹专家为国隐姓埋名60余年",
       "onboard_time": 1664754258,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182259,
+      "num": 182259,
+      "word": "洒水车路遇摆摊阿姨精准关水避让",
+      "onboard_time": 1665112164,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -6371,6 +6427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 170283,
+      "num": 170283,
+      "word": "任嘉伦李沁请君六宫格剧照",
+      "onboard_time": 1665110303,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 170207,
       "num": 170207,
       "word": "环卫阿姨买汤老板不收钱优先做",
@@ -6441,14 +6505,6 @@
       "onboard_time": 1665044364,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 165971,
-      "num": 165971,
-      "word": "湖北新增本土无症状56例",
-      "onboard_time": 1665109883,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165188,
@@ -6761,14 +6817,6 @@
       "onboard_time": 1664950881,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154035,
-      "num": 154035,
-      "word": "任嘉伦李沁请君六宫格剧照",
-      "onboard_time": 1665110303,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 152530,
@@ -7795,6 +7843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 120912,
+      "num": 120912,
+      "word": "森林狼vs湖人",
+      "onboard_time": 1665111264,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120911,
       "num": 120911,
       "word": "老人景区昏倒游客接力心肺复苏",
@@ -7808,14 +7864,6 @@
       "word": "郑州小村庄变身航空大都市",
       "onboard_time": 1664974765,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120764,
-      "num": 120764,
-      "word": "当警犬遇到人类幼崽",
-      "onboard_time": 1665110784,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -7857,6 +7905,14 @@
       "onboard_time": 1665064165,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119466,
+      "num": 119466,
+      "word": "泰国幼儿园枪击案已造成38死",
+      "onboard_time": 1665115343,
+      "rank": 26,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 119386,
@@ -8003,6 +8059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115137,
+      "num": 115137,
+      "word": "万里归途真实质感特辑",
+      "onboard_time": 1665114025,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 114518,
       "num": 114518,
       "word": "国乒男团晋级世乒赛8强",
@@ -8121,6 +8185,14 @@
       "onboard_time": 1665019282,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111365,
+      "num": 111365,
+      "word": "Straykids今日回归",
+      "onboard_time": 1665101481,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 111284,
@@ -8433,14 +8505,6 @@
       "onboard_time": 1664582602,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 102030,
-      "num": 102030,
-      "word": "Straykids今日回归",
-      "onboard_time": 1665101481,
-      "rank": 39,
-      "category": "音乐"
     },
     {
       "raw_hot": 101864,
@@ -8891,6 +8955,14 @@
       "category": "综艺,科技"
     },
     {
+      "raw_hot": 85899,
+      "num": 85899,
+      "word": "这就是微缩的魅力吧",
+      "onboard_time": 1665114025,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 85890,
       "num": 85890,
       "word": "为中国女篮加油",
@@ -9283,14 +9355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 71471,
-      "num": 71471,
-      "word": "森林狼vs湖人",
-      "onboard_time": 1665111264,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 71292,
       "num": 71292,
       "word": "樊振东3比0科祖尔",
@@ -9305,14 +9369,6 @@
       "onboard_time": 1664771782,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 70517,
-      "num": 70517,
-      "word": "为啥感觉假期越休息越累",
-      "onboard_time": 1665111504,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 70452,
@@ -9579,6 +9635,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63248,
+      "num": 63248,
+      "word": "值得收藏的50部纪录片",
+      "onboard_time": 1665113904,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 63210,
+      "num": 63210,
+      "word": "他们攻克几千项难点改写卡脖子历史",
+      "onboard_time": 1665115765,
+      "rank": 46,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 63181,
       "num": 63181,
       "word": "中国篮协向女篮致贺信",
@@ -9817,6 +9889,14 @@
       "onboard_time": 1664715203,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 53814,
+      "num": 569853,
+      "word": "丰收晒秋美如画",
+      "onboard_time": 1665111623,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 53455,
@@ -10641,14 +10721,6 @@
       "onboard_time": 1664829911,
       "rank": 49,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 5021,
-      "num": 569853,
-      "word": "丰收晒秋美如画",
-      "onboard_time": 1665111623,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 5007,
