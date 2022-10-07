@@ -1,6 +1,6 @@
 {
   "startTime": 1665074398460,
-  "endTime": 1665134933640,
+  "endTime": 1665136136184,
   "band_list": [
     {
       "raw_hot": 2887521,
@@ -35,8 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1361415,
-      "num": 142984,
+      "raw_hot": 1449011,
+      "num": 1449011,
       "word": "换乘恋爱",
       "onboard_time": 1665132621,
       "rank": 27,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 936728,
-      "num": 322961,
+      "num": 349906,
       "word": "王俊凯北大路演",
       "onboard_time": 1665128183,
       "rank": 10,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 829977,
-      "num": 343570,
+      "num": 454960,
       "word": "山西运城发现31例核酸异常人员",
       "onboard_time": 1665127942,
       "rank": 47,
@@ -211,6 +211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 567414,
+      "num": 567414,
+      "word": "车银优韩素希李洙赫网漫第一集预告",
+      "onboard_time": 1665133342,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 565407,
       "num": 565407,
       "word": "女生东北上学喜提铁锅炖版生日蛋糕",
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 515309,
-      "num": 139040,
+      "num": 349133,
       "word": "TF家族三代路演",
       "onboard_time": 1665132982,
       "rank": 12,
@@ -323,12 +331,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 399059,
-      "num": 134021,
-      "word": "车银优韩素希李洙赫网漫第一集预告",
-      "onboard_time": 1665133342,
-      "rank": 16,
-      "category": "影视"
+      "raw_hot": 401988,
+      "num": 401988,
+      "word": "员工当顾客面把扫地垃圾倒进餐盘",
+      "onboard_time": 1665131364,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 390879,
@@ -337,6 +345,14 @@
       "onboard_time": 1665119362,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 389707,
+      "num": 389707,
+      "word": "教科书级别的煎饼果子",
+      "onboard_time": 1665130763,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 383039,
@@ -355,14 +371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 362728,
-      "num": 142243,
-      "word": "员工当顾客面把扫地垃圾倒进餐盘",
-      "onboard_time": 1665131364,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 360619,
       "num": 360619,
       "word": "虞书欣作品双平台破万",
@@ -377,6 +385,14 @@
       "onboard_time": 1665109404,
       "rank": 43,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 342343,
+      "num": 342343,
+      "word": "全球最年长的狗去世享年22岁",
+      "onboard_time": 1665132082,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 335029,
@@ -412,7 +428,7 @@
     },
     {
       "raw_hot": 323629,
-      "num": 177990,
+      "num": 184590,
       "word": "新疆新增本土无症状感染者96例",
       "onboard_time": 1665128003,
       "rank": 31,
@@ -443,14 +459,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 311974,
-      "num": 311974,
-      "word": "教科书级别的煎饼果子",
-      "onboard_time": 1665130763,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 292367,
       "num": 292367,
       "word": "StrayKids新歌MV公开",
@@ -459,8 +467,16 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 285689,
+      "num": 285689,
+      "word": "张极张泽禹路演合唱诀爱",
+      "onboard_time": 1665135801,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 274081,
-      "num": 84934,
+      "num": 130172,
       "word": "金昇玟拖进度条",
       "onboard_time": 1665132682,
       "rank": 47,
@@ -488,14 +504,6 @@
       "word": "当警犬遇到人类幼崽",
       "onboard_time": 1665110784,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 264920,
-      "num": 135491,
-      "word": "全球最年长的狗去世享年22岁",
-      "onboard_time": 1665132082,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -635,6 +643,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 201095,
+      "num": 194312,
+      "word": "只有潘玮柏受伤的世界",
+      "onboard_time": 1665132802,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200980,
       "num": 200980,
       "word": "小鬼戴帽子重拾街舞热爱",
@@ -697,14 +713,6 @@
       "onboard_time": 1665130582,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 182890,
-      "num": 112469,
-      "word": "只有潘玮柏受伤的世界",
-      "onboard_time": 1665132802,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 178521,
@@ -899,6 +907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130693,
+      "num": 130693,
+      "word": "老君山云海中现金顶雪景",
+      "onboard_time": 1665131064,
+      "rank": 37,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 129602,
       "num": 129602,
       "word": "中国女排战胜荷兰女排",
@@ -913,6 +929,14 @@
       "onboard_time": 1665109822,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 128536,
+      "num": 128536,
+      "word": "婚礼和演唱会一起办了",
+      "onboard_time": 1665131603,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 128043,
@@ -937,14 +961,6 @@
       "onboard_time": 1665127644,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 124412,
-      "num": 107890,
-      "word": "婚礼和演唱会一起办了",
-      "onboard_time": 1665131603,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 123358,
@@ -1081,14 +1097,6 @@
       "onboard_time": 1665083412,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 103792,
-      "num": 103792,
-      "word": "老君山云海中现金顶雪景",
-      "onboard_time": 1665131064,
-      "rank": 37,
-      "category": "旅游"
     },
     {
       "raw_hot": 103156,
@@ -1291,6 +1299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 72061,
+      "num": 72061,
+      "word": "山东拆盲盒式赶海",
+      "onboard_time": 1665135442,
+      "rank": 42,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 70409,
       "num": 70409,
       "word": "朴灿烈唱Tomorrow",
@@ -1385,6 +1401,14 @@
       "onboard_time": 1665075017,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 55883,
+      "num": 55883,
+      "word": "主人抱熟睡猫咪怼脸捉老鼠",
+      "onboard_time": 1665135742,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 54866,
