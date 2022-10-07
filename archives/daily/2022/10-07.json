@@ -1,6 +1,6 @@
 {
   "startTime": 1665074398460,
-  "endTime": 1665131580461,
+  "endTime": 1665132704647,
   "band_list": [
     {
       "raw_hot": 2887521,
@@ -163,6 +163,22 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 712539,
+      "num": 712539,
+      "word": "送子上北大的爸爸到北大做鸡蛋灌饼",
+      "onboard_time": 1665128602,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 652359,
+      "num": 389776,
+      "word": "男子连拧7瓶饮料看是否中奖",
+      "onboard_time": 1665128784,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 619710,
       "num": 311616,
       "word": "外国人没有婚纱照",
@@ -225,14 +241,6 @@
       "onboard_time": 1665113904,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 520845,
-      "num": 520845,
-      "word": "送子上北大的爸爸到北大做鸡蛋灌饼",
-      "onboard_time": 1665128602,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 513271,
@@ -307,14 +315,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 389776,
-      "num": 389776,
-      "word": "男子连拧7瓶饮料看是否中奖",
-      "onboard_time": 1665128784,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 383039,
       "num": 383039,
       "word": "湖南疾控对健康码变黄的权威解答",
@@ -379,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 323629,
+      "num": 177990,
+      "word": "新疆新增本土无症状感染者96例",
+      "onboard_time": 1665128003,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 318686,
       "num": 318686,
       "word": "冷雨夜男子怕违章高速抛下妻子",
@@ -403,19 +411,19 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 296131,
-      "num": 163754,
-      "word": "新疆新增本土无症状感染者96例",
-      "onboard_time": 1665128003,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 292367,
       "num": 292367,
       "word": "StrayKids新歌MV公开",
       "onboard_time": 1665120803,
       "rank": 13,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 274081,
+      "num": 77971,
+      "word": "金昇玟拖进度条",
+      "onboard_time": 1665132682,
+      "rank": 47,
       "category": "音乐"
     },
     {
@@ -481,6 +489,14 @@
       "onboard_time": 1665089110,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249097,
+      "num": 249097,
+      "word": "不会跳舞也是一种天赋",
+      "onboard_time": 1665128364,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 243711,
@@ -611,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186342,
+      "num": 127585,
+      "word": "村民摆20多条板凳拦婚车讨喜",
+      "onboard_time": 1665128602,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185737,
       "num": 185737,
       "word": "田爸怀疑田雯雯周博文早恋",
@@ -619,19 +643,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 180683,
-      "num": 180683,
-      "word": "不会跳舞也是一种天赋",
-      "onboard_time": 1665128364,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 178521,
       "num": 178521,
       "word": "U17国足11比0北马里亚纳群岛",
       "onboard_time": 1665125543,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 177302,
+      "num": 177302,
+      "word": "孙颖莎连得10分",
+      "onboard_time": 1665130343,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -675,6 +699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 166542,
+      "num": 166542,
+      "word": "教科书级别的煎饼果子",
+      "onboard_time": 1665130763,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 161681,
       "num": 161681,
       "word": "北京新增本土确诊5例",
@@ -683,12 +715,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 160262,
-      "num": 126063,
-      "word": "村民摆20多条板凳拦婚车讨喜",
-      "onboard_time": 1665128602,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 160235,
+      "num": 160235,
+      "word": "国乒女团7连胜挺进决赛",
+      "onboard_time": 1665132442,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 157626,
@@ -739,14 +771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146081,
-      "num": 146081,
-      "word": "孙颖莎连得10分",
-      "onboard_time": 1665130343,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 145808,
       "num": 145808,
       "word": "退伍军人6岁儿子公园踢正步",
@@ -771,11 +795,27 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 142984,
+      "num": 142984,
+      "word": "换乘恋爱",
+      "onboard_time": 1665132621,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142433,
       "num": 142433,
       "word": "九寨沟迎来金秋第一场雪",
       "onboard_time": 1665123202,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142243,
+      "num": 142243,
+      "word": "员工当顾客面把扫地垃圾倒进餐盘",
+      "onboard_time": 1665131364,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -979,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107890,
+      "num": 107890,
+      "word": "婚礼和演唱会一起办了",
+      "onboard_time": 1665131603,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 105269,
       "num": 105269,
       "word": "2分钟见证中国速度",
@@ -1059,20 +1107,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97146,
+      "num": 97146,
+      "word": "全球最年长的狗去世享年22岁",
+      "onboard_time": 1665132082,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94421,
       "num": 94421,
       "word": "热火vs篮网",
       "onboard_time": 1665108564,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 94237,
-      "num": 94237,
-      "word": "教科书级别的煎饼果子",
-      "onboard_time": 1665130763,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 92724,
@@ -1121,6 +1169,14 @@
       "onboard_time": 1665099558,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 84519,
+      "num": 84519,
+      "word": "陈梦3比0李昱谆",
+      "onboard_time": 1665131843,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 83786,
@@ -1217,14 +1273,6 @@
       "onboard_time": 1665061525,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 68184,
-      "num": 68184,
-      "word": "员工当顾客面把扫地垃圾倒进餐盘",
-      "onboard_time": 1665131364,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 67243,

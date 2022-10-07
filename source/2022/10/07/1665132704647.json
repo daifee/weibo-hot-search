@@ -1,0 +1,410 @@
+{
+  "runTime": 1665132704647,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1332019,
+        "num": 1332019,
+        "word": "江西从40℃直接降至17℃",
+        "onboard_time": 1665124644,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 830118,
+        "num": 830118,
+        "word": "妈妈背2个月滕王阁序免费进景区",
+        "onboard_time": 1665121764,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27650,
+        "num": 764644,
+        "word": "江河奔腾看中国",
+        "onboard_time": 1665128123,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 712539,
+        "num": 712539,
+        "word": "送子上北大的爸爸到北大做鸡蛋灌饼",
+        "onboard_time": 1665128602,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355263,
+        "num": 355263,
+        "word": "iPhone14Plus上市破发",
+        "onboard_time": 1665116423,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 249097,
+        "num": 249097,
+        "word": "不会跳舞也是一种天赋",
+        "onboard_time": 1665128364,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 242704,
+        "num": 242704,
+        "word": "研究称月球或在几个小时内形成",
+        "onboard_time": 1665126024,
+        "rank": 6,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 197165,
+        "num": 197165,
+        "word": "90岁外婆给44岁外孙强塞零花钱",
+        "onboard_time": 1665119183,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183461,
+        "num": 183461,
+        "word": "孙颖莎3比0陈思羽",
+        "onboard_time": 1665130284,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 652359,
+        "num": 183159,
+        "word": "男子连拧7瓶饮料看是否中奖",
+        "onboard_time": 1665128784,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 767735,
+        "num": 182245,
+        "word": "山西运城发现31例核酸异常人员",
+        "onboard_time": 1665127942,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436192,
+        "num": 182092,
+        "word": "虞书欣回应自己是bg之光",
+        "onboard_time": 1665123442,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 868426,
+        "num": 181287,
+        "word": "王俊凯北大路演",
+        "onboard_time": 1665128183,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 372387,
+        "num": 180573,
+        "word": "外国人没有婚纱照",
+        "onboard_time": 1665124523,
+        "rank": 13,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 248070,
+        "num": 179964,
+        "word": "iPod之父支持iPhone改用C口",
+        "onboard_time": 1665119602,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 214851,
+        "num": 178958,
+        "word": "李旻浩怼脸",
+        "onboard_time": 1665127162,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 323629,
+        "num": 177990,
+        "word": "新疆新增本土无症状感染者96例",
+        "onboard_time": 1665128003,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210171,
+        "num": 177794,
+        "word": "90后飞行员被叫军中凯因斯坦",
+        "onboard_time": 1665126864,
+        "rank": 17,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 177302,
+        "num": 177302,
+        "word": "孙颖莎连得10分",
+        "onboard_time": 1665130343,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 306016,
+        "num": 176077,
+        "word": "男子打包1份6元面装走半袋大蒜",
+        "onboard_time": 1665120565,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166542,
+        "num": 166542,
+        "word": "教科书级别的煎饼果子",
+        "onboard_time": 1665130763,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160235,
+        "num": 160235,
+        "word": "国乒女团7连胜挺进决赛",
+        "onboard_time": 1665132442,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 287999,
+        "num": 159343,
+        "word": "山西祁县婚宴密接中16人核酸阳性",
+        "onboard_time": 1665124041,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152110,
+        "num": 152110,
+        "word": "宋茜黑天鹅封面大片",
+        "onboard_time": 1665125183,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 151310,
+        "num": 151310,
+        "word": "小鬼戴帽子重拾街舞热爱",
+        "onboard_time": 1665127102,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265615,
+        "num": 149419,
+        "word": "女孩骨折后查出全身骨头都在溶解",
+        "onboard_time": 1665106344,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144302,
+        "num": 144302,
+        "word": "爱奇艺2022待播剧综",
+        "onboard_time": 1665116062,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142984,
+        "num": 142984,
+        "word": "换乘恋爱",
+        "onboard_time": 1665132621,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243118,
+        "num": 142716,
+        "word": "奥密克戎BF.7变异株已入华",
+        "onboard_time": 1665111744,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142243,
+        "num": 142243,
+        "word": "员工当顾客面把扫地垃圾倒进餐盘",
+        "onboard_time": 1665131364,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191357,
+        "num": 134618,
+        "word": "瑞典已完成北溪泄漏事故现场调查",
+        "onboard_time": 1665122602,
+        "rank": 30,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 186342,
+        "num": 127585,
+        "word": "村民摆20多条板凳拦婚车讨喜",
+        "onboard_time": 1665128602,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120380,
+        "num": 120380,
+        "word": "坐标中国",
+        "onboard_time": 1665127644,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119959,
+        "num": 119959,
+        "word": "田爸怀疑田雯雯周博文早恋",
+        "onboard_time": 1665130582,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119402,
+        "num": 119402,
+        "word": "泰国幼儿园枪击案已造成38死",
+        "onboard_time": 1665115343,
+        "rank": 34,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 116785,
+        "num": 116785,
+        "word": "江浙沪皖最近都在吃的菜",
+        "onboard_time": 1665110063,
+        "rank": 35,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 112194,
+        "num": 112194,
+        "word": "U17国足11比0北马里亚纳群岛",
+        "onboard_time": 1665125543,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107890,
+        "num": 107890,
+        "word": "婚礼和演唱会一起办了",
+        "onboard_time": 1665131603,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97289,
+        "num": 97289,
+        "word": "老君山云海中现金顶雪景",
+        "onboard_time": 1665131064,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 97146,
+        "num": 97146,
+        "word": "全球最年长的狗去世享年22岁",
+        "onboard_time": 1665132082,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95869,
+        "num": 95869,
+        "word": "老挝小女孩第一次坐动车说像未来世界",
+        "onboard_time": 1665116603,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92568,
+        "num": 92568,
+        "word": "90后妈妈给宝宝自制早教书",
+        "onboard_time": 1665126562,
+        "rank": 41,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 91156,
+        "num": 91156,
+        "word": "七天假期状态的真实写照",
+        "onboard_time": 1665105023,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84519,
+        "num": 84519,
+        "word": "陈梦3比0李昱谆",
+        "onboard_time": 1665131843,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84312,
+        "num": 84312,
+        "word": "沉默是不是关系结束的开始",
+        "onboard_time": 1665121284,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 81689,
+        "num": 81689,
+        "word": "女子高速堵车时将垃圾全扔下",
+        "onboard_time": 1665120682,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80573,
+        "num": 80573,
+        "word": "久坐的人应该早点穿秋裤",
+        "onboard_time": 1665109404,
+        "rank": 46,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 274081,
+        "num": 77971,
+        "word": "金昇玟拖进度条",
+        "onboard_time": 1665132682,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 65047,
+        "num": 65047,
+        "word": "BLACKPINK世界巡演视觉预告海报",
+        "onboard_time": 1665113904,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 64729,
+        "num": 64729,
+        "word": "敢死队4定档",
+        "onboard_time": 1665121463,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光#"
+    }
+  }
+}
