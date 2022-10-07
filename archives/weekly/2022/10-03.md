@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/03 00:34:12 ~ 2022/10/08 04:28:07
+本榜单时间：2022/10/03 00:34:12 ~ 2022/10/08 04:45:11
 </p>
 </blockquote>
 <p>
@@ -6400,7 +6400,7 @@ EG对战MAD（热度：32401）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E9%80%90%E4%B8%80%E6%A3%80%E6%9F%A5%E5%AD%A6%E7%94%9F%E6%98%AF%E5%90%A6%E7%A9%BF%E7%A7%8B%E8%A3%A4%23" target="weibo">
-老师逐一检查学生是否穿秋裤（热度：17870）
+老师逐一检查学生是否穿秋裤（热度：18008）
 </a>
 </li>
 
@@ -6424,7 +6424,7 @@ EG对战MAD（热度：32401）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%BB%E8%BF%87%E4%B8%B0%E5%8F%B0%E8%BF%99%E4%B8%80%E5%85%AC%E5%8E%95%E4%BA%BA%E5%91%98%E8%AF%B7%E6%8A%A5%E5%91%8A%23" target="weibo">
-去过丰台这一公厕人员请报告（热度：12707）
+去过丰台这一公厕人员请报告（热度：13202）
 </a>
 </li>
 
@@ -6465,6 +6465,12 @@ ISG战胜IW（热度：11127）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E9%94%99%E5%A4%B1%E7%A7%8B%E5%A4%A9%E4%B8%80%E7%A7%92%E5%85%A5%E5%86%AC%23" target="weibo">
+北京错失秋天一秒入冬（热度：9613）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%81%E4%B8%80%E7%90%A6%E6%96%B0%E6%AD%8C%E5%A4%A7%E5%B0%8F%E5%AD%A9%E9%A6%96%E5%94%B1%23" target="weibo">
 袁一琦新歌大小孩首唱（热度：9058）
 </a>
@@ -6484,7 +6490,19 @@ ISG战胜IW（热度：11127）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E5%B0%8F%E8%85%BF%E4%B8%8D%E9%80%82%E6%8E%A5%E5%8F%97%E6%B2%BB%E7%96%97%23" target="weibo">
-梅西小腿不适接受治疗（热度：8074）
+梅西小腿不适接受治疗（热度：8324）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%A2%E5%A3%AB%E9%A1%BF%E5%8A%A8%E5%8A%9B%E6%89%BF%E8%AF%BA%E4%B8%8D%E5%B0%86%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%AD%A6%E5%99%A8%E5%8C%96%23" target="weibo">
+波士顿动力承诺不将机器人武器化（热度：8282）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E7%B4%A7%E8%B4%B4%E7%9D%80%E7%83%88%E5%A3%AB%E5%84%BF%E5%AD%90%E7%94%BB%E5%83%8F%E7%97%9B%E5%93%AD%E4%B8%8D%E6%AD%A2%23" target="weibo">
+妈妈紧贴着烈士儿子画像痛哭不止（热度：8014）
 </a>
 </li>
 
@@ -6513,8 +6531,20 @@ F1新加坡大奖赛佩雷兹冠军（热度：7075）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%BA%A7%E6%88%BF%E5%A4%96%E6%89%8B%E6%8D%A7%E9%B2%9C%E8%8A%B1%E7%AD%89%E5%80%99%E5%A6%BB%E5%AD%90%E7%94%9F%E4%BA%A7%23" target="weibo">
+男子产房外手捧鲜花等候妻子生产（热度：6966）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%9C%A1%E7%AC%94%E5%B0%8F%E6%96%B0%E6%BC%94%E6%88%91%E8%BF%87%E5%9B%BD%E5%BA%86%23" target="weibo">
 蜡笔小新演我过国庆（热度：6735）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E5%8D%AB%E5%AF%B94%E6%AC%BE%E5%8D%B0%E5%BA%A6%E4%BA%A7%E6%AD%A2%E5%92%B3%E7%B3%96%E6%B5%86%E5%8F%91%E5%87%BA%E8%AD%A6%E5%91%8A%23" target="weibo">
+世卫对4款印度产止咳糖浆发出警告（热度：6659）
 </a>
 </li>
 
@@ -6603,12 +6633,6 @@ RNG团战（热度：6486）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E5%8D%AB%E5%AF%B94%E6%AC%BE%E5%8D%B0%E5%BA%A6%E4%BA%A7%E6%AD%A2%E5%92%B3%E7%B3%96%E6%B5%86%E5%8F%91%E5%87%BA%E8%AD%A6%E5%91%8A%23" target="weibo">
-世卫对4款印度产止咳糖浆发出警告（热度：5929）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%8C%AB%E5%AB%8C%E5%BC%83%E7%9A%84%E7%8C%AB%23" target="weibo">
 被猫嫌弃的猫（热度：5897）
 </a>
@@ -6651,14 +6675,8 @@ RNG团战（热度：6486）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E9%94%99%E5%A4%B1%E7%A7%8B%E5%A4%A9%E4%B8%80%E7%A7%92%E5%85%A5%E5%86%AC%23" target="weibo">
-北京错失秋天一秒入冬（热度：5490）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B3%A2%E5%A3%AB%E9%A1%BF%E5%8A%A8%E5%8A%9B%E6%89%BF%E8%AF%BA%E4%B8%8D%E5%B0%86%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%AD%A6%E5%99%A8%E5%8C%96%23" target="weibo">
-波士顿动力承诺不将机器人武器化（热度：5464）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%A4%9A%E6%AC%A1%E6%89%93%E6%89%AB%E6%A5%BC%E9%81%93%E5%B8%A6%E5%8A%A8%E6%95%B4%E6%A5%BC%E9%82%BB%E5%B1%85%E5%8F%82%E5%8A%A0%23" target="weibo">
+女子多次打扫楼道带动整楼邻居参加（热度：5483）
 </a>
 </li>
 
@@ -6719,6 +6737,18 @@ RNG团战（热度：6486）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AB%E6%97%AC%E9%80%80%E4%BC%91%E6%95%99%E5%B8%88%E8%83%8C%E5%90%8E%E7%BB%95%E7%90%83%E4%B8%8A%E7%AF%AE%E5%BC%95%E6%AC%A2%E5%91%BC%23" target="weibo">
 八旬退休教师背后绕球上篮引欢呼（热度：5069）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%A7%E6%B0%91%E5%AD%A9%E5%AD%90%E8%B5%B0%E5%A4%B1%E8%AD%A6%E5%AF%9F%E5%BD%BB%E5%A4%9C%E6%90%9C%E5%AF%BB13%E5%B0%8F%E6%97%B6%23" target="weibo">
+牧民孩子走失警察彻夜搜寻13小时（热度：5054）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A4%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B621%E4%BE%8B%23" target="weibo">
+河南新增本土确诊4例无症状21例（热度：5032）
 </a>
 </li>
 
