@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665117122619,
+  "endTime": 1665121138477,
   "band_list": [
     {
       "raw_hot": 7944963,
@@ -883,6 +883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 986191,
+      "num": 584468,
+      "word": "iPhone14Plus上市破发",
+      "onboard_time": 1665116423,
+      "rank": 12,
+      "category": "科技"
+    },
+    {
       "raw_hot": 984476,
       "num": 984476,
       "word": "光遇",
@@ -1755,6 +1763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 581469,
+      "num": 581469,
+      "word": "老挝小女孩第一次坐动车说像未来世界",
+      "onboard_time": 1665116603,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 579394,
       "num": 349010,
       "word": "离异女子与初恋再婚组成六口之家",
@@ -1963,6 +1979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 543761,
+      "num": 300405,
+      "word": "iPod之父支持iPhone改用C口",
+      "onboard_time": 1665119602,
+      "rank": 11,
+      "category": "科技"
+    },
+    {
       "raw_hot": 541270,
       "num": 541270,
       "word": "就想问能不能不上班",
@@ -2097,6 +2121,22 @@
       "onboard_time": 1664980405,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 513271,
+      "num": 513271,
+      "word": "泰国幼儿园枪击案已造成38死",
+      "onboard_time": 1665115343,
+      "rank": 26,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 512171,
+      "num": 512171,
+      "word": "爱奇艺2022待播剧综",
+      "onboard_time": 1665116062,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 508946,
@@ -2755,14 +2795,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 425625,
-      "num": 425625,
-      "word": "爱奇艺2022待播剧综",
-      "onboard_time": 1665116062,
-      "rank": 7,
-      "category": "影视"
-    },
-    {
       "raw_hot": 425615,
       "num": 371750,
       "word": "李冰冰所有情绪都在眼睛里",
@@ -3113,6 +3145,14 @@
       "onboard_time": 1664766861,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 390879,
+      "num": 299584,
+      "word": "felix镜头",
+      "onboard_time": 1665119362,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 389532,
@@ -3595,6 +3635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 337780,
+      "num": 337780,
+      "word": "魏大勋父子全国通用跪式压箱法",
+      "onboard_time": 1665119003,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 334747,
       "num": 334747,
       "word": "boss直聘现多个无厘头职位名称",
@@ -3899,14 +3947,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 300277,
-      "num": 262891,
-      "word": "iPhone14Plus上市破发",
-      "onboard_time": 1665116423,
-      "rank": 12,
-      "category": "科技"
-    },
-    {
       "raw_hot": 300019,
       "num": 300019,
       "word": "庞博高中时写给学弟的寄语",
@@ -3987,6 +4027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 292367,
+      "num": 292367,
+      "word": "StrayKids新歌MV公开",
+      "onboard_time": 1665120803,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 292345,
       "num": 292345,
       "word": "沈月直播",
@@ -4033,14 +4081,6 @@
       "onboard_time": 1664681362,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 288315,
-      "num": 262008,
-      "word": "泰国幼儿园枪击案已造成38死",
-      "onboard_time": 1665115343,
-      "rank": 26,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 288092,
@@ -4097,6 +4137,14 @@
       "onboard_time": 1664611464,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 285282,
+      "num": 285282,
+      "word": "90岁外婆给44岁外孙强塞零花钱",
+      "onboard_time": 1665119183,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 284307,
@@ -4521,6 +4569,14 @@
       "onboard_time": 1664631685,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 260072,
+      "num": 260072,
+      "word": "中国香港男团vs韩国男团",
+      "onboard_time": 1665117744,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 259581,
@@ -5555,6 +5611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208054,
+      "num": 208054,
+      "word": "虞书欣在张彬彬耳边撒娇好害羞",
+      "onboard_time": 1665117565,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 208033,
       "num": 199044,
       "word": "周依然梁靖康高甜上分",
@@ -6515,6 +6579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 168266,
+      "num": 168266,
+      "word": "金晨说拍炽道彻底爱上健身",
+      "onboard_time": 1665117084,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 167702,
       "num": 167702,
       "word": "詹姆斯半场23分",
@@ -7433,6 +7505,14 @@
       "onboard_time": 1664638342,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134874,
+      "num": 134874,
+      "word": "他们攻克几千项难点改写卡脖子历史",
+      "onboard_time": 1665115765,
+      "rank": 46,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 134665,
@@ -8411,6 +8491,14 @@
       "category": "旅游,情感"
     },
     {
+      "raw_hot": 105576,
+      "num": 53937,
+      "word": "每一个兵马俑都有真实原型吗",
+      "onboard_time": 1665121104,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105439,
       "num": 105439,
       "word": "杨力维助攻",
@@ -8731,14 +8819,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 95692,
-      "num": 95692,
-      "word": "老挝小女孩第一次坐动车说像未来世界",
-      "onboard_time": 1665116603,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 95636,
       "num": 95636,
       "word": "这是轻功吧",
@@ -8787,12 +8867,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 93722,
+      "num": 93722,
+      "word": "女子高速堵车时将垃圾全扔下",
+      "onboard_time": 1665120682,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93658,
       "num": 93658,
       "word": "小伙深夜租叉车帮老人捡气球",
       "onboard_time": 1664708063,
       "rank": 41,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 93506,
+      "num": 93506,
+      "word": "男子打包1份6元面装走半袋大蒜",
+      "onboard_time": 1665120565,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93286,
@@ -9003,6 +9099,14 @@
       "category": "综艺,科技"
     },
     {
+      "raw_hot": 86302,
+      "num": 86302,
+      "word": "男子雨天拎着拖鞋在公交站等老婆",
+      "onboard_time": 1665119963,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85899,
       "num": 85899,
       "word": "这就是微缩的魅力吧",
@@ -9057,14 +9161,6 @@
       "onboard_time": 1664593581,
       "rank": 38,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 84091,
-      "num": 84091,
-      "word": "他们攻克几千项难点改写卡脖子历史",
-      "onboard_time": 1665115765,
-      "rank": 46,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 83924,
@@ -9579,6 +9675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65614,
+      "num": 65614,
+      "word": "宣璐国风大典古典美",
+      "onboard_time": 1665118524,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 65538,
       "num": 65538,
       "word": "陈梦3比0马达拉茨",
@@ -9699,12 +9803,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 64003,
-      "num": 64003,
-      "word": "金晨说拍炽道彻底爱上健身",
-      "onboard_time": 1665117084,
-      "rank": 47,
-      "category": "影视"
+      "raw_hot": 63252,
+      "num": 63252,
+      "word": "德国男团vs法国男团",
+      "onboard_time": 1665118344,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 63181,
