@@ -1,10 +1,10 @@
 {
   "startTime": 1665074398460,
-  "endTime": 1665151978795,
+  "endTime": 1665153557302,
   "band_list": [
     {
-      "raw_hot": 4830609,
-      "num": 4830609,
+      "raw_hot": 8002901,
+      "num": 8002901,
       "word": "王楚钦",
       "onboard_time": 1665148584,
       "rank": 1,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2230034,
-      "num": 2230034,
+      "raw_hot": 2256725,
+      "num": 2256725,
       "word": "如果今天你觉得七天很短",
       "onboard_time": 1665140241,
       "rank": 4,
@@ -56,6 +56,14 @@
       "word": "江西从40℃直接降至17℃",
       "onboard_time": 1665124644,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1310541,
+      "num": 1310541,
+      "word": "体检报告上的常见异常",
+      "onboard_time": 1665149425,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -139,6 +147,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 950162,
+      "num": 950162,
+      "word": "距离下个假期还有85天",
+      "onboard_time": 1665146602,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 936728,
       "num": 349906,
       "word": "王俊凯北大路演",
@@ -160,14 +176,6 @@
       "word": "男子不用洗发水从秃顶到满头黑发",
       "onboard_time": 1665060145,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 904100,
-      "num": 904100,
-      "word": "距离下个假期还有85天",
-      "onboard_time": 1665146602,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -243,14 +251,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 676190,
-      "num": 676190,
-      "word": "体检报告上的常见异常",
-      "onboard_time": 1665149425,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 652359,
       "num": 389776,
       "word": "男子连拧7瓶饮料看是否中奖",
@@ -281,6 +281,14 @@
       "onboard_time": 1665143662,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 581921,
+      "num": 581921,
+      "word": "唐朝诡事录群像",
+      "onboard_time": 1665150326,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 578344,
@@ -355,6 +363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 506073,
+      "num": 506073,
+      "word": "刘宇柳叶刀收藏量破百万",
+      "onboard_time": 1665151829,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 480060,
       "num": 480060,
       "word": "梅西确认最后一次参加世界杯",
@@ -387,12 +403,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 442517,
+      "num": 442517,
+      "word": "3D打印肉将投入商业领域",
+      "onboard_time": 1665149305,
+      "rank": 14,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 416734,
       "num": 416734,
       "word": "秋裤并不是越紧身的越保暖",
       "onboard_time": 1665086050,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 412950,
+      "num": 412950,
+      "word": "成毅蔡文静底线双向奔赴",
+      "onboard_time": 1665152005,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 411026,
@@ -416,6 +448,14 @@
       "word": "90岁外婆给44岁外孙强塞零花钱",
       "onboard_time": 1665119183,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 406886,
+      "num": 406886,
+      "word": "老人穿衣服被拉链卡住眼皮",
+      "onboard_time": 1665149783,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -459,14 +499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 378989,
-      "num": 378989,
-      "word": "3D打印肉将投入商业领域",
-      "onboard_time": 1665149305,
-      "rank": 14,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 374788,
       "num": 374788,
       "word": "成都东站疫情防控",
@@ -481,14 +513,6 @@
       "onboard_time": 1665148222,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 370240,
-      "num": 370240,
-      "word": "唐朝诡事录群像",
-      "onboard_time": 1665150326,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 364291,
@@ -587,14 +611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 323333,
-      "num": 323333,
-      "word": "刘宇柳叶刀收藏量破百万",
-      "onboard_time": 1665151829,
-      "rank": 12,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 318686,
       "num": 318686,
       "word": "冷雨夜男子怕违章高速抛下妻子",
@@ -635,6 +651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 294664,
+      "num": 294664,
+      "word": "于和伟有点延迟在身上",
+      "onboard_time": 1665151584,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 292367,
       "num": 292367,
       "word": "StrayKids新歌MV公开",
@@ -651,14 +675,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 282980,
-      "num": 282980,
-      "word": "老人穿衣服被拉链卡住眼皮",
-      "onboard_time": 1665149783,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 274081,
       "num": 130172,
       "word": "金昇玟拖进度条",
@@ -673,6 +689,14 @@
       "onboard_time": 1665128364,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 272110,
+      "num": 272110,
+      "word": "凤凰古城滞留游客明年免费游全县A级景区",
+      "onboard_time": 1665152487,
+      "rank": 16,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 271972,
@@ -859,6 +883,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 212786,
+      "num": 212786,
+      "word": "为什么年轻人想要逃离一线城市",
+      "onboard_time": 1665152125,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 209694,
       "num": 209694,
       "word": "怎么和孩子愉快交流",
@@ -923,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200676,
+      "num": 200676,
+      "word": "当代小学生受网络影响有多大",
+      "onboard_time": 1665152549,
+      "rank": 24,
+      "category": "情感,综艺"
+    },
+    {
       "raw_hot": 198448,
       "num": 198448,
       "word": "孙颖莎3比0陈思羽",
@@ -936,14 +976,6 @@
       "word": "沸腾校园官宣特约学长INTO1",
       "onboard_time": 1665116182,
       "rank": 19,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 195724,
-      "num": 195724,
-      "word": "于和伟有点延迟在身上",
-      "onboard_time": 1665151584,
-      "rank": 22,
       "category": "综艺"
     },
     {
@@ -979,6 +1011,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 189801,
+      "num": 180172,
+      "word": "虞书欣虞美人雨夜大片",
+      "onboard_time": 1665151525,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 186342,
       "num": 127585,
       "word": "村民摆20多条板凳拦婚车讨喜",
@@ -993,14 +1033,6 @@
       "onboard_time": 1665130582,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 180172,
-      "num": 180172,
-      "word": "虞书欣虞美人雨夜大片",
-      "onboard_time": 1665151525,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 178521,
@@ -1227,19 +1259,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140527,
+      "num": 137952,
+      "word": "田雯雯康复后被孤立",
+      "onboard_time": 1665151704,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 139313,
       "num": 139313,
       "word": "李一桐哭戏爆发力",
       "onboard_time": 1665147684,
       "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 137952,
-      "num": 137952,
-      "word": "田雯雯康复后被孤立",
-      "onboard_time": 1665151704,
-      "rank": 32,
       "category": "影视"
     },
     {
@@ -1755,6 +1787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 74734,
+      "num": 74734,
+      "word": "王楚钦连扳3局",
+      "onboard_time": 1665152849,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 73109,
       "num": 73109,
       "word": "万里归途票房破10亿",
@@ -1763,12 +1803,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 72922,
+      "num": 69691,
+      "word": "原来冬天可以是10月份",
+      "onboard_time": 1665153511,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 70409,
       "num": 70409,
       "word": "朴灿烈唱Tomorrow",
       "onboard_time": 1665061525,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 67400,
+      "num": 67400,
+      "word": "明天起连上7天班",
+      "onboard_time": 1665153329,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67243,
@@ -1900,7 +1956,7 @@
     },
     {
       "raw_hot": 42375,
-      "num": 1491426,
+      "num": 1627932,
       "word": "江河奔腾看中国",
       "onboard_time": 1665128123,
       "rank": 2,
