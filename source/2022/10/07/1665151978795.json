@@ -1,0 +1,410 @@
+{
+  "runTime": 1665151978795,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4777088,
+        "num": 4777088,
+        "word": "王楚钦",
+        "onboard_time": 1665148584,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2230034,
+        "num": 2230034,
+        "word": "如果今天你觉得七天很短",
+        "onboard_time": 1665140241,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20944,
+        "num": 1491426,
+        "word": "江河奔腾看中国",
+        "onboard_time": 1665128123,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 904100,
+        "num": 904100,
+        "word": "距离下个假期还有85天",
+        "onboard_time": 1665146602,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 762092,
+        "num": 762092,
+        "word": "马龙鼓励王楚钦",
+        "onboard_time": 1665150206,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 676190,
+        "num": 676190,
+        "word": "体检报告上的常见异常",
+        "onboard_time": 1665149425,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 558097,
+        "num": 558097,
+        "word": "女子6千买实木沙发内部全是水泥",
+        "onboard_time": 1665141862,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549935,
+        "num": 549935,
+        "word": "杨蓉大山的女儿二登央视黄金档",
+        "onboard_time": 1665145401,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 481205,
+        "num": 481205,
+        "word": "错过相爱的人会遗憾一辈子",
+        "onboard_time": 1665143662,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 378989,
+        "num": 378989,
+        "word": "3D打印肉将投入商业领域",
+        "onboard_time": 1665149305,
+        "rank": 9,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 372403,
+        "num": 372403,
+        "word": "换乘恋爱",
+        "onboard_time": 1665132621,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370240,
+        "num": 370240,
+        "word": "唐朝诡事录群像",
+        "onboard_time": 1665150326,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 323333,
+        "num": 323333,
+        "word": "刘宇柳叶刀收藏量破百万",
+        "onboard_time": 1665151829,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 315764,
+        "num": 315764,
+        "word": "看王濛晒狗太真实了",
+        "onboard_time": 1665140180,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304621,
+        "num": 304621,
+        "word": "江西从40℃直接降至17℃",
+        "onboard_time": 1665124644,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282980,
+        "num": 282980,
+        "word": "老人穿衣服被拉链卡住眼皮",
+        "onboard_time": 1665149783,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275949,
+        "num": 275949,
+        "word": "利特张元英担任AAA颁奖礼主持人",
+        "onboard_time": 1665147143,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267612,
+        "num": 267612,
+        "word": "蔡猛解说",
+        "onboard_time": 1665149844,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236443,
+        "num": 236443,
+        "word": "张彬彬说都别惦记我的化石了",
+        "onboard_time": 1665148222,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 224918,
+        "num": 224918,
+        "word": "快递小哥为当飞行员一周减重16斤",
+        "onboard_time": 1665140962,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209694,
+        "num": 209694,
+        "word": "怎么和孩子愉快交流",
+        "onboard_time": 1665151525,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203919,
+        "num": 203919,
+        "word": "上海社会面新增3例无症状感染者",
+        "onboard_time": 1665136642,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195724,
+        "num": 195724,
+        "word": "于和伟有点延迟在身上",
+        "onboard_time": 1665151584,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180172,
+        "num": 180172,
+        "word": "虞书欣虞美人雨夜大片",
+        "onboard_time": 1665151525,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161894,
+        "num": 161894,
+        "word": "王楚钦3比2卡尔森",
+        "onboard_time": 1665150566,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161729,
+        "num": 161729,
+        "word": "父子俩跟同一位导师读博",
+        "onboard_time": 1665142821,
+        "rank": 25,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 156365,
+        "num": 156365,
+        "word": "大爷起床后懵圈将10万房租转错人",
+        "onboard_time": 1665137723,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155640,
+        "num": 155640,
+        "word": "S12小组赛开赛",
+        "onboard_time": 1665143964,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150909,
+        "num": 150909,
+        "word": "白鹿晒宁安如梦配音随拍",
+        "onboard_time": 1665140843,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146033,
+        "num": 146033,
+        "word": "成都东站疫情防控",
+        "onboard_time": 1665137480,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142761,
+        "num": 142761,
+        "word": "南京超小号警犬已上岗7天",
+        "onboard_time": 1665142224,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139313,
+        "num": 139313,
+        "word": "李一桐哭戏爆发力",
+        "onboard_time": 1665147684,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137952,
+        "num": 137952,
+        "word": "田雯雯康复后被孤立",
+        "onboard_time": 1665151704,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132322,
+        "num": 132322,
+        "word": "TF家族三代路演",
+        "onboard_time": 1665132982,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127809,
+        "num": 127809,
+        "word": "山西运城发现31例核酸异常人员",
+        "onboard_time": 1665127942,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118635,
+        "num": 118635,
+        "word": "车银优韩素希李洙赫网漫第一集预告",
+        "onboard_time": 1665133342,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 117308,
+        "num": 117308,
+        "word": "马龙3比0莫雷加德",
+        "onboard_time": 1665147083,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113775,
+        "num": 113775,
+        "word": "2个穴位缓解干眼问题",
+        "onboard_time": 1665148823,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107036,
+        "num": 107036,
+        "word": "男子连拧7瓶饮料看是否中奖",
+        "onboard_time": 1665128784,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105732,
+        "num": 105732,
+        "word": "北京朝阳新增感染者为货车司机",
+        "onboard_time": 1665138621,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117715,
+        "num": 104658,
+        "word": "王俊凯模仿张译表情包",
+        "onboard_time": 1665142342,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102343,
+        "num": 102343,
+        "word": "李冰冰骨子里的东方韵味",
+        "onboard_time": 1665141503,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 99143,
+        "num": 99143,
+        "word": "山东男篮战胜辽宁男篮",
+        "onboard_time": 1665151165,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98421,
+        "num": 98421,
+        "word": "请君的收官战报",
+        "onboard_time": 1665148525,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91454,
+        "num": 91454,
+        "word": "只要心态好天天都是放假",
+        "onboard_time": 1665143183,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 78030,
+        "num": 78030,
+        "word": "女子河滩抓鱼无果捡回一串塑料瓶",
+        "onboard_time": 1665141262,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77852,
+        "num": 77852,
+        "word": "妈妈背2个月滕王阁序免费进景区",
+        "onboard_time": 1665121764,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72565,
+        "num": 72565,
+        "word": "国乒男团3比0完胜瑞典",
+        "onboard_time": 1665150683,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71511,
+        "num": 71511,
+        "word": "员工当顾客面把扫地垃圾倒进餐盘",
+        "onboard_time": 1665131364,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69565,
+        "num": 69565,
+        "word": "新疆新增本土无症状感染者96例",
+        "onboard_time": 1665128003,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#坐标中国#"
+    }
+  }
+}
