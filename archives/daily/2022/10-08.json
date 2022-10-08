@@ -1,6 +1,6 @@
 {
   "startTime": 1665160801801,
-  "endTime": 1665214942571,
+  "endTime": 1665217926019,
   "band_list": [
     {
       "raw_hot": 2766988,
@@ -25,6 +25,22 @@
       "onboard_time": 1665199284,
       "rank": 0,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1992534,
+      "num": 1992534,
+      "word": "王楚钦vs张本智和",
+      "onboard_time": 1665215484,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1823183,
+      "num": 1823183,
+      "word": "情侣相约减肥80天后双双大变样",
+      "onboard_time": 1665212841,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1593804,
@@ -115,6 +131,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 971691,
+      "num": 971691,
+      "word": "女子坐高铁抽电子烟",
+      "onboard_time": 1665211762,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 928441,
+      "num": 928441,
+      "word": "中国男团vs日本男团",
+      "onboard_time": 1665211640,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 833342,
+      "num": 833342,
+      "word": "普京下令调查克里米亚大桥事故原因",
+      "onboard_time": 1665214703,
+      "rank": 46,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 830237,
       "num": 830237,
       "word": "男子订婚当天喝醉摔倒在河边",
@@ -131,28 +171,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 758940,
-      "num": 758940,
-      "word": "情侣相约减肥80天后双双大变样",
-      "onboard_time": 1665212841,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 736056,
       "num": 736056,
       "word": "美国芯片巨头一夜暴跌近14%",
       "onboard_time": 1665202406,
       "rank": 4,
       "category": "财经"
-    },
-    {
-      "raw_hot": 728415,
-      "num": 347051,
-      "word": "女子坐高铁抽电子烟",
-      "onboard_time": 1665211762,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 726298,
@@ -179,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 692592,
+      "num": 692592,
+      "word": "乌方称克里米亚大桥事件仅是开始",
+      "onboard_time": 1665216203,
+      "rank": 6,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 683084,
       "num": 683084,
       "word": "爱奇艺待播剧爆款预定",
@@ -201,14 +233,6 @@
       "onboard_time": 1665195082,
       "rank": 35,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 624738,
-      "num": 624738,
-      "word": "中国男团vs日本男团",
-      "onboard_time": 1665211640,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 613432,
@@ -299,6 +323,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 457934,
+      "num": 457934,
+      "word": "TMA",
+      "onboard_time": 1665216925,
+      "rank": 10,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 453862,
       "num": 453862,
       "word": "金毛哥哥帮生病弟弟举吊瓶",
@@ -385,6 +417,14 @@
       "onboard_time": 1665152125,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 352989,
+      "num": 352989,
+      "word": "樊振东17板极限对拉",
+      "onboard_time": 1665215843,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 351694,
@@ -579,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253285,
+      "num": 253285,
+      "word": "姐弟抱奶奶腿阻止宰从小养大的鸭子",
+      "onboard_time": 1665212901,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246094,
       "num": 246094,
       "word": "被街头卖花的奶奶美到了",
@@ -593,6 +641,14 @@
       "onboard_time": 1665193223,
       "rank": 30,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 243746,
+      "num": 243746,
+      "word": "狗狗陪主人出门冻得不停抖腿",
+      "onboard_time": 1665211283,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241504,
@@ -635,14 +691,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 230684,
-      "num": 230684,
-      "word": "狗狗陪主人出门冻得不停抖腿",
-      "onboard_time": 1665211283,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 228235,
       "num": 228235,
       "word": "甘宇出院",
@@ -657,6 +705,14 @@
       "onboard_time": 1665177070,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225283,
+      "num": 82706,
+      "word": "张译王俊凯殷桃万里归途票房破11亿",
+      "onboard_time": 1665217885,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 224468,
@@ -859,6 +915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 155059,
+      "num": 155059,
+      "word": "万里归途中的外交人员家属",
+      "onboard_time": 1665217104,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 151670,
       "num": 151670,
       "word": "男子产房外手捧鲜花等候妻子生产",
@@ -931,6 +995,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 138203,
+      "num": 138203,
+      "word": "成都世乒赛团体赛",
+      "onboard_time": 1665214760,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133231,
       "num": 133231,
       "word": "去过丰台这一公厕人员请报告",
@@ -947,20 +1019,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 125612,
-      "num": 125612,
-      "word": "姐弟抱奶奶腿阻止宰从小养大的鸭子",
-      "onboard_time": 1665212901,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125418,
-      "num": 125418,
-      "word": "成都世乒赛团体赛",
-      "onboard_time": 1665214760,
-      "rank": 34,
-      "category": "体育"
+      "raw_hot": 128712,
+      "num": 128712,
+      "word": "金瀚倒立喝牛奶",
+      "onboard_time": 1665217405,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 119744,
@@ -987,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112534,
+      "num": 112534,
+      "word": "世界第一樊振东",
+      "onboard_time": 1665217524,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107503,
       "num": 107503,
       "word": "田雯雯康复后被孤立",
@@ -995,12 +1067,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 104882,
+      "num": 104882,
+      "word": "爬山爬一半发现景点在对面山头",
+      "onboard_time": 1665217524,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104791,
       "num": 104791,
       "word": "S12小组赛开赛",
       "onboard_time": 1665143964,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 104201,
+      "num": 104201,
+      "word": "研究称悲伤孤独比吸烟更加速衰老",
+      "onboard_time": 1665217044,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103492,
@@ -1051,6 +1139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87830,
+      "num": 87830,
+      "word": "檀健次沸腾校园牛仔套装造型",
+      "onboard_time": 1665215843,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 87697,
       "num": 87697,
       "word": "英雄联盟S12",
@@ -1083,20 +1179,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 84830,
-      "num": 84830,
-      "word": "普京下令调查克里米亚大桥事故原因",
-      "onboard_time": 1665214703,
-      "rank": 46,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 83725,
       "num": 83725,
       "word": "寒露是第一个带寒字的节气",
       "onboard_time": 1665194423,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83252,
+      "num": 83252,
+      "word": "樊振东3比0户上隼辅",
+      "onboard_time": 1665215963,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 78780,
@@ -1265,6 +1361,22 @@
       "onboard_time": 1665148823,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 32375,
+      "num": 1258062,
+      "word": "我国成功在海上发射一箭双星",
+      "onboard_time": 1665217223,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 31866,
+      "num": 277264,
+      "word": "林俊德院士的遗言让人泪目",
+      "onboard_time": 1665217163,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22535,
@@ -1455,6 +1567,9 @@
     },
     {
       "word": "#坐标中国#"
+    },
+    {
+      "word": "#聚焦二十大#"
     }
   ]
 }

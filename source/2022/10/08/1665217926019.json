@@ -1,0 +1,410 @@
+{
+  "runTime": 1665217926019,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1992534,
+        "num": 1992534,
+        "word": "王楚钦vs张本智和",
+        "onboard_time": 1665215484,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1823183,
+        "num": 1823183,
+        "word": "情侣相约减肥80天后双双大变样",
+        "onboard_time": 1665212841,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32375,
+        "num": 1258062,
+        "word": "我国成功在海上发射一箭双星",
+        "onboard_time": 1665217223,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 971691,
+        "num": 971691,
+        "word": "女子坐高铁抽电子烟",
+        "onboard_time": 1665211762,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 928441,
+        "num": 928441,
+        "word": "中国男团vs日本男团",
+        "onboard_time": 1665211640,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 833342,
+        "num": 833342,
+        "word": "普京下令调查克里米亚大桥事故原因",
+        "onboard_time": 1665214703,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 692592,
+        "num": 692592,
+        "word": "乌方称克里米亚大桥事件仅是开始",
+        "onboard_time": 1665216203,
+        "rank": 6,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 683264,
+        "num": 683264,
+        "word": "刻赤海峡大桥发生火灾",
+        "onboard_time": 1665208764,
+        "rank": 7,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 635575,
+        "num": 635575,
+        "word": "原来周一可以有三天",
+        "onboard_time": 1665206005,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 458548,
+        "num": 458548,
+        "word": "闹钟没响",
+        "onboard_time": 1665205585,
+        "rank": 9,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 457934,
+        "num": 457934,
+        "word": "TMA",
+        "onboard_time": 1665216925,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 442873,
+        "num": 442873,
+        "word": "双胞胎姐妹同天出嫁新郎接亲时懵了",
+        "onboard_time": 1665208884,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352989,
+        "num": 352989,
+        "word": "樊振东17板极限对拉",
+        "onboard_time": 1665215843,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 337451,
+        "num": 337451,
+        "word": "马斯克称将亲自殖民火星",
+        "onboard_time": 1665212602,
+        "rank": 13,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 31866,
+        "num": 277264,
+        "word": "林俊德院士的遗言让人泪目",
+        "onboard_time": 1665217163,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253285,
+        "num": 253285,
+        "word": "姐弟抱奶奶腿阻止宰从小养大的鸭子",
+        "onboard_time": 1665212901,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243746,
+        "num": 243746,
+        "word": "狗狗陪主人出门冻得不停抖腿",
+        "onboard_time": 1665211283,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210892,
+        "num": 210892,
+        "word": "浙江发现新物种白盖鸡油菌",
+        "onboard_time": 1665210322,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191192,
+        "num": 191192,
+        "word": "樊振东vs户上隼辅",
+        "onboard_time": 1665213803,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186983,
+        "num": 186983,
+        "word": "赵露思陈哲远偷偷藏不住海边吻戏路透",
+        "onboard_time": 1665206724,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165290,
+        "num": 165290,
+        "word": "肖战杭州亚运会第三轮歌曲征集宣传VCR",
+        "onboard_time": 1665204145,
+        "rank": 20,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 155059,
+        "num": 155059,
+        "word": "万里归途中的外交人员家属",
+        "onboard_time": 1665217104,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141566,
+        "num": 141566,
+        "word": "程潇赞多小鬼街舞5官宣",
+        "onboard_time": 1665208043,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163394,
+        "num": 141371,
+        "word": "王一博杭州亚运会歌曲征集宣传视频",
+        "onboard_time": 1665210021,
+        "rank": 23,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 139335,
+        "num": 139335,
+        "word": "王鹤棣人物大片live图",
+        "onboard_time": 1665209363,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138203,
+        "num": 138203,
+        "word": "成都世乒赛团体赛",
+        "onboard_time": 1665214760,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137962,
+        "num": 137962,
+        "word": "朝鲜称其导弹发射针对美国",
+        "onboard_time": 1665204684,
+        "rank": 26,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 130530,
+        "num": 130530,
+        "word": "爸爸带厌学男孩工地搬钢筋",
+        "onboard_time": 1665200965,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128712,
+        "num": 128712,
+        "word": "金瀚倒立喝牛奶",
+        "onboard_time": 1665217405,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125053,
+        "num": 125053,
+        "word": "RNG战胜GEN",
+        "onboard_time": 1665199284,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124189,
+        "num": 124189,
+        "word": "美国芯片巨头一夜暴跌近14%",
+        "onboard_time": 1665202406,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 121900,
+        "num": 121900,
+        "word": "马斯克官宣特斯拉电动卡车投产",
+        "onboard_time": 1665204085,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 119639,
+        "num": 119639,
+        "word": "管泽元",
+        "onboard_time": 1665200540,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 112534,
+        "num": 112534,
+        "word": "世界第一樊振东",
+        "onboard_time": 1665217524,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111839,
+        "num": 111839,
+        "word": "国庆假期后油价或再下调",
+        "onboard_time": 1665209125,
+        "rank": 34,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 109404,
+        "num": 109404,
+        "word": "它是我见过最温顺的猴子了",
+        "onboard_time": 1665206304,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 104882,
+        "num": 104882,
+        "word": "爬山爬一半发现景点在对面山头",
+        "onboard_time": 1665217524,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104201,
+        "num": 104201,
+        "word": "研究称悲伤孤独比吸烟更加速衰老",
+        "onboard_time": 1665217044,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97827,
+        "num": 97827,
+        "word": "郑州人民医院停诊",
+        "onboard_time": 1665197542,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97206,
+        "num": 97206,
+        "word": "德国男团晋级决赛",
+        "onboard_time": 1665213922,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96462,
+        "num": 96462,
+        "word": "郑钧用肚子表演翻江倒海",
+        "onboard_time": 1665209962,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95230,
+        "num": 95230,
+        "word": "脱口秀女演员的力量感",
+        "onboard_time": 1665208103,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90863,
+        "num": 90863,
+        "word": "建议张远去喜剧大赛当婚庆歌手",
+        "onboard_time": 1665212002,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90640,
+        "num": 90640,
+        "word": "过于先进不宜展示的画面来了",
+        "onboard_time": 1665195082,
+        "rank": 43,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 87830,
+        "num": 87830,
+        "word": "檀健次沸腾校园牛仔套装造型",
+        "onboard_time": 1665215843,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 85227,
+        "num": 85227,
+        "word": "金毛哥哥帮生病弟弟举吊瓶",
+        "onboard_time": 1665198745,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83252,
+        "num": 83252,
+        "word": "樊振东3比0户上隼辅",
+        "onboard_time": 1665215963,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225283,
+        "num": 82706,
+        "word": "张译王俊凯殷桃万里归途票房破11亿",
+        "onboard_time": 1665217885,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 80789,
+        "num": 80789,
+        "word": "男子订婚当天喝醉摔倒在河边",
+        "onboard_time": 1665194182,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77366,
+        "num": 77366,
+        "word": "浙江一学霸村实现户户有大学生",
+        "onboard_time": 1665197602,
+        "rank": 49,
+        "category": "教育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#聚焦二十大#"
+    }
+  }
+}
