@@ -1,7 +1,15 @@
 {
   "startTime": 1665160801801,
-  "endTime": 1665201644374,
+  "endTime": 1665202372576,
   "band_list": [
+    {
+      "raw_hot": 2357498,
+      "num": 2357498,
+      "word": "郑州人民医院停诊",
+      "onboard_time": 1665197542,
+      "rank": 1,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2011028,
       "num": 2011028,
@@ -9,14 +17,6 @@
       "onboard_time": 1665199284,
       "rank": 0,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1982239,
-      "num": 1982239,
-      "word": "郑州人民医院停诊",
-      "onboard_time": 1665197542,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1593804,
@@ -67,6 +67,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 855211,
+      "num": 744107,
+      "word": "管泽元",
+      "onboard_time": 1665200540,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 830237,
       "num": 830237,
       "word": "男子订婚当天喝醉摔倒在河边",
@@ -99,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 690422,
+      "num": 690422,
+      "word": "吴京拿水瓶指着王俊凯的头",
+      "onboard_time": 1665199704,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 683084,
       "num": 683084,
       "word": "爱奇艺待播剧爆款预定",
@@ -107,8 +123,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 619058,
-      "num": 619058,
+      "raw_hot": 628008,
+      "num": 628008,
       "word": "过于先进不宜展示的画面来了",
       "onboard_time": 1665195082,
       "rank": 35,
@@ -123,14 +139,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 613127,
-      "num": 613127,
-      "word": "吴京拿水瓶指着王俊凯的头",
-      "onboard_time": 1665199704,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
       "raw_hot": 605094,
       "num": 605094,
       "word": "T1对战EDG",
@@ -139,8 +147,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 541814,
-      "num": 541814,
+      "raw_hot": 566001,
+      "num": 566001,
       "word": "浙江一学霸村实现户户有大学生",
       "onboard_time": 1665197602,
       "rank": 7,
@@ -155,14 +163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 508419,
-      "num": 508419,
-      "word": "管泽元",
-      "onboard_time": 1665200540,
-      "rank": 9,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 502788,
       "num": 502788,
       "word": "如果今天你觉得七天很短",
@@ -171,19 +171,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 476798,
+      "num": 476798,
+      "word": "田惠宇被双开",
+      "onboard_time": 1665197542,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 468772,
       "num": 468772,
       "word": "女孩捡手机欲归还疑被大人阻止",
       "onboard_time": 1665159322,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 463948,
-      "num": 463948,
-      "word": "田惠宇被双开",
-      "onboard_time": 1665197542,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -291,8 +291,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 327595,
-      "num": 327595,
+      "raw_hot": 329260,
+      "num": 329260,
       "word": "父亲国庆返岗9岁女儿偷塞100块",
       "onboard_time": 1665196882,
       "rank": 17,
@@ -331,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 284052,
+      "num": 284052,
+      "word": "节后上班emo了吗",
+      "onboard_time": 1665196223,
+      "rank": 24,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 279349,
       "num": 279349,
       "word": "女子国庆返程父母塞了满车土特产",
@@ -355,12 +363,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 265063,
+      "num": 265063,
+      "word": "如果有个空气炸锅",
+      "onboard_time": 1665199103,
+      "rank": 26,
+      "category": "幽默,美食"
+    },
+    {
       "raw_hot": 264696,
       "num": 264696,
       "word": "今天寒露",
       "onboard_time": 1665185839,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259137,
+      "num": 259137,
+      "word": "沈月晒我的反派男友库存照",
+      "onboard_time": 1665202224,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 246094,
@@ -377,14 +401,6 @@
       "onboard_time": 1665193223,
       "rank": 30,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 243747,
-      "num": 243747,
-      "word": "节后上班emo了吗",
-      "onboard_time": 1665196223,
-      "rank": 24,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 241504,
@@ -443,12 +459,20 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 217787,
-      "num": 217787,
-      "word": "如果有个空气炸锅",
-      "onboard_time": 1665199103,
-      "rank": 26,
-      "category": "幽默,美食"
+      "raw_hot": 213727,
+      "num": 213727,
+      "word": "爸爸带厌学男孩工地搬钢筋",
+      "onboard_time": 1665200965,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208932,
+      "num": 208932,
+      "word": "李克勤两年好声音选了李荣浩同一首歌",
+      "onboard_time": 1665200183,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 207412,
@@ -539,6 +563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 171524,
+      "num": 171524,
+      "word": "湖北昨日新增本土无症状108例",
+      "onboard_time": 1665197362,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170126,
       "num": 169717,
       "word": "成毅蔡文静底线双向奔赴",
@@ -579,28 +611,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161244,
-      "num": 161244,
-      "word": "湖北昨日新增本土无症状108例",
-      "onboard_time": 1665197362,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 157827,
       "num": 157827,
       "word": "错过相爱的人会遗憾一辈子",
       "onboard_time": 1665143662,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 151672,
-      "num": 151672,
-      "word": "李克勤两年好声音选了李荣浩同一首歌",
-      "onboard_time": 1665200183,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 151670,
@@ -659,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133003,
+      "num": 133003,
+      "word": "萌鸟仅存约700只全球告危",
+      "onboard_time": 1665201626,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131470,
       "num": 131470,
       "word": "蒲熠星说在脑力节目里尽情展现了体力",
@@ -675,20 +699,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 117798,
-      "num": 117798,
-      "word": "爸爸带厌学男孩工地搬钢筋",
-      "onboard_time": 1665200965,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 113816,
       "num": 113816,
       "word": "凤凰县城区临时全域静默管控",
       "onboard_time": 1665155668,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110973,
+      "num": 110973,
+      "word": "TI11",
+      "onboard_time": 1665201084,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 107503,
@@ -721,14 +745,6 @@
       "onboard_time": 1665124644,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 95144,
-      "num": 95144,
-      "word": "TI11",
-      "onboard_time": 1665201084,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 94204,
@@ -792,14 +808,6 @@
       "word": "河南新增本土确诊4例无症状21例",
       "onboard_time": 1665175212,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 83896,
-      "num": 83059,
-      "word": "萌鸟仅存约700只全球告危",
-      "onboard_time": 1665201626,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -947,6 +955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30409,
+      "num": 386486,
+      "word": "货车起火退伍军人狂追5公里拦截",
+      "onboard_time": 1665201684,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22522,
       "num": 22522,
       "word": "虞书欣虞美人雨夜大片",
@@ -964,7 +980,7 @@
     },
     {
       "raw_hot": 9435,
-      "num": 1035806,
+      "num": 1061877,
       "word": "江河奔腾看中国",
       "onboard_time": 1665128123,
       "rank": 2,
