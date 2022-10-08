@@ -1,6 +1,6 @@
 {
   "startTime": 1665160801801,
-  "endTime": 1665186453949,
+  "endTime": 1665194659837,
   "band_list": [
     {
       "raw_hot": 1593804,
@@ -9,6 +9,14 @@
       "onboard_time": 1665148584,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1518658,
+      "num": 1518658,
+      "word": "上海疫情防控",
+      "onboard_time": 1665189144,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1384532,
@@ -27,6 +35,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 784875,
+      "num": 784875,
+      "word": "第一次见这么丑的猫",
+      "onboard_time": 1665187280,
+      "rank": 3,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 712944,
+      "num": 712944,
+      "word": "2022法定节假日已用完",
+      "onboard_time": 1665186920,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 683084,
       "num": 683084,
       "word": "爱奇艺待播剧爆款预定",
@@ -35,12 +59,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 628900,
+      "num": 628900,
+      "word": "10月7日新增本土无症状1301例",
+      "onboard_time": 1665192264,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 613432,
       "num": 613432,
       "word": "美国费城就不道德医学实验道歉",
       "onboard_time": 1665158603,
       "rank": 20,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 593188,
+      "num": 593188,
+      "word": "北方人已经搬出了羽绒服",
+      "onboard_time": 1665191724,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 502788,
@@ -56,6 +96,30 @@
       "word": "女孩捡手机欲归还疑被大人阻止",
       "onboard_time": 1665159322,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 447864,
+      "num": 408942,
+      "word": "新疆新增本土无症状感染者344例",
+      "onboard_time": 1665192143,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 413323,
+      "num": 413323,
+      "word": "T1对战EDG",
+      "onboard_time": 1665192802,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 387398,
+      "num": 387398,
+      "word": "一个人抱三只大熊猫会怎样",
+      "onboard_time": 1665188543,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -83,6 +147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 351694,
+      "num": 351694,
+      "word": "gidle将完整体出击认哥",
+      "onboard_time": 1665192203,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 339610,
       "num": 339610,
       "word": "参加前任的婚礼是什么体验",
@@ -91,12 +163,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 319860,
+      "num": 319860,
+      "word": "上海社会面新增3例无症状感染者",
+      "onboard_time": 1665136642,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305629,
+      "num": 305629,
+      "word": "10月7日新增本土确诊447例",
+      "onboard_time": 1665192264,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296514,
       "num": 296514,
       "word": "距离下个假期还有85天",
       "onboard_time": 1665146602,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 279349,
+      "num": 279349,
+      "word": "女子国庆返程父母塞了满车土特产",
+      "onboard_time": 1665191303,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267405,
+      "num": 267405,
+      "word": "海恩贤圭牵手了",
+      "onboard_time": 1665186259,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 264696,
@@ -131,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232617,
+      "num": 232617,
+      "word": "央视广告曲能有多大气",
+      "onboard_time": 1665187404,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 225831,
       "num": 225831,
       "word": "海南倡导支持男女共担家务",
@@ -155,12 +267,20 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 198905,
-      "num": 198905,
-      "word": "上海社会面新增3例无症状感染者",
-      "onboard_time": 1665136642,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 209444,
+      "num": 209444,
+      "word": "勇士全力调查冲突视频如何泄露",
+      "onboard_time": 1665192982,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 207412,
+      "num": 207412,
+      "word": "这标语谁看了敢不听话啊",
+      "onboard_time": 1665189202,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 197112,
@@ -195,12 +315,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189481,
+      "num": 189481,
+      "word": "JDG战胜EG",
+      "onboard_time": 1665191543,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 184534,
+      "num": 184534,
+      "word": "沈阳新增1例本土确诊病例",
+      "onboard_time": 1665193762,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183489,
       "num": 183489,
       "word": "世卫对4款印度产止咳糖浆发出警告",
       "onboard_time": 1665174070,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181782,
+      "num": 181782,
+      "word": "中餐厅",
+      "onboard_time": 1665185719,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 178375,
@@ -235,6 +379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 163483,
+      "num": 163483,
+      "word": "广东将加入降温群聊",
+      "onboard_time": 1665187642,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157827,
       "num": 157827,
       "word": "错过相爱的人会遗憾一辈子",
@@ -243,12 +395,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 150974,
-      "num": 150974,
+      "raw_hot": 151670,
+      "num": 151670,
       "word": "男子产房外手捧鲜花等候妻子生产",
       "onboard_time": 1665174670,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150263,
+      "num": 150263,
+      "word": "国庆结束老师高铁上忙着改试卷",
+      "onboard_time": 1665193223,
+      "rank": 30,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 150235,
@@ -260,11 +420,19 @@
     },
     {
       "raw_hot": 149342,
-      "num": 59996,
+      "num": 89715,
       "word": "从今天起就是深秋了",
       "onboard_time": 1665186441,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147715,
+      "num": 147715,
+      "word": "节后上班第一天",
+      "onboard_time": 1665190402,
+      "rank": 32,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 142157,
@@ -297,6 +465,14 @@
       "onboard_time": 1665185780,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130347,
+      "num": 130347,
+      "word": "男子订婚当天喝醉摔倒在河边",
+      "onboard_time": 1665194182,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118122,
@@ -339,12 +515,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 100670,
+      "num": 100670,
+      "word": "被街头卖花的奶奶美到了",
+      "onboard_time": 1665189921,
+      "rank": 42,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 99265,
       "num": 99265,
       "word": "江西从40℃直接降至17℃",
       "onboard_time": 1665124644,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94204,
+      "num": 94204,
+      "word": "高校00后组建养生社团引人围观",
+      "onboard_time": 1665190102,
+      "rank": 43,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 93350,
@@ -395,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83725,
+      "num": 83725,
+      "word": "寒露是第一个带寒字的节气",
+      "onboard_time": 1665194423,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78780,
       "num": 78780,
       "word": "国足世界杯出线21周年",
@@ -417,14 +617,6 @@
       "onboard_time": 1665149305,
       "rank": 34,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 66889,
-      "num": 66889,
-      "word": "海恩贤圭牵手了",
-      "onboard_time": 1665186259,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 63890,
@@ -473,14 +665,6 @@
       "onboard_time": 1665147684,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 55654,
-      "num": 55654,
-      "word": "中餐厅",
-      "onboard_time": 1665185719,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 53573,
@@ -563,6 +747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 9435,
+      "num": 979388,
+      "word": "江河奔腾看中国",
+      "onboard_time": 1665128123,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 8324,
       "num": 8324,
       "word": "梅西小腿不适接受治疗",
@@ -585,14 +777,6 @@
       "onboard_time": 1665173049,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 6532,
-      "num": 979388,
-      "word": "江河奔腾看中国",
-      "onboard_time": 1665128123,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 6424,

@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1665186453949,
+  "endTime": 1665194659837,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -312,6 +312,14 @@
       "word": "女子买煎饼加料加出下颌关节炎",
       "onboard_time": 1665027503,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1518658,
+      "num": 1518658,
+      "word": "上海疫情防控",
+      "onboard_time": 1665189144,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -955,6 +963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 784875,
+      "num": 784875,
+      "word": "第一次见这么丑的猫",
+      "onboard_time": 1665187280,
+      "rank": 3,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 782989,
       "num": 547682,
       "word": "TouchID不太可能回到iPhone",
@@ -1088,6 +1104,14 @@
       "word": "山西祁县婚宴密接中16人核酸阳性",
       "onboard_time": 1665124041,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 712944,
+      "num": 712944,
+      "word": "2022法定节假日已用完",
+      "onboard_time": 1665186920,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -1251,6 +1275,14 @@
       "category": "国外要闻,财经"
     },
     {
+      "raw_hot": 628900,
+      "num": 628900,
+      "word": "10月7日新增本土无症状1301例",
+      "onboard_time": 1665192264,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 625031,
       "num": 625031,
       "word": "王俊凯万里归途票房破9亿",
@@ -1313,6 +1345,14 @@
       "onboard_time": 1665111504,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 593188,
+      "num": 593188,
+      "word": "北方人已经搬出了羽绒服",
+      "onboard_time": 1665191724,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 591463,
@@ -2115,6 +2155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 447864,
+      "num": 408942,
+      "word": "新疆新增本土无症状感染者344例",
+      "onboard_time": 1665192143,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 447725,
       "num": 447725,
       "word": "追梦格林道歉",
@@ -2363,6 +2411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 413323,
+      "num": 413323,
+      "word": "T1对战EDG",
+      "onboard_time": 1665192802,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 411074,
       "num": 411074,
       "word": "范世錡晒无与伦比的美丽live图",
@@ -2593,6 +2649,14 @@
       "onboard_time": 1664958263,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 387398,
+      "num": 387398,
+      "word": "一个人抱三只大熊猫会怎样",
+      "onboard_time": 1665188543,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 386178,
@@ -2873,6 +2937,14 @@
       "onboard_time": 1664789902,
       "rank": 38,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 351694,
+      "num": 351694,
+      "word": "gidle将完整体出击认哥",
+      "onboard_time": 1665192203,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 351259,
@@ -3195,6 +3267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 305629,
+      "num": 305629,
+      "word": "10月7日新增本土确诊447例",
+      "onboard_time": 1665192264,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 305575,
       "num": 305575,
       "word": "王俊凯万里归途票房破8亿海报",
@@ -3459,6 +3539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 279349,
+      "num": 279349,
+      "word": "女子国庆返程父母塞了满车土特产",
+      "onboard_time": 1665191303,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278220,
       "num": 278220,
       "word": "马嘉祺晒我们的歌新花絮照",
@@ -3617,6 +3705,14 @@
       "onboard_time": 1665052943,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267405,
+      "num": 267405,
+      "word": "海恩贤圭牵手了",
+      "onboard_time": 1665186259,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 266234,
@@ -4147,6 +4243,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 232617,
+      "num": 232617,
+      "word": "央视广告曲能有多大气",
+      "onboard_time": 1665187404,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 232019,
       "num": 232019,
       "word": "守望先锋归来上线",
@@ -4603,6 +4707,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 209444,
+      "num": 209444,
+      "word": "勇士全力调查冲突视频如何泄露",
+      "onboard_time": 1665192982,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209107,
       "num": 209107,
       "word": "洒水车路遇摆摊阿姨精准关水避让",
@@ -4641,6 +4753,14 @@
       "onboard_time": 1664720724,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207412,
+      "num": 207412,
+      "word": "这标语谁看了敢不听话啊",
+      "onboard_time": 1665189202,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 207269,
@@ -5019,6 +5139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189481,
+      "num": 189481,
+      "word": "JDG战胜EG",
+      "onboard_time": 1665191543,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 187795,
       "num": 187795,
       "word": "万里归途后遗症",
@@ -5099,6 +5227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184534,
+      "num": 184534,
+      "word": "沈阳新增1例本土确诊病例",
+      "onboard_time": 1665193762,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184173,
       "num": 184173,
       "word": "北溪管道爆炸威力相当于数百公斤炸药",
@@ -5137,6 +5273,14 @@
       "onboard_time": 1664771541,
       "rank": 23,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 181782,
+      "num": 181782,
+      "word": "中餐厅",
+      "onboard_time": 1665185719,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 181321,
@@ -5507,6 +5651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163483,
+      "num": 163483,
+      "word": "广东将加入降温群聊",
+      "onboard_time": 1665187642,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163256,
       "num": 163256,
       "word": "老一辈做的饭菜有多香",
@@ -5795,6 +5947,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 151670,
+      "num": 151670,
+      "word": "男子产房外手捧鲜花等候妻子生产",
+      "onboard_time": 1665174670,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151102,
       "num": 151102,
       "word": "周传雄陆虎合唱黄昏",
@@ -5803,20 +5963,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 150974,
-      "num": 150974,
-      "word": "男子产房外手捧鲜花等候妻子生产",
-      "onboard_time": 1665174670,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 150634,
       "num": 150634,
       "word": "王一博街舞5微电影排练花絮",
       "onboard_time": 1664858543,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150263,
+      "num": 150263,
+      "word": "国庆结束老师高铁上忙着改试卷",
+      "onboard_time": 1665193223,
+      "rank": 30,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 150235,
@@ -5852,7 +6012,7 @@
     },
     {
       "raw_hot": 149342,
-      "num": 59996,
+      "num": 89715,
       "word": "从今天起就是深秋了",
       "onboard_time": 1665186441,
       "rank": 47,
@@ -5889,6 +6049,14 @@
       "onboard_time": 1664984963,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147715,
+      "num": 147715,
+      "word": "节后上班第一天",
+      "onboard_time": 1665190402,
+      "rank": 32,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 146563,
@@ -6361,6 +6529,14 @@
       "onboard_time": 1665131064,
       "rank": 37,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 130347,
+      "num": 130347,
+      "word": "男子订婚当天喝醉摔倒在河边",
+      "onboard_time": 1665194182,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130178,
@@ -7187,6 +7363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 100670,
+      "num": 100670,
+      "word": "被街头卖花的奶奶美到了",
+      "onboard_time": 1665189921,
+      "rank": 42,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 100341,
       "num": 100341,
       "word": "孙颖莎3比0莱恩",
@@ -7369,6 +7553,14 @@
       "onboard_time": 1665108564,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94204,
+      "num": 94204,
+      "word": "高校00后组建养生社团引人围观",
+      "onboard_time": 1665190102,
+      "rank": 43,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 93286,
@@ -7616,6 +7808,14 @@
       "word": "长春6旬大爷坚持滑雪21年",
       "onboard_time": 1664884103,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83725,
+      "num": 83725,
+      "word": "寒露是第一个带寒字的节气",
+      "onboard_time": 1665194423,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -8027,14 +8227,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 66889,
-      "num": 66889,
-      "word": "海恩贤圭牵手了",
-      "onboard_time": 1665186259,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 66409,
       "num": 66409,
       "word": "被东北虎林园的小老虎萌到了",
@@ -8257,14 +8449,6 @@
       "onboard_time": 1664775741,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 55654,
-      "num": 55654,
-      "word": "中餐厅",
-      "onboard_time": 1665185719,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 54866,
