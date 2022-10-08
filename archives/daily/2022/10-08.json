@@ -1,6 +1,6 @@
 {
   "startTime": 1665160801801,
-  "endTime": 1665207242710,
+  "endTime": 1665208245273,
   "band_list": [
     {
       "raw_hot": 2357498,
@@ -9,6 +9,14 @@
       "onboard_time": 1665197542,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2213266,
+      "num": 2213266,
+      "word": "闹钟没响",
+      "onboard_time": 1665205585,
+      "rank": 0,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 2011028,
@@ -83,12 +91,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1005352,
-      "num": 1005352,
-      "word": "闹钟没响",
-      "onboard_time": 1665205585,
-      "rank": 0,
-      "category": "情感,幽默"
+      "raw_hot": 972078,
+      "num": 972078,
+      "word": "原来周一可以有三天",
+      "onboard_time": 1665206005,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 830237,
@@ -203,6 +211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 485208,
+      "num": 417615,
+      "word": "赵露思陈哲远偷偷藏不住海边吻戏路透",
+      "onboard_time": 1665206724,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 476798,
       "num": 476798,
       "word": "田惠宇被双开",
@@ -211,12 +227,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 470272,
+      "num": 470272,
+      "word": "朝鲜称其导弹发射针对美国",
+      "onboard_time": 1665204684,
+      "rank": 27,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 468772,
       "num": 468772,
       "word": "女孩捡手机欲归还疑被大人阻止",
       "onboard_time": 1665159322,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 468723,
+      "num": 468723,
+      "word": "马斯克官宣特斯拉电动卡车投产",
+      "onboard_time": 1665204085,
+      "rank": 17,
+      "category": "科技"
     },
     {
       "raw_hot": 453862,
@@ -235,44 +267,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 438792,
-      "num": 438792,
-      "word": "马斯克官宣特斯拉电动卡车投产",
-      "onboard_time": 1665204085,
-      "rank": 17,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 435806,
-      "num": 435806,
-      "word": "原来周一可以有三天",
-      "onboard_time": 1665206005,
-      "rank": 9,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 426811,
       "num": 426811,
       "word": "饿了么",
       "onboard_time": 1665195982,
       "rank": 15,
       "category": "科技"
-    },
-    {
-      "raw_hot": 417615,
-      "num": 417615,
-      "word": "赵露思陈哲远偷偷藏不住海边吻戏路透",
-      "onboard_time": 1665206724,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 415155,
-      "num": 415155,
-      "word": "朝鲜称其导弹发射针对美国",
-      "onboard_time": 1665204684,
-      "rank": 27,
-      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 398680,
@@ -467,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264108,
+      "num": 264108,
+      "word": "程潇赞多小鬼街舞5官宣",
+      "onboard_time": 1665208043,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 259137,
       "num": 259137,
       "word": "沈月晒我的反派男友库存照",
@@ -539,6 +547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220235,
+      "num": 220235,
+      "word": "它是我见过最温顺的猴子了",
+      "onboard_time": 1665206304,
+      "rank": 38,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 219476,
       "num": 219476,
       "word": "老师逐一检查学生是否穿秋裤",
@@ -561,6 +577,14 @@
       "onboard_time": 1665193762,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204651,
+      "num": 204651,
+      "word": "脱口秀女演员的力量感",
+      "onboard_time": 1665208103,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 197112,
@@ -771,12 +795,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 122944,
-      "num": 122944,
-      "word": "它是我见过最温顺的猴子了",
-      "onboard_time": 1665206304,
-      "rank": 38,
-      "category": "幽默,情感"
+      "raw_hot": 124160,
+      "num": 124160,
+      "word": "甘宇出院",
+      "onboard_time": 1665207863,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119744,
@@ -1011,6 +1035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48344,
+      "num": 392014,
+      "word": "土豆院士说扶贫要扶志也要扶智",
+      "onboard_time": 1665205225,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48340,
       "num": 48340,
       "word": "北京朝阳新增感染者为货车司机",
@@ -1025,14 +1057,6 @@
       "onboard_time": 1665140180,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 40712,
-      "num": 392014,
-      "word": "土豆院士说扶贫要扶志也要扶智",
-      "onboard_time": 1665205225,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36821,

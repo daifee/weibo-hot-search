@@ -1,0 +1,410 @@
+{
+  "runTime": 1665208245273,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2213266,
+        "num": 2213266,
+        "word": "闹钟没响",
+        "onboard_time": 1665205585,
+        "rank": 0,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 972078,
+        "num": 972078,
+        "word": "原来周一可以有三天",
+        "onboard_time": 1665206005,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 7689,
+        "num": 652984,
+        "word": "江河奔腾看中国",
+        "onboard_time": 1665128123,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 632579,
+        "num": 632579,
+        "word": "吴京拿水瓶指着王俊凯的头",
+        "onboard_time": 1665199704,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 619410,
+        "num": 619410,
+        "word": "管泽元",
+        "onboard_time": 1665200540,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 601098,
+        "num": 601098,
+        "word": "美国芯片巨头一夜暴跌近14%",
+        "onboard_time": 1665202406,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 503052,
+        "num": 503052,
+        "word": "爸爸带厌学男孩工地搬钢筋",
+        "onboard_time": 1665200965,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470272,
+        "num": 470272,
+        "word": "朝鲜称其导弹发射针对美国",
+        "onboard_time": 1665204684,
+        "rank": 7,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 468723,
+        "num": 468723,
+        "word": "马斯克官宣特斯拉电动卡车投产",
+        "onboard_time": 1665204085,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 418324,
+        "num": 418324,
+        "word": "郑州人民医院停诊",
+        "onboard_time": 1665197542,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513854,
+        "num": 408974,
+        "word": "肖战杭州亚运会第三轮歌曲征集宣传VCR",
+        "onboard_time": 1665204145,
+        "rank": 10,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 485208,
+        "num": 375746,
+        "word": "赵露思陈哲远偷偷藏不住海边吻戏路透",
+        "onboard_time": 1665206724,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 332612,
+        "num": 332612,
+        "word": "男子订婚当天喝醉摔倒在河边",
+        "onboard_time": 1665194182,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322926,
+        "num": 322926,
+        "word": "过于先进不宜展示的画面来了",
+        "onboard_time": 1665195082,
+        "rank": 13,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 48344,
+        "num": 305042,
+        "word": "土豆院士说扶贫要扶志也要扶智",
+        "onboard_time": 1665205225,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300190,
+        "num": 300190,
+        "word": "RNG战胜GEN",
+        "onboard_time": 1665199284,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 269702,
+        "num": 269702,
+        "word": "金毛哥哥帮生病弟弟举吊瓶",
+        "onboard_time": 1665198745,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264108,
+        "num": 264108,
+        "word": "程潇赞多小鬼街舞5官宣",
+        "onboard_time": 1665208043,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260166,
+        "num": 260166,
+        "word": "难道今天不是星期六吗",
+        "onboard_time": 1665204745,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242892,
+        "num": 242892,
+        "word": "萌鸟仅存约700只全球告危",
+        "onboard_time": 1665201626,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225365,
+        "num": 225365,
+        "word": "北京五道口购物中心今日暂停营业",
+        "onboard_time": 1665196941,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220235,
+        "num": 220235,
+        "word": "它是我见过最温顺的猴子了",
+        "onboard_time": 1665206304,
+        "rank": 21,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 212079,
+        "num": 212079,
+        "word": "浙江一学霸村实现户户有大学生",
+        "onboard_time": 1665197602,
+        "rank": 22,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 204651,
+        "num": 204651,
+        "word": "脱口秀女演员的力量感",
+        "onboard_time": 1665208103,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191692,
+        "num": 191692,
+        "word": "上海疫情防控",
+        "onboard_time": 1665189144,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186494,
+        "num": 186494,
+        "word": "张艺兴旧金山演唱会",
+        "onboard_time": 1665197722,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 183910,
+        "num": 183910,
+        "word": "饿了么",
+        "onboard_time": 1665195982,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 160018,
+        "num": 160018,
+        "word": "被街头卖花的奶奶美到了",
+        "onboard_time": 1665189921,
+        "rank": 27,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 152455,
+        "num": 152455,
+        "word": "节后上班emo了吗",
+        "onboard_time": 1665196223,
+        "rank": 28,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 148404,
+        "num": 148404,
+        "word": "北方人已经搬出了羽绒服",
+        "onboard_time": 1665191724,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145022,
+        "num": 145022,
+        "word": "如果有个空气炸锅",
+        "onboard_time": 1665199103,
+        "rank": 30,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 131885,
+        "num": 131885,
+        "word": "新疆新增本土无症状感染者344例",
+        "onboard_time": 1665192143,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128570,
+        "num": 128570,
+        "word": "李克勤两年好声音选了李荣浩同一首歌",
+        "onboard_time": 1665200183,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125886,
+        "num": 125886,
+        "word": "TI11",
+        "onboard_time": 1665201084,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124772,
+        "num": 124772,
+        "word": "王鹤棣人物光影氛围感大片",
+        "onboard_time": 1665197781,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 124160,
+        "num": 124160,
+        "word": "甘宇出院",
+        "onboard_time": 1665207863,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119963,
+        "num": 119963,
+        "word": "田惠宇被双开",
+        "onboard_time": 1665197542,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113436,
+        "num": 113436,
+        "word": "沈月晒我的反派男友库存照",
+        "onboard_time": 1665202224,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113109,
+        "num": 113109,
+        "word": "预判失败的猫咪",
+        "onboard_time": 1665198924,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 111796,
+        "num": 111796,
+        "word": "父亲国庆返岗9岁女儿偷塞100块",
+        "onboard_time": 1665196882,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111028,
+        "num": 111028,
+        "word": "第一次见这么丑的猫",
+        "onboard_time": 1665187280,
+        "rank": 40,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 103304,
+        "num": 103304,
+        "word": "勇士全力调查冲突视频如何泄露",
+        "onboard_time": 1665192982,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102128,
+        "num": 102128,
+        "word": "T1战胜EDG",
+        "onboard_time": 1665195264,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 93372,
+        "num": 93372,
+        "word": "曾黎新歌",
+        "onboard_time": 1665194659,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 89772,
+        "num": 89772,
+        "word": "湖北昨日新增本土无症状108例",
+        "onboard_time": 1665197362,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85810,
+        "num": 85810,
+        "word": "海恩贤圭牵手了",
+        "onboard_time": 1665186259,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84814,
+        "num": 84814,
+        "word": "国庆结束老师高铁上忙着改试卷",
+        "onboard_time": 1665193223,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 79169,
+        "num": 79169,
+        "word": "EDG BP",
+        "onboard_time": 1665195623,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 75497,
+        "num": 75497,
+        "word": "gidle将完整体出击认哥",
+        "onboard_time": 1665192203,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71882,
+        "num": 71882,
+        "word": "王源新专辑筹备中",
+        "onboard_time": 1665205464,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#思想的力量#"
+    }
+  }
+}
