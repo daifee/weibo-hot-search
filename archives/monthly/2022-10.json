@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665257823052,
+  "endTime": 1665260804013,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -12395,6 +12395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69072,
+      "num": 22606,
+      "word": "明年中秋国庆假重合有望连休9天",
+      "onboard_time": 1665256871,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68502,
       "num": 68502,
       "word": "万里归途的沉浸感是如何营造的",
@@ -13475,20 +13483,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 18061,
-      "num": 18061,
-      "word": "明年中秋国庆假重合有望连休9天",
-      "onboard_time": 1665256871,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 17857,
       "num": 17857,
       "word": "你看见的是我为你定制的性格",
       "onboard_time": 1665090250,
       "rank": 19,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 17368,
+      "num": 17368,
+      "word": "日本外汇储备大幅下降",
+      "onboard_time": 1665258790,
+      "rank": 18,
+      "category": "财经,国外要闻"
+    },
+    {
+      "raw_hot": 15664,
+      "num": 15664,
+      "word": "医学生的学费交得真值",
+      "onboard_time": 1665257472,
+      "rank": 49,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 14858,
@@ -13577,14 +13593,6 @@
       "onboard_time": 1665082692,
       "rank": 48,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 9466,
-      "num": 9466,
-      "word": "医学生的学费交得真值",
-      "onboard_time": 1665257472,
-      "rank": 49,
-      "category": "幽默,教育"
     },
     {
       "raw_hot": 9058,

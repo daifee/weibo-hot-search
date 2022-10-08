@@ -1,6 +1,6 @@
 {
   "startTime": 1665246866302,
-  "endTime": 1665257823052,
+  "endTime": 1665260804013,
   "band_list": [
     {
       "raw_hot": 1103496,
@@ -339,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69072,
+      "num": 22606,
+      "word": "明年中秋国庆假重合有望连休9天",
+      "onboard_time": 1665256871,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63764,
       "num": 63764,
       "word": "山西永济市全市实行静默管理",
@@ -443,12 +451,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 18061,
-      "num": 18061,
-      "word": "明年中秋国庆假重合有望连休9天",
-      "onboard_time": 1665256871,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 17368,
+      "num": 17368,
+      "word": "日本外汇储备大幅下降",
+      "onboard_time": 1665258790,
+      "rank": 18,
+      "category": "财经,国外要闻"
     },
     {
       "raw_hot": 17235,
@@ -457,6 +465,14 @@
       "onboard_time": 1665236788,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 15664,
+      "num": 15664,
+      "word": "医学生的学费交得真值",
+      "onboard_time": 1665257472,
+      "rank": 49,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 14881,
@@ -481,14 +497,6 @@
       "onboard_time": 1665256032,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 9466,
-      "num": 9466,
-      "word": "医学生的学费交得真值",
-      "onboard_time": 1665257472,
-      "rank": 49,
-      "category": "幽默,教育"
     }
   ],
   "hotgov_list": [
