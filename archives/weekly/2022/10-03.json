@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1665202372576,
+  "endTime": 1665205499381,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -387,6 +387,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1386518,
+      "num": 1386518,
+      "word": "管泽元",
+      "onboard_time": 1665200540,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1385443,
       "num": 856663,
       "word": "2022年诺贝尔文学奖揭晓",
@@ -489,6 +497,14 @@
       "onboard_time": 1665191724,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1273632,
+      "num": 1273632,
+      "word": "吴京拿水瓶指着王俊凯的头",
+      "onboard_time": 1665199704,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 1260696,
@@ -883,14 +899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 855211,
-      "num": 744107,
-      "word": "管泽元",
-      "onboard_time": 1665200540,
-      "rank": 9,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 853186,
       "num": 853186,
       "word": "英语让一家人变得生疏",
@@ -1115,6 +1123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 726298,
+      "num": 441058,
+      "word": "肖战杭州亚运会第三轮歌曲征集宣传VCR",
+      "onboard_time": 1665204145,
+      "rank": 10,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 720024,
       "num": 720024,
       "word": "泰国幼儿园枪击案已造成34死",
@@ -1201,14 +1217,6 @@
       "onboard_time": 1664891364,
       "rank": 37,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 690422,
-      "num": 690422,
-      "word": "吴京拿水瓶指着王俊凯的头",
-      "onboard_time": 1665199704,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 689333,
@@ -1315,12 +1323,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 648304,
+      "num": 648304,
+      "word": "美国芯片巨头一夜暴跌近14%",
+      "onboard_time": 1665202406,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
       "raw_hot": 645089,
       "num": 645089,
       "word": "强烈的不舍是分别的预兆吗",
       "onboard_time": 1664977825,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 644470,
+      "num": 644470,
+      "word": "爸爸带厌学男孩工地搬钢筋",
+      "onboard_time": 1665200965,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 636116,
@@ -2203,6 +2227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 453862,
+      "num": 453862,
+      "word": "金毛哥哥帮生病弟弟举吊瓶",
+      "onboard_time": 1665198745,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 451415,
       "num": 425366,
       "word": "万里归途成影史国庆节总场次冠军",
@@ -2779,14 +2811,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 383868,
-      "num": 383868,
-      "word": "金毛哥哥帮生病弟弟举吊瓶",
-      "onboard_time": 1665198745,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 383845,
       "num": 383845,
       "word": "RNG进入D组",
@@ -3075,6 +3099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 351182,
+      "num": 351182,
+      "word": "节后上班emo了吗",
+      "onboard_time": 1665196223,
+      "rank": 24,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 350711,
       "num": 350711,
       "word": "老师婚期临近62名学生偷偷送惊喜",
@@ -3227,6 +3259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 331745,
+      "num": 331745,
+      "word": "如果有个空气炸锅",
+      "onboard_time": 1665199103,
+      "rank": 26,
+      "category": "幽默,美食"
+    },
+    {
       "raw_hot": 330904,
       "num": 330904,
       "word": "2小孩地铁内踩座位拉扶手荡秋千",
@@ -3299,6 +3339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 322546,
+      "num": 322546,
+      "word": "马斯克官宣特斯拉电动卡车投产",
+      "onboard_time": 1665204085,
+      "rank": 17,
+      "category": "科技"
+    },
+    {
       "raw_hot": 322529,
       "num": 322529,
       "word": "WB对战eStar",
@@ -3369,6 +3417,14 @@
       "onboard_time": 1664964504,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 311636,
+      "num": 311636,
+      "word": "萌鸟仅存约700只全球告危",
+      "onboard_time": 1665201626,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 308881,
@@ -3659,12 +3715,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 284052,
-      "num": 284052,
-      "word": "节后上班emo了吗",
-      "onboard_time": 1665196223,
-      "rank": 24,
-      "category": "社会新闻,情感"
+      "raw_hot": 282381,
+      "num": 282381,
+      "word": "李克勤两年好声音选了李荣浩同一首歌",
+      "onboard_time": 1665200183,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 281315,
@@ -3905,14 +3961,6 @@
       "onboard_time": 1665025464,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 265063,
-      "num": 265063,
-      "word": "如果有个空气炸锅",
-      "onboard_time": 1665199103,
-      "rank": 26,
-      "category": "幽默,美食"
     },
     {
       "raw_hot": 264696,
@@ -4835,14 +4883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213727,
-      "num": 213727,
-      "word": "爸爸带厌学男孩工地搬钢筋",
-      "onboard_time": 1665200965,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 213693,
       "num": 213693,
       "word": "军人洗碗后将抹布叠得像板砖",
@@ -4913,14 +4953,6 @@
       "onboard_time": 1665112164,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208932,
-      "num": 208932,
-      "word": "李克勤两年好声音选了李荣浩同一首歌",
-      "onboard_time": 1665200183,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 208633,
@@ -5203,6 +5235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 195429,
+      "num": 195429,
+      "word": "朝鲜称其导弹发射针对美国",
+      "onboard_time": 1665204684,
+      "rank": 27,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 195039,
       "num": 195039,
       "word": "地下1200米的超级充电宝长啥样",
@@ -5377,6 +5417,14 @@
       "onboard_time": 1664790082,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186780,
+      "num": 99825,
+      "word": "王源新专辑筹备中",
+      "onboard_time": 1665205464,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 186416,
@@ -5787,6 +5835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166608,
+      "num": 166608,
+      "word": "TI11",
+      "onboard_time": 1665201084,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 166308,
       "num": 166308,
       "word": "炽道一家三口",
@@ -6177,6 +6233,14 @@
       "onboard_time": 1665174670,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151475,
+      "num": 151475,
+      "word": "难道今天不是星期六吗",
+      "onboard_time": 1665204745,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 151102,
@@ -6688,14 +6752,6 @@
       "word": "去过丰台这一公厕人员请报告",
       "onboard_time": 1665170412,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 133003,
-      "num": 133003,
-      "word": "萌鸟仅存约700只全球告危",
-      "onboard_time": 1665201626,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -7313,14 +7369,6 @@
       "onboard_time": 1664986640,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110973,
-      "num": 110973,
-      "word": "TI11",
-      "onboard_time": 1665201084,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 110452,
@@ -8403,6 +8451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69145,
+      "num": 386486,
+      "word": "货车起火退伍军人狂追5公里拦截",
+      "onboard_time": 1665201684,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67806,
       "num": 67806,
       "word": "张彬彬说欠虞美人的我喜欢你还上了",
@@ -8971,14 +9027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30409,
-      "num": 386486,
-      "word": "货车起火退伍军人狂追5公里拦截",
-      "onboard_time": 1665201684,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 29867,
       "num": 29867,
       "word": "国庆假期郊区旅游约占36%",
@@ -9057,6 +9105,14 @@
       "onboard_time": 1665091151,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 14648,
+      "num": 335496,
+      "word": "土豆院士说扶贫要扶志也要扶智",
+      "onboard_time": 1665205225,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13206,
