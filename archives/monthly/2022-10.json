@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665194659837,
+  "endTime": 1665196728719,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -667,12 +667,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1275107,
+      "num": 1275107,
+      "word": "北方人已经搬出了羽绒服",
+      "onboard_time": 1665191724,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1260696,
       "num": 1260696,
       "word": "真的不要自我感动式吃苦",
       "onboard_time": 1664870004,
       "rank": 4,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 1259172,
+      "num": 1259172,
+      "word": "T1战胜EDG",
+      "onboard_time": 1665195264,
+      "rank": 1,
+      "category": "游戏"
     },
     {
       "raw_hot": 1244093,
@@ -1267,6 +1283,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 830237,
+      "num": 830237,
+      "word": "男子订婚当天喝醉摔倒在河边",
+      "onboard_time": 1665194182,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 829977,
       "num": 486901,
       "word": "山西运城发现31例核酸异常人员",
@@ -1635,6 +1659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 695503,
+      "num": 695503,
+      "word": "10月7日新增本土无症状1301例",
+      "onboard_time": 1665192264,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 695446,
       "num": 695446,
       "word": "景区回应女子雇轿抬狗上山",
@@ -1859,14 +1891,6 @@
       "category": "军事,国外要闻"
     },
     {
-      "raw_hot": 628900,
-      "num": 628900,
-      "word": "10月7日新增本土无症状1301例",
-      "onboard_time": 1665192264,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 625668,
       "num": 625668,
       "word": "我们的歌",
@@ -1931,6 +1955,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 605094,
+      "num": 605094,
+      "word": "T1对战EDG",
+      "onboard_time": 1665192802,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 595349,
       "num": 595349,
       "word": "海天味业参与起草酱油行业现行标准",
@@ -1945,14 +1977,6 @@
       "onboard_time": 1665111504,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 593188,
-      "num": 593188,
-      "word": "北方人已经搬出了羽绒服",
-      "onboard_time": 1665191724,
-      "rank": 7,
-      "category": "幽默"
     },
     {
       "raw_hot": 591463,
@@ -3267,14 +3291,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 413323,
-      "num": 413323,
-      "word": "T1对战EDG",
-      "onboard_time": 1665192802,
-      "rank": 9,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 411074,
       "num": 411074,
       "word": "范世錡晒无与伦比的美丽live图",
@@ -3811,6 +3827,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 367573,
+      "num": 367573,
+      "word": "勇士全力调查冲突视频如何泄露",
+      "onboard_time": 1665192982,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 367173,
       "num": 294367,
       "word": "智族GQ梁朝伟王一博程耳概念封面",
@@ -4131,6 +4155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 333354,
+      "num": 333354,
+      "word": "曾黎新歌",
+      "onboard_time": 1665194659,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 333270,
       "num": 333270,
       "word": "时代少年团我的祖国",
@@ -4177,6 +4209,14 @@
       "onboard_time": 1665103943,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329367,
+      "num": 329367,
+      "word": "饿了么",
+      "onboard_time": 1665195982,
+      "rank": 15,
+      "category": "科技"
     },
     {
       "raw_hot": 328898,
@@ -4817,6 +4857,14 @@
       "onboard_time": 1664890524,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 274994,
+      "num": 274994,
+      "word": "GEN对战RNG",
+      "onboard_time": 1665195503,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 274854,
@@ -5523,6 +5571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244991,
+      "num": 244991,
+      "word": "国庆结束老师高铁上忙着改试卷",
+      "onboard_time": 1665193223,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 244512,
       "num": 244512,
       "word": "这狗子是真的欠啊",
@@ -6203,6 +6259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217348,
+      "num": 217348,
+      "word": "节后上班emo了吗",
+      "onboard_time": 1665196223,
+      "rank": 24,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 217251,
       "num": 175298,
       "word": "刘宇国风大典柳叶刀舞台",
@@ -6331,20 +6395,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 209444,
-      "num": 209444,
-      "word": "勇士全力调查冲突视频如何泄露",
-      "onboard_time": 1665192982,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 209107,
       "num": 209107,
       "word": "洒水车路遇摆摊阿姨精准关水避让",
       "onboard_time": 1665112164,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209085,
+      "num": 209085,
+      "word": "被街头卖花的奶奶美到了",
+      "onboard_time": 1665189921,
+      "rank": 42,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 208788,
@@ -6425,6 +6489,14 @@
       "onboard_time": 1664877263,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 206640,
+      "num": 206640,
+      "word": "沈阳新增1例本土确诊病例",
+      "onboard_time": 1665193762,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206349,
@@ -7051,14 +7123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 184534,
-      "num": 184534,
-      "word": "沈阳新增1例本土确诊病例",
-      "onboard_time": 1665193762,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184180,
       "num": 184180,
       "word": "张杰献唱江河奔腾看中国",
@@ -7651,6 +7715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161708,
+      "num": 161708,
+      "word": "EDG BP",
+      "onboard_time": 1665195623,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 161681,
       "num": 161681,
       "word": "北京新增本土确诊5例",
@@ -7977,14 +8049,6 @@
       "onboard_time": 1664858543,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 150263,
-      "num": 150263,
-      "word": "国庆结束老师高铁上忙着改试卷",
-      "onboard_time": 1665193223,
-      "rank": 30,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 150235,
@@ -8731,14 +8795,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 130347,
-      "num": 130347,
-      "word": "男子订婚当天喝醉摔倒在河边",
-      "onboard_time": 1665194182,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 130178,
       "num": 110891,
       "word": "郁可唯婉国风舞台",
@@ -9137,6 +9193,14 @@
       "onboard_time": 1664857402,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120340,
+      "num": 120340,
+      "word": "过于先进不宜展示的画面来了",
+      "onboard_time": 1665195082,
+      "rank": 35,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 120214,
@@ -9873,14 +9937,6 @@
       "onboard_time": 1664705963,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 100670,
-      "num": 100670,
-      "word": "被街头卖花的奶奶美到了",
-      "onboard_time": 1665189921,
-      "rank": 42,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 100341,
