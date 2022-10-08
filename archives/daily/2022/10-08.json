@@ -1,6 +1,6 @@
 {
   "startTime": 1665160801801,
-  "endTime": 1665237505782,
+  "endTime": 1665239207652,
   "band_list": [
     {
       "raw_hot": 7482868,
@@ -219,6 +219,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1141818,
+      "num": 1141818,
+      "word": "国乒女团8连胜强势夺冠",
+      "onboard_time": 1665236788,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1090870,
       "num": 1090870,
       "word": "普京下令调查克里米亚大桥事故原因",
@@ -364,7 +372,7 @@
     },
     {
       "raw_hot": 687720,
-      "num": 476476,
+      "num": 485820,
       "word": "刘雯 超模就是超模",
       "onboard_time": 1665231985,
       "rank": 11,
@@ -465,14 +473,6 @@
       "onboard_time": 1665197602,
       "rank": 7,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 541811,
-      "num": 541811,
-      "word": "国乒女团8连胜强势夺冠",
-      "onboard_time": 1665236788,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 540431,
@@ -731,6 +731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 353052,
+      "num": 353052,
+      "word": "吴尊看公主小妹reaction",
+      "onboard_time": 1665237507,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 352989,
       "num": 352989,
       "word": "樊振东17板极限对拉",
@@ -777,6 +785,14 @@
       "onboard_time": 1665153810,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 336700,
+      "num": 336700,
+      "word": "市监局回应消费930.9元遭反向抹零",
+      "onboard_time": 1665238167,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 333413,
@@ -891,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299806,
+      "num": 299806,
+      "word": "ITZY舞台",
+      "onboard_time": 1665237086,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 298352,
       "num": 298352,
       "word": "王者七周年",
@@ -915,20 +939,20 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 294210,
+      "num": 294210,
+      "word": "陈梦 稳",
+      "onboard_time": 1665237566,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 292733,
       "num": 292733,
       "word": "王曼昱3比1伊藤美诚",
       "onboard_time": 1665234686,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 288857,
-      "num": 288857,
-      "word": "ITZY舞台",
-      "onboard_time": 1665237086,
-      "rank": 21,
-      "category": "音乐"
     },
     {
       "raw_hot": 288473,
@@ -1107,6 +1131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241736,
+      "num": 241736,
+      "word": "真的有人完全没有社交吗",
+      "onboard_time": 1665237749,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 241504,
       "num": 241504,
       "word": "陈哲远沈月新剧满屏恋爱氛围",
@@ -1187,6 +1219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225542,
+      "num": 225542,
+      "word": "男童给父母当花童一路哭着扔婚戒",
+      "onboard_time": 1665237446,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225283,
       "num": 179187,
       "word": "张译王俊凯殷桃万里归途票房破11亿",
@@ -1227,6 +1267,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 220060,
+      "num": 220060,
+      "word": "国乒女团夺冠后与国旗合影",
+      "onboard_time": 1665238767,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 219476,
       "num": 219476,
       "word": "老师逐一检查学生是否穿秋裤",
@@ -1259,20 +1307,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205505,
+      "num": 205505,
+      "word": "周亦安叶芯好甜",
+      "onboard_time": 1665237927,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 203662,
       "num": 203662,
       "word": "王楚钦为马龙鼓掌",
       "onboard_time": 1665227127,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 203118,
-      "num": 104700,
-      "word": "吴尊看公主小妹reaction",
-      "onboard_time": 1665237507,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 201887,
@@ -1369,6 +1417,14 @@
       "onboard_time": 1665174070,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182069,
+      "num": 182069,
+      "word": "小鬼演绎90年代hiphop",
+      "onboard_time": 1665238405,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 181782,
@@ -1587,6 +1643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140157,
+      "num": 140157,
+      "word": "嗨放派",
+      "onboard_time": 1665237867,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140046,
       "num": 140046,
       "word": "刘宇柳叶刀收藏量破百万",
@@ -1635,6 +1699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127831,
+      "num": 127831,
+      "word": "国乒女团战胜日本队",
+      "onboard_time": 1665238528,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119744,
       "num": 119744,
       "word": "底线法与情特辑",
@@ -1649,6 +1721,14 @@
       "onboard_time": 1665149783,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117961,
+      "num": 117961,
+      "word": "国乒女团王者之师",
+      "onboard_time": 1665239068,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 113816,
@@ -1736,14 +1816,6 @@
       "word": "江西从40℃直接降至17℃",
       "onboard_time": 1665124644,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 98145,
-      "num": 98145,
-      "word": "男童给父母当花童一路哭着扔婚戒",
-      "onboard_time": 1665237446,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
