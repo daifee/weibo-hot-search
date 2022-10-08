@@ -1,6 +1,6 @@
 {
   "startTime": 1665160801801,
-  "endTime": 1665211989455,
+  "endTime": 1665213945689,
   "band_list": [
     {
       "raw_hot": 2766988,
@@ -75,6 +75,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1290098,
+      "num": 1290098,
+      "word": "刻赤海峡大桥发生火灾",
+      "onboard_time": 1665208764,
+      "rank": 6,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 1275107,
       "num": 1275107,
       "word": "北方人已经搬出了羽绒服",
@@ -99,20 +107,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 916485,
-      "num": 916485,
+      "raw_hot": 1038394,
+      "num": 1038394,
       "word": "双胞胎姐妹同天出嫁新郎接亲时懵了",
       "onboard_time": 1665208884,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 888558,
-      "num": 888558,
-      "word": "刻赤海峡大桥发生火灾",
-      "onboard_time": 1665208764,
-      "rank": 6,
-      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 830237,
@@ -152,6 +152,14 @@
       "word": "2022法定节假日已用完",
       "onboard_time": 1665186920,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 709681,
+      "num": 309336,
+      "word": "女子坐高铁抽电子烟",
+      "onboard_time": 1665211762,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -299,6 +307,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 410321,
+      "num": 296476,
+      "word": "情侣相约减肥80天后双双大变样",
+      "onboard_time": 1665212841,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 398680,
       "num": 398680,
       "word": "张艺兴旧金山演唱会",
@@ -307,12 +323,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 396671,
+      "num": 396671,
+      "word": "浙江发现新物种白盖鸡油菌",
+      "onboard_time": 1665210322,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 387398,
       "num": 387398,
       "word": "一个人抱三只大熊猫会怎样",
       "onboard_time": 1665188543,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 387357,
+      "num": 387357,
+      "word": "中国男团vs日本男团",
+      "onboard_time": 1665211640,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 367573,
@@ -425,6 +457,14 @@
       "onboard_time": 1665201626,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310974,
+      "num": 310974,
+      "word": "国庆假期后油价或再下调",
+      "onboard_time": 1665209125,
+      "rank": 32,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 308881,
@@ -563,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234379,
+      "num": 82315,
+      "word": "德国男团晋级决赛",
+      "onboard_time": 1665213922,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 232617,
       "num": 232617,
       "word": "央视广告曲能有多大气",
@@ -571,20 +619,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 232251,
-      "num": 232251,
-      "word": "国庆假期后油价或再下调",
-      "onboard_time": 1665209125,
-      "rank": 32,
-      "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 229462,
-      "num": 229462,
-      "word": "浙江发现新物种白盖鸡油菌",
-      "onboard_time": 1665210322,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 228908,
+      "num": 228908,
+      "word": "马斯克称将亲自殖民火星",
+      "onboard_time": 1665212602,
+      "rank": 16,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 228235,
@@ -659,6 +699,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 196898,
+      "num": 196898,
+      "word": "狗狗陪主人出门冻得不停抖腿",
+      "onboard_time": 1665211283,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195992,
       "num": 195992,
       "word": "当代小学生受网络影响有多大",
@@ -729,6 +777,14 @@
       "onboard_time": 1665152971,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 175071,
+      "num": 175071,
+      "word": "樊振东vs户上隼辅",
+      "onboard_time": 1665213803,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 171524,
@@ -859,6 +915,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 139452,
+      "num": 139452,
+      "word": "建议张远去喜剧大赛当婚庆歌手",
+      "onboard_time": 1665212002,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133231,
       "num": 133231,
       "word": "去过丰台这一公厕人员请报告",
@@ -963,14 +1027,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 88521,
-      "num": 88521,
-      "word": "中国男团vs日本男团",
-      "onboard_time": 1665211640,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 87697,
       "num": 87697,
       "word": "英雄联盟S12",
@@ -1011,14 +1067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 82010,
-      "num": 82010,
-      "word": "女子坐高铁抽电子烟",
-      "onboard_time": 1665211762,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 78780,
       "num": 78780,
       "word": "国足世界杯出线21周年",
@@ -1027,20 +1075,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 77306,
-      "num": 77306,
-      "word": "狗狗陪主人出门冻得不停抖腿",
-      "onboard_time": 1665211283,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 75306,
-      "num": 75306,
+      "raw_hot": 77271,
+      "num": 77271,
       "word": "这只黑猩猩也太嘚瑟了吧",
       "onboard_time": 1665208642,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 76854,
+      "num": 76854,
+      "word": "姐弟抱奶奶腿阻止宰从小养大的鸭子",
+      "onboard_time": 1665212901,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74041,
@@ -1212,7 +1260,7 @@
     },
     {
       "raw_hot": 9435,
-      "num": 1061877,
+      "num": 1072262,
       "word": "江河奔腾看中国",
       "onboard_time": 1665128123,
       "rank": 2,
@@ -1225,6 +1273,14 @@
       "onboard_time": 1665173290,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 7690,
+      "num": 257329,
+      "word": "暖心老板掏下水道帮女孩寻回钥匙",
+      "onboard_time": 1665213623,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 6735,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1665213945689,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1590663,
+        "num": 1590663,
+        "word": "闹钟没响",
+        "onboard_time": 1665205585,
+        "rank": 0,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 1290098,
+        "num": 1290098,
+        "word": "刻赤海峡大桥发生火灾",
+        "onboard_time": 1665208764,
+        "rank": 1,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 8455,
+        "num": 1072262,
+        "word": "江河奔腾看中国",
+        "onboard_time": 1665128123,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1038394,
+        "num": 1038394,
+        "word": "双胞胎姐妹同天出嫁新郎接亲时懵了",
+        "onboard_time": 1665208884,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 997240,
+        "num": 997240,
+        "word": "原来周一可以有三天",
+        "onboard_time": 1665206005,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 396671,
+        "num": 396671,
+        "word": "浙江发现新物种白盖鸡油菌",
+        "onboard_time": 1665210322,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387357,
+        "num": 387357,
+        "word": "中国男团vs日本男团",
+        "onboard_time": 1665211640,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 383909,
+        "num": 383909,
+        "word": "程潇赞多小鬼街舞5官宣",
+        "onboard_time": 1665208043,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361690,
+        "num": 361690,
+        "word": "吴京拿水瓶指着王俊凯的头",
+        "onboard_time": 1665199704,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 310974,
+        "num": 310974,
+        "word": "国庆假期后油价或再下调",
+        "onboard_time": 1665209125,
+        "rank": 9,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 709681,
+        "num": 309336,
+        "word": "女子坐高铁抽电子烟",
+        "onboard_time": 1665211762,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417839,
+        "num": 299940,
+        "word": "赵露思陈哲远偷偷藏不住海边吻戏路透",
+        "onboard_time": 1665206724,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 410321,
+        "num": 296476,
+        "word": "情侣相约减肥80天后双双大变样",
+        "onboard_time": 1665212841,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290387,
+        "num": 290387,
+        "word": "朝鲜称其导弹发射针对美国",
+        "onboard_time": 1665204684,
+        "rank": 13,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 7690,
+        "num": 257329,
+        "word": "暖心老板掏下水道帮女孩寻回钥匙",
+        "onboard_time": 1665213623,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246919,
+        "num": 246919,
+        "word": "肖战杭州亚运会第三轮歌曲征集宣传VCR",
+        "onboard_time": 1665204145,
+        "rank": 15,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 228908,
+        "num": 228908,
+        "word": "马斯克称将亲自殖民火星",
+        "onboard_time": 1665212602,
+        "rank": 16,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 196898,
+        "num": 196898,
+        "word": "狗狗陪主人出门冻得不停抖腿",
+        "onboard_time": 1665211283,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243669,
+        "num": 196745,
+        "word": "王一博杭州亚运会歌曲征集宣传视频",
+        "onboard_time": 1665210021,
+        "rank": 18,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 192788,
+        "num": 192788,
+        "word": "美国芯片巨头一夜暴跌近14%",
+        "onboard_time": 1665202406,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 188197,
+        "num": 188197,
+        "word": "爸爸带厌学男孩工地搬钢筋",
+        "onboard_time": 1665200965,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186778,
+        "num": 186778,
+        "word": "郑州人民医院停诊",
+        "onboard_time": 1665197542,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184609,
+        "num": 184609,
+        "word": "马斯克官宣特斯拉电动卡车投产",
+        "onboard_time": 1665204085,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 182599,
+        "num": 182599,
+        "word": "脱口秀女演员的力量感",
+        "onboard_time": 1665208103,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176687,
+        "num": 176687,
+        "word": "RNG战胜GEN",
+        "onboard_time": 1665199284,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175071,
+        "num": 175071,
+        "word": "樊振东vs户上隼辅",
+        "onboard_time": 1665213803,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167883,
+        "num": 167883,
+        "word": "王鹤棣人物大片live图",
+        "onboard_time": 1665209363,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161211,
+        "num": 161211,
+        "word": "国乒男团战日本名单出炉",
+        "onboard_time": 1665210562,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155379,
+        "num": 155379,
+        "word": "它是我见过最温顺的猴子了",
+        "onboard_time": 1665206304,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 143125,
+        "num": 143125,
+        "word": "过于先进不宜展示的画面来了",
+        "onboard_time": 1665195082,
+        "rank": 29,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 139452,
+        "num": 139452,
+        "word": "建议张远去喜剧大赛当婚庆歌手",
+        "onboard_time": 1665212002,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126861,
+        "num": 126861,
+        "word": "管泽元",
+        "onboard_time": 1665200540,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120705,
+        "num": 120705,
+        "word": "甘宇出院",
+        "onboard_time": 1665207863,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114023,
+        "num": 114023,
+        "word": "郑钧用肚子表演翻江倒海",
+        "onboard_time": 1665209962,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112061,
+        "num": 112061,
+        "word": "北京五道口购物中心今日暂停营业",
+        "onboard_time": 1665196941,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110746,
+        "num": 110746,
+        "word": "浙江一学霸村实现户户有大学生",
+        "onboard_time": 1665197602,
+        "rank": 35,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 109996,
+        "num": 109996,
+        "word": "男子订婚当天喝醉摔倒在河边",
+        "onboard_time": 1665194182,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106403,
+        "num": 106403,
+        "word": "上海疫情防控",
+        "onboard_time": 1665189144,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106148,
+        "num": 106148,
+        "word": "萌鸟仅存约700只全球告危",
+        "onboard_time": 1665201626,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104397,
+        "num": 104397,
+        "word": "金毛哥哥帮生病弟弟举吊瓶",
+        "onboard_time": 1665198745,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104149,
+        "num": 104149,
+        "word": "王嘉尔ChampagneCool运镜",
+        "onboard_time": 1665208463,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 102240,
+        "num": 102240,
+        "word": "TI11",
+        "onboard_time": 1665201084,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 93664,
+        "num": 93664,
+        "word": "张艺兴旧金山演唱会",
+        "onboard_time": 1665197722,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 88204,
+        "num": 88204,
+        "word": "父亲国庆返岗9岁女儿偷塞100块",
+        "onboard_time": 1665196882,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87863,
+        "num": 87863,
+        "word": "如果有个空气炸锅",
+        "onboard_time": 1665199103,
+        "rank": 44,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 85995,
+        "num": 85995,
+        "word": "北方人已经搬出了羽绒服",
+        "onboard_time": 1665191724,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82694,
+        "num": 82694,
+        "word": "新疆新增本土无症状感染者344例",
+        "onboard_time": 1665192143,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234379,
+        "num": 82315,
+        "word": "德国男团晋级决赛",
+        "onboard_time": 1665213922,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77271,
+        "num": 77271,
+        "word": "这只黑猩猩也太嘚瑟了吧",
+        "onboard_time": 1665208642,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76854,
+        "num": 76854,
+        "word": "姐弟抱奶奶腿阻止宰从小养大的鸭子",
+        "onboard_time": 1665212901,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#坐标中国#"
+    }
+  }
+}
