@@ -1,0 +1,410 @@
+{
+  "runTime": 1665228048517,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7482868,
+        "num": 7482868,
+        "word": "王楚钦vs户上隼辅",
+        "onboard_time": 1665224787,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1928776,
+        "num": 1928776,
+        "word": "中国男团vs日本男团",
+        "onboard_time": 1665211640,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106725,
+        "num": 1446905,
+        "word": "我国成功在海上发射一箭双星",
+        "onboard_time": 1665217223,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 986194,
+        "num": 986194,
+        "word": "摩托车女骑手弯道对撞疑身亡",
+        "onboard_time": 1665219684,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 803297,
+        "num": 803297,
+        "word": "90后董事长的婚礼有多会玩",
+        "onboard_time": 1665221425,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593714,
+        "num": 593714,
+        "word": "国乒男团晋级世乒赛决赛",
+        "onboard_time": 1665226347,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 566715,
+        "num": 566715,
+        "word": "外交部回应马斯克涉台言论",
+        "onboard_time": 1665221785,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 548829,
+        "num": 548829,
+        "word": "乌方称克里米亚大桥事件仅是开始",
+        "onboard_time": 1665216203,
+        "rank": 7,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 444452,
+        "num": 444452,
+        "word": "情侣相约减肥80天后双双大变样",
+        "onboard_time": 1665212841,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432237,
+        "num": 432237,
+        "word": "余华和莫言看完都沉默了",
+        "onboard_time": 1665218183,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1785981,
+        "num": 426571,
+        "word": "樊振东2比3张本智和",
+        "onboard_time": 1665224127,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 317002,
+        "num": 317002,
+        "word": "女子坐高铁抽电子烟",
+        "onboard_time": 1665211762,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308064,
+        "num": 308064,
+        "word": "男子剐蹭公交车后给乘客塞钱打车",
+        "onboard_time": 1665222324,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503445,
+        "num": 300149,
+        "word": "张本智和 吵",
+        "onboard_time": 1665218065,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 288282,
+        "num": 288282,
+        "word": "女子加价点老虎斑端上来变鲳鱼",
+        "onboard_time": 1665225867,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267171,
+        "num": 267171,
+        "word": "北京共存在10条独立传播链",
+        "onboard_time": 1665220227,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439107,
+        "num": 265699,
+        "word": "樊振东vs张本智和",
+        "onboard_time": 1665221066,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262254,
+        "num": 262254,
+        "word": "山西永济市全市实行静默管理",
+        "onboard_time": 1665226227,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257322,
+        "num": 257322,
+        "word": "刘宇宁宁远舟黑衣蒙面路透",
+        "onboard_time": 1665227845,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 247361,
+        "num": 247361,
+        "word": "普京下令调查克里米亚大桥事故原因",
+        "onboard_time": 1665214703,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 366342,
+        "num": 247292,
+        "word": "世界第一樊振东",
+        "onboard_time": 1665217524,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244061,
+        "num": 244061,
+        "word": "BLACKPINK获音中一位",
+        "onboard_time": 1665223584,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 233994,
+        "num": 233994,
+        "word": "姜贞羽捡衣服的小女孩",
+        "onboard_time": 1665220886,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 224402,
+        "num": 224402,
+        "word": "王者七周年",
+        "onboard_time": 1665222564,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 224324,
+        "num": 224324,
+        "word": "世乒赛 紧张",
+        "onboard_time": 1665226106,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215858,
+        "num": 215858,
+        "word": "马斯克为减肥不吃午餐",
+        "onboard_time": 1665223405,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 214514,
+        "num": 214514,
+        "word": "爬山爬一半发现景点在对面山头",
+        "onboard_time": 1665217524,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186881,
+        "num": 186881,
+        "word": "原来周一可以有三天",
+        "onboard_time": 1665206005,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185733,
+        "num": 185733,
+        "word": "TMA",
+        "onboard_time": 1665216925,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 183551,
+        "num": 183551,
+        "word": "王楚钦1比3张本智和",
+        "onboard_time": 1665218005,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182156,
+        "num": 182156,
+        "word": "赵丽颖林更新与凤行剧组合影",
+        "onboard_time": 1665218124,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178089,
+        "num": 178089,
+        "word": "追梦格林普尔冲突原因曝光",
+        "onboard_time": 1665225688,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162493,
+        "num": 162493,
+        "word": "俄方披露克里米亚大桥起火细节",
+        "onboard_time": 1665218785,
+        "rank": 32,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 155561,
+        "num": 155561,
+        "word": "Gemini幸运杯",
+        "onboard_time": 1665223047,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139623,
+        "num": 139623,
+        "word": "黑龙江出现粉色雾凇",
+        "onboard_time": 1665221365,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136567,
+        "num": 136567,
+        "word": "王楚钦为马龙鼓掌",
+        "onboard_time": 1665227127,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129368,
+        "num": 129368,
+        "word": "如何看待双标式消费",
+        "onboard_time": 1665226827,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128873,
+        "num": 128873,
+        "word": "国乒男团战胜日本队",
+        "onboard_time": 1665226106,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118254,
+        "num": 118254,
+        "word": "双胞胎姐妹同天出嫁新郎接亲时懵了",
+        "onboard_time": 1665208884,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115245,
+        "num": 115245,
+        "word": "研究称悲伤孤独比吸烟更加速衰老",
+        "onboard_time": 1665217044,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112942,
+        "num": 112942,
+        "word": "北京新增5例感染者详情",
+        "onboard_time": 1665219684,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107334,
+        "num": 107334,
+        "word": "12岁男孩划桨板救回2名落水者",
+        "onboard_time": 1665220944,
+        "rank": 41,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 101516,
+        "num": 101516,
+        "word": "姐弟抱奶奶腿阻止宰从小养大的鸭子",
+        "onboard_time": 1665212901,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100208,
+        "num": 100208,
+        "word": "马龙vs及川瑞基",
+        "onboard_time": 1665219444,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97047,
+        "num": 97047,
+        "word": "盛光祖被逮捕",
+        "onboard_time": 1665220402,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96780,
+        "num": 96780,
+        "word": "谭维维清唱如果我没有爱过",
+        "onboard_time": 1665227305,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 96546,
+        "num": 96546,
+        "word": "王楚钦顶住压力",
+        "onboard_time": 1665227547,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97591,
+        "num": 95209,
+        "word": "我的反派男友明天大结局",
+        "onboard_time": 1665228027,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 93832,
+        "num": 93832,
+        "word": "被尊重和在乎的感觉真好",
+        "onboard_time": 1665218302,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90922,
+        "num": 90922,
+        "word": "闹钟没响",
+        "onboard_time": 1665205585,
+        "rank": 49,
+        "category": "情感,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#聚焦二十大#"
+    }
+  }
+}
