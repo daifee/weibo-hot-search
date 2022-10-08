@@ -1,0 +1,410 @@
+{
+  "runTime": 1665225943498,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4128368,
+        "num": 4128368,
+        "word": "王楚钦vs户上隼辅",
+        "onboard_time": 1665224787,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2430340,
+        "num": 2430340,
+        "word": "樊振东2比3张本智和",
+        "onboard_time": 1665224127,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87060,
+        "num": 2078156,
+        "word": "我国成功在海上发射一箭双星",
+        "onboard_time": 1665217223,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2069446,
+        "num": 2069446,
+        "word": "中国男团vs日本男团",
+        "onboard_time": 1665211640,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1029976,
+        "num": 1029976,
+        "word": "摩托车女骑手弯道对撞疑身亡",
+        "onboard_time": 1665219684,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 833399,
+        "num": 833399,
+        "word": "90后董事长的婚礼有多会玩",
+        "onboard_time": 1665221425,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652209,
+        "num": 652209,
+        "word": "外交部回应马斯克涉台言论",
+        "onboard_time": 1665221785,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 557901,
+        "num": 557901,
+        "word": "情侣相约减肥80天后双双大变样",
+        "onboard_time": 1665212841,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473286,
+        "num": 473286,
+        "word": "乌方称克里米亚大桥事件仅是开始",
+        "onboard_time": 1665216203,
+        "rank": 8,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 2826970,
+        "num": 468433,
+        "word": "樊振东vs张本智和",
+        "onboard_time": 1665221066,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1029189,
+        "num": 464058,
+        "word": "张本智和 吵",
+        "onboard_time": 1665218065,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 437773,
+        "num": 437773,
+        "word": "北京共存在10条独立传播链",
+        "onboard_time": 1665220227,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387187,
+        "num": 387187,
+        "word": "姜贞羽捡衣服的小女孩",
+        "onboard_time": 1665220886,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 385845,
+        "num": 385845,
+        "word": "女子坐高铁抽电子烟",
+        "onboard_time": 1665211762,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378342,
+        "num": 378342,
+        "word": "余华和莫言看完都沉默了",
+        "onboard_time": 1665218183,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 314849,
+        "num": 314849,
+        "word": "男子剐蹭公交车后给乘客塞钱打车",
+        "onboard_time": 1665222324,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313243,
+        "num": 313243,
+        "word": "BLACKPINK获音中一位",
+        "onboard_time": 1665223584,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 301257,
+        "num": 301257,
+        "word": "王楚钦1比3张本智和",
+        "onboard_time": 1665218005,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281663,
+        "num": 281663,
+        "word": "普京下令调查克里米亚大桥事故原因",
+        "onboard_time": 1665214703,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 271036,
+        "num": 271036,
+        "word": "王者七周年",
+        "onboard_time": 1665222564,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 347817,
+        "num": 268515,
+        "word": "世界第一樊振东",
+        "onboard_time": 1665217524,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262524,
+        "num": 262524,
+        "word": "爬山爬一半发现景点在对面山头",
+        "onboard_time": 1665217524,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258474,
+        "num": 258474,
+        "word": "原来周一可以有三天",
+        "onboard_time": 1665206005,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243053,
+        "num": 243053,
+        "word": "赵丽颖林更新与凤行剧组合影",
+        "onboard_time": 1665218124,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240357,
+        "num": 240357,
+        "word": "盛光祖被逮捕",
+        "onboard_time": 1665220402,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210156,
+        "num": 210156,
+        "word": "Gemini幸运杯",
+        "onboard_time": 1665223047,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 202314,
+        "num": 202314,
+        "word": "俄方披露克里米亚大桥起火细节",
+        "onboard_time": 1665218785,
+        "rank": 26,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 194047,
+        "num": 194047,
+        "word": "北京新增5例感染者详情",
+        "onboard_time": 1665219684,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191291,
+        "num": 191291,
+        "word": "TMA",
+        "onboard_time": 1665216925,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182351,
+        "num": 182351,
+        "word": "马龙vs及川瑞基",
+        "onboard_time": 1665219444,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178791,
+        "num": 178791,
+        "word": "成都世乒赛团体赛",
+        "onboard_time": 1665214760,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176636,
+        "num": 176636,
+        "word": "黑龙江出现粉色雾凇",
+        "onboard_time": 1665221365,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162745,
+        "num": 162745,
+        "word": "双胞胎姐妹同天出嫁新郎接亲时懵了",
+        "onboard_time": 1665208884,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156852,
+        "num": 156852,
+        "word": "研究称悲伤孤独比吸烟更加速衰老",
+        "onboard_time": 1665217044,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151999,
+        "num": 151999,
+        "word": "马斯克为减肥不吃午餐",
+        "onboard_time": 1665223405,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 146419,
+        "num": 146419,
+        "word": "王楚钦",
+        "onboard_time": 1665148584,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139009,
+        "num": 139009,
+        "word": "被尊重和在乎的感觉真好",
+        "onboard_time": 1665218302,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134585,
+        "num": 134585,
+        "word": "马龙3比1及川瑞基",
+        "onboard_time": 1665220402,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130623,
+        "num": 130623,
+        "word": "12岁男孩划桨板救回2名落水者",
+        "onboard_time": 1665220944,
+        "rank": 38,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 114286,
+        "num": 114286,
+        "word": "姐弟抱奶奶腿阻止宰从小养大的鸭子",
+        "onboard_time": 1665212901,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112763,
+        "num": 112763,
+        "word": "北京10月8日新增2条传播链",
+        "onboard_time": 1665222024,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107245,
+        "num": 107245,
+        "word": "闹钟没响",
+        "onboard_time": 1665205585,
+        "rank": 41,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 104193,
+        "num": 104193,
+        "word": "狗狗陪主人出门冻得不停抖腿",
+        "onboard_time": 1665211283,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95520,
+        "num": 95520,
+        "word": "王楚钦vs张本智和",
+        "onboard_time": 1665215484,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89201,
+        "num": 89201,
+        "word": "马斯克称将亲自殖民火星",
+        "onboard_time": 1665212602,
+        "rank": 44,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 87093,
+        "num": 87093,
+        "word": "金瀚倒立喝牛奶",
+        "onboard_time": 1665217405,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85343,
+        "num": 85343,
+        "word": "王一博杭州亚运会歌曲征集宣传视频",
+        "onboard_time": 1665210021,
+        "rank": 46,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 84051,
+        "num": 84051,
+        "word": "追梦格林普尔冲突原因曝光",
+        "onboard_time": 1665225688,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83613,
+        "num": 83613,
+        "word": "张译王俊凯殷桃万里归途票房破11亿",
+        "onboard_time": 1665217885,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 79861,
+        "num": 79861,
+        "word": "女子加价点老虎斑端上来变鲳鱼",
+        "onboard_time": 1665225867,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#聚焦二十大#"
+    }
+  }
+}
