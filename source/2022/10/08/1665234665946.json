@@ -1,0 +1,410 @@
+{
+  "runTime": 1665234665946,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2523820,
+        "num": 2523820,
+        "word": "专四专八",
+        "onboard_time": 1665231444,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 2137903,
+        "num": 2137903,
+        "word": "王曼昱vs伊藤美诚",
+        "onboard_time": 1665232647,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54268,
+        "num": 2029324,
+        "word": "4K视频看海上火箭发射",
+        "onboard_time": 1665232886,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2006935,
+        "num": 2006935,
+        "word": "中国女团vs日本女团",
+        "onboard_time": 1665228206,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1047069,
+        "num": 1047069,
+        "word": "一年一度喜剧大赛男友来了",
+        "onboard_time": 1665229646,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 772030,
+        "num": 772030,
+        "word": "意大利女排vs中国女排",
+        "onboard_time": 1665230427,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 721839,
+        "num": 721839,
+        "word": "爸爸带娃不小心把女儿摇下吊桥",
+        "onboard_time": 1665229885,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 675112,
+        "num": 675112,
+        "word": "大学老师用老干妈罐子喝水",
+        "onboard_time": 1665228745,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 469027,
+        "num": 469027,
+        "word": "俄称克里米亚大桥事故已造成3人死亡",
+        "onboard_time": 1665230306,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 432598,
+        "num": 432598,
+        "word": "电视剧底线",
+        "onboard_time": 1665231985,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2079469,
+        "num": 423845,
+        "word": "张小斐 绝了",
+        "onboard_time": 1665231924,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 668430,
+        "num": 405852,
+        "word": "刘雯 超模就是超模",
+        "onboard_time": 1665231985,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 387144,
+        "num": 387144,
+        "word": "许昕刘诗雯解说",
+        "onboard_time": 1665230427,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 384875,
+        "num": 384875,
+        "word": "中国男团vs日本男团",
+        "onboard_time": 1665211640,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 365232,
+        "num": 365232,
+        "word": "樊振东2比3张本智和",
+        "onboard_time": 1665224127,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 352212,
+        "num": 352212,
+        "word": "王楚钦vs户上隼辅",
+        "onboard_time": 1665224787,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 350471,
+        "num": 350471,
+        "word": "VOGUE 女明星",
+        "onboard_time": 1665230786,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 291896,
+        "num": 291896,
+        "word": "陈梦vs木原美悠",
+        "onboard_time": 1665230125,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286810,
+        "num": 286810,
+        "word": "唐朝诡事录停不下来",
+        "onboard_time": 1665229586,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273191,
+        "num": 273191,
+        "word": "恋与制作人",
+        "onboard_time": 1665234507,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 269522,
+        "num": 269522,
+        "word": "金秋天TMA舞台",
+        "onboard_time": 1665233305,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 252178,
+        "num": 252178,
+        "word": "90后董事长的婚礼有多会玩",
+        "onboard_time": 1665221425,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248264,
+        "num": 248264,
+        "word": "百香果炖鸡有多绝",
+        "onboard_time": 1665229286,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 234489,
+        "num": 234489,
+        "word": "余华和莫言看完都沉默了",
+        "onboard_time": 1665218183,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 231124,
+        "num": 231124,
+        "word": "乌方称克里米亚大桥事件仅是开始",
+        "onboard_time": 1665216203,
+        "rank": 24,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 222254,
+        "num": 222254,
+        "word": "外交部回应马斯克涉台言论",
+        "onboard_time": 1665221785,
+        "rank": 25,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 212298,
+        "num": 212298,
+        "word": "女子加价点老虎斑端上来变鲳鱼",
+        "onboard_time": 1665225867,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210929,
+        "num": 210929,
+        "word": "你好星期六",
+        "onboard_time": 1665232585,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208409,
+        "num": 208409,
+        "word": "情侣相约减肥80天后双双大变样",
+        "onboard_time": 1665212841,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206320,
+        "num": 206320,
+        "word": "山西永济市全市实行静默管理",
+        "onboard_time": 1665226227,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201887,
+        "num": 201887,
+        "word": "INTO1天生就要飞舞台首秀",
+        "onboard_time": 1665234027,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201393,
+        "num": 201393,
+        "word": "十八岁喜欢的那个人怎么样了",
+        "onboard_time": 1665233366,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187315,
+        "num": 187315,
+        "word": "不同部位疼痛的原因找到了",
+        "onboard_time": 1665228686,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185744,
+        "num": 185744,
+        "word": "刘雨昕街舞battle好会撩",
+        "onboard_time": 1665234265,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184542,
+        "num": 184542,
+        "word": "我的一句话被爸爸记了十年",
+        "onboard_time": 1665232825,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164504,
+        "num": 164504,
+        "word": "北京共存在10条独立传播链",
+        "onboard_time": 1665220227,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147148,
+        "num": 147148,
+        "word": "张本智和 吵",
+        "onboard_time": 1665218065,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140581,
+        "num": 140581,
+        "word": "男子剐蹭公交车后给乘客塞钱打车",
+        "onboard_time": 1665222324,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136266,
+        "num": 136266,
+        "word": "世界第一樊振东",
+        "onboard_time": 1665217524,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134636,
+        "num": 134636,
+        "word": "爬山爬一半发现景点在对面山头",
+        "onboard_time": 1665217524,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134420,
+        "num": 134420,
+        "word": "女子坐高铁抽电子烟",
+        "onboard_time": 1665211762,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130913,
+        "num": 130913,
+        "word": "我的反派男友明天大结局",
+        "onboard_time": 1665228027,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124435,
+        "num": 124435,
+        "word": "追梦格林普尔冲突原因曝光",
+        "onboard_time": 1665225688,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123158,
+        "num": 123158,
+        "word": "陈梦3比0木原美悠",
+        "onboard_time": 1665232647,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121976,
+        "num": 121976,
+        "word": "TMA",
+        "onboard_time": 1665216925,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 121029,
+        "num": 121029,
+        "word": "赵丽颖林更新与凤行剧组合影",
+        "onboard_time": 1665218124,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 100282,
+        "num": 100282,
+        "word": "明天中国男团对阵德国",
+        "onboard_time": 1665228145,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99628,
+        "num": 99628,
+        "word": "檀健次带北体学员看夕阳",
+        "onboard_time": 1665231086,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91357,
+        "num": 91357,
+        "word": "普京下令调查克里米亚大桥事故原因",
+        "onboard_time": 1665214703,
+        "rank": 48,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 87691,
+        "num": 87691,
+        "word": "马斯克为减肥不吃午餐",
+        "onboard_time": 1665223405,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代的历史性成就和变革#"
+    }
+  }
+}

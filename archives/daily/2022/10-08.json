@@ -1,6 +1,6 @@
 {
   "startTime": 1665160801801,
-  "endTime": 1665233185408,
+  "endTime": 1665234665946,
   "band_list": [
     {
       "raw_hot": 7482868,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2137903,
+      "num": 2137903,
+      "word": "王曼昱vs伊藤美诚",
+      "onboard_time": 1665232647,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2069446,
       "num": 2069446,
       "word": "中国男团vs日本男团",
@@ -83,19 +91,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 2006935,
+      "num": 2006935,
+      "word": "中国女团vs日本女团",
+      "onboard_time": 1665228206,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1992534,
       "num": 1992534,
       "word": "王楚钦vs张本智和",
       "onboard_time": 1665215484,
       "rank": 0,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1844154,
-      "num": 1844154,
-      "word": "中国女团vs日本女团",
-      "onboard_time": 1665228206,
-      "rank": 16,
       "category": "体育"
     },
     {
@@ -211,6 +219,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1047069,
+      "num": 1047069,
+      "word": "一年一度喜剧大赛男友来了",
+      "onboard_time": 1665229646,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1038394,
       "num": 1038394,
       "word": "双胞胎姐妹同天出嫁新郎接亲时懵了",
@@ -235,14 +251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 846214,
-      "num": 846214,
-      "word": "一年一度喜剧大赛男友来了",
-      "onboard_time": 1665229646,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 835915,
       "num": 692592,
       "word": "乌方称克里米亚大桥事件仅是开始",
@@ -265,6 +273,14 @@
       "onboard_time": 1665187280,
       "rank": 3,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 772030,
+      "num": 772030,
+      "word": "意大利女排vs中国女排",
+      "onboard_time": 1665230427,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 760855,
@@ -299,6 +315,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 721839,
+      "num": 721839,
+      "word": "爸爸带娃不小心把女儿摇下吊桥",
+      "onboard_time": 1665229885,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 712944,
       "num": 712944,
       "word": "2022法定节假日已用完",
@@ -329,6 +353,14 @@
       "onboard_time": 1665155906,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 668430,
+      "num": 449586,
+      "word": "刘雯 超模就是超模",
+      "onboard_time": 1665231985,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 653653,
@@ -419,14 +451,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 550148,
-      "num": 550148,
-      "word": "爸爸带娃不小心把女儿摇下吊桥",
-      "onboard_time": 1665229885,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 540431,
       "num": 540431,
       "word": "TMA",
@@ -491,20 +515,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 477585,
-      "num": 449586,
-      "word": "刘雯 超模就是超模",
-      "onboard_time": 1665231985,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 476798,
       "num": 476798,
       "word": "田惠宇被双开",
       "onboard_time": 1665197542,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 469027,
+      "num": 469027,
+      "word": "俄称克里米亚大桥事故已造成3人死亡",
+      "onboard_time": 1665230306,
+      "rank": 18,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 468772,
@@ -521,14 +545,6 @@
       "onboard_time": 1665204085,
       "rank": 17,
       "category": "科技"
-    },
-    {
-      "raw_hot": 458458,
-      "num": 458458,
-      "word": "意大利女排vs中国女排",
-      "onboard_time": 1665230427,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 453862,
@@ -619,14 +635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 384668,
-      "num": 384668,
-      "word": "王曼昱vs伊藤美诚",
-      "onboard_time": 1665232647,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 367573,
       "num": 367573,
       "word": "勇士全力调查冲突视频如何泄露",
@@ -649,14 +657,6 @@
       "onboard_time": 1665152487,
       "rank": 6,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 356436,
-      "num": 356436,
-      "word": "俄称克里米亚大桥事故已造成3人死亡",
-      "onboard_time": 1665230306,
-      "rank": 18,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 356374,
@@ -859,6 +859,14 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 286810,
+      "num": 286810,
+      "word": "唐朝诡事录停不下来",
+      "onboard_time": 1665229586,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 282381,
       "num": 282381,
       "word": "李克勤两年好声音选了李荣浩同一首歌",
@@ -897,6 +905,22 @@
       "onboard_time": 1665204745,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 273191,
+      "num": 273191,
+      "word": "恋与制作人",
+      "onboard_time": 1665234507,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 269522,
+      "num": 269522,
+      "word": "金秋天TMA舞台",
+      "onboard_time": 1665233305,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 267405,
@@ -1001,14 +1025,6 @@
       "onboard_time": 1665211283,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 242491,
-      "num": 242491,
-      "word": "唐朝诡事录停不下来",
-      "onboard_time": 1665229586,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 241504,
@@ -1139,6 +1155,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 210929,
+      "num": 210929,
+      "word": "你好星期六",
+      "onboard_time": 1665232585,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207412,
       "num": 207412,
       "word": "这标语谁看了敢不听话啊",
@@ -1163,20 +1187,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201887,
+      "num": 201887,
+      "word": "INTO1天生就要飞舞台首秀",
+      "onboard_time": 1665234027,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 201393,
+      "num": 201393,
+      "word": "十八岁喜欢的那个人怎么样了",
+      "onboard_time": 1665233366,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 200712,
       "num": 200712,
       "word": "国乒男团战日本名单出炉",
       "onboard_time": 1665210562,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 199961,
-      "num": 199961,
-      "word": "你好星期六",
-      "onboard_time": 1665232585,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 197112,
@@ -1241,6 +1273,22 @@
       "onboard_time": 1665205464,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 185744,
+      "num": 185744,
+      "word": "刘雨昕街舞battle好会撩",
+      "onboard_time": 1665234265,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 184542,
+      "num": 184542,
+      "word": "我的一句话被爸爸记了十年",
+      "onboard_time": 1665232825,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 183489,
@@ -1587,6 +1635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99628,
+      "num": 99628,
+      "word": "檀健次带北体学员看夕阳",
+      "onboard_time": 1665231086,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99391,
       "num": 99391,
       "word": "谭维维清唱如果我没有爱过",
@@ -1601,14 +1657,6 @@
       "onboard_time": 1665124644,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 96701,
-      "num": 96701,
-      "word": "我的一句话被爸爸记了十年",
-      "onboard_time": 1665232825,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 96546,
@@ -1641,14 +1689,6 @@
       "onboard_time": 1665173230,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 91857,
-      "num": 91857,
-      "word": "檀健次带北体学员看夕阳",
-      "onboard_time": 1665231086,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 90199,
@@ -1827,6 +1867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 54268,
+      "num": 2029324,
+      "word": "4K视频看海上火箭发射",
+      "onboard_time": 1665232886,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 53573,
       "num": 53573,
       "word": "马龙鼓励王楚钦",
@@ -1929,14 +1977,6 @@
       "onboard_time": 1665166153,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 15132,
-      "num": 985686,
-      "word": "4K视频看海上火箭发射",
-      "onboard_time": 1665232886,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 9435,
@@ -2106,6 +2146,9 @@
     },
     {
       "word": "#聚焦二十大#"
+    },
+    {
+      "word": "#新时代的历史性成就和变革#"
     }
   ]
 }
