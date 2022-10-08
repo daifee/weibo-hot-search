@@ -1,6 +1,6 @@
 {
   "startTime": 1665160801801,
-  "endTime": 1665221186194,
+  "endTime": 1665222232260,
   "band_list": [
     {
       "raw_hot": 2766988,
@@ -11,8 +11,8 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 2534066,
-      "num": 2534066,
+      "raw_hot": 2664230,
+      "num": 2664230,
       "word": "张本智和 吵",
       "onboard_time": 1665218065,
       "rank": 6,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 977519,
+      "num": 977519,
+      "word": "樊振东vs张本智和",
+      "onboard_time": 1665221066,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 971691,
       "num": 971691,
       "word": "女子坐高铁抽电子烟",
@@ -219,6 +227,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 720979,
+      "num": 720979,
+      "word": "摩托车女骑手弯道对撞疑身亡",
+      "onboard_time": 1665219684,
+      "rank": 13,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 712944,
       "num": 712944,
       "word": "2022法定节假日已用完",
@@ -249,6 +265,14 @@
       "onboard_time": 1665155906,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 653653,
+      "num": 653653,
+      "word": "北京共存在10条独立传播链",
+      "onboard_time": 1665220227,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 644470,
@@ -355,12 +379,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 492686,
-      "num": 492686,
-      "word": "摩托车女骑手弯道对撞疑身亡",
-      "onboard_time": 1665219684,
-      "rank": 13,
-      "category": "社会负面"
+      "raw_hot": 492912,
+      "num": 492912,
+      "word": "余华和莫言看完都沉默了",
+      "onboard_time": 1665218183,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 476798,
@@ -368,22 +392,6 @@
       "word": "田惠宇被双开",
       "onboard_time": 1665197542,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 476188,
-      "num": 476188,
-      "word": "余华和莫言看完都沉默了",
-      "onboard_time": 1665218183,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 471226,
-      "num": 471226,
-      "word": "北京共存在10条独立传播链",
-      "onboard_time": 1665220227,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -417,6 +425,14 @@
       "onboard_time": 1665192143,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 433497,
+      "num": 433497,
+      "word": "姜贞羽捡衣服的小女孩",
+      "onboard_time": 1665220886,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 433228,
@@ -643,20 +659,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 292928,
-      "num": 292928,
+      "raw_hot": 294935,
+      "num": 294935,
       "word": "俄方披露克里米亚大桥起火细节",
       "onboard_time": 1665218785,
       "rank": 48,
       "category": "军事,国外要闻"
-    },
-    {
-      "raw_hot": 286403,
-      "num": 286403,
-      "word": "樊振东vs张本智和",
-      "onboard_time": 1665221066,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 282381,
@@ -769,14 +777,6 @@
       "onboard_time": 1665193223,
       "rank": 30,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 244501,
-      "num": 244501,
-      "word": "姜贞羽捡衣服的小女孩",
-      "onboard_time": 1665220886,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 243746,
@@ -907,6 +907,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 196791,
+      "num": 196791,
+      "word": "盛光祖被逮捕",
+      "onboard_time": 1665220402,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195992,
       "num": 195992,
       "word": "当代小学生受网络影响有多大",
@@ -987,6 +995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 173471,
+      "num": 173471,
+      "word": "北京10月8日新增2条传播链",
+      "onboard_time": 1665222024,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171524,
       "num": 171524,
       "word": "湖北昨日新增本土无症状108例",
@@ -1017,6 +1033,14 @@
       "onboard_time": 1665153511,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 168797,
+      "num": 168797,
+      "word": "90后董事长的婚礼有多会玩",
+      "onboard_time": 1665221425,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166898,
@@ -1163,6 +1187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123976,
+      "num": 123976,
+      "word": "黑龙江出现粉色雾凇",
+      "onboard_time": 1665221365,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119744,
       "num": 119744,
       "word": "底线法与情特辑",
@@ -1179,20 +1211,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 114837,
-      "num": 114837,
-      "word": "盛光祖被逮捕",
-      "onboard_time": 1665220402,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 113816,
       "num": 113816,
       "word": "凤凰县城区临时全域静默管控",
       "onboard_time": 1665155668,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109030,
+      "num": 1258062,
+      "word": "我国成功在海上发射一箭双星",
+      "onboard_time": 1665217223,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 108594,
+      "num": 108594,
+      "word": "12岁男孩划桨板救回2名落水者",
+      "onboard_time": 1665220944,
+      "rank": 48,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 107503,
@@ -1227,11 +1267,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 102023,
-      "num": 1258062,
-      "word": "我国成功在海上发射一箭双星",
-      "onboard_time": 1665217223,
-      "rank": 2,
+      "raw_hot": 100457,
+      "num": 100457,
+      "word": "外交部回应马斯克涉台言论",
+      "onboard_time": 1665221785,
+      "rank": 43,
       "category": "国内要闻"
     },
     {
@@ -1243,12 +1283,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 94551,
-      "num": 94551,
-      "word": "12岁男孩划桨板救回2名落水者",
-      "onboard_time": 1665220944,
-      "rank": 48,
-      "category": "社会正能量"
+      "raw_hot": 96855,
+      "num": 96855,
+      "word": "4月宝宝成闺蜜团团宠",
+      "onboard_time": 1665221841,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94204,
