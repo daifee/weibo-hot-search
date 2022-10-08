@@ -1,6 +1,6 @@
 {
   "startTime": 1665246866302,
-  "endTime": 1665246866302,
+  "endTime": 1665248333467,
   "band_list": [
     {
       "raw_hot": 1103496,
@@ -43,7 +43,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 356267,
+      "raw_hot": 366853,
       "num": 231163,
       "word": "马克龙抱怨美国天然气要价4倍",
       "onboard_time": 1665244762,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 279650,
-      "num": 47873,
+      "num": 76296,
       "word": "VogueWorld展览开幕之夜",
       "onboard_time": 1665246860,
       "rank": 47,
@@ -81,6 +81,14 @@
       "onboard_time": 1665243265,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267502,
+      "num": 267502,
+      "word": "马龙赛后拥抱樊振东",
+      "onboard_time": 1665246141,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 266679,
@@ -107,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239924,
+      "num": 199262,
+      "word": "寺庙当家回应师太喂养独臂猴十余年",
+      "onboard_time": 1665244644,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219187,
       "num": 219187,
       "word": "专四专八",
@@ -120,14 +136,6 @@
       "word": "大学老师用老干妈罐子喝水",
       "onboard_time": 1665228745,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 199262,
-      "num": 199262,
-      "word": "寺庙当家回应师太喂养独臂猴十余年",
-      "onboard_time": 1665244644,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -251,14 +259,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 89910,
-      "num": 89910,
-      "word": "马龙赛后拥抱樊振东",
-      "onboard_time": 1665246141,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 88686,
       "num": 88686,
       "word": "孙颖莎vs长崎美柚",
@@ -331,6 +331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 62715,
+      "num": 62715,
+      "word": "李冰冰古董高定",
+      "onboard_time": 1665248237,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 60127,
       "num": 60127,
       "word": "北京共存在10条独立传播链",
@@ -363,6 +371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 54613,
+      "num": 54613,
+      "word": "英超联赛",
+      "onboard_time": 1665245840,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 53637,
       "num": 53637,
       "word": "余华和莫言看完都沉默了",
@@ -371,12 +387,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 48778,
-      "num": 48778,
-      "word": "英超联赛",
-      "onboard_time": 1665245840,
-      "rank": 46,
-      "category": "体育"
+      "raw_hot": 47233,
+      "num": 47233,
+      "word": "这只大猩猩也太会整活了",
+      "onboard_time": 1665245900,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 46677,
@@ -385,14 +401,6 @@
       "onboard_time": 1665234927,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 39337,
-      "num": 39337,
-      "word": "这只大猩猩也太会整活了",
-      "onboard_time": 1665245900,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 35041,
@@ -406,6 +414,9 @@
   "hotgov_list": [
     {
       "word": "#聚焦二十大#"
+    },
+    {
+      "word": "#新时代的历史性成就和变革#"
     }
   ]
 }
