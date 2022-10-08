@@ -1,6 +1,6 @@
 {
   "startTime": 1665160801801,
-  "endTime": 1665229112826,
+  "endTime": 1665233185408,
   "band_list": [
     {
       "raw_hot": 7482868,
@@ -17,6 +17,22 @@
       "onboard_time": 1665221066,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3160437,
+      "num": 3160437,
+      "word": "专四专八",
+      "onboard_time": 1665231444,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 2822226,
+      "num": 449827,
+      "word": "张小斐 绝了",
+      "onboard_time": 1665231924,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2766988,
@@ -72,6 +88,14 @@
       "word": "王楚钦vs张本智和",
       "onboard_time": 1665215484,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1844154,
+      "num": 1844154,
+      "word": "中国女团vs日本女团",
+      "onboard_time": 1665228206,
+      "rank": 16,
       "category": "体育"
     },
     {
@@ -211,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 846214,
+      "num": 846214,
+      "word": "一年一度喜剧大赛男友来了",
+      "onboard_time": 1665229646,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 835915,
       "num": 692592,
       "word": "乌方称克里米亚大桥事件仅是开始",
@@ -241,6 +273,14 @@
       "onboard_time": 1665218005,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 744779,
+      "num": 744779,
+      "word": "大学老师用老干妈罐子喝水",
+      "onboard_time": 1665228745,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 736056,
@@ -363,12 +403,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 570148,
+      "num": 570148,
+      "word": "电视剧底线",
+      "onboard_time": 1665231985,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 566001,
       "num": 566001,
       "word": "浙江一学霸村实现户户有大学生",
       "onboard_time": 1665197602,
       "rank": 7,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 550148,
+      "num": 550148,
+      "word": "爸爸带娃不小心把女儿摇下吊桥",
+      "onboard_time": 1665229885,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 540431,
@@ -435,6 +491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 477585,
+      "num": 449586,
+      "word": "刘雯 超模就是超模",
+      "onboard_time": 1665231985,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 476798,
       "num": 476798,
       "word": "田惠宇被双开",
@@ -457,6 +521,14 @@
       "onboard_time": 1665204085,
       "rank": 17,
       "category": "科技"
+    },
+    {
+      "raw_hot": 458458,
+      "num": 458458,
+      "word": "意大利女排vs中国女排",
+      "onboard_time": 1665230427,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 453862,
@@ -491,12 +563,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 427898,
+      "num": 427898,
+      "word": "陈梦vs木原美悠",
+      "onboard_time": 1665230125,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 426811,
       "num": 426811,
       "word": "饿了么",
       "onboard_time": 1665195982,
       "rank": 15,
       "category": "科技"
+    },
+    {
+      "raw_hot": 426042,
+      "num": 426042,
+      "word": "许昕刘诗雯解说",
+      "onboard_time": 1665230427,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 421757,
+      "num": 421757,
+      "word": "VOGUE 女明星",
+      "onboard_time": 1665230786,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 421066,
@@ -523,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 384668,
+      "num": 384668,
+      "word": "王曼昱vs伊藤美诚",
+      "onboard_time": 1665232647,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 367573,
       "num": 367573,
       "word": "勇士全力调查冲突视频如何泄露",
@@ -545,6 +649,14 @@
       "onboard_time": 1665152487,
       "rank": 6,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 356436,
+      "num": 356436,
+      "word": "俄称克里米亚大桥事故已造成3人死亡",
+      "onboard_time": 1665230306,
+      "rank": 18,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 356374,
@@ -755,6 +867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 280645,
+      "num": 280645,
+      "word": "百香果炖鸡有多绝",
+      "onboard_time": 1665229286,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 279349,
       "num": 279349,
       "word": "女子国庆返程父母塞了满车土特产",
@@ -835,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 252981,
+      "num": 252981,
+      "word": "陈梦3比0木原美悠",
+      "onboard_time": 1665232647,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 252789,
       "num": 252789,
       "word": "北京疫情发布会",
@@ -875,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242491,
+      "num": 242491,
+      "word": "唐朝诡事录停不下来",
+      "onboard_time": 1665229586,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 241504,
       "num": 241504,
       "word": "陈哲远沈月新剧满屏恋爱氛围",
@@ -889,6 +1025,14 @@
       "onboard_time": 1665220402,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240992,
+      "num": 240992,
+      "word": "不同部位疼痛的原因找到了",
+      "onboard_time": 1665228686,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 240649,
@@ -920,14 +1064,6 @@
       "word": "德国男团晋级决赛",
       "onboard_time": 1665213922,
       "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 234299,
-      "num": 234299,
-      "word": "中国女团vs日本女团",
-      "onboard_time": 1665228206,
-      "rank": 16,
       "category": "体育"
     },
     {
@@ -1033,6 +1169,14 @@
       "onboard_time": 1665210562,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199961,
+      "num": 199961,
+      "word": "你好星期六",
+      "onboard_time": 1665232585,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 197112,
@@ -1251,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151174,
+      "num": 151174,
+      "word": "明天中国男团对阵德国",
+      "onboard_time": 1665228145,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150235,
       "num": 150235,
       "word": "大张伟官宣加盟我们的歌4",
@@ -1323,14 +1475,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 137786,
-      "num": 137786,
-      "word": "明天中国男团对阵德国",
-      "onboard_time": 1665228145,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 134812,
       "num": 134812,
       "word": "中国乒乓好样的",
@@ -1369,14 +1513,6 @@
       "onboard_time": 1665226106,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 120046,
-      "num": 120046,
-      "word": "大学老师用老干妈罐子喝水",
-      "onboard_time": 1665228745,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119744,
@@ -1451,14 +1587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 99446,
-      "num": 99446,
-      "word": "不同部位疼痛的原因找到了",
-      "onboard_time": 1665228686,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 99391,
       "num": 99391,
       "word": "谭维维清唱如果我没有爱过",
@@ -1473,6 +1601,14 @@
       "onboard_time": 1665124644,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96701,
+      "num": 96701,
+      "word": "我的一句话被爸爸记了十年",
+      "onboard_time": 1665232825,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 96546,
@@ -1505,6 +1641,14 @@
       "onboard_time": 1665173230,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91857,
+      "num": 91857,
+      "word": "檀健次带北体学员看夕阳",
+      "onboard_time": 1665231086,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 90199,
@@ -1785,6 +1929,14 @@
       "onboard_time": 1665166153,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 15132,
+      "num": 985686,
+      "word": "4K视频看海上火箭发射",
+      "onboard_time": 1665232886,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 9435,
