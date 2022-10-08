@@ -1,6 +1,6 @@
 {
   "startTime": 1665160801801,
-  "endTime": 1665205499381,
+  "endTime": 1665207242710,
   "band_list": [
     {
       "raw_hot": 2357498,
@@ -83,6 +83,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1005352,
+      "num": 1005352,
+      "word": "闹钟没响",
+      "onboard_time": 1665205585,
+      "rank": 0,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 830237,
       "num": 830237,
       "word": "男子订婚当天喝醉摔倒在河边",
@@ -97,6 +105,14 @@
       "onboard_time": 1665187280,
       "rank": 3,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 736056,
+      "num": 736056,
+      "word": "美国芯片巨头一夜暴跌近14%",
+      "onboard_time": 1665202406,
+      "rank": 4,
+      "category": "财经"
     },
     {
       "raw_hot": 726298,
@@ -129,14 +145,6 @@
       "onboard_time": 1665155906,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 648304,
-      "num": 648304,
-      "word": "美国芯片巨头一夜暴跌近14%",
-      "onboard_time": 1665202406,
-      "rank": 4,
-      "category": "财经"
     },
     {
       "raw_hot": 644470,
@@ -227,12 +235,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 438792,
+      "num": 438792,
+      "word": "马斯克官宣特斯拉电动卡车投产",
+      "onboard_time": 1665204085,
+      "rank": 17,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 435806,
+      "num": 435806,
+      "word": "原来周一可以有三天",
+      "onboard_time": 1665206005,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 426811,
       "num": 426811,
       "word": "饿了么",
       "onboard_time": 1665195982,
       "rank": 15,
       "category": "科技"
+    },
+    {
+      "raw_hot": 417615,
+      "num": 417615,
+      "word": "赵露思陈哲远偷偷藏不住海边吻戏路透",
+      "onboard_time": 1665206724,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 415155,
+      "num": 415155,
+      "word": "朝鲜称其导弹发射针对美国",
+      "onboard_time": 1665204684,
+      "rank": 27,
+      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 398680,
@@ -339,14 +379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 322546,
-      "num": 322546,
-      "word": "马斯克官宣特斯拉电动卡车投产",
-      "onboard_time": 1665204085,
-      "rank": 17,
-      "category": "科技"
-    },
-    {
       "raw_hot": 319860,
       "num": 319860,
       "word": "上海社会面新增3例无症状感染者",
@@ -401,6 +433,14 @@
       "onboard_time": 1665191303,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 275322,
+      "num": 275322,
+      "word": "难道今天不是星期六吗",
+      "onboard_time": 1665204745,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 267405,
@@ -539,14 +579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195429,
-      "num": 195429,
-      "word": "朝鲜称其导弹发射针对美国",
-      "onboard_time": 1665204684,
-      "rank": 27,
-      "category": "军事,国外要闻"
-    },
-    {
       "raw_hot": 192113,
       "num": 192113,
       "word": "唐朝诡事录群像",
@@ -683,14 +715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 151475,
-      "num": 151475,
-      "word": "难道今天不是星期六吗",
-      "onboard_time": 1665204745,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 150235,
       "num": 150235,
       "word": "大张伟官宣加盟我们的歌4",
@@ -745,6 +769,22 @@
       "onboard_time": 1665185780,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122944,
+      "num": 122944,
+      "word": "它是我见过最温顺的猴子了",
+      "onboard_time": 1665206304,
+      "rank": 38,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 119744,
+      "num": 119744,
+      "word": "底线法与情特辑",
+      "onboard_time": 1665207025,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 118122,
@@ -987,6 +1027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40712,
+      "num": 392014,
+      "word": "土豆院士说扶贫要扶志也要扶智",
+      "onboard_time": 1665205225,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36821,
       "num": 36821,
       "word": "张馨予踢足球vlog",
@@ -1025,14 +1073,6 @@
       "onboard_time": 1665166153,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 14648,
-      "num": 335496,
-      "word": "土豆院士说扶贫要扶志也要扶智",
-      "onboard_time": 1665205225,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 9435,
