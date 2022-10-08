@@ -1,6 +1,6 @@
 {
   "startTime": 1665246866302,
-  "endTime": 1665267908377,
+  "endTime": 1665269016367,
   "band_list": [
     {
       "raw_hot": 1103496,
@@ -16,6 +16,14 @@
       "word": "椰树集团直播带货风格引争议",
       "onboard_time": 1665238288,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 749875,
+      "num": 749875,
+      "word": "明年中秋国庆假重合有望连休9天",
+      "onboard_time": 1665256871,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -51,14 +59,6 @@
       "category": "财经,国外要闻"
     },
     {
-      "raw_hot": 395378,
-      "num": 395378,
-      "word": "明年中秋国庆假重合有望连休9天",
-      "onboard_time": 1665256871,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 325194,
       "num": 325194,
       "word": "真的有人完全没有社交吗",
@@ -73,6 +73,14 @@
       "onboard_time": 1665242724,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 284031,
+      "num": 284031,
+      "word": "寺庙当家回应师太喂养独臂猴十余年",
+      "onboard_time": 1665244644,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 279650,
@@ -123,14 +131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 239924,
-      "num": 218143,
-      "word": "寺庙当家回应师太喂养独臂猴十余年",
-      "onboard_time": 1665244644,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 219187,
       "num": 219187,
       "word": "专四专八",
@@ -161,6 +161,14 @@
       "onboard_time": 1665237507,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175071,
+      "num": 84175,
+      "word": "俄罗斯暂停所有前往克里米亚列车",
+      "onboard_time": 1665253932,
+      "rank": 20,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 171166,
@@ -227,12 +235,20 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 125502,
-      "num": 51528,
-      "word": "俄罗斯暂停所有前往克里米亚列车",
-      "onboard_time": 1665253932,
-      "rank": 20,
-      "category": "国外要闻"
+      "raw_hot": 128898,
+      "num": 79482,
+      "word": "外交部回应华春莹连发13图宣传中国制造",
+      "onboard_time": 1665263711,
+      "rank": 43,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 119286,
+      "num": 77251,
+      "word": "同小区3位新郎同名同姓同一天结婚",
+      "onboard_time": 1665266651,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117068,
@@ -275,6 +291,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 92883,
+      "num": 72932,
+      "word": "中方回应美对芯片实施新出口管制",
+      "onboard_time": 1665255251,
+      "rank": 13,
+      "category": "国内要闻,财经"
+    },
+    {
       "raw_hot": 92616,
       "num": 92616,
       "word": "电视剧底线",
@@ -291,12 +315,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 85186,
-      "num": 49135,
-      "word": "外交部回应华春莹连发13图宣传中国制造",
-      "onboard_time": 1665263711,
-      "rank": 43,
-      "category": "国内要闻"
+      "raw_hot": 86620,
+      "num": 86620,
+      "word": "吴尊十分钟搞定两个小孩早餐",
+      "onboard_time": 1665258431,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 84221,
@@ -305,6 +329,14 @@
       "onboard_time": 1665221785,
       "rank": 33,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 82348,
+      "num": 52579,
+      "word": "克里米亚大桥大火后乌空军账号发文",
+      "onboard_time": 1665261790,
+      "rank": 49,
+      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 81749,
@@ -347,6 +379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 71730,
+      "num": 71730,
+      "word": "男子醉驾不配合执法被朋友抱摔",
+      "onboard_time": 1665262210,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71182,
       "num": 71182,
       "word": "女子加价点老虎斑端上来变鲳鱼",
@@ -355,28 +395,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 68142,
-      "num": 36443,
-      "word": "克里米亚大桥大火后乌空军账号发文",
-      "onboard_time": 1665261790,
-      "rank": 49,
-      "category": "军事,国外要闻"
-    },
-    {
       "raw_hot": 63764,
       "num": 63764,
       "word": "山西永济市全市实行静默管理",
       "onboard_time": 1665226227,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 63466,
-      "num": 48088,
-      "word": "中方回应美对芯片实施新出口管制",
-      "onboard_time": 1665255251,
-      "rank": 13,
-      "category": "国内要闻,财经"
     },
     {
       "raw_hot": 63417,
@@ -401,14 +425,6 @@
       "onboard_time": 1665216203,
       "rank": 42,
       "category": "国外要闻,军事"
-    },
-    {
-      "raw_hot": 57770,
-      "num": 47121,
-      "word": "男子醉驾不配合执法被朋友抱摔",
-      "onboard_time": 1665262210,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 55711,
@@ -451,14 +467,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 51878,
-      "num": 51878,
-      "word": "吴尊十分钟搞定两个小孩早餐",
-      "onboard_time": 1665258431,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 46677,
       "num": 46677,
       "word": "中国女排不敌意大利",
@@ -467,8 +475,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 39041,
-      "num": 39041,
+      "raw_hot": 41399,
+      "num": 41399,
       "word": "医学生的学费交得真值",
       "onboard_time": 1665257472,
       "rank": 49,
@@ -483,8 +491,24 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 27974,
-      "num": 27974,
+      "raw_hot": 32501,
+      "num": 32501,
+      "word": "别为没有发生的事情焦虑",
+      "onboard_time": 1665256510,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 32257,
+      "num": 32257,
+      "word": "日本外汇储备大幅下降",
+      "onboard_time": 1665258790,
+      "rank": 18,
+      "category": "财经,国外要闻"
+    },
+    {
+      "raw_hot": 32155,
+      "num": 32155,
       "word": "国乒女团8连胜强势夺冠",
       "onboard_time": 1665236788,
       "rank": 48,
@@ -499,32 +523,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 23905,
-      "num": 23905,
-      "word": "同小区3位新郎同名同姓同一天结婚",
-      "onboard_time": 1665266651,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20974,
-      "num": 20974,
-      "word": "日本外汇储备大幅下降",
-      "onboard_time": 1665258790,
-      "rank": 18,
-      "category": "财经,国外要闻"
-    },
-    {
-      "raw_hot": 17977,
-      "num": 17977,
-      "word": "别为没有发生的事情焦虑",
-      "onboard_time": 1665256510,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 16488,
-      "num": 16488,
+      "raw_hot": 21575,
+      "num": 21575,
       "word": "中国女团vs日本女团",
       "onboard_time": 1665228206,
       "rank": 46,
