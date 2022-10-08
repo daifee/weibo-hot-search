@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1665234665946,
+  "endTime": 1665236760335,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 2822226,
-      "num": 449827,
+      "num": 465519,
       "word": "张小斐 绝了",
       "onboard_time": 1665231924,
       "rank": 10,
@@ -187,8 +187,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 2137903,
-      "num": 2137903,
+      "raw_hot": 2156012,
+      "num": 2156012,
       "word": "王曼昱vs伊藤美诚",
       "onboard_time": 1665232647,
       "rank": 17,
@@ -235,20 +235,20 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 2033025,
+      "num": 2033025,
+      "word": "中国女团vs日本女团",
+      "onboard_time": 1665228206,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2011028,
       "num": 2011028,
       "word": "RNG战胜GEN",
       "onboard_time": 1665199284,
       "rank": 0,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 2006935,
-      "num": 2006935,
-      "word": "中国女团vs日本女团",
-      "onboard_time": 1665228206,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 1992534,
@@ -305,6 +305,14 @@
       "onboard_time": 1664857223,
       "rank": 10,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 1827057,
+      "num": 1827057,
+      "word": "孙颖莎vs长崎美柚",
+      "onboard_time": 1665235585,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1823183,
@@ -1451,6 +1459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 687720,
+      "num": 464021,
+      "word": "刘雯 超模就是超模",
+      "onboard_time": 1665231985,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 686003,
       "num": 686003,
       "word": "山东11市出现大暴雨",
@@ -1512,14 +1528,6 @@
       "word": "吴京说王俊凯跟他年轻时候差不多",
       "onboard_time": 1664948841,
       "rank": 12,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 668430,
-      "num": 449586,
-      "word": "刘雯 超模就是超模",
-      "onboard_time": 1665231985,
-      "rank": 11,
       "category": "作品衍生"
     },
     {
@@ -2459,6 +2467,14 @@
       "category": "国外要闻,社会新闻"
     },
     {
+      "raw_hot": 463508,
+      "num": 109685,
+      "word": "时代少年团直播",
+      "onboard_time": 1665236727,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 463230,
       "num": 463230,
       "word": "4只狗崽暴雨天被困狗妈狂吠求救",
@@ -2545,6 +2561,14 @@
       "onboard_time": 1664930482,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 455305,
+      "num": 455305,
+      "word": "十八岁喜欢的那个人怎么样了",
+      "onboard_time": 1665233366,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 455303,
@@ -2643,12 +2667,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 444173,
+      "num": 444173,
+      "word": "中国女排不敌意大利",
+      "onboard_time": 1665234927,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 443404,
       "num": 443404,
       "word": "天天向上创新改版",
       "onboard_time": 1665105023,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 442682,
+      "num": 442682,
+      "word": "黄牌",
+      "onboard_time": 1665234987,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 442517,
@@ -3257,6 +3297,14 @@
       "onboard_time": 1664804365,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 376433,
+      "num": 376433,
+      "word": "恋与制作人",
+      "onboard_time": 1665234507,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 375920,
@@ -4059,6 +4107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 292733,
+      "num": 292733,
+      "word": "王曼昱3比1伊藤美诚",
+      "onboard_time": 1665234686,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 292729,
       "num": 292729,
       "word": "北京朝阳新增1例感染者",
@@ -4291,6 +4347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274649,
+      "num": 274649,
+      "word": "我的一句话被爸爸记了十年",
+      "onboard_time": 1665232825,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 274081,
       "num": 130172,
       "word": "金昇玟拖进度条",
@@ -4305,14 +4369,6 @@
       "onboard_time": 1665062243,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 273191,
-      "num": 273191,
-      "word": "恋与制作人",
-      "onboard_time": 1665234507,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 273101,
@@ -4536,6 +4592,14 @@
       "word": "任嘉伦请君24个字求婚李沁好苏",
       "onboard_time": 1664970082,
       "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 260963,
+      "num": 260963,
+      "word": "张彬彬说舍不得两个人的小森林",
+      "onboard_time": 1665235468,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -5763,14 +5827,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 201393,
-      "num": 201393,
-      "word": "十八岁喜欢的那个人怎么样了",
-      "onboard_time": 1665233366,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 201264,
       "num": 201264,
       "word": "两条北溪天然气管道都已停止泄漏",
@@ -6177,14 +6233,6 @@
       "onboard_time": 1664889805,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 184542,
-      "num": 184542,
-      "word": "我的一句话被爸爸记了十年",
-      "onboard_time": 1665232825,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 184173,
@@ -8091,6 +8139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 113107,
+      "num": 113107,
+      "word": "妈妈的味道",
+      "onboard_time": 1665235826,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113068,
       "num": 113068,
       "word": "狗狗也有心累的时候吧",
@@ -9235,6 +9291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 73008,
+      "num": 2029324,
+      "word": "4K视频看海上火箭发射",
+      "onboard_time": 1665232886,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 72862,
       "num": 72862,
       "word": "如何看海天味业否认双标",
@@ -9633,14 +9697,6 @@
       "onboard_time": 1665122724,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 54268,
-      "num": 2029324,
-      "word": "4K视频看海上火箭发射",
-      "onboard_time": 1665232886,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 53027,

@@ -1,6 +1,6 @@
 {
   "startTime": 1665160801801,
-  "endTime": 1665234665946,
+  "endTime": 1665236760335,
   "band_list": [
     {
       "raw_hot": 7482868,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2822226,
-      "num": 449827,
+      "num": 465519,
       "word": "张小斐 绝了",
       "onboard_time": 1665231924,
       "rank": 10,
@@ -67,8 +67,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2137903,
-      "num": 2137903,
+      "raw_hot": 2156012,
+      "num": 2156012,
       "word": "王曼昱vs伊藤美诚",
       "onboard_time": 1665232647,
       "rank": 17,
@@ -83,6 +83,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2033025,
+      "num": 2033025,
+      "word": "中国女团vs日本女团",
+      "onboard_time": 1665228206,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2011028,
       "num": 2011028,
       "word": "RNG战胜GEN",
@@ -91,19 +99,19 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 2006935,
-      "num": 2006935,
-      "word": "中国女团vs日本女团",
-      "onboard_time": 1665228206,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1992534,
       "num": 1992534,
       "word": "王楚钦vs张本智和",
       "onboard_time": 1665215484,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1827057,
+      "num": 1827057,
+      "word": "孙颖莎vs长崎美柚",
+      "onboard_time": 1665235585,
+      "rank": 3,
       "category": "体育"
     },
     {
@@ -347,20 +355,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 687720,
+      "num": 464021,
+      "word": "刘雯 超模就是超模",
+      "onboard_time": 1665231985,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 683084,
       "num": 683084,
       "word": "爱奇艺待播剧爆款预定",
       "onboard_time": 1665155906,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 668430,
-      "num": 449586,
-      "word": "刘雯 超模就是超模",
-      "onboard_time": 1665231985,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 653653,
@@ -547,6 +555,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 463508,
+      "num": 109685,
+      "word": "时代少年团直播",
+      "onboard_time": 1665236727,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 455305,
+      "num": 455305,
+      "word": "十八岁喜欢的那个人怎么样了",
+      "onboard_time": 1665233366,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 453862,
       "num": 453862,
       "word": "金毛哥哥帮生病弟弟举吊瓶",
@@ -561,6 +585,22 @@
       "onboard_time": 1665192143,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 444173,
+      "num": 444173,
+      "word": "中国女排不敌意大利",
+      "onboard_time": 1665234927,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 442682,
+      "num": 442682,
+      "word": "黄牌",
+      "onboard_time": 1665234987,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 433228,
@@ -633,6 +673,14 @@
       "onboard_time": 1665188543,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 376433,
+      "num": 376433,
+      "word": "恋与制作人",
+      "onboard_time": 1665234507,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 367573,
@@ -859,6 +907,14 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 292733,
+      "num": 292733,
+      "word": "王曼昱3比1伊藤美诚",
+      "onboard_time": 1665234686,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 286810,
       "num": 286810,
       "word": "唐朝诡事录停不下来",
@@ -907,12 +963,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 273191,
-      "num": 273191,
-      "word": "恋与制作人",
-      "onboard_time": 1665234507,
-      "rank": 19,
-      "category": "游戏"
+      "raw_hot": 274649,
+      "num": 274649,
+      "word": "我的一句话被爸爸记了十年",
+      "onboard_time": 1665232825,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 269522,
@@ -945,6 +1001,14 @@
       "onboard_time": 1665185839,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260963,
+      "num": 260963,
+      "word": "张彬彬说舍不得两个人的小森林",
+      "onboard_time": 1665235468,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 259137,
@@ -1195,14 +1259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201393,
-      "num": 201393,
-      "word": "十八岁喜欢的那个人怎么样了",
-      "onboard_time": 1665233366,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 200712,
       "num": 200712,
       "word": "国乒男团战日本名单出炉",
@@ -1281,14 +1337,6 @@
       "onboard_time": 1665234265,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 184542,
-      "num": 184542,
-      "word": "我的一句话被爸爸记了十年",
-      "onboard_time": 1665232825,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 183489,
@@ -1587,6 +1635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 113107,
+      "num": 113107,
+      "word": "妈妈的味道",
+      "onboard_time": 1665235826,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109030,
       "num": 2078156,
       "word": "我国成功在海上发射一箭双星",
@@ -1795,6 +1851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 73008,
+      "num": 2029324,
+      "word": "4K视频看海上火箭发射",
+      "onboard_time": 1665232886,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 72053,
       "num": 72053,
       "word": "3D打印肉将投入商业领域",
@@ -1865,14 +1929,6 @@
       "onboard_time": 1665147684,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 54268,
-      "num": 2029324,
-      "word": "4K视频看海上火箭发射",
-      "onboard_time": 1665232886,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 53573,
