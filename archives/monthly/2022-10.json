@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665208245273,
+  "endTime": 1665210807523,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -89,6 +89,14 @@
       "onboard_time": 1664687724,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2766988,
+      "num": 2766988,
+      "word": "闹钟没响",
+      "onboard_time": 1665205585,
+      "rank": 0,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 2676178,
@@ -185,14 +193,6 @@
       "onboard_time": 1665140241,
       "rank": 4,
       "category": "情感"
-    },
-    {
-      "raw_hot": 2213266,
-      "num": 2213266,
-      "word": "闹钟没响",
-      "onboard_time": 1665205585,
-      "rank": 0,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 2182574,
@@ -433,6 +433,14 @@
       "onboard_time": 1665023963,
       "rank": 24,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1569350,
+      "num": 1569350,
+      "word": "原来周一可以有三天",
+      "onboard_time": 1665206005,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 1552975,
@@ -1105,14 +1113,6 @@
       "onboard_time": 1664925737,
       "rank": 12,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 972078,
-      "num": 972078,
-      "word": "原来周一可以有三天",
-      "onboard_time": 1665206005,
-      "rank": 9,
-      "category": "幽默"
     },
     {
       "raw_hot": 971075,
@@ -2203,6 +2203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 569117,
+      "num": 417615,
+      "word": "赵露思陈哲远偷偷藏不住海边吻戏路透",
+      "onboard_time": 1665206724,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 566001,
       "num": 566001,
       "word": "浙江一学霸村实现户户有大学生",
@@ -2265,6 +2273,14 @@
       "onboard_time": 1664761945,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 556435,
+      "num": 556435,
+      "word": "双胞胎姐妹同天出嫁新郎接亲时懵了",
+      "onboard_time": 1665208884,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 556254,
@@ -2443,6 +2459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 525503,
+      "num": 525503,
+      "word": "程潇赞多小鬼街舞5官宣",
+      "onboard_time": 1665208043,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 524663,
       "num": 304275,
       "word": "BLACKPINK世界巡演视觉预告海报",
@@ -2465,6 +2489,14 @@
       "onboard_time": 1664879122,
       "rank": 36,
       "category": "情感,社会议题"
+    },
+    {
+      "raw_hot": 523465,
+      "num": 523465,
+      "word": "朝鲜称其导弹发射针对美国",
+      "onboard_time": 1665204684,
+      "rank": 27,
+      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 521970,
@@ -2595,6 +2627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 501932,
+      "num": 501932,
+      "word": "刻赤海峡大桥发生火灾",
+      "onboard_time": 1665208764,
+      "rank": 6,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 499325,
       "num": 383838,
       "word": "俄外交部称俄完全遵守不可发生核战争声明",
@@ -2673,14 +2713,6 @@
       "onboard_time": 1664779101,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 485208,
-      "num": 417615,
-      "word": "赵露思陈哲远偷偷藏不住海边吻戏路透",
-      "onboard_time": 1665206724,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 484829,
@@ -2873,14 +2905,6 @@
       "onboard_time": 1665040523,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 470272,
-      "num": 470272,
-      "word": "朝鲜称其导弹发射针对美国",
-      "onboard_time": 1665204684,
-      "rank": 27,
-      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 469469,
@@ -4723,6 +4747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 296672,
+      "num": 296672,
+      "word": "王一博杭州亚运会歌曲征集宣传视频",
+      "onboard_time": 1665210021,
+      "rank": 13,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 296066,
       "num": 296066,
       "word": "马龙3比0莫雷加德",
@@ -4985,6 +5017,14 @@
       "onboard_time": 1665191303,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 279297,
+      "num": 279297,
+      "word": "王鹤棣人物大片live图",
+      "onboard_time": 1665209363,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 278588,
@@ -5345,14 +5385,6 @@
       "onboard_time": 1664965283,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 264108,
-      "num": 264108,
-      "word": "程潇赞多小鬼街舞5官宣",
-      "onboard_time": 1665208043,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 263097,
@@ -5963,6 +5995,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 238335,
+      "num": 207766,
+      "word": "脱口秀女演员的力量感",
+      "onboard_time": 1665208103,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 238124,
       "num": 238124,
       "word": "炽道 上头",
@@ -6177,6 +6217,14 @@
       "onboard_time": 1664977525,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 228235,
+      "num": 228235,
+      "word": "甘宇出院",
+      "onboard_time": 1665207863,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228133,
@@ -6769,14 +6817,6 @@
       "onboard_time": 1664621902,
       "rank": 26,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 204651,
-      "num": 204651,
-      "word": "脱口秀女演员的力量感",
-      "onboard_time": 1665208103,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 203956,
@@ -7827,6 +7867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166898,
+      "num": 166898,
+      "word": "王嘉尔ChampagneCool运镜",
+      "onboard_time": 1665208463,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 166734,
       "num": 166734,
       "word": "多地已加入下雪群聊",
@@ -8499,6 +8547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145536,
+      "num": 145536,
+      "word": "国乒男团战日本名单出炉",
+      "onboard_time": 1665210562,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145420,
       "num": 145420,
       "word": "2个动作缓解含胸驼背",
@@ -8939,6 +8995,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134225,
+      "num": 134225,
+      "word": "国庆假期后油价或再下调",
+      "onboard_time": 1665209125,
+      "rank": 32,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 134107,
       "num": 134107,
       "word": "国庆假期偶遇执勤警犬歪头杀",
@@ -9297,14 +9361,6 @@
       "onboard_time": 1664609426,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124160,
-      "num": 124160,
-      "word": "甘宇出院",
-      "onboard_time": 1665207863,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 123922,
@@ -9963,6 +10019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 107491,
+      "num": 107491,
+      "word": "浙江发现新物种白盖鸡油菌",
+      "onboard_time": 1665210322,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106819,
       "num": 76252,
       "word": "嗨放派",
@@ -9977,6 +10041,14 @@
       "onboard_time": 1664513486,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106522,
+      "num": 106522,
+      "word": "郑钧用肚子表演翻江倒海",
+      "onboard_time": 1665209962,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 106483,
@@ -11363,6 +11435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 65556,
+      "num": 65556,
+      "word": "这只黑猩猩也太嘚瑟了吧",
+      "onboard_time": 1665208642,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 65538,
       "num": 65538,
       "word": "陈梦3比0马达拉茨",
@@ -11985,6 +12065,14 @@
       "onboard_time": 1664676802,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42390,
+      "num": 280306,
+      "word": "用手把钢材叠成纸飞机分几步",
+      "onboard_time": 1665208824,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42375,

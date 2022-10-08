@@ -1,0 +1,410 @@
+{
+  "runTime": 1665210807523,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2766988,
+        "num": 2766988,
+        "word": "闹钟没响",
+        "onboard_time": 1665205585,
+        "rank": 0,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 1569350,
+        "num": 1569350,
+        "word": "原来周一可以有三天",
+        "onboard_time": 1665206005,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 6880,
+        "num": 950600,
+        "word": "江河奔腾看中国",
+        "onboard_time": 1665128123,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 556435,
+        "num": 556435,
+        "word": "双胞胎姐妹同天出嫁新郎接亲时懵了",
+        "onboard_time": 1665208884,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525503,
+        "num": 525503,
+        "word": "程潇赞多小鬼街舞5官宣",
+        "onboard_time": 1665208043,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 523465,
+        "num": 523465,
+        "word": "朝鲜称其导弹发射针对美国",
+        "onboard_time": 1665204684,
+        "rank": 5,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 501932,
+        "num": 501932,
+        "word": "刻赤海峡大桥发生火灾",
+        "onboard_time": 1665208764,
+        "rank": 6,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 371091,
+        "num": 371091,
+        "word": "吴京拿水瓶指着王俊凯的头",
+        "onboard_time": 1665199704,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 360157,
+        "num": 360157,
+        "word": "美国芯片巨头一夜暴跌近14%",
+        "onboard_time": 1665202406,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 320832,
+        "num": 320832,
+        "word": "郑州人民医院停诊",
+        "onboard_time": 1665197542,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569117,
+        "num": 320423,
+        "word": "赵露思陈哲远偷偷藏不住海边吻戏路透",
+        "onboard_time": 1665206724,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 308786,
+        "num": 308786,
+        "word": "肖战杭州亚运会第三轮歌曲征集宣传VCR",
+        "onboard_time": 1665204145,
+        "rank": 11,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 308667,
+        "num": 308667,
+        "word": "马斯克官宣特斯拉电动卡车投产",
+        "onboard_time": 1665204085,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 296672,
+        "num": 296672,
+        "word": "王一博杭州亚运会歌曲征集宣传视频",
+        "onboard_time": 1665210021,
+        "rank": 13,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 42390,
+        "num": 280306,
+        "word": "用手把钢材叠成纸飞机分几步",
+        "onboard_time": 1665208824,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279297,
+        "num": 279297,
+        "word": "王鹤棣人物大片live图",
+        "onboard_time": 1665209363,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 274613,
+        "num": 274613,
+        "word": "爸爸带厌学男孩工地搬钢筋",
+        "onboard_time": 1665200965,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236796,
+        "num": 236796,
+        "word": "RNG战胜GEN",
+        "onboard_time": 1665199284,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 228235,
+        "num": 228235,
+        "word": "甘宇出院",
+        "onboard_time": 1665207863,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208232,
+        "num": 208232,
+        "word": "过于先进不宜展示的画面来了",
+        "onboard_time": 1665195082,
+        "rank": 19,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 238335,
+        "num": 207766,
+        "word": "脱口秀女演员的力量感",
+        "onboard_time": 1665208103,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205294,
+        "num": 205294,
+        "word": "它是我见过最温顺的猴子了",
+        "onboard_time": 1665206304,
+        "rank": 21,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 180741,
+        "num": 180741,
+        "word": "管泽元",
+        "onboard_time": 1665200540,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180352,
+        "num": 180352,
+        "word": "男子订婚当天喝醉摔倒在河边",
+        "onboard_time": 1665194182,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166898,
+        "num": 166898,
+        "word": "王嘉尔ChampagneCool运镜",
+        "onboard_time": 1665208463,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 160495,
+        "num": 160495,
+        "word": "浙江一学霸村实现户户有大学生",
+        "onboard_time": 1665197602,
+        "rank": 25,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 155313,
+        "num": 155313,
+        "word": "萌鸟仅存约700只全球告危",
+        "onboard_time": 1665201626,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148652,
+        "num": 148652,
+        "word": "难道今天不是星期六吗",
+        "onboard_time": 1665204745,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147080,
+        "num": 147080,
+        "word": "金毛哥哥帮生病弟弟举吊瓶",
+        "onboard_time": 1665198745,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145536,
+        "num": 145536,
+        "word": "国乒男团战日本名单出炉",
+        "onboard_time": 1665210562,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136487,
+        "num": 136487,
+        "word": "上海疫情防控",
+        "onboard_time": 1665189144,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135302,
+        "num": 135302,
+        "word": "张艺兴旧金山演唱会",
+        "onboard_time": 1665197722,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 134225,
+        "num": 134225,
+        "word": "国庆假期后油价或再下调",
+        "onboard_time": 1665209125,
+        "rank": 32,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 132866,
+        "num": 132866,
+        "word": "北京五道口购物中心今日暂停营业",
+        "onboard_time": 1665196941,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122118,
+        "num": 122118,
+        "word": "父亲国庆返岗9岁女儿偷塞100块",
+        "onboard_time": 1665196882,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115927,
+        "num": 115927,
+        "word": "北方人已经搬出了羽绒服",
+        "onboard_time": 1665191724,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107491,
+        "num": 107491,
+        "word": "浙江发现新物种白盖鸡油菌",
+        "onboard_time": 1665210322,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106522,
+        "num": 106522,
+        "word": "郑钧用肚子表演翻江倒海",
+        "onboard_time": 1665209962,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106044,
+        "num": 106044,
+        "word": "被街头卖花的奶奶美到了",
+        "onboard_time": 1665189921,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 104513,
+        "num": 104513,
+        "word": "饿了么",
+        "onboard_time": 1665195982,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 99470,
+        "num": 99470,
+        "word": "新疆新增本土无症状感染者344例",
+        "onboard_time": 1665192143,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91343,
+        "num": 91343,
+        "word": "如果有个空气炸锅",
+        "onboard_time": 1665199103,
+        "rank": 41,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 81083,
+        "num": 81083,
+        "word": "预判失败的猫咪",
+        "onboard_time": 1665198924,
+        "rank": 42,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 78554,
+        "num": 78554,
+        "word": "T1战胜EDG",
+        "onboard_time": 1665195264,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 72624,
+        "num": 72624,
+        "word": "勇士全力调查冲突视频如何泄露",
+        "onboard_time": 1665192982,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65556,
+        "num": 65556,
+        "word": "这只黑猩猩也太嘚瑟了吧",
+        "onboard_time": 1665208642,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76395,
+        "num": 65457,
+        "word": "TI11",
+        "onboard_time": 1665201084,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 65300,
+        "num": 65300,
+        "word": "第一次见这么丑的猫",
+        "onboard_time": 1665187280,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 60462,
+        "num": 60462,
+        "word": "李克勤两年好声音选了李荣浩同一首歌",
+        "onboard_time": 1665200183,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59811,
+        "num": 59811,
+        "word": "节后上班emo了吗",
+        "onboard_time": 1665196223,
+        "rank": 49,
+        "category": "社会新闻,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#坐标中国#"
+    }
+  }
+}
