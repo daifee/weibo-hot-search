@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665253800627,
+  "endTime": 1665254939037,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -13313,6 +13313,14 @@
       "onboard_time": 1664667677,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 34726,
+      "num": 29021,
+      "word": "俄罗斯暂停所有前往克里米亚列车",
+      "onboard_time": 1665253932,
+      "rank": 20,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 34673,
