@@ -1,0 +1,410 @@
+{
+  "runTime": 1665211989455,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2432690,
+        "num": 2432690,
+        "word": "闹钟没响",
+        "onboard_time": 1665205585,
+        "rank": 0,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 1358995,
+        "num": 1358995,
+        "word": "原来周一可以有三天",
+        "onboard_time": 1665206005,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 8271,
+        "num": 948822,
+        "word": "江河奔腾看中国",
+        "onboard_time": 1665128123,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 916485,
+        "num": 916485,
+        "word": "双胞胎姐妹同天出嫁新郎接亲时懵了",
+        "onboard_time": 1665208884,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 888558,
+        "num": 888558,
+        "word": "刻赤海峡大桥发生火灾",
+        "onboard_time": 1665208764,
+        "rank": 4,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 488914,
+        "num": 488914,
+        "word": "程潇赞多小鬼街舞5官宣",
+        "onboard_time": 1665208043,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 445806,
+        "num": 445806,
+        "word": "吴京拿水瓶指着王俊凯的头",
+        "onboard_time": 1665199704,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 390734,
+        "num": 390734,
+        "word": "朝鲜称其导弹发射针对美国",
+        "onboard_time": 1665204684,
+        "rank": 7,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 298045,
+        "num": 298045,
+        "word": "美国芯片巨头一夜暴跌近14%",
+        "onboard_time": 1665202406,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 287086,
+        "num": 287086,
+        "word": "郑州人民医院停诊",
+        "onboard_time": 1665197542,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 596188,
+        "num": 272303,
+        "word": "赵露思陈哲远偷偷藏不住海边吻戏路透",
+        "onboard_time": 1665206724,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 333413,
+        "num": 266820,
+        "word": "王一博杭州亚运会歌曲征集宣传视频",
+        "onboard_time": 1665210021,
+        "rank": 11,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 257015,
+        "num": 257015,
+        "word": "脱口秀女演员的力量感",
+        "onboard_time": 1665208103,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245998,
+        "num": 245998,
+        "word": "马斯克官宣特斯拉电动卡车投产",
+        "onboard_time": 1665204085,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 57673,
+        "num": 233767,
+        "word": "用手把钢材叠成纸飞机分几步",
+        "onboard_time": 1665208824,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257351,
+        "num": 233748,
+        "word": "肖战杭州亚运会第三轮歌曲征集宣传VCR",
+        "onboard_time": 1665204145,
+        "rank": 15,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 233606,
+        "num": 233606,
+        "word": "爸爸带厌学男孩工地搬钢筋",
+        "onboard_time": 1665200965,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232251,
+        "num": 232251,
+        "word": "国庆假期后油价或再下调",
+        "onboard_time": 1665209125,
+        "rank": 17,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 229462,
+        "num": 229462,
+        "word": "浙江发现新物种白盖鸡油菌",
+        "onboard_time": 1665210322,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223249,
+        "num": 223249,
+        "word": "它是我见过最温顺的猴子了",
+        "onboard_time": 1665206304,
+        "rank": 19,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 220329,
+        "num": 220329,
+        "word": "RNG战胜GEN",
+        "onboard_time": 1665199284,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 220291,
+        "num": 220291,
+        "word": "王鹤棣人物大片live图",
+        "onboard_time": 1665209363,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204575,
+        "num": 204575,
+        "word": "过于先进不宜展示的画面来了",
+        "onboard_time": 1665195082,
+        "rank": 22,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 200712,
+        "num": 200712,
+        "word": "国乒男团战日本名单出炉",
+        "onboard_time": 1665210562,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194151,
+        "num": 194151,
+        "word": "甘宇出院",
+        "onboard_time": 1665207863,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180885,
+        "num": 180885,
+        "word": "管泽元",
+        "onboard_time": 1665200540,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154758,
+        "num": 154758,
+        "word": "上海疫情防控",
+        "onboard_time": 1665189144,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154088,
+        "num": 154088,
+        "word": "男子订婚当天喝醉摔倒在河边",
+        "onboard_time": 1665194182,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144872,
+        "num": 144872,
+        "word": "金毛哥哥帮生病弟弟举吊瓶",
+        "onboard_time": 1665198745,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144566,
+        "num": 144566,
+        "word": "王嘉尔ChampagneCool运镜",
+        "onboard_time": 1665208463,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 144337,
+        "num": 144337,
+        "word": "郑钧用肚子表演翻江倒海",
+        "onboard_time": 1665209962,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142290,
+        "num": 142290,
+        "word": "浙江一学霸村实现户户有大学生",
+        "onboard_time": 1665197602,
+        "rank": 31,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 133331,
+        "num": 133331,
+        "word": "萌鸟仅存约700只全球告危",
+        "onboard_time": 1665201626,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119248,
+        "num": 119248,
+        "word": "北京五道口购物中心今日暂停营业",
+        "onboard_time": 1665196941,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112855,
+        "num": 112855,
+        "word": "父亲国庆返岗9岁女儿偷塞100块",
+        "onboard_time": 1665196882,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112718,
+        "num": 112718,
+        "word": "张艺兴旧金山演唱会",
+        "onboard_time": 1665197722,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 111984,
+        "num": 111984,
+        "word": "TI11",
+        "onboard_time": 1665201084,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111008,
+        "num": 111008,
+        "word": "难道今天不是星期六吗",
+        "onboard_time": 1665204745,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107705,
+        "num": 107705,
+        "word": "如果有个空气炸锅",
+        "onboard_time": 1665199103,
+        "rank": 38,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 107034,
+        "num": 107034,
+        "word": "北方人已经搬出了羽绒服",
+        "onboard_time": 1665191724,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102475,
+        "num": 102475,
+        "word": "新疆新增本土无症状感染者344例",
+        "onboard_time": 1665192143,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89265,
+        "num": 89265,
+        "word": "被街头卖花的奶奶美到了",
+        "onboard_time": 1665189921,
+        "rank": 41,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 88521,
+        "num": 88521,
+        "word": "中国男团vs日本男团",
+        "onboard_time": 1665211640,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87978,
+        "num": 87978,
+        "word": "饿了么",
+        "onboard_time": 1665195982,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 82010,
+        "num": 82010,
+        "word": "女子坐高铁抽电子烟",
+        "onboard_time": 1665211762,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78736,
+        "num": 78736,
+        "word": "预判失败的猫咪",
+        "onboard_time": 1665198924,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 77306,
+        "num": 77306,
+        "word": "狗狗陪主人出门冻得不停抖腿",
+        "onboard_time": 1665211283,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75306,
+        "num": 75306,
+        "word": "这只黑猩猩也太嘚瑟了吧",
+        "onboard_time": 1665208642,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 67765,
+        "num": 67765,
+        "word": "T1战胜EDG",
+        "onboard_time": 1665195264,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 62818,
+        "num": 62818,
+        "word": "勇士全力调查冲突视频如何泄露",
+        "onboard_time": 1665192982,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#思想的力量#"
+    }
+  }
+}
