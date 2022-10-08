@@ -1,6 +1,6 @@
 {
   "startTime": 1665160801801,
-  "endTime": 1665217926019,
+  "endTime": 1665219002392,
   "band_list": [
     {
       "raw_hot": 2766988,
@@ -123,6 +123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1090870,
+      "num": 1090870,
+      "word": "普京下令调查克里米亚大桥事故原因",
+      "onboard_time": 1665214703,
+      "rank": 46,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1038394,
       "num": 1038394,
       "word": "双胞胎姐妹同天出嫁新郎接亲时懵了",
@@ -147,12 +155,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 833342,
-      "num": 833342,
-      "word": "普京下令调查克里米亚大桥事故原因",
-      "onboard_time": 1665214703,
-      "rank": 46,
-      "category": "国外要闻"
+      "raw_hot": 835915,
+      "num": 692592,
+      "word": "乌方称克里米亚大桥事件仅是开始",
+      "onboard_time": 1665216203,
+      "rank": 6,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 830237,
@@ -169,6 +177,14 @@
       "onboard_time": 1665187280,
       "rank": 3,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 782883,
+      "num": 782883,
+      "word": "张本智和 吵",
+      "onboard_time": 1665218065,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 736056,
@@ -203,14 +219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 692592,
-      "num": 692592,
-      "word": "乌方称克里米亚大桥事件仅是开始",
-      "onboard_time": 1665216203,
-      "rank": 6,
-      "category": "国外要闻,军事"
-    },
-    {
       "raw_hot": 683084,
       "num": 683084,
       "word": "爱奇艺待播剧爆款预定",
@@ -243,6 +251,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 608320,
+      "num": 608320,
+      "word": "王楚钦1比3张本智和",
+      "onboard_time": 1665218005,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 605094,
       "num": 605094,
       "word": "T1对战EDG",
@@ -265,6 +281,14 @@
       "onboard_time": 1665197602,
       "rank": 7,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 540431,
+      "num": 540431,
+      "word": "TMA",
+      "onboard_time": 1665216925,
+      "rank": 10,
+      "category": "音乐"
     },
     {
       "raw_hot": 539856,
@@ -323,14 +347,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 457934,
-      "num": 457934,
-      "word": "TMA",
-      "onboard_time": 1665216925,
-      "rank": 10,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 453862,
       "num": 453862,
       "word": "金毛哥哥帮生病弟弟举吊瓶",
@@ -347,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 434258,
+      "num": 434258,
+      "word": "赵丽颖林更新与凤行剧组合影",
+      "onboard_time": 1665218124,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 426811,
       "num": 426811,
       "word": "饿了么",
@@ -361,6 +385,14 @@
       "onboard_time": 1665210322,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 409129,
+      "num": 409129,
+      "word": "世界第一樊振东",
+      "onboard_time": 1665217524,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 398680,
@@ -539,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 297034,
+      "num": 297034,
+      "word": "爬山爬一半发现景点在对面山头",
+      "onboard_time": 1665217524,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296514,
       "num": 296514,
       "word": "距离下个假期还有85天",
@@ -708,7 +748,7 @@
     },
     {
       "raw_hot": 225283,
-      "num": 82706,
+      "num": 179187,
       "word": "张译王俊凯殷桃万里归途票房破11亿",
       "onboard_time": 1665217885,
       "rank": 47,
@@ -737,6 +777,14 @@
       "onboard_time": 1665169691,
       "rank": 47,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 218299,
+      "num": 218299,
+      "word": "研究称悲伤孤独比吸烟更加速衰老",
+      "onboard_time": 1665217044,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207412,
@@ -811,12 +859,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 188128,
+      "num": 188128,
+      "word": "金瀚倒立喝牛奶",
+      "onboard_time": 1665217405,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186780,
       "num": 99825,
       "word": "王源新专辑筹备中",
       "onboard_time": 1665205464,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 186094,
+      "num": 186094,
+      "word": "被尊重和在乎的感觉真好",
+      "onboard_time": 1665218302,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 183489,
@@ -915,6 +979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 157190,
+      "num": 157190,
+      "word": "成都世乒赛团体赛",
+      "onboard_time": 1665214760,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155059,
       "num": 155059,
       "word": "万里归途中的外交人员家属",
@@ -937,6 +1009,14 @@
       "onboard_time": 1665162796,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149718,
+      "num": 83062,
+      "word": "北京疫情发布会",
+      "onboard_time": 1665218964,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149342,
@@ -995,12 +1075,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 138203,
-      "num": 138203,
-      "word": "成都世乒赛团体赛",
-      "onboard_time": 1665214760,
-      "rank": 34,
-      "category": "体育"
+      "raw_hot": 137357,
+      "num": 137357,
+      "word": "余华和莫言看完都沉默了",
+      "onboard_time": 1665218183,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 133231,
@@ -1016,14 +1096,6 @@
       "word": "蒲熠星说在脑力节目里尽情展现了体力",
       "onboard_time": 1665185780,
       "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 128712,
-      "num": 128712,
-      "word": "金瀚倒立喝牛奶",
-      "onboard_time": 1665217405,
-      "rank": 28,
       "category": "综艺"
     },
     {
@@ -1051,14 +1123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 112534,
-      "num": 112534,
-      "word": "世界第一樊振东",
-      "onboard_time": 1665217524,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 107503,
       "num": 107503,
       "word": "田雯雯康复后被孤立",
@@ -1067,28 +1131,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 104882,
-      "num": 104882,
-      "word": "爬山爬一半发现景点在对面山头",
-      "onboard_time": 1665217524,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 104791,
       "num": 104791,
       "word": "S12小组赛开赛",
       "onboard_time": 1665143964,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 104201,
-      "num": 104201,
-      "word": "研究称悲伤孤独比吸烟更加速衰老",
-      "onboard_time": 1665217044,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 103492,
@@ -1137,6 +1185,14 @@
       "onboard_time": 1665154287,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88017,
+      "num": 88017,
+      "word": "古人笔下的秋天有多美",
+      "onboard_time": 1665218183,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 87830,
@@ -1195,6 +1251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83044,
+      "num": 83044,
+      "word": "俄方披露克里米亚大桥起火细节",
+      "onboard_time": 1665218785,
+      "rank": 48,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 78780,
       "num": 78780,
       "word": "国足世界杯出线21周年",
@@ -1209,6 +1273,14 @@
       "onboard_time": 1665208642,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 76011,
+      "num": 76011,
+      "word": "我言秋日胜春朝太应景了",
+      "onboard_time": 1665218725,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74041,
@@ -1241,6 +1313,14 @@
       "onboard_time": 1665142224,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 63821,
+      "num": 1258062,
+      "word": "我国成功在海上发射一箭双星",
+      "onboard_time": 1665217223,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 63791,
@@ -1297,6 +1377,14 @@
       "onboard_time": 1665150206,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 53027,
+      "num": 409585,
+      "word": "林俊德院士的遗言让人泪目",
+      "onboard_time": 1665217163,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52368,
@@ -1361,22 +1449,6 @@
       "onboard_time": 1665148823,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 32375,
-      "num": 1258062,
-      "word": "我国成功在海上发射一箭双星",
-      "onboard_time": 1665217223,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 31866,
-      "num": 277264,
-      "word": "林俊德院士的遗言让人泪目",
-      "onboard_time": 1665217163,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22535,
