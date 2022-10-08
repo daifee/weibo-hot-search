@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665196728719,
+  "endTime": 1665201644374,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -225,6 +225,22 @@
       "onboard_time": 1665031580,
       "rank": 4,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 2011028,
+      "num": 2011028,
+      "word": "RNG战胜GEN",
+      "onboard_time": 1665199284,
+      "rank": 0,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 1982239,
+      "num": 1982239,
+      "word": "郑州人民医院停诊",
+      "onboard_time": 1665197542,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1957386,
@@ -1923,6 +1939,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 619058,
+      "num": 619058,
+      "word": "过于先进不宜展示的画面来了",
+      "onboard_time": 1665195082,
+      "rank": 35,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 615037,
       "num": 530774,
       "word": "老鼠站门框与狗僵持对峙6小时",
@@ -1937,6 +1961,14 @@
       "onboard_time": 1665158603,
       "rank": 20,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 613127,
+      "num": 613127,
+      "word": "吴京拿水瓶指着王俊凯的头",
+      "onboard_time": 1665199704,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 606736,
@@ -2275,6 +2307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 541814,
+      "num": 541814,
+      "word": "浙江一学霸村实现户户有大学生",
+      "onboard_time": 1665197602,
+      "rank": 7,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 541270,
       "num": 541270,
       "word": "就想问能不能不上班",
@@ -2289,6 +2329,14 @@
       "onboard_time": 1664621721,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 539856,
+      "num": 539856,
+      "word": "北京五道口购物中心今日暂停营业",
+      "onboard_time": 1665196941,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 539141,
@@ -2457,6 +2505,14 @@
       "onboard_time": 1664755820,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 508419,
+      "num": 508419,
+      "word": "管泽元",
+      "onboard_time": 1664597601,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 508018,
@@ -2811,6 +2867,14 @@
       "category": "国外要闻,社会新闻"
     },
     {
+      "raw_hot": 463948,
+      "num": 463948,
+      "word": "田惠宇被双开",
+      "onboard_time": 1665197542,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 463230,
       "num": 463230,
       "word": "4只狗崽暴雨天被困狗妈狂吠求救",
@@ -3155,6 +3219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 426811,
+      "num": 426811,
+      "word": "饿了么",
+      "onboard_time": 1665195982,
+      "rank": 15,
+      "category": "科技"
+    },
+    {
       "raw_hot": 425615,
       "num": 371750,
       "word": "李冰冰所有情绪都在眼睛里",
@@ -3419,6 +3491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 398680,
+      "num": 398680,
+      "word": "张艺兴旧金山演唱会",
+      "onboard_time": 1665197722,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 397032,
       "num": 397032,
       "word": "张雨绮说这个家不能没有雪莉杨",
@@ -3633,6 +3713,14 @@
       "onboard_time": 1665039623,
       "rank": 13,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 383868,
+      "num": 383868,
+      "word": "金毛哥哥帮生病弟弟举吊瓶",
+      "onboard_time": 1665198745,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 383845,
@@ -3979,6 +4067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 351574,
+      "num": 351574,
+      "word": "王鹤棣人物光影氛围感大片",
+      "onboard_time": 1665197781,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 351259,
       "num": 351259,
       "word": "哪一刻你意识到应该多读书",
@@ -4211,20 +4307,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 329367,
-      "num": 329367,
-      "word": "饿了么",
-      "onboard_time": 1665195982,
-      "rank": 15,
-      "category": "科技"
-    },
-    {
       "raw_hot": 328898,
       "num": 300369,
       "word": "金晨王安宇戏外互晒情侣视角照",
       "onboard_time": 1664776283,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 327595,
+      "num": 327595,
+      "word": "父亲国庆返岗9岁女儿偷塞100块",
+      "onboard_time": 1665196882,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 325734,
@@ -4385,6 +4481,14 @@
       "onboard_time": 1664964504,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 308881,
+      "num": 300542,
+      "word": "GEN对战RNG",
+      "onboard_time": 1665195503,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 308598,
@@ -4859,14 +4963,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 274994,
-      "num": 274994,
-      "word": "GEN对战RNG",
-      "onboard_time": 1665195503,
-      "rank": 16,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 274854,
       "num": 274854,
       "word": "泰迪欺负小猫后被猫妈妈抓破鼻子",
@@ -5089,6 +5185,14 @@
       "onboard_time": 1664957602,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 265683,
+      "num": 245086,
+      "word": "EDG BP",
+      "onboard_time": 1665195623,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 265226,
@@ -5571,6 +5675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246094,
+      "num": 246094,
+      "word": "被街头卖花的奶奶美到了",
+      "onboard_time": 1665189921,
+      "rank": 42,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 244991,
       "num": 244991,
       "word": "国庆结束老师高铁上忙着改试卷",
@@ -5609,6 +5721,14 @@
       "onboard_time": 1664907194,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243747,
+      "num": 243747,
+      "word": "节后上班emo了吗",
+      "onboard_time": 1665196223,
+      "rank": 24,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 243711,
@@ -6251,20 +6371,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 217787,
+      "num": 217787,
+      "word": "如果有个空气炸锅",
+      "onboard_time": 1665199103,
+      "rank": 26,
+      "category": "幽默,美食"
+    },
+    {
       "raw_hot": 217765,
       "num": 217765,
       "word": "何广智说你得给我介绍艺人",
       "onboard_time": 1664895807,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 217348,
-      "num": 217348,
-      "word": "节后上班emo了吗",
-      "onboard_time": 1665196223,
-      "rank": 24,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 217251,
@@ -6401,14 +6521,6 @@
       "onboard_time": 1665112164,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 209085,
-      "num": 209085,
-      "word": "被街头卖花的奶奶美到了",
-      "onboard_time": 1665189921,
-      "rank": 42,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 208788,
@@ -6859,14 +6971,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 193915,
-      "num": 193915,
-      "word": "管泽元",
-      "onboard_time": 1664597601,
-      "rank": 21,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 193670,
       "num": 193670,
       "word": "中国空间站转变为L构型",
@@ -6969,6 +7073,14 @@
       "onboard_time": 1665138380,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 189889,
+      "num": 189889,
+      "word": "预判失败的猫咪",
+      "onboard_time": 1665198924,
+      "rank": 28,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 189836,
@@ -7611,6 +7723,14 @@
       "category": "体育,影视"
     },
     {
+      "raw_hot": 164593,
+      "num": 164593,
+      "word": "RNG小组赛首胜",
+      "onboard_time": 1665200965,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 164537,
       "num": 164537,
       "word": "只要心态好天天都是放假",
@@ -7715,14 +7835,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 161708,
-      "num": 161708,
-      "word": "EDG BP",
-      "onboard_time": 1665195623,
-      "rank": 27,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 161681,
       "num": 161681,
       "word": "北京新增本土确诊5例",
@@ -7745,6 +7857,14 @@
       "onboard_time": 1665056724,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 161244,
+      "num": 161244,
+      "word": "湖北昨日新增本土无症状108例",
+      "onboard_time": 1665197362,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161162,
@@ -8025,6 +8145,14 @@
       "onboard_time": 1665039923,
       "rank": 20,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 151672,
+      "num": 151672,
+      "word": "李克勤两年好声音选了李荣浩同一首歌",
+      "onboard_time": 1665200183,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 151670,
@@ -9195,14 +9323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 120340,
-      "num": 120340,
-      "word": "过于先进不宜展示的画面来了",
-      "onboard_time": 1665195082,
-      "rank": 35,
-      "category": "军事,社会新闻"
-    },
-    {
       "raw_hot": 120214,
       "num": 120214,
       "word": "eStar花海",
@@ -9305,6 +9425,14 @@
       "onboard_time": 1665059604,
       "rank": 39,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 117798,
+      "num": 117798,
+      "word": "爸爸带厌学男孩工地搬钢筋",
+      "onboard_time": 1665200965,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117541,
@@ -10131,6 +10259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95144,
+      "num": 95144,
+      "word": "TI11",
+      "onboard_time": 1665201084,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 94490,
       "num": 94490,
       "word": "这是今天的天安门广场",
@@ -10512,6 +10648,14 @@
       "word": "长春6旬大爷坚持滑雪21年",
       "onboard_time": 1664884103,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83896,
+      "num": 83059,
+      "word": "萌鸟仅存约700只全球告危",
+      "onboard_time": 1665201626,
+      "rank": 47,
       "category": "社会新闻"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1665201644374,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2011028,
+        "num": 2011028,
+        "word": "RNG战胜GEN",
+        "onboard_time": 1665199284,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1982239,
+        "num": 1982239,
+        "word": "郑州人民医院停诊",
+        "onboard_time": 1665197542,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7807,
+        "num": 1035806,
+        "word": "江河奔腾看中国",
+        "onboard_time": 1665128123,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 790820,
+        "num": 790820,
+        "word": "男子订婚当天喝醉摔倒在河边",
+        "onboard_time": 1665194182,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619058,
+        "num": 619058,
+        "word": "过于先进不宜展示的画面来了",
+        "onboard_time": 1665195082,
+        "rank": 4,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 613127,
+        "num": 613127,
+        "word": "吴京拿水瓶指着王俊凯的头",
+        "onboard_time": 1665199704,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 555624,
+        "num": 555624,
+        "word": "北方人已经搬出了羽绒服",
+        "onboard_time": 1665191724,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 541814,
+        "num": 541814,
+        "word": "浙江一学霸村实现户户有大学生",
+        "onboard_time": 1665197602,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 539856,
+        "num": 539856,
+        "word": "北京五道口购物中心今日暂停营业",
+        "onboard_time": 1665196941,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508419,
+        "num": 508419,
+        "word": "管泽元",
+        "onboard_time": 1665200540,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 474321,
+        "num": 474321,
+        "word": "10月7日新增本土无症状1301例",
+        "onboard_time": 1665192264,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463948,
+        "num": 463948,
+        "word": "田惠宇被双开",
+        "onboard_time": 1665197542,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478859,
+        "num": 462778,
+        "word": "T1战胜EDG",
+        "onboard_time": 1665195264,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 426811,
+        "num": 426811,
+        "word": "饿了么",
+        "onboard_time": 1665195982,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 398680,
+        "num": 398680,
+        "word": "张艺兴旧金山演唱会",
+        "onboard_time": 1665197722,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 383868,
+        "num": 383868,
+        "word": "金毛哥哥帮生病弟弟举吊瓶",
+        "onboard_time": 1665198745,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351574,
+        "num": 351574,
+        "word": "王鹤棣人物光影氛围感大片",
+        "onboard_time": 1665197781,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 327595,
+        "num": 327595,
+        "word": "父亲国庆返岗9岁女儿偷塞100块",
+        "onboard_time": 1665196882,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319215,
+        "num": 319215,
+        "word": "上海疫情防控",
+        "onboard_time": 1665189144,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307293,
+        "num": 307293,
+        "word": "第一次见这么丑的猫",
+        "onboard_time": 1665187280,
+        "rank": 19,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 308881,
+        "num": 300542,
+        "word": "GEN对战RNG",
+        "onboard_time": 1665195503,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 289185,
+        "num": 289185,
+        "word": "体检报告上的常见异常",
+        "onboard_time": 1665149425,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246094,
+        "num": 246094,
+        "word": "被街头卖花的奶奶美到了",
+        "onboard_time": 1665189921,
+        "rank": 22,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 265683,
+        "num": 245086,
+        "word": "EDG BP",
+        "onboard_time": 1665195623,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 243747,
+        "num": 243747,
+        "word": "节后上班emo了吗",
+        "onboard_time": 1665196223,
+        "rank": 24,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 234696,
+        "num": 234696,
+        "word": "勇士全力调查冲突视频如何泄露",
+        "onboard_time": 1665192982,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217787,
+        "num": 217787,
+        "word": "如果有个空气炸锅",
+        "onboard_time": 1665199103,
+        "rank": 26,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 193622,
+        "num": 193622,
+        "word": "国庆结束老师高铁上忙着改试卷",
+        "onboard_time": 1665193223,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 189889,
+        "num": 189889,
+        "word": "预判失败的猫咪",
+        "onboard_time": 1665198924,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 179194,
+        "num": 179194,
+        "word": "海恩贤圭牵手了",
+        "onboard_time": 1665186259,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173981,
+        "num": 173981,
+        "word": "曾黎新歌",
+        "onboard_time": 1665194659,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169883,
+        "num": 169883,
+        "word": "新疆新增本土无症状感染者344例",
+        "onboard_time": 1665192143,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164593,
+        "num": 164593,
+        "word": "RNG小组赛首胜",
+        "onboard_time": 1665200965,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162237,
+        "num": 162237,
+        "word": "以前觉得晚上九点就很晚了",
+        "onboard_time": 1665157527,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161244,
+        "num": 161244,
+        "word": "湖北昨日新增本土无症状108例",
+        "onboard_time": 1665197362,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151672,
+        "num": 151672,
+        "word": "李克勤两年好声音选了李荣浩同一首歌",
+        "onboard_time": 1665200183,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136761,
+        "num": 136761,
+        "word": "gidle将完整体出击认哥",
+        "onboard_time": 1665192203,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125314,
+        "num": 125314,
+        "word": "沈阳新增1例本土确诊病例",
+        "onboard_time": 1665193762,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120376,
+        "num": 120376,
+        "word": "一个人抱三只大熊猫会怎样",
+        "onboard_time": 1665188543,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117798,
+        "num": 117798,
+        "word": "爸爸带厌学男孩工地搬钢筋",
+        "onboard_time": 1665200965,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112753,
+        "num": 112753,
+        "word": "这标语谁看了敢不听话啊",
+        "onboard_time": 1665189202,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98730,
+        "num": 98730,
+        "word": "广东将加入降温群聊",
+        "onboard_time": 1665187642,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95144,
+        "num": 95144,
+        "word": "TI11",
+        "onboard_time": 1665201084,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 92685,
+        "num": 92685,
+        "word": "王楚钦",
+        "onboard_time": 1665148584,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88493,
+        "num": 88493,
+        "word": "女孩捡手机欲归还疑被大人阻止",
+        "onboard_time": 1665159322,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87839,
+        "num": 87839,
+        "word": "为什么年轻人想要逃离一线城市",
+        "onboard_time": 1665152125,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83881,
+        "num": 83881,
+        "word": "海南倡导支持男女共担家务",
+        "onboard_time": 1665177070,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83896,
+        "num": 83059,
+        "word": "萌鸟仅存约700只全球告危",
+        "onboard_time": 1665201626,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81539,
+        "num": 81539,
+        "word": "女子国庆返程父母塞了满车土特产",
+        "onboard_time": 1665191303,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77857,
+        "num": 77857,
+        "word": "老师逐一检查学生是否穿秋裤",
+        "onboard_time": 1665169691,
+        "rank": 49,
+        "category": "教育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#坐标中国#"
+    }
+  }
+}
