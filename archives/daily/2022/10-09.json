@@ -1,6 +1,6 @@
 {
   "startTime": 1665246866302,
-  "endTime": 1665248333467,
+  "endTime": 1665250193723,
   "band_list": [
     {
       "raw_hot": 1103496,
@@ -43,8 +43,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 366853,
-      "num": 231163,
+      "raw_hot": 403627,
+      "num": 403627,
       "word": "马克龙抱怨美国天然气要价4倍",
       "onboard_time": 1665244762,
       "rank": 11,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 239924,
-      "num": 199262,
+      "num": 218143,
       "word": "寺庙当家回应师太喂养独臂猴十余年",
       "onboard_time": 1665244644,
       "rank": 15,
@@ -275,6 +275,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 81853,
+      "num": 81853,
+      "word": "李冰冰古董高定",
+      "onboard_time": 1665248237,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 81749,
       "num": 81749,
       "word": "李承铉又双叒后空翻了",
@@ -331,14 +339,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 62715,
-      "num": 62715,
-      "word": "李冰冰古董高定",
-      "onboard_time": 1665248237,
-      "rank": 33,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 60127,
       "num": 60127,
       "word": "北京共存在10条独立传播链",
@@ -371,6 +371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 55405,
+      "num": 55405,
+      "word": "这只大猩猩也太会整活了",
+      "onboard_time": 1665245900,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 54613,
       "num": 54613,
       "word": "英超联赛",
@@ -387,19 +395,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 47233,
-      "num": 47233,
-      "word": "这只大猩猩也太会整活了",
-      "onboard_time": 1665245900,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 46677,
       "num": 46677,
       "word": "中国女排不敌意大利",
       "onboard_time": 1665234927,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 45489,
+      "num": 45489,
+      "word": "张本智和涨球",
+      "onboard_time": 1665249076,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -409,6 +417,14 @@
       "onboard_time": 1665232886,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 25681,
+      "num": 25681,
+      "word": "时代少年团直播",
+      "onboard_time": 1665236727,
+      "rank": 46,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
