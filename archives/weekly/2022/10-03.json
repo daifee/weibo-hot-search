@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1665242778874,
+  "endTime": 1665243891995,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -411,6 +411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1567813,
+      "num": 1567813,
+      "word": "椰树集团直播带货风格引争议",
+      "onboard_time": 1665238288,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1552975,
       "num": 1552975,
       "word": "挪威海底电缆断裂",
@@ -656,14 +664,6 @@
       "word": "市监局回应消费930.9元遭反向抹零",
       "onboard_time": 1665238167,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1218089,
-      "num": 1218089,
-      "word": "椰树集团直播带货风格引争议",
-      "onboard_time": 1665238288,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -1387,6 +1387,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 718500,
+      "num": 718500,
+      "word": "国乒女团夺冠后与国旗合影",
+      "onboard_time": 1665238767,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 714797,
       "num": 282094,
       "word": "陈都灵莲花楼杀青照",
@@ -1473,14 +1481,6 @@
       "onboard_time": 1664891364,
       "rank": 37,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 690710,
-      "num": 690710,
-      "word": "国乒女团夺冠后与国旗合影",
-      "onboard_time": 1665238767,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 689333,
@@ -1651,6 +1651,14 @@
       "category": "国外要闻,财经"
     },
     {
+      "raw_hot": 630036,
+      "num": 630036,
+      "word": "真的有人完全没有社交吗",
+      "onboard_time": 1665237749,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 628008,
       "num": 628008,
       "word": "过于先进不宜展示的画面来了",
@@ -1689,14 +1697,6 @@
       "onboard_time": 1665158603,
       "rank": 20,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 607266,
-      "num": 607266,
-      "word": "真的有人完全没有社交吗",
-      "onboard_time": 1665237749,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 606736,
@@ -2723,6 +2723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 444117,
+      "num": 444117,
+      "word": "爱的二八定律编剧发博说快了",
+      "onboard_time": 1665242724,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 443404,
       "num": 443404,
       "word": "天天向上创新改版",
@@ -3019,6 +3027,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 408401,
+      "num": 408401,
+      "word": "王一博问舞者穿那么多热不热",
+      "onboard_time": 1665242967,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 407364,
       "num": 407364,
       "word": "90岁外婆给44岁外孙强塞零花钱",
@@ -3137,6 +3153,14 @@
       "onboard_time": 1664784743,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 394962,
+      "num": 394962,
+      "word": "伴侣间情绪稳定真的很重要",
+      "onboard_time": 1665242186,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 393927,
@@ -4747,6 +4771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 256965,
+      "num": 256965,
+      "word": "久酷 辅助",
+      "onboard_time": 1665242067,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 256236,
       "num": 256236,
       "word": "只有潘玮柏受伤的世界",
@@ -5355,6 +5387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 226733,
+      "num": 226733,
+      "word": "小小姐们",
+      "onboard_time": 1665240086,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 226704,
       "num": 226704,
       "word": "原来冬天可以是10月份",
@@ -5523,14 +5563,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 221941,
-      "num": 221941,
-      "word": "久酷 辅助",
-      "onboard_time": 1665242067,
-      "rank": 21,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 221789,
       "num": 221789,
       "word": "你安全吗",
@@ -5609,14 +5641,6 @@
       "onboard_time": 1664939840,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 218823,
-      "num": 218823,
-      "word": "小小姐们",
-      "onboard_time": 1665240086,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 218543,
@@ -5849,14 +5873,6 @@
       "onboard_time": 1664800225,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 207065,
-      "num": 90689,
-      "word": "爱的二八定律编剧发博说快了",
-      "onboard_time": 1665242724,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 206819,
@@ -6387,6 +6403,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 182483,
+      "num": 182483,
+      "word": "这可是王维诗里的宿舍",
+      "onboard_time": 1665241347,
+      "rank": 27,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 182187,
       "num": 182187,
       "word": "节后小肚腩真能消",
@@ -6609,14 +6633,6 @@
       "onboard_time": 1665087671,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 172174,
-      "num": 172174,
-      "word": "这可是王维诗里的宿舍",
-      "onboard_time": 1665241347,
-      "rank": 27,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 171729,
@@ -7105,14 +7121,6 @@
       "onboard_time": 1664950881,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153941,
-      "num": 153941,
-      "word": "伴侣间情绪稳定真的很重要",
-      "onboard_time": 1665242186,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 153177,
@@ -8025,6 +8033,14 @@
       "onboard_time": 1664705124,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123365,
+      "num": 123365,
+      "word": "李帝努衬衫造型舞台",
+      "onboard_time": 1665242846,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 123358,
@@ -9491,6 +9507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 72689,
+      "num": 134146,
+      "word": "椰树集团回应直播争议",
+      "onboard_time": 1665243265,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72608,
       "num": 72608,
       "word": "脱5躺和卷主题赛在说我",
@@ -9633,6 +9657,14 @@
       "onboard_time": 1664871803,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66993,
+      "num": 66993,
+      "word": "全国统一的蓝棉袄",
+      "onboard_time": 1665243804,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 66907,
