@@ -1,0 +1,410 @@
+{
+  "runTime": 1665257823052,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 101925,
+        "num": 101925,
+        "word": "伴侣间情绪稳定真的很重要",
+        "onboard_time": 1665242186,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99180,
+        "num": 99180,
+        "word": "寺庙当家回应师太喂养独臂猴十余年",
+        "onboard_time": 1665244644,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8580,
+        "num": 80105,
+        "word": "4K视频看海上火箭发射",
+        "onboard_time": 1665232886,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 70166,
+        "num": 70166,
+        "word": "椰树集团直播带货风格引争议",
+        "onboard_time": 1665238288,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66676,
+        "num": 66676,
+        "word": "马克龙抱怨美国天然气要价4倍",
+        "onboard_time": 1665244762,
+        "rank": 4,
+        "category": "财经,国外要闻"
+      },
+      {
+        "raw_hot": 39172,
+        "num": 39172,
+        "word": "市监局回应消费930.9元遭反向抹零",
+        "onboard_time": 1665238167,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36452,
+        "num": 36452,
+        "word": "十八岁喜欢的那个人怎么样了",
+        "onboard_time": 1665233366,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 35297,
+        "num": 35297,
+        "word": "王一博演我嗑cp",
+        "onboard_time": 1665244644,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32266,
+        "num": 32266,
+        "word": "一年一度喜剧大赛男友来了",
+        "onboard_time": 1665229646,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32206,
+        "num": 32206,
+        "word": "椰树集团回应直播争议",
+        "onboard_time": 1665243265,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111357,
+        "num": 32101,
+        "word": "俄罗斯暂停所有前往克里米亚列车",
+        "onboard_time": 1665253932,
+        "rank": 10,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 57090,
+        "num": 31754,
+        "word": "张小斐 绝了",
+        "onboard_time": 1665231924,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 52114,
+        "num": 31670,
+        "word": "中方回应美对芯片实施新出口管制",
+        "onboard_time": 1665255251,
+        "rank": 12,
+        "category": "国内要闻,财经"
+      },
+      {
+        "raw_hot": 39556,
+        "num": 31415,
+        "word": "刘雯 超模就是超模",
+        "onboard_time": 1665231985,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31162,
+        "num": 31162,
+        "word": "马龙赛后拥抱樊振东",
+        "onboard_time": 1665246141,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27803,
+        "num": 27803,
+        "word": "张本智和涨球",
+        "onboard_time": 1665249076,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25842,
+        "num": 25842,
+        "word": "大学老师用老干妈罐子喝水",
+        "onboard_time": 1665228745,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24287,
+        "num": 24287,
+        "word": "真的有人完全没有社交吗",
+        "onboard_time": 1665237749,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22119,
+        "num": 22119,
+        "word": "李冰冰古董高定",
+        "onboard_time": 1665248237,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 21452,
+        "num": 21452,
+        "word": "男童给父母当花童一路哭着扔婚戒",
+        "onboard_time": 1665237446,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19604,
+        "num": 19604,
+        "word": "VogueWorld展览开幕之夜",
+        "onboard_time": 1665246860,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 19509,
+        "num": 19509,
+        "word": "吴尊看公主小妹reaction",
+        "onboard_time": 1665237507,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18858,
+        "num": 18858,
+        "word": "爱的二八定律编剧发博说快了",
+        "onboard_time": 1665242724,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18653,
+        "num": 18653,
+        "word": "张艺兴大航海演唱会排练vlog",
+        "onboard_time": 1665243924,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18337,
+        "num": 18337,
+        "word": "我的一句话被爸爸记了十年",
+        "onboard_time": 1665232825,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18095,
+        "num": 18095,
+        "word": "恋与制作人",
+        "onboard_time": 1665234507,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 18061,
+        "num": 18061,
+        "word": "明年中秋国庆假重合有望连休9天",
+        "onboard_time": 1665256871,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17999,
+        "num": 17999,
+        "word": "久酷 辅助",
+        "onboard_time": 1665242067,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 17617,
+        "num": 17617,
+        "word": "山西永济市全市实行静默管理",
+        "onboard_time": 1665226227,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17235,
+        "num": 17235,
+        "word": "国乒女团8连胜强势夺冠",
+        "onboard_time": 1665236788,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18146,
+        "num": 17227,
+        "word": "电视剧底线",
+        "onboard_time": 1665231985,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22727,
+        "num": 17205,
+        "word": "俄称克里米亚大桥事故已造成3人死亡",
+        "onboard_time": 1665230306,
+        "rank": 31,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 17087,
+        "num": 17087,
+        "word": "女子加价点老虎斑端上来变鲳鱼",
+        "onboard_time": 1665225867,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15981,
+        "num": 15981,
+        "word": "外交部回应马斯克涉台言论",
+        "onboard_time": 1665221785,
+        "rank": 33,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 15897,
+        "num": 15897,
+        "word": "樊振东2比3张本智和",
+        "onboard_time": 1665224127,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15879,
+        "num": 15879,
+        "word": "这只大猩猩也太会整活了",
+        "onboard_time": 1665245900,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15717,
+        "num": 15717,
+        "word": "专四专八",
+        "onboard_time": 1665231444,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 15615,
+        "num": 15615,
+        "word": "南忘今萧太甜了",
+        "onboard_time": 1665240566,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 14632,
+        "num": 14632,
+        "word": "VOGUE 女明星",
+        "onboard_time": 1665230786,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14267,
+        "num": 14267,
+        "word": "小小姐们",
+        "onboard_time": 1665240086,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 13862,
+        "num": 13862,
+        "word": "乌方称克里米亚大桥事件仅是开始",
+        "onboard_time": 1665216203,
+        "rank": 40,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 13779,
+        "num": 13779,
+        "word": "匍匐前进的猫猫虫",
+        "onboard_time": 1665256631,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 13355,
+        "num": 13355,
+        "word": "还以为是野生大熊猫",
+        "onboard_time": 1665256032,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 13086,
+        "num": 13086,
+        "word": "北京共存在10条独立传播链",
+        "onboard_time": 1665220227,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12691,
+        "num": 12691,
+        "word": "王曼昱vs伊藤美诚",
+        "onboard_time": 1665232647,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11862,
+        "num": 11862,
+        "word": "ITZY舞台",
+        "onboard_time": 1665237086,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 11341,
+        "num": 11341,
+        "word": "国乒女团夺冠后与国旗合影",
+        "onboard_time": 1665238767,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11051,
+        "num": 11051,
+        "word": "时代少年团直播",
+        "onboard_time": 1665236727,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 9516,
+        "num": 9516,
+        "word": "中国女团vs日本女团",
+        "onboard_time": 1665228206,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9466,
+        "num": 9466,
+        "word": "医学生的学费交得真值",
+        "onboard_time": 1665257472,
+        "rank": 49,
+        "category": "幽默,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代的历史性成就和变革#"
+    }
+  }
+}

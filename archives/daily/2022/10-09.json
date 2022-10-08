@@ -1,6 +1,6 @@
 {
   "startTime": 1665246866302,
-  "endTime": 1665256861461,
+  "endTime": 1665257823052,
   "band_list": [
     {
       "raw_hot": 1103496,
@@ -227,6 +227,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 111357,
+      "num": 36412,
+      "word": "俄罗斯暂停所有前往克里米亚列车",
+      "onboard_time": 1665253932,
+      "rank": 20,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 108400,
       "num": 108400,
       "word": "王曼昱vs伊藤美诚",
@@ -257,14 +265,6 @@
       "onboard_time": 1665248237,
       "rank": 33,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 99057,
-      "num": 36412,
-      "word": "俄罗斯暂停所有前往克里米亚列车",
-      "onboard_time": 1665253932,
-      "rank": 20,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 92616,
@@ -411,20 +411,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 52114,
+      "num": 35765,
+      "word": "中方回应美对芯片实施新出口管制",
+      "onboard_time": 1665255251,
+      "rank": 13,
+      "category": "国内要闻,财经"
+    },
+    {
       "raw_hot": 46677,
       "num": 46677,
       "word": "中国女排不敌意大利",
       "onboard_time": 1665234927,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 41091,
-      "num": 35765,
-      "word": "中方回应美对芯片实施新出口管制",
-      "onboard_time": 1665255251,
-      "rank": 13,
-      "category": "国内要闻,财经"
     },
     {
       "raw_hot": 35041,
@@ -443,8 +443,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 16405,
-      "num": 16405,
+      "raw_hot": 18061,
+      "num": 18061,
+      "word": "明年中秋国庆假重合有望连休9天",
+      "onboard_time": 1665256871,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17235,
+      "num": 17235,
       "word": "国乒女团8连胜强势夺冠",
       "onboard_time": 1665236788,
       "rank": 48,
@@ -459,20 +467,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 11795,
-      "num": 11795,
+      "raw_hot": 13779,
+      "num": 13779,
+      "word": "匍匐前进的猫猫虫",
+      "onboard_time": 1665256631,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 13355,
+      "num": 13355,
       "word": "还以为是野生大熊猫",
       "onboard_time": 1665256032,
       "rank": 47,
       "category": "幽默"
     },
     {
-      "raw_hot": 10612,
-      "num": 10612,
-      "word": "匍匐前进的猫猫虫",
-      "onboard_time": 1665256631,
-      "rank": 48,
-      "category": "幽默"
+      "raw_hot": 9466,
+      "num": 9466,
+      "word": "医学生的学费交得真值",
+      "onboard_time": 1665257472,
+      "rank": 49,
+      "category": "幽默,教育"
     }
   ],
   "hotgov_list": [
