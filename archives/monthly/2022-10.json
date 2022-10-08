@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665236760335,
+  "endTime": 1665237505782,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 2822226,
-      "num": 465519,
+      "num": 514438,
       "word": "张小斐 绝了",
       "onboard_time": 1665231924,
       "rank": 10,
@@ -185,6 +185,14 @@
       "onboard_time": 1664892685,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2498979,
+      "num": 2498979,
+      "word": "孙颖莎vs长崎美柚",
+      "onboard_time": 1665235585,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 2431130,
@@ -393,14 +401,6 @@
       "onboard_time": 1664857223,
       "rank": 10,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 1827057,
-      "num": 1827057,
-      "word": "孙颖莎vs长崎美柚",
-      "onboard_time": 1665235585,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 1826566,
@@ -1867,6 +1867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 706727,
+      "num": 706727,
+      "word": "黄牌",
+      "onboard_time": 1665234987,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 706415,
       "num": 456878,
       "word": "殷桃一秒入戏青筋暴起",
@@ -1972,7 +1980,7 @@
     },
     {
       "raw_hot": 687720,
-      "num": 464021,
+      "num": 476476,
       "word": "刘雯 超模就是超模",
       "onboard_time": 1665231985,
       "rank": 11,
@@ -2627,6 +2635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 541811,
+      "num": 541811,
+      "word": "国乒女团8连胜强势夺冠",
+      "onboard_time": 1665236788,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 541270,
       "num": 541270,
       "word": "就想问能不能不上班",
@@ -3244,7 +3260,7 @@
     },
     {
       "raw_hot": 463508,
-      "num": 109685,
+      "num": 414801,
       "word": "时代少年团直播",
       "onboard_time": 1665236727,
       "rank": 47,
@@ -3489,14 +3505,6 @@
       "onboard_time": 1665105023,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 442682,
-      "num": 442682,
-      "word": "黄牌",
-      "onboard_time": 1665234987,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 442517,
@@ -5355,6 +5363,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 288857,
+      "num": 288857,
+      "word": "ITZY舞台",
+      "onboard_time": 1665237086,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 288473,
+      "num": 288473,
+      "word": "我的一句话被爸爸记了十年",
+      "onboard_time": 1665232825,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 288092,
       "num": 288092,
       "word": "当反诈遇上苍兰诀",
@@ -5593,14 +5617,6 @@
       "onboard_time": 1664592443,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 274649,
-      "num": 274649,
-      "word": "我的一句话被爸爸记了十年",
-      "onboard_time": 1665232825,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 274112,
@@ -5891,6 +5907,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 262610,
+      "num": 262610,
+      "word": "张彬彬说舍不得两个人的小森林",
+      "onboard_time": 1665235468,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 261954,
       "num": 261954,
       "word": "男子钓鱼救下被裹塑料袋扔河的猫",
@@ -5936,14 +5960,6 @@
       "word": "任嘉伦请君24个字求婚李沁好苏",
       "onboard_time": 1664970082,
       "rank": 14,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 260963,
-      "num": 260963,
-      "word": "张彬彬说舍不得两个人的小森林",
-      "onboard_time": 1665235468,
-      "rank": 22,
       "category": "影视"
     },
     {
@@ -7441,6 +7457,14 @@
       "onboard_time": 1665227127,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203118,
+      "num": 104700,
+      "word": "吴尊看公主小妹reaction",
+      "onboard_time": 1665237507,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 203041,
@@ -11137,6 +11161,14 @@
       "onboard_time": 1664975065,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98145,
+      "num": 98145,
+      "word": "男童给父母当花童一路哭着扔婚戒",
+      "onboard_time": 1665237446,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 98068,
