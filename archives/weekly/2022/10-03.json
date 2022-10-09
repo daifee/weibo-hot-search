@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1665308651790,
+  "endTime": 1665311264373,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -339,6 +339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1722947,
+      "num": 1722947,
+      "word": "专治恋爱瘾的聊天记录",
+      "onboard_time": 1665303982,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1703064,
       "num": 1703064,
       "word": "什么是假性恋爱",
@@ -417,14 +425,6 @@
       "onboard_time": 1665023963,
       "rank": 24,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 1580255,
-      "num": 1580255,
-      "word": "专治恋爱瘾的聊天记录",
-      "onboard_time": 1665303982,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 1569350,
@@ -1411,6 +1411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 769323,
+      "num": 567082,
+      "word": "iPhone15系列仍将采用高通基带",
+      "onboard_time": 1665306501,
+      "rank": 12,
+      "category": "科技"
+    },
+    {
       "raw_hot": 762092,
       "num": 762092,
       "word": "马龙鼓励王楚钦",
@@ -1753,6 +1761,14 @@
       "onboard_time": 1664948841,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 665444,
+      "num": 665444,
+      "word": "班主任换班全班学生哭成一片",
+      "onboard_time": 1665305841,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 662384,
@@ -2265,14 +2281,6 @@
       "onboard_time": 1664876902,
       "rank": 8,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 547801,
-      "num": 547801,
-      "word": "iPhone15系列仍将采用高通基带",
-      "onboard_time": 1665306501,
-      "rank": 12,
-      "category": "科技"
     },
     {
       "raw_hot": 547767,
@@ -2795,6 +2803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 469504,
+      "num": 312142,
+      "word": "美国两名幼童被家中两只比特犬咬死",
+      "onboard_time": 1665308842,
+      "rank": 12,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 469027,
       "num": 469027,
       "word": "俄称克里米亚大桥事故已造成3人死亡",
@@ -3203,6 +3219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 427330,
+      "num": 427330,
+      "word": "广东人有必要买羽绒服吗",
+      "onboard_time": 1665307641,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 427328,
       "num": 427328,
       "word": "守望先锋",
@@ -3337,6 +3361,14 @@
       "onboard_time": 1665086050,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 413572,
+      "num": 413572,
+      "word": "成都世乒赛送各国来宾电热毯作为礼物",
+      "onboard_time": 1665306922,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 412209,
@@ -3979,6 +4011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 356097,
+      "num": 311528,
+      "word": "王一博说打戏能摸到梁朝伟的脸",
+      "onboard_time": 1665306442,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 354931,
       "num": 354931,
       "word": "宠物狗舔食外卖店家被罚1.5万",
@@ -4411,12 +4451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 315476,
-      "num": 275608,
-      "word": "王一博说打戏能摸到梁朝伟的脸",
-      "onboard_time": 1665306442,
-      "rank": 15,
-      "category": "作品衍生"
+      "raw_hot": 315265,
+      "num": 315265,
+      "word": "河南一影院禁止携带蜜雪冰城入内",
+      "onboard_time": 1665309262,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 314849,
@@ -4561,6 +4601,14 @@
       "onboard_time": 1664879004,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 302664,
+      "num": 302664,
+      "word": "腾讯申请新狗头图形商标",
+      "onboard_time": 1665306263,
+      "rank": 32,
+      "category": "科技"
     },
     {
       "raw_hot": 302506,
@@ -4915,14 +4963,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 279379,
-      "num": 279379,
-      "word": "成都世乒赛送各国来宾电热毯作为礼物",
-      "onboard_time": 1665306922,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 279349,
       "num": 279349,
       "word": "女子国庆返程父母塞了满车土特产",
@@ -5107,6 +5147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 271799,
+      "num": 271799,
+      "word": "IVE红毯主持人笑出猪叫",
+      "onboard_time": 1665307942,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 271180,
       "num": 271180,
       "word": "虞书欣虞美人造型解析",
@@ -5121,14 +5169,6 @@
       "onboard_time": 1664985803,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 270719,
-      "num": 270719,
-      "word": "班主任换班全班学生哭成一片",
-      "onboard_time": 1665305841,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 269522,
@@ -5305,6 +5345,14 @@
       "onboard_time": 1664970082,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 260602,
+      "num": 260602,
+      "word": "华强北破解美版iPhone14没人买",
+      "onboard_time": 1665308964,
+      "rank": 18,
+      "category": "科技"
     },
     {
       "raw_hot": 259581,
@@ -6995,6 +7043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 189045,
+      "num": 189045,
+      "word": "海天发布澄清公告",
+      "onboard_time": 1665309504,
+      "rank": 22,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 188128,
       "num": 188128,
       "word": "金瀚倒立喝牛奶",
@@ -7819,14 +7875,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 159081,
-      "num": 159081,
-      "word": "腾讯申请新狗头图形商标",
-      "onboard_time": 1665306263,
-      "rank": 32,
-      "category": "科技"
-    },
-    {
       "raw_hot": 158827,
       "num": 158827,
       "word": "北京大兴新增2例确诊病例",
@@ -7881,14 +7929,6 @@
       "onboard_time": 1665145342,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 157587,
-      "num": 157587,
-      "word": "广东人有必要买羽绒服吗",
-      "onboard_time": 1665307641,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 157306,
@@ -7955,20 +7995,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 152644,
+      "num": 152644,
+      "word": "有气质的猪猪是什么样的",
+      "onboard_time": 1665305482,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 152530,
       "num": 133025,
       "word": "虞美人好温柔",
       "onboard_time": 1665060205,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 152316,
-      "num": 152316,
-      "word": "有气质的猪猪是什么样的",
-      "onboard_time": 1665305482,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 152250,
@@ -8035,6 +8075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151343,
+      "num": 151343,
+      "word": "网剧你安全吗",
+      "onboard_time": 1665310881,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 151174,
       "num": 151174,
       "word": "明天中国男团对阵德国",
@@ -8049,14 +8097,6 @@
       "onboard_time": 1664724863,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 150910,
-      "num": 129649,
-      "word": "IVE红毯主持人笑出猪叫",
-      "onboard_time": 1665307942,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 150634,
@@ -8401,6 +8441,14 @@
       "onboard_time": 1664886803,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140541,
+      "num": 140541,
+      "word": "因玩具而打架的两只小奶狗",
+      "onboard_time": 1665308723,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 140527,
@@ -9267,6 +9315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115329,
+      "num": 115329,
+      "word": "2岁哈士奇为刚出生的宝宝盖被子",
+      "onboard_time": 1665310163,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115270,
       "num": 115270,
       "word": "任嘉伦李沁请君相拥说枕边话",
@@ -9699,6 +9755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 100454,
+      "num": 100454,
+      "word": "女子刷单被骗15万丈夫带女儿出走",
+      "onboard_time": 1665310703,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100341,
       "num": 100341,
       "word": "孙颖莎3比0莱恩",
@@ -9875,6 +9939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96994,
+      "num": 96994,
+      "word": "九寨沟的雪惊艳了秋天",
+      "onboard_time": 1665307224,
+      "rank": 47,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 96938,
       "num": 96938,
       "word": "国乒女团晋级世乒赛4强",
@@ -9985,6 +10057,14 @@
       "onboard_time": 1665152849,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91876,
+      "num": 91876,
+      "word": "研究发现超级老人有超级神经元",
+      "onboard_time": 1665310523,
+      "rank": 41,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 91672,
@@ -10521,14 +10601,6 @@
       "onboard_time": 1665160221,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 73861,
-      "num": 73861,
-      "word": "九寨沟的雪惊艳了秋天",
-      "onboard_time": 1665307224,
-      "rank": 47,
-      "category": "旅游"
     },
     {
       "raw_hot": 73653,
@@ -11136,6 +11208,14 @@
       "word": "108岁老人两次患癌仍坚持读书写作",
       "onboard_time": 1664873483,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49122,
+      "num": 310391,
+      "word": "市民自发清理洞庭湖沉积多年垃圾",
+      "onboard_time": 1665309682,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
