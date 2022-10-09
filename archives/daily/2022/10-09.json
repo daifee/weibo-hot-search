@@ -1,6 +1,6 @@
 {
   "startTime": 1665246866302,
-  "endTime": 1665272738891,
+  "endTime": 1665282476961,
   "band_list": [
     {
       "raw_hot": 2219370,
@@ -9,6 +9,14 @@
       "onboard_time": 1665256871,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1703064,
+      "num": 1703064,
+      "word": "什么是假性恋爱",
+      "onboard_time": 1665272599,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 1103496,
@@ -59,12 +67,68 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 609359,
+      "num": 609359,
+      "word": "10月8日新增本土无症状1307例",
+      "onboard_time": 1665278124,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 593379,
+      "num": 593379,
+      "word": "同意上海重庆外资旅行社从事出境游业务",
+      "onboard_time": 1665278663,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 557839,
+      "num": 557839,
+      "word": "广州大学生死学课堂播放三悦",
+      "onboard_time": 1665271879,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 520438,
+      "num": 520438,
+      "word": "喜欢下班的有福了",
+      "onboard_time": 1665279863,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 512762,
+      "num": 512762,
+      "word": "女子连夜开车400里到烟台捞海肠",
+      "onboard_time": 1665272781,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 488579,
+      "num": 488579,
+      "word": "宠物龟从8楼掉落砸碎车玻璃",
+      "onboard_time": 1665280523,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 485877,
       "num": 485877,
       "word": "市监局回应消费930.9元遭反向抹零",
       "onboard_time": 1665238167,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 412209,
+      "num": 412209,
+      "word": "T1",
+      "onboard_time": 1665275544,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 403627,
@@ -75,11 +139,35 @@
       "category": "财经,国外要闻"
     },
     {
+      "raw_hot": 381322,
+      "num": 381322,
+      "word": "克里米亚大桥恢复通车",
+      "onboard_time": 1665278903,
+      "rank": 10,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 376826,
+      "num": 344510,
+      "word": "TES对战GAM",
+      "onboard_time": 1665280643,
+      "rank": 12,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 360144,
       "num": 360144,
       "word": "寺庙当家回应师太喂养独臂猴十余年",
       "onboard_time": 1665244644,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 354931,
+      "num": 354931,
+      "word": "宠物狗舔食外卖店家被罚1.5万",
+      "onboard_time": 1665274644,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -91,12 +179,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 316070,
+      "num": 316070,
+      "word": "上海对五类人员会赋红码",
+      "onboard_time": 1665275964,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311962,
       "num": 311962,
       "word": "爱的二八定律编剧发博说快了",
       "onboard_time": 1665242724,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 309485,
+      "num": 309485,
+      "word": "我妈烦我的原因找到了",
+      "onboard_time": 1665275185,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 294036,
@@ -107,12 +211,28 @@
       "category": "国内要闻,财经"
     },
     {
+      "raw_hot": 282634,
+      "num": 282634,
+      "word": "国家需要就是我的专业",
+      "onboard_time": 1665276686,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279650,
       "num": 76296,
       "word": "VogueWorld展览开幕之夜",
       "onboard_time": 1665246860,
       "rank": 47,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 273775,
+      "num": 273775,
+      "word": "EDG小组赛首胜",
+      "onboard_time": 1665279504,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 273376,
@@ -155,12 +275,44 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 252366,
+      "num": 252366,
+      "word": "爱的二八定律",
+      "onboard_time": 1665271699,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 242587,
       "num": 242587,
       "word": "爸爸带娃不小心把女儿摇下吊桥",
       "onboard_time": 1665229885,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226655,
+      "num": 226655,
+      "word": "10月8日新增本土确诊441例",
+      "onboard_time": 1665278124,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225019,
+      "num": 225019,
+      "word": "超30城支持一人购房全家帮",
+      "onboard_time": 1665277645,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223857,
+      "num": 223857,
+      "word": "Meiko的锤石",
+      "onboard_time": 1665279563,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 219187,
@@ -171,12 +323,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 216717,
+      "num": 198551,
+      "word": "FNC战胜T1",
+      "onboard_time": 1665277045,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 208068,
       "num": 208068,
       "word": "大学老师用老干妈罐子喝水",
       "onboard_time": 1665228745,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203365,
+      "num": 160652,
+      "word": "TES战胜GAM",
+      "onboard_time": 1665281664,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 201882,
@@ -211,14 +379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 174176,
-      "num": 174176,
-      "word": "广州大学生死学课堂播放三悦",
-      "onboard_time": 1665271879,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 171166,
       "num": 171166,
       "word": "樊振东2比3张本智和",
@@ -243,14 +403,6 @@
       "category": "幽默,教育"
     },
     {
-      "raw_hot": 159670,
-      "num": 159670,
-      "word": "爱的二八定律",
-      "onboard_time": 1665271699,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 157248,
       "num": 157248,
       "word": "南忘今萧太甜了",
@@ -267,12 +419,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 149509,
+      "num": 149509,
+      "word": "程潇赞多双人battle默契值拉满",
+      "onboard_time": 1665279563,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149504,
       "num": 149504,
       "word": "外交部回应华春莹连发13图宣传中国制造",
       "onboard_time": 1665263711,
       "rank": 43,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 146906,
+      "num": 146906,
+      "word": "追梦格林再次道歉",
+      "onboard_time": 1665273922,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 134731,
@@ -315,6 +483,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123721,
+      "num": 123721,
+      "word": "女孩帮爷爷奶奶收玉米整袋扛上肩",
+      "onboard_time": 1665280162,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122957,
+      "num": 122957,
+      "word": "烟台赶海人一晚捞千余斤海肠",
+      "onboard_time": 1665274162,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117315,
+      "num": 117315,
+      "word": "RGE战胜DRX",
+      "onboard_time": 1665278423,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 117068,
       "num": 117068,
       "word": "这可是王维诗里的宿舍",
@@ -348,7 +540,7 @@
     },
     {
       "raw_hot": 107027,
-      "num": 85811,
+      "num": 94351,
       "word": "李冰冰古董高定",
       "onboard_time": 1665248237,
       "rank": 33,
@@ -451,6 +643,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 69551,
+      "num": 69551,
+      "word": "夸父一号成功发射",
+      "onboard_time": 1665276205,
+      "rank": 48,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 65637,
       "num": 65637,
       "word": "山西永济市全市实行静默管理",
@@ -521,14 +721,6 @@
       "onboard_time": 1665218183,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 49289,
-      "num": 49289,
-      "word": "什么是假性恋爱",
-      "onboard_time": 1665272599,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 48572,
