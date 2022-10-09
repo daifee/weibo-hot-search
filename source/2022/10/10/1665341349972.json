@@ -1,0 +1,410 @@
+{
+  "runTime": 1665341349972,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 191630,
+        "num": 191630,
+        "word": "PDD已起诉多人侵犯名誉权",
+        "onboard_time": 1665329965,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133664,
+        "num": 133664,
+        "word": "专治恋爱瘾的聊天记录",
+        "onboard_time": 1665303982,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1812,
+        "num": 121253,
+        "word": "中国人的书信有多美",
+        "onboard_time": 1665276205,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 116388,
+        "num": 116388,
+        "word": "房东称遇神仙租客打扫得一尘不染",
+        "onboard_time": 1665333380,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103591,
+        "num": 103591,
+        "word": "女子吐槽丈夫脑袋掉色枕头焦黄",
+        "onboard_time": 1665334697,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95190,
+        "num": 95190,
+        "word": "大巴司机吃槟榔1年查出口腔癌",
+        "onboard_time": 1665332122,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74248,
+        "num": 74248,
+        "word": "第一次喜欢的那个人还联系吗",
+        "onboard_time": 1665330263,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 59857,
+        "num": 59857,
+        "word": "legends never die",
+        "onboard_time": 1665324684,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55740,
+        "num": 55740,
+        "word": "总以为截图可以留住些什么",
+        "onboard_time": 1665325106,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 48203,
+        "num": 48203,
+        "word": "女子发现自己养的是公猫崩溃大哭",
+        "onboard_time": 1665318202,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81828,
+        "num": 47438,
+        "word": "苏炳添再次起诉新东方子公司侵权",
+        "onboard_time": 1665337754,
+        "rank": 10,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 38458,
+        "num": 38458,
+        "word": "睡不好头昏沉可能是大脑发出警告",
+        "onboard_time": 1665323244,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37793,
+        "num": 37793,
+        "word": "S12换新装",
+        "onboard_time": 1665328946,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 34449,
+        "num": 34449,
+        "word": "考研学生校内搭帐篷方便晚间学习",
+        "onboard_time": 1665325702,
+        "rank": 13,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 32823,
+        "num": 32823,
+        "word": "美国两名幼童被家中两只比特犬咬死",
+        "onboard_time": 1665308842,
+        "rank": 14,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 32560,
+        "num": 32560,
+        "word": "猫猫们要努力熬过早到的冬天",
+        "onboard_time": 1665323303,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30876,
+        "num": 30876,
+        "word": "许凯被杨幂壁咚后不敢动",
+        "onboard_time": 1665326727,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29686,
+        "num": 29686,
+        "word": "独臂猴被围观应激师太手拦被误伤",
+        "onboard_time": 1665317483,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28345,
+        "num": 28345,
+        "word": "梅西为LGD加油",
+        "onboard_time": 1665316644,
+        "rank": 18,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 27068,
+        "num": 27068,
+        "word": "三小伙为省钱合租一间房",
+        "onboard_time": 1665312502,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27647,
+        "num": 26977,
+        "word": "武契奇爆料美英1999年曾要求匈牙利进攻南联盟",
+        "onboard_time": 1665330443,
+        "rank": 20,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 26842,
+        "num": 26842,
+        "word": "一人一张明星氛围感神图",
+        "onboard_time": 1665317724,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 26195,
+        "num": 26195,
+        "word": "我的反派男友",
+        "onboard_time": 1665324565,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23848,
+        "num": 23848,
+        "word": "母亲穿西装送女儿出嫁被当成闺蜜",
+        "onboard_time": 1665323785,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23243,
+        "num": 23243,
+        "word": "合理怀疑猫咪是复制粘贴的",
+        "onboard_time": 1665331460,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 23224,
+        "num": 23224,
+        "word": "马龙11比1",
+        "onboard_time": 1665320962,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23158,
+        "num": 23158,
+        "word": "陈哲远沈月直播看自己亲密戏",
+        "onboard_time": 1665328104,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 22742,
+        "num": 22742,
+        "word": "女子刷单被骗15万丈夫带女儿出走",
+        "onboard_time": 1665310703,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21506,
+        "num": 21506,
+        "word": "新疆葡萄干还分爷爷和孙子",
+        "onboard_time": 1665317244,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 20812,
+        "num": 20812,
+        "word": "马龙第27个世界冠军",
+        "onboard_time": 1665325825,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20689,
+        "num": 20689,
+        "word": "你肯定玩过这个游戏",
+        "onboard_time": 1665327688,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19655,
+        "num": 19655,
+        "word": "原来真的有人开口即浪漫",
+        "onboard_time": 1665323004,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19472,
+        "num": 19472,
+        "word": "河南一影院禁止携带蜜雪冰城入内",
+        "onboard_time": 1665309262,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17926,
+        "num": 17926,
+        "word": "莎头",
+        "onboard_time": 1665324266,
+        "rank": 33,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 17827,
+        "num": 17827,
+        "word": "周润发当年有多帅",
+        "onboard_time": 1665328345,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16978,
+        "num": 16978,
+        "word": "原来镜头真的是有感情的",
+        "onboard_time": 1665327025,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16794,
+        "num": 16794,
+        "word": "樊振东最后一球",
+        "onboard_time": 1665320004,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16182,
+        "num": 16182,
+        "word": "iPhone15系列仍将采用高通基带",
+        "onboard_time": 1665306501,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 15800,
+        "num": 15800,
+        "word": "女博士将百万积蓄交亲姐打理难要回",
+        "onboard_time": 1665303023,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15061,
+        "num": 15061,
+        "word": "抚顺疫情防控",
+        "onboard_time": 1665327386,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14381,
+        "num": 14381,
+        "word": "国乒男队冲击十连冠",
+        "onboard_time": 1665333439,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13736,
+        "num": 13736,
+        "word": "张远噢乖高音",
+        "onboard_time": 1665324985,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13455,
+        "num": 13455,
+        "word": "张彬彬说对虞美人的三心二意了解一下",
+        "onboard_time": 1665323964,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 13032,
+        "num": 13032,
+        "word": "NH大满贯",
+        "onboard_time": 1665324866,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 12691,
+        "num": 12691,
+        "word": "南忘今萧婚后日常",
+        "onboard_time": 1665322287,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 12552,
+        "num": 12552,
+        "word": "当肩宽星人穿毛衣",
+        "onboard_time": 1665314064,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 11727,
+        "num": 11727,
+        "word": "林志炫许靖韵秋意浓",
+        "onboard_time": 1665331344,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11206,
+        "num": 11206,
+        "word": "樊振东表情",
+        "onboard_time": 1665318924,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10929,
+        "num": 10929,
+        "word": "寸头都封印不了的颜值",
+        "onboard_time": 1665299121,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 10159,
+        "num": 10159,
+        "word": "沉浸式听杨丞琳唱小半",
+        "onboard_time": 1665326606,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#十九届七中全会#"
+    }
+  }
+}
