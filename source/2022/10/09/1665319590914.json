@@ -1,0 +1,410 @@
+{
+  "runTime": 1665319590914,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1672323,
+        "num": 1672323,
+        "word": "中国男团vs德国男团",
+        "onboard_time": 1665314003,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1108398,
+        "num": 1108398,
+        "word": "专治恋爱瘾的聊天记录",
+        "onboard_time": 1665303982,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23760,
+        "num": 742282,
+        "word": "中国人的书信有多美",
+        "onboard_time": 1665276205,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 724768,
+        "num": 724768,
+        "word": "三小伙为省钱合租一间房",
+        "onboard_time": 1665312502,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 701440,
+        "num": 701440,
+        "word": "月亮",
+        "onboard_time": 1665312024,
+        "rank": 4,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 657639,
+        "num": 657639,
+        "word": "马龙vs邱党",
+        "onboard_time": 1665313703,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 471534,
+        "num": 471534,
+        "word": "当肩宽星人穿毛衣",
+        "onboard_time": 1665314064,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 414162,
+        "num": 414162,
+        "word": "女子刷单被骗15万丈夫带女儿出走",
+        "onboard_time": 1665310703,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413379,
+        "num": 413379,
+        "word": "河南一影院禁止携带蜜雪冰城入内",
+        "onboard_time": 1665309262,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397020,
+        "num": 397020,
+        "word": "徐冬冬回应被外貌攻击",
+        "onboard_time": 1665317002,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 495887,
+        "num": 392564,
+        "word": "董璇镜头里的陈哲远沈月甜齁了",
+        "onboard_time": 1665314782,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 345644,
+        "num": 345644,
+        "word": "美国两名幼童被家中两只比特犬咬死",
+        "onboard_time": 1665308842,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 335329,
+        "num": 335329,
+        "word": "新疆葡萄干还分爷爷和孙子",
+        "onboard_time": 1665317244,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 329025,
+        "num": 329025,
+        "word": "梅西为LGD加油",
+        "onboard_time": 1665316644,
+        "rank": 13,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 40547,
+        "num": 325119,
+        "word": "交警收到三页纸的手写感谢信",
+        "onboard_time": 1665316884,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324682,
+        "num": 324682,
+        "word": "iPhone15系列仍将采用高通基带",
+        "onboard_time": 1665306501,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 312860,
+        "num": 312860,
+        "word": "寸头都封印不了的颜值",
+        "onboard_time": 1665299121,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 301452,
+        "num": 301452,
+        "word": "女子发现自己养的是公猫崩溃大哭",
+        "onboard_time": 1665318202,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296680,
+        "num": 296680,
+        "word": "独臂猴被围观应激师太手拦被误伤",
+        "onboard_time": 1665317483,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256396,
+        "num": 256396,
+        "word": "女博士将百万积蓄交亲姐打理难要回",
+        "onboard_time": 1665303023,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218995,
+        "num": 218995,
+        "word": "做好论文导师也不容易",
+        "onboard_time": 1665314484,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 209345,
+        "num": 209345,
+        "word": "樊振东vs杜达",
+        "onboard_time": 1665313642,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203991,
+        "num": 203991,
+        "word": "樊振东表情",
+        "onboard_time": 1665318924,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194422,
+        "num": 194422,
+        "word": "北京新增本土感染者11例",
+        "onboard_time": 1665311841,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189331,
+        "num": 189331,
+        "word": "中国女排晋级8强",
+        "onboard_time": 1665315321,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182488,
+        "num": 182488,
+        "word": "四海台湾定档",
+        "onboard_time": 1665318682,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178924,
+        "num": 178924,
+        "word": "仨教练座位被拆了",
+        "onboard_time": 1665318443,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162395,
+        "num": 162395,
+        "word": "华强北破解美版iPhone14没人买",
+        "onboard_time": 1665308964,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 149863,
+        "num": 149863,
+        "word": "2岁哈士奇为刚出生的宝宝盖被子",
+        "onboard_time": 1665310163,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142810,
+        "num": 142810,
+        "word": "一人一张明星氛围感神图",
+        "onboard_time": 1665317724,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141282,
+        "num": 141282,
+        "word": "IVE红毯主持人笑出猪叫",
+        "onboard_time": 1665307942,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140082,
+        "num": 140082,
+        "word": "广东人有必要买羽绒服吗",
+        "onboard_time": 1665307641,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137906,
+        "num": 137906,
+        "word": "仙剑奇侠传原名逍遥侠客行",
+        "onboard_time": 1665300803,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137419,
+        "num": 137419,
+        "word": "黑猫遇水掉色洗8遍澡成英短纯蓝",
+        "onboard_time": 1665299602,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136548,
+        "num": 136548,
+        "word": "男星正剧适配度",
+        "onboard_time": 1665316043,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132918,
+        "num": 132918,
+        "word": "研究发现超级老人有超级神经元",
+        "onboard_time": 1665310523,
+        "rank": 35,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 128198,
+        "num": 128198,
+        "word": "虞美人庄羽摔倒抱疯狂上分",
+        "onboard_time": 1665315264,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120817,
+        "num": 120817,
+        "word": "5岁男孩半夜上完厕所趴狗窝睡觉",
+        "onboard_time": 1665299001,
+        "rank": 37,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 108439,
+        "num": 108439,
+        "word": "爱的二八定律下周播出",
+        "onboard_time": 1665295702,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102890,
+        "num": 102890,
+        "word": "坚定选择的爱情没有遗憾",
+        "onboard_time": 1665317903,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102732,
+        "num": 102732,
+        "word": "椰树集团直播场均销售额仅2500元",
+        "onboard_time": 1665299061,
+        "rank": 40,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 102135,
+        "num": 102135,
+        "word": "樊振东3比0杜达",
+        "onboard_time": 1665318084,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96478,
+        "num": 96478,
+        "word": "海天发布澄清公告",
+        "onboard_time": 1665309504,
+        "rank": 42,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 240014,
+        "num": 96269,
+        "word": "王一博说打戏能摸到梁朝伟的脸",
+        "onboard_time": 1665306442,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 95299,
+        "num": 95299,
+        "word": "王占山打退38次进攻全身38个弹孔",
+        "onboard_time": 1665311364,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94116,
+        "num": 94116,
+        "word": "唐朝诡事录特效",
+        "onboard_time": 1665319044,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 93562,
+        "num": 93562,
+        "word": "Wendy音乐节舞台",
+        "onboard_time": 1665307704,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 90989,
+        "num": 90989,
+        "word": "网剧你安全吗",
+        "onboard_time": 1665310881,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 90729,
+        "num": 90729,
+        "word": "因玩具而打架的两只小奶狗",
+        "onboard_time": 1665308723,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84274,
+        "num": 84274,
+        "word": "中国女排vs比利时女排",
+        "onboard_time": 1665312562,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#同心向党我来说#"
+    }
+  }
+}

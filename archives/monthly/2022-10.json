@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665315523322,
+  "endTime": 1665319590914,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -489,6 +489,14 @@
       "onboard_time": 1665155427,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1672323,
+      "num": 1672323,
+      "word": "中国男团vs德国男团",
+      "onboard_time": 1665314003,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 1667232,
@@ -1995,6 +2003,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 724768,
+      "num": 724768,
+      "word": "三小伙为省钱合租一间房",
+      "onboard_time": 1665312502,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 721839,
       "num": 721839,
       "word": "爸爸带娃不小心把女儿摇下吊桥",
@@ -2337,6 +2353,14 @@
       "onboard_time": 1665036504,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 657639,
+      "num": 657639,
+      "word": "马龙vs邱党",
+      "onboard_time": 1665313703,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 655185,
@@ -3012,7 +3036,7 @@
     },
     {
       "raw_hot": 539267,
-      "num": 305593,
+      "num": 414162,
       "word": "女子刷单被骗15万丈夫带女儿出走",
       "onboard_time": 1665310703,
       "rank": 37,
@@ -3236,7 +3260,7 @@
     },
     {
       "raw_hot": 510146,
-      "num": 332144,
+      "num": 345644,
       "word": "美国两名幼童被家中两只比特犬咬死",
       "onboard_time": 1665308842,
       "rank": 12,
@@ -3329,6 +3353,14 @@
       "onboard_time": 1664841138,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 495887,
+      "num": 392564,
+      "word": "董璇镜头里的陈哲远沈月甜齁了",
+      "onboard_time": 1665314782,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 495253,
@@ -3577,6 +3609,14 @@
       "onboard_time": 1665287184,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 471534,
+      "num": 471534,
+      "word": "当肩宽星人穿毛衣",
+      "onboard_time": 1665314064,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 471281,
@@ -4067,14 +4107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 427687,
-      "num": 427687,
-      "word": "三小伙为省钱合租一间房",
-      "onboard_time": 1665312502,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 427328,
       "num": 427328,
       "word": "守望先锋",
@@ -4433,6 +4465,14 @@
       "onboard_time": 1664854102,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 397020,
+      "num": 397020,
+      "word": "徐冬冬回应被外貌攻击",
+      "onboard_time": 1665317002,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 396564,
@@ -5331,6 +5371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 335329,
+      "num": 335329,
+      "word": "新疆葡萄干还分爷爷和孙子",
+      "onboard_time": 1665317244,
+      "rank": 12,
+      "category": "美食"
+    },
+    {
       "raw_hot": 334747,
       "num": 334747,
       "word": "boss直聘现多个无厘头职位名称",
@@ -5441,6 +5489,14 @@
       "onboard_time": 1665196882,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329025,
+      "num": 329025,
+      "word": "梅西为LGD加油",
+      "onboard_time": 1665316644,
+      "rank": 13,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 328898,
@@ -5819,6 +5875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 301452,
+      "num": 301452,
+      "word": "女子发现自己养的是公猫崩溃大哭",
+      "onboard_time": 1665318202,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300469,
       "num": 300469,
       "word": "李现被哈兰德圈粉",
@@ -5889,6 +5953,14 @@
       "onboard_time": 1664949381,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 296680,
+      "num": 296680,
+      "word": "独臂猴被围观应激师太手拦被误伤",
+      "onboard_time": 1665317483,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 296066,
@@ -7547,14 +7619,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 232973,
-      "num": 232973,
-      "word": "马龙vs邱党",
-      "onboard_time": 1665313703,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 232617,
       "num": 232617,
       "word": "央视广告曲能有多大气",
@@ -8035,6 +8099,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 218995,
+      "num": 218995,
+      "word": "做好论文导师也不容易",
+      "onboard_time": 1665314484,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 218543,
       "num": 218543,
       "word": "东北人逛云南菜市场刷新买菜认知",
@@ -8379,6 +8451,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 203991,
+      "num": 203991,
+      "word": "樊振东表情",
+      "onboard_time": 1665318924,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203956,
       "num": 203956,
       "word": "虞书欣仙剑六最新路透",
@@ -8401,14 +8481,6 @@
       "onboard_time": 1665304766,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 203667,
-      "num": 203667,
-      "word": "当肩宽星人穿毛衣",
-      "onboard_time": 1665314064,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 203662,
@@ -8561,14 +8633,6 @@
       "onboard_time": 1665069505,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 199647,
-      "num": 199647,
-      "word": "中国男团vs德国男团",
-      "onboard_time": 1665314003,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 199534,
@@ -8923,6 +8987,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 189331,
+      "num": 189331,
+      "word": "中国女排晋级8强",
+      "onboard_time": 1665315321,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188431,
       "num": 188431,
       "word": "国乒男团世乒赛开门红",
@@ -9131,6 +9203,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 182488,
+      "num": 182488,
+      "word": "四海台湾定档",
+      "onboard_time": 1665318682,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 182483,
       "num": 182483,
       "word": "这可是王维诗里的宿舍",
@@ -9256,6 +9336,14 @@
       "word": "这瘦背训练真能处",
       "onboard_time": 1664972303,
       "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 178924,
+      "num": 178924,
+      "word": "仨教练座位被拆了",
+      "onboard_time": 1665318443,
+      "rank": 26,
       "category": "体育"
     },
     {
@@ -9889,14 +9977,6 @@
       "onboard_time": 1665036683,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 160374,
-      "num": 160374,
-      "word": "做好论文导师也不容易",
-      "onboard_time": 1665314484,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 160235,
@@ -10587,6 +10667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142810,
+      "num": 142810,
+      "word": "一人一张明星氛围感神图",
+      "onboard_time": 1665317724,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 142713,
       "num": 142713,
       "word": "为什么要秋冻",
@@ -10819,14 +10907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 137684,
-      "num": 137684,
-      "word": "董璇镜头里的陈哲远沈月甜齁了",
-      "onboard_time": 1665314782,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 137426,
       "num": 137426,
       "word": "我的反派男友弹幕",
@@ -10857,6 +10937,14 @@
       "onboard_time": 1664828950,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136548,
+      "num": 136548,
+      "word": "男星正剧适配度",
+      "onboard_time": 1665316043,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 135935,
@@ -11153,6 +11241,14 @@
       "onboard_time": 1664802984,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128198,
+      "num": 128198,
+      "word": "虞美人庄羽摔倒抱疯狂上分",
+      "onboard_time": 1665315264,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 128043,
@@ -12283,6 +12379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102890,
+      "num": 102890,
+      "word": "坚定选择的爱情没有遗憾",
+      "onboard_time": 1665317903,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 102787,
       "num": 102787,
       "word": "李雪健1句台词塑造4个人物",
@@ -12339,6 +12443,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 102135,
+      "num": 102135,
+      "word": "樊振东3比0杜达",
+      "onboard_time": 1665318084,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102128,
       "num": 102128,
       "word": "氛围感拉满还得看中国",
@@ -12392,14 +12504,6 @@
       "word": "孙颖莎3比0莱恩",
       "onboard_time": 1664884163,
       "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 100126,
-      "num": 100126,
-      "word": "中国女排晋级8强",
-      "onboard_time": 1665315321,
-      "rank": 45,
       "category": "体育"
     },
     {
@@ -12681,6 +12785,14 @@
       "onboard_time": 1664615542,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94116,
+      "num": 94116,
+      "word": "唐朝诡事录特效",
+      "onboard_time": 1665319044,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 93658,
@@ -13017,14 +13129,6 @@
       "onboard_time": 1665153329,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 84940,
-      "num": 84940,
-      "word": "虞美人庄羽摔倒抱疯狂上分",
-      "onboard_time": 1665315264,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 84939,
@@ -14505,6 +14609,14 @@
       "onboard_time": 1664556498,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 40547,
+      "num": 325119,
+      "word": "交警收到三页纸的手写感谢信",
+      "onboard_time": 1665316884,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40305,
