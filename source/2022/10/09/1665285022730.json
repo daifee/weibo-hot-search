@@ -1,0 +1,410 @@
+{
+  "runTime": 1665285022730,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1351199,
+        "num": 1351199,
+        "word": "喜欢下班的有福了",
+        "onboard_time": 1665279863,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 703928,
+        "num": 703928,
+        "word": "同意上海重庆外资旅行社从事出境游业务",
+        "onboard_time": 1665278663,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20155,
+        "num": 680780,
+        "word": "4K视频看海上火箭发射",
+        "onboard_time": 1665232886,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 939200,
+        "num": 679307,
+        "word": "宠物龟从8楼掉落砸碎车玻璃",
+        "onboard_time": 1665280523,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 672351,
+        "num": 672351,
+        "word": "老人用钢丝球洗洁精帮儿子洗车",
+        "onboard_time": 1665282683,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434043,
+        "num": 434043,
+        "word": "明年中秋国庆假重合有望连休9天",
+        "onboard_time": 1665256871,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372782,
+        "num": 372782,
+        "word": "10月8日新增本土无症状1307例",
+        "onboard_time": 1665278124,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360369,
+        "num": 360369,
+        "word": "广州大学生死学课堂播放三悦",
+        "onboard_time": 1665271879,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 342291,
+        "num": 342291,
+        "word": "旅客携带罂粟过安检称治胃病",
+        "onboard_time": 1665282982,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326250,
+        "num": 326250,
+        "word": "克里米亚大桥恢复通车",
+        "onboard_time": 1665278903,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1083167,
+        "num": 318861,
+        "word": "什么是假性恋爱",
+        "onboard_time": 1665272599,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 459838,
+        "num": 313551,
+        "word": "iPhone5C被苹果列入过时产品",
+        "onboard_time": 1665283584,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 296776,
+        "num": 296776,
+        "word": "女子连夜开车400里到烟台捞海肠",
+        "onboard_time": 1665272781,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284537,
+        "num": 284537,
+        "word": "虞书欣张彬彬雨夜贴脸自拍",
+        "onboard_time": 1665284182,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 252737,
+        "num": 252737,
+        "word": "爱的二八定律",
+        "onboard_time": 1665271699,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231007,
+        "num": 231007,
+        "word": "宠物狗舔食外卖店家被罚1.5万",
+        "onboard_time": 1665274644,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211249,
+        "num": 211249,
+        "word": "我妈烦我的原因找到了",
+        "onboard_time": 1665275185,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204116,
+        "num": 204116,
+        "word": "椰树集团直播带货风格引争议",
+        "onboard_time": 1665238288,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203597,
+        "num": 203597,
+        "word": "Meiko的锤石",
+        "onboard_time": 1665279563,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 203564,
+        "num": 203564,
+        "word": "上海对五类人员会赋红码",
+        "onboard_time": 1665275964,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196925,
+        "num": 196925,
+        "word": "伴侣间情绪稳定真的很重要",
+        "onboard_time": 1665242186,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196294,
+        "num": 196294,
+        "word": "TES对战GAM",
+        "onboard_time": 1665280643,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 195615,
+        "num": 195615,
+        "word": "国家需要就是我的专业",
+        "onboard_time": 1665276686,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195396,
+        "num": 195396,
+        "word": "再也不怕别人不还钱了",
+        "onboard_time": 1665283463,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179515,
+        "num": 179515,
+        "word": "超30城支持一人购房全家帮",
+        "onboard_time": 1665277645,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179480,
+        "num": 179480,
+        "word": "吴尊十分钟搞定两个小孩早餐",
+        "onboard_time": 1665258431,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172119,
+        "num": 172119,
+        "word": "EDG小组赛首胜",
+        "onboard_time": 1665279504,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171333,
+        "num": 171333,
+        "word": "张小斐 绝了",
+        "onboard_time": 1665231924,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158693,
+        "num": 158693,
+        "word": "寺庙当家回应师太喂养独臂猴十余年",
+        "onboard_time": 1665244644,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152227,
+        "num": 152227,
+        "word": "女孩帮爷爷奶奶收玉米整袋扛上肩",
+        "onboard_time": 1665280162,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145459,
+        "num": 145459,
+        "word": "程潇赞多双人battle默契值拉满",
+        "onboard_time": 1665279563,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141564,
+        "num": 141564,
+        "word": "T1",
+        "onboard_time": 1665275544,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141494,
+        "num": 141494,
+        "word": "10月8日新增本土确诊441例",
+        "onboard_time": 1665278124,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131232,
+        "num": 131232,
+        "word": "王一博演我嗑cp",
+        "onboard_time": 1665244644,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114713,
+        "num": 114713,
+        "word": "追梦格林再次道歉",
+        "onboard_time": 1665273922,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112163,
+        "num": 112163,
+        "word": "孙颖莎把金牌挂在教练脖子上",
+        "onboard_time": 1665284484,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111494,
+        "num": 111494,
+        "word": "中国最高树上发现50余种高等植物",
+        "onboard_time": 1665284424,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108194,
+        "num": 108194,
+        "word": "市监局回应消费930.9元遭反向抹零",
+        "onboard_time": 1665238167,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105931,
+        "num": 105931,
+        "word": "FNC战胜T1",
+        "onboard_time": 1665277045,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 103917,
+        "num": 103917,
+        "word": "医学生的学费交得真值",
+        "onboard_time": 1665257472,
+        "rank": 39,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 95999,
+        "num": 95999,
+        "word": "刘雯 超模就是超模",
+        "onboard_time": 1665231985,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 88393,
+        "num": 88393,
+        "word": "外交部回应华春莹连发13图宣传中国制造",
+        "onboard_time": 1665263711,
+        "rank": 41,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 88379,
+        "num": 88379,
+        "word": "马克龙抱怨美国天然气要价4倍",
+        "onboard_time": 1665244762,
+        "rank": 42,
+        "category": "财经,国外要闻"
+      },
+      {
+        "raw_hot": 88120,
+        "num": 88120,
+        "word": "同小区3位新郎同名同姓同一天结婚",
+        "onboard_time": 1665266651,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87018,
+        "num": 87018,
+        "word": "TES战胜GAM",
+        "onboard_time": 1665281664,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 81373,
+        "num": 81373,
+        "word": "马龙赛后拥抱樊振东",
+        "onboard_time": 1665246141,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77780,
+        "num": 77780,
+        "word": "中方回应美对芯片实施新出口管制",
+        "onboard_time": 1665255251,
+        "rank": 46,
+        "category": "国内要闻,财经"
+      },
+      {
+        "raw_hot": 69851,
+        "num": 69851,
+        "word": "街头不见井盖电线杆的未来之城",
+        "onboard_time": 1665282623,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69222,
+        "num": 69222,
+        "word": "烟台赶海人一晚捞千余斤海肠",
+        "onboard_time": 1665274162,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64442,
+        "num": 64442,
+        "word": "椰树集团回应直播争议",
+        "onboard_time": 1665243265,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代的历史性成就和变革#"
+    }
+  }
+}
