@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1665323752310,
+  "endTime": 1665325428967,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -1371,6 +1371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 800982,
+      "num": 800982,
+      "word": "莎头",
+      "onboard_time": 1665324266,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 799045,
       "num": 799045,
       "word": "同小区3位新郎同名同姓同一天结婚",
@@ -2620,7 +2628,7 @@
     },
     {
       "raw_hot": 510146,
-      "num": 345644,
+      "num": 352288,
       "word": "美国两名幼童被家中两只比特犬咬死",
       "onboard_time": 1665308842,
       "rank": 12,
@@ -2929,6 +2937,14 @@
       "onboard_time": 1665314064,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 470824,
+      "num": 432517,
+      "word": "原来真的有人开口即浪漫",
+      "onboard_time": 1665323004,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 470810,
@@ -3243,6 +3259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 440294,
+      "num": 440294,
+      "word": "国乒男团夺冠",
+      "onboard_time": 1665322585,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 439364,
       "num": 439364,
       "word": "被高铁上惊鸿一瞥的美景惊艳到了",
@@ -3400,14 +3424,6 @@
       "word": "许昕刘诗雯解说",
       "onboard_time": 1665230427,
       "rank": 13,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 425430,
-      "num": 425430,
-      "word": "国乒男团夺冠",
-      "onboard_time": 1665322585,
-      "rank": 14,
       "category": "体育"
     },
     {
@@ -4499,6 +4515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 331759,
+      "num": 331759,
+      "word": "睡不好头昏沉可能是大脑发出警告",
+      "onboard_time": 1665323244,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 331745,
       "num": 331745,
       "word": "如果有个空气炸锅",
@@ -4827,6 +4851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 300976,
+      "num": 300976,
+      "word": "猫猫们要努力熬过早到的冬天",
+      "onboard_time": 1665323303,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 300469,
       "num": 300469,
       "word": "李现被哈兰德圈粉",
@@ -5001,6 +5033,14 @@
       "onboard_time": 1665152549,
       "rank": 24,
       "category": "情感,综艺"
+    },
+    {
+      "raw_hot": 291129,
+      "num": 291129,
+      "word": "母亲穿西装送女儿出嫁被当成闺蜜",
+      "onboard_time": 1665323785,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 291080,
@@ -5219,6 +5259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 278135,
+      "num": 278135,
+      "word": "中国研发新战机脚步从未停歇",
+      "onboard_time": 1665321084,
+      "rank": 23,
+      "category": "国内要闻,军事"
+    },
+    {
       "raw_hot": 276709,
       "num": 276709,
       "word": "哈尔滨市新增2例外省输入阳性",
@@ -5297,6 +5345,14 @@
       "onboard_time": 1664949620,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 273045,
+      "num": 273045,
+      "word": "NH大满贯",
+      "onboard_time": 1665324866,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 272800,
@@ -5393,14 +5449,6 @@
       "onboard_time": 1664985803,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 269552,
-      "num": 269552,
-      "word": "中国研发新战机脚步从未停歇",
-      "onboard_time": 1665321084,
-      "rank": 23,
-      "category": "国内要闻,军事"
     },
     {
       "raw_hot": 269522,
@@ -6411,14 +6459,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 225067,
-      "num": 225067,
-      "word": "原来真的有人开口即浪漫",
-      "onboard_time": 1665323004,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 225019,
       "num": 225019,
       "word": "超30城支持一人购房全家帮",
@@ -6683,6 +6723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 216362,
+      "num": 216362,
+      "word": "legends never die",
+      "onboard_time": 1665324684,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 215472,
       "num": 215472,
       "word": "卡德罗夫称三个儿子将赴前线",
@@ -6923,6 +6971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206133,
+      "num": 206133,
+      "word": "南忘今萧婚后日常",
+      "onboard_time": 1665322287,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 206061,
       "num": 206061,
       "word": "你养猫猫的原因是什么",
@@ -7019,6 +7075,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 201113,
+      "num": 201113,
+      "word": "张远噢乖高音",
+      "onboard_time": 1665324985,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200980,
       "num": 200980,
       "word": "小鬼戴帽子重拾街舞热爱",
@@ -7049,14 +7113,6 @@
       "onboard_time": 1665210562,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 200225,
-      "num": 200225,
-      "word": "南忘今萧婚后日常",
-      "onboard_time": 1665322287,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 200112,
@@ -7505,6 +7561,14 @@
       "onboard_time": 1664754258,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183108,
+      "num": 183108,
+      "word": "我的反派男友",
+      "onboard_time": 1665324565,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 182901,
@@ -8579,6 +8643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145928,
+      "num": 145928,
+      "word": "二八姐弟恋氛围感绝了",
+      "onboard_time": 1665324385,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 145808,
       "num": 145808,
       "word": "退伍军人6岁儿子公园踢正步",
@@ -8769,14 +8841,6 @@
       "onboard_time": 1665148823,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 140820,
-      "num": 140820,
-      "word": "睡不好头昏沉可能是大脑发出警告",
-      "onboard_time": 1665323244,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140745,
@@ -9227,6 +9291,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126772,
+      "num": 126772,
+      "word": "国乒男队夺冠与国旗合影",
+      "onboard_time": 1665324206,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 126574,
+      "num": 126574,
+      "word": "总以为截图可以留住些什么",
+      "onboard_time": 1665325106,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 126515,
       "num": 126515,
       "word": "王嘉尔MAGICMAN实体彩胶上线",
@@ -9249,6 +9329,14 @@
       "onboard_time": 1664740510,
       "rank": 47,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 126376,
+      "num": 126376,
+      "word": "唐朝诡事录特效",
+      "onboard_time": 1665319044,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 126156,
@@ -9449,14 +9537,6 @@
       "onboard_time": 1664871500,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 120971,
-      "num": 120971,
-      "word": "猫猫们要努力熬过早到的冬天",
-      "onboard_time": 1665323303,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 120912,
@@ -9723,6 +9803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 114203,
+      "num": 114203,
+      "word": "pcs7洲际赛",
+      "onboard_time": 1665324266,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 113526,
       "num": 113526,
       "word": "童年就像一个做了很久的梦",
@@ -9921,14 +10009,6 @@
       "onboard_time": 1665138862,
       "rank": 44,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 108122,
-      "num": 108122,
-      "word": "唐朝诡事录特效",
-      "onboard_time": 1665319044,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 107777,
