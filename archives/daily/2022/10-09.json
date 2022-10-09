@@ -1,6 +1,6 @@
 {
   "startTime": 1665246866302,
-  "endTime": 1665294084593,
+  "endTime": 1665294933487,
   "band_list": [
     {
       "raw_hot": 2219370,
@@ -43,6 +43,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 967009,
+      "num": 967009,
+      "word": "椰树曾2次因违背社会良好风尚被罚",
+      "onboard_time": 1665289646,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 939200,
       "num": 679307,
       "word": "宠物龟从8楼掉落砸碎车玻璃",
@@ -59,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 899220,
+      "num": 639337,
+      "word": "王一博向李承铉宣传热烈",
+      "onboard_time": 1665291686,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 887072,
       "num": 887072,
       "word": "镶嵌劳力士iPhone14Pro售价93万",
@@ -73,14 +89,6 @@
       "onboard_time": 1665238288,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 863830,
-      "num": 639337,
-      "word": "王一博向李承铉宣传热烈",
-      "onboard_time": 1665291686,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 799045,
@@ -145,14 +153,6 @@
       "onboard_time": 1665284484,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 644542,
-      "num": 644542,
-      "word": "椰树曾2次因违背社会良好风尚被罚",
-      "onboard_time": 1665289646,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 620520,
@@ -235,6 +235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 440461,
+      "num": 440461,
+      "word": "老人第一次乘火车去照顾怀孕儿媳",
+      "onboard_time": 1665291386,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 412209,
       "num": 412209,
       "word": "T1",
@@ -307,14 +315,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 331286,
-      "num": 331286,
-      "word": "老人第一次乘火车去照顾怀孕儿媳",
-      "onboard_time": 1665291386,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 325194,
       "num": 325194,
       "word": "真的有人完全没有社交吗",
@@ -353,6 +353,14 @@
       "onboard_time": 1665275185,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 303532,
+      "num": 303532,
+      "word": "婚礼上金毛被拴泥地淋雨表情哀怨",
+      "onboard_time": 1665292585,
+      "rank": 21,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 299442,
@@ -459,8 +467,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 249570,
-      "num": 249570,
+      "raw_hot": 249711,
+      "num": 249711,
       "word": "男子座椅半躺后座被挤到腿伸不开",
       "onboard_time": 1665289286,
       "rank": 49,
@@ -529,14 +537,6 @@
       "onboard_time": 1665286343,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208320,
-      "num": 208320,
-      "word": "婚礼上金毛被拴泥地淋雨表情哀怨",
-      "onboard_time": 1665292585,
-      "rank": 21,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 208068,
@@ -611,6 +611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166154,
+      "num": 166154,
+      "word": "动物园回应游客向熊投喂致其呕吐",
+      "onboard_time": 1665290847,
+      "rank": 32,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 164866,
       "num": 164866,
       "word": "久酷 辅助",
@@ -675,20 +683,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 141769,
-      "num": 141769,
+      "raw_hot": 142832,
+      "num": 142832,
       "word": "2022F1日本大奖赛",
       "onboard_time": 1665293306,
       "rank": 30,
       "category": "体育"
     },
     {
-      "raw_hot": 137225,
-      "num": 137225,
-      "word": "动物园回应游客向熊投喂致其呕吐",
-      "onboard_time": 1665290847,
-      "rank": 32,
-      "category": "社会新闻,旅游"
+      "raw_hot": 138019,
+      "num": 138019,
+      "word": "十九届七中全会",
+      "onboard_time": 1665294324,
+      "rank": 31,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 134731,
@@ -747,19 +755,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120339,
+      "num": 120339,
+      "word": "北部战区海军宣传片重磅发布",
+      "onboard_time": 1665294144,
+      "rank": 34,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 120287,
+      "num": 120287,
+      "word": "去有风的地方",
+      "onboard_time": 1665291207,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 119512,
       "num": 119512,
       "word": "newjeans获奖感言",
       "onboard_time": 1665286044,
       "rank": 39,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 118887,
-      "num": 118887,
-      "word": "去有风的地方",
-      "onboard_time": 1665291207,
-      "rank": 34,
       "category": "影视"
     },
     {
@@ -833,6 +849,14 @@
       "onboard_time": 1665289708,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 97382,
+      "num": 97382,
+      "word": "假如男生用女生的拍照姿势",
+      "onboard_time": 1665293844,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 96331,
@@ -939,14 +963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 73211,
-      "num": 73211,
-      "word": "假如男生用女生的拍照姿势",
-      "onboard_time": 1665293844,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 72518,
       "num": 72518,
       "word": "VOGUE 女明星",
@@ -1009,6 +1025,14 @@
       "onboard_time": 1665216203,
       "rank": 42,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 56801,
+      "num": 639560,
+      "word": "无人机视角瞰大美中国",
+      "onboard_time": 1665292285,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 55711,
@@ -1075,14 +1099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 41232,
-      "num": 639560,
-      "word": "无人机视角瞰大美中国",
-      "onboard_time": 1665292285,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 39924,
       "num": 39924,
       "word": "AC米兰2比0尤文图斯",
@@ -1099,20 +1115,20 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 37526,
+      "num": 274616,
+      "word": "抗美援朝老战士含泪讲述被救场景",
+      "onboard_time": 1665291626,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36217,
       "num": 36217,
       "word": "国乒女团8连胜强势夺冠",
       "onboard_time": 1665236788,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 29666,
-      "num": 274616,
-      "word": "抗美援朝老战士含泪讲述被救场景",
-      "onboard_time": 1665291626,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25681,
@@ -1175,6 +1191,9 @@
     },
     {
       "word": "#同心向党我来说#"
+    },
+    {
+      "word": "#领航#"
     }
   ]
 }
