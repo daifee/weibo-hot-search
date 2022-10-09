@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/10 05:41:12
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/10 06:25:40
 </p>
 </blockquote>
 <p>
@@ -5571,6 +5571,12 @@ StrayKids新专辑预售量突破237万张（热度：261769）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%B8%9C%E7%A7%B0%E9%81%87%E7%A5%9E%E4%BB%99%E7%A7%9F%E5%AE%A2%E6%89%93%E6%89%AB%E5%BE%97%E4%B8%80%E5%B0%98%E4%B8%8D%E6%9F%93%23" target="weibo">
+房东称遇神仙租客打扫得一尘不染（热度：250606）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A9%B9%E5%A7%86%E6%96%AF%E5%8D%8A%E5%9C%BA7%E4%B8%AD0%23" target="weibo">
 詹姆斯半场7中0（热度：250581）
 </a>
@@ -6005,12 +6011,6 @@ U17国足9比0柬埔寨（热度：230222）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%84%B1%E5%8F%A3%E7%A7%80%E7%9C%8B%E5%97%A8%E4%BA%86%E4%BC%9A%E6%B5%81%E6%B3%AA%23" target="weibo">
 脱口秀看嗨了会流泪（热度：228682）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%98%E5%AE%87%E5%87%BA%E9%99%A2%23" target="weibo">
-甘宇出院（热度：228235）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665351672704,
+  "endTime": 1665354340102,
   "band_list": [
     {
       "raw_hot": 1318290,
@@ -91,20 +91,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 250606,
+      "num": 250606,
+      "word": "房东称遇神仙租客打扫得一尘不染",
+      "onboard_time": 1665333380,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237008,
       "num": 237008,
       "word": "S12换新装",
       "onboard_time": 1665328946,
       "rank": 11,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 222507,
-      "num": 222507,
-      "word": "房东称遇神仙租客打扫得一尘不染",
-      "onboard_time": 1665333380,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 220501,
@@ -175,6 +175,14 @@
       "num": 143300,
       "word": "女子吐槽丈夫脑袋掉色枕头焦黄",
       "onboard_time": 1665334697,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142519,
+      "num": 61308,
+      "word": "男孩得胃病竟因妈妈染幽门螺杆菌",
+      "onboard_time": 1665350350,
       "rank": 49,
       "category": "社会新闻"
     },
@@ -339,6 +347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 76246,
+      "num": 60610,
+      "word": "新疆新增无症状感染者383例",
+      "onboard_time": 1665347412,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70535,
       "num": 70535,
       "word": "暖暖的火锅开播",
@@ -395,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57998,
+      "num": 57998,
+      "word": "员工私下换班出车祸公司拒认定工伤",
+      "onboard_time": 1665344470,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55969,
       "num": 55969,
       "word": "南忘今萧婚后日常",
@@ -403,11 +427,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 53371,
-      "num": 25777,
-      "word": "新疆新增无症状感染者383例",
-      "onboard_time": 1665347412,
-      "rank": 40,
+      "raw_hot": 55594,
+      "num": 55594,
+      "word": "北京公积金5年以上贷款利率已下调至3.1%",
+      "onboard_time": 1665344950,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -435,44 +459,76 @@
       "category": "影视"
     },
     {
+      "raw_hot": 43772,
+      "num": 43772,
+      "word": "持红码到酒吧蹦迪系误传",
+      "onboard_time": 1665350832,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42835,
+      "num": 42835,
+      "word": "普京下令加强刻赤海峡运输通道安保",
+      "onboard_time": 1665344470,
+      "rank": 24,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 41758,
+      "num": 41758,
+      "word": "帮乡亲看CT片华西教授回应质疑",
+      "onboard_time": 1665347290,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41327,
-      "num": 24401,
+      "num": 29720,
       "word": "杭州两商场未落实扫码核验六人被行政拘留",
       "onboard_time": 1665343811,
       "rank": 41,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 33061,
-      "num": 24701,
-      "word": "员工私下换班出车祸公司拒认定工伤",
-      "onboard_time": 1665344470,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32458,
-      "num": 22998,
-      "word": "北京公积金5年以上贷款利率已下调至3.1%",
-      "onboard_time": 1665344950,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22427,
-      "num": 22427,
+      "raw_hot": 40438,
+      "num": 40438,
       "word": "男子带四岁半孩子翻山进景区被困",
       "onboard_time": 1665344110,
       "rank": 48,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21491,
-      "num": 21491,
-      "word": "帮乡亲看CT片华西教授回应质疑",
-      "onboard_time": 1665347290,
-      "rank": 25,
+      "raw_hot": 39121,
+      "num": 39121,
+      "word": "熊孩子不上学躲自家衣柜玩手机",
+      "onboard_time": 1665347830,
+      "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25169,
+      "num": 25169,
+      "word": "三部门约谈部分光伏企业及行业机构",
+      "onboard_time": 1665349870,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24096,
+      "num": 24096,
+      "word": "一夜入冬是种什么体验",
+      "onboard_time": 1665351191,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 18875,
+      "num": 18875,
+      "word": "南京下调公积金贷款利率",
+      "onboard_time": 1665351670,
+      "rank": 47,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 17673,
@@ -491,36 +547,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 16112,
-      "num": 16112,
-      "word": "男孩得胃病竟因妈妈染幽门螺杆菌",
-      "onboard_time": 1665350350,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15464,
-      "num": 15464,
-      "word": "普京下令加强刻赤海峡运输通道安保",
-      "onboard_time": 1665344470,
-      "rank": 24,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 14109,
       "num": 14109,
       "word": "张远噢乖高音",
       "onboard_time": 1665324985,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 13975,
-      "num": 13975,
-      "word": "熊孩子不上学躲自家衣柜玩手机",
-      "onboard_time": 1665347830,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13764,
@@ -539,12 +571,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 10455,
-      "num": 10455,
-      "word": "三部门约谈部分光伏企业及行业机构",
-      "onboard_time": 1665349870,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 9765,
+      "num": 9765,
+      "word": "2个动作增强背肌",
+      "onboard_time": 1665351311,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 7453,
@@ -561,6 +593,14 @@
       "onboard_time": 1665343631,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7047,
+      "num": 8934,
+      "word": "2024欧洲杯预选赛抽签",
+      "onboard_time": 1665351852,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 7009,
@@ -587,36 +627,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 6302,
-      "num": 6302,
-      "word": "2个动作增强背肌",
-      "onboard_time": 1665351311,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 6283,
-      "num": 6283,
-      "word": "一夜入冬是种什么体验",
-      "onboard_time": 1665351191,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 6156,
       "num": 6156,
       "word": "日韩称朝鲜9日发射弹道导弹",
       "onboard_time": 1665346812,
       "rank": 47,
       "category": "军事"
-    },
-    {
-      "raw_hot": 6155,
-      "num": 6155,
-      "word": "持红码到酒吧蹦迪系误传",
-      "onboard_time": 1665350832,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 6132,
@@ -665,14 +681,6 @@
       "onboard_time": 1665347709,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 5587,
-      "num": 5587,
-      "word": "南京下调公积金贷款利率",
-      "onboard_time": 1665351670,
-      "rank": 47,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 5542,
