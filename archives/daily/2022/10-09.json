@@ -1,6 +1,6 @@
 {
   "startTime": 1665246866302,
-  "endTime": 1665285022730,
+  "endTime": 1665289467875,
   "band_list": [
     {
       "raw_hot": 2219370,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 929987,
+      "num": 929987,
+      "word": "老人用钢丝球洗洁精帮儿子洗车",
+      "onboard_time": 1665282683,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 883399,
       "num": 883399,
       "word": "椰树集团直播带货风格引争议",
@@ -75,12 +83,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 672351,
-      "num": 672351,
-      "word": "老人用钢丝球洗洁精帮儿子洗车",
-      "onboard_time": 1665282683,
-      "rank": 4,
-      "category": "社会新闻"
+      "raw_hot": 662384,
+      "num": 662384,
+      "word": "iPhone5C被苹果列入过时产品",
+      "onboard_time": 1665283584,
+      "rank": 11,
+      "category": "科技"
     },
     {
       "raw_hot": 658169,
@@ -91,12 +99,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 652495,
+      "num": 652495,
+      "word": "萧无敌南星结婚了",
+      "onboard_time": 1665287184,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 651845,
       "num": 651845,
       "word": "王一博演我嗑cp",
       "onboard_time": 1665244644,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 649834,
+      "num": 438103,
+      "word": "镶嵌劳力士iPhone14Pro售价93万",
+      "onboard_time": 1665286463,
+      "rank": 11,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 646158,
+      "num": 646158,
+      "word": "孙颖莎把金牌挂在教练脖子上",
+      "onboard_time": 1665284484,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 609359,
@@ -107,12 +139,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 609017,
+      "num": 287151,
+      "word": "iPhone14Plus被指年度最不保值的手机",
+      "onboard_time": 1665287064,
+      "rank": 20,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 599733,
+      "num": 599733,
+      "word": "LPL小组赛第二日全胜",
+      "onboard_time": 1665285623,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 557839,
       "num": 557839,
       "word": "广州大学生死学课堂播放三悦",
       "onboard_time": 1665271879,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 550297,
+      "num": 550297,
+      "word": "旅客携带罂粟过安检称治胃病",
+      "onboard_time": 1665282982,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 512762,
@@ -131,12 +187,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 459838,
-      "num": 313551,
-      "word": "iPhone5C被苹果列入过时产品",
-      "onboard_time": 1665283584,
-      "rank": 11,
-      "category": "科技"
+      "raw_hot": 484636,
+      "num": 451809,
+      "word": "JDG战胜DK",
+      "onboard_time": 1665285324,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 421643,
+      "num": 421643,
+      "word": "陈哲远被沈月的vlog整感动了",
+      "onboard_time": 1665287184,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 412209,
@@ -153,6 +217,14 @@
       "onboard_time": 1665244762,
       "rank": 11,
       "category": "财经,国外要闻"
+    },
+    {
+      "raw_hot": 381356,
+      "num": 381356,
+      "word": "中国最高树上发现50余种高等植物",
+      "onboard_time": 1665284424,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 381322,
@@ -187,12 +259,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 342291,
-      "num": 342291,
-      "word": "旅客携带罂粟过安检称治胃病",
-      "onboard_time": 1665282982,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 350217,
+      "num": 350217,
+      "word": "刘亦菲去有风的地方将开始配音",
+      "onboard_time": 1665287604,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 325194,
@@ -201,6 +273,22 @@
       "onboard_time": 1665237749,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 322521,
+      "num": 322521,
+      "word": "再也不怕别人不还钱了",
+      "onboard_time": 1665283463,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 317875,
+      "num": 317875,
+      "word": "主人手捣菠菜为爱狗染色",
+      "onboard_time": 1665285803,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 316070,
@@ -225,6 +313,14 @@
       "onboard_time": 1665275185,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 299442,
+      "num": 299442,
+      "word": "新娘回应双胞胎姐妹同天出嫁搞懵新郎",
+      "onboard_time": 1665286825,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 294036,
@@ -347,6 +443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 220427,
+      "num": 220427,
+      "word": "牙膏的沙皇",
+      "onboard_time": 1665286523,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 219187,
       "num": 219187,
       "word": "专四专八",
@@ -387,20 +491,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 195396,
-      "num": 195396,
-      "word": "再也不怕别人不还钱了",
-      "onboard_time": 1665283463,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 181712,
       "num": 157530,
       "word": "克里米亚大桥大火后乌空军账号发文",
       "onboard_time": 1665261790,
       "rank": 49,
       "category": "军事,国外要闻"
+    },
+    {
+      "raw_hot": 181530,
+      "num": 181530,
+      "word": "俄称乌军炮击俄本土4村镇",
+      "onboard_time": 1665288746,
+      "rank": 25,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 180806,
+      "num": 180806,
+      "word": "小学生把课文里的竹节人做出来了",
+      "onboard_time": 1665286343,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180087,
@@ -441,6 +553,14 @@
       "onboard_time": 1665257472,
       "rank": 49,
       "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 158366,
+      "num": 158366,
+      "word": "LPL 快乐日",
+      "onboard_time": 1665287724,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 157248,
@@ -539,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119512,
+      "num": 119512,
+      "word": "newjeans获奖感言",
+      "onboard_time": 1665286044,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 117315,
       "num": 117315,
       "word": "RGE战胜DRX",
@@ -555,20 +683,20 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 112163,
-      "num": 112163,
-      "word": "孙颖莎把金牌挂在教练脖子上",
-      "onboard_time": 1665284484,
-      "rank": 35,
-      "category": "体育"
+      "raw_hot": 115224,
+      "num": 115224,
+      "word": "肖顺尧莲花楼杀青",
+      "onboard_time": 1665287665,
+      "rank": 40,
+      "category": "影视"
     },
     {
-      "raw_hot": 111494,
-      "num": 111494,
-      "word": "中国最高树上发现50余种高等植物",
-      "onboard_time": 1665284424,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 110749,
+      "num": 110749,
+      "word": "檀健次贝雷帽卷发造型",
+      "onboard_time": 1665286463,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 108400,
@@ -603,6 +731,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 96331,
+      "num": 96331,
+      "word": "JDG 团战",
+      "onboard_time": 1665288985,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 92616,
       "num": 92616,
       "word": "电视剧底线",
@@ -617,6 +753,14 @@
       "onboard_time": 1665235585,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87362,
+      "num": 87362,
+      "word": "男子座椅半躺后座被挤到腿伸不开",
+      "onboard_time": 1665289286,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84762,
@@ -825,6 +969,14 @@
       "onboard_time": 1665236788,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35546,
+      "num": 368178,
+      "word": "大叔河中托举落水者20分钟",
+      "onboard_time": 1665288024,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25681,

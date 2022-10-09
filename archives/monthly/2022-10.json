@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665285022730,
+  "endTime": 1665289467875,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -1395,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 929987,
+      "num": 929987,
+      "word": "老人用钢丝球洗洁精帮儿子洗车",
+      "onboard_time": 1665282683,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 929015,
       "num": 929015,
       "word": "婚礼现场新郎啄木鸟式亲新娘十几下",
@@ -2155,14 +2163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 672351,
-      "num": 672351,
-      "word": "老人用钢丝球洗洁精帮儿子洗车",
-      "onboard_time": 1665282683,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 672115,
       "num": 672115,
       "word": "俄军从红利曼撤退",
@@ -2177,6 +2177,14 @@
       "onboard_time": 1664948841,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 662384,
+      "num": 662384,
+      "word": "iPhone5C被苹果列入过时产品",
+      "onboard_time": 1665283584,
+      "rank": 11,
+      "category": "科技"
     },
     {
       "raw_hot": 658735,
@@ -2211,6 +2219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 652495,
+      "num": 652495,
+      "word": "萧无敌南星结婚了",
+      "onboard_time": 1665287184,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 652359,
       "num": 389776,
       "word": "男子连拧7瓶饮料看是否中奖",
@@ -2235,6 +2251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 649834,
+      "num": 438103,
+      "word": "镶嵌劳力士iPhone14Pro售价93万",
+      "onboard_time": 1665286463,
+      "rank": 11,
+      "category": "科技"
+    },
+    {
       "raw_hot": 649680,
       "num": 649680,
       "word": "唐朝诡事录群像",
@@ -2249,6 +2273,14 @@
       "onboard_time": 1664710344,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 646158,
+      "num": 646158,
+      "word": "孙颖莎把金牌挂在教练脖子上",
+      "onboard_time": 1665284484,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 645089,
@@ -2387,6 +2419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 609017,
+      "num": 287151,
+      "word": "iPhone14Plus被指年度最不保值的手机",
+      "onboard_time": 1665287064,
+      "rank": 20,
+      "category": "科技"
+    },
+    {
       "raw_hot": 606736,
       "num": 606736,
       "word": "2022年诺贝尔物理学奖揭晓",
@@ -2408,6 +2448,14 @@
       "word": "T1对战EDG",
       "onboard_time": 1665192802,
       "rank": 9,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 599733,
+      "num": 599733,
+      "word": "LPL小组赛第二日全胜",
+      "onboard_time": 1665285623,
+      "rank": 6,
       "category": "游戏"
     },
     {
@@ -2737,6 +2785,14 @@
       "onboard_time": 1665119602,
       "rank": 11,
       "category": "科技"
+    },
+    {
+      "raw_hot": 550297,
+      "num": 550297,
+      "word": "旅客携带罂粟过安检称治胃病",
+      "onboard_time": 1665282982,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 549902,
@@ -3147,6 +3203,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 484636,
+      "num": 451809,
+      "word": "JDG战胜DK",
+      "onboard_time": 1665285324,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 482691,
       "num": 281276,
       "word": "北京最新进返京提醒",
@@ -3457,14 +3521,6 @@
       "onboard_time": 1664980584,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 459838,
-      "num": 313551,
-      "word": "iPhone5C被苹果列入过时产品",
-      "onboard_time": 1665283584,
-      "rank": 11,
-      "category": "科技"
     },
     {
       "raw_hot": 458666,
@@ -3913,6 +3969,14 @@
       "onboard_time": 1665047846,
       "rank": 19,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 421643,
+      "num": 421643,
+      "word": "陈哲远被沈月的vlog整感动了",
+      "onboard_time": 1665287184,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 421066,
@@ -4395,6 +4459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 381356,
+      "num": 381356,
+      "word": "中国最高树上发现50余种高等植物",
+      "onboard_time": 1665284424,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381322,
       "num": 381322,
       "word": "克里米亚大桥恢复通车",
@@ -4803,6 +4875,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 350217,
+      "num": 350217,
+      "word": "刘亦菲去有风的地方将开始配音",
+      "onboard_time": 1665287604,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 348599,
       "num": 201176,
       "word": "货车着火近百头猪被烤熟",
@@ -4873,14 +4953,6 @@
       "onboard_time": 1665109404,
       "rank": 43,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 342291,
-      "num": 342291,
-      "word": "旅客携带罂粟过安检称治胃病",
-      "onboard_time": 1665282982,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 341131,
@@ -5131,6 +5203,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 322521,
+      "num": 322521,
+      "word": "再也不怕别人不还钱了",
+      "onboard_time": 1665283463,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 322493,
       "num": 322493,
       "word": "普京签署顿涅茨克等四地入俄条约",
@@ -5185,6 +5265,14 @@
       "onboard_time": 1664781082,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 317875,
+      "num": 317875,
+      "word": "主人手捣菠菜为爱狗染色",
+      "onboard_time": 1665285803,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 317298,
@@ -5449,6 +5537,14 @@
       "onboard_time": 1665237086,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 299442,
+      "num": 299442,
+      "word": "新娘回应双胞胎姐妹同天出嫁搞懵新郎",
+      "onboard_time": 1665286825,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 298402,
@@ -7427,6 +7523,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 220427,
+      "num": 220427,
+      "word": "牙膏的沙皇",
+      "onboard_time": 1665286523,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 220146,
       "num": 186484,
       "word": "90后飞行员被叫军中凯因斯坦",
@@ -8115,14 +8219,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 195396,
-      "num": 195396,
-      "word": "再也不怕别人不还钱了",
-      "onboard_time": 1665283463,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 195255,
       "num": 195255,
       "word": "人生大事登顶中国台湾网飞电影榜",
@@ -8563,6 +8659,14 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 181530,
+      "num": 181530,
+      "word": "俄称乌军炮击俄本土4村镇",
+      "onboard_time": 1665288746,
+      "rank": 25,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 181375,
       "num": 181375,
       "word": "学生嬉闹时听到国歌集体立定敬礼",
@@ -8577,6 +8681,14 @@
       "onboard_time": 1665026962,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 180806,
+      "num": 180806,
+      "word": "小学生把课文里的竹节人做出来了",
+      "onboard_time": 1665286343,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180728,
@@ -9273,6 +9385,14 @@
       "onboard_time": 1664797465,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 158366,
+      "num": 158366,
+      "word": "LPL 快乐日",
+      "onboard_time": 1665287724,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 158276,
@@ -10851,6 +10971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119512,
+      "num": 119512,
+      "word": "newjeans获奖感言",
+      "onboard_time": 1665286044,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 119386,
       "num": 119386,
       "word": "马龙太牛了",
@@ -11011,6 +11139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115224,
+      "num": 115224,
+      "word": "肖顺尧莲花楼杀青",
+      "onboard_time": 1665287665,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 115145,
       "num": 115145,
       "word": "的哥送还手机要200元报酬失主报警",
@@ -11139,14 +11275,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 112163,
-      "num": 112163,
-      "word": "孙颖莎把金牌挂在教练脖子上",
-      "onboard_time": 1665284484,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 111886,
       "num": 111886,
       "word": "想看张译演喜剧",
@@ -11175,14 +11303,6 @@
       "num": 111637,
       "word": "10月5日新增本土确诊183例",
       "onboard_time": 1665019282,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 111494,
-      "num": 111494,
-      "word": "中国最高树上发现50余种高等植物",
-      "onboard_time": 1665284424,
       "rank": 36,
       "category": "社会新闻"
     },
@@ -11217,6 +11337,14 @@
       "onboard_time": 1664546905,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 110749,
+      "num": 110749,
+      "word": "檀健次贝雷帽卷发造型",
+      "onboard_time": 1665286463,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 110543,
@@ -11803,6 +11931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 96331,
+      "num": 96331,
+      "word": "JDG 团战",
+      "onboard_time": 1665288985,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 95958,
       "num": 95958,
       "word": "山东拆盲盒式赶海",
@@ -12088,6 +12224,14 @@
       "word": "超亮木星伴明月即将上演",
       "onboard_time": 1665142462,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87362,
+      "num": 87362,
+      "word": "男子座椅半躺后座被挤到腿伸不开",
+      "onboard_time": 1665289286,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -13689,6 +13833,14 @@
       "onboard_time": 1665001930,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 35546,
+      "num": 368178,
+      "word": "大叔河中托举落水者20分钟",
+      "onboard_time": 1665288024,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35511,
