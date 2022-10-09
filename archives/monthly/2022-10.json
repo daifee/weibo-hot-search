@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665297220651,
+  "endTime": 1665298421186,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -1643,6 +1643,14 @@
       "category": "社会议题,影视"
     },
     {
+      "raw_hot": 816254,
+      "num": 816254,
+      "word": "爱的二八定律下周播出",
+      "onboard_time": 1665295702,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 814475,
       "num": 814475,
       "word": "李一桐金瀚新剧陷入恋爱循环",
@@ -1985,14 +1993,6 @@
       "onboard_time": 1665186920,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 712635,
-      "num": 712635,
-      "word": "爱的二八定律下周播出",
-      "onboard_time": 1665295702,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 706727,
@@ -2739,6 +2739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 563099,
+      "num": 563099,
+      "word": "婚礼上金毛被拴泥地淋雨表情哀怨",
+      "onboard_time": 1665292585,
+      "rank": 21,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 561836,
       "num": 561836,
       "word": "难哄第二季开播",
@@ -2833,14 +2841,6 @@
       "onboard_time": 1665119602,
       "rank": 11,
       "category": "科技"
-    },
-    {
-      "raw_hot": 550558,
-      "num": 550558,
-      "word": "婚礼上金毛被拴泥地淋雨表情哀怨",
-      "onboard_time": 1665292585,
-      "rank": 21,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 550297,
@@ -3168,6 +3168,14 @@
       "word": "男子看升旗睡着仪式结束还未醒",
       "onboard_time": 1664764822,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 502079,
+      "num": 502079,
+      "word": "北京政务服务禁用语拟入规范",
+      "onboard_time": 1665295582,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -4915,6 +4923,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 351313,
+      "num": 307845,
+      "word": "北部战区海军宣传片重磅发布",
+      "onboard_time": 1665294144,
+      "rank": 34,
+      "category": "军事"
+    },
+    {
       "raw_hot": 351259,
       "num": 351259,
       "word": "哪一刻你意识到应该多读书",
@@ -5097,14 +5113,6 @@
       "onboard_time": 1664950581,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 336650,
-      "num": 307845,
-      "word": "北部战区海军宣传片重磅发布",
-      "onboard_time": 1665294144,
-      "rank": 34,
-      "category": "军事"
     },
     {
       "raw_hot": 336076,
@@ -5715,14 +5723,6 @@
       "category": "国内要闻,财经"
     },
     {
-      "raw_hot": 293642,
-      "num": 293642,
-      "word": "北京政务服务禁用语拟入规范",
-      "onboard_time": 1665295582,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 293089,
       "num": 293089,
       "word": "任嘉伦李沁请君相拥说枕边话",
@@ -6324,7 +6324,7 @@
     },
     {
       "raw_hot": 266889,
-      "num": 164717,
+      "num": 234667,
       "word": "十九届七中全会",
       "onboard_time": 1665294324,
       "rank": 31,
@@ -7201,6 +7201,14 @@
       "onboard_time": 1665223047,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 234617,
+      "num": 234617,
+      "word": "假如男生用女生的拍照姿势",
+      "onboard_time": 1665293844,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 234379,
@@ -8275,12 +8283,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198076,
+      "num": 198076,
+      "word": "没见过这么社死的婚礼",
+      "onboard_time": 1665298041,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 198050,
       "num": 198050,
       "word": "王楚钦3比1达科",
       "onboard_time": 1664800163,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197933,
+      "num": 197933,
+      "word": "市监局回应椰树直播争议",
+      "onboard_time": 1665296542,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197377,
@@ -8371,28 +8395,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 194618,
-      "num": 194618,
-      "word": "假如男生用女生的拍照姿势",
-      "onboard_time": 1665293844,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 194538,
       "num": 194538,
       "word": "金政基曾作画为中国加油",
       "onboard_time": 1664983044,
       "rank": 38,
       "category": "动漫,社会新闻"
-    },
-    {
-      "raw_hot": 194385,
-      "num": 163883,
-      "word": "市监局回应椰树直播争议",
-      "onboard_time": 1665296542,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 194371,
@@ -8585,6 +8593,14 @@
       "onboard_time": 1664797282,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 187788,
+      "num": 187788,
+      "word": "这猫的气质一下子就高贵了",
+      "onboard_time": 1665295642,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 187776,
@@ -9827,6 +9843,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 149482,
+      "num": 149482,
+      "word": "万里归途英国宣传海报",
+      "onboard_time": 1665297023,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 149478,
       "num": 149478,
       "word": "怎样有礼貌的挂断骚扰电话",
@@ -10609,14 +10633,6 @@
       "onboard_time": 1665131064,
       "rank": 37,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 130311,
-      "num": 130311,
-      "word": "万里归途英国宣传海报",
-      "onboard_time": 1665297023,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 130178,
@@ -11577,14 +11593,6 @@
       "onboard_time": 1664855242,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 109120,
-      "num": 109120,
-      "word": "这猫的气质一下子就高贵了",
-      "onboard_time": 1665295642,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 109030,
@@ -12699,6 +12707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 79266,
+      "num": 675091,
+      "word": "无人机视角瞰大美中国",
+      "onboard_time": 1665292285,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 79082,
       "num": 79082,
       "word": "天津大学127周年校庆",
@@ -12873,6 +12889,14 @@
       "onboard_time": 1664601982,
       "rank": 35,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 75425,
+      "num": 75425,
+      "word": "卖饭大姐的刀工像极了假动作",
+      "onboard_time": 1665297922,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 75400,
@@ -13057,6 +13081,14 @@
       "onboard_time": 1664637085,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 70004,
+      "num": 70004,
+      "word": "6个月宝宝吃饭时开口说饱了",
+      "onboard_time": 1665298283,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 69851,
@@ -13363,14 +13395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 63724,
-      "num": 639560,
-      "word": "无人机视角瞰大美中国",
-      "onboard_time": 1665292285,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 63181,
       "num": 63181,
       "word": "中国篮协向女篮致贺信",
@@ -13505,6 +13529,14 @@
       "onboard_time": 1665035845,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 57724,
+      "num": 57724,
+      "word": "TMA女星怼脸生图",
+      "onboard_time": 1665297501,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 57673,
@@ -14011,6 +14043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38161,
+      "num": 292883,
+      "word": "张桂梅说愿做大山里的一盏灯",
+      "onboard_time": 1665295224,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38096,
       "num": 303295,
       "word": "山海情凌教授原型将中国菌草带到非洲",
@@ -14177,14 +14217,6 @@
       "onboard_time": 1664819775,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 27039,
-      "num": 292883,
-      "word": "张桂梅说愿做大山里的一盏灯",
-      "onboard_time": 1665295224,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25619,
