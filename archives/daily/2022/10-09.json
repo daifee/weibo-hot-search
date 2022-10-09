@@ -1,6 +1,6 @@
 {
   "startTime": 1665246866302,
-  "endTime": 1665329245422,
+  "endTime": 1665330391035,
   "band_list": [
     {
       "raw_hot": 2465416,
@@ -99,8 +99,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1235870,
-      "num": 1235870,
+      "raw_hot": 1264688,
+      "num": 1264688,
       "word": "考研学生校内搭帐篷方便晚间学习",
       "onboard_time": 1665325702,
       "rank": 19,
@@ -201,6 +201,14 @@
       "onboard_time": 1665238288,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 826367,
+      "num": 826367,
+      "word": "总以为截图可以留住些什么",
+      "onboard_time": 1665325106,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 816254,
@@ -387,14 +395,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 590238,
-      "num": 590238,
-      "word": "总以为截图可以留住些什么",
-      "onboard_time": 1665325106,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 588173,
       "num": 588173,
       "word": "俄称乌军炮击俄本土4村镇",
@@ -555,6 +555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 452279,
+      "num": 452279,
+      "word": "马龙第27个世界冠军",
+      "onboard_time": 1665325825,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 441028,
       "num": 441028,
       "word": "仨教练座位被拆了",
@@ -633,14 +641,6 @@
       "onboard_time": 1665306561,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 394925,
-      "num": 394925,
-      "word": "马龙第27个世界冠军",
-      "onboard_time": 1665325825,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 383024,
@@ -867,20 +867,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 295526,
+      "num": 295526,
+      "word": "陈哲远沈月直播看自己亲密戏",
+      "onboard_time": 1665328104,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 294036,
       "num": 294036,
       "word": "中方回应美对芯片实施新出口管制",
       "onboard_time": 1665255251,
       "rank": 13,
       "category": "国内要闻,财经"
-    },
-    {
-      "raw_hot": 288221,
-      "num": 288221,
-      "word": "陈哲远沈月直播看自己亲密戏",
-      "onboard_time": 1665328104,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 287896,
@@ -1003,6 +1003,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 270310,
+      "num": 270310,
+      "word": "S12换新装",
+      "onboard_time": 1665328946,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 267502,
       "num": 267502,
       "word": "马龙赛后拥抱樊振东",
@@ -1121,14 +1129,6 @@
       "onboard_time": 1665324206,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 230637,
-      "num": 230637,
-      "word": "S12换新装",
-      "onboard_time": 1665328946,
-      "rank": 21,
-      "category": "游戏"
     },
     {
       "raw_hot": 227024,
@@ -1355,6 +1355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 183675,
+      "num": 183675,
+      "word": "抚顺疫情防控",
+      "onboard_time": 1665327386,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181970,
       "num": 172047,
       "word": "Wendy音乐节舞台",
@@ -1451,14 +1459,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 163540,
-      "num": 163540,
-      "word": "抚顺疫情防控",
-      "onboard_time": 1665327386,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160540,
       "num": 160540,
       "word": "医学生的学费交得真值",
@@ -1467,12 +1467,28 @@
       "category": "幽默,教育"
     },
     {
+      "raw_hot": 159966,
+      "num": 159966,
+      "word": "原来镜头真的是有感情的",
+      "onboard_time": 1665327025,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 159423,
       "num": 159423,
       "word": "马嘉祺我们的歌4轰炸直拍",
       "onboard_time": 1665301402,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159142,
+      "num": 159142,
+      "word": "你肯定玩过这个游戏",
+      "onboard_time": 1665327688,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 157248,
@@ -1539,6 +1555,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 147093,
+      "num": 147093,
+      "word": "PDD已起诉多人侵犯名誉权",
+      "onboard_time": 1665329965,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 146906,
       "num": 146906,
       "word": "追梦格林再次道歉",
@@ -1553,14 +1577,6 @@
       "onboard_time": 1665324385,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 142955,
-      "num": 142955,
-      "word": "你肯定玩过这个游戏",
-      "onboard_time": 1665327688,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 142832,
@@ -1617,14 +1633,6 @@
       "onboard_time": 1665230306,
       "rank": 30,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 130990,
-      "num": 130990,
-      "word": "原来镜头真的是有感情的",
-      "onboard_time": 1665327025,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 128844,
@@ -1931,6 +1939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83440,
+      "num": 83440,
+      "word": "国乒男团举起斯韦思林杯",
+      "onboard_time": 1665329782,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81749,
       "num": 81749,
       "word": "李承铉又双叒后空翻了",
@@ -1953,6 +1969,14 @@
       "onboard_time": 1665258790,
       "rank": 18,
       "category": "财经,国外要闻"
+    },
+    {
+      "raw_hot": 77938,
+      "num": 77938,
+      "word": "暖暖的火锅开播",
+      "onboard_time": 1665330204,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 76433,
@@ -2033,6 +2057,14 @@
       "onboard_time": 1665276205,
       "rank": 48,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 68805,
+      "num": 68805,
+      "word": "第一次喜欢的那个人还联系吗",
+      "onboard_time": 1665330263,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 65637,
