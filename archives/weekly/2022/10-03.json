@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1665325428967,
+  "endTime": 1665326470636,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -505,6 +505,14 @@
       "onboard_time": 1665189144,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1507120,
+      "num": 1507120,
+      "word": "莎头",
+      "onboard_time": 1665324266,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 1501397,
@@ -1171,6 +1179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 902488,
+      "num": 902488,
+      "word": "legends never die",
+      "onboard_time": 1665324684,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 900738,
       "num": 900738,
       "word": "爱奇艺待播剧爆款预定",
@@ -1369,14 +1385,6 @@
       "onboard_time": 1664883503,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 800982,
-      "num": 800982,
-      "word": "莎头",
-      "onboard_time": 1665324266,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 799045,
@@ -1953,6 +1961,14 @@
       "onboard_time": 1664714963,
       "rank": 3,
       "category": "国外要闻,财经"
+    },
+    {
+      "raw_hot": 630909,
+      "num": 630909,
+      "word": "原来真的有人开口即浪漫",
+      "onboard_time": 1665323004,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 630036,
@@ -2628,7 +2644,7 @@
     },
     {
       "raw_hot": 510146,
-      "num": 352288,
+      "num": 363607,
       "word": "美国两名幼童被家中两只比特犬咬死",
       "onboard_time": 1665308842,
       "rank": 12,
@@ -2937,14 +2953,6 @@
       "onboard_time": 1665314064,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 470824,
-      "num": 432517,
-      "word": "原来真的有人开口即浪漫",
-      "onboard_time": 1665323004,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 470810,
@@ -3947,6 +3955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 377808,
+      "num": 377808,
+      "word": "睡不好头昏沉可能是大脑发出警告",
+      "onboard_time": 1665323244,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 377060,
       "num": 377060,
       "word": "陈梦 稳",
@@ -4049,6 +4065,14 @@
       "onboard_time": 1664864061,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 370132,
+      "num": 370132,
+      "word": "母亲穿西装送女儿出嫁被当成闺蜜",
+      "onboard_time": 1665323785,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 369339,
@@ -4515,14 +4539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 331759,
-      "num": 331759,
-      "word": "睡不好头昏沉可能是大脑发出警告",
-      "onboard_time": 1665323244,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 331745,
       "num": 331745,
       "word": "如果有个空气炸锅",
@@ -4747,6 +4763,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 310469,
+      "num": 310469,
+      "word": "猫猫们要努力熬过早到的冬天",
+      "onboard_time": 1665323303,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 309485,
       "num": 309485,
       "word": "我妈烦我的原因找到了",
@@ -4849,14 +4873,6 @@
       "onboard_time": 1665147143,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 300976,
-      "num": 300976,
-      "word": "猫猫们要努力熬过早到的冬天",
-      "onboard_time": 1665323303,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 300469,
@@ -5033,14 +5049,6 @@
       "onboard_time": 1665152549,
       "rank": 24,
       "category": "情感,综艺"
-    },
-    {
-      "raw_hot": 291129,
-      "num": 291129,
-      "word": "母亲穿西装送女儿出嫁被当成闺蜜",
-      "onboard_time": 1665323785,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 291080,
@@ -5395,6 +5403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272204,
+      "num": 272204,
+      "word": "我的反派男友",
+      "onboard_time": 1665324565,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 272203,
       "num": 172169,
       "word": "龚俊VOGUE报刊亭大片",
@@ -5649,6 +5665,14 @@
       "onboard_time": 1665202224,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 258134,
+      "num": 258134,
+      "word": "考研学生校内搭帐篷方便晚间学习",
+      "onboard_time": 1665325702,
+      "rank": 19,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 257553,
@@ -6009,6 +6033,14 @@
       "onboard_time": 1665309504,
       "rank": 22,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 245320,
+      "num": 245320,
+      "word": "总以为截图可以留住些什么",
+      "onboard_time": 1665325106,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 244991,
@@ -6721,14 +6753,6 @@
       "onboard_time": 1664866102,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 216362,
-      "num": 216362,
-      "word": "legends never die",
-      "onboard_time": 1665324684,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 215472,
@@ -7515,6 +7539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 185669,
+      "num": 185669,
+      "word": "国乒男队夺冠与国旗合影",
+      "onboard_time": 1665324206,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185137,
       "num": 185137,
       "word": "男子公园跳街舞被小孩指着说神经",
@@ -7561,14 +7593,6 @@
       "onboard_time": 1664754258,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 183108,
-      "num": 183108,
-      "word": "我的反派男友",
-      "onboard_time": 1665324565,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 182901,
@@ -8195,6 +8219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161583,
+      "num": 161583,
+      "word": "王一博刘畊宏踢毽子",
+      "onboard_time": 1665325645,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161427,
       "num": 161427,
       "word": "电视剧大考",
@@ -8521,6 +8553,14 @@
       "onboard_time": 1664896765,
       "rank": 44,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 150077,
+      "num": 150077,
+      "word": "马龙第27个世界冠军",
+      "onboard_time": 1665325825,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 149707,
@@ -9019,6 +9059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 134915,
+      "num": 134915,
+      "word": "国乒男团8战8胜夺冠",
+      "onboard_time": 1665325946,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134874,
       "num": 134874,
       "word": "他们攻克几千项难点改写卡脖子历史",
@@ -9291,20 +9339,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 126772,
-      "num": 126772,
-      "word": "国乒男队夺冠与国旗合影",
-      "onboard_time": 1665324206,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 126574,
-      "num": 126574,
-      "word": "总以为截图可以留住些什么",
-      "onboard_time": 1665325106,
+      "raw_hot": 126851,
+      "num": 126851,
+      "word": "今晚成都一起乒",
+      "onboard_time": 1665326004,
       "rank": 43,
-      "category": "情感"
+      "category": "体育"
     },
     {
       "raw_hot": 126515,
@@ -10097,6 +10137,14 @@
       "onboard_time": 1664802684,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104926,
+      "num": 104926,
+      "word": "谁能逃得过麻将社交",
+      "onboard_time": 1665326427,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 104694,
