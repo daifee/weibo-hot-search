@@ -1,0 +1,410 @@
+{
+  "runTime": 1665290617166,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1135102,
+        "num": 1135102,
+        "word": "喜欢下班的有福了",
+        "onboard_time": 1665279863,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 921757,
+        "num": 921757,
+        "word": "老人用钢丝球洗洁精帮儿子洗车",
+        "onboard_time": 1665282683,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11189,
+        "num": 902885,
+        "word": "4K视频看海上火箭发射",
+        "onboard_time": 1665232886,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 887072,
+        "num": 887072,
+        "word": "镶嵌劳力士iPhone14Pro售价93万",
+        "onboard_time": 1665286463,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 705311,
+        "num": 705311,
+        "word": "萧无敌南星结婚了",
+        "onboard_time": 1665287184,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 550847,
+        "num": 550847,
+        "word": "孙颖莎把金牌挂在教练脖子上",
+        "onboard_time": 1665284484,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 472250,
+        "num": 472250,
+        "word": "陈哲远被沈月的vlog整感动了",
+        "onboard_time": 1665287184,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 459785,
+        "num": 459785,
+        "word": "旅客携带罂粟过安检称治胃病",
+        "onboard_time": 1665282982,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458206,
+        "num": 458206,
+        "word": "LPL小组赛第二日全胜",
+        "onboard_time": 1665285623,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 445804,
+        "num": 445804,
+        "word": "宠物龟从8楼掉落砸碎车玻璃",
+        "onboard_time": 1665280523,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 655515,
+        "num": 422180,
+        "word": "什么是假性恋爱",
+        "onboard_time": 1665272599,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 620520,
+        "num": 388579,
+        "word": "iPhone14Plus被指年度最不保值的手机",
+        "onboard_time": 1665287064,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 462703,
+        "num": 371885,
+        "word": "俄称乌军炮击俄本土4村镇",
+        "onboard_time": 1665288746,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 350756,
+        "num": 350756,
+        "word": "主人手捣菠菜为爱狗染色",
+        "onboard_time": 1665285803,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50659,
+        "num": 342696,
+        "word": "大叔河中托举落水者20分钟",
+        "onboard_time": 1665288024,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338997,
+        "num": 338997,
+        "word": "中国最高树上发现50余种高等植物",
+        "onboard_time": 1665284424,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312361,
+        "num": 312361,
+        "word": "刘亦菲去有风的地方将开始配音",
+        "onboard_time": 1665287604,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 305250,
+        "num": 305250,
+        "word": "明年中秋国庆假重合有望连休9天",
+        "onboard_time": 1665256871,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288221,
+        "num": 288221,
+        "word": "新娘回应双胞胎姐妹同天出嫁搞懵新郎",
+        "onboard_time": 1665286825,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268821,
+        "num": 268821,
+        "word": "JDG战胜DK",
+        "onboard_time": 1665285324,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 492216,
+        "num": 268627,
+        "word": "iPhone5C被苹果列入过时产品",
+        "onboard_time": 1665283584,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 264393,
+        "num": 264393,
+        "word": "再也不怕别人不还钱了",
+        "onboard_time": 1665283463,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227979,
+        "num": 227979,
+        "word": "虞书欣张彬彬雨夜贴脸自拍",
+        "onboard_time": 1665284182,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 215361,
+        "num": 215361,
+        "word": "红气养人是真的",
+        "onboard_time": 1665290184,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 209443,
+        "num": 209443,
+        "word": "小学生把课文里的竹节人做出来了",
+        "onboard_time": 1665286343,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209165,
+        "num": 209165,
+        "word": "爱的二八定律",
+        "onboard_time": 1665271699,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207645,
+        "num": 207645,
+        "word": "LPL 快乐日",
+        "onboard_time": 1665287724,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171061,
+        "num": 171061,
+        "word": "男子座椅半躺后座被挤到腿伸不开",
+        "onboard_time": 1665289286,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165218,
+        "num": 165218,
+        "word": "女子连夜开车400里到烟台捞海肠",
+        "onboard_time": 1665272781,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184525,
+        "num": 165105,
+        "word": "牙膏的沙皇",
+        "onboard_time": 1665286523,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160667,
+        "num": 160667,
+        "word": "上海对五类人员会赋红码",
+        "onboard_time": 1665275964,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160191,
+        "num": 160191,
+        "word": "克里米亚大桥恢复通车",
+        "onboard_time": 1665278903,
+        "rank": 31,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 155078,
+        "num": 155078,
+        "word": "广州大学生死学课堂播放三悦",
+        "onboard_time": 1665271879,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151007,
+        "num": 151007,
+        "word": "同意上海重庆外资旅行社从事出境游业务",
+        "onboard_time": 1665278663,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147359,
+        "num": 147359,
+        "word": "椰树曾2次因违背社会良好风尚被罚",
+        "onboard_time": 1665289646,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143599,
+        "num": 143599,
+        "word": "宠物狗舔食外卖店家被罚1.5万",
+        "onboard_time": 1665274644,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132753,
+        "num": 132753,
+        "word": "伴侣间情绪稳定真的很重要",
+        "onboard_time": 1665242186,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123909,
+        "num": 123909,
+        "word": "国家需要就是我的专业",
+        "onboard_time": 1665276686,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120858,
+        "num": 120858,
+        "word": "椰树集团直播带货风格引争议",
+        "onboard_time": 1665238288,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119165,
+        "num": 119165,
+        "word": "newjeans获奖感言",
+        "onboard_time": 1665286044,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 117755,
+        "num": 117755,
+        "word": "肖顺尧莲花楼杀青",
+        "onboard_time": 1665287665,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110764,
+        "num": 110764,
+        "word": "檀健次贝雷帽卷发造型",
+        "onboard_time": 1665286463,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 105939,
+        "num": 105939,
+        "word": "追梦格林再次道歉",
+        "onboard_time": 1665273922,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100177,
+        "num": 100177,
+        "word": "我妈烦我的原因找到了",
+        "onboard_time": 1665275185,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99408,
+        "num": 99408,
+        "word": "我们这十年预告",
+        "onboard_time": 1665289708,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 94180,
+        "num": 94180,
+        "word": "FNC战胜T1",
+        "onboard_time": 1665277045,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 89207,
+        "num": 89207,
+        "word": "10月8日新增本土无症状1307例",
+        "onboard_time": 1665278124,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89110,
+        "num": 89110,
+        "word": "寺庙当家回应师太喂养独臂猴十余年",
+        "onboard_time": 1665244644,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91156,
+        "num": 86129,
+        "word": "Meiko的锤石",
+        "onboard_time": 1665279563,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 82030,
+        "num": 82030,
+        "word": "王一博演我嗑cp",
+        "onboard_time": 1665244644,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#同心向党我来说#"
+    }
+  }
+}

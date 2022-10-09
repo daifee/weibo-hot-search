@@ -1,6 +1,6 @@
 {
   "startTime": 1665246866302,
-  "endTime": 1665289467875,
+  "endTime": 1665290617166,
   "band_list": [
     {
       "raw_hot": 2219370,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 887072,
+      "num": 887072,
+      "word": "镶嵌劳力士iPhone14Pro售价93万",
+      "onboard_time": 1665286463,
+      "rank": 11,
+      "category": "科技"
+    },
+    {
       "raw_hot": 883399,
       "num": 883399,
       "word": "椰树集团直播带货风格引争议",
@@ -65,6 +73,14 @@
       "onboard_time": 1665266651,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 705311,
+      "num": 705311,
+      "word": "萧无敌南星结婚了",
+      "onboard_time": 1665287184,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 703928,
@@ -99,28 +115,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 652495,
-      "num": 652495,
-      "word": "萧无敌南星结婚了",
-      "onboard_time": 1665287184,
-      "rank": 4,
-      "category": "影视"
-    },
-    {
       "raw_hot": 651845,
       "num": 651845,
       "word": "王一博演我嗑cp",
       "onboard_time": 1665244644,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 649834,
-      "num": 438103,
-      "word": "镶嵌劳力士iPhone14Pro售价93万",
-      "onboard_time": 1665286463,
-      "rank": 11,
-      "category": "科技"
     },
     {
       "raw_hot": 646158,
@@ -131,20 +131,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 620520,
+      "num": 388579,
+      "word": "iPhone14Plus被指年度最不保值的手机",
+      "onboard_time": 1665287064,
+      "rank": 20,
+      "category": "科技"
+    },
+    {
       "raw_hot": 609359,
       "num": 609359,
       "word": "10月8日新增本土无症状1307例",
       "onboard_time": 1665278124,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 609017,
-      "num": 287151,
-      "word": "iPhone14Plus被指年度最不保值的手机",
-      "onboard_time": 1665287064,
-      "rank": 20,
-      "category": "科技"
     },
     {
       "raw_hot": 599733,
@@ -195,12 +195,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 421643,
-      "num": 421643,
+      "raw_hot": 472250,
+      "num": 472250,
       "word": "陈哲远被沈月的vlog整感动了",
       "onboard_time": 1665287184,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 462703,
+      "num": 371885,
+      "word": "俄称乌军炮击俄本土4村镇",
+      "onboard_time": 1665288746,
+      "rank": 25,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 412209,
@@ -259,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 350756,
+      "num": 350756,
+      "word": "主人手捣菠菜为爱狗染色",
+      "onboard_time": 1665285803,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 350217,
       "num": 350217,
       "word": "刘亦菲去有风的地方将开始配音",
@@ -281,14 +297,6 @@
       "onboard_time": 1665283463,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 317875,
-      "num": 317875,
-      "word": "主人手捣菠菜为爱狗染色",
-      "onboard_time": 1665285803,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 316070,
@@ -467,12 +475,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 215361,
+      "num": 215361,
+      "word": "红气养人是真的",
+      "onboard_time": 1665290184,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 209443,
+      "num": 209443,
+      "word": "小学生把课文里的竹节人做出来了",
+      "onboard_time": 1665286343,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208068,
       "num": 208068,
       "word": "大学老师用老干妈罐子喝水",
       "onboard_time": 1665228745,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207645,
+      "num": 207645,
+      "word": "LPL 快乐日",
+      "onboard_time": 1665287724,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 203365,
@@ -499,22 +531,6 @@
       "category": "军事,国外要闻"
     },
     {
-      "raw_hot": 181530,
-      "num": 181530,
-      "word": "俄称乌军炮击俄本土4村镇",
-      "onboard_time": 1665288746,
-      "rank": 25,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 180806,
-      "num": 180806,
-      "word": "小学生把课文里的竹节人做出来了",
-      "onboard_time": 1665286343,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 180087,
       "num": 180087,
       "word": "一年一度喜剧大赛男友来了",
@@ -539,6 +555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171061,
+      "num": 171061,
+      "word": "男子座椅半躺后座被挤到腿伸不开",
+      "onboard_time": 1665289286,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164866,
       "num": 164866,
       "word": "久酷 辅助",
@@ -553,14 +577,6 @@
       "onboard_time": 1665257472,
       "rank": 49,
       "category": "幽默,教育"
-    },
-    {
-      "raw_hot": 158366,
-      "num": 158366,
-      "word": "LPL 快乐日",
-      "onboard_time": 1665287724,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 157248,
@@ -601,6 +617,14 @@
       "onboard_time": 1665263711,
       "rank": 43,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 147359,
+      "num": 147359,
+      "word": "椰树曾2次因违背社会良好风尚被罚",
+      "onboard_time": 1665289646,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146906,
@@ -667,6 +691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 117755,
+      "num": 117755,
+      "word": "肖顺尧莲花楼杀青",
+      "onboard_time": 1665287665,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 117315,
       "num": 117315,
       "word": "RGE战胜DRX",
@@ -683,16 +715,8 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 115224,
-      "num": 115224,
-      "word": "肖顺尧莲花楼杀青",
-      "onboard_time": 1665287665,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 110749,
-      "num": 110749,
+      "raw_hot": 110764,
+      "num": 110764,
       "word": "檀健次贝雷帽卷发造型",
       "onboard_time": 1665286463,
       "rank": 41,
@@ -731,6 +755,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 99408,
+      "num": 99408,
+      "word": "我们这十年预告",
+      "onboard_time": 1665289708,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 96331,
       "num": 96331,
       "word": "JDG 团战",
@@ -753,14 +785,6 @@
       "onboard_time": 1665235585,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 87362,
-      "num": 87362,
-      "word": "男子座椅半躺后座被挤到腿伸不开",
-      "onboard_time": 1665289286,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 84762,
@@ -931,6 +955,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 50659,
+      "num": 368178,
+      "word": "大叔河中托举落水者20分钟",
+      "onboard_time": 1665288024,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48572,
       "num": 48572,
       "word": "曼城4比0南安普顿",
@@ -956,7 +988,7 @@
     },
     {
       "raw_hot": 38355,
-      "num": 759702,
+      "num": 902885,
       "word": "4K视频看海上火箭发射",
       "onboard_time": 1665232886,
       "rank": 2,
@@ -969,14 +1001,6 @@
       "onboard_time": 1665236788,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 35546,
-      "num": 368178,
-      "word": "大叔河中托举落水者20分钟",
-      "onboard_time": 1665288024,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25681,
@@ -1036,6 +1060,9 @@
     },
     {
       "word": "#追光#"
+    },
+    {
+      "word": "#同心向党我来说#"
     }
   ]
 }
