@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665341349972,
+  "endTime": 1665343286769,
   "band_list": [
     {
       "raw_hot": 1318290,
@@ -465,6 +465,14 @@
       "onboard_time": 1665276205,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 7453,
+      "num": 7453,
+      "word": "闲下来就想起社死瞬间是有原因的",
+      "onboard_time": 1665342912,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
