@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665350578153,
+  "endTime": 1665351672704,
   "band_list": [
     {
       "raw_hot": 1318290,
@@ -403,6 +403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 53371,
+      "num": 25777,
+      "word": "新疆新增无症状感染者383例",
+      "onboard_time": 1665347412,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52440,
       "num": 52440,
       "word": "北京新增本土感染者11例",
@@ -435,27 +443,35 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 38851,
-      "num": 23930,
-      "word": "新疆新增无症状感染者383例",
-      "onboard_time": 1665347412,
-      "rank": 40,
+      "raw_hot": 33061,
+      "num": 24701,
+      "word": "员工私下换班出车祸公司拒认定工伤",
+      "onboard_time": 1665344470,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
       "raw_hot": 32458,
-      "num": 22331,
+      "num": 22998,
       "word": "北京公积金5年以上贷款利率已下调至3.1%",
       "onboard_time": 1665344950,
       "rank": 30,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 31577,
-      "num": 21758,
-      "word": "员工私下换班出车祸公司拒认定工伤",
-      "onboard_time": 1665344470,
-      "rank": 27,
+      "raw_hot": 22427,
+      "num": 22427,
+      "word": "男子带四岁半孩子翻山进景区被困",
+      "onboard_time": 1665344110,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21491,
+      "num": 21491,
+      "word": "帮乡亲看CT片华西教授回应质疑",
+      "onboard_time": 1665347290,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -475,11 +491,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 17187,
-      "num": 15326,
-      "word": "男子带四岁半孩子翻山进景区被困",
-      "onboard_time": 1665344110,
-      "rank": 48,
+      "raw_hot": 16112,
+      "num": 16112,
+      "word": "男孩得胃病竟因妈妈染幽门螺杆菌",
+      "onboard_time": 1665350350,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -499,11 +515,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 13977,
-      "num": 13977,
-      "word": "帮乡亲看CT片华西教授回应质疑",
-      "onboard_time": 1665347290,
-      "rank": 25,
+      "raw_hot": 13975,
+      "num": 13975,
+      "word": "熊孩子不上学躲自家衣柜玩手机",
+      "onboard_time": 1665347830,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -523,11 +539,11 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 12164,
-      "num": 12164,
-      "word": "熊孩子不上学躲自家衣柜玩手机",
-      "onboard_time": 1665347830,
-      "rank": 39,
+      "raw_hot": 10455,
+      "num": 10455,
+      "word": "三部门约谈部分光伏企业及行业机构",
+      "onboard_time": 1665349870,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -571,12 +587,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 6302,
+      "num": 6302,
+      "word": "2个动作增强背肌",
+      "onboard_time": 1665351311,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 6283,
+      "num": 6283,
+      "word": "一夜入冬是种什么体验",
+      "onboard_time": 1665351191,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 6156,
       "num": 6156,
       "word": "日韩称朝鲜9日发射弹道导弹",
       "onboard_time": 1665346812,
       "rank": 47,
       "category": "军事"
+    },
+    {
+      "raw_hot": 6155,
+      "num": 6155,
+      "word": "持红码到酒吧蹦迪系误传",
+      "onboard_time": 1665350832,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 6132,
@@ -587,11 +627,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 5884,
-      "num": 5884,
-      "word": "三部门约谈部分光伏企业及行业机构",
-      "onboard_time": 1665349870,
-      "rank": 45,
+      "raw_hot": 5810,
+      "num": 5810,
+      "word": "秋衣秋裤销量暴增125%",
+      "onboard_time": 1665350832,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -627,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 5587,
+      "num": 5587,
+      "word": "南京下调公积金贷款利率",
+      "onboard_time": 1665351670,
+      "rank": 47,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 5542,
       "num": 5542,
       "word": "宋茜柔光极简大片",
@@ -641,14 +689,6 @@
       "onboard_time": 1665349749,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 5243,
-      "num": 5400,
-      "word": "男孩得胃病竟因妈妈染幽门螺杆菌",
-      "onboard_time": 1665350350,
-      "rank": 49,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
