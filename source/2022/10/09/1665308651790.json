@@ -1,0 +1,410 @@
+{
+  "runTime": 1665308651790,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1580255,
+        "num": 1580255,
+        "word": "专治恋爱瘾的聊天记录",
+        "onboard_time": 1665303982,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 632546,
+        "num": 632546,
+        "word": "仙剑奇侠传原名逍遥侠客行",
+        "onboard_time": 1665300803,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 41613,
+        "num": 607475,
+        "word": "中国人的书信有多美",
+        "onboard_time": 1665276205,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 589093,
+        "num": 589093,
+        "word": "黑猫遇水掉色洗8遍澡成英短纯蓝",
+        "onboard_time": 1665299602,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 547801,
+        "num": 547801,
+        "word": "iPhone15系列仍将采用高通基带",
+        "onboard_time": 1665306501,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 518392,
+        "num": 518392,
+        "word": "女子旅游遇婚礼随礼吃当地美食",
+        "onboard_time": 1665303683,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418699,
+        "num": 418699,
+        "word": "5岁男孩半夜上完厕所趴狗窝睡觉",
+        "onboard_time": 1665299001,
+        "rank": 6,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 397090,
+        "num": 397090,
+        "word": "白百何谭松韵林一新剧预告",
+        "onboard_time": 1665306561,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 316190,
+        "num": 316190,
+        "word": "电影无名有黄磊张婧仪",
+        "onboard_time": 1665300503,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 279379,
+        "num": 279379,
+        "word": "成都世乒赛送各国来宾电热毯作为礼物",
+        "onboard_time": 1665306922,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 908235,
+        "num": 278089,
+        "word": "女博士将百万积蓄交亲姐打理难要回",
+        "onboard_time": 1665303023,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466880,
+        "num": 277197,
+        "word": "寸头都封印不了的颜值",
+        "onboard_time": 1665299121,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 315476,
+        "num": 275608,
+        "word": "王一博说打戏能摸到梁朝伟的脸",
+        "onboard_time": 1665306442,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 300916,
+        "num": 273171,
+        "word": "红气养人是真的",
+        "onboard_time": 1665290184,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 49955,
+        "num": 271791,
+        "word": "山东主动打扫楼道女子家属回应",
+        "onboard_time": 1665306082,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270719,
+        "num": 270719,
+        "word": "班主任换班全班学生哭成一片",
+        "onboard_time": 1665305841,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268375,
+        "num": 268375,
+        "word": "椰树集团直播场均销售额仅2500元",
+        "onboard_time": 1665299061,
+        "rank": 16,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 268080,
+        "num": 268080,
+        "word": "iPhone14Plus被指年度最不保值的手机",
+        "onboard_time": 1665287064,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 234582,
+        "num": 234582,
+        "word": "北京政务服务禁用语拟入规范",
+        "onboard_time": 1665295582,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172253,
+        "num": 172253,
+        "word": "6个月宝宝吃饭时开口说饱了",
+        "onboard_time": 1665298283,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272203,
+        "num": 172169,
+        "word": "龚俊VOGUE报刊亭大片",
+        "onboard_time": 1665308303,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 183436,
+        "num": 172073,
+        "word": "爱的二八定律下周播出",
+        "onboard_time": 1665295702,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181970,
+        "num": 172047,
+        "word": "Wendy音乐节舞台",
+        "onboard_time": 1665307704,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 171891,
+        "num": 171891,
+        "word": "没见过这么社死的婚礼",
+        "onboard_time": 1665298041,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168447,
+        "num": 168447,
+        "word": "古代邮政系统速度有多快",
+        "onboard_time": 1665305303,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159081,
+        "num": 159081,
+        "word": "腾讯申请新狗头图形商标",
+        "onboard_time": 1665306263,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 157587,
+        "num": 157587,
+        "word": "广东人有必要买羽绒服吗",
+        "onboard_time": 1665307641,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154418,
+        "num": 154418,
+        "word": "这猫的气质一下子就高贵了",
+        "onboard_time": 1665295642,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146539,
+        "num": 146539,
+        "word": "苹果手表Series7被曝过热后爆炸",
+        "onboard_time": 1665295045,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 132524,
+        "num": 132524,
+        "word": "维斯塔潘卫冕F1世界冠军",
+        "onboard_time": 1665305123,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152043,
+        "num": 130841,
+        "word": "虞书欣被张彬彬模仿秀逗笑",
+        "onboard_time": 1665307524,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150910,
+        "num": 129649,
+        "word": "IVE红毯主持人笑出猪叫",
+        "onboard_time": 1665307942,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127837,
+        "num": 127837,
+        "word": "陈哲远新剧哭戏",
+        "onboard_time": 1665303863,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124949,
+        "num": 124949,
+        "word": "卖饭大姐的刀工像极了假动作",
+        "onboard_time": 1665297922,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123030,
+        "num": 123030,
+        "word": "有气质的猪猪是什么样的",
+        "onboard_time": 1665305482,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122166,
+        "num": 122166,
+        "word": "万里归途好哭的原因找到了",
+        "onboard_time": 1665304766,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109472,
+        "num": 109472,
+        "word": "研究揭示撸狗为何爽",
+        "onboard_time": 1665301041,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98563,
+        "num": 98563,
+        "word": "俄称乌军炮击俄本土4村镇",
+        "onboard_time": 1665288746,
+        "rank": 37,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 84598,
+        "num": 84598,
+        "word": "有哪些看完后劲超大的小说",
+        "onboard_time": 1665299242,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 81302,
+        "num": 81302,
+        "word": "北部战区海军宣传片重磅发布",
+        "onboard_time": 1665294144,
+        "rank": 39,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 105871,
+        "num": 81240,
+        "word": "这才是我们想要的大女主剧",
+        "onboard_time": 1665303923,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 105516,
+        "num": 81136,
+        "word": "马嘉祺我们的歌4轰炸直拍",
+        "onboard_time": 1665301402,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80888,
+        "num": 80888,
+        "word": "老人第一次乘火车去照顾怀孕儿媳",
+        "onboard_time": 1665291386,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73861,
+        "num": 73861,
+        "word": "九寨沟的雪惊艳了秋天",
+        "onboard_time": 1665307224,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 73811,
+        "num": 73811,
+        "word": "什么是假性恋爱",
+        "onboard_time": 1665272599,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 67898,
+        "num": 67898,
+        "word": "婚礼上金毛被拴泥地淋雨表情哀怨",
+        "onboard_time": 1665292585,
+        "rank": 45,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 63869,
+        "num": 63869,
+        "word": "真的很享受一个人的时光",
+        "onboard_time": 1665290726,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 63278,
+        "num": 63278,
+        "word": "老人用钢丝球洗洁精帮儿子洗车",
+        "onboard_time": 1665282683,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62168,
+        "num": 62168,
+        "word": "iPhone5C被苹果列入过时产品",
+        "onboard_time": 1665283584,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 60634,
+        "num": 60634,
+        "word": "市监局回应椰树直播争议",
+        "onboard_time": 1665296542,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#同心向党我来说#"
+    }
+  }
+}
