@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665319590914,
+  "endTime": 1665320963285,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -680,6 +680,14 @@
       "word": "C罗",
       "onboard_time": 1664724204,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1429962,
+      "num": 1429962,
+      "word": "樊振东表情",
+      "onboard_time": 1665318924,
+      "rank": 22,
       "category": "体育"
     },
     {
@@ -1715,6 +1723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 815973,
+      "num": 815973,
+      "word": "马龙vs邱党",
+      "onboard_time": 1665313703,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 814475,
       "num": 814475,
       "word": "李一桐金瀚新剧陷入恋爱循环",
@@ -2355,14 +2371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 657639,
-      "num": 657639,
-      "word": "马龙vs邱党",
-      "onboard_time": 1665313703,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 655185,
       "num": 655185,
       "word": "10月2日新增466例本土无症状",
@@ -2417,6 +2425,14 @@
       "onboard_time": 1665150326,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 649415,
+      "num": 649415,
+      "word": "徐冬冬回应被外貌攻击",
+      "onboard_time": 1665317002,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 649320,
@@ -2731,6 +2747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 585285,
+      "num": 400688,
+      "word": "马龙3比1邱党",
+      "onboard_time": 1665320544,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 584982,
       "num": 584982,
       "word": "檀健次新剧公司面临破产",
@@ -3036,7 +3060,7 @@
     },
     {
       "raw_hot": 539267,
-      "num": 414162,
+      "num": 454440,
       "word": "女子刷单被骗15万丈夫带女儿出走",
       "onboard_time": 1665310703,
       "rank": 37,
@@ -3121,6 +3145,14 @@
       "onboard_time": 1665208043,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 525098,
+      "num": 525098,
+      "word": "女子发现自己养的是公猫崩溃大哭",
+      "onboard_time": 1665318202,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 524663,
@@ -3356,7 +3388,7 @@
     },
     {
       "raw_hot": 495887,
-      "num": 392564,
+      "num": 392600,
       "word": "董璇镜头里的陈哲远沈月甜齁了",
       "onboard_time": 1665314782,
       "rank": 33,
@@ -4411,6 +4443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 401400,
+      "num": 401400,
+      "word": "王楚钦vs斯达姆珀",
+      "onboard_time": 1665319643,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 401284,
       "num": 401284,
       "word": "特斯拉车主回应堵车没电叫拖车",
@@ -4465,14 +4505,6 @@
       "onboard_time": 1664854102,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 397020,
-      "num": 397020,
-      "word": "徐冬冬回应被外貌攻击",
-      "onboard_time": 1665317002,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 396564,
@@ -4811,6 +4843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 376169,
+      "num": 376169,
+      "word": "独臂猴被围观应激师太手拦被误伤",
+      "onboard_time": 1665317483,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 375920,
       "num": 375920,
       "word": "陆炎剖丹牺牲",
@@ -4889,6 +4929,14 @@
       "onboard_time": 1665015860,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 368899,
+      "num": 368899,
+      "word": "新疆葡萄干还分爷爷和孙子",
+      "onboard_time": 1665317244,
+      "rank": 12,
+      "category": "美食"
     },
     {
       "raw_hot": 368867,
@@ -5283,6 +5331,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 341824,
+      "num": 341824,
+      "word": "梅西为LGD加油",
+      "onboard_time": 1665316644,
+      "rank": 13,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 341131,
       "num": 341131,
       "word": "中国男团vs斯洛文尼亚男团",
@@ -5369,14 +5425,6 @@
       "onboard_time": 1665149844,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 335329,
-      "num": 335329,
-      "word": "新疆葡萄干还分爷爷和孙子",
-      "onboard_time": 1665317244,
-      "rank": 12,
-      "category": "美食"
     },
     {
       "raw_hot": 334747,
@@ -5489,14 +5537,6 @@
       "onboard_time": 1665196882,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 329025,
-      "num": 329025,
-      "word": "梅西为LGD加油",
-      "onboard_time": 1665316644,
-      "rank": 13,
-      "category": "游戏,体育"
     },
     {
       "raw_hot": 328898,
@@ -5633,6 +5673,14 @@
       "onboard_time": 1664781082,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 317781,
+      "num": 317781,
+      "word": "仨教练座位被拆了",
+      "onboard_time": 1665318443,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 317298,
@@ -5875,14 +5923,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 301452,
-      "num": 301452,
-      "word": "女子发现自己养的是公猫崩溃大哭",
-      "onboard_time": 1665318202,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 300469,
       "num": 300469,
       "word": "李现被哈兰德圈粉",
@@ -5953,14 +5993,6 @@
       "onboard_time": 1664949381,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 296680,
-      "num": 296680,
-      "word": "独臂猴被围观应激师太手拦被误伤",
-      "onboard_time": 1665317483,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 296066,
@@ -8019,6 +8051,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 220318,
+      "num": 220318,
+      "word": "樊振东最后一球",
+      "onboard_time": 1665320004,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220146,
       "num": 186484,
       "word": "90后飞行员被叫军中凯因斯坦",
@@ -8259,6 +8299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210662,
+      "num": 210662,
+      "word": "四海台湾定档",
+      "onboard_time": 1665318682,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 210147,
       "num": 210147,
       "word": "这是中国人国庆独有的浪漫",
@@ -8449,14 +8497,6 @@
       "onboard_time": 1664621902,
       "rank": 26,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 203991,
-      "num": 203991,
-      "word": "樊振东表情",
-      "onboard_time": 1665318924,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 203956,
@@ -8769,6 +8809,14 @@
       "onboard_time": 1664708363,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 195223,
+      "num": 195223,
+      "word": "一人一张明星氛围感神图",
+      "onboard_time": 1665317724,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 195039,
@@ -9203,14 +9251,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 182488,
-      "num": 182488,
-      "word": "四海台湾定档",
-      "onboard_time": 1665318682,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 182483,
       "num": 182483,
       "word": "这可是王维诗里的宿舍",
@@ -9336,14 +9376,6 @@
       "word": "这瘦背训练真能处",
       "onboard_time": 1664972303,
       "rank": 22,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 178924,
-      "num": 178924,
-      "word": "仨教练座位被拆了",
-      "onboard_time": 1665318443,
-      "rank": 26,
       "category": "体育"
     },
     {
@@ -10665,14 +10697,6 @@
       "onboard_time": 1665293306,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 142810,
-      "num": 142810,
-      "word": "一人一张明星氛围感神图",
-      "onboard_time": 1665317724,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 142713,
@@ -12139,6 +12163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109217,
+      "num": 109217,
+      "word": "坚定选择的爱情没有遗憾",
+      "onboard_time": 1665317903,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 109130,
       "num": 109130,
       "word": "张彬彬眼神戏好宠溺",
@@ -12377,14 +12409,6 @@
       "onboard_time": 1664993473,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 102890,
-      "num": 102890,
-      "word": "坚定选择的爱情没有遗憾",
-      "onboard_time": 1665317903,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 102787,
@@ -12771,6 +12795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94383,
+      "num": 94383,
+      "word": "唐朝诡事录特效",
+      "onboard_time": 1665319044,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 94204,
       "num": 94204,
       "word": "高校00后组建养生社团引人围观",
@@ -12785,14 +12817,6 @@
       "onboard_time": 1664615542,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 94116,
-      "num": 94116,
-      "word": "唐朝诡事录特效",
-      "onboard_time": 1665319044,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 93658,
@@ -14164,7 +14188,7 @@
     },
     {
       "raw_hot": 57454,
-      "num": 1366741,
+      "num": 1371055,
       "word": "中国人的书信有多美",
       "onboard_time": 1665276205,
       "rank": 2,
