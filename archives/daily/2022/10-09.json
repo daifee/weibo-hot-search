@@ -1,6 +1,6 @@
 {
   "startTime": 1665246866302,
-  "endTime": 1665301372105,
+  "endTime": 1665304277465,
   "band_list": [
     {
       "raw_hot": 2219370,
@@ -49,6 +49,14 @@
       "onboard_time": 1665242186,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1050059,
+      "num": 1050059,
+      "word": "仙剑奇侠传原名逍遥侠客行",
+      "onboard_time": 1665300803,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 989497,
@@ -123,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 750056,
+      "num": 750056,
+      "word": "5岁男孩半夜上完厕所趴狗窝睡觉",
+      "onboard_time": 1665299001,
+      "rank": 24,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 705311,
       "num": 705311,
       "word": "萧无敌南星结婚了",
@@ -139,12 +155,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 699298,
+      "num": 699298,
+      "word": "黑猫遇水掉色洗8遍澡成英短纯蓝",
+      "onboard_time": 1665299602,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 683451,
       "num": 458790,
       "word": "俄罗斯暂停所有前往克里米亚列车",
       "onboard_time": 1665253932,
       "rank": 20,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 683074,
+      "num": 332858,
+      "word": "寸头都封印不了的颜值",
+      "onboard_time": 1665299121,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 662384,
@@ -235,12 +267,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 555029,
+      "num": 320254,
+      "word": "女博士将百万积蓄交亲姐打理难要回",
+      "onboard_time": 1665303023,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 550297,
       "num": 550297,
       "word": "旅客携带罂粟过安检称治胃病",
       "onboard_time": 1665282982,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 539075,
+      "num": 539075,
+      "word": "没见过这么社死的婚礼",
+      "onboard_time": 1665298041,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 512762,
@@ -251,12 +299,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 501279,
-      "num": 312772,
-      "word": "寸头都封印不了的颜值",
-      "onboard_time": 1665299121,
-      "rank": 11,
-      "category": "作品衍生"
+      "raw_hot": 505654,
+      "num": 310920,
+      "word": "椰树集团直播场均销售额仅2500元",
+      "onboard_time": 1665299061,
+      "rank": 25,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 485877,
@@ -291,28 +339,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 406387,
-      "num": 406387,
-      "word": "没见过这么社死的婚礼",
-      "onboard_time": 1665298041,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 403627,
       "num": 403627,
       "word": "马克龙抱怨美国天然气要价4倍",
       "onboard_time": 1665244762,
       "rank": 11,
       "category": "财经,国外要闻"
-    },
-    {
-      "raw_hot": 391009,
-      "num": 391009,
-      "word": "仙剑奇侠传原名逍遥侠客行",
-      "onboard_time": 1665300803,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 381356,
@@ -344,6 +376,14 @@
       "word": "市监局回应椰树直播争议",
       "onboard_time": 1665296542,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 361461,
+      "num": 361461,
+      "word": "6个月宝宝吃饭时开口说饱了",
+      "onboard_time": 1665298283,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -403,14 +443,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 338422,
-      "num": 338422,
-      "word": "5岁男孩半夜上完厕所趴狗窝睡觉",
-      "onboard_time": 1665299001,
-      "rank": 24,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 325194,
       "num": 325194,
       "word": "真的有人完全没有社交吗",
@@ -449,14 +481,6 @@
       "onboard_time": 1665275185,
       "rank": 14,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 301013,
-      "num": 301013,
-      "word": "黑猫遇水掉色洗8遍澡成英短纯蓝",
-      "onboard_time": 1665299602,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 299442,
@@ -505,14 +529,6 @@
       "onboard_time": 1665297922,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 276943,
-      "num": 276943,
-      "word": "椰树集团直播场均销售额仅2500元",
-      "onboard_time": 1665299061,
-      "rank": 25,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 273775,
@@ -611,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227024,
+      "num": 227024,
+      "word": "陈哲远新剧哭戏",
+      "onboard_time": 1665303863,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 226655,
       "num": 226655,
       "word": "10月8日新增本土确诊441例",
@@ -633,14 +657,6 @@
       "onboard_time": 1665279563,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 222229,
-      "num": 222229,
-      "word": "6个月宝宝吃饭时开口说饱了",
-      "onboard_time": 1665298283,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 220427,
@@ -715,6 +731,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193623,
+      "num": 188364,
+      "word": "三悦有了新工作豆瓣开分8.3",
+      "onboard_time": 1665299964,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 193554,
+      "num": 193554,
+      "word": "研究揭示撸狗为何爽",
+      "onboard_time": 1665301041,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 186886,
       "num": 186886,
       "word": "万里归途英国宣传海报",
@@ -745,6 +777,14 @@
       "onboard_time": 1665237507,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175458,
+      "num": 175458,
+      "word": "王一博程耳GQ短片",
+      "onboard_time": 1665303023,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 171166,
@@ -787,6 +827,14 @@
       "category": "幽默,教育"
     },
     {
+      "raw_hot": 159423,
+      "num": 159423,
+      "word": "马嘉祺我们的歌4轰炸直拍",
+      "onboard_time": 1665301402,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157248,
       "num": 157248,
       "word": "南忘今萧太甜了",
@@ -825,6 +873,14 @@
       "onboard_time": 1665263711,
       "rank": 43,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 149352,
+      "num": 149352,
+      "word": "专治恋爱瘾的聊天记录",
+      "onboard_time": 1665303982,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 146906,
@@ -883,6 +939,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 126042,
+      "num": 126042,
+      "word": "有哪些看完后劲超大的小说",
+      "onboard_time": 1665299242,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 125436,
       "num": 125436,
       "word": "哈兰德",
@@ -891,20 +955,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124985,
+      "num": 124985,
+      "word": "这才是我们想要的大女主剧",
+      "onboard_time": 1665303923,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 122957,
       "num": 122957,
       "word": "烟台赶海人一晚捞千余斤海肠",
       "onboard_time": 1665274162,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 122096,
-      "num": 122096,
-      "word": "三悦有了新工作豆瓣开分8.3",
-      "onboard_time": 1665299964,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 120287,
@@ -947,6 +1011,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 111331,
+      "num": 126328,
+      "word": "女子旅游遇婚礼随礼吃当地美食",
+      "onboard_time": 1665303683,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110764,
       "num": 110764,
       "word": "檀健次贝雷帽卷发造型",
@@ -985,14 +1057,6 @@
       "onboard_time": 1665248237,
       "rank": 33,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 104513,
-      "num": 104513,
-      "word": "有哪些看完后劲超大的小说",
-      "onboard_time": 1665299242,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 99522,
@@ -1155,14 +1219,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 70651,
-      "num": 70651,
-      "word": "研究揭示撸狗为何爽",
-      "onboard_time": 1665301041,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 69851,
       "num": 69851,
       "word": "街头不见井盖电线杆的未来之城",
@@ -1267,6 +1323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47544,
+      "num": 818817,
+      "word": "中国人的书信有多美",
+      "onboard_time": 1665276205,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 46677,
       "num": 46677,
       "word": "中国女排不敌意大利",
@@ -1281,6 +1345,14 @@
       "onboard_time": 1665271038,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38872,
+      "num": 264337,
+      "word": "老人为病妻写40万字护理日记",
+      "onboard_time": 1665302424,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38355,
@@ -1381,6 +1453,9 @@
     },
     {
       "word": "#百秒说非凡十年#"
+    },
+    {
+      "word": "#十九届七中全会#"
     }
   ]
 }
