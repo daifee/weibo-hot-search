@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/10 00:35:08
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/10 00:59:33
 </p>
 </blockquote>
 <p>
@@ -3153,6 +3153,12 @@ aespaSavage发行一周年（热度：437595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%B7%B4%E5%8F%B8%E6%9C%BA%E5%90%83%E6%A7%9F%E6%A6%941%E5%B9%B4%E6%9F%A5%E5%87%BA%E5%8F%A3%E8%85%94%E7%99%8C%23" target="weibo">
+大巴司机吃槟榔1年查出口腔癌（热度：435847）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E4%B8%87%E9%87%8C%E5%BD%92%E9%80%94%E7%A5%A8%E6%88%BF%E7%A0%B46%E4%BA%BF%23" target="weibo">
 王俊凯万里归途票房破6亿（热度：434386）
 </a>
@@ -3629,6 +3635,12 @@ felix镜头（热度：390879）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%8A%B1%E4%B8%89%E5%8F%AA%E5%A4%A7%E7%86%8A%E7%8C%AB%E4%BC%9A%E6%80%8E%E6%A0%B7%23" target="weibo">
 一个人抱三只大熊猫会怎样（热度：387398）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%96%9C%E6%AC%A2%E7%9A%84%E9%82%A3%E4%B8%AA%E4%BA%BA%E8%BF%98%E8%81%94%E7%B3%BB%E5%90%97%23" target="weibo">
+第一次喜欢的那个人还联系吗（热度：387064）
 </a>
 </li>
 
@@ -4355,12 +4367,6 @@ WB对战eStar（热度：322529）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E9%AB%98%E7%AE%A1%E8%B0%88%E7%81%B5%E5%8A%A8%E5%B2%9B%23" target="weibo">
 苹果高管谈灵动岛（热度：320586）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%96%9C%E6%AC%A2%E7%9A%84%E9%82%A3%E4%B8%AA%E4%BA%BA%E8%BF%98%E8%81%94%E7%B3%BB%E5%90%97%23" target="weibo">
-第一次喜欢的那个人还联系吗（热度：319650）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ U17国足9比0柬埔寨（热度：230222）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%98%E5%AE%87%E5%87%BA%E9%99%A2%23" target="weibo">
 甘宇出院（热度：228235）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%AB%98%E9%80%9F%E5%A0%B5%E8%BD%A6%E6%97%B6%E5%B0%86%E5%9E%83%E5%9C%BE%E5%85%A8%E6%89%94%E4%B8%8B%23" target="weibo">
-女子高速堵车时将垃圾全扔下（热度：228133）
 </a>
 </li>
 
