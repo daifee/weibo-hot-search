@@ -1,0 +1,410 @@
+{
+  "runTime": 1665329245422,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1973112,
+        "num": 1973112,
+        "word": "莎头",
+        "onboard_time": 1665324266,
+        "rank": 0,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 1502829,
+        "num": 1502829,
+        "word": "legends never die",
+        "onboard_time": 1665324684,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29562,
+        "num": 1262840,
+        "word": "中国人的书信有多美",
+        "onboard_time": 1665276205,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1235870,
+        "num": 1235870,
+        "word": "考研学生校内搭帐篷方便晚间学习",
+        "onboard_time": 1665325702,
+        "rank": 3,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 924488,
+        "num": 924488,
+        "word": "专治恋爱瘾的聊天记录",
+        "onboard_time": 1665303982,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 866597,
+        "num": 866597,
+        "word": "马龙11比1",
+        "onboard_time": 1665320962,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 618507,
+        "num": 618507,
+        "word": "女子发现自己养的是公猫崩溃大哭",
+        "onboard_time": 1665318202,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 590238,
+        "num": 590238,
+        "word": "总以为截图可以留住些什么",
+        "onboard_time": 1665325106,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 583994,
+        "num": 583994,
+        "word": "许凯被杨幂壁咚后不敢动",
+        "onboard_time": 1665326727,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 422820,
+        "num": 422820,
+        "word": "原来真的有人开口即浪漫",
+        "onboard_time": 1665323004,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409838,
+        "num": 409838,
+        "word": "母亲穿西装送女儿出嫁被当成闺蜜",
+        "onboard_time": 1665323785,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394925,
+        "num": 394925,
+        "word": "马龙第27个世界冠军",
+        "onboard_time": 1665325825,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 333493,
+        "num": 333493,
+        "word": "猫猫们要努力熬过早到的冬天",
+        "onboard_time": 1665323303,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 331587,
+        "num": 331587,
+        "word": "三小伙为省钱合租一间房",
+        "onboard_time": 1665312502,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322892,
+        "num": 322892,
+        "word": "睡不好头昏沉可能是大脑发出警告",
+        "onboard_time": 1665323244,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291556,
+        "num": 291556,
+        "word": "樊振东表情",
+        "onboard_time": 1665318924,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 288221,
+        "num": 288221,
+        "word": "陈哲远沈月直播看自己亲密戏",
+        "onboard_time": 1665328104,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 276213,
+        "num": 276213,
+        "word": "王一博刘畊宏踢毽子",
+        "onboard_time": 1665325645,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257449,
+        "num": 257449,
+        "word": "独臂猴被围观应激师太手拦被误伤",
+        "onboard_time": 1665317483,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255235,
+        "num": 255235,
+        "word": "美国两名幼童被家中两只比特犬咬死",
+        "onboard_time": 1665308842,
+        "rank": 19,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 231484,
+        "num": 231484,
+        "word": "国乒男队夺冠与国旗合影",
+        "onboard_time": 1665324206,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230637,
+        "num": 230637,
+        "word": "S12换新装",
+        "onboard_time": 1665328946,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 205193,
+        "num": 205193,
+        "word": "女子刷单被骗15万丈夫带女儿出走",
+        "onboard_time": 1665310703,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194769,
+        "num": 194769,
+        "word": "周润发当年有多帅",
+        "onboard_time": 1665328345,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190264,
+        "num": 190264,
+        "word": "沉浸式听杨丞琳唱小半",
+        "onboard_time": 1665326606,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189683,
+        "num": 189683,
+        "word": "河南一影院禁止携带蜜雪冰城入内",
+        "onboard_time": 1665309262,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180069,
+        "num": 180069,
+        "word": "我的反派男友",
+        "onboard_time": 1665324565,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179662,
+        "num": 179662,
+        "word": "梅西为LGD加油",
+        "onboard_time": 1665316644,
+        "rank": 27,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 163540,
+        "num": 163540,
+        "word": "抚顺疫情防控",
+        "onboard_time": 1665327386,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151264,
+        "num": 151264,
+        "word": "一人一张明星氛围感神图",
+        "onboard_time": 1665317724,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148987,
+        "num": 148987,
+        "word": "中国研发新战机脚步从未停歇",
+        "onboard_time": 1665321084,
+        "rank": 30,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 148930,
+        "num": 148930,
+        "word": "新疆葡萄干还分爷爷和孙子",
+        "onboard_time": 1665317244,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 142955,
+        "num": 142955,
+        "word": "你肯定玩过这个游戏",
+        "onboard_time": 1665327688,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130990,
+        "num": 130990,
+        "word": "原来镜头真的是有感情的",
+        "onboard_time": 1665327025,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130695,
+        "num": 130695,
+        "word": "NH大满贯",
+        "onboard_time": 1665324866,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126593,
+        "num": 126593,
+        "word": "女博士将百万积蓄交亲姐打理难要回",
+        "onboard_time": 1665303023,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124369,
+        "num": 124369,
+        "word": "南忘今萧婚后日常",
+        "onboard_time": 1665322287,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118629,
+        "num": 118629,
+        "word": "张远噢乖高音",
+        "onboard_time": 1665324985,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115799,
+        "num": 115799,
+        "word": "爱的二八定律施情华意爱情特辑",
+        "onboard_time": 1665322824,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113806,
+        "num": 113806,
+        "word": "当肩宽星人穿毛衣",
+        "onboard_time": 1665314064,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109956,
+        "num": 109956,
+        "word": "中国队第22次夺得世乒赛男团冠军",
+        "onboard_time": 1665328104,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105413,
+        "num": 105413,
+        "word": "北京新增本土感染者11例",
+        "onboard_time": 1665311841,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99971,
+        "num": 99971,
+        "word": "iPhone15系列仍将采用高通基带",
+        "onboard_time": 1665306501,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 98616,
+        "num": 98616,
+        "word": "寸头都封印不了的颜值",
+        "onboard_time": 1665299121,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 92439,
+        "num": 92439,
+        "word": "国乒男团夺冠",
+        "onboard_time": 1665322585,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90948,
+        "num": 90948,
+        "word": "落枕终于有救了",
+        "onboard_time": 1665328642,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90898,
+        "num": 90898,
+        "word": "谁能逃得过麻将社交",
+        "onboard_time": 1665326427,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89981,
+        "num": 89981,
+        "word": "二八姐弟恋氛围感绝了",
+        "onboard_time": 1665324385,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 77985,
+        "num": 77985,
+        "word": "仨教练座位被拆了",
+        "onboard_time": 1665318443,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76385,
+        "num": 76385,
+        "word": "樊振东最后一球",
+        "onboard_time": 1665320004,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#十九届七中全会#"
+    }
+  }
+}

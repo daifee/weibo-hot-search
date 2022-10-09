@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1665326470636,
+  "endTime": 1665329245422,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -291,6 +291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1973112,
+      "num": 1973112,
+      "word": "莎头",
+      "onboard_time": 1665324266,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1957386,
       "num": 1024059,
       "word": "女孩骨折后查出全身骨头都在溶解",
@@ -507,11 +515,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1507120,
-      "num": 1507120,
-      "word": "莎头",
-      "onboard_time": 1665324266,
-      "rank": 5,
+      "raw_hot": 1502829,
+      "num": 1502829,
+      "word": "legends never die",
+      "onboard_time": 1665324684,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -753,6 +761,14 @@
       "onboard_time": 1665238167,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1235870,
+      "num": 1235870,
+      "word": "考研学生校内搭帐篷方便晚间学习",
+      "onboard_time": 1665325702,
+      "rank": 19,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1213586,
@@ -1177,14 +1193,6 @@
       "onboard_time": 1665112766,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 902488,
-      "num": 902488,
-      "word": "legends never die",
-      "onboard_time": 1665324684,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 900738,
@@ -2147,6 +2155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 590238,
+      "num": 590238,
+      "word": "总以为截图可以留住些什么",
+      "onboard_time": 1665325106,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 588173,
       "num": 588173,
       "word": "俄称乌军炮击俄本土4村镇",
@@ -2185,6 +2201,14 @@
       "onboard_time": 1665053304,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 583994,
+      "num": 583994,
+      "word": "许凯被杨幂壁咚后不敢动",
+      "onboard_time": 1665326727,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 579394,
@@ -3579,6 +3603,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 409838,
+      "num": 409838,
+      "word": "母亲穿西装送女儿出嫁被当成闺蜜",
+      "onboard_time": 1665323785,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 408401,
       "num": 408401,
       "word": "王一博问舞者穿那么多热不热",
@@ -3729,6 +3761,14 @@
       "onboard_time": 1664784743,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 394925,
+      "num": 394925,
+      "word": "马龙第27个世界冠军",
+      "onboard_time": 1665325825,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 393927,
@@ -4065,14 +4105,6 @@
       "onboard_time": 1664864061,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 370132,
-      "num": 370132,
-      "word": "母亲穿西装送女儿出嫁被当成闺蜜",
-      "onboard_time": 1665323785,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 369339,
@@ -4491,6 +4523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 333493,
+      "num": 333493,
+      "word": "猫猫们要努力熬过早到的冬天",
+      "onboard_time": 1665323303,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 333413,
       "num": 296672,
       "word": "王一博杭州亚运会歌曲征集宣传视频",
@@ -4761,14 +4801,6 @@
       "onboard_time": 1665209125,
       "rank": 32,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 310469,
-      "num": 310469,
-      "word": "猫猫们要努力熬过早到的冬天",
-      "onboard_time": 1665323303,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 309485,
@@ -5099,6 +5131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 288221,
+      "num": 288221,
+      "word": "陈哲远沈月直播看自己亲密戏",
+      "onboard_time": 1665328104,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 288092,
       "num": 288092,
       "word": "当反诈遇上苍兰诀",
@@ -5281,6 +5321,14 @@
       "onboard_time": 1664760803,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 276213,
+      "num": 276213,
+      "word": "王一博刘畊宏踢毽子",
+      "onboard_time": 1665325645,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 275868,
@@ -5667,14 +5715,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 258134,
-      "num": 258134,
-      "word": "考研学生校内搭帐篷方便晚间学习",
-      "onboard_time": 1665325702,
-      "rank": 19,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 257553,
       "num": 257553,
       "word": "成毅底线咪咕播放量破10亿",
@@ -6035,14 +6075,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 245320,
-      "num": 245320,
-      "word": "总以为截图可以留住些什么",
-      "onboard_time": 1665325106,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 244991,
       "num": 244991,
       "word": "国庆结束老师高铁上忙着改试卷",
@@ -6299,12 +6331,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 231484,
+      "num": 231484,
+      "word": "国乒男队夺冠与国旗合影",
+      "onboard_time": 1665324206,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 231427,
       "num": 222880,
       "word": "余景天新舞台预告",
       "onboard_time": 1664975363,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 230637,
+      "num": 230637,
+      "word": "S12换新装",
+      "onboard_time": 1665328946,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 230341,
@@ -7259,6 +7307,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 194769,
+      "num": 194769,
+      "word": "周润发当年有多帅",
+      "onboard_time": 1665328345,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 194538,
       "num": 194538,
       "word": "金政基曾作画为中国加油",
@@ -7385,6 +7441,14 @@
       "onboard_time": 1665109883,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190264,
+      "num": 190264,
+      "word": "沉浸式听杨丞琳唱小半",
+      "onboard_time": 1665326606,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 190027,
@@ -7537,14 +7601,6 @@
       "onboard_time": 1665130582,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 185669,
-      "num": 185669,
-      "word": "国乒男队夺冠与国旗合影",
-      "onboard_time": 1665324206,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 185137,
@@ -8139,6 +8195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163540,
+      "num": 163540,
+      "word": "抚顺疫情防控",
+      "onboard_time": 1665327386,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163483,
       "num": 163483,
       "word": "广东将加入降温群聊",
@@ -8217,14 +8281,6 @@
       "onboard_time": 1664760022,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161583,
-      "num": 161583,
-      "word": "王一博刘畊宏踢毽子",
-      "onboard_time": 1665325645,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 161427,
@@ -8555,14 +8611,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 150077,
-      "num": 150077,
-      "word": "马龙第27个世界冠军",
-      "onboard_time": 1665325825,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 149707,
       "num": 149707,
       "word": "崂山文旅局回应石老人坍塌",
@@ -8817,6 +8865,14 @@
       "onboard_time": 1665220944,
       "rank": 48,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 142955,
+      "num": 142955,
+      "word": "你肯定玩过这个游戏",
+      "onboard_time": 1665327688,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 142832,
@@ -9209,6 +9265,14 @@
       "onboard_time": 1665150445,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130990,
+      "num": 130990,
+      "word": "原来镜头真的是有感情的",
+      "onboard_time": 1665327025,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 130693,
@@ -9979,6 +10043,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 109956,
+      "num": 109956,
+      "word": "中国队第22次夺得世乒赛男团冠军",
+      "onboard_time": 1665328104,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109566,
       "num": 104994,
       "word": "李沁一滴泪故事感",
@@ -10593,6 +10665,14 @@
       "onboard_time": 1664890765,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90948,
+      "num": 90948,
+      "word": "落枕终于有救了",
+      "onboard_time": 1665328642,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 90777,
