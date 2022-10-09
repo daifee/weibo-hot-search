@@ -1,6 +1,6 @@
 {
   "startTime": 1664728452817,
-  "endTime": 1665294933487,
+  "endTime": 1665297220651,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -1523,6 +1523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 712635,
+      "num": 712635,
+      "word": "爱的二八定律下周播出",
+      "onboard_time": 1665295702,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 706727,
       "num": 706727,
       "word": "黄牌",
@@ -1851,6 +1859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 608927,
+      "num": 608927,
+      "word": "老人第一次乘火车去照顾怀孕儿媳",
+      "onboard_time": 1665291386,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 606736,
       "num": 606736,
       "word": "2022年诺贝尔物理学奖揭晓",
@@ -2153,6 +2169,14 @@
       "onboard_time": 1665119602,
       "rank": 11,
       "category": "科技"
+    },
+    {
+      "raw_hot": 550558,
+      "num": 550558,
+      "word": "婚礼上金毛被拴泥地淋雨表情哀怨",
+      "onboard_time": 1665292585,
+      "rank": 21,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 550297,
@@ -2960,14 +2984,6 @@
       "word": "雪王路边哄小孩突遭男子挥拳袭击",
       "onboard_time": 1664866882,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 440461,
-      "num": 440461,
-      "word": "老人第一次乘火车去照顾怀孕儿媳",
-      "onboard_time": 1665291386,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -3819,6 +3835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 357530,
+      "num": 315103,
+      "word": "苹果手表Series7被曝过热后爆炸",
+      "onboard_time": 1665295045,
+      "rank": 11,
+      "category": "科技"
+    },
+    {
       "raw_hot": 357286,
       "num": 357286,
       "word": "双向奔赴才能让爱有意义",
@@ -4041,6 +4065,14 @@
       "onboard_time": 1664950581,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 336650,
+      "num": 307845,
+      "word": "北部战区海军宣传片重磅发布",
+      "onboard_time": 1665294144,
+      "rank": 34,
+      "category": "军事"
     },
     {
       "raw_hot": 336076,
@@ -4395,14 +4427,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 303532,
-      "num": 303532,
-      "word": "婚礼上金毛被拴泥地淋雨表情哀怨",
-      "onboard_time": 1665292585,
-      "rank": 21,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 302506,
       "num": 302506,
       "word": "利特张元英担任AAA颁奖礼主持人",
@@ -4537,6 +4561,14 @@
       "onboard_time": 1665255251,
       "rank": 13,
       "category": "国内要闻,财经"
+    },
+    {
+      "raw_hot": 293642,
+      "num": 293642,
+      "word": "北京政务服务禁用语拟入规范",
+      "onboard_time": 1665295582,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 292733,
@@ -4985,6 +5017,14 @@
       "onboard_time": 1665186259,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 266889,
+      "num": 164717,
+      "word": "十九届七中全会",
+      "onboard_time": 1665294324,
+      "rank": 31,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 266234,
@@ -6595,12 +6635,28 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 194618,
+      "num": 194618,
+      "word": "假如男生用女生的拍照姿势",
+      "onboard_time": 1665293844,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 194538,
       "num": 194538,
       "word": "金政基曾作画为中国加油",
       "onboard_time": 1664983044,
       "rank": 38,
       "category": "动漫,社会新闻"
+    },
+    {
+      "raw_hot": 194385,
+      "num": 163883,
+      "word": "市监局回应椰树直播争议",
+      "onboard_time": 1665296542,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194371,
@@ -7273,6 +7329,14 @@
       "onboard_time": 1665201084,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 166529,
+      "num": 166529,
+      "word": "U17国足1比3澳大利亚",
+      "onboard_time": 1665295823,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 166308,
@@ -8171,14 +8235,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 138019,
-      "num": 138019,
-      "word": "十九届七中全会",
-      "onboard_time": 1665294324,
-      "rank": 31,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 137798,
       "num": 137798,
       "word": "秦皇岛疫情防控",
@@ -8377,6 +8433,14 @@
       "onboard_time": 1665131064,
       "rank": 37,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 130311,
+      "num": 130311,
+      "word": "万里归途英国宣传海报",
+      "onboard_time": 1665297023,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 130178,
@@ -8729,14 +8793,6 @@
       "onboard_time": 1664857402,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 120339,
-      "num": 120339,
-      "word": "北部战区海军宣传片重磅发布",
-      "onboard_time": 1665294144,
-      "rank": 34,
-      "category": "军事"
     },
     {
       "raw_hot": 120287,
@@ -9113,6 +9169,14 @@
       "onboard_time": 1664855242,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 109120,
+      "num": 109120,
+      "word": "这猫的气质一下子就高贵了",
+      "onboard_time": 1665295642,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 109030,
@@ -9531,14 +9595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 97382,
-      "num": 97382,
-      "word": "假如男生用女生的拍照姿势",
-      "onboard_time": 1665293844,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 96938,
       "num": 96938,
       "word": "国乒女团晋级世乒赛4强",
@@ -9785,6 +9841,14 @@
       "onboard_time": 1665142462,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87464,
+      "num": 87464,
+      "word": "用表情包打开国乒队",
+      "onboard_time": 1665296902,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 86648,
@@ -10515,6 +10579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 63724,
+      "num": 639560,
+      "word": "无人机视角瞰大美中国",
+      "onboard_time": 1665292285,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 61749,
       "num": 61749,
       "word": "Felix音银直拍",
@@ -10601,14 +10673,6 @@
       "onboard_time": 1665039683,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 56801,
-      "num": 639560,
-      "word": "无人机视角瞰大美中国",
-      "onboard_time": 1665292285,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 56434,
@@ -11049,6 +11113,14 @@
       "onboard_time": 1664819775,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 27039,
+      "num": 292883,
+      "word": "张桂梅说愿做大山里的一盏灯",
+      "onboard_time": 1665295224,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25619,
@@ -11685,6 +11757,9 @@
     },
     {
       "word": "#新时代的历史性成就和变革#"
+    },
+    {
+      "word": "#百秒说非凡十年#"
     }
   ]
 }
