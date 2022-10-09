@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665337707772,
+  "endTime": 1665340215007,
   "band_list": [
     {
       "raw_hot": 1318290,
@@ -171,6 +171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 143300,
+      "num": 143300,
+      "word": "女子吐槽丈夫脑袋掉色枕头焦黄",
+      "onboard_time": 1665334697,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138663,
       "num": 138663,
       "word": "独臂猴被围观应激师太手拦被误伤",
@@ -209,14 +217,6 @@
       "onboard_time": 1665327025,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 125092,
-      "num": 93140,
-      "word": "女子吐槽丈夫脑袋掉色枕头焦黄",
-      "onboard_time": 1665334697,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121718,
@@ -331,6 +331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 71425,
+      "num": 60899,
+      "word": "苏炳添再次起诉新东方子公司侵权",
+      "onboard_time": 1665337754,
+      "rank": 10,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 70535,
       "num": 70535,
       "word": "暖暖的火锅开播",
@@ -433,6 +441,22 @@
       "onboard_time": 1665323964,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 14109,
+      "num": 14109,
+      "word": "张远噢乖高音",
+      "onboard_time": 1665324985,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 13764,
+      "num": 13764,
+      "word": "NH大满贯",
+      "onboard_time": 1665324866,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 13089,

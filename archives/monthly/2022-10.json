@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665337707772,
+  "endTime": 1665340215007,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -10963,6 +10963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143300,
+      "num": 143300,
+      "word": "女子吐槽丈夫脑袋掉色枕头焦黄",
+      "onboard_time": 1665334697,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143259,
       "num": 143259,
       "word": "DFM战胜LLL",
@@ -11777,14 +11785,6 @@
       "onboard_time": 1665271577,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 125092,
-      "num": 93140,
-      "word": "女子吐槽丈夫脑袋掉色枕头焦黄",
-      "onboard_time": 1665334697,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124985,
@@ -14073,6 +14073,14 @@
       "onboard_time": 1664790921,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71425,
+      "num": 60899,
+      "word": "苏炳添再次起诉新东方子公司侵权",
+      "onboard_time": 1665337754,
+      "rank": 10,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 71292,
