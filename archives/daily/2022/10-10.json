@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665354340102,
+  "endTime": 1665355443331,
   "band_list": [
     {
       "raw_hot": 1318290,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 340654,
+      "num": 340654,
+      "word": "房东称遇神仙租客打扫得一尘不染",
+      "onboard_time": 1665333380,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283314,
       "num": 283314,
       "word": "许凯被杨幂壁咚后不敢动",
@@ -91,11 +99,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 250606,
-      "num": 250606,
-      "word": "房东称遇神仙租客打扫得一尘不染",
-      "onboard_time": 1665333380,
-      "rank": 12,
+      "raw_hot": 242987,
+      "num": 82582,
+      "word": "男孩得胃病竟因妈妈染幽门螺杆菌",
+      "onboard_time": 1665350350,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -113,6 +121,14 @@
       "onboard_time": 1665323303,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 213729,
+      "num": 213729,
+      "word": "女子吐槽丈夫脑袋掉色枕头焦黄",
+      "onboard_time": 1665334697,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213296,
@@ -147,8 +163,8 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 159241,
-      "num": 159241,
+      "raw_hot": 159305,
+      "num": 159305,
       "word": "睡不好头昏沉可能是大脑发出警告",
       "onboard_time": 1665323244,
       "rank": 18,
@@ -169,22 +185,6 @@
       "onboard_time": 1665331460,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 143300,
-      "num": 143300,
-      "word": "女子吐槽丈夫脑袋掉色枕头焦黄",
-      "onboard_time": 1665334697,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 142519,
-      "num": 61308,
-      "word": "男孩得胃病竟因妈妈染幽门螺杆菌",
-      "onboard_time": 1665350350,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138663,
@@ -299,6 +299,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 92539,
+      "num": 78060,
+      "word": "员工私下换班出车祸公司拒认定工伤",
+      "onboard_time": 1665344470,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90020,
+      "num": 74881,
+      "word": "新疆新增无症状感染者383例",
+      "onboard_time": 1665347412,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88671,
       "num": 88671,
       "word": "我的反派男友",
@@ -307,12 +323,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 88570,
+      "num": 72936,
+      "word": "苏炳添再次起诉新东方子公司侵权",
+      "onboard_time": 1665337754,
+      "rank": 10,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 88016,
       "num": 88016,
       "word": "沉浸式听杨丞琳唱小半",
       "onboard_time": 1665326606,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 87520,
+      "num": 66202,
+      "word": "持红码到酒吧蹦迪系误传",
+      "onboard_time": 1665350832,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87401,
+      "num": 69732,
+      "word": "北京公积金5年以上贷款利率已下调至3.1%",
+      "onboard_time": 1665344950,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 85662,
@@ -331,28 +371,12 @@
       "category": "国内要闻,军事"
     },
     {
-      "raw_hot": 81828,
-      "num": 60899,
-      "word": "苏炳添再次起诉新东方子公司侵权",
-      "onboard_time": 1665337754,
-      "rank": 10,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 77546,
       "num": 77546,
       "word": "当肩宽星人穿毛衣",
       "onboard_time": 1665314064,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 76246,
-      "num": 60610,
-      "word": "新疆新增无症状感染者383例",
-      "onboard_time": 1665347412,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 70535,
@@ -387,12 +411,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 62783,
+      "num": 62783,
+      "word": "普京下令加强刻赤海峡运输通道安保",
+      "onboard_time": 1665344470,
+      "rank": 24,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 61329,
       "num": 61329,
       "word": "林志炫许靖韵秋意浓",
       "onboard_time": 1665331344,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 60965,
+      "num": 60965,
+      "word": "帮乡亲看CT片华西教授回应质疑",
+      "onboard_time": 1665347290,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 60452,
@@ -403,20 +443,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60041,
+      "num": 60041,
+      "word": "男子带四岁半孩子翻山进景区被困",
+      "onboard_time": 1665344110,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59887,
       "num": 59887,
       "word": "国乒男队夺冠与国旗合影",
       "onboard_time": 1665324206,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 57998,
-      "num": 57998,
-      "word": "员工私下换班出车祸公司拒认定工伤",
-      "onboard_time": 1665344470,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 55969,
@@ -427,20 +467,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 55594,
-      "num": 55594,
-      "word": "北京公积金5年以上贷款利率已下调至3.1%",
-      "onboard_time": 1665344950,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 52440,
       "num": 52440,
       "word": "北京新增本土感染者11例",
       "onboard_time": 1665311841,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49162,
+      "num": 49162,
+      "word": "三部门约谈部分光伏企业及行业机构",
+      "onboard_time": 1665349870,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48766,
+      "num": 48766,
+      "word": "一夜入冬是种什么体验",
+      "onboard_time": 1665351191,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 47801,
@@ -451,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47693,
+      "num": 47693,
+      "word": "熊孩子不上学躲自家衣柜玩手机",
+      "onboard_time": 1665347830,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47641,
       "num": 47641,
       "word": "曹曦文哭戏感染力",
@@ -459,72 +515,16 @@
       "category": "影视"
     },
     {
-      "raw_hot": 43772,
-      "num": 43772,
-      "word": "持红码到酒吧蹦迪系误传",
-      "onboard_time": 1665350832,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42835,
-      "num": 42835,
-      "word": "普京下令加强刻赤海峡运输通道安保",
-      "onboard_time": 1665344470,
-      "rank": 24,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 41758,
-      "num": 41758,
-      "word": "帮乡亲看CT片华西教授回应质疑",
-      "onboard_time": 1665347290,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41327,
-      "num": 29720,
+      "raw_hot": 44531,
+      "num": 44531,
       "word": "杭州两商场未落实扫码核验六人被行政拘留",
       "onboard_time": 1665343811,
       "rank": 41,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 40438,
-      "num": 40438,
-      "word": "男子带四岁半孩子翻山进景区被困",
-      "onboard_time": 1665344110,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39121,
-      "num": 39121,
-      "word": "熊孩子不上学躲自家衣柜玩手机",
-      "onboard_time": 1665347830,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25169,
-      "num": 25169,
-      "word": "三部门约谈部分光伏企业及行业机构",
-      "onboard_time": 1665349870,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24096,
-      "num": 24096,
-      "word": "一夜入冬是种什么体验",
-      "onboard_time": 1665351191,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 18875,
-      "num": 18875,
+      "raw_hot": 40133,
+      "num": 40133,
       "word": "南京下调公积金贷款利率",
       "onboard_time": 1665351670,
       "rank": 47,
@@ -571,11 +571,19 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 9765,
-      "num": 9765,
+      "raw_hot": 11443,
+      "num": 11443,
       "word": "2个动作增强背肌",
       "onboard_time": 1665351311,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 7867,
+      "num": 10472,
+      "word": "2024欧洲杯预选赛抽签",
+      "onboard_time": 1665351852,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -593,14 +601,6 @@
       "onboard_time": 1665343631,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 7047,
-      "num": 8934,
-      "word": "2024欧洲杯预选赛抽签",
-      "onboard_time": 1665351852,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 7009,

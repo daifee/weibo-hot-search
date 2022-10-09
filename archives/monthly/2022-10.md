@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/10 06:25:40
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/10 06:44:03
 </p>
 </blockquote>
 <p>
@@ -4143,6 +4143,12 @@ gidle将完整体出击认哥（热度：351694）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%B8%9C%E7%A7%B0%E9%81%87%E7%A5%9E%E4%BB%99%E7%A7%9F%E5%AE%A2%E6%89%93%E6%89%AB%E5%BE%97%E4%B8%80%E5%B0%98%E4%B8%8D%E6%9F%93%23" target="weibo">
+房东称遇神仙租客打扫得一尘不染（热度：340654）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%9B%AA%E5%81%A5%E5%91%A8%E5%86%AC%E9%9B%A8%E7%9B%AE%E5%85%89%23" target="weibo">
 李雪健周冬雨目光（热度：340283）
 </a>
@@ -5571,12 +5577,6 @@ StrayKids新专辑预售量突破237万张（热度：261769）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%B8%9C%E7%A7%B0%E9%81%87%E7%A5%9E%E4%BB%99%E7%A7%9F%E5%AE%A2%E6%89%93%E6%89%AB%E5%BE%97%E4%B8%80%E5%B0%98%E4%B8%8D%E6%9F%93%23" target="weibo">
-房东称遇神仙租客打扫得一尘不染（热度：250606）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A9%B9%E5%A7%86%E6%96%AF%E5%8D%8A%E5%9C%BA7%E4%B8%AD0%23" target="weibo">
 詹姆斯半场7中0（热度：250581）
 </a>
@@ -5723,6 +5723,12 @@ S12小组赛开赛（热度：248691）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E9%BE%84%E5%B8%A6%E7%BB%99%E4%BD%A0%E7%9A%84%E6%98%AF%E7%84%A6%E8%99%91%E8%BF%98%E6%98%AF%E5%8B%87%E6%B0%94%23" target="weibo">
 年龄带给你的是焦虑还是勇气（热度：243399）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E5%BE%97%E8%83%83%E7%97%85%E7%AB%9F%E5%9B%A0%E5%A6%88%E5%A6%88%E6%9F%93%E5%B9%BD%E9%97%A8%E8%9E%BA%E6%9D%86%E8%8F%8C%23" target="weibo">
+男孩得胃病竟因妈妈染幽门螺杆菌（热度：242987）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ U17国足9比0柬埔寨（热度：230222）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%96%B0%E5%A2%9E1%E4%BE%8B%E6%9C%AC%E5%9C%9F%E6%97%A0%E7%97%87%E7%8A%B6%23" target="weibo">
 北京新增1例本土无症状（热度：228787）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%84%B1%E5%8F%A3%E7%A7%80%E7%9C%8B%E5%97%A8%E4%BA%86%E4%BC%9A%E6%B5%81%E6%B3%AA%23" target="weibo">
-脱口秀看嗨了会流泪（热度：228682）
 </a>
 </li>
 
