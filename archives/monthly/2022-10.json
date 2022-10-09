@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665312347463,
+  "endTime": 1665314451508,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -489,6 +489,14 @@
       "onboard_time": 1665149425,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1655897,
+      "num": 1655897,
+      "word": "月亮",
+      "onboard_time": 1665312024,
+      "rank": 16,
+      "category": "自然"
     },
     {
       "raw_hot": 1654547,
@@ -1057,6 +1065,14 @@
       "onboard_time": 1664801840,
       "rank": 11,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 1120733,
+      "num": 1120733,
+      "word": "河南一影院禁止携带蜜雪冰城入内",
+      "onboard_time": 1665309262,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1108623,
@@ -3659,14 +3675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 463177,
-      "num": 463177,
-      "word": "河南一影院禁止携带蜜雪冰城入内",
-      "onboard_time": 1665309262,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 462391,
       "num": 462391,
       "word": "金秋天NewThing舞蹈挑战",
@@ -3744,6 +3752,14 @@
       "word": "新疆新增本土无症状感染者91例",
       "onboard_time": 1664968943,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 456017,
+      "num": 265314,
+      "word": "女子刷单被骗15万丈夫带女儿出走",
+      "onboard_time": 1665310703,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -5243,6 +5259,14 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 339825,
+      "num": 339825,
+      "word": "中国女排vs比利时女排",
+      "onboard_time": 1665312562,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 339595,
       "num": 282780,
       "word": "一人居家隔离擅自外出被转自费集中隔离",
@@ -5409,6 +5433,14 @@
       "onboard_time": 1664776283,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 327564,
+      "num": 260687,
+      "word": "北京新增本土感染者11例",
+      "onboard_time": 1665311841,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 325734,
@@ -6739,6 +6771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 258132,
+      "num": 258132,
+      "word": "研究发现超级老人有超级神经元",
+      "onboard_time": 1665310523,
+      "rank": 41,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 258077,
       "num": 258077,
       "word": "陈哲远综艺之神降临",
@@ -6777,6 +6817,14 @@
       "onboard_time": 1665227845,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 257065,
+      "num": 257065,
+      "word": "三小伙为省钱合租一间房",
+      "onboard_time": 1665312502,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257015,
@@ -6833,14 +6881,6 @@
       "onboard_time": 1664682380,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 256132,
-      "num": 256132,
-      "word": "月亮",
-      "onboard_time": 1665312024,
-      "rank": 16,
-      "category": "自然"
     },
     {
       "raw_hot": 254954,
@@ -6977,6 +7017,14 @@
       "onboard_time": 1664753717,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 252205,
+      "num": 252205,
+      "word": "国乒男团战德国名单出炉",
+      "onboard_time": 1665312024,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 252116,
@@ -7171,6 +7219,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 245709,
+      "num": 245709,
+      "word": "海天发布澄清公告",
+      "onboard_time": 1665309504,
+      "rank": 22,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 244991,
       "num": 244991,
       "word": "国庆结束老师高铁上忙着改试卷",
@@ -7185,14 +7241,6 @@
       "onboard_time": 1664806404,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 244490,
-      "num": 244490,
-      "word": "女子刷单被骗15万丈夫带女儿出走",
-      "onboard_time": 1665310703,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 243905,
@@ -7585,14 +7633,6 @@
       "onboard_time": 1664599222,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 229165,
-      "num": 229165,
-      "word": "海天发布澄清公告",
-      "onboard_time": 1665309504,
-      "rank": 22,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 228787,
@@ -8195,6 +8235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207980,
+      "num": 207980,
+      "word": "2岁哈士奇为刚出生的宝宝盖被子",
+      "onboard_time": 1665310163,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207645,
       "num": 207645,
       "word": "LPL 快乐日",
@@ -8489,6 +8537,14 @@
       "onboard_time": 1665069505,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 199647,
+      "num": 199647,
+      "word": "中国男团vs德国男团",
+      "onboard_time": 1665314003,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 199534,
@@ -9107,14 +9163,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 181326,
-      "num": 181326,
-      "word": "2岁哈士奇为刚出生的宝宝盖被子",
-      "onboard_time": 1665310163,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181321,
       "num": 181321,
       "word": "中国侨网评万里归途",
@@ -9481,6 +9529,14 @@
       "onboard_time": 1664634384,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 169811,
+      "num": 169811,
+      "word": "樊振东vs杜达",
+      "onboard_time": 1665313642,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 169664,
@@ -9891,14 +9947,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 157790,
-      "num": 157790,
-      "word": "北京新增本土感染者11例",
-      "onboard_time": 1665311841,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 157782,
       "num": 131547,
       "word": "王嘉尔VOGUE新加坡版10月封面",
@@ -9985,6 +10033,14 @@
       "onboard_time": 1665069084,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 155917,
+      "num": 155917,
+      "word": "王占山打退38次进攻全身38个弹孔",
+      "onboard_time": 1665311364,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155307,
@@ -10241,14 +10297,6 @@
       "onboard_time": 1664802263,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 148530,
-      "num": 148530,
-      "word": "研究发现超级老人有超级神经元",
-      "onboard_time": 1665310523,
-      "rank": 41,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 148286,
@@ -10737,6 +10785,14 @@
       "onboard_time": 1665026723,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 138150,
+      "num": 138150,
+      "word": "马龙vs邱党",
+      "onboard_time": 1665313703,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 137798,
@@ -12051,14 +12107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 106573,
-      "num": 106573,
-      "word": "国乒男团战德国名单出炉",
-      "onboard_time": 1665312024,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 106483,
       "num": 106483,
       "word": "长辈未说出口的那些话",
@@ -12121,14 +12169,6 @@
       "onboard_time": 1664722825,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 104932,
-      "num": 104932,
-      "word": "王占山打退38次进攻全身38个弹孔",
-      "onboard_time": 1665311364,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 104694,
@@ -12297,6 +12337,14 @@
       "onboard_time": 1664705963,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100956,
+      "num": 100956,
+      "word": "当肩宽星人穿毛衣",
+      "onboard_time": 1665314064,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 100435,
@@ -13964,7 +14012,7 @@
     },
     {
       "raw_hot": 57454,
-      "num": 912608,
+      "num": 1366741,
       "word": "中国人的书信有多美",
       "onboard_time": 1665276205,
       "rank": 2,
@@ -15032,6 +15080,14 @@
       "word": "驾校教练酒驾5年内不得重考驾照",
       "onboard_time": 1665173710,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5794,
+      "num": 261723,
+      "word": "百岁老兵雷用香的传奇人生",
+      "onboard_time": 1665313224,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
