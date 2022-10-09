@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665347221363,
+  "endTime": 1665348222001,
   "band_list": [
     {
       "raw_hot": 1318290,
@@ -427,11 +427,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 35030,
+      "raw_hot": 41327,
       "num": 24401,
       "word": "杭州两商场未落实扫码核验六人被行政拘留",
       "onboard_time": 1665343811,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25572,
+      "num": 21758,
+      "word": "员工私下换班出车祸公司拒认定工伤",
+      "onboard_time": 1665344470,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -449,6 +457,22 @@
       "onboard_time": 1665323964,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 16101,
+      "num": 16101,
+      "word": "北京公积金5年以上贷款利率已下调至3.1%",
+      "onboard_time": 1665344950,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15464,
+      "num": 15464,
+      "word": "普京下令加强刻赤海峡运输通道安保",
+      "onboard_time": 1665344470,
+      "rank": 24,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 14109,
@@ -475,35 +499,27 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 13079,
-      "num": 13079,
-      "word": "普京下令加强刻赤海峡运输通道安保",
-      "onboard_time": 1665344470,
-      "rank": 24,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 12519,
-      "num": 12519,
-      "word": "员工私下换班出车祸公司拒认定工伤",
-      "onboard_time": 1665344470,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11006,
-      "num": 11006,
-      "word": "北京公积金5年以上贷款利率已下调至3.1%",
-      "onboard_time": 1665344950,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10509,
-      "num": 10509,
+      "raw_hot": 11059,
+      "num": 11059,
       "word": "男子带四岁半孩子翻山进景区被困",
       "onboard_time": 1665344110,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8532,
+      "num": 8532,
+      "word": "熊孩子不上学躲自家衣柜玩手机",
+      "onboard_time": 1665347830,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8263,
+      "num": 8263,
+      "word": "新疆新增无症状感染者383例",
+      "onboard_time": 1665347412,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -561,6 +577,30 @@
       "onboard_time": 1665347110,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 5704,
+      "num": 6663,
+      "word": "大拇指竖到一半脑子说不行",
+      "onboard_time": 1665347830,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 5616,
+      "num": 6640,
+      "word": "蔚来进军欧洲",
+      "onboard_time": 1665347650,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 5603,
+      "num": 6632,
+      "word": "商铺留插座供路人免费充电6年",
+      "onboard_time": 1665347709,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
