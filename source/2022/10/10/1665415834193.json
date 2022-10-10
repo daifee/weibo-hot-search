@@ -1,0 +1,410 @@
+{
+  "runTime": 1665415834193,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2192960,
+        "num": 2192960,
+        "word": "月亮",
+        "onboard_time": 1665398425,
+        "rank": 0,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 1225431,
+        "num": 1225431,
+        "word": "山西运城报告299例新冠阳性",
+        "onboard_time": 1665409584,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5306,
+        "num": 1121538,
+        "word": "红星何以照耀中国",
+        "onboard_time": 1665387865,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1049350,
+        "num": 1049350,
+        "word": "女子天生4个肾竟全部长结石",
+        "onboard_time": 1665410125,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 829222,
+        "num": 829222,
+        "word": "医生建议成人每天睡够7小时",
+        "onboard_time": 1665388344,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 614250,
+        "num": 614250,
+        "word": "女子拿行李误被朋友开车压骨折",
+        "onboard_time": 1665410844,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 605856,
+        "num": 605856,
+        "word": "iPhone14出现首次大幅降价",
+        "onboard_time": 1665398006,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 465182,
+        "num": 465182,
+        "word": "你有超过七年以上的友情吗",
+        "onboard_time": 1665403764,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 441907,
+        "num": 441907,
+        "word": "普京称俄军对乌克兰军事目标实施打击",
+        "onboard_time": 1665406163,
+        "rank": 8,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 291958,
+        "num": 291958,
+        "word": "虞书欣虞美人唱无名之辈翻车",
+        "onboard_time": 1665409704,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 270927,
+        "num": 270927,
+        "word": "你是倔强式单身吗",
+        "onboard_time": 1665407845,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 372426,
+        "num": 270807,
+        "word": "普京召开俄联邦安全会议",
+        "onboard_time": 1665412103,
+        "rank": 11,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 270504,
+        "num": 270504,
+        "word": "孟子义把毛不易李雪琴整不会了",
+        "onboard_time": 1665406163,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259668,
+        "num": 259668,
+        "word": "洗澡护肤有个关键三分钟",
+        "onboard_time": 1665410244,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23044,
+        "num": 248415,
+        "word": "山东双胞胎姐妹一同入伍成海军新兵",
+        "onboard_time": 1665414027,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243628,
+        "num": 243628,
+        "word": "副园长回应网红兔狲意外死亡",
+        "onboard_time": 1665404063,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228747,
+        "num": 228747,
+        "word": "影帝走红毯是都这么忙吗",
+        "onboard_time": 1665414866,
+        "rank": 16,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 228520,
+        "num": 228520,
+        "word": "庞博的文字里充满了浪漫",
+        "onboard_time": 1665404242,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 224283,
+        "num": 224283,
+        "word": "男朋友妈妈亲手织的毛衣",
+        "onboard_time": 1665411988,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206788,
+        "num": 206788,
+        "word": "演唱会灯海名场面",
+        "onboard_time": 1665412103,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193641,
+        "num": 193641,
+        "word": "马龙的自律让队友感到恐怖",
+        "onboard_time": 1665413845,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192214,
+        "num": 192214,
+        "word": "广东12日起冷空气活动减弱",
+        "onboard_time": 1665409942,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190417,
+        "num": 190417,
+        "word": "今年豆瓣7分以上的国产剧",
+        "onboard_time": 1665397945,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187031,
+        "num": 187031,
+        "word": "网红兔狲狲思邈意外死亡",
+        "onboard_time": 1665381425,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179371,
+        "num": 179371,
+        "word": "一句话终止聊天",
+        "onboard_time": 1665396440,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165980,
+        "num": 165980,
+        "word": "才知道甄嬛愿望没实现的原因",
+        "onboard_time": 1665405144,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160020,
+        "num": 160020,
+        "word": "普京与卢卡申科就部署区域联合部队达成一致",
+        "onboard_time": 1665404842,
+        "rank": 26,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 151012,
+        "num": 151012,
+        "word": "纸片人竟是我自己",
+        "onboard_time": 1665402083,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141503,
+        "num": 141503,
+        "word": "郭艾伦说裁判吹罚得非常好",
+        "onboard_time": 1665412766,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132262,
+        "num": 132262,
+        "word": "抽检发现有的女装致癌物超标20多倍",
+        "onboard_time": 1665386665,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125565,
+        "num": 125565,
+        "word": "男子吃宵夜遇周润发杭州分发",
+        "onboard_time": 1665407964,
+        "rank": 30,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 131299,
+        "num": 124221,
+        "word": "郭艾伦16分14篮板",
+        "onboard_time": 1665410967,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122445,
+        "num": 122445,
+        "word": "爱的二八定律",
+        "onboard_time": 1665404784,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115058,
+        "num": 115058,
+        "word": "民警看邻座一心刷手机发现在洗钱",
+        "onboard_time": 1665399325,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100795,
+        "num": 100795,
+        "word": "为什么老师不在课间上厕所",
+        "onboard_time": 1665388406,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98389,
+        "num": 98389,
+        "word": "张慧雯新剧盛唐国风造型",
+        "onboard_time": 1665409704,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 95989,
+        "num": 95989,
+        "word": "青年演员原声台词爆发力",
+        "onboard_time": 1665399863,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 94896,
+        "num": 94896,
+        "word": "CBA裁判吹罚尺度",
+        "onboard_time": 1665407604,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93335,
+        "num": 93335,
+        "word": "死神千年血战篇",
+        "onboard_time": 1665407004,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 90626,
+        "num": 90626,
+        "word": "大四男生32门课近满分获清华直博",
+        "onboard_time": 1665391046,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80418,
+        "num": 80418,
+        "word": "许靖韵晒与杨丞琳合影",
+        "onboard_time": 1665410606,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 79024,
+        "num": 79024,
+        "word": "2022乒乓球亚洲杯",
+        "onboard_time": 1665404304,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76331,
+        "num": 76331,
+        "word": "怎么现在的动物都有点大病",
+        "onboard_time": 1665403461,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76310,
+        "num": 76310,
+        "word": "年轻人要如何改善脱发",
+        "onboard_time": 1665405264,
+        "rank": 43,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 74295,
+        "num": 74295,
+        "word": "亲妈级红烧肉",
+        "onboard_time": 1665401722,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 70205,
+        "num": 70205,
+        "word": "周震南父母再成老赖",
+        "onboard_time": 1665382043,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64575,
+        "num": 64575,
+        "word": "内娱宣传委员黄景瑜",
+        "onboard_time": 1665403884,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 63495,
+        "num": 63495,
+        "word": "没想到相亲会这么社死",
+        "onboard_time": 1665397402,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 59961,
+        "num": 59961,
+        "word": "群星为爱的二八定律打call",
+        "onboard_time": 1665395665,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 54210,
+        "num": 54210,
+        "word": "我国人口规模持续扩大就业形势保持稳定",
+        "onboard_time": 1665415706,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#十年的十个为什么#"
+    }
+  }
+}
