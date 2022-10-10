@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665394252455,
+  "endTime": 1665395343527,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -91,6 +91,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1067228,
+      "num": 1067228,
+      "word": "大四男生32门课近满分获清华直博",
+      "onboard_time": 1665391046,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1063622,
       "num": 779091,
       "word": "iPhone备忘录被曝莫名清空",
@@ -137,6 +145,14 @@
       "onboard_time": 1665382043,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 859146,
+      "num": 859146,
+      "word": "基辅遭到袭击已造成8死24伤",
+      "onboard_time": 1665391884,
+      "rank": 40,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 833205,
@@ -209,14 +225,6 @@
       "onboard_time": 1665373705,
       "rank": 5,
       "category": "财经"
-    },
-    {
-      "raw_hot": 693398,
-      "num": 693398,
-      "word": "大四男生32门课近满分获清华直博",
-      "onboard_time": 1665391046,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 684983,
@@ -312,14 +320,6 @@
       "word": "普京称克里米亚大桥爆炸是恐怖主义行为",
       "onboard_time": 1665364346,
       "rank": 6,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 542635,
-      "num": 542635,
-      "word": "基辅遭到袭击已造成8死24伤",
-      "onboard_time": 1665391884,
-      "rank": 40,
       "category": "国外要闻"
     },
     {
@@ -515,6 +515,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 369824,
+      "num": 369824,
+      "word": "狗子的暗示够明显了",
+      "onboard_time": 1665392844,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 364521,
       "num": 364521,
       "word": "莎头",
@@ -595,14 +603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 316325,
-      "num": 316325,
-      "word": "狗子的暗示够明显了",
-      "onboard_time": 1665392844,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 313365,
       "num": 313365,
       "word": "内蒙古增本土确诊119例无症状559例",
@@ -681,6 +681,14 @@
       "onboard_time": 1665376947,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 287689,
+      "num": 287689,
+      "word": "韩漫双开门冰箱走向现实",
+      "onboard_time": 1665393204,
+      "rank": 26,
+      "category": "动漫,网红"
     },
     {
       "raw_hot": 283314,
@@ -779,6 +787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 228331,
+      "num": 228331,
+      "word": "外婆花7天为宝宝做提篮床",
+      "onboard_time": 1665392126,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227780,
       "num": 227780,
       "word": "连猫猫都穿上了羽绒服",
@@ -859,6 +875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198721,
+      "num": 198721,
+      "word": "檀健次说爱的二八定律13号看起来",
+      "onboard_time": 1665394284,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 198197,
       "num": 198197,
       "word": "马龙珍惜在球队的每一天",
@@ -907,28 +931,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 190450,
-      "num": 190450,
-      "word": "韩漫双开门冰箱走向现实",
-      "onboard_time": 1665393204,
-      "rank": 26,
-      "category": "动漫,网红"
-    },
-    {
       "raw_hot": 190160,
       "num": 190160,
       "word": "一夜入冬是种什么体验",
       "onboard_time": 1665351191,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 187314,
-      "num": 187314,
-      "word": "外婆花7天为宝宝做提篮床",
-      "onboard_time": 1665392126,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 179522,
@@ -1067,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148188,
+      "num": 148188,
+      "word": "我的无用节俭行为",
+      "onboard_time": 1665393144,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 147605,
       "num": 147605,
       "word": "三小伙为省钱合租一间房",
@@ -1203,20 +1219,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120936,
+      "num": 120936,
+      "word": "换季穿衣法则",
+      "onboard_time": 1665392664,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 118571,
       "num": 118571,
       "word": "女子刷单被骗15万丈夫带女儿出走",
       "onboard_time": 1665310703,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117227,
-      "num": 117227,
-      "word": "我的无用节俭行为",
-      "onboard_time": 1665393144,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 116841,
@@ -1251,14 +1267,6 @@
       "category": "游戏,体育"
     },
     {
-      "raw_hot": 107543,
-      "num": 107543,
-      "word": "换季穿衣法则",
-      "onboard_time": 1665392664,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 107277,
       "num": 107277,
       "word": "课代表布置作业都这么卷了",
@@ -1273,6 +1281,14 @@
       "onboard_time": 1665330443,
       "rank": 29,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 104632,
+      "num": 104632,
+      "word": "白百何张慧雯万鹏新剧开播",
+      "onboard_time": 1665394464,
+      "rank": 39,
+      "category": "影视,影视"
     },
     {
       "raw_hot": 103980,
@@ -1305,6 +1321,22 @@
       "onboard_time": 1665388944,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100753,
+      "num": 100753,
+      "word": "少年的松弛感有多令人心动",
+      "onboard_time": 1665395184,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 98866,
+      "num": 98866,
+      "word": "摸鱼助手提醒您",
+      "onboard_time": 1665393744,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 97326,
@@ -1419,12 +1451,12 @@
       "category": "国内要闻,军事"
     },
     {
-      "raw_hot": 84650,
-      "num": 84650,
-      "word": "摸鱼助手提醒您",
-      "onboard_time": 1665393744,
-      "rank": 47,
-      "category": "幽默"
+      "raw_hot": 84839,
+      "num": 360149,
+      "word": "00后男生复刻明代皇后六龙三凤冠",
+      "onboard_time": 1665392484,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84107,
@@ -1451,6 +1483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80833,
+      "num": 80833,
+      "word": "小脑斧舔爪爪的样子也太萌了",
+      "onboard_time": 1665395002,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78741,
       "num": 78741,
       "word": "熊孩子不上学躲自家衣柜玩手机",
@@ -1465,14 +1505,6 @@
       "onboard_time": 1665314064,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 71740,
-      "num": 360149,
-      "word": "00后男生复刻明代皇后六龙三凤冠",
-      "onboard_time": 1665392484,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 70535,
