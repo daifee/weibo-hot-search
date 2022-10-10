@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/11 00:39:03 ~ 2022/10/11 01:41:31
+本榜单时间：2022/10/11 00:39:03 ~ 2022/10/11 01:58:43
 </p>
 </blockquote>
 <p>
@@ -201,8 +201,20 @@ iPhone14出现首次大幅降价（热度：358810）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9D%A1%E4%B8%8D%E7%9D%80%E7%9A%84%E4%B8%BB%E8%A6%81%E5%8E%9F%E5%9B%A0%E6%98%AF%E4%BB%80%E4%B9%88%23" target="weibo">
+睡不着的主要原因是什么（热度：84442）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%8D%E7%9F%A5%E9%81%93%E7%94%84%E5%AC%9B%E6%84%BF%E6%9C%9B%E6%B2%A1%E5%AE%9E%E7%8E%B0%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
 才知道甄嬛愿望没实现的原因（热度：83072）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%9C%87%E5%8D%97%E7%88%B6%E4%BA%B2%E8%A2%AB%E9%99%90%E5%88%B6%E6%B6%88%E8%B4%B9%E6%95%B0%E7%99%BE%E6%AC%A1%23" target="weibo">
+周震南父亲被限制消费数百次（热度：79315）
 </a>
 </li>
 
@@ -213,8 +225,8 @@ iPhone14出现首次大幅降价（热度：358810）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%9C%87%E5%8D%97%E7%88%B6%E4%BA%B2%E8%A2%AB%E9%99%90%E5%88%B6%E6%B6%88%E8%B4%B9%E6%95%B0%E7%99%BE%E6%AC%A1%23" target="weibo">
-周震南父亲被限制消费数百次（热度：65633）
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%8D%E6%81%AF%E5%90%8E%E6%9D%AD%E5%B7%9E%E6%9C%89%E4%BA%BA%E6%AF%8F%E4%B8%AA%E6%9C%88%E6%88%BF%E8%B4%B7%E7%9C%812000%23" target="weibo">
+降息后杭州有人每个月房贷省2000（热度：73299）
 </a>
 </li>
 
@@ -239,12 +251,6 @@ iPhone14出现首次大幅降价（热度：358810）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E7%9C%8B%E9%82%BB%E5%BA%A7%E4%B8%80%E5%BF%83%E5%88%B7%E6%89%8B%E6%9C%BA%E5%8F%91%E7%8E%B0%E5%9C%A8%E6%B4%97%E9%92%B1%23" target="weibo">
 民警看邻座一心刷手机发现在洗钱（热度：58593）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%8D%E6%81%AF%E5%90%8E%E6%9D%AD%E5%B7%9E%E6%9C%89%E4%BA%BA%E6%AF%8F%E4%B8%AA%E6%9C%88%E6%88%BF%E8%B4%B7%E7%9C%812000%23" target="weibo">
-降息后杭州有人每个月房贷省2000（热度：55652）
 </a>
 </li>
 
@@ -297,12 +303,6 @@ CBA裁判吹罚尺度（热度：47757）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9D%A1%E4%B8%8D%E7%9D%80%E7%9A%84%E4%B8%BB%E8%A6%81%E5%8E%9F%E5%9B%A0%E6%98%AF%E4%BB%80%E4%B9%88%23" target="weibo">
-睡不着的主要原因是什么（热度：40546）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%232022%E4%B9%92%E4%B9%93%E7%90%83%E4%BA%9A%E6%B4%B2%E6%9D%AF%23" target="weibo">
 2022乒乓球亚洲杯（热度：38655）
 </a>
@@ -327,6 +327,12 @@ CBA裁判吹罚尺度（热度：47757）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%234%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%9A%9450%E7%B1%B3%E8%AE%A4%E5%87%BA3%E5%B9%B4%E6%9C%AA%E8%A7%81%E7%88%B6%E6%AF%8D%23" target="weibo">
+4岁女孩隔50米认出3年未见父母（热度：35944）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%BD%AC%E5%BD%AC%E5%BA%84%E7%BE%BD%E6%99%9A%E5%AE%89%E4%B8%89%E5%AE%AB%E6%A0%BC%23" target="weibo">
 张彬彬庄羽晚安三宫格（热度：35077）
 </a>
@@ -339,8 +345,8 @@ CBA裁判吹罚尺度（热度：47757）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%234%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%9A%9450%E7%B1%B3%E8%AE%A4%E5%87%BA3%E5%B9%B4%E6%9C%AA%E8%A7%81%E7%88%B6%E6%AF%8D%23" target="weibo">
-4岁女孩隔50米认出3年未见父母（热度：26341）
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%99%E7%88%B1%E7%BE%8E%E7%9A%84%E5%A6%88%E5%A6%88%E4%B9%B0%E4%BA%86%E4%B8%80%E6%94%AF%E5%8F%A3%E7%BA%A2%23" target="weibo">
+给爱美的妈妈买了一支口红（热度：13036）
 </a>
 </li>
 
