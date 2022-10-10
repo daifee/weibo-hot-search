@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665371600921,
+  "endTime": 1665377312436,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -475,6 +475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1732430,
+      "num": 1732430,
+      "word": "全网最欠的小羊",
+      "onboard_time": 1665370103,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1703064,
       "num": 1703064,
       "word": "什么是假性恋爱",
@@ -648,6 +656,14 @@
       "word": "上海疫情防控",
       "onboard_time": 1665189144,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1504667,
+      "num": 1504667,
+      "word": "员工年薪少发7万公司被判补足",
+      "onboard_time": 1665373041,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -1379,6 +1395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1016382,
+      "num": 760771,
+      "word": "男子随地吐痰致数名路过市民被传染",
+      "onboard_time": 1665372083,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1015234,
       "num": 1015234,
       "word": "上海社会面新增3例无症状感染者",
@@ -1931,20 +1955,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 779931,
+      "num": 779931,
+      "word": "爱的二八定律终于开工了",
+      "onboard_time": 1665374665,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 779488,
       "num": 779488,
       "word": "挪威三文鱼在中国生活得很开心",
       "onboard_time": 1664767403,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 778596,
-      "num": 477099,
-      "word": "全网最欠的小羊",
-      "onboard_time": 1665370103,
-      "rank": 10,
-      "category": "幽默"
     },
     {
       "raw_hot": 778454,
@@ -2219,6 +2243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 708317,
+      "num": 708317,
+      "word": "千禾味业涨停",
+      "onboard_time": 1665373705,
+      "rank": 5,
+      "category": "财经"
+    },
+    {
       "raw_hot": 706727,
       "num": 706727,
       "word": "黄牌",
@@ -2233,6 +2265,14 @@
       "onboard_time": 1664690663,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 706252,
+      "num": 470436,
+      "word": "杨幂把幂式穿搭带进剧里",
+      "onboard_time": 1665376885,
+      "rank": 10,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 705311,
@@ -2467,6 +2507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 662644,
+      "num": 494044,
+      "word": "导演程耳建议王一博偶尔独处",
+      "onboard_time": 1665371062,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 662384,
       "num": 662384,
       "word": "iPhone5C被苹果列入过时产品",
@@ -2529,6 +2577,14 @@
       "onboard_time": 1665244644,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 650170,
+      "num": 650170,
+      "word": "许家印20亿伦敦豪宅挂牌出售",
+      "onboard_time": 1665375263,
+      "rank": 6,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 649680,
@@ -2777,6 +2833,14 @@
       "onboard_time": 1665285623,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 596938,
+      "num": 596938,
+      "word": "A股",
+      "onboard_time": 1665371182,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 596188,
@@ -3041,6 +3105,14 @@
       "onboard_time": 1664891364,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 564515,
+      "num": 469252,
+      "word": "刘诗诗黑天鹅封面大片",
+      "onboard_time": 1665374426,
+      "rank": 12,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 564508,
@@ -3595,14 +3667,6 @@
       "category": "其它"
     },
     {
-      "raw_hot": 494044,
-      "num": 494044,
-      "word": "导演程耳建议王一博偶尔独处",
-      "onboard_time": 1665371062,
-      "rank": 8,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 491791,
       "num": 491791,
       "word": "北京10月4日最低温仅4摄氏度",
@@ -3809,6 +3873,14 @@
       "onboard_time": 1665027923,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 474998,
+      "num": 474998,
+      "word": "榴莲开出榴莲含片的感觉",
+      "onboard_time": 1665375686,
+      "rank": 9,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 474840,
@@ -6115,6 +6187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311488,
+      "num": 311488,
+      "word": "汪苏泷一年发两张专辑",
+      "onboard_time": 1665372263,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 310974,
       "num": 310974,
       "word": "国庆假期后油价或再下调",
@@ -6233,6 +6313,14 @@
       "onboard_time": 1664619079,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 303630,
+      "num": 303630,
+      "word": "马龙发博庆祝夺冠",
+      "onboard_time": 1665370041,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 303012,
@@ -7051,6 +7139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268559,
+      "num": 268559,
+      "word": "安徽一老人种出104斤巨型冬瓜",
+      "onboard_time": 1665370641,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 268539,
       "num": 268539,
       "word": "22岁兵哥连救5人获提干",
@@ -7313,14 +7409,6 @@
       "onboard_time": 1665202224,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 258704,
-      "num": 258704,
-      "word": "马龙发博庆祝夺冠",
-      "onboard_time": 1665370041,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 258470,
@@ -7995,6 +8083,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 237702,
+      "num": 237702,
+      "word": "RNG状态",
+      "onboard_time": 1664825832,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 237202,
       "num": 237202,
       "word": "小小年纪就活得如此明白",
@@ -8329,6 +8425,14 @@
       "onboard_time": 1665055345,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 226398,
+      "num": 226398,
+      "word": "喜茶设立真果现剥透明窗口",
+      "onboard_time": 1665376347,
+      "rank": 23,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 226040,
@@ -9843,6 +9947,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 181879,
+      "num": 181879,
+      "word": "iPhoneSE4或增加灵动岛",
+      "onboard_time": 1665370402,
+      "rank": 40,
+      "category": "科技"
+    },
+    {
       "raw_hot": 181782,
       "num": 181782,
       "word": "中餐厅",
@@ -10035,6 +10147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177194,
+      "num": 177194,
+      "word": "马龙三登出色封面",
+      "onboard_time": 1665376347,
+      "rank": 29,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 176636,
       "num": 176636,
       "word": "黑龙江出现粉色雾凇",
@@ -10113,14 +10233,6 @@
       "onboard_time": 1665028041,
       "rank": 47,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 173575,
-      "num": 173575,
-      "word": "A股",
-      "onboard_time": 1665371182,
-      "rank": 30,
-      "category": "财经"
     },
     {
       "raw_hot": 173471,
@@ -10321,6 +10433,14 @@
       "onboard_time": 1665117084,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 167939,
+      "num": 167939,
+      "word": "LCK小组赛第三日全胜",
+      "onboard_time": 1665373404,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 167702,
@@ -10555,6 +10675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 161269,
+      "num": 161269,
+      "word": "明晚中国女排将再战意大利女排",
+      "onboard_time": 1665374244,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161162,
       "num": 161162,
       "word": "男子丢钱包后被索要归还费",
@@ -10675,14 +10803,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 158284,
-      "num": 158284,
-      "word": "安徽一老人种出104斤巨型冬瓜",
-      "onboard_time": 1665370641,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 158276,
       "num": 158276,
       "word": "女篮姑娘拼到最后一秒",
@@ -10753,6 +10873,14 @@
       "onboard_time": 1665361644,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157311,
+      "num": 157311,
+      "word": "普尔单节18分",
+      "onboard_time": 1665371542,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 157306,
@@ -11211,6 +11339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145440,
+      "num": 145440,
+      "word": "iPhone备忘录被曝莫名清空",
+      "onboard_time": 1665377007,
+      "rank": 36,
+      "category": "科技"
+    },
+    {
       "raw_hot": 145420,
       "num": 145420,
       "word": "2个动作缓解含胸驼背",
@@ -11281,6 +11417,14 @@
       "onboard_time": 1665209962,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144257,
+      "num": 144257,
+      "word": "潜艇突遇水下断崖官兵180秒自救",
+      "onboard_time": 1665369563,
+      "rank": 37,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 144182,
@@ -11795,6 +11939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133366,
+      "num": 133366,
+      "word": "TES BP",
+      "onboard_time": 1665373104,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 133231,
       "num": 133231,
       "word": "去过丰台这一公厕人员请报告",
@@ -11955,14 +12107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 128402,
-      "num": 128402,
-      "word": "潜艇突遇水下断崖官兵180秒自救",
-      "onboard_time": 1665369563,
-      "rank": 37,
-      "category": "军事,社会新闻"
-    },
-    {
       "raw_hot": 128347,
       "num": 128347,
       "word": "于登登是陆炎初恋",
@@ -12000,6 +12144,14 @@
       "word": "北京近期14例感染者轨迹一览",
       "onboard_time": 1665090311,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127993,
+      "num": 127993,
+      "word": "增强对当前疫情防控政策的信心和耐心",
+      "onboard_time": 1665375566,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -12347,14 +12499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 121500,
-      "num": 121500,
-      "word": "RNG状态",
-      "onboard_time": 1664825832,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 121277,
       "num": 121277,
       "word": "支教老师说自己被光照亮也想发出微光",
@@ -12473,14 +12617,6 @@
       "onboard_time": 1665047486,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119271,
-      "num": 119271,
-      "word": "iPhoneSE4或增加灵动岛",
-      "onboard_time": 1665370402,
-      "rank": 40,
-      "category": "科技"
     },
     {
       "raw_hot": 119047,
@@ -12897,6 +13033,14 @@
       "onboard_time": 1665328104,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109674,
+      "num": 109674,
+      "word": "东北老人坐轮椅组团飞三亚过冬",
+      "onboard_time": 1665376947,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109566,
@@ -14136,14 +14280,6 @@
       "word": "中国女排对阵荷兰女排",
       "onboard_time": 1665079334,
       "rank": 9,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 81153,
-      "num": 81153,
-      "word": "普尔单节18分",
-      "onboard_time": 1665371542,
-      "rank": 49,
       "category": "体育"
     },
     {
