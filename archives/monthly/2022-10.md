@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/10 19:23:06
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/10 19:40:17
 </p>
 </blockquote>
 <p>
@@ -897,6 +897,12 @@ DRX战胜TES（热度：1162865）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23iPhone14%E5%87%BA%E7%8E%B0%E9%A6%96%E6%AC%A1%E5%A4%A7%E5%B9%85%E9%99%8D%E4%BB%B7%23" target="weibo">
+iPhone14出现首次大幅降价（热度：1129925）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8B%BF%E8%B5%B0%E8%9C%82%E7%8E%8B%E8%A2%AB%E8%9C%82%E7%BE%A4%E7%88%AC%E8%BD%A6%E7%AA%97%E8%BF%BD%E4%B8%80%E8%B7%AF%23" target="weibo">
 男子拿走蜂王被蜂群爬车窗追一路（热度：1124300）
 </a>
@@ -1031,12 +1037,6 @@ DRX战胜TES（热度：1162865）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone%E5%A4%87%E5%BF%98%E5%BD%95%E8%A2%AB%E6%9B%9D%E8%8E%AB%E5%90%8D%E6%B8%85%E7%A9%BA%23" target="weibo">
 iPhone备忘录被曝莫名清空（热度：1063622）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23iPhone14%E5%87%BA%E7%8E%B0%E9%A6%96%E6%AC%A1%E5%A4%A7%E5%B9%85%E9%99%8D%E4%BB%B7%23" target="weibo">
-iPhone14出现首次大幅降价（热度：1062738）
 </a>
 </li>
 
@@ -1275,6 +1275,12 @@ iPhone14Plus上市破发（热度：986191）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%8F%A5%E8%AF%9D%E7%BB%88%E6%AD%A2%E8%81%8A%E5%A4%A9%23" target="weibo">
+一句话终止聊天（热度：923353）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A2%A6%E6%B4%81%23" target="weibo">
 王梦洁（热度：916316）
 </a>
@@ -1349,12 +1355,6 @@ eStar七冠王（热度：894969）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E6%96%B9%E7%A7%B0%E6%9C%9D%E9%B2%9C%E5%90%91%E5%8D%8A%E5%B2%9B%E4%B8%9C%E9%83%A8%E6%B5%B7%E5%9F%9F%E5%8F%91%E5%B0%84%E4%B8%8D%E6%98%8E%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9%23" target="weibo">
 韩方称朝鲜向半岛东部海域发射不明弹道导弹（热度：881003）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%8F%A5%E8%AF%9D%E7%BB%88%E6%AD%A2%E8%81%8A%E5%A4%A9%23" target="weibo">
-一句话终止聊天（热度：869051）
 </a>
 </li>
 
@@ -1743,6 +1743,12 @@ iPhone15系列仍将采用高通基带（热度：769323）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E8%B1%86%E7%93%A37%E5%88%86%E4%BB%A5%E4%B8%8A%E7%9A%84%E5%9B%BD%E4%BA%A7%E5%89%A7%23" target="weibo">
+今年豆瓣7分以上的国产剧（热度：722607）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%B8%A6%E5%A8%83%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8A%E5%A5%B3%E5%84%BF%E6%91%87%E4%B8%8B%E5%90%8A%E6%A1%A5%23" target="weibo">
 爸爸带娃不小心把女儿摇下吊桥（热度：721839）
 </a>
@@ -2087,12 +2093,6 @@ iPhone5C被苹果列入过时产品（热度：662384）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%B8%A6%E5%8E%8C%E5%AD%A6%E7%94%B7%E5%AD%A9%E5%B7%A5%E5%9C%B0%E6%90%AC%E9%92%A2%E7%AD%8B%23" target="weibo">
 爸爸带厌学男孩工地搬钢筋（热度：644470）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E8%B1%86%E7%93%A37%E5%88%86%E4%BB%A5%E4%B8%8A%E7%9A%84%E5%9B%BD%E4%BA%A7%E5%89%A7%23" target="weibo">
-今年豆瓣7分以上的国产剧（热度：643872）
 </a>
 </li>
 
@@ -4503,6 +4503,12 @@ gidle将完整体出击认哥（热度：351694）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%86%9B%E6%96%B9%E7%A7%B0%E4%BF%84%E5%86%9B%E5%8F%91%E5%B0%84%E4%BA%8675%E6%9E%9A%E5%AF%BC%E5%BC%B9%23" target="weibo">
+乌军方称俄军发射了75枚导弹（热度：346235）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E5%AD%90%E4%BF%A9%E8%B7%9F%E5%90%8C%E4%B8%80%E4%BD%8D%E5%AF%BC%E5%B8%88%E8%AF%BB%E5%8D%9A%23" target="weibo">
 父子俩跟同一位导师读博（热度：346079）
 </a>
@@ -5367,6 +5373,12 @@ HYBE第四季度计划（热度：285836）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E5%AE%98%E5%91%98%E8%AD%A6%E5%91%8A%E8%A5%BF%E6%96%B9%E4%B8%8D%E8%A6%81%E8%A7%A6%E7%8A%AF%E4%BF%84%E7%BD%97%E6%96%AF%E7%BA%A2%E7%BA%BF%23" target="weibo">
+俄官员警告西方不要触犯俄罗斯红线（热度：279714）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23VogueWorld%E5%B1%95%E8%A7%88%E5%BC%80%E5%B9%95%E4%B9%8B%E5%A4%9C%23" target="weibo">
 VogueWorld展览开幕之夜（热度：279650）
 </a>
@@ -5513,6 +5525,12 @@ EDG小组赛首胜（热度：273775）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A4%B0%E6%A0%91%E9%9B%86%E5%9B%A2%E5%9B%9E%E5%BA%94%E7%9B%B4%E6%92%AD%E4%BA%89%E8%AE%AE%23" target="weibo">
 椰树集团回应直播争议（热度：273376）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B9%B4%E6%BC%94%E5%91%98%E5%8E%9F%E5%A3%B0%E5%8F%B0%E8%AF%8D%E7%88%86%E5%8F%91%E5%8A%9B%23" target="weibo">
+青年演员原声台词爆发力（热度：273325）
 </a>
 </li>
 
@@ -5871,12 +5889,6 @@ RNG对战CFO（热度：259354）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B9%B4%E6%BC%94%E5%91%98%E5%8E%9F%E5%A3%B0%E5%8F%B0%E8%AF%8D%E7%88%86%E5%8F%91%E5%8A%9B%23" target="weibo">
-青年演员原声台词爆发力（热度：258333）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E7%BB%BC%E8%89%BA%E4%B9%8B%E7%A5%9E%E9%99%8D%E4%B8%B4%23" target="weibo">
 陈哲远综艺之神降临（热度：258077）
 </a>
@@ -5999,18 +6011,6 @@ RNG对战CFO（热度：259354）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E4%B8%87%E9%87%8C%E5%BD%92%E9%80%94%23" target="weibo">
 电影万里归途（热度：253926）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%90%93%E8%BF%87%E7%9A%84%E5%B0%8F%E7%8C%AB%E6%9C%89%E5%A4%9A%E8%AE%B0%E4%BB%87%23" target="weibo">
-被吓过的小猫有多记仇（热度：253820）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%BC%9F%E6%8A%B1%E5%A5%B6%E5%A5%B6%E8%85%BF%E9%98%BB%E6%AD%A2%E5%AE%B0%E4%BB%8E%E5%B0%8F%E5%85%BB%E5%A4%A7%E7%9A%84%E9%B8%AD%E5%AD%90%23" target="weibo">
-姐弟抱奶奶腿阻止宰从小养大的鸭子（热度：253285）
 </a>
 </li>
 

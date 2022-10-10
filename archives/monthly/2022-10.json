@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665400986224,
+  "endTime": 1665402017197,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -1179,6 +1179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1129925,
+      "num": 765036,
+      "word": "iPhone14出现首次大幅降价",
+      "onboard_time": 1665398006,
+      "rank": 13,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1124300,
       "num": 1124300,
       "word": "男子拿走蜂王被蜂群爬车窗追一路",
@@ -1360,14 +1368,6 @@
       "word": "iPhone备忘录被曝莫名清空",
       "onboard_time": 1665377007,
       "rank": 36,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 1062738,
-      "num": 724870,
-      "word": "iPhone14出现首次大幅降价",
-      "onboard_time": 1665398006,
-      "rank": 13,
       "category": "科技"
     },
     {
@@ -1683,6 +1683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 923353,
+      "num": 923353,
+      "word": "一句话终止聊天",
+      "onboard_time": 1665396440,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 916316,
       "num": 301758,
       "word": "王梦洁",
@@ -1785,14 +1793,6 @@
       "onboard_time": 1664845643,
       "rank": 3,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 869051,
-      "num": 869051,
-      "word": "一句话终止聊天",
-      "onboard_time": 1665396440,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 866207,
@@ -2307,6 +2307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 722607,
+      "num": 722607,
+      "word": "今年豆瓣7分以上的国产剧",
+      "onboard_time": 1665397945,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 721839,
       "num": 721839,
       "word": "爸爸带娃不小心把女儿摇下吊桥",
@@ -2769,14 +2777,6 @@
       "onboard_time": 1665200965,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 643872,
-      "num": 643872,
-      "word": "今年豆瓣7分以上的国产剧",
-      "onboard_time": 1665397945,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 641448,
@@ -5987,6 +5987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 346235,
+      "num": 214127,
+      "word": "乌军方称俄军发射了75枚导弹",
+      "onboard_time": 1665398904,
+      "rank": 20,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 346079,
       "num": 346079,
       "word": "父子俩跟同一位导师读博",
@@ -7139,6 +7147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279714,
+      "num": 279714,
+      "word": "俄官员警告西方不要触犯俄罗斯红线",
+      "onboard_time": 1665399863,
+      "rank": 33,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 279650,
       "num": 76296,
       "word": "VogueWorld展览开幕之夜",
@@ -7337,6 +7353,14 @@
       "onboard_time": 1665243265,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273325,
+      "num": 273325,
+      "word": "青年演员原声台词爆发力",
+      "onboard_time": 1665399863,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 273101,
@@ -7809,14 +7833,6 @@
       "onboard_time": 1664629702,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 258333,
-      "num": 258333,
-      "word": "青年演员原声台词爆发力",
-      "onboard_time": 1665399863,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 258077,
@@ -8811,6 +8827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 226666,
+      "num": 214034,
+      "word": "亲妈级红烧肉",
+      "onboard_time": 1665401722,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 226655,
       "num": 226655,
       "word": "10月8日新增本土确诊441例",
@@ -8961,14 +8985,6 @@
       "onboard_time": 1665206304,
       "rank": 38,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 223237,
-      "num": 212956,
-      "word": "乌军方称俄军发射了75枚导弹",
-      "onboard_time": 1665398904,
-      "rank": 20,
-      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 223228,
@@ -10171,6 +10187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189212,
+      "num": 189212,
+      "word": "民警看邻座一心刷手机发现在洗钱",
+      "onboard_time": 1665399325,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188431,
       "num": 188431,
       "word": "国乒男团世乒赛开门红",
@@ -10345,6 +10369,14 @@
       "onboard_time": 1664796624,
       "rank": 46,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 183708,
+      "num": 183708,
+      "word": "没想到相亲会这么社死",
+      "onboard_time": 1665397402,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 183675,
@@ -10617,14 +10649,6 @@
       "onboard_time": 1664606004,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 177503,
-      "num": 177503,
-      "word": "没想到相亲会这么社死",
-      "onboard_time": 1665397402,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 177194,
@@ -12059,6 +12083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142313,
+      "num": 142313,
+      "word": "南京最美600米上线了",
+      "onboard_time": 1665400463,
+      "rank": 41,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 142074,
       "num": 142074,
       "word": "为看升旗跑出了百米冲刺的感觉",
@@ -12200,14 +12232,6 @@
       "word": "幼儿园成美食天花板顿顿不重样",
       "onboard_time": 1664857940,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 139555,
-      "num": 139555,
-      "word": "民警看邻座一心刷手机发现在洗钱",
-      "onboard_time": 1665399325,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -12545,14 +12569,6 @@
       "onboard_time": 1665131064,
       "rank": 37,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 130256,
-      "num": 130256,
-      "word": "俄官员警告西方不要触犯俄罗斯红线",
-      "onboard_time": 1665399863,
-      "rank": 33,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 130178,
@@ -13707,6 +13723,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 108086,
+      "num": 108086,
+      "word": "CBA新赛季揭幕战",
+      "onboard_time": 1665401421,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107777,
       "num": 107777,
       "word": "孙悟空腾云驾雾视角看中国",
@@ -13865,14 +13889,6 @@
       "onboard_time": 1664873061,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 104324,
-      "num": 104324,
-      "word": "南京最美600米上线了",
-      "onboard_time": 1665400463,
-      "rank": 41,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 104214,
@@ -16611,6 +16627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27890,
+      "num": 315681,
+      "word": "雪天路滑众人合力推救护车上坡",
+      "onboard_time": 1665399625,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27101,
       "num": 27101,
       "word": "乌云遇皎月还原度",
@@ -16665,14 +16689,6 @@
       "onboard_time": 1664561715,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 18588,
-      "num": 315681,
-      "word": "雪天路滑众人合力推救护车上坡",
-      "onboard_time": 1665399625,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17857,

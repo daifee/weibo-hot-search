@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665400986224,
+  "endTime": 1665402017197,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -91,6 +91,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1129925,
+      "num": 765036,
+      "word": "iPhone14出现首次大幅降价",
+      "onboard_time": 1665398006,
+      "rank": 13,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1067228,
       "num": 1067228,
       "word": "大四男生32门课近满分获清华直博",
@@ -104,14 +112,6 @@
       "word": "iPhone备忘录被曝莫名清空",
       "onboard_time": 1665377007,
       "rank": 36,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 1062738,
-      "num": 724870,
-      "word": "iPhone14出现首次大幅降价",
-      "onboard_time": 1665398006,
-      "rank": 13,
       "category": "科技"
     },
     {
@@ -147,6 +147,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 923353,
+      "num": 923353,
+      "word": "一句话终止聊天",
+      "onboard_time": 1665396440,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 903860,
       "num": 768507,
       "word": "女子骑车脖子遭横空风筝线割伤",
@@ -161,14 +169,6 @@
       "onboard_time": 1665382043,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 869051,
-      "num": 869051,
-      "word": "一句话终止聊天",
-      "onboard_time": 1665396440,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 833205,
@@ -235,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 722607,
+      "num": 722607,
+      "word": "今年豆瓣7分以上的国产剧",
+      "onboard_time": 1665397945,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 718618,
       "num": 718618,
       "word": "千禾味业涨停",
@@ -265,14 +273,6 @@
       "onboard_time": 1665386184,
       "rank": 13,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 643872,
-      "num": 643872,
-      "word": "今年豆瓣7分以上的国产剧",
-      "onboard_time": 1665397945,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 637753,
@@ -627,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 346235,
+      "num": 214127,
+      "word": "乌军方称俄军发射了75枚导弹",
+      "onboard_time": 1665398904,
+      "rank": 20,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 341103,
       "num": 341103,
       "word": "睡觉被吵醒后的小猫",
@@ -755,6 +763,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 279714,
+      "num": 279714,
+      "word": "俄官员警告西方不要触犯俄罗斯红线",
+      "onboard_time": 1665399863,
+      "rank": 33,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 273325,
+      "num": 273325,
+      "word": "青年演员原声台词爆发力",
+      "onboard_time": 1665399863,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 269701,
       "num": 269701,
       "word": "嗜睡也属于睡眠障碍",
@@ -819,14 +843,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 258333,
-      "num": 258333,
-      "word": "青年演员原声台词爆发力",
-      "onboard_time": 1665399863,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 254455,
       "num": 254455,
       "word": "469只基金持仓海天味业",
@@ -883,20 +899,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 226666,
+      "num": 214034,
+      "word": "亲妈级红烧肉",
+      "onboard_time": 1665401722,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 223480,
       "num": 223480,
       "word": "脱口秀大会5官宣凤凰传奇",
       "onboard_time": 1665381143,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 223237,
-      "num": 212956,
-      "word": "乌军方称俄军发射了75枚导弹",
-      "onboard_time": 1665398904,
-      "rank": 20,
-      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 222167,
@@ -1027,6 +1043,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 189212,
+      "num": 189212,
+      "word": "民警看邻座一心刷手机发现在洗钱",
+      "onboard_time": 1665399325,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183708,
+      "num": 183708,
+      "word": "没想到相亲会这么社死",
+      "onboard_time": 1665397402,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 179522,
       "num": 179522,
       "word": "湖人vs勇士",
@@ -1049,14 +1081,6 @@
       "onboard_time": 1665344470,
       "rank": 24,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 177503,
-      "num": 177503,
-      "word": "没想到相亲会这么社死",
-      "onboard_time": 1665397402,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 177194,
@@ -1211,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142313,
+      "num": 142313,
+      "word": "南京最美600米上线了",
+      "onboard_time": 1665400463,
+      "rank": 41,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 140771,
       "num": 140771,
       "word": "小脑斧舔爪爪的样子也太萌了",
@@ -1225,14 +1257,6 @@
       "onboard_time": 1665317724,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 139555,
-      "num": 139555,
-      "word": "民警看邻座一心刷手机发现在洗钱",
-      "onboard_time": 1665399325,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138663,
@@ -1281,14 +1305,6 @@
       "onboard_time": 1665309262,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 130256,
-      "num": 130256,
-      "word": "俄官员警告西方不要触犯俄罗斯红线",
-      "onboard_time": 1665399863,
-      "rank": 33,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 128535,
@@ -1395,6 +1411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 108086,
+      "num": 108086,
+      "word": "CBA新赛季揭幕战",
+      "onboard_time": 1665401421,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107641,
       "num": 107641,
       "word": "梅西为LGD加油",
@@ -1425,14 +1449,6 @@
       "onboard_time": 1665394464,
       "rank": 39,
       "category": "影视,影视"
-    },
-    {
-      "raw_hot": 104324,
-      "num": 104324,
-      "word": "南京最美600米上线了",
-      "onboard_time": 1665400463,
-      "rank": 41,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 103980,
@@ -1771,7 +1787,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18588,
+      "raw_hot": 27890,
       "num": 315681,
       "word": "雪天路滑众人合力推救护车上坡",
       "onboard_time": 1665399625,
