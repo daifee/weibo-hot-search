@@ -1,0 +1,410 @@
+{
+  "runTime": 1665428471136,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 202304,
+        "num": 202304,
+        "word": "睡不着的主要原因是什么",
+        "onboard_time": 1665422776,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109199,
+        "num": 109199,
+        "word": "医生建议成人每天睡够7小时",
+        "onboard_time": 1665388344,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160,
+        "num": 88313,
+        "word": "红星何以照耀中国",
+        "onboard_time": 1665387865,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86089,
+        "num": 86089,
+        "word": "10斤的小猫9斤的反骨",
+        "onboard_time": 1665418401,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85098,
+        "num": 85098,
+        "word": "普京称若乌继续袭击俄领土将强硬回击",
+        "onboard_time": 1665417383,
+        "rank": 4,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 77436,
+        "num": 77436,
+        "word": "海克斯科技是揭内幕还是贩卖焦虑",
+        "onboard_time": 1665416725,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74094,
+        "num": 74094,
+        "word": "月亮",
+        "onboard_time": 1665398425,
+        "rank": 6,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 69892,
+        "num": 69892,
+        "word": "iPhone14出现首次大幅降价",
+        "onboard_time": 1665398006,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 43814,
+        "num": 43814,
+        "word": "女子天生4个肾竟全部长结石",
+        "onboard_time": 1665410125,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39040,
+        "num": 39040,
+        "word": "女子针灸回家才发现头上插根针",
+        "onboard_time": 1665416544,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56255,
+        "num": 38682,
+        "word": "4岁女孩隔50米认出3年未见父母",
+        "onboard_time": 1665422894,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42050,
+        "num": 38019,
+        "word": "周震南父亲被限制消费数百次",
+        "onboard_time": 1665420916,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36907,
+        "num": 36907,
+        "word": "山西运城报告299例新冠阳性",
+        "onboard_time": 1665409584,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36102,
+        "num": 36102,
+        "word": "你有超过七年以上的友情吗",
+        "onboard_time": 1665403764,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28438,
+        "num": 28438,
+        "word": "普京称俄军对乌克兰军事目标实施打击",
+        "onboard_time": 1665406163,
+        "rank": 14,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 25674,
+        "num": 25674,
+        "word": "影帝走红毯是都这么忙吗",
+        "onboard_time": 1665414866,
+        "rank": 15,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 25586,
+        "num": 25586,
+        "word": "女子拿行李误被朋友开车压骨折",
+        "onboard_time": 1665410844,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25154,
+        "num": 25154,
+        "word": "网红兔狲狲思邈意外死亡",
+        "onboard_time": 1665381425,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24400,
+        "num": 24400,
+        "word": "杨幂许凯新剧开播就结婚",
+        "onboard_time": 1665416725,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24300,
+        "num": 24300,
+        "word": "虞书欣虞美人唱无名之辈翻车",
+        "onboard_time": 1665409704,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 43346,
+        "num": 23822,
+        "word": "降息后杭州有人每个月房贷省2000",
+        "onboard_time": 1665422113,
+        "rank": 20,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 36627,
+        "num": 23560,
+        "word": "一张表自测嗜睡程度",
+        "onboard_time": 1665425053,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23298,
+        "num": 23298,
+        "word": "死神千年血战篇",
+        "onboard_time": 1665407004,
+        "rank": 22,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 20359,
+        "num": 20359,
+        "word": "长沙天空惊现龙鳞云",
+        "onboard_time": 1665418041,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20026,
+        "num": 20026,
+        "word": "普京与卢卡申科就部署区域联合部队达成一致",
+        "onboard_time": 1665404842,
+        "rank": 24,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 18307,
+        "num": 18307,
+        "word": "副园长回应网红兔狲意外死亡",
+        "onboard_time": 1665404063,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17714,
+        "num": 17714,
+        "word": "你是倔强式单身吗",
+        "onboard_time": 1665407845,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17228,
+        "num": 17228,
+        "word": "普京召开俄联邦安全会议",
+        "onboard_time": 1665412103,
+        "rank": 27,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 17085,
+        "num": 17085,
+        "word": "一句话终止聊天",
+        "onboard_time": 1665396440,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16793,
+        "num": 16793,
+        "word": "庞博的文字里充满了浪漫",
+        "onboard_time": 1665404242,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15890,
+        "num": 15890,
+        "word": "纸片人竟是我自己",
+        "onboard_time": 1665402083,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15868,
+        "num": 15868,
+        "word": "孟子义把毛不易李雪琴整不会了",
+        "onboard_time": 1665406163,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15827,
+        "num": 15827,
+        "word": "广东12日起冷空气活动减弱",
+        "onboard_time": 1665409942,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15826,
+        "num": 15826,
+        "word": "唐朝诡事录公主摆鸿门宴",
+        "onboard_time": 1665425713,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 15145,
+        "num": 15145,
+        "word": "演唱会灯海名场面",
+        "onboard_time": 1665412103,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 14996,
+        "num": 14996,
+        "word": "给爱美的妈妈买了一支口红",
+        "onboard_time": 1665424694,
+        "rank": 35,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 14446,
+        "num": 14446,
+        "word": "爱的二八定律",
+        "onboard_time": 1665404784,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 14120,
+        "num": 14120,
+        "word": "2022乒乓球亚洲杯",
+        "onboard_time": 1665404304,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13050,
+        "num": 13050,
+        "word": "今年豆瓣7分以上的国产剧",
+        "onboard_time": 1665397945,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 12411,
+        "num": 12411,
+        "word": "民警看邻座一心刷手机发现在洗钱",
+        "onboard_time": 1665399325,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12345,
+        "num": 12345,
+        "word": "才知道甄嬛愿望没实现的原因",
+        "onboard_time": 1665405144,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 11749,
+        "num": 11749,
+        "word": "抽检发现有的女装致癌物超标20多倍",
+        "onboard_time": 1665386665,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11358,
+        "num": 11358,
+        "word": "CBA裁判吹罚尺度",
+        "onboard_time": 1665407604,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11019,
+        "num": 11019,
+        "word": "文俊辉Limbo花絮",
+        "onboard_time": 1665417623,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 10822,
+        "num": 10822,
+        "word": "张彬彬庄羽晚安三宫格",
+        "onboard_time": 1665420736,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 10762,
+        "num": 10762,
+        "word": "青年演员原声台词爆发力",
+        "onboard_time": 1665399863,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 9934,
+        "num": 9934,
+        "word": "教育局通报中学收20元树叶费",
+        "onboard_time": 1665427813,
+        "rank": 46,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 9177,
+        "num": 9177,
+        "word": "郭艾伦说裁判吹罚得非常好",
+        "onboard_time": 1665412766,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8532,
+        "num": 8532,
+        "word": "马龙的自律让队友感到恐怖",
+        "onboard_time": 1665413845,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7998,
+        "num": 7998,
+        "word": "大四男生32门课近满分获清华直博",
+        "onboard_time": 1665391046,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#十年的十个为什么#"
+    }
+  }
+}

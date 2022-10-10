@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665427038247,
+  "endTime": 1665428471136,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -1235,6 +1235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202304,
+      "num": 202304,
+      "word": "睡不着的主要原因是什么",
+      "onboard_time": 1665422776,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198197,
       "num": 198197,
       "word": "马龙珍惜在球队的每一天",
@@ -1273,14 +1281,6 @@
       "onboard_time": 1665370402,
       "rank": 40,
       "category": "科技"
-    },
-    {
-      "raw_hot": 192964,
-      "num": 192964,
-      "word": "睡不着的主要原因是什么",
-      "onboard_time": 1665422776,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 192327,
@@ -2227,6 +2227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36627,
+      "num": 26171,
+      "word": "一张表自测嗜睡程度",
+      "onboard_time": 1665425053,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35979,
       "num": 35979,
       "word": "文俊辉Limbo花絮",
@@ -2259,14 +2267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26171,
-      "num": 26171,
-      "word": "一张表自测嗜睡程度",
-      "onboard_time": 1665425053,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 17793,
       "num": 1937326,
       "word": "中国人的书信有多美",
@@ -2288,6 +2288,14 @@
       "word": "张彬彬说对虞美人的三心二意了解一下",
       "onboard_time": 1665323964,
       "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 15826,
+      "num": 15826,
+      "word": "唐朝诡事录公主摆鸿门宴",
+      "onboard_time": 1665425713,
+      "rank": 45,
       "category": "影视"
     },
     {
@@ -2315,20 +2323,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 11951,
-      "num": 11951,
-      "word": "唐朝诡事录公主摆鸿门宴",
-      "onboard_time": 1665425713,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 11443,
       "num": 11443,
       "word": "2个动作增强背肌",
       "onboard_time": 1665351311,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 9934,
+      "num": 9934,
+      "word": "教育局通报中学收20元树叶费",
+      "onboard_time": 1665427813,
+      "rank": 46,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 7867,
