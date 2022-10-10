@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665402017197,
+  "endTime": 1665406609992,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -105,6 +105,14 @@
       "onboard_time": 1664764284,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2909349,
+      "num": 2909349,
+      "word": "月亮",
+      "onboard_time": 1665312024,
+      "rank": 16,
+      "category": "自然"
     },
     {
       "raw_hot": 2887521,
@@ -289,14 +297,6 @@
       "onboard_time": 1665256871,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2183786,
-      "num": 2183786,
-      "word": "月亮",
-      "onboard_time": 1665312024,
-      "rank": 16,
-      "category": "自然"
     },
     {
       "raw_hot": 2182574,
@@ -1180,7 +1180,7 @@
     },
     {
       "raw_hot": 1129925,
-      "num": 765036,
+      "num": 784266,
       "word": "iPhone14出现首次大幅降价",
       "onboard_time": 1665398006,
       "rank": 13,
@@ -3067,6 +3067,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 590271,
+      "num": 590271,
+      "word": "你有超过七年以上的友情吗",
+      "onboard_time": 1665403764,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 588173,
       "num": 588173,
       "word": "俄称乌军炮击俄本土4村镇",
@@ -3427,6 +3435,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 547421,
+      "num": 547421,
+      "word": "亲妈级红烧肉",
+      "onboard_time": 1665401722,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 547094,
       "num": 547094,
       "word": "荷园惊现福寿螺竟因市民放生祈福",
@@ -3729,6 +3745,14 @@
       "onboard_time": 1665116062,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 511113,
+      "num": 511113,
+      "word": "俄官员警告西方不要触犯俄罗斯红线",
+      "onboard_time": 1665399863,
+      "rank": 33,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 510146,
@@ -4201,6 +4225,14 @@
       "onboard_time": 1665204085,
       "rank": 17,
       "category": "科技"
+    },
+    {
+      "raw_hot": 467301,
+      "num": 411429,
+      "word": "副园长回应网红兔狲意外死亡",
+      "onboard_time": 1665404063,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 466478,
@@ -4875,6 +4907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 413965,
+      "num": 413965,
+      "word": "纸片人竟是我自己",
+      "onboard_time": 1665402083,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 413806,
       "num": 367612,
       "word": "隋菲菲",
@@ -4961,6 +5001,14 @@
       "onboard_time": 1665149783,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 406818,
+      "num": 406818,
+      "word": "内娱宣传委员黄景瑜",
+      "onboard_time": 1665403884,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 405653,
@@ -5219,6 +5267,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 392647,
+      "num": 392647,
+      "word": "普京与卢卡申科就部署区域联合部队达成一致",
+      "onboard_time": 1665404842,
+      "rank": 12,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 392531,
       "num": 392531,
       "word": "NewThing疑似抄袭ATEEZ编舞",
@@ -5257,6 +5313,14 @@
       "onboard_time": 1665119362,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 390028,
+      "num": 390028,
+      "word": "庞博的文字里充满了浪漫",
+      "onboard_time": 1665404242,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 389707,
@@ -5361,6 +5425,14 @@
       "onboard_time": 1664935041,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 383809,
+      "num": 383809,
+      "word": "孟子义把毛不易李雪琴整不会了",
+      "onboard_time": 1665406163,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 383424,
@@ -5988,7 +6060,7 @@
     },
     {
       "raw_hot": 346235,
-      "num": 214127,
+      "num": 327349,
       "word": "乌军方称俄军发射了75枚导弹",
       "onboard_time": 1665398904,
       "rank": 20,
@@ -7147,14 +7219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 279714,
-      "num": 279714,
-      "word": "俄官员警告西方不要触犯俄罗斯红线",
-      "onboard_time": 1665399863,
-      "rank": 33,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 279650,
       "num": 76296,
       "word": "VogueWorld展览开幕之夜",
@@ -7587,6 +7651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 267061,
+      "num": 267061,
+      "word": "吴谨言为许凯新剧做宣传",
+      "onboard_time": 1665402384,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 267002,
       "num": 267002,
       "word": "女子国庆接单遛狗服务",
@@ -7907,6 +7979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 256671,
+      "num": 256671,
+      "word": "民警看邻座一心刷手机发现在洗钱",
+      "onboard_time": 1665399325,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256323,
       "num": 256323,
       "word": "真的很享受一个人的时光",
@@ -8113,6 +8193,14 @@
       "onboard_time": 1665218302,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 251943,
+      "num": 251943,
+      "word": "2022乒乓球亚洲杯",
+      "onboard_time": 1665404304,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 251739,
@@ -8547,6 +8635,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 235752,
+      "num": 235752,
+      "word": "我们这十年",
+      "onboard_time": 1665406163,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 235595,
       "num": 235595,
       "word": "2岁哈士奇为刚出生的宝宝盖被子",
@@ -8825,14 +8921,6 @@
       "onboard_time": 1665153511,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 226666,
-      "num": 214034,
-      "word": "亲妈级红烧肉",
-      "onboard_time": 1665401722,
-      "rank": 21,
-      "category": "美食"
     },
     {
       "raw_hot": 226655,
@@ -10187,14 +10275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 189212,
-      "num": 189212,
-      "word": "民警看邻座一心刷手机发现在洗钱",
-      "onboard_time": 1665399325,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 188431,
       "num": 188431,
       "word": "国乒男团世乒赛开门红",
@@ -11451,6 +11531,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 156676,
+      "num": 156676,
+      "word": "怎么现在的动物都有点大病",
+      "onboard_time": 1665403461,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 156620,
       "num": 156620,
       "word": "獾子到漠河钻垃圾桶睡了一夜",
@@ -11753,6 +11841,14 @@
       "onboard_time": 1665141083,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 148200,
+      "num": 148200,
+      "word": "中国人种树有多厉害",
+      "onboard_time": 1665402503,
+      "rank": 29,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 148084,
@@ -12203,6 +12299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139932,
+      "num": 139932,
+      "word": "才知道甄嬛愿望没实现的原因",
+      "onboard_time": 1665405144,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 139898,
       "num": 139898,
       "word": "国乒女团首战全胜",
@@ -12449,6 +12553,14 @@
       "onboard_time": 1665317903,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134233,
+      "num": 134233,
+      "word": "张彬彬说庄羽的化石回来了",
+      "onboard_time": 1665406404,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 134107,
@@ -12945,6 +13057,14 @@
       "onboard_time": 1664930420,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 123701,
+      "num": 123701,
+      "word": "辽宁男篮vs广厦男篮",
+      "onboard_time": 1665402743,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 123688,
@@ -13585,6 +13705,14 @@
       "onboard_time": 1664600721,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 110539,
+      "num": 110539,
+      "word": "普京称俄军对乌克兰军事目标实施打击",
+      "onboard_time": 1665406163,
+      "rank": 41,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 110452,
@@ -14763,6 +14891,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 85746,
+      "num": 85746,
+      "word": "年轻人要如何改善脱发",
+      "onboard_time": 1665405264,
+      "rank": 47,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 85579,
       "num": 85579,
       "word": "被高中生版万疆戳到了",
@@ -14905,6 +15041,14 @@
       "onboard_time": 1665099136,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82563,
+      "num": 82563,
+      "word": "这英语怎么还带儿化音",
+      "onboard_time": 1665405624,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 82384,
@@ -15731,6 +15875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62879,
+      "num": 386715,
+      "word": "凌晨煤气泄漏辅警狂敲门救下一家人",
+      "onboard_time": 1665403224,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62746,
       "num": 62746,
       "word": "偷户口本和患癌女友领证当事人回应质疑",
@@ -15804,7 +15956,7 @@
     },
     {
       "raw_hot": 60902,
-      "num": 966210,
+      "num": 986462,
       "word": "红星何以照耀中国",
       "onboard_time": 1665387865,
       "rank": 2,

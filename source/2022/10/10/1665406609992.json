@@ -1,0 +1,410 @@
+{
+  "runTime": 1665406609992,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2909349,
+        "num": 2909349,
+        "word": "月亮",
+        "onboard_time": 1665398425,
+        "rank": 0,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 1461079,
+        "num": 1461079,
+        "word": "医生建议成人每天睡够7小时",
+        "onboard_time": 1665388344,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30838,
+        "num": 986462,
+        "word": "红星何以照耀中国",
+        "onboard_time": 1665387865,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 784266,
+        "num": 784266,
+        "word": "iPhone14出现首次大幅降价",
+        "onboard_time": 1665398006,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 590271,
+        "num": 590271,
+        "word": "你有超过七年以上的友情吗",
+        "onboard_time": 1665403764,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 569612,
+        "num": 569612,
+        "word": "网红兔狲狲思邈意外死亡",
+        "onboard_time": 1665381425,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 547421,
+        "num": 547421,
+        "word": "亲妈级红烧肉",
+        "onboard_time": 1665401722,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 511113,
+        "num": 511113,
+        "word": "俄官员警告西方不要触犯俄罗斯红线",
+        "onboard_time": 1665399863,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 503759,
+        "num": 503759,
+        "word": "今年豆瓣7分以上的国产剧",
+        "onboard_time": 1665397945,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 413965,
+        "num": 413965,
+        "word": "纸片人竟是我自己",
+        "onboard_time": 1665402083,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 467301,
+        "num": 411429,
+        "word": "副园长回应网红兔狲意外死亡",
+        "onboard_time": 1665404063,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406818,
+        "num": 406818,
+        "word": "内娱宣传委员黄景瑜",
+        "onboard_time": 1665403884,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 392647,
+        "num": 392647,
+        "word": "普京与卢卡申科就部署区域联合部队达成一致",
+        "onboard_time": 1665404842,
+        "rank": 12,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 390028,
+        "num": 390028,
+        "word": "庞博的文字里充满了浪漫",
+        "onboard_time": 1665404242,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 62879,
+        "num": 386715,
+        "word": "凌晨煤气泄漏辅警狂敲门救下一家人",
+        "onboard_time": 1665403224,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383809,
+        "num": 383809,
+        "word": "孟子义把毛不易李雪琴整不会了",
+        "onboard_time": 1665406163,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352581,
+        "num": 352581,
+        "word": "一句话终止聊天",
+        "onboard_time": 1665396440,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 327349,
+        "num": 327349,
+        "word": "乌军方称俄军发射了75枚导弹",
+        "onboard_time": 1665398904,
+        "rank": 17,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 267061,
+        "num": 267061,
+        "word": "吴谨言为许凯新剧做宣传",
+        "onboard_time": 1665402384,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 256671,
+        "num": 256671,
+        "word": "民警看邻座一心刷手机发现在洗钱",
+        "onboard_time": 1665399325,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251943,
+        "num": 251943,
+        "word": "2022乒乓球亚洲杯",
+        "onboard_time": 1665404304,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235752,
+        "num": 235752,
+        "word": "我们这十年",
+        "onboard_time": 1665406163,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204974,
+        "num": 204974,
+        "word": "周震南父母再成老赖",
+        "onboard_time": 1665382043,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195276,
+        "num": 195276,
+        "word": "韩漫双开门冰箱走向现实",
+        "onboard_time": 1665393204,
+        "rank": 23,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 190408,
+        "num": 190408,
+        "word": "抽检发现有的女装致癌物超标20多倍",
+        "onboard_time": 1665386665,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188824,
+        "num": 188824,
+        "word": "为什么老师不在课间上厕所",
+        "onboard_time": 1665388406,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184690,
+        "num": 184690,
+        "word": "青年演员原声台词爆发力",
+        "onboard_time": 1665399863,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156676,
+        "num": 156676,
+        "word": "怎么现在的动物都有点大病",
+        "onboard_time": 1665403461,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154892,
+        "num": 154892,
+        "word": "大四男生32门课近满分获清华直博",
+        "onboard_time": 1665391046,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148200,
+        "num": 148200,
+        "word": "中国人种树有多厉害",
+        "onboard_time": 1665402503,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 143892,
+        "num": 143892,
+        "word": "TI11",
+        "onboard_time": 1665403822,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141900,
+        "num": 141900,
+        "word": "南京最美600米上线了",
+        "onboard_time": 1665400463,
+        "rank": 31,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 139932,
+        "num": 139932,
+        "word": "才知道甄嬛愿望没实现的原因",
+        "onboard_time": 1665405144,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139246,
+        "num": 139246,
+        "word": "群星为爱的二八定律打call",
+        "onboard_time": 1665395665,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134233,
+        "num": 134233,
+        "word": "张彬彬说庄羽的化石回来了",
+        "onboard_time": 1665406404,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132527,
+        "num": 132527,
+        "word": "女子骑车脖子遭横空风筝线割伤",
+        "onboard_time": 1665385044,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123716,
+        "num": 123716,
+        "word": "基辅正在遭遇第二波巨大爆炸",
+        "onboard_time": 1665386184,
+        "rank": 36,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 123701,
+        "num": 123701,
+        "word": "辽宁男篮vs广厦男篮",
+        "onboard_time": 1665402743,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119826,
+        "num": 119826,
+        "word": "基辅遭到袭击已造成8死24伤",
+        "onboard_time": 1665391884,
+        "rank": 38,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 118174,
+        "num": 118174,
+        "word": "美国将继续向乌克兰提供军事支持",
+        "onboard_time": 1665396323,
+        "rank": 39,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 113810,
+        "num": 113810,
+        "word": "没想到相亲会这么社死",
+        "onboard_time": 1665397402,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110539,
+        "num": 110539,
+        "word": "普京称俄军对乌克兰军事目标实施打击",
+        "onboard_time": 1665406163,
+        "rank": 41,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 103374,
+        "num": 103374,
+        "word": "狗子的暗示够明显了",
+        "onboard_time": 1665392844,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103018,
+        "num": 103018,
+        "word": "庄羽对虞美人说我暗恋你",
+        "onboard_time": 1665398543,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 96226,
+        "num": 96226,
+        "word": "外婆花7天为宝宝做提篮床",
+        "onboard_time": 1665392126,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96052,
+        "num": 96052,
+        "word": "王鹤棣暖心捡宋丹丹靠垫细节",
+        "onboard_time": 1665390685,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 88291,
+        "num": 88291,
+        "word": "爱的二八定律",
+        "onboard_time": 1665404784,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 85746,
+        "num": 85746,
+        "word": "年轻人要如何改善脱发",
+        "onboard_time": 1665405264,
+        "rank": 47,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 83884,
+        "num": 83884,
+        "word": "基辅要求民众进入庇护所",
+        "onboard_time": 1665397223,
+        "rank": 48,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 82563,
+        "num": 82563,
+        "word": "这英语怎么还带儿化音",
+        "onboard_time": 1665405624,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#十年的十个为什么#"
+    }
+  }
+}
