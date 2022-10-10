@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665398830074,
+  "endTime": 1665400986224,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -107,6 +107,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1062738,
+      "num": 724870,
+      "word": "iPhone14出现首次大幅降价",
+      "onboard_time": 1665398006,
+      "rank": 13,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1016382,
       "num": 760771,
       "word": "男子随地吐痰致数名路过市民被传染",
@@ -153,6 +161,14 @@
       "onboard_time": 1665382043,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 869051,
+      "num": 869051,
+      "word": "一句话终止聊天",
+      "onboard_time": 1665396440,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 833205,
@@ -251,12 +267,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 643872,
+      "num": 643872,
+      "word": "今年豆瓣7分以上的国产剧",
+      "onboard_time": 1665397945,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 637753,
       "num": 637753,
       "word": "A股",
       "onboard_time": 1665371182,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 625053,
+      "num": 625053,
+      "word": "月亮",
+      "onboard_time": 1665398425,
+      "rank": 15,
+      "category": "自然"
     },
     {
       "raw_hot": 623900,
@@ -379,14 +411,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 506712,
-      "num": 506712,
-      "word": "一句话终止聊天",
-      "onboard_time": 1665396440,
-      "rank": 16,
-      "category": "情感"
-    },
-    {
       "raw_hot": 502932,
       "num": 502932,
       "word": "小学生因假期后连上7天课天天哭",
@@ -395,20 +419,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 502716,
+      "num": 502716,
+      "word": "美国将继续向乌克兰提供军事支持",
+      "onboard_time": 1665396323,
+      "rank": 11,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 494013,
       "num": 442075,
       "word": "泽连斯基针对空袭发声",
       "onboard_time": 1665386545,
       "rank": 20,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 493361,
-      "num": 493361,
-      "word": "美国将继续向乌克兰提供军事支持",
-      "onboard_time": 1665396323,
-      "rank": 11,
-      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 491330,
@@ -432,14 +456,6 @@
       "word": "爱的二八定律出品方没有嘉行",
       "onboard_time": 1665365963,
       "rank": 9,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 457948,
-      "num": 457948,
-      "word": "今年豆瓣7分以上的国产剧",
-      "onboard_time": 1665397945,
-      "rank": 10,
       "category": "影视"
     },
     {
@@ -507,14 +523,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 399519,
-      "num": 399519,
-      "word": "iPhone14出现首次大幅降价",
-      "onboard_time": 1665398006,
-      "rank": 13,
-      "category": "科技"
-    },
-    {
       "raw_hot": 397547,
       "num": 397547,
       "word": "海天味业市值蒸发330亿",
@@ -545,14 +553,6 @@
       "onboard_time": 1665385704,
       "rank": 49,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 383765,
-      "num": 383765,
-      "word": "月亮",
-      "onboard_time": 1665398425,
-      "rank": 15,
-      "category": "自然"
     },
     {
       "raw_hot": 378161,
@@ -819,6 +819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 258333,
+      "num": 258333,
+      "word": "青年演员原声台词爆发力",
+      "onboard_time": 1665399863,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 254455,
       "num": 254455,
       "word": "469只基金持仓海天味业",
@@ -833,6 +841,14 @@
       "onboard_time": 1665398543,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 237618,
+      "num": 237618,
+      "word": "基辅要求民众进入庇护所",
+      "onboard_time": 1665397223,
+      "rank": 46,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 237008,
@@ -873,6 +889,14 @@
       "onboard_time": 1665381143,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 223237,
+      "num": 212956,
+      "word": "乌军方称俄军发射了75枚导弹",
+      "onboard_time": 1665398904,
+      "rank": 20,
+      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 222167,
@@ -1027,6 +1051,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 177503,
+      "num": 177503,
+      "word": "没想到相亲会这么社死",
+      "onboard_time": 1665397402,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 177194,
       "num": 177194,
       "word": "马龙三登出色封面",
@@ -1073,14 +1105,6 @@
       "onboard_time": 1665366683,
       "rank": 27,
       "category": "科技,情感"
-    },
-    {
-      "raw_hot": 163218,
-      "num": 163218,
-      "word": "基辅要求民众进入庇护所",
-      "onboard_time": 1665397223,
-      "rank": 46,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 161537,
@@ -1203,6 +1227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 139555,
+      "num": 139555,
+      "word": "民警看邻座一心刷手机发现在洗钱",
+      "onboard_time": 1665399325,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138663,
       "num": 138663,
       "word": "独臂猴被围观应激师太手拦被误伤",
@@ -1249,6 +1281,14 @@
       "onboard_time": 1665309262,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130256,
+      "num": 130256,
+      "word": "俄官员警告西方不要触犯俄罗斯红线",
+      "onboard_time": 1665399863,
+      "rank": 33,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 128535,
@@ -1312,14 +1352,6 @@
       "word": "换季穿衣法则",
       "onboard_time": 1665392664,
       "rank": 39,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 120038,
-      "num": 120038,
-      "word": "没想到相亲会这么社死",
-      "onboard_time": 1665397402,
-      "rank": 47,
       "category": "幽默"
     },
     {
@@ -1393,6 +1425,14 @@
       "onboard_time": 1665394464,
       "rank": 39,
       "category": "影视,影视"
+    },
+    {
+      "raw_hot": 104324,
+      "num": 104324,
+      "word": "南京最美600米上线了",
+      "onboard_time": 1665400463,
+      "rank": 41,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 103980,
@@ -1728,6 +1768,14 @@
       "word": "不运动的借口有多离谱",
       "onboard_time": 1665385225,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18588,
+      "num": 315681,
+      "word": "雪天路滑众人合力推救护车上坡",
+      "onboard_time": 1665399625,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

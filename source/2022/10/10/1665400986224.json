@@ -1,0 +1,410 @@
+{
+  "runTime": 1665400986224,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2123018,
+        "num": 2123018,
+        "word": "医生建议成人每天睡够7小时",
+        "onboard_time": 1665388344,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 869051,
+        "num": 869051,
+        "word": "一句话终止聊天",
+        "onboard_time": 1665396440,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 37490,
+        "num": 730034,
+        "word": "红星何以照耀中国",
+        "onboard_time": 1665387865,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1062738,
+        "num": 724870,
+        "word": "iPhone14出现首次大幅降价",
+        "onboard_time": 1665398006,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 643872,
+        "num": 643872,
+        "word": "今年豆瓣7分以上的国产剧",
+        "onboard_time": 1665397945,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 714884,
+        "num": 641128,
+        "word": "网红兔狲狲思邈意外死亡",
+        "onboard_time": 1665381425,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 625053,
+        "num": 625053,
+        "word": "月亮",
+        "onboard_time": 1665398425,
+        "rank": 6,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 532274,
+        "num": 532274,
+        "word": "基辅遭到袭击已造成8死24伤",
+        "onboard_time": 1665391884,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 503607,
+        "num": 503607,
+        "word": "大四男生32门课近满分获清华直博",
+        "onboard_time": 1665391046,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502716,
+        "num": 502716,
+        "word": "美国将继续向乌克兰提供军事支持",
+        "onboard_time": 1665396323,
+        "rank": 9,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 391540,
+        "num": 391540,
+        "word": "周震南父母再成老赖",
+        "onboard_time": 1665382043,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341210,
+        "num": 341210,
+        "word": "抽检发现有的女装致癌物超标20多倍",
+        "onboard_time": 1665386665,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328725,
+        "num": 328725,
+        "word": "2022年诺贝尔经济学奖揭晓",
+        "onboard_time": 1665396922,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318765,
+        "num": 318765,
+        "word": "韩漫双开门冰箱走向现实",
+        "onboard_time": 1665393204,
+        "rank": 13,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 18588,
+        "num": 315681,
+        "word": "雪天路滑众人合力推救护车上坡",
+        "onboard_time": 1665399625,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314618,
+        "num": 314618,
+        "word": "狗子的暗示够明显了",
+        "onboard_time": 1665392844,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 287300,
+        "num": 287300,
+        "word": "为什么老师不在课间上厕所",
+        "onboard_time": 1665388406,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 258333,
+        "num": 258333,
+        "word": "青年演员原声台词爆发力",
+        "onboard_time": 1665399863,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 237618,
+        "num": 237618,
+        "word": "基辅要求民众进入庇护所",
+        "onboard_time": 1665397223,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 215050,
+        "num": 215050,
+        "word": "杨幂把幂式穿搭带进剧里",
+        "onboard_time": 1665376885,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 223237,
+        "num": 212956,
+        "word": "乌军方称俄军发射了75枚导弹",
+        "onboard_time": 1665398904,
+        "rank": 20,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 210523,
+        "num": 210523,
+        "word": "庄羽对虞美人说我暗恋你",
+        "onboard_time": 1665398543,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188138,
+        "num": 188138,
+        "word": "群星为爱的二八定律打call",
+        "onboard_time": 1665395665,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181890,
+        "num": 181890,
+        "word": "基辅正在遭遇第二波巨大爆炸",
+        "onboard_time": 1665386184,
+        "rank": 23,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 177503,
+        "num": 177503,
+        "word": "没想到相亲会这么社死",
+        "onboard_time": 1665397402,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176920,
+        "num": 176920,
+        "word": "女子骑车脖子遭横空风筝线割伤",
+        "onboard_time": 1665385044,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173407,
+        "num": 173407,
+        "word": "外婆花7天为宝宝做提篮床",
+        "onboard_time": 1665392126,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169538,
+        "num": 169538,
+        "word": "许凯回复彭昱畅你胆子最大了",
+        "onboard_time": 1665388764,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168265,
+        "num": 168265,
+        "word": "海天味业市值蒸发330亿",
+        "onboard_time": 1665384503,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 163168,
+        "num": 163168,
+        "word": "檀健次说爱的二八定律13号看起来",
+        "onboard_time": 1665394284,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139555,
+        "num": 139555,
+        "word": "民警看邻座一心刷手机发现在洗钱",
+        "onboard_time": 1665399325,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138257,
+        "num": 138257,
+        "word": "王鹤棣暖心捡宋丹丹靠垫细节",
+        "onboard_time": 1665390685,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137997,
+        "num": 137997,
+        "word": "送儿子上北大的店主曾被北大食堂挽留",
+        "onboard_time": 1665388522,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130256,
+        "num": 130256,
+        "word": "俄官员警告西方不要触犯俄罗斯红线",
+        "onboard_time": 1665399863,
+        "rank": 33,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 121646,
+        "num": 121646,
+        "word": "NewThing疑似抄袭ATEEZ编舞",
+        "onboard_time": 1665389666,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116357,
+        "num": 116357,
+        "word": "iPhone备忘录被曝莫名清空",
+        "onboard_time": 1665377007,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 115736,
+        "num": 115736,
+        "word": "老师上课放年轻时帅照惊艳全班",
+        "onboard_time": 1665386124,
+        "rank": 36,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 113785,
+        "num": 113785,
+        "word": "猫咪听了都直呼地道的猫语",
+        "onboard_time": 1665396683,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110533,
+        "num": 110533,
+        "word": "小脑斧舔爪爪的样子也太萌了",
+        "onboard_time": 1665395002,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109711,
+        "num": 109711,
+        "word": "老人公交车上直跺脚被护士看出中风",
+        "onboard_time": 1665383243,
+        "rank": 39,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 108950,
+        "num": 108950,
+        "word": "你好二十大",
+        "onboard_time": 1665385704,
+        "rank": 40,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 104324,
+        "num": 104324,
+        "word": "南京最美600米上线了",
+        "onboard_time": 1665400463,
+        "rank": 41,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 97439,
+        "num": 97439,
+        "word": "从设计院辞职当保安女孩回应",
+        "onboard_time": 1665382043,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95436,
+        "num": 95436,
+        "word": "泽连斯基针对空袭发声",
+        "onboard_time": 1665386545,
+        "rank": 43,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 89577,
+        "num": 89577,
+        "word": "俄媒称一导弹落在泽连斯基办公室附近街道",
+        "onboard_time": 1665386245,
+        "rank": 44,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 88404,
+        "num": 88404,
+        "word": "我的无用节俭行为",
+        "onboard_time": 1665393144,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79357,
+        "num": 79357,
+        "word": "刘诗诗说一念关山是群像戏",
+        "onboard_time": 1665384383,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 77832,
+        "num": 77832,
+        "word": "原来轻舟已过万重山这么伤感",
+        "onboard_time": 1665386724,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 77504,
+        "num": 77504,
+        "word": "少年的松弛感有多令人心动",
+        "onboard_time": 1665395184,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 76370,
+        "num": 76370,
+        "word": "小学生因假期后连上7天课天天哭",
+        "onboard_time": 1665380603,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#十九届七中全会#"
+    }
+  }
+}

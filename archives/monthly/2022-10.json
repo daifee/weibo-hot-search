@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665398830074,
+  "endTime": 1665400986224,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -1363,6 +1363,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1062738,
+      "num": 724870,
+      "word": "iPhone14出现首次大幅降价",
+      "onboard_time": 1665398006,
+      "rank": 13,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1060584,
       "num": 1060584,
       "word": "西安太冷冷冷冷了",
@@ -1777,6 +1785,14 @@
       "onboard_time": 1664845643,
       "rank": 3,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 869051,
+      "num": 869051,
+      "word": "一句话终止聊天",
+      "onboard_time": 1665396440,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 866207,
@@ -2753,6 +2769,14 @@
       "onboard_time": 1665200965,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 643872,
+      "num": 643872,
+      "word": "今年豆瓣7分以上的国产剧",
+      "onboard_time": 1665397945,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 641448,
@@ -3755,14 +3779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 506712,
-      "num": 506712,
-      "word": "一句话终止聊天",
-      "onboard_time": 1665396440,
-      "rank": 16,
-      "category": "情感"
-    },
-    {
       "raw_hot": 505654,
       "num": 310920,
       "word": "椰树集团直播场均销售额仅2500元",
@@ -3793,6 +3809,14 @@
       "onboard_time": 1665380603,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 502716,
+      "num": 502716,
+      "word": "美国将继续向乌克兰提供军事支持",
+      "onboard_time": 1665396323,
+      "rank": 11,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 499325,
@@ -3849,14 +3873,6 @@
       "onboard_time": 1665386545,
       "rank": 20,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 493361,
-      "num": 493361,
-      "word": "美国将继续向乌克兰提供军事支持",
-      "onboard_time": 1665396323,
-      "rank": 11,
-      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 491791,
@@ -4289,14 +4305,6 @@
       "onboard_time": 1664682442,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 457948,
-      "num": 457948,
-      "word": "今年豆瓣7分以上的国产剧",
-      "onboard_time": 1665397945,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 457710,
@@ -5065,14 +5073,6 @@
       "onboard_time": 1664864122,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 399519,
-      "num": 399519,
-      "word": "iPhone14出现首次大幅降价",
-      "onboard_time": 1665398006,
-      "rank": 13,
-      "category": "科技"
     },
     {
       "raw_hot": 399407,
@@ -7811,6 +7811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 258333,
+      "num": 258333,
+      "word": "青年演员原声台词爆发力",
+      "onboard_time": 1665399863,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 258077,
       "num": 258077,
       "word": "陈哲远综艺之神降临",
@@ -8483,6 +8491,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 237618,
+      "num": 237618,
+      "word": "基辅要求民众进入庇护所",
+      "onboard_time": 1665397223,
+      "rank": 46,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 237202,
       "num": 237202,
       "word": "小小年纪就活得如此明白",
@@ -8945,6 +8961,14 @@
       "onboard_time": 1665206304,
       "rank": 38,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 223237,
+      "num": 212956,
+      "word": "乌军方称俄军发射了75枚导弹",
+      "onboard_time": 1665398904,
+      "rank": 20,
+      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 223228,
@@ -10595,6 +10619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177503,
+      "num": 177503,
+      "word": "没想到相亲会这么社死",
+      "onboard_time": 1665397402,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 177194,
       "num": 177194,
       "word": "马龙三登出色封面",
@@ -11073,14 +11105,6 @@
       "onboard_time": 1664855002,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 163218,
-      "num": 163218,
-      "word": "基辅要求民众进入庇护所",
-      "onboard_time": 1665397223,
-      "rank": 46,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 163003,
@@ -12179,6 +12203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139555,
+      "num": 139555,
+      "word": "民警看邻座一心刷手机发现在洗钱",
+      "onboard_time": 1665399325,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139313,
       "num": 139313,
       "word": "李一桐哭戏爆发力",
@@ -12513,6 +12545,14 @@
       "onboard_time": 1665131064,
       "rank": 37,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 130256,
+      "num": 130256,
+      "word": "俄官员警告西方不要触犯俄罗斯红线",
+      "onboard_time": 1665399863,
+      "rank": 33,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 130178,
@@ -13089,14 +13129,6 @@
       "onboard_time": 1664883206,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120038,
-      "num": 120038,
-      "word": "没想到相亲会这么社死",
-      "onboard_time": 1665397402,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 119832,
@@ -13833,6 +13865,14 @@
       "onboard_time": 1664873061,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 104324,
+      "num": 104324,
+      "word": "南京最美600米上线了",
+      "onboard_time": 1665400463,
+      "rank": 41,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 104214,
@@ -16625,6 +16665,14 @@
       "onboard_time": 1664561715,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 18588,
+      "num": 315681,
+      "word": "雪天路滑众人合力推救护车上坡",
+      "onboard_time": 1665399625,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 17857,

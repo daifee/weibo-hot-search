@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/10 18:47:10
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/10 19:23:06
 </p>
 </blockquote>
 <p>
@@ -1035,6 +1035,12 @@ iPhone备忘录被曝莫名清空（热度：1063622）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23iPhone14%E5%87%BA%E7%8E%B0%E9%A6%96%E6%AC%A1%E5%A4%A7%E5%B9%85%E9%99%8D%E4%BB%B7%23" target="weibo">
+iPhone14出现首次大幅降价（热度：1062738）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E5%A4%AA%E5%86%B7%E5%86%B7%E5%86%B7%E5%86%B7%E4%BA%86%23" target="weibo">
 西安太冷冷冷冷了（热度：1060584）
 </a>
@@ -1343,6 +1349,12 @@ eStar七冠王（热度：894969）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E6%96%B9%E7%A7%B0%E6%9C%9D%E9%B2%9C%E5%90%91%E5%8D%8A%E5%B2%9B%E4%B8%9C%E9%83%A8%E6%B5%B7%E5%9F%9F%E5%8F%91%E5%B0%84%E4%B8%8D%E6%98%8E%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9%23" target="weibo">
 韩方称朝鲜向半岛东部海域发射不明弹道导弹（热度：881003）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%8F%A5%E8%AF%9D%E7%BB%88%E6%AD%A2%E8%81%8A%E5%A4%A9%23" target="weibo">
+一句话终止聊天（热度：869051）
 </a>
 </li>
 
@@ -2075,6 +2087,12 @@ iPhone5C被苹果列入过时产品（热度：662384）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%B8%A6%E5%8E%8C%E5%AD%A6%E7%94%B7%E5%AD%A9%E5%B7%A5%E5%9C%B0%E6%90%AC%E9%92%A2%E7%AD%8B%23" target="weibo">
 爸爸带厌学男孩工地搬钢筋（热度：644470）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E8%B1%86%E7%93%A37%E5%88%86%E4%BB%A5%E4%B8%8A%E7%9A%84%E5%9B%BD%E4%BA%A7%E5%89%A7%23" target="weibo">
+今年豆瓣7分以上的国产剧（热度：643872）
 </a>
 </li>
 
@@ -2829,12 +2847,6 @@ TF家族三代路演（热度：515309）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%8F%A5%E8%AF%9D%E7%BB%88%E6%AD%A2%E8%81%8A%E5%A4%A9%23" target="weibo">
-一句话终止聊天（热度：506712）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A4%B0%E6%A0%91%E9%9B%86%E5%9B%A2%E7%9B%B4%E6%92%AD%E5%9C%BA%E5%9D%87%E9%94%80%E5%94%AE%E9%A2%9D%E4%BB%852500%E5%85%83%23" target="weibo">
 椰树集团直播场均销售额仅2500元（热度：505654）
 </a>
@@ -2855,6 +2867,12 @@ TF家族三代路演（热度：515309）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%9B%A0%E5%81%87%E6%9C%9F%E5%90%8E%E8%BF%9E%E4%B8%8A7%E5%A4%A9%E8%AF%BE%E5%A4%A9%E5%A4%A9%E5%93%AD%23" target="weibo">
 小学生因假期后连上7天课天天哭（热度：502932）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B0%86%E7%BB%A7%E7%BB%AD%E5%90%91%E4%B9%8C%E5%85%8B%E5%85%B0%E6%8F%90%E4%BE%9B%E5%86%9B%E4%BA%8B%E6%94%AF%E6%8C%81%23" target="weibo">
+美国将继续向乌克兰提供军事支持（热度：502716）
 </a>
 </li>
 
@@ -2897,12 +2915,6 @@ TF家族三代路演（热度：515309）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E9%92%88%E5%AF%B9%E7%A9%BA%E8%A2%AD%E5%8F%91%E5%A3%B0%23" target="weibo">
 泽连斯基针对空袭发声（热度：494013）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B0%86%E7%BB%A7%E7%BB%AD%E5%90%91%E4%B9%8C%E5%85%8B%E5%85%B0%E6%8F%90%E4%BE%9B%E5%86%9B%E4%BA%8B%E6%94%AF%E6%8C%81%23" target="weibo">
-美国将继续向乌克兰提供军事支持（热度：493361）
 </a>
 </li>
 
@@ -3227,12 +3239,6 @@ SuperM最新练习室（热度：477667）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%A7%A6%E9%9C%84%E8%B4%A4%E5%96%8A%E9%BA%A6%E7%AC%91%E6%AD%BB%23" target="weibo">
 被王鹤棣秦霄贤喊麦笑死（热度：458666）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E8%B1%86%E7%93%A37%E5%88%86%E4%BB%A5%E4%B8%8A%E7%9A%84%E5%9B%BD%E4%BA%A7%E5%89%A7%23" target="weibo">
-今年豆瓣7分以上的国产剧（热度：457948）
 </a>
 </li>
 
@@ -3809,12 +3815,6 @@ RNG战胜CFO（热度：402485）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A0%B9%E6%BA%90%E6%9D%8E%E8%81%82%E6%AD%A3%E5%BC%8F%E7%BA%A6%E4%BC%9A%23" target="weibo">
 张根源李聂正式约会（热度：399626）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23iPhone14%E5%87%BA%E7%8E%B0%E9%A6%96%E6%AC%A1%E5%A4%A7%E5%B9%85%E9%99%8D%E4%BB%B7%23" target="weibo">
-iPhone14出现首次大幅降价（热度：399519）
 </a>
 </li>
 
@@ -5871,6 +5871,12 @@ RNG对战CFO（热度：259354）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B9%B4%E6%BC%94%E5%91%98%E5%8E%9F%E5%A3%B0%E5%8F%B0%E8%AF%8D%E7%88%86%E5%8F%91%E5%8A%9B%23" target="weibo">
+青年演员原声台词爆发力（热度：258333）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E7%BB%BC%E8%89%BA%E4%B9%8B%E7%A5%9E%E9%99%8D%E4%B8%B4%23" target="weibo">
 陈哲远综艺之神降临（热度：258077）
 </a>
@@ -6005,12 +6011,6 @@ RNG对战CFO（热度：259354）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%BC%9F%E6%8A%B1%E5%A5%B6%E5%A5%B6%E8%85%BF%E9%98%BB%E6%AD%A2%E5%AE%B0%E4%BB%8E%E5%B0%8F%E5%85%BB%E5%A4%A7%E7%9A%84%E9%B8%AD%E5%AD%90%23" target="weibo">
 姐弟抱奶奶腿阻止宰从小养大的鸭子（热度：253285）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%A4%A7%E5%BF%83%E8%84%8F%23" target="weibo">
-王楚钦大心脏（热度：253117）
 </a>
 </li>
 
