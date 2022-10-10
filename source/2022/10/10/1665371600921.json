@@ -1,0 +1,410 @@
+{
+  "runTime": 1665371600921,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1560379,
+        "num": 1560379,
+        "word": "DRX对战TES",
+        "onboard_time": 1665369082,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 771882,
+        "num": 771882,
+        "word": "商场回应影院不让带蜜雪冰城",
+        "onboard_time": 1665361284,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14908,
+        "num": 741009,
+        "word": "中国人的书信有多美",
+        "onboard_time": 1665276205,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1162865,
+        "num": 740555,
+        "word": "DRX战胜TES",
+        "onboard_time": 1665371182,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 727188,
+        "num": 727188,
+        "word": "女子路边发现80年代供销社",
+        "onboard_time": 1665365184,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 687499,
+        "num": 687499,
+        "word": "iPhone14车祸检测坐过山车会报警",
+        "onboard_time": 1665364944,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 618387,
+        "num": 618387,
+        "word": "PDD已起诉多人侵犯名誉权",
+        "onboard_time": 1665329965,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 581427,
+        "num": 581427,
+        "word": "海天味业股价大跌",
+        "onboard_time": 1665369383,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 494044,
+        "num": 494044,
+        "word": "导演程耳建议王一博偶尔独处",
+        "onboard_time": 1665371062,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 491954,
+        "num": 491954,
+        "word": "教育局回应中学收20元树叶费",
+        "onboard_time": 1665359544,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 778596,
+        "num": 477099,
+        "word": "全网最欠的小羊",
+        "onboard_time": 1665370103,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 452972,
+        "num": 452972,
+        "word": "杨颖登封ELLE11月刊",
+        "onboard_time": 1665367824,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 421455,
+        "num": 421455,
+        "word": "爱的二八定律出品方没有嘉行",
+        "onboard_time": 1665365963,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 387179,
+        "num": 387179,
+        "word": "韩剧继承者们首播9周年",
+        "onboard_time": 1665360984,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 41332,
+        "num": 378525,
+        "word": "我的世界杯回忆",
+        "onboard_time": 1665370824,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378161,
+        "num": 378161,
+        "word": "iPhoneSE4或继续保留刘海",
+        "onboard_time": 1665367284,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 343186,
+        "num": 343186,
+        "word": "普京称克里米亚大桥爆炸是恐怖主义行为",
+        "onboard_time": 1665364346,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 283785,
+        "num": 283785,
+        "word": "男孩得胃病竟因妈妈染幽门螺杆菌",
+        "onboard_time": 1665350350,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269701,
+        "num": 269701,
+        "word": "嗜睡也属于睡眠障碍",
+        "onboard_time": 1665368122,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258704,
+        "num": 258704,
+        "word": "马龙发博庆祝夺冠",
+        "onboard_time": 1665370041,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292902,
+        "num": 258469,
+        "word": "二手iPhone13价格大涨",
+        "onboard_time": 1665371003,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 254455,
+        "num": 254455,
+        "word": "469只基金持仓海天味业",
+        "onboard_time": 1665369682,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 251476,
+        "num": 251476,
+        "word": "未来三个月17.1%受访居民打算购房",
+        "onboard_time": 1665364104,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 249905,
+        "num": 249905,
+        "word": "RNG战胜CFO",
+        "onboard_time": 1665367045,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 233532,
+        "num": 233532,
+        "word": "内蒙古增本土确诊119例无症状559例",
+        "onboard_time": 1665365004,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230518,
+        "num": 230518,
+        "word": "抑郁症不是简单的坏心情",
+        "onboard_time": 1665360925,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198197,
+        "num": 198197,
+        "word": "马龙珍惜在球队的每一天",
+        "onboard_time": 1665366263,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191179,
+        "num": 191179,
+        "word": "我们这十年开播",
+        "onboard_time": 1665369203,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179522,
+        "num": 179522,
+        "word": "湖人vs勇士",
+        "onboard_time": 1665361164,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179440,
+        "num": 179440,
+        "word": "连猫猫都穿上了羽绒服",
+        "onboard_time": 1665357258,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173575,
+        "num": 173575,
+        "word": "A股",
+        "onboard_time": 1665371182,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 158284,
+        "num": 158284,
+        "word": "安徽一老人种出104斤巨型冬瓜",
+        "onboard_time": 1665370641,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156085,
+        "num": 156085,
+        "word": "女子吐槽丈夫脑袋掉色枕头焦黄",
+        "onboard_time": 1665334697,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153679,
+        "num": 153679,
+        "word": "你有手机内存焦虑吗",
+        "onboard_time": 1665366683,
+        "rank": 33,
+        "category": "科技,情感"
+      },
+      {
+        "raw_hot": 151491,
+        "num": 151491,
+        "word": "退伍军人救落水女童累到无法上岸",
+        "onboard_time": 1665364764,
+        "rank": 34,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 144324,
+        "num": 144324,
+        "word": "房东称遇神仙租客打扫得一尘不染",
+        "onboard_time": 1665333380,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133321,
+        "num": 133321,
+        "word": "大巴司机吃槟榔1年查出口腔癌",
+        "onboard_time": 1665332122,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128402,
+        "num": 128402,
+        "word": "潜艇突遇水下断崖官兵180秒自救",
+        "onboard_time": 1665369563,
+        "rank": 37,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 126141,
+        "num": 126141,
+        "word": "员工私下换班出车祸公司拒认定工伤",
+        "onboard_time": 1665344470,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121327,
+        "num": 121327,
+        "word": "许凯被杨幂壁咚后不敢动",
+        "onboard_time": 1665326727,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119271,
+        "num": 119271,
+        "word": "iPhoneSE4或增加灵动岛",
+        "onboard_time": 1665370402,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 117860,
+        "num": 117860,
+        "word": "北京新增13例本土确诊",
+        "onboard_time": 1665361347,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116329,
+        "num": 116329,
+        "word": "北京公积金5年以上贷款利率已下调至3.1%",
+        "onboard_time": 1665344950,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108096,
+        "num": 108096,
+        "word": "第一次喜欢的那个人还联系吗",
+        "onboard_time": 1665330263,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111469,
+        "num": 107822,
+        "word": "运城疫情防控",
+        "onboard_time": 1665363324,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106617,
+        "num": 106617,
+        "word": "母亲穿西装送女儿出嫁被当成闺蜜",
+        "onboard_time": 1665323785,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101298,
+        "num": 101298,
+        "word": "苏炳添再次起诉新东方子公司侵权",
+        "onboard_time": 1665337754,
+        "rank": 46,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 93097,
+        "num": 93097,
+        "word": "10月9日新增本土无症状1566例",
+        "onboard_time": 1665364944,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89609,
+        "num": 89609,
+        "word": "专治恋爱瘾的聊天记录",
+        "onboard_time": 1665303982,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 81153,
+        "num": 81153,
+        "word": "普尔单节18分",
+        "onboard_time": 1665371542,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#领航#"
+    }
+  }
+}

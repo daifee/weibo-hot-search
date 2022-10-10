@@ -1,7 +1,15 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665368996892,
+  "endTime": 1665371600921,
   "band_list": [
+    {
+      "raw_hot": 1560379,
+      "num": 1560379,
+      "word": "DRX对战TES",
+      "onboard_time": 1665369082,
+      "rank": 0,
+      "category": "游戏"
+    },
     {
       "raw_hot": 1318290,
       "num": 1318290,
@@ -11,8 +19,16 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1162865,
+      "num": 740555,
+      "word": "DRX战胜TES",
+      "onboard_time": 1665371182,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1000872,
-      "num": 626444,
+      "num": 687499,
       "word": "iPhone14车祸检测坐过山车会报警",
       "onboard_time": 1665364944,
       "rank": 3,
@@ -27,11 +43,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 778596,
+      "num": 477099,
+      "word": "全网最欠的小羊",
+      "onboard_time": 1665370103,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 753302,
       "num": 536563,
       "word": "男孩得胃病竟因妈妈染幽门螺杆菌",
       "onboard_time": 1665350350,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 727188,
+      "num": 727188,
+      "word": "女子路边发现80年代供销社",
+      "onboard_time": 1665365184,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -57,6 +89,14 @@
       "onboard_time": 1665360984,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 581427,
+      "num": 581427,
+      "word": "海天味业股价大跌",
+      "onboard_time": 1665369383,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 576424,
@@ -107,12 +147,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 514618,
-      "num": 514618,
-      "word": "女子路边发现80年代供销社",
-      "onboard_time": 1665365184,
+      "raw_hot": 494044,
+      "num": 494044,
+      "word": "导演程耳建议王一博偶尔独处",
+      "onboard_time": 1665371062,
       "rank": 8,
-      "category": "社会新闻"
+      "category": "作品衍生"
     },
     {
       "raw_hot": 491330,
@@ -129,6 +169,14 @@
       "onboard_time": 1665365963,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 452972,
+      "num": 452972,
+      "word": "杨颖登封ELLE11月刊",
+      "onboard_time": 1665367824,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 442288,
@@ -171,8 +219,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 369103,
-      "num": 369103,
+      "raw_hot": 378161,
+      "num": 378161,
       "word": "iPhoneSE4或继续保留刘海",
       "onboard_time": 1665367284,
       "rank": 11,
@@ -227,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 292902,
+      "num": 258469,
+      "word": "二手iPhone13价格大涨",
+      "onboard_time": 1665371003,
+      "rank": 20,
+      "category": "科技"
+    },
+    {
       "raw_hot": 283314,
       "num": 283314,
       "word": "许凯被杨幂壁咚后不敢动",
@@ -235,12 +291,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 268428,
-      "num": 268428,
-      "word": "杨颖登封ELLE11月刊",
-      "onboard_time": 1665367824,
-      "rank": 15,
-      "category": "作品衍生,时尚"
+      "raw_hot": 269701,
+      "num": 269701,
+      "word": "嗜睡也属于睡眠障碍",
+      "onboard_time": 1665368122,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267879,
@@ -265,6 +321,22 @@
       "onboard_time": 1665364764,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 258704,
+      "num": 258704,
+      "word": "马龙发博庆祝夺冠",
+      "onboard_time": 1665370041,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 254455,
+      "num": 254455,
+      "word": "469只基金持仓海天味业",
+      "onboard_time": 1665369682,
+      "rank": 21,
+      "category": "财经"
     },
     {
       "raw_hot": 237008,
@@ -315,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198197,
+      "num": 198197,
+      "word": "马龙珍惜在球队的每一天",
+      "onboard_time": 1665366263,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196391,
       "num": 196391,
       "word": "陈哲远沈月直播看自己亲密戏",
@@ -329,6 +409,14 @@
       "onboard_time": 1665363324,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191179,
+      "num": 191179,
+      "word": "我们这十年开播",
+      "onboard_time": 1665369203,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 190820,
@@ -347,11 +435,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 186011,
-      "num": 186011,
-      "word": "马龙珍惜在球队的每一天",
-      "onboard_time": 1665366263,
-      "rank": 22,
+      "raw_hot": 179522,
+      "num": 179522,
+      "word": "湖人vs勇士",
+      "onboard_time": 1665361164,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -371,6 +459,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 173575,
+      "num": 173575,
+      "word": "A股",
+      "onboard_time": 1665371182,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 163722,
       "num": 163722,
       "word": "你有手机内存焦虑吗",
@@ -388,11 +484,19 @@
     },
     {
       "raw_hot": 159819,
-      "num": 159819,
+      "num": 378525,
       "word": "我的世界杯回忆",
       "onboard_time": 1665368362,
       "rank": 28,
       "category": "体育,情感"
+    },
+    {
+      "raw_hot": 158284,
+      "num": 158284,
+      "word": "安徽一老人种出104斤巨型冬瓜",
+      "onboard_time": 1665370641,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157525,
@@ -425,14 +529,6 @@
       "onboard_time": 1665368782,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152037,
-      "num": 152037,
-      "word": "湖人vs勇士",
-      "onboard_time": 1665361164,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 147605,
@@ -515,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128402,
+      "num": 128402,
+      "word": "潜艇突遇水下断崖官兵180秒自救",
+      "onboard_time": 1665369563,
+      "rank": 37,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 127322,
       "num": 127322,
       "word": "阿森纳3比2利物浦",
@@ -539,19 +643,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119271,
+      "num": 119271,
+      "word": "iPhoneSE4或增加灵动岛",
+      "onboard_time": 1665370402,
+      "rank": 40,
+      "category": "科技"
+    },
+    {
       "raw_hot": 118571,
       "num": 118571,
       "word": "女子刷单被骗15万丈夫带女儿出走",
       "onboard_time": 1665310703,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117759,
-      "num": 117759,
-      "word": "嗜睡也属于睡眠障碍",
-      "onboard_time": 1665368122,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -715,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 81153,
+      "num": 81153,
+      "word": "普尔单节18分",
+      "onboard_time": 1665371542,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78741,
       "num": 78741,
       "word": "熊孩子不上学躲自家衣柜玩手机",
@@ -828,7 +940,7 @@
     },
     {
       "raw_hot": 17793,
-      "num": 648171,
+      "num": 741009,
       "word": "中国人的书信有多美",
       "onboard_time": 1665276205,
       "rank": 2,

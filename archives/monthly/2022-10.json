@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665368996892,
+  "endTime": 1665371600921,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -603,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1560379,
+      "num": 1560379,
+      "word": "DRX对战TES",
+      "onboard_time": 1665369082,
+      "rank": 0,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1552975,
       "num": 1552975,
       "word": "挪威海底电缆断裂",
@@ -1083,6 +1091,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1162865,
+      "num": 740555,
+      "word": "DRX战胜TES",
+      "onboard_time": 1665371182,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1141818,
       "num": 1141818,
       "word": "国乒女团8连胜强势夺冠",
@@ -1380,7 +1396,7 @@
     },
     {
       "raw_hot": 1000872,
-      "num": 626444,
+      "num": 687499,
       "word": "iPhone14车祸检测坐过山车会报警",
       "onboard_time": 1665364944,
       "rank": 3,
@@ -1923,6 +1939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 778596,
+      "num": 477099,
+      "word": "全网最欠的小羊",
+      "onboard_time": 1665370103,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 778454,
       "num": 778454,
       "word": "新婚夜护士新娘给新郎扎针输液",
@@ -2089,6 +2113,14 @@
       "onboard_time": 1664941161,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 727188,
+      "num": 727188,
+      "word": "女子路边发现80年代供销社",
+      "onboard_time": 1665365184,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 726298,
@@ -2891,6 +2923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 581427,
+      "num": 581427,
+      "word": "海天味业股价大跌",
+      "onboard_time": 1665369383,
+      "rank": 7,
+      "category": "财经"
+    },
+    {
       "raw_hot": 579394,
       "num": 349010,
       "word": "离异女子与初恋再婚组成六口之家",
@@ -3395,14 +3435,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 514618,
-      "num": 514618,
-      "word": "女子路边发现80年代供销社",
-      "onboard_time": 1665365184,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 513903,
       "num": 513903,
       "word": "中国男团vs泰国男团",
@@ -3561,6 +3593,14 @@
       "onboard_time": 1664807784,
       "rank": 35,
       "category": "其它"
+    },
+    {
+      "raw_hot": 494044,
+      "num": 494044,
+      "word": "导演程耳建议王一博偶尔独处",
+      "onboard_time": 1665371062,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 491791,
@@ -4065,6 +4105,14 @@
       "onboard_time": 1664573532,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 452972,
+      "num": 452972,
+      "word": "杨颖登封ELLE11月刊",
+      "onboard_time": 1665367824,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 452279,
@@ -5059,6 +5107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 378161,
+      "num": 378161,
+      "word": "iPhoneSE4或继续保留刘海",
+      "onboard_time": 1665367284,
+      "rank": 11,
+      "category": "科技"
+    },
+    {
       "raw_hot": 377808,
       "num": 377808,
       "word": "睡不好头昏沉可能是大脑发出警告",
@@ -5185,14 +5241,6 @@
       "onboard_time": 1665015860,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 369103,
-      "num": 369103,
-      "word": "iPhoneSE4或继续保留刘海",
-      "onboard_time": 1665367284,
-      "rank": 11,
-      "category": "科技"
     },
     {
       "raw_hot": 368899,
@@ -6363,6 +6411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 292902,
+      "num": 258469,
+      "word": "二手iPhone13价格大涨",
+      "onboard_time": 1665371003,
+      "rank": 20,
+      "category": "科技"
+    },
+    {
       "raw_hot": 292733,
       "num": 292733,
       "word": "王曼昱3比1伊藤美诚",
@@ -6971,6 +7027,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 269701,
+      "num": 269701,
+      "word": "嗜睡也属于睡眠障碍",
+      "onboard_time": 1665368122,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 269522,
       "num": 269522,
       "word": "金秋天TMA舞台",
@@ -6993,14 +7057,6 @@
       "onboard_time": 1664963365,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 268428,
-      "num": 268428,
-      "word": "杨颖登封ELLE11月刊",
-      "onboard_time": 1665367824,
-      "rank": 15,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 268308,
@@ -7259,6 +7315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 258704,
+      "num": 258704,
+      "word": "马龙发博庆祝夺冠",
+      "onboard_time": 1665370041,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 258470,
       "num": 258470,
       "word": "特优声2二公舞台好适合国庆",
@@ -7369,6 +7433,14 @@
       "onboard_time": 1665138621,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254455,
+      "num": 254455,
+      "word": "469只基金持仓海天味业",
+      "onboard_time": 1665369682,
+      "rank": 21,
+      "category": "财经"
     },
     {
       "raw_hot": 254330,
@@ -9155,6 +9227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198197,
+      "num": 198197,
+      "word": "马龙珍惜在球队的每一天",
+      "onboard_time": 1665366263,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198050,
       "num": 198050,
       "word": "王楚钦3比1达科",
@@ -9395,6 +9475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191179,
+      "num": 191179,
+      "word": "我们这十年开播",
+      "onboard_time": 1665369203,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 191128,
       "num": 191128,
       "word": "萌娃精心打扮当花童被遗忘委屈抹泪",
@@ -9619,14 +9707,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 186011,
-      "num": 186011,
-      "word": "马龙珍惜在球队的每一天",
-      "onboard_time": 1665366263,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 185744,
       "num": 185744,
       "word": "刘雨昕街舞battle好会撩",
@@ -9827,6 +9907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179522,
+      "num": 179522,
+      "word": "湖人vs勇士",
+      "onboard_time": 1665361164,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179369,
       "num": 179369,
       "word": "3岁女儿手洗衣服称心疼妈妈",
@@ -10025,6 +10113,14 @@
       "onboard_time": 1665028041,
       "rank": 47,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 173575,
+      "num": 173575,
+      "word": "A股",
+      "onboard_time": 1665371182,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 173471,
@@ -10516,7 +10612,7 @@
     },
     {
       "raw_hot": 159819,
-      "num": 159819,
+      "num": 378525,
       "word": "我的世界杯回忆",
       "onboard_time": 1665368362,
       "rank": 28,
@@ -10577,6 +10673,14 @@
       "onboard_time": 1664797465,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 158284,
+      "num": 158284,
+      "word": "安徽一老人种出104斤巨型冬瓜",
+      "onboard_time": 1665370641,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158276,
@@ -10825,14 +10929,6 @@
       "onboard_time": 1664940802,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 152037,
-      "num": 152037,
-      "word": "湖人vs勇士",
-      "onboard_time": 1665361164,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 151869,
@@ -11859,6 +11955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128402,
+      "num": 128402,
+      "word": "潜艇突遇水下断崖官兵180秒自救",
+      "onboard_time": 1665369563,
+      "rank": 37,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 128347,
       "num": 128347,
       "word": "于登登是陆炎初恋",
@@ -12371,6 +12475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119271,
+      "num": 119271,
+      "word": "iPhoneSE4或增加灵动岛",
+      "onboard_time": 1665370402,
+      "rank": 40,
+      "category": "科技"
+    },
+    {
       "raw_hot": 119047,
       "num": 119047,
       "word": "张彬彬说庄羽只是犯了恋爱瘾",
@@ -12433,14 +12545,6 @@
       "onboard_time": 1665059604,
       "rank": 39,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 117759,
-      "num": 117759,
-      "word": "嗜睡也属于睡眠障碍",
-      "onboard_time": 1665368122,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117755,
@@ -14032,6 +14136,14 @@
       "word": "中国女排对阵荷兰女排",
       "onboard_time": 1665079334,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 81153,
+      "num": 81153,
+      "word": "普尔单节18分",
+      "onboard_time": 1665371542,
+      "rank": 49,
       "category": "体育"
     },
     {
