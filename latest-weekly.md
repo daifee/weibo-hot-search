@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/10 00:35:08 ~ 2022/10/11 03:30:17
+本榜单时间：2022/10/10 00:35:08 ~ 2022/10/11 03:44:00
 </p>
 </blockquote>
 <p>
@@ -1683,6 +1683,12 @@ iPhone15系列仍将采用高通基带（热度：68684）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E9%80%9A%E6%8A%A5%E4%B8%AD%E5%AD%A6%E6%94%B620%E5%85%83%E6%A0%91%E5%8F%B6%E8%B4%B9%23" target="weibo">
+教育局通报中学收20元树叶费（热度：39322）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BC%A0%E8%A1%A8%E8%87%AA%E6%B5%8B%E5%97%9C%E7%9D%A1%E7%A8%8B%E5%BA%A6%23" target="weibo">
 一张表自测嗜睡程度（热度：38309）
 </a>
@@ -1707,8 +1713,8 @@ iPhone15系列仍将采用高通基带（热度：68684）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E9%80%9A%E6%8A%A5%E4%B8%AD%E5%AD%A6%E6%94%B620%E5%85%83%E6%A0%91%E5%8F%B6%E8%B4%B9%23" target="weibo">
-教育局通报中学收20元树叶费（热度：28537）
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%A0%E4%BB%A3%E5%81%9A%E6%A0%B8%E9%85%B8%E4%B8%8A%E6%B5%B780%E4%BD%99%E4%BA%BA%E8%A2%AB%E8%A1%8C%E6%94%BF%E5%A4%84%E7%BD%9A%23" target="weibo">
+因代做核酸上海80余人被行政处罚（热度：28217）
 </a>
 </li>
 
@@ -1743,12 +1749,6 @@ iPhone15系列仍将采用高通基带（热度：68684）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%A0%E4%BB%A3%E5%81%9A%E6%A0%B8%E9%85%B8%E4%B8%8A%E6%B5%B780%E4%BD%99%E4%BA%BA%E8%A2%AB%E8%A1%8C%E6%94%BF%E5%A4%84%E7%BD%9A%23" target="weibo">
-因代做核酸上海80余人被行政处罚（热度：15528）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%99%E7%88%B1%E7%BE%8E%E7%9A%84%E5%A6%88%E5%A6%88%E4%B9%B0%E4%BA%86%E4%B8%80%E6%94%AF%E5%8F%A3%E7%BA%A2%23" target="weibo">
 给爱美的妈妈买了一支口红（热度：15514）
 </a>
@@ -1767,26 +1767,26 @@ NH大满贯（热度：13764）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%AB%E8%AE%A9%E8%80%81%E9%BC%A0%E7%BB%99%E5%AE%83%E6%89%93%E4%BA%86%23" target="weibo">
+别让老鼠给它打了（热度：12052）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232%E4%B8%AA%E5%8A%A8%E4%BD%9C%E5%A2%9E%E5%BC%BA%E8%83%8C%E8%82%8C%23" target="weibo">
 2个动作增强背肌（热度：11443）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%AB%E8%AE%A9%E8%80%81%E9%BC%A0%E7%BB%99%E5%AE%83%E6%89%93%E4%BA%86%23" target="weibo">
-别让老鼠给它打了（热度：9878）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%BD%E5%90%83%E5%88%B0%E4%BC%9A%E4%B8%8A%E7%98%BE%E7%9A%84%E5%B0%8F%E8%8A%B1%E5%8D%B7%23" target="weibo">
+好吃到会上瘾的小花卷（热度：8096）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%232024%E6%AC%A7%E6%B4%B2%E6%9D%AF%E9%A2%84%E9%80%89%E8%B5%9B%E6%8A%BD%E7%AD%BE%23" target="weibo">
 2024欧洲杯预选赛抽签（热度：7867）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%BD%E5%90%83%E5%88%B0%E4%BC%9A%E4%B8%8A%E7%98%BE%E7%9A%84%E5%B0%8F%E8%8A%B1%E5%8D%B7%23" target="weibo">
-好吃到会上瘾的小花卷（热度：7830）
 </a>
 </li>
 

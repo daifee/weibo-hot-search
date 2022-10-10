@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665430217741,
+  "endTime": 1665431040732,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -2227,6 +2227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39322,
+      "num": 36913,
+      "word": "教育局通报中学收20元树叶费",
+      "onboard_time": 1665427813,
+      "rank": 46,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 38309,
       "num": 26171,
       "word": "一张表自测嗜睡程度",
@@ -2259,12 +2267,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28537,
-      "num": 28537,
-      "word": "教育局通报中学收20元树叶费",
-      "onboard_time": 1665427813,
-      "rank": 46,
-      "category": "教育,社会新闻"
+      "raw_hot": 28217,
+      "num": 23799,
+      "word": "因代做核酸上海80余人被行政处罚",
+      "onboard_time": 1665429371,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27890,
@@ -2307,14 +2315,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 15528,
-      "num": 15528,
-      "word": "因代做核酸上海80余人被行政处罚",
-      "onboard_time": 1665429371,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 15514,
       "num": 15514,
       "word": "给爱美的妈妈买了一支口红",
@@ -2339,6 +2339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 12052,
+      "num": 12052,
+      "word": "别让老鼠给它打了",
+      "onboard_time": 1665428771,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 11443,
       "num": 11443,
       "word": "2个动作增强背肌",
@@ -2347,12 +2355,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 9878,
-      "num": 9878,
-      "word": "别让老鼠给它打了",
-      "onboard_time": 1665428771,
-      "rank": 46,
-      "category": "幽默"
+      "raw_hot": 8096,
+      "num": 8096,
+      "word": "好吃到会上瘾的小花卷",
+      "onboard_time": 1665429611,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 7867,
@@ -2361,14 +2369,6 @@
       "onboard_time": 1665351852,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 7830,
-      "num": 7830,
-      "word": "好吃到会上瘾的小花卷",
-      "onboard_time": 1665429611,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 7453,
