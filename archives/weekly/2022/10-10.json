@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665431040732,
+  "endTime": 1665433711955,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -2171,6 +2171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 54735,
+      "num": 28639,
+      "word": "因代做核酸上海80余人被行政处罚",
+      "onboard_time": 1665429371,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52440,
       "num": 52440,
       "word": "北京新增本土感染者11例",
@@ -2267,14 +2275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28217,
-      "num": 23799,
-      "word": "因代做核酸上海80余人被行政处罚",
-      "onboard_time": 1665429371,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 27890,
       "num": 315681,
       "word": "雪天路滑众人合力推救护车上坡",
@@ -2339,12 +2339,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 12052,
-      "num": 12052,
+      "raw_hot": 13080,
+      "num": 13080,
       "word": "别让老鼠给它打了",
       "onboard_time": 1665428771,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 11570,
+      "num": 11570,
+      "word": "北京目前存在15条传播链",
+      "onboard_time": 1665432072,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11443,
@@ -2355,8 +2363,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 8096,
-      "num": 8096,
+      "raw_hot": 10260,
+      "num": 10260,
+      "word": "来沪返沪人员抵沪后需三天三检",
+      "onboard_time": 1665432490,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9679,
+      "num": 9679,
       "word": "好吃到会上瘾的小花卷",
       "onboard_time": 1665429611,
       "rank": 48,
@@ -2409,6 +2425,30 @@
       "onboard_time": 1665344230,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 6372,
+      "num": 6372,
+      "word": "这猫是只刺客吧",
+      "onboard_time": 1665433270,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 6294,
+      "num": 6294,
+      "word": "用浆板救2人的男孩正认定见义勇为",
+      "onboard_time": 1665433571,
+      "rank": 48,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 6201,
+      "num": 6201,
+      "word": "GDP稳居河南前三的选手",
+      "onboard_time": 1665432910,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 6156,
