@@ -1,0 +1,410 @@
+{
+  "runTime": 1665368996892,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 963062,
+        "num": 963062,
+        "word": "商场回应影院不让带蜜雪冰城",
+        "onboard_time": 1665361284,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 736669,
+        "num": 736669,
+        "word": "PDD已起诉多人侵犯名誉权",
+        "onboard_time": 1665329965,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 17793,
+        "num": 648171,
+        "word": "中国人的书信有多美",
+        "onboard_time": 1665276205,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1000872,
+        "num": 626444,
+        "word": "iPhone14车祸检测坐过山车会报警",
+        "onboard_time": 1665364944,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 602418,
+        "num": 602418,
+        "word": "韩剧继承者们首播9周年",
+        "onboard_time": 1665360984,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 576424,
+        "num": 576424,
+        "word": "教育局回应中学收20元树叶费",
+        "onboard_time": 1665359544,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 545148,
+        "num": 545148,
+        "word": "普京称克里米亚大桥爆炸是恐怖主义行为",
+        "onboard_time": 1665364346,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 524978,
+        "num": 524978,
+        "word": "未来三个月17.1%受访居民打算购房",
+        "onboard_time": 1665364104,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 514618,
+        "num": 514618,
+        "word": "女子路边发现80年代供销社",
+        "onboard_time": 1665365184,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474840,
+        "num": 474840,
+        "word": "爱的二八定律出品方没有嘉行",
+        "onboard_time": 1665365963,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 402485,
+        "num": 402485,
+        "word": "RNG战胜CFO",
+        "onboard_time": 1665367045,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 369103,
+        "num": 369103,
+        "word": "iPhoneSE4或继续保留刘海",
+        "onboard_time": 1665367284,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 355389,
+        "num": 355389,
+        "word": "男孩得胃病竟因妈妈染幽门螺杆菌",
+        "onboard_time": 1665350350,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349823,
+        "num": 349823,
+        "word": "抑郁症不是简单的坏心情",
+        "onboard_time": 1665360925,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 313365,
+        "num": 313365,
+        "word": "内蒙古增本土确诊119例无症状559例",
+        "onboard_time": 1665365004,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268428,
+        "num": 268428,
+        "word": "杨颖登封ELLE11月刊",
+        "onboard_time": 1665367824,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 259354,
+        "num": 259354,
+        "word": "RNG对战CFO",
+        "onboard_time": 1665364764,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 231375,
+        "num": 231375,
+        "word": "女子吐槽丈夫脑袋掉色枕头焦黄",
+        "onboard_time": 1665334697,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227780,
+        "num": 227780,
+        "word": "连猫猫都穿上了羽绒服",
+        "onboard_time": 1665357258,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198747,
+        "num": 198747,
+        "word": "苏炳添再次起诉新东方子公司侵权",
+        "onboard_time": 1665337754,
+        "rank": 19,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 195595,
+        "num": 195595,
+        "word": "运城疫情防控",
+        "onboard_time": 1665363324,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190820,
+        "num": 190820,
+        "word": "退伍军人救落水女童累到无法上岸",
+        "onboard_time": 1665364764,
+        "rank": 21,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 186011,
+        "num": 186011,
+        "word": "马龙珍惜在球队的每一天",
+        "onboard_time": 1665366263,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184946,
+        "num": 184946,
+        "word": "许凯被杨幂壁咚后不敢动",
+        "onboard_time": 1665326727,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178456,
+        "num": 178456,
+        "word": "北京新增13例本土确诊",
+        "onboard_time": 1665361347,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174296,
+        "num": 174296,
+        "word": "母亲穿西装送女儿出嫁被当成闺蜜",
+        "onboard_time": 1665323785,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164744,
+        "num": 164744,
+        "word": "大巴司机吃槟榔1年查出口腔癌",
+        "onboard_time": 1665332122,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163722,
+        "num": 163722,
+        "word": "你有手机内存焦虑吗",
+        "onboard_time": 1665366683,
+        "rank": 27,
+        "category": "科技,情感"
+      },
+      {
+        "raw_hot": 159819,
+        "num": 159819,
+        "word": "我的世界杯回忆",
+        "onboard_time": 1665368362,
+        "rank": 28,
+        "category": "体育,情感"
+      },
+      {
+        "raw_hot": 157525,
+        "num": 157525,
+        "word": "95后小伙靠混凝土砌筑拿世界冠军",
+        "onboard_time": 1665361644,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155495,
+        "num": 155495,
+        "word": "北京公积金5年以上贷款利率已下调至3.1%",
+        "onboard_time": 1665344950,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154636,
+        "num": 154636,
+        "word": "员工私下换班出车祸公司拒认定工伤",
+        "onboard_time": 1665344470,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153625,
+        "num": 153625,
+        "word": "今晨南北方气温达本轮降温最低点",
+        "onboard_time": 1665368782,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152037,
+        "num": 152037,
+        "word": "湖人vs勇士",
+        "onboard_time": 1665361164,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131053,
+        "num": 131053,
+        "word": "房东称遇神仙租客打扫得一尘不染",
+        "onboard_time": 1665333380,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130754,
+        "num": 130754,
+        "word": "第一次喜欢的那个人还联系吗",
+        "onboard_time": 1665330263,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128535,
+        "num": 128535,
+        "word": "10月9日新增本土无症状1566例",
+        "onboard_time": 1665364944,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117787,
+        "num": 117787,
+        "word": "男子带四岁半孩子翻山进景区被困",
+        "onboard_time": 1665344110,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117759,
+        "num": 117759,
+        "word": "嗜睡也属于睡眠障碍",
+        "onboard_time": 1665368122,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116423,
+        "num": 116423,
+        "word": "考研学生校内搭帐篷方便晚间学习",
+        "onboard_time": 1665325702,
+        "rank": 39,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 108494,
+        "num": 108494,
+        "word": "EDG战胜FNC",
+        "onboard_time": 1665359965,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 107475,
+        "num": 107475,
+        "word": "睡不好头昏沉可能是大脑发出警告",
+        "onboard_time": 1665323244,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99438,
+        "num": 99438,
+        "word": "专治恋爱瘾的聊天记录",
+        "onboard_time": 1665303982,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95805,
+        "num": 95805,
+        "word": "大张伟的摇滚叛逆范儿太正了",
+        "onboard_time": 1665367045,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94393,
+        "num": 94393,
+        "word": "新疆新增无症状感染者383例",
+        "onboard_time": 1665347412,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93021,
+        "num": 93021,
+        "word": "普京下令加强刻赤海峡运输通道安保",
+        "onboard_time": 1665344470,
+        "rank": 45,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 92725,
+        "num": 92725,
+        "word": "老虎小时候也爱舔爪爪",
+        "onboard_time": 1665357258,
+        "rank": 46,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 90345,
+        "num": 90345,
+        "word": "浓眉半场24分",
+        "onboard_time": 1665367762,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90113,
+        "num": 90113,
+        "word": "成都世乒赛现场播报是许魏洲",
+        "onboard_time": 1665361405,
+        "rank": 48,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 88995,
+        "num": 88995,
+        "word": "gidle新专辑试听",
+        "onboard_time": 1665360444,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#百秒说非凡十年#"
+    }
+  }
+}
