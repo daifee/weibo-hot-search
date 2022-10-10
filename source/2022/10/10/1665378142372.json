@@ -1,0 +1,410 @@
+{
+  "runTime": 1665378142372,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1581690,
+        "num": 1581690,
+        "word": "全网最欠的小羊",
+        "onboard_time": 1665370103,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1471580,
+        "num": 1471580,
+        "word": "员工年薪少发7万公司被判补足",
+        "onboard_time": 1665373041,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15278,
+        "num": 842951,
+        "word": "中国人的书信有多美",
+        "onboard_time": 1665276205,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 802432,
+        "num": 802432,
+        "word": "许家印20亿伦敦豪宅挂牌出售",
+        "onboard_time": 1665375263,
+        "rank": 3,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 767248,
+        "num": 767248,
+        "word": "榴莲开出榴莲含片的感觉",
+        "onboard_time": 1665375686,
+        "rank": 4,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 718618,
+        "num": 718618,
+        "word": "千禾味业涨停",
+        "onboard_time": 1665373705,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 646757,
+        "num": 646757,
+        "word": "爱的二八定律终于开工了",
+        "onboard_time": 1665374665,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 873423,
+        "num": 599282,
+        "word": "男子随地吐痰致数名路过市民被传染",
+        "onboard_time": 1665372083,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497262,
+        "num": 497262,
+        "word": "A股",
+        "onboard_time": 1665371182,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 417940,
+        "num": 417940,
+        "word": "DRX战胜TES",
+        "onboard_time": 1665371182,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1513811,
+        "num": 395640,
+        "word": "杨幂把幂式穿搭带进剧里",
+        "onboard_time": 1665376885,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 542965,
+        "num": 388761,
+        "word": "导演程耳建议王一博偶尔独处",
+        "onboard_time": 1665371062,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 443629,
+        "num": 386933,
+        "word": "刘诗诗黑天鹅封面大片",
+        "onboard_time": 1665374426,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 371302,
+        "num": 371302,
+        "word": "海天味业股价大跌",
+        "onboard_time": 1665369383,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 5021,
+        "num": 310674,
+        "word": "民警用动画帮自闭症男孩找妈妈",
+        "onboard_time": 1665378086,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286784,
+        "num": 286784,
+        "word": "汪苏泷一年发两张专辑",
+        "onboard_time": 1665372263,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 281475,
+        "num": 281475,
+        "word": "iPhone14车祸检测坐过山车会报警",
+        "onboard_time": 1665364944,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 281265,
+        "num": 281265,
+        "word": "喜茶设立真果现剥透明窗口",
+        "onboard_time": 1665376347,
+        "rank": 17,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 269269,
+        "num": 269269,
+        "word": "女子路边发现80年代供销社",
+        "onboard_time": 1665365184,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265228,
+        "num": 265228,
+        "word": "王嘉尔世界巡演曼谷站官宣",
+        "onboard_time": 1665377604,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 263387,
+        "num": 263387,
+        "word": "RNG状态",
+        "onboard_time": 1665375204,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 260907,
+        "num": 260907,
+        "word": "教育局回应中学收20元树叶费",
+        "onboard_time": 1665359544,
+        "rank": 21,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 250390,
+        "num": 250390,
+        "word": "安徽一老人种出104斤巨型冬瓜",
+        "onboard_time": 1665370641,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228699,
+        "num": 228699,
+        "word": "马龙发博庆祝夺冠",
+        "onboard_time": 1665370041,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224392,
+        "num": 224392,
+        "word": "韩剧继承者们首播9周年",
+        "onboard_time": 1665360984,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214788,
+        "num": 214788,
+        "word": "iPhone备忘录被曝莫名清空",
+        "onboard_time": 1665377007,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 212334,
+        "num": 212334,
+        "word": "普京称克里米亚大桥爆炸是恐怖主义行为",
+        "onboard_time": 1665364346,
+        "rank": 26,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 199424,
+        "num": 199424,
+        "word": "增强对当前疫情防控政策的信心和耐心",
+        "onboard_time": 1665375566,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197522,
+        "num": 197522,
+        "word": "杨颖登封ELLE11月刊",
+        "onboard_time": 1665367824,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 196316,
+        "num": 196316,
+        "word": "抑郁症不是简单的坏心情",
+        "onboard_time": 1665360925,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194400,
+        "num": 194400,
+        "word": "iPhoneSE4或增加灵动岛",
+        "onboard_time": 1665370402,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 183428,
+        "num": 183428,
+        "word": "469只基金持仓海天味业",
+        "onboard_time": 1665369682,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 167149,
+        "num": 167149,
+        "word": "明晚中国女排将再战意大利女排",
+        "onboard_time": 1665374244,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163444,
+        "num": 163444,
+        "word": "嗜睡也属于睡眠障碍",
+        "onboard_time": 1665368122,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161406,
+        "num": 161406,
+        "word": "LCK小组赛第三日全胜",
+        "onboard_time": 1665373404,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159960,
+        "num": 159960,
+        "word": "PDD已起诉多人侵犯名誉权",
+        "onboard_time": 1665329965,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146459,
+        "num": 146459,
+        "word": "东北老人坐轮椅组团飞三亚过冬",
+        "onboard_time": 1665376947,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142656,
+        "num": 142656,
+        "word": "商场回应影院不让带蜜雪冰城",
+        "onboard_time": 1665361284,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134710,
+        "num": 134710,
+        "word": "内蒙古增本土确诊119例无症状559例",
+        "onboard_time": 1665365004,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133118,
+        "num": 133118,
+        "word": "男孩得胃病竟因妈妈染幽门螺杆菌",
+        "onboard_time": 1665350350,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128033,
+        "num": 128033,
+        "word": "潜艇突遇水下断崖官兵180秒自救",
+        "onboard_time": 1665369563,
+        "rank": 40,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 127467,
+        "num": 127467,
+        "word": "你有手机内存焦虑吗",
+        "onboard_time": 1665366683,
+        "rank": 41,
+        "category": "科技,情感"
+      },
+      {
+        "raw_hot": 123705,
+        "num": 123705,
+        "word": "马龙三登出色封面",
+        "onboard_time": 1665376347,
+        "rank": 42,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 122367,
+        "num": 122367,
+        "word": "普尔单节18分",
+        "onboard_time": 1665371542,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122296,
+        "num": 122296,
+        "word": "TES BP",
+        "onboard_time": 1665373104,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120239,
+        "num": 120239,
+        "word": "陈奕迅香港演唱会加开4场",
+        "onboard_time": 1665377545,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 107428,
+        "num": 107428,
+        "word": "女子吐槽丈夫脑袋掉色枕头焦黄",
+        "onboard_time": 1665334697,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100535,
+        "num": 100535,
+        "word": "房东称遇神仙租客打扫得一尘不染",
+        "onboard_time": 1665333380,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100235,
+        "num": 100235,
+        "word": "湖人vs勇士",
+        "onboard_time": 1665361164,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99851,
+        "num": 99851,
+        "word": "爱的二八定律出品方没有嘉行",
+        "onboard_time": 1665365963,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#百秒说非凡十年#"
+    }
+  }
+}

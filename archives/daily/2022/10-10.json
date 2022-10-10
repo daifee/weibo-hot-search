@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665377312436,
+  "endTime": 1665378142372,
   "band_list": [
     {
       "raw_hot": 1732430,
@@ -17,6 +17,14 @@
       "onboard_time": 1665369082,
       "rank": 0,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1513811,
+      "num": 470436,
+      "word": "杨幂把幂式穿搭带进剧里",
+      "onboard_time": 1665376885,
+      "rank": 10,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1504667,
@@ -67,12 +75,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 802432,
+      "num": 802432,
+      "word": "许家印20亿伦敦豪宅挂牌出售",
+      "onboard_time": 1665375263,
+      "rank": 6,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 779931,
       "num": 779931,
       "word": "爱的二八定律终于开工了",
       "onboard_time": 1665374665,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 767248,
+      "num": 767248,
+      "word": "榴莲开出榴莲含片的感觉",
+      "onboard_time": 1665375686,
+      "rank": 9,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 753302,
@@ -91,20 +115,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 708317,
-      "num": 708317,
+      "raw_hot": 718618,
+      "num": 718618,
       "word": "千禾味业涨停",
       "onboard_time": 1665373705,
       "rank": 5,
       "category": "财经"
-    },
-    {
-      "raw_hot": 706252,
-      "num": 470436,
-      "word": "杨幂把幂式穿搭带进剧里",
-      "onboard_time": 1665376885,
-      "rank": 10,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 684983,
@@ -121,14 +137,6 @@
       "onboard_time": 1665371062,
       "rank": 8,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 650170,
-      "num": 650170,
-      "word": "许家印20亿伦敦豪宅挂牌出售",
-      "onboard_time": 1665375263,
-      "rank": 6,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 623900,
@@ -225,14 +233,6 @@
       "onboard_time": 1665325106,
       "rank": 5,
       "category": "情感"
-    },
-    {
-      "raw_hot": 474998,
-      "num": 474998,
-      "word": "榴莲开出榴莲含片的感觉",
-      "onboard_time": 1665375686,
-      "rank": 9,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 474840,
@@ -379,6 +379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 281265,
+      "num": 281265,
+      "word": "喜茶设立真果现剥透明窗口",
+      "onboard_time": 1665376347,
+      "rank": 23,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 269701,
       "num": 269701,
       "word": "嗜睡也属于睡眠障碍",
@@ -411,6 +419,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 265228,
+      "num": 265228,
+      "word": "王嘉尔世界巡演曼谷站官宣",
+      "onboard_time": 1665377604,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 263387,
+      "num": 263387,
+      "word": "RNG状态",
+      "onboard_time": 1665375204,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 259354,
       "num": 259354,
       "word": "RNG对战CFO",
@@ -425,14 +449,6 @@
       "onboard_time": 1665369682,
       "rank": 21,
       "category": "财经"
-    },
-    {
-      "raw_hot": 237702,
-      "num": 237702,
-      "word": "RNG状态",
-      "onboard_time": 1665375204,
-      "rank": 22,
-      "category": "游戏"
     },
     {
       "raw_hot": 237008,
@@ -451,14 +467,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 226398,
-      "num": 226398,
-      "word": "喜茶设立真果现剥透明窗口",
-      "onboard_time": 1665376347,
-      "rank": 23,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 220501,
       "num": 220501,
       "word": "猫猫们要努力熬过早到的冬天",
@@ -475,6 +483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 214788,
+      "num": 214788,
+      "word": "iPhone备忘录被曝莫名清空",
+      "onboard_time": 1665377007,
+      "rank": 36,
+      "category": "科技"
+    },
+    {
       "raw_hot": 213107,
       "num": 213107,
       "word": "新疆新增无症状感染者383例",
@@ -489,6 +505,14 @@
       "onboard_time": 1665320962,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199424,
+      "num": 199424,
+      "word": "增强对当前疫情防控政策的信心和耐心",
+      "onboard_time": 1665375566,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198197,
@@ -515,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194400,
+      "num": 194400,
+      "word": "iPhoneSE4或增加灵动岛",
+      "onboard_time": 1665370402,
+      "rank": 40,
+      "category": "科技"
+    },
+    {
       "raw_hot": 191179,
       "num": 191179,
       "word": "我们这十年开播",
@@ -537,14 +569,6 @@
       "onboard_time": 1665351191,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 181879,
-      "num": 181879,
-      "word": "iPhoneSE4或增加灵动岛",
-      "onboard_time": 1665370402,
-      "rank": 40,
-      "category": "科技"
     },
     {
       "raw_hot": 179522,
@@ -587,6 +611,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 167149,
+      "num": 167149,
+      "word": "明晚中国女排将再战意大利女排",
+      "onboard_time": 1665374244,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163722,
       "num": 163722,
       "word": "你有手机内存焦虑吗",
@@ -601,14 +633,6 @@
       "onboard_time": 1665308842,
       "rank": 17,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 161269,
-      "num": 161269,
-      "word": "明晚中国女排将再战意大利女排",
-      "onboard_time": 1665374244,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 159819,
@@ -667,12 +691,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145440,
-      "num": 145440,
-      "word": "iPhone备忘录被曝莫名清空",
-      "onboard_time": 1665377007,
-      "rank": 36,
-      "category": "科技"
+      "raw_hot": 146459,
+      "num": 146459,
+      "word": "东北老人坐轮椅组团飞三亚过冬",
+      "onboard_time": 1665376947,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145329,
@@ -763,14 +787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 127993,
-      "num": 127993,
-      "word": "增强对当前疫情防控政策的信心和耐心",
-      "onboard_time": 1665375566,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 127322,
       "num": 127322,
       "word": "阿森纳3比2利物浦",
@@ -795,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120239,
+      "num": 120239,
+      "word": "陈奕迅香港演唱会加开4场",
+      "onboard_time": 1665377545,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 118571,
       "num": 118571,
       "word": "女子刷单被骗15万丈夫带女儿出走",
@@ -809,14 +833,6 @@
       "onboard_time": 1665351670,
       "rank": 47,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 109674,
-      "num": 109674,
-      "word": "东北老人坐轮椅组团飞三亚过冬",
-      "onboard_time": 1665376947,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108494,
@@ -1249,6 +1265,14 @@
       "onboard_time": 1665349749,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 5021,
+      "num": 310674,
+      "word": "民警用动画帮自闭症男孩找妈妈",
+      "onboard_time": 1665378086,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
