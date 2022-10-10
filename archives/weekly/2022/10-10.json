@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665428471136,
+  "endTime": 1665430217741,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -2227,7 +2227,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36627,
+      "raw_hot": 38309,
       "num": 26171,
       "word": "一张表自测嗜睡程度",
       "onboard_time": 1665425053,
@@ -2259,12 +2259,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28537,
+      "num": 28537,
+      "word": "教育局通报中学收20元树叶费",
+      "onboard_time": 1665427813,
+      "rank": 46,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 27890,
       "num": 315681,
       "word": "雪天路滑众人合力推救护车上坡",
       "onboard_time": 1665399625,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24728,
+      "num": 24728,
+      "word": "唐朝诡事录公主摆鸿门宴",
+      "onboard_time": 1665425713,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 17793,
@@ -2291,12 +2307,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 15826,
-      "num": 15826,
-      "word": "唐朝诡事录公主摆鸿门宴",
-      "onboard_time": 1665425713,
-      "rank": 45,
-      "category": "影视"
+      "raw_hot": 15528,
+      "num": 15528,
+      "word": "因代做核酸上海80余人被行政处罚",
+      "onboard_time": 1665429371,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15514,
@@ -2331,12 +2347,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 9934,
-      "num": 9934,
-      "word": "教育局通报中学收20元树叶费",
-      "onboard_time": 1665427813,
+      "raw_hot": 9878,
+      "num": 9878,
+      "word": "别让老鼠给它打了",
+      "onboard_time": 1665428771,
       "rank": 46,
-      "category": "教育,社会新闻"
+      "category": "幽默"
     },
     {
       "raw_hot": 7867,
@@ -2345,6 +2361,14 @@
       "onboard_time": 1665351852,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 7830,
+      "num": 7830,
+      "word": "好吃到会上瘾的小花卷",
+      "onboard_time": 1665429611,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 7453,

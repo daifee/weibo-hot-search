@@ -1,0 +1,410 @@
+{
+  "runTime": 1665430217741,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 127283,
+        "num": 127283,
+        "word": "睡不着的主要原因是什么",
+        "onboard_time": 1665422776,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84318,
+        "num": 84318,
+        "word": "医生建议成人每天睡够7小时",
+        "onboard_time": 1665388344,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111,
+        "num": 79674,
+        "word": "红星何以照耀中国",
+        "onboard_time": 1665387865,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77895,
+        "num": 77895,
+        "word": "普京称若乌继续袭击俄领土将强硬回击",
+        "onboard_time": 1665417383,
+        "rank": 3,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 58977,
+        "num": 58977,
+        "word": "10斤的小猫9斤的反骨",
+        "onboard_time": 1665418401,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 55174,
+        "num": 55174,
+        "word": "月亮",
+        "onboard_time": 1665398425,
+        "rank": 5,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 54758,
+        "num": 54758,
+        "word": "海克斯科技是揭内幕还是贩卖焦虑",
+        "onboard_time": 1665416725,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53028,
+        "num": 53028,
+        "word": "iPhone14出现首次大幅降价",
+        "onboard_time": 1665398006,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 51817,
+        "num": 51817,
+        "word": "女子天生4个肾竟全部长结石",
+        "onboard_time": 1665410125,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37142,
+        "num": 37142,
+        "word": "女子针灸回家才发现头上插根针",
+        "onboard_time": 1665416544,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39697,
+        "num": 34537,
+        "word": "4岁女孩隔50米认出3年未见父母",
+        "onboard_time": 1665422894,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31044,
+        "num": 31044,
+        "word": "山西运城报告299例新冠阳性",
+        "onboard_time": 1665409584,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28537,
+        "num": 28537,
+        "word": "教育局通报中学收20元树叶费",
+        "onboard_time": 1665427813,
+        "rank": 12,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 27456,
+        "num": 27456,
+        "word": "你有超过七年以上的友情吗",
+        "onboard_time": 1665403764,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26998,
+        "num": 26998,
+        "word": "周震南父亲被限制消费数百次",
+        "onboard_time": 1665420916,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24728,
+        "num": 24728,
+        "word": "唐朝诡事录公主摆鸿门宴",
+        "onboard_time": 1665425713,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24640,
+        "num": 24640,
+        "word": "普京称俄军对乌克兰军事目标实施打击",
+        "onboard_time": 1665406163,
+        "rank": 16,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 24111,
+        "num": 24111,
+        "word": "影帝走红毯是都这么忙吗",
+        "onboard_time": 1665414866,
+        "rank": 17,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 23110,
+        "num": 23110,
+        "word": "网红兔狲狲思邈意外死亡",
+        "onboard_time": 1665381425,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22946,
+        "num": 22946,
+        "word": "女子拿行李误被朋友开车压骨折",
+        "onboard_time": 1665410844,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38309,
+        "num": 22504,
+        "word": "一张表自测嗜睡程度",
+        "onboard_time": 1665425053,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28475,
+        "num": 22496,
+        "word": "降息后杭州有人每个月房贷省2000",
+        "onboard_time": 1665422113,
+        "rank": 21,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 21933,
+        "num": 21933,
+        "word": "杨幂许凯新剧开播就结婚",
+        "onboard_time": 1665416725,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19748,
+        "num": 19748,
+        "word": "虞书欣虞美人唱无名之辈翻车",
+        "onboard_time": 1665409704,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18884,
+        "num": 18884,
+        "word": "普京与卢卡申科就部署区域联合部队达成一致",
+        "onboard_time": 1665404842,
+        "rank": 24,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 18664,
+        "num": 18664,
+        "word": "副园长回应网红兔狲意外死亡",
+        "onboard_time": 1665404063,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18469,
+        "num": 18469,
+        "word": "死神千年血战篇",
+        "onboard_time": 1665407004,
+        "rank": 26,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 18395,
+        "num": 18395,
+        "word": "孟子义把毛不易李雪琴整不会了",
+        "onboard_time": 1665406163,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17187,
+        "num": 17187,
+        "word": "你是倔强式单身吗",
+        "onboard_time": 1665407845,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17045,
+        "num": 17045,
+        "word": "普京召开俄联邦安全会议",
+        "onboard_time": 1665412103,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 15528,
+        "num": 15528,
+        "word": "因代做核酸上海80余人被行政处罚",
+        "onboard_time": 1665429371,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14640,
+        "num": 14640,
+        "word": "一句话终止聊天",
+        "onboard_time": 1665396440,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14036,
+        "num": 14036,
+        "word": "爱的二八定律",
+        "onboard_time": 1665404784,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 13204,
+        "num": 13204,
+        "word": "今年豆瓣7分以上的国产剧",
+        "onboard_time": 1665397945,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 12710,
+        "num": 12710,
+        "word": "庞博的文字里充满了浪漫",
+        "onboard_time": 1665404242,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 12516,
+        "num": 12516,
+        "word": "广东12日起冷空气活动减弱",
+        "onboard_time": 1665409942,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12210,
+        "num": 12210,
+        "word": "2022乒乓球亚洲杯",
+        "onboard_time": 1665404304,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11999,
+        "num": 11999,
+        "word": "演唱会灯海名场面",
+        "onboard_time": 1665412103,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 11847,
+        "num": 11847,
+        "word": "民警看邻座一心刷手机发现在洗钱",
+        "onboard_time": 1665399325,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11775,
+        "num": 11775,
+        "word": "长沙天空惊现龙鳞云",
+        "onboard_time": 1665418041,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11720,
+        "num": 11720,
+        "word": "纸片人竟是我自己",
+        "onboard_time": 1665402083,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 11108,
+        "num": 11108,
+        "word": "CBA裁判吹罚尺度",
+        "onboard_time": 1665407604,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11076,
+        "num": 11076,
+        "word": "文俊辉Limbo花絮",
+        "onboard_time": 1665417623,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 11049,
+        "num": 11049,
+        "word": "张彬彬庄羽晚安三宫格",
+        "onboard_time": 1665420736,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 10855,
+        "num": 10855,
+        "word": "给爱美的妈妈买了一支口红",
+        "onboard_time": 1665424694,
+        "rank": 44,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 10813,
+        "num": 10813,
+        "word": "青年演员原声台词爆发力",
+        "onboard_time": 1665399863,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 9878,
+        "num": 9878,
+        "word": "别让老鼠给它打了",
+        "onboard_time": 1665428771,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 8786,
+        "num": 8786,
+        "word": "抽检发现有的女装致癌物超标20多倍",
+        "onboard_time": 1665386665,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7830,
+        "num": 7830,
+        "word": "好吃到会上瘾的小花卷",
+        "onboard_time": 1665429611,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 7701,
+        "num": 7701,
+        "word": "才知道甄嬛愿望没实现的原因",
+        "onboard_time": 1665405144,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#十九届七中全会#"
+    }
+  }
+}
