@@ -1,6 +1,6 @@
 {
   "startTime": 1665419943424,
-  "endTime": 1665441961036,
+  "endTime": 1665444685217,
   "band_list": [
     {
       "raw_hot": 995258,
@@ -9,6 +9,22 @@
       "onboard_time": 1665398425,
       "rank": 0,
       "category": "自然"
+    },
+    {
+      "raw_hot": 792954,
+      "num": 792954,
+      "word": "医生建议成人每天睡够7小时",
+      "onboard_time": 1665388344,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 654867,
+      "num": 654867,
+      "word": "2女生因气温骤降披棉被出门",
+      "onboard_time": 1665437590,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 647611,
@@ -27,6 +43,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 553390,
+      "num": 553390,
+      "word": "女孩感冒家长2天喂7种药致其肝损害",
+      "onboard_time": 1665435252,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 546865,
+      "num": 546865,
+      "word": "10斤的小猫9斤的反骨",
+      "onboard_time": 1665418401,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 495598,
       "num": 495598,
       "word": "女子天生4个肾竟全部长结石",
@@ -35,20 +67,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 483608,
-      "num": 483608,
-      "word": "10斤的小猫9斤的反骨",
-      "onboard_time": 1665418401,
-      "rank": 12,
-      "category": "幽默"
+      "raw_hot": 466532,
+      "num": 466532,
+      "word": "因代做核酸上海80余人被行政处罚",
+      "onboard_time": 1665429371,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 466633,
-      "num": 466633,
-      "word": "医生建议成人每天睡够7小时",
-      "onboard_time": 1665388344,
-      "rank": 4,
+      "raw_hot": 440735,
+      "num": 440735,
+      "word": "4岁女孩隔50米认出3年未见父母",
+      "onboard_time": 1665422894,
+      "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 418500,
+      "num": 418500,
+      "word": "普京称若乌继续袭击俄领土将强硬回击",
+      "onboard_time": 1665417383,
+      "rank": 10,
+      "category": "国内要闻,军事"
     },
     {
       "raw_hot": 385528,
@@ -75,14 +115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 301427,
-      "num": 301427,
-      "word": "普京称若乌继续袭击俄领土将强硬回击",
-      "onboard_time": 1665417383,
-      "rank": 10,
-      "category": "国内要闻,军事"
-    },
-    {
       "raw_hot": 278928,
       "num": 278928,
       "word": "影帝走红毯是都这么忙吗",
@@ -91,12 +123,20 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 275736,
-      "num": 275736,
-      "word": "女孩感冒家长2天喂7种药致其肝损害",
-      "onboard_time": 1665435252,
-      "rank": 33,
+      "raw_hot": 255641,
+      "num": 255641,
+      "word": "海克斯科技是揭内幕还是贩卖焦虑",
+      "onboard_time": 1665416725,
+      "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236154,
+      "num": 236154,
+      "word": "教育局通报中学收20元树叶费",
+      "onboard_time": 1665427813,
+      "rank": 46,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 225333,
@@ -104,14 +144,6 @@
       "word": "女子拿行李误被朋友开车压骨折",
       "onboard_time": 1665410844,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 216178,
-      "num": 216178,
-      "word": "2女生因气温骤降披棉被出门",
-      "onboard_time": 1665437590,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -131,20 +163,20 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 185722,
+      "num": 185722,
+      "word": "女子发寻物视频遭人恶意骚扰",
+      "onboard_time": 1665438910,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183333,
       "num": 183333,
       "word": "杨幂许凯新剧开播就结婚",
       "onboard_time": 1665416725,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 176923,
-      "num": 176923,
-      "word": "4岁女孩隔50米认出3年未见父母",
-      "onboard_time": 1665422894,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171164,
@@ -155,20 +187,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162593,
+      "num": 162593,
+      "word": "降息后杭州有人每个月房贷省2000",
+      "onboard_time": 1665422113,
+      "rank": 20,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 155168,
       "num": 155168,
       "word": "虞书欣虞美人唱无名之辈翻车",
       "onboard_time": 1665409704,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 150988,
-      "num": 150988,
-      "word": "海克斯科技是揭内幕还是贩卖焦虑",
-      "onboard_time": 1665416725,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146647,
@@ -187,11 +219,19 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 136482,
-      "num": 136482,
-      "word": "因代做核酸上海80余人被行政处罚",
-      "onboard_time": 1665429371,
-      "rank": 30,
+      "raw_hot": 135156,
+      "num": 135156,
+      "word": "一张表自测嗜睡程度",
+      "onboard_time": 1665425053,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134810,
+      "num": 134810,
+      "word": "北京目前存在15条传播链",
+      "onboard_time": 1665432072,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -227,12 +267,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 108115,
-      "num": 108115,
-      "word": "教育局通报中学收20元树叶费",
-      "onboard_time": 1665427813,
-      "rank": 46,
-      "category": "教育,社会新闻"
+      "raw_hot": 114240,
+      "num": 114240,
+      "word": "才知道甄嬛愿望没实现的原因",
+      "onboard_time": 1665405144,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 113935,
+      "num": 113935,
+      "word": "演唱会灯海名场面",
+      "onboard_time": 1665412103,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 108754,
+      "num": 108754,
+      "word": "来沪返沪人员抵沪后需三天三检",
+      "onboard_time": 1665432490,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101548,
@@ -275,20 +331,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 91163,
+      "num": 91163,
+      "word": "妈妈带孩子被反锁屋内外婆徒手撕门",
+      "onboard_time": 1665443899,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88078,
       "num": 88078,
       "word": "郭艾伦说裁判吹罚得非常好",
       "onboard_time": 1665412766,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 86743,
-      "num": 86743,
-      "word": "演唱会灯海名场面",
-      "onboard_time": 1665412103,
-      "rank": 29,
-      "category": "音乐"
     },
     {
       "raw_hot": 86062,
@@ -299,19 +355,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 83072,
-      "num": 83072,
-      "word": "才知道甄嬛愿望没实现的原因",
-      "onboard_time": 1665405144,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 80720,
-      "num": 80720,
-      "word": "降息后杭州有人每个月房贷省2000",
-      "onboard_time": 1665422113,
-      "rank": 20,
+      "raw_hot": 85575,
+      "num": 85575,
+      "word": "我国市场主体十年净增超1亿户",
+      "onboard_time": 1665439692,
+      "rank": 49,
       "category": "财经,社会新闻"
     },
     {
@@ -331,11 +379,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 67815,
-      "num": 67815,
-      "word": "一张表自测嗜睡程度",
-      "onboard_time": 1665425053,
-      "rank": 22,
+      "raw_hot": 75969,
+      "num": 75969,
+      "word": "普京与卢卡申科就部署区域联合部队达成一致",
+      "onboard_time": 1665404842,
+      "rank": 34,
+      "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 72443,
+      "num": 72443,
+      "word": "主人地铁落座给找座的导盲犬铺垫子",
+      "onboard_time": 1665434469,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -347,28 +403,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 64248,
-      "num": 64248,
-      "word": "普京与卢卡申科就部署区域联合部队达成一致",
-      "onboard_time": 1665404842,
-      "rank": 34,
-      "category": "国外要闻,军事"
-    },
-    {
       "raw_hot": 63948,
       "num": 63948,
       "word": "死神千年血战篇",
       "onboard_time": 1665407004,
       "rank": 35,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 62035,
-      "num": 62035,
-      "word": "北京目前存在15条传播链",
-      "onboard_time": 1665432072,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 58593,
@@ -379,12 +419,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58261,
+      "num": 58261,
+      "word": "CBA裁判吹罚尺度",
+      "onboard_time": 1665407604,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 52642,
       "num": 52642,
       "word": "为什么老师不在课间上厕所",
       "onboard_time": 1665388406,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 51460,
+      "num": 51460,
+      "word": "四姑娘山半山彩林半山雪",
+      "onboard_time": 1665443117,
+      "rank": 41,
+      "category": "旅游"
     },
     {
       "raw_hot": 51121,
@@ -395,36 +451,20 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 51043,
-      "num": 51043,
-      "word": "来沪返沪人员抵沪后需三天三检",
-      "onboard_time": 1665432490,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 48141,
+      "num": 48141,
+      "word": "这猫是只刺客吧",
+      "onboard_time": 1665433270,
+      "rank": 47,
+      "category": "幽默"
     },
     {
-      "raw_hot": 47757,
-      "num": 47757,
-      "word": "CBA裁判吹罚尺度",
-      "onboard_time": 1665407604,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 46553,
-      "num": 46553,
+      "raw_hot": 46657,
+      "num": 46657,
       "word": "青年演员原声台词爆发力",
       "onboard_time": 1665399863,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 45598,
-      "num": 45598,
-      "word": "女子发寻物视频遭人恶意骚扰",
-      "onboard_time": 1665438910,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 44575,
@@ -457,14 +497,6 @@
       "onboard_time": 1665404784,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 39767,
-      "num": 39767,
-      "word": "主人地铁落座给找座的导盲犬铺垫子",
-      "onboard_time": 1665434469,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 38655,
@@ -523,14 +555,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 17201,
-      "num": 17201,
-      "word": "这猫是只刺客吧",
-      "onboard_time": 1665433270,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 15865,
       "num": 15865,
       "word": "九图速览19次党代会极简史",
@@ -561,14 +585,6 @@
       "onboard_time": 1665429611,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 9633,
-      "num": 11362,
-      "word": "我国市场主体十年净增超1亿户",
-      "onboard_time": 1665439692,
-      "rank": 49,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 6463,
@@ -603,8 +619,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2344,
-      "num": 521506,
+      "raw_hot": 4449,
+      "num": 591800,
       "word": "红星何以照耀中国",
       "onboard_time": 1665387865,
       "rank": 2,
