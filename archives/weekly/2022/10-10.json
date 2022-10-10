@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665395343527,
+  "endTime": 1665397697559,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 930527,
+      "num": 930527,
+      "word": "基辅遭到袭击已造成8死24伤",
+      "onboard_time": 1665391884,
+      "rank": 40,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 903860,
       "num": 768507,
       "word": "女子骑车脖子遭横空风筝线割伤",
@@ -145,14 +153,6 @@
       "onboard_time": 1665382043,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 859146,
-      "num": 859146,
-      "word": "基辅遭到袭击已造成8死24伤",
-      "onboard_time": 1665391884,
-      "rank": 40,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 833205,
@@ -297,6 +297,14 @@
       "onboard_time": 1665369383,
       "rank": 7,
       "category": "财经"
+    },
+    {
+      "raw_hot": 581344,
+      "num": 581344,
+      "word": "狗子的暗示够明显了",
+      "onboard_time": 1665392844,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 576424,
@@ -515,12 +523,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 369824,
-      "num": 369824,
-      "word": "狗子的暗示够明显了",
-      "onboard_time": 1665392844,
-      "rank": 17,
-      "category": "幽默"
+      "raw_hot": 373857,
+      "num": 297039,
+      "word": "韩漫双开门冰箱走向现实",
+      "onboard_time": 1665393204,
+      "rank": 26,
+      "category": "动漫,网红"
     },
     {
       "raw_hot": 364521,
@@ -577,6 +585,14 @@
       "onboard_time": 1665384563,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 345931,
+      "num": 287780,
+      "word": "美国将继续向乌克兰提供军事支持",
+      "onboard_time": 1665396323,
+      "rank": 11,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 341103,
@@ -683,20 +699,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 287689,
-      "num": 287689,
-      "word": "韩漫双开门冰箱走向现实",
-      "onboard_time": 1665393204,
-      "rank": 26,
-      "category": "动漫,网红"
-    },
-    {
       "raw_hot": 283314,
       "num": 283314,
       "word": "许凯被杨幂壁咚后不敢动",
       "onboard_time": 1665326727,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 282960,
+      "num": 255346,
+      "word": "檀健次说爱的二八定律13号看起来",
+      "onboard_time": 1665394284,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 269701,
@@ -761,6 +777,14 @@
       "onboard_time": 1665364764,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 255014,
+      "num": 255014,
+      "word": "一句话终止聊天",
+      "onboard_time": 1665396440,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 254455,
@@ -867,20 +891,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 206902,
+      "num": 206902,
+      "word": "2022年诺贝尔经济学奖揭晓",
+      "onboard_time": 1665396922,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204622,
       "num": 204622,
       "word": "马龙11比1",
       "onboard_time": 1665320962,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 198721,
-      "num": 198721,
-      "word": "檀健次说爱的二八定律13号看起来",
-      "onboard_time": 1665394284,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 198197,
@@ -897,6 +921,14 @@
       "onboard_time": 1665328104,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 195662,
+      "num": 195662,
+      "word": "群星为爱的二八定律打call",
+      "onboard_time": 1665395665,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 195595,
@@ -977,6 +1009,14 @@
       "onboard_time": 1665379044,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 170646,
+      "num": 170646,
+      "word": "我的无用节俭行为",
+      "onboard_time": 1665393144,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 167939,
@@ -1075,14 +1115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 148188,
-      "num": 148188,
-      "word": "我的无用节俭行为",
-      "onboard_time": 1665393144,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 147605,
       "num": 147605,
       "word": "三小伙为省钱合租一间房",
@@ -1145,6 +1177,14 @@
       "onboard_time": 1665357798,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134970,
+      "num": 134970,
+      "word": "小脑斧舔爪爪的样子也太萌了",
+      "onboard_time": 1665395002,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133385,
@@ -1235,6 +1275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118248,
+      "num": 118248,
+      "word": "猫咪听了都直呼地道的猫语",
+      "onboard_time": 1665396683,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 116841,
       "num": 116841,
       "word": "南京下调公积金贷款利率",
@@ -1249,6 +1297,14 @@
       "onboard_time": 1665385163,
       "rank": 38,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 108925,
+      "num": 108925,
+      "word": "少年的松弛感有多令人心动",
+      "onboard_time": 1665395184,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 108494,
@@ -1321,14 +1377,6 @@
       "onboard_time": 1665388944,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100753,
-      "num": 100753,
-      "word": "少年的松弛感有多令人心动",
-      "onboard_time": 1665395184,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 98866,
@@ -1467,6 +1515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 82859,
+      "num": 82859,
+      "word": "基辅要求民众进入庇护所",
+      "onboard_time": 1665397223,
+      "rank": 46,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 82384,
       "num": 82384,
       "word": "三部门约谈部分光伏企业及行业机构",
@@ -1483,14 +1539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 80833,
-      "num": 80833,
-      "word": "小脑斧舔爪爪的样子也太萌了",
-      "onboard_time": 1665395002,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 78741,
       "num": 78741,
       "word": "熊孩子不上学躲自家衣柜玩手机",
@@ -1504,6 +1552,14 @@
       "word": "当肩宽星人穿毛衣",
       "onboard_time": 1665314064,
       "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 77118,
+      "num": 77118,
+      "word": "没想到相亲会这么社死",
+      "onboard_time": 1665397402,
+      "rank": 47,
       "category": "幽默"
     },
     {
@@ -1617,6 +1673,14 @@
       "onboard_time": 1665358581,
       "rank": 48,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 40767,
+      "num": 255514,
+      "word": "男子22年献血约10个成人血量",
+      "onboard_time": 1665396085,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40634,

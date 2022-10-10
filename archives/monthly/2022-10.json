@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665395343527,
+  "endTime": 1665397697559,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -1651,6 +1651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 930527,
+      "num": 930527,
+      "word": "基辅遭到袭击已造成8死24伤",
+      "onboard_time": 1665391884,
+      "rank": 40,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 929987,
       "num": 929987,
       "word": "老人用钢丝球洗洁精帮儿子洗车",
@@ -1793,14 +1801,6 @@
       "onboard_time": 1665032542,
       "rank": 43,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 859146,
-      "num": 859146,
-      "word": "基辅遭到袭击已造成8死24伤",
-      "onboard_time": 1665391884,
-      "rank": 40,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 859002,
@@ -3129,6 +3129,14 @@
       "onboard_time": 1665369383,
       "rank": 7,
       "category": "财经"
+    },
+    {
+      "raw_hot": 581344,
+      "num": 581344,
+      "word": "狗子的暗示够明显了",
+      "onboard_time": 1665392844,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 579394,
@@ -5483,6 +5491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 373857,
+      "num": 297039,
+      "word": "韩漫双开门冰箱走向现实",
+      "onboard_time": 1665393204,
+      "rank": 26,
+      "category": "动漫,网红"
+    },
+    {
       "raw_hot": 373282,
       "num": 331690,
       "word": "张彬彬说都别惦记我的化石了",
@@ -5521,14 +5537,6 @@
       "onboard_time": 1664864061,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 369824,
-      "num": 369824,
-      "word": "狗子的暗示够明显了",
-      "onboard_time": 1665392844,
-      "rank": 17,
-      "category": "幽默"
     },
     {
       "raw_hot": 369339,
@@ -5961,6 +5969,14 @@
       "onboard_time": 1664790861,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 345931,
+      "num": 287780,
+      "word": "美国将继续向乌克兰提供军事支持",
+      "onboard_time": 1665396323,
+      "rank": 11,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 345839,
@@ -6939,14 +6955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 287689,
-      "num": 287689,
-      "word": "韩漫双开门冰箱走向现实",
-      "onboard_time": 1665393204,
-      "rank": 26,
-      "category": "动漫,网红"
-    },
-    {
       "raw_hot": 286862,
       "num": 286862,
       "word": "金晨新剧被王安宇逼婚",
@@ -7025,6 +7033,14 @@
       "onboard_time": 1664804964,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 282960,
+      "num": 255346,
+      "word": "檀健次说爱的二八定律13号看起来",
+      "onboard_time": 1665394284,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 282738,
@@ -7857,6 +7873,14 @@
       "onboard_time": 1664682380,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 255014,
+      "num": 255014,
+      "word": "一句话终止聊天",
+      "onboard_time": 1665396440,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 254954,
@@ -9395,6 +9419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 206902,
+      "num": 206902,
+      "word": "2022年诺贝尔经济学奖揭晓",
+      "onboard_time": 1665396922,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206819,
       "num": 206819,
       "word": "万里归途票房破7亿",
@@ -9691,14 +9723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 198721,
-      "num": 198721,
-      "word": "檀健次说爱的二八定律13号看起来",
-      "onboard_time": 1665394284,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 198448,
       "num": 198448,
       "word": "孙颖莎3比0陈思羽",
@@ -9801,6 +9825,14 @@
       "onboard_time": 1664956038,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 195662,
+      "num": 195662,
+      "word": "群星为爱的二八定律打call",
+      "onboard_time": 1665395665,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 195595,
@@ -10713,6 +10745,14 @@
       "onboard_time": 1664962702,
       "rank": 33,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 170646,
+      "num": 170646,
+      "word": "我的无用节俭行为",
+      "onboard_time": 1665393144,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 170587,
@@ -11635,14 +11675,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 148188,
-      "num": 148188,
-      "word": "我的无用节俭行为",
-      "onboard_time": 1665393144,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 148084,
       "num": 148084,
       "word": "这个国庆结婚有多忙",
@@ -12249,6 +12281,14 @@
       "onboard_time": 1665357798,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134970,
+      "num": 134970,
+      "word": "小脑斧舔爪爪的样子也太萌了",
+      "onboard_time": 1665395002,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134915,
@@ -13091,6 +13131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 118248,
+      "num": 118248,
+      "word": "猫咪听了都直呼地道的猫语",
+      "onboard_time": 1665396683,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 118216,
       "num": 118216,
       "word": "沸腾校园是大学生相亲大会吧",
@@ -13531,6 +13579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 108925,
+      "num": 108925,
+      "word": "少年的松弛感有多令人心动",
+      "onboard_time": 1665395184,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 108896,
       "num": 108896,
       "word": "水晶宫vs切尔西",
@@ -13905,14 +13961,6 @@
       "onboard_time": 1665388944,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100753,
-      "num": 100753,
-      "word": "少年的松弛感有多令人心动",
-      "onboard_time": 1665395184,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 100435,
@@ -14755,6 +14803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82859,
+      "num": 82859,
+      "word": "基辅要求民众进入庇护所",
+      "onboard_time": 1665397223,
+      "rank": 46,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 82748,
       "num": 82748,
       "word": "奥莫尼亚2比3曼联",
@@ -14801,14 +14857,6 @@
       "onboard_time": 1664650753,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 80833,
-      "num": 80833,
-      "word": "小脑斧舔爪爪的样子也太萌了",
-      "onboard_time": 1665395002,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 80815,
@@ -14968,6 +15016,14 @@
       "word": "这只黑猩猩也太嘚瑟了吧",
       "onboard_time": 1665208642,
       "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 77118,
+      "num": 77118,
+      "word": "没想到相亲会这么社死",
+      "onboard_time": 1665397402,
+      "rank": 47,
       "category": "幽默"
     },
     {
@@ -16225,6 +16281,14 @@
       "onboard_time": 1664556498,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 40767,
+      "num": 255514,
+      "word": "男子22年献血约10个成人血量",
+      "onboard_time": 1665396085,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40634,

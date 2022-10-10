@@ -1,0 +1,410 @@
+{
+  "runTime": 1665397697559,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2180722,
+        "num": 2180722,
+        "word": "医生建议成人每天睡够7小时",
+        "onboard_time": 1665388344,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 962745,
+        "num": 962745,
+        "word": "大四男生32门课近满分获清华直博",
+        "onboard_time": 1665391046,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37810,
+        "num": 938325,
+        "word": "红星何以照耀中国",
+        "onboard_time": 1665387865,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 930527,
+        "num": 930527,
+        "word": "基辅遭到袭击已造成8死24伤",
+        "onboard_time": 1665391884,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 628336,
+        "num": 628336,
+        "word": "周震南父母再成老赖",
+        "onboard_time": 1665382043,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 786003,
+        "num": 616249,
+        "word": "网红兔狲狲思邈意外死亡",
+        "onboard_time": 1665381425,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581344,
+        "num": 581344,
+        "word": "狗子的暗示够明显了",
+        "onboard_time": 1665392844,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 540120,
+        "num": 540120,
+        "word": "抽检发现有的女装致癌物超标20多倍",
+        "onboard_time": 1665386665,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453221,
+        "num": 453221,
+        "word": "为什么老师不在课间上厕所",
+        "onboard_time": 1665388406,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 299201,
+        "num": 299201,
+        "word": "送儿子上北大的店主曾被北大食堂挽留",
+        "onboard_time": 1665388522,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373857,
+        "num": 297039,
+        "word": "韩漫双开门冰箱走向现实",
+        "onboard_time": 1665393204,
+        "rank": 10,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 345931,
+        "num": 287780,
+        "word": "美国将继续向乌克兰提供军事支持",
+        "onboard_time": 1665396323,
+        "rank": 11,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 307597,
+        "num": 285641,
+        "word": "许凯回复彭昱畅你胆子最大了",
+        "onboard_time": 1665388764,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 262496,
+        "num": 262496,
+        "word": "俄媒称一导弹落在泽连斯基办公室附近街道",
+        "onboard_time": 1665386245,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 40767,
+        "num": 255514,
+        "word": "男子22年献血约10个成人血量",
+        "onboard_time": 1665396085,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282960,
+        "num": 255346,
+        "word": "檀健次说爱的二八定律13号看起来",
+        "onboard_time": 1665394284,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 255014,
+        "num": 255014,
+        "word": "一句话终止聊天",
+        "onboard_time": 1665396440,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249886,
+        "num": 249886,
+        "word": "基辅正在遭遇第二波巨大爆炸",
+        "onboard_time": 1665386184,
+        "rank": 17,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 231603,
+        "num": 231603,
+        "word": "海天味业市值蒸发330亿",
+        "onboard_time": 1665384503,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 231489,
+        "num": 231489,
+        "word": "王鹤棣暖心捡宋丹丹靠垫细节",
+        "onboard_time": 1665390685,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 223259,
+        "num": 223259,
+        "word": "女子骑车脖子遭横空风筝线割伤",
+        "onboard_time": 1665385044,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206902,
+        "num": 206902,
+        "word": "2022年诺贝尔经济学奖揭晓",
+        "onboard_time": 1665396922,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203787,
+        "num": 203787,
+        "word": "iPhone备忘录被曝莫名清空",
+        "onboard_time": 1665377007,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 198896,
+        "num": 198896,
+        "word": "外婆花7天为宝宝做提篮床",
+        "onboard_time": 1665392126,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195662,
+        "num": 195662,
+        "word": "群星为爱的二八定律打call",
+        "onboard_time": 1665395665,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184248,
+        "num": 184248,
+        "word": "乌克兰基辅市中心多次爆炸",
+        "onboard_time": 1665381623,
+        "rank": 25,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 173344,
+        "num": 173344,
+        "word": "老师上课放年轻时帅照惊艳全班",
+        "onboard_time": 1665386124,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 173323,
+        "num": 173323,
+        "word": "NewThing疑似抄袭ATEEZ编舞",
+        "onboard_time": 1665389666,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 170646,
+        "num": 170646,
+        "word": "我的无用节俭行为",
+        "onboard_time": 1665393144,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166318,
+        "num": 166318,
+        "word": "泽连斯基针对空袭发声",
+        "onboard_time": 1665386545,
+        "rank": 29,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 162166,
+        "num": 162166,
+        "word": "从设计院辞职当保安女孩回应",
+        "onboard_time": 1665382043,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156030,
+        "num": 156030,
+        "word": "老人公交车上直跺脚被护士看出中风",
+        "onboard_time": 1665383243,
+        "rank": 31,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 134970,
+        "num": 134970,
+        "word": "小脑斧舔爪爪的样子也太萌了",
+        "onboard_time": 1665395002,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124724,
+        "num": 124724,
+        "word": "你好二十大",
+        "onboard_time": 1665385704,
+        "rank": 33,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 118248,
+        "num": 118248,
+        "word": "猫咪听了都直呼地道的猫语",
+        "onboard_time": 1665396683,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115080,
+        "num": 115080,
+        "word": "原来轻舟已过万重山这么伤感",
+        "onboard_time": 1665386724,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114320,
+        "num": 114320,
+        "word": "孙颖莎说冠军属于所有人",
+        "onboard_time": 1665389844,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108925,
+        "num": 108925,
+        "word": "少年的松弛感有多令人心动",
+        "onboard_time": 1665395184,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 101588,
+        "num": 101588,
+        "word": "换季穿衣法则",
+        "onboard_time": 1665392664,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96584,
+        "num": 96584,
+        "word": "刘诗诗说一念关山是群像戏",
+        "onboard_time": 1665384383,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 96529,
+        "num": 96529,
+        "word": "小学生因假期后连上7天课天天哭",
+        "onboard_time": 1665380603,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90566,
+        "num": 90566,
+        "word": "摸鱼助手提醒您",
+        "onboard_time": 1665393744,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89863,
+        "num": 89863,
+        "word": "员工年薪少发7万公司被判补足",
+        "onboard_time": 1665373041,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84074,
+        "num": 84074,
+        "word": "沪指失守3000点",
+        "onboard_time": 1665384084,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 83747,
+        "num": 83747,
+        "word": "谁以前还不是个甜妹呢",
+        "onboard_time": 1665382462,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 83271,
+        "num": 83271,
+        "word": "迪丽热巴大众电影祝贺VCR",
+        "onboard_time": 1665391224,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 82859,
+        "num": 82859,
+        "word": "基辅要求民众进入庇护所",
+        "onboard_time": 1665397223,
+        "rank": 46,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 77118,
+        "num": 77118,
+        "word": "没想到相亲会这么社死",
+        "onboard_time": 1665397402,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 72758,
+        "num": 72758,
+        "word": "王一博拍无名被要求自己待在房间",
+        "onboard_time": 1665379463,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 72589,
+        "num": 72589,
+        "word": "许家印20亿伦敦豪宅挂牌出售",
+        "onboard_time": 1665375263,
+        "rank": 49,
+        "category": "财经,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#十年的十个为什么#"
+    }
+  }
+}
