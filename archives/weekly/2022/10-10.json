@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665434714750,
+  "endTime": 1665437033441,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -2172,7 +2172,7 @@
     },
     {
       "raw_hot": 54735,
-      "num": 32951,
+      "num": 33053,
       "word": "因代做核酸上海80余人被行政处罚",
       "onboard_time": 1665429371,
       "rank": 30,
@@ -2291,8 +2291,16 @@
       "category": "影视"
     },
     {
-      "raw_hot": 19847,
-      "num": 16828,
+      "raw_hot": 23041,
+      "num": 21564,
+      "word": "来沪返沪人员抵沪后需三天三检",
+      "onboard_time": 1665432490,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20508,
+      "num": 17003,
       "word": "北京目前存在15条传播链",
       "onboard_time": 1665432072,
       "rank": 29,
@@ -2339,14 +2347,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 15040,
-      "num": 15040,
-      "word": "来沪返沪人员抵沪后需三天三检",
-      "onboard_time": 1665432490,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 14109,
       "num": 14109,
       "word": "张远噢乖高音",
@@ -2371,12 +2371,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 12690,
+      "num": 12690,
+      "word": "主人地铁落座给找座的导盲犬铺垫子",
+      "onboard_time": 1665434469,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 11443,
       "num": 11443,
       "word": "2个动作增强背肌",
       "onboard_time": 1665351311,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 10965,
+      "num": 10965,
+      "word": "女孩感冒家长2天喂7种药致其肝损害",
+      "onboard_time": 1665435252,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9679,
@@ -2387,8 +2403,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 9053,
-      "num": 9053,
+      "raw_hot": 9218,
+      "num": 9218,
       "word": "这猫是只刺客吧",
       "onboard_time": 1665433270,
       "rank": 47,
@@ -2427,20 +2443,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 6558,
-      "num": 6558,
-      "word": "主人地铁落座给找座的导盲犬铺垫子",
-      "onboard_time": 1665434469,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 6522,
       "num": 6522,
       "word": "宝宝坐童车栽下倒挂近1分钟",
       "onboard_time": 1665346630,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6463,
+      "num": 7854,
+      "word": "董思成被土味情话土麻了",
+      "onboard_time": 1665434709,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 6457,
@@ -2465,14 +2481,6 @@
       "onboard_time": 1665432910,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6172,
-      "num": 6172,
-      "word": "董思成被土味情话土麻了",
-      "onboard_time": 1665434709,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 6156,
