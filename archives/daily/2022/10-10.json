@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665387767314,
+  "endTime": 1665388584330,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -107,8 +107,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 844453,
-      "num": 844453,
+      "raw_hot": 903860,
+      "num": 768507,
+      "word": "女子骑车脖子遭横空风筝线割伤",
+      "onboard_time": 1665385044,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 898825,
+      "num": 898825,
       "word": "从设计院辞职当保安女孩回应",
       "onboard_time": 1665382043,
       "rank": 22,
@@ -139,12 +147,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 768507,
-      "num": 768507,
-      "word": "女子骑车脖子遭横空风筝线割伤",
-      "onboard_time": 1665385044,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 772212,
+      "num": 416138,
+      "word": "俄媒称一导弹落在泽连斯基办公室附近街道",
+      "onboard_time": 1665386245,
+      "rank": 10,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 753302,
@@ -195,6 +203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 649553,
+      "num": 390700,
+      "word": "基辅正在遭遇第二波巨大爆炸",
+      "onboard_time": 1665386184,
+      "rank": 13,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 637753,
       "num": 637753,
       "word": "A股",
@@ -233,14 +249,6 @@
       "onboard_time": 1665369383,
       "rank": 7,
       "category": "财经"
-    },
-    {
-      "raw_hot": 578306,
-      "num": 374840,
-      "word": "俄媒称一导弹落在泽连斯基办公室附近街道",
-      "onboard_time": 1665386245,
-      "rank": 10,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 576424,
@@ -315,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 494013,
+      "num": 382100,
+      "word": "泽连斯基针对空袭发声",
+      "onboard_time": 1665386545,
+      "rank": 20,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 491330,
       "num": 491330,
       "word": "总以为截图可以留住些什么",
@@ -337,14 +353,6 @@
       "onboard_time": 1665365963,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 470139,
-      "num": 368303,
-      "word": "基辅正在遭遇第二波巨大爆炸",
-      "onboard_time": 1665386184,
-      "rank": 13,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 452972,
@@ -372,7 +380,7 @@
     },
     {
       "raw_hot": 421749,
-      "num": 369631,
+      "num": 372673,
       "word": "沪指失守3000点",
       "onboard_time": 1665384084,
       "rank": 19,
@@ -403,6 +411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 397547,
+      "num": 397547,
+      "word": "海天味业市值蒸发330亿",
+      "onboard_time": 1665384503,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 387064,
       "num": 387064,
       "word": "第一次喜欢的那个人还联系吗",
@@ -427,12 +443,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 367750,
-      "num": 253844,
-      "word": "泽连斯基针对空袭发声",
-      "onboard_time": 1665386545,
-      "rank": 20,
-      "category": "国外要闻"
+      "raw_hot": 370362,
+      "num": 370362,
+      "word": "你好二十大",
+      "onboard_time": 1665385704,
+      "rank": 49,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 364521,
@@ -441,14 +457,6 @@
       "onboard_time": 1665324266,
       "rank": 6,
       "category": "体育,网红"
-    },
-    {
-      "raw_hot": 364396,
-      "num": 364396,
-      "word": "你好二十大",
-      "onboard_time": 1665385704,
-      "rank": 49,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 360100,
@@ -483,6 +491,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 346316,
+      "num": 346316,
+      "word": "近七成晚睡是因为手机",
+      "onboard_time": 1665384563,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 341103,
       "num": 341103,
       "word": "睡觉被吵醒后的小猫",
@@ -491,12 +507,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 339155,
-      "num": 339155,
-      "word": "海天味业市值蒸发330亿",
-      "onboard_time": 1665384503,
-      "rank": 32,
-      "category": "财经"
+      "raw_hot": 323957,
+      "num": 323957,
+      "word": "老人公交车上直跺脚被护士看出中风",
+      "onboard_time": 1665383243,
+      "rank": 12,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 322549,
@@ -507,12 +523,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 320891,
-      "num": 320891,
-      "word": "老人公交车上直跺脚被护士看出中风",
-      "onboard_time": 1665383243,
-      "rank": 12,
-      "category": "社会正能量"
+      "raw_hot": 319561,
+      "num": 319561,
+      "word": "抽检发现有的女装致癌物超标20多倍",
+      "onboard_time": 1665386665,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 313365,
@@ -545,6 +561,14 @@
       "onboard_time": 1665382462,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 300079,
+      "num": 300079,
+      "word": "董思成赖冠霖胡一天十月刊封面",
+      "onboard_time": 1665386966,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 295466,
@@ -635,14 +659,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 255191,
-      "num": 255191,
-      "word": "近七成晚睡是因为手机",
-      "onboard_time": 1665384563,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 254455,
       "num": 254455,
       "word": "469只基金持仓海天味业",
@@ -651,12 +667,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 248926,
-      "num": 248926,
-      "word": "董思成赖冠霖胡一天十月刊封面",
-      "onboard_time": 1665386966,
-      "rank": 21,
-      "category": "作品衍生,时尚"
+      "raw_hot": 238405,
+      "num": 238405,
+      "word": "老师上课放年轻时帅照惊艳全班",
+      "onboard_time": 1665386124,
+      "rank": 27,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 237008,
@@ -763,28 +779,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 195701,
-      "num": 195701,
-      "word": "抽检发现有的女装致癌物超标20多倍",
-      "onboard_time": 1665386665,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 195595,
       "num": 195595,
       "word": "运城疫情防控",
       "onboard_time": 1665363324,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 194492,
-      "num": 194492,
-      "word": "老师上课放年轻时帅照惊艳全班",
-      "onboard_time": 1665386124,
-      "rank": 27,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 194400,
@@ -891,6 +891,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 159936,
+      "num": 159936,
+      "word": "电影无名最新阵容",
+      "onboard_time": 1665387805,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 159819,
       "num": 378525,
       "word": "我的世界杯回忆",
@@ -945,6 +953,14 @@
       "onboard_time": 1665368782,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152444,
+      "num": 152444,
+      "word": "原来轻舟已过万重山这么伤感",
+      "onboard_time": 1665386724,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 147605,
@@ -1064,14 +1080,6 @@
       "word": "原来镜头真的是有感情的",
       "onboard_time": 1665327025,
       "rank": 25,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 124412,
-      "num": 124412,
-      "word": "原来轻舟已过万重山这么伤感",
-      "onboard_time": 1665386724,
-      "rank": 37,
       "category": "情感"
     },
     {
@@ -1227,6 +1235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90324,
+      "num": 90324,
+      "word": "熊猫宝宝的笑容有多治愈",
+      "onboard_time": 1665387746,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90113,
       "num": 90113,
       "word": "成都世乒赛现场播报是许魏洲",
@@ -1259,14 +1275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 87514,
-      "num": 82314,
-      "word": "熊猫宝宝的笑容有多治愈",
-      "onboard_time": 1665387746,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 85662,
       "num": 85662,
       "word": "樊振东表情",
@@ -1291,11 +1299,35 @@
       "category": "影视"
     },
     {
+      "raw_hot": 83136,
+      "num": 83136,
+      "word": "为什么老师不在课间上厕所",
+      "onboard_time": 1665388406,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 82525,
+      "num": 82525,
+      "word": "医生建议成人每天睡够7小时",
+      "onboard_time": 1665388344,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82384,
       "num": 82384,
       "word": "三部门约谈部分光伏企业及行业机构",
       "onboard_time": 1665349870,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82336,
+      "num": 376085,
+      "word": "4岁萌娃教妈妈温柔喊自己名字",
+      "onboard_time": 1665385225,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1307,20 +1339,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 77895,
+      "num": 77895,
+      "word": "送儿子上北大的店主曾被北大食堂挽留",
+      "onboard_time": 1665388522,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77546,
       "num": 77546,
       "word": "当肩宽星人穿毛衣",
       "onboard_time": 1665314064,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 73632,
-      "num": 365897,
-      "word": "4岁萌娃教妈妈温柔喊自己名字",
-      "onboard_time": 1665385225,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 70535,
@@ -1432,6 +1464,14 @@
       "word": "不运动的借口有多离谱",
       "onboard_time": 1665385225,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21366,
+      "num": 450723,
+      "word": "红星何以照耀中国",
+      "onboard_time": 1665387865,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
