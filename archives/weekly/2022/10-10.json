@@ -1,18 +1,26 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665383192202,
+  "endTime": 1665385742614,
   "band_list": [
     {
-      "raw_hot": 2916194,
-      "num": 2916194,
+      "raw_hot": 3745884,
+      "num": 3991769,
       "word": "网红兔狲狲思邈意外死亡",
       "onboard_time": 1665381425,
       "rank": 16,
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2809168,
+      "num": 2809168,
+      "word": "乌克兰基辅市中心多次爆炸",
+      "onboard_time": 1665381623,
+      "rank": 12,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1965024,
-      "num": 859679,
+      "num": 1518870,
       "word": "周震南父母再成老赖",
       "onboard_time": 1665382043,
       "rank": 3,
@@ -49,14 +57,6 @@
       "onboard_time": 1665373041,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1476500,
-      "num": 1476500,
-      "word": "乌克兰基辅市中心多次爆炸",
-      "onboard_time": 1665381623,
-      "rank": 12,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1318290,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 844453,
+      "num": 844453,
+      "word": "从设计院辞职当保安女孩回应",
+      "onboard_time": 1665382043,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 833205,
       "num": 833205,
       "word": "榴莲开出榴莲含片的感觉",
@@ -137,6 +145,14 @@
       "onboard_time": 1665350350,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 730240,
+      "num": 264779,
+      "word": "基金",
+      "onboard_time": 1665383783,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 727188,
@@ -185,6 +201,14 @@
       "onboard_time": 1665333380,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 620939,
+      "num": 620939,
+      "word": "刘诗诗说一念关山是群像戏",
+      "onboard_time": 1665384383,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 602418,
@@ -265,6 +289,14 @@
       "onboard_time": 1665376347,
       "rank": 23,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 502932,
+      "num": 502932,
+      "word": "小学生因假期后连上7天课天天哭",
+      "onboard_time": 1665380603,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 491330,
@@ -353,6 +385,14 @@
       "onboard_time": 1665367284,
       "rank": 11,
       "category": "科技"
+    },
+    {
+      "raw_hot": 373371,
+      "num": 373371,
+      "word": "跪地救人的旗袍女孩找到了",
+      "onboard_time": 1665382101,
+      "rank": 27,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 364521,
@@ -459,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 284796,
+      "num": 284796,
+      "word": "老人公交车上直跺脚被护士看出中风",
+      "onboard_time": 1665383243,
+      "rank": 12,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 283314,
       "num": 283314,
       "word": "许凯被杨幂壁咚后不敢动",
@@ -499,14 +547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 266272,
-      "num": 266272,
-      "word": "小学生因假期后连上7天课天天哭",
-      "onboard_time": 1665380603,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 265228,
       "num": 265228,
       "word": "王嘉尔世界巡演曼谷站官宣",
@@ -529,6 +569,14 @@
       "onboard_time": 1665364764,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 254677,
+      "num": 254677,
+      "word": "沪指失守3000点",
+      "onboard_time": 1665384084,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 254455,
@@ -595,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216144,
+      "num": 216144,
+      "word": "道枝骏佑说中文",
+      "onboard_time": 1665382524,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 215281,
       "num": 215281,
       "word": "英雄联盟S12",
@@ -611,20 +667,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 210857,
-      "num": 210857,
-      "word": "从设计院辞职当保安女孩回应",
-      "onboard_time": 1665382043,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 210658,
-      "num": 210658,
-      "word": "道枝骏佑说中文",
-      "onboard_time": 1665382524,
-      "rank": 23,
-      "category": "作品衍生,时尚"
+      "raw_hot": 212839,
+      "num": 212839,
+      "word": "谁以前还不是个甜妹呢",
+      "onboard_time": 1665382462,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 204622,
@@ -811,14 +859,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 154190,
-      "num": 154190,
-      "word": "跪地救人的旗袍女孩找到了",
-      "onboard_time": 1665382101,
-      "rank": 27,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 153625,
       "num": 153625,
       "word": "今晨南北方气温达本轮降温最低点",
@@ -843,12 +883,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 145181,
-      "num": 145181,
-      "word": "谁以前还不是个甜妹呢",
-      "onboard_time": 1665382462,
-      "rank": 30,
-      "category": "作品衍生"
+      "raw_hot": 144292,
+      "num": 144292,
+      "word": "女子骑车脖子遭横空风筝线割伤",
+      "onboard_time": 1665385044,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144257,
@@ -947,12 +987,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127243,
+      "num": 127243,
+      "word": "海天味业市值蒸发330亿",
+      "onboard_time": 1665384503,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 126120,
       "num": 126120,
       "word": "原来镜头真的是有感情的",
       "onboard_time": 1665327025,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 123417,
+      "num": 123417,
+      "word": "邻居被消防深夜出警速度震惊了",
+      "onboard_time": 1665381263,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121718,
@@ -977,6 +1033,14 @@
       "onboard_time": 1665351670,
       "rank": 47,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 114047,
+      "num": 114047,
+      "word": "死神千年血战篇开播",
+      "onboard_time": 1665385163,
+      "rank": 38,
+      "category": "动漫"
     },
     {
       "raw_hot": 108494,
@@ -1075,14 +1139,6 @@
       "category": "幽默,社会新闻"
     },
     {
-      "raw_hot": 91531,
-      "num": 91531,
-      "word": "邻居被消防深夜出警速度震惊了",
-      "onboard_time": 1665381263,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 91170,
       "num": 91170,
       "word": "杭州两商场未落实扫码核验六人被行政拘留",
@@ -1163,6 +1219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 78219,
+      "num": 78219,
+      "word": "近七成晚睡是因为手机",
+      "onboard_time": 1665384563,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77546,
       "num": 77546,
       "word": "当肩宽星人穿毛衣",
@@ -1177,6 +1241,14 @@
       "onboard_time": 1665330204,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 69528,
+      "num": 69528,
+      "word": "你好二十大",
+      "onboard_time": 1665385704,
+      "rank": 49,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 68684,
@@ -1275,8 +1347,16 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 27226,
+      "num": 275494,
+      "word": "4岁萌娃教妈妈温柔喊自己名字",
+      "onboard_time": 1665385225,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17793,
-      "num": 930058,
+      "num": 1937326,
       "word": "中国人的书信有多美",
       "onboard_time": 1665276205,
       "rank": 2,
@@ -1289,6 +1369,14 @@
       "onboard_time": 1665299121,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 17669,
+      "num": 112881,
+      "word": "不运动的借口有多离谱",
+      "onboard_time": 1665385225,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 17546,
