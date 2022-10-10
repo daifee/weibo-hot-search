@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/11 00:39:03
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/11 01:08:17
 </p>
 </blockquote>
 <p>
@@ -3027,6 +3027,12 @@ JDG战胜DK（热度：484636）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2310%E6%96%A4%E7%9A%84%E5%B0%8F%E7%8C%AB9%E6%96%A4%E7%9A%84%E5%8F%8D%E9%AA%A8%23" target="weibo">
+10斤的小猫9斤的反骨（热度：483608）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%9C%80%E6%96%B0%E8%BF%9B%E8%BF%94%E4%BA%AC%E6%8F%90%E9%86%92%23" target="weibo">
 北京最新进返京提醒（热度：482691）
 </a>
@@ -6005,12 +6011,6 @@ StrayKids新专辑预售量突破237万张（热度：261769）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9D%9A%E6%8C%81%E4%BA%94%E5%85%AD%E5%B9%B4%E4%B8%BA%E8%80%81%E4%BA%BA%E5%81%9A%E7%82%96%E8%8F%9C%E8%BF%87%E9%87%8D%E9%98%B3%23" target="weibo">
 男子坚持五六年为老人做炖菜过重阳（热度：259581）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23RNG%E5%AF%B9%E6%88%98CFO%23" target="weibo">
-RNG对战CFO（热度：259354）
 </a>
 </li>
 
