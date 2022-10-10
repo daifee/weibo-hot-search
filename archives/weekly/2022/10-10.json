@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665433711955,
+  "endTime": 1665434714750,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -2172,7 +2172,7 @@
     },
     {
       "raw_hot": 54735,
-      "num": 28639,
+      "num": 32951,
       "word": "因代做核酸上海80余人被行政处罚",
       "onboard_time": 1665429371,
       "rank": 30,
@@ -2291,6 +2291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 19847,
+      "num": 16828,
+      "word": "北京目前存在15条传播链",
+      "onboard_time": 1665432072,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17793,
       "num": 1937326,
       "word": "中国人的书信有多美",
@@ -2315,12 +2323,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 15865,
+      "num": 15865,
+      "word": "九图速览19次党代会极简史",
+      "onboard_time": 1665434651,
+      "rank": 23,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 15514,
       "num": 15514,
       "word": "给爱美的妈妈买了一支口红",
       "onboard_time": 1665424694,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 15040,
+      "num": 15040,
+      "word": "来沪返沪人员抵沪后需三天三检",
+      "onboard_time": 1665432490,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14109,
@@ -2347,14 +2371,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 11570,
-      "num": 11570,
-      "word": "北京目前存在15条传播链",
-      "onboard_time": 1665432072,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 11443,
       "num": 11443,
       "word": "2个动作增强背肌",
@@ -2363,20 +2379,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 10260,
-      "num": 10260,
-      "word": "来沪返沪人员抵沪后需三天三检",
-      "onboard_time": 1665432490,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 9679,
       "num": 9679,
       "word": "好吃到会上瘾的小花卷",
       "onboard_time": 1665429611,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 9053,
+      "num": 9053,
+      "word": "这猫是只刺客吧",
+      "onboard_time": 1665433270,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 7867,
@@ -2411,6 +2427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 6558,
+      "num": 6558,
+      "word": "主人地铁落座给找座的导盲犬铺垫子",
+      "onboard_time": 1665434469,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 6522,
       "num": 6522,
       "word": "宝宝坐童车栽下倒挂近1分钟",
@@ -2427,14 +2451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 6372,
-      "num": 6372,
-      "word": "这猫是只刺客吧",
-      "onboard_time": 1665433270,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 6294,
       "num": 6294,
       "word": "用浆板救2人的男孩正认定见义勇为",
@@ -2449,6 +2465,14 @@
       "onboard_time": 1665432910,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6172,
+      "num": 6172,
+      "word": "董思成被土味情话土麻了",
+      "onboard_time": 1665434709,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 6156,
