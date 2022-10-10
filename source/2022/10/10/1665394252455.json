@@ -1,0 +1,410 @@
+{
+  "runTime": 1665394252455,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2727350,
+        "num": 2727350,
+        "word": "医生建议成人每天睡够7小时",
+        "onboard_time": 1665388344,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 992571,
+        "num": 992571,
+        "word": "抽检发现有的女装致癌物超标20多倍",
+        "onboard_time": 1665386665,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51143,
+        "num": 799709,
+        "word": "红星何以照耀中国",
+        "onboard_time": 1665387865,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 758384,
+        "num": 758384,
+        "word": "送儿子上北大的店主曾被北大食堂挽留",
+        "onboard_time": 1665388522,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 693398,
+        "num": 693398,
+        "word": "大四男生32门课近满分获清华直博",
+        "onboard_time": 1665391046,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1203991,
+        "num": 684471,
+        "word": "网红兔狲狲思邈意外死亡",
+        "onboard_time": 1665381425,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632019,
+        "num": 632019,
+        "word": "周震南父母再成老赖",
+        "onboard_time": 1665382043,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 608696,
+        "num": 608696,
+        "word": "为什么老师不在课间上厕所",
+        "onboard_time": 1665388406,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 606856,
+        "num": 606856,
+        "word": "乌克兰基辅市中心多次爆炸",
+        "onboard_time": 1665381623,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 542635,
+        "num": 542635,
+        "word": "基辅遭到袭击已造成8死24伤",
+        "onboard_time": 1665391884,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 491132,
+        "num": 491132,
+        "word": "许凯回复彭昱畅你胆子最大了",
+        "onboard_time": 1665388764,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 409898,
+        "num": 409898,
+        "word": "女子骑车脖子遭横空风筝线割伤",
+        "onboard_time": 1665385044,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382605,
+        "num": 382605,
+        "word": "杨幂把幂式穿搭带进剧里",
+        "onboard_time": 1665376885,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 375802,
+        "num": 375802,
+        "word": "俄媒称一导弹落在泽连斯基办公室附近街道",
+        "onboard_time": 1665386245,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 71740,
+        "num": 360149,
+        "word": "00后男生复刻明代皇后六龙三凤冠",
+        "onboard_time": 1665392484,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359032,
+        "num": 359032,
+        "word": "王鹤棣暖心捡宋丹丹靠垫细节",
+        "onboard_time": 1665390685,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 351735,
+        "num": 351735,
+        "word": "基辅正在遭遇第二波巨大爆炸",
+        "onboard_time": 1665386184,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 316325,
+        "num": 316325,
+        "word": "狗子的暗示够明显了",
+        "onboard_time": 1665392844,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 303304,
+        "num": 303304,
+        "word": "孙颖莎说冠军属于所有人",
+        "onboard_time": 1665389844,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 298507,
+        "num": 298507,
+        "word": "NewThing疑似抄袭ATEEZ编舞",
+        "onboard_time": 1665389666,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 285005,
+        "num": 285005,
+        "word": "iPhone备忘录被曝莫名清空",
+        "onboard_time": 1665377007,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 264942,
+        "num": 264942,
+        "word": "泽连斯基针对空袭发声",
+        "onboard_time": 1665386545,
+        "rank": 21,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 248520,
+        "num": 248520,
+        "word": "从设计院辞职当保安女孩回应",
+        "onboard_time": 1665382043,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245138,
+        "num": 245138,
+        "word": "迪丽热巴大众电影祝贺VCR",
+        "onboard_time": 1665391224,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 240389,
+        "num": 240389,
+        "word": "海天味业市值蒸发330亿",
+        "onboard_time": 1665384503,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 231318,
+        "num": 231318,
+        "word": "你好二十大",
+        "onboard_time": 1665385704,
+        "rank": 25,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 190450,
+        "num": 190450,
+        "word": "韩漫双开门冰箱走向现实",
+        "onboard_time": 1665393204,
+        "rank": 26,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 189915,
+        "num": 189915,
+        "word": "老师上课放年轻时帅照惊艳全班",
+        "onboard_time": 1665386124,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 187314,
+        "num": 187314,
+        "word": "外婆花7天为宝宝做提篮床",
+        "onboard_time": 1665392126,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169315,
+        "num": 169315,
+        "word": "近七成晚睡是因为手机",
+        "onboard_time": 1665384563,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163818,
+        "num": 163818,
+        "word": "老人公交车上直跺脚被护士看出中风",
+        "onboard_time": 1665383243,
+        "rank": 30,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 150738,
+        "num": 150738,
+        "word": "原来轻舟已过万重山这么伤感",
+        "onboard_time": 1665386724,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144438,
+        "num": 144438,
+        "word": "刘诗诗说一念关山是群像戏",
+        "onboard_time": 1665384383,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140959,
+        "num": 140959,
+        "word": "沪指失守3000点",
+        "onboard_time": 1665384084,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 123829,
+        "num": 123829,
+        "word": "谁以前还不是个甜妹呢",
+        "onboard_time": 1665382462,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123177,
+        "num": 123177,
+        "word": "员工年薪少发7万公司被判补足",
+        "onboard_time": 1665373041,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117601,
+        "num": 117601,
+        "word": "小学生因假期后连上7天课天天哭",
+        "onboard_time": 1665380603,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117227,
+        "num": 117227,
+        "word": "我的无用节俭行为",
+        "onboard_time": 1665393144,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108415,
+        "num": 108415,
+        "word": "许家印20亿伦敦豪宅挂牌出售",
+        "onboard_time": 1665375263,
+        "rank": 38,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 107543,
+        "num": 107543,
+        "word": "换季穿衣法则",
+        "onboard_time": 1665392664,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106178,
+        "num": 106178,
+        "word": "跪地救人的旗袍女孩找到了",
+        "onboard_time": 1665382101,
+        "rank": 40,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 103764,
+        "num": 103764,
+        "word": "董思成赖冠霖胡一天十月刊封面",
+        "onboard_time": 1665386966,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 100832,
+        "num": 100832,
+        "word": "王一博拍无名被要求自己待在房间",
+        "onboard_time": 1665379463,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 95616,
+        "num": 95616,
+        "word": "爱的二八定律连六天14集",
+        "onboard_time": 1665378143,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91029,
+        "num": 91029,
+        "word": "榴莲开出榴莲含片的感觉",
+        "onboard_time": 1665375686,
+        "rank": 44,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 90763,
+        "num": 90763,
+        "word": "千禾味业涨停",
+        "onboard_time": 1665373705,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 85200,
+        "num": 85200,
+        "word": "睡觉被吵醒后的小猫",
+        "onboard_time": 1665379703,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84650,
+        "num": 84650,
+        "word": "摸鱼助手提醒您",
+        "onboard_time": 1665393744,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83972,
+        "num": 83972,
+        "word": "电影无名最新阵容",
+        "onboard_time": 1665387805,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 81242,
+        "num": 81242,
+        "word": "陈奕迅香港演唱会加开4场",
+        "onboard_time": 1665377545,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#领航#"
+    }
+  }
+}

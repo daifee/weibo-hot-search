@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665392203134,
+  "endTime": 1665394252455,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -17,6 +17,14 @@
       "onboard_time": 1665381623,
       "rank": 12,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 2727350,
+      "num": 2727350,
+      "word": "医生建议成人每天睡够7小时",
+      "onboard_time": 1665388344,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1965024,
@@ -49,14 +57,6 @@
       "onboard_time": 1665369082,
       "rank": 0,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1519489,
-      "num": 1519489,
-      "word": "医生建议成人每天睡够7小时",
-      "onboard_time": 1665388344,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1513811,
@@ -171,6 +171,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 758384,
+      "num": 758384,
+      "word": "送儿子上北大的店主曾被北大食堂挽留",
+      "onboard_time": 1665388522,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 753302,
       "num": 536563,
       "word": "男孩得胃病竟因妈妈染幽门螺杆菌",
@@ -203,20 +211,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 693398,
+      "num": 693398,
+      "word": "大四男生32门课近满分获清华直博",
+      "onboard_time": 1665391046,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 684983,
       "num": 684983,
       "word": "考研学生校内搭帐篷方便晚间学习",
       "onboard_time": 1665325702,
       "rank": 1,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 679839,
-      "num": 679839,
-      "word": "送儿子上北大的店主曾被北大食堂挽留",
-      "onboard_time": 1665388522,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 662644,
@@ -259,6 +267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 608696,
+      "num": 608696,
+      "word": "为什么老师不在课间上厕所",
+      "onboard_time": 1665388406,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 602418,
       "num": 602418,
       "word": "韩剧继承者们首播9周年",
@@ -296,6 +312,14 @@
       "word": "普京称克里米亚大桥爆炸是恐怖主义行为",
       "onboard_time": 1665364346,
       "rank": 6,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 542635,
+      "num": 542635,
+      "word": "基辅遭到袭击已造成8死24伤",
+      "onboard_time": 1665391884,
+      "rank": 40,
       "category": "国外要闻"
     },
     {
@@ -459,14 +483,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 390190,
-      "num": 390190,
-      "word": "为什么老师不在课间上厕所",
-      "onboard_time": 1665388406,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 387064,
       "num": 387064,
       "word": "第一次喜欢的那个人还联系吗",
@@ -513,6 +529,14 @@
       "onboard_time": 1665323244,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 359032,
+      "num": 359032,
+      "word": "王鹤棣暖心捡宋丹丹靠垫细节",
+      "onboard_time": 1665390685,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 356733,
@@ -571,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 316325,
+      "num": 316325,
+      "word": "狗子的暗示够明显了",
+      "onboard_time": 1665392844,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 313365,
       "num": 313365,
       "word": "内蒙古增本土确诊119例无症状559例",
@@ -601,6 +633,14 @@
       "onboard_time": 1665382462,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 303304,
+      "num": 303304,
+      "word": "孙颖莎说冠军属于所有人",
+      "onboard_time": 1665389844,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 300079,
@@ -649,22 +689,6 @@
       "onboard_time": 1665326727,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 270738,
-      "num": 270738,
-      "word": "王鹤棣暖心捡宋丹丹靠垫细节",
-      "onboard_time": 1665390685,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 270290,
-      "num": 270290,
-      "word": "孙颖莎说冠军属于所有人",
-      "onboard_time": 1665389844,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 269701,
@@ -787,14 +811,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 219071,
-      "num": 219071,
-      "word": "大四男生32门课近满分获清华直博",
-      "onboard_time": 1665391046,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 216180,
       "num": 216180,
       "word": "增强对当前疫情防控政策的信心和耐心",
@@ -891,12 +907,28 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 190450,
+      "num": 190450,
+      "word": "韩漫双开门冰箱走向现实",
+      "onboard_time": 1665393204,
+      "rank": 26,
+      "category": "动漫,网红"
+    },
+    {
       "raw_hot": 190160,
       "num": 190160,
       "word": "一夜入冬是种什么体验",
       "onboard_time": 1665351191,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 187314,
+      "num": 187314,
+      "word": "外婆花7天为宝宝做提篮床",
+      "onboard_time": 1665392126,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179522,
@@ -1179,20 +1211,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117227,
+      "num": 117227,
+      "word": "我的无用节俭行为",
+      "onboard_time": 1665393144,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 116841,
       "num": 116841,
       "word": "南京下调公积金贷款利率",
       "onboard_time": 1665351670,
       "rank": 47,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 114167,
-      "num": 114167,
-      "word": "基辅遭到袭击已造成8死24伤",
-      "onboard_time": 1665391884,
-      "rank": 40,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 114047,
@@ -1217,6 +1249,14 @@
       "onboard_time": 1665316644,
       "rank": 28,
       "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 107543,
+      "num": 107543,
+      "word": "换季穿衣法则",
+      "onboard_time": 1665392664,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 107277,
@@ -1379,6 +1419,14 @@
       "category": "国内要闻,军事"
     },
     {
+      "raw_hot": 84650,
+      "num": 84650,
+      "word": "摸鱼助手提醒您",
+      "onboard_time": 1665393744,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 84107,
       "num": 79884,
       "word": "天空之城开通微博",
@@ -1419,11 +1467,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 77205,
-      "num": 77205,
-      "word": "外婆花7天为宝宝做提篮床",
-      "onboard_time": 1665392126,
-      "rank": 48,
+      "raw_hot": 71740,
+      "num": 360149,
+      "word": "00后男生复刻明代皇后六龙三凤冠",
+      "onboard_time": 1665392484,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
