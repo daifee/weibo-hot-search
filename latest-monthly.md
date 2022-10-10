@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/10 22:05:51
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/10 22:56:12
 </p>
 </blockquote>
 <p>
@@ -579,6 +579,12 @@ legends never die（热度：1502829）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E8%BF%90%E5%9F%8E%E6%8A%A5%E5%91%8A299%E4%BE%8B%E6%96%B0%E5%86%A0%E9%98%B3%E6%80%A7%23" target="weibo">
+山西运城报告299例新冠阳性（热度：1474534）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%A4%A9%E5%91%B3%E4%B8%9A%E5%86%8D%E5%8F%91%E5%A3%B0%E6%98%8E%E5%90%A6%E8%AE%A4%E5%8F%8C%E6%A0%87%23" target="weibo">
 海天味业再发声明否认双标（热度：1469773）
 </a>
@@ -809,6 +815,12 @@ T1战胜EDG（热度：1259172）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E4%B8%83%E5%A4%A9%E6%AF%8F%E5%88%86%E9%92%9F%E9%83%BD%E4%B8%8D%E6%83%B3%E6%B5%AA%E8%B4%B9%23" target="weibo">
 国庆七天每分钟都不想浪费（热度：1244093）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%A4%A9%E7%94%9F4%E4%B8%AA%E8%82%BE%E7%AB%9F%E5%85%A8%E9%83%A8%E9%95%BF%E7%BB%93%E7%9F%B3%23" target="weibo">
+女子天生4个肾竟全部长结石（热度：1232870）
 </a>
 </li>
 
@@ -2457,6 +2469,12 @@ SK（热度：578344）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8B%BF%E8%A1%8C%E6%9D%8E%E8%AF%AF%E8%A2%AB%E6%9C%8B%E5%8F%8B%E5%BC%80%E8%BD%A6%E5%8E%8B%E9%AA%A8%E6%8A%98%23" target="weibo">
+女子拿行李误被朋友开车压骨折（热度：572804）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E8%A7%86%E5%89%A7%E5%BA%95%E7%BA%BF%23" target="weibo">
 电视剧底线（热度：570148）
 </a>
@@ -2861,12 +2879,6 @@ TF家族三代路演（热度：515309）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E8%B4%9E%E7%BE%BD%E6%8D%A1%E8%A1%A3%E6%9C%8D%E7%9A%84%E5%B0%8F%E5%A5%B3%E5%AD%A9%23" target="weibo">
 姜贞羽捡衣服的小女孩（热度：508633）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E8%BF%90%E5%9F%8E%E6%8A%A5%E5%91%8A299%E4%BE%8B%E6%96%B0%E5%86%A0%E9%98%B3%E6%80%A7%23" target="weibo">
-山西运城报告299例新冠阳性（热度：508235）
 </a>
 </li>
 
@@ -4209,6 +4221,12 @@ TES对战GAM（热度：376826）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%99%9E%E7%BE%8E%E4%BA%BA%E5%94%B1%E6%97%A0%E5%90%8D%E4%B9%8B%E8%BE%88%E7%BF%BB%E8%BD%A6%23" target="weibo">
+虞书欣虞美人唱无名之辈翻车（热度：375826）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E7%A7%B0%E4%B9%8C%E5%85%8B%E5%85%B0%E5%B0%86%E9%87%8D%E5%BB%BA%E6%B5%B7%E5%86%9B%23" target="weibo">
 泽连斯基称乌克兰将重建海军（热度：375131）
 </a>
@@ -4395,6 +4413,12 @@ RNG入围赛淘汰赛对阵DFM（热度：373120）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%8F%AC%E5%BC%80%E4%BF%84%E8%81%94%E9%82%A6%E5%AE%89%E5%85%A8%E4%BC%9A%E8%AE%AE%23" target="weibo">
+普京召开俄联邦安全会议（热度：358703）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2395%E5%90%8E%E5%A5%B3%E5%AD%A9%E4%BC%91%E5%AD%A6%E5%90%8E%E8%BF%9B%E5%B1%B1%E5%BD%93%E5%86%9C%E6%B0%91%23" target="weibo">
 95后女孩休学后进山当农民（热度：358458）
 </a>
@@ -4439,6 +4463,12 @@ RNG入围赛淘汰赛对阵DFM（热度：373120）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23S12%E6%8F%90%E8%8E%AB%E7%99%BB%E5%9C%BA%23" target="weibo">
 S12提莫登场（热度：354274）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%98%AF%E5%80%94%E5%BC%BA%E5%BC%8F%E5%8D%95%E8%BA%AB%E5%90%97%23" target="weibo">
+你是倔强式单身吗（热度：354111）
 </a>
 </li>
 
@@ -5379,6 +5409,12 @@ HYBE第四季度计划（热度：285836）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B4%97%E6%BE%A1%E6%8A%A4%E8%82%A4%E6%9C%89%E4%B8%AA%E5%85%B3%E9%94%AE%E4%B8%89%E5%88%86%E9%92%9F%23" target="weibo">
+洗澡护肤有个关键三分钟（热度：284682）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%BC%A0%E5%BD%AC%E5%BD%AC%E9%9B%A8%E5%A4%9C%E8%B4%B4%E8%84%B8%E8%87%AA%E6%8B%8D%23" target="weibo">
 虞书欣张彬彬雨夜贴脸自拍（热度：284537）
 </a>
@@ -5627,12 +5663,6 @@ NH大满贯（热度：273045）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E4%BC%9A%E8%B7%B3%E8%88%9E%E4%B9%9F%E6%98%AF%E4%B8%80%E7%A7%8D%E5%A4%A9%E8%B5%8B%23" target="weibo">
 不会跳舞也是一种天赋（热度：272579）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%98%AF%E5%80%94%E5%BC%BA%E5%BC%8F%E5%8D%95%E8%BA%AB%E5%90%97%23" target="weibo">
-你是倔强式单身吗（热度：272365）
 </a>
 </li>
 
@@ -5981,36 +6011,6 @@ RNG对战CFO（热度：259354）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E5%BA%95%E7%BA%BF%E5%92%AA%E5%92%95%E6%92%AD%E6%94%BE%E9%87%8F%E7%A0%B410%E4%BA%BF%23" target="weibo">
 成毅底线咪咕播放量破10亿（热度：257553）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232%E7%94%B7%E5%AD%A9%E5%85%AC%E4%BA%A4%E8%BD%A6%E4%B8%8A%E6%89%93%E9%97%B9%E8%A2%AB%E5%8F%B8%E6%9C%BA%E5%8E%89%E5%A3%B0%E5%88%B6%E6%AD%A2%23" target="weibo">
-2男孩公交车上打闹被司机厉声制止（热度：257445）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E6%95%88%E5%87%8F%E8%84%82%E5%87%8F%E9%87%8D%E5%81%9A%E5%88%B0%E8%BF%993%E7%82%B9%23" target="weibo">
-有效减脂减重做到这3点（热度：257381）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%AE%81%E8%BF%9C%E8%88%9F%E9%BB%91%E8%A1%A3%E8%92%99%E9%9D%A2%E8%B7%AF%E9%80%8F%23" target="weibo">
-刘宇宁宁远舟黑衣蒙面路透（热度：257322）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%84%B1%E5%8F%A3%E7%A7%80%E5%A5%B3%E6%BC%94%E5%91%98%E7%9A%84%E5%8A%9B%E9%87%8F%E6%84%9F%23" target="weibo">
-脱口秀女演员的力量感（热度：257015）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%85%E9%85%B7%20%E8%BE%85%E5%8A%A9%23" target="weibo">
-久酷 辅助（热度：256965）
 </a>
 </li>
 
