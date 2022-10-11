@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/10 00:35:08 ~ 2022/10/12 01:04:50
+本榜单时间：2022/10/10 00:35:08 ~ 2022/10/12 01:34:10
 </p>
 </blockquote>
 <p>
@@ -2583,6 +2583,12 @@ CBA新赛季揭幕战（热度：108086）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%B2%E6%B1%9F%E9%80%9A%E6%8A%A5%E5%B0%8F%E5%AD%A6%E5%AD%A6%E7%94%9F%E5%9D%A0%E4%BA%A1%E4%BA%8B%E4%BB%B6%23" target="weibo">
+曲江通报小学学生坠亡事件（热度：97633）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E8%91%A1%E8%90%84%E5%B9%B2%E8%BF%98%E5%88%86%E7%88%B7%E7%88%B7%E5%92%8C%E5%AD%99%E5%AD%90%23" target="weibo">
 新疆葡萄干还分爷爷和孙子（热度：97326）
 </a>
@@ -2811,6 +2817,12 @@ iPhone15系列仍将采用高通基带（热度：68684）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E8%AE%A9%E4%BD%A0%E4%BB%AC%E8%BF%99%E4%B9%88%E6%95%99%E4%B8%AD%E6%96%87%E7%9A%84%23" target="weibo">
+谁让你们这么教中文的（热度：67233）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%236%E5%90%8D%E5%BB%BA%E7%AD%91%E5%B7%A5%E4%BA%BA%E7%81%AB%E5%9C%BA%E6%95%91%E5%87%BA%E4%B8%80%E5%AE%B6%E4%BA%94%E5%8F%A3%23" target="weibo">
 6名建筑工人火场救出一家五口（热度：66773）
 </a>
@@ -2891,6 +2903,12 @@ iPhone15系列仍将采用高通基带（热度：68684）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%BF%98%E4%BB%8A%E8%90%A7%E5%A9%9A%E5%90%8E%E6%97%A5%E5%B8%B8%23" target="weibo">
 南忘今萧婚后日常（热度：55969）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%BE%99%E9%A6%A5143CASE%E7%9B%B4%E6%8B%8D%23" target="weibo">
+李龙馥143CASE直拍（热度：55327）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665507890707,
+  "endTime": 1665509650972,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -3427,6 +3427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 97633,
+      "num": 65482,
+      "word": "曲江通报小学学生坠亡事件",
+      "onboard_time": 1665508695,
+      "rank": 22,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 97326,
       "num": 97326,
       "word": "新疆葡萄干还分爷爷和孙子",
@@ -3731,6 +3739,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 67233,
+      "num": 67233,
+      "word": "谁让你们这么教中文的",
+      "onboard_time": 1665508216,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 66773,
       "num": 305370,
       "word": "6名建筑工人火场救出一家五口",
@@ -3841,6 +3857,14 @@
       "onboard_time": 1665322287,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 55327,
+      "num": 55327,
+      "word": "李龙馥143CASE直拍",
+      "onboard_time": 1665508155,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 52440,

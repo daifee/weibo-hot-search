@@ -1,6 +1,6 @@
 {
   "startTime": 1665506336170,
-  "endTime": 1665507890707,
+  "endTime": 1665509650972,
   "band_list": [
     {
       "raw_hot": 819086,
@@ -211,6 +211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97633,
+      "num": 65482,
+      "word": "曲江通报小学学生坠亡事件",
+      "onboard_time": 1665508695,
+      "rank": 22,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 97068,
       "num": 97068,
       "word": "李万一郭浩然约会",
@@ -339,6 +347,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 67233,
+      "num": 67233,
+      "word": "谁让你们这么教中文的",
+      "onboard_time": 1665508216,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 65864,
       "num": 65864,
       "word": "成毅发长文告别底线",
@@ -369,6 +385,14 @@
       "onboard_time": 1665484765,
       "rank": 44,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 55327,
+      "num": 55327,
+      "word": "李龙馥143CASE直拍",
+      "onboard_time": 1665508155,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 53348,
