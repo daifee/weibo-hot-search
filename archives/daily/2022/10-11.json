@@ -1,6 +1,6 @@
 {
   "startTime": 1665419943424,
-  "endTime": 1665487368316,
+  "endTime": 1665488423856,
   "band_list": [
     {
       "raw_hot": 2305711,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1324287,
+      "num": 1324287,
+      "word": "你肯定见过这个床单",
+      "onboard_time": 1665483924,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1253236,
       "num": 1253236,
       "word": "妻子让丈夫煮筷子结果烧成碳",
@@ -65,14 +73,6 @@
       "onboard_time": 1665449903,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1116600,
-      "num": 1116600,
-      "word": "你肯定见过这个床单",
-      "onboard_time": 1665483924,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 1085972,
@@ -259,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 577567,
+      "num": 577567,
+      "word": "让狗愧疚一辈子",
+      "onboard_time": 1665484765,
+      "rank": 43,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 572244,
       "num": 572244,
       "word": "因代做核酸上海80余人被行政处罚",
@@ -411,6 +419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 459102,
+      "num": 459102,
+      "word": "爱的二八定律定档1013",
+      "onboard_time": 1665484226,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 455934,
       "num": 341128,
       "word": "山西运城新增196名新冠阳性",
@@ -432,14 +448,6 @@
       "word": "姚晨新剧被女儿推下水",
       "onboard_time": 1665466703,
       "rank": 17,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 443953,
-      "num": 443953,
-      "word": "爱的二八定律定档1013",
-      "onboard_time": 1665484226,
-      "rank": 5,
       "category": "影视"
     },
     {
@@ -603,28 +611,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 331496,
-      "num": 331496,
-      "word": "gidle新专辑预售量突破70万张",
-      "onboard_time": 1665461186,
-      "rank": 15,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 325683,
-      "num": 325683,
+      "raw_hot": 340323,
+      "num": 340323,
       "word": "最后一次和喜欢的人的对话",
       "onboard_time": 1665478583,
       "rank": 16,
       "category": "情感"
     },
     {
-      "raw_hot": 323255,
-      "num": 323255,
-      "word": "让狗愧疚一辈子",
-      "onboard_time": 1665484765,
-      "rank": 43,
-      "category": "幽默,情感"
+      "raw_hot": 331496,
+      "num": 331496,
+      "word": "gidle新专辑预售量突破70万张",
+      "onboard_time": 1665461186,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 318361,
@@ -673,6 +673,14 @@
       "onboard_time": 1665482004,
       "rank": 16,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 296706,
+      "num": 255273,
+      "word": "收到这类短信千万别点开",
+      "onboard_time": 1665485664,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 291975,
@@ -763,6 +771,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 260969,
+      "num": 260969,
+      "word": "95后小伙吐槽水果刺客价格贵七倍",
+      "onboard_time": 1665486863,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258344,
       "num": 258344,
       "word": "教育局通报中学收20元树叶费",
@@ -808,6 +824,14 @@
       "word": "曝追梦格林有意加盟湖人",
       "onboard_time": 1665455244,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 243563,
+      "num": 243563,
+      "word": "孙杨无名指上戴戒指",
+      "onboard_time": 1665487105,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -939,12 +963,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 197815,
-      "num": 197815,
-      "word": "收到这类短信千万别点开",
-      "onboard_time": 1665485664,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 197381,
+      "num": 197381,
+      "word": "这就是风情万种吧",
+      "onboard_time": 1665486804,
+      "rank": 22,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 193242,
@@ -984,14 +1008,6 @@
       "word": "女子发寻物视频遭人恶意骚扰",
       "onboard_time": 1665438910,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 182911,
-      "num": 182911,
-      "word": "95后小伙吐槽水果刺客价格贵七倍",
-      "onboard_time": 1665486863,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1051,12 +1067,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 162992,
+      "num": 162992,
+      "word": "两个人的小森林",
+      "onboard_time": 1665487705,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 161348,
       "num": 161348,
       "word": "现代人最擅长的事就是哭穷",
       "onboard_time": 1665473363,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 158919,
+      "num": 158919,
+      "word": "百辆私家车高速让行救护车",
+      "onboard_time": 1665486505,
+      "rank": 45,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 157507,
@@ -1067,20 +1099,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 157088,
-      "num": 157088,
-      "word": "这就是风情万种吧",
-      "onboard_time": 1665486804,
-      "rank": 22,
-      "category": "作品衍生,幽默"
-    },
-    {
       "raw_hot": 150518,
       "num": 150518,
       "word": "武大靖说这4年是爬过来的",
       "onboard_time": 1665448047,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149299,
+      "num": 149299,
+      "word": "养猫前后生活上发生的变化",
+      "onboard_time": 1665486142,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 147820,
@@ -1203,6 +1235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 125735,
+      "num": 68143,
+      "word": "你安全吗大结局",
+      "onboard_time": 1665488364,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 123404,
       "num": 123404,
       "word": "网红兔狲狲思邈意外死亡",
@@ -1217,6 +1257,14 @@
       "onboard_time": 1665444982,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 121334,
+      "num": 121334,
+      "word": "幼儿园老师用粉笔画出渐变色",
+      "onboard_time": 1665487463,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121086,
@@ -1281,14 +1329,6 @@
       "onboard_time": 1665475225,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 106134,
-      "num": 106134,
-      "word": "养猫前后生活上发生的变化",
-      "onboard_time": 1665486142,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 103626,
@@ -1435,14 +1475,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 79037,
-      "num": 79037,
-      "word": "孙杨无名指上戴戒指",
-      "onboard_time": 1665487105,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 77834,
       "num": 77834,
       "word": "纸片人竟是我自己",
@@ -1467,14 +1499,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 75492,
-      "num": 75492,
-      "word": "百辆私家车高速让行救护车",
-      "onboard_time": 1665486505,
-      "rank": 45,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 72940,
       "num": 72940,
       "word": "主人地铁落座给找座的导盲犬铺垫子",
@@ -1489,6 +1513,14 @@
       "onboard_time": 1665477984,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69041,
+      "num": 69041,
+      "word": "消防员夫妻度婚假驱车送患儿就医",
+      "onboard_time": 1665487884,
+      "rank": 46,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 66773,
