@@ -1,6 +1,6 @@
 {
   "startTime": 1665419943424,
-  "endTime": 1665484166633,
+  "endTime": 1665485274454,
   "band_list": [
     {
       "raw_hot": 2305711,
@@ -235,6 +235,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 583762,
+      "num": 340757,
+      "word": "切尔诺贝利黑蛙证明进化在行动",
+      "onboard_time": 1665482245,
+      "rank": 11,
+      "category": "科技"
+    },
+    {
       "raw_hot": 583332,
       "num": 583332,
       "word": "神话申彗星被警方逮捕",
@@ -305,14 +313,6 @@
       "onboard_time": 1665410125,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 519898,
-      "num": 340757,
-      "word": "切尔诺贝利黑蛙证明进化在行动",
-      "onboard_time": 1665482245,
-      "rank": 11,
-      "category": "科技"
     },
     {
       "raw_hot": 515085,
@@ -424,6 +424,14 @@
       "word": "姚晨新剧被女儿推下水",
       "onboard_time": 1665466703,
       "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 435573,
+      "num": 435573,
+      "word": "爱的二八定律定档1013",
+      "onboard_time": 1665484226,
+      "rank": 5,
       "category": "影视"
     },
     {
@@ -651,6 +659,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 292208,
+      "num": 292208,
+      "word": "你肯定见过这个床单",
+      "onboard_time": 1665483924,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 291975,
       "num": 291975,
       "word": "苹果将修复iPhone14Pro通知延迟",
@@ -731,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262247,
+      "num": 262247,
+      "word": "女机长海上搜救十余年救起225人",
+      "onboard_time": 1665479664,
+      "rank": 40,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 258344,
       "num": 258344,
       "word": "教育局通报中学收20元树叶费",
@@ -803,12 +827,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 225432,
-      "num": 225432,
-      "word": "女机长海上搜救十余年救起225人",
-      "onboard_time": 1665479664,
-      "rank": 40,
-      "category": "社会正能量"
+      "raw_hot": 225719,
+      "num": 225719,
+      "word": "鹿晗说新歌年底发",
+      "onboard_time": 1665484583,
+      "rank": 19,
+      "category": "音乐,音乐"
     },
     {
       "raw_hot": 225333,
@@ -1011,6 +1035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 155301,
+      "num": 155301,
+      "word": "通勤路上承受了太多社死",
+      "onboard_time": 1665482545,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 150518,
       "num": 150518,
       "word": "武大靖说这4年是爬过来的",
@@ -1123,12 +1155,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126769,
-      "num": 126769,
-      "word": "通勤路上承受了太多社死",
-      "onboard_time": 1665482545,
-      "rank": 33,
-      "category": "幽默"
+      "raw_hot": 127912,
+      "num": 127912,
+      "word": "文咏珊港风造型",
+      "onboard_time": 1665485066,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 126411,
@@ -1227,14 +1259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 102640,
-      "num": 102640,
-      "word": "你肯定见过这个床单",
-      "onboard_time": 1665483924,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 101548,
       "num": 101548,
       "word": "普京召开俄联邦安全会议",
@@ -1283,6 +1307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 92928,
+      "num": 92928,
+      "word": "为什么玩游戏也会破防",
+      "onboard_time": 1665481767,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 92566,
       "num": 92566,
       "word": "男朋友妈妈亲手织的毛衣",
@@ -1323,12 +1355,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 87535,
-      "num": 87535,
-      "word": "为什么玩游戏也会破防",
-      "onboard_time": 1665481767,
-      "rank": 45,
-      "category": "游戏"
+      "raw_hot": 87275,
+      "num": 87275,
+      "word": "让狗愧疚一辈子",
+      "onboard_time": 1665484765,
+      "rank": 43,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 86062,
