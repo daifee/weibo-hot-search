@@ -1,0 +1,410 @@
+{
+  "runTime": 1665532201053,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1164939,
+        "num": 1164939,
+        "word": "老公误把酵母粉当感冒药给老婆喝",
+        "onboard_time": 1665497905,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 669060,
+        "num": 669060,
+        "word": "多地政府大手笔回购商品房",
+        "onboard_time": 1665502824,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9418,
+        "num": 554153,
+        "word": "180秒看见最可爱的中国",
+        "onboard_time": 1665471804,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 515341,
+        "num": 515341,
+        "word": "女婿给岳父塞5千回家发现1万红包",
+        "onboard_time": 1665500067,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491503,
+        "num": 491503,
+        "word": "男子买药付款时偷换商家收款码",
+        "onboard_time": 1665523632,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445406,
+        "num": 445406,
+        "word": "纽约多名绿色连体衣女子地铁上抢劫",
+        "onboard_time": 1665488546,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442170,
+        "num": 442170,
+        "word": "医生提醒3类人慎吃羊肉",
+        "onboard_time": 1665495927,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421242,
+        "num": 421242,
+        "word": "眼睛对于颜值的影响有多大",
+        "onboard_time": 1665492084,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 363588,
+        "num": 363588,
+        "word": "姐姐给弟弟冲奶粉自己先干两杯",
+        "onboard_time": 1665519191,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350618,
+        "num": 350618,
+        "word": "网传王凯谭松韵向风而行将Q4播出",
+        "onboard_time": 1665530420,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 406490,
+        "num": 349657,
+        "word": "老累 禾野",
+        "onboard_time": 1665501567,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 347917,
+        "num": 347917,
+        "word": "中国女排1比3不敌意大利",
+        "onboard_time": 1665530480,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 328223,
+        "num": 328223,
+        "word": "乌克兰大部分地区拉响防空警报",
+        "onboard_time": 1665525071,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 309730,
+        "num": 309730,
+        "word": "相亲成功上岸是什么体验",
+        "onboard_time": 1665494364,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 281321,
+        "num": 281321,
+        "word": "张慧雯演的首席怀孕跳舞",
+        "onboard_time": 1665494427,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 299709,
+        "num": 277490,
+        "word": "美军舰被拍到在北溪管道泄漏处附近巡航",
+        "onboard_time": 1665511692,
+        "rank": 15,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 268859,
+        "num": 268859,
+        "word": "孟川说什么是劳动仲裁啊",
+        "onboard_time": 1665504382,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233809,
+        "num": 233809,
+        "word": "男子烤紫薯拿出后紫薯爆炸了",
+        "onboard_time": 1665498750,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212021,
+        "num": 212021,
+        "word": "白俄罗斯女孩跨越万里远嫁中国",
+        "onboard_time": 1665516611,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181896,
+        "num": 181896,
+        "word": "小学生捡到50元后组团上交派出所",
+        "onboard_time": 1665517690,
+        "rank": 19,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 278365,
+        "num": 173373,
+        "word": "女子用狗狗拉粑粑照给狗办证",
+        "onboard_time": 1665505224,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160686,
+        "num": 160686,
+        "word": "姆巴佩与巴黎关系破裂",
+        "onboard_time": 1665495027,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159278,
+        "num": 159278,
+        "word": "底线大结局",
+        "onboard_time": 1665500728,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152204,
+        "num": 152204,
+        "word": "神仙租客回应将房间打扫干净",
+        "onboard_time": 1665523451,
+        "rank": 23,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 150742,
+        "num": 150742,
+        "word": "追梦格林母亲谈格林拳击普尔",
+        "onboard_time": 1665527956,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147833,
+        "num": 147833,
+        "word": "男子为爱吃鱼的妻子囤一冰柜鱼",
+        "onboard_time": 1665493465,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147302,
+        "num": 147302,
+        "word": "唐宫夜宴",
+        "onboard_time": 1665500905,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139288,
+        "num": 139288,
+        "word": "上海自来水供应正常有序",
+        "onboard_time": 1665500609,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128145,
+        "num": 128145,
+        "word": "发27篇SCI论文的学霸曾击败NASA",
+        "onboard_time": 1665491846,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126371,
+        "num": 126371,
+        "word": "狗狗吃泡芙后不肯吃狗粮饿脱水",
+        "onboard_time": 1665531564,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126026,
+        "num": 126026,
+        "word": "流畅腿型的秘密找到了",
+        "onboard_time": 1665503244,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121853,
+        "num": 121853,
+        "word": "虞书欣也舍不得小森林大结局",
+        "onboard_time": 1665530359,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 118151,
+        "num": 118151,
+        "word": "中国女排vs意大利女排",
+        "onboard_time": 1665500609,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115286,
+        "num": 115286,
+        "word": "美国或在6至9个月内陷入经济衰退",
+        "onboard_time": 1665490225,
+        "rank": 33,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 114706,
+        "num": 114706,
+        "word": "地理老师都气笑了",
+        "onboard_time": 1665505700,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108830,
+        "num": 108830,
+        "word": "张碧晨毛不易终于唱了个He",
+        "onboard_time": 1665498207,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102218,
+        "num": 102218,
+        "word": "东风快递发射大场面帧帧大片",
+        "onboard_time": 1665521351,
+        "rank": 36,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 99046,
+        "num": 99046,
+        "word": "你肯定见过这个床单",
+        "onboard_time": 1665483924,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95546,
+        "num": 95546,
+        "word": "国乒8人获WTT世界杯决赛资格",
+        "onboard_time": 1665500306,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92222,
+        "num": 92222,
+        "word": "我国仅30%产妇使用无痛分娩",
+        "onboard_time": 1665472402,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84617,
+        "num": 84617,
+        "word": "中国女排止步世锦赛八强",
+        "onboard_time": 1665531142,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80001,
+        "num": 80001,
+        "word": "张彬彬摘眼镜吻戏",
+        "onboard_time": 1665497549,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 74475,
+        "num": 74475,
+        "word": "美国银行预计明年美失业率达5.5%",
+        "onboard_time": 1665494246,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73384,
+        "num": 73384,
+        "word": "男子请唢呐乐队在KTV为朋友庆生",
+        "onboard_time": 1665521530,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70452,
+        "num": 70452,
+        "word": "新娘带伴娘团婚礼上跳女团舞",
+        "onboard_time": 1665501747,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69795,
+        "num": 69795,
+        "word": "车银优韩素希李洙赫网漫EP2",
+        "onboard_time": 1665491364,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 66287,
+        "num": 66287,
+        "word": "孙杨无名指上戴戒指",
+        "onboard_time": 1665487105,
+        "rank": 46,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 64903,
+        "num": 64903,
+        "word": "成毅发长文告别底线",
+        "onboard_time": 1665504083,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 63938,
+        "num": 63938,
+        "word": "切尔诺贝利黑蛙证明进化在行动",
+        "onboard_time": 1665482245,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 63822,
+        "num": 63822,
+        "word": "AC米兰0比2切尔西",
+        "onboard_time": 1665531923,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#问答二十大#"
+    }
+  }
+}

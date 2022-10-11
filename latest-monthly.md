@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/12 07:32:22
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/12 07:50:01
 </p>
 </blockquote>
 <p>
@@ -3351,6 +3351,12 @@ TF家族三代路演（热度：515309）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B9%B0%E8%8D%AF%E4%BB%98%E6%AC%BE%E6%97%B6%E5%81%B7%E6%8D%A2%E5%95%86%E5%AE%B6%E6%94%B6%E6%AC%BE%E7%A0%81%23" target="weibo">
+男子买药付款时偷换商家收款码（热度：491503）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%AC%E8%87%82%E7%8C%B4%E8%A2%AB%E5%9B%B4%E8%A7%82%E5%BA%94%E6%BF%80%E5%B8%88%E5%A4%AA%E6%89%8B%E6%8B%A6%E8%A2%AB%E8%AF%AF%E4%BC%A4%23" target="weibo">
 独臂猴被围观应激师太手拦被误伤（热度：490940）
 </a>
@@ -3461,12 +3467,6 @@ JDG战胜DK（热度：484636）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%85%B8%E5%B7%B2%E5%AE%8C%E6%88%90%E5%8C%97%E6%BA%AA%E6%B3%84%E6%BC%8F%E4%BA%8B%E6%95%85%E7%8E%B0%E5%9C%BA%E8%B0%83%E6%9F%A5%23" target="weibo">
 瑞典已完成北溪泄漏事故现场调查（热度：479916）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B9%B0%E8%8D%AF%E4%BB%98%E6%AC%BE%E6%97%B6%E5%81%B7%E6%8D%A2%E5%95%86%E5%AE%B6%E6%94%B6%E6%AC%BE%E7%A0%81%23" target="weibo">
-男子买药付款时偷换商家收款码（热度：479784）
 </a>
 </li>
 
@@ -4911,6 +4911,12 @@ RNG入围赛淘汰赛对阵DFM（热度：373120）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A7%90%E7%BB%99%E5%BC%9F%E5%BC%9F%E5%86%B2%E5%A5%B6%E7%B2%89%E8%87%AA%E5%B7%B1%E5%85%88%E5%B9%B2%E4%B8%A4%E6%9D%AF%23" target="weibo">
+姐姐给弟弟冲奶粉自己先干两杯（热度：363588）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8E%9F%E5%9E%8B%E6%9C%BA%E4%BA%AE%E7%9B%B8%23" target="weibo">
 特斯拉人形机器人原型机亮相（热度：361565）
 </a>
@@ -5091,6 +5097,12 @@ gidle将完整体出击认哥（热度：351694）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E7%8E%8B%E5%87%AF%E8%B0%AD%E6%9D%BE%E9%9F%B5%E5%90%91%E9%A3%8E%E8%80%8C%E8%A1%8C%E5%B0%86Q4%E6%92%AD%E5%87%BA%23" target="weibo">
+网传王凯谭松韵向风而行将Q4播出（热度：350618）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%8E%BB%E6%9C%89%E9%A3%8E%E7%9A%84%E5%9C%B0%E6%96%B9%E5%B0%86%E5%BC%80%E5%A7%8B%E9%85%8D%E9%9F%B3%23" target="weibo">
 刘亦菲去有风的地方将开始配音（热度：350217）
 </a>
@@ -5135,6 +5147,12 @@ gidle将完整体出击认哥（热度：351694）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E6%9C%80%E5%B9%B4%E9%95%BF%E7%9A%84%E7%8B%97%E5%8E%BB%E4%B8%96%E4%BA%AB%E5%B9%B422%E5%B2%81%23" target="weibo">
 全球最年长的狗去世享年22岁（热度：348252）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%921%E6%AF%943%E4%B8%8D%E6%95%8C%E6%84%8F%E5%A4%A7%E5%88%A9%23" target="weibo">
+中国女排1比3不敌意大利（热度：347917）
 </a>
 </li>
 
@@ -5411,6 +5429,12 @@ gidle新专辑预售量突破70万张（热度：331496）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E7%8E%8B%E5%AE%89%E5%AE%87%E6%88%8F%E5%A4%96%E4%BA%92%E6%99%92%E6%83%85%E4%BE%A3%E8%A7%86%E8%A7%92%E7%85%A7%23" target="weibo">
 金晨王安宇戏外互晒情侣视角照（热度：328898）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%85%8B%E5%85%B0%E5%A4%A7%E9%83%A8%E5%88%86%E5%9C%B0%E5%8C%BA%E6%8B%89%E5%93%8D%E9%98%B2%E7%A9%BA%E8%AD%A6%E6%8A%A5%23" target="weibo">
+乌克兰大部分地区拉响防空警报（热度：328223）
 </a>
 </li>
 
@@ -5811,6 +5835,12 @@ ITZY舞台（热度：299806）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E8%88%B0%E8%A2%AB%E6%8B%8D%E5%88%B0%E5%9C%A8%E5%8C%97%E6%BA%AA%E7%AE%A1%E9%81%93%E6%B3%84%E6%BC%8F%E5%A4%84%E9%99%84%E8%BF%91%E5%B7%A1%E8%88%AA%23" target="weibo">
+美军舰被拍到在北溪管道泄漏处附近巡航（热度：299709）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%A8%98%E5%9B%9E%E5%BA%94%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A7%90%E5%A6%B9%E5%90%8C%E5%A4%A9%E5%87%BA%E5%AB%81%E6%90%9E%E6%87%B5%E6%96%B0%E9%83%8E%23" target="weibo">
 新娘回应双胞胎姐妹同天出嫁搞懵新郎（热度：299442）
 </a>
@@ -5825,12 +5855,6 @@ ITZY舞台（热度：299806）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E4%B8%83%E5%91%A8%E5%B9%B4%23" target="weibo">
 王者七周年（热度：298352）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%85%8B%E5%85%B0%E5%A4%A7%E9%83%A8%E5%88%86%E5%9C%B0%E5%8C%BA%E6%8B%89%E5%93%8D%E9%98%B2%E7%A9%BA%E8%AD%A6%E6%8A%A5%23" target="weibo">
-乌克兰大部分地区拉响防空警报（热度：298233）
 </a>
 </li>
 
@@ -5987,30 +6011,6 @@ StrayKids新歌MV公开（热度：292367）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8E%A5%E4%BA%B2%E7%8E%B0%E5%9C%BA%E4%BC%B4%E9%83%8E%E8%A2%AB%E4%BC%B4%E5%A8%98%E8%80%83%E9%9B%85%E6%80%9D%E5%90%AC%E5%8A%9B%23" target="weibo">
 接亲现场伴郎被伴娘考雅思听力（热度：289959）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E8%AF%B4%E6%96%B0%E5%89%A7%E5%8F%AB%E6%88%91%E7%9A%84%E5%A5%BD%E5%A4%A7%E5%84%BF%23" target="weibo">
-陈哲远说新剧叫我的好大儿（热度：289402）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%89%BF%E9%93%89%E5%8F%88%E5%8F%8C%E5%8F%92%E5%90%8E%E7%A9%BA%E7%BF%BB%E4%BA%86%23" target="weibo">
-李承铉又双叒后空翻了（热度：289274）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E4%B8%80%E5%8F%A5%E8%AF%9D%E8%A2%AB%E7%88%B8%E7%88%B8%E8%AE%B0%E4%BA%86%E5%8D%81%E5%B9%B4%23" target="weibo">
-我的一句话被爸爸记了十年（热度：288473）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E8%80%81%E4%BA%BA%E5%9D%90%E8%BD%AE%E6%A4%85%E7%BB%84%E5%9B%A2%E9%A3%9E%E4%B8%89%E4%BA%9A%E8%BF%87%E5%86%AC%23" target="weibo">
-东北老人坐轮椅组团飞三亚过冬（热度：288346）
 </a>
 </li>
 
