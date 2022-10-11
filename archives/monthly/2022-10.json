@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665524650165,
+  "endTime": 1665527253768,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -13971,6 +13971,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 138050,
+      "num": 138050,
+      "word": "男子买药付款时偷换商家收款码",
+      "onboard_time": 1665523632,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137798,
       "num": 137798,
       "word": "秦皇岛疫情防控",
@@ -16987,6 +16995,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 79779,
+      "num": 71495,
+      "word": "姐姐给弟弟冲奶粉自己先干两杯",
+      "onboard_time": 1665519191,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79464,
       "num": 79464,
       "word": "缓解脖子僵硬的头颈操",
@@ -17811,6 +17827,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 62589,
+      "num": 62589,
+      "word": "美军舰被拍到在北溪管道泄漏处附近巡航",
+      "onboard_time": 1665511692,
+      "rank": 33,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 61901,
       "num": 61901,
       "word": "师生观测月亮意外拍到月上雁影",
@@ -18371,6 +18395,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 47016,
+      "num": 47016,
+      "word": "白俄罗斯女孩跨越万里远嫁中国",
+      "onboard_time": 1665516611,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46927,
       "num": 46927,
       "word": "女子喝下自制减肥汁中毒",
@@ -18451,20 +18483,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 43604,
-      "num": 32169,
-      "word": "姐姐给弟弟冲奶粉自己先干两杯",
-      "onboard_time": 1665519191,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 42858,
       "num": 42858,
       "word": "邓恩vs闫晓楠",
       "onboard_time": 1664676802,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42580,
+      "num": 42580,
+      "word": "东风快递发射大场面帧帧大片",
+      "onboard_time": 1665521351,
+      "rank": 30,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 42375,
@@ -18627,20 +18659,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 37120,
-      "num": 28650,
-      "word": "白俄罗斯女孩跨越万里远嫁中国",
-      "onboard_time": 1665516611,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 36821,
       "num": 36821,
       "word": "张馨予踢足球vlog",
       "onboard_time": 1665162197,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 36477,
+      "num": 36477,
+      "word": "乌克兰大部分地区拉响防空警报",
+      "onboard_time": 1665525071,
+      "rank": 23,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 36143,
@@ -18657,6 +18689,14 @@
       "onboard_time": 1665417623,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 35676,
+      "num": 35676,
+      "word": "男子请唢呐乐队在KTV为朋友庆生",
+      "onboard_time": 1665521530,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35511,
@@ -18723,6 +18763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 32769,
+      "num": 32769,
+      "word": "小学生捡到50元后组团上交派出所",
+      "onboard_time": 1665517690,
+      "rank": 14,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 32401,
       "num": 32401,
       "word": "EG对战MAD",
@@ -18739,20 +18787,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32059,
+      "num": 32059,
+      "word": "神仙租客回应将房间打扫干净",
+      "onboard_time": 1665523451,
+      "rank": 47,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 31661,
       "num": 266428,
       "word": "向国庆假期坚守岗位的医护人员致敬",
       "onboard_time": 1664694024,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31602,
-      "num": 31554,
-      "word": "美军舰被拍到在北溪管道泄漏处附近巡航",
-      "onboard_time": 1665511692,
-      "rank": 33,
-      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 31005,
@@ -18801,14 +18849,6 @@
       "onboard_time": 1665399625,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27591,
-      "num": 23627,
-      "word": "小学生捡到50元后组团上交派出所",
-      "onboard_time": 1665517690,
-      "rank": 14,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 27101,
@@ -18891,14 +18931,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 16410,
-      "num": 16410,
-      "word": "东风快递发射大场面帧帧大片",
-      "onboard_time": 1665521351,
-      "rank": 30,
-      "category": "军事,社会新闻"
-    },
-    {
       "raw_hot": 15865,
       "num": 15865,
       "word": "九图速览19次党代会极简史",
@@ -18921,14 +18953,6 @@
       "onboard_time": 1665091151,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 14682,
-      "num": 14682,
-      "word": "男子请唢呐乐队在KTV为朋友庆生",
-      "onboard_time": 1665521530,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13779,
@@ -19035,28 +19059,20 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 10019,
+      "num": 10019,
+      "word": "彩虹挂在了峡谷瀑布上",
+      "onboard_time": 1665524711,
+      "rank": 48,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 9679,
       "num": 9679,
       "word": "好吃到会上瘾的小花卷",
       "onboard_time": 1665429611,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 9333,
-      "num": 9333,
-      "word": "神仙租客回应将房间打扫干净",
-      "onboard_time": 1665523451,
-      "rank": 47,
-      "category": "社会正能量"
-    },
-    {
-      "raw_hot": 9303,
-      "num": 9303,
-      "word": "男子买药付款时偷换商家收款码",
-      "onboard_time": 1665523632,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 9058,
@@ -19097,6 +19113,14 @@
       "onboard_time": 1664826670,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7947,
+      "num": 10006,
+      "word": "北京男篮vs福建男篮",
+      "onboard_time": 1665525551,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 7867,
