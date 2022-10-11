@@ -1,0 +1,410 @@
+{
+  "runTime": 1665463520757,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1588368,
+        "num": 1588368,
+        "word": "男友考上清华女子扯横幅猪肉特价",
+        "onboard_time": 1665450925,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 909476,
+        "num": 909476,
+        "word": "妻子让丈夫煮筷子结果烧成碳",
+        "onboard_time": 1665461365,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7605,
+        "num": 880897,
+        "word": "红星何以照耀中国",
+        "onboard_time": 1665387865,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 874091,
+        "num": 874091,
+        "word": "高校毛概女老师神仙颜值美出圈",
+        "onboard_time": 1665456803,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 751476,
+        "num": 751476,
+        "word": "8岁女童夜里机智吓退可疑敲门人",
+        "onboard_time": 1665458363,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 716485,
+        "num": 716485,
+        "word": "不舍得删除的聊天记录",
+        "onboard_time": 1665459625,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 669006,
+        "num": 669006,
+        "word": "统一充电接口或让苹果每年损失百亿",
+        "onboard_time": 1665456681,
+        "rank": 6,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 638709,
+        "num": 638709,
+        "word": "申彗星承认酒驾",
+        "onboard_time": 1665460465,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 582503,
+        "num": 582503,
+        "word": "已故父亲棉被藏8万弹棉花时发现",
+        "onboard_time": 1665449903,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431383,
+        "num": 431383,
+        "word": "孙颖莎继续世界第一",
+        "onboard_time": 1665460705,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 379524,
+        "num": 379524,
+        "word": "王鹤棣的片场花絮",
+        "onboard_time": 1665462807,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 374696,
+        "num": 374696,
+        "word": "杨幂秦施耳环",
+        "onboard_time": 1665458004,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 347513,
+        "num": 347513,
+        "word": "男子喝醉酒后全程推车回家",
+        "onboard_time": 1665454883,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347347,
+        "num": 347347,
+        "word": "公司面试表问能否接受无偿加班",
+        "onboard_time": 1665461664,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343733,
+        "num": 343733,
+        "word": "iPhone14Plus遇冷Pro卖爆",
+        "onboard_time": 1665453083,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 331496,
+        "num": 331496,
+        "word": "gidle新专辑预售量突破70万张",
+        "onboard_time": 1665461186,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 311478,
+        "num": 311478,
+        "word": "这下看谁还敢不冲厕所",
+        "onboard_time": 1665451525,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 296657,
+        "num": 296657,
+        "word": "我国人口年均增长593.1万人",
+        "onboard_time": 1665453924,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282208,
+        "num": 282208,
+        "word": "奥比岛",
+        "onboard_time": 1665457942,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 280545,
+        "num": 280545,
+        "word": "刘德华张涵予黄轩新片杀青",
+        "onboard_time": 1665458004,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275765,
+        "num": 275765,
+        "word": "狗狗因不被搭理而自我怀疑",
+        "onboard_time": 1665462206,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 269437,
+        "num": 269437,
+        "word": "阿根廷驻华大使说梅西是最好大使",
+        "onboard_time": 1665459684,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258122,
+        "num": 258122,
+        "word": "有点担心情侣们的精神状态",
+        "onboard_time": 1665446306,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239650,
+        "num": 239650,
+        "word": "LPL小组赛首轮9胜3负",
+        "onboard_time": 1665453204,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 227521,
+        "num": 227521,
+        "word": "赵丽颖龚俊voguefilm合照",
+        "onboard_time": 1665452302,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 227111,
+        "num": 227111,
+        "word": "乌方称空袭已致14死97伤",
+        "onboard_time": 1665452964,
+        "rank": 25,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 217460,
+        "num": 217460,
+        "word": "底线今晚大结局",
+        "onboard_time": 1665460283,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212987,
+        "num": 212987,
+        "word": "任嘉伦请君的收官战报",
+        "onboard_time": 1665462987,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207185,
+        "num": 207185,
+        "word": "披荆斩棘四公光影情绪视频",
+        "onboard_time": 1665462807,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198360,
+        "num": 198360,
+        "word": "中国女篮排名升至世界第二",
+        "onboard_time": 1665452424,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196556,
+        "num": 196556,
+        "word": "西安疫情防控",
+        "onboard_time": 1665446065,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194523,
+        "num": 194523,
+        "word": "阳澄湖蟹农吃不出阳澄湖蟹",
+        "onboard_time": 1665445100,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 173613,
+        "num": 173613,
+        "word": "aespa团综将开播",
+        "onboard_time": 1665457824,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169277,
+        "num": 169277,
+        "word": "以前电视上的总裁有多野",
+        "onboard_time": 1665457223,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168376,
+        "num": 168376,
+        "word": "苹果将修复iPhone14Pro通知延迟",
+        "onboard_time": 1665453263,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 166820,
+        "num": 166820,
+        "word": "10斤的小猫9斤的反骨",
+        "onboard_time": 1665418401,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159076,
+        "num": 159076,
+        "word": "10月10日新增本土无症状1662例",
+        "onboard_time": 1665452663,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157176,
+        "num": 157176,
+        "word": "曝追梦格林有意加盟湖人",
+        "onboard_time": 1665455244,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152279,
+        "num": 152279,
+        "word": "第一次看到防窥的烟花",
+        "onboard_time": 1665445523,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147820,
+        "num": 147820,
+        "word": "歼20飞行员训练有多辛苦",
+        "onboard_time": 1665456083,
+        "rank": 39,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 146002,
+        "num": 146002,
+        "word": "鸟鸟不愧是我的互联网嘴替",
+        "onboard_time": 1665463229,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145903,
+        "num": 145903,
+        "word": "男子生气开车突然手指僵硬呼吸困难",
+        "onboard_time": 1665447146,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141169,
+        "num": 141169,
+        "word": "我的秘密室友定档",
+        "onboard_time": 1665459024,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140157,
+        "num": 140157,
+        "word": "A股估值已被低估",
+        "onboard_time": 1665452003,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 134853,
+        "num": 134853,
+        "word": "南宁动物园没有正经动物吗",
+        "onboard_time": 1665462926,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123549,
+        "num": 123549,
+        "word": "TES小组赛两连败",
+        "onboard_time": 1665447385,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105022,
+        "num": 105022,
+        "word": "因代做核酸上海80余人被行政处罚",
+        "onboard_time": 1665429371,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102806,
+        "num": 102806,
+        "word": "郑恺夸大考牛",
+        "onboard_time": 1665451226,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 98251,
+        "num": 98251,
+        "word": "金钟大将10月31日回归",
+        "onboard_time": 1665449308,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 98078,
+        "num": 98078,
+        "word": "普京称若乌继续袭击俄领土将强硬回击",
+        "onboard_time": 1665417383,
+        "rank": 49,
+        "category": "国内要闻,军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#领航#"
+    }
+  }
+}

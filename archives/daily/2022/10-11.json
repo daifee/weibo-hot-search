@@ -1,6 +1,6 @@
 {
   "startTime": 1665419943424,
-  "endTime": 1665457752458,
+  "endTime": 1665463520757,
   "band_list": [
     {
       "raw_hot": 1767163,
@@ -43,6 +43,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 909476,
+      "num": 909476,
+      "word": "妻子让丈夫煮筷子结果烧成碳",
+      "onboard_time": 1665461365,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 895690,
       "num": 895690,
       "word": "医生建议成人每天睡够7小时",
@@ -51,12 +59,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 874091,
+      "num": 874091,
+      "word": "高校毛概女老师神仙颜值美出圈",
+      "onboard_time": 1665456803,
+      "rank": 28,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 751476,
+      "num": 751476,
+      "word": "8岁女童夜里机智吓退可疑敲门人",
+      "onboard_time": 1665458363,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 716485,
+      "num": 716485,
+      "word": "不舍得删除的聊天记录",
+      "onboard_time": 1665459625,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 679127,
       "num": 679127,
       "word": "2女生因气温骤降披棉被出门",
       "onboard_time": 1665437590,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 669006,
+      "num": 669006,
+      "word": "统一充电接口或让苹果每年损失百亿",
+      "onboard_time": 1665456681,
+      "rank": 22,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 647611,
@@ -73,6 +113,14 @@
       "onboard_time": 1665435252,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 638709,
+      "num": 638709,
+      "word": "申彗星承认酒驾",
+      "onboard_time": 1665460465,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 618927,
@@ -163,6 +211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 431383,
+      "num": 431383,
+      "word": "孙颖莎继续世界第一",
+      "onboard_time": 1665460705,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 428384,
       "num": 411968,
       "word": "金钟大将10月31日回归",
@@ -201,6 +257,22 @@
       "onboard_time": 1665403764,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 379524,
+      "num": 379524,
+      "word": "王鹤棣的片场花絮",
+      "onboard_time": 1665462807,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 374696,
+      "num": 374696,
+      "word": "杨幂秦施耳环",
+      "onboard_time": 1665458004,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 374272,
@@ -251,12 +323,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 347347,
+      "num": 347347,
+      "word": "公司面试表问能否接受无偿加班",
+      "onboard_time": 1665461664,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 344538,
       "num": 344538,
       "word": "西安疫情防控",
       "onboard_time": 1665446065,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 331496,
+      "num": 331496,
+      "word": "gidle新专辑预售量突破70万张",
+      "onboard_time": 1665461186,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 317058,
@@ -299,12 +387,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 282208,
+      "num": 282208,
+      "word": "奥比岛",
+      "onboard_time": 1665457942,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 280545,
+      "num": 280545,
+      "word": "刘德华张涵予黄轩新片杀青",
+      "onboard_time": 1665458004,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 278928,
       "num": 278928,
       "word": "影帝走红毯是都这么忙吗",
       "onboard_time": 1665414866,
       "rank": 9,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 275765,
+      "num": 275765,
+      "word": "狗狗因不被搭理而自我怀疑",
+      "onboard_time": 1665462206,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 269437,
+      "num": 269437,
+      "word": "阿根廷驻华大使说梅西是最好大使",
+      "onboard_time": 1665459684,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 258344,
@@ -339,6 +459,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217460,
+      "num": 217460,
+      "word": "底线今晚大结局",
+      "onboard_time": 1665460283,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 212987,
+      "num": 212987,
+      "word": "任嘉伦请君的收官战报",
+      "onboard_time": 1665462987,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 209748,
       "num": 209748,
       "word": "男子生气开车突然手指僵硬呼吸困难",
@@ -347,20 +483,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207185,
+      "num": 207185,
+      "word": "披荆斩棘四公光影情绪视频",
+      "onboard_time": 1665462807,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202304,
       "num": 202304,
       "word": "睡不着的主要原因是什么",
       "onboard_time": 1665422776,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 197789,
-      "num": 197789,
-      "word": "统一充电接口或让苹果每年损失百亿",
-      "onboard_time": 1665456681,
-      "rank": 22,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 193172,
@@ -395,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173613,
+      "num": 173613,
+      "word": "aespa团综将开播",
+      "onboard_time": 1665457824,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173161,
       "num": 173161,
       "word": "一张表自测嗜睡程度",
@@ -427,6 +571,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 169277,
+      "num": 169277,
+      "word": "以前电视上的总裁有多野",
+      "onboard_time": 1665457223,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 157507,
       "num": 157507,
       "word": "虞书欣虞美人唱无名之辈翻车",
@@ -443,12 +595,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 147923,
-      "num": 147923,
-      "word": "高校毛概女老师神仙颜值美出圈",
-      "onboard_time": 1665456803,
-      "rank": 28,
-      "category": "社会新闻,教育"
+      "raw_hot": 147820,
+      "num": 147820,
+      "word": "歼20飞行员训练有多辛苦",
+      "onboard_time": 1665456083,
+      "rank": 30,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 146647,
@@ -457,6 +609,14 @@
       "onboard_time": 1665404063,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146002,
+      "num": 146002,
+      "word": "鸟鸟不愧是我的互联网嘴替",
+      "onboard_time": 1665463229,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 143440,
@@ -473,6 +633,14 @@
       "onboard_time": 1665432072,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141169,
+      "num": 141169,
+      "word": "我的秘密室友定档",
+      "onboard_time": 1665459024,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 140307,
@@ -499,12 +667,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 133372,
-      "num": 133372,
-      "word": "歼20飞行员训练有多辛苦",
-      "onboard_time": 1665456083,
-      "rank": 30,
-      "category": "社会新闻,军事"
+      "raw_hot": 134853,
+      "num": 134853,
+      "word": "南宁动物园没有正经动物吗",
+      "onboard_time": 1665462926,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 132017,
@@ -585,14 +753,6 @@
       "onboard_time": 1665412103,
       "rank": 23,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 101540,
-      "num": 101540,
-      "word": "以前电视上的总裁有多野",
-      "onboard_time": 1665457223,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 100826,
@@ -937,6 +1097,9 @@
     },
     {
       "word": "#十年的十个为什么#"
+    },
+    {
+      "word": "#领航#"
     }
   ]
 }

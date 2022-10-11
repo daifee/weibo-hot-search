@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665457752458,
+  "endTime": 1665463520757,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -219,6 +219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 909476,
+      "num": 909476,
+      "word": "妻子让丈夫煮筷子结果烧成碳",
+      "onboard_time": 1665461365,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 903860,
       "num": 768507,
       "word": "女子骑车脖子遭横空风筝线割伤",
@@ -233,6 +241,14 @@
       "onboard_time": 1665382043,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 874091,
+      "num": 874091,
+      "word": "高校毛概女老师神仙颜值美出圈",
+      "onboard_time": 1665456803,
+      "rank": 28,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 833205,
@@ -283,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 751476,
+      "num": 751476,
+      "word": "8岁女童夜里机智吓退可疑敲门人",
+      "onboard_time": 1665458363,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 730240,
       "num": 264779,
       "word": "基金",
@@ -313,6 +337,14 @@
       "onboard_time": 1665373705,
       "rank": 5,
       "category": "财经"
+    },
+    {
+      "raw_hot": 716485,
+      "num": 716485,
+      "word": "不舍得删除的聊天记录",
+      "onboard_time": 1665459625,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 710669,
@@ -347,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 669006,
+      "num": 669006,
+      "word": "统一充电接口或让苹果每年损失百亿",
+      "onboard_time": 1665456681,
+      "rank": 22,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 662644,
       "num": 494044,
       "word": "导演程耳建议王一博偶尔独处",
@@ -377,6 +417,14 @@
       "onboard_time": 1665435252,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 638709,
+      "num": 638709,
+      "word": "申彗星承认酒驾",
+      "onboard_time": 1665460465,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 637753,
@@ -683,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 431383,
+      "num": 431383,
+      "word": "孙颖莎继续世界第一",
+      "onboard_time": 1665460705,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 428519,
       "num": 428519,
       "word": "孟子义把毛不易李雪琴整不会了",
@@ -819,6 +875,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 379524,
+      "num": 379524,
+      "word": "王鹤棣的片场花絮",
+      "onboard_time": 1665462807,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 378161,
       "num": 378161,
       "word": "iPhoneSE4或继续保留刘海",
@@ -841,6 +905,14 @@
       "onboard_time": 1665409704,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 374696,
+      "num": 374696,
+      "word": "杨幂秦施耳环",
+      "onboard_time": 1665458004,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 374272,
@@ -947,6 +1019,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 347347,
+      "num": 347347,
+      "word": "公司面试表问能否接受无偿加班",
+      "onboard_time": 1665461664,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 346316,
       "num": 346316,
       "word": "近七成晚睡是因为手机",
@@ -993,6 +1073,14 @@
       "onboard_time": 1665396922,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 331496,
+      "num": 331496,
+      "word": "gidle新专辑预售量突破70万张",
+      "onboard_time": 1665461186,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 331325,
@@ -1163,6 +1251,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 282208,
+      "num": 282208,
+      "word": "奥比岛",
+      "onboard_time": 1665457942,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 280545,
+      "num": 280545,
+      "word": "刘德华张涵予黄轩新片杀青",
+      "onboard_time": 1665458004,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 275765,
+      "num": 275765,
+      "word": "狗狗因不被搭理而自我怀疑",
+      "onboard_time": 1665462206,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 273325,
       "num": 273325,
       "word": "青年演员原声台词爆发力",
@@ -1177,6 +1289,14 @@
       "onboard_time": 1665368122,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269437,
+      "num": 269437,
+      "word": "阿根廷驻华大使说梅西是最好大使",
+      "onboard_time": 1665459684,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 268559,
@@ -1419,6 +1539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 217460,
+      "num": 217460,
+      "word": "底线今晚大结局",
+      "onboard_time": 1665460283,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 216180,
       "num": 216180,
       "word": "增强对当前疫情防控政策的信心和耐心",
@@ -1459,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212987,
+      "num": 212987,
+      "word": "任嘉伦请君的收官战报",
+      "onboard_time": 1665462987,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 209748,
       "num": 209748,
       "word": "男子生气开车突然手指僵硬呼吸困难",
@@ -1473,6 +1609,14 @@
       "onboard_time": 1665386724,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 207185,
+      "num": 207185,
+      "word": "披荆斩棘四公光影情绪视频",
+      "onboard_time": 1665462807,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 204622,
@@ -1497,14 +1641,6 @@
       "onboard_time": 1665366263,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 197789,
-      "num": 197789,
-      "word": "统一充电接口或让苹果每年损失百亿",
-      "onboard_time": 1665456681,
-      "rank": 22,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 196391,
@@ -1643,6 +1779,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 173613,
+      "num": 173613,
+      "word": "aespa团综将开播",
+      "onboard_time": 1665457824,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173161,
       "num": 173161,
       "word": "一张表自测嗜睡程度",
@@ -1697,6 +1841,14 @@
       "onboard_time": 1665403822,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 169277,
+      "num": 169277,
+      "word": "以前电视上的总裁有多野",
+      "onboard_time": 1665457223,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 167939,
@@ -1827,12 +1979,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 147923,
-      "num": 147923,
-      "word": "高校毛概女老师神仙颜值美出圈",
-      "onboard_time": 1665456803,
-      "rank": 28,
-      "category": "社会新闻,教育"
+      "raw_hot": 147820,
+      "num": 147820,
+      "word": "歼20飞行员训练有多辛苦",
+      "onboard_time": 1665456083,
+      "rank": 30,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 147605,
@@ -1841,6 +1993,14 @@
       "onboard_time": 1665312502,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146002,
+      "num": 146002,
+      "word": "鸟鸟不愧是我的互联网嘴替",
+      "onboard_time": 1665463229,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 145329,
@@ -1881,6 +2041,14 @@
       "onboard_time": 1665400463,
       "rank": 41,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 141169,
+      "num": 141169,
+      "word": "我的秘密室友定档",
+      "onboard_time": 1665459024,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 140771,
@@ -1947,6 +2115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134853,
+      "num": 134853,
+      "word": "南宁动物园没有正经动物吗",
+      "onboard_time": 1665462926,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 134233,
       "num": 134233,
       "word": "张彬彬说庄羽的化石回来了",
@@ -1961,14 +2137,6 @@
       "onboard_time": 1665327688,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 133372,
-      "num": 133372,
-      "word": "歼20飞行员训练有多辛苦",
-      "onboard_time": 1665456083,
-      "rank": 30,
-      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 133366,
@@ -2217,14 +2385,6 @@
       "onboard_time": 1665327386,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 101540,
-      "num": 101540,
-      "word": "以前电视上的总裁有多野",
-      "onboard_time": 1665457223,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 101519,
