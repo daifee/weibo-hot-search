@@ -1,0 +1,410 @@
+{
+  "runTime": 1665520184522,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 75463,
+        "num": 75463,
+        "word": "多地政府大手笔回购商品房",
+        "onboard_time": 1665502824,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63576,
+        "num": 63576,
+        "word": "老公误把酵母粉当感冒药给老婆喝",
+        "onboard_time": 1665497905,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1219,
+        "num": 47363,
+        "word": "180秒看见最可爱的中国",
+        "onboard_time": 1665471804,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 41013,
+        "num": 41013,
+        "word": "女婿给岳父塞5千回家发现1万红包",
+        "onboard_time": 1665500067,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35476,
+        "num": 35476,
+        "word": "纽约多名绿色连体衣女子地铁上抢劫",
+        "onboard_time": 1665488546,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34866,
+        "num": 34866,
+        "word": "医生提醒3类人慎吃羊肉",
+        "onboard_time": 1665495927,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28932,
+        "num": 28932,
+        "word": "美国或在6至9个月内陷入经济衰退",
+        "onboard_time": 1665490225,
+        "rank": 6,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 28727,
+        "num": 28727,
+        "word": "孟川说什么是劳动仲裁啊",
+        "onboard_time": 1665504382,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26502,
+        "num": 26502,
+        "word": "眼睛对于颜值的影响有多大",
+        "onboard_time": 1665492084,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25010,
+        "num": 25010,
+        "word": "姆巴佩与巴黎关系破裂",
+        "onboard_time": 1665495027,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64050,
+        "num": 24859,
+        "word": "老累 禾野",
+        "onboard_time": 1665501567,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 33240,
+        "num": 23873,
+        "word": "白俄罗斯女孩跨越万里远嫁中国",
+        "onboard_time": 1665516611,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21936,
+        "num": 21936,
+        "word": "中国女排vs意大利女排",
+        "onboard_time": 1665500609,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20322,
+        "num": 20322,
+        "word": "相亲成功上岸是什么体验",
+        "onboard_time": 1665494364,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20166,
+        "num": 20166,
+        "word": "小学生捡到50元后组团上交派出所",
+        "onboard_time": 1665517690,
+        "rank": 14,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 18934,
+        "num": 18934,
+        "word": "男子为爱吃鱼的妻子囤一冰柜鱼",
+        "onboard_time": 1665493465,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17709,
+        "num": 17709,
+        "word": "底线大结局",
+        "onboard_time": 1665500728,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16817,
+        "num": 16817,
+        "word": "美军舰被拍到在北溪管道泄漏处附近巡航",
+        "onboard_time": 1665511692,
+        "rank": 17,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 16614,
+        "num": 16614,
+        "word": "上海自来水供应正常有序",
+        "onboard_time": 1665500609,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16585,
+        "num": 16585,
+        "word": "我国仅30%产妇使用无痛分娩",
+        "onboard_time": 1665472402,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62292,
+        "num": 16533,
+        "word": "曲江通报小学学生坠亡事件",
+        "onboard_time": 1665508695,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 33109,
+        "num": 16348,
+        "word": "女子用狗狗拉粑粑照给狗办证",
+        "onboard_time": 1665505224,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16084,
+        "num": 16084,
+        "word": "你肯定见过这个床单",
+        "onboard_time": 1665483924,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15210,
+        "num": 15210,
+        "word": "张慧雯演的首席怀孕跳舞",
+        "onboard_time": 1665494427,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 14012,
+        "num": 14012,
+        "word": "流畅腿型的秘密找到了",
+        "onboard_time": 1665503244,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13942,
+        "num": 13942,
+        "word": "唐宫夜宴",
+        "onboard_time": 1665500905,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 13923,
+        "num": 13923,
+        "word": "成毅发长文告别底线",
+        "onboard_time": 1665504083,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 13110,
+        "num": 13110,
+        "word": "车银优韩素希李洙赫网漫EP2",
+        "onboard_time": 1665491364,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 12620,
+        "num": 12620,
+        "word": "女排 拦网",
+        "onboard_time": 1665507677,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12386,
+        "num": 12386,
+        "word": "孙杨无名指上戴戒指",
+        "onboard_time": 1665487105,
+        "rank": 29,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 12209,
+        "num": 12209,
+        "word": "网购必备神图",
+        "onboard_time": 1665489563,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 12170,
+        "num": 12170,
+        "word": "美国银行预计明年美失业率达5.5%",
+        "onboard_time": 1665494246,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11916,
+        "num": 11916,
+        "word": "新娘带伴娘团婚礼上跳女团舞",
+        "onboard_time": 1665501747,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11494,
+        "num": 11494,
+        "word": "切尔诺贝利黑蛙证明进化在行动",
+        "onboard_time": 1665482245,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 10670,
+        "num": 10670,
+        "word": "谁让你们这么教中文的",
+        "onboard_time": 1665508216,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 10649,
+        "num": 10649,
+        "word": "男子烤紫薯拿出后紫薯爆炸了",
+        "onboard_time": 1665498750,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10206,
+        "num": 10206,
+        "word": "养猫前后生活上发生的变化",
+        "onboard_time": 1665486142,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 9708,
+        "num": 9708,
+        "word": "李龙馥143CASE直拍",
+        "onboard_time": 1665508155,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 9220,
+        "num": 9220,
+        "word": "绘画会被AI替代吗",
+        "onboard_time": 1665504203,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 9163,
+        "num": 9163,
+        "word": "张彬彬摘眼镜吻戏",
+        "onboard_time": 1665497549,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 8681,
+        "num": 8681,
+        "word": "发27篇SCI论文的学霸曾击败NASA",
+        "onboard_time": 1665491846,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8204,
+        "num": 8204,
+        "word": "男子高空作业掉落悬空被公交接住",
+        "onboard_time": 1665491544,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8130,
+        "num": 8130,
+        "word": "国乒8人获WTT世界杯决赛资格",
+        "onboard_time": 1665500306,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7514,
+        "num": 7514,
+        "word": "地理老师都气笑了",
+        "onboard_time": 1665505700,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 6588,
+        "num": 6588,
+        "word": "浮图缘王鹤棣陈钰琪婚服造型",
+        "onboard_time": 1665483325,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 6570,
+        "num": 6570,
+        "word": "全班46名新生有38人是退伍军人",
+        "onboard_time": 1665519851,
+        "rank": 45,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 6466,
+        "num": 6466,
+        "word": "李万一郭浩然约会",
+        "onboard_time": 1665502644,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 6103,
+        "num": 6103,
+        "word": "两个人的小森林",
+        "onboard_time": 1665487705,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 6033,
+        "num": 6033,
+        "word": "95后小伙吐槽水果刺客价格贵七倍",
+        "onboard_time": 1665486863,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5918,
+        "num": 6021,
+        "word": "10斤巧克力神还原武林外传小院",
+        "onboard_time": 1665520090,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#党的二十大新闻发布会#"
+    }
+  }
+}
