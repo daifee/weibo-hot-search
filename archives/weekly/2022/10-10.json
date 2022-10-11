@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665445714775,
+  "endTime": 1665455092483,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -59,6 +59,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1614396,
+      "num": 1614396,
+      "word": "西安全市暂停线下教学",
+      "onboard_time": 1665444918,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1596698,
       "num": 1596698,
       "word": "抽检发现有的女装致癌物超标20多倍",
@@ -73,6 +81,14 @@
       "onboard_time": 1665369082,
       "rank": 0,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1549140,
+      "num": 1549140,
+      "word": "男友考上清华女子扯横幅猪肉特价",
+      "onboard_time": 1665450925,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1513811,
@@ -112,6 +128,14 @@
       "word": "女子天生4个肾竟全部长结石",
       "onboard_time": 1665410125,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1190457,
+      "num": 1190457,
+      "word": "已故父亲棉被藏8万弹棉花时发现",
+      "onboard_time": 1665449903,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -491,20 +515,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 528580,
+      "num": 528580,
+      "word": "神话申彗星被警方逮捕",
+      "onboard_time": 1665452064,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 524978,
       "num": 524978,
       "word": "未来三个月17.1%受访居民打算购房",
       "onboard_time": 1665364104,
       "rank": 7,
       "category": "财经"
-    },
-    {
-      "raw_hot": 524089,
-      "num": 477376,
-      "word": "西安全市暂停线下教学",
-      "onboard_time": 1665444918,
-      "rank": 8,
-      "category": "教育"
     },
     {
       "raw_hot": 523962,
@@ -555,6 +579,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 497664,
+      "num": 497664,
+      "word": "有点担心情侣们的精神状态",
+      "onboard_time": 1665446306,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 494013,
       "num": 442075,
       "word": "泽连斯基针对空袭发声",
@@ -595,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 465867,
+      "num": 465867,
+      "word": "iPhone14Plus遇冷Pro卖爆",
+      "onboard_time": 1665453083,
+      "rank": 6,
+      "category": "科技"
+    },
+    {
       "raw_hot": 452972,
       "num": 452972,
       "word": "杨颖登封ELLE11月刊",
@@ -627,6 +667,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 428384,
+      "num": 411968,
+      "word": "金钟大将10月31日回归",
+      "onboard_time": 1665449308,
+      "rank": 10,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 426404,
+      "num": 426404,
+      "word": "中国女篮排名升至世界第二",
+      "onboard_time": 1665452424,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 421749,
       "num": 372673,
       "word": "沪指失守3000点",
@@ -649,6 +705,14 @@
       "onboard_time": 1665337754,
       "rank": 10,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 416372,
+      "num": 416372,
+      "word": "阳澄湖蟹农吃不出阳澄湖蟹",
+      "onboard_time": 1665445100,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 413965,
@@ -707,6 +771,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 390548,
+      "num": 390548,
+      "word": "乌方称空袭已致14死97伤",
+      "onboard_time": 1665452964,
+      "rank": 11,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 390028,
       "num": 390028,
       "word": "庞博的文字里充满了浪漫",
@@ -755,12 +827,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 374272,
+      "num": 374272,
+      "word": "郑恺夸大考牛",
+      "onboard_time": 1665451226,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 372426,
       "num": 358703,
       "word": "普京召开俄联邦安全会议",
       "onboard_time": 1665412103,
       "rank": 11,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 371417,
+      "num": 371417,
+      "word": "第一次看到防窥的烟花",
+      "onboard_time": 1665445523,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 364521,
@@ -803,6 +891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 350168,
+      "num": 350168,
+      "word": "赵丽颖龚俊voguefilm合照",
+      "onboard_time": 1665452302,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 349823,
       "num": 349823,
       "word": "抑郁症不是简单的坏心情",
@@ -841,6 +937,14 @@
       "onboard_time": 1665405144,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 344538,
+      "num": 344538,
+      "word": "西安疫情防控",
+      "onboard_time": 1665446065,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 341103,
@@ -883,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 317058,
+      "num": 317058,
+      "word": "10月10日新增本土无症状1662例",
+      "onboard_time": 1665452663,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 313365,
       "num": 313365,
       "word": "内蒙古增本土确诊119例无症状559例",
@@ -891,12 +1003,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 312966,
+      "num": 312966,
+      "word": "A股估值已被低估",
+      "onboard_time": 1665452003,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 311488,
       "num": 311488,
       "word": "汪苏泷一年发两张专辑",
       "onboard_time": 1665372263,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 308803,
+      "num": 308803,
+      "word": "这下看谁还敢不冲厕所",
+      "onboard_time": 1665451525,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 303630,
@@ -963,6 +1091,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 291975,
+      "num": 291975,
+      "word": "苹果将修复iPhone14Pro通知延迟",
+      "onboard_time": 1665453263,
+      "rank": 20,
+      "category": "科技"
+    },
+    {
       "raw_hot": 288346,
       "num": 288346,
       "word": "东北老人坐轮椅组团飞三亚过冬",
@@ -977,6 +1113,14 @@
       "onboard_time": 1665410244,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284642,
+      "num": 284642,
+      "word": "LPL小组赛首轮9胜3负",
+      "onboard_time": 1665453204,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 283314,
@@ -1291,6 +1435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209748,
+      "num": 209748,
+      "word": "男子生气开车突然手指僵硬呼吸困难",
+      "onboard_time": 1665447146,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209446,
       "num": 209446,
       "word": "原来轻舟已过万重山这么伤感",
@@ -1353,6 +1505,14 @@
       "onboard_time": 1665370402,
       "rank": 40,
       "category": "科技"
+    },
+    {
+      "raw_hot": 193172,
+      "num": 193172,
+      "word": "GALA卡莎",
+      "onboard_time": 1665450086,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 192327,
@@ -1483,6 +1643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 170554,
+      "num": 170554,
+      "word": "TES小组赛两连败",
+      "onboard_time": 1665447385,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 169627,
       "num": 169627,
       "word": "降息后杭州有人每个月房贷省2000",
@@ -1529,6 +1697,14 @@
       "onboard_time": 1665308842,
       "rank": 17,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 160928,
+      "num": 160928,
+      "word": "我国人口年均增长593.1万人",
+      "onboard_time": 1665453924,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159936,
@@ -1593,6 +1769,14 @@
       "onboard_time": 1665368782,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150518,
+      "num": 150518,
+      "word": "武大靖说这4年是爬过来的",
+      "onboard_time": 1665448047,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 149869,
@@ -1699,6 +1883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137701,
+      "num": 137701,
+      "word": "北京新增本土确诊13例",
+      "onboard_time": 1665447864,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136393,
       "num": 136393,
       "word": "许靖韵晒与杨丞琳合影",
@@ -1761,14 +1953,6 @@
       "onboard_time": 1665364944,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 128444,
-      "num": 128444,
-      "word": "阳澄湖蟹农吃不出阳澄湖蟹",
-      "onboard_time": 1665445100,
-      "rank": 29,
-      "category": "美食"
     },
     {
       "raw_hot": 128262,
@@ -1889,6 +2073,14 @@
       "onboard_time": 1665443117,
       "rank": 41,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 110888,
+      "num": 110888,
+      "word": "中国跳水队公布世界杯参赛名单",
+      "onboard_time": 1665446966,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 108925,
@@ -2059,6 +2251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90714,
+      "num": 90714,
+      "word": "男子喝醉酒后全程推车回家",
+      "onboard_time": 1665454883,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90345,
       "num": 90345,
       "word": "浓眉半场24分",
@@ -2075,12 +2275,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90218,
+      "num": 90218,
+      "word": "全职猎人恢复连载",
+      "onboard_time": 1665454223,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 90113,
       "num": 90113,
       "word": "成都世乒赛现场播报是许魏洲",
       "onboard_time": 1665361405,
       "rank": 48,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 89822,
+      "num": 89822,
+      "word": "RNG战胜100",
+      "onboard_time": 1665449245,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 88995,
@@ -2243,14 +2459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 62279,
-      "num": 62279,
-      "word": "第一次看到防窥的烟花",
-      "onboard_time": 1665445523,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 61329,
       "num": 61329,
       "word": "林志炫许靖韵秋意浓",
@@ -2289,6 +2497,14 @@
       "onboard_time": 1665324206,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57539,
+      "num": 359136,
+      "word": "河南老人摆摊卖饭7元管饱",
+      "onboard_time": 1665454582,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57165,

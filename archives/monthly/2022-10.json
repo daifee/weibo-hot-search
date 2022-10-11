@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665445714775,
+  "endTime": 1665455092483,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -603,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1614396,
+      "num": 1614396,
+      "word": "西安全市暂停线下教学",
+      "onboard_time": 1665444918,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1609098,
       "num": 1609098,
       "word": "欧洲暴发史上最大规模禽流感",
@@ -672,6 +680,14 @@
       "word": "挪威海底电缆断裂",
       "onboard_time": 1664939902,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1549140,
+      "num": 1549140,
+      "word": "男友考上清华女子扯横幅猪肉特价",
+      "onboard_time": 1665450925,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -1137,6 +1153,14 @@
       "onboard_time": 1664767701,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1190457,
+      "num": 1190457,
+      "word": "已故父亲棉被藏8万弹棉花时发现",
+      "onboard_time": 1665449903,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1177767,
@@ -3675,6 +3699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 528580,
+      "num": 528580,
+      "word": "神话申彗星被警方逮捕",
+      "onboard_time": 1665452064,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 525503,
       "num": 525503,
       "word": "程潇赞多小鬼街舞5官宣",
@@ -3705,14 +3737,6 @@
       "onboard_time": 1665152125,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 524089,
-      "num": 477376,
-      "word": "西安全市暂停线下教学",
-      "onboard_time": 1665444918,
-      "rank": 8,
-      "category": "教育"
     },
     {
       "raw_hot": 524082,
@@ -3961,6 +3985,14 @@
       "onboard_time": 1664976806,
       "rank": 36,
       "category": "国外要闻,财经"
+    },
+    {
+      "raw_hot": 497664,
+      "num": 497664,
+      "word": "有点担心情侣们的精神状态",
+      "onboard_time": 1665446306,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 496563,
@@ -4353,6 +4385,14 @@
       "onboard_time": 1664866223,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 465867,
+      "num": 465867,
+      "word": "iPhone14Plus遇冷Pro卖爆",
+      "onboard_time": 1665453083,
+      "rank": 6,
+      "category": "科技"
     },
     {
       "raw_hot": 465625,
@@ -4827,6 +4867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 428384,
+      "num": 411968,
+      "word": "金钟大将10月31日回归",
+      "onboard_time": 1665449308,
+      "rank": 10,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 428049,
       "num": 428049,
       "word": "BLACKPINKShutDown获人歌一位",
@@ -4857,6 +4905,14 @@
       "onboard_time": 1665195982,
       "rank": 15,
       "category": "科技"
+    },
+    {
+      "raw_hot": 426404,
+      "num": 426404,
+      "word": "中国女篮排名升至世界第二",
+      "onboard_time": 1665452424,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 426042,
@@ -5025,6 +5081,14 @@
       "onboard_time": 1664622381,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 416372,
+      "num": 416372,
+      "word": "阳澄湖蟹农吃不出阳澄湖蟹",
+      "onboard_time": 1665445100,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 413965,
@@ -5427,6 +5491,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 390548,
+      "num": 390548,
+      "word": "乌方称空袭已致14死97伤",
+      "onboard_time": 1665452964,
+      "rank": 11,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 390028,
       "num": 390028,
       "word": "庞博的文字里充满了浪漫",
@@ -5715,6 +5787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 374272,
+      "num": 374272,
+      "word": "郑恺夸大考牛",
+      "onboard_time": 1665451226,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 373282,
       "num": 331690,
       "word": "张彬彬说都别惦记我的化石了",
@@ -5745,6 +5825,14 @@
       "onboard_time": 1664942962,
       "rank": 29,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 371417,
+      "num": 371417,
+      "word": "第一次看到防窥的烟花",
+      "onboard_time": 1665445523,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 371280,
@@ -6115,6 +6203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 350168,
+      "num": 350168,
+      "word": "赵丽颖龚俊voguefilm合照",
+      "onboard_time": 1665452302,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 349823,
       "num": 349823,
       "word": "抑郁症不是简单的坏心情",
@@ -6225,6 +6321,14 @@
       "onboard_time": 1665109404,
       "rank": 43,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 344538,
+      "num": 344538,
+      "word": "西安疫情防控",
+      "onboard_time": 1665446065,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 341824,
@@ -6627,6 +6731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 317058,
+      "num": 317058,
+      "word": "10月10日新增本土无症状1662例",
+      "onboard_time": 1665452663,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 316155,
       "num": 316155,
       "word": "102岁院士说把毕生年华奉献给国家",
@@ -6707,6 +6819,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 312966,
+      "num": 312966,
+      "word": "A股估值已被低估",
+      "onboard_time": 1665452003,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 312693,
       "num": 312693,
       "word": "李一桐金瀚新剧开播4天已循环4次",
@@ -6753,6 +6873,14 @@
       "onboard_time": 1665195503,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 308803,
+      "num": 308803,
+      "word": "这下看谁还敢不冲厕所",
+      "onboard_time": 1665451525,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 308598,
@@ -7123,6 +7251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 291975,
+      "num": 291975,
+      "word": "苹果将修复iPhone14Pro通知延迟",
+      "onboard_time": 1665453263,
+      "rank": 20,
+      "category": "科技"
+    },
+    {
       "raw_hot": 291897,
       "num": 291897,
       "word": "广西海边发现成熟稻谷",
@@ -7289,6 +7425,14 @@
       "onboard_time": 1665410244,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284642,
+      "num": 284642,
+      "word": "LPL小组赛首轮9胜3负",
+      "onboard_time": 1665453204,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 284537,
@@ -9691,6 +9835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209748,
+      "num": 209748,
+      "word": "男子生气开车突然手指僵硬呼吸困难",
+      "onboard_time": 1665447146,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209694,
       "num": 209694,
       "word": "怎么和孩子愉快交流",
@@ -10337,6 +10489,14 @@
       "onboard_time": 1665301041,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 193172,
+      "num": 193172,
+      "word": "GALA卡莎",
+      "onboard_time": 1665450086,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 193096,
@@ -11219,6 +11379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 170554,
+      "num": 170554,
+      "word": "TES小组赛两连败",
+      "onboard_time": 1665447385,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 170448,
       "num": 170448,
       "word": "机械狗能取代宠物狗吗",
@@ -11601,6 +11769,14 @@
       "onboard_time": 1664755700,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160928,
+      "num": 160928,
+      "word": "我国人口年均增长593.1万人",
+      "onboard_time": 1665453924,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160818,
@@ -12033,6 +12209,14 @@
       "onboard_time": 1664858543,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150518,
+      "num": 150518,
+      "word": "武大靖说这4年是爬过来的",
+      "onboard_time": 1665448047,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 150235,
@@ -12707,6 +12891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137701,
+      "num": 137701,
+      "word": "北京新增本土确诊13例",
+      "onboard_time": 1665447864,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137426,
       "num": 137426,
       "word": "我的反派男友弹幕",
@@ -13081,14 +13273,6 @@
       "onboard_time": 1665364944,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 128444,
-      "num": 128444,
-      "word": "阳澄湖蟹农吃不出阳澄湖蟹",
-      "onboard_time": 1665445100,
-      "rank": 29,
-      "category": "美食"
     },
     {
       "raw_hot": 128347,
@@ -14041,6 +14225,14 @@
       "onboard_time": 1664986640,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110888,
+      "num": 110888,
+      "word": "中国跳水队公布世界杯参赛名单",
+      "onboard_time": 1665446966,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 110798,
@@ -15027,6 +15219,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 90714,
+      "num": 90714,
+      "word": "男子喝醉酒后全程推车回家",
+      "onboard_time": 1665454883,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90568,
       "num": 90568,
       "word": "西蒙斯复出",
@@ -15051,6 +15251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90218,
+      "num": 90218,
+      "word": "全职猎人恢复连载",
+      "onboard_time": 1665454223,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 90113,
       "num": 90113,
       "word": "成都世乒赛现场播报是许魏洲",
@@ -15073,6 +15281,14 @@
       "onboard_time": 1665292706,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 89822,
+      "num": 89822,
+      "word": "RNG战胜100",
+      "onboard_time": 1665449245,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 89770,
@@ -16283,14 +16499,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 62279,
-      "num": 62279,
-      "word": "第一次看到防窥的烟花",
-      "onboard_time": 1665445523,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 61749,
       "num": 61749,
       "word": "Felix音银直拍",
@@ -16449,6 +16657,14 @@
       "onboard_time": 1664695521,
       "rank": 47,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 57539,
+      "num": 359136,
+      "word": "河南老人摆摊卖饭7元管饱",
+      "onboard_time": 1665454582,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57454,

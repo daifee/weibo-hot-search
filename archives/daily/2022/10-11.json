@@ -1,7 +1,31 @@
 {
   "startTime": 1665419943424,
-  "endTime": 1665445714775,
+  "endTime": 1665455092483,
   "band_list": [
+    {
+      "raw_hot": 1614396,
+      "num": 1614396,
+      "word": "西安全市暂停线下教学",
+      "onboard_time": 1665444918,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 1549140,
+      "num": 1549140,
+      "word": "男友考上清华女子扯横幅猪肉特价",
+      "onboard_time": 1665450925,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1190457,
+      "num": 1190457,
+      "word": "已故父亲棉被藏8万弹棉花时发现",
+      "onboard_time": 1665449903,
+      "rank": 3,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1085972,
       "num": 1085972,
@@ -75,6 +99,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 528580,
+      "num": 528580,
+      "word": "神话申彗星被警方逮捕",
+      "onboard_time": 1665452064,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 528165,
       "num": 528165,
       "word": "女子天生4个肾竟全部长结石",
@@ -83,12 +115,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 524089,
-      "num": 477376,
-      "word": "西安全市暂停线下教学",
-      "onboard_time": 1665444918,
-      "rank": 8,
-      "category": "教育"
+      "raw_hot": 497664,
+      "num": 497664,
+      "word": "有点担心情侣们的精神状态",
+      "onboard_time": 1665446306,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 467741,
@@ -99,12 +131,52 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 465867,
+      "num": 465867,
+      "word": "iPhone14Plus遇冷Pro卖爆",
+      "onboard_time": 1665453083,
+      "rank": 6,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 428384,
+      "num": 411968,
+      "word": "金钟大将10月31日回归",
+      "onboard_time": 1665449308,
+      "rank": 10,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 426404,
+      "num": 426404,
+      "word": "中国女篮排名升至世界第二",
+      "onboard_time": 1665452424,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 418500,
       "num": 418500,
       "word": "普京称若乌继续袭击俄领土将强硬回击",
       "onboard_time": 1665417383,
       "rank": 10,
       "category": "国内要闻,军事"
+    },
+    {
+      "raw_hot": 416372,
+      "num": 416372,
+      "word": "阳澄湖蟹农吃不出阳澄湖蟹",
+      "onboard_time": 1665445100,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 390548,
+      "num": 390548,
+      "word": "乌方称空袭已致14死97伤",
+      "onboard_time": 1665452964,
+      "rank": 11,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 385528,
@@ -115,6 +187,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 374272,
+      "num": 374272,
+      "word": "郑恺夸大考牛",
+      "onboard_time": 1665451226,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 371417,
+      "num": 371417,
+      "word": "第一次看到防窥的烟花",
+      "onboard_time": 1665445523,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 358810,
       "num": 358810,
       "word": "iPhone14出现首次大幅降价",
@@ -123,12 +211,68 @@
       "category": "科技"
     },
     {
+      "raw_hot": 350168,
+      "num": 350168,
+      "word": "赵丽颖龚俊voguefilm合照",
+      "onboard_time": 1665452302,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 344538,
+      "num": 344538,
+      "word": "西安疫情防控",
+      "onboard_time": 1665446065,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317058,
+      "num": 317058,
+      "word": "10月10日新增本土无症状1662例",
+      "onboard_time": 1665452663,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312966,
+      "num": 312966,
+      "word": "A股估值已被低估",
+      "onboard_time": 1665452003,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 308803,
+      "num": 308803,
+      "word": "这下看谁还敢不冲厕所",
+      "onboard_time": 1665451525,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 303344,
       "num": 303344,
       "word": "女子针灸回家才发现头上插根针",
       "onboard_time": 1665416544,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291975,
+      "num": 291975,
+      "word": "苹果将修复iPhone14Pro通知延迟",
+      "onboard_time": 1665453263,
+      "rank": 20,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 284642,
+      "num": 284642,
+      "word": "LPL小组赛首轮9胜3负",
+      "onboard_time": 1665453204,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 282954,
@@ -171,12 +315,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209748,
+      "num": 209748,
+      "word": "男子生气开车突然手指僵硬呼吸困难",
+      "onboard_time": 1665447146,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202304,
       "num": 202304,
       "word": "睡不着的主要原因是什么",
       "onboard_time": 1665422776,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193172,
+      "num": 193172,
+      "word": "GALA卡莎",
+      "onboard_time": 1665450086,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 191125,
@@ -219,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170554,
+      "num": 170554,
+      "word": "TES小组赛两连败",
+      "onboard_time": 1665447385,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 169627,
       "num": 169627,
       "word": "降息后杭州有人每个月房贷省2000",
@@ -227,12 +395,28 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 160928,
+      "num": 160928,
+      "word": "我国人口年均增长593.1万人",
+      "onboard_time": 1665453924,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157507,
       "num": 157507,
       "word": "虞书欣虞美人唱无名之辈翻车",
       "onboard_time": 1665409704,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 150518,
+      "num": 150518,
+      "word": "武大靖说这4年是爬过来的",
+      "onboard_time": 1665448047,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 146647,
@@ -267,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137701,
+      "num": 137701,
+      "word": "北京新增本土确诊13例",
+      "onboard_time": 1665447864,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136559,
       "num": 136559,
       "word": "才知道甄嬛愿望没实现的原因",
@@ -281,14 +473,6 @@
       "onboard_time": 1665407845,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 128444,
-      "num": 128444,
-      "word": "阳澄湖蟹农吃不出阳澄湖蟹",
-      "onboard_time": 1665445100,
-      "rank": 29,
-      "category": "美食"
     },
     {
       "raw_hot": 123404,
@@ -329,6 +513,14 @@
       "onboard_time": 1665443117,
       "rank": 41,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 110888,
+      "num": 110888,
+      "word": "中国跳水队公布世界杯参赛名单",
+      "onboard_time": 1665446966,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 108754,
@@ -385,6 +577,30 @@
       "onboard_time": 1665411988,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 90714,
+      "num": 90714,
+      "word": "男子喝醉酒后全程推车回家",
+      "onboard_time": 1665454883,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90218,
+      "num": 90218,
+      "word": "全职猎人恢复连载",
+      "onboard_time": 1665454223,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 89822,
+      "num": 89822,
+      "word": "RNG战胜100",
+      "onboard_time": 1665449245,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 88078,
@@ -451,14 +667,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 62279,
-      "num": 62279,
-      "word": "第一次看到防窥的烟花",
-      "onboard_time": 1665445523,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 61754,
       "num": 61754,
       "word": "CBA裁判吹罚尺度",
@@ -472,6 +680,14 @@
       "word": "民警看邻座一心刷手机发现在洗钱",
       "onboard_time": 1665399325,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57539,
+      "num": 359136,
+      "word": "河南老人摆摊卖饭7元管饱",
+      "onboard_time": 1665454582,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -627,8 +843,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 7489,
-      "num": 679569,
+      "raw_hot": 9110,
+      "num": 1305515,
       "word": "红星何以照耀中国",
       "onboard_time": 1665387865,
       "rank": 2,

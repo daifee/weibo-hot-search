@@ -1,0 +1,410 @@
+{
+  "runTime": 1665455092483,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1614396,
+        "num": 1614396,
+        "word": "西安全市暂停线下教学",
+        "onboard_time": 1665444918,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1549140,
+        "num": 1549140,
+        "word": "男友考上清华女子扯横幅猪肉特价",
+        "onboard_time": 1665450925,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9110,
+        "num": 1305515,
+        "word": "红星何以照耀中国",
+        "onboard_time": 1665387865,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1190457,
+        "num": 1190457,
+        "word": "已故父亲棉被藏8万弹棉花时发现",
+        "onboard_time": 1665449903,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528580,
+        "num": 528580,
+        "word": "神话申彗星被警方逮捕",
+        "onboard_time": 1665452064,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 497664,
+        "num": 497664,
+        "word": "有点担心情侣们的精神状态",
+        "onboard_time": 1665446306,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 465867,
+        "num": 465867,
+        "word": "iPhone14Plus遇冷Pro卖爆",
+        "onboard_time": 1665453083,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 457441,
+        "num": 457441,
+        "word": "医生建议成人每天睡够7小时",
+        "onboard_time": 1665388344,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426404,
+        "num": 426404,
+        "word": "中国女篮排名升至世界第二",
+        "onboard_time": 1665452424,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 416372,
+        "num": 416372,
+        "word": "阳澄湖蟹农吃不出阳澄湖蟹",
+        "onboard_time": 1665445100,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 428384,
+        "num": 411968,
+        "word": "金钟大将10月31日回归",
+        "onboard_time": 1665449308,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 390548,
+        "num": 390548,
+        "word": "乌方称空袭已致14死97伤",
+        "onboard_time": 1665452964,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 374272,
+        "num": 374272,
+        "word": "郑恺夸大考牛",
+        "onboard_time": 1665451226,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 371417,
+        "num": 371417,
+        "word": "第一次看到防窥的烟花",
+        "onboard_time": 1665445523,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 57539,
+        "num": 359136,
+        "word": "河南老人摆摊卖饭7元管饱",
+        "onboard_time": 1665454582,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350168,
+        "num": 350168,
+        "word": "赵丽颖龚俊voguefilm合照",
+        "onboard_time": 1665452302,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 344538,
+        "num": 344538,
+        "word": "西安疫情防控",
+        "onboard_time": 1665446065,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317058,
+        "num": 317058,
+        "word": "10月10日新增本土无症状1662例",
+        "onboard_time": 1665452663,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312966,
+        "num": 312966,
+        "word": "A股估值已被低估",
+        "onboard_time": 1665452003,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 308803,
+        "num": 308803,
+        "word": "这下看谁还敢不冲厕所",
+        "onboard_time": 1665451525,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 291975,
+        "num": 291975,
+        "word": "苹果将修复iPhone14Pro通知延迟",
+        "onboard_time": 1665453263,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 284642,
+        "num": 284642,
+        "word": "LPL小组赛首轮9胜3负",
+        "onboard_time": 1665453204,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 270133,
+        "num": 270133,
+        "word": "10斤的小猫9斤的反骨",
+        "onboard_time": 1665418401,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 255257,
+        "num": 255257,
+        "word": "女孩感冒家长2天喂7种药致其肝损害",
+        "onboard_time": 1665435252,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224598,
+        "num": 224598,
+        "word": "RGE战胜TES",
+        "onboard_time": 1665444741,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 209748,
+        "num": 209748,
+        "word": "男子生气开车突然手指僵硬呼吸困难",
+        "onboard_time": 1665447146,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195516,
+        "num": 195516,
+        "word": "女子天生4个肾竟全部长结石",
+        "onboard_time": 1665410125,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193172,
+        "num": 193172,
+        "word": "GALA卡莎",
+        "onboard_time": 1665450086,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184992,
+        "num": 184992,
+        "word": "因代做核酸上海80余人被行政处罚",
+        "onboard_time": 1665429371,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175789,
+        "num": 175789,
+        "word": "妈妈带孩子被反锁屋内外婆徒手撕门",
+        "onboard_time": 1665443899,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173229,
+        "num": 173229,
+        "word": "影帝走红毯是都这么忙吗",
+        "onboard_time": 1665414866,
+        "rank": 30,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 170554,
+        "num": 170554,
+        "word": "TES小组赛两连败",
+        "onboard_time": 1665447385,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160928,
+        "num": 160928,
+        "word": "我国人口年均增长593.1万人",
+        "onboard_time": 1665453924,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158733,
+        "num": 158733,
+        "word": "4岁女孩隔50米认出3年未见父母",
+        "onboard_time": 1665422894,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153925,
+        "num": 153925,
+        "word": "普京称若乌继续袭击俄领土将强硬回击",
+        "onboard_time": 1665417383,
+        "rank": 34,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 150518,
+        "num": 150518,
+        "word": "武大靖说这4年是爬过来的",
+        "onboard_time": 1665448047,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148158,
+        "num": 148158,
+        "word": "一张表自测嗜睡程度",
+        "onboard_time": 1665425053,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139546,
+        "num": 139546,
+        "word": "iPhone14出现首次大幅降价",
+        "onboard_time": 1665398006,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 137701,
+        "num": 137701,
+        "word": "北京新增本土确诊13例",
+        "onboard_time": 1665447864,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128466,
+        "num": 128466,
+        "word": "2女生因气温骤降披棉被出门",
+        "onboard_time": 1665437590,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126830,
+        "num": 126830,
+        "word": "杨幂许凯新剧开播就结婚",
+        "onboard_time": 1665416725,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116422,
+        "num": 116422,
+        "word": "演唱会灯海名场面",
+        "onboard_time": 1665412103,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 111386,
+        "num": 111386,
+        "word": "海克斯科技是揭内幕还是贩卖焦虑",
+        "onboard_time": 1665416725,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110888,
+        "num": 110888,
+        "word": "中国跳水队公布世界杯参赛名单",
+        "onboard_time": 1665446966,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109381,
+        "num": 109381,
+        "word": "女子针灸回家才发现头上插根针",
+        "onboard_time": 1665416544,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94352,
+        "num": 94352,
+        "word": "山西运城报告299例新冠阳性",
+        "onboard_time": 1665409584,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90714,
+        "num": 90714,
+        "word": "男子喝醉酒后全程推车回家",
+        "onboard_time": 1665454883,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90615,
+        "num": 90615,
+        "word": "教育局通报中学收20元树叶费",
+        "onboard_time": 1665427813,
+        "rank": 47,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 90218,
+        "num": 90218,
+        "word": "全职猎人恢复连载",
+        "onboard_time": 1665454223,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 89822,
+        "num": 89822,
+        "word": "RNG战胜100",
+        "onboard_time": 1665449245,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#十九届七中全会#"
+    }
+  }
+}
