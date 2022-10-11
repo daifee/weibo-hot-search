@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665527253768,
+  "endTime": 1665528411449,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -1739,6 +1739,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 292033,
+      "num": 292033,
+      "word": "男子买药付款时偷换商家收款码",
+      "onboard_time": 1665523632,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291975,
       "num": 291975,
       "word": "苹果将修复iPhone14Pro通知延迟",
@@ -2995,14 +3003,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 138050,
-      "num": 138050,
-      "word": "男子买药付款时偷换商家收款码",
-      "onboard_time": 1665523632,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 137701,
       "num": 137701,
       "word": "北京新增本土确诊13例",
@@ -3177,6 +3177,14 @@
       "onboard_time": 1665503844,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122597,
+      "num": 122597,
+      "word": "姐姐给弟弟冲奶粉自己先干两杯",
+      "onboard_time": 1665519191,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121969,
@@ -3403,6 +3411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101054,
+      "num": 101054,
+      "word": "美军舰被拍到在北溪管道泄漏处附近巡航",
+      "onboard_time": 1665511692,
+      "rank": 33,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 100821,
       "num": 100821,
       "word": "马龙赛后谈及未来打算",
@@ -3579,6 +3595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87596,
+      "num": 82360,
+      "word": "乌克兰大部分地区拉响防空警报",
+      "onboard_time": 1665525071,
+      "rank": 23,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 85662,
       "num": 85662,
       "word": "樊振东表情",
@@ -3675,14 +3699,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 79779,
-      "num": 71495,
-      "word": "姐姐给弟弟冲奶粉自己先干两杯",
-      "onboard_time": 1665519191,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 78741,
       "num": 78741,
       "word": "熊孩子不上学躲自家衣柜玩手机",
@@ -3713,6 +3729,14 @@
       "onboard_time": 1665471804,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 75193,
+      "num": 75193,
+      "word": "白俄罗斯女孩跨越万里远嫁中国",
+      "onboard_time": 1665516611,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72940,
@@ -3763,6 +3787,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 68194,
+      "num": 68194,
+      "word": "神仙租客回应将房间打扫干净",
+      "onboard_time": 1665523451,
+      "rank": 47,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 66773,
       "num": 305370,
       "word": "6名建筑工人火场救出一家五口",
@@ -3809,14 +3841,6 @@
       "onboard_time": 1665403224,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 62589,
-      "num": 62589,
-      "word": "美军舰被拍到在北溪管道泄漏处附近巡航",
-      "onboard_time": 1665511692,
-      "rank": 33,
-      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 61901,
@@ -3891,6 +3915,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 53354,
+      "num": 53354,
+      "word": "小学生捡到50元后组团上交派出所",
+      "onboard_time": 1665517690,
+      "rank": 14,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 52658,
+      "num": 52658,
+      "word": "东风快递发射大场面帧帧大片",
+      "onboard_time": 1665521351,
+      "rank": 30,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 52440,
       "num": 52440,
       "word": "北京新增本土感染者11例",
@@ -3939,11 +3979,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 47016,
-      "num": 47016,
-      "word": "白俄罗斯女孩跨越万里远嫁中国",
-      "onboard_time": 1665516611,
-      "rank": 42,
+      "raw_hot": 45346,
+      "num": 45346,
+      "word": "男子请唢呐乐队在KTV为朋友庆生",
+      "onboard_time": 1665521530,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -3953,14 +3993,6 @@
       "onboard_time": 1665358581,
       "rank": 48,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 42580,
-      "num": 42580,
-      "word": "东风快递发射大场面帧帧大片",
-      "onboard_time": 1665521351,
-      "rank": 30,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 41519,
@@ -3987,28 +4019,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36477,
-      "num": 36477,
-      "word": "乌克兰大部分地区拉响防空警报",
-      "onboard_time": 1665525071,
-      "rank": 23,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 35979,
       "num": 35979,
       "word": "文俊辉Limbo花絮",
       "onboard_time": 1665417623,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 35676,
-      "num": 35676,
-      "word": "男子请唢呐乐队在KTV为朋友庆生",
-      "onboard_time": 1665521530,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35077,
@@ -4019,28 +4035,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 32769,
-      "num": 32769,
-      "word": "小学生捡到50元后组团上交派出所",
-      "onboard_time": 1665517690,
-      "rank": 14,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 32170,
       "num": 248415,
       "word": "山东双胞胎姐妹一同入伍成海军新兵",
       "onboard_time": 1665414027,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32059,
-      "num": 32059,
-      "word": "神仙租客回应将房间打扫干净",
-      "onboard_time": 1665523451,
-      "rank": 47,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 27890,
@@ -4099,6 +4099,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 14202,
+      "num": 14202,
+      "word": "彩虹挂在了峡谷瀑布上",
+      "onboard_time": 1665524711,
+      "rank": 48,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 14109,
       "num": 14109,
       "word": "张远噢乖高音",
@@ -4123,20 +4131,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 11506,
+      "num": 13383,
+      "word": "追梦格林母亲谈格林拳击普尔",
+      "onboard_time": 1665527956,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 11443,
       "num": 11443,
       "word": "2个动作增强背肌",
       "onboard_time": 1665351311,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 10019,
-      "num": 10019,
-      "word": "彩虹挂在了峡谷瀑布上",
-      "onboard_time": 1665524711,
-      "rank": 48,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 9679,

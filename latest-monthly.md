@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/12 06:27:33
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/12 06:46:51
 </p>
 </blockquote>
 <p>
@@ -5937,6 +5937,12 @@ StrayKids新歌MV公开（热度：292367）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B9%B0%E8%8D%AF%E4%BB%98%E6%AC%BE%E6%97%B6%E5%81%B7%E6%8D%A2%E5%95%86%E5%AE%B6%E6%94%B6%E6%AC%BE%E7%A0%81%23" target="weibo">
+男子买药付款时偷换商家收款码（热度：292033）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%B0%86%E4%BF%AE%E5%A4%8DiPhone14Pro%E9%80%9A%E7%9F%A5%E5%BB%B6%E8%BF%9F%23" target="weibo">
 苹果将修复iPhone14Pro通知延迟（热度：291975）
 </a>
@@ -6005,12 +6011,6 @@ StrayKids新歌MV公开（热度：292367）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%8F%8D%E8%AF%88%E9%81%87%E4%B8%8A%E8%8B%8D%E5%85%B0%E8%AF%80%23" target="weibo">
 当反诈遇上苍兰诀（热度：288092）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%B9%92%E4%B9%93%E4%B8%BE%E4%B8%96%E6%97%A0%E5%8F%8C%23" target="weibo">
-中国乒乓举世无双（热度：287896）
 </a>
 </li>
 
