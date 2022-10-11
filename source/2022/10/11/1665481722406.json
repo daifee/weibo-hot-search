@@ -1,0 +1,410 @@
+{
+  "runTime": 1665481722406,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 858752,
+        "num": 858752,
+        "word": "我国仅30%产妇使用无痛分娩",
+        "onboard_time": 1665472402,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 745059,
+        "num": 745059,
+        "word": "人力局回应公司面试问能否无偿加班",
+        "onboard_time": 1665476665,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68237,
+        "num": 736722,
+        "word": "180秒看见最可爱的中国",
+        "onboard_time": 1665471804,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1721819,
+        "num": 736611,
+        "word": "原来不止有月经还有季经",
+        "onboard_time": 1665473964,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 735937,
+        "num": 735937,
+        "word": "女生10元购洗衣液到货后发现蓝月壳",
+        "onboard_time": 1665475704,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507371,
+        "num": 507371,
+        "word": "石榴竟然还可以做出甜品",
+        "onboard_time": 1665477565,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 489251,
+        "num": 489251,
+        "word": "谁不是一边崩溃一边自愈",
+        "onboard_time": 1665474744,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426018,
+        "num": 426018,
+        "word": "错撩",
+        "onboard_time": 1665473904,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 396347,
+        "num": 396347,
+        "word": "6岁女孩天生爆炸头称不想上学",
+        "onboard_time": 1665469284,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353146,
+        "num": 353146,
+        "word": "美国对欧洲出口天然气大提价",
+        "onboard_time": 1665479543,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 616177,
+        "num": 351757,
+        "word": "尼坤再提我结度蜜月",
+        "onboard_time": 1665473184,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 341128,
+        "num": 341128,
+        "word": "山西运城新增196名新冠阳性",
+        "onboard_time": 1665480145,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293721,
+        "num": 293721,
+        "word": "宋雨琦叶舒华泰国杂志画报",
+        "onboard_time": 1665475403,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 284089,
+        "num": 284089,
+        "word": "雇主不愿外出保姆变装代做核酸",
+        "onboard_time": 1665471983,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271146,
+        "num": 271146,
+        "word": "合肥疫情防控",
+        "onboard_time": 1665478704,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252916,
+        "num": 252916,
+        "word": "母牛被卖装车途中跪地不起",
+        "onboard_time": 1665473245,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246115,
+        "num": 246115,
+        "word": "最后一次和喜欢的人的对话",
+        "onboard_time": 1665478583,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231821,
+        "num": 231821,
+        "word": "送儿上北大的鸡蛋灌饼爸爸发文",
+        "onboard_time": 1665476005,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223119,
+        "num": 223119,
+        "word": "李政宰新剧片酬破纪录",
+        "onboard_time": 1665479124,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219823,
+        "num": 219823,
+        "word": "中国女排今晚再次迎战意大利",
+        "onboard_time": 1665479304,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 345358,
+        "num": 219786,
+        "word": "动态清零可持续而且必须坚持",
+        "onboard_time": 1665468082,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219490,
+        "num": 219490,
+        "word": "底线全员闭庭",
+        "onboard_time": 1665477144,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203043,
+        "num": 203043,
+        "word": "特朗普集会上播放拜登失态视频",
+        "onboard_time": 1665470964,
+        "rank": 22,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 188031,
+        "num": 188031,
+        "word": "杨幂许凯爱的二八定律OST歌单",
+        "onboard_time": 1665474625,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158961,
+        "num": 158961,
+        "word": "妻子让丈夫煮筷子结果烧成碳",
+        "onboard_time": 1665461365,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156264,
+        "num": 156264,
+        "word": "阴阳师",
+        "onboard_time": 1665476785,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142463,
+        "num": 142463,
+        "word": "扎波罗热地区发生多次爆炸",
+        "onboard_time": 1665474265,
+        "rank": 26,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 139557,
+        "num": 139557,
+        "word": "研究称妈妈情绪影响宝宝说话能力",
+        "onboard_time": 1665473545,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 138642,
+        "num": 138642,
+        "word": "小猫也有喜欢的玩具",
+        "onboard_time": 1665478286,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133584,
+        "num": 133584,
+        "word": "李承铉建议感情中多考虑再行动",
+        "onboard_time": 1665467904,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127866,
+        "num": 127866,
+        "word": "现代人最擅长的事就是哭穷",
+        "onboard_time": 1665473363,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124584,
+        "num": 124584,
+        "word": "张彬彬绅士手",
+        "onboard_time": 1665475463,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122219,
+        "num": 122219,
+        "word": "RNG新公司名为软泥怪",
+        "onboard_time": 1665464486,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121875,
+        "num": 121875,
+        "word": "女机长海上搜救十余年救起225人",
+        "onboard_time": 1665479664,
+        "rank": 33,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 120775,
+        "num": 120775,
+        "word": "妈妈为女儿做公主裙365天不重样",
+        "onboard_time": 1665465922,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119084,
+        "num": 119084,
+        "word": "心动的信号",
+        "onboard_time": 1665466345,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112273,
+        "num": 112273,
+        "word": "被唐诡弹幕笑死",
+        "onboard_time": 1665476184,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 111470,
+        "num": 111470,
+        "word": "95后毕业生基层工作23天被怼到想哭",
+        "onboard_time": 1665464846,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97775,
+        "num": 97775,
+        "word": "深圳首次发现BF.7变异株",
+        "onboard_time": 1665467362,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95548,
+        "num": 95548,
+        "word": "男友考上清华女子扯横幅猪肉特价",
+        "onboard_time": 1665450925,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304332,
+        "num": 94880,
+        "word": "九寨沟国庆遇冷7天迎客211人",
+        "onboard_time": 1665468924,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93219,
+        "num": 93219,
+        "word": "不舍得删除的聊天记录",
+        "onboard_time": 1665459625,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84633,
+        "num": 84633,
+        "word": "8岁女童夜里机智吓退可疑敲门人",
+        "onboard_time": 1665458363,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84312,
+        "num": 84312,
+        "word": "长大才知道图图爸妈有多好",
+        "onboard_time": 1665465265,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 79831,
+        "num": 79831,
+        "word": "孟子义看恋综沉浸式生气",
+        "onboard_time": 1665472344,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78689,
+        "num": 78689,
+        "word": "梁朝伟劝各位理想型别定太早",
+        "onboard_time": 1665465506,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 71749,
+        "num": 71749,
+        "word": "突然就喜欢遛狗了",
+        "onboard_time": 1665472223,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 65434,
+        "num": 65434,
+        "word": "乘坐郑州地铁需要24小时核酸证明",
+        "onboard_time": 1665468801,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61901,
+        "num": 61901,
+        "word": "师生观测月亮意外拍到月上雁影",
+        "onboard_time": 1665481283,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59642,
+        "num": 59642,
+        "word": "鸟鸟不愧是我的互联网嘴替",
+        "onboard_time": 1665463229,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#领航#"
+    }
+  }
+}
