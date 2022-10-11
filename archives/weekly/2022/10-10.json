@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665528411449,
+  "endTime": 1665531142065,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -1035,6 +1035,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 479784,
+      "num": 479784,
+      "word": "男子买药付款时偷换商家收款码",
+      "onboard_time": 1665523632,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 474840,
       "num": 474840,
       "word": "爱的二八定律出品方没有嘉行",
@@ -1715,6 +1723,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 298233,
+      "num": 298233,
+      "word": "乌克兰大部分地区拉响防空警报",
+      "onboard_time": 1665525071,
+      "rank": 23,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 295466,
       "num": 295466,
       "word": "许凯爱的二八定律原声台词",
@@ -1737,14 +1753,6 @@
       "onboard_time": 1665371003,
       "rank": 20,
       "category": "科技"
-    },
-    {
-      "raw_hot": 292033,
-      "num": 292033,
-      "word": "男子买药付款时偷换商家收款码",
-      "onboard_time": 1665523632,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 291975,
@@ -1825,6 +1833,14 @@
       "onboard_time": 1665476785,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 278881,
+      "num": 278881,
+      "word": "姐姐给弟弟冲奶粉自己先干两杯",
+      "onboard_time": 1665519191,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 276074,
@@ -2075,6 +2091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 242149,
+      "num": 161319,
+      "word": "女子用狗狗拉粑粑照给狗办证",
+      "onboard_time": 1665505224,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237618,
       "num": 237618,
       "word": "基辅要求民众进入庇护所",
@@ -2147,6 +2171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 229356,
+      "num": 229356,
+      "word": "美军舰被拍到在北溪管道泄漏处附近巡航",
+      "onboard_time": 1665511692,
+      "rank": 33,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 229177,
       "num": 225743,
       "word": "StrayKids独家电台打卡记",
@@ -2192,6 +2224,14 @@
       "word": "张慧雯新剧盛唐国风造型",
       "onboard_time": 1665409704,
       "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 226257,
+      "num": 226257,
+      "word": "网传王凯谭松韵向风而行将Q4播出",
+      "onboard_time": 1665530420,
+      "rank": 13,
       "category": "影视"
     },
     {
@@ -2257,14 +2297,6 @@
       "onboard_time": 1665489563,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 221260,
-      "num": 117206,
-      "word": "女子用狗狗拉粑粑照给狗办证",
-      "onboard_time": 1665505224,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 220501,
@@ -2435,6 +2467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199892,
+      "num": 199892,
+      "word": "中国女排1比3不敌意大利",
+      "onboard_time": 1665530480,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198636,
       "num": 198636,
       "word": "男子拿驾照当天酒后开车被扣12分",
@@ -2569,6 +2609,14 @@
       "onboard_time": 1665397402,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 182327,
+      "num": 182327,
+      "word": "白俄罗斯女孩跨越万里远嫁中国",
+      "onboard_time": 1665516611,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181569,
@@ -2875,6 +2923,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 148823,
+      "num": 148823,
+      "word": "小学生捡到50元后组团上交派出所",
+      "onboard_time": 1665517690,
+      "rank": 14,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 148200,
       "num": 148200,
       "word": "中国人种树有多厉害",
@@ -2921,6 +2977,14 @@
       "onboard_time": 1665432072,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143025,
+      "num": 143025,
+      "word": "2022女排世锦赛",
+      "onboard_time": 1665530720,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 142708,
@@ -3099,6 +3163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129305,
+      "num": 129305,
+      "word": "神仙租客回应将房间打扫干净",
+      "onboard_time": 1665523451,
+      "rank": 47,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 128535,
       "num": 128535,
       "word": "10月9日新增本土无症状1566例",
@@ -3179,14 +3251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122597,
-      "num": 122597,
-      "word": "姐姐给弟弟冲奶粉自己先干两杯",
-      "onboard_time": 1665519191,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121969,
       "num": 121969,
       "word": "流畅腿型的秘密找到了",
@@ -3241,6 +3305,14 @@
       "onboard_time": 1665407004,
       "rank": 36,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 118034,
+      "num": 118034,
+      "word": "追梦格林母亲谈格林拳击普尔",
+      "onboard_time": 1665527956,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 116841,
@@ -3411,14 +3483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 101054,
-      "num": 101054,
-      "word": "美军舰被拍到在北溪管道泄漏处附近巡航",
-      "onboard_time": 1665511692,
-      "rank": 33,
-      "category": "军事,国外要闻"
-    },
-    {
       "raw_hot": 100821,
       "num": 100821,
       "word": "马龙赛后谈及未来打算",
@@ -3571,6 +3635,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 89690,
+      "num": 89690,
+      "word": "地理老师都气笑了",
+      "onboard_time": 1665505700,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 88995,
       "num": 88995,
       "word": "gidle新专辑试听",
@@ -3593,14 +3665,6 @@
       "onboard_time": 1665326606,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 87596,
-      "num": 82360,
-      "word": "乌克兰大部分地区拉响防空警报",
-      "onboard_time": 1665525071,
-      "rank": 23,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 85662,
@@ -3715,6 +3779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 76444,
+      "num": 76444,
+      "word": "东风快递发射大场面帧帧大片",
+      "onboard_time": 1665521351,
+      "rank": 30,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 76016,
       "num": 76016,
       "word": "VogueWorld上海",
@@ -3723,20 +3795,20 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 75856,
+      "num": 75856,
+      "word": "虞书欣也舍不得小森林大结局",
+      "onboard_time": 1665530359,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 75772,
       "num": 894336,
       "word": "180秒看见最可爱的中国",
       "onboard_time": 1665471804,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 75193,
-      "num": 75193,
-      "word": "白俄罗斯女孩跨越万里远嫁中国",
-      "onboard_time": 1665516611,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 72940,
@@ -3771,28 +3843,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 69409,
-      "num": 69409,
-      "word": "地理老师都气笑了",
-      "onboard_time": 1665505700,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 68684,
       "num": 68684,
       "word": "iPhone15系列仍将采用高通基带",
       "onboard_time": 1665306501,
       "rank": 40,
       "category": "科技"
-    },
-    {
-      "raw_hot": 68194,
-      "num": 68194,
-      "word": "神仙租客回应将房间打扫干净",
-      "onboard_time": 1665523451,
-      "rank": 47,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 66773,
@@ -3883,6 +3939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60339,
+      "num": 60339,
+      "word": "男子请唢呐乐队在KTV为朋友庆生",
+      "onboard_time": 1665521530,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59887,
       "num": 59887,
       "word": "国乒男队夺冠与国旗合影",
@@ -3913,22 +3977,6 @@
       "onboard_time": 1665508155,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 53354,
-      "num": 53354,
-      "word": "小学生捡到50元后组团上交派出所",
-      "onboard_time": 1665517690,
-      "rank": 14,
-      "category": "社会正能量"
-    },
-    {
-      "raw_hot": 52658,
-      "num": 52658,
-      "word": "东风快递发射大场面帧帧大片",
-      "onboard_time": 1665521351,
-      "rank": 30,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 52440,
@@ -3977,14 +4025,6 @@
       "onboard_time": 1665329245,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 45346,
-      "num": 45346,
-      "word": "男子请唢呐乐队在KTV为朋友庆生",
-      "onboard_time": 1665521530,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 44614,
@@ -4129,14 +4169,6 @@
       "onboard_time": 1665428771,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 11506,
-      "num": 13383,
-      "word": "追梦格林母亲谈格林拳击普尔",
-      "onboard_time": 1665527956,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 11443,
