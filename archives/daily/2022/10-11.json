@@ -1,10 +1,10 @@
 {
   "startTime": 1665419943424,
-  "endTime": 1665478489847,
+  "endTime": 1665480606844,
   "band_list": [
     {
       "raw_hot": 2305711,
-      "num": 665498,
+      "num": 760319,
       "word": "原来不止有月经还有季经",
       "onboard_time": 1665473964,
       "rank": 35,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 878469,
+      "num": 878469,
+      "word": "女生10元购洗衣液到货后发现蓝月壳",
+      "onboard_time": 1665475704,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 874091,
       "num": 874091,
       "word": "高校毛概女老师神仙颜值美出圈",
@@ -144,6 +152,14 @@
       "word": "8岁女童夜里机智吓退可疑敲门人",
       "onboard_time": 1665458363,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 736428,
+      "num": 736428,
+      "word": "人力局回应公司面试问能否无偿加班",
+      "onboard_time": 1665476665,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -187,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 647453,
+      "num": 647453,
+      "word": "谁不是一边崩溃一边自愈",
+      "onboard_time": 1665474744,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 642169,
       "num": 642169,
       "word": "女孩感冒家长2天喂7种药致其肝损害",
@@ -217,14 +241,6 @@
       "onboard_time": 1665452064,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 574735,
-      "num": 574735,
-      "word": "女生10元购洗衣液到货后发现蓝月壳",
-      "onboard_time": 1665475704,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 572244,
@@ -411,6 +427,14 @@
       "category": "国内要闻,军事"
     },
     {
+      "raw_hot": 417651,
+      "num": 417651,
+      "word": "石榴竟然还可以做出甜品",
+      "onboard_time": 1665477565,
+      "rank": 16,
+      "category": "美食"
+    },
+    {
       "raw_hot": 416372,
       "num": 416372,
       "word": "阳澄湖蟹农吃不出阳澄湖蟹",
@@ -441,14 +465,6 @@
       "onboard_time": 1665451525,
       "rank": 19,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 386779,
-      "num": 386779,
-      "word": "谁不是一边崩溃一边自愈",
-      "onboard_time": 1665474744,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 385528,
@@ -539,6 +555,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 318361,
+      "num": 318361,
+      "word": "合肥疫情防控",
+      "onboard_time": 1665478704,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317058,
       "num": 317058,
       "word": "10月10日新增本土无症状1662例",
@@ -553,14 +577,6 @@
       "onboard_time": 1665452003,
       "rank": 18,
       "category": "财经"
-    },
-    {
-      "raw_hot": 310236,
-      "num": 310236,
-      "word": "人力局回应公司面试问能否无偿加班",
-      "onboard_time": 1665476665,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 303344,
@@ -691,20 +707,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 237526,
-      "num": 237526,
-      "word": "石榴竟然还可以做出甜品",
-      "onboard_time": 1665477565,
-      "rank": 16,
-      "category": "美食"
-    },
-    {
       "raw_hot": 232197,
       "num": 232197,
       "word": "杨幂许凯爱的二八定律OST歌单",
       "onboard_time": 1665474625,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 228001,
+      "num": 228001,
+      "word": "送儿上北大的鸡蛋灌饼爸爸发文",
+      "onboard_time": 1665476005,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225333,
@@ -747,6 +763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 212131,
+      "num": 212131,
+      "word": "最后一次和喜欢的人的对话",
+      "onboard_time": 1665478583,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 211842,
       "num": 211842,
       "word": "研究称妈妈情绪影响宝宝说话能力",
@@ -763,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208446,
+      "num": 208446,
+      "word": "底线全员闭庭",
+      "onboard_time": 1665477144,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 207185,
       "num": 207185,
       "word": "披荆斩棘四公光影情绪视频",
@@ -777,6 +809,14 @@
       "onboard_time": 1665422776,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196980,
+      "num": 196980,
+      "word": "李政宰新剧片酬破纪录",
+      "onboard_time": 1665479124,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 193242,
@@ -883,12 +923,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 160527,
+      "num": 160527,
+      "word": "美国对欧洲出口天然气大提价",
+      "onboard_time": 1665479543,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 157507,
       "num": 157507,
       "word": "虞书欣虞美人唱无名之辈翻车",
       "onboard_time": 1665409704,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 154590,
+      "num": 154590,
+      "word": "中国女排今晚再次迎战意大利",
+      "onboard_time": 1665479304,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 150518,
@@ -947,14 +1003,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 137885,
-      "num": 137885,
-      "word": "底线全员闭庭",
-      "onboard_time": 1665477144,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 137701,
       "num": 137701,
       "word": "北京新增本土确诊13例",
@@ -995,20 +1043,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129284,
+      "num": 129284,
+      "word": "小猫也有喜欢的玩具",
+      "onboard_time": 1665478286,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126411,
       "num": 126411,
       "word": "金晨演的罗娜是百米心墙选手",
       "onboard_time": 1665466524,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 125207,
-      "num": 125207,
-      "word": "送儿上北大的鸡蛋灌饼爸爸发文",
-      "onboard_time": 1665476005,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 123404,
@@ -1057,6 +1105,14 @@
       "onboard_time": 1665446966,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109743,
+      "num": 109743,
+      "word": "被唐诡弹幕笑死",
+      "onboard_time": 1665476184,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 108754,
@@ -1113,6 +1169,22 @@
       "onboard_time": 1665467003,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 97835,
+      "num": 97835,
+      "word": "女机长海上搜救十余年救起225人",
+      "onboard_time": 1665479664,
+      "rank": 40,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 97466,
+      "num": 97466,
+      "word": "山西运城新增196名新冠阳性",
+      "onboard_time": 1665480145,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96862,
@@ -1195,14 +1267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 82993,
-      "num": 82993,
-      "word": "被唐诡弹幕笑死",
-      "onboard_time": 1665476184,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 82414,
       "num": 82414,
       "word": "DRX战胜GAM",
@@ -1257,14 +1321,6 @@
       "onboard_time": 1665477984,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 68647,
-      "num": 68647,
-      "word": "小猫也有喜欢的玩具",
-      "onboard_time": 1665478286,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 66773,
