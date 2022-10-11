@@ -1,6 +1,6 @@
 {
   "startTime": 1665419943424,
-  "endTime": 1665472035891,
+  "endTime": 1665474235616,
   "band_list": [
     {
       "raw_hot": 2252488,
@@ -16,6 +16,14 @@
       "word": "男友考上清华女子扯横幅猪肉特价",
       "onboard_time": 1665450925,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1697267,
+      "num": 1697267,
+      "word": "6岁女孩天生爆炸头称不想上学",
+      "onboard_time": 1665469284,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -59,11 +67,11 @@
       "category": "自然"
     },
     {
-      "raw_hot": 960802,
-      "num": 960802,
-      "word": "6岁女孩天生爆炸头称不想上学",
-      "onboard_time": 1665469284,
-      "rank": 45,
+      "raw_hot": 912623,
+      "num": 809256,
+      "word": "九寨沟国庆遇冷7天迎客211人",
+      "onboard_time": 1665468924,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -91,20 +99,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 860820,
+      "num": 860820,
+      "word": "我国仅30%产妇使用无痛分娩",
+      "onboard_time": 1665472402,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 857673,
       "num": 857673,
       "word": "鸟鸟不愧是我的互联网嘴替",
       "onboard_time": 1665463229,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 809256,
-      "num": 809256,
-      "word": "九寨沟国庆遇冷7天迎客211人",
-      "onboard_time": 1665468924,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 751476,
@@ -251,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 502053,
+      "num": 391701,
+      "word": "错撩",
+      "onboard_time": 1665473904,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 501590,
       "num": 501590,
       "word": "中国女篮排名升至世界第二",
@@ -265,6 +281,14 @@
       "onboard_time": 1665446306,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 486233,
+      "num": 368721,
+      "word": "尼坤再提我结度蜜月",
+      "onboard_time": 1665473184,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 471113,
@@ -355,12 +379,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 398487,
+      "num": 360056,
+      "word": "特朗普集会上播放拜登失态视频",
+      "onboard_time": 1665470964,
+      "rank": 23,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 387663,
+      "num": 387663,
+      "word": "妈妈为女儿做公主裙365天不重样",
+      "onboard_time": 1665465922,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 385528,
       "num": 385528,
       "word": "你有超过七年以上的友情吗",
       "onboard_time": 1665403764,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 380409,
+      "num": 380409,
+      "word": "李承铉建议感情中多考虑再行动",
+      "onboard_time": 1665467904,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 379524,
@@ -459,6 +507,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 304724,
+      "num": 304724,
+      "word": "雇主不愿外出保姆变装代做核酸",
+      "onboard_time": 1665471983,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 303344,
       "num": 303344,
       "word": "女子针灸回家才发现头上插根针",
@@ -473,14 +529,6 @@
       "onboard_time": 1665453263,
       "rank": 20,
       "category": "科技"
-    },
-    {
-      "raw_hot": 288118,
-      "num": 288118,
-      "word": "妈妈为女儿做公主裙365天不重样",
-      "onboard_time": 1665465922,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 282954,
@@ -513,6 +561,14 @@
       "onboard_time": 1665414866,
       "rank": 9,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 276074,
+      "num": 276074,
+      "word": "长辈们买东西太实在了",
+      "onboard_time": 1665470363,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 274346,
@@ -595,14 +651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 222440,
-      "num": 222440,
-      "word": "李承铉建议感情中多考虑再行动",
-      "onboard_time": 1665467904,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 217460,
       "num": 217460,
       "word": "底线今晚大结局",
@@ -659,14 +707,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 191956,
-      "num": 191956,
-      "word": "长辈们买东西太实在了",
-      "onboard_time": 1665470363,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 191125,
       "num": 191125,
       "word": "杨幂许凯新剧开播就结婚",
@@ -689,14 +729,6 @@
       "onboard_time": 1665438910,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 177699,
-      "num": 177699,
-      "word": "特朗普集会上播放拜登失态视频",
-      "onboard_time": 1665470964,
-      "rank": 23,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 173613,
@@ -811,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138871,
+      "num": 138871,
+      "word": "母牛被卖装车途中跪地不起",
+      "onboard_time": 1665473245,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137701,
       "num": 137701,
       "word": "北京新增本土确诊13例",
@@ -833,6 +873,14 @@
       "onboard_time": 1665407845,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 127959,
+      "num": 127959,
+      "word": "突然就喜欢遛狗了",
+      "onboard_time": 1665472223,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 126411,
@@ -931,6 +979,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 98915,
+      "num": 98915,
+      "word": "原来不止有月经还有季经",
+      "onboard_time": 1665473964,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 98366,
       "num": 98366,
       "word": "为万里归途的瓦迪尔流泪",
@@ -971,12 +1027,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 90241,
+      "num": 90241,
+      "word": "现代人最擅长的事就是哭穷",
+      "onboard_time": 1665473363,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 90218,
       "num": 90218,
       "word": "全职猎人恢复连载",
       "onboard_time": 1665454223,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 90000,
+      "num": 90000,
+      "word": "孟子义看恋综沉浸式生气",
+      "onboard_time": 1665472344,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 89822,
@@ -1001,6 +1073,14 @@
       "onboard_time": 1665410244,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84624,
+      "num": 84624,
+      "word": "研究称妈妈情绪影响宝宝说话能力",
+      "onboard_time": 1665473545,
+      "rank": 42,
+      "category": "科技"
     },
     {
       "raw_hot": 83659,
@@ -1043,12 +1123,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 66345,
-      "num": 66345,
-      "word": "雇主不愿外出保姆变装代做核酸",
-      "onboard_time": 1665471983,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 68582,
+      "num": 860946,
+      "word": "180秒看见最可爱的中国",
+      "onboard_time": 1665471804,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 65525,
@@ -1080,6 +1160,14 @@
       "word": "民警看邻座一心刷手机发现在洗钱",
       "onboard_time": 1665399325,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54762,
+      "num": 305370,
+      "word": "6名建筑工人火场救出一家五口",
+      "onboard_time": 1665471683,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1211,14 +1299,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 16115,
-      "num": 860946,
-      "word": "180秒看见最可爱的中国",
-      "onboard_time": 1665471804,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 15865,
       "num": 15865,
       "word": "九图速览19次党代会极简史",
@@ -1257,14 +1337,6 @@
       "onboard_time": 1665429611,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 9588,
-      "num": 282411,
-      "word": "6名建筑工人火场救出一家五口",
-      "onboard_time": 1665471683,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 6463,

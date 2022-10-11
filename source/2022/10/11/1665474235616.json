@@ -1,0 +1,410 @@
+{
+  "runTime": 1665474235616,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1697267,
+        "num": 1697267,
+        "word": "6岁女孩天生爆炸头称不想上学",
+        "onboard_time": 1665469284,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 860820,
+        "num": 860820,
+        "word": "我国仅30%产妇使用无痛分娩",
+        "onboard_time": 1665472402,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68582,
+        "num": 659463,
+        "word": "180秒看见最可爱的中国",
+        "onboard_time": 1665471804,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 458429,
+        "num": 458429,
+        "word": "男友考上清华女子扯横幅猪肉特价",
+        "onboard_time": 1665450925,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393688,
+        "num": 393688,
+        "word": "深圳首次发现BF.7变异株",
+        "onboard_time": 1665467362,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502053,
+        "num": 391701,
+        "word": "错撩",
+        "onboard_time": 1665473904,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 388685,
+        "num": 388685,
+        "word": "95后毕业生基层工作23天被怼到想哭",
+        "onboard_time": 1665464846,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1723214,
+        "num": 388546,
+        "word": "动态清零可持续而且必须坚持",
+        "onboard_time": 1665468082,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387663,
+        "num": 387663,
+        "word": "妈妈为女儿做公主裙365天不重样",
+        "onboard_time": 1665465922,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380409,
+        "num": 380409,
+        "word": "李承铉建议感情中多考虑再行动",
+        "onboard_time": 1665467904,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 486233,
+        "num": 368721,
+        "word": "尼坤再提我结度蜜月",
+        "onboard_time": 1665473184,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 912623,
+        "num": 360954,
+        "word": "九寨沟国庆遇冷7天迎客211人",
+        "onboard_time": 1665468924,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398487,
+        "num": 360056,
+        "word": "特朗普集会上播放拜登失态视频",
+        "onboard_time": 1665470964,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 306803,
+        "num": 306803,
+        "word": "妻子让丈夫煮筷子结果烧成碳",
+        "onboard_time": 1665461365,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54762,
+        "num": 305370,
+        "word": "6名建筑工人火场救出一家五口",
+        "onboard_time": 1665471683,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304724,
+        "num": 304724,
+        "word": "雇主不愿外出保姆变装代做核酸",
+        "onboard_time": 1665471983,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276074,
+        "num": 276074,
+        "word": "长辈们买东西太实在了",
+        "onboard_time": 1665470363,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 252333,
+        "num": 252333,
+        "word": "鸟鸟不愧是我的互联网嘴替",
+        "onboard_time": 1665463229,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222937,
+        "num": 222937,
+        "word": "梁朝伟劝各位理想型别定太早",
+        "onboard_time": 1665465506,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 220470,
+        "num": 220470,
+        "word": "乘坐郑州地铁需要24小时核酸证明",
+        "onboard_time": 1665468801,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245470,
+        "num": 215703,
+        "word": "姚晨新剧被女儿推下水",
+        "onboard_time": 1665466703,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194725,
+        "num": 194725,
+        "word": "8岁女童夜里机智吓退可疑敲门人",
+        "onboard_time": 1665458363,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189884,
+        "num": 189884,
+        "word": "RNG新公司名为软泥怪",
+        "onboard_time": 1665464486,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 187369,
+        "num": 187369,
+        "word": "长大才知道图图爸妈有多好",
+        "onboard_time": 1665465265,
+        "rank": 23,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 183365,
+        "num": 183365,
+        "word": "不舍得删除的聊天记录",
+        "onboard_time": 1665459625,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173844,
+        "num": 173844,
+        "word": "心动的信号",
+        "onboard_time": 1665466345,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172349,
+        "num": 172349,
+        "word": "公司面试表问能否接受无偿加班",
+        "onboard_time": 1665461664,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158614,
+        "num": 158614,
+        "word": "新加坡餐厅拟对吵闹儿童收费",
+        "onboard_time": 1665466882,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138871,
+        "num": 138871,
+        "word": "母牛被卖装车途中跪地不起",
+        "onboard_time": 1665473245,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127959,
+        "num": 127959,
+        "word": "突然就喜欢遛狗了",
+        "onboard_time": 1665472223,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126952,
+        "num": 126952,
+        "word": "iPhone14Plus遇冷Pro卖爆",
+        "onboard_time": 1665453083,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 119745,
+        "num": 119745,
+        "word": "狗狗因不被搭理而自我怀疑",
+        "onboard_time": 1665462206,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114025,
+        "num": 114025,
+        "word": "高校毛概女老师神仙颜值美出圈",
+        "onboard_time": 1665456803,
+        "rank": 32,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 113546,
+        "num": 113546,
+        "word": "张凌赫宁安如梦配音路透",
+        "onboard_time": 1665468143,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 103930,
+        "num": 103930,
+        "word": "已故父亲棉被藏8万弹棉花时发现",
+        "onboard_time": 1665449903,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98915,
+        "num": 98915,
+        "word": "原来不止有月经还有季经",
+        "onboard_time": 1665473964,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96381,
+        "num": 96381,
+        "word": "南宁动物园没有正经动物吗",
+        "onboard_time": 1665462926,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93603,
+        "num": 93603,
+        "word": "中国汽车出口量跃居全球第二",
+        "onboard_time": 1665464245,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 90241,
+        "num": 90241,
+        "word": "现代人最擅长的事就是哭穷",
+        "onboard_time": 1665473363,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90000,
+        "num": 90000,
+        "word": "孟子义看恋综沉浸式生气",
+        "onboard_time": 1665472344,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86875,
+        "num": 86875,
+        "word": "王鹤棣的片场花絮",
+        "onboard_time": 1665462807,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 86725,
+        "num": 86725,
+        "word": "统一充电接口或让苹果每年损失百亿",
+        "onboard_time": 1665456681,
+        "rank": 41,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 84624,
+        "num": 84624,
+        "word": "研究称妈妈情绪影响宝宝说话能力",
+        "onboard_time": 1665473545,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 82378,
+        "num": 82378,
+        "word": "gidle新专辑预售量突破70万张",
+        "onboard_time": 1665461186,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 76717,
+        "num": 76717,
+        "word": "孙颖莎继续世界第一",
+        "onboard_time": 1665460705,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76191,
+        "num": 76191,
+        "word": "这下看谁还敢不冲厕所",
+        "onboard_time": 1665451525,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 74334,
+        "num": 74334,
+        "word": "这礼物没在开玩笑吧",
+        "onboard_time": 1665470484,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 73059,
+        "num": 73059,
+        "word": "申彗星承认酒驾",
+        "onboard_time": 1665460465,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70116,
+        "num": 70116,
+        "word": "LPL小组赛首轮9胜3负",
+        "onboard_time": 1665453204,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 67366,
+        "num": 67366,
+        "word": "苹果将修复iPhone14Pro通知延迟",
+        "onboard_time": 1665453263,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#问答二十大#"
+    }
+  }
+}
