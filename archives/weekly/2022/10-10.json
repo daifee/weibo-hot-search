@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665475107363,
+  "endTime": 1665477359296,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -41,6 +41,14 @@
       "onboard_time": 1665468082,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2020027,
+      "num": 665498,
+      "word": "原来不止有月经还有季经",
+      "onboard_time": 1665473964,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 1965024,
@@ -131,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1350590,
+      "num": 1350590,
+      "word": "我国仅30%产妇使用无痛分娩",
+      "onboard_time": 1665472402,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1318290,
       "num": 1318290,
       "word": "PDD已起诉多人侵犯名誉权",
@@ -179,14 +195,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1121469,
-      "num": 1121469,
-      "word": "我国仅30%产妇使用无痛分娩",
-      "onboard_time": 1665472402,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1085972,
       "num": 1085972,
       "word": "RGE战胜TES",
@@ -227,6 +235,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 991827,
+      "num": 404935,
+      "word": "尼坤再提我结度蜜月",
+      "onboard_time": 1665473184,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 963062,
       "num": 963062,
       "word": "商场回应影院不让带蜜雪冰城",
@@ -236,7 +252,7 @@
     },
     {
       "raw_hot": 958326,
-      "num": 427322,
+      "num": 521206,
       "word": "错撩",
       "onboard_time": 1665473904,
       "rank": 5,
@@ -281,14 +297,6 @@
       "onboard_time": 1665382043,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 890508,
-      "num": 404935,
-      "word": "尼坤再提我结度蜜月",
-      "onboard_time": 1665473184,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 874091,
@@ -667,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 531071,
+      "num": 531071,
+      "word": "雇主不愿外出保姆变装代做核酸",
+      "onboard_time": 1665471983,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 524978,
       "num": 524978,
       "word": "未来三个月17.1%受访居民打算购房",
@@ -713,14 +729,6 @@
       "onboard_time": 1665399863,
       "rank": 33,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 509379,
-      "num": 509379,
-      "word": "原来不止有月经还有季经",
-      "onboard_time": 1665473964,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 503682,
@@ -795,6 +803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 473830,
+      "num": 473830,
+      "word": "特朗普集会上播放拜登失态视频",
+      "onboard_time": 1665470964,
+      "rank": 23,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 471113,
       "num": 471113,
       "word": "孙颖莎继续世界第一",
@@ -851,6 +867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 445714,
+      "num": 445714,
+      "word": "母牛被卖装车途中跪地不起",
+      "onboard_time": 1665473245,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 442288,
       "num": 442288,
       "word": "母亲穿西装送女儿出嫁被当成闺蜜",
@@ -865,14 +889,6 @@
       "onboard_time": 1665332122,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 433313,
-      "num": 433313,
-      "word": "特朗普集会上播放拜登失态视频",
-      "onboard_time": 1665470964,
-      "rank": 23,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 428519,
@@ -977,6 +993,14 @@
       "onboard_time": 1665451525,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 401415,
+      "num": 266262,
+      "word": "宋雨琦叶舒华泰国杂志画报",
+      "onboard_time": 1665475403,
+      "rank": 12,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 401310,
@@ -1105,14 +1129,6 @@
       "onboard_time": 1665324266,
       "rank": 6,
       "category": "体育,网红"
-    },
-    {
-      "raw_hot": 360139,
-      "num": 360139,
-      "word": "雇主不愿外出保姆变装代做核酸",
-      "onboard_time": 1665471983,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 360100,
@@ -1249,6 +1265,14 @@
       "onboard_time": 1665414866,
       "rank": 16,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 324891,
+      "num": 265406,
+      "word": "女生10元购洗衣液到货后发现蓝月壳",
+      "onboard_time": 1665475704,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 323957,
@@ -1425,6 +1449,14 @@
       "onboard_time": 1665458004,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 279413,
+      "num": 279413,
+      "word": "阴阳师",
+      "onboard_time": 1665476785,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 276074,
@@ -1619,6 +1651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243549,
+      "num": 243549,
+      "word": "扎波罗热地区发生多次爆炸",
+      "onboard_time": 1665474265,
+      "rank": 33,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 237618,
       "num": 237618,
       "word": "基辅要求民众进入庇护所",
@@ -1689,6 +1729,14 @@
       "onboard_time": 1665407964,
       "rank": 31,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 227533,
+      "num": 227533,
+      "word": "谁不是一边崩溃一边自愈",
+      "onboard_time": 1665474744,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226830,
@@ -1801,14 +1849,6 @@
       "onboard_time": 1665462987,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 210315,
-      "num": 210315,
-      "word": "母牛被卖装车途中跪地不起",
-      "onboard_time": 1665473245,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 209748,
@@ -2019,6 +2059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173123,
+      "num": 173123,
+      "word": "研究称妈妈情绪影响宝宝说话能力",
+      "onboard_time": 1665473545,
+      "rank": 42,
+      "category": "科技"
+    },
+    {
       "raw_hot": 171784,
       "num": 171784,
       "word": "电影无名有大鹏",
@@ -2107,6 +2155,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 160346,
+      "num": 160346,
+      "word": "张彬彬绅士手",
+      "onboard_time": 1665475463,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 159936,
       "num": 159936,
       "word": "电影无名最新阵容",
@@ -2121,6 +2177,14 @@
       "onboard_time": 1665368362,
       "rank": 28,
       "category": "体育,情感"
+    },
+    {
+      "raw_hot": 158796,
+      "num": 158796,
+      "word": "现代人最擅长的事就是哭穷",
+      "onboard_time": 1665473363,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 157525,
@@ -2307,6 +2371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137061,
+      "num": 137061,
+      "word": "突然就喜欢遛狗了",
+      "onboard_time": 1665472223,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136393,
       "num": 136393,
       "word": "许靖韵晒与杨丞琳合影",
@@ -2363,12 +2435,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 130533,
-      "num": 130533,
-      "word": "突然就喜欢遛狗了",
-      "onboard_time": 1665472223,
-      "rank": 29,
-      "category": "幽默"
+      "raw_hot": 129984,
+      "num": 129984,
+      "word": "孟子义看恋综沉浸式生气",
+      "onboard_time": 1665472344,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 128535,
@@ -2385,14 +2457,6 @@
       "onboard_time": 1665380362,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 127364,
-      "num": 127364,
-      "word": "扎波罗热地区发生多次爆炸",
-      "onboard_time": 1665474265,
-      "rank": 33,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 127322,
@@ -2587,14 +2651,6 @@
       "category": "影视,影视"
     },
     {
-      "raw_hot": 104072,
-      "num": 104072,
-      "word": "现代人最擅长的事就是哭穷",
-      "onboard_time": 1665473363,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 103980,
       "num": 103980,
       "word": "我们当兵的不会丢下你",
@@ -2635,6 +2691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101051,
+      "num": 101051,
+      "word": "人力局回应公司面试问能否无偿加班",
+      "onboard_time": 1665476665,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100821,
       "num": 100821,
       "word": "马龙赛后谈及未来打算",
@@ -2657,14 +2721,6 @@
       "onboard_time": 1665393744,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 98554,
-      "num": 98554,
-      "word": "研究称妈妈情绪影响宝宝说话能力",
-      "onboard_time": 1665473545,
-      "rank": 42,
-      "category": "科技"
     },
     {
       "raw_hot": 98366,
@@ -2707,12 +2763,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 93089,
+      "num": 93089,
+      "word": "送儿上北大的鸡蛋灌饼爸爸发文",
+      "onboard_time": 1665476005,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92725,
       "num": 92725,
       "word": "老虎小时候也爱舔爪爪",
       "onboard_time": 1665357258,
       "rank": 42,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 92633,
+      "num": 259357,
+      "word": "公交车经过天桥急当救生垫",
+      "onboard_time": 1665475225,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 91236,
@@ -2763,20 +2835,20 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 90000,
-      "num": 90000,
-      "word": "孟子义看恋综沉浸式生气",
-      "onboard_time": 1665472344,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 89822,
       "num": 89822,
       "word": "RNG战胜100",
       "onboard_time": 1665449245,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 89302,
+      "num": 89302,
+      "word": "底线全员闭庭",
+      "onboard_time": 1665477144,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 88995,
@@ -2811,14 +2883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 85229,
-      "num": 85229,
-      "word": "谁不是一边崩溃一边自愈",
-      "onboard_time": 1665474744,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 84868,
       "num": 84868,
       "word": "中国研发新战机脚步从未停歇",
@@ -2832,6 +2896,14 @@
       "word": "00后男生复刻明代皇后六龙三凤冠",
       "onboard_time": 1665392484,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84211,
+      "num": 84211,
+      "word": "粉红晚霞下的雷峰塔",
+      "onboard_time": 1665476785,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -2849,6 +2921,14 @@
       "onboard_time": 1665420916,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 82993,
+      "num": 82993,
+      "word": "被唐诡弹幕笑死",
+      "onboard_time": 1665476184,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 82563,
@@ -2883,6 +2963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82196,
+      "num": 82196,
+      "word": "九图带你了解党的中央组织",
+      "onboard_time": 1665477084,
+      "rank": 47,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 78741,
       "num": 78741,
       "word": "熊孩子不上学躲自家衣柜玩手机",
@@ -2907,20 +2995,20 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 75247,
+      "num": 860946,
+      "word": "180秒看见最可爱的中国",
+      "onboard_time": 1665471804,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 72940,
       "num": 72940,
       "word": "主人地铁落座给找座的导盲犬铺垫子",
       "onboard_time": 1665434469,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 71518,
-      "num": 860946,
-      "word": "180秒看见最可爱的中国",
-      "onboard_time": 1665471804,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 70535,
