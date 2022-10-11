@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/10 00:35:08 ~ 2022/10/12 01:34:10
+本榜单时间：2022/10/10 00:35:08 ~ 2022/10/12 01:52:25
 </p>
 </blockquote>
 <p>
@@ -1809,6 +1809,12 @@ StrayKids独家电台打卡记（热度：229177）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%B2%E6%B1%9F%E9%80%9A%E6%8A%A5%E5%B0%8F%E5%AD%A6%E5%AD%A6%E7%94%9F%E5%9D%A0%E4%BA%A1%E4%BA%8B%E4%BB%B6%23" target="weibo">
+曲江通报小学学生坠亡事件（热度：205237）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%9911%E6%AF%941%23" target="weibo">
 马龙11比1（热度：204622）
 </a>
@@ -2583,12 +2589,6 @@ CBA新赛季揭幕战（热度：108086）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9B%B2%E6%B1%9F%E9%80%9A%E6%8A%A5%E5%B0%8F%E5%AD%A6%E5%AD%A6%E7%94%9F%E5%9D%A0%E4%BA%A1%E4%BA%8B%E4%BB%B6%23" target="weibo">
-曲江通报小学学生坠亡事件（热度：97633）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E8%91%A1%E8%90%84%E5%B9%B2%E8%BF%98%E5%88%86%E7%88%B7%E7%88%B7%E5%92%8C%E5%AD%99%E5%AD%90%23" target="weibo">
 新疆葡萄干还分爷爷和孙子（热度：97326）
 </a>
@@ -2805,6 +2805,12 @@ VogueWorld上海（热度：76016）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E8%AE%A9%E4%BD%A0%E4%BB%AC%E8%BF%99%E4%B9%88%E6%95%99%E4%B8%AD%E6%96%87%E7%9A%84%23" target="weibo">
+谁让你们这么教中文的（热度：69947）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9C%B0%E7%90%86%E8%80%81%E5%B8%88%E9%83%BD%E6%B0%94%E7%AC%91%E4%BA%86%23" target="weibo">
 地理老师都气笑了（热度：69409）
 </a>
@@ -2813,12 +2819,6 @@ VogueWorld上海（热度：76016）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone15%E7%B3%BB%E5%88%97%E4%BB%8D%E5%B0%86%E9%87%87%E7%94%A8%E9%AB%98%E9%80%9A%E5%9F%BA%E5%B8%A6%23" target="weibo">
 iPhone15系列仍将采用高通基带（热度：68684）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E8%AE%A9%E4%BD%A0%E4%BB%AC%E8%BF%99%E4%B9%88%E6%95%99%E4%B8%AD%E6%96%87%E7%9A%84%23" target="weibo">
-谁让你们这么教中文的（热度：67233）
 </a>
 </li>
 
