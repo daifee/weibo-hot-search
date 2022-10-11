@@ -1,0 +1,410 @@
+{
+  "runTime": 1665457752458,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1767163,
+        "num": 1767163,
+        "word": "男友考上清华女子扯横幅猪肉特价",
+        "onboard_time": 1665450925,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 866782,
+        "num": 866782,
+        "word": "已故父亲棉被藏8万弹棉花时发现",
+        "onboard_time": 1665449903,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11497,
+        "num": 704581,
+        "word": "红星何以照耀中国",
+        "onboard_time": 1665387865,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 618927,
+        "num": 618927,
+        "word": "iPhone14Plus遇冷Pro卖爆",
+        "onboard_time": 1665453083,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 583332,
+        "num": 583332,
+        "word": "神话申彗星被警方逮捕",
+        "onboard_time": 1665452064,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 549318,
+        "num": 549318,
+        "word": "乌方称空袭已致14死97伤",
+        "onboard_time": 1665452964,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 501590,
+        "num": 501590,
+        "word": "中国女篮排名升至世界第二",
+        "onboard_time": 1665452424,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 491548,
+        "num": 491548,
+        "word": "有点担心情侣们的精神状态",
+        "onboard_time": 1665446306,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 454232,
+        "num": 454232,
+        "word": "LPL小组赛首轮9胜3负",
+        "onboard_time": 1665453204,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 401649,
+        "num": 401649,
+        "word": "这下看谁还敢不冲厕所",
+        "onboard_time": 1665451525,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 366253,
+        "num": 366253,
+        "word": "郑恺夸大考牛",
+        "onboard_time": 1665451226,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 359266,
+        "num": 359266,
+        "word": "男子喝醉酒后全程推车回家",
+        "onboard_time": 1665454883,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348838,
+        "num": 348838,
+        "word": "我国人口年均增长593.1万人",
+        "onboard_time": 1665453924,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325412,
+        "num": 325412,
+        "word": "赵丽颖龚俊voguefilm合照",
+        "onboard_time": 1665452302,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 293895,
+        "num": 293895,
+        "word": "10月10日新增本土无症状1662例",
+        "onboard_time": 1665452663,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288917,
+        "num": 288917,
+        "word": "10斤的小猫9斤的反骨",
+        "onboard_time": 1665418401,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 282319,
+        "num": 282319,
+        "word": "苹果将修复iPhone14Pro通知延迟",
+        "onboard_time": 1665453263,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 252564,
+        "num": 252564,
+        "word": "A股估值已被低估",
+        "onboard_time": 1665452003,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 250704,
+        "num": 250704,
+        "word": "曝追梦格林有意加盟湖人",
+        "onboard_time": 1665455244,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245243,
+        "num": 245243,
+        "word": "西安疫情防控",
+        "onboard_time": 1665446065,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232414,
+        "num": 232414,
+        "word": "阳澄湖蟹农吃不出阳澄湖蟹",
+        "onboard_time": 1665445100,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 219387,
+        "num": 219387,
+        "word": "第一次看到防窥的烟花",
+        "onboard_time": 1665445523,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197789,
+        "num": 197789,
+        "word": "统一充电接口或让苹果每年损失百亿",
+        "onboard_time": 1665456681,
+        "rank": 22,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 195808,
+        "num": 195808,
+        "word": "男子生气开车突然手指僵硬呼吸困难",
+        "onboard_time": 1665447146,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186428,
+        "num": 186428,
+        "word": "医生建议成人每天睡够7小时",
+        "onboard_time": 1665388344,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162888,
+        "num": 162888,
+        "word": "女孩感冒家长2天喂7种药致其肝损害",
+        "onboard_time": 1665435252,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158113,
+        "num": 158113,
+        "word": "金钟大将10月31日回归",
+        "onboard_time": 1665449308,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149710,
+        "num": 149710,
+        "word": "女子天生4个肾竟全部长结石",
+        "onboard_time": 1665410125,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147923,
+        "num": 147923,
+        "word": "高校毛概女老师神仙颜值美出圈",
+        "onboard_time": 1665456803,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 143032,
+        "num": 143032,
+        "word": "普京称若乌继续袭击俄领土将强硬回击",
+        "onboard_time": 1665417383,
+        "rank": 29,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 133372,
+        "num": 133372,
+        "word": "歼20飞行员训练有多辛苦",
+        "onboard_time": 1665456083,
+        "rank": 30,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 130601,
+        "num": 130601,
+        "word": "妈妈带孩子被反锁屋内外婆徒手撕门",
+        "onboard_time": 1665443899,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129182,
+        "num": 129182,
+        "word": "TES小组赛两连败",
+        "onboard_time": 1665447385,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123319,
+        "num": 123319,
+        "word": "因代做核酸上海80余人被行政处罚",
+        "onboard_time": 1665429371,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118119,
+        "num": 118119,
+        "word": "一张表自测嗜睡程度",
+        "onboard_time": 1665425053,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113352,
+        "num": 113352,
+        "word": "4岁女孩隔50米认出3年未见父母",
+        "onboard_time": 1665422894,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112034,
+        "num": 112034,
+        "word": "杨幂许凯新剧开播就结婚",
+        "onboard_time": 1665416725,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 107697,
+        "num": 107697,
+        "word": "武大靖说这4年是爬过来的",
+        "onboard_time": 1665448047,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104509,
+        "num": 104509,
+        "word": "2女生因气温骤降披棉被出门",
+        "onboard_time": 1665437590,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103626,
+        "num": 103626,
+        "word": "河南老人摆摊卖饭7元管饱",
+        "onboard_time": 1665454582,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101540,
+        "num": 101540,
+        "word": "以前电视上的总裁有多野",
+        "onboard_time": 1665457223,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 98921,
+        "num": 98921,
+        "word": "RGE战胜TES",
+        "onboard_time": 1665444741,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 96245,
+        "num": 96245,
+        "word": "GALA卡莎",
+        "onboard_time": 1665450086,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 96095,
+        "num": 96095,
+        "word": "iPhone14出现首次大幅降价",
+        "onboard_time": 1665398006,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 94261,
+        "num": 94261,
+        "word": "影帝走红毯是都这么忙吗",
+        "onboard_time": 1665414866,
+        "rank": 44,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 90316,
+        "num": 90316,
+        "word": "女子针灸回家才发现头上插根针",
+        "onboard_time": 1665416544,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90227,
+        "num": 90227,
+        "word": "演唱会灯海名场面",
+        "onboard_time": 1665412103,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 84158,
+        "num": 84158,
+        "word": "北京新增本土确诊13例",
+        "onboard_time": 1665447864,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82414,
+        "num": 82414,
+        "word": "DRX战胜GAM",
+        "onboard_time": 1665457461,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 63817,
+        "num": 63817,
+        "word": "海克斯科技是揭内幕还是贩卖焦虑",
+        "onboard_time": 1665416725,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#十九届七中全会#"
+    }
+  }
+}

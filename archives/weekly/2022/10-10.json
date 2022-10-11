@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665455092483,
+  "endTime": 1665457752458,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -51,6 +51,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1767163,
+      "num": 1767163,
+      "word": "男友考上清华女子扯横幅猪肉特价",
+      "onboard_time": 1665450925,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1732430,
       "num": 1732430,
       "word": "全网最欠的小羊",
@@ -81,14 +89,6 @@
       "onboard_time": 1665369082,
       "rank": 0,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1549140,
-      "num": 1549140,
-      "word": "男友考上清华女子扯横幅猪肉特价",
-      "onboard_time": 1665450925,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1513811,
@@ -403,6 +403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 618927,
+      "num": 618927,
+      "word": "iPhone14Plus遇冷Pro卖爆",
+      "onboard_time": 1665453083,
+      "rank": 6,
+      "category": "科技"
+    },
+    {
       "raw_hot": 614250,
       "num": 614250,
       "word": "女子拿行李误被朋友开车压骨折",
@@ -425,6 +433,14 @@
       "onboard_time": 1665360984,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 583332,
+      "num": 583332,
+      "word": "神话申彗星被警方逮捕",
+      "onboard_time": 1665452064,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 581427,
@@ -475,6 +491,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 549318,
+      "num": 549318,
+      "word": "乌方称空袭已致14死97伤",
+      "onboard_time": 1665452964,
+      "rank": 11,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 547421,
       "num": 547421,
       "word": "亲妈级红烧肉",
@@ -513,14 +537,6 @@
       "onboard_time": 1665334697,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 528580,
-      "num": 528580,
-      "word": "神话申彗星被警方逮捕",
-      "onboard_time": 1665452064,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 524978,
@@ -579,6 +595,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 501590,
+      "num": 501590,
+      "word": "中国女篮排名升至世界第二",
+      "onboard_time": 1665452424,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 497664,
       "num": 497664,
       "word": "有点担心情侣们的精神状态",
@@ -627,12 +651,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 465867,
-      "num": 465867,
-      "word": "iPhone14Plus遇冷Pro卖爆",
-      "onboard_time": 1665453083,
-      "rank": 6,
-      "category": "科技"
+      "raw_hot": 454232,
+      "num": 454232,
+      "word": "LPL小组赛首轮9胜3负",
+      "onboard_time": 1665453204,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 452972,
@@ -673,14 +697,6 @@
       "onboard_time": 1665449308,
       "rank": 10,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 426404,
-      "num": 426404,
-      "word": "中国女篮排名升至世界第二",
-      "onboard_time": 1665452424,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 421749,
@@ -739,6 +755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 401649,
+      "num": 401649,
+      "word": "这下看谁还敢不冲厕所",
+      "onboard_time": 1665451525,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 401310,
       "num": 401310,
       "word": "韩漫双开门冰箱走向现实",
@@ -769,14 +793,6 @@
       "onboard_time": 1665389666,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 390548,
-      "num": 390548,
-      "word": "乌方称空袭已致14死97伤",
-      "onboard_time": 1665452964,
-      "rank": 11,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 390028,
@@ -867,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 359266,
+      "num": 359266,
+      "word": "男子喝醉酒后全程推车回家",
+      "onboard_time": 1665454883,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 359032,
       "num": 359032,
       "word": "王鹤棣暖心捡宋丹丹靠垫细节",
@@ -905,6 +929,14 @@
       "onboard_time": 1665360925,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 348838,
+      "num": 348838,
+      "word": "我国人口年均增长593.1万人",
+      "onboard_time": 1665453924,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 347378,
@@ -1019,14 +1051,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 308803,
-      "num": 308803,
-      "word": "这下看谁还敢不冲厕所",
-      "onboard_time": 1665451525,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 303630,
       "num": 303630,
       "word": "马龙发博庆祝夺冠",
@@ -1113,14 +1137,6 @@
       "onboard_time": 1665410244,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 284642,
-      "num": 284642,
-      "word": "LPL小组赛首轮9胜3负",
-      "onboard_time": 1665453204,
-      "rank": 21,
-      "category": "游戏"
     },
     {
       "raw_hot": 283314,
@@ -1280,6 +1296,14 @@
       "word": "2022乒乓球亚洲杯",
       "onboard_time": 1665404304,
       "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 250704,
+      "num": 250704,
+      "word": "曝追梦格林有意加盟湖人",
+      "onboard_time": 1665455244,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -1473,6 +1497,14 @@
       "onboard_time": 1665366263,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197789,
+      "num": 197789,
+      "word": "统一充电接口或让苹果每年损失百亿",
+      "onboard_time": 1665456681,
+      "rank": 22,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 196391,
@@ -1699,14 +1731,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 160928,
-      "num": 160928,
-      "word": "我国人口年均增长593.1万人",
-      "onboard_time": 1665453924,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159936,
       "num": 159936,
       "word": "电影无名最新阵容",
@@ -1801,6 +1825,14 @@
       "onboard_time": 1665402503,
       "rank": 29,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 147923,
+      "num": 147923,
+      "word": "高校毛概女老师神仙颜值美出圈",
+      "onboard_time": 1665456803,
+      "rank": 28,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 147605,
@@ -1929,6 +1961,14 @@
       "onboard_time": 1665327688,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 133372,
+      "num": 133372,
+      "word": "歼20飞行员训练有多辛苦",
+      "onboard_time": 1665456083,
+      "rank": 30,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 133366,
@@ -2155,6 +2195,14 @@
       "category": "军事,社会正能量"
     },
     {
+      "raw_hot": 103626,
+      "num": 359136,
+      "word": "河南老人摆摊卖饭7元管饱",
+      "onboard_time": 1665454582,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102855,
       "num": 102855,
       "word": "金秋柿子壁纸",
@@ -2169,6 +2217,14 @@
       "onboard_time": 1665327386,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101540,
+      "num": 101540,
+      "word": "以前电视上的总裁有多野",
+      "onboard_time": 1665457223,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 101519,
@@ -2248,14 +2304,6 @@
       "word": "杭州两商场未落实扫码核验六人被行政拘留",
       "onboard_time": 1665343811,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 90714,
-      "num": 90714,
-      "word": "男子喝醉酒后全程推车回家",
-      "onboard_time": 1665454883,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -2369,6 +2417,14 @@
       "onboard_time": 1665405624,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 82414,
+      "num": 82414,
+      "word": "DRX战胜GAM",
+      "onboard_time": 1665457461,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 82384,
@@ -2497,14 +2553,6 @@
       "onboard_time": 1665324206,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 57539,
-      "num": 359136,
-      "word": "河南老人摆摊卖饭7元管饱",
-      "onboard_time": 1665454582,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 57165,
