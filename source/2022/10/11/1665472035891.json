@@ -1,0 +1,410 @@
+{
+  "runTime": 1665472035891,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2252488,
+        "num": 2252488,
+        "word": "动态清零可持续而且必须坚持",
+        "onboard_time": 1665468082,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 960802,
+        "num": 960802,
+        "word": "6岁女孩天生爆炸头称不想上学",
+        "onboard_time": 1665469284,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16115,
+        "num": 860946,
+        "word": "180秒看见最可爱的中国",
+        "onboard_time": 1665471804,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 809256,
+        "num": 809256,
+        "word": "九寨沟国庆遇冷7天迎客211人",
+        "onboard_time": 1665468924,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541594,
+        "num": 541594,
+        "word": "深圳首次发现BF.7变异株",
+        "onboard_time": 1665467362,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537390,
+        "num": 537390,
+        "word": "妻子让丈夫煮筷子结果烧成碳",
+        "onboard_time": 1665461365,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514277,
+        "num": 514277,
+        "word": "男友考上清华女子扯横幅猪肉特价",
+        "onboard_time": 1665450925,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498952,
+        "num": 498952,
+        "word": "95后毕业生基层工作23天被怼到想哭",
+        "onboard_time": 1665464846,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432188,
+        "num": 432188,
+        "word": "姚晨新剧被女儿推下水",
+        "onboard_time": 1665466703,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 392465,
+        "num": 392465,
+        "word": "鸟鸟不愧是我的互联网嘴替",
+        "onboard_time": 1665463229,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 421591,
+        "num": 375441,
+        "word": "梁朝伟劝各位理想型别定太早",
+        "onboard_time": 1665465506,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 325204,
+        "num": 325204,
+        "word": "心动的信号",
+        "onboard_time": 1665466345,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298671,
+        "num": 298671,
+        "word": "公司面试表问能否接受无偿加班",
+        "onboard_time": 1665461664,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288118,
+        "num": 288118,
+        "word": "妈妈为女儿做公主裙365天不重样",
+        "onboard_time": 1665465922,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9588,
+        "num": 282411,
+        "word": "6名建筑工人火场救出一家五口",
+        "onboard_time": 1665471683,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276850,
+        "num": 276850,
+        "word": "长大才知道图图爸妈有多好",
+        "onboard_time": 1665465265,
+        "rank": 15,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 266849,
+        "num": 266849,
+        "word": "乘坐郑州地铁需要24小时核酸证明",
+        "onboard_time": 1665468801,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262899,
+        "num": 262899,
+        "word": "新加坡餐厅拟对吵闹儿童收费",
+        "onboard_time": 1665466882,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259981,
+        "num": 259981,
+        "word": "RNG新公司名为软泥怪",
+        "onboard_time": 1665464486,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 222440,
+        "num": 222440,
+        "word": "李承铉建议感情中多考虑再行动",
+        "onboard_time": 1665467904,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220478,
+        "num": 220478,
+        "word": "不舍得删除的聊天记录",
+        "onboard_time": 1665459625,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215227,
+        "num": 215227,
+        "word": "8岁女童夜里机智吓退可疑敲门人",
+        "onboard_time": 1665458363,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191956,
+        "num": 191956,
+        "word": "长辈们买东西太实在了",
+        "onboard_time": 1665470363,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177699,
+        "num": 177699,
+        "word": "特朗普集会上播放拜登失态视频",
+        "onboard_time": 1665470964,
+        "rank": 23,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 165556,
+        "num": 165556,
+        "word": "张凌赫宁安如梦配音路透",
+        "onboard_time": 1665468143,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158345,
+        "num": 158345,
+        "word": "iPhone14Plus遇冷Pro卖爆",
+        "onboard_time": 1665453083,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 154480,
+        "num": 154480,
+        "word": "狗狗因不被搭理而自我怀疑",
+        "onboard_time": 1665462206,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 7850,
+        "num": 152417,
+        "word": "红星何以照耀中国",
+        "onboard_time": 1665387865,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151039,
+        "num": 151039,
+        "word": "高校毛概女老师神仙颜值美出圈",
+        "onboard_time": 1665456803,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 135667,
+        "num": 135667,
+        "word": "中国汽车出口量跃居全球第二",
+        "onboard_time": 1665464245,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 125694,
+        "num": 125694,
+        "word": "已故父亲棉被藏8万弹棉花时发现",
+        "onboard_time": 1665449903,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120108,
+        "num": 120108,
+        "word": "南宁动物园没有正经动物吗",
+        "onboard_time": 1665462926,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116617,
+        "num": 116617,
+        "word": "王鹤棣的片场花絮",
+        "onboard_time": 1665462807,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115396,
+        "num": 115396,
+        "word": "统一充电接口或让苹果每年损失百亿",
+        "onboard_time": 1665456681,
+        "rank": 33,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 106288,
+        "num": 106288,
+        "word": "这下看谁还敢不冲厕所",
+        "onboard_time": 1665451525,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105764,
+        "num": 105764,
+        "word": "申彗星承认酒驾",
+        "onboard_time": 1665460465,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99726,
+        "num": 99726,
+        "word": "gidle新专辑预售量突破70万张",
+        "onboard_time": 1665461186,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 98669,
+        "num": 98669,
+        "word": "金晨演的罗娜是百米心墙选手",
+        "onboard_time": 1665466524,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 97160,
+        "num": 97160,
+        "word": "杨幂秦施耳环",
+        "onboard_time": 1665458004,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 91236,
+        "num": 91236,
+        "word": "这礼物没在开玩笑吧",
+        "onboard_time": 1665470484,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81202,
+        "num": 81202,
+        "word": "LPL小组赛首轮9胜3负",
+        "onboard_time": 1665453204,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 80491,
+        "num": 80491,
+        "word": "孙颖莎继续世界第一",
+        "onboard_time": 1665460705,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79380,
+        "num": 79380,
+        "word": "苹果将修复iPhone14Pro通知延迟",
+        "onboard_time": 1665453263,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 77736,
+        "num": 77736,
+        "word": "男子喝醉酒后全程推车回家",
+        "onboard_time": 1665454883,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74859,
+        "num": 74859,
+        "word": "阳澄湖蟹农吃不出阳澄湖蟹",
+        "onboard_time": 1665445100,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 74051,
+        "num": 74051,
+        "word": "乌方称空袭已致14死97伤",
+        "onboard_time": 1665452964,
+        "rank": 45,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 73967,
+        "num": 73967,
+        "word": "阿根廷驻华大使说梅西是最好大使",
+        "onboard_time": 1665459684,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71024,
+        "num": 71024,
+        "word": "成毅说星城法院今晚正式闭庭",
+        "onboard_time": 1665467362,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 66345,
+        "num": 66345,
+        "word": "雇主不愿外出保姆变装代做核酸",
+        "onboard_time": 1665471983,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39933,
+        "num": 65864,
+        "word": "被子起火邻居教科书式救援",
+        "onboard_time": 1665469824,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#十年的十个为什么#"
+    }
+  }
+}
