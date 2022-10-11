@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665506336170,
+  "endTime": 1665507890707,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -9411,6 +9411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 248472,
+      "num": 248472,
+      "word": "孟川说什么是劳动仲裁啊",
+      "onboard_time": 1665504382,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248258,
       "num": 248258,
       "word": "当你的妈妈是个搞笑女",
@@ -9449,14 +9457,6 @@
       "onboard_time": 1664791581,
       "rank": 27,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 246484,
-      "num": 246484,
-      "word": "孟川说什么是劳动仲裁啊",
-      "onboard_time": 1665504382,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 246413,
@@ -10369,6 +10369,14 @@
       "onboard_time": 1665489563,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 221260,
+      "num": 117206,
+      "word": "女子用狗狗拉粑粑照给狗办证",
+      "onboard_time": 1665505224,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220770,
@@ -12987,6 +12995,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 157162,
+      "num": 157162,
+      "word": "女排 拦网",
+      "onboard_time": 1665507677,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157122,
       "num": 157122,
       "word": "国庆文案",
@@ -14755,6 +14771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122948,
+      "num": 122948,
+      "word": "中国女排0比1落后意大利",
+      "onboard_time": 1665503844,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122716,
       "num": 122716,
       "word": "2022最后90天",
@@ -14955,14 +14979,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 119130,
-      "num": 119130,
-      "word": "中国女排0比1落后意大利",
-      "onboard_time": 1665503844,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 119047,
       "num": 119047,
       "word": "张彬彬说庄羽只是犯了恋爱瘾",
@@ -15065,14 +15081,6 @@
       "onboard_time": 1665278423,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 117206,
-      "num": 117206,
-      "word": "女子用狗狗拉粑粑照给狗办证",
-      "onboard_time": 1665505224,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116841,
@@ -17435,6 +17443,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 69409,
+      "num": 69409,
+      "word": "地理老师都气笑了",
+      "onboard_time": 1665505700,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 69372,
       "num": 69372,
       "word": "寒潮速冻南方多地",
@@ -18265,14 +18281,6 @@
       "onboard_time": 1664840177,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 48739,
-      "num": 48739,
-      "word": "地理老师都气笑了",
-      "onboard_time": 1665505700,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 48572,
