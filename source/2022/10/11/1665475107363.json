@@ -1,0 +1,410 @@
+{
+  "runTime": 1665475107363,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1464635,
+        "num": 1464635,
+        "word": "6岁女孩天生爆炸头称不想上学",
+        "onboard_time": 1665469284,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1121469,
+        "num": 1121469,
+        "word": "我国仅30%产妇使用无痛分娩",
+        "onboard_time": 1665472402,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71518,
+        "num": 762082,
+        "word": "180秒看见最可爱的中国",
+        "onboard_time": 1665471804,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 509379,
+        "num": 509379,
+        "word": "原来不止有月经还有季经",
+        "onboard_time": 1665473964,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 433313,
+        "num": 433313,
+        "word": "特朗普集会上播放拜登失态视频",
+        "onboard_time": 1665470964,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1283741,
+        "num": 432268,
+        "word": "动态清零可持续而且必须坚持",
+        "onboard_time": 1665468082,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 958326,
+        "num": 427322,
+        "word": "错撩",
+        "onboard_time": 1665473904,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 421837,
+        "num": 421837,
+        "word": "李承铉建议感情中多考虑再行动",
+        "onboard_time": 1665467904,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 414505,
+        "num": 414505,
+        "word": "妈妈为女儿做公主裙365天不重样",
+        "onboard_time": 1665465922,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412010,
+        "num": 412010,
+        "word": "男友考上清华女子扯横幅猪肉特价",
+        "onboard_time": 1665450925,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 890508,
+        "num": 404935,
+        "word": "尼坤再提我结度蜜月",
+        "onboard_time": 1665473184,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 360139,
+        "num": 360139,
+        "word": "雇主不愿外出保姆变装代做核酸",
+        "onboard_time": 1665471983,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332143,
+        "num": 332143,
+        "word": "95后毕业生基层工作23天被怼到想哭",
+        "onboard_time": 1665464846,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262198,
+        "num": 262198,
+        "word": "长辈们买东西太实在了",
+        "onboard_time": 1665470363,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66773,
+        "num": 243764,
+        "word": "6名建筑工人火场救出一家五口",
+        "onboard_time": 1665471683,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313229,
+        "num": 239912,
+        "word": "深圳首次发现BF.7变异株",
+        "onboard_time": 1665467362,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235511,
+        "num": 235511,
+        "word": "妻子让丈夫煮筷子结果烧成碳",
+        "onboard_time": 1665461365,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232197,
+        "num": 232197,
+        "word": "杨幂许凯爱的二八定律OST歌单",
+        "onboard_time": 1665474625,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210315,
+        "num": 210315,
+        "word": "母牛被卖装车途中跪地不起",
+        "onboard_time": 1665473245,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196734,
+        "num": 196734,
+        "word": "鸟鸟不愧是我的互联网嘴替",
+        "onboard_time": 1665463229,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 708660,
+        "num": 193947,
+        "word": "九寨沟国庆遇冷7天迎客211人",
+        "onboard_time": 1665468924,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184814,
+        "num": 184814,
+        "word": "梁朝伟劝各位理想型别定太早",
+        "onboard_time": 1665465506,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174704,
+        "num": 174704,
+        "word": "8岁女童夜里机智吓退可疑敲门人",
+        "onboard_time": 1665458363,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174692,
+        "num": 174692,
+        "word": "RNG新公司名为软泥怪",
+        "onboard_time": 1665464486,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 165510,
+        "num": 165510,
+        "word": "不舍得删除的聊天记录",
+        "onboard_time": 1665459625,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161847,
+        "num": 161847,
+        "word": "姚晨新剧被女儿推下水",
+        "onboard_time": 1665466703,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159480,
+        "num": 159480,
+        "word": "长大才知道图图爸妈有多好",
+        "onboard_time": 1665465265,
+        "rank": 26,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 154360,
+        "num": 154360,
+        "word": "乘坐郑州地铁需要24小时核酸证明",
+        "onboard_time": 1665468801,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147484,
+        "num": 147484,
+        "word": "心动的信号",
+        "onboard_time": 1665466345,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144650,
+        "num": 144650,
+        "word": "iPhone14Plus遇冷Pro卖爆",
+        "onboard_time": 1665453083,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 138354,
+        "num": 138354,
+        "word": "公司面试表问能否接受无偿加班",
+        "onboard_time": 1665461664,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130533,
+        "num": 130533,
+        "word": "突然就喜欢遛狗了",
+        "onboard_time": 1665472223,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128504,
+        "num": 128504,
+        "word": "新加坡餐厅拟对吵闹儿童收费",
+        "onboard_time": 1665466882,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127364,
+        "num": 127364,
+        "word": "扎波罗热地区发生多次爆炸",
+        "onboard_time": 1665474265,
+        "rank": 33,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 107024,
+        "num": 107024,
+        "word": "狗狗因不被搭理而自我怀疑",
+        "onboard_time": 1665462206,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104072,
+        "num": 104072,
+        "word": "现代人最擅长的事就是哭穷",
+        "onboard_time": 1665473363,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102291,
+        "num": 102291,
+        "word": "高校毛概女老师神仙颜值美出圈",
+        "onboard_time": 1665456803,
+        "rank": 36,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 98554,
+        "num": 98554,
+        "word": "研究称妈妈情绪影响宝宝说话能力",
+        "onboard_time": 1665473545,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 91026,
+        "num": 91026,
+        "word": "张凌赫宁安如梦配音路透",
+        "onboard_time": 1665468143,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 89299,
+        "num": 89299,
+        "word": "已故父亲棉被藏8万弹棉花时发现",
+        "onboard_time": 1665449903,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85286,
+        "num": 85286,
+        "word": "南宁动物园没有正经动物吗",
+        "onboard_time": 1665462926,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85229,
+        "num": 85229,
+        "word": "谁不是一边崩溃一边自愈",
+        "onboard_time": 1665474744,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84980,
+        "num": 84980,
+        "word": "中国汽车出口量跃居全球第二",
+        "onboard_time": 1665464245,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 83138,
+        "num": 83138,
+        "word": "孙颖莎继续世界第一",
+        "onboard_time": 1665460705,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82485,
+        "num": 82485,
+        "word": "王鹤棣的片场花絮",
+        "onboard_time": 1665462807,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 76968,
+        "num": 76968,
+        "word": "这礼物没在开玩笑吧",
+        "onboard_time": 1665470484,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75355,
+        "num": 75355,
+        "word": "统一充电接口或让苹果每年损失百亿",
+        "onboard_time": 1665456681,
+        "rank": 46,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 74582,
+        "num": 74582,
+        "word": "孟子义看恋综沉浸式生气",
+        "onboard_time": 1665472344,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64720,
+        "num": 64720,
+        "word": "gidle新专辑预售量突破70万张",
+        "onboard_time": 1665461186,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 64502,
+        "num": 64502,
+        "word": "申彗星承认酒驾",
+        "onboard_time": 1665460465,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#党的二十大新闻发布会#"
+    }
+  }
+}
