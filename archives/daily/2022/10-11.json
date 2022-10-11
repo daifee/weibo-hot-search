@@ -1,6 +1,6 @@
 {
   "startTime": 1665419943424,
-  "endTime": 1665485274454,
+  "endTime": 1665487368316,
   "band_list": [
     {
       "raw_hot": 2305711,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1116600,
+      "num": 1116600,
+      "word": "你肯定见过这个床单",
+      "onboard_time": 1665483924,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1085972,
       "num": 1085972,
       "word": "RGE战胜TES",
@@ -89,6 +97,14 @@
       "onboard_time": 1665473184,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 970995,
+      "num": 970995,
+      "word": "切尔诺贝利黑蛙证明进化在行动",
+      "onboard_time": 1665482245,
+      "rank": 11,
+      "category": "科技"
     },
     {
       "raw_hot": 958326,
@@ -232,14 +248,6 @@
       "word": "iPhone14Plus遇冷Pro卖爆",
       "onboard_time": 1665453083,
       "rank": 6,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 583762,
-      "num": 340757,
-      "word": "切尔诺贝利黑蛙证明进化在行动",
-      "onboard_time": 1665482245,
-      "rank": 11,
       "category": "科技"
     },
     {
@@ -427,8 +435,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 435573,
-      "num": 435573,
+      "raw_hot": 443953,
+      "num": 443953,
       "word": "爱的二八定律定档1013",
       "onboard_time": 1665484226,
       "rank": 5,
@@ -611,6 +619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 323255,
+      "num": 323255,
+      "word": "让狗愧疚一辈子",
+      "onboard_time": 1665484765,
+      "rank": 43,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 318361,
       "num": 318361,
       "word": "合肥疫情防控",
@@ -657,14 +673,6 @@
       "onboard_time": 1665482004,
       "rank": 16,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 292208,
-      "num": 292208,
-      "word": "你肯定见过这个床单",
-      "onboard_time": 1665483924,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 291975,
@@ -891,6 +899,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 210603,
+      "num": 210603,
+      "word": "通勤路上承受了太多社死",
+      "onboard_time": 1665482545,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 209748,
       "num": 209748,
       "word": "男子生气开车突然手指僵硬呼吸困难",
@@ -920,6 +936,14 @@
       "word": "睡不着的主要原因是什么",
       "onboard_time": 1665422776,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197815,
+      "num": 197815,
+      "word": "收到这类短信千万别点开",
+      "onboard_time": 1665485664,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -960,6 +984,14 @@
       "word": "女子发寻物视频遭人恶意骚扰",
       "onboard_time": 1665438910,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182911,
+      "num": 182911,
+      "word": "95后小伙吐槽水果刺客价格贵七倍",
+      "onboard_time": 1665486863,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1035,12 +1067,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 155301,
-      "num": 155301,
-      "word": "通勤路上承受了太多社死",
-      "onboard_time": 1665482545,
-      "rank": 33,
-      "category": "幽默"
+      "raw_hot": 157088,
+      "num": 157088,
+      "word": "这就是风情万种吧",
+      "onboard_time": 1665486804,
+      "rank": 22,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 150518,
@@ -1099,6 +1131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139407,
+      "num": 139407,
+      "word": "文咏珊港风造型",
+      "onboard_time": 1665485066,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 138642,
       "num": 138642,
       "word": "小猫也有喜欢的玩具",
@@ -1153,14 +1193,6 @@
       "onboard_time": 1665472344,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 127912,
-      "num": 127912,
-      "word": "文咏珊港风造型",
-      "onboard_time": 1665485066,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 126411,
@@ -1249,6 +1281,14 @@
       "onboard_time": 1665475225,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106134,
+      "num": 106134,
+      "word": "养猫前后生活上发生的变化",
+      "onboard_time": 1665486142,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 103626,
@@ -1355,14 +1395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 87275,
-      "num": 87275,
-      "word": "让狗愧疚一辈子",
-      "onboard_time": 1665484765,
-      "rank": 43,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 86062,
       "num": 86062,
       "word": "洗澡护肤有个关键三分钟",
@@ -1403,6 +1435,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 79037,
+      "num": 79037,
+      "word": "孙杨无名指上戴戒指",
+      "onboard_time": 1665487105,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77834,
       "num": 77834,
       "word": "纸片人竟是我自己",
@@ -1427,6 +1467,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 75492,
+      "num": 75492,
+      "word": "百辆私家车高速让行救护车",
+      "onboard_time": 1665486505,
+      "rank": 45,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 72940,
       "num": 72940,
       "word": "主人地铁落座给找座的导盲犬铺垫子",
@@ -1449,6 +1497,14 @@
       "onboard_time": 1665471683,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 65995,
+      "num": 65995,
+      "word": "这是专属于秋天的浪漫",
+      "onboard_time": 1665486142,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 65525,
