@@ -1,7 +1,15 @@
 {
   "startTime": 1665419943424,
-  "endTime": 1665477359296,
+  "endTime": 1665478489847,
   "band_list": [
+    {
+      "raw_hot": 2305711,
+      "num": 665498,
+      "word": "原来不止有月经还有季经",
+      "onboard_time": 1665473964,
+      "rank": 35,
+      "category": "情感"
+    },
     {
       "raw_hot": 2252488,
       "num": 2252488,
@@ -9,14 +17,6 @@
       "onboard_time": 1665468082,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2020027,
-      "num": 665498,
-      "word": "原来不止有月经还有季经",
-      "onboard_time": 1665473964,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 1767163,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 958326,
-      "num": 521206,
+      "num": 546793,
       "word": "错撩",
       "onboard_time": 1665473904,
       "rank": 5,
@@ -219,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 574735,
+      "num": 574735,
+      "word": "女生10元购洗衣液到货后发现蓝月壳",
+      "onboard_time": 1665475704,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 572244,
       "num": 572244,
       "word": "因代做核酸上海80余人被行政处罚",
@@ -323,6 +331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 470100,
+      "num": 470100,
+      "word": "母牛被卖装车途中跪地不起",
+      "onboard_time": 1665473245,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 469053,
       "num": 469053,
       "word": "杨幂秦施耳环",
@@ -363,20 +379,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 445714,
-      "num": 445714,
-      "word": "母牛被卖装车途中跪地不起",
-      "onboard_time": 1665473245,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 428384,
       "num": 411968,
       "word": "金钟大将10月31日回归",
       "onboard_time": 1665449308,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 425851,
+      "num": 336937,
+      "word": "宋雨琦叶舒华泰国杂志画报",
+      "onboard_time": 1665475403,
+      "rank": 12,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 421837,
@@ -427,12 +443,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 401415,
-      "num": 266262,
-      "word": "宋雨琦叶舒华泰国杂志画报",
-      "onboard_time": 1665475403,
-      "rank": 12,
-      "category": "作品衍生,时尚"
+      "raw_hot": 386779,
+      "num": 386779,
+      "word": "谁不是一边崩溃一边自愈",
+      "onboard_time": 1665474744,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 385528,
@@ -523,14 +539,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 324891,
-      "num": 265406,
-      "word": "女生10元购洗衣液到货后发现蓝月壳",
-      "onboard_time": 1665475704,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 317058,
       "num": 317058,
       "word": "10月10日新增本土无症状1662例",
@@ -545,6 +553,14 @@
       "onboard_time": 1665452003,
       "rank": 18,
       "category": "财经"
+    },
+    {
+      "raw_hot": 310236,
+      "num": 310236,
+      "word": "人力局回应公司面试问能否无偿加班",
+      "onboard_time": 1665476665,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 303344,
@@ -651,6 +667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 254420,
+      "num": 254420,
+      "word": "扎波罗热地区发生多次爆炸",
+      "onboard_time": 1665474265,
+      "rank": 33,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 252218,
       "num": 189374,
       "word": "张凌赫宁安如梦配音路透",
@@ -667,12 +691,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 243549,
-      "num": 243549,
-      "word": "扎波罗热地区发生多次爆炸",
-      "onboard_time": 1665474265,
-      "rank": 33,
-      "category": "国外要闻"
+      "raw_hot": 237526,
+      "num": 237526,
+      "word": "石榴竟然还可以做出甜品",
+      "onboard_time": 1665477565,
+      "rank": 16,
+      "category": "美食"
     },
     {
       "raw_hot": 232197,
@@ -681,14 +705,6 @@
       "onboard_time": 1665474625,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 227533,
-      "num": 227533,
-      "word": "谁不是一边崩溃一边自愈",
-      "onboard_time": 1665474744,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 225333,
@@ -729,6 +745,14 @@
       "onboard_time": 1665462987,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 211842,
+      "num": 211842,
+      "word": "研究称妈妈情绪影响宝宝说话能力",
+      "onboard_time": 1665473545,
+      "rank": 42,
+      "category": "科技"
     },
     {
       "raw_hot": 209748,
@@ -811,14 +835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173123,
-      "num": 173123,
-      "word": "研究称妈妈情绪影响宝宝说话能力",
-      "onboard_time": 1665473545,
-      "rank": 42,
-      "category": "科技"
-    },
-    {
       "raw_hot": 171164,
       "num": 171164,
       "word": "马龙的自律让队友感到恐怖",
@@ -843,6 +859,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 169571,
+      "num": 169571,
+      "word": "张彬彬绅士手",
+      "onboard_time": 1665475463,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 169277,
       "num": 169277,
       "word": "以前电视上的总裁有多野",
@@ -851,16 +875,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 160346,
-      "num": 160346,
-      "word": "张彬彬绅士手",
-      "onboard_time": 1665475463,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 158796,
-      "num": 158796,
+      "raw_hot": 161348,
+      "num": 161348,
       "word": "现代人最擅长的事就是哭穷",
       "onboard_time": 1665473363,
       "rank": 38,
@@ -931,6 +947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137885,
+      "num": 137885,
+      "word": "底线全员闭庭",
+      "onboard_time": 1665477144,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 137701,
       "num": 137701,
       "word": "北京新增本土确诊13例",
@@ -977,6 +1001,14 @@
       "onboard_time": 1665466524,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 125207,
+      "num": 125207,
+      "word": "送儿上北大的鸡蛋灌饼爸爸发文",
+      "onboard_time": 1665476005,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123404,
@@ -1035,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108593,
+      "num": 276706,
+      "word": "公交车经过天桥急当救生垫",
+      "onboard_time": 1665475225,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103626,
       "num": 359136,
       "word": "河南老人摆摊卖饭7元管饱",
@@ -1049,14 +1089,6 @@
       "onboard_time": 1665412103,
       "rank": 23,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 101051,
-      "num": 101051,
-      "word": "人力局回应公司面试问能否无偿加班",
-      "onboard_time": 1665476665,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 100826,
@@ -1099,22 +1131,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 93089,
-      "num": 93089,
-      "word": "送儿上北大的鸡蛋灌饼爸爸发文",
-      "onboard_time": 1665476005,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 92633,
-      "num": 259357,
-      "word": "公交车经过天桥急当救生垫",
-      "onboard_time": 1665475225,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 92566,
       "num": 92566,
       "word": "男朋友妈妈亲手织的毛衣",
@@ -1145,14 +1161,6 @@
       "onboard_time": 1665449245,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 89302,
-      "num": 89302,
-      "word": "底线全员闭庭",
-      "onboard_time": 1665477144,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 88078,
@@ -1227,7 +1235,7 @@
       "category": "国外要闻,军事"
     },
     {
-      "raw_hot": 75247,
+      "raw_hot": 75772,
       "num": 860946,
       "word": "180秒看见最可爱的中国",
       "onboard_time": 1665471804,
@@ -1241,6 +1249,22 @@
       "onboard_time": 1665434469,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71247,
+      "num": 71247,
+      "word": "2023年插混车型不再享免费沪牌",
+      "onboard_time": 1665477984,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68647,
+      "num": 68647,
+      "word": "小猫也有喜欢的玩具",
+      "onboard_time": 1665478286,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 66773,
