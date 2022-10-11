@@ -1,0 +1,410 @@
+{
+  "runTime": 1665494838613,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1417304,
+        "num": 1417304,
+        "word": "发27篇SCI论文的学霸曾击败NASA",
+        "onboard_time": 1665491846,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 890587,
+        "num": 890587,
+        "word": "你肯定见过这个床单",
+        "onboard_time": 1665483924,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 43098,
+        "num": 817039,
+        "word": "180秒看见最可爱的中国",
+        "onboard_time": 1665471804,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 791260,
+        "num": 791260,
+        "word": "美国或在6至9个月内陷入经济衰退",
+        "onboard_time": 1665490225,
+        "rank": 3,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 559707,
+        "num": 559707,
+        "word": "纽约多名绿色连体衣女子地铁上抢劫",
+        "onboard_time": 1665488546,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483934,
+        "num": 483934,
+        "word": "收到这类短信千万别点开",
+        "onboard_time": 1665485664,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410167,
+        "num": 410167,
+        "word": "眼睛对于颜值的影响有多大",
+        "onboard_time": 1665492084,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 408226,
+        "num": 408226,
+        "word": "车银优韩素希李洙赫网漫EP2",
+        "onboard_time": 1665491364,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 402952,
+        "num": 402952,
+        "word": "幼儿园老师用粉笔画出渐变色",
+        "onboard_time": 1665487463,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327670,
+        "num": 327670,
+        "word": "95后小伙吐槽水果刺客价格贵七倍",
+        "onboard_time": 1665486863,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516225,
+        "num": 325690,
+        "word": "孙杨无名指上戴戒指",
+        "onboard_time": 1665487105,
+        "rank": 10,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 511518,
+        "num": 325641,
+        "word": "何同学后空翻",
+        "onboard_time": 1665493227,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 350353,
+        "num": 324627,
+        "word": "我国仅30%产妇使用无痛分娩",
+        "onboard_time": 1665472402,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322667,
+        "num": 322667,
+        "word": "张慧雯演的首席怀孕跳舞",
+        "onboard_time": 1665494427,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266438,
+        "num": 266438,
+        "word": "孟川 好笑",
+        "onboard_time": 1665494725,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264269,
+        "num": 264269,
+        "word": "切尔诺贝利黑蛙证明进化在行动",
+        "onboard_time": 1665482245,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 242222,
+        "num": 242222,
+        "word": "尼坤再提我结度蜜月",
+        "onboard_time": 1665473184,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 224388,
+        "num": 224388,
+        "word": "让狗愧疚一辈子",
+        "onboard_time": 1665484765,
+        "rank": 17,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 221301,
+        "num": 221301,
+        "word": "网购必备神图",
+        "onboard_time": 1665489563,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 209801,
+        "num": 209801,
+        "word": "美国银行预计明年美失业率达5.5%",
+        "onboard_time": 1665494246,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228682,
+        "num": 209192,
+        "word": "成毅认证周亦安人间小机灵",
+        "onboard_time": 1665492445,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211106,
+        "num": 209043,
+        "word": "金晨王安宇炽道开分7.1",
+        "onboard_time": 1665491427,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206584,
+        "num": 206584,
+        "word": "消防员夫妻度婚假驱车送患儿就医",
+        "onboard_time": 1665487884,
+        "rank": 22,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 199724,
+        "num": 199724,
+        "word": "谁能不心动一个人的快乐",
+        "onboard_time": 1665488725,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190570,
+        "num": 190570,
+        "word": "钟辰乐直播",
+        "onboard_time": 1665492805,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188764,
+        "num": 188764,
+        "word": "男子拿驾照当天酒后开车被扣12分",
+        "onboard_time": 1665491126,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182915,
+        "num": 182915,
+        "word": "男子高空作业掉落悬空被公交接住",
+        "onboard_time": 1665491544,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181596,
+        "num": 181596,
+        "word": "山西运城新增196名新冠阳性",
+        "onboard_time": 1665480145,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142407,
+        "num": 142407,
+        "word": "美国对欧洲出口天然气大提价",
+        "onboard_time": 1665479543,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 141985,
+        "num": 141985,
+        "word": "男子为爱吃鱼的妻子囤一冰柜鱼",
+        "onboard_time": 1665493465,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177202,
+        "num": 141952,
+        "word": "这就是风情万种吧",
+        "onboard_time": 1665486804,
+        "rank": 30,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 172734,
+        "num": 140506,
+        "word": "爱的二八定律定档1013",
+        "onboard_time": 1665484226,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156433,
+        "num": 139560,
+        "word": "你安全吗",
+        "onboard_time": 1665493465,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151682,
+        "num": 138719,
+        "word": "浮图缘王鹤棣陈钰琪婚服造型",
+        "onboard_time": 1665483325,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138474,
+        "num": 138474,
+        "word": "最后一次和喜欢的人的对话",
+        "onboard_time": 1665478583,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134116,
+        "num": 134116,
+        "word": "养猫前后生活上发生的变化",
+        "onboard_time": 1665486142,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130486,
+        "num": 130486,
+        "word": "在假性恋爱里你该怎么办",
+        "onboard_time": 1665489805,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120308,
+        "num": 120308,
+        "word": "百辆私家车高速让行救护车",
+        "onboard_time": 1665486505,
+        "rank": 37,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 119158,
+        "num": 119158,
+        "word": "6名男生就地取材宿舍内健身",
+        "onboard_time": 1665492505,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109386,
+        "num": 109386,
+        "word": "相亲成功上岸是什么体验",
+        "onboard_time": 1665494364,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121591,
+        "num": 109308,
+        "word": "两个人的小森林",
+        "onboard_time": 1665487705,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 107312,
+        "num": 107312,
+        "word": "女生10元购洗衣液到货后发现蓝月壳",
+        "onboard_time": 1665475704,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106562,
+        "num": 106562,
+        "word": "动态清零可持续而且必须坚持",
+        "onboard_time": 1665468082,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105296,
+        "num": 105296,
+        "word": "檀健次你安全吗收官续约第二季",
+        "onboard_time": 1665490883,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103392,
+        "num": 103392,
+        "word": "6岁女孩天生爆炸头称不想上学",
+        "onboard_time": 1665469284,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96809,
+        "num": 96809,
+        "word": "错撩",
+        "onboard_time": 1665473904,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 84349,
+        "num": 84349,
+        "word": "合肥疫情防控",
+        "onboard_time": 1665478704,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83296,
+        "num": 83296,
+        "word": "谁不是一边崩溃一边自愈",
+        "onboard_time": 1665474744,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72167,
+        "num": 72167,
+        "word": "研究称妈妈情绪影响宝宝说话能力",
+        "onboard_time": 1665473545,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 68368,
+        "num": 68368,
+        "word": "中国女排今晚再次迎战意大利",
+        "onboard_time": 1665479304,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#党的二十大新闻发布会#"
+    }
+  }
+}
