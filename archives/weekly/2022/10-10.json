@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665523549863,
+  "endTime": 1665524650165,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -3923,6 +3923,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 43604,
+      "num": 32169,
+      "word": "姐姐给弟弟冲奶粉自己先干两杯",
+      "onboard_time": 1665519191,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41519,
       "num": 301946,
       "word": "男生黑板手绘3米长新中国万岁",
@@ -3948,18 +3956,10 @@
     },
     {
       "raw_hot": 37120,
-      "num": 25692,
+      "num": 28650,
       "word": "白俄罗斯女孩跨越万里远嫁中国",
       "onboard_time": 1665516611,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36190,
-      "num": 26402,
-      "word": "姐姐给弟弟冲奶粉自己先干两杯",
-      "onboard_time": 1665519191,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -4043,6 +4043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 16410,
+      "num": 16410,
+      "word": "东风快递发射大场面帧帧大片",
+      "onboard_time": 1665521351,
+      "rank": 30,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 15865,
       "num": 15865,
       "word": "九图速览19次党代会极简史",
@@ -4059,20 +4067,20 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 14682,
+      "num": 14682,
+      "word": "男子请唢呐乐队在KTV为朋友庆生",
+      "onboard_time": 1665521530,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 14109,
       "num": 14109,
       "word": "张远噢乖高音",
       "onboard_time": 1665324985,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 13856,
-      "num": 13856,
-      "word": "东风快递发射大场面帧帧大片",
-      "onboard_time": 1665521351,
-      "rank": 30,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 13764,
@@ -4099,20 +4107,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 11336,
-      "num": 11336,
-      "word": "男子请唢呐乐队在KTV为朋友庆生",
-      "onboard_time": 1665521530,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 9679,
       "num": 9679,
       "word": "好吃到会上瘾的小花卷",
       "onboard_time": 1665429611,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 9333,
+      "num": 9333,
+      "word": "神仙租客回应将房间打扫干净",
+      "onboard_time": 1665523451,
+      "rank": 47,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 9303,
+      "num": 9303,
+      "word": "男子买药付款时偷换商家收款码",
+      "onboard_time": 1665523632,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9037,
@@ -4187,11 +4203,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 6443,
-      "num": 7597,
-      "word": "神仙租客回应将房间打扫干净",
-      "onboard_time": 1665523451,
-      "rank": 47,
+      "raw_hot": 6429,
+      "num": 6607,
+      "word": "独臂男子一人种50亩地赡养父母",
+      "onboard_time": 1665524051,
+      "rank": 49,
       "category": "社会正能量"
     },
     {
