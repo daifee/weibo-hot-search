@@ -1,0 +1,410 @@
+{
+  "runTime": 1665468192497,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1210358,
+        "num": 1210358,
+        "word": "妻子让丈夫煮筷子结果烧成碳",
+        "onboard_time": 1665461365,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 858919,
+        "num": 858919,
+        "word": "男友考上清华女子扯横幅猪肉特价",
+        "onboard_time": 1665450925,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7336,
+        "num": 858095,
+        "word": "红星何以照耀中国",
+        "onboard_time": 1665387865,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 857673,
+        "num": 857673,
+        "word": "鸟鸟不愧是我的互联网嘴替",
+        "onboard_time": 1665463229,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 683966,
+        "num": 683966,
+        "word": "公司面试表问能否接受无偿加班",
+        "onboard_time": 1665461664,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 644193,
+        "num": 644193,
+        "word": "95后毕业生基层工作23天被怼到想哭",
+        "onboard_time": 1665464846,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503682,
+        "num": 503682,
+        "word": "心动的信号",
+        "onboard_time": 1665466345,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 481075,
+        "num": 481075,
+        "word": "不舍得删除的聊天记录",
+        "onboard_time": 1665459625,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 460425,
+        "num": 460425,
+        "word": "RNG新公司名为软泥怪",
+        "onboard_time": 1665464486,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 415822,
+        "num": 415822,
+        "word": "狗狗因不被搭理而自我怀疑",
+        "onboard_time": 1665462206,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 355205,
+        "num": 355205,
+        "word": "高校毛概女老师神仙颜值美出圈",
+        "onboard_time": 1665456803,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 352777,
+        "num": 352777,
+        "word": "梁朝伟劝各位理想型别定太早",
+        "onboard_time": 1665465506,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 327005,
+        "num": 327005,
+        "word": "长大才知道图图爸妈有多好",
+        "onboard_time": 1665465265,
+        "rank": 12,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 283610,
+        "num": 283610,
+        "word": "申彗星承认酒驾",
+        "onboard_time": 1665460465,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262163,
+        "num": 262163,
+        "word": "8岁女童夜里机智吓退可疑敲门人",
+        "onboard_time": 1665458363,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254951,
+        "num": 254951,
+        "word": "南宁动物园没有正经动物吗",
+        "onboard_time": 1665462926,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 252894,
+        "num": 252894,
+        "word": "动态清零可持续而且必须坚持",
+        "onboard_time": 1665468082,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242058,
+        "num": 242058,
+        "word": "姚晨新剧被女儿推下水",
+        "onboard_time": 1665466703,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233911,
+        "num": 233911,
+        "word": "统一充电接口或让苹果每年损失百亿",
+        "onboard_time": 1665456681,
+        "rank": 18,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 230864,
+        "num": 230864,
+        "word": "妈妈为女儿做公主裙365天不重样",
+        "onboard_time": 1665465922,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224416,
+        "num": 224416,
+        "word": "中国汽车出口量跃居全球第二",
+        "onboard_time": 1665464245,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 215666,
+        "num": 215666,
+        "word": "iPhone14Plus遇冷Pro卖爆",
+        "onboard_time": 1665453083,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 208030,
+        "num": 208030,
+        "word": "孙颖莎继续世界第一",
+        "onboard_time": 1665460705,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207832,
+        "num": 207832,
+        "word": "已故父亲棉被藏8万弹棉花时发现",
+        "onboard_time": 1665449903,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204857,
+        "num": 204857,
+        "word": "王鹤棣的片场花絮",
+        "onboard_time": 1665462807,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193242,
+        "num": 193242,
+        "word": "成毅说星城法院今晚正式闭庭",
+        "onboard_time": 1665467362,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182121,
+        "num": 182121,
+        "word": "杨幂秦施耳环",
+        "onboard_time": 1665458004,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 180104,
+        "num": 180104,
+        "word": "这下看谁还敢不冲厕所",
+        "onboard_time": 1665451525,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172996,
+        "num": 172996,
+        "word": "深圳首次发现BF.7变异株",
+        "onboard_time": 1665467362,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153075,
+        "num": 153075,
+        "word": "gidle新专辑预售量突破70万张",
+        "onboard_time": 1665461186,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 141682,
+        "num": 141682,
+        "word": "我国人口年均增长593.1万人",
+        "onboard_time": 1665453924,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141493,
+        "num": 141493,
+        "word": "阿根廷驻华大使说梅西是最好大使",
+        "onboard_time": 1665459684,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141416,
+        "num": 141416,
+        "word": "新加坡餐厅拟对吵闹儿童收费",
+        "onboard_time": 1665466882,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128023,
+        "num": 128023,
+        "word": "李承铉建议感情中多考虑再行动",
+        "onboard_time": 1665467904,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126509,
+        "num": 126509,
+        "word": "LPL小组赛首轮9胜3负",
+        "onboard_time": 1665453204,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125949,
+        "num": 125949,
+        "word": "乌方称空袭已致14死97伤",
+        "onboard_time": 1665452964,
+        "rank": 35,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 118245,
+        "num": 118245,
+        "word": "披荆斩棘四公光影情绪视频",
+        "onboard_time": 1665462807,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111936,
+        "num": 111936,
+        "word": "苹果将修复iPhone14Pro通知延迟",
+        "onboard_time": 1665453263,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 107283,
+        "num": 107283,
+        "word": "金晨演的罗娜是百米心墙选手",
+        "onboard_time": 1665466524,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103456,
+        "num": 103456,
+        "word": "10月10日新增本土无症状1662例",
+        "onboard_time": 1665452663,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102865,
+        "num": 102865,
+        "word": "有点担心情侣们的精神状态",
+        "onboard_time": 1665446306,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101416,
+        "num": 101416,
+        "word": "赵丽颖龚俊voguefilm合照",
+        "onboard_time": 1665452302,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 100748,
+        "num": 100748,
+        "word": "男子喝醉酒后全程推车回家",
+        "onboard_time": 1665454883,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99310,
+        "num": 99310,
+        "word": "中国女篮排名升至世界第二",
+        "onboard_time": 1665452424,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98366,
+        "num": 98366,
+        "word": "为万里归途的瓦迪尔流泪",
+        "onboard_time": 1665467003,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 96916,
+        "num": 96916,
+        "word": "西安疫情防控",
+        "onboard_time": 1665446065,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91798,
+        "num": 91798,
+        "word": "男子生气开车突然手指僵硬呼吸困难",
+        "onboard_time": 1665447146,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252218,
+        "num": 91723,
+        "word": "张凌赫宁安如梦配音路透",
+        "onboard_time": 1665468143,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 90294,
+        "num": 90294,
+        "word": "曝追梦格林有意加盟湖人",
+        "onboard_time": 1665455244,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89518,
+        "num": 89518,
+        "word": "阳澄湖蟹农吃不出阳澄湖蟹",
+        "onboard_time": 1665445100,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#领航#"
+    }
+  }
+}
