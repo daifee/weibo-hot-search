@@ -1,6 +1,6 @@
 {
   "startTime": 1664556011390,
-  "endTime": 1665595212133,
+  "endTime": 1665596673475,
   "band_list": [
     {
       "raw_hot": 8115932,
@@ -11435,6 +11435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218295,
+      "num": 218295,
+      "word": "我睡着了连我自己都害怕",
+      "onboard_time": 1665591143,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 217995,
       "num": 172656,
       "word": "朴灿烈唱Tomorrow",
@@ -11673,14 +11681,6 @@
       "onboard_time": 1664974405,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 210824,
-      "num": 210824,
-      "word": "我睡着了连我自己都害怕",
-      "onboard_time": 1665591143,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 210662,

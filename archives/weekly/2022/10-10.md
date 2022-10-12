@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/10 00:35:08 ~ 2022/10/13 01:20:12
+本榜单时间：2022/10/10 00:35:08 ~ 2022/10/13 01:44:33
 </p>
 </blockquote>
 <p>
@@ -2421,6 +2421,12 @@ StrayKids独家电台打卡记（热度：229177）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9D%A1%E7%9D%80%E4%BA%86%E8%BF%9E%E6%88%91%E8%87%AA%E5%B7%B1%E9%83%BD%E5%AE%B3%E6%80%95%23" target="weibo">
+我睡着了连我自己都害怕（热度：218295）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%95%E7%BA%BF%E4%BB%8A%E6%99%9A%E5%A4%A7%E7%BB%93%E5%B1%80%23" target="weibo">
 底线今晚大结局（热度：217460）
 </a>
@@ -2489,12 +2495,6 @@ StrayKids独家电台打卡记（热度：229177）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%A7%B0%E5%A6%88%E5%A6%88%E6%83%85%E7%BB%AA%E5%BD%B1%E5%93%8D%E5%AE%9D%E5%AE%9D%E8%AF%B4%E8%AF%9D%E8%83%BD%E5%8A%9B%23" target="weibo">
 研究称妈妈情绪影响宝宝说话能力（热度：211842）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9D%A1%E7%9D%80%E4%BA%86%E8%BF%9E%E6%88%91%E8%87%AA%E5%B7%B1%E9%83%BD%E5%AE%B3%E6%80%95%23" target="weibo">
-我睡着了连我自己都害怕（热度：210824）
 </a>
 </li>
 
