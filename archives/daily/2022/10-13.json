@@ -1,6 +1,6 @@
 {
   "startTime": 1665593250994,
-  "endTime": 1665593250994,
+  "endTime": 1665595212133,
   "band_list": [
     {
       "raw_hot": 727659,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245252,
+      "num": 245252,
+      "word": "男生经常夸容貌焦虑女友你好漂亮",
+      "onboard_time": 1665590840,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228858,
       "num": 228858,
       "word": "虞书欣发长文告别虞美人",
@@ -73,6 +81,22 @@
       "onboard_time": 1665569607,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211966,
+      "num": 141204,
+      "word": "南京大学首次跻身世界大学排名百强",
+      "onboard_time": 1665593177,
+      "rank": 49,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 210824,
+      "num": 210824,
+      "word": "我睡着了连我自己都害怕",
+      "onboard_time": 1665591143,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 208570,
@@ -99,28 +123,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 181157,
-      "num": 181157,
-      "word": "男生经常夸容貌焦虑女友你好漂亮",
-      "onboard_time": 1665590840,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175128,
       "num": 175128,
       "word": "带着情绪过夜的人在想什么",
       "onboard_time": 1665584487,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 159079,
-      "num": 159079,
-      "word": "我睡着了连我自己都害怕",
-      "onboard_time": 1665591143,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 142438,
@@ -395,12 +403,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29587,
-      "num": 29587,
-      "word": "南京大学首次跻身世界大学排名百强",
-      "onboard_time": 1665593177,
-      "rank": 49,
-      "category": "教育,社会新闻"
+      "raw_hot": 24570,
+      "num": 24570,
+      "word": "秦霄贤粉墨江湖杀青路透图",
+      "onboard_time": 1665593357,
+      "rank": 46,
+      "category": "影视"
     }
   ],
   "hotgov_list": [

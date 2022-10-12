@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665593250994,
+  "endTime": 1665595212133,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -2963,6 +2963,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 245252,
+      "num": 245252,
+      "word": "男生经常夸容貌焦虑女友你好漂亮",
+      "onboard_time": 1665590840,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244431,
       "num": 199234,
       "word": "NCTUMakeAWish发行两周年",
@@ -3283,12 +3291,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211966,
+      "num": 141204,
+      "word": "南京大学首次跻身世界大学排名百强",
+      "onboard_time": 1665593177,
+      "rank": 49,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 211842,
       "num": 211842,
       "word": "研究称妈妈情绪影响宝宝说话能力",
       "onboard_time": 1665473545,
       "rank": 42,
       "category": "科技"
+    },
+    {
+      "raw_hot": 210824,
+      "num": 210824,
+      "word": "我睡着了连我自己都害怕",
+      "onboard_time": 1665591143,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 210603,
@@ -3627,14 +3651,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 181157,
-      "num": 181157,
-      "word": "男生经常夸容貌焦虑女友你好漂亮",
-      "onboard_time": 1665590840,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179522,
       "num": 179522,
       "word": "湖人vs勇士",
@@ -3889,14 +3905,6 @@
       "onboard_time": 1665368362,
       "rank": 28,
       "category": "体育,情感"
-    },
-    {
-      "raw_hot": 159079,
-      "num": 159079,
-      "word": "我睡着了连我自己都害怕",
-      "onboard_time": 1665591143,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 158911,
@@ -5579,14 +5587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29587,
-      "num": 29587,
-      "word": "南京大学首次跻身世界大学排名百强",
-      "onboard_time": 1665593177,
-      "rank": 49,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 27890,
       "num": 315681,
       "word": "雪天路滑众人合力推救护车上坡",
@@ -5600,6 +5600,14 @@
       "word": "唐朝诡事录公主摆鸿门宴",
       "onboard_time": 1665425713,
       "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 24570,
+      "num": 24570,
+      "word": "秦霄贤粉墨江湖杀青路透图",
+      "onboard_time": 1665593357,
+      "rank": 46,
       "category": "影视"
     },
     {
