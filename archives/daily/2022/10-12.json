@@ -1,6 +1,6 @@
 {
   "startTime": 1665506336170,
-  "endTime": 1665566982430,
+  "endTime": 1665568136664,
   "band_list": [
     {
       "raw_hot": 2462380,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1626821,
+      "num": 1626821,
+      "word": "新娘端庄大方被赞国泰民安脸",
+      "onboard_time": 1665562944,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1368121,
       "num": 1253905,
       "word": "李国庆建议四成大学生毕业后歇一年",
@@ -51,14 +59,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1168440,
-      "num": 1168440,
-      "word": "新娘端庄大方被赞国泰民安脸",
-      "onboard_time": 1665562944,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1164939,
       "num": 1164939,
       "word": "老公误把酵母粉当感冒药给老婆喝",
@@ -73,6 +73,14 @@
       "onboard_time": 1665549207,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1057537,
+      "num": 411759,
+      "word": "女子割完双眼皮老公要求分房睡",
+      "onboard_time": 1665565340,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1031848,
@@ -107,11 +115,11 @@
       "category": "艺人,科技"
     },
     {
-      "raw_hot": 893592,
-      "num": 411759,
-      "word": "女子割完双眼皮老公要求分房睡",
-      "onboard_time": 1665565340,
-      "rank": 10,
+      "raw_hot": 874971,
+      "num": 874971,
+      "word": "金毛咬破染发膏后被主人染成红毛",
+      "onboard_time": 1665562763,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -129,14 +137,6 @@
       "onboard_time": 1665549806,
       "rank": 33,
       "category": "社会新闻,动漫"
-    },
-    {
-      "raw_hot": 805406,
-      "num": 805406,
-      "word": "金毛咬破染发膏后被主人染成红毛",
-      "onboard_time": 1665562763,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 794369,
@@ -187,6 +187,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 729906,
+      "num": 729906,
+      "word": "妈妈以为宝宝吐奶拍背后吐出图钉",
+      "onboard_time": 1665563783,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 710503,
+      "num": 710503,
+      "word": "12岁小学生身高1.9米被体育局相中",
+      "onboard_time": 1665564383,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 703830,
       "num": 703830,
       "word": "网传狐妖竹业篇主演确定陈晓刘诗诗",
@@ -235,12 +251,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 641693,
-      "num": 641693,
-      "word": "妈妈以为宝宝吐奶拍背后吐出图钉",
-      "onboard_time": 1665563783,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 650864,
+      "num": 650864,
+      "word": "一起来看甄嬛雨",
+      "onboard_time": 1665563904,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 581519,
@@ -265,6 +281,14 @@
       "onboard_time": 1665500609,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 561386,
+      "num": 291954,
+      "word": "二十大最新消息",
+      "onboard_time": 1665566304,
+      "rank": 31,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 548877,
@@ -307,28 +331,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 493750,
-      "num": 493750,
-      "word": "12岁小学生身高1.9米被体育局相中",
-      "onboard_time": 1665564383,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 491503,
       "num": 491503,
       "word": "男子买药付款时偷换商家收款码",
       "onboard_time": 1665523632,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 478899,
-      "num": 478899,
-      "word": "一起来看甄嬛雨",
-      "onboard_time": 1665563904,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 465357,
@@ -387,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 427311,
+      "num": 290446,
+      "word": "孙怡男人装十月封面",
+      "onboard_time": 1665566543,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 426975,
       "num": 375604,
       "word": "aespa出镜nylon十月刊",
@@ -417,6 +433,14 @@
       "onboard_time": 1665555863,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 393704,
+      "num": 288993,
+      "word": "王鹤棣霸总适配度",
+      "onboard_time": 1665567444,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 379292,
@@ -675,12 +699,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 263419,
-      "num": 263419,
-      "word": "孙怡男人装十月封面",
-      "onboard_time": 1665566543,
-      "rank": 19,
-      "category": "作品衍生,时尚"
+      "raw_hot": 260789,
+      "num": 250942,
+      "word": "差点忘了梁朝伟也是个歌手",
+      "onboard_time": 1665565944,
+      "rank": 27,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 260700,
@@ -843,6 +867,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 193917,
+      "num": 193917,
+      "word": "小森林今晚大结局",
+      "onboard_time": 1665567264,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192699,
       "num": 192699,
       "word": "10月11日新增本土无症状1386例",
@@ -891,20 +923,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 174574,
-      "num": 174574,
-      "word": "差点忘了梁朝伟也是个歌手",
-      "onboard_time": 1665565944,
-      "rank": 27,
-      "category": "作品衍生,幽默"
-    },
-    {
       "raw_hot": 172457,
       "num": 172457,
       "word": "许多国宝动物正回到我们身边",
       "onboard_time": 1665537207,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170868,
+      "num": 170868,
+      "word": "这小肚腩怕是留不住了",
+      "onboard_time": 1665563724,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 170641,
@@ -923,28 +955,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 169885,
-      "num": 169885,
-      "word": "这小肚腩怕是留不住了",
-      "onboard_time": 1665563724,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 168366,
       "num": 160648,
       "word": "李马克芭莎封面",
       "onboard_time": 1665553524,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 164148,
-      "num": 164148,
-      "word": "二十大最新消息",
-      "onboard_time": 1665566304,
-      "rank": 31,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 159278,
@@ -1043,6 +1059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146575,
+      "num": 146575,
+      "word": "刘洋用2米长吸管喝果汁",
+      "onboard_time": 1665565464,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146383,
       "num": 146383,
       "word": "美国或在6至9个月内陷入经济衰退",
@@ -1075,12 +1099,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135532,
+      "num": 135532,
+      "word": "唐朝诡事录今晚大结局",
+      "onboard_time": 1665565283,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 129893,
       "num": 129893,
       "word": "鞠婧祎名誉维权案件进展",
       "onboard_time": 1665544285,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129211,
+      "num": 129211,
+      "word": "一张画证明人不会被AI取代",
+      "onboard_time": 1665566725,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 127129,
@@ -1099,6 +1139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125387,
+      "num": 125387,
+      "word": "原来小鸭也是要哄的",
+      "onboard_time": 1665565166,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122948,
       "num": 122948,
       "word": "中国女排0比1落后意大利",
@@ -1107,28 +1155,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121975,
-      "num": 121975,
-      "word": "刘洋用2米长吸管喝果汁",
-      "onboard_time": 1665565464,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121853,
       "num": 121853,
       "word": "虞书欣也舍不得小森林大结局",
       "onboard_time": 1665530359,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 119620,
-      "num": 119620,
-      "word": "原来小鸭也是要哄的",
-      "onboard_time": 1665565166,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 114958,
@@ -1145,14 +1177,6 @@
       "onboard_time": 1665505700,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 114602,
-      "num": 114602,
-      "word": "唐朝诡事录今晚大结局",
-      "onboard_time": 1665565283,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 107920,
@@ -1273,14 +1297,6 @@
       "onboard_time": 1665558084,
       "rank": 2,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 82122,
-      "num": 82122,
-      "word": "一张画证明人不会被AI取代",
-      "onboard_time": 1665566725,
-      "rank": 48,
-      "category": "动漫"
     },
     {
       "raw_hot": 80269,
@@ -1411,6 +1427,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 57357,
+      "num": 317092,
+      "word": "老人遗失10万救命钱路人拾金不昧",
+      "onboard_time": 1665565944,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55327,
       "num": 55327,
       "word": "李龙馥143CASE直拍",
@@ -1457,14 +1481,6 @@
       "onboard_time": 1665487705,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 31908,
-      "num": 317092,
-      "word": "老人遗失10万救命钱路人拾金不昧",
-      "onboard_time": 1665565944,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30764,

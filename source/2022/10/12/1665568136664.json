@@ -1,0 +1,410 @@
+{
+  "runTime": 1665568136664,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1626821,
+        "num": 1626821,
+        "word": "新娘端庄大方被赞国泰民安脸",
+        "onboard_time": 1665562944,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 874971,
+        "num": 874971,
+        "word": "金毛咬破染发膏后被主人染成红毛",
+        "onboard_time": 1665562763,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70443,
+        "num": 736127,
+        "word": "天宫课堂第三课",
+        "onboard_time": 1665558084,
+        "rank": 2,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 729906,
+        "num": 729906,
+        "word": "妈妈以为宝宝吐奶拍背后吐出图钉",
+        "onboard_time": 1665563783,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 710503,
+        "num": 710503,
+        "word": "12岁小学生身高1.9米被体育局相中",
+        "onboard_time": 1665564383,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 666611,
+        "num": 666611,
+        "word": "高校回应毛概女老师被赞神仙颜值",
+        "onboard_time": 1665548366,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 650864,
+        "num": 650864,
+        "word": "一起来看甄嬛雨",
+        "onboard_time": 1665563904,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 438013,
+        "num": 438013,
+        "word": "突然意识到自己真的很好",
+        "onboard_time": 1665533124,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 401718,
+        "num": 401718,
+        "word": "当代人血液里有一半是咖啡",
+        "onboard_time": 1665551606,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 294932,
+        "num": 294932,
+        "word": "复联6推迟上映",
+        "onboard_time": 1665556225,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1057537,
+        "num": 293704,
+        "word": "女子割完双眼皮老公要求分房睡",
+        "onboard_time": 1665565340,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561386,
+        "num": 291954,
+        "word": "二十大最新消息",
+        "onboard_time": 1665566304,
+        "rank": 11,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 427311,
+        "num": 290446,
+        "word": "孙怡男人装十月封面",
+        "onboard_time": 1665566543,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 393704,
+        "num": 288993,
+        "word": "王鹤棣霸总适配度",
+        "onboard_time": 1665567444,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 57357,
+        "num": 288671,
+        "word": "老人遗失10万救命钱路人拾金不昧",
+        "onboard_time": 1665565944,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287190,
+        "num": 287190,
+        "word": "被萧山机场的飞机拜拜员可爱到了",
+        "onboard_time": 1665562705,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286399,
+        "num": 286399,
+        "word": "潘粤明说还有四季四搭",
+        "onboard_time": 1665560724,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 277607,
+        "num": 277607,
+        "word": "8月婴儿误吞香蕉海姆立克法失效",
+        "onboard_time": 1665544705,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274525,
+        "num": 274525,
+        "word": "王一博叶秘手上沾血",
+        "onboard_time": 1665562404,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 259927,
+        "num": 259927,
+        "word": "俄称克里米亚大桥恐袭策划者确定",
+        "onboard_time": 1665557302,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 443056,
+        "num": 255932,
+        "word": "李国庆建议四成大学生毕业后歇一年",
+        "onboard_time": 1665560182,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260789,
+        "num": 250942,
+        "word": "差点忘了梁朝伟也是个歌手",
+        "onboard_time": 1665565944,
+        "rank": 21,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 216213,
+        "num": 216213,
+        "word": "3岁截肢男孩爬行跟爸爸相拥",
+        "onboard_time": 1665562104,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209568,
+        "num": 209568,
+        "word": "研究表明猴子或将很快到地面生活",
+        "onboard_time": 1665557722,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 204248,
+        "num": 204248,
+        "word": "游戏王作者因见义勇为去世",
+        "onboard_time": 1665549806,
+        "rank": 24,
+        "category": "社会新闻,动漫"
+      },
+      {
+        "raw_hot": 197098,
+        "num": 197098,
+        "word": "心动的信号",
+        "onboard_time": 1665563184,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195176,
+        "num": 195176,
+        "word": "年轻人有多爱买丑东西",
+        "onboard_time": 1665554483,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193917,
+        "num": 193917,
+        "word": "小森林今晚大结局",
+        "onboard_time": 1665567264,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170868,
+        "num": 170868,
+        "word": "这小肚腩怕是留不住了",
+        "onboard_time": 1665563724,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168392,
+        "num": 168392,
+        "word": "腾讯地图PC端将停服",
+        "onboard_time": 1665561804,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 146575,
+        "num": 146575,
+        "word": "刘洋用2米长吸管喝果汁",
+        "onboard_time": 1665565464,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142711,
+        "num": 142711,
+        "word": "这退休生活迟早是我的",
+        "onboard_time": 1665559223,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135532,
+        "num": 135532,
+        "word": "唐朝诡事录今晚大结局",
+        "onboard_time": 1665565283,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132354,
+        "num": 132354,
+        "word": "为什么子女不愿意和父母沟通",
+        "onboard_time": 1665559464,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130732,
+        "num": 130732,
+        "word": "14岁男孩高烧硬撑2天成暴发性心肌炎",
+        "onboard_time": 1665549148,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129211,
+        "num": 129211,
+        "word": "一张画证明人不会被AI取代",
+        "onboard_time": 1665566725,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 127997,
+        "num": 127997,
+        "word": "网传狐妖竹业篇主演确定陈晓刘诗诗",
+        "onboard_time": 1665552085,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125387,
+        "num": 125387,
+        "word": "原来小鸭也是要哄的",
+        "onboard_time": 1665565166,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120902,
+        "num": 120902,
+        "word": "今年冬季会是冷冬吗",
+        "onboard_time": 1665555863,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116909,
+        "num": 116909,
+        "word": "周迅无名造型曝光",
+        "onboard_time": 1665562104,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114378,
+        "num": 114378,
+        "word": "电视剧追光者",
+        "onboard_time": 1665558683,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103523,
+        "num": 103523,
+        "word": "李宇春我怎么能是由你打造的呢",
+        "onboard_time": 1665559763,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102063,
+        "num": 102063,
+        "word": "爸爸辅导作业怒拍桌子骨折了",
+        "onboard_time": 1665550873,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90015,
+        "num": 90015,
+        "word": "飞机拜拜员实际叫机务",
+        "onboard_time": 1665560063,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83195,
+        "num": 83195,
+        "word": "老师退休前最后一课教学生写人字",
+        "onboard_time": 1665562044,
+        "rank": 44,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 81752,
+        "num": 81752,
+        "word": "GEN进军王者荣耀世冠KIC",
+        "onboard_time": 1665551547,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 77874,
+        "num": 77874,
+        "word": "配眼镜前看到真是我的福气",
+        "onboard_time": 1665549629,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 74823,
+        "num": 74823,
+        "word": "汤唯提名大钟奖最佳女主角",
+        "onboard_time": 1665554784,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 74673,
+        "num": 74673,
+        "word": "女子遇诈骗5名警察轮番劝说挽回2.4万",
+        "onboard_time": 1665557363,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62387,
+        "num": 62387,
+        "word": "躺平不可取躺赢不可能",
+        "onboard_time": 1665551306,
+        "rank": 49,
+        "category": "国内要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#九图带你了解党的中央组织#"
+    }
+  }
+}
