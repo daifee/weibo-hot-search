@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/10 00:35:08 ~ 2022/10/13 03:27:20
+本榜单时间：2022/10/10 00:35:08 ~ 2022/10/13 03:42:20
 </p>
 </blockquote>
 <p>
@@ -4209,6 +4209,12 @@ AC米兰0比2切尔西（热度：63822）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%83%B8%E5%8F%A3%E7%9A%84%E8%93%9D%E7%89%99%E8%80%B3%E6%9C%BA%E7%AA%81%E7%84%B6%E5%96%B7%E7%81%AB%23" target="weibo">
+男子胸口的蓝牙耳机突然喷火（热度：30942）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2395%E5%90%8E%E5%B0%8F%E4%BC%994%E5%B9%B4%E7%8C%AE%E8%A1%8045%E6%AC%A1%E8%BF%98%E6%8D%90%E5%B9%B2%E7%BB%86%E8%83%9E%23" target="weibo">
 95后小伙4年献血45次还捐干细胞（热度：30764）
 </a>
@@ -4217,12 +4223,6 @@ AC米兰0比2切尔西（热度：63822）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%AA%E5%A4%A9%E8%B7%AF%E6%BB%91%E4%BC%97%E4%BA%BA%E5%90%88%E5%8A%9B%E6%8E%A8%E6%95%91%E6%8A%A4%E8%BD%A6%E4%B8%8A%E5%9D%A1%23" target="weibo">
 雪天路滑众人合力推救护车上坡（热度：27890）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%83%B8%E5%8F%A3%E7%9A%84%E8%93%9D%E7%89%99%E8%80%B3%E6%9C%BA%E7%AA%81%E7%84%B6%E5%96%B7%E7%81%AB%23" target="weibo">
-男子胸口的蓝牙耳机突然喷火（热度：27496）
 </a>
 </li>
 
@@ -4293,6 +4293,12 @@ NH大满贯（热度：13764）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B210%E5%B9%B4%E4%B8%BA%E5%A5%B3%E5%84%BFQQ%E7%82%B9%E8%B5%9E3.7%E4%B8%87%E6%AC%A1%23" target="weibo">
+父亲10年为女儿QQ点赞3.7万次（热度：12374）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232%E4%B8%AA%E5%8A%A8%E4%BD%9C%E5%A2%9E%E5%BC%BA%E8%83%8C%E8%82%8C%23" target="weibo">
 2个动作增强背肌（热度：11443）
 </a>
@@ -4312,13 +4318,7 @@ NH大满贯（热度：13764）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%88%B4%E7%BD%91%E8%B4%AD%E8%80%B3%E6%9C%BA%E8%B5%B7%E7%81%AB%E5%A6%82%E5%90%8C%E6%94%BE%E7%83%9F%E8%8A%B1%23" target="weibo">
-男子戴网购耳机起火如同放烟花（热度：8003）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B210%E5%B9%B4%E4%B8%BA%E5%A5%B3%E5%84%BFQQ%E7%82%B9%E8%B5%9E3.7%E4%B8%87%E6%AC%A1%23" target="weibo">
-父亲10年为女儿QQ点赞3.7万次（热度：7971）
+男子戴网购耳机起火如同放烟花（热度：8730）
 </a>
 </li>
 
@@ -4379,6 +4379,12 @@ NH大满贯（热度：13764）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%88%B0%E5%BA%95%E7%9C%8B%E4%BA%86%E5%A4%9A%E5%B0%91%E5%8A%A8%E7%94%BB%E7%89%87%23" target="weibo">
 王一博到底看了多少动画片（热度：6457）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%80%BB%E6%9C%89%E4%B8%80%E7%A7%8D%E5%A3%B0%E9%9F%B3%E4%BB%A4%E4%BD%A0%E9%9A%BE%E4%BB%A5%E5%BF%98%E6%80%80%23" target="weibo">
+总有一种声音令你难以忘怀（热度：6440）
 </a>
 </li>
 
