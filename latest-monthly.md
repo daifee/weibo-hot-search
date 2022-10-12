@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2022/10/01 00:40:11 ~ 2022/10/13 06:26:44
+本榜单时间：2022/10/01 00:40:11 ~ 2022/10/13 06:45:33
 </p>
 </blockquote>
 <p>
@@ -5871,6 +5871,12 @@ boss直聘现多个无厘头职位名称（热度：334747）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9D%A1%E7%9D%80%E4%BA%86%E8%BF%9E%E6%88%91%E8%87%AA%E5%B7%B1%E9%83%BD%E5%AE%B3%E6%80%95%23" target="weibo">
+我睡着了连我自己都害怕（热度：331741）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23gidle%E6%96%B0%E4%B8%93%E8%BE%91%E9%A2%84%E5%94%AE%E9%87%8F%E7%AA%81%E7%A0%B470%E4%B8%87%E5%BC%A0%23" target="weibo">
 gidle新专辑预售量突破70万张（热度：331496）
 </a>
@@ -6005,12 +6011,6 @@ WB对战eStar（热度：322529）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A1%97%E8%88%9E5%E6%80%BB%E5%86%B3%E8%B5%9B%E5%9C%A8%E6%BE%B3%E9%97%A8%E5%BD%95%E5%88%B6%23" target="weibo">
 街舞5总决赛在澳门录制（热度：322021）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%9B%A2vs%E8%91%A1%E8%90%84%E7%89%99%E5%A5%B3%E5%9B%A2%23" target="weibo">
-中国女团vs葡萄牙女团（热度：321705）
 </a>
 </li>
 

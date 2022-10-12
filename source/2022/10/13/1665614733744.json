@@ -1,0 +1,410 @@
+{
+  "runTime": 1665614733744,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 586252,
+        "num": 586252,
+        "word": "月子中心在鸡汤里加党参被罚",
+        "onboard_time": 1665587845,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331741,
+        "num": 331741,
+        "word": "我睡着了连我自己都害怕",
+        "onboard_time": 1665591143,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 33056,
+        "num": 316679,
+        "word": "中国的十个维度",
+        "onboard_time": 1665579743,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311004,
+        "num": 311004,
+        "word": "三天肩膀就练薄了",
+        "onboard_time": 1665574465,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249677,
+        "num": 249677,
+        "word": "我国将建立世界最大国家公园体系",
+        "onboard_time": 1665608530,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208160,
+        "num": 208160,
+        "word": "12岁女孩看自己5岁视频一脸惊讶",
+        "onboard_time": 1665587304,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128128,
+        "num": 128128,
+        "word": "父亲10年为女儿QQ点赞3.7万次",
+        "onboard_time": 1665601991,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124663,
+        "num": 124663,
+        "word": "南京大学首次跻身世界大学排名百强",
+        "onboard_time": 1665593177,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 122984,
+        "num": 122984,
+        "word": "原来鼻炎也是要忌口的",
+        "onboard_time": 1665582926,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116401,
+        "num": 116401,
+        "word": "23岁猫咪被众人围观一脸淡定",
+        "onboard_time": 1665587785,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202666,
+        "num": 113757,
+        "word": "这就是骨相美人吧",
+        "onboard_time": 1665582267,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172083,
+        "num": 113592,
+        "word": "李宇春强直性脊柱炎",
+        "onboard_time": 1665572245,
+        "rank": 11,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 141992,
+        "num": 112978,
+        "word": "男子将妈妈38年前做的布鞋当挂件",
+        "onboard_time": 1665609971,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109228,
+        "num": 109228,
+        "word": "战损美学天花板",
+        "onboard_time": 1665609371,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 94799,
+        "num": 94799,
+        "word": "北京首批毕业生公寓全装修新房月租2000元起",
+        "onboard_time": 1665600013,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113264,
+        "num": 92790,
+        "word": "女子割完双眼皮老公要求分房睡",
+        "onboard_time": 1665565340,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80501,
+        "num": 80501,
+        "word": "男子胸口的蓝牙耳机突然喷火",
+        "onboard_time": 1665600732,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76440,
+        "num": 76440,
+        "word": "杭州真的很适合减肥",
+        "onboard_time": 1665574284,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 73135,
+        "num": 73135,
+        "word": "女子网购运动鞋穿一周拆出剪刀",
+        "onboard_time": 1665580223,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70879,
+        "num": 70879,
+        "word": "13岁哥哥教6岁弟弟拼音被气哭",
+        "onboard_time": 1665604091,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70647,
+        "num": 70647,
+        "word": "唐朝诡事录",
+        "onboard_time": 1665572364,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 67640,
+        "num": 67640,
+        "word": "男生经常夸容貌焦虑女友你好漂亮",
+        "onboard_time": 1665590840,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60064,
+        "num": 60064,
+        "word": "日产汽车1欧元出售在俄业务",
+        "onboard_time": 1665596774,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 53983,
+        "num": 53983,
+        "word": "进返京人员返京后居家健康监测三天",
+        "onboard_time": 1665579387,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52679,
+        "num": 52679,
+        "word": "伴娘拿麻将六万随礼看懵记账大爷",
+        "onboard_time": 1665569607,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51939,
+        "num": 51939,
+        "word": "庄羽把虞美人写进论文里",
+        "onboard_time": 1665585807,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 50347,
+        "num": 50347,
+        "word": "医生悄悄垫付手术费12年后患者归还",
+        "onboard_time": 1665570086,
+        "rank": 26,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 48192,
+        "num": 48192,
+        "word": "男子酒后骑自行车被认定酒驾",
+        "onboard_time": 1665576265,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46419,
+        "num": 46419,
+        "word": "俄媒称俄对欧输油管道发现泄漏点",
+        "onboard_time": 1665573385,
+        "rank": 28,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 44610,
+        "num": 44610,
+        "word": "原来泡面和番茄这么配",
+        "onboard_time": 1665583645,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 44137,
+        "num": 44137,
+        "word": "虞书欣发长文告别虞美人",
+        "onboard_time": 1665582745,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 42993,
+        "num": 42993,
+        "word": "带着情绪过夜的人在想什么",
+        "onboard_time": 1665584487,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 41985,
+        "num": 41985,
+        "word": "男子戴网购耳机起火如同放烟花",
+        "onboard_time": 1665602530,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40959,
+        "num": 40959,
+        "word": "12岁小学生身高1.9米被体育局相中",
+        "onboard_time": 1665564383,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38812,
+        "num": 38812,
+        "word": "新娘端庄大方被赞国泰民安脸",
+        "onboard_time": 1665562944,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33471,
+        "num": 33471,
+        "word": "脱口秀大会",
+        "onboard_time": 1665585327,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30417,
+        "num": 30417,
+        "word": "男子瘸腿走路流浪狗跟在后面学",
+        "onboard_time": 1665612433,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29730,
+        "num": 29730,
+        "word": "妈妈以为宝宝吐奶拍背后吐出图钉",
+        "onboard_time": 1665563783,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29099,
+        "num": 29099,
+        "word": "孙怡男人装十月封面",
+        "onboard_time": 1665566543,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 27419,
+        "num": 27419,
+        "word": "张杰像真的一样发行一周年",
+        "onboard_time": 1665585208,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 26930,
+        "num": 26930,
+        "word": "TI11名单确认",
+        "onboard_time": 1665607510,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 26903,
+        "num": 26903,
+        "word": "两个人的小森林大结局你满意吗",
+        "onboard_time": 1665580948,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23580,
+        "num": 23580,
+        "word": "95岁老人分别60年后重逢登记结婚",
+        "onboard_time": 1665568225,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23536,
+        "num": 23536,
+        "word": "醉酒驾驶非机动车也属违法行为",
+        "onboard_time": 1665604510,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22966,
+        "num": 22966,
+        "word": "周迅与旗袍的适配度",
+        "onboard_time": 1665614596,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 22233,
+        "num": 22233,
+        "word": "什么家庭经得住这么拆家啊",
+        "onboard_time": 1665571345,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19995,
+        "num": 19995,
+        "word": "李彩演今天solo出道",
+        "onboard_time": 1665604450,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 16233,
+        "num": 16233,
+        "word": "毛豆好笑",
+        "onboard_time": 1665580885,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16093,
+        "num": 16093,
+        "word": "你最近一次大哭是为什么",
+        "onboard_time": 1665575183,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15954,
+        "num": 15954,
+        "word": "中国U17女足世界杯开门红",
+        "onboard_time": 1665581005,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#十九届七中全会公报#"
+    }
+  }
+}
