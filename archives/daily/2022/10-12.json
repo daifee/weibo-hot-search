@@ -1,6 +1,6 @@
 {
   "startTime": 1665506336170,
-  "endTime": 1665579177669,
+  "endTime": 1665581166720,
   "band_list": [
     {
       "raw_hot": 2462380,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1213588,
-      "num": 310700,
+      "num": 317449,
       "word": "李宇春强直性脊柱炎",
       "onboard_time": 1665572245,
       "rank": 10,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 872445,
+      "num": 872445,
+      "word": "三天肩膀就练薄了",
+      "onboard_time": 1665574465,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 868800,
       "num": 868800,
       "word": "12岁小学生身高1.9米被体育局相中",
@@ -193,14 +201,6 @@
       "onboard_time": 1665557302,
       "rank": 20,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 754032,
-      "num": 754032,
-      "word": "三天肩膀就练薄了",
-      "onboard_time": 1665574465,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 752415,
@@ -347,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 544328,
+      "num": 544328,
+      "word": "唐朝诡事录",
+      "onboard_time": 1665572364,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 543865,
       "num": 543865,
       "word": "新娘被接走妈妈独自躲厨房流泪",
@@ -395,14 +403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 472913,
-      "num": 472913,
-      "word": "唐朝诡事录",
-      "onboard_time": 1665572364,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 465357,
       "num": 446420,
       "word": "王一博叶秘手上沾血",
@@ -417,6 +417,14 @@
       "onboard_time": 1665545004,
       "rank": 13,
       "category": "网红"
+    },
+    {
+      "raw_hot": 461149,
+      "num": 461149,
+      "word": "男子酒后骑自行车被认定酒驾",
+      "onboard_time": 1665576265,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 453844,
@@ -468,7 +476,7 @@
     },
     {
       "raw_hot": 430288,
-      "num": 297050,
+      "num": 297358,
       "word": "孙怡男人装十月封面",
       "onboard_time": 1665566543,
       "rank": 19,
@@ -505,6 +513,14 @@
       "onboard_time": 1665573385,
       "rank": 45,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 399704,
+      "num": 399704,
+      "word": "两个人的小森林大结局你满意吗",
+      "onboard_time": 1665580948,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 399003,
@@ -673,6 +689,14 @@
       "onboard_time": 1665546626,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 310288,
+      "num": 310288,
+      "word": "进返京人员返京后居家健康监测三天",
+      "onboard_time": 1665579387,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 309730,
@@ -923,14 +947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 224221,
-      "num": 224221,
-      "word": "男子酒后骑自行车被认定酒驾",
-      "onboard_time": 1665576265,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 216577,
       "num": 216577,
       "word": "姆巴佩与巴黎关系破裂",
@@ -1051,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189431,
+      "num": 189431,
+      "word": "毛豆好笑",
+      "onboard_time": 1665580885,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187408,
       "num": 176650,
       "word": "欧阳娜娜又双叒叕入股了新cp",
@@ -1123,6 +1147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 170502,
+      "num": 170502,
+      "word": "你最近一次大哭是为什么",
+      "onboard_time": 1665575183,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 170136,
       "num": 162375,
       "word": "宋茜诉网友侵权获赔3万",
@@ -1139,12 +1171,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 166241,
-      "num": 166241,
-      "word": "你最近一次大哭是为什么",
-      "onboard_time": 1665575183,
-      "rank": 21,
-      "category": "情感"
+      "raw_hot": 166325,
+      "num": 166325,
+      "word": "女子网购运动鞋穿一周拆出剪刀",
+      "onboard_time": 1665580223,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162375,
@@ -1161,6 +1193,14 @@
       "onboard_time": 1665500728,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 158911,
+      "num": 158911,
+      "word": "刚毕业时花的冤枉钱",
+      "onboard_time": 1665577223,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 158673,
@@ -1243,6 +1283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 149108,
+      "num": 149108,
+      "word": "黄子韬YKYB是街舞5导演放狠话嘴替",
+      "onboard_time": 1665578005,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148998,
       "num": 136144,
       "word": "刘宪华新歌大漏勺",
@@ -1273,6 +1321,14 @@
       "onboard_time": 1665490225,
       "rank": 19,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 145415,
+      "num": 145415,
+      "word": "北京昌平新增3例阳性检测者",
+      "onboard_time": 1665578124,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143981,
@@ -1323,6 +1379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 131340,
+      "num": 131340,
+      "word": "王一博镜中对视大片",
+      "onboard_time": 1665577884,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 129893,
       "num": 129893,
       "word": "鞠婧祎名誉维权案件进展",
@@ -1347,12 +1411,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124024,
-      "num": 124024,
-      "word": "黄子韬YKYB是街舞5导演放狠话嘴替",
-      "onboard_time": 1665578005,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 125399,
+      "num": 125399,
+      "word": "中国U17女足世界杯开门红",
+      "onboard_time": 1665581005,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 122948,
@@ -1395,12 +1459,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 113753,
-      "num": 113753,
-      "word": "王一博镜中对视大片",
-      "onboard_time": 1665577884,
-      "rank": 31,
-      "category": "作品衍生,时尚"
+      "raw_hot": 111946,
+      "num": 111946,
+      "word": "电视剧大考真实",
+      "onboard_time": 1665579806,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 108574,
@@ -1417,22 +1481,6 @@
       "onboard_time": 1665549868,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 107744,
-      "num": 107744,
-      "word": "刚毕业时花的冤枉钱",
-      "onboard_time": 1665577223,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 106054,
-      "num": 106054,
-      "word": "北京昌平新增3例阳性检测者",
-      "onboard_time": 1665578124,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102218,
@@ -1491,6 +1539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94839,
+      "num": 94839,
+      "word": "关节反复咔咔响注意病理性弹响",
+      "onboard_time": 1665578303,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94026,
       "num": 94026,
       "word": "我国仅30%产妇使用无痛分娩",
@@ -1547,6 +1603,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 86837,
+      "num": 86837,
+      "word": "小学生们跳绳跳出了舞的感觉",
+      "onboard_time": 1665578964,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86695,
       "num": 86695,
       "word": "孙杨无名指上戴戒指",
@@ -1571,14 +1635,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 78926,
-      "num": 78926,
-      "word": "小学生们跳绳跳出了舞的感觉",
-      "onboard_time": 1665578964,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 78216,
       "num": 78216,
       "word": "网购必备神图",
@@ -1587,12 +1643,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 77594,
+      "num": 77594,
+      "word": "如果瘦手臂训练有天花板",
+      "onboard_time": 1665580344,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77275,
       "num": 77275,
       "word": "何同学后空翻",
       "onboard_time": 1665493227,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 75483,
+      "num": 75483,
+      "word": "荣梓杉发文告别周游和吴家俊",
+      "onboard_time": 1665579864,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 74405,
+      "num": 74405,
+      "word": "广东男篮抵达杭州赛区",
+      "onboard_time": 1665580765,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 73384,
@@ -1657,14 +1737,6 @@
       "onboard_time": 1665573326,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 66046,
-      "num": 66046,
-      "word": "关节反复咔咔响注意病理性弹响",
-      "onboard_time": 1665578303,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 65864,
@@ -1771,10 +1843,26 @@
       "category": "影视"
     },
     {
+      "raw_hot": 35085,
+      "num": 695522,
+      "word": "中国的十个维度",
+      "onboard_time": 1665579743,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30764,
       "num": 270799,
       "word": "95后小伙4年献血45次还捐干细胞",
       "onboard_time": 1665543623,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29933,
+      "num": 244510,
+      "word": "神奇的太空微重力环境",
+      "onboard_time": 1665579684,
       "rank": 14,
       "category": "社会新闻"
     },
