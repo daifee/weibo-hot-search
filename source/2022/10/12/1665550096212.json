@@ -1,0 +1,410 @@
+{
+  "runTime": 1665550096212,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1964972,
+        "num": 1964972,
+        "word": "突然意识到自己真的很好",
+        "onboard_time": 1665533124,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1655784,
+        "num": 1655784,
+        "word": "8月婴儿误吞香蕉海姆立克法失效",
+        "onboard_time": 1665544705,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10321,
+        "num": 1329121,
+        "word": "180秒看见最可爱的中国",
+        "onboard_time": 1665471804,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1162937,
+        "num": 1162937,
+        "word": "白鹿王鹤棣以爱为营班底",
+        "onboard_time": 1665549207,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 597879,
+        "num": 597879,
+        "word": "26岁的她开车样子太帅了",
+        "onboard_time": 1665541644,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 825958,
+        "num": 595699,
+        "word": "保时捷卖中国标准菜刀售价1700元",
+        "onboard_time": 1665542724,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579853,
+        "num": 579853,
+        "word": "春熙路到底有多少只熊猫",
+        "onboard_time": 1665546806,
+        "rank": 6,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 543865,
+        "num": 543865,
+        "word": "新娘被接走妈妈独自躲厨房流泪",
+        "onboard_time": 1665545426,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391248,
+        "num": 391248,
+        "word": "分手了会删朋友圈吗",
+        "onboard_time": 1665533609,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 381717,
+        "num": 381717,
+        "word": "17岁少年长期熬夜打游戏多病齐发",
+        "onboard_time": 1665538825,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1924274,
+        "num": 380362,
+        "word": "乌合麒麟",
+        "onboard_time": 1665544884,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 443964,
+        "num": 375887,
+        "word": "高校回应毛概女老师被赞神仙颜值",
+        "onboard_time": 1665548366,
+        "rank": 11,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 412146,
+        "num": 374755,
+        "word": "aespa出镜nylon十月刊",
+        "onboard_time": 1665548246,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 414369,
+        "num": 371791,
+        "word": "花噎菜",
+        "onboard_time": 1665545004,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 369530,
+        "num": 369530,
+        "word": "许凯虞书欣仙剑六空中吻戏路透",
+        "onboard_time": 1665547282,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 311972,
+        "num": 311972,
+        "word": "今天本来是我的快乐周五",
+        "onboard_time": 1665546626,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 298359,
+        "num": 298359,
+        "word": "沙丘2提前上映",
+        "onboard_time": 1665542542,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 292390,
+        "num": 292390,
+        "word": "邱少云牺牲时手指几乎都插入土中",
+        "onboard_time": 1665532946,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285126,
+        "num": 285126,
+        "word": "中国取暖设备火到欧洲",
+        "onboard_time": 1665536007,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283711,
+        "num": 283711,
+        "word": "狗狗丢失月余跑回主人抱狗大哭",
+        "onboard_time": 1665544464,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308082,
+        "num": 273019,
+        "word": "错撩",
+        "onboard_time": 1665535108,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253823,
+        "num": 253823,
+        "word": "爸爸拿喇叭赶3胞胎回家吃饭",
+        "onboard_time": 1665546567,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253666,
+        "num": 253666,
+        "word": "日本固体燃料火箭埃普西隆发射失败",
+        "onboard_time": 1665547282,
+        "rank": 22,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 231136,
+        "num": 231136,
+        "word": "中国人民公安大学74周年校庆",
+        "onboard_time": 1665547525,
+        "rank": 23,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 211472,
+        "num": 211472,
+        "word": "女子给乞讨老人5角钱被嫌少扔回",
+        "onboard_time": 1665533186,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208679,
+        "num": 208679,
+        "word": "湖南120米深洞底发现大熊猫化石",
+        "onboard_time": 1665542604,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199488,
+        "num": 199488,
+        "word": "老累 禾野",
+        "onboard_time": 1665501567,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 198239,
+        "num": 198239,
+        "word": "周深中国国家公园主题曲",
+        "onboard_time": 1665544043,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 191489,
+        "num": 191489,
+        "word": "英特尔将裁员数千人",
+        "onboard_time": 1665542364,
+        "rank": 28,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 189667,
+        "num": 189667,
+        "word": "小伙上大学后沉迷游戏20年没回家",
+        "onboard_time": 1665537687,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183756,
+        "num": 183756,
+        "word": "你好二十大",
+        "onboard_time": 1665548666,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169594,
+        "num": 169594,
+        "word": "狗子去邻家蹭饭还把人家桌子掀了",
+        "onboard_time": 1665538166,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150410,
+        "num": 150410,
+        "word": "猫和猫腿果然是两种生物",
+        "onboard_time": 1665535767,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148462,
+        "num": 148462,
+        "word": "游戏王作者因见义勇为去世",
+        "onboard_time": 1665549806,
+        "rank": 33,
+        "category": "社会新闻,动漫"
+      },
+      {
+        "raw_hot": 146478,
+        "num": 146478,
+        "word": "10月11日新增本土确诊374例",
+        "onboard_time": 1665537445,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146168,
+        "num": 146168,
+        "word": "狗狗吃泡芙后不肯吃狗粮饿脱水",
+        "onboard_time": 1665531564,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133799,
+        "num": 133799,
+        "word": "开拓者vs勇士",
+        "onboard_time": 1665545666,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129617,
+        "num": 129617,
+        "word": "女婿给岳父塞5千回家发现1万红包",
+        "onboard_time": 1665500067,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117059,
+        "num": 117059,
+        "word": "网传王凯谭松韵向风而行将Q4播出",
+        "onboard_time": 1665530420,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110266,
+        "num": 110266,
+        "word": "老公误把酵母粉当感冒药给老婆喝",
+        "onboard_time": 1665497905,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104236,
+        "num": 104236,
+        "word": "许光汉林柏宏新片先导预告",
+        "onboard_time": 1665545004,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 101940,
+        "num": 101940,
+        "word": "配眼镜前看到真是我的福气",
+        "onboard_time": 1665549629,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92746,
+        "num": 92746,
+        "word": "两个人的小森林收官海报",
+        "onboard_time": 1665543024,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 92265,
+        "num": 92265,
+        "word": "女子用狗狗拉粑粑照给狗办证",
+        "onboard_time": 1665505224,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89971,
+        "num": 89971,
+        "word": "这是邱少云被烧焦的棉衣碎片",
+        "onboard_time": 1665541164,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80667,
+        "num": 80667,
+        "word": "淘宝上线老年人专属人工客服",
+        "onboard_time": 1665549989,
+        "rank": 45,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 77644,
+        "num": 77644,
+        "word": "一时间我竟分不出谁是主角",
+        "onboard_time": 1665549868,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75326,
+        "num": 75326,
+        "word": "鞠婧祎名誉维权案件进展",
+        "onboard_time": 1665544285,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72162,
+        "num": 72162,
+        "word": "国产青春校园剧的质量等级",
+        "onboard_time": 1665540323,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 71991,
+        "num": 71991,
+        "word": "欧冠",
+        "onboard_time": 1665538104,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#党的二十大新闻发布会#"
+    }
+  }
+}

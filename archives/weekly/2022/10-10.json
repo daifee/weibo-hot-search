@@ -1,6 +1,6 @@
 {
   "startTime": 1665333308168,
-  "endTime": 1665549288464,
+  "endTime": 1665550096212,
   "band_list": [
     {
       "raw_hot": 3745884,
@@ -243,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1162937,
+      "num": 1162937,
+      "word": "白鹿王鹤棣以爱为营班底",
+      "onboard_time": 1665549207,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1162865,
       "num": 740555,
       "word": "DRX战胜TES",
@@ -273,14 +281,6 @@
       "onboard_time": 1665391046,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1067009,
-      "num": 1067009,
-      "word": "白鹿王鹤棣以爱为营班底",
-      "onboard_time": 1665549207,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 1063622,
@@ -859,6 +859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 579853,
+      "num": 579853,
+      "word": "春熙路到底有多少只熊猫",
+      "onboard_time": 1665546806,
+      "rank": 8,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 577567,
       "num": 577567,
       "word": "让狗愧疚一辈子",
@@ -945,6 +953,14 @@
       "onboard_time": 1665364346,
       "rank": 6,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 543865,
+      "num": 543865,
+      "word": "新娘被接走妈妈独自躲厨房流泪",
+      "onboard_time": 1665545426,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 541594,
@@ -1196,7 +1212,7 @@
     },
     {
       "raw_hot": 462809,
-      "num": 359854,
+      "num": 371791,
       "word": "花噎菜",
       "onboard_time": 1665545004,
       "rank": 13,
@@ -1257,6 +1273,14 @@
       "onboard_time": 1665466703,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 443964,
+      "num": 375887,
+      "word": "高校回应毛概女老师被赞神仙颜值",
+      "onboard_time": 1665548366,
+      "rank": 26,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 442288,
@@ -1443,28 +1467,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 394102,
-      "num": 394102,
-      "word": "春熙路到底有多少只熊猫",
-      "onboard_time": 1665546806,
-      "rank": 8,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 392531,
       "num": 392531,
       "word": "NewThing疑似抄袭ATEEZ编舞",
       "onboard_time": 1665389666,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 391178,
-      "num": 391178,
-      "word": "新娘被接走妈妈独自躲厨房流泪",
-      "onboard_time": 1665545426,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 390028,
@@ -1571,6 +1579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 369530,
+      "num": 369530,
+      "word": "许凯虞书欣仙剑六空中吻戏路透",
+      "onboard_time": 1665547282,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 364521,
       "num": 364521,
       "word": "莎头",
@@ -1593,14 +1609,6 @@
       "onboard_time": 1665323244,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 359951,
-      "num": 359951,
-      "word": "许凯虞书欣仙剑六空中吻戏路透",
-      "onboard_time": 1665547282,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 359266,
@@ -1875,6 +1883,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 311972,
+      "num": 311972,
+      "word": "今天本来是我的快乐周五",
+      "onboard_time": 1665546626,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 311488,
       "num": 311488,
       "word": "汪苏泷一年发两张专辑",
@@ -1977,14 +1993,6 @@
       "onboard_time": 1665376947,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 285592,
-      "num": 285592,
-      "word": "今天本来是我的快乐周五",
-      "onboard_time": 1665546626,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 284717,
@@ -2283,6 +2291,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 253823,
+      "num": 253823,
+      "word": "爸爸拿喇叭赶3胞胎回家吃饭",
+      "onboard_time": 1665546567,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253666,
+      "num": 253666,
+      "word": "日本固体燃料火箭埃普西隆发射失败",
+      "onboard_time": 1665547282,
+      "rank": 29,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 253449,
       "num": 253449,
       "word": "中国女排今晚再次迎战意大利",
@@ -2379,14 +2403,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 235259,
-      "num": 235259,
-      "word": "爸爸拿喇叭赶3胞胎回家吃饭",
-      "onboard_time": 1665546567,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 233560,
       "num": 233560,
       "word": "爱的二八定律花式抱疯狂上分",
@@ -2441,14 +2457,6 @@
       "onboard_time": 1665499046,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 229773,
-      "num": 229773,
-      "word": "高校回应毛概女老师被赞神仙颜值",
-      "onboard_time": 1665548366,
-      "rank": 26,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 229177,
@@ -2809,14 +2817,6 @@
       "onboard_time": 1665537505,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 192545,
-      "num": 192545,
-      "word": "日本固体燃料火箭埃普西隆发射失败",
-      "onboard_time": 1665547282,
-      "rank": 29,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 192327,
@@ -3257,6 +3257,14 @@
       "onboard_time": 1665408383,
       "rank": 29,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 148462,
+      "num": 148462,
+      "word": "游戏王作者因见义勇为去世",
+      "onboard_time": 1665549806,
+      "rank": 33,
+      "category": "社会新闻,动漫"
     },
     {
       "raw_hot": 148273,
@@ -3843,6 +3851,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 101940,
+      "num": 101940,
+      "word": "配眼镜前看到真是我的福气",
+      "onboard_time": 1665549629,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 101912,
       "num": 101912,
       "word": "抚顺疫情防控",
@@ -4147,12 +4163,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 80667,
+      "num": 80667,
+      "word": "淘宝上线老年人专属人工客服",
+      "onboard_time": 1665549989,
+      "rank": 45,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 78741,
       "num": 78741,
       "word": "熊孩子不上学躲自家衣柜玩手机",
       "onboard_time": 1665347830,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77644,
+      "num": 77644,
+      "word": "一时间我竟分不出谁是主角",
+      "onboard_time": 1665549868,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 77546,
@@ -4172,7 +4204,7 @@
     },
     {
       "raw_hot": 75772,
-      "num": 1093051,
+      "num": 1329121,
       "word": "180秒看见最可爱的中国",
       "onboard_time": 1665471804,
       "rank": 2,
