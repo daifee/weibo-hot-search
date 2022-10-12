@@ -1,6 +1,6 @@
 {
   "startTime": 1665506336170,
-  "endTime": 1665584135421,
+  "endTime": 1665585818085,
   "band_list": [
     {
       "raw_hot": 2462380,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1378202,
+      "num": 1378202,
+      "word": "三天肩膀就练薄了",
+      "onboard_time": 1665574465,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1368121,
       "num": 1253905,
       "word": "李国庆建议四成大学生毕业后歇一年",
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 1213588,
-      "num": 336413,
+      "num": 479537,
       "word": "李宇春强直性脊柱炎",
       "onboard_time": 1665572245,
       "rank": 10,
@@ -91,12 +99,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1154873,
-      "num": 1154873,
-      "word": "三天肩膀就练薄了",
-      "onboard_time": 1665574465,
-      "rank": 20,
-      "category": "体育"
+      "raw_hot": 1059119,
+      "num": 481127,
+      "word": "这就是骨相美人吧",
+      "onboard_time": 1665582267,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1057537,
@@ -137,14 +145,6 @@
       "onboard_time": 1665574284,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 954719,
-      "num": 334729,
-      "word": "这就是骨相美人吧",
-      "onboard_time": 1665582267,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 901750,
@@ -209,6 +209,14 @@
       "onboard_time": 1665557302,
       "rank": 20,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 757697,
+      "num": 757697,
+      "word": "虞书欣发长文告别虞美人",
+      "onboard_time": 1665582745,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 752415,
@@ -291,14 +299,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 666327,
-      "num": 666327,
-      "word": "虞书欣发长文告别虞美人",
-      "onboard_time": 1665582745,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 664656,
       "num": 664656,
       "word": "26岁的她开车样子太帅了",
@@ -331,12 +331,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 628131,
+      "num": 628131,
+      "word": "原来鼻炎也是要忌口的",
+      "onboard_time": 1665582926,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 620360,
       "num": 272301,
       "word": "六公主评陈哲远沈月我的反派男友",
       "onboard_time": 1665568344,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 609696,
+      "num": 609696,
+      "word": "网传杨紫青簪行2023年播出",
+      "onboard_time": 1665585628,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 581519,
@@ -403,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 506894,
+      "num": 506894,
+      "word": "原来泡面和番茄这么配",
+      "onboard_time": 1665583645,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 505464,
       "num": 255760,
       "word": "二十大召开时间",
@@ -433,6 +457,14 @@
       "onboard_time": 1665576265,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 469297,
+      "num": 469297,
+      "word": "豆豆吐槽大学教务网",
+      "onboard_time": 1665584487,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 465357,
@@ -891,14 +923,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 256077,
-      "num": 256077,
-      "word": "原来鼻炎也是要忌口的",
-      "onboard_time": 1665582926,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 253823,
       "num": 253823,
       "word": "爸爸拿喇叭赶3胞胎回家吃饭",
@@ -947,12 +971,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 246527,
-      "num": 246527,
-      "word": "原来泡面和番茄这么配",
-      "onboard_time": 1665583645,
-      "rank": 18,
-      "category": "美食"
+      "raw_hot": 245342,
+      "num": 204028,
+      "word": "脱口秀大会",
+      "onboard_time": 1665496766,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 244431,
@@ -995,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222454,
+      "num": 222454,
+      "word": "带着情绪过夜的人在想什么",
+      "onboard_time": 1665584487,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 216577,
       "num": 216577,
       "word": "姆巴佩与巴黎关系破裂",
@@ -1009,6 +1041,14 @@
       "onboard_time": 1665577884,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 213228,
+      "num": 213228,
+      "word": "张大仙亲测拔牙瘦脸",
+      "onboard_time": 1665584906,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 212021,
@@ -1137,6 +1177,14 @@
       "onboard_time": 1665548666,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183179,
+      "num": 135486,
+      "word": "何广智我长得就那么正点吗",
+      "onboard_time": 1665585628,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 181896,
@@ -1273,6 +1321,14 @@
       "onboard_time": 1665572664,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154655,
+      "num": 131745,
+      "word": "张杰像真的一样发行一周年",
+      "onboard_time": 1665585208,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 154088,
@@ -1416,6 +1472,14 @@
       "word": "唐朝诡事录今晚大结局",
       "onboard_time": 1665565283,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 132885,
+      "num": 72635,
+      "word": "庄羽把虞美人写进论文里",
+      "onboard_time": 1665585807,
+      "rank": 47,
       "category": "影视"
     },
     {
@@ -1739,14 +1803,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 69150,
-      "num": 69150,
-      "word": "脱口秀大会",
-      "onboard_time": 1665496766,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 68904,
       "num": 68904,
       "word": "养猫前后生活上发生的变化",
@@ -1859,6 +1915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50151,
+      "num": 287648,
+      "word": "珍珠奶茶比奶茶更不容易晃出来吗",
+      "onboard_time": 1665583228,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49907,
       "num": 49907,
       "word": "绘画会被AI替代吗",
@@ -1903,14 +1967,6 @@
       "num": 270799,
       "word": "95后小伙4年献血45次还捐干细胞",
       "onboard_time": 1665543623,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28047,
-      "num": 287648,
-      "word": "珍珠奶茶比奶茶更不容易晃出来吗",
-      "onboard_time": 1665583228,
       "rank": 14,
       "category": "社会新闻"
     },
