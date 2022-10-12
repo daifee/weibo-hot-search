@@ -1,6 +1,6 @@
 {
   "startTime": 1665506336170,
-  "endTime": 1665544528492,
+  "endTime": 1665549288464,
   "band_list": [
     {
       "raw_hot": 2462380,
@@ -9,6 +9,22 @@
       "onboard_time": 1665533124,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1959875,
+      "num": 385417,
+      "word": "乌合麒麟",
+      "onboard_time": 1665544884,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 1693346,
+      "num": 1693346,
+      "word": "8月婴儿误吞香蕉海姆立克法失效",
+      "onboard_time": 1665544705,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1312681,
@@ -27,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1067009,
+      "num": 1067009,
+      "word": "白鹿王鹤棣以爱为营班底",
+      "onboard_time": 1665549207,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1031848,
       "num": 1031848,
       "word": "邱少云牺牲时手指几乎都插入土中",
@@ -43,8 +67,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 908953,
-      "num": 908953,
+      "raw_hot": 979920,
+      "num": 979920,
       "word": "保时捷卖中国标准菜刀售价1700元",
       "onboard_time": 1665542724,
       "rank": 3,
@@ -83,6 +107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 664656,
+      "num": 664656,
+      "word": "26岁的她开车样子太帅了",
+      "onboard_time": 1665541644,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 651781,
       "num": 651781,
       "word": "小伙上大学后沉迷游戏20年没回家",
@@ -97,14 +129,6 @@
       "onboard_time": 1665535108,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 574882,
-      "num": 337304,
-      "word": "26岁的她开车样子太帅了",
-      "onboard_time": 1665541644,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 568374,
@@ -139,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 462809,
+      "num": 359854,
+      "word": "花噎菜",
+      "onboard_time": 1665545004,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 452378,
       "num": 452378,
       "word": "女子给乞讨老人5角钱被嫌少扔回",
@@ -163,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 426975,
+      "num": 375604,
+      "word": "aespa出镜nylon十月刊",
+      "onboard_time": 1665548246,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 421242,
       "num": 421242,
       "word": "眼睛对于颜值的影响有多大",
@@ -176,6 +216,22 @@
       "word": "上海自来水供应正常有序",
       "onboard_time": 1665500609,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 394102,
+      "num": 394102,
+      "word": "春熙路到底有多少只熊猫",
+      "onboard_time": 1665546806,
+      "rank": 8,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 391178,
+      "num": 391178,
+      "word": "新娘被接走妈妈独自躲厨房流泪",
+      "onboard_time": 1665545426,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -193,6 +249,22 @@
       "onboard_time": 1665519191,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 359951,
+      "num": 359951,
+      "word": "许凯虞书欣仙剑六空中吻戏路透",
+      "onboard_time": 1665547282,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 358140,
+      "num": 358140,
+      "word": "沙丘2提前上映",
+      "onboard_time": 1665542542,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 350618,
@@ -251,12 +323,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 291424,
-      "num": 291424,
-      "word": "沙丘2提前上映",
-      "onboard_time": 1665542542,
-      "rank": 13,
-      "category": "影视"
+      "raw_hot": 285592,
+      "num": 285592,
+      "word": "今天本来是我的快乐周五",
+      "onboard_time": 1665546626,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 284717,
+      "num": 284717,
+      "word": "狗狗丢失月余跑回主人抱狗大哭",
+      "onboard_time": 1665544464,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 281321,
@@ -299,12 +379,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 249724,
+      "num": 249724,
+      "word": "湖南120米深洞底发现大熊猫化石",
+      "onboard_time": 1665542604,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248105,
+      "num": 248105,
+      "word": "中国人民公安大学74周年校庆",
+      "onboard_time": 1665547525,
+      "rank": 21,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 243689,
       "num": 243689,
       "word": "猫和猫腿果然是两种生物",
       "onboard_time": 1665535767,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 235259,
+      "num": 235259,
+      "word": "爸爸拿喇叭赶3胞胎回家吃饭",
+      "onboard_time": 1665546567,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233809,
@@ -315,12 +419,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 218775,
-      "num": 218775,
+      "raw_hot": 232568,
+      "num": 232568,
       "word": "英特尔将裁员数千人",
       "onboard_time": 1665542364,
       "rank": 19,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 229773,
+      "num": 229773,
+      "word": "高校回应毛概女老师被赞神仙颜值",
+      "onboard_time": 1665548366,
+      "rank": 26,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 216577,
@@ -329,14 +441,6 @@
       "onboard_time": 1665495027,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 214960,
-      "num": 214960,
-      "word": "湖南120米深洞底发现大熊猫化石",
-      "onboard_time": 1665542604,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 212021,
@@ -377,6 +481,14 @@
       "onboard_time": 1665537505,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192545,
+      "num": 192545,
+      "word": "日本固体燃料火箭埃普西隆发射失败",
+      "onboard_time": 1665547282,
+      "rank": 29,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 181896,
@@ -499,12 +611,28 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 143981,
+      "num": 143981,
+      "word": "开拓者vs勇士",
+      "onboard_time": 1665545666,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143025,
       "num": 143025,
       "word": "2022女排世锦赛",
       "onboard_time": 1665530720,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138394,
+      "num": 138394,
+      "word": "你好二十大",
+      "onboard_time": 1665548666,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137093,
@@ -553,6 +681,14 @@
       "onboard_time": 1665530359,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 114958,
+      "num": 114958,
+      "word": "许光汉林柏宏新片先导预告",
+      "onboard_time": 1665545004,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 114706,
@@ -657,14 +793,6 @@
       "onboard_time": 1665493227,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 74756,
-      "num": 74756,
-      "word": "狗狗丢失月余跑回主人抱狗大哭",
-      "onboard_time": 1665544464,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 73384,
@@ -836,7 +964,7 @@
     },
     {
       "raw_hot": 11423,
-      "num": 928920,
+      "num": 1093051,
       "word": "180秒看见最可爱的中国",
       "onboard_time": 1665471804,
       "rank": 2,
